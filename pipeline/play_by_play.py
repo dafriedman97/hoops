@@ -19,7 +19,7 @@ def get_game_pbp(game_id, date, home, vis):
     pbp.rename(columns=renamer, inplace=True)
 
     ## Get scores
-    pbp[[f'{home}_score', f'{vis}_score']] = pbp['score'].str.split(" - ", expand=True)
+    pbp[[f'{vis}_score', f'{home}_score']] = pbp['score'].str.split(" - ", expand=True)
     pbp.loc[0, f'{home}_score'] = 0
     pbp.loc[0, f'{vis}_score'] = 0
     pbp[f'{home}_score'] = pbp[f'{home}_score'].fillna(method="ffill").astype(int)
@@ -111,21 +111,30 @@ def get_game_pbp(game_id, date, home, vis):
     blocks['event'] = "block"
     pbp = pd.concat([pbp, blocks, steals], ignore_index=True).copy(deep=True)
     
-    ## Return
+    ## Time
+    pbp[['mins', 'secs']] = pbp['time'].str.split(":", expand=True).astype(int)
+    regulation_time = 12*(pbp['period']-1) + (11-pbp['mins']) + (60-pbp['secs'])/60
+    overtime_time = 5*(pbp['period']-5) + (4-pbp['mins']) + (60-pbp['secs'])/60
+    pbp['time'] = regulation_time*(pbp['period'] <= 4) + (pbp['period'] > 4)*(48+overtime_time)
+    pbp['time'] = pbp['time'].round(2)
+    pbp = pbp.sort_values(['time', f'{home}_score', f'{vis}_score']).reset_index(drop=True)
+
+    ## Final Touches
     pbp['home'] = home
     pbp['vis'] = vis
     pbp['date'] = date
-    pbp[['mins', 'secs']] = pbp['time'].str.split(":", expand=True).astype(int)
-    pbp = pbp.sort_values(['period', "mins", "secs"], ascending=[True, False, False]).reset_index(drop=True)
-    pbp = pbp[['game_id', 'date', 'home', 'vis', 'period', 'mins', 'secs', 'pos', 'team', 'event', 'event_deets', 'block', 'steal', f'{home}_desc', f'{vis}_desc', f'{home}_score', f'{vis}_score']].copy(deep=True)
+    pbp['score'] = pbp[f'{home}_score'].astype(str) + "-" + pbp[f'{vis}_score'].astype(str)
+    pbp = pbp[['game_id', 'date', 'home', 'vis', 'time', 'period', 'mins', 'secs', 'pos', 'team', 'event', 'event_deets', 'block', 'steal', f'{home}_desc', f'{vis}_desc', 'score', f'{home}_score', f'{vis}_score']].copy(deep=True)
     pbp.rename(columns={f'{home}_desc':'home_desc', f'{vis}_desc':'vis_desc', f'{home}_score':'home_score', f'{vis}_score':'vis_score'}, inplace=True)
+
+    ## Return
     return pbp
 
 if __name__ == "__main__":
     season = sys.argv[1]
     os.makedirs(data_dir / season, exist_ok=True)
     completed_games = os.listdir(data_dir / season)
-    games = leaguegamefinder.LeagueGameFinder(season_nullable="2021-22", season_type_nullable="Regular Season")
+    games = leaguegamefinder.LeagueGameFinder(season_nullable=season, season_type_nullable="Regular Season", league_id_nullable='00')
     games = games.get_data_frames()[0][['GAME_ID', 'GAME_DATE', 'MATCHUP']]
     games = games.loc[games['MATCHUP'].str.contains(" @ ")]
     games[['vis', 'home']] = games['MATCHUP'].str.split(" @ ", expand=True)
@@ -139,3 +148,4 @@ if __name__ == "__main__":
             pbp.to_csv(data_dir / season / filename, index=False)
         except:
             print(game['game_id'], game['home'], game['vis'])
+            break
