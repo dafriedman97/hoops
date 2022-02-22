@@ -178,8 +178,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900437,2019-12-21,PHX,HOU,22.68,2,1,19,HOU,HOU,fg_miss,105,False,False,,MISS Westbrook 13' Turnaround Fadeaway Bank Jump Shot,59-65,59,65
 0021900437,2019-12-21,PHX,HOU,22.73,2,1,16,PHX,PHX,reb,0,False,False,Johnson REBOUND (Off:0 Def:1),,59-65,59,65
 0021900437,2019-12-21,PHX,HOU,23.03,2,0,58,PHX,PHX,fg_miss,98,True,False,MISS Baynes 3' Cutting Layup Shot,,59-65,59,65
-0021900437,2019-12-21,PHX,HOU,23.03,2,0,58,PHX,PHX,reb,0,False,False,SUNS Rebound,,59-65,59,65
 0021900437,2019-12-21,PHX,HOU,23.03,2,0,58,PHX,HOU,block,98,True,False,block,block,59-65,59,65
+0021900437,2019-12-21,PHX,HOU,23.03,2,0,58,PHX,PHX,reb,0,False,False,SUNS Rebound,,59-65,59,65
 0021900437,2019-12-21,PHX,HOU,23.07,2,0,56,PHX,PHX,fg3_make,1,False,False,Johnson 28' 3PT Jump Shot (3 PTS) (Okobo 2 AST),,62-65,62,65
 0021900437,2019-12-21,PHX,HOU,23.33,2,0,40,HOU,HOU,fg_make,78,False,False,,Harden 16' Floating Jump Shot (26 PTS),62-67,62,67
 0021900437,2019-12-21,PHX,HOU,23.33,2,0,40,HOU,PHX,foul,2,False,False,Johnson S.FOUL (P1.PN) (S.Foster),,62-67,62,67
@@ -292,10 +292,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900437,2019-12-21,PHX,HOU,35.52,3,0,29,HOU,HOU,fg_make,41,False,False,,Westbrook 2' Running Layup (24 PTS),92-103,92,103
 0021900437,2019-12-21,PHX,HOU,35.85,3,0,9,PHX,PHX,fg3_make,1,False,False,Johnson 27' 3PT Jump Shot (9 PTS) (Oubre Jr. 4 AST),,95-103,95,103
 0021900437,2019-12-21,PHX,HOU,35.98,3,0,1,HOU,HOU,fg3_make,1,False,False,,Clark 28' 3PT Jump Shot (6 PTS) (Westbrook 8 AST),95-106,95,106
-0021900437,2019-12-21,PHX,HOU,36.0,3,0,0,PHX,PHX,fg3_miss,1,False,False,MISS Jerome 64' 3PT Jump Shot,,95-106,95,106
-0021900437,2019-12-21,PHX,HOU,36.0,3,0,0,PHX,PHX,reb,0,False,False,SUNS Rebound,,95-106,95,106
 0021900437,2019-12-21,PHX,HOU,36.0,3,0,0,PHX,,period_end,0,False,False,,,95-106,95,106
 0021900437,2019-12-21,PHX,HOU,36.0,4,12,0,PHX,,period_start,0,False,False,,,95-106,95,106
+0021900437,2019-12-21,PHX,HOU,36.0,3,0,0,PHX,PHX,fg3_miss,1,False,False,MISS Jerome 64' 3PT Jump Shot,,95-106,95,106
+0021900437,2019-12-21,PHX,HOU,36.0,3,0,0,PHX,PHX,reb,0,False,False,SUNS Rebound,,95-106,95,106
 0021900437,2019-12-21,PHX,HOU,36.27,4,11,44,PHX,HOU,foul,2,False,False,,Rivers S.FOUL (P1.T1) (K.Lane),95-106,95,106
 0021900437,2019-12-21,PHX,HOU,36.27,4,11,44,PHX,PHX,ft_make,11,False,False,Booker Free Throw 1 of 2 (11 PTS),,96-106,96,106
 0021900437,2019-12-21,PHX,HOU,36.27,4,11,44,PHX,PHX,ft_make,12,False,False,Booker Free Throw 2 of 2 (12 PTS),,97-106,97,106
@@ -358,14 +358,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900437,2019-12-21,PHX,HOU,42.88,4,5,7,HOU,HOU,fg3_miss,1,False,False,,MISS House Jr. 24' 3PT Jump Shot,112-130,112,130
 0021900437,2019-12-21,PHX,HOU,42.93,4,5,4,PHX,PHX,reb,0,False,False,Oubre Jr. REBOUND (Off:0 Def:5),,112-130,112,130
 0021900437,2019-12-21,PHX,HOU,43.1,4,4,54,PHX,PHX,fg_miss,101,True,False,MISS Saric 9' Driving Floating Jump Shot,,112-130,112,130
+0021900437,2019-12-21,PHX,HOU,43.1,4,4,54,PHX,HOU,block,101,True,False,block,block,112-130,112,130
 0021900437,2019-12-21,PHX,HOU,43.1,4,4,54,PHX,PHX,reb,0,False,False,Saric REBOUND (Off:1 Def:4),,112-130,112,130
 0021900437,2019-12-21,PHX,HOU,43.1,4,4,54,PHX,PHX,fg_miss,72,True,False,MISS Saric 2' Putback Layup,,112-130,112,130
-0021900437,2019-12-21,PHX,HOU,43.1,4,4,54,PHX,PHX,reb,0,False,False,Jerome REBOUND (Off:1 Def:2),,112-130,112,130
-0021900437,2019-12-21,PHX,HOU,43.1,4,4,54,PHX,HOU,block,101,True,False,block,block,112-130,112,130
 0021900437,2019-12-21,PHX,HOU,43.1,4,4,54,PHX,HOU,block,72,True,False,block,block,112-130,112,130
+0021900437,2019-12-21,PHX,HOU,43.1,4,4,54,PHX,PHX,reb,0,False,False,Jerome REBOUND (Off:1 Def:2),,112-130,112,130
 0021900437,2019-12-21,PHX,HOU,43.15,4,4,51,PHX,PHX,fg3_miss,1,False,False,MISS Booker 25' 3PT Jump Shot,,112-130,112,130
-0021900437,2019-12-21,PHX,HOU,43.18,4,4,49,PHX,PHX,reb,0,False,False,Baynes REBOUND (Off:3 Def:2),,112-130,112,130
 0021900437,2019-12-21,PHX,HOU,43.18,4,4,49,PHX,PHX,fg_make,97,False,False,Baynes 2' Tip Layup Shot (13 PTS),,114-130,114,130
+0021900437,2019-12-21,PHX,HOU,43.18,4,4,49,PHX,PHX,reb,0,False,False,Baynes REBOUND (Off:3 Def:2),,112-130,112,130
 0021900437,2019-12-21,PHX,HOU,43.43,4,4,34,HOU,HOU,fg3_make,1,False,False,,McLemore 28' 3PT Jump Shot (8 PTS) (Harden 7 AST),114-133,114,133
 0021900437,2019-12-21,PHX,HOU,43.68,4,4,19,PHX,PHX,fg_make,101,False,False,Jerome 9' Driving Floating Jump Shot (11 PTS),,116-133,116,133
 0021900437,2019-12-21,PHX,HOU,44.03,4,3,58,HOU,HOU,fg3_make,80,False,False,,Harden 28' 3PT Step Back Jump Shot (47 PTS),116-136,116,136

@@ -57,10 +57,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700496,2017-12-25,OKC,HOU,6.52,1,5,29,OKC,OKC,fg_miss,79,False,False,MISS Westbrook 18' Pullup Jump Shot,,22-19,22,19
 0021700496,2017-12-25,OKC,HOU,6.52,1,5,29,HOU,HOU,reb,0,False,False,,Anderson REBOUND (Off:0 Def:1),22-19,22,19
 0021700496,2017-12-25,OKC,HOU,6.68,1,5,19,HOU,HOU,fg_miss,43,False,False,,MISS Capela 7' Alley Oop Layup,22-19,22,19
-0021700496,2017-12-25,OKC,HOU,6.7,1,5,18,HOU,HOU,fg_miss,72,True,False,,MISS Harden 2' Putback Layup,22-19,22,19
-0021700496,2017-12-25,OKC,HOU,6.7,1,5,18,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:1 Def:1),,22-19,22,19
 0021700496,2017-12-25,OKC,HOU,6.7,1,5,18,HOU,HOU,reb,0,False,False,,Harden REBOUND (Off:1 Def:1),22-19,22,19
+0021700496,2017-12-25,OKC,HOU,6.7,1,5,18,HOU,HOU,fg_miss,72,True,False,,MISS Harden 2' Putback Layup,22-19,22,19
 0021700496,2017-12-25,OKC,HOU,6.7,1,5,18,HOU,OKC,block,72,True,False,block,block,22-19,22,19
+0021700496,2017-12-25,OKC,HOU,6.7,1,5,18,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:1 Def:1),,22-19,22,19
 0021700496,2017-12-25,OKC,HOU,6.87,1,5,8,OKC,OKC,fg_miss,79,False,False,MISS Westbrook 14' Pullup Jump Shot,,22-19,22,19
 0021700496,2017-12-25,OKC,HOU,6.87,1,5,8,HOU,HOU,reb,0,False,False,,Capela REBOUND (Off:0 Def:4),22-19,22,19
 0021700496,2017-12-25,OKC,HOU,7.27,1,4,44,HOU,HOU,fg3_make,1,False,False,,Ariza 3PT Jump Shot (10 PTS) (Capela 1 AST),22-22,22,22
@@ -120,8 +120,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700496,2017-12-25,OKC,HOU,12.28,2,11,43,HOU,HOU,reb,0,False,False,,Anderson REBOUND (Off:1 Def:1),28-31,28,31
 0021700496,2017-12-25,OKC,HOU,12.28,2,11,43,HOU,HOU,fg_make,97,False,False,,Anderson 1' Tip Layup Shot (2 PTS),28-33,28,33
 0021700496,2017-12-25,OKC,HOU,12.62,2,11,23,OKC,OKC,fg_miss,6,True,False,MISS Felton 2' Driving Layup,,28-33,28,33
-0021700496,2017-12-25,OKC,HOU,12.62,2,11,23,HOU,HOU,reb,0,False,False,,Nene REBOUND (Off:1 Def:1),28-33,28,33
 0021700496,2017-12-25,OKC,HOU,12.62,2,11,23,OKC,HOU,block,6,True,False,block,block,28-33,28,33
+0021700496,2017-12-25,OKC,HOU,12.62,2,11,23,HOU,HOU,reb,0,False,False,,Nene REBOUND (Off:1 Def:1),28-33,28,33
 0021700496,2017-12-25,OKC,HOU,12.72,2,11,17,HOU,HOU,fg3_make,2,False,False,,Anderson 28' 3PT Running Jump Shot (5 PTS) (Weber 2 AST),28-36,28,36
 0021700496,2017-12-25,OKC,HOU,13.03,2,10,58,OKC,OKC,fg_make,6,False,False,George Driving Layup (9 PTS),,30-36,30,36
 0021700496,2017-12-25,OKC,HOU,13.17,2,10,50,HOU,HOU,fg_miss,98,False,False,,MISS Nene 1' Cutting Layup Shot,30-36,30,36
@@ -199,8 +199,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700496,2017-12-25,OKC,HOU,20.35,2,3,39,HOU,HOU,reb,0,False,False,,Harden REBOUND (Off:1 Def:4),46-50,46,50
 0021700496,2017-12-25,OKC,HOU,20.38,2,3,37,HOU,OKC,foul,1,False,False,Westbrook P.FOUL (P1.T4) (S.Twardoski),,46-50,46,50
 0021700496,2017-12-25,OKC,HOU,20.62,2,3,23,HOU,HOU,tov,2,False,True,,Nene Lost Ball Turnover (P1.T4),46-50,46,50
-0021700496,2017-12-25,OKC,HOU,20.62,2,3,23,OKC,HOU,foul,3,False,False,,Nene L.B.FOUL (P1.PN) (S.Twardoski),46-50,46,50
 0021700496,2017-12-25,OKC,HOU,20.62,2,3,23,HOU,OKC,steal,2,False,True,steal,steal,46-50,46,50
+0021700496,2017-12-25,OKC,HOU,20.62,2,3,23,OKC,HOU,foul,3,False,False,,Nene L.B.FOUL (P1.PN) (S.Twardoski),46-50,46,50
 0021700496,2017-12-25,OKC,HOU,20.62,2,3,23,OKC,OKC,ft_make,11,False,False,Westbrook Free Throw 1 of 2 (5 PTS),,47-50,47,50
 0021700496,2017-12-25,OKC,HOU,20.62,2,3,23,OKC,OKC,ft_make,12,False,False,Westbrook Free Throw 2 of 2 (6 PTS),,48-50,48,50
 0021700496,2017-12-25,OKC,HOU,20.82,2,3,11,HOU,HOU,fg3_make,79,False,False,,Gordon 25' 3PT Pullup Jump Shot (8 PTS) (Harden 7 AST),48-53,48,53
@@ -225,14 +225,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700496,2017-12-25,OKC,HOU,23.53,2,0,28,OKC,OKC,fg_miss,101,False,False,MISS Roberson 8' Driving Floating Jump Shot,,58-57,58,57
 0021700496,2017-12-25,OKC,HOU,23.57,2,0,26,HOU,HOU,reb,0,False,False,,Tucker REBOUND (Off:0 Def:3),58-57,58,57
 0021700496,2017-12-25,OKC,HOU,23.95,2,0,3,HOU,HOU,fg_miss,101,False,False,,MISS Harden 4' Driving Floating Jump Shot,58-57,58,57
-0021700496,2017-12-25,OKC,HOU,23.95,2,0,3,HOU,HOU,reb,0,False,False,,Rockets Rebound,58-57,58,57
 0021700496,2017-12-25,OKC,HOU,23.95,2,0,3,HOU,HOU,tov,11,False,False,,Rockets Turnover: Shot Clock (T#7),58-57,58,57
+0021700496,2017-12-25,OKC,HOU,23.95,2,0,3,HOU,HOU,reb,0,False,False,,Rockets Rebound,58-57,58,57
 0021700496,2017-12-25,OKC,HOU,24.0,2,0,0,OKC,OKC,tov,1,False,True,Westbrook Bad Pass Turnover (P1.T8),,58-57,58,57
+0021700496,2017-12-25,OKC,HOU,24.0,2,0,0,OKC,HOU,steal,1,False,True,steal,steal,58-57,58,57
 0021700496,2017-12-25,OKC,HOU,24.0,2,0,0,HOU,HOU,fg3_miss,2,False,False,,MISS Harden 55' 3PT Running Jump Shot,58-57,58,57
 0021700496,2017-12-25,OKC,HOU,24.0,2,0,0,HOU,HOU,reb,0,False,False,,Rockets Rebound,58-57,58,57
 0021700496,2017-12-25,OKC,HOU,24.0,2,0,0,HOU,,period_end,0,False,False,,,58-57,58,57
 0021700496,2017-12-25,OKC,HOU,24.0,3,12,0,HOU,,period_start,0,False,False,,,58-57,58,57
-0021700496,2017-12-25,OKC,HOU,24.0,2,0,0,OKC,HOU,steal,1,False,True,steal,steal,58-57,58,57
 0021700496,2017-12-25,OKC,HOU,24.22,3,11,47,HOU,HOU,fg3_miss,1,False,False,,MISS Anderson 3PT Jump Shot,58-57,58,57
 0021700496,2017-12-25,OKC,HOU,24.28,3,11,43,HOU,HOU,reb,0,False,False,,Capela REBOUND (Off:1 Def:4),58-57,58,57
 0021700496,2017-12-25,OKC,HOU,24.63,3,11,22,HOU,HOU,fg_make,108,False,False,,Capela Cutting Dunk Shot (12 PTS) (Harden 8 AST),58-59,58,59
@@ -373,8 +373,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700496,2017-12-25,OKC,HOU,42.58,4,5,25,HOU,HOU,tov,1,False,True,,Tucker Bad Pass Turnover (P1.T13),102-98,102,98
 0021700496,2017-12-25,OKC,HOU,42.58,4,5,25,HOU,OKC,steal,1,False,True,steal,steal,102-98,102,98
 0021700496,2017-12-25,OKC,HOU,42.65,4,5,21,OKC,OKC,fg_miss,41,True,False,MISS George 3' Running Layup,,102-98,102,98
-0021700496,2017-12-25,OKC,HOU,42.65,4,5,21,HOU,HOU,reb,0,False,False,,Rockets Rebound,102-98,102,98
 0021700496,2017-12-25,OKC,HOU,42.65,4,5,21,OKC,HOU,block,41,True,False,block,block,102-98,102,98
+0021700496,2017-12-25,OKC,HOU,42.65,4,5,21,HOU,HOU,reb,0,False,False,,Rockets Rebound,102-98,102,98
 0021700496,2017-12-25,OKC,HOU,42.77,4,5,14,HOU,OKC,violation,5,False,False,Roberson Violation:Kicked Ball (T.Washington),,102-98,102,98
 0021700496,2017-12-25,OKC,HOU,43.0,4,5,0,HOU,OKC,foul,2,False,False,Roberson S.FOUL (P4.T3) (N.Buchert),,102-98,102,98
 0021700496,2017-12-25,OKC,HOU,43.0,4,5,0,HOU,HOU,ft_miss,11,False,False,,MISS Capela Free Throw 1 of 2,102-98,102,98
@@ -412,11 +412,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700496,2017-12-25,OKC,HOU,46.03,4,1,58,OKC,OKC,fg_make,79,False,False,Westbrook 21' Pullup Jump Shot (31 PTS),,110-105,110,105
 0021700496,2017-12-25,OKC,HOU,46.22,4,1,47,HOU,HOU,fg_make,6,False,False,,Harden 1' Driving Layup (29 PTS),110-107,110,107
 0021700496,2017-12-25,OKC,HOU,46.48,4,1,31,OKC,OKC,tov,1,False,True,Westbrook Bad Pass Turnover (P5.T15),,110-107,110,107
+0021700496,2017-12-25,OKC,HOU,46.48,4,1,31,OKC,HOU,steal,1,False,True,steal,steal,110-107,110,107
 0021700496,2017-12-25,OKC,HOU,46.48,4,1,31,HOU,OKC,foul,3,False,False,Westbrook L.B.FOUL (P3.PN) (T.Washington),,110-107,110,107
 0021700496,2017-12-25,OKC,HOU,46.48,4,1,31,HOU,HOU,ft_miss,11,False,False,,MISS Capela Free Throw 1 of 2,110-107,110,107
 0021700496,2017-12-25,OKC,HOU,46.48,4,1,31,HOU,HOU,reb,1,False,False,,Rockets Rebound,110-107,110,107
 0021700496,2017-12-25,OKC,HOU,46.48,4,1,31,HOU,HOU,ft_miss,12,False,False,,MISS Capela Free Throw 2 of 2,110-107,110,107
-0021700496,2017-12-25,OKC,HOU,46.48,4,1,31,OKC,HOU,steal,1,False,True,steal,steal,110-107,110,107
 0021700496,2017-12-25,OKC,HOU,46.52,4,1,29,OKC,OKC,reb,0,False,False,George REBOUND (Off:0 Def:5),,110-107,110,107
 0021700496,2017-12-25,OKC,HOU,46.85,4,1,9,OKC,OKC,fg_miss,47,False,False,MISS George 12' Turnaround Jump Shot,,110-107,110,107
 0021700496,2017-12-25,OKC,HOU,46.92,4,1,5,HOU,HOU,reb,0,False,False,,Gordon REBOUND (Off:1 Def:2),110-107,110,107

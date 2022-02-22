@@ -51,8 +51,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700220,2017-11-17,CLE,LAC,4.43,1,7,34,LAC,LAC,fg_make,1,False,False,,Thornwell 21' Jump Shot (5 PTS) (Griffin 2 AST),0-12,0,12
 0021700220,2017-11-17,CLE,LAC,4.75,1,7,15,CLE,CLE,fg_make,1,False,False,Love 11' Jump Shot (2 PTS) (Smith 1 AST),,2-12,2,12
 0021700220,2017-11-17,CLE,LAC,5.05,1,6,57,LAC,LAC,fg_miss,6,True,False,,MISS Rivers 8' Driving Layup,2-12,2,12
-0021700220,2017-11-17,CLE,LAC,5.05,1,6,57,LAC,LAC,reb,0,False,False,,Clippers Rebound,2-12,2,12
 0021700220,2017-11-17,CLE,LAC,5.05,1,6,57,LAC,CLE,block,6,True,False,block,block,2-12,2,12
+0021700220,2017-11-17,CLE,LAC,5.05,1,6,57,LAC,LAC,reb,0,False,False,,Clippers Rebound,2-12,2,12
 0021700220,2017-11-17,CLE,LAC,5.15,1,6,51,LAC,LAC,fg_make,1,False,False,,Griffin 15' Jump Shot (2 PTS) (Rivers 1 AST),2-14,2,14
 0021700220,2017-11-17,CLE,LAC,5.5,1,6,30,CLE,CLE,fg_make,5,False,False,Love 1' Layup (4 PTS) (Smith 2 AST),,4-14,4,14
 0021700220,2017-11-17,CLE,LAC,5.8,1,6,12,LAC,CLE,foul,1,False,False,Shumpert P.FOUL (P1.T2) (S.Corbin),,4-14,4,14
@@ -137,8 +137,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700220,2017-11-17,CLE,LAC,15.13,2,8,52,LAC,LAC,fg_miss,1,False,False,,MISS Williams 15' Jump Shot,26-35,26,35
 0021700220,2017-11-17,CLE,LAC,15.17,2,8,50,CLE,CLE,reb,0,False,False,Frye REBOUND (Off:0 Def:2),,26-35,26,35
 0021700220,2017-11-17,CLE,LAC,15.25,2,8,45,CLE,CLE,fg_miss,101,True,False,MISS Green 7' Driving Floating Jump Shot,,26-35,26,35
-0021700220,2017-11-17,CLE,LAC,15.25,2,8,45,LAC,LAC,reb,0,False,False,,Dekker REBOUND (Off:0 Def:1),26-35,26,35
 0021700220,2017-11-17,CLE,LAC,15.25,2,8,45,CLE,LAC,block,101,True,False,block,block,26-35,26,35
+0021700220,2017-11-17,CLE,LAC,15.25,2,8,45,LAC,LAC,reb,0,False,False,,Dekker REBOUND (Off:0 Def:1),26-35,26,35
 0021700220,2017-11-17,CLE,LAC,15.37,2,8,38,LAC,LAC,fg3_miss,1,False,False,,MISS W. Johnson 3PT Jump Shot,26-35,26,35
 0021700220,2017-11-17,CLE,LAC,15.37,2,8,38,CLE,CLE,reb,0,False,False,Wade REBOUND (Off:0 Def:2),,26-35,26,35
 0021700220,2017-11-17,CLE,LAC,15.5,2,8,30,CLE,CLE,fg_make,5,False,False,Wade 2' Layup (4 PTS),,28-35,28,35
@@ -191,8 +191,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700220,2017-11-17,CLE,LAC,20.63,2,3,22,CLE,CLE,ft_make,11,False,False,Wade Free Throw 1 of 2 (12 PTS),,43-52,43,52
 0021700220,2017-11-17,CLE,LAC,20.63,2,3,22,CLE,CLE,ft_make,12,False,False,Wade Free Throw 2 of 2 (13 PTS),,44-52,44,52
 0021700220,2017-11-17,CLE,LAC,20.8,2,3,12,LAC,LAC,tov,1,False,True,,Williams Bad Pass Turnover (P2.T8),44-52,44,52
-0021700220,2017-11-17,CLE,LAC,20.8,2,3,12,CLE,LAC,foul,1,False,False,,Jordan P.FOUL (P1.PN) (S.Corbin),44-52,44,52
 0021700220,2017-11-17,CLE,LAC,20.8,2,3,12,LAC,CLE,steal,1,False,True,steal,steal,44-52,44,52
+0021700220,2017-11-17,CLE,LAC,20.8,2,3,12,CLE,LAC,foul,1,False,False,,Jordan P.FOUL (P1.PN) (S.Corbin),44-52,44,52
 0021700220,2017-11-17,CLE,LAC,20.8,2,3,12,CLE,CLE,ft_make,11,False,False,Wade Free Throw 1 of 2 (14 PTS),,45-52,45,52
 0021700220,2017-11-17,CLE,LAC,20.8,2,3,12,CLE,CLE,ft_make,12,False,False,Wade Free Throw 2 of 2 (15 PTS),,46-52,46,52
 0021700220,2017-11-17,CLE,LAC,20.9,2,3,6,LAC,CLE,foul,1,False,False,Crowder P.FOUL (P1.T3) (S.Corbin),,46-52,46,52
@@ -211,8 +211,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700220,2017-11-17,CLE,LAC,22.32,2,1,41,CLE,CLE,fg3_miss,1,False,False,MISS Love 24' 3PT Jump Shot,,50-54,50,54
 0021700220,2017-11-17,CLE,LAC,22.32,2,1,41,CLE,CLE,reb,0,False,False,Crowder REBOUND (Off:1 Def:1),,50-54,50,54
 0021700220,2017-11-17,CLE,LAC,22.52,2,1,29,CLE,CLE,fg_miss,80,True,False,MISS Wade 12' Step Back Jump Shot,,50-54,50,54
-0021700220,2017-11-17,CLE,LAC,22.52,2,1,29,CLE,CLE,reb,0,False,False,Wade REBOUND (Off:1 Def:3),,50-54,50,54
 0021700220,2017-11-17,CLE,LAC,22.52,2,1,29,CLE,LAC,block,80,True,False,block,block,50-54,50,54
+0021700220,2017-11-17,CLE,LAC,22.52,2,1,29,CLE,CLE,reb,0,False,False,Wade REBOUND (Off:1 Def:3),,50-54,50,54
 0021700220,2017-11-17,CLE,LAC,22.63,2,1,22,CLE,CLE,fg_miss,1,False,False,MISS Wade 19' Jump Shot,,50-54,50,54
 0021700220,2017-11-17,CLE,LAC,22.63,2,1,22,LAC,LAC,reb,0,False,False,,Jordan REBOUND (Off:3 Def:6),50-54,50,54
 0021700220,2017-11-17,CLE,LAC,22.72,2,1,17,LAC,LAC,fg3_miss,1,False,False,,MISS W. Johnson 3PT Jump Shot,50-54,50,54
@@ -274,8 +274,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700220,2017-11-17,CLE,LAC,29.83,3,6,10,LAC,LAC,fg_miss,80,False,False,,MISS Jordan 16' Step Back Jump Shot,63-67,63,67
 0021700220,2017-11-17,CLE,LAC,29.87,3,6,8,CLE,CLE,reb,0,False,False,Crowder REBOUND (Off:1 Def:3),,63-67,63,67
 0021700220,2017-11-17,CLE,LAC,30.15,3,5,51,CLE,CLE,fg_miss,1,True,False,MISS Calderon 8' Jump Shot,,63-67,63,67
-0021700220,2017-11-17,CLE,LAC,30.15,3,5,51,LAC,LAC,reb,0,False,False,,Evans REBOUND (Off:0 Def:1),63-67,63,67
 0021700220,2017-11-17,CLE,LAC,30.15,3,5,51,CLE,LAC,block,1,True,False,block,block,63-67,63,67
+0021700220,2017-11-17,CLE,LAC,30.15,3,5,51,LAC,LAC,reb,0,False,False,,Evans REBOUND (Off:0 Def:1),63-67,63,67
 0021700220,2017-11-17,CLE,LAC,30.25,3,5,45,LAC,LAC,fg_make,41,False,False,,W. Johnson 2' Running Layup (12 PTS) (Evans 1 AST),63-69,63,69
 0021700220,2017-11-17,CLE,LAC,30.25,3,5,45,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 4 Short 0),,63-69,63,69
 0021700220,2017-11-17,CLE,LAC,30.55,3,5,27,CLE,CLE,fg_miss,1,False,False,MISS Crowder 23' Jump Shot,,63-69,63,69

@@ -122,8 +122,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000290,2021-01-29,WAS,ATL,12.0,1,0,0,ATL,,period_end,0,False,False,,,22-31,22,31
 0022000290,2021-01-29,WAS,ATL,12.0,2,12,0,ATL,,period_start,0,False,False,,,22-31,22,31
 0022000290,2021-01-29,WAS,ATL,12.15,2,11,51,ATL,ATL,tov,2,False,True,,Gallinari Lost Ball Turnover (P1.T3),22-31,22,31
-0022000290,2021-01-29,WAS,ATL,12.15,2,11,51,WAS,ATL,foul,1,False,False,,Gallinari P.FOUL (P1.T1) (J.Goble),22-31,22,31
 0022000290,2021-01-29,WAS,ATL,12.15,2,11,51,ATL,WAS,steal,2,False,True,steal,steal,22-31,22,31
+0022000290,2021-01-29,WAS,ATL,12.15,2,11,51,WAS,ATL,foul,1,False,False,,Gallinari P.FOUL (P1.T1) (J.Goble),22-31,22,31
 0022000290,2021-01-29,WAS,ATL,12.42,2,11,35,WAS,WAS,fg_miss,80,False,False,MISS Westbrook 17' Step Back Jump Shot,,22-31,22,31
 0022000290,2021-01-29,WAS,ATL,12.47,2,11,32,ATL,ATL,reb,0,False,False,,Reddish REBOUND (Off:0 Def:1),22-31,22,31
 0022000290,2021-01-29,WAS,ATL,12.73,2,11,16,ATL,ATL,tov,1,False,True,,Rondo Bad Pass Turnover (P1.T4),22-31,22,31
@@ -246,8 +246,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000290,2021-01-29,WAS,ATL,25.12,3,10,53,ATL,WAS,foul,4,False,False,Lopez OFF.Foul (P1) (J.Goble),,50-66,50,66
 0022000290,2021-01-29,WAS,ATL,25.12,3,10,53,WAS,WAS,tov,37,False,False,Lopez Offensive Foul Turnover (P1.T9),,50-66,50,66
 0022000290,2021-01-29,WAS,ATL,25.37,3,10,38,ATL,ATL,fg_miss,47,True,False,,MISS Collins 10' Turnaround Jump Shot,50-66,50,66
-0022000290,2021-01-29,WAS,ATL,25.37,3,10,38,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,50-66,50,66
 0022000290,2021-01-29,WAS,ATL,25.37,3,10,38,ATL,WAS,block,47,True,False,block,block,50-66,50,66
+0022000290,2021-01-29,WAS,ATL,25.37,3,10,38,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,50-66,50,66
 0022000290,2021-01-29,WAS,ATL,25.57,3,10,26,WAS,WAS,fg3_miss,1,False,False,MISS Beal 26' 3PT Jump Shot,,50-66,50,66
 0022000290,2021-01-29,WAS,ATL,25.6,3,10,24,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,50-66,50,66
 0022000290,2021-01-29,WAS,ATL,25.6,3,10,24,WAS,ATL,foul,3,False,False,,Capela L.B.FOUL (P1.T1) (B.Nansel),50-66,50,66
@@ -297,7 +297,6 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000290,2021-01-29,WAS,ATL,29.97,3,6,2,ATL,WAS,foul,1,False,False,Westbrook P.FOUL (P2.T4) (M.Ayotte),,60-77,60,77
 0022000290,2021-01-29,WAS,ATL,30.22,3,5,47,ATL,ATL,fg_make,6,False,False,,Young 6' Driving Layup (19 PTS),60-79,60,79
 0022000290,2021-01-29,WAS,ATL,30.45,3,5,33,WAS,ATL,foul,2,False,False,,S. Hill S.FOUL (P1.T3) (M.Ayotte),60-79,60,79
-0022000290,2021-01-29,WAS,ATL,30.45,3,5,33,ATL,WAS,violation,1,False,False,WIZARDS Violation: Delay of game Violation,,60-79,60,79
 0022000290,2021-01-29,WAS,ATL,30.45,3,5,33,ATL,WAS,foul,11,False,False,Lopez T.FOUL (P1.T4) (B.Nansel),,60-79,60,79
 0022000290,2021-01-29,WAS,ATL,30.45,3,5,33,ATL,WAS,foul,11,False,False,Lopez T.FOUL (P1.T4) (B.Nansel),,60-79,60,79
 0022000290,2021-01-29,WAS,ATL,30.45,3,5,33,ATL,ATL,ft_make,16,False,False,,Young Free Throw Technical (20 PTS),60-80,60,80
@@ -306,6 +305,7 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000290,2021-01-29,WAS,ATL,30.45,3,5,33,WAS,WAS,reb,1,False,False,WIZARDS Rebound,,60-80,60,80
 0022000290,2021-01-29,WAS,ATL,30.45,3,5,33,WAS,ATL,ft_make,16,False,False,,Young Free Throw Technical (21 PTS),60-81,60,81
 0022000290,2021-01-29,WAS,ATL,30.45,3,5,33,WAS,WAS,ft_make,12,False,False,Beal Free Throw 2 of 2 (13 PTS),,61-81,61,81
+0022000290,2021-01-29,WAS,ATL,30.45,3,5,33,ATL,WAS,violation,1,False,False,WIZARDS Violation: Delay of game Violation,,60-79,60,79
 0022000290,2021-01-29,WAS,ATL,30.6,3,5,24,ATL,WAS,foul,1,False,False,Bonga P.FOUL (P2.PN) (J.Goble),,61-81,61,81
 0022000290,2021-01-29,WAS,ATL,30.6,3,5,24,ATL,ATL,ft_make,11,False,False,,Young Free Throw 1 of 2 (22 PTS),61-82,61,82
 0022000290,2021-01-29,WAS,ATL,30.6,3,5,24,ATL,ATL,ft_make,12,False,False,,Young Free Throw 2 of 2 (23 PTS),61-83,61,83

@@ -19,8 +19,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800618,2019-01-10,DEN,LAC,2.52,1,9,29,LAC,DEN,steal,1,False,True,steal,steal,6-5,6,5
 0021800618,2019-01-10,DEN,LAC,2.6,1,9,24,DEN,DEN,fg_make,106,False,False,Craig Running Alley Oop Dunk Shot (5 PTS) (Murray 1 AST),,8-5,8,5
 0021800618,2019-01-10,DEN,LAC,2.83,1,9,10,LAC,LAC,fg_miss,5,True,False,,MISS Gallinari 4' Layup,8-5,8,5
-0021800618,2019-01-10,DEN,LAC,2.83,1,9,10,LAC,LAC,reb,0,False,False,,Clippers Rebound,8-5,8,5
 0021800618,2019-01-10,DEN,LAC,2.83,1,9,10,LAC,DEN,block,5,True,False,block,block,8-5,8,5
+0021800618,2019-01-10,DEN,LAC,2.83,1,9,10,LAC,LAC,reb,0,False,False,,Clippers Rebound,8-5,8,5
 0021800618,2019-01-10,DEN,LAC,3.0,1,9,0,LAC,LAC,fg_make,78,False,False,,Harris 11' Floating Jump Shot (2 PTS) (Gilgeous-Alexander 1 AST),8-7,8,7
 0021800618,2019-01-10,DEN,LAC,3.32,1,8,41,DEN,DEN,fg_make,44,False,False,Murray 2' Reverse Layup (2 PTS) (Jokic 1 AST),,10-7,10,7
 0021800618,2019-01-10,DEN,LAC,3.48,1,8,31,LAC,LAC,fg3_miss,1,False,False,,MISS Harris 24' 3PT Jump Shot,10-7,10,7
@@ -69,10 +69,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800618,2019-01-10,DEN,LAC,9.03,1,2,58,DEN,DEN,reb,0,False,False,Millsap REBOUND (Off:1 Def:4),,27-18,27,18
 0021800618,2019-01-10,DEN,LAC,9.03,1,2,58,DEN,DEN,fg_miss,97,False,False,MISS Millsap 2' Tip Layup Shot,,27-18,27,18
 0021800618,2019-01-10,DEN,LAC,9.07,1,2,56,DEN,LAC,foul,2,False,False,,Harrell S.FOUL (P1.T3) (J.Goldenberg),27-18,27,18
-0021800618,2019-01-10,DEN,LAC,9.07,1,2,56,DEN,DEN,reb,0,False,False,Millsap REBOUND (Off:2 Def:4),,27-18,27,18
 0021800618,2019-01-10,DEN,LAC,9.07,1,2,56,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 1 Short 0),,27-18,27,18
 0021800618,2019-01-10,DEN,LAC,9.07,1,2,56,DEN,DEN,ft_make,11,False,False,Millsap Free Throw 1 of 2 (5 PTS),,28-18,28,18
 0021800618,2019-01-10,DEN,LAC,9.07,1,2,56,DEN,DEN,ft_make,12,False,False,Millsap Free Throw 2 of 2 (6 PTS),,29-18,29,18
+0021800618,2019-01-10,DEN,LAC,9.07,1,2,56,DEN,DEN,reb,0,False,False,Millsap REBOUND (Off:2 Def:4),,27-18,27,18
 0021800618,2019-01-10,DEN,LAC,9.22,1,2,47,LAC,LAC,fg_make,75,False,False,,Williams 3' Driving Finger Roll Layup (2 PTS),29-20,29,20
 0021800618,2019-01-10,DEN,LAC,9.55,1,2,27,DEN,LAC,foul,1,False,False,,Williams P.FOUL (P1.T4) (J.Capers),29-20,29,20
 0021800618,2019-01-10,DEN,LAC,9.72,1,2,17,DEN,DEN,fg_make,101,False,False,Morris 4' Driving Floating Jump Shot (2 PTS),,31-20,31,20
@@ -91,19 +91,19 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800618,2019-01-10,DEN,LAC,11.48,1,0,31,LAC,LAC,fg3_make,1,False,False,,Scott 3PT Jump Shot (3 PTS) (Williams 2 AST),35-25,35,25
 0021800618,2019-01-10,DEN,LAC,11.85,1,0,9,DEN,DEN,fg_make,52,False,False,Plumlee 1' Alley Oop Dunk (6 PTS) (Lyles 1 AST),,37-25,37,25
 0021800618,2019-01-10,DEN,LAC,12.0,1,0,0,LAC,LAC,fg_miss,79,True,False,,MISS Scott 17' Pullup Jump Shot,37-25,37,25
+0021800618,2019-01-10,DEN,LAC,12.0,1,0,0,LAC,DEN,block,79,True,False,block,block,37-25,37,25
 0021800618,2019-01-10,DEN,LAC,12.0,1,0,0,LAC,LAC,reb,0,False,False,,Clippers Rebound,37-25,37,25
 0021800618,2019-01-10,DEN,LAC,12.0,1,0,0,LAC,,period_end,0,False,False,,,37-25,37,25
 0021800618,2019-01-10,DEN,LAC,12.0,2,12,0,LAC,,period_start,0,False,False,,,37-25,37,25
-0021800618,2019-01-10,DEN,LAC,12.0,1,0,0,LAC,DEN,block,79,True,False,block,block,37-25,37,25
 0021800618,2019-01-10,DEN,LAC,12.2,2,11,48,DEN,DEN,fg_miss,101,False,False,MISS Morris 7' Driving Floating Jump Shot,,37-25,37,25
 0021800618,2019-01-10,DEN,LAC,12.23,2,11,46,DEN,DEN,reb,0,False,False,Morris REBOUND (Off:1 Def:0),,37-25,37,25
 0021800618,2019-01-10,DEN,LAC,12.25,2,11,45,DEN,DEN,fg_miss,5,True,False,MISS Morris 4' Layup,,37-25,37,25
-0021800618,2019-01-10,DEN,LAC,12.25,2,11,45,DEN,DEN,reb,0,False,False,Morris REBOUND (Off:2 Def:0),,37-25,37,25
 0021800618,2019-01-10,DEN,LAC,12.25,2,11,45,DEN,LAC,block,5,True,False,block,block,37-25,37,25
+0021800618,2019-01-10,DEN,LAC,12.25,2,11,45,DEN,DEN,reb,0,False,False,Morris REBOUND (Off:2 Def:0),,37-25,37,25
 0021800618,2019-01-10,DEN,LAC,12.33,2,11,40,DEN,DEN,fg3_make,1,False,False,Craig 25' 3PT Jump Shot (8 PTS) (Morris 1 AST),,40-25,40,25
 0021800618,2019-01-10,DEN,LAC,12.63,2,11,22,LAC,LAC,fg_miss,98,True,False,,MISS Scott 3' Cutting Layup Shot,40-25,40,25
-0021800618,2019-01-10,DEN,LAC,12.63,2,11,22,LAC,LAC,reb,0,False,False,,Clippers Rebound,40-25,40,25
 0021800618,2019-01-10,DEN,LAC,12.63,2,11,22,LAC,DEN,block,98,True,False,block,block,40-25,40,25
+0021800618,2019-01-10,DEN,LAC,12.63,2,11,22,LAC,LAC,reb,0,False,False,,Clippers Rebound,40-25,40,25
 0021800618,2019-01-10,DEN,LAC,12.68,2,11,19,LAC,LAC,fg_make,102,False,False,,Williams 6' Driving Floating Bank Jump Shot (4 PTS) (Beverley 1 AST),40-27,40,27
 0021800618,2019-01-10,DEN,LAC,12.92,2,11,5,DEN,DEN,fg_miss,101,False,False,MISS Lyles 9' Driving Floating Jump Shot,,40-27,40,27
 0021800618,2019-01-10,DEN,LAC,12.98,2,11,1,LAC,LAC,reb,0,False,False,,Harrell REBOUND (Off:0 Def:1),40-27,40,27
@@ -127,8 +127,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800618,2019-01-10,DEN,LAC,15.25,2,8,45,LAC,LAC,fg_miss,63,False,False,,MISS Williams 17' Fadeaway Jumper,47-34,47,34
 0021800618,2019-01-10,DEN,LAC,15.3,2,8,42,DEN,DEN,reb,0,False,False,Murray REBOUND (Off:0 Def:2),,47-34,47,34
 0021800618,2019-01-10,DEN,LAC,15.5,2,8,30,DEN,DEN,fg_miss,102,True,False,MISS Murray 8' Driving Floating Bank Jump Shot,,47-34,47,34
-0021800618,2019-01-10,DEN,LAC,15.5,2,8,30,LAC,LAC,reb,0,False,False,,Clippers Rebound,47-34,47,34
 0021800618,2019-01-10,DEN,LAC,15.5,2,8,30,DEN,LAC,block,102,True,False,block,block,47-34,47,34
+0021800618,2019-01-10,DEN,LAC,15.5,2,8,30,LAC,LAC,reb,0,False,False,,Clippers Rebound,47-34,47,34
 0021800618,2019-01-10,DEN,LAC,15.7,2,8,18,LAC,LAC,tov,45,False,False,,Williams Out of Bounds - Bad Pass Turnover Turnover (P2.T7),47-34,47,34
 0021800618,2019-01-10,DEN,LAC,15.93,2,8,4,DEN,DEN,fg_miss,101,True,False,MISS Beasley 11' Driving Floating Jump Shot,,47-34,47,34
 0021800618,2019-01-10,DEN,LAC,15.93,2,8,4,DEN,LAC,block,101,True,False,block,block,47-34,47,34
@@ -240,8 +240,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800618,2019-01-10,DEN,LAC,30.07,3,5,56,LAC,LAC,reb,0,False,False,,Bradley REBOUND (Off:0 Def:1),77-62,77,62
 0021800618,2019-01-10,DEN,LAC,30.1,3,5,54,LAC,LAC,fg3_make,79,False,False,,Williams 25' 3PT Pullup Jump Shot (12 PTS) (Harris 3 AST),77-65,77,65
 0021800618,2019-01-10,DEN,LAC,30.45,3,5,33,DEN,DEN,fg_miss,47,False,False,MISS Jokic 3' Turnaround Jump Shot,,77-65,77,65
-0021800618,2019-01-10,DEN,LAC,30.47,3,5,32,DEN,DEN,fg_miss,97,False,False,MISS Jokic 2' Tip Layup Shot,,77-65,77,65
 0021800618,2019-01-10,DEN,LAC,30.47,3,5,32,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:4 Def:4),,77-65,77,65
+0021800618,2019-01-10,DEN,LAC,30.47,3,5,32,DEN,DEN,fg_miss,97,False,False,MISS Jokic 2' Tip Layup Shot,,77-65,77,65
 0021800618,2019-01-10,DEN,LAC,30.48,3,5,31,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:3 Def:4),,77-65,77,65
 0021800618,2019-01-10,DEN,LAC,30.48,3,5,31,DEN,DEN,fg_miss,97,False,False,MISS Jokic 2' Tip Layup Shot,,77-65,77,65
 0021800618,2019-01-10,DEN,LAC,30.48,3,5,31,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:3 Def:4),,77-65,77,65
@@ -335,8 +335,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800618,2019-01-10,DEN,LAC,38.28,4,9,43,DEN,DEN,reb,1,False,False,NUGGETS Rebound,,97-79,97,79
 0021800618,2019-01-10,DEN,LAC,38.28,4,9,43,DEN,DEN,ft_make,12,False,False,Plumlee Free Throw 2 of 2 (17 PTS),,98-79,98,79
 0021800618,2019-01-10,DEN,LAC,38.37,4,9,38,LAC,LAC,fg_miss,6,True,False,,MISS Williams 9' Driving Layup,98-79,98,79
-0021800618,2019-01-10,DEN,LAC,38.37,4,9,38,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,98-79,98,79
 0021800618,2019-01-10,DEN,LAC,38.37,4,9,38,LAC,DEN,block,6,True,False,block,block,98-79,98,79
+0021800618,2019-01-10,DEN,LAC,38.37,4,9,38,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,98-79,98,79
 0021800618,2019-01-10,DEN,LAC,38.67,4,9,20,DEN,DEN,fg_make,6,False,False,Beasley 3' Driving Layup (15 PTS),,100-79,100,79
 0021800618,2019-01-10,DEN,LAC,38.67,4,9,20,DEN,,violation,1,False,False,,,100-79,100,79
 0021800618,2019-01-10,DEN,LAC,38.75,4,9,15,LAC,DEN,foul,2,False,False,Plumlee S.FOUL (P2.T2) (J.Capers),,100-79,100,79

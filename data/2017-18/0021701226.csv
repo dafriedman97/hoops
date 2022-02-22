@@ -50,11 +50,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701226,2018-04-11,NOP,SAS,6.07,1,5,56,NOP,NOP,reb,0,False,False,Davis REBOUND (Off:0 Def:3),,17-10,17,10
 0021701226,2018-04-11,NOP,SAS,6.15,1,5,51,NOP,NOP,fg3_miss,1,False,False,MISS Mirotic 26' 3PT Jump Shot,,17-10,17,10
 0021701226,2018-04-11,NOP,SAS,6.18,1,5,49,NOP,NOP,reb,0,False,False,Davis REBOUND (Off:1 Def:3),,17-10,17,10
-0021701226,2018-04-11,NOP,SAS,6.2,1,5,48,NOP,NOP,tov,2,False,False,Davis Lost Ball Turnover (P2.T3),,17-10,17,10
 0021701226,2018-04-11,NOP,SAS,6.2,1,5,48,SAS,NOP,foul,1,False,False,Rondo P.FOUL (P1.T2) (M.Callahan),,17-10,17,10
+0021701226,2018-04-11,NOP,SAS,6.2,1,5,48,NOP,NOP,tov,2,False,False,Davis Lost Ball Turnover (P2.T3),,17-10,17,10
 0021701226,2018-04-11,NOP,SAS,6.42,1,5,35,SAS,SAS,fg3_miss,1,True,False,,MISS Mills 27' 3PT Jump Shot,17-10,17,10
-0021701226,2018-04-11,NOP,SAS,6.42,1,5,35,SAS,SAS,reb,0,False,False,,Spurs Rebound,17-10,17,10
 0021701226,2018-04-11,NOP,SAS,6.42,1,5,35,SAS,NOP,block,1,True,False,block,block,17-10,17,10
+0021701226,2018-04-11,NOP,SAS,6.42,1,5,35,SAS,SAS,reb,0,False,False,,Spurs Rebound,17-10,17,10
 0021701226,2018-04-11,NOP,SAS,6.62,1,5,23,SAS,SAS,fg_make,80,False,False,,Aldridge 18' Step Back Jump Shot (6 PTS),17-12,17,12
 0021701226,2018-04-11,NOP,SAS,6.82,1,5,11,NOP,NOP,fg_miss,63,False,False,MISS Davis 19' Fadeaway Jumper,,17-12,17,12
 0021701226,2018-04-11,NOP,SAS,6.88,1,5,7,SAS,SAS,reb,0,False,False,,Ginobili REBOUND (Off:0 Def:1),17-12,17,12
@@ -193,8 +193,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701226,2018-04-11,NOP,SAS,23.33,2,0,40,NOP,NOP,fg_miss,5,False,False,MISS Mirotic 8' Layup,,55-43,55,43
 0021701226,2018-04-11,NOP,SAS,23.38,2,0,37,SAS,SAS,reb,0,False,False,,Aldridge REBOUND (Off:2 Def:1),55-43,55,43
 0021701226,2018-04-11,NOP,SAS,23.45,2,0,33,SAS,SAS,tov,1,False,True,,Ginobili Bad Pass Turnover (P3.T9),55-43,55,43
-0021701226,2018-04-11,NOP,SAS,23.45,2,0,33,NOP,SAS,foul,9,False,False,,Ginobili C.P.FOUL (P3.PN) (S.Wall),55-43,55,43
 0021701226,2018-04-11,NOP,SAS,23.45,2,0,33,SAS,NOP,steal,1,False,True,steal,steal,55-43,55,43
+0021701226,2018-04-11,NOP,SAS,23.45,2,0,33,NOP,SAS,foul,9,False,False,,Ginobili C.P.FOUL (P3.PN) (S.Wall),55-43,55,43
 0021701226,2018-04-11,NOP,SAS,23.45,2,0,33,NOP,NOP,ft_make,25,False,False,Moore Free Throw Clear Path 1 of 2 (8 PTS),,56-43,56,43
 0021701226,2018-04-11,NOP,SAS,23.45,2,0,33,NOP,NOP,ft_make,26,False,False,Moore Free Throw Clear Path 2 of 2 (9 PTS),,57-43,57,43
 0021701226,2018-04-11,NOP,SAS,23.53,2,0,28,NOP,NOP,fg_make,5,False,False,Rondo 11' Layup (8 PTS),,59-43,59,43

@@ -42,9 +42,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000892,2021-04-22,BOS,PHX,4.97,1,7,2,BOS,BOS,reb,0,False,False,Smart REBOUND (Off:1 Def:1),,9-10,9,10
 0022000892,2021-04-22,BOS,PHX,5.12,1,6,53,BOS,BOS,fg_make,79,False,False,Smart 14' Pullup Jump Shot (2 PTS),,11-10,11,10
 0022000892,2021-04-22,BOS,PHX,5.4,1,6,36,PHX,PHX,tov,2,False,True,,Paul Lost Ball Turnover (P1.T1),11-10,11,10
+0022000892,2021-04-22,BOS,PHX,5.4,1,6,36,PHX,BOS,steal,2,False,True,steal,steal,11-10,11,10
 0022000892,2021-04-22,BOS,PHX,5.4,1,6,36,BOS,PHX,foul,28,False,False,,Paul Personal Take Foul (P1.T2) (B.Adair),11-10,11,10
 0022000892,2021-04-22,BOS,PHX,5.4,1,6,36,BOS,BOS,timeout,1,False,False,CELTICS Timeout: Regular (Full 1 Short 0),,11-10,11,10
-0022000892,2021-04-22,BOS,PHX,5.4,1,6,36,PHX,BOS,steal,2,False,True,steal,steal,11-10,11,10
 0022000892,2021-04-22,BOS,PHX,5.63,1,6,22,BOS,BOS,fg3_make,1,False,False,Walker 25' 3PT Jump Shot (8 PTS),,14-10,14,10
 0022000892,2021-04-22,BOS,PHX,5.97,1,6,2,PHX,PHX,fg_miss,1,False,False,,MISS Ayton 15' Jump Shot,14-10,14,10
 0022000892,2021-04-22,BOS,PHX,6.0,1,6,0,BOS,BOS,reb,0,False,False,Tatum REBOUND (Off:0 Def:5),,14-10,14,10
@@ -312,10 +312,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000892,2021-04-22,BOS,PHX,35.65,3,0,21,PHX,BOS,violation,2,False,False,Parker Violation:Defensive Goaltending (B.Kennedy),,77-65,77,65
 0022000892,2021-04-22,BOS,PHX,35.97,3,0,2,BOS,BOS,fg_miss,102,False,False,MISS Tatum 11' Driving Floating Bank Jump Shot,,77-65,77,65
 0022000892,2021-04-22,BOS,PHX,35.98,3,0,1,BOS,BOS,reb,0,False,False,Smart REBOUND (Off:3 Def:2),,77-65,77,65
-0022000892,2021-04-22,BOS,PHX,36.0,3,0,0,BOS,BOS,fg_miss,97,False,False,MISS Smart 1' Tip Layup Shot,,77-65,77,65
-0022000892,2021-04-22,BOS,PHX,36.0,3,0,0,BOS,BOS,reb,0,False,False,CELTICS Rebound,,77-65,77,65
 0022000892,2021-04-22,BOS,PHX,36.0,3,0,0,BOS,,period_end,0,False,False,,,77-65,77,65
 0022000892,2021-04-22,BOS,PHX,36.0,4,12,0,BOS,,period_start,0,False,False,,,77-65,77,65
+0022000892,2021-04-22,BOS,PHX,36.0,3,0,0,BOS,BOS,fg_miss,97,False,False,MISS Smart 1' Tip Layup Shot,,77-65,77,65
+0022000892,2021-04-22,BOS,PHX,36.0,3,0,0,BOS,BOS,reb,0,False,False,CELTICS Rebound,,77-65,77,65
 0022000892,2021-04-22,BOS,PHX,36.18,4,11,49,PHX,PHX,fg_miss,6,False,False,,MISS Payne 7' Driving Layup,77-65,77,65
 0022000892,2021-04-22,BOS,PHX,36.22,4,11,47,BOS,BOS,reb,0,False,False,Parker REBOUND (Off:0 Def:4),,77-65,77,65
 0022000892,2021-04-22,BOS,PHX,36.45,4,11,33,BOS,BOS,fg_miss,98,False,False,MISS Parker 6' Cutting Layup Shot,,77-65,77,65

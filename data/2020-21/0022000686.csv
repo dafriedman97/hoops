@@ -25,8 +25,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000686,2021-03-26,CHA,MIA,3.02,1,8,59,CHA,CHA,ft_miss,12,False,False,MISS Washington Free Throw 2 of 2,,8-5,8,5
 0022000686,2021-03-26,CHA,MIA,3.1,1,8,54,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:1 Def:1),8-5,8,5
 0022000686,2021-03-26,CHA,MIA,3.2,1,8,48,MIA,MIA,fg_miss,5,True,False,,MISS Adebayo 4' Layup,8-5,8,5
-0022000686,2021-03-26,CHA,MIA,3.2,1,8,48,MIA,MIA,reb,0,False,False,,Heat Rebound,8-5,8,5
 0022000686,2021-03-26,CHA,MIA,3.2,1,8,48,MIA,CHA,block,5,True,False,block,block,8-5,8,5
+0022000686,2021-03-26,CHA,MIA,3.2,1,8,48,MIA,MIA,reb,0,False,False,,Heat Rebound,8-5,8,5
 0022000686,2021-03-26,CHA,MIA,3.3,1,8,42,MIA,CHA,foul,1,False,False,Hayward P.FOUL (P1.T1) (P.Fraher),,8-5,8,5
 0022000686,2021-03-26,CHA,MIA,3.43,1,8,34,MIA,MIA,fg3_miss,1,False,False,,MISS Ariza 3PT Jump Shot,8-5,8,5
 0022000686,2021-03-26,CHA,MIA,3.48,1,8,31,CHA,CHA,reb,0,False,False,Biyombo REBOUND (Off:0 Def:1),,8-5,8,5
@@ -44,16 +44,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000686,2021-03-26,CHA,MIA,5.03,1,6,58,MIA,MIA,fg3_miss,1,False,False,,MISS Robinson 32' 3PT Jump Shot,14-5,14,5
 0022000686,2021-03-26,CHA,MIA,5.07,1,6,56,CHA,CHA,reb,0,False,False,Hayward REBOUND (Off:0 Def:2),,14-5,14,5
 0022000686,2021-03-26,CHA,MIA,5.17,1,6,50,CHA,CHA,fg_miss,1,True,False,MISS Washington 11' Jump Shot,,14-5,14,5
-0022000686,2021-03-26,CHA,MIA,5.17,1,6,50,MIA,MIA,reb,0,False,False,,Ariza REBOUND (Off:0 Def:2),14-5,14,5
 0022000686,2021-03-26,CHA,MIA,5.17,1,6,50,CHA,MIA,block,1,True,False,block,block,14-5,14,5
+0022000686,2021-03-26,CHA,MIA,5.17,1,6,50,MIA,MIA,reb,0,False,False,,Ariza REBOUND (Off:0 Def:2),14-5,14,5
 0022000686,2021-03-26,CHA,MIA,5.28,1,6,43,MIA,MIA,fg_make,41,False,False,,Nunn 1' Running Layup (4 PTS) (Ariza 1 AST),14-7,14,7
 0022000686,2021-03-26,CHA,MIA,5.38,1,6,37,CHA,CHA,fg_make,6,False,False,Washington 1' Driving Layup (5 PTS) (Graham 2 AST),,16-7,16,7
 0022000686,2021-03-26,CHA,MIA,5.38,1,6,37,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.1 Short 0),16-7,16,7
 0022000686,2021-03-26,CHA,MIA,5.75,1,6,15,MIA,MIA,fg3_make,1,False,False,,Nunn 28' 3PT Jump Shot (7 PTS) (Ariza 2 AST),16-10,16,10
 0022000686,2021-03-26,CHA,MIA,6.07,1,5,56,CHA,CHA,fg_make,7,False,False,Biyombo 1' Dunk (2 PTS) (Washington 1 AST),,18-10,18,10
 0022000686,2021-03-26,CHA,MIA,6.35,1,5,39,MIA,MIA,fg_miss,5,True,False,,MISS Ariza 4' Layup,18-10,18,10
-0022000686,2021-03-26,CHA,MIA,6.35,1,5,39,MIA,MIA,reb,0,False,False,,Heat Rebound,18-10,18,10
 0022000686,2021-03-26,CHA,MIA,6.35,1,5,39,MIA,CHA,block,5,True,False,block,block,18-10,18,10
+0022000686,2021-03-26,CHA,MIA,6.35,1,5,39,MIA,MIA,reb,0,False,False,,Heat Rebound,18-10,18,10
 0022000686,2021-03-26,CHA,MIA,6.53,1,5,28,MIA,MIA,fg3_miss,1,False,False,,MISS Ariza 3PT Jump Shot,18-10,18,10
 0022000686,2021-03-26,CHA,MIA,6.6,1,5,24,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:0 Def:1),,18-10,18,10
 0022000686,2021-03-26,CHA,MIA,6.72,1,5,17,CHA,CHA,fg_make,6,False,False,Monk 2' Driving Layup (2 PTS) (Rozier 4 AST),,20-10,20,10
@@ -158,8 +158,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000686,2021-03-26,CHA,MIA,17.68,2,6,19,CHA,CHA,ft_make,15,False,False,Rozier Free Throw 3 of 3 (15 PTS),,63-33,63,33
 0022000686,2021-03-26,CHA,MIA,17.98,2,6,1,MIA,MIA,fg_make,1,False,False,,Butler 19' Jump Shot (7 PTS),63-35,63,35
 0022000686,2021-03-26,CHA,MIA,18.37,2,5,38,CHA,CHA,fg_miss,6,True,False,MISS Rozier 5' Driving Layup,,63-35,63,35
-0022000686,2021-03-26,CHA,MIA,18.37,2,5,38,CHA,CHA,reb,0,False,False,HORNETS Rebound,,63-35,63,35
 0022000686,2021-03-26,CHA,MIA,18.37,2,5,38,CHA,MIA,block,6,True,False,block,block,63-35,63,35
+0022000686,2021-03-26,CHA,MIA,18.37,2,5,38,CHA,CHA,reb,0,False,False,HORNETS Rebound,,63-35,63,35
 0022000686,2021-03-26,CHA,MIA,18.4,2,5,36,CHA,CHA,fg_make,63,False,False,Hayward 14' Fadeaway Jumper (5 PTS) (Martin 3 AST),,65-35,65,35
 0022000686,2021-03-26,CHA,MIA,18.65,2,5,21,MIA,MIA,fg_make,7,False,False,,Achiuwa 1' Dunk (4 PTS) (Butler 2 AST),65-37,65,37
 0022000686,2021-03-26,CHA,MIA,18.9,2,5,6,CHA,CHA,fg_miss,1,False,False,MISS Hayward 16' Jump Shot,,65-37,65,37
@@ -186,8 +186,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000686,2021-03-26,CHA,MIA,21.8,2,2,12,CHA,CHA,fg_miss,97,False,False,MISS Biyombo Tip Layup Shot,,68-45,68,45
 0022000686,2021-03-26,CHA,MIA,21.8,2,2,12,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:1 Def:3),68-45,68,45
 0022000686,2021-03-26,CHA,MIA,21.87,2,2,8,MIA,MIA,fg_miss,5,True,False,,MISS Adebayo 3' Layup,68-45,68,45
-0022000686,2021-03-26,CHA,MIA,21.87,2,2,8,MIA,MIA,reb,0,False,False,,Heat Rebound,68-45,68,45
 0022000686,2021-03-26,CHA,MIA,21.87,2,2,8,MIA,CHA,block,5,True,False,block,block,68-45,68,45
+0022000686,2021-03-26,CHA,MIA,21.87,2,2,8,MIA,MIA,reb,0,False,False,,Heat Rebound,68-45,68,45
 0022000686,2021-03-26,CHA,MIA,22.05,2,1,57,MIA,MIA,fg_miss,6,False,False,,MISS Herro 3' Driving Layup,68-45,68,45
 0022000686,2021-03-26,CHA,MIA,22.1,2,1,54,CHA,CHA,reb,0,False,False,Monk REBOUND (Off:0 Def:1),,68-45,68,45
 0022000686,2021-03-26,CHA,MIA,22.27,2,1,44,CHA,MIA,foul,1,False,False,,Butler P.FOUL (P1.PN) (L.Richardson),68-45,68,45
@@ -293,17 +293,17 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000686,2021-03-26,CHA,MIA,33.47,3,2,32,MIA,MIA,tov,45,False,False,,Herro Out of Bounds - Bad Pass Turnover Turnover (P1.T7),90-74,90,74
 0022000686,2021-03-26,CHA,MIA,33.75,3,2,15,CHA,CHA,fg_make,101,False,False,Monk 6' Driving Floating Jump Shot (30 PTS),,92-74,92,74
 0022000686,2021-03-26,CHA,MIA,34.07,3,1,56,MIA,CHA,foul,2,False,False,Bridges S.FOUL (P2.PN) (L.Richardson),,92-74,92,74
+0022000686,2021-03-26,CHA,MIA,34.07,3,1,56,MIA,MIA,timeout,7,False,False,,Heat Timeout: Coach Challenge (Reg.3 Short 0),92-75,92,75
 0022000686,2021-03-26,CHA,MIA,34.07,3,1,56,MIA,MIA,ft_miss,11,False,False,,MISS Strus Free Throw 1 of 2,92-74,92,74
 0022000686,2021-03-26,CHA,MIA,34.07,3,1,56,MIA,MIA,reb,1,False,False,,Heat Rebound,92-74,92,74
 0022000686,2021-03-26,CHA,MIA,34.07,3,1,56,MIA,MIA,ft_make,12,False,False,,Strus Free Throw 2 of 2 (4 PTS),92-75,92,75
-0022000686,2021-03-26,CHA,MIA,34.07,3,1,56,MIA,MIA,timeout,7,False,False,,Heat Timeout: Coach Challenge (Reg.3 Short 0),92-75,92,75
 0022000686,2021-03-26,CHA,MIA,34.4,3,1,36,CHA,CHA,fg3_miss,1,False,False,MISS Monk 27' 3PT Jump Shot,,92-75,92,75
 0022000686,2021-03-26,CHA,MIA,34.47,3,1,32,MIA,MIA,reb,0,False,False,,Iguodala REBOUND (Off:1 Def:2),92-75,92,75
 0022000686,2021-03-26,CHA,MIA,34.72,3,1,17,MIA,MIA,fg_miss,1,False,False,,MISS Iguodala 13' Jump Shot,92-75,92,75
 0022000686,2021-03-26,CHA,MIA,34.72,3,1,17,MIA,MIA,reb,0,False,False,,Achiuwa REBOUND (Off:2 Def:3),92-75,92,75
 0022000686,2021-03-26,CHA,MIA,34.72,3,1,17,MIA,MIA,fg_miss,72,True,False,,MISS Achiuwa Putback Layup,92-75,92,75
-0022000686,2021-03-26,CHA,MIA,34.72,3,1,17,MIA,MIA,reb,0,False,False,,Heat Rebound,92-75,92,75
 0022000686,2021-03-26,CHA,MIA,34.72,3,1,17,MIA,CHA,block,72,True,False,block,block,92-75,92,75
+0022000686,2021-03-26,CHA,MIA,34.72,3,1,17,MIA,MIA,reb,0,False,False,,Heat Rebound,92-75,92,75
 0022000686,2021-03-26,CHA,MIA,34.87,3,1,8,MIA,MIA,fg3_miss,1,False,False,,MISS Butler 24' 3PT Jump Shot,92-75,92,75
 0022000686,2021-03-26,CHA,MIA,34.9,3,1,6,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:0 Def:4),,92-75,92,75
 0022000686,2021-03-26,CHA,MIA,35.07,3,0,56,CHA,CHA,tov,1,False,True,Graham Bad Pass Turnover (P3.T9),,92-75,92,75
@@ -414,6 +414,6 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000686,2021-03-26,CHA,MIA,47.97,4,0,2,CHA,CHA,ft_make,12,False,False,Graham Free Throw 2 of 2 (16 PTS),,110-105,110,105
 0022000686,2021-03-26,CHA,MIA,47.97,4,0,2,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.7 Short 0),110-105,110,105
 0022000686,2021-03-26,CHA,MIA,48.0,4,0,0,MIA,MIA,fg3_miss,1,True,False,,MISS Robinson 31' 3PT Jump Shot,110-105,110,105
+0022000686,2021-03-26,CHA,MIA,48.0,4,0,0,MIA,CHA,block,1,True,False,block,block,110-105,110,105
 0022000686,2021-03-26,CHA,MIA,48.0,4,0,0,MIA,MIA,reb,0,False,False,,Ariza REBOUND (Off:2 Def:7),110-105,110,105
 0022000686,2021-03-26,CHA,MIA,48.0,4,0,0,MIA,,period_end,0,False,False,,,110-105,110,105
-0022000686,2021-03-26,CHA,MIA,48.0,4,0,0,MIA,CHA,block,1,True,False,block,block,110-105,110,105

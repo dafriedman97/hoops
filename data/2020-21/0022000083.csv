@@ -195,8 +195,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000083,2021-01-02,ATL,CLE,19.77,2,4,14,CLE,CLE,fg3_miss,1,False,False,,MISS Exum 25' 3PT Jump Shot,45-35,45,35
 0022000083,2021-01-02,ATL,CLE,19.9,2,4,6,ATL,ATL,reb,0,False,False,Hunter REBOUND (Off:1 Def:4),,45-35,45,35
 0022000083,2021-01-02,ATL,CLE,19.9,2,4,6,ATL,ATL,tov,1,False,True,Hunter Bad Pass Turnover (P2.T6),,45-35,45,35
-0022000083,2021-01-02,ATL,CLE,19.9,2,4,6,CLE,ATL,foul,2,False,False,Capela S.FOUL (P2.T4) (A.Smith),,45-35,45,35
 0022000083,2021-01-02,ATL,CLE,19.9,2,4,6,ATL,CLE,steal,1,False,True,steal,steal,45-35,45,35
+0022000083,2021-01-02,ATL,CLE,19.9,2,4,6,CLE,ATL,foul,2,False,False,Capela S.FOUL (P2.T4) (A.Smith),,45-35,45,35
 0022000083,2021-01-02,ATL,CLE,19.9,2,4,6,CLE,CLE,ft_make,11,False,False,,Maker Free Throw 1 of 2 (1 PTS),45-36,45,36
 0022000083,2021-01-02,ATL,CLE,19.9,2,4,6,CLE,CLE,ft_make,12,False,False,,Maker Free Throw 2 of 2 (2 PTS),45-37,45,37
 0022000083,2021-01-02,ATL,CLE,20.07,2,3,56,CLE,ATL,foul,4,False,False,Reddish OFF.Foul (P2) (D.Scott),,45-37,45,37
@@ -239,11 +239,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000083,2021-01-02,ATL,CLE,24.33,3,11,40,ATL,ATL,fg_miss,6,False,False,MISS Young 2' Driving Layup,,56-44,56,44
 0022000083,2021-01-02,ATL,CLE,24.33,3,11,40,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,56-44,56,44
 0022000083,2021-01-02,ATL,CLE,24.5,3,11,30,CLE,CLE,fg_miss,5,True,False,,MISS Drummond 2' Layup,56-44,56,44
-0022000083,2021-01-02,ATL,CLE,24.5,3,11,30,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,56-44,56,44
 0022000083,2021-01-02,ATL,CLE,24.5,3,11,30,CLE,ATL,block,5,True,False,block,block,56-44,56,44
+0022000083,2021-01-02,ATL,CLE,24.5,3,11,30,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,56-44,56,44
 0022000083,2021-01-02,ATL,CLE,24.55,3,11,27,CLE,CLE,fg_miss,78,False,False,,MISS Garland 8' Floating Jump Shot,56-44,56,44
-0022000083,2021-01-02,ATL,CLE,24.63,3,11,22,ATL,ATL,reb,0,False,False,Capela REBOUND (Off:6 Def:5),,56-44,56,44
 0022000083,2021-01-02,ATL,CLE,24.63,3,11,22,,ATL,jump_ball,0,False,False,Jump Ball Capela vs. Drummond: Tip to Collins,,56-44,56,44
+0022000083,2021-01-02,ATL,CLE,24.63,3,11,22,ATL,ATL,reb,0,False,False,Capela REBOUND (Off:6 Def:5),,56-44,56,44
 0022000083,2021-01-02,ATL,CLE,24.87,3,11,8,ATL,ATL,fg_miss,6,False,False,MISS Hunter 1' Driving Layup,,56-44,56,44
 0022000083,2021-01-02,ATL,CLE,24.9,3,11,6,ATL,ATL,reb,0,False,False,Capela REBOUND (Off:7 Def:5),,56-44,56,44
 0022000083,2021-01-02,ATL,CLE,24.9,3,11,6,ATL,ATL,fg_make,44,False,False,Capela 1' Reverse Layup (14 PTS),,58-44,58,44
@@ -329,9 +329,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000083,2021-01-02,ATL,CLE,34.98,3,1,1,ATL,ATL,reb,0,False,False,HAWKS Rebound,,70-66,70,66
 0022000083,2021-01-02,ATL,CLE,34.98,3,1,1,ATL,CLE,foul,3,False,False,,McGee L.B.FOUL (P2.T4) (D.Scott),70-66,70,66
 0022000083,2021-01-02,ATL,CLE,35.03,3,0,58,ATL,ATL,fg_miss,9,True,False,MISS Fernando 1' Driving Dunk,,70-66,70,66
+0022000083,2021-01-02,ATL,CLE,35.03,3,0,58,ATL,CLE,block,9,True,False,block,block,70-66,70,66
 0022000083,2021-01-02,ATL,CLE,35.03,3,0,58,ATL,ATL,reb,0,False,False,HAWKS Rebound,,70-66,70,66
 0022000083,2021-01-02,ATL,CLE,35.03,3,0,58,CLE,ATL,foul,11,False,False,Fernando T.FOUL (P1.T3) (C.Kirkland),,70-66,70,66
-0022000083,2021-01-02,ATL,CLE,35.03,3,0,58,ATL,CLE,block,9,True,False,block,block,70-66,70,66
 0022000083,2021-01-02,ATL,CLE,35.03,3,0,58,CLE,CLE,ft_make,16,False,False,,Garland Free Throw Technical (7 PTS),70-67,70,67
 0022000083,2021-01-02,ATL,CLE,35.18,3,0,49,ATL,ATL,fg_make,101,False,False,Goodwin 7' Driving Floating Jump Shot (6 PTS),,72-67,72,67
 0022000083,2021-01-02,ATL,CLE,35.28,3,0,43,CLE,CLE,fg3_miss,1,False,False,,MISS Wade 26' 3PT Jump Shot,72-67,72,67
@@ -401,8 +401,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000083,2021-01-02,ATL,CLE,42.77,4,5,14,ATL,ATL,fg_miss,101,False,False,MISS Young 8' Driving Floating Jump Shot,,83-84,83,84
 0022000083,2021-01-02,ATL,CLE,42.8,4,5,12,ATL,ATL,reb,0,False,False,Young REBOUND (Off:1 Def:3),,83-84,83,84
 0022000083,2021-01-02,ATL,CLE,42.83,4,5,10,ATL,ATL,tov,1,False,True,Young Bad Pass Turnover (P5.T19),,83-84,83,84
-0022000083,2021-01-02,ATL,CLE,42.83,4,5,10,CLE,ATL,foul,28,False,False,Huerter Personal Take Foul (P2.T3) (C.Kirkland),,83-84,83,84
 0022000083,2021-01-02,ATL,CLE,42.83,4,5,10,ATL,CLE,steal,1,False,True,steal,steal,83-84,83,84
+0022000083,2021-01-02,ATL,CLE,42.83,4,5,10,CLE,ATL,foul,28,False,False,Huerter Personal Take Foul (P2.T3) (C.Kirkland),,83-84,83,84
 0022000083,2021-01-02,ATL,CLE,43.13,4,4,52,CLE,CLE,fg_make,79,False,False,,Sexton 14' Pullup Jump Shot (20 PTS),83-86,83,86
 0022000083,2021-01-02,ATL,CLE,43.32,4,4,41,ATL,ATL,fg_miss,101,False,False,MISS Hunter 6' Driving Floating Jump Shot,,83-86,83,86
 0022000083,2021-01-02,ATL,CLE,43.37,4,4,38,CLE,CLE,reb,0,False,False,,Sexton REBOUND (Off:1 Def:1),83-86,83,86
@@ -430,8 +430,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000083,2021-01-02,ATL,CLE,46.45,4,1,33,CLE,CLE,fg_miss,6,False,False,,MISS Exum 3' Driving Layup,85-88,85,88
 0022000083,2021-01-02,ATL,CLE,46.47,4,1,32,CLE,CLE,reb,0,False,False,,Drummond REBOUND (Off:4 Def:6),85-88,85,88
 0022000083,2021-01-02,ATL,CLE,46.5,4,1,30,CLE,CLE,fg_miss,5,True,False,,MISS Drummond Layup,85-88,85,88
-0022000083,2021-01-02,ATL,CLE,46.5,4,1,30,ATL,ATL,reb,0,False,False,HAWKS Rebound,,85-88,85,88
 0022000083,2021-01-02,ATL,CLE,46.5,4,1,30,CLE,ATL,block,5,True,False,block,block,85-88,85,88
+0022000083,2021-01-02,ATL,CLE,46.5,4,1,30,ATL,ATL,reb,0,False,False,HAWKS Rebound,,85-88,85,88
 0022000083,2021-01-02,ATL,CLE,46.62,4,1,23,ATL,ATL,tov,10,False,False,HAWKS Turnover: 8 Second Violation (T#22),,85-88,85,88
 0022000083,2021-01-02,ATL,CLE,46.95,4,1,3,CLE,CLE,tov,8,False,False,,Drummond 3 Second Violation Turnover (P4.T15),85-88,85,88
 0022000083,2021-01-02,ATL,CLE,47.2,4,0,48,ATL,ATL,fg3_make,1,False,False,Bogdanovic 25' 3PT Jump Shot (8 PTS) (Hunter 2 AST),,88-88,88,88

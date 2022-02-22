@@ -36,9 +36,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000388,2021-02-10,DEN,CLE,4.97,1,7,2,CLE,CLE,ft_make,12,False,False,,Sexton Free Throw 2 of 2 (4 PTS),15-10,15,10
 0022000388,2021-02-10,DEN,CLE,5.33,1,6,40,DEN,DEN,fg_make,86,False,False,Jokic 13' Turnaround Fadeaway (4 PTS),,17-10,17,10
 0022000388,2021-02-10,DEN,CLE,5.73,1,6,16,CLE,CLE,fg_miss,6,True,False,,MISS Okoro 4' Driving Layup,17-10,17,10
+0022000388,2021-02-10,DEN,CLE,5.73,1,6,16,CLE,DEN,block,6,True,False,block,block,17-10,17,10
 0022000388,2021-02-10,DEN,CLE,5.73,1,6,16,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,17-10,17,10
 0022000388,2021-02-10,DEN,CLE,5.73,1,6,16,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 1 Short 0),,17-10,17,10
-0022000388,2021-02-10,DEN,CLE,5.73,1,6,16,CLE,DEN,block,6,True,False,block,block,17-10,17,10
 0022000388,2021-02-10,DEN,CLE,5.8,1,6,12,CLE,CLE,fg3_miss,1,False,False,,MISS Allen 27' 3PT Jump Shot,17-10,17,10
 0022000388,2021-02-10,DEN,CLE,5.85,1,6,9,DEN,DEN,reb,0,False,False,Murray REBOUND (Off:0 Def:1),,17-10,17,10
 0022000388,2021-02-10,DEN,CLE,5.95,1,6,3,DEN,CLE,foul,2,False,False,,Garland S.FOUL (P2.T3) (D.Scott),17-10,17,10
@@ -49,8 +49,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000388,2021-02-10,DEN,CLE,6.78,1,5,13,CLE,CLE,fg3_miss,66,False,False,,MISS Okoro 27' 3PT Jump Bank Shot,21-10,21,10
 0022000388,2021-02-10,DEN,CLE,6.85,1,5,9,DEN,DEN,reb,0,False,False,Barton REBOUND (Off:0 Def:1),,21-10,21,10
 0022000388,2021-02-10,DEN,CLE,6.93,1,5,4,DEN,DEN,fg_miss,5,True,False,MISS Jokic 4' Layup,,21-10,21,10
-0022000388,2021-02-10,DEN,CLE,6.93,1,5,4,CLE,CLE,reb,0,False,False,,Prince REBOUND (Off:0 Def:1),21-10,21,10
 0022000388,2021-02-10,DEN,CLE,6.93,1,5,4,DEN,CLE,block,5,True,False,block,block,21-10,21,10
+0022000388,2021-02-10,DEN,CLE,6.93,1,5,4,CLE,CLE,reb,0,False,False,,Prince REBOUND (Off:0 Def:1),21-10,21,10
 0022000388,2021-02-10,DEN,CLE,6.98,1,5,1,CLE,CLE,fg_make,50,False,False,,Okoro 2' Running Dunk (2 PTS) (Prince 1 AST),21-12,21,12
 0022000388,2021-02-10,DEN,CLE,7.2,1,4,48,DEN,DEN,fg3_make,1,False,False,Millsap 26' 3PT Jump Shot (8 PTS) (Murray 1 AST),,24-12,24,12
 0022000388,2021-02-10,DEN,CLE,7.5,1,4,30,CLE,CLE,fg_miss,5,False,False,,MISS Drummond 4' Layup,24-12,24,12
@@ -92,8 +92,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000388,2021-02-10,DEN,CLE,10.93,1,1,4,CLE,CLE,fg_miss,75,False,False,,MISS Prince 4' Driving Finger Roll Layup,32-16,32,16
 0022000388,2021-02-10,DEN,CLE,10.97,1,1,2,CLE,CLE,reb,0,False,False,,Prince REBOUND (Off:1 Def:1),32-16,32,16
 0022000388,2021-02-10,DEN,CLE,11.02,1,0,59,CLE,CLE,fg_miss,5,True,False,,MISS Prince 4' Layup,32-16,32,16
-0022000388,2021-02-10,DEN,CLE,11.02,1,0,59,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:0 Def:2),,32-16,32,16
 0022000388,2021-02-10,DEN,CLE,11.02,1,0,59,CLE,DEN,block,5,True,False,block,block,32-16,32,16
+0022000388,2021-02-10,DEN,CLE,11.02,1,0,59,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:0 Def:2),,32-16,32,16
 0022000388,2021-02-10,DEN,CLE,11.1,1,0,54,DEN,DEN,fg3_miss,1,False,False,MISS Morris 3PT Jump Shot,,32-16,32,16
 0022000388,2021-02-10,DEN,CLE,11.13,1,0,52,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:1 Def:2),,32-16,32,16
 0022000388,2021-02-10,DEN,CLE,11.13,1,0,52,DEN,DEN,fg_make,5,False,False,Green 2' Layup (4 PTS) (Jokic 3 AST),,34-16,34,16
@@ -127,8 +127,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000388,2021-02-10,DEN,CLE,13.12,2,10,53,DEN,DEN,fg3_miss,1,False,False,MISS Nnaji 27' 3PT Jump Shot,,37-21,37,21
 0022000388,2021-02-10,DEN,CLE,13.17,2,10,50,CLE,CLE,reb,0,False,False,,McGee REBOUND (Off:1 Def:1),37-21,37,21
 0022000388,2021-02-10,DEN,CLE,13.35,2,10,39,CLE,CLE,fg3_miss,1,True,False,,MISS Windler 3PT Jump Shot,37-21,37,21
-0022000388,2021-02-10,DEN,CLE,13.35,2,10,39,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,37-21,37,21
 0022000388,2021-02-10,DEN,CLE,13.35,2,10,39,CLE,DEN,block,1,True,False,block,block,37-21,37,21
+0022000388,2021-02-10,DEN,CLE,13.35,2,10,39,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,37-21,37,21
 0022000388,2021-02-10,DEN,CLE,13.43,2,10,34,DEN,CLE,foul,1,False,False,,Windler P.FOUL (P2.T1) (D.Scott),37-21,37,21
 0022000388,2021-02-10,DEN,CLE,13.62,2,10,23,DEN,DEN,fg_make,9,False,False,Green 2' Driving Dunk (6 PTS) (Hampton 1 AST),,39-21,39,21
 0022000388,2021-02-10,DEN,CLE,13.9,2,10,6,CLE,CLE,fg_make,86,False,False,,McGee 15' Turnaround Fadeaway (4 PTS),39-23,39,23
@@ -240,8 +240,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000388,2021-02-10,DEN,CLE,25.68,3,10,19,CLE,CLE,fg_miss,1,False,False,,MISS Garland 18' Jump Shot,71-45,71,45
 0022000388,2021-02-10,DEN,CLE,25.68,3,10,19,CLE,CLE,reb,0,False,False,,Drummond REBOUND (Off:4 Def:2),71-45,71,45
 0022000388,2021-02-10,DEN,CLE,25.77,3,10,14,CLE,CLE,fg_miss,5,True,False,,MISS Sexton 6' Layup,71-45,71,45
-0022000388,2021-02-10,DEN,CLE,25.77,3,10,14,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,71-45,71,45
 0022000388,2021-02-10,DEN,CLE,25.77,3,10,14,CLE,DEN,block,5,True,False,block,block,71-45,71,45
+0022000388,2021-02-10,DEN,CLE,25.77,3,10,14,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,71-45,71,45
 0022000388,2021-02-10,DEN,CLE,25.93,3,10,4,CLE,CLE,fg_make,78,False,False,,Drummond 8' Floating Jump Shot (4 PTS) (Sexton 4 AST),71-47,71,47
 0022000388,2021-02-10,DEN,CLE,26.1,3,9,54,DEN,DEN,fg_make,1,False,False,Murray 6' Jump Shot (8 PTS),,73-47,73,47
 0022000388,2021-02-10,DEN,CLE,26.33,3,9,40,CLE,CLE,fg_miss,58,False,False,,MISS Drummond 7' Turnaround Hook Shot,73-47,73,47
@@ -391,9 +391,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000388,2021-02-10,DEN,CLE,43.23,4,4,46,CLE,CLE,fg3_miss,1,False,False,,MISS Okoro 27' 3PT Jump Shot,120-82,120,82
 0022000388,2021-02-10,DEN,CLE,43.35,4,4,39,DEN,DEN,reb,0,False,False,Bol REBOUND (Off:0 Def:1),,120-82,120,82
 0022000388,2021-02-10,DEN,CLE,43.42,4,4,35,DEN,DEN,tov,2,False,True,Hampton Lost Ball Turnover (P1.T10),,120-82,120,82
+0022000388,2021-02-10,DEN,CLE,43.42,4,4,35,DEN,CLE,steal,2,False,True,steal,steal,120-82,120,82
 0022000388,2021-02-10,DEN,CLE,43.42,4,4,35,CLE,DEN,foul,1,False,False,Howard P.FOUL (P1.T3) (K.Cutler),,120-82,120,82
 0022000388,2021-02-10,DEN,CLE,43.42,4,4,35,CLE,CLE,timeout,1,False,False,,Cavaliers Timeout: Regular (Reg.4 Short 0),120-82,120,82
-0022000388,2021-02-10,DEN,CLE,43.42,4,4,35,DEN,CLE,steal,2,False,True,steal,steal,120-82,120,82
 0022000388,2021-02-10,DEN,CLE,43.67,4,4,20,CLE,CLE,fg3_make,1,False,False,,Windler 24' 3PT Jump Shot (9 PTS) (Okoro 1 AST),120-85,120,85
 0022000388,2021-02-10,DEN,CLE,43.97,4,4,2,DEN,DEN,fg3_make,1,False,False,Nnaji 25' 3PT Jump Shot (14 PTS) (Hampton 2 AST),,123-85,123,85
 0022000388,2021-02-10,DEN,CLE,44.17,4,3,50,CLE,CLE,fg_miss,101,True,False,,MISS Okoro 10' Driving Floating Jump Shot,123-85,123,85

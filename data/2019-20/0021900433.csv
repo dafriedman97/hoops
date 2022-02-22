@@ -23,8 +23,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900433,2019-12-21,PHI,WAS,1.85,1,10,9,WAS,WAS,fg_make,58,False,False,,Mahinmi 13' Turnaround Hook Shot (2 PTS),4-6,4,6
 0021900433,2019-12-21,PHI,WAS,2.07,1,9,56,PHI,PHI,fg_make,47,False,False,Horford 6' Turnaround Jump Shot (2 PTS),,6-6,6,6
 0021900433,2019-12-21,PHI,WAS,2.28,1,9,43,WAS,WAS,fg_miss,73,True,False,,MISS Thomas 1' Driving Reverse Layup,6-6,6,6
-0021900433,2019-12-21,PHI,WAS,2.28,1,9,43,WAS,WAS,reb,0,False,False,,Wizards Rebound,6-6,6,6
 0021900433,2019-12-21,PHI,WAS,2.28,1,9,43,WAS,PHI,block,73,True,False,block,block,6-6,6,6
+0021900433,2019-12-21,PHI,WAS,2.28,1,9,43,WAS,WAS,reb,0,False,False,,Wizards Rebound,6-6,6,6
 0021900433,2019-12-21,PHI,WAS,2.33,1,9,40,WAS,WAS,fg_make,5,False,False,,Beal 2' Layup (2 PTS) (Bonga 1 AST),6-8,6,8
 0021900433,2019-12-21,PHI,WAS,2.57,1,9,26,PHI,PHI,fg3_make,1,False,False,Richardson 25' 3PT Jump Shot (3 PTS) (Embiid 1 AST),,9-8,9,8
 0021900433,2019-12-21,PHI,WAS,2.73,1,9,16,WAS,WAS,tov,40,False,False,,Mahinmi Out of Bounds Lost Ball Turnover (P1.T1),9-8,9,8
@@ -178,9 +178,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900433,2019-12-21,PHI,WAS,17.2,2,6,48,WAS,WAS,fg3_miss,1,False,False,,MISS Brown Jr. 27' 3PT Jump Shot,45-30,45,30
 0021900433,2019-12-21,PHI,WAS,17.2,2,6,48,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:3 Def:2),,45-30,45,30
 0021900433,2019-12-21,PHI,WAS,17.32,2,6,41,PHI,PHI,fg_miss,41,True,False,MISS Simmons 5' Running Layup,,45-30,45,30
+0021900433,2019-12-21,PHI,WAS,17.32,2,6,41,PHI,WAS,block,41,True,False,block,block,45-30,45,30
 0021900433,2019-12-21,PHI,WAS,17.32,2,6,41,PHI,PHI,reb,0,False,False,76ERS Rebound,,45-30,45,30
 0021900433,2019-12-21,PHI,WAS,17.32,2,6,41,PHI,WAS,violation,1,False,False,,Wizards Violation: Delay of game Violation,45-30,45,30
-0021900433,2019-12-21,PHI,WAS,17.32,2,6,41,PHI,WAS,block,41,True,False,block,block,45-30,45,30
 0021900433,2019-12-21,PHI,WAS,17.42,2,6,35,PHI,PHI,fg_miss,79,False,False,MISS Harris 10' Pullup Jump Shot,,45-30,45,30
 0021900433,2019-12-21,PHI,WAS,17.45,2,6,33,PHI,PHI,reb,0,False,False,Horford REBOUND (Off:3 Def:3),,45-30,45,30
 0021900433,2019-12-21,PHI,WAS,17.48,2,6,31,PHI,PHI,fg3_miss,1,False,False,MISS Korkmaz 26' 3PT Jump Shot,,45-30,45,30
@@ -391,8 +391,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900433,2019-12-21,PHI,WAS,39.1,4,8,54,WAS,WAS,ft_make,12,False,False,,Pasecniks Free Throw 2 of 2 (6 PTS),96-84,96,84
 0021900433,2019-12-21,PHI,WAS,39.3,4,8,42,PHI,PHI,fg_make,43,False,False,Embiid 1' Alley Oop Layup (19 PTS) (Richardson 3 AST),,98-84,98,84
 0021900433,2019-12-21,PHI,WAS,39.42,4,8,35,PHI,WAS,foul,4,False,False,,Bertans OFF.Foul (P4) (J.Williams),98-84,98,84
-0021900433,2019-12-21,PHI,WAS,39.42,4,8,35,WAS,WAS,tov,37,False,False,,Bertans Offensive Foul Turnover (P2.T9),98-84,98,84
 0021900433,2019-12-21,PHI,WAS,39.42,4,8,35,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 4 Short 0),,98-84,98,84
+0021900433,2019-12-21,PHI,WAS,39.42,4,8,35,WAS,WAS,tov,37,False,False,,Bertans Offensive Foul Turnover (P2.T9),98-84,98,84
 0021900433,2019-12-21,PHI,WAS,39.58,4,8,25,PHI,PHI,fg_miss,86,False,False,MISS Richardson 15' Turnaround Fadeaway Shot,,98-84,98,84
 0021900433,2019-12-21,PHI,WAS,39.68,4,8,19,WAS,WAS,reb,0,False,False,,Beal REBOUND (Off:0 Def:7),98-84,98,84
 0021900433,2019-12-21,PHI,WAS,39.73,4,8,16,WAS,WAS,fg3_make,103,False,False,,Beal 27' 3PT Running Pull-Up Jump Shot (34 PTS),98-87,98,87

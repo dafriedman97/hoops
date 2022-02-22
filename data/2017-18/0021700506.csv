@@ -22,8 +22,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700506,2017-12-27,CHA,BOS,2.47,1,9,32,BOS,BOS,reb,0,False,False,,Irving REBOUND (Off:1 Def:0),1-5,1,5
 0021700506,2017-12-27,CHA,BOS,2.58,1,9,25,BOS,BOS,tov,15,False,False,,Baynes Offensive Goaltending Turnover (P1.T1),1-5,1,5
 0021700506,2017-12-27,CHA,BOS,2.9,1,9,6,CHA,CHA,fg_miss,5,True,False,MISS Kidd-Gilchrist 4' Layup,,1-5,1,5
-0021700506,2017-12-27,CHA,BOS,2.9,1,9,6,BOS,BOS,reb,0,False,False,,Celtics Rebound,1-5,1,5
 0021700506,2017-12-27,CHA,BOS,2.9,1,9,6,CHA,BOS,block,5,True,False,block,block,1-5,1,5
+0021700506,2017-12-27,CHA,BOS,2.9,1,9,6,BOS,BOS,reb,0,False,False,,Celtics Rebound,1-5,1,5
 0021700506,2017-12-27,CHA,BOS,3.08,1,8,55,BOS,BOS,fg3_make,1,False,False,,Horford 25' 3PT Jump Shot (6 PTS) (Irving 3 AST),1-8,1,8
 0021700506,2017-12-27,CHA,BOS,3.1,1,8,54,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 1 Short 0),,1-8,1,8
 0021700506,2017-12-27,CHA,BOS,3.3,1,8,42,CHA,CHA,fg_make,1,False,False,Walker 20' Jump Shot (2 PTS) (Howard 1 AST),,3-8,3,8
@@ -235,8 +235,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700506,2017-12-27,CHA,BOS,27.9,3,8,6,CHA,CHA,fg_make,76,False,False,Williams 1' Running Finger Roll Layup (9 PTS) (Batum 2 AST),,57-64,57,64
 0021700506,2017-12-27,CHA,BOS,27.9,3,8,6,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.3 Short 0),57-64,57,64
 0021700506,2017-12-27,CHA,BOS,28.13,3,7,52,BOS,BOS,fg_miss,5,True,False,,MISS Tatum 7' Layup,57-64,57,64
-0021700506,2017-12-27,CHA,BOS,28.13,3,7,52,BOS,BOS,reb,0,False,False,,Celtics Rebound,57-64,57,64
 0021700506,2017-12-27,CHA,BOS,28.13,3,7,52,BOS,CHA,block,5,True,False,block,block,57-64,57,64
+0021700506,2017-12-27,CHA,BOS,28.13,3,7,52,BOS,BOS,reb,0,False,False,,Celtics Rebound,57-64,57,64
 0021700506,2017-12-27,CHA,BOS,28.27,3,7,44,BOS,BOS,fg_miss,1,False,False,,MISS Smart 8' Jump Shot,57-64,57,64
 0021700506,2017-12-27,CHA,BOS,28.3,3,7,42,CHA,CHA,reb,0,False,False,Howard REBOUND (Off:2 Def:10),,57-64,57,64
 0021700506,2017-12-27,CHA,BOS,28.5,3,7,30,CHA,CHA,fg_miss,5,False,False,MISS Williams 3' Layup,,57-64,57,64
@@ -277,8 +277,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700506,2017-12-27,CHA,BOS,32.97,3,3,2,BOS,BOS,fg_miss,6,False,False,,MISS Irving 2' Driving Layup,69-71,69,71
 0021700506,2017-12-27,CHA,BOS,33.0,3,3,0,CHA,CHA,reb,0,False,False,Lamb REBOUND (Off:0 Def:2),,69-71,69,71
 0021700506,2017-12-27,CHA,BOS,33.05,3,2,57,CHA,CHA,fg_miss,5,True,False,MISS Walker 4' Layup,,69-71,69,71
-0021700506,2017-12-27,CHA,BOS,33.05,3,2,57,BOS,BOS,reb,0,False,False,,Yabusele REBOUND (Off:0 Def:3),69-71,69,71
 0021700506,2017-12-27,CHA,BOS,33.05,3,2,57,CHA,BOS,block,5,True,False,block,block,69-71,69,71
+0021700506,2017-12-27,CHA,BOS,33.05,3,2,57,BOS,BOS,reb,0,False,False,,Yabusele REBOUND (Off:0 Def:3),69-71,69,71
 0021700506,2017-12-27,CHA,BOS,33.15,3,2,51,BOS,BOS,fg3_make,1,False,False,,Rozier 24' 3PT Jump Shot (10 PTS) (Smart 1 AST),69-74,69,74
 0021700506,2017-12-27,CHA,BOS,33.27,3,2,44,CHA,BOS,foul,28,False,False,,Theis Personal Take Foul (P1.PN) (J.Orr),69-74,69,74
 0021700506,2017-12-27,CHA,BOS,33.27,3,2,44,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 3 Short 0),,69-74,69,74
@@ -374,8 +374,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700506,2017-12-27,CHA,BOS,44.02,4,3,59,BOS,BOS,fg_miss,5,False,False,,MISS Irving 8' Layup,86-91,86,91
 0021700506,2017-12-27,CHA,BOS,44.07,4,3,56,CHA,CHA,reb,0,False,False,Howard REBOUND (Off:4 Def:12),,86-91,86,91
 0021700506,2017-12-27,CHA,BOS,44.23,4,3,46,CHA,CHA,fg_miss,7,True,False,MISS Walker 2' Dunk,,86-91,86,91
-0021700506,2017-12-27,CHA,BOS,44.23,4,3,46,BOS,BOS,reb,0,False,False,,Smart REBOUND (Off:1 Def:3),86-91,86,91
 0021700506,2017-12-27,CHA,BOS,44.23,4,3,46,CHA,BOS,block,7,True,False,block,block,86-91,86,91
+0021700506,2017-12-27,CHA,BOS,44.23,4,3,46,BOS,BOS,reb,0,False,False,,Smart REBOUND (Off:1 Def:3),86-91,86,91
 0021700506,2017-12-27,CHA,BOS,44.33,4,3,40,BOS,BOS,fg_make,7,False,False,,Tatum 1' Dunk (16 PTS) (Smart 2 AST),86-93,86,93
 0021700506,2017-12-27,CHA,BOS,44.55,4,3,27,CHA,BOS,foul,1,False,False,,Larkin P.FOUL (P1.T3) (K.Fitzgerald),86-93,86,93
 0021700506,2017-12-27,CHA,BOS,44.75,4,3,15,CHA,CHA,fg_miss,1,False,False,MISS Kidd-Gilchrist 8' Jump Shot,,86-93,86,93

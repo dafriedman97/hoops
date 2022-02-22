@@ -89,8 +89,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701043,2018-03-17,UTA,SAC,11.48,1,0,31,UTA,UTA,reb,0,False,False,Favors REBOUND (Off:2 Def:1),,31-24,31,24
 0021701043,2018-03-17,UTA,SAC,11.48,1,0,31,UTA,SAC,foul,2,False,False,,Koufos S.FOUL (P2.PN) (M.Boland),31-24,31,24
 0021701043,2018-03-17,UTA,SAC,11.48,1,0,31,UTA,UTA,ft_miss,11,False,False,MISS Favors Free Throw 1 of 2,,31-24,31,24
-0021701043,2018-03-17,UTA,SAC,11.48,1,0,31,UTA,UTA,reb,1,False,False,JAZZ Rebound,,31-24,31,24
 0021701043,2018-03-17,UTA,SAC,11.48,1,0,31,UTA,UTA,ft_make,12,False,False,Favors Free Throw 2 of 2 (5 PTS),,32-24,32,24
+0021701043,2018-03-17,UTA,SAC,11.48,1,0,31,UTA,UTA,reb,1,False,False,JAZZ Rebound,,31-24,31,24
 0021701043,2018-03-17,UTA,SAC,11.68,1,0,19,SAC,SAC,fg_miss,1,False,False,,MISS Temple 21' Jump Shot,32-24,32,24
 0021701043,2018-03-17,UTA,SAC,11.8,1,0,12,UTA,UTA,reb,0,False,False,O'Neale REBOUND (Off:0 Def:1),,32-24,32,24
 0021701043,2018-03-17,UTA,SAC,11.95,1,0,3,UTA,UTA,tov,1,False,True,Exum Bad Pass Turnover (P1.T5),,32-24,32,24
@@ -125,15 +125,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701043,2018-03-17,UTA,SAC,14.77,2,9,14,UTA,UTA,fg3_miss,1,False,False,MISS Jerebko 26' 3PT Jump Shot,,35-38,35,38
 0021701043,2018-03-17,UTA,SAC,14.83,2,9,10,SAC,SAC,reb,0,False,False,,Hield REBOUND (Off:0 Def:1),35-38,35,38
 0021701043,2018-03-17,UTA,SAC,14.98,2,9,1,SAC,SAC,fg_miss,6,True,False,,MISS Cauley-Stein 6' Driving Layup,35-38,35,38
-0021701043,2018-03-17,UTA,SAC,14.98,2,9,1,SAC,SAC,reb,0,False,False,,Kings Rebound,35-38,35,38
 0021701043,2018-03-17,UTA,SAC,14.98,2,9,1,SAC,UTA,block,6,True,False,block,block,35-38,35,38
+0021701043,2018-03-17,UTA,SAC,14.98,2,9,1,SAC,SAC,reb,0,False,False,,Kings Rebound,35-38,35,38
 0021701043,2018-03-17,UTA,SAC,15.0,2,9,0,SAC,SAC,tov,45,False,False,,Temple Out of Bounds - Bad Pass Turnover Turnover (P1.T4),35-38,35,38
 0021701043,2018-03-17,UTA,SAC,15.18,2,8,49,UTA,UTA,fg3_miss,1,False,False,MISS Ingles 26' 3PT Jump Shot,,35-38,35,38
 0021701043,2018-03-17,UTA,SAC,15.2,2,8,48,SAC,SAC,reb,0,False,False,,Kings Rebound,35-38,35,38
 0021701043,2018-03-17,UTA,SAC,15.42,2,8,35,SAC,SAC,fg_make,80,False,False,,Hield 16' Step Back Jump Shot (5 PTS),35-40,35,40
 0021701043,2018-03-17,UTA,SAC,15.73,2,8,16,UTA,UTA,tov,1,False,True,Ingles Bad Pass Turnover (P2.T6),,35-40,35,40
-0021701043,2018-03-17,UTA,SAC,15.73,2,8,16,SAC,UTA,foul,1,False,False,O'Neale P.FOUL (P1.T2) (B.Forte),,35-40,35,40
 0021701043,2018-03-17,UTA,SAC,15.73,2,8,16,UTA,SAC,steal,1,False,True,steal,steal,35-40,35,40
+0021701043,2018-03-17,UTA,SAC,15.73,2,8,16,SAC,UTA,foul,1,False,False,O'Neale P.FOUL (P1.T2) (B.Forte),,35-40,35,40
 0021701043,2018-03-17,UTA,SAC,15.87,2,8,8,SAC,SAC,fg_miss,79,False,False,,MISS Fox 15' Pullup Jump Shot,35-40,35,40
 0021701043,2018-03-17,UTA,SAC,15.92,2,8,5,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:1 Def:2),,35-40,35,40
 0021701043,2018-03-17,UTA,SAC,16.03,2,7,58,UTA,UTA,tov,39,False,False,Exum Step Out of Bounds Turnover (P2.T7),,35-40,35,40
@@ -261,8 +261,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701043,2018-03-17,UTA,SAC,29.72,3,6,17,UTA,UTA,fg_miss,101,False,False,MISS Rubio 5' Driving Floating Jump Shot,,63-63,63,63
 0021701043,2018-03-17,UTA,SAC,29.75,3,6,15,SAC,SAC,reb,0,False,False,,Cauley-Stein REBOUND (Off:0 Def:2),63-63,63,63
 0021701043,2018-03-17,UTA,SAC,29.8,3,6,12,SAC,SAC,fg_miss,101,True,False,,MISS Fox 7' Driving Floating Jump Shot,63-63,63,63
-0021701043,2018-03-17,UTA,SAC,29.8,3,6,12,SAC,SAC,reb,0,False,False,,Kings Rebound,63-63,63,63
 0021701043,2018-03-17,UTA,SAC,29.8,3,6,12,SAC,UTA,block,101,True,False,block,block,63-63,63,63
+0021701043,2018-03-17,UTA,SAC,29.8,3,6,12,SAC,SAC,reb,0,False,False,,Kings Rebound,63-63,63,63
 0021701043,2018-03-17,UTA,SAC,30.1,3,5,54,SAC,SAC,fg_miss,101,True,False,,MISS Bogdanovic 13' Driving Floating Jump Shot,63-63,63,63
 0021701043,2018-03-17,UTA,SAC,30.1,3,5,54,SAC,UTA,block,101,True,False,block,block,63-63,63,63
 0021701043,2018-03-17,UTA,SAC,30.17,3,5,50,UTA,UTA,reb,0,False,False,Rubio REBOUND (Off:0 Def:6),,63-63,63,63
@@ -284,8 +284,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701043,2018-03-17,UTA,SAC,31.68,3,4,19,UTA,UTA,ft_make,12,False,False,Gobert Free Throw 2 of 2 (16 PTS),,73-63,73,63
 0021701043,2018-03-17,UTA,SAC,31.9,3,4,6,SAC,SAC,fg_make,6,False,False,,Hield 4' Driving Layup (12 PTS),73-65,73,65
 0021701043,2018-03-17,UTA,SAC,31.92,3,4,5,SAC,UTA,foul,6,False,False,Rubio AWAY.FROM.PLAY.FOUL (P3.T2) (M.Callahan),,73-65,73,65
-0021701043,2018-03-17,UTA,SAC,31.92,3,4,5,UTA,UTA,tov,0,False,False,Rubio No Turnover (P3.T12),,73-65,73,65
 0021701043,2018-03-17,UTA,SAC,31.92,3,4,5,UTA,SAC,ft_make,10,False,False,,Cauley-Stein Free Throw 1 of 1 (9 PTS),73-66,73,66
+0021701043,2018-03-17,UTA,SAC,31.92,3,4,5,UTA,UTA,tov,0,False,False,Rubio No Turnover (P3.T12),,73-65,73,65
 0021701043,2018-03-17,UTA,SAC,31.93,3,4,4,UTA,SAC,foul,1,False,False,,Mason P.FOUL (P2.PN) (M.Boland),73-66,73,66
 0021701043,2018-03-17,UTA,SAC,31.93,3,4,4,UTA,UTA,ft_miss,11,False,False,MISS Rubio Free Throw 1 of 2,,73-66,73,66
 0021701043,2018-03-17,UTA,SAC,31.93,3,4,4,UTA,UTA,reb,1,False,False,JAZZ Rebound,,73-66,73,66
@@ -350,8 +350,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701043,2018-03-17,UTA,SAC,38.18,4,9,49,SAC,SAC,fg3_miss,79,False,False,,MISS Mason 25' 3PT Pullup Jump Shot,82-81,82,81
 0021701043,2018-03-17,UTA,SAC,38.23,4,9,46,UTA,UTA,reb,0,False,False,O'Neale REBOUND (Off:0 Def:5),,82-81,82,81
 0021701043,2018-03-17,UTA,SAC,38.33,4,9,40,UTA,UTA,fg_miss,80,True,False,MISS Rubio 7' Step Back Jump Shot,,82-81,82,81
-0021701043,2018-03-17,UTA,SAC,38.33,4,9,40,UTA,UTA,reb,0,False,False,JAZZ Rebound,,82-81,82,81
 0021701043,2018-03-17,UTA,SAC,38.33,4,9,40,UTA,SAC,block,80,True,False,block,block,82-81,82,81
+0021701043,2018-03-17,UTA,SAC,38.33,4,9,40,UTA,UTA,reb,0,False,False,JAZZ Rebound,,82-81,82,81
 0021701043,2018-03-17,UTA,SAC,38.45,4,9,33,UTA,UTA,fg_miss,6,False,False,MISS Ingles 3' Driving Layup,,82-81,82,81
 0021701043,2018-03-17,UTA,SAC,38.48,4,9,31,SAC,SAC,reb,0,False,False,,Koufos REBOUND (Off:0 Def:6),82-81,82,81
 0021701043,2018-03-17,UTA,SAC,38.78,4,9,13,SAC,SAC,fg_make,79,False,False,,Hield 12' Pullup Jump Shot (20 PTS) (Koufos 2 AST),82-83,82,83

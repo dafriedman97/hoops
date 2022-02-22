@@ -33,9 +33,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700018,2017-10-20,IND,POR,5.08,1,6,55,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:0 Def:2),,12-12,12,12
 0021700018,2017-10-20,IND,POR,5.18,1,6,49,IND,IND,fg_make,1,False,False,Collison 23' Jump Shot (4 PTS),,14-12,14,12
 0021700018,2017-10-20,IND,POR,5.47,1,6,32,POR,POR,fg_miss,5,True,False,,MISS Nurkic 12' Layup,14-12,14,12
+0021700018,2017-10-20,IND,POR,5.47,1,6,32,POR,IND,block,5,True,False,block,block,14-12,14,12
 0021700018,2017-10-20,IND,POR,5.47,1,6,32,POR,POR,reb,0,False,False,,Trail Blazers Rebound,14-12,14,12
 0021700018,2017-10-20,IND,POR,5.47,1,6,32,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 1 Short 0),,14-12,14,12
-0021700018,2017-10-20,IND,POR,5.47,1,6,32,POR,IND,block,5,True,False,block,block,14-12,14,12
 0021700018,2017-10-20,IND,POR,5.53,1,6,28,POR,POR,fg_miss,80,False,False,,MISS McCollum 11' Step Back Jump Shot,14-12,14,12
 0021700018,2017-10-20,IND,POR,5.58,1,6,25,IND,IND,reb,0,False,False,Oladipo REBOUND (Off:0 Def:1),,14-12,14,12
 0021700018,2017-10-20,IND,POR,5.83,1,6,10,IND,IND,tov,2,False,True,Bogdanovic Lost Ball Turnover (P1.T3),,14-12,14,12
@@ -92,8 +92,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700018,2017-10-20,IND,POR,11.33,1,0,40,POR,POR,reb,0,False,False,,Aminu REBOUND (Off:0 Def:5),23-27,23,27
 0021700018,2017-10-20,IND,POR,11.45,1,0,33,POR,POR,fg_make,6,False,False,,Lillard 4' Driving Layup (10 PTS),23-29,23,29
 0021700018,2017-10-20,IND,POR,11.65,1,0,21,IND,IND,fg_miss,5,True,False,MISS Joseph 1' Layup,,23-29,23,29
-0021700018,2017-10-20,IND,POR,11.65,1,0,21,IND,IND,reb,0,False,False,PACERS Rebound,,23-29,23,29
 0021700018,2017-10-20,IND,POR,11.65,1,0,21,IND,POR,block,5,True,False,block,block,23-29,23,29
+0021700018,2017-10-20,IND,POR,11.65,1,0,21,IND,IND,reb,0,False,False,PACERS Rebound,,23-29,23,29
 0021700018,2017-10-20,IND,POR,11.75,1,0,15,IND,IND,fg_make,47,False,False,Wilkins 12' Turnaround Jump Shot (2 PTS),,25-29,25,29
 0021700018,2017-10-20,IND,POR,11.93,1,0,4,POR,IND,foul,28,False,False,Joseph Personal Take Foul (P1.T2) (G.Zielinski),,25-29,25,29
 0021700018,2017-10-20,IND,POR,11.98,1,0,1,POR,POR,fg_make,80,False,False,,McCollum 20' Step Back Jump Shot (7 PTS),25-31,25,31
@@ -164,9 +164,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700018,2017-10-20,IND,POR,20.38,2,3,37,IND,POR,block,6,True,False,block,block,43-55,43,55
 0021700018,2017-10-20,IND,POR,20.45,2,3,33,POR,POR,reb,0,False,False,,Aminu REBOUND (Off:0 Def:6),43-55,43,55
 0021700018,2017-10-20,IND,POR,20.47,2,3,32,POR,POR,fg_miss,5,True,False,,MISS Nurkic 2' Layup,43-55,43,55
+0021700018,2017-10-20,IND,POR,20.47,2,3,32,POR,IND,block,5,True,False,block,block,43-55,43,55
 0021700018,2017-10-20,IND,POR,20.47,2,3,32,POR,POR,reb,0,False,False,,Trail Blazers Rebound,43-55,43,55
 0021700018,2017-10-20,IND,POR,20.47,2,3,32,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.2 Short 0),43-55,43,55
-0021700018,2017-10-20,IND,POR,20.47,2,3,32,POR,IND,block,5,True,False,block,block,43-55,43,55
 0021700018,2017-10-20,IND,POR,20.53,2,3,28,POR,POR,fg_miss,1,False,False,,MISS Turner 12' Jump Shot,43-55,43,55
 0021700018,2017-10-20,IND,POR,20.58,2,3,25,IND,IND,reb,0,False,False,Bogdanovic REBOUND (Off:0 Def:1),,43-55,43,55
 0021700018,2017-10-20,IND,POR,20.65,2,3,21,IND,IND,fg3_miss,1,False,False,MISS Oladipo 26' 3PT Jump Shot,,43-55,43,55

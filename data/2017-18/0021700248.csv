@@ -54,8 +54,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700248,2017-11-20,NOP,OKC,5.28,1,6,43,NOP,OKC,steal,1,False,True,steal,steal,6-19,6,19
 0021700248,2017-11-20,NOP,OKC,5.37,1,6,38,OKC,OKC,fg3_make,1,False,False,,Anthony 26' 3PT Jump Shot (5 PTS) (Grant 1 AST),6-22,6,22
 0021700248,2017-11-20,NOP,OKC,5.63,1,6,22,NOP,NOP,tov,2,False,True,Moore Lost Ball Turnover (P1.T4),,6-22,6,22
-0021700248,2017-11-20,NOP,OKC,5.63,1,6,22,OKC,NOP,violation,5,False,False,Moore Violation:Kicked Ball (N.Buchert),,6-22,6,22
 0021700248,2017-11-20,NOP,OKC,5.63,1,6,22,NOP,OKC,steal,2,False,True,steal,steal,6-22,6,22
+0021700248,2017-11-20,NOP,OKC,5.63,1,6,22,OKC,NOP,violation,5,False,False,Moore Violation:Kicked Ball (N.Buchert),,6-22,6,22
 0021700248,2017-11-20,NOP,OKC,5.77,1,6,14,OKC,OKC,fg3_miss,1,False,False,,MISS Anthony 24' 3PT Jump Shot,6-22,6,22
 0021700248,2017-11-20,NOP,OKC,5.78,1,6,13,OKC,OKC,reb,0,False,False,,Westbrook REBOUND (Off:1 Def:3),6-22,6,22
 0021700248,2017-11-20,NOP,OKC,5.85,1,6,9,OKC,OKC,fg3_make,1,False,False,,Abrines 26' 3PT Jump Shot (3 PTS) (Westbrook 4 AST),6-25,6,25
@@ -115,9 +115,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700248,2017-11-20,NOP,OKC,11.65,1,0,21,NOP,NOP,reb,0,False,False,Miller REBOUND (Off:0 Def:2),,21-33,21,33
 0021700248,2017-11-20,NOP,OKC,11.98,1,0,1,NOP,NOP,fg3_make,1,False,False,Miller 3PT Jump Shot (3 PTS) (Cousins 4 AST),,24-33,24,33
 0021700248,2017-11-20,NOP,OKC,12.0,1,0,0,OKC,OKC,tov,1,False,True,,Patterson Bad Pass Turnover (P1.T3),24-33,24,33
+0021700248,2017-11-20,NOP,OKC,12.0,1,0,0,OKC,NOP,steal,1,False,True,steal,steal,24-33,24,33
 0021700248,2017-11-20,NOP,OKC,12.0,1,0,0,OKC,,period_end,0,False,False,,,24-33,24,33
 0021700248,2017-11-20,NOP,OKC,12.0,2,12,0,OKC,,period_start,0,False,False,,,24-33,24,33
-0021700248,2017-11-20,NOP,OKC,12.0,1,0,0,OKC,NOP,steal,1,False,True,steal,steal,24-33,24,33
 0021700248,2017-11-20,NOP,OKC,12.15,2,11,51,NOP,NOP,fg3_make,1,False,False,Miller 26' 3PT Jump Shot (6 PTS) (Davis 1 AST),,27-33,27,33
 0021700248,2017-11-20,NOP,OKC,12.43,2,11,34,OKC,OKC,fg3_miss,1,False,False,,MISS Abrines 24' 3PT Jump Shot,27-33,27,33
 0021700248,2017-11-20,NOP,OKC,12.5,2,11,30,NOP,NOP,reb,0,False,False,Cunningham REBOUND (Off:0 Def:1),,27-33,27,33
@@ -162,8 +162,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700248,2017-11-20,NOP,OKC,16.6,2,7,24,NOP,OKC,foul,2,False,False,,Anthony S.FOUL (P1.T4) (D.Collins),40-39,40,39
 0021700248,2017-11-20,NOP,OKC,16.6,2,7,24,NOP,NOP,ft_make,10,False,False,Davis Free Throw 1 of 1 (12 PTS),,41-39,41,39
 0021700248,2017-11-20,NOP,OKC,16.72,2,7,17,OKC,NOP,foul,2,False,False,Miller S.FOUL (P2.T4) (D.Collins),,41-39,41,39
-0021700248,2017-11-20,NOP,OKC,16.72,2,7,17,OKC,OKC,ft_make,12,False,False,,Felton Free Throw 2 of 2 (3 PTS),41-40,41,40
 0021700248,2017-11-20,NOP,OKC,16.72,2,7,17,OKC,OKC,ft_make,11,False,False,,Felton Free Throw 1 of 2 (4 PTS),41-41,41,41
+0021700248,2017-11-20,NOP,OKC,16.72,2,7,17,OKC,OKC,ft_make,12,False,False,,Felton Free Throw 2 of 2 (3 PTS),41-40,41,40
 0021700248,2017-11-20,NOP,OKC,17.27,2,6,44,NOP,NOP,fg_miss,5,False,False,MISS Cousins 1' Layup,,41-41,41,41
 0021700248,2017-11-20,NOP,OKC,17.35,2,6,39,OKC,OKC,reb,0,False,False,,Anthony REBOUND (Off:0 Def:3),41-41,41,41
 0021700248,2017-11-20,NOP,OKC,17.35,2,6,39,OKC,NOP,violation,5,False,False,Holiday Violation:Kicked Ball (J.Van Duyne),,41-41,41,41
@@ -216,8 +216,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700248,2017-11-20,NOP,OKC,22.6,2,1,24,OKC,OKC,reb,1,False,False,,Thunder Rebound,51-59,51,59
 0021700248,2017-11-20,NOP,OKC,22.6,2,1,24,OKC,OKC,ft_make,12,False,False,,Adams Free Throw 2 of 2 (7 PTS),51-60,51,60
 0021700248,2017-11-20,NOP,OKC,22.8,2,1,12,NOP,NOP,fg_miss,5,True,False,MISS Cousins 3' Layup,,51-60,51,60
-0021700248,2017-11-20,NOP,OKC,22.8,2,1,12,NOP,NOP,reb,0,False,False,PELICANS Rebound,,51-60,51,60
 0021700248,2017-11-20,NOP,OKC,22.8,2,1,12,NOP,OKC,block,5,True,False,block,block,51-60,51,60
+0021700248,2017-11-20,NOP,OKC,22.8,2,1,12,NOP,NOP,reb,0,False,False,PELICANS Rebound,,51-60,51,60
 0021700248,2017-11-20,NOP,OKC,22.85,2,1,9,NOP,NOP,fg_miss,1,False,False,MISS Rondo 20' Jump Shot,,51-60,51,60
 0021700248,2017-11-20,NOP,OKC,22.88,2,1,7,NOP,NOP,reb,0,False,False,PELICANS Rebound,,51-60,51,60
 0021700248,2017-11-20,NOP,OKC,22.88,2,1,7,NOP,OKC,foul,3,False,False,,Johnson L.B.FOUL (P2.PN) (N.Buchert),51-60,51,60
@@ -296,12 +296,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700248,2017-11-20,NOP,OKC,30.98,3,5,1,OKC,OKC,reb,0,False,False,,Westbrook REBOUND (Off:2 Def:9),72-76,72,76
 0021700248,2017-11-20,NOP,OKC,31.0,3,5,0,OKC,OKC,fg_miss,5,False,False,,MISS Westbrook 2' Layup,72-76,72,76
 0021700248,2017-11-20,NOP,OKC,31.0,3,5,0,NOP,NOP,reb,0,False,False,Cousins REBOUND (Off:2 Def:7),,72-76,72,76
-0021700248,2017-11-20,NOP,OKC,31.0,3,5,0,OKC,NOP,foul,15,False,False,Cousins FLAGRANT.FOUL.TYPE2 (P2.T3) (N.Buchert),,72-76,72,76
-0021700248,2017-11-20,NOP,OKC,31.0,3,5,0,NOP,NOP,tov,0,False,False,Cousins No Turnover (P3.T13),,72-76,72,76
-0021700248,2017-11-20,NOP,OKC,31.0,3,5,0,NOP,NOP,ejection,4,False,False,Cousins Ejection:Other,,72-76,72,76
-0021700248,2017-11-20,NOP,OKC,31.0,3,5,0,NOP,OKC,ft_make,19,False,False,,Westbrook Free Throw Flagrant 2 of 2 (19 PTS),72-77,72,77
 0021700248,2017-11-20,NOP,OKC,31.0,3,5,0,OKC,OKC,ft_miss,18,False,False,,MISS Westbrook Free Throw Flagrant 1 of 2,72-77,72,77
 0021700248,2017-11-20,NOP,OKC,31.0,3,5,0,OKC,OKC,reb,1,False,False,,Thunder Rebound,72-77,72,77
+0021700248,2017-11-20,NOP,OKC,31.0,3,5,0,NOP,OKC,ft_make,19,False,False,,Westbrook Free Throw Flagrant 2 of 2 (19 PTS),72-77,72,77
+0021700248,2017-11-20,NOP,OKC,31.0,3,5,0,NOP,NOP,ejection,4,False,False,Cousins Ejection:Other,,72-76,72,76
+0021700248,2017-11-20,NOP,OKC,31.0,3,5,0,OKC,NOP,foul,15,False,False,Cousins FLAGRANT.FOUL.TYPE2 (P2.T3) (N.Buchert),,72-76,72,76
+0021700248,2017-11-20,NOP,OKC,31.0,3,5,0,NOP,NOP,tov,0,False,False,Cousins No Turnover (P3.T13),,72-76,72,76
 0021700248,2017-11-20,NOP,OKC,31.22,3,4,47,OKC,OKC,fg_miss,7,False,False,,MISS Adams 1' Dunk,72-77,72,77
 0021700248,2017-11-20,NOP,OKC,31.27,3,4,44,NOP,NOP,reb,0,False,False,Davis REBOUND (Off:0 Def:8),,72-77,72,77
 0021700248,2017-11-20,NOP,OKC,31.52,3,4,29,NOP,NOP,fg3_make,66,False,False,Nelson 33' 3PT Jump Bank Shot (7 PTS) (Miller 3 AST),,75-77,75,77
@@ -312,8 +312,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700248,2017-11-20,NOP,OKC,32.03,3,3,58,NOP,NOP,reb,0,False,False,Miller REBOUND (Off:1 Def:3),,75-79,75,79
 0021700248,2017-11-20,NOP,OKC,32.1,3,3,54,NOP,NOP,fg3_make,1,False,False,Moore 26' 3PT Jump Shot (9 PTS) (Miller 4 AST),,78-79,78,79
 0021700248,2017-11-20,NOP,OKC,32.25,3,3,45,OKC,NOP,foul,1,False,False,Cunningham P.FOUL (P1.PN) (J.Van Duyne),,78-79,78,79
-0021700248,2017-11-20,NOP,OKC,32.25,3,3,45,OKC,OKC,ft_make,12,False,False,,Anthony Free Throw 2 of 2 (15 PTS),78-80,78,80
 0021700248,2017-11-20,NOP,OKC,32.25,3,3,45,OKC,OKC,ft_make,11,False,False,,Anthony Free Throw 1 of 2 (16 PTS),78-81,78,81
+0021700248,2017-11-20,NOP,OKC,32.25,3,3,45,OKC,OKC,ft_make,12,False,False,,Anthony Free Throw 2 of 2 (15 PTS),78-80,78,80
 0021700248,2017-11-20,NOP,OKC,32.47,3,3,32,NOP,NOP,fg3_make,1,False,False,Miller 25' 3PT Jump Shot (9 PTS) (Nelson 2 AST),,81-81,81,81
 0021700248,2017-11-20,NOP,OKC,32.82,3,3,11,OKC,OKC,tov,4,False,False,,Anthony Traveling Turnover (P1.T8),81-81,81,81
 0021700248,2017-11-20,NOP,OKC,32.82,3,3,11,NOP,NOP,tov,15,False,False,Davis Offensive Goaltending Turnover (P4.T14),,81-81,81,81
@@ -323,8 +323,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700248,2017-11-20,NOP,OKC,33.65,3,2,21,NOP,NOP,fg_miss,1,False,False,MISS Davis 14' Jump Shot,,81-81,81,81
 0021700248,2017-11-20,NOP,OKC,33.68,3,2,19,NOP,NOP,reb,0,False,False,Cunningham REBOUND (Off:1 Def:2),,81-81,81,81
 0021700248,2017-11-20,NOP,OKC,33.72,3,2,17,NOP,NOP,tov,2,False,True,Cunningham Lost Ball Turnover (P2.T15),,81-81,81,81
-0021700248,2017-11-20,NOP,OKC,33.72,3,2,17,OKC,OKC,tov,4,False,False,,Westbrook Traveling Turnover (P3.T9),81-81,81,81
 0021700248,2017-11-20,NOP,OKC,33.72,3,2,17,NOP,OKC,steal,2,False,True,steal,steal,81-81,81,81
+0021700248,2017-11-20,NOP,OKC,33.72,3,2,17,OKC,OKC,tov,4,False,False,,Westbrook Traveling Turnover (P3.T9),81-81,81,81
 0021700248,2017-11-20,NOP,OKC,33.8,3,2,12,NOP,NOP,fg_make,99,False,False,Nelson 3' Cutting Finger Roll Layup Shot (9 PTS) (Davis 2 AST),,83-81,83,81
 0021700248,2017-11-20,NOP,OKC,34.08,3,1,55,OKC,OKC,fg3_miss,1,False,False,,MISS Felton 3PT Jump Shot,83-81,83,81
 0021700248,2017-11-20,NOP,OKC,34.13,3,1,52,NOP,NOP,reb,0,False,False,Allen REBOUND (Off:0 Def:2),,83-81,83,81

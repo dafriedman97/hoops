@@ -65,8 +65,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900422,2019-12-20,BOS,DET,6.65,1,5,21,BOS,BOS,reb,0,False,False,Kanter REBOUND (Off:2 Def:1),,15-13,15,13
 0021900422,2019-12-20,BOS,DET,6.88,1,5,7,BOS,BOS,fg_make,1,False,False,Kanter 19' Jump Shot (2 PTS) (Brown 2 AST),,17-13,17,13
 0021900422,2019-12-20,BOS,DET,7.18,1,4,49,DET,DET,fg_miss,101,False,False,,MISS Brown 5' Driving Floating Jump Shot,17-13,17,13
-0021900422,2019-12-20,BOS,DET,7.25,1,4,45,DET,DET,fg_make,97,False,False,,Brown 1' Tip Layup Shot (2 PTS),17-15,17,15
 0021900422,2019-12-20,BOS,DET,7.25,1,4,45,DET,DET,reb,0,False,False,,Brown REBOUND (Off:2 Def:1),17-15,17,15
+0021900422,2019-12-20,BOS,DET,7.25,1,4,45,DET,DET,fg_make,97,False,False,,Brown 1' Tip Layup Shot (2 PTS),17-15,17,15
 0021900422,2019-12-20,BOS,DET,7.48,1,4,31,BOS,BOS,fg_miss,1,False,False,MISS Walker 21' Jump Shot,,17-15,17,15
 0021900422,2019-12-20,BOS,DET,7.48,1,4,31,DET,DET,reb,0,False,False,,Pistons Rebound,17-15,17,15
 0021900422,2019-12-20,BOS,DET,7.67,1,4,20,DET,DET,tov,45,False,False,,Mykhailiuk Out of Bounds - Bad Pass Turnover Turnover (P1.T4),17-15,17,15
@@ -75,8 +75,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900422,2019-12-20,BOS,DET,8.32,1,3,41,BOS,BOS,fg3_miss,1,False,False,MISS Tatum 28' 3PT Jump Shot,,19-17,19,17
 0021900422,2019-12-20,BOS,DET,8.35,1,3,39,BOS,BOS,reb,0,False,False,Kanter REBOUND (Off:3 Def:1),,19-17,19,17
 0021900422,2019-12-20,BOS,DET,8.5,1,3,30,BOS,BOS,fg_make,5,False,False,Tatum 5' Layup (11 PTS),,21-17,21,17
-0021900422,2019-12-20,BOS,DET,8.63,1,3,22,DET,DET,tov,1,False,True,,Rose Bad Pass Turnover (P1.T5),21-17,21,17
 0021900422,2019-12-20,BOS,DET,8.63,1,3,22,BOS,BOS,timeout,1,False,False,CELTICS Timeout: Regular (Full 2 Short 0),,21-17,21,17
+0021900422,2019-12-20,BOS,DET,8.63,1,3,22,DET,DET,tov,1,False,True,,Rose Bad Pass Turnover (P1.T5),21-17,21,17
 0021900422,2019-12-20,BOS,DET,8.63,1,3,22,DET,BOS,steal,1,False,True,steal,steal,21-17,21,17
 0021900422,2019-12-20,BOS,DET,8.92,1,3,5,BOS,BOS,fg_make,6,False,False,Langford 2' Driving Layup (2 PTS),,23-17,23,17
 0021900422,2019-12-20,BOS,DET,9.33,1,2,40,DET,DET,fg_make,73,False,False,,Drummond 2' Driving Reverse Layup (4 PTS),23-19,23,19
@@ -178,8 +178,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900422,2019-12-20,BOS,DET,19.55,2,4,27,BOS,BOS,fg_miss,41,False,False,MISS Walker 4' Running Layup,,46-35,46,35
 0021900422,2019-12-20,BOS,DET,19.58,2,4,25,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:0 Def:5),46-35,46,35
 0021900422,2019-12-20,BOS,DET,19.6,2,4,24,DET,DET,fg_miss,41,False,False,,MISS Mykhailiuk 2' Running Layup,46-35,46,35
-0021900422,2019-12-20,BOS,DET,19.6,2,4,24,DET,DET,reb,0,False,False,,Morris REBOUND (Off:1 Def:2),46-35,46,35
 0021900422,2019-12-20,BOS,DET,19.6,2,4,24,DET,DET,fg_make,72,False,False,,Morris 1' Putback Layup (10 PTS),46-37,46,37
+0021900422,2019-12-20,BOS,DET,19.6,2,4,24,DET,DET,reb,0,False,False,,Morris REBOUND (Off:1 Def:2),46-35,46,35
 0021900422,2019-12-20,BOS,DET,19.6,2,4,24,DET,BOS,violation,2,False,False,Defensive Goaltending,,46-37,46,37
 0021900422,2019-12-20,BOS,DET,19.9,2,4,6,BOS,BOS,tov,1,False,True,Brown Bad Pass Turnover (P3.T7),,46-37,46,37
 0021900422,2019-12-20,BOS,DET,19.9,2,4,6,BOS,DET,steal,1,False,True,steal,steal,46-37,46,37
@@ -193,9 +193,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900422,2019-12-20,BOS,DET,20.63,2,3,22,DET,DET,tov,45,False,False,,Drummond Out of Bounds - Bad Pass Turnover Turnover (P3.T14),46-40,46,40
 0021900422,2019-12-20,BOS,DET,20.98,2,3,1,BOS,BOS,fg_make,79,False,False,Brown 13' Pullup Jump Shot (9 PTS),,48-40,48,40
 0021900422,2019-12-20,BOS,DET,21.3,2,2,42,DET,DET,fg_miss,6,True,False,,MISS Mykhailiuk 8' Driving Layup,48-40,48,40
+0021900422,2019-12-20,BOS,DET,21.3,2,2,42,DET,BOS,block,6,True,False,block,block,48-40,48,40
 0021900422,2019-12-20,BOS,DET,21.3,2,2,42,DET,DET,reb,0,False,False,,Pistons Rebound,48-40,48,40
 0021900422,2019-12-20,BOS,DET,21.3,2,2,42,BOS,BOS,timeout,1,False,False,CELTICS Timeout: Regular (Full 3 Short 0),,48-40,48,40
-0021900422,2019-12-20,BOS,DET,21.3,2,2,42,DET,BOS,block,6,True,False,block,block,48-40,48,40
 0021900422,2019-12-20,BOS,DET,21.38,2,2,37,DET,DET,tov,1,False,True,,Mykhailiuk Bad Pass Turnover (P2.T15),48-40,48,40
 0021900422,2019-12-20,BOS,DET,21.38,2,2,37,DET,BOS,steal,1,False,True,steal,steal,48-40,48,40
 0021900422,2019-12-20,BOS,DET,21.45,2,2,33,BOS,BOS,fg_make,41,False,False,Tatum Running Layup (15 PTS) (Walker 3 AST),,50-40,50,40
@@ -241,8 +241,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900422,2019-12-20,BOS,DET,25.62,3,10,23,DET,DET,fg_miss,79,False,False,,MISS Snell 15' Pullup Jump Shot,62-52,62,52
 0021900422,2019-12-20,BOS,DET,25.65,3,10,21,BOS,BOS,reb,0,False,False,Ojeleye REBOUND (Off:1 Def:1),,62-52,62,52
 0021900422,2019-12-20,BOS,DET,25.75,3,10,15,BOS,BOS,fg3_miss,1,False,False,MISS Walker 26' 3PT Jump Shot,,62-52,62,52
-0021900422,2019-12-20,BOS,DET,25.87,3,10,8,BOS,BOS,fg_make,107,False,False,Theis 1' Tip Dunk Shot (5 PTS),,64-52,64,52
 0021900422,2019-12-20,BOS,DET,25.87,3,10,8,BOS,BOS,reb,0,False,False,Theis REBOUND (Off:2 Def:3),,64-52,64,52
+0021900422,2019-12-20,BOS,DET,25.87,3,10,8,BOS,BOS,fg_make,107,False,False,Theis 1' Tip Dunk Shot (5 PTS),,64-52,64,52
 0021900422,2019-12-20,BOS,DET,26.12,3,9,53,DET,DET,fg_miss,6,True,False,,MISS Drummond 2' Driving Layup,64-52,64,52
 0021900422,2019-12-20,BOS,DET,26.12,3,9,53,DET,BOS,block,6,True,False,block,block,64-52,64,52
 0021900422,2019-12-20,BOS,DET,26.17,3,9,50,BOS,BOS,reb,0,False,False,Tatum REBOUND (Off:0 Def:4),,64-52,64,52
@@ -385,8 +385,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900422,2019-12-20,BOS,DET,40.45,4,7,33,DET,DET,reb,0,False,False,,Pistons Rebound,100-73,100,73
 0021900422,2019-12-20,BOS,DET,40.5,4,7,30,,BOS,jump_ball,0,False,False,Jump Ball Kanter vs. Maker: Tip to Rose,,100-73,100,73
 0021900422,2019-12-20,BOS,DET,40.72,4,7,17,DET,DET,fg_miss,1,True,False,,MISS Galloway 16' Jump Shot,100-73,100,73
-0021900422,2019-12-20,BOS,DET,40.72,4,7,17,BOS,BOS,reb,0,False,False,Green REBOUND (Off:1 Def:2),,100-73,100,73
 0021900422,2019-12-20,BOS,DET,40.72,4,7,17,DET,BOS,block,1,True,False,block,block,100-73,100,73
+0021900422,2019-12-20,BOS,DET,40.72,4,7,17,BOS,BOS,reb,0,False,False,Green REBOUND (Off:1 Def:2),,100-73,100,73
 0021900422,2019-12-20,BOS,DET,40.77,4,7,14,BOS,BOS,fg_miss,41,False,False,MISS Green 2' Running Layup,,100-73,100,73
 0021900422,2019-12-20,BOS,DET,40.82,4,7,11,DET,DET,reb,0,False,False,,Maker REBOUND (Off:2 Def:2),100-73,100,73
 0021900422,2019-12-20,BOS,DET,40.87,4,7,8,DET,BOS,foul,1,False,False,Langford P.FOUL (P2.T1) (J.Goldenberg),,100-73,100,73

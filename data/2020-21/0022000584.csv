@@ -126,9 +126,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000584,2021-03-12,UTA,HOU,12.23,2,11,46,UTA,UTA,fg3_miss,1,False,False,MISS Clarkson 3PT Jump Shot,,36-27,36,27
 0022000584,2021-03-12,UTA,HOU,12.32,2,11,41,UTA,UTA,reb,0,False,False,Clarkson REBOUND (Off:1 Def:0),,36-27,36,27
 0022000584,2021-03-12,UTA,HOU,12.33,2,11,40,UTA,UTA,fg_miss,5,True,False,MISS Gobert 2' Layup,,36-27,36,27
+0022000584,2021-03-12,UTA,HOU,12.33,2,11,40,UTA,HOU,block,5,True,False,block,block,36-27,36,27
 0022000584,2021-03-12,UTA,HOU,12.33,2,11,40,HOU,HOU,reb,0,False,False,,Rockets Rebound,36-27,36,27
 0022000584,2021-03-12,UTA,HOU,12.33,2,11,40,HOU,UTA,foul,3,False,False,Gobert L.B.FOUL (P1.T1) (N.Buchert),,36-27,36,27
-0022000584,2021-03-12,UTA,HOU,12.33,2,11,40,UTA,HOU,block,5,True,False,block,block,36-27,36,27
 0022000584,2021-03-12,UTA,HOU,12.67,2,11,20,HOU,HOU,tov,2,False,True,,Tate Lost Ball Turnover (P1.T2),36-27,36,27
 0022000584,2021-03-12,UTA,HOU,12.67,2,11,20,HOU,UTA,steal,2,False,True,steal,steal,36-27,36,27
 0022000584,2021-03-12,UTA,HOU,12.73,2,11,16,UTA,UTA,fg3_miss,1,False,False,MISS Clarkson 26' 3PT Jump Shot,,36-27,36,27
@@ -170,8 +170,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000584,2021-03-12,UTA,HOU,16.72,2,7,17,UTA,UTA,tov,2,False,True,Mitchell Lost Ball Turnover (P3.T7),,47-32,47,32
 0022000584,2021-03-12,UTA,HOU,16.72,2,7,17,UTA,HOU,steal,2,False,True,steal,steal,47-32,47,32
 0022000584,2021-03-12,UTA,HOU,16.78,2,7,13,HOU,HOU,fg_miss,5,True,False,,MISS Martin Jr. 2' Layup,47-32,47,32
-0022000584,2021-03-12,UTA,HOU,16.78,2,7,13,HOU,HOU,reb,0,False,False,,Martin Jr. REBOUND (Off:3 Def:1),47-32,47,32
 0022000584,2021-03-12,UTA,HOU,16.78,2,7,13,HOU,UTA,block,5,True,False,block,block,47-32,47,32
+0022000584,2021-03-12,UTA,HOU,16.78,2,7,13,HOU,HOU,reb,0,False,False,,Martin Jr. REBOUND (Off:3 Def:1),47-32,47,32
 0022000584,2021-03-12,UTA,HOU,16.8,2,7,12,HOU,HOU,fg_make,5,False,False,,Martin Jr. 2' Layup (5 PTS),47-34,47,34
 0022000584,2021-03-12,UTA,HOU,17.03,2,6,58,UTA,UTA,fg3_make,1,False,False,Clarkson 25' 3PT Jump Shot (8 PTS) (Mitchell 3 AST),,50-34,50,34
 0022000584,2021-03-12,UTA,HOU,17.22,2,6,47,HOU,HOU,fg3_miss,1,False,False,,MISS Porter Jr. 25' 3PT Jump Shot,50-34,50,34
@@ -192,8 +192,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000584,2021-03-12,UTA,HOU,18.77,2,5,14,HOU,UTA,foul,3,False,False,O'Neale L.B.FOUL (P2.T4) (T.Maddox),,50-36,50,36
 0022000584,2021-03-12,UTA,HOU,18.88,2,5,7,HOU,HOU,fg_make,6,False,False,,Brown 4' Driving Layup (5 PTS),50-38,50,38
 0022000584,2021-03-12,UTA,HOU,19.13,2,4,52,UTA,UTA,fg_miss,6,True,False,MISS Mitchell 6' Driving Layup,,50-38,50,38
-0022000584,2021-03-12,UTA,HOU,19.13,2,4,52,UTA,UTA,reb,0,False,False,JAZZ Rebound,,50-38,50,38
 0022000584,2021-03-12,UTA,HOU,19.13,2,4,52,UTA,HOU,block,6,True,False,block,block,50-38,50,38
+0022000584,2021-03-12,UTA,HOU,19.13,2,4,52,UTA,UTA,reb,0,False,False,JAZZ Rebound,,50-38,50,38
 0022000584,2021-03-12,UTA,HOU,19.18,2,4,49,UTA,UTA,fg3_miss,1,False,False,MISS Ingles 3PT Jump Shot,,50-38,50,38
 0022000584,2021-03-12,UTA,HOU,19.27,2,4,44,HOU,HOU,reb,0,False,False,,Porter Jr. REBOUND (Off:0 Def:1),50-38,50,38
 0022000584,2021-03-12,UTA,HOU,19.4,2,4,36,HOU,HOU,fg_miss,66,False,False,,MISS Brown 15' Jump Bank Shot,50-38,50,38
@@ -263,8 +263,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000584,2021-03-12,UTA,HOU,25.1,3,10,54,HOU,HOU,fg3_miss,1,False,False,,MISS Porter Jr. 25' 3PT Jump Shot,68-50,68,50
 0022000584,2021-03-12,UTA,HOU,25.13,3,10,52,UTA,UTA,reb,0,False,False,Mitchell REBOUND (Off:0 Def:4),,68-50,68,50
 0022000584,2021-03-12,UTA,HOU,25.2,3,10,48,UTA,UTA,fg3_miss,1,False,False,MISS Bogdanovic 25' 3PT Jump Shot,,68-50,68,50
-0022000584,2021-03-12,UTA,HOU,25.32,3,10,41,UTA,UTA,fg_make,97,False,False,O'Neale Tip Layup Shot (4 PTS),,70-50,70,50
 0022000584,2021-03-12,UTA,HOU,25.32,3,10,41,UTA,UTA,reb,0,False,False,O'Neale REBOUND (Off:1 Def:7),,70-50,70,50
+0022000584,2021-03-12,UTA,HOU,25.32,3,10,41,UTA,UTA,fg_make,97,False,False,O'Neale Tip Layup Shot (4 PTS),,70-50,70,50
 0022000584,2021-03-12,UTA,HOU,25.52,3,10,29,HOU,HOU,fg3_make,1,False,False,,McLemore 26' 3PT Jump Shot (8 PTS) (Porter Jr. 6 AST),70-53,70,53
 0022000584,2021-03-12,UTA,HOU,25.8,3,10,12,UTA,UTA,fg_make,7,False,False,Gobert 1' Dunk (9 PTS) (Bogdanovic 3 AST),,72-53,72,53
 0022000584,2021-03-12,UTA,HOU,26.08,3,9,55,HOU,HOU,fg_miss,5,False,False,,MISS Tate 7' Layup,72-53,72,53
@@ -393,8 +393,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000584,2021-03-12,UTA,HOU,39.83,4,8,10,HOU,HOU,fg3_miss,1,False,False,,MISS Porter Jr. 25' 3PT Jump Shot,94-85,94,85
 0022000584,2021-03-12,UTA,HOU,39.88,4,8,7,HOU,HOU,reb,0,False,False,,Nwaba REBOUND (Off:2 Def:4),94-85,94,85
 0022000584,2021-03-12,UTA,HOU,39.9,4,8,6,HOU,HOU,fg_miss,5,True,False,,MISS Porter Jr. 3' Layup,94-85,94,85
-0022000584,2021-03-12,UTA,HOU,39.9,4,8,6,HOU,HOU,reb,0,False,False,,Rockets Rebound,94-85,94,85
 0022000584,2021-03-12,UTA,HOU,39.9,4,8,6,HOU,UTA,block,5,True,False,block,block,94-85,94,85
+0022000584,2021-03-12,UTA,HOU,39.9,4,8,6,HOU,HOU,reb,0,False,False,,Rockets Rebound,94-85,94,85
 0022000584,2021-03-12,UTA,HOU,39.97,4,8,2,HOU,HOU,fg3_make,1,False,False,,Tate 26' 3PT Jump Shot (7 PTS) (Brown 1 AST),94-88,94,88
 0022000584,2021-03-12,UTA,HOU,40.12,4,7,53,HOU,UTA,foul,26,False,False,Ingles Offensive Charge Foul (P2.T3) (N.Buchert),,94-88,94,88
 0022000584,2021-03-12,UTA,HOU,40.12,4,7,53,UTA,UTA,tov,37,False,False,Ingles Offensive Foul Turnover (P2.T18),,94-88,94,88

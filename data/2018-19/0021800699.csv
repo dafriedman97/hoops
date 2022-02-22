@@ -81,8 +81,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800699,2019-01-21,PHI,HOU,7.12,1,4,53,HOU,HOU,fg_make,41,False,False,,Tucker 1' Running Layup (2 PTS),15-18,15,18
 0021800699,2019-01-21,PHI,HOU,7.58,1,4,25,PHI,PHI,fg_make,63,False,False,McConnell 12' Fadeaway Jumper (4 PTS) (Chandler 2 AST),,17-18,17,18
 0021800699,2019-01-21,PHI,HOU,7.87,1,4,8,HOU,HOU,tov,2,False,True,,Harden Lost Ball Turnover (P2.T2),17-18,17,18
-0021800699,2019-01-21,PHI,HOU,7.87,1,4,8,PHI,HOU,foul,28,False,False,,Tucker Personal Take Foul (P1.T4) (S.Twardoski),17-18,17,18
 0021800699,2019-01-21,PHI,HOU,7.87,1,4,8,HOU,PHI,steal,2,False,True,steal,steal,17-18,17,18
+0021800699,2019-01-21,PHI,HOU,7.87,1,4,8,PHI,HOU,foul,28,False,False,,Tucker Personal Take Foul (P1.T4) (S.Twardoski),17-18,17,18
 0021800699,2019-01-21,PHI,HOU,7.9,1,4,6,PHI,PHI,fg3_miss,1,False,False,MISS Shamet 3PT Jump Shot,,17-18,17,18
 0021800699,2019-01-21,PHI,HOU,7.97,1,4,2,HOU,HOU,reb,0,False,False,,Tucker REBOUND (Off:2 Def:2),17-18,17,18
 0021800699,2019-01-21,PHI,HOU,8.12,1,3,53,HOU,HOU,fg3_make,1,False,False,,Harden 26' 3PT Jump Shot (9 PTS),17-21,17,21
@@ -187,9 +187,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800699,2019-01-21,PHI,HOU,20.05,2,3,57,PHI,PHI,reb,0,False,False,Bolden REBOUND (Off:1 Def:3),,54-42,54,42
 0021800699,2019-01-21,PHI,HOU,20.28,2,3,43,PHI,PHI,fg_make,79,False,False,Redick 20' Pullup Jump Shot (10 PTS) (Simmons 3 AST),,56-42,56,42
 0021800699,2019-01-21,PHI,HOU,20.43,2,3,34,HOU,HOU,fg_miss,6,True,False,,MISS Rivers 5' Driving Layup,56-42,56,42
+0021800699,2019-01-21,PHI,HOU,20.43,2,3,34,HOU,PHI,block,6,True,False,block,block,56-42,56,42
 0021800699,2019-01-21,PHI,HOU,20.43,2,3,34,PHI,PHI,reb,0,False,False,76ERS Rebound,,56-42,56,42
 0021800699,2019-01-21,PHI,HOU,20.43,2,3,34,,PHI,jump_ball,0,False,False,Jump Ball Redick vs. Rivers: Tip to Embiid,,56-42,56,42
-0021800699,2019-01-21,PHI,HOU,20.43,2,3,34,HOU,PHI,block,6,True,False,block,block,56-42,56,42
 0021800699,2019-01-21,PHI,HOU,20.58,2,3,25,PHI,PHI,fg3_make,1,False,False,Redick 29' 3PT Jump Shot (13 PTS) (Simmons 4 AST),,59-42,59,42
 0021800699,2019-01-21,PHI,HOU,20.58,2,3,25,HOU,HOU,timeout,1,False,False,,Rockets Timeout: Regular (Reg.2 Short 0),59-42,59,42
 0021800699,2019-01-21,PHI,HOU,20.83,2,3,10,HOU,HOU,fg3_make,80,False,False,,Harden 26' 3PT Step Back Jump Shot (22 PTS),59-45,59,45
@@ -306,15 +306,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800699,2019-01-21,PHI,HOU,29.98,3,6,1,HOU,HOU,fg3_miss,1,False,False,,MISS Gordon 27' 3PT Jump Shot,80-54,80,54
 0021800699,2019-01-21,PHI,HOU,30.02,3,5,59,PHI,PHI,reb,0,False,False,McConnell REBOUND (Off:0 Def:1),,80-54,80,54
 0021800699,2019-01-21,PHI,HOU,30.08,3,5,55,PHI,PHI,fg_miss,6,True,False,MISS Bolden 2' Driving Layup,,80-54,80,54
-0021800699,2019-01-21,PHI,HOU,30.08,3,5,55,PHI,PHI,reb,0,False,False,76ERS Rebound,,80-54,80,54
 0021800699,2019-01-21,PHI,HOU,30.08,3,5,55,PHI,HOU,block,6,True,False,block,block,80-54,80,54
+0021800699,2019-01-21,PHI,HOU,30.08,3,5,55,PHI,PHI,reb,0,False,False,76ERS Rebound,,80-54,80,54
 0021800699,2019-01-21,PHI,HOU,30.13,3,5,52,PHI,PHI,fg_make,79,False,False,Shamet 20' Pullup Jump Shot (8 PTS),,82-54,82,54
 0021800699,2019-01-21,PHI,HOU,30.55,3,5,27,HOU,HOU,fg3_make,1,False,False,,Harden 26' 3PT Jump Shot (34 PTS),82-57,82,57
 0021800699,2019-01-21,PHI,HOU,30.85,3,5,9,PHI,PHI,fg_miss,47,False,False,MISS Simmons 14' Turnaround Jump Shot,,82-57,82,57
 0021800699,2019-01-21,PHI,HOU,30.88,3,5,7,HOU,HOU,reb,0,False,False,,Faried REBOUND (Off:0 Def:4),82-57,82,57
 0021800699,2019-01-21,PHI,HOU,31.0,3,5,0,HOU,HOU,fg_miss,2,True,False,,MISS Gordon 7' Running Jump Shot,82-57,82,57
-0021800699,2019-01-21,PHI,HOU,31.0,3,5,0,HOU,HOU,reb,0,False,False,,Rockets Rebound,82-57,82,57
 0021800699,2019-01-21,PHI,HOU,31.0,3,5,0,HOU,PHI,block,2,True,False,block,block,82-57,82,57
+0021800699,2019-01-21,PHI,HOU,31.0,3,5,0,HOU,HOU,reb,0,False,False,,Rockets Rebound,82-57,82,57
 0021800699,2019-01-21,PHI,HOU,31.12,3,4,53,HOU,PHI,foul,1,False,False,Bolden P.FOUL (P2.T3) (M.Callahan),,82-57,82,57
 0021800699,2019-01-21,PHI,HOU,31.35,3,4,39,HOU,HOU,fg3_make,1,False,False,,Harden 26' 3PT Jump Shot (37 PTS),82-60,82,60
 0021800699,2019-01-21,PHI,HOU,31.4,3,4,36,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 3 Short 0),,82-60,82,60
@@ -387,8 +387,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800699,2019-01-21,PHI,HOU,38.38,4,9,37,PHI,HOU,steal,1,False,True,steal,steal,96-66,96,66
 0021800699,2019-01-21,PHI,HOU,38.47,4,9,32,HOU,HOU,fg_make,50,False,False,,Ennis III 1' Running Dunk (2 PTS),96-68,96,68
 0021800699,2019-01-21,PHI,HOU,38.78,4,9,13,PHI,PHI,fg_miss,6,True,False,MISS Brewer 3' Driving Layup,,96-68,96,68
-0021800699,2019-01-21,PHI,HOU,38.78,4,9,13,PHI,PHI,reb,0,False,False,76ERS Rebound,,96-68,96,68
 0021800699,2019-01-21,PHI,HOU,38.78,4,9,13,PHI,HOU,block,6,True,False,block,block,96-68,96,68
+0021800699,2019-01-21,PHI,HOU,38.78,4,9,13,PHI,PHI,reb,0,False,False,76ERS Rebound,,96-68,96,68
 0021800699,2019-01-21,PHI,HOU,38.88,4,9,7,PHI,PHI,fg_make,67,False,False,Johnson 2' Hook Bank Shot (2 PTS) (McConnell 3 AST),,98-68,98,68
 0021800699,2019-01-21,PHI,HOU,39.13,4,8,52,HOU,HOU,fg3_miss,1,False,False,,MISS Green 26' 3PT Jump Shot,98-68,98,68
 0021800699,2019-01-21,PHI,HOU,39.13,4,8,52,PHI,PHI,reb,0,False,False,Johnson REBOUND (Off:0 Def:1),,98-68,98,68

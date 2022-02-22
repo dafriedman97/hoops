@@ -102,8 +102,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700073,2017-10-27,NYK,BKN,12.45,2,11,33,NYK,NYK,fg_miss,6,False,False,MISS Beasley 3' Driving Layup,,23-28,23,28
 0021700073,2017-10-27,NYK,BKN,12.45,2,11,33,BKN,BKN,reb,0,False,False,,Booker REBOUND (Off:0 Def:1),23-28,23,28
 0021700073,2017-10-27,NYK,BKN,12.45,2,11,33,BKN,BKN,fg_miss,3,True,False,,MISS Booker 4' Hook Shot,23-28,23,28
-0021700073,2017-10-27,NYK,BKN,12.45,2,11,33,NYK,NYK,reb,0,False,False,McDermott REBOUND (Off:1 Def:1),,23-28,23,28
 0021700073,2017-10-27,NYK,BKN,12.45,2,11,33,BKN,NYK,block,3,True,False,block,block,23-28,23,28
+0021700073,2017-10-27,NYK,BKN,12.45,2,11,33,NYK,NYK,reb,0,False,False,McDermott REBOUND (Off:1 Def:1),,23-28,23,28
 0021700073,2017-10-27,NYK,BKN,13.12,2,10,53,BKN,NYK,foul,2,False,False,Ntilikina S.FOUL (P2.T1) (J.Sterling),,23-28,23,28
 0021700073,2017-10-27,NYK,BKN,13.12,2,10,53,BKN,BKN,ft_miss,11,False,False,,MISS LeVert Free Throw 1 of 2,23-28,23,28
 0021700073,2017-10-27,NYK,BKN,13.12,2,10,53,BKN,BKN,reb,1,False,False,,Nets Rebound,23-28,23,28
@@ -208,9 +208,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700073,2017-10-27,NYK,BKN,23.2,2,0,48,BKN,BKN,fg_make,79,False,False,,Russell 16' Pullup Jump Shot (7 PTS),45-42,45,42
 0021700073,2017-10-27,NYK,BKN,23.53,2,0,28,NYK,BKN,foul,1,False,False,,Carroll P.FOUL (P3.PN) (D.Collins),45-42,45,42
 0021700073,2017-10-27,NYK,BKN,23.53,2,0,28,NYK,,foul,16,False,False,,,45-42,45,42
-0021700073,2017-10-27,NYK,BKN,23.53,2,0,28,NYK,,foul,16,False,False,,,45-42,45,42
 0021700073,2017-10-27,NYK,BKN,23.53,2,0,28,NYK,NYK,ft_make,11,False,False,Porzingis Free Throw 1 of 2 (13 PTS),,46-42,46,42
 0021700073,2017-10-27,NYK,BKN,23.53,2,0,28,NYK,NYK,ft_make,12,False,False,Porzingis Free Throw 2 of 2 (14 PTS),,47-42,47,42
+0021700073,2017-10-27,NYK,BKN,23.53,2,0,28,NYK,,foul,16,False,False,,,45-42,45,42
 0021700073,2017-10-27,NYK,BKN,23.87,2,0,8,BKN,BKN,fg3_miss,1,False,False,,MISS Russell 25' 3PT Jump Shot,47-42,47,42
 0021700073,2017-10-27,NYK,BKN,23.9,2,0,6,NYK,NYK,reb,0,False,False,Jack REBOUND (Off:1 Def:3),,47-42,47,42
 0021700073,2017-10-27,NYK,BKN,23.98,2,0,1,NYK,NYK,fg3_miss,1,False,False,MISS Thomas 26' 3PT Jump Shot,,47-42,47,42
@@ -288,9 +288,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700073,2017-10-27,NYK,BKN,32.63,3,3,22,BKN,BKN,fg3_make,1,False,False,,Carroll 25' 3PT Jump Shot (5 PTS) (Dinwiddie 7 AST),76-57,76,57
 0021700073,2017-10-27,NYK,BKN,32.83,3,3,10,NYK,NYK,tov,2,False,False,Beasley Lost Ball Turnover (P1.T6),,76-57,76,57
 0021700073,2017-10-27,NYK,BKN,32.83,3,3,10,BKN,NYK,foul,1,False,False,Beasley P.FOUL (P2.PN) (B.Barnaky),,76-57,76,57
-0021700073,2017-10-27,NYK,BKN,32.83,3,3,10,BKN,BKN,ft_make,12,False,False,,Carroll Free Throw 2 of 2 (6 PTS),76-58,76,58
 0021700073,2017-10-27,NYK,BKN,32.83,3,3,10,BKN,BKN,ft_miss,11,False,False,,MISS Carroll Free Throw 1 of 2,76-58,76,58
 0021700073,2017-10-27,NYK,BKN,32.83,3,3,10,BKN,BKN,reb,1,False,False,,Nets Rebound,76-58,76,58
+0021700073,2017-10-27,NYK,BKN,32.83,3,3,10,BKN,BKN,ft_make,12,False,False,,Carroll Free Throw 2 of 2 (6 PTS),76-58,76,58
 0021700073,2017-10-27,NYK,BKN,33.2,3,2,48,NYK,NYK,fg_make,3,False,False,Kanter 7' Hook Shot (12 PTS),,78-58,78,58
 0021700073,2017-10-27,NYK,BKN,33.42,3,2,35,BKN,BKN,tov,1,False,False,,Acy Bad Pass Turnover (P1.T13),78-58,78,58
 0021700073,2017-10-27,NYK,BKN,33.42,3,2,35,NYK,NYK,timeout,1,False,False,KNICKS Timeout: Regular (Full 3 Short 0),,78-58,78,58

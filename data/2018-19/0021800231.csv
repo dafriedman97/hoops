@@ -8,8 +8,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800231,2018-11-17,HOU,SAC,1.02,1,10,59,HOU,HOU,fg3_miss,1,False,False,MISS Harden 26' 3PT Jump Shot,,2-2,2,2
 0021800231,2018-11-17,HOU,SAC,1.05,1,10,57,SAC,SAC,reb,0,False,False,,Cauley-Stein REBOUND (Off:0 Def:1),2-2,2,2
 0021800231,2018-11-17,HOU,SAC,1.22,1,10,47,SAC,SAC,fg_miss,1,True,False,,MISS Cauley-Stein 8' Jump Shot,2-2,2,2
-0021800231,2018-11-17,HOU,SAC,1.22,1,10,47,SAC,SAC,reb,0,False,False,,Kings Rebound,2-2,2,2
 0021800231,2018-11-17,HOU,SAC,1.22,1,10,47,SAC,HOU,block,1,True,False,block,block,2-2,2,2
+0021800231,2018-11-17,HOU,SAC,1.22,1,10,47,SAC,SAC,reb,0,False,False,,Kings Rebound,2-2,2,2
 0021800231,2018-11-17,HOU,SAC,1.25,1,10,45,SAC,SAC,tov,40,False,False,,Hield Out of Bounds Lost Ball Turnover (P1.T1),2-2,2,2
 0021800231,2018-11-17,HOU,SAC,1.47,1,10,32,HOU,HOU,tov,1,False,True,Paul Bad Pass Turnover (P1.T1),,2-2,2,2
 0021800231,2018-11-17,HOU,SAC,1.47,1,10,32,HOU,SAC,steal,1,False,True,steal,steal,2-2,2,2
@@ -27,8 +27,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800231,2018-11-17,HOU,SAC,2.8,1,9,12,SAC,SAC,fg3_miss,1,False,False,,MISS Fox 26' 3PT Jump Shot,9-7,9,7
 0021800231,2018-11-17,HOU,SAC,2.85,1,9,9,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:0 Def:1),,9-7,9,7
 0021800231,2018-11-17,HOU,SAC,2.92,1,9,5,HOU,HOU,fg_miss,5,True,False,MISS Capela 6' Layup,,9-7,9,7
-0021800231,2018-11-17,HOU,SAC,2.92,1,9,5,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,9-7,9,7
 0021800231,2018-11-17,HOU,SAC,2.92,1,9,5,HOU,SAC,block,5,True,False,block,block,9-7,9,7
+0021800231,2018-11-17,HOU,SAC,2.92,1,9,5,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,9-7,9,7
 0021800231,2018-11-17,HOU,SAC,2.98,1,9,1,,HOU,jump_ball,0,False,False,Jump Ball Capela vs. Cauley-Stein: Tip to Paul,,9-7,9,7
 0021800231,2018-11-17,HOU,SAC,3.23,1,8,46,HOU,HOU,fg_make,1,False,False,Ennis III 22' Jump Shot (2 PTS) (Paul 1 AST),,11-7,11,7
 0021800231,2018-11-17,HOU,SAC,3.33,1,8,40,SAC,SAC,timeout,1,False,False,,Kings Timeout: Regular (Reg.1 Short 0),11-7,11,7
@@ -47,8 +47,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800231,2018-11-17,HOU,SAC,5.22,1,6,47,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:2 Def:2),,14-12,14,12
 0021800231,2018-11-17,HOU,SAC,5.3,1,6,42,HOU,HOU,fg_make,98,False,False,Ennis III 3' Cutting Layup Shot (4 PTS) (Harden 1 AST),,16-12,16,12
 0021800231,2018-11-17,HOU,SAC,5.37,1,6,38,SAC,SAC,tov,1,False,True,,Fox Bad Pass Turnover (P1.T2),16-12,16,12
-0021800231,2018-11-17,HOU,SAC,5.37,1,6,38,HOU,SAC,foul,1,False,False,,Fox P.FOUL (P1.T3) (J.DeRosa),16-12,16,12
 0021800231,2018-11-17,HOU,SAC,5.37,1,6,38,SAC,HOU,steal,1,False,True,steal,steal,16-12,16,12
+0021800231,2018-11-17,HOU,SAC,5.37,1,6,38,HOU,SAC,foul,1,False,False,,Fox P.FOUL (P1.T3) (J.DeRosa),16-12,16,12
 0021800231,2018-11-17,HOU,SAC,5.52,1,6,29,HOU,HOU,fg_make,6,False,False,Harden 3' Driving Layup (7 PTS),,18-12,18,12
 0021800231,2018-11-17,HOU,SAC,5.83,1,6,10,SAC,SAC,fg_make,63,False,False,,Hield 13' Fadeaway Jumper (4 PTS),18-14,18,14
 0021800231,2018-11-17,HOU,SAC,6.07,1,5,56,HOU,HOU,fg_make,99,False,False,Tucker 3' Cutting Finger Roll Layup Shot (2 PTS) (Gordon 1 AST),,20-14,20,14
@@ -197,8 +197,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800231,2018-11-17,HOU,SAC,23.3,2,0,42,HOU,HOU,ft_make,11,False,False,Ennis III Free Throw 1 of 2 (5 PTS),,68-56,68,56
 0021800231,2018-11-17,HOU,SAC,23.3,2,0,42,HOU,HOU,ft_make,12,False,False,Ennis III Free Throw 2 of 2 (6 PTS),,69-56,69,56
 0021800231,2018-11-17,HOU,SAC,23.4,2,0,36,SAC,SAC,fg_miss,101,True,False,,MISS Fox 6' Driving Floating Jump Shot,69-56,69,56
-0021800231,2018-11-17,HOU,SAC,23.4,2,0,36,SAC,SAC,reb,0,False,False,,Kings Rebound,69-56,69,56
 0021800231,2018-11-17,HOU,SAC,23.4,2,0,36,SAC,HOU,block,101,True,False,block,block,69-56,69,56
+0021800231,2018-11-17,HOU,SAC,23.4,2,0,36,SAC,SAC,reb,0,False,False,,Kings Rebound,69-56,69,56
 0021800231,2018-11-17,HOU,SAC,23.45,2,0,33,SAC,SAC,tov,1,False,True,,Shumpert Bad Pass Turnover (P1.T8),69-56,69,56
 0021800231,2018-11-17,HOU,SAC,23.45,2,0,33,SAC,HOU,steal,1,False,True,steal,steal,69-56,69,56
 0021800231,2018-11-17,HOU,SAC,23.52,2,0,29,HOU,HOU,fg_make,108,False,False,Capela 1' Cutting Dunk Shot (14 PTS) (Paul 4 AST),,71-56,71,56
@@ -441,6 +441,6 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800231,2018-11-17,HOU,SAC,47.43,4,0,34,SAC,HOU,steal,2,False,True,steal,steal,130-112,130,112
 0021800231,2018-11-17,HOU,SAC,47.52,4,0,29,HOU,HOU,fg_make,7,False,False,Chriss 2' Dunk (2 PTS) (Carter-Williams 1 AST),,132-112,132,112
 0021800231,2018-11-17,HOU,SAC,47.68,4,0,19,SAC,SAC,fg_miss,6,True,False,,MISS Mason 7' Driving Layup,132-112,132,112
-0021800231,2018-11-17,HOU,SAC,47.68,4,0,19,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,132-112,132,112
 0021800231,2018-11-17,HOU,SAC,47.68,4,0,19,SAC,HOU,block,6,True,False,block,block,132-112,132,112
+0021800231,2018-11-17,HOU,SAC,47.68,4,0,19,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,132-112,132,112
 0021800231,2018-11-17,HOU,SAC,48.0,4,0,0,HOU,,period_end,0,False,False,,,132-112,132,112

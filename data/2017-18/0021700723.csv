@@ -63,8 +63,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700723,2018-01-26,PHX,NYK,7.25,1,4,45,NYK,NYK,fg3_miss,1,False,False,,MISS Porzingis 25' 3PT Jump Shot,15-26,15,26
 0021700723,2018-01-26,PHX,NYK,7.28,1,4,43,PHX,PHX,reb,0,False,False,Booker REBOUND (Off:1 Def:2),,15-26,15,26
 0021700723,2018-01-26,PHX,NYK,7.4,1,4,36,PHX,PHX,fg_miss,6,True,False,MISS Booker 7' Driving Layup,,15-26,15,26
-0021700723,2018-01-26,PHX,NYK,7.4,1,4,36,PHX,PHX,reb,0,False,False,SUNS Rebound,,15-26,15,26
 0021700723,2018-01-26,PHX,NYK,7.4,1,4,36,PHX,NYK,block,6,True,False,block,block,15-26,15,26
+0021700723,2018-01-26,PHX,NYK,7.4,1,4,36,PHX,PHX,reb,0,False,False,SUNS Rebound,,15-26,15,26
 0021700723,2018-01-26,PHX,NYK,7.43,1,4,34,PHX,PHX,fg3_make,1,False,False,Dudley 27' 3PT Jump Shot (3 PTS) (Booker 2 AST),,18-26,18,26
 0021700723,2018-01-26,PHX,NYK,7.63,1,4,22,NYK,PHX,foul,27,False,False,Canaan Personal Block Foul (P1.T4) (G.Petraitis),,18-26,18,26
 0021700723,2018-01-26,PHX,NYK,7.75,1,4,15,NYK,NYK,fg_miss,98,False,False,,MISS Lee 7' Cutting Layup Shot,18-26,18,26
@@ -163,8 +163,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700723,2018-01-26,PHX,NYK,18.68,2,5,19,PHX,PHX,fg3_miss,1,False,False,MISS Ulis 26' 3PT Jump Shot,,39-42,39,42
 0021700723,2018-01-26,PHX,NYK,18.72,2,5,17,NYK,NYK,reb,0,False,False,,Lee REBOUND (Off:0 Def:2),39-42,39,42
 0021700723,2018-01-26,PHX,NYK,18.78,2,5,13,NYK,NYK,tov,1,False,True,,Lee Bad Pass Turnover (P2.T9),39-42,39,42
-0021700723,2018-01-26,PHX,NYK,18.78,2,5,13,PHX,NYK,foul,3,False,False,,Jack L.B.FOUL (P2.T2) (M.Boland),39-42,39,42
 0021700723,2018-01-26,PHX,NYK,18.78,2,5,13,NYK,PHX,steal,1,False,True,steal,steal,39-42,39,42
+0021700723,2018-01-26,PHX,NYK,18.78,2,5,13,PHX,NYK,foul,3,False,False,,Jack L.B.FOUL (P2.T2) (M.Boland),39-42,39,42
 0021700723,2018-01-26,PHX,NYK,19.0,2,5,0,PHX,PHX,fg_miss,1,False,False,MISS Chriss 20' Jump Shot,,39-42,39,42
 0021700723,2018-01-26,PHX,NYK,19.05,2,4,57,NYK,NYK,reb,0,False,False,,Kanter REBOUND (Off:1 Def:4),39-42,39,42
 0021700723,2018-01-26,PHX,NYK,19.23,2,4,46,NYK,NYK,fg3_miss,1,False,False,,MISS Jack 25' 3PT Jump Shot,39-42,39,42
@@ -297,8 +297,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700723,2018-01-26,PHX,NYK,31.57,3,4,26,NYK,NYK,reb,0,False,False,,Kanter REBOUND (Off:2 Def:8),57-72,57,72
 0021700723,2018-01-26,PHX,NYK,31.65,3,4,21,NYK,NYK,fg_make,6,False,False,,Lee Driving Layup (11 PTS) (Burke 1 AST),57-74,57,74
 0021700723,2018-01-26,PHX,NYK,31.93,3,4,4,PHX,PHX,fg_miss,75,True,False,MISS Booker 2' Driving Finger Roll Layup,,57-74,57,74
-0021700723,2018-01-26,PHX,NYK,31.93,3,4,4,PHX,PHX,reb,0,False,False,SUNS Rebound,,57-74,57,74
 0021700723,2018-01-26,PHX,NYK,31.93,3,4,4,PHX,NYK,block,75,True,False,block,block,57-74,57,74
+0021700723,2018-01-26,PHX,NYK,31.93,3,4,4,PHX,PHX,reb,0,False,False,SUNS Rebound,,57-74,57,74
 0021700723,2018-01-26,PHX,NYK,31.95,3,4,3,PHX,,foul,16,False,False,,,57-74,57,74
 0021700723,2018-01-26,PHX,NYK,31.95,3,4,3,PHX,PHX,ejection,4,False,False,Booker Ejection:Other,,57-74,57,74
 0021700723,2018-01-26,PHX,NYK,32.07,3,3,56,PHX,PHX,fg_make,6,False,False,Warren 1' Driving Layup (15 PTS) (Dudley 3 AST),,59-74,59,74
@@ -315,15 +315,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700723,2018-01-26,PHX,NYK,33.27,3,2,44,PHX,PHX,fg3_make,1,False,False,Warren 3PT Jump Shot (18 PTS) (Dudley 4 AST),,62-75,62,75
 0021700723,2018-01-26,PHX,NYK,33.55,3,2,27,NYK,NYK,tov,40,False,False,,Burke Out of Bounds Lost Ball Turnover (P1.T12),62-75,62,75
 0021700723,2018-01-26,PHX,NYK,33.75,3,2,15,PHX,PHX,fg_make,98,False,False,Jackson Cutting Layup Shot (12 PTS) (Canaan 3 AST),,64-75,64,75
-0021700723,2018-01-26,PHX,NYK,33.93,3,2,4,NYK,NYK,tov,1,False,True,,Burke Bad Pass Turnover (P2.T13),64-75,64,75
 0021700723,2018-01-26,PHX,NYK,33.93,3,2,4,PHX,NYK,foul,3,False,False,,Porzingis L.B.FOUL (P2.PN) (S.Wright),64-75,64,75
-0021700723,2018-01-26,PHX,NYK,33.93,3,2,4,NYK,PHX,steal,1,False,True,steal,steal,64-75,64,75
 0021700723,2018-01-26,PHX,NYK,33.93,3,2,4,PHX,PHX,ft_make,11,False,False,Dudley Free Throw 1 of 2 (6 PTS),,65-75,65,75
 0021700723,2018-01-26,PHX,NYK,33.93,3,2,4,PHX,PHX,ft_make,12,False,False,Dudley Free Throw 2 of 2 (7 PTS),,66-75,66,75
+0021700723,2018-01-26,PHX,NYK,33.93,3,2,4,NYK,NYK,tov,1,False,True,,Burke Bad Pass Turnover (P2.T13),64-75,64,75
+0021700723,2018-01-26,PHX,NYK,33.93,3,2,4,NYK,PHX,steal,1,False,True,steal,steal,64-75,64,75
 0021700723,2018-01-26,PHX,NYK,34.15,3,1,51,NYK,NYK,fg_make,101,False,False,,Hardaway Jr. 14' Driving Floating Jump Shot (13 PTS),66-77,66,77
 0021700723,2018-01-26,PHX,NYK,34.43,3,1,34,PHX,PHX,fg_miss,98,True,False,MISS Monroe 1' Cutting Layup Shot,,66-77,66,77
-0021700723,2018-01-26,PHX,NYK,34.43,3,1,34,PHX,PHX,reb,0,False,False,SUNS Rebound,,66-77,66,77
 0021700723,2018-01-26,PHX,NYK,34.43,3,1,34,PHX,NYK,block,98,True,False,block,block,66-77,66,77
+0021700723,2018-01-26,PHX,NYK,34.43,3,1,34,PHX,PHX,reb,0,False,False,SUNS Rebound,,66-77,66,77
 0021700723,2018-01-26,PHX,NYK,34.48,3,1,31,PHX,PHX,fg_miss,1,False,False,MISS Warren 18' Jump Shot,,66-77,66,77
 0021700723,2018-01-26,PHX,NYK,34.48,3,1,31,NYK,NYK,reb,0,False,False,,Hardaway Jr. REBOUND (Off:0 Def:4),66-77,66,77
 0021700723,2018-01-26,PHX,NYK,34.75,3,1,15,NYK,NYK,fg_make,79,False,False,,Hardaway Jr. 21' Pullup Jump Shot (15 PTS),66-79,66,79
@@ -441,8 +441,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700723,2018-01-26,PHX,NYK,46.95,4,1,3,PHX,PHX,fg3_miss,2,False,False,MISS Peters 3PT Running Jump Shot,,85-105,85,105
 0021700723,2018-01-26,PHX,NYK,47.02,4,0,59,PHX,PHX,reb,0,False,False,House Jr. REBOUND (Off:1 Def:0),,85-105,85,105
 0021700723,2018-01-26,PHX,NYK,47.03,4,0,58,PHX,PHX,fg_miss,72,True,False,MISS House Jr. 1' Putback Layup,,85-105,85,105
-0021700723,2018-01-26,PHX,NYK,47.03,4,0,58,NYK,NYK,reb,0,False,False,,Baker REBOUND (Off:0 Def:2),85-105,85,105
 0021700723,2018-01-26,PHX,NYK,47.03,4,0,58,PHX,NYK,block,72,True,False,block,block,85-105,85,105
+0021700723,2018-01-26,PHX,NYK,47.03,4,0,58,NYK,NYK,reb,0,False,False,,Baker REBOUND (Off:0 Def:2),85-105,85,105
 0021700723,2018-01-26,PHX,NYK,47.12,4,0,53,NYK,PHX,foul,1,False,False,House Jr. P.FOUL (P1.T4) (M.Boland),,85-105,85,105
 0021700723,2018-01-26,PHX,NYK,47.25,4,0,45,NYK,NYK,fg_miss,1,False,False,,MISS O'Quinn 20' Jump Shot,85-105,85,105
 0021700723,2018-01-26,PHX,NYK,47.32,4,0,41,PHX,PHX,reb,0,False,False,House Jr. REBOUND (Off:1 Def:1),,85-105,85,105

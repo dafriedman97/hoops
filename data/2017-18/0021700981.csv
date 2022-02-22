@@ -56,8 +56,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700981,2018-03-09,MIL,NYK,6.63,1,5,22,MIL,MIL,ft_make,11,False,False,Antetokounmpo Free Throw 1 of 2 (4 PTS),,11-9,11,9
 0021700981,2018-03-09,MIL,NYK,6.63,1,5,22,MIL,MIL,ft_make,12,False,False,Antetokounmpo Free Throw 2 of 2 (5 PTS),,12-9,12,9
 0021700981,2018-03-09,MIL,NYK,6.85,1,5,9,NYK,NYK,tov,1,False,True,,Kanter Bad Pass Turnover (P2.T4),12-9,12,9
-0021700981,2018-03-09,MIL,NYK,6.85,1,5,9,MIL,NYK,foul,1,False,False,,Hardaway Jr. P.FOUL (P2.T3) (M.Ayotte),12-9,12,9
 0021700981,2018-03-09,MIL,NYK,6.85,1,5,9,NYK,MIL,steal,1,False,True,steal,steal,12-9,12,9
+0021700981,2018-03-09,MIL,NYK,6.85,1,5,9,MIL,NYK,foul,1,False,False,,Hardaway Jr. P.FOUL (P2.T3) (M.Ayotte),12-9,12,9
 0021700981,2018-03-09,MIL,NYK,6.93,1,5,4,MIL,MIL,fg_make,98,False,False,Henson 1' Cutting Layup Shot (4 PTS) (Bledsoe 3 AST),,14-9,14,9
 0021700981,2018-03-09,MIL,NYK,7.32,1,4,41,NYK,NYK,fg3_miss,1,False,False,,MISS Dotson 26' 3PT Jump Shot,14-9,14,9
 0021700981,2018-03-09,MIL,NYK,7.37,1,4,38,MIL,MIL,reb,0,False,False,Parker REBOUND (Off:0 Def:1),,14-9,14,9
@@ -139,8 +139,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700981,2018-03-09,MIL,NYK,16.4,2,7,36,NYK,NYK,fg_miss,6,False,False,,MISS Williams 2' Driving Layup,37-32,37,32
 0021700981,2018-03-09,MIL,NYK,16.43,2,7,34,MIL,MIL,reb,0,False,False,Henson REBOUND (Off:0 Def:3),,37-32,37,32
 0021700981,2018-03-09,MIL,NYK,16.43,2,7,34,MIL,MIL,tov,1,False,True,Henson Bad Pass Turnover (P1.T3),,37-32,37,32
-0021700981,2018-03-09,MIL,NYK,16.43,2,7,34,NYK,MIL,foul,14,False,False,Henson FLAGRANT.FOUL.TYPE1 (P1.T2) (M.Ayotte),,37-32,37,32
 0021700981,2018-03-09,MIL,NYK,16.43,2,7,34,MIL,NYK,steal,1,False,True,steal,steal,37-32,37,32
+0021700981,2018-03-09,MIL,NYK,16.43,2,7,34,NYK,MIL,foul,14,False,False,Henson FLAGRANT.FOUL.TYPE1 (P1.T2) (M.Ayotte),,37-32,37,32
 0021700981,2018-03-09,MIL,NYK,16.43,2,7,34,NYK,NYK,ft_make,18,False,False,,O'Quinn Free Throw Flagrant 1 of 2 (7 PTS),37-33,37,33
 0021700981,2018-03-09,MIL,NYK,16.43,2,7,34,NYK,NYK,ft_make,19,False,False,,O'Quinn Free Throw Flagrant 2 of 2 (8 PTS),37-34,37,34
 0021700981,2018-03-09,MIL,NYK,16.57,2,7,26,NYK,NYK,tov,1,False,True,,Beasley Bad Pass Turnover (P1.T6),37-34,37,34
@@ -229,8 +229,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700981,2018-03-09,MIL,NYK,26.28,3,9,43,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:0 Def:3),,64-58,64,58
 0021700981,2018-03-09,MIL,NYK,26.38,3,9,37,MIL,MIL,fg_miss,6,True,False,MISS Antetokounmpo 4' Driving Layup,,64-58,64,58
 0021700981,2018-03-09,MIL,NYK,26.38,3,9,37,MIL,NYK,block,6,True,False,block,block,64-58,64,58
-0021700981,2018-03-09,MIL,NYK,26.4,3,9,36,MIL,MIL,reb,0,False,False,BUCKS Rebound,,64-58,64,58
 0021700981,2018-03-09,MIL,NYK,26.4,3,9,36,,MIL,jump_ball,0,False,False,Jump Ball Antetokounmpo vs. Thomas: Tip to Middleton,,64-58,64,58
+0021700981,2018-03-09,MIL,NYK,26.4,3,9,36,MIL,MIL,reb,0,False,False,BUCKS Rebound,,64-58,64,58
 0021700981,2018-03-09,MIL,NYK,26.48,3,9,31,MIL,MIL,fg_miss,1,False,False,MISS Antetokounmpo 18' Jump Shot,,64-58,64,58
 0021700981,2018-03-09,MIL,NYK,26.52,3,9,29,NYK,NYK,reb,0,False,False,,Mudiay REBOUND (Off:0 Def:1),64-58,64,58
 0021700981,2018-03-09,MIL,NYK,26.85,3,9,9,NYK,NYK,fg3_miss,1,False,False,,MISS Ntilikina 28' 3PT Jump Shot,64-58,64,58
@@ -313,8 +313,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700981,2018-03-09,MIL,NYK,35.53,3,0,28,NYK,NYK,ft_make,10,False,False,,Williams Free Throw 1 of 1 (18 PTS),89-89,89,89
 0021700981,2018-03-09,MIL,NYK,35.8,3,0,12,MIL,MIL,fg_make,6,False,False,Antetokounmpo 2' Driving Layup (15 PTS),,91-89,91,89
 0021700981,2018-03-09,MIL,NYK,35.98,3,0,1,NYK,NYK,fg_miss,6,True,False,,MISS Mudiay 3' Driving Layup,91-89,91,89
-0021700981,2018-03-09,MIL,NYK,35.98,3,0,1,MIL,MIL,reb,0,False,False,Zeller REBOUND (Off:3 Def:2),,91-89,91,89
 0021700981,2018-03-09,MIL,NYK,35.98,3,0,1,NYK,MIL,block,6,True,False,block,block,91-89,91,89
+0021700981,2018-03-09,MIL,NYK,35.98,3,0,1,MIL,MIL,reb,0,False,False,Zeller REBOUND (Off:3 Def:2),,91-89,91,89
 0021700981,2018-03-09,MIL,NYK,36.0,3,0,0,MIL,,period_end,0,False,False,,,91-89,91,89
 0021700981,2018-03-09,MIL,NYK,36.0,4,12,0,MIL,,period_start,0,False,False,,,91-89,91,89
 0021700981,2018-03-09,MIL,NYK,36.22,4,11,47,MIL,MIL,fg_make,5,False,False,Zeller 3' Layup (10 PTS) (Antetokounmpo 4 AST),,93-89,93,89
@@ -332,8 +332,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700981,2018-03-09,MIL,NYK,37.62,4,10,23,NYK,NYK,fg_miss,97,False,False,,MISS Beasley 1' Tip Layup Shot,95-91,95,91
 0021700981,2018-03-09,MIL,NYK,37.62,4,10,23,MIL,MIL,reb,0,False,False,Zeller REBOUND (Off:3 Def:3),,95-91,95,91
 0021700981,2018-03-09,MIL,NYK,37.67,4,10,20,MIL,MIL,fg_miss,6,True,False,MISS Parker 3' Driving Layup,,95-91,95,91
-0021700981,2018-03-09,MIL,NYK,37.67,4,10,20,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:2 Def:5),,95-91,95,91
 0021700981,2018-03-09,MIL,NYK,37.67,4,10,20,MIL,NYK,block,6,True,False,block,block,95-91,95,91
+0021700981,2018-03-09,MIL,NYK,37.67,4,10,20,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:2 Def:5),,95-91,95,91
 0021700981,2018-03-09,MIL,NYK,37.67,4,10,20,MIL,MIL,fg_make,5,False,False,Antetokounmpo 1' Layup (19 PTS),,97-91,97,91
 0021700981,2018-03-09,MIL,NYK,37.67,4,10,20,MIL,NYK,foul,2,False,False,,Ntilikina S.FOUL (P2.T2) (J.Goble),97-91,97,91
 0021700981,2018-03-09,MIL,NYK,37.67,4,10,20,MIL,MIL,ft_make,10,False,False,Antetokounmpo Free Throw 1 of 1 (20 PTS),,98-91,98,91
@@ -368,8 +368,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700981,2018-03-09,MIL,NYK,41.47,4,6,32,MIL,MIL,ft_make,11,False,False,Antetokounmpo Free Throw 1 of 2 (24 PTS),,104-96,104,96
 0021700981,2018-03-09,MIL,NYK,41.47,4,6,32,MIL,MIL,ft_make,12,False,False,Antetokounmpo Free Throw 2 of 2 (25 PTS),,105-96,105,96
 0021700981,2018-03-09,MIL,NYK,41.77,4,6,14,NYK,NYK,fg_miss,5,True,False,,MISS Kanter 2' Layup,105-96,105,96
-0021700981,2018-03-09,MIL,NYK,41.77,4,6,14,MIL,MIL,reb,0,False,False,BUCKS Rebound,,105-96,105,96
 0021700981,2018-03-09,MIL,NYK,41.77,4,6,14,NYK,MIL,block,5,True,False,block,block,105-96,105,96
+0021700981,2018-03-09,MIL,NYK,41.77,4,6,14,MIL,MIL,reb,0,False,False,BUCKS Rebound,,105-96,105,96
 0021700981,2018-03-09,MIL,NYK,41.88,4,6,7,MIL,NYK,foul,2,False,False,,Thomas S.FOUL (P5.PN) (M.Callahan),105-96,105,96
 0021700981,2018-03-09,MIL,NYK,41.88,4,6,7,MIL,MIL,ft_make,11,False,False,Antetokounmpo Free Throw 1 of 2 (26 PTS),,106-96,106,96
 0021700981,2018-03-09,MIL,NYK,41.88,4,6,7,MIL,MIL,ft_make,12,False,False,Antetokounmpo Free Throw 2 of 2 (27 PTS),,107-96,107,96

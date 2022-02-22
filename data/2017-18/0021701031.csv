@@ -8,8 +8,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701031,2018-03-16,TOR,DAL,0.73,1,11,16,TOR,TOR,fg_make,1,False,False,Valanciunas 14' Jump Shot (2 PTS) (Wright 1 AST),,2-0,2,0
 0021701031,2018-03-16,TOR,DAL,0.97,1,11,2,DAL,DAL,fg_make,66,False,False,,Smith Jr. 2' Jump Bank Shot (2 PTS) (Powell 1 AST),2-2,2,2
 0021701031,2018-03-16,TOR,DAL,1.25,1,10,45,TOR,TOR,fg_miss,6,True,False,MISS Valanciunas 3' Driving Layup,,2-2,2,2
-0021701031,2018-03-16,TOR,DAL,1.25,1,10,45,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,2-2,2,2
 0021701031,2018-03-16,TOR,DAL,1.25,1,10,45,TOR,DAL,block,6,True,False,block,block,2-2,2,2
+0021701031,2018-03-16,TOR,DAL,1.25,1,10,45,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,2-2,2,2
 0021701031,2018-03-16,TOR,DAL,1.4,1,10,36,TOR,TOR,fg3_miss,1,False,False,MISS Wright 3PT Jump Shot,,2-2,2,2
 0021701031,2018-03-16,TOR,DAL,1.43,1,10,34,DAL,DAL,reb,0,False,False,,Powell REBOUND (Off:0 Def:1),2-2,2,2
 0021701031,2018-03-16,TOR,DAL,1.77,1,10,14,DAL,DAL,fg_miss,79,False,False,,MISS Smith Jr. 19' Pullup Jump Shot,2-2,2,2
@@ -98,8 +98,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701031,2018-03-16,TOR,DAL,12.67,2,11,20,DAL,DAL,fg_make,1,False,False,,Nowitzki 20' Jump Shot (4 PTS) (Ferrell 1 AST),30-29,30,29
 0021701031,2018-03-16,TOR,DAL,12.85,2,11,9,TOR,TOR,fg_make,73,False,False,VanVleet 2' Driving Reverse Layup (3 PTS),,32-29,32,29
 0021701031,2018-03-16,TOR,DAL,13.05,2,10,57,DAL,DAL,fg_miss,78,True,False,,MISS Ferrell 3' Floating Jump Shot,32-29,32,29
-0021701031,2018-03-16,TOR,DAL,13.05,2,10,57,DAL,DAL,reb,0,False,False,,Mavericks Rebound,32-29,32,29
 0021701031,2018-03-16,TOR,DAL,13.05,2,10,57,DAL,TOR,block,78,True,False,block,block,32-29,32,29
+0021701031,2018-03-16,TOR,DAL,13.05,2,10,57,DAL,DAL,reb,0,False,False,,Mavericks Rebound,32-29,32,29
 0021701031,2018-03-16,TOR,DAL,13.1,2,10,54,DAL,TOR,foul,2,False,False,Miller S.FOUL (P1.T1) (L.Holtkamp),,32-29,32,29
 0021701031,2018-03-16,TOR,DAL,13.1,2,10,54,DAL,DAL,ft_miss,11,False,False,,MISS Kleber Free Throw 1 of 2,32-29,32,29
 0021701031,2018-03-16,TOR,DAL,13.1,2,10,54,DAL,DAL,reb,1,False,False,,Mavericks Rebound,32-29,32,29
@@ -215,8 +215,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701031,2018-03-16,TOR,DAL,26.02,3,9,59,TOR,TOR,tov,1,False,True,Anunoby Bad Pass Turnover (P2.T8),,57-65,57,65
 0021701031,2018-03-16,TOR,DAL,26.02,3,9,59,TOR,DAL,steal,1,False,True,steal,steal,57-65,57,65
 0021701031,2018-03-16,TOR,DAL,26.17,3,9,50,DAL,DAL,tov,1,False,True,,Smith Jr. Bad Pass Turnover (P1.T3),57-65,57,65
-0021701031,2018-03-16,TOR,DAL,26.17,3,9,50,TOR,DAL,foul,1,False,False,,Powell P.FOUL (P2.T1) (K.Fitzgerald),57-65,57,65
 0021701031,2018-03-16,TOR,DAL,26.17,3,9,50,DAL,TOR,steal,1,False,True,steal,steal,57-65,57,65
+0021701031,2018-03-16,TOR,DAL,26.17,3,9,50,TOR,DAL,foul,1,False,False,,Powell P.FOUL (P2.T1) (K.Fitzgerald),57-65,57,65
 0021701031,2018-03-16,TOR,DAL,26.38,3,9,37,TOR,TOR,fg3_miss,1,False,False,MISS Wright 26' 3PT Jump Shot,,57-65,57,65
 0021701031,2018-03-16,TOR,DAL,26.45,3,9,33,DAL,DAL,reb,0,False,False,,Barnes REBOUND (Off:0 Def:5),57-65,57,65
 0021701031,2018-03-16,TOR,DAL,26.47,3,9,32,DAL,DAL,tov,1,False,True,,Barnes Bad Pass Turnover (P1.T4),57-65,57,65
@@ -365,9 +365,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701031,2018-03-16,TOR,DAL,43.8,4,4,12,DAL,DAL,fg_make,63,False,False,,Barnes 12' Fadeaway Jumper (27 PTS),97-103,97,103
 0021701031,2018-03-16,TOR,DAL,44.13,4,3,52,TOR,TOR,fg_make,105,False,False,Siakam 7' Turnaround Fadeaway Bank Jump Shot (11 PTS),,99-103,99,103
 0021701031,2018-03-16,TOR,DAL,44.55,4,3,27,DAL,DAL,fg_miss,5,True,False,,MISS Noel 4' Layup,99-103,99,103
+0021701031,2018-03-16,TOR,DAL,44.55,4,3,27,DAL,TOR,block,5,True,False,block,block,99-103,99,103
 0021701031,2018-03-16,TOR,DAL,44.55,4,3,27,DAL,DAL,reb,0,False,False,,Noel REBOUND (Off:2 Def:3),99-103,99,103
 0021701031,2018-03-16,TOR,DAL,44.55,4,3,27,DAL,DAL,tov,11,False,False,,Mavericks Turnover: Shot Clock (T#7),99-103,99,103
-0021701031,2018-03-16,TOR,DAL,44.55,4,3,27,DAL,TOR,block,5,True,False,block,block,99-103,99,103
 0021701031,2018-03-16,TOR,DAL,44.72,4,3,17,TOR,TOR,fg_make,1,False,False,Ibaka 17' Jump Shot (12 PTS) (DeRozan 5 AST),,101-103,101,103
 0021701031,2018-03-16,TOR,DAL,45.13,4,2,52,DAL,DAL,fg_make,98,False,False,,Powell 2' Cutting Layup Shot (5 PTS) (Barnes 3 AST),101-105,101,105
 0021701031,2018-03-16,TOR,DAL,45.4,4,2,36,TOR,TOR,fg3_miss,1,False,False,MISS VanVleet 24' 3PT Jump Shot,,101-105,101,105

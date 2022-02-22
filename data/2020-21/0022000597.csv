@@ -101,10 +101,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000597,2021-03-14,ATL,CLE,11.5,1,0,30,ATL,ATL,fg3_make,1,False,False,Gallinari 3PT Jump Shot (10 PTS) (Rondo 1 AST),,26-19,26,19
 0022000597,2021-03-14,ATL,CLE,11.78,1,0,13,CLE,CLE,fg3_make,79,False,False,,Garland 25' 3PT Pullup Jump Shot (5 PTS),26-22,26,22
 0022000597,2021-03-14,ATL,CLE,12.0,1,0,0,ATL,ATL,fg_miss,6,True,False,MISS Rondo 1' Driving Layup,,26-22,26,22
+0022000597,2021-03-14,ATL,CLE,12.0,1,0,0,ATL,CLE,block,6,True,False,block,block,26-22,26,22
 0022000597,2021-03-14,ATL,CLE,12.0,1,0,0,CLE,CLE,reb,0,False,False,,Osman REBOUND (Off:1 Def:3),26-22,26,22
 0022000597,2021-03-14,ATL,CLE,12.0,1,0,0,CLE,,period_end,0,False,False,,,26-22,26,22
 0022000597,2021-03-14,ATL,CLE,12.0,2,12,0,CLE,,period_start,0,False,False,,,26-22,26,22
-0022000597,2021-03-14,ATL,CLE,12.0,1,0,0,ATL,CLE,block,6,True,False,block,block,26-22,26,22
 0022000597,2021-03-14,ATL,CLE,12.25,2,11,45,CLE,CLE,tov,45,False,False,,Windler Out of Bounds - Bad Pass Turnover Turnover (P1.T4),26-22,26,22
 0022000597,2021-03-14,ATL,CLE,12.52,2,11,29,ATL,ATL,fg_miss,63,False,False,MISS Gallinari 13' Fadeaway Jumper,,26-22,26,22
 0022000597,2021-03-14,ATL,CLE,12.52,2,11,29,CLE,CLE,reb,0,False,False,,Windler REBOUND (Off:0 Def:1),26-22,26,22
@@ -209,11 +209,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000597,2021-03-14,ATL,CLE,23.95,2,0,3,CLE,CLE,ft_make,11,False,False,,Allen Free Throw 1 of 2 (5 PTS),49-46,49,46
 0022000597,2021-03-14,ATL,CLE,23.95,2,0,3,CLE,CLE,ft_miss,12,False,False,,MISS Allen Free Throw 2 of 2,49-46,49,46
 0022000597,2021-03-14,ATL,CLE,23.95,2,0,3,CLE,CLE,reb,0,False,False,,Windler REBOUND (Off:1 Def:2),49-46,49,46
-0022000597,2021-03-14,ATL,CLE,24.0,2,0,0,CLE,CLE,fg_miss,72,True,False,,MISS Windler 2' Putback Layup,49-46,49,46
-0022000597,2021-03-14,ATL,CLE,24.0,2,0,0,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,49-46,49,46
 0022000597,2021-03-14,ATL,CLE,24.0,2,0,0,CLE,,period_end,0,False,False,,,49-46,49,46
-0022000597,2021-03-14,ATL,CLE,24.0,3,12,0,CLE,,period_start,0,False,False,,,49-46,49,46
+0022000597,2021-03-14,ATL,CLE,24.0,2,0,0,CLE,CLE,fg_miss,72,True,False,,MISS Windler 2' Putback Layup,49-46,49,46
 0022000597,2021-03-14,ATL,CLE,24.0,2,0,0,CLE,ATL,block,72,True,False,block,block,49-46,49,46
+0022000597,2021-03-14,ATL,CLE,24.0,2,0,0,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,49-46,49,46
+0022000597,2021-03-14,ATL,CLE,24.0,3,12,0,CLE,,period_start,0,False,False,,,49-46,49,46
 0022000597,2021-03-14,ATL,CLE,24.3,3,11,42,CLE,CLE,fg_miss,101,False,False,,MISS Sexton 7' Driving Floating Jump Shot,49-46,49,46
 0022000597,2021-03-14,ATL,CLE,24.32,3,11,41,CLE,CLE,reb,0,False,False,,Allen REBOUND (Off:2 Def:4),49-46,49,46
 0022000597,2021-03-14,ATL,CLE,24.32,3,11,41,CLE,ATL,foul,2,False,False,Gallinari S.FOUL (P2.T1) (E.Lewis),,49-46,49,46
@@ -296,19 +296,19 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000597,2021-03-14,ATL,CLE,34.05,3,1,57,CLE,CLE,tov,8,False,False,,McGee 3 Second Violation Turnover (P1.T9),67-60,67,60
 0022000597,2021-03-14,ATL,CLE,34.37,3,1,38,ATL,ATL,tov,45,False,False,Rondo Out of Bounds - Bad Pass Turnover Turnover (P2.T12),,67-60,67,60
 0022000597,2021-03-14,ATL,CLE,34.63,3,1,22,CLE,CLE,fg_miss,6,True,False,,MISS Osman 2' Driving Layup,67-60,67,60
-0022000597,2021-03-14,ATL,CLE,34.63,3,1,22,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,67-60,67,60
 0022000597,2021-03-14,ATL,CLE,34.63,3,1,22,CLE,ATL,block,6,True,False,block,block,67-60,67,60
+0022000597,2021-03-14,ATL,CLE,34.63,3,1,22,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,67-60,67,60
 0022000597,2021-03-14,ATL,CLE,34.75,3,1,15,CLE,CLE,fg3_make,79,False,False,,Osman 26' 3PT Pullup Jump Shot (8 PTS) (McGee 1 AST),67-63,67,63
 0022000597,2021-03-14,ATL,CLE,34.95,3,1,3,ATL,ATL,tov,45,False,False,Rondo Out of Bounds - Bad Pass Turnover Turnover (P3.T13),,67-63,67,63
 0022000597,2021-03-14,ATL,CLE,35.12,3,0,53,CLE,CLE,fg_make,5,False,False,,McGee 1' Layup (10 PTS) (Sexton 1 AST),67-65,67,65
 0022000597,2021-03-14,ATL,CLE,35.28,3,0,43,ATL,ATL,fg_miss,6,True,False,MISS Bogdanovic 3' Driving Layup,,67-65,67,65
-0022000597,2021-03-14,ATL,CLE,35.28,3,0,43,ATL,ATL,reb,0,False,False,HAWKS Rebound,,67-65,67,65
 0022000597,2021-03-14,ATL,CLE,35.28,3,0,43,ATL,CLE,block,6,True,False,block,block,67-65,67,65
+0022000597,2021-03-14,ATL,CLE,35.28,3,0,43,ATL,ATL,reb,0,False,False,HAWKS Rebound,,67-65,67,65
 0022000597,2021-03-14,ATL,CLE,35.37,3,0,38,CLE,ATL,foul,1,False,False,Bogdanovic P.FOUL (P3.PN) (E.Lewis),,67-65,67,65
-0022000597,2021-03-14,ATL,CLE,35.37,3,0,38,ATL,ATL,tov,0,False,False,Bogdanovic No Turnover (P2.T14),,67-65,67,65
 0022000597,2021-03-14,ATL,CLE,35.37,3,0,38,CLE,CLE,ft_miss,11,False,False,,MISS Sexton Free Throw 1 of 2,67-65,67,65
 0022000597,2021-03-14,ATL,CLE,35.37,3,0,38,CLE,CLE,reb,1,False,False,,Cavaliers Rebound,67-65,67,65
 0022000597,2021-03-14,ATL,CLE,35.37,3,0,38,CLE,CLE,ft_make,12,False,False,,Sexton Free Throw 2 of 2 (15 PTS),67-66,67,66
+0022000597,2021-03-14,ATL,CLE,35.37,3,0,38,ATL,ATL,tov,0,False,False,Bogdanovic No Turnover (P2.T14),,67-65,67,65
 0022000597,2021-03-14,ATL,CLE,35.52,3,0,29,ATL,ATL,fg3_miss,1,False,False,MISS Gallinari 25' 3PT Jump Shot,,67-66,67,66
 0022000597,2021-03-14,ATL,CLE,35.57,3,0,26,ATL,ATL,reb,0,False,False,Knight REBOUND (Off:4 Def:2),,67-66,67,66
 0022000597,2021-03-14,ATL,CLE,35.57,3,0,26,ATL,CLE,foul,2,False,False,,McGee S.FOUL (P3.PN) (E.Lewis),67-66,67,66

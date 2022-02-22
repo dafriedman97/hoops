@@ -80,9 +80,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900605,2020-01-15,PHI,BKN,9.17,1,2,50,PHI,PHI,reb,0,False,False,Korkmaz REBOUND (Off:1 Def:0),,21-21,21,21
 0021900605,2020-01-15,PHI,BKN,9.18,1,2,49,PHI,PHI,fg_make,1,False,False,Korkmaz 4' Jump Shot (5 PTS),,23-21,23,21
 0021900605,2020-01-15,PHI,BKN,9.62,1,2,23,BKN,BKN,fg_miss,5,True,False,,MISS Luwawu-Cabarrot 2' Layup,23-21,23,21
+0021900605,2020-01-15,PHI,BKN,9.62,1,2,23,BKN,PHI,block,5,True,False,block,block,23-21,23,21
 0021900605,2020-01-15,PHI,BKN,9.62,1,2,23,BKN,BKN,reb,0,False,False,,Nets Rebound,23-21,23,21
 0021900605,2020-01-15,PHI,BKN,9.62,1,2,23,BKN,BKN,tov,11,False,False,,Nets Turnover: Shot Clock (T#6),23-21,23,21
-0021900605,2020-01-15,PHI,BKN,9.62,1,2,23,BKN,PHI,block,5,True,False,block,block,23-21,23,21
 0021900605,2020-01-15,PHI,BKN,9.97,1,2,2,PHI,PHI,fg_miss,66,False,False,MISS Korkmaz 10' Jump Bank Shot,,23-21,23,21
 0021900605,2020-01-15,PHI,BKN,10.02,1,1,59,BKN,BKN,reb,0,False,False,,Jordan REBOUND (Off:0 Def:1),23-21,23,21
 0021900605,2020-01-15,PHI,BKN,10.2,1,1,48,BKN,BKN,fg_make,5,False,False,,LeVert 1' Layup (2 PTS),23-23,23,23
@@ -102,8 +102,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900605,2020-01-15,PHI,BKN,12.0,1,0,0,PHI,,period_end,0,False,False,,,25-28,25,28
 0021900605,2020-01-15,PHI,BKN,12.0,2,12,0,PHI,,period_start,0,False,False,,,25-28,25,28
 0021900605,2020-01-15,PHI,BKN,12.18,2,11,49,BKN,BKN,fg_miss,78,False,False,,MISS Chandler 12' Floating Jump Shot,25-28,25,28
-0021900605,2020-01-15,PHI,BKN,12.3,2,11,42,BKN,BKN,fg_miss,97,False,False,,MISS Jordan 1' Tip Layup Shot,25-28,25,28
 0021900605,2020-01-15,PHI,BKN,12.3,2,11,42,BKN,BKN,reb,0,False,False,,Jordan REBOUND (Off:1 Def:1),25-28,25,28
+0021900605,2020-01-15,PHI,BKN,12.3,2,11,42,BKN,BKN,fg_miss,97,False,False,,MISS Jordan 1' Tip Layup Shot,25-28,25,28
 0021900605,2020-01-15,PHI,BKN,12.32,2,11,41,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:3),,25-28,25,28
 0021900605,2020-01-15,PHI,BKN,12.4,2,11,36,PHI,PHI,fg_miss,79,False,False,MISS Harris 15' Pullup Jump Shot,,25-28,25,28
 0021900605,2020-01-15,PHI,BKN,12.42,2,11,35,BKN,BKN,reb,0,False,False,,Chandler REBOUND (Off:0 Def:1),25-28,25,28
@@ -113,8 +113,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900605,2020-01-15,PHI,BKN,13.32,2,10,41,BKN,BKN,fg_make,98,False,False,,LeVert 2' Cutting Layup Shot (4 PTS) (Jordan 2 AST),27-30,27,30
 0021900605,2020-01-15,PHI,BKN,13.63,2,10,22,PHI,PHI,fg_make,101,False,False,Neto 9' Driving Floating Jump Shot (2 PTS),,29-30,29,30
 0021900605,2020-01-15,PHI,BKN,13.98,2,10,1,BKN,BKN,fg_miss,6,True,False,,MISS LeVert 6' Driving Layup,29-30,29,30
-0021900605,2020-01-15,PHI,BKN,13.98,2,10,1,BKN,BKN,reb,0,False,False,,Nets Rebound,29-30,29,30
 0021900605,2020-01-15,PHI,BKN,13.98,2,10,1,BKN,PHI,block,6,True,False,block,block,29-30,29,30
+0021900605,2020-01-15,PHI,BKN,13.98,2,10,1,BKN,BKN,reb,0,False,False,,Nets Rebound,29-30,29,30
 0021900605,2020-01-15,PHI,BKN,14.02,2,9,59,BKN,PHI,foul,1,False,False,Thybulle P.FOUL (P2.T1) (T.Ford),,29-30,29,30
 0021900605,2020-01-15,PHI,BKN,14.23,2,9,46,BKN,BKN,fg_miss,63,False,False,,MISS Irving 9' Fadeaway Jumper,29-30,29,30
 0021900605,2020-01-15,PHI,BKN,14.3,2,9,42,PHI,PHI,reb,0,False,False,Pelle REBOUND (Off:0 Def:3),,29-30,29,30
@@ -174,17 +174,17 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900605,2020-01-15,PHI,BKN,19.55,2,4,27,PHI,PHI,ft_make,12,False,False,Simmons Free Throw 2 of 2 (13 PTS),,42-47,42,47
 0021900605,2020-01-15,PHI,BKN,19.88,2,4,7,BKN,BKN,fg_make,108,False,False,,Allen 4' Cutting Dunk Shot (8 PTS) (Dinwiddie 3 AST),42-49,42,49
 0021900605,2020-01-15,PHI,BKN,20.07,2,3,56,PHI,PHI,tov,1,False,True,Korkmaz Bad Pass Turnover (P1.T9),,42-49,42,49
+0021900605,2020-01-15,PHI,BKN,20.07,2,3,56,PHI,BKN,steal,1,False,True,steal,steal,42-49,42,49
 0021900605,2020-01-15,PHI,BKN,20.07,2,3,56,BKN,PHI,foul,28,False,False,Simmons Personal Take Foul (P2.PN) (T.Washington),,42-49,42,49
 0021900605,2020-01-15,PHI,BKN,20.07,2,3,56,BKN,BKN,ft_miss,11,False,False,,MISS Harris Free Throw 1 of 2,42-49,42,49
 0021900605,2020-01-15,PHI,BKN,20.07,2,3,56,BKN,BKN,reb,1,False,False,,Nets Rebound,42-49,42,49
 0021900605,2020-01-15,PHI,BKN,20.07,2,3,56,BKN,BKN,ft_miss,12,False,False,,MISS Harris Free Throw 2 of 2,42-49,42,49
-0021900605,2020-01-15,PHI,BKN,20.07,2,3,56,PHI,BKN,steal,1,False,True,steal,steal,42-49,42,49
 0021900605,2020-01-15,PHI,BKN,20.12,2,3,53,PHI,PHI,reb,0,False,False,Ennis III REBOUND (Off:1 Def:1),,42-49,42,49
 0021900605,2020-01-15,PHI,BKN,20.32,2,3,41,PHI,BKN,violation,5,False,False,,Harris Violation:Kicked Ball (J.Goble),42-49,42,49
 0021900605,2020-01-15,PHI,BKN,20.42,2,3,35,PHI,PHI,fg_make,79,False,False,Richardson 3' Pullup Jump Shot (4 PTS) (Simmons 1 AST),,44-49,44,49
 0021900605,2020-01-15,PHI,BKN,20.63,2,3,22,BKN,BKN,fg_miss,6,False,False,,MISS Harris 4' Driving Layup,44-49,44,49
-0021900605,2020-01-15,PHI,BKN,20.75,2,3,15,BKN,BKN,fg_make,97,False,False,,Jordan 1' Tip Layup Shot (4 PTS),44-51,44,51
 0021900605,2020-01-15,PHI,BKN,20.75,2,3,15,BKN,BKN,reb,0,False,False,,Jordan REBOUND (Off:2 Def:1),44-51,44,51
+0021900605,2020-01-15,PHI,BKN,20.75,2,3,15,BKN,BKN,fg_make,97,False,False,,Jordan 1' Tip Layup Shot (4 PTS),44-51,44,51
 0021900605,2020-01-15,PHI,BKN,20.8,2,3,12,PHI,PHI,fg_miss,79,False,False,MISS Korkmaz 16' Pullup Jump Shot,,44-51,44,51
 0021900605,2020-01-15,PHI,BKN,20.87,2,3,8,BKN,BKN,reb,0,False,False,,Dinwiddie REBOUND (Off:0 Def:2),44-51,44,51
 0021900605,2020-01-15,PHI,BKN,21.02,2,2,59,BKN,BKN,fg3_miss,79,False,False,,MISS Dinwiddie 26' 3PT Pullup Jump Shot,44-51,44,51
@@ -206,8 +206,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900605,2020-01-15,PHI,BKN,22.75,2,1,15,PHI,PHI,reb,0,False,False,Richardson REBOUND (Off:1 Def:2),,50-53,50,53
 0021900605,2020-01-15,PHI,BKN,23.02,2,0,59,PHI,PHI,fg_make,71,False,False,Simmons 2' Finger Roll Layup (15 PTS),,52-53,52,53
 0021900605,2020-01-15,PHI,BKN,23.15,2,0,51,BKN,BKN,fg_miss,74,True,False,,MISS Dinwiddie 4' Running Reverse Layup,52-53,52,53
-0021900605,2020-01-15,PHI,BKN,23.15,2,0,51,BKN,BKN,reb,0,False,False,,Nets Rebound,52-53,52,53
 0021900605,2020-01-15,PHI,BKN,23.15,2,0,51,BKN,PHI,block,74,True,False,block,block,52-53,52,53
+0021900605,2020-01-15,PHI,BKN,23.15,2,0,51,BKN,BKN,reb,0,False,False,,Nets Rebound,52-53,52,53
 0021900605,2020-01-15,PHI,BKN,23.42,2,0,35,BKN,BKN,fg_make,73,False,False,,Dinwiddie 1' Driving Reverse Layup (14 PTS),52-55,52,55
 0021900605,2020-01-15,PHI,BKN,23.6,2,0,24,PHI,PHI,fg_make,79,False,False,Ennis III 17' Pullup Jump Shot (4 PTS),,54-55,54,55
 0021900605,2020-01-15,PHI,BKN,23.98,2,0,1,BKN,BKN,fg_miss,79,False,False,,MISS Prince 10' Pullup Jump Shot,54-55,54,55
@@ -303,8 +303,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900605,2020-01-15,PHI,BKN,32.27,3,3,44,BKN,BKN,ft_miss,12,False,False,,MISS Dinwiddie Free Throw 2 of 2,78-82,78,82
 0021900605,2020-01-15,PHI,BKN,32.3,3,3,42,PHI,PHI,reb,0,False,False,Pelle REBOUND (Off:0 Def:4),,78-82,78,82
 0021900605,2020-01-15,PHI,BKN,32.62,3,3,23,PHI,PHI,fg_miss,102,False,False,MISS Neto 3' Driving Floating Bank Jump Shot,,78-82,78,82
-0021900605,2020-01-15,PHI,BKN,32.7,3,3,18,PHI,PHI,fg_make,97,False,False,Pelle 1' Tip Layup Shot (2 PTS),,80-82,80,82
 0021900605,2020-01-15,PHI,BKN,32.7,3,3,18,PHI,PHI,reb,0,False,False,Pelle REBOUND (Off:1 Def:4),,80-82,80,82
+0021900605,2020-01-15,PHI,BKN,32.7,3,3,18,PHI,PHI,fg_make,97,False,False,Pelle 1' Tip Layup Shot (2 PTS),,80-82,80,82
 0021900605,2020-01-15,PHI,BKN,32.93,3,3,4,BKN,PHI,foul,1,False,False,Pelle P.FOUL (P1.PN) (T.Washington),,80-82,80,82
 0021900605,2020-01-15,PHI,BKN,32.93,3,3,4,BKN,BKN,ft_make,11,False,False,,Chandler Free Throw 1 of 2 (7 PTS),80-83,80,83
 0021900605,2020-01-15,PHI,BKN,32.93,3,3,4,BKN,BKN,ft_make,12,False,False,,Chandler Free Throw 2 of 2 (8 PTS),80-84,80,84
@@ -344,10 +344,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900605,2020-01-15,PHI,BKN,35.98,3,0,1,PHI,PHI,fg_miss,97,False,False,MISS Harris 1' Tip Layup Shot,,86-90,86,90
 0021900605,2020-01-15,PHI,BKN,35.98,3,0,1,BKN,BKN,reb,0,False,False,,Kurucs REBOUND (Off:0 Def:1),86-90,86,90
 0021900605,2020-01-15,PHI,BKN,36.0,3,0,0,BKN,BKN,fg_miss,1,True,False,,MISS Kurucs 22' Jump Shot,86-90,86,90
+0021900605,2020-01-15,PHI,BKN,36.0,3,0,0,BKN,PHI,block,1,True,False,block,block,86-90,86,90
 0021900605,2020-01-15,PHI,BKN,36.0,3,0,0,BKN,BKN,reb,0,False,False,,Nets Rebound,86-90,86,90
 0021900605,2020-01-15,PHI,BKN,36.0,3,0,0,BKN,,period_end,0,False,False,,,86-90,86,90
 0021900605,2020-01-15,PHI,BKN,36.0,4,12,0,BKN,,period_start,0,False,False,,,86-90,86,90
-0021900605,2020-01-15,PHI,BKN,36.0,3,0,0,BKN,PHI,block,1,True,False,block,block,86-90,86,90
 0021900605,2020-01-15,PHI,BKN,36.23,4,11,46,PHI,PHI,tov,1,False,True,Korkmaz Bad Pass Turnover (P2.T12),,86-90,86,90
 0021900605,2020-01-15,PHI,BKN,36.23,4,11,46,PHI,BKN,steal,1,False,True,steal,steal,86-90,86,90
 0021900605,2020-01-15,PHI,BKN,36.5,4,11,30,BKN,BKN,fg_make,79,False,False,,LeVert 19' Pullup Jump Shot (12 PTS),86-92,86,92
@@ -437,17 +437,17 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900605,2020-01-15,PHI,BKN,44.18,4,3,49,PHI,PHI,reb,0,False,False,Richardson REBOUND (Off:1 Def:4),,104-104,104,104
 0021900605,2020-01-15,PHI,BKN,44.5,4,3,30,PHI,PHI,fg_make,3,False,False,Horford 4' Hook Shot (14 PTS) (Simmons 10 AST),,106-104,106,104
 0021900605,2020-01-15,PHI,BKN,44.7,4,3,18,BKN,BKN,fg_miss,6,True,False,,MISS Irving 4' Driving Layup,106-104,106,104
+0021900605,2020-01-15,PHI,BKN,44.7,4,3,18,BKN,PHI,block,6,True,False,block,block,106-104,106,104
 0021900605,2020-01-15,PHI,BKN,44.7,4,3,18,PHI,PHI,reb,0,False,False,76ERS Rebound,,106-104,106,104
 0021900605,2020-01-15,PHI,BKN,44.7,4,3,18,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 5 Short 0),,106-104,106,104
-0021900605,2020-01-15,PHI,BKN,44.7,4,3,18,BKN,PHI,block,6,True,False,block,block,106-104,106,104
 0021900605,2020-01-15,PHI,BKN,44.93,4,3,4,PHI,PHI,fg3_miss,1,False,False,MISS Harris 26' 3PT Jump Shot,,106-104,106,104
 0021900605,2020-01-15,PHI,BKN,44.98,4,3,1,BKN,BKN,reb,0,False,False,,Irving REBOUND (Off:3 Def:3),106-104,106,104
 0021900605,2020-01-15,PHI,BKN,45.27,4,2,44,BKN,BKN,tov,40,False,False,,Dinwiddie Out of Bounds Lost Ball Turnover (P2.T14),106-104,106,104
 0021900605,2020-01-15,PHI,BKN,45.67,4,2,20,PHI,PHI,fg3_make,79,False,False,Harris 24' 3PT Pullup Jump Shot (28 PTS) (Simmons 11 AST),,109-104,109,104
 0021900605,2020-01-15,PHI,BKN,46.12,4,1,53,BKN,BKN,fg_miss,41,True,False,,MISS Harris 9' Running Layup,109-104,109,104
+0021900605,2020-01-15,PHI,BKN,46.12,4,1,53,BKN,PHI,block,41,True,False,block,block,109-104,109,104
 0021900605,2020-01-15,PHI,BKN,46.12,4,1,53,BKN,BKN,reb,0,False,False,,Harris REBOUND (Off:2 Def:4),109-104,109,104
 0021900605,2020-01-15,PHI,BKN,46.12,4,1,53,BKN,BKN,tov,11,False,False,,Nets Turnover: Shot Clock (T#15),109-104,109,104
-0021900605,2020-01-15,PHI,BKN,46.12,4,1,53,BKN,PHI,block,41,True,False,block,block,109-104,109,104
 0021900605,2020-01-15,PHI,BKN,46.27,4,1,44,PHI,BKN,foul,1,False,False,,Prince P.FOUL (P2.PN) (J.Goble),109-104,109,104
 0021900605,2020-01-15,PHI,BKN,46.27,4,1,44,PHI,PHI,ft_make,11,False,False,Richardson Free Throw 1 of 2 (14 PTS),,110-104,110,104
 0021900605,2020-01-15,PHI,BKN,46.27,4,1,44,PHI,PHI,ft_make,12,False,False,Richardson Free Throw 2 of 2 (15 PTS),,111-104,111,104

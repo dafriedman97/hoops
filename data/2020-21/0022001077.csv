@@ -24,16 +24,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001077,2021-05-16,SAC,UTA,3.02,1,8,59,UTA,UTA,tov,4,False,False,,O'Neale Traveling Turnover (P1.T2),4-5,4,5
 0022001077,2021-05-16,SAC,UTA,3.43,1,8,34,SAC,SAC,fg_make,6,False,False,Hield 2' Driving Layup (2 PTS),,6-5,6,5
 0022001077,2021-05-16,SAC,UTA,3.7,1,8,18,UTA,UTA,tov,2,False,True,,Ingles Lost Ball Turnover (P1.T3),6-5,6,5
-0022001077,2021-05-16,SAC,UTA,3.7,1,8,18,SAC,UTA,foul,28,False,False,,Conley Personal Take Foul (P1.T2) (J.Van Duyne),6-5,6,5
 0022001077,2021-05-16,SAC,UTA,3.7,1,8,18,UTA,SAC,steal,2,False,True,steal,steal,6-5,6,5
+0022001077,2021-05-16,SAC,UTA,3.7,1,8,18,SAC,UTA,foul,28,False,False,,Conley Personal Take Foul (P1.T2) (J.Van Duyne),6-5,6,5
 0022001077,2021-05-16,SAC,UTA,3.87,1,8,8,SAC,SAC,fg3_miss,79,False,False,MISS Hield 26' 3PT Pullup Jump Shot,,6-5,6,5
 0022001077,2021-05-16,SAC,UTA,3.97,1,8,2,UTA,UTA,reb,0,False,False,,Ingles REBOUND (Off:0 Def:2),6-5,6,5
 0022001077,2021-05-16,SAC,UTA,4.03,1,7,58,UTA,UTA,fg3_miss,1,False,False,,MISS O'Neale 27' 3PT Jump Shot,6-5,6,5
 0022001077,2021-05-16,SAC,UTA,4.12,1,7,53,SAC,SAC,reb,0,False,False,King REBOUND (Off:0 Def:1),,6-5,6,5
 0022001077,2021-05-16,SAC,UTA,4.15,1,7,51,SAC,SAC,fg_make,50,False,False,Metu 2' Running Dunk (4 PTS) (King 2 AST),,8-5,8,5
 0022001077,2021-05-16,SAC,UTA,4.4,1,7,36,UTA,UTA,fg_miss,6,False,False,,MISS Conley 3' Driving Layup,8-5,8,5
-0022001077,2021-05-16,SAC,UTA,4.47,1,7,32,UTA,UTA,fg_miss,97,False,False,,MISS Conley Tip Layup Shot,8-5,8,5
 0022001077,2021-05-16,SAC,UTA,4.47,1,7,32,UTA,UTA,reb,0,False,False,,Conley REBOUND (Off:1 Def:1),8-5,8,5
+0022001077,2021-05-16,SAC,UTA,4.47,1,7,32,UTA,UTA,fg_miss,97,False,False,,MISS Conley Tip Layup Shot,8-5,8,5
 0022001077,2021-05-16,SAC,UTA,4.48,1,7,31,SAC,SAC,reb,0,False,False,Wright REBOUND (Off:0 Def:1),,8-5,8,5
 0022001077,2021-05-16,SAC,UTA,4.62,1,7,23,SAC,SAC,fg_miss,3,False,False,MISS Wright 4' Hook Shot,,8-5,8,5
 0022001077,2021-05-16,SAC,UTA,4.67,1,7,20,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:1 Def:1),8-5,8,5
@@ -98,9 +98,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001077,2021-05-16,SAC,UTA,11.58,1,0,25,UTA,UTA,fg_make,50,False,False,,Gobert 1' Running Dunk (4 PTS) (Niang 1 AST),25-28,25,28
 0022001077,2021-05-16,SAC,UTA,11.97,1,0,2,SAC,SAC,fg3_miss,1,False,False,MISS Davis 25' 3PT Jump Shot,,25-28,25,28
 0022001077,2021-05-16,SAC,UTA,11.97,1,0,2,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:1 Def:3),25-28,25,28
+0022001077,2021-05-16,SAC,UTA,12.0,1,0,0,UTA,,period_end,0,False,False,,,25-28,25,28
 0022001077,2021-05-16,SAC,UTA,12.0,1,0,0,UTA,UTA,fg3_miss,1,False,False,,MISS Gobert 71' 3PT Jump Shot,25-28,25,28
 0022001077,2021-05-16,SAC,UTA,12.0,1,0,0,UTA,UTA,reb,0,False,False,,Jazz Rebound,25-28,25,28
-0022001077,2021-05-16,SAC,UTA,12.0,1,0,0,UTA,,period_end,0,False,False,,,25-28,25,28
 0022001077,2021-05-16,SAC,UTA,12.0,2,12,0,UTA,,period_start,0,False,False,,,25-28,25,28
 0022001077,2021-05-16,SAC,UTA,12.37,2,11,38,SAC,SAC,fg_miss,102,False,False,MISS King 13' Driving Floating Bank Jump Shot,,25-28,25,28
 0022001077,2021-05-16,SAC,UTA,12.42,2,11,35,SAC,SAC,reb,0,False,False,Woodard II REBOUND (Off:1 Def:0),,25-28,25,28
@@ -180,8 +180,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001077,2021-05-16,SAC,UTA,21.4,2,2,36,SAC,SAC,tov,2,False,True,Jones Lost Ball Turnover (P1.T5),,45-54,45,54
 0022001077,2021-05-16,SAC,UTA,21.4,2,2,36,SAC,UTA,steal,2,False,True,steal,steal,45-54,45,54
 0022001077,2021-05-16,SAC,UTA,21.47,2,2,32,UTA,UTA,fg_miss,6,True,False,,MISS Conley 3' Driving Layup,45-54,45,54
-0022001077,2021-05-16,SAC,UTA,21.47,2,2,32,SAC,SAC,reb,0,False,False,KINGS Rebound,,45-54,45,54
 0022001077,2021-05-16,SAC,UTA,21.47,2,2,32,UTA,SAC,block,6,True,False,block,block,45-54,45,54
+0022001077,2021-05-16,SAC,UTA,21.47,2,2,32,SAC,SAC,reb,0,False,False,KINGS Rebound,,45-54,45,54
 0022001077,2021-05-16,SAC,UTA,21.63,2,2,22,SAC,SAC,fg_miss,78,False,False,MISS Jones 14' Floating Jump Shot,,45-54,45,54
 0022001077,2021-05-16,SAC,UTA,21.68,2,2,19,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:2 Def:6),45-54,45,54
 0022001077,2021-05-16,SAC,UTA,21.77,2,2,14,UTA,SAC,foul,1,False,False,Wright P.FOUL (P1.T4) (T.Maddox),,45-54,45,54
@@ -304,9 +304,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001077,2021-05-16,SAC,UTA,36.0,3,0,0,SAC,SAC,reb,0,False,False,KINGS Rebound,,73-97,73,97
 0022001077,2021-05-16,SAC,UTA,36.0,3,0,0,SAC,SAC,tov,11,False,False,KINGS Turnover: Shot Clock (T#10),,73-97,73,97
 0022001077,2021-05-16,SAC,UTA,36.0,3,0,0,UTA,UTA,tov,1,False,True,,Conley Bad Pass Turnover (P1.T11),73-97,73,97
+0022001077,2021-05-16,SAC,UTA,36.0,3,0,0,UTA,SAC,steal,1,False,True,steal,steal,73-97,73,97
 0022001077,2021-05-16,SAC,UTA,36.0,3,0,0,UTA,,period_end,0,False,False,,,73-97,73,97
 0022001077,2021-05-16,SAC,UTA,36.0,4,12,0,UTA,,period_start,0,False,False,,,73-97,73,97
-0022001077,2021-05-16,SAC,UTA,36.0,3,0,0,UTA,SAC,steal,1,False,True,steal,steal,73-97,73,97
 0022001077,2021-05-16,SAC,UTA,36.3,4,11,42,UTA,SAC,foul,2,False,False,Ramsey S.FOUL (P4.T1) (J.Van Duyne),,73-97,73,97
 0022001077,2021-05-16,SAC,UTA,36.3,4,11,42,UTA,UTA,ft_make,11,False,False,,Ingles Free Throw 1 of 2 (7 PTS),73-98,73,98
 0022001077,2021-05-16,SAC,UTA,36.3,4,11,42,UTA,UTA,ft_make,12,False,False,,Ingles Free Throw 2 of 2 (8 PTS),73-99,73,99

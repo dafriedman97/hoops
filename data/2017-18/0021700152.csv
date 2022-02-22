@@ -34,8 +34,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700152,2017-11-07,NYK,CHA,3.33,1,8,40,CHA,CHA,reb,0,False,False,,Walker REBOUND (Off:0 Def:1),9-12,9,12
 0021700152,2017-11-07,NYK,CHA,3.58,1,8,25,CHA,CHA,fg_make,5,False,False,,Williams 1' Layup (7 PTS) (Lamb 2 AST),9-14,9,14
 0021700152,2017-11-07,NYK,CHA,3.73,1,8,16,NYK,NYK,tov,2,False,True,Porzingis Lost Ball Turnover (P1.T1),,9-14,9,14
-0021700152,2017-11-07,NYK,CHA,3.73,1,8,16,CHA,CHA,tov,39,False,False,,Walker Step Out of Bounds Turnover (P1.T1),9-14,9,14
 0021700152,2017-11-07,NYK,CHA,3.73,1,8,16,NYK,CHA,steal,2,False,True,steal,steal,9-14,9,14
+0021700152,2017-11-07,NYK,CHA,3.73,1,8,16,CHA,CHA,tov,39,False,False,,Walker Step Out of Bounds Turnover (P1.T1),9-14,9,14
 0021700152,2017-11-07,NYK,CHA,3.97,1,8,2,NYK,NYK,fg3_make,1,False,False,Hardaway Jr. 26' 3PT Jump Shot (3 PTS) (Lee 2 AST),,12-14,12,14
 0021700152,2017-11-07,NYK,CHA,4.27,1,7,44,CHA,CHA,fg_make,6,False,False,,Howard 2' Driving Layup (6 PTS),12-16,12,16
 0021700152,2017-11-07,NYK,CHA,4.27,1,7,44,CHA,NYK,foul,2,False,False,Kanter S.FOUL (P1.T4) (S.Wall),,12-16,12,16
@@ -88,11 +88,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700152,2017-11-07,NYK,CHA,10.32,1,1,41,CHA,CHA,fg_miss,6,True,False,,MISS Zeller 4' Driving Layup,27-34,27,34
 0021700152,2017-11-07,NYK,CHA,10.32,1,1,41,CHA,NYK,block,6,True,False,block,block,27-34,27,34
 0021700152,2017-11-07,NYK,CHA,10.33,1,1,40,CHA,CHA,fg_miss,5,True,False,,MISS Zeller 3' Layup,27-34,27,34
-0021700152,2017-11-07,NYK,CHA,10.33,1,1,40,CHA,CHA,reb,0,False,False,,Zeller REBOUND (Off:3 Def:0),27-34,27,34
 0021700152,2017-11-07,NYK,CHA,10.33,1,1,40,CHA,NYK,block,5,True,False,block,block,27-34,27,34
+0021700152,2017-11-07,NYK,CHA,10.33,1,1,40,CHA,CHA,reb,0,False,False,,Zeller REBOUND (Off:3 Def:0),27-34,27,34
 0021700152,2017-11-07,NYK,CHA,10.35,1,1,39,CHA,CHA,fg_miss,5,True,False,,MISS Zeller 1' Layup,27-34,27,34
-0021700152,2017-11-07,NYK,CHA,10.35,1,1,39,CHA,CHA,reb,0,False,False,,Zeller REBOUND (Off:2 Def:0),27-34,27,34
 0021700152,2017-11-07,NYK,CHA,10.35,1,1,39,CHA,NYK,block,5,True,False,block,block,27-34,27,34
+0021700152,2017-11-07,NYK,CHA,10.35,1,1,39,CHA,CHA,reb,0,False,False,,Zeller REBOUND (Off:2 Def:0),27-34,27,34
 0021700152,2017-11-07,NYK,CHA,10.37,1,1,38,CHA,CHA,reb,0,False,False,,Zeller REBOUND (Off:1 Def:0),27-34,27,34
 0021700152,2017-11-07,NYK,CHA,10.37,1,1,38,CHA,NYK,foul,2,False,False,Ntilikina S.FOUL (P1.PN) (H.Workman),,27-34,27,34
 0021700152,2017-11-07,NYK,CHA,10.37,1,1,38,CHA,CHA,ft_miss,11,False,False,,MISS Zeller Free Throw 1 of 2,27-34,27,34
@@ -198,8 +198,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700152,2017-11-07,NYK,CHA,21.85,2,2,9,CHA,NYK,foul,3,False,False,Kanter L.B.FOUL (P2.T3) (H.Workman),,53-65,53,65
 0021700152,2017-11-07,NYK,CHA,21.98,2,2,1,CHA,CHA,fg_make,43,False,False,,Howard 2' Alley Oop Layup (13 PTS) (Monk 3 AST),53-67,53,67
 0021700152,2017-11-07,NYK,CHA,22.25,2,1,45,NYK,NYK,tov,1,False,True,Lee Bad Pass Turnover (P2.T11),,53-67,53,67
-0021700152,2017-11-07,NYK,CHA,22.25,2,1,45,CHA,NYK,foul,3,False,False,Hardaway Jr. L.B.FOUL (P2.T4) (H.Workman),,53-67,53,67
 0021700152,2017-11-07,NYK,CHA,22.25,2,1,45,NYK,CHA,steal,1,False,True,steal,steal,53-67,53,67
+0021700152,2017-11-07,NYK,CHA,22.25,2,1,45,CHA,NYK,foul,3,False,False,Hardaway Jr. L.B.FOUL (P2.T4) (H.Workman),,53-67,53,67
 0021700152,2017-11-07,NYK,CHA,22.42,2,1,35,NYK,CHA,foul,4,False,False,,Howard OFF.Foul (P1) (S.Wall),53-67,53,67
 0021700152,2017-11-07,NYK,CHA,22.42,2,1,35,CHA,CHA,tov,37,False,False,,Howard Offensive Foul Turnover (P2.T6),53-67,53,67
 0021700152,2017-11-07,NYK,CHA,22.62,2,1,23,NYK,CHA,foul,2,False,False,,Carter-Williams S.FOUL (P3.T4) (S.Wall),53-67,53,67

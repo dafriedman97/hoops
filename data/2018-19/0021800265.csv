@@ -217,10 +217,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800265,2018-11-23,BKN,MIN,23.95,2,0,3,MIN,MIN,reb,0,False,False,,Gibson REBOUND (Off:2 Def:4),49-52,49,52
 0021800265,2018-11-23,BKN,MIN,23.95,2,0,3,MIN,MIN,fg_make,97,False,False,,Gibson 1' Tip Layup Shot (12 PTS),49-54,49,54
 0021800265,2018-11-23,BKN,MIN,24.0,2,0,0,BKN,BKN,fg3_miss,79,True,False,MISS Harris 29' 3PT Pullup Jump Shot,,49-54,49,54
+0021800265,2018-11-23,BKN,MIN,24.0,2,0,0,BKN,MIN,block,79,True,False,block,block,49-54,49,54
 0021800265,2018-11-23,BKN,MIN,24.0,2,0,0,BKN,BKN,reb,0,False,False,NETS Rebound,,49-54,49,54
 0021800265,2018-11-23,BKN,MIN,24.0,2,0,0,BKN,,period_end,0,False,False,,,49-54,49,54
 0021800265,2018-11-23,BKN,MIN,24.0,3,12,0,BKN,,period_start,0,False,False,,,49-54,49,54
-0021800265,2018-11-23,BKN,MIN,24.0,2,0,0,BKN,MIN,block,79,True,False,block,block,49-54,49,54
 0021800265,2018-11-23,BKN,MIN,24.28,3,11,43,BKN,BKN,fg3_make,1,False,False,Harris 25' 3PT Jump Shot (9 PTS) (Allen 1 AST),,52-54,52,54
 0021800265,2018-11-23,BKN,MIN,24.7,3,11,18,MIN,MIN,fg_make,79,False,False,,Teague 18' Pullup Jump Shot (8 PTS),52-56,52,56
 0021800265,2018-11-23,BKN,MIN,24.88,3,11,7,BKN,BKN,fg3_make,1,False,False,Harris 27' 3PT Jump Shot (12 PTS) (Crabbe 1 AST),,55-56,55,56
@@ -389,8 +389,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800265,2018-11-23,BKN,MIN,44.32,4,3,41,MIN,MIN,fg_miss,63,False,False,,MISS Wiggins 20' Fadeaway Jumper,98-104,98,104
 0021800265,2018-11-23,BKN,MIN,44.37,4,3,38,BKN,BKN,reb,0,False,False,Crabbe REBOUND (Off:0 Def:4),,98-104,98,104
 0021800265,2018-11-23,BKN,MIN,44.58,4,3,25,BKN,BKN,fg_miss,6,False,False,MISS Russell 4' Driving Layup,,98-104,98,104
-0021800265,2018-11-23,BKN,MIN,44.58,4,3,25,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,98-104,98,104
 0021800265,2018-11-23,BKN,MIN,44.58,4,3,25,MIN,BKN,foul,3,False,False,Allen L.B.FOUL (P6.T2) (D.Guthrie),,98-104,98,104
+0021800265,2018-11-23,BKN,MIN,44.58,4,3,25,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,98-104,98,104
 0021800265,2018-11-23,BKN,MIN,44.8,4,3,12,MIN,MIN,fg3_miss,1,False,False,,MISS Teague 25' 3PT Jump Shot,98-104,98,104
 0021800265,2018-11-23,BKN,MIN,44.83,4,3,10,BKN,BKN,reb,0,False,False,Crabbe REBOUND (Off:0 Def:5),,98-104,98,104
 0021800265,2018-11-23,BKN,MIN,45.0,4,3,0,BKN,MIN,foul,2,False,False,,Covington S.FOUL (P3.PN) (G.Petraitis),98-104,98,104

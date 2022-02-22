@@ -63,10 +63,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800274,2018-11-23,OKC,CHA,7.38,1,4,37,OKC,OKC,fg3_miss,1,False,False,MISS George 25' 3PT Jump Shot,,19-19,19,19
 0021800274,2018-11-23,OKC,CHA,7.47,1,4,32,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:1),19-19,19,19
 0021800274,2018-11-23,OKC,CHA,7.53,1,4,28,CHA,CHA,fg_miss,73,False,False,,MISS Lamb 1' Driving Reverse Layup,19-19,19,19
-0021800274,2018-11-23,OKC,CHA,7.55,1,4,27,CHA,CHA,fg_miss,97,False,False,,MISS Zeller 2' Tip Layup Shot,19-19,19,19
 0021800274,2018-11-23,OKC,CHA,7.55,1,4,27,CHA,CHA,reb,0,False,False,,Zeller REBOUND (Off:2 Def:1),19-19,19,19
-0021800274,2018-11-23,OKC,CHA,7.57,1,4,26,CHA,CHA,reb,0,False,False,,Zeller REBOUND (Off:1 Def:1),19-19,19,19
+0021800274,2018-11-23,OKC,CHA,7.55,1,4,27,CHA,CHA,fg_miss,97,False,False,,MISS Zeller 2' Tip Layup Shot,19-19,19,19
 0021800274,2018-11-23,OKC,CHA,7.57,1,4,26,CHA,CHA,fg_miss,97,False,False,,MISS Zeller 1' Tip Layup Shot,19-19,19,19
+0021800274,2018-11-23,OKC,CHA,7.57,1,4,26,CHA,CHA,reb,0,False,False,,Zeller REBOUND (Off:1 Def:1),19-19,19,19
 0021800274,2018-11-23,OKC,CHA,7.63,1,4,22,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:1 Def:1),19-19,19,19
 0021800274,2018-11-23,OKC,CHA,7.77,1,4,14,CHA,CHA,fg_make,78,False,False,,Zeller 4' Floating Jump Shot (6 PTS) (Walker 3 AST),19-21,19,21
 0021800274,2018-11-23,OKC,CHA,7.97,1,4,2,OKC,OKC,fg_miss,80,False,False,MISS Westbrook 13' Step Back Jump Shot,,19-21,19,21
@@ -211,8 +211,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800274,2018-11-23,OKC,CHA,21.77,2,2,14,OKC,OKC,fg_make,50,False,False,Burton 1' Running Dunk (10 PTS) (Westbrook 7 AST),,58-53,58,53
 0021800274,2018-11-23,OKC,CHA,22.1,2,1,54,CHA,CHA,fg_make,1,False,False,,Walker 22' Jump Shot (10 PTS) (Batum 3 AST),58-55,58,55
 0021800274,2018-11-23,OKC,CHA,22.28,2,1,43,OKC,OKC,fg_miss,79,True,False,MISS George 19' Pullup Jump Shot,,58-55,58,55
-0021800274,2018-11-23,OKC,CHA,22.28,2,1,43,OKC,OKC,reb,0,False,False,George REBOUND (Off:2 Def:3),,58-55,58,55
 0021800274,2018-11-23,OKC,CHA,22.28,2,1,43,OKC,CHA,block,79,True,False,block,block,58-55,58,55
+0021800274,2018-11-23,OKC,CHA,22.28,2,1,43,OKC,OKC,reb,0,False,False,George REBOUND (Off:2 Def:3),,58-55,58,55
 0021800274,2018-11-23,OKC,CHA,22.38,2,1,37,OKC,OKC,fg3_miss,1,False,False,MISS Burton 3PT Jump Shot,,58-55,58,55
 0021800274,2018-11-23,OKC,CHA,22.47,2,1,32,CHA,CHA,reb,0,False,False,,Batum REBOUND (Off:0 Def:5),58-55,58,55
 0021800274,2018-11-23,OKC,CHA,22.53,2,1,28,CHA,CHA,fg_miss,5,False,False,,MISS Walker 2' Layup,58-55,58,55
@@ -432,9 +432,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800274,2018-11-23,OKC,CHA,47.07,4,0,56,OKC,OKC,fg_make,79,False,False,Schroder 18' Pullup Jump Shot (23 PTS),,105-101,105,101
 0021800274,2018-11-23,OKC,CHA,47.38,4,0,37,CHA,CHA,fg3_make,1,False,False,,Williams 26' 3PT Jump Shot (10 PTS) (Zeller 5 AST),105-104,105,104
 0021800274,2018-11-23,OKC,CHA,47.67,4,0,20,OKC,OKC,fg_miss,6,True,False,MISS Westbrook 5' Driving Layup,,105-104,105,104
+0021800274,2018-11-23,OKC,CHA,47.67,4,0,20,OKC,CHA,block,6,True,False,block,block,105-104,105,104
 0021800274,2018-11-23,OKC,CHA,47.67,4,0,20,CHA,CHA,reb,0,False,False,,Hornets Rebound,105-104,105,104
 0021800274,2018-11-23,OKC,CHA,47.67,4,0,20,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.6 Short 0),105-104,105,104
-0021800274,2018-11-23,OKC,CHA,47.67,4,0,20,OKC,CHA,block,6,True,False,block,block,105-104,105,104
 0021800274,2018-11-23,OKC,CHA,47.77,4,0,14,CHA,CHA,fg3_miss,1,False,False,,MISS Williams 3PT Jump Shot,105-104,105,104
 0021800274,2018-11-23,OKC,CHA,47.82,4,0,11,OKC,OKC,reb,0,False,False,Westbrook REBOUND (Off:0 Def:11),,105-104,105,104
 0021800274,2018-11-23,OKC,CHA,47.82,4,0,11,OKC,CHA,foul,28,False,False,,Zeller Personal Take Foul (P5.PN) (R.Acosta),105-104,105,104

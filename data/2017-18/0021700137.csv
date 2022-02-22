@@ -103,8 +103,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700137,2017-11-05,LAC,MIA,10.75,1,1,15,LAC,MIA,steal,1,False,True,steal,steal,18-26,18,26
 0021700137,2017-11-05,LAC,MIA,10.83,1,1,10,MIA,MIA,fg3_make,1,False,False,,Johnson 3PT Jump Shot (6 PTS) (Richardson 2 AST),18-29,18,29
 0021700137,2017-11-05,LAC,MIA,11.08,1,0,55,LAC,LAC,tov,2,False,True,Williams Lost Ball Turnover (P2.T5),,18-29,18,29
-0021700137,2017-11-05,LAC,MIA,11.08,1,0,55,MIA,LAC,foul,28,False,False,Williams Personal Take Foul (P1.PN) (R.Garretson),,18-29,18,29
 0021700137,2017-11-05,LAC,MIA,11.08,1,0,55,LAC,MIA,steal,2,False,True,steal,steal,18-29,18,29
+0021700137,2017-11-05,LAC,MIA,11.08,1,0,55,MIA,LAC,foul,28,False,False,Williams Personal Take Foul (P1.PN) (R.Garretson),,18-29,18,29
 0021700137,2017-11-05,LAC,MIA,11.08,1,0,55,MIA,MIA,ft_make,11,False,False,,Johnson Free Throw 1 of 2 (5 PTS),18-30,18,30
 0021700137,2017-11-05,LAC,MIA,11.08,1,0,55,MIA,MIA,ft_make,12,False,False,,Johnson Free Throw 2 of 2 (6 PTS),18-31,18,31
 0021700137,2017-11-05,LAC,MIA,11.27,1,0,44,LAC,MIA,foul,2,False,False,,Olynyk S.FOUL (P1.PN) (R.Garretson),18-31,18,31
@@ -133,8 +133,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700137,2017-11-05,LAC,MIA,13.7,2,10,18,LAC,LAC,fg_miss,102,False,False,MISS Beverley 5' Driving Floating Bank Jump Shot,,21-39,21,39
 0021700137,2017-11-05,LAC,MIA,13.78,2,10,13,LAC,LAC,reb,0,False,False,Beverley REBOUND (Off:1 Def:1),,21-39,21,39
 0021700137,2017-11-05,LAC,MIA,13.97,2,10,2,LAC,LAC,fg_miss,5,True,False,MISS Thornwell 4' Layup,,21-39,21,39
-0021700137,2017-11-05,LAC,MIA,13.97,2,10,2,MIA,MIA,reb,0,False,False,,Olynyk REBOUND (Off:0 Def:2),21-39,21,39
 0021700137,2017-11-05,LAC,MIA,13.97,2,10,2,LAC,MIA,block,5,True,False,block,block,21-39,21,39
+0021700137,2017-11-05,LAC,MIA,13.97,2,10,2,MIA,MIA,reb,0,False,False,,Olynyk REBOUND (Off:0 Def:2),21-39,21,39
 0021700137,2017-11-05,LAC,MIA,14.15,2,9,51,MIA,MIA,fg3_miss,1,False,False,,MISS Richardson 26' 3PT Jump Shot,21-39,21,39
 0021700137,2017-11-05,LAC,MIA,14.15,2,9,51,LAC,LAC,reb,0,False,False,Jordan REBOUND (Off:5 Def:3),,21-39,21,39
 0021700137,2017-11-05,LAC,MIA,14.4,2,9,36,LAC,LAC,tov,2,False,True,Gallinari Lost Ball Turnover (P1.T7),,21-39,21,39
@@ -153,8 +153,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700137,2017-11-05,LAC,MIA,16.02,2,7,59,MIA,MIA,fg_miss,1,False,False,,MISS Dragic 16' Jump Shot,26-39,26,39
 0021700137,2017-11-05,LAC,MIA,16.1,2,7,54,MIA,MIA,reb,0,False,False,,Whiteside REBOUND (Off:3 Def:3),26-39,26,39
 0021700137,2017-11-05,LAC,MIA,16.12,2,7,53,MIA,MIA,fg_miss,72,True,False,,MISS Whiteside 1' Putback Layup,26-39,26,39
-0021700137,2017-11-05,LAC,MIA,16.12,2,7,53,MIA,MIA,reb,0,False,False,,Whiteside REBOUND (Off:4 Def:3),26-39,26,39
 0021700137,2017-11-05,LAC,MIA,16.12,2,7,53,MIA,LAC,block,72,True,False,block,block,26-39,26,39
+0021700137,2017-11-05,LAC,MIA,16.12,2,7,53,MIA,MIA,reb,0,False,False,,Whiteside REBOUND (Off:4 Def:3),26-39,26,39
 0021700137,2017-11-05,LAC,MIA,16.23,2,7,46,MIA,MIA,fg_make,72,False,False,,Whiteside 1' Putback Layup (6 PTS),26-41,26,41
 0021700137,2017-11-05,LAC,MIA,16.45,2,7,33,LAC,LAC,fg_miss,3,False,False,MISS Beverley 4' Hook Shot,,26-41,26,41
 0021700137,2017-11-05,LAC,MIA,16.45,2,7,33,MIA,MIA,reb,0,False,False,,Ellington REBOUND (Off:0 Def:1),26-41,26,41
@@ -201,14 +201,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700137,2017-11-05,LAC,MIA,20.85,2,3,9,MIA,MIA,ft_make,11,False,False,,Whiteside Free Throw 1 of 2 (9 PTS),39-54,39,54
 0021700137,2017-11-05,LAC,MIA,20.85,2,3,9,MIA,MIA,ft_make,12,False,False,,Whiteside Free Throw 2 of 2 (10 PTS),39-55,39,55
 0021700137,2017-11-05,LAC,MIA,21.12,2,2,53,LAC,LAC,fg_miss,6,True,False,MISS Griffin 3' Driving Layup,,39-55,39,55
-0021700137,2017-11-05,LAC,MIA,21.12,2,2,53,MIA,MIA,reb,0,False,False,,Heat Rebound,39-55,39,55
 0021700137,2017-11-05,LAC,MIA,21.12,2,2,53,LAC,MIA,block,6,True,False,block,block,39-55,39,55
+0021700137,2017-11-05,LAC,MIA,21.12,2,2,53,MIA,MIA,reb,0,False,False,,Heat Rebound,39-55,39,55
 0021700137,2017-11-05,LAC,MIA,21.35,2,2,39,MIA,MIA,fg_make,101,False,False,,Johnson 8' Driving Floating Jump Shot (16 PTS) (Whiteside 1 AST),39-57,39,57
 0021700137,2017-11-05,LAC,MIA,21.63,2,2,22,LAC,LAC,fg3_miss,1,False,False,MISS Griffin 25' 3PT Jump Shot,,39-57,39,57
 0021700137,2017-11-05,LAC,MIA,21.63,2,2,22,LAC,LAC,reb,0,False,False,Jordan REBOUND (Off:7 Def:5),,39-57,39,57
 0021700137,2017-11-05,LAC,MIA,21.83,2,2,10,LAC,LAC,fg_miss,6,False,False,MISS Griffin 3' Driving Layup,,39-57,39,57
-0021700137,2017-11-05,LAC,MIA,21.9,2,2,6,LAC,LAC,reb,0,False,False,Griffin REBOUND (Off:1 Def:3),,39-57,39,57
 0021700137,2017-11-05,LAC,MIA,21.9,2,2,6,LAC,LAC,fg_make,72,False,False,Griffin 1' Putback Layup (11 PTS),,41-57,41,57
+0021700137,2017-11-05,LAC,MIA,21.9,2,2,6,LAC,LAC,reb,0,False,False,Griffin REBOUND (Off:1 Def:3),,39-57,39,57
 0021700137,2017-11-05,LAC,MIA,22.17,2,1,50,MIA,MIA,fg_make,3,False,False,,Whiteside 5' Hook Shot (12 PTS),41-59,41,59
 0021700137,2017-11-05,LAC,MIA,22.3,2,1,42,LAC,LAC,fg_miss,5,False,False,MISS Williams 3' Layup,,41-59,41,59
 0021700137,2017-11-05,LAC,MIA,22.3,2,1,42,MIA,MIA,reb,0,False,False,,Whiteside REBOUND (Off:4 Def:4),41-59,41,59
@@ -224,11 +224,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700137,2017-11-05,LAC,MIA,23.97,2,0,2,LAC,MIA,foul,2,False,False,,Adebayo S.FOUL (P1.PN) (T.Ford),46-62,46,62
 0021700137,2017-11-05,LAC,MIA,23.97,2,0,2,LAC,LAC,ft_miss,10,False,False,MISS Griffin Free Throw 1 of 1,,46-62,46,62
 0021700137,2017-11-05,LAC,MIA,23.98,2,0,1,MIA,MIA,reb,0,False,False,,Heat Rebound,46-62,46,62
-0021700137,2017-11-05,LAC,MIA,24.0,2,0,0,LAC,LAC,fg3_make,1,False,False,Reed 24' 3PT Jump Shot (8 PTS),,49-62,49,62
 0021700137,2017-11-05,LAC,MIA,24.0,2,0,0,MIA,MIA,tov,1,False,True,,Johnson Bad Pass Turnover (P3.T6),49-62,49,62
+0021700137,2017-11-05,LAC,MIA,24.0,2,0,0,MIA,LAC,steal,1,False,True,steal,steal,49-62,49,62
+0021700137,2017-11-05,LAC,MIA,24.0,2,0,0,LAC,LAC,fg3_make,1,False,False,Reed 24' 3PT Jump Shot (8 PTS),,49-62,49,62
 0021700137,2017-11-05,LAC,MIA,24.0,2,0,0,MIA,,period_end,0,False,False,,,49-62,49,62
 0021700137,2017-11-05,LAC,MIA,24.0,3,12,0,MIA,,period_start,0,False,False,,,49-62,49,62
-0021700137,2017-11-05,LAC,MIA,24.0,2,0,0,MIA,LAC,steal,1,False,True,steal,steal,49-62,49,62
 0021700137,2017-11-05,LAC,MIA,24.4,3,11,36,LAC,LAC,fg3_miss,1,False,False,MISS W. Johnson 24' 3PT Jump Shot,,49-62,49,62
 0021700137,2017-11-05,LAC,MIA,24.47,3,11,32,MIA,MIA,reb,0,False,False,,Whiteside REBOUND (Off:4 Def:5),49-62,49,62
 0021700137,2017-11-05,LAC,MIA,24.73,3,11,16,MIA,MIA,fg_make,1,False,False,,Whiteside 19' Jump Shot (14 PTS),49-64,49,64
@@ -278,9 +278,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700137,2017-11-05,LAC,MIA,28.43,3,7,34,MIA,MIA,reb,0,False,False,,Winslow REBOUND (Off:0 Def:1),54-71,54,71
 0021700137,2017-11-05,LAC,MIA,28.47,3,7,32,MIA,MIA,fg3_make,2,False,False,,White 25' 3PT Running Jump Shot (3 PTS) (Richardson 4 AST),54-74,54,74
 0021700137,2017-11-05,LAC,MIA,28.7,3,7,18,LAC,MIA,foul,29,False,False,,White Shooting Block Foul (P2.T4) (B.Barnaky),54-74,54,74
-0021700137,2017-11-05,LAC,MIA,28.7,3,7,18,LAC,LAC,ft_make,12,False,False,Griffin Free Throw 2 of 2 (14 PTS),,55-74,55,74
 0021700137,2017-11-05,LAC,MIA,28.7,3,7,18,LAC,LAC,ft_miss,11,False,False,MISS Griffin Free Throw 1 of 2,,55-74,55,74
 0021700137,2017-11-05,LAC,MIA,28.7,3,7,18,LAC,LAC,reb,1,False,False,CLIPPERS Rebound,,55-74,55,74
+0021700137,2017-11-05,LAC,MIA,28.7,3,7,18,LAC,LAC,ft_make,12,False,False,Griffin Free Throw 2 of 2 (14 PTS),,55-74,55,74
 0021700137,2017-11-05,LAC,MIA,28.98,3,7,1,MIA,MIA,fg_miss,1,False,False,,MISS Winslow 16' Jump Shot,55-74,55,74
 0021700137,2017-11-05,LAC,MIA,29.07,3,6,56,LAC,LAC,reb,0,False,False,Griffin REBOUND (Off:1 Def:5),,55-74,55,74
 0021700137,2017-11-05,LAC,MIA,29.12,3,6,53,LAC,LAC,fg_make,106,False,False,Jordan 1' Running Alley Oop Dunk Shot (6 PTS) (Griffin 2 AST),,57-74,57,74
@@ -308,8 +308,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700137,2017-11-05,LAC,MIA,32.1,3,3,54,LAC,LAC,fg3_make,1,False,False,Williams 3PT Jump Shot (7 PTS) (Rivers 2 AST),,62-79,62,79
 0021700137,2017-11-05,LAC,MIA,32.12,3,3,53,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.4 Short 0),62-79,62,79
 0021700137,2017-11-05,LAC,MIA,32.4,3,3,36,MIA,MIA,fg_miss,1,True,False,,MISS Johnson 3' Jump Shot,62-79,62,79
-0021700137,2017-11-05,LAC,MIA,32.4,3,3,36,MIA,MIA,reb,0,False,False,,Heat Rebound,62-79,62,79
 0021700137,2017-11-05,LAC,MIA,32.4,3,3,36,MIA,LAC,block,1,True,False,block,block,62-79,62,79
+0021700137,2017-11-05,LAC,MIA,32.4,3,3,36,MIA,MIA,reb,0,False,False,,Heat Rebound,62-79,62,79
 0021700137,2017-11-05,LAC,MIA,32.55,3,3,27,MIA,MIA,fg_miss,1,False,False,,MISS Johnson 19' Jump Shot,62-79,62,79
 0021700137,2017-11-05,LAC,MIA,32.6,3,3,24,LAC,LAC,reb,0,False,False,Beverley REBOUND (Off:1 Def:3),,62-79,62,79
 0021700137,2017-11-05,LAC,MIA,32.73,3,3,16,LAC,LAC,fg_miss,6,False,False,MISS Beverley 3' Driving Layup,,62-79,62,79
@@ -352,8 +352,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700137,2017-11-05,LAC,MIA,37.42,4,10,35,LAC,LAC,fg3_miss,1,False,False,MISS Dekker 26' 3PT Jump Shot,,70-89,70,89
 0021700137,2017-11-05,LAC,MIA,37.47,4,10,32,MIA,MIA,reb,0,False,False,,Johnson REBOUND (Off:0 Def:1),70-89,70,89
 0021700137,2017-11-05,LAC,MIA,37.53,4,10,28,MIA,MIA,tov,1,False,True,,Johnson Bad Pass Turnover (P1.T11),70-89,70,89
-0021700137,2017-11-05,LAC,MIA,37.53,4,10,28,LAC,MIA,foul,3,False,False,,Johnson L.B.FOUL (P2.T1) (R.Garretson),70-89,70,89
 0021700137,2017-11-05,LAC,MIA,37.53,4,10,28,MIA,LAC,steal,1,False,True,steal,steal,70-89,70,89
+0021700137,2017-11-05,LAC,MIA,37.53,4,10,28,LAC,MIA,foul,3,False,False,,Johnson L.B.FOUL (P2.T1) (R.Garretson),70-89,70,89
 0021700137,2017-11-05,LAC,MIA,37.67,4,10,20,LAC,LAC,fg3_make,1,False,False,Williams 26' 3PT Jump Shot (16 PTS),,73-89,73,89
 0021700137,2017-11-05,LAC,MIA,37.93,4,10,4,MIA,LAC,foul,1,False,False,Thornwell P.FOUL (P1.T1) (R.Garretson),,73-89,73,89
 0021700137,2017-11-05,LAC,MIA,38.07,4,9,56,MIA,MIA,fg3_miss,1,False,False,,MISS Olynyk 26' 3PT Jump Shot,73-89,73,89
@@ -394,8 +394,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700137,2017-11-05,LAC,MIA,41.48,4,6,31,LAC,LAC,fg3_make,1,False,False,Griffin 26' 3PT Jump Shot (19 PTS) (W. Johnson 1 AST),,85-91,85,91
 0021700137,2017-11-05,LAC,MIA,41.93,4,6,4,MIA,MIA,fg_make,1,False,False,,Olynyk 13' Jump Shot (2 PTS) (Johnson 4 AST),85-93,85,93
 0021700137,2017-11-05,LAC,MIA,42.22,4,5,47,LAC,LAC,fg_miss,98,True,False,MISS Williams 1' Cutting Layup Shot,,85-93,85,93
-0021700137,2017-11-05,LAC,MIA,42.22,4,5,47,MIA,MIA,reb,0,False,False,,Heat Rebound,85-93,85,93
 0021700137,2017-11-05,LAC,MIA,42.22,4,5,47,LAC,MIA,block,98,True,False,block,block,85-93,85,93
+0021700137,2017-11-05,LAC,MIA,42.22,4,5,47,MIA,MIA,reb,0,False,False,,Heat Rebound,85-93,85,93
 0021700137,2017-11-05,LAC,MIA,42.47,4,5,32,MIA,MIA,fg3_miss,1,False,False,,MISS Richardson 24' 3PT Jump Shot,85-93,85,93
 0021700137,2017-11-05,LAC,MIA,42.53,4,5,28,LAC,LAC,reb,0,False,False,Jordan REBOUND (Off:9 Def:8),,85-93,85,93
 0021700137,2017-11-05,LAC,MIA,42.63,4,5,22,LAC,LAC,fg3_miss,1,False,False,MISS Williams 25' 3PT Jump Shot,,85-93,85,93
@@ -452,13 +452,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700137,2017-11-05,LAC,MIA,47.57,4,0,26,LAC,LAC,fg_make,50,False,False,W. Johnson Running Dunk (6 PTS) (Rivers 3 AST),,101-100,101,100
 0021700137,2017-11-05,LAC,MIA,47.57,4,0,26,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.6 Short 0),101-100,101,100
 0021700137,2017-11-05,LAC,MIA,47.72,4,0,17,MIA,MIA,tov,2,False,True,,Johnson Lost Ball Turnover (P6.T16),101-100,101,100
+0021700137,2017-11-05,LAC,MIA,47.72,4,0,17,MIA,LAC,steal,2,False,True,steal,steal,101-100,101,100
 0021700137,2017-11-05,LAC,MIA,47.72,4,0,17,LAC,MIA,foul,3,False,False,,Johnson L.B.FOUL (P1.PN) (R.Garretson),101-100,101,100
 0021700137,2017-11-05,LAC,MIA,47.72,4,0,17,LAC,LAC,ft_miss,11,False,False,MISS Rivers Free Throw 1 of 2,,101-100,101,100
 0021700137,2017-11-05,LAC,MIA,47.72,4,0,17,LAC,LAC,reb,1,False,False,CLIPPERS Rebound,,101-100,101,100
 0021700137,2017-11-05,LAC,MIA,47.72,4,0,17,LAC,LAC,ft_miss,12,False,False,MISS Rivers Free Throw 2 of 2,,101-100,101,100
-0021700137,2017-11-05,LAC,MIA,47.72,4,0,17,MIA,LAC,steal,2,False,True,steal,steal,101-100,101,100
-0021700137,2017-11-05,LAC,MIA,47.73,4,0,16,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.7 Short 0),101-100,101,100
 0021700137,2017-11-05,LAC,MIA,47.73,4,0,16,MIA,MIA,reb,0,False,False,,Dragic REBOUND (Off:1 Def:3),101-100,101,100
+0021700137,2017-11-05,LAC,MIA,47.73,4,0,16,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.7 Short 0),101-100,101,100
 0021700137,2017-11-05,LAC,MIA,47.87,4,0,8,MIA,LAC,foul,1,False,False,Griffin P.FOUL (P5.PN) (B.Barnaky),,101-100,101,100
 0021700137,2017-11-05,LAC,MIA,47.87,4,0,8,MIA,MIA,ft_make,11,False,False,,Johnson Free Throw 1 of 2 (13 PTS),101-101,101,101
 0021700137,2017-11-05,LAC,MIA,47.87,4,0,8,MIA,MIA,ft_make,12,False,False,,Johnson Free Throw 2 of 2 (14 PTS),101-102,101,102
@@ -470,5 +470,5 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700137,2017-11-05,LAC,MIA,48.0,4,0,0,MIA,MIA,ft_make,11,False,False,,Richardson Free Throw 1 of 2 (13 PTS),101-103,101,103
 0021700137,2017-11-05,LAC,MIA,48.0,4,0,0,MIA,MIA,ft_make,12,False,False,,Richardson Free Throw 2 of 2 (14 PTS),101-104,101,104
 0021700137,2017-11-05,LAC,MIA,48.0,4,0,0,LAC,LAC,tov,1,False,True,Jordan Bad Pass Turnover (P1.T16),,101-104,101,104
-0021700137,2017-11-05,LAC,MIA,48.0,4,0,0,LAC,,period_end,0,False,False,,,101-104,101,104
 0021700137,2017-11-05,LAC,MIA,48.0,4,0,0,LAC,MIA,steal,1,False,True,steal,steal,101-104,101,104
+0021700137,2017-11-05,LAC,MIA,48.0,4,0,0,LAC,,period_end,0,False,False,,,101-104,101,104

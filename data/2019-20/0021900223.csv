@@ -181,9 +181,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900223,2019-11-22,UTA,GSW,23.87,2,0,8,GSW,GSW,fg_miss,9,False,False,,MISS Paschall 2' Driving Dunk,65-51,65,51
 0021900223,2019-11-22,UTA,GSW,23.9,2,0,6,UTA,UTA,reb,0,False,False,Ingles REBOUND (Off:0 Def:2),,65-51,65,51
 0021900223,2019-11-22,UTA,GSW,24.0,2,0,0,UTA,UTA,tov,2,False,True,Gobert Lost Ball Turnover (P2.T8),,65-51,65,51
+0021900223,2019-11-22,UTA,GSW,24.0,2,0,0,UTA,GSW,steal,2,False,True,steal,steal,65-51,65,51
 0021900223,2019-11-22,UTA,GSW,24.0,2,0,0,UTA,,period_end,0,False,False,,,65-51,65,51
 0021900223,2019-11-22,UTA,GSW,24.0,3,12,0,UTA,,period_start,0,False,False,,,65-51,65,51
-0021900223,2019-11-22,UTA,GSW,24.0,2,0,0,UTA,GSW,steal,2,False,True,steal,steal,65-51,65,51
 0021900223,2019-11-22,UTA,GSW,24.15,3,11,51,UTA,GSW,foul,4,False,False,,Cauley-Stein OFF.Foul (P4) (B.Nansel),65-51,65,51
 0021900223,2019-11-22,UTA,GSW,24.15,3,11,51,GSW,GSW,tov,37,False,False,,Cauley-Stein Offensive Foul Turnover (P3.T5),65-51,65,51
 0021900223,2019-11-22,UTA,GSW,24.45,3,11,33,GSW,UTA,foul,4,False,False,O'Neale OFF.Foul (P1) (N.Buchert),,65-51,65,51
@@ -207,8 +207,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900223,2019-11-22,UTA,GSW,26.4,3,9,36,GSW,GSW,fg3_miss,1,False,False,,MISS Paschall 25' 3PT Jump Shot,69-58,69,58
 0021900223,2019-11-22,UTA,GSW,26.45,3,9,33,UTA,UTA,reb,0,False,False,Mitchell REBOUND (Off:1 Def:1),,69-58,69,58
 0021900223,2019-11-22,UTA,GSW,26.55,3,9,27,UTA,UTA,fg_miss,6,True,False,MISS Mitchell 6' Driving Layup,,69-58,69,58
-0021900223,2019-11-22,UTA,GSW,26.55,3,9,27,UTA,UTA,reb,0,False,False,JAZZ Rebound,,69-58,69,58
 0021900223,2019-11-22,UTA,GSW,26.55,3,9,27,UTA,GSW,block,6,True,False,block,block,69-58,69,58
+0021900223,2019-11-22,UTA,GSW,26.55,3,9,27,UTA,UTA,reb,0,False,False,JAZZ Rebound,,69-58,69,58
 0021900223,2019-11-22,UTA,GSW,26.58,3,9,25,UTA,UTA,fg3_miss,79,False,False,MISS Mitchell 24' 3PT Pullup Jump Shot,,69-58,69,58
 0021900223,2019-11-22,UTA,GSW,26.65,3,9,21,GSW,GSW,reb,0,False,False,,Paschall REBOUND (Off:2 Def:5),69-58,69,58
 0021900223,2019-11-22,UTA,GSW,26.75,3,9,15,GSW,GSW,fg_make,50,False,False,,Paschall 2' Running Dunk (9 PTS),69-60,69,60
@@ -259,8 +259,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900223,2019-11-22,UTA,GSW,31.22,3,4,47,GSW,UTA,block,79,True,False,block,block,80-66,80,66
 0021900223,2019-11-22,UTA,GSW,31.28,3,4,43,GSW,GSW,reb,0,False,False,,Burks REBOUND (Off:1 Def:3),80-66,80,66
 0021900223,2019-11-22,UTA,GSW,31.32,3,4,41,GSW,GSW,fg_miss,6,True,False,,MISS Burks 8' Driving Layup,80-66,80,66
-0021900223,2019-11-22,UTA,GSW,31.32,3,4,41,UTA,UTA,reb,0,False,False,Ingles REBOUND (Off:0 Def:3),,80-66,80,66
 0021900223,2019-11-22,UTA,GSW,31.32,3,4,41,GSW,UTA,block,6,True,False,block,block,80-66,80,66
+0021900223,2019-11-22,UTA,GSW,31.32,3,4,41,UTA,UTA,reb,0,False,False,Ingles REBOUND (Off:0 Def:3),,80-66,80,66
 0021900223,2019-11-22,UTA,GSW,31.38,3,4,37,UTA,UTA,fg3_make,1,False,False,Bogdanovic 24' 3PT Jump Shot (15 PTS) (O'Neale 5 AST),,83-66,83,66
 0021900223,2019-11-22,UTA,GSW,31.55,3,4,27,GSW,UTA,foul,1,False,False,Mudiay P.FOUL (P2.PN) (B.Nansel),,83-66,83,66
 0021900223,2019-11-22,UTA,GSW,31.55,3,4,27,GSW,GSW,ft_make,11,False,False,,Poole Free Throw 1 of 2 (10 PTS),83-67,83,67
@@ -334,8 +334,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900223,2019-11-22,UTA,GSW,40.38,4,7,37,GSW,GSW,fg_miss,1,False,False,,MISS Spellman 19' Jump Shot,102-85,102,85
 0021900223,2019-11-22,UTA,GSW,40.43,4,7,34,UTA,UTA,reb,0,False,False,Conley REBOUND (Off:0 Def:2),,102-85,102,85
 0021900223,2019-11-22,UTA,GSW,40.52,4,7,29,UTA,UTA,tov,2,False,True,Ingles Lost Ball Turnover (P1.T18),,102-85,102,85
-0021900223,2019-11-22,UTA,GSW,40.52,4,7,29,GSW,UTA,foul,28,False,False,Ingles Personal Take Foul (P2.T1) (S.Corbin),,102-85,102,85
 0021900223,2019-11-22,UTA,GSW,40.52,4,7,29,UTA,GSW,steal,2,False,True,steal,steal,102-85,102,85
+0021900223,2019-11-22,UTA,GSW,40.52,4,7,29,GSW,UTA,foul,28,False,False,Ingles Personal Take Foul (P2.T1) (S.Corbin),,102-85,102,85
 0021900223,2019-11-22,UTA,GSW,40.88,4,7,7,GSW,GSW,fg_miss,3,False,False,,MISS Cauley-Stein 7' Hook Shot,102-85,102,85
 0021900223,2019-11-22,UTA,GSW,40.92,4,7,5,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:2 Def:13),,102-85,102,85
 0021900223,2019-11-22,UTA,GSW,41.13,4,6,52,UTA,UTA,tov,1,False,True,Ingles Bad Pass Turnover (P2.T19),,102-85,102,85
@@ -396,9 +396,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900223,2019-11-22,UTA,GSW,47.03,4,0,58,UTA,UTA,reb,0,False,False,Bogdanovic REBOUND (Off:2 Def:3),,111-105,111,105
 0021900223,2019-11-22,UTA,GSW,47.03,4,0,58,UTA,UTA,fg_miss,97,False,False,MISS Bogdanovic 1' Tip Layup Shot,,111-105,111,105
 0021900223,2019-11-22,UTA,GSW,47.05,4,0,57,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:5 Def:14),,111-105,111,105
+0021900223,2019-11-22,UTA,GSW,47.05,4,0,57,UTA,UTA,fg_miss,97,False,False,MISS Gobert 1' Tip Layup Shot,,111-105,111,105
 0021900223,2019-11-22,UTA,GSW,47.05,4,0,57,UTA,UTA,fg_miss,97,False,False,MISS Gobert 2' Tip Layup Shot,,111-105,111,105
 0021900223,2019-11-22,UTA,GSW,47.05,4,0,57,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:5 Def:14),,111-105,111,105
-0021900223,2019-11-22,UTA,GSW,47.05,4,0,57,UTA,UTA,fg_miss,97,False,False,MISS Gobert 1' Tip Layup Shot,,111-105,111,105
 0021900223,2019-11-22,UTA,GSW,47.08,4,0,55,GSW,GSW,reb,0,False,False,,Burks REBOUND (Off:1 Def:5),111-105,111,105
 0021900223,2019-11-22,UTA,GSW,47.15,4,0,51,GSW,GSW,fg_make,6,False,False,,Burks 2' Driving Layup (20 PTS),111-107,111,107
 0021900223,2019-11-22,UTA,GSW,47.52,4,0,29,UTA,UTA,fg3_miss,1,False,False,MISS Mitchell 32' 3PT Jump Shot,,111-107,111,107
@@ -415,9 +415,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900223,2019-11-22,UTA,GSW,47.83,4,0,10,UTA,UTA,ft_make,11,False,False,Mitchell Free Throw 1 of 2 (30 PTS),,113-109,113,109
 0021900223,2019-11-22,UTA,GSW,47.83,4,0,10,UTA,UTA,ft_miss,12,False,False,MISS Mitchell Free Throw 2 of 2,,113-109,113,109
 0021900223,2019-11-22,UTA,GSW,47.83,4,0,10,GSW,GSW,reb,0,False,False,,Cauley-Stein REBOUND (Off:0 Def:4),113-109,113,109
-0021900223,2019-11-22,UTA,GSW,47.93,4,0,4,GSW,GSW,fg_miss,6,True,False,,MISS Burks 3' Driving Layup,113-109,113,109
-0021900223,2019-11-22,UTA,GSW,47.93,4,0,4,UTA,UTA,reb,0,False,False,JAZZ Rebound,,113-109,113,109
 0021900223,2019-11-22,UTA,GSW,47.93,4,0,4,UTA,UTA,timeout,7,False,False,JAZZ Timeout: Coach Challenge (Full 6 Short 0),,113-109,113,109
+0021900223,2019-11-22,UTA,GSW,47.93,4,0,4,GSW,GSW,fg_miss,6,True,False,,MISS Burks 3' Driving Layup,113-109,113,109
 0021900223,2019-11-22,UTA,GSW,47.93,4,0,4,GSW,UTA,block,6,True,False,block,block,113-109,113,109
+0021900223,2019-11-22,UTA,GSW,47.93,4,0,4,UTA,UTA,reb,0,False,False,JAZZ Rebound,,113-109,113,109
 0021900223,2019-11-22,UTA,GSW,47.97,4,0,2,,UTA,jump_ball,1,False,False,Jump Ball (CC) Gobert vs. Cauley-Stein: Tip to O'Neale,,113-109,113,109
 0021900223,2019-11-22,UTA,GSW,48.0,4,0,0,,,period_end,0,False,False,,,113-109,113,109

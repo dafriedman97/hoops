@@ -42,16 +42,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900821,2020-02-20,ATL,MIA,4.62,1,7,23,MIA,MIA,reb,0,False,False,,Butler REBOUND (Off:0 Def:2),11-13,11,13
 0021900821,2020-02-20,ATL,MIA,4.9,1,7,6,MIA,MIA,fg_make,43,False,False,,Butler 2' Alley Oop Layup (3 PTS) (Robinson 1 AST),11-15,11,15
 0021900821,2020-02-20,ATL,MIA,5.07,1,6,56,ATL,ATL,tov,2,False,True,Young Lost Ball Turnover (P2.T2),,11-15,11,15
+0021900821,2020-02-20,ATL,MIA,5.07,1,6,56,ATL,MIA,steal,2,False,True,steal,steal,11-15,11,15
 0021900821,2020-02-20,ATL,MIA,5.07,1,6,56,MIA,ATL,foul,28,False,False,Dedmon Personal Take Foul (P2.T4) (C.Kirkland),,11-15,11,15
 0021900821,2020-02-20,ATL,MIA,5.07,1,6,56,ATL,ATL,timeout,1,False,False,HAWKS Timeout: Regular (Full 1 Short 0),,11-15,11,15
-0021900821,2020-02-20,ATL,MIA,5.07,1,6,56,ATL,MIA,steal,2,False,True,steal,steal,11-15,11,15
 0021900821,2020-02-20,ATL,MIA,5.3,1,6,42,MIA,ATL,foul,2,False,False,Teague S.FOUL (P1.PN) (C.Kirkland),,11-15,11,15
 0021900821,2020-02-20,ATL,MIA,5.3,1,6,42,MIA,MIA,ft_make,11,False,False,,Nunn Free Throw 1 of 2 (8 PTS),11-16,11,16
 0021900821,2020-02-20,ATL,MIA,5.3,1,6,42,MIA,MIA,ft_make,12,False,False,,Nunn Free Throw 2 of 2 (9 PTS),11-17,11,17
 0021900821,2020-02-20,ATL,MIA,5.52,1,6,29,ATL,ATL,fg3_make,1,False,False,Young 30' 3PT Jump Shot (8 PTS) (Teague 1 AST),,14-17,14,17
 0021900821,2020-02-20,ATL,MIA,5.67,1,6,20,MIA,MIA,fg_miss,6,True,False,,MISS Adebayo 3' Driving Layup,14-17,14,17
-0021900821,2020-02-20,ATL,MIA,5.67,1,6,20,MIA,MIA,reb,0,False,False,,Heat Rebound,14-17,14,17
 0021900821,2020-02-20,ATL,MIA,5.67,1,6,20,MIA,ATL,block,6,True,False,block,block,14-17,14,17
+0021900821,2020-02-20,ATL,MIA,5.67,1,6,20,MIA,MIA,reb,0,False,False,,Heat Rebound,14-17,14,17
 0021900821,2020-02-20,ATL,MIA,5.72,1,6,17,MIA,MIA,fg_make,98,False,False,,Robinson 1' Cutting Layup Shot (5 PTS) (Butler 2 AST),14-19,14,19
 0021900821,2020-02-20,ATL,MIA,5.92,1,6,5,ATL,ATL,fg3_miss,79,False,False,MISS Huerter 26' 3PT Pullup Jump Shot,,14-19,14,19
 0021900821,2020-02-20,ATL,MIA,5.98,1,6,1,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:0 Def:3),14-19,14,19
@@ -158,9 +158,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900821,2020-02-20,ATL,MIA,15.92,2,8,5,ATL,ATL,reb,0,False,False,Dedmon REBOUND (Off:0 Def:4),,42-41,42,41
 0021900821,2020-02-20,ATL,MIA,16.0,2,8,0,ATL,MIA,foul,1,False,False,,Robinson P.FOUL (P1.T4) (D.Richardson),42-41,42,41
 0021900821,2020-02-20,ATL,MIA,16.1,2,7,54,ATL,ATL,fg_miss,47,True,False,MISS Collins 10' Turnaround Jump Shot,,42-41,42,41
+0021900821,2020-02-20,ATL,MIA,16.1,2,7,54,ATL,MIA,block,47,True,False,block,block,42-41,42,41
 0021900821,2020-02-20,ATL,MIA,16.1,2,7,54,MIA,MIA,reb,0,False,False,,Iguodala REBOUND (Off:0 Def:1),42-41,42,41
 0021900821,2020-02-20,ATL,MIA,16.1,2,7,54,MIA,ATL,foul,1,False,False,Collins P.FOUL (P1.T1) (J.Capers),,42-41,42,41
-0021900821,2020-02-20,ATL,MIA,16.1,2,7,54,ATL,MIA,block,47,True,False,block,block,42-41,42,41
 0021900821,2020-02-20,ATL,MIA,16.42,2,7,35,MIA,MIA,fg3_miss,1,False,False,,MISS Iguodala 26' 3PT Jump Shot,42-41,42,41
 0021900821,2020-02-20,ATL,MIA,16.48,2,7,31,ATL,ATL,reb,0,False,False,Dedmon REBOUND (Off:0 Def:5),,42-41,42,41
 0021900821,2020-02-20,ATL,MIA,16.65,2,7,21,ATL,ATL,fg3_make,79,False,False,Teague 3PT Pullup Jump Shot (7 PTS) (Young 3 AST),,45-41,45,41
@@ -170,8 +170,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900821,2020-02-20,ATL,MIA,17.08,2,6,55,MIA,MIA,fg3_miss,1,False,False,,MISS Iguodala 24' 3PT Jump Shot,45-41,45,41
 0021900821,2020-02-20,ATL,MIA,17.13,2,6,52,ATL,ATL,reb,0,False,False,Hunter REBOUND (Off:1 Def:1),,45-41,45,41
 0021900821,2020-02-20,ATL,MIA,17.28,2,6,43,ATL,ATL,fg_miss,5,True,False,MISS Hunter 3' Layup,,45-41,45,41
-0021900821,2020-02-20,ATL,MIA,17.28,2,6,43,ATL,ATL,reb,0,False,False,HAWKS Rebound,,45-41,45,41
 0021900821,2020-02-20,ATL,MIA,17.28,2,6,43,ATL,MIA,block,5,True,False,block,block,45-41,45,41
+0021900821,2020-02-20,ATL,MIA,17.28,2,6,43,ATL,ATL,reb,0,False,False,HAWKS Rebound,,45-41,45,41
 0021900821,2020-02-20,ATL,MIA,17.35,2,6,39,ATL,MIA,foul,2,False,False,,Nunn S.FOUL (P1.PN) (C.Kirkland),45-41,45,41
 0021900821,2020-02-20,ATL,MIA,17.35,2,6,39,ATL,ATL,ft_make,11,False,False,Young Free Throw 1 of 2 (16 PTS),,46-41,46,41
 0021900821,2020-02-20,ATL,MIA,17.35,2,6,39,ATL,ATL,ft_make,12,False,False,Young Free Throw 2 of 2 (17 PTS),,47-41,47,41
@@ -188,9 +188,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900821,2020-02-20,ATL,MIA,18.88,2,5,7,ATL,ATL,fg_make,9,False,False,Hunter 1' Driving Dunk (9 PTS) (Huerter 3 AST),,54-43,54,43
 0021900821,2020-02-20,ATL,MIA,19.07,2,4,56,MIA,ATL,foul,1,False,False,Hunter P.FOUL (P3.T2) (D.Richardson),,54-43,54,43
 0021900821,2020-02-20,ATL,MIA,19.17,2,4,50,MIA,MIA,fg_miss,6,True,False,,MISS Butler 2' Driving Layup,54-43,54,43
+0021900821,2020-02-20,ATL,MIA,19.17,2,4,50,MIA,ATL,block,6,True,False,block,block,54-43,54,43
 0021900821,2020-02-20,ATL,MIA,19.17,2,4,50,MIA,MIA,reb,0,False,False,,Heat Rebound,54-43,54,43
 0021900821,2020-02-20,ATL,MIA,19.17,2,4,50,MIA,ATL,foul,3,False,False,Dedmon L.B.FOUL (P3.T3) (J.Capers),,54-43,54,43
-0021900821,2020-02-20,ATL,MIA,19.17,2,4,50,MIA,ATL,block,6,True,False,block,block,54-43,54,43
 0021900821,2020-02-20,ATL,MIA,19.32,2,4,41,MIA,MIA,fg3_make,1,False,False,,Nunn 25' 3PT Jump Shot (12 PTS) (Butler 3 AST),54-46,54,46
 0021900821,2020-02-20,ATL,MIA,19.67,2,4,20,ATL,ATL,tov,2,False,True,Teague Lost Ball Turnover (P2.T6),,54-46,54,46
 0021900821,2020-02-20,ATL,MIA,19.67,2,4,20,ATL,MIA,steal,2,False,True,steal,steal,54-46,54,46
@@ -330,20 +330,20 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900821,2020-02-20,ATL,MIA,32.57,3,3,26,ATL,ATL,fg3_miss,1,False,False,MISS Reddish 3PT Jump Shot,,78-84,78,84
 0021900821,2020-02-20,ATL,MIA,32.63,3,3,22,MIA,MIA,reb,0,False,False,,Dragic REBOUND (Off:0 Def:2),78-84,78,84
 0021900821,2020-02-20,ATL,MIA,32.7,3,3,18,MIA,MIA,fg_miss,101,False,False,,MISS Dragic 8' Driving Floating Jump Shot,78-84,78,84
-0021900821,2020-02-20,ATL,MIA,32.72,3,3,17,MIA,MIA,reb,0,False,False,,Jones Jr. REBOUND (Off:2 Def:0),78-84,78,84
 0021900821,2020-02-20,ATL,MIA,32.72,3,3,17,MIA,MIA,fg_make,97,False,False,,Jones Jr. 8' Tip Layup Shot (6 PTS),78-86,78,86
+0021900821,2020-02-20,ATL,MIA,32.72,3,3,17,MIA,MIA,reb,0,False,False,,Jones Jr. REBOUND (Off:2 Def:0),78-84,78,84
 0021900821,2020-02-20,ATL,MIA,32.92,3,3,5,ATL,ATL,fg_miss,101,False,False,MISS Teague 12' Driving Floating Jump Shot,,78-86,78,86
 0021900821,2020-02-20,ATL,MIA,32.92,3,3,5,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:3 Def:11),78-86,78,86
 0021900821,2020-02-20,ATL,MIA,33.07,3,2,56,MIA,MIA,fg_make,6,False,False,,Adebayo 1' Driving Layup (14 PTS),78-88,78,88
 0021900821,2020-02-20,ATL,MIA,33.07,3,2,56,MIA,ATL,foul,2,False,False,Fernando S.FOUL (P3.T4) (J.Capers),,78-88,78,88
 0021900821,2020-02-20,ATL,MIA,33.07,3,2,56,MIA,MIA,ft_make,10,False,False,,Adebayo Free Throw 1 of 1 (15 PTS),78-89,78,89
 0021900821,2020-02-20,ATL,MIA,33.27,3,2,44,ATL,ATL,fg_miss,6,True,False,MISS Reddish 1' Driving Layup,,78-89,78,89
+0021900821,2020-02-20,ATL,MIA,33.27,3,2,44,ATL,MIA,block,6,True,False,block,block,78-89,78,89
 0021900821,2020-02-20,ATL,MIA,33.27,3,2,44,ATL,ATL,reb,0,False,False,Fernando REBOUND (Off:2 Def:1),,78-89,78,89
 0021900821,2020-02-20,ATL,MIA,33.27,3,2,44,ATL,MIA,foul,2,False,False,,Iguodala S.FOUL (P2.PN) (C.Kirkland),78-89,78,89
 0021900821,2020-02-20,ATL,MIA,33.27,3,2,44,ATL,ATL,ft_miss,11,False,False,MISS Fernando Free Throw 1 of 2,,78-89,78,89
 0021900821,2020-02-20,ATL,MIA,33.27,3,2,44,ATL,ATL,reb,1,False,False,HAWKS Rebound,,78-89,78,89
 0021900821,2020-02-20,ATL,MIA,33.27,3,2,44,ATL,ATL,ft_miss,12,False,False,MISS Fernando Free Throw 2 of 2,,78-89,78,89
-0021900821,2020-02-20,ATL,MIA,33.27,3,2,44,ATL,MIA,block,6,True,False,block,block,78-89,78,89
 0021900821,2020-02-20,ATL,MIA,33.33,3,2,40,MIA,MIA,reb,0,False,False,,Jones Jr. REBOUND (Off:2 Def:1),78-89,78,89
 0021900821,2020-02-20,ATL,MIA,33.47,3,2,32,MIA,MIA,fg3_miss,1,False,False,,MISS Robinson 27' 3PT Jump Shot,78-89,78,89
 0021900821,2020-02-20,ATL,MIA,33.55,3,2,27,MIA,MIA,reb,0,False,False,,Dragic REBOUND (Off:1 Def:2),78-89,78,89
@@ -352,8 +352,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900821,2020-02-20,ATL,MIA,33.87,3,2,8,ATL,ATL,fg_miss,57,False,False,MISS Hunter 5' Driving Hook Shot,,78-89,78,89
 0021900821,2020-02-20,ATL,MIA,33.93,3,2,4,MIA,MIA,reb,0,False,False,,Robinson REBOUND (Off:0 Def:2),78-89,78,89
 0021900821,2020-02-20,ATL,MIA,34.02,3,1,59,MIA,MIA,fg_miss,101,False,False,,MISS Dragic 9' Driving Floating Jump Shot,78-89,78,89
-0021900821,2020-02-20,ATL,MIA,34.1,3,1,54,MIA,MIA,fg_miss,97,False,False,,MISS Jones Jr. 1' Tip Layup Shot,78-89,78,89
 0021900821,2020-02-20,ATL,MIA,34.1,3,1,54,MIA,MIA,reb,0,False,False,,Jones Jr. REBOUND (Off:3 Def:1),78-89,78,89
+0021900821,2020-02-20,ATL,MIA,34.1,3,1,54,MIA,MIA,fg_miss,97,False,False,,MISS Jones Jr. 1' Tip Layup Shot,78-89,78,89
 0021900821,2020-02-20,ATL,MIA,34.15,3,1,51,ATL,ATL,reb,0,False,False,Reddish REBOUND (Off:0 Def:3),,78-89,78,89
 0021900821,2020-02-20,ATL,MIA,34.4,3,1,36,ATL,ATL,fg_make,6,False,False,Reddish 3' Driving Layup (9 PTS) (Teague 4 AST),,80-89,80,89
 0021900821,2020-02-20,ATL,MIA,34.4,3,1,36,ATL,MIA,foul,2,False,False,,Jones Jr. S.FOUL (P3.PN) (C.Kirkland),80-89,80,89
@@ -458,8 +458,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900821,2020-02-20,ATL,MIA,44.17,4,3,50,ATL,ATL,fg3_miss,79,False,False,MISS Young 33' 3PT Pullup Jump Shot,,116-117,116,117
 0021900821,2020-02-20,ATL,MIA,44.23,4,3,46,ATL,ATL,reb,0,False,False,Collins REBOUND (Off:1 Def:4),,116-117,116,117
 0021900821,2020-02-20,ATL,MIA,44.28,4,3,43,ATL,ATL,fg_miss,5,True,False,MISS Collins 3' Layup,,116-117,116,117
-0021900821,2020-02-20,ATL,MIA,44.28,4,3,43,MIA,MIA,reb,0,False,False,,Heat Rebound,116-117,116,117
 0021900821,2020-02-20,ATL,MIA,44.28,4,3,43,ATL,MIA,block,5,True,False,block,block,116-117,116,117
+0021900821,2020-02-20,ATL,MIA,44.28,4,3,43,MIA,MIA,reb,0,False,False,,Heat Rebound,116-117,116,117
 0021900821,2020-02-20,ATL,MIA,44.48,4,3,31,MIA,MIA,fg_make,5,False,False,,Adebayo 4' Layup (23 PTS) (Butler 9 AST),116-119,116,119
 0021900821,2020-02-20,ATL,MIA,44.77,4,3,14,ATL,ATL,fg3_miss,1,False,False,MISS Young 28' 3PT Jump Shot,,116-119,116,119
 0021900821,2020-02-20,ATL,MIA,44.82,4,3,11,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:4 Def:13),116-119,116,119

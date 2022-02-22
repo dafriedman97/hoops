@@ -36,9 +36,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900022,2019-10-25,OKC,WAS,4.67,1,7,20,OKC,WAS,foul,3,False,False,,Beal L.B.FOUL (P1.T2) (P.Fraher),16-9,16,9
 0021900022,2019-10-25,OKC,WAS,4.67,1,7,20,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 1 Short 0),,16-9,16,9
 0021900022,2019-10-25,OKC,WAS,4.93,1,7,4,OKC,OKC,fg_miss,9,True,False,MISS Gallinari 4' Driving Dunk,,16-9,16,9
+0021900022,2019-10-25,OKC,WAS,4.93,1,7,4,OKC,WAS,block,9,True,False,block,block,16-9,16,9
 0021900022,2019-10-25,OKC,WAS,4.93,1,7,4,WAS,WAS,reb,0,False,False,,Bonga REBOUND (Off:0 Def:1),16-9,16,9
 0021900022,2019-10-25,OKC,WAS,4.93,1,7,4,WAS,OKC,foul,1,False,False,Gallinari P.FOUL (P1.T3) (M.Lindsay),,16-9,16,9
-0021900022,2019-10-25,OKC,WAS,4.93,1,7,4,OKC,WAS,block,9,True,False,block,block,16-9,16,9
 0021900022,2019-10-25,OKC,WAS,5.15,1,6,51,WAS,WAS,fg3_miss,1,False,False,,MISS Bryant 3PT Jump Shot,16-9,16,9
 0021900022,2019-10-25,OKC,WAS,5.2,1,6,48,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:0 Def:2),,16-9,16,9
 0021900022,2019-10-25,OKC,WAS,5.42,1,6,35,OKC,WAS,foul,2,False,False,,Bonga S.FOUL (P1.T3) (P.Fraher),16-9,16,9
@@ -180,8 +180,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900022,2019-10-25,OKC,WAS,18.77,2,5,14,OKC,OKC,reb,0,False,False,Gallinari REBOUND (Off:0 Def:3),,31-40,31,40
 0021900022,2019-10-25,OKC,WAS,18.87,2,5,8,OKC,OKC,fg_make,78,False,False,Schroder 6' Floating Jump Shot (5 PTS),,33-40,33,40
 0021900022,2019-10-25,OKC,WAS,19.05,2,4,57,WAS,WAS,fg_miss,5,True,False,,MISS Hachimura 8' Layup,33-40,33,40
-0021900022,2019-10-25,OKC,WAS,19.05,2,4,57,WAS,WAS,reb,0,False,False,,Wizards Rebound,33-40,33,40
 0021900022,2019-10-25,OKC,WAS,19.05,2,4,57,WAS,OKC,block,5,True,False,block,block,33-40,33,40
+0021900022,2019-10-25,OKC,WAS,19.05,2,4,57,WAS,WAS,reb,0,False,False,,Wizards Rebound,33-40,33,40
 0021900022,2019-10-25,OKC,WAS,19.1,2,4,54,WAS,WAS,fg_miss,1,False,False,,MISS Bryant 17' Jump Shot,33-40,33,40
 0021900022,2019-10-25,OKC,WAS,19.17,2,4,50,OKC,OKC,reb,0,False,False,Schroder REBOUND (Off:0 Def:3),,33-40,33,40
 0021900022,2019-10-25,OKC,WAS,19.23,2,4,46,OKC,OKC,fg_make,52,False,False,Diallo 1' Alley Oop Dunk (2 PTS) (Schroder 1 AST),,35-40,35,40
@@ -367,8 +367,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900022,2019-10-25,OKC,WAS,37.65,4,10,21,OKC,WAS,block,7,True,False,block,block,72-78,72,78
 0021900022,2019-10-25,OKC,WAS,37.7,4,10,18,OKC,OKC,reb,0,False,False,THUNDER Rebound,,72-78,72,78
 0021900022,2019-10-25,OKC,WAS,37.73,4,10,16,OKC,OKC,fg_miss,6,True,False,MISS Schroder 7' Driving Layup,,72-78,72,78
-0021900022,2019-10-25,OKC,WAS,37.73,4,10,16,OKC,OKC,reb,0,False,False,THUNDER Rebound,,72-78,72,78
 0021900022,2019-10-25,OKC,WAS,37.73,4,10,16,OKC,WAS,block,6,True,False,block,block,72-78,72,78
+0021900022,2019-10-25,OKC,WAS,37.73,4,10,16,OKC,OKC,reb,0,False,False,THUNDER Rebound,,72-78,72,78
 0021900022,2019-10-25,OKC,WAS,37.77,4,10,14,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 4 Short 0),,72-78,72,78
 0021900022,2019-10-25,OKC,WAS,37.8,4,10,12,WAS,OKC,foul,4,False,False,Schroder OFF.Foul (P2) (M.Lindsay),,72-78,72,78
 0021900022,2019-10-25,OKC,WAS,37.8,4,10,12,OKC,OKC,tov,37,False,False,Schroder Offensive Foul Turnover (P2.T13),,72-78,72,78

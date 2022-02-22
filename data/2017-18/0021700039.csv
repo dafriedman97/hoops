@@ -85,9 +85,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700039,2017-10-22,OKC,MIN,10.82,1,1,11,OKC,OKC,fg_make,79,False,False,Anthony 14' Pullup Jump Shot (4 PTS),,21-27,21,27
 0021700039,2017-10-22,OKC,MIN,11.1,1,0,54,MIN,OKC,foul,1,False,False,Anthony P.FOUL (P1.T3) (J.Sterling),,21-27,21,27
 0021700039,2017-10-22,OKC,MIN,11.23,1,0,46,MIN,OKC,foul,1,False,False,Abrines P.FOUL (P1.PN) (T.Washington),,21-27,21,27
-0021700039,2017-10-22,OKC,MIN,11.23,1,0,46,MIN,MIN,ft_make,12,False,False,,Wiggins Free Throw 2 of 2 (10 PTS),21-28,21,28
 0021700039,2017-10-22,OKC,MIN,11.23,1,0,46,MIN,MIN,ft_miss,11,False,False,,MISS Wiggins Free Throw 1 of 2,21-28,21,28
 0021700039,2017-10-22,OKC,MIN,11.23,1,0,46,MIN,MIN,reb,1,False,False,,Timberwolves Rebound,21-28,21,28
+0021700039,2017-10-22,OKC,MIN,11.23,1,0,46,MIN,MIN,ft_make,12,False,False,,Wiggins Free Throw 2 of 2 (10 PTS),21-28,21,28
 0021700039,2017-10-22,OKC,MIN,11.47,1,0,32,OKC,OKC,fg_make,6,False,False,Anthony Driving Layup (6 PTS),,23-28,23,28
 0021700039,2017-10-22,OKC,MIN,11.58,1,0,25,MIN,MIN,fg_miss,1,True,False,,MISS Crawford 13' Jump Shot,23-28,23,28
 0021700039,2017-10-22,OKC,MIN,11.58,1,0,25,MIN,OKC,block,1,True,False,block,block,23-28,23,28
@@ -230,8 +230,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700039,2017-10-22,OKC,MIN,27.55,3,8,27,OKC,OKC,fg_miss,97,False,False,MISS Adams 1' Tip Layup Shot,,61-70,61,70
 0021700039,2017-10-22,OKC,MIN,27.55,3,8,27,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:6 Def:4),,61-70,61,70
 0021700039,2017-10-22,OKC,MIN,27.58,3,8,25,OKC,OKC,fg_miss,97,True,False,MISS Adams 1' Tip Layup Shot,,61-70,61,70
-0021700039,2017-10-22,OKC,MIN,27.58,3,8,25,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:3 Def:6),61-70,61,70
 0021700039,2017-10-22,OKC,MIN,27.58,3,8,25,OKC,MIN,block,97,True,False,block,block,61-70,61,70
+0021700039,2017-10-22,OKC,MIN,27.58,3,8,25,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:3 Def:6),61-70,61,70
 0021700039,2017-10-22,OKC,MIN,27.77,3,8,14,MIN,MIN,fg3_miss,1,False,False,,MISS Wiggins 25' 3PT Jump Shot,61-70,61,70
 0021700039,2017-10-22,OKC,MIN,27.8,3,8,12,OKC,OKC,reb,0,False,False,Roberson REBOUND (Off:0 Def:1),,61-70,61,70
 0021700039,2017-10-22,OKC,MIN,27.92,3,8,5,OKC,OKC,fg3_miss,79,False,False,MISS Anthony 25' 3PT Pullup Jump Shot,,61-70,61,70
@@ -270,8 +270,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700039,2017-10-22,OKC,MIN,31.37,3,4,38,OKC,OKC,fg_miss,97,False,False,MISS Adams 1' Tip Layup Shot,,71-79,71,79
 0021700039,2017-10-22,OKC,MIN,31.37,3,4,38,MIN,MIN,reb,0,False,False,,Gibson REBOUND (Off:2 Def:3),71-79,71,79
 0021700039,2017-10-22,OKC,MIN,31.52,3,4,29,MIN,MIN,fg_miss,73,True,False,,MISS Butler 1' Driving Reverse Layup,71-79,71,79
-0021700039,2017-10-22,OKC,MIN,31.52,3,4,29,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,71-79,71,79
 0021700039,2017-10-22,OKC,MIN,31.52,3,4,29,MIN,OKC,block,73,True,False,block,block,71-79,71,79
+0021700039,2017-10-22,OKC,MIN,31.52,3,4,29,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,71-79,71,79
 0021700039,2017-10-22,OKC,MIN,31.68,3,4,19,MIN,MIN,fg_make,79,False,False,,Butler 15' Pullup Jump Shot (13 PTS),71-81,71,81
 0021700039,2017-10-22,OKC,MIN,31.87,3,4,8,OKC,OKC,fg3_miss,1,False,False,MISS George 25' 3PT Jump Shot,,71-81,71,81
 0021700039,2017-10-22,OKC,MIN,31.9,3,4,6,MIN,MIN,reb,0,False,False,,Gibson REBOUND (Off:2 Def:4),71-81,71,81
@@ -291,8 +291,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700039,2017-10-22,OKC,MIN,33.25,3,2,45,MIN,MIN,reb,0,False,False,,Gibson REBOUND (Off:2 Def:6),71-83,71,83
 0021700039,2017-10-22,OKC,MIN,33.4,3,2,36,MIN,MIN,timeout,1,False,False,,Timberwolves Timeout: Regular (Reg.3 Short 0),71-83,71,83
 0021700039,2017-10-22,OKC,MIN,33.42,3,2,35,MIN,MIN,fg_miss,6,True,False,,MISS Dieng 2' Driving Layup,71-83,71,83
-0021700039,2017-10-22,OKC,MIN,33.42,3,2,35,MIN,MIN,reb,0,False,False,,Dieng REBOUND (Off:1 Def:0),71-83,71,83
 0021700039,2017-10-22,OKC,MIN,33.42,3,2,35,MIN,OKC,block,6,True,False,block,block,71-83,71,83
+0021700039,2017-10-22,OKC,MIN,33.42,3,2,35,MIN,MIN,reb,0,False,False,,Dieng REBOUND (Off:1 Def:0),71-83,71,83
 0021700039,2017-10-22,OKC,MIN,33.45,3,2,33,,OKC,jump_ball,0,False,False,Jump Ball Westbrook vs. Dieng: Tip to Teague,,71-83,71,83
 0021700039,2017-10-22,OKC,MIN,33.57,3,2,26,MIN,MIN,fg_miss,47,True,False,,MISS Teague 10' Turnaround Jump Shot,71-83,71,83
 0021700039,2017-10-22,OKC,MIN,33.57,3,2,26,MIN,OKC,block,47,True,False,block,block,71-83,71,83

@@ -113,10 +113,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800272,2018-11-23,IND,SAS,12.95,2,11,3,IND,IND,reb,0,False,False,Leaf REBOUND (Off:1 Def:2),,23-31,23,31
 0021800272,2018-11-23,IND,SAS,12.95,2,11,3,IND,IND,fg_make,107,False,False,Leaf 1' Tip Dunk Shot (4 PTS),,25-31,25,31
 0021800272,2018-11-23,IND,SAS,13.1,2,10,54,SAS,SAS,fg_miss,1,True,False,,MISS Aldridge 2' Jump Shot,25-31,25,31
+0021800272,2018-11-23,IND,SAS,13.1,2,10,54,SAS,IND,block,1,True,False,block,block,25-31,25,31
 0021800272,2018-11-23,IND,SAS,13.1,2,10,54,SAS,SAS,reb,0,False,False,,Spurs Rebound,25-31,25,31
 0021800272,2018-11-23,IND,SAS,13.1,2,10,54,IND,SAS,foul,4,False,False,,Forbes OFF.Foul (P1) (S.Corbin),25-31,25,31
 0021800272,2018-11-23,IND,SAS,13.1,2,10,54,SAS,SAS,tov,37,False,False,,Forbes Offensive Foul Turnover (P2.T6),25-31,25,31
-0021800272,2018-11-23,IND,SAS,13.1,2,10,54,SAS,IND,block,1,True,False,block,block,25-31,25,31
 0021800272,2018-11-23,IND,SAS,13.35,2,10,39,IND,IND,fg_miss,80,False,False,MISS Joseph 11' Step Back Jump Shot,,25-31,25,31
 0021800272,2018-11-23,IND,SAS,13.42,2,10,35,SAS,SAS,reb,0,False,False,,Aldridge REBOUND (Off:2 Def:4),25-31,25,31
 0021800272,2018-11-23,IND,SAS,13.52,2,10,29,SAS,IND,foul,2,False,False,O'Quinn S.FOUL (P2.T2) (B.Nansel),,25-31,25,31
@@ -145,8 +145,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800272,2018-11-23,IND,SAS,15.8,2,8,12,IND,IND,fg_miss,80,False,False,MISS Joseph 10' Step Back Jump Shot,,27-36,27,36
 0021800272,2018-11-23,IND,SAS,15.85,2,8,9,SAS,SAS,reb,0,False,False,,Forbes REBOUND (Off:0 Def:2),27-36,27,36
 0021800272,2018-11-23,IND,SAS,15.98,2,8,1,SAS,SAS,fg_miss,98,True,False,,MISS Forbes 2' Cutting Layup Shot,27-36,27,36
-0021800272,2018-11-23,IND,SAS,15.98,2,8,1,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:0 Def:3),,27-36,27,36
 0021800272,2018-11-23,IND,SAS,15.98,2,8,1,SAS,IND,block,98,True,False,block,block,27-36,27,36
+0021800272,2018-11-23,IND,SAS,15.98,2,8,1,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:0 Def:3),,27-36,27,36
 0021800272,2018-11-23,IND,SAS,16.03,2,7,58,SAS,IND,foul,26,False,False,Holiday Offensive Charge Foul (P1.T3) (B.Nansel),,27-36,27,36
 0021800272,2018-11-23,IND,SAS,16.03,2,7,58,IND,IND,tov,37,False,False,Holiday Offensive Foul Turnover (P1.T8),,27-36,27,36
 0021800272,2018-11-23,IND,SAS,16.27,2,7,44,SAS,SAS,fg_miss,79,False,False,,MISS DeRozan 16' Pullup Jump Shot,27-36,27,36
@@ -212,8 +212,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800272,2018-11-23,IND,SAS,24.0,2,0,0,IND,,period_end,0,False,False,,,45-54,45,54
 0021800272,2018-11-23,IND,SAS,24.0,3,12,0,IND,,period_start,0,False,False,,,45-54,45,54
 0021800272,2018-11-23,IND,SAS,24.23,3,11,46,IND,IND,fg_miss,6,True,False,MISS Evans 3' Driving Layup,,45-54,45,54
-0021800272,2018-11-23,IND,SAS,24.23,3,11,46,IND,IND,reb,0,False,False,PACERS Rebound,,45-54,45,54
 0021800272,2018-11-23,IND,SAS,24.23,3,11,46,IND,SAS,block,6,True,False,block,block,45-54,45,54
+0021800272,2018-11-23,IND,SAS,24.23,3,11,46,IND,IND,reb,0,False,False,PACERS Rebound,,45-54,45,54
 0021800272,2018-11-23,IND,SAS,24.35,3,11,39,IND,IND,fg_miss,75,False,False,MISS Evans 3' Driving Finger Roll Layup,,45-54,45,54
 0021800272,2018-11-23,IND,SAS,24.43,3,11,34,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:1 Def:5),,45-54,45,54
 0021800272,2018-11-23,IND,SAS,24.43,3,11,34,IND,IND,fg_make,97,False,False,Sabonis 1' Tip Layup Shot (10 PTS),,47-54,47,54
@@ -274,8 +274,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800272,2018-11-23,IND,SAS,29.55,3,6,27,SAS,SAS,tov,1,False,True,,Mills Bad Pass Turnover (P1.T10),50-68,50,68
 0021800272,2018-11-23,IND,SAS,29.55,3,6,27,SAS,IND,steal,1,False,True,steal,steal,50-68,50,68
 0021800272,2018-11-23,IND,SAS,29.6,3,6,24,IND,IND,fg_miss,76,True,False,MISS Holiday 1' Running Finger Roll Layup,,50-68,50,68
-0021800272,2018-11-23,IND,SAS,29.6,3,6,24,IND,IND,reb,0,False,False,PACERS Rebound,,50-68,50,68
 0021800272,2018-11-23,IND,SAS,29.6,3,6,24,IND,SAS,block,76,True,False,block,block,50-68,50,68
+0021800272,2018-11-23,IND,SAS,29.6,3,6,24,IND,IND,reb,0,False,False,PACERS Rebound,,50-68,50,68
 0021800272,2018-11-23,IND,SAS,29.68,3,6,19,IND,IND,fg_make,47,False,False,Bogdanovic 20' Turnaround Jump Shot (17 PTS) (Joseph 3 AST),,52-68,52,68
 0021800272,2018-11-23,IND,SAS,30.0,3,6,0,SAS,SAS,fg_make,86,False,False,,Cunningham 11' Turnaround Fadeaway (2 PTS) (DeRozan 5 AST),52-70,52,70
 0021800272,2018-11-23,IND,SAS,30.17,3,5,50,IND,IND,fg3_miss,1,False,False,MISS Holiday 28' 3PT Jump Shot,,52-70,52,70

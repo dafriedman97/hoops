@@ -120,10 +120,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900066,2019-10-31,ATL,MIA,13.33,2,10,40,ATL,ATL,fg_miss,75,False,False,MISS Bembry 2' Driving Finger Roll Layup,,26-33,26,33
 0021900066,2019-10-31,ATL,MIA,13.37,2,10,38,ATL,ATL,reb,0,False,False,HAWKS Rebound,,26-33,26,33
 0021900066,2019-10-31,ATL,MIA,13.53,2,10,28,ATL,ATL,tov,1,False,True,Bembry Bad Pass Turnover (P1.T3),,26-33,26,33
+0021900066,2019-10-31,ATL,MIA,13.53,2,10,28,ATL,MIA,steal,1,False,True,steal,steal,26-33,26,33
 0021900066,2019-10-31,ATL,MIA,13.53,2,10,28,MIA,MIA,tov,39,False,False,,Silva Step Out of Bounds Turnover (P1.T1),26-33,26,33
 0021900066,2019-10-31,ATL,MIA,13.53,2,10,28,MIA,ATL,foul,4,False,False,Len OFF.Foul (P2) (T.Brothers),,26-33,26,33
 0021900066,2019-10-31,ATL,MIA,13.53,2,10,28,ATL,ATL,tov,37,False,False,Len Offensive Foul Turnover (P2.T4),,26-33,26,33
-0021900066,2019-10-31,ATL,MIA,13.53,2,10,28,ATL,MIA,steal,1,False,True,steal,steal,26-33,26,33
 0021900066,2019-10-31,ATL,MIA,13.83,2,10,10,MIA,MIA,fg3_miss,1,False,False,,MISS Robinson 25' 3PT Jump Shot,26-33,26,33
 0021900066,2019-10-31,ATL,MIA,13.88,2,10,7,ATL,ATL,reb,0,False,False,Bembry REBOUND (Off:0 Def:2),,26-33,26,33
 0021900066,2019-10-31,ATL,MIA,13.98,2,10,1,ATL,ATL,tov,2,False,True,Parker Lost Ball Turnover (P1.T5),,26-33,26,33
@@ -298,8 +298,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900066,2019-10-31,ATL,MIA,30.98,3,5,1,ATL,MIA,steal,2,False,True,steal,steal,57-73,57,73
 0021900066,2019-10-31,ATL,MIA,31.12,3,4,53,MIA,MIA,fg_make,41,False,False,,Nunn 8' Running Layup (24 PTS),57-75,57,75
 0021900066,2019-10-31,ATL,MIA,31.38,3,4,37,ATL,ATL,tov,2,False,True,Collins Lost Ball Turnover (P1.T11),,57-75,57,75
-0021900066,2019-10-31,ATL,MIA,31.38,3,4,37,MIA,MIA,tov,39,False,False,,Nunn Step Out of Bounds Turnover (P1.T6),57-75,57,75
 0021900066,2019-10-31,ATL,MIA,31.38,3,4,37,ATL,MIA,steal,2,False,True,steal,steal,57-75,57,75
+0021900066,2019-10-31,ATL,MIA,31.38,3,4,37,MIA,MIA,tov,39,False,False,,Nunn Step Out of Bounds Turnover (P1.T6),57-75,57,75
 0021900066,2019-10-31,ATL,MIA,31.52,3,4,29,ATL,ATL,fg3_miss,1,False,False,MISS Carter 25' 3PT Jump Shot,,57-75,57,75
 0021900066,2019-10-31,ATL,MIA,31.57,3,4,26,ATL,ATL,reb,0,False,False,Jones REBOUND (Off:1 Def:3),,57-75,57,75
 0021900066,2019-10-31,ATL,MIA,31.57,3,4,26,ATL,MIA,foul,2,False,False,,Leonard S.FOUL (P3.T3) (T.Brothers),57-75,57,75
@@ -397,8 +397,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900066,2019-10-31,ATL,MIA,41.72,4,6,17,MIA,MIA,fg_miss,5,False,False,,MISS Silva 3' Layup,86-94,86,94
 0021900066,2019-10-31,ATL,MIA,41.77,4,6,14,ATL,ATL,reb,0,False,False,Parker REBOUND (Off:3 Def:4),,86-94,86,94
 0021900066,2019-10-31,ATL,MIA,41.87,4,6,8,ATL,ATL,fg_miss,6,True,False,MISS Reddish 2' Driving Layup,,86-94,86,94
-0021900066,2019-10-31,ATL,MIA,41.87,4,6,8,ATL,ATL,reb,0,False,False,HAWKS Rebound,,86-94,86,94
 0021900066,2019-10-31,ATL,MIA,41.87,4,6,8,ATL,MIA,block,6,True,False,block,block,86-94,86,94
+0021900066,2019-10-31,ATL,MIA,41.87,4,6,8,ATL,ATL,reb,0,False,False,HAWKS Rebound,,86-94,86,94
 0021900066,2019-10-31,ATL,MIA,42.0,4,6,0,ATL,ATL,tov,2,False,True,Hunter Lost Ball Turnover (P2.T13),,86-94,86,94
 0021900066,2019-10-31,ATL,MIA,42.0,4,6,0,ATL,MIA,steal,2,False,True,steal,steal,86-94,86,94
 0021900066,2019-10-31,ATL,MIA,42.1,4,5,54,MIA,MIA,tov,2,False,True,,Nunn Lost Ball Turnover (P2.T12),86-94,86,94
@@ -411,8 +411,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900066,2019-10-31,ATL,MIA,43.25,4,4,45,MIA,MIA,fg_miss,101,False,False,,MISS Butler 7' Driving Floating Jump Shot,88-97,88,97
 0021900066,2019-10-31,ATL,MIA,43.32,4,4,41,ATL,ATL,reb,0,False,False,Reddish REBOUND (Off:0 Def:6),,88-97,88,97
 0021900066,2019-10-31,ATL,MIA,43.63,4,4,22,ATL,ATL,fg_miss,6,True,False,MISS Hunter 5' Driving Layup,,88-97,88,97
-0021900066,2019-10-31,ATL,MIA,43.63,4,4,22,ATL,ATL,reb,0,False,False,HAWKS Rebound,,88-97,88,97
 0021900066,2019-10-31,ATL,MIA,43.63,4,4,22,ATL,MIA,block,6,True,False,block,block,88-97,88,97
+0021900066,2019-10-31,ATL,MIA,43.63,4,4,22,ATL,ATL,reb,0,False,False,HAWKS Rebound,,88-97,88,97
 0021900066,2019-10-31,ATL,MIA,43.67,4,4,20,ATL,ATL,fg3_miss,1,False,False,MISS Reddish 26' 3PT Jump Shot,,88-97,88,97
 0021900066,2019-10-31,ATL,MIA,43.73,4,4,16,ATL,ATL,reb,0,False,False,Bembry REBOUND (Off:6 Def:4),,88-97,88,97
 0021900066,2019-10-31,ATL,MIA,43.77,4,4,14,ATL,ATL,fg3_miss,1,False,False,MISS Bembry 3PT Jump Shot,,88-97,88,97
@@ -422,8 +422,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900066,2019-10-31,ATL,MIA,44.42,4,3,35,ATL,MIA,steal,2,False,True,steal,steal,88-100,88,100
 0021900066,2019-10-31,ATL,MIA,44.65,4,3,21,MIA,MIA,fg_make,98,False,False,,Nunn 2' Cutting Layup Shot (26 PTS) (Butler 10 AST),88-102,88,102
 0021900066,2019-10-31,ATL,MIA,44.9,4,3,6,ATL,ATL,tov,2,False,True,Hunter Lost Ball Turnover (P3.T15),,88-102,88,102
-0021900066,2019-10-31,ATL,MIA,44.9,4,3,6,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.5 Short 0),88-102,88,102
 0021900066,2019-10-31,ATL,MIA,44.9,4,3,6,ATL,MIA,steal,2,False,True,steal,steal,88-102,88,102
+0021900066,2019-10-31,ATL,MIA,44.9,4,3,6,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.5 Short 0),88-102,88,102
 0021900066,2019-10-31,ATL,MIA,45.18,4,2,49,MIA,MIA,fg_make,1,False,False,,Herro 19' Jump Shot (17 PTS) (Adebayo 7 AST),88-104,88,104
 0021900066,2019-10-31,ATL,MIA,45.52,4,2,29,ATL,ATL,fg3_miss,1,False,False,MISS Huerter 25' 3PT Jump Shot,,88-104,88,104
 0021900066,2019-10-31,ATL,MIA,45.55,4,2,27,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:2 Def:4),88-104,88,104

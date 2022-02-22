@@ -13,9 +13,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700912,2018-02-27,DEN,LAC,1.65,1,10,21,LAC,LAC,fg3_miss,1,False,False,,MISS W. Johnson 3PT Jump Shot,2-5,2,5
 0021700912,2018-02-27,DEN,LAC,1.7,1,10,18,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:0 Def:1),,2-5,2,5
 0021700912,2018-02-27,DEN,LAC,1.8,1,10,12,DEN,DEN,fg_miss,41,True,False,MISS Harris 5' Running Layup,,2-5,2,5
+0021700912,2018-02-27,DEN,LAC,1.8,1,10,12,DEN,LAC,block,41,True,False,block,block,2-5,2,5
 0021700912,2018-02-27,DEN,LAC,1.8,1,10,12,LAC,LAC,reb,0,False,False,,Rivers REBOUND (Off:0 Def:2),2-5,2,5
 0021700912,2018-02-27,DEN,LAC,1.8,1,10,12,LAC,DEN,foul,1,False,False,Murray P.FOUL (P1.T2) (M.Ayotte),,2-5,2,5
-0021700912,2018-02-27,DEN,LAC,1.8,1,10,12,DEN,LAC,block,41,True,False,block,block,2-5,2,5
 0021700912,2018-02-27,DEN,LAC,2.05,1,9,57,LAC,LAC,fg3_miss,1,False,False,,MISS Rivers 3PT Jump Shot,2-5,2,5
 0021700912,2018-02-27,DEN,LAC,2.13,1,9,52,DEN,DEN,reb,0,False,False,Chandler REBOUND (Off:0 Def:1),,2-5,2,5
 0021700912,2018-02-27,DEN,LAC,2.18,1,9,49,DEN,DEN,fg_miss,41,True,False,MISS Chandler 3' Running Layup,,2-5,2,5
@@ -32,8 +32,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700912,2018-02-27,DEN,LAC,3.45,1,8,33,LAC,LAC,fg_make,52,False,False,,Wallace Alley Oop Dunk (4 PTS) (Rivers 1 AST),4-9,4,9
 0021700912,2018-02-27,DEN,LAC,3.45,1,8,33,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 1 Short 0),,4-9,4,9
 0021700912,2018-02-27,DEN,LAC,3.6,1,8,24,DEN,DEN,tov,1,False,True,Harris Bad Pass Turnover (P1.T3),,4-9,4,9
-0021700912,2018-02-27,DEN,LAC,3.6,1,8,24,LAC,DEN,foul,1,False,False,Harris P.FOUL (P1.T3) (T.Maddox),,4-9,4,9
 0021700912,2018-02-27,DEN,LAC,3.6,1,8,24,DEN,LAC,steal,1,False,True,steal,steal,4-9,4,9
+0021700912,2018-02-27,DEN,LAC,3.6,1,8,24,LAC,DEN,foul,1,False,False,Harris P.FOUL (P1.T3) (T.Maddox),,4-9,4,9
 0021700912,2018-02-27,DEN,LAC,3.8,1,8,12,LAC,LAC,fg3_miss,1,False,False,,MISS Harris 3PT Jump Shot,4-9,4,9
 0021700912,2018-02-27,DEN,LAC,3.83,1,8,10,LAC,LAC,reb,0,False,False,,Jordan REBOUND (Off:1 Def:0),4-9,4,9
 0021700912,2018-02-27,DEN,LAC,3.87,1,8,8,LAC,LAC,tov,1,False,True,,Jordan Bad Pass Turnover (P1.T1),4-9,4,9
@@ -77,8 +77,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700912,2018-02-27,DEN,LAC,9.2,1,2,48,LAC,LAC,fg_miss,6,False,False,,MISS Teodosic 4' Driving Layup,22-20,22,20
 0021700912,2018-02-27,DEN,LAC,9.25,1,2,45,DEN,DEN,reb,0,False,False,Harris REBOUND (Off:1 Def:1),,22-20,22,20
 0021700912,2018-02-27,DEN,LAC,9.32,1,2,41,DEN,DEN,fg_miss,74,True,False,MISS Harris 3' Running Reverse Layup,,22-20,22,20
-0021700912,2018-02-27,DEN,LAC,9.32,1,2,41,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,22-20,22,20
 0021700912,2018-02-27,DEN,LAC,9.32,1,2,41,DEN,LAC,block,74,True,False,block,block,22-20,22,20
+0021700912,2018-02-27,DEN,LAC,9.32,1,2,41,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,22-20,22,20
 0021700912,2018-02-27,DEN,LAC,9.48,1,2,31,DEN,DEN,fg_miss,98,False,False,MISS Plumlee 2' Cutting Layup Shot,,22-20,22,20
 0021700912,2018-02-27,DEN,LAC,9.53,1,2,28,DEN,DEN,reb,0,False,False,Plumlee REBOUND (Off:3 Def:2),,22-20,22,20
 0021700912,2018-02-27,DEN,LAC,9.53,1,2,28,DEN,DEN,fg_miss,97,False,False,MISS Plumlee 1' Tip Layup Shot,,22-20,22,20
@@ -156,9 +156,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700912,2018-02-27,DEN,LAC,16.75,2,7,15,LAC,LAC,fg3_miss,1,False,False,,MISS Dekker 3PT Jump Shot,45-39,45,39
 0021700912,2018-02-27,DEN,LAC,16.8,2,7,12,DEN,DEN,reb,0,False,False,Chandler REBOUND (Off:1 Def:2),,45-39,45,39
 0021700912,2018-02-27,DEN,LAC,17.0,2,7,0,DEN,DEN,fg_miss,6,True,False,MISS Harris 2' Driving Layup,,45-39,45,39
+0021700912,2018-02-27,DEN,LAC,17.0,2,7,0,DEN,LAC,block,6,True,False,block,block,45-39,45,39
 0021700912,2018-02-27,DEN,LAC,17.0,2,7,0,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,45-39,45,39
 0021700912,2018-02-27,DEN,LAC,17.0,2,7,0,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 2 Short 0),,45-39,45,39
-0021700912,2018-02-27,DEN,LAC,17.0,2,7,0,DEN,LAC,block,6,True,False,block,block,45-39,45,39
 0021700912,2018-02-27,DEN,LAC,17.07,2,6,56,DEN,DEN,fg_miss,80,False,False,MISS Chandler 13' Step Back Jump Shot,,45-39,45,39
 0021700912,2018-02-27,DEN,LAC,17.13,2,6,52,LAC,LAC,reb,0,False,False,,Williams REBOUND (Off:2 Def:1),45-39,45,39
 0021700912,2018-02-27,DEN,LAC,17.4,2,6,36,LAC,LAC,fg_miss,47,False,False,,MISS Harris 5' Turnaround Jump Shot,45-39,45,39
@@ -290,9 +290,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700912,2018-02-27,DEN,LAC,29.52,3,6,29,DEN,DEN,fg_miss,1,False,False,MISS Murray 23' Jump Shot,,74-63,74,63
 0021700912,2018-02-27,DEN,LAC,29.6,3,6,24,LAC,LAC,reb,0,False,False,,Rivers REBOUND (Off:0 Def:4),74-63,74,63
 0021700912,2018-02-27,DEN,LAC,29.72,3,6,17,LAC,LAC,fg_miss,79,True,False,,MISS Rivers 5' Pullup Jump Shot,74-63,74,63
+0021700912,2018-02-27,DEN,LAC,29.72,3,6,17,LAC,DEN,block,79,True,False,block,block,74-63,74,63
 0021700912,2018-02-27,DEN,LAC,29.72,3,6,17,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:0 Def:3),,74-63,74,63
 0021700912,2018-02-27,DEN,LAC,29.72,3,6,17,DEN,LAC,foul,1,False,False,,Rivers P.FOUL (P2.PN) (D.Stafford),74-63,74,63
-0021700912,2018-02-27,DEN,LAC,29.72,3,6,17,LAC,DEN,block,79,True,False,block,block,74-63,74,63
 0021700912,2018-02-27,DEN,LAC,29.72,3,6,17,DEN,DEN,ft_make,11,False,False,Jokic Free Throw 1 of 2 (8 PTS),,75-63,75,63
 0021700912,2018-02-27,DEN,LAC,29.72,3,6,17,DEN,DEN,ft_make,12,False,False,Jokic Free Throw 2 of 2 (9 PTS),,76-63,76,63
 0021700912,2018-02-27,DEN,LAC,30.0,3,6,0,LAC,LAC,fg_miss,105,False,False,,MISS Harris 8' Turnaround Fadeaway Bank Jump Shot,76-63,76,63
@@ -337,8 +337,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700912,2018-02-27,DEN,LAC,34.08,3,1,55,LAC,LAC,fg_miss,78,False,False,,MISS Wallace 7' Floating Jump Shot,86-73,86,73
 0021700912,2018-02-27,DEN,LAC,34.12,3,1,53,LAC,LAC,reb,0,False,False,,Marjanovic REBOUND (Off:1 Def:0),86-73,86,73
 0021700912,2018-02-27,DEN,LAC,34.13,3,1,52,LAC,LAC,fg_miss,5,True,False,,MISS Marjanovic 5' Layup,86-73,86,73
-0021700912,2018-02-27,DEN,LAC,34.13,3,1,52,LAC,LAC,reb,0,False,False,,Marjanovic REBOUND (Off:2 Def:0),86-73,86,73
 0021700912,2018-02-27,DEN,LAC,34.13,3,1,52,LAC,DEN,block,5,True,False,block,block,86-73,86,73
+0021700912,2018-02-27,DEN,LAC,34.13,3,1,52,LAC,LAC,reb,0,False,False,,Marjanovic REBOUND (Off:2 Def:0),86-73,86,73
 0021700912,2018-02-27,DEN,LAC,34.22,3,1,47,LAC,LAC,fg_miss,97,False,False,,MISS Marjanovic 3' Tip Layup Shot,86-73,86,73
 0021700912,2018-02-27,DEN,LAC,34.22,3,1,47,LAC,LAC,reb,0,False,False,,Harrell REBOUND (Off:1 Def:3),86-73,86,73
 0021700912,2018-02-27,DEN,LAC,34.27,3,1,44,LAC,LAC,fg_make,97,False,False,,Harrell 1' Tip Layup Shot (4 PTS),86-75,86,75
@@ -491,5 +491,5 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700912,2018-02-27,DEN,LAC,47.88,4,0,7,LAC,LAC,reb,1,False,False,,Clippers Rebound,120-121,120,121
 0021700912,2018-02-27,DEN,LAC,47.88,4,0,7,LAC,LAC,ft_make,12,False,False,,Rivers Free Throw 2 of 2 (17 PTS),120-122,120,122
 0021700912,2018-02-27,DEN,LAC,48.0,4,0,0,DEN,DEN,tov,2,False,True,Murray Lost Ball Turnover (P5.T20),,120-122,120,122
-0021700912,2018-02-27,DEN,LAC,48.0,4,0,0,DEN,,period_end,0,False,False,,,120-122,120,122
 0021700912,2018-02-27,DEN,LAC,48.0,4,0,0,DEN,LAC,steal,2,False,True,steal,steal,120-122,120,122
+0021700912,2018-02-27,DEN,LAC,48.0,4,0,0,DEN,,period_end,0,False,False,,,120-122,120,122

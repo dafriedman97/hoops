@@ -143,9 +143,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800069,2018-10-26,TOR,DAL,14.28,2,9,43,DAL,DAL,fg_miss,101,False,False,,MISS Brunson 9' Driving Floating Jump Shot,44-30,44,30
 0021800069,2018-10-26,TOR,DAL,14.32,2,9,41,TOR,TOR,reb,0,False,False,Leonard REBOUND (Off:1 Def:1),,44-30,44,30
 0021800069,2018-10-26,TOR,DAL,14.38,2,9,37,TOR,TOR,fg_miss,41,True,False,MISS Miles 3' Running Layup,,44-30,44,30
+0021800069,2018-10-26,TOR,DAL,14.38,2,9,37,TOR,DAL,block,41,True,False,block,block,44-30,44,30
 0021800069,2018-10-26,TOR,DAL,14.38,2,9,37,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,44-30,44,30
 0021800069,2018-10-26,TOR,DAL,14.38,2,9,37,TOR,,violation,1,False,False,,,44-30,44,30
-0021800069,2018-10-26,TOR,DAL,14.38,2,9,37,TOR,DAL,block,41,True,False,block,block,44-30,44,30
 0021800069,2018-10-26,TOR,DAL,14.48,2,9,31,TOR,TOR,fg3_miss,1,False,False,MISS Ibaka 25' 3PT Jump Shot,,44-30,44,30
 0021800069,2018-10-26,TOR,DAL,14.55,2,9,27,DAL,DAL,reb,0,False,False,,Kleber REBOUND (Off:0 Def:4),44-30,44,30
 0021800069,2018-10-26,TOR,DAL,14.88,2,9,7,DAL,DAL,fg3_miss,80,False,False,,MISS Matthews 27' 3PT Step Back Jump Shot,44-30,44,30
@@ -173,8 +173,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800069,2018-10-26,TOR,DAL,17.97,2,6,2,TOR,TOR,fg_miss,57,False,False,MISS Valanciunas 3' Driving Hook Shot,,50-41,50,41
 0021800069,2018-10-26,TOR,DAL,18.0,2,6,0,DAL,DAL,reb,0,False,False,,Jordan REBOUND (Off:0 Def:3),50-41,50,41
 0021800069,2018-10-26,TOR,DAL,18.08,2,5,55,DAL,DAL,fg_miss,6,True,False,,MISS Brunson 2' Driving Layup,50-41,50,41
-0021800069,2018-10-26,TOR,DAL,18.08,2,5,55,DAL,DAL,reb,0,False,False,,Mavericks Rebound,50-41,50,41
 0021800069,2018-10-26,TOR,DAL,18.08,2,5,55,DAL,TOR,block,6,True,False,block,block,50-41,50,41
+0021800069,2018-10-26,TOR,DAL,18.08,2,5,55,DAL,DAL,reb,0,False,False,,Mavericks Rebound,50-41,50,41
 0021800069,2018-10-26,TOR,DAL,18.15,2,5,51,DAL,DAL,fg_make,78,False,False,,Matthews 10' Floating Jump Shot (11 PTS) (Doncic 1 AST),50-43,50,43
 0021800069,2018-10-26,TOR,DAL,18.38,2,5,37,TOR,TOR,fg_miss,98,True,False,MISS Valanciunas 2' Cutting Layup Shot,,50-43,50,43
 0021800069,2018-10-26,TOR,DAL,18.38,2,5,37,TOR,DAL,block,98,True,False,block,block,50-43,50,43
@@ -275,8 +275,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800069,2018-10-26,TOR,DAL,31.43,3,4,34,TOR,DAL,block,75,True,False,block,block,87-82,87,82
 0021800069,2018-10-26,TOR,DAL,31.48,3,4,31,DAL,DAL,reb,0,False,False,,Doncic REBOUND (Off:0 Def:3),87-82,87,82
 0021800069,2018-10-26,TOR,DAL,31.52,3,4,29,DAL,DAL,fg_miss,76,True,False,,MISS Finney-Smith 1' Running Finger Roll Layup,87-82,87,82
-0021800069,2018-10-26,TOR,DAL,31.52,3,4,29,DAL,DAL,reb,0,False,False,,Mavericks Rebound,87-82,87,82
 0021800069,2018-10-26,TOR,DAL,31.52,3,4,29,DAL,TOR,block,76,True,False,block,block,87-82,87,82
+0021800069,2018-10-26,TOR,DAL,31.52,3,4,29,DAL,DAL,reb,0,False,False,,Mavericks Rebound,87-82,87,82
 0021800069,2018-10-26,TOR,DAL,31.67,3,4,20,DAL,DAL,fg_miss,6,False,False,,MISS Brunson 2' Driving Layup,87-82,87,82
 0021800069,2018-10-26,TOR,DAL,31.72,3,4,17,DAL,DAL,reb,0,False,False,,Jordan REBOUND (Off:3 Def:7),87-82,87,82
 0021800069,2018-10-26,TOR,DAL,31.72,3,4,17,DAL,DAL,fg_make,97,False,False,,Jordan 1' Tip Layup Shot (12 PTS),87-84,87,84
@@ -350,8 +350,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800069,2018-10-26,TOR,DAL,38.13,4,9,52,TOR,TOR,fg3_miss,1,False,False,MISS Ibaka 26' 3PT Jump Shot,,99-89,99,89
 0021800069,2018-10-26,TOR,DAL,38.18,4,9,49,DAL,DAL,reb,0,False,False,,Barea REBOUND (Off:1 Def:1),99-89,99,89
 0021800069,2018-10-26,TOR,DAL,38.42,4,9,35,DAL,DAL,fg_miss,5,False,False,,MISS Barnes 2' Layup,99-89,99,89
-0021800069,2018-10-26,TOR,DAL,38.42,4,9,35,DAL,DAL,reb,0,False,False,,Barnes REBOUND (Off:1 Def:3),99-89,99,89
 0021800069,2018-10-26,TOR,DAL,38.42,4,9,35,DAL,TOR,foul,2,False,False,Siakam S.FOUL (P2.T1) (T.Washington),,99-89,99,89
+0021800069,2018-10-26,TOR,DAL,38.42,4,9,35,DAL,DAL,reb,0,False,False,,Barnes REBOUND (Off:1 Def:3),99-89,99,89
 0021800069,2018-10-26,TOR,DAL,38.42,4,9,35,DAL,DAL,ft_make,11,False,False,,Barnes Free Throw 1 of 2 (13 PTS),99-90,99,90
 0021800069,2018-10-26,TOR,DAL,38.42,4,9,35,DAL,DAL,ft_make,12,False,False,,Barnes Free Throw 2 of 2 (14 PTS),99-91,99,91
 0021800069,2018-10-26,TOR,DAL,38.65,4,9,21,TOR,TOR,fg_miss,80,False,False,MISS Leonard 16' Step Back Jump Shot,,99-91,99,91

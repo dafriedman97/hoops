@@ -115,8 +115,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800591,2019-01-07,DET,SAS,14.55,2,9,27,DET,DET,fg_miss,3,False,False,MISS Drummond 8' Hook Shot,,31-34,31,34
 0021800591,2019-01-07,DET,SAS,14.55,2,9,27,DET,DET,reb,0,False,False,Galloway REBOUND (Off:1 Def:0),,31-34,31,34
 0021800591,2019-01-07,DET,SAS,14.62,2,9,23,DET,DET,fg_miss,78,True,False,MISS Drummond 8' Floating Jump Shot,,31-34,31,34
-0021800591,2019-01-07,DET,SAS,14.62,2,9,23,SAS,SAS,reb,0,False,False,,Mills REBOUND (Off:0 Def:3),31-34,31,34
 0021800591,2019-01-07,DET,SAS,14.62,2,9,23,DET,SAS,block,78,True,False,block,block,31-34,31,34
+0021800591,2019-01-07,DET,SAS,14.62,2,9,23,SAS,SAS,reb,0,False,False,,Mills REBOUND (Off:0 Def:3),31-34,31,34
 0021800591,2019-01-07,DET,SAS,14.72,2,9,17,SAS,SAS,fg_miss,5,True,False,,MISS DeRozan 3' Layup,31-34,31,34
 0021800591,2019-01-07,DET,SAS,14.72,2,9,17,SAS,DET,block,5,True,False,block,block,31-34,31,34
 0021800591,2019-01-07,DET,SAS,14.78,2,9,13,DET,DET,reb,0,False,False,Calderon REBOUND (Off:1 Def:1),,31-34,31,34
@@ -275,10 +275,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800591,2019-01-07,DET,SAS,35.6,3,0,24,DET,DET,reb,0,False,False,PISTONS Rebound,,73-84,73,84
 0021800591,2019-01-07,DET,SAS,35.95,3,0,3,DET,DET,fg3_miss,1,False,False,MISS Johnson 3PT Jump Shot,,73-84,73,84
 0021800591,2019-01-07,DET,SAS,36.0,3,0,0,DET,DET,reb,0,False,False,Leuer REBOUND (Off:1 Def:1),,73-84,73,84
-0021800591,2019-01-07,DET,SAS,36.0,3,0,0,DET,DET,fg_miss,97,False,False,MISS Leuer 5' Tip Layup Shot,,73-84,73,84
-0021800591,2019-01-07,DET,SAS,36.0,3,0,0,DET,DET,reb,0,False,False,PISTONS Rebound,,73-84,73,84
 0021800591,2019-01-07,DET,SAS,36.0,3,0,0,DET,,period_end,0,False,False,,,73-84,73,84
 0021800591,2019-01-07,DET,SAS,36.0,4,12,0,DET,,period_start,0,False,False,,,73-84,73,84
+0021800591,2019-01-07,DET,SAS,36.0,3,0,0,DET,DET,fg_miss,97,False,False,MISS Leuer 5' Tip Layup Shot,,73-84,73,84
+0021800591,2019-01-07,DET,SAS,36.0,3,0,0,DET,DET,reb,0,False,False,PISTONS Rebound,,73-84,73,84
 0021800591,2019-01-07,DET,SAS,36.23,4,11,46,DET,DET,fg3_make,1,False,False,Kennard 27' 3PT Jump Shot (8 PTS) (Johnson 2 AST),,76-84,76,84
 0021800591,2019-01-07,DET,SAS,36.72,4,11,17,SAS,SAS,fg_make,78,False,False,,Poeltl 6' Floating Jump Shot (5 PTS) (DeRozan 6 AST),76-86,76,86
 0021800591,2019-01-07,DET,SAS,36.92,4,11,5,DET,SAS,foul,17,False,False,,Spurs T.Foul (Def. 3 Sec Poeltl ) (G.Petraitis),76-86,76,86
@@ -314,8 +314,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800591,2019-01-07,DET,SAS,39.88,4,8,7,SAS,DET,foul,2,False,False,Johnson S.FOUL (P1.T3) (M.Davis),,82-92,82,92
 0021800591,2019-01-07,DET,SAS,39.88,4,8,7,SAS,SAS,ft_make,10,False,False,,Aldridge Free Throw 1 of 1 (20 PTS),82-93,82,93
 0021800591,2019-01-07,DET,SAS,40.22,4,7,47,DET,DET,fg_miss,57,False,False,MISS Griffin 4' Driving Hook Shot,,82-93,82,93
-0021800591,2019-01-07,DET,SAS,40.22,4,7,47,DET,DET,reb,0,False,False,PISTONS Rebound,,82-93,82,93
 0021800591,2019-01-07,DET,SAS,40.22,4,7,47,DET,DET,tov,11,False,False,PISTONS Turnover: Shot Clock (T#10),,82-93,82,93
+0021800591,2019-01-07,DET,SAS,40.22,4,7,47,DET,DET,reb,0,False,False,PISTONS Rebound,,82-93,82,93
 0021800591,2019-01-07,DET,SAS,40.4,4,7,36,SAS,SAS,fg_make,1,False,False,,Aldridge 12' Jump Shot (22 PTS),82-95,82,95
 0021800591,2019-01-07,DET,SAS,40.4,4,7,36,SAS,DET,foul,2,False,False,Drummond S.FOUL (P3.T4) (G.Petraitis),,82-95,82,95
 0021800591,2019-01-07,DET,SAS,40.4,4,7,36,SAS,SAS,ft_make,10,False,False,,Aldridge Free Throw 1 of 1 (23 PTS),82-96,82,96
@@ -347,8 +347,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800591,2019-01-07,DET,SAS,43.05,4,4,57,DET,DET,fg_make,58,False,False,Drummond 5' Turnaround Hook Shot (15 PTS) (Griffin 7 AST),,91-104,91,104
 0021800591,2019-01-07,DET,SAS,43.35,4,4,39,SAS,SAS,fg_make,102,False,False,,Forbes 10' Driving Floating Bank Jump Shot (10 PTS) (DeRozan 8 AST),91-106,91,106
 0021800591,2019-01-07,DET,SAS,43.62,4,4,23,DET,DET,fg_miss,58,False,False,MISS Griffin 7' Turnaround Hook Shot,,91-106,91,106
-0021800591,2019-01-07,DET,SAS,43.63,4,4,22,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:4 Def:2),91-106,91,106
 0021800591,2019-01-07,DET,SAS,43.63,4,4,22,SAS,DET,foul,1,False,False,Drummond P.FOUL (P4.PN) (G.Petraitis),,91-106,91,106
+0021800591,2019-01-07,DET,SAS,43.63,4,4,22,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:4 Def:2),91-106,91,106
 0021800591,2019-01-07,DET,SAS,43.63,4,4,22,SAS,SAS,ft_miss,11,False,False,,MISS Poeltl Free Throw 1 of 2,91-106,91,106
 0021800591,2019-01-07,DET,SAS,43.63,4,4,22,SAS,SAS,reb,1,False,False,,Spurs Rebound,91-106,91,106
 0021800591,2019-01-07,DET,SAS,43.63,4,4,22,SAS,SAS,ft_miss,12,False,False,,MISS Poeltl Free Throw 2 of 2,91-106,91,106
@@ -376,10 +376,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800591,2019-01-07,DET,SAS,46.18,4,1,49,DET,DET,fg_make,6,False,False,Jackson 1' Driving Layup (11 PTS),,100-113,100,113
 0021800591,2019-01-07,DET,SAS,46.18,4,1,49,DET,SAS,foul,2,False,False,,Poeltl S.FOUL (P3.PN) (A.Moyer-Gleich),100-113,100,113
 0021800591,2019-01-07,DET,SAS,46.18,4,1,49,DET,DET,ft_make,10,False,False,Jackson Free Throw 1 of 1 (12 PTS),,101-113,101,113
-0021800591,2019-01-07,DET,SAS,46.53,4,1,28,SAS,SAS,fg_miss,5,True,False,,MISS Poeltl 5' Layup,101-113,101,113
-0021800591,2019-01-07,DET,SAS,46.53,4,1,28,DET,DET,reb,0,False,False,PISTONS Rebound,,101-113,101,113
 0021800591,2019-01-07,DET,SAS,46.53,4,1,28,,DET,jump_ball,0,False,False,Jump Ball Drummond vs. Poeltl: Tip to Jackson,,101-113,101,113
+0021800591,2019-01-07,DET,SAS,46.53,4,1,28,SAS,SAS,fg_miss,5,True,False,,MISS Poeltl 5' Layup,101-113,101,113
 0021800591,2019-01-07,DET,SAS,46.53,4,1,28,SAS,DET,block,5,True,False,block,block,101-113,101,113
+0021800591,2019-01-07,DET,SAS,46.53,4,1,28,DET,DET,reb,0,False,False,PISTONS Rebound,,101-113,101,113
 0021800591,2019-01-07,DET,SAS,46.85,4,1,9,DET,DET,fg3_miss,1,False,False,MISS Jackson 26' 3PT Jump Shot,,101-113,101,113
 0021800591,2019-01-07,DET,SAS,46.92,4,1,5,DET,DET,reb,0,False,False,Brown REBOUND (Off:1 Def:2),,101-113,101,113
 0021800591,2019-01-07,DET,SAS,47.03,4,0,58,DET,DET,fg_make,9,False,False,Jackson 1' Driving Dunk (14 PTS) (Drummond 2 AST),,103-113,103,113

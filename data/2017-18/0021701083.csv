@@ -60,8 +60,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701083,2018-03-23,CHI,MIL,7.3,1,4,42,CHI,CHI,ft_miss,12,False,False,MISS Felicio Free Throw 2 of 2,,21-17,21,17
 0021701083,2018-03-23,CHI,MIL,7.35,1,4,39,MIL,MIL,reb,0,False,False,,Maker REBOUND (Off:0 Def:1),21-17,21,17
 0021701083,2018-03-23,CHI,MIL,7.53,1,4,28,MIL,MIL,fg_miss,98,True,False,,MISS Maker 2' Cutting Layup Shot,21-17,21,17
-0021701083,2018-03-23,CHI,MIL,7.53,1,4,28,CHI,CHI,reb,0,False,False,Portis REBOUND (Off:0 Def:1),,21-17,21,17
 0021701083,2018-03-23,CHI,MIL,7.53,1,4,28,MIL,CHI,block,98,True,False,block,block,21-17,21,17
+0021701083,2018-03-23,CHI,MIL,7.53,1,4,28,CHI,CHI,reb,0,False,False,Portis REBOUND (Off:0 Def:1),,21-17,21,17
 0021701083,2018-03-23,CHI,MIL,7.82,1,4,11,CHI,CHI,fg3_make,1,False,False,Portis 27' 3PT Jump Shot (3 PTS) (Felicio 1 AST),,24-17,24,17
 0021701083,2018-03-23,CHI,MIL,8.05,1,3,57,MIL,MIL,tov,45,False,False,,Maker Out of Bounds - Bad Pass Turnover Turnover (P1.T1),24-17,24,17
 0021701083,2018-03-23,CHI,MIL,8.27,1,3,44,CHI,CHI,fg_miss,1,False,False,MISS Holiday 20' Jump Shot,,24-17,24,17
@@ -87,9 +87,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701083,2018-03-23,CHI,MIL,10.82,1,1,11,MIL,MIL,ft_make,11,False,False,,Jennings Free Throw 1 of 2 (4 PTS),32-21,32,21
 0021701083,2018-03-23,CHI,MIL,10.82,1,1,11,MIL,MIL,ft_make,12,False,False,,Jennings Free Throw 2 of 2 (5 PTS),32-22,32,22
 0021701083,2018-03-23,CHI,MIL,11.12,1,0,53,CHI,CHI,fg_miss,6,True,False,MISS Portis 3' Driving Layup,,32-22,32,22
+0021701083,2018-03-23,CHI,MIL,11.12,1,0,53,CHI,MIL,block,6,True,False,block,block,32-22,32,22
 0021701083,2018-03-23,CHI,MIL,11.12,1,0,53,CHI,CHI,reb,0,False,False,BULLS Rebound,,32-22,32,22
 0021701083,2018-03-23,CHI,MIL,11.12,1,0,53,CHI,CHI,tov,13,False,False,Grant Backcourt Turnover (P1.T3),,32-22,32,22
-0021701083,2018-03-23,CHI,MIL,11.12,1,0,53,CHI,MIL,block,6,True,False,block,block,32-22,32,22
 0021701083,2018-03-23,CHI,MIL,11.28,1,0,43,MIL,CHI,foul,2,False,False,Vonleh S.FOUL (P1.PN) (C.Blair),,32-22,32,22
 0021701083,2018-03-23,CHI,MIL,11.28,1,0,43,MIL,MIL,ft_make,11,False,False,,Snell Free Throw 1 of 2 (6 PTS),32-23,32,23
 0021701083,2018-03-23,CHI,MIL,11.28,1,0,43,MIL,MIL,ft_make,12,False,False,,Snell Free Throw 2 of 2 (7 PTS),32-24,32,24
@@ -196,8 +196,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701083,2018-03-23,CHI,MIL,23.68,2,0,19,MIL,MIL,reb,0,False,False,,Henson REBOUND (Off:1 Def:3),61-61,61,61
 0021701083,2018-03-23,CHI,MIL,23.98,2,0,1,MIL,MIL,fg_miss,101,False,False,,MISS Parker 2' Driving Floating Jump Shot,61-61,61,61
 0021701083,2018-03-23,CHI,MIL,23.98,2,0,1,CHI,CHI,reb,0,False,False,Valentine REBOUND (Off:0 Def:2),,61-61,61,61
-0021701083,2018-03-23,CHI,MIL,24.0,2,0,0,CHI,,foul,16,False,False,,,61-61,61,61
 0021701083,2018-03-23,CHI,MIL,24.0,2,0,0,CHI,,period_end,0,False,False,,,61-61,61,61
+0021701083,2018-03-23,CHI,MIL,24.0,2,0,0,CHI,,foul,16,False,False,,,61-61,61,61
 0021701083,2018-03-23,CHI,MIL,24.0,3,12,0,CHI,,period_start,0,False,False,,,61-61,61,61
 0021701083,2018-03-23,CHI,MIL,24.17,3,11,50,CHI,CHI,fg_make,75,False,False,Payne 2' Driving Finger Roll Layup (14 PTS),,63-61,63,61
 0021701083,2018-03-23,CHI,MIL,24.47,3,11,32,MIL,MIL,fg3_miss,1,False,False,,MISS Middleton 24' 3PT Jump Shot,63-61,63,61
@@ -206,8 +206,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701083,2018-03-23,CHI,MIL,24.67,3,11,20,CHI,CHI,fg3_miss,1,False,False,MISS Payne 25' 3PT Jump Shot,,63-61,63,61
 0021701083,2018-03-23,CHI,MIL,24.73,3,11,16,CHI,CHI,reb,0,False,False,Felicio REBOUND (Off:3 Def:2),,63-61,63,61
 0021701083,2018-03-23,CHI,MIL,24.78,3,11,13,CHI,CHI,fg_miss,98,True,False,MISS Felicio 2' Cutting Layup Shot,,63-61,63,61
-0021701083,2018-03-23,CHI,MIL,24.78,3,11,13,CHI,CHI,reb,0,False,False,BULLS Rebound,,63-61,63,61
 0021701083,2018-03-23,CHI,MIL,24.78,3,11,13,CHI,MIL,block,98,True,False,block,block,63-61,63,61
+0021701083,2018-03-23,CHI,MIL,24.78,3,11,13,CHI,CHI,reb,0,False,False,BULLS Rebound,,63-61,63,61
 0021701083,2018-03-23,CHI,MIL,24.85,3,11,9,CHI,CHI,fg_miss,47,False,False,MISS Holiday 3' Turnaround Jump Shot,,63-61,63,61
 0021701083,2018-03-23,CHI,MIL,24.88,3,11,7,MIL,MIL,reb,0,False,False,,Bledsoe REBOUND (Off:0 Def:1),63-61,63,61
 0021701083,2018-03-23,CHI,MIL,25.23,3,10,46,MIL,MIL,fg_miss,1,False,False,,MISS Brown 13' Jump Shot,63-61,63,61
@@ -294,9 +294,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701083,2018-03-23,CHI,MIL,35.98,3,0,1,CHI,CHI,fg_miss,47,False,False,MISS Grant 6' Turnaround Jump Shot,,82-90,82,90
 0021701083,2018-03-23,CHI,MIL,35.98,3,0,1,CHI,CHI,reb,0,False,False,Portis REBOUND (Off:1 Def:2),,82-90,82,90
 0021701083,2018-03-23,CHI,MIL,36.0,3,0,0,CHI,CHI,fg_miss,97,False,False,MISS Portis 1' Tip Layup Shot,,82-90,82,90
-0021701083,2018-03-23,CHI,MIL,36.0,3,0,0,CHI,CHI,reb,0,False,False,Portis REBOUND (Off:3 Def:2),,82-90,82,90
-0021701083,2018-03-23,CHI,MIL,36.0,3,0,0,CHI,CHI,fg_miss,97,False,False,MISS Portis 1' Tip Layup Shot,,82-90,82,90
 0021701083,2018-03-23,CHI,MIL,36.0,3,0,0,CHI,CHI,reb,0,False,False,Portis REBOUND (Off:2 Def:2),,82-90,82,90
+0021701083,2018-03-23,CHI,MIL,36.0,3,0,0,CHI,CHI,fg_miss,97,False,False,MISS Portis 1' Tip Layup Shot,,82-90,82,90
+0021701083,2018-03-23,CHI,MIL,36.0,3,0,0,CHI,CHI,reb,0,False,False,Portis REBOUND (Off:3 Def:2),,82-90,82,90
 0021701083,2018-03-23,CHI,MIL,36.0,3,0,0,CHI,,period_end,0,False,False,,,82-90,82,90
 0021701083,2018-03-23,CHI,MIL,36.0,4,12,0,CHI,,period_start,0,False,False,,,82-90,82,90
 0021701083,2018-03-23,CHI,MIL,36.3,4,11,42,MIL,MIL,fg_miss,47,False,False,,MISS Muhammad 4' Turnaround Jump Shot,82-90,82,90
@@ -370,8 +370,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701083,2018-03-23,CHI,MIL,42.27,4,5,44,MIL,MIL,fg_make,107,False,False,,Henson 1' Tip Dunk Shot (9 PTS),94-107,94,107
 0021701083,2018-03-23,CHI,MIL,42.27,4,5,44,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 6 Short 0),,94-107,94,107
 0021701083,2018-03-23,CHI,MIL,42.58,4,5,25,CHI,CHI,fg_miss,6,True,False,MISS Payne 5' Driving Layup,,94-107,94,107
-0021701083,2018-03-23,CHI,MIL,42.58,4,5,25,CHI,CHI,reb,0,False,False,BULLS Rebound,,94-107,94,107
 0021701083,2018-03-23,CHI,MIL,42.58,4,5,25,CHI,MIL,block,6,True,False,block,block,94-107,94,107
+0021701083,2018-03-23,CHI,MIL,42.58,4,5,25,CHI,CHI,reb,0,False,False,BULLS Rebound,,94-107,94,107
 0021701083,2018-03-23,CHI,MIL,42.67,4,5,20,CHI,CHI,fg_miss,1,False,False,MISS Felicio 19' Jump Shot,,94-107,94,107
 0021701083,2018-03-23,CHI,MIL,42.77,4,5,14,MIL,MIL,reb,0,False,False,,Bledsoe REBOUND (Off:0 Def:3),94-107,94,107
 0021701083,2018-03-23,CHI,MIL,42.95,4,5,3,MIL,MIL,tov,2,False,True,,Middleton Lost Ball Turnover (P2.T5),94-107,94,107

@@ -5,8 +5,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800192,2018-11-12,TOR,NOP,0.67,1,11,20,TOR,TOR,fg_make,6,False,False,Ibaka 2' Driving Layup (2 PTS) (Lowry 1 AST),,2-2,2,2
 0021800192,2018-11-12,TOR,NOP,0.93,1,11,4,NOP,NOP,fg_make,6,False,False,,Moore 1' Driving Layup (2 PTS),2-4,2,4
 0021800192,2018-11-12,TOR,NOP,1.13,1,10,52,TOR,TOR,fg_miss,6,True,False,MISS Lowry 3' Driving Layup,,2-4,2,4
-0021800192,2018-11-12,TOR,NOP,1.13,1,10,52,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,2-4,2,4
 0021800192,2018-11-12,TOR,NOP,1.13,1,10,52,TOR,NOP,block,6,True,False,block,block,2-4,2,4
+0021800192,2018-11-12,TOR,NOP,1.13,1,10,52,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,2-4,2,4
 0021800192,2018-11-12,TOR,NOP,1.32,1,10,41,TOR,TOR,fg_miss,6,False,False,MISS Leonard 3' Driving Layup,,2-4,2,4
 0021800192,2018-11-12,TOR,NOP,1.35,1,10,39,NOP,NOP,reb,0,False,False,,Randle REBOUND (Off:0 Def:1),2-4,2,4
 0021800192,2018-11-12,TOR,NOP,1.48,1,10,31,NOP,NOP,fg3_miss,1,False,False,,MISS Randle 25' 3PT Jump Shot,2-4,2,4
@@ -112,9 +112,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800192,2018-11-12,TOR,NOP,11.62,1,0,23,NOP,NOP,reb,0,False,False,,Diallo REBOUND (Off:2 Def:0),29-29,29,29
 0021800192,2018-11-12,TOR,NOP,11.63,1,0,22,NOP,NOP,fg_make,97,False,False,,Diallo 1' Tip Layup Shot (2 PTS),29-31,29,31
 0021800192,2018-11-12,TOR,NOP,11.98,1,0,1,TOR,TOR,fg3_miss,1,False,False,MISS VanVleet 28' 3PT Jump Shot,,29-31,29,31
-0021800192,2018-11-12,TOR,NOP,12.0,1,0,0,TOR,TOR,tov,11,False,False,RAPTORS Turnover: Shot Clock (T#2),,29-31,29,31
 0021800192,2018-11-12,TOR,NOP,12.0,1,0,0,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,29-31,29,31
 0021800192,2018-11-12,TOR,NOP,12.0,1,0,0,TOR,,period_end,0,False,False,,,29-31,29,31
+0021800192,2018-11-12,TOR,NOP,12.0,1,0,0,TOR,TOR,tov,11,False,False,RAPTORS Turnover: Shot Clock (T#2),,29-31,29,31
 0021800192,2018-11-12,TOR,NOP,12.0,2,12,0,TOR,,period_start,0,False,False,,,29-31,29,31
 0021800192,2018-11-12,TOR,NOP,12.22,2,11,47,TOR,NOP,foul,2,False,False,,Diallo S.FOUL (P1.T1) (E.Dalen),29-31,29,31
 0021800192,2018-11-12,TOR,NOP,12.22,2,11,47,TOR,TOR,ft_make,11,False,False,Valanciunas Free Throw 1 of 2 (1 PTS),,30-31,30,31
@@ -445,6 +445,6 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800192,2018-11-12,TOR,NOP,47.68,4,0,19,TOR,TOR,fg_miss,43,False,False,MISS Monroe 1' Alley Oop Layup,,110-126,110,126
 0021800192,2018-11-12,TOR,NOP,47.73,4,0,16,TOR,TOR,reb,0,False,False,Monroe REBOUND (Off:1 Def:1),,110-126,110,126
 0021800192,2018-11-12,TOR,NOP,47.78,4,0,13,TOR,TOR,fg_miss,5,True,False,MISS Monroe 10' Layup,,110-126,110,126
-0021800192,2018-11-12,TOR,NOP,47.78,4,0,13,NOP,NOP,reb,0,False,False,,Clark REBOUND (Off:1 Def:3),110-126,110,126
 0021800192,2018-11-12,TOR,NOP,47.78,4,0,13,TOR,NOP,block,5,True,False,block,block,110-126,110,126
+0021800192,2018-11-12,TOR,NOP,47.78,4,0,13,NOP,NOP,reb,0,False,False,,Clark REBOUND (Off:1 Def:3),110-126,110,126
 0021800192,2018-11-12,TOR,NOP,48.0,4,0,0,NOP,,period_end,0,False,False,,,110-126,110,126

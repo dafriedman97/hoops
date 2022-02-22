@@ -51,8 +51,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700935,2018-03-02,LAC,NYK,5.68,1,6,19,LAC,LAC,reb,0,False,False,Jordan REBOUND (Off:3 Def:3),,13-10,13,10
 0021700935,2018-03-02,LAC,NYK,5.68,1,6,19,LAC,LAC,fg_make,107,False,False,Jordan 1' Tip Dunk Shot (8 PTS),,15-10,15,10
 0021700935,2018-03-02,LAC,NYK,5.87,1,6,8,NYK,NYK,tov,1,False,True,,Lee Bad Pass Turnover (P1.T2),15-10,15,10
-0021700935,2018-03-02,LAC,NYK,5.87,1,6,8,LAC,LAC,tov,1,False,True,Williams Bad Pass Turnover (P1.T3),,15-10,15,10
 0021700935,2018-03-02,LAC,NYK,5.87,1,6,8,NYK,LAC,steal,1,False,True,steal,steal,15-10,15,10
+0021700935,2018-03-02,LAC,NYK,5.87,1,6,8,LAC,LAC,tov,1,False,True,Williams Bad Pass Turnover (P1.T3),,15-10,15,10
 0021700935,2018-03-02,LAC,NYK,5.87,1,6,8,LAC,NYK,steal,1,False,True,steal,steal,15-10,15,10
 0021700935,2018-03-02,LAC,NYK,6.02,1,5,59,NYK,NYK,fg3_miss,1,False,False,,MISS Mudiay 25' 3PT Jump Shot,15-10,15,10
 0021700935,2018-03-02,LAC,NYK,6.08,1,5,55,LAC,LAC,reb,0,False,False,Rivers REBOUND (Off:0 Def:1),,15-10,15,10
@@ -93,8 +93,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700935,2018-03-02,LAC,NYK,10.28,1,1,43,LAC,LAC,fg_miss,79,False,False,MISS Williams 17' Pullup Jump Shot,,28-22,28,22
 0021700935,2018-03-02,LAC,NYK,10.28,1,1,43,NYK,NYK,reb,0,False,False,,Kanter REBOUND (Off:2 Def:3),28-22,28,22
 0021700935,2018-03-02,LAC,NYK,10.52,1,1,29,NYK,NYK,fg_miss,5,True,False,,MISS Kanter 3' Layup,28-22,28,22
-0021700935,2018-03-02,LAC,NYK,10.52,1,1,29,NYK,NYK,reb,0,False,False,,Thomas REBOUND (Off:1 Def:0),28-22,28,22
 0021700935,2018-03-02,LAC,NYK,10.52,1,1,29,NYK,LAC,block,5,True,False,block,block,28-22,28,22
+0021700935,2018-03-02,LAC,NYK,10.52,1,1,29,NYK,NYK,reb,0,False,False,,Thomas REBOUND (Off:1 Def:0),28-22,28,22
 0021700935,2018-03-02,LAC,NYK,10.6,1,1,24,NYK,NYK,tov,2,False,True,,Thomas Lost Ball Turnover (P1.T5),28-22,28,22
 0021700935,2018-03-02,LAC,NYK,10.6,1,1,24,NYK,LAC,steal,2,False,True,steal,steal,28-22,28,22
 0021700935,2018-03-02,LAC,NYK,10.68,1,1,19,LAC,LAC,fg_make,41,False,False,Harrell 2' Running Layup (2 PTS) (Harris 2 AST),,30-22,30,22
@@ -171,8 +171,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700935,2018-03-02,LAC,NYK,18.6,2,5,24,LAC,LAC,ft_make,12,False,False,Williams Free Throw 2 of 2 (12 PTS),,49-44,49,44
 0021700935,2018-03-02,LAC,NYK,18.78,2,5,13,NYK,NYK,fg_make,78,False,False,,Hardaway Jr. 10' Floating Jump Shot (4 PTS),49-46,49,46
 0021700935,2018-03-02,LAC,NYK,18.93,2,5,4,LAC,LAC,fg_miss,5,True,False,MISS Williams 4' Layup,,49-46,49,46
-0021700935,2018-03-02,LAC,NYK,18.93,2,5,4,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,49-46,49,46
 0021700935,2018-03-02,LAC,NYK,18.93,2,5,4,LAC,NYK,block,5,True,False,block,block,49-46,49,46
+0021700935,2018-03-02,LAC,NYK,18.93,2,5,4,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,49-46,49,46
 0021700935,2018-03-02,LAC,NYK,19.02,2,4,59,LAC,LAC,fg3_miss,79,False,False,MISS Teodosic 25' 3PT Pullup Jump Shot,,49-46,49,46
 0021700935,2018-03-02,LAC,NYK,19.1,2,4,54,LAC,LAC,reb,0,False,False,Teodosic REBOUND (Off:1 Def:1),,49-46,49,46
 0021700935,2018-03-02,LAC,NYK,19.18,2,4,49,LAC,NYK,foul,2,False,False,,Kanter S.FOUL (P2.PN) (M.Lindsay),49-46,49,46
@@ -209,11 +209,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700935,2018-03-02,LAC,NYK,23.52,2,0,29,LAC,LAC,fg_miss,72,False,False,MISS Jordan 2' Putback Layup,,57-58,57,58
 0021700935,2018-03-02,LAC,NYK,23.55,2,0,27,NYK,NYK,reb,0,False,False,,Thomas REBOUND (Off:1 Def:1),57-58,57,58
 0021700935,2018-03-02,LAC,NYK,23.58,2,0,25,NYK,NYK,fg_miss,41,True,False,,MISS Mudiay 2' Running Layup,57-58,57,58
+0021700935,2018-03-02,LAC,NYK,23.58,2,0,25,NYK,LAC,block,41,True,False,block,block,57-58,57,58
 0021700935,2018-03-02,LAC,NYK,23.58,2,0,25,NYK,NYK,reb,0,False,False,,Knicks Rebound,57-58,57,58
 0021700935,2018-03-02,LAC,NYK,23.58,2,0,25,NYK,LAC,foul,11,False,False,Jordan T.FOUL (P0.T3) (K.Lane),,57-58,57,58
 0021700935,2018-03-02,LAC,NYK,23.58,2,0,25,NYK,NYK,ft_miss,16,False,False,,MISS Lee Free Throw Technical,57-58,57,58
 0021700935,2018-03-02,LAC,NYK,23.58,2,0,25,NYK,NYK,reb,1,False,False,,Knicks Rebound,57-58,57,58
-0021700935,2018-03-02,LAC,NYK,23.58,2,0,25,NYK,LAC,block,41,True,False,block,block,57-58,57,58
 0021700935,2018-03-02,LAC,NYK,23.85,2,0,9,NYK,NYK,fg_make,98,False,False,,Hardaway Jr. 1' Cutting Layup Shot (8 PTS) (Mudiay 5 AST),57-60,57,60
 0021700935,2018-03-02,LAC,NYK,23.98,2,0,1,LAC,LAC,fg3_miss,1,False,False,MISS Williams 25' 3PT Jump Shot,,57-60,57,60
 0021700935,2018-03-02,LAC,NYK,24.0,2,0,0,LAC,LAC,reb,0,False,False,Williams REBOUND (Off:1 Def:0),,57-60,57,60
@@ -245,8 +245,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700935,2018-03-02,LAC,NYK,27.72,3,8,17,NYK,NYK,fg_make,1,False,False,,Mudiay 17' Jump Shot (6 PTS) (Hardaway Jr. 4 AST),70-64,70,64
 0021700935,2018-03-02,LAC,NYK,27.98,3,8,1,LAC,LAC,fg_make,1,False,False,Teodosic 20' Jump Shot (7 PTS) (Jordan 3 AST),,72-64,72,64
 0021700935,2018-03-02,LAC,NYK,28.28,3,7,43,NYK,NYK,tov,1,False,True,,Mudiay Bad Pass Turnover (P1.T9),72-64,72,64
-0021700935,2018-03-02,LAC,NYK,28.28,3,7,43,LAC,NYK,foul,28,False,False,,Thomas Personal Take Foul (P1.T1) (K.Lane),72-64,72,64
 0021700935,2018-03-02,LAC,NYK,28.28,3,7,43,NYK,LAC,steal,1,False,True,steal,steal,72-64,72,64
+0021700935,2018-03-02,LAC,NYK,28.28,3,7,43,LAC,NYK,foul,28,False,False,,Thomas Personal Take Foul (P1.T1) (K.Lane),72-64,72,64
 0021700935,2018-03-02,LAC,NYK,28.43,3,7,34,LAC,NYK,foul,1,False,False,,Thomas P.FOUL (P2.T2) (K.Lane),72-64,72,64
 0021700935,2018-03-02,LAC,NYK,28.52,3,7,29,LAC,NYK,foul,1,False,False,,Thomas P.FOUL (P3.T3) (K.Lane),72-64,72,64
 0021700935,2018-03-02,LAC,NYK,28.67,3,7,20,LAC,LAC,fg3_make,1,False,False,Rivers 27' 3PT Jump Shot (14 PTS) (Williams 3 AST),,75-64,75,64
@@ -322,9 +322,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700935,2018-03-02,LAC,NYK,37.35,4,10,39,LAC,LAC,reb,0,False,False,Williams REBOUND (Off:0 Def:2),,94-80,94,80
 0021700935,2018-03-02,LAC,NYK,37.38,4,10,37,LAC,LAC,fg_make,50,False,False,Harrell Running Dunk (9 PTS) (Williams 5 AST),,96-80,96,80
 0021700935,2018-03-02,LAC,NYK,37.53,4,10,28,NYK,NYK,fg_miss,1,True,False,,MISS O'Quinn 4' Jump Shot,96-80,96,80
+0021700935,2018-03-02,LAC,NYK,37.53,4,10,28,NYK,LAC,block,1,True,False,block,block,96-80,96,80
 0021700935,2018-03-02,LAC,NYK,37.53,4,10,28,,LAC,jump_ball,0,False,False,Jump Ball W. Johnson vs. O'Quinn: Tip to Mudiay,,96-80,96,80
 0021700935,2018-03-02,LAC,NYK,37.53,4,10,28,NYK,NYK,reb,0,False,False,,Knicks Rebound,96-80,96,80
-0021700935,2018-03-02,LAC,NYK,37.53,4,10,28,NYK,LAC,block,1,True,False,block,block,96-80,96,80
 0021700935,2018-03-02,LAC,NYK,37.68,4,10,19,NYK,LAC,foul,2,False,False,W. Johnson S.FOUL (P2.T2) (K.Lane),,96-80,96,80
 0021700935,2018-03-02,LAC,NYK,37.68,4,10,19,NYK,NYK,ft_make,11,False,False,,Mudiay Free Throw 1 of 2 (7 PTS),96-81,96,81
 0021700935,2018-03-02,LAC,NYK,37.68,4,10,19,NYK,NYK,ft_miss,12,False,False,,MISS Mudiay Free Throw 2 of 2,96-81,96,81
@@ -423,8 +423,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700935,2018-03-02,LAC,NYK,46.87,4,1,8,NYK,NYK,fg3_miss,1,False,False,,MISS Kornet 26' 3PT Jump Shot,124-99,124,99
 0021700935,2018-03-02,LAC,NYK,46.92,4,1,5,LAC,LAC,reb,0,False,False,Thornwell REBOUND (Off:0 Def:1),,124-99,124,99
 0021700935,2018-03-02,LAC,NYK,47.25,4,0,45,LAC,LAC,fg_miss,3,True,False,MISS Marjanovic 3' Hook Shot,,124-99,124,99
-0021700935,2018-03-02,LAC,NYK,47.25,4,0,45,LAC,LAC,reb,0,False,False,Marjanovic REBOUND (Off:3 Def:0),,124-99,124,99
 0021700935,2018-03-02,LAC,NYK,47.25,4,0,45,LAC,NYK,block,3,True,False,block,block,124-99,124,99
+0021700935,2018-03-02,LAC,NYK,47.25,4,0,45,LAC,LAC,reb,0,False,False,Marjanovic REBOUND (Off:3 Def:0),,124-99,124,99
 0021700935,2018-03-02,LAC,NYK,47.3,4,0,42,LAC,LAC,fg_make,1,False,False,Marjanovic 14' Jump Shot (4 PTS),,126-99,126,99
 0021700935,2018-03-02,LAC,NYK,47.47,4,0,32,NYK,NYK,fg3_make,1,False,False,,Williams 26' 3PT Jump Shot (11 PTS) (Burke 2 AST),126-102,126,102
 0021700935,2018-03-02,LAC,NYK,47.78,4,0,13,LAC,LAC,fg_make,58,False,False,Marjanovic 3' Turnaround Hook Shot (6 PTS),,128-102,128,102

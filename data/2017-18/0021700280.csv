@@ -102,11 +102,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700280,2017-11-25,ATL,TOR,11.88,1,0,7,TOR,TOR,fg_make,63,False,False,,DeRozan 11' Fadeaway Jumper (2 PTS),25-28,25,28
 0021700280,2017-11-25,ATL,TOR,11.97,1,0,2,ATL,ATL,tov,45,False,False,Magette Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,25-28,25,28
 0021700280,2017-11-25,ATL,TOR,12.0,1,0,0,TOR,TOR,tov,1,False,True,,DeRozan Bad Pass Turnover (P2.T6),25-28,25,28
+0021700280,2017-11-25,ATL,TOR,12.0,1,0,0,TOR,ATL,steal,1,False,True,steal,steal,25-28,25,28
 0021700280,2017-11-25,ATL,TOR,12.0,1,0,0,ATL,ATL,fg3_miss,1,False,False,MISS Magette 61' 3PT Jump Shot,,25-28,25,28
 0021700280,2017-11-25,ATL,TOR,12.0,1,0,0,ATL,ATL,reb,0,False,False,HAWKS Rebound,,25-28,25,28
 0021700280,2017-11-25,ATL,TOR,12.0,1,0,0,ATL,,period_end,0,False,False,,,25-28,25,28
 0021700280,2017-11-25,ATL,TOR,12.0,2,12,0,ATL,,period_start,0,False,False,,,25-28,25,28
-0021700280,2017-11-25,ATL,TOR,12.0,1,0,0,TOR,ATL,steal,1,False,True,steal,steal,25-28,25,28
 0021700280,2017-11-25,ATL,TOR,12.22,2,11,47,ATL,ATL,fg3_miss,1,False,False,MISS Belinelli 25' 3PT Jump Shot,,25-28,25,28
 0021700280,2017-11-25,ATL,TOR,12.23,2,11,46,TOR,TOR,reb,0,False,False,,Raptors Rebound,25-28,25,28
 0021700280,2017-11-25,ATL,TOR,12.57,2,11,26,TOR,TOR,fg_miss,5,True,False,,MISS Poeltl 1' Layup,25-28,25,28
@@ -178,8 +178,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700280,2017-11-25,ATL,TOR,20.85,2,3,9,ATL,TOR,foul,1,False,False,,Powell P.FOUL (P2.T3) (B.Forte),37-61,37,61
 0021700280,2017-11-25,ATL,TOR,20.97,2,3,2,ATL,TOR,foul,1,False,False,,DeRozan P.FOUL (P2.T4) (B.Forte),37-61,37,61
 0021700280,2017-11-25,ATL,TOR,21.15,2,2,51,ATL,ATL,fg3_miss,1,False,False,MISS Ilyasova 3PT Jump Shot,,37-61,37,61
-0021700280,2017-11-25,ATL,TOR,21.15,2,2,51,ATL,ATL,fg_miss,97,False,False,MISS Bazemore 4' Tip Layup Shot,,37-61,37,61
 0021700280,2017-11-25,ATL,TOR,21.15,2,2,51,ATL,ATL,reb,0,False,False,Bazemore REBOUND (Off:1 Def:3),,37-61,37,61
+0021700280,2017-11-25,ATL,TOR,21.15,2,2,51,ATL,ATL,fg_miss,97,False,False,MISS Bazemore 4' Tip Layup Shot,,37-61,37,61
 0021700280,2017-11-25,ATL,TOR,21.17,2,2,50,TOR,TOR,reb,0,False,False,,Poeltl REBOUND (Off:3 Def:3),37-61,37,61
 0021700280,2017-11-25,ATL,TOR,21.2,2,2,48,TOR,ATL,foul,1,False,False,Bazemore P.FOUL (P1.T4) (B.Taylor),,37-61,37,61
 0021700280,2017-11-25,ATL,TOR,21.48,2,2,31,TOR,TOR,fg_make,101,False,False,,Siakam 12' Driving Floating Jump Shot (11 PTS) (Anunoby 1 AST),37-63,37,63
@@ -203,8 +203,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700280,2017-11-25,ATL,TOR,23.43,2,0,34,ATL,TOR,steal,2,False,True,steal,steal,39-65,39,65
 0021700280,2017-11-25,ATL,TOR,23.47,2,0,32,TOR,TOR,fg_make,7,False,False,,Siakam 2' Dunk (13 PTS) (DeRozan 5 AST),39-67,39,67
 0021700280,2017-11-25,ATL,TOR,23.73,2,0,16,ATL,ATL,fg_miss,6,True,False,MISS Schroder 1' Driving Layup,,39-67,39,67
-0021700280,2017-11-25,ATL,TOR,23.73,2,0,16,TOR,TOR,reb,0,False,False,,Lowry REBOUND (Off:0 Def:5),39-67,39,67
 0021700280,2017-11-25,ATL,TOR,23.73,2,0,16,ATL,TOR,block,6,True,False,block,block,39-67,39,67
+0021700280,2017-11-25,ATL,TOR,23.73,2,0,16,TOR,TOR,reb,0,False,False,,Lowry REBOUND (Off:0 Def:5),39-67,39,67
 0021700280,2017-11-25,ATL,TOR,23.97,2,0,2,TOR,TOR,tov,2,False,True,,Lowry Lost Ball Turnover (P3.T9),39-67,39,67
 0021700280,2017-11-25,ATL,TOR,23.97,2,0,2,TOR,ATL,steal,2,False,True,steal,steal,39-67,39,67
 0021700280,2017-11-25,ATL,TOR,24.0,2,0,0,TOR,,period_end,0,False,False,,,39-67,39,67

@@ -45,8 +45,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900148,2019-11-12,MIA,DET,6.1,1,5,54,DET,DET,fg3_miss,1,False,False,,MISS Kennard 25' 3PT Jump Shot,14-4,14,4
 0021900148,2019-11-12,MIA,DET,6.13,1,5,52,MIA,MIA,reb,0,False,False,Robinson REBOUND (Off:0 Def:1),,14-4,14,4
 0021900148,2019-11-12,MIA,DET,6.2,1,5,48,MIA,MIA,fg_miss,6,True,False,MISS Adebayo 2' Driving Layup,,14-4,14,4
-0021900148,2019-11-12,MIA,DET,6.2,1,5,48,MIA,MIA,reb,0,False,False,HEAT Rebound,,14-4,14,4
 0021900148,2019-11-12,MIA,DET,6.2,1,5,48,MIA,DET,block,6,True,False,block,block,14-4,14,4
+0021900148,2019-11-12,MIA,DET,6.2,1,5,48,MIA,MIA,reb,0,False,False,HEAT Rebound,,14-4,14,4
 0021900148,2019-11-12,MIA,DET,6.42,1,5,35,MIA,MIA,tov,1,False,True,Nunn Bad Pass Turnover (P2.T4),,14-4,14,4
 0021900148,2019-11-12,MIA,DET,6.42,1,5,35,MIA,DET,steal,1,False,True,steal,steal,14-4,14,4
 0021900148,2019-11-12,MIA,DET,6.52,1,5,29,DET,DET,fg_make,41,False,False,,Wood 1' Running Layup (4 PTS) (Kennard 1 AST),14-6,14,6
@@ -97,11 +97,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900148,2019-11-12,MIA,DET,11.48,1,0,31,MIA,MIA,ft_make,12,False,False,Dragic Free Throw 2 of 2 (2 PTS),,28-17,28,17
 0021900148,2019-11-12,MIA,DET,11.83,1,0,10,DET,DET,fg3_miss,80,False,False,,MISS Frazier 27' 3PT Step Back Jump Shot,28-17,28,17
 0021900148,2019-11-12,MIA,DET,11.88,1,0,7,MIA,MIA,reb,0,False,False,Olynyk REBOUND (Off:0 Def:1),,28-17,28,17
-0021900148,2019-11-12,MIA,DET,12.0,1,0,0,MIA,MIA,fg_miss,6,True,False,MISS Dragic 11' Driving Layup,,28-17,28,17
-0021900148,2019-11-12,MIA,DET,12.0,1,0,0,MIA,MIA,reb,0,False,False,HEAT Rebound,,28-17,28,17
 0021900148,2019-11-12,MIA,DET,12.0,1,0,0,MIA,,period_end,0,False,False,,,28-17,28,17
-0021900148,2019-11-12,MIA,DET,12.0,2,12,0,MIA,,period_start,0,False,False,,,28-17,28,17
+0021900148,2019-11-12,MIA,DET,12.0,1,0,0,MIA,MIA,fg_miss,6,True,False,MISS Dragic 11' Driving Layup,,28-17,28,17
 0021900148,2019-11-12,MIA,DET,12.0,1,0,0,MIA,DET,block,6,True,False,block,block,28-17,28,17
+0021900148,2019-11-12,MIA,DET,12.0,1,0,0,MIA,MIA,reb,0,False,False,HEAT Rebound,,28-17,28,17
+0021900148,2019-11-12,MIA,DET,12.0,2,12,0,MIA,,period_start,0,False,False,,,28-17,28,17
 0021900148,2019-11-12,MIA,DET,12.38,2,11,37,MIA,MIA,fg_miss,58,False,False,MISS Nunn 8' Turnaround Hook Shot,,28-17,28,17
 0021900148,2019-11-12,MIA,DET,12.4,2,11,36,MIA,MIA,reb,0,False,False,Silva REBOUND (Off:1 Def:0),,28-17,28,17
 0021900148,2019-11-12,MIA,DET,12.4,2,11,36,MIA,MIA,tov,11,False,False,HEAT Turnover: Shot Clock (T#7),,28-17,28,17
@@ -117,8 +117,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900148,2019-11-12,MIA,DET,13.5,2,10,30,MIA,MIA,fg3_make,1,False,False,Dragic 26' 3PT Jump Shot (5 PTS) (Nunn 3 AST),,33-17,33,17
 0021900148,2019-11-12,MIA,DET,13.65,2,10,21,DET,MIA,foul,1,False,False,Robinson P.FOUL (P1.T1) (J.Goble),,33-17,33,17
 0021900148,2019-11-12,MIA,DET,13.88,2,10,7,DET,DET,fg_miss,6,True,False,,MISS Brown 2' Driving Layup,33-17,33,17
-0021900148,2019-11-12,MIA,DET,13.88,2,10,7,DET,DET,reb,0,False,False,,Pistons Rebound,33-17,33,17
 0021900148,2019-11-12,MIA,DET,13.88,2,10,7,DET,MIA,block,6,True,False,block,block,33-17,33,17
+0021900148,2019-11-12,MIA,DET,13.88,2,10,7,DET,DET,reb,0,False,False,,Pistons Rebound,33-17,33,17
 0021900148,2019-11-12,MIA,DET,13.93,2,10,4,DET,DET,fg3_miss,1,False,False,,MISS Galloway 3PT Jump Shot,33-17,33,17
 0021900148,2019-11-12,MIA,DET,13.93,2,10,4,MIA,MIA,reb,0,False,False,HEAT Rebound,,33-17,33,17
 0021900148,2019-11-12,MIA,DET,14.12,2,9,53,MIA,MIA,fg3_miss,1,False,False,MISS Olynyk 25' 3PT Jump Shot,,33-17,33,17
@@ -306,8 +306,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900148,2019-11-12,MIA,DET,34.68,3,1,19,DET,DET,tov,2,False,True,,Frazier Lost Ball Turnover (P3.T12),90-68,90,68
 0021900148,2019-11-12,MIA,DET,34.68,3,1,19,DET,MIA,steal,2,False,True,steal,steal,90-68,90,68
 0021900148,2019-11-12,MIA,DET,34.7,3,1,18,MIA,MIA,fg_miss,41,True,False,MISS Silva 2' Running Layup,,90-68,90,68
-0021900148,2019-11-12,MIA,DET,34.7,3,1,18,MIA,MIA,reb,0,False,False,HEAT Rebound,,90-68,90,68
 0021900148,2019-11-12,MIA,DET,34.7,3,1,18,MIA,DET,block,41,True,False,block,block,90-68,90,68
+0021900148,2019-11-12,MIA,DET,34.7,3,1,18,MIA,MIA,reb,0,False,False,HEAT Rebound,,90-68,90,68
 0021900148,2019-11-12,MIA,DET,34.72,3,1,17,DET,MIA,foul,1,False,False,Silva P.FOUL (P3.PN) (N.Buchert),,90-68,90,68
 0021900148,2019-11-12,MIA,DET,34.72,3,1,17,MIA,MIA,tov,0,False,False,Silva No Turnover (P2.T14),,90-68,90,68
 0021900148,2019-11-12,MIA,DET,34.72,3,1,17,MIA,DET,ft_make,11,False,False,,Wood Free Throw 1 of 2 (10 PTS),90-69,90,69
@@ -417,8 +417,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900148,2019-11-12,MIA,DET,45.12,4,2,53,DET,DET,fg3_miss,1,False,False,,MISS Morris 3PT Jump Shot,109-97,109,97
 0021900148,2019-11-12,MIA,DET,45.15,4,2,51,DET,DET,reb,0,False,False,,Galloway REBOUND (Off:1 Def:2),109-97,109,97
 0021900148,2019-11-12,MIA,DET,45.22,4,2,47,DET,DET,tov,1,False,True,,Galloway Bad Pass Turnover (P3.T15),109-97,109,97
-0021900148,2019-11-12,MIA,DET,45.22,4,2,47,MIA,DET,foul,1,False,False,,Morris P.FOUL (P4.PN) (B.Forte),109-97,109,97
 0021900148,2019-11-12,MIA,DET,45.22,4,2,47,DET,MIA,steal,1,False,True,steal,steal,109-97,109,97
+0021900148,2019-11-12,MIA,DET,45.22,4,2,47,MIA,DET,foul,1,False,False,,Morris P.FOUL (P4.PN) (B.Forte),109-97,109,97
 0021900148,2019-11-12,MIA,DET,45.22,4,2,47,MIA,MIA,ft_make,11,False,False,Nunn Free Throw 1 of 2 (19 PTS),,110-97,110,97
 0021900148,2019-11-12,MIA,DET,45.22,4,2,47,MIA,MIA,ft_make,12,False,False,Nunn Free Throw 2 of 2 (20 PTS),,111-97,111,97
 0021900148,2019-11-12,MIA,DET,45.43,4,2,34,DET,MIA,foul,2,False,False,Dragic S.FOUL (P2.PN) (N.Buchert),,111-97,111,97

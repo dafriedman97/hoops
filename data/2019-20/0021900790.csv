@@ -53,8 +53,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900790,2020-02-09,HOU,UTA,7.65,1,4,21,UTA,UTA,fg3_make,1,False,False,,Mitchell 26' 3PT Jump Shot (9 PTS) (Clarkson 1 AST),19-18,19,18
 0021900790,2020-02-09,HOU,UTA,7.85,1,4,9,HOU,HOU,fg3_make,1,False,False,Tucker 3PT Jump Shot (3 PTS) (McLemore 1 AST),,22-18,22,18
 0021900790,2020-02-09,HOU,UTA,8.13,1,3,52,UTA,UTA,fg_miss,6,True,False,,MISS Bogdanovic 4' Driving Layup,22-18,22,18
-0021900790,2020-02-09,HOU,UTA,8.13,1,3,52,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,22-18,22,18
 0021900790,2020-02-09,HOU,UTA,8.13,1,3,52,UTA,HOU,block,6,True,False,block,block,22-18,22,18
+0021900790,2020-02-09,HOU,UTA,8.13,1,3,52,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,22-18,22,18
 0021900790,2020-02-09,HOU,UTA,8.35,1,3,39,HOU,HOU,fg3_miss,80,False,False,MISS Harden 26' 3PT Step Back Jump Shot,,22-18,22,18
 0021900790,2020-02-09,HOU,UTA,8.42,1,3,35,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:0 Def:1),22-18,22,18
 0021900790,2020-02-09,HOU,UTA,8.5,1,3,30,UTA,UTA,fg3_miss,1,False,False,,MISS O'Neale 3PT Jump Shot,22-18,22,18
@@ -225,8 +225,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900790,2020-02-09,HOU,UTA,26.43,3,9,34,HOU,HOU,fg_make,76,False,False,Westbrook 1' Running Finger Roll Layup (25 PTS),,67-58,67,58
 0021900790,2020-02-09,HOU,UTA,26.45,3,9,33,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.3 Short 0),67-58,67,58
 0021900790,2020-02-09,HOU,UTA,26.53,3,9,28,UTA,UTA,fg_miss,6,True,False,,MISS Conley 2' Driving Layup,67-58,67,58
-0021900790,2020-02-09,HOU,UTA,26.53,3,9,28,UTA,UTA,reb,0,False,False,,Jazz Rebound,67-58,67,58
 0021900790,2020-02-09,HOU,UTA,26.53,3,9,28,UTA,HOU,block,6,True,False,block,block,67-58,67,58
+0021900790,2020-02-09,HOU,UTA,26.53,3,9,28,UTA,UTA,reb,0,False,False,,Jazz Rebound,67-58,67,58
 0021900790,2020-02-09,HOU,UTA,26.7,3,9,18,UTA,UTA,fg3_make,1,False,False,,Conley 3PT Jump Shot (10 PTS) (Mitchell 5 AST),67-61,67,61
 0021900790,2020-02-09,HOU,UTA,27.02,3,8,59,HOU,HOU,fg_make,52,False,False,House Jr. 1' Alley Oop Dunk (7 PTS) (Harden 6 AST),,69-61,69,61
 0021900790,2020-02-09,HOU,UTA,27.43,3,8,34,UTA,UTA,fg3_miss,79,False,False,,MISS Mitchell 28' 3PT Pullup Jump Shot,69-61,69,61
@@ -332,15 +332,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900790,2020-02-09,HOU,UTA,37.42,4,10,35,HOU,HOU,tov,4,False,False,Rivers Traveling Turnover (P1.T6),,85-85,85,85
 0021900790,2020-02-09,HOU,UTA,37.72,4,10,17,UTA,UTA,fg_make,6,False,False,,Conley 2' Driving Layup (18 PTS),85-87,85,87
 0021900790,2020-02-09,HOU,UTA,37.83,4,10,10,HOU,HOU,fg_miss,101,True,False,MISS Westbrook 4' Driving Floating Jump Shot,,85-87,85,87
-0021900790,2020-02-09,HOU,UTA,37.83,4,10,10,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,85-87,85,87
 0021900790,2020-02-09,HOU,UTA,37.83,4,10,10,HOU,UTA,block,101,True,False,block,block,85-87,85,87
+0021900790,2020-02-09,HOU,UTA,37.83,4,10,10,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,85-87,85,87
 0021900790,2020-02-09,HOU,UTA,37.92,4,10,5,HOU,HOU,fg_miss,5,True,False,MISS Westbrook 5' Layup,,85-87,85,87
 0021900790,2020-02-09,HOU,UTA,37.92,4,10,5,HOU,UTA,block,5,True,False,block,block,85-87,85,87
-0021900790,2020-02-09,HOU,UTA,37.97,4,10,2,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,85-87,85,87
 0021900790,2020-02-09,HOU,UTA,37.97,4,10,2,,HOU,jump_ball,0,False,False,,,85-87,85,87
+0021900790,2020-02-09,HOU,UTA,37.97,4,10,2,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,85-87,85,87
 0021900790,2020-02-09,HOU,UTA,38.1,4,9,54,HOU,HOU,fg_miss,75,True,False,MISS Covington 2' Driving Finger Roll Layup,,85-87,85,87
-0021900790,2020-02-09,HOU,UTA,38.1,4,9,54,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,85-87,85,87
 0021900790,2020-02-09,HOU,UTA,38.1,4,9,54,HOU,UTA,block,75,True,False,block,block,85-87,85,87
+0021900790,2020-02-09,HOU,UTA,38.1,4,9,54,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,85-87,85,87
 0021900790,2020-02-09,HOU,UTA,38.15,4,9,51,HOU,HOU,fg3_miss,1,False,False,MISS Westbrook 25' 3PT Jump Shot,,85-87,85,87
 0021900790,2020-02-09,HOU,UTA,38.22,4,9,47,UTA,UTA,reb,0,False,False,,Morgan REBOUND (Off:1 Def:2),85-87,85,87
 0021900790,2020-02-09,HOU,UTA,38.4,4,9,36,UTA,UTA,fg_make,6,False,False,,Clarkson 1' Driving Layup (23 PTS),85-89,85,89
@@ -352,8 +352,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900790,2020-02-09,HOU,UTA,39.83,4,8,10,UTA,UTA,fg_make,63,False,False,,Clarkson 13' Fadeaway Jumper (27 PTS),88-93,88,93
 0021900790,2020-02-09,HOU,UTA,40.0,4,8,0,HOU,HOU,fg3_make,80,False,False,Harden 27' 3PT Step Back Jump Shot (25 PTS),,91-93,91,93
 0021900790,2020-02-09,HOU,UTA,40.28,4,7,43,UTA,UTA,fg_miss,6,True,False,,MISS Mitchell 3' Driving Layup,91-93,91,93
-0021900790,2020-02-09,HOU,UTA,40.28,4,7,43,UTA,UTA,reb,0,False,False,,Jazz Rebound,91-93,91,93
 0021900790,2020-02-09,HOU,UTA,40.28,4,7,43,UTA,HOU,block,6,True,False,block,block,91-93,91,93
+0021900790,2020-02-09,HOU,UTA,40.28,4,7,43,UTA,UTA,reb,0,False,False,,Jazz Rebound,91-93,91,93
 0021900790,2020-02-09,HOU,UTA,40.35,4,7,39,,HOU,jump_ball,0,False,False,Jump Ball Westbrook vs. Mitchell: Tip to O'Neale,,91-93,91,93
 0021900790,2020-02-09,HOU,UTA,40.42,4,7,35,UTA,UTA,fg3_miss,1,False,False,,MISS Mitchell 29' 3PT Jump Shot,91-93,91,93
 0021900790,2020-02-09,HOU,UTA,40.43,4,7,34,HOU,HOU,reb,0,False,False,McLemore REBOUND (Off:0 Def:3),,91-93,91,93

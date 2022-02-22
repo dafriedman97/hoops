@@ -165,8 +165,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700834,2018-02-11,ATL,DET,18.0,2,6,0,DET,DET,fg_miss,6,False,False,,MISS Griffin 2' Driving Layup,42-38,42,38
 0021700834,2018-02-11,ATL,DET,18.0,2,6,0,DET,DET,reb,0,False,False,,Griffin REBOUND (Off:3 Def:2),42-38,42,38
 0021700834,2018-02-11,ATL,DET,18.0,2,6,0,DET,DET,fg_miss,72,True,False,,MISS Griffin 2' Putback Layup,42-38,42,38
-0021700834,2018-02-11,ATL,DET,18.0,2,6,0,ATL,ATL,reb,0,False,False,HAWKS Rebound,,42-38,42,38
 0021700834,2018-02-11,ATL,DET,18.0,2,6,0,DET,ATL,block,72,True,False,block,block,42-38,42,38
+0021700834,2018-02-11,ATL,DET,18.0,2,6,0,ATL,ATL,reb,0,False,False,HAWKS Rebound,,42-38,42,38
 0021700834,2018-02-11,ATL,DET,18.13,2,5,52,ATL,DET,foul,1,False,False,,Tolliver P.FOUL (P1.T4) (M.Smith),42-38,42,38
 0021700834,2018-02-11,ATL,DET,18.28,2,5,43,ATL,ATL,fg_make,9,False,False,Dedmon 1' Driving Dunk (7 PTS) (Schroder 3 AST),,44-38,44,38
 0021700834,2018-02-11,ATL,DET,18.38,2,5,37,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.1 Short 0),44-38,44,38
@@ -206,6 +206,7 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700834,2018-02-11,ATL,DET,22.1,2,1,54,DET,DET,fg3_miss,80,False,False,,MISS Griffin 26' 3PT Step Back Jump Shot,52-46,52,46
 0021700834,2018-02-11,ATL,DET,22.17,2,1,50,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:1 Def:4),52-46,52,46
 0021700834,2018-02-11,ATL,DET,22.17,2,1,50,DET,DET,fg_miss,72,True,False,,MISS Drummond 1' Putback Layup,52-46,52,46
+0021700834,2018-02-11,ATL,DET,22.17,2,1,50,DET,ATL,block,72,True,False,block,block,52-46,52,46
 0021700834,2018-02-11,ATL,DET,22.17,2,1,50,ATL,ATL,reb,0,False,False,Dedmon REBOUND (Off:1 Def:6),,52-46,52,46
 0021700834,2018-02-11,ATL,DET,22.17,2,1,50,ATL,DET,foul,1,False,False,,Griffin P.FOUL (P2.PN) (M.Smith),52-46,52,46
 0021700834,2018-02-11,ATL,DET,22.17,2,1,50,ATL,DET,foul,11,False,False,,Griffin T.FOUL (P2.PN) (M.Smith),52-46,52,46
@@ -214,7 +215,6 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700834,2018-02-11,ATL,DET,22.17,2,1,50,ATL,ATL,ft_miss,11,False,False,MISS Dedmon Free Throw 1 of 2,,52-46,52,46
 0021700834,2018-02-11,ATL,DET,22.17,2,1,50,ATL,ATL,reb,1,False,False,HAWKS Rebound,,52-46,52,46
 0021700834,2018-02-11,ATL,DET,22.17,2,1,50,ATL,,violation,1,False,False,,,52-46,52,46
-0021700834,2018-02-11,ATL,DET,22.17,2,1,50,DET,ATL,block,72,True,False,block,block,52-46,52,46
 0021700834,2018-02-11,ATL,DET,22.17,2,1,50,ATL,ATL,ft_make,12,False,False,Dedmon Free Throw 2 of 2 (8 PTS),,53-46,53,46
 0021700834,2018-02-11,ATL,DET,22.32,2,1,41,DET,DET,fg3_make,1,False,False,,Bullock 25' 3PT Jump Shot (11 PTS) (Smith 4 AST),53-49,53,49
 0021700834,2018-02-11,ATL,DET,22.5,2,1,30,ATL,ATL,fg3_miss,1,False,False,MISS Prince 28' 3PT Jump Shot,,53-49,53,49
@@ -267,8 +267,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700834,2018-02-11,ATL,DET,28.42,3,7,35,ATL,ATL,ft_make,14,False,False,Ilyasova Free Throw 2 of 3 (14 PTS),,63-62,63,62
 0021700834,2018-02-11,ATL,DET,28.42,3,7,35,ATL,ATL,ft_make,15,False,False,Ilyasova Free Throw 3 of 3 (15 PTS),,64-62,64,62
 0021700834,2018-02-11,ATL,DET,28.6,3,7,24,DET,DET,tov,2,False,True,,Bullock Lost Ball Turnover (P3.T11),64-62,64,62
-0021700834,2018-02-11,ATL,DET,28.6,3,7,24,ATL,DET,foul,1,False,False,,Ennis III P.FOUL (P2.PN) (M.Ervin),64-62,64,62
 0021700834,2018-02-11,ATL,DET,28.6,3,7,24,DET,ATL,steal,2,False,True,steal,steal,64-62,64,62
+0021700834,2018-02-11,ATL,DET,28.6,3,7,24,ATL,DET,foul,1,False,False,,Ennis III P.FOUL (P2.PN) (M.Ervin),64-62,64,62
 0021700834,2018-02-11,ATL,DET,28.7,3,7,18,DET,ATL,foul,4,False,False,Bazemore OFF.Foul (P3) (M.Smith),,64-62,64,62
 0021700834,2018-02-11,ATL,DET,28.7,3,7,18,ATL,ATL,tov,37,False,False,Bazemore Offensive Foul Turnover (P3.T9),,64-62,64,62
 0021700834,2018-02-11,ATL,DET,28.83,3,7,10,DET,ATL,violation,5,False,False,Schroder Violation:Kicked Ball (M.Smith),,64-62,64,62
@@ -340,8 +340,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700834,2018-02-11,ATL,DET,35.1,3,0,54,DET,DET,reb,0,False,False,,Ennis III REBOUND (Off:2 Def:2),82-76,82,76
 0021700834,2018-02-11,ATL,DET,35.23,3,0,46,DET,DET,fg_make,6,False,False,,Nelson 1' Driving Layup (4 PTS) (Ennis III 1 AST),82-78,82,78
 0021700834,2018-02-11,ATL,DET,35.57,3,0,26,ATL,ATL,fg_miss,6,True,False,MISS Muscala 1' Driving Layup,,82-78,82,78
-0021700834,2018-02-11,ATL,DET,35.57,3,0,26,ATL,ATL,reb,0,False,False,HAWKS Rebound,,82-78,82,78
 0021700834,2018-02-11,ATL,DET,35.57,3,0,26,ATL,DET,block,6,True,False,block,block,82-78,82,78
+0021700834,2018-02-11,ATL,DET,35.57,3,0,26,ATL,ATL,reb,0,False,False,HAWKS Rebound,,82-78,82,78
 0021700834,2018-02-11,ATL,DET,35.58,3,0,25,ATL,ATL,fg_miss,1,False,False,MISS Collins 19' Jump Shot,,82-78,82,78
 0021700834,2018-02-11,ATL,DET,35.67,3,0,20,DET,DET,reb,0,False,False,,Nelson REBOUND (Off:1 Def:1),82-78,82,78
 0021700834,2018-02-11,ATL,DET,35.72,3,0,17,DET,DET,fg_make,74,False,False,,Ennis III 2' Running Reverse Layup (11 PTS) (Nelson 2 AST),82-80,82,80
@@ -383,8 +383,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700834,2018-02-11,ATL,DET,40.27,4,7,44,ATL,ATL,ft_make,12,False,False,Bazemore Free Throw 2 of 2 (10 PTS),,91-96,91,96
 0021700834,2018-02-11,ATL,DET,40.48,4,7,31,DET,DET,fg_make,79,False,False,,Kennard 9' Pullup Jump Shot (5 PTS) (Tolliver 4 AST),89-96,89,96
 0021700834,2018-02-11,ATL,DET,40.85,4,7,9,ATL,ATL,fg_make,7,False,False,Collins 3' Dunk (7 PTS) (Bazemore 4 AST),,93-96,93,96
-0021700834,2018-02-11,ATL,DET,41.15,4,6,51,ATL,ATL,timeout,1,False,False,HAWKS Timeout: Regular (Full 5 Short 0),,93-96,93,96
 0021700834,2018-02-11,ATL,DET,41.15,4,6,51,DET,ATL,foul,1,False,False,Dorsey P.FOUL (P2.T4) (B.Adams),,93-96,93,96
+0021700834,2018-02-11,ATL,DET,41.15,4,6,51,ATL,ATL,timeout,1,False,False,HAWKS Timeout: Regular (Full 5 Short 0),,93-96,93,96
 0021700834,2018-02-11,ATL,DET,41.28,4,6,43,DET,DET,fg3_make,1,False,False,,Johnson 25' 3PT Jump Shot (6 PTS) (Griffin 6 AST),93-99,93,99
 0021700834,2018-02-11,ATL,DET,41.72,4,6,17,ATL,ATL,fg_make,3,False,False,Collins 13' Hook Shot (9 PTS) (Dorsey 1 AST),,95-99,95,99
 0021700834,2018-02-11,ATL,DET,41.95,4,6,3,DET,ATL,foul,2,False,False,Bazemore S.FOUL (P4.PN) (M.Ervin),,95-99,95,99
@@ -418,8 +418,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700834,2018-02-11,ATL,DET,44.58,4,3,25,DET,DET,ft_make,11,False,False,,Griffin Free Throw 1 of 2 (14 PTS),102-104,102,104
 0021700834,2018-02-11,ATL,DET,44.58,4,3,25,DET,DET,ft_make,12,False,False,,Griffin Free Throw 2 of 2 (15 PTS),102-105,102,105
 0021700834,2018-02-11,ATL,DET,44.83,4,3,10,ATL,ATL,fg_miss,101,True,False,MISS Schroder 8' Driving Floating Jump Shot,,102-105,102,105
-0021700834,2018-02-11,ATL,DET,44.83,4,3,10,ATL,ATL,reb,0,False,False,HAWKS Rebound,,102-105,102,105
 0021700834,2018-02-11,ATL,DET,44.83,4,3,10,ATL,DET,block,101,True,False,block,block,102-105,102,105
+0021700834,2018-02-11,ATL,DET,44.83,4,3,10,ATL,ATL,reb,0,False,False,HAWKS Rebound,,102-105,102,105
 0021700834,2018-02-11,ATL,DET,44.95,4,3,3,ATL,ATL,fg_miss,6,False,False,MISS Bazemore 8' Driving Layup,,102-105,102,105
 0021700834,2018-02-11,ATL,DET,45.0,4,3,0,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:5 Def:10),102-105,102,105
 0021700834,2018-02-11,ATL,DET,45.18,4,2,49,DET,DET,tov,2,False,True,,Griffin Lost Ball Turnover (P2.T15),102-105,102,105
@@ -430,8 +430,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700834,2018-02-11,ATL,DET,46.18,4,1,49,DET,DET,fg_miss,1,False,False,,MISS Griffin 22' Jump Shot,106-107,106,107
 0021700834,2018-02-11,ATL,DET,46.23,4,1,46,ATL,ATL,reb,0,False,False,Dedmon REBOUND (Off:1 Def:11),,106-107,106,107
 0021700834,2018-02-11,ATL,DET,46.43,4,1,34,ATL,ATL,fg_miss,6,True,False,MISS Schroder 1' Driving Layup,,106-107,106,107
-0021700834,2018-02-11,ATL,DET,46.43,4,1,34,ATL,ATL,reb,0,False,False,Dedmon REBOUND (Off:2 Def:11),,106-107,106,107
 0021700834,2018-02-11,ATL,DET,46.43,4,1,34,ATL,DET,block,6,True,False,block,block,106-107,106,107
+0021700834,2018-02-11,ATL,DET,46.43,4,1,34,ATL,ATL,reb,0,False,False,Dedmon REBOUND (Off:2 Def:11),,106-107,106,107
 0021700834,2018-02-11,ATL,DET,46.43,4,1,34,ATL,ATL,fg_make,72,False,False,Dedmon 1' Putback Layup (16 PTS),,108-107,108,107
 0021700834,2018-02-11,ATL,DET,46.43,4,1,34,ATL,DET,foul,2,False,False,,Smith S.FOUL (P5.T4) (M.Ervin),108-107,108,107
 0021700834,2018-02-11,ATL,DET,46.43,4,1,34,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.3 Short 0),108-107,108,107

@@ -30,10 +30,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800119,2018-11-02,WAS,OKC,3.75,1,8,15,OKC,OKC,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:1),17-9,17,9
 0021800119,2018-11-02,WAS,OKC,3.85,1,8,9,OKC,OKC,fg3_make,1,False,False,,Grant 27' 3PT Jump Shot (5 PTS) (Westbrook 4 AST),17-12,17,12
 0021800119,2018-11-02,WAS,OKC,4.05,1,7,57,WAS,WAS,fg_miss,44,True,False,MISS Morris 2' Reverse Layup,,17-12,17,12
+0021800119,2018-11-02,WAS,OKC,4.05,1,7,57,WAS,OKC,block,44,True,False,block,block,17-12,17,12
 0021800119,2018-11-02,WAS,OKC,4.05,1,7,57,OKC,OKC,reb,0,False,False,,Thunder Rebound,17-12,17,12
 0021800119,2018-11-02,WAS,OKC,4.05,1,7,57,OKC,WAS,foul,3,False,False,Howard L.B.FOUL (P1.T1) (J.Capers),,17-12,17,12
 0021800119,2018-11-02,WAS,OKC,4.05,1,7,57,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.1 Short 0),17-12,17,12
-0021800119,2018-11-02,WAS,OKC,4.05,1,7,57,WAS,OKC,block,44,True,False,block,block,17-12,17,12
 0021800119,2018-11-02,WAS,OKC,4.28,1,7,43,OKC,OKC,fg3_make,1,False,False,,Grant 26' 3PT Jump Shot (8 PTS) (George 1 AST),17-15,17,15
 0021800119,2018-11-02,WAS,OKC,4.58,1,7,25,WAS,WAS,fg_make,79,False,False,Howard 16' Pullup Jump Shot (7 PTS) (Wall 3 AST),,19-15,19,15
 0021800119,2018-11-02,WAS,OKC,4.75,1,7,15,OKC,OKC,tov,45,False,False,,Westbrook Out of Bounds - Bad Pass Turnover Turnover (P1.T2),19-15,19,15
@@ -266,8 +266,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800119,2018-11-02,WAS,OKC,28.95,3,7,3,OKC,OKC,fg_make,102,False,False,,Schroder 5' Driving Floating Bank Jump Shot (5 PTS) (George 7 AST),63-91,63,91
 0021800119,2018-11-02,WAS,OKC,29.15,3,6,51,WAS,WAS,fg_make,105,False,False,Beal 12' Turnaround Fadeaway Bank Jump Shot (20 PTS),,65-91,65,91
 0021800119,2018-11-02,WAS,OKC,29.52,3,6,29,OKC,OKC,tov,2,False,True,,Adams Lost Ball Turnover (P1.T8),65-91,65,91
-0021800119,2018-11-02,WAS,OKC,29.52,3,6,29,WAS,OKC,foul,1,False,False,,Adams P.FOUL (P4.PN) (J.Capers),65-91,65,91
 0021800119,2018-11-02,WAS,OKC,29.52,3,6,29,OKC,WAS,steal,2,False,True,steal,steal,65-91,65,91
+0021800119,2018-11-02,WAS,OKC,29.52,3,6,29,WAS,OKC,foul,1,False,False,,Adams P.FOUL (P4.PN) (J.Capers),65-91,65,91
 0021800119,2018-11-02,WAS,OKC,29.68,3,6,19,WAS,OKC,foul,2,False,False,,Schroder S.FOUL (P1.PN) (A.Smith),65-91,65,91
 0021800119,2018-11-02,WAS,OKC,29.68,3,6,19,WAS,WAS,ft_make,11,False,False,Howard Free Throw 1 of 2 (20 PTS),,66-91,66,91
 0021800119,2018-11-02,WAS,OKC,29.68,3,6,19,WAS,WAS,ft_miss,12,False,False,MISS Howard Free Throw 2 of 2,,66-91,66,91
@@ -419,9 +419,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800119,2018-11-02,WAS,OKC,46.88,4,1,7,WAS,WAS,fg_miss,3,False,False,MISS Smith 5' Hook Shot,,108-134,108,134
 0021800119,2018-11-02,WAS,OKC,46.92,4,1,5,OKC,OKC,reb,0,False,False,,Diallo REBOUND (Off:1 Def:3),108-134,108,134
 0021800119,2018-11-02,WAS,OKC,46.95,4,1,3,OKC,OKC,fg_miss,6,True,False,,MISS Diallo 4' Driving Layup,108-134,108,134
-0021800119,2018-11-02,WAS,OKC,46.95,4,1,3,,WAS,jump_ball,0,False,False,Jump Ball Rivers vs. Luwawu-Cabarrot: Tip to Luwawu-Cabarrot,,108-134,108,134
-0021800119,2018-11-02,WAS,OKC,46.95,4,1,3,OKC,OKC,reb,0,False,False,,Thunder Rebound,108-134,108,134
 0021800119,2018-11-02,WAS,OKC,46.95,4,1,3,OKC,WAS,block,6,True,False,block,block,108-134,108,134
+0021800119,2018-11-02,WAS,OKC,46.95,4,1,3,OKC,OKC,reb,0,False,False,,Thunder Rebound,108-134,108,134
+0021800119,2018-11-02,WAS,OKC,46.95,4,1,3,,WAS,jump_ball,0,False,False,Jump Ball Rivers vs. Luwawu-Cabarrot: Tip to Luwawu-Cabarrot,,108-134,108,134
 0021800119,2018-11-02,WAS,OKC,47.05,4,0,57,OKC,OKC,tov,4,False,False,,Nader Traveling Turnover (P1.T13),108-134,108,134
 0021800119,2018-11-02,WAS,OKC,47.18,4,0,49,WAS,WAS,fg3_make,1,False,False,Brown Jr. 27' 3PT Jump Shot (7 PTS) (Satoransky 6 AST),,111-134,111,134
 0021800119,2018-11-02,WAS,OKC,47.18,4,0,49,WAS,WAS,fg3_make,1,False,False,Brown Jr. 27' 3PT Jump Shot (7 PTS) (Satoransky 6 AST),,111-134,111,134

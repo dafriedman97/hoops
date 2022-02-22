@@ -19,8 +19,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000581,2021-03-12,NOP,CLE,2.05,1,9,57,NOP,NOP,tov,1,False,True,Bledsoe Bad Pass Turnover (P1.T1),,4-3,4,3
 0022000581,2021-03-12,NOP,CLE,2.05,1,9,57,NOP,CLE,steal,1,False,True,steal,steal,4-3,4,3
 0022000581,2021-03-12,NOP,CLE,2.12,1,9,53,CLE,CLE,fg_miss,6,True,False,,MISS Sexton 1' Driving Layup,4-3,4,3
-0022000581,2021-03-12,NOP,CLE,2.12,1,9,53,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,4-3,4,3
 0022000581,2021-03-12,NOP,CLE,2.12,1,9,53,CLE,NOP,block,6,True,False,block,block,4-3,4,3
+0022000581,2021-03-12,NOP,CLE,2.12,1,9,53,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,4-3,4,3
 0022000581,2021-03-12,NOP,CLE,2.23,1,9,46,CLE,CLE,fg3_make,1,False,False,,Love 25' 3PT Jump Shot (3 PTS) (Nance Jr. 1 AST),4-6,4,6
 0022000581,2021-03-12,NOP,CLE,2.42,1,9,35,NOP,NOP,fg3_make,1,False,False,Ingram 26' 3PT Jump Shot (3 PTS) (Bledsoe 1 AST),,7-6,7,6
 0022000581,2021-03-12,NOP,CLE,2.83,1,9,10,CLE,CLE,fg_make,5,False,False,,Nance Jr. 2' Layup (5 PTS),7-8,7,8
@@ -123,8 +123,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000581,2021-03-12,NOP,CLE,13.12,2,10,53,CLE,CLE,ft_make,10,False,False,,McGee Free Throw 1 of 1 (3 PTS),38-34,38,34
 0022000581,2021-03-12,NOP,CLE,13.32,2,10,41,NOP,NOP,fg_make,1,False,False,Alexander-Walker 16' Jump Shot (2 PTS),,40-34,40,34
 0022000581,2021-03-12,NOP,CLE,13.53,2,10,28,CLE,CLE,fg_miss,6,False,False,,MISS McGee 3' Driving Layup,40-34,40,34
-0022000581,2021-03-12,NOP,CLE,13.6,2,10,24,CLE,CLE,fg_miss,97,False,False,,MISS Windler Tip Layup Shot,40-34,40,34
 0022000581,2021-03-12,NOP,CLE,13.6,2,10,24,CLE,CLE,reb,0,False,False,,Windler REBOUND (Off:1 Def:2),40-34,40,34
+0022000581,2021-03-12,NOP,CLE,13.6,2,10,24,CLE,CLE,fg_miss,97,False,False,,MISS Windler Tip Layup Shot,40-34,40,34
 0022000581,2021-03-12,NOP,CLE,13.62,2,10,23,NOP,NOP,reb,0,False,False,Alexander-Walker REBOUND (Off:0 Def:4),,40-34,40,34
 0022000581,2021-03-12,NOP,CLE,13.72,2,10,17,NOP,NOP,fg3_miss,1,False,False,MISS Alexander-Walker 3PT Jump Shot,,40-34,40,34
 0022000581,2021-03-12,NOP,CLE,13.77,2,10,14,CLE,CLE,reb,0,False,False,,McGee REBOUND (Off:1 Def:1),40-34,40,34
@@ -347,8 +347,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000581,2021-03-12,NOP,CLE,37.38,4,10,37,CLE,CLE,fg_miss,6,False,False,,MISS Okoro 2' Driving Layup,95-58,95,58
 0022000581,2021-03-12,NOP,CLE,37.42,4,10,35,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:0 Def:3),,95-58,95,58
 0022000581,2021-03-12,NOP,CLE,37.48,4,10,31,NOP,NOP,fg_miss,5,True,False,MISS Melli 3' Layup,,95-58,95,58
-0022000581,2021-03-12,NOP,CLE,37.48,4,10,31,NOP,NOP,reb,0,False,False,Melli REBOUND (Off:1 Def:1),,95-58,95,58
 0022000581,2021-03-12,NOP,CLE,37.48,4,10,31,NOP,CLE,block,5,True,False,block,block,95-58,95,58
+0022000581,2021-03-12,NOP,CLE,37.48,4,10,31,NOP,NOP,reb,0,False,False,Melli REBOUND (Off:1 Def:1),,95-58,95,58
 0022000581,2021-03-12,NOP,CLE,37.78,4,10,13,NOP,NOP,fg_miss,73,False,False,MISS Hart 2' Driving Reverse Layup,,95-58,95,58
 0022000581,2021-03-12,NOP,CLE,37.83,4,10,10,CLE,CLE,reb,0,False,False,,Osman REBOUND (Off:0 Def:1),95-58,95,58
 0022000581,2021-03-12,NOP,CLE,37.87,4,10,8,CLE,CLE,fg_miss,6,False,False,,MISS Sexton 1' Driving Layup,95-58,95,58
@@ -390,8 +390,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000581,2021-03-12,NOP,CLE,41.55,4,6,27,NOP,NOP,fg3_miss,1,False,False,MISS Melli 25' 3PT Jump Shot,,102-62,102,62
 0022000581,2021-03-12,NOP,CLE,41.58,4,6,25,NOP,NOP,reb,0,False,False,PELICANS Rebound,,102-62,102,62
 0022000581,2021-03-12,NOP,CLE,41.72,4,6,17,NOP,NOP,fg_miss,5,False,False,MISS Lewis Jr. 2' Layup,,102-62,102,62
-0022000581,2021-03-12,NOP,CLE,41.73,4,6,16,NOP,NOP,reb,0,False,False,Lewis Jr. REBOUND (Off:1 Def:1),,102-62,102,62
 0022000581,2021-03-12,NOP,CLE,41.73,4,6,16,NOP,NOP,fg_miss,97,False,False,MISS Lewis Jr. 3' Tip Layup Shot,,102-62,102,62
+0022000581,2021-03-12,NOP,CLE,41.73,4,6,16,NOP,NOP,reb,0,False,False,Lewis Jr. REBOUND (Off:1 Def:1),,102-62,102,62
 0022000581,2021-03-12,NOP,CLE,41.8,4,6,12,CLE,CLE,reb,0,False,False,,Windler REBOUND (Off:1 Def:3),102-62,102,62
 0022000581,2021-03-12,NOP,CLE,41.93,4,6,4,CLE,CLE,fg_make,66,False,False,,Windler 10' Jump Bank Shot (6 PTS),102-64,102,64
 0022000581,2021-03-12,NOP,CLE,42.2,4,5,48,NOP,NOP,fg_make,80,False,False,Alexander-Walker 18' Step Back Jump Shot (13 PTS),,104-64,104,64
@@ -402,8 +402,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000581,2021-03-12,NOP,CLE,43.67,4,4,20,NOP,NOP,fg_miss,1,False,False,MISS Thornwell 20' Jump Shot,,106-69,106,69
 0022000581,2021-03-12,NOP,CLE,43.68,4,4,19,NOP,NOP,reb,0,False,False,Hernangomez REBOUND (Off:1 Def:0),,106-69,106,69
 0022000581,2021-03-12,NOP,CLE,43.68,4,4,19,NOP,NOP,fg_miss,97,False,False,MISS Hernangomez 1' Tip Layup Shot,,106-69,106,69
-0022000581,2021-03-12,NOP,CLE,43.7,4,4,18,NOP,NOP,reb,0,False,False,PELICANS Rebound,,106-69,106,69
 0022000581,2021-03-12,NOP,CLE,43.7,4,4,18,NOP,NOP,tov,11,False,False,PELICANS Turnover: Shot Clock (T#12),,106-69,106,69
+0022000581,2021-03-12,NOP,CLE,43.7,4,4,18,NOP,NOP,reb,0,False,False,PELICANS Rebound,,106-69,106,69
 0022000581,2021-03-12,NOP,CLE,43.93,4,4,4,CLE,CLE,fg_miss,1,True,False,,MISS McGee 7' Jump Shot,106-69,106,69
 0022000581,2021-03-12,NOP,CLE,43.93,4,4,4,CLE,NOP,block,1,True,False,block,block,106-69,106,69
 0022000581,2021-03-12,NOP,CLE,44.0,4,4,0,NOP,NOP,reb,0,False,False,Thornwell REBOUND (Off:0 Def:1),,106-69,106,69
@@ -436,8 +436,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000581,2021-03-12,NOP,CLE,46.03,4,1,58,CLE,CLE,ft_miss,12,False,False,,MISS Stevens Free Throw 2 of 2,110-77,110,77
 0022000581,2021-03-12,NOP,CLE,46.07,4,1,56,CLE,CLE,reb,0,False,False,,Wade REBOUND (Off:1 Def:0),110-77,110,77
 0022000581,2021-03-12,NOP,CLE,46.27,4,1,44,CLE,CLE,fg3_miss,1,False,False,,MISS Windler 3PT Jump Shot,110-77,110,77
-0022000581,2021-03-12,NOP,CLE,46.38,4,1,37,CLE,CLE,fg_miss,97,False,False,,MISS Cook Tip Layup Shot,110-77,110,77
 0022000581,2021-03-12,NOP,CLE,46.38,4,1,37,CLE,CLE,reb,0,False,False,,Cook REBOUND (Off:1 Def:3),110-77,110,77
+0022000581,2021-03-12,NOP,CLE,46.38,4,1,37,CLE,CLE,fg_miss,97,False,False,,MISS Cook Tip Layup Shot,110-77,110,77
 0022000581,2021-03-12,NOP,CLE,46.4,4,1,36,NOP,NOP,reb,0,False,False,Hernangomez REBOUND (Off:4 Def:1),,110-77,110,77
 0022000581,2021-03-12,NOP,CLE,46.58,4,1,25,NOP,CLE,foul,2,False,False,,Thomas S.FOUL (P1.T4) (J.Capers),110-77,110,77
 0022000581,2021-03-12,NOP,CLE,46.58,4,1,25,NOP,NOP,ft_make,11,False,False,Gabriel Free Throw 1 of 2 (1 PTS),,111-77,111,77

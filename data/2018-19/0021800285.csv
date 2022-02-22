@@ -67,8 +67,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800285,2018-11-24,GSW,SAC,6.68,1,5,19,GSW,GSW,fg3_miss,1,False,False,MISS Cook 27' 3PT Jump Shot,,16-11,16,11
 0021800285,2018-11-24,GSW,SAC,6.72,1,5,17,SAC,SAC,reb,0,False,False,,Bagley III REBOUND (Off:0 Def:1),16-11,16,11
 0021800285,2018-11-24,GSW,SAC,6.85,1,5,9,SAC,SAC,fg_miss,1,False,False,,MISS Bagley III 7' Jump Shot,16-11,16,11
-0021800285,2018-11-24,GSW,SAC,6.87,1,5,8,SAC,SAC,fg_miss,97,True,False,,MISS Hield 1' Tip Layup Shot,16-11,16,11
 0021800285,2018-11-24,GSW,SAC,6.87,1,5,8,SAC,SAC,reb,0,False,False,,Hield REBOUND (Off:1 Def:1),16-11,16,11
+0021800285,2018-11-24,GSW,SAC,6.87,1,5,8,SAC,SAC,fg_miss,97,True,False,,MISS Hield 1' Tip Layup Shot,16-11,16,11
 0021800285,2018-11-24,GSW,SAC,6.87,1,5,8,SAC,GSW,block,97,True,False,block,block,16-11,16,11
 0021800285,2018-11-24,GSW,SAC,6.88,1,5,7,SAC,SAC,reb,0,False,False,,Hield REBOUND (Off:2 Def:1),16-11,16,11
 0021800285,2018-11-24,GSW,SAC,6.93,1,5,4,SAC,GSW,foul,2,False,False,Jones S.FOUL (P1.T4) (J.Williams),,16-11,16,11
@@ -193,8 +193,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800285,2018-11-24,GSW,SAC,19.28,2,4,43,GSW,GSW,fg3_miss,79,False,False,MISS Durant 28' 3PT Pullup Jump Shot,,48-55,48,55
 0021800285,2018-11-24,GSW,SAC,19.32,2,4,41,SAC,SAC,reb,0,False,False,,Hield REBOUND (Off:2 Def:2),48-55,48,55
 0021800285,2018-11-24,GSW,SAC,19.37,2,4,38,SAC,SAC,tov,1,False,True,,Hield Bad Pass Turnover (P1.T3),48-55,48,55
-0021800285,2018-11-24,GSW,SAC,19.37,2,4,38,GSW,SAC,foul,1,False,False,,Hield P.FOUL (P1.PN) (J.Williams),48-55,48,55
 0021800285,2018-11-24,GSW,SAC,19.37,2,4,38,SAC,GSW,steal,1,False,True,steal,steal,48-55,48,55
+0021800285,2018-11-24,GSW,SAC,19.37,2,4,38,GSW,SAC,foul,1,False,False,,Hield P.FOUL (P1.PN) (J.Williams),48-55,48,55
 0021800285,2018-11-24,GSW,SAC,19.37,2,4,38,GSW,GSW,ft_make,11,False,False,Iguodala Free Throw 1 of 2 (1 PTS),,49-55,49,55
 0021800285,2018-11-24,GSW,SAC,19.37,2,4,38,GSW,GSW,ft_miss,12,False,False,MISS Iguodala Free Throw 2 of 2,,49-55,49,55
 0021800285,2018-11-24,GSW,SAC,19.38,2,4,37,GSW,GSW,reb,0,False,False,Bell REBOUND (Off:1 Def:0),,49-55,49,55
@@ -427,8 +427,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800285,2018-11-24,GSW,SAC,44.8,4,3,12,GSW,GSW,fg3_miss,1,False,False,MISS Thompson 27' 3PT Jump Shot,,113-111,113,111
 0021800285,2018-11-24,GSW,SAC,44.83,4,3,10,SAC,SAC,reb,0,False,False,,Bagley III REBOUND (Off:5 Def:8),113-111,113,111
 0021800285,2018-11-24,GSW,SAC,44.98,4,3,1,SAC,SAC,fg_miss,1,True,False,,MISS Fox 5' Jump Shot,113-111,113,111
-0021800285,2018-11-24,GSW,SAC,44.98,4,3,1,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,113-111,113,111
 0021800285,2018-11-24,GSW,SAC,44.98,4,3,1,SAC,GSW,block,1,True,False,block,block,113-111,113,111
+0021800285,2018-11-24,GSW,SAC,44.98,4,3,1,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,113-111,113,111
 0021800285,2018-11-24,GSW,SAC,45.28,4,2,43,GSW,GSW,fg3_miss,1,False,False,MISS Iguodala 3PT Jump Shot,,113-111,113,111
 0021800285,2018-11-24,GSW,SAC,45.32,4,2,41,SAC,SAC,reb,0,False,False,,Bagley III REBOUND (Off:5 Def:9),113-111,113,111
 0021800285,2018-11-24,GSW,SAC,45.57,4,2,26,SAC,SAC,fg_make,6,False,False,,Hield 3' Driving Layup (28 PTS) (Cauley-Stein 1 AST),113-113,113,113
@@ -467,6 +467,6 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800285,2018-11-24,GSW,SAC,47.95,4,0,3,SAC,SAC,fg_miss,97,False,False,,MISS Bagley III 1' Tip Layup Shot,117-116,117,116
 0021800285,2018-11-24,GSW,SAC,47.97,4,0,2,SAC,SAC,reb,0,False,False,,Kings Rebound,117-116,117,116
 0021800285,2018-11-24,GSW,SAC,48.0,4,0,0,,GSW,jump_ball,0,False,False,Jump Ball Durant vs. Cauley-Stein: Tip to Hield,,117-116,117,116
-0021800285,2018-11-24,GSW,SAC,48.0,4,0,0,SAC,SAC,timeout,1,False,False,,Kings Timeout: Regular (Reg.6 Short 0),117-116,117,116
 0021800285,2018-11-24,GSW,SAC,48.0,4,0,0,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 6 Short 0),,117-116,117,116
+0021800285,2018-11-24,GSW,SAC,48.0,4,0,0,SAC,SAC,timeout,1,False,False,,Kings Timeout: Regular (Reg.6 Short 0),117-116,117,116
 0021800285,2018-11-24,GSW,SAC,48.0,4,0,0,GSW,,period_end,0,False,False,,,117-116,117,116

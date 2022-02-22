@@ -177,8 +177,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000583,2021-03-12,SAS,ORL,21.15,2,2,51,SAS,SAS,reb,0,False,False,Walker IV REBOUND (Off:0 Def:4),,37-37,37,37
 0022000583,2021-03-12,SAS,ORL,21.23,2,2,46,SAS,SAS,fg_make,78,False,False,Murray 9' Floating Jump Shot (10 PTS),,39-37,39,37
 0022000583,2021-03-12,SAS,ORL,21.43,2,2,34,ORL,ORL,fg_miss,3,True,False,,MISS Vucevic 8' Hook Shot,39-37,39,37
-0022000583,2021-03-12,SAS,ORL,21.43,2,2,34,SAS,SAS,reb,0,False,False,SPURS Rebound,,39-37,39,37
 0022000583,2021-03-12,SAS,ORL,21.43,2,2,34,ORL,SAS,block,3,True,False,block,block,39-37,39,37
+0022000583,2021-03-12,SAS,ORL,21.43,2,2,34,SAS,SAS,reb,0,False,False,SPURS Rebound,,39-37,39,37
 0022000583,2021-03-12,SAS,ORL,21.63,2,2,22,SAS,SAS,fg_miss,79,False,False,MISS Murray 18' Pullup Jump Shot,,39-37,39,37
 0022000583,2021-03-12,SAS,ORL,21.68,2,2,19,SAS,SAS,reb,0,False,False,Johnson REBOUND (Off:1 Def:2),,39-37,39,37
 0022000583,2021-03-12,SAS,ORL,21.78,2,2,13,SAS,SAS,fg_miss,101,True,False,MISS White 8' Driving Floating Jump Shot,,39-37,39,37
@@ -190,10 +190,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000583,2021-03-12,SAS,ORL,22.07,2,1,56,SAS,SAS,reb,0,False,False,Johnson REBOUND (Off:1 Def:3),,39-37,39,37
 0022000583,2021-03-12,SAS,ORL,22.2,2,1,48,SAS,SAS,fg_make,7,False,False,Johnson 1' Dunk (11 PTS) (White 1 AST),,41-37,41,37
 0022000583,2021-03-12,SAS,ORL,22.33,2,1,40,ORL,ORL,tov,2,False,True,,Carter-Williams Lost Ball Turnover (P4.T11),41-37,41,37
+0022000583,2021-03-12,SAS,ORL,22.33,2,1,40,ORL,SAS,steal,2,False,True,steal,steal,41-37,41,37
 0022000583,2021-03-12,SAS,ORL,22.33,2,1,40,SAS,ORL,foul,1,False,False,,Carter-Williams P.FOUL (P2.PN) (T.Washington),41-37,41,37
 0022000583,2021-03-12,SAS,ORL,22.33,2,1,40,SAS,SAS,ft_miss,11,False,False,MISS Mills Free Throw 1 of 2,,41-37,41,37
 0022000583,2021-03-12,SAS,ORL,22.33,2,1,40,SAS,SAS,reb,1,False,False,SPURS Rebound,,41-37,41,37
-0022000583,2021-03-12,SAS,ORL,22.33,2,1,40,ORL,SAS,steal,2,False,True,steal,steal,41-37,41,37
 0022000583,2021-03-12,SAS,ORL,22.33,2,1,40,SAS,SAS,ft_make,12,False,False,Mills Free Throw 2 of 2 (4 PTS),,42-37,42,37
 0022000583,2021-03-12,SAS,ORL,22.55,2,1,27,ORL,ORL,tov,2,False,True,,Randle Lost Ball Turnover (P1.T12),42-37,42,37
 0022000583,2021-03-12,SAS,ORL,22.55,2,1,27,ORL,SAS,steal,2,False,True,steal,steal,42-37,42,37
@@ -259,8 +259,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000583,2021-03-12,SAS,ORL,28.83,3,7,10,ORL,ORL,fg3_make,80,False,False,,Bacon 24' 3PT Step Back Jump Shot (11 PTS),54-48,54,48
 0022000583,2021-03-12,SAS,ORL,29.08,3,6,55,SAS,SAS,tov,45,False,False,White Out of Bounds - Bad Pass Turnover Turnover (P3.T9),,54-48,54,48
 0022000583,2021-03-12,SAS,ORL,29.32,3,6,41,ORL,ORL,fg_miss,73,False,False,,MISS Bacon 3' Driving Reverse Layup,54-48,54,48
-0022000583,2021-03-12,SAS,ORL,29.4,3,6,36,ORL,ORL,fg_make,97,False,False,,Vucevic Tip Layup Shot (19 PTS),54-50,54,50
 0022000583,2021-03-12,SAS,ORL,29.4,3,6,36,ORL,ORL,reb,0,False,False,,Vucevic REBOUND (Off:2 Def:4),54-50,54,50
+0022000583,2021-03-12,SAS,ORL,29.4,3,6,36,ORL,ORL,fg_make,97,False,False,,Vucevic Tip Layup Shot (19 PTS),54-50,54,50
 0022000583,2021-03-12,SAS,ORL,29.6,3,6,24,SAS,SAS,fg_make,6,False,False,White 3' Driving Layup (10 PTS),,56-50,56,50
 0022000583,2021-03-12,SAS,ORL,29.97,3,6,2,ORL,ORL,fg_miss,79,False,False,,MISS Bacon 7' Pullup Jump Shot,56-50,56,50
 0022000583,2021-03-12,SAS,ORL,30.0,3,6,0,SAS,SAS,reb,0,False,False,Poeltl REBOUND (Off:4 Def:2),,56-50,56,50
@@ -373,8 +373,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000583,2021-03-12,SAS,ORL,44.25,4,3,45,SAS,SAS,fg3_miss,1,False,False,MISS Vassell 25' 3PT Jump Shot,,97-73,97,73
 0022000583,2021-03-12,SAS,ORL,44.28,4,3,43,SAS,SAS,reb,0,False,False,SPURS Rebound,,97-73,97,73
 0022000583,2021-03-12,SAS,ORL,44.35,4,3,39,SAS,SAS,fg_miss,6,True,False,MISS Eubanks 3' Driving Layup,,97-73,97,73
-0022000583,2021-03-12,SAS,ORL,44.35,4,3,39,SAS,SAS,reb,0,False,False,SPURS Rebound,,97-73,97,73
 0022000583,2021-03-12,SAS,ORL,44.35,4,3,39,SAS,ORL,block,6,True,False,block,block,97-73,97,73
+0022000583,2021-03-12,SAS,ORL,44.35,4,3,39,SAS,SAS,reb,0,False,False,SPURS Rebound,,97-73,97,73
 0022000583,2021-03-12,SAS,ORL,44.42,4,3,35,SAS,SAS,fg_make,6,False,False,Eubanks 7' Driving Layup (4 PTS) (Samanic 1 AST),,99-73,99,73
 0022000583,2021-03-12,SAS,ORL,44.42,4,3,35,SAS,ORL,foul,2,False,False,,Bamba S.FOUL (P3.T3) (J.Butler),99-73,99,73
 0022000583,2021-03-12,SAS,ORL,44.42,4,3,35,SAS,SAS,ft_make,10,False,False,Eubanks Free Throw 1 of 1 (5 PTS),,100-73,100,73

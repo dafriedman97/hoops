@@ -21,8 +21,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701085,2018-03-23,SAS,UTA,2.38,1,9,37,UTA,UTA,tov,2,False,True,,Ingles Lost Ball Turnover (P1.T1),4-0,4,0
 0021701085,2018-03-23,SAS,UTA,2.38,1,9,37,UTA,SAS,steal,2,False,True,steal,steal,4-0,4,0
 0021701085,2018-03-23,SAS,UTA,2.45,1,9,33,SAS,SAS,fg_miss,41,True,False,MISS Murray 3' Running Layup,,4-0,4,0
-0021701085,2018-03-23,SAS,UTA,2.45,1,9,33,UTA,UTA,reb,0,False,False,,Jazz Rebound,4-0,4,0
 0021701085,2018-03-23,SAS,UTA,2.45,1,9,33,SAS,UTA,block,41,True,False,block,block,4-0,4,0
+0021701085,2018-03-23,SAS,UTA,2.45,1,9,33,UTA,UTA,reb,0,False,False,,Jazz Rebound,4-0,4,0
 0021701085,2018-03-23,SAS,UTA,2.68,1,9,19,UTA,UTA,fg_miss,79,False,False,,MISS Mitchell 19' Pullup Jump Shot,4-0,4,0
 0021701085,2018-03-23,SAS,UTA,2.73,1,9,16,SAS,SAS,reb,0,False,False,Green REBOUND (Off:0 Def:1),,4-0,4,0
 0021701085,2018-03-23,SAS,UTA,2.87,1,9,8,SAS,UTA,violation,5,False,False,,Rubio Violation:Kicked Ball (R.Garretson),4-0,4,0
@@ -138,8 +138,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701085,2018-03-23,SAS,UTA,15.5,2,8,30,SAS,SAS,ft_make,14,False,False,Mills Free Throw 2 of 3 (5 PTS),,34-33,34,33
 0021701085,2018-03-23,SAS,UTA,15.5,2,8,30,SAS,SAS,ft_make,15,False,False,Mills Free Throw 3 of 3 (6 PTS),,35-33,35,33
 0021701085,2018-03-23,SAS,UTA,15.82,2,8,11,UTA,UTA,fg_miss,6,True,False,,MISS Mitchell 3' Driving Layup,35-33,35,33
-0021701085,2018-03-23,SAS,UTA,15.82,2,8,11,UTA,UTA,reb,0,False,False,,Jazz Rebound,35-33,35,33
 0021701085,2018-03-23,SAS,UTA,15.82,2,8,11,UTA,SAS,block,6,True,False,block,block,35-33,35,33
+0021701085,2018-03-23,SAS,UTA,15.82,2,8,11,UTA,UTA,reb,0,False,False,,Jazz Rebound,35-33,35,33
 0021701085,2018-03-23,SAS,UTA,15.9,2,8,6,UTA,UTA,fg_make,79,False,False,,O'Neale 20' Pullup Jump Shot (2 PTS),35-35,35,35
 0021701085,2018-03-23,SAS,UTA,16.1,2,7,54,SAS,SAS,fg_miss,79,False,False,MISS Aldridge 19' Pullup Jump Shot,,35-35,35,35
 0021701085,2018-03-23,SAS,UTA,16.18,2,7,49,UTA,UTA,reb,0,False,False,,Favors REBOUND (Off:1 Def:2),35-35,35,35
@@ -194,8 +194,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701085,2018-03-23,SAS,UTA,22.85,2,1,9,UTA,UTA,fg_make,44,False,False,,Favors 5' Reverse Layup (9 PTS) (Ingles 2 AST),51-49,51,49
 0021701085,2018-03-23,SAS,UTA,23.27,2,0,44,SAS,SAS,fg3_make,1,False,False,Bertans 24' 3PT Jump Shot (3 PTS) (Ginobili 2 AST),,54-49,54,49
 0021701085,2018-03-23,SAS,UTA,23.48,2,0,31,UTA,UTA,fg_miss,6,True,False,,MISS Mitchell 2' Driving Layup,54-49,54,49
-0021701085,2018-03-23,SAS,UTA,23.48,2,0,31,SAS,SAS,reb,0,False,False,SPURS Rebound,,54-49,54,49
 0021701085,2018-03-23,SAS,UTA,23.48,2,0,31,UTA,SAS,block,6,True,False,block,block,54-49,54,49
+0021701085,2018-03-23,SAS,UTA,23.48,2,0,31,SAS,SAS,reb,0,False,False,SPURS Rebound,,54-49,54,49
 0021701085,2018-03-23,SAS,UTA,23.78,2,0,13,SAS,UTA,foul,2,False,False,,Ingles S.FOUL (P3.PN) (M.Davis),54-49,54,49
 0021701085,2018-03-23,SAS,UTA,23.78,2,0,13,SAS,SAS,ft_make,11,False,False,Ginobili Free Throw 1 of 2 (3 PTS),,55-49,55,49
 0021701085,2018-03-23,SAS,UTA,23.78,2,0,13,SAS,SAS,ft_make,12,False,False,Ginobili Free Throw 2 of 2 (4 PTS),,56-49,56,49
@@ -290,9 +290,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701085,2018-03-23,SAS,UTA,35.65,3,0,21,SAS,SAS,reb,0,False,False,SPURS Rebound,,77-73,77,73
 0021701085,2018-03-23,SAS,UTA,35.65,3,0,21,SAS,SAS,tov,11,False,False,SPURS Turnover: Shot Clock (T#9),,77-73,77,73
 0021701085,2018-03-23,SAS,UTA,36.0,3,0,0,UTA,UTA,tov,1,False,True,,O'Neale Bad Pass Turnover (P1.T10),77-73,77,73
+0021701085,2018-03-23,SAS,UTA,36.0,3,0,0,UTA,SAS,steal,1,False,True,steal,steal,77-73,77,73
 0021701085,2018-03-23,SAS,UTA,36.0,3,0,0,UTA,,period_end,0,False,False,,,77-73,77,73
 0021701085,2018-03-23,SAS,UTA,36.0,4,12,0,UTA,,period_start,0,False,False,,,77-73,77,73
-0021701085,2018-03-23,SAS,UTA,36.0,3,0,0,UTA,SAS,steal,1,False,True,steal,steal,77-73,77,73
 0021701085,2018-03-23,SAS,UTA,36.17,4,11,50,UTA,SAS,foul,2,False,False,Gasol S.FOUL (P2.T1) (R.Garretson),,77-73,77,73
 0021701085,2018-03-23,SAS,UTA,36.17,4,11,50,UTA,UTA,ft_make,11,False,False,,Gobert Free Throw 1 of 2 (5 PTS),77-74,77,74
 0021701085,2018-03-23,SAS,UTA,36.17,4,11,50,UTA,UTA,ft_make,12,False,False,,Gobert Free Throw 2 of 2 (6 PTS),77-75,77,75
@@ -374,9 +374,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701085,2018-03-23,SAS,UTA,43.78,4,4,13,SAS,SAS,tov,2,False,True,Anderson Lost Ball Turnover (P3.T12),,100-93,100,93
 0021701085,2018-03-23,SAS,UTA,43.78,4,4,13,SAS,UTA,steal,2,False,True,steal,steal,100-93,100,93
 0021701085,2018-03-23,SAS,UTA,43.85,4,4,9,UTA,UTA,fg_miss,75,True,False,,MISS Mitchell 4' Driving Finger Roll Layup,100-93,100,93
+0021701085,2018-03-23,SAS,UTA,43.85,4,4,9,UTA,SAS,block,75,True,False,block,block,100-93,100,93
 0021701085,2018-03-23,SAS,UTA,43.85,4,4,9,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:2 Def:6),100-93,100,93
 0021701085,2018-03-23,SAS,UTA,43.85,4,4,9,UTA,SAS,foul,2,False,False,Ginobili S.FOUL (P3.PN) (M.Davis),,100-93,100,93
-0021701085,2018-03-23,SAS,UTA,43.85,4,4,9,UTA,SAS,block,75,True,False,block,block,100-93,100,93
 0021701085,2018-03-23,SAS,UTA,43.85,4,4,9,UTA,UTA,ft_make,11,False,False,,Gobert Free Throw 1 of 2 (7 PTS),100-94,100,94
 0021701085,2018-03-23,SAS,UTA,43.85,4,4,9,UTA,UTA,ft_make,12,False,False,,Gobert Free Throw 2 of 2 (8 PTS),100-95,100,95
 0021701085,2018-03-23,SAS,UTA,44.2,4,3,48,SAS,SAS,tov,2,False,True,Aldridge Lost Ball Turnover (P4.T13),,100-95,100,95
@@ -431,9 +431,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701085,2018-03-23,SAS,UTA,49.25,5,3,45,SAS,SAS,reb,0,False,False,Gay REBOUND (Off:2 Def:1),,114-114,114,114
 0021701085,2018-03-23,SAS,UTA,49.5,5,3,30,SAS,SAS,fg3_miss,1,False,False,MISS Mills 25' 3PT Jump Shot,,114-114,114,114
 0021701085,2018-03-23,SAS,UTA,49.58,5,3,25,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:0 Def:2),114-114,114,114
+0021701085,2018-03-23,SAS,UTA,49.75,5,3,15,UTA,UTA,ft_make,10,False,False,,Gobert Free Throw 1 of 1 (13 PTS),114-117,114,117
 0021701085,2018-03-23,SAS,UTA,49.75,5,3,15,UTA,UTA,fg_make,5,False,False,,Gobert 1' Layup (12 PTS) (Rubio 9 AST),114-116,114,116
 0021701085,2018-03-23,SAS,UTA,49.75,5,3,15,UTA,SAS,foul,2,False,False,Mills S.FOUL (P2.T2) (G.Petraitis),,114-116,114,116
-0021701085,2018-03-23,SAS,UTA,49.75,5,3,15,UTA,UTA,ft_make,10,False,False,,Gobert Free Throw 1 of 1 (13 PTS),114-117,114,117
 0021701085,2018-03-23,SAS,UTA,49.97,5,3,2,SAS,UTA,foul,1,False,False,,Crowder P.FOUL (P3.T1) (G.Petraitis),114-117,114,117
 0021701085,2018-03-23,SAS,UTA,50.18,5,2,49,SAS,SAS,tov,2,False,True,Murray Lost Ball Turnover (P2.T14),,114-117,114,117
 0021701085,2018-03-23,SAS,UTA,50.18,5,2,49,SAS,UTA,steal,2,False,True,steal,steal,114-117,114,117

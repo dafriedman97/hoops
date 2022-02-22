@@ -32,8 +32,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800006,2018-10-17,ORL,MIA,3.38,1,8,37,MIA,ORL,foul,2,False,False,Augustin S.FOUL (P1.T2) (M.Boland),,5-12,5,12
 0021800006,2018-10-17,ORL,MIA,3.38,1,8,37,MIA,MIA,ft_make,10,False,False,,Dragic Free Throw 1 of 1 (7 PTS),5-13,5,13
 0021800006,2018-10-17,ORL,MIA,3.55,1,8,27,ORL,ORL,fg_miss,6,True,False,MISS Fournier 2' Driving Layup,,5-13,5,13
-0021800006,2018-10-17,ORL,MIA,3.55,1,8,27,ORL,ORL,reb,0,False,False,MAGIC Rebound,,5-13,5,13
 0021800006,2018-10-17,ORL,MIA,3.55,1,8,27,ORL,MIA,block,6,True,False,block,block,5-13,5,13
+0021800006,2018-10-17,ORL,MIA,3.55,1,8,27,ORL,ORL,reb,0,False,False,MAGIC Rebound,,5-13,5,13
 0021800006,2018-10-17,ORL,MIA,3.63,1,8,22,ORL,ORL,fg_make,99,False,False,Vucevic 2' Cutting Finger Roll Layup Shot (4 PTS) (Fournier 2 AST),,7-13,7,13
 0021800006,2018-10-17,ORL,MIA,3.63,1,8,22,ORL,MIA,foul,2,False,False,,McGruder S.FOUL (P2.T3) (M.Boland),7-13,7,13
 0021800006,2018-10-17,ORL,MIA,3.63,1,8,22,ORL,ORL,ft_make,10,False,False,Vucevic Free Throw 1 of 1 (5 PTS),,8-13,8,13
@@ -161,17 +161,17 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800006,2018-10-17,ORL,MIA,15.67,2,8,20,ORL,ORL,reb,0,False,False,MAGIC Rebound,,33-35,33,35
 0021800006,2018-10-17,ORL,MIA,15.75,2,8,15,,ORL,jump_ball,0,False,False,Jump Ball Gordon vs. Whiteside: Tip to Richardson,,33-35,33,35
 0021800006,2018-10-17,ORL,MIA,15.75,2,8,15,ORL,ORL,tov,2,False,True,Gordon Lost Ball Turnover (P1.T4),,33-35,33,35
+0021800006,2018-10-17,ORL,MIA,15.75,2,8,15,ORL,MIA,steal,2,False,True,steal,steal,33-35,33,35
 0021800006,2018-10-17,ORL,MIA,15.75,2,8,15,MIA,MIA,fg3_miss,1,False,False,,MISS Richardson 25' 3PT Jump Shot,33-35,33,35
 0021800006,2018-10-17,ORL,MIA,15.75,2,8,15,MIA,MIA,reb,0,False,False,,Heat Rebound,33-35,33,35
 0021800006,2018-10-17,ORL,MIA,15.75,2,8,15,MIA,MIA,tov,11,False,False,,Heat Turnover: Shot Clock (T#4),33-35,33,35
-0021800006,2018-10-17,ORL,MIA,15.75,2,8,15,ORL,MIA,steal,2,False,True,steal,steal,33-35,33,35
 0021800006,2018-10-17,ORL,MIA,16.03,2,7,58,ORL,ORL,fg_miss,47,False,False,MISS Gordon 13' Turnaround Jump Shot,,33-35,33,35
 0021800006,2018-10-17,ORL,MIA,16.1,2,7,54,MIA,MIA,reb,0,False,False,,Whiteside REBOUND (Off:1 Def:6),33-35,33,35
 0021800006,2018-10-17,ORL,MIA,16.2,2,7,48,MIA,MIA,fg_miss,101,False,False,,MISS Johnson 11' Driving Floating Jump Shot,33-35,33,35
 0021800006,2018-10-17,ORL,MIA,16.27,2,7,44,ORL,ORL,reb,0,False,False,Gordon REBOUND (Off:1 Def:5),,33-35,33,35
 0021800006,2018-10-17,ORL,MIA,16.28,2,7,43,ORL,ORL,tov,2,False,True,Gordon Lost Ball Turnover (P2.T5),,33-35,33,35
-0021800006,2018-10-17,ORL,MIA,16.28,2,7,43,MIA,ORL,foul,1,False,False,Gordon P.FOUL (P1.T3) (R.Acosta),,33-35,33,35
 0021800006,2018-10-17,ORL,MIA,16.28,2,7,43,ORL,MIA,steal,2,False,True,steal,steal,33-35,33,35
+0021800006,2018-10-17,ORL,MIA,16.28,2,7,43,MIA,ORL,foul,1,False,False,Gordon P.FOUL (P1.T3) (R.Acosta),,33-35,33,35
 0021800006,2018-10-17,ORL,MIA,16.5,2,7,30,MIA,ORL,foul,1,False,False,Simmons P.FOUL (P2.T4) (R.Acosta),,33-35,33,35
 0021800006,2018-10-17,ORL,MIA,16.53,2,7,28,ORL,MIA,foul,4,False,False,,Dragic OFF.Foul (P1) (T.Washington),33-35,33,35
 0021800006,2018-10-17,ORL,MIA,16.53,2,7,28,MIA,MIA,tov,37,False,False,,Dragic Offensive Foul Turnover (P1.T5),33-35,33,35
@@ -262,8 +262,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800006,2018-10-17,ORL,MIA,25.05,3,10,57,MIA,MIA,ft_miss,10,False,False,,MISS Dragic Free Throw 1 of 1,58-53,58,53
 0021800006,2018-10-17,ORL,MIA,25.1,3,10,54,ORL,ORL,reb,0,False,False,Gordon REBOUND (Off:3 Def:7),,58-53,58,53
 0021800006,2018-10-17,ORL,MIA,25.33,3,10,40,ORL,ORL,fg_miss,5,True,False,MISS Isaac 4' Layup,,58-53,58,53
-0021800006,2018-10-17,ORL,MIA,25.33,3,10,40,ORL,ORL,reb,0,False,False,MAGIC Rebound,,58-53,58,53
 0021800006,2018-10-17,ORL,MIA,25.33,3,10,40,ORL,MIA,block,5,True,False,block,block,58-53,58,53
+0021800006,2018-10-17,ORL,MIA,25.33,3,10,40,ORL,ORL,reb,0,False,False,MAGIC Rebound,,58-53,58,53
 0021800006,2018-10-17,ORL,MIA,25.47,3,10,32,ORL,ORL,fg_miss,63,True,False,MISS Gordon 8' Fadeaway Jumper,,58-53,58,53
 0021800006,2018-10-17,ORL,MIA,25.47,3,10,32,ORL,MIA,block,63,True,False,block,block,58-53,58,53
 0021800006,2018-10-17,ORL,MIA,25.53,3,10,28,MIA,MIA,reb,0,False,False,,McGruder REBOUND (Off:0 Def:1),58-53,58,53
@@ -393,8 +393,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800006,2018-10-17,ORL,MIA,38.0,4,10,0,ORL,MIA,foul,2,False,False,,Olynyk S.FOUL (P3.T3) (T.Washington),85-81,85,81
 0021800006,2018-10-17,ORL,MIA,38.0,4,10,0,ORL,ORL,ft_make,10,False,False,Simmons Free Throw 1 of 1 (9 PTS),,86-81,86,81
 0021800006,2018-10-17,ORL,MIA,38.18,4,9,49,MIA,MIA,fg_miss,75,True,False,,MISS Richardson 2' Driving Finger Roll Layup,86-81,86,81
-0021800006,2018-10-17,ORL,MIA,38.18,4,9,49,MIA,MIA,reb,0,False,False,,Heat Rebound,86-81,86,81
 0021800006,2018-10-17,ORL,MIA,38.18,4,9,49,MIA,ORL,block,75,True,False,block,block,86-81,86,81
+0021800006,2018-10-17,ORL,MIA,38.18,4,9,49,MIA,MIA,reb,0,False,False,,Heat Rebound,86-81,86,81
 0021800006,2018-10-17,ORL,MIA,38.28,4,9,43,MIA,MIA,fg3_miss,1,False,False,,MISS Richardson 25' 3PT Jump Shot,86-81,86,81
 0021800006,2018-10-17,ORL,MIA,38.32,4,9,41,MIA,MIA,reb,0,False,False,,Olynyk REBOUND (Off:1 Def:0),86-81,86,81
 0021800006,2018-10-17,ORL,MIA,38.38,4,9,37,MIA,MIA,fg_miss,5,True,False,,MISS Whiteside 6' Layup,86-81,86,81

@@ -243,9 +243,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900811,2020-02-12,NYK,WAS,23.5,2,0,30,WAS,WAS,tov,45,False,False,,Brown Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T6),50-46,50,46
 0021900811,2020-02-12,NYK,WAS,23.9,2,0,6,NYK,NYK,tov,11,False,False,KNICKS Turnover: Shot Clock (T#11),,50-46,50,46
 0021900811,2020-02-12,NYK,WAS,24.0,2,0,0,WAS,WAS,tov,2,False,True,,Beal Lost Ball Turnover (P3.T7),50-46,50,46
+0021900811,2020-02-12,NYK,WAS,24.0,2,0,0,WAS,NYK,steal,2,False,True,steal,steal,50-46,50,46
 0021900811,2020-02-12,NYK,WAS,24.0,2,0,0,WAS,,period_end,0,False,False,,,50-46,50,46
 0021900811,2020-02-12,NYK,WAS,24.0,3,12,0,WAS,,period_start,0,False,False,,,50-46,50,46
-0021900811,2020-02-12,NYK,WAS,24.0,2,0,0,WAS,NYK,steal,2,False,True,steal,steal,50-46,50,46
 0021900811,2020-02-12,NYK,WAS,24.18,3,11,49,WAS,WAS,tov,1,False,True,,Smith Bad Pass Turnover (P1.T8),50-46,50,46
 0021900811,2020-02-12,NYK,WAS,24.18,3,11,49,WAS,NYK,steal,1,False,True,steal,steal,50-46,50,46
 0021900811,2020-02-12,NYK,WAS,24.22,3,11,47,NYK,WAS,foul,2,False,False,,Beal S.FOUL (P1.T1) (N.Green),50-46,50,46
@@ -411,9 +411,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900811,2020-02-12,NYK,WAS,39.3,4,8,42,NYK,WAS,steal,2,False,True,steal,steal,77-83,77,83
 0021900811,2020-02-12,NYK,WAS,39.38,4,8,37,NYK,WAS,foul,4,False,False,,Wagner OFF.Foul (P4) (M.Kogut),77-83,77,83
 0021900811,2020-02-12,NYK,WAS,39.38,4,8,37,WAS,WAS,tov,37,False,False,,Wagner Offensive Foul Turnover (P1.T14),77-83,77,83
-0021900811,2020-02-12,NYK,WAS,39.63,4,8,22,WAS,NYK,ft_make,16,False,False,Ellington Free Throw Technical (5 PTS),,78-83,78,83
 0021900811,2020-02-12,NYK,WAS,39.63,4,8,22,NYK,WAS,foul,1,False,False,,Wagner P.FOUL (P5.T2) (M.Kogut),78-83,78,83
 0021900811,2020-02-12,NYK,WAS,39.63,4,8,22,NYK,WAS,foul,11,False,False,,Wagner T.FOUL (P5.T2) (N.Green),78-83,78,83
+0021900811,2020-02-12,NYK,WAS,39.63,4,8,22,WAS,NYK,ft_make,16,False,False,Ellington Free Throw Technical (5 PTS),,78-83,78,83
 0021900811,2020-02-12,NYK,WAS,39.63,4,8,22,NYK,WAS,ejection,4,False,False,,Wagner Ejection:Other,78-83,78,83
 0021900811,2020-02-12,NYK,WAS,39.77,4,8,14,NYK,NYK,fg_miss,101,False,False,MISS Payton 14' Driving Floating Jump Shot,,78-83,78,83
 0021900811,2020-02-12,NYK,WAS,39.8,4,8,12,WAS,WAS,reb,0,False,False,,Napier REBOUND (Off:0 Def:2),78-83,78,83

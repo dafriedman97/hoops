@@ -21,8 +21,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700842,2018-02-12,PHI,NYK,1.85,1,10,9,PHI,NYK,foul,1,False,False,,Hardaway Jr. P.FOUL (P1.T2) (E.Malloy),6-3,6,3
 0021700842,2018-02-12,PHI,NYK,1.98,1,10,1,PHI,PHI,fg_make,7,False,False,Simmons 2' Dunk (4 PTS) (Covington 1 AST),,8-3,8,3
 0021700842,2018-02-12,PHI,NYK,2.3,1,9,42,NYK,NYK,fg_miss,1,True,False,,MISS Beasley 7' Jump Shot,8-3,8,3
-0021700842,2018-02-12,PHI,NYK,2.3,1,9,42,NYK,NYK,reb,0,False,False,,Knicks Rebound,8-3,8,3
 0021700842,2018-02-12,PHI,NYK,2.3,1,9,42,NYK,PHI,block,1,True,False,block,block,8-3,8,3
+0021700842,2018-02-12,PHI,NYK,2.3,1,9,42,NYK,NYK,reb,0,False,False,,Knicks Rebound,8-3,8,3
 0021700842,2018-02-12,PHI,NYK,2.38,1,9,37,NYK,NYK,tov,2,False,True,,Jack Lost Ball Turnover (P1.T2),8-3,8,3
 0021700842,2018-02-12,PHI,NYK,2.38,1,9,37,NYK,PHI,steal,2,False,True,steal,steal,8-3,8,3
 0021700842,2018-02-12,PHI,NYK,2.45,1,9,33,PHI,NYK,foul,2,False,False,,Kanter S.FOUL (P2.T3) (D.Taylor),8-3,8,3
@@ -184,9 +184,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700842,2018-02-12,PHI,NYK,20.05,2,3,57,PHI,PHI,reb,0,False,False,76ERS Rebound,,47-45,47,45
 0021700842,2018-02-12,PHI,NYK,20.33,2,3,40,PHI,PHI,fg_make,58,False,False,Embiid 7' Turnaround Hook Shot (8 PTS),,49-45,49,45
 0021700842,2018-02-12,PHI,NYK,20.72,2,3,17,NYK,NYK,fg_miss,75,True,False,,MISS Hardaway Jr. 6' Driving Finger Roll Layup,49-45,49,45
+0021700842,2018-02-12,PHI,NYK,20.72,2,3,17,NYK,PHI,block,75,True,False,block,block,49-45,49,45
 0021700842,2018-02-12,PHI,NYK,20.72,2,3,17,NYK,NYK,reb,0,False,False,,Knicks Rebound,49-45,49,45
 0021700842,2018-02-12,PHI,NYK,20.72,2,3,17,NYK,NYK,timeout,1,False,False,,Knicks Timeout: Regular (Reg.2 Short 0),49-45,49,45
-0021700842,2018-02-12,PHI,NYK,20.72,2,3,17,NYK,PHI,block,75,True,False,block,block,49-45,49,45
 0021700842,2018-02-12,PHI,NYK,20.77,2,3,14,NYK,NYK,fg_miss,101,False,False,,MISS Beasley 9' Driving Floating Jump Shot,49-45,49,45
 0021700842,2018-02-12,PHI,NYK,20.85,2,3,9,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:1 Def:3),,49-45,49,45
 0021700842,2018-02-12,PHI,NYK,21.12,2,2,53,PHI,NYK,foul,1,False,False,,Hardaway Jr. P.FOUL (P2.T4) (D.Taylor),49-45,49,45
@@ -220,9 +220,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700842,2018-02-12,PHI,NYK,23.98,2,0,1,NYK,NYK,ft_make,11,False,False,,Kanter Free Throw 1 of 2 (9 PTS),57-54,57,54
 0021700842,2018-02-12,PHI,NYK,23.98,2,0,1,NYK,NYK,ft_make,12,False,False,,Kanter Free Throw 2 of 2 (10 PTS),57-55,57,55
 0021700842,2018-02-12,PHI,NYK,23.98,2,0,1,PHI,PHI,tov,1,False,True,Covington Bad Pass Turnover (P2.T11),,57-55,57,55
+0021700842,2018-02-12,PHI,NYK,23.98,2,0,1,PHI,NYK,steal,1,False,True,steal,steal,57-55,57,55
 0021700842,2018-02-12,PHI,NYK,23.98,2,0,1,NYK,NYK,fg_miss,1,False,False,,MISS Kanter 22' Jump Shot,57-55,57,55
 0021700842,2018-02-12,PHI,NYK,23.98,2,0,1,NYK,NYK,reb,0,False,False,,Knicks Rebound,57-55,57,55
-0021700842,2018-02-12,PHI,NYK,23.98,2,0,1,PHI,NYK,steal,1,False,True,steal,steal,57-55,57,55
 0021700842,2018-02-12,PHI,NYK,24.0,2,0,0,NYK,,period_end,0,False,False,,,57-55,57,55
 0021700842,2018-02-12,PHI,NYK,24.0,3,12,0,NYK,,period_start,0,False,False,,,57-55,57,55
 0021700842,2018-02-12,PHI,NYK,24.35,3,11,39,NYK,NYK,fg_miss,3,False,False,,MISS Kanter 5' Hook Shot,57-55,57,55
@@ -247,8 +247,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700842,2018-02-12,PHI,NYK,27.23,3,8,46,PHI,PHI,fg_miss,1,False,False,MISS Covington 22' Jump Shot,,64-57,64,57
 0021700842,2018-02-12,PHI,NYK,27.3,3,8,42,NYK,NYK,reb,0,False,False,,Thomas REBOUND (Off:0 Def:1),64-57,64,57
 0021700842,2018-02-12,PHI,NYK,27.38,3,8,37,NYK,NYK,fg_miss,6,True,False,,MISS Kanter 4' Driving Layup,64-57,64,57
-0021700842,2018-02-12,PHI,NYK,27.38,3,8,37,PHI,PHI,reb,0,False,False,76ERS Rebound,,64-57,64,57
 0021700842,2018-02-12,PHI,NYK,27.38,3,8,37,NYK,PHI,block,6,True,False,block,block,64-57,64,57
+0021700842,2018-02-12,PHI,NYK,27.38,3,8,37,PHI,PHI,reb,0,False,False,76ERS Rebound,,64-57,64,57
 0021700842,2018-02-12,PHI,NYK,27.58,3,8,25,PHI,PHI,fg3_make,1,False,False,Redick 27' 3PT Jump Shot (17 PTS) (Simmons 5 AST),,67-57,67,57
 0021700842,2018-02-12,PHI,NYK,28.08,3,7,55,NYK,NYK,fg3_make,1,False,False,,Jack 28' 3PT Jump Shot (5 PTS) (Thomas 1 AST),67-60,67,60
 0021700842,2018-02-12,PHI,NYK,28.43,3,7,34,PHI,PHI,fg_make,1,False,False,Saric 16' Jump Shot (18 PTS),,69-60,69,60
@@ -267,8 +267,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700842,2018-02-12,PHI,NYK,30.25,3,5,45,PHI,PHI,fg_miss,79,False,False,MISS Covington 20' Pullup Jump Shot,,73-66,73,66
 0021700842,2018-02-12,PHI,NYK,30.28,3,5,43,NYK,NYK,reb,0,False,False,,Knicks Rebound,73-66,73,66
 0021700842,2018-02-12,PHI,NYK,30.48,3,5,31,NYK,NYK,fg_miss,1,True,False,,MISS Kanter 6' Jump Shot,73-66,73,66
-0021700842,2018-02-12,PHI,NYK,30.48,3,5,31,NYK,NYK,reb,0,False,False,,Kanter REBOUND (Off:3 Def:4),73-66,73,66
 0021700842,2018-02-12,PHI,NYK,30.48,3,5,31,NYK,PHI,block,1,True,False,block,block,73-66,73,66
+0021700842,2018-02-12,PHI,NYK,30.48,3,5,31,NYK,NYK,reb,0,False,False,,Kanter REBOUND (Off:3 Def:4),73-66,73,66
 0021700842,2018-02-12,PHI,NYK,30.48,3,5,31,NYK,NYK,fg_make,5,False,False,,Kanter 3' Layup (14 PTS),73-68,73,68
 0021700842,2018-02-12,PHI,NYK,30.48,3,5,31,NYK,PHI,foul,2,False,False,Johnson S.FOUL (P2.T3) (D.Taylor),,73-68,73,68
 0021700842,2018-02-12,PHI,NYK,30.48,3,5,31,NYK,NYK,ft_make,10,False,False,,Kanter Free Throw 1 of 1 (15 PTS),73-69,73,69
@@ -279,8 +279,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700842,2018-02-12,PHI,NYK,31.0,3,5,0,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 3 Short 0),,73-71,73,71
 0021700842,2018-02-12,PHI,NYK,31.27,3,4,44,PHI,PHI,tov,8,False,False,Johnson 3 Second Violation Turnover (P3.T13),,73-71,73,71
 0021700842,2018-02-12,PHI,NYK,31.45,3,4,33,NYK,NYK,fg_miss,6,True,False,,MISS Beasley 2' Driving Layup,73-71,73,71
-0021700842,2018-02-12,PHI,NYK,31.45,3,4,33,NYK,NYK,reb,0,False,False,,Knicks Rebound,73-71,73,71
 0021700842,2018-02-12,PHI,NYK,31.45,3,4,33,NYK,PHI,block,6,True,False,block,block,73-71,73,71
+0021700842,2018-02-12,PHI,NYK,31.45,3,4,33,NYK,NYK,reb,0,False,False,,Knicks Rebound,73-71,73,71
 0021700842,2018-02-12,PHI,NYK,31.5,3,4,30,NYK,PHI,violation,5,False,False,Saric Violation:Kicked Ball (C.Kirkland),,73-71,73,71
 0021700842,2018-02-12,PHI,NYK,31.58,3,4,25,PHI,NYK,foul,4,False,False,,Beasley OFF.Foul (P2) (E.Malloy),73-71,73,71
 0021700842,2018-02-12,PHI,NYK,31.58,3,4,25,NYK,NYK,tov,37,False,False,,Beasley Offensive Foul Turnover (P2.T13),73-71,73,71
@@ -407,8 +407,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700842,2018-02-12,PHI,NYK,45.47,4,2,32,PHI,PHI,fg_miss,5,False,False,MISS Johnson 7' Layup,,104-88,104,88
 0021700842,2018-02-12,PHI,NYK,45.5,4,2,30,PHI,PHI,reb,0,False,False,McConnell REBOUND (Off:2 Def:7),,104-88,104,88
 0021700842,2018-02-12,PHI,NYK,45.6,4,2,24,PHI,PHI,fg_miss,5,True,False,MISS McConnell 2' Layup,,104-88,104,88
-0021700842,2018-02-12,PHI,NYK,45.6,4,2,24,PHI,PHI,reb,0,False,False,Johnson REBOUND (Off:2 Def:0),,104-88,104,88
 0021700842,2018-02-12,PHI,NYK,45.6,4,2,24,PHI,NYK,block,5,True,False,block,block,104-88,104,88
+0021700842,2018-02-12,PHI,NYK,45.6,4,2,24,PHI,PHI,reb,0,False,False,Johnson REBOUND (Off:2 Def:0),,104-88,104,88
 0021700842,2018-02-12,PHI,NYK,45.67,4,2,20,PHI,PHI,fg_make,66,False,False,Johnson 4' Jump Bank Shot (5 PTS),,106-88,106,88
 0021700842,2018-02-12,PHI,NYK,45.8,4,2,12,NYK,NYK,fg3_miss,1,False,False,,MISS Dotson 26' 3PT Jump Shot,106-88,106,88
 0021700842,2018-02-12,PHI,NYK,45.8,4,2,12,PHI,PHI,reb,0,False,False,76ERS Rebound,,106-88,106,88
@@ -426,8 +426,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700842,2018-02-12,PHI,NYK,47.25,4,0,45,PHI,PHI,fg3_miss,1,False,False,MISS Luwawu-Cabarrot 24' 3PT Jump Shot,,108-90,108,90
 0021700842,2018-02-12,PHI,NYK,47.27,4,0,44,PHI,PHI,reb,0,False,False,Covington REBOUND (Off:1 Def:4),,108-90,108,90
 0021700842,2018-02-12,PHI,NYK,47.28,4,0,43,PHI,PHI,fg_miss,1,False,False,MISS Covington 12' Jump Shot,,108-90,108,90
-0021700842,2018-02-12,PHI,NYK,47.28,4,0,43,PHI,PHI,reb,0,False,False,76ERS Rebound,,108-90,108,90
 0021700842,2018-02-12,PHI,NYK,47.28,4,0,43,PHI,PHI,tov,11,False,False,76ERS Turnover: Shot Clock (T#18),,108-90,108,90
+0021700842,2018-02-12,PHI,NYK,47.28,4,0,43,PHI,PHI,reb,0,False,False,76ERS Rebound,,108-90,108,90
 0021700842,2018-02-12,PHI,NYK,47.48,4,0,31,NYK,NYK,fg_miss,1,False,False,,MISS Dotson 18' Jump Shot,108-90,108,90
 0021700842,2018-02-12,PHI,NYK,47.48,4,0,31,PHI,PHI,reb,0,False,False,Johnson REBOUND (Off:2 Def:1),,108-90,108,90
 0021700842,2018-02-12,PHI,NYK,47.87,4,0,8,PHI,PHI,tov,39,False,False,McConnell Step Out of Bounds Turnover (P2.T19),,108-90,108,90

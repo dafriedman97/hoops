@@ -73,8 +73,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800011,2018-10-17,SAC,UTA,7.88,1,4,7,UTA,SAC,foul,1,False,False,Fox P.FOUL (P1.T3) (C.Washington),,25-9,25,9
 0021800011,2018-10-17,SAC,UTA,8.1,1,3,54,UTA,UTA,fg3_make,1,False,False,,Exum 25' 3PT Jump Shot (3 PTS) (Mitchell 1 AST),25-12,25,12
 0021800011,2018-10-17,SAC,UTA,8.28,1,3,43,SAC,SAC,fg_miss,6,True,False,MISS Fox 5' Driving Layup,,25-12,25,12
-0021800011,2018-10-17,SAC,UTA,8.28,1,3,43,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:0 Def:1),25-12,25,12
 0021800011,2018-10-17,SAC,UTA,8.28,1,3,43,SAC,UTA,block,6,True,False,block,block,25-12,25,12
+0021800011,2018-10-17,SAC,UTA,8.28,1,3,43,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:0 Def:1),25-12,25,12
 0021800011,2018-10-17,SAC,UTA,8.4,1,3,36,UTA,UTA,fg_make,9,False,False,,Gobert 1' Driving Dunk (4 PTS) (Exum 1 AST),25-14,25,14
 0021800011,2018-10-17,SAC,UTA,8.75,1,3,15,SAC,SAC,fg_make,3,False,False,Bagley III 11' Hook Shot (2 PTS),,27-14,27,14
 0021800011,2018-10-17,SAC,UTA,8.95,1,3,3,UTA,SAC,foul,2,False,False,Jackson S.FOUL (P2.T4) (M.Davis),,27-14,27,14
@@ -232,8 +232,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800011,2018-10-17,SAC,UTA,24.78,3,11,13,SAC,SAC,reb,0,False,False,Hield REBOUND (Off:1 Def:2),,57-71,57,71
 0021800011,2018-10-17,SAC,UTA,24.9,3,11,6,SAC,SAC,fg_make,3,False,False,Cauley-Stein 7' Hook Shot (11 PTS),,59-71,59,71
 0021800011,2018-10-17,SAC,UTA,25.2,3,10,48,UTA,UTA,fg_miss,6,True,False,,MISS Mitchell 7' Driving Layup,59-71,59,71
-0021800011,2018-10-17,SAC,UTA,25.2,3,10,48,SAC,SAC,reb,0,False,False,KINGS Rebound,,59-71,59,71
 0021800011,2018-10-17,SAC,UTA,25.2,3,10,48,UTA,SAC,block,6,True,False,block,block,59-71,59,71
+0021800011,2018-10-17,SAC,UTA,25.2,3,10,48,SAC,SAC,reb,0,False,False,KINGS Rebound,,59-71,59,71
 0021800011,2018-10-17,SAC,UTA,25.48,3,10,31,SAC,SAC,fg_make,47,False,False,Fox 6' Turnaround Jump Shot (11 PTS),,61-71,61,71
 0021800011,2018-10-17,SAC,UTA,25.63,3,10,22,UTA,UTA,fg_miss,63,False,False,,MISS Rubio 14' Fadeaway Jumper,61-71,61,71
 0021800011,2018-10-17,SAC,UTA,25.65,3,10,21,UTA,UTA,reb,0,False,False,,Favors REBOUND (Off:1 Def:4),61-71,61,71
@@ -340,9 +340,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800011,2018-10-17,SAC,UTA,37.83,4,10,10,UTA,UTA,tov,2,False,True,,Favors Lost Ball Turnover (P2.T12),91-97,91,97
 0021800011,2018-10-17,SAC,UTA,37.83,4,10,10,UTA,SAC,steal,2,False,True,steal,steal,91-97,91,97
 0021800011,2018-10-17,SAC,UTA,37.93,4,10,4,SAC,SAC,fg_miss,78,False,False,MISS Jackson 4' Floating Jump Shot,,91-97,91,97
+0021800011,2018-10-17,SAC,UTA,37.95,4,10,3,SAC,SAC,reb,0,False,False,Cauley-Stein REBOUND (Off:2 Def:5),,91-97,91,97
 0021800011,2018-10-17,SAC,UTA,37.95,4,10,3,SAC,SAC,fg_miss,97,False,False,MISS Cauley-Stein 2' Tip Layup Shot,,91-97,91,97
 0021800011,2018-10-17,SAC,UTA,37.95,4,10,3,SAC,SAC,reb,0,False,False,Bagley III REBOUND (Off:1 Def:4),,91-97,91,97
-0021800011,2018-10-17,SAC,UTA,37.95,4,10,3,SAC,SAC,reb,0,False,False,Cauley-Stein REBOUND (Off:2 Def:5),,91-97,91,97
 0021800011,2018-10-17,SAC,UTA,37.98,4,10,1,SAC,SAC,fg_make,97,False,False,Bagley III 2' Tip Layup Shot (6 PTS),,93-97,93,97
 0021800011,2018-10-17,SAC,UTA,37.98,4,10,1,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.4 Short 0),93-97,93,97
 0021800011,2018-10-17,SAC,UTA,38.35,4,9,39,UTA,UTA,fg_make,98,False,False,,Favors 1' Cutting Layup Shot (15 PTS) (Burks 4 AST),93-99,93,99
@@ -369,8 +369,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800011,2018-10-17,SAC,UTA,41.85,4,6,9,SAC,SAC,tov,1,False,True,Hield Bad Pass Turnover (P4.T8),,101-109,101,109
 0021800011,2018-10-17,SAC,UTA,41.85,4,6,9,SAC,UTA,steal,1,False,True,steal,steal,101-109,101,109
 0021800011,2018-10-17,SAC,UTA,41.92,4,6,5,UTA,UTA,tov,1,False,True,,Ingles Bad Pass Turnover (P3.T15),101-109,101,109
-0021800011,2018-10-17,SAC,UTA,41.92,4,6,5,SAC,UTA,foul,2,False,False,,Ingles S.FOUL (P3.T1) (J.Orr),101-109,101,109
 0021800011,2018-10-17,SAC,UTA,41.92,4,6,5,UTA,SAC,steal,1,False,True,steal,steal,101-109,101,109
+0021800011,2018-10-17,SAC,UTA,41.92,4,6,5,SAC,UTA,foul,2,False,False,,Ingles S.FOUL (P3.T1) (J.Orr),101-109,101,109
 0021800011,2018-10-17,SAC,UTA,41.92,4,6,5,SAC,SAC,ft_make,11,False,False,Fox Free Throw 1 of 2 (18 PTS),,102-109,102,109
 0021800011,2018-10-17,SAC,UTA,41.92,4,6,5,SAC,SAC,ft_make,12,False,False,Fox Free Throw 2 of 2 (19 PTS),,103-109,103,109
 0021800011,2018-10-17,SAC,UTA,42.17,4,5,50,UTA,UTA,fg3_miss,1,False,False,,MISS Ingles 27' 3PT Jump Shot,103-109,103,109
@@ -403,8 +403,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800011,2018-10-17,SAC,UTA,45.58,4,2,25,SAC,SAC,tov,1,False,True,Fox Bad Pass Turnover (P3.T9),,108-114,108,114
 0021800011,2018-10-17,SAC,UTA,45.58,4,2,25,SAC,UTA,steal,1,False,True,steal,steal,108-114,108,114
 0021800011,2018-10-17,SAC,UTA,45.63,4,2,22,UTA,UTA,fg_miss,41,True,False,,MISS Exum 3' Running Layup,108-114,108,114
-0021800011,2018-10-17,SAC,UTA,45.63,4,2,22,UTA,UTA,reb,0,False,False,,Jazz Rebound,108-114,108,114
 0021800011,2018-10-17,SAC,UTA,45.63,4,2,22,UTA,SAC,block,41,True,False,block,block,108-114,108,114
+0021800011,2018-10-17,SAC,UTA,45.63,4,2,22,UTA,UTA,reb,0,False,False,,Jazz Rebound,108-114,108,114
 0021800011,2018-10-17,SAC,UTA,45.72,4,2,17,UTA,SAC,foul,2,False,False,Cauley-Stein S.FOUL (P1.T2) (C.Washington),,108-114,108,114
 0021800011,2018-10-17,SAC,UTA,45.72,4,2,17,UTA,UTA,ft_make,11,False,False,,Gobert Free Throw 1 of 2 (18 PTS),108-115,108,115
 0021800011,2018-10-17,SAC,UTA,45.72,4,2,17,UTA,UTA,ft_make,12,False,False,,Gobert Free Throw 2 of 2 (19 PTS),108-116,108,116
@@ -421,8 +421,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800011,2018-10-17,SAC,UTA,46.42,4,1,35,UTA,UTA,ft_make,12,False,False,,Crowder Free Throw 2 of 2 (13 PTS),110-119,110,119
 0021800011,2018-10-17,SAC,UTA,46.55,4,1,27,SAC,SAC,fg_make,78,False,False,Hield 12' Floating Jump Shot (19 PTS),,112-119,112,119
 0021800011,2018-10-17,SAC,UTA,46.8,4,1,12,,SAC,jump_ball,0,False,False,Jump Ball Cauley-Stein vs. Ingles: Tip to Fox,,112-119,112,119
-0021800011,2018-10-17,SAC,UTA,46.82,4,1,11,UTA,UTA,tov,2,False,True,,Ingles Lost Ball Turnover (P5.T17),112-119,112,119
 0021800011,2018-10-17,SAC,UTA,46.82,4,1,11,SAC,SAC,timeout,1,False,False,KINGS Timeout: Regular (Full 6 Short 0),,112-119,112,119
+0021800011,2018-10-17,SAC,UTA,46.82,4,1,11,UTA,UTA,tov,2,False,True,,Ingles Lost Ball Turnover (P5.T17),112-119,112,119
 0021800011,2018-10-17,SAC,UTA,46.82,4,1,11,UTA,SAC,steal,2,False,True,steal,steal,112-119,112,119
 0021800011,2018-10-17,SAC,UTA,46.98,4,1,1,SAC,SAC,fg3_miss,63,False,False,MISS Hield 25' 3PT Fadeaway Jumper,,112-119,112,119
 0021800011,2018-10-17,SAC,UTA,47.0,4,1,0,UTA,UTA,reb,0,False,False,,Jazz Rebound,112-119,112,119

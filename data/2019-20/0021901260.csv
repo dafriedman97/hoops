@@ -133,9 +133,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901260,2020-08-04,MIA,BOS,15.63,2,8,22,BOS,BOS,fg3_miss,1,False,False,,MISS Ojeleye 26' 3PT Jump Shot,45-33,45,33
 0021901260,2020-08-04,MIA,BOS,15.67,2,8,20,MIA,MIA,reb,0,False,False,Iguodala REBOUND (Off:0 Def:2),,45-33,45,33
 0021901260,2020-08-04,MIA,BOS,16.03,2,7,58,MIA,MIA,fg_miss,86,True,False,MISS Olynyk 21' Turnaround Fadeaway Shot,,45-33,45,33
+0021901260,2020-08-04,MIA,BOS,16.03,2,7,58,MIA,BOS,block,86,True,False,block,block,45-33,45,33
 0021901260,2020-08-04,MIA,BOS,16.03,2,7,58,MIA,MIA,reb,0,False,False,HEAT Rebound,,45-33,45,33
 0021901260,2020-08-04,MIA,BOS,16.03,2,7,58,MIA,MIA,tov,11,False,False,HEAT Turnover: Shot Clock (T#4),,45-33,45,33
-0021901260,2020-08-04,MIA,BOS,16.03,2,7,58,MIA,BOS,block,86,True,False,block,block,45-33,45,33
 0021901260,2020-08-04,MIA,BOS,16.22,2,7,47,BOS,BOS,tov,1,False,True,,Williams Bad Pass Turnover (P1.T5),45-33,45,33
 0021901260,2020-08-04,MIA,BOS,16.22,2,7,47,BOS,MIA,steal,1,False,True,steal,steal,45-33,45,33
 0021901260,2020-08-04,MIA,BOS,16.27,2,7,44,MIA,MIA,fg3_miss,79,False,False,MISS Herro 25' 3PT Pullup Jump Shot,,45-33,45,33
@@ -176,8 +176,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901260,2020-08-04,MIA,BOS,20.87,2,3,8,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:1 Def:3),,53-47,53,47
 0021901260,2020-08-04,MIA,BOS,20.92,2,3,5,MIA,MIA,fg3_make,1,False,False,Robinson 3PT Jump Shot (9 PTS) (Adebayo 2 AST),,56-47,56,47
 0021901260,2020-08-04,MIA,BOS,21.17,2,2,50,BOS,BOS,fg3_miss,1,True,False,,MISS Hayward 25' 3PT Jump Shot,56-47,56,47
-0021901260,2020-08-04,MIA,BOS,21.17,2,2,50,MIA,MIA,reb,0,False,False,Nunn REBOUND (Off:0 Def:1),,56-47,56,47
 0021901260,2020-08-04,MIA,BOS,21.17,2,2,50,BOS,MIA,block,1,True,False,block,block,56-47,56,47
+0021901260,2020-08-04,MIA,BOS,21.17,2,2,50,MIA,MIA,reb,0,False,False,Nunn REBOUND (Off:0 Def:1),,56-47,56,47
 0021901260,2020-08-04,MIA,BOS,21.5,2,2,30,MIA,MIA,tov,1,False,True,Adebayo Bad Pass Turnover (P1.T6),,56-47,56,47
 0021901260,2020-08-04,MIA,BOS,21.5,2,2,30,MIA,BOS,steal,1,False,True,steal,steal,56-47,56,47
 0021901260,2020-08-04,MIA,BOS,21.65,2,2,21,BOS,BOS,fg_miss,6,False,False,,MISS Walker 2' Driving Layup,56-47,56,47
@@ -423,8 +423,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901260,2020-08-04,MIA,BOS,47.1,4,0,54,MIA,MIA,fg_miss,44,False,False,MISS Dragic 3' Reverse Layup,,108-101,108,101
 0021901260,2020-08-04,MIA,BOS,47.13,4,0,52,BOS,BOS,reb,0,False,False,,Hayward REBOUND (Off:1 Def:5),108-101,108,101
 0021901260,2020-08-04,MIA,BOS,47.2,4,0,48,BOS,BOS,fg_miss,101,True,False,,MISS Hayward 5' Driving Floating Jump Shot,108-101,108,101
-0021901260,2020-08-04,MIA,BOS,47.2,4,0,48,BOS,BOS,reb,0,False,False,,Hayward REBOUND (Off:2 Def:5),108-101,108,101
 0021901260,2020-08-04,MIA,BOS,47.2,4,0,48,BOS,MIA,block,101,True,False,block,block,108-101,108,101
+0021901260,2020-08-04,MIA,BOS,47.2,4,0,48,BOS,BOS,reb,0,False,False,,Hayward REBOUND (Off:2 Def:5),108-101,108,101
 0021901260,2020-08-04,MIA,BOS,47.27,4,0,44,BOS,BOS,fg_miss,72,False,False,,MISS Hayward 3' Putback Layup,108-101,108,101
 0021901260,2020-08-04,MIA,BOS,47.3,4,0,42,MIA,MIA,reb,0,False,False,Robinson REBOUND (Off:0 Def:2),,108-101,108,101
 0021901260,2020-08-04,MIA,BOS,47.58,4,0,25,MIA,MIA,fg_miss,1,True,False,MISS Adebayo 10' Jump Shot,,108-101,108,101

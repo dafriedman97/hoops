@@ -276,8 +276,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900143,2019-11-11,SAS,MEM,31.98,3,4,1,MEM,MEM,tov,1,False,True,,Anderson Bad Pass Turnover (P1.T7),66-77,66,77
 0021900143,2019-11-11,SAS,MEM,31.98,3,4,1,MEM,SAS,steal,1,False,True,steal,steal,66-77,66,77
 0021900143,2019-11-11,SAS,MEM,32.03,3,3,58,SAS,SAS,fg_miss,41,True,False,MISS Gay 2' Running Layup,,66-77,66,77
-0021900143,2019-11-11,SAS,MEM,32.03,3,3,58,SAS,SAS,reb,0,False,False,SPURS Rebound,,66-77,66,77
 0021900143,2019-11-11,SAS,MEM,32.03,3,3,58,SAS,MEM,block,41,True,False,block,block,66-77,66,77
+0021900143,2019-11-11,SAS,MEM,32.03,3,3,58,SAS,SAS,reb,0,False,False,SPURS Rebound,,66-77,66,77
 0021900143,2019-11-11,SAS,MEM,32.17,3,3,50,SAS,SAS,fg3_make,1,False,False,Belinelli 26' 3PT Jump Shot (3 PTS) (Murray 2 AST),,69-77,69,77
 0021900143,2019-11-11,SAS,MEM,32.17,3,3,50,SAS,MEM,foul,2,False,False,,Jones S.FOUL (P2.T4) (M.Myers),69-77,69,77
 0021900143,2019-11-11,SAS,MEM,32.17,3,3,50,SAS,SAS,ft_make,10,False,False,Belinelli Free Throw 1 of 1 (4 PTS),,70-77,70,77
@@ -360,8 +360,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900143,2019-11-11,SAS,MEM,41.57,4,6,26,MEM,MEM,ft_make,12,False,False,,Morant Free Throw 2 of 2 (9 PTS),99-101,99,101
 0021900143,2019-11-11,SAS,MEM,41.73,4,6,16,SAS,SAS,fg_make,1,False,False,Aldridge 13' Jump Shot (16 PTS) (White 2 AST),,101-101,101,101
 0021900143,2019-11-11,SAS,MEM,42.12,4,5,53,MEM,MEM,fg_miss,6,True,False,,MISS Morant 7' Driving Layup,101-101,101,101
-0021900143,2019-11-11,SAS,MEM,42.12,4,5,53,SAS,SAS,reb,0,False,False,SPURS Rebound,,101-101,101,101
 0021900143,2019-11-11,SAS,MEM,42.12,4,5,53,MEM,SAS,block,6,True,False,block,block,101-101,101,101
+0021900143,2019-11-11,SAS,MEM,42.12,4,5,53,SAS,SAS,reb,0,False,False,SPURS Rebound,,101-101,101,101
 0021900143,2019-11-11,SAS,MEM,42.35,4,5,39,SAS,SAS,fg3_make,1,False,False,Gay 26' 3PT Jump Shot (16 PTS) (White 3 AST),,104-101,104,101
 0021900143,2019-11-11,SAS,MEM,42.83,4,5,10,MEM,MEM,fg_miss,57,False,False,,MISS Brooks 7' Driving Hook Shot,104-101,104,101
 0021900143,2019-11-11,SAS,MEM,42.88,4,5,7,SAS,SAS,reb,0,False,False,Aldridge REBOUND (Off:0 Def:4),,104-101,104,101
@@ -400,8 +400,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900143,2019-11-11,SAS,MEM,47.2,4,0,48,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:2 Def:9),109-111,109,111
 0021900143,2019-11-11,SAS,MEM,47.33,4,0,40,MEM,MEM,fg_miss,79,False,False,,MISS Brooks 21' Pullup Jump Shot,109-111,109,111
 0021900143,2019-11-11,SAS,MEM,47.4,4,0,36,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:3 Def:9),109-111,109,111
-0021900143,2019-11-11,SAS,MEM,47.58,4,0,25,MEM,MEM,tov,39,False,False,,Jackson Jr. Step Out of Bounds Turnover (P2.T10),109-111,109,111
 0021900143,2019-11-11,SAS,MEM,47.58,4,0,25,SAS,SAS,timeout,1,False,False,SPURS Timeout: Regular (Full 6 Short 0),,109-111,109,111
+0021900143,2019-11-11,SAS,MEM,47.58,4,0,25,MEM,MEM,tov,39,False,False,,Jackson Jr. Step Out of Bounds Turnover (P2.T10),109-111,109,111
 0021900143,2019-11-11,SAS,MEM,47.63,4,0,22,SAS,SAS,fg_miss,73,True,False,MISS DeRozan 1' Driving Reverse Layup,,109-111,109,111
 0021900143,2019-11-11,SAS,MEM,47.63,4,0,22,SAS,MEM,block,73,True,False,block,block,109-111,109,111
 0021900143,2019-11-11,SAS,MEM,47.72,4,0,17,MEM,MEM,reb,0,False,False,,Jackson Jr. REBOUND (Off:2 Def:4),109-111,109,111
@@ -420,7 +420,7 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900143,2019-11-11,SAS,MEM,47.98,4,0,1,MEM,MEM,reb,1,False,False,,Grizzlies Rebound,109-113,109,113
 0021900143,2019-11-11,SAS,MEM,48.0,4,0,0,,SAS,jump_ball,0,False,False,Jump Ball Aldridge vs. Crowder: Tip to DeRozan,,109-113,109,113
 0021900143,2019-11-11,SAS,MEM,48.0,4,0,0,MEM,MEM,tov,2,False,True,,Crowder Lost Ball Turnover (P2.T11),109-113,109,113
+0021900143,2019-11-11,SAS,MEM,48.0,4,0,0,MEM,SAS,steal,2,False,True,steal,steal,109-113,109,113
 0021900143,2019-11-11,SAS,MEM,48.0,4,0,0,SAS,SAS,fg3_miss,1,False,False,MISS DeRozan 25' 3PT Jump Shot,,109-113,109,113
 0021900143,2019-11-11,SAS,MEM,48.0,4,0,0,SAS,SAS,reb,0,False,False,SPURS Rebound,,109-113,109,113
 0021900143,2019-11-11,SAS,MEM,48.0,4,0,0,SAS,,period_end,0,False,False,,,109-113,109,113
-0021900143,2019-11-11,SAS,MEM,48.0,4,0,0,MEM,SAS,steal,2,False,True,steal,steal,109-113,109,113

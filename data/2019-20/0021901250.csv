@@ -219,8 +219,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901250,2020-08-03,MIA,TOR,25.38,3,10,37,MIA,MIA,fg_miss,6,False,False,MISS Butler 3' Driving Layup,,44-53,44,53
 0021901250,2020-08-03,MIA,TOR,25.4,3,10,36,TOR,TOR,reb,0,False,False,,VanVleet REBOUND (Off:0 Def:5),44-53,44,53
 0021901250,2020-08-03,MIA,TOR,25.62,3,10,23,TOR,TOR,tov,1,False,True,,Siakam Bad Pass Turnover (P1.T14),44-53,44,53
-0021901250,2020-08-03,MIA,TOR,25.62,3,10,23,MIA,TOR,foul,1,False,False,,Siakam P.FOUL (P1.T1) (D.Guthrie),44-53,44,53
 0021901250,2020-08-03,MIA,TOR,25.62,3,10,23,TOR,MIA,steal,1,False,True,steal,steal,44-53,44,53
+0021901250,2020-08-03,MIA,TOR,25.62,3,10,23,MIA,TOR,foul,1,False,False,,Siakam P.FOUL (P1.T1) (D.Guthrie),44-53,44,53
 0021901250,2020-08-03,MIA,TOR,25.77,3,10,14,MIA,TOR,foul,1,False,False,,Siakam P.FOUL (P2.T2) (L.Wood),44-53,44,53
 0021901250,2020-08-03,MIA,TOR,25.88,3,10,7,MIA,MIA,fg_make,108,False,False,Butler 2' Cutting Dunk Shot (10 PTS) (Adebayo 2 AST),,46-53,46,53
 0021901250,2020-08-03,MIA,TOR,26.15,3,9,51,TOR,MIA,foul,2,False,False,Nunn S.FOUL (P4.T2) (L.Wood),,46-53,46,53
@@ -262,9 +262,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901250,2020-08-03,MIA,TOR,29.22,3,6,47,MIA,MIA,fg_miss,6,False,False,MISS Crowder 2' Driving Layup,,51-68,51,68
 0021901250,2020-08-03,MIA,TOR,29.23,3,6,46,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:1 Def:2),,51-68,51,68
 0021901250,2020-08-03,MIA,TOR,29.23,3,6,46,MIA,MIA,fg_miss,72,True,False,MISS Butler 2' Putback Layup,,51-68,51,68
+0021901250,2020-08-03,MIA,TOR,29.23,3,6,46,MIA,TOR,block,72,True,False,block,block,51-68,51,68
 0021901250,2020-08-03,MIA,TOR,29.23,3,6,46,MIA,MIA,reb,0,False,False,HEAT Rebound,,51-68,51,68
 0021901250,2020-08-03,MIA,TOR,29.23,3,6,46,MIA,TOR,foul,1,False,False,,Siakam P.FOUL (P3.PN) (L.Wood),51-68,51,68
-0021901250,2020-08-03,MIA,TOR,29.23,3,6,46,MIA,TOR,block,72,True,False,block,block,51-68,51,68
 0021901250,2020-08-03,MIA,TOR,29.23,3,6,46,MIA,MIA,ft_make,11,False,False,Butler Free Throw 1 of 2 (13 PTS),,52-68,52,68
 0021901250,2020-08-03,MIA,TOR,29.23,3,6,46,MIA,MIA,ft_make,12,False,False,Butler Free Throw 2 of 2 (14 PTS),,53-68,53,68
 0021901250,2020-08-03,MIA,TOR,29.45,3,6,33,TOR,TOR,fg3_miss,79,False,False,,MISS VanVleet 26' 3PT Pullup Jump Shot,53-68,53,68
@@ -274,12 +274,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901250,2020-08-03,MIA,TOR,29.57,3,6,26,MIA,MIA,ft_make,12,False,False,Dragic Free Throw 2 of 2 (10 PTS),,55-68,55,68
 0021901250,2020-08-03,MIA,TOR,29.8,3,6,12,TOR,TOR,fg_make,80,False,False,,Siakam 18' Step Back Jump Shot (17 PTS),55-70,55,70
 0021901250,2020-08-03,MIA,TOR,30.07,3,5,56,MIA,MIA,fg3_miss,79,True,False,MISS Dragic 27' 3PT Pullup Jump Shot,,55-70,55,70
+0021901250,2020-08-03,MIA,TOR,30.07,3,5,56,MIA,TOR,block,79,True,False,block,block,55-70,55,70
 0021901250,2020-08-03,MIA,TOR,30.07,3,5,56,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:0 Def:3),55-70,55,70
 0021901250,2020-08-03,MIA,TOR,30.07,3,5,56,TOR,MIA,foul,1,False,False,Dragic P.FOUL (P2.PN) (L.Wood),,55-70,55,70
 0021901250,2020-08-03,MIA,TOR,30.07,3,5,56,TOR,TOR,ft_miss,11,False,False,,MISS Anunoby Free Throw 1 of 2,55-70,55,70
 0021901250,2020-08-03,MIA,TOR,30.07,3,5,56,TOR,TOR,reb,1,False,False,,Raptors Rebound,55-70,55,70
 0021901250,2020-08-03,MIA,TOR,30.07,3,5,56,TOR,TOR,ft_miss,12,False,False,,MISS Anunoby Free Throw 2 of 2,55-70,55,70
-0021901250,2020-08-03,MIA,TOR,30.07,3,5,56,MIA,TOR,block,79,True,False,block,block,55-70,55,70
 0021901250,2020-08-03,MIA,TOR,30.1,3,5,54,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:1 Def:6),,55-70,55,70
 0021901250,2020-08-03,MIA,TOR,30.23,3,5,46,MIA,TOR,foul,1,False,False,,Gasol P.FOUL (P4.PN) (T.Maddox),55-70,55,70
 0021901250,2020-08-03,MIA,TOR,30.23,3,5,46,MIA,MIA,ft_make,11,False,False,Butler Free Throw 1 of 2 (15 PTS),,56-70,56,70

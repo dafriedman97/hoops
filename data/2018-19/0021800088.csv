@@ -20,8 +20,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800088,2018-10-29,PHI,ATL,2.3,1,9,42,PHI,PHI,tov,1,False,True,Covington Bad Pass Turnover (P2.T2),,4-6,4,6
 0021800088,2018-10-29,PHI,ATL,2.3,1,9,42,PHI,ATL,steal,1,False,True,steal,steal,4-6,4,6
 0021800088,2018-10-29,PHI,ATL,2.35,1,9,39,ATL,ATL,fg_miss,41,True,False,,MISS Young 14' Running Layup,4-6,4,6
-0021800088,2018-10-29,PHI,ATL,2.35,1,9,39,PHI,PHI,reb,0,False,False,Saric REBOUND (Off:0 Def:1),,4-6,4,6
 0021800088,2018-10-29,PHI,ATL,2.35,1,9,39,ATL,PHI,block,41,True,False,block,block,4-6,4,6
+0021800088,2018-10-29,PHI,ATL,2.35,1,9,39,PHI,PHI,reb,0,False,False,Saric REBOUND (Off:0 Def:1),,4-6,4,6
 0021800088,2018-10-29,PHI,ATL,2.53,1,9,28,PHI,PHI,fg_make,41,False,False,Simmons 4' Running Layup (2 PTS),,6-6,6,6
 0021800088,2018-10-29,PHI,ATL,2.75,1,9,15,ATL,ATL,fg_make,5,False,False,,Bazemore 2' Layup (2 PTS),6-8,6,8
 0021800088,2018-10-29,PHI,ATL,3.07,1,8,56,PHI,ATL,foul,1,False,False,,Carter P.FOUL (P1.T1) (K.Scott),6-8,6,8
@@ -117,8 +117,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800088,2018-10-29,PHI,ATL,11.0,1,1,0,PHI,ATL,block,5,True,False,block,block,18-21,18,21
 0021800088,2018-10-29,PHI,ATL,11.03,1,0,58,PHI,PHI,reb,0,False,False,Fultz REBOUND (Off:2 Def:1),,18-21,18,21
 0021800088,2018-10-29,PHI,ATL,11.05,1,0,57,PHI,PHI,fg_miss,5,True,False,MISS Fultz 4' Layup,,18-21,18,21
-0021800088,2018-10-29,PHI,ATL,11.05,1,0,57,ATL,ATL,reb,0,False,False,,Young REBOUND (Off:0 Def:1),18-21,18,21
 0021800088,2018-10-29,PHI,ATL,11.05,1,0,57,PHI,ATL,block,5,True,False,block,block,18-21,18,21
+0021800088,2018-10-29,PHI,ATL,11.05,1,0,57,ATL,ATL,reb,0,False,False,,Young REBOUND (Off:0 Def:1),18-21,18,21
 0021800088,2018-10-29,PHI,ATL,11.2,1,0,48,ATL,ATL,fg3_miss,1,False,False,,MISS Huerter 27' 3PT Jump Shot,18-21,18,21
 0021800088,2018-10-29,PHI,ATL,11.25,1,0,45,PHI,PHI,reb,0,False,False,Shamet REBOUND (Off:0 Def:1),,18-21,18,21
 0021800088,2018-10-29,PHI,ATL,11.33,1,0,40,PHI,PHI,fg3_miss,1,False,False,MISS Embiid 27' 3PT Jump Shot,,18-21,18,21
@@ -276,8 +276,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800088,2018-10-29,PHI,ATL,26.85,3,9,9,ATL,ATL,fg_make,108,False,False,,Len 1' Cutting Dunk Shot (8 PTS) (Prince 2 AST),52-51,52,51
 0021800088,2018-10-29,PHI,ATL,27.07,3,8,56,PHI,PHI,fg_make,99,False,False,Simmons 2' Cutting Finger Roll Layup Shot (13 PTS) (Embiid 4 AST),,54-51,54,51
 0021800088,2018-10-29,PHI,ATL,27.15,3,8,51,ATL,ATL,fg_miss,6,True,False,,MISS Prince 4' Driving Layup,54-51,54,51
-0021800088,2018-10-29,PHI,ATL,27.15,3,8,51,PHI,PHI,reb,0,False,False,76ERS Rebound,,54-51,54,51
 0021800088,2018-10-29,PHI,ATL,27.15,3,8,51,ATL,PHI,block,6,True,False,block,block,54-51,54,51
+0021800088,2018-10-29,PHI,ATL,27.15,3,8,51,PHI,PHI,reb,0,False,False,76ERS Rebound,,54-51,54,51
 0021800088,2018-10-29,PHI,ATL,27.33,3,8,40,PHI,PHI,fg_miss,63,False,False,MISS Embiid 13' Fadeaway Jumper,,54-51,54,51
 0021800088,2018-10-29,PHI,ATL,27.4,3,8,36,ATL,ATL,reb,0,False,False,,Prince REBOUND (Off:1 Def:5),54-51,54,51
 0021800088,2018-10-29,PHI,ATL,27.55,3,8,27,ATL,ATL,fg3_miss,1,False,False,,MISS Young 28' 3PT Jump Shot,54-51,54,51
@@ -469,11 +469,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800088,2018-10-29,PHI,ATL,46.6,4,1,24,PHI,PHI,fg_make,98,False,False,Korkmaz 2' Cutting Layup Shot (2 PTS) (McConnell 1 AST),,111-88,111,88
 0021800088,2018-10-29,PHI,ATL,46.93,4,1,4,ATL,ATL,fg3_make,1,False,False,,Adams 24' 3PT Jump Shot (3 PTS) (Dorsey 1 AST),111-91,111,91
 0021800088,2018-10-29,PHI,ATL,47.13,4,0,52,PHI,PHI,tov,1,False,True,McConnell Bad Pass Turnover (P2.T19),,111-91,111,91
+0021800088,2018-10-29,PHI,ATL,47.13,4,0,52,PHI,ATL,steal,1,False,True,steal,steal,111-91,111,91
 0021800088,2018-10-29,PHI,ATL,47.13,4,0,52,ATL,PHI,foul,1,False,False,Johnson P.FOUL (P2.PN) (K.Scott),,111-91,111,91
 0021800088,2018-10-29,PHI,ATL,47.13,4,0,52,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 4 Short 0),,111-91,111,91
 0021800088,2018-10-29,PHI,ATL,47.13,4,0,52,ATL,ATL,ft_miss,11,False,False,,MISS Bembry Free Throw 1 of 2,111-91,111,91
 0021800088,2018-10-29,PHI,ATL,47.13,4,0,52,ATL,ATL,reb,1,False,False,,Hawks Rebound,111-91,111,91
-0021800088,2018-10-29,PHI,ATL,47.13,4,0,52,PHI,ATL,steal,1,False,True,steal,steal,111-91,111,91
 0021800088,2018-10-29,PHI,ATL,47.13,4,0,52,ATL,ATL,ft_make,12,False,False,,Bembry Free Throw 2 of 2 (5 PTS),111-92,111,92
 0021800088,2018-10-29,PHI,ATL,47.25,4,0,45,PHI,PHI,fg_make,5,False,False,Johnson 1' Layup (2 PTS) (Fultz 7 AST),,113-92,113,92
 0021800088,2018-10-29,PHI,ATL,47.43,4,0,34,ATL,ATL,fg_miss,6,False,False,,MISS Spellman 5' Driving Layup,113-92,113,92

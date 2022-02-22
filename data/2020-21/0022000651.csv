@@ -299,8 +299,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000651,2021-03-21,PHX,LAL,34.57,3,1,26,PHX,PHX,fg_miss,101,False,False,MISS Booker 2' Driving Floating Jump Shot,,83-71,83,71
 0022000651,2021-03-21,PHX,LAL,34.6,3,1,24,LAL,LAL,reb,0,False,False,,Caruso REBOUND (Off:0 Def:4),83-71,83,71
 0022000651,2021-03-21,PHX,LAL,34.78,3,1,13,LAL,LAL,fg_miss,5,True,False,,MISS Harrell 5' Layup,83-71,83,71
-0022000651,2021-03-21,PHX,LAL,34.78,3,1,13,LAL,LAL,reb,0,False,False,,Lakers Rebound,83-71,83,71
 0022000651,2021-03-21,PHX,LAL,34.78,3,1,13,LAL,PHX,block,5,True,False,block,block,83-71,83,71
+0022000651,2021-03-21,PHX,LAL,34.78,3,1,13,LAL,LAL,reb,0,False,False,,Lakers Rebound,83-71,83,71
 0022000651,2021-03-21,PHX,LAL,34.83,3,1,10,LAL,LAL,fg_make,98,False,False,,Caruso 3' Cutting Layup Shot (7 PTS) (Horton-Tucker 2 AST),83-73,83,73
 0022000651,2021-03-21,PHX,LAL,35.07,3,0,56,PHX,PHX,fg3_make,1,False,False,Galloway 25' 3PT Jump Shot (3 PTS) (Payne 4 AST),,86-73,86,73
 0022000651,2021-03-21,PHX,LAL,35.42,3,0,35,LAL,LAL,fg_make,73,False,False,,Horton-Tucker 2' Driving Reverse Layup (10 PTS),86-75,86,75
@@ -320,8 +320,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000651,2021-03-21,PHX,LAL,36.0,3,0,0,PHX,,period_end,0,False,False,,,88-76,88,76
 0022000651,2021-03-21,PHX,LAL,36.0,4,12,0,PHX,,period_start,0,False,False,,,88-76,88,76
 0022000651,2021-03-21,PHX,LAL,36.2,4,11,48,PHX,PHX,fg3_miss,1,False,False,MISS Galloway 3PT Jump Shot,,88-76,88,76
-0022000651,2021-03-21,PHX,LAL,36.32,4,11,41,PHX,PHX,fg_make,72,False,False,Nader Putback Layup (5 PTS),,90-76,90,76
 0022000651,2021-03-21,PHX,LAL,36.32,4,11,41,PHX,PHX,reb,0,False,False,Nader REBOUND (Off:1 Def:4),,90-76,90,76
+0022000651,2021-03-21,PHX,LAL,36.32,4,11,41,PHX,PHX,fg_make,72,False,False,Nader Putback Layup (5 PTS),,90-76,90,76
 0022000651,2021-03-21,PHX,LAL,36.55,4,11,27,LAL,LAL,fg_miss,6,False,False,,MISS Horton-Tucker 3' Driving Layup,90-76,90,76
 0022000651,2021-03-21,PHX,LAL,36.55,4,11,27,LAL,LAL,reb,0,False,False,,Horton-Tucker REBOUND (Off:3 Def:2),90-76,90,76
 0022000651,2021-03-21,PHX,LAL,36.55,4,11,27,LAL,PHX,foul,2,False,False,Saric S.FOUL (P2.T1) (S.Twardoski),,90-76,90,76
@@ -354,8 +354,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000651,2021-03-21,PHX,LAL,39.62,4,8,23,PHX,PHX,fg_miss,80,False,False,MISS Paul 14' Step Back Jump Shot,,94-84,94,84
 0022000651,2021-03-21,PHX,LAL,39.65,4,8,21,LAL,LAL,reb,0,False,False,,Kuzma REBOUND (Off:0 Def:6),94-84,94,84
 0022000651,2021-03-21,PHX,LAL,39.73,4,8,16,LAL,LAL,fg_miss,41,True,False,,MISS Harrell 2' Running Layup,94-84,94,84
-0022000651,2021-03-21,PHX,LAL,39.73,4,8,16,PHX,PHX,reb,0,False,False,Craig REBOUND (Off:0 Def:1),,94-84,94,84
 0022000651,2021-03-21,PHX,LAL,39.73,4,8,16,LAL,PHX,block,41,True,False,block,block,94-84,94,84
+0022000651,2021-03-21,PHX,LAL,39.73,4,8,16,PHX,PHX,reb,0,False,False,Craig REBOUND (Off:0 Def:1),,94-84,94,84
 0022000651,2021-03-21,PHX,LAL,39.85,4,8,9,PHX,PHX,fg3_miss,2,False,False,MISS Crowder 27' 3PT Running Jump Shot,,94-84,94,84
 0022000651,2021-03-21,PHX,LAL,39.87,4,8,8,LAL,LAL,reb,0,False,False,,Lakers Rebound,94-84,94,84
 0022000651,2021-03-21,PHX,LAL,39.87,4,8,8,LAL,PHX,foul,3,False,False,Ayton L.B.FOUL (P2.PN) (T.Ford),,94-84,94,84
@@ -403,10 +403,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000651,2021-03-21,PHX,LAL,44.73,4,3,16,LAL,LAL,reb,0,False,False,,Harrell REBOUND (Off:1 Def:9),103-91,103,91
 0022000651,2021-03-21,PHX,LAL,44.73,4,3,16,LAL,PHX,foul,1,False,False,Booker P.FOUL (P2.PN) (E.Lewis),,103-91,103,91
 0022000651,2021-03-21,PHX,LAL,44.73,4,3,16,LAL,LAL,ft_miss,11,False,False,,MISS Harrell Free Throw 1 of 2,103-91,103,91
+0022000651,2021-03-21,PHX,LAL,44.73,4,3,16,PHX,PHX,timeout,1,False,False,SUNS Timeout: Regular (Full 4 Short 0),,103-91,103,91
 0022000651,2021-03-21,PHX,LAL,44.73,4,3,16,LAL,LAL,reb,1,False,False,,Lakers Rebound,103-91,103,91
 0022000651,2021-03-21,PHX,LAL,44.73,4,3,16,LAL,LAL,ft_miss,12,False,False,,MISS Harrell Free Throw 2 of 2,103-91,103,91
 0022000651,2021-03-21,PHX,LAL,44.73,4,3,16,PHX,PHX,reb,0,False,False,Booker REBOUND (Off:3 Def:6),,103-91,103,91
-0022000651,2021-03-21,PHX,LAL,44.73,4,3,16,PHX,PHX,timeout,1,False,False,SUNS Timeout: Regular (Full 4 Short 0),,103-91,103,91
 0022000651,2021-03-21,PHX,LAL,45.13,4,2,52,PHX,PHX,fg_make,1,False,False,Booker 23' Jump Shot (26 PTS),,105-91,105,91
 0022000651,2021-03-21,PHX,LAL,45.4,4,2,36,LAL,LAL,fg3_miss,1,False,False,,MISS Caldwell-Pope 25' 3PT Jump Shot,105-91,105,91
 0022000651,2021-03-21,PHX,LAL,45.45,4,2,33,PHX,PHX,reb,0,False,False,Bridges REBOUND (Off:1 Def:5),,105-91,105,91
@@ -414,9 +414,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000651,2021-03-21,PHX,LAL,45.98,4,2,1,LAL,LAL,fg_make,3,False,False,,Harrell 7' Hook Shot (23 PTS),107-93,107,93
 0022000651,2021-03-21,PHX,LAL,46.22,4,1,47,PHX,PHX,fg_make,80,False,False,Paul 14' Step Back Jump Shot (11 PTS),,109-93,109,93
 0022000651,2021-03-21,PHX,LAL,46.22,4,1,47,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.6 Short 0),109-93,109,93
+0022000651,2021-03-21,PHX,LAL,46.57,4,1,26,LAL,LAL,fg3_miss,1,False,False,,MISS Caruso 26' 3PT Jump Shot,109-93,109,93
 0022000651,2021-03-21,PHX,LAL,46.57,4,1,26,LAL,LAL,fg_miss,6,False,False,,MISS Horton-Tucker 2' Driving Layup,109-93,109,93
 0022000651,2021-03-21,PHX,LAL,46.57,4,1,26,LAL,LAL,reb,0,False,False,,Horton-Tucker REBOUND (Off:4 Def:2),109-93,109,93
-0022000651,2021-03-21,PHX,LAL,46.57,4,1,26,LAL,LAL,fg3_miss,1,False,False,,MISS Caruso 26' 3PT Jump Shot,109-93,109,93
 0022000651,2021-03-21,PHX,LAL,46.63,4,1,22,PHX,PHX,reb,0,False,False,Paul REBOUND (Off:1 Def:8),,109-93,109,93
 0022000651,2021-03-21,PHX,LAL,46.77,4,1,14,PHX,PHX,fg3_miss,1,False,False,MISS Bridges 3PT Jump Shot,,109-93,109,93
 0022000651,2021-03-21,PHX,LAL,46.8,4,1,12,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:3 Def:5),,109-93,109,93

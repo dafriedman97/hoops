@@ -35,8 +35,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900671,2020-01-24,ORL,BOS,4.43,1,7,34,BOS,ORL,foul,2,False,False,Fultz S.FOUL (P1.T1) (B.Barnaky),,14-17,14,17
 0021900671,2020-01-24,ORL,BOS,4.43,1,7,34,BOS,BOS,ft_make,10,False,False,,Walker Free Throw 1 of 1 (8 PTS),14-18,14,18
 0021900671,2020-01-24,ORL,BOS,4.68,1,7,19,ORL,ORL,fg_miss,1,False,False,MISS Gordon 12' Jump Shot,,14-18,14,18
-0021900671,2020-01-24,ORL,BOS,4.8,1,7,12,ORL,ORL,fg_miss,97,False,False,MISS Birch 1' Tip Layup Shot,,14-18,14,18
 0021900671,2020-01-24,ORL,BOS,4.8,1,7,12,ORL,ORL,reb,0,False,False,Birch REBOUND (Off:2 Def:1),,14-18,14,18
+0021900671,2020-01-24,ORL,BOS,4.8,1,7,12,ORL,ORL,fg_miss,97,False,False,MISS Birch 1' Tip Layup Shot,,14-18,14,18
 0021900671,2020-01-24,ORL,BOS,4.82,1,7,11,ORL,ORL,reb,0,False,False,Birch REBOUND (Off:2 Def:1),,14-18,14,18
 0021900671,2020-01-24,ORL,BOS,4.82,1,7,11,ORL,ORL,fg_miss,97,False,False,MISS Birch 1' Tip Layup Shot,,14-18,14,18
 0021900671,2020-01-24,ORL,BOS,4.83,1,7,10,ORL,ORL,reb,0,False,False,Fultz REBOUND (Off:1 Def:0),,14-18,14,18
@@ -300,8 +300,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900671,2020-01-24,ORL,BOS,34.78,3,1,13,ORL,ORL,fg_miss,6,False,False,MISS Carter-Williams 3' Driving Layup,,73-78,73,78
 0021900671,2020-01-24,ORL,BOS,34.8,3,1,12,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:2 Def:0),,73-78,73,78
 0021900671,2020-01-24,ORL,BOS,34.8,3,1,12,ORL,ORL,fg_miss,72,True,False,MISS Bamba 2' Putback Layup,,73-78,73,78
-0021900671,2020-01-24,ORL,BOS,34.8,3,1,12,BOS,BOS,reb,0,False,False,,Celtics Rebound,73-78,73,78
 0021900671,2020-01-24,ORL,BOS,34.8,3,1,12,ORL,BOS,block,72,True,False,block,block,73-78,73,78
+0021900671,2020-01-24,ORL,BOS,34.8,3,1,12,BOS,BOS,reb,0,False,False,,Celtics Rebound,73-78,73,78
 0021900671,2020-01-24,ORL,BOS,34.98,3,1,1,BOS,BOS,fg_miss,6,False,False,,MISS Hayward 3' Driving Layup,73-78,73,78
 0021900671,2020-01-24,ORL,BOS,34.98,3,1,1,BOS,BOS,reb,0,False,False,,Williams REBOUND (Off:1 Def:3),73-78,73,78
 0021900671,2020-01-24,ORL,BOS,35.05,3,0,57,BOS,BOS,fg_make,75,False,False,,Wanamaker 3' Driving Finger Roll Layup (6 PTS) (Williams 2 AST),73-80,73,80
@@ -415,8 +415,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900671,2020-01-24,ORL,BOS,46.82,4,1,11,BOS,BOS,fg_make,79,False,False,,Smart 12' Pullup Jump Shot (7 PTS),98-107,98,107
 0021900671,2020-01-24,ORL,BOS,46.82,4,1,11,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 6 Short 0),,98-107,98,107
 0021900671,2020-01-24,ORL,BOS,46.9,4,1,6,ORL,ORL,fg3_miss,79,True,False,MISS Ross 25' 3PT Pullup Jump Shot,,98-107,98,107
-0021900671,2020-01-24,ORL,BOS,46.9,4,1,6,ORL,ORL,reb,0,False,False,Fournier REBOUND (Off:1 Def:4),,98-107,98,107
 0021900671,2020-01-24,ORL,BOS,46.9,4,1,6,ORL,BOS,block,79,True,False,block,block,98-107,98,107
+0021900671,2020-01-24,ORL,BOS,46.9,4,1,6,ORL,ORL,reb,0,False,False,Fournier REBOUND (Off:1 Def:4),,98-107,98,107
 0021900671,2020-01-24,ORL,BOS,47.0,4,1,0,ORL,ORL,fg3_miss,80,False,False,MISS Fournier 28' 3PT Step Back Jump Shot,,98-107,98,107
 0021900671,2020-01-24,ORL,BOS,47.05,4,0,57,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:1 Def:4),98-107,98,107
 0021900671,2020-01-24,ORL,BOS,47.13,4,0,52,BOS,ORL,foul,1,False,False,Ross P.FOUL (P2.PN) (J.Goldenberg),,98-107,98,107

@@ -14,9 +14,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900750,2020-02-03,LAC,SAS,1.38,1,10,37,SAS,SAS,fg_miss,47,False,False,,MISS Aldridge 13' Turnaround Jump Shot,3-4,3,4
 0021900750,2020-02-03,LAC,SAS,1.45,1,10,33,LAC,LAC,reb,0,False,False,Harkless REBOUND (Off:0 Def:1),,3-4,3,4
 0021900750,2020-02-03,LAC,SAS,1.55,1,10,27,LAC,LAC,fg_miss,6,True,False,MISS Harkless 3' Driving Layup,,3-4,3,4
+0021900750,2020-02-03,LAC,SAS,1.55,1,10,27,LAC,SAS,block,6,True,False,block,block,3-4,3,4
 0021900750,2020-02-03,LAC,SAS,1.55,1,10,27,LAC,LAC,reb,0,False,False,Harkless REBOUND (Off:1 Def:1),,3-4,3,4
 0021900750,2020-02-03,LAC,SAS,1.55,1,10,27,LAC,SAS,foul,1,False,False,,Lyles P.FOUL (P1.T1) (J.Butler),3-4,3,4
-0021900750,2020-02-03,LAC,SAS,1.55,1,10,27,LAC,SAS,block,6,True,False,block,block,3-4,3,4
 0021900750,2020-02-03,LAC,SAS,1.77,1,10,14,LAC,LAC,fg3_miss,1,False,False,MISS Beverley 28' 3PT Jump Shot,,3-4,3,4
 0021900750,2020-02-03,LAC,SAS,1.83,1,10,10,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:0 Def:1),3-4,3,4
 0021900750,2020-02-03,LAC,SAS,1.98,1,10,1,SAS,SAS,fg_miss,102,False,False,,MISS DeRozan 3' Driving Floating Bank Jump Shot,3-4,3,4
@@ -366,8 +366,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900750,2020-02-03,LAC,SAS,40.68,4,7,19,LAC,LAC,reb,0,False,False,Green REBOUND (Off:1 Def:5),,89-91,89,91
 0021900750,2020-02-03,LAC,SAS,40.8,4,7,12,LAC,LAC,fg_miss,5,True,False,MISS Harrell 1' Layup,,89-91,89,91
 0021900750,2020-02-03,LAC,SAS,40.8,4,7,12,LAC,SAS,block,5,True,False,block,block,89-91,89,91
-0021900750,2020-02-03,LAC,SAS,40.83,4,7,10,SAS,SAS,reb,0,False,False,,Spurs Rebound,89-91,89,91
 0021900750,2020-02-03,LAC,SAS,40.83,4,7,10,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.4 Short 0),89-91,89,91
+0021900750,2020-02-03,LAC,SAS,40.83,4,7,10,SAS,SAS,reb,0,False,False,,Spurs Rebound,89-91,89,91
 0021900750,2020-02-03,LAC,SAS,41.07,4,6,56,SAS,SAS,fg_make,6,False,False,,Walker IV 2' Driving Layup (2 PTS),89-93,89,93
 0021900750,2020-02-03,LAC,SAS,41.27,4,6,44,LAC,LAC,fg_make,7,False,False,Harrell 1' Dunk (12 PTS) (Shamet 2 AST),,91-93,91,93
 0021900750,2020-02-03,LAC,SAS,41.52,4,6,29,SAS,SAS,fg3_miss,1,False,False,,MISS Forbes 25' 3PT Jump Shot,91-93,91,93
@@ -408,8 +408,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900750,2020-02-03,LAC,SAS,46.42,4,1,35,LAC,LAC,fg_make,50,False,False,Leonard Running Dunk (22 PTS) (George 8 AST),,104-102,104,102
 0021900750,2020-02-03,LAC,SAS,46.65,4,1,21,SAS,SAS,fg_miss,6,True,False,,MISS DeRozan 3' Driving Layup,104-102,104,102
 0021900750,2020-02-03,LAC,SAS,46.65,4,1,21,SAS,LAC,block,6,True,False,block,block,104-102,104,102
-0021900750,2020-02-03,LAC,SAS,46.7,4,1,18,SAS,SAS,reb,0,False,False,,Spurs Rebound,104-102,104,102
 0021900750,2020-02-03,LAC,SAS,46.7,4,1,18,,LAC,jump_ball,0,False,False,Jump Ball Leonard vs. DeRozan: Tip to Mills,,104-102,104,102
+0021900750,2020-02-03,LAC,SAS,46.7,4,1,18,SAS,SAS,reb,0,False,False,,Spurs Rebound,104-102,104,102
 0021900750,2020-02-03,LAC,SAS,46.83,4,1,10,SAS,SAS,tov,11,False,False,,Spurs Turnover: Shot Clock (T#8),104-102,104,102
 0021900750,2020-02-03,LAC,SAS,47.23,4,0,46,LAC,LAC,fg3_miss,1,False,False,MISS Beverley 28' 3PT Jump Shot,,104-102,104,102
 0021900750,2020-02-03,LAC,SAS,47.28,4,0,43,SAS,SAS,reb,0,False,False,,White REBOUND (Off:0 Def:8),104-102,104,102

@@ -81,8 +81,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900723,2020-01-31,NOP,MEM,9.43,1,2,34,MEM,MEM,reb,0,False,False,,Anderson REBOUND (Off:0 Def:1),24-18,24,18
 0021900723,2020-01-31,NOP,MEM,9.45,1,2,33,MEM,NOP,foul,1,False,False,Ball P.FOUL (P1.T3) (S.Wright),,24-18,24,18
 0021900723,2020-01-31,NOP,MEM,9.63,1,2,22,MEM,MEM,fg_miss,6,True,False,,MISS Jackson 6' Driving Layup,24-18,24,18
-0021900723,2020-01-31,NOP,MEM,9.63,1,2,22,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,24-18,24,18
 0021900723,2020-01-31,NOP,MEM,9.63,1,2,22,MEM,NOP,block,6,True,False,block,block,24-18,24,18
+0021900723,2020-01-31,NOP,MEM,9.63,1,2,22,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,24-18,24,18
 0021900723,2020-01-31,NOP,MEM,9.68,1,2,19,MEM,NOP,foul,2,False,False,Hayes S.FOUL (P1.T4) (S.Wright),,24-18,24,18
 0021900723,2020-01-31,NOP,MEM,9.68,1,2,19,MEM,MEM,ft_miss,11,False,False,,MISS Anderson Free Throw 1 of 2,24-18,24,18
 0021900723,2020-01-31,NOP,MEM,9.68,1,2,19,MEM,MEM,reb,1,False,False,,Grizzlies Rebound,24-18,24,18
@@ -183,8 +183,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900723,2020-01-31,NOP,MEM,19.25,2,4,45,MEM,MEM,reb,0,False,False,,Melton REBOUND (Off:0 Def:1),58-44,58,44
 0021900723,2020-01-31,NOP,MEM,19.35,2,4,39,MEM,MEM,fg3_make,1,False,False,,Valanciunas 26' 3PT Jump Shot (5 PTS) (Melton 1 AST),58-47,58,47
 0021900723,2020-01-31,NOP,MEM,19.68,2,4,19,NOP,NOP,fg_miss,6,True,False,MISS Hart 2' Driving Layup,,58-47,58,47
-0021900723,2020-01-31,NOP,MEM,19.68,2,4,19,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,58-47,58,47
 0021900723,2020-01-31,NOP,MEM,19.68,2,4,19,NOP,MEM,block,6,True,False,block,block,58-47,58,47
+0021900723,2020-01-31,NOP,MEM,19.68,2,4,19,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,58-47,58,47
 0021900723,2020-01-31,NOP,MEM,20.02,2,3,59,MEM,MEM,fg_make,3,False,False,,Valanciunas 7' Hook Shot (7 PTS),58-49,58,49
 0021900723,2020-01-31,NOP,MEM,20.23,2,3,46,NOP,MEM,foul,1,False,False,,Anderson P.FOUL (P1.T4) (S.Wright),58-49,58,49
 0021900723,2020-01-31,NOP,MEM,20.28,2,3,43,NOP,NOP,fg3_make,1,False,False,Ball 27' 3PT Jump Shot (7 PTS) (Williamson 3 AST),,61-49,61,49
@@ -284,8 +284,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900723,2020-01-31,NOP,MEM,29.38,3,6,37,MEM,MEM,fg_miss,71,False,False,,MISS Morant 2' Finger Roll Layup,86-68,86,68
 0021900723,2020-01-31,NOP,MEM,29.42,3,6,35,NOP,NOP,reb,0,False,False,Ingram REBOUND (Off:2 Def:5),,86-68,86,68
 0021900723,2020-01-31,NOP,MEM,29.45,3,6,33,NOP,NOP,fg_miss,5,True,False,MISS Holiday 5' Layup,,86-68,86,68
-0021900723,2020-01-31,NOP,MEM,29.45,3,6,33,NOP,NOP,reb,0,False,False,PELICANS Rebound,,86-68,86,68
 0021900723,2020-01-31,NOP,MEM,29.45,3,6,33,NOP,MEM,block,5,True,False,block,block,86-68,86,68
+0021900723,2020-01-31,NOP,MEM,29.45,3,6,33,NOP,NOP,reb,0,False,False,PELICANS Rebound,,86-68,86,68
 0021900723,2020-01-31,NOP,MEM,29.65,3,6,21,NOP,NOP,fg_miss,58,False,False,MISS Williamson 2' Turnaround Hook Shot,,86-68,86,68
 0021900723,2020-01-31,NOP,MEM,29.67,3,6,20,NOP,NOP,reb,0,False,False,Favors REBOUND (Off:4 Def:5),,86-68,86,68
 0021900723,2020-01-31,NOP,MEM,29.68,3,6,19,NOP,NOP,fg_make,72,False,False,Favors 1' Putback Layup (7 PTS),,88-68,88,68
@@ -301,16 +301,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900723,2020-01-31,NOP,MEM,30.57,3,5,26,NOP,NOP,fg3_make,1,False,False,Ball 24' 3PT Jump Shot (10 PTS) (Ingram 4 AST),,91-71,91,71
 0021900723,2020-01-31,NOP,MEM,30.9,3,5,6,MEM,MEM,fg_make,78,False,False,,Morant 9' Floating Jump Shot (13 PTS),91-73,91,73
 0021900723,2020-01-31,NOP,MEM,31.08,3,4,55,NOP,NOP,fg_miss,5,True,False,MISS Holiday 4' Layup,,91-73,91,73
-0021900723,2020-01-31,NOP,MEM,31.08,3,4,55,NOP,NOP,reb,0,False,False,PELICANS Rebound,,91-73,91,73
 0021900723,2020-01-31,NOP,MEM,31.08,3,4,55,NOP,MEM,block,5,True,False,block,block,91-73,91,73
+0021900723,2020-01-31,NOP,MEM,31.08,3,4,55,NOP,NOP,reb,0,False,False,PELICANS Rebound,,91-73,91,73
 0021900723,2020-01-31,NOP,MEM,31.12,3,4,53,NOP,MEM,foul,2,False,False,,Valanciunas S.FOUL (P5.PN) (T.Maddox),91-73,91,73
 0021900723,2020-01-31,NOP,MEM,31.12,3,4,53,NOP,NOP,ft_make,11,False,False,Holiday Free Throw 1 of 2 (18 PTS),,92-73,92,73
 0021900723,2020-01-31,NOP,MEM,31.12,3,4,53,NOP,NOP,ft_miss,12,False,False,MISS Holiday Free Throw 2 of 2,,92-73,92,73
 0021900723,2020-01-31,NOP,MEM,31.13,3,4,52,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,92-73,92,73
 0021900723,2020-01-31,NOP,MEM,31.28,3,4,43,MEM,NOP,foul,1,False,False,Redick P.FOUL (P2.T2) (T.Maddox),,92-73,92,73
 0021900723,2020-01-31,NOP,MEM,31.45,3,4,33,MEM,MEM,fg_miss,6,True,False,,MISS Melton 3' Driving Layup,92-73,92,73
-0021900723,2020-01-31,NOP,MEM,31.45,3,4,33,NOP,NOP,reb,0,False,False,PELICANS Rebound,,92-73,92,73
 0021900723,2020-01-31,NOP,MEM,31.45,3,4,33,MEM,NOP,block,6,True,False,block,block,92-73,92,73
+0021900723,2020-01-31,NOP,MEM,31.45,3,4,33,NOP,NOP,reb,0,False,False,PELICANS Rebound,,92-73,92,73
 0021900723,2020-01-31,NOP,MEM,31.62,3,4,23,NOP,NOP,fg3_make,1,False,False,Ingram 3PT Jump Shot (20 PTS) (Holiday 5 AST),,95-73,95,73
 0021900723,2020-01-31,NOP,MEM,31.8,3,4,12,MEM,MEM,fg3_miss,1,False,False,,MISS Jackson 25' 3PT Jump Shot,95-73,95,73
 0021900723,2020-01-31,NOP,MEM,31.85,3,4,9,NOP,NOP,reb,0,False,False,Hayes REBOUND (Off:0 Def:2),,95-73,95,73
@@ -351,13 +351,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900723,2020-01-31,NOP,MEM,35.7,3,0,18,MEM,MEM,ft_miss,12,False,False,,MISS Crowder Free Throw 2 of 2,110-86,110,86
 0021900723,2020-01-31,NOP,MEM,35.72,3,0,17,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:0 Def:5),,110-86,110,86
 0021900723,2020-01-31,NOP,MEM,36.0,3,0,0,NOP,NOP,fg3_miss,1,True,False,MISS Moore 26' 3PT Jump Shot,,110-86,110,86
+0021900723,2020-01-31,NOP,MEM,36.0,3,0,0,NOP,MEM,block,1,True,False,block,block,110-86,110,86
 0021900723,2020-01-31,NOP,MEM,36.0,3,0,0,NOP,NOP,reb,0,False,False,PELICANS Rebound,,110-86,110,86
 0021900723,2020-01-31,NOP,MEM,36.0,3,0,0,NOP,,period_end,0,False,False,,,110-86,110,86
 0021900723,2020-01-31,NOP,MEM,36.0,4,12,0,NOP,,period_start,0,False,False,,,110-86,110,86
-0021900723,2020-01-31,NOP,MEM,36.0,3,0,0,NOP,MEM,block,1,True,False,block,block,110-86,110,86
 0021900723,2020-01-31,NOP,MEM,36.38,4,11,37,NOP,NOP,fg_miss,5,True,False,MISS Williamson 3' Layup,,110-86,110,86
-0021900723,2020-01-31,NOP,MEM,36.38,4,11,37,NOP,NOP,reb,0,False,False,Williamson REBOUND (Off:2 Def:1),,110-86,110,86
 0021900723,2020-01-31,NOP,MEM,36.38,4,11,37,NOP,MEM,block,5,True,False,block,block,110-86,110,86
+0021900723,2020-01-31,NOP,MEM,36.38,4,11,37,NOP,NOP,reb,0,False,False,Williamson REBOUND (Off:2 Def:1),,110-86,110,86
 0021900723,2020-01-31,NOP,MEM,36.52,4,11,29,NOP,NOP,fg_miss,5,False,False,MISS Williamson 2' Layup,,110-86,110,86
 0021900723,2020-01-31,NOP,MEM,36.57,4,11,26,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:3 Def:3),110-86,110,86
 0021900723,2020-01-31,NOP,MEM,36.58,4,11,25,MEM,MEM,fg_make,6,False,False,,Crowder 2' Driving Layup (13 PTS),110-88,110,88
@@ -441,8 +441,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900723,2020-01-31,NOP,MEM,44.33,4,3,40,MEM,MEM,ft_miss,12,False,False,,MISS Watanabe Free Throw 2 of 2,136-107,136,107
 0021900723,2020-01-31,NOP,MEM,44.38,4,3,37,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:2 Def:7),,136-107,136,107
 0021900723,2020-01-31,NOP,MEM,44.52,4,3,29,NOP,NOP,fg_miss,75,True,False,MISS Alexander-Walker 2' Driving Finger Roll Layup,,136-107,136,107
-0021900723,2020-01-31,NOP,MEM,44.52,4,3,29,NOP,NOP,reb,0,False,False,PELICANS Rebound,,136-107,136,107
 0021900723,2020-01-31,NOP,MEM,44.52,4,3,29,NOP,MEM,block,75,True,False,block,block,136-107,136,107
+0021900723,2020-01-31,NOP,MEM,44.52,4,3,29,NOP,NOP,reb,0,False,False,PELICANS Rebound,,136-107,136,107
 0021900723,2020-01-31,NOP,MEM,44.72,4,3,17,NOP,NOP,fg_miss,6,False,False,MISS Jackson 1' Driving Layup,,136-107,136,107
 0021900723,2020-01-31,NOP,MEM,44.72,4,3,17,MEM,MEM,reb,0,False,False,,Anderson REBOUND (Off:1 Def:4),136-107,136,107
 0021900723,2020-01-31,NOP,MEM,44.8,4,3,12,MEM,MEM,fg3_miss,1,False,False,,MISS Jackson 3PT Jump Shot,136-107,136,107

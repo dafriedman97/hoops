@@ -52,8 +52,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900607,2020-01-15,CHI,WAS,6.82,1,5,11,WAS,CHI,foul,3,False,False,White L.B.FOUL (P1.T4) (K.Lane),,16-17,16,17
 0021900607,2020-01-15,CHI,WAS,6.93,1,5,4,WAS,WAS,fg_make,6,False,False,,Beal 1' Driving Layup (11 PTS),16-19,16,19
 0021900607,2020-01-15,CHI,WAS,7.13,1,4,52,CHI,CHI,fg_miss,73,True,False,MISS LaVine 2' Driving Reverse Layup,,16-19,16,19
-0021900607,2020-01-15,CHI,WAS,7.13,1,4,52,WAS,WAS,reb,0,False,False,,Mahinmi REBOUND (Off:0 Def:1),16-19,16,19
 0021900607,2020-01-15,CHI,WAS,7.13,1,4,52,CHI,WAS,block,73,True,False,block,block,16-19,16,19
+0021900607,2020-01-15,CHI,WAS,7.13,1,4,52,WAS,WAS,reb,0,False,False,,Mahinmi REBOUND (Off:0 Def:1),16-19,16,19
 0021900607,2020-01-15,CHI,WAS,7.2,1,4,48,WAS,WAS,fg3_make,1,False,False,,Thomas 26' 3PT Jump Shot (5 PTS) (Beal 3 AST),16-22,16,22
 0021900607,2020-01-15,CHI,WAS,7.23,1,4,46,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 2 Short 0),,16-22,16,22
 0021900607,2020-01-15,CHI,WAS,7.63,1,4,22,CHI,CHI,fg_make,6,False,False,Young 3' Driving Layup (2 PTS),,18-22,18,22
@@ -140,9 +140,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900607,2020-01-15,CHI,WAS,15.5,2,8,30,CHI,CHI,reb,1,False,False,BULLS Rebound,,29-33,29,33
 0021900607,2020-01-15,CHI,WAS,15.5,2,8,30,CHI,CHI,ft_make,12,False,False,Hutchison Free Throw 2 of 2 (5 PTS),,30-33,30,33
 0021900607,2020-01-15,CHI,WAS,15.83,2,8,10,WAS,WAS,fg_miss,1,True,False,,MISS Bertans 8' Jump Shot,30-33,30,33
+0021900607,2020-01-15,CHI,WAS,15.83,2,8,10,WAS,CHI,block,1,True,False,block,block,30-33,30,33
 0021900607,2020-01-15,CHI,WAS,15.83,2,8,10,CHI,CHI,reb,0,False,False,BULLS Rebound,,30-33,30,33
 0021900607,2020-01-15,CHI,WAS,15.83,2,8,10,CHI,WAS,foul,3,False,False,,Bertans L.B.FOUL (P2.T4) (E.Lewis),30-33,30,33
-0021900607,2020-01-15,CHI,WAS,15.83,2,8,10,WAS,CHI,block,1,True,False,block,block,30-33,30,33
 0021900607,2020-01-15,CHI,WAS,16.03,2,7,58,CHI,CHI,fg_make,6,False,False,White 5' Driving Layup (5 PTS),,32-33,32,33
 0021900607,2020-01-15,CHI,WAS,16.25,2,7,45,WAS,WAS,tov,4,False,False,,Pasecniks Traveling Turnover (P2.T7),32-33,32,33
 0021900607,2020-01-15,CHI,WAS,16.42,2,7,35,CHI,CHI,fg3_make,79,False,False,White 25' 3PT Pullup Jump Shot (8 PTS),,35-33,35,33
@@ -382,8 +382,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900607,2020-01-15,CHI,WAS,42.73,4,5,16,CHI,CHI,ft_make,18,False,False,Markkanen Free Throw Flagrant 1 of 2 (12 PTS),,102-95,102,95
 0021900607,2020-01-15,CHI,WAS,42.73,4,5,16,CHI,CHI,ft_make,19,False,False,Markkanen Free Throw Flagrant 2 of 2 (13 PTS),,103-95,103,95
 0021900607,2020-01-15,CHI,WAS,43.03,4,4,58,CHI,CHI,fg_miss,5,True,False,MISS Kornet 1' Layup,,103-95,103,95
-0021900607,2020-01-15,CHI,WAS,43.03,4,4,58,CHI,CHI,reb,0,False,False,BULLS Rebound,,103-95,103,95
 0021900607,2020-01-15,CHI,WAS,43.03,4,4,58,CHI,WAS,block,5,True,False,block,block,103-95,103,95
+0021900607,2020-01-15,CHI,WAS,43.03,4,4,58,CHI,CHI,reb,0,False,False,BULLS Rebound,,103-95,103,95
 0021900607,2020-01-15,CHI,WAS,43.07,4,4,56,CHI,CHI,fg3_make,1,False,False,LaVine 3PT Jump Shot (25 PTS) (Dunn 6 AST),,106-95,106,95
 0021900607,2020-01-15,CHI,WAS,43.4,4,4,36,WAS,CHI,foul,1,False,False,Kornet P.FOUL (P3.T3) (E.Lewis),,106-95,106,95
 0021900607,2020-01-15,CHI,WAS,43.53,4,4,28,WAS,WAS,fg_miss,6,True,False,,MISS Brown Jr. 2' Driving Layup,106-95,106,95

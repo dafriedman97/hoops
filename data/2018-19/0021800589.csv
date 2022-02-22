@@ -2,12 +2,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800589,2019-01-06,TOR,IND,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
 0021800589,2019-01-06,TOR,IND,0.0,1,12,0,,TOR,jump_ball,0,False,False,Jump Ball Ibaka vs. Sabonis: Tip to Young,,0-0,0,0
 0021800589,2019-01-06,TOR,IND,0.25,1,11,45,IND,IND,fg_miss,5,False,False,,MISS Bogdanovic 2' Layup,0-0,0,0
-0021800589,2019-01-06,TOR,IND,0.28,1,11,43,IND,IND,fg_miss,97,False,False,,MISS Bogdanovic 2' Tip Layup Shot,0-0,0,0
-0021800589,2019-01-06,TOR,IND,0.28,1,11,43,IND,IND,reb,0,False,False,,Bogdanovic REBOUND (Off:1 Def:0),0-0,0,0
 0021800589,2019-01-06,TOR,IND,0.28,1,11,43,IND,IND,reb,0,False,False,,Bogdanovic REBOUND (Off:2 Def:0),0-0,0,0
 0021800589,2019-01-06,TOR,IND,0.28,1,11,43,IND,IND,fg_make,72,False,False,,Bogdanovic 1' Putback Layup (2 PTS),0-2,0,2
 0021800589,2019-01-06,TOR,IND,0.28,1,11,43,IND,TOR,foul,2,False,False,Green S.FOUL (P1.T1) (A.Smith),,0-2,0,2
 0021800589,2019-01-06,TOR,IND,0.28,1,11,43,IND,IND,ft_miss,10,False,False,,MISS Bogdanovic Free Throw 1 of 1,0-2,0,2
+0021800589,2019-01-06,TOR,IND,0.28,1,11,43,IND,IND,fg_miss,97,False,False,,MISS Bogdanovic 2' Tip Layup Shot,0-0,0,0
+0021800589,2019-01-06,TOR,IND,0.28,1,11,43,IND,IND,reb,0,False,False,,Bogdanovic REBOUND (Off:1 Def:0),0-0,0,0
 0021800589,2019-01-06,TOR,IND,0.4,1,11,36,TOR,TOR,reb,0,False,False,Ibaka REBOUND (Off:0 Def:1),,0-2,0,2
 0021800589,2019-01-06,TOR,IND,0.5,1,11,30,TOR,TOR,tov,40,False,False,Ibaka Out of Bounds Lost Ball Turnover (P1.T1),,0-2,0,2
 0021800589,2019-01-06,TOR,IND,0.7,1,11,18,IND,IND,fg_make,79,False,False,,Oladipo 20' Pullup Jump Shot (2 PTS),0-4,0,4
@@ -274,8 +274,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800589,2019-01-06,TOR,IND,31.3,3,4,42,TOR,TOR,tov,2,False,True,VanVleet Lost Ball Turnover (P1.T13),,88-78,88,78
 0021800589,2019-01-06,TOR,IND,31.3,3,4,42,TOR,IND,steal,2,False,True,steal,steal,88-78,88,78
 0021800589,2019-01-06,TOR,IND,31.45,3,4,33,IND,IND,fg_miss,6,True,False,,MISS Sabonis 2' Driving Layup,88-78,88,78
-0021800589,2019-01-06,TOR,IND,31.45,3,4,33,IND,IND,reb,0,False,False,,Pacers Rebound,88-78,88,78
 0021800589,2019-01-06,TOR,IND,31.45,3,4,33,IND,TOR,block,6,True,False,block,block,88-78,88,78
+0021800589,2019-01-06,TOR,IND,31.45,3,4,33,IND,IND,reb,0,False,False,,Pacers Rebound,88-78,88,78
 0021800589,2019-01-06,TOR,IND,31.53,3,4,28,IND,IND,tov,1,False,True,,Collison Bad Pass Turnover (P1.T9),88-78,88,78
 0021800589,2019-01-06,TOR,IND,31.53,3,4,28,IND,TOR,steal,1,False,True,steal,steal,88-78,88,78
 0021800589,2019-01-06,TOR,IND,31.62,3,4,23,TOR,TOR,tov,1,False,True,Green Bad Pass Turnover (P1.T14),,88-78,88,78
@@ -313,8 +313,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800589,2019-01-06,TOR,IND,35.17,3,0,50,TOR,IND,block,6,True,False,block,block,94-84,94,84
 0021800589,2019-01-06,TOR,IND,35.22,3,0,47,IND,IND,reb,0,False,False,,Bogdanovic REBOUND (Off:2 Def:6),94-84,94,84
 0021800589,2019-01-06,TOR,IND,35.27,3,0,44,IND,IND,fg_miss,41,True,False,,MISS Joseph 4' Running Layup,94-84,94,84
-0021800589,2019-01-06,TOR,IND,35.27,3,0,44,IND,IND,reb,0,False,False,,Pacers Rebound,94-84,94,84
 0021800589,2019-01-06,TOR,IND,35.27,3,0,44,IND,TOR,block,41,True,False,block,block,94-84,94,84
+0021800589,2019-01-06,TOR,IND,35.27,3,0,44,IND,IND,reb,0,False,False,,Pacers Rebound,94-84,94,84
 0021800589,2019-01-06,TOR,IND,35.47,3,0,32,IND,IND,fg_miss,79,False,False,,MISS Joseph 17' Pullup Jump Shot,94-84,94,84
 0021800589,2019-01-06,TOR,IND,35.5,3,0,30,TOR,TOR,reb,0,False,False,Monroe REBOUND (Off:0 Def:5),,94-84,94,84
 0021800589,2019-01-06,TOR,IND,35.63,3,0,22,TOR,TOR,fg_make,98,False,False,Monroe 2' Cutting Layup Shot (11 PTS) (Lowry 8 AST),,96-84,96,84
@@ -322,9 +322,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800589,2019-01-06,TOR,IND,35.93,3,0,4,IND,IND,fg3_miss,79,False,False,,MISS Evans 26' 3PT Pullup Jump Shot,96-84,96,84
 0021800589,2019-01-06,TOR,IND,35.95,3,0,3,IND,IND,reb,0,False,False,,Pacers Rebound,96-84,96,84
 0021800589,2019-01-06,TOR,IND,36.0,3,0,0,IND,IND,tov,1,False,True,,McDermott Bad Pass Turnover (P1.T10),96-84,96,84
+0021800589,2019-01-06,TOR,IND,36.0,3,0,0,IND,TOR,steal,1,False,True,steal,steal,96-84,96,84
 0021800589,2019-01-06,TOR,IND,36.0,3,0,0,IND,,period_end,0,False,False,,,96-84,96,84
 0021800589,2019-01-06,TOR,IND,36.0,4,12,0,IND,,period_start,0,False,False,,,96-84,96,84
-0021800589,2019-01-06,TOR,IND,36.0,3,0,0,IND,TOR,steal,1,False,True,steal,steal,96-84,96,84
 0021800589,2019-01-06,TOR,IND,36.22,4,11,47,IND,IND,fg_make,99,False,False,,McDermott 2' Cutting Finger Roll Layup Shot (2 PTS) (O'Quinn 2 AST),96-86,96,86
 0021800589,2019-01-06,TOR,IND,36.48,4,11,31,TOR,TOR,fg_miss,86,False,False,MISS Powell 8' Turnaround Fadeaway Shot,,96-86,96,86
 0021800589,2019-01-06,TOR,IND,36.55,4,11,27,IND,IND,reb,0,False,False,,O'Quinn REBOUND (Off:2 Def:4),96-86,96,86

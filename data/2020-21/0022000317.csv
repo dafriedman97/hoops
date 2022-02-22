@@ -7,8 +7,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000317,2021-02-01,NOP,SAC,1.2,1,10,48,NOP,NOP,fg_miss,5,False,False,MISS Williamson 6' Layup,,3-5,3,5
 0022000317,2021-02-01,NOP,SAC,1.2,1,10,48,SAC,SAC,reb,0,False,False,,Bagley III REBOUND (Off:0 Def:1),3-5,3,5
 0022000317,2021-02-01,NOP,SAC,1.35,1,10,39,SAC,SAC,fg_miss,6,True,False,,MISS Bagley III 4' Driving Layup,3-5,3,5
-0022000317,2021-02-01,NOP,SAC,1.35,1,10,39,SAC,SAC,reb,0,False,False,,Kings Rebound,3-5,3,5
 0022000317,2021-02-01,NOP,SAC,1.35,1,10,39,SAC,NOP,block,6,True,False,block,block,3-5,3,5
+0022000317,2021-02-01,NOP,SAC,1.35,1,10,39,SAC,SAC,reb,0,False,False,,Kings Rebound,3-5,3,5
 0022000317,2021-02-01,NOP,SAC,1.45,1,10,33,SAC,SAC,tov,39,False,False,,Fox Step Out of Bounds Turnover (P1.T1),3-5,3,5
 0022000317,2021-02-01,NOP,SAC,1.62,1,10,23,NOP,NOP,fg_miss,79,False,False,MISS Ingram 17' Pullup Jump Shot,,3-5,3,5
 0022000317,2021-02-01,NOP,SAC,1.73,1,10,16,NOP,NOP,reb,0,False,False,Hayes REBOUND (Off:1 Def:0),,3-5,3,5
@@ -34,8 +34,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000317,2021-02-01,NOP,SAC,4.28,1,7,43,NOP,NOP,reb,0,False,False,Williamson REBOUND (Off:0 Def:1),,12-16,12,16
 0022000317,2021-02-01,NOP,SAC,4.42,1,7,35,NOP,NOP,fg_make,79,False,False,Bledsoe 16' Pullup Jump Shot (4 PTS),,14-16,14,16
 0022000317,2021-02-01,NOP,SAC,4.6,1,7,24,SAC,SAC,fg_miss,6,True,False,,MISS Bagley III 4' Driving Layup,14-16,14,16
-0022000317,2021-02-01,NOP,SAC,4.6,1,7,24,SAC,SAC,reb,0,False,False,,Kings Rebound,14-16,14,16
 0022000317,2021-02-01,NOP,SAC,4.6,1,7,24,SAC,NOP,block,6,True,False,block,block,14-16,14,16
+0022000317,2021-02-01,NOP,SAC,4.6,1,7,24,SAC,SAC,reb,0,False,False,,Kings Rebound,14-16,14,16
 0022000317,2021-02-01,NOP,SAC,4.63,1,7,22,SAC,SAC,fg3_miss,1,False,False,,MISS Hield 25' 3PT Jump Shot,14-16,14,16
 0022000317,2021-02-01,NOP,SAC,4.68,1,7,19,NOP,NOP,reb,0,False,False,Williamson REBOUND (Off:0 Def:2),,14-16,14,16
 0022000317,2021-02-01,NOP,SAC,4.77,1,7,14,NOP,NOP,tov,45,False,False,Ball Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,14-16,14,16
@@ -134,9 +134,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000317,2021-02-01,NOP,SAC,13.88,2,10,7,SAC,SAC,fg3_miss,1,False,False,,MISS Hield 25' 3PT Jump Shot,35-33,35,33
 0022000317,2021-02-01,NOP,SAC,13.95,2,10,3,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:0 Def:3),,35-33,35,33
 0022000317,2021-02-01,NOP,SAC,14.03,2,9,58,NOP,NOP,fg_miss,6,True,False,MISS Hart 4' Driving Layup,,35-33,35,33
+0022000317,2021-02-01,NOP,SAC,14.03,2,9,58,NOP,SAC,block,6,True,False,block,block,35-33,35,33
 0022000317,2021-02-01,NOP,SAC,14.03,2,9,58,SAC,SAC,reb,0,False,False,,Holmes REBOUND (Off:0 Def:3),35-33,35,33
 0022000317,2021-02-01,NOP,SAC,14.03,2,9,58,SAC,SAC,tov,1,False,True,,Holmes Bad Pass Turnover (P2.T7),35-33,35,33
-0022000317,2021-02-01,NOP,SAC,14.03,2,9,58,NOP,SAC,block,6,True,False,block,block,35-33,35,33
 0022000317,2021-02-01,NOP,SAC,14.03,2,9,58,SAC,NOP,steal,1,False,True,steal,steal,35-33,35,33
 0022000317,2021-02-01,NOP,SAC,14.15,2,9,51,NOP,NOP,fg3_miss,1,False,False,MISS Williamson 25' 3PT Jump Shot,,35-33,35,33
 0022000317,2021-02-01,NOP,SAC,14.2,2,9,48,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:1 Def:3),,35-33,35,33
@@ -205,10 +205,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000317,2021-02-01,NOP,SAC,20.48,2,3,31,SAC,SAC,fg_make,58,False,False,,Bagley III 8' Turnaround Hook Shot (8 PTS) (Fox 6 AST),49-49,49,49
 0022000317,2021-02-01,NOP,SAC,20.68,2,3,19,NOP,SAC,foul,2,False,False,,Fox S.FOUL (P1.T3) (J.Conley),49-49,49,49
 0022000317,2021-02-01,NOP,SAC,20.68,2,3,19,NOP,NOP,ft_make,11,False,False,Bledsoe Free Throw 1 of 2 (8 PTS),,50-49,50,49
+0022000317,2021-02-01,NOP,SAC,20.68,2,3,19,SAC,SAC,timeout,1,False,False,,Kings Timeout: Regular (Reg.2 Short 0),50-49,50,49
 0022000317,2021-02-01,NOP,SAC,20.68,2,3,19,NOP,NOP,ft_miss,12,False,False,MISS Bledsoe Free Throw 2 of 2,,50-49,50,49
 0022000317,2021-02-01,NOP,SAC,20.68,2,3,19,SAC,SAC,reb,0,False,False,,Kings Rebound,50-49,50,49
 0022000317,2021-02-01,NOP,SAC,20.68,2,3,19,SAC,NOP,violation,3,False,False,Lane,,50-49,50,49
-0022000317,2021-02-01,NOP,SAC,20.68,2,3,19,SAC,SAC,timeout,1,False,False,,Kings Timeout: Regular (Reg.2 Short 0),50-49,50,49
 0022000317,2021-02-01,NOP,SAC,20.9,2,3,6,SAC,SAC,tov,45,False,False,,Bagley III Out of Bounds - Bad Pass Turnover Turnover (P1.T10),50-49,50,49
 0022000317,2021-02-01,NOP,SAC,21.1,2,2,54,NOP,NOP,fg_miss,5,False,False,MISS Williamson 1' Layup,,50-49,50,49
 0022000317,2021-02-01,NOP,SAC,21.12,2,2,53,NOP,NOP,reb,0,False,False,Williamson REBOUND (Off:2 Def:2),,50-49,50,49
@@ -264,10 +264,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000317,2021-02-01,NOP,SAC,25.47,3,10,32,NOP,SAC,foul,1,False,False,,Hield P.FOUL (P3.T1) (M.Boland),62-61,62,61
 0022000317,2021-02-01,NOP,SAC,25.7,3,10,18,NOP,SAC,foul,2,False,False,,Bagley III S.FOUL (P3.T2) (J.Conley),62-61,62,61
 0022000317,2021-02-01,NOP,SAC,25.7,3,10,18,NOP,SAC,foul,11,False,False,,Bagley III T.FOUL (P3.T2) (J.Conley),62-61,62,61
-0022000317,2021-02-01,NOP,SAC,25.7,3,10,18,NOP,SAC,ejection,4,False,False,,Bagley III Ejection:Other,62-61,62,61
 0022000317,2021-02-01,NOP,SAC,25.7,3,10,18,NOP,NOP,ft_make,16,False,False,Ingram Free Throw Technical (13 PTS),,63-61,63,61
 0022000317,2021-02-01,NOP,SAC,25.7,3,10,18,NOP,NOP,ft_make,11,False,False,Williamson Free Throw 1 of 2 (9 PTS),,64-61,64,61
 0022000317,2021-02-01,NOP,SAC,25.7,3,10,18,NOP,NOP,ft_make,12,False,False,Williamson Free Throw 2 of 2 (10 PTS),,65-61,65,61
+0022000317,2021-02-01,NOP,SAC,25.7,3,10,18,NOP,SAC,ejection,4,False,False,,Bagley III Ejection:Other,62-61,62,61
 0022000317,2021-02-01,NOP,SAC,25.9,3,10,6,SAC,SAC,fg3_miss,1,False,False,,MISS Hield 26' 3PT Jump Shot,65-61,65,61
 0022000317,2021-02-01,NOP,SAC,25.97,3,10,2,NOP,NOP,reb,0,False,False,Ingram REBOUND (Off:0 Def:3),,65-61,65,61
 0022000317,2021-02-01,NOP,SAC,26.12,3,9,53,NOP,NOP,fg_miss,47,False,False,MISS Williamson 7' Turnaround Jump Shot,,65-61,65,61
@@ -423,8 +423,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000317,2021-02-01,NOP,SAC,42.05,4,5,57,SAC,SAC,tov,37,False,False,,Fox Offensive Foul Turnover (P6.T19),100-101,100,101
 0022000317,2021-02-01,NOP,SAC,42.05,4,5,57,SAC,SAC,timeout,1,False,False,,Kings Timeout: Regular (Reg.4 Short 0),100-101,100,101
 0022000317,2021-02-01,NOP,SAC,42.3,4,5,42,NOP,NOP,fg_miss,1,True,False,MISS Ingram 13' Jump Shot,,100-101,100,101
-0022000317,2021-02-01,NOP,SAC,42.3,4,5,42,NOP,NOP,reb,0,False,False,PELICANS Rebound,,100-101,100,101
 0022000317,2021-02-01,NOP,SAC,42.3,4,5,42,NOP,SAC,block,1,True,False,block,block,100-101,100,101
+0022000317,2021-02-01,NOP,SAC,42.3,4,5,42,NOP,NOP,reb,0,False,False,PELICANS Rebound,,100-101,100,101
 0022000317,2021-02-01,NOP,SAC,42.33,4,5,40,NOP,NOP,fg_make,79,False,False,Ingram 17' Pullup Jump Shot (19 PTS) (Ball 5 AST),,102-101,102,101
 0022000317,2021-02-01,NOP,SAC,42.63,4,5,22,SAC,SAC,fg_make,80,False,False,,Fox 23' Step Back Jump Shot (26 PTS) (Haliburton 5 AST),102-103,102,103
 0022000317,2021-02-01,NOP,SAC,42.87,4,5,8,NOP,NOP,fg3_miss,1,False,False,MISS Ball 26' 3PT Jump Shot,,102-103,102,103

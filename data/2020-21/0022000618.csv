@@ -4,8 +4,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000618,2021-03-17,PHI,MIL,0.33,1,11,40,MIL,MIL,fg3_miss,1,False,False,,MISS Lopez 27' 3PT Jump Shot,0-0,0,0
 0022000618,2021-03-17,PHI,MIL,0.38,1,11,37,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:1),,0-0,0,0
 0022000618,2021-03-17,PHI,MIL,0.52,1,11,29,PHI,PHI,fg_miss,6,False,False,MISS Harris 3' Driving Layup,,0-0,0,0
-0022000618,2021-03-17,PHI,MIL,0.6,1,11,24,PHI,PHI,fg_make,97,False,False,Bradley Tip Layup Shot (2 PTS),,2-0,2,0
 0022000618,2021-03-17,PHI,MIL,0.6,1,11,24,PHI,PHI,reb,0,False,False,Bradley REBOUND (Off:1 Def:0),,2-0,2,0
+0022000618,2021-03-17,PHI,MIL,0.6,1,11,24,PHI,PHI,fg_make,97,False,False,Bradley Tip Layup Shot (2 PTS),,2-0,2,0
 0022000618,2021-03-17,PHI,MIL,0.72,1,11,17,MIL,MIL,fg_miss,98,False,False,,MISS Lopez 3' Cutting Layup Shot,2-0,2,0
 0022000618,2021-03-17,PHI,MIL,0.75,1,11,15,MIL,MIL,reb,0,False,False,,Lopez REBOUND (Off:1 Def:0),2-0,2,0
 0022000618,2021-03-17,PHI,MIL,0.8,1,11,12,MIL,MIL,tov,2,False,True,,Lopez Lost Ball Turnover (P1.T1),2-0,2,0
@@ -156,8 +156,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000618,2021-03-17,PHI,MIL,15.83,2,8,10,MIL,MIL,fg_miss,3,False,False,,MISS Lopez 7' Hook Shot,31-20,31,20
 0022000618,2021-03-17,PHI,MIL,15.85,2,8,9,MIL,MIL,reb,0,False,False,,Bucks Rebound,31-20,31,20
 0022000618,2021-03-17,PHI,MIL,15.87,2,8,8,MIL,MIL,fg_miss,5,True,False,,MISS Forbes 4' Layup,31-20,31,20
-0022000618,2021-03-17,PHI,MIL,15.87,2,8,8,MIL,MIL,reb,0,False,False,,Bucks Rebound,31-20,31,20
 0022000618,2021-03-17,PHI,MIL,15.87,2,8,8,MIL,PHI,block,5,True,False,block,block,31-20,31,20
+0022000618,2021-03-17,PHI,MIL,15.87,2,8,8,MIL,MIL,reb,0,False,False,,Bucks Rebound,31-20,31,20
 0022000618,2021-03-17,PHI,MIL,15.98,2,8,1,MIL,MIL,fg_miss,1,False,False,,MISS Middleton 10' Jump Shot,31-20,31,20
 0022000618,2021-03-17,PHI,MIL,16.05,2,7,57,PHI,PHI,reb,0,False,False,Howard REBOUND (Off:1 Def:6),,31-20,31,20
 0022000618,2021-03-17,PHI,MIL,16.1,2,7,54,PHI,MIL,foul,2,False,False,,Connaughton S.FOUL (P1.T2) (S.Foster),31-20,31,20
@@ -194,8 +194,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000618,2021-03-17,PHI,MIL,19.5,2,4,30,MIL,MIL,fg3_miss,1,False,False,,MISS Connaughton 3PT Jump Shot,37-24,37,24
 0022000618,2021-03-17,PHI,MIL,19.53,2,4,28,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:0 Def:4),,37-24,37,24
 0022000618,2021-03-17,PHI,MIL,19.63,2,4,22,PHI,PHI,fg_miss,74,False,False,MISS Bradley 3' Running Reverse Layup,,37-24,37,24
-0022000618,2021-03-17,PHI,MIL,19.7,2,4,18,PHI,PHI,fg_make,97,False,False,Harris Tip Layup Shot (10 PTS),,39-24,39,24
 0022000618,2021-03-17,PHI,MIL,19.7,2,4,18,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:1 Def:4),,39-24,39,24
+0022000618,2021-03-17,PHI,MIL,19.7,2,4,18,PHI,PHI,fg_make,97,False,False,Harris Tip Layup Shot (10 PTS),,39-24,39,24
 0022000618,2021-03-17,PHI,MIL,20.02,2,3,59,,PHI,jump_ball,0,False,False,Jump Ball Harris vs. Antetokounmpo: Tip to Forbes,,39-24,39,24
 0022000618,2021-03-17,PHI,MIL,20.12,2,3,53,MIL,MIL,fg3_miss,1,True,False,,MISS DiVincenzo 27' 3PT Jump Shot,39-24,39,24
 0022000618,2021-03-17,PHI,MIL,20.12,2,3,53,MIL,PHI,block,1,True,False,block,block,39-24,39,24
@@ -357,8 +357,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000618,2021-03-17,PHI,MIL,36.32,4,11,41,MIL,MIL,fg3_miss,79,False,False,,MISS Forbes 24' 3PT Pullup Jump Shot,74-65,74,65
 0022000618,2021-03-17,PHI,MIL,36.37,4,11,38,PHI,PHI,reb,0,False,False,Howard REBOUND (Off:1 Def:9),,74-65,74,65
 0022000618,2021-03-17,PHI,MIL,36.58,4,11,25,PHI,PHI,fg_miss,79,False,False,MISS Harris 17' Pullup Jump Shot,,74-65,74,65
-0022000618,2021-03-17,PHI,MIL,36.7,4,11,18,PHI,PHI,fg_make,107,False,False,Howard Tip Dunk Shot (9 PTS),,76-65,76,65
 0022000618,2021-03-17,PHI,MIL,36.7,4,11,18,PHI,PHI,reb,0,False,False,Howard REBOUND (Off:2 Def:9),,76-65,76,65
+0022000618,2021-03-17,PHI,MIL,36.7,4,11,18,PHI,PHI,fg_make,107,False,False,Howard Tip Dunk Shot (9 PTS),,76-65,76,65
 0022000618,2021-03-17,PHI,MIL,36.85,4,11,9,MIL,MIL,fg_make,9,False,False,,Antetokounmpo 2' Driving Dunk (15 PTS),76-67,76,67
 0022000618,2021-03-17,PHI,MIL,37.22,4,10,47,PHI,PHI,fg_miss,80,False,False,MISS Milton 17' Step Back Jump Shot,,76-67,76,67
 0022000618,2021-03-17,PHI,MIL,37.23,4,10,46,MIL,MIL,reb,0,False,False,,Bucks Rebound,76-67,76,67
@@ -474,8 +474,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000618,2021-03-17,PHI,MIL,48.3,5,4,42,MIL,MIL,fg3_miss,1,False,False,,MISS Lopez 28' 3PT Jump Shot,93-93,93,93
 0022000618,2021-03-17,PHI,MIL,48.37,5,4,38,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:2 Def:5),,93-93,93,93
 0022000618,2021-03-17,PHI,MIL,48.38,5,4,37,PHI,PHI,tov,2,False,True,Simmons Lost Ball Turnover (P7.T20),,93-93,93,93
-0022000618,2021-03-17,PHI,MIL,48.38,5,4,37,MIL,PHI,foul,1,False,False,Simmons P.FOUL (P4.T1) (J.Goldenberg),,93-93,93,93
 0022000618,2021-03-17,PHI,MIL,48.38,5,4,37,PHI,MIL,steal,2,False,True,steal,steal,93-93,93,93
+0022000618,2021-03-17,PHI,MIL,48.38,5,4,37,MIL,PHI,foul,1,False,False,Simmons P.FOUL (P4.T1) (J.Goldenberg),,93-93,93,93
 0022000618,2021-03-17,PHI,MIL,48.48,5,4,31,MIL,MIL,fg_make,52,False,False,,Lopez 1' Alley Oop Dunk (14 PTS) (Middleton 2 AST),93-95,93,95
 0022000618,2021-03-17,PHI,MIL,48.73,5,4,16,PHI,PHI,fg_miss,79,False,False,MISS Korkmaz 20' Pullup Jump Shot,,93-95,93,95
 0022000618,2021-03-17,PHI,MIL,48.75,5,4,15,MIL,MIL,reb,0,False,False,,Bucks Rebound,93-95,93,95

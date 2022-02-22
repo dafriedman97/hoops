@@ -192,8 +192,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900549,2020-01-07,TOR,POR,19.87,2,4,8,TOR,TOR,ft_make,11,False,False,McCaw Free Throw 1 of 2 (1 PTS),,45-37,45,37
 0021900549,2020-01-07,TOR,POR,19.87,2,4,8,TOR,TOR,ft_make,12,False,False,McCaw Free Throw 2 of 2 (2 PTS),,46-37,46,37
 0021900549,2020-01-07,TOR,POR,20.18,2,3,49,POR,POR,fg_miss,98,False,False,,MISS Whiteside 3' Cutting Layup Shot,46-37,46,37
-0021900549,2020-01-07,TOR,POR,20.25,2,3,45,POR,POR,fg_make,107,False,False,,Whiteside 1' Tip Dunk Shot (8 PTS),46-39,46,39
 0021900549,2020-01-07,TOR,POR,20.25,2,3,45,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:4 Def:7),46-39,46,39
+0021900549,2020-01-07,TOR,POR,20.25,2,3,45,POR,POR,fg_make,107,False,False,,Whiteside 1' Tip Dunk Shot (8 PTS),46-39,46,39
 0021900549,2020-01-07,TOR,POR,20.38,2,3,37,TOR,TOR,fg_miss,44,True,False,MISS McCaw 1' Reverse Layup,,46-39,46,39
 0021900549,2020-01-07,TOR,POR,20.38,2,3,37,TOR,POR,block,44,True,False,block,block,46-39,46,39
 0021900549,2020-01-07,TOR,POR,20.42,2,3,35,POR,POR,reb,0,False,False,,Anthony REBOUND (Off:0 Def:5),46-39,46,39
@@ -281,8 +281,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900549,2020-01-07,TOR,POR,29.03,3,6,58,POR,POR,tov,1,False,False,,Lillard Bad Pass Turnover (P4.T6),68-57,68,57
 0021900549,2020-01-07,TOR,POR,29.23,3,6,46,TOR,POR,violation,5,False,False,,McCollum Violation:Kicked Ball (S.Twardoski),68-57,68,57
 0021900549,2020-01-07,TOR,POR,29.47,3,6,32,TOR,TOR,fg_miss,101,True,False,MISS Lowry 9' Driving Floating Jump Shot,,68-57,68,57
-0021900549,2020-01-07,TOR,POR,29.47,3,6,32,POR,POR,reb,0,False,False,,Trail Blazers Rebound,68-57,68,57
 0021900549,2020-01-07,TOR,POR,29.47,3,6,32,TOR,POR,block,101,True,False,block,block,68-57,68,57
+0021900549,2020-01-07,TOR,POR,29.47,3,6,32,POR,POR,reb,0,False,False,,Trail Blazers Rebound,68-57,68,57
 0021900549,2020-01-07,TOR,POR,29.67,3,6,20,POR,TOR,foul,1,False,False,Hollis-Jefferson P.FOUL (P3.T1) (A.Moyer-Gleich),,68-57,68,57
 0021900549,2020-01-07,TOR,POR,29.77,3,6,14,POR,POR,tov,4,False,False,,Whiteside Traveling Turnover (P2.T7),68-57,68,57
 0021900549,2020-01-07,TOR,POR,29.97,3,6,2,TOR,TOR,fg_miss,99,False,False,MISS Hollis-Jefferson 2' Cutting Finger Roll Layup Shot,,68-57,68,57
@@ -316,9 +316,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900549,2020-01-07,TOR,POR,32.9,3,3,6,TOR,TOR,reb,0,False,False,Brissett REBOUND (Off:3 Def:2),,73-65,73,65
 0021900549,2020-01-07,TOR,POR,32.9,3,3,6,TOR,POR,foul,11,False,False,,Bazemore T.FOUL (P0.T3) (S.Corbin),73-65,73,65
 0021900549,2020-01-07,TOR,POR,32.9,3,3,6,TOR,POR,foul,11,False,False,,Bazemore T.FOUL (P0.T3) (S.Corbin),73-65,73,65
-0021900549,2020-01-07,TOR,POR,32.9,3,3,6,TOR,POR,ejection,4,False,False,,Bazemore Ejection:Other,73-65,73,65
 0021900549,2020-01-07,TOR,POR,32.9,3,3,6,TOR,TOR,ft_make,16,False,False,Thomas Free Throw Technical (4 PTS),,74-65,74,65
 0021900549,2020-01-07,TOR,POR,32.9,3,3,6,TOR,TOR,ft_make,16,False,False,Thomas Free Throw Technical (5 PTS),,75-65,75,65
+0021900549,2020-01-07,TOR,POR,32.9,3,3,6,TOR,POR,ejection,4,False,False,,Bazemore Ejection:Other,73-65,73,65
 0021900549,2020-01-07,TOR,POR,33.08,3,2,55,TOR,TOR,fg3_make,1,False,False,Thomas 3PT Jump Shot (8 PTS) (Lowry 8 AST),,78-65,78,65
 0021900549,2020-01-07,TOR,POR,33.37,3,2,38,POR,POR,fg3_miss,1,False,False,,MISS Simons 24' 3PT Jump Shot,78-65,78,65
 0021900549,2020-01-07,TOR,POR,33.4,3,2,36,TOR,TOR,reb,0,False,False,Boucher REBOUND (Off:2 Def:3),,78-65,78,65
@@ -418,8 +418,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900549,2020-01-07,TOR,POR,44.42,4,3,35,POR,POR,fg_miss,79,False,False,,MISS Anthony 18' Pullup Jump Shot,95-88,95,88
 0021900549,2020-01-07,TOR,POR,44.47,4,3,32,TOR,TOR,reb,0,False,False,Anunoby REBOUND (Off:1 Def:4),,95-88,95,88
 0021900549,2020-01-07,TOR,POR,44.6,4,3,24,TOR,TOR,fg_miss,6,True,False,MISS Anunoby 5' Driving Layup,,95-88,95,88
-0021900549,2020-01-07,TOR,POR,44.6,4,3,24,POR,POR,reb,0,False,False,,Trail Blazers Rebound,95-88,95,88
 0021900549,2020-01-07,TOR,POR,44.6,4,3,24,TOR,POR,block,6,True,False,block,block,95-88,95,88
+0021900549,2020-01-07,TOR,POR,44.6,4,3,24,POR,POR,reb,0,False,False,,Trail Blazers Rebound,95-88,95,88
 0021900549,2020-01-07,TOR,POR,44.88,4,3,7,POR,POR,fg_miss,58,False,False,,MISS Whiteside 5' Turnaround Hook Shot,95-88,95,88
 0021900549,2020-01-07,TOR,POR,44.92,4,3,5,TOR,TOR,reb,0,False,False,Ibaka REBOUND (Off:1 Def:10),,95-88,95,88
 0021900549,2020-01-07,TOR,POR,45.17,4,2,50,TOR,POR,foul,1,False,False,,Whiteside P.FOUL (P3.T2) (S.Twardoski),95-88,95,88
@@ -442,8 +442,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900549,2020-01-07,TOR,POR,47.38,4,0,37,TOR,TOR,timeout,1,False,False,RAPTORS Timeout: Regular (Full 5 Short 0),,99-99,99,99
 0021900549,2020-01-07,TOR,POR,47.47,4,0,32,TOR,TOR,fg_miss,6,True,False,MISS Hollis-Jefferson 3' Driving Layup,,99-99,99,99
 0021900549,2020-01-07,TOR,POR,47.47,4,0,32,TOR,POR,block,6,True,False,block,block,99-99,99,99
-0021900549,2020-01-07,TOR,POR,47.53,4,0,28,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,99-99,99,99
 0021900549,2020-01-07,TOR,POR,47.53,4,0,28,,TOR,jump_ball,0,False,False,Jump Ball Hollis-Jefferson vs. Whiteside: Tip to Anunoby,,99-99,99,99
+0021900549,2020-01-07,TOR,POR,47.53,4,0,28,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,99-99,99,99
 0021900549,2020-01-07,TOR,POR,47.67,4,0,20,TOR,TOR,fg_miss,101,False,False,MISS Lowry 2' Driving Floating Jump Shot,,99-99,99,99
 0021900549,2020-01-07,TOR,POR,47.67,4,0,20,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,99-99,99,99
 0021900549,2020-01-07,TOR,POR,47.78,4,0,13,TOR,TOR,tov,45,False,False,McCaw Out of Bounds - Bad Pass Turnover Turnover (P1.T13),,99-99,99,99

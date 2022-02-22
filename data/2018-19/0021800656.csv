@@ -60,8 +60,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800656,2019-01-15,LAL,CHI,6.78,1,5,13,LAL,LAL,reb,0,False,False,Ingram REBOUND (Off:0 Def:3),,11-8,11,8
 0021800656,2019-01-15,LAL,CHI,6.92,1,5,5,LAL,CHI,foul,1,False,False,,Carter Jr. P.FOUL (P1.T2) (K.Fitzgerald),11-8,11,8
 0021800656,2019-01-15,LAL,CHI,7.02,1,4,59,LAL,LAL,fg_miss,98,True,False,MISS McGee 4' Cutting Layup Shot,,11-8,11,8
-0021800656,2019-01-15,LAL,CHI,7.02,1,4,59,LAL,LAL,reb,0,False,False,LAKERS Rebound,,11-8,11,8
 0021800656,2019-01-15,LAL,CHI,7.02,1,4,59,LAL,CHI,block,98,True,False,block,block,11-8,11,8
+0021800656,2019-01-15,LAL,CHI,7.02,1,4,59,LAL,LAL,reb,0,False,False,LAKERS Rebound,,11-8,11,8
 0021800656,2019-01-15,LAL,CHI,7.15,1,4,51,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 25' 3PT Jump Shot,,11-8,11,8
 0021800656,2019-01-15,LAL,CHI,7.22,1,4,47,CHI,CHI,reb,0,False,False,,Dunn REBOUND (Off:0 Def:1),11-8,11,8
 0021800656,2019-01-15,LAL,CHI,7.25,1,4,45,CHI,CHI,fg_make,41,False,False,,Hutchison 1' Running Layup (2 PTS) (Dunn 1 AST),11-10,11,10
@@ -137,8 +137,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800656,2019-01-15,LAL,CHI,13.75,2,10,15,LAL,LAL,fg3_make,1,False,False,Stephenson 26' 3PT Jump Shot (3 PTS) (Zubac 1 AST),,24-22,24,22
 0021800656,2019-01-15,LAL,CHI,13.95,2,10,3,CHI,CHI,fg3_make,1,False,False,,Parker 25' 3PT Jump Shot (5 PTS) (Portis 2 AST),24-25,24,25
 0021800656,2019-01-15,LAL,CHI,14.17,2,9,50,LAL,LAL,tov,2,False,True,Stephenson Lost Ball Turnover (P1.T6),,24-25,24,25
-0021800656,2019-01-15,LAL,CHI,14.17,2,9,50,CHI,LAL,foul,28,False,False,Stephenson Personal Take Foul (P1.T1) (M.Lindsay),,24-25,24,25
 0021800656,2019-01-15,LAL,CHI,14.17,2,9,50,LAL,CHI,steal,2,False,True,steal,steal,24-25,24,25
+0021800656,2019-01-15,LAL,CHI,14.17,2,9,50,CHI,LAL,foul,28,False,False,Stephenson Personal Take Foul (P1.T1) (M.Lindsay),,24-25,24,25
 0021800656,2019-01-15,LAL,CHI,14.3,2,9,42,CHI,CHI,fg3_miss,1,False,False,,MISS Parker 26' 3PT Jump Shot,24-25,24,25
 0021800656,2019-01-15,LAL,CHI,14.35,2,9,39,LAL,LAL,reb,0,False,False,Hart REBOUND (Off:0 Def:1),,24-25,24,25
 0021800656,2019-01-15,LAL,CHI,14.58,2,9,25,LAL,LAL,tov,40,False,False,Stephenson Out of Bounds Lost Ball Turnover (P2.T7),,24-25,24,25
@@ -221,9 +221,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800656,2019-01-15,LAL,CHI,23.63,2,0,22,LAL,LAL,reb,0,False,False,LAKERS Rebound,,44-43,44,43
 0021800656,2019-01-15,LAL,CHI,23.88,2,0,7,LAL,CHI,foul,28,False,False,,Harrison Personal Take Foul (P1.T4) (K.Fitzgerald),44-43,44,43
 0021800656,2019-01-15,LAL,CHI,24.0,2,0,0,LAL,LAL,tov,2,False,True,Ingram Lost Ball Turnover (P1.T11),,44-43,44,43
+0021800656,2019-01-15,LAL,CHI,24.0,2,0,0,LAL,CHI,steal,2,False,True,steal,steal,44-43,44,43
 0021800656,2019-01-15,LAL,CHI,24.0,2,0,0,LAL,,period_end,0,False,False,,,44-43,44,43
 0021800656,2019-01-15,LAL,CHI,24.0,3,12,0,LAL,,period_start,0,False,False,,,44-43,44,43
-0021800656,2019-01-15,LAL,CHI,24.0,2,0,0,LAL,CHI,steal,2,False,True,steal,steal,44-43,44,43
 0021800656,2019-01-15,LAL,CHI,24.28,3,11,43,LAL,LAL,tov,1,False,True,Ingram Bad Pass Turnover (P2.T12),,44-43,44,43
 0021800656,2019-01-15,LAL,CHI,24.28,3,11,43,LAL,CHI,steal,1,False,True,steal,steal,44-43,44,43
 0021800656,2019-01-15,LAL,CHI,24.55,3,11,27,CHI,CHI,fg3_make,1,False,False,,Markkanen 27' 3PT Jump Shot (8 PTS) (LaVine 6 AST),44-46,44,46

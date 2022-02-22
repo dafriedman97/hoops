@@ -7,8 +7,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800017,2018-10-19,ORL,CHA,0.53,1,11,28,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:1 Def:0),,0-0,0,0
 0021800017,2018-10-19,ORL,CHA,0.6,1,11,24,ORL,ORL,fg_make,97,False,False,Vucevic 1' Tip Layup Shot (2 PTS),,2-0,2,0
 0021800017,2018-10-19,ORL,CHA,0.65,1,11,21,CHA,CHA,fg_miss,6,True,False,,MISS Walker 3' Driving Layup,2-0,2,0
-0021800017,2018-10-19,ORL,CHA,0.65,1,11,21,ORL,ORL,reb,0,False,False,Isaac REBOUND (Off:1 Def:1),,2-0,2,0
 0021800017,2018-10-19,ORL,CHA,0.65,1,11,21,CHA,ORL,block,6,True,False,block,block,2-0,2,0
+0021800017,2018-10-19,ORL,CHA,0.65,1,11,21,ORL,ORL,reb,0,False,False,Isaac REBOUND (Off:1 Def:1),,2-0,2,0
 0021800017,2018-10-19,ORL,CHA,0.88,1,11,7,ORL,ORL,fg_miss,5,False,False,MISS Vucevic 2' Layup,,2-0,2,0
 0021800017,2018-10-19,ORL,CHA,1.0,1,11,0,CHA,CHA,reb,0,False,False,,Zeller REBOUND (Off:0 Def:1),2-0,2,0
 0021800017,2018-10-19,ORL,CHA,1.03,1,10,58,CHA,CHA,fg_miss,5,False,False,,MISS Lamb 1' Layup,2-0,2,0
@@ -26,9 +26,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800017,2018-10-19,ORL,CHA,2.38,1,9,37,CHA,ORL,block,5,True,False,block,block,4-2,4,2
 0021800017,2018-10-19,ORL,CHA,2.45,1,9,33,CHA,CHA,reb,0,False,False,,Zeller REBOUND (Off:1 Def:1),4-2,4,2
 0021800017,2018-10-19,ORL,CHA,2.45,1,9,33,CHA,CHA,fg_miss,5,True,False,,MISS Zeller 2' Layup,4-2,4,2
+0021800017,2018-10-19,ORL,CHA,2.45,1,9,33,CHA,ORL,block,5,True,False,block,block,4-2,4,2
 0021800017,2018-10-19,ORL,CHA,2.45,1,9,33,CHA,CHA,reb,0,False,False,,Williams REBOUND (Off:1 Def:0),4-2,4,2
 0021800017,2018-10-19,ORL,CHA,2.45,1,9,33,CHA,CHA,tov,4,False,False,,Williams Traveling Turnover (P1.T1),4-2,4,2
-0021800017,2018-10-19,ORL,CHA,2.45,1,9,33,CHA,ORL,block,5,True,False,block,block,4-2,4,2
 0021800017,2018-10-19,ORL,CHA,2.73,1,9,16,ORL,ORL,fg_miss,3,False,False,MISS Vucevic 6' Hook Shot,,4-2,4,2
 0021800017,2018-10-19,ORL,CHA,2.73,1,9,16,CHA,CHA,reb,0,False,False,,Batum REBOUND (Off:0 Def:2),4-2,4,2
 0021800017,2018-10-19,ORL,CHA,2.87,1,9,8,CHA,CHA,fg3_make,79,False,False,,Batum 25' 3PT Pullup Jump Shot (3 PTS),4-5,4,5
@@ -258,8 +258,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800017,2018-10-19,ORL,CHA,28.82,3,7,11,CHA,ORL,block,5,True,False,block,block,43-62,43,62
 0021800017,2018-10-19,ORL,CHA,28.85,3,7,9,ORL,ORL,reb,0,False,False,Gordon REBOUND (Off:3 Def:7),,43-62,43,62
 0021800017,2018-10-19,ORL,CHA,28.88,3,7,7,ORL,ORL,tov,1,False,True,Gordon Bad Pass Turnover (P3.T14),,43-62,43,62
-0021800017,2018-10-19,ORL,CHA,28.88,3,7,7,CHA,ORL,foul,1,False,False,Gordon P.FOUL (P1.T1) (R.Garretson),,43-62,43,62
 0021800017,2018-10-19,ORL,CHA,28.88,3,7,7,ORL,CHA,steal,1,False,True,steal,steal,43-62,43,62
+0021800017,2018-10-19,ORL,CHA,28.88,3,7,7,CHA,ORL,foul,1,False,False,Gordon P.FOUL (P1.T1) (R.Garretson),,43-62,43,62
 0021800017,2018-10-19,ORL,CHA,29.08,3,6,55,CHA,CHA,fg3_make,1,False,False,,Williams 3PT Jump Shot (8 PTS) (Walker 5 AST),43-65,43,65
 0021800017,2018-10-19,ORL,CHA,29.32,3,6,41,ORL,ORL,fg_make,98,False,False,Fournier 1' Cutting Layup Shot (10 PTS) (Vucevic 4 AST),,45-65,45,65
 0021800017,2018-10-19,ORL,CHA,29.52,3,6,29,CHA,CHA,fg3_miss,79,False,False,,MISS Walker 26' 3PT Pullup Jump Shot,45-65,45,65
@@ -338,9 +338,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800017,2018-10-19,ORL,CHA,35.88,3,0,7,CHA,CHA,fg_miss,1,False,False,,MISS Monk 13' Jump Shot,54-82,54,82
 0021800017,2018-10-19,ORL,CHA,35.93,3,0,4,CHA,CHA,reb,0,False,False,,Hernangomez REBOUND (Off:2 Def:1),54-82,54,82
 0021800017,2018-10-19,ORL,CHA,35.98,3,0,1,CHA,CHA,fg3_miss,1,False,False,,MISS Monk 26' 3PT Jump Shot,54-82,54,82
-0021800017,2018-10-19,ORL,CHA,36.0,3,0,0,CHA,CHA,reb,0,False,False,,Hernangomez REBOUND (Off:3 Def:1),54-82,54,82
 0021800017,2018-10-19,ORL,CHA,36.0,3,0,0,CHA,,period_end,0,False,False,,,54-82,54,82
 0021800017,2018-10-19,ORL,CHA,36.0,4,12,0,CHA,,period_start,0,False,False,,,54-82,54,82
+0021800017,2018-10-19,ORL,CHA,36.0,3,0,0,CHA,CHA,reb,0,False,False,,Hernangomez REBOUND (Off:3 Def:1),54-82,54,82
 0021800017,2018-10-19,ORL,CHA,36.18,4,11,49,ORL,ORL,fg_make,79,False,False,Ross 18' Pullup Jump Shot (9 PTS) (Grant 2 AST),,56-82,56,82
 0021800017,2018-10-19,ORL,CHA,36.45,4,11,33,CHA,CHA,fg3_make,1,False,False,,Bridges 25' 3PT Jump Shot (3 PTS) (Parker 2 AST),56-85,56,85
 0021800017,2018-10-19,ORL,CHA,36.72,4,11,17,ORL,CHA,foul,2,False,False,,Monk S.FOUL (P2.T1) (M.Ervin),56-85,56,85

@@ -2,8 +2,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900258,2019-11-27,TOR,NYK,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
 0021900258,2019-11-27,TOR,NYK,0.0,1,12,0,,TOR,jump_ball,0,False,False,Jump Ball Gasol vs. Gibson: Tip to Randle,,0-0,0,0
 0021900258,2019-11-27,TOR,NYK,0.22,1,11,47,NYK,NYK,fg_miss,57,True,False,,MISS Barrett 7' Driving Hook Shot,0-0,0,0
-0021900258,2019-11-27,TOR,NYK,0.22,1,11,47,NYK,NYK,reb,0,False,False,,Knicks Rebound,0-0,0,0
 0021900258,2019-11-27,TOR,NYK,0.22,1,11,47,NYK,TOR,block,57,True,False,block,block,0-0,0,0
+0021900258,2019-11-27,TOR,NYK,0.22,1,11,47,NYK,NYK,reb,0,False,False,,Knicks Rebound,0-0,0,0
 0021900258,2019-11-27,TOR,NYK,0.33,1,11,40,NYK,NYK,fg_miss,1,False,False,,MISS Gibson 21' Jump Shot,0-0,0,0
 0021900258,2019-11-27,TOR,NYK,0.38,1,11,37,TOR,TOR,reb,0,False,False,VanVleet REBOUND (Off:0 Def:1),,0-0,0,0
 0021900258,2019-11-27,TOR,NYK,0.63,1,11,22,TOR,TOR,fg3_miss,80,False,False,MISS Siakam 25' 3PT Step Back Jump Shot,,0-0,0,0
@@ -11,8 +11,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900258,2019-11-27,TOR,NYK,0.78,1,11,13,NYK,NYK,tov,1,False,True,,Randle Bad Pass Turnover (P1.T1),0-0,0,0
 0021900258,2019-11-27,TOR,NYK,0.78,1,11,13,NYK,TOR,steal,1,False,True,steal,steal,0-0,0,0
 0021900258,2019-11-27,TOR,NYK,0.87,1,11,8,TOR,TOR,fg_miss,41,False,False,MISS Siakam 6' Running Layup,,0-0,0,0
-0021900258,2019-11-27,TOR,NYK,0.98,1,11,1,TOR,TOR,fg_make,97,False,False,Anunoby 1' Tip Layup Shot (2 PTS),,2-0,2,0
 0021900258,2019-11-27,TOR,NYK,0.98,1,11,1,TOR,TOR,reb,0,False,False,Anunoby REBOUND (Off:1 Def:0),,2-0,2,0
+0021900258,2019-11-27,TOR,NYK,0.98,1,11,1,TOR,TOR,fg_make,97,False,False,Anunoby 1' Tip Layup Shot (2 PTS),,2-0,2,0
 0021900258,2019-11-27,TOR,NYK,1.27,1,10,44,NYK,NYK,fg3_make,1,False,False,,Ntilikina 3PT Jump Shot (3 PTS) (Morris Sr. 1 AST),2-3,2,3
 0021900258,2019-11-27,TOR,NYK,1.63,1,10,22,TOR,TOR,fg3_make,1,False,False,VanVleet 25' 3PT Jump Shot (3 PTS) (Gasol 1 AST),,5-3,5,3
 0021900258,2019-11-27,TOR,NYK,1.92,1,10,5,NYK,NYK,fg3_miss,1,False,False,,MISS Randle 25' 3PT Jump Shot,5-3,5,3
@@ -71,8 +71,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900258,2019-11-27,TOR,NYK,8.48,1,3,31,TOR,TOR,fg3_miss,1,False,False,MISS Gasol 26' 3PT Jump Shot,,19-21,19,21
 0021900258,2019-11-27,TOR,NYK,8.52,1,3,29,NYK,NYK,reb,0,False,False,,Barrett REBOUND (Off:0 Def:1),19-21,19,21
 0021900258,2019-11-27,TOR,NYK,8.65,1,3,21,NYK,NYK,fg_miss,6,True,False,,MISS Randle 3' Driving Layup,19-21,19,21
-0021900258,2019-11-27,TOR,NYK,8.65,1,3,21,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:1 Def:2),19-21,19,21
 0021900258,2019-11-27,TOR,NYK,8.65,1,3,21,NYK,TOR,block,6,True,False,block,block,19-21,19,21
+0021900258,2019-11-27,TOR,NYK,8.65,1,3,21,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:1 Def:2),19-21,19,21
 0021900258,2019-11-27,TOR,NYK,8.65,1,3,21,NYK,NYK,fg_make,5,False,False,,Randle 2' Layup (10 PTS),19-23,19,23
 0021900258,2019-11-27,TOR,NYK,8.65,1,3,21,NYK,TOR,foul,2,False,False,Powell S.FOUL (P1.T3) (T.Ford),,19-23,19,23
 0021900258,2019-11-27,TOR,NYK,8.65,1,3,21,NYK,NYK,ft_make,10,False,False,,Randle Free Throw 1 of 1 (11 PTS),19-24,19,24
@@ -94,8 +94,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900258,2019-11-27,TOR,NYK,10.28,1,1,43,NYK,NYK,ft_make,11,False,False,,Robinson Free Throw 1 of 2 (2 PTS),19-28,19,28
 0021900258,2019-11-27,TOR,NYK,10.28,1,1,43,NYK,NYK,ft_make,12,False,False,,Robinson Free Throw 2 of 2 (3 PTS),19-29,19,29
 0021900258,2019-11-27,TOR,NYK,10.55,1,1,27,TOR,TOR,fg_miss,79,False,False,MISS Anunoby 20' Pullup Jump Shot,,19-29,19,29
-0021900258,2019-11-27,TOR,NYK,10.63,1,1,22,TOR,TOR,fg_miss,97,False,False,MISS Boucher 1' Tip Layup Shot,,19-29,19,29
 0021900258,2019-11-27,TOR,NYK,10.63,1,1,22,TOR,TOR,reb,0,False,False,Boucher REBOUND (Off:1 Def:0),,19-29,19,29
+0021900258,2019-11-27,TOR,NYK,10.63,1,1,22,TOR,TOR,fg_miss,97,False,False,MISS Boucher 1' Tip Layup Shot,,19-29,19,29
 0021900258,2019-11-27,TOR,NYK,10.65,1,1,21,TOR,TOR,reb,0,False,False,Hollis-Jefferson REBOUND (Off:1 Def:0),,19-29,19,29
 0021900258,2019-11-27,TOR,NYK,10.75,1,1,15,TOR,TOR,fg3_miss,1,False,False,MISS Davis 25' 3PT Jump Shot,,19-29,19,29
 0021900258,2019-11-27,TOR,NYK,10.77,1,1,14,TOR,TOR,reb,0,False,False,Davis REBOUND (Off:1 Def:0),,19-29,19,29
@@ -246,8 +246,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900258,2019-11-27,TOR,NYK,26.72,3,9,17,TOR,TOR,tov,1,False,True,Siakam Bad Pass Turnover (P3.T7),,66-51,66,51
 0021900258,2019-11-27,TOR,NYK,26.72,3,9,17,TOR,NYK,steal,1,False,True,steal,steal,66-51,66,51
 0021900258,2019-11-27,TOR,NYK,26.8,3,9,12,NYK,NYK,fg_miss,6,False,False,,MISS Barrett 2' Driving Layup,66-51,66,51
-0021900258,2019-11-27,TOR,NYK,26.87,3,9,8,NYK,NYK,fg_miss,97,False,False,,MISS Gibson 1' Tip Layup Shot,66-51,66,51
 0021900258,2019-11-27,TOR,NYK,26.87,3,9,8,NYK,NYK,reb,0,False,False,,Gibson REBOUND (Off:2 Def:2),66-51,66,51
+0021900258,2019-11-27,TOR,NYK,26.87,3,9,8,NYK,NYK,fg_miss,97,False,False,,MISS Gibson 1' Tip Layup Shot,66-51,66,51
 0021900258,2019-11-27,TOR,NYK,26.88,3,9,7,TOR,TOR,reb,0,False,False,Anunoby REBOUND (Off:2 Def:6),,66-51,66,51
 0021900258,2019-11-27,TOR,NYK,27.02,3,8,59,TOR,TOR,tov,1,False,True,Anunoby Bad Pass Turnover (P1.T8),,66-51,66,51
 0021900258,2019-11-27,TOR,NYK,27.02,3,8,59,TOR,NYK,steal,1,False,True,steal,steal,66-51,66,51
@@ -323,8 +323,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900258,2019-11-27,TOR,NYK,34.02,3,1,59,NYK,NYK,fg3_miss,2,False,False,,MISS Ellington 25' 3PT Running Jump Shot,85-65,85,65
 0021900258,2019-11-27,TOR,NYK,34.05,3,1,57,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,85-65,85,65
 0021900258,2019-11-27,TOR,NYK,34.32,3,1,41,TOR,TOR,fg_miss,75,False,False,MISS VanVleet 3' Driving Finger Roll Layup,,85-65,85,65
-0021900258,2019-11-27,TOR,NYK,34.4,3,1,36,TOR,TOR,fg_miss,97,False,False,MISS Hollis-Jefferson 1' Tip Layup Shot,,85-65,85,65
 0021900258,2019-11-27,TOR,NYK,34.4,3,1,36,TOR,TOR,reb,0,False,False,Hollis-Jefferson REBOUND (Off:3 Def:1),,85-65,85,65
+0021900258,2019-11-27,TOR,NYK,34.4,3,1,36,TOR,TOR,fg_miss,97,False,False,MISS Hollis-Jefferson 1' Tip Layup Shot,,85-65,85,65
 0021900258,2019-11-27,TOR,NYK,34.42,3,1,35,NYK,NYK,reb,0,False,False,,Ellington REBOUND (Off:0 Def:3),85-65,85,65
 0021900258,2019-11-27,TOR,NYK,34.43,3,1,34,NYK,NYK,fg_make,76,False,False,,Portis 1' Running Finger Roll Layup (5 PTS) (Smith Jr. 3 AST),85-67,85,67
 0021900258,2019-11-27,TOR,NYK,34.68,3,1,19,TOR,TOR,fg_miss,63,False,False,MISS Hollis-Jefferson 9' Fadeaway Jumper,,85-67,85,67
@@ -353,8 +353,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900258,2019-11-27,TOR,NYK,36.38,4,11,37,NYK,NYK,ft_make,11,False,False,,Dotson Free Throw 1 of 2 (4 PTS),89-70,89,70
 0021900258,2019-11-27,TOR,NYK,36.38,4,11,37,NYK,NYK,ft_make,12,False,False,,Dotson Free Throw 2 of 2 (5 PTS),89-71,89,71
 0021900258,2019-11-27,TOR,NYK,36.83,4,11,10,TOR,TOR,fg_miss,63,False,False,MISS Hollis-Jefferson 8' Fadeaway Jumper,,89-71,89,71
-0021900258,2019-11-27,TOR,NYK,36.92,4,11,5,TOR,TOR,fg_make,107,False,False,Boucher 1' Tip Dunk Shot (8 PTS),,91-71,91,71
 0021900258,2019-11-27,TOR,NYK,36.92,4,11,5,TOR,TOR,reb,0,False,False,Boucher REBOUND (Off:5 Def:4),,91-71,91,71
+0021900258,2019-11-27,TOR,NYK,36.92,4,11,5,TOR,TOR,fg_make,107,False,False,Boucher 1' Tip Dunk Shot (8 PTS),,91-71,91,71
 0021900258,2019-11-27,TOR,NYK,37.2,4,10,48,NYK,TOR,foul,1,False,False,Davis P.FOUL (P3.T2) (J.DeRosa),,91-71,91,71
 0021900258,2019-11-27,TOR,NYK,37.28,4,10,43,NYK,NYK,fg_make,44,False,False,,Smith Jr. 2' Reverse Layup (2 PTS),91-73,91,73
 0021900258,2019-11-27,TOR,NYK,37.53,4,10,28,TOR,TOR,fg3_make,1,False,False,Anunoby 3PT Jump Shot (13 PTS) (Davis 3 AST),,94-73,94,73

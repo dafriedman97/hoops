@@ -32,8 +32,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700163,2017-11-08,GSW,MIN,3.85,1,8,9,GSW,GSW,fg_miss,1,False,False,MISS Pachulia 9' Jump Shot,,5-8,5,8
 0021700163,2017-11-08,GSW,MIN,3.92,1,8,5,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:0 Def:2),5-8,5,8
 0021700163,2017-11-08,GSW,MIN,4.1,1,7,54,MIN,MIN,fg_miss,5,True,False,,MISS Teague 3' Layup,5-8,5,8
-0021700163,2017-11-08,GSW,MIN,4.1,1,7,54,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,5-8,5,8
 0021700163,2017-11-08,GSW,MIN,4.1,1,7,54,MIN,GSW,block,5,True,False,block,block,5-8,5,8
+0021700163,2017-11-08,GSW,MIN,4.1,1,7,54,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,5-8,5,8
 0021700163,2017-11-08,GSW,MIN,4.32,1,7,41,MIN,MIN,fg_miss,1,False,False,,MISS Towns 8' Jump Shot,5-8,5,8
 0021700163,2017-11-08,GSW,MIN,4.37,1,7,38,GSW,GSW,reb,0,False,False,Pachulia REBOUND (Off:0 Def:2),,5-8,5,8
 0021700163,2017-11-08,GSW,MIN,4.42,1,7,35,GSW,GSW,fg3_miss,1,False,False,MISS Green 26' 3PT Jump Shot,,5-8,5,8
@@ -83,9 +83,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700163,2017-11-08,GSW,MIN,8.98,1,3,1,MIN,MIN,tov,39,False,False,,Butler Step Out of Bounds Turnover (P1.T4),12-16,12,16
 0021700163,2017-11-08,GSW,MIN,9.27,1,2,44,GSW,GSW,fg_make,63,False,False,Green 18' Fadeaway Jumper (4 PTS),,14-16,14,16
 0021700163,2017-11-08,GSW,MIN,9.4,1,2,36,MIN,GSW,foul,2,False,False,Curry S.FOUL (P1.T2) (G.Petraitis),,14-16,14,16
-0021700163,2017-11-08,GSW,MIN,9.4,1,2,36,MIN,MIN,timeout,1,False,False,,Timberwolves Timeout: Regular (Reg.1 Short 0),14-16,14,16
-0021700163,2017-11-08,GSW,MIN,9.4,1,2,36,MIN,MIN,ft_make,12,False,False,,Teague Free Throw 2 of 2 (3 PTS),14-17,14,17
 0021700163,2017-11-08,GSW,MIN,9.4,1,2,36,MIN,MIN,ft_make,11,False,False,,Teague Free Throw 1 of 2 (4 PTS),14-18,14,18
+0021700163,2017-11-08,GSW,MIN,9.4,1,2,36,MIN,MIN,ft_make,12,False,False,,Teague Free Throw 2 of 2 (3 PTS),14-17,14,17
+0021700163,2017-11-08,GSW,MIN,9.4,1,2,36,MIN,MIN,timeout,1,False,False,,Timberwolves Timeout: Regular (Reg.1 Short 0),14-16,14,16
 0021700163,2017-11-08,GSW,MIN,9.63,1,2,22,GSW,GSW,fg3_miss,1,False,False,MISS Young 28' 3PT Jump Shot,,14-18,14,18
 0021700163,2017-11-08,GSW,MIN,9.63,1,2,22,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,14-18,14,18
 0021700163,2017-11-08,GSW,MIN,10.0,1,2,0,MIN,MIN,fg_miss,5,True,False,,MISS Teague 2' Layup,14-18,14,18
@@ -411,8 +411,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700163,2017-11-08,GSW,MIN,44.35,4,3,39,MIN,MIN,tov,1,False,True,,Teague Bad Pass Turnover (P3.T14),115-92,115,92
 0021700163,2017-11-08,GSW,MIN,44.35,4,3,39,MIN,GSW,steal,1,False,True,steal,steal,115-92,115,92
 0021700163,2017-11-08,GSW,MIN,44.57,4,3,26,GSW,MIN,foul,2,False,False,,Teague S.FOUL (P3.T2) (D.Collins),115-92,115,92
-0021700163,2017-11-08,GSW,MIN,44.57,4,3,26,GSW,GSW,ft_make,12,False,False,Casspi Free Throw 2 of 2 (10 PTS),,116-92,116,92
 0021700163,2017-11-08,GSW,MIN,44.57,4,3,26,GSW,GSW,ft_make,11,False,False,Casspi Free Throw 1 of 2 (11 PTS),,117-92,117,92
+0021700163,2017-11-08,GSW,MIN,44.57,4,3,26,GSW,GSW,ft_make,12,False,False,Casspi Free Throw 2 of 2 (10 PTS),,116-92,116,92
 0021700163,2017-11-08,GSW,MIN,44.82,4,3,11,MIN,MIN,fg_make,5,False,False,,Gibson 3' Layup (14 PTS) (Butler 5 AST),117-94,117,94
 0021700163,2017-11-08,GSW,MIN,45.03,4,2,58,GSW,GSW,fg_make,6,False,False,Casspi 2' Driving Layup (13 PTS) (Looney 1 AST),,119-94,119,94
 0021700163,2017-11-08,GSW,MIN,45.03,4,2,58,GSW,MIN,foul,2,False,False,,Butler S.FOUL (P1.T3) (K.Mauer),119-94,119,94
@@ -436,8 +436,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700163,2017-11-08,GSW,MIN,46.72,4,1,17,GSW,GSW,fg3_make,1,False,False,McCaw 26' 3PT Jump Shot (8 PTS) (Bell 1 AST),,122-99,122,99
 0021700163,2017-11-08,GSW,MIN,46.92,4,1,5,MIN,MIN,fg3_miss,1,False,False,,MISS Brooks 26' 3PT Jump Shot,122-99,122,99
 0021700163,2017-11-08,GSW,MIN,46.97,4,1,2,GSW,GSW,reb,0,False,False,Young REBOUND (Off:0 Def:3),,122-99,122,99
-0021700163,2017-11-08,GSW,MIN,47.08,4,0,55,GSW,MIN,foul,2,False,False,,Georges-Hunt S.FOUL (P2.PN) (G.Petraitis),122-99,122,99
 0021700163,2017-11-08,GSW,MIN,47.08,4,0,55,GSW,GSW,fg_make,2,False,False,Young 12' Running Jump Shot (11 PTS),,124-99,124,99
+0021700163,2017-11-08,GSW,MIN,47.08,4,0,55,GSW,MIN,foul,2,False,False,,Georges-Hunt S.FOUL (P2.PN) (G.Petraitis),122-99,122,99
 0021700163,2017-11-08,GSW,MIN,47.08,4,0,55,GSW,GSW,ft_make,10,False,False,Young Free Throw 1 of 1 (12 PTS),,125-99,125,99
 0021700163,2017-11-08,GSW,MIN,47.23,4,0,46,MIN,MIN,fg_miss,1,False,False,,MISS Dieng 19' Jump Shot,124-99,124,99
 0021700163,2017-11-08,GSW,MIN,47.3,4,0,42,GSW,GSW,reb,0,False,False,Casspi REBOUND (Off:1 Def:2),,124-99,124,99

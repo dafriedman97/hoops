@@ -93,11 +93,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800808,2019-02-06,UTA,PHX,10.13,1,1,52,UTA,UTA,reb,1,False,False,JAZZ Rebound,,25-21,25,21
 0021800808,2019-02-06,UTA,PHX,10.13,1,1,52,UTA,UTA,ft_make,15,False,False,Crowder Free Throw 3 of 3 (8 PTS),,26-21,26,21
 0021800808,2019-02-06,UTA,PHX,10.33,1,1,40,PHX,PHX,fg_miss,102,True,False,,MISS Evans 7' Driving Floating Bank Jump Shot,26-21,26,21
+0021800808,2019-02-06,UTA,PHX,10.33,1,1,40,PHX,UTA,block,102,True,False,block,block,26-21,26,21
 0021800808,2019-02-06,UTA,PHX,10.33,1,1,40,PHX,PHX,reb,0,False,False,,Holmes REBOUND (Off:1 Def:2),26-21,26,21
 0021800808,2019-02-06,UTA,PHX,10.33,1,1,40,PHX,UTA,foul,2,False,False,Favors S.FOUL (P1.T3) (T.Ford),,26-21,26,21
 0021800808,2019-02-06,UTA,PHX,10.33,1,1,40,PHX,PHX,ft_miss,11,False,False,,MISS Holmes Free Throw 1 of 2,26-21,26,21
 0021800808,2019-02-06,UTA,PHX,10.33,1,1,40,PHX,PHX,reb,1,False,False,,Suns Rebound,26-21,26,21
-0021800808,2019-02-06,UTA,PHX,10.33,1,1,40,PHX,UTA,block,102,True,False,block,block,26-21,26,21
 0021800808,2019-02-06,UTA,PHX,10.33,1,1,40,PHX,PHX,ft_make,12,False,False,,Holmes Free Throw 2 of 2 (1 PTS),26-22,26,22
 0021800808,2019-02-06,UTA,PHX,10.57,1,1,26,UTA,UTA,fg_make,101,False,False,Ingles 10' Driving Floating Jump Shot (5 PTS) (Neto 1 AST),,28-22,28,22
 0021800808,2019-02-06,UTA,PHX,10.85,1,1,9,PHX,PHX,fg3_miss,79,False,False,,MISS Crawford 25' 3PT Pullup Jump Shot,28-22,28,22
@@ -255,8 +255,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800808,2019-02-06,UTA,PHX,26.82,3,9,11,UTA,UTA,fg_miss,97,False,False,MISS Gobert 1' Tip Layup Shot,,59-53,59,53
 0021800808,2019-02-06,UTA,PHX,26.82,3,9,11,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:3 Def:6),59-53,59,53
 0021800808,2019-02-06,UTA,PHX,26.88,3,9,7,PHX,PHX,tov,1,False,True,,Jackson Bad Pass Turnover (P3.T12),59-53,59,53
-0021800808,2019-02-06,UTA,PHX,26.88,3,9,7,UTA,PHX,foul,1,False,False,,Ayton P.FOUL (P2.T2) (E.Malloy),59-53,59,53
 0021800808,2019-02-06,UTA,PHX,26.88,3,9,7,PHX,UTA,steal,1,False,True,steal,steal,59-53,59,53
+0021800808,2019-02-06,UTA,PHX,26.88,3,9,7,UTA,PHX,foul,1,False,False,,Ayton P.FOUL (P2.T2) (E.Malloy),59-53,59,53
 0021800808,2019-02-06,UTA,PHX,27.03,3,8,58,UTA,UTA,fg_make,98,False,False,Mitchell 1' Cutting Layup Shot (10 PTS) (Rubio 5 AST),,61-53,61,53
 0021800808,2019-02-06,UTA,PHX,27.35,3,8,39,PHX,PHX,fg_miss,1,False,False,,MISS Ayton 18' Jump Shot,61-53,61,53
 0021800808,2019-02-06,UTA,PHX,27.4,3,8,36,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:4 Def:5),,61-53,61,53
@@ -264,9 +264,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800808,2019-02-06,UTA,PHX,27.58,3,8,25,UTA,PHX,block,44,True,False,block,block,61-53,61,53
 0021800808,2019-02-06,UTA,PHX,27.67,3,8,20,PHX,PHX,reb,0,False,False,,Bender REBOUND (Off:0 Def:4),61-53,61,53
 0021800808,2019-02-06,UTA,PHX,27.72,3,8,17,PHX,PHX,fg_miss,1,False,False,,MISS Jackson 14' Jump Shot,61-53,61,53
+0021800808,2019-02-06,UTA,PHX,27.77,3,8,14,PHX,PHX,reb,0,False,False,,Jackson REBOUND (Off:1 Def:2),61-53,61,53
 0021800808,2019-02-06,UTA,PHX,27.77,3,8,14,PHX,PHX,fg_miss,97,False,False,,MISS Jackson 2' Tip Layup Shot,61-53,61,53
 0021800808,2019-02-06,UTA,PHX,27.77,3,8,14,PHX,PHX,reb,0,False,False,,Bridges REBOUND (Off:1 Def:2),61-53,61,53
-0021800808,2019-02-06,UTA,PHX,27.77,3,8,14,PHX,PHX,reb,0,False,False,,Jackson REBOUND (Off:1 Def:2),61-53,61,53
 0021800808,2019-02-06,UTA,PHX,27.78,3,8,13,PHX,PHX,tov,40,False,False,,Bridges Out of Bounds Lost Ball Turnover (P1.T13),61-53,61,53
 0021800808,2019-02-06,UTA,PHX,28.13,3,7,52,UTA,UTA,fg_make,79,False,False,Rubio 19' Pullup Jump Shot (7 PTS) (Ingles 7 AST),,63-53,63,53
 0021800808,2019-02-06,UTA,PHX,28.4,3,7,36,UTA,PHX,foul,4,False,False,,Bridges OFF.Foul (P2) (E.Malloy),63-53,63,53

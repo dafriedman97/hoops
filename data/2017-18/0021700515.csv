@@ -29,8 +29,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700515,2017-12-27,LAL,MEM,3.67,1,8,20,MEM,MEM,reb,0,False,False,,Martin REBOUND (Off:0 Def:1),2-6,2,6
 0021700515,2017-12-27,LAL,MEM,4.02,1,7,59,MEM,MEM,tov,11,False,False,,Grizzlies Turnover: Shot Clock (T#1),2-6,2,6
 0021700515,2017-12-27,LAL,MEM,4.2,1,7,48,LAL,LAL,fg_miss,57,True,False,MISS Kuzma 8' Driving Hook Shot,,2-6,2,6
-0021700515,2017-12-27,LAL,MEM,4.2,1,7,48,LAL,LAL,reb,0,False,False,LAKERS Rebound,,2-6,2,6
 0021700515,2017-12-27,LAL,MEM,4.2,1,7,48,LAL,MEM,block,57,True,False,block,block,2-6,2,6
+0021700515,2017-12-27,LAL,MEM,4.2,1,7,48,LAL,LAL,reb,0,False,False,LAKERS Rebound,,2-6,2,6
 0021700515,2017-12-27,LAL,MEM,4.42,1,7,35,LAL,LAL,fg_miss,6,False,False,MISS Clarkson 3' Driving Layup,,2-6,2,6
 0021700515,2017-12-27,LAL,MEM,4.45,1,7,33,LAL,LAL,reb,0,False,False,Bogut REBOUND (Off:2 Def:3),,2-6,2,6
 0021700515,2017-12-27,LAL,MEM,4.52,1,7,29,LAL,LAL,fg_miss,44,False,False,MISS Clarkson 3' Reverse Layup,,2-6,2,6
@@ -51,9 +51,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700515,2017-12-27,LAL,MEM,5.97,1,6,2,MEM,MEM,fg_make,6,False,False,,Evans 1' Driving Layup (4 PTS),4-12,4,12
 0021700515,2017-12-27,LAL,MEM,6.08,1,5,55,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 1 Short 0),,4-12,4,12
 0021700515,2017-12-27,LAL,MEM,6.2,1,5,48,LAL,MEM,foul,2,False,False,,Harrison S.FOUL (P2.T3) (D.Stafford),4-12,4,12
-0021700515,2017-12-27,LAL,MEM,6.2,1,5,48,LAL,LAL,ft_make,15,False,False,Caldwell-Pope Free Throw 3 of 3 (3 PTS),,5-12,5,12
 0021700515,2017-12-27,LAL,MEM,6.2,1,5,48,LAL,LAL,ft_make,13,False,False,Caldwell-Pope Free Throw 1 of 3 (4 PTS),,6-12,6,12
 0021700515,2017-12-27,LAL,MEM,6.2,1,5,48,LAL,LAL,ft_make,14,False,False,Caldwell-Pope Free Throw 2 of 3 (5 PTS),,7-12,7,12
+0021700515,2017-12-27,LAL,MEM,6.2,1,5,48,LAL,LAL,ft_make,15,False,False,Caldwell-Pope Free Throw 3 of 3 (3 PTS),,5-12,5,12
 0021700515,2017-12-27,LAL,MEM,6.53,1,5,28,MEM,MEM,tov,1,False,True,,Gasol Bad Pass Turnover (P1.T2),7-12,7,12
 0021700515,2017-12-27,LAL,MEM,6.53,1,5,28,MEM,LAL,steal,1,False,True,steal,steal,7-12,7,12
 0021700515,2017-12-27,LAL,MEM,6.6,1,5,24,LAL,LAL,fg_make,41,False,False,Kuzma 1' Running Layup (2 PTS),,9-12,9,12
@@ -61,8 +61,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700515,2017-12-27,LAL,MEM,7.02,1,4,59,MEM,MEM,reb,0,False,False,,Martin REBOUND (Off:1 Def:1),9-12,9,12
 0021700515,2017-12-27,LAL,MEM,7.02,1,4,59,MEM,MEM,fg_make,107,False,False,,Martin 1' Tip Dunk Shot (6 PTS),9-14,9,14
 0021700515,2017-12-27,LAL,MEM,7.17,1,4,50,LAL,LAL,fg_miss,6,True,False,MISS Kuzma 7' Driving Layup,,9-14,9,14
-0021700515,2017-12-27,LAL,MEM,7.17,1,4,50,LAL,LAL,reb,0,False,False,LAKERS Rebound,,9-14,9,14
 0021700515,2017-12-27,LAL,MEM,7.17,1,4,50,LAL,MEM,block,6,True,False,block,block,9-14,9,14
+0021700515,2017-12-27,LAL,MEM,7.17,1,4,50,LAL,LAL,reb,0,False,False,LAKERS Rebound,,9-14,9,14
 0021700515,2017-12-27,LAL,MEM,7.22,1,4,47,LAL,LAL,fg_miss,1,False,False,MISS Randle 20' Jump Shot,,9-14,9,14
 0021700515,2017-12-27,LAL,MEM,7.23,1,4,46,LAL,LAL,reb,0,False,False,LAKERS Rebound,,9-14,9,14
 0021700515,2017-12-27,LAL,MEM,7.35,1,4,39,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 26' 3PT Jump Shot,,9-14,9,14
@@ -110,8 +110,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700515,2017-12-27,LAL,MEM,11.62,1,0,23,LAL,LAL,reb,0,False,False,Clarkson REBOUND (Off:1 Def:0),,18-24,18,24
 0021700515,2017-12-27,LAL,MEM,11.93,1,0,4,LAL,LAL,tov,11,False,False,LAKERS Turnover: Shot Clock (T#4),,18-24,18,24
 0021700515,2017-12-27,LAL,MEM,11.98,1,0,1,MEM,MEM,fg3_miss,1,True,False,,MISS Chalmers 32' 3PT Jump Shot,18-24,18,24
-0021700515,2017-12-27,LAL,MEM,11.98,1,0,1,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,18-24,18,24
 0021700515,2017-12-27,LAL,MEM,11.98,1,0,1,MEM,LAL,block,1,True,False,block,block,18-24,18,24
+0021700515,2017-12-27,LAL,MEM,11.98,1,0,1,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,18-24,18,24
 0021700515,2017-12-27,LAL,MEM,12.0,1,0,0,MEM,,period_end,0,False,False,,,18-24,18,24
 0021700515,2017-12-27,LAL,MEM,12.0,2,12,0,MEM,,period_start,0,False,False,,,18-24,18,24
 0021700515,2017-12-27,LAL,MEM,12.13,2,11,52,LAL,MEM,foul,1,False,False,,Brooks P.FOUL (P2.T1) (C.Washington),18-24,18,24
@@ -131,8 +131,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700515,2017-12-27,LAL,MEM,13.48,2,10,31,LAL,LAL,tov,1,False,True,Clarkson Bad Pass Turnover (P1.T5),,18-26,18,26
 0021700515,2017-12-27,LAL,MEM,13.48,2,10,31,LAL,MEM,steal,1,False,True,steal,steal,18-26,18,26
 0021700515,2017-12-27,LAL,MEM,13.53,2,10,28,MEM,LAL,foul,29,False,False,Ennis Shooting Block Foul (P3.T2) (R.Garretson),,18-26,18,26
-0021700515,2017-12-27,LAL,MEM,13.53,2,10,28,MEM,MEM,ft_make,12,False,False,,Ennis III Free Throw 2 of 2 (1 PTS),18-27,18,27
 0021700515,2017-12-27,LAL,MEM,13.53,2,10,28,MEM,MEM,ft_make,11,False,False,,Ennis III Free Throw 1 of 2 (2 PTS),18-28,18,28
+0021700515,2017-12-27,LAL,MEM,13.53,2,10,28,MEM,MEM,ft_make,12,False,False,,Ennis III Free Throw 2 of 2 (1 PTS),18-27,18,27
 0021700515,2017-12-27,LAL,MEM,13.83,2,10,10,LAL,LAL,fg_miss,1,False,False,MISS Clarkson 16' Jump Shot,,18-28,18,28
 0021700515,2017-12-27,LAL,MEM,13.83,2,10,10,LAL,LAL,reb,0,False,False,Nance Jr. REBOUND (Off:1 Def:0),,18-28,18,28
 0021700515,2017-12-27,LAL,MEM,13.9,2,10,6,LAL,LAL,fg3_miss,1,False,False,MISS Hart 25' 3PT Jump Shot,,18-28,18,28
@@ -156,9 +156,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700515,2017-12-27,LAL,MEM,16.17,2,7,50,MEM,MEM,tov,1,False,True,,Martin Bad Pass Turnover (P1.T3),28-30,28,30
 0021700515,2017-12-27,LAL,MEM,16.17,2,7,50,MEM,LAL,steal,1,False,True,steal,steal,28-30,28,30
 0021700515,2017-12-27,LAL,MEM,16.2,2,7,48,LAL,MEM,foul,29,False,False,,Ennis III Shooting Block Foul (P1.T3) (C.Washington),28-30,28,30
-0021700515,2017-12-27,LAL,MEM,16.2,2,7,48,LAL,LAL,ft_make,12,False,False,Ingram Free Throw 2 of 2 (9 PTS),,29-30,29,30
 0021700515,2017-12-27,LAL,MEM,16.2,2,7,48,LAL,LAL,ft_miss,11,False,False,MISS Ingram Free Throw 1 of 2,,29-30,29,30
 0021700515,2017-12-27,LAL,MEM,16.2,2,7,48,LAL,LAL,reb,1,False,False,LAKERS Rebound,,29-30,29,30
+0021700515,2017-12-27,LAL,MEM,16.2,2,7,48,LAL,LAL,ft_make,12,False,False,Ingram Free Throw 2 of 2 (9 PTS),,29-30,29,30
 0021700515,2017-12-27,LAL,MEM,16.57,2,7,26,MEM,MEM,fg3_miss,1,False,False,,MISS Gasol 26' 3PT Jump Shot,29-30,29,30
 0021700515,2017-12-27,LAL,MEM,16.6,2,7,24,MEM,MEM,reb,0,False,False,,Simmons REBOUND (Off:1 Def:0),29-30,29,30
 0021700515,2017-12-27,LAL,MEM,16.7,2,7,18,MEM,MEM,fg_miss,101,False,False,,MISS Evans 5' Driving Floating Jump Shot,29-30,29,30
@@ -239,8 +239,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700515,2017-12-27,LAL,MEM,24.28,3,11,43,MEM,MEM,reb,0,False,False,,Gasol REBOUND (Off:1 Def:4),48-54,48,54
 0021700515,2017-12-27,LAL,MEM,24.57,3,11,26,MEM,MEM,fg_make,79,False,False,,Brooks 11' Pullup Jump Shot (2 PTS) (Harrison 1 AST),48-56,48,56
 0021700515,2017-12-27,LAL,MEM,24.78,3,11,13,LAL,LAL,fg_miss,6,True,False,MISS Kuzma 4' Driving Layup,,48-56,48,56
-0021700515,2017-12-27,LAL,MEM,24.78,3,11,13,LAL,LAL,reb,0,False,False,LAKERS Rebound,,48-56,48,56
 0021700515,2017-12-27,LAL,MEM,24.78,3,11,13,LAL,MEM,block,6,True,False,block,block,48-56,48,56
+0021700515,2017-12-27,LAL,MEM,24.78,3,11,13,LAL,LAL,reb,0,False,False,LAKERS Rebound,,48-56,48,56
 0021700515,2017-12-27,LAL,MEM,24.9,3,11,6,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 26' 3PT Jump Shot,,48-56,48,56
 0021700515,2017-12-27,LAL,MEM,24.98,3,11,1,MEM,MEM,reb,0,False,False,,Evans REBOUND (Off:0 Def:6),48-56,48,56
 0021700515,2017-12-27,LAL,MEM,25.13,3,10,52,MEM,MEM,fg_miss,101,False,False,,MISS Harrison 11' Driving Floating Jump Shot,48-56,48,56
@@ -248,8 +248,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700515,2017-12-27,LAL,MEM,25.27,3,10,44,LAL,LAL,fg3_miss,1,False,False,MISS Caldwell-Pope 25' 3PT Jump Shot,,48-56,48,56
 0021700515,2017-12-27,LAL,MEM,25.35,3,10,39,LAL,LAL,reb,0,False,False,Ingram REBOUND (Off:1 Def:0),,48-56,48,56
 0021700515,2017-12-27,LAL,MEM,25.42,3,10,35,LAL,LAL,fg_miss,1,True,False,MISS Kuzma 7' Jump Shot,,48-56,48,56
-0021700515,2017-12-27,LAL,MEM,25.42,3,10,35,LAL,LAL,reb,0,False,False,LAKERS Rebound,,48-56,48,56
 0021700515,2017-12-27,LAL,MEM,25.42,3,10,35,LAL,MEM,block,1,True,False,block,block,48-56,48,56
+0021700515,2017-12-27,LAL,MEM,25.42,3,10,35,LAL,LAL,reb,0,False,False,LAKERS Rebound,,48-56,48,56
 0021700515,2017-12-27,LAL,MEM,25.53,3,10,28,LAL,LAL,fg_miss,5,False,False,MISS Ingram 2' Layup,,48-56,48,56
 0021700515,2017-12-27,LAL,MEM,25.53,3,10,28,LAL,LAL,reb,0,False,False,Bogut REBOUND (Off:3 Def:3),,48-56,48,56
 0021700515,2017-12-27,LAL,MEM,25.57,3,10,26,LAL,LAL,fg_make,107,False,False,Bogut 1' Tip Dunk Shot (2 PTS),,50-56,50,56
@@ -334,8 +334,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700515,2017-12-27,LAL,MEM,35.17,3,0,50,LAL,LAL,fg3_miss,1,False,False,MISS Caldwell-Pope 25' 3PT Jump Shot,,74-74,74,74
 0021700515,2017-12-27,LAL,MEM,35.23,3,0,46,LAL,LAL,reb,0,False,False,Nance Jr. REBOUND (Off:5 Def:2),,74-74,74,74
 0021700515,2017-12-27,LAL,MEM,35.25,3,0,45,LAL,LAL,fg_miss,58,True,False,MISS Nance Jr. 6' Turnaround Hook Shot,,74-74,74,74
-0021700515,2017-12-27,LAL,MEM,35.25,3,0,45,MEM,MEM,reb,0,False,False,,Davis REBOUND (Off:0 Def:1),74-74,74,74
 0021700515,2017-12-27,LAL,MEM,35.25,3,0,45,LAL,MEM,block,58,True,False,block,block,74-74,74,74
+0021700515,2017-12-27,LAL,MEM,35.25,3,0,45,MEM,MEM,reb,0,False,False,,Davis REBOUND (Off:0 Def:1),74-74,74,74
 0021700515,2017-12-27,LAL,MEM,35.38,3,0,37,MEM,MEM,fg3_miss,1,False,False,,MISS Parsons 28' 3PT Jump Shot,74-74,74,74
 0021700515,2017-12-27,LAL,MEM,35.38,3,0,37,MEM,MEM,reb,0,False,False,,Davis REBOUND (Off:1 Def:1),74-74,74,74
 0021700515,2017-12-27,LAL,MEM,35.52,3,0,29,MEM,MEM,fg_miss,43,False,False,,MISS Ennis III 2' Alley Oop Layup,74-74,74,74
@@ -358,8 +358,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700515,2017-12-27,LAL,MEM,37.28,4,10,43,MEM,MEM,fg3_miss,80,False,False,,MISS Evans 25' 3PT Step Back Jump Shot,78-80,78,80
 0021700515,2017-12-27,LAL,MEM,37.35,4,10,39,LAL,LAL,reb,0,False,False,Nance Jr. REBOUND (Off:5 Def:4),,78-80,78,80
 0021700515,2017-12-27,LAL,MEM,37.38,4,10,37,LAL,LAL,fg_miss,74,True,False,MISS Kuzma 2' Running Reverse Layup,,78-80,78,80
-0021700515,2017-12-27,LAL,MEM,37.38,4,10,37,LAL,LAL,reb,0,False,False,LAKERS Rebound,,78-80,78,80
 0021700515,2017-12-27,LAL,MEM,37.38,4,10,37,LAL,MEM,block,74,True,False,block,block,78-80,78,80
+0021700515,2017-12-27,LAL,MEM,37.38,4,10,37,LAL,LAL,reb,0,False,False,LAKERS Rebound,,78-80,78,80
 0021700515,2017-12-27,LAL,MEM,37.42,4,10,35,MEM,LAL,foul,26,False,False,Kuzma Offensive Charge Foul (P2.T2) (R.Garretson),,78-80,78,80
 0021700515,2017-12-27,LAL,MEM,37.42,4,10,35,LAL,LAL,tov,37,False,False,Kuzma Offensive Foul Turnover (P1.T8),,78-80,78,80
 0021700515,2017-12-27,LAL,MEM,37.82,4,10,11,MEM,MEM,fg_miss,1,False,False,,MISS Evans 19' Jump Shot,78-80,78,80
@@ -374,8 +374,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700515,2017-12-27,LAL,MEM,38.83,4,9,10,MEM,MEM,fg3_make,1,False,False,,Chalmers 24' 3PT Jump Shot (5 PTS),79-85,79,85
 0021700515,2017-12-27,LAL,MEM,38.87,4,9,8,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 4 Short 0),,79-85,79,85
 0021700515,2017-12-27,LAL,MEM,39.03,4,8,58,LAL,LAL,tov,1,False,True,Ingram Bad Pass Turnover (P3.T9),,79-85,79,85
-0021700515,2017-12-27,LAL,MEM,39.03,4,8,58,MEM,LAL,foul,1,False,False,Caruso P.FOUL (P1.T3) (R.Garretson),,79-85,79,85
 0021700515,2017-12-27,LAL,MEM,39.03,4,8,58,LAL,MEM,steal,1,False,True,steal,steal,79-85,79,85
+0021700515,2017-12-27,LAL,MEM,39.03,4,8,58,MEM,LAL,foul,1,False,False,Caruso P.FOUL (P1.T3) (R.Garretson),,79-85,79,85
 0021700515,2017-12-27,LAL,MEM,39.32,4,8,41,MEM,MEM,fg_make,80,False,False,,Harrison 16' Step Back Jump Shot (11 PTS),79-87,79,87
 0021700515,2017-12-27,LAL,MEM,39.57,4,8,26,LAL,LAL,fg_miss,7,True,False,MISS Ingram 3' Dunk,,79-87,79,87
 0021700515,2017-12-27,LAL,MEM,39.57,4,8,26,LAL,MEM,block,7,True,False,block,block,79-87,79,87

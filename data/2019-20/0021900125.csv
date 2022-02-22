@@ -19,8 +19,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900125,2019-11-08,POR,BKN,1.57,1,10,26,BKN,BKN,fg3_make,79,False,False,,Irving 26' 3PT Pullup Jump Shot (3 PTS) (Harris 1 AST),3-3,3,3
 0021900125,2019-11-08,POR,BKN,1.78,1,10,13,POR,POR,fg_make,6,False,False,Lillard 2' Driving Layup (5 PTS),,5-3,5,3
 0021900125,2019-11-08,POR,BKN,2.0,1,10,0,BKN,BKN,fg_miss,3,False,False,,MISS Allen 4' Hook Shot,5-3,5,3
-0021900125,2019-11-08,POR,BKN,2.07,1,9,56,BKN,BKN,fg_make,97,False,False,,Allen 1' Tip Layup Shot (2 PTS),5-5,5,5
 0021900125,2019-11-08,POR,BKN,2.07,1,9,56,BKN,BKN,reb,0,False,False,,Allen REBOUND (Off:1 Def:0),5-5,5,5
+0021900125,2019-11-08,POR,BKN,2.07,1,9,56,BKN,BKN,fg_make,97,False,False,,Allen 1' Tip Layup Shot (2 PTS),5-5,5,5
 0021900125,2019-11-08,POR,BKN,2.22,1,9,47,POR,POR,fg_miss,3,False,False,MISS Whiteside 8' Hook Shot,,5-5,5,5
 0021900125,2019-11-08,POR,BKN,2.25,1,9,45,BKN,BKN,reb,0,False,False,,Prince REBOUND (Off:0 Def:1),5-5,5,5
 0021900125,2019-11-08,POR,BKN,2.4,1,9,36,BKN,BKN,fg_miss,58,False,False,,MISS Allen 5' Turnaround Hook Shot,5-5,5,5
@@ -222,8 +222,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900125,2019-11-08,POR,BKN,21.8,2,2,12,POR,POR,fg_miss,101,False,False,MISS McCollum 11' Driving Floating Jump Shot,,39-46,39,46
 0021900125,2019-11-08,POR,BKN,21.83,2,2,10,POR,POR,reb,0,False,False,McCollum REBOUND (Off:2 Def:0),,39-46,39,46
 0021900125,2019-11-08,POR,BKN,21.83,2,2,10,POR,POR,fg_miss,72,True,False,MISS McCollum 1' Putback Layup,,39-46,39,46
-0021900125,2019-11-08,POR,BKN,21.83,2,2,10,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,39-46,39,46
 0021900125,2019-11-08,POR,BKN,21.83,2,2,10,POR,BKN,block,72,True,False,block,block,39-46,39,46
+0021900125,2019-11-08,POR,BKN,21.83,2,2,10,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,39-46,39,46
 0021900125,2019-11-08,POR,BKN,22.03,2,1,58,POR,POR,fg_make,98,False,False,Little 2' Cutting Layup Shot (2 PTS) (Lillard 3 AST),,41-46,41,46
 0021900125,2019-11-08,POR,BKN,22.27,2,1,44,BKN,BKN,fg_miss,86,False,False,,MISS Irving 12' Turnaround Fadeaway Shot,41-46,41,46
 0021900125,2019-11-08,POR,BKN,22.3,2,1,42,POR,POR,reb,0,False,False,Whiteside REBOUND (Off:1 Def:4),,41-46,41,46
@@ -278,8 +278,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900125,2019-11-08,POR,BKN,27.15,3,8,51,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,59-58,59,58
 0021900125,2019-11-08,POR,BKN,27.15,3,8,51,POR,BKN,foul,3,False,False,,Prince L.B.FOUL (P4.T1) (M.Ervin),59-58,59,58
 0021900125,2019-11-08,POR,BKN,27.28,3,8,43,POR,POR,fg_miss,102,False,False,MISS McCollum 10' Driving Floating Bank Jump Shot,,59-58,59,58
-0021900125,2019-11-08,POR,BKN,27.3,3,8,42,BKN,BKN,reb,0,False,False,,Nets Rebound,59-58,59,58
 0021900125,2019-11-08,POR,BKN,27.3,3,8,42,BKN,POR,foul,3,False,False,McCollum L.B.FOUL (P1.T2) (Z.Zarba),,59-58,59,58
+0021900125,2019-11-08,POR,BKN,27.3,3,8,42,BKN,BKN,reb,0,False,False,,Nets Rebound,59-58,59,58
 0021900125,2019-11-08,POR,BKN,27.52,3,8,29,BKN,BKN,fg_make,75,False,False,,Dinwiddie 1' Driving Finger Roll Layup (16 PTS),59-60,59,60
 0021900125,2019-11-08,POR,BKN,27.73,3,8,16,POR,POR,fg3_miss,79,False,False,MISS Lillard 26' 3PT Pullup Jump Shot,,59-60,59,60
 0021900125,2019-11-08,POR,BKN,27.77,3,8,14,BKN,BKN,reb,0,False,False,,Dinwiddie REBOUND (Off:0 Def:2),59-60,59,60
@@ -308,8 +308,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900125,2019-11-08,POR,BKN,30.4,3,5,36,POR,POR,ft_make,15,False,False,Lillard Free Throw 3 of 3 (37 PTS),,68-71,68,71
 0021900125,2019-11-08,POR,BKN,30.65,3,5,21,BKN,BKN,fg_miss,101,True,False,,MISS Harris 3' Driving Floating Jump Shot,68-71,68,71
 0021900125,2019-11-08,POR,BKN,30.65,3,5,21,BKN,POR,block,101,True,False,block,block,68-71,68,71
-0021900125,2019-11-08,POR,BKN,30.82,3,5,11,BKN,BKN,fg_make,97,False,False,,Irving 1' Tip Layup Shot (18 PTS),68-73,68,73
 0021900125,2019-11-08,POR,BKN,30.82,3,5,11,BKN,BKN,reb,0,False,False,,Irving REBOUND (Off:1 Def:1),68-73,68,73
+0021900125,2019-11-08,POR,BKN,30.82,3,5,11,BKN,BKN,fg_make,97,False,False,,Irving 1' Tip Layup Shot (18 PTS),68-73,68,73
 0021900125,2019-11-08,POR,BKN,30.93,3,5,4,POR,POR,fg3_make,79,False,False,Lillard 28' 3PT Pullup Jump Shot (40 PTS),,71-73,71,73
 0021900125,2019-11-08,POR,BKN,31.2,3,4,48,BKN,BKN,fg_miss,6,True,False,,MISS Irving 2' Driving Layup,71-73,71,73
 0021900125,2019-11-08,POR,BKN,31.2,3,4,48,BKN,POR,block,6,True,False,block,block,71-73,71,73
@@ -336,14 +336,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900125,2019-11-08,POR,BKN,32.88,3,3,7,BKN,BKN,reb,0,False,False,,Irving REBOUND (Off:1 Def:2),77-80,77,80
 0021900125,2019-11-08,POR,BKN,32.95,3,3,3,BKN,POR,foul,2,False,False,Labissiere S.FOUL (P4.PN) (Z.Zarba),,77-80,77,80
 0021900125,2019-11-08,POR,BKN,32.95,3,3,3,BKN,BKN,ft_make,11,False,False,,Allen Free Throw 1 of 2 (10 PTS),77-81,77,81
-0021900125,2019-11-08,POR,BKN,32.95,3,3,3,BKN,BKN,ft_miss,12,False,False,,MISS Allen Free Throw 2 of 2,77-81,77,81
 0021900125,2019-11-08,POR,BKN,32.95,3,3,3,POR,POR,timeout,1,False,False,TRAIL BLAZERS Timeout: Regular (Full 3 Short 0),,77-81,77,81
+0021900125,2019-11-08,POR,BKN,32.95,3,3,3,BKN,BKN,ft_miss,12,False,False,,MISS Allen Free Throw 2 of 2,77-81,77,81
 0021900125,2019-11-08,POR,BKN,32.98,3,3,1,POR,POR,reb,0,False,False,Little REBOUND (Off:0 Def:1),,77-81,77,81
 0021900125,2019-11-08,POR,BKN,33.27,3,2,44,POR,POR,fg3_make,80,False,False,Simons 28' 3PT Step Back Jump Shot (10 PTS),,80-81,80,81
 0021900125,2019-11-08,POR,BKN,33.52,3,2,29,BKN,BKN,fg3_make,79,False,False,,Irving 26' 3PT Pullup Jump Shot (23 PTS),80-84,80,84
 0021900125,2019-11-08,POR,BKN,33.8,3,2,12,POR,POR,fg_miss,6,True,False,MISS Lillard 2' Driving Layup,,80-84,80,84
-0021900125,2019-11-08,POR,BKN,33.8,3,2,12,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,80-84,80,84
 0021900125,2019-11-08,POR,BKN,33.8,3,2,12,POR,BKN,block,6,True,False,block,block,80-84,80,84
+0021900125,2019-11-08,POR,BKN,33.8,3,2,12,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,80-84,80,84
 0021900125,2019-11-08,POR,BKN,33.9,3,2,6,POR,POR,fg_miss,6,False,False,MISS Little 1' Driving Layup,,80-84,80,84
 0021900125,2019-11-08,POR,BKN,33.95,3,2,3,BKN,BKN,reb,0,False,False,,Dinwiddie REBOUND (Off:0 Def:3),80-84,80,84
 0021900125,2019-11-08,POR,BKN,34.17,3,1,50,BKN,BKN,fg_miss,80,False,False,,MISS Dinwiddie 14' Step Back Jump Shot,80-84,80,84
@@ -428,8 +428,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900125,2019-11-08,POR,BKN,41.58,4,6,25,BKN,BKN,fg_miss,6,False,False,,MISS Irving 2' Driving Layup,101-98,101,98
 0021900125,2019-11-08,POR,BKN,41.6,4,6,24,BKN,BKN,reb,0,False,False,,Allen REBOUND (Off:3 Def:4),101-98,101,98
 0021900125,2019-11-08,POR,BKN,41.62,4,6,23,BKN,BKN,fg_miss,3,True,False,,MISS Allen Hook Shot,101-98,101,98
-0021900125,2019-11-08,POR,BKN,41.62,4,6,23,BKN,BKN,reb,0,False,False,,Nets Rebound,101-98,101,98
 0021900125,2019-11-08,POR,BKN,41.62,4,6,23,BKN,POR,block,3,True,False,block,block,101-98,101,98
+0021900125,2019-11-08,POR,BKN,41.62,4,6,23,BKN,BKN,reb,0,False,False,,Nets Rebound,101-98,101,98
 0021900125,2019-11-08,POR,BKN,41.73,4,6,16,BKN,BKN,fg_miss,86,False,False,,MISS Irving 12' Turnaround Fadeaway Shot,101-98,101,98
 0021900125,2019-11-08,POR,BKN,41.78,4,6,13,POR,POR,reb,0,False,False,Whiteside REBOUND (Off:4 Def:10),,101-98,101,98
 0021900125,2019-11-08,POR,BKN,41.93,4,6,4,POR,POR,tov,1,False,True,Lillard Bad Pass Turnover (P2.T11),,101-98,101,98
@@ -439,17 +439,17 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900125,2019-11-08,POR,BKN,42.68,4,5,19,BKN,BKN,fg_make,75,False,False,,Dinwiddie 2' Driving Finger Roll Layup (33 PTS),103-100,103,100
 0021900125,2019-11-08,POR,BKN,42.98,4,5,1,POR,BKN,foul,1,False,False,,LeVert P.FOUL (P3.T3) (M.Ervin),103-100,103,100
 0021900125,2019-11-08,POR,BKN,43.07,4,4,56,POR,POR,fg_miss,6,True,False,MISS Lillard 3' Driving Layup,,103-100,103,100
-0021900125,2019-11-08,POR,BKN,43.07,4,4,56,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,103-100,103,100
 0021900125,2019-11-08,POR,BKN,43.07,4,4,56,POR,BKN,block,6,True,False,block,block,103-100,103,100
+0021900125,2019-11-08,POR,BKN,43.07,4,4,56,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,103-100,103,100
 0021900125,2019-11-08,POR,BKN,43.18,4,4,49,POR,POR,fg_miss,86,False,False,MISS Lillard 14' Turnaround Fadeaway Shot,,103-100,103,100
 0021900125,2019-11-08,POR,BKN,43.22,4,4,47,BKN,BKN,reb,0,False,False,,Allen REBOUND (Off:3 Def:5),103-100,103,100
 0021900125,2019-11-08,POR,BKN,43.32,4,4,41,BKN,BKN,fg3_make,1,False,False,,Harris 3PT Jump Shot (9 PTS) (Dinwiddie 4 AST),103-103,103,103
 0021900125,2019-11-08,POR,BKN,43.68,4,4,19,POR,POR,fg_miss,102,False,False,MISS Simons 12' Driving Floating Bank Jump Shot,,103-103,103,103
 0021900125,2019-11-08,POR,BKN,43.73,4,4,16,BKN,BKN,reb,0,False,False,,Allen REBOUND (Off:3 Def:6),103-103,103,103
 0021900125,2019-11-08,POR,BKN,43.83,4,4,10,BKN,BKN,fg_miss,6,True,False,,MISS Harris 1' Driving Layup,103-103,103,103
+0021900125,2019-11-08,POR,BKN,43.83,4,4,10,BKN,POR,block,6,True,False,block,block,103-103,103,103
 0021900125,2019-11-08,POR,BKN,43.83,4,4,10,BKN,BKN,reb,0,False,False,,Nets Rebound,103-103,103,103
 0021900125,2019-11-08,POR,BKN,43.83,4,4,10,BKN,BKN,timeout,1,False,False,,Nets Timeout: Regular (Reg.5 Short 0),103-103,103,103
-0021900125,2019-11-08,POR,BKN,43.83,4,4,10,BKN,POR,block,6,True,False,block,block,103-103,103,103
 0021900125,2019-11-08,POR,BKN,43.93,4,4,4,BKN,BKN,fg3_make,80,False,False,,Harris 26' 3PT Step Back Jump Shot (12 PTS) (Irving 6 AST),103-106,103,106
 0021900125,2019-11-08,POR,BKN,44.23,4,3,46,POR,POR,fg_make,43,False,False,Simons 1' Alley Oop Layup (15 PTS) (Lillard 5 AST),,105-106,105,106
 0021900125,2019-11-08,POR,BKN,44.52,4,3,29,BKN,BKN,fg_make,6,False,False,,Irving 1' Driving Layup (27 PTS),105-108,105,108

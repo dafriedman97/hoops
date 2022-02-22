@@ -6,8 +6,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000424,2021-02-15,GSW,CLE,0.47,1,11,32,GSW,GSW,fg_miss,6,True,False,MISS Green 4' Driving Layup,,0-0,0,0
 0022000424,2021-02-15,GSW,CLE,0.47,1,11,32,GSW,CLE,block,6,True,False,block,block,0-0,0,0
 0022000424,2021-02-15,GSW,CLE,0.5,1,11,30,CLE,CLE,reb,0,False,False,,Osman REBOUND (Off:0 Def:1),0-0,0,0
-0022000424,2021-02-15,GSW,CLE,0.62,1,11,23,CLE,CLE,tov,2,False,False,,Sexton Lost Ball Turnover (P1.T1),0-0,0,0
 0022000424,2021-02-15,GSW,CLE,0.62,1,11,23,GSW,CLE,foul,3,False,False,,Sexton L.B.FOUL (P1.T1) (J.Sterling),0-0,0,0
+0022000424,2021-02-15,GSW,CLE,0.62,1,11,23,CLE,CLE,tov,2,False,False,,Sexton Lost Ball Turnover (P1.T1),0-0,0,0
 0022000424,2021-02-15,GSW,CLE,0.97,1,11,2,GSW,GSW,fg_miss,47,False,False,MISS Oubre Jr. 9' Turnaround Jump Shot,,0-0,0,0
 0022000424,2021-02-15,GSW,CLE,1.0,1,11,0,CLE,CLE,reb,0,False,False,,Allen REBOUND (Off:0 Def:1),0-0,0,0
 0022000424,2021-02-15,GSW,CLE,1.12,1,10,53,CLE,CLE,fg_make,6,False,False,,Garland 8' Driving Layup (2 PTS),0-2,0,2
@@ -101,10 +101,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000424,2021-02-15,GSW,CLE,11.88,1,0,7,GSW,GSW,fg3_miss,1,False,False,MISS Lee 3PT Jump Shot,,32-32,32,32
 0022000424,2021-02-15,GSW,CLE,11.92,1,0,5,CLE,CLE,reb,0,False,False,,Osman REBOUND (Off:0 Def:6),32-32,32,32
 0022000424,2021-02-15,GSW,CLE,12.0,1,0,0,CLE,CLE,fg3_miss,2,True,False,,MISS Dotson 3PT Running Jump Shot,32-32,32,32
+0022000424,2021-02-15,GSW,CLE,12.0,1,0,0,CLE,GSW,block,2,True,False,block,block,32-32,32,32
 0022000424,2021-02-15,GSW,CLE,12.0,1,0,0,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,32-32,32,32
 0022000424,2021-02-15,GSW,CLE,12.0,1,0,0,CLE,,period_end,0,False,False,,,32-32,32,32
 0022000424,2021-02-15,GSW,CLE,12.0,2,12,0,CLE,,period_start,0,False,False,,,32-32,32,32
-0022000424,2021-02-15,GSW,CLE,12.0,1,0,0,CLE,GSW,block,2,True,False,block,block,32-32,32,32
 0022000424,2021-02-15,GSW,CLE,12.17,2,11,50,CLE,GSW,foul,4,False,False,Paschall OFF.Foul (P1) (B.Barnaky),,32-32,32,32
 0022000424,2021-02-15,GSW,CLE,12.17,2,11,50,GSW,GSW,tov,37,False,False,Paschall Offensive Foul Turnover (P1.T4),,32-32,32,32
 0022000424,2021-02-15,GSW,CLE,12.57,2,11,26,CLE,CLE,fg_make,79,False,False,,Dotson 19' Pullup Jump Shot (2 PTS) (Stevens 2 AST),32-34,32,34
@@ -229,15 +229,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000424,2021-02-15,GSW,CLE,23.5,2,0,30,CLE,CLE,fg_make,72,False,False,,Allen Putback Layup (11 PTS),62-54,62,54
 0022000424,2021-02-15,GSW,CLE,23.85,2,0,9,GSW,GSW,fg_make,9,False,False,Green 2' Driving Dunk (4 PTS),,64-54,64,54
 0022000424,2021-02-15,GSW,CLE,24.0,2,0,0,CLE,CLE,fg_miss,43,True,False,,MISS Allen 3' Alley Oop Layup,64-54,64,54
+0022000424,2021-02-15,GSW,CLE,24.0,2,0,0,CLE,GSW,block,43,True,False,block,block,64-54,64,54
 0022000424,2021-02-15,GSW,CLE,24.0,2,0,0,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,64-54,64,54
 0022000424,2021-02-15,GSW,CLE,24.0,2,0,0,CLE,,period_end,0,False,False,,,64-54,64,54
 0022000424,2021-02-15,GSW,CLE,24.0,3,12,0,CLE,,period_start,0,False,False,,,64-54,64,54
-0022000424,2021-02-15,GSW,CLE,24.0,2,0,0,CLE,GSW,block,43,True,False,block,block,64-54,64,54
 0022000424,2021-02-15,GSW,CLE,24.23,3,11,46,GSW,GSW,fg_make,98,False,False,Toscano-Anderson 4' Cutting Layup Shot (5 PTS) (Green 10 AST),,66-54,66,54
 0022000424,2021-02-15,GSW,CLE,24.52,3,11,29,CLE,CLE,fg_miss,5,True,False,,MISS Allen 4' Layup,66-54,66,54
 0022000424,2021-02-15,GSW,CLE,24.52,3,11,29,CLE,GSW,block,5,True,False,block,block,66-54,66,54
-0022000424,2021-02-15,GSW,CLE,24.53,3,11,28,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,66-54,66,54
 0022000424,2021-02-15,GSW,CLE,24.53,3,11,28,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 3 Short 0),,66-54,66,54
+0022000424,2021-02-15,GSW,CLE,24.53,3,11,28,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,66-54,66,54
 0022000424,2021-02-15,GSW,CLE,24.58,3,11,25,,GSW,jump_ball,1,False,False,Jump Ball (CC) Toscano-Anderson vs. Allen: Tip to Okoro,,66-54,66,54
 0022000424,2021-02-15,GSW,CLE,24.73,3,11,16,CLE,CLE,fg_miss,6,False,False,,MISS Garland 7' Driving Layup,66-54,66,54
 0022000424,2021-02-15,GSW,CLE,24.77,3,11,14,CLE,CLE,reb,0,False,False,,Allen REBOUND (Off:4 Def:5),66-54,66,54

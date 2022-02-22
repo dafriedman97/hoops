@@ -2,8 +2,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701045,2018-03-17,POR,DET,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
 0021701045,2018-03-17,POR,DET,0.0,1,12,0,,POR,jump_ball,0,False,False,Jump Ball Nurkic vs. Drummond: Tip to Smith,,0-0,0,0
 0021701045,2018-03-17,POR,DET,0.17,1,11,50,DET,DET,fg_miss,75,True,False,,MISS Ennis III 3' Driving Finger Roll Layup,0-0,0,0
-0021701045,2018-03-17,POR,DET,0.17,1,11,50,DET,DET,reb,0,False,False,,Pistons Rebound,0-0,0,0
 0021701045,2018-03-17,POR,DET,0.17,1,11,50,DET,POR,block,75,True,False,block,block,0-0,0,0
+0021701045,2018-03-17,POR,DET,0.17,1,11,50,DET,DET,reb,0,False,False,,Pistons Rebound,0-0,0,0
 0021701045,2018-03-17,POR,DET,0.2,1,11,48,DET,DET,fg3_miss,1,False,False,,MISS Griffin 25' 3PT Jump Shot,0-0,0,0
 0021701045,2018-03-17,POR,DET,0.23,1,11,46,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:0 Def:1),,0-0,0,0
 0021701045,2018-03-17,POR,DET,0.4,1,11,36,POR,POR,fg_miss,96,False,False,MISS Nurkic 3' Turnaround Bank Hook Shot,,0-0,0,0
@@ -91,10 +91,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701045,2018-03-17,POR,DET,11.63,1,0,22,POR,POR,reb,0,False,False,Collins REBOUND (Off:0 Def:1),,29-20,29,20
 0021701045,2018-03-17,POR,DET,11.93,1,0,4,POR,POR,fg_make,75,False,False,Lillard 2' Driving Finger Roll Layup (5 PTS),,31-20,31,20
 0021701045,2018-03-17,POR,DET,12.0,1,0,0,DET,DET,fg3_miss,79,True,False,,MISS Buycks 26' 3PT Pullup Jump Shot,31-20,31,20
+0021701045,2018-03-17,POR,DET,12.0,1,0,0,DET,POR,block,79,True,False,block,block,31-20,31,20
 0021701045,2018-03-17,POR,DET,12.0,1,0,0,POR,POR,reb,0,False,False,Davis REBOUND (Off:1 Def:1),,31-20,31,20
 0021701045,2018-03-17,POR,DET,12.0,1,0,0,POR,,period_end,0,False,False,,,31-20,31,20
 0021701045,2018-03-17,POR,DET,12.0,2,12,0,POR,,period_start,0,False,False,,,31-20,31,20
-0021701045,2018-03-17,POR,DET,12.0,1,0,0,DET,POR,block,79,True,False,block,block,31-20,31,20
 0021701045,2018-03-17,POR,DET,12.28,2,11,43,POR,POR,fg_make,67,False,False,Collins 1' Hook Bank Shot (2 PTS) (McCollum 2 AST),,33-20,33,20
 0021701045,2018-03-17,POR,DET,12.52,2,11,29,DET,DET,tov,2,False,True,,Kennard Lost Ball Turnover (P1.T2),33-20,33,20
 0021701045,2018-03-17,POR,DET,12.52,2,11,29,DET,POR,steal,2,False,True,steal,steal,33-20,33,20
@@ -264,8 +264,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701045,2018-03-17,POR,DET,30.47,3,5,32,POR,POR,fg_make,5,False,False,Nurkic 2' Layup (13 PTS) (Aminu 1 AST),,70-55,70,55
 0021701045,2018-03-17,POR,DET,30.78,3,5,13,DET,DET,fg_make,80,False,False,,Kennard 20' Step Back Jump Shot (10 PTS),70-57,70,57
 0021701045,2018-03-17,POR,DET,31.03,3,4,58,POR,POR,tov,1,False,True,Aminu Bad Pass Turnover (P1.T5),,70-57,70,57
-0021701045,2018-03-17,POR,DET,31.03,3,4,58,DET,POR,foul,28,False,False,Nurkic Personal Take Foul (P4.T2) (S.Corbin),,70-57,70,57
 0021701045,2018-03-17,POR,DET,31.03,3,4,58,POR,DET,steal,1,False,True,steal,steal,70-57,70,57
+0021701045,2018-03-17,POR,DET,31.03,3,4,58,DET,POR,foul,28,False,False,Nurkic Personal Take Foul (P4.T2) (S.Corbin),,70-57,70,57
 0021701045,2018-03-17,POR,DET,31.22,3,4,47,DET,POR,violation,5,False,False,Davis Violation:Kicked Ball (J.Orr),,70-57,70,57
 0021701045,2018-03-17,POR,DET,31.45,3,4,33,DET,DET,fg3_miss,1,False,False,,MISS Griffin 29' 3PT Jump Shot,70-57,70,57
 0021701045,2018-03-17,POR,DET,31.5,3,4,30,POR,POR,reb,0,False,False,Collins REBOUND (Off:0 Def:2),,70-57,70,57

@@ -90,8 +90,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800753,2019-01-29,HOU,NOP,9.23,1,2,46,NOP,NOP,fg_miss,101,False,False,,MISS Williams 11' Driving Floating Jump Shot,30-21,30,21
 0021800753,2019-01-29,HOU,NOP,9.25,1,2,45,NOP,NOP,reb,0,False,False,,Williams REBOUND (Off:2 Def:0),30-21,30,21
 0021800753,2019-01-29,HOU,NOP,9.27,1,2,44,NOP,NOP,fg_miss,72,True,False,,MISS Williams 3' Putback Layup,30-21,30,21
-0021800753,2019-01-29,HOU,NOP,9.27,1,2,44,NOP,NOP,reb,0,False,False,,Williams REBOUND (Off:2 Def:0),30-21,30,21
 0021800753,2019-01-29,HOU,NOP,9.27,1,2,44,NOP,HOU,block,72,True,False,block,block,30-21,30,21
+0021800753,2019-01-29,HOU,NOP,9.27,1,2,44,NOP,NOP,reb,0,False,False,,Williams REBOUND (Off:2 Def:0),30-21,30,21
 0021800753,2019-01-29,HOU,NOP,9.3,1,2,42,NOP,NOP,fg3_miss,1,False,False,,MISS Jackson 3PT Jump Shot,30-21,30,21
 0021800753,2019-01-29,HOU,NOP,9.32,1,2,41,HOU,HOU,reb,0,False,False,Ennis III REBOUND (Off:0 Def:1),,30-21,30,21
 0021800753,2019-01-29,HOU,NOP,9.53,1,2,28,HOU,HOU,fg3_make,1,False,False,Ennis III 27' 3PT Jump Shot (6 PTS) (Nene 1 AST),,33-21,33,21
@@ -204,9 +204,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800753,2019-01-29,HOU,NOP,21.52,2,2,29,HOU,HOU,fg3_miss,1,False,False,MISS Tucker 3PT Jump Shot,,66-53,66,53
 0021800753,2019-01-29,HOU,NOP,21.57,2,2,26,NOP,NOP,reb,0,False,False,,Holiday REBOUND (Off:1 Def:3),66-53,66,53
 0021800753,2019-01-29,HOU,NOP,21.62,2,2,23,NOP,NOP,fg_miss,6,True,False,,MISS Holiday 5' Driving Layup,66-53,66,53
+0021800753,2019-01-29,HOU,NOP,21.62,2,2,23,NOP,HOU,block,6,True,False,block,block,66-53,66,53
 0021800753,2019-01-29,HOU,NOP,21.62,2,2,23,NOP,NOP,reb,0,False,False,,Pelicans Rebound,66-53,66,53
 0021800753,2019-01-29,HOU,NOP,21.62,2,2,23,NOP,NOP,timeout,1,False,False,,Pelicans Timeout: Regular (Reg.2 Short 0),66-53,66,53
-0021800753,2019-01-29,HOU,NOP,21.62,2,2,23,NOP,HOU,block,6,True,False,block,block,66-53,66,53
 0021800753,2019-01-29,HOU,NOP,21.75,2,2,15,NOP,NOP,fg3_miss,1,False,False,,MISS Miller 26' 3PT Jump Shot,66-53,66,53
 0021800753,2019-01-29,HOU,NOP,21.8,2,2,12,HOU,HOU,reb,0,False,False,Gordon REBOUND (Off:0 Def:3),,66-53,66,53
 0021800753,2019-01-29,HOU,NOP,22.0,2,2,0,HOU,HOU,fg3_miss,1,False,False,MISS Tucker 3PT Jump Shot,,66-53,66,53
@@ -388,8 +388,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800753,2019-01-29,HOU,NOP,40.52,4,7,29,HOU,HOU,fg_miss,101,False,False,MISS Harden 6' Driving Floating Jump Shot,,98-103,98,103
 0021800753,2019-01-29,HOU,NOP,40.55,4,7,27,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:2 Def:6),,98-103,98,103
 0021800753,2019-01-29,HOU,NOP,40.55,4,7,27,HOU,HOU,fg_miss,5,True,False,MISS Harden 8' Layup,,98-103,98,103
-0021800753,2019-01-29,HOU,NOP,40.55,4,7,27,NOP,NOP,reb,0,False,False,,Pelicans Rebound,98-103,98,103
 0021800753,2019-01-29,HOU,NOP,40.55,4,7,27,HOU,NOP,block,5,True,False,block,block,98-103,98,103
+0021800753,2019-01-29,HOU,NOP,40.55,4,7,27,NOP,NOP,reb,0,False,False,,Pelicans Rebound,98-103,98,103
 0021800753,2019-01-29,HOU,NOP,40.62,4,7,23,,HOU,jump_ball,0,False,False,Jump Ball Harden vs. Williams: Tip to Frazier,,98-103,98,103
 0021800753,2019-01-29,HOU,NOP,40.7,4,7,18,NOP,NOP,fg_make,6,False,False,,Frazier 1' Driving Layup (6 PTS),98-105,98,105
 0021800753,2019-01-29,HOU,NOP,40.7,4,7,18,NOP,HOU,foul,2,False,False,Tucker S.FOUL (P3.T3) (D.Guthrie),,98-105,98,105

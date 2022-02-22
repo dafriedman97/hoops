@@ -44,9 +44,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800677,2019-01-18,POR,NOP,4.52,1,7,29,NOP,POR,foul,4,False,False,Nurkic OFF.Foul (P1) (K.Cutler),,12-14,12,14
 0021800677,2019-01-18,POR,NOP,4.52,1,7,29,POR,POR,tov,37,False,False,Nurkic Offensive Foul Turnover (P1.T2),,12-14,12,14
 0021800677,2019-01-18,POR,NOP,4.83,1,7,10,NOP,NOP,tov,1,False,True,,Randle Bad Pass Turnover (P2.T2),12-14,12,14
+0021800677,2019-01-18,POR,NOP,4.83,1,7,10,NOP,POR,steal,1,False,True,steal,steal,12-14,12,14
 0021800677,2019-01-18,POR,NOP,4.83,1,7,10,POR,POR,fg_miss,6,False,False,MISS Aminu Driving Layup,,12-14,12,14
 0021800677,2019-01-18,POR,NOP,4.83,1,7,10,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,12-14,12,14
-0021800677,2019-01-18,POR,NOP,4.83,1,7,10,NOP,POR,steal,1,False,True,steal,steal,12-14,12,14
 0021800677,2019-01-18,POR,NOP,4.95,1,7,3,POR,NOP,foul,3,False,False,,Holiday L.B.FOUL (P1.T3) (K.Fitzgerald),12-14,12,14
 0021800677,2019-01-18,POR,NOP,5.07,1,6,56,POR,POR,fg_make,108,False,False,Harkless 1' Cutting Dunk Shot (6 PTS) (Nurkic 1 AST),,14-14,14,14
 0021800677,2019-01-18,POR,NOP,5.47,1,6,32,NOP,NOP,fg_make,101,False,False,,Holiday 4' Driving Floating Jump Shot (4 PTS) (Randle 2 AST),14-16,14,16
@@ -343,8 +343,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800677,2019-01-18,POR,NOP,35.47,3,0,32,POR,NOP,block,6,True,False,block,block,102-84,102,84
 0021800677,2019-01-18,POR,NOP,35.53,3,0,28,POR,POR,reb,0,False,False,Lillard REBOUND (Off:3 Def:1),,102-84,102,84
 0021800677,2019-01-18,POR,NOP,35.55,3,0,27,POR,POR,fg_miss,5,True,False,MISS Lillard 2' Layup,,102-84,102,84
-0021800677,2019-01-18,POR,NOP,35.55,3,0,27,NOP,NOP,reb,0,False,False,,Mirotic REBOUND (Off:0 Def:3),102-84,102,84
 0021800677,2019-01-18,POR,NOP,35.55,3,0,27,POR,NOP,block,5,True,False,block,block,102-84,102,84
+0021800677,2019-01-18,POR,NOP,35.55,3,0,27,NOP,NOP,reb,0,False,False,,Mirotic REBOUND (Off:0 Def:3),102-84,102,84
 0021800677,2019-01-18,POR,NOP,35.55,3,0,27,NOP,NOP,fg_make,6,False,False,,Frazier 1' Driving Layup (3 PTS) (Mirotic 2 AST),102-86,102,86
 0021800677,2019-01-18,POR,NOP,35.88,3,0,7,POR,POR,fg3_miss,1,False,False,MISS Lillard 25' 3PT Jump Shot,,102-86,102,86
 0021800677,2019-01-18,POR,NOP,35.93,3,0,4,POR,POR,reb,0,False,False,Harkless REBOUND (Off:2 Def:0),,102-86,102,86

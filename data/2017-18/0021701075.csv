@@ -44,8 +44,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701075,2018-03-22,NOP,LAL,4.43,1,7,34,NOP,NOP,fg3_miss,79,False,False,MISS Rondo 27' 3PT Pullup Jump Shot,,15-13,15,13
 0021701075,2018-03-22,NOP,LAL,4.5,1,7,30,LAL,LAL,reb,0,False,False,,Lopez REBOUND (Off:0 Def:1),15-13,15,13
 0021701075,2018-03-22,NOP,LAL,4.62,1,7,23,LAL,LAL,fg_miss,6,True,False,,MISS Kuzma 8' Driving Layup,15-13,15,13
-0021701075,2018-03-22,NOP,LAL,4.62,1,7,23,LAL,LAL,reb,0,False,False,,Lakers Rebound,15-13,15,13
 0021701075,2018-03-22,NOP,LAL,4.62,1,7,23,LAL,NOP,block,6,True,False,block,block,15-13,15,13
+0021701075,2018-03-22,NOP,LAL,4.62,1,7,23,LAL,LAL,reb,0,False,False,,Lakers Rebound,15-13,15,13
 0021701075,2018-03-22,NOP,LAL,4.72,1,7,17,LAL,LAL,fg_make,102,False,False,,Lopez 8' Driving Floating Bank Jump Shot (2 PTS),15-15,15,15
 0021701075,2018-03-22,NOP,LAL,4.95,1,7,3,NOP,NOP,fg_make,78,False,False,Holiday 6' Floating Jump Shot (6 PTS) (Rondo 3 AST),,17-15,17,15
 0021701075,2018-03-22,NOP,LAL,5.13,1,6,52,LAL,LAL,fg_make,57,False,False,,Randle 6' Driving Hook Shot (2 PTS),17-17,17,17
@@ -223,9 +223,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701075,2018-03-22,NOP,LAL,23.55,2,0,27,NOP,NOP,reb,0,False,False,Mirotic REBOUND (Off:2 Def:3),,71-73,71,73
 0021701075,2018-03-22,NOP,LAL,23.78,2,0,13,NOP,NOP,tov,1,False,False,Rondo Bad Pass Turnover (P2.T5),,71-73,71,73
 0021701075,2018-03-22,NOP,LAL,24.0,2,0,0,LAL,LAL,tov,1,False,True,,Wear Bad Pass Turnover (P1.T10),71-73,71,73
+0021701075,2018-03-22,NOP,LAL,24.0,2,0,0,LAL,NOP,steal,1,False,True,steal,steal,71-73,71,73
 0021701075,2018-03-22,NOP,LAL,24.0,2,0,0,LAL,,period_end,0,False,False,,,71-73,71,73
 0021701075,2018-03-22,NOP,LAL,24.0,3,12,0,LAL,,period_start,0,False,False,,,71-73,71,73
-0021701075,2018-03-22,NOP,LAL,24.0,2,0,0,LAL,NOP,steal,1,False,True,steal,steal,71-73,71,73
 0021701075,2018-03-22,NOP,LAL,24.32,3,11,41,NOP,LAL,foul,2,False,False,,Lopez S.FOUL (P2.T1) (B.Barnaky),71-73,71,73
 0021701075,2018-03-22,NOP,LAL,24.32,3,11,41,NOP,NOP,ft_make,11,False,False,Davis Free Throw 1 of 2 (14 PTS),,72-73,72,73
 0021701075,2018-03-22,NOP,LAL,24.32,3,11,41,NOP,NOP,ft_make,12,False,False,Davis Free Throw 2 of 2 (15 PTS),,73-73,73,73
@@ -289,9 +289,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701075,2018-03-22,NOP,LAL,29.93,3,6,4,NOP,NOP,fg_miss,1,False,False,MISS Davis 19' Jump Shot,,88-90,88,90
 0021701075,2018-03-22,NOP,LAL,29.93,3,6,4,LAL,LAL,reb,0,False,False,,Lakers Rebound,88-90,88,90
 0021701075,2018-03-22,NOP,LAL,29.93,3,6,4,LAL,NOP,foul,1,False,False,Okafor P.FOUL (P3.PN) (B.Barnaky),,88-90,88,90
+0021701075,2018-03-22,NOP,LAL,29.93,3,6,4,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 2 Short 0),,88-92,88,92
 0021701075,2018-03-22,NOP,LAL,29.93,3,6,4,LAL,LAL,ft_make,11,False,False,,Caldwell-Pope Free Throw 1 of 2 (21 PTS),88-91,88,91
 0021701075,2018-03-22,NOP,LAL,29.93,3,6,4,LAL,LAL,ft_make,12,False,False,,Caldwell-Pope Free Throw 2 of 2 (22 PTS),88-92,88,92
-0021701075,2018-03-22,NOP,LAL,29.93,3,6,4,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 2 Short 0),,88-92,88,92
 0021701075,2018-03-22,NOP,LAL,30.15,3,5,51,NOP,NOP,fg_miss,79,False,False,MISS Clark 17' Pullup Jump Shot,,88-92,88,92
 0021701075,2018-03-22,NOP,LAL,30.22,3,5,47,LAL,LAL,reb,0,False,False,,Randle REBOUND (Off:2 Def:3),88-92,88,92
 0021701075,2018-03-22,NOP,LAL,30.38,3,5,37,LAL,LAL,fg_miss,58,False,False,,MISS Randle 8' Turnaround Hook Shot,88-92,88,92
@@ -428,8 +428,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701075,2018-03-22,NOP,LAL,47.1,4,0,54,NOP,NOP,reb,0,False,False,Moore REBOUND (Off:0 Def:2),,126-125,126,125
 0021701075,2018-03-22,NOP,LAL,47.45,4,0,33,,NOP,jump_ball,0,False,False,Jump Ball Moore vs. Caldwell-Pope: Tip to Diallo,,126-125,126,125
 0021701075,2018-03-22,NOP,LAL,47.48,4,0,31,NOP,NOP,fg_miss,1,False,False,MISS Rondo 21' Jump Shot,,126-125,126,125
-0021701075,2018-03-22,NOP,LAL,47.5,4,0,30,NOP,NOP,reb,0,False,False,PELICANS Rebound,,126-125,126,125
 0021701075,2018-03-22,NOP,LAL,47.5,4,0,30,NOP,NOP,tov,11,False,False,PELICANS Turnover: Shot Clock (T#10),,126-125,126,125
+0021701075,2018-03-22,NOP,LAL,47.5,4,0,30,NOP,NOP,reb,0,False,False,PELICANS Rebound,,126-125,126,125
 0021701075,2018-03-22,NOP,LAL,47.72,4,0,17,LAL,LAL,fg3_miss,1,False,False,,MISS Ball 28' 3PT Jump Shot,126-125,126,125
 0021701075,2018-03-22,NOP,LAL,47.78,4,0,13,NOP,NOP,reb,0,False,False,Moore REBOUND (Off:0 Def:3),,126-125,126,125
 0021701075,2018-03-22,NOP,LAL,47.85,4,0,9,NOP,LAL,foul,1,False,False,,Randle P.FOUL (P4.T4) (P.Fraher),126-125,126,125
@@ -438,5 +438,5 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701075,2018-03-22,NOP,LAL,47.93,4,0,4,NOP,NOP,ft_make,12,False,False,Davis Free Throw 2 of 2 (33 PTS),,128-125,128,125
 0021701075,2018-03-22,NOP,LAL,47.93,4,0,4,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.7 Short 0),128-125,128,125
 0021701075,2018-03-22,NOP,LAL,48.0,4,0,0,LAL,LAL,tov,1,False,True,,Caldwell-Pope Bad Pass Turnover (P1.T16),128-125,128,125
-0021701075,2018-03-22,NOP,LAL,48.0,4,0,0,LAL,,period_end,0,False,False,,,128-125,128,125
 0021701075,2018-03-22,NOP,LAL,48.0,4,0,0,LAL,NOP,steal,1,False,True,steal,steal,128-125,128,125
+0021701075,2018-03-22,NOP,LAL,48.0,4,0,0,LAL,,period_end,0,False,False,,,128-125,128,125

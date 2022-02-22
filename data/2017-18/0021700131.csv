@@ -5,8 +5,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700131,2017-11-04,LAC,MEM,0.58,1,11,25,LAC,LAC,tov,1,False,True,Griffin Bad Pass Turnover (P1.T1),,0-2,0,2
 0021700131,2017-11-04,LAC,MEM,0.58,1,11,25,LAC,MEM,steal,1,False,True,steal,steal,0-2,0,2
 0021700131,2017-11-04,LAC,MEM,0.63,1,11,22,MEM,MEM,fg_miss,5,True,False,,MISS Martin 1' Layup,0-2,0,2
-0021700131,2017-11-04,LAC,MEM,0.63,1,11,22,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,0-2,0,2
 0021700131,2017-11-04,LAC,MEM,0.63,1,11,22,MEM,LAC,block,5,True,False,block,block,0-2,0,2
+0021700131,2017-11-04,LAC,MEM,0.63,1,11,22,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,0-2,0,2
 0021700131,2017-11-04,LAC,MEM,0.68,1,11,19,MEM,MEM,fg_miss,98,False,False,,MISS Conley 1' Cutting Layup Shot,0-2,0,2
 0021700131,2017-11-04,LAC,MEM,0.73,1,11,16,LAC,LAC,reb,0,False,False,Beverley REBOUND (Off:0 Def:1),,0-2,0,2
 0021700131,2017-11-04,LAC,MEM,0.93,1,11,4,LAC,LAC,fg_make,9,False,False,Gallinari 1' Driving Dunk (2 PTS),,2-2,2,2
@@ -90,12 +90,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700131,2017-11-04,LAC,MEM,10.53,1,1,28,LAC,LAC,reb,1,False,False,CLIPPERS Rebound,,23-23,23,23
 0021700131,2017-11-04,LAC,MEM,10.53,1,1,28,LAC,LAC,ft_miss,12,False,False,MISS Thornwell Free Throw 2 of 2,,23-23,23,23
 0021700131,2017-11-04,LAC,MEM,10.53,1,1,28,MEM,MEM,reb,0,False,False,,Chalmers REBOUND (Off:0 Def:1),23-23,23,23
+0021700131,2017-11-04,LAC,MEM,10.78,1,1,13,MEM,LAC,foul,1,False,False,W. Johnson P.FOUL (P1.T3) (B.Forte),,23-23,23,23
+0021700131,2017-11-04,LAC,MEM,10.78,1,1,13,LAC,MEM,ft_make,11,False,False,,Wright Free Throw 1 of 2 (2 PTS),23-25,23,25
+0021700131,2017-11-04,LAC,MEM,10.78,1,1,13,LAC,MEM,ft_make,12,False,False,,Wright Free Throw 2 of 2 (1 PTS),23-24,23,24
 0021700131,2017-11-04,LAC,MEM,10.78,1,1,13,MEM,MEM,fg_miss,6,False,False,,MISS Chalmers 2' Driving Layup,23-23,23,23
 0021700131,2017-11-04,LAC,MEM,10.78,1,1,13,MEM,MEM,reb,0,False,False,,Wright REBOUND (Off:1 Def:0),23-23,23,23
-0021700131,2017-11-04,LAC,MEM,10.78,1,1,13,MEM,LAC,foul,1,False,False,W. Johnson P.FOUL (P1.T3) (B.Forte),,23-23,23,23
 0021700131,2017-11-04,LAC,MEM,10.78,1,1,13,LAC,LAC,tov,0,False,False,W. Johnson No Turnover (P1.T4),,23-23,23,23
-0021700131,2017-11-04,LAC,MEM,10.78,1,1,13,LAC,MEM,ft_make,12,False,False,,Wright Free Throw 2 of 2 (1 PTS),23-24,23,24
-0021700131,2017-11-04,LAC,MEM,10.78,1,1,13,LAC,MEM,ft_make,11,False,False,,Wright Free Throw 1 of 2 (2 PTS),23-25,23,25
 0021700131,2017-11-04,LAC,MEM,11.17,1,0,50,LAC,LAC,fg_miss,3,True,False,MISS Reed 7' Hook Shot,,23-25,23,25
 0021700131,2017-11-04,LAC,MEM,11.17,1,0,50,LAC,MEM,block,3,True,False,block,block,23-25,23,25
 0021700131,2017-11-04,LAC,MEM,11.22,1,0,47,MEM,MEM,reb,0,False,False,,Wright REBOUND (Off:1 Def:1),23-25,23,25
@@ -106,15 +106,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700131,2017-11-04,LAC,MEM,11.52,1,0,29,MEM,MEM,fg3_miss,1,False,False,,MISS Evans 26' 3PT Jump Shot,25-27,25,27
 0021700131,2017-11-04,LAC,MEM,11.58,1,0,25,LAC,LAC,reb,0,False,False,Williams REBOUND (Off:0 Def:1),,25-27,25,27
 0021700131,2017-11-04,LAC,MEM,11.93,1,0,4,LAC,LAC,fg_miss,5,True,False,MISS Williams 2' Layup,,25-27,25,27
-0021700131,2017-11-04,LAC,MEM,11.93,1,0,4,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,25-27,25,27
 0021700131,2017-11-04,LAC,MEM,11.93,1,0,4,LAC,MEM,block,5,True,False,block,block,25-27,25,27
+0021700131,2017-11-04,LAC,MEM,11.93,1,0,4,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,25-27,25,27
 0021700131,2017-11-04,LAC,MEM,11.97,1,0,2,LAC,LAC,tov,1,False,True,Williams Bad Pass Turnover (P1.T5),,25-27,25,27
 0021700131,2017-11-04,LAC,MEM,11.97,1,0,2,LAC,MEM,steal,1,False,True,steal,steal,25-27,25,27
 0021700131,2017-11-04,LAC,MEM,12.0,1,0,0,MEM,MEM,fg_miss,6,True,False,,MISS Evans 2' Driving Layup,25-27,25,27
+0021700131,2017-11-04,LAC,MEM,12.0,1,0,0,MEM,LAC,block,6,True,False,block,block,25-27,25,27
 0021700131,2017-11-04,LAC,MEM,12.0,1,0,0,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,25-27,25,27
 0021700131,2017-11-04,LAC,MEM,12.0,1,0,0,MEM,,period_end,0,False,False,,,25-27,25,27
 0021700131,2017-11-04,LAC,MEM,12.0,2,12,0,MEM,,period_start,0,False,False,,,25-27,25,27
-0021700131,2017-11-04,LAC,MEM,12.0,1,0,0,MEM,LAC,block,6,True,False,block,block,25-27,25,27
 0021700131,2017-11-04,LAC,MEM,12.22,2,11,47,LAC,LAC,fg_make,47,False,False,Gallinari 18' Turnaround Jump Shot (4 PTS) (W. Johnson 1 AST),,27-27,27,27
 0021700131,2017-11-04,LAC,MEM,12.57,2,11,26,MEM,MEM,fg_make,52,False,False,,Wright 2' Alley Oop Dunk (4 PTS) (Parsons 2 AST),27-29,27,29
 0021700131,2017-11-04,LAC,MEM,12.82,2,11,11,LAC,LAC,fg_miss,78,False,False,MISS Williams 9' Floating Jump Shot,,27-29,27,29
@@ -138,8 +138,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700131,2017-11-04,LAC,MEM,15.05,2,8,57,LAC,LAC,reb,0,False,False,Reed REBOUND (Off:1 Def:2),,31-34,31,34
 0021700131,2017-11-04,LAC,MEM,15.07,2,8,56,LAC,LAC,fg_make,72,False,False,Reed 1' Putback Layup (4 PTS),,33-34,33,34
 0021700131,2017-11-04,LAC,MEM,15.2,2,8,48,MEM,MEM,fg_miss,5,True,False,,MISS Evans 5' Layup,33-34,33,34
-0021700131,2017-11-04,LAC,MEM,15.2,2,8,48,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,33-34,33,34
 0021700131,2017-11-04,LAC,MEM,15.2,2,8,48,MEM,LAC,block,5,True,False,block,block,33-34,33,34
+0021700131,2017-11-04,LAC,MEM,15.2,2,8,48,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,33-34,33,34
 0021700131,2017-11-04,LAC,MEM,15.25,2,8,45,MEM,MEM,fg_make,98,False,False,,Ennis III 1' Cutting Layup Shot (7 PTS) (Evans 3 AST),33-36,33,36
 0021700131,2017-11-04,LAC,MEM,15.43,2,8,34,LAC,LAC,fg3_miss,1,False,False,MISS W. Johnson 3PT Jump Shot,,33-36,33,36
 0021700131,2017-11-04,LAC,MEM,15.48,2,8,31,MEM,MEM,reb,0,False,False,,Ennis III REBOUND (Off:2 Def:1),33-36,33,36
@@ -172,9 +172,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700131,2017-11-04,LAC,MEM,17.85,2,6,9,MEM,MEM,reb,0,False,False,,Wright REBOUND (Off:2 Def:3),39-45,39,45
 0021700131,2017-11-04,LAC,MEM,17.88,2,6,7,MEM,MEM,fg3_make,1,False,False,,Ennis III 3PT Jump Shot (10 PTS) (Wright 1 AST),39-48,39,48
 0021700131,2017-11-04,LAC,MEM,18.33,2,5,40,LAC,LAC,fg_miss,5,True,False,MISS Griffin 2' Layup,,39-48,39,48
+0021700131,2017-11-04,LAC,MEM,18.33,2,5,40,LAC,MEM,block,5,True,False,block,block,39-48,39,48
 0021700131,2017-11-04,LAC,MEM,18.33,2,5,40,MEM,MEM,reb,0,False,False,,Evans REBOUND (Off:0 Def:1),39-48,39,48
 0021700131,2017-11-04,LAC,MEM,18.33,2,5,40,MEM,LAC,foul,1,False,False,Jordan P.FOUL (P1.T3) (D.Taylor),,39-48,39,48
-0021700131,2017-11-04,LAC,MEM,18.33,2,5,40,LAC,MEM,block,5,True,False,block,block,39-48,39,48
 0021700131,2017-11-04,LAC,MEM,18.63,2,5,22,MEM,MEM,fg3_miss,1,False,False,,MISS Chalmers 25' 3PT Jump Shot,39-48,39,48
 0021700131,2017-11-04,LAC,MEM,18.63,2,5,22,LAC,LAC,reb,0,False,False,Griffin REBOUND (Off:2 Def:3),,39-48,39,48
 0021700131,2017-11-04,LAC,MEM,19.07,2,4,56,LAC,LAC,tov,2,False,True,Griffin Lost Ball Turnover (P2.T7),,39-48,39,48
@@ -263,8 +263,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700131,2017-11-04,LAC,MEM,29.17,3,6,50,MEM,LAC,foul,3,False,False,Rivers L.B.FOUL (P2.T2) (B.Forte),,64-68,64,68
 0021700131,2017-11-04,LAC,MEM,29.17,3,6,50,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 3 Short 0),,64-68,64,68
 0021700131,2017-11-04,LAC,MEM,29.32,3,6,41,MEM,MEM,fg_miss,44,True,False,,MISS Brooks 2' Reverse Layup,64-68,64,68
-0021700131,2017-11-04,LAC,MEM,29.32,3,6,41,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,64-68,64,68
 0021700131,2017-11-04,LAC,MEM,29.32,3,6,41,MEM,LAC,block,44,True,False,block,block,64-68,64,68
+0021700131,2017-11-04,LAC,MEM,29.32,3,6,41,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,64-68,64,68
 0021700131,2017-11-04,LAC,MEM,29.5,3,6,30,MEM,MEM,fg_miss,3,True,False,,MISS Gasol 7' Hook Shot,64-68,64,68
 0021700131,2017-11-04,LAC,MEM,29.5,3,6,30,MEM,LAC,block,3,True,False,block,block,64-68,64,68
 0021700131,2017-11-04,LAC,MEM,29.55,3,6,27,LAC,LAC,reb,0,False,False,Gallinari REBOUND (Off:0 Def:3),,64-68,64,68
@@ -302,8 +302,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700131,2017-11-04,LAC,MEM,32.35,3,3,39,MEM,MEM,ft_make,11,False,False,,Evans Free Throw 1 of 2 (15 PTS),73-79,73,79
 0021700131,2017-11-04,LAC,MEM,32.35,3,3,39,MEM,MEM,ft_make,12,False,False,,Evans Free Throw 2 of 2 (16 PTS),73-80,73,80
 0021700131,2017-11-04,LAC,MEM,32.5,3,3,30,LAC,LAC,fg_miss,5,True,False,MISS Rivers 2' Layup,,73-80,73,80
-0021700131,2017-11-04,LAC,MEM,32.5,3,3,30,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,73-80,73,80
 0021700131,2017-11-04,LAC,MEM,32.5,3,3,30,LAC,MEM,block,5,True,False,block,block,73-80,73,80
+0021700131,2017-11-04,LAC,MEM,32.5,3,3,30,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,73-80,73,80
 0021700131,2017-11-04,LAC,MEM,32.52,3,3,29,LAC,LAC,tov,45,False,False,Williams Out of Bounds - Bad Pass Turnover Turnover (P2.T9),,73-80,73,80
 0021700131,2017-11-04,LAC,MEM,32.7,3,3,18,MEM,MEM,fg3_miss,1,False,False,,MISS Evans 25' 3PT Jump Shot,73-80,73,80
 0021700131,2017-11-04,LAC,MEM,32.75,3,3,15,LAC,LAC,reb,0,False,False,Rivers REBOUND (Off:1 Def:1),,73-80,73,80

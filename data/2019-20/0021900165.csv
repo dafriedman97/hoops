@@ -112,8 +112,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900165,2019-11-14,PHX,ATL,11.27,1,0,44,ATL,ATL,tov,1,False,True,,Parker Bad Pass Turnover (P1.T9),28-29,28,29
 0021900165,2019-11-14,PHX,ATL,11.27,1,0,44,ATL,PHX,steal,1,False,True,steal,steal,28-29,28,29
 0021900165,2019-11-14,PHX,ATL,11.33,1,0,40,PHX,PHX,fg_miss,41,True,False,MISS Booker 2' Running Layup,,28-29,28,29
-0021900165,2019-11-14,PHX,ATL,11.33,1,0,40,PHX,PHX,reb,0,False,False,SUNS Rebound,,28-29,28,29
 0021900165,2019-11-14,PHX,ATL,11.33,1,0,40,PHX,ATL,block,41,True,False,block,block,28-29,28,29
+0021900165,2019-11-14,PHX,ATL,11.33,1,0,40,PHX,PHX,reb,0,False,False,SUNS Rebound,,28-29,28,29
 0021900165,2019-11-14,PHX,ATL,11.37,1,0,38,PHX,PHX,fg3_make,1,False,False,Booker 3PT Jump Shot (8 PTS) (Johnson 3 AST),,31-29,31,29
 0021900165,2019-11-14,PHX,ATL,11.6,1,0,24,ATL,PHX,foul,2,False,False,Bridges S.FOUL (P2.PN) (T.Ford),,31-29,31,29
 0021900165,2019-11-14,PHX,ATL,11.6,1,0,24,ATL,ATL,ft_make,11,False,False,,Parker Free Throw 1 of 2 (7 PTS),31-30,31,30
@@ -325,14 +325,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900165,2019-11-14,PHX,ATL,32.38,3,3,37,ATL,ATL,reb,0,False,False,,Wallace REBOUND (Off:0 Def:1),93-78,93,78
 0021900165,2019-11-14,PHX,ATL,32.5,3,3,30,ATL,ATL,fg3_make,1,False,False,,Len 3PT Jump Shot (19 PTS) (Bembry 4 AST),93-81,93,81
 0021900165,2019-11-14,PHX,ATL,32.82,3,3,11,PHX,PHX,fg_miss,6,True,False,MISS Rubio 5' Driving Layup,,93-81,93,81
-0021900165,2019-11-14,PHX,ATL,32.82,3,3,11,PHX,PHX,reb,0,False,False,SUNS Rebound,,93-81,93,81
-0021900165,2019-11-14,PHX,ATL,32.82,3,3,11,PHX,ATL,foul,11,False,False,,Bembry T.FOUL (P3.PN) (K.Fitzgerald),93-81,93,81
-0021900165,2019-11-14,PHX,ATL,32.82,3,3,11,PHX,ATL,foul,11,False,False,,Bembry T.FOUL (P3.PN) (K.Fitzgerald),93-81,93,81
-0021900165,2019-11-14,PHX,ATL,32.82,3,3,11,PHX,ATL,ejection,4,False,False,,Bembry Ejection:Other,93-81,93,81
 0021900165,2019-11-14,PHX,ATL,32.82,3,3,11,PHX,ATL,block,6,True,False,block,block,93-81,93,81
+0021900165,2019-11-14,PHX,ATL,32.82,3,3,11,PHX,PHX,reb,0,False,False,SUNS Rebound,,93-81,93,81
 0021900165,2019-11-14,PHX,ATL,32.82,3,3,11,PHX,PHX,ft_make,16,False,False,Booker Free Throw Technical (24 PTS),,94-81,94,81
-0021900165,2019-11-14,PHX,ATL,32.82,3,3,11,PHX,PHX,ft_make,16,False,False,Booker Free Throw Technical (25 PTS),,95-81,95,81
 0021900165,2019-11-14,PHX,ATL,32.82,3,3,11,PHX,PHX,timeout,1,False,False,SUNS Timeout: Regular (Full 2 Short 0),,95-81,95,81
+0021900165,2019-11-14,PHX,ATL,32.82,3,3,11,PHX,ATL,foul,11,False,False,,Bembry T.FOUL (P3.PN) (K.Fitzgerald),93-81,93,81
+0021900165,2019-11-14,PHX,ATL,32.82,3,3,11,PHX,PHX,ft_make,16,False,False,Booker Free Throw Technical (25 PTS),,95-81,95,81
+0021900165,2019-11-14,PHX,ATL,32.82,3,3,11,PHX,ATL,ejection,4,False,False,,Bembry Ejection:Other,93-81,93,81
+0021900165,2019-11-14,PHX,ATL,32.82,3,3,11,PHX,ATL,foul,11,False,False,,Bembry T.FOUL (P3.PN) (K.Fitzgerald),93-81,93,81
 0021900165,2019-11-14,PHX,ATL,32.85,3,3,9,PHX,ATL,foul,1,False,False,,Wallace P.FOUL (P1.PN) (T.Ford),95-81,95,81
 0021900165,2019-11-14,PHX,ATL,32.85,3,3,9,PHX,PHX,ft_make,11,False,False,Booker Free Throw 1 of 2 (26 PTS),,96-81,96,81
 0021900165,2019-11-14,PHX,ATL,32.85,3,3,9,PHX,PHX,ft_make,12,False,False,Booker Free Throw 2 of 2 (27 PTS),,97-81,97,81
@@ -343,10 +343,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900165,2019-11-14,PHX,ATL,33.27,3,2,44,PHX,ATL,steal,2,False,True,steal,steal,97-83,97,83
 0021900165,2019-11-14,PHX,ATL,33.42,3,2,35,ATL,ATL,fg_make,5,False,False,,Fernando 1' Layup (4 PTS) (Young 10 AST),97-85,97,85
 0021900165,2019-11-14,PHX,ATL,33.62,3,2,23,PHX,PHX,tov,2,False,True,Booker Lost Ball Turnover (P7.T15),,97-85,97,85
+0021900165,2019-11-14,PHX,ATL,33.62,3,2,23,PHX,ATL,steal,2,False,True,steal,steal,97-85,97,85
 0021900165,2019-11-14,PHX,ATL,33.62,3,2,23,ATL,PHX,foul,1,False,False,Booker P.FOUL (P3.PN) (T.Ford),,97-85,97,85
 0021900165,2019-11-14,PHX,ATL,33.62,3,2,23,ATL,ATL,ft_miss,11,False,False,,MISS Parker Free Throw 1 of 2,97-85,97,85
 0021900165,2019-11-14,PHX,ATL,33.62,3,2,23,ATL,ATL,reb,1,False,False,,Hawks Rebound,97-85,97,85
-0021900165,2019-11-14,PHX,ATL,33.62,3,2,23,PHX,ATL,steal,2,False,True,steal,steal,97-85,97,85
 0021900165,2019-11-14,PHX,ATL,33.62,3,2,23,ATL,ATL,ft_make,12,False,False,,Parker Free Throw 2 of 2 (20 PTS),97-86,97,86
 0021900165,2019-11-14,PHX,ATL,33.83,3,2,10,PHX,PHX,fg_make,9,False,False,Oubre Jr. 1' Driving Dunk (20 PTS) (Bridges 2 AST),,99-86,99,86
 0021900165,2019-11-14,PHX,ATL,34.08,3,1,55,ATL,ATL,fg_make,101,False,False,,Parker 6' Driving Floating Jump Shot (22 PTS) (Young 11 AST),99-88,99,88
@@ -427,8 +427,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900165,2019-11-14,PHX,ATL,40.22,4,7,47,ATL,ATL,tov,2,False,True,,Young Lost Ball Turnover (P5.T20),113-94,113,94
 0021900165,2019-11-14,PHX,ATL,40.22,4,7,47,ATL,PHX,steal,2,False,True,steal,steal,113-94,113,94
 0021900165,2019-11-14,PHX,ATL,40.28,4,7,43,PHX,PHX,tov,2,False,True,Oubre Jr. Lost Ball Turnover (P2.T18),,113-94,113,94
-0021900165,2019-11-14,PHX,ATL,40.28,4,7,43,ATL,PHX,foul,1,False,False,Bridges P.FOUL (P5.PN) (T.Ford),,113-94,113,94
 0021900165,2019-11-14,PHX,ATL,40.28,4,7,43,PHX,ATL,steal,2,False,True,steal,steal,113-94,113,94
+0021900165,2019-11-14,PHX,ATL,40.28,4,7,43,ATL,PHX,foul,1,False,False,Bridges P.FOUL (P5.PN) (T.Ford),,113-94,113,94
 0021900165,2019-11-14,PHX,ATL,40.28,4,7,43,ATL,ATL,ft_make,11,False,False,,Hunter Free Throw 1 of 2 (6 PTS),113-95,113,95
 0021900165,2019-11-14,PHX,ATL,40.28,4,7,43,ATL,ATL,ft_make,12,False,False,,Hunter Free Throw 2 of 2 (7 PTS),113-96,113,96
 0021900165,2019-11-14,PHX,ATL,40.5,4,7,30,PHX,PHX,fg3_miss,80,False,False,MISS Johnson 25' 3PT Step Back Jump Shot,,113-96,113,96
@@ -456,10 +456,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900165,2019-11-14,PHX,ATL,43.5,4,4,30,PHX,PHX,fg_make,75,False,False,Saric 1' Driving Finger Roll Layup (23 PTS) (Booker 6 AST),,117-105,117,105
 0021900165,2019-11-14,PHX,ATL,43.75,4,4,15,PHX,ATL,foul,14,False,False,,Reddish FLAGRANT.FOUL.TYPE1 (P5.T3) (N.Sago),117-105,117,105
 0021900165,2019-11-14,PHX,ATL,43.75,4,4,15,ATL,ATL,tov,0,False,False,,Reddish No Turnover (P3.T21),117-105,117,105
-0021900165,2019-11-14,PHX,ATL,43.75,4,4,15,ATL,ATL,ejection,4,False,False,,Reddish Ejection:Other,117-105,117,105
 0021900165,2019-11-14,PHX,ATL,43.75,4,4,15,PHX,PHX,ft_miss,18,False,False,MISS Baynes Free Throw Flagrant 1 of 2,,117-105,117,105
 0021900165,2019-11-14,PHX,ATL,43.75,4,4,15,PHX,PHX,reb,1,False,False,SUNS Rebound,,117-105,117,105
 0021900165,2019-11-14,PHX,ATL,43.75,4,4,15,PHX,PHX,ft_make,19,False,False,Baynes Free Throw Flagrant 2 of 2 (3 PTS),,118-105,118,105
+0021900165,2019-11-14,PHX,ATL,43.75,4,4,15,ATL,ATL,ejection,4,False,False,,Reddish Ejection:Other,117-105,117,105
 0021900165,2019-11-14,PHX,ATL,43.9,4,4,6,PHX,PHX,fg_make,98,False,False,Oubre Jr. 1' Cutting Layup Shot (27 PTS) (Booker 7 AST),,120-105,120,105
 0021900165,2019-11-14,PHX,ATL,43.9,4,4,6,PHX,ATL,foul,2,False,False,,Crabbe S.FOUL (P1.T4) (N.Sago),120-105,120,105
 0021900165,2019-11-14,PHX,ATL,43.9,4,4,6,PHX,PHX,ft_make,10,False,False,Oubre Jr. Free Throw 1 of 1 (28 PTS),,121-105,121,105

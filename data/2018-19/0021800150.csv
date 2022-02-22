@@ -27,8 +27,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800150,2018-11-06,DAL,WAS,2.07,1,9,56,WAS,WAS,reb,0,False,False,,Wall REBOUND (Off:0 Def:1),7-2,7,2
 0021800150,2018-11-06,DAL,WAS,2.15,1,9,51,WAS,WAS,fg3_make,1,False,False,,Porter Jr. 3PT Jump Shot (5 PTS) (Beal 1 AST),7-5,7,5
 0021800150,2018-11-06,DAL,WAS,2.42,1,9,35,DAL,DAL,fg_miss,79,True,False,MISS Smith Jr. 7' Pullup Jump Shot,,7-5,7,5
-0021800150,2018-11-06,DAL,WAS,2.42,1,9,35,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,7-5,7,5
 0021800150,2018-11-06,DAL,WAS,2.42,1,9,35,DAL,WAS,block,79,True,False,block,block,7-5,7,5
+0021800150,2018-11-06,DAL,WAS,2.42,1,9,35,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,7-5,7,5
 0021800150,2018-11-06,DAL,WAS,2.53,1,9,28,DAL,DAL,fg3_miss,80,False,False,MISS Smith Jr. 25' 3PT Step Back Jump Shot,,7-5,7,5
 0021800150,2018-11-06,DAL,WAS,2.57,1,9,26,WAS,WAS,reb,0,False,False,,Howard REBOUND (Off:0 Def:1),7-5,7,5
 0021800150,2018-11-06,DAL,WAS,2.7,1,9,18,WAS,WAS,fg3_miss,1,False,False,,MISS Beal 3PT Jump Shot,7-5,7,5
@@ -167,8 +167,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800150,2018-11-06,DAL,WAS,18.72,2,5,17,WAS,WAS,fg_miss,79,False,False,,MISS Beal 14' Pullup Jump Shot,58-34,58,34
 0021800150,2018-11-06,DAL,WAS,18.78,2,5,13,DAL,DAL,reb,0,False,False,Jordan REBOUND (Off:0 Def:4),,58-34,58,34
 0021800150,2018-11-06,DAL,WAS,18.85,2,5,9,DAL,DAL,tov,1,False,True,Doncic Bad Pass Turnover (P2.T4),,58-34,58,34
-0021800150,2018-11-06,DAL,WAS,18.85,2,5,9,WAS,DAL,foul,1,False,False,Doncic P.FOUL (P1.T3) (Z.Zarba),,58-34,58,34
 0021800150,2018-11-06,DAL,WAS,18.85,2,5,9,DAL,WAS,steal,1,False,True,steal,steal,58-34,58,34
+0021800150,2018-11-06,DAL,WAS,18.85,2,5,9,WAS,DAL,foul,1,False,False,Doncic P.FOUL (P1.T3) (Z.Zarba),,58-34,58,34
 0021800150,2018-11-06,DAL,WAS,18.98,2,5,1,WAS,WAS,fg_make,6,False,False,,Wall Driving Layup (4 PTS),58-36,58,36
 0021800150,2018-11-06,DAL,WAS,19.0,2,5,0,DAL,DAL,timeout,1,False,False,MAVERICKS Timeout: Regular (Full 2 Short 0),,58-36,58,36
 0021800150,2018-11-06,DAL,WAS,19.17,2,4,50,DAL,DAL,fg3_miss,79,False,False,MISS Barnes 25' 3PT Pullup Jump Shot,,58-36,58,36
@@ -320,10 +320,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800150,2018-11-06,DAL,WAS,35.7,3,0,18,DAL,DAL,ft_make,12,False,False,Powell Free Throw 2 of 2 (5 PTS),,87-75,87,75
 0021800150,2018-11-06,DAL,WAS,35.93,3,0,4,WAS,WAS,fg3_make,1,False,False,,Porter Jr. 24' 3PT Jump Shot (19 PTS) (Wall 7 AST),87-78,87,78
 0021800150,2018-11-06,DAL,WAS,36.0,3,0,0,DAL,DAL,fg3_miss,1,True,False,MISS Matthews 39' 3PT Jump Shot,,87-78,87,78
+0021800150,2018-11-06,DAL,WAS,36.0,3,0,0,DAL,WAS,block,1,True,False,block,block,87-78,87,78
 0021800150,2018-11-06,DAL,WAS,36.0,3,0,0,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,87-78,87,78
 0021800150,2018-11-06,DAL,WAS,36.0,3,0,0,DAL,,period_end,0,False,False,,,87-78,87,78
 0021800150,2018-11-06,DAL,WAS,36.0,4,12,0,DAL,,period_start,0,False,False,,,87-78,87,78
-0021800150,2018-11-06,DAL,WAS,36.0,3,0,0,DAL,WAS,block,1,True,False,block,block,87-78,87,78
 0021800150,2018-11-06,DAL,WAS,36.18,4,11,49,DAL,DAL,fg_make,52,False,False,Powell Alley Oop Dunk (7 PTS) (Barea 8 AST),,89-78,89,78
 0021800150,2018-11-06,DAL,WAS,36.43,4,11,34,WAS,WAS,fg_make,52,False,False,,Green 1' Alley Oop Dunk (5 PTS) (Wall 8 AST),89-80,89,80
 0021800150,2018-11-06,DAL,WAS,36.67,4,11,20,DAL,DAL,fg3_miss,1,False,False,MISS Powell 25' 3PT Jump Shot,,89-80,89,80
@@ -379,8 +379,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800150,2018-11-06,DAL,WAS,42.02,4,5,59,WAS,WAS,fg_miss,79,False,False,,MISS Porter Jr. 15' Pullup Jump Shot,99-93,99,93
 0021800150,2018-11-06,DAL,WAS,42.05,4,5,57,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:1 Def:6),,99-93,99,93
 0021800150,2018-11-06,DAL,WAS,42.28,4,5,43,DAL,DAL,fg_miss,6,True,False,MISS Smith Jr. 2' Driving Layup,,99-93,99,93
-0021800150,2018-11-06,DAL,WAS,42.28,4,5,43,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,99-93,99,93
 0021800150,2018-11-06,DAL,WAS,42.28,4,5,43,DAL,WAS,block,6,True,False,block,block,99-93,99,93
+0021800150,2018-11-06,DAL,WAS,42.28,4,5,43,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,99-93,99,93
 0021800150,2018-11-06,DAL,WAS,42.33,4,5,40,DAL,DAL,fg3_miss,1,False,False,MISS Finney-Smith 3PT Jump Shot,,99-93,99,93
 0021800150,2018-11-06,DAL,WAS,42.4,4,5,36,DAL,DAL,reb,0,False,False,Smith Jr. REBOUND (Off:2 Def:2),,99-93,99,93
 0021800150,2018-11-06,DAL,WAS,42.45,4,5,33,DAL,DAL,fg_make,108,False,False,Jordan 1' Cutting Dunk Shot (6 PTS) (Smith Jr. 4 AST),,101-93,101,93

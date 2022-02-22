@@ -71,8 +71,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900145,2019-11-11,LAC,TOR,7.9,1,4,6,TOR,TOR,fg_miss,80,False,False,,MISS VanVleet 14' Step Back Jump Shot,9-12,9,12
 0021900145,2019-11-11,LAC,TOR,7.95,1,4,3,LAC,LAC,reb,0,False,False,Green REBOUND (Off:0 Def:1),,9-12,9,12
 0021900145,2019-11-11,LAC,TOR,8.08,1,3,55,LAC,LAC,fg3_miss,1,True,False,MISS McGruder 3PT Jump Shot,,9-12,9,12
-0021900145,2019-11-11,LAC,TOR,8.08,1,3,55,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,9-12,9,12
 0021900145,2019-11-11,LAC,TOR,8.08,1,3,55,LAC,TOR,block,1,True,False,block,block,9-12,9,12
+0021900145,2019-11-11,LAC,TOR,8.08,1,3,55,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,9-12,9,12
 0021900145,2019-11-11,LAC,TOR,8.2,1,3,48,LAC,LAC,fg_miss,78,False,False,MISS Harrell 10' Floating Jump Shot,,9-12,9,12
 0021900145,2019-11-11,LAC,TOR,8.27,1,3,44,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:0 Def:3),9-12,9,12
 0021900145,2019-11-11,LAC,TOR,8.58,1,3,25,TOR,TOR,tov,2,False,True,,Gasol Lost Ball Turnover (P2.T4),9-12,9,12
@@ -81,8 +81,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900145,2019-11-11,LAC,TOR,8.78,1,3,13,LAC,LAC,fg_make,63,False,False,Williams 17' Fadeaway Jumper (2 PTS),,11-12,11,12
 0021900145,2019-11-11,LAC,TOR,9.18,1,2,49,TOR,TOR,fg3_make,1,False,False,,VanVleet 30' 3PT Jump Shot (3 PTS) (Gasol 1 AST),11-15,11,15
 0021900145,2019-11-11,LAC,TOR,9.43,1,2,34,LAC,LAC,fg_miss,101,True,False,MISS Williams 6' Driving Floating Jump Shot,,11-15,11,15
-0021900145,2019-11-11,LAC,TOR,9.43,1,2,34,TOR,TOR,reb,0,False,False,,Raptors Rebound,11-15,11,15
 0021900145,2019-11-11,LAC,TOR,9.43,1,2,34,LAC,TOR,block,101,True,False,block,block,11-15,11,15
+0021900145,2019-11-11,LAC,TOR,9.43,1,2,34,TOR,TOR,reb,0,False,False,,Raptors Rebound,11-15,11,15
 0021900145,2019-11-11,LAC,TOR,9.67,1,2,20,TOR,TOR,fg_miss,1,False,False,,MISS Gasol 16' Jump Shot,11-15,11,15
 0021900145,2019-11-11,LAC,TOR,9.72,1,2,17,LAC,LAC,reb,0,False,False,Williams REBOUND (Off:0 Def:2),,11-15,11,15
 0021900145,2019-11-11,LAC,TOR,9.82,1,2,11,LAC,LAC,fg_make,63,False,False,Williams 13' Fadeaway Jumper (4 PTS),,13-15,13,15
@@ -143,8 +143,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900145,2019-11-11,LAC,TOR,15.77,2,8,14,LAC,LAC,tov,37,False,False,Leonard Offensive Foul Turnover (P3.T9),,25-29,25,29
 0021900145,2019-11-11,LAC,TOR,15.97,2,8,2,TOR,TOR,fg_make,98,False,False,,Hollis-Jefferson 1' Cutting Layup Shot (3 PTS) (VanVleet 3 AST),25-31,25,31
 0021900145,2019-11-11,LAC,TOR,16.42,2,7,35,LAC,LAC,fg_miss,5,True,False,MISS Harrell 3' Layup,,25-31,25,31
-0021900145,2019-11-11,LAC,TOR,16.42,2,7,35,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:2 Def:2),,25-31,25,31
 0021900145,2019-11-11,LAC,TOR,16.42,2,7,35,LAC,TOR,block,5,True,False,block,block,25-31,25,31
+0021900145,2019-11-11,LAC,TOR,16.42,2,7,35,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:2 Def:2),,25-31,25,31
 0021900145,2019-11-11,LAC,TOR,16.42,2,7,35,LAC,LAC,fg_make,58,False,False,Harrell 5' Turnaround Hook Shot (6 PTS),,27-31,27,31
 0021900145,2019-11-11,LAC,TOR,16.42,2,7,35,LAC,TOR,foul,2,False,False,,Boucher S.FOUL (P3.T2) (T.Ford),27-31,27,31
 0021900145,2019-11-11,LAC,TOR,16.42,2,7,35,LAC,LAC,ft_miss,10,False,False,MISS Harrell Free Throw 1 of 1,,27-31,27,31
@@ -438,9 +438,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900145,2019-11-11,LAC,TOR,44.28,4,3,43,TOR,TOR,reb,0,False,False,,Gasol REBOUND (Off:0 Def:5),90-84,90,84
 0021900145,2019-11-11,LAC,TOR,44.32,4,3,41,TOR,TOR,fg_make,50,False,False,,Siakam 1' Running Dunk (16 PTS) (Powell 2 AST),90-86,90,86
 0021900145,2019-11-11,LAC,TOR,44.6,4,3,24,LAC,LAC,fg_miss,98,False,False,MISS Harkless 2' Cutting Layup Shot,,90-86,90,86
+0021900145,2019-11-11,LAC,TOR,44.68,4,3,19,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:3 Def:7),,90-86,90,86
 0021900145,2019-11-11,LAC,TOR,44.68,4,3,19,LAC,LAC,fg_miss,97,False,False,MISS Harrell 1' Tip Layup Shot,,90-86,90,86
 0021900145,2019-11-11,LAC,TOR,44.68,4,3,19,LAC,LAC,reb,0,False,False,Green REBOUND (Off:4 Def:6),,90-86,90,86
-0021900145,2019-11-11,LAC,TOR,44.68,4,3,19,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:3 Def:7),,90-86,90,86
 0021900145,2019-11-11,LAC,TOR,44.77,4,3,14,LAC,LAC,fg_make,72,False,False,Green 1' Putback Layup (8 PTS),,92-86,92,86
 0021900145,2019-11-11,LAC,TOR,44.87,4,3,8,TOR,TOR,timeout,1,False,False,,Raptors Timeout: Regular (Reg.5 Short 0),92-86,92,86
 0021900145,2019-11-11,LAC,TOR,45.1,4,2,54,TOR,TOR,fg_miss,6,True,False,,MISS VanVleet 2' Driving Layup,92-86,92,86

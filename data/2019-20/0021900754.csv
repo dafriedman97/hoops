@@ -91,8 +91,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900754,2020-02-04,LAL,SAS,11.68,1,0,19,SAS,SAS,reb,0,False,False,,Walker IV REBOUND (Off:2 Def:1),19-19,19,19
 0021900754,2020-02-04,LAL,SAS,11.72,1,0,17,SAS,SAS,fg_miss,6,True,False,,MISS Walker IV 2' Driving Layup,19-19,19,19
 0021900754,2020-02-04,LAL,SAS,11.72,1,0,17,SAS,LAL,block,6,True,False,block,block,19-19,19,19
-0021900754,2020-02-04,LAL,SAS,11.77,1,0,14,LAL,LAL,reb,0,False,False,LAKERS Rebound,,19-19,19,19
 0021900754,2020-02-04,LAL,SAS,11.77,1,0,14,,LAL,jump_ball,0,False,False,Jump Ball Caldwell-Pope vs. Walker IV: Tip to Kuzma,,19-19,19,19
+0021900754,2020-02-04,LAL,SAS,11.77,1,0,14,LAL,LAL,reb,0,False,False,LAKERS Rebound,,19-19,19,19
 0021900754,2020-02-04,LAL,SAS,11.97,1,0,2,LAL,LAL,fg_make,47,False,False,Davis 15' Turnaround Jump Shot (7 PTS) (Rondo 1 AST),,21-19,21,19
 0021900754,2020-02-04,LAL,SAS,12.0,1,0,0,LAL,,period_end,0,False,False,,,21-19,21,19
 0021900754,2020-02-04,LAL,SAS,12.0,2,12,0,LAL,,period_start,0,False,False,,,21-19,21,19
@@ -162,9 +162,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900754,2020-02-04,LAL,SAS,21.57,2,2,26,SAS,SAS,fg_miss,47,False,False,,MISS Aldridge 6' Turnaround Jump Shot,44-36,44,36
 0021900754,2020-02-04,LAL,SAS,21.6,2,2,24,LAL,LAL,reb,0,False,False,Green REBOUND (Off:1 Def:3),,44-36,44,36
 0021900754,2020-02-04,LAL,SAS,21.7,2,2,18,LAL,LAL,fg_miss,101,True,False,MISS Bradley 7' Driving Floating Jump Shot,,44-36,44,36
+0021900754,2020-02-04,LAL,SAS,21.7,2,2,18,LAL,SAS,block,101,True,False,block,block,44-36,44,36
 0021900754,2020-02-04,LAL,SAS,21.7,2,2,18,LAL,LAL,reb,0,False,False,LAKERS Rebound,,44-36,44,36
 0021900754,2020-02-04,LAL,SAS,21.7,2,2,18,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 2 Short 0),,44-36,44,36
-0021900754,2020-02-04,LAL,SAS,21.7,2,2,18,LAL,SAS,block,101,True,False,block,block,44-36,44,36
 0021900754,2020-02-04,LAL,SAS,21.83,2,2,10,LAL,LAL,fg_make,9,False,False,James 1' Driving Dunk (8 PTS),,46-36,46,36
 0021900754,2020-02-04,LAL,SAS,22.3,2,1,42,SAS,SAS,fg_miss,57,False,False,,MISS Aldridge 8' Driving Hook Shot,46-36,46,36
 0021900754,2020-02-04,LAL,SAS,22.32,2,1,41,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:3),,46-36,46,36
@@ -267,8 +267,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900754,2020-02-04,LAL,SAS,31.22,3,4,47,LAL,LAL,ft_make,12,False,False,McGee Free Throw 2 of 2 (12 PTS),,74-57,74,57
 0021900754,2020-02-04,LAL,SAS,31.5,3,4,30,SAS,SAS,fg_make,6,False,False,,Aldridge 1' Driving Layup (5 PTS),74-59,74,59
 0021900754,2020-02-04,LAL,SAS,31.63,3,4,22,LAL,LAL,fg_miss,6,False,False,MISS James 2' Driving Layup,,74-59,74,59
-0021900754,2020-02-04,LAL,SAS,31.7,3,4,18,LAL,LAL,fg_make,97,False,False,McGee 1' Tip Layup Shot (14 PTS),,76-59,76,59
 0021900754,2020-02-04,LAL,SAS,31.7,3,4,18,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:2 Def:3),,76-59,76,59
+0021900754,2020-02-04,LAL,SAS,31.7,3,4,18,LAL,LAL,fg_make,97,False,False,McGee 1' Tip Layup Shot (14 PTS),,76-59,76,59
 0021900754,2020-02-04,LAL,SAS,31.92,3,4,5,SAS,SAS,fg_miss,86,False,False,,MISS Aldridge 13' Turnaround Fadeaway Shot,76-59,76,59
 0021900754,2020-02-04,LAL,SAS,31.93,3,4,4,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:2 Def:4),,76-59,76,59
 0021900754,2020-02-04,LAL,SAS,32.08,3,3,55,LAL,LAL,fg_miss,78,False,False,MISS McGee 6' Floating Jump Shot,,76-59,76,59
@@ -352,8 +352,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900754,2020-02-04,LAL,SAS,40.98,4,7,1,SAS,SAS,fg_miss,79,False,False,,MISS White 17' Pullup Jump Shot,110-89,110,89
 0021900754,2020-02-04,LAL,SAS,41.02,4,6,59,LAL,LAL,reb,0,False,False,Rondo REBOUND (Off:0 Def:4),,110-89,110,89
 0021900754,2020-02-04,LAL,SAS,41.12,4,6,53,LAL,LAL,fg_miss,5,False,False,MISS James 1' Layup,,110-89,110,89
-0021900754,2020-02-04,LAL,SAS,41.18,4,6,49,LAL,LAL,fg_make,97,False,False,James 1' Tip Layup Shot (34 PTS),,112-89,112,89
 0021900754,2020-02-04,LAL,SAS,41.18,4,6,49,LAL,LAL,reb,0,False,False,James REBOUND (Off:1 Def:5),,112-89,112,89
+0021900754,2020-02-04,LAL,SAS,41.18,4,6,49,LAL,LAL,fg_make,97,False,False,James 1' Tip Layup Shot (34 PTS),,112-89,112,89
 0021900754,2020-02-04,LAL,SAS,41.45,4,6,33,SAS,SAS,fg_make,6,False,False,,DeRozan 2' Driving Layup (28 PTS),112-91,112,91
 0021900754,2020-02-04,LAL,SAS,41.8,4,6,12,LAL,SAS,foul,2,False,False,,DeRozan S.FOUL (P3.T2) (J.Tiven),112-91,112,91
 0021900754,2020-02-04,LAL,SAS,41.8,4,6,12,LAL,LAL,ft_make,11,False,False,James Free Throw 1 of 2 (35 PTS),,113-91,113,91
@@ -377,8 +377,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900754,2020-02-04,LAL,SAS,44.18,4,3,49,SAS,SAS,fg_miss,79,False,False,,MISS Walker IV 20' Pullup Jump Shot,120-98,120,98
 0021900754,2020-02-04,LAL,SAS,44.23,4,3,46,LAL,LAL,reb,0,False,False,Howard REBOUND (Off:1 Def:6),,120-98,120,98
 0021900754,2020-02-04,LAL,SAS,44.35,4,3,39,LAL,LAL,fg_miss,6,True,False,MISS Cook 5' Driving Layup,,120-98,120,98
-0021900754,2020-02-04,LAL,SAS,44.35,4,3,39,LAL,LAL,reb,0,False,False,LAKERS Rebound,,120-98,120,98
 0021900754,2020-02-04,LAL,SAS,44.35,4,3,39,LAL,SAS,block,6,True,False,block,block,120-98,120,98
+0021900754,2020-02-04,LAL,SAS,44.35,4,3,39,LAL,LAL,reb,0,False,False,LAKERS Rebound,,120-98,120,98
 0021900754,2020-02-04,LAL,SAS,44.52,4,3,29,LAL,LAL,fg_make,86,False,False,Kuzma 13' Turnaround Fadeaway (14 PTS),,122-98,122,98
 0021900754,2020-02-04,LAL,SAS,44.7,4,3,18,SAS,SAS,fg_miss,79,False,False,,MISS Metu 21' Pullup Jump Shot,122-98,122,98
 0021900754,2020-02-04,LAL,SAS,44.75,4,3,15,LAL,LAL,reb,0,False,False,Howard REBOUND (Off:1 Def:7),,122-98,122,98

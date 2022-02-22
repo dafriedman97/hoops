@@ -227,9 +227,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900183,2019-11-17,CLE,PHI,27.23,3,8,46,CLE,CLE,fg3_miss,1,False,False,MISS Garland 28' 3PT Jump Shot,,47-77,47,77
 0021900183,2019-11-17,CLE,PHI,27.28,3,8,43,PHI,PHI,reb,0,False,False,,Embiid REBOUND (Off:0 Def:3),47-77,47,77
 0021900183,2019-11-17,CLE,PHI,27.4,3,8,36,PHI,PHI,fg_miss,101,True,False,,MISS Richardson 8' Driving Floating Jump Shot,47-77,47,77
+0021900183,2019-11-17,CLE,PHI,27.4,3,8,36,PHI,CLE,block,101,True,False,block,block,47-77,47,77
 0021900183,2019-11-17,CLE,PHI,27.4,3,8,36,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,47-77,47,77
 0021900183,2019-11-17,CLE,PHI,27.4,3,8,36,CLE,PHI,foul,3,False,False,,Richardson L.B.FOUL (P2.T1) (E.Lewis),47-77,47,77
-0021900183,2019-11-17,CLE,PHI,27.4,3,8,36,PHI,CLE,block,101,True,False,block,block,47-77,47,77
 0021900183,2019-11-17,CLE,PHI,27.78,3,8,13,CLE,CLE,fg_make,101,False,False,Sexton 9' Driving Floating Jump Shot (10 PTS),,49-77,49,77
 0021900183,2019-11-17,CLE,PHI,27.87,3,8,8,PHI,PHI,fg_miss,44,False,False,,MISS Richardson 2' Reverse Layup,49-77,49,77
 0021900183,2019-11-17,CLE,PHI,27.9,3,8,6,CLE,CLE,reb,0,False,False,Love REBOUND (Off:0 Def:6),,49-77,49,77
@@ -244,17 +244,17 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900183,2019-11-17,CLE,PHI,28.7,3,7,18,PHI,PHI,fg_miss,1,False,False,,MISS Embiid 18' Jump Shot,49-79,49,79
 0021900183,2019-11-17,CLE,PHI,28.75,3,7,15,CLE,CLE,reb,0,False,False,Osman REBOUND (Off:1 Def:2),,49-79,49,79
 0021900183,2019-11-17,CLE,PHI,28.97,3,7,2,CLE,CLE,fg_miss,78,True,False,MISS Sexton 8' Floating Jump Shot,,49-79,49,79
-0021900183,2019-11-17,CLE,PHI,28.97,3,7,2,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,49-79,49,79
 0021900183,2019-11-17,CLE,PHI,28.97,3,7,2,CLE,PHI,block,78,True,False,block,block,49-79,49,79
+0021900183,2019-11-17,CLE,PHI,28.97,3,7,2,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,49-79,49,79
 0021900183,2019-11-17,CLE,PHI,29.05,3,6,57,CLE,CLE,fg_miss,6,True,False,MISS Garland 4' Driving Layup,,49-79,49,79
 0021900183,2019-11-17,CLE,PHI,29.05,3,6,57,CLE,PHI,block,6,True,False,block,block,49-79,49,79
 0021900183,2019-11-17,CLE,PHI,29.07,3,6,56,PHI,PHI,reb,0,False,False,,Simmons REBOUND (Off:0 Def:3),49-79,49,79
 0021900183,2019-11-17,CLE,PHI,29.08,3,6,55,PHI,PHI,tov,1,False,True,,Simmons Bad Pass Turnover (P2.T8),49-79,49,79
+0021900183,2019-11-17,CLE,PHI,29.08,3,6,55,PHI,CLE,steal,1,False,True,steal,steal,49-79,49,79
 0021900183,2019-11-17,CLE,PHI,29.08,3,6,55,CLE,CLE,fg_miss,5,True,False,MISS Thompson 4' Layup,,49-79,49,79
+0021900183,2019-11-17,CLE,PHI,29.08,3,6,55,CLE,PHI,block,5,True,False,block,block,49-79,49,79
 0021900183,2019-11-17,CLE,PHI,29.08,3,6,55,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,49-79,49,79
 0021900183,2019-11-17,CLE,PHI,29.08,3,6,55,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 5 Short 0),,49-79,49,79
-0021900183,2019-11-17,CLE,PHI,29.08,3,6,55,CLE,PHI,block,5,True,False,block,block,49-79,49,79
-0021900183,2019-11-17,CLE,PHI,29.08,3,6,55,PHI,CLE,steal,1,False,True,steal,steal,49-79,49,79
 0021900183,2019-11-17,CLE,PHI,29.1,3,6,54,CLE,PHI,foul,1,False,False,,Embiid P.FOUL (P3.T2) (E.Lewis),49-79,49,79
 0021900183,2019-11-17,CLE,PHI,29.17,3,6,50,CLE,CLE,fg_make,58,False,False,Love 8' Turnaround Hook Shot (10 PTS),,51-79,51,79
 0021900183,2019-11-17,CLE,PHI,29.17,3,6,50,CLE,PHI,foul,2,False,False,,Harris S.FOUL (P1.T3) (T.Ford),51-79,51,79
@@ -361,11 +361,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900183,2019-11-17,CLE,PHI,38.52,4,9,29,PHI,CLE,steal,1,False,True,steal,steal,73-97,73,97
 0021900183,2019-11-17,CLE,PHI,38.58,4,9,25,CLE,PHI,foul,1,False,False,,Thybulle P.FOUL (P1.T1) (E.Lewis),73-97,73,97
 0021900183,2019-11-17,CLE,PHI,38.68,4,9,19,CLE,CLE,fg_miss,1,True,False,MISS Sexton 6' Jump Shot,,73-97,73,97
-0021900183,2019-11-17,CLE,PHI,38.68,4,9,19,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,73-97,73,97
 0021900183,2019-11-17,CLE,PHI,38.68,4,9,19,CLE,PHI,block,1,True,False,block,block,73-97,73,97
+0021900183,2019-11-17,CLE,PHI,38.68,4,9,19,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,73-97,73,97
 0021900183,2019-11-17,CLE,PHI,38.87,4,9,8,CLE,CLE,fg_miss,3,True,False,MISS Thompson 6' Hook Shot,,73-97,73,97
-0021900183,2019-11-17,CLE,PHI,38.87,4,9,8,PHI,PHI,reb,0,False,False,,76ers Rebound,73-97,73,97
 0021900183,2019-11-17,CLE,PHI,38.87,4,9,8,CLE,PHI,block,3,True,False,block,block,73-97,73,97
+0021900183,2019-11-17,CLE,PHI,38.87,4,9,8,PHI,PHI,reb,0,False,False,,76ers Rebound,73-97,73,97
 0021900183,2019-11-17,CLE,PHI,39.12,4,8,53,PHI,PHI,fg_miss,6,False,False,,MISS Thybulle 3' Driving Layup,73-97,73,97
 0021900183,2019-11-17,CLE,PHI,39.12,4,8,53,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,73-97,73,97
 0021900183,2019-11-17,CLE,PHI,39.12,4,8,53,CLE,PHI,foul,3,False,False,,Horford L.B.FOUL (P2.T2) (T.Ford),73-97,73,97

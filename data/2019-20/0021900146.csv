@@ -113,8 +113,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900146,2019-11-12,IND,OKC,11.83,1,0,10,OKC,OKC,ft_make,11,False,False,,Schroder Free Throw 1 of 2 (3 PTS),31-24,31,24
 0021900146,2019-11-12,IND,OKC,11.83,1,0,10,OKC,OKC,ft_make,12,False,False,,Schroder Free Throw 2 of 2 (4 PTS),31-25,31,25
 0021900146,2019-11-12,IND,OKC,11.97,1,0,2,IND,IND,fg_miss,75,True,False,MISS McConnell 3' Driving Finger Roll Layup,,31-25,31,25
-0021900146,2019-11-12,IND,OKC,11.97,1,0,2,IND,IND,reb,0,False,False,Holiday REBOUND (Off:1 Def:0),,31-25,31,25
 0021900146,2019-11-12,IND,OKC,11.97,1,0,2,IND,OKC,block,75,True,False,block,block,31-25,31,25
+0021900146,2019-11-12,IND,OKC,11.97,1,0,2,IND,IND,reb,0,False,False,Holiday REBOUND (Off:1 Def:0),,31-25,31,25
 0021900146,2019-11-12,IND,OKC,12.0,1,0,0,IND,IND,fg_miss,79,False,False,MISS Holiday 18' Pullup Jump Shot,,31-25,31,25
 0021900146,2019-11-12,IND,OKC,12.0,1,0,0,IND,IND,reb,0,False,False,PACERS Rebound,,31-25,31,25
 0021900146,2019-11-12,IND,OKC,12.0,1,0,0,IND,,period_end,0,False,False,,,31-25,31,25
@@ -345,9 +345,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900146,2019-11-12,IND,OKC,38.12,4,9,53,OKC,OKC,fg_miss,80,False,False,,MISS Gilgeous-Alexander 20' Step Back Jump Shot,91-62,91,62
 0021900146,2019-11-12,IND,OKC,38.17,4,9,50,IND,IND,reb,0,False,False,McConnell REBOUND (Off:0 Def:4),,91-62,91,62
 0021900146,2019-11-12,IND,OKC,38.27,4,9,44,IND,IND,fg_miss,6,True,False,MISS McConnell 1' Driving Layup,,91-62,91,62
-0021900146,2019-11-12,IND,OKC,38.27,4,9,44,OKC,OKC,reb,0,False,False,,Thunder Rebound,91-62,91,62
-0021900146,2019-11-12,IND,OKC,38.27,4,9,44,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.5 Short 0),91-62,91,62
 0021900146,2019-11-12,IND,OKC,38.27,4,9,44,IND,OKC,block,6,True,False,block,block,91-62,91,62
+0021900146,2019-11-12,IND,OKC,38.27,4,9,44,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.5 Short 0),91-62,91,62
+0021900146,2019-11-12,IND,OKC,38.27,4,9,44,OKC,OKC,reb,0,False,False,,Thunder Rebound,91-62,91,62
 0021900146,2019-11-12,IND,OKC,38.37,4,9,38,,IND,jump_ball,1,False,False,Jump Ball (CC) Leaf vs. Noel: Tip to Gilgeous-Alexander,,91-62,91,62
 0021900146,2019-11-12,IND,OKC,38.5,4,9,30,OKC,OKC,fg3_make,1,False,False,,Schroder 27' 3PT Jump Shot (7 PTS) (Diallo 1 AST),91-65,91,65
 0021900146,2019-11-12,IND,OKC,38.95,4,9,3,IND,IND,fg3_miss,1,False,False,MISS McDermott 3PT Jump Shot,,91-65,91,65

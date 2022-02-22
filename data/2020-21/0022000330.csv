@@ -42,8 +42,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000330,2021-02-03,ATL,DAL,4.32,1,7,41,DAL,DAL,reb,0,False,False,,Doncic REBOUND (Off:0 Def:1),4-11,4,11
 0022000330,2021-02-03,ATL,DAL,4.38,1,7,37,DAL,DAL,fg_make,6,False,False,,Doncic 2' Driving Layup (4 PTS),4-13,4,13
 0022000330,2021-02-03,ATL,DAL,4.62,1,7,23,ATL,ATL,tov,1,False,True,Collins Bad Pass Turnover (P1.T5),,4-13,4,13
-0022000330,2021-02-03,ATL,DAL,4.62,1,7,23,DAL,ATL,foul,28,False,False,Collins Personal Take Foul (P1.T3) (L.Holtkamp),,4-13,4,13
 0022000330,2021-02-03,ATL,DAL,4.62,1,7,23,ATL,DAL,steal,1,False,True,steal,steal,4-13,4,13
+0022000330,2021-02-03,ATL,DAL,4.62,1,7,23,DAL,ATL,foul,28,False,False,Collins Personal Take Foul (P1.T3) (L.Holtkamp),,4-13,4,13
 0022000330,2021-02-03,ATL,DAL,4.75,1,7,15,DAL,DAL,fg3_miss,1,False,False,,MISS Porzingis 25' 3PT Jump Shot,4-13,4,13
 0022000330,2021-02-03,ATL,DAL,4.8,1,7,12,ATL,ATL,reb,0,False,False,Capela REBOUND (Off:1 Def:2),,4-13,4,13
 0022000330,2021-02-03,ATL,DAL,4.9,1,7,6,ATL,ATL,fg_make,2,False,False,Huerter 10' Running Jump Shot (2 PTS),,6-13,6,13
@@ -131,8 +131,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000330,2021-02-03,ATL,DAL,13.02,2,10,59,ATL,ATL,fg3_miss,79,False,False,MISS Huerter 25' 3PT Pullup Jump Shot,,24-28,24,28
 0022000330,2021-02-03,ATL,DAL,13.1,2,10,54,ATL,ATL,reb,0,False,False,Capela REBOUND (Off:2 Def:4),,24-28,24,28
 0022000330,2021-02-03,ATL,DAL,13.1,2,10,54,ATL,ATL,fg_miss,44,False,False,MISS Capela 1' Reverse Layup,,24-28,24,28
-0022000330,2021-02-03,ATL,DAL,13.17,2,10,50,ATL,ATL,fg_make,97,False,False,Capela Tip Layup Shot (6 PTS),,26-28,26,28
 0022000330,2021-02-03,ATL,DAL,13.17,2,10,50,ATL,ATL,reb,0,False,False,Capela REBOUND (Off:3 Def:4),,26-28,26,28
+0022000330,2021-02-03,ATL,DAL,13.17,2,10,50,ATL,ATL,fg_make,97,False,False,Capela Tip Layup Shot (6 PTS),,26-28,26,28
 0022000330,2021-02-03,ATL,DAL,13.28,2,10,43,DAL,DAL,fg3_miss,1,False,False,,MISS Richardson 25' 3PT Jump Shot,26-28,26,28
 0022000330,2021-02-03,ATL,DAL,13.33,2,10,40,ATL,ATL,reb,0,False,False,Collins REBOUND (Off:1 Def:5),,26-28,26,28
 0022000330,2021-02-03,ATL,DAL,13.43,2,10,34,ATL,ATL,fg_miss,6,True,False,MISS Young 3' Driving Layup,,26-28,26,28
@@ -213,8 +213,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000330,2021-02-03,ATL,DAL,22.87,2,1,8,ATL,ATL,fg3_miss,79,False,False,MISS Young 26' 3PT Pullup Jump Shot,,52-48,52,48
 0022000330,2021-02-03,ATL,DAL,22.92,2,1,5,DAL,DAL,reb,0,False,False,,Doncic REBOUND (Off:0 Def:4),52-48,52,48
 0022000330,2021-02-03,ATL,DAL,22.95,2,1,3,DAL,DAL,fg_miss,1,True,False,,MISS Doncic 14' Jump Shot,52-48,52,48
-0022000330,2021-02-03,ATL,DAL,22.95,2,1,3,DAL,DAL,reb,0,False,False,,Mavericks Rebound,52-48,52,48
 0022000330,2021-02-03,ATL,DAL,22.95,2,1,3,DAL,ATL,block,1,True,False,block,block,52-48,52,48
+0022000330,2021-02-03,ATL,DAL,22.95,2,1,3,DAL,DAL,reb,0,False,False,,Mavericks Rebound,52-48,52,48
 0022000330,2021-02-03,ATL,DAL,23.08,2,0,55,DAL,DAL,fg_miss,5,True,False,,MISS Porzingis 4' Layup,52-48,52,48
 0022000330,2021-02-03,ATL,DAL,23.08,2,0,55,DAL,ATL,block,5,True,False,block,block,52-48,52,48
 0022000330,2021-02-03,ATL,DAL,23.13,2,0,52,ATL,ATL,reb,0,False,False,Snell REBOUND (Off:0 Def:2),,52-48,52,48
@@ -250,9 +250,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000330,2021-02-03,ATL,DAL,26.97,3,9,2,ATL,ATL,timeout,1,False,False,HAWKS Timeout: Regular (Full 3 Short 0),,59-59,59,59
 0022000330,2021-02-03,ATL,DAL,27.28,3,8,43,ATL,ATL,tov,45,False,False,Collins Out of Bounds - Bad Pass Turnover Turnover (P2.T11),,59-59,59,59
 0022000330,2021-02-03,ATL,DAL,27.47,3,8,32,DAL,DAL,fg_miss,6,False,False,,MISS Porzingis 1' Driving Layup,59-59,59,59
+0022000330,2021-02-03,ATL,DAL,27.55,3,8,27,DAL,DAL,reb,0,False,False,,Porzingis REBOUND (Off:1 Def:4),59-59,59,59
 0022000330,2021-02-03,ATL,DAL,27.55,3,8,27,DAL,DAL,fg_miss,97,False,False,,MISS Porzingis Tip Layup Shot,59-59,59,59
 0022000330,2021-02-03,ATL,DAL,27.55,3,8,27,ATL,ATL,reb,0,False,False,Reddish REBOUND (Off:0 Def:2),,59-59,59,59
-0022000330,2021-02-03,ATL,DAL,27.55,3,8,27,DAL,DAL,reb,0,False,False,,Porzingis REBOUND (Off:1 Def:4),59-59,59,59
 0022000330,2021-02-03,ATL,DAL,27.85,3,8,9,ATL,ATL,fg3_miss,80,False,False,MISS Huerter 26' 3PT Step Back Jump Shot,,59-59,59,59
 0022000330,2021-02-03,ATL,DAL,27.9,3,8,6,DAL,DAL,reb,0,False,False,,Porzingis REBOUND (Off:1 Def:5),59-59,59,59
 0022000330,2021-02-03,ATL,DAL,28.02,3,7,59,DAL,DAL,fg_make,6,False,False,,Doncic 1' Driving Layup (21 PTS),59-61,59,61

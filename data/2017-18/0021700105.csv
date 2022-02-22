@@ -58,8 +58,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700105,2017-11-01,CHA,MIL,7.42,1,4,35,CHA,CHA,ft_make,11,False,False,Walker Free Throw 1 of 2 (7 PTS),,16-19,16,19
 0021700105,2017-11-01,CHA,MIL,7.42,1,4,35,CHA,CHA,ft_make,12,False,False,Walker Free Throw 2 of 2 (8 PTS),,17-19,17,19
 0021700105,2017-11-01,CHA,MIL,7.52,1,4,29,MIL,MIL,fg_miss,5,True,False,,MISS Middleton 3' Layup,17-19,17,19
-0021700105,2017-11-01,CHA,MIL,7.52,1,4,29,MIL,MIL,reb,0,False,False,,Bucks Rebound,17-19,17,19
 0021700105,2017-11-01,CHA,MIL,7.52,1,4,29,MIL,CHA,block,5,True,False,block,block,17-19,17,19
+0021700105,2017-11-01,CHA,MIL,7.52,1,4,29,MIL,MIL,reb,0,False,False,,Bucks Rebound,17-19,17,19
 0021700105,2017-11-01,CHA,MIL,7.52,1,4,29,MIL,MIL,fg_make,1,False,False,,Middleton 12' Jump Shot (4 PTS) (Dellavedova 1 AST),17-21,17,21
 0021700105,2017-11-01,CHA,MIL,7.65,1,4,21,CHA,CHA,fg_miss,1,False,False,MISS Howard 3' Jump Shot,,17-21,17,21
 0021700105,2017-11-01,CHA,MIL,7.7,1,4,18,MIL,MIL,reb,0,False,False,,Dellavedova REBOUND (Off:0 Def:1),17-21,17,21
@@ -192,10 +192,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700105,2017-11-01,CHA,MIL,23.75,2,0,15,CHA,CHA,ft_make,11,False,False,Walker Free Throw 1 of 2 (19 PTS),,59-57,59,57
 0021700105,2017-11-01,CHA,MIL,23.75,2,0,15,CHA,CHA,ft_make,12,False,False,Walker Free Throw 2 of 2 (20 PTS),,60-57,60,57
 0021700105,2017-11-01,CHA,MIL,24.0,2,0,0,MIL,MIL,fg_miss,1,True,False,,MISS Brogdon 12' Jump Shot,60-57,60,57
+0021700105,2017-11-01,CHA,MIL,24.0,2,0,0,MIL,CHA,block,1,True,False,block,block,60-57,60,57
 0021700105,2017-11-01,CHA,MIL,24.0,2,0,0,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:1 Def:1),60-57,60,57
 0021700105,2017-11-01,CHA,MIL,24.0,2,0,0,MIL,,period_end,0,False,False,,,60-57,60,57
 0021700105,2017-11-01,CHA,MIL,24.0,3,12,0,MIL,,period_start,0,False,False,,,60-57,60,57
-0021700105,2017-11-01,CHA,MIL,24.0,2,0,0,MIL,CHA,block,1,True,False,block,block,60-57,60,57
 0021700105,2017-11-01,CHA,MIL,24.22,3,11,47,CHA,CHA,fg_miss,7,False,False,MISS Howard 1' Dunk,,60-57,60,57
 0021700105,2017-11-01,CHA,MIL,24.22,3,11,47,CHA,CHA,reb,0,False,False,HORNETS Rebound,,60-57,60,57
 0021700105,2017-11-01,CHA,MIL,24.22,3,11,47,CHA,CHA,tov,15,False,False,Howard Offensive Goaltending Turnover (P2.T4),,60-57,60,57
@@ -336,8 +336,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700105,2017-11-01,CHA,MIL,41.6,4,6,24,CHA,CHA,reb,0,False,False,Williams REBOUND (Off:1 Def:3),,106-95,106,95
 0021700105,2017-11-01,CHA,MIL,41.6,4,6,24,CHA,CHA,fg_make,72,False,False,Williams 1' Putback Layup (10 PTS),,108-95,108,95
 0021700105,2017-11-01,CHA,MIL,41.67,4,6,20,MIL,MIL,fg_miss,1,True,False,,MISS Middleton 7' Jump Shot,108-95,108,95
-0021700105,2017-11-01,CHA,MIL,41.67,4,6,20,MIL,MIL,reb,0,False,False,,Bucks Rebound,108-95,108,95
 0021700105,2017-11-01,CHA,MIL,41.67,4,6,20,MIL,CHA,block,1,True,False,block,block,108-95,108,95
+0021700105,2017-11-01,CHA,MIL,41.67,4,6,20,MIL,MIL,reb,0,False,False,,Bucks Rebound,108-95,108,95
 0021700105,2017-11-01,CHA,MIL,41.73,4,6,16,MIL,MIL,fg_miss,1,False,False,,MISS Middleton 11' Jump Shot,108-95,108,95
 0021700105,2017-11-01,CHA,MIL,41.83,4,6,10,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:2 Def:1),108-95,108,95
 0021700105,2017-11-01,CHA,MIL,41.83,4,6,10,MIL,MIL,fg_make,72,False,False,,Middleton 1' Putback Layup (25 PTS),108-97,108,97

@@ -93,8 +93,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700434,2017-12-16,MIN,PHX,10.83,1,1,10,MIN,MIN,fg3_miss,1,False,False,MISS Wiggins 26' 3PT Jump Shot,,23-20,23,20
 0021700434,2017-12-16,MIN,PHX,10.87,1,1,8,MIN,MIN,reb,0,False,False,Dieng REBOUND (Off:1 Def:0),,23-20,23,20
 0021700434,2017-12-16,MIN,PHX,10.88,1,1,7,MIN,MIN,fg_miss,5,True,False,MISS Dieng 1' Layup,,23-20,23,20
-0021700434,2017-12-16,MIN,PHX,10.88,1,1,7,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,23-20,23,20
 0021700434,2017-12-16,MIN,PHX,10.88,1,1,7,MIN,PHX,block,5,True,False,block,block,23-20,23,20
+0021700434,2017-12-16,MIN,PHX,10.88,1,1,7,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,23-20,23,20
 0021700434,2017-12-16,MIN,PHX,11.02,1,0,59,MIN,MIN,fg_make,79,False,False,Wiggins 20' Pullup Jump Shot (7 PTS),,25-20,25,20
 0021700434,2017-12-16,MIN,PHX,11.42,1,0,35,PHX,PHX,fg_miss,57,False,False,,MISS Bender 6' Driving Hook Shot,25-20,25,20
 0021700434,2017-12-16,MIN,PHX,11.45,1,0,33,MIN,MIN,reb,0,False,False,Dieng REBOUND (Off:1 Def:1),,25-20,25,20
@@ -109,8 +109,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700434,2017-12-16,MIN,PHX,12.57,2,11,26,MIN,MIN,fg_miss,79,False,False,MISS Crawford 21' Pullup Jump Shot,,25-22,25,22
 0021700434,2017-12-16,MIN,PHX,12.62,2,11,23,PHX,PHX,reb,0,False,False,,Len REBOUND (Off:0 Def:2),25-22,25,22
 0021700434,2017-12-16,MIN,PHX,12.77,2,11,14,PHX,PHX,tov,2,False,True,,Daniels Lost Ball Turnover (P1.T11),25-22,25,22
-0021700434,2017-12-16,MIN,PHX,12.77,2,11,14,MIN,PHX,foul,1,False,False,,Len P.FOUL (P1.T1) (M.Ayotte),25-22,25,22
 0021700434,2017-12-16,MIN,PHX,12.77,2,11,14,PHX,MIN,steal,2,False,True,steal,steal,25-22,25,22
+0021700434,2017-12-16,MIN,PHX,12.77,2,11,14,MIN,PHX,foul,1,False,False,,Len P.FOUL (P1.T1) (M.Ayotte),25-22,25,22
 0021700434,2017-12-16,MIN,PHX,12.95,2,11,3,MIN,MIN,fg3_miss,1,False,False,MISS Dieng 3PT Jump Shot,,25-22,25,22
 0021700434,2017-12-16,MIN,PHX,12.98,2,11,1,MIN,MIN,reb,0,False,False,Towns REBOUND (Off:3 Def:3),,25-22,25,22
 0021700434,2017-12-16,MIN,PHX,13.03,2,10,58,MIN,MIN,fg3_make,1,False,False,Crawford 25' 3PT Jump Shot (3 PTS) (Towns 2 AST),,28-22,28,22
@@ -192,9 +192,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700434,2017-12-16,MIN,PHX,20.62,2,3,23,MIN,MIN,ft_make,11,False,False,Towns Free Throw 1 of 2 (8 PTS),,43-35,43,35
 0021700434,2017-12-16,MIN,PHX,20.62,2,3,23,MIN,MIN,ft_make,12,False,False,Towns Free Throw 2 of 2 (9 PTS),,44-35,44,35
 0021700434,2017-12-16,MIN,PHX,21.02,2,2,59,PHX,PHX,fg_miss,1,True,False,,MISS Ulis 20' Jump Shot,44-35,44,35
+0021700434,2017-12-16,MIN,PHX,21.02,2,2,59,PHX,MIN,block,1,True,False,block,block,44-35,44,35
 0021700434,2017-12-16,MIN,PHX,21.02,2,2,59,PHX,PHX,reb,0,False,False,,Suns Rebound,44-35,44,35
 0021700434,2017-12-16,MIN,PHX,21.02,2,2,59,PHX,PHX,tov,11,False,False,,Suns Turnover: Shot Clock (T#19),44-35,44,35
-0021700434,2017-12-16,MIN,PHX,21.02,2,2,59,PHX,MIN,block,1,True,False,block,block,44-35,44,35
 0021700434,2017-12-16,MIN,PHX,21.33,2,2,40,MIN,MIN,fg_miss,6,False,False,MISS Gibson 2' Driving Layup,,44-35,44,35
 0021700434,2017-12-16,MIN,PHX,21.4,2,2,36,MIN,MIN,reb,0,False,False,Gibson REBOUND (Off:2 Def:3),,44-35,44,35
 0021700434,2017-12-16,MIN,PHX,21.4,2,2,36,MIN,MIN,fg_make,97,False,False,Gibson 1' Tip Layup Shot (10 PTS),,46-35,46,35
@@ -227,8 +227,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700434,2017-12-16,MIN,PHX,23.53,2,0,28,MIN,MIN,fg_miss,3,False,False,MISS Towns 6' Hook Shot,,50-40,50,40
 0021700434,2017-12-16,MIN,PHX,23.58,2,0,25,PHX,PHX,reb,0,False,False,,Jackson REBOUND (Off:1 Def:4),50-40,50,40
 0021700434,2017-12-16,MIN,PHX,23.97,2,0,2,PHX,PHX,fg_miss,6,True,False,,MISS Ulis 3' Driving Layup,50-40,50,40
-0021700434,2017-12-16,MIN,PHX,23.97,2,0,2,PHX,PHX,reb,0,False,False,,Len REBOUND (Off:2 Def:5),50-40,50,40
 0021700434,2017-12-16,MIN,PHX,23.97,2,0,2,PHX,MIN,block,6,True,False,block,block,50-40,50,40
+0021700434,2017-12-16,MIN,PHX,23.97,2,0,2,PHX,PHX,reb,0,False,False,,Len REBOUND (Off:2 Def:5),50-40,50,40
 0021700434,2017-12-16,MIN,PHX,23.98,2,0,1,PHX,PHX,fg_make,97,False,False,,Len 1' Tip Layup Shot (4 PTS),50-42,50,42
 0021700434,2017-12-16,MIN,PHX,24.0,2,0,0,MIN,MIN,fg3_miss,1,False,False,MISS Butler 57' 3PT Jump Shot,,50-42,50,42
 0021700434,2017-12-16,MIN,PHX,24.0,2,0,0,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,50-42,50,42
@@ -245,8 +245,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700434,2017-12-16,MIN,PHX,24.73,3,11,16,PHX,PHX,ft_miss,12,False,False,,MISS Warren Free Throw 2 of 2,50-46,50,46
 0021700434,2017-12-16,MIN,PHX,24.77,3,11,14,MIN,MIN,reb,0,False,False,Gibson REBOUND (Off:2 Def:4),,50-46,50,46
 0021700434,2017-12-16,MIN,PHX,25.05,3,10,57,MIN,MIN,fg_miss,5,True,False,MISS Teague 3' Layup,,50-46,50,46
-0021700434,2017-12-16,MIN,PHX,25.05,3,10,57,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,50-46,50,46
 0021700434,2017-12-16,MIN,PHX,25.05,3,10,57,MIN,PHX,block,5,True,False,block,block,50-46,50,46
+0021700434,2017-12-16,MIN,PHX,25.05,3,10,57,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,50-46,50,46
 0021700434,2017-12-16,MIN,PHX,25.15,3,10,51,MIN,MIN,fg3_miss,1,False,False,MISS Wiggins 25' 3PT Jump Shot,,50-46,50,46
 0021700434,2017-12-16,MIN,PHX,25.18,3,10,49,PHX,PHX,reb,0,False,False,,Chandler REBOUND (Off:1 Def:4),50-46,50,46
 0021700434,2017-12-16,MIN,PHX,25.27,3,10,44,PHX,PHX,fg_miss,79,False,False,,MISS Warren 16' Pullup Jump Shot,50-46,50,46
@@ -398,11 +398,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700434,2017-12-16,MIN,PHX,42.73,4,5,16,PHX,PHX,fg_make,47,False,False,,Ulis 10' Turnaround Jump Shot (4 PTS),95-100,95,100
 0021700434,2017-12-16,MIN,PHX,43.02,4,4,59,MIN,MIN,fg3_make,1,False,False,Towns 24' 3PT Jump Shot (28 PTS) (Teague 7 AST),,98-100,98,100
 0021700434,2017-12-16,MIN,PHX,43.45,4,4,33,PHX,PHX,fg3_miss,1,True,False,,MISS Bender 3PT Jump Shot,98-100,98,100
-0021700434,2017-12-16,MIN,PHX,43.45,4,4,33,PHX,PHX,reb,0,False,False,,Suns Rebound,98-100,98,100
 0021700434,2017-12-16,MIN,PHX,43.45,4,4,33,PHX,MIN,block,1,True,False,block,block,98-100,98,100
+0021700434,2017-12-16,MIN,PHX,43.45,4,4,33,PHX,PHX,reb,0,False,False,,Suns Rebound,98-100,98,100
 0021700434,2017-12-16,MIN,PHX,43.5,4,4,30,PHX,PHX,fg_miss,1,False,False,,MISS House Jr. 21' Jump Shot,98-100,98,100
-0021700434,2017-12-16,MIN,PHX,43.52,4,4,29,PHX,PHX,reb,0,False,False,,Suns Rebound,98-100,98,100
 0021700434,2017-12-16,MIN,PHX,43.52,4,4,29,PHX,PHX,tov,11,False,False,,Suns Turnover: Shot Clock (T#25),98-100,98,100
+0021700434,2017-12-16,MIN,PHX,43.52,4,4,29,PHX,PHX,reb,0,False,False,,Suns Rebound,98-100,98,100
 0021700434,2017-12-16,MIN,PHX,43.67,4,4,20,MIN,MIN,fg_miss,101,False,False,MISS Teague 8' Driving Floating Jump Shot,,98-100,98,100
 0021700434,2017-12-16,MIN,PHX,43.72,4,4,17,PHX,PHX,reb,0,False,False,,Len REBOUND (Off:5 Def:11),98-100,98,100
 0021700434,2017-12-16,MIN,PHX,43.87,4,4,8,PHX,MIN,foul,2,False,False,Wiggins S.FOUL (P4.T3) (M.Ayotte),,98-100,98,100
@@ -450,8 +450,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700434,2017-12-16,MIN,PHX,47.92,4,0,5,MIN,PHX,foul,28,False,False,,Jackson Personal Take Foul (P2.T4) (M.Ayotte),106-108,106,108
 0021700434,2017-12-16,MIN,PHX,47.92,4,0,5,MIN,MIN,timeout,1,False,False,TIMBERWOLVES Timeout: Regular (Full 5 Short 0),,106-108,106,108
 0021700434,2017-12-16,MIN,PHX,47.98,4,0,1,MIN,MIN,fg_miss,6,True,False,MISS Butler 4' Driving Layup,,106-108,106,108
-0021700434,2017-12-16,MIN,PHX,47.98,4,0,1,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,106-108,106,108
 0021700434,2017-12-16,MIN,PHX,47.98,4,0,1,MIN,PHX,block,6,True,False,block,block,106-108,106,108
+0021700434,2017-12-16,MIN,PHX,47.98,4,0,1,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,106-108,106,108
 0021700434,2017-12-16,MIN,PHX,48.0,4,0,0,MIN,MIN,fg_miss,1,False,False,MISS Butler 16' Jump Shot,,106-108,106,108
 0021700434,2017-12-16,MIN,PHX,48.0,4,0,0,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,106-108,106,108
 0021700434,2017-12-16,MIN,PHX,48.0,4,0,0,MIN,,period_end,0,False,False,,,106-108,106,108

@@ -86,8 +86,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900685,2020-01-26,DEN,HOU,9.0,1,3,0,DEN,DEN,fg3_miss,1,False,False,MISS Morris 25' 3PT Jump Shot,,19-25,19,25
 0021900685,2020-01-26,DEN,HOU,9.05,1,2,57,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:1 Def:4),,19-25,19,25
 0021900685,2020-01-26,DEN,HOU,9.05,1,2,57,DEN,DEN,fg_miss,72,True,False,MISS Jokic 3' Putback Layup,,19-25,19,25
-0021900685,2020-01-26,DEN,HOU,9.05,1,2,57,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,19-25,19,25
 0021900685,2020-01-26,DEN,HOU,9.05,1,2,57,DEN,HOU,block,72,True,False,block,block,19-25,19,25
+0021900685,2020-01-26,DEN,HOU,9.05,1,2,57,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,19-25,19,25
 0021900685,2020-01-26,DEN,HOU,9.25,1,2,45,DEN,DEN,fg_miss,75,False,False,MISS Beasley 6' Driving Finger Roll Layup,,19-25,19,25
 0021900685,2020-01-26,DEN,HOU,9.27,1,2,44,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,19-25,19,25
 0021900685,2020-01-26,DEN,HOU,9.27,1,2,44,DEN,HOU,foul,1,False,False,,House Jr. P.FOUL (P1.T3) (T.Maddox),19-25,19,25
@@ -123,8 +123,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900685,2020-01-26,DEN,HOU,12.0,1,0,0,DEN,,period_end,0,False,False,,,27-36,27,36
 0021900685,2020-01-26,DEN,HOU,12.0,2,12,0,DEN,,period_start,0,False,False,,,27-36,27,36
 0021900685,2020-01-26,DEN,HOU,12.23,2,11,46,DEN,DEN,fg_miss,1,True,False,MISS Grant 6' Jump Shot,,27-36,27,36
-0021900685,2020-01-26,DEN,HOU,12.23,2,11,46,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,27-36,27,36
 0021900685,2020-01-26,DEN,HOU,12.23,2,11,46,DEN,HOU,block,1,True,False,block,block,27-36,27,36
+0021900685,2020-01-26,DEN,HOU,12.23,2,11,46,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,27-36,27,36
 0021900685,2020-01-26,DEN,HOU,12.37,2,11,38,DEN,DEN,fg_make,1,False,False,Harris 20' Jump Shot (2 PTS) (Grant 2 AST),,29-36,29,36
 0021900685,2020-01-26,DEN,HOU,12.7,2,11,18,HOU,HOU,fg3_miss,1,False,False,,MISS Sefolosha 3PT Jump Shot,29-36,29,36
 0021900685,2020-01-26,DEN,HOU,12.75,2,11,15,HOU,HOU,reb,0,False,False,,Tucker REBOUND (Off:1 Def:1),29-36,29,36
@@ -162,9 +162,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900685,2020-01-26,DEN,HOU,17.3,2,6,42,DEN,DEN,reb,0,False,False,Morris REBOUND (Off:0 Def:1),,40-45,40,45
 0021900685,2020-01-26,DEN,HOU,17.4,2,6,36,DEN,DEN,fg_miss,6,True,False,MISS Morris 8' Driving Layup,,40-45,40,45
 0021900685,2020-01-26,DEN,HOU,17.4,2,6,36,DEN,HOU,block,6,True,False,block,block,40-45,40,45
-0021900685,2020-01-26,DEN,HOU,17.42,2,6,35,HOU,HOU,reb,0,False,False,,Rockets Rebound,40-45,40,45
 0021900685,2020-01-26,DEN,HOU,17.42,2,6,35,,DEN,jump_ball,0,False,False,Jump Ball Morris vs. Tucker: Tip to Westbrook,,40-45,40,45
 0021900685,2020-01-26,DEN,HOU,17.42,2,6,35,HOU,DEN,foul,1,False,False,Beasley P.FOUL (P1.T2) (R.Acosta),,40-45,40,45
+0021900685,2020-01-26,DEN,HOU,17.42,2,6,35,HOU,HOU,reb,0,False,False,,Rockets Rebound,40-45,40,45
 0021900685,2020-01-26,DEN,HOU,17.63,2,6,22,HOU,HOU,fg3_miss,1,False,False,,MISS House Jr. 24' 3PT Jump Shot,40-45,40,45
 0021900685,2020-01-26,DEN,HOU,17.7,2,6,18,HOU,HOU,reb,0,False,False,,Tucker REBOUND (Off:2 Def:2),40-45,40,45
 0021900685,2020-01-26,DEN,HOU,17.9,2,6,6,HOU,HOU,fg3_miss,1,False,False,,MISS McLemore 25' 3PT Jump Shot,40-45,40,45
@@ -239,9 +239,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900685,2020-01-26,DEN,HOU,23.63,2,0,22,HOU,DEN,steal,1,False,True,steal,steal,55-59,55,59
 0021900685,2020-01-26,DEN,HOU,23.93,2,0,4,DEN,DEN,fg_make,108,False,False,Jokic 1' Cutting Dunk Shot (17 PTS) (Dozier 1 AST),,57-59,57,59
 0021900685,2020-01-26,DEN,HOU,24.0,2,0,0,HOU,HOU,tov,1,False,True,,Westbrook Bad Pass Turnover (P4.T7),57-59,57,59
+0021900685,2020-01-26,DEN,HOU,24.0,2,0,0,HOU,DEN,steal,1,False,True,steal,steal,57-59,57,59
 0021900685,2020-01-26,DEN,HOU,24.0,2,0,0,HOU,,period_end,0,False,False,,,57-59,57,59
 0021900685,2020-01-26,DEN,HOU,24.0,3,12,0,HOU,,period_start,0,False,False,,,57-59,57,59
-0021900685,2020-01-26,DEN,HOU,24.0,2,0,0,HOU,DEN,steal,1,False,True,steal,steal,57-59,57,59
 0021900685,2020-01-26,DEN,HOU,24.17,3,11,50,DEN,DEN,fg_make,98,False,False,Harris 4' Cutting Layup Shot (4 PTS) (Jokic 8 AST),,59-59,59,59
 0021900685,2020-01-26,DEN,HOU,24.55,3,11,27,HOU,HOU,fg_miss,78,False,False,,MISS Capela 6' Floating Jump Shot,59-59,59,59
 0021900685,2020-01-26,DEN,HOU,24.57,3,11,26,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,59-59,59,59
@@ -252,8 +252,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900685,2020-01-26,DEN,HOU,25.65,3,10,21,DEN,DEN,fg_make,5,False,False,Craig 4' Layup (4 PTS) (Jokic 9 AST),,63-62,63,62
 0021900685,2020-01-26,DEN,HOU,25.65,3,10,21,DEN,HOU,foul,2,False,False,,Westbrook S.FOUL (P1.T1) (T.Maddox),63-62,63,62
 0021900685,2020-01-26,DEN,HOU,25.65,3,10,21,DEN,DEN,ft_make,10,False,False,Craig Free Throw 1 of 1 (5 PTS),,64-62,64,62
-0021900685,2020-01-26,DEN,HOU,25.85,3,10,9,HOU,HOU,tov,2,False,False,,Westbrook Lost Ball Turnover (P5.T8),64-62,64,62
 0021900685,2020-01-26,DEN,HOU,25.85,3,10,9,DEN,HOU,foul,3,False,False,,Westbrook L.B.FOUL (P2.T2) (T.Maddox),64-62,64,62
+0021900685,2020-01-26,DEN,HOU,25.85,3,10,9,HOU,HOU,tov,2,False,False,,Westbrook Lost Ball Turnover (P5.T8),64-62,64,62
 0021900685,2020-01-26,DEN,HOU,26.08,3,9,55,DEN,DEN,fg3_miss,1,False,False,MISS Jokic 26' 3PT Jump Shot,,64-62,64,62
 0021900685,2020-01-26,DEN,HOU,26.17,3,9,50,HOU,HOU,reb,0,False,False,,Westbrook REBOUND (Off:2 Def:1),64-62,64,62
 0021900685,2020-01-26,DEN,HOU,26.22,3,9,47,HOU,HOU,fg_make,79,False,False,,Westbrook 21' Pullup Jump Shot (12 PTS),64-64,64,64
@@ -268,8 +268,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900685,2020-01-26,DEN,HOU,26.98,3,9,1,DEN,DEN,ft_make,12,False,False,Grant Free Throw 2 of 2 (21 PTS),,66-67,66,67
 0021900685,2020-01-26,DEN,HOU,27.12,3,8,53,HOU,HOU,fg3_miss,1,False,False,,MISS Gordon 27' 3PT Jump Shot,66-67,66,67
 0021900685,2020-01-26,DEN,HOU,27.18,3,8,49,DEN,DEN,reb,0,False,False,Barton REBOUND (Off:0 Def:1),,66-67,66,67
-0021900685,2020-01-26,DEN,HOU,27.25,3,8,45,DEN,DEN,fg_make,5,False,False,Barton 2' Layup (4 PTS),,68-67,68,67
 0021900685,2020-01-26,DEN,HOU,27.25,3,8,45,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 4 Short 0),,68-67,68,67
+0021900685,2020-01-26,DEN,HOU,27.25,3,8,45,DEN,DEN,fg_make,5,False,False,Barton 2' Layup (4 PTS),,68-67,68,67
 0021900685,2020-01-26,DEN,HOU,27.43,3,8,34,HOU,HOU,tov,1,False,True,,Westbrook Bad Pass Turnover (P6.T9),68-67,68,67
 0021900685,2020-01-26,DEN,HOU,27.43,3,8,34,HOU,DEN,steal,1,False,True,steal,steal,68-67,68,67
 0021900685,2020-01-26,DEN,HOU,27.48,3,8,31,DEN,DEN,fg_make,41,False,False,Harris 2' Running Layup (6 PTS),,70-67,70,67
@@ -310,8 +310,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900685,2020-01-26,DEN,HOU,31.45,3,4,33,DEN,DEN,fg3_miss,1,False,False,MISS Porter Jr. 26' 3PT Jump Shot,,80-79,80,79
 0021900685,2020-01-26,DEN,HOU,31.5,3,4,30,HOU,HOU,reb,0,False,False,,Tucker REBOUND (Off:2 Def:4),80-79,80,79
 0021900685,2020-01-26,DEN,HOU,31.57,3,4,26,HOU,HOU,fg_miss,41,True,False,,MISS Westbrook 8' Running Layup,80-79,80,79
-0021900685,2020-01-26,DEN,HOU,31.57,3,4,26,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,80-79,80,79
 0021900685,2020-01-26,DEN,HOU,31.57,3,4,26,HOU,DEN,block,41,True,False,block,block,80-79,80,79
+0021900685,2020-01-26,DEN,HOU,31.57,3,4,26,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,80-79,80,79
 0021900685,2020-01-26,DEN,HOU,31.83,3,4,10,DEN,DEN,fg3_miss,1,False,False,MISS Dozier 26' 3PT Jump Shot,,80-79,80,79
 0021900685,2020-01-26,DEN,HOU,31.92,3,4,5,HOU,HOU,reb,0,False,False,,Westbrook REBOUND (Off:2 Def:2),80-79,80,79
 0021900685,2020-01-26,DEN,HOU,31.98,3,4,1,HOU,HOU,fg_make,79,False,False,,Westbrook 13' Pullup Jump Shot (20 PTS),80-81,80,81
@@ -384,8 +384,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900685,2020-01-26,DEN,HOU,39.38,4,8,37,HOU,HOU,timeout,1,False,False,,Rockets Timeout: Regular (Reg.3 Short 0),100-93,100,93
 0021900685,2020-01-26,DEN,HOU,39.55,4,8,27,HOU,HOU,fg_make,75,False,False,,Westbrook 2' Driving Finger Roll Layup (24 PTS),100-95,100,95
 0021900685,2020-01-26,DEN,HOU,39.93,4,8,4,DEN,DEN,fg_miss,47,True,False,MISS Grant 7' Turnaround Jump Shot,,100-95,100,95
-0021900685,2020-01-26,DEN,HOU,39.93,4,8,4,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,100-95,100,95
 0021900685,2020-01-26,DEN,HOU,39.93,4,8,4,DEN,HOU,block,47,True,False,block,block,100-95,100,95
+0021900685,2020-01-26,DEN,HOU,39.93,4,8,4,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,100-95,100,95
 0021900685,2020-01-26,DEN,HOU,39.97,4,8,2,DEN,DEN,fg_make,47,False,False,Beasley 20' Turnaround Jump Shot (8 PTS) (Morris 4 AST),,102-95,102,95
 0021900685,2020-01-26,DEN,HOU,40.15,4,7,51,HOU,HOU,fg_make,6,False,False,,McLemore 2' Driving Layup (15 PTS) (Westbrook 7 AST),102-97,102,97
 0021900685,2020-01-26,DEN,HOU,40.43,4,7,34,DEN,DEN,fg3_make,1,False,False,Porter Jr. 24' 3PT Jump Shot (17 PTS) (Beasley 1 AST),,105-97,105,97
@@ -454,7 +454,7 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900685,2020-01-26,DEN,HOU,47.45,4,0,33,DEN,DEN,fg_miss,72,False,False,MISS Craig 2' Putback Layup,,117-110,117,110
 0021900685,2020-01-26,DEN,HOU,47.48,4,0,31,HOU,HOU,reb,0,False,False,,Rivers REBOUND (Off:0 Def:6),117-110,117,110
 0021900685,2020-01-26,DEN,HOU,47.57,4,0,26,HOU,HOU,fg_miss,75,True,False,,MISS Westbrook 5' Driving Finger Roll Layup,117-110,117,110
-0021900685,2020-01-26,DEN,HOU,47.57,4,0,26,DEN,DEN,reb,0,False,False,Morris REBOUND (Off:1 Def:6),,117-110,117,110
 0021900685,2020-01-26,DEN,HOU,47.57,4,0,26,HOU,DEN,block,75,True,False,block,block,117-110,117,110
+0021900685,2020-01-26,DEN,HOU,47.57,4,0,26,DEN,DEN,reb,0,False,False,Morris REBOUND (Off:1 Def:6),,117-110,117,110
 0021900685,2020-01-26,DEN,HOU,47.97,4,0,2,DEN,DEN,tov,11,False,False,NUGGETS Turnover: Shot Clock (T#15),,117-110,117,110
 0021900685,2020-01-26,DEN,HOU,48.0,4,0,0,DEN,,period_end,0,False,False,,,117-110,117,110

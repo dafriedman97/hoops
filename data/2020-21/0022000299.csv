@@ -101,9 +101,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000299,2021-01-30,CHA,MIL,12.0,2,12,0,CHA,,period_start,0,False,False,,,39-31,39,31
 0022000299,2021-01-30,CHA,MIL,12.22,2,11,47,CHA,CHA,fg3_make,1,False,False,Washington 25' 3PT Jump Shot (6 PTS) (Ball 4 AST),,42-31,42,31
 0022000299,2021-01-30,CHA,MIL,12.47,2,11,32,MIL,MIL,tov,2,False,True,,Lopez Lost Ball Turnover (P1.T6),42-31,42,31
+0022000299,2021-01-30,CHA,MIL,12.47,2,11,32,MIL,CHA,steal,2,False,True,steal,steal,42-31,42,31
 0022000299,2021-01-30,CHA,MIL,12.47,2,11,32,CHA,MIL,foul,1,False,False,,Lopez P.FOUL (P1.T1) (D.Guthrie),42-31,42,31
 0022000299,2021-01-30,CHA,MIL,12.47,2,11,32,CHA,MIL,foul,11,False,False,,Lopez T.FOUL (P1.T1) (D.Guthrie),42-31,42,31
-0022000299,2021-01-30,CHA,MIL,12.47,2,11,32,MIL,CHA,steal,2,False,True,steal,steal,42-31,42,31
 0022000299,2021-01-30,CHA,MIL,12.47,2,11,32,CHA,CHA,ft_make,16,False,False,Graham Free Throw Technical (4 PTS),,43-31,43,31
 0022000299,2021-01-30,CHA,MIL,12.72,2,11,17,CHA,CHA,fg_make,108,False,False,Bridges 1' Cutting Dunk Shot (6 PTS) (Ball 5 AST),,45-31,45,31
 0022000299,2021-01-30,CHA,MIL,13.03,2,10,58,MIL,MIL,fg3_miss,1,False,False,,MISS Forbes 26' 3PT Jump Shot,45-31,45,31
@@ -145,8 +145,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000299,2021-01-30,CHA,MIL,16.62,2,7,23,MIL,MIL,fg3_miss,1,False,False,,MISS DiVincenzo 26' 3PT Jump Shot,54-38,54,38
 0022000299,2021-01-30,CHA,MIL,16.63,2,7,22,CHA,CHA,reb,0,False,False,Zeller REBOUND (Off:2 Def:4),,54-38,54,38
 0022000299,2021-01-30,CHA,MIL,16.68,2,7,19,CHA,CHA,fg_miss,41,True,False,MISS Monk 3' Running Layup,,54-38,54,38
-0022000299,2021-01-30,CHA,MIL,16.68,2,7,19,CHA,CHA,reb,0,False,False,HORNETS Rebound,,54-38,54,38
 0022000299,2021-01-30,CHA,MIL,16.68,2,7,19,CHA,MIL,block,41,True,False,block,block,54-38,54,38
+0022000299,2021-01-30,CHA,MIL,16.68,2,7,19,CHA,CHA,reb,0,False,False,HORNETS Rebound,,54-38,54,38
 0022000299,2021-01-30,CHA,MIL,16.75,2,7,15,CHA,CHA,fg_miss,3,False,False,MISS Hayward 9' Hook Shot,,54-38,54,38
 0022000299,2021-01-30,CHA,MIL,16.78,2,7,13,MIL,MIL,reb,0,False,False,,Lopez REBOUND (Off:0 Def:1),54-38,54,38
 0022000299,2021-01-30,CHA,MIL,16.82,2,7,11,MIL,MIL,fg_make,5,False,False,,Antetokounmpo 3' Layup (16 PTS) (Holiday 2 AST),54-40,54,40
@@ -333,8 +333,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000299,2021-01-30,CHA,MIL,36.25,4,11,45,MIL,MIL,fg_make,44,False,False,,Lopez 3' Reverse Layup (2 PTS),97-96,97,96
 0022000299,2021-01-30,CHA,MIL,36.7,4,11,18,CHA,CHA,fg_make,3,False,False,Bridges 3' Hook Shot (11 PTS) (Martin 1 AST),,99-96,99,96
 0022000299,2021-01-30,CHA,MIL,36.9,4,11,6,MIL,MIL,fg_miss,3,False,False,,MISS Lopez 5' Hook Shot,99-96,99,96
-0022000299,2021-01-30,CHA,MIL,36.93,4,11,4,MIL,MIL,reb,0,False,False,,Bucks Rebound,99-96,99,96
 0022000299,2021-01-30,CHA,MIL,36.93,4,11,4,,CHA,jump_ball,0,False,False,Jump Ball Washington vs. Antetokounmpo: Tip to Lopez,,99-96,99,96
+0022000299,2021-01-30,CHA,MIL,36.93,4,11,4,MIL,MIL,reb,0,False,False,,Bucks Rebound,99-96,99,96
 0022000299,2021-01-30,CHA,MIL,37.1,4,10,54,MIL,MIL,fg_make,44,False,False,,Lopez 2' Reverse Layup (4 PTS),99-98,99,98
 0022000299,2021-01-30,CHA,MIL,37.27,4,10,44,CHA,CHA,fg3_miss,1,False,False,MISS Graham 26' 3PT Jump Shot,,99-98,99,98
 0022000299,2021-01-30,CHA,MIL,37.28,4,10,43,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:2 Def:13),99-98,99,98
@@ -367,10 +367,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000299,2021-01-30,CHA,MIL,41.05,4,6,57,CHA,MIL,ft_make,12,False,False,,Antetokounmpo Free Throw 2 of 2 (33 PTS),108-110,108,110
 0022000299,2021-01-30,CHA,MIL,41.42,4,6,35,CHA,CHA,fg_make,108,False,False,Zeller 1' Cutting Dunk Shot (7 PTS) (Graham 3 AST),,110-110,110,110
 0022000299,2021-01-30,CHA,MIL,41.58,4,6,25,MIL,CHA,foul,2,False,False,Zeller S.FOUL (P2.T3) (D.Guthrie),,110-110,110,110
+0022000299,2021-01-30,CHA,MIL,41.58,4,6,25,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.6 Short 0),110-111,110,111
 0022000299,2021-01-30,CHA,MIL,41.58,4,6,25,MIL,MIL,ft_miss,11,False,False,,MISS Antetokounmpo Free Throw 1 of 2,110-110,110,110
 0022000299,2021-01-30,CHA,MIL,41.58,4,6,25,MIL,MIL,reb,1,False,False,,Bucks Rebound,110-110,110,110
 0022000299,2021-01-30,CHA,MIL,41.58,4,6,25,MIL,MIL,ft_make,12,False,False,,Antetokounmpo Free Throw 2 of 2 (34 PTS),110-111,110,111
-0022000299,2021-01-30,CHA,MIL,41.58,4,6,25,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.6 Short 0),110-111,110,111
 0022000299,2021-01-30,CHA,MIL,41.85,4,6,9,CHA,MIL,foul,2,False,False,,Portis S.FOUL (P3.T2) (D.Guthrie),110-111,110,111
 0022000299,2021-01-30,CHA,MIL,41.85,4,6,9,CHA,CHA,ft_make,11,False,False,Ball Free Throw 1 of 2 (21 PTS),,111-111,111,111
 0022000299,2021-01-30,CHA,MIL,41.85,4,6,9,CHA,CHA,ft_make,12,False,False,Ball Free Throw 2 of 2 (22 PTS),,112-111,112,111

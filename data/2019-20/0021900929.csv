@@ -265,9 +265,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900929,2020-03-05,GSW,TOR,29.03,3,6,58,TOR,TOR,fg3_miss,1,False,False,,MISS Siakam 26' 3PT Jump Shot,70-75,70,75
 0021900929,2020-03-05,GSW,TOR,29.07,3,6,56,GSW,GSW,reb,0,False,False,Wiggins REBOUND (Off:3 Def:3),,70-75,70,75
 0021900929,2020-03-05,GSW,TOR,29.17,3,6,50,GSW,GSW,fg_miss,41,True,False,MISS Wiggins 6' Running Layup,,70-75,70,75
+0021900929,2020-03-05,GSW,TOR,29.17,3,6,50,GSW,TOR,block,41,True,False,block,block,70-75,70,75
 0021900929,2020-03-05,GSW,TOR,29.17,3,6,50,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,70-75,70,75
 0021900929,2020-03-05,GSW,TOR,29.17,3,6,50,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 4 Short 0),,70-75,70,75
-0021900929,2020-03-05,GSW,TOR,29.17,3,6,50,GSW,TOR,block,41,True,False,block,block,70-75,70,75
 0021900929,2020-03-05,GSW,TOR,29.28,3,6,43,GSW,GSW,fg3_miss,1,False,False,MISS Mulder 26' 3PT Jump Shot,,70-75,70,75
 0021900929,2020-03-05,GSW,TOR,29.32,3,6,41,TOR,TOR,reb,0,False,False,,Ibaka REBOUND (Off:1 Def:8),70-75,70,75
 0021900929,2020-03-05,GSW,TOR,29.4,3,6,36,TOR,GSW,foul,2,False,False,Mulder S.FOUL (P2.T3) (Z.Zarba),,70-75,70,75
@@ -354,8 +354,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900929,2020-03-05,GSW,TOR,38.58,4,9,25,TOR,GSW,block,1,True,False,block,block,95-95,95,95
 0021900929,2020-03-05,GSW,TOR,38.62,4,9,23,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:0 Def:5),,95-95,95,95
 0021900929,2020-03-05,GSW,TOR,38.85,4,9,9,GSW,GSW,tov,1,False,True,Paschall Bad Pass Turnover (P2.T10),,95-95,95,95
-0021900929,2020-03-05,GSW,TOR,38.85,4,9,9,TOR,GSW,foul,1,False,False,Curry P.FOUL (P1.T1) (E.Dalen),,95-95,95,95
 0021900929,2020-03-05,GSW,TOR,38.85,4,9,9,GSW,TOR,steal,1,False,True,steal,steal,95-95,95,95
+0021900929,2020-03-05,GSW,TOR,38.85,4,9,9,TOR,GSW,foul,1,False,False,Curry P.FOUL (P1.T1) (E.Dalen),,95-95,95,95
 0021900929,2020-03-05,GSW,TOR,39.2,4,8,48,TOR,TOR,fg3_miss,1,False,False,,MISS Thomas 26' 3PT Jump Shot,95-95,95,95
 0021900929,2020-03-05,GSW,TOR,39.23,4,8,46,GSW,GSW,reb,0,False,False,Poole REBOUND (Off:0 Def:2),,95-95,95,95
 0021900929,2020-03-05,GSW,TOR,39.33,4,8,40,GSW,GSW,tov,45,False,False,Poole Out of Bounds - Bad Pass Turnover Turnover (P3.T11),,95-95,95,95
@@ -443,11 +443,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900929,2020-03-05,GSW,TOR,47.42,4,0,35,TOR,TOR,reb,0,False,False,,Raptors Rebound,113-117,113,117
 0021900929,2020-03-05,GSW,TOR,47.52,4,0,29,TOR,TOR,timeout,1,False,False,,Raptors Timeout: Regular (Reg.4 Short 0),113-117,113,117
 0021900929,2020-03-05,GSW,TOR,47.58,4,0,25,TOR,TOR,tov,2,False,True,,Powell Lost Ball Turnover (P2.T12),113-117,113,117
+0021900929,2020-03-05,GSW,TOR,47.58,4,0,25,TOR,GSW,steal,2,False,True,steal,steal,113-117,113,117
 0021900929,2020-03-05,GSW,TOR,47.58,4,0,25,GSW,TOR,foul,1,False,False,,Powell P.FOUL (P5.PN) (Z.Zarba),113-117,113,117
 0021900929,2020-03-05,GSW,TOR,47.58,4,0,25,GSW,GSW,ft_miss,11,False,False,MISS Lee Free Throw 1 of 2,,113-117,113,117
 0021900929,2020-03-05,GSW,TOR,47.58,4,0,25,GSW,GSW,reb,1,False,False,WARRIORS Rebound,,113-117,113,117
 0021900929,2020-03-05,GSW,TOR,47.58,4,0,25,GSW,GSW,ft_miss,12,False,False,MISS Lee Free Throw 2 of 2,,113-117,113,117
-0021900929,2020-03-05,GSW,TOR,47.58,4,0,25,TOR,GSW,steal,2,False,True,steal,steal,113-117,113,117
 0021900929,2020-03-05,GSW,TOR,47.62,4,0,23,GSW,GSW,reb,0,False,False,Chriss REBOUND (Off:5 Def:7),,113-117,113,117
 0021900929,2020-03-05,GSW,TOR,47.67,4,0,20,GSW,GSW,fg3_miss,1,False,False,MISS Lee 27' 3PT Jump Shot,,113-117,113,117
 0021900929,2020-03-05,GSW,TOR,47.7,4,0,18,GSW,GSW,reb,0,False,False,Wiggins REBOUND (Off:4 Def:5),,113-117,113,117

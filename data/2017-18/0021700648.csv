@@ -4,8 +4,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700648,2018-01-15,LAC,HOU,0.38,1,11,37,HOU,HOU,fg_miss,6,False,False,,MISS Gordon 2' Driving Layup,0-0,0,0
 0021700648,2018-01-15,LAC,HOU,0.43,1,11,34,HOU,HOU,reb,0,False,False,,Capela REBOUND (Off:1 Def:0),0-0,0,0
 0021700648,2018-01-15,LAC,HOU,0.43,1,11,34,HOU,HOU,fg_miss,1,False,False,,MISS Capela 13' Jump Shot,0-0,0,0
-0021700648,2018-01-15,LAC,HOU,0.43,1,11,34,HOU,HOU,reb,0,False,False,,Rockets Rebound,0-0,0,0
 0021700648,2018-01-15,LAC,HOU,0.43,1,11,34,HOU,HOU,tov,11,False,False,,Rockets Turnover: Shot Clock (T#1),0-0,0,0
+0021700648,2018-01-15,LAC,HOU,0.43,1,11,34,HOU,HOU,reb,0,False,False,,Rockets Rebound,0-0,0,0
 0021700648,2018-01-15,LAC,HOU,0.62,1,11,23,LAC,LAC,fg3_miss,1,False,False,MISS Griffin 24' 3PT Jump Shot,,0-0,0,0
 0021700648,2018-01-15,LAC,HOU,0.62,1,11,23,HOU,HOU,reb,0,False,False,,Ariza REBOUND (Off:0 Def:1),0-0,0,0
 0021700648,2018-01-15,LAC,HOU,0.85,1,11,9,HOU,HOU,fg_make,79,False,False,,Paul 14' Pullup Jump Shot (2 PTS),0-2,0,2
@@ -107,8 +107,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700648,2018-01-15,LAC,HOU,11.58,1,0,25,LAC,LAC,fg_make,41,False,False,Harrell 1' Running Layup (6 PTS) (Dekker 1 AST),,29-31,29,31
 0021700648,2018-01-15,LAC,HOU,11.58,1,0,25,LAC,HOU,foul,2,False,False,,Mbah a Moute S.FOUL (P1.T3) (B.Adams),29-31,29,31
 0021700648,2018-01-15,LAC,HOU,11.58,1,0,25,LAC,LAC,ft_make,10,False,False,Harrell Free Throw 1 of 1 (7 PTS),,30-31,30,31
-0021700648,2018-01-15,LAC,HOU,11.98,1,0,1,HOU,HOU,tov,11,False,False,,Rockets Turnover: Shot Clock (T#3),30-31,30,31
 0021700648,2018-01-15,LAC,HOU,11.98,1,0,1,LAC,LAC,tov,4,False,False,Teodosic Traveling Turnover (P2.T6),,30-31,30,31
+0021700648,2018-01-15,LAC,HOU,11.98,1,0,1,HOU,HOU,tov,11,False,False,,Rockets Turnover: Shot Clock (T#3),30-31,30,31
 0021700648,2018-01-15,LAC,HOU,12.0,1,0,0,LAC,,period_end,0,False,False,,,30-31,30,31
 0021700648,2018-01-15,LAC,HOU,12.0,2,12,0,LAC,,period_start,0,False,False,,,30-31,30,31
 0021700648,2018-01-15,LAC,HOU,12.12,2,11,53,LAC,HOU,violation,5,False,False,,Green Violation:Kicked Ball (M.Callahan),30-31,30,31
@@ -164,9 +164,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700648,2018-01-15,LAC,HOU,16.87,2,7,8,HOU,LAC,steal,2,False,True,steal,steal,38-44,38,44
 0021700648,2018-01-15,LAC,HOU,16.95,2,7,3,LAC,HOU,foul,1,False,False,,Mbah a Moute P.FOUL (P2.PN) (M.Smith),38-44,38,44
 0021700648,2018-01-15,LAC,HOU,17.08,2,6,55,LAC,LAC,fg_miss,3,True,False,MISS Griffin 3' Hook Shot,,38-44,38,44
+0021700648,2018-01-15,LAC,HOU,17.08,2,6,55,LAC,HOU,block,3,True,False,block,block,38-44,38,44
 0021700648,2018-01-15,LAC,HOU,17.08,2,6,55,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,38-44,38,44
 0021700648,2018-01-15,LAC,HOU,17.08,2,6,55,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 2 Short 0),,38-44,38,44
-0021700648,2018-01-15,LAC,HOU,17.08,2,6,55,LAC,HOU,block,3,True,False,block,block,38-44,38,44
 0021700648,2018-01-15,LAC,HOU,17.2,2,6,48,LAC,LAC,tov,1,False,True,Griffin Bad Pass Turnover (P3.T9),,38-44,38,44
 0021700648,2018-01-15,LAC,HOU,17.2,2,6,48,LAC,HOU,steal,1,False,True,steal,steal,38-44,38,44
 0021700648,2018-01-15,LAC,HOU,17.32,2,6,41,HOU,HOU,tov,45,False,False,,Gordon Out of Bounds - Bad Pass Turnover Turnover (P2.T7),38-44,38,44
@@ -206,8 +206,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700648,2018-01-15,LAC,HOU,20.57,2,3,26,HOU,HOU,reb,0,False,False,,Tucker REBOUND (Off:1 Def:3),48-49,48,49
 0021700648,2018-01-15,LAC,HOU,20.77,2,3,14,HOU,LAC,foul,1,False,False,Griffin P.FOUL (P3.T3) (M.Smith),,48-49,48,49
 0021700648,2018-01-15,LAC,HOU,20.92,2,3,5,HOU,HOU,fg_miss,7,True,False,,MISS Capela 1' Dunk,48-49,48,49
-0021700648,2018-01-15,LAC,HOU,20.92,2,3,5,HOU,HOU,reb,0,False,False,,Rockets Rebound,48-49,48,49
 0021700648,2018-01-15,LAC,HOU,20.92,2,3,5,HOU,LAC,block,7,True,False,block,block,48-49,48,49
+0021700648,2018-01-15,LAC,HOU,20.92,2,3,5,HOU,HOU,reb,0,False,False,,Rockets Rebound,48-49,48,49
 0021700648,2018-01-15,LAC,HOU,20.98,2,3,1,HOU,HOU,fg_make,1,False,False,,Paul 17' Jump Shot (9 PTS),48-51,48,51
 0021700648,2018-01-15,LAC,HOU,21.27,2,2,44,LAC,LAC,fg_make,6,False,False,Williams 1' Driving Layup (9 PTS),,50-51,50,51
 0021700648,2018-01-15,LAC,HOU,21.45,2,2,33,HOU,HOU,fg_make,6,False,False,,Paul 1' Driving Layup (11 PTS),50-53,50,53
@@ -264,8 +264,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700648,2018-01-15,LAC,HOU,28.05,3,7,57,HOU,HOU,ft_make,12,False,False,,Anderson Free Throw 2 of 2 (7 PTS),74-66,74,66
 0021700648,2018-01-15,LAC,HOU,28.47,3,7,32,LAC,LAC,fg_make,58,False,False,Griffin 10' Turnaround Hook Shot (16 PTS),,76-66,76,66
 0021700648,2018-01-15,LAC,HOU,28.73,3,7,16,HOU,HOU,fg_miss,101,True,False,,MISS Ariza 2' Driving Floating Jump Shot,76-66,76,66
-0021700648,2018-01-15,LAC,HOU,28.73,3,7,16,HOU,HOU,reb,0,False,False,,Rockets Rebound,76-66,76,66
 0021700648,2018-01-15,LAC,HOU,28.73,3,7,16,HOU,LAC,block,101,True,False,block,block,76-66,76,66
+0021700648,2018-01-15,LAC,HOU,28.73,3,7,16,HOU,HOU,reb,0,False,False,,Rockets Rebound,76-66,76,66
 0021700648,2018-01-15,LAC,HOU,28.8,3,7,12,HOU,HOU,tov,2,False,True,,Paul Lost Ball Turnover (P1.T11),76-66,76,66
 0021700648,2018-01-15,LAC,HOU,28.8,3,7,12,HOU,LAC,steal,2,False,True,steal,steal,76-66,76,66
 0021700648,2018-01-15,LAC,HOU,28.87,3,7,8,LAC,LAC,fg_make,74,False,False,Griffin 1' Running Reverse Layup (18 PTS) (Wallace 2 AST),,78-66,78,66
@@ -344,8 +344,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700648,2018-01-15,LAC,HOU,37.4,4,10,36,HOU,LAC,block,1,True,False,block,block,94-88,94,88
 0021700648,2018-01-15,LAC,HOU,37.45,4,10,33,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:1 Def:2),,94-88,94,88
 0021700648,2018-01-15,LAC,HOU,37.5,4,10,30,LAC,LAC,fg_miss,41,True,False,MISS Dekker 1' Running Layup,,94-88,94,88
-0021700648,2018-01-15,LAC,HOU,37.5,4,10,30,HOU,HOU,reb,0,False,False,,Paul REBOUND (Off:0 Def:3),94-88,94,88
 0021700648,2018-01-15,LAC,HOU,37.5,4,10,30,LAC,HOU,block,41,True,False,block,block,94-88,94,88
+0021700648,2018-01-15,LAC,HOU,37.5,4,10,30,HOU,HOU,reb,0,False,False,,Paul REBOUND (Off:0 Def:3),94-88,94,88
 0021700648,2018-01-15,LAC,HOU,37.55,4,10,27,HOU,LAC,foul,28,False,False,Teodosic Personal Take Foul (P1.T2) (B.Adams),,94-88,94,88
 0021700648,2018-01-15,LAC,HOU,37.78,4,10,13,HOU,HOU,fg_miss,63,False,False,,MISS Green 11' Fadeaway Jumper,94-88,94,88
 0021700648,2018-01-15,LAC,HOU,37.87,4,10,8,LAC,LAC,reb,0,False,False,W. Johnson REBOUND (Off:0 Def:8),,94-88,94,88
@@ -406,8 +406,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700648,2018-01-15,LAC,HOU,44.43,4,3,34,LAC,LAC,fg_make,5,False,False,Griffin 2' Layup (26 PTS),,108-98,108,98
 0021700648,2018-01-15,LAC,HOU,44.43,4,3,34,LAC,HOU,foul,2,False,False,,Paul S.FOUL (P2.T3) (M.Smith),108-98,108,98
 0021700648,2018-01-15,LAC,HOU,44.43,4,3,34,LAC,,foul,16,False,False,,,108-98,108,98
-0021700648,2018-01-15,LAC,HOU,44.43,4,3,34,LAC,,foul,16,False,False,,,108-98,108,98
 0021700648,2018-01-15,LAC,HOU,44.43,4,3,34,LAC,LAC,ft_make,10,False,False,Griffin Free Throw 1 of 1 (27 PTS),,109-98,109,98
+0021700648,2018-01-15,LAC,HOU,44.43,4,3,34,LAC,,foul,16,False,False,,,108-98,108,98
 0021700648,2018-01-15,LAC,HOU,44.77,4,3,14,HOU,HOU,fg_miss,6,True,False,,MISS Gordon 2' Driving Layup,109-98,109,98
 0021700648,2018-01-15,LAC,HOU,44.77,4,3,14,HOU,LAC,block,6,True,False,block,block,109-98,109,98
 0021700648,2018-01-15,LAC,HOU,44.88,4,3,7,LAC,LAC,reb,0,False,False,W. Johnson REBOUND (Off:1 Def:11),,109-98,109,98

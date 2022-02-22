@@ -42,9 +42,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701059,2018-03-20,BOS,OKC,5.43,1,6,34,BOS,OKC,foul,1,False,False,,Westbrook P.FOUL (P1.T2) (M.Boland),6-8,6,8
 0021701059,2018-03-20,BOS,OKC,5.65,1,6,21,BOS,BOS,fg_make,108,False,False,Baynes 1' Cutting Dunk Shot (2 PTS) (Rozier 2 AST),,8-8,8,8
 0021701059,2018-03-20,BOS,OKC,6.03,1,5,58,OKC,OKC,fg_miss,6,True,False,,MISS Anthony 4' Driving Layup,8-8,8,8
+0021701059,2018-03-20,BOS,OKC,6.03,1,5,58,OKC,BOS,block,6,True,False,block,block,8-8,8,8
 0021701059,2018-03-20,BOS,OKC,6.03,1,5,58,OKC,OKC,reb,0,False,False,,Thunder Rebound,8-8,8,8
 0021701059,2018-03-20,BOS,OKC,6.03,1,5,58,OKC,BOS,foul,1,False,False,Horford P.FOUL (P2.T1) (M.Boland),,8-8,8,8
-0021701059,2018-03-20,BOS,OKC,6.03,1,5,58,OKC,BOS,block,6,True,False,block,block,8-8,8,8
 0021701059,2018-03-20,BOS,OKC,6.13,1,5,52,OKC,OKC,fg_miss,6,False,False,,MISS Westbrook 7' Driving Layup,8-8,8,8
 0021701059,2018-03-20,BOS,OKC,6.17,1,5,50,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:1 Def:2),8-8,8,8
 0021701059,2018-03-20,BOS,OKC,6.2,1,5,48,OKC,OKC,fg_make,87,False,False,,Adams 1' Putback Dunk (6 PTS),8-10,8,10
@@ -130,11 +130,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701059,2018-03-20,BOS,OKC,13.78,2,10,13,BOS,BOS,fg_miss,57,False,False,MISS Monroe 7' Driving Hook Shot,,20-28,20,28
 0021701059,2018-03-20,BOS,OKC,13.83,2,10,10,BOS,BOS,reb,0,False,False,Nader REBOUND (Off:1 Def:3),,20-28,20,28
 0021701059,2018-03-20,BOS,OKC,13.97,2,10,2,BOS,BOS,fg_miss,79,False,False,MISS Tatum 12' Pullup Jump Shot,,20-28,20,28
-0021701059,2018-03-20,BOS,OKC,13.98,2,10,1,BOS,BOS,fg_miss,97,False,False,MISS Monroe 2' Tip Layup Shot,,20-28,20,28
 0021701059,2018-03-20,BOS,OKC,13.98,2,10,1,BOS,BOS,reb,0,False,False,Monroe REBOUND (Off:3 Def:0),,20-28,20,28
-0021701059,2018-03-20,BOS,OKC,14.0,2,10,0,BOS,BOS,reb,0,False,False,Monroe REBOUND (Off:2 Def:0),,20-28,20,28
+0021701059,2018-03-20,BOS,OKC,13.98,2,10,1,BOS,BOS,fg_miss,97,False,False,MISS Monroe 2' Tip Layup Shot,,20-28,20,28
 0021701059,2018-03-20,BOS,OKC,14.0,2,10,0,BOS,BOS,fg_make,97,False,False,Monroe 1' Tip Layup Shot (4 PTS),,22-28,22,28
 0021701059,2018-03-20,BOS,OKC,14.0,2,10,0,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.2 Short 0),22-28,22,28
+0021701059,2018-03-20,BOS,OKC,14.0,2,10,0,BOS,BOS,reb,0,False,False,Monroe REBOUND (Off:2 Def:0),,20-28,20,28
 0021701059,2018-03-20,BOS,OKC,14.17,2,9,50,OKC,BOS,foul,1,False,False,Tatum P.FOUL (P2.T2) (T.Brown),,22-28,22,28
 0021701059,2018-03-20,BOS,OKC,14.3,2,9,42,OKC,OKC,fg_miss,80,False,False,,MISS George 18' Step Back Jump Shot,22-28,22,28
 0021701059,2018-03-20,BOS,OKC,14.33,2,9,40,OKC,OKC,reb,0,False,False,,Grant REBOUND (Off:1 Def:1),22-28,22,28
@@ -309,9 +309,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701059,2018-03-20,BOS,OKC,33.03,3,2,58,BOS,BOS,tov,37,False,False,Monroe Offensive Foul Turnover (P2.T17),,64-66,64,66
 0021701059,2018-03-20,BOS,OKC,33.2,3,2,48,OKC,OKC,fg3_make,1,False,False,,Westbrook 24' 3PT Jump Shot (20 PTS),64-69,64,69
 0021701059,2018-03-20,BOS,OKC,33.47,3,2,32,OKC,BOS,foul,3,False,False,Rozier L.B.FOUL (P3.PN) (T.Brown),,64-69,64,69
-0021701059,2018-03-20,BOS,OKC,33.47,3,2,32,BOS,BOS,tov,0,False,False,Rozier No Turnover (P4.T18),,64-69,64,69
 0021701059,2018-03-20,BOS,OKC,33.47,3,2,32,BOS,OKC,ft_make,11,False,False,,Westbrook Free Throw 1 of 2 (21 PTS),64-70,64,70
 0021701059,2018-03-20,BOS,OKC,33.47,3,2,32,BOS,OKC,ft_make,12,False,False,,Westbrook Free Throw 2 of 2 (22 PTS),64-71,64,71
+0021701059,2018-03-20,BOS,OKC,33.47,3,2,32,BOS,BOS,tov,0,False,False,Rozier No Turnover (P4.T18),,64-69,64,69
 0021701059,2018-03-20,BOS,OKC,33.87,3,2,8,BOS,BOS,fg_miss,63,False,False,MISS Morris Sr. 19' Fadeaway Jumper,,64-71,64,71
 0021701059,2018-03-20,BOS,OKC,33.9,3,2,6,OKC,OKC,reb,0,False,False,,Felton REBOUND (Off:0 Def:1),64-71,64,71
 0021701059,2018-03-20,BOS,OKC,33.93,3,2,4,OKC,OKC,fg_make,50,False,False,,Brewer Running Dunk (8 PTS) (Felton 1 AST),64-73,64,73
@@ -346,8 +346,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701059,2018-03-20,BOS,OKC,37.12,4,10,53,OKC,OKC,fg_miss,76,False,False,,MISS Felton 2' Running Finger Roll Layup,73-75,73,75
 0021701059,2018-03-20,BOS,OKC,37.17,4,10,50,BOS,BOS,reb,0,False,False,Ojeleye REBOUND (Off:1 Def:4),,73-75,73,75
 0021701059,2018-03-20,BOS,OKC,37.38,4,10,37,BOS,BOS,fg_miss,58,True,False,MISS Monroe 3' Turnaround Hook Shot,,73-75,73,75
-0021701059,2018-03-20,BOS,OKC,37.38,4,10,37,BOS,BOS,reb,0,False,False,CELTICS Rebound,,73-75,73,75
 0021701059,2018-03-20,BOS,OKC,37.38,4,10,37,BOS,OKC,block,58,True,False,block,block,73-75,73,75
+0021701059,2018-03-20,BOS,OKC,37.38,4,10,37,BOS,BOS,reb,0,False,False,CELTICS Rebound,,73-75,73,75
 0021701059,2018-03-20,BOS,OKC,37.52,4,10,29,BOS,BOS,fg_miss,1,False,False,MISS Larkin 21' Jump Shot,,73-75,73,75
 0021701059,2018-03-20,BOS,OKC,37.53,4,10,28,OKC,OKC,reb,0,False,False,,Thunder Rebound,73-75,73,75
 0021701059,2018-03-20,BOS,OKC,37.88,4,10,7,OKC,OKC,fg_make,73,False,False,,George 1' Driving Reverse Layup (21 PTS),73-77,73,77

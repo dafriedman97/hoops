@@ -67,8 +67,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800203,2018-11-14,WAS,CLE,7.93,1,4,4,WAS,WAS,tov,1,False,True,Wall Bad Pass Turnover (P1.T2),,30-19,30,19
 0021800203,2018-11-14,WAS,CLE,7.93,1,4,4,WAS,CLE,steal,1,False,True,steal,steal,30-19,30,19
 0021800203,2018-11-14,WAS,CLE,8.02,1,3,59,CLE,CLE,fg_miss,6,True,False,,MISS Sexton 2' Driving Layup,30-19,30,19
-0021800203,2018-11-14,WAS,CLE,8.02,1,3,59,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,30-19,30,19
 0021800203,2018-11-14,WAS,CLE,8.02,1,3,59,CLE,WAS,block,6,True,False,block,block,30-19,30,19
+0021800203,2018-11-14,WAS,CLE,8.02,1,3,59,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,30-19,30,19
 0021800203,2018-11-14,WAS,CLE,8.18,1,3,49,CLE,CLE,tov,2,False,True,,Sexton Lost Ball Turnover (P3.T6),30-19,30,19
 0021800203,2018-11-14,WAS,CLE,8.18,1,3,49,CLE,WAS,steal,2,False,True,steal,steal,30-19,30,19
 0021800203,2018-11-14,WAS,CLE,8.25,1,3,45,WAS,WAS,tov,1,False,True,Porter Jr. Bad Pass Turnover (P1.T3),,30-19,30,19
@@ -117,9 +117,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800203,2018-11-14,WAS,CLE,13.02,2,10,59,WAS,WAS,reb,0,False,False,Oubre Jr. REBOUND (Off:0 Def:1),,43-32,43,32
 0021800203,2018-11-14,WAS,CLE,13.2,2,10,48,WAS,WAS,fg_make,1,False,False,Oubre Jr. 17' Jump Shot (2 PTS),,45-32,45,32
 0021800203,2018-11-14,WAS,CLE,13.68,2,10,19,CLE,CLE,fg_miss,6,True,False,,MISS Nwaba 3' Driving Layup,45-32,45,32
+0021800203,2018-11-14,WAS,CLE,13.68,2,10,19,CLE,WAS,block,6,True,False,block,block,45-32,45,32
 0021800203,2018-11-14,WAS,CLE,13.68,2,10,19,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,45-32,45,32
 0021800203,2018-11-14,WAS,CLE,13.68,2,10,19,CLE,CLE,tov,11,False,False,,Cavaliers Turnover: Shot Clock (T#9),45-32,45,32
-0021800203,2018-11-14,WAS,CLE,13.68,2,10,19,CLE,WAS,block,6,True,False,block,block,45-32,45,32
 0021800203,2018-11-14,WAS,CLE,13.85,2,10,9,WAS,WAS,fg_make,98,False,False,Satoransky 2' Cutting Layup Shot (2 PTS) (Green 2 AST),,47-32,47,32
 0021800203,2018-11-14,WAS,CLE,14.13,2,9,52,CLE,WAS,foul,1,False,False,Mahinmi P.FOUL (P1.T1) (B.Taylor),,47-32,47,32
 0021800203,2018-11-14,WAS,CLE,14.17,2,9,50,WAS,CLE,foul,4,False,False,,Clarkson OFF.Foul (P2) (B.Taylor),47-32,47,32
@@ -194,10 +194,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800203,2018-11-14,WAS,CLE,20.33,2,3,40,CLE,WAS,foul,1,False,False,Beal P.FOUL (P2.PN) (E.Lewis),,61-37,61,37
 0021800203,2018-11-14,WAS,CLE,20.33,2,3,40,CLE,CLE,ft_make,11,False,False,,Sexton Free Throw 1 of 2 (13 PTS),61-38,61,38
 0021800203,2018-11-14,WAS,CLE,20.33,2,3,40,CLE,CLE,ft_make,12,False,False,,Sexton Free Throw 2 of 2 (14 PTS),61-39,61,39
-0021800203,2018-11-14,WAS,CLE,20.48,2,3,31,WAS,WAS,fg_miss,5,True,False,MISS Howard 2' Layup,,61-39,61,39
-0021800203,2018-11-14,WAS,CLE,20.48,2,3,31,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,61-39,61,39
 0021800203,2018-11-14,WAS,CLE,20.48,2,3,31,WAS,WAS,timeout,1,False,False,WIZARDS Timeout: Regular (Full 1 Short 0),,61-39,61,39
+0021800203,2018-11-14,WAS,CLE,20.48,2,3,31,WAS,WAS,fg_miss,5,True,False,MISS Howard 2' Layup,,61-39,61,39
 0021800203,2018-11-14,WAS,CLE,20.48,2,3,31,WAS,CLE,block,5,True,False,block,block,61-39,61,39
+0021800203,2018-11-14,WAS,CLE,20.48,2,3,31,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,61-39,61,39
 0021800203,2018-11-14,WAS,CLE,20.58,2,3,25,WAS,WAS,fg_make,6,False,False,Wall 1' Driving Layup (5 PTS),,63-39,63,39
 0021800203,2018-11-14,WAS,CLE,20.97,2,3,2,CLE,CLE,fg_miss,101,False,False,,MISS Smith 12' Driving Floating Jump Shot,63-39,63,39
 0021800203,2018-11-14,WAS,CLE,20.98,2,3,1,WAS,WAS,reb,0,False,False,Beal REBOUND (Off:1 Def:2),,63-39,63,39
@@ -347,8 +347,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800203,2018-11-14,WAS,CLE,33.97,3,2,2,WAS,WAS,reb,0,False,False,Oubre Jr. REBOUND (Off:0 Def:3),,92-70,92,70
 0021800203,2018-11-14,WAS,CLE,34.05,3,1,57,WAS,WAS,tov,4,False,False,Oubre Jr. Traveling Turnover (P1.T14),,92-70,92,70
 0021800203,2018-11-14,WAS,CLE,34.35,3,1,39,CLE,CLE,tov,1,False,True,,Nwaba Bad Pass Turnover (P1.T18),92-70,92,70
-0021800203,2018-11-14,WAS,CLE,34.35,3,1,39,WAS,CLE,foul,1,False,False,,Sexton P.FOUL (P2.PN) (T.Maddox),92-70,92,70
 0021800203,2018-11-14,WAS,CLE,34.35,3,1,39,CLE,WAS,steal,1,False,True,steal,steal,92-70,92,70
+0021800203,2018-11-14,WAS,CLE,34.35,3,1,39,WAS,CLE,foul,1,False,False,,Sexton P.FOUL (P2.PN) (T.Maddox),92-70,92,70
 0021800203,2018-11-14,WAS,CLE,34.35,3,1,39,WAS,WAS,ft_make,11,False,False,Oubre Jr. Free Throw 1 of 2 (5 PTS),,93-70,93,70
 0021800203,2018-11-14,WAS,CLE,34.35,3,1,39,WAS,WAS,ft_miss,12,False,False,MISS Oubre Jr. Free Throw 2 of 2,,93-70,93,70
 0021800203,2018-11-14,WAS,CLE,34.38,3,1,37,CLE,CLE,reb,0,False,False,,Osman REBOUND (Off:0 Def:2),93-70,93,70
@@ -389,8 +389,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800203,2018-11-14,WAS,CLE,38.4,4,9,36,WAS,WAS,tov,15,False,False,Satoransky Offensive Goaltending Turnover (P1.T17),,98-78,98,78
 0021800203,2018-11-14,WAS,CLE,38.58,4,9,25,CLE,WAS,foul,1,False,False,Rivers P.FOUL (P2.T2) (B.Taylor),,98-78,98,78
 0021800203,2018-11-14,WAS,CLE,38.78,4,9,13,CLE,CLE,fg_miss,101,False,False,,MISS Clarkson 2' Driving Floating Jump Shot,98-78,98,78
-0021800203,2018-11-14,WAS,CLE,38.8,4,9,12,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,98-78,98,78
 0021800203,2018-11-14,WAS,CLE,38.8,4,9,12,CLE,CLE,tov,4,False,False,,Clarkson Traveling Turnover (P6.T20),98-78,98,78
+0021800203,2018-11-14,WAS,CLE,38.8,4,9,12,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,98-78,98,78
 0021800203,2018-11-14,WAS,CLE,39.12,4,8,53,WAS,WAS,fg_miss,47,False,False,MISS Green 2' Turnaround Jump Shot,,98-78,98,78
 0021800203,2018-11-14,WAS,CLE,39.17,4,8,50,CLE,CLE,reb,0,False,False,,Clarkson REBOUND (Off:0 Def:2),98-78,98,78
 0021800203,2018-11-14,WAS,CLE,39.28,4,8,43,CLE,CLE,fg3_miss,1,False,False,,MISS Harrison 26' 3PT Jump Shot,98-78,98,78

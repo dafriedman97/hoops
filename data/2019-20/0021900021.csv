@@ -17,8 +17,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900021,2019-10-25,NOP,DAL,1.5,1,10,30,NOP,NOP,fg3_miss,1,False,False,MISS Ball 26' 3PT Jump Shot,,2-2,2,2
 0021900021,2019-10-25,NOP,DAL,1.63,1,10,22,DAL,DAL,reb,0,False,False,,Brunson REBOUND (Off:0 Def:2),2-2,2,2
 0021900021,2019-10-25,NOP,DAL,1.77,1,10,14,DAL,DAL,fg_miss,63,False,False,,MISS Doncic 3' Fadeaway Jumper,2-2,2,2
-0021900021,2019-10-25,NOP,DAL,1.78,1,10,13,DAL,DAL,reb,0,False,False,,Finney-Smith REBOUND (Off:1 Def:0),2-2,2,2
 0021900021,2019-10-25,NOP,DAL,1.78,1,10,13,DAL,DAL,fg_make,87,False,False,,Finney-Smith 1' Putback Dunk (2 PTS),2-4,2,4
+0021900021,2019-10-25,NOP,DAL,1.78,1,10,13,DAL,DAL,reb,0,False,False,,Finney-Smith REBOUND (Off:1 Def:0),2-2,2,2
 0021900021,2019-10-25,NOP,DAL,1.97,1,10,2,NOP,NOP,fg3_make,1,False,False,Redick 25' 3PT Jump Shot (3 PTS) (Ingram 1 AST),,5-4,5,4
 0021900021,2019-10-25,NOP,DAL,2.27,1,9,44,DAL,DAL,tov,2,False,True,,Porzingis Lost Ball Turnover (P1.T1),5-4,5,4
 0021900021,2019-10-25,NOP,DAL,2.27,1,9,44,DAL,NOP,steal,2,False,True,steal,steal,5-4,5,4
@@ -95,8 +95,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900021,2019-10-25,NOP,DAL,11.62,1,0,23,NOP,DAL,foul,4,False,False,,Jackson OFF.Foul (P1) (S.Wall),39-27,39,27
 0021900021,2019-10-25,NOP,DAL,11.62,1,0,23,DAL,DAL,tov,37,False,False,,Jackson Offensive Foul Turnover (P2.T4),39-27,39,27
 0021900021,2019-10-25,NOP,DAL,11.97,1,0,2,NOP,NOP,fg_miss,6,True,False,MISS Alexander-Walker 4' Driving Layup,,39-27,39,27
-0021900021,2019-10-25,NOP,DAL,11.97,1,0,2,NOP,NOP,reb,0,False,False,PELICANS Rebound,,39-27,39,27
 0021900021,2019-10-25,NOP,DAL,11.97,1,0,2,NOP,DAL,block,6,True,False,block,block,39-27,39,27
+0021900021,2019-10-25,NOP,DAL,11.97,1,0,2,NOP,NOP,reb,0,False,False,PELICANS Rebound,,39-27,39,27
 0021900021,2019-10-25,NOP,DAL,11.98,1,0,1,NOP,NOP,fg_make,98,False,False,Hart 2' Cutting Layup Shot (2 PTS) (Alexander-Walker 1 AST),,41-27,41,27
 0021900021,2019-10-25,NOP,DAL,12.0,1,0,0,NOP,,period_end,0,False,False,,,41-27,41,27
 0021900021,2019-10-25,NOP,DAL,12.0,2,12,0,NOP,,period_start,0,False,False,,,41-27,41,27
@@ -292,8 +292,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900021,2019-10-25,NOP,DAL,31.78,3,4,13,DAL,DAL,fg3_miss,1,False,False,,MISS Kleber 26' 3PT Jump Shot,79-85,79,85
 0021900021,2019-10-25,NOP,DAL,31.93,3,4,4,DAL,DAL,reb,0,False,False,,Finney-Smith REBOUND (Off:2 Def:1),79-85,79,85
 0021900021,2019-10-25,NOP,DAL,31.93,3,4,4,DAL,DAL,fg_miss,87,True,False,,MISS Finney-Smith 1' Putback Dunk,79-85,79,85
-0021900021,2019-10-25,NOP,DAL,31.93,3,4,4,NOP,NOP,reb,0,False,False,Holiday REBOUND (Off:1 Def:2),,79-85,79,85
 0021900021,2019-10-25,NOP,DAL,31.93,3,4,4,DAL,NOP,block,87,True,False,block,block,79-85,79,85
+0021900021,2019-10-25,NOP,DAL,31.93,3,4,4,NOP,NOP,reb,0,False,False,Holiday REBOUND (Off:1 Def:2),,79-85,79,85
 0021900021,2019-10-25,NOP,DAL,32.13,3,3,52,NOP,NOP,fg_miss,6,False,False,MISS Holiday 2' Driving Layup,,79-85,79,85
 0021900021,2019-10-25,NOP,DAL,32.17,3,3,50,NOP,NOP,reb,0,False,False,Ingram REBOUND (Off:1 Def:5),,79-85,79,85
 0021900021,2019-10-25,NOP,DAL,32.17,3,3,50,NOP,NOP,fg_miss,97,False,False,MISS Ingram 2' Tip Layup Shot,,79-85,79,85
@@ -364,8 +364,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900021,2019-10-25,NOP,DAL,39.5,4,8,30,NOP,NOP,reb,0,False,False,Williams REBOUND (Off:1 Def:3),,99-103,99,103
 0021900021,2019-10-25,NOP,DAL,39.53,4,8,28,NOP,NOP,fg_make,63,False,False,Hart 13' Fadeaway Jumper (14 PTS),,101-103,101,103
 0021900021,2019-10-25,NOP,DAL,39.53,4,8,28,NOP,DAL,foul,2,False,False,,Wright S.FOUL (P3.T2) (J.Williams),101-103,101,103
-0021900021,2019-10-25,NOP,DAL,39.53,4,8,28,DAL,DAL,timeout,1,False,False,,Mavericks Timeout: Regular (Reg.5 Short 0),101-103,101,103
 0021900021,2019-10-25,NOP,DAL,39.53,4,8,28,NOP,NOP,ft_miss,10,False,False,MISS Hart Free Throw 1 of 1,,101-103,101,103
+0021900021,2019-10-25,NOP,DAL,39.53,4,8,28,DAL,DAL,timeout,1,False,False,,Mavericks Timeout: Regular (Reg.5 Short 0),101-103,101,103
 0021900021,2019-10-25,NOP,DAL,39.6,4,8,24,NOP,NOP,reb,0,False,False,Melli REBOUND (Off:1 Def:0),,101-103,101,103
 0021900021,2019-10-25,NOP,DAL,39.63,4,8,22,NOP,NOP,fg_make,87,False,False,Melli 3' Putback Dunk (4 PTS),,103-103,103,103
 0021900021,2019-10-25,NOP,DAL,39.83,4,8,10,DAL,DAL,fg_miss,80,False,False,,MISS Curry 11' Step Back Jump Shot,103-103,103,103
@@ -437,14 +437,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900021,2019-10-25,NOP,DAL,46.63,4,1,22,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 6 Short 0),,113-120,113,120
 0021900021,2019-10-25,NOP,DAL,46.82,4,1,11,NOP,NOP,fg3_make,1,False,False,Ball 25' 3PT Jump Shot (15 PTS) (Holiday 8 AST),,116-120,116,120
 0021900021,2019-10-25,NOP,DAL,47.17,4,0,50,DAL,DAL,fg_miss,6,True,False,,MISS Wright 3' Driving Layup,116-120,116,120
-0021900021,2019-10-25,NOP,DAL,47.17,4,0,50,NOP,NOP,reb,0,False,False,PELICANS Rebound,,116-120,116,120
 0021900021,2019-10-25,NOP,DAL,47.17,4,0,50,DAL,NOP,block,6,True,False,block,block,116-120,116,120
+0021900021,2019-10-25,NOP,DAL,47.17,4,0,50,NOP,NOP,reb,0,False,False,PELICANS Rebound,,116-120,116,120
 0021900021,2019-10-25,NOP,DAL,47.37,4,0,38,NOP,NOP,tov,45,False,False,Ingram Out of Bounds - Bad Pass Turnover Turnover (P3.T13),,116-120,116,120
 0021900021,2019-10-25,NOP,DAL,47.67,4,0,20,DAL,DAL,fg3_miss,1,False,False,,MISS Finney-Smith 26' 3PT Jump Shot,116-120,116,120
 0021900021,2019-10-25,NOP,DAL,47.77,4,0,14,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:1 Def:7),,116-120,116,120
 0021900021,2019-10-25,NOP,DAL,47.77,4,0,14,NOP,NOP,tov,2,False,True,Hart Lost Ball Turnover (P2.T14),,116-120,116,120
-0021900021,2019-10-25,NOP,DAL,47.77,4,0,14,DAL,NOP,foul,1,False,False,Williams P.FOUL (P2.PN) (Z.Zarba),,116-120,116,120
 0021900021,2019-10-25,NOP,DAL,47.77,4,0,14,NOP,DAL,steal,2,False,True,steal,steal,116-120,116,120
+0021900021,2019-10-25,NOP,DAL,47.77,4,0,14,DAL,NOP,foul,1,False,False,Williams P.FOUL (P2.PN) (Z.Zarba),,116-120,116,120
 0021900021,2019-10-25,NOP,DAL,47.77,4,0,14,DAL,DAL,ft_make,11,False,False,,Finney-Smith Free Throw 1 of 2 (7 PTS),116-121,116,121
 0021900021,2019-10-25,NOP,DAL,47.77,4,0,14,DAL,DAL,ft_miss,12,False,False,,MISS Finney-Smith Free Throw 2 of 2,116-121,116,121
 0021900021,2019-10-25,NOP,DAL,47.77,4,0,14,NOP,NOP,reb,0,False,False,Ingram REBOUND (Off:2 Def:6),,116-121,116,121

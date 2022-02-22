@@ -57,8 +57,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900866,2020-02-26,WAS,BKN,5.82,1,6,11,BKN,BKN,tov,37,False,False,,Allen Offensive Foul Turnover (P1.T4),16-11,16,11
 0021900866,2020-02-26,WAS,BKN,5.98,1,6,1,WAS,WAS,fg3_make,1,False,False,Beal 27' 3PT Jump Shot (7 PTS) (Smith 1 AST),,19-11,19,11
 0021900866,2020-02-26,WAS,BKN,6.22,1,5,47,BKN,BKN,fg_miss,6,False,False,,MISS Harris 4' Driving Layup,19-11,19,11
-0021900866,2020-02-26,WAS,BKN,6.32,1,5,41,BKN,BKN,fg_make,107,False,False,,Allen 1' Tip Dunk Shot (2 PTS),19-13,19,13
 0021900866,2020-02-26,WAS,BKN,6.32,1,5,41,BKN,BKN,reb,0,False,False,,Allen REBOUND (Off:1 Def:2),19-13,19,13
+0021900866,2020-02-26,WAS,BKN,6.32,1,5,41,BKN,BKN,fg_make,107,False,False,,Allen 1' Tip Dunk Shot (2 PTS),19-13,19,13
 0021900866,2020-02-26,WAS,BKN,6.43,1,5,34,WAS,BKN,foul,2,False,False,,Allen S.FOUL (P2.T2) (B.Kennedy),19-13,19,13
 0021900866,2020-02-26,WAS,BKN,6.43,1,5,34,WAS,WAS,ft_miss,11,False,False,MISS Hachimura Free Throw 1 of 2,,19-13,19,13
 0021900866,2020-02-26,WAS,BKN,6.43,1,5,34,WAS,WAS,reb,1,False,False,WIZARDS Rebound,,19-13,19,13
@@ -93,9 +93,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900866,2020-02-26,WAS,BKN,9.32,1,2,41,BKN,BKN,tov,1,False,True,,Harris Bad Pass Turnover (P1.T5),25-14,25,14
 0021900866,2020-02-26,WAS,BKN,9.32,1,2,41,BKN,WAS,steal,1,False,True,steal,steal,25-14,25,14
 0021900866,2020-02-26,WAS,BKN,9.45,1,2,33,WAS,WAS,fg_miss,50,True,False,MISS Robinson 7' Running Dunk,,25-14,25,14
+0021900866,2020-02-26,WAS,BKN,9.45,1,2,33,WAS,BKN,block,50,True,False,block,block,25-14,25,14
 0021900866,2020-02-26,WAS,BKN,9.45,1,2,33,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,25-14,25,14
 0021900866,2020-02-26,WAS,BKN,9.45,1,2,33,WAS,WAS,timeout,1,False,False,WIZARDS Timeout: Regular (Full 1 Short 0),,25-14,25,14
-0021900866,2020-02-26,WAS,BKN,9.45,1,2,33,WAS,BKN,block,50,True,False,block,block,25-14,25,14
 0021900866,2020-02-26,WAS,BKN,9.63,1,2,22,WAS,WAS,tov,2,False,True,Smith Lost Ball Turnover (P1.T2),,25-14,25,14
 0021900866,2020-02-26,WAS,BKN,9.63,1,2,22,WAS,BKN,steal,2,False,True,steal,steal,25-14,25,14
 0021900866,2020-02-26,WAS,BKN,9.75,1,2,15,BKN,BKN,fg3_miss,1,False,False,,MISS Luwawu-Cabarrot 27' 3PT Jump Shot,25-14,25,14
@@ -147,11 +147,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900866,2020-02-26,WAS,BKN,14.73,2,9,16,BKN,BKN,fg_miss,6,False,False,,MISS Luwawu-Cabarrot 6' Driving Layup,33-23,33,23
 0021900866,2020-02-26,WAS,BKN,14.78,2,9,13,WAS,WAS,reb,0,False,False,Wagner REBOUND (Off:0 Def:1),,33-23,33,23
 0021900866,2020-02-26,WAS,BKN,14.87,2,9,8,WAS,WAS,fg_make,80,False,False,Robinson 15' Step Back Jump Shot (4 PTS),,35-23,35,23
+0021900866,2020-02-26,WAS,BKN,15.28,2,8,43,BKN,BKN,timeout,1,False,False,,Nets Timeout: Regular (Reg.2 Short 0),35-24,35,24
 0021900866,2020-02-26,WAS,BKN,15.28,2,8,43,BKN,WAS,foul,2,False,False,Wagner S.FOUL (P2.T3) (J.Goble),,35-23,35,23
 0021900866,2020-02-26,WAS,BKN,15.28,2,8,43,BKN,BKN,ft_make,11,False,False,,LeVert Free Throw 1 of 2 (9 PTS),35-24,35,24
 0021900866,2020-02-26,WAS,BKN,15.28,2,8,43,BKN,BKN,ft_miss,12,False,False,,MISS LeVert Free Throw 2 of 2,35-24,35,24
 0021900866,2020-02-26,WAS,BKN,15.28,2,8,43,WAS,WAS,reb,0,False,False,Bonga REBOUND (Off:1 Def:3),,35-24,35,24
-0021900866,2020-02-26,WAS,BKN,15.28,2,8,43,BKN,BKN,timeout,1,False,False,,Nets Timeout: Regular (Reg.2 Short 0),35-24,35,24
 0021900866,2020-02-26,WAS,BKN,15.5,2,8,30,WAS,BKN,foul,2,False,False,,Kurucs S.FOUL (P1.T1) (B.Kennedy),35-24,35,24
 0021900866,2020-02-26,WAS,BKN,15.5,2,8,30,WAS,WAS,ft_make,11,False,False,Wagner Free Throw 1 of 2 (1 PTS),,36-24,36,24
 0021900866,2020-02-26,WAS,BKN,15.5,2,8,30,WAS,WAS,ft_make,12,False,False,Wagner Free Throw 2 of 2 (2 PTS),,37-24,37,24
@@ -265,9 +265,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900866,2020-02-26,WAS,BKN,27.05,3,8,57,WAS,WAS,fg_miss,79,False,False,MISS Napier 19' Pullup Jump Shot,,65-56,65,56
 0021900866,2020-02-26,WAS,BKN,27.13,3,8,52,BKN,BKN,reb,0,False,False,,LeVert REBOUND (Off:1 Def:3),65-56,65,56
 0021900866,2020-02-26,WAS,BKN,27.2,3,8,48,BKN,BKN,fg_miss,5,True,False,,MISS LeVert 9' Layup,65-56,65,56
+0021900866,2020-02-26,WAS,BKN,27.2,3,8,48,BKN,WAS,block,5,True,False,block,block,65-56,65,56
 0021900866,2020-02-26,WAS,BKN,27.2,3,8,48,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,65-56,65,56
 0021900866,2020-02-26,WAS,BKN,27.2,3,8,48,WAS,BKN,foul,3,False,False,,Allen L.B.FOUL (P4.T2) (B.Kennedy),65-56,65,56
-0021900866,2020-02-26,WAS,BKN,27.2,3,8,48,BKN,WAS,block,5,True,False,block,block,65-56,65,56
 0021900866,2020-02-26,WAS,BKN,27.43,3,8,34,WAS,WAS,fg_make,6,False,False,Hachimura 3' Driving Layup (17 PTS),,67-56,67,56
 0021900866,2020-02-26,WAS,BKN,27.65,3,8,21,BKN,BKN,fg_make,73,False,False,,LeVert 2' Driving Reverse Layup (22 PTS),67-58,67,58
 0021900866,2020-02-26,WAS,BKN,27.65,3,8,21,BKN,WAS,foul,2,False,False,Bonga S.FOUL (P2.T2) (B.Nansel),,67-58,67,58
@@ -277,8 +277,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900866,2020-02-26,WAS,BKN,27.95,3,8,3,WAS,WAS,ft_miss,10,False,False,MISS Mahinmi Free Throw 1 of 1,,69-59,69,59
 0021900866,2020-02-26,WAS,BKN,28.0,3,8,0,BKN,BKN,reb,0,False,False,,Harris REBOUND (Off:0 Def:4),69-59,69,59
 0021900866,2020-02-26,WAS,BKN,28.15,3,7,51,BKN,BKN,fg_miss,79,False,False,,MISS LeVert 10' Pullup Jump Shot,69-59,69,59
-0021900866,2020-02-26,WAS,BKN,28.27,3,7,44,BKN,BKN,fg_make,97,False,False,,Jordan 1' Tip Layup Shot (6 PTS),69-61,69,61
 0021900866,2020-02-26,WAS,BKN,28.27,3,7,44,BKN,BKN,reb,0,False,False,,Jordan REBOUND (Off:4 Def:2),69-61,69,61
+0021900866,2020-02-26,WAS,BKN,28.27,3,7,44,BKN,BKN,fg_make,97,False,False,,Jordan 1' Tip Layup Shot (6 PTS),69-61,69,61
 0021900866,2020-02-26,WAS,BKN,28.4,3,7,36,WAS,WAS,fg3_miss,1,False,False,MISS Bertans 26' 3PT Jump Shot,,69-61,69,61
 0021900866,2020-02-26,WAS,BKN,28.45,3,7,33,BKN,BKN,reb,0,False,False,,Jordan REBOUND (Off:4 Def:3),69-61,69,61
 0021900866,2020-02-26,WAS,BKN,28.62,3,7,23,BKN,BKN,fg_make,6,False,False,,LeVert 3' Driving Layup (25 PTS),69-63,69,63

@@ -33,8 +33,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000788,2021-04-08,LAC,PHX,4.82,1,7,11,LAC,LAC,fg3_make,1,False,False,Morris Sr. 26' 3PT Jump Shot (3 PTS) (George 1 AST),,14-13,14,13
 0022000788,2021-04-08,LAC,PHX,5.02,1,6,59,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 1 Short 0),,14-13,14,13
 0022000788,2021-04-08,LAC,PHX,5.13,1,6,52,PHX,PHX,fg_miss,43,False,False,,MISS Ayton 2' Alley Oop Layup,14-13,14,13
-0022000788,2021-04-08,LAC,PHX,5.2,1,6,48,PHX,PHX,fg_make,72,False,False,,Ayton Putback Layup (6 PTS),14-15,14,15
 0022000788,2021-04-08,LAC,PHX,5.2,1,6,48,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:1 Def:3),14-15,14,15
+0022000788,2021-04-08,LAC,PHX,5.2,1,6,48,PHX,PHX,fg_make,72,False,False,,Ayton Putback Layup (6 PTS),14-15,14,15
 0022000788,2021-04-08,LAC,PHX,5.52,1,6,29,LAC,LAC,tov,2,False,True,George Lost Ball Turnover (P1.T1),,14-15,14,15
 0022000788,2021-04-08,LAC,PHX,5.52,1,6,29,LAC,PHX,steal,2,False,True,steal,steal,14-15,14,15
 0022000788,2021-04-08,LAC,PHX,5.7,1,6,18,PHX,PHX,fg3_miss,1,False,False,,MISS Bridges 3PT Jump Shot,14-15,14,15
@@ -67,9 +67,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000788,2021-04-08,LAC,PHX,9.23,1,2,46,PHX,PHX,fg3_miss,1,False,False,,MISS Johnson 3PT Jump Shot,20-19,20,19
 0022000788,2021-04-08,LAC,PHX,9.28,1,2,43,LAC,LAC,reb,0,False,False,Batum REBOUND (Off:0 Def:1),,20-19,20,19
 0022000788,2021-04-08,LAC,PHX,9.58,1,2,25,LAC,LAC,tov,1,False,True,Leonard Bad Pass Turnover (P2.T3),,20-19,20,19
+0022000788,2021-04-08,LAC,PHX,9.58,1,2,25,LAC,PHX,steal,1,False,True,steal,steal,20-19,20,19
 0022000788,2021-04-08,LAC,PHX,9.58,1,2,25,PHX,LAC,foul,28,False,False,Jackson Personal Take Foul (P1.PN) (A.Moyer-Gleich),,20-19,20,19
 0022000788,2021-04-08,LAC,PHX,9.58,1,2,25,PHX,PHX,timeout,1,False,False,,Suns Timeout: Regular (Reg.1 Short 0),20-19,20,19
-0022000788,2021-04-08,LAC,PHX,9.58,1,2,25,LAC,PHX,steal,1,False,True,steal,steal,20-19,20,19
 0022000788,2021-04-08,LAC,PHX,9.58,1,2,25,PHX,PHX,ft_make,11,False,False,,Saric Free Throw 1 of 2 (1 PTS),20-20,20,20
 0022000788,2021-04-08,LAC,PHX,9.58,1,2,25,PHX,PHX,ft_make,12,False,False,,Saric Free Throw 2 of 2 (2 PTS),20-21,20,21
 0022000788,2021-04-08,LAC,PHX,9.6,1,2,24,LAC,PHX,foul,1,False,False,,Craig P.FOUL (P1.T3) (M.Davis),20-21,20,21
@@ -186,8 +186,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000788,2021-04-08,LAC,PHX,24.63,3,11,22,PHX,PHX,ft_make,14,False,False,,Paul Free Throw 2 of 3 (8 PTS),56-58,56,58
 0022000788,2021-04-08,LAC,PHX,24.63,3,11,22,PHX,PHX,ft_make,15,False,False,,Paul Free Throw 3 of 3 (9 PTS),56-59,56,59
 0022000788,2021-04-08,LAC,PHX,24.83,3,11,10,LAC,LAC,fg_miss,1,False,False,MISS Leonard 16' Jump Shot,,56-59,56,59
-0022000788,2021-04-08,LAC,PHX,24.93,3,11,4,LAC,LAC,fg_miss,97,False,False,MISS Zubac Tip Layup Shot,,56-59,56,59
 0022000788,2021-04-08,LAC,PHX,24.93,3,11,4,LAC,LAC,reb,0,False,False,Zubac REBOUND (Off:2 Def:2),,56-59,56,59
+0022000788,2021-04-08,LAC,PHX,24.93,3,11,4,LAC,LAC,fg_miss,97,False,False,MISS Zubac Tip Layup Shot,,56-59,56,59
 0022000788,2021-04-08,LAC,PHX,24.95,3,11,3,LAC,LAC,reb,0,False,False,Morris Sr. REBOUND (Off:1 Def:2),,56-59,56,59
 0022000788,2021-04-08,LAC,PHX,24.98,3,11,1,LAC,LAC,tov,1,False,True,Leonard Bad Pass Turnover (P5.T8),,56-59,56,59
 0022000788,2021-04-08,LAC,PHX,24.98,3,11,1,LAC,PHX,steal,1,False,True,steal,steal,56-59,56,59
@@ -358,9 +358,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000788,2021-04-08,LAC,PHX,45.18,4,2,49,LAC,LAC,fg_miss,98,False,False,MISS Leonard 4' Cutting Layup Shot,,105-94,105,94
 0022000788,2021-04-08,LAC,PHX,45.2,4,2,48,LAC,LAC,reb,0,False,False,Leonard REBOUND (Off:1 Def:4),,105-94,105,94
 0022000788,2021-04-08,LAC,PHX,45.2,4,2,48,LAC,LAC,fg_miss,72,True,False,MISS Leonard 4' Putback Layup,,105-94,105,94
+0022000788,2021-04-08,LAC,PHX,45.2,4,2,48,LAC,PHX,block,72,True,False,block,block,105-94,105,94
 0022000788,2021-04-08,LAC,PHX,45.2,4,2,48,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,105-94,105,94
 0022000788,2021-04-08,LAC,PHX,45.2,4,2,48,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 4 Short 0),,105-94,105,94
-0022000788,2021-04-08,LAC,PHX,45.2,4,2,48,LAC,PHX,block,72,True,False,block,block,105-94,105,94
 0022000788,2021-04-08,LAC,PHX,45.23,4,2,46,LAC,LAC,fg_make,99,False,False,Batum 2' Cutting Finger Roll Layup Shot (8 PTS) (Rondo 8 AST),,107-94,107,94
 0022000788,2021-04-08,LAC,PHX,45.43,4,2,34,PHX,LAC,foul,2,False,False,George S.FOUL (P4.PN) (M.Davis),,107-94,107,94
 0022000788,2021-04-08,LAC,PHX,45.43,4,2,34,PHX,PHX,ft_make,11,False,False,,Booker Free Throw 1 of 2 (22 PTS),107-95,107,95

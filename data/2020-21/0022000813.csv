@@ -87,8 +87,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000813,2021-04-11,LAC,DET,13.0,2,11,0,LAC,LAC,fg3_miss,1,False,False,MISS Rondo 24' 3PT Jump Shot,,30-37,30,37
 0022000813,2021-04-11,LAC,DET,13.05,2,10,57,DET,DET,reb,0,False,False,,Lee REBOUND (Off:0 Def:1),30-37,30,37
 0022000813,2021-04-11,LAC,DET,13.07,2,10,56,DET,DET,fg_miss,41,True,False,,MISS Lee 2' Running Layup,30-37,30,37
-0022000813,2021-04-11,LAC,DET,13.07,2,10,56,DET,DET,reb,0,False,False,,Pistons Rebound,30-37,30,37
 0022000813,2021-04-11,LAC,DET,13.07,2,10,56,DET,LAC,block,41,True,False,block,block,30-37,30,37
+0022000813,2021-04-11,LAC,DET,13.07,2,10,56,DET,DET,reb,0,False,False,,Pistons Rebound,30-37,30,37
 0022000813,2021-04-11,LAC,DET,13.25,2,10,45,DET,DET,fg3_miss,1,False,False,,MISS Doumbouya 28' 3PT Jump Shot,30-37,30,37
 0022000813,2021-04-11,LAC,DET,13.32,2,10,41,DET,DET,reb,0,False,False,,Lee REBOUND (Off:1 Def:1),30-37,30,37
 0022000813,2021-04-11,LAC,DET,13.32,2,10,41,DET,DET,fg_make,44,False,False,,Lee 2' Reverse Layup (2 PTS),30-39,30,39
@@ -128,10 +128,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000813,2021-04-11,LAC,DET,17.82,2,6,11,LAC,DET,steal,2,False,True,steal,steal,45-49,45,49
 0022000813,2021-04-11,LAC,DET,17.83,2,6,10,DET,LAC,foul,28,False,False,Kennard Personal Take Foul (P2.T1) (S.Wright),,45-49,45,49
 0022000813,2021-04-11,LAC,DET,18.0,2,6,0,DET,LAC,foul,2,False,False,Kennard S.FOUL (P3.T2) (S.Wright),,45-49,45,49
-0022000813,2021-04-11,LAC,DET,18.0,2,6,0,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 3 Short 0),,45-49,45,49
 0022000813,2021-04-11,LAC,DET,18.0,2,6,0,LAC,DET,ft_make,13,False,False,,Jackson Free Throw 1 of 3 (6 PTS),45-50,45,50
 0022000813,2021-04-11,LAC,DET,18.0,2,6,0,LAC,DET,ft_make,14,False,False,,Jackson Free Throw 2 of 3 (7 PTS),45-51,45,51
 0022000813,2021-04-11,LAC,DET,18.0,2,6,0,LAC,DET,ft_make,15,False,False,,Jackson Free Throw 3 of 3 (8 PTS),45-52,45,52
+0022000813,2021-04-11,LAC,DET,18.0,2,6,0,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 3 Short 0),,45-49,45,49
 0022000813,2021-04-11,LAC,DET,18.32,2,5,41,LAC,LAC,fg3_make,79,False,False,George 26' 3PT Pullup Jump Shot (14 PTS),,48-52,48,52
 0022000813,2021-04-11,LAC,DET,18.62,2,5,23,DET,DET,fg_miss,78,False,False,,MISS Jackson 10' Floating Jump Shot,48-52,48,52
 0022000813,2021-04-11,LAC,DET,18.65,2,5,21,LAC,LAC,reb,0,False,False,Zubac REBOUND (Off:0 Def:2),,48-52,48,52
@@ -209,8 +209,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000813,2021-04-11,LAC,DET,28.33,3,7,40,LAC,LAC,fg_make,52,False,False,Zubac 1' Alley Oop Dunk (9 PTS) (George 8 AST),,74-81,74,81
 0022000813,2021-04-11,LAC,DET,28.68,3,7,19,DET,DET,fg3_make,1,False,False,,Ellington 26' 3PT Jump Shot (12 PTS) (Joseph 7 AST),74-84,74,84
 0022000813,2021-04-11,LAC,DET,28.92,3,7,5,LAC,LAC,tov,1,False,True,Jackson Bad Pass Turnover (P4.T11),,74-84,74,84
-0022000813,2021-04-11,LAC,DET,28.92,3,7,5,DET,DET,tov,39,False,False,,Bey Step Out of Bounds Turnover (P1.T6),74-84,74,84
 0022000813,2021-04-11,LAC,DET,28.92,3,7,5,LAC,DET,steal,1,False,True,steal,steal,74-84,74,84
+0022000813,2021-04-11,LAC,DET,28.92,3,7,5,DET,DET,tov,39,False,False,,Bey Step Out of Bounds Turnover (P1.T6),74-84,74,84
 0022000813,2021-04-11,LAC,DET,29.1,3,6,54,LAC,LAC,fg3_make,1,False,False,Morris Sr. 27' 3PT Jump Shot (21 PTS) (Zubac 5 AST),,77-84,77,84
 0022000813,2021-04-11,LAC,DET,29.12,3,6,53,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.3 Short 0),77-84,77,84
 0022000813,2021-04-11,LAC,DET,29.42,3,6,35,DET,DET,fg_make,80,False,False,,Jackson 20' Step Back Jump Shot (22 PTS) (Ellington 4 AST),77-86,77,86
@@ -234,8 +234,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000813,2021-04-11,LAC,DET,31.95,3,4,3,DET,DET,fg_make,98,False,False,,Plumlee 2' Cutting Layup Shot (6 PTS) (Joseph 9 AST),81-93,81,93
 0022000813,2021-04-11,LAC,DET,32.15,3,3,51,LAC,LAC,fg_make,44,False,False,George 1' Reverse Layup (22 PTS) (Rondo 4 AST),,83-93,83,93
 0022000813,2021-04-11,LAC,DET,32.28,3,3,43,DET,DET,fg_miss,1,False,False,,MISS Plumlee 2' Jump Shot,83-93,83,93
-0022000813,2021-04-11,LAC,DET,32.3,3,3,42,DET,DET,reb,0,False,False,,Plumlee REBOUND (Off:1 Def:2),83-93,83,93
 0022000813,2021-04-11,LAC,DET,32.3,3,3,42,DET,DET,fg_miss,97,False,False,,MISS Plumlee 5' Tip Layup Shot,83-93,83,93
+0022000813,2021-04-11,LAC,DET,32.3,3,3,42,DET,DET,reb,0,False,False,,Plumlee REBOUND (Off:1 Def:2),83-93,83,93
 0022000813,2021-04-11,LAC,DET,32.35,3,3,39,DET,DET,reb,0,False,False,,Plumlee REBOUND (Off:2 Def:2),83-93,83,93
 0022000813,2021-04-11,LAC,DET,32.38,3,3,37,DET,DET,fg3_miss,1,False,False,,MISS Bey 3PT Jump Shot,83-93,83,93
 0022000813,2021-04-11,LAC,DET,32.45,3,3,33,LAC,LAC,reb,0,False,False,Zubac REBOUND (Off:0 Def:5),,83-93,83,93
@@ -308,8 +308,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000813,2021-04-11,LAC,DET,39.42,4,8,35,LAC,LAC,fg_make,79,False,False,Mann 18' Pullup Jump Shot (5 PTS) (Batum 3 AST),,105-102,105,102
 0022000813,2021-04-11,LAC,DET,39.55,4,8,27,DET,LAC,foul,1,False,False,Batum P.FOUL (P3.T2) (M.Ayotte),,105-102,105,102
 0022000813,2021-04-11,LAC,DET,39.73,4,8,16,DET,DET,fg_miss,101,False,False,,MISS Jackson 6' Driving Floating Jump Shot,105-102,105,102
-0022000813,2021-04-11,LAC,DET,39.82,4,8,11,DET,DET,fg_make,97,False,False,,Stewart Tip Layup Shot (7 PTS),105-104,105,104
 0022000813,2021-04-11,LAC,DET,39.82,4,8,11,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:2 Def:3),105-104,105,104
+0022000813,2021-04-11,LAC,DET,39.82,4,8,11,DET,DET,fg_make,97,False,False,,Stewart Tip Layup Shot (7 PTS),105-104,105,104
 0022000813,2021-04-11,LAC,DET,40.03,4,7,58,LAC,LAC,fg_miss,101,False,False,MISS Jackson 6' Driving Floating Jump Shot,,105-104,105,104
 0022000813,2021-04-11,LAC,DET,40.07,4,7,56,LAC,LAC,reb,0,False,False,Zubac REBOUND (Off:2 Def:6),,105-104,105,104
 0022000813,2021-04-11,LAC,DET,40.08,4,7,55,LAC,LAC,fg_make,67,False,False,Zubac 1' Hook Bank Shot (12 PTS),,107-104,107,104
@@ -330,8 +330,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000813,2021-04-11,LAC,DET,41.87,4,6,8,LAC,LAC,fg_miss,66,False,False,MISS George 5' Jump Bank Shot,,110-110,110,110
 0022000813,2021-04-11,LAC,DET,41.9,4,6,6,LAC,LAC,reb,0,False,False,Batum REBOUND (Off:2 Def:5),,110-110,110,110
 0022000813,2021-04-11,LAC,DET,41.93,4,6,4,LAC,LAC,fg3_miss,1,True,False,MISS George 25' 3PT Jump Shot,,110-110,110,110
-0022000813,2021-04-11,LAC,DET,41.93,4,6,4,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,110-110,110,110
 0022000813,2021-04-11,LAC,DET,41.93,4,6,4,LAC,DET,block,1,True,False,block,block,110-110,110,110
+0022000813,2021-04-11,LAC,DET,41.93,4,6,4,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,110-110,110,110
 0022000813,2021-04-11,LAC,DET,42.07,4,5,56,LAC,LAC,fg3_miss,1,False,False,MISS George 25' 3PT Jump Shot,,110-110,110,110
 0022000813,2021-04-11,LAC,DET,42.07,4,5,56,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,110-110,110,110
 0022000813,2021-04-11,LAC,DET,42.27,4,5,44,LAC,LAC,fg3_make,1,False,False,Batum 25' 3PT Jump Shot (14 PTS) (Jackson 7 AST),,113-110,113,110

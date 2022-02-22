@@ -50,8 +50,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000653,2021-03-22,CLE,SAC,6.28,1,5,43,CLE,CLE,fg_miss,43,False,False,MISS Allen 1' Alley Oop Layup,,15-21,15,21
 0022000653,2021-03-22,CLE,SAC,6.33,1,5,40,SAC,SAC,reb,0,False,False,,Barnes REBOUND (Off:0 Def:2),15-21,15,21
 0022000653,2021-03-22,CLE,SAC,6.37,1,5,38,SAC,SAC,fg3_miss,103,False,False,,MISS Haliburton 26' 3PT Running Pull-Up Jump Shot,15-21,15,21
-0022000653,2021-03-22,CLE,SAC,6.47,1,5,32,SAC,SAC,fg_make,107,False,False,,Barnes Tip Dunk Shot (2 PTS),15-23,15,23
 0022000653,2021-03-22,CLE,SAC,6.47,1,5,32,SAC,SAC,reb,0,False,False,,Barnes REBOUND (Off:1 Def:2),15-23,15,23
+0022000653,2021-03-22,CLE,SAC,6.47,1,5,32,SAC,SAC,fg_make,107,False,False,,Barnes Tip Dunk Shot (2 PTS),15-23,15,23
 0022000653,2021-03-22,CLE,SAC,6.6,1,5,24,CLE,CLE,fg_make,102,False,False,Sexton 6' Driving Floating Bank Jump Shot (6 PTS),,17-23,17,23
 0022000653,2021-03-22,CLE,SAC,6.73,1,5,16,SAC,CLE,foul,2,False,False,Garland S.FOUL (P1.T1) (E.Dalen),,17-23,17,23
 0022000653,2021-03-22,CLE,SAC,6.73,1,5,16,SAC,SAC,ft_make,11,False,False,,Fox Free Throw 1 of 2 (3 PTS),17-24,17,24
@@ -94,8 +94,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000653,2021-03-22,CLE,SAC,11.45,1,0,33,SAC,CLE,foul,1,False,False,Cook P.FOUL (P2.T3) (D.Scott),,35-34,35,34
 0022000653,2021-03-22,CLE,SAC,11.52,1,0,29,SAC,SAC,fg_make,3,False,False,,Whiteside 5' Hook Shot (2 PTS) (Joseph 1 AST),35-36,35,36
 0022000653,2021-03-22,CLE,SAC,11.88,1,0,7,CLE,CLE,fg_miss,73,True,False,MISS Cook 1' Driving Reverse Layup,,35-36,35,36
-0022000653,2021-03-22,CLE,SAC,11.88,1,0,7,SAC,SAC,reb,0,False,False,,Kings Rebound,35-36,35,36
 0022000653,2021-03-22,CLE,SAC,11.88,1,0,7,CLE,SAC,block,73,True,False,block,block,35-36,35,36
+0022000653,2021-03-22,CLE,SAC,11.88,1,0,7,SAC,SAC,reb,0,False,False,,Kings Rebound,35-36,35,36
 0022000653,2021-03-22,CLE,SAC,12.0,1,0,0,SAC,,period_end,0,False,False,,,35-36,35,36
 0022000653,2021-03-22,CLE,SAC,12.0,2,12,0,SAC,,period_start,0,False,False,,,35-36,35,36
 0022000653,2021-03-22,CLE,SAC,12.23,2,11,46,SAC,SAC,fg_miss,3,True,False,,MISS Whiteside 9' Hook Shot,35-36,35,36
@@ -171,8 +171,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000653,2021-03-22,CLE,SAC,18.72,2,5,17,SAC,SAC,fg3_miss,1,False,False,,MISS Joseph 3PT Jump Shot,52-49,52,49
 0022000653,2021-03-22,CLE,SAC,18.8,2,5,12,SAC,SAC,reb,0,False,False,,Holmes REBOUND (Off:1 Def:4),52-49,52,49
 0022000653,2021-03-22,CLE,SAC,18.82,2,5,11,SAC,SAC,fg_miss,72,True,False,,MISS Holmes 2' Putback Layup,52-49,52,49
-0022000653,2021-03-22,CLE,SAC,18.82,2,5,11,SAC,SAC,reb,0,False,False,,Kings Rebound,52-49,52,49
 0022000653,2021-03-22,CLE,SAC,18.82,2,5,11,SAC,CLE,block,72,True,False,block,block,52-49,52,49
+0022000653,2021-03-22,CLE,SAC,18.82,2,5,11,SAC,SAC,reb,0,False,False,,Kings Rebound,52-49,52,49
 0022000653,2021-03-22,CLE,SAC,18.98,2,5,1,SAC,SAC,fg3_make,79,False,False,,Hield 26' 3PT Pullup Jump Shot (8 PTS),52-52,52,52
 0022000653,2021-03-22,CLE,SAC,19.3,2,4,42,CLE,CLE,fg_miss,1,False,False,MISS Nance Jr. 16' Jump Shot,,52-52,52,52
 0022000653,2021-03-22,CLE,SAC,19.35,2,4,39,SAC,SAC,reb,0,False,False,,Holmes REBOUND (Off:1 Def:5),52-52,52,52
@@ -267,9 +267,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000653,2021-03-22,CLE,SAC,31.07,3,4,56,SAC,SAC,fg_miss,80,False,False,,MISS Hield 16' Step Back Jump Shot,68-81,68,81
 0022000653,2021-03-22,CLE,SAC,31.12,3,4,53,CLE,CLE,reb,0,False,False,Nance Jr. REBOUND (Off:0 Def:4),,68-81,68,81
 0022000653,2021-03-22,CLE,SAC,31.48,3,4,31,CLE,CLE,fg_miss,5,True,False,MISS Allen 1' Layup,,68-81,68,81
+0022000653,2021-03-22,CLE,SAC,31.48,3,4,31,CLE,SAC,block,5,True,False,block,block,68-81,68,81
 0022000653,2021-03-22,CLE,SAC,31.48,3,4,31,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,68-81,68,81
 0022000653,2021-03-22,CLE,SAC,31.48,3,4,31,CLE,CLE,tov,11,False,False,CAVALIERS Turnover: Shot Clock (T#7),,68-81,68,81
-0022000653,2021-03-22,CLE,SAC,31.48,3,4,31,CLE,SAC,block,5,True,False,block,block,68-81,68,81
 0022000653,2021-03-22,CLE,SAC,31.7,3,4,18,SAC,SAC,fg_miss,79,False,False,,MISS Fox 14' Pullup Jump Shot,68-81,68,81
 0022000653,2021-03-22,CLE,SAC,31.75,3,4,15,SAC,SAC,reb,0,False,False,,Holmes REBOUND (Off:3 Def:10),68-81,68,81
 0022000653,2021-03-22,CLE,SAC,31.87,3,4,8,SAC,SAC,fg_miss,6,False,False,,MISS Hield 1' Driving Layup,68-81,68,81
@@ -307,8 +307,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000653,2021-03-22,CLE,SAC,35.48,3,0,31,SAC,SAC,ft_make,11,False,False,,Joseph Free Throw 1 of 2 (6 PTS),74-89,74,89
 0022000653,2021-03-22,CLE,SAC,35.48,3,0,31,SAC,SAC,ft_make,12,False,False,,Joseph Free Throw 2 of 2 (7 PTS),74-90,74,90
 0022000653,2021-03-22,CLE,SAC,35.78,3,0,13,CLE,CLE,fg_miss,101,True,False,MISS Stevens 12' Driving Floating Jump Shot,,74-90,74,90
-0022000653,2021-03-22,CLE,SAC,35.78,3,0,13,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,74-90,74,90
 0022000653,2021-03-22,CLE,SAC,35.78,3,0,13,CLE,SAC,block,101,True,False,block,block,74-90,74,90
+0022000653,2021-03-22,CLE,SAC,35.78,3,0,13,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,74-90,74,90
 0022000653,2021-03-22,CLE,SAC,35.87,3,0,8,CLE,SAC,foul,2,False,False,,Whiteside S.FOUL (P1.T4) (D.Scott),74-90,74,90
 0022000653,2021-03-22,CLE,SAC,35.87,3,0,8,CLE,CLE,ft_make,11,False,False,McGee Free Throw 1 of 2 (13 PTS),,75-90,75,90
 0022000653,2021-03-22,CLE,SAC,35.87,3,0,8,CLE,CLE,ft_make,12,False,False,McGee Free Throw 2 of 2 (14 PTS),,76-90,76,90
@@ -340,8 +340,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000653,2021-03-22,CLE,SAC,38.35,4,9,39,SAC,SAC,fg_miss,63,False,False,,MISS Fox 13' Fadeaway Jumper,85-95,85,95
 0022000653,2021-03-22,CLE,SAC,38.43,4,9,34,SAC,SAC,reb,0,False,False,,Whiteside REBOUND (Off:4 Def:2),85-95,85,95
 0022000653,2021-03-22,CLE,SAC,38.43,4,9,34,SAC,SAC,fg_miss,97,True,False,,MISS Whiteside Tip Layup Shot,85-95,85,95
-0022000653,2021-03-22,CLE,SAC,38.43,4,9,34,CLE,CLE,reb,0,False,False,Stevens REBOUND (Off:0 Def:1),,85-95,85,95
 0022000653,2021-03-22,CLE,SAC,38.43,4,9,34,SAC,CLE,block,97,True,False,block,block,85-95,85,95
+0022000653,2021-03-22,CLE,SAC,38.43,4,9,34,CLE,CLE,reb,0,False,False,Stevens REBOUND (Off:0 Def:1),,85-95,85,95
 0022000653,2021-03-22,CLE,SAC,38.55,4,9,27,CLE,SAC,foul,2,False,False,,Whiteside S.FOUL (P2.T1) (D.Guthrie),85-95,85,95
 0022000653,2021-03-22,CLE,SAC,38.55,4,9,27,CLE,CLE,ft_make,11,False,False,McGee Free Throw 1 of 2 (17 PTS),,86-95,86,95
 0022000653,2021-03-22,CLE,SAC,38.55,4,9,27,CLE,CLE,ft_make,12,False,False,McGee Free Throw 2 of 2 (18 PTS),,87-95,87,95
@@ -395,11 +395,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000653,2021-03-22,CLE,SAC,44.33,4,3,40,CLE,CLE,reb,0,False,False,Allen REBOUND (Off:2 Def:7),,94-109,94,109
 0022000653,2021-03-22,CLE,SAC,44.33,4,3,40,CLE,SAC,foul,2,False,False,,Fox S.FOUL (P4.PN) (D.Guthrie),94-109,94,109
 0022000653,2021-03-22,CLE,SAC,44.33,4,3,40,CLE,CLE,ft_make,11,False,False,Allen Free Throw 1 of 2 (11 PTS),,95-109,95,109
-0022000653,2021-03-22,CLE,SAC,44.33,4,3,40,CLE,CLE,ft_miss,12,False,False,MISS Allen Free Throw 2 of 2,,95-109,95,109
 0022000653,2021-03-22,CLE,SAC,44.33,4,3,40,SAC,SAC,timeout,1,False,False,,Kings Timeout: Regular (Reg.5 Short 0),95-109,95,109
 0022000653,2021-03-22,CLE,SAC,44.33,4,3,40,SAC,,foul,11,False,False,,,95-109,95,109
 0022000653,2021-03-22,CLE,SAC,44.33,4,3,40,SAC,SAC,ft_miss,16,False,False,,MISS Hield Free Throw Technical,95-109,95,109
 0022000653,2021-03-22,CLE,SAC,44.33,4,3,40,CLE,CLE,reb,1,False,False,CAVALIERS Rebound,,95-109,95,109
+0022000653,2021-03-22,CLE,SAC,44.33,4,3,40,CLE,CLE,ft_miss,12,False,False,MISS Allen Free Throw 2 of 2,,95-109,95,109
 0022000653,2021-03-22,CLE,SAC,44.38,4,3,37,SAC,SAC,reb,0,False,False,,Holmes REBOUND (Off:3 Def:12),95-109,95,109
 0022000653,2021-03-22,CLE,SAC,44.7,4,3,18,SAC,SAC,fg3_make,1,False,False,,Haliburton 3PT Jump Shot (28 PTS) (Barnes 8 AST),95-112,95,112
 0022000653,2021-03-22,CLE,SAC,44.9,4,3,6,CLE,CLE,fg3_miss,79,False,False,MISS Sexton 26' 3PT Pullup Jump Shot,,95-112,95,112

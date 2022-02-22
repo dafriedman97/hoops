@@ -94,10 +94,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000044,2020-12-28,DEN,HOU,10.75,1,1,15,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,30-26,30,26
 0022000044,2020-12-28,DEN,HOU,10.95,1,1,3,DEN,DEN,fg_make,78,False,False,Hartenstein 7' Floating Jump Shot (2 PTS) (Morris 2 AST),,32-26,32,26
 0022000044,2020-12-28,DEN,HOU,11.23,1,0,46,HOU,HOU,tov,2,False,True,,Thomas Lost Ball Turnover (P1.T4),32-26,32,26
+0022000044,2020-12-28,DEN,HOU,11.23,1,0,46,HOU,DEN,steal,2,False,True,steal,steal,32-26,32,26
 0022000044,2020-12-28,DEN,HOU,11.23,1,0,46,DEN,HOU,foul,1,False,False,,Thomas P.FOUL (P1.PN) (K.Mauer),32-26,32,26
 0022000044,2020-12-28,DEN,HOU,11.23,1,0,46,DEN,DEN,ft_miss,11,False,False,MISS Hartenstein Free Throw 1 of 2,,32-26,32,26
 0022000044,2020-12-28,DEN,HOU,11.23,1,0,46,DEN,DEN,reb,1,False,False,NUGGETS Rebound,,32-26,32,26
-0022000044,2020-12-28,DEN,HOU,11.23,1,0,46,HOU,DEN,steal,2,False,True,steal,steal,32-26,32,26
 0022000044,2020-12-28,DEN,HOU,11.23,1,0,46,DEN,DEN,ft_make,12,False,False,Hartenstein Free Throw 2 of 2 (3 PTS),,33-26,33,26
 0022000044,2020-12-28,DEN,HOU,11.52,1,0,29,,DEN,jump_ball,0,False,False,Jump Ball Hartenstein vs. Thomas: Tip to Murray,,33-26,33,26
 0022000044,2020-12-28,DEN,HOU,11.52,1,0,29,HOU,HOU,tov,2,False,True,,Thomas Lost Ball Turnover (P2.T5),33-26,33,26
@@ -130,8 +130,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000044,2020-12-28,DEN,HOU,13.02,2,10,59,DEN,DEN,reb,0,False,False,Barton REBOUND (Off:0 Def:1),,40-26,40,26
 0022000044,2020-12-28,DEN,HOU,13.13,2,10,52,DEN,DEN,fg_make,78,False,False,Barton 3' Floating Jump Shot (4 PTS) (Morris 4 AST),,42-26,42,26
 0022000044,2020-12-28,DEN,HOU,13.28,2,10,43,HOU,HOU,fg_miss,6,True,False,,MISS House Jr. 5' Driving Layup,42-26,42,26
-0022000044,2020-12-28,DEN,HOU,13.28,2,10,43,HOU,HOU,reb,0,False,False,,Rockets Rebound,42-26,42,26
 0022000044,2020-12-28,DEN,HOU,13.28,2,10,43,HOU,DEN,block,6,True,False,block,block,42-26,42,26
+0022000044,2020-12-28,DEN,HOU,13.28,2,10,43,HOU,HOU,reb,0,False,False,,Rockets Rebound,42-26,42,26
 0022000044,2020-12-28,DEN,HOU,13.38,2,10,37,HOU,HOU,fg3_miss,79,False,False,,MISS Tate 26' 3PT Pullup Jump Shot,42-26,42,26
 0022000044,2020-12-28,DEN,HOU,13.43,2,10,34,HOU,HOU,reb,0,False,False,,Nwaba REBOUND (Off:1 Def:1),42-26,42,26
 0022000044,2020-12-28,DEN,HOU,13.45,2,10,33,HOU,HOU,fg3_miss,1,False,False,,MISS Harden 27' 3PT Jump Shot,42-26,42,26
@@ -346,8 +346,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000044,2020-12-28,DEN,HOU,36.82,4,11,11,DEN,DEN,reb,0,False,False,Murray REBOUND (Off:2 Def:3),,106-83,106,83
 0022000044,2020-12-28,DEN,HOU,37.0,4,11,0,DEN,DEN,fg_make,75,False,False,Morris 5' Driving Finger Roll Layup (10 PTS),,108-83,108,83
 0022000044,2020-12-28,DEN,HOU,37.22,4,10,47,HOU,HOU,fg_miss,6,True,False,,MISS Tate 5' Driving Layup,108-83,108,83
-0022000044,2020-12-28,DEN,HOU,37.22,4,10,47,HOU,HOU,reb,0,False,False,,Rockets Rebound,108-83,108,83
 0022000044,2020-12-28,DEN,HOU,37.22,4,10,47,HOU,DEN,block,6,True,False,block,block,108-83,108,83
+0022000044,2020-12-28,DEN,HOU,37.22,4,10,47,HOU,HOU,reb,0,False,False,,Rockets Rebound,108-83,108,83
 0022000044,2020-12-28,DEN,HOU,37.37,4,10,38,HOU,HOU,fg_miss,47,False,False,,MISS Wood 18' Turnaround Jump Shot,108-83,108,83
 0022000044,2020-12-28,DEN,HOU,37.37,4,10,38,HOU,HOU,reb,0,False,False,,Rockets Rebound,108-83,108,83
 0022000044,2020-12-28,DEN,HOU,37.37,4,10,38,HOU,DEN,foul,3,False,False,Dozier L.B.FOUL (P1.T1) (D.Richardson),,108-83,108,83

@@ -15,8 +15,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700146,2017-11-06,ATL,BOS,2.18,1,9,49,ATL,ATL,fg_miss,6,False,False,MISS Prince 7' Driving Layup,,4-5,4,5
 0021700146,2017-11-06,ATL,BOS,2.25,1,9,45,BOS,BOS,reb,0,False,False,,Horford REBOUND (Off:0 Def:2),4-5,4,5
 0021700146,2017-11-06,ATL,BOS,2.27,1,9,44,BOS,BOS,fg_miss,41,True,False,,MISS Tatum 3' Running Layup,4-5,4,5
-0021700146,2017-11-06,ATL,BOS,2.27,1,9,44,BOS,BOS,reb,0,False,False,,Celtics Rebound,4-5,4,5
 0021700146,2017-11-06,ATL,BOS,2.27,1,9,44,BOS,ATL,block,41,True,False,block,block,4-5,4,5
+0021700146,2017-11-06,ATL,BOS,2.27,1,9,44,BOS,BOS,reb,0,False,False,,Celtics Rebound,4-5,4,5
 0021700146,2017-11-06,ATL,BOS,2.32,1,9,41,BOS,BOS,fg_miss,79,False,False,,MISS Irving 14' Pullup Jump Shot,4-5,4,5
 0021700146,2017-11-06,ATL,BOS,2.37,1,9,38,ATL,ATL,reb,0,False,False,Babbitt REBOUND (Off:0 Def:1),,4-5,4,5
 0021700146,2017-11-06,ATL,BOS,2.48,1,9,31,ATL,BOS,foul,1,False,False,,Irving P.FOUL (P1.T2) (E.Dalen),4-5,4,5
@@ -128,8 +128,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700146,2017-11-06,ATL,BOS,12.42,2,11,35,BOS,ATL,foul,11,False,False,Bazemore T.FOUL (P2.T1) (M.Davis),,25-28,25,28
 0021700146,2017-11-06,ATL,BOS,12.42,2,11,35,BOS,BOS,ft_make,16,False,False,,Smart Free Throw Technical (6 PTS),25-29,25,29
 0021700146,2017-11-06,ATL,BOS,12.68,2,11,19,BOS,BOS,tov,2,False,True,,Rozier Lost Ball Turnover (P1.T5),25-29,25,29
-0021700146,2017-11-06,ATL,BOS,12.68,2,11,19,ATL,BOS,foul,1,False,False,,Rozier P.FOUL (P1.T1) (M.Davis),25-29,25,29
 0021700146,2017-11-06,ATL,BOS,12.68,2,11,19,BOS,ATL,steal,2,False,True,steal,steal,25-29,25,29
+0021700146,2017-11-06,ATL,BOS,12.68,2,11,19,ATL,BOS,foul,1,False,False,,Rozier P.FOUL (P1.T1) (M.Davis),25-29,25,29
 0021700146,2017-11-06,ATL,BOS,12.88,2,11,7,ATL,ATL,fg_make,101,False,False,Taylor 12' Driving Floating Jump Shot (4 PTS),,27-29,27,29
 0021700146,2017-11-06,ATL,BOS,13.07,2,10,56,BOS,BOS,fg_make,1,False,False,,Baynes 19' Jump Shot (2 PTS) (Rozier 1 AST),27-31,27,31
 0021700146,2017-11-06,ATL,BOS,13.35,2,10,39,ATL,ATL,fg3_make,1,False,False,Schroder 25' 3PT Jump Shot (5 PTS) (Dedmon 1 AST),,30-31,30,31
@@ -168,8 +168,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700146,2017-11-06,ATL,BOS,18.28,2,5,43,ATL,ATL,tov,1,False,True,Schroder Bad Pass Turnover (P2.T8),,44-40,44,40
 0021700146,2017-11-06,ATL,BOS,18.28,2,5,43,ATL,BOS,steal,1,False,True,steal,steal,44-40,44,40
 0021700146,2017-11-06,ATL,BOS,18.35,2,5,39,BOS,BOS,fg_miss,41,True,False,,MISS Tatum 2' Running Layup,44-40,44,40
-0021700146,2017-11-06,ATL,BOS,18.35,2,5,39,BOS,BOS,reb,0,False,False,,Celtics Rebound,44-40,44,40
 0021700146,2017-11-06,ATL,BOS,18.35,2,5,39,BOS,ATL,block,41,True,False,block,block,44-40,44,40
+0021700146,2017-11-06,ATL,BOS,18.35,2,5,39,BOS,BOS,reb,0,False,False,,Celtics Rebound,44-40,44,40
 0021700146,2017-11-06,ATL,BOS,18.45,2,5,33,BOS,BOS,fg_miss,5,True,False,,MISS Brown 1' Layup,44-40,44,40
 0021700146,2017-11-06,ATL,BOS,18.45,2,5,33,BOS,ATL,block,5,True,False,block,block,44-40,44,40
 0021700146,2017-11-06,ATL,BOS,18.52,2,5,29,ATL,ATL,reb,0,False,False,Dedmon REBOUND (Off:1 Def:4),,44-40,44,40
@@ -288,8 +288,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700146,2017-11-06,ATL,BOS,34.65,3,1,21,BOS,BOS,reb,0,False,False,,Ojeleye REBOUND (Off:0 Def:2),75-80,75,80
 0021700146,2017-11-06,ATL,BOS,34.98,3,1,1,BOS,BOS,tov,11,False,False,,Celtics Turnover: Shot Clock (T#11),75-80,75,80
 0021700146,2017-11-06,ATL,BOS,35.18,3,0,49,ATL,ATL,fg_miss,6,True,False,MISS Schroder 2' Driving Layup,,75-80,75,80
-0021700146,2017-11-06,ATL,BOS,35.18,3,0,49,BOS,BOS,tov,2,False,True,,Smart Lost Ball Turnover (P3.T12),75-80,75,80
 0021700146,2017-11-06,ATL,BOS,35.18,3,0,49,ATL,BOS,block,6,True,False,block,block,75-80,75,80
+0021700146,2017-11-06,ATL,BOS,35.18,3,0,49,BOS,BOS,tov,2,False,True,,Smart Lost Ball Turnover (P3.T12),75-80,75,80
 0021700146,2017-11-06,ATL,BOS,35.18,3,0,49,BOS,ATL,steal,2,False,True,steal,steal,75-80,75,80
 0021700146,2017-11-06,ATL,BOS,35.25,3,0,45,BOS,BOS,reb,0,False,False,,Smart REBOUND (Off:2 Def:2),75-80,75,80
 0021700146,2017-11-06,ATL,BOS,35.52,3,0,29,ATL,ATL,fg_miss,1,False,False,MISS Collins 1' Jump Shot,,75-80,75,80

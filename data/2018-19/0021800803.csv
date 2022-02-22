@@ -18,8 +18,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800803,2019-02-05,POR,MIA,1.62,1,10,23,MIA,MIA,fg3_make,1,False,False,,Richardson 25' 3PT Jump Shot (3 PTS) (Winslow 1 AST),2-7,2,7
 0021800803,2019-02-05,POR,MIA,2.0,1,10,0,POR,POR,fg_make,79,False,False,Lillard 22' Pullup Jump Shot (2 PTS) (Aminu 1 AST),,4-7,4,7
 0021800803,2019-02-05,POR,MIA,2.32,1,9,41,MIA,MIA,fg_miss,101,True,False,,MISS Winslow 7' Driving Floating Jump Shot,4-7,4,7
-0021800803,2019-02-05,POR,MIA,2.32,1,9,41,MIA,MIA,reb,0,False,False,,Heat Rebound,4-7,4,7
 0021800803,2019-02-05,POR,MIA,2.32,1,9,41,MIA,POR,block,101,True,False,block,block,4-7,4,7
+0021800803,2019-02-05,POR,MIA,2.32,1,9,41,MIA,MIA,reb,0,False,False,,Heat Rebound,4-7,4,7
 0021800803,2019-02-05,POR,MIA,2.33,1,9,40,MIA,MIA,fg_make,1,False,False,,Richardson 9' Jump Shot (5 PTS) (Winslow 2 AST),4-9,4,9
 0021800803,2019-02-05,POR,MIA,2.53,1,9,28,POR,MIA,foul,2,False,False,,Whiteside S.FOUL (P1.T1) (J.Orr),4-9,4,9
 0021800803,2019-02-05,POR,MIA,2.53,1,9,28,POR,POR,ft_make,11,False,False,Nurkic Free Throw 1 of 2 (1 PTS),,5-9,5,9
@@ -88,11 +88,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800803,2019-02-05,POR,MIA,10.52,1,1,29,POR,MIA,steal,2,False,True,steal,steal,26-29,26,29
 0021800803,2019-02-05,POR,MIA,10.63,1,1,22,MIA,MIA,fg3_make,1,False,False,,Waiters 3PT Jump Shot (3 PTS) (Wade 2 AST),26-32,26,32
 0021800803,2019-02-05,POR,MIA,10.98,1,1,1,POR,POR,fg_miss,5,True,False,MISS Turner 3' Layup,,26-32,26,32
-0021800803,2019-02-05,POR,MIA,10.98,1,1,1,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,26-32,26,32
 0021800803,2019-02-05,POR,MIA,10.98,1,1,1,POR,MIA,block,5,True,False,block,block,26-32,26,32
+0021800803,2019-02-05,POR,MIA,10.98,1,1,1,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,26-32,26,32
 0021800803,2019-02-05,POR,MIA,11.1,1,0,54,POR,POR,fg_miss,6,True,False,MISS Turner 2' Driving Layup,,26-32,26,32
-0021800803,2019-02-05,POR,MIA,11.1,1,0,54,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,26-32,26,32
 0021800803,2019-02-05,POR,MIA,11.1,1,0,54,POR,MIA,block,6,True,False,block,block,26-32,26,32
+0021800803,2019-02-05,POR,MIA,11.1,1,0,54,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,26-32,26,32
 0021800803,2019-02-05,POR,MIA,11.18,1,0,49,POR,POR,fg_miss,86,False,False,MISS Leonard 22' Turnaround Fadeaway Shot,,26-32,26,32
 0021800803,2019-02-05,POR,MIA,11.18,1,0,49,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,26-32,26,32
 0021800803,2019-02-05,POR,MIA,11.18,1,0,49,POR,POR,tov,11,False,False,TRAIL BLAZERS Turnover: Shot Clock (T#4),,26-32,26,32
@@ -104,9 +104,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800803,2019-02-05,POR,MIA,11.98,1,0,1,POR,POR,fg_make,98,False,False,Turner Cutting Layup Shot (4 PTS) (Lillard 3 AST),,30-34,30,34
 0021800803,2019-02-05,POR,MIA,12.0,1,0,0,MIA,MIA,tov,4,False,False,,Johnson Traveling Turnover (P1.T5),30-34,30,34
 0021800803,2019-02-05,POR,MIA,12.0,1,0,0,POR,POR,tov,1,False,True,Turner Bad Pass Turnover (P1.T5),,30-34,30,34
+0021800803,2019-02-05,POR,MIA,12.0,1,0,0,POR,MIA,steal,1,False,True,steal,steal,30-34,30,34
 0021800803,2019-02-05,POR,MIA,12.0,1,0,0,POR,,period_end,0,False,False,,,30-34,30,34
 0021800803,2019-02-05,POR,MIA,12.0,2,12,0,POR,,period_start,0,False,False,,,30-34,30,34
-0021800803,2019-02-05,POR,MIA,12.0,1,0,0,POR,MIA,steal,1,False,True,steal,steal,30-34,30,34
 0021800803,2019-02-05,POR,MIA,12.28,2,11,43,POR,POR,fg_miss,79,False,False,MISS Layman 20' Pullup Jump Shot,,30-34,30,34
 0021800803,2019-02-05,POR,MIA,12.35,2,11,39,MIA,MIA,reb,0,False,False,,Johnson REBOUND (Off:0 Def:1),30-34,30,34
 0021800803,2019-02-05,POR,MIA,12.53,2,11,28,MIA,MIA,fg_make,44,False,False,,Johnson 1' Reverse Layup (2 PTS) (Wade 3 AST),30-36,30,36
@@ -172,8 +172,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800803,2019-02-05,POR,MIA,19.75,2,4,15,MIA,POR,foul,1,False,False,Nurkic P.FOUL (P1.T2) (R.Mott),,44-52,44,52
 0021800803,2019-02-05,POR,MIA,19.87,2,4,8,MIA,MIA,fg_make,6,False,False,,Winslow 2' Driving Layup (5 PTS),44-54,44,54
 0021800803,2019-02-05,POR,MIA,20.05,2,3,57,POR,POR,fg_miss,6,True,False,MISS Lillard 2' Driving Layup,,44-54,44,54
-0021800803,2019-02-05,POR,MIA,20.05,2,3,57,MIA,MIA,reb,0,False,False,,Heat Rebound,44-54,44,54
 0021800803,2019-02-05,POR,MIA,20.05,2,3,57,POR,MIA,block,6,True,False,block,block,44-54,44,54
+0021800803,2019-02-05,POR,MIA,20.05,2,3,57,MIA,MIA,reb,0,False,False,,Heat Rebound,44-54,44,54
 0021800803,2019-02-05,POR,MIA,20.15,2,3,51,MIA,MIA,fg_make,98,False,False,,Johnson 2' Cutting Layup Shot (2 PTS) (Johnson 2 AST),44-56,44,56
 0021800803,2019-02-05,POR,MIA,20.43,2,3,34,POR,POR,fg_miss,1,False,False,MISS McCollum 12' Jump Shot,,44-56,44,56
 0021800803,2019-02-05,POR,MIA,20.45,2,3,33,MIA,MIA,reb,0,False,False,,Whiteside REBOUND (Off:2 Def:3),44-56,44,56
@@ -287,8 +287,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800803,2019-02-05,POR,MIA,33.67,3,2,20,MIA,MIA,reb,0,False,False,,Wade REBOUND (Off:0 Def:5),77-88,77,88
 0021800803,2019-02-05,POR,MIA,33.8,3,2,12,MIA,MIA,fg_make,102,False,False,,Wade 12' Driving Floating Bank Jump Shot (14 PTS),77-90,77,90
 0021800803,2019-02-05,POR,MIA,34.25,3,1,45,POR,POR,fg3_miss,1,False,False,MISS McCollum 29' 3PT Jump Shot,,77-90,77,90
-0021800803,2019-02-05,POR,MIA,34.25,3,1,45,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,77-90,77,90
 0021800803,2019-02-05,POR,MIA,34.25,3,1,45,POR,POR,tov,11,False,False,TRAIL BLAZERS Turnover: Shot Clock (T#12),,77-90,77,90
+0021800803,2019-02-05,POR,MIA,34.25,3,1,45,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,77-90,77,90
 0021800803,2019-02-05,POR,MIA,34.52,3,1,29,MIA,MIA,fg3_miss,1,False,False,,MISS Waiters 25' 3PT Jump Shot,77-90,77,90
 0021800803,2019-02-05,POR,MIA,34.55,3,1,27,POR,POR,reb,0,False,False,Turner REBOUND (Off:0 Def:1),,77-90,77,90
 0021800803,2019-02-05,POR,MIA,34.63,3,1,22,POR,POR,fg3_miss,1,False,False,MISS Lillard 28' 3PT Jump Shot,,77-90,77,90
@@ -363,8 +363,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800803,2019-02-05,POR,MIA,43.77,4,4,14,MIA,MIA,fg_miss,101,False,False,,MISS Johnson 11' Driving Floating Jump Shot,103-106,103,106
 0021800803,2019-02-05,POR,MIA,43.8,4,4,12,POR,POR,reb,0,False,False,Layman REBOUND (Off:0 Def:6),,103-106,103,106
 0021800803,2019-02-05,POR,MIA,44.02,4,3,59,POR,POR,tov,1,False,True,Lillard Bad Pass Turnover (P4.T13),,103-106,103,106
-0021800803,2019-02-05,POR,MIA,44.02,4,3,59,MIA,POR,foul,3,False,False,Layman L.B.FOUL (P1.PN) (J.Orr),,103-106,103,106
 0021800803,2019-02-05,POR,MIA,44.02,4,3,59,POR,MIA,steal,1,False,True,steal,steal,103-106,103,106
+0021800803,2019-02-05,POR,MIA,44.02,4,3,59,MIA,POR,foul,3,False,False,Layman L.B.FOUL (P1.PN) (J.Orr),,103-106,103,106
 0021800803,2019-02-05,POR,MIA,44.02,4,3,59,MIA,MIA,ft_make,11,False,False,,Johnson Free Throw 1 of 2 (12 PTS),103-107,103,107
 0021800803,2019-02-05,POR,MIA,44.02,4,3,59,MIA,MIA,ft_make,12,False,False,,Johnson Free Throw 2 of 2 (13 PTS),103-108,103,108
 0021800803,2019-02-05,POR,MIA,44.22,4,3,47,POR,POR,fg3_miss,1,False,False,MISS Leonard 30' 3PT Jump Shot,,103-108,103,108

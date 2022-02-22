@@ -178,9 +178,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000217,2021-01-20,IND,DAL,19.78,2,4,13,DAL,DAL,fg_make,98,False,False,,Green 2' Cutting Layup Shot (6 PTS) (Doncic 6 AST),49-55,49,55
 0022000217,2021-01-20,IND,DAL,19.9,2,4,6,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 2 Short 0),,49-55,49,55
 0022000217,2021-01-20,IND,DAL,20.0,2,4,0,IND,IND,fg3_miss,1,True,False,MISS McDermott 24' 3PT Jump Shot,,49-55,49,55
+0022000217,2021-01-20,IND,DAL,20.0,2,4,0,IND,DAL,block,1,True,False,block,block,49-55,49,55
 0022000217,2021-01-20,IND,DAL,20.0,2,4,0,DAL,DAL,reb,0,False,False,,Brunson REBOUND (Off:0 Def:2),49-55,49,55
 0022000217,2021-01-20,IND,DAL,20.0,2,4,0,DAL,IND,foul,1,False,False,Sabonis P.FOUL (P3.PN) (T.Washington),,49-55,49,55
-0022000217,2021-01-20,IND,DAL,20.0,2,4,0,IND,DAL,block,1,True,False,block,block,49-55,49,55
 0022000217,2021-01-20,IND,DAL,20.0,2,4,0,DAL,DAL,ft_make,11,False,False,,Brunson Free Throw 1 of 2 (4 PTS),49-56,49,56
 0022000217,2021-01-20,IND,DAL,20.0,2,4,0,DAL,DAL,ft_make,12,False,False,,Brunson Free Throw 2 of 2 (5 PTS),49-57,49,57
 0022000217,2021-01-20,IND,DAL,20.02,2,3,59,IND,IND,tov,45,False,False,Sabonis Out of Bounds - Bad Pass Turnover Turnover (P3.T5),,49-57,49,57
@@ -218,9 +218,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000217,2021-01-20,IND,DAL,23.88,2,0,7,IND,IND,reb,0,False,False,Sampson REBOUND (Off:3 Def:3),,61-65,61,65
 0022000217,2021-01-20,IND,DAL,23.88,2,0,7,IND,IND,fg_make,97,False,False,Sampson Tip Layup Shot (2 PTS),,63-65,63,65
 0022000217,2021-01-20,IND,DAL,24.0,2,0,0,DAL,DAL,tov,2,False,True,,Doncic Lost Ball Turnover (P1.T4),63-65,63,65
+0022000217,2021-01-20,IND,DAL,24.0,2,0,0,DAL,IND,steal,2,False,True,steal,steal,63-65,63,65
 0022000217,2021-01-20,IND,DAL,24.0,2,0,0,DAL,,period_end,0,False,False,,,63-65,63,65
 0022000217,2021-01-20,IND,DAL,24.0,3,12,0,DAL,,period_start,0,False,False,,,63-65,63,65
-0022000217,2021-01-20,IND,DAL,24.0,2,0,0,DAL,IND,steal,2,False,True,steal,steal,63-65,63,65
 0022000217,2021-01-20,IND,DAL,24.17,3,11,50,DAL,DAL,fg_make,73,False,False,,Doncic 1' Driving Reverse Layup (9 PTS),63-67,63,67
 0022000217,2021-01-20,IND,DAL,24.42,3,11,35,IND,IND,tov,15,False,False,Sumner Offensive Goaltending Turnover (P1.T6),,63-67,63,67
 0022000217,2021-01-20,IND,DAL,24.73,3,11,16,DAL,DAL,fg3_miss,1,False,False,,MISS Hardaway Jr. 29' 3PT Jump Shot,63-67,63,67
@@ -248,8 +248,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000217,2021-01-20,IND,DAL,27.52,3,8,29,DAL,DAL,fg_make,52,False,False,,Porzingis 2' Alley Oop Dunk (20 PTS) (Doncic 8 AST),70-74,70,74
 0022000217,2021-01-20,IND,DAL,27.88,3,8,7,IND,IND,fg_make,71,False,False,Sabonis 2' Finger Roll Layup (18 PTS) (Brogdon 2 AST),,72-74,72,74
 0022000217,2021-01-20,IND,DAL,28.17,3,7,50,DAL,DAL,fg_miss,6,True,False,,MISS Doncic 1' Driving Layup,72-74,72,74
-0022000217,2021-01-20,IND,DAL,28.17,3,7,50,DAL,DAL,reb,0,False,False,,Mavericks Rebound,72-74,72,74
 0022000217,2021-01-20,IND,DAL,28.17,3,7,50,DAL,IND,block,6,True,False,block,block,72-74,72,74
+0022000217,2021-01-20,IND,DAL,28.17,3,7,50,DAL,DAL,reb,0,False,False,,Mavericks Rebound,72-74,72,74
 0022000217,2021-01-20,IND,DAL,28.22,3,7,47,DAL,DAL,fg_make,66,False,False,,Porzingis 11' Jump Bank Shot (22 PTS) (Hardaway Jr. 2 AST),72-76,72,76
 0022000217,2021-01-20,IND,DAL,28.5,3,7,30,IND,IND,fg_make,75,False,False,McDermott 1' Driving Finger Roll Layup (11 PTS),,74-76,74,76
 0022000217,2021-01-20,IND,DAL,28.73,3,7,16,DAL,DAL,fg_make,75,False,False,,Doncic 1' Driving Finger Roll Layup (11 PTS),74-78,74,78

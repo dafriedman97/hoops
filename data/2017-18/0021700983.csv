@@ -8,8 +8,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700983,2018-03-09,DEN,LAL,1.8,1,10,12,LAL,LAL,fg_make,47,False,False,,Lopez 6' Turnaround Jump Shot (4 PTS),6-6,6,6
 0021700983,2018-03-09,DEN,LAL,2.02,1,9,59,DEN,DEN,fg_make,3,False,False,Jokic 6' Hook Shot (2 PTS) (Murray 1 AST),,8-6,8,6
 0021700983,2018-03-09,DEN,LAL,2.25,1,9,45,LAL,LAL,fg_miss,5,True,False,,MISS Randle 5' Layup,8-6,8,6
-0021700983,2018-03-09,DEN,LAL,2.25,1,9,45,LAL,LAL,reb,0,False,False,,Lakers Rebound,8-6,8,6
 0021700983,2018-03-09,DEN,LAL,2.25,1,9,45,LAL,DEN,block,5,True,False,block,block,8-6,8,6
+0021700983,2018-03-09,DEN,LAL,2.25,1,9,45,LAL,LAL,reb,0,False,False,,Lakers Rebound,8-6,8,6
 0021700983,2018-03-09,DEN,LAL,2.32,1,9,41,LAL,LAL,fg3_miss,1,False,False,,MISS Lopez 25' 3PT Jump Shot,8-6,8,6
 0021700983,2018-03-09,DEN,LAL,2.38,1,9,37,LAL,LAL,reb,0,False,False,,Caldwell-Pope REBOUND (Off:1 Def:0),8-6,8,6
 0021700983,2018-03-09,DEN,LAL,2.42,1,9,35,LAL,LAL,fg_miss,5,False,False,,MISS Randle 2' Layup,8-6,8,6
@@ -138,8 +138,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700983,2018-03-09,DEN,LAL,15.33,2,8,40,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 2 Short 0),,46-37,46,37
 0021700983,2018-03-09,DEN,LAL,15.33,2,8,40,DEN,LAL,ft_make,10,False,False,,Randle Free Throw 1 of 1 (9 PTS),46-38,46,38
 0021700983,2018-03-09,DEN,LAL,15.6,2,8,24,DEN,DEN,fg_miss,47,True,False,MISS Lyles 6' Turnaround Jump Shot,,46-38,46,38
-0021700983,2018-03-09,DEN,LAL,15.6,2,8,24,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,46-38,46,38
 0021700983,2018-03-09,DEN,LAL,15.6,2,8,24,DEN,LAL,block,47,True,False,block,block,46-38,46,38
+0021700983,2018-03-09,DEN,LAL,15.6,2,8,24,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,46-38,46,38
 0021700983,2018-03-09,DEN,LAL,15.62,2,8,23,DEN,LAL,foul,1,False,False,,Wear P.FOUL (P1.PN) (B.Kennedy),46-38,46,38
 0021700983,2018-03-09,DEN,LAL,15.62,2,8,23,DEN,DEN,ft_miss,11,False,False,MISS Plumlee Free Throw 1 of 2,,46-38,46,38
 0021700983,2018-03-09,DEN,LAL,15.62,2,8,23,DEN,DEN,reb,1,False,False,NUGGETS Rebound,,46-38,46,38
@@ -210,11 +210,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700983,2018-03-09,DEN,LAL,23.93,2,0,4,LAL,LAL,fg3_miss,1,False,False,,MISS Lopez 25' 3PT Jump Shot,65-62,65,62
 0021700983,2018-03-09,DEN,LAL,23.98,2,0,1,DEN,DEN,reb,0,False,False,Hernangomez REBOUND (Off:1 Def:1),,65-62,65,62
 0021700983,2018-03-09,DEN,LAL,24.0,2,0,0,DEN,DEN,tov,1,False,True,Hernangomez Bad Pass Turnover (P1.T6),,65-62,65,62
+0021700983,2018-03-09,DEN,LAL,24.0,2,0,0,DEN,LAL,steal,1,False,True,steal,steal,65-62,65,62
 0021700983,2018-03-09,DEN,LAL,24.0,2,0,0,LAL,LAL,fg3_miss,79,False,False,,MISS Ball 26' 3PT Pullup Jump Shot,65-62,65,62
 0021700983,2018-03-09,DEN,LAL,24.0,2,0,0,LAL,LAL,reb,0,False,False,,Lakers Rebound,65-62,65,62
 0021700983,2018-03-09,DEN,LAL,24.0,2,0,0,LAL,,period_end,0,False,False,,,65-62,65,62
 0021700983,2018-03-09,DEN,LAL,24.0,3,12,0,LAL,,period_start,0,False,False,,,65-62,65,62
-0021700983,2018-03-09,DEN,LAL,24.0,2,0,0,DEN,LAL,steal,1,False,True,steal,steal,65-62,65,62
 0021700983,2018-03-09,DEN,LAL,24.28,3,11,43,DEN,DEN,fg_make,102,False,False,Millsap 5' Driving Floating Bank Jump Shot (13 PTS) (Murray 5 AST),,67-62,67,62
 0021700983,2018-03-09,DEN,LAL,24.67,3,11,20,LAL,LAL,tov,2,False,True,,Randle Lost Ball Turnover (P2.T8),67-62,67,62
 0021700983,2018-03-09,DEN,LAL,24.67,3,11,20,LAL,DEN,steal,2,False,True,steal,steal,67-62,67,62
@@ -422,8 +422,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700983,2018-03-09,DEN,LAL,47.33,4,0,40,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:3 Def:3),,119-116,119,116
 0021700983,2018-03-09,DEN,LAL,47.33,4,0,40,DEN,DEN,fg_make,97,False,False,Jokic 1' Tip Layup Shot (21 PTS),,121-116,121,116
 0021700983,2018-03-09,DEN,LAL,47.43,4,0,34,LAL,LAL,fg_miss,41,True,False,,MISS Ball 3' Running Layup,121-116,121,116
-0021700983,2018-03-09,DEN,LAL,47.43,4,0,34,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,121-116,121,116
 0021700983,2018-03-09,DEN,LAL,47.43,4,0,34,LAL,DEN,block,41,True,False,block,block,121-116,121,116
+0021700983,2018-03-09,DEN,LAL,47.43,4,0,34,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,121-116,121,116
 0021700983,2018-03-09,DEN,LAL,47.5,4,0,30,,DEN,jump_ball,0,False,False,Jump Ball Jokic vs. Lopez: Tip to Murray,,121-116,121,116
 0021700983,2018-03-09,DEN,LAL,47.52,4,0,29,DEN,LAL,foul,1,False,False,,Caldwell-Pope P.FOUL (P2.PN) (R.Garretson),121-116,121,116
 0021700983,2018-03-09,DEN,LAL,47.52,4,0,29,DEN,DEN,ft_make,10,False,False,Murray Free Throw 1 of 1 (19 PTS),,122-116,122,116

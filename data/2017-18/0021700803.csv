@@ -105,8 +105,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700803,2018-02-06,GSW,OKC,10.78,1,1,13,GSW,GSW,fg_make,79,False,False,Durant 12' Pullup Jump Shot (17 PTS),,28-39,28,39
 0021700803,2018-02-06,GSW,OKC,10.98,1,1,1,OKC,OKC,fg3_make,79,False,False,,Westbrook 25' 3PT Pullup Jump Shot (21 PTS),28-42,28,42
 0021700803,2018-02-06,GSW,OKC,11.2,1,0,48,GSW,GSW,fg_miss,5,True,False,MISS Looney 3' Layup,,28-42,28,42
-0021700803,2018-02-06,GSW,OKC,11.2,1,0,48,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,28-42,28,42
 0021700803,2018-02-06,GSW,OKC,11.2,1,0,48,GSW,OKC,block,5,True,False,block,block,28-42,28,42
+0021700803,2018-02-06,GSW,OKC,11.2,1,0,48,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,28-42,28,42
 0021700803,2018-02-06,GSW,OKC,11.23,1,0,46,,GSW,jump_ball,0,False,False,Jump Ball Looney vs. Grant: Tip to McCaw,,28-42,28,42
 0021700803,2018-02-06,GSW,OKC,11.3,1,0,42,GSW,GSW,fg_miss,5,True,False,MISS Curry 4' Layup,,28-42,28,42
 0021700803,2018-02-06,GSW,OKC,11.3,1,0,42,GSW,OKC,block,5,True,False,block,block,28-42,28,42
@@ -222,8 +222,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700803,2018-02-06,GSW,OKC,22.07,2,1,56,GSW,GSW,fg_miss,97,False,False,MISS Iguodala 1' Tip Layup Shot,,48-64,48,64
 0021700803,2018-02-06,GSW,OKC,22.07,2,1,56,OKC,OKC,reb,0,False,False,,Huestis REBOUND (Off:1 Def:4),48-64,48,64
 0021700803,2018-02-06,GSW,OKC,22.13,2,1,52,OKC,OKC,fg_miss,6,True,False,,MISS George 2' Driving Layup,48-64,48,64
-0021700803,2018-02-06,GSW,OKC,22.13,2,1,52,OKC,OKC,reb,0,False,False,,Thunder Rebound,48-64,48,64
 0021700803,2018-02-06,GSW,OKC,22.13,2,1,52,OKC,GSW,block,6,True,False,block,block,48-64,48,64
+0021700803,2018-02-06,GSW,OKC,22.13,2,1,52,OKC,OKC,reb,0,False,False,,Thunder Rebound,48-64,48,64
 0021700803,2018-02-06,GSW,OKC,22.28,2,1,43,OKC,OKC,fg_miss,6,False,False,,MISS Patterson 7' Driving Layup,48-64,48,64
 0021700803,2018-02-06,GSW,OKC,22.32,2,1,41,OKC,OKC,reb,0,False,False,,Patterson REBOUND (Off:1 Def:2),48-64,48,64
 0021700803,2018-02-06,GSW,OKC,22.35,2,1,39,OKC,OKC,fg_make,72,False,False,,Patterson 2' Putback Layup (2 PTS),48-66,48,66
@@ -251,8 +251,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700803,2018-02-06,GSW,OKC,24.0,2,0,0,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,57-70,57,70
 0021700803,2018-02-06,GSW,OKC,24.0,2,0,0,GSW,,period_end,0,False,False,,,57-70,57,70
 0021700803,2018-02-06,GSW,OKC,24.0,3,12,0,GSW,OKC,ft_make,16,False,False,,Westbrook Free Throw Technical (28 PTS),57-71,57,71
-0021700803,2018-02-06,GSW,OKC,24.0,3,12,0,OKC,GSW,foul,11,False,False,Green T.FOUL (P1.T0) (L.Holtkamp),,57-71,57,71
 0021700803,2018-02-06,GSW,OKC,24.0,3,12,0,OKC,,period_start,0,False,False,,,57-71,57,71
+0021700803,2018-02-06,GSW,OKC,24.0,3,12,0,OKC,GSW,foul,11,False,False,Green T.FOUL (P1.T0) (L.Holtkamp),,57-71,57,71
 0021700803,2018-02-06,GSW,OKC,24.22,3,11,47,GSW,GSW,tov,45,False,False,Green Out of Bounds - Bad Pass Turnover Turnover (P4.T14),,57-71,57,71
 0021700803,2018-02-06,GSW,OKC,24.43,3,11,34,OKC,OKC,fg3_miss,1,False,False,,MISS Patterson 25' 3PT Jump Shot,57-71,57,71
 0021700803,2018-02-06,GSW,OKC,24.5,3,11,30,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:1 Def:2),,57-71,57,71
@@ -283,8 +283,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700803,2018-02-06,GSW,OKC,27.3,3,8,42,OKC,OKC,ft_make,11,False,False,,George Free Throw 1 of 2 (21 PTS),63-79,63,79
 0021700803,2018-02-06,GSW,OKC,27.3,3,8,42,OKC,OKC,ft_make,12,False,False,,George Free Throw 2 of 2 (22 PTS),63-80,63,80
 0021700803,2018-02-06,GSW,OKC,27.47,3,8,32,GSW,GSW,tov,1,False,True,Curry Bad Pass Turnover (P2.T15),,63-80,63,80
-0021700803,2018-02-06,GSW,OKC,27.47,3,8,32,OKC,GSW,foul,1,False,False,Pachulia P.FOUL (P2.T2) (K.Mauer),,63-80,63,80
 0021700803,2018-02-06,GSW,OKC,27.47,3,8,32,GSW,OKC,steal,1,False,True,steal,steal,63-80,63,80
+0021700803,2018-02-06,GSW,OKC,27.47,3,8,32,OKC,GSW,foul,1,False,False,Pachulia P.FOUL (P2.T2) (K.Mauer),,63-80,63,80
 0021700803,2018-02-06,GSW,OKC,27.65,3,8,21,OKC,GSW,foul,2,False,False,Pachulia S.FOUL (P3.T3) (L.Holtkamp),,63-80,63,80
 0021700803,2018-02-06,GSW,OKC,27.65,3,8,21,OKC,OKC,ft_make,11,False,False,,Patterson Free Throw 1 of 2 (3 PTS),63-81,63,81
 0021700803,2018-02-06,GSW,OKC,27.65,3,8,21,OKC,OKC,ft_make,12,False,False,,Patterson Free Throw 2 of 2 (4 PTS),63-82,63,82
@@ -294,9 +294,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700803,2018-02-06,GSW,OKC,28.1,3,7,54,OKC,OKC,ft_make,12,False,False,,Westbrook Free Throw 2 of 2 (32 PTS),65-84,65,84
 0021700803,2018-02-06,GSW,OKC,28.3,3,7,42,GSW,GSW,fg3_make,79,False,False,Curry 26' 3PT Pullup Jump Shot (12 PTS) (Durant 1 AST),,68-84,68,84
 0021700803,2018-02-06,GSW,OKC,28.73,3,7,16,OKC,OKC,fg_miss,5,True,False,,MISS Grant 4' Layup,68-84,68,84
-0021700803,2018-02-06,GSW,OKC,28.73,3,7,16,OKC,OKC,reb,0,False,False,,Thunder Rebound,68-84,68,84
-0021700803,2018-02-06,GSW,OKC,28.73,3,7,16,OKC,OKC,tov,11,False,False,,Thunder Turnover: Shot Clock (T#8),68-84,68,84
 0021700803,2018-02-06,GSW,OKC,28.73,3,7,16,OKC,GSW,block,5,True,False,block,block,68-84,68,84
+0021700803,2018-02-06,GSW,OKC,28.73,3,7,16,OKC,OKC,tov,11,False,False,,Thunder Turnover: Shot Clock (T#8),68-84,68,84
+0021700803,2018-02-06,GSW,OKC,28.73,3,7,16,OKC,OKC,reb,0,False,False,,Thunder Rebound,68-84,68,84
 0021700803,2018-02-06,GSW,OKC,28.98,3,7,1,GSW,GSW,fg3_miss,1,False,False,MISS Thompson 25' 3PT Jump Shot,,68-84,68,84
 0021700803,2018-02-06,GSW,OKC,28.98,3,7,1,OKC,OKC,reb,0,False,False,,George REBOUND (Off:1 Def:2),68-84,68,84
 0021700803,2018-02-06,GSW,OKC,28.98,3,7,1,GSW,OKC,foul,26,False,False,,Adams Offensive Charge Foul (P4.PN) (M.Kogut),68-84,68,84
@@ -350,8 +350,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700803,2018-02-06,GSW,OKC,33.18,3,2,49,OKC,OKC,fg_make,44,False,False,,Adams 2' Reverse Layup (6 PTS),71-93,71,93
 0021700803,2018-02-06,GSW,OKC,33.47,3,2,32,GSW,GSW,fg_make,75,False,False,Curry 2' Driving Finger Roll Layup (14 PTS),,73-93,73,93
 0021700803,2018-02-06,GSW,OKC,33.75,3,2,15,OKC,OKC,fg_miss,1,True,False,,MISS Huestis 5' Jump Shot,73-93,73,93
-0021700803,2018-02-06,GSW,OKC,33.75,3,2,15,OKC,OKC,reb,0,False,False,,Thunder Rebound,73-93,73,93
 0021700803,2018-02-06,GSW,OKC,33.75,3,2,15,OKC,GSW,block,1,True,False,block,block,73-93,73,93
+0021700803,2018-02-06,GSW,OKC,33.75,3,2,15,OKC,OKC,reb,0,False,False,,Thunder Rebound,73-93,73,93
 0021700803,2018-02-06,GSW,OKC,33.87,3,2,8,OKC,OKC,fg_make,58,False,False,,Adams 6' Turnaround Hook Shot (8 PTS),73-95,73,95
 0021700803,2018-02-06,GSW,OKC,33.98,3,2,1,OKC,GSW,foul,26,False,False,Looney Offensive Charge Foul (P3.PN) (M.Kogut),,73-95,73,95
 0021700803,2018-02-06,GSW,OKC,33.98,3,2,1,GSW,GSW,tov,37,False,False,Looney Offensive Foul Turnover (P1.T19),,73-95,73,95
@@ -405,8 +405,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700803,2018-02-06,GSW,OKC,38.85,4,9,9,GSW,GSW,reb,0,False,False,Iguodala REBOUND (Off:2 Def:2),,81-102,81,102
 0021700803,2018-02-06,GSW,OKC,38.85,4,9,9,GSW,GSW,fg_make,97,False,False,Iguodala 1' Tip Layup Shot (2 PTS),,83-102,83,102
 0021700803,2018-02-06,GSW,OKC,39.07,4,8,56,OKC,OKC,fg_miss,5,True,False,,MISS George 2' Layup,83-102,83,102
-0021700803,2018-02-06,GSW,OKC,39.07,4,8,56,OKC,OKC,reb,0,False,False,,Thunder Rebound,83-102,83,102
 0021700803,2018-02-06,GSW,OKC,39.07,4,8,56,OKC,GSW,block,5,True,False,block,block,83-102,83,102
+0021700803,2018-02-06,GSW,OKC,39.07,4,8,56,OKC,OKC,reb,0,False,False,,Thunder Rebound,83-102,83,102
 0021700803,2018-02-06,GSW,OKC,39.13,4,8,52,OKC,GSW,foul,2,False,False,Thompson S.FOUL (P2.T2) (L.Holtkamp),,83-102,83,102
 0021700803,2018-02-06,GSW,OKC,39.13,4,8,52,OKC,OKC,ft_make,11,False,False,,George Free Throw 1 of 2 (31 PTS),83-103,83,103
 0021700803,2018-02-06,GSW,OKC,39.13,4,8,52,OKC,OKC,ft_make,12,False,False,,George Free Throw 2 of 2 (32 PTS),83-104,83,104

@@ -70,9 +70,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700788,2018-02-04,OKC,LAL,7.97,1,4,2,LAL,LAL,fg_make,9,False,False,,Ingram 1' Driving Dunk (2 PTS),12-17,12,17
 0021700788,2018-02-04,OKC,LAL,8.15,1,3,51,OKC,OKC,fg_make,108,False,False,Adams Cutting Dunk Shot (2 PTS) (Westbrook 2 AST),,14-17,14,17
 0021700788,2018-02-04,OKC,LAL,8.3,1,3,42,LAL,LAL,fg_miss,6,True,False,,MISS Caldwell-Pope 2' Driving Layup,14-17,14,17
+0021700788,2018-02-04,OKC,LAL,8.3,1,3,42,LAL,OKC,block,6,True,False,block,block,14-17,14,17
 0021700788,2018-02-04,OKC,LAL,8.3,1,3,42,LAL,LAL,reb,0,False,False,,Lakers Rebound,14-17,14,17
 0021700788,2018-02-04,OKC,LAL,8.3,1,3,42,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.1 Short 0),14-17,14,17
-0021700788,2018-02-04,OKC,LAL,8.3,1,3,42,LAL,OKC,block,6,True,False,block,block,14-17,14,17
 0021700788,2018-02-04,OKC,LAL,8.48,1,3,31,LAL,LAL,fg_miss,58,True,False,,MISS Randle 3' Turnaround Hook Shot,14-17,14,17
 0021700788,2018-02-04,OKC,LAL,8.48,1,3,31,LAL,OKC,block,58,True,False,block,block,14-17,14,17
 0021700788,2018-02-04,OKC,LAL,8.53,1,3,28,LAL,LAL,reb,0,False,False,,Randle REBOUND (Off:1 Def:3),14-17,14,17
@@ -261,8 +261,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700788,2018-02-04,OKC,LAL,28.95,3,7,3,OKC,OKC,tov,1,False,True,Westbrook Bad Pass Turnover (P6.T13),,58-64,58,64
 0021700788,2018-02-04,OKC,LAL,28.95,3,7,3,OKC,LAL,steal,1,False,True,steal,steal,58-64,58,64
 0021700788,2018-02-04,OKC,LAL,29.2,3,6,48,LAL,LAL,fg_miss,1,True,False,,MISS Randle 14' Jump Shot,58-64,58,64
-0021700788,2018-02-04,OKC,LAL,29.2,3,6,48,LAL,LAL,reb,0,False,False,,Lakers Rebound,58-64,58,64
 0021700788,2018-02-04,OKC,LAL,29.2,3,6,48,LAL,OKC,block,1,True,False,block,block,58-64,58,64
+0021700788,2018-02-04,OKC,LAL,29.2,3,6,48,LAL,LAL,reb,0,False,False,,Lakers Rebound,58-64,58,64
 0021700788,2018-02-04,OKC,LAL,29.25,3,6,45,LAL,LAL,fg3_miss,1,False,False,,MISS Lopez 3PT Jump Shot,58-64,58,64
 0021700788,2018-02-04,OKC,LAL,29.3,3,6,42,OKC,OKC,reb,0,False,False,Westbrook REBOUND (Off:0 Def:4),,58-64,58,64
 0021700788,2018-02-04,OKC,LAL,29.38,3,6,37,OKC,OKC,fg3_make,2,False,False,Anthony 25' 3PT Running Jump Shot (10 PTS) (Westbrook 6 AST),,61-64,61,64
@@ -315,8 +315,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700788,2018-02-04,OKC,LAL,34.55,3,1,27,OKC,LAL,foul,2,False,False,,Clarkson S.FOUL (P2.T3) (K.Lane),77-76,77,76
 0021700788,2018-02-04,OKC,LAL,34.55,3,1,27,OKC,OKC,ft_make,10,False,False,Westbrook Free Throw 1 of 1 (30 PTS),,78-76,78,76
 0021700788,2018-02-04,OKC,LAL,34.72,3,1,17,LAL,LAL,fg_miss,1,False,False,,MISS Caldwell-Pope 9' Jump Shot,78-76,78,76
-0021700788,2018-02-04,OKC,LAL,34.72,3,1,17,LAL,LAL,tov,19,False,False,,Caldwell-Pope Kicked Ball Violation Turnover (P1.T14),78-76,78,76
 0021700788,2018-02-04,OKC,LAL,34.72,3,1,17,LAL,LAL,reb,0,False,False,,Lakers Rebound,78-76,78,76
+0021700788,2018-02-04,OKC,LAL,34.72,3,1,17,LAL,LAL,tov,19,False,False,,Caldwell-Pope Kicked Ball Violation Turnover (P1.T14),78-76,78,76
 0021700788,2018-02-04,OKC,LAL,34.85,3,1,9,LAL,OKC,foul,4,False,False,Adams OFF.Foul (P2) (J.Phillips),,78-76,78,76
 0021700788,2018-02-04,OKC,LAL,34.85,3,1,9,OKC,OKC,tov,37,False,False,Adams Offensive Foul Turnover (P1.T14),,78-76,78,76
 0021700788,2018-02-04,OKC,LAL,34.85,3,1,9,LAL,OKC,foul,11,False,False,Adams T.FOUL (P2.T2) (N.Buchert),,78-76,78,76
@@ -335,8 +335,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700788,2018-02-04,OKC,LAL,36.0,3,0,0,LAL,,period_end,0,False,False,,,79-82,79,82
 0021700788,2018-02-04,OKC,LAL,36.0,4,12,0,LAL,,period_start,0,False,False,,,79-82,79,82
 0021700788,2018-02-04,OKC,LAL,36.4,4,11,36,OKC,OKC,fg3_miss,1,False,False,MISS Abrines 37' 3PT Jump Shot,,79-82,79,82
-0021700788,2018-02-04,OKC,LAL,36.4,4,11,36,OKC,OKC,reb,0,False,False,THUNDER Rebound,,79-82,79,82
 0021700788,2018-02-04,OKC,LAL,36.4,4,11,36,OKC,OKC,tov,11,False,False,THUNDER Turnover: Shot Clock (T#15),,79-82,79,82
+0021700788,2018-02-04,OKC,LAL,36.4,4,11,36,OKC,OKC,reb,0,False,False,THUNDER Rebound,,79-82,79,82
 0021700788,2018-02-04,OKC,LAL,36.68,4,11,19,LAL,LAL,tov,1,False,True,,Caruso Bad Pass Turnover (P2.T15),79-82,79,82
 0021700788,2018-02-04,OKC,LAL,36.68,4,11,19,LAL,OKC,steal,1,False,True,steal,steal,79-82,79,82
 0021700788,2018-02-04,OKC,LAL,36.85,4,11,9,OKC,OKC,fg_miss,6,False,False,MISS Patterson 3' Driving Layup,,79-82,79,82
@@ -387,8 +387,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700788,2018-02-04,OKC,LAL,41.62,4,6,23,LAL,LAL,tov,2,False,True,,Randle Lost Ball Turnover (P4.T17),88-91,88,91
 0021700788,2018-02-04,OKC,LAL,41.62,4,6,23,LAL,OKC,steal,2,False,True,steal,steal,88-91,88,91
 0021700788,2018-02-04,OKC,LAL,41.83,4,6,10,OKC,OKC,fg_miss,6,True,False,MISS George 5' Driving Layup,,88-91,88,91
-0021700788,2018-02-04,OKC,LAL,41.83,4,6,10,LAL,LAL,reb,0,False,False,,Lakers Rebound,88-91,88,91
 0021700788,2018-02-04,OKC,LAL,41.83,4,6,10,OKC,LAL,block,6,True,False,block,block,88-91,88,91
+0021700788,2018-02-04,OKC,LAL,41.83,4,6,10,LAL,LAL,reb,0,False,False,,Lakers Rebound,88-91,88,91
 0021700788,2018-02-04,OKC,LAL,42.15,4,5,51,LAL,LAL,fg3_make,1,False,False,,Ingram 3PT Jump Shot (13 PTS) (Randle 4 AST),88-94,88,94
 0021700788,2018-02-04,OKC,LAL,42.42,4,5,35,OKC,OKC,fg3_miss,79,False,False,MISS Westbrook 26' 3PT Pullup Jump Shot,,88-94,88,94
 0021700788,2018-02-04,OKC,LAL,42.5,4,5,30,OKC,OKC,reb,0,False,False,Felton REBOUND (Off:2 Def:0),,88-94,88,94
@@ -398,8 +398,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700788,2018-02-04,OKC,LAL,43.12,4,4,53,OKC,OKC,reb,0,False,False,Grant REBOUND (Off:3 Def:7),,88-94,88,94
 0021700788,2018-02-04,OKC,LAL,43.3,4,4,42,OKC,OKC,fg_make,6,False,False,Grant 1' Driving Layup (8 PTS),,90-94,90,94
 0021700788,2018-02-04,OKC,LAL,43.57,4,4,26,LAL,LAL,fg_miss,6,True,False,,MISS Randle 1' Driving Layup,90-94,90,94
-0021700788,2018-02-04,OKC,LAL,43.57,4,4,26,LAL,LAL,reb,0,False,False,,Lakers Rebound,90-94,90,94
 0021700788,2018-02-04,OKC,LAL,43.57,4,4,26,LAL,OKC,block,6,True,False,block,block,90-94,90,94
+0021700788,2018-02-04,OKC,LAL,43.57,4,4,26,LAL,LAL,reb,0,False,False,,Lakers Rebound,90-94,90,94
 0021700788,2018-02-04,OKC,LAL,43.73,4,4,16,LAL,LAL,fg_make,66,False,False,,Randle 2' Jump Bank Shot (16 PTS),90-96,90,96
 0021700788,2018-02-04,OKC,LAL,44.02,4,3,59,OKC,OKC,fg_miss,6,False,False,MISS George 2' Driving Layup,,90-96,90,96
 0021700788,2018-02-04,OKC,LAL,44.03,4,3,58,LAL,LAL,reb,0,False,False,,Hart REBOUND (Off:1 Def:8),90-96,90,96

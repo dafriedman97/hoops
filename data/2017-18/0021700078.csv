@@ -93,10 +93,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700078,2017-10-28,MIA,BOS,11.8,1,0,12,BOS,BOS,fg_make,75,False,False,,Theis 3' Driving Finger Roll Layup (2 PTS),24-21,24,21
 0021700078,2017-10-28,MIA,BOS,11.93,1,0,4,MIA,MIA,fg_make,6,False,False,Johnson 1' Driving Layup (2 PTS),,26-21,26,21
 0021700078,2017-10-28,MIA,BOS,12.0,1,0,0,BOS,BOS,fg3_miss,1,True,False,,MISS Smart 25' 3PT Jump Shot,26-21,26,21
+0021700078,2017-10-28,MIA,BOS,12.0,1,0,0,BOS,MIA,block,1,True,False,block,block,26-21,26,21
 0021700078,2017-10-28,MIA,BOS,12.0,1,0,0,BOS,BOS,reb,0,False,False,,Celtics Rebound,26-21,26,21
 0021700078,2017-10-28,MIA,BOS,12.0,1,0,0,BOS,,period_end,0,False,False,,,26-21,26,21
 0021700078,2017-10-28,MIA,BOS,12.0,2,12,0,BOS,,period_start,0,False,False,,,26-21,26,21
-0021700078,2017-10-28,MIA,BOS,12.0,1,0,0,BOS,MIA,block,1,True,False,block,block,26-21,26,21
 0021700078,2017-10-28,MIA,BOS,12.28,2,11,43,BOS,MIA,foul,2,False,False,Winslow S.FOUL (P1.T1) (R.Mott),,26-21,26,21
 0021700078,2017-10-28,MIA,BOS,12.28,2,11,43,BOS,BOS,ft_make,11,False,False,,Brown Free Throw 1 of 2 (1 PTS),26-22,26,22
 0021700078,2017-10-28,MIA,BOS,12.28,2,11,43,BOS,BOS,ft_make,12,False,False,,Brown Free Throw 2 of 2 (2 PTS),26-23,26,23
@@ -168,15 +168,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700078,2017-10-28,MIA,BOS,20.07,2,3,56,BOS,BOS,reb,0,False,False,,Horford REBOUND (Off:0 Def:4),34-39,34,39
 0021700078,2017-10-28,MIA,BOS,20.07,2,3,56,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.2 Short 0),34-39,34,39
 0021700078,2017-10-28,MIA,BOS,20.4,2,3,36,BOS,BOS,fg_miss,73,True,False,,MISS Tatum 2' Driving Reverse Layup,34-39,34,39
+0021700078,2017-10-28,MIA,BOS,20.4,2,3,36,BOS,MIA,block,73,True,False,block,block,34-39,34,39
 0021700078,2017-10-28,MIA,BOS,20.4,2,3,36,BOS,BOS,reb,0,False,False,,Baynes REBOUND (Off:1 Def:1),34-39,34,39
 0021700078,2017-10-28,MIA,BOS,20.4,2,3,36,BOS,MIA,foul,1,False,False,Adebayo P.FOUL (P3.PN) (R.Acosta),,34-39,34,39
-0021700078,2017-10-28,MIA,BOS,20.4,2,3,36,BOS,MIA,block,73,True,False,block,block,34-39,34,39
 0021700078,2017-10-28,MIA,BOS,20.4,2,3,36,BOS,BOS,ft_make,11,False,False,,Baynes Free Throw 1 of 2 (1 PTS),34-40,34,40
 0021700078,2017-10-28,MIA,BOS,20.4,2,3,36,BOS,BOS,ft_make,12,False,False,,Baynes Free Throw 2 of 2 (2 PTS),34-41,34,41
 0021700078,2017-10-28,MIA,BOS,20.72,2,3,17,MIA,MIA,fg_miss,5,True,False,MISS Richardson 2' Layup,,34-41,34,41
+0021700078,2017-10-28,MIA,BOS,20.72,2,3,17,MIA,BOS,block,5,True,False,block,block,34-41,34,41
 0021700078,2017-10-28,MIA,BOS,20.72,2,3,17,MIA,MIA,reb,0,False,False,HEAT Rebound,,34-41,34,41
 0021700078,2017-10-28,MIA,BOS,20.72,2,3,17,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 3 Short 0),,34-41,34,41
-0021700078,2017-10-28,MIA,BOS,20.72,2,3,17,MIA,BOS,block,5,True,False,block,block,34-41,34,41
 0021700078,2017-10-28,MIA,BOS,20.77,2,3,14,MIA,MIA,tov,1,False,True,Richardson Bad Pass Turnover (P2.T10),,34-41,34,41
 0021700078,2017-10-28,MIA,BOS,20.77,2,3,14,MIA,BOS,steal,1,False,True,steal,steal,34-41,34,41
 0021700078,2017-10-28,MIA,BOS,21.05,2,2,57,BOS,BOS,fg_make,98,False,False,,Irving 1' Cutting Layup Shot (7 PTS) (Baynes 1 AST),34-43,34,43
@@ -240,8 +240,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700078,2017-10-28,MIA,BOS,27.75,3,8,15,MIA,BOS,foul,4,False,False,,Baynes OFF.Foul (P2) (R.Mott),49-57,49,57
 0021700078,2017-10-28,MIA,BOS,27.75,3,8,15,BOS,BOS,tov,37,False,False,,Baynes Offensive Foul Turnover (P1.T6),49-57,49,57
 0021700078,2017-10-28,MIA,BOS,27.95,3,8,3,MIA,MIA,fg_miss,1,True,False,MISS Waiters 6' Jump Shot,,49-57,49,57
-0021700078,2017-10-28,MIA,BOS,27.95,3,8,3,MIA,MIA,reb,0,False,False,HEAT Rebound,,49-57,49,57
 0021700078,2017-10-28,MIA,BOS,27.95,3,8,3,MIA,BOS,block,1,True,False,block,block,49-57,49,57
+0021700078,2017-10-28,MIA,BOS,27.95,3,8,3,MIA,MIA,reb,0,False,False,HEAT Rebound,,49-57,49,57
 0021700078,2017-10-28,MIA,BOS,28.2,3,7,48,MIA,MIA,tov,1,False,True,Richardson Bad Pass Turnover (P3.T13),,49-57,49,57
 0021700078,2017-10-28,MIA,BOS,28.2,3,7,48,MIA,BOS,steal,1,False,True,steal,steal,49-57,49,57
 0021700078,2017-10-28,MIA,BOS,28.35,3,7,39,BOS,BOS,tov,45,False,False,,Irving Out of Bounds - Bad Pass Turnover Turnover (P1.T7),49-57,49,57
@@ -299,10 +299,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700078,2017-10-28,MIA,BOS,35.72,3,0,17,MIA,MIA,fg3_miss,1,False,False,MISS Ellington 3PT Jump Shot,,63-74,63,74
 0021700078,2017-10-28,MIA,BOS,35.75,3,0,15,MIA,MIA,reb,0,False,False,HEAT Rebound,,63-74,63,74
 0021700078,2017-10-28,MIA,BOS,36.0,3,0,0,MIA,MIA,fg_miss,1,True,False,MISS Winslow 11' Jump Shot,,63-74,63,74
+0021700078,2017-10-28,MIA,BOS,36.0,3,0,0,MIA,BOS,block,1,True,False,block,block,63-74,63,74
 0021700078,2017-10-28,MIA,BOS,36.0,3,0,0,MIA,MIA,reb,0,False,False,HEAT Rebound,,63-74,63,74
 0021700078,2017-10-28,MIA,BOS,36.0,3,0,0,MIA,,period_end,0,False,False,,,63-74,63,74
 0021700078,2017-10-28,MIA,BOS,36.0,4,12,0,MIA,,period_start,0,False,False,,,63-74,63,74
-0021700078,2017-10-28,MIA,BOS,36.0,3,0,0,MIA,BOS,block,1,True,False,block,block,63-74,63,74
 0021700078,2017-10-28,MIA,BOS,36.23,4,11,46,MIA,MIA,tov,1,False,True,Olynyk Bad Pass Turnover (P4.T16),,63-74,63,74
 0021700078,2017-10-28,MIA,BOS,36.23,4,11,46,MIA,BOS,steal,1,False,True,steal,steal,63-74,63,74
 0021700078,2017-10-28,MIA,BOS,36.55,4,11,27,BOS,BOS,fg3_miss,1,False,False,,MISS Smart 27' 3PT Jump Shot,63-74,63,74
@@ -358,8 +358,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700078,2017-10-28,MIA,BOS,41.5,4,6,30,BOS,BOS,fg3_miss,1,False,False,,MISS Rozier 26' 3PT Jump Shot,75-80,75,80
 0021700078,2017-10-28,MIA,BOS,41.53,4,6,28,MIA,MIA,reb,0,False,False,Winslow REBOUND (Off:3 Def:6),,75-80,75,80
 0021700078,2017-10-28,MIA,BOS,41.67,4,6,20,MIA,MIA,fg_miss,1,True,False,MISS Johnson 2' Jump Shot,,75-80,75,80
-0021700078,2017-10-28,MIA,BOS,41.67,4,6,20,MIA,MIA,reb,0,False,False,HEAT Rebound,,75-80,75,80
 0021700078,2017-10-28,MIA,BOS,41.67,4,6,20,MIA,BOS,block,1,True,False,block,block,75-80,75,80
+0021700078,2017-10-28,MIA,BOS,41.67,4,6,20,MIA,MIA,reb,0,False,False,HEAT Rebound,,75-80,75,80
 0021700078,2017-10-28,MIA,BOS,41.75,4,6,15,MIA,MIA,tov,40,False,False,Richardson Out of Bounds Lost Ball Turnover (P4.T17),,75-80,75,80
 0021700078,2017-10-28,MIA,BOS,42.03,4,5,58,,MIA,jump_ball,0,False,False,Jump Ball Johnson vs. Irving: Tip to Winslow,,75-80,75,80
 0021700078,2017-10-28,MIA,BOS,42.03,4,5,58,BOS,BOS,tov,2,False,True,,Irving Lost Ball Turnover (P2.T11),75-80,75,80
@@ -403,8 +403,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700078,2017-10-28,MIA,BOS,46.7,4,1,18,MIA,MIA,tov,2,False,True,Richardson Lost Ball Turnover (P6.T19),,86-90,86,90
 0021700078,2017-10-28,MIA,BOS,46.7,4,1,18,MIA,BOS,steal,2,False,True,steal,steal,86-90,86,90
 0021700078,2017-10-28,MIA,BOS,46.85,4,1,9,BOS,BOS,fg_miss,1,True,False,,MISS Irving 5' Jump Shot,86-90,86,90
-0021700078,2017-10-28,MIA,BOS,46.85,4,1,9,BOS,BOS,reb,0,False,False,,Celtics Rebound,86-90,86,90
 0021700078,2017-10-28,MIA,BOS,46.85,4,1,9,BOS,MIA,block,1,True,False,block,block,86-90,86,90
+0021700078,2017-10-28,MIA,BOS,46.85,4,1,9,BOS,BOS,reb,0,False,False,,Celtics Rebound,86-90,86,90
 0021700078,2017-10-28,MIA,BOS,47.05,4,0,57,BOS,BOS,fg3_make,1,False,False,,Irving 25' 3PT Jump Shot (22 PTS),86-93,86,93
 0021700078,2017-10-28,MIA,BOS,47.05,4,0,57,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 6 Short 0),,86-93,86,93
 0021700078,2017-10-28,MIA,BOS,47.13,4,0,52,MIA,MIA,fg_make,6,False,False,Johnson 1' Driving Layup (14 PTS),,88-93,88,93

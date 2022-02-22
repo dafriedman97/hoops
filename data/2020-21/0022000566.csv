@@ -10,9 +10,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000566,2021-03-10,MEM,WAS,1.02,1,10,59,WAS,WAS,fg_miss,5,False,False,,MISS Hachimura 2' Layup,3-2,3,2
 0022000566,2021-03-10,MEM,WAS,1.07,1,10,56,MEM,MEM,reb,0,False,False,Valanciunas REBOUND (Off:0 Def:1),,3-2,3,2
 0022000566,2021-03-10,MEM,WAS,1.15,1,10,51,MEM,MEM,fg_miss,6,True,False,MISS Bane 3' Driving Layup,,3-2,3,2
+0022000566,2021-03-10,MEM,WAS,1.15,1,10,51,MEM,WAS,block,6,True,False,block,block,3-2,3,2
 0022000566,2021-03-10,MEM,WAS,1.15,1,10,51,WAS,WAS,reb,0,False,False,,Wagner REBOUND (Off:0 Def:1),3-2,3,2
 0022000566,2021-03-10,MEM,WAS,1.15,1,10,51,WAS,WAS,tov,40,False,False,,Wagner Out of Bounds Lost Ball Turnover (P1.T2),3-2,3,2
-0022000566,2021-03-10,MEM,WAS,1.15,1,10,51,MEM,WAS,block,6,True,False,block,block,3-2,3,2
 0022000566,2021-03-10,MEM,WAS,1.32,1,10,41,MEM,MEM,fg3_make,1,False,False,Bane 26' 3PT Jump Shot (6 PTS) (Morant 1 AST),,6-2,6,2
 0022000566,2021-03-10,MEM,WAS,1.67,1,10,20,WAS,WAS,fg3_miss,1,False,False,,MISS Wagner 25' 3PT Jump Shot,6-2,6,2
 0022000566,2021-03-10,MEM,WAS,1.7,1,10,18,MEM,MEM,reb,0,False,False,Anderson REBOUND (Off:0 Def:1),,6-2,6,2
@@ -282,8 +282,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000566,2021-03-10,MEM,WAS,27.53,3,8,28,MEM,WAS,foul,4,False,False,,Wagner OFF.Foul (P3) (K.Lane),71-69,71,69
 0022000566,2021-03-10,MEM,WAS,27.53,3,8,28,WAS,WAS,tov,37,False,False,,Wagner Offensive Foul Turnover (P2.T7),71-69,71,69
 0022000566,2021-03-10,MEM,WAS,27.75,3,8,15,MEM,MEM,fg_miss,78,False,False,MISS Anderson 12' Floating Jump Shot,,71-69,71,69
-0022000566,2021-03-10,MEM,WAS,27.83,3,8,10,MEM,MEM,fg_make,87,False,False,Valanciunas Putback Dunk (19 PTS),,73-69,73,69
 0022000566,2021-03-10,MEM,WAS,27.83,3,8,10,MEM,MEM,reb,0,False,False,Valanciunas REBOUND (Off:4 Def:7),,73-69,73,69
+0022000566,2021-03-10,MEM,WAS,27.83,3,8,10,MEM,MEM,fg_make,87,False,False,Valanciunas Putback Dunk (19 PTS),,73-69,73,69
 0022000566,2021-03-10,MEM,WAS,27.98,3,8,1,WAS,WAS,fg3_make,1,False,False,,Mathews 3PT Jump Shot (9 PTS) (Westbrook 7 AST),73-72,73,72
 0022000566,2021-03-10,MEM,WAS,28.38,3,7,37,MEM,MEM,fg3_miss,1,False,False,MISS Anderson 24' 3PT Jump Shot,,73-72,73,72
 0022000566,2021-03-10,MEM,WAS,28.38,3,7,37,WAS,WAS,reb,0,False,False,,Wizards Rebound,73-72,73,72
@@ -314,8 +314,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000566,2021-03-10,MEM,WAS,30.08,3,5,55,MEM,MEM,reb,0,False,False,Winslow REBOUND (Off:0 Def:3),,73-74,73,74
 0022000566,2021-03-10,MEM,WAS,30.18,3,5,49,MEM,MEM,fg_make,79,False,False,Melton 6' Pullup Jump Shot (4 PTS) (Winslow 3 AST),,75-74,75,74
 0022000566,2021-03-10,MEM,WAS,30.18,3,5,49,MEM,WAS,foul,2,False,False,,Avdija S.FOUL (P1.T1) (A.Moyer-Gleich),75-74,75,74
-0022000566,2021-03-10,MEM,WAS,30.18,3,5,49,MEM,,foul,16,False,False,,,75-74,75,74
 0022000566,2021-03-10,MEM,WAS,30.18,3,5,49,MEM,MEM,ft_miss,10,False,False,MISS Melton Free Throw 1 of 1,,75-74,75,74
+0022000566,2021-03-10,MEM,WAS,30.18,3,5,49,MEM,,foul,16,False,False,,,75-74,75,74
 0022000566,2021-03-10,MEM,WAS,30.28,3,5,43,WAS,WAS,reb,0,False,False,,Hachimura REBOUND (Off:0 Def:5),75-74,75,74
 0022000566,2021-03-10,MEM,WAS,30.38,3,5,37,WAS,WAS,fg_make,63,False,False,,Beal 11' Fadeaway Jumper (14 PTS),75-76,75,76
 0022000566,2021-03-10,MEM,WAS,30.57,3,5,26,MEM,MEM,fg_make,52,False,False,Valanciunas 3' Alley Oop Dunk (21 PTS) (Morant 6 AST),,77-76,77,76
@@ -335,8 +335,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000566,2021-03-10,MEM,WAS,31.63,3,4,22,WAS,WAS,fg_miss,3,False,False,,MISS Lopez 5' Hook Shot,82-79,82,79
 0022000566,2021-03-10,MEM,WAS,31.68,3,4,19,MEM,MEM,reb,0,False,False,Valanciunas REBOUND (Off:6 Def:9),,82-79,82,79
 0022000566,2021-03-10,MEM,WAS,31.82,3,4,11,MEM,MEM,fg_miss,6,True,False,MISS Valanciunas 3' Driving Layup,,82-79,82,79
-0022000566,2021-03-10,MEM,WAS,31.82,3,4,11,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,82-79,82,79
 0022000566,2021-03-10,MEM,WAS,31.82,3,4,11,MEM,WAS,block,6,True,False,block,block,82-79,82,79
+0022000566,2021-03-10,MEM,WAS,31.82,3,4,11,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,82-79,82,79
 0022000566,2021-03-10,MEM,WAS,31.9,3,4,6,MEM,MEM,fg_make,79,False,False,Morant 13' Pullup Jump Shot (16 PTS),,84-79,84,79
 0022000566,2021-03-10,MEM,WAS,32.15,3,3,51,WAS,WAS,fg3_make,1,False,False,,Bertans 3PT Jump Shot (8 PTS) (Neto 2 AST),84-82,84,82
 0022000566,2021-03-10,MEM,WAS,32.43,3,3,34,MEM,MEM,fg3_miss,1,False,False,MISS Valanciunas 26' 3PT Jump Shot,,84-82,84,82
@@ -344,8 +344,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000566,2021-03-10,MEM,WAS,32.55,3,3,27,WAS,WAS,fg3_miss,79,False,False,,MISS Beal 25' 3PT Pullup Jump Shot,84-82,84,82
 0022000566,2021-03-10,MEM,WAS,32.57,3,3,26,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,84-82,84,82
 0022000566,2021-03-10,MEM,WAS,32.72,3,3,17,MEM,MEM,fg_miss,47,True,False,MISS Winslow 4' Turnaround Jump Shot,,84-82,84,82
-0022000566,2021-03-10,MEM,WAS,32.72,3,3,17,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,84-82,84,82
 0022000566,2021-03-10,MEM,WAS,32.72,3,3,17,MEM,WAS,block,47,True,False,block,block,84-82,84,82
+0022000566,2021-03-10,MEM,WAS,32.72,3,3,17,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,84-82,84,82
 0022000566,2021-03-10,MEM,WAS,32.88,3,3,7,MEM,MEM,fg_make,101,False,False,Clarke 3' Driving Floating Jump Shot (4 PTS) (Melton 3 AST),,86-82,86,82
 0022000566,2021-03-10,MEM,WAS,33.17,3,2,50,WAS,WAS,fg_miss,6,False,False,,MISS Beal 2' Driving Layup,86-82,86,82
 0022000566,2021-03-10,MEM,WAS,33.2,3,2,48,MEM,MEM,reb,0,False,False,Clarke REBOUND (Off:1 Def:6),,86-82,86,82
@@ -442,8 +442,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000566,2021-03-10,MEM,WAS,42.83,4,5,10,WAS,WAS,fg_miss,5,False,False,,MISS Wagner 1' Layup,112-99,112,99
 0022000566,2021-03-10,MEM,WAS,42.87,4,5,8,WAS,WAS,reb,0,False,False,,Wagner REBOUND (Off:2 Def:2),112-99,112,99
 0022000566,2021-03-10,MEM,WAS,42.88,4,5,7,WAS,WAS,fg_miss,72,True,False,,MISS Wagner Putback Layup,112-99,112,99
-0022000566,2021-03-10,MEM,WAS,42.88,4,5,7,MEM,MEM,reb,0,False,False,Morant REBOUND (Off:0 Def:5),,112-99,112,99
 0022000566,2021-03-10,MEM,WAS,42.88,4,5,7,WAS,MEM,block,72,True,False,block,block,112-99,112,99
+0022000566,2021-03-10,MEM,WAS,42.88,4,5,7,MEM,MEM,reb,0,False,False,Morant REBOUND (Off:0 Def:5),,112-99,112,99
 0022000566,2021-03-10,MEM,WAS,43.17,4,4,50,MEM,MEM,fg_make,79,False,False,Morant 11' Pullup Jump Shot (19 PTS),,114-99,114,99
 0022000566,2021-03-10,MEM,WAS,43.4,4,4,36,WAS,WAS,fg_miss,5,True,False,,MISS Beal 2' Layup,114-99,114,99
 0022000566,2021-03-10,MEM,WAS,43.4,4,4,36,WAS,MEM,block,5,True,False,block,block,114-99,114,99

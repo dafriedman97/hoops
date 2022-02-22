@@ -38,9 +38,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000695,2021-03-27,MIL,NYK,5.1,1,6,54,NYK,NYK,tov,2,False,True,,Robinson Lost Ball Turnover (P1.T2),7-14,7,14
 0022000695,2021-03-27,MIL,NYK,5.1,1,6,54,NYK,MIL,steal,2,False,True,steal,steal,7-14,7,14
 0022000695,2021-03-27,MIL,NYK,5.18,1,6,49,MIL,MIL,fg_miss,6,True,False,MISS Antetokounmpo 3' Driving Layup,,7-14,7,14
+0022000695,2021-03-27,MIL,NYK,5.18,1,6,49,MIL,NYK,block,6,True,False,block,block,7-14,7,14
 0022000695,2021-03-27,MIL,NYK,5.18,1,6,49,MIL,MIL,reb,0,False,False,BUCKS Rebound,,7-14,7,14
 0022000695,2021-03-27,MIL,NYK,5.18,1,6,49,MIL,MIL,timeout,1,False,False,BUCKS Timeout: Regular (Full 1 Short 0),,7-14,7,14
-0022000695,2021-03-27,MIL,NYK,5.18,1,6,49,MIL,NYK,block,6,True,False,block,block,7-14,7,14
 0022000695,2021-03-27,MIL,NYK,5.27,1,6,44,MIL,MIL,fg3_make,1,False,False,Antetokounmpo 3PT Jump Shot (6 PTS) (Forbes 1 AST),,10-14,10,14
 0022000695,2021-03-27,MIL,NYK,5.58,1,6,25,NYK,NYK,fg_make,47,False,False,,Gibson 14' Turnaround Jump Shot (4 PTS) (Payton 3 AST),10-16,10,16
 0022000695,2021-03-27,MIL,NYK,5.83,1,6,10,MIL,MIL,tov,1,False,True,Antetokounmpo Bad Pass Turnover (P1.T2),,10-16,10,16
@@ -93,8 +93,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000695,2021-03-27,MIL,NYK,10.95,1,1,3,MIL,MIL,fg_make,47,False,False,Diakite 20' Turnaround Jump Shot (4 PTS),,25-28,25,28
 0022000695,2021-03-27,MIL,NYK,11.17,1,0,50,NYK,NYK,fg_make,79,False,False,,Rose 11' Pullup Jump Shot (5 PTS) (Quickley 1 AST),25-30,25,30
 0022000695,2021-03-27,MIL,NYK,11.37,1,0,38,MIL,MIL,fg_miss,6,True,False,MISS Nwora 5' Driving Layup,,25-30,25,30
-0022000695,2021-03-27,MIL,NYK,11.37,1,0,38,NYK,NYK,reb,0,False,False,,Barrett REBOUND (Off:0 Def:2),25-30,25,30
 0022000695,2021-03-27,MIL,NYK,11.37,1,0,38,MIL,NYK,block,6,True,False,block,block,25-30,25,30
+0022000695,2021-03-27,MIL,NYK,11.37,1,0,38,NYK,NYK,reb,0,False,False,,Barrett REBOUND (Off:0 Def:2),25-30,25,30
 0022000695,2021-03-27,MIL,NYK,11.5,1,0,30,NYK,NYK,fg_make,1,False,False,,Noel 16' Jump Shot (2 PTS) (Quickley 2 AST),25-32,25,32
 0022000695,2021-03-27,MIL,NYK,11.87,1,0,8,MIL,MIL,fg_miss,108,True,False,MISS Antetokounmpo 2' Cutting Dunk Shot,,25-32,25,32
 0022000695,2021-03-27,MIL,NYK,11.87,1,0,8,MIL,NYK,block,108,True,False,block,block,25-32,25,32
@@ -126,12 +126,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000695,2021-03-27,MIL,NYK,14.23,2,9,46,MIL,MIL,fg_miss,1,False,False,MISS Forbes 7' Jump Shot,,33-34,33,34
 0022000695,2021-03-27,MIL,NYK,14.3,2,9,42,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:1 Def:3),,33-34,33,34
 0022000695,2021-03-27,MIL,NYK,14.35,2,9,39,MIL,MIL,fg_miss,9,True,False,MISS Antetokounmpo 2' Driving Dunk,,33-34,33,34
-0022000695,2021-03-27,MIL,NYK,14.35,2,9,39,NYK,NYK,reb,0,False,False,,Burks REBOUND (Off:0 Def:3),33-34,33,34
 0022000695,2021-03-27,MIL,NYK,14.35,2,9,39,MIL,NYK,block,9,True,False,block,block,33-34,33,34
+0022000695,2021-03-27,MIL,NYK,14.35,2,9,39,NYK,NYK,reb,0,False,False,,Burks REBOUND (Off:0 Def:3),33-34,33,34
 0022000695,2021-03-27,MIL,NYK,14.42,2,9,35,NYK,NYK,tov,1,False,True,,Burks Bad Pass Turnover (P1.T5),33-34,33,34
-0022000695,2021-03-27,MIL,NYK,14.42,2,9,35,NYK,MIL,foul,11,False,False,Antetokounmpo T.FOUL (P0.T1) (S.Jelks),,33-34,33,34
 0022000695,2021-03-27,MIL,NYK,14.42,2,9,35,NYK,MIL,steal,1,False,True,steal,steal,33-34,33,34
 0022000695,2021-03-27,MIL,NYK,14.42,2,9,35,NYK,NYK,ft_make,16,False,False,,Quickley Free Throw Technical (4 PTS),33-35,33,35
+0022000695,2021-03-27,MIL,NYK,14.42,2,9,35,NYK,MIL,foul,11,False,False,Antetokounmpo T.FOUL (P0.T1) (S.Jelks),,33-34,33,34
 0022000695,2021-03-27,MIL,NYK,14.67,2,9,20,MIL,NYK,foul,1,False,False,,Burks P.FOUL (P2.T2) (E.Malloy),33-35,33,35
 0022000695,2021-03-27,MIL,NYK,14.88,2,9,7,MIL,MIL,fg_make,9,False,False,Antetokounmpo 3' Driving Dunk (8 PTS),,35-35,35,35
 0022000695,2021-03-27,MIL,NYK,15.27,2,8,44,NYK,NYK,fg_miss,78,False,False,,MISS Quickley 15' Floating Jump Shot,35-35,35,35
@@ -231,8 +231,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000695,2021-03-27,MIL,NYK,26.53,3,9,28,NYK,MIL,foul,4,False,False,Lopez OFF.Foul (P1) (S.Jelks),,60-63,60,63
 0022000695,2021-03-27,MIL,NYK,26.53,3,9,28,MIL,MIL,tov,37,False,False,Lopez Offensive Foul Turnover (P3.T11),,60-63,60,63
 0022000695,2021-03-27,MIL,NYK,26.8,3,9,12,NYK,NYK,tov,1,False,True,,Barrett Bad Pass Turnover (P3.T10),60-63,60,63
-0022000695,2021-03-27,MIL,NYK,26.8,3,9,12,MIL,NYK,foul,1,False,False,,Barrett P.FOUL (P1.T1) (S.Jelks),60-63,60,63
 0022000695,2021-03-27,MIL,NYK,26.8,3,9,12,NYK,MIL,steal,1,False,True,steal,steal,60-63,60,63
+0022000695,2021-03-27,MIL,NYK,26.8,3,9,12,MIL,NYK,foul,1,False,False,,Barrett P.FOUL (P1.T1) (S.Jelks),60-63,60,63
 0022000695,2021-03-27,MIL,NYK,27.05,3,8,57,MIL,MIL,fg_miss,1,False,False,MISS Lopez 7' Jump Shot,,60-63,60,63
 0022000695,2021-03-27,MIL,NYK,27.1,3,8,54,NYK,NYK,reb,0,False,False,,Noel REBOUND (Off:2 Def:6),60-63,60,63
 0022000695,2021-03-27,MIL,NYK,27.18,3,8,49,NYK,NYK,fg3_miss,1,False,False,,MISS Payton 26' 3PT Jump Shot,60-63,60,63
@@ -252,8 +252,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000695,2021-03-27,MIL,NYK,29.07,3,6,56,NYK,NYK,fg_miss,101,False,False,,MISS Payton 16' Driving Floating Jump Shot,67-68,67,68
 0022000695,2021-03-27,MIL,NYK,29.13,3,6,52,NYK,NYK,reb,0,False,False,,Burks REBOUND (Off:1 Def:6),67-68,67,68
 0022000695,2021-03-27,MIL,NYK,29.15,3,6,51,NYK,NYK,fg_miss,6,True,False,,MISS Payton 3' Driving Layup,67-68,67,68
-0022000695,2021-03-27,MIL,NYK,29.15,3,6,51,NYK,NYK,reb,0,False,False,,Knicks Rebound,67-68,67,68
 0022000695,2021-03-27,MIL,NYK,29.15,3,6,51,NYK,MIL,block,6,True,False,block,block,67-68,67,68
+0022000695,2021-03-27,MIL,NYK,29.15,3,6,51,NYK,NYK,reb,0,False,False,,Knicks Rebound,67-68,67,68
 0022000695,2021-03-27,MIL,NYK,29.27,3,6,44,NYK,NYK,tov,45,False,False,,Payton Out of Bounds - Bad Pass Turnover Turnover (P2.T11),67-68,67,68
 0022000695,2021-03-27,MIL,NYK,29.57,3,6,26,MIL,MIL,fg3_miss,1,False,False,MISS Connaughton 25' 3PT Jump Shot,,67-68,67,68
 0022000695,2021-03-27,MIL,NYK,29.6,3,6,24,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:2 Def:4),,67-68,67,68
@@ -291,8 +291,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000695,2021-03-27,MIL,NYK,33.55,3,2,27,MIL,MIL,fg3_miss,1,False,False,MISS Merrill 25' 3PT Jump Shot,,73-75,73,75
 0022000695,2021-03-27,MIL,NYK,33.6,3,2,24,NYK,NYK,reb,0,False,False,,Knox II REBOUND (Off:0 Def:1),73-75,73,75
 0022000695,2021-03-27,MIL,NYK,33.6,3,2,24,NYK,NYK,fg_miss,41,True,False,,MISS Rose 3' Running Layup,73-75,73,75
-0022000695,2021-03-27,MIL,NYK,33.6,3,2,24,NYK,NYK,reb,0,False,False,,Knicks Rebound,73-75,73,75
 0022000695,2021-03-27,MIL,NYK,33.6,3,2,24,NYK,MIL,block,41,True,False,block,block,73-75,73,75
+0022000695,2021-03-27,MIL,NYK,33.6,3,2,24,NYK,NYK,reb,0,False,False,,Knicks Rebound,73-75,73,75
 0022000695,2021-03-27,MIL,NYK,33.83,3,2,10,NYK,NYK,fg3_miss,1,False,False,,MISS Knox II 26' 3PT Jump Shot,73-75,73,75
 0022000695,2021-03-27,MIL,NYK,33.88,3,2,7,NYK,NYK,reb,0,False,False,,Gibson REBOUND (Off:2 Def:4),73-75,73,75
 0022000695,2021-03-27,MIL,NYK,33.88,3,2,7,NYK,MIL,foul,2,False,False,Diakite S.FOUL (P2.T1) (S.Wall),,73-75,73,75
@@ -324,8 +324,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000695,2021-03-27,MIL,NYK,36.87,4,11,8,MIL,MIL,fg3_miss,1,False,False,MISS Forbes 28' 3PT Jump Shot,,77-84,77,84
 0022000695,2021-03-27,MIL,NYK,36.92,4,11,5,NYK,NYK,reb,0,False,False,,Quickley REBOUND (Off:1 Def:1),77-84,77,84
 0022000695,2021-03-27,MIL,NYK,37.15,4,10,51,NYK,NYK,fg_miss,6,True,False,,MISS Quickley 5' Driving Layup,77-84,77,84
-0022000695,2021-03-27,MIL,NYK,37.15,4,10,51,NYK,NYK,reb,0,False,False,,Knicks Rebound,77-84,77,84
 0022000695,2021-03-27,MIL,NYK,37.15,4,10,51,NYK,MIL,block,6,True,False,block,block,77-84,77,84
+0022000695,2021-03-27,MIL,NYK,37.15,4,10,51,NYK,NYK,reb,0,False,False,,Knicks Rebound,77-84,77,84
 0022000695,2021-03-27,MIL,NYK,37.27,4,10,44,NYK,NYK,fg3_make,1,False,False,,Quickley 24' 3PT Jump Shot (10 PTS),77-87,77,87
 0022000695,2021-03-27,MIL,NYK,37.53,4,10,28,MIL,NYK,foul,1,False,False,,Burks P.FOUL (P4.T1) (S.Wall),77-87,77,87
 0022000695,2021-03-27,MIL,NYK,37.62,4,10,23,MIL,MIL,fg_make,80,False,False,Forbes 10' Step Back Jump Shot (8 PTS) (Connaughton 2 AST),,79-87,79,87
@@ -376,8 +376,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000695,2021-03-27,MIL,NYK,42.33,4,5,40,NYK,NYK,reb,0,False,False,,Knicks Rebound,86-94,86,94
 0022000695,2021-03-27,MIL,NYK,42.33,4,5,40,NYK,NYK,tov,11,False,False,,Knicks Turnover: Shot Clock (T#12),86-94,86,94
 0022000695,2021-03-27,MIL,NYK,42.53,4,5,28,MIL,MIL,fg_miss,6,True,False,MISS Nwora 11' Driving Layup,,86-94,86,94
-0022000695,2021-03-27,MIL,NYK,42.53,4,5,28,MIL,MIL,reb,0,False,False,BUCKS Rebound,,86-94,86,94
 0022000695,2021-03-27,MIL,NYK,42.53,4,5,28,MIL,NYK,block,6,True,False,block,block,86-94,86,94
+0022000695,2021-03-27,MIL,NYK,42.53,4,5,28,MIL,MIL,reb,0,False,False,BUCKS Rebound,,86-94,86,94
 0022000695,2021-03-27,MIL,NYK,42.6,4,5,24,MIL,MIL,fg_miss,1,False,False,MISS Nwora 18' Jump Shot,,86-94,86,94
 0022000695,2021-03-27,MIL,NYK,42.63,4,5,22,MIL,MIL,reb,0,False,False,Merrill REBOUND (Off:1 Def:1),,86-94,86,94
 0022000695,2021-03-27,MIL,NYK,42.65,4,5,21,MIL,MIL,fg_miss,1,False,False,MISS Merrill 5' Jump Shot,,86-94,86,94
@@ -385,9 +385,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000695,2021-03-27,MIL,NYK,42.73,4,5,16,MIL,MIL,tov,1,False,True,Merrill Bad Pass Turnover (P3.T14),,86-94,86,94
 0022000695,2021-03-27,MIL,NYK,42.73,4,5,16,MIL,NYK,steal,1,False,True,steal,steal,86-94,86,94
 0022000695,2021-03-27,MIL,NYK,42.82,4,5,11,NYK,NYK,fg_miss,5,True,False,,MISS Barrett 4' Layup,86-94,86,94
+0022000695,2021-03-27,MIL,NYK,42.82,4,5,11,NYK,MIL,block,5,True,False,block,block,86-94,86,94
 0022000695,2021-03-27,MIL,NYK,42.82,4,5,11,NYK,NYK,reb,0,False,False,,Barrett REBOUND (Off:1 Def:5),86-94,86,94
 0022000695,2021-03-27,MIL,NYK,42.82,4,5,11,NYK,NYK,tov,2,False,True,,Barrett Lost Ball Turnover (P4.T13),86-94,86,94
-0022000695,2021-03-27,MIL,NYK,42.82,4,5,11,NYK,MIL,block,5,True,False,block,block,86-94,86,94
 0022000695,2021-03-27,MIL,NYK,42.82,4,5,11,NYK,MIL,steal,2,False,True,steal,steal,86-94,86,94
 0022000695,2021-03-27,MIL,NYK,42.93,4,5,4,MIL,MIL,fg_miss,5,False,False,MISS Nwora 2' Layup,,86-94,86,94
 0022000695,2021-03-27,MIL,NYK,43.0,4,5,0,MIL,MIL,reb,0,False,False,Diakite REBOUND (Off:3 Def:2),,86-94,86,94
@@ -397,12 +397,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000695,2021-03-27,MIL,NYK,43.53,4,4,28,MIL,MIL,fg3_miss,1,False,False,MISS Nwora 28' 3PT Jump Shot,,89-94,89,94
 0022000695,2021-03-27,MIL,NYK,43.53,4,4,28,NYK,NYK,reb,0,False,False,,Knicks Rebound,89-94,89,94
 0022000695,2021-03-27,MIL,NYK,43.87,4,4,8,NYK,NYK,fg_miss,6,True,False,,MISS Quickley 5' Driving Layup,89-94,89,94
+0022000695,2021-03-27,MIL,NYK,43.87,4,4,8,NYK,MIL,block,6,True,False,block,block,89-94,89,94
 0022000695,2021-03-27,MIL,NYK,43.87,4,4,8,NYK,NYK,reb,0,False,False,,Gibson REBOUND (Off:3 Def:5),89-94,89,94
 0022000695,2021-03-27,MIL,NYK,43.87,4,4,8,NYK,MIL,foul,2,False,False,Antetokounmpo S.FOUL (P1.T2) (S.Wall),,89-94,89,94
 0022000695,2021-03-27,MIL,NYK,43.87,4,4,8,NYK,NYK,ft_miss,11,False,False,,MISS Gibson Free Throw 1 of 2,89-94,89,94
 0022000695,2021-03-27,MIL,NYK,43.87,4,4,8,NYK,NYK,reb,1,False,False,,Knicks Rebound,89-94,89,94
 0022000695,2021-03-27,MIL,NYK,43.87,4,4,8,NYK,NYK,ft_miss,12,False,False,,MISS Gibson Free Throw 2 of 2,89-94,89,94
-0022000695,2021-03-27,MIL,NYK,43.87,4,4,8,NYK,MIL,block,6,True,False,block,block,89-94,89,94
 0022000695,2021-03-27,MIL,NYK,43.93,4,4,4,MIL,MIL,reb,0,False,False,Diakite REBOUND (Off:3 Def:3),,89-94,89,94
 0022000695,2021-03-27,MIL,NYK,44.08,4,3,55,MIL,MIL,fg3_miss,1,False,False,MISS Merrill 26' 3PT Jump Shot,,89-94,89,94
 0022000695,2021-03-27,MIL,NYK,44.12,4,3,53,NYK,NYK,reb,0,False,False,,Quickley REBOUND (Off:1 Def:2),89-94,89,94

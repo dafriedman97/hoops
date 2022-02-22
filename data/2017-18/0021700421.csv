@@ -78,9 +78,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700421,2017-12-15,PHI,OKC,9.53,1,2,28,PHI,PHI,fg_miss,5,False,False,MISS Booker 3' Layup,,17-22,17,22
 0021700421,2017-12-15,PHI,OKC,9.53,1,2,28,PHI,PHI,reb,0,False,False,76ERS Rebound,,17-22,17,22
 0021700421,2017-12-15,PHI,OKC,9.53,1,2,28,PHI,OKC,foul,3,False,False,,Westbrook L.B.FOUL (P1.T3) (E.Malloy),17-22,17,22
-0021700421,2017-12-15,PHI,OKC,9.68,1,2,19,PHI,OKC,foul,2,False,False,,Huestis S.FOUL (P1.T4) (E.Malloy),17-22,17,22
-0021700421,2017-12-15,PHI,OKC,9.68,1,2,19,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (5 PTS),,18-22,18,22
 0021700421,2017-12-15,PHI,OKC,9.68,1,2,19,PHI,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (6 PTS),,19-22,19,22
+0021700421,2017-12-15,PHI,OKC,9.68,1,2,19,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (5 PTS),,18-22,18,22
+0021700421,2017-12-15,PHI,OKC,9.68,1,2,19,PHI,OKC,foul,2,False,False,,Huestis S.FOUL (P1.T4) (E.Malloy),17-22,17,22
 0021700421,2017-12-15,PHI,OKC,9.88,1,2,7,OKC,OKC,fg3_make,1,False,False,,Grant 3PT Jump Shot (5 PTS) (Westbrook 5 AST),19-25,19,25
 0021700421,2017-12-15,PHI,OKC,10.18,1,1,49,PHI,PHI,fg_make,47,False,False,Booker 9' Turnaround Jump Shot (4 PTS) (McConnell 2 AST),,21-25,21,25
 0021700421,2017-12-15,PHI,OKC,10.33,1,1,40,OKC,OKC,fg_miss,1,False,False,,MISS Westbrook 10' Jump Shot,21-25,21,25
@@ -222,14 +222,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700421,2017-12-15,PHI,OKC,25.78,3,10,13,PHI,PHI,fg_miss,1,False,False,MISS Embiid 13' Jump Shot,,49-57,49,57
 0021700421,2017-12-15,PHI,OKC,25.85,3,10,9,PHI,PHI,reb,0,False,False,Saric REBOUND (Off:1 Def:3),,49-57,49,57
 0021700421,2017-12-15,PHI,OKC,25.85,3,10,9,PHI,PHI,fg_miss,1,True,False,MISS Saric 2' Jump Shot,,49-57,49,57
-0021700421,2017-12-15,PHI,OKC,25.85,3,10,9,OKC,OKC,reb,0,False,False,,Roberson REBOUND (Off:0 Def:4),49-57,49,57
 0021700421,2017-12-15,PHI,OKC,25.85,3,10,9,PHI,OKC,block,1,True,False,block,block,49-57,49,57
+0021700421,2017-12-15,PHI,OKC,25.85,3,10,9,OKC,OKC,reb,0,False,False,,Roberson REBOUND (Off:0 Def:4),49-57,49,57
 0021700421,2017-12-15,PHI,OKC,25.93,3,10,4,OKC,OKC,fg_make,52,False,False,,Adams 1' Alley Oop Dunk (4 PTS) (Westbrook 10 AST),49-59,49,59
 0021700421,2017-12-15,PHI,OKC,25.93,3,10,4,OKC,PHI,foul,1,False,False,Covington P.FOUL (P2.T1) (D.Taylor),,49-59,49,59
 0021700421,2017-12-15,PHI,OKC,25.93,3,10,4,OKC,OKC,ft_make,10,False,False,,Adams Free Throw 1 of 1 (5 PTS),49-60,49,60
 0021700421,2017-12-15,PHI,OKC,26.35,3,9,39,PHI,PHI,fg_miss,1,False,False,MISS Simmons 19' Jump Shot,,49-60,49,60
-0021700421,2017-12-15,PHI,OKC,26.35,3,9,39,PHI,PHI,reb,0,False,False,76ERS Rebound,,49-60,49,60
 0021700421,2017-12-15,PHI,OKC,26.35,3,9,39,PHI,PHI,tov,11,False,False,76ERS Turnover: Shot Clock (T#9),,49-60,49,60
+0021700421,2017-12-15,PHI,OKC,26.35,3,9,39,PHI,PHI,reb,0,False,False,76ERS Rebound,,49-60,49,60
 0021700421,2017-12-15,PHI,OKC,26.47,3,9,32,OKC,OKC,fg_make,52,False,False,,Roberson Alley Oop Dunk (2 PTS) (Westbrook 11 AST),49-62,49,62
 0021700421,2017-12-15,PHI,OKC,26.47,3,9,32,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 4 Short 0),,49-62,49,62
 0021700421,2017-12-15,PHI,OKC,26.72,3,9,17,PHI,PHI,fg_make,98,False,False,Saric 1' Cutting Layup Shot (6 PTS) (Redick 2 AST),,51-62,51,62
@@ -341,9 +341,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700421,2017-12-15,PHI,OKC,38.72,4,9,17,OKC,OKC,tov,1,False,True,,Abrines Bad Pass Turnover (P2.T14),79-84,79,84
 0021700421,2017-12-15,PHI,OKC,38.72,4,9,17,OKC,PHI,steal,1,False,True,steal,steal,79-84,79,84
 0021700421,2017-12-15,PHI,OKC,38.78,4,9,13,PHI,PHI,fg_miss,41,True,False,MISS McConnell 3' Running Layup,,79-84,79,84
+0021700421,2017-12-15,PHI,OKC,38.78,4,9,13,PHI,OKC,block,41,True,False,block,block,79-84,79,84
 0021700421,2017-12-15,PHI,OKC,38.78,4,9,13,PHI,PHI,reb,0,False,False,McConnell REBOUND (Off:1 Def:1),,79-84,79,84
 0021700421,2017-12-15,PHI,OKC,38.78,4,9,13,PHI,PHI,tov,39,False,False,McConnell Step Out of Bounds Turnover (P2.T13),,79-84,79,84
-0021700421,2017-12-15,PHI,OKC,38.78,4,9,13,PHI,OKC,block,41,True,False,block,block,79-84,79,84
 0021700421,2017-12-15,PHI,OKC,38.95,4,9,3,OKC,OKC,tov,21,False,False,,Felton Palming Turnover (P2.T15),79-84,79,84
 0021700421,2017-12-15,PHI,OKC,39.18,4,8,49,PHI,PHI,fg_make,58,False,False,Saric 7' Turnaround Hook Shot (11 PTS) (Simmons 8 AST),,81-84,81,84
 0021700421,2017-12-15,PHI,OKC,39.48,4,8,31,OKC,OKC,fg_miss,75,False,False,,MISS Westbrook 2' Driving Finger Roll Layup,81-84,81,84
@@ -529,11 +529,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700421,2017-12-15,PHI,OKC,62.85,7,0,9,OKC,OKC,fg_make,44,False,False,,Roberson 2' Reverse Layup (4 PTS) (Westbrook 15 AST),117-119,117,119
 0021700421,2017-12-15,PHI,OKC,62.85,7,0,9,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 11 Short 0),,117-119,117,119
 0021700421,2017-12-15,PHI,OKC,62.98,7,0,1,PHI,PHI,fg3_miss,1,True,False,MISS Redick 29' 3PT Jump Shot,,117-119,117,119
+0021700421,2017-12-15,PHI,OKC,62.98,7,0,1,PHI,OKC,block,1,True,False,block,block,117-119,117,119
 0021700421,2017-12-15,PHI,OKC,62.98,7,0,1,OKC,OKC,reb,0,False,False,,Westbrook REBOUND (Off:5 Def:12),117-119,117,119
 0021700421,2017-12-15,PHI,OKC,62.98,7,0,1,OKC,PHI,foul,1,False,False,Embiid P.FOUL (P3.PN) (J.Williams),,117-119,117,119
 0021700421,2017-12-15,PHI,OKC,62.98,7,0,1,OKC,OKC,ft_miss,11,False,False,,MISS Westbrook Free Throw 1 of 2,117-119,117,119
 0021700421,2017-12-15,PHI,OKC,62.98,7,0,1,OKC,OKC,reb,1,False,False,,Thunder Rebound,117-119,117,119
 0021700421,2017-12-15,PHI,OKC,62.98,7,0,1,OKC,OKC,ft_miss,12,False,False,,MISS Westbrook Free Throw 2 of 2,117-119,117,119
-0021700421,2017-12-15,PHI,OKC,62.98,7,0,1,PHI,OKC,block,1,True,False,block,block,117-119,117,119
 0021700421,2017-12-15,PHI,OKC,63.0,7,0,0,PHI,PHI,reb,0,False,False,Covington REBOUND (Off:0 Def:10),,117-119,117,119
 0021700421,2017-12-15,PHI,OKC,63.0,7,0,0,PHI,,period_end,0,False,False,,,117-119,117,119

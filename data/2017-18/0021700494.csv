@@ -58,9 +58,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700494,2017-12-25,GSW,CLE,6.32,1,5,41,GSW,GSW,tov,1,False,True,Green Bad Pass Turnover (P2.T6),,10-15,10,15
 0021700494,2017-12-25,GSW,CLE,6.32,1,5,41,GSW,CLE,steal,1,False,True,steal,steal,10-15,10,15
 0021700494,2017-12-25,GSW,CLE,6.58,1,5,25,CLE,CLE,tov,1,False,True,,Smith Bad Pass Turnover (P1.T2),10-15,10,15
+0021700494,2017-12-25,GSW,CLE,6.58,1,5,25,CLE,GSW,steal,1,False,True,steal,steal,10-15,10,15
 0021700494,2017-12-25,GSW,CLE,6.58,1,5,25,GSW,CLE,foul,1,False,False,,Calderon P.FOUL (P1.T3) (G.Zielinski),10-15,10,15
 0021700494,2017-12-25,GSW,CLE,6.58,1,5,25,CLE,GSW,foul,11,False,False,Green T.FOUL (P0.T1) (D.Stafford),,10-15,10,15
-0021700494,2017-12-25,GSW,CLE,6.58,1,5,25,CLE,GSW,steal,1,False,True,steal,steal,10-15,10,15
 0021700494,2017-12-25,GSW,CLE,6.58,1,5,25,CLE,CLE,ft_make,16,False,False,,Love Free Throw Technical (3 PTS),10-16,10,16
 0021700494,2017-12-25,GSW,CLE,6.77,1,5,14,GSW,GSW,fg_make,1,False,False,Durant 17' Jump Shot (4 PTS) (Green 3 AST),,12-16,12,16
 0021700494,2017-12-25,GSW,CLE,6.93,1,5,4,CLE,GSW,foul,1,False,False,Bell P.FOUL (P1.T2) (G.Zielinski),,12-16,12,16
@@ -247,8 +247,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700494,2017-12-25,GSW,CLE,26.15,3,9,51,GSW,GSW,reb,0,False,False,Bell REBOUND (Off:2 Def:3),,50-49,50,49
 0021700494,2017-12-25,GSW,CLE,26.18,3,9,49,GSW,GSW,fg_make,1,False,False,Thompson 12' Jump Shot (15 PTS) (Green 7 AST),,52-49,52,49
 0021700494,2017-12-25,GSW,CLE,26.52,3,9,29,CLE,GSW,foul,2,False,False,Green S.FOUL (P1.T1) (D.Stafford),,52-49,52,49
-0021700494,2017-12-25,GSW,CLE,26.52,3,9,29,CLE,CLE,ft_make,12,False,False,,Love Free Throw 2 of 2 (17 PTS),52-50,52,50
 0021700494,2017-12-25,GSW,CLE,26.52,3,9,29,CLE,CLE,ft_make,11,False,False,,Love Free Throw 1 of 2 (18 PTS),52-51,52,51
+0021700494,2017-12-25,GSW,CLE,26.52,3,9,29,CLE,CLE,ft_make,12,False,False,,Love Free Throw 2 of 2 (17 PTS),52-50,52,50
 0021700494,2017-12-25,GSW,CLE,26.77,3,9,14,GSW,GSW,fg3_make,1,False,False,McCaw 3PT Jump Shot (5 PTS) (Thompson 2 AST),,55-51,55,51
 0021700494,2017-12-25,GSW,CLE,27.15,3,8,51,CLE,CLE,fg3_make,1,False,False,,Crowder 26' 3PT Jump Shot (11 PTS) (James 4 AST),55-54,55,54
 0021700494,2017-12-25,GSW,CLE,27.55,3,8,27,GSW,GSW,fg_make,6,False,False,McCaw 3' Driving Layup (7 PTS) (Durant 2 AST),,57-54,57,54

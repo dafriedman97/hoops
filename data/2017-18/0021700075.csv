@@ -76,8 +76,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700075,2017-10-27,GSW,WAS,7.87,1,4,8,GSW,GSW,fg3_miss,1,False,False,MISS McCaw 3PT Jump Shot,,16-23,16,23
 0021700075,2017-10-27,GSW,WAS,7.93,1,4,4,WAS,WAS,reb,0,False,False,,Gortat REBOUND (Off:0 Def:2),16-23,16,23
 0021700075,2017-10-27,GSW,WAS,7.97,1,4,2,WAS,WAS,fg_miss,5,True,False,,MISS Wall 2' Layup,16-23,16,23
-0021700075,2017-10-27,GSW,WAS,7.97,1,4,2,WAS,WAS,reb,0,False,False,,Wizards Rebound,16-23,16,23
 0021700075,2017-10-27,GSW,WAS,7.97,1,4,2,WAS,GSW,block,5,True,False,block,block,16-23,16,23
+0021700075,2017-10-27,GSW,WAS,7.97,1,4,2,WAS,WAS,reb,0,False,False,,Wizards Rebound,16-23,16,23
 0021700075,2017-10-27,GSW,WAS,8.12,1,3,53,WAS,WAS,fg_make,9,False,False,,Wall Driving Dunk (2 PTS) (Gortat 2 AST),16-25,16,25
 0021700075,2017-10-27,GSW,WAS,8.33,1,3,40,GSW,GSW,fg3_miss,1,False,False,MISS Durant 27' 3PT Jump Shot,,16-25,16,25
 0021700075,2017-10-27,GSW,WAS,8.4,1,3,36,GSW,GSW,reb,0,False,False,McGee REBOUND (Off:1 Def:0),,16-25,16,25
@@ -232,9 +232,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700075,2017-10-27,GSW,WAS,23.68,2,0,19,WAS,WAS,fg3_miss,79,False,False,,MISS Oubre Jr. 26' 3PT Pullup Jump Shot,50-64,50,64
 0021700075,2017-10-27,GSW,WAS,23.68,2,0,19,GSW,GSW,reb,0,False,False,Durant REBOUND (Off:1 Def:4),,50-64,50,64
 0021700075,2017-10-27,GSW,WAS,23.68,2,0,19,WAS,GSW,foul,11,False,False,Green T.FOUL (P1.PN) (B.Kennedy),,50-64,50,64
-0021700075,2017-10-27,GSW,WAS,23.68,2,0,19,GSW,WAS,foul,11,False,False,,Beal T.FOUL (P1.T2) (B.Kennedy),50-64,50,64
 0021700075,2017-10-27,GSW,WAS,23.68,2,0,19,GSW,WAS,ejection,4,False,False,,Beal Ejection:Other,50-64,50,64
 0021700075,2017-10-27,GSW,WAS,23.68,2,0,19,GSW,GSW,ejection,4,False,False,Green Ejection:Other,,50-64,50,64
+0021700075,2017-10-27,GSW,WAS,23.68,2,0,19,GSW,WAS,foul,11,False,False,,Beal T.FOUL (P1.T2) (B.Kennedy),50-64,50,64
 0021700075,2017-10-27,GSW,WAS,23.9,2,0,6,GSW,GSW,fg3_make,1,False,False,Thompson 27' 3PT Jump Shot (13 PTS) (Curry 5 AST),,53-64,53,64
 0021700075,2017-10-27,GSW,WAS,23.98,2,0,1,WAS,WAS,fg3_make,2,False,False,,Wall 27' 3PT Running Jump Shot (9 PTS),53-67,53,67
 0021700075,2017-10-27,GSW,WAS,24.0,2,0,0,WAS,,period_end,0,False,False,,,53-67,53,67
@@ -288,8 +288,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700075,2017-10-27,GSW,WAS,29.0,3,7,0,GSW,WAS,foul,1,False,False,,Wall P.FOUL (P2.T2) (G.Zielinski),62-80,62,80
 0021700075,2017-10-27,GSW,WAS,29.0,3,7,0,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 4 Short 0),,62-80,62,80
 0021700075,2017-10-27,GSW,WAS,29.15,3,6,51,GSW,GSW,fg_miss,5,True,False,MISS Pachulia 3' Layup,,62-80,62,80
-0021700075,2017-10-27,GSW,WAS,29.15,3,6,51,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,62-80,62,80
 0021700075,2017-10-27,GSW,WAS,29.15,3,6,51,GSW,WAS,block,5,True,False,block,block,62-80,62,80
+0021700075,2017-10-27,GSW,WAS,29.15,3,6,51,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,62-80,62,80
 0021700075,2017-10-27,GSW,WAS,29.23,3,6,46,GSW,GSW,fg_make,1,False,False,Durant 19' Jump Shot (16 PTS) (Pachulia 1 AST),,64-80,64,80
 0021700075,2017-10-27,GSW,WAS,29.43,3,6,34,WAS,GSW,foul,1,False,False,Pachulia P.FOUL (P3.PN) (E.Dalen),,64-80,64,80
 0021700075,2017-10-27,GSW,WAS,29.43,3,6,34,WAS,WAS,ft_miss,11,False,False,,MISS Porter Jr. Free Throw 1 of 2,64-80,64,80
@@ -384,10 +384,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700075,2017-10-27,GSW,WAS,37.43,4,10,34,WAS,WAS,fg_miss,1,False,False,,MISS Porter Jr. 20' Jump Shot,93-97,93,97
 0021700075,2017-10-27,GSW,WAS,37.53,4,10,28,GSW,GSW,reb,0,False,False,Durant REBOUND (Off:2 Def:8),,93-97,93,97
 0021700075,2017-10-27,GSW,WAS,37.9,4,10,6,GSW,GSW,fg_miss,5,True,False,MISS Thompson 3' Layup,,93-97,93,97
+0021700075,2017-10-27,GSW,WAS,37.9,4,10,6,GSW,WAS,block,5,True,False,block,block,93-97,93,97
 0021700075,2017-10-27,GSW,WAS,37.9,4,10,6,GSW,GSW,reb,0,False,False,Casspi REBOUND (Off:1 Def:1),,93-97,93,97
 0021700075,2017-10-27,GSW,WAS,37.9,4,10,6,GSW,GSW,fg3_miss,1,False,False,MISS West 25' 3PT Jump Shot,,93-97,93,97
 0021700075,2017-10-27,GSW,WAS,37.9,4,10,6,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,93-97,93,97
-0021700075,2017-10-27,GSW,WAS,37.9,4,10,6,GSW,WAS,block,5,True,False,block,block,93-97,93,97
 0021700075,2017-10-27,GSW,WAS,37.93,4,10,4,GSW,GSW,tov,11,False,False,WARRIORS Turnover: Shot Clock (T#15),,93-97,93,97
 0021700075,2017-10-27,GSW,WAS,38.13,4,9,52,WAS,GSW,violation,5,False,False,Durant Violation:Kicked Ball (B.Kennedy),,93-97,93,97
 0021700075,2017-10-27,GSW,WAS,38.3,4,9,42,WAS,WAS,fg_miss,78,False,False,,MISS Frazier 14' Floating Jump Shot,93-97,93,97

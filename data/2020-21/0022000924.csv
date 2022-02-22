@@ -28,8 +28,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000924,2021-04-26,NOP,LAC,2.72,1,9,17,NOP,NOP,reb,0,False,False,Ingram REBOUND (Off:0 Def:1),,2-7,2,7
 0022000924,2021-04-26,NOP,LAC,2.85,1,9,9,NOP,NOP,fg_miss,6,True,False,MISS Ingram 2' Driving Layup,,2-7,2,7
 0022000924,2021-04-26,NOP,LAC,2.85,1,9,9,NOP,LAC,block,6,True,False,block,block,2-7,2,7
-0022000924,2021-04-26,NOP,LAC,2.87,1,9,8,NOP,NOP,reb,0,False,False,Ingram REBOUND (Off:1 Def:1),,2-7,2,7
 0022000924,2021-04-26,NOP,LAC,2.87,1,9,8,NOP,NOP,fg_miss,101,False,False,MISS Bledsoe 20' Driving Floating Jump Shot,,2-7,2,7
+0022000924,2021-04-26,NOP,LAC,2.87,1,9,8,NOP,NOP,reb,0,False,False,Ingram REBOUND (Off:1 Def:1),,2-7,2,7
 0022000924,2021-04-26,NOP,LAC,2.92,1,9,5,LAC,LAC,reb,0,False,False,,Morris Sr. REBOUND (Off:0 Def:2),2-7,2,7
 0022000924,2021-04-26,NOP,LAC,3.03,1,8,58,LAC,LAC,fg_make,80,False,False,,Morris Sr. 19' Step Back Jump Shot (2 PTS),2-9,2,9
 0022000924,2021-04-26,NOP,LAC,3.32,1,8,41,NOP,LAC,foul,2,False,False,,Morris Sr. S.FOUL (P1.T1) (J.Goldenberg),2-9,2,9
@@ -84,9 +84,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000924,2021-04-26,NOP,LAC,7.95,1,4,3,NOP,NOP,reb,1,False,False,PELICANS Rebound,,20-13,20,13
 0022000924,2021-04-26,NOP,LAC,7.95,1,4,3,NOP,NOP,ft_make,12,False,False,Bledsoe Free Throw 2 of 2 (3 PTS),,21-13,21,13
 0022000924,2021-04-26,NOP,LAC,8.22,1,3,47,LAC,LAC,fg_miss,5,False,False,,MISS Morris Sr. 2' Layup,21-13,21,13
+0022000924,2021-04-26,NOP,LAC,8.32,1,3,41,LAC,LAC,reb,0,False,False,,Morris Sr. REBOUND (Off:1 Def:2),21-13,21,13
 0022000924,2021-04-26,NOP,LAC,8.32,1,3,41,LAC,LAC,fg_miss,97,False,False,,MISS Morris Sr. Tip Layup Shot,21-13,21,13
 0022000924,2021-04-26,NOP,LAC,8.32,1,3,41,NOP,NOP,reb,0,False,False,Bledsoe REBOUND (Off:1 Def:1),,21-13,21,13
-0022000924,2021-04-26,NOP,LAC,8.32,1,3,41,LAC,LAC,reb,0,False,False,,Morris Sr. REBOUND (Off:1 Def:2),21-13,21,13
 0022000924,2021-04-26,NOP,LAC,8.35,1,3,39,NOP,NOP,fg_make,98,False,False,Hernangomez 2' Cutting Layup Shot (6 PTS) (Bledsoe 2 AST),,23-13,23,13
 0022000924,2021-04-26,NOP,LAC,8.35,1,3,39,NOP,LAC,foul,2,False,False,,Jackson S.FOUL (P2.PN) (M.Kogut),23-13,23,13
 0022000924,2021-04-26,NOP,LAC,8.35,1,3,39,NOP,NOP,ft_make,10,False,False,Hernangomez Free Throw 1 of 1 (7 PTS),,24-13,24,13
@@ -327,8 +327,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000924,2021-04-26,NOP,LAC,34.32,3,1,41,LAC,NOP,steal,2,False,True,steal,steal,90-72,90,72
 0022000924,2021-04-26,NOP,LAC,34.4,3,1,36,NOP,NOP,fg_make,6,False,False,Gabriel 2' Driving Layup (4 PTS) (Lewis Jr. 1 AST),,92-72,92,72
 0022000924,2021-04-26,NOP,LAC,34.63,3,1,22,LAC,LAC,fg_miss,6,False,False,,MISS Cousins 5' Driving Layup,92-72,92,72
-0022000924,2021-04-26,NOP,LAC,34.7,3,1,18,LAC,LAC,fg_miss,97,False,False,,MISS Cousins Tip Layup Shot,92-72,92,72
 0022000924,2021-04-26,NOP,LAC,34.7,3,1,18,LAC,LAC,reb,0,False,False,,Cousins REBOUND (Off:2 Def:3),92-72,92,72
+0022000924,2021-04-26,NOP,LAC,34.7,3,1,18,LAC,LAC,fg_miss,97,False,False,,MISS Cousins Tip Layup Shot,92-72,92,72
 0022000924,2021-04-26,NOP,LAC,34.73,3,1,16,LAC,LAC,reb,0,False,False,,Cousins REBOUND (Off:3 Def:3),92-72,92,72
 0022000924,2021-04-26,NOP,LAC,34.73,3,1,16,LAC,LAC,fg_make,97,False,False,,Cousins Tip Layup Shot (12 PTS),92-74,92,74
 0022000924,2021-04-26,NOP,LAC,34.92,3,1,5,NOP,NOP,fg3_miss,79,False,False,MISS Ingram 25' 3PT Pullup Jump Shot,,92-74,92,74

@@ -27,10 +27,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800477,2018-12-21,SAC,MEM,2.97,1,9,2,SAC,SAC,fg3_make,1,False,False,Hield 25' 3PT Jump Shot (3 PTS) (Shumpert 1 AST),,5-7,5,7
 0021800477,2018-12-21,SAC,MEM,3.28,1,8,43,MEM,MEM,fg3_make,1,False,False,,Jackson Jr. 25' 3PT Jump Shot (5 PTS) (Temple 2 AST),5-10,5,10
 0021800477,2018-12-21,SAC,MEM,3.48,1,8,31,SAC,SAC,fg_miss,7,True,False,MISS Koufos 2' Dunk,,5-10,5,10
+0021800477,2018-12-21,SAC,MEM,3.48,1,8,31,SAC,MEM,block,7,True,False,block,block,5-10,5,10
 0021800477,2018-12-21,SAC,MEM,3.48,1,8,31,SAC,SAC,reb,0,False,False,KINGS Rebound,,5-10,5,10
 0021800477,2018-12-21,SAC,MEM,3.48,1,8,31,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.1 Short 0),5-10,5,10
 0021800477,2018-12-21,SAC,MEM,3.48,1,8,31,,SAC,jump_ball,0,False,False,Jump Ball Koufos vs. Jackson Jr.: Tip to Fox,,5-10,5,10
-0021800477,2018-12-21,SAC,MEM,3.48,1,8,31,SAC,MEM,block,7,True,False,block,block,5-10,5,10
 0021800477,2018-12-21,SAC,MEM,3.72,1,8,17,SAC,SAC,fg3_miss,1,False,False,MISS Shumpert 26' 3PT Jump Shot,,5-10,5,10
 0021800477,2018-12-21,SAC,MEM,3.75,1,8,15,MEM,MEM,reb,0,False,False,,Gasol REBOUND (Off:0 Def:1),5-10,5,10
 0021800477,2018-12-21,SAC,MEM,4.0,1,8,0,MEM,MEM,tov,2,False,False,,Anderson Lost Ball Turnover (P1.T3),5-10,5,10
@@ -175,8 +175,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800477,2018-12-21,SAC,MEM,18.6,2,5,24,SAC,MEM,foul,4,False,False,,Jackson Jr. OFF.Foul (P1) (J.Orr),29-48,29,48
 0021800477,2018-12-21,SAC,MEM,18.6,2,5,24,MEM,MEM,tov,37,False,False,,Jackson Jr. Offensive Foul Turnover (P1.T7),29-48,29,48
 0021800477,2018-12-21,SAC,MEM,18.72,2,5,17,SAC,SAC,fg_miss,6,True,False,MISS Hield 9' Driving Layup,,29-48,29,48
-0021800477,2018-12-21,SAC,MEM,18.72,2,5,17,SAC,SAC,reb,0,False,False,KINGS Rebound,,29-48,29,48
 0021800477,2018-12-21,SAC,MEM,18.72,2,5,17,SAC,MEM,block,6,True,False,block,block,29-48,29,48
+0021800477,2018-12-21,SAC,MEM,18.72,2,5,17,SAC,SAC,reb,0,False,False,KINGS Rebound,,29-48,29,48
 0021800477,2018-12-21,SAC,MEM,18.8,2,5,12,SAC,SAC,fg_miss,6,False,False,MISS Hield 3' Driving Layup,,29-48,29,48
 0021800477,2018-12-21,SAC,MEM,18.85,2,5,9,SAC,SAC,reb,0,False,False,Cauley-Stein REBOUND (Off:2 Def:3),,29-48,29,48
 0021800477,2018-12-21,SAC,MEM,18.9,2,5,6,SAC,SAC,fg3_make,1,False,False,Shumpert 24' 3PT Jump Shot (5 PTS) (Cauley-Stein 2 AST),,32-48,32,48
@@ -201,8 +201,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800477,2018-12-21,SAC,MEM,21.3,2,2,42,SAC,SAC,reb,0,False,False,Bjelica REBOUND (Off:0 Def:1),,36-53,36,53
 0021800477,2018-12-21,SAC,MEM,21.37,2,2,38,SAC,SAC,fg_make,6,False,False,Shumpert 2' Driving Layup (11 PTS),,38-53,38,53
 0021800477,2018-12-21,SAC,MEM,21.8,2,2,12,MEM,MEM,fg_miss,5,True,False,,MISS Green 5' Layup,38-53,38,53
-0021800477,2018-12-21,SAC,MEM,21.8,2,2,12,SAC,SAC,reb,0,False,False,Hield REBOUND (Off:2 Def:3),,38-53,38,53
 0021800477,2018-12-21,SAC,MEM,21.8,2,2,12,MEM,SAC,block,5,True,False,block,block,38-53,38,53
+0021800477,2018-12-21,SAC,MEM,21.8,2,2,12,SAC,SAC,reb,0,False,False,Hield REBOUND (Off:2 Def:3),,38-53,38,53
 0021800477,2018-12-21,SAC,MEM,22.03,2,1,58,SAC,SAC,fg3_miss,1,False,False,MISS Hield 3PT Jump Shot,,38-53,38,53
 0021800477,2018-12-21,SAC,MEM,22.08,2,1,55,MEM,MEM,reb,0,False,False,,Temple REBOUND (Off:0 Def:2),38-53,38,53
 0021800477,2018-12-21,SAC,MEM,22.35,2,1,39,MEM,MEM,fg_miss,3,False,False,,MISS Gasol 6' Hook Shot,38-53,38,53
@@ -260,9 +260,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800477,2018-12-21,SAC,MEM,28.63,3,7,22,MEM,MEM,fg3_miss,80,False,False,,MISS Conley 25' 3PT Step Back Jump Shot,55-62,55,62
 0021800477,2018-12-21,SAC,MEM,28.67,3,7,20,SAC,SAC,reb,0,False,False,Cauley-Stein REBOUND (Off:3 Def:6),,55-62,55,62
 0021800477,2018-12-21,SAC,MEM,29.03,3,6,58,SAC,SAC,fg_miss,78,True,False,MISS Hield 14' Floating Jump Shot,,55-62,55,62
+0021800477,2018-12-21,SAC,MEM,29.03,3,6,58,SAC,MEM,block,78,True,False,block,block,55-62,55,62
 0021800477,2018-12-21,SAC,MEM,29.03,3,6,58,SAC,SAC,reb,0,False,False,KINGS Rebound,,55-62,55,62
 0021800477,2018-12-21,SAC,MEM,29.03,3,6,58,SAC,SAC,tov,11,False,False,KINGS Turnover: Shot Clock (T#5),,55-62,55,62
-0021800477,2018-12-21,SAC,MEM,29.03,3,6,58,SAC,MEM,block,78,True,False,block,block,55-62,55,62
 0021800477,2018-12-21,SAC,MEM,29.32,3,6,41,MEM,MEM,fg3_make,1,False,False,,Conley 25' 3PT Jump Shot (21 PTS) (Gasol 3 AST),55-65,55,65
 0021800477,2018-12-21,SAC,MEM,29.52,3,6,29,SAC,SAC,fg3_miss,1,False,False,MISS Hield 3PT Jump Shot,,55-65,55,65
 0021800477,2018-12-21,SAC,MEM,29.57,3,6,26,MEM,MEM,reb,0,False,False,,Anderson REBOUND (Off:0 Def:4),55-65,55,65

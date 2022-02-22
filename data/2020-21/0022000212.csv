@@ -215,9 +215,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000212,2021-01-18,LAL,GSW,23.8,2,0,12,LAL,GSW,foul,2,False,False,,Wiseman S.FOUL (P3.PN) (J.Goble),62-48,62,48
 0022000212,2021-01-18,LAL,GSW,23.8,2,0,12,LAL,LAL,ft_make,11,False,False,Schroder Free Throw 1 of 2 (17 PTS),,63-48,63,48
 0022000212,2021-01-18,LAL,GSW,23.8,2,0,12,LAL,LAL,ft_make,12,False,False,Schroder Free Throw 2 of 2 (18 PTS),,64-48,64,48
+0022000212,2021-01-18,LAL,GSW,24.0,2,0,0,GSW,,period_end,0,False,False,,,64-48,64,48
 0022000212,2021-01-18,LAL,GSW,24.0,2,0,0,GSW,GSW,fg3_miss,1,False,False,,MISS Oubre Jr. 24' 3PT Jump Shot,64-48,64,48
 0022000212,2021-01-18,LAL,GSW,24.0,2,0,0,GSW,GSW,reb,0,False,False,,Warriors Rebound,64-48,64,48
-0022000212,2021-01-18,LAL,GSW,24.0,2,0,0,GSW,,period_end,0,False,False,,,64-48,64,48
 0022000212,2021-01-18,LAL,GSW,24.0,3,12,0,GSW,,period_start,0,False,False,,,64-48,64,48
 0022000212,2021-01-18,LAL,GSW,24.25,3,11,45,LAL,GSW,foul,26,False,False,,Wiseman Offensive Charge Foul (P4.T1) (J.Goble),64-48,64,48
 0022000212,2021-01-18,LAL,GSW,24.25,3,11,45,GSW,GSW,tov,37,False,False,,Wiseman Offensive Foul Turnover (P4.T8),64-48,64,48
@@ -261,13 +261,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000212,2021-01-18,LAL,GSW,27.77,3,8,14,GSW,GSW,fg3_miss,1,False,False,,MISS Curry 26' 3PT Jump Shot,70-61,70,61
 0022000212,2021-01-18,LAL,GSW,27.83,3,8,10,GSW,GSW,reb,0,False,False,,Oubre Jr. REBOUND (Off:1 Def:2),70-61,70,61
 0022000212,2021-01-18,LAL,GSW,27.85,3,8,9,GSW,GSW,fg_miss,72,True,False,,MISS Oubre Jr. 4' Putback Layup,70-61,70,61
+0022000212,2021-01-18,LAL,GSW,27.85,3,8,9,GSW,LAL,block,72,True,False,block,block,70-61,70,61
 0022000212,2021-01-18,LAL,GSW,27.85,3,8,9,GSW,GSW,reb,0,False,False,,Oubre Jr. REBOUND (Off:2 Def:2),70-61,70,61
 0022000212,2021-01-18,LAL,GSW,27.85,3,8,9,GSW,LAL,foul,1,False,False,Davis P.FOUL (P1.T2) (G.Petraitis),,70-61,70,61
-0022000212,2021-01-18,LAL,GSW,27.85,3,8,9,GSW,LAL,block,72,True,False,block,block,70-61,70,61
 0022000212,2021-01-18,LAL,GSW,28.02,3,7,59,GSW,GSW,fg3_make,1,False,False,,Looney 3PT Jump Shot (5 PTS) (Curry 4 AST),70-64,70,64
 0022000212,2021-01-18,LAL,GSW,28.33,3,7,40,LAL,LAL,fg_miss,5,True,False,MISS Schroder 4' Layup,,70-64,70,64
-0022000212,2021-01-18,LAL,GSW,28.33,3,7,40,GSW,GSW,reb,0,False,False,,Warriors Rebound,70-64,70,64
 0022000212,2021-01-18,LAL,GSW,28.33,3,7,40,LAL,GSW,block,5,True,False,block,block,70-64,70,64
+0022000212,2021-01-18,LAL,GSW,28.33,3,7,40,GSW,GSW,reb,0,False,False,,Warriors Rebound,70-64,70,64
 0022000212,2021-01-18,LAL,GSW,28.62,3,7,23,GSW,GSW,fg3_miss,1,False,False,,MISS Oubre Jr. 3PT Jump Shot,70-64,70,64
 0022000212,2021-01-18,LAL,GSW,28.7,3,7,18,LAL,LAL,reb,0,False,False,Schroder REBOUND (Off:1 Def:2),,70-64,70,64
 0022000212,2021-01-18,LAL,GSW,28.77,3,7,14,LAL,LAL,tov,40,False,False,Caldwell-Pope Out of Bounds Lost Ball Turnover (P1.T12),,70-64,70,64
@@ -283,8 +283,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000212,2021-01-18,LAL,GSW,29.82,3,6,11,GSW,LAL,foul,4,False,False,Schroder OFF.Foul (P2) (J.Tiven),,70-68,70,68
 0022000212,2021-01-18,LAL,GSW,29.82,3,6,11,LAL,LAL,tov,37,False,False,Schroder Offensive Foul Turnover (P3.T13),,70-68,70,68
 0022000212,2021-01-18,LAL,GSW,29.98,3,6,1,GSW,GSW,tov,1,False,True,,Curry Bad Pass Turnover (P2.T11),70-68,70,68
-0022000212,2021-01-18,LAL,GSW,29.98,3,6,1,LAL,GSW,foul,1,False,False,,Green P.FOUL (P4.T4) (J.Goble),70-68,70,68
 0022000212,2021-01-18,LAL,GSW,29.98,3,6,1,GSW,LAL,steal,1,False,True,steal,steal,70-68,70,68
+0022000212,2021-01-18,LAL,GSW,29.98,3,6,1,LAL,GSW,foul,1,False,False,,Green P.FOUL (P4.T4) (J.Goble),70-68,70,68
 0022000212,2021-01-18,LAL,GSW,30.37,3,5,38,LAL,LAL,fg_miss,5,True,False,MISS Davis 1' Layup,,70-68,70,68
 0022000212,2021-01-18,LAL,GSW,30.37,3,5,38,LAL,GSW,block,5,True,False,block,block,70-68,70,68
 0022000212,2021-01-18,LAL,GSW,30.38,3,5,37,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:3 Def:8),,70-68,70,68
@@ -368,8 +368,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000212,2021-01-18,LAL,GSW,39.78,4,8,13,LAL,LAL,fg_make,79,False,False,Kuzma 21' Pullup Jump Shot (15 PTS),,103-95,103,95
 0022000212,2021-01-18,LAL,GSW,40.17,4,7,50,GSW,GSW,fg_miss,98,True,False,,MISS Oubre Jr. 3' Cutting Layup Shot,103-95,103,95
 0022000212,2021-01-18,LAL,GSW,40.17,4,7,50,GSW,LAL,block,98,True,False,block,block,103-95,103,95
-0022000212,2021-01-18,LAL,GSW,40.22,4,7,47,LAL,LAL,tov,2,False,True,Kuzma Lost Ball Turnover (P2.T16),,103-95,103,95
 0022000212,2021-01-18,LAL,GSW,40.22,4,7,47,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:1 Def:8),,103-95,103,95
+0022000212,2021-01-18,LAL,GSW,40.22,4,7,47,LAL,LAL,tov,2,False,True,Kuzma Lost Ball Turnover (P2.T16),,103-95,103,95
 0022000212,2021-01-18,LAL,GSW,40.22,4,7,47,LAL,GSW,steal,2,False,True,steal,steal,103-95,103,95
 0022000212,2021-01-18,LAL,GSW,40.25,4,7,45,GSW,GSW,fg_make,5,False,False,,Paschall 2' Layup (19 PTS),103-97,103,97
 0022000212,2021-01-18,LAL,GSW,40.5,4,7,30,LAL,GSW,foul,2,False,False,,Bazemore S.FOUL (P1.T4) (J.Goble),103-97,103,97

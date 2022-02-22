@@ -46,8 +46,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000324,2021-02-02,BKN,LAC,6.55,1,5,27,LAC,LAC,fg_miss,78,False,False,,MISS Jackson 11' Floating Jump Shot,11-20,11,20
 0022000324,2021-02-02,BKN,LAC,6.58,1,5,25,BKN,BKN,reb,0,False,False,Harden REBOUND (Off:0 Def:1),,11-20,11,20
 0022000324,2021-02-02,BKN,LAC,6.67,1,5,20,BKN,BKN,fg_miss,6,True,False,MISS Irving 2' Driving Layup,,11-20,11,20
-0022000324,2021-02-02,BKN,LAC,6.67,1,5,20,BKN,BKN,reb,0,False,False,NETS Rebound,,11-20,11,20
 0022000324,2021-02-02,BKN,LAC,6.67,1,5,20,BKN,LAC,block,6,True,False,block,block,11-20,11,20
+0022000324,2021-02-02,BKN,LAC,6.67,1,5,20,BKN,BKN,reb,0,False,False,NETS Rebound,,11-20,11,20
 0022000324,2021-02-02,BKN,LAC,6.73,1,5,16,BKN,BKN,fg_make,98,False,False,Durant 2' Cutting Layup Shot (6 PTS) (Green 1 AST),,13-20,13,20
 0022000324,2021-02-02,BKN,LAC,6.73,1,5,16,BKN,LAC,foul,2,False,False,,George S.FOUL (P1.T1) (B.Kennedy),13-20,13,20
 0022000324,2021-02-02,BKN,LAC,6.73,1,5,16,BKN,BKN,ft_make,10,False,False,Durant Free Throw 1 of 1 (7 PTS),,14-20,14,20
@@ -56,8 +56,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000324,2021-02-02,BKN,LAC,7.05,1,4,57,LAC,LAC,fg_miss,72,False,False,,MISS Ibaka 2' Putback Layup,14-20,14,20
 0022000324,2021-02-02,BKN,LAC,7.07,1,4,56,LAC,LAC,reb,0,False,False,,George REBOUND (Off:1 Def:0),14-20,14,20
 0022000324,2021-02-02,BKN,LAC,7.07,1,4,56,LAC,LAC,fg_miss,72,True,False,,MISS George 2' Putback Layup,14-20,14,20
-0022000324,2021-02-02,BKN,LAC,7.07,1,4,56,LAC,LAC,reb,0,False,False,,Clippers Rebound,14-20,14,20
 0022000324,2021-02-02,BKN,LAC,7.07,1,4,56,LAC,BKN,block,72,True,False,block,block,14-20,14,20
+0022000324,2021-02-02,BKN,LAC,7.07,1,4,56,LAC,LAC,reb,0,False,False,,Clippers Rebound,14-20,14,20
 0022000324,2021-02-02,BKN,LAC,7.23,1,4,46,LAC,LAC,fg_miss,86,False,False,,MISS Ibaka 10' Turnaround Fadeaway Shot,14-20,14,20
 0022000324,2021-02-02,BKN,LAC,7.28,1,4,43,BKN,BKN,reb,0,False,False,Green REBOUND (Off:0 Def:2),,14-20,14,20
 0022000324,2021-02-02,BKN,LAC,7.62,1,4,23,BKN,BKN,fg3_miss,1,False,False,MISS Luwawu-Cabarrot 3PT Jump Shot,,14-20,14,20
@@ -215,8 +215,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000324,2021-02-02,BKN,LAC,26.12,3,9,53,BKN,LAC,block,6,True,False,block,block,64-60,64,60
 0022000324,2021-02-02,BKN,LAC,26.15,3,9,51,LAC,LAC,reb,0,False,False,,Batum REBOUND (Off:2 Def:2),64-60,64,60
 0022000324,2021-02-02,BKN,LAC,26.2,3,9,48,LAC,LAC,fg_miss,41,True,False,,MISS George 3' Running Layup,64-60,64,60
-0022000324,2021-02-02,BKN,LAC,26.2,3,9,48,LAC,LAC,reb,0,False,False,,Clippers Rebound,64-60,64,60
 0022000324,2021-02-02,BKN,LAC,26.2,3,9,48,LAC,BKN,block,41,True,False,block,block,64-60,64,60
+0022000324,2021-02-02,BKN,LAC,26.2,3,9,48,LAC,LAC,reb,0,False,False,,Clippers Rebound,64-60,64,60
 0022000324,2021-02-02,BKN,LAC,26.35,3,9,39,LAC,LAC,fg3_make,80,False,False,,George 26' 3PT Step Back Jump Shot (12 PTS),64-63,64,63
 0022000324,2021-02-02,BKN,LAC,26.58,3,9,25,BKN,BKN,fg3_make,80,False,False,Irving 24' 3PT Step Back Jump Shot (23 PTS),,67-63,67,63
 0022000324,2021-02-02,BKN,LAC,26.87,3,9,8,LAC,LAC,fg3_miss,1,False,False,,MISS Ibaka 29' 3PT Jump Shot,67-63,67,63
@@ -366,9 +366,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000324,2021-02-02,BKN,LAC,43.83,4,4,10,BKN,BKN,fg3_make,80,False,False,Harden 26' 3PT Step Back Jump Shot (20 PTS),,110-102,110,102
 0022000324,2021-02-02,BKN,LAC,44.07,4,3,56,LAC,LAC,fg_make,108,False,False,,George 1' Cutting Dunk Shot (23 PTS) (Jackson 3 AST),110-104,110,104
 0022000324,2021-02-02,BKN,LAC,44.53,4,3,28,BKN,BKN,fg_miss,6,True,False,MISS Irving 4' Driving Layup,,110-104,110,104
+0022000324,2021-02-02,BKN,LAC,44.53,4,3,28,BKN,LAC,block,6,True,False,block,block,110-104,110,104
 0022000324,2021-02-02,BKN,LAC,44.53,4,3,28,BKN,BKN,reb,0,False,False,Irving REBOUND (Off:1 Def:4),,110-104,110,104
 0022000324,2021-02-02,BKN,LAC,44.53,4,3,28,BKN,BKN,tov,11,False,False,NETS Turnover: Shot Clock (T#15),,110-104,110,104
-0022000324,2021-02-02,BKN,LAC,44.53,4,3,28,BKN,LAC,block,6,True,False,block,block,110-104,110,104
 0022000324,2021-02-02,BKN,LAC,44.72,4,3,17,LAC,LAC,fg_make,6,False,False,,Leonard 3' Driving Layup (29 PTS),110-106,110,106
 0022000324,2021-02-02,BKN,LAC,44.72,4,3,17,LAC,BKN,foul,2,False,False,Green S.FOUL (P1.T3) (B.Kennedy),,110-106,110,106
 0022000324,2021-02-02,BKN,LAC,44.72,4,3,17,LAC,LAC,ft_miss,10,False,False,,MISS Leonard Free Throw 1 of 1,110-106,110,106

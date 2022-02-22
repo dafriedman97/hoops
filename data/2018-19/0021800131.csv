@@ -27,8 +27,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800131,2018-11-03,DEN,UTA,3.58,1,8,25,UTA,UTA,reb,0,False,False,,Favors REBOUND (Off:0 Def:1),8-5,8,5
 0021800131,2018-11-03,DEN,UTA,3.65,1,8,21,UTA,UTA,fg_make,75,False,False,,Rubio 3' Driving Finger Roll Layup (5 PTS),8-7,8,7
 0021800131,2018-11-03,DEN,UTA,3.73,1,8,16,DEN,DEN,tov,1,False,True,Jokic Bad Pass Turnover (P2.T2),,8-7,8,7
-0021800131,2018-11-03,DEN,UTA,3.73,1,8,16,UTA,DEN,foul,2,False,False,Murray S.FOUL (P1.T1) (E.Lewis),,8-7,8,7
 0021800131,2018-11-03,DEN,UTA,3.73,1,8,16,DEN,UTA,steal,1,False,True,steal,steal,8-7,8,7
+0021800131,2018-11-03,DEN,UTA,3.73,1,8,16,UTA,DEN,foul,2,False,False,Murray S.FOUL (P1.T1) (E.Lewis),,8-7,8,7
 0021800131,2018-11-03,DEN,UTA,3.73,1,8,16,UTA,UTA,ft_make,11,False,False,,Rubio Free Throw 1 of 2 (6 PTS),8-8,8,8
 0021800131,2018-11-03,DEN,UTA,3.73,1,8,16,UTA,UTA,ft_make,12,False,False,,Rubio Free Throw 2 of 2 (7 PTS),8-9,8,9
 0021800131,2018-11-03,DEN,UTA,3.85,1,8,9,DEN,DEN,fg_miss,79,False,False,MISS Murray 17' Pullup Jump Shot,,8-9,8,9
@@ -172,8 +172,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800131,2018-11-03,DEN,UTA,20.52,2,3,29,UTA,UTA,tov,2,False,True,,Crowder Lost Ball Turnover (P2.T6),42-37,42,37
 0021800131,2018-11-03,DEN,UTA,20.52,2,3,29,UTA,DEN,steal,2,False,True,steal,steal,42-37,42,37
 0021800131,2018-11-03,DEN,UTA,20.6,2,3,24,DEN,DEN,fg_miss,41,True,False,MISS Millsap 3' Running Layup,,42-37,42,37
-0021800131,2018-11-03,DEN,UTA,20.6,2,3,24,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,42-37,42,37
 0021800131,2018-11-03,DEN,UTA,20.6,2,3,24,DEN,UTA,block,41,True,False,block,block,42-37,42,37
+0021800131,2018-11-03,DEN,UTA,20.6,2,3,24,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,42-37,42,37
 0021800131,2018-11-03,DEN,UTA,20.65,2,3,21,DEN,DEN,fg_make,108,False,False,Murray 2' Cutting Dunk Shot (11 PTS) (Millsap 1 AST),,44-37,44,37
 0021800131,2018-11-03,DEN,UTA,20.87,2,3,8,UTA,UTA,fg_make,52,False,False,,Gobert 1' Alley Oop Dunk (3 PTS) (Crowder 1 AST),44-39,44,39
 0021800131,2018-11-03,DEN,UTA,21.15,2,2,51,DEN,DEN,fg_miss,1,False,False,MISS Millsap 5' Jump Shot,,44-39,44,39
@@ -343,8 +343,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800131,2018-11-03,DEN,UTA,38.95,4,9,3,UTA,UTA,fg_miss,78,False,False,,MISS Mitchell 8' Floating Jump Shot,79-77,79,77
 0021800131,2018-11-03,DEN,UTA,38.98,4,9,1,DEN,DEN,reb,0,False,False,Lyles REBOUND (Off:0 Def:5),,79-77,79,77
 0021800131,2018-11-03,DEN,UTA,39.2,4,8,48,DEN,DEN,fg_miss,98,True,False,MISS Lyles 3' Cutting Layup Shot,,79-77,79,77
-0021800131,2018-11-03,DEN,UTA,39.2,4,8,48,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,79-77,79,77
 0021800131,2018-11-03,DEN,UTA,39.2,4,8,48,DEN,UTA,block,98,True,False,block,block,79-77,79,77
+0021800131,2018-11-03,DEN,UTA,39.2,4,8,48,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,79-77,79,77
 0021800131,2018-11-03,DEN,UTA,39.35,4,8,39,DEN,DEN,fg3_make,1,False,False,Plumlee 24' 3PT Jump Shot (7 PTS) (Beasley 2 AST),,82-77,82,77
 0021800131,2018-11-03,DEN,UTA,39.4,4,8,36,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.4 Short 0),82-77,82,77
 0021800131,2018-11-03,DEN,UTA,39.57,4,8,26,UTA,DEN,foul,1,False,False,Plumlee P.FOUL (P3.T3) (K.Lane),,82-77,82,77
@@ -421,8 +421,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800131,2018-11-03,DEN,UTA,45.75,4,2,15,UTA,UTA,fg3_miss,1,False,False,,MISS Niang 3PT Jump Shot,99-82,99,82
 0021800131,2018-11-03,DEN,UTA,45.83,4,2,10,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:2 Def:7),,99-82,99,82
 0021800131,2018-11-03,DEN,UTA,46.0,4,2,0,DEN,DEN,fg_miss,6,True,False,MISS Murray 1' Driving Layup,,99-82,99,82
-0021800131,2018-11-03,DEN,UTA,46.0,4,2,0,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:3 Def:7),,99-82,99,82
 0021800131,2018-11-03,DEN,UTA,46.0,4,2,0,DEN,UTA,block,6,True,False,block,block,99-82,99,82
+0021800131,2018-11-03,DEN,UTA,46.0,4,2,0,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:3 Def:7),,99-82,99,82
 0021800131,2018-11-03,DEN,UTA,46.03,4,1,58,DEN,DEN,fg_make,1,False,False,Hernangomez 21' Jump Shot (8 PTS) (Jokic 16 AST),,101-82,101,82
 0021800131,2018-11-03,DEN,UTA,46.05,4,1,57,UTA,DEN,foul,1,False,False,Murray P.FOUL (P3.PN) (K.Lane),,101-82,101,82
 0021800131,2018-11-03,DEN,UTA,46.05,4,1,57,UTA,UTA,ft_make,11,False,False,,Exum Free Throw 1 of 2 (3 PTS),101-83,101,83

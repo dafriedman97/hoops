@@ -66,9 +66,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900512,2020-01-02,MIN,GSW,7.73,1,4,16,GSW,GSW,fg3_miss,1,False,False,,MISS Lee 25' 3PT Jump Shot,19-13,19,13
 0021900512,2020-01-02,MIN,GSW,7.78,1,4,13,GSW,GSW,reb,0,False,False,,Paschall REBOUND (Off:1 Def:0),19-13,19,13
 0021900512,2020-01-02,MIN,GSW,8.02,1,3,59,GSW,GSW,fg_miss,1,True,False,,MISS Robinson III 8' Jump Shot,19-13,19,13
+0021900512,2020-01-02,MIN,GSW,8.02,1,3,59,GSW,MIN,block,1,True,False,block,block,19-13,19,13
 0021900512,2020-01-02,MIN,GSW,8.02,1,3,59,GSW,GSW,reb,0,False,False,,Warriors Rebound,19-13,19,13
 0021900512,2020-01-02,MIN,GSW,8.02,1,3,59,GSW,GSW,tov,11,False,False,,Warriors Turnover: Shot Clock (T#4),19-13,19,13
-0021900512,2020-01-02,MIN,GSW,8.02,1,3,59,GSW,MIN,block,1,True,False,block,block,19-13,19,13
 0021900512,2020-01-02,MIN,GSW,8.3,1,3,42,MIN,MIN,fg3_make,79,False,False,Martin 25' 3PT Pullup Jump Shot (5 PTS),,22-13,22,13
 0021900512,2020-01-02,MIN,GSW,8.7,1,3,18,GSW,GSW,fg3_miss,1,False,False,,MISS Green 27' 3PT Jump Shot,22-13,22,13
 0021900512,2020-01-02,MIN,GSW,8.75,1,3,15,MIN,MIN,reb,0,False,False,Reid REBOUND (Off:0 Def:1),,22-13,22,13
@@ -272,8 +272,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900512,2020-01-02,MIN,GSW,30.05,3,5,57,MIN,MIN,fg3_miss,1,False,False,MISS Covington 26' 3PT Jump Shot,,73-52,73,52
 0021900512,2020-01-02,MIN,GSW,30.1,3,5,54,MIN,MIN,reb,0,False,False,Dieng REBOUND (Off:2 Def:1),,73-52,73,52
 0021900512,2020-01-02,MIN,GSW,30.2,3,5,48,MIN,MIN,tov,2,False,True,Okogie Lost Ball Turnover (P1.T8),,73-52,73,52
-0021900512,2020-01-02,MIN,GSW,30.2,3,5,48,GSW,MIN,foul,28,False,False,Dieng Personal Take Foul (P2.T2) (J.DeRosa),,73-52,73,52
 0021900512,2020-01-02,MIN,GSW,30.2,3,5,48,MIN,GSW,steal,2,False,True,steal,steal,73-52,73,52
+0021900512,2020-01-02,MIN,GSW,30.2,3,5,48,GSW,MIN,foul,28,False,False,Dieng Personal Take Foul (P2.T2) (J.DeRosa),,73-52,73,52
 0021900512,2020-01-02,MIN,GSW,30.33,3,5,40,GSW,GSW,fg_miss,79,False,False,,MISS Robinson III 20' Pullup Jump Shot,73-52,73,52
 0021900512,2020-01-02,MIN,GSW,30.38,3,5,37,MIN,MIN,reb,0,False,False,Dieng REBOUND (Off:2 Def:2),,73-52,73,52
 0021900512,2020-01-02,MIN,GSW,30.53,3,5,28,MIN,GSW,foul,2,False,False,,Robinson III S.FOUL (P1.T2) (T.Ford),73-52,73,52
@@ -339,8 +339,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900512,2020-01-02,MIN,GSW,36.75,4,11,15,MIN,MIN,fg3_miss,1,False,False,MISS Reid 3PT Jump Shot,,81-69,81,69
 0021900512,2020-01-02,MIN,GSW,36.77,4,11,14,MIN,MIN,reb,0,False,False,Bell REBOUND (Off:2 Def:0),,81-69,81,69
 0021900512,2020-01-02,MIN,GSW,36.77,4,11,14,MIN,MIN,fg_miss,97,False,False,MISS Bell 1' Tip Layup Shot,,81-69,81,69
-0021900512,2020-01-02,MIN,GSW,36.78,4,11,13,MIN,MIN,reb,0,False,False,Bell REBOUND (Off:3 Def:0),,81-69,81,69
 0021900512,2020-01-02,MIN,GSW,36.78,4,11,13,MIN,MIN,fg_miss,97,False,False,MISS Bell 1' Tip Layup Shot,,81-69,81,69
+0021900512,2020-01-02,MIN,GSW,36.78,4,11,13,MIN,MIN,reb,0,False,False,Bell REBOUND (Off:3 Def:0),,81-69,81,69
 0021900512,2020-01-02,MIN,GSW,36.8,4,11,12,GSW,GSW,reb,0,False,False,,Paschall REBOUND (Off:1 Def:3),81-69,81,69
 0021900512,2020-01-02,MIN,GSW,36.92,4,11,5,GSW,GSW,fg_make,6,False,False,,Paschall 1' Driving Layup (13 PTS),81-71,81,71
 0021900512,2020-01-02,MIN,GSW,37.17,4,10,50,MIN,MIN,fg_miss,101,False,False,MISS Okogie 8' Driving Floating Jump Shot,,81-71,81,71

@@ -59,8 +59,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800441,2018-12-16,NOP,MIA,5.47,1,6,32,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 1 Short 0),,7-12,7,12
 0021800441,2018-12-16,NOP,MIA,5.47,1,6,32,NOP,MIA,ft_make,10,False,False,,Whiteside Free Throw 1 of 1 (9 PTS),7-13,7,13
 0021800441,2018-12-16,NOP,MIA,5.63,1,6,22,NOP,NOP,fg_miss,5,True,False,MISS Holiday 2' Layup,,7-13,7,13
-0021800441,2018-12-16,NOP,MIA,5.63,1,6,22,MIA,MIA,reb,0,False,False,,Heat Rebound,7-13,7,13
 0021800441,2018-12-16,NOP,MIA,5.63,1,6,22,NOP,MIA,block,5,True,False,block,block,7-13,7,13
+0021800441,2018-12-16,NOP,MIA,5.63,1,6,22,MIA,MIA,reb,0,False,False,,Heat Rebound,7-13,7,13
 0021800441,2018-12-16,NOP,MIA,5.85,1,6,9,MIA,MIA,fg_miss,5,False,False,,MISS Whiteside 2' Layup,7-13,7,13
 0021800441,2018-12-16,NOP,MIA,5.88,1,6,7,MIA,MIA,reb,0,False,False,,Heat Rebound,7-13,7,13
 0021800441,2018-12-16,NOP,MIA,5.88,1,6,7,,NOP,jump_ball,0,False,False,Jump Ball Davis vs. Whiteside: Tip to Wade,,7-13,7,13
@@ -253,9 +253,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800441,2018-12-16,NOP,MIA,26.05,3,9,57,MIA,MIA,fg3_make,1,False,False,,Richardson 28' 3PT Jump Shot (11 PTS),51-65,51,65
 0021800441,2018-12-16,NOP,MIA,26.08,3,9,55,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 4 Short 0),,51-65,51,65
 0021800441,2018-12-16,NOP,MIA,26.5,3,9,30,NOP,NOP,fg_miss,1,True,False,MISS Randle 20' Jump Shot,,51-65,51,65
-0021800441,2018-12-16,NOP,MIA,26.5,3,9,30,NOP,NOP,reb,0,False,False,PELICANS Rebound,,51-65,51,65
-0021800441,2018-12-16,NOP,MIA,26.5,3,9,30,NOP,NOP,tov,11,False,False,PELICANS Turnover: Shot Clock (T#8),,51-65,51,65
 0021800441,2018-12-16,NOP,MIA,26.5,3,9,30,NOP,MIA,block,1,True,False,block,block,51-65,51,65
+0021800441,2018-12-16,NOP,MIA,26.5,3,9,30,NOP,NOP,tov,11,False,False,PELICANS Turnover: Shot Clock (T#8),,51-65,51,65
+0021800441,2018-12-16,NOP,MIA,26.5,3,9,30,NOP,NOP,reb,0,False,False,PELICANS Rebound,,51-65,51,65
 0021800441,2018-12-16,NOP,MIA,26.68,3,9,19,MIA,MIA,fg3_miss,1,False,False,,MISS Richardson 26' 3PT Jump Shot,51-65,51,65
 0021800441,2018-12-16,NOP,MIA,26.73,3,9,16,NOP,NOP,reb,0,False,False,Randle REBOUND (Off:0 Def:7),,51-65,51,65
 0021800441,2018-12-16,NOP,MIA,26.88,3,9,7,NOP,NOP,tov,4,False,False,Holiday Traveling Turnover (P3.T9),,51-65,51,65
@@ -325,8 +325,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800441,2018-12-16,NOP,MIA,34.73,3,1,16,NOP,NOP,tov,1,False,True,Davis Bad Pass Turnover (P1.T10),,71-79,71,79
 0021800441,2018-12-16,NOP,MIA,34.73,3,1,16,NOP,MIA,steal,1,False,True,steal,steal,71-79,71,79
 0021800441,2018-12-16,NOP,MIA,34.78,3,1,13,MIA,MIA,fg_miss,5,True,False,,MISS Jones Jr. 3' Layup,71-79,71,79
-0021800441,2018-12-16,NOP,MIA,34.78,3,1,13,MIA,MIA,reb,0,False,False,,Heat Rebound,71-79,71,79
 0021800441,2018-12-16,NOP,MIA,34.78,3,1,13,MIA,NOP,block,5,True,False,block,block,71-79,71,79
+0021800441,2018-12-16,NOP,MIA,34.78,3,1,13,MIA,MIA,reb,0,False,False,,Heat Rebound,71-79,71,79
 0021800441,2018-12-16,NOP,MIA,34.9,3,1,6,MIA,NOP,foul,2,False,False,Harrison S.FOUL (P2.PN) (R.Mott),,71-79,71,79
 0021800441,2018-12-16,NOP,MIA,34.9,3,1,6,MIA,MIA,ft_make,11,False,False,,Wade Free Throw 1 of 2 (16 PTS),71-80,71,80
 0021800441,2018-12-16,NOP,MIA,34.9,3,1,6,MIA,MIA,ft_make,12,False,False,,Wade Free Throw 2 of 2 (17 PTS),71-81,71,81

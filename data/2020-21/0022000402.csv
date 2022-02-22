@@ -122,8 +122,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000402,2021-02-12,UTA,MIL,14.85,2,9,9,UTA,UTA,fg3_miss,1,False,False,MISS Ingles 3PT Jump Shot,,39-33,39,33
 0022000402,2021-02-12,UTA,MIL,14.92,2,9,5,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:1 Def:2),,39-33,39,33
 0022000402,2021-02-12,UTA,MIL,14.92,2,9,5,UTA,UTA,fg_miss,72,True,False,MISS Gobert 2' Putback Layup,,39-33,39,33
-0022000402,2021-02-12,UTA,MIL,14.92,2,9,5,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:0 Def:2),39-33,39,33
 0022000402,2021-02-12,UTA,MIL,14.92,2,9,5,UTA,MIL,block,72,True,False,block,block,39-33,39,33
+0022000402,2021-02-12,UTA,MIL,14.92,2,9,5,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:0 Def:2),39-33,39,33
 0022000402,2021-02-12,UTA,MIL,15.08,2,8,55,MIL,MIL,fg_make,47,False,False,,Portis 8' Turnaround Jump Shot (10 PTS),39-35,39,35
 0022000402,2021-02-12,UTA,MIL,15.48,2,8,31,UTA,UTA,fg_make,3,False,False,Clarkson 4' Hook Shot (11 PTS),,41-35,41,35
 0022000402,2021-02-12,UTA,MIL,15.7,2,8,18,MIL,UTA,foul,2,False,False,Niang S.FOUL (P2.T2) (B.Forte),,41-35,41,35
@@ -194,10 +194,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000402,2021-02-12,UTA,MIL,23.92,2,0,5,MIL,MIL,fg3_miss,1,False,False,,MISS Middleton 26' 3PT Jump Shot,69-52,69,52
 0022000402,2021-02-12,UTA,MIL,23.95,2,0,3,UTA,UTA,reb,0,False,False,O'Neale REBOUND (Off:0 Def:6),,69-52,69,52
 0022000402,2021-02-12,UTA,MIL,24.0,2,0,0,UTA,UTA,fg_miss,41,True,False,MISS O'Neale 5' Running Layup,,69-52,69,52
+0022000402,2021-02-12,UTA,MIL,24.0,2,0,0,UTA,MIL,block,41,True,False,block,block,69-52,69,52
 0022000402,2021-02-12,UTA,MIL,24.0,2,0,0,UTA,UTA,reb,0,False,False,JAZZ Rebound,,69-52,69,52
 0022000402,2021-02-12,UTA,MIL,24.0,2,0,0,UTA,,period_end,0,False,False,,,69-52,69,52
 0022000402,2021-02-12,UTA,MIL,24.0,3,12,0,UTA,,period_start,0,False,False,,,69-52,69,52
-0022000402,2021-02-12,UTA,MIL,24.0,2,0,0,UTA,MIL,block,41,True,False,block,block,69-52,69,52
 0022000402,2021-02-12,UTA,MIL,24.32,3,11,41,UTA,UTA,fg_miss,6,True,False,MISS Mitchell 4' Driving Layup,,69-52,69,52
 0022000402,2021-02-12,UTA,MIL,24.32,3,11,41,UTA,MIL,block,6,True,False,block,block,69-52,69,52
 0022000402,2021-02-12,UTA,MIL,24.37,3,11,38,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:9),69-52,69,52
@@ -303,8 +303,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000402,2021-02-12,UTA,MIL,34.6,3,1,24,MIL,MIL,fg3_miss,1,False,False,,MISS Portis 25' 3PT Jump Shot,93-77,93,77
 0022000402,2021-02-12,UTA,MIL,34.67,3,1,20,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:3 Def:5),,93-77,93,77
 0022000402,2021-02-12,UTA,MIL,34.8,3,1,12,UTA,UTA,fg_miss,6,True,False,MISS Ingles 7' Driving Layup,,93-77,93,77
-0022000402,2021-02-12,UTA,MIL,34.8,3,1,12,UTA,UTA,reb,0,False,False,JAZZ Rebound,,93-77,93,77
 0022000402,2021-02-12,UTA,MIL,34.8,3,1,12,UTA,MIL,block,6,True,False,block,block,93-77,93,77
+0022000402,2021-02-12,UTA,MIL,34.8,3,1,12,UTA,UTA,reb,0,False,False,JAZZ Rebound,,93-77,93,77
 0022000402,2021-02-12,UTA,MIL,34.82,3,1,11,UTA,UTA,tov,1,False,True,Ingles Bad Pass Turnover (P2.T11),,93-77,93,77
 0022000402,2021-02-12,UTA,MIL,34.82,3,1,11,UTA,MIL,steal,1,False,True,steal,steal,93-77,93,77
 0022000402,2021-02-12,UTA,MIL,34.93,3,1,4,MIL,MIL,fg3_make,1,False,False,,Craig 25' 3PT Jump Shot (6 PTS) (Connaughton 1 AST),93-80,93,80
@@ -384,8 +384,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000402,2021-02-12,UTA,MIL,41.38,4,6,37,UTA,UTA,reb,0,False,False,JAZZ Rebound,,107-94,107,94
 0022000402,2021-02-12,UTA,MIL,41.38,4,6,37,UTA,MIL,foul,3,False,False,,Lopez L.B.FOUL (P3.PN) (B.Kennedy),107-94,107,94
 0022000402,2021-02-12,UTA,MIL,41.38,4,6,37,UTA,UTA,ft_make,11,False,False,Gobert Free Throw 1 of 2 (21 PTS),,108-94,108,94
-0022000402,2021-02-12,UTA,MIL,41.38,4,6,37,UTA,UTA,ft_miss,12,False,False,MISS Gobert Free Throw 2 of 2,,108-94,108,94
 0022000402,2021-02-12,UTA,MIL,41.38,4,6,37,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.4 Short 0),108-94,108,94
+0022000402,2021-02-12,UTA,MIL,41.38,4,6,37,UTA,UTA,ft_miss,12,False,False,MISS Gobert Free Throw 2 of 2,,108-94,108,94
 0022000402,2021-02-12,UTA,MIL,41.42,4,6,35,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:13),108-94,108,94
 0022000402,2021-02-12,UTA,MIL,41.57,4,6,26,MIL,MIL,fg_miss,78,False,False,,MISS DiVincenzo 11' Floating Jump Shot,108-94,108,94
 0022000402,2021-02-12,UTA,MIL,41.62,4,6,23,MIL,MIL,reb,0,False,False,,Bucks Rebound,108-94,108,94
@@ -424,8 +424,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000402,2021-02-12,UTA,MIL,44.85,4,3,9,MIL,MIL,fg_miss,73,False,False,,MISS DiVincenzo 3' Driving Reverse Layup,118-102,118,102
 0022000402,2021-02-12,UTA,MIL,44.88,4,3,7,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:2 Def:13),118-102,118,102
 0022000402,2021-02-12,UTA,MIL,44.9,4,3,6,MIL,MIL,fg_miss,5,True,False,,MISS Antetokounmpo Layup,118-102,118,102
-0022000402,2021-02-12,UTA,MIL,44.9,4,3,6,UTA,UTA,reb,0,False,False,JAZZ Rebound,,118-102,118,102
 0022000402,2021-02-12,UTA,MIL,44.9,4,3,6,MIL,UTA,block,5,True,False,block,block,118-102,118,102
+0022000402,2021-02-12,UTA,MIL,44.9,4,3,6,UTA,UTA,reb,0,False,False,JAZZ Rebound,,118-102,118,102
 0022000402,2021-02-12,UTA,MIL,44.93,4,3,4,,UTA,jump_ball,0,False,False,Jump Ball Gobert vs. Antetokounmpo: Tip to Bogdanovic,,118-102,118,102
 0022000402,2021-02-12,UTA,MIL,45.07,4,2,56,UTA,UTA,fg_make,78,False,False,Mitchell 6' Floating Jump Shot (22 PTS),,120-102,120,102
 0022000402,2021-02-12,UTA,MIL,45.35,4,2,39,MIL,MIL,fg_make,79,False,False,,Augustin 17' Pullup Jump Shot (7 PTS),120-104,120,104

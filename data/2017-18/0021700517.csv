@@ -52,8 +52,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700517,2017-12-28,BOS,HOU,6.75,1,5,15,BOS,BOS,reb,0,False,False,Horford REBOUND (Off:0 Def:4),,10-21,10,21
 0021700517,2017-12-28,BOS,HOU,6.9,1,5,6,BOS,BOS,tov,45,False,False,Theis Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,10-21,10,21
 0021700517,2017-12-28,BOS,HOU,7.0,1,5,0,HOU,HOU,fg_miss,6,True,False,,MISS Harden 3' Driving Layup,10-21,10,21
-0021700517,2017-12-28,BOS,HOU,7.0,1,5,0,BOS,BOS,reb,0,False,False,CELTICS Rebound,,10-21,10,21
 0021700517,2017-12-28,BOS,HOU,7.0,1,5,0,HOU,BOS,block,6,True,False,block,block,10-21,10,21
+0021700517,2017-12-28,BOS,HOU,7.0,1,5,0,BOS,BOS,reb,0,False,False,CELTICS Rebound,,10-21,10,21
 0021700517,2017-12-28,BOS,HOU,7.2,1,4,48,BOS,BOS,tov,45,False,False,Irving Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,10-21,10,21
 0021700517,2017-12-28,BOS,HOU,7.35,1,4,39,HOU,BOS,foul,2,False,False,Nader S.FOUL (P1.T2) (T.Brothers),,10-21,10,21
 0021700517,2017-12-28,BOS,HOU,7.35,1,4,39,HOU,HOU,ft_make,11,False,False,,Harden Free Throw 1 of 2 (5 PTS),10-22,10,22
@@ -75,8 +75,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700517,2017-12-28,BOS,HOU,8.68,1,3,19,HOU,BOS,foul,26,False,False,Morris Sr. Offensive Charge Foul (P1.T4) (G.Petraitis),,10-27,10,27
 0021700517,2017-12-28,BOS,HOU,8.68,1,3,19,BOS,BOS,tov,37,False,False,Morris Sr. Offensive Foul Turnover (P2.T8),,10-27,10,27
 0021700517,2017-12-28,BOS,HOU,8.82,1,3,11,HOU,HOU,fg_miss,6,True,False,,MISS Harden 3' Driving Layup,10-27,10,27
-0021700517,2017-12-28,BOS,HOU,8.82,1,3,11,HOU,HOU,reb,0,False,False,,Rockets Rebound,10-27,10,27
 0021700517,2017-12-28,BOS,HOU,8.82,1,3,11,HOU,BOS,block,6,True,False,block,block,10-27,10,27
+0021700517,2017-12-28,BOS,HOU,8.82,1,3,11,HOU,HOU,reb,0,False,False,,Rockets Rebound,10-27,10,27
 0021700517,2017-12-28,BOS,HOU,8.9,1,3,6,HOU,HOU,fg3_miss,1,False,False,,MISS Harden 24' 3PT Jump Shot,10-27,10,27
 0021700517,2017-12-28,BOS,HOU,8.92,1,3,5,BOS,BOS,reb,0,False,False,Rozier REBOUND (Off:0 Def:1),,10-27,10,27
 0021700517,2017-12-28,BOS,HOU,9.0,1,3,0,BOS,BOS,fg_miss,41,False,False,MISS Rozier 1' Running Layup,,10-27,10,27
@@ -229,8 +229,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700517,2017-12-28,BOS,HOU,26.12,3,9,53,BOS,BOS,reb,0,False,False,Irving REBOUND (Off:1 Def:0),,40-64,40,64
 0021700517,2017-12-28,BOS,HOU,26.15,3,9,51,BOS,BOS,fg_make,66,False,False,Irving 9' Jump Bank Shot (13 PTS),,42-64,42,64
 0021700517,2017-12-28,BOS,HOU,26.43,3,9,34,HOU,HOU,tov,2,False,True,,Anderson Lost Ball Turnover (P2.T7),42-64,42,64
-0021700517,2017-12-28,BOS,HOU,26.43,3,9,34,BOS,HOU,foul,1,False,False,,Gordon P.FOUL (P1.T2) (T.Brothers),42-64,42,64
 0021700517,2017-12-28,BOS,HOU,26.43,3,9,34,HOU,BOS,steal,2,False,True,steal,steal,42-64,42,64
+0021700517,2017-12-28,BOS,HOU,26.43,3,9,34,BOS,HOU,foul,1,False,False,,Gordon P.FOUL (P1.T2) (T.Brothers),42-64,42,64
 0021700517,2017-12-28,BOS,HOU,26.58,3,9,25,BOS,HOU,foul,1,False,False,,Nene P.FOUL (P3.T3) (G.Petraitis),42-64,42,64
 0021700517,2017-12-28,BOS,HOU,26.83,3,9,10,BOS,BOS,tov,11,False,False,CELTICS Turnover: Shot Clock (T#13),,42-64,42,64
 0021700517,2017-12-28,BOS,HOU,26.98,3,9,1,HOU,HOU,fg3_make,1,False,False,,Harden 25' 3PT Jump Shot (20 PTS) (Black 1 AST),42-67,42,67
@@ -279,8 +279,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700517,2017-12-28,BOS,HOU,31.28,3,4,43,BOS,BOS,ft_make,14,False,False,Tatum Free Throw 2 of 3 (14 PTS),,52-71,52,71
 0021700517,2017-12-28,BOS,HOU,31.28,3,4,43,BOS,BOS,ft_make,15,False,False,Tatum Free Throw 3 of 3 (15 PTS),,53-71,53,71
 0021700517,2017-12-28,BOS,HOU,31.65,3,4,21,HOU,HOU,fg_miss,75,True,False,,MISS Weber 5' Driving Finger Roll Layup,53-71,53,71
-0021700517,2017-12-28,BOS,HOU,31.65,3,4,21,HOU,HOU,reb,0,False,False,,Rockets Rebound,53-71,53,71
 0021700517,2017-12-28,BOS,HOU,31.65,3,4,21,HOU,BOS,block,75,True,False,block,block,53-71,53,71
+0021700517,2017-12-28,BOS,HOU,31.65,3,4,21,HOU,HOU,reb,0,False,False,,Rockets Rebound,53-71,53,71
 0021700517,2017-12-28,BOS,HOU,31.72,3,4,17,HOU,HOU,fg3_miss,1,False,False,,MISS Black 27' 3PT Jump Shot,53-71,53,71
 0021700517,2017-12-28,BOS,HOU,31.72,3,4,17,HOU,HOU,reb,0,False,False,,Rockets Rebound,53-71,53,71
 0021700517,2017-12-28,BOS,HOU,31.72,3,4,17,HOU,HOU,tov,11,False,False,,Rockets Turnover: Shot Clock (T#12),53-71,53,71
@@ -303,18 +303,18 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700517,2017-12-28,BOS,HOU,33.1,3,2,54,HOU,HOU,ft_make,12,False,False,,Harden Free Throw 2 of 2 (22 PTS),60-73,60,73
 0021700517,2017-12-28,BOS,HOU,33.4,3,2,36,BOS,BOS,fg_make,79,False,False,Morris Sr. 11' Pullup Jump Shot (5 PTS) (Irving 4 AST),,62-73,62,73
 0021700517,2017-12-28,BOS,HOU,33.67,3,2,20,HOU,HOU,fg_miss,6,True,False,,MISS Harden 2' Driving Layup,62-73,62,73
-0021700517,2017-12-28,BOS,HOU,33.67,3,2,20,BOS,BOS,reb,0,False,False,Irving REBOUND (Off:2 Def:1),,62-73,62,73
 0021700517,2017-12-28,BOS,HOU,33.67,3,2,20,HOU,BOS,block,6,True,False,block,block,62-73,62,73
+0021700517,2017-12-28,BOS,HOU,33.67,3,2,20,BOS,BOS,reb,0,False,False,Irving REBOUND (Off:2 Def:1),,62-73,62,73
 0021700517,2017-12-28,BOS,HOU,33.72,3,2,17,BOS,HOU,foul,2,False,False,,Anderson S.FOUL (P2.PN) (G.Petraitis),62-73,62,73
 0021700517,2017-12-28,BOS,HOU,33.72,3,2,17,BOS,BOS,ft_make,11,False,False,Irving Free Throw 1 of 2 (20 PTS),,63-73,63,73
 0021700517,2017-12-28,BOS,HOU,33.72,3,2,17,BOS,BOS,ft_make,12,False,False,Irving Free Throw 2 of 2 (21 PTS),,64-73,64,73
 0021700517,2017-12-28,BOS,HOU,34.07,3,1,56,HOU,BOS,foul,2,False,False,Baynes S.FOUL (P1.T3) (G.Petraitis),,64-73,64,73
 0021700517,2017-12-28,BOS,HOU,34.07,3,1,56,HOU,BOS,foul,11,False,False,Morris Sr. T.FOUL (P3.T3) (G.Petraitis),,64-73,64,73
 0021700517,2017-12-28,BOS,HOU,34.07,3,1,56,HOU,,foul,11,False,False,,,64-73,64,73
-0021700517,2017-12-28,BOS,HOU,34.07,3,1,56,HOU,HOU,ft_make,16,False,False,,Harden Free Throw Technical (23 PTS),64-74,64,74
 0021700517,2017-12-28,BOS,HOU,34.07,3,1,56,HOU,HOU,ft_make,16,False,False,,Harden Free Throw Technical (24 PTS),64-75,64,75
 0021700517,2017-12-28,BOS,HOU,34.07,3,1,56,HOU,HOU,ft_make,11,False,False,,Harden Free Throw 1 of 2 (25 PTS),64-76,64,76
 0021700517,2017-12-28,BOS,HOU,34.07,3,1,56,HOU,HOU,ft_make,12,False,False,,Harden Free Throw 2 of 2 (26 PTS),64-77,64,77
+0021700517,2017-12-28,BOS,HOU,34.07,3,1,56,HOU,HOU,ft_make,16,False,False,,Harden Free Throw Technical (23 PTS),64-74,64,74
 0021700517,2017-12-28,BOS,HOU,34.42,3,1,35,BOS,BOS,fg3_miss,1,False,False,MISS Irving 25' 3PT Jump Shot,,64-77,64,77
 0021700517,2017-12-28,BOS,HOU,34.48,3,1,31,BOS,BOS,reb,0,False,False,Baynes REBOUND (Off:1 Def:1),,64-77,64,77
 0021700517,2017-12-28,BOS,HOU,34.6,3,1,24,BOS,BOS,fg_make,75,False,False,Irving 1' Driving Finger Roll Layup (23 PTS) (Rozier 1 AST),,66-77,66,77
@@ -334,17 +334,17 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700517,2017-12-28,BOS,HOU,35.98,3,0,1,BOS,BOS,fg_miss,6,True,False,MISS Irving 5' Driving Layup,,69-78,69,78
 0021700517,2017-12-28,BOS,HOU,35.98,3,0,1,BOS,HOU,block,6,True,False,block,block,69-78,69,78
 0021700517,2017-12-28,BOS,HOU,36.0,3,0,0,BOS,BOS,reb,0,False,False,Smart REBOUND (Off:1 Def:4),,69-78,69,78
+0021700517,2017-12-28,BOS,HOU,36.0,3,0,0,BOS,,period_end,0,False,False,,,69-78,69,78
 0021700517,2017-12-28,BOS,HOU,36.0,3,0,0,BOS,BOS,fg_miss,86,False,False,MISS Smart 16' Turnaround Fadeaway Shot,,69-78,69,78
 0021700517,2017-12-28,BOS,HOU,36.0,3,0,0,BOS,BOS,reb,0,False,False,CELTICS Rebound,,69-78,69,78
-0021700517,2017-12-28,BOS,HOU,36.0,3,0,0,BOS,,period_end,0,False,False,,,69-78,69,78
 0021700517,2017-12-28,BOS,HOU,36.0,4,12,0,BOS,,period_start,0,False,False,,,69-78,69,78
 0021700517,2017-12-28,BOS,HOU,36.32,4,11,41,HOU,HOU,fg3_make,1,False,False,,Gordon 29' 3PT Jump Shot (22 PTS),69-81,69,81
 0021700517,2017-12-28,BOS,HOU,36.72,4,11,17,BOS,BOS,fg_miss,47,False,False,MISS Morris Sr. 14' Turnaround Jump Shot,,69-81,69,81
 0021700517,2017-12-28,BOS,HOU,36.73,4,11,16,BOS,BOS,reb,0,False,False,Baynes REBOUND (Off:2 Def:1),,69-81,69,81
 0021700517,2017-12-28,BOS,HOU,36.75,4,11,15,BOS,BOS,fg_make,72,False,False,Baynes 1' Putback Layup (2 PTS),,71-81,71,81
 0021700517,2017-12-28,BOS,HOU,37.0,4,11,0,HOU,HOU,tov,2,False,True,,Tucker Lost Ball Turnover (P2.T14),71-81,71,81
-0021700517,2017-12-28,BOS,HOU,37.0,4,11,0,BOS,HOU,foul,1,False,False,,Tucker P.FOUL (P3.T1) (T.Brothers),71-81,71,81
 0021700517,2017-12-28,BOS,HOU,37.0,4,11,0,HOU,BOS,steal,2,False,True,steal,steal,71-81,71,81
+0021700517,2017-12-28,BOS,HOU,37.0,4,11,0,BOS,HOU,foul,1,False,False,,Tucker P.FOUL (P3.T1) (T.Brothers),71-81,71,81
 0021700517,2017-12-28,BOS,HOU,37.2,4,10,48,BOS,BOS,fg3_make,1,False,False,Rozier 28' 3PT Jump Shot (8 PTS) (Larkin 2 AST),,74-81,74,81
 0021700517,2017-12-28,BOS,HOU,37.6,4,10,24,HOU,HOU,fg3_miss,1,False,False,,MISS Gordon 25' 3PT Jump Shot,74-81,74,81
 0021700517,2017-12-28,BOS,HOU,37.63,4,10,22,BOS,BOS,reb,0,False,False,CELTICS Rebound,,74-81,74,81
@@ -429,13 +429,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700517,2017-12-28,BOS,HOU,47.37,4,0,38,HOU,HOU,reb,0,False,False,,Harden REBOUND (Off:0 Def:6),93-95,93,95
 0021700517,2017-12-28,BOS,HOU,47.52,4,0,29,HOU,HOU,fg3_miss,1,False,False,,MISS Harden 33' 3PT Jump Shot,93-95,93,95
 0021700517,2017-12-28,BOS,HOU,47.58,4,0,25,BOS,BOS,reb,0,False,False,Tatum REBOUND (Off:0 Def:5),,93-95,93,95
-0021700517,2017-12-28,BOS,HOU,47.7,4,0,18,BOS,BOS,tov,2,False,True,Irving Lost Ball Turnover (P6.T17),,93-95,93,95
 0021700517,2017-12-28,BOS,HOU,47.7,4,0,18,HOU,BOS,foul,1,False,False,Irving P.FOUL (P3.PN) (T.Brothers),,93-95,93,95
-0021700517,2017-12-28,BOS,HOU,47.7,4,0,18,BOS,HOU,steal,2,False,True,steal,steal,93-95,93,95
 0021700517,2017-12-28,BOS,HOU,47.7,4,0,18,HOU,HOU,ft_make,11,False,False,,Tucker Free Throw 1 of 2 (3 PTS),93-96,93,96
 0021700517,2017-12-28,BOS,HOU,47.7,4,0,18,HOU,HOU,ft_miss,12,False,False,,MISS Tucker Free Throw 2 of 2,93-96,93,96
 0021700517,2017-12-28,BOS,HOU,47.7,4,0,18,BOS,BOS,reb,0,False,False,Smart REBOUND (Off:1 Def:5),,93-96,93,96
 0021700517,2017-12-28,BOS,HOU,47.7,4,0,18,BOS,BOS,timeout,1,False,False,CELTICS Timeout: Regular (Full 5 Short 0),,93-96,93,96
+0021700517,2017-12-28,BOS,HOU,47.7,4,0,18,BOS,BOS,tov,2,False,True,Irving Lost Ball Turnover (P6.T17),,93-95,93,95
+0021700517,2017-12-28,BOS,HOU,47.7,4,0,18,BOS,HOU,steal,2,False,True,steal,steal,93-95,93,95
 0021700517,2017-12-28,BOS,HOU,47.78,4,0,13,BOS,BOS,fg_make,6,False,False,Smart 1' Driving Layup (13 PTS),,95-96,95,96
 0021700517,2017-12-28,BOS,HOU,47.78,4,0,13,HOU,HOU,timeout,1,False,False,,Rockets Timeout: Regular (Reg.5 Short 0),95-96,95,96
 0021700517,2017-12-28,BOS,HOU,47.78,4,0,13,HOU,HOU,timeout,1,False,False,,Rockets Timeout: Regular (Reg.6 Short 0),95-96,95,96

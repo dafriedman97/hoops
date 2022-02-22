@@ -15,8 +15,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700095,2017-10-30,HOU,PHI,1.88,1,10,7,HOU,PHI,steal,2,False,True,steal,steal,2-6,2,6
 0021700095,2017-10-30,HOU,PHI,2.02,1,9,59,PHI,PHI,fg_make,7,False,False,,Embiid Dunk (4 PTS) (Simmons 1 AST),2-8,2,8
 0021700095,2017-10-30,HOU,PHI,2.22,1,9,47,HOU,HOU,tov,1,False,True,Harden Bad Pass Turnover (P2.T2),,2-8,2,8
-0021700095,2017-10-30,HOU,PHI,2.22,1,9,47,PHI,HOU,foul,1,False,False,Gordon P.FOUL (P1.T1) (M.Smith),,2-8,2,8
 0021700095,2017-10-30,HOU,PHI,2.22,1,9,47,HOU,PHI,steal,1,False,True,steal,steal,2-8,2,8
+0021700095,2017-10-30,HOU,PHI,2.22,1,9,47,PHI,HOU,foul,1,False,False,Gordon P.FOUL (P1.T1) (M.Smith),,2-8,2,8
 0021700095,2017-10-30,HOU,PHI,2.4,1,9,36,PHI,PHI,tov,1,False,True,,Bayless Bad Pass Turnover (P1.T1),2-8,2,8
 0021700095,2017-10-30,HOU,PHI,2.4,1,9,36,PHI,HOU,steal,1,False,True,steal,steal,2-8,2,8
 0021700095,2017-10-30,HOU,PHI,2.43,1,9,34,HOU,PHI,foul,1,False,False,,Simmons P.FOUL (P1.T1) (C.Kirkland),2-8,2,8
@@ -145,8 +145,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700095,2017-10-30,HOU,PHI,15.0,2,9,0,HOU,HOU,fg3_make,1,False,False,Anderson 27' 3PT Jump Shot (6 PTS) (Gordon 1 AST),,35-44,35,44
 0021700095,2017-10-30,HOU,PHI,15.42,2,8,35,HOU,PHI,foul,1,False,False,,Johnson P.FOUL (P1.T4) (C.Kirkland),35-44,35,44
 0021700095,2017-10-30,HOU,PHI,15.43,2,8,34,PHI,PHI,fg_miss,43,True,False,,MISS Johnson 2' Alley Oop Layup,35-44,35,44
-0021700095,2017-10-30,HOU,PHI,15.43,2,8,34,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:0 Def:5),,35-44,35,44
 0021700095,2017-10-30,HOU,PHI,15.43,2,8,34,PHI,HOU,block,43,True,False,block,block,35-44,35,44
+0021700095,2017-10-30,HOU,PHI,15.43,2,8,34,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:0 Def:5),,35-44,35,44
 0021700095,2017-10-30,HOU,PHI,15.7,2,8,18,HOU,HOU,fg_make,6,False,False,Gordon 5' Driving Layup (5 PTS),,37-44,37,44
 0021700095,2017-10-30,HOU,PHI,15.82,2,8,11,PHI,HOU,foul,1,False,False,Mbah a Moute P.FOUL (P3.T2) (M.Ervin),,37-44,37,44
 0021700095,2017-10-30,HOU,PHI,16.05,2,7,57,PHI,PHI,fg_make,79,False,False,,Simmons 17' Pullup Jump Shot (10 PTS),37-46,37,46
@@ -155,8 +155,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700095,2017-10-30,HOU,PHI,16.42,2,7,35,PHI,PHI,tov,2,False,True,,Bayless Lost Ball Turnover (P2.T5),37-46,37,46
 0021700095,2017-10-30,HOU,PHI,16.42,2,7,35,PHI,HOU,steal,2,False,True,steal,steal,37-46,37,46
 0021700095,2017-10-30,HOU,PHI,16.53,2,7,28,HOU,HOU,tov,2,False,True,Ariza Lost Ball Turnover (P1.T9),,37-46,37,46
-0021700095,2017-10-30,HOU,PHI,16.53,2,7,28,PHI,PHI,timeout,1,False,False,,76ers Timeout: Regular (Reg.2 Short 0),37-46,37,46
 0021700095,2017-10-30,HOU,PHI,16.53,2,7,28,HOU,PHI,steal,2,False,True,steal,steal,37-46,37,46
+0021700095,2017-10-30,HOU,PHI,16.53,2,7,28,PHI,PHI,timeout,1,False,False,,76ers Timeout: Regular (Reg.2 Short 0),37-46,37,46
 0021700095,2017-10-30,HOU,PHI,16.67,2,7,20,PHI,HOU,foul,2,False,False,Mbah a Moute S.FOUL (P4.T3) (M.Smith),,37-46,37,46
 0021700095,2017-10-30,HOU,PHI,16.67,2,7,20,PHI,PHI,ft_make,11,False,False,,Simmons Free Throw 1 of 2 (11 PTS),37-47,37,47
 0021700095,2017-10-30,HOU,PHI,16.67,2,7,20,PHI,PHI,ft_make,12,False,False,,Simmons Free Throw 2 of 2 (12 PTS),37-48,37,48
@@ -183,8 +183,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700095,2017-10-30,HOU,PHI,19.15,2,4,51,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:0 Def:2),,44-50,44,50
 0021700095,2017-10-30,HOU,PHI,19.38,2,4,37,HOU,HOU,fg3_make,1,False,False,Gordon 25' 3PT Jump Shot (11 PTS) (Harden 5 AST),,47-50,47,50
 0021700095,2017-10-30,HOU,PHI,19.58,2,4,25,PHI,PHI,fg_miss,6,True,False,,MISS Luwawu-Cabarrot 2' Driving Layup,47-50,47,50
-0021700095,2017-10-30,HOU,PHI,19.58,2,4,25,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:0 Def:7),,47-50,47,50
 0021700095,2017-10-30,HOU,PHI,19.58,2,4,25,PHI,HOU,block,6,True,False,block,block,47-50,47,50
+0021700095,2017-10-30,HOU,PHI,19.58,2,4,25,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:0 Def:7),,47-50,47,50
 0021700095,2017-10-30,HOU,PHI,19.7,2,4,18,HOU,HOU,fg_make,41,False,False,Harden 1' Running Layup (15 PTS),,49-50,49,50
 0021700095,2017-10-30,HOU,PHI,20.02,2,3,59,PHI,PHI,fg3_make,1,False,False,,Saric 26' 3PT Jump Shot (9 PTS) (McConnell 4 AST),49-53,49,53
 0021700095,2017-10-30,HOU,PHI,20.2,2,3,48,HOU,PHI,foul,2,False,False,,Johnson S.FOUL (P2.PN) (M.Smith),49-53,49,53
@@ -330,8 +330,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700095,2017-10-30,HOU,PHI,35.52,3,0,29,HOU,PHI,foul,2,False,False,,Luwawu-Cabarrot S.FOUL (P4.PN) (M.Smith),78-90,78,90
 0021700095,2017-10-30,HOU,PHI,35.52,3,0,29,HOU,HOU,ft_make,10,False,False,Nene Free Throw 1 of 1 (6 PTS),,79-90,79,90
 0021700095,2017-10-30,HOU,PHI,35.82,3,0,11,PHI,HOU,foul,1,False,False,Tucker P.FOUL (P3.PN) (M.Smith),,79-90,79,90
-0021700095,2017-10-30,HOU,PHI,35.82,3,0,11,PHI,PHI,ft_make,12,False,False,,Luwawu-Cabarrot Free Throw 2 of 2 (14 PTS),79-91,79,91
 0021700095,2017-10-30,HOU,PHI,35.82,3,0,11,PHI,PHI,ft_make,11,False,False,,Luwawu-Cabarrot Free Throw 1 of 2 (15 PTS),79-92,79,92
+0021700095,2017-10-30,HOU,PHI,35.82,3,0,11,PHI,PHI,ft_make,12,False,False,,Luwawu-Cabarrot Free Throw 2 of 2 (14 PTS),79-91,79,91
 0021700095,2017-10-30,HOU,PHI,35.97,3,0,2,HOU,HOU,fg3_miss,1,False,False,MISS Harden 26' 3PT Jump Shot,,79-92,79,92
 0021700095,2017-10-30,HOU,PHI,35.97,3,0,2,HOU,HOU,reb,0,False,False,Nene REBOUND (Off:1 Def:2),,79-92,79,92
 0021700095,2017-10-30,HOU,PHI,36.0,3,0,0,HOU,PHI,foul,2,False,False,,Saric S.FOUL (P2.PN) (M.Smith),79-92,79,92
@@ -339,9 +339,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700095,2017-10-30,HOU,PHI,36.0,3,0,0,HOU,HOU,reb,1,False,False,ROCKETS Rebound,,79-92,79,92
 0021700095,2017-10-30,HOU,PHI,36.0,3,0,0,HOU,HOU,ft_make,12,False,False,Nene Free Throw 2 of 2 (7 PTS),,80-92,80,92
 0021700095,2017-10-30,HOU,PHI,36.0,3,0,0,PHI,PHI,tov,1,False,True,,Covington Bad Pass Turnover (P2.T14),80-92,80,92
+0021700095,2017-10-30,HOU,PHI,36.0,3,0,0,PHI,HOU,steal,1,False,True,steal,steal,80-92,80,92
 0021700095,2017-10-30,HOU,PHI,36.0,3,0,0,PHI,,period_end,0,False,False,,,80-92,80,92
 0021700095,2017-10-30,HOU,PHI,36.0,4,12,0,PHI,,period_start,0,False,False,,,80-92,80,92
-0021700095,2017-10-30,HOU,PHI,36.0,3,0,0,PHI,HOU,steal,1,False,True,steal,steal,80-92,80,92
 0021700095,2017-10-30,HOU,PHI,36.15,4,11,51,PHI,HOU,foul,1,False,False,Ariza P.FOUL (P2.T1) (M.Ervin),,80-92,80,92
 0021700095,2017-10-30,HOU,PHI,36.25,4,11,45,PHI,PHI,tov,1,False,True,,Simmons Bad Pass Turnover (P5.T15),80-92,80,92
 0021700095,2017-10-30,HOU,PHI,36.25,4,11,45,PHI,HOU,steal,1,False,True,steal,steal,80-92,80,92
@@ -386,8 +386,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700095,2017-10-30,HOU,PHI,40.85,4,7,9,PHI,PHI,fg_make,5,False,False,,Embiid 2' Layup (20 PTS),93-100,93,100
 0021700095,2017-10-30,HOU,PHI,40.88,4,7,7,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 4 Short 0),,93-100,93,100
 0021700095,2017-10-30,HOU,PHI,41.05,4,6,57,HOU,HOU,fg_miss,6,True,False,MISS Harden 1' Driving Layup,,93-100,93,100
-0021700095,2017-10-30,HOU,PHI,41.05,4,6,57,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,93-100,93,100
 0021700095,2017-10-30,HOU,PHI,41.05,4,6,57,HOU,PHI,block,6,True,False,block,block,93-100,93,100
+0021700095,2017-10-30,HOU,PHI,41.05,4,6,57,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,93-100,93,100
 0021700095,2017-10-30,HOU,PHI,41.22,4,6,47,HOU,HOU,tov,1,False,True,Gordon Bad Pass Turnover (P3.T14),,93-100,93,100
 0021700095,2017-10-30,HOU,PHI,41.22,4,6,47,HOU,PHI,steal,1,False,True,steal,steal,93-100,93,100
 0021700095,2017-10-30,HOU,PHI,41.48,4,6,31,PHI,PHI,fg3_make,1,False,False,,McConnell 3PT Jump Shot (11 PTS) (Embiid 5 AST),93-103,93,103
@@ -409,8 +409,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700095,2017-10-30,HOU,PHI,43.4,4,4,36,PHI,PHI,fg_miss,1,False,False,,MISS Covington 20' Jump Shot,98-103,98,103
 0021700095,2017-10-30,HOU,PHI,43.48,4,4,31,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,98-103,98,103
 0021700095,2017-10-30,HOU,PHI,43.7,4,4,18,HOU,HOU,fg_miss,1,True,False,MISS Harden 8' Jump Shot,,98-103,98,103
-0021700095,2017-10-30,HOU,PHI,43.7,4,4,18,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,98-103,98,103
 0021700095,2017-10-30,HOU,PHI,43.7,4,4,18,HOU,PHI,block,1,True,False,block,block,98-103,98,103
+0021700095,2017-10-30,HOU,PHI,43.7,4,4,18,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,98-103,98,103
 0021700095,2017-10-30,HOU,PHI,43.85,4,4,9,HOU,PHI,foul,1,False,False,,Embiid P.FOUL (P5.PN) (M.Smith),98-103,98,103
 0021700095,2017-10-30,HOU,PHI,43.85,4,4,9,HOU,HOU,ft_make,11,False,False,Capela Free Throw 1 of 2 (12 PTS),,99-103,99,103
 0021700095,2017-10-30,HOU,PHI,43.85,4,4,9,HOU,HOU,ft_miss,12,False,False,MISS Capela Free Throw 2 of 2,,99-103,99,103
@@ -427,8 +427,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700095,2017-10-30,HOU,PHI,44.48,4,3,31,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 5 Short 0),,100-106,100,106
 0021700095,2017-10-30,HOU,PHI,44.53,4,3,28,HOU,HOU,fg3_make,1,False,False,Gordon 3PT Jump Shot (25 PTS) (Ariza 3 AST),,103-106,103,106
 0021700095,2017-10-30,HOU,PHI,44.9,4,3,6,PHI,PHI,tov,1,False,True,,Covington Bad Pass Turnover (P3.T19),103-106,103,106
-0021700095,2017-10-30,HOU,PHI,44.9,4,3,6,HOU,PHI,foul,2,False,False,,Bayless S.FOUL (P5.PN) (M.Ervin),103-106,103,106
 0021700095,2017-10-30,HOU,PHI,44.9,4,3,6,PHI,HOU,steal,1,False,True,steal,steal,103-106,103,106
+0021700095,2017-10-30,HOU,PHI,44.9,4,3,6,HOU,PHI,foul,2,False,False,,Bayless S.FOUL (P5.PN) (M.Ervin),103-106,103,106
 0021700095,2017-10-30,HOU,PHI,44.9,4,3,6,HOU,HOU,ft_make,11,False,False,Harden Free Throw 1 of 2 (28 PTS),,104-106,104,106
 0021700095,2017-10-30,HOU,PHI,44.9,4,3,6,HOU,HOU,ft_make,12,False,False,Harden Free Throw 2 of 2 (29 PTS),,105-106,105,106
 0021700095,2017-10-30,HOU,PHI,45.22,4,2,47,PHI,PHI,tov,2,False,True,,Embiid Lost Ball Turnover (P3.T20),105-106,105,106

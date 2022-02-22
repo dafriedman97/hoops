@@ -127,8 +127,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800770,2019-02-01,CHA,MEM,15.5,2,8,30,MEM,CHA,block,6,True,False,block,block,22-32,22,32
 0021800770,2019-02-01,CHA,MEM,15.55,2,8,27,CHA,CHA,reb,0,False,False,Batum REBOUND (Off:1 Def:2),,22-32,22,32
 0021800770,2019-02-01,CHA,MEM,15.62,2,8,23,CHA,CHA,fg_miss,1,True,False,MISS Monk 13' Jump Shot,,22-32,22,32
-0021800770,2019-02-01,CHA,MEM,15.62,2,8,23,CHA,CHA,reb,0,False,False,HORNETS Rebound,,22-32,22,32
 0021800770,2019-02-01,CHA,MEM,15.62,2,8,23,CHA,MEM,block,1,True,False,block,block,22-32,22,32
+0021800770,2019-02-01,CHA,MEM,15.62,2,8,23,CHA,CHA,reb,0,False,False,HORNETS Rebound,,22-32,22,32
 0021800770,2019-02-01,CHA,MEM,15.82,2,8,11,CHA,CHA,fg_miss,78,False,False,MISS Williams 6' Floating Jump Shot,,22-32,22,32
 0021800770,2019-02-01,CHA,MEM,15.85,2,8,9,MEM,MEM,reb,0,False,False,,Rabb REBOUND (Off:0 Def:1),22-32,22,32
 0021800770,2019-02-01,CHA,MEM,16.12,2,7,53,MEM,MEM,fg3_miss,1,False,False,,MISS Carter 25' 3PT Jump Shot,22-32,22,32
@@ -168,8 +168,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800770,2019-02-01,CHA,MEM,21.27,2,2,44,MEM,MEM,ft_make,11,False,False,,Green Free Throw 1 of 2 (4 PTS),37-41,37,41
 0021800770,2019-02-01,CHA,MEM,21.27,2,2,44,MEM,MEM,ft_make,12,False,False,,Green Free Throw 2 of 2 (5 PTS),37-42,37,42
 0021800770,2019-02-01,CHA,MEM,21.45,2,2,33,CHA,CHA,fg3_miss,1,False,False,MISS Walker 26' 3PT Jump Shot,,37-42,37,42
-0021800770,2019-02-01,CHA,MEM,21.45,2,2,33,CHA,CHA,reb,0,False,False,HORNETS Rebound,,37-42,37,42
 0021800770,2019-02-01,CHA,MEM,21.45,2,2,33,CHA,MEM,foul,3,False,False,,Green L.B.FOUL (P2.PN) (T.Brothers),37-42,37,42
+0021800770,2019-02-01,CHA,MEM,21.45,2,2,33,CHA,CHA,reb,0,False,False,HORNETS Rebound,,37-42,37,42
 0021800770,2019-02-01,CHA,MEM,21.45,2,2,33,CHA,CHA,ft_make,11,False,False,Kidd-Gilchrist Free Throw 1 of 2 (7 PTS),,38-42,38,42
 0021800770,2019-02-01,CHA,MEM,21.45,2,2,33,CHA,CHA,ft_make,12,False,False,Kidd-Gilchrist Free Throw 2 of 2 (8 PTS),,39-42,39,42
 0021800770,2019-02-01,CHA,MEM,21.78,2,2,13,MEM,MEM,fg_miss,5,True,False,,MISS Rabb 3' Layup,39-42,39,42
@@ -192,9 +192,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800770,2019-02-01,CHA,MEM,23.42,2,0,35,MEM,MEM,fg3_make,1,False,False,,Mack 25' 3PT Jump Shot (11 PTS) (Gasol 4 AST),43-45,43,45
 0021800770,2019-02-01,CHA,MEM,23.5,2,0,30,CHA,CHA,fg_make,1,False,False,Parker 13' Jump Shot (13 PTS),,45-45,45,45
 0021800770,2019-02-01,CHA,MEM,23.92,2,0,5,MEM,MEM,fg_miss,1,True,False,,MISS Mack 22' Jump Shot,45-45,45,45
-0021800770,2019-02-01,CHA,MEM,23.92,2,0,5,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,45-45,45,45
-0021800770,2019-02-01,CHA,MEM,23.92,2,0,5,MEM,MEM,tov,11,False,False,,Grizzlies Turnover: Shot Clock (T#8),45-45,45,45
 0021800770,2019-02-01,CHA,MEM,23.92,2,0,5,MEM,CHA,block,1,True,False,block,block,45-45,45,45
+0021800770,2019-02-01,CHA,MEM,23.92,2,0,5,MEM,MEM,tov,11,False,False,,Grizzlies Turnover: Shot Clock (T#8),45-45,45,45
+0021800770,2019-02-01,CHA,MEM,23.92,2,0,5,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,45-45,45,45
 0021800770,2019-02-01,CHA,MEM,23.98,2,0,1,CHA,CHA,fg_miss,6,False,False,MISS Monk 2' Driving Layup,,45-45,45,45
 0021800770,2019-02-01,CHA,MEM,24.0,2,0,0,MEM,MEM,reb,0,False,False,,Caboclo REBOUND (Off:0 Def:2),45-45,45,45
 0021800770,2019-02-01,CHA,MEM,24.0,2,0,0,MEM,,period_end,0,False,False,,,45-45,45,45
@@ -381,8 +381,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800770,2019-02-01,CHA,MEM,46.37,4,1,38,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.6 Short 0),94-90,94,90
 0021800770,2019-02-01,CHA,MEM,46.37,4,1,38,MEM,CHA,violation,5,False,False,Batum Violation:Kicked Ball (B.Forte),,94-90,94,90
 0021800770,2019-02-01,CHA,MEM,46.53,4,1,28,MEM,MEM,fg_miss,6,True,False,,MISS Mack 3' Driving Layup,94-90,94,90
-0021800770,2019-02-01,CHA,MEM,46.53,4,1,28,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,94-90,94,90
 0021800770,2019-02-01,CHA,MEM,46.53,4,1,28,MEM,CHA,block,6,True,False,block,block,94-90,94,90
+0021800770,2019-02-01,CHA,MEM,46.53,4,1,28,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,94-90,94,90
 0021800770,2019-02-01,CHA,MEM,46.75,4,1,15,MEM,MEM,fg_miss,1,False,False,,MISS Gasol 10' Jump Shot,94-90,94,90
 0021800770,2019-02-01,CHA,MEM,46.75,4,1,15,CHA,CHA,reb,0,False,False,HORNETS Rebound,,94-90,94,90
 0021800770,2019-02-01,CHA,MEM,46.75,4,1,15,CHA,MEM,foul,3,False,False,,Green L.B.FOUL (P4.PN) (T.Brothers),94-90,94,90

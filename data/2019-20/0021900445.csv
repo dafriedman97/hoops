@@ -82,8 +82,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900445,2019-12-23,DET,PHI,9.75,1,2,15,PHI,PHI,reb,1,False,False,,76ers Rebound,17-23,17,23
 0021900445,2019-12-23,DET,PHI,9.75,1,2,15,PHI,PHI,ft_make,12,False,False,,Embiid Free Throw 2 of 2 (3 PTS),17-24,17,24
 0021900445,2019-12-23,DET,PHI,10.0,1,2,0,DET,DET,fg_miss,44,True,False,MISS Snell 4' Reverse Layup,,17-24,17,24
-0021900445,2019-12-23,DET,PHI,10.0,1,2,0,PHI,PHI,reb,0,False,False,,Ennis III REBOUND (Off:2 Def:1),17-24,17,24
 0021900445,2019-12-23,DET,PHI,10.0,1,2,0,DET,PHI,block,44,True,False,block,block,17-24,17,24
+0021900445,2019-12-23,DET,PHI,10.0,1,2,0,PHI,PHI,reb,0,False,False,,Ennis III REBOUND (Off:2 Def:1),17-24,17,24
 0021900445,2019-12-23,DET,PHI,10.25,1,1,45,PHI,DET,foul,2,False,False,Morris S.FOUL (P1.PN) (E.Malloy),,17-24,17,24
 0021900445,2019-12-23,DET,PHI,10.25,1,1,45,PHI,PHI,ft_make,11,False,False,,Embiid Free Throw 1 of 2 (4 PTS),17-25,17,25
 0021900445,2019-12-23,DET,PHI,10.25,1,1,45,PHI,PHI,ft_make,12,False,False,,Embiid Free Throw 2 of 2 (5 PTS),17-26,17,26
@@ -114,8 +114,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900445,2019-12-23,DET,PHI,13.28,2,10,43,PHI,PHI,ft_make,12,False,False,,Embiid Free Throw 2 of 2 (11 PTS),27-32,27,32
 0021900445,2019-12-23,DET,PHI,13.43,2,10,34,DET,DET,fg_miss,5,True,False,MISS Drummond 4' Layup,,27-32,27,32
 0021900445,2019-12-23,DET,PHI,13.43,2,10,34,DET,PHI,block,5,True,False,block,block,27-32,27,32
-0021900445,2019-12-23,DET,PHI,13.5,2,10,30,DET,DET,reb,0,False,False,PISTONS Rebound,,27-32,27,32
 0021900445,2019-12-23,DET,PHI,13.5,2,10,30,,DET,jump_ball,0,False,False,Jump Ball Drummond vs. Embiid: Tip to Mykhailiuk,,27-32,27,32
+0021900445,2019-12-23,DET,PHI,13.5,2,10,30,DET,DET,reb,0,False,False,PISTONS Rebound,,27-32,27,32
 0021900445,2019-12-23,DET,PHI,13.58,2,10,25,DET,DET,fg_miss,78,False,False,MISS Rose 4' Floating Jump Shot,,27-32,27,32
 0021900445,2019-12-23,DET,PHI,13.62,2,10,23,PHI,PHI,reb,0,False,False,,Harris REBOUND (Off:0 Def:2),27-32,27,32
 0021900445,2019-12-23,DET,PHI,13.82,2,10,11,PHI,PHI,fg_make,5,False,False,,Embiid 3' Layup (13 PTS) (Harris 1 AST),27-34,27,34
@@ -129,8 +129,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900445,2019-12-23,DET,PHI,15.25,2,8,45,DET,DET,fg_miss,101,False,False,MISS Galloway 8' Driving Floating Jump Shot,,34-38,34,38
 0021900445,2019-12-23,DET,PHI,15.28,2,8,43,DET,DET,reb,0,False,False,Galloway REBOUND (Off:1 Def:0),,34-38,34,38
 0021900445,2019-12-23,DET,PHI,15.32,2,8,41,DET,DET,fg_miss,5,True,False,MISS Galloway 3' Layup,,34-38,34,38
-0021900445,2019-12-23,DET,PHI,15.32,2,8,41,PHI,PHI,reb,0,False,False,,Harris REBOUND (Off:0 Def:3),34-38,34,38
 0021900445,2019-12-23,DET,PHI,15.32,2,8,41,DET,PHI,block,5,True,False,block,block,34-38,34,38
+0021900445,2019-12-23,DET,PHI,15.32,2,8,41,PHI,PHI,reb,0,False,False,,Harris REBOUND (Off:0 Def:3),34-38,34,38
 0021900445,2019-12-23,DET,PHI,15.38,2,8,37,PHI,PHI,fg_miss,1,False,False,,MISS Burke 15' Jump Shot,34-38,34,38
 0021900445,2019-12-23,DET,PHI,15.42,2,8,35,DET,DET,reb,0,False,False,Drummond REBOUND (Off:1 Def:1),,34-38,34,38
 0021900445,2019-12-23,DET,PHI,15.52,2,8,29,DET,DET,fg3_make,1,False,False,Mykhailiuk 25' 3PT Jump Shot (9 PTS) (Rose 3 AST),,37-38,37,38
@@ -143,8 +143,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900445,2019-12-23,DET,PHI,17.05,2,6,57,DET,DET,fg_miss,1,False,False,MISS Drummond 3' Jump Shot,,39-40,39,40
 0021900445,2019-12-23,DET,PHI,17.1,2,6,54,PHI,PHI,reb,0,False,False,,Harris REBOUND (Off:0 Def:4),39-40,39,40
 0021900445,2019-12-23,DET,PHI,17.23,2,6,46,PHI,PHI,fg_miss,79,False,False,,MISS Harris 17' Pullup Jump Shot,39-40,39,40
-0021900445,2019-12-23,DET,PHI,17.35,2,6,39,PHI,PHI,fg_miss,97,False,False,,MISS Ennis III 1' Tip Layup Shot,39-40,39,40
 0021900445,2019-12-23,DET,PHI,17.35,2,6,39,PHI,PHI,reb,0,False,False,,Ennis III REBOUND (Off:3 Def:1),39-40,39,40
+0021900445,2019-12-23,DET,PHI,17.35,2,6,39,PHI,PHI,fg_miss,97,False,False,,MISS Ennis III 1' Tip Layup Shot,39-40,39,40
 0021900445,2019-12-23,DET,PHI,17.37,2,6,38,DET,DET,reb,0,False,False,Mykhailiuk REBOUND (Off:0 Def:1),,39-40,39,40
 0021900445,2019-12-23,DET,PHI,17.45,2,6,33,DET,DET,fg_make,98,False,False,Drummond 2' Cutting Layup Shot (10 PTS) (Mykhailiuk 2 AST),,41-40,41,40
 0021900445,2019-12-23,DET,PHI,17.73,2,6,16,PHI,PHI,fg_make,5,False,False,,Harris 2' Layup (12 PTS) (Horford 3 AST),41-42,41,42
@@ -164,8 +164,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900445,2019-12-23,DET,PHI,19.18,2,4,49,DET,DET,fg3_miss,1,False,False,MISS Griffin 26' 3PT Jump Shot,,41-45,41,45
 0021900445,2019-12-23,DET,PHI,19.23,2,4,46,PHI,PHI,reb,0,False,False,,76ers Rebound,41-45,41,45
 0021900445,2019-12-23,DET,PHI,19.4,2,4,36,PHI,PHI,fg_miss,3,False,False,,MISS Simmons 6' Hook Shot,41-45,41,45
-0021900445,2019-12-23,DET,PHI,19.53,2,4,28,PHI,PHI,fg_make,97,False,False,,Korkmaz 1' Tip Layup Shot (2 PTS),41-47,41,47
 0021900445,2019-12-23,DET,PHI,19.53,2,4,28,PHI,PHI,reb,0,False,False,,Korkmaz REBOUND (Off:1 Def:1),41-47,41,47
+0021900445,2019-12-23,DET,PHI,19.53,2,4,28,PHI,PHI,fg_make,97,False,False,,Korkmaz 1' Tip Layup Shot (2 PTS),41-47,41,47
 0021900445,2019-12-23,DET,PHI,19.72,2,4,17,DET,DET,fg3_make,1,False,False,Snell 25' 3PT Jump Shot (3 PTS) (Frazier 3 AST),,44-47,44,47
 0021900445,2019-12-23,DET,PHI,20.08,2,3,55,PHI,PHI,fg_make,6,False,False,,Harris 4' Driving Layup (15 PTS),44-49,44,49
 0021900445,2019-12-23,DET,PHI,20.2,2,3,48,DET,DET,fg3_miss,1,False,False,MISS Snell 26' 3PT Jump Shot,,44-49,44,49
@@ -210,14 +210,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900445,2019-12-23,DET,PHI,25.08,3,10,55,PHI,PHI,fg_miss,73,False,False,,MISS Richardson 3' Driving Reverse Layup,54-60,54,60
 0021900445,2019-12-23,DET,PHI,25.12,3,10,53,DET,DET,reb,0,False,False,Drummond REBOUND (Off:1 Def:4),,54-60,54,60
 0021900445,2019-12-23,DET,PHI,25.17,3,10,50,DET,DET,fg_miss,41,True,False,MISS Griffin 5' Running Layup,,54-60,54,60
-0021900445,2019-12-23,DET,PHI,25.17,3,10,50,DET,DET,reb,0,False,False,PISTONS Rebound,,54-60,54,60
 0021900445,2019-12-23,DET,PHI,25.17,3,10,50,DET,PHI,block,41,True,False,block,block,54-60,54,60
+0021900445,2019-12-23,DET,PHI,25.17,3,10,50,DET,DET,reb,0,False,False,PISTONS Rebound,,54-60,54,60
 0021900445,2019-12-23,DET,PHI,25.27,3,10,44,DET,DET,fg_make,79,False,False,Snell 19' Pullup Jump Shot (5 PTS) (Frazier 4 AST),,56-60,56,60
 0021900445,2019-12-23,DET,PHI,25.37,3,10,38,PHI,PHI,fg3_miss,1,False,False,,MISS Harris 25' 3PT Jump Shot,56-60,56,60
 0021900445,2019-12-23,DET,PHI,25.4,3,10,36,DET,DET,reb,0,False,False,Mykhailiuk REBOUND (Off:0 Def:2),,56-60,56,60
 0021900445,2019-12-23,DET,PHI,25.53,3,10,28,DET,DET,fg_miss,1,True,False,MISS Mykhailiuk 7' Jump Shot,,56-60,56,60
-0021900445,2019-12-23,DET,PHI,25.53,3,10,28,DET,DET,reb,0,False,False,PISTONS Rebound,,56-60,56,60
 0021900445,2019-12-23,DET,PHI,25.53,3,10,28,DET,PHI,block,1,True,False,block,block,56-60,56,60
+0021900445,2019-12-23,DET,PHI,25.53,3,10,28,DET,DET,reb,0,False,False,PISTONS Rebound,,56-60,56,60
 0021900445,2019-12-23,DET,PHI,25.67,3,10,20,DET,DET,fg_make,5,False,False,Drummond 2' Layup (14 PTS) (Mykhailiuk 3 AST),,58-60,58,60
 0021900445,2019-12-23,DET,PHI,26.0,3,10,0,PHI,PHI,fg_make,80,False,False,,Harris 12' Step Back Jump Shot (19 PTS),58-62,58,62
 0021900445,2019-12-23,DET,PHI,26.17,3,9,50,DET,DET,fg3_make,1,False,False,Frazier 26' 3PT Jump Shot (3 PTS) (Griffin 2 AST),,61-62,61,62

@@ -99,9 +99,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000787,2021-04-08,UTA,POR,11.35,1,0,39,POR,POR,ft_miss,16,False,False,,MISS Lillard Free Throw Technical,27-29,27,29
 0022000787,2021-04-08,UTA,POR,11.35,1,0,39,UTA,UTA,reb,1,False,False,JAZZ Rebound,,27-29,27,29
 0022000787,2021-04-08,UTA,POR,11.48,1,0,31,UTA,UTA,fg3_make,1,False,False,Niang 26' 3PT Jump Shot (7 PTS) (Conley 1 AST),,30-29,30,29
+0022000787,2021-04-08,UTA,POR,11.88,1,0,7,UTA,UTA,timeout,7,False,False,JAZZ Timeout: Coach Challenge (Full 1 Short 0),,30-29,30,29
 0022000787,2021-04-08,UTA,POR,11.88,1,0,7,POR,POR,fg3_miss,1,False,False,,MISS Anthony 24' 3PT Jump Shot,30-29,30,29
 0022000787,2021-04-08,UTA,POR,11.88,1,0,7,UTA,UTA,reb,0,False,False,JAZZ Rebound,,30-29,30,29
-0022000787,2021-04-08,UTA,POR,11.88,1,0,7,UTA,UTA,timeout,7,False,False,JAZZ Timeout: Coach Challenge (Full 1 Short 0),,30-29,30,29
 0022000787,2021-04-08,UTA,POR,11.93,1,0,4,,UTA,jump_ball,1,False,False,Jump Ball (CC) Gobert vs. Jones Jr.: Tip to Conley,,30-29,30,29
 0022000787,2021-04-08,UTA,POR,12.0,1,0,0,UTA,UTA,fg3_miss,1,False,False,MISS Ingles 24' 3PT Jump Shot,,30-29,30,29
 0022000787,2021-04-08,UTA,POR,12.0,1,0,0,UTA,UTA,reb,0,False,False,JAZZ Rebound,,30-29,30,29
@@ -115,16 +115,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000787,2021-04-08,UTA,POR,12.68,2,11,19,POR,POR,fg_miss,78,False,False,,MISS Nurkic 10' Floating Jump Shot,32-29,32,29
 0022000787,2021-04-08,UTA,POR,12.73,2,11,16,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:2 Def:4),,32-29,32,29
 0022000787,2021-04-08,UTA,POR,12.92,2,11,5,UTA,UTA,fg_miss,98,True,False,MISS Gobert 5' Cutting Layup Shot,,32-29,32,29
+0022000787,2021-04-08,UTA,POR,12.92,2,11,5,UTA,POR,block,98,True,False,block,block,32-29,32,29
 0022000787,2021-04-08,UTA,POR,12.92,2,11,5,POR,POR,reb,0,False,False,,Jones Jr. REBOUND (Off:0 Def:1),32-29,32,29
 0022000787,2021-04-08,UTA,POR,12.92,2,11,5,POR,UTA,foul,28,False,False,Niang Personal Take Foul (P1.T1) (P.Fraher),,32-29,32,29
-0022000787,2021-04-08,UTA,POR,12.92,2,11,5,UTA,POR,block,98,True,False,block,block,32-29,32,29
 0022000787,2021-04-08,UTA,POR,13.12,2,10,53,POR,POR,fg3_miss,79,False,False,,MISS McCollum 26' 3PT Pullup Jump Shot,32-29,32,29
 0022000787,2021-04-08,UTA,POR,13.17,2,10,50,UTA,UTA,reb,0,False,False,Conley REBOUND (Off:0 Def:2),,32-29,32,29
 0022000787,2021-04-08,UTA,POR,13.3,2,10,42,UTA,UTA,fg_make,52,False,False,Gobert 2' Alley Oop Dunk (4 PTS) (Conley 2 AST),,34-29,34,29
 0022000787,2021-04-08,UTA,POR,13.5,2,10,30,POR,POR,fg3_make,1,False,False,,Nurkic 24' 3PT Jump Shot (3 PTS) (McCollum 1 AST),34-32,34,32
 0022000787,2021-04-08,UTA,POR,13.73,2,10,16,UTA,UTA,fg_miss,101,True,False,MISS Conley 6' Driving Floating Jump Shot,,34-32,34,32
-0022000787,2021-04-08,UTA,POR,13.73,2,10,16,UTA,UTA,reb,0,False,False,JAZZ Rebound,,34-32,34,32
 0022000787,2021-04-08,UTA,POR,13.73,2,10,16,UTA,POR,block,101,True,False,block,block,34-32,34,32
+0022000787,2021-04-08,UTA,POR,13.73,2,10,16,UTA,UTA,reb,0,False,False,JAZZ Rebound,,34-32,34,32
 0022000787,2021-04-08,UTA,POR,13.75,2,10,15,UTA,UTA,fg3_miss,1,False,False,MISS Niang 24' 3PT Jump Shot,,34-32,34,32
 0022000787,2021-04-08,UTA,POR,13.8,2,10,12,POR,POR,reb,0,False,False,,Trail Blazers Rebound,34-32,34,32
 0022000787,2021-04-08,UTA,POR,14.17,2,9,50,POR,POR,fg_make,6,False,False,,McCollum 7' Driving Layup (10 PTS) (Nurkic 3 AST),34-34,34,34
@@ -325,8 +325,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000787,2021-04-08,UTA,POR,35.5,3,0,30,UTA,UTA,fg_make,76,False,False,Oni 2' Running Finger Roll Layup (5 PTS) (Ingles 5 AST),,93-72,93,72
 0022000787,2021-04-08,UTA,POR,35.82,3,0,11,POR,POR,fg3_make,1,False,False,,Anthony 26' 3PT Jump Shot (7 PTS) (Lillard 5 AST),93-75,93,75
 0022000787,2021-04-08,UTA,POR,35.97,3,0,2,UTA,UTA,fg_miss,6,True,False,MISS Conley 2' Driving Layup,,93-75,93,75
-0022000787,2021-04-08,UTA,POR,35.97,3,0,2,POR,POR,reb,0,False,False,,Covington REBOUND (Off:1 Def:3),93-75,93,75
 0022000787,2021-04-08,UTA,POR,35.97,3,0,2,UTA,POR,block,6,True,False,block,block,93-75,93,75
+0022000787,2021-04-08,UTA,POR,35.97,3,0,2,POR,POR,reb,0,False,False,,Covington REBOUND (Off:1 Def:3),93-75,93,75
 0022000787,2021-04-08,UTA,POR,36.0,3,0,0,POR,POR,fg3_miss,1,False,False,,MISS Covington 49' 3PT Jump Shot,93-75,93,75
 0022000787,2021-04-08,UTA,POR,36.0,3,0,0,POR,POR,reb,0,False,False,,Trail Blazers Rebound,93-75,93,75
 0022000787,2021-04-08,UTA,POR,36.0,3,0,0,POR,,period_end,0,False,False,,,93-75,93,75
@@ -435,8 +435,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000787,2021-04-08,UTA,POR,47.3,4,0,42,UTA,UTA,reb,0,False,False,Brantley REBOUND (Off:1 Def:1),,117-101,117,101
 0022000787,2021-04-08,UTA,POR,47.33,4,0,40,UTA,UTA,fg_make,44,False,False,Brantley 1' Reverse Layup (2 PTS),,119-101,119,101
 0022000787,2021-04-08,UTA,POR,47.6,4,0,24,POR,POR,fg_miss,6,True,False,,MISS Simons 6' Driving Layup,119-101,119,101
-0022000787,2021-04-08,UTA,POR,47.6,4,0,24,POR,POR,reb,0,False,False,,Kanter REBOUND (Off:2 Def:5),119-101,119,101
 0022000787,2021-04-08,UTA,POR,47.6,4,0,24,POR,UTA,block,6,True,False,block,block,119-101,119,101
+0022000787,2021-04-08,UTA,POR,47.6,4,0,24,POR,POR,reb,0,False,False,,Kanter REBOUND (Off:2 Def:5),119-101,119,101
 0022000787,2021-04-08,UTA,POR,47.6,4,0,24,POR,POR,fg_make,72,False,False,,Kanter 3' Putback Layup (8 PTS),119-103,119,103
 0022000787,2021-04-08,UTA,POR,47.7,4,0,18,UTA,UTA,fg3_make,79,False,False,Hughes 25' 3PT Pullup Jump Shot (3 PTS),,122-103,122,103
 0022000787,2021-04-08,UTA,POR,47.83,4,0,10,POR,POR,fg3_miss,79,False,False,,MISS Little 26' 3PT Pullup Jump Shot,122-103,122,103

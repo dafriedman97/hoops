@@ -118,9 +118,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900903,2020-03-02,NYK,HOU,11.88,1,0,7,NYK,NYK,ft_make,11,False,False,Barrett Free Throw 1 of 2 (13 PTS),,35-31,35,31
 0021900903,2020-03-02,NYK,HOU,11.88,1,0,7,NYK,NYK,ft_make,12,False,False,Barrett Free Throw 2 of 2 (14 PTS),,36-31,36,31
 0021900903,2020-03-02,NYK,HOU,12.0,1,0,0,HOU,HOU,tov,2,False,True,,Westbrook Lost Ball Turnover (P1.T6),36-31,36,31
+0021900903,2020-03-02,NYK,HOU,12.0,1,0,0,HOU,NYK,steal,2,False,True,steal,steal,36-31,36,31
 0021900903,2020-03-02,NYK,HOU,12.0,1,0,0,HOU,,period_end,0,False,False,,,36-31,36,31
 0021900903,2020-03-02,NYK,HOU,12.0,2,12,0,HOU,,period_start,0,False,False,,,36-31,36,31
-0021900903,2020-03-02,NYK,HOU,12.0,1,0,0,HOU,NYK,steal,2,False,True,steal,steal,36-31,36,31
 0021900903,2020-03-02,NYK,HOU,12.3,2,11,42,NYK,NYK,fg_make,79,False,False,Ntilikina 15' Pullup Jump Shot (2 PTS),,38-31,38,31
 0021900903,2020-03-02,NYK,HOU,12.65,2,11,21,HOU,HOU,fg3_miss,1,False,False,,MISS Gordon 29' 3PT Jump Shot,38-31,38,31
 0021900903,2020-03-02,NYK,HOU,12.68,2,11,19,NYK,NYK,reb,0,False,False,KNICKS Rebound,,38-31,38,31
@@ -438,8 +438,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900903,2020-03-02,NYK,HOU,44.95,4,3,3,HOU,HOU,tov,1,False,True,,Westbrook Bad Pass Turnover (P6.T12),120-115,120,115
 0021900903,2020-03-02,NYK,HOU,44.95,4,3,3,HOU,NYK,steal,1,False,True,steal,steal,120-115,120,115
 0021900903,2020-03-02,NYK,HOU,45.25,4,2,45,HOU,NYK,foul,26,False,False,Harkless Offensive Charge Foul (P4.T3) (B.Barnaky),,120-115,120,115
-0021900903,2020-03-02,NYK,HOU,45.25,4,2,45,NYK,NYK,tov,37,False,False,Harkless Offensive Foul Turnover (P2.T19),,120-115,120,115
 0021900903,2020-03-02,NYK,HOU,45.25,4,2,45,HOU,HOU,timeout,7,False,False,,Rockets Timeout: Coach Challenge (Reg.4 Short 0),120-115,120,115
+0021900903,2020-03-02,NYK,HOU,45.25,4,2,45,NYK,NYK,tov,37,False,False,Harkless Offensive Foul Turnover (P2.T19),,120-115,120,115
 0021900903,2020-03-02,NYK,HOU,45.63,4,2,22,HOU,HOU,fg_miss,98,True,False,,MISS Tucker 1' Cutting Layup Shot,120-115,120,115
 0021900903,2020-03-02,NYK,HOU,45.63,4,2,22,HOU,NYK,block,98,True,False,block,block,120-115,120,115
 0021900903,2020-03-02,NYK,HOU,45.67,4,2,20,NYK,NYK,reb,0,False,False,Robinson REBOUND (Off:3 Def:8),,120-115,120,115

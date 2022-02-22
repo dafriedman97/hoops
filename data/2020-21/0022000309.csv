@@ -120,8 +120,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000309,2021-01-31,TOR,ORL,15.02,2,8,59,TOR,TOR,ft_make,11,False,False,Boucher Free Throw 1 of 2 (5 PTS),,34-25,34,25
 0022000309,2021-01-31,TOR,ORL,15.02,2,8,59,TOR,TOR,ft_make,12,False,False,Boucher Free Throw 2 of 2 (6 PTS),,35-25,35,25
 0022000309,2021-01-31,TOR,ORL,15.3,2,8,42,ORL,ORL,fg_miss,6,False,False,,MISS Bacon 1' Driving Layup,35-25,35,25
-0022000309,2021-01-31,TOR,ORL,15.37,2,8,38,ORL,ORL,fg_make,97,False,False,,Gordon Tip Layup Shot (9 PTS),35-27,35,27
 0022000309,2021-01-31,TOR,ORL,15.37,2,8,38,ORL,ORL,reb,0,False,False,,Gordon REBOUND (Off:1 Def:3),35-27,35,27
+0022000309,2021-01-31,TOR,ORL,15.37,2,8,38,ORL,ORL,fg_make,97,False,False,,Gordon Tip Layup Shot (9 PTS),35-27,35,27
 0022000309,2021-01-31,TOR,ORL,15.47,2,8,32,TOR,ORL,violation,5,False,False,,Kicked Ball,35-27,35,27
 0022000309,2021-01-31,TOR,ORL,15.55,2,8,27,TOR,TOR,fg3_miss,1,False,False,MISS Lowry 27' 3PT Jump Shot,,35-27,35,27
 0022000309,2021-01-31,TOR,ORL,15.6,2,8,24,ORL,ORL,reb,0,False,False,,Vucevic REBOUND (Off:0 Def:5),35-27,35,27
@@ -160,8 +160,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000309,2021-01-31,TOR,ORL,19.02,2,4,59,ORL,ORL,fg_miss,78,False,False,,MISS Anthony 12' Floating Jump Shot,43-32,43,32
 0022000309,2021-01-31,TOR,ORL,19.07,2,4,56,TOR,TOR,reb,0,False,False,Baynes REBOUND (Off:2 Def:7),,43-32,43,32
 0022000309,2021-01-31,TOR,ORL,19.15,2,4,51,TOR,TOR,fg_miss,101,True,False,MISS Davis 2' Driving Floating Jump Shot,,43-32,43,32
-0022000309,2021-01-31,TOR,ORL,19.15,2,4,51,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,43-32,43,32
 0022000309,2021-01-31,TOR,ORL,19.15,2,4,51,TOR,ORL,block,101,True,False,block,block,43-32,43,32
+0022000309,2021-01-31,TOR,ORL,19.15,2,4,51,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,43-32,43,32
 0022000309,2021-01-31,TOR,ORL,19.28,2,4,43,TOR,TOR,fg3_miss,1,False,False,MISS VanVleet 25' 3PT Jump Shot,,43-32,43,32
 0022000309,2021-01-31,TOR,ORL,19.33,2,4,40,ORL,ORL,reb,0,False,False,,Birch REBOUND (Off:2 Def:2),43-32,43,32
 0022000309,2021-01-31,TOR,ORL,19.42,2,4,35,ORL,ORL,fg3_miss,1,False,False,,MISS Vucevic 26' 3PT Jump Shot,43-32,43,32
@@ -379,8 +379,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000309,2021-01-31,TOR,ORL,42.03,4,5,58,ORL,ORL,reb,0,False,False,,Anthony REBOUND (Off:0 Def:4),98-81,98,81
 0022000309,2021-01-31,TOR,ORL,42.18,4,5,49,ORL,ORL,fg_make,78,False,False,,Vucevic 7' Floating Jump Shot (15 PTS) (Anthony 6 AST),98-83,98,83
 0022000309,2021-01-31,TOR,ORL,42.47,4,5,32,TOR,TOR,fg_miss,6,True,False,MISS Davis 4' Driving Layup,,98-83,98,83
-0022000309,2021-01-31,TOR,ORL,42.47,4,5,32,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,98-83,98,83
 0022000309,2021-01-31,TOR,ORL,42.47,4,5,32,TOR,ORL,block,6,True,False,block,block,98-83,98,83
+0022000309,2021-01-31,TOR,ORL,42.47,4,5,32,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,98-83,98,83
 0022000309,2021-01-31,TOR,ORL,42.57,4,5,26,TOR,TOR,fg3_miss,1,True,False,MISS Lowry 26' 3PT Jump Shot,,98-83,98,83
 0022000309,2021-01-31,TOR,ORL,42.57,4,5,26,TOR,ORL,block,1,True,False,block,block,98-83,98,83
 0022000309,2021-01-31,TOR,ORL,42.6,4,5,24,ORL,ORL,reb,0,False,False,,Vucevic REBOUND (Off:0 Def:13),98-83,98,83
@@ -403,8 +403,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000309,2021-01-31,TOR,ORL,44.72,4,3,17,ORL,ORL,reb,0,False,False,,Vucevic REBOUND (Off:0 Def:14),103-85,103,85
 0022000309,2021-01-31,TOR,ORL,44.78,4,3,13,ORL,ORL,timeout,1,False,False,,Magic Timeout: Regular (Reg.6 Short 0),103-85,103,85
 0022000309,2021-01-31,TOR,ORL,44.9,4,3,6,ORL,ORL,fg3_miss,1,False,False,,MISS Bacon 27' 3PT Jump Shot,103-85,103,85
-0022000309,2021-01-31,TOR,ORL,44.97,4,3,2,ORL,ORL,fg_make,97,False,False,,Birch Tip Layup Shot (8 PTS),103-87,103,87
 0022000309,2021-01-31,TOR,ORL,44.97,4,3,2,ORL,ORL,reb,0,False,False,,Birch REBOUND (Off:3 Def:3),103-87,103,87
+0022000309,2021-01-31,TOR,ORL,44.97,4,3,2,ORL,ORL,fg_make,97,False,False,,Birch Tip Layup Shot (8 PTS),103-87,103,87
 0022000309,2021-01-31,TOR,ORL,45.25,4,2,45,TOR,TOR,fg_make,6,False,False,Siakam 3' Driving Layup (29 PTS),,105-87,105,87
 0022000309,2021-01-31,TOR,ORL,45.25,4,2,45,TOR,ORL,foul,2,False,False,,Bamba S.FOUL (P1.T4) (D.Taylor),105-87,105,87
 0022000309,2021-01-31,TOR,ORL,45.25,4,2,45,TOR,TOR,ft_make,10,False,False,Siakam Free Throw 1 of 1 (30 PTS),,106-87,106,87

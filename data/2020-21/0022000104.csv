@@ -175,8 +175,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000104,2021-01-05,DEN,MIN,17.42,2,6,35,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 2 Short 0),,49-35,49,35
 0022000104,2021-01-05,DEN,MIN,17.62,2,6,23,DEN,DEN,tov,45,False,False,Millsap Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,49-35,49,35
 0022000104,2021-01-05,DEN,MIN,17.85,2,6,9,MIN,MIN,fg_miss,6,True,False,,MISS Edwards 2' Driving Layup,49-35,49,35
-0022000104,2021-01-05,DEN,MIN,17.85,2,6,9,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,49-35,49,35
 0022000104,2021-01-05,DEN,MIN,17.85,2,6,9,MIN,DEN,block,6,True,False,block,block,49-35,49,35
+0022000104,2021-01-05,DEN,MIN,17.85,2,6,9,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,49-35,49,35
 0022000104,2021-01-05,DEN,MIN,18.1,2,5,54,DEN,DEN,fg_miss,6,False,False,MISS Jokic 3' Driving Layup,,49-35,49,35
 0022000104,2021-01-05,DEN,MIN,18.17,2,5,50,DEN,DEN,reb,0,False,False,Millsap REBOUND (Off:2 Def:1),,49-35,49,35
 0022000104,2021-01-05,DEN,MIN,18.17,2,5,50,DEN,DEN,fg_make,97,False,False,Millsap Tip Layup Shot (10 PTS),,51-35,51,35
@@ -233,8 +233,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000104,2021-01-05,DEN,MIN,22.72,2,1,17,MIN,MIN,reb,0,False,False,,Culver REBOUND (Off:1 Def:2),59-61,59,61
 0022000104,2021-01-05,DEN,MIN,22.88,2,1,7,MIN,MIN,fg_make,98,False,False,,Hernangomez 2' Cutting Layup Shot (21 PTS) (Russell 7 AST),59-63,59,63
 0022000104,2021-01-05,DEN,MIN,23.18,2,0,49,DEN,DEN,fg_miss,101,True,False,MISS Dozier 7' Driving Floating Jump Shot,,59-63,59,63
-0022000104,2021-01-05,DEN,MIN,23.18,2,0,49,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,59-63,59,63
 0022000104,2021-01-05,DEN,MIN,23.18,2,0,49,DEN,MIN,block,101,True,False,block,block,59-63,59,63
+0022000104,2021-01-05,DEN,MIN,23.18,2,0,49,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,59-63,59,63
 0022000104,2021-01-05,DEN,MIN,23.28,2,0,43,DEN,MIN,foul,1,False,False,,Vanderbilt P.FOUL (P3.PN) (N.Buchert),59-63,59,63
 0022000104,2021-01-05,DEN,MIN,23.28,2,0,43,DEN,DEN,ft_make,11,False,False,Campazzo Free Throw 1 of 2 (7 PTS),,60-63,60,63
 0022000104,2021-01-05,DEN,MIN,23.28,2,0,43,DEN,DEN,ft_make,12,False,False,Campazzo Free Throw 2 of 2 (8 PTS),,61-63,61,63
@@ -268,8 +268,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000104,2021-01-05,DEN,MIN,25.68,3,10,19,MIN,MIN,reb,0,False,False,,Davis REBOUND (Off:2 Def:3),66-70,66,70
 0022000104,2021-01-05,DEN,MIN,25.68,3,10,19,MIN,MIN,fg_make,97,False,False,,Davis Tip Layup Shot (2 PTS),66-72,66,72
 0022000104,2021-01-05,DEN,MIN,25.85,3,10,9,DEN,DEN,fg_miss,6,False,False,MISS Green 3' Driving Layup,,66-72,66,72
-0022000104,2021-01-05,DEN,MIN,25.93,3,10,4,DEN,DEN,fg_make,72,False,False,Jokic Putback Layup (15 PTS),,68-72,68,72
 0022000104,2021-01-05,DEN,MIN,25.93,3,10,4,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:3 Def:6),,68-72,68,72
+0022000104,2021-01-05,DEN,MIN,25.93,3,10,4,DEN,DEN,fg_make,72,False,False,Jokic Putback Layup (15 PTS),,68-72,68,72
 0022000104,2021-01-05,DEN,MIN,26.13,3,9,52,MIN,MIN,fg_make,75,False,False,,Hernangomez 3' Driving Finger Roll Layup (25 PTS),68-74,68,74
 0022000104,2021-01-05,DEN,MIN,26.57,3,9,26,DEN,DEN,fg3_miss,79,False,False,MISS Barton 25' 3PT Pullup Jump Shot,,68-74,68,74
 0022000104,2021-01-05,DEN,MIN,26.65,3,9,21,MIN,MIN,reb,0,False,False,,Davis REBOUND (Off:2 Def:4),68-74,68,74
@@ -360,8 +360,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000104,2021-01-05,DEN,MIN,35.6,3,0,24,DEN,DEN,fg3_make,1,False,False,Jokic 26' 3PT Jump Shot (22 PTS) (Campazzo 2 AST),,93-96,93,96
 0022000104,2021-01-05,DEN,MIN,35.87,3,0,8,MIN,DEN,foul,1,False,False,Dozier P.FOUL (P3.T3) (N.Buchert),,93-96,93,96
 0022000104,2021-01-05,DEN,MIN,35.95,3,0,3,DEN,MIN,foul,4,False,False,,Russell OFF.Foul (P2) (N.Buchert),93-96,93,96
-0022000104,2021-01-05,DEN,MIN,35.95,3,0,3,MIN,MIN,tov,37,False,False,,Russell Offensive Foul Turnover (P2.T8),93-96,93,96
 0022000104,2021-01-05,DEN,MIN,35.95,3,0,3,DEN,DEN,timeout,7,False,False,NUGGETS Timeout: Coach Challenge (Full 4 Short 0),,93-96,93,96
+0022000104,2021-01-05,DEN,MIN,35.95,3,0,3,MIN,MIN,tov,37,False,False,,Russell Offensive Foul Turnover (P2.T8),93-96,93,96
 0022000104,2021-01-05,DEN,MIN,36.0,3,0,0,DEN,,period_end,0,False,False,,,93-96,93,96
 0022000104,2021-01-05,DEN,MIN,36.0,4,12,0,DEN,,period_start,0,False,False,,,93-96,93,96
 0022000104,2021-01-05,DEN,MIN,36.3,4,11,42,MIN,MIN,fg_make,75,False,False,,Edwards 2' Driving Finger Roll Layup (13 PTS),93-98,93,98

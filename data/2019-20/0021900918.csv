@@ -64,8 +64,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900918,2020-03-04,DET,OKC,8.9,1,3,6,DET,DET,tov,13,False,False,Mykhailiuk Backcourt Turnover (P1.T5),,20-26,20,26
 0021900918,2020-03-04,DET,OKC,8.97,1,3,2,OKC,OKC,fg3_make,1,False,False,,Nader 27' 3PT Jump Shot (3 PTS) (Schroder 2 AST),20-29,20,29
 0021900918,2020-03-04,DET,OKC,9.35,1,2,39,DET,DET,fg_miss,5,True,False,MISS Doumbouya 4' Layup,,20-29,20,29
-0021900918,2020-03-04,DET,OKC,9.35,1,2,39,DET,DET,reb,0,False,False,PISTONS Rebound,,20-29,20,29
 0021900918,2020-03-04,DET,OKC,9.35,1,2,39,DET,OKC,block,5,True,False,block,block,20-29,20,29
+0021900918,2020-03-04,DET,OKC,9.35,1,2,39,DET,DET,reb,0,False,False,PISTONS Rebound,,20-29,20,29
 0021900918,2020-03-04,DET,OKC,9.45,1,2,33,DET,DET,fg_make,9,False,False,Wood 4' Driving Dunk (8 PTS) (Mykhailiuk 2 AST),,22-29,22,29
 0021900918,2020-03-04,DET,OKC,9.45,1,2,33,OKC,DET,violation,1,False,False,PISTONS Violation: Delay of game Violation,,22-29,22,29
 0021900918,2020-03-04,DET,OKC,9.62,1,2,23,OKC,OKC,fg_miss,1,False,False,,MISS Schroder 19' Jump Shot,22-29,22,29
@@ -288,10 +288,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900918,2020-03-04,DET,OKC,34.55,3,1,27,DET,DET,reb,0,False,False,Maker REBOUND (Off:2 Def:3),,77-93,77,93
 0021900918,2020-03-04,DET,OKC,34.6,3,1,24,DET,DET,fg_make,6,False,False,Maker 2' Driving Layup (5 PTS) (Thomas 1 AST),,79-93,79,93
 0021900918,2020-03-04,DET,OKC,34.68,3,1,19,OKC,OKC,tov,1,False,True,,Noel Bad Pass Turnover (P1.T9),79-93,79,93
+0021900918,2020-03-04,DET,OKC,34.68,3,1,19,OKC,DET,steal,1,False,True,steal,steal,79-93,79,93
 0021900918,2020-03-04,DET,OKC,34.68,3,1,19,DET,DET,fg3_miss,1,False,False,MISS Galloway 25' 3PT Jump Shot,,79-93,79,93
 0021900918,2020-03-04,DET,OKC,34.68,3,1,19,DET,DET,reb,0,False,False,PISTONS Rebound,,79-93,79,93
 0021900918,2020-03-04,DET,OKC,34.68,3,1,19,DET,OKC,foul,3,False,False,,Nader L.B.FOUL (P2.T4) (B.Taylor),79-93,79,93
-0021900918,2020-03-04,DET,OKC,34.68,3,1,19,OKC,DET,steal,1,False,True,steal,steal,79-93,79,93
 0021900918,2020-03-04,DET,OKC,34.92,3,1,5,DET,DET,fg3_make,80,False,False,McRae 26' 3PT Step Back Jump Shot (13 PTS),,82-93,82,93
 0021900918,2020-03-04,DET,OKC,35.17,3,0,50,OKC,OKC,fg_miss,6,False,False,,MISS Nader 4' Driving Layup,82-93,82,93
 0021900918,2020-03-04,DET,OKC,35.2,3,0,48,DET,DET,reb,0,False,False,Galloway REBOUND (Off:1 Def:3),,82-93,82,93
@@ -325,8 +325,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900918,2020-03-04,DET,OKC,37.03,4,10,58,OKC,OKC,tov,2,False,True,,Schroder Lost Ball Turnover (P1.T12),84-94,84,94
 0021900918,2020-03-04,DET,OKC,37.03,4,10,58,OKC,DET,steal,2,False,True,steal,steal,84-94,84,94
 0021900918,2020-03-04,DET,OKC,37.07,4,10,56,DET,DET,fg_miss,41,True,False,MISS Knight 1' Running Layup,,84-94,84,94
-0021900918,2020-03-04,DET,OKC,37.07,4,10,56,DET,DET,reb,0,False,False,PISTONS Rebound,,84-94,84,94
 0021900918,2020-03-04,DET,OKC,37.07,4,10,56,DET,OKC,block,41,True,False,block,block,84-94,84,94
+0021900918,2020-03-04,DET,OKC,37.07,4,10,56,DET,DET,reb,0,False,False,PISTONS Rebound,,84-94,84,94
 0021900918,2020-03-04,DET,OKC,37.22,4,10,47,DET,DET,tov,2,False,True,Snell Lost Ball Turnover (P1.T15),,84-94,84,94
 0021900918,2020-03-04,DET,OKC,37.22,4,10,47,DET,OKC,steal,2,False,True,steal,steal,84-94,84,94
 0021900918,2020-03-04,DET,OKC,37.45,4,10,33,OKC,OKC,fg_make,5,False,False,,Adams 2' Layup (8 PTS) (Schroder 9 AST),84-96,84,96

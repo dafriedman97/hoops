@@ -23,8 +23,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900204,2019-11-20,ATL,MIL,2.58,1,9,25,MIL,MIL,fg_miss,9,False,False,,MISS Lopez 2' Driving Dunk,4-12,4,12
 0021900204,2019-11-20,ATL,MIL,2.62,1,9,23,ATL,ATL,reb,0,False,False,Reddish REBOUND (Off:0 Def:1),,4-12,4,12
 0021900204,2019-11-20,ATL,MIL,2.75,1,9,15,ATL,ATL,fg_miss,6,True,False,MISS Reddish 5' Driving Layup,,4-12,4,12
-0021900204,2019-11-20,ATL,MIL,2.75,1,9,15,MIL,MIL,reb,0,False,False,,Lopez REBOUND (Off:0 Def:1),4-12,4,12
 0021900204,2019-11-20,ATL,MIL,2.75,1,9,15,ATL,MIL,block,6,True,False,block,block,4-12,4,12
+0021900204,2019-11-20,ATL,MIL,2.75,1,9,15,MIL,MIL,reb,0,False,False,,Lopez REBOUND (Off:0 Def:1),4-12,4,12
 0021900204,2019-11-20,ATL,MIL,2.97,1,9,2,MIL,MIL,tov,2,False,True,,Bledsoe Lost Ball Turnover (P1.T1),4-12,4,12
 0021900204,2019-11-20,ATL,MIL,2.97,1,9,2,MIL,ATL,steal,2,False,True,steal,steal,4-12,4,12
 0021900204,2019-11-20,ATL,MIL,3.1,1,8,54,ATL,ATL,fg_miss,101,False,False,MISS Young 10' Driving Floating Jump Shot,,4-12,4,12
@@ -91,8 +91,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900204,2019-11-20,ATL,MIL,10.12,1,1,53,MIL,ATL,block,6,True,False,block,block,24-25,24,25
 0021900204,2019-11-20,ATL,MIL,10.17,1,1,50,ATL,ATL,reb,0,False,False,Len REBOUND (Off:0 Def:1),,24-25,24,25
 0021900204,2019-11-20,ATL,MIL,10.32,1,1,41,ATL,ATL,fg_miss,6,False,False,MISS Turner 3' Driving Layup,,24-25,24,25
-0021900204,2019-11-20,ATL,MIL,10.32,1,1,41,MIL,MIL,reb,0,False,False,,Bucks Rebound,24-25,24,25
 0021900204,2019-11-20,ATL,MIL,10.32,1,1,41,,ATL,jump_ball,0,False,False,Jump Ball Len vs. Connaughton: Tip to Lopez,,24-25,24,25
+0021900204,2019-11-20,ATL,MIL,10.32,1,1,41,MIL,MIL,reb,0,False,False,,Bucks Rebound,24-25,24,25
 0021900204,2019-11-20,ATL,MIL,10.52,1,1,29,MIL,MIL,fg3_miss,1,False,False,,MISS Korver 3PT Jump Shot,24-25,24,25
 0021900204,2019-11-20,ATL,MIL,10.55,1,1,27,ATL,ATL,reb,0,False,False,Bembry REBOUND (Off:0 Def:2),,24-25,24,25
 0021900204,2019-11-20,ATL,MIL,10.7,1,1,18,ATL,ATL,fg_miss,5,False,False,MISS Len 1' Layup,,24-25,24,25
@@ -116,9 +116,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900204,2019-11-20,ATL,MIL,11.97,1,0,2,ATL,MIL,foul,1,False,False,,G. Hill P.FOUL (P1.PN) (K.Fitzgerald),24-34,24,34
 0021900204,2019-11-20,ATL,MIL,11.97,1,0,2,ATL,ATL,ft_make,11,False,False,Young Free Throw 1 of 2 (4 PTS),,25-34,25,34
 0021900204,2019-11-20,ATL,MIL,11.97,1,0,2,ATL,ATL,ft_make,12,False,False,Young Free Throw 2 of 2 (5 PTS),,26-34,26,34
+0021900204,2019-11-20,ATL,MIL,12.0,1,0,0,MIL,,period_end,0,False,False,,,26-34,26,34
 0021900204,2019-11-20,ATL,MIL,12.0,1,0,0,ATL,MIL,foul,4,False,False,,Antetokounmpo OFF.Foul (P1) (M.Ervin),26-34,26,34
 0021900204,2019-11-20,ATL,MIL,12.0,1,0,0,MIL,MIL,tov,37,False,False,,Antetokounmpo Offensive Foul Turnover (P2.T5),26-34,26,34
-0021900204,2019-11-20,ATL,MIL,12.0,1,0,0,MIL,,period_end,0,False,False,,,26-34,26,34
 0021900204,2019-11-20,ATL,MIL,12.0,2,12,0,MIL,,period_start,0,False,False,,,26-34,26,34
 0021900204,2019-11-20,ATL,MIL,12.28,2,11,43,ATL,ATL,fg_miss,5,False,False,MISS Len 2' Layup,,26-34,26,34
 0021900204,2019-11-20,ATL,MIL,12.33,2,11,40,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:0 Def:3),26-34,26,34
@@ -275,8 +275,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900204,2019-11-20,ATL,MIL,29.03,3,6,58,MIL,MIL,fg_miss,6,False,False,,MISS Matthews 2' Driving Layup,66-78,66,78
 0021900204,2019-11-20,ATL,MIL,29.07,3,6,56,MIL,MIL,reb,0,False,False,,Lopez REBOUND (Off:1 Def:4),66-78,66,78
 0021900204,2019-11-20,ATL,MIL,29.07,3,6,56,MIL,MIL,fg_miss,97,True,False,,MISS Lopez 2' Tip Layup Shot,66-78,66,78
-0021900204,2019-11-20,ATL,MIL,29.07,3,6,56,ATL,ATL,reb,0,False,False,HAWKS Rebound,,66-78,66,78
 0021900204,2019-11-20,ATL,MIL,29.07,3,6,56,MIL,ATL,block,97,True,False,block,block,66-78,66,78
+0021900204,2019-11-20,ATL,MIL,29.07,3,6,56,ATL,ATL,reb,0,False,False,HAWKS Rebound,,66-78,66,78
 0021900204,2019-11-20,ATL,MIL,29.37,3,6,38,ATL,ATL,fg_make,98,False,False,Fernando 1' Cutting Layup Shot (2 PTS) (Carter 1 AST),,68-78,68,78
 0021900204,2019-11-20,ATL,MIL,29.52,3,6,29,MIL,MIL,fg3_miss,1,False,False,,MISS Lopez 25' 3PT Jump Shot,68-78,68,78
 0021900204,2019-11-20,ATL,MIL,29.62,3,6,23,ATL,ATL,reb,0,False,False,Fernando REBOUND (Off:1 Def:3),,68-78,68,78
@@ -342,10 +342,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900204,2019-11-20,ATL,MIL,35.62,3,0,23,MIL,MIL,ft_make,16,False,False,,G. Hill Free Throw Technical (6 PTS),83-94,83,94
 0021900204,2019-11-20,ATL,MIL,35.93,3,0,4,MIL,MIL,fg_make,98,False,False,,Connaughton 2' Cutting Layup Shot (4 PTS) (G. Hill 4 AST),83-96,83,96
 0021900204,2019-11-20,ATL,MIL,36.0,3,0,0,ATL,ATL,fg_miss,6,True,False,MISS Young 1' Driving Layup,,83-96,83,96
+0021900204,2019-11-20,ATL,MIL,36.0,3,0,0,ATL,MIL,block,6,True,False,block,block,83-96,83,96
 0021900204,2019-11-20,ATL,MIL,36.0,3,0,0,ATL,ATL,reb,0,False,False,Jones REBOUND (Off:3 Def:5),,83-96,83,96
 0021900204,2019-11-20,ATL,MIL,36.0,3,0,0,ATL,,period_end,0,False,False,,,83-96,83,96
 0021900204,2019-11-20,ATL,MIL,36.0,4,12,0,ATL,,period_start,0,False,False,,,83-96,83,96
-0021900204,2019-11-20,ATL,MIL,36.0,3,0,0,ATL,MIL,block,6,True,False,block,block,83-96,83,96
 0021900204,2019-11-20,ATL,MIL,36.27,4,11,44,MIL,MIL,fg_miss,79,False,False,,MISS Bledsoe 14' Pullup Jump Shot,83-96,83,96
 0021900204,2019-11-20,ATL,MIL,36.33,4,11,40,MIL,MIL,reb,0,False,False,,Bledsoe REBOUND (Off:2 Def:3),83-96,83,96
 0021900204,2019-11-20,ATL,MIL,36.37,4,11,38,MIL,MIL,fg3_miss,1,False,False,,MISS Connaughton 26' 3PT Jump Shot,83-96,83,96

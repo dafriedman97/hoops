@@ -15,8 +15,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700326,2017-12-02,BOS,PHX,1.68,1,10,19,BOS,BOS,reb,0,False,False,Tatum REBOUND (Off:1 Def:0),,0-5,0,5
 0021700326,2017-12-02,BOS,PHX,1.7,1,10,18,BOS,BOS,fg_make,5,False,False,Horford 4' Layup (2 PTS) (Tatum 1 AST),,2-5,2,5
 0021700326,2017-12-02,BOS,PHX,2.1,1,9,54,PHX,PHX,fg3_miss,1,False,False,,MISS Ulis 33' 3PT Jump Shot,2-5,2,5
-0021700326,2017-12-02,BOS,PHX,2.13,1,9,52,PHX,PHX,reb,0,False,False,,Suns Rebound,2-5,2,5
 0021700326,2017-12-02,BOS,PHX,2.13,1,9,52,PHX,PHX,tov,11,False,False,,Suns Turnover: Shot Clock (T#2),2-5,2,5
+0021700326,2017-12-02,BOS,PHX,2.13,1,9,52,PHX,PHX,reb,0,False,False,,Suns Rebound,2-5,2,5
 0021700326,2017-12-02,BOS,PHX,2.28,1,9,43,BOS,BOS,fg_make,1,False,False,Irving 19' Jump Shot (2 PTS),,4-5,4,5
 0021700326,2017-12-02,BOS,PHX,2.47,1,9,32,PHX,BOS,foul,1,False,False,Irving P.FOUL (P1.T1) (B.Kennedy),,4-5,4,5
 0021700326,2017-12-02,BOS,PHX,2.55,1,9,27,PHX,PHX,fg3_make,1,False,False,,Booker 25' 3PT Jump Shot (6 PTS) (Chriss 1 AST),4-8,4,8
@@ -212,8 +212,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700326,2017-12-02,BOS,PHX,27.53,3,8,28,BOS,BOS,tov,2,False,True,Irving Lost Ball Turnover (P1.T4),,64-61,64,61
 0021700326,2017-12-02,BOS,PHX,27.53,3,8,28,BOS,PHX,steal,2,False,True,steal,steal,64-61,64,61
 0021700326,2017-12-02,BOS,PHX,27.6,3,8,24,PHX,PHX,fg_miss,41,True,False,,MISS Booker 3' Running Layup,64-61,64,61
-0021700326,2017-12-02,BOS,PHX,27.6,3,8,24,PHX,PHX,reb,0,False,False,,Suns Rebound,64-61,64,61
 0021700326,2017-12-02,BOS,PHX,27.6,3,8,24,PHX,BOS,block,41,True,False,block,block,64-61,64,61
+0021700326,2017-12-02,BOS,PHX,27.6,3,8,24,PHX,PHX,reb,0,False,False,,Suns Rebound,64-61,64,61
 0021700326,2017-12-02,BOS,PHX,27.7,3,8,18,PHX,PHX,fg_make,101,False,False,,Warren 8' Driving Floating Jump Shot (4 PTS) (Chriss 2 AST),64-63,64,63
 0021700326,2017-12-02,BOS,PHX,27.9,3,8,6,BOS,BOS,fg3_miss,1,False,False,MISS Horford 26' 3PT Jump Shot,,64-63,64,63
 0021700326,2017-12-02,BOS,PHX,27.9,3,8,6,PHX,PHX,reb,0,False,False,,Chriss REBOUND (Off:0 Def:2),64-63,64,63
@@ -223,8 +223,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700326,2017-12-02,BOS,PHX,28.4,3,7,36,BOS,BOS,fg_miss,79,False,False,MISS Irving 19' Pullup Jump Shot,,65-65,65,65
 0021700326,2017-12-02,BOS,PHX,28.47,3,7,32,PHX,PHX,reb,0,False,False,,Chandler REBOUND (Off:2 Def:6),65-65,65,65
 0021700326,2017-12-02,BOS,PHX,28.63,3,7,22,PHX,PHX,fg_miss,79,True,False,,MISS Ulis 10' Pullup Jump Shot,65-65,65,65
-0021700326,2017-12-02,BOS,PHX,28.63,3,7,22,PHX,PHX,reb,0,False,False,,Suns Rebound,65-65,65,65
 0021700326,2017-12-02,BOS,PHX,28.63,3,7,22,PHX,BOS,block,79,True,False,block,block,65-65,65,65
+0021700326,2017-12-02,BOS,PHX,28.63,3,7,22,PHX,PHX,reb,0,False,False,,Suns Rebound,65-65,65,65
 0021700326,2017-12-02,BOS,PHX,28.73,3,7,16,PHX,PHX,fg3_miss,1,False,False,,MISS Booker 26' 3PT Jump Shot,65-65,65,65
 0021700326,2017-12-02,BOS,PHX,28.77,3,7,14,PHX,PHX,reb,0,False,False,,Suns Rebound,65-65,65,65
 0021700326,2017-12-02,BOS,PHX,28.92,3,7,5,PHX,PHX,fg_make,52,False,False,,Chandler 1' Alley Oop Dunk (8 PTS) (Booker 5 AST),65-67,65,67
@@ -281,8 +281,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700326,2017-12-02,BOS,PHX,34.37,3,1,38,BOS,BOS,fg_miss,1,False,False,MISS Baynes 18' Jump Shot,,84-79,84,79
 0021700326,2017-12-02,BOS,PHX,34.42,3,1,35,PHX,PHX,reb,0,False,False,,Monroe REBOUND (Off:3 Def:3),84-79,84,79
 0021700326,2017-12-02,BOS,PHX,34.5,3,1,30,PHX,PHX,fg_miss,6,True,False,,MISS James 4' Driving Layup,84-79,84,79
-0021700326,2017-12-02,BOS,PHX,34.5,3,1,30,PHX,PHX,reb,0,False,False,,Suns Rebound,84-79,84,79
 0021700326,2017-12-02,BOS,PHX,34.5,3,1,30,PHX,BOS,block,6,True,False,block,block,84-79,84,79
+0021700326,2017-12-02,BOS,PHX,34.5,3,1,30,PHX,PHX,reb,0,False,False,,Suns Rebound,84-79,84,79
 0021700326,2017-12-02,BOS,PHX,34.63,3,1,22,PHX,PHX,fg3_miss,79,False,False,,MISS Booker 28' 3PT Pullup Jump Shot,84-79,84,79
 0021700326,2017-12-02,BOS,PHX,34.65,3,1,21,PHX,PHX,reb,0,False,False,,Suns Rebound,84-79,84,79
 0021700326,2017-12-02,BOS,PHX,34.65,3,1,21,PHX,BOS,foul,3,False,False,Baynes L.B.FOUL (P2.T4) (D.Collins),,84-79,84,79
@@ -321,8 +321,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700326,2017-12-02,BOS,PHX,38.73,4,9,16,PHX,PHX,fg3_miss,1,False,False,,MISS Daniels 3PT Jump Shot,96-81,96,81
 0021700326,2017-12-02,BOS,PHX,38.75,4,9,15,BOS,BOS,reb,0,False,False,CELTICS Rebound,,96-81,96,81
 0021700326,2017-12-02,BOS,PHX,38.93,4,9,4,BOS,BOS,tov,1,False,True,Baynes Bad Pass Turnover (P1.T8),,96-81,96,81
-0021700326,2017-12-02,BOS,PHX,38.93,4,9,4,PHX,BOS,foul,1,False,False,Brown P.FOUL (P2.T1) (J.DeRosa),,96-81,96,81
 0021700326,2017-12-02,BOS,PHX,38.93,4,9,4,BOS,PHX,steal,1,False,True,steal,steal,96-81,96,81
+0021700326,2017-12-02,BOS,PHX,38.93,4,9,4,PHX,BOS,foul,1,False,False,Brown P.FOUL (P2.T1) (J.DeRosa),,96-81,96,81
 0021700326,2017-12-02,BOS,PHX,39.32,4,8,41,PHX,PHX,fg_make,75,False,False,,James 2' Driving Finger Roll Layup (4 PTS),96-83,96,83
 0021700326,2017-12-02,BOS,PHX,39.62,4,8,23,BOS,PHX,foul,1,False,False,,James P.FOUL (P1.T2) (B.Kennedy),96-83,96,83
 0021700326,2017-12-02,BOS,PHX,39.72,4,8,17,BOS,BOS,fg3_miss,1,False,False,MISS Morris Sr. 3PT Jump Shot,,96-83,96,83
@@ -370,12 +370,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700326,2017-12-02,BOS,PHX,44.38,4,3,37,PHX,PHX,fg_miss,97,False,False,,MISS Warren 1' Tip Layup Shot,102-94,102,94
 0021700326,2017-12-02,BOS,PHX,44.4,4,3,36,PHX,PHX,reb,0,False,False,,Warren REBOUND (Off:2 Def:3),102-94,102,94
 0021700326,2017-12-02,BOS,PHX,44.4,4,3,36,PHX,PHX,fg_miss,97,False,False,,MISS Warren 2' Tip Layup Shot,102-94,102,94
-0021700326,2017-12-02,BOS,PHX,44.42,4,3,35,PHX,PHX,reb,0,False,False,,Chandler REBOUND (Off:5 Def:9),102-94,102,94
 0021700326,2017-12-02,BOS,PHX,44.42,4,3,35,PHX,PHX,fg_miss,97,False,False,,MISS Chandler 2' Tip Layup Shot,102-94,102,94
-0021700326,2017-12-02,BOS,PHX,44.43,4,3,34,PHX,PHX,fg_miss,97,False,False,,MISS Warren 2' Tip Layup Shot,102-94,102,94
+0021700326,2017-12-02,BOS,PHX,44.42,4,3,35,PHX,PHX,reb,0,False,False,,Chandler REBOUND (Off:5 Def:9),102-94,102,94
 0021700326,2017-12-02,BOS,PHX,44.43,4,3,34,PHX,PHX,reb,0,False,False,,Warren REBOUND (Off:4 Def:3),102-94,102,94
-0021700326,2017-12-02,BOS,PHX,44.45,4,3,33,PHX,PHX,reb,0,False,False,,Warren REBOUND (Off:3 Def:3),102-94,102,94
+0021700326,2017-12-02,BOS,PHX,44.43,4,3,34,PHX,PHX,fg_miss,97,False,False,,MISS Warren 2' Tip Layup Shot,102-94,102,94
 0021700326,2017-12-02,BOS,PHX,44.45,4,3,33,PHX,PHX,fg_miss,97,False,False,,MISS Warren 2' Tip Layup Shot,102-94,102,94
+0021700326,2017-12-02,BOS,PHX,44.45,4,3,33,PHX,PHX,reb,0,False,False,,Warren REBOUND (Off:3 Def:3),102-94,102,94
 0021700326,2017-12-02,BOS,PHX,44.47,4,3,32,PHX,PHX,reb,0,False,False,,Chandler REBOUND (Off:6 Def:9),102-94,102,94
 0021700326,2017-12-02,BOS,PHX,44.48,4,3,31,PHX,PHX,fg_make,97,False,False,,Chandler 2' Tip Layup Shot (12 PTS),102-96,102,96
 0021700326,2017-12-02,BOS,PHX,44.82,4,3,11,BOS,PHX,foul,2,False,False,,Booker S.FOUL (P4.T4) (J.DeRosa),102-96,102,96
@@ -393,8 +393,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700326,2017-12-02,BOS,PHX,45.85,4,2,9,PHX,PHX,fg_make,52,False,False,,Chandler 1' Alley Oop Dunk (14 PTS) (Ulis 2 AST),105-103,105,103
 0021700326,2017-12-02,BOS,PHX,46.12,4,1,53,BOS,BOS,fg3_make,1,False,False,Irving 25' 3PT Jump Shot (17 PTS),,108-103,108,103
 0021700326,2017-12-02,BOS,PHX,46.4,4,1,36,PHX,PHX,fg_miss,6,True,False,,MISS Jackson 4' Driving Layup,108-103,108,103
-0021700326,2017-12-02,BOS,PHX,46.4,4,1,36,BOS,BOS,reb,0,False,False,CELTICS Rebound,,108-103,108,103
 0021700326,2017-12-02,BOS,PHX,46.4,4,1,36,PHX,BOS,block,6,True,False,block,block,108-103,108,103
+0021700326,2017-12-02,BOS,PHX,46.4,4,1,36,BOS,BOS,reb,0,False,False,CELTICS Rebound,,108-103,108,103
 0021700326,2017-12-02,BOS,PHX,46.62,4,1,23,BOS,BOS,fg3_miss,1,False,False,MISS Irving 25' 3PT Jump Shot,,108-103,108,103
 0021700326,2017-12-02,BOS,PHX,46.68,4,1,19,PHX,PHX,reb,0,False,False,,Chandler REBOUND (Off:6 Def:12),108-103,108,103
 0021700326,2017-12-02,BOS,PHX,46.78,4,1,13,PHX,PHX,fg_make,1,False,False,,Booker 15' Jump Shot (35 PTS),108-105,108,105

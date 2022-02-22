@@ -83,8 +83,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701077,2018-03-22,SAC,ATL,10.25,1,1,45,ATL,ATL,fg3_make,1,False,False,,Magette 25' 3PT Jump Shot (3 PTS) (Cavanaugh 1 AST),18-25,18,25
 0021701077,2018-03-22,SAC,ATL,10.47,1,1,32,SAC,SAC,fg_make,1,False,False,Mason 20' Jump Shot (4 PTS),,20-25,20,25
 0021701077,2018-03-22,SAC,ATL,10.73,1,1,16,ATL,ATL,fg_miss,5,True,False,,MISS Plumlee 4' Layup,20-25,20,25
-0021701077,2018-03-22,SAC,ATL,10.73,1,1,16,ATL,ATL,reb,0,False,False,,Hawks Rebound,20-25,20,25
 0021701077,2018-03-22,SAC,ATL,10.73,1,1,16,ATL,SAC,block,5,True,False,block,block,20-25,20,25
+0021701077,2018-03-22,SAC,ATL,10.73,1,1,16,ATL,ATL,reb,0,False,False,,Hawks Rebound,20-25,20,25
 0021701077,2018-03-22,SAC,ATL,10.83,1,1,10,ATL,ATL,fg_miss,79,False,False,,MISS Dorsey 22' Pullup Jump Shot,20-25,20,25
 0021701077,2018-03-22,SAC,ATL,10.88,1,1,7,SAC,SAC,reb,0,False,False,Labissiere REBOUND (Off:0 Def:1),,20-25,20,25
 0021701077,2018-03-22,SAC,ATL,10.97,1,1,2,SAC,SAC,fg_miss,101,False,False,MISS Labissiere 9' Driving Floating Jump Shot,,20-25,20,25
@@ -177,9 +177,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701077,2018-03-22,SAC,ATL,21.42,2,2,35,SAC,SAC,fg_miss,1,False,False,MISS Caboclo 14' Jump Shot,,41-38,41,38
 0021701077,2018-03-22,SAC,ATL,21.48,2,2,31,ATL,ATL,reb,0,False,False,,Magette REBOUND (Off:0 Def:1),41-38,41,38
 0021701077,2018-03-22,SAC,ATL,21.85,2,2,9,ATL,ATL,fg_miss,5,True,False,,MISS Plumlee 3' Layup,41-38,41,38
-0021701077,2018-03-22,SAC,ATL,21.85,2,2,9,ATL,ATL,reb,0,False,False,,Hawks Rebound,41-38,41,38
-0021701077,2018-03-22,SAC,ATL,21.85,2,2,9,ATL,ATL,tov,11,False,False,,Hawks Turnover: Shot Clock (T#5),41-38,41,38
 0021701077,2018-03-22,SAC,ATL,21.85,2,2,9,ATL,SAC,block,5,True,False,block,block,41-38,41,38
+0021701077,2018-03-22,SAC,ATL,21.85,2,2,9,ATL,ATL,tov,11,False,False,,Hawks Turnover: Shot Clock (T#5),41-38,41,38
+0021701077,2018-03-22,SAC,ATL,21.85,2,2,9,ATL,ATL,reb,0,False,False,,Hawks Rebound,41-38,41,38
 0021701077,2018-03-22,SAC,ATL,22.07,2,1,56,SAC,SAC,fg3_miss,1,False,False,MISS Caboclo 25' 3PT Jump Shot,,41-38,41,38
 0021701077,2018-03-22,SAC,ATL,22.12,2,1,53,ATL,ATL,reb,0,False,False,,Magette REBOUND (Off:0 Def:2),41-38,41,38
 0021701077,2018-03-22,SAC,ATL,22.25,2,1,45,ATL,ATL,tov,1,False,True,,Magette Bad Pass Turnover (P1.T6),41-38,41,38
@@ -293,8 +293,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701077,2018-03-22,SAC,ATL,33.78,3,2,13,SAC,ATL,foul,2,False,False,,White III S.FOUL (P1.T2) (D.Stafford),70-67,70,67
 0021701077,2018-03-22,SAC,ATL,33.78,3,2,13,SAC,SAC,ft_make,10,False,False,Jackson Free Throw 1 of 1 (20 PTS),,71-67,71,67
 0021701077,2018-03-22,SAC,ATL,34.07,3,1,56,ATL,ATL,fg_miss,63,True,False,,MISS Cavanaugh 10' Fadeaway Jumper,71-67,71,67
-0021701077,2018-03-22,SAC,ATL,34.07,3,1,56,SAC,SAC,reb,0,False,False,Koufos REBOUND (Off:1 Def:3),,71-67,71,67
 0021701077,2018-03-22,SAC,ATL,34.07,3,1,56,ATL,SAC,block,63,True,False,block,block,71-67,71,67
+0021701077,2018-03-22,SAC,ATL,34.07,3,1,56,SAC,SAC,reb,0,False,False,Koufos REBOUND (Off:1 Def:3),,71-67,71,67
 0021701077,2018-03-22,SAC,ATL,34.17,3,1,50,SAC,ATL,foul,2,False,False,,Cavanaugh S.FOUL (P1.T3) (D.Richardson),71-67,71,67
 0021701077,2018-03-22,SAC,ATL,34.17,3,1,50,SAC,SAC,ft_make,11,False,False,Mason Free Throw 1 of 2 (7 PTS),,72-67,72,67
 0021701077,2018-03-22,SAC,ATL,34.17,3,1,50,SAC,SAC,ft_make,12,False,False,Mason Free Throw 2 of 2 (8 PTS),,73-67,73,67
@@ -304,8 +304,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701077,2018-03-22,SAC,ATL,34.68,3,1,19,ATL,ATL,fg_make,66,False,False,,Magette 15' Jump Bank Shot (5 PTS),76-69,76,69
 0021701077,2018-03-22,SAC,ATL,34.9,3,1,6,SAC,SAC,fg_make,3,False,False,Koufos 9' Hook Shot (10 PTS) (Mason 4 AST),,78-69,78,69
 0021701077,2018-03-22,SAC,ATL,35.08,3,0,55,ATL,ATL,fg_miss,98,True,False,,MISS Cavanaugh 3' Cutting Layup Shot,78-69,78,69
-0021701077,2018-03-22,SAC,ATL,35.08,3,0,55,ATL,ATL,reb,0,False,False,,Hawks Rebound,78-69,78,69
 0021701077,2018-03-22,SAC,ATL,35.08,3,0,55,ATL,SAC,block,98,True,False,block,block,78-69,78,69
+0021701077,2018-03-22,SAC,ATL,35.08,3,0,55,ATL,ATL,reb,0,False,False,,Hawks Rebound,78-69,78,69
 0021701077,2018-03-22,SAC,ATL,35.23,3,0,46,ATL,SAC,foul,1,False,False,Hield P.FOUL (P3.T3) (D.Stafford),,78-69,78,69
 0021701077,2018-03-22,SAC,ATL,35.42,3,0,35,ATL,ATL,tov,2,False,True,,White III Lost Ball Turnover (P1.T11),78-69,78,69
 0021701077,2018-03-22,SAC,ATL,35.42,3,0,35,ATL,SAC,steal,2,False,True,steal,steal,78-69,78,69
@@ -371,10 +371,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701077,2018-03-22,SAC,ATL,42.82,4,5,11,SAC,SAC,fg_make,6,False,False,Mason 5' Driving Layup (14 PTS),,95-84,95,84
 0021701077,2018-03-22,SAC,ATL,43.08,4,4,55,ATL,ATL,fg_miss,6,True,False,,MISS Dorsey 8' Driving Layup,95-84,95,84
 0021701077,2018-03-22,SAC,ATL,43.08,4,4,55,ATL,SAC,block,6,True,False,block,block,95-84,95,84
-0021701077,2018-03-22,SAC,ATL,43.1,4,4,54,ATL,ATL,reb,0,False,False,,Hawks Rebound,95-84,95,84
 0021701077,2018-03-22,SAC,ATL,43.1,4,4,54,ATL,ATL,fg_make,5,False,False,,Dedmon 6' Layup (12 PTS) (Lee 4 AST),95-86,95,86
 0021701077,2018-03-22,SAC,ATL,43.1,4,4,54,ATL,SAC,foul,2,False,False,Koufos S.FOUL (P4.T4) (D.Richardson),,95-86,95,86
 0021701077,2018-03-22,SAC,ATL,43.1,4,4,54,ATL,ATL,ft_make,10,False,False,,Dedmon Free Throw 1 of 1 (13 PTS),95-87,95,87
+0021701077,2018-03-22,SAC,ATL,43.1,4,4,54,ATL,ATL,reb,0,False,False,,Hawks Rebound,95-84,95,84
 0021701077,2018-03-22,SAC,ATL,43.35,4,4,39,SAC,SAC,fg_miss,1,False,False,MISS Carter 22' Jump Shot,,95-87,95,87
 0021701077,2018-03-22,SAC,ATL,43.4,4,4,36,ATL,ATL,reb,0,False,False,,Dedmon REBOUND (Off:1 Def:9),95-87,95,87
 0021701077,2018-03-22,SAC,ATL,43.57,4,4,26,ATL,ATL,tov,2,False,True,,Lee Lost Ball Turnover (P2.T14),95-87,95,87

@@ -27,8 +27,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800625,2019-01-11,HOU,CLE,3.8,1,8,12,CLE,HOU,block,1,True,False,block,block,7-7,7,7
 0021800625,2019-01-11,HOU,CLE,3.83,1,8,10,CLE,CLE,reb,0,False,False,,Burks REBOUND (Off:1 Def:1),7-7,7,7
 0021800625,2019-01-11,HOU,CLE,3.88,1,8,7,CLE,CLE,fg_miss,6,True,False,,MISS Osman 4' Driving Layup,7-7,7,7
-0021800625,2019-01-11,HOU,CLE,3.88,1,8,7,HOU,HOU,reb,0,False,False,House Jr. REBOUND (Off:0 Def:1),,7-7,7,7
 0021800625,2019-01-11,HOU,CLE,3.88,1,8,7,CLE,HOU,block,6,True,False,block,block,7-7,7,7
+0021800625,2019-01-11,HOU,CLE,3.88,1,8,7,HOU,HOU,reb,0,False,False,House Jr. REBOUND (Off:0 Def:1),,7-7,7,7
 0021800625,2019-01-11,HOU,CLE,3.97,1,8,2,HOU,HOU,fg_make,50,False,False,House Jr. 1' Running Dunk (2 PTS) (Harden 2 AST),,9-7,9,7
 0021800625,2019-01-11,HOU,CLE,3.97,1,8,2,HOU,CLE,foul,2,False,False,,Thompson S.FOUL (P1.T1) (R.Garretson),9-7,9,7
 0021800625,2019-01-11,HOU,CLE,3.97,1,8,2,HOU,HOU,ft_make,10,False,False,House Jr. Free Throw 1 of 1 (3 PTS),,10-7,10,7
@@ -74,9 +74,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800625,2019-01-11,HOU,CLE,9.18,1,2,49,CLE,CLE,reb,0,False,False,,Burks REBOUND (Off:1 Def:2),28-13,28,13
 0021800625,2019-01-11,HOU,CLE,9.4,1,2,36,CLE,CLE,fg3_make,1,False,False,,Dellavedova 25' 3PT Jump Shot (3 PTS) (Burks 1 AST),28-16,28,16
 0021800625,2019-01-11,HOU,CLE,9.67,1,2,20,HOU,HOU,fg_miss,6,True,False,MISS Harden 6' Driving Layup,,28-16,28,16
-0021800625,2019-01-11,HOU,CLE,9.67,1,2,20,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,28-16,28,16
-0021800625,2019-01-11,HOU,CLE,9.67,1,2,20,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 1 Short 0),,28-16,28,16
 0021800625,2019-01-11,HOU,CLE,9.67,1,2,20,HOU,CLE,block,6,True,False,block,block,28-16,28,16
+0021800625,2019-01-11,HOU,CLE,9.67,1,2,20,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 1 Short 0),,28-16,28,16
+0021800625,2019-01-11,HOU,CLE,9.67,1,2,20,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,28-16,28,16
 0021800625,2019-01-11,HOU,CLE,9.8,1,2,12,HOU,HOU,fg_miss,101,False,False,MISS Knight 14' Driving Floating Jump Shot,,28-16,28,16
 0021800625,2019-01-11,HOU,CLE,9.83,1,2,10,CLE,CLE,reb,0,False,False,,Payne REBOUND (Off:0 Def:1),28-16,28,16
 0021800625,2019-01-11,HOU,CLE,9.97,1,2,2,CLE,CLE,fg3_miss,1,True,False,,MISS Clarkson 3PT Jump Shot,28-16,28,16
@@ -148,8 +148,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800625,2019-01-11,HOU,CLE,16.93,2,7,4,CLE,CLE,fg3_make,1,False,False,,Jones 27' 3PT Jump Shot (3 PTS) (Sexton 2 AST),52-33,52,33
 0021800625,2019-01-11,HOU,CLE,17.22,2,6,47,HOU,HOU,fg3_make,80,False,False,Harden 27' 3PT Step Back Jump Shot (19 PTS),,55-33,55,33
 0021800625,2019-01-11,HOU,CLE,17.45,2,6,33,CLE,CLE,fg_miss,75,True,False,,MISS Sexton 6' Driving Finger Roll Layup,55-33,55,33
-0021800625,2019-01-11,HOU,CLE,17.45,2,6,33,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,55-33,55,33
 0021800625,2019-01-11,HOU,CLE,17.45,2,6,33,CLE,HOU,block,75,True,False,block,block,55-33,55,33
+0021800625,2019-01-11,HOU,CLE,17.45,2,6,33,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,55-33,55,33
 0021800625,2019-01-11,HOU,CLE,17.58,2,6,25,CLE,CLE,fg_miss,58,False,False,,MISS Thompson 8' Turnaround Hook Shot,55-33,55,33
 0021800625,2019-01-11,HOU,CLE,17.62,2,6,23,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:0 Def:5),,55-33,55,33
 0021800625,2019-01-11,HOU,CLE,17.73,2,6,16,HOU,HOU,fg_miss,6,True,False,MISS House Jr. 6' Driving Layup,,55-33,55,33
@@ -248,9 +248,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800625,2019-01-11,HOU,CLE,27.9,3,8,6,CLE,CLE,fg_miss,58,False,False,,MISS Thompson 6' Turnaround Hook Shot,88-58,88,58
 0021800625,2019-01-11,HOU,CLE,27.93,3,8,4,CLE,CLE,reb,0,False,False,,Thompson REBOUND (Off:2 Def:2),88-58,88,58
 0021800625,2019-01-11,HOU,CLE,27.95,3,8,3,CLE,CLE,fg_miss,1,True,False,,MISS Thompson 12' Jump Shot,88-58,88,58
+0021800625,2019-01-11,HOU,CLE,27.95,3,8,3,CLE,HOU,block,1,True,False,block,block,88-58,88,58
 0021800625,2019-01-11,HOU,CLE,27.95,3,8,3,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,88-58,88,58
 0021800625,2019-01-11,HOU,CLE,27.95,3,8,3,HOU,CLE,foul,3,False,False,,Thompson L.B.FOUL (P2.T3) (R.Garretson),88-58,88,58
-0021800625,2019-01-11,HOU,CLE,27.95,3,8,3,CLE,HOU,block,1,True,False,block,block,88-58,88,58
 0021800625,2019-01-11,HOU,CLE,28.32,3,7,41,HOU,HOU,fg3_make,80,False,False,Harden 27' 3PT Step Back Jump Shot (32 PTS),,91-58,91,58
 0021800625,2019-01-11,HOU,CLE,28.57,3,7,26,CLE,CLE,fg_make,6,False,False,,Osman 4' Driving Layup (12 PTS) (Thompson 2 AST),91-60,91,60
 0021800625,2019-01-11,HOU,CLE,28.57,3,7,26,CLE,HOU,foul,2,False,False,Tucker S.FOUL (P1.T2) (R.Garretson),,91-60,91,60
@@ -350,8 +350,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800625,2019-01-11,HOU,CLE,38.43,4,9,34,HOU,HOU,ft_make,12,False,False,Knight Free Throw 2 of 2 (10 PTS),,121-81,121,81
 0021800625,2019-01-11,HOU,CLE,38.7,4,9,18,CLE,CLE,fg3_make,1,False,False,,Clarkson 27' 3PT Jump Shot (12 PTS) (Dellavedova 3 AST),121-84,121,84
 0021800625,2019-01-11,HOU,CLE,38.98,4,9,1,HOU,HOU,fg_miss,108,False,False,MISS Chriss 3' Cutting Dunk Shot,,121-84,121,84
-0021800625,2019-01-11,HOU,CLE,38.98,4,9,1,HOU,HOU,tov,15,False,False,Chriss Offensive Goaltending Turnover (P1.T9),,121-84,121,84
 0021800625,2019-01-11,HOU,CLE,38.98,4,9,1,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,121-84,121,84
+0021800625,2019-01-11,HOU,CLE,38.98,4,9,1,HOU,HOU,tov,15,False,False,Chriss Offensive Goaltending Turnover (P1.T9),,121-84,121,84
 0021800625,2019-01-11,HOU,CLE,39.23,4,8,46,CLE,CLE,fg3_miss,1,False,False,,MISS Clarkson 27' 3PT Jump Shot,121-84,121,84
 0021800625,2019-01-11,HOU,CLE,39.3,4,8,42,HOU,HOU,reb,0,False,False,Chriss REBOUND (Off:0 Def:1),,121-84,121,84
 0021800625,2019-01-11,HOU,CLE,39.47,4,8,32,HOU,HOU,fg3_make,1,False,False,House Jr. 24' 3PT Jump Shot (6 PTS) (Knight 3 AST),,124-84,124,84
@@ -433,8 +433,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800625,2019-01-11,HOU,CLE,46.63,4,1,22,CLE,CLE,ft_make,11,False,False,,Sexton Free Throw 1 of 2 (13 PTS),141-107,141,107
 0021800625,2019-01-11,HOU,CLE,46.63,4,1,22,CLE,CLE,ft_make,12,False,False,,Sexton Free Throw 2 of 2 (14 PTS),141-108,141,108
 0021800625,2019-01-11,HOU,CLE,46.72,4,1,17,HOU,HOU,tov,1,False,True,Knight Bad Pass Turnover (P3.T14),,141-108,141,108
-0021800625,2019-01-11,HOU,CLE,46.72,4,1,17,CLE,HOU,foul,1,False,False,Knight P.FOUL (P3.PN) (J.Goble),,141-108,141,108
 0021800625,2019-01-11,HOU,CLE,46.72,4,1,17,HOU,CLE,steal,1,False,True,steal,steal,141-108,141,108
+0021800625,2019-01-11,HOU,CLE,46.72,4,1,17,CLE,HOU,foul,1,False,False,Knight P.FOUL (P3.PN) (J.Goble),,141-108,141,108
 0021800625,2019-01-11,HOU,CLE,46.72,4,1,17,CLE,CLE,ft_make,11,False,False,,Payne Free Throw 1 of 2 (8 PTS),141-109,141,109
 0021800625,2019-01-11,HOU,CLE,46.72,4,1,17,CLE,CLE,ft_make,12,False,False,,Payne Free Throw 2 of 2 (9 PTS),141-110,141,110
 0021800625,2019-01-11,HOU,CLE,46.95,4,1,3,HOU,HOU,fg3_miss,80,False,False,MISS House Jr. 26' 3PT Step Back Jump Shot,,141-110,141,110

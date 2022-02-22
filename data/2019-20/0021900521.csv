@@ -59,9 +59,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900521,2020-01-03,PHX,NYK,6.7,1,5,18,PHX,PHX,fg_miss,3,False,False,MISS Baynes 6' Hook Shot,,12-13,12,13
 0021900521,2020-01-03,PHX,NYK,6.73,1,5,16,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:0 Def:4),12-13,12,13
 0021900521,2020-01-03,PHX,NYK,6.83,1,5,10,NYK,NYK,fg_miss,98,True,False,,MISS Robinson 2' Cutting Layup Shot,12-13,12,13
+0021900521,2020-01-03,PHX,NYK,6.83,1,5,10,NYK,PHX,block,98,True,False,block,block,12-13,12,13
 0021900521,2020-01-03,PHX,NYK,6.83,1,5,10,NYK,NYK,reb,0,False,False,,Knicks Rebound,12-13,12,13
 0021900521,2020-01-03,PHX,NYK,6.83,1,5,10,NYK,PHX,violation,1,False,False,SUNS Violation: Delay of game Violation,,12-13,12,13
-0021900521,2020-01-03,PHX,NYK,6.83,1,5,10,NYK,PHX,block,98,True,False,block,block,12-13,12,13
 0021900521,2020-01-03,PHX,NYK,6.9,1,5,6,NYK,PHX,foul,2,False,False,Johnson S.FOUL (P1.T2) (J.Goble),,12-13,12,13
 0021900521,2020-01-03,PHX,NYK,6.9,1,5,6,NYK,NYK,ft_make,11,False,False,,Morris Sr. Free Throw 1 of 2 (4 PTS),12-14,12,14
 0021900521,2020-01-03,PHX,NYK,6.9,1,5,6,NYK,NYK,ft_make,12,False,False,,Morris Sr. Free Throw 2 of 2 (5 PTS),12-15,12,15
@@ -198,9 +198,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900521,2020-01-03,PHX,NYK,20.7,2,3,18,PHX,PHX,reb,0,False,False,Rubio REBOUND (Off:0 Def:2),,45-51,45,51
 0021900521,2020-01-03,PHX,NYK,20.95,2,3,3,PHX,PHX,fg_make,1,False,False,Ayton 18' Jump Shot (9 PTS) (Baynes 1 AST),,47-51,47,51
 0021900521,2020-01-03,PHX,NYK,21.32,2,2,41,NYK,NYK,fg_miss,47,True,False,,MISS Randle 4' Turnaround Jump Shot,47-51,47,51
+0021900521,2020-01-03,PHX,NYK,21.32,2,2,41,NYK,PHX,block,47,True,False,block,block,47-51,47,51
 0021900521,2020-01-03,PHX,NYK,21.32,2,2,41,NYK,NYK,reb,0,False,False,,Knicks Rebound,47-51,47,51
 0021900521,2020-01-03,PHX,NYK,21.32,2,2,41,PHX,PHX,timeout,1,False,False,SUNS Timeout: Regular (Full 2 Short 0),,47-51,47,51
-0021900521,2020-01-03,PHX,NYK,21.32,2,2,41,NYK,PHX,block,47,True,False,block,block,47-51,47,51
 0021900521,2020-01-03,PHX,NYK,21.38,2,2,37,NYK,NYK,fg_make,80,False,False,,Morris Sr. 19' Step Back Jump Shot (9 PTS),47-53,47,53
 0021900521,2020-01-03,PHX,NYK,21.77,2,2,14,PHX,PHX,fg_miss,79,False,False,MISS Booker 14' Pullup Jump Shot,,47-53,47,53
 0021900521,2020-01-03,PHX,NYK,21.82,2,2,11,NYK,NYK,reb,0,False,False,,Payton REBOUND (Off:0 Def:2),47-53,47,53
@@ -438,12 +438,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900521,2020-01-03,PHX,NYK,45.65,4,2,21,NYK,NYK,tov,1,False,True,,Payton Bad Pass Turnover (P1.T14),113-107,113,107
 0021900521,2020-01-03,PHX,NYK,45.65,4,2,21,NYK,PHX,steal,1,False,True,steal,steal,113-107,113,107
 0021900521,2020-01-03,PHX,NYK,45.7,4,2,18,PHX,PHX,fg_miss,41,True,False,MISS Bridges 2' Running Layup,,113-107,113,107
-0021900521,2020-01-03,PHX,NYK,45.7,4,2,18,PHX,PHX,reb,0,False,False,SUNS Rebound,,113-107,113,107
 0021900521,2020-01-03,PHX,NYK,45.7,4,2,18,PHX,NYK,block,41,True,False,block,block,113-107,113,107
+0021900521,2020-01-03,PHX,NYK,45.7,4,2,18,PHX,PHX,reb,0,False,False,SUNS Rebound,,113-107,113,107
 0021900521,2020-01-03,PHX,NYK,45.98,4,2,1,PHX,PHX,fg3_miss,1,False,False,MISS Baynes 3PT Jump Shot,,113-107,113,107
 0021900521,2020-01-03,PHX,NYK,46.07,4,1,56,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:0 Def:9),113-107,113,107
-0021900521,2020-01-03,PHX,NYK,46.12,4,1,53,NYK,PHX,foul,1,False,False,Baynes P.FOUL (P5.T3) (B.Kennedy),,113-107,113,107
 0021900521,2020-01-03,PHX,NYK,46.12,4,1,53,NYK,NYK,timeout,7,False,False,,Knicks Timeout: Coach Challenge (Reg.5 Short 0),113-107,113,107
+0021900521,2020-01-03,PHX,NYK,46.12,4,1,53,NYK,PHX,foul,1,False,False,Baynes P.FOUL (P5.T3) (B.Kennedy),,113-107,113,107
 0021900521,2020-01-03,PHX,NYK,46.2,4,1,48,NYK,NYK,tov,1,False,True,,Payton Bad Pass Turnover (P2.T15),113-107,113,107
 0021900521,2020-01-03,PHX,NYK,46.2,4,1,48,NYK,PHX,steal,1,False,True,steal,steal,113-107,113,107
 0021900521,2020-01-03,PHX,NYK,46.23,4,1,46,PHX,NYK,foul,2,False,False,,Payton S.FOUL (P4.T4) (J.Goble),113-107,113,107

@@ -182,8 +182,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700127,2017-11-03,DEN,MIA,23.62,2,0,23,MIA,DEN,foul,1,False,False,Murray P.FOUL (P2.T3) (J.Capers),,51-55,51,55
 0021700127,2017-11-03,DEN,MIA,23.82,2,0,11,MIA,MIA,fg3_make,80,False,False,,Dragic 25' 3PT Step Back Jump Shot (18 PTS),51-58,51,58
 0021700127,2017-11-03,DEN,MIA,23.98,2,0,1,DEN,DEN,fg_miss,47,True,False,MISS Murray 8' Turnaround Jump Shot,,51-58,51,58
-0021700127,2017-11-03,DEN,MIA,23.98,2,0,1,DEN,DEN,reb,0,False,False,Murray REBOUND (Off:1 Def:0),,51-58,51,58
 0021700127,2017-11-03,DEN,MIA,23.98,2,0,1,DEN,MIA,block,47,True,False,block,block,51-58,51,58
+0021700127,2017-11-03,DEN,MIA,23.98,2,0,1,DEN,DEN,reb,0,False,False,Murray REBOUND (Off:1 Def:0),,51-58,51,58
 0021700127,2017-11-03,DEN,MIA,24.0,2,0,0,DEN,,period_end,0,False,False,,,51-58,51,58
 0021700127,2017-11-03,DEN,MIA,24.0,3,12,0,DEN,,period_start,0,False,False,,,51-58,51,58
 0021700127,2017-11-03,DEN,MIA,24.25,3,11,45,DEN,DEN,fg_miss,47,False,False,MISS Chandler 9' Turnaround Jump Shot,,51-58,51,58
@@ -220,8 +220,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700127,2017-11-03,DEN,MIA,27.08,3,8,55,DEN,DEN,fg3_miss,1,False,False,MISS Murray 25' 3PT Jump Shot,,58-63,58,63
 0021700127,2017-11-03,DEN,MIA,27.22,3,8,47,MIA,MIA,reb,0,False,False,,Richardson REBOUND (Off:1 Def:1),58-63,58,63
 0021700127,2017-11-03,DEN,MIA,27.38,3,8,37,MIA,MIA,fg_miss,41,True,False,,MISS Dragic 11' Running Layup,58-63,58,63
-0021700127,2017-11-03,DEN,MIA,27.38,3,8,37,MIA,MIA,reb,0,False,False,,Heat Rebound,58-63,58,63
 0021700127,2017-11-03,DEN,MIA,27.38,3,8,37,MIA,DEN,block,41,True,False,block,block,58-63,58,63
+0021700127,2017-11-03,DEN,MIA,27.38,3,8,37,MIA,MIA,reb,0,False,False,,Heat Rebound,58-63,58,63
 0021700127,2017-11-03,DEN,MIA,27.5,3,8,30,MIA,MIA,fg3_miss,1,False,False,,MISS Dragic 24' 3PT Jump Shot,58-63,58,63
 0021700127,2017-11-03,DEN,MIA,27.53,3,8,28,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,58-63,58,63
 0021700127,2017-11-03,DEN,MIA,27.78,3,8,13,DEN,DEN,fg_miss,5,True,False,MISS Millsap 3' Layup,,58-63,58,63
@@ -319,10 +319,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700127,2017-11-03,DEN,MIA,37.45,4,10,33,MIA,MIA,fg3_make,1,False,False,,Olynyk 26' 3PT Jump Shot (8 PTS) (Richardson 3 AST),79-74,79,74
 0021700127,2017-11-03,DEN,MIA,37.68,4,10,19,DEN,DEN,fg3_make,1,False,False,Jokic 26' 3PT Jump Shot (19 PTS) (Mudiay 4 AST),,82-74,82,74
 0021700127,2017-11-03,DEN,MIA,38.13,4,9,52,MIA,MIA,fg_miss,5,True,False,,MISS Olynyk 6' Layup,82-74,82,74
+0021700127,2017-11-03,DEN,MIA,38.13,4,9,52,MIA,DEN,block,5,True,False,block,block,82-74,82,74
 0021700127,2017-11-03,DEN,MIA,38.13,4,9,52,MIA,MIA,reb,0,False,False,,Heat Rebound,82-74,82,74
 0021700127,2017-11-03,DEN,MIA,38.13,4,9,52,MIA,MIA,fg_miss,43,False,False,,MISS Winslow 2' Alley Oop Layup,82-74,82,74
 0021700127,2017-11-03,DEN,MIA,38.13,4,9,52,MIA,MIA,reb,0,False,False,,Winslow REBOUND (Off:1 Def:1),82-74,82,74
-0021700127,2017-11-03,DEN,MIA,38.13,4,9,52,MIA,DEN,block,5,True,False,block,block,82-74,82,74
 0021700127,2017-11-03,DEN,MIA,38.17,4,9,50,MIA,DEN,foul,2,False,False,Beasley S.FOUL (P2.T1) (J.Capers),,82-74,82,74
 0021700127,2017-11-03,DEN,MIA,38.17,4,9,50,MIA,MIA,ft_miss,11,False,False,,MISS Winslow Free Throw 1 of 2,82-74,82,74
 0021700127,2017-11-03,DEN,MIA,38.17,4,9,50,MIA,MIA,reb,1,False,False,,Heat Rebound,82-74,82,74
@@ -419,9 +419,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700127,2017-11-03,DEN,MIA,47.6,4,0,24,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.7 Short 0),92-93,92,93
 0021700127,2017-11-03,DEN,MIA,47.6,4,0,24,MIA,DEN,foul,1,False,False,Jokic P.FOUL (P4.T2) (J.Capers),,92-93,92,93
 0021700127,2017-11-03,DEN,MIA,47.62,4,0,23,MIA,DEN,foul,28,False,False,Chandler Personal Take Foul (P3.PN) (J.Sterling),,92-93,92,93
-0021700127,2017-11-03,DEN,MIA,47.62,4,0,23,MIA,MIA,ft_make,12,False,False,,Dragic Free Throw 2 of 2 (23 PTS),92-94,92,94
 0021700127,2017-11-03,DEN,MIA,47.62,4,0,23,MIA,MIA,ft_miss,11,False,False,,MISS Dragic Free Throw 1 of 2,92-94,92,94
 0021700127,2017-11-03,DEN,MIA,47.62,4,0,23,MIA,MIA,reb,1,False,False,,Heat Rebound,92-94,92,94
+0021700127,2017-11-03,DEN,MIA,47.62,4,0,23,MIA,MIA,ft_make,12,False,False,,Dragic Free Throw 2 of 2 (23 PTS),92-94,92,94
 0021700127,2017-11-03,DEN,MIA,47.82,4,0,11,DEN,MIA,foul,2,False,False,,Johnson S.FOUL (P6.PN) (K.Scott),92-94,92,94
 0021700127,2017-11-03,DEN,MIA,47.82,4,0,11,DEN,DEN,ft_make,13,False,False,Millsap Free Throw 1 of 3 (25 PTS),,93-94,93,94
 0021700127,2017-11-03,DEN,MIA,47.82,4,0,11,DEN,DEN,ft_make,14,False,False,Millsap Free Throw 2 of 3 (26 PTS),,94-94,94,94

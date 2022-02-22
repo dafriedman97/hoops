@@ -4,9 +4,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700968,2018-03-07,MIL,HOU,0.42,1,11,35,MIL,MIL,fg3_miss,1,False,False,MISS Snell 26' 3PT Jump Shot,,0-0,0,0
 0021700968,2018-03-07,MIL,HOU,0.47,1,11,32,HOU,HOU,reb,0,False,False,,Paul REBOUND (Off:0 Def:1),0-0,0,0
 0021700968,2018-03-07,MIL,HOU,0.63,1,11,22,HOU,HOU,fg_miss,6,True,False,,MISS Harden 3' Driving Layup,0-0,0,0
+0021700968,2018-03-07,MIL,HOU,0.63,1,11,22,HOU,MIL,block,6,True,False,block,block,0-0,0,0
 0021700968,2018-03-07,MIL,HOU,0.63,1,11,22,HOU,HOU,reb,0,False,False,,Capela REBOUND (Off:1 Def:0),0-0,0,0
 0021700968,2018-03-07,MIL,HOU,0.63,1,11,22,HOU,MIL,foul,2,False,False,Antetokounmpo S.FOUL (P1.T1) (S.Corbin),,0-0,0,0
-0021700968,2018-03-07,MIL,HOU,0.63,1,11,22,HOU,MIL,block,6,True,False,block,block,0-0,0,0
 0021700968,2018-03-07,MIL,HOU,0.63,1,11,22,HOU,HOU,ft_make,11,False,False,,Capela Free Throw 1 of 2 (1 PTS),0-1,0,1
 0021700968,2018-03-07,MIL,HOU,0.63,1,11,22,HOU,HOU,ft_miss,12,False,False,,MISS Capela Free Throw 2 of 2,0-1,0,1
 0021700968,2018-03-07,MIL,HOU,0.7,1,11,18,HOU,HOU,reb,0,False,False,,Tucker REBOUND (Off:1 Def:0),0-1,0,1
@@ -327,8 +327,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700968,2018-03-07,MIL,HOU,37.22,4,10,47,MIL,MIL,fg_make,1,False,False,Parker 15' Jump Shot (8 PTS) (Middleton 5 AST),,82-89,82,89
 0021700968,2018-03-07,MIL,HOU,37.57,4,10,26,HOU,HOU,fg3_make,1,False,False,,Green 26' 3PT Jump Shot (7 PTS) (Paul 9 AST),82-92,82,92
 0021700968,2018-03-07,MIL,HOU,37.72,4,10,17,MIL,MIL,fg_miss,6,True,False,MISS Bledsoe 5' Driving Layup,,82-92,82,92
-0021700968,2018-03-07,MIL,HOU,37.72,4,10,17,MIL,MIL,reb,0,False,False,BUCKS Rebound,,82-92,82,92
 0021700968,2018-03-07,MIL,HOU,37.72,4,10,17,MIL,HOU,block,6,True,False,block,block,82-92,82,92
+0021700968,2018-03-07,MIL,HOU,37.72,4,10,17,MIL,MIL,reb,0,False,False,BUCKS Rebound,,82-92,82,92
 0021700968,2018-03-07,MIL,HOU,37.88,4,10,7,MIL,MIL,fg_miss,1,False,False,MISS Parker 15' Jump Shot,,82-92,82,92
 0021700968,2018-03-07,MIL,HOU,37.92,4,10,5,MIL,MIL,reb,0,False,False,Middleton REBOUND (Off:1 Def:8),,82-92,82,92
 0021700968,2018-03-07,MIL,HOU,37.93,4,10,4,MIL,MIL,fg_make,72,False,False,Middleton 1' Putback Layup (15 PTS),,84-92,84,92
@@ -349,8 +349,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700968,2018-03-07,MIL,HOU,39.58,4,8,25,HOU,HOU,ft_make,11,False,False,,Paul Free Throw 1 of 2 (10 PTS),86-96,86,96
 0021700968,2018-03-07,MIL,HOU,39.58,4,8,25,HOU,HOU,ft_make,12,False,False,,Paul Free Throw 2 of 2 (11 PTS),86-97,86,97
 0021700968,2018-03-07,MIL,HOU,39.8,4,8,12,MIL,MIL,fg_miss,6,True,False,MISS Brown 4' Driving Layup,,86-97,86,97
-0021700968,2018-03-07,MIL,HOU,39.8,4,8,12,MIL,MIL,reb,0,False,False,BUCKS Rebound,,86-97,86,97
 0021700968,2018-03-07,MIL,HOU,39.8,4,8,12,MIL,HOU,block,6,True,False,block,block,86-97,86,97
+0021700968,2018-03-07,MIL,HOU,39.8,4,8,12,MIL,MIL,reb,0,False,False,BUCKS Rebound,,86-97,86,97
 0021700968,2018-03-07,MIL,HOU,39.97,4,8,2,MIL,MIL,fg_make,6,False,False,Brown 1' Driving Layup (13 PTS),,88-97,88,97
 0021700968,2018-03-07,MIL,HOU,40.28,4,7,43,HOU,MIL,foul,17,False,False,BUCKS T.Foul (Def. 3 Sec Brown ) (D.Stafford),,88-97,88,97
 0021700968,2018-03-07,MIL,HOU,40.28,4,7,43,HOU,HOU,ft_make,16,False,False,,Paul Free Throw Technical (12 PTS),88-98,88,98
@@ -366,8 +366,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700968,2018-03-07,MIL,HOU,41.47,4,6,32,HOU,HOU,fg_miss,72,False,False,,MISS Capela 1' Putback Layup,90-101,90,101
 0021700968,2018-03-07,MIL,HOU,41.48,4,6,31,HOU,HOU,reb,0,False,False,,Capela REBOUND (Off:3 Def:4),90-101,90,101
 0021700968,2018-03-07,MIL,HOU,41.68,4,6,19,HOU,HOU,fg3_miss,1,True,False,,MISS Harden 27' 3PT Jump Shot,90-101,90,101
-0021700968,2018-03-07,MIL,HOU,41.68,4,6,19,MIL,MIL,reb,0,False,False,Middleton REBOUND (Off:1 Def:9),,90-101,90,101
 0021700968,2018-03-07,MIL,HOU,41.68,4,6,19,HOU,MIL,block,1,True,False,block,block,90-101,90,101
+0021700968,2018-03-07,MIL,HOU,41.68,4,6,19,MIL,MIL,reb,0,False,False,Middleton REBOUND (Off:1 Def:9),,90-101,90,101
 0021700968,2018-03-07,MIL,HOU,41.72,4,6,17,MIL,HOU,foul,1,False,False,,Paul P.FOUL (P2.T3) (D.Stafford),90-101,90,101
 0021700968,2018-03-07,MIL,HOU,42.08,4,5,55,MIL,MIL,fg3_miss,1,False,False,MISS Bledsoe 26' 3PT Jump Shot,,90-101,90,101
 0021700968,2018-03-07,MIL,HOU,42.13,4,5,52,HOU,HOU,reb,0,False,False,,Mbah a Moute REBOUND (Off:1 Def:5),90-101,90,101

@@ -22,8 +22,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900415,2019-12-18,POR,GSW,2.28,1,9,43,POR,GSW,steal,2,False,True,steal,steal,2-7,2,7
 0021900415,2019-12-18,POR,GSW,2.33,1,9,40,GSW,GSW,fg_miss,41,True,False,,MISS Russell 1' Running Layup,2-7,2,7
 0021900415,2019-12-18,POR,GSW,2.33,1,9,40,GSW,POR,block,41,True,False,block,block,2-7,2,7
-0021900415,2019-12-18,POR,GSW,2.43,1,9,34,GSW,GSW,fg_make,87,False,False,,Cauley-Stein 1' Putback Dunk (2 PTS),2-9,2,9
 0021900415,2019-12-18,POR,GSW,2.43,1,9,34,GSW,GSW,reb,0,False,False,,Cauley-Stein REBOUND (Off:1 Def:0),2-9,2,9
+0021900415,2019-12-18,POR,GSW,2.43,1,9,34,GSW,GSW,fg_make,87,False,False,,Cauley-Stein 1' Putback Dunk (2 PTS),2-9,2,9
 0021900415,2019-12-18,POR,GSW,2.57,1,9,26,POR,POR,fg_make,79,False,False,Anthony 14' Pullup Jump Shot (2 PTS),,4-9,4,9
 0021900415,2019-12-18,POR,GSW,2.85,1,9,9,GSW,GSW,tov,4,False,False,,Cauley-Stein Traveling Turnover (P1.T1),4-9,4,9
 0021900415,2019-12-18,POR,GSW,2.98,1,9,1,GSW,POR,foul,4,False,False,Lillard OFF.Foul (P1) (Z.Zarba),,4-9,4,9
@@ -74,9 +74,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900415,2019-12-18,POR,GSW,8.2,1,3,48,POR,POR,reb,0,False,False,Lillard REBOUND (Off:0 Def:2),,29-22,29,22
 0021900415,2019-12-18,POR,GSW,8.22,1,3,47,POR,GSW,foul,1,False,False,,Green P.FOUL (P1.T4) (E.Dalen),29-22,29,22
 0021900415,2019-12-18,POR,GSW,8.62,1,3,23,POR,POR,fg_miss,101,True,False,MISS Simons 5' Driving Floating Jump Shot,,29-22,29,22
+0021900415,2019-12-18,POR,GSW,8.62,1,3,23,POR,GSW,block,101,True,False,block,block,29-22,29,22
 0021900415,2019-12-18,POR,GSW,8.62,1,3,23,POR,POR,reb,0,False,False,Simons REBOUND (Off:1 Def:0),,29-22,29,22
 0021900415,2019-12-18,POR,GSW,8.62,1,3,23,POR,POR,tov,11,False,False,TRAIL BLAZERS Turnover: Shot Clock (T#4),,29-22,29,22
-0021900415,2019-12-18,POR,GSW,8.62,1,3,23,POR,GSW,block,101,True,False,block,block,29-22,29,22
 0021900415,2019-12-18,POR,GSW,8.92,1,3,5,GSW,GSW,fg_miss,101,False,False,,MISS Evans 7' Driving Floating Jump Shot,29-22,29,22
 0021900415,2019-12-18,POR,GSW,8.92,1,3,5,GSW,GSW,reb,0,False,False,,Warriors Rebound,29-22,29,22
 0021900415,2019-12-18,POR,GSW,8.92,1,3,5,GSW,POR,foul,3,False,False,Whiteside L.B.FOUL (P1.T2) (B.Barnaky),,29-22,29,22
@@ -96,10 +96,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900415,2019-12-18,POR,GSW,10.52,1,1,29,GSW,POR,block,1,True,False,block,block,35-27,35,27
 0021900415,2019-12-18,POR,GSW,10.57,1,1,26,GSW,GSW,reb,0,False,False,,Chriss REBOUND (Off:2 Def:0),35-27,35,27
 0021900415,2019-12-18,POR,GSW,10.57,1,1,26,GSW,GSW,tov,2,False,True,,Chriss Lost Ball Turnover (P1.T3),35-27,35,27
+0021900415,2019-12-18,POR,GSW,10.57,1,1,26,GSW,POR,steal,2,False,True,steal,steal,35-27,35,27
 0021900415,2019-12-18,POR,GSW,10.57,1,1,26,POR,GSW,foul,1,False,False,,Chriss P.FOUL (P1.PN) (B.Barnaky),35-27,35,27
 0021900415,2019-12-18,POR,GSW,10.57,1,1,26,POR,POR,ft_miss,11,False,False,MISS Lillard Free Throw 1 of 2,,35-27,35,27
 0021900415,2019-12-18,POR,GSW,10.57,1,1,26,POR,POR,reb,1,False,False,TRAIL BLAZERS Rebound,,35-27,35,27
-0021900415,2019-12-18,POR,GSW,10.57,1,1,26,GSW,POR,steal,2,False,True,steal,steal,35-27,35,27
 0021900415,2019-12-18,POR,GSW,10.57,1,1,26,POR,POR,ft_make,12,False,False,Lillard Free Throw 2 of 2 (14 PTS),,36-27,36,27
 0021900415,2019-12-18,POR,GSW,10.7,1,1,18,POR,GSW,foul,4,False,False,,Burks OFF.Foul (P1) (Z.Zarba),36-27,36,27
 0021900415,2019-12-18,POR,GSW,10.7,1,1,18,GSW,GSW,tov,37,False,False,,Burks Offensive Foul Turnover (P1.T4),36-27,36,27
@@ -123,8 +123,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900415,2019-12-18,POR,GSW,12.0,1,0,0,POR,,period_end,0,False,False,,,40-29,40,29
 0021900415,2019-12-18,POR,GSW,12.0,2,12,0,POR,,period_start,0,False,False,,,40-29,40,29
 0021900415,2019-12-18,POR,GSW,12.25,2,11,45,POR,POR,fg_miss,101,True,False,MISS Simons 2' Driving Floating Jump Shot,,40-29,40,29
-0021900415,2019-12-18,POR,GSW,12.25,2,11,45,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,40-29,40,29
 0021900415,2019-12-18,POR,GSW,12.25,2,11,45,POR,GSW,block,101,True,False,block,block,40-29,40,29
+0021900415,2019-12-18,POR,GSW,12.25,2,11,45,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,40-29,40,29
 0021900415,2019-12-18,POR,GSW,12.27,2,11,44,POR,POR,tov,1,False,True,Trent Jr. Bad Pass Turnover (P1.T6),,40-29,40,29
 0021900415,2019-12-18,POR,GSW,12.27,2,11,44,POR,GSW,steal,1,False,True,steal,steal,40-29,40,29
 0021900415,2019-12-18,POR,GSW,12.35,2,11,39,GSW,GSW,fg_make,6,False,False,,Russell 2' Driving Layup (10 PTS) (Burks 2 AST),40-31,40,31
@@ -140,8 +140,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900415,2019-12-18,POR,GSW,13.53,2,10,28,POR,POR,reb,0,False,False,Anthony REBOUND (Off:0 Def:2),,42-34,42,34
 0021900415,2019-12-18,POR,GSW,13.62,2,10,23,POR,POR,fg_make,101,False,False,McCollum 11' Driving Floating Jump Shot (8 PTS),,44-34,44,34
 0021900415,2019-12-18,POR,GSW,13.83,2,10,10,GSW,GSW,fg_miss,6,False,False,,MISS Evans 2' Driving Layup,44-34,44,34
-0021900415,2019-12-18,POR,GSW,13.88,2,10,7,GSW,GSW,fg_make,97,False,False,,Evans 1' Tip Layup Shot (2 PTS),44-36,44,36
 0021900415,2019-12-18,POR,GSW,13.88,2,10,7,GSW,GSW,reb,0,False,False,,Evans REBOUND (Off:1 Def:0),44-36,44,36
+0021900415,2019-12-18,POR,GSW,13.88,2,10,7,GSW,GSW,fg_make,97,False,False,,Evans 1' Tip Layup Shot (2 PTS),44-36,44,36
 0021900415,2019-12-18,POR,GSW,14.08,2,9,55,POR,POR,fg_miss,1,False,False,MISS McCollum 9' Jump Shot,,44-36,44,36
 0021900415,2019-12-18,POR,GSW,14.13,2,9,52,GSW,GSW,reb,0,False,False,,Chriss REBOUND (Off:2 Def:1),44-36,44,36
 0021900415,2019-12-18,POR,GSW,14.17,2,9,50,GSW,GSW,fg_make,52,False,False,,Paschall 1' Alley Oop Dunk (2 PTS) (Burks 3 AST),44-38,44,38
@@ -157,9 +157,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900415,2019-12-18,POR,GSW,15.4,2,8,36,POR,POR,reb,0,False,False,Labissiere REBOUND (Off:1 Def:1),,44-39,44,39
 0021900415,2019-12-18,POR,GSW,15.4,2,8,36,POR,POR,fg_make,107,False,False,Labissiere 1' Tip Dunk Shot (8 PTS),,46-39,46,39
 0021900415,2019-12-18,POR,GSW,15.67,2,8,20,GSW,GSW,fg3_miss,1,False,False,,MISS Burks 27' 3PT Jump Shot,46-39,46,39
+0021900415,2019-12-18,POR,GSW,15.75,2,8,15,GSW,GSW,reb,0,False,False,,Spellman REBOUND (Off:1 Def:0),46-39,46,39
 0021900415,2019-12-18,POR,GSW,15.75,2,8,15,GSW,GSW,fg_miss,97,False,False,,MISS Spellman 1' Tip Layup Shot,46-39,46,39
 0021900415,2019-12-18,POR,GSW,15.75,2,8,15,POR,POR,reb,0,False,False,McCollum REBOUND (Off:0 Def:2),,46-39,46,39
-0021900415,2019-12-18,POR,GSW,15.75,2,8,15,GSW,GSW,reb,0,False,False,,Spellman REBOUND (Off:1 Def:0),46-39,46,39
 0021900415,2019-12-18,POR,GSW,15.8,2,8,12,POR,POR,fg_make,52,False,False,Anthony 1' Alley Oop Dunk (7 PTS) (Trent Jr. 1 AST),,48-39,48,39
 0021900415,2019-12-18,POR,GSW,15.8,2,8,12,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.2 Short 0),48-39,48,39
 0021900415,2019-12-18,POR,GSW,16.03,2,7,58,GSW,GSW,fg_miss,86,False,False,,MISS Burks 10' Turnaround Fadeaway Shot,48-39,48,39
@@ -282,8 +282,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900415,2019-12-18,POR,GSW,27.22,3,8,47,GSW,GSW,reb,0,False,False,,Cauley-Stein REBOUND (Off:2 Def:2),76-68,76,68
 0021900415,2019-12-18,POR,GSW,27.4,3,8,36,GSW,GSW,fg_miss,6,True,False,,MISS Robinson III 7' Driving Layup,76-68,76,68
 0021900415,2019-12-18,POR,GSW,27.4,3,8,36,GSW,POR,block,6,True,False,block,block,76-68,76,68
-0021900415,2019-12-18,POR,GSW,27.47,3,8,32,GSW,GSW,fg_make,87,False,False,,Cauley-Stein 1' Putback Dunk (10 PTS),76-70,76,70
 0021900415,2019-12-18,POR,GSW,27.47,3,8,32,GSW,GSW,reb,0,False,False,,Cauley-Stein REBOUND (Off:3 Def:2),76-70,76,70
+0021900415,2019-12-18,POR,GSW,27.47,3,8,32,GSW,GSW,fg_make,87,False,False,,Cauley-Stein 1' Putback Dunk (10 PTS),76-70,76,70
 0021900415,2019-12-18,POR,GSW,27.63,3,8,22,POR,POR,fg3_miss,79,False,False,MISS McCollum 26' 3PT Pullup Jump Shot,,76-70,76,70
 0021900415,2019-12-18,POR,GSW,27.65,3,8,21,GSW,GSW,reb,0,False,False,,Cauley-Stein REBOUND (Off:3 Def:3),76-70,76,70
 0021900415,2019-12-18,POR,GSW,27.78,3,8,13,GSW,GSW,fg_make,98,False,False,,Cauley-Stein 1' Cutting Layup Shot (12 PTS) (Russell 3 AST),76-72,76,72
@@ -295,25 +295,25 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900415,2019-12-18,POR,GSW,28.53,3,7,28,GSW,GSW,fg3_miss,79,False,False,,MISS Russell 31' 3PT Pullup Jump Shot,79-72,79,72
 0021900415,2019-12-18,POR,GSW,28.58,3,7,25,POR,POR,reb,0,False,False,Anthony REBOUND (Off:0 Def:6),,79-72,79,72
 0021900415,2019-12-18,POR,GSW,28.97,3,7,2,POR,POR,fg_miss,79,False,False,MISS Anthony 13' Pullup Jump Shot,,79-72,79,72
-0021900415,2019-12-18,POR,GSW,28.97,3,7,2,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,79-72,79,72
 0021900415,2019-12-18,POR,GSW,28.97,3,7,2,,POR,jump_ball,0,False,False,Jump Ball Whiteside vs. Cauley-Stein: Tip to Lillard,,79-72,79,72
+0021900415,2019-12-18,POR,GSW,28.97,3,7,2,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,79-72,79,72
 0021900415,2019-12-18,POR,GSW,29.15,3,6,51,POR,POR,fg_miss,6,False,False,MISS Lillard 4' Driving Layup,,79-72,79,72
 0021900415,2019-12-18,POR,GSW,29.18,3,6,49,GSW,GSW,reb,0,False,False,,Cauley-Stein REBOUND (Off:3 Def:4),79-72,79,72
 0021900415,2019-12-18,POR,GSW,29.37,3,6,38,GSW,GSW,fg_miss,86,False,False,,MISS Cauley-Stein 11' Turnaround Fadeaway Shot,79-72,79,72
 0021900415,2019-12-18,POR,GSW,29.37,3,6,38,POR,POR,reb,0,False,False,McCollum REBOUND (Off:0 Def:4),,79-72,79,72
 0021900415,2019-12-18,POR,GSW,29.55,3,6,27,POR,POR,fg3_miss,1,False,False,MISS Anthony 26' 3PT Jump Shot,,79-72,79,72
-0021900415,2019-12-18,POR,GSW,29.63,3,6,22,POR,POR,fg_make,97,False,False,Whiteside 1' Tip Layup Shot (10 PTS),,81-72,81,72
 0021900415,2019-12-18,POR,GSW,29.63,3,6,22,POR,POR,reb,0,False,False,Whiteside REBOUND (Off:4 Def:11),,81-72,81,72
+0021900415,2019-12-18,POR,GSW,29.63,3,6,22,POR,POR,fg_make,97,False,False,Whiteside 1' Tip Layup Shot (10 PTS),,81-72,81,72
 0021900415,2019-12-18,POR,GSW,29.82,3,6,11,GSW,GSW,fg3_make,1,False,False,,Burks 24' 3PT Jump Shot (12 PTS),81-75,81,75
 0021900415,2019-12-18,POR,GSW,30.22,3,5,47,POR,POR,fg_make,47,False,False,Anthony 12' Turnaround Jump Shot (17 PTS),,83-75,83,75
 0021900415,2019-12-18,POR,GSW,30.3,3,5,42,GSW,POR,foul,1,False,False,McCollum P.FOUL (P1.T2) (Z.Zarba),,83-75,83,75
 0021900415,2019-12-18,POR,GSW,30.53,3,5,28,GSW,GSW,fg3_miss,1,False,False,,MISS Russell 27' 3PT Jump Shot,83-75,83,75
 0021900415,2019-12-18,POR,GSW,30.55,3,5,27,POR,POR,reb,0,False,False,Whiteside REBOUND (Off:4 Def:12),,83-75,83,75
 0021900415,2019-12-18,POR,GSW,30.72,3,5,17,POR,POR,fg_miss,43,False,False,MISS Whiteside 1' Alley Oop Layup,,83-75,83,75
+0021900415,2019-12-18,POR,GSW,30.8,3,5,12,POR,POR,reb,0,False,False,Whiteside REBOUND (Off:7 Def:12),,83-75,83,75
+0021900415,2019-12-18,POR,GSW,30.8,3,5,12,POR,POR,fg_miss,97,False,False,MISS Whiteside 1' Tip Layup Shot,,83-75,83,75
 0021900415,2019-12-18,POR,GSW,30.8,3,5,12,POR,POR,fg_miss,97,False,False,MISS Whiteside 1' Tip Layup Shot,,83-75,83,75
 0021900415,2019-12-18,POR,GSW,30.8,3,5,12,POR,POR,reb,0,False,False,Whiteside REBOUND (Off:5 Def:12),,83-75,83,75
-0021900415,2019-12-18,POR,GSW,30.8,3,5,12,POR,POR,fg_miss,97,False,False,MISS Whiteside 1' Tip Layup Shot,,83-75,83,75
-0021900415,2019-12-18,POR,GSW,30.8,3,5,12,POR,POR,reb,0,False,False,Whiteside REBOUND (Off:7 Def:12),,83-75,83,75
 0021900415,2019-12-18,POR,GSW,30.82,3,5,11,POR,POR,reb,0,False,False,Whiteside REBOUND (Off:7 Def:12),,83-75,83,75
 0021900415,2019-12-18,POR,GSW,30.82,3,5,11,POR,POR,fg_miss,97,False,False,MISS Whiteside 1' Tip Layup Shot,,83-75,83,75
 0021900415,2019-12-18,POR,GSW,30.85,3,5,9,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:0 Def:4),83-75,83,75
@@ -373,10 +373,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900415,2019-12-18,POR,GSW,35.92,3,0,5,POR,POR,ft_miss,12,False,False,MISS Lillard Free Throw 2 of 2,,97-92,97,92
 0021900415,2019-12-18,POR,GSW,35.97,3,0,2,GSW,GSW,reb,0,False,False,,Burks REBOUND (Off:0 Def:2),97-92,97,92
 0021900415,2019-12-18,POR,GSW,36.0,3,0,0,GSW,GSW,fg3_miss,103,True,False,,MISS Burks 25' 3PT Running Pull-Up Jump Shot,97-92,97,92
+0021900415,2019-12-18,POR,GSW,36.0,3,0,0,GSW,POR,block,103,True,False,block,block,97-92,97,92
 0021900415,2019-12-18,POR,GSW,36.0,3,0,0,GSW,GSW,reb,0,False,False,,Warriors Rebound,97-92,97,92
 0021900415,2019-12-18,POR,GSW,36.0,3,0,0,GSW,,period_end,0,False,False,,,97-92,97,92
 0021900415,2019-12-18,POR,GSW,36.0,4,12,0,GSW,,period_start,0,False,False,,,97-92,97,92
-0021900415,2019-12-18,POR,GSW,36.0,3,0,0,GSW,POR,block,103,True,False,block,block,97-92,97,92
 0021900415,2019-12-18,POR,GSW,36.18,4,11,49,GSW,POR,foul,1,False,False,Simons P.FOUL (P4.T1) (E.Dalen),,97-92,97,92
 0021900415,2019-12-18,POR,GSW,36.3,4,11,42,GSW,GSW,fg_miss,6,False,False,,MISS Burks 2' Driving Layup,97-92,97,92
 0021900415,2019-12-18,POR,GSW,36.32,4,11,41,POR,POR,reb,0,False,False,Simons REBOUND (Off:1 Def:1),,97-92,97,92
@@ -431,8 +431,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900415,2019-12-18,POR,GSW,41.6,4,6,24,POR,POR,reb,0,False,False,Whiteside REBOUND (Off:7 Def:13),,105-102,105,102
 0021900415,2019-12-18,POR,GSW,41.82,4,6,11,POR,POR,fg_make,52,False,False,Whiteside 1' Alley Oop Dunk (12 PTS) (Lillard 11 AST),,107-102,107,102
 0021900415,2019-12-18,POR,GSW,42.2,4,5,48,GSW,GSW,fg_miss,6,True,False,,MISS Spellman 2' Driving Layup,107-102,107,102
-0021900415,2019-12-18,POR,GSW,42.2,4,5,48,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,107-102,107,102
 0021900415,2019-12-18,POR,GSW,42.2,4,5,48,GSW,POR,block,6,True,False,block,block,107-102,107,102
+0021900415,2019-12-18,POR,GSW,42.2,4,5,48,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,107-102,107,102
 0021900415,2019-12-18,POR,GSW,42.48,4,5,31,POR,POR,fg3_miss,1,False,False,MISS Bazemore 3PT Jump Shot,,107-102,107,102
 0021900415,2019-12-18,POR,GSW,42.52,4,5,29,GSW,GSW,reb,0,False,False,,Robinson III REBOUND (Off:2 Def:2),107-102,107,102
 0021900415,2019-12-18,POR,GSW,42.87,4,5,8,GSW,GSW,fg_miss,79,False,False,,MISS Burks 21' Pullup Jump Shot,107-102,107,102
@@ -454,8 +454,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900415,2019-12-18,POR,GSW,45.13,4,2,52,GSW,GSW,fg_miss,101,False,False,,MISS Robinson III 7' Driving Floating Jump Shot,112-105,112,105
 0021900415,2019-12-18,POR,GSW,45.15,4,2,51,POR,POR,reb,0,False,False,Whiteside REBOUND (Off:7 Def:15),,112-105,112,105
 0021900415,2019-12-18,POR,GSW,45.48,4,2,31,POR,POR,fg_miss,6,True,False,MISS Whiteside 1' Driving Layup,,112-105,112,105
-0021900415,2019-12-18,POR,GSW,45.48,4,2,31,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,112-105,112,105
 0021900415,2019-12-18,POR,GSW,45.48,4,2,31,POR,GSW,block,6,True,False,block,block,112-105,112,105
+0021900415,2019-12-18,POR,GSW,45.48,4,2,31,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,112-105,112,105
 0021900415,2019-12-18,POR,GSW,45.53,4,2,28,POR,POR,fg_miss,86,False,False,MISS Anthony 19' Turnaround Fadeaway Shot,,112-105,112,105
 0021900415,2019-12-18,POR,GSW,45.63,4,2,22,GSW,GSW,reb,0,False,False,,Burks REBOUND (Off:0 Def:6),112-105,112,105
 0021900415,2019-12-18,POR,GSW,45.75,4,2,15,GSW,GSW,fg3_miss,1,False,False,,MISS Paschall 3PT Jump Shot,112-105,112,105
@@ -487,9 +487,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900415,2019-12-18,POR,GSW,47.53,4,0,28,GSW,GSW,fg3_miss,79,False,False,,MISS Russell 30' 3PT Pullup Jump Shot,120-112,120,112
 0021900415,2019-12-18,POR,GSW,47.53,4,0,28,GSW,GSW,reb,0,False,False,,Warriors Rebound,120-112,120,112
 0021900415,2019-12-18,POR,GSW,47.53,4,0,28,GSW,POR,foul,3,False,False,McCollum L.B.FOUL (P2.T4) (Z.Zarba),,120-112,120,112
+0021900415,2019-12-18,POR,GSW,47.6,4,0,24,POR,POR,fg_make,41,False,False,Bazemore 2' Running Layup (5 PTS),,122-112,122,112
 0021900415,2019-12-18,POR,GSW,47.6,4,0,24,GSW,GSW,tov,1,False,True,,Robinson III Bad Pass Turnover (P1.T8),120-112,120,112
 0021900415,2019-12-18,POR,GSW,47.6,4,0,24,GSW,POR,steal,1,False,True,steal,steal,120-112,120,112
-0021900415,2019-12-18,POR,GSW,47.6,4,0,24,POR,POR,fg_make,41,False,False,Bazemore 2' Running Layup (5 PTS),,122-112,122,112
 0021900415,2019-12-18,POR,GSW,47.68,4,0,19,GSW,GSW,fg3_miss,1,False,False,,MISS Burks 24' 3PT Jump Shot,122-112,122,112
 0021900415,2019-12-18,POR,GSW,47.68,4,0,19,GSW,GSW,reb,0,False,False,,Paschall REBOUND (Off:2 Def:2),122-112,122,112
 0021900415,2019-12-18,POR,GSW,47.78,4,0,13,GSW,GSW,fg3_miss,1,False,False,,MISS Robinson III 25' 3PT Jump Shot,122-112,122,112

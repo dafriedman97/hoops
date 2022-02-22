@@ -46,8 +46,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900034,2019-10-26,UTA,SAC,5.53,1,6,28,UTA,SAC,foul,4,False,False,,Dedmon OFF.Foul (P2) (S.Foster),18-11,18,11
 0021900034,2019-10-26,UTA,SAC,5.53,1,6,28,SAC,SAC,tov,37,False,False,,Dedmon Offensive Foul Turnover (P3.T5),18-11,18,11
 0021900034,2019-10-26,UTA,SAC,5.87,1,6,8,UTA,UTA,fg_miss,5,True,False,MISS Bogdanovic 2' Layup,,18-11,18,11
-0021900034,2019-10-26,UTA,SAC,5.87,1,6,8,SAC,SAC,reb,0,False,False,,Kings Rebound,18-11,18,11
 0021900034,2019-10-26,UTA,SAC,5.87,1,6,8,UTA,SAC,block,5,True,False,block,block,18-11,18,11
+0021900034,2019-10-26,UTA,SAC,5.87,1,6,8,SAC,SAC,reb,0,False,False,,Kings Rebound,18-11,18,11
 0021900034,2019-10-26,UTA,SAC,6.12,1,5,53,SAC,SAC,fg_make,6,False,False,,Fox 5' Driving Layup (2 PTS),18-13,18,13
 0021900034,2019-10-26,UTA,SAC,6.25,1,5,45,UTA,UTA,fg3_make,1,False,False,Ingles 26' 3PT Jump Shot (3 PTS) (Conley 4 AST),,21-13,21,13
 0021900034,2019-10-26,UTA,SAC,6.7,1,5,18,SAC,SAC,fg_make,44,False,False,,Dedmon 2' Reverse Layup (8 PTS) (Fox 4 AST),21-15,21,15
@@ -156,9 +156,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900034,2019-10-26,UTA,SAC,19.3,2,4,42,SAC,SAC,ft_make,11,False,False,,Fox Free Throw 1 of 2 (8 PTS),53-37,53,37
 0021900034,2019-10-26,UTA,SAC,19.3,2,4,42,SAC,SAC,ft_make,12,False,False,,Fox Free Throw 2 of 2 (9 PTS),53-38,53,38
 0021900034,2019-10-26,UTA,SAC,19.7,2,4,18,UTA,UTA,fg3_make,1,False,False,Bogdanovic 30' 3PT Jump Shot (20 PTS) (Gobert 2 AST),,56-38,56,38
+0021900034,2019-10-26,UTA,SAC,20.0,2,4,0,UTA,UTA,timeout,1,False,False,JAZZ Timeout: Regular (Full 3 Short 0),,56-38,56,38
 0021900034,2019-10-26,UTA,SAC,20.0,2,4,0,SAC,SAC,fg3_miss,1,False,False,,MISS Fox 25' 3PT Jump Shot,56-38,56,38
 0021900034,2019-10-26,UTA,SAC,20.0,2,4,0,SAC,SAC,reb,0,False,False,,Kings Rebound,56-38,56,38
-0021900034,2019-10-26,UTA,SAC,20.0,2,4,0,UTA,UTA,timeout,1,False,False,JAZZ Timeout: Regular (Full 3 Short 0),,56-38,56,38
 0021900034,2019-10-26,UTA,SAC,20.1,2,3,54,,UTA,jump_ball,1,False,False,Jump Ball (CC) Gobert vs. Dedmon: Tip to Fox,,56-38,56,38
 0021900034,2019-10-26,UTA,SAC,20.13,2,3,52,SAC,SAC,fg_miss,79,False,False,,MISS Fox 12' Pullup Jump Shot,56-38,56,38
 0021900034,2019-10-26,UTA,SAC,20.22,2,3,47,UTA,UTA,reb,0,False,False,Ingles REBOUND (Off:0 Def:2),,56-38,56,38
@@ -388,8 +388,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900034,2019-10-26,UTA,SAC,47.53,4,0,28,SAC,SAC,reb,0,False,False,,Gabriel REBOUND (Off:1 Def:2),113-79,113,79
 0021900034,2019-10-26,UTA,SAC,47.53,4,0,28,SAC,SAC,fg_make,87,False,False,,Gabriel 2' Putback Dunk (8 PTS),113-81,113,81
 0021900034,2019-10-26,UTA,SAC,47.92,4,0,5,UTA,UTA,fg_miss,101,True,False,MISS Mudiay 9' Driving Floating Jump Shot,,113-81,113,81
-0021900034,2019-10-26,UTA,SAC,47.92,4,0,5,SAC,SAC,reb,0,False,False,,Ferrell REBOUND (Off:0 Def:1),113-81,113,81
 0021900034,2019-10-26,UTA,SAC,47.92,4,0,5,UTA,SAC,block,101,True,False,block,block,113-81,113,81
+0021900034,2019-10-26,UTA,SAC,47.92,4,0,5,SAC,SAC,reb,0,False,False,,Ferrell REBOUND (Off:0 Def:1),113-81,113,81
 0021900034,2019-10-26,UTA,SAC,48.0,4,0,0,SAC,SAC,fg3_miss,1,False,False,,MISS James 25' 3PT Jump Shot,113-81,113,81
 0021900034,2019-10-26,UTA,SAC,48.0,4,0,0,SAC,SAC,reb,0,False,False,,Kings Rebound,113-81,113,81
 0021900034,2019-10-26,UTA,SAC,48.0,4,0,0,SAC,,period_end,0,False,False,,,113-81,113,81

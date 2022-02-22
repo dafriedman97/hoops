@@ -4,8 +4,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700215,2017-11-16,BOS,GSW,0.25,1,11,45,BOS,BOS,fg_make,57,False,False,Horford 8' Driving Hook Shot (2 PTS) (Irving 1 AST),,2-0,2,0
 0021700215,2017-11-16,BOS,GSW,0.48,1,11,31,GSW,GSW,fg_make,108,False,False,,Durant 1' Cutting Dunk Shot (2 PTS) (Green 1 AST),2-2,2,2
 0021700215,2017-11-16,BOS,GSW,0.8,1,11,12,BOS,BOS,fg_miss,6,True,False,MISS Tatum 5' Driving Layup,,2-2,2,2
-0021700215,2017-11-16,BOS,GSW,0.8,1,11,12,BOS,BOS,reb,0,False,False,CELTICS Rebound,,2-2,2,2
 0021700215,2017-11-16,BOS,GSW,0.8,1,11,12,BOS,GSW,block,6,True,False,block,block,2-2,2,2
+0021700215,2017-11-16,BOS,GSW,0.8,1,11,12,BOS,BOS,reb,0,False,False,CELTICS Rebound,,2-2,2,2
 0021700215,2017-11-16,BOS,GSW,0.9,1,11,6,BOS,BOS,fg_make,6,False,False,Irving 1' Driving Layup (2 PTS),,4-2,4,2
 0021700215,2017-11-16,BOS,GSW,1.05,1,10,57,GSW,GSW,fg3_miss,1,False,False,,MISS Durant 28' 3PT Jump Shot,4-2,4,2
 0021700215,2017-11-16,BOS,GSW,1.1,1,10,54,BOS,BOS,reb,0,False,False,Morris Sr. REBOUND (Off:0 Def:1),,4-2,4,2
@@ -80,8 +80,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700215,2017-11-16,BOS,GSW,8.37,1,3,38,GSW,BOS,block,5,True,False,block,block,15-19,15,19
 0021700215,2017-11-16,BOS,GSW,8.43,1,3,34,BOS,BOS,reb,0,False,False,Brown REBOUND (Off:1 Def:2),,15-19,15,19
 0021700215,2017-11-16,BOS,GSW,8.52,1,3,29,BOS,BOS,fg_miss,5,True,False,MISS Irving 1' Layup,,15-19,15,19
-0021700215,2017-11-16,BOS,GSW,8.52,1,3,29,GSW,GSW,reb,0,False,False,,Durant REBOUND (Off:0 Def:2),15-19,15,19
 0021700215,2017-11-16,BOS,GSW,8.52,1,3,29,BOS,GSW,block,5,True,False,block,block,15-19,15,19
+0021700215,2017-11-16,BOS,GSW,8.52,1,3,29,GSW,GSW,reb,0,False,False,,Durant REBOUND (Off:0 Def:2),15-19,15,19
 0021700215,2017-11-16,BOS,GSW,8.62,1,3,23,GSW,GSW,fg_make,108,False,False,,Durant 2' Cutting Dunk Shot (8 PTS) (Curry 2 AST),15-21,15,21
 0021700215,2017-11-16,BOS,GSW,8.88,1,3,7,BOS,BOS,fg3_miss,1,False,False,MISS Brown 24' 3PT Jump Shot,,15-21,15,21
 0021700215,2017-11-16,BOS,GSW,8.93,1,3,4,GSW,GSW,reb,0,False,False,,Young REBOUND (Off:0 Def:1),15-21,15,21
@@ -218,8 +218,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700215,2017-11-16,BOS,GSW,22.77,2,1,14,BOS,BOS,reb,0,False,False,Brown REBOUND (Off:2 Def:2),,38-47,38,47
 0021700215,2017-11-16,BOS,GSW,22.8,2,1,12,BOS,BOS,fg_make,5,False,False,Brown Layup (11 PTS),,40-47,40,47
 0021700215,2017-11-16,BOS,GSW,22.88,2,1,7,GSW,GSW,fg_miss,5,True,False,,MISS Thompson 3' Layup,40-47,40,47
-0021700215,2017-11-16,BOS,GSW,22.88,2,1,7,BOS,BOS,reb,0,False,False,Horford REBOUND (Off:0 Def:5),,40-47,40,47
 0021700215,2017-11-16,BOS,GSW,22.88,2,1,7,GSW,BOS,block,5,True,False,block,block,40-47,40,47
+0021700215,2017-11-16,BOS,GSW,22.88,2,1,7,BOS,BOS,reb,0,False,False,Horford REBOUND (Off:0 Def:5),,40-47,40,47
 0021700215,2017-11-16,BOS,GSW,22.95,2,1,3,BOS,GSW,foul,2,False,False,,Iguodala S.FOUL (P1.PN) (J.Capers),40-47,40,47
 0021700215,2017-11-16,BOS,GSW,22.95,2,1,3,BOS,BOS,ft_make,11,False,False,Horford Free Throw 1 of 2 (7 PTS),,41-47,41,47
 0021700215,2017-11-16,BOS,GSW,22.95,2,1,3,BOS,BOS,ft_make,12,False,False,Horford Free Throw 2 of 2 (8 PTS),,42-47,42,47
@@ -229,8 +229,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700215,2017-11-16,BOS,GSW,23.58,2,0,25,GSW,GSW,fg3_miss,79,False,False,,MISS Thompson 26' 3PT Pullup Jump Shot,42-47,42,47
 0021700215,2017-11-16,BOS,GSW,23.63,2,0,22,BOS,BOS,reb,0,False,False,Smart REBOUND (Off:0 Def:2),,42-47,42,47
 0021700215,2017-11-16,BOS,GSW,23.98,2,0,1,BOS,BOS,fg_miss,6,True,False,MISS Irving 4' Driving Layup,,42-47,42,47
-0021700215,2017-11-16,BOS,GSW,23.98,2,0,1,GSW,GSW,reb,0,False,False,,Thompson REBOUND (Off:0 Def:3),42-47,42,47
 0021700215,2017-11-16,BOS,GSW,23.98,2,0,1,BOS,GSW,block,6,True,False,block,block,42-47,42,47
+0021700215,2017-11-16,BOS,GSW,23.98,2,0,1,GSW,GSW,reb,0,False,False,,Thompson REBOUND (Off:0 Def:3),42-47,42,47
 0021700215,2017-11-16,BOS,GSW,24.0,2,0,0,GSW,,period_end,0,False,False,,,42-47,42,47
 0021700215,2017-11-16,BOS,GSW,24.0,3,12,0,GSW,,period_start,0,False,False,,,42-47,42,47
 0021700215,2017-11-16,BOS,GSW,24.23,3,11,46,GSW,GSW,tov,4,False,False,,Curry Traveling Turnover (P3.T7),42-47,42,47
@@ -250,8 +250,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700215,2017-11-16,BOS,GSW,25.77,3,10,14,GSW,GSW,ft_make,12,False,False,,Green Free Throw 2 of 2 (5 PTS),43-53,43,53
 0021700215,2017-11-16,BOS,GSW,25.95,3,10,3,BOS,BOS,tov,4,False,False,Horford Traveling Turnover (P4.T10),,43-53,43,53
 0021700215,2017-11-16,BOS,GSW,26.15,3,9,51,GSW,GSW,tov,1,False,True,,Durant Bad Pass Turnover (P2.T8),43-53,43,53
-0021700215,2017-11-16,BOS,GSW,26.15,3,9,51,BOS,GSW,foul,1,False,False,,Curry P.FOUL (P3.T3) (J.Capers),43-53,43,53
 0021700215,2017-11-16,BOS,GSW,26.15,3,9,51,GSW,BOS,steal,1,False,True,steal,steal,43-53,43,53
+0021700215,2017-11-16,BOS,GSW,26.15,3,9,51,BOS,GSW,foul,1,False,False,,Curry P.FOUL (P3.T3) (J.Capers),43-53,43,53
 0021700215,2017-11-16,BOS,GSW,26.57,3,9,26,BOS,BOS,tov,1,False,True,Horford Bad Pass Turnover (P5.T11),,43-53,43,53
 0021700215,2017-11-16,BOS,GSW,26.57,3,9,26,BOS,GSW,steal,1,False,True,steal,steal,43-53,43,53
 0021700215,2017-11-16,BOS,GSW,26.63,3,9,22,GSW,GSW,fg3_make,79,False,False,,Durant 24' 3PT Pullup Jump Shot (15 PTS),43-56,43,56
@@ -277,8 +277,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700215,2017-11-16,BOS,GSW,28.73,3,7,16,GSW,GSW,fg3_miss,1,False,False,,MISS Thompson 25' 3PT Jump Shot,47-59,47,59
 0021700215,2017-11-16,BOS,GSW,28.78,3,7,13,BOS,BOS,reb,0,False,False,Horford REBOUND (Off:0 Def:6),,47-59,47,59
 0021700215,2017-11-16,BOS,GSW,28.85,3,7,9,BOS,BOS,fg_miss,6,True,False,MISS Brown 3' Driving Layup,,47-59,47,59
-0021700215,2017-11-16,BOS,GSW,28.85,3,7,9,BOS,BOS,reb,0,False,False,CELTICS Rebound,,47-59,47,59
 0021700215,2017-11-16,BOS,GSW,28.85,3,7,9,BOS,GSW,block,6,True,False,block,block,47-59,47,59
+0021700215,2017-11-16,BOS,GSW,28.85,3,7,9,BOS,BOS,reb,0,False,False,CELTICS Rebound,,47-59,47,59
 0021700215,2017-11-16,BOS,GSW,29.02,3,6,59,BOS,BOS,fg3_miss,1,False,False,MISS Morris Sr. 3PT Jump Shot,,47-59,47,59
 0021700215,2017-11-16,BOS,GSW,29.05,3,6,57,GSW,GSW,reb,0,False,False,,Thompson REBOUND (Off:0 Def:5),47-59,47,59
 0021700215,2017-11-16,BOS,GSW,29.32,3,6,41,GSW,GSW,fg3_make,1,False,False,,Green 25' 3PT Jump Shot (8 PTS) (Durant 2 AST),47-62,47,62

@@ -31,8 +31,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000593,2021-03-14,OKC,MEM,3.97,1,8,2,MEM,MEM,fg_make,101,False,False,,Morant 7' Driving Floating Jump Shot (5 PTS),11-11,11,11
 0022000593,2021-03-14,OKC,MEM,4.37,1,7,38,OKC,OKC,fg3_make,1,False,False,Jerome 3PT Jump Shot (5 PTS) (Gilgeous-Alexander 2 AST),,14-11,14,11
 0022000593,2021-03-14,OKC,MEM,4.63,1,7,22,MEM,MEM,fg_miss,6,False,False,,MISS Brooks 3' Driving Layup,14-11,14,11
-0022000593,2021-03-14,OKC,MEM,4.72,1,7,17,MEM,MEM,fg_miss,97,False,False,,MISS Valanciunas Tip Layup Shot,14-11,14,11
 0022000593,2021-03-14,OKC,MEM,4.72,1,7,17,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:1 Def:0),14-11,14,11
+0022000593,2021-03-14,OKC,MEM,4.72,1,7,17,MEM,MEM,fg_miss,97,False,False,,MISS Valanciunas Tip Layup Shot,14-11,14,11
 0022000593,2021-03-14,OKC,MEM,4.72,1,7,17,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:0 Def:1),,14-11,14,11
 0022000593,2021-03-14,OKC,MEM,4.8,1,7,12,OKC,OKC,fg3_miss,80,False,False,MISS Jackson 3PT Step Back Jump Shot,,14-11,14,11
 0022000593,2021-03-14,OKC,MEM,4.85,1,7,9,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:1 Def:1),14-11,14,11
@@ -98,8 +98,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000593,2021-03-14,OKC,MEM,12.27,2,11,44,MEM,MEM,fg_miss,78,False,False,,MISS Jones 14' Floating Jump Shot,28-31,28,31
 0022000593,2021-03-14,OKC,MEM,12.33,2,11,40,OKC,OKC,reb,0,False,False,Muscala REBOUND (Off:0 Def:1),,28-31,28,31
 0022000593,2021-03-14,OKC,MEM,12.4,2,11,36,OKC,OKC,fg_miss,6,True,False,MISS Williams 9' Driving Layup,,28-31,28,31
-0022000593,2021-03-14,OKC,MEM,12.4,2,11,36,OKC,OKC,reb,0,False,False,THUNDER Rebound,,28-31,28,31
 0022000593,2021-03-14,OKC,MEM,12.4,2,11,36,OKC,MEM,block,6,True,False,block,block,28-31,28,31
+0022000593,2021-03-14,OKC,MEM,12.4,2,11,36,OKC,OKC,reb,0,False,False,THUNDER Rebound,,28-31,28,31
 0022000593,2021-03-14,OKC,MEM,12.6,2,11,24,OKC,OKC,tov,4,False,False,Pokusevski Traveling Turnover (P1.T4),,28-31,28,31
 0022000593,2021-03-14,OKC,MEM,13.0,2,11,0,MEM,MEM,fg3_miss,1,False,False,,MISS Bane 26' 3PT Jump Shot,28-31,28,31
 0022000593,2021-03-14,OKC,MEM,13.07,2,10,56,OKC,OKC,reb,0,False,False,Muscala REBOUND (Off:0 Def:2),,28-31,28,31
@@ -299,9 +299,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000593,2021-03-14,OKC,MEM,34.47,3,1,32,MEM,MEM,ft_make,11,False,False,,Clarke Free Throw 1 of 2 (8 PTS),86-97,86,97
 0022000593,2021-03-14,OKC,MEM,34.47,3,1,32,MEM,MEM,ft_make,12,False,False,,Clarke Free Throw 2 of 2 (9 PTS),86-98,86,98
 0022000593,2021-03-14,OKC,MEM,34.72,3,1,17,OKC,OKC,fg_miss,79,True,False,MISS Gilgeous-Alexander 9' Pullup Jump Shot,,86-98,86,98
+0022000593,2021-03-14,OKC,MEM,34.72,3,1,17,OKC,MEM,block,79,True,False,block,block,86-98,86,98
 0022000593,2021-03-14,OKC,MEM,34.72,3,1,17,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:1 Def:1),,86-98,86,98
 0022000593,2021-03-14,OKC,MEM,34.72,3,1,17,OKC,MEM,foul,3,False,False,,Clarke L.B.FOUL (P1.PN) (J.Tiven),86-98,86,98
-0022000593,2021-03-14,OKC,MEM,34.72,3,1,17,OKC,MEM,block,79,True,False,block,block,86-98,86,98
 0022000593,2021-03-14,OKC,MEM,34.72,3,1,17,OKC,OKC,ft_make,11,False,False,Gilgeous-Alexander Free Throw 1 of 2 (20 PTS),,87-98,87,98
 0022000593,2021-03-14,OKC,MEM,34.72,3,1,17,OKC,OKC,ft_make,12,False,False,Gilgeous-Alexander Free Throw 2 of 2 (21 PTS),,88-98,88,98
 0022000593,2021-03-14,OKC,MEM,34.92,3,1,5,MEM,MEM,fg3_miss,1,False,False,,MISS Melton 25' 3PT Jump Shot,88-98,88,98
@@ -381,8 +381,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000593,2021-03-14,OKC,MEM,43.73,4,4,16,MEM,OKC,foul,2,False,False,Roby S.FOUL (P2.T2) (J.Butler),,117-110,117,110
 0022000593,2021-03-14,OKC,MEM,43.73,4,4,16,MEM,MEM,ft_make,13,False,False,,Brooks Free Throw 1 of 3 (18 PTS),117-111,117,111
 0022000593,2021-03-14,OKC,MEM,43.73,4,4,16,MEM,MEM,ft_make,14,False,False,,Brooks Free Throw 2 of 3 (19 PTS),117-112,117,112
-0022000593,2021-03-14,OKC,MEM,43.73,4,4,16,MEM,MEM,ft_miss,15,False,False,,MISS Brooks Free Throw 3 of 3,117-112,117,112
 0022000593,2021-03-14,OKC,MEM,43.73,4,4,16,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 5 Short 0),,117-112,117,112
+0022000593,2021-03-14,OKC,MEM,43.73,4,4,16,MEM,MEM,ft_miss,15,False,False,,MISS Brooks Free Throw 3 of 3,117-112,117,112
 0022000593,2021-03-14,OKC,MEM,43.78,4,4,13,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:1 Def:3),,117-112,117,112
 0022000593,2021-03-14,OKC,MEM,43.78,4,4,13,OKC,MEM,foul,1,False,False,,Brooks P.FOUL (P4.T4) (J.Tiven),117-112,117,112
 0022000593,2021-03-14,OKC,MEM,44.13,4,3,52,OKC,MEM,foul,1,False,False,,Clarke P.FOUL (P2.PN) (D.Taylor),117-112,117,112

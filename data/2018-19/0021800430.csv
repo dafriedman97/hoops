@@ -66,9 +66,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800430,2018-12-15,CHA,LAL,6.72,1,5,17,CHA,LAL,steal,1,False,True,steal,steal,13-14,13,14
 0021800430,2018-12-15,CHA,LAL,6.8,1,5,12,LAL,LAL,fg_make,41,False,False,,Ball 2' Running Layup (4 PTS),13-16,13,16
 0021800430,2018-12-15,CHA,LAL,7.0,1,5,0,CHA,CHA,fg_miss,5,False,False,MISS Lamb 7' Layup,,13-16,13,16
+0021800430,2018-12-15,CHA,LAL,7.0,1,5,0,CHA,CHA,reb,0,False,False,Lamb REBOUND (Off:2 Def:1),,13-16,13,16
 0021800430,2018-12-15,CHA,LAL,7.0,1,5,0,CHA,CHA,fg_miss,97,False,False,MISS Lamb 2' Tip Layup Shot,,13-16,13,16
 0021800430,2018-12-15,CHA,LAL,7.0,1,5,0,CHA,CHA,reb,0,False,False,Lamb REBOUND (Off:1 Def:1),,13-16,13,16
-0021800430,2018-12-15,CHA,LAL,7.0,1,5,0,CHA,CHA,reb,0,False,False,Lamb REBOUND (Off:2 Def:1),,13-16,13,16
 0021800430,2018-12-15,CHA,LAL,7.08,1,4,55,CHA,CHA,fg_miss,97,False,False,MISS Lamb 1' Tip Layup Shot,,13-16,13,16
 0021800430,2018-12-15,CHA,LAL,7.1,1,4,54,LAL,LAL,reb,0,False,False,,Kuzma REBOUND (Off:1 Def:1),13-16,13,16
 0021800430,2018-12-15,CHA,LAL,7.2,1,4,48,LAL,LAL,fg3_make,1,False,False,,James 26' 3PT Jump Shot (7 PTS),13-19,13,19
@@ -203,9 +203,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800430,2018-12-15,CHA,LAL,20.95,2,3,3,LAL,LAL,fg3_miss,1,False,False,,MISS Hart 25' 3PT Jump Shot,43-49,43,49
 0021800430,2018-12-15,CHA,LAL,21.05,2,2,57,CHA,CHA,reb,0,False,False,Lamb REBOUND (Off:2 Def:2),,43-49,43,49
 0021800430,2018-12-15,CHA,LAL,21.18,2,2,49,CHA,CHA,fg_miss,5,True,False,MISS Zeller 5' Layup,,43-49,43,49
+0021800430,2018-12-15,CHA,LAL,21.18,2,2,49,CHA,LAL,block,5,True,False,block,block,43-49,43,49
 0021800430,2018-12-15,CHA,LAL,21.18,2,2,49,CHA,CHA,reb,0,False,False,HORNETS Rebound,,43-49,43,49
 0021800430,2018-12-15,CHA,LAL,21.18,2,2,49,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 3 Short 0),,43-49,43,49
-0021800430,2018-12-15,CHA,LAL,21.18,2,2,49,CHA,LAL,block,5,True,False,block,block,43-49,43,49
 0021800430,2018-12-15,CHA,LAL,21.33,2,2,40,LAL,CHA,foul,4,False,False,Graham OFF.Foul (P1) (C.Blair),,43-49,43,49
 0021800430,2018-12-15,CHA,LAL,21.33,2,2,40,CHA,CHA,tov,37,False,False,Graham Offensive Foul Turnover (P1.T9),,43-49,43,49
 0021800430,2018-12-15,CHA,LAL,21.45,2,2,33,CHA,LAL,foul,4,False,False,,Kuzma OFF.Foul (P2) (D.Guthrie),43-49,43,49
@@ -248,8 +248,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800430,2018-12-15,CHA,LAL,25.25,3,10,45,LAL,LAL,reb,0,False,False,,Lakers Rebound,52-58,52,58
 0021800430,2018-12-15,CHA,LAL,25.4,3,10,36,LAL,LAL,fg3_make,1,False,False,,Ball 24' 3PT Jump Shot (9 PTS) (James 6 AST),52-61,52,61
 0021800430,2018-12-15,CHA,LAL,25.6,3,10,24,CHA,CHA,fg_miss,6,True,False,MISS Walker 6' Driving Layup,,52-61,52,61
-0021800430,2018-12-15,CHA,LAL,25.6,3,10,24,CHA,CHA,reb,0,False,False,HORNETS Rebound,,52-61,52,61
 0021800430,2018-12-15,CHA,LAL,25.6,3,10,24,CHA,LAL,block,6,True,False,block,block,52-61,52,61
+0021800430,2018-12-15,CHA,LAL,25.6,3,10,24,CHA,CHA,reb,0,False,False,HORNETS Rebound,,52-61,52,61
 0021800430,2018-12-15,CHA,LAL,25.7,3,10,18,CHA,CHA,fg_make,1,False,False,Batum 18' Jump Shot (7 PTS) (Walker 3 AST),,54-61,54,61
 0021800430,2018-12-15,CHA,LAL,25.9,3,10,6,LAL,LAL,fg_make,5,False,False,,McGee 1' Layup (15 PTS) (James 7 AST),54-63,54,63
 0021800430,2018-12-15,CHA,LAL,26.1,3,9,54,CHA,CHA,fg3_miss,1,False,False,MISS Walker 25' 3PT Jump Shot,,54-63,54,63
@@ -258,8 +258,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800430,2018-12-15,CHA,LAL,26.68,3,9,19,CHA,CHA,fg3_miss,1,False,False,MISS Walker 25' 3PT Jump Shot,,54-66,54,66
 0021800430,2018-12-15,CHA,LAL,26.73,3,9,16,LAL,LAL,reb,0,False,False,,James REBOUND (Off:1 Def:7),54-66,54,66
 0021800430,2018-12-15,CHA,LAL,26.83,3,9,10,LAL,LAL,fg_miss,6,True,False,,MISS James 3' Driving Layup,54-66,54,66
-0021800430,2018-12-15,CHA,LAL,26.83,3,9,10,LAL,LAL,reb,0,False,False,,Lakers Rebound,54-66,54,66
 0021800430,2018-12-15,CHA,LAL,26.83,3,9,10,LAL,CHA,block,6,True,False,block,block,54-66,54,66
+0021800430,2018-12-15,CHA,LAL,26.83,3,9,10,LAL,LAL,reb,0,False,False,,Lakers Rebound,54-66,54,66
 0021800430,2018-12-15,CHA,LAL,26.87,3,9,8,LAL,LAL,fg3_make,1,False,False,,Kuzma 25' 3PT Jump Shot (12 PTS) (Ball 6 AST),54-69,54,69
 0021800430,2018-12-15,CHA,LAL,26.92,3,9,5,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 4 Short 0),,54-69,54,69
 0021800430,2018-12-15,CHA,LAL,27.17,3,8,50,CHA,CHA,fg_miss,6,False,False,MISS Monk 2' Driving Layup,,54-69,54,69
@@ -270,10 +270,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800430,2018-12-15,CHA,LAL,27.62,3,8,23,CHA,CHA,tov,1,False,True,Batum Bad Pass Turnover (P3.T12),,56-71,56,71
 0021800430,2018-12-15,CHA,LAL,27.62,3,8,23,CHA,LAL,steal,1,False,True,steal,steal,56-71,56,71
 0021800430,2018-12-15,CHA,LAL,27.65,3,8,21,LAL,LAL,fg_make,41,False,False,,Hart 2' Running Layup (2 PTS),56-73,56,73
-0021800430,2018-12-15,CHA,LAL,27.65,3,8,21,LAL,CHA,violation,2,False,False,Defensive Goaltending,,56-73,56,73
 0021800430,2018-12-15,CHA,LAL,27.65,3,8,21,LAL,CHA,foul,2,False,False,Monk S.FOUL (P2.T1) (D.Guthrie),,56-73,56,73
 0021800430,2018-12-15,CHA,LAL,27.65,3,8,21,LAL,LAL,ft_miss,10,False,False,,MISS Hart Free Throw 1 of 1,56-73,56,73
 0021800430,2018-12-15,CHA,LAL,27.65,3,8,21,LAL,LAL,reb,0,False,False,,Ball REBOUND (Off:2 Def:3),56-73,56,73
+0021800430,2018-12-15,CHA,LAL,27.65,3,8,21,LAL,CHA,violation,2,False,False,Defensive Goaltending,,56-73,56,73
 0021800430,2018-12-15,CHA,LAL,27.88,3,8,7,LAL,LAL,fg_make,7,False,False,,McGee 1' Dunk (17 PTS) (Kuzma 2 AST),56-75,56,75
 0021800430,2018-12-15,CHA,LAL,28.03,3,7,58,CHA,CHA,tov,1,False,True,Monk Bad Pass Turnover (P1.T13),,56-75,56,75
 0021800430,2018-12-15,CHA,LAL,28.03,3,7,58,CHA,LAL,steal,1,False,True,steal,steal,56-75,56,75
@@ -410,8 +410,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800430,2018-12-15,CHA,LAL,42.37,4,5,38,LAL,LAL,fg_miss,6,False,False,,MISS Mykhailiuk 2' Driving Layup,87-117,87,117
 0021800430,2018-12-15,CHA,LAL,42.37,4,5,38,CHA,CHA,reb,0,False,False,Bacon REBOUND (Off:0 Def:2),,87-117,87,117
 0021800430,2018-12-15,CHA,LAL,42.5,4,5,30,CHA,CHA,tov,1,False,True,Bacon Bad Pass Turnover (P1.T16),,87-117,87,117
-0021800430,2018-12-15,CHA,LAL,42.5,4,5,30,LAL,CHA,foul,1,False,False,Bridges P.FOUL (P5.T2) (D.Guthrie),,87-117,87,117
 0021800430,2018-12-15,CHA,LAL,42.5,4,5,30,CHA,LAL,steal,1,False,True,steal,steal,87-117,87,117
+0021800430,2018-12-15,CHA,LAL,42.5,4,5,30,LAL,CHA,foul,1,False,False,Bridges P.FOUL (P5.T2) (D.Guthrie),,87-117,87,117
 0021800430,2018-12-15,CHA,LAL,42.8,4,5,12,LAL,LAL,fg_make,7,False,False,,Stephenson 2' Dunk (11 PTS) (Mykhailiuk 3 AST),87-119,87,119
 0021800430,2018-12-15,CHA,LAL,42.98,4,5,1,CHA,CHA,fg_make,5,False,False,Graham 1' Layup (2 PTS),,89-119,89,119
 0021800430,2018-12-15,CHA,LAL,42.98,4,5,1,CHA,LAL,foul,2,False,False,,Stephenson S.FOUL (P2.T3) (D.Guthrie),89-119,89,119

@@ -43,8 +43,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000164,2021-01-13,CHA,DAL,4.77,1,7,14,DAL,DAL,fg3_miss,1,False,False,,MISS Iwundu 3PT Jump Shot,7-11,7,11
 0022000164,2021-01-13,CHA,DAL,4.83,1,7,10,CHA,CHA,reb,0,False,False,Washington REBOUND (Off:0 Def:2),,7-11,7,11
 0022000164,2021-01-13,CHA,DAL,5.05,1,6,57,CHA,CHA,fg_miss,101,True,False,MISS Graham 12' Driving Floating Jump Shot,,7-11,7,11
-0022000164,2021-01-13,CHA,DAL,5.05,1,6,57,DAL,DAL,reb,0,False,False,,Doncic REBOUND (Off:1 Def:1),7-11,7,11
 0022000164,2021-01-13,CHA,DAL,5.05,1,6,57,CHA,DAL,block,101,True,False,block,block,7-11,7,11
+0022000164,2021-01-13,CHA,DAL,5.05,1,6,57,DAL,DAL,reb,0,False,False,,Doncic REBOUND (Off:1 Def:1),7-11,7,11
 0022000164,2021-01-13,CHA,DAL,5.12,1,6,53,DAL,DAL,fg_make,50,False,False,,Iwundu 2' Running Dunk (2 PTS) (Doncic 3 AST),7-13,7,13
 0022000164,2021-01-13,CHA,DAL,5.33,1,6,40,CHA,CHA,fg3_miss,1,False,False,MISS Washington 26' 3PT Jump Shot,,7-13,7,13
 0022000164,2021-01-13,CHA,DAL,5.37,1,6,38,CHA,CHA,reb,0,False,False,Washington REBOUND (Off:1 Def:2),,7-13,7,13
@@ -90,11 +90,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000164,2021-01-13,CHA,DAL,10.87,1,1,8,CHA,CHA,fg3_miss,1,False,False,MISS Martin 3PT Jump Shot,,16-28,16,28
 0022000164,2021-01-13,CHA,DAL,10.9,1,1,6,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:1 Def:0),,16-28,16,28
 0022000164,2021-01-13,CHA,DAL,10.92,1,1,5,CHA,CHA,tov,1,False,True,Bridges Bad Pass Turnover (P1.T3),,16-28,16,28
+0022000164,2021-01-13,CHA,DAL,10.92,1,1,5,CHA,DAL,steal,1,False,True,steal,steal,16-28,16,28
 0022000164,2021-01-13,CHA,DAL,10.92,1,1,5,DAL,CHA,foul,1,False,False,Ball P.FOUL (P1.PN) (K.Scott),,16-28,16,28
 0022000164,2021-01-13,CHA,DAL,10.92,1,1,5,DAL,DAL,ft_miss,11,False,False,,MISS Johnson Free Throw 1 of 2,16-28,16,28
 0022000164,2021-01-13,CHA,DAL,10.92,1,1,5,DAL,DAL,reb,1,False,False,,Mavericks Rebound,16-28,16,28
 0022000164,2021-01-13,CHA,DAL,10.92,1,1,5,DAL,DAL,ft_miss,12,False,False,,MISS Johnson Free Throw 2 of 2,16-28,16,28
-0022000164,2021-01-13,CHA,DAL,10.92,1,1,5,CHA,DAL,steal,1,False,True,steal,steal,16-28,16,28
 0022000164,2021-01-13,CHA,DAL,11.0,1,1,0,CHA,CHA,reb,0,False,False,Washington REBOUND (Off:2 Def:3),,16-28,16,28
 0022000164,2021-01-13,CHA,DAL,11.2,1,0,48,CHA,CHA,tov,13,False,False,Bridges Backcourt Turnover (P2.T4),,16-28,16,28
 0022000164,2021-01-13,CHA,DAL,11.45,1,0,33,DAL,DAL,fg_make,66,False,False,,Doncic 9' Jump Bank Shot (11 PTS),16-30,16,30
@@ -130,8 +130,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000164,2021-01-13,CHA,DAL,14.75,2,9,15,CHA,CHA,tov,1,False,True,Martin Bad Pass Turnover (P1.T7),,18-36,18,36
 0022000164,2021-01-13,CHA,DAL,14.75,2,9,15,CHA,DAL,steal,1,False,True,steal,steal,18-36,18,36
 0022000164,2021-01-13,CHA,DAL,14.9,2,9,6,DAL,DAL,fg_miss,6,True,False,,MISS Burke 4' Driving Layup,18-36,18,36
-0022000164,2021-01-13,CHA,DAL,14.9,2,9,6,DAL,DAL,reb,0,False,False,,Mavericks Rebound,18-36,18,36
 0022000164,2021-01-13,CHA,DAL,14.9,2,9,6,DAL,CHA,block,6,True,False,block,block,18-36,18,36
+0022000164,2021-01-13,CHA,DAL,14.9,2,9,6,DAL,DAL,reb,0,False,False,,Mavericks Rebound,18-36,18,36
 0022000164,2021-01-13,CHA,DAL,15.1,2,8,54,DAL,DAL,fg3_miss,1,False,False,,MISS Burke 3PT Jump Shot,18-36,18,36
 0022000164,2021-01-13,CHA,DAL,15.15,2,8,51,CHA,CHA,reb,0,False,False,Ball REBOUND (Off:0 Def:5),,18-36,18,36
 0022000164,2021-01-13,CHA,DAL,15.23,2,8,46,CHA,CHA,fg_miss,41,False,False,MISS Ball 2' Running Layup,,18-36,18,36
@@ -230,8 +230,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000164,2021-01-13,CHA,DAL,25.98,3,10,1,DAL,DAL,tov,2,False,True,,Doncic Lost Ball Turnover (P2.T3),49-66,49,66
 0022000164,2021-01-13,CHA,DAL,25.98,3,10,1,DAL,CHA,steal,2,False,True,steal,steal,49-66,49,66
 0022000164,2021-01-13,CHA,DAL,26.03,3,9,58,CHA,CHA,fg_miss,41,True,False,MISS Rozier 2' Running Layup,,49-66,49,66
-0022000164,2021-01-13,CHA,DAL,26.03,3,9,58,CHA,CHA,reb,0,False,False,HORNETS Rebound,,49-66,49,66
 0022000164,2021-01-13,CHA,DAL,26.03,3,9,58,CHA,DAL,block,41,True,False,block,block,49-66,49,66
+0022000164,2021-01-13,CHA,DAL,26.03,3,9,58,CHA,CHA,reb,0,False,False,HORNETS Rebound,,49-66,49,66
 0022000164,2021-01-13,CHA,DAL,26.13,3,9,52,CHA,DAL,foul,2,False,False,,Porzingis S.FOUL (P2.T2) (K.Scott),49-66,49,66
 0022000164,2021-01-13,CHA,DAL,26.13,3,9,52,CHA,CHA,ft_make,11,False,False,Biyombo Free Throw 1 of 2 (5 PTS),,50-66,50,66
 0022000164,2021-01-13,CHA,DAL,26.13,3,9,52,CHA,CHA,ft_miss,12,False,False,MISS Biyombo Free Throw 2 of 2,,50-66,50,66
@@ -340,8 +340,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000164,2021-01-13,CHA,DAL,35.32,3,0,41,CHA,CHA,fg3_miss,1,False,False,MISS Ball 26' 3PT Jump Shot,,72-87,72,87
 0022000164,2021-01-13,CHA,DAL,35.35,3,0,39,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:4 Def:1),,72-87,72,87
 0022000164,2021-01-13,CHA,DAL,35.35,3,0,39,CHA,CHA,fg_miss,5,True,False,MISS Bridges 2' Layup,,72-87,72,87
-0022000164,2021-01-13,CHA,DAL,35.35,3,0,39,CHA,CHA,reb,0,False,False,HORNETS Rebound,,72-87,72,87
 0022000164,2021-01-13,CHA,DAL,35.35,3,0,39,CHA,DAL,block,5,True,False,block,block,72-87,72,87
+0022000164,2021-01-13,CHA,DAL,35.35,3,0,39,CHA,CHA,reb,0,False,False,HORNETS Rebound,,72-87,72,87
 0022000164,2021-01-13,CHA,DAL,35.55,3,0,27,CHA,CHA,fg_miss,6,False,False,MISS Martin 2' Driving Layup,,72-87,72,87
 0022000164,2021-01-13,CHA,DAL,35.55,3,0,27,CHA,CHA,reb,0,False,False,HORNETS Rebound,,72-87,72,87
 0022000164,2021-01-13,CHA,DAL,35.73,3,0,16,CHA,CHA,fg3_miss,1,False,False,MISS Graham 28' 3PT Jump Shot,,72-87,72,87
@@ -395,17 +395,17 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000164,2021-01-13,CHA,DAL,40.82,4,7,11,CHA,CHA,reb,0,False,False,Biyombo REBOUND (Off:1 Def:6),,78-95,78,95
 0022000164,2021-01-13,CHA,DAL,40.82,4,7,11,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 4 Short 0),,78-95,78,95
 0022000164,2021-01-13,CHA,DAL,41.17,4,6,50,CHA,CHA,fg_miss,1,True,False,MISS Rozier 23' Jump Shot,,78-95,78,95
+0022000164,2021-01-13,CHA,DAL,41.17,4,6,50,CHA,DAL,block,1,True,False,block,block,78-95,78,95
 0022000164,2021-01-13,CHA,DAL,41.17,4,6,50,CHA,CHA,reb,0,False,False,HORNETS Rebound,,78-95,78,95
 0022000164,2021-01-13,CHA,DAL,41.17,4,6,50,CHA,CHA,tov,11,False,False,HORNETS Turnover: Shot Clock (T#12),,78-95,78,95
-0022000164,2021-01-13,CHA,DAL,41.17,4,6,50,CHA,DAL,block,1,True,False,block,block,78-95,78,95
 0022000164,2021-01-13,CHA,DAL,41.3,4,6,42,DAL,DAL,fg3_miss,1,True,False,,MISS Green 3PT Jump Shot,78-95,78,95
-0022000164,2021-01-13,CHA,DAL,41.3,4,6,42,DAL,DAL,reb,0,False,False,,Mavericks Rebound,78-95,78,95
 0022000164,2021-01-13,CHA,DAL,41.3,4,6,42,DAL,CHA,block,1,True,False,block,block,78-95,78,95
+0022000164,2021-01-13,CHA,DAL,41.3,4,6,42,DAL,DAL,reb,0,False,False,,Mavericks Rebound,78-95,78,95
 0022000164,2021-01-13,CHA,DAL,41.48,4,6,31,DAL,DAL,fg_miss,79,False,False,,MISS Burke 18' Pullup Jump Shot,78-95,78,95
 0022000164,2021-01-13,CHA,DAL,41.57,4,6,26,CHA,CHA,reb,0,False,False,Biyombo REBOUND (Off:1 Def:7),,78-95,78,95
 0022000164,2021-01-13,CHA,DAL,41.67,4,6,20,CHA,CHA,fg_miss,6,True,False,MISS Rozier 7' Driving Layup,,78-95,78,95
-0022000164,2021-01-13,CHA,DAL,41.67,4,6,20,CHA,CHA,reb,0,False,False,HORNETS Rebound,,78-95,78,95
 0022000164,2021-01-13,CHA,DAL,41.67,4,6,20,CHA,DAL,block,6,True,False,block,block,78-95,78,95
+0022000164,2021-01-13,CHA,DAL,41.67,4,6,20,CHA,CHA,reb,0,False,False,HORNETS Rebound,,78-95,78,95
 0022000164,2021-01-13,CHA,DAL,41.88,4,6,7,CHA,CHA,fg_miss,1,False,False,MISS Graham 12' Jump Shot,,78-95,78,95
 0022000164,2021-01-13,CHA,DAL,41.88,4,6,7,CHA,CHA,reb,0,False,False,HORNETS Rebound,,78-95,78,95
 0022000164,2021-01-13,CHA,DAL,41.92,4,6,5,CHA,CHA,fg_miss,63,False,False,MISS Martin 14' Fadeaway Jumper,,78-95,78,95
@@ -439,9 +439,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000164,2021-01-13,CHA,DAL,45.67,4,2,20,DAL,CHA,foul,1,False,False,Bridges P.FOUL (P3.T3) (D.Taylor),,86-101,86,101
 0022000164,2021-01-13,CHA,DAL,45.83,4,2,10,DAL,DAL,fg_make,6,False,False,,Hardaway Jr. 9' Driving Layup (18 PTS),86-103,86,103
 0022000164,2021-01-13,CHA,DAL,46.07,4,1,56,CHA,CHA,fg_miss,6,True,False,MISS Washington 4' Driving Layup,,86-103,86,103
+0022000164,2021-01-13,CHA,DAL,46.07,4,1,56,CHA,DAL,block,6,True,False,block,block,86-103,86,103
 0022000164,2021-01-13,CHA,DAL,46.07,4,1,56,DAL,DAL,reb,0,False,False,,Doncic REBOUND (Off:2 Def:11),86-103,86,103
 0022000164,2021-01-13,CHA,DAL,46.07,4,1,56,DAL,CHA,foul,1,False,False,Washington P.FOUL (P4.T4) (D.Taylor),,86-103,86,103
-0022000164,2021-01-13,CHA,DAL,46.07,4,1,56,CHA,DAL,block,6,True,False,block,block,86-103,86,103
 0022000164,2021-01-13,CHA,DAL,46.33,4,1,40,DAL,DAL,fg_miss,75,False,False,,MISS Burke 11' Driving Finger Roll Layup,86-103,86,103
 0022000164,2021-01-13,CHA,DAL,46.38,4,1,37,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:4 Def:2),,86-103,86,103
 0022000164,2021-01-13,CHA,DAL,46.52,4,1,29,CHA,CHA,fg_make,6,False,False,Washington 1' Driving Layup (16 PTS),,88-103,88,103

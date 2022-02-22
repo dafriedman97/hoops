@@ -34,8 +34,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000179,2021-04-01,DET,WAS,3.85,1,8,9,DET,DET,fg_make,50,False,False,Jackson 1' Running Dunk (4 PTS) (Lee 1 AST),,10-4,10,4
 0022000179,2021-04-01,DET,WAS,4.05,1,7,57,WAS,WAS,tov,45,False,False,,Westbrook Out of Bounds - Bad Pass Turnover Turnover (P3.T4),10-4,10,4
 0022000179,2021-04-01,DET,WAS,4.38,1,7,37,DET,DET,fg_miss,6,True,False,MISS Grant 5' Driving Layup,,10-4,10,4
-0022000179,2021-04-01,DET,WAS,4.38,1,7,37,DET,DET,reb,0,False,False,PISTONS Rebound,,10-4,10,4
 0022000179,2021-04-01,DET,WAS,4.38,1,7,37,DET,WAS,block,6,True,False,block,block,10-4,10,4
+0022000179,2021-04-01,DET,WAS,4.38,1,7,37,DET,DET,reb,0,False,False,PISTONS Rebound,,10-4,10,4
 0022000179,2021-04-01,DET,WAS,4.42,1,7,35,DET,DET,fg_miss,1,False,False,MISS Plumlee 21' Jump Shot,,10-4,10,4
 0022000179,2021-04-01,DET,WAS,4.48,1,7,31,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:1),10-4,10,4
 0022000179,2021-04-01,DET,WAS,4.55,1,7,27,WAS,WAS,fg_make,79,False,False,,Westbrook 22' Pullup Jump Shot (2 PTS),10-6,10,6
@@ -103,12 +103,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000179,2021-04-01,DET,WAS,11.67,1,0,20,DET,DET,fg_make,72,False,False,Jackson 3' Putback Layup (14 PTS),,32-22,32,22
 0022000179,2021-04-01,DET,WAS,11.9,1,0,6,WAS,DET,foul,1,False,False,Jackson P.FOUL (P2.T2) (J.Goble),,32-22,32,22
 0022000179,2021-04-01,DET,WAS,11.97,1,0,2,WAS,WAS,fg_miss,9,True,False,,MISS Westbrook 6' Driving Dunk,32-22,32,22
-0022000179,2021-04-01,DET,WAS,11.97,1,0,2,DET,DET,reb,0,False,False,PISTONS Rebound,,32-22,32,22
 0022000179,2021-04-01,DET,WAS,11.97,1,0,2,WAS,DET,block,9,True,False,block,block,32-22,32,22
+0022000179,2021-04-01,DET,WAS,11.97,1,0,2,DET,DET,reb,0,False,False,PISTONS Rebound,,32-22,32,22
 0022000179,2021-04-01,DET,WAS,12.0,1,0,0,DET,DET,tov,1,False,True,Cook Bad Pass Turnover (P1.T3),,32-22,32,22
+0022000179,2021-04-01,DET,WAS,12.0,1,0,0,DET,WAS,steal,1,False,True,steal,steal,32-22,32,22
 0022000179,2021-04-01,DET,WAS,12.0,1,0,0,DET,,period_end,0,False,False,,,32-22,32,22
 0022000179,2021-04-01,DET,WAS,12.0,2,12,0,DET,,period_start,0,False,False,,,32-22,32,22
-0022000179,2021-04-01,DET,WAS,12.0,1,0,0,DET,WAS,steal,1,False,True,steal,steal,32-22,32,22
 0022000179,2021-04-01,DET,WAS,12.35,2,11,39,DET,DET,fg3_make,79,False,False,Ellington 25' 3PT Pullup Jump Shot (3 PTS) (Jackson 1 AST),,35-22,35,22
 0022000179,2021-04-01,DET,WAS,12.6,2,11,24,WAS,WAS,fg_make,58,False,False,,Lopez 8' Turnaround Hook Shot (2 PTS),35-24,35,24
 0022000179,2021-04-01,DET,WAS,12.78,2,11,13,DET,DET,fg_miss,1,False,False,MISS Stewart 10' Jump Shot,,35-24,35,24
@@ -124,8 +124,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000179,2021-04-01,DET,WAS,14.53,2,9,28,WAS,DET,foul,4,False,False,Stewart OFF.Foul (P1) (S.Foster),,39-31,39,31
 0022000179,2021-04-01,DET,WAS,14.53,2,9,28,DET,DET,tov,37,False,False,Stewart Offensive Foul Turnover (P1.T5),,39-31,39,31
 0022000179,2021-04-01,DET,WAS,14.67,2,9,20,WAS,WAS,tov,2,False,True,,Westbrook Lost Ball Turnover (P4.T5),39-31,39,31
-0022000179,2021-04-01,DET,WAS,14.67,2,9,20,DET,WAS,foul,9,False,False,,Westbrook C.P.FOUL (P2.T1) (J.Goble),39-31,39,31
 0022000179,2021-04-01,DET,WAS,14.67,2,9,20,WAS,DET,steal,2,False,True,steal,steal,39-31,39,31
+0022000179,2021-04-01,DET,WAS,14.67,2,9,20,DET,WAS,foul,9,False,False,,Westbrook C.P.FOUL (P2.T1) (J.Goble),39-31,39,31
 0022000179,2021-04-01,DET,WAS,14.67,2,9,20,DET,DET,ft_make,25,False,False,Joseph Free Throw Clear Path 1 of 2 (3 PTS),,40-31,40,31
 0022000179,2021-04-01,DET,WAS,14.67,2,9,20,DET,DET,ft_make,26,False,False,Joseph Free Throw Clear Path 2 of 2 (4 PTS),,41-31,41,31
 0022000179,2021-04-01,DET,WAS,14.87,2,9,8,DET,DET,fg3_miss,1,False,False,MISS Ellington 24' 3PT Jump Shot,,41-31,41,31
@@ -199,11 +199,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000179,2021-04-01,DET,WAS,22.25,2,1,45,DET,DET,fg_miss,6,False,False,MISS Grant 5' Driving Layup,,56-42,56,42
 0022000179,2021-04-01,DET,WAS,22.32,2,1,41,WAS,WAS,reb,0,False,False,,Len REBOUND (Off:1 Def:3),56-42,56,42
 0022000179,2021-04-01,DET,WAS,22.43,2,1,34,WAS,WAS,fg_miss,5,True,False,,MISS Len 2' Layup,56-42,56,42
-0022000179,2021-04-01,DET,WAS,22.43,2,1,34,WAS,WAS,reb,0,False,False,,Wizards Rebound,56-42,56,42
 0022000179,2021-04-01,DET,WAS,22.43,2,1,34,WAS,DET,block,5,True,False,block,block,56-42,56,42
+0022000179,2021-04-01,DET,WAS,22.43,2,1,34,WAS,WAS,reb,0,False,False,,Wizards Rebound,56-42,56,42
 0022000179,2021-04-01,DET,WAS,22.5,2,1,30,WAS,WAS,tov,1,False,True,,Westbrook Bad Pass Turnover (P5.T7),56-42,56,42
-0022000179,2021-04-01,DET,WAS,22.5,2,1,30,DET,WAS,foul,1,False,False,,Len P.FOUL (P2.PN) (S.Jelks),56-42,56,42
 0022000179,2021-04-01,DET,WAS,22.5,2,1,30,WAS,DET,steal,1,False,True,steal,steal,56-42,56,42
+0022000179,2021-04-01,DET,WAS,22.5,2,1,30,DET,WAS,foul,1,False,False,,Len P.FOUL (P2.PN) (S.Jelks),56-42,56,42
 0022000179,2021-04-01,DET,WAS,22.5,2,1,30,DET,DET,ft_make,11,False,False,Bey Free Throw 1 of 2 (7 PTS),,57-42,57,42
 0022000179,2021-04-01,DET,WAS,22.5,2,1,30,DET,DET,ft_make,12,False,False,Bey Free Throw 2 of 2 (8 PTS),,58-42,58,42
 0022000179,2021-04-01,DET,WAS,22.7,2,1,18,WAS,WAS,fg3_miss,1,False,False,,MISS Avdija 24' 3PT Jump Shot,58-42,58,42
@@ -254,14 +254,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000179,2021-04-01,DET,WAS,27.77,3,8,14,WAS,WAS,fg_make,52,False,False,,Len 2' Alley Oop Dunk (12 PTS) (Westbrook 6 AST),67-50,67,50
 0022000179,2021-04-01,DET,WAS,28.08,3,7,55,DET,DET,tov,40,False,False,Lee Out of Bounds Lost Ball Turnover (P1.T7),,67-50,67,50
 0022000179,2021-04-01,DET,WAS,28.3,3,7,42,WAS,WAS,fg_miss,3,False,False,,MISS Len 4' Hook Shot,67-50,67,50
-0022000179,2021-04-01,DET,WAS,28.32,3,7,41,DET,DET,reb,0,False,False,PISTONS Rebound,,67-50,67,50
 0022000179,2021-04-01,DET,WAS,28.32,3,7,41,,DET,jump_ball,0,False,False,,,67-50,67,50
+0022000179,2021-04-01,DET,WAS,28.32,3,7,41,DET,DET,reb,0,False,False,PISTONS Rebound,,67-50,67,50
 0022000179,2021-04-01,DET,WAS,28.48,3,7,31,DET,DET,fg3_make,1,False,False,Jackson 24' 3PT Jump Shot (23 PTS) (Grant 4 AST),,70-50,70,50
 0022000179,2021-04-01,DET,WAS,28.52,3,7,29,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.3 Short 0),70-50,70,50
 0022000179,2021-04-01,DET,WAS,28.73,3,7,16,WAS,WAS,fg_make,79,False,False,,Westbrook 17' Pullup Jump Shot (15 PTS),70-52,70,52
 0022000179,2021-04-01,DET,WAS,28.93,3,7,4,DET,DET,fg_miss,6,True,False,MISS Lee 2' Driving Layup,,70-52,70,52
-0022000179,2021-04-01,DET,WAS,28.93,3,7,4,DET,DET,reb,0,False,False,PISTONS Rebound,,70-52,70,52
 0022000179,2021-04-01,DET,WAS,28.93,3,7,4,DET,WAS,block,6,True,False,block,block,70-52,70,52
+0022000179,2021-04-01,DET,WAS,28.93,3,7,4,DET,DET,reb,0,False,False,PISTONS Rebound,,70-52,70,52
 0022000179,2021-04-01,DET,WAS,29.02,3,6,59,DET,DET,fg_miss,98,False,False,MISS Plumlee 3' Cutting Layup Shot,,70-52,70,52
 0022000179,2021-04-01,DET,WAS,29.07,3,6,56,WAS,WAS,reb,0,False,False,,Len REBOUND (Off:1 Def:4),70-52,70,52
 0022000179,2021-04-01,DET,WAS,29.3,3,6,42,WAS,WAS,fg_make,78,False,False,,Len 6' Floating Jump Shot (14 PTS) (Hachimura 2 AST),70-54,70,54
@@ -292,8 +292,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000179,2021-04-01,DET,WAS,31.97,3,4,2,WAS,DET,foul,4,False,False,Stewart OFF.Foul (P2) (S.Foster),,78-60,78,60
 0022000179,2021-04-01,DET,WAS,31.97,3,4,2,DET,DET,tov,37,False,False,Stewart Offensive Foul Turnover (P2.T9),,78-60,78,60
 0022000179,2021-04-01,DET,WAS,32.3,3,3,42,WAS,WAS,tov,2,False,True,,Lopez Lost Ball Turnover (P1.T11),78-60,78,60
-0022000179,2021-04-01,DET,WAS,32.3,3,3,42,DET,WAS,foul,1,False,False,,Lopez P.FOUL (P1.PN) (S.Jelks),78-60,78,60
 0022000179,2021-04-01,DET,WAS,32.3,3,3,42,WAS,DET,steal,2,False,True,steal,steal,78-60,78,60
+0022000179,2021-04-01,DET,WAS,32.3,3,3,42,DET,WAS,foul,1,False,False,,Lopez P.FOUL (P1.PN) (S.Jelks),78-60,78,60
 0022000179,2021-04-01,DET,WAS,32.3,3,3,42,DET,DET,ft_make,11,False,False,Joseph Free Throw 1 of 2 (7 PTS),,79-60,79,60
 0022000179,2021-04-01,DET,WAS,32.3,3,3,42,DET,DET,ft_make,12,False,False,Joseph Free Throw 2 of 2 (8 PTS),,80-60,80,60
 0022000179,2021-04-01,DET,WAS,32.48,3,3,31,WAS,WAS,fg_make,5,False,False,,Lopez 3' Layup (10 PTS) (Westbrook 9 AST),80-62,80,62
@@ -314,8 +314,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000179,2021-04-01,DET,WAS,33.33,3,2,40,DET,DET,reb,0,False,False,Cook REBOUND (Off:1 Def:1),,80-64,80,64
 0022000179,2021-04-01,DET,WAS,33.37,3,2,38,DET,DET,fg_miss,5,True,False,MISS Cook 2' Layup,,80-64,80,64
 0022000179,2021-04-01,DET,WAS,33.37,3,2,38,DET,WAS,block,5,True,False,block,block,80-64,80,64
-0022000179,2021-04-01,DET,WAS,33.47,3,2,32,DET,DET,fg_make,72,False,False,Cook 3' Putback Layup (2 PTS),,82-64,82,64
 0022000179,2021-04-01,DET,WAS,33.47,3,2,32,DET,DET,reb,0,False,False,Cook REBOUND (Off:2 Def:1),,82-64,82,64
+0022000179,2021-04-01,DET,WAS,33.47,3,2,32,DET,DET,fg_make,72,False,False,Cook 3' Putback Layup (2 PTS),,82-64,82,64
 0022000179,2021-04-01,DET,WAS,33.58,3,2,25,WAS,WAS,fg3_miss,1,False,False,,MISS Hutchison 24' 3PT Jump Shot,82-64,82,64
 0022000179,2021-04-01,DET,WAS,33.58,3,2,25,DET,DET,reb,0,False,False,PISTONS Rebound,,82-64,82,64
 0022000179,2021-04-01,DET,WAS,33.73,3,2,16,DET,DET,fg_miss,78,False,False,MISS Stewart 8' Floating Jump Shot,,82-64,82,64
@@ -326,8 +326,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000179,2021-04-01,DET,WAS,34.22,3,1,47,DET,DET,reb,0,False,False,Stewart REBOUND (Off:1 Def:4),,82-66,82,66
 0022000179,2021-04-01,DET,WAS,34.27,3,1,44,DET,DET,fg3_make,79,False,False,Ellington 27' 3PT Pullup Jump Shot (8 PTS) (Joseph 3 AST),,85-66,85,66
 0022000179,2021-04-01,DET,WAS,34.55,3,1,27,WAS,WAS,fg_miss,75,True,False,,MISS Westbrook 5' Driving Finger Roll Layup,85-66,85,66
-0022000179,2021-04-01,DET,WAS,34.55,3,1,27,DET,DET,reb,0,False,False,Ellington REBOUND (Off:0 Def:3),,85-66,85,66
 0022000179,2021-04-01,DET,WAS,34.55,3,1,27,WAS,DET,block,75,True,False,block,block,85-66,85,66
+0022000179,2021-04-01,DET,WAS,34.55,3,1,27,DET,DET,reb,0,False,False,Ellington REBOUND (Off:0 Def:3),,85-66,85,66
 0022000179,2021-04-01,DET,WAS,34.72,3,1,17,DET,DET,fg_miss,5,True,False,MISS Cook 3' Layup,,85-66,85,66
 0022000179,2021-04-01,DET,WAS,34.72,3,1,17,DET,WAS,block,5,True,False,block,block,85-66,85,66
 0022000179,2021-04-01,DET,WAS,34.78,3,1,13,WAS,WAS,reb,0,False,False,,Hutchison REBOUND (Off:0 Def:4),85-66,85,66

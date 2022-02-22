@@ -119,8 +119,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901265,2020-08-05,LAL,OKC,13.53,2,10,28,LAL,LAL,fg_miss,1,False,False,MISS Waiters 23' Jump Shot,,18-30,18,30
 0021901265,2020-08-05,LAL,OKC,13.55,2,10,27,OKC,OKC,reb,0,False,False,,Roberson REBOUND (Off:1 Def:2),18-30,18,30
 0021901265,2020-08-05,LAL,OKC,13.63,2,10,22,OKC,OKC,fg_miss,41,True,False,,MISS Diallo 3' Running Layup,18-30,18,30
-0021901265,2020-08-05,LAL,OKC,13.63,2,10,22,OKC,OKC,reb,0,False,False,,Thunder Rebound,18-30,18,30
 0021901265,2020-08-05,LAL,OKC,13.63,2,10,22,OKC,LAL,block,41,True,False,block,block,18-30,18,30
+0021901265,2020-08-05,LAL,OKC,13.63,2,10,22,OKC,OKC,reb,0,False,False,,Thunder Rebound,18-30,18,30
 0021901265,2020-08-05,LAL,OKC,13.77,2,10,14,OKC,OKC,fg_miss,6,False,False,,MISS Bazley 1' Driving Layup,18-30,18,30
 0021901265,2020-08-05,LAL,OKC,13.77,2,10,14,LAL,LAL,reb,0,False,False,LAKERS Rebound,,18-30,18,30
 0021901265,2020-08-05,LAL,OKC,13.92,2,10,5,LAL,LAL,fg_make,6,False,False,James 4' Driving Layup (5 PTS),,20-30,20,30
@@ -203,9 +203,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901265,2020-08-05,LAL,OKC,20.97,2,3,2,LAL,LAL,ft_make,12,False,False,James Free Throw 2 of 2 (10 PTS),,38-43,38,43
 0021901265,2020-08-05,LAL,OKC,21.23,2,2,46,OKC,OKC,fg_make,101,False,False,,Gallinari 9' Driving Floating Jump Shot (10 PTS) (Paul 3 AST),38-45,38,45
 0021901265,2020-08-05,LAL,OKC,21.33,2,2,40,LAL,LAL,fg_miss,75,True,False,MISS Caldwell-Pope 3' Driving Finger Roll Layup,,38-45,38,45
+0021901265,2020-08-05,LAL,OKC,21.33,2,2,40,LAL,OKC,block,75,True,False,block,block,38-45,38,45
 0021901265,2020-08-05,LAL,OKC,21.33,2,2,40,LAL,LAL,reb,0,False,False,Caldwell-Pope REBOUND (Off:1 Def:0),,38-45,38,45
 0021901265,2020-08-05,LAL,OKC,21.33,2,2,40,OKC,OKC,timeout,7,False,False,,Thunder Timeout: Coach Challenge (Reg.3 Short 0),38-45,38,45
-0021901265,2020-08-05,LAL,OKC,21.33,2,2,40,LAL,OKC,block,75,True,False,block,block,38-45,38,45
 0021901265,2020-08-05,LAL,OKC,21.5,2,2,30,,LAL,jump_ball,1,False,False,Jump Ball (CC) Davis vs. Noel: Tip to James,,38-45,38,45
 0021901265,2020-08-05,LAL,OKC,21.52,2,2,29,LAL,LAL,fg_miss,6,True,False,MISS James 3' Driving Layup,,38-45,38,45
 0021901265,2020-08-05,LAL,OKC,21.52,2,2,29,LAL,OKC,block,6,True,False,block,block,38-45,38,45
@@ -291,9 +291,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901265,2020-08-05,LAL,OKC,29.2,3,6,48,LAL,LAL,reb,0,False,False,Cook REBOUND (Off:0 Def:1),,51-62,51,62
 0021901265,2020-08-05,LAL,OKC,29.32,3,6,41,LAL,OKC,foul,2,False,False,,Noel S.FOUL (P3.T2) (M.Davis),51-62,51,62
 0021901265,2020-08-05,LAL,OKC,29.32,3,6,41,LAL,LAL,ft_make,11,False,False,Green Free Throw 1 of 2 (6 PTS),,52-62,52,62
+0021901265,2020-08-05,LAL,OKC,29.32,3,6,41,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.4 Short 0),52-62,52,62
 0021901265,2020-08-05,LAL,OKC,29.32,3,6,41,LAL,LAL,ft_miss,12,False,False,MISS Green Free Throw 2 of 2,,52-62,52,62
 0021901265,2020-08-05,LAL,OKC,29.32,3,6,41,OKC,OKC,reb,0,False,False,,Gilgeous-Alexander REBOUND (Off:0 Def:6),52-62,52,62
-0021901265,2020-08-05,LAL,OKC,29.32,3,6,41,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.4 Short 0),52-62,52,62
 0021901265,2020-08-05,LAL,OKC,29.53,3,6,28,OKC,OKC,fg_make,44,False,False,,Dort 2' Reverse Layup (9 PTS) (Paul 4 AST),52-64,52,64
 0021901265,2020-08-05,LAL,OKC,29.53,3,6,28,OKC,LAL,foul,2,False,False,Davis S.FOUL (P4.T1) (A.Smith),,52-64,52,64
 0021901265,2020-08-05,LAL,OKC,29.53,3,6,28,OKC,OKC,ft_make,10,False,False,,Dort Free Throw 1 of 1 (10 PTS),52-65,52,65

@@ -30,8 +30,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000779,2021-04-07,BKN,NOP,2.92,1,9,5,BKN,BKN,ft_make,11,False,False,Irving Free Throw 1 of 2 (1 PTS),,9-8,9,8
 0022000779,2021-04-07,BKN,NOP,2.92,1,9,5,BKN,BKN,ft_make,12,False,False,Irving Free Throw 2 of 2 (2 PTS),,10-8,10,8
 0022000779,2021-04-07,BKN,NOP,3.07,1,8,56,NOP,NOP,fg_miss,6,True,False,,MISS Williamson 2' Driving Layup,10-8,10,8
-0022000779,2021-04-07,BKN,NOP,3.07,1,8,56,NOP,NOP,reb,0,False,False,,Pelicans Rebound,10-8,10,8
 0022000779,2021-04-07,BKN,NOP,3.07,1,8,56,NOP,BKN,block,6,True,False,block,block,10-8,10,8
+0022000779,2021-04-07,BKN,NOP,3.07,1,8,56,NOP,NOP,reb,0,False,False,,Pelicans Rebound,10-8,10,8
 0022000779,2021-04-07,BKN,NOP,3.23,1,8,46,NOP,NOP,fg_make,6,False,False,,Williamson 2' Driving Layup (2 PTS) (Johnson 1 AST),10-10,10,10
 0022000779,2021-04-07,BKN,NOP,3.38,1,8,37,BKN,BKN,fg3_miss,79,False,False,MISS Harris 25' 3PT Pullup Jump Shot,,10-10,10,10
 0022000779,2021-04-07,BKN,NOP,3.43,1,8,34,NOP,NOP,reb,0,False,False,,Johnson REBOUND (Off:1 Def:1),10-10,10,10
@@ -85,9 +85,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000779,2021-04-07,BKN,NOP,7.4,1,4,36,NOP,NOP,reb,0,False,False,,Bledsoe REBOUND (Off:1 Def:1),21-18,21,18
 0022000779,2021-04-07,BKN,NOP,7.58,1,4,25,NOP,NOP,tov,1,False,True,,Hernangomez Bad Pass Turnover (P1.T3),21-18,21,18
 0022000779,2021-04-07,BKN,NOP,7.58,1,4,25,NOP,BKN,steal,1,False,True,steal,steal,21-18,21,18
-0022000779,2021-04-07,BKN,NOP,7.62,1,4,23,BKN,BKN,fg_make,41,False,False,Green 4' Running Layup (5 PTS),,23-18,23,18
 0022000779,2021-04-07,BKN,NOP,7.62,1,4,23,BKN,NOP,foul,2,False,False,,Marshall S.FOUL (P1.T4) (J.Capers),23-18,23,18
 0022000779,2021-04-07,BKN,NOP,7.62,1,4,23,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 2 Short 0),,23-18,23,18
+0022000779,2021-04-07,BKN,NOP,7.62,1,4,23,BKN,BKN,fg_make,41,False,False,Green 4' Running Layup (5 PTS),,23-18,23,18
 0022000779,2021-04-07,BKN,NOP,7.62,1,4,23,BKN,BKN,ft_make,10,False,False,Green Free Throw 1 of 1 (6 PTS),,24-18,24,18
 0022000779,2021-04-07,BKN,NOP,7.9,1,4,6,NOP,NOP,fg3_make,1,False,False,,Johnson 3PT Jump Shot (7 PTS) (Bledsoe 1 AST),24-21,24,21
 0022000779,2021-04-07,BKN,NOP,8.2,1,3,48,BKN,NOP,foul,1,False,False,,Hayes P.FOUL (P1.PN) (J.Capers),24-21,24,21
@@ -268,8 +268,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000779,2021-04-07,BKN,NOP,24.93,3,11,4,NOP,BKN,foul,1,False,False,Durant P.FOUL (P1.T1) (K.Cutler),,82-59,82,59
 0022000779,2021-04-07,BKN,NOP,24.93,3,11,4,NOP,NOP,timeout,1,False,False,,Pelicans Timeout: Regular (Reg.4 Short 0),82-59,82,59
 0022000779,2021-04-07,BKN,NOP,25.08,3,10,55,NOP,NOP,fg_miss,6,True,False,,MISS Johnson 6' Driving Layup,82-59,82,59
-0022000779,2021-04-07,BKN,NOP,25.08,3,10,55,BKN,BKN,reb,0,False,False,NETS Rebound,,82-59,82,59
 0022000779,2021-04-07,BKN,NOP,25.08,3,10,55,NOP,BKN,block,6,True,False,block,block,82-59,82,59
+0022000779,2021-04-07,BKN,NOP,25.08,3,10,55,BKN,BKN,reb,0,False,False,NETS Rebound,,82-59,82,59
 0022000779,2021-04-07,BKN,NOP,25.32,3,10,41,BKN,BKN,fg_make,52,False,False,Aldridge 2' Alley Oop Dunk (16 PTS) (Durant 3 AST),,84-59,84,59
 0022000779,2021-04-07,BKN,NOP,25.57,3,10,26,NOP,NOP,fg3_make,1,False,False,,Bledsoe 26' 3PT Jump Shot (20 PTS) (Johnson 3 AST),84-62,84,62
 0022000779,2021-04-07,BKN,NOP,25.88,3,10,7,BKN,BKN,fg_make,79,False,False,Harris 13' Pullup Jump Shot (11 PTS) (Aldridge 1 AST),,86-62,86,62
@@ -330,8 +330,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000779,2021-04-07,BKN,NOP,33.5,3,2,30,NOP,NOP,ft_make,12,False,False,,Bledsoe Free Throw 2 of 2 (24 PTS),108-76,108,76
 0022000779,2021-04-07,BKN,NOP,33.85,3,2,9,BKN,BKN,fg3_make,1,False,False,Luwawu-Cabarrot 3PT Jump Shot (3 PTS) (Durant 5 AST),,111-76,111,76
 0022000779,2021-04-07,BKN,NOP,34.28,3,1,43,NOP,NOP,fg_miss,6,True,False,,MISS Bledsoe 6' Driving Layup,111-76,111,76
-0022000779,2021-04-07,BKN,NOP,34.28,3,1,43,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:2 Def:1),,111-76,111,76
 0022000779,2021-04-07,BKN,NOP,34.28,3,1,43,NOP,BKN,block,6,True,False,block,block,111-76,111,76
+0022000779,2021-04-07,BKN,NOP,34.28,3,1,43,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:2 Def:1),,111-76,111,76
 0022000779,2021-04-07,BKN,NOP,34.4,3,1,36,BKN,BKN,fg_miss,50,False,False,MISS Brown 1' Running Dunk,,111-76,111,76
 0022000779,2021-04-07,BKN,NOP,34.43,3,1,34,NOP,NOP,reb,0,False,False,,Johnson REBOUND (Off:4 Def:2),111-76,111,76
 0022000779,2021-04-07,BKN,NOP,34.52,3,1,29,NOP,NOP,fg_make,78,False,False,,Bledsoe 8' Floating Jump Shot (26 PTS) (Johnson 5 AST),111-78,111,78
@@ -340,8 +340,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000779,2021-04-07,BKN,NOP,34.52,3,1,29,BKN,BKN,ft_make,16,False,False,Irving Free Throw Technical (23 PTS),,112-78,112,78
 0022000779,2021-04-07,BKN,NOP,34.52,3,1,29,BKN,NOP,foul,11,False,False,,Bledsoe T.FOUL (P1.T0) (K.Cutler),112-78,112,78
 0022000779,2021-04-07,BKN,NOP,34.52,3,1,29,BKN,BKN,ft_make,16,False,False,Irving Free Throw Technical (24 PTS),,113-78,113,78
-0022000779,2021-04-07,BKN,NOP,34.52,3,1,29,BKN,NOP,ejection,4,False,False,,Bledsoe Ejection:Other,113-78,113,78
 0022000779,2021-04-07,BKN,NOP,34.52,3,1,29,NOP,NOP,ft_miss,10,False,False,,MISS Adams Free Throw 1 of 1,113-78,113,78
+0022000779,2021-04-07,BKN,NOP,34.52,3,1,29,BKN,NOP,ejection,4,False,False,,Bledsoe Ejection:Other,113-78,113,78
 0022000779,2021-04-07,BKN,NOP,34.55,3,1,27,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:0 Def:6),,113-78,113,78
 0022000779,2021-04-07,BKN,NOP,34.75,3,1,15,BKN,BKN,tov,2,False,True,Durant Lost Ball Turnover (P5.T11),,113-78,113,78
 0022000779,2021-04-07,BKN,NOP,34.75,3,1,15,BKN,NOP,steal,2,False,True,steal,steal,113-78,113,78

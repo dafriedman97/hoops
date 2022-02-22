@@ -46,8 +46,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700218,2017-11-17,WAS,MIA,5.17,1,6,50,WAS,WAS,fg_miss,75,False,False,MISS Beal 1' Driving Finger Roll Layup,,7-13,7,13
 0021700218,2017-11-17,WAS,MIA,5.2,1,6,48,MIA,MIA,reb,0,False,False,,Whiteside REBOUND (Off:0 Def:5),7-13,7,13
 0021700218,2017-11-17,WAS,MIA,5.27,1,6,44,MIA,MIA,fg_miss,5,True,False,,MISS Richardson 1' Layup,7-13,7,13
-0021700218,2017-11-17,WAS,MIA,5.27,1,6,44,WAS,WAS,reb,0,False,False,Wall REBOUND (Off:0 Def:1),,7-13,7,13
 0021700218,2017-11-17,WAS,MIA,5.27,1,6,44,MIA,WAS,block,5,True,False,block,block,7-13,7,13
+0021700218,2017-11-17,WAS,MIA,5.27,1,6,44,WAS,WAS,reb,0,False,False,Wall REBOUND (Off:0 Def:1),,7-13,7,13
 0021700218,2017-11-17,WAS,MIA,5.52,1,6,29,WAS,WAS,fg_make,3,False,False,Gortat 11' Hook Shot (3 PTS),,9-13,9,13
 0021700218,2017-11-17,WAS,MIA,5.82,1,6,11,MIA,MIA,fg3_miss,1,False,False,,MISS Johnson 27' 3PT Jump Shot,9-13,9,13
 0021700218,2017-11-17,WAS,MIA,5.87,1,6,8,WAS,WAS,reb,0,False,False,Gortat REBOUND (Off:0 Def:1),,9-13,9,13
@@ -145,8 +145,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700218,2017-11-17,WAS,MIA,16.18,2,7,49,MIA,MIA,fg3_make,1,False,False,,Olynyk 3PT Jump Shot (5 PTS) (Johnson 3 AST),19-37,19,37
 0021700218,2017-11-17,WAS,MIA,16.43,2,7,34,WAS,WAS,fg_make,78,False,False,Scott 6' Floating Jump Shot (4 PTS) (Frazier 1 AST),,21-37,21,37
 0021700218,2017-11-17,WAS,MIA,16.75,2,7,15,MIA,MIA,fg_miss,1,True,False,,MISS Winslow 3' Jump Shot,21-37,21,37
-0021700218,2017-11-17,WAS,MIA,16.75,2,7,15,MIA,MIA,reb,0,False,False,,Olynyk REBOUND (Off:3 Def:1),21-37,21,37
 0021700218,2017-11-17,WAS,MIA,16.75,2,7,15,MIA,WAS,block,1,True,False,block,block,21-37,21,37
+0021700218,2017-11-17,WAS,MIA,16.75,2,7,15,MIA,MIA,reb,0,False,False,,Olynyk REBOUND (Off:3 Def:1),21-37,21,37
 0021700218,2017-11-17,WAS,MIA,16.85,2,7,9,MIA,MIA,fg3_make,1,False,False,,Richardson 27' 3PT Jump Shot (3 PTS),21-40,21,40
 0021700218,2017-11-17,WAS,MIA,17.02,2,6,59,WAS,WAS,fg_miss,5,False,False,MISS Frazier 2' Layup,,21-40,21,40
 0021700218,2017-11-17,WAS,MIA,17.02,2,6,59,WAS,WAS,reb,0,False,False,Oubre Jr. REBOUND (Off:1 Def:3),,21-40,21,40
@@ -198,8 +198,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700218,2017-11-17,WAS,MIA,21.95,2,2,3,WAS,MIA,steal,1,False,True,steal,steal,25-48,25,48
 0021700218,2017-11-17,WAS,MIA,22.0,2,2,0,MIA,MIA,fg_make,5,False,False,,Waiters 1' Layup (7 PTS) (Dragic 5 AST),25-50,25,50
 0021700218,2017-11-17,WAS,MIA,22.33,2,1,40,WAS,WAS,fg_miss,5,True,False,MISS Wall 1' Layup,,25-50,25,50
-0021700218,2017-11-17,WAS,MIA,22.33,2,1,40,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,25-50,25,50
 0021700218,2017-11-17,WAS,MIA,22.33,2,1,40,WAS,MIA,block,5,True,False,block,block,25-50,25,50
+0021700218,2017-11-17,WAS,MIA,22.33,2,1,40,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,25-50,25,50
 0021700218,2017-11-17,WAS,MIA,22.45,2,1,33,WAS,WAS,fg_make,5,False,False,Porter Jr. 2' Layup (6 PTS) (Morris 2 AST),,27-50,27,50
 0021700218,2017-11-17,WAS,MIA,22.73,2,1,16,MIA,MIA,tov,2,False,True,,Adebayo Lost Ball Turnover (P1.T7),27-50,27,50
 0021700218,2017-11-17,WAS,MIA,22.73,2,1,16,MIA,WAS,steal,2,False,True,steal,steal,27-50,27,50
@@ -299,8 +299,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700218,2017-11-17,WAS,MIA,35.2,3,0,48,WAS,MIA,foul,2,False,False,,Olynyk S.FOUL (P4.PN) (S.Wall),54-66,54,66
 0021700218,2017-11-17,WAS,MIA,35.2,3,0,48,WAS,WAS,ft_miss,11,False,False,MISS Beal Free Throw 1 of 2,,54-66,54,66
 0021700218,2017-11-17,WAS,MIA,35.2,3,0,48,WAS,WAS,reb,1,False,False,WIZARDS Rebound,,54-66,54,66
-0021700218,2017-11-17,WAS,MIA,35.2,3,0,48,WAS,,violation,1,False,False,,,54-66,54,66
 0021700218,2017-11-17,WAS,MIA,35.2,3,0,48,WAS,WAS,ft_make,12,False,False,Beal Free Throw 2 of 2 (16 PTS),,55-66,55,66
+0021700218,2017-11-17,WAS,MIA,35.2,3,0,48,WAS,,violation,1,False,False,,,54-66,54,66
 0021700218,2017-11-17,WAS,MIA,35.48,3,0,31,MIA,MIA,fg_miss,1,False,False,,MISS Johnson 16' Jump Shot,55-66,55,66
 0021700218,2017-11-17,WAS,MIA,35.55,3,0,27,WAS,WAS,reb,0,False,False,Beal REBOUND (Off:0 Def:5),,55-66,55,66
 0021700218,2017-11-17,WAS,MIA,35.9,3,0,6,WAS,WAS,fg_make,1,False,False,Beal 20' Jump Shot (18 PTS),,57-66,57,66

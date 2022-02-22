@@ -310,10 +310,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900699,2020-01-28,CHA,NYK,35.92,3,0,5,NYK,NYK,reb,0,False,False,,Morris Sr. REBOUND (Off:0 Def:2),68-66,68,66
 0021900699,2020-01-28,CHA,NYK,35.97,3,0,2,NYK,CHA,foul,28,False,False,Martin Personal Take Foul (P1.T4) (J.Van Duyne),,68-66,68,66
 0021900699,2020-01-28,CHA,NYK,36.0,3,0,0,NYK,NYK,fg_miss,6,True,False,,MISS Portis 3' Driving Layup,68-66,68,66
+0021900699,2020-01-28,CHA,NYK,36.0,3,0,0,NYK,CHA,block,6,True,False,block,block,68-66,68,66
 0021900699,2020-01-28,CHA,NYK,36.0,3,0,0,NYK,NYK,reb,0,False,False,,Knicks Rebound,68-66,68,66
 0021900699,2020-01-28,CHA,NYK,36.0,3,0,0,NYK,,period_end,0,False,False,,,68-66,68,66
 0021900699,2020-01-28,CHA,NYK,36.0,4,12,0,NYK,,period_start,0,False,False,,,68-66,68,66
-0021900699,2020-01-28,CHA,NYK,36.0,3,0,0,NYK,CHA,block,6,True,False,block,block,68-66,68,66
 0021900699,2020-01-28,CHA,NYK,36.28,4,11,43,CHA,CHA,fg3_make,1,False,False,Hernangomez 3PT Jump Shot (10 PTS) (Graham 9 AST),,71-66,71,66
 0021900699,2020-01-28,CHA,NYK,36.58,4,11,25,NYK,NYK,fg_miss,63,False,False,,MISS Dotson 14' Fadeaway Jumper,71-66,71,66
 0021900699,2020-01-28,CHA,NYK,36.62,4,11,23,CHA,CHA,reb,0,False,False,Martin REBOUND (Off:1 Def:1),,71-66,71,66
@@ -369,8 +369,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900699,2020-01-28,CHA,NYK,43.28,4,4,43,NYK,NYK,fg3_miss,1,False,False,,MISS Morris Sr. 26' 3PT Jump Shot,81-72,81,72
 0021900699,2020-01-28,CHA,NYK,43.35,4,4,39,CHA,CHA,reb,0,False,False,Rozier REBOUND (Off:1 Def:7),,81-72,81,72
 0021900699,2020-01-28,CHA,NYK,43.55,4,4,27,CHA,CHA,fg_miss,6,True,False,MISS Washington 4' Driving Layup,,81-72,81,72
-0021900699,2020-01-28,CHA,NYK,43.55,4,4,27,CHA,CHA,reb,0,False,False,HORNETS Rebound,,81-72,81,72
 0021900699,2020-01-28,CHA,NYK,43.55,4,4,27,CHA,NYK,block,6,True,False,block,block,81-72,81,72
+0021900699,2020-01-28,CHA,NYK,43.55,4,4,27,CHA,CHA,reb,0,False,False,HORNETS Rebound,,81-72,81,72
 0021900699,2020-01-28,CHA,NYK,43.62,4,4,23,CHA,CHA,fg3_miss,79,False,False,MISS Graham 25' 3PT Pullup Jump Shot,,81-72,81,72
 0021900699,2020-01-28,CHA,NYK,43.68,4,4,19,NYK,NYK,reb,0,False,False,,Payton REBOUND (Off:0 Def:7),81-72,81,72
 0021900699,2020-01-28,CHA,NYK,43.88,4,4,7,NYK,NYK,fg_make,6,False,False,,Randle 2' Driving Layup (22 PTS) (Morris Sr. 1 AST),81-74,81,74
@@ -391,8 +391,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900699,2020-01-28,CHA,NYK,45.57,4,2,26,NYK,NYK,ft_make,12,False,False,,Randle Free Throw 2 of 2 (24 PTS),86-79,86,79
 0021900699,2020-01-28,CHA,NYK,45.88,4,2,7,CHA,CHA,fg_make,6,False,False,Zeller Driving Layup (10 PTS) (Graham 10 AST),,88-79,88,79
 0021900699,2020-01-28,CHA,NYK,46.07,4,1,56,CHA,NYK,foul,4,False,False,,Morris Sr. OFF.Foul (P4) (S.Wright),88-79,88,79
-0021900699,2020-01-28,CHA,NYK,46.07,4,1,56,NYK,NYK,tov,37,False,False,,Morris Sr. Offensive Foul Turnover (P4.T13),88-79,88,79
 0021900699,2020-01-28,CHA,NYK,46.07,4,1,56,CHA,CHA,timeout,7,False,False,HORNETS Timeout: Coach Challenge (Full 4 Short 0),,88-79,88,79
+0021900699,2020-01-28,CHA,NYK,46.07,4,1,56,NYK,NYK,tov,37,False,False,,Morris Sr. Offensive Foul Turnover (P4.T13),88-79,88,79
 0021900699,2020-01-28,CHA,NYK,46.43,4,1,34,CHA,CHA,fg_miss,5,True,False,MISS Zeller 3' Layup,,88-79,88,79
 0021900699,2020-01-28,CHA,NYK,46.43,4,1,34,CHA,NYK,block,5,True,False,block,block,88-79,88,79
 0021900699,2020-01-28,CHA,NYK,46.5,4,1,30,NYK,NYK,reb,0,False,False,,Payton REBOUND (Off:0 Def:8),88-79,88,79

@@ -38,9 +38,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900678,2020-01-24,SAS,PHX,4.98,1,7,1,SAS,SAS,reb,0,False,False,Forbes REBOUND (Off:1 Def:0),,13-11,13,11
 0021900678,2020-01-24,SAS,PHX,5.0,1,7,0,SAS,SAS,tov,40,False,False,Murray Out of Bounds Lost Ball Turnover (P1.T1),,13-11,13,11
 0021900678,2020-01-24,SAS,PHX,5.23,1,6,46,PHX,PHX,tov,1,False,True,,Saric Bad Pass Turnover (P1.T1),13-11,13,11
+0021900678,2020-01-24,SAS,PHX,5.23,1,6,46,PHX,SAS,steal,1,False,True,steal,steal,13-11,13,11
 0021900678,2020-01-24,SAS,PHX,5.23,1,6,46,SAS,PHX,foul,1,False,False,,Rubio P.FOUL (P1.T3) (A.Moyer-Gleich),13-11,13,11
 0021900678,2020-01-24,SAS,PHX,5.23,1,6,46,SAS,SAS,timeout,1,False,False,SPURS Timeout: Regular (Full 1 Short 0),,13-11,13,11
-0021900678,2020-01-24,SAS,PHX,5.23,1,6,46,PHX,SAS,steal,1,False,True,steal,steal,13-11,13,11
 0021900678,2020-01-24,SAS,PHX,5.47,1,6,32,SAS,PHX,foul,2,False,False,,Oubre Jr. S.FOUL (P1.T4) (A.Smith),13-11,13,11
 0021900678,2020-01-24,SAS,PHX,5.47,1,6,32,SAS,SAS,ft_make,11,False,False,DeRozan Free Throw 1 of 2 (5 PTS),,14-11,14,11
 0021900678,2020-01-24,SAS,PHX,5.47,1,6,32,SAS,SAS,ft_make,12,False,False,DeRozan Free Throw 2 of 2 (6 PTS),,15-11,15,11
@@ -54,8 +54,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900678,2020-01-24,SAS,PHX,6.53,1,5,28,SAS,SAS,fg3_make,1,False,False,Aldridge 25' 3PT Jump Shot (7 PTS) (DeRozan 1 AST),,18-13,18,13
 0021900678,2020-01-24,SAS,PHX,6.78,1,5,13,PHX,SAS,foul,1,False,False,Forbes P.FOUL (P2.T3) (A.Smith),,18-13,18,13
 0021900678,2020-01-24,SAS,PHX,6.92,1,5,5,PHX,PHX,fg_miss,5,False,False,,MISS Booker 3' Layup,18-13,18,13
-0021900678,2020-01-24,SAS,PHX,7.0,1,5,0,PHX,PHX,fg_make,97,False,False,,Oubre Jr. 1' Tip Layup Shot (2 PTS),18-15,18,15
 0021900678,2020-01-24,SAS,PHX,7.0,1,5,0,PHX,PHX,reb,0,False,False,,Oubre Jr. REBOUND (Off:1 Def:0),18-15,18,15
+0021900678,2020-01-24,SAS,PHX,7.0,1,5,0,PHX,PHX,fg_make,97,False,False,,Oubre Jr. 1' Tip Layup Shot (2 PTS),18-15,18,15
 0021900678,2020-01-24,SAS,PHX,7.25,1,4,45,SAS,SAS,fg_make,5,False,False,Aldridge 2' Layup (9 PTS) (Mills 1 AST),,20-15,20,15
 0021900678,2020-01-24,SAS,PHX,7.47,1,4,32,SAS,PHX,foul,4,False,False,,Ayton OFF.Foul (P2) (T.Washington),20-15,20,15
 0021900678,2020-01-24,SAS,PHX,7.47,1,4,32,PHX,PHX,tov,37,False,False,,Ayton Offensive Foul Turnover (P1.T2),20-15,20,15
@@ -120,8 +120,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900678,2020-01-24,SAS,PHX,14.23,2,9,46,SAS,PHX,block,101,True,False,block,block,33-24,33,24
 0021900678,2020-01-24,SAS,PHX,14.32,2,9,41,PHX,PHX,reb,0,False,False,,Jerome REBOUND (Off:0 Def:1),33-24,33,24
 0021900678,2020-01-24,SAS,PHX,14.33,2,9,40,PHX,PHX,fg_miss,41,True,False,,MISS Bridges 12' Running Layup,33-24,33,24
-0021900678,2020-01-24,SAS,PHX,14.33,2,9,40,PHX,PHX,reb,0,False,False,,Bridges REBOUND (Off:1 Def:0),33-24,33,24
 0021900678,2020-01-24,SAS,PHX,14.33,2,9,40,PHX,SAS,block,41,True,False,block,block,33-24,33,24
+0021900678,2020-01-24,SAS,PHX,14.33,2,9,40,PHX,PHX,reb,0,False,False,,Bridges REBOUND (Off:1 Def:0),33-24,33,24
 0021900678,2020-01-24,SAS,PHX,14.45,2,9,33,PHX,PHX,fg3_make,1,False,False,,Rubio 3PT Jump Shot (5 PTS) (Bridges 3 AST),33-27,33,27
 0021900678,2020-01-24,SAS,PHX,14.82,2,9,11,SAS,SAS,fg_make,108,False,False,Poeltl 1' Cutting Dunk Shot (2 PTS) (White 2 AST),,35-27,35,27
 0021900678,2020-01-24,SAS,PHX,14.95,2,9,3,PHX,PHX,fg_miss,1,False,False,,MISS Ayton 17' Jump Shot,35-27,35,27
@@ -184,8 +184,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900678,2020-01-24,SAS,PHX,21.38,2,2,37,SAS,PHX,steal,2,False,True,steal,steal,38-50,38,50
 0021900678,2020-01-24,SAS,PHX,21.45,2,2,33,PHX,PHX,fg3_make,1,False,False,,Saric 3PT Jump Shot (12 PTS) (Bridges 4 AST),38-53,38,53
 0021900678,2020-01-24,SAS,PHX,21.68,2,2,19,SAS,SAS,fg_miss,5,True,False,MISS DeRozan 3' Layup,,38-53,38,53
-0021900678,2020-01-24,SAS,PHX,21.68,2,2,19,PHX,PHX,reb,0,False,False,,Bridges REBOUND (Off:1 Def:1),38-53,38,53
 0021900678,2020-01-24,SAS,PHX,21.68,2,2,19,SAS,PHX,block,5,True,False,block,block,38-53,38,53
+0021900678,2020-01-24,SAS,PHX,21.68,2,2,19,PHX,PHX,reb,0,False,False,,Bridges REBOUND (Off:1 Def:1),38-53,38,53
 0021900678,2020-01-24,SAS,PHX,21.8,2,2,12,PHX,PHX,fg3_miss,2,False,False,,MISS Booker 25' 3PT Running Jump Shot,38-53,38,53
 0021900678,2020-01-24,SAS,PHX,21.82,2,2,11,SAS,SAS,reb,0,False,False,SPURS Rebound,,38-53,38,53
 0021900678,2020-01-24,SAS,PHX,22.13,2,1,52,SAS,SAS,fg3_miss,1,False,False,MISS Mills 26' 3PT Jump Shot,,38-53,38,53
@@ -196,14 +196,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900678,2020-01-24,SAS,PHX,22.72,2,1,17,SAS,SAS,ft_make,11,False,False,White Free Throw 1 of 2 (6 PTS),,39-53,39,53
 0021900678,2020-01-24,SAS,PHX,22.72,2,1,17,SAS,SAS,ft_make,12,False,False,White Free Throw 2 of 2 (7 PTS),,40-53,40,53
 0021900678,2020-01-24,SAS,PHX,22.9,2,1,6,PHX,PHX,fg_miss,75,True,False,,MISS Booker 8' Driving Finger Roll Layup,40-53,40,53
-0021900678,2020-01-24,SAS,PHX,22.9,2,1,6,PHX,PHX,reb,0,False,False,,Suns Rebound,40-53,40,53
 0021900678,2020-01-24,SAS,PHX,22.9,2,1,6,PHX,SAS,block,75,True,False,block,block,40-53,40,53
+0021900678,2020-01-24,SAS,PHX,22.9,2,1,6,PHX,PHX,reb,0,False,False,,Suns Rebound,40-53,40,53
 0021900678,2020-01-24,SAS,PHX,22.93,2,1,4,PHX,PHX,fg3_miss,1,False,False,,MISS Saric 26' 3PT Jump Shot,40-53,40,53
 0021900678,2020-01-24,SAS,PHX,23.03,2,0,58,SAS,SAS,reb,0,False,False,White REBOUND (Off:0 Def:1),,40-53,40,53
 0021900678,2020-01-24,SAS,PHX,23.07,2,0,56,SAS,SAS,fg_make,6,False,False,DeRozan 4' Driving Layup (10 PTS),,42-53,42,53
 0021900678,2020-01-24,SAS,PHX,23.45,2,0,33,PHX,PHX,fg_miss,79,True,False,,MISS Booker 16' Pullup Jump Shot,42-53,42,53
-0021900678,2020-01-24,SAS,PHX,23.45,2,0,33,SAS,SAS,reb,0,False,False,White REBOUND (Off:0 Def:2),,42-53,42,53
 0021900678,2020-01-24,SAS,PHX,23.45,2,0,33,PHX,SAS,block,79,True,False,block,block,42-53,42,53
+0021900678,2020-01-24,SAS,PHX,23.45,2,0,33,SAS,SAS,reb,0,False,False,White REBOUND (Off:0 Def:2),,42-53,42,53
 0021900678,2020-01-24,SAS,PHX,23.53,2,0,28,SAS,SAS,fg_miss,41,False,False,MISS White 2' Running Layup,,42-53,42,53
 0021900678,2020-01-24,SAS,PHX,23.6,2,0,24,SAS,SAS,reb,0,False,False,DeRozan REBOUND (Off:1 Def:2),,42-53,42,53
 0021900678,2020-01-24,SAS,PHX,23.6,2,0,24,SAS,SAS,fg_make,107,False,False,DeRozan 1' Tip Dunk Shot (12 PTS),,44-53,44,53
@@ -328,8 +328,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900678,2020-01-24,SAS,PHX,36.65,4,11,21,PHX,SAS,steal,1,False,True,steal,steal,75-78,75,78
 0021900678,2020-01-24,SAS,PHX,36.85,4,11,9,SAS,PHX,foul,1,False,False,,Oubre Jr. P.FOUL (P5.T1) (A.Moyer-Gleich),75-78,75,78
 0021900678,2020-01-24,SAS,PHX,37.02,4,10,59,SAS,SAS,tov,2,False,True,Gay Lost Ball Turnover (P1.T11),,75-78,75,78
-0021900678,2020-01-24,SAS,PHX,37.02,4,10,59,PHX,SAS,foul,1,False,False,Gay P.FOUL (P1.T1) (T.Washington),,75-78,75,78
 0021900678,2020-01-24,SAS,PHX,37.02,4,10,59,SAS,PHX,steal,2,False,True,steal,steal,75-78,75,78
+0021900678,2020-01-24,SAS,PHX,37.02,4,10,59,PHX,SAS,foul,1,False,False,Gay P.FOUL (P1.T1) (T.Washington),,75-78,75,78
 0021900678,2020-01-24,SAS,PHX,37.27,4,10,44,PHX,PHX,fg_miss,80,False,False,,MISS Rubio 12' Step Back Jump Shot,75-78,75,78
 0021900678,2020-01-24,SAS,PHX,37.33,4,10,40,SAS,SAS,reb,0,False,False,Murray REBOUND (Off:1 Def:4),,75-78,75,78
 0021900678,2020-01-24,SAS,PHX,37.42,4,10,35,SAS,SAS,fg_make,73,False,False,Gay 3' Driving Reverse Layup (6 PTS) (Walker IV 2 AST),,77-78,77,78

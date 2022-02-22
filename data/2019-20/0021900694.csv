@@ -34,9 +34,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900694,2020-01-27,MIA,ORL,5.65,1,6,21,MIA,MIA,fg_miss,98,False,False,MISS Adebayo 2' Cutting Layup Shot,,14-13,14,13
 0021900694,2020-01-27,MIA,ORL,5.68,1,6,19,ORL,ORL,reb,0,False,False,,Vucevic REBOUND (Off:0 Def:2),14-13,14,13
 0021900694,2020-01-27,MIA,ORL,5.78,1,6,13,ORL,ORL,fg_miss,5,True,False,,MISS Birch 1' Layup,14-13,14,13
+0021900694,2020-01-27,MIA,ORL,5.78,1,6,13,ORL,MIA,block,5,True,False,block,block,14-13,14,13
 0021900694,2020-01-27,MIA,ORL,5.78,1,6,13,ORL,ORL,reb,0,False,False,,Magic Rebound,14-13,14,13
 0021900694,2020-01-27,MIA,ORL,5.78,1,6,13,ORL,ORL,timeout,1,False,False,,Magic Timeout: Regular (Reg.1 Short 0),14-13,14,13
-0021900694,2020-01-27,MIA,ORL,5.78,1,6,13,ORL,MIA,block,5,True,False,block,block,14-13,14,13
 0021900694,2020-01-27,MIA,ORL,5.85,1,6,9,ORL,ORL,fg3_miss,1,False,False,,MISS Fournier 24' 3PT Jump Shot,14-13,14,13
 0021900694,2020-01-27,MIA,ORL,5.9,1,6,6,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:0 Def:2),,14-13,14,13
 0021900694,2020-01-27,MIA,ORL,6.15,1,5,51,MIA,MIA,fg_make,98,False,False,Robinson 1' Cutting Layup Shot (2 PTS) (Adebayo 2 AST),,16-13,16,13
@@ -164,8 +164,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900694,2020-01-27,MIA,ORL,21.35,2,2,39,MIA,MIA,fg_miss,102,False,False,MISS Butler 4' Driving Floating Bank Jump Shot,,49-42,49,42
 0021900694,2020-01-27,MIA,ORL,21.4,2,2,36,ORL,ORL,reb,0,False,False,,Gordon REBOUND (Off:0 Def:4),49-42,49,42
 0021900694,2020-01-27,MIA,ORL,21.43,2,2,34,ORL,ORL,fg_miss,6,True,False,,MISS Gordon 2' Driving Layup,49-42,49,42
-0021900694,2020-01-27,MIA,ORL,21.43,2,2,34,ORL,ORL,reb,0,False,False,,Vucevic REBOUND (Off:1 Def:6),49-42,49,42
 0021900694,2020-01-27,MIA,ORL,21.43,2,2,34,ORL,MIA,block,6,True,False,block,block,49-42,49,42
+0021900694,2020-01-27,MIA,ORL,21.43,2,2,34,ORL,ORL,reb,0,False,False,,Vucevic REBOUND (Off:1 Def:6),49-42,49,42
 0021900694,2020-01-27,MIA,ORL,21.5,2,2,30,ORL,ORL,fg_make,43,False,False,,Fultz 3' Alley Oop Layup (5 PTS) (Fournier 4 AST),49-44,49,44
 0021900694,2020-01-27,MIA,ORL,21.6,2,2,24,MIA,ORL,foul,1,False,False,,Iwundu P.FOUL (P1.T3) (T.Ford),49-44,49,44
 0021900694,2020-01-27,MIA,ORL,21.83,2,2,10,MIA,MIA,fg3_make,63,False,False,Robinson 24' 3PT Fadeaway Jumper (8 PTS) (Adebayo 4 AST),,52-44,52,44
@@ -264,8 +264,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900694,2020-01-27,MIA,ORL,34.6,3,1,24,ORL,ORL,reb,0,False,False,,Bamba REBOUND (Off:2 Def:1),83-66,83,66
 0021900694,2020-01-27,MIA,ORL,34.6,3,1,24,ORL,ORL,fg_make,97,False,False,,Bamba 1' Tip Layup Shot (10 PTS),83-68,83,68
 0021900694,2020-01-27,MIA,ORL,34.82,3,1,11,MIA,MIA,fg_miss,58,True,False,MISS Johnson 3' Turnaround Hook Shot,,83-68,83,68
-0021900694,2020-01-27,MIA,ORL,34.82,3,1,11,MIA,MIA,reb,0,False,False,HEAT Rebound,,83-68,83,68
 0021900694,2020-01-27,MIA,ORL,34.82,3,1,11,MIA,ORL,block,58,True,False,block,block,83-68,83,68
+0021900694,2020-01-27,MIA,ORL,34.82,3,1,11,MIA,MIA,reb,0,False,False,HEAT Rebound,,83-68,83,68
 0021900694,2020-01-27,MIA,ORL,34.98,3,1,1,MIA,ORL,foul,2,False,False,,Ross S.FOUL (P2.T4) (B.Forte),83-68,83,68
 0021900694,2020-01-27,MIA,ORL,34.98,3,1,1,MIA,MIA,ft_make,13,False,False,Olynyk Free Throw 1 of 3 (3 PTS),,84-68,84,68
 0021900694,2020-01-27,MIA,ORL,34.98,3,1,1,MIA,MIA,ft_make,14,False,False,Olynyk Free Throw 2 of 3 (4 PTS),,85-68,85,68
@@ -351,15 +351,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900694,2020-01-27,MIA,ORL,43.42,4,4,35,ORL,ORL,ft_make,12,False,False,,Fultz Free Throw 2 of 2 (12 PTS),103-86,103,86
 0021900694,2020-01-27,MIA,ORL,43.67,4,4,20,MIA,MIA,fg3_make,79,False,False,Dragic 25' 3PT Pullup Jump Shot (11 PTS),,106-86,106,86
 0021900694,2020-01-27,MIA,ORL,43.95,4,4,3,ORL,ORL,fg_miss,1,False,False,,MISS Gordon 12' Jump Shot,106-86,106,86
-0021900694,2020-01-27,MIA,ORL,44.03,4,3,58,ORL,ORL,fg_miss,97,False,False,,MISS Vucevic 1' Tip Layup Shot,106-86,106,86
 0021900694,2020-01-27,MIA,ORL,44.03,4,3,58,ORL,ORL,reb,0,False,False,,Vucevic REBOUND (Off:3 Def:9),106-86,106,86
+0021900694,2020-01-27,MIA,ORL,44.03,4,3,58,ORL,ORL,fg_miss,97,False,False,,MISS Vucevic 1' Tip Layup Shot,106-86,106,86
 0021900694,2020-01-27,MIA,ORL,44.05,4,3,57,ORL,ORL,reb,0,False,False,,Vucevic REBOUND (Off:2 Def:9),106-86,106,86
 0021900694,2020-01-27,MIA,ORL,44.07,4,3,56,ORL,ORL,fg_make,97,False,False,,Vucevic 1' Tip Layup Shot (13 PTS),106-88,106,88
 0021900694,2020-01-27,MIA,ORL,44.37,4,3,38,MIA,MIA,fg_miss,6,False,False,MISS Butler 1' Driving Layup,,106-88,106,88
 0021900694,2020-01-27,MIA,ORL,44.37,4,3,38,ORL,ORL,reb,0,False,False,,Magic Rebound,106-88,106,88
 0021900694,2020-01-27,MIA,ORL,44.43,4,3,34,ORL,ORL,fg_miss,6,True,False,,MISS Fultz 1' Driving Layup,106-88,106,88
-0021900694,2020-01-27,MIA,ORL,44.43,4,3,34,ORL,ORL,reb,0,False,False,,Magic Rebound,106-88,106,88
 0021900694,2020-01-27,MIA,ORL,44.43,4,3,34,ORL,MIA,block,6,True,False,block,block,106-88,106,88
+0021900694,2020-01-27,MIA,ORL,44.43,4,3,34,ORL,ORL,reb,0,False,False,,Magic Rebound,106-88,106,88
 0021900694,2020-01-27,MIA,ORL,44.58,4,3,25,ORL,ORL,fg3_miss,1,False,False,,MISS Fournier 26' 3PT Jump Shot,106-88,106,88
 0021900694,2020-01-27,MIA,ORL,44.58,4,3,25,MIA,MIA,reb,0,False,False,HEAT Rebound,,106-88,106,88
 0021900694,2020-01-27,MIA,ORL,44.88,4,3,7,MIA,MIA,fg_make,101,False,False,Adebayo 12' Driving Floating Jump Shot (20 PTS) (Dragic 5 AST),,108-88,108,88

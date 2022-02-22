@@ -31,8 +31,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000533,2021-03-01,NOP,UTA,4.5,1,7,30,NOP,NOP,reb,0,False,False,Adams REBOUND (Off:0 Def:2),,11-7,11,7
 0022000533,2021-03-01,NOP,UTA,4.5,1,7,30,NOP,UTA,foul,1,False,False,,Gobert P.FOUL (P1.T1) (T.Washington),11-7,11,7
 0022000533,2021-03-01,NOP,UTA,4.55,1,7,27,NOP,NOP,fg_miss,79,False,False,MISS Ingram 15' Pullup Jump Shot,,11-7,11,7
-0022000533,2021-03-01,NOP,UTA,4.63,1,7,22,NOP,NOP,fg_miss,97,False,False,MISS Williamson Tip Layup Shot,,11-7,11,7
 0022000533,2021-03-01,NOP,UTA,4.63,1,7,22,NOP,NOP,reb,0,False,False,Williamson REBOUND (Off:1 Def:1),,11-7,11,7
+0022000533,2021-03-01,NOP,UTA,4.63,1,7,22,NOP,NOP,fg_miss,97,False,False,MISS Williamson Tip Layup Shot,,11-7,11,7
 0022000533,2021-03-01,NOP,UTA,4.65,1,7,21,NOP,NOP,reb,0,False,False,Adams REBOUND (Off:1 Def:2),,11-7,11,7
 0022000533,2021-03-01,NOP,UTA,4.65,1,7,21,NOP,NOP,tov,45,False,False,Ingram Out of Bounds - Bad Pass Turnover Turnover (P2.T3),,11-7,11,7
 0022000533,2021-03-01,NOP,UTA,4.78,1,7,13,UTA,UTA,fg3_miss,79,False,False,,MISS Conley 25' 3PT Pullup Jump Shot,11-7,11,7
@@ -211,8 +211,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000533,2021-03-01,NOP,UTA,25.32,3,10,41,UTA,UTA,fg3_make,1,False,False,,Conley 3PT Jump Shot (10 PTS) (Bogdanovic 1 AST),63-69,63,69
 0022000533,2021-03-01,NOP,UTA,25.42,3,10,35,NOP,NOP,fg_make,43,False,False,Williamson 2' Alley Oop Layup (15 PTS) (Ball 4 AST),,65-69,65,69
 0022000533,2021-03-01,NOP,UTA,25.67,3,10,20,UTA,UTA,fg_miss,73,True,False,,MISS O'Neale 1' Driving Reverse Layup,65-69,65,69
-0022000533,2021-03-01,NOP,UTA,25.67,3,10,20,UTA,UTA,reb,0,False,False,,Jazz Rebound,65-69,65,69
 0022000533,2021-03-01,NOP,UTA,25.67,3,10,20,UTA,NOP,block,73,True,False,block,block,65-69,65,69
+0022000533,2021-03-01,NOP,UTA,25.67,3,10,20,UTA,UTA,reb,0,False,False,,Jazz Rebound,65-69,65,69
 0022000533,2021-03-01,NOP,UTA,25.73,3,10,16,UTA,UTA,fg3_miss,80,False,False,,MISS Conley 3PT Step Back Jump Shot,65-69,65,69
 0022000533,2021-03-01,NOP,UTA,25.77,3,10,14,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:1 Def:2),65-69,65,69
 0022000533,2021-03-01,NOP,UTA,25.85,3,10,9,UTA,UTA,tov,1,False,True,,Conley Bad Pass Turnover (P1.T5),65-69,65,69
@@ -308,8 +308,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000533,2021-03-01,NOP,UTA,35.7,3,0,18,NOP,NOP,fg_make,5,False,False,Hernangomez 1' Layup (8 PTS) (Bledsoe 4 AST),,99-86,99,86
 0022000533,2021-03-01,NOP,UTA,35.95,3,0,3,UTA,UTA,fg_miss,78,True,False,,MISS Conley 8' Floating Jump Shot,99-86,99,86
 0022000533,2021-03-01,NOP,UTA,35.95,3,0,3,UTA,NOP,block,78,True,False,block,block,99-86,99,86
-0022000533,2021-03-01,NOP,UTA,35.97,3,0,2,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:1 Def:3),99-86,99,86
 0022000533,2021-03-01,NOP,UTA,35.97,3,0,2,UTA,UTA,fg_make,7,False,False,,Gobert Dunk (16 PTS),99-88,99,88
+0022000533,2021-03-01,NOP,UTA,35.97,3,0,2,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:1 Def:3),99-86,99,86
 0022000533,2021-03-01,NOP,UTA,36.0,3,0,0,UTA,,period_end,0,False,False,,,99-88,99,88
 0022000533,2021-03-01,NOP,UTA,36.0,4,12,0,UTA,,period_start,0,False,False,,,99-88,99,88
 0022000533,2021-03-01,NOP,UTA,36.15,4,11,51,NOP,NOP,fg_miss,5,True,False,MISS Bledsoe 2' Layup,,99-88,99,88
@@ -349,8 +349,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000533,2021-03-01,NOP,UTA,39.53,4,8,28,NOP,NOP,fg_miss,5,False,False,MISS Ingram 4' Layup,,111-98,111,98
 0022000533,2021-03-01,NOP,UTA,39.55,4,8,27,NOP,NOP,reb,0,False,False,Ingram REBOUND (Off:1 Def:3),,111-98,111,98
 0022000533,2021-03-01,NOP,UTA,39.58,4,8,25,NOP,NOP,fg_miss,5,True,False,MISS Ingram 1' Layup,,111-98,111,98
-0022000533,2021-03-01,NOP,UTA,39.58,4,8,25,UTA,UTA,reb,0,False,False,,Clarkson REBOUND (Off:2 Def:2),111-98,111,98
 0022000533,2021-03-01,NOP,UTA,39.58,4,8,25,NOP,UTA,block,5,True,False,block,block,111-98,111,98
+0022000533,2021-03-01,NOP,UTA,39.58,4,8,25,UTA,UTA,reb,0,False,False,,Clarkson REBOUND (Off:2 Def:2),111-98,111,98
 0022000533,2021-03-01,NOP,UTA,39.8,4,8,12,UTA,UTA,fg3_miss,1,False,False,,MISS Clarkson 24' 3PT Jump Shot,111-98,111,98
 0022000533,2021-03-01,NOP,UTA,39.85,4,8,9,NOP,NOP,reb,0,False,False,Hernangomez REBOUND (Off:3 Def:4),,111-98,111,98
 0022000533,2021-03-01,NOP,UTA,39.97,4,8,2,NOP,NOP,fg_miss,1,False,False,MISS Redick 14' Jump Shot,,111-98,111,98
@@ -404,8 +404,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000533,2021-03-01,NOP,UTA,44.78,4,3,13,UTA,UTA,fg3_miss,1,False,False,,MISS Mitchell 3PT Jump Shot,122-110,122,110
 0022000533,2021-03-01,NOP,UTA,44.82,4,3,11,NOP,NOP,reb,0,False,False,Ball REBOUND (Off:0 Def:7),,122-110,122,110
 0022000533,2021-03-01,NOP,UTA,45.05,4,2,57,NOP,NOP,fg_miss,1,False,False,MISS Ingram 18' Jump Shot,,122-110,122,110
-0022000533,2021-03-01,NOP,UTA,45.15,4,2,51,UTA,UTA,reb,0,False,False,,Jazz Rebound,122-110,122,110
 0022000533,2021-03-01,NOP,UTA,45.15,4,2,51,,NOP,jump_ball,0,False,False,Jump Ball Williamson vs. Gobert: Tip to O'Neale,,122-110,122,110
+0022000533,2021-03-01,NOP,UTA,45.15,4,2,51,UTA,UTA,reb,0,False,False,,Jazz Rebound,122-110,122,110
 0022000533,2021-03-01,NOP,UTA,45.28,4,2,43,UTA,NOP,foul,2,False,False,Hernangomez S.FOUL (P2.PN) (H.Workman),,122-110,122,110
 0022000533,2021-03-01,NOP,UTA,45.28,4,2,43,UTA,UTA,ft_make,11,False,False,,Mitchell Free Throw 1 of 2 (14 PTS),122-111,122,111
 0022000533,2021-03-01,NOP,UTA,45.28,4,2,43,UTA,UTA,ft_make,12,False,False,,Mitchell Free Throw 2 of 2 (15 PTS),122-112,122,112

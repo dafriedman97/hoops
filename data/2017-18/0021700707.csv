@@ -80,8 +80,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700707,2018-01-24,MEM,SAS,9.8,1,2,12,MEM,MEM,fg_make,58,False,False,Wright 12' Turnaround Hook Shot (2 PTS) (Henry 1 AST),,17-18,17,18
 0021700707,2018-01-24,MEM,SAS,10.1,1,1,54,SAS,SAS,fg_make,98,False,False,,Mills 1' Cutting Layup Shot (4 PTS) (Bertans 1 AST),17-20,17,20
 0021700707,2018-01-24,MEM,SAS,10.35,1,1,39,MEM,MEM,fg_miss,6,True,False,MISS Davis 2' Driving Layup,,17-20,17,20
-0021700707,2018-01-24,MEM,SAS,10.35,1,1,39,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,17-20,17,20
 0021700707,2018-01-24,MEM,SAS,10.35,1,1,39,MEM,SAS,block,6,True,False,block,block,17-20,17,20
+0021700707,2018-01-24,MEM,SAS,10.35,1,1,39,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,17-20,17,20
 0021700707,2018-01-24,MEM,SAS,10.53,1,1,28,MEM,MEM,fg_miss,79,False,False,MISS Wright 15' Pullup Jump Shot,,17-20,17,20
 0021700707,2018-01-24,MEM,SAS,10.57,1,1,26,SAS,SAS,reb,0,False,False,,Lauvergne REBOUND (Off:0 Def:2),17-20,17,20
 0021700707,2018-01-24,MEM,SAS,10.72,1,1,17,SAS,SAS,tov,2,False,True,,Parker Lost Ball Turnover (P1.T3),17-20,17,20
@@ -89,16 +89,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700707,2018-01-24,MEM,SAS,10.82,1,1,11,MEM,MEM,tov,2,False,True,Chalmers Lost Ball Turnover (P1.T3),,17-20,17,20
 0021700707,2018-01-24,MEM,SAS,10.82,1,1,11,MEM,SAS,steal,2,False,True,steal,steal,17-20,17,20
 0021700707,2018-01-24,MEM,SAS,10.87,1,1,8,SAS,SAS,tov,2,False,True,,Mills Lost Ball Turnover (P1.T4),17-20,17,20
-0021700707,2018-01-24,MEM,SAS,10.87,1,1,8,MEM,MEM,fg3_miss,1,False,False,MISS Henry 25' 3PT Jump Shot,,17-20,17,20
 0021700707,2018-01-24,MEM,SAS,10.87,1,1,8,SAS,MEM,steal,2,False,True,steal,steal,17-20,17,20
+0021700707,2018-01-24,MEM,SAS,10.87,1,1,8,MEM,MEM,fg3_miss,1,False,False,MISS Henry 25' 3PT Jump Shot,,17-20,17,20
 0021700707,2018-01-24,MEM,SAS,10.88,1,1,7,MEM,MEM,reb,0,False,False,Davis REBOUND (Off:2 Def:1),,17-20,17,20
 0021700707,2018-01-24,MEM,SAS,10.9,1,1,6,MEM,MEM,fg_make,72,False,False,Davis 1' Putback Layup (6 PTS),,19-20,19,20
 0021700707,2018-01-24,MEM,SAS,11.2,1,0,48,SAS,SAS,fg_make,3,False,False,,Lauvergne 1' Hook Shot (4 PTS) (Parker 2 AST),19-22,19,22
 0021700707,2018-01-24,MEM,SAS,11.45,1,0,33,MEM,MEM,fg_make,101,False,False,McLemore 6' Driving Floating Jump Shot (2 PTS) (Wright 1 AST),,21-22,21,22
 0021700707,2018-01-24,MEM,SAS,11.85,1,0,9,SAS,SAS,fg_miss,6,True,False,,MISS Parker 3' Driving Layup,21-22,21,22
-0021700707,2018-01-24,MEM,SAS,11.85,1,0,9,SAS,SAS,reb,0,False,False,,Spurs Rebound,21-22,21,22
-0021700707,2018-01-24,MEM,SAS,11.85,1,0,9,SAS,SAS,tov,11,False,False,,Spurs Turnover: Shot Clock (T#5),21-22,21,22
 0021700707,2018-01-24,MEM,SAS,11.85,1,0,9,SAS,MEM,block,6,True,False,block,block,21-22,21,22
+0021700707,2018-01-24,MEM,SAS,11.85,1,0,9,SAS,SAS,tov,11,False,False,,Spurs Turnover: Shot Clock (T#5),21-22,21,22
+0021700707,2018-01-24,MEM,SAS,11.85,1,0,9,SAS,SAS,reb,0,False,False,,Spurs Rebound,21-22,21,22
 0021700707,2018-01-24,MEM,SAS,11.95,1,0,3,MEM,SAS,foul,28,False,False,,Mills Personal Take Foul (P1.T3) (C.Kirkland),21-22,21,22
 0021700707,2018-01-24,MEM,SAS,12.0,1,0,0,MEM,MEM,fg_miss,1,False,False,MISS Wright 8' Jump Shot,,21-22,21,22
 0021700707,2018-01-24,MEM,SAS,12.0,1,0,0,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,21-22,21,22
@@ -110,8 +110,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700707,2018-01-24,MEM,SAS,12.53,2,11,28,SAS,SAS,reb,0,False,False,,Lauvergne REBOUND (Off:0 Def:3),21-22,21,22
 0021700707,2018-01-24,MEM,SAS,12.67,2,11,20,SAS,SAS,fg_make,3,False,False,,Lauvergne 7' Hook Shot (6 PTS) (Murray 1 AST),21-24,21,24
 0021700707,2018-01-24,MEM,SAS,13.0,2,11,0,MEM,MEM,tov,1,False,True,Chalmers Bad Pass Turnover (P2.T4),,21-24,21,24
-0021700707,2018-01-24,MEM,SAS,13.0,2,11,0,SAS,MEM,foul,1,False,False,Chalmers P.FOUL (P1.T1) (C.Kirkland),,21-24,21,24
 0021700707,2018-01-24,MEM,SAS,13.0,2,11,0,MEM,SAS,steal,1,False,True,steal,steal,21-24,21,24
+0021700707,2018-01-24,MEM,SAS,13.0,2,11,0,SAS,MEM,foul,1,False,False,Chalmers P.FOUL (P1.T1) (C.Kirkland),,21-24,21,24
 0021700707,2018-01-24,MEM,SAS,13.22,2,10,47,SAS,SAS,fg_make,102,False,False,,Murray 5' Driving Floating Bank Jump Shot (7 PTS),21-26,21,26
 0021700707,2018-01-24,MEM,SAS,13.42,2,10,35,MEM,MEM,fg_miss,1,False,False,MISS McLemore 18' Jump Shot,,21-26,21,26
 0021700707,2018-01-24,MEM,SAS,13.47,2,10,32,MEM,MEM,reb,0,False,False,Davis REBOUND (Off:3 Def:1),,21-26,21,26
@@ -160,8 +160,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700707,2018-01-24,MEM,SAS,17.88,2,6,7,MEM,MEM,reb,0,False,False,Wright REBOUND (Off:0 Def:2),,31-41,31,41
 0021700707,2018-01-24,MEM,SAS,18.13,2,5,52,MEM,SAS,foul,1,False,False,,Mills P.FOUL (P2.T3) (L.Wood),31-41,31,41
 0021700707,2018-01-24,MEM,SAS,18.35,2,5,39,MEM,MEM,tov,1,False,True,Harrison Bad Pass Turnover (P2.T7),,31-41,31,41
-0021700707,2018-01-24,MEM,SAS,18.35,2,5,39,SAS,MEM,foul,28,False,False,Harrison Personal Take Foul (P1.PN) (C.Kirkland),,31-41,31,41
 0021700707,2018-01-24,MEM,SAS,18.35,2,5,39,MEM,SAS,steal,1,False,True,steal,steal,31-41,31,41
+0021700707,2018-01-24,MEM,SAS,18.35,2,5,39,SAS,MEM,foul,28,False,False,Harrison Personal Take Foul (P1.PN) (C.Kirkland),,31-41,31,41
 0021700707,2018-01-24,MEM,SAS,18.35,2,5,39,SAS,SAS,ft_make,11,False,False,,Mills Free Throw 1 of 2 (5 PTS),31-42,31,42
 0021700707,2018-01-24,MEM,SAS,18.35,2,5,39,SAS,SAS,ft_make,12,False,False,,Mills Free Throw 2 of 2 (6 PTS),31-43,31,43
 0021700707,2018-01-24,MEM,SAS,18.47,2,5,32,MEM,SAS,foul,1,False,False,,Murray P.FOUL (P1.T4) (L.Wood),31-43,31,43
@@ -263,8 +263,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700707,2018-01-24,MEM,SAS,28.07,3,7,56,MEM,MEM,fg3_miss,1,False,False,MISS Gasol 26' 3PT Jump Shot,,46-61,46,61
 0021700707,2018-01-24,MEM,SAS,28.1,3,7,54,MEM,MEM,reb,0,False,False,Brooks REBOUND (Off:2 Def:4),,46-61,46,61
 0021700707,2018-01-24,MEM,SAS,28.17,3,7,50,MEM,MEM,fg_miss,5,True,False,MISS McLemore 7' Layup,,46-61,46,61
-0021700707,2018-01-24,MEM,SAS,28.17,3,7,50,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,46-61,46,61
 0021700707,2018-01-24,MEM,SAS,28.17,3,7,50,MEM,SAS,block,5,True,False,block,block,46-61,46,61
+0021700707,2018-01-24,MEM,SAS,28.17,3,7,50,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,46-61,46,61
 0021700707,2018-01-24,MEM,SAS,28.3,3,7,42,MEM,MEM,fg_miss,86,False,False,MISS Gasol 6' Turnaround Fadeaway Shot,,46-61,46,61
 0021700707,2018-01-24,MEM,SAS,28.35,3,7,39,SAS,SAS,reb,0,False,False,,Gasol REBOUND (Off:4 Def:8),46-61,46,61
 0021700707,2018-01-24,MEM,SAS,28.47,3,7,32,SAS,SAS,fg_miss,79,False,False,,MISS Parker 17' Pullup Jump Shot,46-61,46,61

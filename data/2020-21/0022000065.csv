@@ -178,12 +178,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000065,2020-12-31,HOU,SAC,19.28,2,4,43,HOU,HOU,reb,0,False,False,House Jr. REBOUND (Off:0 Def:3),,47-48,47,48
 0022000065,2020-12-31,HOU,SAC,19.4,2,4,36,HOU,HOU,fg3_make,1,False,False,Wall 25' 3PT Jump Shot (14 PTS) (House Jr. 1 AST),,50-48,50,48
 0022000065,2020-12-31,HOU,SAC,19.82,2,4,11,SAC,SAC,fg_miss,5,True,False,,MISS Bagley III 2' Layup,50-48,50,48
-0022000065,2020-12-31,HOU,SAC,19.82,2,4,11,SAC,SAC,reb,0,False,False,,Bagley III REBOUND (Off:1 Def:3),50-48,50,48
 0022000065,2020-12-31,HOU,SAC,19.82,2,4,11,SAC,HOU,block,5,True,False,block,block,50-48,50,48
+0022000065,2020-12-31,HOU,SAC,19.82,2,4,11,SAC,SAC,reb,0,False,False,,Bagley III REBOUND (Off:1 Def:3),50-48,50,48
 0022000065,2020-12-31,HOU,SAC,19.87,2,4,8,SAC,SAC,fg_make,79,False,False,,Holmes 21' Pullup Jump Shot (12 PTS) (Fox 4 AST),50-50,50,50
 0022000065,2020-12-31,HOU,SAC,20.2,2,3,48,HOU,HOU,fg_miss,75,True,False,MISS Harden 6' Driving Finger Roll Layup,,50-50,50,50
-0022000065,2020-12-31,HOU,SAC,20.2,2,3,48,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:1 Def:5),,50-50,50,50
 0022000065,2020-12-31,HOU,SAC,20.2,2,3,48,HOU,SAC,block,75,True,False,block,block,50-50,50,50
+0022000065,2020-12-31,HOU,SAC,20.2,2,3,48,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:1 Def:5),,50-50,50,50
 0022000065,2020-12-31,HOU,SAC,20.2,2,3,48,HOU,HOU,fg_make,5,False,False,Wood 2' Layup (8 PTS),,52-50,52,50
 0022000065,2020-12-31,HOU,SAC,20.2,2,3,48,HOU,SAC,foul,2,False,False,,Holmes S.FOUL (P2.T3) (M.Ervin),52-50,52,50
 0022000065,2020-12-31,HOU,SAC,20.2,2,3,48,HOU,HOU,ft_miss,10,False,False,MISS Wood Free Throw 1 of 1,,52-50,52,50
@@ -252,9 +252,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000065,2020-12-31,HOU,SAC,25.93,3,10,4,SAC,HOU,steal,1,False,True,steal,steal,65-62,65,62
 0022000065,2020-12-31,HOU,SAC,26.03,3,9,58,HOU,HOU,fg_make,106,False,False,House Jr. 1' Running Alley Oop Dunk Shot (11 PTS) (Harden 5 AST),,67-62,67,62
 0022000065,2020-12-31,HOU,SAC,26.37,3,9,38,SAC,SAC,fg_miss,1,True,False,,MISS Bagley III 7' Jump Shot,67-62,67,62
+0022000065,2020-12-31,HOU,SAC,26.37,3,9,38,SAC,HOU,block,1,True,False,block,block,67-62,67,62
 0022000065,2020-12-31,HOU,SAC,26.37,3,9,38,HOU,HOU,reb,0,False,False,Wall REBOUND (Off:0 Def:4),,67-62,67,62
 0022000065,2020-12-31,HOU,SAC,26.37,3,9,38,HOU,SAC,foul,28,False,False,,Hield Personal Take Foul (P1.T1) (D.Scott),67-62,67,62
-0022000065,2020-12-31,HOU,SAC,26.37,3,9,38,SAC,HOU,block,1,True,False,block,block,67-62,67,62
 0022000065,2020-12-31,HOU,SAC,26.55,3,9,27,HOU,HOU,fg_make,6,False,False,Wall 1' Driving Layup (16 PTS),,69-62,69,62
 0022000065,2020-12-31,HOU,SAC,26.73,3,9,16,SAC,SAC,tov,2,False,True,,Fox Lost Ball Turnover (P2.T10),69-62,69,62
 0022000065,2020-12-31,HOU,SAC,26.73,3,9,16,SAC,HOU,steal,2,False,True,steal,steal,69-62,69,62
@@ -295,8 +295,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000065,2020-12-31,HOU,SAC,31.7,3,4,18,SAC,SAC,ft_make,12,False,False,,Barnes Free Throw 2 of 2 (16 PTS),82-77,82,77
 0022000065,2020-12-31,HOU,SAC,32.02,3,3,59,HOU,HOU,fg_make,6,False,False,Gordon 5' Driving Layup (8 PTS) (Brown 1 AST),,84-77,84,77
 0022000065,2020-12-31,HOU,SAC,32.33,3,3,40,SAC,SAC,tov,2,False,True,,Bagley III Lost Ball Turnover (P3.T12),84-77,84,77
-0022000065,2020-12-31,HOU,SAC,32.33,3,3,40,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 3 Short 0),,84-77,84,77
 0022000065,2020-12-31,HOU,SAC,32.33,3,3,40,SAC,HOU,steal,2,False,True,steal,steal,84-77,84,77
+0022000065,2020-12-31,HOU,SAC,32.33,3,3,40,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 3 Short 0),,84-77,84,77
 0022000065,2020-12-31,HOU,SAC,32.53,3,3,28,HOU,HOU,fg3_make,1,False,False,Gordon 28' 3PT Jump Shot (11 PTS) (Harden 7 AST),,87-77,87,77
 0022000065,2020-12-31,HOU,SAC,32.82,3,3,11,SAC,SAC,fg_make,101,False,False,,Bjelica 5' Driving Floating Jump Shot (6 PTS),87-79,87,79
 0022000065,2020-12-31,HOU,SAC,33.2,3,2,48,HOU,HOU,fg_miss,75,False,False,MISS Cousins 3' Driving Finger Roll Layup,,87-79,87,79
@@ -335,10 +335,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000065,2020-12-31,HOU,SAC,37.28,4,10,43,HOU,HOU,tov,1,False,True,Cousins Bad Pass Turnover (P2.T14),,90-90,90,90
 0022000065,2020-12-31,HOU,SAC,37.28,4,10,43,HOU,SAC,steal,1,False,True,steal,steal,90-90,90,90
 0022000065,2020-12-31,HOU,SAC,37.3,4,10,42,SAC,SAC,fg_miss,50,True,False,,MISS Haliburton 2' Running Dunk,90-90,90,90
-0022000065,2020-12-31,HOU,SAC,37.3,4,10,42,SAC,SAC,reb,0,False,False,,Barnes REBOUND (Off:2 Def:3),90-90,90,90
 0022000065,2020-12-31,HOU,SAC,37.3,4,10,42,SAC,HOU,block,50,True,False,block,block,90-90,90,90
-0022000065,2020-12-31,HOU,SAC,37.33,4,10,40,SAC,SAC,fg_make,1,False,False,,Barnes 8' Jump Shot (18 PTS),90-92,90,92
+0022000065,2020-12-31,HOU,SAC,37.3,4,10,42,SAC,SAC,reb,0,False,False,,Barnes REBOUND (Off:2 Def:3),90-90,90,90
 0022000065,2020-12-31,HOU,SAC,37.33,4,10,40,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 5 Short 0),,90-92,90,92
+0022000065,2020-12-31,HOU,SAC,37.33,4,10,40,SAC,SAC,fg_make,1,False,False,,Barnes 8' Jump Shot (18 PTS),90-92,90,92
 0022000065,2020-12-31,HOU,SAC,37.55,4,10,27,HOU,HOU,tov,1,False,True,Gordon Bad Pass Turnover (P2.T15),,90-92,90,92
 0022000065,2020-12-31,HOU,SAC,37.55,4,10,27,HOU,SAC,steal,1,False,True,steal,steal,90-92,90,92
 0022000065,2020-12-31,HOU,SAC,37.78,4,10,13,SAC,SAC,fg_make,108,False,False,,Barnes 3' Cutting Dunk Shot (20 PTS) (Bjelica 1 AST),90-94,90,94

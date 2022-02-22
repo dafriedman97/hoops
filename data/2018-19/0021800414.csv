@@ -122,8 +122,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800414,2018-12-12,SAC,MIN,13.9,2,10,6,MIN,MIN,fg_make,98,False,False,,Saric 2' Cutting Layup Shot (6 PTS) (Jones 2 AST),35-39,35,39
 0021800414,2018-12-12,SAC,MIN,14.12,2,9,53,SAC,SAC,fg_make,101,False,False,Bjelica 8' Driving Floating Jump Shot (7 PTS) (Bogdanovic 2 AST),,37-39,37,39
 0021800414,2018-12-12,SAC,MIN,14.45,2,9,33,MIN,MIN,fg_miss,6,True,False,,MISS Dieng 6' Driving Layup,37-39,37,39
-0021800414,2018-12-12,SAC,MIN,14.45,2,9,33,SAC,SAC,reb,0,False,False,KINGS Rebound,,37-39,37,39
 0021800414,2018-12-12,SAC,MIN,14.45,2,9,33,MIN,SAC,block,6,True,False,block,block,37-39,37,39
+0021800414,2018-12-12,SAC,MIN,14.45,2,9,33,SAC,SAC,reb,0,False,False,KINGS Rebound,,37-39,37,39
 0021800414,2018-12-12,SAC,MIN,14.8,2,9,12,SAC,SAC,fg_make,6,False,False,Bagley III 2' Driving Layup (4 PTS),,39-39,39,39
 0021800414,2018-12-12,SAC,MIN,15.08,2,8,55,MIN,MIN,fg_miss,80,False,False,,MISS Rose 18' Step Back Jump Shot,39-39,39,39
 0021800414,2018-12-12,SAC,MIN,15.17,2,8,50,SAC,SAC,reb,0,False,False,Bagley III REBOUND (Off:1 Def:3),,39-39,39,39
@@ -145,8 +145,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800414,2018-12-12,SAC,MIN,17.88,2,6,7,SAC,SAC,fg_make,63,False,False,Bogdanovic 3' Fadeaway Jumper (7 PTS) (Hield 2 AST),,51-43,51,43
 0021800414,2018-12-12,SAC,MIN,18.17,2,5,50,MIN,MIN,fg3_make,1,False,False,,Towns 25' 3PT Jump Shot (7 PTS) (Wiggins 1 AST),51-46,51,46
 0021800414,2018-12-12,SAC,MIN,18.32,2,5,41,SAC,SAC,fg_miss,6,True,False,MISS Fox 5' Driving Layup,,51-46,51,46
-0021800414,2018-12-12,SAC,MIN,18.32,2,5,41,SAC,SAC,reb,0,False,False,KINGS Rebound,,51-46,51,46
 0021800414,2018-12-12,SAC,MIN,18.32,2,5,41,SAC,MIN,block,6,True,False,block,block,51-46,51,46
+0021800414,2018-12-12,SAC,MIN,18.32,2,5,41,SAC,SAC,reb,0,False,False,KINGS Rebound,,51-46,51,46
 0021800414,2018-12-12,SAC,MIN,18.47,2,5,32,SAC,SAC,fg_miss,57,False,False,MISS Cauley-Stein 7' Driving Hook Shot,,51-46,51,46
 0021800414,2018-12-12,SAC,MIN,18.47,2,5,32,MIN,MIN,reb,0,False,False,,Saric REBOUND (Off:0 Def:1),51-46,51,46
 0021800414,2018-12-12,SAC,MIN,18.57,2,5,26,MIN,MIN,fg_miss,57,False,False,,MISS Covington 3' Driving Hook Shot,51-46,51,46
@@ -156,8 +156,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800414,2018-12-12,SAC,MIN,18.78,2,5,13,SAC,SAC,fg3_miss,79,False,False,MISS Bjelica 25' 3PT Pullup Jump Shot,,51-46,51,46
 0021800414,2018-12-12,SAC,MIN,18.78,2,5,13,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:1 Def:3),51-46,51,46
 0021800414,2018-12-12,SAC,MIN,19.03,2,4,58,MIN,MIN,fg_miss,98,True,False,,MISS Covington 5' Cutting Layup Shot,51-46,51,46
-0021800414,2018-12-12,SAC,MIN,19.03,2,4,58,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,51-46,51,46
 0021800414,2018-12-12,SAC,MIN,19.03,2,4,58,MIN,SAC,block,98,True,False,block,block,51-46,51,46
+0021800414,2018-12-12,SAC,MIN,19.03,2,4,58,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,51-46,51,46
 0021800414,2018-12-12,SAC,MIN,19.15,2,4,51,MIN,SAC,foul,1,False,False,Cauley-Stein P.FOUL (P1.T1) (J.Goble),,51-46,51,46
 0021800414,2018-12-12,SAC,MIN,19.32,2,4,41,MIN,MIN,tov,4,False,False,,Wiggins Traveling Turnover (P3.T6),51-46,51,46
 0021800414,2018-12-12,SAC,MIN,19.5,2,4,30,SAC,SAC,tov,45,False,False,Fox Out of Bounds - Bad Pass Turnover Turnover (P2.T6),,51-46,51,46
@@ -227,10 +227,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800414,2018-12-12,SAC,MIN,27.75,3,8,15,MIN,MIN,fg3_make,1,False,False,,Towns 3PT Jump Shot (10 PTS) (Teague 10 AST),65-66,65,66
 0021800414,2018-12-12,SAC,MIN,27.93,3,8,4,SAC,SAC,fg3_make,1,False,False,Bjelica 26' 3PT Jump Shot (17 PTS) (Fox 4 AST),,68-66,68,66
 0021800414,2018-12-12,SAC,MIN,28.13,3,7,52,MIN,MIN,fg_miss,3,True,False,,MISS Gibson 5' Hook Shot,68-66,68,66
+0021800414,2018-12-12,SAC,MIN,28.13,3,7,52,MIN,SAC,block,3,True,False,block,block,68-66,68,66
 0021800414,2018-12-12,SAC,MIN,28.13,3,7,52,MIN,MIN,reb,0,False,False,,Gibson REBOUND (Off:2 Def:4),68-66,68,66
 0021800414,2018-12-12,SAC,MIN,28.13,3,7,52,MIN,MIN,fg_miss,5,False,False,,MISS Gibson 5' Layup,68-66,68,66
 0021800414,2018-12-12,SAC,MIN,28.13,3,7,52,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,68-66,68,66
-0021800414,2018-12-12,SAC,MIN,28.13,3,7,52,MIN,SAC,block,3,True,False,block,block,68-66,68,66
 0021800414,2018-12-12,SAC,MIN,28.17,3,7,50,MIN,MIN,fg3_make,1,False,False,,Covington 3PT Jump Shot (9 PTS) (Teague 11 AST),68-69,68,69
 0021800414,2018-12-12,SAC,MIN,28.35,3,7,39,SAC,SAC,fg3_miss,1,False,False,MISS Shumpert 3PT Jump Shot,,68-69,68,69
 0021800414,2018-12-12,SAC,MIN,28.43,3,7,34,MIN,MIN,reb,0,False,False,,Wiggins REBOUND (Off:0 Def:1),68-69,68,69
@@ -356,9 +356,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800414,2018-12-12,SAC,MIN,41.88,4,6,7,MIN,MIN,fg3_make,1,False,False,,Saric 25' 3PT Jump Shot (16 PTS) (Teague 12 AST),122-108,122,108
 0021800414,2018-12-12,SAC,MIN,42.12,4,5,53,SAC,SAC,fg_make,108,False,False,Cauley-Stein 2' Cutting Dunk Shot (4 PTS) (Fox 6 AST),,124-108,124,108
 0021800414,2018-12-12,SAC,MIN,42.45,4,5,33,MIN,MIN,fg3_miss,1,False,False,,MISS Teague 25' 3PT Jump Shot,124-108,124,108
+0021800414,2018-12-12,SAC,MIN,42.45,4,5,33,MIN,MIN,reb,0,False,False,,Wiggins REBOUND (Off:1 Def:1),124-108,124,108
 0021800414,2018-12-12,SAC,MIN,42.45,4,5,33,MIN,MIN,fg_miss,97,False,False,,MISS Wiggins 5' Tip Layup Shot,124-108,124,108
 0021800414,2018-12-12,SAC,MIN,42.45,4,5,33,MIN,MIN,reb,0,False,False,,Saric REBOUND (Off:2 Def:3),124-108,124,108
-0021800414,2018-12-12,SAC,MIN,42.45,4,5,33,MIN,MIN,reb,0,False,False,,Wiggins REBOUND (Off:1 Def:1),124-108,124,108
 0021800414,2018-12-12,SAC,MIN,42.52,4,5,29,MIN,SAC,foul,2,False,False,Bagley III S.FOUL (P1.T2) (J.Phillips),,124-108,124,108
 0021800414,2018-12-12,SAC,MIN,42.52,4,5,29,MIN,MIN,ft_make,11,False,False,,Saric Free Throw 1 of 2 (17 PTS),124-109,124,109
 0021800414,2018-12-12,SAC,MIN,42.52,4,5,29,MIN,MIN,ft_make,12,False,False,,Saric Free Throw 2 of 2 (18 PTS),124-110,124,110
@@ -425,10 +425,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800414,2018-12-12,SAC,MIN,46.9,4,1,6,SAC,SAC,ft_make,11,False,False,Cauley-Stein Free Throw 1 of 2 (8 PTS),,135-126,135,126
 0021800414,2018-12-12,SAC,MIN,46.9,4,1,6,SAC,SAC,ft_make,12,False,False,Cauley-Stein Free Throw 2 of 2 (9 PTS),,136-126,136,126
 0021800414,2018-12-12,SAC,MIN,46.97,4,1,2,MIN,MIN,fg_miss,6,False,False,,MISS Teague 2' Driving Layup,136-126,136,126
-0021800414,2018-12-12,SAC,MIN,47.0,4,1,0,MIN,MIN,fg_miss,6,False,False,,MISS Teague 5' Driving Layup,136-126,136,126
-0021800414,2018-12-12,SAC,MIN,47.0,4,1,0,MIN,MIN,reb,0,False,False,,Covington REBOUND (Off:2 Def:3),136-126,136,126
 0021800414,2018-12-12,SAC,MIN,47.0,4,1,0,MIN,MIN,reb,0,False,False,,Covington REBOUND (Off:3 Def:3),136-126,136,126
 0021800414,2018-12-12,SAC,MIN,47.0,4,1,0,MIN,MIN,fg_make,97,False,False,,Covington 1' Tip Layup Shot (17 PTS),136-128,136,128
+0021800414,2018-12-12,SAC,MIN,47.0,4,1,0,MIN,MIN,fg_miss,6,False,False,,MISS Teague 5' Driving Layup,136-126,136,126
+0021800414,2018-12-12,SAC,MIN,47.0,4,1,0,MIN,MIN,reb,0,False,False,,Covington REBOUND (Off:2 Def:3),136-126,136,126
 0021800414,2018-12-12,SAC,MIN,47.07,4,0,56,SAC,SAC,fg_make,41,False,False,Cauley-Stein 2' Running Layup (11 PTS) (Fox 8 AST),,138-128,138,128
 0021800414,2018-12-12,SAC,MIN,47.07,4,0,56,SAC,MIN,foul,2,False,False,,Wiggins S.FOUL (P2.PN) (J.Phillips),138-128,138,128
 0021800414,2018-12-12,SAC,MIN,47.07,4,0,56,SAC,SAC,ft_make,10,False,False,Cauley-Stein Free Throw 1 of 1 (12 PTS),,139-128,139,128

@@ -9,8 +9,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800128,2018-11-03,ATL,MIA,0.82,1,11,11,ATL,ATL,fg3_make,1,False,False,Spellman 26' 3PT Jump Shot (3 PTS) (Young 2 AST),,6-2,6,2
 0021800128,2018-11-03,ATL,MIA,1.18,1,10,49,MIA,MIA,fg_make,79,False,False,,McGruder 19' Pullup Jump Shot (4 PTS),6-4,6,4
 0021800128,2018-11-03,ATL,MIA,1.62,1,10,23,ATL,ATL,fg_miss,6,True,False,MISS Bazemore 2' Driving Layup,,6-4,6,4
-0021800128,2018-11-03,ATL,MIA,1.62,1,10,23,ATL,ATL,reb,0,False,False,HAWKS Rebound,,6-4,6,4
 0021800128,2018-11-03,ATL,MIA,1.62,1,10,23,ATL,MIA,block,6,True,False,block,block,6-4,6,4
+0021800128,2018-11-03,ATL,MIA,1.62,1,10,23,ATL,ATL,reb,0,False,False,HAWKS Rebound,,6-4,6,4
 0021800128,2018-11-03,ATL,MIA,1.65,1,10,21,ATL,ATL,tov,11,False,False,HAWKS Turnover: Shot Clock (T#1),,6-4,6,4
 0021800128,2018-11-03,ATL,MIA,1.95,1,10,3,MIA,MIA,fg3_miss,1,False,False,,MISS Richardson 25' 3PT Jump Shot,6-4,6,4
 0021800128,2018-11-03,ATL,MIA,2.0,1,10,0,ATL,ATL,reb,0,False,False,Prince REBOUND (Off:0 Def:1),,6-4,6,4
@@ -33,8 +33,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800128,2018-11-03,ATL,MIA,4.48,1,7,31,MIA,MIA,reb,0,False,False,,Olynyk REBOUND (Off:0 Def:1),15-15,15,15
 0021800128,2018-11-03,ATL,MIA,4.55,1,7,27,MIA,ATL,foul,1,False,False,Prince P.FOUL (P1.T1) (D.Collins),,15-15,15,15
 0021800128,2018-11-03,ATL,MIA,4.55,1,7,27,MIA,ATL,foul,11,False,False,Prince T.FOUL (P1.T1) (M.Davis),,15-15,15,15
-0021800128,2018-11-03,ATL,MIA,4.55,1,7,27,MIA,MIA,ft_make,16,False,False,,Richardson Free Throw Technical (6 PTS),15-16,15,16
 0021800128,2018-11-03,ATL,MIA,4.55,1,7,27,MIA,MIA,tov,9,False,False,,Heat Turnover: 5 Second Violation (T#1),15-16,15,16
+0021800128,2018-11-03,ATL,MIA,4.55,1,7,27,MIA,MIA,ft_make,16,False,False,,Richardson Free Throw Technical (6 PTS),15-16,15,16
 0021800128,2018-11-03,ATL,MIA,4.75,1,7,15,ATL,ATL,fg_make,98,False,False,Spellman 2' Cutting Layup Shot (5 PTS) (Young 4 AST),,17-16,17,16
 0021800128,2018-11-03,ATL,MIA,4.75,1,7,15,ATL,MIA,foul,2,False,False,,Richardson S.FOUL (P1.T1) (D.Collins),17-16,17,16
 0021800128,2018-11-03,ATL,MIA,4.75,1,7,15,ATL,ATL,ft_miss,10,False,False,MISS Spellman Free Throw 1 of 1,,17-16,17,16
@@ -71,8 +71,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800128,2018-11-03,ATL,MIA,8.85,1,3,9,MIA,MIA,fg_miss,86,False,False,,MISS Richardson 12' Turnaround Fadeaway Shot,31-26,31,26
 0021800128,2018-11-03,ATL,MIA,8.93,1,3,4,ATL,ATL,reb,0,False,False,Dedmon REBOUND (Off:0 Def:2),,31-26,31,26
 0021800128,2018-11-03,ATL,MIA,9.18,1,2,49,ATL,ATL,fg_miss,5,True,False,MISS Dedmon 2' Layup,,31-26,31,26
-0021800128,2018-11-03,ATL,MIA,9.18,1,2,49,ATL,ATL,reb,0,False,False,HAWKS Rebound,,31-26,31,26
 0021800128,2018-11-03,ATL,MIA,9.18,1,2,49,ATL,MIA,block,5,True,False,block,block,31-26,31,26
+0021800128,2018-11-03,ATL,MIA,9.18,1,2,49,ATL,ATL,reb,0,False,False,HAWKS Rebound,,31-26,31,26
 0021800128,2018-11-03,ATL,MIA,9.22,1,2,47,ATL,MIA,foul,2,False,False,,Johnson S.FOUL (P1.T3) (M.Davis),31-26,31,26
 0021800128,2018-11-03,ATL,MIA,9.22,1,2,47,ATL,ATL,ft_make,11,False,False,Bembry Free Throw 1 of 2 (1 PTS),,32-26,32,26
 0021800128,2018-11-03,ATL,MIA,9.22,1,2,47,ATL,ATL,ft_make,12,False,False,Bembry Free Throw 2 of 2 (2 PTS),,33-26,33,26
@@ -224,8 +224,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800128,2018-11-03,ATL,MIA,24.52,3,11,29,ATL,ATL,fg_miss,97,False,False,MISS Spellman 1' Tip Layup Shot,,74-68,74,68
 0021800128,2018-11-03,ATL,MIA,24.52,3,11,29,MIA,MIA,reb,0,False,False,,Whiteside REBOUND (Off:1 Def:6),74-68,74,68
 0021800128,2018-11-03,ATL,MIA,24.57,3,11,26,MIA,MIA,tov,1,False,True,,Winslow Bad Pass Turnover (P2.T10),74-68,74,68
-0021800128,2018-11-03,ATL,MIA,24.57,3,11,26,ATL,ATL,tov,1,False,True,Bazemore Bad Pass Turnover (P4.T9),,74-68,74,68
 0021800128,2018-11-03,ATL,MIA,24.57,3,11,26,MIA,ATL,steal,1,False,True,steal,steal,74-68,74,68
+0021800128,2018-11-03,ATL,MIA,24.57,3,11,26,ATL,ATL,tov,1,False,True,Bazemore Bad Pass Turnover (P4.T9),,74-68,74,68
 0021800128,2018-11-03,ATL,MIA,24.57,3,11,26,ATL,MIA,steal,1,False,True,steal,steal,74-68,74,68
 0021800128,2018-11-03,ATL,MIA,24.73,3,11,16,MIA,ATL,foul,2,False,False,Prince S.FOUL (P3.T1) (M.Davis),,74-68,74,68
 0021800128,2018-11-03,ATL,MIA,24.73,3,11,16,MIA,MIA,ft_make,13,False,False,,Richardson Free Throw 1 of 3 (16 PTS),74-69,74,69
@@ -243,11 +243,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800128,2018-11-03,ATL,MIA,25.53,3,10,28,MIA,ATL,steal,1,False,True,steal,steal,79-71,79,71
 0021800128,2018-11-03,ATL,MIA,25.6,3,10,24,ATL,ATL,tov,45,False,False,Bazemore Out of Bounds - Bad Pass Turnover Turnover (P5.T10),,79-71,79,71
 0021800128,2018-11-03,ATL,MIA,25.77,3,10,14,MIA,MIA,fg_miss,101,True,False,,MISS McGruder 14' Driving Floating Jump Shot,79-71,79,71
+0021800128,2018-11-03,ATL,MIA,25.77,3,10,14,MIA,ATL,block,101,True,False,block,block,79-71,79,71
 0021800128,2018-11-03,ATL,MIA,25.77,3,10,14,MIA,MIA,reb,0,False,False,,Whiteside REBOUND (Off:2 Def:6),79-71,79,71
 0021800128,2018-11-03,ATL,MIA,25.77,3,10,14,MIA,MIA,fg_miss,5,True,False,,MISS Whiteside 9' Layup,79-71,79,71
-0021800128,2018-11-03,ATL,MIA,25.77,3,10,14,ATL,ATL,reb,0,False,False,HAWKS Rebound,,79-71,79,71
-0021800128,2018-11-03,ATL,MIA,25.77,3,10,14,MIA,ATL,block,101,True,False,block,block,79-71,79,71
 0021800128,2018-11-03,ATL,MIA,25.77,3,10,14,MIA,ATL,block,5,True,False,block,block,79-71,79,71
+0021800128,2018-11-03,ATL,MIA,25.77,3,10,14,ATL,ATL,reb,0,False,False,HAWKS Rebound,,79-71,79,71
 0021800128,2018-11-03,ATL,MIA,25.9,3,10,6,,ATL,jump_ball,0,False,False,Jump Ball Len vs. Whiteside: Tip to Spellman,,79-71,79,71
 0021800128,2018-11-03,ATL,MIA,25.92,3,10,5,ATL,ATL,fg_make,7,False,False,Huerter 1' Dunk (10 PTS) (Young 10 AST),,81-71,81,71
 0021800128,2018-11-03,ATL,MIA,25.92,3,10,5,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.3 Short 0),81-71,81,71
@@ -314,8 +314,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800128,2018-11-03,ATL,MIA,33.7,3,2,18,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:2 Def:2),96-88,96,88
 0021800128,2018-11-03,ATL,MIA,33.87,3,2,8,MIA,MIA,fg_make,78,False,False,,McGruder 12' Floating Jump Shot (16 PTS) (Wade 2 AST),96-90,96,90
 0021800128,2018-11-03,ATL,MIA,34.22,3,1,47,ATL,ATL,fg_miss,6,True,False,MISS Bazemore 3' Driving Layup,,96-90,96,90
-0021800128,2018-11-03,ATL,MIA,34.22,3,1,47,ATL,ATL,reb,0,False,False,HAWKS Rebound,,96-90,96,90
 0021800128,2018-11-03,ATL,MIA,34.22,3,1,47,ATL,MIA,block,6,True,False,block,block,96-90,96,90
+0021800128,2018-11-03,ATL,MIA,34.22,3,1,47,ATL,ATL,reb,0,False,False,HAWKS Rebound,,96-90,96,90
 0021800128,2018-11-03,ATL,MIA,34.28,3,1,43,ATL,ATL,fg_miss,79,False,False,MISS Bembry 21' Pullup Jump Shot,,96-90,96,90
 0021800128,2018-11-03,ATL,MIA,34.28,3,1,43,ATL,ATL,reb,0,False,False,HAWKS Rebound,,96-90,96,90
 0021800128,2018-11-03,ATL,MIA,34.28,3,1,43,ATL,ATL,tov,11,False,False,HAWKS Turnover: Shot Clock (T#14),,96-90,96,90
@@ -386,8 +386,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800128,2018-11-03,ATL,MIA,40.78,4,7,13,MIA,MIA,fg3_miss,79,False,False,,MISS Richardson 25' 3PT Pullup Jump Shot,110-109,110,109
 0021800128,2018-11-03,ATL,MIA,40.83,4,7,10,ATL,ATL,reb,0,False,False,Len REBOUND (Off:1 Def:2),,110-109,110,109
 0021800128,2018-11-03,ATL,MIA,40.98,4,7,1,ATL,ATL,fg_miss,101,True,False,MISS Lin 10' Driving Floating Jump Shot,,110-109,110,109
-0021800128,2018-11-03,ATL,MIA,40.98,4,7,1,ATL,ATL,reb,0,False,False,HAWKS Rebound,,110-109,110,109
 0021800128,2018-11-03,ATL,MIA,40.98,4,7,1,ATL,MIA,block,101,True,False,block,block,110-109,110,109
+0021800128,2018-11-03,ATL,MIA,40.98,4,7,1,ATL,ATL,reb,0,False,False,HAWKS Rebound,,110-109,110,109
 0021800128,2018-11-03,ATL,MIA,41.2,4,6,48,ATL,ATL,fg3_miss,79,False,False,MISS Huerter 29' 3PT Pullup Jump Shot,,110-109,110,109
 0021800128,2018-11-03,ATL,MIA,41.3,4,6,42,MIA,MIA,reb,0,False,False,,Winslow REBOUND (Off:5 Def:2),110-109,110,109
 0021800128,2018-11-03,ATL,MIA,41.32,4,6,41,MIA,ATL,foul,2,False,False,Bembry S.FOUL (P1.T2) (B.Nansel),,110-109,110,109
@@ -404,8 +404,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800128,2018-11-03,ATL,MIA,42.4,4,5,36,MIA,MIA,fg3_miss,1,False,False,,MISS McGruder 26' 3PT Jump Shot,114-111,114,111
 0021800128,2018-11-03,ATL,MIA,42.48,4,5,31,ATL,ATL,reb,0,False,False,Len REBOUND (Off:1 Def:3),,114-111,114,111
 0021800128,2018-11-03,ATL,MIA,42.65,4,5,21,ATL,ATL,fg_miss,6,True,False,MISS Bembry 2' Driving Layup,,114-111,114,111
-0021800128,2018-11-03,ATL,MIA,42.65,4,5,21,MIA,MIA,reb,0,False,False,,Heat Rebound,114-111,114,111
 0021800128,2018-11-03,ATL,MIA,42.65,4,5,21,ATL,MIA,block,6,True,False,block,block,114-111,114,111
+0021800128,2018-11-03,ATL,MIA,42.65,4,5,21,MIA,MIA,reb,0,False,False,,Heat Rebound,114-111,114,111
 0021800128,2018-11-03,ATL,MIA,42.82,4,5,11,MIA,MIA,fg_make,6,False,False,,Winslow 3' Driving Layup (12 PTS),114-113,114,113
 0021800128,2018-11-03,ATL,MIA,43.1,4,4,54,ATL,ATL,fg_make,6,False,False,Bembry 1' Driving Layup (6 PTS) (Lin 4 AST),,116-113,116,113
 0021800128,2018-11-03,ATL,MIA,43.37,4,4,38,MIA,ATL,foul,2,False,False,Len S.FOUL (P2.T3) (D.Collins),,116-113,116,113

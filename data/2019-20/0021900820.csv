@@ -39,9 +39,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900820,2020-02-20,DET,MIL,4.92,1,7,5,DET,DET,fg3_miss,1,False,False,MISS Doumbouya 3PT Jump Shot,,7-14,7,14
 0021900820,2020-02-20,DET,MIL,4.98,1,7,1,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:0 Def:4),7-14,7,14
 0021900820,2020-02-20,DET,MIL,5.07,1,6,56,MIL,MIL,fg_miss,6,True,False,,MISS Antetokounmpo 4' Driving Layup,7-14,7,14
+0021900820,2020-02-20,DET,MIL,5.07,1,6,56,MIL,DET,block,6,True,False,block,block,7-14,7,14
 0021900820,2020-02-20,DET,MIL,5.07,1,6,56,MIL,MIL,reb,0,False,False,,Bucks Rebound,7-14,7,14
 0021900820,2020-02-20,DET,MIL,5.07,1,6,56,DET,DET,timeout,1,False,False,PISTONS Timeout: Regular (Full 1 Short 0),,7-14,7,14
-0021900820,2020-02-20,DET,MIL,5.07,1,6,56,MIL,DET,block,6,True,False,block,block,7-14,7,14
 0021900820,2020-02-20,DET,MIL,5.22,1,6,47,MIL,MIL,fg_make,58,False,False,,Lopez 9' Turnaround Hook Shot (2 PTS) (Bledsoe 2 AST),7-16,7,16
 0021900820,2020-02-20,DET,MIL,5.52,1,6,29,DET,DET,fg_make,80,False,False,Wood 17' Step Back Jump Shot (2 PTS) (Mykhailiuk 1 AST),,9-16,9,16
 0021900820,2020-02-20,DET,MIL,5.73,1,6,16,MIL,MIL,fg_miss,79,False,False,,MISS Middleton 15' Pullup Jump Shot,9-16,9,16
@@ -98,10 +98,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900820,2020-02-20,DET,MIL,11.97,1,0,2,MIL,DET,foul,2,False,False,Brown S.FOUL (P2.PN) (R.Mott),,18-31,18,31
 0021900820,2020-02-20,DET,MIL,11.97,1,0,2,MIL,MIL,ft_make,10,False,False,,Bledsoe Free Throw 1 of 1 (3 PTS),18-32,18,32
 0021900820,2020-02-20,DET,MIL,12.0,1,0,0,DET,DET,fg3_miss,1,True,False,MISS Galloway 26' 3PT Jump Shot,,18-32,18,32
+0021900820,2020-02-20,DET,MIL,12.0,1,0,0,DET,MIL,block,1,True,False,block,block,18-32,18,32
 0021900820,2020-02-20,DET,MIL,12.0,1,0,0,DET,DET,reb,0,False,False,PISTONS Rebound,,18-32,18,32
 0021900820,2020-02-20,DET,MIL,12.0,1,0,0,DET,,period_end,0,False,False,,,18-32,18,32
 0021900820,2020-02-20,DET,MIL,12.0,2,12,0,DET,,period_start,0,False,False,,,18-32,18,32
-0021900820,2020-02-20,DET,MIL,12.0,1,0,0,DET,MIL,block,1,True,False,block,block,18-32,18,32
 0021900820,2020-02-20,DET,MIL,12.2,2,11,48,MIL,DET,foul,2,False,False,Henson S.FOUL (P1.T1) (E.Dalen),,18-32,18,32
 0021900820,2020-02-20,DET,MIL,12.2,2,11,48,MIL,MIL,ft_make,11,False,False,,Lopez Free Throw 1 of 2 (3 PTS),18-33,18,33
 0021900820,2020-02-20,DET,MIL,12.2,2,11,48,MIL,MIL,ft_make,12,False,False,,Lopez Free Throw 2 of 2 (4 PTS),18-34,18,34
@@ -221,10 +221,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900820,2020-02-20,DET,MIL,23.5,2,0,30,DET,DET,ft_make,12,False,False,Wood Free Throw 2 of 2 (10 PTS),,41-68,41,68
 0021900820,2020-02-20,DET,MIL,23.77,2,0,14,MIL,MIL,fg_make,98,False,False,,Antetokounmpo 2' Cutting Layup Shot (19 PTS) (Bledsoe 5 AST),41-70,41,70
 0021900820,2020-02-20,DET,MIL,24.0,2,0,0,DET,DET,fg_miss,6,True,False,MISS Rose 2' Driving Layup,,41-70,41,70
+0021900820,2020-02-20,DET,MIL,24.0,2,0,0,DET,MIL,block,6,True,False,block,block,41-70,41,70
 0021900820,2020-02-20,DET,MIL,24.0,2,0,0,DET,DET,reb,0,False,False,PISTONS Rebound,,41-70,41,70
 0021900820,2020-02-20,DET,MIL,24.0,2,0,0,DET,,period_end,0,False,False,,,41-70,41,70
 0021900820,2020-02-20,DET,MIL,24.0,3,12,0,DET,,period_start,0,False,False,,,41-70,41,70
-0021900820,2020-02-20,DET,MIL,24.0,2,0,0,DET,MIL,block,6,True,False,block,block,41-70,41,70
 0021900820,2020-02-20,DET,MIL,24.22,3,11,47,MIL,MIL,tov,4,False,False,,Lopez Traveling Turnover (P1.T2),41-70,41,70
 0021900820,2020-02-20,DET,MIL,24.4,3,11,36,DET,DET,fg3_miss,1,False,False,MISS Snell 25' 3PT Jump Shot,,41-70,41,70
 0021900820,2020-02-20,DET,MIL,24.45,3,11,33,MIL,MIL,reb,0,False,False,,Bledsoe REBOUND (Off:0 Def:3),41-70,41,70
@@ -369,10 +369,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900820,2020-02-20,DET,MIL,41.0,4,7,0,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:2 Def:14),85-111,85,111
 0021900820,2020-02-20,DET,MIL,41.02,4,6,59,MIL,MIL,fg_make,72,False,False,,Antetokounmpo Putback Layup (29 PTS),85-113,85,113
 0021900820,2020-02-20,DET,MIL,41.23,4,6,46,DET,DET,fg_miss,7,True,False,MISS Wood 2' Dunk,,85-113,85,113
+0021900820,2020-02-20,DET,MIL,41.23,4,6,46,DET,MIL,block,7,True,False,block,block,85-113,85,113
 0021900820,2020-02-20,DET,MIL,41.23,4,6,46,DET,DET,reb,0,False,False,Wood REBOUND (Off:2 Def:9),,85-113,85,113
 0021900820,2020-02-20,DET,MIL,41.23,4,6,46,DET,MIL,foul,1,False,False,,G. Hill P.FOUL (P2.T2) (E.Dalen),85-113,85,113
 0021900820,2020-02-20,DET,MIL,41.23,4,6,46,DET,DET,timeout,1,False,False,PISTONS Timeout: Regular (Full 6 Short 0),,85-113,85,113
-0021900820,2020-02-20,DET,MIL,41.23,4,6,46,DET,MIL,block,7,True,False,block,block,85-113,85,113
 0021900820,2020-02-20,DET,MIL,41.48,4,6,31,DET,DET,tov,11,False,False,PISTONS Turnover: Shot Clock (T#20),,85-113,85,113
 0021900820,2020-02-20,DET,MIL,41.73,4,6,16,MIL,MIL,fg_make,80,False,False,,Antetokounmpo 15' Step Back Jump Shot (31 PTS),85-115,85,115
 0021900820,2020-02-20,DET,MIL,41.98,4,6,1,DET,DET,fg_make,1,False,False,Brown 10' Jump Shot (13 PTS),,87-115,87,115

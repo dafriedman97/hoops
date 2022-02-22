@@ -91,8 +91,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000251,2021-01-24,LAC,OKC,10.15,1,1,51,OKC,OKC,fg_miss,101,False,False,,MISS Diallo 11' Driving Floating Jump Shot,29-15,29,15
 0022000251,2021-01-24,LAC,OKC,10.15,1,1,51,OKC,OKC,reb,0,False,False,,Thunder Rebound,29-15,29,15
 0022000251,2021-01-24,LAC,OKC,10.22,1,1,47,OKC,OKC,fg3_miss,1,False,False,,MISS Pokusevski 24' 3PT Jump Shot,29-15,29,15
-0022000251,2021-01-24,LAC,OKC,10.33,1,1,40,OKC,OKC,fg_make,72,False,False,,Muscala Putback Layup (2 PTS),29-17,29,17
 0022000251,2021-01-24,LAC,OKC,10.33,1,1,40,OKC,OKC,reb,0,False,False,,Muscala REBOUND (Off:1 Def:0),29-17,29,17
+0022000251,2021-01-24,LAC,OKC,10.33,1,1,40,OKC,OKC,fg_make,72,False,False,,Muscala Putback Layup (2 PTS),29-17,29,17
 0022000251,2021-01-24,LAC,OKC,10.4,1,1,36,LAC,LAC,tov,1,False,True,Williams Bad Pass Turnover (P1.T4),,29-17,29,17
 0022000251,2021-01-24,LAC,OKC,10.4,1,1,36,LAC,OKC,steal,1,False,True,steal,steal,29-17,29,17
 0022000251,2021-01-24,LAC,OKC,10.47,1,1,32,OKC,OKC,fg_make,98,False,False,,Williams 2' Cutting Layup Shot (2 PTS) (Diallo 1 AST),29-19,29,19
@@ -105,8 +105,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000251,2021-01-24,LAC,OKC,11.37,1,0,38,LAC,OKC,foul,1,False,False,,Muscala P.FOUL (P1.T2) (J.Van Duyne),32-19,32,19
 0022000251,2021-01-24,LAC,OKC,11.52,1,0,29,LAC,LAC,fg_make,6,False,False,Leonard 1' Driving Layup (12 PTS),,34-19,34,19
 0022000251,2021-01-24,LAC,OKC,11.72,1,0,17,OKC,OKC,fg_miss,6,True,False,,MISS Diallo 3' Driving Layup,34-19,34,19
-0022000251,2021-01-24,LAC,OKC,11.72,1,0,17,OKC,OKC,reb,0,False,False,,Thunder Rebound,34-19,34,19
 0022000251,2021-01-24,LAC,OKC,11.72,1,0,17,OKC,LAC,block,6,True,False,block,block,34-19,34,19
+0022000251,2021-01-24,LAC,OKC,11.72,1,0,17,OKC,OKC,reb,0,False,False,,Thunder Rebound,34-19,34,19
 0022000251,2021-01-24,LAC,OKC,11.82,1,0,11,OKC,OKC,fg3_miss,1,False,False,,MISS Muscala 27' 3PT Jump Shot,34-19,34,19
 0022000251,2021-01-24,LAC,OKC,11.87,1,0,8,LAC,LAC,reb,0,False,False,Zubac REBOUND (Off:0 Def:2),,34-19,34,19
 0022000251,2021-01-24,LAC,OKC,11.97,1,0,2,LAC,LAC,fg_make,108,False,False,Leonard 2' Cutting Dunk Shot (14 PTS) (Zubac 1 AST),,36-19,36,19
@@ -183,8 +183,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000251,2021-01-24,LAC,OKC,20.32,2,3,41,OKC,OKC,ft_make,12,False,False,,Gilgeous-Alexander Free Throw 2 of 2 (6 PTS),46-37,46,37
 0022000251,2021-01-24,LAC,OKC,20.47,2,3,32,LAC,OKC,foul,1,False,False,,Dort P.FOUL (P2.PN) (J.Butler),46-37,46,37
 0022000251,2021-01-24,LAC,OKC,20.47,2,3,32,LAC,LAC,ft_make,11,False,False,Beverley Free Throw 1 of 2 (6 PTS),,47-37,47,37
-0022000251,2021-01-24,LAC,OKC,20.47,2,3,32,LAC,LAC,ft_make,12,False,False,Beverley Free Throw 2 of 2 (7 PTS),,48-37,48,37
 0022000251,2021-01-24,LAC,OKC,20.47,2,3,32,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.3 Short 0),48-37,48,37
+0022000251,2021-01-24,LAC,OKC,20.47,2,3,32,LAC,LAC,ft_make,12,False,False,Beverley Free Throw 2 of 2 (7 PTS),,48-37,48,37
 0022000251,2021-01-24,LAC,OKC,20.85,2,3,9,OKC,OKC,fg3_miss,80,False,False,,MISS Roby 3PT Step Back Jump Shot,48-37,48,37
 0022000251,2021-01-24,LAC,OKC,20.9,2,3,6,LAC,LAC,reb,0,False,False,Beverley REBOUND (Off:1 Def:2),,48-37,48,37
 0022000251,2021-01-24,LAC,OKC,21.05,2,2,57,LAC,LAC,fg3_miss,1,False,False,MISS Leonard 26' 3PT Jump Shot,,48-37,48,37
@@ -314,8 +314,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000251,2021-01-24,LAC,OKC,36.23,4,11,46,LAC,OKC,foul,1,False,False,,Diallo P.FOUL (P2.T1) (J.Butler),85-73,85,73
 0022000251,2021-01-24,LAC,OKC,36.43,4,11,34,LAC,LAC,fg_make,58,False,False,Zubac 6' Turnaround Hook Shot (6 PTS),,87-73,87,73
 0022000251,2021-01-24,LAC,OKC,36.67,4,11,20,OKC,OKC,fg3_miss,79,False,False,,MISS Maledon 26' 3PT Pullup Jump Shot,87-73,87,73
-0022000251,2021-01-24,LAC,OKC,36.75,4,11,15,OKC,OKC,fg_make,107,False,False,,Muscala Tip Dunk Shot (7 PTS),87-75,87,75
 0022000251,2021-01-24,LAC,OKC,36.75,4,11,15,OKC,OKC,reb,0,False,False,,Muscala REBOUND (Off:3 Def:4),87-75,87,75
+0022000251,2021-01-24,LAC,OKC,36.75,4,11,15,OKC,OKC,fg_make,107,False,False,,Muscala Tip Dunk Shot (7 PTS),87-75,87,75
 0022000251,2021-01-24,LAC,OKC,36.8,4,11,12,LAC,OKC,violation,5,False,False,,Muscala Violation:Kicked Ball (J.Van Duyne),87-75,87,75
 0022000251,2021-01-24,LAC,OKC,36.98,4,11,1,LAC,OKC,foul,2,False,False,,Muscala S.FOUL (P2.T2) (J.Capers),87-75,87,75
 0022000251,2021-01-24,LAC,OKC,36.98,4,11,1,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.5 Short 0),87-75,87,75

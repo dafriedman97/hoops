@@ -101,8 +101,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000638,2021-03-19,PHX,MIN,12.52,2,11,29,MIN,MIN,ft_make,11,False,False,,Reid Free Throw 1 of 2 (3 PTS),37-30,37,30
 0022000638,2021-03-19,PHX,MIN,12.52,2,11,29,MIN,MIN,ft_make,12,False,False,,Reid Free Throw 2 of 2 (4 PTS),37-31,37,31
 0022000638,2021-03-19,PHX,MIN,12.68,2,11,19,PHX,PHX,fg_miss,102,False,False,MISS Payne 8' Driving Floating Bank Jump Shot,,37-31,37,31
-0022000638,2021-03-19,PHX,MIN,12.78,2,11,13,PHX,PHX,fg_make,107,False,False,Nader Tip Dunk Shot (5 PTS),,39-31,39,31
 0022000638,2021-03-19,PHX,MIN,12.78,2,11,13,PHX,PHX,reb,0,False,False,Nader REBOUND (Off:1 Def:0),,39-31,39,31
+0022000638,2021-03-19,PHX,MIN,12.78,2,11,13,PHX,PHX,fg_make,107,False,False,Nader Tip Dunk Shot (5 PTS),,39-31,39,31
 0022000638,2021-03-19,PHX,MIN,12.97,2,11,2,MIN,MIN,fg_miss,79,False,False,,MISS Edwards 14' Pullup Jump Shot,39-31,39,31
 0022000638,2021-03-19,PHX,MIN,13.02,2,10,59,PHX,PHX,reb,0,False,False,Saric REBOUND (Off:0 Def:2),,39-31,39,31
 0022000638,2021-03-19,PHX,MIN,13.08,2,10,55,PHX,PHX,fg_miss,41,True,False,MISS Nader 4' Running Layup,,39-31,39,31
@@ -147,10 +147,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000638,2021-03-19,PHX,MIN,16.72,2,7,17,PHX,PHX,timeout,1,False,False,SUNS Timeout: Regular (Full 2 Short 0),,43-42,43,42
 0022000638,2021-03-19,PHX,MIN,16.72,2,7,17,PHX,,foul,11,False,False,,,43-42,43,42
 0022000638,2021-03-19,PHX,MIN,16.72,2,7,17,PHX,,foul,11,False,False,,,43-42,43,42
-0022000638,2021-03-19,PHX,MIN,16.72,2,7,17,PHX,,ejection,4,False,False,,,43-42,43,42
 0022000638,2021-03-19,PHX,MIN,16.72,2,7,17,MIN,MIN,ft_miss,16,False,False,,MISS Rubio Free Throw Technical,43-42,43,42
 0022000638,2021-03-19,PHX,MIN,16.72,2,7,17,PHX,PHX,reb,1,False,False,SUNS Rebound,,43-42,43,42
 0022000638,2021-03-19,PHX,MIN,16.72,2,7,17,PHX,MIN,ft_make,16,False,False,,Rubio Free Throw Technical (10 PTS),43-43,43,43
+0022000638,2021-03-19,PHX,MIN,16.72,2,7,17,PHX,,ejection,4,False,False,,,43-42,43,42
 0022000638,2021-03-19,PHX,MIN,16.93,2,7,4,PHX,PHX,fg_miss,86,False,False,MISS Ayton 13' Turnaround Fadeaway Shot,,43-43,43,43
 0022000638,2021-03-19,PHX,MIN,16.97,2,7,2,MIN,MIN,reb,0,False,False,,McDaniels REBOUND (Off:0 Def:3),43-43,43,43
 0022000638,2021-03-19,PHX,MIN,17.22,2,6,47,MIN,MIN,fg_make,9,False,False,,Towns 1' Driving Dunk (13 PTS) (Edwards 4 AST),43-45,43,45
@@ -273,8 +273,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000638,2021-03-19,PHX,MIN,30.05,3,5,57,MIN,MIN,tov,1,False,True,,Edwards Bad Pass Turnover (P6.T13),67-69,67,69
 0022000638,2021-03-19,PHX,MIN,30.05,3,5,57,MIN,PHX,steal,1,False,True,steal,steal,67-69,67,69
 0022000638,2021-03-19,PHX,MIN,30.13,3,5,52,PHX,PHX,fg_miss,41,True,False,MISS Booker 2' Running Layup,,67-69,67,69
-0022000638,2021-03-19,PHX,MIN,30.13,3,5,52,PHX,PHX,reb,0,False,False,SUNS Rebound,,67-69,67,69
 0022000638,2021-03-19,PHX,MIN,30.13,3,5,52,PHX,MIN,block,41,True,False,block,block,67-69,67,69
+0022000638,2021-03-19,PHX,MIN,30.13,3,5,52,PHX,PHX,reb,0,False,False,SUNS Rebound,,67-69,67,69
 0022000638,2021-03-19,PHX,MIN,30.28,3,5,43,PHX,PHX,fg_make,79,False,False,Paul 20' Pullup Jump Shot (6 PTS),,69-69,69,69
 0022000638,2021-03-19,PHX,MIN,30.5,3,5,30,PHX,MIN,foul,26,False,False,,Towns Offensive Charge Foul (P2.T3) (S.Twardoski),69-69,69,69
 0022000638,2021-03-19,PHX,MIN,30.5,3,5,30,MIN,MIN,tov,37,False,False,,Towns Offensive Foul Turnover (P5.T14),69-69,69,69
@@ -319,10 +319,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000638,2021-03-19,PHX,MIN,35.95,3,0,3,MIN,MIN,tov,37,False,False,,Reid Offensive Foul Turnover (P1.T16),83-78,83,78
 0022000638,2021-03-19,PHX,MIN,35.97,3,0,2,PHX,MIN,foul,1,False,False,,Culver P.FOUL (P2.PN) (S.Twardoski),83-78,83,78
 0022000638,2021-03-19,PHX,MIN,36.0,3,0,0,PHX,PHX,fg3_miss,1,True,False,MISS Kaminsky 26' 3PT Jump Shot,,83-78,83,78
+0022000638,2021-03-19,PHX,MIN,36.0,3,0,0,PHX,MIN,block,1,True,False,block,block,83-78,83,78
 0022000638,2021-03-19,PHX,MIN,36.0,3,0,0,MIN,MIN,reb,0,False,False,,Layman REBOUND (Off:0 Def:2),83-78,83,78
 0022000638,2021-03-19,PHX,MIN,36.0,3,0,0,MIN,,period_end,0,False,False,,,83-78,83,78
 0022000638,2021-03-19,PHX,MIN,36.0,4,12,0,MIN,,period_start,0,False,False,,,83-78,83,78
-0022000638,2021-03-19,PHX,MIN,36.0,3,0,0,PHX,MIN,block,1,True,False,block,block,83-78,83,78
 0022000638,2021-03-19,PHX,MIN,36.38,4,11,37,MIN,MIN,fg_miss,80,False,False,,MISS Layman 13' Step Back Jump Shot,83-78,83,78
 0022000638,2021-03-19,PHX,MIN,36.47,4,11,32,PHX,PHX,reb,0,False,False,Bridges REBOUND (Off:0 Def:5),,83-78,83,78
 0022000638,2021-03-19,PHX,MIN,36.75,4,11,15,PHX,PHX,fg_miss,101,False,False,MISS Payne 7' Driving Floating Jump Shot,,83-78,83,78
@@ -343,8 +343,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000638,2021-03-19,PHX,MIN,38.88,4,9,7,MIN,MIN,tov,2,False,True,,Nowell Lost Ball Turnover (P1.T17),89-81,89,81
 0022000638,2021-03-19,PHX,MIN,38.88,4,9,7,MIN,PHX,steal,2,False,True,steal,steal,89-81,89,81
 0022000638,2021-03-19,PHX,MIN,38.95,4,9,3,PHX,PHX,fg_miss,41,True,False,MISS Crowder 1' Running Layup,,89-81,89,81
-0022000638,2021-03-19,PHX,MIN,38.95,4,9,3,PHX,PHX,reb,0,False,False,SUNS Rebound,,89-81,89,81
 0022000638,2021-03-19,PHX,MIN,38.95,4,9,3,PHX,MIN,block,41,True,False,block,block,89-81,89,81
+0022000638,2021-03-19,PHX,MIN,38.95,4,9,3,PHX,PHX,reb,0,False,False,SUNS Rebound,,89-81,89,81
 0022000638,2021-03-19,PHX,MIN,39.05,4,8,57,PHX,PHX,fg3_make,1,False,False,Bridges 26' 3PT Jump Shot (10 PTS) (Payne 4 AST),,92-81,92,81
 0022000638,2021-03-19,PHX,MIN,39.33,4,8,40,MIN,MIN,tov,1,False,True,,Reid Bad Pass Turnover (P2.T18),92-81,92,81
 0022000638,2021-03-19,PHX,MIN,39.33,4,8,40,MIN,PHX,steal,1,False,True,steal,steal,92-81,92,81

@@ -197,9 +197,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700934,2018-03-02,UTA,MIN,22.25,2,1,45,UTA,UTA,fg_make,9,False,False,Ingles 2' Driving Dunk (5 PTS),,46-41,46,41
 0021700934,2018-03-02,UTA,MIN,22.63,2,1,22,MIN,MIN,fg_miss,79,False,False,,MISS Crawford 17' Pullup Jump Shot,46-41,46,41
 0021700934,2018-03-02,UTA,MIN,22.67,2,1,20,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:1 Def:8),,46-41,46,41
+0021700934,2018-03-02,UTA,MIN,22.78,2,1,13,UTA,UTA,fg_make,107,False,False,Gobert 2' Tip Dunk Shot (16 PTS),,48-41,48,41
 0021700934,2018-03-02,UTA,MIN,22.78,2,1,13,UTA,UTA,fg_miss,6,False,False,MISS Rubio 2' Driving Layup,,46-41,46,41
 0021700934,2018-03-02,UTA,MIN,22.78,2,1,13,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:2 Def:8),,46-41,46,41
-0021700934,2018-03-02,UTA,MIN,22.78,2,1,13,UTA,UTA,fg_make,107,False,False,Gobert 2' Tip Dunk Shot (16 PTS),,48-41,48,41
 0021700934,2018-03-02,UTA,MIN,23.0,2,1,0,MIN,UTA,foul,1,False,False,Crowder P.FOUL (P2.PN) (B.Barnaky),,48-41,48,41
 0021700934,2018-03-02,UTA,MIN,23.0,2,1,0,UTA,MIN,foul,11,False,False,,Towns T.FOUL (P0.PN) (B.Barnaky),48-41,48,41
 0021700934,2018-03-02,UTA,MIN,23.0,2,1,0,UTA,UTA,ft_make,16,False,False,Rubio Free Throw Technical (4 PTS),,49-41,49,41
@@ -214,8 +214,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700934,2018-03-02,UTA,MIN,23.25,2,0,45,UTA,UTA,ft_make,12,False,False,Gobert Free Throw 2 of 2 (18 PTS),,53-43,53,43
 0021700934,2018-03-02,UTA,MIN,23.62,2,0,23,MIN,MIN,fg_make,57,False,False,,Towns 5' Driving Hook Shot (13 PTS),53-45,53,45
 0021700934,2018-03-02,UTA,MIN,23.62,2,0,23,UTA,MIN,foul,11,False,False,,Towns T.FOUL (P1.PN) (K.Fitzgerald),53-45,53,45
-0021700934,2018-03-02,UTA,MIN,23.62,2,0,23,UTA,MIN,ejection,4,False,False,,Towns Ejection:Other,53-45,53,45
 0021700934,2018-03-02,UTA,MIN,23.62,2,0,23,UTA,UTA,ft_make,16,False,False,Rubio Free Throw Technical (5 PTS),,54-45,54,45
+0021700934,2018-03-02,UTA,MIN,23.62,2,0,23,UTA,MIN,ejection,4,False,False,,Towns Ejection:Other,53-45,53,45
 0021700934,2018-03-02,UTA,MIN,23.93,2,0,4,UTA,UTA,fg_make,80,False,False,Mitchell 23' Step Back Jump Shot (9 PTS),,56-45,56,45
 0021700934,2018-03-02,UTA,MIN,24.0,2,0,0,UTA,,period_end,0,False,False,,,56-45,56,45
 0021700934,2018-03-02,UTA,MIN,24.0,3,12,0,UTA,,period_start,0,False,False,,,56-45,56,45
@@ -282,8 +282,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700934,2018-03-02,UTA,MIN,32.22,3,3,47,MIN,UTA,foul,4,False,False,Crowder OFF.Foul (P3) (K.Fitzgerald),,76-72,76,72
 0021700934,2018-03-02,UTA,MIN,32.22,3,3,47,UTA,UTA,tov,37,False,False,Crowder Offensive Foul Turnover (P1.T14),,76-72,76,72
 0021700934,2018-03-02,UTA,MIN,32.45,3,3,33,MIN,MIN,fg_miss,1,True,False,,MISS Wiggins 23' Jump Shot,76-72,76,72
-0021700934,2018-03-02,UTA,MIN,32.45,3,3,33,MIN,MIN,reb,0,False,False,,Wiggins REBOUND (Off:1 Def:0),76-72,76,72
 0021700934,2018-03-02,UTA,MIN,32.45,3,3,33,MIN,UTA,block,1,True,False,block,block,76-72,76,72
+0021700934,2018-03-02,UTA,MIN,32.45,3,3,33,MIN,MIN,reb,0,False,False,,Wiggins REBOUND (Off:1 Def:0),76-72,76,72
 0021700934,2018-03-02,UTA,MIN,32.63,3,3,22,MIN,MIN,fg3_miss,1,False,False,,MISS Bjelica 25' 3PT Jump Shot,76-72,76,72
 0021700934,2018-03-02,UTA,MIN,32.63,3,3,22,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,76-72,76,72
 0021700934,2018-03-02,UTA,MIN,32.65,3,3,21,MIN,MIN,tov,11,False,False,,Timberwolves Turnover: Shot Clock (T#9),76-72,76,72
@@ -320,9 +320,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700934,2018-03-02,UTA,MIN,36.0,3,0,0,UTA,,period_end,0,False,False,,,85-77,85,77
 0021700934,2018-03-02,UTA,MIN,36.0,4,12,0,UTA,,period_start,0,False,False,,,85-77,85,77
 0021700934,2018-03-02,UTA,MIN,36.43,4,11,34,UTA,UTA,fg_miss,6,False,False,MISS Jerebko 2' Driving Layup,,85-77,85,77
+0021700934,2018-03-02,UTA,MIN,36.45,4,11,33,UTA,UTA,reb,0,False,False,Jerebko REBOUND (Off:2 Def:0),,85-77,85,77
 0021700934,2018-03-02,UTA,MIN,36.45,4,11,33,UTA,UTA,fg_miss,97,False,False,MISS Jerebko 3' Tip Layup Shot,,85-77,85,77
 0021700934,2018-03-02,UTA,MIN,36.45,4,11,33,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:3 Def:10),,85-77,85,77
-0021700934,2018-03-02,UTA,MIN,36.45,4,11,33,UTA,UTA,reb,0,False,False,Jerebko REBOUND (Off:2 Def:0),,85-77,85,77
 0021700934,2018-03-02,UTA,MIN,36.53,4,11,28,UTA,UTA,fg_make,97,False,False,Gobert 1' Tip Layup Shot (24 PTS),,87-77,87,77
 0021700934,2018-03-02,UTA,MIN,36.85,4,11,9,MIN,MIN,fg3_make,1,False,False,,Wiggins 25' 3PT Jump Shot (15 PTS),87-80,87,80
 0021700934,2018-03-02,UTA,MIN,37.07,4,10,56,UTA,UTA,fg3_miss,1,False,False,MISS Jerebko 24' 3PT Jump Shot,,87-80,87,80
@@ -421,8 +421,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700934,2018-03-02,UTA,MIN,47.17,4,0,50,UTA,UTA,fg3_make,1,False,False,Mitchell 25' 3PT Jump Shot (26 PTS),,116-104,116,104
 0021700934,2018-03-02,UTA,MIN,47.25,4,0,45,MIN,UTA,foul,2,False,False,Crowder S.FOUL (P5.PN) (T.Maddox),,116-104,116,104
 0021700934,2018-03-02,UTA,MIN,47.25,4,0,45,MIN,UTA,foul,11,False,False,Crowder T.FOUL (P5.PN) (K.Fitzgerald),,116-104,116,104
-0021700934,2018-03-02,UTA,MIN,47.25,4,0,45,MIN,UTA,ejection,4,False,False,Crowder Ejection:Other,,116-104,116,104
 0021700934,2018-03-02,UTA,MIN,47.25,4,0,45,MIN,MIN,ft_make,16,False,False,,Jones Free Throw Technical (11 PTS),116-105,116,105
+0021700934,2018-03-02,UTA,MIN,47.25,4,0,45,MIN,UTA,ejection,4,False,False,Crowder Ejection:Other,,116-104,116,104
 0021700934,2018-03-02,UTA,MIN,47.25,4,0,45,MIN,MIN,ft_miss,13,False,False,,MISS Wiggins Free Throw 1 of 3,116-105,116,105
 0021700934,2018-03-02,UTA,MIN,47.25,4,0,45,MIN,MIN,reb,1,False,False,,Timberwolves Rebound,116-105,116,105
 0021700934,2018-03-02,UTA,MIN,47.25,4,0,45,MIN,MIN,ft_miss,14,False,False,,MISS Wiggins Free Throw 2 of 3,116-105,116,105

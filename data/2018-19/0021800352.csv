@@ -9,8 +9,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800352,2018-12-04,DAL,POR,1.23,1,10,46,DAL,DAL,fg3_make,1,False,False,Smith Jr. 26' 3PT Jump Shot (3 PTS) (Doncic 1 AST),,6-2,6,2
 0021800352,2018-12-04,DAL,POR,1.48,1,10,31,POR,POR,fg_make,44,False,False,,Nurkic 1' Reverse Layup (2 PTS) (Lillard 1 AST),6-4,6,4
 0021800352,2018-12-04,DAL,POR,1.87,1,10,8,DAL,DAL,fg_miss,98,True,False,MISS Jordan 2' Cutting Layup Shot,,6-4,6,4
-0021800352,2018-12-04,DAL,POR,1.87,1,10,8,POR,POR,reb,0,False,False,,Aminu REBOUND (Off:0 Def:1),6-4,6,4
 0021800352,2018-12-04,DAL,POR,1.87,1,10,8,DAL,POR,block,98,True,False,block,block,6-4,6,4
+0021800352,2018-12-04,DAL,POR,1.87,1,10,8,POR,POR,reb,0,False,False,,Aminu REBOUND (Off:0 Def:1),6-4,6,4
 0021800352,2018-12-04,DAL,POR,1.97,1,10,2,POR,POR,fg3_make,1,False,False,,Lillard 26' 3PT Jump Shot (3 PTS) (Aminu 1 AST),6-7,6,7
 0021800352,2018-12-04,DAL,POR,2.25,1,9,45,DAL,DAL,fg3_miss,1,False,False,MISS Barnes 3PT Jump Shot,,6-7,6,7
 0021800352,2018-12-04,DAL,POR,2.25,1,9,45,POR,POR,reb,0,False,False,,Lillard REBOUND (Off:0 Def:1),6-7,6,7
@@ -77,8 +77,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800352,2018-12-04,DAL,POR,10.43,1,1,34,DAL,DAL,fg_miss,72,False,False,MISS Powell 6' Putback Layup,,28-17,28,17
 0021800352,2018-12-04,DAL,POR,10.45,1,1,33,DAL,DAL,reb,0,False,False,Powell REBOUND (Off:2 Def:0),,28-17,28,17
 0021800352,2018-12-04,DAL,POR,10.47,1,1,32,DAL,DAL,fg_miss,72,True,False,MISS Powell 1' Putback Layup,,28-17,28,17
-0021800352,2018-12-04,DAL,POR,10.47,1,1,32,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,28-17,28,17
 0021800352,2018-12-04,DAL,POR,10.47,1,1,32,DAL,POR,block,72,True,False,block,block,28-17,28,17
+0021800352,2018-12-04,DAL,POR,10.47,1,1,32,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,28-17,28,17
 0021800352,2018-12-04,DAL,POR,10.55,1,1,27,POR,DAL,foul,4,False,False,Barea OFF.Foul (P1) (E.Malloy),,28-17,28,17
 0021800352,2018-12-04,DAL,POR,10.55,1,1,27,DAL,DAL,tov,37,False,False,Barea Offensive Foul Turnover (P1.T3),,28-17,28,17
 0021800352,2018-12-04,DAL,POR,10.65,1,1,21,POR,POR,fg3_make,1,False,False,,Curry 25' 3PT Jump Shot (3 PTS) (Turner 1 AST),28-20,28,20
@@ -172,8 +172,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800352,2018-12-04,DAL,POR,21.67,2,2,20,POR,POR,fg_miss,80,False,False,,MISS Lillard 20' Step Back Jump Shot,53-38,53,38
 0021800352,2018-12-04,DAL,POR,21.7,2,2,18,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:1 Def:3),,53-38,53,38
 0021800352,2018-12-04,DAL,POR,21.83,2,2,10,DAL,DAL,tov,1,False,True,Smith Jr. Bad Pass Turnover (P2.T6),,53-38,53,38
-0021800352,2018-12-04,DAL,POR,21.83,2,2,10,POR,DAL,foul,28,False,False,Jordan Personal Take Foul (P1.T3) (E.Malloy),,53-38,53,38
 0021800352,2018-12-04,DAL,POR,21.83,2,2,10,DAL,POR,steal,1,False,True,steal,steal,53-38,53,38
+0021800352,2018-12-04,DAL,POR,21.83,2,2,10,POR,DAL,foul,28,False,False,Jordan Personal Take Foul (P1.T3) (E.Malloy),,53-38,53,38
 0021800352,2018-12-04,DAL,POR,22.07,2,1,56,POR,DAL,foul,2,False,False,Matthews S.FOUL (P1.T4) (T.Maddox),,53-38,53,38
 0021800352,2018-12-04,DAL,POR,22.07,2,1,56,POR,POR,ft_make,11,False,False,,Lillard Free Throw 1 of 2 (6 PTS),53-39,53,39
 0021800352,2018-12-04,DAL,POR,22.07,2,1,56,POR,POR,ft_make,12,False,False,,Lillard Free Throw 2 of 2 (7 PTS),53-40,53,40
@@ -181,8 +181,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800352,2018-12-04,DAL,POR,22.65,2,1,21,POR,POR,fg_miss,9,False,False,,MISS Lillard 2' Driving Dunk,56-40,56,40
 0021800352,2018-12-04,DAL,POR,22.68,2,1,19,DAL,DAL,reb,0,False,False,Smith Jr. REBOUND (Off:0 Def:1),,56-40,56,40
 0021800352,2018-12-04,DAL,POR,22.73,2,1,16,DAL,DAL,tov,1,False,True,Smith Jr. Bad Pass Turnover (P3.T7),,56-40,56,40
-0021800352,2018-12-04,DAL,POR,22.73,2,1,16,POR,DAL,foul,1,False,False,Doncic P.FOUL (P1.PN) (E.Malloy),,56-40,56,40
 0021800352,2018-12-04,DAL,POR,22.73,2,1,16,DAL,POR,steal,1,False,True,steal,steal,56-40,56,40
+0021800352,2018-12-04,DAL,POR,22.73,2,1,16,POR,DAL,foul,1,False,False,Doncic P.FOUL (P1.PN) (E.Malloy),,56-40,56,40
 0021800352,2018-12-04,DAL,POR,22.73,2,1,16,POR,POR,ft_make,11,False,False,,Nurkic Free Throw 1 of 2 (7 PTS),56-41,56,41
 0021800352,2018-12-04,DAL,POR,22.73,2,1,16,POR,POR,ft_miss,12,False,False,,MISS Nurkic Free Throw 2 of 2,56-41,56,41
 0021800352,2018-12-04,DAL,POR,22.77,2,1,14,DAL,DAL,reb,0,False,False,Jordan REBOUND (Off:1 Def:6),,56-41,56,41
@@ -201,8 +201,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800352,2018-12-04,DAL,POR,23.45,2,0,33,POR,POR,fg_miss,98,False,False,,MISS Nurkic 3' Cutting Layup Shot,58-43,58,43
 0021800352,2018-12-04,DAL,POR,23.48,2,0,31,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:1 Def:3),58-43,58,43
 0021800352,2018-12-04,DAL,POR,23.53,2,0,28,POR,POR,fg_miss,3,True,False,,MISS Nurkic 4' Hook Shot,58-43,58,43
-0021800352,2018-12-04,DAL,POR,23.53,2,0,28,DAL,DAL,reb,0,False,False,Jordan REBOUND (Off:1 Def:7),,58-43,58,43
 0021800352,2018-12-04,DAL,POR,23.53,2,0,28,POR,DAL,block,3,True,False,block,block,58-43,58,43
+0021800352,2018-12-04,DAL,POR,23.53,2,0,28,DAL,DAL,reb,0,False,False,Jordan REBOUND (Off:1 Def:7),,58-43,58,43
 0021800352,2018-12-04,DAL,POR,23.87,2,0,8,DAL,POR,foul,2,False,False,,Nurkic S.FOUL (P1.PN) (T.Maddox),58-43,58,43
 0021800352,2018-12-04,DAL,POR,23.87,2,0,8,DAL,DAL,ft_make,11,False,False,Doncic Free Throw 1 of 2 (6 PTS),,59-43,59,43
 0021800352,2018-12-04,DAL,POR,23.87,2,0,8,DAL,DAL,ft_make,12,False,False,Doncic Free Throw 2 of 2 (7 PTS),,60-43,60,43
@@ -292,8 +292,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800352,2018-12-04,DAL,POR,32.22,3,3,47,POR,DAL,steal,1,False,True,steal,steal,74-60,74,60
 0021800352,2018-12-04,DAL,POR,32.25,3,3,45,DAL,DAL,fg_make,50,False,False,Smith Jr. 2' Running Dunk (8 PTS),,76-60,76,60
 0021800352,2018-12-04,DAL,POR,32.52,3,3,29,POR,POR,fg_miss,73,True,False,,MISS Lillard 3' Driving Reverse Layup,76-60,76,60
-0021800352,2018-12-04,DAL,POR,32.52,3,3,29,POR,POR,reb,0,False,False,,Trail Blazers Rebound,76-60,76,60
 0021800352,2018-12-04,DAL,POR,32.52,3,3,29,POR,DAL,block,73,True,False,block,block,76-60,76,60
+0021800352,2018-12-04,DAL,POR,32.52,3,3,29,POR,POR,reb,0,False,False,,Trail Blazers Rebound,76-60,76,60
 0021800352,2018-12-04,DAL,POR,32.55,3,3,27,POR,POR,fg_miss,79,False,False,,MISS McCollum 11' Pullup Jump Shot,76-60,76,60
 0021800352,2018-12-04,DAL,POR,32.6,3,3,24,DAL,DAL,reb,0,False,False,Jordan REBOUND (Off:2 Def:10),,76-60,76,60
 0021800352,2018-12-04,DAL,POR,32.83,3,3,10,DAL,DAL,fg_miss,73,False,False,MISS Matthews 1' Driving Reverse Layup,,76-60,76,60
@@ -346,10 +346,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800352,2018-12-04,DAL,POR,35.58,3,0,25,DAL,DAL,fg_make,107,False,False,Kleber 1' Tip Dunk Shot (6 PTS),,87-73,87,73
 0021800352,2018-12-04,DAL,POR,35.98,3,0,1,POR,POR,tov,1,False,True,,Turner Bad Pass Turnover (P2.T16),87-73,87,73
 0021800352,2018-12-04,DAL,POR,35.98,3,0,1,POR,DAL,steal,1,False,True,steal,steal,87-73,87,73
-0021800352,2018-12-04,DAL,POR,36.0,3,0,0,DAL,DAL,fg3_miss,1,False,False,MISS Harris 3PT Jump Shot,,87-73,87,73
-0021800352,2018-12-04,DAL,POR,36.0,3,0,0,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,87-73,87,73
 0021800352,2018-12-04,DAL,POR,36.0,3,0,0,DAL,,period_end,0,False,False,,,87-73,87,73
 0021800352,2018-12-04,DAL,POR,36.0,4,12,0,DAL,,period_start,0,False,False,,,87-73,87,73
+0021800352,2018-12-04,DAL,POR,36.0,3,0,0,DAL,DAL,fg3_miss,1,False,False,MISS Harris 3PT Jump Shot,,87-73,87,73
+0021800352,2018-12-04,DAL,POR,36.0,3,0,0,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,87-73,87,73
 0021800352,2018-12-04,DAL,POR,36.18,4,11,49,DAL,POR,foul,1,False,False,,Harkless P.FOUL (P4.T1) (M.Ervin),87-73,87,73
 0021800352,2018-12-04,DAL,POR,36.33,4,11,40,DAL,POR,foul,1,False,False,,Turner P.FOUL (P2.T2) (E.Malloy),87-73,87,73
 0021800352,2018-12-04,DAL,POR,36.45,4,11,33,DAL,DAL,fg3_make,1,False,False,Finney-Smith 3PT Jump Shot (5 PTS) (Harris 1 AST),,90-73,90,73
@@ -430,8 +430,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800352,2018-12-04,DAL,POR,44.47,4,3,32,POR,POR,fg_miss,63,False,False,,MISS Lillard 13' Fadeaway Jumper,100-93,100,93
 0021800352,2018-12-04,DAL,POR,44.5,4,3,30,DAL,DAL,reb,0,False,False,Jordan REBOUND (Off:2 Def:13),,100-93,100,93
 0021800352,2018-12-04,DAL,POR,44.72,4,3,17,DAL,DAL,fg_miss,86,True,False,MISS Barnes 12' Turnaround Fadeaway Shot,,100-93,100,93
-0021800352,2018-12-04,DAL,POR,44.72,4,3,17,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,100-93,100,93
 0021800352,2018-12-04,DAL,POR,44.72,4,3,17,DAL,POR,block,86,True,False,block,block,100-93,100,93
+0021800352,2018-12-04,DAL,POR,44.72,4,3,17,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,100-93,100,93
 0021800352,2018-12-04,DAL,POR,44.73,4,3,16,DAL,POR,foul,2,False,False,,McCollum S.FOUL (P4.PN) (E.Malloy),100-93,100,93
 0021800352,2018-12-04,DAL,POR,44.73,4,3,16,DAL,DAL,ft_make,11,False,False,Matthews Free Throw 1 of 2 (16 PTS),,101-93,101,93
 0021800352,2018-12-04,DAL,POR,44.73,4,3,16,DAL,DAL,ft_make,12,False,False,Matthews Free Throw 2 of 2 (17 PTS),,102-93,102,93

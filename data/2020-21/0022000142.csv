@@ -56,8 +56,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000142,2021-01-10,LAC,CHI,6.42,1,5,35,CHI,CHI,reb,1,False,False,,Bulls Rebound,10-19,10,19
 0022000142,2021-01-10,LAC,CHI,6.42,1,5,35,CHI,CHI,ft_make,12,False,False,,Young Free Throw 2 of 2 (1 PTS),10-20,10,20
 0022000142,2021-01-10,LAC,CHI,6.78,1,5,13,LAC,LAC,fg3_miss,1,False,False,MISS Leonard 26' 3PT Jump Shot,,10-20,10,20
-0022000142,2021-01-10,LAC,CHI,6.88,1,5,7,LAC,LAC,fg_make,97,False,False,Ibaka Tip Layup Shot (4 PTS),,12-20,12,20
 0022000142,2021-01-10,LAC,CHI,6.88,1,5,7,LAC,LAC,reb,0,False,False,Ibaka REBOUND (Off:1 Def:0),,12-20,12,20
+0022000142,2021-01-10,LAC,CHI,6.88,1,5,7,LAC,LAC,fg_make,97,False,False,Ibaka Tip Layup Shot (4 PTS),,12-20,12,20
 0022000142,2021-01-10,LAC,CHI,7.12,1,4,53,CHI,CHI,tov,1,False,True,,White Bad Pass Turnover (P1.T3),12-20,12,20
 0022000142,2021-01-10,LAC,CHI,7.12,1,4,53,CHI,LAC,steal,1,False,True,steal,steal,12-20,12,20
 0022000142,2021-01-10,LAC,CHI,7.45,1,4,33,LAC,LAC,fg_make,79,False,False,Kennard 19' Pullup Jump Shot (2 PTS),,14-20,14,20
@@ -89,8 +89,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000142,2021-01-10,LAC,CHI,10.42,1,1,35,LAC,LAC,fg_miss,79,False,False,MISS Kennard 14' Pullup Jump Shot,,19-27,19,27
 0022000142,2021-01-10,LAC,CHI,10.53,1,1,28,LAC,LAC,reb,0,False,False,Zubac REBOUND (Off:1 Def:0),,19-27,19,27
 0022000142,2021-01-10,LAC,CHI,10.53,1,1,28,LAC,LAC,fg_miss,87,True,False,MISS Zubac Putback Dunk,,19-27,19,27
-0022000142,2021-01-10,LAC,CHI,10.53,1,1,28,CHI,CHI,reb,0,False,False,,Temple REBOUND (Off:0 Def:2),19-27,19,27
 0022000142,2021-01-10,LAC,CHI,10.53,1,1,28,LAC,CHI,block,87,True,False,block,block,19-27,19,27
+0022000142,2021-01-10,LAC,CHI,10.53,1,1,28,CHI,CHI,reb,0,False,False,,Temple REBOUND (Off:0 Def:2),19-27,19,27
 0022000142,2021-01-10,LAC,CHI,10.7,1,1,18,CHI,CHI,tov,1,False,True,,Gafford Bad Pass Turnover (P1.T4),19-27,19,27
 0022000142,2021-01-10,LAC,CHI,10.7,1,1,18,CHI,LAC,steal,1,False,True,steal,steal,19-27,19,27
 0022000142,2021-01-10,LAC,CHI,10.93,1,1,4,LAC,LAC,tov,1,False,True,Kennard Bad Pass Turnover (P1.T3),,19-27,19,27
@@ -395,8 +395,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000142,2021-01-10,LAC,CHI,46.67,4,1,20,CHI,CHI,fg_miss,80,False,False,,MISS LaVine 17' Step Back Jump Shot,124-119,124,119
 0022000142,2021-01-10,LAC,CHI,46.72,4,1,17,CHI,CHI,reb,0,False,False,,Bulls Rebound,124-119,124,119
 0022000142,2021-01-10,LAC,CHI,46.75,4,1,15,LAC,LAC,timeout,7,False,False,CLIPPERS Timeout: Coach Challenge (Full 5 Short 0),,124-119,124,119
-0022000142,2021-01-10,LAC,CHI,46.75,4,1,15,CHI,CHI,tov,2,False,False,,Williams Lost Ball Turnover (P2.T23),124-119,124,119
 0022000142,2021-01-10,LAC,CHI,46.75,4,1,15,,LAC,jump_ball,1,False,False,Coach Challenge,,124-119,124,119
+0022000142,2021-01-10,LAC,CHI,46.75,4,1,15,CHI,CHI,tov,2,False,False,,Williams Lost Ball Turnover (P2.T23),124-119,124,119
 0022000142,2021-01-10,LAC,CHI,47.07,4,0,56,LAC,LAC,fg_make,5,False,False,Leonard 1' Layup (35 PTS),,126-119,126,119
 0022000142,2021-01-10,LAC,CHI,47.18,4,0,49,CHI,CHI,fg_make,5,False,False,,LaVine 2' Layup (41 PTS),126-121,126,121
 0022000142,2021-01-10,LAC,CHI,47.18,4,0,49,CHI,LAC,foul,2,False,False,Batum S.FOUL (P2.PN) (K.Lane),,126-121,126,121

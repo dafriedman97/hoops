@@ -208,10 +208,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000352,2021-02-06,SAC,DEN,23.48,2,0,31,SAC,SAC,fg3_make,1,False,False,Haliburton 3PT Jump Shot (11 PTS) (Barnes 2 AST),,53-50,53,50
 0022000352,2021-02-06,SAC,DEN,23.78,2,0,13,DEN,DEN,fg_make,6,False,False,,Morris 2' Driving Layup (4 PTS) (Hampton 2 AST),53-52,53,52
 0022000352,2021-02-06,SAC,DEN,24.0,2,0,0,SAC,SAC,fg_miss,6,True,False,MISS Fox 4' Driving Layup,,53-52,53,52
+0022000352,2021-02-06,SAC,DEN,24.0,2,0,0,SAC,DEN,block,6,True,False,block,block,53-52,53,52
 0022000352,2021-02-06,SAC,DEN,24.0,2,0,0,SAC,SAC,reb,0,False,False,KINGS Rebound,,53-52,53,52
 0022000352,2021-02-06,SAC,DEN,24.0,2,0,0,SAC,,period_end,0,False,False,,,53-52,53,52
 0022000352,2021-02-06,SAC,DEN,24.0,3,12,0,SAC,,period_start,0,False,False,,,53-52,53,52
-0022000352,2021-02-06,SAC,DEN,24.0,2,0,0,SAC,DEN,block,6,True,False,block,block,53-52,53,52
 0022000352,2021-02-06,SAC,DEN,24.33,3,11,40,SAC,SAC,fg_miss,6,False,False,MISS Bagley III 3' Driving Layup,,53-52,53,52
 0022000352,2021-02-06,SAC,DEN,24.4,3,11,36,SAC,SAC,reb,0,False,False,Holmes REBOUND (Off:2 Def:4),,53-52,53,52
 0022000352,2021-02-06,SAC,DEN,24.43,3,11,34,SAC,SAC,fg3_miss,1,False,False,MISS Bagley III 3PT Jump Shot,,53-52,53,52
@@ -402,8 +402,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000352,2021-02-06,SAC,DEN,46.07,4,1,56,DEN,DEN,reb,0,False,False,,Morris REBOUND (Off:0 Def:5),108-100,108,100
 0022000352,2021-02-06,SAC,DEN,46.17,4,1,50,DEN,DEN,fg_make,101,False,False,,Morris 6' Driving Floating Jump Shot (11 PTS),108-102,108,102
 0022000352,2021-02-06,SAC,DEN,46.4,4,1,36,SAC,SAC,fg_miss,5,True,False,MISS Holmes 4' Layup,,108-102,108,102
-0022000352,2021-02-06,SAC,DEN,46.4,4,1,36,SAC,SAC,reb,0,False,False,KINGS Rebound,,108-102,108,102
 0022000352,2021-02-06,SAC,DEN,46.4,4,1,36,SAC,DEN,block,5,True,False,block,block,108-102,108,102
+0022000352,2021-02-06,SAC,DEN,46.4,4,1,36,SAC,SAC,reb,0,False,False,KINGS Rebound,,108-102,108,102
 0022000352,2021-02-06,SAC,DEN,46.57,4,1,26,SAC,SAC,fg_make,78,False,False,Fox 8' Floating Jump Shot (22 PTS) (Haliburton 6 AST),,110-102,110,102
 0022000352,2021-02-06,SAC,DEN,46.85,4,1,9,DEN,DEN,fg_make,5,False,False,,Jokic 4' Layup (42 PTS),110-104,110,104
 0022000352,2021-02-06,SAC,DEN,47.08,4,0,55,SAC,SAC,fg_make,79,False,False,Haliburton 23' Pullup Jump Shot (23 PTS),,112-104,112,104

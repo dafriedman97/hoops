@@ -171,8 +171,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700540,2017-12-31,HOU,LAL,18.77,2,5,14,LAL,LAL,fg_make,75,False,False,,Ennis 1' Driving Finger Roll Layup (4 PTS),58-56,58,56
 0021700540,2017-12-31,HOU,LAL,18.88,2,5,7,HOU,HOU,fg_make,6,False,False,Paul 1' Driving Layup (7 PTS),,60-56,60,56
 0021700540,2017-12-31,HOU,LAL,19.08,2,4,55,LAL,HOU,foul,2,False,False,Harden S.FOUL (P1.T3) (J.Goble),,60-56,60,56
-0021700540,2017-12-31,HOU,LAL,19.08,2,4,55,LAL,LAL,ft_make,12,False,False,,Kuzma Free Throw 2 of 2 (8 PTS),60-57,60,57
 0021700540,2017-12-31,HOU,LAL,19.08,2,4,55,LAL,LAL,ft_make,11,False,False,,Kuzma Free Throw 1 of 2 (9 PTS),60-58,60,58
+0021700540,2017-12-31,HOU,LAL,19.08,2,4,55,LAL,LAL,ft_make,12,False,False,,Kuzma Free Throw 2 of 2 (8 PTS),60-57,60,57
 0021700540,2017-12-31,HOU,LAL,19.3,2,4,42,HOU,HOU,fg3_miss,1,False,False,MISS Gordon 26' 3PT Jump Shot,,60-58,60,58
 0021700540,2017-12-31,HOU,LAL,19.33,2,4,40,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:2 Def:1),,60-58,60,58
 0021700540,2017-12-31,HOU,LAL,19.4,2,4,36,HOU,HOU,fg3_miss,1,False,False,MISS Harden 26' 3PT Jump Shot,,60-58,60,58
@@ -239,9 +239,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700540,2017-12-31,HOU,LAL,25.62,3,10,23,HOU,HOU,fg_miss,3,False,False,MISS Capela 6' Hook Shot,,65-77,65,77
 0021700540,2017-12-31,HOU,LAL,25.62,3,10,23,LAL,LAL,reb,0,False,False,,Lakers Rebound,65-77,65,77
 0021700540,2017-12-31,HOU,LAL,25.62,3,10,23,LAL,HOU,foul,3,False,False,Capela L.B.FOUL (P2.T1) (L.Wood),,65-77,65,77
+0021700540,2017-12-31,HOU,LAL,25.92,3,10,5,HOU,LAL,foul,3,False,False,,Randle L.B.FOUL (P3.T1) (J.Goble),65-77,65,77
 0021700540,2017-12-31,HOU,LAL,25.92,3,10,5,LAL,LAL,fg_miss,6,False,False,,MISS Kuzma 16' Driving Layup,65-77,65,77
 0021700540,2017-12-31,HOU,LAL,25.92,3,10,5,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,65-77,65,77
-0021700540,2017-12-31,HOU,LAL,25.92,3,10,5,HOU,LAL,foul,3,False,False,,Randle L.B.FOUL (P3.T1) (J.Goble),65-77,65,77
 0021700540,2017-12-31,HOU,LAL,26.12,3,9,53,HOU,LAL,foul,3,False,False,,Kuzma L.B.FOUL (P1.T2) (T.Ford),65-77,65,77
 0021700540,2017-12-31,HOU,LAL,26.12,3,9,53,HOU,HOU,ft_miss,11,False,False,MISS Anderson Free Throw 1 of 2,,65-77,65,77
 0021700540,2017-12-31,HOU,LAL,26.12,3,9,53,HOU,HOU,reb,1,False,False,ROCKETS Rebound,,65-77,65,77
@@ -263,8 +263,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700540,2017-12-31,HOU,LAL,27.8,3,8,12,HOU,HOU,reb,0,False,False,Anderson REBOUND (Off:2 Def:2),,69-82,69,82
 0021700540,2017-12-31,HOU,LAL,27.92,3,8,5,HOU,HOU,fg_make,43,False,False,Capela 1' Alley Oop Layup (5 PTS) (Harden 6 AST),,71-82,71,82
 0021700540,2017-12-31,HOU,LAL,28.22,3,7,47,LAL,LAL,fg_miss,5,True,False,,MISS Ingram 2' Layup,71-82,71,82
-0021700540,2017-12-31,HOU,LAL,28.22,3,7,47,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:0 Def:1),,71-82,71,82
 0021700540,2017-12-31,HOU,LAL,28.22,3,7,47,LAL,HOU,block,5,True,False,block,block,71-82,71,82
+0021700540,2017-12-31,HOU,LAL,28.22,3,7,47,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:0 Def:1),,71-82,71,82
 0021700540,2017-12-31,HOU,LAL,28.32,3,7,41,HOU,HOU,fg_miss,5,False,False,MISS Harden 1' Layup,,71-82,71,82
 0021700540,2017-12-31,HOU,LAL,28.32,3,7,41,LAL,LAL,reb,0,False,False,,Kuzma REBOUND (Off:0 Def:4),71-82,71,82
 0021700540,2017-12-31,HOU,LAL,28.43,3,7,34,LAL,LAL,fg_make,5,False,False,,Hart 1' Layup (12 PTS) (Kuzma 3 AST),71-84,71,84
@@ -377,8 +377,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700540,2017-12-31,HOU,LAL,39.68,4,8,19,HOU,HOU,reb,0,False,False,Tucker REBOUND (Off:2 Def:3),,97-103,97,103
 0021700540,2017-12-31,HOU,LAL,39.85,4,8,9,HOU,HOU,fg3_make,1,False,False,Harden 26' 3PT Jump Shot (32 PTS),,100-103,100,103
 0021700540,2017-12-31,HOU,LAL,40.1,4,7,54,LAL,LAL,fg_miss,6,True,False,,MISS Ennis 1' Driving Layup,100-103,100,103
-0021700540,2017-12-31,HOU,LAL,40.1,4,7,54,LAL,LAL,reb,0,False,False,,Lakers Rebound,100-103,100,103
 0021700540,2017-12-31,HOU,LAL,40.1,4,7,54,LAL,HOU,block,6,True,False,block,block,100-103,100,103
+0021700540,2017-12-31,HOU,LAL,40.1,4,7,54,LAL,LAL,reb,0,False,False,,Lakers Rebound,100-103,100,103
 0021700540,2017-12-31,HOU,LAL,40.25,4,7,45,LAL,LAL,fg3_miss,1,False,False,,MISS Clarkson 26' 3PT Jump Shot,100-103,100,103
 0021700540,2017-12-31,HOU,LAL,40.28,4,7,43,LAL,LAL,reb,0,False,False,,Nance Jr. REBOUND (Off:1 Def:2),100-103,100,103
 0021700540,2017-12-31,HOU,LAL,40.3,4,7,42,LAL,LAL,fg_make,72,False,False,,Nance Jr. 2' Putback Layup (5 PTS),100-105,100,105
@@ -494,8 +494,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700540,2017-12-31,HOU,LAL,51.78,5,1,13,HOU,HOU,fg3_miss,1,False,False,MISS Gordon 25' 3PT Jump Shot,,129-129,129,129
 0021700540,2017-12-31,HOU,LAL,51.9,5,1,6,LAL,LAL,reb,0,False,False,,Brewer REBOUND (Off:1 Def:5),129-129,129,129
 0021700540,2017-12-31,HOU,LAL,51.92,5,1,5,LAL,LAL,fg_make,101,False,False,,Hart 7' Driving Floating Jump Shot (24 PTS) (Brewer 4 AST),129-131,129,131
-0021700540,2017-12-31,HOU,LAL,51.92,5,1,5,LAL,HOU,violation,2,False,False,Defensive Goaltending,,129-131,129,131
 0021700540,2017-12-31,HOU,LAL,51.92,5,1,5,LAL,HOU,foul,2,False,False,Gordon S.FOUL (P2.PN) (T.Ford),,129-131,129,131
+0021700540,2017-12-31,HOU,LAL,51.92,5,1,5,LAL,HOU,violation,2,False,False,Defensive Goaltending,,129-131,129,131
 0021700540,2017-12-31,HOU,LAL,51.92,5,1,5,LAL,LAL,ft_miss,10,False,False,,MISS Hart Free Throw 1 of 1,129-131,129,131
 0021700540,2017-12-31,HOU,LAL,51.92,5,1,5,HOU,HOU,reb,0,False,False,Black REBOUND (Off:2 Def:3),,129-131,129,131
 0021700540,2017-12-31,HOU,LAL,52.22,5,0,47,HOU,HOU,fg_make,7,False,False,Black 2' Dunk (6 PTS) (Paul 9 AST),,131-131,131,131
@@ -559,9 +559,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700540,2017-12-31,HOU,LAL,57.92,6,0,5,HOU,HOU,fg_make,72,False,False,Tucker 2' Putback Layup (2 PTS),,144-142,144,142
 0021700540,2017-12-31,HOU,LAL,57.92,6,0,5,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.11 Short 0),144-142,144,142
 0021700540,2017-12-31,HOU,LAL,57.95,6,0,3,LAL,LAL,fg3_miss,1,True,False,,MISS Kuzma 25' 3PT Jump Shot,144-142,144,142
+0021700540,2017-12-31,HOU,LAL,57.95,6,0,3,LAL,HOU,block,1,True,False,block,block,144-142,144,142
 0021700540,2017-12-31,HOU,LAL,57.95,6,0,3,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,144-142,144,142
 0021700540,2017-12-31,HOU,LAL,57.95,6,0,3,HOU,LAL,foul,1,False,False,,Ennis P.FOUL (P5.PN) (T.Ford),144-142,144,142
-0021700540,2017-12-31,HOU,LAL,57.95,6,0,3,LAL,HOU,block,1,True,False,block,block,144-142,144,142
 0021700540,2017-12-31,HOU,LAL,57.95,6,0,3,HOU,HOU,ft_make,11,False,False,Paul Free Throw 1 of 2 (25 PTS),,145-142,145,142
 0021700540,2017-12-31,HOU,LAL,57.95,6,0,3,HOU,HOU,ft_make,12,False,False,Paul Free Throw 2 of 2 (26 PTS),,146-142,146,142
 0021700540,2017-12-31,HOU,LAL,57.95,6,0,3,LAL,LAL,tov,45,False,False,,Brewer Out of Bounds - Bad Pass Turnover Turnover (P1.T16),146-142,146,142

@@ -68,8 +68,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800180,2018-11-10,SAS,HOU,7.95,1,4,3,SAS,SAS,fg3_miss,80,False,False,MISS Belinelli 26' 3PT Step Back Jump Shot,,17-12,17,12
 0021800180,2018-11-10,SAS,HOU,8.0,1,4,0,HOU,HOU,reb,0,False,False,,Capela REBOUND (Off:1 Def:3),17-12,17,12
 0021800180,2018-11-10,SAS,HOU,8.03,1,3,58,HOU,HOU,fg_miss,41,True,False,,MISS Gordon 2' Running Layup,17-12,17,12
-0021800180,2018-11-10,SAS,HOU,8.03,1,3,58,HOU,HOU,reb,0,False,False,,Rockets Rebound,17-12,17,12
 0021800180,2018-11-10,SAS,HOU,8.03,1,3,58,HOU,SAS,block,41,True,False,block,block,17-12,17,12
+0021800180,2018-11-10,SAS,HOU,8.03,1,3,58,HOU,HOU,reb,0,False,False,,Rockets Rebound,17-12,17,12
 0021800180,2018-11-10,SAS,HOU,8.22,1,3,47,HOU,HOU,fg3_miss,1,False,False,,MISS Clark 26' 3PT Jump Shot,17-12,17,12
 0021800180,2018-11-10,SAS,HOU,8.28,1,3,43,HOU,HOU,reb,0,False,False,,Hartenstein REBOUND (Off:1 Def:0),17-12,17,12
 0021800180,2018-11-10,SAS,HOU,8.32,1,3,41,HOU,HOU,fg3_miss,1,False,False,,MISS Green 26' 3PT Jump Shot,17-12,17,12
@@ -107,10 +107,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800180,2018-11-10,SAS,HOU,11.9,1,0,6,SAS,SAS,fg3_miss,79,False,False,MISS Bertans 28' 3PT Pullup Jump Shot,,20-21,20,21
 0021800180,2018-11-10,SAS,HOU,11.95,1,0,3,HOU,HOU,reb,0,False,False,,Gordon REBOUND (Off:1 Def:2),20-21,20,21
 0021800180,2018-11-10,SAS,HOU,12.0,1,0,0,HOU,HOU,fg_miss,6,True,False,,MISS Gordon 3' Driving Layup,20-21,20,21
+0021800180,2018-11-10,SAS,HOU,12.0,1,0,0,HOU,SAS,block,6,True,False,block,block,20-21,20,21
 0021800180,2018-11-10,SAS,HOU,12.0,1,0,0,SAS,SAS,reb,0,False,False,SPURS Rebound,,20-21,20,21
 0021800180,2018-11-10,SAS,HOU,12.0,1,0,0,SAS,,period_end,0,False,False,,,20-21,20,21
 0021800180,2018-11-10,SAS,HOU,12.0,2,12,0,SAS,,period_start,0,False,False,,,20-21,20,21
-0021800180,2018-11-10,SAS,HOU,12.0,1,0,0,HOU,SAS,block,6,True,False,block,block,20-21,20,21
 0021800180,2018-11-10,SAS,HOU,12.28,2,11,43,SAS,SAS,fg_make,47,False,False,Aldridge 13' Turnaround Jump Shot (6 PTS) (Belinelli 1 AST),,22-21,22,21
 0021800180,2018-11-10,SAS,HOU,12.57,2,11,26,HOU,HOU,fg3_make,1,False,False,,Gordon 24' 3PT Jump Shot (9 PTS) (Paul 1 AST),22-24,22,24
 0021800180,2018-11-10,SAS,HOU,12.93,2,11,4,SAS,HOU,foul,2,False,False,,Capela S.FOUL (P1.T1) (H.Workman),22-24,22,24
@@ -290,8 +290,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800180,2018-11-10,SAS,HOU,31.02,3,4,59,SAS,SAS,reb,0,False,False,Aldridge REBOUND (Off:1 Def:5),,65-56,65,56
 0021800180,2018-11-10,SAS,HOU,31.2,3,4,48,SAS,SAS,fg_make,5,False,False,Aldridge 2' Layup (15 PTS) (Mills 2 AST),,67-56,67,56
 0021800180,2018-11-10,SAS,HOU,31.3,3,4,42,HOU,HOU,fg_miss,5,True,False,,MISS Capela 3' Layup,67-56,67,56
-0021800180,2018-11-10,SAS,HOU,31.3,3,4,42,HOU,HOU,reb,0,False,False,,Capela REBOUND (Off:5 Def:7),67-56,67,56
 0021800180,2018-11-10,SAS,HOU,31.3,3,4,42,HOU,SAS,block,5,True,False,block,block,67-56,67,56
+0021800180,2018-11-10,SAS,HOU,31.3,3,4,42,HOU,HOU,reb,0,False,False,,Capela REBOUND (Off:5 Def:7),67-56,67,56
 0021800180,2018-11-10,SAS,HOU,31.42,3,4,35,HOU,HOU,fg3_make,1,False,False,,Gordon 25' 3PT Jump Shot (16 PTS) (Capela 1 AST),67-59,67,59
 0021800180,2018-11-10,SAS,HOU,31.68,3,4,19,SAS,SAS,fg_miss,5,False,False,MISS Aldridge 1' Layup,,67-59,67,59
 0021800180,2018-11-10,SAS,HOU,31.7,3,4,18,SAS,SAS,reb,0,False,False,Belinelli REBOUND (Off:1 Def:1),,67-59,67,59
@@ -413,9 +413,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800180,2018-11-10,SAS,HOU,44.77,4,3,14,SAS,SAS,tov,1,False,True,Mills Bad Pass Turnover (P1.T16),,86-85,86,85
 0021800180,2018-11-10,SAS,HOU,44.77,4,3,14,SAS,HOU,steal,1,False,True,steal,steal,86-85,86,85
 0021800180,2018-11-10,SAS,HOU,44.88,4,3,7,HOU,HOU,fg_miss,101,True,False,,MISS Harden 6' Driving Floating Jump Shot,86-85,86,85
+0021800180,2018-11-10,SAS,HOU,44.88,4,3,7,HOU,SAS,block,101,True,False,block,block,86-85,86,85
 0021800180,2018-11-10,SAS,HOU,44.88,4,3,7,SAS,SAS,reb,0,False,False,SPURS Rebound,,86-85,86,85
 0021800180,2018-11-10,SAS,HOU,44.88,4,3,7,HOU,HOU,timeout,1,False,False,,Rockets Timeout: Regular (Reg.4 Short 0),86-85,86,85
-0021800180,2018-11-10,SAS,HOU,44.88,4,3,7,HOU,SAS,block,101,True,False,block,block,86-85,86,85
 0021800180,2018-11-10,SAS,HOU,45.2,4,2,48,SAS,SAS,fg3_make,79,False,False,White 26' 3PT Pullup Jump Shot (12 PTS),,89-85,89,85
 0021800180,2018-11-10,SAS,HOU,45.52,4,2,29,HOU,HOU,fg3_miss,1,False,False,,MISS Gordon 25' 3PT Jump Shot,89-85,89,85
 0021800180,2018-11-10,SAS,HOU,45.55,4,2,27,SAS,SAS,reb,0,False,False,White REBOUND (Off:0 Def:4),,89-85,89,85

@@ -130,8 +130,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800582,2019-01-05,POR,HOU,16.1,2,7,54,POR,POR,fg3_miss,1,False,False,MISS McCollum 26' 3PT Jump Shot,,34-36,34,36
 0021800582,2019-01-05,POR,HOU,16.13,2,7,52,POR,POR,reb,0,False,False,Collins REBOUND (Off:1 Def:0),,34-36,34,36
 0021800582,2019-01-05,POR,HOU,16.15,2,7,51,POR,POR,fg_miss,3,True,False,MISS Collins 2' Hook Shot,,34-36,34,36
-0021800582,2019-01-05,POR,HOU,16.15,2,7,51,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,34-36,34,36
 0021800582,2019-01-05,POR,HOU,16.15,2,7,51,POR,HOU,block,3,True,False,block,block,34-36,34,36
+0021800582,2019-01-05,POR,HOU,16.15,2,7,51,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,34-36,34,36
 0021800582,2019-01-05,POR,HOU,16.23,2,7,46,POR,POR,fg_make,3,False,False,Collins 2' Hook Shot (7 PTS) (Leonard 2 AST),,36-36,36,36
 0021800582,2019-01-05,POR,HOU,16.6,2,7,24,HOU,HOU,fg_make,58,False,False,,Capela 5' Turnaround Hook Shot (6 PTS),36-38,36,38
 0021800582,2019-01-05,POR,HOU,16.95,2,7,3,POR,POR,fg3_miss,1,False,False,MISS Curry 25' 3PT Jump Shot,,36-38,36,38
@@ -168,8 +168,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800582,2019-01-05,POR,HOU,20.42,2,3,35,POR,POR,fg_miss,63,False,False,MISS Curry 19' Fadeaway Jumper,,44-43,44,43
 0021800582,2019-01-05,POR,HOU,20.45,2,3,33,HOU,HOU,reb,0,False,False,,Capela REBOUND (Off:4 Def:5),44-43,44,43
 0021800582,2019-01-05,POR,HOU,20.75,2,3,15,HOU,HOU,fg3_miss,79,True,False,,MISS Rivers 25' 3PT Pullup Jump Shot,44-43,44,43
-0021800582,2019-01-05,POR,HOU,20.75,2,3,15,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,44-43,44,43
 0021800582,2019-01-05,POR,HOU,20.75,2,3,15,HOU,POR,block,79,True,False,block,block,44-43,44,43
+0021800582,2019-01-05,POR,HOU,20.75,2,3,15,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,44-43,44,43
 0021800582,2019-01-05,POR,HOU,20.88,2,3,7,POR,POR,fg_make,52,False,False,Aminu Alley Oop Dunk (5 PTS) (Turner 1 AST),,46-43,46,43
 0021800582,2019-01-05,POR,HOU,21.25,2,2,45,HOU,HOU,fg3_make,1,False,False,,Rivers 3PT Jump Shot (17 PTS) (Harden 1 AST),46-46,46,46
 0021800582,2019-01-05,POR,HOU,21.48,2,2,31,POR,POR,fg_miss,6,False,False,MISS Nurkic 1' Driving Layup,,46-46,46,46
@@ -301,10 +301,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800582,2019-01-05,POR,HOU,35.72,3,0,17,POR,POR,ft_make,10,False,False,Lillard Free Throw 1 of 1 (16 PTS),,86-75,86,75
 0021800582,2019-01-05,POR,HOU,36.0,3,0,0,HOU,HOU,fg_make,79,False,False,,Harden 9' Pullup Jump Shot (29 PTS),86-77,86,77
 0021800582,2019-01-05,POR,HOU,36.0,3,0,0,POR,POR,fg3_miss,1,True,False,MISS Layman 44' 3PT Jump Shot,,86-77,86,77
+0021800582,2019-01-05,POR,HOU,36.0,3,0,0,POR,HOU,block,1,True,False,block,block,86-77,86,77
 0021800582,2019-01-05,POR,HOU,36.0,3,0,0,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,86-77,86,77
 0021800582,2019-01-05,POR,HOU,36.0,3,0,0,POR,,period_end,0,False,False,,,86-77,86,77
 0021800582,2019-01-05,POR,HOU,36.0,4,12,0,POR,,period_start,0,False,False,,,86-77,86,77
-0021800582,2019-01-05,POR,HOU,36.0,3,0,0,POR,HOU,block,1,True,False,block,block,86-77,86,77
 0021800582,2019-01-05,POR,HOU,36.22,4,11,47,POR,POR,fg_miss,6,True,False,MISS Turner 1' Driving Layup,,86-77,86,77
 0021800582,2019-01-05,POR,HOU,36.22,4,11,47,POR,HOU,block,6,True,False,block,block,86-77,86,77
 0021800582,2019-01-05,POR,HOU,36.25,4,11,45,POR,POR,reb,0,False,False,Turner REBOUND (Off:2 Def:1),,86-77,86,77
@@ -330,9 +330,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800582,2019-01-05,POR,HOU,38.8,4,9,12,HOU,POR,foul,1,False,False,Leonard P.FOUL (P2.T2) (M.Callahan),,88-81,88,81
 0021800582,2019-01-05,POR,HOU,38.87,4,9,8,HOU,HOU,fg_make,109,False,False,,Green 1' Driving Reverse Dunk Shot (9 PTS) (Harden 6 AST),88-83,88,83
 0021800582,2019-01-05,POR,HOU,39.08,4,8,55,POR,POR,fg_miss,79,True,False,MISS Turner 11' Pullup Jump Shot,,88-83,88,83
+0021800582,2019-01-05,POR,HOU,39.08,4,8,55,POR,HOU,block,79,True,False,block,block,88-83,88,83
 0021800582,2019-01-05,POR,HOU,39.08,4,8,55,HOU,HOU,reb,0,False,False,,Rockets Rebound,88-83,88,83
 0021800582,2019-01-05,POR,HOU,39.08,4,8,55,HOU,POR,foul,3,False,False,Turner L.B.FOUL (P2.T3) (M.Callahan),,88-83,88,83
-0021800582,2019-01-05,POR,HOU,39.08,4,8,55,POR,HOU,block,79,True,False,block,block,88-83,88,83
 0021800582,2019-01-05,POR,HOU,39.47,4,8,32,HOU,HOU,fg_miss,6,False,False,,MISS Harden 2' Driving Layup,88-83,88,83
 0021800582,2019-01-05,POR,HOU,39.48,4,8,31,HOU,HOU,reb,0,False,False,,Capela REBOUND (Off:6 Def:11),88-83,88,83
 0021800582,2019-01-05,POR,HOU,39.53,4,8,28,HOU,HOU,tov,1,False,True,,Capela Bad Pass Turnover (P1.T11),88-83,88,83

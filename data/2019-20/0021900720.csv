@@ -9,8 +9,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900720,2020-01-31,DET,TOR,0.43,1,11,34,DET,DET,fg_miss,97,False,False,MISS Drummond 1' Tip Layup Shot,,0-0,0,0
 0021900720,2020-01-31,DET,TOR,0.45,1,11,33,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:0 Def:1),0-0,0,0
 0021900720,2020-01-31,DET,TOR,0.52,1,11,29,TOR,TOR,fg_miss,5,False,False,,MISS Ibaka 2' Layup,0-0,0,0
-0021900720,2020-01-31,DET,TOR,0.62,1,11,23,TOR,TOR,fg_make,97,False,False,,Ibaka 1' Tip Layup Shot (2 PTS),0-2,0,2
 0021900720,2020-01-31,DET,TOR,0.62,1,11,23,TOR,TOR,reb,0,False,False,,Ibaka REBOUND (Off:1 Def:0),0-2,0,2
+0021900720,2020-01-31,DET,TOR,0.62,1,11,23,TOR,TOR,fg_make,97,False,False,,Ibaka 1' Tip Layup Shot (2 PTS),0-2,0,2
 0021900720,2020-01-31,DET,TOR,0.8,1,11,12,DET,TOR,violation,5,False,False,,Ibaka Violation:Kicked Ball (J.Sterling),0-2,0,2
 0021900720,2020-01-31,DET,TOR,0.97,1,11,2,DET,DET,fg3_miss,1,False,False,MISS Maker 24' 3PT Jump Shot,,0-2,0,2
 0021900720,2020-01-31,DET,TOR,1.03,1,10,58,TOR,TOR,reb,0,False,False,,VanVleet REBOUND (Off:0 Def:1),0-2,0,2
@@ -100,8 +100,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900720,2020-01-31,DET,TOR,12.0,2,12,0,DET,,period_start,0,False,False,,,20-30,20,30
 0021900720,2020-01-31,DET,TOR,12.17,2,11,50,DET,DET,fg3_make,1,False,False,Morris 3PT Jump Shot (5 PTS) (Brown 1 AST),,23-30,23,30
 0021900720,2020-01-31,DET,TOR,12.47,2,11,32,TOR,TOR,fg_miss,6,True,False,,MISS Powell 4' Driving Layup,23-30,23,30
-0021900720,2020-01-31,DET,TOR,12.47,2,11,32,TOR,TOR,reb,0,False,False,,Raptors Rebound,23-30,23,30
 0021900720,2020-01-31,DET,TOR,12.47,2,11,32,TOR,DET,block,6,True,False,block,block,23-30,23,30
+0021900720,2020-01-31,DET,TOR,12.47,2,11,32,TOR,TOR,reb,0,False,False,,Raptors Rebound,23-30,23,30
 0021900720,2020-01-31,DET,TOR,12.63,2,11,22,TOR,TOR,fg_miss,78,False,False,,MISS VanVleet 9' Floating Jump Shot,23-30,23,30
 0021900720,2020-01-31,DET,TOR,12.65,2,11,21,TOR,TOR,reb,0,False,False,,Boucher REBOUND (Off:1 Def:2),23-30,23,30
 0021900720,2020-01-31,DET,TOR,12.65,2,11,21,TOR,TOR,fg_miss,97,False,False,,MISS Boucher 1' Tip Layup Shot,23-30,23,30
@@ -190,8 +190,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900720,2020-01-31,DET,TOR,21.95,2,2,3,DET,DET,fg3_miss,1,False,False,MISS Galloway 3PT Jump Shot,,39-53,39,53
 0021900720,2020-01-31,DET,TOR,22.02,2,1,59,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:0 Def:5),39-53,39,53
 0021900720,2020-01-31,DET,TOR,22.13,2,1,52,TOR,TOR,fg_miss,5,True,False,,MISS Anunoby 2' Layup,39-53,39,53
-0021900720,2020-01-31,DET,TOR,22.13,2,1,52,TOR,TOR,reb,0,False,False,,Raptors Rebound,39-53,39,53
 0021900720,2020-01-31,DET,TOR,22.13,2,1,52,TOR,DET,block,5,True,False,block,block,39-53,39,53
+0021900720,2020-01-31,DET,TOR,22.13,2,1,52,TOR,TOR,reb,0,False,False,,Raptors Rebound,39-53,39,53
 0021900720,2020-01-31,DET,TOR,22.37,2,1,38,TOR,TOR,fg_make,5,False,False,,Anunoby 2' Layup (4 PTS) (Ibaka 2 AST),39-55,39,55
 0021900720,2020-01-31,DET,TOR,22.62,2,1,23,DET,DET,fg3_make,1,False,False,Snell 3PT Jump Shot (3 PTS) (Jackson 2 AST),,42-55,42,55
 0021900720,2020-01-31,DET,TOR,22.75,2,1,15,TOR,TOR,fg_make,6,False,False,,Lowry 2' Driving Layup (2 PTS),42-57,42,57
@@ -316,8 +316,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900720,2020-01-31,DET,TOR,35.75,3,0,15,DET,TOR,block,47,True,False,block,block,69-78,69,78
 0021900720,2020-01-31,DET,TOR,35.82,3,0,11,TOR,TOR,reb,0,False,False,,Powell REBOUND (Off:0 Def:4),69-78,69,78
 0021900720,2020-01-31,DET,TOR,35.97,3,0,2,TOR,TOR,fg_miss,6,True,False,,MISS Boucher 4' Driving Layup,69-78,69,78
-0021900720,2020-01-31,DET,TOR,35.97,3,0,2,DET,DET,reb,0,False,False,Wood REBOUND (Off:2 Def:2),,69-78,69,78
 0021900720,2020-01-31,DET,TOR,35.97,3,0,2,TOR,DET,block,6,True,False,block,block,69-78,69,78
+0021900720,2020-01-31,DET,TOR,35.97,3,0,2,DET,DET,reb,0,False,False,Wood REBOUND (Off:2 Def:2),,69-78,69,78
 0021900720,2020-01-31,DET,TOR,36.0,3,0,0,DET,DET,fg3_miss,1,False,False,MISS Wood 40' 3PT Jump Shot,,69-78,69,78
 0021900720,2020-01-31,DET,TOR,36.0,3,0,0,DET,DET,reb,0,False,False,PISTONS Rebound,,69-78,69,78
 0021900720,2020-01-31,DET,TOR,36.0,3,0,0,DET,,period_end,0,False,False,,,69-78,69,78

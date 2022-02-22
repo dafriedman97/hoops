@@ -72,8 +72,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700347,2017-12-04,DAL,DEN,7.23,1,4,46,DAL,DAL,tov,1,False,True,Smith Jr. Bad Pass Turnover (P2.T2),,26-12,26,12
 0021700347,2017-12-04,DAL,DEN,7.23,1,4,46,DAL,DEN,steal,1,False,True,steal,steal,26-12,26,12
 0021700347,2017-12-04,DAL,DEN,7.37,1,4,38,DEN,DEN,fg3_miss,1,True,False,,MISS Mudiay 3PT Jump Shot,26-12,26,12
-0021700347,2017-12-04,DAL,DEN,7.37,1,4,38,DAL,DAL,reb,0,False,False,Smith Jr. REBOUND (Off:1 Def:1),,26-12,26,12
 0021700347,2017-12-04,DAL,DEN,7.37,1,4,38,DEN,DAL,block,1,True,False,block,block,26-12,26,12
+0021700347,2017-12-04,DAL,DEN,7.37,1,4,38,DAL,DAL,reb,0,False,False,Smith Jr. REBOUND (Off:1 Def:1),,26-12,26,12
 0021700347,2017-12-04,DAL,DEN,7.5,1,4,30,DAL,DAL,fg3_miss,1,False,False,MISS Matthews 27' 3PT Jump Shot,,26-12,26,12
 0021700347,2017-12-04,DAL,DEN,7.55,1,4,27,DEN,DEN,reb,0,False,False,,Plumlee REBOUND (Off:1 Def:3),26-12,26,12
 0021700347,2017-12-04,DAL,DEN,7.62,1,4,23,DEN,DAL,foul,1,False,False,Matthews P.FOUL (P1.T4) (S.Wall),,26-12,26,12
@@ -99,9 +99,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700347,2017-12-04,DAL,DEN,9.42,1,2,35,DEN,DEN,fg_make,50,False,False,,Hernangomez 1' Running Dunk (2 PTS) (Harris 2 AST),33-16,33,16
 0021700347,2017-12-04,DAL,DEN,9.55,1,2,27,DAL,DAL,timeout,1,False,False,MAVERICKS Timeout: Regular (Full 1 Short 0),,33-16,33,16
 0021700347,2017-12-04,DAL,DEN,9.72,1,2,17,DAL,DAL,fg_make,6,False,False,Harris 2' Driving Layup (2 PTS),,35-16,35,16
-0021700347,2017-12-04,DAL,DEN,9.72,1,2,17,DAL,DEN,violation,2,False,False,,Defensive Goaltending,35-16,35,16
 0021700347,2017-12-04,DAL,DEN,9.72,1,2,17,DAL,DEN,foul,2,False,False,,Mudiay S.FOUL (P1.PN) (K.Mauer),35-16,35,16
 0021700347,2017-12-04,DAL,DEN,9.72,1,2,17,DAL,DAL,ft_miss,10,False,False,MISS Harris Free Throw 1 of 1,,35-16,35,16
+0021700347,2017-12-04,DAL,DEN,9.72,1,2,17,DAL,DEN,violation,2,False,False,,Defensive Goaltending,35-16,35,16
 0021700347,2017-12-04,DAL,DEN,9.78,1,2,13,DEN,DEN,reb,0,False,False,,Hernangomez REBOUND (Off:0 Def:1),35-16,35,16
 0021700347,2017-12-04,DAL,DEN,9.97,1,2,2,DEN,DEN,fg_miss,5,False,False,,MISS Barton 4' Layup,35-16,35,16
 0021700347,2017-12-04,DAL,DEN,10.02,1,1,59,DEN,DEN,reb,0,False,False,,Barton REBOUND (Off:1 Def:0),35-16,35,16
@@ -111,8 +111,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700347,2017-12-04,DAL,DEN,10.37,1,1,38,,DAL,jump_ball,0,False,False,Jump Ball Powell vs. Lyles: Tip to Hernangomez,,35-18,35,18
 0021700347,2017-12-04,DAL,DEN,10.37,1,1,38,DEN,DEN,reb,0,False,False,,Nuggets Rebound,35-18,35,18
 0021700347,2017-12-04,DAL,DEN,10.43,1,1,34,DEN,DEN,fg_miss,41,True,False,,MISS Harris 1' Running Layup,35-18,35,18
-0021700347,2017-12-04,DAL,DEN,10.43,1,1,34,DAL,DAL,reb,0,False,False,Nowitzki REBOUND (Off:0 Def:3),,35-18,35,18
 0021700347,2017-12-04,DAL,DEN,10.43,1,1,34,DEN,DAL,block,41,True,False,block,block,35-18,35,18
+0021700347,2017-12-04,DAL,DEN,10.43,1,1,34,DAL,DAL,reb,0,False,False,Nowitzki REBOUND (Off:0 Def:3),,35-18,35,18
 0021700347,2017-12-04,DAL,DEN,10.67,1,1,20,DAL,DEN,foul,2,False,False,,Barton S.FOUL (P1.PN) (S.Wall),35-18,35,18
 0021700347,2017-12-04,DAL,DEN,10.67,1,1,20,DAL,DAL,ft_make,11,False,False,Nowitzki Free Throw 1 of 2 (6 PTS),,36-18,36,18
 0021700347,2017-12-04,DAL,DEN,10.67,1,1,20,DAL,DAL,ft_make,12,False,False,Nowitzki Free Throw 2 of 2 (7 PTS),,37-18,37,18
@@ -202,8 +202,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700347,2017-12-04,DAL,DEN,20.37,2,3,38,DEN,DEN,fg_miss,97,False,False,,MISS Chandler 1' Tip Layup Shot,58-36,58,36
 0021700347,2017-12-04,DAL,DEN,20.38,2,3,37,DEN,DEN,reb,0,False,False,,Chandler REBOUND (Off:2 Def:1),58-36,58,36
 0021700347,2017-12-04,DAL,DEN,20.43,2,3,34,DEN,DEN,fg3_miss,1,False,False,,MISS Barton 3PT Jump Shot,58-36,58,36
-0021700347,2017-12-04,DAL,DEN,20.45,2,3,33,DEN,DEN,reb,0,False,False,,Beasley REBOUND (Off:1 Def:0),58-36,58,36
 0021700347,2017-12-04,DAL,DEN,20.45,2,3,33,DEN,DEN,tov,40,False,False,,Beasley Out of Bounds Lost Ball Turnover (P1.T3),58-36,58,36
+0021700347,2017-12-04,DAL,DEN,20.45,2,3,33,DEN,DEN,reb,0,False,False,,Beasley REBOUND (Off:1 Def:0),58-36,58,36
 0021700347,2017-12-04,DAL,DEN,20.7,2,3,18,DAL,DAL,fg_miss,1,False,False,MISS Smith Jr. 22' Jump Shot,,58-36,58,36
 0021700347,2017-12-04,DAL,DEN,20.75,2,3,15,DEN,DEN,reb,0,False,False,,Chandler REBOUND (Off:2 Def:2),58-36,58,36
 0021700347,2017-12-04,DAL,DEN,20.85,2,3,9,DEN,DEN,fg_miss,101,False,False,,MISS Chandler 4' Driving Floating Jump Shot,58-36,58,36
@@ -225,9 +225,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700347,2017-12-04,DAL,DEN,23.52,2,0,29,DEN,DEN,fg_make,57,False,False,,Barton 5' Driving Hook Shot (8 PTS),64-47,64,47
 0021700347,2017-12-04,DAL,DEN,23.78,2,0,13,DAL,DEN,foul,1,False,False,,Faried P.FOUL (P2.T3) (S.Wall),64-47,64,47
 0021700347,2017-12-04,DAL,DEN,24.0,2,0,0,DAL,DAL,tov,2,False,True,Barnes Lost Ball Turnover (P1.T5),,64-47,64,47
+0021700347,2017-12-04,DAL,DEN,24.0,2,0,0,DAL,DEN,steal,2,False,True,steal,steal,64-47,64,47
 0021700347,2017-12-04,DAL,DEN,24.0,2,0,0,DAL,,period_end,0,False,False,,,64-47,64,47
 0021700347,2017-12-04,DAL,DEN,24.0,3,12,0,DAL,,period_start,0,False,False,,,64-47,64,47
-0021700347,2017-12-04,DAL,DEN,24.0,2,0,0,DAL,DEN,steal,2,False,True,steal,steal,64-47,64,47
 0021700347,2017-12-04,DAL,DEN,24.22,3,11,47,DEN,DEN,fg_make,73,False,False,,Faried 2' Driving Reverse Layup (9 PTS) (Barton 3 AST),64-49,64,49
 0021700347,2017-12-04,DAL,DEN,24.53,3,11,28,DAL,DAL,fg_make,5,False,False,Barnes 1' Layup (16 PTS) (Nowitzki 2 AST),,66-49,66,49
 0021700347,2017-12-04,DAL,DEN,24.85,3,11,9,DEN,DEN,fg_make,1,False,False,,Faried 15' Jump Shot (11 PTS) (Barton 4 AST),66-51,66,51
@@ -313,9 +313,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700347,2017-12-04,DAL,DEN,35.98,3,0,1,DAL,DEN,foul,2,False,False,,Plumlee S.FOUL (P1.PN) (K.Mauer),92-82,92,82
 0021700347,2017-12-04,DAL,DEN,35.98,3,0,1,DAL,DAL,ft_make,11,False,False,Powell Free Throw 1 of 2 (7 PTS),,93-82,93,82
 0021700347,2017-12-04,DAL,DEN,35.98,3,0,1,DAL,DAL,ft_miss,12,False,False,MISS Powell Free Throw 2 of 2,,93-82,93,82
+0021700347,2017-12-04,DAL,DEN,36.0,3,0,0,DEN,DEN,reb,0,False,False,,Faried REBOUND (Off:5 Def:5),93-82,93,82
 0021700347,2017-12-04,DAL,DEN,36.0,3,0,0,DEN,DEN,fg3_miss,1,False,False,,MISS Faried 82' 3PT Jump Shot,93-82,93,82
 0021700347,2017-12-04,DAL,DEN,36.0,3,0,0,DEN,DEN,reb,0,False,False,,Nuggets Rebound,93-82,93,82
-0021700347,2017-12-04,DAL,DEN,36.0,3,0,0,DEN,DEN,reb,0,False,False,,Faried REBOUND (Off:5 Def:5),93-82,93,82
 0021700347,2017-12-04,DAL,DEN,36.0,3,0,0,DEN,,period_end,0,False,False,,,93-82,93,82
 0021700347,2017-12-04,DAL,DEN,36.0,4,12,0,DEN,,period_start,0,False,False,,,93-82,93,82
 0021700347,2017-12-04,DAL,DEN,36.15,4,11,51,DAL,DEN,foul,1,False,False,,Hernangomez P.FOUL (P3.T1) (S.Wall),93-82,93,82

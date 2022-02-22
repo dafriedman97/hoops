@@ -10,8 +10,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701170,2018-04-04,ORL,DAL,1.02,1,10,59,ORL,ORL,tov,2,False,True,Hezonja Lost Ball Turnover (P1.T1),,2-1,2,1
 0021701170,2018-04-04,ORL,DAL,1.02,1,10,59,ORL,DAL,steal,2,False,True,steal,steal,2-1,2,1
 0021701170,2018-04-04,ORL,DAL,1.2,1,10,48,DAL,DAL,fg_miss,1,False,False,,MISS Motley 7' Jump Shot,2-1,2,1
-0021701170,2018-04-04,ORL,DAL,1.22,1,10,47,DAL,DAL,fg_miss,97,False,False,,MISS Finney-Smith 1' Tip Layup Shot,2-1,2,1
 0021701170,2018-04-04,ORL,DAL,1.22,1,10,47,DAL,DAL,reb,0,False,False,,Finney-Smith REBOUND (Off:1 Def:0),2-1,2,1
+0021701170,2018-04-04,ORL,DAL,1.22,1,10,47,DAL,DAL,fg_miss,97,False,False,,MISS Finney-Smith 1' Tip Layup Shot,2-1,2,1
 0021701170,2018-04-04,ORL,DAL,1.23,1,10,46,ORL,ORL,reb,0,False,False,Iwundu REBOUND (Off:0 Def:1),,2-1,2,1
 0021701170,2018-04-04,ORL,DAL,1.4,1,10,36,ORL,ORL,fg_make,7,False,False,Gordon 1' Dunk (2 PTS) (Iwundu 1 AST),,4-1,4,1
 0021701170,2018-04-04,ORL,DAL,1.55,1,10,27,DAL,DAL,fg_make,74,False,False,,McDermott 1' Running Reverse Layup (2 PTS) (Barea 1 AST),4-3,4,3
@@ -133,8 +133,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701170,2018-04-04,ORL,DAL,15.07,2,8,56,ORL,ORL,fg_miss,80,False,False,MISS Purvis 17' Step Back Jump Shot,,40-29,40,29
 0021701170,2018-04-04,ORL,DAL,15.12,2,8,53,DAL,DAL,reb,0,False,False,,Kleber REBOUND (Off:0 Def:2),40-29,40,29
 0021701170,2018-04-04,ORL,DAL,15.3,2,8,42,DAL,DAL,fg_miss,6,True,False,,MISS Jones 5' Driving Layup,40-29,40,29
-0021701170,2018-04-04,ORL,DAL,15.3,2,8,42,DAL,DAL,reb,0,False,False,,Mavericks Rebound,40-29,40,29
 0021701170,2018-04-04,ORL,DAL,15.3,2,8,42,DAL,ORL,block,6,True,False,block,block,40-29,40,29
+0021701170,2018-04-04,ORL,DAL,15.3,2,8,42,DAL,DAL,reb,0,False,False,,Mavericks Rebound,40-29,40,29
 0021701170,2018-04-04,ORL,DAL,15.33,2,8,40,DAL,DAL,fg_make,63,False,False,,Finney-Smith 18' Fadeaway Jumper (4 PTS) (Collinsworth 3 AST),40-31,40,31
 0021701170,2018-04-04,ORL,DAL,15.58,2,8,25,ORL,ORL,fg3_miss,1,False,False,MISS Hezonja 25' 3PT Jump Shot,,40-31,40,31
 0021701170,2018-04-04,ORL,DAL,15.63,2,8,22,DAL,DAL,reb,0,False,False,,Collinsworth REBOUND (Off:0 Def:1),40-31,40,31
@@ -173,8 +173,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701170,2018-04-04,ORL,DAL,18.75,2,5,15,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 3 Short 0),,44-43,44,43
 0021701170,2018-04-04,ORL,DAL,19.0,2,5,0,ORL,ORL,fg_make,79,False,False,Artis 21' Pullup Jump Shot (7 PTS) (Biyombo 3 AST),,46-43,46,43
 0021701170,2018-04-04,ORL,DAL,19.35,2,4,39,DAL,DAL,fg_miss,5,True,False,,MISS Motley 4' Layup,46-43,46,43
-0021701170,2018-04-04,ORL,DAL,19.35,2,4,39,DAL,DAL,reb,0,False,False,,Mavericks Rebound,46-43,46,43
 0021701170,2018-04-04,ORL,DAL,19.35,2,4,39,DAL,ORL,block,5,True,False,block,block,46-43,46,43
+0021701170,2018-04-04,ORL,DAL,19.35,2,4,39,DAL,DAL,reb,0,False,False,,Mavericks Rebound,46-43,46,43
 0021701170,2018-04-04,ORL,DAL,19.47,2,4,32,DAL,DAL,fg_miss,2,False,False,,MISS Finney-Smith 13' Running Jump Shot,46-43,46,43
 0021701170,2018-04-04,ORL,DAL,19.47,2,4,32,DAL,DAL,reb,0,False,False,,Mavericks Rebound,46-43,46,43
 0021701170,2018-04-04,ORL,DAL,19.47,2,4,32,DAL,DAL,tov,11,False,False,,Mavericks Turnover: Shot Clock (T#6),46-43,46,43
@@ -294,8 +294,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701170,2018-04-04,ORL,DAL,32.03,3,3,58,ORL,ORL,fg_miss,75,False,False,MISS Gordon 3' Driving Finger Roll Layup,,69-65,69,65
 0021701170,2018-04-04,ORL,DAL,32.08,3,3,55,DAL,DAL,reb,0,False,False,,Motley REBOUND (Off:1 Def:5),69-65,69,65
 0021701170,2018-04-04,ORL,DAL,32.17,3,3,50,DAL,DAL,fg_miss,9,True,False,,MISS Finney-Smith 2' Driving Dunk,69-65,69,65
-0021701170,2018-04-04,ORL,DAL,32.17,3,3,50,ORL,ORL,reb,0,False,False,MAGIC Rebound,,69-65,69,65
 0021701170,2018-04-04,ORL,DAL,32.17,3,3,50,DAL,ORL,block,9,True,False,block,block,69-65,69,65
+0021701170,2018-04-04,ORL,DAL,32.17,3,3,50,ORL,ORL,reb,0,False,False,MAGIC Rebound,,69-65,69,65
 0021701170,2018-04-04,ORL,DAL,32.4,3,3,36,ORL,ORL,fg3_miss,1,False,False,MISS Gordon 26' 3PT Jump Shot,,69-65,69,65
 0021701170,2018-04-04,ORL,DAL,32.42,3,3,35,DAL,DAL,reb,0,False,False,,Jones REBOUND (Off:0 Def:4),69-65,69,65
 0021701170,2018-04-04,ORL,DAL,32.43,3,3,34,DAL,DAL,timeout,1,False,False,,Mavericks Timeout: Regular (Reg.2 Short 0),69-65,69,65

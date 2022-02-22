@@ -70,8 +70,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700649,2018-01-16,ORL,MIN,7.4,1,4,36,MIN,MIN,reb,0,False,False,,Gibson REBOUND (Off:1 Def:1),14-13,14,13
 0021700649,2018-01-16,ORL,MIN,7.4,1,4,36,MIN,MIN,fg_make,72,False,False,,Gibson 1' Putback Layup (2 PTS),14-15,14,15
 0021700649,2018-01-16,ORL,MIN,7.52,1,4,29,ORL,ORL,fg_miss,5,True,False,MISS Gordon 2' Layup,,14-15,14,15
-0021700649,2018-01-16,ORL,MIN,7.52,1,4,29,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:0 Def:4),14-15,14,15
 0021700649,2018-01-16,ORL,MIN,7.52,1,4,29,ORL,MIN,block,5,True,False,block,block,14-15,14,15
+0021700649,2018-01-16,ORL,MIN,7.52,1,4,29,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:0 Def:4),14-15,14,15
 0021700649,2018-01-16,ORL,MIN,7.77,1,4,14,MIN,MIN,fg_make,1,False,False,,Gibson 14' Jump Shot (4 PTS) (Teague 2 AST),14-17,14,17
 0021700649,2018-01-16,ORL,MIN,8.03,1,3,58,ORL,ORL,fg3_miss,1,False,False,MISS Gordon 26' 3PT Jump Shot,,14-17,14,17
 0021700649,2018-01-16,ORL,MIN,8.08,1,3,55,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:0 Def:5),14-17,14,17
@@ -153,8 +153,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700649,2018-01-16,ORL,MIN,15.85,2,8,9,MIN,MIN,fg_make,1,False,False,,Towns 17' Jump Shot (10 PTS),34-36,34,36
 0021700649,2018-01-16,ORL,MIN,16.15,2,7,51,ORL,ORL,tov,4,False,False,Hezonja Traveling Turnover (P1.T4),,34-36,34,36
 0021700649,2018-01-16,ORL,MIN,16.43,2,7,34,MIN,MIN,fg_miss,3,True,False,,MISS Towns 7' Hook Shot,34-36,34,36
-0021700649,2018-01-16,ORL,MIN,16.43,2,7,34,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,34-36,34,36
 0021700649,2018-01-16,ORL,MIN,16.43,2,7,34,MIN,ORL,block,3,True,False,block,block,34-36,34,36
+0021700649,2018-01-16,ORL,MIN,16.43,2,7,34,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,34-36,34,36
 0021700649,2018-01-16,ORL,MIN,16.52,2,7,29,MIN,MIN,fg_miss,1,False,False,,MISS Crawford 22' Jump Shot,34-36,34,36
 0021700649,2018-01-16,ORL,MIN,16.53,2,7,28,ORL,ORL,reb,0,False,False,Birch REBOUND (Off:4 Def:2),,34-36,34,36
 0021700649,2018-01-16,ORL,MIN,16.53,2,7,28,ORL,,foul,16,False,False,,,34-36,34,36
@@ -214,10 +214,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700649,2018-01-16,ORL,MIN,23.93,2,0,4,MIN,MIN,fg_miss,1,False,False,,MISS Butler 21' Jump Shot,47-48,47,48
 0021700649,2018-01-16,ORL,MIN,23.97,2,0,2,ORL,ORL,reb,0,False,False,Payton REBOUND (Off:0 Def:3),,47-48,47,48
 0021700649,2018-01-16,ORL,MIN,24.0,2,0,0,ORL,ORL,fg3_miss,1,True,False,MISS Fournier 27' 3PT Jump Shot,,47-48,47,48
+0021700649,2018-01-16,ORL,MIN,24.0,2,0,0,ORL,MIN,block,1,True,False,block,block,47-48,47,48
 0021700649,2018-01-16,ORL,MIN,24.0,2,0,0,ORL,ORL,reb,0,False,False,MAGIC Rebound,,47-48,47,48
 0021700649,2018-01-16,ORL,MIN,24.0,2,0,0,ORL,,period_end,0,False,False,,,47-48,47,48
 0021700649,2018-01-16,ORL,MIN,24.0,3,12,0,ORL,,period_start,0,False,False,,,47-48,47,48
-0021700649,2018-01-16,ORL,MIN,24.0,2,0,0,ORL,MIN,block,1,True,False,block,block,47-48,47,48
 0021700649,2018-01-16,ORL,MIN,24.33,3,11,40,MIN,MIN,fg_miss,86,False,False,,MISS Towns 12' Turnaround Fadeaway Shot,47-48,47,48
 0021700649,2018-01-16,ORL,MIN,24.4,3,11,36,ORL,ORL,reb,0,False,False,Biyombo REBOUND (Off:4 Def:8),,47-48,47,48
 0021700649,2018-01-16,ORL,MIN,24.63,3,11,22,ORL,ORL,fg_miss,57,False,False,MISS Biyombo 5' Driving Hook Shot,,47-48,47,48
@@ -226,8 +226,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700649,2018-01-16,ORL,MIN,24.88,3,11,7,MIN,ORL,steal,1,False,True,steal,steal,47-48,47,48
 0021700649,2018-01-16,ORL,MIN,25.13,3,10,52,ORL,MIN,violation,5,False,False,,Teague Violation:Kicked Ball (B.Barnaky),47-48,47,48
 0021700649,2018-01-16,ORL,MIN,25.28,3,10,43,ORL,ORL,fg_miss,1,True,False,MISS Simmons 5' Jump Shot,,47-48,47,48
-0021700649,2018-01-16,ORL,MIN,25.28,3,10,43,ORL,ORL,reb,0,False,False,MAGIC Rebound,,47-48,47,48
 0021700649,2018-01-16,ORL,MIN,25.28,3,10,43,ORL,MIN,block,1,True,False,block,block,47-48,47,48
+0021700649,2018-01-16,ORL,MIN,25.28,3,10,43,ORL,ORL,reb,0,False,False,MAGIC Rebound,,47-48,47,48
 0021700649,2018-01-16,ORL,MIN,25.3,3,10,42,ORL,ORL,tov,4,False,False,Payton Traveling Turnover (P2.T8),,47-48,47,48
 0021700649,2018-01-16,ORL,MIN,25.53,3,10,28,MIN,MIN,fg_make,79,False,False,,Butler 18' Pullup Jump Shot (9 PTS),47-50,47,50
 0021700649,2018-01-16,ORL,MIN,25.73,3,10,16,ORL,MIN,foul,1,False,False,,Gibson P.FOUL (P2.T1) (M.Ervin),47-50,47,50
@@ -256,17 +256,17 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700649,2018-01-16,ORL,MIN,28.78,3,7,13,MIN,MIN,fg_miss,6,False,False,,MISS Teague 3' Driving Layup,57-58,57,58
 0021700649,2018-01-16,ORL,MIN,28.85,3,7,9,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:2 Def:9),57-58,57,58
 0021700649,2018-01-16,ORL,MIN,28.88,3,7,7,MIN,MIN,fg_miss,5,True,False,,MISS Teague 5' Layup,57-58,57,58
-0021700649,2018-01-16,ORL,MIN,28.88,3,7,7,MIN,MIN,reb,0,False,False,,Teague REBOUND (Off:1 Def:1),57-58,57,58
 0021700649,2018-01-16,ORL,MIN,28.88,3,7,7,MIN,ORL,block,5,True,False,block,block,57-58,57,58
+0021700649,2018-01-16,ORL,MIN,28.88,3,7,7,MIN,MIN,reb,0,False,False,,Teague REBOUND (Off:1 Def:1),57-58,57,58
 0021700649,2018-01-16,ORL,MIN,29.15,3,6,51,MIN,MIN,fg_miss,79,False,False,,MISS Wiggins 7' Pullup Jump Shot,57-58,57,58
 0021700649,2018-01-16,ORL,MIN,29.27,3,6,44,MIN,MIN,reb,0,False,False,,Butler REBOUND (Off:2 Def:2),57-58,57,58
 0021700649,2018-01-16,ORL,MIN,29.27,3,6,44,MIN,MIN,fg_make,97,False,False,,Butler 1' Tip Layup Shot (11 PTS),57-60,57,60
 0021700649,2018-01-16,ORL,MIN,29.4,3,6,36,ORL,ORL,fg3_miss,1,False,False,MISS Fournier 27' 3PT Jump Shot,,57-60,57,60
 0021700649,2018-01-16,ORL,MIN,29.47,3,6,32,MIN,MIN,reb,0,False,False,,Butler REBOUND (Off:2 Def:3),57-60,57,60
 0021700649,2018-01-16,ORL,MIN,29.5,3,6,30,MIN,MIN,fg_miss,41,True,False,,MISS Butler 3' Running Layup,57-60,57,60
+0021700649,2018-01-16,ORL,MIN,29.5,3,6,30,MIN,ORL,block,41,True,False,block,block,57-60,57,60
 0021700649,2018-01-16,ORL,MIN,29.5,3,6,30,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,57-60,57,60
 0021700649,2018-01-16,ORL,MIN,29.5,3,6,30,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 4 Short 0),,57-60,57,60
-0021700649,2018-01-16,ORL,MIN,29.5,3,6,30,MIN,ORL,block,41,True,False,block,block,57-60,57,60
 0021700649,2018-01-16,ORL,MIN,29.58,3,6,25,MIN,ORL,foul,1,False,False,Fournier P.FOUL (P2.T2) (B.Barnaky),,57-60,57,60
 0021700649,2018-01-16,ORL,MIN,29.83,3,6,10,MIN,MIN,fg_miss,1,False,False,,MISS Gibson 17' Jump Shot,57-60,57,60
 0021700649,2018-01-16,ORL,MIN,29.87,3,6,8,MIN,MIN,reb,0,False,False,,Butler REBOUND (Off:3 Def:3),57-60,57,60
@@ -280,8 +280,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700649,2018-01-16,ORL,MIN,30.82,3,5,11,MIN,MIN,fg_miss,6,False,False,,MISS Teague 5' Driving Layup,59-64,59,64
 0021700649,2018-01-16,ORL,MIN,30.87,3,5,8,ORL,ORL,reb,0,False,False,Simmons REBOUND (Off:0 Def:1),,59-64,59,64
 0021700649,2018-01-16,ORL,MIN,30.87,3,5,8,ORL,ORL,fg_miss,41,True,False,MISS Simmons 3' Running Layup,,59-64,59,64
-0021700649,2018-01-16,ORL,MIN,30.87,3,5,8,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,59-64,59,64
 0021700649,2018-01-16,ORL,MIN,30.87,3,5,8,ORL,MIN,block,41,True,False,block,block,59-64,59,64
+0021700649,2018-01-16,ORL,MIN,30.87,3,5,8,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,59-64,59,64
 0021700649,2018-01-16,ORL,MIN,31.13,3,4,52,MIN,MIN,fg_miss,79,False,False,,MISS Butler 20' Pullup Jump Shot,59-64,59,64
 0021700649,2018-01-16,ORL,MIN,31.13,3,4,52,ORL,ORL,reb,0,False,False,MAGIC Rebound,,59-64,59,64
 0021700649,2018-01-16,ORL,MIN,31.13,3,4,52,ORL,MIN,foul,3,False,False,,Towns L.B.FOUL (P2.T3) (B.Kennedy),59-64,59,64
@@ -317,9 +317,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700649,2018-01-16,ORL,MIN,34.57,3,1,26,ORL,ORL,fg3_make,1,False,False,Fournier 26' 3PT Jump Shot (24 PTS) (Augustin 3 AST),,70-70,70,70
 0021700649,2018-01-16,ORL,MIN,34.97,3,1,2,MIN,MIN,fg_make,79,False,False,,Crawford 22' Pullup Jump Shot (5 PTS),70-72,70,72
 0021700649,2018-01-16,ORL,MIN,35.18,3,0,49,ORL,ORL,fg_miss,3,True,False,MISS Fournier 7' Hook Shot,,70-72,70,72
+0021700649,2018-01-16,ORL,MIN,35.18,3,0,49,ORL,MIN,block,3,True,False,block,block,70-72,70,72
 0021700649,2018-01-16,ORL,MIN,35.18,3,0,49,ORL,ORL,reb,0,False,False,MAGIC Rebound,,70-72,70,72
 0021700649,2018-01-16,ORL,MIN,35.18,3,0,49,MIN,MIN,timeout,1,False,False,,Timberwolves Timeout: Regular (Reg.3 Short 0),70-72,70,72
-0021700649,2018-01-16,ORL,MIN,35.18,3,0,49,ORL,MIN,block,3,True,False,block,block,70-72,70,72
 0021700649,2018-01-16,ORL,MIN,35.33,3,0,40,ORL,ORL,fg_miss,57,False,False,MISS Gordon 4' Driving Hook Shot,,70-72,70,72
 0021700649,2018-01-16,ORL,MIN,35.33,3,0,40,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,70-72,70,72
 0021700649,2018-01-16,ORL,MIN,35.45,3,0,33,MIN,MIN,fg_miss,78,False,False,,MISS Teague 6' Floating Jump Shot,70-72,70,72
@@ -354,15 +354,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700649,2018-01-16,ORL,MIN,38.6,4,9,24,MIN,ORL,block,5,True,False,block,block,80-81,80,81
 0021700649,2018-01-16,ORL,MIN,38.67,4,9,20,MIN,MIN,reb,0,False,False,,Dieng REBOUND (Off:1 Def:0),80-81,80,81
 0021700649,2018-01-16,ORL,MIN,38.68,4,9,19,MIN,MIN,fg_miss,5,True,False,,MISS Dieng 4' Layup,80-81,80,81
-0021700649,2018-01-16,ORL,MIN,38.68,4,9,19,ORL,ORL,reb,0,False,False,Mack REBOUND (Off:0 Def:1),,80-81,80,81
 0021700649,2018-01-16,ORL,MIN,38.68,4,9,19,MIN,ORL,block,5,True,False,block,block,80-81,80,81
+0021700649,2018-01-16,ORL,MIN,38.68,4,9,19,ORL,ORL,reb,0,False,False,Mack REBOUND (Off:0 Def:1),,80-81,80,81
 0021700649,2018-01-16,ORL,MIN,38.8,4,9,12,ORL,ORL,fg3_miss,1,False,False,MISS Hezonja 26' 3PT Jump Shot,,80-81,80,81
 0021700649,2018-01-16,ORL,MIN,38.8,4,9,12,MIN,MIN,reb,0,False,False,,Dieng REBOUND (Off:1 Def:1),80-81,80,81
 0021700649,2018-01-16,ORL,MIN,39.1,4,8,54,MIN,MIN,fg_miss,1,False,False,,MISS Towns 13' Jump Shot,80-81,80,81
-0021700649,2018-01-16,ORL,MIN,39.12,4,8,53,MIN,MIN,reb,0,False,False,,Butler REBOUND (Off:4 Def:3),80-81,80,81
 0021700649,2018-01-16,ORL,MIN,39.12,4,8,53,MIN,ORL,foul,2,False,False,Iwundu S.FOUL (P3.T2) (B.Barnaky),,80-81,80,81
 0021700649,2018-01-16,ORL,MIN,39.12,4,8,53,MIN,MIN,ft_make,11,False,False,,Butler Free Throw 1 of 2 (16 PTS),80-82,80,82
 0021700649,2018-01-16,ORL,MIN,39.12,4,8,53,MIN,MIN,ft_make,12,False,False,,Butler Free Throw 2 of 2 (17 PTS),80-83,80,83
+0021700649,2018-01-16,ORL,MIN,39.12,4,8,53,MIN,MIN,reb,0,False,False,,Butler REBOUND (Off:4 Def:3),80-81,80,81
 0021700649,2018-01-16,ORL,MIN,39.53,4,8,28,ORL,ORL,fg_make,1,False,False,Augustin 11' Jump Shot (11 PTS),,82-83,82,83
 0021700649,2018-01-16,ORL,MIN,39.92,4,8,5,MIN,MIN,fg_miss,79,False,False,,MISS Crawford 18' Pullup Jump Shot,82-83,82,83
 0021700649,2018-01-16,ORL,MIN,39.98,4,8,1,ORL,ORL,reb,0,False,False,Birch REBOUND (Off:5 Def:3),,82-83,82,83
@@ -419,10 +419,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700649,2018-01-16,ORL,MIN,46.48,4,1,31,MIN,ORL,block,5,True,False,block,block,103-95,103,95
 0021700649,2018-01-16,ORL,MIN,46.53,4,1,28,ORL,ORL,reb,0,False,False,Fournier REBOUND (Off:0 Def:2),,103-95,103,95
 0021700649,2018-01-16,ORL,MIN,46.88,4,1,7,ORL,ORL,fg_miss,6,True,False,MISS Augustin 5' Driving Layup,,103-95,103,95
+0021700649,2018-01-16,ORL,MIN,46.88,4,1,7,ORL,MIN,block,6,True,False,block,block,103-95,103,95
 0021700649,2018-01-16,ORL,MIN,46.88,4,1,7,ORL,ORL,reb,0,False,False,Biyombo REBOUND (Off:6 Def:9),,103-95,103,95
 0021700649,2018-01-16,ORL,MIN,46.88,4,1,7,ORL,ORL,tov,11,False,False,MAGIC Turnover: Shot Clock (T#17),,103-95,103,95
 0021700649,2018-01-16,ORL,MIN,46.88,4,1,7,MIN,MIN,timeout,1,False,False,,Timberwolves Timeout: Regular (Reg.6 Short 0),103-95,103,95
-0021700649,2018-01-16,ORL,MIN,46.88,4,1,7,ORL,MIN,block,6,True,False,block,block,103-95,103,95
 0021700649,2018-01-16,ORL,MIN,46.92,4,1,5,MIN,MIN,fg3_make,1,False,False,,Towns 3PT Jump Shot (15 PTS) (Wiggins 4 AST),103-98,103,98
 0021700649,2018-01-16,ORL,MIN,47.17,4,0,50,ORL,ORL,fg_make,6,False,False,Biyombo 3' Driving Layup (8 PTS) (Fournier 3 AST),,105-98,105,98
 0021700649,2018-01-16,ORL,MIN,47.17,4,0,50,ORL,MIN,foul,2,False,False,,Butler S.FOUL (P3.PN) (B.Barnaky),105-98,105,98

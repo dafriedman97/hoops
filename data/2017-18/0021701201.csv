@@ -44,8 +44,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701201,2018-04-08,LAL,UTA,4.65,1,7,21,LAL,UTA,block,5,True,False,block,block,4-14,4,14
 0021701201,2018-04-08,LAL,UTA,4.7,1,7,18,LAL,LAL,reb,0,False,False,Hart REBOUND (Off:1 Def:0),,4-14,4,14
 0021701201,2018-04-08,LAL,UTA,4.83,1,7,10,LAL,LAL,fg_miss,1,False,False,MISS Lopez 20' Jump Shot,,4-14,4,14
-0021701201,2018-04-08,LAL,UTA,4.83,1,7,10,LAL,LAL,reb,0,False,False,LAKERS Rebound,,4-14,4,14
 0021701201,2018-04-08,LAL,UTA,4.83,1,7,10,LAL,LAL,tov,11,False,False,LAKERS Turnover: Shot Clock (T#3),,4-14,4,14
+0021701201,2018-04-08,LAL,UTA,4.83,1,7,10,LAL,LAL,reb,0,False,False,LAKERS Rebound,,4-14,4,14
 0021701201,2018-04-08,LAL,UTA,5.05,1,6,57,UTA,UTA,fg_miss,5,False,False,,MISS Gobert 2' Layup,4-14,4,14
 0021701201,2018-04-08,LAL,UTA,5.1,1,6,54,LAL,LAL,reb,0,False,False,Randle REBOUND (Off:0 Def:1),,4-14,4,14
 0021701201,2018-04-08,LAL,UTA,5.2,1,6,48,LAL,LAL,fg_miss,73,False,False,MISS Lopez 2' Driving Reverse Layup,,4-14,4,14
@@ -207,8 +207,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701201,2018-04-08,LAL,UTA,21.38,2,2,37,UTA,UTA,reb,0,False,False,,Favors REBOUND (Off:1 Def:7),38-45,38,45
 0021701201,2018-04-08,LAL,UTA,21.67,2,2,20,UTA,UTA,tov,4,False,False,,Exum Traveling Turnover (P3.T12),38-45,38,45
 0021701201,2018-04-08,LAL,UTA,22.07,2,1,56,LAL,LAL,fg3_miss,1,False,False,MISS Lopez 25' 3PT Jump Shot,,38-45,38,45
-0021701201,2018-04-08,LAL,UTA,22.1,2,1,54,LAL,LAL,reb,0,False,False,LAKERS Rebound,,38-45,38,45
 0021701201,2018-04-08,LAL,UTA,22.1,2,1,54,LAL,LAL,tov,11,False,False,LAKERS Turnover: Shot Clock (T#9),,38-45,38,45
+0021701201,2018-04-08,LAL,UTA,22.1,2,1,54,LAL,LAL,reb,0,False,False,LAKERS Rebound,,38-45,38,45
 0021701201,2018-04-08,LAL,UTA,22.35,2,1,39,UTA,UTA,fg3_make,1,False,False,,Crowder 28' 3PT Jump Shot (13 PTS) (Mitchell 3 AST),38-48,38,48
 0021701201,2018-04-08,LAL,UTA,22.45,2,1,33,LAL,UTA,violation,5,False,False,,Crowder Violation:Kicked Ball (M.Boland),38-48,38,48
 0021701201,2018-04-08,LAL,UTA,22.63,2,1,22,LAL,LAL,fg_make,79,False,False,Hart 16' Pullup Jump Shot (15 PTS) (Lopez 2 AST),,40-48,40,48
@@ -433,9 +433,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701201,2018-04-08,LAL,UTA,45.1,4,2,54,UTA,UTA,fg3_make,1,False,False,,Mitchell 25' 3PT Jump Shot (28 PTS) (Ingles 10 AST),90-107,90,107
 0021701201,2018-04-08,LAL,UTA,45.4,4,2,36,LAL,LAL,fg_make,1,False,False,Ennis 18' Jump Shot (20 PTS),,92-107,92,107
 0021701201,2018-04-08,LAL,UTA,45.83,4,2,10,UTA,UTA,fg_miss,6,True,False,,MISS Mitchell 4' Driving Layup,92-107,92,107
+0021701201,2018-04-08,LAL,UTA,45.83,4,2,10,UTA,LAL,block,6,True,False,block,block,92-107,92,107
 0021701201,2018-04-08,LAL,UTA,45.83,4,2,10,LAL,LAL,reb,0,False,False,Bryant REBOUND (Off:1 Def:3),,92-107,92,107
 0021701201,2018-04-08,LAL,UTA,45.83,4,2,10,LAL,UTA,foul,1,False,False,,O'Neale P.FOUL (P2.PN) (S.Foster),92-107,92,107
-0021701201,2018-04-08,LAL,UTA,45.83,4,2,10,UTA,LAL,block,6,True,False,block,block,92-107,92,107
 0021701201,2018-04-08,LAL,UTA,45.83,4,2,10,LAL,LAL,ft_make,11,False,False,Ennis Free Throw 1 of 2 (21 PTS),,93-107,93,107
 0021701201,2018-04-08,LAL,UTA,45.83,4,2,10,LAL,LAL,ft_make,12,False,False,Ennis Free Throw 2 of 2 (22 PTS),,94-107,94,107
 0021701201,2018-04-08,LAL,UTA,46.05,4,1,57,UTA,UTA,fg_make,102,False,False,,Ingles 3' Driving Floating Bank Jump Shot (22 PTS) (Crowder 3 AST),94-109,94,109

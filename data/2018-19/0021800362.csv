@@ -125,8 +125,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800362,2018-12-05,MIN,CHA,14.47,2,9,32,CHA,CHA,tov,2,False,True,,Kaminsky Lost Ball Turnover (P1.T3),35-41,35,41
 0021800362,2018-12-05,MIN,CHA,14.47,2,9,32,CHA,MIN,steal,2,False,True,steal,steal,35-41,35,41
 0021800362,2018-12-05,MIN,CHA,14.53,2,9,28,MIN,MIN,fg_miss,6,True,False,MISS Saric 3' Driving Layup,,35-41,35,41
-0021800362,2018-12-05,MIN,CHA,14.53,2,9,28,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,35-41,35,41
 0021800362,2018-12-05,MIN,CHA,14.53,2,9,28,MIN,CHA,block,6,True,False,block,block,35-41,35,41
+0021800362,2018-12-05,MIN,CHA,14.53,2,9,28,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,35-41,35,41
 0021800362,2018-12-05,MIN,CHA,14.7,2,9,18,MIN,MIN,fg3_miss,1,False,False,MISS Rose 3PT Jump Shot,,35-41,35,41
 0021800362,2018-12-05,MIN,CHA,14.78,2,9,13,MIN,MIN,reb,0,False,False,Saric REBOUND (Off:1 Def:2),,35-41,35,41
 0021800362,2018-12-05,MIN,CHA,14.82,2,9,11,MIN,MIN,fg_make,78,False,False,Rose 9' Floating Jump Shot (6 PTS) (Saric 1 AST),,37-41,37,41
@@ -217,17 +217,17 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800362,2018-12-05,MIN,CHA,23.83,2,0,10,MIN,MIN,fg_miss,79,False,False,MISS Wiggins 19' Pullup Jump Shot,,62-64,62,64
 0021800362,2018-12-05,MIN,CHA,23.88,2,0,7,CHA,CHA,reb,0,False,False,,Lamb REBOUND (Off:2 Def:3),62-64,62,64
 0021800362,2018-12-05,MIN,CHA,24.0,2,0,0,CHA,CHA,fg_miss,2,True,False,,MISS Lamb 6' Running Jump Shot,62-64,62,64
+0021800362,2018-12-05,MIN,CHA,24.0,2,0,0,CHA,MIN,block,2,True,False,block,block,62-64,62,64
 0021800362,2018-12-05,MIN,CHA,24.0,2,0,0,MIN,MIN,reb,0,False,False,Gibson REBOUND (Off:1 Def:4),,62-64,62,64
 0021800362,2018-12-05,MIN,CHA,24.0,2,0,0,MIN,MIN,fg3_miss,1,False,False,MISS Gibson 65' 3PT Jump Shot,,62-64,62,64
 0021800362,2018-12-05,MIN,CHA,24.0,2,0,0,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,62-64,62,64
 0021800362,2018-12-05,MIN,CHA,24.0,2,0,0,MIN,,period_end,0,False,False,,,62-64,62,64
 0021800362,2018-12-05,MIN,CHA,24.0,3,12,0,MIN,,period_start,0,False,False,,,62-64,62,64
-0021800362,2018-12-05,MIN,CHA,24.0,2,0,0,CHA,MIN,block,2,True,False,block,block,62-64,62,64
 0021800362,2018-12-05,MIN,CHA,24.15,3,11,51,CHA,CHA,fg_make,44,False,False,,Zeller 1' Reverse Layup (7 PTS) (Batum 6 AST),62-66,62,66
 0021800362,2018-12-05,MIN,CHA,24.48,3,11,31,MIN,MIN,fg_make,63,False,False,Wiggins 17' Fadeaway Jumper (18 PTS) (Teague 9 AST),,64-66,64,66
 0021800362,2018-12-05,MIN,CHA,24.82,3,11,11,CHA,CHA,fg_miss,79,True,False,,MISS Batum 15' Pullup Jump Shot,64-66,64,66
-0021800362,2018-12-05,MIN,CHA,24.82,3,11,11,CHA,CHA,reb,0,False,False,,Hornets Rebound,64-66,64,66
 0021800362,2018-12-05,MIN,CHA,24.82,3,11,11,CHA,MIN,block,79,True,False,block,block,64-66,64,66
+0021800362,2018-12-05,MIN,CHA,24.82,3,11,11,CHA,CHA,reb,0,False,False,,Hornets Rebound,64-66,64,66
 0021800362,2018-12-05,MIN,CHA,24.88,3,11,7,CHA,CHA,fg3_miss,79,False,False,,MISS Walker 25' 3PT Pullup Jump Shot,64-66,64,66
 0021800362,2018-12-05,MIN,CHA,24.92,3,11,5,MIN,MIN,reb,0,False,False,Gibson REBOUND (Off:1 Def:5),,64-66,64,66
 0021800362,2018-12-05,MIN,CHA,25.08,3,10,55,MIN,MIN,tov,4,False,False,Towns Traveling Turnover (P2.T11),,64-66,64,66
@@ -254,8 +254,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800362,2018-12-05,MIN,CHA,27.55,3,8,27,CHA,CHA,fg_miss,5,False,False,,MISS Walker 3' Layup,69-68,69,68
 0021800362,2018-12-05,MIN,CHA,27.58,3,8,25,CHA,CHA,reb,0,False,False,,Kidd-Gilchrist REBOUND (Off:3 Def:0),69-68,69,68
 0021800362,2018-12-05,MIN,CHA,27.58,3,8,25,CHA,CHA,fg_miss,5,True,False,,MISS Kidd-Gilchrist 2' Layup,69-68,69,68
-0021800362,2018-12-05,MIN,CHA,27.58,3,8,25,CHA,CHA,reb,0,False,False,,Kidd-Gilchrist REBOUND (Off:4 Def:0),69-68,69,68
 0021800362,2018-12-05,MIN,CHA,27.58,3,8,25,CHA,MIN,block,5,True,False,block,block,69-68,69,68
+0021800362,2018-12-05,MIN,CHA,27.58,3,8,25,CHA,CHA,reb,0,False,False,,Kidd-Gilchrist REBOUND (Off:4 Def:0),69-68,69,68
 0021800362,2018-12-05,MIN,CHA,27.7,3,8,18,CHA,CHA,fg_make,72,False,False,,Kidd-Gilchrist 9' Putback Layup (9 PTS),69-70,69,70
 0021800362,2018-12-05,MIN,CHA,27.82,3,8,11,MIN,MIN,tov,4,False,False,Wiggins Traveling Turnover (P4.T13),,69-70,69,70
 0021800362,2018-12-05,MIN,CHA,28.02,3,7,59,CHA,CHA,fg3_miss,1,False,False,,MISS Lamb 25' 3PT Jump Shot,69-70,69,70
@@ -326,8 +326,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800362,2018-12-05,MIN,CHA,35.27,3,0,44,MIN,MIN,fg_miss,5,False,False,MISS Saric 1' Layup,,86-84,86,84
 0021800362,2018-12-05,MIN,CHA,35.3,3,0,42,CHA,CHA,reb,0,False,False,,Lamb REBOUND (Off:2 Def:8),86-84,86,84
 0021800362,2018-12-05,MIN,CHA,35.5,3,0,30,CHA,CHA,ft_make,11,False,False,,Lamb Free Throw 1 of 2 (15 PTS),86-85,86,85
-0021800362,2018-12-05,MIN,CHA,35.5,3,0,30,CHA,MIN,foul,2,False,False,Wiggins S.FOUL (P1.T2) (D.Collins),,86-85,86,85
 0021800362,2018-12-05,MIN,CHA,35.5,3,0,30,CHA,CHA,ft_make,12,False,False,,Lamb Free Throw 2 of 2 (16 PTS),86-86,86,86
+0021800362,2018-12-05,MIN,CHA,35.5,3,0,30,CHA,MIN,foul,2,False,False,Wiggins S.FOUL (P1.T2) (D.Collins),,86-85,86,85
 0021800362,2018-12-05,MIN,CHA,35.72,3,0,17,MIN,MIN,fg3_miss,1,False,False,MISS Saric 25' 3PT Jump Shot,,86-86,86,86
 0021800362,2018-12-05,MIN,CHA,35.77,3,0,14,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:2),86-86,86,86
 0021800362,2018-12-05,MIN,CHA,35.95,3,0,3,CHA,CHA,fg_miss,5,False,False,,MISS Lamb 2' Layup,86-86,86,86
@@ -379,8 +379,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800362,2018-12-05,MIN,CHA,40.73,4,7,16,MIN,MIN,reb,0,False,False,Covington REBOUND (Off:0 Def:4),,98-96,98,96
 0021800362,2018-12-05,MIN,CHA,40.97,4,7,2,MIN,MIN,fg_make,5,False,False,Towns 1' Layup (29 PTS),,100-96,100,96
 0021800362,2018-12-05,MIN,CHA,41.18,4,6,49,CHA,CHA,fg_miss,6,True,False,,MISS Walker 4' Driving Layup,100-96,100,96
-0021800362,2018-12-05,MIN,CHA,41.18,4,6,49,CHA,CHA,reb,0,False,False,,Hornets Rebound,100-96,100,96
 0021800362,2018-12-05,MIN,CHA,41.18,4,6,49,CHA,MIN,block,6,True,False,block,block,100-96,100,96
+0021800362,2018-12-05,MIN,CHA,41.18,4,6,49,CHA,CHA,reb,0,False,False,,Hornets Rebound,100-96,100,96
 0021800362,2018-12-05,MIN,CHA,41.35,4,6,39,CHA,CHA,tov,40,False,False,,Bridges Out of Bounds Lost Ball Turnover (P1.T10),100-96,100,96
 0021800362,2018-12-05,MIN,CHA,41.52,4,6,29,MIN,MIN,fg_miss,79,False,False,MISS Rose 14' Pullup Jump Shot,,100-96,100,96
 0021800362,2018-12-05,MIN,CHA,41.58,4,6,25,MIN,MIN,reb,0,False,False,Saric REBOUND (Off:2 Def:5),,100-96,100,96

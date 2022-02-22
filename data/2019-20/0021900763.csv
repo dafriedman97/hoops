@@ -202,8 +202,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900763,2020-02-05,LAC,MIA,21.88,2,2,7,MIA,MIA,ft_miss,12,False,False,,MISS Olynyk Free Throw 2 of 2,49-56,49,56
 0021900763,2020-02-05,LAC,MIA,21.92,2,2,5,LAC,LAC,reb,0,False,False,Harkless REBOUND (Off:0 Def:3),,49-56,49,56
 0021900763,2020-02-05,LAC,MIA,22.27,2,1,44,LAC,LAC,fg3_miss,1,False,False,MISS Leonard 30' 3PT Jump Shot,,49-56,49,56
-0021900763,2020-02-05,LAC,MIA,22.4,2,1,36,LAC,LAC,fg_make,87,False,False,Zubac 1' Putback Dunk (8 PTS),,51-56,51,56
 0021900763,2020-02-05,LAC,MIA,22.4,2,1,36,LAC,LAC,reb,0,False,False,Zubac REBOUND (Off:1 Def:6),,51-56,51,56
+0021900763,2020-02-05,LAC,MIA,22.4,2,1,36,LAC,LAC,fg_make,87,False,False,Zubac 1' Putback Dunk (8 PTS),,51-56,51,56
 0021900763,2020-02-05,LAC,MIA,22.67,2,1,20,MIA,MIA,fg_miss,6,False,False,,MISS Olynyk 4' Driving Layup,51-56,51,56
 0021900763,2020-02-05,LAC,MIA,22.72,2,1,17,LAC,LAC,reb,0,False,False,Leonard REBOUND (Off:0 Def:5),,51-56,51,56
 0021900763,2020-02-05,LAC,MIA,22.92,2,1,5,LAC,LAC,fg_make,79,False,False,Leonard 10' Pullup Jump Shot (8 PTS),,53-56,53,56
@@ -241,8 +241,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900763,2020-02-05,LAC,MIA,25.57,3,10,26,MIA,LAC,steal,1,False,True,steal,steal,58-61,58,61
 0021900763,2020-02-05,LAC,MIA,25.65,3,10,21,LAC,LAC,fg_make,102,False,False,Beverley 3' Driving Floating Bank Jump Shot (2 PTS),,60-61,60,61
 0021900763,2020-02-05,LAC,MIA,26.0,3,10,0,MIA,MIA,fg_miss,6,True,False,,MISS Nunn 2' Driving Layup,60-61,60,61
-0021900763,2020-02-05,LAC,MIA,26.0,3,10,0,MIA,MIA,reb,0,False,False,,Heat Rebound,60-61,60,61
 0021900763,2020-02-05,LAC,MIA,26.0,3,10,0,MIA,LAC,block,6,True,False,block,block,60-61,60,61
+0021900763,2020-02-05,LAC,MIA,26.0,3,10,0,MIA,MIA,reb,0,False,False,,Heat Rebound,60-61,60,61
 0021900763,2020-02-05,LAC,MIA,26.07,3,9,56,MIA,MIA,fg3_miss,1,False,False,,MISS Nunn 26' 3PT Jump Shot,60-61,60,61
 0021900763,2020-02-05,LAC,MIA,26.15,3,9,51,LAC,LAC,reb,0,False,False,Beverley REBOUND (Off:1 Def:4),,60-61,60,61
 0021900763,2020-02-05,LAC,MIA,26.27,3,9,44,LAC,LAC,fg_miss,79,False,False,MISS George 6' Pullup Jump Shot,,60-61,60,61
@@ -261,8 +261,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900763,2020-02-05,LAC,MIA,27.55,3,8,27,LAC,LAC,reb,0,False,False,Harkless REBOUND (Off:0 Def:6),,63-63,63,63
 0021900763,2020-02-05,LAC,MIA,27.65,3,8,21,LAC,LAC,fg_make,5,False,False,Zubac 1' Layup (10 PTS) (George 4 AST),,65-63,65,63
 0021900763,2020-02-05,LAC,MIA,27.88,3,8,7,MIA,MIA,fg_miss,101,False,False,,MISS Nunn 6' Driving Floating Jump Shot,65-63,65,63
-0021900763,2020-02-05,LAC,MIA,28.0,3,8,0,MIA,MIA,fg_make,87,False,False,,Adebayo 1' Putback Dunk (9 PTS),65-65,65,65
 0021900763,2020-02-05,LAC,MIA,28.0,3,8,0,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:2 Def:2),65-65,65,65
+0021900763,2020-02-05,LAC,MIA,28.0,3,8,0,MIA,MIA,fg_make,87,False,False,,Adebayo 1' Putback Dunk (9 PTS),65-65,65,65
 0021900763,2020-02-05,LAC,MIA,28.2,3,7,48,LAC,LAC,fg3_make,1,False,False,Harkless 3PT Jump Shot (11 PTS) (George 5 AST),,68-65,68,65
 0021900763,2020-02-05,LAC,MIA,28.52,3,7,29,MIA,MIA,fg3_miss,1,False,False,,MISS Nunn 3PT Jump Shot,68-65,68,65
 0021900763,2020-02-05,LAC,MIA,28.52,3,7,29,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,68-65,68,65
@@ -427,7 +427,7 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900763,2020-02-05,LAC,MIA,47.48,4,0,31,MIA,MIA,fg3_miss,1,False,False,,MISS Nunn 25' 3PT Jump Shot,128-111,128,111
 0021900763,2020-02-05,LAC,MIA,47.52,4,0,29,LAC,LAC,reb,0,False,False,Motley REBOUND (Off:0 Def:1),,128-111,128,111
 0021900763,2020-02-05,LAC,MIA,47.58,4,0,25,LAC,LAC,fg_miss,41,True,False,MISS McGruder 2' Running Layup,,128-111,128,111
-0021900763,2020-02-05,LAC,MIA,47.58,4,0,25,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,128-111,128,111
 0021900763,2020-02-05,LAC,MIA,47.58,4,0,25,LAC,MIA,block,41,True,False,block,block,128-111,128,111
+0021900763,2020-02-05,LAC,MIA,47.58,4,0,25,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,128-111,128,111
 0021900763,2020-02-05,LAC,MIA,47.88,4,0,7,LAC,LAC,tov,11,False,False,CLIPPERS Turnover: Shot Clock (T#14),,128-111,128,111
 0021900763,2020-02-05,LAC,MIA,48.0,4,0,0,LAC,,period_end,0,False,False,,,128-111,128,111

@@ -207,8 +207,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700330,2017-12-02,PHI,DET,23.13,2,0,52,PHI,PHI,fg_miss,5,False,False,MISS Embiid 2' Layup,,61-45,61,45
 0021700330,2017-12-02,PHI,DET,23.13,2,0,52,DET,DET,reb,0,False,False,,Marjanovic REBOUND (Off:1 Def:1),61-45,61,45
 0021700330,2017-12-02,PHI,DET,23.32,2,0,41,DET,DET,fg_miss,5,True,False,,MISS Marjanovic 4' Layup,61-45,61,45
-0021700330,2017-12-02,PHI,DET,23.32,2,0,41,DET,DET,reb,0,False,False,,Pistons Rebound,61-45,61,45
 0021700330,2017-12-02,PHI,DET,23.32,2,0,41,DET,PHI,block,5,True,False,block,block,61-45,61,45
+0021700330,2017-12-02,PHI,DET,23.32,2,0,41,DET,DET,reb,0,False,False,,Pistons Rebound,61-45,61,45
 0021700330,2017-12-02,PHI,DET,23.4,2,0,36,DET,DET,tov,1,False,True,,Kennard Bad Pass Turnover (P1.T9),61-45,61,45
 0021700330,2017-12-02,PHI,DET,23.4,2,0,36,DET,PHI,steal,1,False,True,steal,steal,61-45,61,45
 0021700330,2017-12-02,PHI,DET,23.5,2,0,30,PHI,PHI,fg_miss,1,False,False,MISS Covington 14' Jump Shot,,61-45,61,45
@@ -349,8 +349,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700330,2017-12-02,PHI,DET,37.1,4,10,54,DET,DET,fg3_miss,1,False,False,,MISS Galloway 26' 3PT Jump Shot,82-80,82,80
 0021700330,2017-12-02,PHI,DET,37.15,4,10,51,PHI,PHI,reb,0,False,False,Covington REBOUND (Off:2 Def:4),,82-80,82,80
 0021700330,2017-12-02,PHI,DET,37.33,4,10,40,PHI,PHI,tov,2,False,True,Embiid Lost Ball Turnover (P6.T15),,82-80,82,80
-0021700330,2017-12-02,PHI,DET,37.33,4,10,40,DET,PHI,foul,1,False,False,Embiid P.FOUL (P4.T1) (T.Ford),,82-80,82,80
 0021700330,2017-12-02,PHI,DET,37.33,4,10,40,PHI,DET,steal,2,False,True,steal,steal,82-80,82,80
+0021700330,2017-12-02,PHI,DET,37.33,4,10,40,DET,PHI,foul,1,False,False,Embiid P.FOUL (P4.T1) (T.Ford),,82-80,82,80
 0021700330,2017-12-02,PHI,DET,37.53,4,10,28,DET,PHI,foul,2,False,False,Covington S.FOUL (P2.T2) (J.Van Duyne),,82-80,82,80
 0021700330,2017-12-02,PHI,DET,37.53,4,10,28,DET,DET,ft_make,11,False,False,,Kennard Free Throw 1 of 2 (8 PTS),82-81,82,81
 0021700330,2017-12-02,PHI,DET,37.53,4,10,28,DET,DET,ft_make,12,False,False,,Kennard Free Throw 2 of 2 (9 PTS),82-82,82,82
@@ -378,8 +378,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700330,2017-12-02,PHI,DET,39.77,4,8,14,PHI,PHI,tov,1,False,True,Simmons Bad Pass Turnover (P3.T16),,86-86,86,86
 0021700330,2017-12-02,PHI,DET,39.77,4,8,14,PHI,DET,steal,1,False,True,steal,steal,86-86,86,86
 0021700330,2017-12-02,PHI,DET,39.88,4,8,7,DET,DET,fg3_miss,1,True,False,,MISS Tolliver 25' 3PT Jump Shot,86-86,86,86
-0021700330,2017-12-02,PHI,DET,39.88,4,8,7,PHI,PHI,reb,0,False,False,Johnson REBOUND (Off:4 Def:2),,86-86,86,86
 0021700330,2017-12-02,PHI,DET,39.88,4,8,7,DET,PHI,block,1,True,False,block,block,86-86,86,86
+0021700330,2017-12-02,PHI,DET,39.88,4,8,7,PHI,PHI,reb,0,False,False,Johnson REBOUND (Off:4 Def:2),,86-86,86,86
 0021700330,2017-12-02,PHI,DET,40.12,4,7,53,DET,PHI,foul,3,False,False,Johnson L.B.FOUL (P4.T3) (T.Ford),,86-86,86,86
 0021700330,2017-12-02,PHI,DET,40.13,4,7,52,PHI,PHI,fg_miss,1,False,False,MISS Simmons 12' Jump Shot,,86-86,86,86
 0021700330,2017-12-02,PHI,DET,40.13,4,7,52,DET,DET,reb,0,False,False,,Pistons Rebound,86-86,86,86
@@ -388,9 +388,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700330,2017-12-02,PHI,DET,40.35,4,7,39,DET,DET,ft_make,12,False,False,,Drummond Free Throw 2 of 2 (14 PTS),86-88,86,88
 0021700330,2017-12-02,PHI,DET,40.38,4,7,37,DET,PHI,foul,14,False,False,Simmons FLAGRANT.FOUL.TYPE1 (P3.PN) (S.Foster),,86-88,86,88
 0021700330,2017-12-02,PHI,DET,40.38,4,7,37,PHI,PHI,tov,0,False,False,Simmons No Turnover (P4.T17),,86-88,86,88
-0021700330,2017-12-02,PHI,DET,40.38,4,7,37,PHI,DET,ft_make,19,False,False,,Johnson Free Throw Flagrant 2 of 2 (9 PTS),86-89,86,89
 0021700330,2017-12-02,PHI,DET,40.38,4,7,37,DET,DET,ft_miss,18,False,False,,MISS Johnson Free Throw Flagrant 1 of 2,86-89,86,89
 0021700330,2017-12-02,PHI,DET,40.38,4,7,37,DET,DET,reb,1,False,False,,Pistons Rebound,86-89,86,89
+0021700330,2017-12-02,PHI,DET,40.38,4,7,37,PHI,DET,ft_make,19,False,False,,Johnson Free Throw Flagrant 2 of 2 (9 PTS),86-89,86,89
 0021700330,2017-12-02,PHI,DET,40.5,4,7,30,DET,DET,fg_miss,79,False,False,,MISS Bradley 20' Pullup Jump Shot,86-89,86,89
 0021700330,2017-12-02,PHI,DET,40.53,4,7,28,PHI,PHI,reb,0,False,False,Bayless REBOUND (Off:1 Def:1),,86-89,86,89
 0021700330,2017-12-02,PHI,DET,40.8,4,7,12,PHI,DET,foul,1,False,False,,Drummond P.FOUL (P4.T2) (S.Foster),86-89,86,89

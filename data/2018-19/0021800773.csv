@@ -76,8 +76,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800773,2019-02-01,UTA,ATL,8.63,1,3,22,UTA,UTA,fg3_miss,1,False,False,MISS Korver 28' 3PT Jump Shot,,25-30,25,30
 0021800773,2019-02-01,UTA,ATL,8.68,1,3,19,ATL,ATL,reb,0,False,False,,Lin REBOUND (Off:0 Def:1),25-30,25,30
 0021800773,2019-02-01,UTA,ATL,8.85,1,3,9,ATL,ATL,fg_miss,1,True,False,,MISS Spellman 5' Jump Shot,25-30,25,30
-0021800773,2019-02-01,UTA,ATL,8.85,1,3,9,ATL,ATL,reb,0,False,False,,Hawks Rebound,25-30,25,30
 0021800773,2019-02-01,UTA,ATL,8.85,1,3,9,ATL,UTA,block,1,True,False,block,block,25-30,25,30
+0021800773,2019-02-01,UTA,ATL,8.85,1,3,9,ATL,ATL,reb,0,False,False,,Hawks Rebound,25-30,25,30
 0021800773,2019-02-01,UTA,ATL,8.98,1,3,1,ATL,UTA,foul,1,False,False,Mitchell P.FOUL (P1.PN) (T.Maddox),,25-30,25,30
 0021800773,2019-02-01,UTA,ATL,8.98,1,3,1,ATL,ATL,ft_make,11,False,False,,Bazemore Free Throw 1 of 2 (3 PTS),25-31,25,31
 0021800773,2019-02-01,UTA,ATL,8.98,1,3,1,ATL,ATL,ft_make,12,False,False,,Bazemore Free Throw 2 of 2 (4 PTS),25-32,25,32
@@ -168,8 +168,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800773,2019-02-01,UTA,ATL,18.17,2,5,50,UTA,ATL,block,1,True,False,block,block,42-49,42,49
 0021800773,2019-02-01,UTA,ATL,18.2,2,5,48,ATL,ATL,reb,0,False,False,,Young REBOUND (Off:0 Def:1),42-49,42,49
 0021800773,2019-02-01,UTA,ATL,18.23,2,5,46,ATL,ATL,fg_miss,6,True,False,,MISS Young 4' Driving Layup,42-49,42,49
-0021800773,2019-02-01,UTA,ATL,18.23,2,5,46,ATL,ATL,reb,0,False,False,,Hawks Rebound,42-49,42,49
 0021800773,2019-02-01,UTA,ATL,18.23,2,5,46,ATL,UTA,block,6,True,False,block,block,42-49,42,49
+0021800773,2019-02-01,UTA,ATL,18.23,2,5,46,ATL,ATL,reb,0,False,False,,Hawks Rebound,42-49,42,49
 0021800773,2019-02-01,UTA,ATL,18.47,2,5,32,ATL,ATL,fg_make,7,False,False,,Prince 2' Dunk (4 PTS),42-51,42,51
 0021800773,2019-02-01,UTA,ATL,18.75,2,5,15,UTA,UTA,fg_miss,5,False,False,MISS Mitchell 4' Layup,,42-51,42,51
 0021800773,2019-02-01,UTA,ATL,18.77,2,5,14,ATL,ATL,reb,0,False,False,,Young REBOUND (Off:0 Def:2),42-51,42,51
@@ -346,11 +346,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800773,2019-02-01,UTA,ATL,35.95,3,0,3,ATL,ATL,reb,0,False,False,,Hawks Rebound,96-84,96,84
 0021800773,2019-02-01,UTA,ATL,35.98,3,0,1,ATL,ATL,fg3_make,1,False,False,,Young 3PT Jump Shot (19 PTS) (Huerter 5 AST),96-87,96,87
 0021800773,2019-02-01,UTA,ATL,36.0,3,0,0,UTA,UTA,tov,1,False,True,Favors Bad Pass Turnover (P1.T14),,96-87,96,87
+0021800773,2019-02-01,UTA,ATL,36.0,3,0,0,UTA,ATL,steal,1,False,True,steal,steal,96-87,96,87
 0021800773,2019-02-01,UTA,ATL,36.0,3,0,0,ATL,ATL,fg3_miss,1,False,False,,MISS Young 49' 3PT Jump Shot,96-87,96,87
 0021800773,2019-02-01,UTA,ATL,36.0,3,0,0,ATL,ATL,reb,0,False,False,,Hawks Rebound,96-87,96,87
 0021800773,2019-02-01,UTA,ATL,36.0,3,0,0,ATL,,period_end,0,False,False,,,96-87,96,87
 0021800773,2019-02-01,UTA,ATL,36.0,4,12,0,ATL,,period_start,0,False,False,,,96-87,96,87
-0021800773,2019-02-01,UTA,ATL,36.0,3,0,0,UTA,ATL,steal,1,False,True,steal,steal,96-87,96,87
 0021800773,2019-02-01,UTA,ATL,36.22,4,11,47,UTA,UTA,fg3_make,1,False,False,Crowder 3PT Jump Shot (13 PTS) (Favors 3 AST),,99-87,99,87
 0021800773,2019-02-01,UTA,ATL,36.5,4,11,30,ATL,ATL,fg_make,5,False,False,,Collins 2' Layup (10 PTS) (Huerter 6 AST),99-89,99,89
 0021800773,2019-02-01,UTA,ATL,36.67,4,11,20,UTA,ATL,foul,1,False,False,,Young P.FOUL (P1.T1) (K.Fitzgerald),99-89,99,89

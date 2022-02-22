@@ -26,8 +26,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700877,2018-02-23,HOU,MIN,3.0,1,9,0,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:0 Def:1),6-10,6,10
 0021700877,2018-02-23,HOU,MIN,3.12,1,8,53,MIN,MIN,fg3_make,79,False,False,,Butler 26' 3PT Pullup Jump Shot (5 PTS),6-13,6,13
 0021700877,2018-02-23,HOU,MIN,3.37,1,8,38,HOU,HOU,fg_miss,6,True,False,MISS Harden 4' Driving Layup,,6-13,6,13
-0021700877,2018-02-23,HOU,MIN,3.37,1,8,38,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,6-13,6,13
 0021700877,2018-02-23,HOU,MIN,3.37,1,8,38,HOU,MIN,block,6,True,False,block,block,6-13,6,13
+0021700877,2018-02-23,HOU,MIN,3.37,1,8,38,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,6-13,6,13
 0021700877,2018-02-23,HOU,MIN,3.48,1,8,31,HOU,MIN,foul,2,False,False,,Butler S.FOUL (P1.T2) (B.Kennedy),6-13,6,13
 0021700877,2018-02-23,HOU,MIN,3.48,1,8,31,HOU,HOU,ft_make,11,False,False,Harden Free Throw 1 of 2 (1 PTS),,7-13,7,13
 0021700877,2018-02-23,HOU,MIN,3.48,1,8,31,HOU,HOU,ft_make,12,False,False,Harden Free Throw 2 of 2 (2 PTS),,8-13,8,13
@@ -56,8 +56,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700877,2018-02-23,HOU,MIN,6.22,1,5,47,MIN,MIN,fg3_make,1,False,False,,Wiggins 3PT Jump Shot (7 PTS) (Butler 1 AST),13-22,13,22
 0021700877,2018-02-23,HOU,MIN,6.38,1,5,37,HOU,HOU,fg_make,6,False,False,Harden 1' Driving Layup (7 PTS),,15-22,15,22
 0021700877,2018-02-23,HOU,MIN,6.73,1,5,16,MIN,HOU,foul,1,False,False,Tucker P.FOUL (P1.T2) (D.Collins),,15-22,15,22
-0021700877,2018-02-23,HOU,MIN,6.95,1,5,3,MIN,HOU,foul,17,False,False,ROCKETS T.Foul (Def. 3 Sec Mbah a Moute ) (B.Kennedy),,15-22,15,22
 0021700877,2018-02-23,HOU,MIN,6.95,1,5,3,MIN,MIN,ft_make,16,False,False,,Butler Free Throw Technical (8 PTS),15-23,15,23
+0021700877,2018-02-23,HOU,MIN,6.95,1,5,3,MIN,HOU,foul,17,False,False,ROCKETS T.Foul (Def. 3 Sec Mbah a Moute ) (B.Kennedy),,15-22,15,22
 0021700877,2018-02-23,HOU,MIN,7.15,1,4,51,MIN,MIN,fg_miss,6,False,False,,MISS Butler 2' Driving Layup,15-23,15,23
 0021700877,2018-02-23,HOU,MIN,7.2,1,4,48,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:1 Def:1),,15-23,15,23
 0021700877,2018-02-23,HOU,MIN,7.42,1,4,35,HOU,MIN,foul,2,False,False,,Jones S.FOUL (P1.T3) (D.Collins),15-23,15,23
@@ -265,8 +265,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700877,2018-02-23,HOU,MIN,29.45,3,6,33,MIN,MIN,fg_miss,101,False,False,,MISS Butler 11' Driving Floating Jump Shot,69-63,69,63
 0021700877,2018-02-23,HOU,MIN,29.47,3,6,32,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:4 Def:8),69-63,69,63
 0021700877,2018-02-23,HOU,MIN,29.47,3,6,32,MIN,MIN,fg_miss,5,True,False,,MISS Towns 3' Layup,69-63,69,63
-0021700877,2018-02-23,HOU,MIN,29.47,3,6,32,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,69-63,69,63
 0021700877,2018-02-23,HOU,MIN,29.47,3,6,32,MIN,HOU,block,5,True,False,block,block,69-63,69,63
+0021700877,2018-02-23,HOU,MIN,29.47,3,6,32,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,69-63,69,63
 0021700877,2018-02-23,HOU,MIN,29.57,3,6,26,MIN,MIN,tov,11,False,False,,Timberwolves Turnover: Shot Clock (T#6),69-63,69,63
 0021700877,2018-02-23,HOU,MIN,29.8,3,6,12,HOU,HOU,fg3_miss,1,False,False,MISS Tucker 26' 3PT Jump Shot,,69-63,69,63
 0021700877,2018-02-23,HOU,MIN,29.8,3,6,12,MIN,MIN,reb,0,False,False,,Wiggins REBOUND (Off:1 Def:2),69-63,69,63
@@ -343,8 +343,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700877,2018-02-23,HOU,MIN,36.45,4,11,33,HOU,MIN,steal,1,False,True,steal,steal,88-75,88,75
 0021700877,2018-02-23,HOU,MIN,36.6,4,11,24,MIN,MIN,fg_make,6,False,False,,Crawford 2' Driving Layup (11 PTS),88-77,88,77
 0021700877,2018-02-23,HOU,MIN,36.95,4,11,3,HOU,HOU,fg_miss,5,True,False,MISS Anderson 5' Layup,,88-77,88,77
-0021700877,2018-02-23,HOU,MIN,36.95,4,11,3,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,88-77,88,77
 0021700877,2018-02-23,HOU,MIN,36.95,4,11,3,HOU,MIN,block,5,True,False,block,block,88-77,88,77
+0021700877,2018-02-23,HOU,MIN,36.95,4,11,3,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,88-77,88,77
 0021700877,2018-02-23,HOU,MIN,37.07,4,10,56,HOU,HOU,tov,11,False,False,ROCKETS Turnover: Shot Clock (T#9),,88-77,88,77
 0021700877,2018-02-23,HOU,MIN,37.3,4,10,42,MIN,MIN,fg_miss,6,False,False,,MISS Bjelica 6' Driving Layup,88-77,88,77
 0021700877,2018-02-23,HOU,MIN,37.33,4,10,40,HOU,HOU,reb,0,False,False,Johnson REBOUND (Off:0 Def:2),,88-77,88,77

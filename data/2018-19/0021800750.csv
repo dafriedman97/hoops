@@ -57,9 +57,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800750,2019-01-29,DET,MIL,7.32,1,4,41,MIL,MIL,tov,1,False,True,,Lopez Bad Pass Turnover (P1.T4),14-17,14,17
 0021800750,2019-01-29,DET,MIL,7.32,1,4,41,MIL,DET,steal,1,False,True,steal,steal,14-17,14,17
 0021800750,2019-01-29,DET,MIL,7.33,1,4,40,DET,DET,tov,1,False,True,Robinson III Bad Pass Turnover (P1.T1),,14-17,14,17
+0021800750,2019-01-29,DET,MIL,7.33,1,4,40,DET,MIL,steal,1,False,True,steal,steal,14-17,14,17
 0021800750,2019-01-29,DET,MIL,7.33,1,4,40,MIL,DET,foul,1,False,False,Jackson P.FOUL (P1.T1) (K.Cutler),,14-17,14,17
 0021800750,2019-01-29,DET,MIL,7.33,1,4,40,DET,DET,timeout,1,False,False,PISTONS Timeout: Regular (Full 1 Short 0),,14-17,14,17
-0021800750,2019-01-29,DET,MIL,7.33,1,4,40,DET,MIL,steal,1,False,True,steal,steal,14-17,14,17
 0021800750,2019-01-29,DET,MIL,7.62,1,4,23,MIL,MIL,fg_make,78,False,False,,Middleton 11' Floating Jump Shot (6 PTS) (Lopez 1 AST),14-19,14,19
 0021800750,2019-01-29,DET,MIL,7.92,1,4,5,DET,MIL,foul,1,False,False,,Ilyasova P.FOUL (P1.T3) (K.Cutler),14-19,14,19
 0021800750,2019-01-29,DET,MIL,8.17,1,3,50,DET,DET,fg_miss,3,False,False,MISS Griffin 6' Hook Shot,,14-19,14,19
@@ -315,9 +315,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800750,2019-01-29,DET,MIL,40.63,4,7,22,MIL,MIL,reb,0,False,False,,Bledsoe REBOUND (Off:1 Def:3),85-102,85,102
 0021800750,2019-01-29,DET,MIL,40.65,4,7,21,MIL,MIL,fg_make,5,False,False,,Bledsoe 1' Layup (15 PTS),85-104,85,104
 0021800750,2019-01-29,DET,MIL,40.88,4,7,7,DET,DET,fg_miss,6,True,False,MISS Griffin 2' Driving Layup,,85-104,85,104
+0021800750,2019-01-29,DET,MIL,40.88,4,7,7,DET,MIL,block,6,True,False,block,block,85-104,85,104
 0021800750,2019-01-29,DET,MIL,40.88,4,7,7,MIL,MIL,reb,0,False,False,,Bucks Rebound,85-104,85,104
 0021800750,2019-01-29,DET,MIL,40.88,4,7,7,MIL,,foul,11,False,False,,,85-104,85,104
-0021800750,2019-01-29,DET,MIL,40.88,4,7,7,DET,MIL,block,6,True,False,block,block,85-104,85,104
 0021800750,2019-01-29,DET,MIL,40.88,4,7,7,MIL,MIL,ft_make,16,False,False,,Snell Free Throw Technical (11 PTS),85-105,85,105
 0021800750,2019-01-29,DET,MIL,41.12,4,6,53,MIL,MIL,fg_miss,6,False,False,,MISS Bledsoe 3' Driving Layup,85-105,85,105
 0021800750,2019-01-29,DET,MIL,41.17,4,6,50,DET,DET,reb,0,False,False,Griffin REBOUND (Off:0 Def:5),,85-105,85,105
@@ -370,8 +370,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800750,2019-01-29,DET,MIL,45.88,4,2,7,DET,DET,ft_miss,12,False,False,MISS Griffin Free Throw 2 of 2,,101-114,101,114
 0021800750,2019-01-29,DET,MIL,45.97,4,2,2,MIL,MIL,reb,0,False,False,,Bledsoe REBOUND (Off:1 Def:4),101-114,101,114
 0021800750,2019-01-29,DET,MIL,46.18,4,1,49,MIL,MIL,fg_miss,5,True,False,,MISS Antetokounmpo 3' Layup,101-114,101,114
-0021800750,2019-01-29,DET,MIL,46.18,4,1,49,DET,DET,reb,0,False,False,PISTONS Rebound,,101-114,101,114
 0021800750,2019-01-29,DET,MIL,46.18,4,1,49,MIL,DET,block,5,True,False,block,block,101-114,101,114
+0021800750,2019-01-29,DET,MIL,46.18,4,1,49,DET,DET,reb,0,False,False,PISTONS Rebound,,101-114,101,114
 0021800750,2019-01-29,DET,MIL,46.3,4,1,42,DET,DET,fg3_miss,1,False,False,MISS Kennard 26' 3PT Jump Shot,,101-114,101,114
 0021800750,2019-01-29,DET,MIL,46.35,4,1,39,DET,DET,reb,0,False,False,Griffin REBOUND (Off:1 Def:6),,101-114,101,114
 0021800750,2019-01-29,DET,MIL,46.43,4,1,34,DET,DET,fg3_miss,1,False,False,MISS Johnson 3PT Jump Shot,,101-114,101,114
@@ -381,10 +381,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800750,2019-01-29,DET,MIL,47.08,4,0,55,DET,DET,fg_make,7,False,False,Drummond 1' Dunk (18 PTS) (Johnson 4 AST),,103-114,103,114
 0021800750,2019-01-29,DET,MIL,47.3,4,0,42,MIL,MIL,fg_miss,79,False,False,,MISS Middleton 16' Pullup Jump Shot,103-114,103,114
 0021800750,2019-01-29,DET,MIL,47.35,4,0,39,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:7),103-114,103,114
-0021800750,2019-01-29,DET,MIL,47.4,4,0,36,MIL,DET,foul,2,False,False,Drummond S.FOUL (P1.PN) (J.Tiven),,103-114,103,114
 0021800750,2019-01-29,DET,MIL,47.4,4,0,36,MIL,MIL,ft_make,11,False,False,,Antetokounmpo Free Throw 1 of 2 (21 PTS),103-115,103,115
 0021800750,2019-01-29,DET,MIL,47.4,4,0,36,MIL,MIL,ft_miss,12,False,False,,MISS Antetokounmpo Free Throw 2 of 2,103-115,103,115
 0021800750,2019-01-29,DET,MIL,47.4,4,0,36,DET,DET,reb,0,False,False,Drummond REBOUND (Off:4 Def:8),,103-115,103,115
+0021800750,2019-01-29,DET,MIL,47.4,4,0,36,MIL,DET,foul,2,False,False,Drummond S.FOUL (P1.PN) (J.Tiven),,103-114,103,114
 0021800750,2019-01-29,DET,MIL,47.57,4,0,26,DET,DET,fg3_miss,1,False,False,MISS Griffin 26' 3PT Jump Shot,,103-115,103,115
 0021800750,2019-01-29,DET,MIL,47.6,4,0,24,DET,DET,reb,0,False,False,Drummond REBOUND (Off:5 Def:8),,103-115,103,115
 0021800750,2019-01-29,DET,MIL,47.6,4,0,24,DET,MIL,foul,1,False,False,,G. Hill P.FOUL (P1.PN) (J.Tiven),103-115,103,115

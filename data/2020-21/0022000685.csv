@@ -80,8 +80,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000685,2021-03-26,MIL,BOS,7.98,1,4,1,MIL,MIL,fg3_miss,1,False,False,MISS Antetokounmpo 27' 3PT Jump Shot,,16-23,16,23
 0022000685,2021-03-26,MIL,BOS,8.08,1,3,55,MIL,MIL,reb,0,False,False,Lopez REBOUND (Off:2 Def:1),,16-23,16,23
 0022000685,2021-03-26,MIL,BOS,8.23,1,3,46,MIL,MIL,fg_miss,6,True,False,MISS Connaughton 5' Driving Layup,,16-23,16,23
-0022000685,2021-03-26,MIL,BOS,8.23,1,3,46,MIL,MIL,reb,0,False,False,Connaughton REBOUND (Off:2 Def:2),,16-23,16,23
 0022000685,2021-03-26,MIL,BOS,8.23,1,3,46,MIL,BOS,block,6,True,False,block,block,16-23,16,23
+0022000685,2021-03-26,MIL,BOS,8.23,1,3,46,MIL,MIL,reb,0,False,False,Connaughton REBOUND (Off:2 Def:2),,16-23,16,23
 0022000685,2021-03-26,MIL,BOS,8.33,1,3,40,MIL,MIL,fg3_miss,1,False,False,MISS Antetokounmpo 25' 3PT Jump Shot,,16-23,16,23
 0022000685,2021-03-26,MIL,BOS,8.33,1,3,40,MIL,MIL,reb,0,False,False,Lopez REBOUND (Off:3 Def:1),,16-23,16,23
 0022000685,2021-03-26,MIL,BOS,8.33,1,3,40,MIL,MIL,fg_miss,97,False,False,MISS Lopez Tip Layup Shot,,16-23,16,23
@@ -121,8 +121,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000685,2021-03-26,MIL,BOS,11.38,1,0,37,BOS,BOS,ft_make,11,False,False,,Tatum Free Throw 1 of 2 (7 PTS),26-31,26,31
 0022000685,2021-03-26,MIL,BOS,11.38,1,0,37,BOS,BOS,ft_make,12,False,False,,Tatum Free Throw 2 of 2 (8 PTS),26-32,26,32
 0022000685,2021-03-26,MIL,BOS,11.55,1,0,27,MIL,MIL,fg_miss,101,True,False,MISS Holiday 7' Driving Floating Jump Shot,,26-32,26,32
-0022000685,2021-03-26,MIL,BOS,11.55,1,0,27,MIL,MIL,reb,0,False,False,BUCKS Rebound,,26-32,26,32
 0022000685,2021-03-26,MIL,BOS,11.55,1,0,27,MIL,BOS,block,101,True,False,block,block,26-32,26,32
+0022000685,2021-03-26,MIL,BOS,11.55,1,0,27,MIL,MIL,reb,0,False,False,BUCKS Rebound,,26-32,26,32
 0022000685,2021-03-26,MIL,BOS,11.65,1,0,21,MIL,MIL,fg_miss,1,False,False,MISS Middleton 16' Jump Shot,,26-32,26,32
 0022000685,2021-03-26,MIL,BOS,11.72,1,0,17,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:1),26-32,26,32
 0022000685,2021-03-26,MIL,BOS,11.9,1,0,6,BOS,BOS,fg3_miss,79,False,False,,MISS Tatum 25' 3PT Pullup Jump Shot,26-32,26,32
@@ -230,8 +230,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000685,2021-03-26,MIL,BOS,23.48,2,0,31,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:3),55-58,55,58
 0022000685,2021-03-26,MIL,BOS,23.48,2,0,31,BOS,BOS,fg_make,100,False,False,,Brown 2' Running Alley Oop Layup Shot (12 PTS) (Tatum 3 AST),55-60,55,60
 0022000685,2021-03-26,MIL,BOS,23.63,2,0,22,MIL,MIL,tov,2,False,True,Middleton Lost Ball Turnover (P2.T10),,55-60,55,60
-0022000685,2021-03-26,MIL,BOS,23.63,2,0,22,BOS,MIL,foul,1,False,False,Middleton P.FOUL (P2.T3) (K.Cutler),,55-60,55,60
 0022000685,2021-03-26,MIL,BOS,23.63,2,0,22,MIL,BOS,steal,2,False,True,steal,steal,55-60,55,60
+0022000685,2021-03-26,MIL,BOS,23.63,2,0,22,BOS,MIL,foul,1,False,False,Middleton P.FOUL (P2.T3) (K.Cutler),,55-60,55,60
 0022000685,2021-03-26,MIL,BOS,23.98,2,0,1,BOS,BOS,fg_miss,63,False,False,,MISS Tatum 13' Fadeaway Jumper,55-60,55,60
 0022000685,2021-03-26,MIL,BOS,23.98,2,0,1,BOS,BOS,reb,0,False,False,,Celtics Rebound,55-60,55,60
 0022000685,2021-03-26,MIL,BOS,24.0,2,0,0,BOS,,period_end,0,False,False,,,55-60,55,60
@@ -396,8 +396,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000685,2021-03-26,MIL,BOS,44.18,4,3,49,MIL,MIL,fg_miss,41,False,False,MISS Nwora 3' Running Layup,,103-121,103,121
 0022000685,2021-03-26,MIL,BOS,44.22,4,3,47,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:2 Def:2),,103-121,103,121
 0022000685,2021-03-26,MIL,BOS,44.23,4,3,46,MIL,MIL,fg_miss,5,True,False,MISS Nwora 3' Layup,,103-121,103,121
-0022000685,2021-03-26,MIL,BOS,44.23,4,3,46,MIL,MIL,reb,0,False,False,BUCKS Rebound,,103-121,103,121
 0022000685,2021-03-26,MIL,BOS,44.23,4,3,46,MIL,BOS,block,5,True,False,block,block,103-121,103,121
+0022000685,2021-03-26,MIL,BOS,44.23,4,3,46,MIL,MIL,reb,0,False,False,BUCKS Rebound,,103-121,103,121
 0022000685,2021-03-26,MIL,BOS,44.43,4,3,34,MIL,MIL,fg3_miss,1,False,False,MISS Antetokounmpo 27' 3PT Jump Shot,,103-121,103,121
 0022000685,2021-03-26,MIL,BOS,44.5,4,3,30,BOS,BOS,reb,0,False,False,,Pritchard REBOUND (Off:0 Def:3),103-121,103,121
 0022000685,2021-03-26,MIL,BOS,44.77,4,3,14,BOS,BOS,fg_miss,79,False,False,,MISS Pritchard 19' Pullup Jump Shot,103-121,103,121

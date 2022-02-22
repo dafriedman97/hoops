@@ -53,8 +53,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900698,2020-01-27,UTA,HOU,6.05,1,5,57,UTA,UTA,fg3_miss,1,False,False,MISS Ingles 26' 3PT Jump Shot,,10-13,10,13
 0021900698,2020-01-27,UTA,HOU,6.12,1,5,53,HOU,HOU,reb,0,False,False,,Sefolosha REBOUND (Off:0 Def:1),10-13,10,13
 0021900698,2020-01-27,UTA,HOU,6.37,1,5,38,HOU,HOU,fg_miss,1,True,False,,MISS Gordon 4' Jump Shot,10-13,10,13
-0021900698,2020-01-27,UTA,HOU,6.37,1,5,38,HOU,HOU,reb,0,False,False,,Rockets Rebound,10-13,10,13
 0021900698,2020-01-27,UTA,HOU,6.37,1,5,38,HOU,UTA,block,1,True,False,block,block,10-13,10,13
+0021900698,2020-01-27,UTA,HOU,6.37,1,5,38,HOU,HOU,reb,0,False,False,,Rockets Rebound,10-13,10,13
 0021900698,2020-01-27,UTA,HOU,6.47,1,5,32,HOU,HOU,fg3_make,1,False,False,,House Jr. 25' 3PT Jump Shot (9 PTS) (Tucker 2 AST),10-16,10,16
 0021900698,2020-01-27,UTA,HOU,6.72,1,5,17,UTA,UTA,fg3_miss,1,False,False,MISS Niang 25' 3PT Jump Shot,,10-16,10,16
 0021900698,2020-01-27,UTA,HOU,6.77,1,5,14,HOU,HOU,reb,0,False,False,,Gordon REBOUND (Off:0 Def:1),10-16,10,16
@@ -69,8 +69,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900698,2020-01-27,UTA,HOU,7.42,1,4,35,HOU,HOU,reb,1,False,False,,Rockets Rebound,13-17,13,17
 0021900698,2020-01-27,UTA,HOU,7.42,1,4,35,HOU,HOU,ft_make,15,False,False,,Gordon Free Throw 3 of 3 (9 PTS),13-18,13,18
 0021900698,2020-01-27,UTA,HOU,7.68,1,4,19,HOU,UTA,foul,26,False,False,Bogdanovic Offensive Charge Foul (P2.PN) (T.Washington),,13-18,13,18
-0021900698,2020-01-27,UTA,HOU,7.68,1,4,19,UTA,UTA,tov,37,False,False,Bogdanovic Offensive Foul Turnover (P1.T3),,13-18,13,18
 0021900698,2020-01-27,UTA,HOU,7.68,1,4,19,HOU,HOU,timeout,1,False,False,,Rockets Timeout: Regular (Reg.1 Short 0),13-18,13,18
+0021900698,2020-01-27,UTA,HOU,7.68,1,4,19,UTA,UTA,tov,37,False,False,Bogdanovic Offensive Foul Turnover (P1.T3),,13-18,13,18
 0021900698,2020-01-27,UTA,HOU,7.93,1,4,4,HOU,UTA,foul,1,False,False,Conley P.FOUL (P1.PN) (T.Washington),,13-18,13,18
 0021900698,2020-01-27,UTA,HOU,7.93,1,4,4,HOU,HOU,ft_miss,11,False,False,,MISS Frazier II Free Throw 1 of 2,13-18,13,18
 0021900698,2020-01-27,UTA,HOU,7.93,1,4,4,HOU,HOU,reb,1,False,False,,Rockets Rebound,13-18,13,18
@@ -271,8 +271,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900698,2020-01-27,UTA,HOU,28.67,3,7,20,HOU,HOU,fg3_miss,79,False,False,,MISS House Jr. 25' 3PT Pullup Jump Shot,58-64,58,64
 0021900698,2020-01-27,UTA,HOU,28.72,3,7,17,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:1 Def:8),,58-64,58,64
 0021900698,2020-01-27,UTA,HOU,28.97,3,7,2,UTA,UTA,fg_miss,6,True,False,MISS Bogdanovic 4' Driving Layup,,58-64,58,64
-0021900698,2020-01-27,UTA,HOU,28.97,3,7,2,HOU,HOU,reb,0,False,False,,Rockets Rebound,58-64,58,64
 0021900698,2020-01-27,UTA,HOU,28.97,3,7,2,UTA,HOU,block,6,True,False,block,block,58-64,58,64
+0021900698,2020-01-27,UTA,HOU,28.97,3,7,2,HOU,HOU,reb,0,False,False,,Rockets Rebound,58-64,58,64
 0021900698,2020-01-27,UTA,HOU,29.25,3,6,45,HOU,HOU,fg3_make,1,False,False,,Tucker 3PT Jump Shot (3 PTS) (McLemore 2 AST),58-67,58,67
 0021900698,2020-01-27,UTA,HOU,29.58,3,6,25,UTA,UTA,fg_make,80,False,False,Mitchell 12' Step Back Jump Shot (24 PTS) (Ingles 5 AST),,60-67,60,67
 0021900698,2020-01-27,UTA,HOU,29.98,3,6,1,HOU,HOU,fg3_make,1,False,False,,Gordon 27' 3PT Jump Shot (30 PTS) (Tucker 3 AST),60-70,60,70
@@ -419,10 +419,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900698,2020-01-27,UTA,HOU,43.92,4,4,5,HOU,HOU,fg3_miss,80,False,False,,MISS Rivers 25' 3PT Step Back Jump Shot,101-113,101,113
 0021900698,2020-01-27,UTA,HOU,43.97,4,4,2,HOU,HOU,reb,0,False,False,,Tucker REBOUND (Off:3 Def:7),101-113,101,113
 0021900698,2020-01-27,UTA,HOU,44.18,4,3,49,HOU,HOU,fg_miss,6,True,False,,MISS Rivers 4' Driving Layup,101-113,101,113
+0021900698,2020-01-27,UTA,HOU,44.18,4,3,49,HOU,UTA,block,6,True,False,block,block,101-113,101,113
 0021900698,2020-01-27,UTA,HOU,44.18,4,3,49,HOU,HOU,reb,0,False,False,,Rockets Rebound,101-113,101,113
 0021900698,2020-01-27,UTA,HOU,44.18,4,3,49,HOU,HOU,tov,11,False,False,,Rockets Turnover: Shot Clock (T#14),101-113,101,113
 0021900698,2020-01-27,UTA,HOU,44.18,4,3,49,UTA,UTA,timeout,1,False,False,JAZZ Timeout: Regular (Full 3 Short 0),,101-113,101,113
-0021900698,2020-01-27,UTA,HOU,44.18,4,3,49,HOU,UTA,block,6,True,False,block,block,101-113,101,113
 0021900698,2020-01-27,UTA,HOU,44.4,4,3,36,UTA,UTA,fg_miss,6,False,False,MISS Conley 2' Driving Layup,,101-113,101,113
 0021900698,2020-01-27,UTA,HOU,44.43,4,3,34,HOU,HOU,reb,0,False,False,,Sefolosha REBOUND (Off:0 Def:3),101-113,101,113
 0021900698,2020-01-27,UTA,HOU,44.55,4,3,27,HOU,HOU,tov,1,False,True,,Sefolosha Bad Pass Turnover (P1.T15),101-113,101,113
@@ -448,8 +448,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900698,2020-01-27,UTA,HOU,46.55,4,1,27,HOU,HOU,tov,13,False,False,,Tucker Backcourt Turnover (P2.T16),105-118,105,118
 0021900698,2020-01-27,UTA,HOU,46.68,4,1,19,UTA,UTA,fg3_miss,1,True,False,MISS Bogdanovic 26' 3PT Jump Shot,,105-118,105,118
 0021900698,2020-01-27,UTA,HOU,46.68,4,1,19,UTA,HOU,block,1,True,False,block,block,105-118,105,118
-0021900698,2020-01-27,UTA,HOU,46.72,4,1,17,UTA,UTA,reb,0,False,False,JAZZ Rebound,,105-118,105,118
 0021900698,2020-01-27,UTA,HOU,46.72,4,1,17,,UTA,jump_ball,0,False,False,,,105-118,105,118
+0021900698,2020-01-27,UTA,HOU,46.72,4,1,17,UTA,UTA,reb,0,False,False,JAZZ Rebound,,105-118,105,118
 0021900698,2020-01-27,UTA,HOU,46.72,4,1,17,UTA,HOU,foul,3,False,False,,Tucker L.B.FOUL (P5.PN) (S.Wall),105-118,105,118
 0021900698,2020-01-27,UTA,HOU,46.72,4,1,17,UTA,UTA,ft_make,11,False,False,Gobert Free Throw 1 of 2 (10 PTS),,106-118,106,118
 0021900698,2020-01-27,UTA,HOU,46.72,4,1,17,UTA,UTA,ft_make,12,False,False,Gobert Free Throw 2 of 2 (11 PTS),,107-118,107,118

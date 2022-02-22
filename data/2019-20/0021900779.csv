@@ -165,8 +165,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900779,2020-02-08,DET,NYK,22.42,2,1,35,NYK,NYK,fg_miss,72,False,False,,MISS Randle 1' Putback Layup,46-42,46,42
 0021900779,2020-02-08,DET,NYK,22.42,2,1,35,DET,DET,reb,0,False,False,Wood REBOUND (Off:0 Def:5),,46-42,46,42
 0021900779,2020-02-08,DET,NYK,22.68,2,1,19,DET,DET,fg_miss,5,True,False,MISS Brown 4' Layup,,46-42,46,42
-0021900779,2020-02-08,DET,NYK,22.68,2,1,19,NYK,NYK,reb,0,False,False,,Knicks Rebound,46-42,46,42
 0021900779,2020-02-08,DET,NYK,22.68,2,1,19,DET,NYK,block,5,True,False,block,block,46-42,46,42
+0021900779,2020-02-08,DET,NYK,22.68,2,1,19,NYK,NYK,reb,0,False,False,,Knicks Rebound,46-42,46,42
 0021900779,2020-02-08,DET,NYK,22.92,2,1,5,NYK,NYK,fg3_miss,1,False,False,,MISS Bullock 3PT Jump Shot,46-42,46,42
 0021900779,2020-02-08,DET,NYK,22.98,2,1,1,DET,DET,reb,0,False,False,Wood REBOUND (Off:0 Def:6),,46-42,46,42
 0021900779,2020-02-08,DET,NYK,23.07,2,0,56,DET,NYK,foul,1,False,False,,Gibson P.FOUL (P1.T3) (L.Richardson),46-42,46,42
@@ -186,8 +186,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900779,2020-02-08,DET,NYK,25.42,3,10,35,DET,DET,fg3_miss,1,False,False,MISS Brown 3PT Jump Shot,,53-50,53,50
 0021900779,2020-02-08,DET,NYK,25.48,3,10,31,NYK,NYK,reb,0,False,False,,Barrett REBOUND (Off:0 Def:1),53-50,53,50
 0021900779,2020-02-08,DET,NYK,25.5,3,10,30,NYK,NYK,fg_miss,41,True,False,,MISS Barrett 2' Running Layup,53-50,53,50
-0021900779,2020-02-08,DET,NYK,25.5,3,10,30,DET,DET,reb,0,False,False,PISTONS Rebound,,53-50,53,50
 0021900779,2020-02-08,DET,NYK,25.5,3,10,30,NYK,DET,block,41,True,False,block,block,53-50,53,50
+0021900779,2020-02-08,DET,NYK,25.5,3,10,30,DET,DET,reb,0,False,False,PISTONS Rebound,,53-50,53,50
 0021900779,2020-02-08,DET,NYK,25.83,3,10,10,DET,DET,fg_miss,79,False,False,MISS Jackson 16' Pullup Jump Shot,,53-50,53,50
 0021900779,2020-02-08,DET,NYK,25.9,3,10,6,NYK,NYK,reb,0,False,False,,Payton REBOUND (Off:2 Def:3),53-50,53,50
 0021900779,2020-02-08,DET,NYK,25.98,3,10,1,NYK,NYK,fg_make,6,False,False,,Randle 4' Driving Layup (7 PTS) (Payton 5 AST),53-52,53,52
@@ -200,8 +200,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900779,2020-02-08,DET,NYK,26.72,3,9,17,DET,NYK,block,5,True,False,block,block,56-53,56,53
 0021900779,2020-02-08,DET,NYK,26.77,3,9,14,NYK,NYK,reb,0,False,False,,Bullock REBOUND (Off:0 Def:3),56-53,56,53
 0021900779,2020-02-08,DET,NYK,26.85,3,9,9,NYK,NYK,fg_miss,58,True,False,,MISS Gibson 5' Turnaround Hook Shot,56-53,56,53
-0021900779,2020-02-08,DET,NYK,26.85,3,9,9,NYK,NYK,reb,0,False,False,,Knicks Rebound,56-53,56,53
 0021900779,2020-02-08,DET,NYK,26.85,3,9,9,NYK,DET,block,58,True,False,block,block,56-53,56,53
+0021900779,2020-02-08,DET,NYK,26.85,3,9,9,NYK,NYK,reb,0,False,False,,Knicks Rebound,56-53,56,53
 0021900779,2020-02-08,DET,NYK,27.07,3,8,56,NYK,NYK,fg_make,5,False,False,,Gibson 3' Layup (11 PTS),56-55,56,55
 0021900779,2020-02-08,DET,NYK,27.27,3,8,44,DET,DET,fg_make,101,False,False,Brown 2' Driving Floating Jump Shot (9 PTS) (Jackson 9 AST),,58-55,58,55
 0021900779,2020-02-08,DET,NYK,27.5,3,8,30,NYK,NYK,fg_miss,78,False,False,,MISS Randle 6' Floating Jump Shot,58-55,58,55
@@ -371,12 +371,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900779,2020-02-08,DET,NYK,45.62,4,2,23,NYK,NYK,fg_make,108,False,False,,Randle 1' Cutting Dunk Shot (15 PTS) (Payton 6 AST),87-89,87,89
 0021900779,2020-02-08,DET,NYK,45.98,4,2,1,DET,DET,fg_make,101,False,False,Jackson 8' Driving Floating Jump Shot (20 PTS),,89-89,89,89
 0021900779,2020-02-08,DET,NYK,46.22,4,1,47,NYK,NYK,fg_miss,6,True,False,,MISS Randle 4' Driving Layup,89-89,89,89
+0021900779,2020-02-08,DET,NYK,46.22,4,1,47,NYK,DET,block,6,True,False,block,block,89-89,89,89
 0021900779,2020-02-08,DET,NYK,46.22,4,1,47,DET,DET,reb,0,False,False,Maker REBOUND (Off:0 Def:3),,89-89,89,89
 0021900779,2020-02-08,DET,NYK,46.22,4,1,47,DET,NYK,foul,1,False,False,,Robinson P.FOUL (P4.PN) (C.Kirkland),89-89,89,89
 0021900779,2020-02-08,DET,NYK,46.22,4,1,47,DET,DET,ft_miss,11,False,False,MISS Maker Free Throw 1 of 2,,89-89,89,89
 0021900779,2020-02-08,DET,NYK,46.22,4,1,47,DET,DET,reb,1,False,False,PISTONS Rebound,,89-89,89,89
 0021900779,2020-02-08,DET,NYK,46.22,4,1,47,DET,DET,ft_miss,12,False,False,MISS Maker Free Throw 2 of 2,,89-89,89,89
-0021900779,2020-02-08,DET,NYK,46.22,4,1,47,NYK,DET,block,6,True,False,block,block,89-89,89,89
 0021900779,2020-02-08,DET,NYK,46.28,4,1,43,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:2 Def:4),89-89,89,89
 0021900779,2020-02-08,DET,NYK,46.52,4,1,29,NYK,NYK,fg_make,101,False,False,,Payton 9' Driving Floating Jump Shot (10 PTS),89-91,89,91
 0021900779,2020-02-08,DET,NYK,46.93,4,1,4,DET,DET,fg_miss,73,False,False,MISS Jackson 2' Driving Reverse Layup,,89-91,89,91

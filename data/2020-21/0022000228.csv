@@ -232,10 +232,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000228,2021-01-21,GSW,NYK,23.62,2,0,23,NYK,NYK,reb,0,False,False,,Burks REBOUND (Off:0 Def:3),57-63,57,63
 0022000228,2021-01-21,GSW,NYK,23.92,2,0,5,NYK,NYK,tov,39,False,False,,Payton Step Out of Bounds Turnover (P2.T4),57-63,57,63
 0022000228,2021-01-21,GSW,NYK,24.0,2,0,0,GSW,GSW,fg_miss,6,True,False,MISS Wanamaker 4' Driving Layup,,57-63,57,63
+0022000228,2021-01-21,GSW,NYK,24.0,2,0,0,GSW,NYK,block,6,True,False,block,block,57-63,57,63
 0022000228,2021-01-21,GSW,NYK,24.0,2,0,0,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,57-63,57,63
 0022000228,2021-01-21,GSW,NYK,24.0,2,0,0,GSW,,period_end,0,False,False,,,57-63,57,63
 0022000228,2021-01-21,GSW,NYK,24.0,3,12,0,GSW,,period_start,0,False,False,,,57-63,57,63
-0022000228,2021-01-21,GSW,NYK,24.0,2,0,0,GSW,NYK,block,6,True,False,block,block,57-63,57,63
 0022000228,2021-01-21,GSW,NYK,24.33,3,11,40,NYK,NYK,fg_miss,101,False,False,,MISS Barrett 6' Driving Floating Jump Shot,57-63,57,63
 0022000228,2021-01-21,GSW,NYK,24.38,3,11,37,GSW,GSW,reb,0,False,False,Wiseman REBOUND (Off:1 Def:3),,57-63,57,63
 0022000228,2021-01-21,GSW,NYK,24.6,3,11,24,GSW,GSW,fg_miss,1,False,False,MISS Wiseman 19' Jump Shot,,57-63,57,63
@@ -253,8 +253,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000228,2021-01-21,GSW,NYK,26.15,3,9,51,NYK,NYK,reb,0,False,False,,Bullock REBOUND (Off:0 Def:2),59-66,59,66
 0022000228,2021-01-21,GSW,NYK,26.38,3,9,37,NYK,NYK,fg_make,57,False,False,,Randle 6' Driving Hook Shot (14 PTS),59-68,59,68
 0022000228,2021-01-21,GSW,NYK,26.63,3,9,22,GSW,GSW,fg_miss,6,True,False,MISS Wiggins 2' Driving Layup,,59-68,59,68
-0022000228,2021-01-21,GSW,NYK,26.63,3,9,22,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,59-68,59,68
 0022000228,2021-01-21,GSW,NYK,26.63,3,9,22,GSW,NYK,block,6,True,False,block,block,59-68,59,68
+0022000228,2021-01-21,GSW,NYK,26.63,3,9,22,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,59-68,59,68
 0022000228,2021-01-21,GSW,NYK,26.72,3,9,17,GSW,GSW,fg3_miss,79,False,False,MISS Paschall 27' 3PT Pullup Jump Shot,,59-68,59,68
 0022000228,2021-01-21,GSW,NYK,26.75,3,9,15,NYK,NYK,reb,0,False,False,,Knicks Rebound,59-68,59,68
 0022000228,2021-01-21,GSW,NYK,27.03,3,8,58,NYK,NYK,fg_miss,98,False,False,,MISS Bullock 5' Cutting Layup Shot,59-68,59,68
@@ -351,9 +351,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000228,2021-01-21,GSW,NYK,36.9,4,11,6,NYK,NYK,reb,0,False,False,,Knicks Rebound,76-89,76,89
 0022000228,2021-01-21,GSW,NYK,36.9,4,11,6,NYK,GSW,foul,3,False,False,Lee L.B.FOUL (P3.T2) (B.Taylor),,76-89,76,89
 0022000228,2021-01-21,GSW,NYK,36.9,4,11,6,NYK,GSW,foul,6,False,False,Paschall AWAY.FROM.PLAY.FOUL (P2.T3) (B.Taylor),,76-89,76,89
-0022000228,2021-01-21,GSW,NYK,36.9,4,11,6,NYK,NYK,ft_make,10,False,False,,Quickley Free Throw 1 of 1 (1 PTS),76-90,76,90
 0022000228,2021-01-21,GSW,NYK,36.9,4,11,6,NYK,GSW,foul,11,False,False,Bazemore T.FOUL (P2.T3) (B.Taylor),,76-90,76,90
 0022000228,2021-01-21,GSW,NYK,36.9,4,11,6,NYK,NYK,ft_make,16,False,False,,Quickley Free Throw Technical (2 PTS),76-91,76,91
+0022000228,2021-01-21,GSW,NYK,36.9,4,11,6,NYK,NYK,ft_make,10,False,False,,Quickley Free Throw 1 of 1 (1 PTS),76-90,76,90
 0022000228,2021-01-21,GSW,NYK,36.92,4,11,5,NYK,GSW,foul,6,False,False,Bazemore AWAY.FROM.PLAY.FOUL (P3.T4) (J.Butler),,76-91,76,91
 0022000228,2021-01-21,GSW,NYK,37.07,4,10,56,NYK,NYK,fg_miss,6,True,False,,MISS Burks 5' Driving Layup,76-91,76,91
 0022000228,2021-01-21,GSW,NYK,37.07,4,10,56,NYK,GSW,block,6,True,False,block,block,76-91,76,91
@@ -361,8 +361,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000228,2021-01-21,GSW,NYK,37.2,4,10,48,NYK,NYK,fg3_miss,79,False,False,,MISS Quickley 29' 3PT Pullup Jump Shot,76-91,76,91
 0022000228,2021-01-21,GSW,NYK,37.25,4,10,45,GSW,GSW,reb,0,False,False,Bazemore REBOUND (Off:0 Def:4),,76-91,76,91
 0022000228,2021-01-21,GSW,NYK,37.5,4,10,30,GSW,GSW,fg_miss,5,True,False,MISS Oubre Jr. 4' Layup,,76-91,76,91
-0022000228,2021-01-21,GSW,NYK,37.5,4,10,30,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,76-91,76,91
 0022000228,2021-01-21,GSW,NYK,37.5,4,10,30,GSW,NYK,block,5,True,False,block,block,76-91,76,91
+0022000228,2021-01-21,GSW,NYK,37.5,4,10,30,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,76-91,76,91
 0022000228,2021-01-21,GSW,NYK,37.6,4,10,24,GSW,GSW,fg_miss,1,True,False,MISS Paschall 5' Jump Shot,,76-91,76,91
 0022000228,2021-01-21,GSW,NYK,37.6,4,10,24,GSW,NYK,block,1,True,False,block,block,76-91,76,91
 0022000228,2021-01-21,GSW,NYK,37.63,4,10,22,NYK,NYK,reb,0,False,False,,Burks REBOUND (Off:0 Def:5),76-91,76,91

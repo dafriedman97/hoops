@@ -16,8 +16,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700855,2018-02-14,PHI,MIA,1.8,1,10,12,PHI,PHI,fg_make,79,False,False,Redick 19' Pullup Jump Shot (2 PTS),,6-5,6,5
 0021700855,2018-02-14,PHI,MIA,2.0,1,10,0,MIA,MIA,fg_make,6,False,False,,Dragic 2' Driving Layup (5 PTS),6-7,6,7
 0021700855,2018-02-14,PHI,MIA,2.45,1,9,33,PHI,PHI,fg_miss,80,True,False,MISS Simmons 13' Step Back Jump Shot,,6-7,6,7
-0021700855,2018-02-14,PHI,MIA,2.45,1,9,33,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:1 Def:0),,6-7,6,7
 0021700855,2018-02-14,PHI,MIA,2.45,1,9,33,PHI,MIA,block,80,True,False,block,block,6-7,6,7
+0021700855,2018-02-14,PHI,MIA,2.45,1,9,33,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:1 Def:0),,6-7,6,7
 0021700855,2018-02-14,PHI,MIA,2.47,1,9,32,PHI,PHI,tov,11,False,False,76ERS Turnover: Shot Clock (T#2),,6-7,6,7
 0021700855,2018-02-14,PHI,MIA,2.67,1,9,20,MIA,MIA,fg_miss,78,False,False,,MISS Whiteside 13' Floating Jump Shot,6-7,6,7
 0021700855,2018-02-14,PHI,MIA,2.7,1,9,18,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:1 Def:1),,6-7,6,7
@@ -148,9 +148,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700855,2018-02-14,PHI,MIA,15.83,2,8,10,MIA,MIA,reb,0,False,False,,Ellington REBOUND (Off:0 Def:2),25-40,25,40
 0021700855,2018-02-14,PHI,MIA,16.03,2,7,58,MIA,MIA,fg_make,98,False,False,,Johnson 3' Cutting Layup Shot (9 PTS) (Johnson 4 AST),25-42,25,42
 0021700855,2018-02-14,PHI,MIA,16.03,2,7,58,MIA,PHI,foul,2,False,False,Johnson S.FOUL (P3.T4) (T.Brothers),,25-42,25,42
+0021700855,2018-02-14,PHI,MIA,16.03,2,7,58,PHI,MIA,violation,3,False,False,,Lane,25-42,25,42
 0021700855,2018-02-14,PHI,MIA,16.03,2,7,58,MIA,MIA,ft_miss,10,False,False,,MISS Johnson Free Throw 1 of 1,25-42,25,42
 0021700855,2018-02-14,PHI,MIA,16.03,2,7,58,PHI,PHI,reb,0,False,False,76ERS Rebound,,25-42,25,42
-0021700855,2018-02-14,PHI,MIA,16.03,2,7,58,PHI,MIA,violation,3,False,False,,Lane,25-42,25,42
 0021700855,2018-02-14,PHI,MIA,16.23,2,7,46,PHI,PHI,fg3_miss,1,False,False,MISS Covington 27' 3PT Jump Shot,,25-42,25,42
 0021700855,2018-02-14,PHI,MIA,16.33,2,7,40,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:0 Def:1),25-42,25,42
 0021700855,2018-02-14,PHI,MIA,16.43,2,7,34,MIA,MIA,fg_miss,6,False,False,,MISS Wade 11' Driving Layup,25-42,25,42
@@ -247,8 +247,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700855,2018-02-14,PHI,MIA,24.93,3,11,4,PHI,PHI,tov,4,False,False,Johnson Traveling Turnover (P1.T12),,42-62,42,62
 0021700855,2018-02-14,PHI,MIA,25.2,3,10,48,MIA,MIA,fg3_make,1,False,False,,Richardson 26' 3PT Jump Shot (6 PTS) (Dragic 4 AST),42-65,42,65
 0021700855,2018-02-14,PHI,MIA,25.48,3,10,31,PHI,PHI,fg_miss,6,True,False,MISS Simmons 4' Driving Layup,,42-65,42,65
-0021700855,2018-02-14,PHI,MIA,25.48,3,10,31,PHI,PHI,reb,0,False,False,76ERS Rebound,,42-65,42,65
 0021700855,2018-02-14,PHI,MIA,25.48,3,10,31,PHI,MIA,block,6,True,False,block,block,42-65,42,65
+0021700855,2018-02-14,PHI,MIA,25.48,3,10,31,PHI,PHI,reb,0,False,False,76ERS Rebound,,42-65,42,65
 0021700855,2018-02-14,PHI,MIA,25.58,3,10,25,PHI,MIA,foul,2,False,False,,Richardson S.FOUL (P4.T1) (R.Acosta),42-65,42,65
 0021700855,2018-02-14,PHI,MIA,25.58,3,10,25,PHI,PHI,ft_make,11,False,False,Saric Free Throw 1 of 2 (9 PTS),,43-65,43,65
 0021700855,2018-02-14,PHI,MIA,25.58,3,10,25,PHI,PHI,ft_make,12,False,False,Saric Free Throw 2 of 2 (10 PTS),,44-65,44,65
@@ -308,9 +308,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700855,2018-02-14,PHI,MIA,32.22,3,3,47,MIA,MIA,fg_miss,79,False,False,,MISS Johnson 17' Pullup Jump Shot,63-77,63,77
 0021700855,2018-02-14,PHI,MIA,32.27,3,3,44,PHI,PHI,reb,0,False,False,Saric REBOUND (Off:4 Def:3),,63-77,63,77
 0021700855,2018-02-14,PHI,MIA,32.62,3,3,23,PHI,PHI,fg_miss,1,True,False,MISS McConnell 4' Jump Shot,,63-77,63,77
+0021700855,2018-02-14,PHI,MIA,32.62,3,3,23,PHI,MIA,block,1,True,False,block,block,63-77,63,77
 0021700855,2018-02-14,PHI,MIA,32.62,3,3,23,PHI,PHI,reb,0,False,False,76ERS Rebound,,63-77,63,77
 0021700855,2018-02-14,PHI,MIA,32.62,3,3,23,PHI,PHI,fg3_miss,1,False,False,MISS Holmes 26' 3PT Jump Shot,,63-77,63,77
-0021700855,2018-02-14,PHI,MIA,32.62,3,3,23,PHI,MIA,block,1,True,False,block,block,63-77,63,77
 0021700855,2018-02-14,PHI,MIA,32.63,3,3,22,PHI,PHI,reb,0,False,False,76ERS Rebound,,63-77,63,77
 0021700855,2018-02-14,PHI,MIA,32.63,3,3,22,PHI,PHI,tov,11,False,False,76ERS Turnover: Shot Clock (T#14),,63-77,63,77
 0021700855,2018-02-14,PHI,MIA,32.9,3,3,6,MIA,MIA,fg_miss,1,True,False,,MISS Wade 2' Jump Shot,63-77,63,77
@@ -377,9 +377,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700855,2018-02-14,PHI,MIA,40.97,4,7,2,MIA,MIA,fg_miss,101,False,False,,MISS Wade 13' Driving Floating Jump Shot,84-89,84,89
 0021700855,2018-02-14,PHI,MIA,41.0,4,7,0,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:3 Def:7),,84-89,84,89
 0021700855,2018-02-14,PHI,MIA,41.08,4,6,55,PHI,PHI,fg_miss,41,True,False,MISS Holmes 7' Running Layup,,84-89,84,89
+0021700855,2018-02-14,PHI,MIA,41.08,4,6,55,PHI,MIA,block,41,True,False,block,block,84-89,84,89
 0021700855,2018-02-14,PHI,MIA,41.08,4,6,55,PHI,PHI,reb,0,False,False,76ERS Rebound,,84-89,84,89
 0021700855,2018-02-14,PHI,MIA,41.08,4,6,55,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 5 Short 0),,84-89,84,89
-0021700855,2018-02-14,PHI,MIA,41.08,4,6,55,PHI,MIA,block,41,True,False,block,block,84-89,84,89
 0021700855,2018-02-14,PHI,MIA,41.12,4,6,53,PHI,PHI,fg_make,1,False,False,Booker 16' Jump Shot (7 PTS) (Simmons 9 AST),,86-89,86,89
 0021700855,2018-02-14,PHI,MIA,41.53,4,6,28,MIA,MIA,tov,1,False,True,,Wade Bad Pass Turnover (P4.T9),86-89,86,89
 0021700855,2018-02-14,PHI,MIA,41.53,4,6,28,MIA,PHI,steal,1,False,True,steal,steal,86-89,86,89
@@ -399,8 +399,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700855,2018-02-14,PHI,MIA,42.23,4,5,46,PHI,PHI,ft_make,15,False,False,Covington Free Throw 3 of 3 (7 PTS),,90-90,90,90
 0021700855,2018-02-14,PHI,MIA,42.3,4,5,42,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.4 Short 0),90-90,90,90
 0021700855,2018-02-14,PHI,MIA,42.52,4,5,29,MIA,MIA,fg_miss,3,True,False,,MISS Winslow 7' Hook Shot,90-90,90,90
-0021700855,2018-02-14,PHI,MIA,42.52,4,5,29,PHI,PHI,reb,0,False,False,Redick REBOUND (Off:1 Def:5),,90-90,90,90
 0021700855,2018-02-14,PHI,MIA,42.52,4,5,29,MIA,PHI,block,3,True,False,block,block,90-90,90,90
+0021700855,2018-02-14,PHI,MIA,42.52,4,5,29,PHI,PHI,reb,0,False,False,Redick REBOUND (Off:1 Def:5),,90-90,90,90
 0021700855,2018-02-14,PHI,MIA,42.75,4,5,15,PHI,PHI,fg_make,52,False,False,Simmons 1' Alley Oop Dunk (16 PTS) (Redick 4 AST),,92-90,92,90
 0021700855,2018-02-14,PHI,MIA,42.92,4,5,5,MIA,PHI,foul,1,False,False,Covington P.FOUL (P4.PN) (R.Acosta),,92-90,92,90
 0021700855,2018-02-14,PHI,MIA,42.92,4,5,5,MIA,MIA,ft_make,11,False,False,,Dragic Free Throw 1 of 2 (17 PTS),92-91,92,91

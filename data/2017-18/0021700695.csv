@@ -98,8 +98,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700695,2018-01-22,LAC,MIN,10.6,1,1,24,MIN,MIN,fg3_make,1,False,False,,Wiggins 24' 3PT Jump Shot (9 PTS) (Jones 1 AST),22-28,22,28
 0021700695,2018-01-22,LAC,MIN,10.88,1,1,7,LAC,LAC,fg_make,7,False,False,Harrell 1' Dunk (4 PTS) (Griffin 5 AST),,24-28,24,28
 0021700695,2018-01-22,LAC,MIN,11.3,1,0,42,MIN,MIN,fg3_miss,1,False,False,,MISS Georges-Hunt 25' 3PT Jump Shot,24-28,24,28
-0021700695,2018-01-22,LAC,MIN,11.32,1,0,41,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,24-28,24,28
 0021700695,2018-01-22,LAC,MIN,11.32,1,0,41,MIN,MIN,tov,11,False,False,,Timberwolves Turnover: Shot Clock (T#2),24-28,24,28
+0021700695,2018-01-22,LAC,MIN,11.32,1,0,41,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,24-28,24,28
 0021700695,2018-01-22,LAC,MIN,11.47,1,0,32,LAC,LAC,fg3_miss,1,False,False,MISS Williams 24' 3PT Jump Shot,,24-28,24,28
 0021700695,2018-01-22,LAC,MIN,11.52,1,0,29,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:1 Def:0),,24-28,24,28
 0021700695,2018-01-22,LAC,MIN,11.52,1,0,29,LAC,LAC,fg_make,72,False,False,Harrell 1' Putback Layup (6 PTS),,26-28,26,28
@@ -265,10 +265,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700695,2018-01-22,LAC,MIN,29.72,3,6,17,LAC,LAC,fg_make,44,False,False,Reed 1' Reverse Layup (6 PTS) (Griffin 10 AST),,74-76,74,76
 0021700695,2018-01-22,LAC,MIN,30.0,3,6,0,MIN,MIN,fg_make,79,False,False,,Gibson 5' Pullup Jump Shot (12 PTS) (Bjelica 4 AST),74-78,74,78
 0021700695,2018-01-22,LAC,MIN,30.08,3,5,55,LAC,LAC,fg_miss,103,False,False,MISS W. Johnson 16' Running Pull-Up Jump Shot,,74-78,74,78
-0021700695,2018-01-22,LAC,MIN,30.17,3,5,50,MIN,LAC,foul,2,False,False,Wallace S.FOUL (P3.T3) (E.Lewis),,74-78,74,78
 0021700695,2018-01-22,LAC,MIN,30.17,3,5,50,MIN,MIN,ft_miss,11,False,False,,MISS Teague Free Throw 1 of 2,74-78,74,78
 0021700695,2018-01-22,LAC,MIN,30.17,3,5,50,MIN,MIN,reb,1,False,False,,Timberwolves Rebound,74-78,74,78
 0021700695,2018-01-22,LAC,MIN,30.17,3,5,50,MIN,MIN,ft_make,12,False,False,,Teague Free Throw 2 of 2 (17 PTS),74-79,74,79
+0021700695,2018-01-22,LAC,MIN,30.17,3,5,50,MIN,LAC,foul,2,False,False,Wallace S.FOUL (P3.T3) (E.Lewis),,74-78,74,78
 0021700695,2018-01-22,LAC,MIN,30.18,3,5,49,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:3 Def:8),74-79,74,79
 0021700695,2018-01-22,LAC,MIN,30.38,3,5,37,LAC,LAC,fg3_make,1,False,False,Williams 3PT Jump Shot (13 PTS) (Wallace 4 AST),,77-79,77,79
 0021700695,2018-01-22,LAC,MIN,30.7,3,5,18,MIN,MIN,fg3_miss,1,False,False,,MISS Wiggins 27' 3PT Jump Shot,77-79,77,79
@@ -334,8 +334,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700695,2018-01-22,LAC,MIN,36.78,4,11,13,LAC,LAC,fg_miss,41,False,False,MISS Thornwell 3' Running Layup,,91-94,91,94
 0021700695,2018-01-22,LAC,MIN,36.85,4,11,9,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:3 Def:0),,91-94,91,94
 0021700695,2018-01-22,LAC,MIN,36.85,4,11,9,LAC,LAC,fg_miss,5,True,False,MISS Harrell 2' Layup,,91-94,91,94
-0021700695,2018-01-22,LAC,MIN,36.85,4,11,9,MIN,MIN,reb,0,False,False,,Georges-Hunt REBOUND (Off:1 Def:1),91-94,91,94
 0021700695,2018-01-22,LAC,MIN,36.85,4,11,9,LAC,MIN,block,5,True,False,block,block,91-94,91,94
+0021700695,2018-01-22,LAC,MIN,36.85,4,11,9,MIN,MIN,reb,0,False,False,,Georges-Hunt REBOUND (Off:1 Def:1),91-94,91,94
 0021700695,2018-01-22,LAC,MIN,36.92,4,11,5,MIN,MIN,fg_make,50,False,False,,Muhammad 1' Running Dunk (4 PTS) (Jones 2 AST),91-96,91,96
 0021700695,2018-01-22,LAC,MIN,37.03,4,10,58,LAC,MIN,violation,5,False,False,,Dieng Violation:Kicked Ball (C.Washington),91-96,91,96
 0021700695,2018-01-22,LAC,MIN,37.13,4,10,52,LAC,MIN,foul,2,False,False,,Georges-Hunt S.FOUL (P5.T2) (J.Williams),91-96,91,96
@@ -393,9 +393,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700695,2018-01-22,LAC,MIN,43.17,4,4,50,MIN,MIN,ft_make,16,False,False,,Teague Free Throw Technical (24 PTS),108-107,108,107
 0021700695,2018-01-22,LAC,MIN,43.5,4,4,30,MIN,MIN,fg_make,98,False,False,,Bjelica 1' Cutting Layup Shot (15 PTS) (Teague 6 AST),108-109,108,109
 0021700695,2018-01-22,LAC,MIN,43.73,4,4,16,LAC,LAC,fg_miss,78,True,False,MISS Wallace 7' Floating Jump Shot,,108-109,108,109
+0021700695,2018-01-22,LAC,MIN,43.73,4,4,16,LAC,MIN,block,78,True,False,block,block,108-109,108,109
 0021700695,2018-01-22,LAC,MIN,43.73,4,4,16,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:6 Def:11),108-109,108,109
 0021700695,2018-01-22,LAC,MIN,43.73,4,4,16,MIN,LAC,foul,1,False,False,Wallace P.FOUL (P5.PN) (C.Washington),,108-109,108,109
-0021700695,2018-01-22,LAC,MIN,43.73,4,4,16,LAC,MIN,block,78,True,False,block,block,108-109,108,109
 0021700695,2018-01-22,LAC,MIN,43.73,4,4,16,MIN,MIN,ft_make,11,False,False,,Towns Free Throw 1 of 2 (7 PTS),108-110,108,110
 0021700695,2018-01-22,LAC,MIN,43.73,4,4,16,MIN,MIN,ft_make,12,False,False,,Towns Free Throw 2 of 2 (8 PTS),108-111,108,111
 0021700695,2018-01-22,LAC,MIN,43.93,4,4,4,LAC,LAC,fg3_make,1,False,False,Teodosic 26' 3PT Jump Shot (15 PTS) (Griffin 11 AST),,111-111,111,111
@@ -454,6 +454,6 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700695,2018-01-22,LAC,MIN,47.88,4,0,7,MIN,MIN,ft_make,11,False,False,,Towns Free Throw 1 of 2 (10 PTS),118-124,118,124
 0021700695,2018-01-22,LAC,MIN,47.88,4,0,7,MIN,MIN,ft_make,12,False,False,,Towns Free Throw 2 of 2 (11 PTS),118-125,118,125
 0021700695,2018-01-22,LAC,MIN,47.88,4,0,7,MIN,,foul,11,False,False,,,118-125,118,125
-0021700695,2018-01-22,LAC,MIN,47.88,4,0,7,MIN,,ejection,4,False,False,,,118-125,118,125
 0021700695,2018-01-22,LAC,MIN,47.88,4,0,7,MIN,MIN,ft_make,16,False,False,,Teague Free Throw Technical (30 PTS),118-126,118,126
+0021700695,2018-01-22,LAC,MIN,47.88,4,0,7,MIN,,ejection,4,False,False,,,118-125,118,125
 0021700695,2018-01-22,LAC,MIN,48.0,4,0,0,MIN,,period_end,0,False,False,,,118-126,118,126

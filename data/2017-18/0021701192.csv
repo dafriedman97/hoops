@@ -24,14 +24,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701192,2018-04-07,NYK,MIL,2.88,1,9,7,NYK,NYK,reb,0,False,False,O'Quinn REBOUND (Off:1 Def:1),,9-7,9,7
 0021701192,2018-04-07,NYK,MIL,3.17,1,8,50,NYK,NYK,fg3_make,1,False,False,Lee 26' 3PT Jump Shot (3 PTS) (Beasley 1 AST),,12-7,12,7
 0021701192,2018-04-07,NYK,MIL,3.45,1,8,33,MIL,MIL,fg_miss,6,True,False,,MISS Snell 5' Driving Layup,12-7,12,7
-0021701192,2018-04-07,NYK,MIL,3.45,1,8,33,NYK,NYK,reb,0,False,False,KNICKS Rebound,,12-7,12,7
 0021701192,2018-04-07,NYK,MIL,3.45,1,8,33,MIL,NYK,block,6,True,False,block,block,12-7,12,7
+0021701192,2018-04-07,NYK,MIL,3.45,1,8,33,NYK,NYK,reb,0,False,False,KNICKS Rebound,,12-7,12,7
 0021701192,2018-04-07,NYK,MIL,3.65,1,8,21,NYK,NYK,fg_make,47,False,False,Beasley 7' Turnaround Jump Shot (5 PTS) (O'Quinn 2 AST),,14-7,14,7
 0021701192,2018-04-07,NYK,MIL,3.85,1,8,9,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.1 Short 0),14-7,14,7
 0021701192,2018-04-07,NYK,MIL,4.02,1,7,59,MIL,MIL,fg_make,3,False,False,,Henson 10' Hook Shot (6 PTS) (Bledsoe 1 AST),14-9,14,9
 0021701192,2018-04-07,NYK,MIL,4.47,1,7,32,NYK,NYK,fg_miss,1,True,False,MISS Lee 12' Jump Shot,,14-9,14,9
-0021701192,2018-04-07,NYK,MIL,4.47,1,7,32,NYK,NYK,reb,0,False,False,KNICKS Rebound,,14-9,14,9
 0021701192,2018-04-07,NYK,MIL,4.47,1,7,32,NYK,MIL,block,1,True,False,block,block,14-9,14,9
+0021701192,2018-04-07,NYK,MIL,4.47,1,7,32,NYK,NYK,reb,0,False,False,KNICKS Rebound,,14-9,14,9
 0021701192,2018-04-07,NYK,MIL,4.48,1,7,31,NYK,NYK,tov,11,False,False,KNICKS Turnover: Shot Clock (T#1),,14-9,14,9
 0021701192,2018-04-07,NYK,MIL,4.57,1,7,26,MIL,MIL,fg_miss,3,False,False,,MISS Henson 5' Hook Shot,14-9,14,9
 0021701192,2018-04-07,NYK,MIL,4.63,1,7,22,MIL,MIL,reb,0,False,False,,Parker REBOUND (Off:1 Def:0),14-9,14,9
@@ -121,8 +121,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701192,2018-04-07,NYK,MIL,13.67,2,10,20,NYK,NYK,fg_make,5,False,False,Dotson 1' Layup (2 PTS) (Jack 1 AST),,30-36,30,36
 0021701192,2018-04-07,NYK,MIL,13.93,2,10,4,MIL,MIL,tov,1,False,False,,Parker Bad Pass Turnover (P1.T4),30-36,30,36
 0021701192,2018-04-07,NYK,MIL,14.13,2,9,52,NYK,NYK,fg_miss,6,True,False,MISS Hicks 1' Driving Layup,,30-36,30,36
-0021701192,2018-04-07,NYK,MIL,14.13,2,9,52,MIL,MIL,reb,0,False,False,,Bucks Rebound,30-36,30,36
 0021701192,2018-04-07,NYK,MIL,14.13,2,9,52,NYK,MIL,block,6,True,False,block,block,30-36,30,36
+0021701192,2018-04-07,NYK,MIL,14.13,2,9,52,MIL,MIL,reb,0,False,False,,Bucks Rebound,30-36,30,36
 0021701192,2018-04-07,NYK,MIL,14.35,2,9,39,MIL,NYK,foul,1,False,False,Hicks P.FOUL (P2.T1) (M.Callahan),,30-36,30,36
 0021701192,2018-04-07,NYK,MIL,14.48,2,9,31,MIL,MIL,fg_make,5,False,False,,Henson 1' Layup (10 PTS) (Jennings 1 AST),30-38,30,38
 0021701192,2018-04-07,NYK,MIL,14.7,2,9,18,NYK,NYK,fg_make,78,False,False,Jack 5' Floating Jump Shot (2 PTS),,32-38,32,38
@@ -248,8 +248,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701192,2018-04-07,NYK,MIL,28.57,3,7,26,NYK,NYK,ft_make,11,False,False,Beasley Free Throw 1 of 2 (6 PTS),,66-64,66,64
 0021701192,2018-04-07,NYK,MIL,28.57,3,7,26,NYK,NYK,ft_make,12,False,False,Beasley Free Throw 2 of 2 (7 PTS),,67-64,67,64
 0021701192,2018-04-07,NYK,MIL,28.73,3,7,16,MIL,MIL,fg_miss,1,True,False,,MISS Middleton 5' Jump Shot,67-64,67,64
-0021701192,2018-04-07,NYK,MIL,28.73,3,7,16,MIL,MIL,reb,0,False,False,,Bucks Rebound,67-64,67,64
 0021701192,2018-04-07,NYK,MIL,28.73,3,7,16,MIL,NYK,block,1,True,False,block,block,67-64,67,64
+0021701192,2018-04-07,NYK,MIL,28.73,3,7,16,MIL,MIL,reb,0,False,False,,Bucks Rebound,67-64,67,64
 0021701192,2018-04-07,NYK,MIL,28.83,3,7,10,MIL,MIL,fg_miss,78,False,False,,MISS Middleton 16' Floating Jump Shot,67-64,67,64
 0021701192,2018-04-07,NYK,MIL,28.87,3,7,8,NYK,NYK,reb,0,False,False,Lee REBOUND (Off:0 Def:2),,67-64,67,64
 0021701192,2018-04-07,NYK,MIL,29.2,3,6,48,NYK,NYK,fg3_miss,1,False,False,MISS Ntilikina 26' 3PT Jump Shot,,67-64,67,64
@@ -260,9 +260,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701192,2018-04-07,NYK,MIL,29.5,3,6,30,NYK,MIL,block,5,True,False,block,block,67-64,67,64
 0021701192,2018-04-07,NYK,MIL,29.55,3,6,27,NYK,NYK,reb,0,False,False,O'Quinn REBOUND (Off:7 Def:6),,67-64,67,64
 0021701192,2018-04-07,NYK,MIL,29.55,3,6,27,NYK,NYK,fg_miss,5,True,False,MISS O'Quinn 1' Layup,,67-64,67,64
+0021701192,2018-04-07,NYK,MIL,29.55,3,6,27,NYK,MIL,block,5,True,False,block,block,67-64,67,64
 0021701192,2018-04-07,NYK,MIL,29.55,3,6,27,NYK,NYK,reb,0,False,False,O'Quinn REBOUND (Off:8 Def:6),,67-64,67,64
 0021701192,2018-04-07,NYK,MIL,29.55,3,6,27,NYK,NYK,fg_miss,72,True,False,MISS O'Quinn 1' Putback Layup,,67-64,67,64
-0021701192,2018-04-07,NYK,MIL,29.55,3,6,27,NYK,MIL,block,5,True,False,block,block,67-64,67,64
 0021701192,2018-04-07,NYK,MIL,29.55,3,6,27,NYK,MIL,block,72,True,False,block,block,67-64,67,64
 0021701192,2018-04-07,NYK,MIL,29.57,3,6,26,NYK,NYK,reb,0,False,False,KNICKS Rebound,,67-64,67,64
 0021701192,2018-04-07,NYK,MIL,29.63,3,6,22,NYK,MIL,foul,2,False,False,,Bledsoe S.FOUL (P3.T2) (T.Maddox),67-64,67,64
@@ -344,9 +344,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701192,2018-04-07,NYK,MIL,38.98,4,9,1,MIL,MIL,fg3_miss,1,False,False,,MISS Jennings 25' 3PT Jump Shot,85-86,85,86
 0021701192,2018-04-07,NYK,MIL,39.05,4,8,57,MIL,MIL,reb,0,False,False,,Maker REBOUND (Off:1 Def:0),85-86,85,86
 0021701192,2018-04-07,NYK,MIL,39.07,4,8,56,MIL,MIL,fg_miss,5,True,False,,MISS Maker 1' Layup,85-86,85,86
+0021701192,2018-04-07,NYK,MIL,39.07,4,8,56,MIL,NYK,block,5,True,False,block,block,85-86,85,86
 0021701192,2018-04-07,NYK,MIL,39.07,4,8,56,MIL,MIL,reb,0,False,False,,Bucks Rebound,85-86,85,86
 0021701192,2018-04-07,NYK,MIL,39.07,4,8,56,MIL,NYK,foul,1,False,False,Hicks P.FOUL (P5.T3) (T.Maddox),,85-86,85,86
-0021701192,2018-04-07,NYK,MIL,39.07,4,8,56,MIL,NYK,block,5,True,False,block,block,85-86,85,86
 0021701192,2018-04-07,NYK,MIL,39.22,4,8,47,MIL,MIL,tov,40,False,False,,Maker Out of Bounds Lost Ball Turnover (P1.T9),85-86,85,86
 0021701192,2018-04-07,NYK,MIL,39.35,4,8,39,NYK,NYK,fg_miss,6,False,False,MISS Burke 5' Driving Layup,,85-86,85,86
 0021701192,2018-04-07,NYK,MIL,39.38,4,8,37,MIL,MIL,reb,0,False,False,,Bucks Rebound,85-86,85,86
@@ -387,8 +387,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701192,2018-04-07,NYK,MIL,43.88,4,4,7,MIL,MIL,ft_make,11,False,False,,Bledsoe Free Throw 1 of 2 (16 PTS),95-100,95,100
 0021701192,2018-04-07,NYK,MIL,43.88,4,4,7,MIL,MIL,ft_make,12,False,False,,Bledsoe Free Throw 2 of 2 (17 PTS),95-101,95,101
 0021701192,2018-04-07,NYK,MIL,44.28,4,3,43,NYK,NYK,fg_miss,1,False,False,MISS Beasley 19' Jump Shot,,95-101,95,101
-0021701192,2018-04-07,NYK,MIL,44.28,4,3,43,NYK,NYK,reb,0,False,False,KNICKS Rebound,,95-101,95,101
 0021701192,2018-04-07,NYK,MIL,44.28,4,3,43,NYK,NYK,tov,11,False,False,KNICKS Turnover: Shot Clock (T#11),,95-101,95,101
+0021701192,2018-04-07,NYK,MIL,44.28,4,3,43,NYK,NYK,reb,0,False,False,KNICKS Rebound,,95-101,95,101
 0021701192,2018-04-07,NYK,MIL,44.43,4,3,34,MIL,MIL,fg_miss,5,False,False,,MISS Bledsoe 1' Layup,95-101,95,101
 0021701192,2018-04-07,NYK,MIL,44.47,4,3,32,NYK,NYK,reb,0,False,False,O'Quinn REBOUND (Off:8 Def:8),,95-101,95,101
 0021701192,2018-04-07,NYK,MIL,44.7,4,3,18,NYK,NYK,fg3_miss,1,False,False,MISS Beasley 26' 3PT Jump Shot,,95-101,95,101

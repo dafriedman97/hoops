@@ -133,8 +133,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000696,2021-03-27,MIN,HOU,14.48,2,9,31,MIN,MIN,fg_miss,5,False,False,MISS Hernangomez 1' Layup,,31-45,31,45
 0022000696,2021-03-27,MIN,HOU,14.53,2,9,28,HOU,HOU,reb,0,False,False,,Tate REBOUND (Off:1 Def:3),31-45,31,45
 0022000696,2021-03-27,MIN,HOU,14.72,2,9,17,HOU,HOU,fg_miss,6,True,False,,MISS Tate 4' Driving Layup,31-45,31,45
-0022000696,2021-03-27,MIN,HOU,14.72,2,9,17,HOU,HOU,reb,0,False,False,,Rockets Rebound,31-45,31,45
 0022000696,2021-03-27,MIN,HOU,14.72,2,9,17,HOU,MIN,block,6,True,False,block,block,31-45,31,45
+0022000696,2021-03-27,MIN,HOU,14.72,2,9,17,HOU,HOU,reb,0,False,False,,Rockets Rebound,31-45,31,45
 0022000696,2021-03-27,MIN,HOU,14.88,2,9,7,HOU,HOU,fg_make,80,False,False,,Porter Jr. 17' Step Back Jump Shot (13 PTS),31-47,31,47
 0022000696,2021-03-27,MIN,HOU,15.18,2,8,49,MIN,HOU,foul,1,False,False,,Porter Jr. P.FOUL (P1.T3) (M.Kallio),31-47,31,47
 0022000696,2021-03-27,MIN,HOU,15.4,2,8,36,MIN,MIN,tov,2,False,True,Towns Lost Ball Turnover (P3.T6),,31-47,31,47
@@ -144,11 +144,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000696,2021-03-27,MIN,HOU,15.58,2,8,25,MIN,HOU,block,6,True,False,block,block,31-49,31,49
 0022000696,2021-03-27,MIN,HOU,15.6,2,8,24,MIN,MIN,reb,0,False,False,Beasley REBOUND (Off:1 Def:1),,31-49,31,49
 0022000696,2021-03-27,MIN,HOU,15.6,2,8,24,MIN,MIN,fg_miss,5,True,False,MISS Beasley 3' Layup,,31-49,31,49
+0022000696,2021-03-27,MIN,HOU,15.6,2,8,24,MIN,HOU,block,5,True,False,block,block,31-49,31,49
 0022000696,2021-03-27,MIN,HOU,15.6,2,8,24,MIN,MIN,reb,0,False,False,Towns REBOUND (Off:1 Def:1),,31-49,31,49
 0022000696,2021-03-27,MIN,HOU,15.6,2,8,24,MIN,HOU,foul,2,False,False,,McLemore S.FOUL (P2.T4) (B.Barnaky),31-49,31,49
 0022000696,2021-03-27,MIN,HOU,15.6,2,8,24,MIN,MIN,ft_miss,11,False,False,MISS Towns Free Throw 1 of 2,,31-49,31,49
 0022000696,2021-03-27,MIN,HOU,15.6,2,8,24,MIN,MIN,reb,1,False,False,TIMBERWOLVES Rebound,,31-49,31,49
-0022000696,2021-03-27,MIN,HOU,15.6,2,8,24,MIN,HOU,block,5,True,False,block,block,31-49,31,49
 0022000696,2021-03-27,MIN,HOU,15.6,2,8,24,MIN,MIN,ft_make,12,False,False,Towns Free Throw 2 of 2 (8 PTS),,32-49,32,49
 0022000696,2021-03-27,MIN,HOU,15.85,2,8,9,HOU,HOU,fg_make,102,False,False,,Porter Jr. 5' Driving Floating Bank Jump Shot (15 PTS),32-51,32,51
 0022000696,2021-03-27,MIN,HOU,16.07,2,7,56,MIN,MIN,fg3_miss,1,False,False,MISS Culver 3PT Jump Shot,,32-51,32,51
@@ -195,8 +195,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000696,2021-03-27,MIN,HOU,20.47,2,3,32,MIN,MIN,ft_make,11,False,False,Nowell Free Throw 1 of 2 (3 PTS),,40-59,40,59
 0022000696,2021-03-27,MIN,HOU,20.47,2,3,32,MIN,MIN,ft_make,12,False,False,Nowell Free Throw 2 of 2 (4 PTS),,41-59,41,59
 0022000696,2021-03-27,MIN,HOU,20.65,2,3,21,HOU,HOU,fg_miss,6,True,False,,MISS Wall 4' Driving Layup,41-59,41,59
-0022000696,2021-03-27,MIN,HOU,20.65,2,3,21,HOU,HOU,reb,0,False,False,,Rockets Rebound,41-59,41,59
 0022000696,2021-03-27,MIN,HOU,20.65,2,3,21,HOU,MIN,block,6,True,False,block,block,41-59,41,59
+0022000696,2021-03-27,MIN,HOU,20.65,2,3,21,HOU,HOU,reb,0,False,False,,Rockets Rebound,41-59,41,59
 0022000696,2021-03-27,MIN,HOU,20.73,2,3,16,HOU,HOU,fg_make,5,False,False,,Tate 1' Layup (4 PTS) (Wall 5 AST),41-61,41,61
 0022000696,2021-03-27,MIN,HOU,20.8,2,3,12,MIN,MIN,tov,1,False,True,Rubio Bad Pass Turnover (P1.T8),,41-61,41,61
 0022000696,2021-03-27,MIN,HOU,20.8,2,3,12,MIN,HOU,steal,1,False,True,steal,steal,41-61,41,61
@@ -267,9 +267,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000696,2021-03-27,MIN,HOU,28.5,3,7,30,HOU,HOU,fg3_make,1,False,False,,Wall 25' 3PT Jump Shot (13 PTS) (Porter Jr. 1 AST),55-86,55,86
 0022000696,2021-03-27,MIN,HOU,28.78,3,7,13,MIN,HOU,foul,1,False,False,,Porter Jr. P.FOUL (P2.T4) (B.Barnaky),55-86,55,86
 0022000696,2021-03-27,MIN,HOU,29.02,3,6,59,MIN,MIN,fg_miss,6,True,False,MISS Edwards 8' Driving Layup,,55-86,55,86
+0022000696,2021-03-27,MIN,HOU,29.02,3,6,59,MIN,HOU,block,6,True,False,block,block,55-86,55,86
 0022000696,2021-03-27,MIN,HOU,29.02,3,6,59,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,55-86,55,86
 0022000696,2021-03-27,MIN,HOU,29.02,3,6,59,MIN,MIN,tov,11,False,False,TIMBERWOLVES Turnover: Shot Clock (T#13),,55-86,55,86
-0022000696,2021-03-27,MIN,HOU,29.02,3,6,59,MIN,HOU,block,6,True,False,block,block,55-86,55,86
 0022000696,2021-03-27,MIN,HOU,29.18,3,6,49,HOU,HOU,fg3_make,1,False,False,,Porter Jr. 26' 3PT Jump Shot (25 PTS) (Wall 11 AST),55-89,55,89
 0022000696,2021-03-27,MIN,HOU,29.45,3,6,33,MIN,MIN,fg3_miss,79,False,False,MISS Beasley 25' 3PT Pullup Jump Shot,,55-89,55,89
 0022000696,2021-03-27,MIN,HOU,29.53,3,6,28,MIN,MIN,reb,0,False,False,Edwards REBOUND (Off:1 Def:2),,55-89,55,89
@@ -284,8 +284,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000696,2021-03-27,MIN,HOU,30.48,3,5,31,MIN,MIN,reb,0,False,False,Towns REBOUND (Off:5 Def:6),,57-89,57,89
 0022000696,2021-03-27,MIN,HOU,30.57,3,5,26,MIN,MIN,fg3_make,1,False,False,Beasley 3PT Jump Shot (5 PTS) (Rubio 8 AST),,60-89,60,89
 0022000696,2021-03-27,MIN,HOU,30.88,3,5,7,HOU,HOU,tov,1,False,True,,Wall Bad Pass Turnover (P1.T9),60-89,60,89
-0022000696,2021-03-27,MIN,HOU,30.88,3,5,7,MIN,HOU,foul,28,False,False,,Tate Personal Take Foul (P3.PN) (B.Barnaky),60-89,60,89
 0022000696,2021-03-27,MIN,HOU,30.88,3,5,7,HOU,MIN,steal,1,False,True,steal,steal,60-89,60,89
+0022000696,2021-03-27,MIN,HOU,30.88,3,5,7,MIN,HOU,foul,28,False,False,,Tate Personal Take Foul (P3.PN) (B.Barnaky),60-89,60,89
 0022000696,2021-03-27,MIN,HOU,30.88,3,5,7,MIN,MIN,ft_make,11,False,False,Beasley Free Throw 1 of 2 (6 PTS),,61-89,61,89
 0022000696,2021-03-27,MIN,HOU,30.88,3,5,7,MIN,MIN,ft_make,12,False,False,Beasley Free Throw 2 of 2 (7 PTS),,62-89,62,89
 0022000696,2021-03-27,MIN,HOU,31.22,3,4,47,HOU,HOU,tov,40,False,False,,Wilson Out of Bounds Lost Ball Turnover (P1.T10),62-89,62,89
@@ -392,8 +392,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000696,2021-03-27,MIN,HOU,42.82,4,5,11,HOU,HOU,fg_miss,98,False,False,,MISS McLemore 2' Cutting Layup Shot,93-120,93,120
 0022000696,2021-03-27,MIN,HOU,42.85,4,5,9,MIN,MIN,reb,0,False,False,Beasley REBOUND (Off:1 Def:3),,93-120,93,120
 0022000696,2021-03-27,MIN,HOU,42.92,4,5,5,MIN,MIN,fg_miss,41,True,False,MISS Edwards 4' Running Layup,,93-120,93,120
-0022000696,2021-03-27,MIN,HOU,42.92,4,5,5,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,93-120,93,120
 0022000696,2021-03-27,MIN,HOU,42.92,4,5,5,MIN,HOU,block,41,True,False,block,block,93-120,93,120
+0022000696,2021-03-27,MIN,HOU,42.92,4,5,5,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,93-120,93,120
 0022000696,2021-03-27,MIN,HOU,42.93,4,5,4,MIN,MIN,fg_make,5,False,False,Edwards 4' Layup (19 PTS) (Rubio 10 AST),,95-120,95,120
 0022000696,2021-03-27,MIN,HOU,42.93,4,5,4,MIN,HOU,foul,2,False,False,,McLemore S.FOUL (P4.PN) (B.Barnaky),95-120,95,120
 0022000696,2021-03-27,MIN,HOU,42.93,4,5,4,MIN,MIN,ft_miss,10,False,False,MISS Edwards Free Throw 1 of 1,,95-120,95,120
@@ -411,8 +411,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000696,2021-03-27,MIN,HOU,45.3,4,2,42,MIN,MIN,fg3_make,79,False,False,Edwards 25' 3PT Pullup Jump Shot (27 PTS),,105-127,105,127
 0022000696,2021-03-27,MIN,HOU,45.65,4,2,21,HOU,HOU,tov,45,False,False,,Lamb Out of Bounds - Bad Pass Turnover Turnover (P1.T12),105-127,105,127
 0022000696,2021-03-27,MIN,HOU,45.78,4,2,13,MIN,MIN,fg_miss,6,True,False,MISS Reid 3' Driving Layup,,105-127,105,127
-0022000696,2021-03-27,MIN,HOU,45.78,4,2,13,HOU,HOU,reb,0,False,False,,Rockets Rebound,105-127,105,127
 0022000696,2021-03-27,MIN,HOU,45.78,4,2,13,MIN,HOU,block,6,True,False,block,block,105-127,105,127
+0022000696,2021-03-27,MIN,HOU,45.78,4,2,13,HOU,HOU,reb,0,False,False,,Rockets Rebound,105-127,105,127
 0022000696,2021-03-27,MIN,HOU,46.07,4,1,56,HOU,HOU,fg3_miss,1,False,False,,MISS McLemore 3PT Jump Shot,105-127,105,127
 0022000696,2021-03-27,MIN,HOU,46.13,4,1,52,MIN,MIN,reb,0,False,False,Hernangomez REBOUND (Off:0 Def:4),,105-127,105,127
 0022000696,2021-03-27,MIN,HOU,46.27,4,1,44,MIN,MIN,fg3_miss,1,False,False,MISS Edwards 25' 3PT Jump Shot,,105-127,105,127

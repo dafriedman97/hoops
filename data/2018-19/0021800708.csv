@@ -21,8 +21,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800708,2019-01-23,BKN,ORL,2.07,1,9,56,BKN,BKN,reb,0,False,False,Kurucs REBOUND (Off:0 Def:1),,2-8,2,8
 0021800708,2019-01-23,BKN,ORL,2.2,1,9,48,BKN,ORL,foul,1,False,False,,Gordon P.FOUL (P1.T1) (P.Ransom),2-8,2,8
 0021800708,2019-01-23,BKN,ORL,2.27,1,9,44,BKN,BKN,fg_miss,6,True,False,MISS Russell 3' Driving Layup,,2-8,2,8
-0021800708,2019-01-23,BKN,ORL,2.27,1,9,44,BKN,BKN,reb,0,False,False,NETS Rebound,,2-8,2,8
 0021800708,2019-01-23,BKN,ORL,2.27,1,9,44,BKN,ORL,block,6,True,False,block,block,2-8,2,8
+0021800708,2019-01-23,BKN,ORL,2.27,1,9,44,BKN,BKN,reb,0,False,False,NETS Rebound,,2-8,2,8
 0021800708,2019-01-23,BKN,ORL,2.38,1,9,37,BKN,ORL,foul,2,False,False,,Fournier S.FOUL (P1.T2) (T.Brown),2-8,2,8
 0021800708,2019-01-23,BKN,ORL,2.38,1,9,37,BKN,BKN,ft_miss,13,False,False,MISS Russell Free Throw 1 of 3,,2-8,2,8
 0021800708,2019-01-23,BKN,ORL,2.38,1,9,37,BKN,BKN,reb,1,False,False,NETS Rebound,,2-8,2,8
@@ -291,8 +291,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800708,2019-01-23,BKN,ORL,30.95,3,5,3,BKN,BKN,ft_make,12,False,False,Dinwiddie Free Throw 2 of 2 (16 PTS),,76-76,76,76
 0021800708,2019-01-23,BKN,ORL,31.18,3,4,49,ORL,ORL,fg_make,3,False,False,,Vucevic 4' Hook Shot (17 PTS) (Augustin 6 AST),76-78,76,78
 0021800708,2019-01-23,BKN,ORL,31.4,3,4,36,BKN,BKN,fg_miss,98,True,False,MISS Hollis-Jefferson 1' Cutting Layup Shot,,76-78,76,78
-0021800708,2019-01-23,BKN,ORL,31.4,3,4,36,ORL,ORL,reb,0,False,False,,Magic Rebound,76-78,76,78
 0021800708,2019-01-23,BKN,ORL,31.4,3,4,36,BKN,ORL,block,98,True,False,block,block,76-78,76,78
+0021800708,2019-01-23,BKN,ORL,31.4,3,4,36,ORL,ORL,reb,0,False,False,,Magic Rebound,76-78,76,78
 0021800708,2019-01-23,BKN,ORL,31.6,3,4,24,ORL,ORL,fg_miss,79,False,False,,MISS Fournier 20' Pullup Jump Shot,76-78,76,78
 0021800708,2019-01-23,BKN,ORL,31.6,3,4,24,BKN,BKN,reb,0,False,False,Harris REBOUND (Off:1 Def:1),,76-78,76,78
 0021800708,2019-01-23,BKN,ORL,31.78,3,4,13,BKN,BKN,fg3_miss,1,False,False,MISS Carroll 26' 3PT Jump Shot,,76-78,76,78
@@ -376,9 +376,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800708,2019-01-23,BKN,ORL,40.17,4,7,50,BKN,BKN,fg3_miss,79,False,False,MISS Russell 25' 3PT Pullup Jump Shot,,98-98,98,98
 0021800708,2019-01-23,BKN,ORL,40.27,4,7,44,ORL,ORL,reb,0,False,False,,Grant REBOUND (Off:0 Def:4),98-98,98,98
 0021800708,2019-01-23,BKN,ORL,40.35,4,7,39,ORL,ORL,fg_miss,79,True,False,,MISS Ross 11' Pullup Jump Shot,98-98,98,98
+0021800708,2019-01-23,BKN,ORL,40.35,4,7,39,ORL,BKN,block,79,True,False,block,block,98-98,98,98
 0021800708,2019-01-23,BKN,ORL,40.35,4,7,39,BKN,BKN,reb,0,False,False,NETS Rebound,,98-98,98,98
 0021800708,2019-01-23,BKN,ORL,40.35,4,7,39,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 4 Short 0),,98-98,98,98
-0021800708,2019-01-23,BKN,ORL,40.35,4,7,39,ORL,BKN,block,79,True,False,block,block,98-98,98,98
 0021800708,2019-01-23,BKN,ORL,40.58,4,7,25,BKN,BKN,tov,45,False,False,Napier Out of Bounds - Bad Pass Turnover Turnover (P1.T12),,98-98,98,98
 0021800708,2019-01-23,BKN,ORL,40.85,4,7,9,ORL,ORL,tov,1,False,True,,Vucevic Bad Pass Turnover (P2.T9),98-98,98,98
 0021800708,2019-01-23,BKN,ORL,40.85,4,7,9,ORL,BKN,steal,1,False,True,steal,steal,98-98,98,98

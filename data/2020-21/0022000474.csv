@@ -209,10 +209,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000474,2021-02-22,HOU,CHI,23.83,2,0,10,CHI,CHI,tov,37,False,False,,LaVine Offensive Foul Turnover (P1.T5),48-54,48,54
 0022000474,2021-02-22,HOU,CHI,23.88,2,0,7,HOU,CHI,foul,28,False,False,,White Personal Take Foul (P2.T3) (E.Scott),48-54,48,54
 0022000474,2021-02-22,HOU,CHI,24.0,2,0,0,HOU,HOU,fg_miss,73,True,False,MISS House Jr. 2' Driving Reverse Layup,,48-54,48,54
+0022000474,2021-02-22,HOU,CHI,24.0,2,0,0,HOU,CHI,block,73,True,False,block,block,48-54,48,54
 0022000474,2021-02-22,HOU,CHI,24.0,2,0,0,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,48-54,48,54
 0022000474,2021-02-22,HOU,CHI,24.0,2,0,0,HOU,,period_end,0,False,False,,,48-54,48,54
 0022000474,2021-02-22,HOU,CHI,24.0,3,12,0,HOU,,period_start,0,False,False,,,48-54,48,54
-0022000474,2021-02-22,HOU,CHI,24.0,2,0,0,HOU,CHI,block,73,True,False,block,block,48-54,48,54
 0022000474,2021-02-22,HOU,CHI,24.35,3,11,39,HOU,HOU,fg_miss,78,False,False,MISS Tucker 11' Floating Jump Shot,,48-54,48,54
 0022000474,2021-02-22,HOU,CHI,24.35,3,11,39,HOU,HOU,reb,0,False,False,Tate REBOUND (Off:3 Def:2),,48-54,48,54
 0022000474,2021-02-22,HOU,CHI,24.35,3,11,39,HOU,HOU,fg_miss,5,True,False,MISS Tate 2' Layup,,48-54,48,54
@@ -323,8 +323,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000474,2021-02-22,HOU,CHI,36.43,4,11,34,HOU,HOU,reb,0,False,False,Patton REBOUND (Off:0 Def:5),,74-100,74,100
 0022000474,2021-02-22,HOU,CHI,36.57,4,11,26,HOU,CHI,foul,1,False,False,,Carter Jr. P.FOUL (P4.T1) (K.Scott),74-100,74,100
 0022000474,2021-02-22,HOU,CHI,36.67,4,11,20,HOU,HOU,fg_miss,98,True,False,MISS Patton 7' Cutting Layup Shot,,74-100,74,100
-0022000474,2021-02-22,HOU,CHI,36.67,4,11,20,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,74-100,74,100
 0022000474,2021-02-22,HOU,CHI,36.67,4,11,20,HOU,CHI,block,98,True,False,block,block,74-100,74,100
+0022000474,2021-02-22,HOU,CHI,36.67,4,11,20,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,74-100,74,100
 0022000474,2021-02-22,HOU,CHI,36.75,4,11,15,HOU,HOU,fg3_miss,1,False,False,MISS Tate 26' 3PT Jump Shot,,74-100,74,100
 0022000474,2021-02-22,HOU,CHI,36.82,4,11,11,HOU,HOU,reb,0,False,False,Patton REBOUND (Off:1 Def:5),,74-100,74,100
 0022000474,2021-02-22,HOU,CHI,36.9,4,11,6,HOU,HOU,fg_make,101,False,False,Tate 6' Driving Floating Jump Shot (10 PTS) (Gordon 3 AST),,76-100,76,100

@@ -91,8 +91,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700394,2017-12-11,OKC,CHA,10.65,1,1,21,CHA,CHA,fg_miss,102,False,False,,MISS Kaminsky 7' Driving Floating Bank Jump Shot,24-34,24,34
 0021700394,2017-12-11,OKC,CHA,10.7,1,1,18,OKC,OKC,reb,0,False,False,Grant REBOUND (Off:0 Def:1),,24-34,24,34
 0021700394,2017-12-11,OKC,CHA,10.83,1,1,10,OKC,OKC,fg_miss,6,True,False,MISS Felton 6' Driving Layup,,24-34,24,34
-0021700394,2017-12-11,OKC,CHA,10.83,1,1,10,OKC,OKC,reb,0,False,False,THUNDER Rebound,,24-34,24,34
 0021700394,2017-12-11,OKC,CHA,10.83,1,1,10,OKC,CHA,block,6,True,False,block,block,24-34,24,34
+0021700394,2017-12-11,OKC,CHA,10.83,1,1,10,OKC,OKC,reb,0,False,False,THUNDER Rebound,,24-34,24,34
 0021700394,2017-12-11,OKC,CHA,10.95,1,1,3,OKC,CHA,foul,2,False,False,,Kaminsky S.FOUL (P1.T3) (T.Brothers),24-34,24,34
 0021700394,2017-12-11,OKC,CHA,10.95,1,1,3,OKC,OKC,ft_make,11,False,False,Abrines Free Throw 1 of 2 (4 PTS),,25-34,25,34
 0021700394,2017-12-11,OKC,CHA,10.95,1,1,3,OKC,OKC,ft_make,12,False,False,Abrines Free Throw 2 of 2 (5 PTS),,26-34,26,34
@@ -150,8 +150,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700394,2017-12-11,OKC,CHA,16.3,2,7,42,OKC,OKC,ft_make,10,False,False,George Free Throw 1 of 1 (15 PTS),,35-37,35,37
 0021700394,2017-12-11,OKC,CHA,16.72,2,7,17,CHA,CHA,fg_make,79,False,False,,Kaminsky 18' Pullup Jump Shot (5 PTS),35-39,35,39
 0021700394,2017-12-11,OKC,CHA,17.0,2,7,0,OKC,OKC,tov,1,False,True,Westbrook Bad Pass Turnover (P1.T6),,35-39,35,39
-0021700394,2017-12-11,OKC,CHA,17.0,2,7,0,CHA,CHA,tov,4,False,False,,Graham Traveling Turnover (P1.T5),35-39,35,39
 0021700394,2017-12-11,OKC,CHA,17.0,2,7,0,OKC,CHA,steal,1,False,True,steal,steal,35-39,35,39
+0021700394,2017-12-11,OKC,CHA,17.0,2,7,0,CHA,CHA,tov,4,False,False,,Graham Traveling Turnover (P1.T5),35-39,35,39
 0021700394,2017-12-11,OKC,CHA,17.3,2,6,42,OKC,OKC,fg_miss,101,False,False,MISS Westbrook 9' Driving Floating Jump Shot,,35-39,35,39
 0021700394,2017-12-11,OKC,CHA,17.35,2,6,39,CHA,CHA,reb,0,False,False,,Kaminsky REBOUND (Off:0 Def:4),35-39,35,39
 0021700394,2017-12-11,OKC,CHA,17.58,2,6,25,CHA,CHA,fg_miss,1,False,False,,MISS Kaminsky 17' Jump Shot,35-39,35,39
@@ -193,10 +193,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700394,2017-12-11,OKC,CHA,21.25,2,2,45,CHA,CHA,reb,0,False,False,,Howard REBOUND (Off:1 Def:1),46-43,46,43
 0021700394,2017-12-11,OKC,CHA,21.25,2,2,45,CHA,OKC,foul,2,False,False,Adams S.FOUL (P3.T4) (T.Brothers),,46-43,46,43
 0021700394,2017-12-11,OKC,CHA,21.25,2,2,45,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.2 Short 0),46-43,46,43
-0021700394,2017-12-11,OKC,CHA,21.25,2,2,45,CHA,OKC,foul,11,False,False,Anthony T.FOUL (P1.T4) (T.Brothers),,46-43,46,43
-0021700394,2017-12-11,OKC,CHA,21.25,2,2,45,CHA,CHA,ft_make,16,False,False,,Walker Free Throw Technical (9 PTS),46-44,46,44
 0021700394,2017-12-11,OKC,CHA,21.25,2,2,45,CHA,CHA,ft_make,11,False,False,,Howard Free Throw 1 of 2 (7 PTS),46-45,46,45
 0021700394,2017-12-11,OKC,CHA,21.25,2,2,45,CHA,CHA,ft_miss,12,False,False,,MISS Howard Free Throw 2 of 2,46-45,46,45
+0021700394,2017-12-11,OKC,CHA,21.25,2,2,45,CHA,OKC,foul,11,False,False,Anthony T.FOUL (P1.T4) (T.Brothers),,46-43,46,43
+0021700394,2017-12-11,OKC,CHA,21.25,2,2,45,CHA,CHA,ft_make,16,False,False,,Walker Free Throw Technical (9 PTS),46-44,46,44
 0021700394,2017-12-11,OKC,CHA,21.3,2,2,42,OKC,OKC,reb,0,False,False,Collison REBOUND (Off:0 Def:1),,46-45,46,45
 0021700394,2017-12-11,OKC,CHA,21.43,2,2,34,OKC,OKC,fg_make,6,False,False,Westbrook 1' Driving Layup (9 PTS),,48-45,48,45
 0021700394,2017-12-11,OKC,CHA,21.67,2,2,20,CHA,OKC,foul,2,False,False,Collison S.FOUL (P1.PN) (G.Petraitis),,48-45,48,45
@@ -226,8 +226,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700394,2017-12-11,OKC,CHA,24.0,2,0,0,CHA,CHA,fg_miss,79,False,False,,MISS Walker 14' Pullup Jump Shot,52-52,52,52
 0021700394,2017-12-11,OKC,CHA,24.0,2,0,0,CHA,CHA,reb,0,False,False,,Hornets Rebound,52-52,52,52
 0021700394,2017-12-11,OKC,CHA,24.0,2,0,0,CHA,,period_end,0,False,False,,,52-52,52,52
-0021700394,2017-12-11,OKC,CHA,24.0,3,12,0,OKC,OKC,fg_miss,1,False,False,MISS Abrines 16' Jump Shot,,52-52,52,52
 0021700394,2017-12-11,OKC,CHA,24.0,3,12,0,OKC,,period_start,0,False,False,,,52-52,52,52
+0021700394,2017-12-11,OKC,CHA,24.0,3,12,0,OKC,OKC,fg_miss,1,False,False,MISS Abrines 16' Jump Shot,,52-52,52,52
 0021700394,2017-12-11,OKC,CHA,24.15,3,11,51,CHA,CHA,reb,0,False,False,,Kidd-Gilchrist REBOUND (Off:1 Def:2),52-52,52,52
 0021700394,2017-12-11,OKC,CHA,24.17,3,11,50,CHA,CHA,fg3_miss,1,False,False,,MISS Lamb 24' 3PT Jump Shot,52-52,52,52
 0021700394,2017-12-11,OKC,CHA,24.17,3,11,50,CHA,CHA,reb,0,False,False,,Lamb REBOUND (Off:1 Def:1),52-52,52,52

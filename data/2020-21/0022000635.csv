@@ -117,11 +117,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000635,2021-03-19,HOU,DET,11.9,1,0,6,HOU,HOU,reb,0,False,False,Martin Jr. REBOUND (Off:1 Def:1),,26-27,26,27
 0022000635,2021-03-19,HOU,DET,11.92,1,0,5,HOU,HOU,fg_make,44,False,False,Martin Jr. 1' Reverse Layup (4 PTS),,28-27,28,27
 0022000635,2021-03-19,HOU,DET,12.0,1,0,0,DET,DET,fg_miss,6,True,False,,MISS Smith Jr. 5' Driving Layup,28-27,28,27
-0022000635,2021-03-19,HOU,DET,12.0,1,0,0,DET,DET,reb,0,False,False,,Pistons Rebound,28-27,28,27
+0022000635,2021-03-19,HOU,DET,12.0,1,0,0,DET,HOU,block,6,True,False,block,block,28-27,28,27
 0022000635,2021-03-19,HOU,DET,12.0,1,0,0,,HOU,jump_ball,0,False,False,,,28-27,28,27
+0022000635,2021-03-19,HOU,DET,12.0,1,0,0,DET,DET,reb,0,False,False,,Pistons Rebound,28-27,28,27
 0022000635,2021-03-19,HOU,DET,12.0,1,0,0,,,period_end,0,False,False,,,28-27,28,27
 0022000635,2021-03-19,HOU,DET,12.0,2,12,0,,,period_start,0,False,False,,,28-27,28,27
-0022000635,2021-03-19,HOU,DET,12.0,1,0,0,DET,HOU,block,6,True,False,block,block,28-27,28,27
 0022000635,2021-03-19,HOU,DET,12.22,2,11,47,DET,DET,fg_make,79,False,False,,Jackson 16' Pullup Jump Shot (4 PTS),28-29,28,29
 0022000635,2021-03-19,HOU,DET,12.58,2,11,25,HOU,HOU,fg_miss,63,False,False,MISS Porter Jr. 11' Fadeaway Jumper,,28-29,28,29
 0022000635,2021-03-19,HOU,DET,12.6,2,11,24,DET,DET,reb,0,False,False,,Lee REBOUND (Off:0 Def:1),28-29,28,29
@@ -147,8 +147,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000635,2021-03-19,HOU,DET,14.93,2,9,4,HOU,DET,foul,4,False,False,,Stewart OFF.Foul (P1) (J.Conley),37-35,37,35
 0022000635,2021-03-19,HOU,DET,14.93,2,9,4,DET,DET,tov,37,False,False,,Stewart Offensive Foul Turnover (P1.T4),37-35,37,35
 0022000635,2021-03-19,HOU,DET,15.3,2,8,42,HOU,HOU,fg_miss,47,True,False,MISS House Jr. 23' Turnaround Jump Shot,,37-35,37,35
-0022000635,2021-03-19,HOU,DET,15.3,2,8,42,HOU,HOU,reb,0,False,False,Augustin REBOUND (Off:1 Def:1),,37-35,37,35
 0022000635,2021-03-19,HOU,DET,15.3,2,8,42,HOU,DET,block,47,True,False,block,block,37-35,37,35
+0022000635,2021-03-19,HOU,DET,15.3,2,8,42,HOU,HOU,reb,0,False,False,Augustin REBOUND (Off:1 Def:1),,37-35,37,35
 0022000635,2021-03-19,HOU,DET,15.32,2,8,41,HOU,HOU,fg3_miss,1,False,False,MISS Augustin 39' 3PT Jump Shot,,37-35,37,35
 0022000635,2021-03-19,HOU,DET,15.33,2,8,40,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,37-35,37,35
 0022000635,2021-03-19,HOU,DET,15.33,2,8,40,HOU,HOU,tov,11,False,False,ROCKETS Turnover: Shot Clock (T#6),,37-35,37,35
@@ -221,8 +221,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000635,2021-03-19,HOU,DET,24.33,3,11,40,HOU,DET,steal,1,False,True,steal,steal,51-55,51,55
 0022000635,2021-03-19,HOU,DET,24.38,3,11,37,DET,DET,fg_make,41,False,False,,Jackson 4' Running Layup (12 PTS) (Bey 2 AST),51-57,51,57
 0022000635,2021-03-19,HOU,DET,24.65,3,11,21,HOU,HOU,fg_miss,98,True,False,MISS Wood 4' Cutting Layup Shot,,51-57,51,57
-0022000635,2021-03-19,HOU,DET,24.65,3,11,21,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,51-57,51,57
 0022000635,2021-03-19,HOU,DET,24.65,3,11,21,HOU,DET,block,98,True,False,block,block,51-57,51,57
+0022000635,2021-03-19,HOU,DET,24.65,3,11,21,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,51-57,51,57
 0022000635,2021-03-19,HOU,DET,24.73,3,11,16,HOU,HOU,fg3_miss,1,False,False,MISS Oladipo 24' 3PT Jump Shot,,51-57,51,57
 0022000635,2021-03-19,HOU,DET,24.73,3,11,16,DET,DET,reb,0,False,False,,Plumlee REBOUND (Off:3 Def:6),51-57,51,57
 0022000635,2021-03-19,HOU,DET,25.15,3,10,51,DET,DET,fg_miss,79,False,False,,MISS Jackson 23' Pullup Jump Shot,51-57,51,57
@@ -305,8 +305,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000635,2021-03-19,HOU,DET,33.77,3,2,14,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.3 Short 0),71-79,71,79
 0022000635,2021-03-19,HOU,DET,33.95,3,2,3,DET,DET,fg3_make,79,False,False,,Bey 27' 3PT Pullup Jump Shot (17 PTS) (Smith Jr. 2 AST),71-82,71,82
 0022000635,2021-03-19,HOU,DET,34.38,3,1,37,HOU,HOU,fg_miss,6,True,False,MISS Brown 2' Driving Layup,,71-82,71,82
-0022000635,2021-03-19,HOU,DET,34.38,3,1,37,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,71-82,71,82
 0022000635,2021-03-19,HOU,DET,34.38,3,1,37,HOU,DET,block,6,True,False,block,block,71-82,71,82
+0022000635,2021-03-19,HOU,DET,34.38,3,1,37,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,71-82,71,82
 0022000635,2021-03-19,HOU,DET,34.43,3,1,34,HOU,HOU,fg_miss,80,False,False,MISS Wilson 22' Step Back Jump Shot,,71-82,71,82
 0022000635,2021-03-19,HOU,DET,34.5,3,1,30,HOU,HOU,reb,0,False,False,Augustin REBOUND (Off:2 Def:1),,71-82,71,82
 0022000635,2021-03-19,HOU,DET,34.53,3,1,28,HOU,HOU,fg3_make,1,False,False,Brown 26' 3PT Jump Shot (3 PTS) (Augustin 1 AST),,74-82,74,82

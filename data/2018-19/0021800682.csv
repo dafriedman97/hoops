@@ -7,8 +7,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800682,2019-01-19,ORL,MIL,0.48,1,11,31,MIL,MIL,reb,1,False,False,,Bucks Rebound,2-0,2,0
 0021800682,2019-01-19,ORL,MIL,0.48,1,11,31,MIL,MIL,ft_make,12,False,False,,Bledsoe Free Throw 2 of 2 (1 PTS),2-1,2,1
 0021800682,2019-01-19,ORL,MIL,0.68,1,11,19,ORL,ORL,fg_miss,101,True,False,MISS Fournier 10' Driving Floating Jump Shot,,2-1,2,1
-0021800682,2019-01-19,ORL,MIL,0.68,1,11,19,ORL,ORL,reb,0,False,False,MAGIC Rebound,,2-1,2,1
 0021800682,2019-01-19,ORL,MIL,0.68,1,11,19,ORL,MIL,block,101,True,False,block,block,2-1,2,1
+0021800682,2019-01-19,ORL,MIL,0.68,1,11,19,ORL,ORL,reb,0,False,False,MAGIC Rebound,,2-1,2,1
 0021800682,2019-01-19,ORL,MIL,0.82,1,11,11,ORL,ORL,fg_miss,1,False,False,MISS Vucevic 13' Jump Shot,,2-1,2,1
 0021800682,2019-01-19,ORL,MIL,0.9,1,11,6,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:0 Def:1),2-1,2,1
 0021800682,2019-01-19,ORL,MIL,1.08,1,10,55,MIL,MIL,tov,1,False,True,,Antetokounmpo Bad Pass Turnover (P1.T1),2-1,2,1
@@ -231,9 +231,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800682,2019-01-19,ORL,MIL,27.9,3,8,6,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:0 Def:8),57-69,57,69
 0021800682,2019-01-19,ORL,MIL,27.97,3,8,2,MIL,MIL,fg_make,41,False,False,,Brogdon 3' Running Layup (10 PTS) (Antetokounmpo 5 AST),57-71,57,71
 0021800682,2019-01-19,ORL,MIL,28.27,3,7,44,ORL,ORL,fg_miss,76,True,False,MISS Vucevic 4' Running Finger Roll Layup,,57-71,57,71
+0021800682,2019-01-19,ORL,MIL,28.27,3,7,44,ORL,MIL,block,76,True,False,block,block,57-71,57,71
 0021800682,2019-01-19,ORL,MIL,28.27,3,7,44,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:1 Def:2),,57-71,57,71
 0021800682,2019-01-19,ORL,MIL,28.27,3,7,44,ORL,MIL,foul,2,False,False,,Lopez S.FOUL (P1.T1) (D.Taylor),57-71,57,71
-0021800682,2019-01-19,ORL,MIL,28.27,3,7,44,ORL,MIL,block,76,True,False,block,block,57-71,57,71
 0021800682,2019-01-19,ORL,MIL,28.27,3,7,44,ORL,ORL,ft_make,11,False,False,Vucevic Free Throw 1 of 2 (18 PTS),,58-71,58,71
 0021800682,2019-01-19,ORL,MIL,28.27,3,7,44,ORL,ORL,ft_make,12,False,False,Vucevic Free Throw 2 of 2 (19 PTS),,59-71,59,71
 0021800682,2019-01-19,ORL,MIL,28.42,3,7,35,MIL,MIL,fg3_make,1,False,False,,Lopez 25' 3PT Jump Shot (6 PTS) (Brown 2 AST),59-74,59,74
@@ -383,6 +383,6 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800682,2019-01-19,ORL,MIL,47.52,4,0,29,ORL,ORL,reb,0,False,False,Isaac REBOUND (Off:2 Def:4),,106-118,106,118
 0021800682,2019-01-19,ORL,MIL,47.52,4,0,29,ORL,ORL,fg_make,107,False,False,Isaac 1' Tip Dunk Shot (6 PTS),,108-118,108,118
 0021800682,2019-01-19,ORL,MIL,47.83,4,0,10,MIL,MIL,tov,2,False,True,,Antetokounmpo Lost Ball Turnover (P5.T13),108-118,108,118
-0021800682,2019-01-19,ORL,MIL,47.83,4,0,10,ORL,MIL,foul,1,False,False,,Antetokounmpo P.FOUL (P3.T4) (S.Wright),108-118,108,118
 0021800682,2019-01-19,ORL,MIL,47.83,4,0,10,MIL,ORL,steal,2,False,True,steal,steal,108-118,108,118
+0021800682,2019-01-19,ORL,MIL,47.83,4,0,10,ORL,MIL,foul,1,False,False,,Antetokounmpo P.FOUL (P3.T4) (S.Wright),108-118,108,118
 0021800682,2019-01-19,ORL,MIL,48.0,4,0,0,ORL,,period_end,0,False,False,,,108-118,108,118

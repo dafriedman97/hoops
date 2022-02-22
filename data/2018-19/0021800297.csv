@@ -78,8 +78,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800297,2018-11-26,CHI,SAS,9.48,1,2,31,CHI,CHI,reb,0,False,False,Harrison REBOUND (Off:0 Def:1),,24-22,24,22
 0021800297,2018-11-26,CHI,SAS,9.68,1,2,19,CHI,SAS,foul,1,False,False,,White P.FOUL (P2.T4) (C.Kirkland),24-22,24,22
 0021800297,2018-11-26,CHI,SAS,9.95,1,2,3,CHI,CHI,fg3_miss,66,False,False,MISS Lopez 26' 3PT Jump Bank Shot,,24-22,24,22
-0021800297,2018-11-26,CHI,SAS,9.95,1,2,3,CHI,CHI,reb,0,False,False,BULLS Rebound,,24-22,24,22
 0021800297,2018-11-26,CHI,SAS,9.95,1,2,3,CHI,CHI,tov,11,False,False,BULLS Turnover: Shot Clock (T#3),,24-22,24,22
+0021800297,2018-11-26,CHI,SAS,9.95,1,2,3,CHI,CHI,reb,0,False,False,BULLS Rebound,,24-22,24,22
 0021800297,2018-11-26,CHI,SAS,10.28,1,1,43,SAS,SAS,fg_miss,5,True,False,,MISS Belinelli 2' Layup,24-22,24,22
 0021800297,2018-11-26,CHI,SAS,10.28,1,1,43,SAS,CHI,block,5,True,False,block,block,24-22,24,22
 0021800297,2018-11-26,CHI,SAS,10.35,1,1,39,CHI,CHI,reb,0,False,False,Holiday REBOUND (Off:1 Def:1),,24-22,24,22
@@ -215,11 +215,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800297,2018-11-26,CHI,SAS,26.0,3,10,0,CHI,CHI,tov,1,False,True,Holiday Bad Pass Turnover (P1.T9),,54-56,54,56
 0021800297,2018-11-26,CHI,SAS,26.0,3,10,0,CHI,SAS,steal,1,False,True,steal,steal,54-56,54,56
 0021800297,2018-11-26,CHI,SAS,26.07,3,9,56,SAS,SAS,fg_miss,41,True,False,,MISS DeRozan 2' Running Layup,54-56,54,56
+0021800297,2018-11-26,CHI,SAS,26.07,3,9,56,SAS,CHI,block,41,True,False,block,block,54-56,54,56
 0021800297,2018-11-26,CHI,SAS,26.07,3,9,56,SAS,SAS,reb,0,False,False,,Cunningham REBOUND (Off:1 Def:5),54-56,54,56
 0021800297,2018-11-26,CHI,SAS,26.07,3,9,56,SAS,SAS,fg_miss,97,False,False,,MISS Cunningham 1' Tip Layup Shot,54-56,54,56
 0021800297,2018-11-26,CHI,SAS,26.07,3,9,56,CHI,CHI,reb,0,False,False,BULLS Rebound,,54-56,54,56
 0021800297,2018-11-26,CHI,SAS,26.07,3,9,56,CHI,SAS,foul,3,False,False,,Gay L.B.FOUL (P2.T1) (C.Kirkland),54-56,54,56
-0021800297,2018-11-26,CHI,SAS,26.07,3,9,56,SAS,CHI,block,41,True,False,block,block,54-56,54,56
 0021800297,2018-11-26,CHI,SAS,26.33,3,9,40,CHI,CHI,fg_make,78,False,False,Carter Jr. 13' Floating Jump Shot (6 PTS) (LaVine 4 AST),,56-56,56,56
 0021800297,2018-11-26,CHI,SAS,26.67,3,9,20,SAS,SAS,tov,1,False,True,,DeRozan Bad Pass Turnover (P2.T5),56-56,56,56
 0021800297,2018-11-26,CHI,SAS,26.67,3,9,20,SAS,CHI,steal,1,False,True,steal,steal,56-56,56,56
@@ -311,8 +311,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800297,2018-11-26,CHI,SAS,37.27,4,10,44,CHI,SAS,foul,2,False,False,,Cunningham S.FOUL (P2.T1) (D.Taylor),85-84,85,84
 0021800297,2018-11-26,CHI,SAS,37.27,4,10,44,CHI,CHI,ft_make,10,False,False,Parker Free Throw 1 of 1 (16 PTS),,86-84,86,84
 0021800297,2018-11-26,CHI,SAS,37.58,4,10,25,SAS,SAS,fg_miss,6,True,False,,MISS DeRozan 4' Driving Layup,86-84,86,84
-0021800297,2018-11-26,CHI,SAS,37.58,4,10,25,SAS,SAS,reb,0,False,False,,DeRozan REBOUND (Off:2 Def:2),86-84,86,84
 0021800297,2018-11-26,CHI,SAS,37.58,4,10,25,SAS,CHI,block,6,True,False,block,block,86-84,86,84
+0021800297,2018-11-26,CHI,SAS,37.58,4,10,25,SAS,SAS,reb,0,False,False,,DeRozan REBOUND (Off:2 Def:2),86-84,86,84
 0021800297,2018-11-26,CHI,SAS,37.62,4,10,23,SAS,CHI,foul,1,False,False,Parker P.FOUL (P1.T1) (D.Taylor),,86-84,86,84
 0021800297,2018-11-26,CHI,SAS,37.75,4,10,15,SAS,SAS,fg_make,63,False,False,,Forbes 18' Fadeaway Jumper (11 PTS),86-86,86,86
 0021800297,2018-11-26,CHI,SAS,38.18,4,9,49,CHI,CHI,fg_miss,6,False,False,MISS Harrison 4' Driving Layup,,86-86,86,86
@@ -388,7 +388,7 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800297,2018-11-26,CHI,SAS,47.95,4,0,3,SAS,SAS,reb,0,False,False,,Aldridge REBOUND (Off:3 Def:5),107-108,107,108
 0021800297,2018-11-26,CHI,SAS,47.95,4,0,3,SAS,CHI,foul,28,False,False,Arcidiacono Personal Take Foul (P3.T4) (N.Green),,107-108,107,108
 0021800297,2018-11-26,CHI,SAS,48.0,4,0,0,SAS,SAS,tov,1,False,True,,Forbes Bad Pass Turnover (P2.T10),107-108,107,108
+0021800297,2018-11-26,CHI,SAS,48.0,4,0,0,SAS,CHI,steal,1,False,True,steal,steal,107-108,107,108
 0021800297,2018-11-26,CHI,SAS,48.0,4,0,0,CHI,CHI,fg_miss,1,False,False,MISS Arcidiacono 18' Jump Shot,,107-108,107,108
 0021800297,2018-11-26,CHI,SAS,48.0,4,0,0,CHI,CHI,reb,0,False,False,BULLS Rebound,,107-108,107,108
 0021800297,2018-11-26,CHI,SAS,48.0,4,0,0,CHI,,period_end,0,False,False,,,107-108,107,108
-0021800297,2018-11-26,CHI,SAS,48.0,4,0,0,SAS,CHI,steal,1,False,True,steal,steal,107-108,107,108

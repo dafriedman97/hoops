@@ -97,9 +97,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000901,2021-04-23,HOU,LAC,9.72,1,2,17,LAC,LAC,fg3_miss,79,False,False,,MISS George 27' 3PT Pullup Jump Shot,29-30,29,30
 0022000901,2021-04-23,HOU,LAC,9.72,1,2,17,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,29-30,29,30
 0022000901,2021-04-23,HOU,LAC,9.72,1,2,17,HOU,LAC,foul,3,False,False,,Cousins L.B.FOUL (P1.PN) (S.Jelks),29-30,29,30
-0022000901,2021-04-23,HOU,LAC,9.72,1,2,17,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 1 Short 0),,29-30,29,30
 0022000901,2021-04-23,HOU,LAC,9.72,1,2,17,HOU,HOU,ft_make,11,False,False,Olynyk Free Throw 1 of 2 (3 PTS),,30-30,30,30
 0022000901,2021-04-23,HOU,LAC,9.72,1,2,17,HOU,HOU,ft_make,12,False,False,Olynyk Free Throw 2 of 2 (4 PTS),,31-30,31,30
+0022000901,2021-04-23,HOU,LAC,9.72,1,2,17,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 1 Short 0),,29-30,29,30
 0022000901,2021-04-23,HOU,LAC,9.93,1,2,4,LAC,HOU,foul,2,False,False,House Jr. S.FOUL (P1.PN) (S.Jelks),,31-30,31,30
 0022000901,2021-04-23,HOU,LAC,9.93,1,2,4,LAC,LAC,ft_make,11,False,False,,Coffey Free Throw 1 of 2 (1 PTS),31-31,31,31
 0022000901,2021-04-23,HOU,LAC,9.93,1,2,4,LAC,LAC,ft_make,12,False,False,,Coffey Free Throw 2 of 2 (2 PTS),31-32,31,32
@@ -203,8 +203,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000901,2021-04-23,HOU,LAC,21.62,2,2,23,HOU,HOU,fg_miss,101,False,False,MISS Wood 13' Driving Floating Jump Shot,,54-58,54,58
 0022000901,2021-04-23,HOU,LAC,21.63,2,2,22,LAC,LAC,reb,0,False,False,,George REBOUND (Off:0 Def:5),54-58,54,58
 0022000901,2021-04-23,HOU,LAC,21.75,2,2,15,LAC,LAC,fg_miss,101,False,False,,MISS George 4' Driving Floating Jump Shot,54-58,54,58
-0022000901,2021-04-23,HOU,LAC,21.85,2,2,9,LAC,LAC,fg_make,97,False,False,,Patterson Tip Layup Shot (10 PTS),54-60,54,60
 0022000901,2021-04-23,HOU,LAC,21.85,2,2,9,LAC,LAC,reb,0,False,False,,Patterson REBOUND (Off:2 Def:2),54-60,54,60
+0022000901,2021-04-23,HOU,LAC,21.85,2,2,9,LAC,LAC,fg_make,97,False,False,,Patterson Tip Layup Shot (10 PTS),54-60,54,60
 0022000901,2021-04-23,HOU,LAC,22.1,2,1,54,HOU,LAC,foul,2,False,False,,Coffey S.FOUL (P3.PN) (M.Davis),54-60,54,60
 0022000901,2021-04-23,HOU,LAC,22.1,2,1,54,HOU,HOU,ft_make,11,False,False,Wall Free Throw 1 of 2 (15 PTS),,55-60,55,60
 0022000901,2021-04-23,HOU,LAC,22.1,2,1,54,HOU,HOU,ft_make,12,False,False,Wall Free Throw 2 of 2 (16 PTS),,56-60,56,60
@@ -375,8 +375,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000901,2021-04-23,HOU,LAC,40.05,4,7,57,LAC,LAC,fg3_make,1,False,False,,Jackson 27' 3PT Jump Shot (15 PTS),90-92,90,92
 0022000901,2021-04-23,HOU,LAC,40.4,4,7,36,HOU,HOU,fg_make,79,False,False,Wall 21' Pullup Jump Shot (27 PTS),,92-92,92,92
 0022000901,2021-04-23,HOU,LAC,40.82,4,7,11,LAC,LAC,fg_miss,7,True,False,,MISS Zubac 3' Dunk,92-92,92,92
-0022000901,2021-04-23,HOU,LAC,40.82,4,7,11,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,92-92,92,92
 0022000901,2021-04-23,HOU,LAC,40.82,4,7,11,LAC,HOU,block,7,True,False,block,block,92-92,92,92
+0022000901,2021-04-23,HOU,LAC,40.82,4,7,11,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,92-92,92,92
 0022000901,2021-04-23,HOU,LAC,40.98,4,7,1,HOU,HOU,fg_miss,79,False,False,MISS Wall 23' Pullup Jump Shot,,92-92,92,92
 0022000901,2021-04-23,HOU,LAC,41.08,4,6,55,LAC,LAC,reb,0,False,False,,George REBOUND (Off:1 Def:9),92-92,92,92
 0022000901,2021-04-23,HOU,LAC,41.13,4,6,52,LAC,HOU,foul,2,False,False,Tate S.FOUL (P3.T4) (M.Davis),,92-92,92,92

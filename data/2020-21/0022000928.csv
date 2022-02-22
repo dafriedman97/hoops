@@ -43,8 +43,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000928,2021-04-27,CHA,MIL,4.47,1,7,32,MIL,MIL,fg3_miss,1,False,False,,MISS Lopez 26' 3PT Jump Shot,14-11,14,11
 0022000928,2021-04-27,CHA,MIL,4.53,1,7,28,MIL,MIL,reb,0,False,False,,DiVincenzo REBOUND (Off:1 Def:1),14-11,14,11
 0022000928,2021-04-27,CHA,MIL,4.57,1,7,26,MIL,MIL,fg3_miss,1,False,False,,MISS Middleton 3PT Jump Shot,14-11,14,11
-0022000928,2021-04-27,CHA,MIL,4.67,1,7,20,MIL,MIL,fg_miss,97,False,False,,MISS Holiday Tip Layup Shot,14-11,14,11
 0022000928,2021-04-27,CHA,MIL,4.67,1,7,20,MIL,MIL,reb,0,False,False,,Holiday REBOUND (Off:1 Def:1),14-11,14,11
+0022000928,2021-04-27,CHA,MIL,4.67,1,7,20,MIL,MIL,fg_miss,97,False,False,,MISS Holiday Tip Layup Shot,14-11,14,11
 0022000928,2021-04-27,CHA,MIL,4.68,1,7,19,CHA,CHA,reb,0,False,False,Rozier REBOUND (Off:0 Def:2),,14-11,14,11
 0022000928,2021-04-27,CHA,MIL,4.83,1,7,10,CHA,MIL,foul,2,False,False,,Lopez S.FOUL (P1.T1) (M.Ayotte),14-11,14,11
 0022000928,2021-04-27,CHA,MIL,4.83,1,7,10,CHA,CHA,ft_make,11,False,False,Washington Free Throw 1 of 2 (3 PTS),,15-11,15,11
@@ -68,8 +68,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000928,2021-04-27,CHA,MIL,7.13,1,4,52,CHA,CHA,reb,0,False,False,Biyombo REBOUND (Off:1 Def:0),,17-20,17,20
 0022000928,2021-04-27,CHA,MIL,7.18,1,4,49,CHA,CHA,fg_make,5,False,False,McDaniels 2' Layup (2 PTS) (Wanamaker 2 AST),,19-20,19,20
 0022000928,2021-04-27,CHA,MIL,7.28,1,4,43,MIL,MIL,fg_miss,6,True,False,,MISS Forbes 3' Driving Layup,19-20,19,20
-0022000928,2021-04-27,CHA,MIL,7.28,1,4,43,MIL,MIL,reb,0,False,False,,Bucks Rebound,19-20,19,20
 0022000928,2021-04-27,CHA,MIL,7.28,1,4,43,MIL,CHA,block,6,True,False,block,block,19-20,19,20
+0022000928,2021-04-27,CHA,MIL,7.28,1,4,43,MIL,MIL,reb,0,False,False,,Bucks Rebound,19-20,19,20
 0022000928,2021-04-27,CHA,MIL,7.35,1,4,39,MIL,MIL,fg3_make,1,False,False,,Forbes 26' 3PT Jump Shot (3 PTS) (Portis 1 AST),19-23,19,23
 0022000928,2021-04-27,CHA,MIL,7.58,1,4,25,CHA,CHA,fg3_miss,80,False,False,MISS Bridges 26' 3PT Step Back Jump Shot,,19-23,19,23
 0022000928,2021-04-27,CHA,MIL,7.63,1,4,22,MIL,MIL,reb,0,False,False,,Forbes REBOUND (Off:0 Def:1),19-23,19,23
@@ -155,9 +155,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000928,2021-04-27,CHA,MIL,17.08,2,6,55,CHA,CHA,tov,1,False,True,Biyombo Bad Pass Turnover (P1.T4),,37-45,37,45
 0022000928,2021-04-27,CHA,MIL,17.08,2,6,55,CHA,MIL,steal,1,False,True,steal,steal,37-45,37,45
 0022000928,2021-04-27,CHA,MIL,17.12,2,6,53,MIL,MIL,tov,1,False,True,,DiVincenzo Bad Pass Turnover (P2.T6),37-45,37,45
+0022000928,2021-04-27,CHA,MIL,17.12,2,6,53,MIL,CHA,steal,1,False,True,steal,steal,37-45,37,45
 0022000928,2021-04-27,CHA,MIL,17.12,2,6,53,MIL,CHA,foul,26,False,False,Martin Offensive Charge Foul (P1.T1) (J.Sterling),,37-45,37,45
 0022000928,2021-04-27,CHA,MIL,17.12,2,6,53,CHA,CHA,tov,37,False,False,Martin Offensive Foul Turnover (P2.T5),,37-45,37,45
-0022000928,2021-04-27,CHA,MIL,17.12,2,6,53,MIL,CHA,steal,1,False,True,steal,steal,37-45,37,45
 0022000928,2021-04-27,CHA,MIL,17.43,2,6,34,MIL,MIL,fg3_make,1,False,False,,Forbes 26' 3PT Jump Shot (8 PTS) (Middleton 2 AST),37-48,37,48
 0022000928,2021-04-27,CHA,MIL,17.45,2,6,33,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 2 Short 0),,37-48,37,48
 0022000928,2021-04-27,CHA,MIL,17.77,2,6,14,CHA,CHA,fg_miss,79,False,False,MISS Wanamaker 15' Pullup Jump Shot,,37-48,37,48
@@ -171,8 +171,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000928,2021-04-27,CHA,MIL,18.37,2,5,38,MIL,MIL,fg3_miss,1,False,False,,MISS Middleton 26' 3PT Jump Shot,39-48,39,48
 0022000928,2021-04-27,CHA,MIL,18.4,2,5,36,CHA,CHA,reb,0,False,False,Martin REBOUND (Off:1 Def:5),,39-48,39,48
 0022000928,2021-04-27,CHA,MIL,18.62,2,5,23,CHA,CHA,tov,1,False,True,Biyombo Bad Pass Turnover (P2.T6),,39-48,39,48
-0022000928,2021-04-27,CHA,MIL,18.62,2,5,23,MIL,CHA,foul,28,False,False,Bridges Personal Take Foul (P2.T2) (S.Wright),,39-48,39,48
 0022000928,2021-04-27,CHA,MIL,18.62,2,5,23,CHA,MIL,steal,1,False,True,steal,steal,39-48,39,48
+0022000928,2021-04-27,CHA,MIL,18.62,2,5,23,MIL,CHA,foul,28,False,False,Bridges Personal Take Foul (P2.T2) (S.Wright),,39-48,39,48
 0022000928,2021-04-27,CHA,MIL,18.87,2,5,8,MIL,MIL,fg_make,79,False,False,,Forbes 17' Pullup Jump Shot (10 PTS),39-50,39,50
 0022000928,2021-04-27,CHA,MIL,19.0,2,5,0,CHA,CHA,fg_make,7,False,False,Wanamaker 1' Dunk (2 PTS) (Rozier 1 AST),,41-50,41,50
 0022000928,2021-04-27,CHA,MIL,19.17,2,4,50,MIL,MIL,fg_make,6,False,False,,Antetokounmpo 2' Driving Layup (13 PTS),41-52,41,52
@@ -186,8 +186,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000928,2021-04-27,CHA,MIL,19.8,2,4,12,CHA,CHA,ft_make,12,False,False,Martin Free Throw 2 of 2 (7 PTS),,42-52,42,52
 0022000928,2021-04-27,CHA,MIL,20.05,2,3,57,MIL,MIL,fg_make,79,False,False,,Middleton 13' Pullup Jump Shot (9 PTS),42-54,42,54
 0022000928,2021-04-27,CHA,MIL,20.33,2,3,40,CHA,CHA,tov,2,False,True,Washington Lost Ball Turnover (P1.T7),,42-54,42,54
-0022000928,2021-04-27,CHA,MIL,20.33,2,3,40,MIL,CHA,foul,1,False,False,Washington P.FOUL (P3.T3) (M.Ayotte),,42-54,42,54
 0022000928,2021-04-27,CHA,MIL,20.33,2,3,40,CHA,MIL,steal,2,False,True,steal,steal,42-54,42,54
+0022000928,2021-04-27,CHA,MIL,20.33,2,3,40,MIL,CHA,foul,1,False,False,Washington P.FOUL (P3.T3) (M.Ayotte),,42-54,42,54
 0022000928,2021-04-27,CHA,MIL,20.53,2,3,28,MIL,CHA,violation,5,False,False,Bridges Violation:Kicked Ball (J.Sterling),,42-54,42,54
 0022000928,2021-04-27,CHA,MIL,20.78,2,3,13,MIL,MIL,fg_make,47,False,False,,Antetokounmpo 11' Turnaround Jump Shot (15 PTS),42-56,42,56
 0022000928,2021-04-27,CHA,MIL,20.88,2,3,7,CHA,CHA,fg3_miss,79,False,False,MISS Graham 27' 3PT Pullup Jump Shot,,42-56,42,56
@@ -232,9 +232,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000928,2021-04-27,CHA,MIL,24.93,3,11,4,CHA,CHA,tov,2,False,True,Washington Lost Ball Turnover (P2.T8),,45-64,45,64
 0022000928,2021-04-27,CHA,MIL,24.93,3,11,4,CHA,MIL,steal,2,False,True,steal,steal,45-64,45,64
 0022000928,2021-04-27,CHA,MIL,25.02,3,10,59,MIL,MIL,tov,1,False,True,,Middleton Bad Pass Turnover (P2.T7),45-64,45,64
+0022000928,2021-04-27,CHA,MIL,25.02,3,10,59,MIL,CHA,steal,1,False,True,steal,steal,45-64,45,64
 0022000928,2021-04-27,CHA,MIL,25.02,3,10,59,CHA,CHA,tov,39,False,False,Graham Step Out of Bounds Turnover (P2.T9),,45-64,45,64
 0022000928,2021-04-27,CHA,MIL,25.02,3,10,59,MIL,CHA,violation,1,False,False,HORNETS Violation: Delay of game Violation,,45-64,45,64
-0022000928,2021-04-27,CHA,MIL,25.02,3,10,59,MIL,CHA,steal,1,False,True,steal,steal,45-64,45,64
 0022000928,2021-04-27,CHA,MIL,25.2,3,10,48,MIL,MIL,fg_miss,5,False,False,,MISS Antetokounmpo 1' Layup,45-64,45,64
 0022000928,2021-04-27,CHA,MIL,25.23,3,10,46,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:2 Def:3),,45-64,45,64
 0022000928,2021-04-27,CHA,MIL,25.37,3,10,38,CHA,CHA,fg_make,7,False,False,Washington 3' Dunk (5 PTS) (Bridges 4 AST),,47-64,47,64
@@ -307,8 +307,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000928,2021-04-27,CHA,MIL,33.12,3,2,53,CHA,CHA,tov,1,False,True,Wanamaker Bad Pass Turnover (P1.T12),,71-81,71,81
 0022000928,2021-04-27,CHA,MIL,33.12,3,2,53,CHA,MIL,steal,1,False,True,steal,steal,71-81,71,81
 0022000928,2021-04-27,CHA,MIL,33.2,3,2,48,MIL,MIL,fg_miss,6,True,False,,MISS Portis 3' Driving Layup,71-81,71,81
-0022000928,2021-04-27,CHA,MIL,33.2,3,2,48,CHA,CHA,reb,0,False,False,HORNETS Rebound,,71-81,71,81
 0022000928,2021-04-27,CHA,MIL,33.2,3,2,48,MIL,CHA,block,6,True,False,block,block,71-81,71,81
+0022000928,2021-04-27,CHA,MIL,33.2,3,2,48,CHA,CHA,reb,0,False,False,HORNETS Rebound,,71-81,71,81
 0022000928,2021-04-27,CHA,MIL,33.5,3,2,30,CHA,MIL,foul,2,False,False,,Portis S.FOUL (P3.PN) (M.Ayotte),71-81,71,81
 0022000928,2021-04-27,CHA,MIL,33.5,3,2,30,CHA,CHA,ft_make,11,False,False,McDaniels Free Throw 1 of 2 (5 PTS),,72-81,72,81
 0022000928,2021-04-27,CHA,MIL,33.5,3,2,30,CHA,CHA,ft_make,12,False,False,McDaniels Free Throw 2 of 2 (6 PTS),,73-81,73,81
@@ -341,8 +341,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000928,2021-04-27,CHA,MIL,36.82,4,11,11,CHA,CHA,fg3_make,1,False,False,Graham 26' 3PT Jump Shot (18 PTS),,83-92,83,92
 0022000928,2021-04-27,CHA,MIL,37.08,4,10,55,MIL,MIL,fg3_make,1,False,False,,Antetokounmpo 29' 3PT Jump Shot (25 PTS),83-95,83,95
 0022000928,2021-04-27,CHA,MIL,37.25,4,10,45,CHA,CHA,tov,1,False,True,Graham Bad Pass Turnover (P4.T15),,83-95,83,95
-0022000928,2021-04-27,CHA,MIL,37.25,4,10,45,MIL,CHA,foul,28,False,False,Graham Personal Take Foul (P1.T2) (J.Sterling),,83-95,83,95
 0022000928,2021-04-27,CHA,MIL,37.25,4,10,45,CHA,MIL,steal,1,False,True,steal,steal,83-95,83,95
+0022000928,2021-04-27,CHA,MIL,37.25,4,10,45,MIL,CHA,foul,28,False,False,Graham Personal Take Foul (P1.T2) (J.Sterling),,83-95,83,95
 0022000928,2021-04-27,CHA,MIL,37.47,4,10,32,MIL,MIL,tov,4,False,False,,Lopez Traveling Turnover (P1.T12),83-95,83,95
 0022000928,2021-04-27,CHA,MIL,37.7,4,10,18,CHA,CHA,fg_make,44,False,False,Bridges 1' Reverse Layup (19 PTS) (Wanamaker 6 AST),,85-95,85,95
 0022000928,2021-04-27,CHA,MIL,37.9,4,10,6,MIL,MIL,fg3_make,1,False,False,,DiVincenzo 31' 3PT Jump Shot (9 PTS) (Lopez 1 AST),85-98,85,98
@@ -360,8 +360,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000928,2021-04-27,CHA,MIL,39.25,4,8,45,MIL,MIL,fg3_miss,1,False,False,,MISS Connaughton 26' 3PT Jump Shot,90-100,90,100
 0022000928,2021-04-27,CHA,MIL,39.3,4,8,42,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:2 Def:5),,90-100,90,100
 0022000928,2021-04-27,CHA,MIL,39.42,4,8,35,CHA,CHA,tov,1,False,True,Wanamaker Bad Pass Turnover (P2.T17),,90-100,90,100
-0022000928,2021-04-27,CHA,MIL,39.42,4,8,35,MIL,CHA,foul,28,False,False,Martin Personal Take Foul (P2.T3) (M.Ayotte),,90-100,90,100
 0022000928,2021-04-27,CHA,MIL,39.42,4,8,35,CHA,MIL,steal,1,False,True,steal,steal,90-100,90,100
+0022000928,2021-04-27,CHA,MIL,39.42,4,8,35,MIL,CHA,foul,28,False,False,Martin Personal Take Foul (P2.T3) (M.Ayotte),,90-100,90,100
 0022000928,2021-04-27,CHA,MIL,39.63,4,8,22,MIL,MIL,fg_miss,5,False,False,,MISS Lopez 5' Layup,90-100,90,100
 0022000928,2021-04-27,CHA,MIL,39.67,4,8,20,CHA,CHA,reb,0,False,False,Graham REBOUND (Off:0 Def:3),,90-100,90,100
 0022000928,2021-04-27,CHA,MIL,39.78,4,8,13,CHA,MIL,foul,2,False,False,,Lopez S.FOUL (P4.T2) (S.Wright),90-100,90,100

@@ -157,8 +157,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901243,2020-08-01,TOR,LAL,16.6,2,7,24,LAL,TOR,foul,1,False,False,Lowry P.FOUL (P1.T3) (R.Acosta),,30-32,30,32
 0021901243,2020-08-01,TOR,LAL,16.63,2,7,22,TOR,LAL,foul,26,False,False,,Waiters Offensive Charge Foul (P3.PN) (B.Forte),30-32,30,32
 0021901243,2020-08-01,TOR,LAL,16.63,2,7,22,LAL,LAL,tov,37,False,False,,Waiters Offensive Foul Turnover (P1.T7),30-32,30,32
-0021901243,2020-08-01,TOR,LAL,16.85,2,7,9,TOR,TOR,fg_make,98,False,False,Gasol 2' Cutting Layup Shot (2 PTS) (Lowry 3 AST),,32-32,32,32
 0021901243,2020-08-01,TOR,LAL,16.85,2,7,9,TOR,TOR,timeout,1,False,False,RAPTORS Timeout: Regular (Full 2 Short 0),,32-32,32,32
+0021901243,2020-08-01,TOR,LAL,16.85,2,7,9,TOR,TOR,fg_make,98,False,False,Gasol 2' Cutting Layup Shot (2 PTS) (Lowry 3 AST),,32-32,32,32
 0021901243,2020-08-01,TOR,LAL,17.17,2,6,50,LAL,LAL,fg_miss,73,False,False,,MISS James 3' Driving Reverse Layup,32-32,32,32
 0021901243,2020-08-01,TOR,LAL,17.2,2,6,48,TOR,TOR,reb,0,False,False,Gasol REBOUND (Off:0 Def:3),,32-32,32,32
 0021901243,2020-08-01,TOR,LAL,17.3,2,6,42,TOR,TOR,fg_make,50,False,False,Anunoby 2' Running Dunk (9 PTS) (Lowry 4 AST),,34-32,34,32
@@ -396,8 +396,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901243,2020-08-01,TOR,LAL,39.68,4,8,19,TOR,TOR,fg_miss,41,False,False,MISS Powell 2' Running Layup,,78-77,78,77
 0021901243,2020-08-01,TOR,LAL,39.7,4,8,18,LAL,LAL,reb,0,False,False,,Waiters REBOUND (Off:0 Def:2),78-77,78,77
 0021901243,2020-08-01,TOR,LAL,39.92,4,8,5,LAL,LAL,fg_miss,1,True,False,,MISS Kuzma 19' Jump Shot,78-77,78,77
-0021901243,2020-08-01,TOR,LAL,39.92,4,8,5,LAL,LAL,reb,0,False,False,,Lakers Rebound,78-77,78,77
 0021901243,2020-08-01,TOR,LAL,39.92,4,8,5,LAL,TOR,block,1,True,False,block,block,78-77,78,77
+0021901243,2020-08-01,TOR,LAL,39.92,4,8,5,LAL,LAL,reb,0,False,False,,Lakers Rebound,78-77,78,77
 0021901243,2020-08-01,TOR,LAL,40.0,4,8,0,LAL,LAL,fg_miss,1,True,False,,MISS Waiters 2' Jump Shot,78-77,78,77
 0021901243,2020-08-01,TOR,LAL,40.0,4,8,0,LAL,TOR,block,1,True,False,block,block,78-77,78,77
 0021901243,2020-08-01,TOR,LAL,40.05,4,7,57,LAL,LAL,reb,0,False,False,,Waiters REBOUND (Off:1 Def:2),78-77,78,77
@@ -469,13 +469,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901243,2020-08-01,TOR,LAL,46.47,4,1,32,LAL,TOR,block,98,True,False,block,block,104-88,104,88
 0021901243,2020-08-01,TOR,LAL,46.5,4,1,30,TOR,TOR,reb,0,False,False,Lowry REBOUND (Off:1 Def:13),,104-88,104,88
 0021901243,2020-08-01,TOR,LAL,46.55,4,1,27,TOR,TOR,fg_miss,41,True,False,MISS Siakam 1' Running Layup,,104-88,104,88
+0021901243,2020-08-01,TOR,LAL,46.55,4,1,27,TOR,LAL,block,41,True,False,block,block,104-88,104,88
 0021901243,2020-08-01,TOR,LAL,46.55,4,1,27,LAL,LAL,reb,0,False,False,,Lakers Rebound,104-88,104,88
 0021901243,2020-08-01,TOR,LAL,46.55,4,1,27,LAL,TOR,violation,1,False,False,RAPTORS Violation: Delay of game Violation,,104-88,104,88
 0021901243,2020-08-01,TOR,LAL,46.55,4,1,27,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.7 Short 0),104-88,104,88
 0021901243,2020-08-01,TOR,LAL,46.55,4,1,27,LAL,TOR,foul,11,False,False,Lowry T.FOUL (P4.T4) (R.Acosta),,104-88,104,88
 0021901243,2020-08-01,TOR,LAL,46.55,4,1,27,LAL,LAL,ft_miss,16,False,False,,MISS Caldwell-Pope Free Throw Technical,104-88,104,88
 0021901243,2020-08-01,TOR,LAL,46.55,4,1,27,LAL,LAL,reb,1,False,False,,Lakers Rebound,104-88,104,88
-0021901243,2020-08-01,TOR,LAL,46.55,4,1,27,TOR,LAL,block,41,True,False,block,block,104-88,104,88
 0021901243,2020-08-01,TOR,LAL,46.8,4,1,12,LAL,LAL,fg3_miss,1,False,False,,MISS Morris 25' 3PT Jump Shot,104-88,104,88
 0021901243,2020-08-01,TOR,LAL,46.83,4,1,10,TOR,TOR,reb,0,False,False,Thomas REBOUND (Off:0 Def:2),,104-88,104,88
 0021901243,2020-08-01,TOR,LAL,46.97,4,1,2,TOR,TOR,fg3_miss,1,False,False,MISS Boucher 25' 3PT Jump Shot,,104-88,104,88

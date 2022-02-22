@@ -81,8 +81,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900781,2020-02-08,TOR,BKN,8.85,1,3,9,BKN,BKN,ft_make,11,False,False,,LeVert Free Throw 1 of 2 (7 PTS),25-24,25,24
 0021900781,2020-02-08,TOR,BKN,8.85,1,3,9,BKN,BKN,ft_make,12,False,False,,LeVert Free Throw 2 of 2 (8 PTS),25-25,25,25
 0021900781,2020-02-08,TOR,BKN,9.15,1,2,51,TOR,TOR,fg_miss,6,True,False,MISS Davis 3' Driving Layup,,25-25,25,25
-0021900781,2020-02-08,TOR,BKN,9.15,1,2,51,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,25-25,25,25
 0021900781,2020-02-08,TOR,BKN,9.15,1,2,51,TOR,BKN,block,6,True,False,block,block,25-25,25,25
+0021900781,2020-02-08,TOR,BKN,9.15,1,2,51,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,25-25,25,25
 0021900781,2020-02-08,TOR,BKN,9.22,1,2,47,TOR,TOR,fg_miss,80,False,False,MISS Siakam 17' Step Back Jump Shot,,25-25,25,25
 0021900781,2020-02-08,TOR,BKN,9.25,1,2,45,TOR,TOR,reb,0,False,False,Boucher REBOUND (Off:1 Def:0),,25-25,25,25
 0021900781,2020-02-08,TOR,BKN,9.25,1,2,45,TOR,TOR,fg_make,107,False,False,Boucher 1' Tip Dunk Shot (2 PTS),,27-25,27,25
@@ -298,8 +298,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900781,2020-02-08,TOR,BKN,34.22,3,1,47,BKN,BKN,fg_miss,101,False,False,,MISS Dinwiddie 9' Driving Floating Jump Shot,95-85,95,85
 0021900781,2020-02-08,TOR,BKN,34.25,3,1,45,TOR,TOR,reb,0,False,False,Siakam REBOUND (Off:0 Def:7),,95-85,95,85
 0021900781,2020-02-08,TOR,BKN,34.32,3,1,41,TOR,TOR,fg_miss,41,False,False,MISS VanVleet 1' Running Layup,,95-85,95,85
-0021900781,2020-02-08,TOR,BKN,34.42,3,1,35,TOR,TOR,fg_make,97,False,False,Davis 1' Tip Layup Shot (17 PTS),,97-85,97,85
 0021900781,2020-02-08,TOR,BKN,34.42,3,1,35,TOR,TOR,reb,0,False,False,Davis REBOUND (Off:5 Def:2),,97-85,97,85
+0021900781,2020-02-08,TOR,BKN,34.42,3,1,35,TOR,TOR,fg_make,97,False,False,Davis 1' Tip Layup Shot (17 PTS),,97-85,97,85
 0021900781,2020-02-08,TOR,BKN,34.68,3,1,19,BKN,BKN,tov,4,False,False,,Jordan Traveling Turnover (P3.T8),97-85,97,85
 0021900781,2020-02-08,TOR,BKN,34.68,3,1,19,TOR,TOR,timeout,1,False,False,RAPTORS Timeout: Regular (Full 2 Short 0),,97-85,97,85
 0021900781,2020-02-08,TOR,BKN,34.97,3,1,2,TOR,TOR,fg_miss,63,False,False,MISS Davis 10' Fadeaway Jumper,,97-85,97,85
@@ -307,8 +307,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900781,2020-02-08,TOR,BKN,35.13,3,0,52,BKN,BKN,fg3_miss,1,False,False,,MISS Luwawu-Cabarrot 25' 3PT Jump Shot,97-85,97,85
 0021900781,2020-02-08,TOR,BKN,35.18,3,0,49,BKN,BKN,reb,0,False,False,,Jordan REBOUND (Off:1 Def:7),97-85,97,85
 0021900781,2020-02-08,TOR,BKN,35.2,3,0,48,BKN,BKN,fg_miss,72,True,False,,MISS Jordan 3' Putback Layup,97-85,97,85
-0021900781,2020-02-08,TOR,BKN,35.2,3,0,48,TOR,TOR,reb,0,False,False,Thomas REBOUND (Off:0 Def:5),,97-85,97,85
 0021900781,2020-02-08,TOR,BKN,35.2,3,0,48,BKN,TOR,block,72,True,False,block,block,97-85,97,85
+0021900781,2020-02-08,TOR,BKN,35.2,3,0,48,TOR,TOR,reb,0,False,False,Thomas REBOUND (Off:0 Def:5),,97-85,97,85
 0021900781,2020-02-08,TOR,BKN,35.27,3,0,44,TOR,TOR,fg3_make,2,False,False,Davis 24' 3PT Running Jump Shot (20 PTS) (Thomas 1 AST),,100-85,100,85
 0021900781,2020-02-08,TOR,BKN,35.4,3,0,36,BKN,TOR,foul,1,False,False,Boucher P.FOUL (P3.PN) (D.Taylor),,100-85,100,85
 0021900781,2020-02-08,TOR,BKN,35.4,3,0,36,BKN,BKN,ft_make,11,False,False,,Jordan Free Throw 1 of 2 (9 PTS),100-86,100,86
@@ -387,8 +387,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900781,2020-02-08,TOR,BKN,42.32,4,5,41,TOR,TOR,reb,0,False,False,Thomas REBOUND (Off:0 Def:6),,108-101,108,101
 0021900781,2020-02-08,TOR,BKN,42.38,4,5,37,TOR,TOR,timeout,1,False,False,RAPTORS Timeout: Regular (Full 3 Short 0),,108-101,108,101
 0021900781,2020-02-08,TOR,BKN,42.58,4,5,25,TOR,TOR,fg_miss,47,True,False,MISS Ibaka 2' Turnaround Jump Shot,,108-101,108,101
-0021900781,2020-02-08,TOR,BKN,42.58,4,5,25,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,108-101,108,101
 0021900781,2020-02-08,TOR,BKN,42.58,4,5,25,TOR,BKN,block,47,True,False,block,block,108-101,108,101
+0021900781,2020-02-08,TOR,BKN,42.58,4,5,25,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,108-101,108,101
 0021900781,2020-02-08,TOR,BKN,42.65,4,5,21,TOR,TOR,fg3_make,1,False,False,VanVleet 24' 3PT Jump Shot (24 PTS) (Anunoby 1 AST),,111-101,111,101
 0021900781,2020-02-08,TOR,BKN,42.9,4,5,6,BKN,BKN,fg_make,1,False,False,,Harris 21' Jump Shot (9 PTS) (Prince 2 AST),111-103,111,103
 0021900781,2020-02-08,TOR,BKN,43.2,4,4,48,TOR,TOR,fg3_miss,79,False,False,MISS VanVleet 25' 3PT Pullup Jump Shot,,111-103,111,103

@@ -7,8 +7,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700980,2018-03-09,MEM,UTA,0.62,1,11,23,MEM,MEM,fg3_miss,1,False,False,MISS Brooks 25' 3PT Jump Shot,,0-0,0,0
 0021700980,2018-03-09,MEM,UTA,0.68,1,11,19,MEM,MEM,reb,0,False,False,Green REBOUND (Off:1 Def:0),,0-0,0,0
 0021700980,2018-03-09,MEM,UTA,0.7,1,11,18,MEM,MEM,fg_miss,72,True,False,MISS Green 1' Putback Layup,,0-0,0,0
-0021700980,2018-03-09,MEM,UTA,0.7,1,11,18,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:0 Def:1),0-0,0,0
 0021700980,2018-03-09,MEM,UTA,0.7,1,11,18,MEM,UTA,block,72,True,False,block,block,0-0,0,0
+0021700980,2018-03-09,MEM,UTA,0.7,1,11,18,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:0 Def:1),0-0,0,0
 0021700980,2018-03-09,MEM,UTA,0.88,1,11,7,UTA,UTA,fg3_miss,1,False,False,,MISS Ingles 25' 3PT Jump Shot,0-0,0,0
 0021700980,2018-03-09,MEM,UTA,0.93,1,11,4,MEM,MEM,reb,0,False,False,McLemore REBOUND (Off:0 Def:1),,0-0,0,0
 0021700980,2018-03-09,MEM,UTA,1.23,1,10,46,MEM,MEM,fg_make,6,False,False,McLemore 1' Driving Layup (2 PTS) (Gasol 1 AST),,2-0,2,0
@@ -42,8 +42,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700980,2018-03-09,MEM,UTA,4.8,1,7,12,UTA,UTA,reb,1,False,False,,Jazz Rebound,8-8,8,8
 0021700980,2018-03-09,MEM,UTA,4.8,1,7,12,UTA,UTA,ft_make,15,False,False,,Rubio Free Throw 3 of 3 (4 PTS),8-9,8,9
 0021700980,2018-03-09,MEM,UTA,4.93,1,7,4,MEM,MEM,tov,1,False,True,McLemore Bad Pass Turnover (P1.T1),,8-9,8,9
-0021700980,2018-03-09,MEM,UTA,4.93,1,7,4,UTA,MEM,foul,1,False,False,McLemore P.FOUL (P1.T2) (A.Smith),,8-9,8,9
 0021700980,2018-03-09,MEM,UTA,4.93,1,7,4,MEM,UTA,steal,1,False,True,steal,steal,8-9,8,9
+0021700980,2018-03-09,MEM,UTA,4.93,1,7,4,UTA,MEM,foul,1,False,False,McLemore P.FOUL (P1.T2) (A.Smith),,8-9,8,9
 0021700980,2018-03-09,MEM,UTA,5.18,1,6,49,UTA,UTA,tov,4,False,False,,Mitchell Traveling Turnover (P1.T2),8-9,8,9
 0021700980,2018-03-09,MEM,UTA,5.18,1,6,49,MEM,MEM,timeout,1,False,False,GRIZZLIES Timeout: Regular (Full 1 Short 0),,8-9,8,9
 0021700980,2018-03-09,MEM,UTA,5.47,1,6,32,MEM,MEM,tov,4,False,False,Gasol Traveling Turnover (P1.T2),,8-9,8,9
@@ -126,8 +126,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700980,2018-03-09,MEM,UTA,15.63,2,8,22,MEM,MEM,fg_make,79,False,False,Green 16' Pullup Jump Shot (2 PTS),,33-29,33,29
 0021700980,2018-03-09,MEM,UTA,15.85,2,8,9,UTA,UTA,fg3_make,1,False,False,,Ingles 25' 3PT Jump Shot (5 PTS) (Neto 1 AST),33-32,33,32
 0021700980,2018-03-09,MEM,UTA,16.27,2,7,44,MEM,MEM,fg_miss,6,True,False,MISS Green 3' Driving Layup,,33-32,33,32
-0021700980,2018-03-09,MEM,UTA,16.27,2,7,44,UTA,UTA,reb,0,False,False,,O'Neale REBOUND (Off:0 Def:2),33-32,33,32
 0021700980,2018-03-09,MEM,UTA,16.27,2,7,44,MEM,UTA,block,6,True,False,block,block,33-32,33,32
+0021700980,2018-03-09,MEM,UTA,16.27,2,7,44,UTA,UTA,reb,0,False,False,,O'Neale REBOUND (Off:0 Def:2),33-32,33,32
 0021700980,2018-03-09,MEM,UTA,16.62,2,7,23,UTA,UTA,fg_make,43,False,False,,Ingles 1' Alley Oop Layup (7 PTS) (Neto 2 AST),33-34,33,34
 0021700980,2018-03-09,MEM,UTA,16.87,2,7,8,MEM,UTA,foul,2,False,False,,Neto S.FOUL (P1.T1) (S.Corbin),33-34,33,34
 0021700980,2018-03-09,MEM,UTA,16.87,2,7,8,MEM,MEM,ft_make,11,False,False,Martin Free Throw 1 of 2 (7 PTS),,34-34,34,34
@@ -246,8 +246,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700980,2018-03-09,MEM,UTA,29.35,3,6,39,MEM,MEM,fg_miss,80,False,False,MISS Simmons 16' Step Back Jump Shot,,49-62,49,62
 0021700980,2018-03-09,MEM,UTA,29.4,3,6,36,UTA,UTA,reb,0,False,False,,Rubio REBOUND (Off:0 Def:8),49-62,49,62
 0021700980,2018-03-09,MEM,UTA,29.62,3,6,23,UTA,UTA,fg_miss,6,True,False,,MISS Ingles 1' Driving Layup,49-62,49,62
-0021700980,2018-03-09,MEM,UTA,29.62,3,6,23,UTA,UTA,reb,0,False,False,,Jazz Rebound,49-62,49,62
 0021700980,2018-03-09,MEM,UTA,29.62,3,6,23,UTA,MEM,block,6,True,False,block,block,49-62,49,62
+0021700980,2018-03-09,MEM,UTA,29.62,3,6,23,UTA,UTA,reb,0,False,False,,Jazz Rebound,49-62,49,62
 0021700980,2018-03-09,MEM,UTA,29.73,3,6,16,UTA,UTA,fg_miss,79,False,False,,MISS Mitchell 9' Pullup Jump Shot,49-62,49,62
 0021700980,2018-03-09,MEM,UTA,29.82,3,6,11,MEM,MEM,reb,0,False,False,Green REBOUND (Off:1 Def:3),,49-62,49,62
 0021700980,2018-03-09,MEM,UTA,29.88,3,6,7,MEM,MEM,tov,1,False,True,Rathan-Mayes Bad Pass Turnover (P1.T7),,49-62,49,62
@@ -335,8 +335,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700980,2018-03-09,MEM,UTA,38.32,4,9,41,MEM,MEM,fg_miss,97,False,False,MISS Davis 1' Tip Layup Shot,,64-75,64,75
 0021700980,2018-03-09,MEM,UTA,38.32,4,9,41,MEM,MEM,reb,0,False,False,Davis REBOUND (Off:2 Def:1),,64-75,64,75
 0021700980,2018-03-09,MEM,UTA,38.42,4,9,35,MEM,MEM,tov,1,False,True,Martin Bad Pass Turnover (P3.T10),,64-75,64,75
-0021700980,2018-03-09,MEM,UTA,38.42,4,9,35,UTA,MEM,foul,1,False,False,Martin P.FOUL (P2.T2) (B.Spooner),,64-75,64,75
 0021700980,2018-03-09,MEM,UTA,38.42,4,9,35,MEM,UTA,steal,1,False,True,steal,steal,64-75,64,75
+0021700980,2018-03-09,MEM,UTA,38.42,4,9,35,UTA,MEM,foul,1,False,False,Martin P.FOUL (P2.T2) (B.Spooner),,64-75,64,75
 0021700980,2018-03-09,MEM,UTA,38.62,4,9,23,UTA,UTA,fg_miss,101,True,False,,MISS Neto 5' Driving Floating Jump Shot,64-75,64,75
 0021700980,2018-03-09,MEM,UTA,38.62,4,9,23,UTA,MEM,block,101,True,False,block,block,64-75,64,75
 0021700980,2018-03-09,MEM,UTA,38.67,4,9,20,MEM,MEM,reb,0,False,False,Davis REBOUND (Off:2 Def:2),,64-75,64,75
@@ -354,9 +354,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700980,2018-03-09,MEM,UTA,39.62,4,8,23,MEM,UTA,block,73,True,False,block,block,66-75,66,75
 0021700980,2018-03-09,MEM,UTA,39.67,4,8,20,MEM,MEM,reb,0,False,False,Davis REBOUND (Off:3 Def:3),,66-75,66,75
 0021700980,2018-03-09,MEM,UTA,39.7,4,8,18,MEM,MEM,fg_miss,78,False,False,MISS Martin 8' Floating Jump Shot,,66-75,66,75
+0021700980,2018-03-09,MEM,UTA,39.7,4,8,18,MEM,MEM,reb,0,False,False,Davis REBOUND (Off:4 Def:3),,66-75,66,75
 0021700980,2018-03-09,MEM,UTA,39.7,4,8,18,MEM,MEM,fg_miss,97,False,False,MISS Davis 2' Tip Layup Shot,,66-75,66,75
 0021700980,2018-03-09,MEM,UTA,39.7,4,8,18,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:0 Def:4),66-75,66,75
-0021700980,2018-03-09,MEM,UTA,39.7,4,8,18,MEM,MEM,reb,0,False,False,Davis REBOUND (Off:4 Def:3),,66-75,66,75
 0021700980,2018-03-09,MEM,UTA,39.88,4,8,7,UTA,MEM,foul,1,False,False,Martin P.FOUL (P3.T3) (S.Corbin),,66-75,66,75
 0021700980,2018-03-09,MEM,UTA,40.07,4,7,56,UTA,MEM,foul,1,False,False,Davis P.FOUL (P2.T4) (B.Spooner),,66-75,66,75
 0021700980,2018-03-09,MEM,UTA,40.07,4,7,56,UTA,,foul,16,False,False,,,66-75,66,75

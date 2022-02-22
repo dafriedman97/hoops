@@ -33,8 +33,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700154,2017-11-07,SAS,LAC,5.12,1,6,53,LAC,LAC,reb,0,False,False,,W. Johnson REBOUND (Off:0 Def:1),15-11,15,11
 0021700154,2017-11-07,SAS,LAC,5.15,1,6,51,LAC,SAS,foul,2,False,False,Gasol S.FOUL (P1.T1) (M.Ervin),,15-11,15,11
 0021700154,2017-11-07,SAS,LAC,5.15,1,6,51,SAS,SAS,timeout,1,False,False,SPURS Timeout: Regular (Full 1 Short 0),,15-11,15,11
-0021700154,2017-11-07,SAS,LAC,5.15,1,6,51,SAS,LAC,ft_make,12,False,False,,Griffin Free Throw 2 of 2 (4 PTS),15-12,15,12
 0021700154,2017-11-07,SAS,LAC,5.15,1,6,51,SAS,LAC,ft_make,11,False,False,,Griffin Free Throw 1 of 2 (5 PTS),15-13,15,13
+0021700154,2017-11-07,SAS,LAC,5.15,1,6,51,SAS,LAC,ft_make,12,False,False,,Griffin Free Throw 2 of 2 (4 PTS),15-12,15,12
 0021700154,2017-11-07,SAS,LAC,5.33,1,6,40,SAS,SAS,fg_make,1,False,False,Aldridge 20' Jump Shot (5 PTS) (Mills 2 AST),,17-13,17,13
 0021700154,2017-11-07,SAS,LAC,5.75,1,6,15,LAC,LAC,fg_make,52,False,False,,Jordan 2' Alley Oop Dunk (2 PTS) (Rivers 1 AST),17-15,17,15
 0021700154,2017-11-07,SAS,LAC,5.88,1,6,7,SAS,LAC,foul,1,False,False,,Beverley P.FOUL (P1.T1) (J.Williams),17-15,17,15
@@ -75,16 +75,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700154,2017-11-07,SAS,LAC,10.92,1,1,5,LAC,LAC,fg_miss,79,False,False,,MISS Williams 15' Pullup Jump Shot,28-23,28,23
 0021700154,2017-11-07,SAS,LAC,10.98,1,1,1,SAS,SAS,reb,0,False,False,Gay REBOUND (Off:0 Def:2),,28-23,28,23
 0021700154,2017-11-07,SAS,LAC,11.03,1,0,58,SAS,SAS,fg_miss,5,True,False,MISS Gay 3' Layup,,28-23,28,23
-0021700154,2017-11-07,SAS,LAC,11.03,1,0,58,LAC,LAC,reb,0,False,False,,Dekker REBOUND (Off:0 Def:2),28-23,28,23
 0021700154,2017-11-07,SAS,LAC,11.03,1,0,58,SAS,LAC,block,5,True,False,block,block,28-23,28,23
+0021700154,2017-11-07,SAS,LAC,11.03,1,0,58,LAC,LAC,reb,0,False,False,,Dekker REBOUND (Off:0 Def:2),28-23,28,23
 0021700154,2017-11-07,SAS,LAC,11.18,1,0,49,LAC,LAC,fg3_miss,1,False,False,,MISS Dekker 3PT Jump Shot,28-23,28,23
 0021700154,2017-11-07,SAS,LAC,11.18,1,0,49,SAS,SAS,reb,0,False,False,Gay REBOUND (Off:0 Def:3),,28-23,28,23
 0021700154,2017-11-07,SAS,LAC,11.32,1,0,41,SAS,LAC,foul,1,False,False,,Dekker P.FOUL (P1.T2) (S.Wright),28-23,28,23
 0021700154,2017-11-07,SAS,LAC,11.42,1,0,35,SAS,SAS,fg_make,6,False,False,Gay 2' Driving Layup (4 PTS) (Gasol 3 AST),,30-23,30,23
 0021700154,2017-11-07,SAS,LAC,11.75,1,0,15,LAC,LAC,fg3_make,79,False,False,,Williams 24' 3PT Pullup Jump Shot (3 PTS),30-26,30,26
 0021700154,2017-11-07,SAS,LAC,11.9,1,0,6,SAS,LAC,foul,1,False,False,,Thornwell P.FOUL (P1.PN) (S.Wright),30-26,30,26
-0021700154,2017-11-07,SAS,LAC,11.9,1,0,6,SAS,SAS,ft_make,12,False,False,Murray Free Throw 2 of 2 (1 PTS),,31-26,31,26
 0021700154,2017-11-07,SAS,LAC,11.9,1,0,6,SAS,SAS,ft_make,11,False,False,Murray Free Throw 1 of 2 (2 PTS),,32-26,32,26
+0021700154,2017-11-07,SAS,LAC,11.9,1,0,6,SAS,SAS,ft_make,12,False,False,Murray Free Throw 2 of 2 (1 PTS),,31-26,31,26
 0021700154,2017-11-07,SAS,LAC,11.98,1,0,1,LAC,SAS,foul,1,False,False,Murray P.FOUL (P1.T3) (J.Williams),,32-26,32,26
 0021700154,2017-11-07,SAS,LAC,12.0,1,0,0,LAC,LAC,fg3_miss,63,False,False,,MISS Williams 3PT Fadeaway Jumper,32-26,32,26
 0021700154,2017-11-07,SAS,LAC,12.0,1,0,0,LAC,LAC,reb,0,False,False,,Clippers Rebound,32-26,32,26
@@ -271,8 +271,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700154,2017-11-07,SAS,LAC,33.52,3,2,29,SAS,LAC,foul,2,False,False,,Beverley S.FOUL (P4.PN) (S.Wright),80-68,80,68
 0021700154,2017-11-07,SAS,LAC,33.52,3,2,29,SAS,SAS,ft_make,11,False,False,Murray Free Throw 1 of 2 (5 PTS),,81-68,81,68
 0021700154,2017-11-07,SAS,LAC,33.52,3,2,29,SAS,LAC,violation,3,False,False,,Lane,81-68,81,68
-0021700154,2017-11-07,SAS,LAC,33.52,3,2,29,SAS,,violation,1,False,False,,,81-68,81,68
 0021700154,2017-11-07,SAS,LAC,33.52,3,2,29,SAS,SAS,ft_make,12,False,False,Murray Free Throw 2 of 2 (6 PTS),,82-68,82,68
+0021700154,2017-11-07,SAS,LAC,33.52,3,2,29,SAS,,violation,1,False,False,,,81-68,81,68
 0021700154,2017-11-07,SAS,LAC,33.63,3,2,22,LAC,LAC,fg_make,63,False,False,,Williams 15' Fadeaway Jumper (7 PTS) (Reed 1 AST),82-70,82,70
 0021700154,2017-11-07,SAS,LAC,33.82,3,2,11,LAC,SAS,foul,1,False,False,Aldridge P.FOUL (P2.T4) (S.Wright),,82-70,82,70
 0021700154,2017-11-07,SAS,LAC,33.82,3,2,11,SAS,SAS,tov,0,False,False,Aldridge No Turnover (P1.T8),,82-70,82,70
@@ -293,8 +293,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700154,2017-11-07,SAS,LAC,35.3,3,0,42,SAS,SAS,fg_make,79,False,False,Ginobili 17' Pullup Jump Shot (4 PTS),,89-72,89,72
 0021700154,2017-11-07,SAS,LAC,35.43,3,0,34,LAC,LAC,fg_make,1,False,False,,Reed 17' Jump Shot (6 PTS) (Williams 3 AST),89-74,89,74
 0021700154,2017-11-07,SAS,LAC,35.77,3,0,14,SAS,SAS,fg_miss,6,True,False,MISS Gay 3' Driving Layup,,89-74,89,74
-0021700154,2017-11-07,SAS,LAC,35.77,3,0,14,LAC,LAC,reb,0,False,False,,W. Johnson REBOUND (Off:1 Def:4),89-74,89,74
 0021700154,2017-11-07,SAS,LAC,35.77,3,0,14,SAS,LAC,block,6,True,False,block,block,89-74,89,74
+0021700154,2017-11-07,SAS,LAC,35.77,3,0,14,LAC,LAC,reb,0,False,False,,W. Johnson REBOUND (Off:1 Def:4),89-74,89,74
 0021700154,2017-11-07,SAS,LAC,35.82,3,0,11,LAC,LAC,fg_make,41,False,False,,Thornwell 1' Running Layup (4 PTS),89-76,89,76
 0021700154,2017-11-07,SAS,LAC,35.82,3,0,11,LAC,SAS,foul,2,False,False,Murray S.FOUL (P2.PN) (J.Williams),,89-76,89,76
 0021700154,2017-11-07,SAS,LAC,35.82,3,0,11,LAC,LAC,ft_miss,10,False,False,,MISS Thornwell Free Throw 1 of 1,89-76,89,76
@@ -349,8 +349,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700154,2017-11-07,SAS,LAC,40.12,4,7,53,LAC,LAC,fg_make,80,False,False,,Williams 19' Step Back Jump Shot (15 PTS),101-91,101,91
 0021700154,2017-11-07,SAS,LAC,40.47,4,7,32,SAS,SAS,fg_make,5,False,False,Aldridge 2' Layup (19 PTS) (Anderson 4 AST),,103-91,103,91
 0021700154,2017-11-07,SAS,LAC,40.73,4,7,16,LAC,LAC,tov,1,False,True,,Rivers Bad Pass Turnover (P3.T17),103-91,103,91
-0021700154,2017-11-07,SAS,LAC,40.73,4,7,16,SAS,LAC,foul,1,False,False,,Jordan P.FOUL (P2.T2) (S.Wright),103-91,103,91
 0021700154,2017-11-07,SAS,LAC,40.73,4,7,16,LAC,SAS,steal,1,False,True,steal,steal,103-91,103,91
+0021700154,2017-11-07,SAS,LAC,40.73,4,7,16,SAS,LAC,foul,1,False,False,,Jordan P.FOUL (P2.T2) (S.Wright),103-91,103,91
 0021700154,2017-11-07,SAS,LAC,40.95,4,7,3,SAS,SAS,fg_miss,6,False,False,MISS Aldridge 3' Driving Layup,,103-91,103,91
 0021700154,2017-11-07,SAS,LAC,41.0,4,7,0,SAS,SAS,reb,0,False,False,Anderson REBOUND (Off:2 Def:2),,103-91,103,91
 0021700154,2017-11-07,SAS,LAC,41.03,4,6,58,SAS,SAS,fg_miss,47,False,False,MISS Anderson 3' Turnaround Jump Shot,,103-91,103,91

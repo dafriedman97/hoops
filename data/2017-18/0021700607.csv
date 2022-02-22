@@ -30,8 +30,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700607,2018-01-10,NYK,CHI,4.07,1,7,56,NYK,NYK,reb,0,False,False,Kanter REBOUND (Off:0 Def:2),,8-10,8,10
 0021700607,2018-01-10,NYK,CHI,4.13,1,7,52,NYK,CHI,foul,1,False,False,,Dunn P.FOUL (P1.T1) (M.Boland),8-10,8,10
 0021700607,2018-01-10,NYK,CHI,4.25,1,7,45,NYK,NYK,tov,2,False,True,Porzingis Lost Ball Turnover (P2.T3),,8-10,8,10
-0021700607,2018-01-10,NYK,CHI,4.25,1,7,45,CHI,NYK,foul,1,False,False,Jack P.FOUL (P1.T1) (M.Boland),,8-10,8,10
 0021700607,2018-01-10,NYK,CHI,4.25,1,7,45,NYK,CHI,steal,2,False,True,steal,steal,8-10,8,10
+0021700607,2018-01-10,NYK,CHI,4.25,1,7,45,CHI,NYK,foul,1,False,False,Jack P.FOUL (P1.T1) (M.Boland),,8-10,8,10
 0021700607,2018-01-10,NYK,CHI,4.37,1,7,38,CHI,CHI,fg_make,75,False,False,,Dunn 2' Driving Finger Roll Layup (5 PTS),8-12,8,12
 0021700607,2018-01-10,NYK,CHI,4.53,1,7,28,NYK,NYK,fg_make,1,False,False,Jack 23' Jump Shot (2 PTS),,10-12,10,12
 0021700607,2018-01-10,NYK,CHI,4.77,1,7,14,CHI,CHI,fg_make,5,False,False,,Lopez 2' Layup (2 PTS) (Valentine 1 AST),10-14,10,14
@@ -47,10 +47,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700607,2018-01-10,NYK,CHI,6.22,1,5,47,CHI,CHI,fg_make,1,False,False,,Markkanen 15' Jump Shot (8 PTS),12-19,12,19
 0021700607,2018-01-10,NYK,CHI,6.48,1,5,31,NYK,NYK,fg3_make,1,False,False,Lee 26' 3PT Jump Shot (3 PTS) (Thomas 1 AST),,15-19,15,19
 0021700607,2018-01-10,NYK,CHI,6.68,1,5,19,CHI,CHI,fg_miss,6,False,False,,MISS Holiday 2' Driving Layup,15-19,15,19
-0021700607,2018-01-10,NYK,CHI,6.7,1,5,18,CHI,CHI,fg_miss,97,False,False,,MISS Holiday 1' Tip Layup Shot,15-19,15,19
 0021700607,2018-01-10,NYK,CHI,6.7,1,5,18,CHI,CHI,reb,0,False,False,,Holiday REBOUND (Off:2 Def:0),15-19,15,19
-0021700607,2018-01-10,NYK,CHI,6.72,1,5,17,CHI,CHI,reb,0,False,False,,Holiday REBOUND (Off:1 Def:0),15-19,15,19
+0021700607,2018-01-10,NYK,CHI,6.7,1,5,18,CHI,CHI,fg_miss,97,False,False,,MISS Holiday 1' Tip Layup Shot,15-19,15,19
 0021700607,2018-01-10,NYK,CHI,6.72,1,5,17,CHI,CHI,fg_make,97,False,False,,Holiday 1' Tip Layup Shot (2 PTS),15-21,15,21
+0021700607,2018-01-10,NYK,CHI,6.72,1,5,17,CHI,CHI,reb,0,False,False,,Holiday REBOUND (Off:1 Def:0),15-19,15,19
 0021700607,2018-01-10,NYK,CHI,7.08,1,4,55,NYK,NYK,fg3_miss,1,False,False,MISS Thomas 25' 3PT Jump Shot,,15-21,15,21
 0021700607,2018-01-10,NYK,CHI,7.12,1,4,53,CHI,CHI,reb,0,False,False,,Markkanen REBOUND (Off:0 Def:2),15-21,15,21
 0021700607,2018-01-10,NYK,CHI,7.2,1,4,48,CHI,CHI,fg3_miss,1,False,False,,MISS Markkanen 25' 3PT Jump Shot,15-21,15,21
@@ -393,16 +393,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700607,2018-01-10,NYK,CHI,47.63,4,0,22,NYK,CHI,block,63,True,False,block,block,105-105,105,105
 0021700607,2018-01-10,NYK,CHI,47.67,4,0,20,CHI,CHI,reb,0,False,False,,Nwaba REBOUND (Off:1 Def:2),105-105,105,105
 0021700607,2018-01-10,NYK,CHI,47.72,4,0,17,CHI,CHI,fg_miss,6,True,False,,MISS Markkanen 2' Driving Layup,105-105,105,105
-0021700607,2018-01-10,NYK,CHI,47.72,4,0,17,CHI,CHI,reb,0,False,False,,Holiday REBOUND (Off:4 Def:4),105-105,105,105
 0021700607,2018-01-10,NYK,CHI,47.72,4,0,17,CHI,NYK,block,6,True,False,block,block,105-105,105,105
+0021700607,2018-01-10,NYK,CHI,47.72,4,0,17,CHI,CHI,reb,0,False,False,,Holiday REBOUND (Off:4 Def:4),105-105,105,105
 0021700607,2018-01-10,NYK,CHI,47.98,4,0,1,CHI,CHI,fg_miss,1,False,False,,MISS Dunn 13' Jump Shot,105-105,105,105
 0021700607,2018-01-10,NYK,CHI,48.0,4,0,0,NYK,NYK,reb,0,False,False,Jack REBOUND (Off:1 Def:7),,105-105,105,105
 0021700607,2018-01-10,NYK,CHI,48.0,4,0,0,NYK,NYK,timeout,1,False,False,KNICKS Timeout: Regular (Full 6 Short 0),,105-105,105,105
-0021700607,2018-01-10,NYK,CHI,48.0,4,0,0,NYK,NYK,tov,1,False,True,Jack Bad Pass Turnover (P3.T16),,105-105,105,105
 0021700607,2018-01-10,NYK,CHI,48.0,4,0,0,NYK,,period_end,0,False,False,,,105-105,105,105
+0021700607,2018-01-10,NYK,CHI,48.0,4,0,0,NYK,NYK,tov,1,False,True,Jack Bad Pass Turnover (P3.T16),,105-105,105,105
+0021700607,2018-01-10,NYK,CHI,48.0,4,0,0,NYK,CHI,steal,1,False,True,steal,steal,105-105,105,105
 0021700607,2018-01-10,NYK,CHI,48.0,5,5,0,NYK,,period_start,0,False,False,,,105-105,105,105
 0021700607,2018-01-10,NYK,CHI,48.0,5,5,0,,NYK,jump_ball,0,False,False,Jump Ball Porzingis vs. Lopez: Tip to Dunn,,105-105,105,105
-0021700607,2018-01-10,NYK,CHI,48.0,4,0,0,NYK,CHI,steal,1,False,True,steal,steal,105-105,105,105
 0021700607,2018-01-10,NYK,CHI,48.4,5,4,36,CHI,CHI,fg_miss,3,True,False,,MISS Lopez 4' Hook Shot,105-105,105,105
 0021700607,2018-01-10,NYK,CHI,48.4,5,4,36,CHI,NYK,block,3,True,False,block,block,105-105,105,105
 0021700607,2018-01-10,NYK,CHI,48.43,5,4,34,NYK,NYK,reb,0,False,False,Porzingis REBOUND (Off:0 Def:6),,105-105,105,105

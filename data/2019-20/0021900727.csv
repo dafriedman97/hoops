@@ -102,8 +102,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900727,2020-02-01,LAC,MIN,10.33,1,1,40,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:0 Def:3),33-26,33,26
 0021900727,2020-02-01,LAC,MIN,10.52,1,1,29,MIN,MIN,fg_make,6,False,False,,Okogie 1' Driving Layup (4 PTS) (Bates-Diop 1 AST),33-28,33,28
 0021900727,2020-02-01,LAC,MIN,10.75,1,1,15,LAC,LAC,tov,1,False,True,Harrell Bad Pass Turnover (P1.T2),,33-28,33,28
-0021900727,2020-02-01,LAC,MIN,10.75,1,1,15,MIN,LAC,foul,28,False,False,Williams Personal Take Foul (P1.PN) (E.Lewis),,33-28,33,28
 0021900727,2020-02-01,LAC,MIN,10.75,1,1,15,LAC,MIN,steal,1,False,True,steal,steal,33-28,33,28
+0021900727,2020-02-01,LAC,MIN,10.75,1,1,15,MIN,LAC,foul,28,False,False,Williams Personal Take Foul (P1.PN) (E.Lewis),,33-28,33,28
 0021900727,2020-02-01,LAC,MIN,10.75,1,1,15,MIN,MIN,ft_make,11,False,False,,Martin Free Throw 1 of 2 (1 PTS),33-29,33,29
 0021900727,2020-02-01,LAC,MIN,10.75,1,1,15,MIN,MIN,ft_make,12,False,False,,Martin Free Throw 2 of 2 (2 PTS),33-30,33,30
 0021900727,2020-02-01,LAC,MIN,10.97,1,1,2,LAC,LAC,fg_miss,98,False,False,MISS Harrell 3' Cutting Layup Shot,,33-30,33,30
@@ -157,8 +157,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900727,2020-02-01,LAC,MIN,14.92,2,9,5,MIN,MIN,fg3_miss,1,False,False,,MISS Dieng 25' 3PT Jump Shot,44-36,44,36
 0021900727,2020-02-01,LAC,MIN,14.97,2,9,2,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:1 Def:3),,44-36,44,36
 0021900727,2020-02-01,LAC,MIN,15.1,2,8,54,LAC,LAC,fg_miss,5,True,False,MISS Harrell 1' Layup,,44-36,44,36
-0021900727,2020-02-01,LAC,MIN,15.1,2,8,54,MIN,MIN,reb,0,False,False,,Napier REBOUND (Off:0 Def:1),44-36,44,36
 0021900727,2020-02-01,LAC,MIN,15.1,2,8,54,LAC,MIN,block,5,True,False,block,block,44-36,44,36
+0021900727,2020-02-01,LAC,MIN,15.1,2,8,54,MIN,MIN,reb,0,False,False,,Napier REBOUND (Off:0 Def:1),44-36,44,36
 0021900727,2020-02-01,LAC,MIN,15.2,2,8,48,MIN,MIN,fg_make,99,False,False,,Dieng 2' Cutting Finger Roll Layup Shot (2 PTS) (Napier 4 AST),44-38,44,38
 0021900727,2020-02-01,LAC,MIN,15.5,2,8,30,LAC,LAC,tov,1,False,True,Williams Bad Pass Turnover (P2.T5),,44-38,44,38
 0021900727,2020-02-01,LAC,MIN,15.5,2,8,30,LAC,MIN,steal,1,False,True,steal,steal,44-38,44,38
@@ -286,8 +286,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900727,2020-02-01,LAC,MIN,28.75,3,7,15,MIN,MIN,reb,0,False,False,,Wiggins REBOUND (Off:0 Def:4),73-62,73,62
 0021900727,2020-02-01,LAC,MIN,28.87,3,7,8,MIN,MIN,fg_make,101,False,False,,Wiggins 7' Driving Floating Jump Shot (7 PTS),73-64,73,64
 0021900727,2020-02-01,LAC,MIN,28.88,3,7,7,LAC,LAC,tov,1,False,True,Harkless Bad Pass Turnover (P1.T10),,73-64,73,64
-0021900727,2020-02-01,LAC,MIN,28.88,3,7,7,MIN,MIN,tov,4,False,False,,Napier Traveling Turnover (P3.T9),73-64,73,64
 0021900727,2020-02-01,LAC,MIN,28.88,3,7,7,LAC,MIN,steal,1,False,True,steal,steal,73-64,73,64
+0021900727,2020-02-01,LAC,MIN,28.88,3,7,7,MIN,MIN,tov,4,False,False,,Napier Traveling Turnover (P3.T9),73-64,73,64
 0021900727,2020-02-01,LAC,MIN,29.03,3,6,58,LAC,LAC,fg_make,108,False,False,Harkless 1' Cutting Dunk Shot (2 PTS) (Leonard 3 AST),,75-64,75,64
 0021900727,2020-02-01,LAC,MIN,29.3,3,6,42,MIN,MIN,fg_make,9,False,False,,Towns 2' Driving Dunk (21 PTS) (Napier 10 AST),75-66,75,66
 0021900727,2020-02-01,LAC,MIN,29.43,3,6,34,LAC,LAC,fg_make,41,False,False,Beverley 2' Running Layup (9 PTS),,77-66,77,66
@@ -324,8 +324,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900727,2020-02-01,LAC,MIN,32.85,3,3,9,MIN,MIN,fg3_make,1,False,False,,Wiggins 26' 3PT Jump Shot (10 PTS) (McLaughlin 1 AST),88-78,88,78
 0021900727,2020-02-01,LAC,MIN,33.08,3,2,55,LAC,LAC,fg_make,79,False,False,Williams 21' Pullup Jump Shot (15 PTS),,90-78,90,78
 0021900727,2020-02-01,LAC,MIN,33.25,3,2,45,MIN,MIN,fg_miss,5,True,False,,MISS Okogie 2' Layup,90-78,90,78
-0021900727,2020-02-01,LAC,MIN,33.25,3,2,45,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,90-78,90,78
 0021900727,2020-02-01,LAC,MIN,33.25,3,2,45,MIN,LAC,block,5,True,False,block,block,90-78,90,78
+0021900727,2020-02-01,LAC,MIN,33.25,3,2,45,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,90-78,90,78
 0021900727,2020-02-01,LAC,MIN,33.32,3,2,41,MIN,MIN,fg3_miss,1,False,False,,MISS Martin 26' 3PT Jump Shot,90-78,90,78
 0021900727,2020-02-01,LAC,MIN,33.32,3,2,41,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:1 Def:6),90-78,90,78
 0021900727,2020-02-01,LAC,MIN,33.32,3,2,41,MIN,MIN,fg_make,72,False,False,,Towns 2' Putback Layup (26 PTS),90-80,90,80
@@ -374,8 +374,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900727,2020-02-01,LAC,MIN,37.87,4,10,8,LAC,LAC,fg_miss,97,False,False,MISS Harrell 1' Tip Layup Shot,,103-86,103,86
 0021900727,2020-02-01,LAC,MIN,37.88,4,10,7,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:3 Def:3),,103-86,103,86
 0021900727,2020-02-01,LAC,MIN,37.9,4,10,6,LAC,LAC,tov,2,False,True,Harrell Lost Ball Turnover (P3.T13),,103-86,103,86
-0021900727,2020-02-01,LAC,MIN,37.9,4,10,6,MIN,LAC,foul,28,False,False,Williams Personal Take Foul (P3.T1) (M.Dagher),,103-86,103,86
 0021900727,2020-02-01,LAC,MIN,37.9,4,10,6,LAC,MIN,steal,2,False,True,steal,steal,103-86,103,86
+0021900727,2020-02-01,LAC,MIN,37.9,4,10,6,MIN,LAC,foul,28,False,False,Williams Personal Take Foul (P3.T1) (M.Dagher),,103-86,103,86
 0021900727,2020-02-01,LAC,MIN,38.03,4,9,58,MIN,MIN,tov,4,False,False,,Martin Traveling Turnover (P3.T13),103-86,103,86
 0021900727,2020-02-01,LAC,MIN,38.25,4,9,45,LAC,LAC,fg_miss,1,False,False,MISS George 21' Jump Shot,,103-86,103,86
 0021900727,2020-02-01,LAC,MIN,38.28,4,9,43,MIN,MIN,reb,0,False,False,,Martin REBOUND (Off:0 Def:2),103-86,103,86
@@ -385,8 +385,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900727,2020-02-01,LAC,MIN,38.77,4,9,14,LAC,LAC,reb,0,False,False,George REBOUND (Off:1 Def:6),,103-86,103,86
 0021900727,2020-02-01,LAC,MIN,38.77,4,9,14,LAC,LAC,fg_make,107,False,False,George 1' Tip Dunk Shot (21 PTS),,105-86,105,86
 0021900727,2020-02-01,LAC,MIN,38.97,4,9,2,MIN,MIN,fg_miss,6,True,False,,MISS McLaughlin 3' Driving Layup,105-86,105,86
-0021900727,2020-02-01,LAC,MIN,38.97,4,9,2,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,105-86,105,86
 0021900727,2020-02-01,LAC,MIN,38.97,4,9,2,MIN,LAC,block,6,True,False,block,block,105-86,105,86
+0021900727,2020-02-01,LAC,MIN,38.97,4,9,2,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,105-86,105,86
 0021900727,2020-02-01,LAC,MIN,39.02,4,8,59,MIN,MIN,fg3_miss,1,False,False,,MISS Dieng 24' 3PT Jump Shot,105-86,105,86
 0021900727,2020-02-01,LAC,MIN,39.03,4,8,58,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,105-86,105,86
 0021900727,2020-02-01,LAC,MIN,39.03,4,8,58,MIN,LAC,foul,3,False,False,Shamet L.B.FOUL (P4.T2) (T.Ford),,105-86,105,86

@@ -26,8 +26,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000064,2020-12-31,ORL,PHI,2.87,1,9,8,ORL,ORL,fg_miss,5,False,False,MISS Bacon 3' Layup,,4-6,4,6
 0022000064,2020-12-31,ORL,PHI,2.87,1,9,8,PHI,PHI,reb,0,False,False,,Embiid REBOUND (Off:0 Def:1),4-6,4,6
 0022000064,2020-12-31,ORL,PHI,2.97,1,9,2,PHI,PHI,fg_miss,5,True,False,,MISS Simmons 5' Layup,4-6,4,6
-0022000064,2020-12-31,ORL,PHI,2.97,1,9,2,PHI,PHI,reb,0,False,False,,76ers Rebound,4-6,4,6
 0022000064,2020-12-31,ORL,PHI,2.97,1,9,2,PHI,ORL,block,5,True,False,block,block,4-6,4,6
+0022000064,2020-12-31,ORL,PHI,2.97,1,9,2,PHI,PHI,reb,0,False,False,,76ers Rebound,4-6,4,6
 0022000064,2020-12-31,ORL,PHI,3.02,1,8,59,PHI,PHI,fg_miss,1,False,False,,MISS Harris 17' Jump Shot,4-6,4,6
 0022000064,2020-12-31,ORL,PHI,3.05,1,8,57,ORL,ORL,reb,0,False,False,Fournier REBOUND (Off:0 Def:1),,4-6,4,6
 0022000064,2020-12-31,ORL,PHI,3.17,1,8,50,ORL,PHI,foul,1,False,False,,Embiid P.FOUL (P1.T1) (S.Twardoski),4-6,4,6
@@ -63,8 +63,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000064,2020-12-31,ORL,PHI,6.52,1,5,29,PHI,PHI,reb,0,False,False,,Simmons REBOUND (Off:0 Def:3),15-24,15,24
 0022000064,2020-12-31,ORL,PHI,6.85,1,5,9,PHI,PHI,fg_make,9,False,False,,Embiid 3' Driving Dunk (8 PTS),15-26,15,26
 0022000064,2020-12-31,ORL,PHI,7.18,1,4,49,ORL,ORL,fg_miss,47,True,False,MISS Gordon 10' Turnaround Jump Shot,,15-26,15,26
-0022000064,2020-12-31,ORL,PHI,7.18,1,4,49,PHI,PHI,reb,0,False,False,,76ers Rebound,15-26,15,26
 0022000064,2020-12-31,ORL,PHI,7.18,1,4,49,ORL,PHI,block,47,True,False,block,block,15-26,15,26
+0022000064,2020-12-31,ORL,PHI,7.18,1,4,49,PHI,PHI,reb,0,False,False,,76ers Rebound,15-26,15,26
 0022000064,2020-12-31,ORL,PHI,7.38,1,4,37,PHI,ORL,foul,2,False,False,Fournier S.FOUL (P1.T2) (K.Scott),,15-26,15,26
 0022000064,2020-12-31,ORL,PHI,7.38,1,4,37,PHI,PHI,ft_make,11,False,False,,Curry Free Throw 1 of 2 (9 PTS),15-27,15,27
 0022000064,2020-12-31,ORL,PHI,7.38,1,4,37,PHI,PHI,ft_make,12,False,False,,Curry Free Throw 2 of 2 (10 PTS),15-28,15,28
@@ -307,8 +307,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000064,2020-12-31,ORL,PHI,33.67,3,2,20,PHI,PHI,fg_miss,1,False,False,,MISS Embiid 19' Jump Shot,60-98,60,98
 0022000064,2020-12-31,ORL,PHI,33.7,3,2,18,ORL,ORL,reb,0,False,False,Carter-Williams REBOUND (Off:1 Def:4),,60-98,60,98
 0022000064,2020-12-31,ORL,PHI,33.9,3,2,6,ORL,ORL,fg_miss,78,True,False,MISS Anthony 9' Floating Jump Shot,,60-98,60,98
-0022000064,2020-12-31,ORL,PHI,33.9,3,2,6,ORL,ORL,reb,0,False,False,MAGIC Rebound,,60-98,60,98
 0022000064,2020-12-31,ORL,PHI,33.9,3,2,6,ORL,PHI,block,78,True,False,block,block,60-98,60,98
+0022000064,2020-12-31,ORL,PHI,33.9,3,2,6,ORL,ORL,reb,0,False,False,MAGIC Rebound,,60-98,60,98
 0022000064,2020-12-31,ORL,PHI,34.05,3,1,57,ORL,ORL,fg_miss,6,False,False,MISS Anthony 5' Driving Layup,,60-98,60,98
 0022000064,2020-12-31,ORL,PHI,34.05,3,1,57,ORL,ORL,reb,0,False,False,Carter-Williams REBOUND (Off:2 Def:4),,60-98,60,98
 0022000064,2020-12-31,ORL,PHI,34.05,3,1,57,ORL,PHI,foul,2,False,False,,Milton S.FOUL (P1.PN) (K.Scott),60-98,60,98
@@ -330,10 +330,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000064,2020-12-31,ORL,PHI,35.63,3,0,22,ORL,ORL,reb,0,False,False,Anthony REBOUND (Off:0 Def:1),,67-98,67,98
 0022000064,2020-12-31,ORL,PHI,35.97,3,0,2,ORL,ORL,fg_make,79,False,False,Anthony 18' Pullup Jump Shot (6 PTS),,69-98,69,98
 0022000064,2020-12-31,ORL,PHI,36.0,3,0,0,PHI,PHI,fg3_miss,1,True,False,,MISS Milton 33' 3PT Jump Shot,69-98,69,98
+0022000064,2020-12-31,ORL,PHI,36.0,3,0,0,PHI,ORL,block,1,True,False,block,block,69-98,69,98
 0022000064,2020-12-31,ORL,PHI,36.0,3,0,0,PHI,PHI,reb,0,False,False,,76ers Rebound,69-98,69,98
 0022000064,2020-12-31,ORL,PHI,36.0,3,0,0,PHI,,period_end,0,False,False,,,69-98,69,98
 0022000064,2020-12-31,ORL,PHI,36.0,4,12,0,PHI,,period_start,0,False,False,,,69-98,69,98
-0022000064,2020-12-31,ORL,PHI,36.0,3,0,0,PHI,ORL,block,1,True,False,block,block,69-98,69,98
 0022000064,2020-12-31,ORL,PHI,36.27,4,11,44,PHI,PHI,fg3_miss,1,False,False,,MISS Thybulle 26' 3PT Jump Shot,69-98,69,98
 0022000064,2020-12-31,ORL,PHI,36.33,4,11,40,ORL,ORL,reb,0,False,False,Bacon REBOUND (Off:0 Def:2),,69-98,69,98
 0022000064,2020-12-31,ORL,PHI,36.38,4,11,37,PHI,ORL,foul,4,False,False,Birch OFF.Foul (P2) (M.Myers),,69-98,69,98
@@ -376,15 +376,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000064,2020-12-31,ORL,PHI,40.63,4,7,22,PHI,PHI,reb,0,False,False,,Thybulle REBOUND (Off:0 Def:4),76-105,76,105
 0022000064,2020-12-31,ORL,PHI,40.72,4,7,17,PHI,PHI,fg_make,41,False,False,,Milton 3' Running Layup (14 PTS),76-107,76,107
 0022000064,2020-12-31,ORL,PHI,40.92,4,7,5,ORL,ORL,fg_miss,79,True,False,MISS Anthony 18' Pullup Jump Shot,,76-107,76,107
-0022000064,2020-12-31,ORL,PHI,40.92,4,7,5,PHI,PHI,reb,0,False,False,,Milton REBOUND (Off:0 Def:4),76-107,76,107
 0022000064,2020-12-31,ORL,PHI,40.92,4,7,5,ORL,PHI,block,79,True,False,block,block,76-107,76,107
+0022000064,2020-12-31,ORL,PHI,40.92,4,7,5,PHI,PHI,reb,0,False,False,,Milton REBOUND (Off:0 Def:4),76-107,76,107
 0022000064,2020-12-31,ORL,PHI,41.07,4,6,56,PHI,PHI,fg3_make,1,False,False,,Howard 25' 3PT Jump Shot (7 PTS) (Milton 6 AST),76-110,76,110
 0022000064,2020-12-31,ORL,PHI,41.07,4,6,56,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 5 Short 0),,76-110,76,110
 0022000064,2020-12-31,ORL,PHI,41.32,4,6,41,ORL,ORL,fg_make,73,False,False,Anthony 3' Driving Reverse Layup (11 PTS) (Bone 1 AST),,78-110,78,110
 0022000064,2020-12-31,ORL,PHI,41.63,4,6,22,PHI,PHI,fg_make,79,False,False,,Maxey 15' Pullup Jump Shot (8 PTS),78-112,78,112
 0022000064,2020-12-31,ORL,PHI,41.92,4,6,5,ORL,ORL,fg_miss,6,True,False,MISS Mane 4' Driving Layup,,78-112,78,112
-0022000064,2020-12-31,ORL,PHI,41.92,4,6,5,ORL,ORL,reb,0,False,False,MAGIC Rebound,,78-112,78,112
 0022000064,2020-12-31,ORL,PHI,41.92,4,6,5,ORL,PHI,block,6,True,False,block,block,78-112,78,112
+0022000064,2020-12-31,ORL,PHI,41.92,4,6,5,ORL,ORL,reb,0,False,False,MAGIC Rebound,,78-112,78,112
 0022000064,2020-12-31,ORL,PHI,42.05,4,5,57,ORL,PHI,foul,2,False,False,,Joe S.FOUL (P1.T3) (K.Scott),78-112,78,112
 0022000064,2020-12-31,ORL,PHI,42.05,4,5,57,ORL,ORL,ft_make,11,False,False,Anthony Free Throw 1 of 2 (12 PTS),,79-112,79,112
 0022000064,2020-12-31,ORL,PHI,42.05,4,5,57,ORL,ORL,ft_make,12,False,False,Anthony Free Throw 2 of 2 (13 PTS),,80-112,80,112

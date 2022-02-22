@@ -32,8 +32,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000086,2021-01-03,BKN,WAS,3.05,1,8,57,BKN,BKN,tov,37,False,False,Jordan Offensive Foul Turnover (P1.T2),,5-7,5,7
 0022000086,2021-01-03,BKN,WAS,3.15,1,8,51,WAS,WAS,fg_miss,6,True,False,,MISS Westbrook 3' Driving Layup,5-7,5,7
 0022000086,2021-01-03,BKN,WAS,3.15,1,8,51,WAS,BKN,block,6,True,False,block,block,5-7,5,7
-0022000086,2021-01-03,BKN,WAS,3.22,1,8,47,BKN,BKN,reb,0,False,False,NETS Rebound,,5-7,5,7
 0022000086,2021-01-03,BKN,WAS,3.22,1,8,47,,BKN,jump_ball,0,False,False,,,5-7,5,7
+0022000086,2021-01-03,BKN,WAS,3.22,1,8,47,BKN,BKN,reb,0,False,False,NETS Rebound,,5-7,5,7
 0022000086,2021-01-03,BKN,WAS,3.4,1,8,36,BKN,BKN,fg3_miss,1,False,False,MISS Harris 27' 3PT Jump Shot,,5-7,5,7
 0022000086,2021-01-03,BKN,WAS,3.47,1,8,32,WAS,WAS,reb,0,False,False,,Hachimura REBOUND (Off:0 Def:1),5-7,5,7
 0022000086,2021-01-03,BKN,WAS,3.67,1,8,20,WAS,WAS,fg_make,79,False,False,,Beal 15' Pullup Jump Shot (2 PTS),5-9,5,9
@@ -71,11 +71,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000086,2021-01-03,BKN,WAS,6.75,1,5,15,BKN,BKN,fg3_miss,1,False,False,MISS Irving 3PT Jump Shot,,15-15,15,15
 0022000086,2021-01-03,BKN,WAS,6.8,1,5,12,WAS,WAS,reb,0,False,False,,Smith REBOUND (Off:0 Def:1),15-15,15,15
 0022000086,2021-01-03,BKN,WAS,6.83,1,5,10,WAS,WAS,fg_miss,41,True,False,,MISS Smith 6' Running Layup,15-15,15,15
+0022000086,2021-01-03,BKN,WAS,6.83,1,5,10,WAS,BKN,block,41,True,False,block,block,15-15,15,15
 0022000086,2021-01-03,BKN,WAS,6.83,1,5,10,WAS,WAS,reb,0,False,False,,Wizards Rebound,15-15,15,15
+0022000086,2021-01-03,BKN,WAS,6.83,1,5,10,BKN,BKN,ft_make,16,False,False,Irving Free Throw Technical (6 PTS),,16-15,16,15
 0022000086,2021-01-03,BKN,WAS,6.83,1,5,10,WAS,,foul,11,False,False,,,15-15,15,15
 0022000086,2021-01-03,BKN,WAS,6.83,1,5,10,BKN,WAS,foul,11,False,False,,Westbrook T.FOUL (P1.T4) (G.Petraitis),15-15,15,15
-0022000086,2021-01-03,BKN,WAS,6.83,1,5,10,WAS,BKN,block,41,True,False,block,block,15-15,15,15
-0022000086,2021-01-03,BKN,WAS,6.83,1,5,10,BKN,BKN,ft_make,16,False,False,Irving Free Throw Technical (6 PTS),,16-15,16,15
 0022000086,2021-01-03,BKN,WAS,6.83,1,5,10,BKN,BKN,ft_make,16,False,False,Irving Free Throw Technical (7 PTS),,17-15,17,15
 0022000086,2021-01-03,BKN,WAS,6.97,1,5,2,WAS,WAS,fg_make,108,False,False,,Bryant 3' Cutting Dunk Shot (2 PTS) (Smith 1 AST),17-17,17,17
 0022000086,2021-01-03,BKN,WAS,7.13,1,4,52,BKN,BKN,fg3_make,1,False,False,Irving 28' 3PT Jump Shot (10 PTS),,20-17,20,17
@@ -322,8 +322,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000086,2021-01-03,BKN,WAS,32.0,3,4,0,BKN,BKN,fg_miss,1,False,False,MISS Allen 11' Jump Shot,,87-90,87,90
 0022000086,2021-01-03,BKN,WAS,32.03,3,3,58,BKN,BKN,reb,0,False,False,Allen REBOUND (Off:2 Def:7),,87-90,87,90
 0022000086,2021-01-03,BKN,WAS,32.07,3,3,56,BKN,BKN,fg_miss,5,True,False,MISS Allen 3' Layup,,87-90,87,90
-0022000086,2021-01-03,BKN,WAS,32.07,3,3,56,WAS,WAS,reb,0,False,False,,Smith REBOUND (Off:2 Def:2),87-90,87,90
 0022000086,2021-01-03,BKN,WAS,32.07,3,3,56,BKN,WAS,block,5,True,False,block,block,87-90,87,90
+0022000086,2021-01-03,BKN,WAS,32.07,3,3,56,WAS,WAS,reb,0,False,False,,Smith REBOUND (Off:2 Def:2),87-90,87,90
 0022000086,2021-01-03,BKN,WAS,32.27,3,3,44,WAS,WAS,fg_make,6,False,False,,Smith 2' Driving Layup (5 PTS),87-92,87,92
 0022000086,2021-01-03,BKN,WAS,32.53,3,3,28,BKN,BKN,tov,1,False,True,Allen Bad Pass Turnover (P1.T14),,87-92,87,92
 0022000086,2021-01-03,BKN,WAS,32.53,3,3,28,BKN,WAS,steal,1,False,True,steal,steal,87-92,87,92
@@ -378,19 +378,19 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000086,2021-01-03,BKN,WAS,37.65,4,10,21,BKN,BKN,reb,0,False,False,LeVert REBOUND (Off:1 Def:4),,99-98,99,98
 0022000086,2021-01-03,BKN,WAS,37.85,4,10,9,BKN,BKN,fg_miss,101,False,False,MISS LeVert 8' Driving Floating Jump Shot,,99-98,99,98
 0022000086,2021-01-03,BKN,WAS,37.92,4,10,5,WAS,WAS,reb,0,False,False,,Robinson REBOUND (Off:0 Def:2),99-98,99,98
-0022000086,2021-01-03,BKN,WAS,38.13,4,9,52,WAS,WAS,fg_miss,6,True,False,,MISS Bertans 7' Driving Layup,99-98,99,98
-0022000086,2021-01-03,BKN,WAS,38.13,4,9,52,WAS,WAS,reb,0,False,False,,Lopez REBOUND (Off:1 Def:3),99-98,99,98
 0022000086,2021-01-03,BKN,WAS,38.13,4,9,52,WAS,BKN,foul,2,False,False,Prince S.FOUL (P2.T1) (J.Tiven),,99-98,99,98
 0022000086,2021-01-03,BKN,WAS,38.13,4,9,52,WAS,WAS,ft_miss,11,False,False,,MISS Lopez Free Throw 1 of 2,99-98,99,98
 0022000086,2021-01-03,BKN,WAS,38.13,4,9,52,WAS,WAS,reb,1,False,False,,Wizards Rebound,99-98,99,98
-0022000086,2021-01-03,BKN,WAS,38.13,4,9,52,WAS,BKN,block,6,True,False,block,block,99-98,99,98
 0022000086,2021-01-03,BKN,WAS,38.13,4,9,52,WAS,WAS,ft_make,12,False,False,,Lopez Free Throw 2 of 2 (8 PTS),99-99,99,99
+0022000086,2021-01-03,BKN,WAS,38.13,4,9,52,WAS,WAS,fg_miss,6,True,False,,MISS Bertans 7' Driving Layup,99-98,99,98
+0022000086,2021-01-03,BKN,WAS,38.13,4,9,52,WAS,BKN,block,6,True,False,block,block,99-98,99,98
+0022000086,2021-01-03,BKN,WAS,38.13,4,9,52,WAS,WAS,reb,0,False,False,,Lopez REBOUND (Off:1 Def:3),99-98,99,98
 0022000086,2021-01-03,BKN,WAS,38.45,4,9,33,BKN,BKN,fg_miss,1,False,False,MISS Allen 16' Jump Shot,,99-99,99,99
 0022000086,2021-01-03,BKN,WAS,38.5,4,9,30,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:3),99-99,99,99
 0022000086,2021-01-03,BKN,WAS,38.62,4,9,23,WAS,BKN,foul,1,False,False,Prince P.FOUL (P3.T2) (J.Tiven),,99-99,99,99
 0022000086,2021-01-03,BKN,WAS,38.72,4,9,17,WAS,WAS,fg_miss,6,True,False,,MISS Neto 3' Driving Layup,99-99,99,99
-0022000086,2021-01-03,BKN,WAS,38.72,4,9,17,WAS,WAS,reb,0,False,False,,Wizards Rebound,99-99,99,99
 0022000086,2021-01-03,BKN,WAS,38.72,4,9,17,WAS,BKN,block,6,True,False,block,block,99-99,99,99
+0022000086,2021-01-03,BKN,WAS,38.72,4,9,17,WAS,WAS,reb,0,False,False,,Wizards Rebound,99-99,99,99
 0022000086,2021-01-03,BKN,WAS,38.83,4,9,10,WAS,WAS,fg_miss,1,False,False,,MISS Westbrook 14' Jump Shot,99-99,99,99
 0022000086,2021-01-03,BKN,WAS,38.92,4,9,5,WAS,WAS,reb,0,False,False,,Lopez REBOUND (Off:2 Def:3),99-99,99,99
 0022000086,2021-01-03,BKN,WAS,38.92,4,9,5,WAS,WAS,fg_miss,72,False,False,,MISS Lopez Putback Layup,99-99,99,99

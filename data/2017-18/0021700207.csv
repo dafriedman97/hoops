@@ -160,8 +160,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700207,2017-11-15,CHA,CLE,16.75,2,7,15,CLE,CHA,block,5,True,False,block,block,44-45,44,45
 0021700207,2017-11-15,CHA,CLE,16.77,2,7,14,CLE,CLE,reb,0,False,False,,Green REBOUND (Off:1 Def:1),44-45,44,45
 0021700207,2017-11-15,CHA,CLE,16.8,2,7,12,CLE,CLE,fg_miss,5,True,False,,MISS Green 11' Layup,44-45,44,45
-0021700207,2017-11-15,CHA,CLE,16.8,2,7,12,CLE,CLE,reb,0,False,False,,Wade REBOUND (Off:1 Def:2),44-45,44,45
 0021700207,2017-11-15,CHA,CLE,16.8,2,7,12,CLE,CHA,block,5,True,False,block,block,44-45,44,45
+0021700207,2017-11-15,CHA,CLE,16.8,2,7,12,CLE,CLE,reb,0,False,False,,Wade REBOUND (Off:1 Def:2),44-45,44,45
 0021700207,2017-11-15,CHA,CLE,16.83,2,7,10,CLE,CLE,fg_miss,1,False,False,,MISS Wade 9' Jump Shot,44-45,44,45
 0021700207,2017-11-15,CHA,CLE,16.85,2,7,9,CHA,CHA,reb,0,False,False,Monk REBOUND (Off:0 Def:2),,44-45,44,45
 0021700207,2017-11-15,CHA,CLE,17.15,2,6,51,CHA,CHA,fg_make,5,False,False,Kaminsky 1' Layup (2 PTS),,46-45,46,45
@@ -201,8 +201,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700207,2017-11-15,CHA,CLE,20.73,2,3,16,CLE,CLE,fg_miss,1,False,False,,MISS Smith 21' Jump Shot,53-52,53,52
 0021700207,2017-11-15,CHA,CLE,20.73,2,3,16,CHA,CHA,reb,0,False,False,Kaminsky REBOUND (Off:0 Def:2),,53-52,53,52
 0021700207,2017-11-15,CHA,CLE,20.92,2,3,5,CHA,CHA,fg_miss,5,True,False,MISS Walker 4' Layup,,53-52,53,52
-0021700207,2017-11-15,CHA,CLE,20.92,2,3,5,CHA,CHA,reb,0,False,False,HORNETS Rebound,,53-52,53,52
 0021700207,2017-11-15,CHA,CLE,20.92,2,3,5,CHA,CLE,block,5,True,False,block,block,53-52,53,52
+0021700207,2017-11-15,CHA,CLE,20.92,2,3,5,CHA,CHA,reb,0,False,False,HORNETS Rebound,,53-52,53,52
 0021700207,2017-11-15,CHA,CLE,20.98,2,3,1,CHA,CHA,fg3_make,1,False,False,Batum 3PT Jump Shot (13 PTS) (Williams 1 AST),,56-52,56,52
 0021700207,2017-11-15,CHA,CLE,21.27,2,2,44,CLE,CLE,tov,1,False,True,,James Bad Pass Turnover (P1.T7),56-52,56,52
 0021700207,2017-11-15,CHA,CLE,21.27,2,2,44,CLE,CHA,steal,1,False,True,steal,steal,56-52,56,52
@@ -210,9 +210,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700207,2017-11-15,CHA,CLE,21.35,2,2,39,CHA,CHA,reb,0,False,False,Batum REBOUND (Off:1 Def:2),,56-52,56,52
 0021700207,2017-11-15,CHA,CLE,21.35,2,2,39,CHA,CHA,fg_make,87,False,False,Batum 1' Putback Dunk (15 PTS),,58-52,58,52
 0021700207,2017-11-15,CHA,CLE,21.62,2,2,23,CLE,CLE,fg_miss,1,True,False,,MISS James 6' Jump Shot,58-52,58,52
+0021700207,2017-11-15,CHA,CLE,21.62,2,2,23,CLE,CHA,block,1,True,False,block,block,58-52,58,52
 0021700207,2017-11-15,CHA,CLE,21.62,2,2,23,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,58-52,58,52
 0021700207,2017-11-15,CHA,CLE,21.62,2,2,23,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 2 Short 0),,58-52,58,52
-0021700207,2017-11-15,CHA,CLE,21.62,2,2,23,CLE,CHA,block,1,True,False,block,block,58-52,58,52
 0021700207,2017-11-15,CHA,CLE,21.75,2,2,15,CLE,CLE,fg_make,2,False,False,,Smith 12' Running Jump Shot (5 PTS) (Shumpert 3 AST),58-54,58,54
 0021700207,2017-11-15,CHA,CLE,22.05,2,1,57,CHA,CHA,fg_make,6,False,False,Williams 10' Driving Layup (5 PTS) (Walker 6 AST),,60-54,60,54
 0021700207,2017-11-15,CHA,CLE,22.05,2,1,57,CHA,CLE,foul,2,False,False,,Crowder S.FOUL (P2.PN) (C.Kirkland),60-54,60,54
@@ -231,8 +231,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700207,2017-11-15,CHA,CLE,23.45,2,0,33,CHA,CHA,ft_make,10,False,False,Walker Free Throw 1 of 1 (12 PTS),,67-59,67,59
 0021700207,2017-11-15,CHA,CLE,23.7,2,0,18,CLE,CLE,fg_make,5,False,False,,Love 2' Layup (14 PTS) (Smith 3 AST),67-61,67,61
 0021700207,2017-11-15,CHA,CLE,23.98,2,0,1,CHA,CHA,fg_miss,5,True,False,MISS Zeller 3' Layup,,67-61,67,61
-0021700207,2017-11-15,CHA,CLE,23.98,2,0,1,CLE,CLE,reb,0,False,False,,Love REBOUND (Off:1 Def:4),67-61,67,61
 0021700207,2017-11-15,CHA,CLE,23.98,2,0,1,CHA,CLE,block,5,True,False,block,block,67-61,67,61
+0021700207,2017-11-15,CHA,CLE,23.98,2,0,1,CLE,CLE,reb,0,False,False,,Love REBOUND (Off:1 Def:4),67-61,67,61
 0021700207,2017-11-15,CHA,CLE,24.0,2,0,0,CLE,CLE,fg3_miss,1,False,False,,MISS Smith 42' 3PT Jump Shot,67-61,67,61
 0021700207,2017-11-15,CHA,CLE,24.0,2,0,0,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,67-61,67,61
 0021700207,2017-11-15,CHA,CLE,24.0,2,0,0,CLE,,period_end,0,False,False,,,67-61,67,61
@@ -246,8 +246,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700207,2017-11-15,CHA,CLE,24.95,3,11,3,CHA,CHA,fg_make,9,False,False,Kidd-Gilchrist 1' Driving Dunk (12 PTS) (Batum 3 AST),,69-63,69,63
 0021700207,2017-11-15,CHA,CLE,25.27,3,10,44,CLE,CLE,fg_make,5,False,False,,Love 2' Layup (18 PTS) (Crowder 2 AST),69-65,69,65
 0021700207,2017-11-15,CHA,CLE,25.55,3,10,27,CHA,CHA,tov,2,False,True,Howard Lost Ball Turnover (P3.T7),,69-65,69,65
-0021700207,2017-11-15,CHA,CLE,25.55,3,10,27,CLE,CHA,foul,3,False,False,Howard L.B.FOUL (P3.T1) (D.Stafford),,69-65,69,65
 0021700207,2017-11-15,CHA,CLE,25.55,3,10,27,CHA,CLE,steal,2,False,True,steal,steal,69-65,69,65
+0021700207,2017-11-15,CHA,CLE,25.55,3,10,27,CLE,CHA,foul,3,False,False,Howard L.B.FOUL (P3.T1) (D.Stafford),,69-65,69,65
 0021700207,2017-11-15,CHA,CLE,25.67,3,10,20,CLE,CLE,tov,39,False,False,,Love Step Out of Bounds Turnover (P2.T8),69-65,69,65
 0021700207,2017-11-15,CHA,CLE,25.87,3,10,8,CHA,CHA,fg_miss,1,False,False,MISS Kidd-Gilchrist 20' Jump Shot,,69-65,69,65
 0021700207,2017-11-15,CHA,CLE,25.93,3,10,4,CLE,CLE,reb,0,False,False,,Shumpert REBOUND (Off:2 Def:1),69-65,69,65
@@ -427,8 +427,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700207,2017-11-15,CHA,CLE,45.77,4,2,14,CLE,CLE,fg_miss,6,False,False,,MISS James 3' Driving Layup,103-111,103,111
 0021700207,2017-11-15,CHA,CLE,45.8,4,2,12,CLE,CLE,reb,0,False,False,,Love REBOUND (Off:2 Def:8),103-111,103,111
 0021700207,2017-11-15,CHA,CLE,45.82,4,2,11,CLE,CLE,fg_miss,5,True,False,,MISS Love 2' Layup,103-111,103,111
-0021700207,2017-11-15,CHA,CLE,45.82,4,2,11,CHA,CHA,reb,0,False,False,Howard REBOUND (Off:3 Def:2),,103-111,103,111
 0021700207,2017-11-15,CHA,CLE,45.82,4,2,11,CLE,CHA,block,5,True,False,block,block,103-111,103,111
+0021700207,2017-11-15,CHA,CLE,45.82,4,2,11,CHA,CHA,reb,0,False,False,Howard REBOUND (Off:3 Def:2),,103-111,103,111
 0021700207,2017-11-15,CHA,CLE,45.92,4,2,5,CHA,CHA,fg3_miss,1,False,False,MISS Batum 26' 3PT Jump Shot,,103-111,103,111
 0021700207,2017-11-15,CHA,CLE,45.92,4,2,5,CLE,CLE,reb,0,False,False,,Smith REBOUND (Off:0 Def:5),103-111,103,111
 0021700207,2017-11-15,CHA,CLE,45.95,4,2,3,CLE,CLE,timeout,1,False,False,,Cavaliers Timeout: Regular (Reg.4 Short 0),103-111,103,111

@@ -123,8 +123,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800024,2018-10-19,UTA,GSW,12.35,2,11,39,GSW,GSW,fg3_miss,1,False,False,,MISS Thompson 26' 3PT Jump Shot,34-32,34,32
 0021800024,2018-10-19,UTA,GSW,12.4,2,11,36,UTA,UTA,reb,0,False,False,Exum REBOUND (Off:0 Def:2),,34-32,34,32
 0021800024,2018-10-19,UTA,GSW,12.57,2,11,26,UTA,UTA,tov,1,False,True,Exum Bad Pass Turnover (P1.T3),,34-32,34,32
-0021800024,2018-10-19,UTA,GSW,12.57,2,11,26,GSW,GSW,tov,39,False,False,,McKinnie Step Out of Bounds Turnover (P1.T4),34-32,34,32
 0021800024,2018-10-19,UTA,GSW,12.57,2,11,26,UTA,GSW,steal,1,False,True,steal,steal,34-32,34,32
+0021800024,2018-10-19,UTA,GSW,12.57,2,11,26,GSW,GSW,tov,39,False,False,,McKinnie Step Out of Bounds Turnover (P1.T4),34-32,34,32
 0021800024,2018-10-19,UTA,GSW,12.67,2,11,20,GSW,UTA,foul,26,False,False,Favors Offensive Charge Foul (P3.T1) (L.Wood),,34-32,34,32
 0021800024,2018-10-19,UTA,GSW,12.67,2,11,20,UTA,UTA,tov,37,False,False,Favors Offensive Foul Turnover (P3.T4),,34-32,34,32
 0021800024,2018-10-19,UTA,GSW,12.87,2,11,8,GSW,GSW,fg_miss,80,False,False,,MISS Thompson 20' Step Back Jump Shot,34-32,34,32
@@ -159,8 +159,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800024,2018-10-19,UTA,GSW,15.78,2,8,13,GSW,GSW,ft_make,12,False,False,,Thompson Free Throw 2 of 2 (6 PTS),39-41,39,41
 0021800024,2018-10-19,UTA,GSW,16.17,2,7,50,UTA,UTA,fg_make,101,False,False,Exum 11' Driving Floating Jump Shot (8 PTS),,41-41,41,41
 0021800024,2018-10-19,UTA,GSW,16.47,2,7,32,GSW,GSW,fg_miss,5,True,False,,MISS Curry 4' Layup,41-41,41,41
-0021800024,2018-10-19,UTA,GSW,16.47,2,7,32,GSW,GSW,reb,0,False,False,,Warriors Rebound,41-41,41,41
 0021800024,2018-10-19,UTA,GSW,16.47,2,7,32,GSW,UTA,block,5,True,False,block,block,41-41,41,41
+0021800024,2018-10-19,UTA,GSW,16.47,2,7,32,GSW,GSW,reb,0,False,False,,Warriors Rebound,41-41,41,41
 0021800024,2018-10-19,UTA,GSW,16.48,2,7,31,GSW,UTA,foul,2,False,False,Exum S.FOUL (P1.T4) (M.Callahan),,41-41,41,41
 0021800024,2018-10-19,UTA,GSW,16.48,2,7,31,GSW,GSW,ft_make,11,False,False,,Thompson Free Throw 1 of 2 (7 PTS),41-42,41,42
 0021800024,2018-10-19,UTA,GSW,16.48,2,7,31,GSW,GSW,ft_make,12,False,False,,Thompson Free Throw 2 of 2 (8 PTS),41-43,41,43
@@ -175,8 +175,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800024,2018-10-19,UTA,GSW,17.85,2,6,9,GSW,GSW,tov,1,False,True,,Green Bad Pass Turnover (P1.T5),49-47,49,47
 0021800024,2018-10-19,UTA,GSW,17.85,2,6,9,GSW,UTA,steal,1,False,True,steal,steal,49-47,49,47
 0021800024,2018-10-19,UTA,GSW,17.92,2,6,5,UTA,UTA,fg_miss,5,True,False,MISS Niang 3' Layup,,49-47,49,47
-0021800024,2018-10-19,UTA,GSW,17.92,2,6,5,UTA,UTA,reb,0,False,False,JAZZ Rebound,,49-47,49,47
 0021800024,2018-10-19,UTA,GSW,17.92,2,6,5,UTA,GSW,block,5,True,False,block,block,49-47,49,47
+0021800024,2018-10-19,UTA,GSW,17.92,2,6,5,UTA,UTA,reb,0,False,False,JAZZ Rebound,,49-47,49,47
 0021800024,2018-10-19,UTA,GSW,17.95,2,6,3,UTA,UTA,fg3_miss,1,False,False,MISS Mitchell 25' 3PT Jump Shot,,49-47,49,47
 0021800024,2018-10-19,UTA,GSW,18.02,2,5,59,GSW,GSW,reb,0,False,False,,McKinnie REBOUND (Off:0 Def:1),49-47,49,47
 0021800024,2018-10-19,UTA,GSW,18.22,2,5,47,GSW,GSW,fg3_make,1,False,False,,Durant 24' 3PT Jump Shot (13 PTS),49-50,49,50
@@ -280,11 +280,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800024,2018-10-19,UTA,GSW,29.88,3,6,7,GSW,GSW,fg_miss,97,False,False,,MISS Jones 1' Tip Layup Shot,92-82,92,82
 0021800024,2018-10-19,UTA,GSW,29.88,3,6,7,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:2 Def:7),,92-82,92,82
 0021800024,2018-10-19,UTA,GSW,29.92,3,6,5,UTA,UTA,fg3_make,1,False,False,Mitchell 3PT Jump Shot (19 PTS) (Ingles 2 AST),,95-82,95,82
-0021800024,2018-10-19,UTA,GSW,30.23,3,5,46,GSW,GSW,tov,1,False,True,,Green Bad Pass Turnover (P3.T10),95-82,95,82
-0021800024,2018-10-19,UTA,GSW,30.23,3,5,46,UTA,UTA,tov,1,False,True,Gobert Bad Pass Turnover (P1.T9),,95-82,95,82
 0021800024,2018-10-19,UTA,GSW,30.23,3,5,46,UTA,GSW,foul,4,False,False,,Green OFF.Foul (P3) (L.Wood),95-82,95,82
 0021800024,2018-10-19,UTA,GSW,30.23,3,5,46,GSW,GSW,tov,37,False,False,,Green Offensive Foul Turnover (P4.T11),95-82,95,82
+0021800024,2018-10-19,UTA,GSW,30.23,3,5,46,GSW,GSW,tov,1,False,True,,Green Bad Pass Turnover (P3.T10),95-82,95,82
 0021800024,2018-10-19,UTA,GSW,30.23,3,5,46,GSW,UTA,steal,1,False,True,steal,steal,95-82,95,82
+0021800024,2018-10-19,UTA,GSW,30.23,3,5,46,UTA,UTA,tov,1,False,True,Gobert Bad Pass Turnover (P1.T9),,95-82,95,82
 0021800024,2018-10-19,UTA,GSW,30.23,3,5,46,UTA,GSW,steal,1,False,True,steal,steal,95-82,95,82
 0021800024,2018-10-19,UTA,GSW,30.4,3,5,36,UTA,UTA,fg3_make,1,False,False,Crowder 24' 3PT Jump Shot (15 PTS) (Gobert 2 AST),,98-82,98,82
 0021800024,2018-10-19,UTA,GSW,30.68,3,5,19,GSW,GSW,fg_make,6,False,False,,Curry 4' Driving Layup (16 PTS),98-84,98,84
@@ -355,8 +355,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800024,2018-10-19,UTA,GSW,38.65,4,9,21,GSW,GSW,ft_make,11,False,False,,Durant Free Throw 1 of 2 (33 PTS),109-100,109,100
 0021800024,2018-10-19,UTA,GSW,38.65,4,9,21,GSW,GSW,ft_make,12,False,False,,Durant Free Throw 2 of 2 (34 PTS),109-101,109,101
 0021800024,2018-10-19,UTA,GSW,38.88,4,9,7,UTA,UTA,fg_miss,43,True,False,MISS Favors 3' Alley Oop Layup,,109-101,109,101
-0021800024,2018-10-19,UTA,GSW,38.88,4,9,7,GSW,GSW,reb,0,False,False,,Durant REBOUND (Off:0 Def:6),109-101,109,101
 0021800024,2018-10-19,UTA,GSW,38.88,4,9,7,UTA,GSW,block,43,True,False,block,block,109-101,109,101
+0021800024,2018-10-19,UTA,GSW,38.88,4,9,7,GSW,GSW,reb,0,False,False,,Durant REBOUND (Off:0 Def:6),109-101,109,101
 0021800024,2018-10-19,UTA,GSW,39.05,4,8,57,GSW,GSW,tov,1,False,True,,Livingston Bad Pass Turnover (P1.T15),109-101,109,101
 0021800024,2018-10-19,UTA,GSW,39.05,4,8,57,GSW,UTA,steal,1,False,True,steal,steal,109-101,109,101
 0021800024,2018-10-19,UTA,GSW,39.12,4,8,53,UTA,GSW,foul,2,False,False,,Durant S.FOUL (P3.T2) (M.Callahan),109-101,109,101
@@ -418,9 +418,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800024,2018-10-19,UTA,GSW,45.58,4,2,25,GSW,GSW,tov,1,False,True,,Green Bad Pass Turnover (P5.T16),121-119,121,119
 0021800024,2018-10-19,UTA,GSW,45.58,4,2,25,GSW,UTA,steal,1,False,True,steal,steal,121-119,121,119
 0021800024,2018-10-19,UTA,GSW,46.0,4,2,0,UTA,UTA,fg3_miss,1,True,False,MISS Mitchell 25' 3PT Jump Shot,,121-119,121,119
+0021800024,2018-10-19,UTA,GSW,46.0,4,2,0,UTA,GSW,block,1,True,False,block,block,121-119,121,119
 0021800024,2018-10-19,UTA,GSW,46.0,4,2,0,UTA,UTA,reb,0,False,False,Mitchell REBOUND (Off:1 Def:1),,121-119,121,119
 0021800024,2018-10-19,UTA,GSW,46.0,4,2,0,UTA,UTA,tov,11,False,False,JAZZ Turnover: Shot Clock (T#16),,121-119,121,119
-0021800024,2018-10-19,UTA,GSW,46.0,4,2,0,UTA,GSW,block,1,True,False,block,block,121-119,121,119
 0021800024,2018-10-19,UTA,GSW,46.25,4,1,45,GSW,GSW,fg3_make,1,False,False,,Curry 25' 3PT Jump Shot (31 PTS) (Durant 7 AST),121-122,121,122
 0021800024,2018-10-19,UTA,GSW,46.52,4,1,29,UTA,UTA,fg_miss,5,False,False,MISS Mitchell 4' Layup,,121-122,121,122
 0021800024,2018-10-19,UTA,GSW,46.52,4,1,29,UTA,UTA,reb,0,False,False,JAZZ Rebound,,121-122,121,122

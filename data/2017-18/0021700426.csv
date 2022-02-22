@@ -148,8 +148,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700426,2017-12-15,MIL,CHI,14.28,2,9,43,CHI,CHI,ft_make,12,False,False,,Portis Free Throw 2 of 2 (12 PTS),37-37,37,37
 0021700426,2017-12-15,MIL,CHI,14.65,2,9,21,MIL,MIL,fg_make,7,False,False,Antetokounmpo Dunk (12 PTS) (Vaughn 1 AST),,39-37,39,37
 0021700426,2017-12-15,MIL,CHI,14.83,2,9,10,CHI,CHI,fg_miss,5,True,False,,MISS Portis 3' Layup,39-37,39,37
-0021700426,2017-12-15,MIL,CHI,14.83,2,9,10,MIL,MIL,reb,0,False,False,BUCKS Rebound,,39-37,39,37
 0021700426,2017-12-15,MIL,CHI,14.83,2,9,10,CHI,MIL,block,5,True,False,block,block,39-37,39,37
+0021700426,2017-12-15,MIL,CHI,14.83,2,9,10,MIL,MIL,reb,0,False,False,BUCKS Rebound,,39-37,39,37
 0021700426,2017-12-15,MIL,CHI,15.17,2,8,50,MIL,MIL,fg3_make,1,False,False,Maker 3PT Jump Shot (3 PTS) (Vaughn 2 AST),,42-37,42,37
 0021700426,2017-12-15,MIL,CHI,15.35,2,8,39,CHI,CHI,fg_make,67,False,False,,Portis 3' Hook Bank Shot (14 PTS) (Grant 1 AST),42-39,42,39
 0021700426,2017-12-15,MIL,CHI,15.62,2,8,23,MIL,MIL,fg3_miss,1,False,False,MISS Maker 3PT Jump Shot,,42-39,42,39
@@ -237,9 +237,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700426,2017-12-15,MIL,CHI,23.83,2,0,10,CHI,CHI,ft_miss,12,False,False,,MISS Grant Free Throw 2 of 2,58-59,58,59
 0021700426,2017-12-15,MIL,CHI,23.87,2,0,8,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:2 Def:5),,58-59,58,59
 0021700426,2017-12-15,MIL,CHI,24.0,2,0,0,MIL,MIL,tov,1,False,True,Bledsoe Bad Pass Turnover (P3.T7),,58-59,58,59
+0021700426,2017-12-15,MIL,CHI,24.0,2,0,0,MIL,CHI,steal,1,False,True,steal,steal,58-59,58,59
 0021700426,2017-12-15,MIL,CHI,24.0,2,0,0,MIL,,period_end,0,False,False,,,58-59,58,59
 0021700426,2017-12-15,MIL,CHI,24.0,3,12,0,MIL,,period_start,0,False,False,,,58-59,58,59
-0021700426,2017-12-15,MIL,CHI,24.0,2,0,0,MIL,CHI,steal,1,False,True,steal,steal,58-59,58,59
 0021700426,2017-12-15,MIL,CHI,24.2,3,11,48,MIL,MIL,fg_miss,1,False,False,MISS Antetokounmpo 15' Jump Shot,,58-59,58,59
 0021700426,2017-12-15,MIL,CHI,24.25,3,11,45,CHI,CHI,reb,0,False,False,,Holiday REBOUND (Off:1 Def:5),58-59,58,59
 0021700426,2017-12-15,MIL,CHI,24.38,3,11,37,CHI,CHI,fg_miss,3,True,False,,MISS Lopez 4' Hook Shot,58-59,58,59
@@ -327,9 +327,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700426,2017-12-15,MIL,CHI,34.37,3,1,38,CHI,CHI,tov,2,False,True,,Portis Lost Ball Turnover (P1.T9),79-82,79,82
 0021700426,2017-12-15,MIL,CHI,34.37,3,1,38,CHI,MIL,steal,2,False,True,steal,steal,79-82,79,82
 0021700426,2017-12-15,MIL,CHI,34.45,3,1,33,MIL,CHI,foul,2,False,False,,Valentine S.FOUL (P3.PN) (B.Taylor),79-82,79,82
-0021700426,2017-12-15,MIL,CHI,34.45,3,1,33,MIL,MIL,ft_make,12,False,False,Maker Free Throw 2 of 2 (5 PTS),,80-82,80,82
 0021700426,2017-12-15,MIL,CHI,34.45,3,1,33,MIL,MIL,ft_miss,11,False,False,MISS Maker Free Throw 1 of 2,,80-82,80,82
 0021700426,2017-12-15,MIL,CHI,34.45,3,1,33,MIL,MIL,reb,1,False,False,BUCKS Rebound,,80-82,80,82
+0021700426,2017-12-15,MIL,CHI,34.45,3,1,33,MIL,MIL,ft_make,12,False,False,Maker Free Throw 2 of 2 (5 PTS),,80-82,80,82
 0021700426,2017-12-15,MIL,CHI,34.82,3,1,11,CHI,CHI,fg_miss,5,True,False,,MISS Valentine 3' Layup,80-82,80,82
 0021700426,2017-12-15,MIL,CHI,34.82,3,1,11,CHI,MIL,block,5,True,False,block,block,80-82,80,82
 0021700426,2017-12-15,MIL,CHI,34.87,3,1,8,MIL,MIL,reb,0,False,False,Vaughn REBOUND (Off:0 Def:1),,80-82,80,82

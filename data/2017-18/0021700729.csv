@@ -71,8 +71,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700729,2018-01-27,MIN,BKN,8.25,1,3,45,BKN,BKN,fg_miss,1,False,False,,MISS Stauskas 19' Jump Shot,18-8,18,8
 0021700729,2018-01-27,MIN,BKN,8.28,1,3,43,MIN,MIN,reb,0,False,False,Jones REBOUND (Off:0 Def:1),,18-8,18,8
 0021700729,2018-01-27,MIN,BKN,8.47,1,3,32,MIN,MIN,fg_miss,5,True,False,MISS Butler 4' Layup,,18-8,18,8
-0021700729,2018-01-27,MIN,BKN,8.47,1,3,32,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,18-8,18,8
 0021700729,2018-01-27,MIN,BKN,8.47,1,3,32,MIN,BKN,block,5,True,False,block,block,18-8,18,8
+0021700729,2018-01-27,MIN,BKN,8.47,1,3,32,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,18-8,18,8
 0021700729,2018-01-27,MIN,BKN,8.63,1,3,22,MIN,MIN,fg_make,1,False,False,Jones 16' Jump Shot (2 PTS) (Dieng 1 AST),,20-8,20,8
 0021700729,2018-01-27,MIN,BKN,8.85,1,3,9,BKN,BKN,fg_make,73,False,False,,Carroll 1' Driving Reverse Layup (2 PTS) (Dinwiddie 1 AST),20-10,20,10
 0021700729,2018-01-27,MIN,BKN,9.18,1,2,49,MIN,MIN,fg_miss,1,False,False,MISS Dieng 19' Jump Shot,,20-10,20,10
@@ -156,8 +156,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700729,2018-01-27,MIN,BKN,17.65,2,6,21,BKN,BKN,fg3_make,1,False,False,,Crabbe 25' 3PT Jump Shot (8 PTS) (Dinwiddie 4 AST),43-26,43,26
 0021700729,2018-01-27,MIN,BKN,18.13,2,5,52,,MIN,jump_ball,0,False,False,Jump Ball Towns vs. Okafor: Tip to Gibson,,43-26,43,26
 0021700729,2018-01-27,MIN,BKN,18.17,2,5,50,MIN,MIN,fg3_miss,1,False,False,MISS Gibson 3PT Jump Shot,,43-26,43,26
-0021700729,2018-01-27,MIN,BKN,18.2,2,5,48,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,43-26,43,26
 0021700729,2018-01-27,MIN,BKN,18.2,2,5,48,MIN,MIN,tov,11,False,False,TIMBERWOLVES Turnover: Shot Clock (T#3),,43-26,43,26
+0021700729,2018-01-27,MIN,BKN,18.2,2,5,48,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,43-26,43,26
 0021700729,2018-01-27,MIN,BKN,18.55,2,5,27,BKN,BKN,fg3_miss,1,False,False,,MISS Dinwiddie 25' 3PT Jump Shot,43-26,43,26
 0021700729,2018-01-27,MIN,BKN,18.6,2,5,24,MIN,MIN,reb,0,False,False,Towns REBOUND (Off:0 Def:2),,43-26,43,26
 0021700729,2018-01-27,MIN,BKN,18.93,2,5,4,MIN,MIN,fg_miss,86,False,False,MISS Butler 8' Turnaround Fadeaway Shot,,43-26,43,26
@@ -186,8 +186,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700729,2018-01-27,MIN,BKN,21.5,2,2,30,MIN,MIN,fg_miss,7,False,False,MISS Towns 2' Dunk,,48-30,48,30
 0021700729,2018-01-27,MIN,BKN,21.53,2,2,28,MIN,MIN,reb,0,False,False,Towns REBOUND (Off:2 Def:4),,48-30,48,30
 0021700729,2018-01-27,MIN,BKN,21.57,2,2,26,MIN,MIN,fg_miss,5,True,False,MISS Towns 3' Layup,,48-30,48,30
-0021700729,2018-01-27,MIN,BKN,21.57,2,2,26,BKN,BKN,reb,0,False,False,,Stauskas REBOUND (Off:0 Def:2),48-30,48,30
 0021700729,2018-01-27,MIN,BKN,21.57,2,2,26,MIN,BKN,block,5,True,False,block,block,48-30,48,30
+0021700729,2018-01-27,MIN,BKN,21.57,2,2,26,BKN,BKN,reb,0,False,False,,Stauskas REBOUND (Off:0 Def:2),48-30,48,30
 0021700729,2018-01-27,MIN,BKN,21.7,2,2,18,BKN,BKN,fg_make,9,False,False,,Harris 1' Driving Dunk (2 PTS) (Carroll 2 AST),48-32,48,32
 0021700729,2018-01-27,MIN,BKN,21.83,2,2,10,MIN,MIN,fg_miss,75,False,False,MISS Wiggins 4' Driving Finger Roll Layup,,48-32,48,32
 0021700729,2018-01-27,MIN,BKN,21.87,2,2,8,BKN,BKN,reb,0,False,False,,Carroll REBOUND (Off:0 Def:5),48-32,48,32
@@ -309,8 +309,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700729,2018-01-27,MIN,BKN,35.28,3,0,43,MIN,MIN,fg_make,47,False,False,Wiggins 6' Turnaround Jump Shot (17 PTS),,78-63,78,63
 0021700729,2018-01-27,MIN,BKN,35.43,3,0,34,BKN,BKN,fg_make,73,False,False,,Stauskas 1' Driving Reverse Layup (12 PTS),78-65,78,65
 0021700729,2018-01-27,MIN,BKN,35.57,3,0,26,MIN,MIN,fg_miss,2,True,False,MISS Jones 3' Running Jump Shot,,78-65,78,65
-0021700729,2018-01-27,MIN,BKN,35.57,3,0,26,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,78-65,78,65
 0021700729,2018-01-27,MIN,BKN,35.57,3,0,26,MIN,BKN,block,2,True,False,block,block,78-65,78,65
+0021700729,2018-01-27,MIN,BKN,35.57,3,0,26,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,78-65,78,65
 0021700729,2018-01-27,MIN,BKN,35.6,3,0,24,MIN,MIN,fg3_miss,1,False,False,MISS Crawford 24' 3PT Jump Shot,,78-65,78,65
 0021700729,2018-01-27,MIN,BKN,35.65,3,0,21,BKN,BKN,reb,0,False,False,,Acy REBOUND (Off:1 Def:6),78-65,78,65
 0021700729,2018-01-27,MIN,BKN,35.93,3,0,4,BKN,MIN,foul,28,False,False,Jones Personal Take Foul (P1.T4) (K.Cutler),,78-65,78,65
@@ -381,8 +381,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700729,2018-01-27,MIN,BKN,42.3,4,5,42,BKN,MIN,block,5,True,False,block,block,98-79,98,79
 0021700729,2018-01-27,MIN,BKN,42.35,4,5,39,BKN,BKN,reb,0,False,False,,Harris REBOUND (Off:3 Def:1),98-79,98,79
 0021700729,2018-01-27,MIN,BKN,42.35,4,5,39,BKN,BKN,fg_miss,5,True,False,,MISS Harris 3' Layup,98-79,98,79
-0021700729,2018-01-27,MIN,BKN,42.35,4,5,39,BKN,BKN,reb,0,False,False,,Allen REBOUND (Off:2 Def:2),98-79,98,79
 0021700729,2018-01-27,MIN,BKN,42.35,4,5,39,BKN,MIN,block,5,True,False,block,block,98-79,98,79
+0021700729,2018-01-27,MIN,BKN,42.35,4,5,39,BKN,BKN,reb,0,False,False,,Allen REBOUND (Off:2 Def:2),98-79,98,79
 0021700729,2018-01-27,MIN,BKN,42.47,4,5,32,BKN,BKN,fg_make,1,False,False,,Allen 5' Jump Shot (6 PTS),98-81,98,81
 0021700729,2018-01-27,MIN,BKN,42.73,4,5,16,MIN,MIN,tov,1,False,True,Towns Bad Pass Turnover (P1.T6),,98-81,98,81
 0021700729,2018-01-27,MIN,BKN,42.73,4,5,16,MIN,BKN,steal,1,False,True,steal,steal,98-81,98,81

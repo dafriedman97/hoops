@@ -26,8 +26,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800145,2018-11-05,DEN,BOS,3.37,1,8,38,BOS,BOS,fg_make,43,False,False,,Hayward 2' Alley Oop Layup (2 PTS) (Horford 2 AST),5-12,5,12
 0021800145,2018-11-05,DEN,BOS,3.52,1,8,29,DEN,DEN,fg3_make,1,False,False,Murray 25' 3PT Jump Shot (6 PTS) (Jokic 1 AST),,8-12,8,12
 0021800145,2018-11-05,DEN,BOS,3.87,1,8,8,BOS,BOS,fg_miss,6,True,False,,MISS Brown 3' Driving Layup,8-12,8,12
-0021800145,2018-11-05,DEN,BOS,3.87,1,8,8,BOS,BOS,reb,0,False,False,,Celtics Rebound,8-12,8,12
 0021800145,2018-11-05,DEN,BOS,3.87,1,8,8,BOS,DEN,block,6,True,False,block,block,8-12,8,12
+0021800145,2018-11-05,DEN,BOS,3.87,1,8,8,BOS,BOS,reb,0,False,False,,Celtics Rebound,8-12,8,12
 0021800145,2018-11-05,DEN,BOS,3.95,1,8,3,BOS,BOS,fg3_make,1,False,False,,Tatum 25' 3PT Jump Shot (3 PTS) (Horford 3 AST),8-15,8,15
 0021800145,2018-11-05,DEN,BOS,4.12,1,7,53,DEN,DEN,tov,2,False,True,Murray Lost Ball Turnover (P1.T2),,8-15,8,15
 0021800145,2018-11-05,DEN,BOS,4.12,1,7,53,DEN,BOS,steal,2,False,True,steal,steal,8-15,8,15
@@ -80,8 +80,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800145,2018-11-05,DEN,BOS,10.02,1,1,59,BOS,BOS,reb,0,False,False,,Rozier REBOUND (Off:0 Def:1),16-29,16,29
 0021800145,2018-11-05,DEN,BOS,10.3,1,1,42,BOS,BOS,fg3_make,1,False,False,,Rozier 3PT Jump Shot (3 PTS) (Smart 1 AST),16-32,16,32
 0021800145,2018-11-05,DEN,BOS,10.42,1,1,35,DEN,DEN,fg_miss,2,True,False,MISS Beasley 3' Running Jump Shot,,16-32,16,32
-0021800145,2018-11-05,DEN,BOS,10.42,1,1,35,BOS,BOS,reb,0,False,False,,Smart REBOUND (Off:1 Def:1),16-32,16,32
 0021800145,2018-11-05,DEN,BOS,10.42,1,1,35,DEN,BOS,block,2,True,False,block,block,16-32,16,32
+0021800145,2018-11-05,DEN,BOS,10.42,1,1,35,BOS,BOS,reb,0,False,False,,Smart REBOUND (Off:1 Def:1),16-32,16,32
 0021800145,2018-11-05,DEN,BOS,10.8,1,1,12,BOS,BOS,fg_make,79,False,False,,Smart 21' Pullup Jump Shot (2 PTS) (Morris Sr. 1 AST),16-34,16,34
 0021800145,2018-11-05,DEN,BOS,11.07,1,0,56,DEN,DEN,fg3_make,1,False,False,Lyles 25' 3PT Jump Shot (3 PTS) (Harris 2 AST),,19-34,19,34
 0021800145,2018-11-05,DEN,BOS,11.27,1,0,44,BOS,DEN,foul,1,False,False,Lyles P.FOUL (P1.T2) (S.Foster),,19-34,19,34
@@ -136,15 +136,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800145,2018-11-05,DEN,BOS,16.28,2,7,43,BOS,BOS,fg_miss,80,False,False,,MISS Tatum 18' Step Back Jump Shot,30-39,30,39
 0021800145,2018-11-05,DEN,BOS,16.35,2,7,39,DEN,DEN,reb,0,False,False,Lyles REBOUND (Off:0 Def:2),,30-39,30,39
 0021800145,2018-11-05,DEN,BOS,16.4,2,7,36,DEN,DEN,fg_miss,41,True,False,MISS Harris 3' Running Layup,,30-39,30,39
-0021800145,2018-11-05,DEN,BOS,16.4,2,7,36,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,30-39,30,39
 0021800145,2018-11-05,DEN,BOS,16.4,2,7,36,DEN,BOS,block,41,True,False,block,block,30-39,30,39
+0021800145,2018-11-05,DEN,BOS,16.4,2,7,36,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,30-39,30,39
 0021800145,2018-11-05,DEN,BOS,16.5,2,7,30,DEN,DEN,fg3_make,1,False,False,Lyles 3PT Jump Shot (6 PTS) (Jokic 2 AST),,33-39,33,39
 0021800145,2018-11-05,DEN,BOS,16.75,2,7,15,BOS,BOS,fg_make,86,False,False,,Irving 13' Turnaround Fadeaway (9 PTS),33-41,33,41
 0021800145,2018-11-05,DEN,BOS,17.05,2,6,57,DEN,DEN,fg_make,9,False,False,Harris 1' Driving Dunk (7 PTS),,35-41,35,41
 0021800145,2018-11-05,DEN,BOS,17.28,2,6,43,BOS,BOS,fg_make,78,False,False,,Tatum 4' Floating Jump Shot (7 PTS),35-43,35,43
 0021800145,2018-11-05,DEN,BOS,17.52,2,6,29,DEN,DEN,fg_miss,79,True,False,MISS Beasley 15' Pullup Jump Shot,,35-43,35,43
-0021800145,2018-11-05,DEN,BOS,17.52,2,6,29,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,35-43,35,43
 0021800145,2018-11-05,DEN,BOS,17.52,2,6,29,DEN,BOS,block,79,True,False,block,block,35-43,35,43
+0021800145,2018-11-05,DEN,BOS,17.52,2,6,29,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,35-43,35,43
 0021800145,2018-11-05,DEN,BOS,17.57,2,6,26,DEN,DEN,tov,2,False,True,Jokic Lost Ball Turnover (P2.T8),,35-43,35,43
 0021800145,2018-11-05,DEN,BOS,17.57,2,6,26,DEN,BOS,steal,2,False,True,steal,steal,35-43,35,43
 0021800145,2018-11-05,DEN,BOS,17.75,2,6,15,BOS,BOS,fg_miss,47,True,False,,MISS Horford 4' Turnaround Jump Shot,35-43,35,43
@@ -281,8 +281,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800145,2018-11-05,DEN,BOS,31.08,3,4,55,BOS,BOS,ft_make,11,False,False,,Smart Free Throw 1 of 2 (5 PTS),74-74,74,74
 0021800145,2018-11-05,DEN,BOS,31.08,3,4,55,BOS,BOS,ft_make,12,False,False,,Smart Free Throw 2 of 2 (6 PTS),74-75,74,75
 0021800145,2018-11-05,DEN,BOS,31.3,3,4,42,DEN,DEN,fg_miss,6,True,False,MISS Harris 1' Driving Layup,,74-75,74,75
-0021800145,2018-11-05,DEN,BOS,31.3,3,4,42,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,74-75,74,75
 0021800145,2018-11-05,DEN,BOS,31.3,3,4,42,DEN,BOS,block,6,True,False,block,block,74-75,74,75
+0021800145,2018-11-05,DEN,BOS,31.3,3,4,42,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,74-75,74,75
 0021800145,2018-11-05,DEN,BOS,31.45,3,4,33,DEN,DEN,fg3_miss,79,False,False,MISS Murray 26' 3PT Pullup Jump Shot,,74-75,74,75
 0021800145,2018-11-05,DEN,BOS,31.5,3,4,30,DEN,DEN,reb,0,False,False,Harris REBOUND (Off:2 Def:2),,74-75,74,75
 0021800145,2018-11-05,DEN,BOS,31.63,3,4,22,DEN,DEN,fg3_miss,1,False,False,MISS Harris 26' 3PT Jump Shot,,74-75,74,75
@@ -404,9 +404,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800145,2018-11-05,DEN,BOS,45.87,4,2,8,BOS,BOS,fg3_miss,1,False,False,,MISS Smart 25' 3PT Jump Shot,112-105,112,105
 0021800145,2018-11-05,DEN,BOS,45.9,4,2,6,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:2 Def:7),,112-105,112,105
 0021800145,2018-11-05,DEN,BOS,46.2,4,1,48,DEN,DEN,fg_miss,108,True,False,MISS Millsap 3' Cutting Dunk Shot,,112-105,112,105
+0021800145,2018-11-05,DEN,BOS,46.2,4,1,48,DEN,BOS,block,108,True,False,block,block,112-105,112,105
 0021800145,2018-11-05,DEN,BOS,46.2,4,1,48,DEN,DEN,reb,0,False,False,Millsap REBOUND (Off:2 Def:4),,112-105,112,105
 0021800145,2018-11-05,DEN,BOS,46.2,4,1,48,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 6 Short 0),,112-105,112,105
-0021800145,2018-11-05,DEN,BOS,46.2,4,1,48,DEN,BOS,block,108,True,False,block,block,112-105,112,105
 0021800145,2018-11-05,DEN,BOS,46.28,4,1,43,DEN,DEN,fg_make,75,False,False,Murray 1' Driving Finger Roll Layup (48 PTS),,114-105,114,105
 0021800145,2018-11-05,DEN,BOS,46.47,4,1,32,BOS,BOS,fg3_miss,1,False,False,,MISS Brown 3PT Jump Shot,114-105,114,105
 0021800145,2018-11-05,DEN,BOS,46.52,4,1,29,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:2 Def:8),,114-105,114,105

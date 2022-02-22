@@ -101,8 +101,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700861,2018-02-14,MEM,OKC,12.5,2,11,30,OKC,OKC,fg3_miss,1,False,False,,MISS Abrines 3PT Jump Shot,33-34,33,34
 0021700861,2018-02-14,MEM,OKC,12.57,2,11,26,MEM,MEM,reb,0,False,False,Davis REBOUND (Off:0 Def:2),,33-34,33,34
 0021700861,2018-02-14,MEM,OKC,12.75,2,11,15,MEM,MEM,fg_miss,6,True,False,MISS Harrison 3' Driving Layup,,33-34,33,34
-0021700861,2018-02-14,MEM,OKC,12.75,2,11,15,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,33-34,33,34
 0021700861,2018-02-14,MEM,OKC,12.75,2,11,15,MEM,OKC,block,6,True,False,block,block,33-34,33,34
+0021700861,2018-02-14,MEM,OKC,12.75,2,11,15,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,33-34,33,34
 0021700861,2018-02-14,MEM,OKC,12.92,2,11,5,MEM,MEM,tov,1,False,True,Harrison Bad Pass Turnover (P1.T4),,33-34,33,34
 0021700861,2018-02-14,MEM,OKC,12.92,2,11,5,MEM,OKC,steal,1,False,True,steal,steal,33-34,33,34
 0021700861,2018-02-14,MEM,OKC,13.2,2,10,48,OKC,OKC,fg_miss,101,False,False,,MISS Felton 7' Driving Floating Jump Shot,33-34,33,34
@@ -226,8 +226,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700861,2018-02-14,MEM,OKC,25.57,3,10,26,MEM,MEM,reb,0,False,False,Green REBOUND (Off:3 Def:1),,53-75,53,75
 0021700861,2018-02-14,MEM,OKC,25.72,3,10,17,MEM,MEM,fg_make,1,False,False,Gasol 9' Jump Shot (6 PTS) (Evans 4 AST),,55-75,55,75
 0021700861,2018-02-14,MEM,OKC,25.9,3,10,6,OKC,OKC,fg_miss,78,False,False,,MISS George 10' Floating Jump Shot,55-75,55,75
-0021700861,2018-02-14,MEM,OKC,25.9,3,10,6,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,55-75,55,75
 0021700861,2018-02-14,MEM,OKC,25.9,3,10,6,MEM,OKC,foul,3,False,False,,George L.B.FOUL (P2.T1) (C.Washington),55-75,55,75
+0021700861,2018-02-14,MEM,OKC,25.9,3,10,6,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,55-75,55,75
 0021700861,2018-02-14,MEM,OKC,26.13,3,9,52,MEM,OKC,foul,1,False,False,,Adams P.FOUL (P3.T2) (M.Boland),55-75,55,75
 0021700861,2018-02-14,MEM,OKC,26.32,3,9,41,MEM,MEM,fg3_make,1,False,False,Green 26' 3PT Jump Shot (5 PTS) (Gasol 5 AST),,58-75,58,75
 0021700861,2018-02-14,MEM,OKC,26.7,3,9,18,OKC,OKC,fg_miss,3,False,False,,MISS Adams 7' Hook Shot,58-75,58,75
@@ -270,8 +270,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700861,2018-02-14,MEM,OKC,30.23,3,5,46,MEM,MEM,fg3_make,1,False,False,Brooks 25' 3PT Jump Shot (10 PTS) (Evans 5 AST),,68-79,68,79
 0021700861,2018-02-14,MEM,OKC,30.23,3,5,46,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.3 Short 0),68-79,68,79
 0021700861,2018-02-14,MEM,OKC,30.45,3,5,33,OKC,OKC,fg_miss,108,False,False,,MISS Westbrook 2' Cutting Dunk Shot,68-79,68,79
-0021700861,2018-02-14,MEM,OKC,30.47,3,5,32,OKC,OKC,reb,0,False,False,,Johnson REBOUND (Off:1 Def:1),68-79,68,79
 0021700861,2018-02-14,MEM,OKC,30.47,3,5,32,OKC,MEM,foul,2,False,False,Martin S.FOUL (P1.T3) (M.Boland),,68-79,68,79
+0021700861,2018-02-14,MEM,OKC,30.47,3,5,32,OKC,OKC,reb,0,False,False,,Johnson REBOUND (Off:1 Def:1),68-79,68,79
 0021700861,2018-02-14,MEM,OKC,30.47,3,5,32,OKC,OKC,ft_make,11,False,False,,Johnson Free Throw 1 of 2 (3 PTS),68-80,68,80
 0021700861,2018-02-14,MEM,OKC,30.47,3,5,32,OKC,OKC,ft_miss,12,False,False,,MISS Johnson Free Throw 2 of 2,68-80,68,80
 0021700861,2018-02-14,MEM,OKC,30.57,3,5,26,MEM,MEM,reb,0,False,False,Evans REBOUND (Off:0 Def:5),,68-80,68,80
@@ -414,9 +414,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700861,2018-02-14,MEM,OKC,47.58,4,0,25,OKC,OKC,fg3_make,1,False,False,,Anthony 26' 3PT Jump Shot (19 PTS) (Westbrook 15 AST),114-118,114,118
 0021700861,2018-02-14,MEM,OKC,47.6,4,0,24,MEM,MEM,timeout,1,False,False,GRIZZLIES Timeout: Regular (Full 7 Short 0),,114-118,114,118
 0021700861,2018-02-14,MEM,OKC,47.7,4,0,18,MEM,MEM,fg_miss,6,True,False,MISS Evans 1' Driving Layup,,114-118,114,118
+0021700861,2018-02-14,MEM,OKC,47.7,4,0,18,MEM,OKC,block,6,True,False,block,block,114-118,114,118
 0021700861,2018-02-14,MEM,OKC,47.7,4,0,18,OKC,OKC,reb,0,False,False,,Thunder Rebound,114-118,114,118
 0021700861,2018-02-14,MEM,OKC,47.7,4,0,18,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.5 Short 0),114-118,114,118
-0021700861,2018-02-14,MEM,OKC,47.7,4,0,18,MEM,OKC,block,6,True,False,block,block,114-118,114,118
 0021700861,2018-02-14,MEM,OKC,47.77,4,0,14,OKC,OKC,tov,1,False,True,,George Bad Pass Turnover (P1.T9),114-118,114,118
 0021700861,2018-02-14,MEM,OKC,47.77,4,0,14,OKC,MEM,steal,1,False,True,steal,steal,114-118,114,118
 0021700861,2018-02-14,MEM,OKC,47.83,4,0,10,MEM,MEM,fg_miss,1,False,False,MISS Martin 20' Jump Shot,,114-118,114,118

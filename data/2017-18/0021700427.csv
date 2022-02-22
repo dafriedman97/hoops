@@ -30,8 +30,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700427,2017-12-15,DEN,NOP,4.03,1,7,58,NOP,DEN,foul,1,False,False,Chandler P.FOUL (P1.T1) (G.Zielinski),,10-6,10,6
 0021700427,2017-12-15,DEN,NOP,4.17,1,7,50,NOP,NOP,fg3_make,1,False,False,,Holiday 24' 3PT Jump Shot (3 PTS),10-9,10,9
 0021700427,2017-12-15,DEN,NOP,4.57,1,7,26,DEN,DEN,fg_miss,6,True,False,MISS Chandler 2' Driving Layup,,10-9,10,9
-0021700427,2017-12-15,DEN,NOP,4.57,1,7,26,NOP,NOP,reb,0,False,False,,Pelicans Rebound,10-9,10,9
 0021700427,2017-12-15,DEN,NOP,4.57,1,7,26,DEN,NOP,block,6,True,False,block,block,10-9,10,9
+0021700427,2017-12-15,DEN,NOP,4.57,1,7,26,NOP,NOP,reb,0,False,False,,Pelicans Rebound,10-9,10,9
 0021700427,2017-12-15,DEN,NOP,4.82,1,7,11,NOP,NOP,fg_miss,58,False,False,,MISS Holiday 5' Turnaround Hook Shot,10-9,10,9
 0021700427,2017-12-15,DEN,NOP,4.82,1,7,11,DEN,DEN,reb,0,False,False,Craig REBOUND (Off:0 Def:2),,10-9,10,9
 0021700427,2017-12-15,DEN,NOP,4.93,1,7,4,DEN,NOP,foul,2,False,False,,Holiday S.FOUL (P1.T1) (R.Mott),10-9,10,9
@@ -229,8 +229,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700427,2017-12-15,DEN,NOP,27.55,3,8,27,NOP,DEN,violation,5,False,False,Chandler Violation:Kicked Ball (G.Zielinski),,54-66,54,66
 0021700427,2017-12-15,DEN,NOP,27.67,3,8,20,NOP,NOP,fg_make,76,False,False,,Rondo 3' Running Finger Roll Layup (4 PTS) (Cousins 3 AST),54-68,54,68
 0021700427,2017-12-15,DEN,NOP,27.98,3,8,1,DEN,DEN,fg_miss,6,True,False,MISS Craig 4' Driving Layup,,54-68,54,68
-0021700427,2017-12-15,DEN,NOP,27.98,3,8,1,NOP,NOP,reb,0,False,False,,Pelicans Rebound,54-68,54,68
 0021700427,2017-12-15,DEN,NOP,27.98,3,8,1,DEN,NOP,block,6,True,False,block,block,54-68,54,68
+0021700427,2017-12-15,DEN,NOP,27.98,3,8,1,NOP,NOP,reb,0,False,False,,Pelicans Rebound,54-68,54,68
 0021700427,2017-12-15,DEN,NOP,28.4,3,7,36,NOP,NOP,fg3_miss,86,False,False,,MISS Cousins 37' 3PT Turnaround Fadeaway Shot,54-68,54,68
 0021700427,2017-12-15,DEN,NOP,28.4,3,7,36,NOP,NOP,reb,0,False,False,,Pelicans Rebound,54-68,54,68
 0021700427,2017-12-15,DEN,NOP,28.4,3,7,36,NOP,NOP,tov,11,False,False,,Pelicans Turnover: Shot Clock (T#10),54-68,54,68
@@ -281,9 +281,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700427,2017-12-15,DEN,NOP,34.98,3,1,1,NOP,NOP,fg_miss,73,False,False,,MISS Cunningham 2' Driving Reverse Layup,73-83,73,83
 0021700427,2017-12-15,DEN,NOP,35.02,3,0,59,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:3 Def:5),,73-83,73,83
 0021700427,2017-12-15,DEN,NOP,35.15,3,0,51,DEN,DEN,fg_miss,6,True,False,MISS Murray 3' Driving Layup,,73-83,73,83
+0021700427,2017-12-15,DEN,NOP,35.15,3,0,51,DEN,NOP,block,6,True,False,block,block,73-83,73,83
 0021700427,2017-12-15,DEN,NOP,35.15,3,0,51,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,73-83,73,83
 0021700427,2017-12-15,DEN,NOP,35.15,3,0,51,NOP,NOP,timeout,1,False,False,,Pelicans Timeout: Regular (Reg.2 Short 0),73-83,73,83
-0021700427,2017-12-15,DEN,NOP,35.15,3,0,51,DEN,NOP,block,6,True,False,block,block,73-83,73,83
 0021700427,2017-12-15,DEN,NOP,35.18,3,0,49,DEN,DEN,fg3_make,1,False,False,Craig 26' 3PT Jump Shot (4 PTS) (Barton 2 AST),,76-83,76,83
 0021700427,2017-12-15,DEN,NOP,35.32,3,0,41,NOP,NOP,timeout,1,False,False,,Pelicans Timeout: Regular (Reg.3 Short 0),76-83,76,83
 0021700427,2017-12-15,DEN,NOP,35.45,3,0,33,NOP,DEN,foul,2,False,False,Craig S.FOUL (P2.T2) (R.Mott),,76-83,76,83
@@ -350,8 +350,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700427,2017-12-15,DEN,NOP,43.08,4,4,55,DEN,DEN,fg_miss,5,False,False,MISS Harris 3' Layup,,91-96,91,96
 0021700427,2017-12-15,DEN,NOP,43.12,4,4,53,DEN,DEN,reb,0,False,False,Plumlee REBOUND (Off:1 Def:7),,91-96,91,96
 0021700427,2017-12-15,DEN,NOP,43.15,4,4,51,DEN,DEN,fg_miss,72,True,False,MISS Plumlee 3' Putback Layup,,91-96,91,96
-0021700427,2017-12-15,DEN,NOP,43.15,4,4,51,NOP,NOP,reb,0,False,False,,Rondo REBOUND (Off:1 Def:2),91-96,91,96
 0021700427,2017-12-15,DEN,NOP,43.15,4,4,51,DEN,NOP,block,72,True,False,block,block,91-96,91,96
+0021700427,2017-12-15,DEN,NOP,43.15,4,4,51,NOP,NOP,reb,0,False,False,,Rondo REBOUND (Off:1 Def:2),91-96,91,96
 0021700427,2017-12-15,DEN,NOP,43.18,4,4,49,NOP,NOP,tov,4,False,False,,Moore Traveling Turnover (P1.T13),91-96,91,96
 0021700427,2017-12-15,DEN,NOP,43.52,4,4,29,DEN,DEN,fg_miss,3,False,False,MISS Plumlee 4' Hook Shot,,91-96,91,96
 0021700427,2017-12-15,DEN,NOP,43.55,4,4,27,NOP,NOP,reb,0,False,False,,Holiday REBOUND (Off:1 Def:7),91-96,91,96
@@ -377,8 +377,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700427,2017-12-15,DEN,NOP,45.53,4,2,28,DEN,NOP,steal,2,False,True,steal,steal,100-96,100,96
 0021700427,2017-12-15,DEN,NOP,45.67,4,2,20,NOP,NOP,fg_make,52,False,False,,Davis 2' Alley Oop Dunk (20 PTS) (Cousins 4 AST),100-98,100,98
 0021700427,2017-12-15,DEN,NOP,45.98,4,2,1,DEN,DEN,fg_miss,6,True,False,MISS Lyles 5' Driving Layup,,100-98,100,98
-0021700427,2017-12-15,DEN,NOP,45.98,4,2,1,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,100-98,100,98
 0021700427,2017-12-15,DEN,NOP,45.98,4,2,1,DEN,NOP,block,6,True,False,block,block,100-98,100,98
+0021700427,2017-12-15,DEN,NOP,45.98,4,2,1,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,100-98,100,98
 0021700427,2017-12-15,DEN,NOP,46.02,4,1,59,DEN,DEN,fg3_miss,1,False,False,MISS Harris 26' 3PT Jump Shot,,100-98,100,98
 0021700427,2017-12-15,DEN,NOP,46.12,4,1,53,DEN,DEN,reb,0,False,False,Barton REBOUND (Off:2 Def:2),,100-98,100,98
 0021700427,2017-12-15,DEN,NOP,46.17,4,1,50,DEN,DEN,tov,1,False,True,Barton Bad Pass Turnover (P2.T9),,100-98,100,98
@@ -402,12 +402,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700427,2017-12-15,DEN,NOP,47.52,4,0,29,NOP,DEN,foul,2,False,False,Plumlee S.FOUL (P5.PN) (G.Zielinski),,102-103,102,103
 0021700427,2017-12-15,DEN,NOP,47.52,4,0,29,NOP,NOP,ft_make,10,False,False,,Cousins Free Throw 1 of 1 (28 PTS),104-104,104,104
 0021700427,2017-12-15,DEN,NOP,47.67,4,0,20,DEN,DEN,fg3_miss,1,False,False,MISS Lyles 26' 3PT Jump Shot,,104-104,104,104
+0021700427,2017-12-15,DEN,NOP,47.7,4,0,18,DEN,DEN,reb,0,False,False,Plumlee REBOUND (Off:2 Def:7),,104-104,104,104
 0021700427,2017-12-15,DEN,NOP,47.7,4,0,18,DEN,DEN,fg_make,107,False,False,Plumlee 1' Tip Dunk Shot (9 PTS),,104-103,104,103
 0021700427,2017-12-15,DEN,NOP,47.7,4,0,18,NOP,NOP,timeout,1,False,False,,Pelicans Timeout: Regular (Reg.7 Short 0),104-103,104,103
-0021700427,2017-12-15,DEN,NOP,47.7,4,0,18,DEN,DEN,reb,0,False,False,Plumlee REBOUND (Off:2 Def:7),,104-104,104,104
 0021700427,2017-12-15,DEN,NOP,48.0,4,0,0,NOP,NOP,fg_miss,79,True,False,,MISS Holiday 19' Pullup Jump Shot,104-103,104,103
-0021700427,2017-12-15,DEN,NOP,48.0,4,0,0,NOP,NOP,reb,0,False,False,,Pelicans Rebound,104-103,104,103
 0021700427,2017-12-15,DEN,NOP,48.0,4,0,0,NOP,DEN,block,79,True,False,block,block,104-103,104,103
+0021700427,2017-12-15,DEN,NOP,48.0,4,0,0,NOP,NOP,reb,0,False,False,,Pelicans Rebound,104-103,104,103
 0021700427,2017-12-15,DEN,NOP,48.0,4,0,0,NOP,,period_end,0,False,False,,,104-104,104,104
 0021700427,2017-12-15,DEN,NOP,48.0,5,5,0,NOP,,period_start,0,False,False,,,104-104,104,104
 0021700427,2017-12-15,DEN,NOP,48.0,5,5,0,,DEN,jump_ball,0,False,False,Jump Ball Plumlee vs. Davis: Tip to Murray,,104-104,104,104

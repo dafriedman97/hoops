@@ -24,8 +24,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000670,2021-03-24,ORL,PHX,2.52,1,9,29,PHX,PHX,fg_make,103,False,False,,Booker 8' Running Pull-Up Jump Shot (4 PTS),2-9,2,9
 0022000670,2021-03-24,ORL,PHX,2.82,1,9,11,ORL,ORL,fg3_make,1,False,False,Fournier 26' 3PT Jump Shot (5 PTS) (Aminu 1 AST),,5-9,5,9
 0022000670,2021-03-24,ORL,PHX,3.0,1,9,0,PHX,PHX,fg_miss,79,True,False,,MISS Booker 11' Pullup Jump Shot,5-9,5,9
-0022000670,2021-03-24,ORL,PHX,3.0,1,9,0,ORL,ORL,reb,0,False,False,Aminu REBOUND (Off:0 Def:2),,5-9,5,9
 0022000670,2021-03-24,ORL,PHX,3.0,1,9,0,PHX,ORL,block,79,True,False,block,block,5-9,5,9
+0022000670,2021-03-24,ORL,PHX,3.0,1,9,0,ORL,ORL,reb,0,False,False,Aminu REBOUND (Off:0 Def:2),,5-9,5,9
 0022000670,2021-03-24,ORL,PHX,3.17,1,8,50,ORL,ORL,fg_make,1,False,False,Carter-Williams 20' Jump Shot (2 PTS),,7-9,7,9
 0022000670,2021-03-24,ORL,PHX,3.5,1,8,30,PHX,PHX,fg_make,57,False,False,,Ayton 10' Driving Hook Shot (2 PTS),7-11,7,11
 0022000670,2021-03-24,ORL,PHX,3.72,1,8,17,ORL,ORL,fg3_miss,1,False,False,MISS Vucevic 26' 3PT Jump Shot,,7-11,7,11
@@ -106,10 +106,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000670,2021-03-24,ORL,PHX,11.93,1,0,4,PHX,PHX,fg3_miss,79,False,False,,MISS Payne 25' 3PT Pullup Jump Shot,24-32,24,32
 0022000670,2021-03-24,ORL,PHX,11.98,1,0,1,ORL,ORL,reb,0,False,False,Ennis III REBOUND (Off:0 Def:2),,24-32,24,32
 0022000670,2021-03-24,ORL,PHX,12.0,1,0,0,ORL,ORL,fg3_miss,2,True,False,MISS Ennis III 33' 3PT Running Jump Shot,,24-32,24,32
+0022000670,2021-03-24,ORL,PHX,12.0,1,0,0,ORL,PHX,block,2,True,False,block,block,24-32,24,32
 0022000670,2021-03-24,ORL,PHX,12.0,1,0,0,ORL,ORL,reb,0,False,False,MAGIC Rebound,,24-32,24,32
 0022000670,2021-03-24,ORL,PHX,12.0,1,0,0,ORL,,period_end,0,False,False,,,24-32,24,32
 0022000670,2021-03-24,ORL,PHX,12.0,2,12,0,ORL,,period_start,0,False,False,,,24-32,24,32
-0022000670,2021-03-24,ORL,PHX,12.0,1,0,0,ORL,PHX,block,2,True,False,block,block,24-32,24,32
 0022000670,2021-03-24,ORL,PHX,12.35,2,11,39,ORL,ORL,fg_miss,79,False,False,MISS Fournier 17' Pullup Jump Shot,,24-32,24,32
 0022000670,2021-03-24,ORL,PHX,12.38,2,11,37,PHX,PHX,reb,0,False,False,,Galloway REBOUND (Off:0 Def:2),24-32,24,32
 0022000670,2021-03-24,ORL,PHX,12.65,2,11,21,PHX,PHX,fg_make,5,False,False,,Saric 4' Layup (2 PTS) (Craig 1 AST),24-34,24,34
@@ -185,8 +185,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000670,2021-03-24,ORL,PHX,22.05,2,1,57,PHX,PHX,reb,0,False,False,,Crowder REBOUND (Off:0 Def:2),59-52,59,52
 0022000670,2021-03-24,ORL,PHX,22.3,2,1,42,PHX,PHX,fg3_make,1,False,False,,Crowder 25' 3PT Jump Shot (12 PTS) (Paul 4 AST),59-55,59,55
 0022000670,2021-03-24,ORL,PHX,22.7,2,1,18,ORL,ORL,fg_miss,6,True,False,MISS Fournier 4' Driving Layup,,59-55,59,55
-0022000670,2021-03-24,ORL,PHX,22.7,2,1,18,ORL,ORL,reb,0,False,False,MAGIC Rebound,,59-55,59,55
 0022000670,2021-03-24,ORL,PHX,22.7,2,1,18,ORL,PHX,block,6,True,False,block,block,59-55,59,55
+0022000670,2021-03-24,ORL,PHX,22.7,2,1,18,ORL,ORL,reb,0,False,False,MAGIC Rebound,,59-55,59,55
 0022000670,2021-03-24,ORL,PHX,22.78,2,1,13,ORL,ORL,fg3_miss,1,False,False,MISS Gordon 27' 3PT Jump Shot,,59-55,59,55
 0022000670,2021-03-24,ORL,PHX,22.83,2,1,10,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:2 Def:2),59-55,59,55
 0022000670,2021-03-24,ORL,PHX,23.02,2,0,59,PHX,PHX,fg_make,79,False,False,,Paul 17' Pullup Jump Shot (7 PTS),59-57,59,57
@@ -341,8 +341,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000670,2021-03-24,ORL,PHX,39.3,4,8,42,PHX,PHX,fg_miss,79,False,False,,MISS Paul 13' Pullup Jump Shot,96-95,96,95
 0022000670,2021-03-24,ORL,PHX,39.37,4,8,38,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:4 Def:4),96-95,96,95
 0022000670,2021-03-24,ORL,PHX,39.38,4,8,37,PHX,PHX,fg_miss,97,True,False,,MISS Ayton 2' Tip Layup Shot,96-95,96,95
-0022000670,2021-03-24,ORL,PHX,39.38,4,8,37,PHX,PHX,reb,0,False,False,,Craig REBOUND (Off:3 Def:3),96-95,96,95
 0022000670,2021-03-24,ORL,PHX,39.38,4,8,37,PHX,ORL,block,97,True,False,block,block,96-95,96,95
+0022000670,2021-03-24,ORL,PHX,39.38,4,8,37,PHX,PHX,reb,0,False,False,,Craig REBOUND (Off:3 Def:3),96-95,96,95
 0022000670,2021-03-24,ORL,PHX,39.47,4,8,32,PHX,PHX,fg_miss,97,False,False,,MISS Craig 2' Tip Layup Shot,96-95,96,95
 0022000670,2021-03-24,ORL,PHX,39.47,4,8,32,ORL,ORL,reb,0,False,False,Aminu REBOUND (Off:1 Def:8),,96-95,96,95
 0022000670,2021-03-24,ORL,PHX,39.53,4,8,28,ORL,ORL,fg3_miss,2,False,False,MISS Gordon 25' 3PT Running Jump Shot,,96-95,96,95

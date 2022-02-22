@@ -95,8 +95,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800535,2018-12-29,LAC,SAS,10.08,1,1,55,SAS,SAS,reb,0,False,False,,Bertans REBOUND (Off:0 Def:1),24-27,24,27
 0021800535,2018-12-29,LAC,SAS,10.32,1,1,41,SAS,SAS,fg3_make,1,False,False,,Belinelli 25' 3PT Jump Shot (5 PTS) (Mills 1 AST),24-30,24,30
 0021800535,2018-12-29,LAC,SAS,10.5,1,1,30,LAC,LAC,fg_miss,5,True,False,MISS Williams 1' Layup,,24-30,24,30
-0021800535,2018-12-29,LAC,SAS,10.5,1,1,30,SAS,SAS,reb,0,False,False,,DeRozan REBOUND (Off:0 Def:5),24-30,24,30
 0021800535,2018-12-29,LAC,SAS,10.5,1,1,30,LAC,SAS,block,5,True,False,block,block,24-30,24,30
+0021800535,2018-12-29,LAC,SAS,10.5,1,1,30,SAS,SAS,reb,0,False,False,,DeRozan REBOUND (Off:0 Def:5),24-30,24,30
 0021800535,2018-12-29,LAC,SAS,10.63,1,1,22,SAS,SAS,tov,1,False,True,,Bertans Bad Pass Turnover (P1.T2),24-30,24,30
 0021800535,2018-12-29,LAC,SAS,10.63,1,1,22,SAS,LAC,steal,1,False,True,steal,steal,24-30,24,30
 0021800535,2018-12-29,LAC,SAS,10.82,1,1,11,LAC,LAC,fg_miss,78,False,False,MISS Williams 7' Floating Jump Shot,,24-30,24,30
@@ -178,11 +178,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800535,2018-12-29,LAC,SAS,18.1,2,5,54,LAC,LAC,fg3_miss,79,False,False,MISS Williams 26' 3PT Pullup Jump Shot,,44-42,44,42
 0021800535,2018-12-29,LAC,SAS,18.17,2,5,50,SAS,SAS,reb,0,False,False,,DeRozan REBOUND (Off:0 Def:7),44-42,44,42
 0021800535,2018-12-29,LAC,SAS,18.23,2,5,46,SAS,SAS,fg_miss,5,True,False,,MISS DeRozan 3' Layup,44-42,44,42
-0021800535,2018-12-29,LAC,SAS,18.23,2,5,46,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,44-42,44,42
 0021800535,2018-12-29,LAC,SAS,18.23,2,5,46,SAS,LAC,block,5,True,False,block,block,44-42,44,42
+0021800535,2018-12-29,LAC,SAS,18.23,2,5,46,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,44-42,44,42
 0021800535,2018-12-29,LAC,SAS,18.5,2,5,30,LAC,LAC,tov,1,False,True,Williams Bad Pass Turnover (P1.T8),,44-42,44,42
-0021800535,2018-12-29,LAC,SAS,18.5,2,5,30,SAS,LAC,foul,1,False,False,Gallinari P.FOUL (P3.T3) (T.Washington),,44-42,44,42
 0021800535,2018-12-29,LAC,SAS,18.5,2,5,30,LAC,SAS,steal,1,False,True,steal,steal,44-42,44,42
+0021800535,2018-12-29,LAC,SAS,18.5,2,5,30,SAS,LAC,foul,1,False,False,Gallinari P.FOUL (P3.T3) (T.Washington),,44-42,44,42
 0021800535,2018-12-29,LAC,SAS,18.7,2,5,18,SAS,SAS,fg3_make,1,False,False,,White 25' 3PT Jump Shot (5 PTS) (DeRozan 4 AST),44-45,44,45
 0021800535,2018-12-29,LAC,SAS,18.98,2,5,1,LAC,LAC,fg3_miss,1,False,False,MISS Scott 25' 3PT Jump Shot,,44-45,44,45
 0021800535,2018-12-29,LAC,SAS,19.02,2,4,59,LAC,LAC,reb,0,False,False,Bradley REBOUND (Off:2 Def:2),,44-45,44,45
@@ -360,8 +360,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800535,2018-12-29,LAC,SAS,36.48,4,11,31,LAC,LAC,fg_miss,6,False,False,MISS Williams 1' Driving Layup,,75-98,75,98
 0021800535,2018-12-29,LAC,SAS,36.53,4,11,28,SAS,SAS,reb,0,False,False,,Bertans REBOUND (Off:0 Def:6),75-98,75,98
 0021800535,2018-12-29,LAC,SAS,36.55,4,11,27,SAS,SAS,tov,2,False,True,,Bertans Lost Ball Turnover (P2.T10),75-98,75,98
-0021800535,2018-12-29,LAC,SAS,36.55,4,11,27,LAC,LAC,tov,40,False,False,Williams Out of Bounds Lost Ball Turnover (P2.T16),,75-98,75,98
 0021800535,2018-12-29,LAC,SAS,36.55,4,11,27,SAS,LAC,steal,2,False,True,steal,steal,75-98,75,98
+0021800535,2018-12-29,LAC,SAS,36.55,4,11,27,LAC,LAC,tov,40,False,False,Williams Out of Bounds Lost Ball Turnover (P2.T16),,75-98,75,98
 0021800535,2018-12-29,LAC,SAS,36.68,4,11,19,SAS,SAS,tov,40,False,False,,DeRozan Out of Bounds Lost Ball Turnover (P2.T11),75-98,75,98
 0021800535,2018-12-29,LAC,SAS,37.0,4,11,0,LAC,LAC,fg_make,6,False,False,Beverley 1' Driving Layup (8 PTS),,77-98,77,98
 0021800535,2018-12-29,LAC,SAS,37.22,4,10,47,SAS,SAS,fg_make,6,False,False,,DeRozan 1' Driving Layup (19 PTS),77-100,77,100

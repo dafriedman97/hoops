@@ -146,8 +146,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900819,2020-02-13,NOP,OKC,15.08,2,8,55,NOP,NOP,ft_miss,12,False,False,MISS Williamson Free Throw 2 of 2,,36-37,36,37
 0021900819,2020-02-13,NOP,OKC,15.12,2,8,53,OKC,OKC,reb,0,False,False,,Nader REBOUND (Off:0 Def:2),36-37,36,37
 0021900819,2020-02-13,NOP,OKC,15.47,2,8,32,OKC,OKC,fg_miss,6,True,False,,MISS Nader 5' Driving Layup,36-37,36,37
-0021900819,2020-02-13,NOP,OKC,15.47,2,8,32,OKC,OKC,reb,0,False,False,,Thunder Rebound,36-37,36,37
 0021900819,2020-02-13,NOP,OKC,15.47,2,8,32,OKC,NOP,block,6,True,False,block,block,36-37,36,37
+0021900819,2020-02-13,NOP,OKC,15.47,2,8,32,OKC,OKC,reb,0,False,False,,Thunder Rebound,36-37,36,37
 0021900819,2020-02-13,NOP,OKC,15.48,2,8,31,OKC,OKC,tov,11,False,False,,Thunder Turnover: Shot Clock (T#4),36-37,36,37
 0021900819,2020-02-13,NOP,OKC,15.67,2,8,20,NOP,NOP,tov,1,False,True,Ball Bad Pass Turnover (P4.T7),,36-37,36,37
 0021900819,2020-02-13,NOP,OKC,15.67,2,8,20,NOP,OKC,steal,1,False,True,steal,steal,36-37,36,37
@@ -372,9 +372,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900819,2020-02-13,NOP,OKC,39.1,4,8,54,NOP,NOP,reb,0,False,False,Williamson REBOUND (Off:2 Def:2),,97-101,97,101
 0021900819,2020-02-13,NOP,OKC,39.12,4,8,53,NOP,NOP,fg_make,44,False,False,Williamson 2' Reverse Layup (25 PTS),,99-101,99,101
 0021900819,2020-02-13,NOP,OKC,39.38,4,8,37,OKC,OKC,fg_miss,5,True,False,,MISS Adams 2' Layup,99-101,99,101
+0021900819,2020-02-13,NOP,OKC,39.38,4,8,37,OKC,NOP,block,5,True,False,block,block,99-101,99,101
 0021900819,2020-02-13,NOP,OKC,39.38,4,8,37,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:3 Def:6),99-101,99,101
 0021900819,2020-02-13,NOP,OKC,39.38,4,8,37,OKC,OKC,tov,39,False,False,,Adams Step Out of Bounds Turnover (P1.T8),99-101,99,101
-0021900819,2020-02-13,NOP,OKC,39.38,4,8,37,OKC,NOP,block,5,True,False,block,block,99-101,99,101
 0021900819,2020-02-13,NOP,OKC,39.67,4,8,20,NOP,NOP,fg3_miss,1,False,False,MISS Ball 25' 3PT Jump Shot,,99-101,99,101
 0021900819,2020-02-13,NOP,OKC,39.7,4,8,18,NOP,NOP,reb,0,False,False,PELICANS Rebound,,99-101,99,101
 0021900819,2020-02-13,NOP,OKC,39.8,4,8,12,NOP,NOP,fg_make,5,False,False,Williamson 2' Layup (27 PTS) (Redick 2 AST),,101-101,101,101
@@ -393,9 +393,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900819,2020-02-13,NOP,OKC,41.55,4,6,27,OKC,NOP,steal,1,False,True,steal,steal,103-104,103,104
 0021900819,2020-02-13,NOP,OKC,41.7,4,6,18,NOP,NOP,fg_make,5,False,False,Williamson 2' Layup (31 PTS) (Ball 5 AST),,105-104,105,104
 0021900819,2020-02-13,NOP,OKC,42.12,4,5,53,OKC,OKC,fg_miss,1,True,False,,MISS Gallinari 10' Jump Shot,105-104,105,104
+0021900819,2020-02-13,NOP,OKC,42.12,4,5,53,OKC,NOP,block,1,True,False,block,block,105-104,105,104
 0021900819,2020-02-13,NOP,OKC,42.12,4,5,53,OKC,OKC,reb,0,False,False,,Thunder Rebound,105-104,105,104
 0021900819,2020-02-13,NOP,OKC,42.12,4,5,53,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.3 Short 0),105-104,105,104
-0021900819,2020-02-13,NOP,OKC,42.12,4,5,53,OKC,NOP,block,1,True,False,block,block,105-104,105,104
 0021900819,2020-02-13,NOP,OKC,42.2,4,5,48,OKC,OKC,fg_make,5,False,False,,Muscala 2' Layup (10 PTS) (Schroder 3 AST),105-106,105,106
 0021900819,2020-02-13,NOP,OKC,42.55,4,5,27,NOP,NOP,fg3_make,1,False,False,Melli 25' 3PT Jump Shot (6 PTS) (Redick 3 AST),,108-106,108,106
 0021900819,2020-02-13,NOP,OKC,42.82,4,5,11,OKC,NOP,foul,2,False,False,Ball S.FOUL (P4.T4) (K.Lane),,108-106,108,106
@@ -412,8 +412,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900819,2020-02-13,NOP,OKC,44.48,4,3,31,NOP,OKC,steal,1,False,True,steal,steal,111-112,111,112
 0021900819,2020-02-13,NOP,OKC,44.57,4,3,26,OKC,OKC,fg3_make,1,False,False,,Gallinari 28' 3PT Jump Shot (25 PTS) (Gilgeous-Alexander 6 AST),111-115,111,115
 0021900819,2020-02-13,NOP,OKC,44.97,4,3,2,NOP,NOP,fg_miss,5,True,False,MISS Williamson 4' Layup,,111-115,111,115
-0021900819,2020-02-13,NOP,OKC,44.97,4,3,2,NOP,NOP,reb,0,False,False,Williamson REBOUND (Off:3 Def:2),,111-115,111,115
 0021900819,2020-02-13,NOP,OKC,44.97,4,3,2,NOP,OKC,block,5,True,False,block,block,111-115,111,115
+0021900819,2020-02-13,NOP,OKC,44.97,4,3,2,NOP,NOP,reb,0,False,False,Williamson REBOUND (Off:3 Def:2),,111-115,111,115
 0021900819,2020-02-13,NOP,OKC,45.03,4,2,58,NOP,NOP,fg_miss,5,False,False,MISS Williamson 2' Layup,,111-115,111,115
 0021900819,2020-02-13,NOP,OKC,45.08,4,2,55,OKC,OKC,reb,0,False,False,,Dort REBOUND (Off:1 Def:2),111-115,111,115
 0021900819,2020-02-13,NOP,OKC,45.13,4,2,52,OKC,OKC,fg_miss,41,False,False,,MISS Gilgeous-Alexander 2' Running Layup,111-115,111,115

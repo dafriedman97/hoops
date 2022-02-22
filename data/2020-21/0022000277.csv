@@ -81,13 +81,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000277,2021-01-27,TOR,MIL,10.67,1,1,20,TOR,TOR,fg_miss,44,False,False,MISS Boucher 1' Reverse Layup,,30-30,30,30
 0022000277,2021-01-27,TOR,MIL,10.72,1,1,17,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:1 Def:2),30-30,30,30
 0022000277,2021-01-27,TOR,MIL,10.75,1,1,15,MIL,MIL,fg_miss,6,True,False,,MISS Middleton 2' Driving Layup,30-30,30,30
-0022000277,2021-01-27,TOR,MIL,10.75,1,1,15,MIL,MIL,reb,0,False,False,,Bucks Rebound,30-30,30,30
 0022000277,2021-01-27,TOR,MIL,10.75,1,1,15,MIL,TOR,block,6,True,False,block,block,30-30,30,30
+0022000277,2021-01-27,TOR,MIL,10.75,1,1,15,MIL,MIL,reb,0,False,False,,Bucks Rebound,30-30,30,30
 0022000277,2021-01-27,TOR,MIL,11.0,1,1,0,MIL,MIL,fg3_make,1,False,False,,Augustin 26' 3PT Jump Shot (6 PTS) (Antetokounmpo 3 AST),30-33,30,33
 0022000277,2021-01-27,TOR,MIL,11.22,1,0,47,TOR,TOR,fg3_make,1,False,False,Watanabe 26' 3PT Jump Shot (3 PTS) (Powell 1 AST),,33-33,33,33
 0022000277,2021-01-27,TOR,MIL,11.38,1,0,37,MIL,MIL,fg3_miss,1,True,False,,MISS Augustin 25' 3PT Jump Shot,33-33,33,33
-0022000277,2021-01-27,TOR,MIL,11.38,1,0,37,MIL,MIL,reb,0,False,False,,Bucks Rebound,33-33,33,33
 0022000277,2021-01-27,TOR,MIL,11.38,1,0,37,MIL,TOR,block,1,True,False,block,block,33-33,33,33
+0022000277,2021-01-27,TOR,MIL,11.38,1,0,37,MIL,MIL,reb,0,False,False,,Bucks Rebound,33-33,33,33
 0022000277,2021-01-27,TOR,MIL,11.47,1,0,32,MIL,MIL,fg_miss,6,True,False,,MISS Augustin 3' Driving Layup,33-33,33,33
 0022000277,2021-01-27,TOR,MIL,11.47,1,0,32,MIL,TOR,block,6,True,False,block,block,33-33,33,33
 0022000277,2021-01-27,TOR,MIL,11.48,1,0,31,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,33-33,33,33
@@ -143,9 +143,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000277,2021-01-27,TOR,MIL,15.52,2,8,29,TOR,TOR,fg3_miss,1,False,False,MISS Boucher 26' 3PT Jump Shot,,44-40,44,40
 0022000277,2021-01-27,TOR,MIL,15.57,2,8,26,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:6),44-40,44,40
 0022000277,2021-01-27,TOR,MIL,15.67,2,8,20,MIL,MIL,fg3_miss,1,False,False,,MISS DiVincenzo 26' 3PT Jump Shot,44-40,44,40
+0022000277,2021-01-27,TOR,MIL,15.77,2,8,14,MIL,MIL,reb,0,False,False,,Holiday REBOUND (Off:1 Def:1),44-40,44,40
 0022000277,2021-01-27,TOR,MIL,15.77,2,8,14,MIL,MIL,fg_miss,97,False,False,,MISS Holiday Tip Layup Shot,44-40,44,40
 0022000277,2021-01-27,TOR,MIL,15.77,2,8,14,MIL,MIL,reb,0,False,False,,Lopez REBOUND (Off:1 Def:0),44-40,44,40
-0022000277,2021-01-27,TOR,MIL,15.77,2,8,14,MIL,MIL,reb,0,False,False,,Holiday REBOUND (Off:1 Def:1),44-40,44,40
 0022000277,2021-01-27,TOR,MIL,15.8,2,8,12,MIL,MIL,fg_make,97,False,False,,Lopez Tip Layup Shot (8 PTS),44-42,44,42
 0022000277,2021-01-27,TOR,MIL,16.12,2,7,53,TOR,TOR,fg3_miss,80,False,False,MISS Siakam 27' 3PT Step Back Jump Shot,,44-42,44,42
 0022000277,2021-01-27,TOR,MIL,16.17,2,7,50,TOR,TOR,reb,0,False,False,Siakam REBOUND (Off:1 Def:1),,44-42,44,42
@@ -164,8 +164,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000277,2021-01-27,TOR,MIL,17.58,2,6,25,TOR,TOR,fg3_miss,1,False,False,MISS Davis 25' 3PT Jump Shot,,47-47,47,47
 0022000277,2021-01-27,TOR,MIL,17.62,2,6,23,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:1 Def:4),47-47,47,47
 0022000277,2021-01-27,TOR,MIL,17.72,2,6,17,MIL,MIL,fg_miss,6,True,False,,MISS Antetokounmpo 5' Driving Layup,47-47,47,47
-0022000277,2021-01-27,TOR,MIL,17.72,2,6,17,MIL,MIL,reb,0,False,False,,Bucks Rebound,47-47,47,47
 0022000277,2021-01-27,TOR,MIL,17.72,2,6,17,MIL,TOR,block,6,True,False,block,block,47-47,47,47
+0022000277,2021-01-27,TOR,MIL,17.72,2,6,17,MIL,MIL,reb,0,False,False,,Bucks Rebound,47-47,47,47
 0022000277,2021-01-27,TOR,MIL,17.82,2,6,11,,TOR,jump_ball,0,False,False,Jump Ball Baynes vs. Antetokounmpo: Tip to Middleton,,47-47,47,47
 0022000277,2021-01-27,TOR,MIL,17.85,2,6,9,MIL,MIL,fg_make,5,False,False,,Lopez 2' Layup (10 PTS) (Middleton 5 AST),47-49,47,49
 0022000277,2021-01-27,TOR,MIL,18.23,2,5,46,TOR,TOR,tov,11,False,False,RAPTORS Turnover: Shot Clock (T#5),,47-49,47,49
@@ -177,8 +177,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000277,2021-01-27,TOR,MIL,18.62,2,5,23,MIL,TOR,block,5,True,False,block,block,47-49,47,49
 0022000277,2021-01-27,TOR,MIL,18.63,2,5,22,MIL,MIL,reb,0,False,False,,Forbes REBOUND (Off:1 Def:0),47-49,47,49
 0022000277,2021-01-27,TOR,MIL,18.67,2,5,20,MIL,MIL,fg_miss,72,True,False,,MISS Forbes 4' Putback Layup,47-49,47,49
-0022000277,2021-01-27,TOR,MIL,18.67,2,5,20,MIL,MIL,reb,0,False,False,,Forbes REBOUND (Off:2 Def:0),47-49,47,49
 0022000277,2021-01-27,TOR,MIL,18.67,2,5,20,MIL,TOR,block,72,True,False,block,block,47-49,47,49
+0022000277,2021-01-27,TOR,MIL,18.67,2,5,20,MIL,MIL,reb,0,False,False,,Forbes REBOUND (Off:2 Def:0),47-49,47,49
 0022000277,2021-01-27,TOR,MIL,18.77,2,5,14,MIL,TOR,foul,1,False,False,Powell P.FOUL (P1.T4) (E.Scott),,47-49,47,49
 0022000277,2021-01-27,TOR,MIL,18.9,2,5,6,MIL,MIL,fg_make,86,False,False,,Portis 10' Turnaround Fadeaway (5 PTS) (Holiday 2 AST),47-51,47,51
 0022000277,2021-01-27,TOR,MIL,19.15,2,4,51,TOR,TOR,fg3_make,1,False,False,Powell 25' 3PT Jump Shot (13 PTS),,50-51,50,51
@@ -326,8 +326,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000277,2021-01-27,TOR,MIL,34.27,3,1,44,MIL,MIL,fg_miss,79,False,False,,MISS Middleton 15' Pullup Jump Shot,75-83,75,83
 0022000277,2021-01-27,TOR,MIL,34.32,3,1,41,TOR,TOR,reb,0,False,False,Watanabe REBOUND (Off:1 Def:5),,75-83,75,83
 0022000277,2021-01-27,TOR,MIL,34.4,3,1,36,TOR,TOR,fg_miss,6,True,False,MISS VanVleet 4' Driving Layup,,75-83,75,83
-0022000277,2021-01-27,TOR,MIL,34.4,3,1,36,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,75-83,75,83
 0022000277,2021-01-27,TOR,MIL,34.4,3,1,36,TOR,MIL,block,6,True,False,block,block,75-83,75,83
+0022000277,2021-01-27,TOR,MIL,34.4,3,1,36,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,75-83,75,83
 0022000277,2021-01-27,TOR,MIL,34.53,3,1,28,TOR,TOR,fg3_make,1,False,False,Johnson 3PT Jump Shot (3 PTS) (Davis 2 AST),,78-83,78,83
 0022000277,2021-01-27,TOR,MIL,34.93,3,1,4,MIL,MIL,fg_miss,79,False,False,,MISS Antetokounmpo 14' Pullup Jump Shot,78-83,78,83
 0022000277,2021-01-27,TOR,MIL,35.0,3,1,0,TOR,TOR,reb,0,False,False,Johnson REBOUND (Off:0 Def:2),,78-83,78,83
@@ -396,8 +396,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000277,2021-01-27,TOR,MIL,41.68,4,6,19,TOR,TOR,fg_make,67,False,False,Baynes 2' Hook Bank Shot (11 PTS) (Siakam 3 AST),,91-96,91,96
 0022000277,2021-01-27,TOR,MIL,41.97,4,6,2,MIL,MIL,fg_make,79,False,False,,Middleton 17' Pullup Jump Shot (19 PTS) (Forbes 1 AST),91-98,91,98
 0022000277,2021-01-27,TOR,MIL,42.22,4,5,47,TOR,TOR,tov,1,False,True,Siakam Bad Pass Turnover (P2.T10),,91-98,91,98
-0022000277,2021-01-27,TOR,MIL,42.22,4,5,47,MIL,TOR,foul,1,False,False,Baynes P.FOUL (P5.PN) (E.Scott),,91-98,91,98
 0022000277,2021-01-27,TOR,MIL,42.22,4,5,47,TOR,MIL,steal,1,False,True,steal,steal,91-98,91,98
+0022000277,2021-01-27,TOR,MIL,42.22,4,5,47,MIL,TOR,foul,1,False,False,Baynes P.FOUL (P5.PN) (E.Scott),,91-98,91,98
 0022000277,2021-01-27,TOR,MIL,42.22,4,5,47,MIL,MIL,ft_make,11,False,False,,Forbes Free Throw 1 of 2 (10 PTS),91-99,91,99
 0022000277,2021-01-27,TOR,MIL,42.22,4,5,47,MIL,MIL,ft_make,12,False,False,,Forbes Free Throw 2 of 2 (11 PTS),91-100,91,100
 0022000277,2021-01-27,TOR,MIL,42.53,4,5,28,TOR,TOR,fg_miss,6,True,False,MISS Siakam 3' Driving Layup,,91-100,91,100
@@ -435,8 +435,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000277,2021-01-27,TOR,MIL,45.75,4,2,15,TOR,TOR,fg3_miss,1,False,False,MISS VanVleet 26' 3PT Jump Shot,,100-106,100,106
 0022000277,2021-01-27,TOR,MIL,45.78,4,2,13,MIL,MIL,reb,0,False,False,,Bucks Rebound,100-106,100,106
 0022000277,2021-01-27,TOR,MIL,45.9,4,2,6,MIL,MIL,tov,1,False,True,,Holiday Bad Pass Turnover (P1.T14),100-106,100,106
-0022000277,2021-01-27,TOR,MIL,45.9,4,2,6,TOR,MIL,foul,1,False,False,,Antetokounmpo P.FOUL (P3.T2) (R.Mott),100-106,100,106
 0022000277,2021-01-27,TOR,MIL,45.9,4,2,6,MIL,TOR,steal,1,False,True,steal,steal,100-106,100,106
+0022000277,2021-01-27,TOR,MIL,45.9,4,2,6,TOR,MIL,foul,1,False,False,,Antetokounmpo P.FOUL (P3.T2) (R.Mott),100-106,100,106
 0022000277,2021-01-27,TOR,MIL,46.07,4,1,56,TOR,TOR,fg_make,6,False,False,Lowry 2' Driving Layup (18 PTS),,102-106,102,106
 0022000277,2021-01-27,TOR,MIL,46.37,4,1,38,MIL,MIL,fg3_make,1,False,False,,Middleton 27' 3PT Jump Shot (22 PTS) (Holiday 7 AST),102-109,102,109
 0022000277,2021-01-27,TOR,MIL,46.67,4,1,20,TOR,TOR,fg3_make,1,False,False,Johnson 3PT Jump Shot (6 PTS) (VanVleet 10 AST),,105-109,105,109

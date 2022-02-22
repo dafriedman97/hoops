@@ -90,8 +90,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800205,2018-11-14,BKN,MIA,9.2,1,2,48,MIA,MIA,ft_make,11,False,False,,Johnson Free Throw 1 of 2 (1 PTS),15-23,15,23
 0021800205,2018-11-14,BKN,MIA,9.2,1,2,48,MIA,MIA,ft_make,12,False,False,,Johnson Free Throw 2 of 2 (2 PTS),15-24,15,24
 0021800205,2018-11-14,BKN,MIA,9.43,1,2,34,BKN,BKN,fg_miss,6,True,False,MISS Hollis-Jefferson 4' Driving Layup,,15-24,15,24
-0021800205,2018-11-14,BKN,MIA,9.43,1,2,34,BKN,BKN,reb,0,False,False,Hollis-Jefferson REBOUND (Off:1 Def:0),,15-24,15,24
 0021800205,2018-11-14,BKN,MIA,9.43,1,2,34,BKN,MIA,block,6,True,False,block,block,15-24,15,24
+0021800205,2018-11-14,BKN,MIA,9.43,1,2,34,BKN,BKN,reb,0,False,False,Hollis-Jefferson REBOUND (Off:1 Def:0),,15-24,15,24
 0021800205,2018-11-14,BKN,MIA,9.57,1,2,26,BKN,BKN,fg_make,72,False,False,Hollis-Jefferson 2' Putback Layup (5 PTS),,17-24,17,24
 0021800205,2018-11-14,BKN,MIA,9.72,1,2,17,MIA,MIA,fg_make,79,False,False,,Adebayo 14' Pullup Jump Shot (4 PTS) (Ellington 1 AST),17-26,17,26
 0021800205,2018-11-14,BKN,MIA,10.0,1,2,0,BKN,MIA,foul,2,False,False,,McGruder S.FOUL (P1.PN) (K.Lane),17-26,17,26
@@ -312,8 +312,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800205,2018-11-14,BKN,MIA,29.98,3,6,1,BKN,BKN,fg_make,97,False,False,Davis 1' Tip Layup Shot (8 PTS),,61-77,61,77
 0021800205,2018-11-14,BKN,MIA,30.15,3,5,51,MIA,MIA,fg_make,1,False,False,,Whiteside 10' Jump Shot (12 PTS) (Dragic 3 AST),61-79,61,79
 0021800205,2018-11-14,BKN,MIA,30.52,3,5,29,BKN,BKN,fg_miss,6,False,False,MISS Carroll 6' Driving Layup,,61-79,61,79
-0021800205,2018-11-14,BKN,MIA,30.53,3,5,28,BKN,BKN,reb,0,False,False,NETS Rebound,,61-79,61,79
 0021800205,2018-11-14,BKN,MIA,30.53,3,5,28,BKN,MIA,foul,3,False,False,,Richardson L.B.FOUL (P2.T3) (K.Lane),61-79,61,79
+0021800205,2018-11-14,BKN,MIA,30.53,3,5,28,BKN,BKN,reb,0,False,False,NETS Rebound,,61-79,61,79
 0021800205,2018-11-14,BKN,MIA,30.65,3,5,21,BKN,BKN,fg_miss,98,False,False,MISS Faried 3' Cutting Layup Shot,,61-79,61,79
 0021800205,2018-11-14,BKN,MIA,30.65,3,5,21,MIA,MIA,reb,0,False,False,,Heat Rebound,61-79,61,79
 0021800205,2018-11-14,BKN,MIA,30.65,3,5,21,MIA,BKN,foul,3,False,False,Faried L.B.FOUL (P1.PN) (K.Mauer),,61-79,61,79
@@ -367,10 +367,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800205,2018-11-14,BKN,MIA,35.97,3,0,2,BKN,MIA,foul,2,False,False,,Haslem S.FOUL (P1.PN) (M.Ervin),70-90,70,90
 0021800205,2018-11-14,BKN,MIA,35.97,3,0,2,BKN,BKN,ft_make,11,False,False,Dinwiddie Free Throw 1 of 2 (13 PTS),,71-90,71,90
 0021800205,2018-11-14,BKN,MIA,35.97,3,0,2,BKN,BKN,ft_make,12,False,False,Dinwiddie Free Throw 2 of 2 (14 PTS),,72-90,72,90
-0021800205,2018-11-14,BKN,MIA,36.0,3,0,0,MIA,MIA,fg3_miss,103,False,False,,MISS Richardson 47' 3PT Running Pull-Up Jump Shot,72-90,72,90
-0021800205,2018-11-14,BKN,MIA,36.0,3,0,0,MIA,MIA,reb,0,False,False,,Heat Rebound,72-90,72,90
 0021800205,2018-11-14,BKN,MIA,36.0,3,0,0,MIA,,period_end,0,False,False,,,72-90,72,90
 0021800205,2018-11-14,BKN,MIA,36.0,4,12,0,MIA,,period_start,0,False,False,,,72-90,72,90
+0021800205,2018-11-14,BKN,MIA,36.0,3,0,0,MIA,MIA,fg3_miss,103,False,False,,MISS Richardson 47' 3PT Running Pull-Up Jump Shot,72-90,72,90
+0021800205,2018-11-14,BKN,MIA,36.0,3,0,0,MIA,MIA,reb,0,False,False,,Heat Rebound,72-90,72,90
 0021800205,2018-11-14,BKN,MIA,36.4,4,11,36,BKN,BKN,fg3_make,79,False,False,Dinwiddie 24' 3PT Pullup Jump Shot (17 PTS),,75-90,75,90
 0021800205,2018-11-14,BKN,MIA,36.63,4,11,22,MIA,BKN,foul,1,False,False,Russell P.FOUL (P4.T1) (M.Ervin),,75-90,75,90
 0021800205,2018-11-14,BKN,MIA,36.75,4,11,15,MIA,MIA,fg_miss,101,False,False,,MISS Winslow 11' Driving Floating Jump Shot,75-90,75,90
@@ -421,8 +421,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800205,2018-11-14,BKN,MIA,42.57,4,5,26,BKN,BKN,fg_miss,41,False,False,MISS Kurucs 2' Running Layup,,90-103,90,103
 0021800205,2018-11-14,BKN,MIA,42.58,4,5,25,BKN,BKN,reb,0,False,False,Hollis-Jefferson REBOUND (Off:5 Def:4),,90-103,90,103
 0021800205,2018-11-14,BKN,MIA,42.6,4,5,24,BKN,BKN,fg_miss,97,False,False,MISS Hollis-Jefferson 4' Tip Layup Shot,,90-103,90,103
-0021800205,2018-11-14,BKN,MIA,42.62,4,5,23,BKN,BKN,reb,0,False,False,Carroll REBOUND (Off:2 Def:2),,90-103,90,103
 0021800205,2018-11-14,BKN,MIA,42.62,4,5,23,BKN,BKN,fg_make,97,False,False,Carroll 1' Tip Layup Shot (6 PTS),,92-103,92,103
+0021800205,2018-11-14,BKN,MIA,42.62,4,5,23,BKN,BKN,reb,0,False,False,Carroll REBOUND (Off:2 Def:2),,90-103,90,103
 0021800205,2018-11-14,BKN,MIA,42.93,4,5,4,MIA,BKN,foul,2,False,False,Kurucs S.FOUL (P1.T4) (M.Ervin),,92-103,92,103
 0021800205,2018-11-14,BKN,MIA,42.93,4,5,4,MIA,MIA,ft_miss,11,False,False,,MISS Richardson Free Throw 1 of 2,92-103,92,103
 0021800205,2018-11-14,BKN,MIA,42.93,4,5,4,MIA,MIA,reb,1,False,False,,Heat Rebound,92-103,92,103

@@ -7,14 +7,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000644,2021-03-20,LAC,CHA,1.02,1,10,59,CHA,CHA,fg_miss,57,False,False,,MISS Washington 8' Driving Hook Shot,3-0,3,0
 0022000644,2021-03-20,LAC,CHA,1.07,1,10,56,LAC,LAC,reb,0,False,False,Morris Sr. REBOUND (Off:0 Def:2),,3-0,3,0
 0022000644,2021-03-20,LAC,CHA,1.17,1,10,50,LAC,LAC,tov,1,False,True,Zubac Bad Pass Turnover (P1.T1),,3-0,3,0
-0022000644,2021-03-20,LAC,CHA,1.17,1,10,50,CHA,LAC,foul,28,False,False,Jackson Personal Take Foul (P1.T1) (H.Workman),,3-0,3,0
 0022000644,2021-03-20,LAC,CHA,1.17,1,10,50,LAC,CHA,steal,1,False,True,steal,steal,3-0,3,0
+0022000644,2021-03-20,LAC,CHA,1.17,1,10,50,CHA,LAC,foul,28,False,False,Jackson Personal Take Foul (P1.T1) (H.Workman),,3-0,3,0
 0022000644,2021-03-20,LAC,CHA,1.4,1,10,36,CHA,CHA,fg_make,7,False,False,,Biyombo 2' Dunk (2 PTS) (Hayward 1 AST),3-2,3,2
 0022000644,2021-03-20,LAC,CHA,1.77,1,10,14,LAC,LAC,fg_make,86,False,False,Morris Sr. 10' Turnaround Fadeaway (2 PTS),,5-2,5,2
 0022000644,2021-03-20,LAC,CHA,2.07,1,9,56,CHA,CHA,tov,45,False,False,,Biyombo Out of Bounds - Bad Pass Turnover Turnover (P1.T1),5-2,5,2
 0022000644,2021-03-20,LAC,CHA,2.32,1,9,41,LAC,LAC,fg_miss,101,True,False,MISS George 6' Driving Floating Jump Shot,,5-2,5,2
-0022000644,2021-03-20,LAC,CHA,2.32,1,9,41,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,5-2,5,2
 0022000644,2021-03-20,LAC,CHA,2.32,1,9,41,LAC,CHA,block,101,True,False,block,block,5-2,5,2
+0022000644,2021-03-20,LAC,CHA,2.32,1,9,41,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,5-2,5,2
 0022000644,2021-03-20,LAC,CHA,2.38,1,9,37,LAC,LAC,fg_make,9,False,False,George 1' Driving Dunk (5 PTS) (Leonard 2 AST),,7-2,7,2
 0022000644,2021-03-20,LAC,CHA,2.77,1,9,14,CHA,CHA,fg_miss,63,False,False,,MISS Hayward 11' Fadeaway Jumper,7-2,7,2
 0022000644,2021-03-20,LAC,CHA,2.82,1,9,11,LAC,LAC,reb,0,False,False,Zubac REBOUND (Off:0 Def:1),,7-2,7,2
@@ -186,9 +186,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000644,2021-03-20,LAC,CHA,22.98,2,1,1,LAC,LAC,fg_miss,86,False,False,MISS Leonard 13' Turnaround Fadeaway Shot,,61-42,61,42
 0022000644,2021-03-20,LAC,CHA,23.0,2,1,0,LAC,LAC,reb,0,False,False,Patterson REBOUND (Off:1 Def:1),,61-42,61,42
 0022000644,2021-03-20,LAC,CHA,23.0,2,1,0,LAC,LAC,fg_miss,72,True,False,MISS Patterson 3' Putback Layup,,61-42,61,42
+0022000644,2021-03-20,LAC,CHA,23.0,2,1,0,LAC,CHA,block,72,True,False,block,block,61-42,61,42
 0022000644,2021-03-20,LAC,CHA,23.0,2,1,0,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,61-42,61,42
 0022000644,2021-03-20,LAC,CHA,23.0,2,1,0,LAC,LAC,tov,12,False,False,Mann Inbound Turnover (P1.T8),,61-42,61,42
-0022000644,2021-03-20,LAC,CHA,23.0,2,1,0,LAC,CHA,block,72,True,False,block,block,61-42,61,42
 0022000644,2021-03-20,LAC,CHA,23.25,2,0,45,CHA,CHA,fg_miss,6,False,False,,MISS Washington 3' Driving Layup,61-42,61,42
 0022000644,2021-03-20,LAC,CHA,23.28,2,0,43,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,61-42,61,42
 0022000644,2021-03-20,LAC,CHA,23.52,2,0,29,LAC,CHA,foul,2,False,False,,Washington S.FOUL (P1.PN) (D.Taylor),61-42,61,42
@@ -271,11 +271,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000644,2021-03-20,LAC,CHA,31.8,3,4,12,LAC,LAC,fg3_miss,1,False,False,MISS Leonard 25' 3PT Jump Shot,,86-60,86,60
 0022000644,2021-03-20,LAC,CHA,31.83,3,4,10,CHA,CHA,reb,0,False,False,,Hornets Rebound,86-60,86,60
 0022000644,2021-03-20,LAC,CHA,32.02,3,3,59,CHA,CHA,fg3_make,1,False,False,,Bridges 26' 3PT Jump Shot (9 PTS) (Martin 2 AST),86-63,86,63
-0022000644,2021-03-20,LAC,CHA,32.22,3,3,47,LAC,LAC,fg_miss,6,True,False,MISS Zubac 4' Driving Layup,,86-63,86,63
-0022000644,2021-03-20,LAC,CHA,32.22,3,3,47,CHA,CHA,reb,0,False,False,,Hornets Rebound,86-63,86,63
 0022000644,2021-03-20,LAC,CHA,32.22,3,3,47,CHA,CHA,timeout,7,False,False,,Hornets Timeout: Coach Challenge (Reg.3 Short 0),86-63,86,63
 0022000644,2021-03-20,LAC,CHA,32.22,3,3,47,,LAC,jump_ball,1,False,False,Jump Ball (CC) Zubac vs. Bridges: Tip to Washington,,86-63,86,63
+0022000644,2021-03-20,LAC,CHA,32.22,3,3,47,LAC,LAC,fg_miss,6,True,False,MISS Zubac 4' Driving Layup,,86-63,86,63
 0022000644,2021-03-20,LAC,CHA,32.22,3,3,47,LAC,CHA,block,6,True,False,block,block,86-63,86,63
+0022000644,2021-03-20,LAC,CHA,32.22,3,3,47,CHA,CHA,reb,0,False,False,,Hornets Rebound,86-63,86,63
 0022000644,2021-03-20,LAC,CHA,32.55,3,3,27,CHA,CHA,fg3_make,1,False,False,,Bridges 3PT Jump Shot (12 PTS) (Rozier 5 AST),86-66,86,66
 0022000644,2021-03-20,LAC,CHA,32.78,3,3,13,LAC,CHA,foul,1,False,False,,Martin P.FOUL (P2.PN) (D.Taylor),86-66,86,66
 0022000644,2021-03-20,LAC,CHA,32.78,3,3,13,LAC,CHA,violation,1,False,False,,Hornets Violation: Delay of game Violation,86-66,86,66
@@ -377,8 +377,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000644,2021-03-20,LAC,CHA,42.15,4,5,51,CHA,CHA,fg_miss,73,False,False,,MISS Martin 2' Driving Reverse Layup,112-82,112,82
 0022000644,2021-03-20,LAC,CHA,42.2,4,5,48,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:2 Def:2),112-82,112,82
 0022000644,2021-03-20,LAC,CHA,42.23,4,5,46,CHA,CHA,fg3_miss,1,False,False,,MISS Washington 3PT Jump Shot,112-82,112,82
-0022000644,2021-03-20,LAC,CHA,42.27,4,5,44,CHA,CHA,reb,0,False,False,,Hornets Rebound,112-82,112,82
 0022000644,2021-03-20,LAC,CHA,42.27,4,5,44,,LAC,jump_ball,0,False,False,Jump Ball Kabengele vs. Biyombo: Tip to Bridges,,112-82,112,82
+0022000644,2021-03-20,LAC,CHA,42.27,4,5,44,CHA,CHA,reb,0,False,False,,Hornets Rebound,112-82,112,82
 0022000644,2021-03-20,LAC,CHA,42.42,4,5,35,CHA,CHA,fg_make,86,False,False,,Martin 13' Turnaround Fadeaway (3 PTS) (Bridges 2 AST),112-84,112,84
 0022000644,2021-03-20,LAC,CHA,42.63,4,5,22,LAC,LAC,fg3_miss,1,False,False,MISS Coffey 25' 3PT Jump Shot,,112-84,112,84
 0022000644,2021-03-20,LAC,CHA,42.72,4,5,17,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:2 Def:3),112-84,112,84

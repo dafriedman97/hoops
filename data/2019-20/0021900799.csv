@@ -24,8 +24,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900799,2020-02-10,DEN,SAS,3.37,1,8,38,SAS,SAS,fg_miss,1,False,False,,MISS Aldridge 16' Jump Shot,6-11,6,11
 0021900799,2020-02-10,DEN,SAS,3.42,1,8,35,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:0 Def:1),,6-11,6,11
 0021900799,2020-02-10,DEN,SAS,3.5,1,8,30,DEN,DEN,tov,1,False,True,Jokic Bad Pass Turnover (P2.T3),,6-11,6,11
-0021900799,2020-02-10,DEN,SAS,3.5,1,8,30,SAS,DEN,foul,28,False,False,Jokic Personal Take Foul (P1.T2) (L.Wood),,6-11,6,11
 0021900799,2020-02-10,DEN,SAS,3.5,1,8,30,DEN,SAS,steal,1,False,True,steal,steal,6-11,6,11
+0021900799,2020-02-10,DEN,SAS,3.5,1,8,30,SAS,DEN,foul,28,False,False,Jokic Personal Take Foul (P1.T2) (L.Wood),,6-11,6,11
 0021900799,2020-02-10,DEN,SAS,3.7,1,8,18,SAS,SAS,fg_make,6,False,False,,Lyles 2' Driving Layup (5 PTS) (Aldridge 1 AST),6-13,6,13
 0021900799,2020-02-10,DEN,SAS,3.9,1,8,6,DEN,DEN,fg_make,6,False,False,Grant 3' Driving Layup (2 PTS) (Harris 1 AST),,8-13,8,13
 0021900799,2020-02-10,DEN,SAS,4.17,1,7,50,SAS,SAS,fg3_make,1,False,False,,Aldridge 3PT Jump Shot (11 PTS) (Forbes 1 AST),8-16,8,16
@@ -69,8 +69,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900799,2020-02-10,DEN,SAS,10.18,1,1,49,SAS,SAS,fg_miss,47,False,False,,MISS Aldridge 11' Turnaround Jump Shot,26-33,26,33
 0021900799,2020-02-10,DEN,SAS,10.22,1,1,47,SAS,SAS,reb,0,False,False,,Aldridge REBOUND (Off:1 Def:1),26-33,26,33
 0021900799,2020-02-10,DEN,SAS,10.4,1,1,36,SAS,SAS,fg_miss,79,False,False,,MISS White 12' Pullup Jump Shot,26-33,26,33
-0021900799,2020-02-10,DEN,SAS,10.52,1,1,29,SAS,SAS,fg_make,107,False,False,,Aldridge 1' Tip Dunk Shot (17 PTS),26-35,26,35
 0021900799,2020-02-10,DEN,SAS,10.52,1,1,29,SAS,SAS,reb,0,False,False,,Aldridge REBOUND (Off:2 Def:1),26-35,26,35
+0021900799,2020-02-10,DEN,SAS,10.52,1,1,29,SAS,SAS,fg_make,107,False,False,,Aldridge 1' Tip Dunk Shot (17 PTS),26-35,26,35
 0021900799,2020-02-10,DEN,SAS,10.75,1,1,15,DEN,DEN,fg_miss,79,False,False,MISS Morris 19' Pullup Jump Shot,,26-35,26,35
 0021900799,2020-02-10,DEN,SAS,10.78,1,1,13,SAS,SAS,reb,0,False,False,,Mills REBOUND (Off:0 Def:1),26-35,26,35
 0021900799,2020-02-10,DEN,SAS,10.98,1,1,1,SAS,SAS,fg3_make,80,False,False,,White 3PT Step Back Jump Shot (5 PTS) (Aldridge 3 AST),26-38,26,38
@@ -89,9 +89,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900799,2020-02-10,DEN,SAS,12.22,2,11,47,SAS,SAS,fg3_make,79,False,False,,Mills 26' 3PT Pullup Jump Shot (6 PTS) (Poeltl 1 AST),30-43,30,43
 0021900799,2020-02-10,DEN,SAS,12.57,2,11,26,DEN,DEN,fg_make,101,False,False,Millsap 11' Driving Floating Jump Shot (5 PTS) (Morris 2 AST),,32-43,32,43
 0021900799,2020-02-10,DEN,SAS,12.8,2,11,12,SAS,SAS,fg_miss,86,True,False,,MISS Gay 6' Turnaround Fadeaway Shot,32-43,32,43
+0021900799,2020-02-10,DEN,SAS,12.8,2,11,12,SAS,DEN,block,86,True,False,block,block,32-43,32,43
 0021900799,2020-02-10,DEN,SAS,12.8,2,11,12,SAS,SAS,reb,0,False,False,,Gay REBOUND (Off:1 Def:0),32-43,32,43
 0021900799,2020-02-10,DEN,SAS,12.8,2,11,12,SAS,DEN,foul,2,False,False,Dozier S.FOUL (P2.T1) (L.Wood),,32-43,32,43
-0021900799,2020-02-10,DEN,SAS,12.8,2,11,12,SAS,DEN,block,86,True,False,block,block,32-43,32,43
 0021900799,2020-02-10,DEN,SAS,12.8,2,11,12,SAS,SAS,ft_make,11,False,False,,Gay Free Throw 1 of 2 (1 PTS),32-44,32,44
 0021900799,2020-02-10,DEN,SAS,12.8,2,11,12,SAS,SAS,ft_make,12,False,False,,Gay Free Throw 2 of 2 (2 PTS),32-45,32,45
 0021900799,2020-02-10,DEN,SAS,12.95,2,11,3,DEN,DEN,fg3_miss,1,False,False,MISS McRae 3PT Jump Shot,,32-45,32,45
@@ -125,9 +125,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900799,2020-02-10,DEN,SAS,16.0,2,8,0,DEN,DEN,reb,1,False,False,NUGGETS Rebound,,39-51,39,51
 0021900799,2020-02-10,DEN,SAS,16.0,2,8,0,DEN,DEN,ft_make,12,False,False,Millsap Free Throw 2 of 2 (6 PTS),,40-51,40,51
 0021900799,2020-02-10,DEN,SAS,16.2,2,7,48,SAS,SAS,fg3_miss,1,False,False,,MISS Belinelli 3PT Jump Shot,40-51,40,51
+0021900799,2020-02-10,DEN,SAS,16.32,2,7,41,SAS,SAS,reb,0,False,False,,Walker IV REBOUND (Off:2 Def:0),40-51,40,51
 0021900799,2020-02-10,DEN,SAS,16.32,2,7,41,SAS,SAS,fg_miss,97,False,False,,MISS Walker IV 1' Tip Layup Shot,40-51,40,51
 0021900799,2020-02-10,DEN,SAS,16.32,2,7,41,DEN,DEN,reb,0,False,False,Grant REBOUND (Off:0 Def:2),,40-51,40,51
-0021900799,2020-02-10,DEN,SAS,16.32,2,7,41,SAS,SAS,reb,0,False,False,,Walker IV REBOUND (Off:2 Def:0),40-51,40,51
 0021900799,2020-02-10,DEN,SAS,16.37,2,7,38,DEN,DEN,fg3_make,1,False,False,Grant 25' 3PT Jump Shot (8 PTS) (McRae 3 AST),,43-51,43,51
 0021900799,2020-02-10,DEN,SAS,16.38,2,7,37,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.2 Short 0),43-51,43,51
 0021900799,2020-02-10,DEN,SAS,16.63,2,7,22,SAS,SAS,fg3_make,1,False,False,,Gay 25' 3PT Jump Shot (7 PTS) (Aldridge 4 AST),43-54,43,54
@@ -244,8 +244,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900799,2020-02-10,DEN,SAS,30.47,3,5,32,SAS,SAS,fg3_miss,1,False,False,,MISS Aldridge 25' 3PT Jump Shot,68-86,68,86
 0021900799,2020-02-10,DEN,SAS,30.53,3,5,28,DEN,DEN,reb,0,False,False,McRae REBOUND (Off:0 Def:3),,68-86,68,86
 0021900799,2020-02-10,DEN,SAS,30.63,3,5,22,DEN,DEN,fg_miss,101,True,False,MISS Millsap 6' Driving Floating Jump Shot,,68-86,68,86
-0021900799,2020-02-10,DEN,SAS,30.63,3,5,22,SAS,SAS,reb,0,False,False,,Spurs Rebound,68-86,68,86
 0021900799,2020-02-10,DEN,SAS,30.63,3,5,22,DEN,SAS,block,101,True,False,block,block,68-86,68,86
+0021900799,2020-02-10,DEN,SAS,30.63,3,5,22,SAS,SAS,reb,0,False,False,,Spurs Rebound,68-86,68,86
 0021900799,2020-02-10,DEN,SAS,30.7,3,5,18,,DEN,jump_ball,0,False,False,Jump Ball Millsap vs. Lyles: Tip to Aldridge,,68-86,68,86
 0021900799,2020-02-10,DEN,SAS,31.02,3,4,59,SAS,DEN,foul,2,False,False,McRae S.FOUL (P2.T2) (S.Corbin),,68-86,68,86
 0021900799,2020-02-10,DEN,SAS,31.02,3,4,59,SAS,SAS,ft_make,11,False,False,,White Free Throw 1 of 2 (8 PTS),68-87,68,87
@@ -272,8 +272,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900799,2020-02-10,DEN,SAS,33.35,3,2,39,DEN,DEN,ft_make,11,False,False,McRae Free Throw 1 of 2 (4 PTS),,77-91,77,91
 0021900799,2020-02-10,DEN,SAS,33.35,3,2,39,DEN,DEN,ft_make,12,False,False,McRae Free Throw 2 of 2 (5 PTS),,78-91,78,91
 0021900799,2020-02-10,DEN,SAS,33.65,3,2,21,SAS,SAS,fg_miss,6,True,False,,MISS White 3' Driving Layup,78-91,78,91
-0021900799,2020-02-10,DEN,SAS,33.65,3,2,21,SAS,SAS,reb,0,False,False,,Spurs Rebound,78-91,78,91
 0021900799,2020-02-10,DEN,SAS,33.65,3,2,21,SAS,DEN,block,6,True,False,block,block,78-91,78,91
+0021900799,2020-02-10,DEN,SAS,33.65,3,2,21,SAS,SAS,reb,0,False,False,,Spurs Rebound,78-91,78,91
 0021900799,2020-02-10,DEN,SAS,33.73,3,2,16,SAS,SAS,fg_miss,79,False,False,,MISS Gay 8' Pullup Jump Shot,78-91,78,91
 0021900799,2020-02-10,DEN,SAS,33.77,3,2,14,DEN,DEN,reb,0,False,False,Millsap REBOUND (Off:2 Def:2),,78-91,78,91
 0021900799,2020-02-10,DEN,SAS,34.12,3,1,53,DEN,DEN,fg_make,79,False,False,Morris 17' Pullup Jump Shot (11 PTS),,80-91,80,91
@@ -334,8 +334,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900799,2020-02-10,DEN,SAS,40.68,4,7,19,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 5 Short 0),,102-107,102,107
 0021900799,2020-02-10,DEN,SAS,41.05,4,6,57,DEN,DEN,fg_make,78,False,False,Murray 7' Floating Jump Shot (17 PTS),,104-107,104,107
 0021900799,2020-02-10,DEN,SAS,41.23,4,6,46,SAS,SAS,fg_miss,6,True,False,,MISS Murray 1' Driving Layup,104-107,104,107
-0021900799,2020-02-10,DEN,SAS,41.23,4,6,46,SAS,SAS,reb,0,False,False,,Spurs Rebound,104-107,104,107
 0021900799,2020-02-10,DEN,SAS,41.23,4,6,46,SAS,DEN,block,6,True,False,block,block,104-107,104,107
+0021900799,2020-02-10,DEN,SAS,41.23,4,6,46,SAS,SAS,reb,0,False,False,,Spurs Rebound,104-107,104,107
 0021900799,2020-02-10,DEN,SAS,41.32,4,6,41,SAS,SAS,fg_make,63,False,False,,Aldridge 13' Fadeaway Jumper (31 PTS),104-109,104,109
 0021900799,2020-02-10,DEN,SAS,41.65,4,6,21,DEN,DEN,fg_make,80,False,False,Murray 20' Step Back Jump Shot (19 PTS) (Jokic 10 AST),,106-109,106,109
 0021900799,2020-02-10,DEN,SAS,41.98,4,6,1,SAS,DEN,foul,2,False,False,Jokic S.FOUL (P4.T2) (L.Wood),,106-109,106,109

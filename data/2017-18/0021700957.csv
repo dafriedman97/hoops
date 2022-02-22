@@ -8,8 +8,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700957,2018-03-06,CHA,PHI,1.15,1,10,51,CHA,CHA,ft_make,11,False,False,Kidd-Gilchrist Free Throw 1 of 2 (1 PTS),,3-2,3,2
 0021700957,2018-03-06,CHA,PHI,1.15,1,10,51,CHA,CHA,ft_make,12,False,False,Kidd-Gilchrist Free Throw 2 of 2 (2 PTS),,4-2,4,2
 0021700957,2018-03-06,CHA,PHI,1.48,1,10,31,PHI,PHI,fg_miss,1,True,False,,MISS Embiid 5' Jump Shot,4-2,4,2
-0021700957,2018-03-06,CHA,PHI,1.48,1,10,31,PHI,PHI,reb,0,False,False,,76ers Rebound,4-2,4,2
 0021700957,2018-03-06,CHA,PHI,1.48,1,10,31,PHI,CHA,block,1,True,False,block,block,4-2,4,2
+0021700957,2018-03-06,CHA,PHI,1.48,1,10,31,PHI,PHI,reb,0,False,False,,76ers Rebound,4-2,4,2
 0021700957,2018-03-06,CHA,PHI,1.55,1,10,27,PHI,PHI,fg3_miss,1,False,False,,MISS Embiid 25' 3PT Jump Shot,4-2,4,2
 0021700957,2018-03-06,CHA,PHI,1.58,1,10,25,CHA,CHA,reb,0,False,False,Batum REBOUND (Off:0 Def:1),,4-2,4,2
 0021700957,2018-03-06,CHA,PHI,1.68,1,10,19,CHA,CHA,fg3_miss,1,False,False,MISS Williams 26' 3PT Jump Shot,,4-2,4,2
@@ -164,10 +164,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700957,2018-03-06,CHA,PHI,20.13,2,3,52,CHA,CHA,fg3_miss,1,False,False,MISS Williams 26' 3PT Jump Shot,,48-52,48,52
 0021700957,2018-03-06,CHA,PHI,20.13,2,3,52,PHI,PHI,reb,0,False,False,,Saric REBOUND (Off:0 Def:4),48-52,48,52
 0021700957,2018-03-06,CHA,PHI,20.13,2,3,52,PHI,CHA,foul,11,False,False,Kidd-Gilchrist T.FOUL (P0.T4) (J.Van Duyne),,48-52,48,52
-0021700957,2018-03-06,CHA,PHI,20.13,2,3,52,PHI,PHI,ft_make,16,False,False,,Belinelli Free Throw Technical (7 PTS),48-53,48,53
 0021700957,2018-03-06,CHA,PHI,20.13,2,3,52,PHI,CHA,foul,11,False,False,Kidd-Gilchrist T.FOUL (P0.T4) (P.Fraher),,48-53,48,53
-0021700957,2018-03-06,CHA,PHI,20.13,2,3,52,PHI,PHI,ft_make,16,False,False,,Belinelli Free Throw Technical (8 PTS),48-54,48,54
 0021700957,2018-03-06,CHA,PHI,20.13,2,3,52,PHI,CHA,ejection,4,False,False,Kidd-Gilchrist Ejection:Other,,48-54,48,54
+0021700957,2018-03-06,CHA,PHI,20.13,2,3,52,PHI,PHI,ft_make,16,False,False,,Belinelli Free Throw Technical (7 PTS),48-53,48,53
+0021700957,2018-03-06,CHA,PHI,20.13,2,3,52,PHI,PHI,ft_make,16,False,False,,Belinelli Free Throw Technical (8 PTS),48-54,48,54
 0021700957,2018-03-06,CHA,PHI,20.42,2,3,35,PHI,PHI,fg_make,1,False,False,,Redick 22' Jump Shot (10 PTS) (Embiid 1 AST),48-56,48,56
 0021700957,2018-03-06,CHA,PHI,20.68,2,3,19,CHA,CHA,fg_make,3,False,False,Howard 1' Hook Shot (8 PTS),,50-56,50,56
 0021700957,2018-03-06,CHA,PHI,21.05,2,2,57,PHI,PHI,fg_make,80,False,False,,Embiid 19' Step Back Jump Shot (4 PTS),50-58,50,58
@@ -182,8 +182,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700957,2018-03-06,CHA,PHI,22.0,2,2,0,PHI,PHI,ft_make,16,False,False,,Redick Free Throw Technical (11 PTS),50-61,50,61
 0021700957,2018-03-06,CHA,PHI,22.25,2,1,45,PHI,PHI,fg3_make,1,False,False,,Ilyasova 26' 3PT Jump Shot (5 PTS) (McConnell 5 AST),50-64,50,64
 0021700957,2018-03-06,CHA,PHI,22.55,2,1,27,CHA,CHA,fg_miss,5,True,False,MISS Walker 2' Layup,,50-64,50,64
-0021700957,2018-03-06,CHA,PHI,22.55,2,1,27,PHI,PHI,reb,0,False,False,,McConnell REBOUND (Off:0 Def:1),50-64,50,64
 0021700957,2018-03-06,CHA,PHI,22.55,2,1,27,CHA,PHI,block,5,True,False,block,block,50-64,50,64
+0021700957,2018-03-06,CHA,PHI,22.55,2,1,27,PHI,PHI,reb,0,False,False,,McConnell REBOUND (Off:0 Def:1),50-64,50,64
 0021700957,2018-03-06,CHA,PHI,22.65,2,1,21,PHI,PHI,tov,1,False,True,,Redick Bad Pass Turnover (P1.T9),50-64,50,64
 0021700957,2018-03-06,CHA,PHI,22.65,2,1,21,PHI,CHA,steal,1,False,True,steal,steal,50-64,50,64
 0021700957,2018-03-06,CHA,PHI,22.73,2,1,16,CHA,CHA,fg3_miss,1,False,False,MISS Walker 26' 3PT Jump Shot,,50-64,50,64
@@ -357,8 +357,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700957,2018-03-06,CHA,PHI,42.12,4,5,53,PHI,PHI,reb,0,False,False,,Ilyasova REBOUND (Off:2 Def:2),104-116,104,116
 0021700957,2018-03-06,CHA,PHI,42.23,4,5,46,PHI,PHI,fg_make,72,False,False,,Ilyasova 1' Putback Layup (11 PTS),104-118,104,118
 0021700957,2018-03-06,CHA,PHI,42.45,4,5,33,CHA,CHA,fg_miss,1,True,False,MISS Kaminsky 8' Jump Shot,,104-118,104,118
-0021700957,2018-03-06,CHA,PHI,42.45,4,5,33,PHI,PHI,reb,0,False,False,,Covington REBOUND (Off:2 Def:2),104-118,104,118
 0021700957,2018-03-06,CHA,PHI,42.45,4,5,33,CHA,PHI,block,1,True,False,block,block,104-118,104,118
+0021700957,2018-03-06,CHA,PHI,42.45,4,5,33,PHI,PHI,reb,0,False,False,,Covington REBOUND (Off:2 Def:2),104-118,104,118
 0021700957,2018-03-06,CHA,PHI,42.6,4,5,24,PHI,PHI,fg_make,5,False,False,,Saric 2' Layup (19 PTS) (Simmons 12 AST),104-120,104,120
 0021700957,2018-03-06,CHA,PHI,42.62,4,5,23,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 5 Short 0),,104-120,104,120
 0021700957,2018-03-06,CHA,PHI,42.78,4,5,13,CHA,PHI,foul,2,False,False,,Embiid S.FOUL (P4.T4) (J.Van Duyne),104-120,104,120

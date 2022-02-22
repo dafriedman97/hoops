@@ -171,8 +171,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800616,2019-01-09,LAL,DET,19.27,2,4,44,DET,DET,fg_miss,73,False,False,,MISS Drummond 2' Driving Reverse Layup,40-34,40,34
 0021800616,2019-01-09,LAL,DET,19.3,2,4,42,LAL,LAL,reb,0,False,False,Hart REBOUND (Off:0 Def:3),,40-34,40,34
 0021800616,2019-01-09,LAL,DET,19.4,2,4,36,LAL,LAL,fg_miss,5,True,False,MISS Ingram 2' Layup,,40-34,40,34
-0021800616,2019-01-09,LAL,DET,19.4,2,4,36,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:3 Def:7),40-34,40,34
 0021800616,2019-01-09,LAL,DET,19.4,2,4,36,LAL,DET,block,5,True,False,block,block,40-34,40,34
+0021800616,2019-01-09,LAL,DET,19.4,2,4,36,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:3 Def:7),40-34,40,34
 0021800616,2019-01-09,LAL,DET,19.52,2,4,29,DET,DET,fg_make,9,False,False,,Griffin 1' Driving Dunk (8 PTS) (Jackson 4 AST),40-36,40,36
 0021800616,2019-01-09,LAL,DET,19.55,2,4,27,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 3 Short 0),,40-36,40,36
 0021800616,2019-01-09,LAL,DET,19.7,2,4,18,LAL,DET,foul,1,False,False,,Brown P.FOUL (P2.T4) (R.Mott),40-36,40,36
@@ -204,9 +204,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800616,2019-01-09,LAL,DET,23.68,2,0,19,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:4 Def:7),55-45,55,45
 0021800616,2019-01-09,LAL,DET,23.68,2,0,19,DET,DET,fg_make,107,False,False,,Drummond 1' Tip Dunk Shot (6 PTS),55-47,55,47
 0021800616,2019-01-09,LAL,DET,24.0,2,0,0,LAL,LAL,tov,2,False,True,Ingram Lost Ball Turnover (P3.T7),,55-47,55,47
+0021800616,2019-01-09,LAL,DET,24.0,2,0,0,LAL,DET,steal,2,False,True,steal,steal,55-47,55,47
 0021800616,2019-01-09,LAL,DET,24.0,2,0,0,LAL,,period_end,0,False,False,,,55-47,55,47
 0021800616,2019-01-09,LAL,DET,24.0,3,12,0,LAL,,period_start,0,False,False,,,55-47,55,47
-0021800616,2019-01-09,LAL,DET,24.0,2,0,0,LAL,DET,steal,2,False,True,steal,steal,55-47,55,47
 0021800616,2019-01-09,LAL,DET,24.23,3,11,46,DET,DET,fg3_make,1,False,False,,Jackson 25' 3PT Jump Shot (12 PTS) (Drummond 1 AST),55-50,55,50
 0021800616,2019-01-09,LAL,DET,24.62,3,11,23,LAL,LAL,fg_make,7,False,False,McGee 2' Dunk (8 PTS) (Ingram 4 AST),,57-50,57,50
 0021800616,2019-01-09,LAL,DET,24.93,3,11,4,DET,DET,fg3_miss,80,False,False,,MISS Griffin 26' 3PT Step Back Jump Shot,57-50,57,50
@@ -399,7 +399,7 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800616,2019-01-09,LAL,DET,47.45,4,0,33,DET,DET,reb,0,False,False,,Galloway REBOUND (Off:0 Def:3),113-96,113,96
 0021800616,2019-01-09,LAL,DET,47.48,4,0,31,DET,DET,fg_make,41,False,False,,Kennard 2' Running Layup (12 PTS) (Galloway 1 AST),113-98,113,98
 0021800616,2019-01-09,LAL,DET,47.88,4,0,7,LAL,LAL,fg_miss,75,False,False,MISS Beasley 3' Driving Finger Roll Layup,,113-98,113,98
-0021800616,2019-01-09,LAL,DET,47.88,4,0,7,LAL,LAL,reb,0,False,False,LAKERS Rebound,,113-98,113,98
 0021800616,2019-01-09,LAL,DET,47.88,4,0,7,LAL,LAL,tov,11,False,False,LAKERS Turnover: Shot Clock (T#15),,113-98,113,98
+0021800616,2019-01-09,LAL,DET,47.88,4,0,7,LAL,LAL,reb,0,False,False,LAKERS Rebound,,113-98,113,98
 0021800616,2019-01-09,LAL,DET,47.97,4,0,2,DET,DET,fg_make,6,False,False,,Brown 3' Driving Layup (8 PTS),113-100,113,100
 0021800616,2019-01-09,LAL,DET,48.0,4,0,0,DET,,period_end,0,False,False,,,113-100,113,100

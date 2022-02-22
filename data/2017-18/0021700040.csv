@@ -13,8 +13,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700040,2017-10-22,LAL,NOP,1.43,1,10,34,NOP,NOP,reb,0,False,False,,Moore REBOUND (Off:0 Def:1),0-2,0,2
 0021700040,2017-10-22,LAL,NOP,1.72,1,10,17,NOP,NOP,fg_make,5,False,False,,Holiday 3' Layup (2 PTS) (Cousins 1 AST),0-4,0,4
 0021700040,2017-10-22,LAL,NOP,1.92,1,10,5,LAL,LAL,fg_miss,1,True,False,MISS Nance Jr. 6' Jump Shot,,0-4,0,4
-0021700040,2017-10-22,LAL,NOP,1.92,1,10,5,NOP,NOP,reb,0,False,False,,Davis REBOUND (Off:0 Def:1),0-4,0,4
 0021700040,2017-10-22,LAL,NOP,1.92,1,10,5,LAL,NOP,block,1,True,False,block,block,0-4,0,4
+0021700040,2017-10-22,LAL,NOP,1.92,1,10,5,NOP,NOP,reb,0,False,False,,Davis REBOUND (Off:0 Def:1),0-4,0,4
 0021700040,2017-10-22,LAL,NOP,2.15,1,9,51,NOP,NOP,fg3_miss,1,False,False,,MISS Cousins 26' 3PT Jump Shot,0-4,0,4
 0021700040,2017-10-22,LAL,NOP,2.18,1,9,49,NOP,NOP,reb,0,False,False,,Davis REBOUND (Off:1 Def:1),0-4,0,4
 0021700040,2017-10-22,LAL,NOP,2.18,1,9,49,NOP,LAL,foul,3,False,False,Nance Jr. L.B.FOUL (P1.T2) (R.Mott),,0-4,0,4
@@ -114,8 +114,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700040,2017-10-22,LAL,NOP,11.85,1,0,9,LAL,LAL,tov,1,False,True,Ball Bad Pass Turnover (P2.T3),,22-34,22,34
 0021700040,2017-10-22,LAL,NOP,11.85,1,0,9,LAL,NOP,steal,1,False,True,steal,steal,22-34,22,34
 0021700040,2017-10-22,LAL,NOP,11.93,1,0,4,NOP,NOP,fg3_miss,1,False,False,,MISS Clark 24' 3PT Jump Shot,22-34,22,34
-0021700040,2017-10-22,LAL,NOP,12.0,1,0,0,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 62' 3PT Jump Shot,,22-34,22,34
 0021700040,2017-10-22,LAL,NOP,12.0,1,0,0,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:0 Def:1),,22-34,22,34
+0021700040,2017-10-22,LAL,NOP,12.0,1,0,0,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 62' 3PT Jump Shot,,22-34,22,34
 0021700040,2017-10-22,LAL,NOP,12.0,1,0,0,LAL,LAL,reb,0,False,False,LAKERS Rebound,,22-34,22,34
 0021700040,2017-10-22,LAL,NOP,12.0,1,0,0,LAL,,period_end,0,False,False,,,22-34,22,34
 0021700040,2017-10-22,LAL,NOP,12.0,2,12,0,LAL,,period_start,0,False,False,,,22-34,22,34
@@ -326,8 +326,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700040,2017-10-22,LAL,NOP,34.57,3,1,26,NOP,NOP,ft_make,12,False,False,,Cousins Free Throw 2 of 2 (16 PTS),74-94,74,94
 0021700040,2017-10-22,LAL,NOP,34.72,3,1,17,LAL,LAL,fg_make,108,False,False,Kuzma 1' Cutting Dunk Shot (9 PTS) (Clarkson 1 AST),,76-94,76,94
 0021700040,2017-10-22,LAL,NOP,34.92,3,1,5,NOP,NOP,fg_miss,6,True,False,,MISS Miller 3' Driving Layup,76-94,76,94
-0021700040,2017-10-22,LAL,NOP,34.92,3,1,5,NOP,NOP,reb,0,False,False,,Pelicans Rebound,76-94,76,94
 0021700040,2017-10-22,LAL,NOP,34.92,3,1,5,NOP,LAL,block,6,True,False,block,block,76-94,76,94
+0021700040,2017-10-22,LAL,NOP,34.92,3,1,5,NOP,NOP,reb,0,False,False,,Pelicans Rebound,76-94,76,94
 0021700040,2017-10-22,LAL,NOP,35.1,3,0,54,NOP,NOP,fg3_miss,1,False,False,,MISS Miller 3PT Jump Shot,76-94,76,94
 0021700040,2017-10-22,LAL,NOP,35.15,3,0,51,LAL,LAL,reb,0,False,False,Randle REBOUND (Off:0 Def:1),,76-94,76,94
 0021700040,2017-10-22,LAL,NOP,35.25,3,0,45,LAL,LAL,fg3_make,1,False,False,Clarkson 25' 3PT Jump Shot (18 PTS) (Hart 1 AST),,79-94,79,94

@@ -106,8 +106,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700251,2017-11-20,SAC,DEN,10.37,1,1,38,SAC,SAC,fg_miss,1,False,False,MISS Koufos 14' Jump Shot,,20-20,20,20
 0021700251,2017-11-20,SAC,DEN,10.37,1,1,38,DEN,DEN,reb,0,False,False,,Hernangomez REBOUND (Off:0 Def:1),20-20,20,20
 0021700251,2017-11-20,SAC,DEN,10.7,1,1,18,DEN,DEN,fg_miss,5,True,False,,MISS Mudiay 6' Layup,20-20,20,20
-0021700251,2017-11-20,SAC,DEN,10.7,1,1,18,DEN,DEN,reb,0,False,False,,Lyles REBOUND (Off:1 Def:0),20-20,20,20
 0021700251,2017-11-20,SAC,DEN,10.7,1,1,18,DEN,SAC,block,5,True,False,block,block,20-20,20,20
+0021700251,2017-11-20,SAC,DEN,10.7,1,1,18,DEN,DEN,reb,0,False,False,,Lyles REBOUND (Off:1 Def:0),20-20,20,20
 0021700251,2017-11-20,SAC,DEN,10.8,1,1,12,DEN,DEN,fg3_miss,1,False,False,,MISS Hernangomez 26' 3PT Jump Shot,20-20,20,20
 0021700251,2017-11-20,SAC,DEN,10.8,1,1,12,SAC,SAC,reb,0,False,False,Mason REBOUND (Off:0 Def:1),,20-20,20,20
 0021700251,2017-11-20,SAC,DEN,10.87,1,1,8,SAC,SAC,fg_make,74,False,False,Richardson 2' Running Reverse Layup (2 PTS) (Mason 1 AST),,22-20,22,20
@@ -191,8 +191,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700251,2017-11-20,SAC,DEN,21.35,2,2,39,DEN,DEN,fg3_make,1,False,False,,Hernangomez 3PT Jump Shot (6 PTS) (Harris 2 AST),45-47,45,47
 0021700251,2017-11-20,SAC,DEN,21.77,2,2,14,SAC,SAC,fg_make,5,False,False,Randolph 1' Layup (8 PTS),,47-47,47,47
 0021700251,2017-11-20,SAC,DEN,21.93,2,2,4,DEN,DEN,tov,2,False,True,,Harris Lost Ball Turnover (P2.T11),47-47,47,47
-0021700251,2017-11-20,SAC,DEN,21.93,2,2,4,SAC,DEN,foul,1,False,False,,Harris P.FOUL (P2.T4) (B.Kennedy),47-47,47,47
 0021700251,2017-11-20,SAC,DEN,21.93,2,2,4,DEN,SAC,steal,2,False,True,steal,steal,47-47,47,47
+0021700251,2017-11-20,SAC,DEN,21.93,2,2,4,SAC,DEN,foul,1,False,False,,Harris P.FOUL (P2.T4) (B.Kennedy),47-47,47,47
 0021700251,2017-11-20,SAC,DEN,22.18,2,1,49,SAC,SAC,tov,8,False,False,Randolph 3 Second Violation Turnover (P2.T5),,47-47,47,47
 0021700251,2017-11-20,SAC,DEN,22.35,2,1,39,DEN,DEN,fg_miss,6,False,False,,MISS Barton 5' Driving Layup,47-47,47,47
 0021700251,2017-11-20,SAC,DEN,22.42,2,1,35,SAC,SAC,reb,0,False,False,Randolph REBOUND (Off:1 Def:1),,47-47,47,47
@@ -205,9 +205,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700251,2017-11-20,SAC,DEN,23.55,2,0,27,SAC,SAC,fg_miss,63,False,False,MISS G. Hill 18' Fadeaway Jumper,,47-47,47,47
 0021700251,2017-11-20,SAC,DEN,23.6,2,0,24,DEN,DEN,reb,0,False,False,,Plumlee REBOUND (Off:0 Def:4),47-47,47,47
 0021700251,2017-11-20,SAC,DEN,23.9,2,0,6,DEN,DEN,fg_miss,5,True,False,,MISS Plumlee 2' Layup,47-47,47,47
+0021700251,2017-11-20,SAC,DEN,23.9,2,0,6,DEN,SAC,block,5,True,False,block,block,47-47,47,47
 0021700251,2017-11-20,SAC,DEN,23.9,2,0,6,DEN,DEN,reb,0,False,False,,Barton REBOUND (Off:1 Def:2),47-47,47,47
 0021700251,2017-11-20,SAC,DEN,23.9,2,0,6,DEN,DEN,fg_miss,97,False,False,,MISS Barton 6' Tip Layup Shot,47-47,47,47
-0021700251,2017-11-20,SAC,DEN,23.9,2,0,6,DEN,SAC,block,5,True,False,block,block,47-47,47,47
 0021700251,2017-11-20,SAC,DEN,23.92,2,0,5,DEN,DEN,reb,0,False,False,,Plumlee REBOUND (Off:1 Def:4),47-47,47,47
 0021700251,2017-11-20,SAC,DEN,23.92,2,0,5,DEN,DEN,fg_miss,97,False,False,,MISS Plumlee 2' Tip Layup Shot,47-47,47,47
 0021700251,2017-11-20,SAC,DEN,23.93,2,0,4,SAC,SAC,reb,0,False,False,G. Hill REBOUND (Off:0 Def:2),,47-47,47,47
@@ -290,8 +290,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700251,2017-11-20,SAC,DEN,32.95,3,3,3,DEN,DEN,fg3_make,1,False,False,,Barton 25' 3PT Jump Shot (19 PTS),61-68,61,68
 0021700251,2017-11-20,SAC,DEN,33.22,3,2,47,SAC,SAC,fg_make,78,False,False,Koufos 10' Floating Jump Shot (10 PTS) (Fox 4 AST),,63-68,63,68
 0021700251,2017-11-20,SAC,DEN,33.43,3,2,34,DEN,DEN,fg_miss,5,True,False,,MISS Mudiay 3' Layup,63-68,63,68
-0021700251,2017-11-20,SAC,DEN,33.43,3,2,34,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:4 Def:8),63-68,63,68
 0021700251,2017-11-20,SAC,DEN,33.43,3,2,34,DEN,SAC,block,5,True,False,block,block,63-68,63,68
+0021700251,2017-11-20,SAC,DEN,33.43,3,2,34,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:4 Def:8),63-68,63,68
 0021700251,2017-11-20,SAC,DEN,33.53,3,2,28,DEN,DEN,fg_make,87,False,False,,Jokic 1' Putback Dunk (14 PTS),63-70,63,70
 0021700251,2017-11-20,SAC,DEN,33.83,3,2,10,SAC,SAC,fg3_miss,1,False,False,MISS Bogdanovic 26' 3PT Jump Shot,,63-70,63,70
 0021700251,2017-11-20,SAC,DEN,33.88,3,2,7,DEN,DEN,reb,0,False,False,,Lyles REBOUND (Off:1 Def:3),63-70,63,70
@@ -327,8 +327,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700251,2017-11-20,SAC,DEN,38.52,4,9,29,SAC,SAC,tov,2,False,True,Bogdanovic Lost Ball Turnover (P2.T10),,74-88,74,88
 0021700251,2017-11-20,SAC,DEN,38.52,4,9,29,SAC,DEN,steal,2,False,True,steal,steal,74-88,74,88
 0021700251,2017-11-20,SAC,DEN,38.72,4,9,17,DEN,DEN,tov,1,False,True,,Plumlee Bad Pass Turnover (P2.T12),74-88,74,88
-0021700251,2017-11-20,SAC,DEN,38.72,4,9,17,SAC,DEN,foul,1,False,False,,Plumlee P.FOUL (P1.T1) (D.Richardson),74-88,74,88
 0021700251,2017-11-20,SAC,DEN,38.72,4,9,17,DEN,SAC,steal,1,False,True,steal,steal,74-88,74,88
+0021700251,2017-11-20,SAC,DEN,38.72,4,9,17,SAC,DEN,foul,1,False,False,,Plumlee P.FOUL (P1.T1) (D.Richardson),74-88,74,88
 0021700251,2017-11-20,SAC,DEN,39.0,4,9,0,SAC,SAC,fg3_make,1,False,False,G. Hill 26' 3PT Jump Shot (16 PTS) (Randolph 1 AST),,77-88,77,88
 0021700251,2017-11-20,SAC,DEN,39.4,4,8,36,DEN,DEN,tov,2,False,True,,Lyles Lost Ball Turnover (P1.T13),77-88,77,88
 0021700251,2017-11-20,SAC,DEN,39.4,4,8,36,DEN,SAC,steal,2,False,True,steal,steal,77-88,77,88
@@ -350,8 +350,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700251,2017-11-20,SAC,DEN,42.15,4,5,51,DEN,DEN,fg_miss,5,False,False,,MISS Murray 4' Layup,87-101,87,101
 0021700251,2017-11-20,SAC,DEN,42.2,4,5,48,SAC,SAC,reb,0,False,False,Mason REBOUND (Off:0 Def:2),,87-101,87,101
 0021700251,2017-11-20,SAC,DEN,42.27,4,5,44,SAC,SAC,fg_miss,5,True,False,MISS Bogdanovic 3' Layup,,87-101,87,101
-0021700251,2017-11-20,SAC,DEN,42.27,4,5,44,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:4 Def:9),87-101,87,101
 0021700251,2017-11-20,SAC,DEN,42.27,4,5,44,SAC,DEN,block,5,True,False,block,block,87-101,87,101
+0021700251,2017-11-20,SAC,DEN,42.27,4,5,44,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:4 Def:9),87-101,87,101
 0021700251,2017-11-20,SAC,DEN,42.28,4,5,43,DEN,SAC,foul,1,False,False,Mason P.FOUL (P2.T2) (D.Richardson),,87-101,87,101
 0021700251,2017-11-20,SAC,DEN,42.4,4,5,36,DEN,SAC,foul,1,False,False,Randolph P.FOUL (P2.T3) (D.Richardson),,87-101,87,101
 0021700251,2017-11-20,SAC,DEN,42.5,4,5,30,DEN,DEN,fg_miss,5,False,False,,MISS Faried 3' Layup,87-101,87,101

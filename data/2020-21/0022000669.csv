@@ -8,8 +8,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000669,2021-03-24,MIL,BOS,1.23,1,10,46,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:1 Def:0),6-2,6,2
 0022000669,2021-03-24,MIL,BOS,1.23,1,10,46,BOS,BOS,fg_make,97,False,False,,Brown Tip Layup Shot (4 PTS),6-4,6,4
 0022000669,2021-03-24,MIL,BOS,1.28,1,10,43,MIL,MIL,fg_miss,6,True,False,MISS Middleton 3' Driving Layup,,6-4,6,4
-0022000669,2021-03-24,MIL,BOS,1.28,1,10,43,MIL,MIL,reb,0,False,False,BUCKS Rebound,,6-4,6,4
 0022000669,2021-03-24,MIL,BOS,1.28,1,10,43,MIL,BOS,block,6,True,False,block,block,6-4,6,4
+0022000669,2021-03-24,MIL,BOS,1.28,1,10,43,MIL,MIL,reb,0,False,False,BUCKS Rebound,,6-4,6,4
 0022000669,2021-03-24,MIL,BOS,1.43,1,10,34,MIL,MIL,fg3_make,80,False,False,Middleton 26' 3PT Step Back Jump Shot (3 PTS),,9-4,9,4
 0022000669,2021-03-24,MIL,BOS,1.67,1,10,20,BOS,BOS,fg3_make,79,False,False,,Brown 26' 3PT Pullup Jump Shot (7 PTS),9-7,9,7
 0022000669,2021-03-24,MIL,BOS,1.98,1,10,1,MIL,MIL,fg_miss,86,False,False,MISS Antetokounmpo 10' Turnaround Fadeaway Shot,,9-7,9,7
@@ -21,10 +21,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000669,2021-03-24,MIL,BOS,3.03,1,8,58,BOS,BOS,reb,0,False,False,,Walker REBOUND (Off:0 Def:1),11-12,11,12
 0022000669,2021-03-24,MIL,BOS,3.2,1,8,48,BOS,BOS,fg3_miss,80,False,False,,MISS Tatum 29' 3PT Step Back Jump Shot,11-12,11,12
 0022000669,2021-03-24,MIL,BOS,3.25,1,8,45,MIL,MIL,reb,0,False,False,Middleton REBOUND (Off:0 Def:1),,11-12,11,12
-0022000669,2021-03-24,MIL,BOS,3.32,1,8,41,MIL,MIL,fg_miss,6,True,False,MISS Antetokounmpo 3' Driving Layup,,11-12,11,12
-0022000669,2021-03-24,MIL,BOS,3.32,1,8,41,MIL,MIL,reb,0,False,False,BUCKS Rebound,,11-12,11,12
 0022000669,2021-03-24,MIL,BOS,3.32,1,8,41,,MIL,jump_ball,0,False,False,Jump Ball Antetokounmpo vs. Theis: Tip to DiVincenzo,,11-12,11,12
+0022000669,2021-03-24,MIL,BOS,3.32,1,8,41,MIL,MIL,fg_miss,6,True,False,MISS Antetokounmpo 3' Driving Layup,,11-12,11,12
 0022000669,2021-03-24,MIL,BOS,3.32,1,8,41,MIL,BOS,block,6,True,False,block,block,11-12,11,12
+0022000669,2021-03-24,MIL,BOS,3.32,1,8,41,MIL,MIL,reb,0,False,False,BUCKS Rebound,,11-12,11,12
 0022000669,2021-03-24,MIL,BOS,3.43,1,8,34,MIL,MIL,fg_make,6,False,False,Holiday 7' Driving Layup (5 PTS),,13-12,13,12
 0022000669,2021-03-24,MIL,BOS,3.7,1,8,18,BOS,BOS,fg3_miss,1,False,False,,MISS Theis 30' 3PT Jump Shot,13-12,13,12
 0022000669,2021-03-24,MIL,BOS,3.77,1,8,14,MIL,MIL,reb,0,False,False,Middleton REBOUND (Off:0 Def:2),,13-12,13,12
@@ -223,8 +223,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000669,2021-03-24,MIL,BOS,25.63,3,10,22,MIL,MIL,reb,1,False,False,BUCKS Rebound,,75-59,75,59
 0022000669,2021-03-24,MIL,BOS,25.63,3,10,22,MIL,MIL,ft_make,12,False,False,Antetokounmpo Free Throw 2 of 2 (8 PTS),,76-59,76,59
 0022000669,2021-03-24,MIL,BOS,25.78,3,10,13,BOS,BOS,tov,2,False,True,,Tatum Lost Ball Turnover (P2.T8),76-59,76,59
-0022000669,2021-03-24,MIL,BOS,25.78,3,10,13,MIL,BOS,foul,28,False,False,,Tatum Personal Take Foul (P1.T2) (K.Cutler),76-59,76,59
 0022000669,2021-03-24,MIL,BOS,25.78,3,10,13,BOS,MIL,steal,2,False,True,steal,steal,76-59,76,59
+0022000669,2021-03-24,MIL,BOS,25.78,3,10,13,MIL,BOS,foul,28,False,False,,Tatum Personal Take Foul (P1.T2) (K.Cutler),76-59,76,59
 0022000669,2021-03-24,MIL,BOS,26.15,3,9,51,MIL,MIL,fg3_make,1,False,False,DiVincenzo 26' 3PT Jump Shot (8 PTS) (Middleton 2 AST),,79-59,79,59
 0022000669,2021-03-24,MIL,BOS,26.48,3,9,31,BOS,BOS,fg_make,98,False,False,,Theis 1' Cutting Layup Shot (10 PTS) (Brown 2 AST),79-61,79,61
 0022000669,2021-03-24,MIL,BOS,26.65,3,9,21,MIL,BOS,foul,1,False,False,,Theis P.FOUL (P2.T3) (B.Adair),79-61,79,61
@@ -279,8 +279,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000669,2021-03-24,MIL,BOS,31.23,3,4,46,MIL,MIL,tov,1,False,True,Middleton Bad Pass Turnover (P1.T9),,90-72,90,72
 0022000669,2021-03-24,MIL,BOS,31.23,3,4,46,MIL,BOS,steal,1,False,True,steal,steal,90-72,90,72
 0022000669,2021-03-24,MIL,BOS,31.27,3,4,44,BOS,BOS,fg_miss,6,True,False,,MISS Brown 3' Driving Layup,90-72,90,72
-0022000669,2021-03-24,MIL,BOS,31.27,3,4,44,MIL,MIL,reb,0,False,False,BUCKS Rebound,,90-72,90,72
 0022000669,2021-03-24,MIL,BOS,31.27,3,4,44,BOS,MIL,block,6,True,False,block,block,90-72,90,72
+0022000669,2021-03-24,MIL,BOS,31.27,3,4,44,MIL,MIL,reb,0,False,False,BUCKS Rebound,,90-72,90,72
 0022000669,2021-03-24,MIL,BOS,31.55,3,4,27,MIL,MIL,fg_make,101,False,False,Middleton 4' Driving Floating Jump Shot (18 PTS),,92-72,92,72
 0022000669,2021-03-24,MIL,BOS,31.73,3,4,16,BOS,BOS,fg3_miss,1,False,False,,MISS Brown 27' 3PT Jump Shot,92-72,92,72
 0022000669,2021-03-24,MIL,BOS,31.78,3,4,13,MIL,MIL,reb,0,False,False,Portis REBOUND (Off:0 Def:2),,92-72,92,72
@@ -417,10 +417,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000669,2021-03-24,MIL,BOS,47.75,4,0,15,MIL,MIL,tov,1,False,True,Middleton Bad Pass Turnover (P5.T16),,121-119,121,119
 0022000669,2021-03-24,MIL,BOS,47.75,4,0,15,MIL,BOS,steal,1,False,True,steal,steal,121-119,121,119
 0022000669,2021-03-24,MIL,BOS,47.97,4,0,2,BOS,BOS,fg_miss,75,True,False,,MISS Smart 1' Driving Finger Roll Layup,121-119,121,119
+0022000669,2021-03-24,MIL,BOS,47.97,4,0,2,BOS,MIL,block,75,True,False,block,block,121-119,121,119
 0022000669,2021-03-24,MIL,BOS,47.97,4,0,2,BOS,BOS,reb,0,False,False,,Celtics Rebound,121-119,121,119
 0022000669,2021-03-24,MIL,BOS,47.97,4,0,2,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.6 Short 0),121-119,121,119
 0022000669,2021-03-24,MIL,BOS,47.97,4,0,2,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.7 Short 0),121-119,121,119
-0022000669,2021-03-24,MIL,BOS,47.97,4,0,2,BOS,MIL,block,75,True,False,block,block,121-119,121,119
 0022000669,2021-03-24,MIL,BOS,48.0,4,0,0,BOS,BOS,fg3_miss,1,False,False,,MISS Theis 3PT Jump Shot,121-119,121,119
 0022000669,2021-03-24,MIL,BOS,48.0,4,0,0,BOS,BOS,reb,0,False,False,,Celtics Rebound,121-119,121,119
 0022000669,2021-03-24,MIL,BOS,48.0,4,0,0,BOS,,period_end,0,False,False,,,121-119,121,119

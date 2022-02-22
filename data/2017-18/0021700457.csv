@@ -54,8 +54,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700457,2017-12-20,BKN,SAC,8.7,1,3,18,BKN,BKN,reb,0,False,False,Carroll REBOUND (Off:1 Def:0),,15-27,15,27
 0021700457,2017-12-20,BKN,SAC,8.77,1,3,14,BKN,BKN,fg_make,3,False,False,Carroll 5' Hook Shot (8 PTS),,17-27,17,27
 0021700457,2017-12-20,BKN,SAC,9.05,1,2,57,SAC,SAC,tov,2,False,True,,Randolph Lost Ball Turnover (P1.T3),17-27,17,27
-0021700457,2017-12-20,BKN,SAC,9.05,1,2,57,BKN,BKN,tov,4,False,False,Allen Traveling Turnover (P1.T1),,17-27,17,27
 0021700457,2017-12-20,BKN,SAC,9.05,1,2,57,SAC,BKN,steal,2,False,True,steal,steal,17-27,17,27
+0021700457,2017-12-20,BKN,SAC,9.05,1,2,57,BKN,BKN,tov,4,False,False,Allen Traveling Turnover (P1.T1),,17-27,17,27
 0021700457,2017-12-20,BKN,SAC,9.17,1,2,50,SAC,SAC,fg_miss,79,False,False,,MISS Bogdanovic 18' Pullup Jump Shot,17-27,17,27
 0021700457,2017-12-20,BKN,SAC,9.25,1,2,45,BKN,BKN,reb,0,False,False,LeVert REBOUND (Off:0 Def:1),,17-27,17,27
 0021700457,2017-12-20,BKN,SAC,9.62,1,2,23,BKN,BKN,fg_miss,5,False,False,MISS Harris 2' Layup,,17-27,17,27
@@ -141,15 +141,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700457,2017-12-20,BKN,SAC,17.78,2,6,13,SAC,SAC,reb,0,False,False,,Labissiere REBOUND (Off:0 Def:4),30-48,30,48
 0021700457,2017-12-20,BKN,SAC,17.83,2,6,10,SAC,SAC,timeout,1,False,False,,Kings Timeout: Regular (Reg.2 Short 0),30-48,30,48
 0021700457,2017-12-20,BKN,SAC,18.13,2,5,52,SAC,SAC,fg3_miss,1,True,False,,MISS Hield 26' 3PT Jump Shot,30-48,30,48
-0021700457,2017-12-20,BKN,SAC,18.13,2,5,52,SAC,SAC,reb,0,False,False,,Kings Rebound,30-48,30,48
 0021700457,2017-12-20,BKN,SAC,18.13,2,5,52,SAC,BKN,block,1,True,False,block,block,30-48,30,48
+0021700457,2017-12-20,BKN,SAC,18.13,2,5,52,SAC,SAC,reb,0,False,False,,Kings Rebound,30-48,30,48
 0021700457,2017-12-20,BKN,SAC,18.15,2,5,51,SAC,SAC,tov,11,False,False,,Kings Turnover: Shot Clock (T#4),30-48,30,48
 0021700457,2017-12-20,BKN,SAC,18.38,2,5,37,BKN,BKN,tov,2,False,True,LeVert Lost Ball Turnover (P1.T4),,30-48,30,48
 0021700457,2017-12-20,BKN,SAC,18.38,2,5,37,BKN,SAC,steal,2,False,True,steal,steal,30-48,30,48
 0021700457,2017-12-20,BKN,SAC,18.45,2,5,33,SAC,SAC,fg_miss,5,True,False,,MISS Hield 7' Layup,30-48,30,48
+0021700457,2017-12-20,BKN,SAC,18.45,2,5,33,SAC,BKN,block,5,True,False,block,block,30-48,30,48
 0021700457,2017-12-20,BKN,SAC,18.45,2,5,33,SAC,SAC,reb,0,False,False,,G. Hill REBOUND (Off:2 Def:0),30-48,30,48
 0021700457,2017-12-20,BKN,SAC,18.45,2,5,33,SAC,SAC,tov,21,False,False,,G. Hill Palming Turnover (P2.T5),30-48,30,48
-0021700457,2017-12-20,BKN,SAC,18.45,2,5,33,SAC,BKN,block,5,True,False,block,block,30-48,30,48
 0021700457,2017-12-20,BKN,SAC,18.67,2,5,20,BKN,BKN,tov,2,False,True,Zeller Lost Ball Turnover (P1.T5),,30-48,30,48
 0021700457,2017-12-20,BKN,SAC,18.67,2,5,20,BKN,SAC,steal,2,False,True,steal,steal,30-48,30,48
 0021700457,2017-12-20,BKN,SAC,18.75,2,5,15,SAC,BKN,foul,1,False,False,Dinwiddie P.FOUL (P3.PN) (L.Holtkamp),,30-48,30,48
@@ -209,8 +209,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700457,2017-12-20,BKN,SAC,25.9,3,10,6,BKN,BKN,fg3_miss,1,False,False,MISS Crabbe 26' 3PT Jump Shot,,52-68,52,68
 0021700457,2017-12-20,BKN,SAC,26.03,3,9,58,BKN,BKN,reb,0,False,False,Carroll REBOUND (Off:3 Def:1),,52-68,52,68
 0021700457,2017-12-20,BKN,SAC,26.08,3,9,55,BKN,BKN,fg_miss,5,True,False,MISS Hollis-Jefferson 8' Layup,,52-68,52,68
-0021700457,2017-12-20,BKN,SAC,26.08,3,9,55,SAC,SAC,reb,0,False,False,,Kings Rebound,52-68,52,68
 0021700457,2017-12-20,BKN,SAC,26.08,3,9,55,BKN,SAC,block,5,True,False,block,block,52-68,52,68
+0021700457,2017-12-20,BKN,SAC,26.08,3,9,55,SAC,SAC,reb,0,False,False,,Kings Rebound,52-68,52,68
 0021700457,2017-12-20,BKN,SAC,26.5,3,9,30,SAC,SAC,fg_make,1,False,False,,Randolph 9' Jump Shot (13 PTS),52-70,52,70
 0021700457,2017-12-20,BKN,SAC,26.73,3,9,16,BKN,BKN,fg3_make,1,False,False,Crabbe 25' 3PT Jump Shot (7 PTS) (Carroll 1 AST),,55-70,55,70
 0021700457,2017-12-20,BKN,SAC,27.1,3,8,54,SAC,SAC,fg_miss,105,False,False,,MISS Cauley-Stein 7' Turnaround Fadeaway Bank Jump Shot,55-70,55,70
@@ -257,9 +257,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700457,2017-12-20,BKN,SAC,31.98,3,4,1,SAC,SAC,tov,1,False,True,,Randolph Bad Pass Turnover (P2.T7),70-77,70,77
 0021700457,2017-12-20,BKN,SAC,31.98,3,4,1,SAC,BKN,steal,1,False,True,steal,steal,70-77,70,77
 0021700457,2017-12-20,BKN,SAC,32.05,3,3,57,BKN,BKN,fg_miss,41,True,False,MISS Harris 4' Running Layup,,70-77,70,77
+0021700457,2017-12-20,BKN,SAC,32.05,3,3,57,BKN,SAC,block,41,True,False,block,block,70-77,70,77
 0021700457,2017-12-20,BKN,SAC,32.05,3,3,57,BKN,BKN,reb,0,False,False,LeVert REBOUND (Off:1 Def:1),,70-77,70,77
 0021700457,2017-12-20,BKN,SAC,32.05,3,3,57,BKN,SAC,foul,2,False,False,,Cauley-Stein S.FOUL (P3.T4) (T.Ford),70-77,70,77
-0021700457,2017-12-20,BKN,SAC,32.05,3,3,57,BKN,SAC,block,41,True,False,block,block,70-77,70,77
 0021700457,2017-12-20,BKN,SAC,32.05,3,3,57,BKN,BKN,ft_make,11,False,False,LeVert Free Throw 1 of 2 (6 PTS),,71-77,71,77
 0021700457,2017-12-20,BKN,SAC,32.05,3,3,57,BKN,BKN,ft_make,12,False,False,LeVert Free Throw 2 of 2 (7 PTS),,72-77,72,77
 0021700457,2017-12-20,BKN,SAC,32.42,3,3,35,SAC,SAC,fg_miss,102,False,False,,MISS G. Hill 6' Driving Floating Bank Jump Shot,72-77,72,77
@@ -302,11 +302,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700457,2017-12-20,BKN,SAC,36.62,4,11,23,BKN,BKN,fg3_miss,1,False,False,MISS LeVert 3PT Jump Shot,,75-88,75,88
 0021700457,2017-12-20,BKN,SAC,36.72,4,11,17,SAC,SAC,reb,0,False,False,,Labissiere REBOUND (Off:0 Def:5),75-88,75,88
 0021700457,2017-12-20,BKN,SAC,36.77,4,11,14,SAC,SAC,fg_miss,6,True,False,,MISS Mason 1' Driving Layup,75-88,75,88
-0021700457,2017-12-20,BKN,SAC,36.77,4,11,14,SAC,SAC,reb,0,False,False,,Kings Rebound,75-88,75,88
 0021700457,2017-12-20,BKN,SAC,36.77,4,11,14,SAC,BKN,block,6,True,False,block,block,75-88,75,88
+0021700457,2017-12-20,BKN,SAC,36.77,4,11,14,SAC,SAC,reb,0,False,False,,Kings Rebound,75-88,75,88
 0021700457,2017-12-20,BKN,SAC,36.9,4,11,6,SAC,SAC,fg_miss,5,True,False,,MISS Koufos 5' Layup,75-88,75,88
-0021700457,2017-12-20,BKN,SAC,36.9,4,11,6,SAC,SAC,reb,0,False,False,,Labissiere REBOUND (Off:1 Def:5),75-88,75,88
 0021700457,2017-12-20,BKN,SAC,36.9,4,11,6,SAC,BKN,block,5,True,False,block,block,75-88,75,88
+0021700457,2017-12-20,BKN,SAC,36.9,4,11,6,SAC,SAC,reb,0,False,False,,Labissiere REBOUND (Off:1 Def:5),75-88,75,88
 0021700457,2017-12-20,BKN,SAC,36.92,4,11,5,SAC,SAC,fg_make,87,False,False,,Labissiere 4' Putback Dunk (7 PTS),75-90,75,90
 0021700457,2017-12-20,BKN,SAC,37.12,4,10,53,BKN,BKN,fg3_make,1,False,False,LeVert 26' 3PT Jump Shot (10 PTS),,78-90,78,90
 0021700457,2017-12-20,BKN,SAC,37.35,4,10,39,BKN,SAC,foul,1,False,False,,Jackson P.FOUL (P2.T1) (L.Holtkamp),78-90,78,90
@@ -330,11 +330,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700457,2017-12-20,BKN,SAC,40.42,4,7,35,SAC,SAC,fg3_miss,1,False,False,,MISS Jackson 3PT Jump Shot,89-92,89,92
 0021700457,2017-12-20,BKN,SAC,40.42,4,7,35,BKN,BKN,reb,0,False,False,Hollis-Jefferson REBOUND (Off:1 Def:4),,89-92,89,92
 0021700457,2017-12-20,BKN,SAC,40.58,4,7,25,BKN,BKN,fg_miss,5,True,False,MISS Allen 6' Layup,,89-92,89,92
-0021700457,2017-12-20,BKN,SAC,40.58,4,7,25,BKN,BKN,reb,0,False,False,Hollis-Jefferson REBOUND (Off:2 Def:4),,89-92,89,92
 0021700457,2017-12-20,BKN,SAC,40.58,4,7,25,BKN,SAC,block,5,True,False,block,block,89-92,89,92
+0021700457,2017-12-20,BKN,SAC,40.58,4,7,25,BKN,BKN,reb,0,False,False,Hollis-Jefferson REBOUND (Off:2 Def:4),,89-92,89,92
 0021700457,2017-12-20,BKN,SAC,40.8,4,7,12,BKN,BKN,fg_miss,1,True,False,MISS LeVert 16' Jump Shot,,89-92,89,92
-0021700457,2017-12-20,BKN,SAC,40.8,4,7,12,BKN,BKN,reb,0,False,False,Allen REBOUND (Off:1 Def:2),,89-92,89,92
 0021700457,2017-12-20,BKN,SAC,40.8,4,7,12,BKN,SAC,block,1,True,False,block,block,89-92,89,92
+0021700457,2017-12-20,BKN,SAC,40.8,4,7,12,BKN,BKN,reb,0,False,False,Allen REBOUND (Off:1 Def:2),,89-92,89,92
 0021700457,2017-12-20,BKN,SAC,40.92,4,7,5,BKN,BKN,fg_miss,1,False,False,MISS Allen 20' Jump Shot,,89-92,89,92
 0021700457,2017-12-20,BKN,SAC,40.92,4,7,5,SAC,SAC,reb,0,False,False,,G. Hill REBOUND (Off:2 Def:4),89-92,89,92
 0021700457,2017-12-20,BKN,SAC,41.17,4,6,50,SAC,SAC,fg3_make,79,False,False,,G. Hill 28' 3PT Pullup Jump Shot (18 PTS),89-95,89,95

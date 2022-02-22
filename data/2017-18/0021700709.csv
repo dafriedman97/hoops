@@ -206,8 +206,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700709,2018-01-24,LAC,BOS,19.98,2,4,1,LAC,BOS,foul,4,False,False,,Baynes OFF.Foul (P3) (S.Wall),43-49,43,49
 0021700709,2018-01-24,LAC,BOS,19.98,2,4,1,BOS,BOS,tov,37,False,False,,Baynes Offensive Foul Turnover (P1.T6),43-49,43,49
 0021700709,2018-01-24,LAC,BOS,20.3,2,3,42,LAC,LAC,fg3_miss,1,False,False,MISS Griffin 26' 3PT Jump Shot,,43-49,43,49
-0021700709,2018-01-24,LAC,BOS,20.35,2,3,39,LAC,LAC,reb,0,False,False,Jordan REBOUND (Off:3 Def:3),,43-49,43,49
 0021700709,2018-01-24,LAC,BOS,20.35,2,3,39,LAC,BOS,foul,1,False,False,,Morris Sr. P.FOUL (P2.PN) (S.Wright),43-49,43,49
+0021700709,2018-01-24,LAC,BOS,20.35,2,3,39,LAC,LAC,reb,0,False,False,Jordan REBOUND (Off:3 Def:3),,43-49,43,49
 0021700709,2018-01-24,LAC,BOS,20.35,2,3,39,LAC,,foul,11,False,False,,,43-49,43,49
 0021700709,2018-01-24,LAC,BOS,20.35,2,3,39,LAC,LAC,ft_make,16,False,False,Williams Free Throw Technical (6 PTS),,44-49,44,49
 0021700709,2018-01-24,LAC,BOS,20.35,2,3,39,LAC,LAC,ft_make,11,False,False,Jordan Free Throw 1 of 2 (6 PTS),,45-49,45,49
@@ -294,9 +294,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700709,2018-01-24,LAC,BOS,30.12,3,5,53,LAC,LAC,reb,0,False,False,W. Johnson REBOUND (Off:0 Def:3),,69-72,69,72
 0021700709,2018-01-24,LAC,BOS,30.2,3,5,48,LAC,LAC,tov,45,False,False,Jordan Out of Bounds - Bad Pass Turnover Turnover (P3.T11),,69-72,69,72
 0021700709,2018-01-24,LAC,BOS,30.43,3,5,34,BOS,BOS,fg_miss,5,True,False,,MISS Brown 4' Layup,69-72,69,72
+0021700709,2018-01-24,LAC,BOS,30.43,3,5,34,BOS,LAC,block,5,True,False,block,block,69-72,69,72
 0021700709,2018-01-24,LAC,BOS,30.43,3,5,34,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:2 Def:4),69-72,69,72
 0021700709,2018-01-24,LAC,BOS,30.43,3,5,34,BOS,LAC,foul,1,False,False,Williams P.FOUL (P1.T1) (S.Wright),,69-72,69,72
-0021700709,2018-01-24,LAC,BOS,30.43,3,5,34,BOS,LAC,block,5,True,False,block,block,69-72,69,72
 0021700709,2018-01-24,LAC,BOS,30.6,3,5,24,BOS,BOS,fg_miss,1,False,False,,MISS Morris Sr. 21' Jump Shot,69-72,69,72
 0021700709,2018-01-24,LAC,BOS,30.67,3,5,20,LAC,LAC,reb,0,False,False,Griffin REBOUND (Off:0 Def:4),,69-72,69,72
 0021700709,2018-01-24,LAC,BOS,30.7,3,5,18,LAC,LAC,fg_miss,41,False,False,MISS Wallace 1' Running Layup,,69-72,69,72
@@ -418,11 +418,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700709,2018-01-24,LAC,BOS,42.17,4,5,50,LAC,BOS,ft_make,11,False,False,,Rozier Free Throw 1 of 2 (14 PTS),86-104,86,104
 0021700709,2018-01-24,LAC,BOS,42.17,4,5,50,LAC,BOS,ft_make,12,False,False,,Rozier Free Throw 2 of 2 (15 PTS),86-105,86,105
 0021700709,2018-01-24,LAC,BOS,42.42,4,5,35,LAC,LAC,fg_miss,6,True,False,MISS Wallace 3' Driving Layup,,86-105,86,105
+0021700709,2018-01-24,LAC,BOS,42.42,4,5,35,LAC,BOS,block,6,True,False,block,block,86-105,86,105
 0021700709,2018-01-24,LAC,BOS,42.42,4,5,35,LAC,LAC,reb,0,False,False,Jordan REBOUND (Off:5 Def:7),,86-105,86,105
 0021700709,2018-01-24,LAC,BOS,42.42,4,5,35,LAC,BOS,foul,2,False,False,,Ojeleye S.FOUL (P5.T2) (S.Wright),86-105,86,105
 0021700709,2018-01-24,LAC,BOS,42.42,4,5,35,LAC,LAC,ft_miss,11,False,False,MISS Jordan Free Throw 1 of 2,,86-105,86,105
 0021700709,2018-01-24,LAC,BOS,42.42,4,5,35,LAC,LAC,reb,1,False,False,CLIPPERS Rebound,,86-105,86,105
-0021700709,2018-01-24,LAC,BOS,42.42,4,5,35,LAC,BOS,block,6,True,False,block,block,86-105,86,105
 0021700709,2018-01-24,LAC,BOS,42.42,4,5,35,LAC,LAC,ft_make,12,False,False,Jordan Free Throw 2 of 2 (12 PTS),,87-105,87,105
 0021700709,2018-01-24,LAC,BOS,42.63,4,5,22,BOS,BOS,fg_miss,5,True,False,,MISS Tatum 5' Layup,87-105,87,105
 0021700709,2018-01-24,LAC,BOS,42.63,4,5,22,BOS,LAC,block,5,True,False,block,block,87-105,87,105

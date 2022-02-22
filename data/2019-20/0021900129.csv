@@ -47,9 +47,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900129,2019-11-09,CHI,HOU,4.12,1,7,53,HOU,CHI,steal,1,False,True,steal,steal,8-9,8,9
 0021900129,2019-11-09,CHI,HOU,4.2,1,7,48,CHI,CHI,fg_make,74,False,False,LaVine 2' Running Reverse Layup (4 PTS),,10-9,10,9
 0021900129,2019-11-09,CHI,HOU,4.48,1,7,31,HOU,HOU,fg_miss,5,True,False,,MISS Capela 4' Layup,10-9,10,9
+0021900129,2019-11-09,CHI,HOU,4.48,1,7,31,HOU,CHI,block,5,True,False,block,block,10-9,10,9
 0021900129,2019-11-09,CHI,HOU,4.48,1,7,31,CHI,CHI,reb,0,False,False,Satoransky REBOUND (Off:0 Def:2),,10-9,10,9
 0021900129,2019-11-09,CHI,HOU,4.48,1,7,31,CHI,HOU,foul,1,False,False,,Harden P.FOUL (P1.T4) (J.Butler),10-9,10,9
-0021900129,2019-11-09,CHI,HOU,4.48,1,7,31,HOU,CHI,block,5,True,False,block,block,10-9,10,9
 0021900129,2019-11-09,CHI,HOU,4.63,1,7,22,CHI,CHI,fg3_miss,1,False,False,MISS Satoransky 25' 3PT Jump Shot,,10-9,10,9
 0021900129,2019-11-09,CHI,HOU,4.7,1,7,18,HOU,HOU,reb,0,False,False,,Tucker REBOUND (Off:0 Def:2),10-9,10,9
 0021900129,2019-11-09,CHI,HOU,4.87,1,7,8,HOU,HOU,tov,1,False,True,,House Jr. Bad Pass Turnover (P2.T4),10-9,10,9
@@ -236,9 +236,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900129,2019-11-09,CHI,HOU,23.58,2,0,25,CHI,CHI,reb,0,False,False,Dunn REBOUND (Off:0 Def:1),,46-50,46,50
 0021900129,2019-11-09,CHI,HOU,23.85,2,0,9,CHI,CHI,fg3_make,1,False,False,LaVine 26' 3PT Jump Shot (11 PTS),,49-50,49,50
 0021900129,2019-11-09,CHI,HOU,24.0,2,0,0,HOU,HOU,tov,2,False,True,,Harden Lost Ball Turnover (P5.T15),49-50,49,50
+0021900129,2019-11-09,CHI,HOU,24.0,2,0,0,HOU,CHI,steal,2,False,True,steal,steal,49-50,49,50
 0021900129,2019-11-09,CHI,HOU,24.0,2,0,0,HOU,,period_end,0,False,False,,,49-50,49,50
 0021900129,2019-11-09,CHI,HOU,24.0,3,12,0,HOU,,period_start,0,False,False,,,49-50,49,50
-0021900129,2019-11-09,CHI,HOU,24.0,2,0,0,HOU,CHI,steal,2,False,True,steal,steal,49-50,49,50
 0021900129,2019-11-09,CHI,HOU,24.22,3,11,47,HOU,CHI,foul,1,False,False,Carter Jr. P.FOUL (P3.T1) (B.Barnaky),,49-50,49,50
 0021900129,2019-11-09,CHI,HOU,24.45,3,11,33,HOU,HOU,fg_miss,63,False,False,,MISS Harden 12' Fadeaway Jumper,49-50,49,50
 0021900129,2019-11-09,CHI,HOU,24.48,3,11,31,CHI,CHI,reb,0,False,False,Carter Jr. REBOUND (Off:1 Def:8),,49-50,49,50
@@ -372,8 +372,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900129,2019-11-09,CHI,HOU,36.23,4,11,46,CHI,CHI,fg3_make,1,False,False,Hutchison 25' 3PT Jump Shot (9 PTS) (LaVine 4 AST),,70-86,70,86
 0021900129,2019-11-09,CHI,HOU,36.48,4,11,31,HOU,HOU,fg_miss,5,True,False,,MISS Westbrook 2' Layup,70-86,70,86
 0021900129,2019-11-09,CHI,HOU,36.48,4,11,31,HOU,CHI,block,5,True,False,block,block,70-86,70,86
-0021900129,2019-11-09,CHI,HOU,36.53,4,11,28,HOU,HOU,reb,0,False,False,,Rockets Rebound,70-86,70,86
 0021900129,2019-11-09,CHI,HOU,36.53,4,11,28,,CHI,jump_ball,0,False,False,Jump Ball LaVine vs. Westbrook: Tip to Tucker,,70-86,70,86
+0021900129,2019-11-09,CHI,HOU,36.53,4,11,28,HOU,HOU,reb,0,False,False,,Rockets Rebound,70-86,70,86
 0021900129,2019-11-09,CHI,HOU,36.62,4,11,23,HOU,HOU,fg3_miss,1,False,False,,MISS Westbrook 26' 3PT Jump Shot,70-86,70,86
 0021900129,2019-11-09,CHI,HOU,36.65,4,11,21,CHI,CHI,reb,0,False,False,Hutchison REBOUND (Off:0 Def:3),,70-86,70,86
 0021900129,2019-11-09,CHI,HOU,36.72,4,11,17,CHI,CHI,fg_make,41,False,False,Hutchison 1' Running Layup (11 PTS),,72-86,72,86
@@ -390,8 +390,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900129,2019-11-09,CHI,HOU,37.73,4,10,16,CHI,HOU,steal,2,False,True,steal,steal,72-90,72,90
 0021900129,2019-11-09,CHI,HOU,37.78,4,10,13,HOU,HOU,tov,40,False,False,,Westbrook Out of Bounds Lost Ball Turnover (P6.T19),72-90,72,90
 0021900129,2019-11-09,CHI,HOU,37.92,4,10,5,CHI,CHI,fg_miss,6,True,False,MISS Satoransky 4' Driving Layup,,72-90,72,90
-0021900129,2019-11-09,CHI,HOU,37.92,4,10,5,CHI,CHI,reb,0,False,False,BULLS Rebound,,72-90,72,90
 0021900129,2019-11-09,CHI,HOU,37.92,4,10,5,CHI,HOU,block,6,True,False,block,block,72-90,72,90
+0021900129,2019-11-09,CHI,HOU,37.92,4,10,5,CHI,CHI,reb,0,False,False,BULLS Rebound,,72-90,72,90
 0021900129,2019-11-09,CHI,HOU,38.07,4,9,56,CHI,CHI,fg_miss,6,False,False,MISS LaVine 5' Driving Layup,,72-90,72,90
 0021900129,2019-11-09,CHI,HOU,38.08,4,9,55,CHI,CHI,reb,0,False,False,Carter Jr. REBOUND (Off:4 Def:11),,72-90,72,90
 0021900129,2019-11-09,CHI,HOU,38.08,4,9,55,CHI,HOU,foul,2,False,False,,Tucker S.FOUL (P4.T1) (E.Lewis),72-90,72,90

@@ -165,8 +165,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700463,2017-12-20,POR,SAS,20.03,2,3,58,SAS,SAS,reb,0,False,False,,Anderson REBOUND (Off:0 Def:2),36-43,36,43
 0021700463,2017-12-20,POR,SAS,20.25,2,3,45,SAS,SAS,fg_make,75,False,False,,Ginobili Driving Finger Roll Layup (5 PTS),36-45,36,45
 0021700463,2017-12-20,POR,SAS,20.72,2,3,17,POR,POR,fg3_miss,1,False,False,MISS McCollum 25' 3PT Jump Shot,,36-45,36,45
-0021700463,2017-12-20,POR,SAS,20.72,2,3,17,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,36-45,36,45
 0021700463,2017-12-20,POR,SAS,20.72,2,3,17,POR,POR,tov,11,False,False,TRAIL BLAZERS Turnover: Shot Clock (T#4),,36-45,36,45
+0021700463,2017-12-20,POR,SAS,20.72,2,3,17,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,36-45,36,45
 0021700463,2017-12-20,POR,SAS,20.95,2,3,3,SAS,SAS,fg_make,86,False,False,,Aldridge 10' Turnaround Fadeaway (14 PTS),36-47,36,47
 0021700463,2017-12-20,POR,SAS,21.27,2,2,44,POR,POR,fg_make,6,False,False,Lillard 2' Driving Layup (11 PTS),,38-47,38,47
 0021700463,2017-12-20,POR,SAS,21.53,2,2,28,SAS,SAS,fg_make,75,False,False,,Mills 1' Driving Finger Roll Layup (6 PTS),38-49,38,49
@@ -184,8 +184,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700463,2017-12-20,POR,SAS,22.68,2,1,19,POR,POR,fg3_miss,79,False,False,MISS Napier 25' 3PT Pullup Jump Shot,,40-49,40,49
 0021700463,2017-12-20,POR,SAS,22.73,2,1,16,SAS,SAS,reb,0,False,False,,Aldridge REBOUND (Off:1 Def:3),40-49,40,49
 0021700463,2017-12-20,POR,SAS,23.02,2,0,59,SAS,SAS,tov,1,False,True,,Ginobili Bad Pass Turnover (P2.T9),40-49,40,49
-0021700463,2017-12-20,POR,SAS,23.02,2,0,59,POR,SAS,foul,1,False,False,,Mills P.FOUL (P1.T4) (R.Garretson),40-49,40,49
 0021700463,2017-12-20,POR,SAS,23.02,2,0,59,SAS,POR,steal,1,False,True,steal,steal,40-49,40,49
+0021700463,2017-12-20,POR,SAS,23.02,2,0,59,POR,SAS,foul,1,False,False,,Mills P.FOUL (P1.T4) (R.Garretson),40-49,40,49
 0021700463,2017-12-20,POR,SAS,23.27,2,0,44,POR,POR,fg_miss,101,True,False,MISS Lillard 15' Driving Floating Jump Shot,,40-49,40,49
 0021700463,2017-12-20,POR,SAS,23.27,2,0,44,POR,SAS,block,101,True,False,block,block,40-49,40,49
 0021700463,2017-12-20,POR,SAS,23.32,2,0,41,POR,POR,reb,0,False,False,Napier REBOUND (Off:1 Def:0),,40-49,40,49
@@ -194,10 +194,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700463,2017-12-20,POR,SAS,23.5,2,0,30,POR,POR,fg3_make,79,False,False,Lillard 25' 3PT Pullup Jump Shot (14 PTS),,46-52,46,52
 0021700463,2017-12-20,POR,SAS,23.87,2,0,8,SAS,SAS,fg_make,63,False,False,,Aldridge 21' Fadeaway Jumper (16 PTS),46-54,46,54
 0021700463,2017-12-20,POR,SAS,23.97,2,0,2,POR,POR,fg3_miss,79,True,False,MISS Lillard 26' 3PT Pullup Jump Shot,,46-54,46,54
+0021700463,2017-12-20,POR,SAS,23.97,2,0,2,POR,SAS,block,79,True,False,block,block,46-54,46,54
 0021700463,2017-12-20,POR,SAS,23.97,2,0,2,SAS,SAS,reb,0,False,False,,Aldridge REBOUND (Off:1 Def:4),46-54,46,54
 0021700463,2017-12-20,POR,SAS,23.97,2,0,2,SAS,SAS,fg3_miss,1,False,False,,MISS Aldridge 67' 3PT Jump Shot,46-54,46,54
 0021700463,2017-12-20,POR,SAS,23.97,2,0,2,SAS,SAS,reb,0,False,False,,Spurs Rebound,46-54,46,54
-0021700463,2017-12-20,POR,SAS,23.97,2,0,2,POR,SAS,block,79,True,False,block,block,46-54,46,54
 0021700463,2017-12-20,POR,SAS,24.0,2,0,0,SAS,,period_end,0,False,False,,,46-54,46,54
 0021700463,2017-12-20,POR,SAS,24.0,3,12,0,SAS,,period_start,0,False,False,,,46-54,46,54
 0021700463,2017-12-20,POR,SAS,24.23,3,11,46,POR,POR,fg_miss,79,False,False,MISS Turner 13' Pullup Jump Shot,,46-54,46,54
@@ -215,8 +215,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700463,2017-12-20,POR,SAS,25.73,3,10,16,SAS,SAS,fg_miss,79,False,False,,MISS Forbes 21' Pullup Jump Shot,48-54,48,54
 0021700463,2017-12-20,POR,SAS,25.78,3,10,13,POR,POR,reb,0,False,False,Lillard REBOUND (Off:0 Def:3),,48-54,48,54
 0021700463,2017-12-20,POR,SAS,25.82,3,10,11,POR,POR,fg_miss,6,True,False,MISS Lillard 3' Driving Layup,,48-54,48,54
-0021700463,2017-12-20,POR,SAS,25.82,3,10,11,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,48-54,48,54
 0021700463,2017-12-20,POR,SAS,25.82,3,10,11,POR,SAS,block,6,True,False,block,block,48-54,48,54
+0021700463,2017-12-20,POR,SAS,25.82,3,10,11,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,48-54,48,54
 0021700463,2017-12-20,POR,SAS,25.93,3,10,4,POR,POR,fg3_miss,1,False,False,MISS Lillard 25' 3PT Jump Shot,,48-54,48,54
 0021700463,2017-12-20,POR,SAS,25.93,3,10,4,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:0 Def:8),48-54,48,54
 0021700463,2017-12-20,POR,SAS,26.27,3,9,44,SAS,SAS,fg_miss,86,False,False,,MISS Gasol 19' Turnaround Fadeaway Shot,48-54,48,54
@@ -316,8 +316,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700463,2017-12-20,POR,SAS,36.27,4,11,44,SAS,SAS,tov,1,False,True,,Gay Bad Pass Turnover (P1.T18),72-74,72,74
 0021700463,2017-12-20,POR,SAS,36.27,4,11,44,SAS,POR,steal,1,False,True,steal,steal,72-74,72,74
 0021700463,2017-12-20,POR,SAS,36.43,4,11,34,POR,POR,tov,2,False,True,Napier Lost Ball Turnover (P2.T7),,72-74,72,74
-0021700463,2017-12-20,POR,SAS,36.43,4,11,34,SAS,POR,violation,5,False,False,Napier Violation:Kicked Ball (B.Spooner),,72-74,72,74
 0021700463,2017-12-20,POR,SAS,36.43,4,11,34,POR,SAS,steal,2,False,True,steal,steal,72-74,72,74
+0021700463,2017-12-20,POR,SAS,36.43,4,11,34,SAS,POR,violation,5,False,False,Napier Violation:Kicked Ball (B.Spooner),,72-74,72,74
 0021700463,2017-12-20,POR,SAS,36.82,4,11,11,SAS,SAS,fg_miss,47,False,False,,MISS Murray 20' Turnaround Jump Shot,72-74,72,74
 0021700463,2017-12-20,POR,SAS,36.87,4,11,8,SAS,SAS,reb,0,False,False,,Gay REBOUND (Off:1 Def:0),72-74,72,74
 0021700463,2017-12-20,POR,SAS,37.15,4,10,51,SAS,SAS,fg_miss,79,False,False,,MISS Forbes 23' Pullup Jump Shot,72-74,72,74
@@ -410,8 +410,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700463,2017-12-20,POR,SAS,47.75,4,0,15,SAS,SAS,ft_make,12,False,False,,Aldridge Free Throw 2 of 2 (22 PTS),91-93,91,93
 0021700463,2017-12-20,POR,SAS,47.75,4,0,15,POR,POR,timeout,1,False,False,TRAIL BLAZERS Timeout: Regular (Full 7 Short 0),,91-93,91,93
 0021700463,2017-12-20,POR,SAS,47.83,4,0,10,POR,POR,fg_miss,6,True,False,MISS McCollum Driving Layup,,91-93,91,93
-0021700463,2017-12-20,POR,SAS,47.83,4,0,10,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,91-93,91,93
 0021700463,2017-12-20,POR,SAS,47.83,4,0,10,POR,SAS,block,6,True,False,block,block,91-93,91,93
+0021700463,2017-12-20,POR,SAS,47.83,4,0,10,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,91-93,91,93
 0021700463,2017-12-20,POR,SAS,48.0,4,0,0,POR,POR,fg3_miss,79,False,False,MISS McCollum 25' 3PT Pullup Jump Shot,,91-93,91,93
 0021700463,2017-12-20,POR,SAS,48.0,4,0,0,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,91-93,91,93
 0021700463,2017-12-20,POR,SAS,48.0,4,0,0,POR,,period_end,0,False,False,,,91-93,91,93

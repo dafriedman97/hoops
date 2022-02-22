@@ -34,8 +34,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900924,2020-03-04,MIL,IND,4.13,1,7,52,IND,IND,fg_miss,6,False,False,,MISS Holiday 4' Driving Layup,15-2,15,2
 0021900924,2020-03-04,MIL,IND,4.17,1,7,50,MIL,MIL,reb,0,False,False,Lopez REBOUND (Off:0 Def:1),,15-2,15,2
 0021900924,2020-03-04,MIL,IND,4.22,1,7,47,MIL,MIL,fg_miss,41,True,False,MISS Antetokounmpo 2' Running Layup,,15-2,15,2
-0021900924,2020-03-04,MIL,IND,4.22,1,7,47,IND,IND,reb,0,False,False,,Pacers Rebound,15-2,15,2
 0021900924,2020-03-04,MIL,IND,4.22,1,7,47,MIL,IND,block,41,True,False,block,block,15-2,15,2
+0021900924,2020-03-04,MIL,IND,4.22,1,7,47,IND,IND,reb,0,False,False,,Pacers Rebound,15-2,15,2
 0021900924,2020-03-04,MIL,IND,4.3,1,7,42,,MIL,jump_ball,0,False,False,Jump Ball Antetokounmpo vs. Turner: Tip to Sabonis,,15-2,15,2
 0021900924,2020-03-04,MIL,IND,4.52,1,7,29,IND,IND,fg_make,79,False,False,,Brogdon 13' Pullup Jump Shot (4 PTS),15-4,15,4
 0021900924,2020-03-04,MIL,IND,4.68,1,7,19,MIL,MIL,fg3_miss,1,False,False,MISS Matthews 27' 3PT Jump Shot,,15-4,15,4
@@ -106,9 +106,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900924,2020-03-04,MIL,IND,12.4,2,11,36,MIL,MIL,ft_make,11,False,False,Connaughton Free Throw 1 of 2 (1 PTS),,37-23,37,23
 0021900924,2020-03-04,MIL,IND,12.4,2,11,36,MIL,MIL,ft_make,12,False,False,Connaughton Free Throw 2 of 2 (2 PTS),,38-23,38,23
 0021900924,2020-03-04,MIL,IND,12.57,2,11,26,IND,IND,fg_miss,1,False,False,,MISS Sabonis 18' Jump Shot,38-23,38,23
+0021900924,2020-03-04,MIL,IND,12.68,2,11,19,IND,IND,reb,0,False,False,,Sampson REBOUND (Off:2 Def:0),38-23,38,23
 0021900924,2020-03-04,MIL,IND,12.68,2,11,19,IND,IND,fg_miss,97,False,False,,MISS Sampson 1' Tip Layup Shot,38-23,38,23
 0021900924,2020-03-04,MIL,IND,12.68,2,11,19,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:1 Def:4),,38-23,38,23
-0021900924,2020-03-04,MIL,IND,12.68,2,11,19,IND,IND,reb,0,False,False,,Sampson REBOUND (Off:2 Def:0),38-23,38,23
 0021900924,2020-03-04,MIL,IND,12.77,2,11,14,MIL,MIL,fg3_miss,1,False,False,MISS Antetokounmpo 30' 3PT Jump Shot,,38-23,38,23
 0021900924,2020-03-04,MIL,IND,12.82,2,11,11,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:0 Def:5),38-23,38,23
 0021900924,2020-03-04,MIL,IND,13.12,2,10,53,IND,IND,fg_make,98,False,False,,Sabonis 1' Cutting Layup Shot (7 PTS) (Sampson 1 AST),38-25,38,25
@@ -208,8 +208,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900924,2020-03-04,MIL,IND,23.07,2,0,56,IND,IND,fg_miss,79,False,False,,MISS Warren 12' Pullup Jump Shot,58-54,58,54
 0021900924,2020-03-04,MIL,IND,23.1,2,0,54,MIL,MIL,reb,0,False,False,Lopez REBOUND (Off:1 Def:2),,58-54,58,54
 0021900924,2020-03-04,MIL,IND,23.17,2,0,50,MIL,MIL,fg_miss,6,True,False,MISS Antetokounmpo 3' Driving Layup,,58-54,58,54
-0021900924,2020-03-04,MIL,IND,23.17,2,0,50,IND,IND,reb,0,False,False,,Pacers Rebound,58-54,58,54
 0021900924,2020-03-04,MIL,IND,23.17,2,0,50,MIL,IND,block,6,True,False,block,block,58-54,58,54
+0021900924,2020-03-04,MIL,IND,23.17,2,0,50,IND,IND,reb,0,False,False,,Pacers Rebound,58-54,58,54
 0021900924,2020-03-04,MIL,IND,23.22,2,0,47,,MIL,jump_ball,0,False,False,Jump Ball Antetokounmpo vs. Turner: Tip to McConnell,,58-54,58,54
 0021900924,2020-03-04,MIL,IND,23.25,2,0,45,IND,IND,fg_miss,41,False,False,,MISS McConnell 3' Running Layup,58-54,58,54
 0021900924,2020-03-04,MIL,IND,23.27,2,0,44,IND,IND,reb,0,False,False,,Warren REBOUND (Off:1 Def:2),58-54,58,54

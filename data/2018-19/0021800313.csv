@@ -210,10 +210,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800313,2018-11-28,OKC,CLE,23.9,2,0,6,CLE,CLE,reb,0,False,False,,Osman REBOUND (Off:0 Def:5),47-47,47,47
 0021800313,2018-11-28,OKC,CLE,23.97,2,0,2,CLE,CLE,fg_miss,41,False,False,,MISS Hood 1' Running Layup,47-47,47,47
 0021800313,2018-11-28,OKC,CLE,24.0,2,0,0,CLE,CLE,reb,0,False,False,,Sexton REBOUND (Off:1 Def:6),47-47,47,47
-0021800313,2018-11-28,OKC,CLE,24.0,2,0,0,CLE,CLE,fg_miss,97,False,False,,MISS Sexton 1' Tip Layup Shot,47-47,47,47
-0021800313,2018-11-28,OKC,CLE,24.0,2,0,0,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,47-47,47,47
 0021800313,2018-11-28,OKC,CLE,24.0,2,0,0,CLE,,period_end,0,False,False,,,47-47,47,47
 0021800313,2018-11-28,OKC,CLE,24.0,3,12,0,CLE,,period_start,0,False,False,,,47-47,47,47
+0021800313,2018-11-28,OKC,CLE,24.0,2,0,0,CLE,CLE,fg_miss,97,False,False,,MISS Sexton 1' Tip Layup Shot,47-47,47,47
+0021800313,2018-11-28,OKC,CLE,24.0,2,0,0,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,47-47,47,47
 0021800313,2018-11-28,OKC,CLE,24.12,3,11,53,OKC,CLE,foul,1,False,False,,Hood P.FOUL (P2.T1) (C.Kirkland),47-47,47,47
 0021800313,2018-11-28,OKC,CLE,24.22,3,11,47,CLE,OKC,foul,4,False,False,George OFF.Foul (P4) (C.Blair),,47-47,47,47
 0021800313,2018-11-28,OKC,CLE,24.22,3,11,47,OKC,OKC,tov,37,False,False,George Offensive Foul Turnover (P5.T9),,47-47,47,47
@@ -276,9 +276,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800313,2018-11-28,OKC,CLE,32.23,3,3,46,OKC,OKC,fg_miss,105,False,False,MISS Westbrook 8' Turnaround Fadeaway Bank Jump Shot,,67-62,67,62
 0021800313,2018-11-28,OKC,CLE,32.28,3,3,43,CLE,CLE,reb,0,False,False,,Osman REBOUND (Off:0 Def:8),67-62,67,62
 0021800313,2018-11-28,OKC,CLE,32.43,3,3,34,CLE,CLE,fg_miss,6,True,False,,MISS Osman 1' Driving Layup,67-62,67,62
+0021800313,2018-11-28,OKC,CLE,32.43,3,3,34,CLE,OKC,block,6,True,False,block,block,67-62,67,62
 0021800313,2018-11-28,OKC,CLE,32.43,3,3,34,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,67-62,67,62
 0021800313,2018-11-28,OKC,CLE,32.43,3,3,34,CLE,OKC,foul,3,False,False,Schroder L.B.FOUL (P3.T3) (C.Kirkland),,67-62,67,62
-0021800313,2018-11-28,OKC,CLE,32.43,3,3,34,CLE,OKC,block,6,True,False,block,block,67-62,67,62
 0021800313,2018-11-28,OKC,CLE,32.6,3,3,24,CLE,CLE,fg_miss,79,False,False,,MISS Sexton 17' Pullup Jump Shot,67-62,67,62
 0021800313,2018-11-28,OKC,CLE,32.62,3,3,23,OKC,OKC,reb,0,False,False,THUNDER Rebound,,67-62,67,62
 0021800313,2018-11-28,OKC,CLE,32.62,3,3,23,OKC,CLE,foul,3,False,False,,Thompson L.B.FOUL (P2.PN) (K.Fitzgerald),67-62,67,62
@@ -299,8 +299,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800313,2018-11-28,OKC,CLE,34.02,3,1,59,CLE,CLE,fg_miss,97,False,False,,MISS Zizic 1' Tip Layup Shot,69-62,69,62
 0021800313,2018-11-28,OKC,CLE,34.08,3,1,55,OKC,OKC,reb,0,False,False,THUNDER Rebound,,69-62,69,62
 0021800313,2018-11-28,OKC,CLE,34.3,3,1,42,OKC,OKC,fg_miss,6,True,False,MISS Abrines 2' Driving Layup,,69-62,69,62
-0021800313,2018-11-28,OKC,CLE,34.3,3,1,42,OKC,OKC,reb,0,False,False,Abrines REBOUND (Off:1 Def:2),,69-62,69,62
 0021800313,2018-11-28,OKC,CLE,34.3,3,1,42,OKC,CLE,block,6,True,False,block,block,69-62,69,62
+0021800313,2018-11-28,OKC,CLE,34.3,3,1,42,OKC,OKC,reb,0,False,False,Abrines REBOUND (Off:1 Def:2),,69-62,69,62
 0021800313,2018-11-28,OKC,CLE,34.37,3,1,38,OKC,OKC,fg3_miss,1,False,False,MISS Burton 26' 3PT Jump Shot,,69-62,69,62
 0021800313,2018-11-28,OKC,CLE,34.37,3,1,38,CLE,CLE,reb,0,False,False,,Osman REBOUND (Off:0 Def:9),69-62,69,62
 0021800313,2018-11-28,OKC,CLE,34.78,3,1,13,CLE,CLE,fg3_miss,1,False,False,,MISS Clarkson 26' 3PT Jump Shot,69-62,69,62
@@ -316,8 +316,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800313,2018-11-28,OKC,CLE,35.43,3,0,34,OKC,OKC,reb,0,False,False,Noel REBOUND (Off:1 Def:1),,71-62,71,62
 0021800313,2018-11-28,OKC,CLE,35.67,3,0,20,OKC,OKC,fg_make,108,False,False,Noel Cutting Dunk Shot (4 PTS) (Felton 1 AST),,73-62,73,62
 0021800313,2018-11-28,OKC,CLE,35.98,3,0,1,CLE,CLE,fg_miss,79,True,False,,MISS Clarkson 14' Pullup Jump Shot,73-62,73,62
-0021800313,2018-11-28,OKC,CLE,35.98,3,0,1,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,73-62,73,62
 0021800313,2018-11-28,OKC,CLE,35.98,3,0,1,CLE,OKC,block,79,True,False,block,block,73-62,73,62
+0021800313,2018-11-28,OKC,CLE,35.98,3,0,1,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,73-62,73,62
 0021800313,2018-11-28,OKC,CLE,36.0,3,0,0,CLE,,period_end,0,False,False,,,73-62,73,62
 0021800313,2018-11-28,OKC,CLE,36.0,4,12,0,CLE,,period_start,0,False,False,,,73-62,73,62
 0021800313,2018-11-28,OKC,CLE,36.37,4,11,38,CLE,CLE,fg_make,98,False,False,,Nance Jr. 1' Cutting Layup Shot (4 PTS) (Clarkson 1 AST),73-64,73,64
@@ -348,9 +348,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800313,2018-11-28,OKC,CLE,39.37,4,8,38,CLE,CLE,reb,0,False,False,,Nance Jr. REBOUND (Off:2 Def:4),80-64,80,64
 0021800313,2018-11-28,OKC,CLE,39.58,4,8,25,CLE,OKC,foul,2,False,False,Patterson S.FOUL (P2.T1) (K.Fitzgerald),,80-64,80,64
 0021800313,2018-11-28,OKC,CLE,39.58,4,8,25,CLE,CLE,ft_miss,11,False,False,,MISS Clarkson Free Throw 1 of 2,80-64,80,64
+0021800313,2018-11-28,OKC,CLE,39.58,4,8,25,CLE,CLE,reb,1,False,False,,Cavaliers Rebound,80-64,80,64
 0021800313,2018-11-28,OKC,CLE,39.58,4,8,25,CLE,CLE,ft_miss,12,False,False,,MISS Clarkson Free Throw 2 of 2,80-64,80,64
 0021800313,2018-11-28,OKC,CLE,39.58,4,8,25,OKC,OKC,reb,0,False,False,Nader REBOUND (Off:0 Def:3),,80-64,80,64
-0021800313,2018-11-28,OKC,CLE,39.58,4,8,25,CLE,CLE,reb,1,False,False,,Cavaliers Rebound,80-64,80,64
 0021800313,2018-11-28,OKC,CLE,39.8,4,8,12,OKC,OKC,fg_make,98,False,False,Nader 1' Cutting Layup Shot (4 PTS) (Westbrook 12 AST),,82-64,82,64
 0021800313,2018-11-28,OKC,CLE,40.08,4,7,55,CLE,CLE,fg_miss,2,False,False,,MISS Clarkson 18' Running Jump Shot,82-64,82,64
 0021800313,2018-11-28,OKC,CLE,40.2,4,7,48,OKC,OKC,reb,0,False,False,Patterson REBOUND (Off:0 Def:3),,82-64,82,64

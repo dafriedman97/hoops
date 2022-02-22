@@ -29,9 +29,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000107,2021-01-06,IND,HOU,3.12,1,8,53,HOU,HOU,reb,0,False,False,,Cousins REBOUND (Off:1 Def:1),7-9,7,9
 0022000107,2021-01-06,IND,HOU,3.12,1,8,53,HOU,HOU,fg_miss,97,False,False,,MISS Cousins 1' Tip Layup Shot,7-9,7,9
 0022000107,2021-01-06,IND,HOU,3.13,1,8,52,HOU,HOU,reb,0,False,False,,Cousins REBOUND (Off:2 Def:1),7-9,7,9
-0022000107,2021-01-06,IND,HOU,3.17,1,8,50,HOU,HOU,fg_make,72,False,False,,Cousins 6' Putback Layup (6 PTS),7-11,7,11
 0022000107,2021-01-06,IND,HOU,3.17,1,8,50,HOU,IND,foul,2,False,False,Brogdon S.FOUL (P1.T3) (M.Myers),,7-11,7,11
 0022000107,2021-01-06,IND,HOU,3.17,1,8,50,HOU,HOU,ft_make,10,False,False,,Cousins Free Throw 1 of 1 (7 PTS),7-12,7,12
+0022000107,2021-01-06,IND,HOU,3.17,1,8,50,HOU,HOU,fg_make,72,False,False,,Cousins 6' Putback Layup (6 PTS),7-11,7,11
 0022000107,2021-01-06,IND,HOU,3.37,1,8,38,IND,IND,fg_miss,79,False,False,MISS Brogdon 16' Pullup Jump Shot,,7-12,7,12
 0022000107,2021-01-06,IND,HOU,3.42,1,8,35,HOU,HOU,reb,0,False,False,,Tucker REBOUND (Off:0 Def:1),7-12,7,12
 0022000107,2021-01-06,IND,HOU,3.5,1,8,30,HOU,IND,foul,1,False,False,Brogdon P.FOUL (P2.T4) (A.Smith),,7-12,7,12
@@ -66,8 +66,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000107,2021-01-06,IND,HOU,6.28,1,5,43,IND,HOU,foul,1,False,False,,Harden P.FOUL (P1.T2) (M.Myers),10-18,10,18
 0022000107,2021-01-06,IND,HOU,6.48,1,5,31,IND,IND,fg_miss,98,True,False,MISS Brogdon 2' Cutting Layup Shot,,10-18,10,18
 0022000107,2021-01-06,IND,HOU,6.48,1,5,31,IND,HOU,block,98,True,False,block,block,10-18,10,18
-0022000107,2021-01-06,IND,HOU,6.57,1,5,26,IND,IND,fg_make,72,False,False,Brogdon Putback Layup (7 PTS),,12-18,12,18
 0022000107,2021-01-06,IND,HOU,6.57,1,5,26,IND,IND,reb,0,False,False,Brogdon REBOUND (Off:1 Def:0),,12-18,12,18
+0022000107,2021-01-06,IND,HOU,6.57,1,5,26,IND,IND,fg_make,72,False,False,Brogdon Putback Layup (7 PTS),,12-18,12,18
 0022000107,2021-01-06,IND,HOU,6.67,1,5,20,HOU,HOU,fg_make,76,False,False,,Wall 1' Running Finger Roll Layup (4 PTS),12-20,12,20
 0022000107,2021-01-06,IND,HOU,6.8,1,5,12,IND,IND,tov,1,False,True,Oladipo Bad Pass Turnover (P1.T3),,12-20,12,20
 0022000107,2021-01-06,IND,HOU,6.8,1,5,12,IND,HOU,steal,1,False,True,steal,steal,12-20,12,20
@@ -300,8 +300,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000107,2021-01-06,IND,HOU,31.82,3,4,11,IND,HOU,steal,2,False,True,steal,steal,78-74,78,74
 0022000107,2021-01-06,IND,HOU,32.07,3,3,56,HOU,HOU,fg3_make,1,False,False,,Nwaba 24' 3PT Jump Shot (15 PTS) (Tate 2 AST),78-77,78,77
 0022000107,2021-01-06,IND,HOU,32.5,3,3,30,IND,IND,fg_miss,75,True,False,MISS Oladipo 3' Driving Finger Roll Layup,,78-77,78,77
-0022000107,2021-01-06,IND,HOU,32.5,3,3,30,IND,IND,reb,0,False,False,PACERS Rebound,,78-77,78,77
 0022000107,2021-01-06,IND,HOU,32.5,3,3,30,IND,HOU,block,75,True,False,block,block,78-77,78,77
+0022000107,2021-01-06,IND,HOU,32.5,3,3,30,IND,IND,reb,0,False,False,PACERS Rebound,,78-77,78,77
 0022000107,2021-01-06,IND,HOU,32.52,3,3,29,IND,IND,tov,11,False,False,PACERS Turnover: Shot Clock (T#9),,78-77,78,77
 0022000107,2021-01-06,IND,HOU,32.8,3,3,12,HOU,HOU,fg_miss,101,False,False,,MISS Harden 1' Driving Floating Jump Shot,78-77,78,77
 0022000107,2021-01-06,IND,HOU,32.85,3,3,9,IND,IND,reb,0,False,False,Oladipo REBOUND (Off:0 Def:5),,78-77,78,77
@@ -339,8 +339,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000107,2021-01-06,IND,HOU,36.0,4,12,0,HOU,,period_start,0,False,False,,,90-87,90,87
 0022000107,2021-01-06,IND,HOU,36.2,4,11,48,HOU,HOU,fg_make,6,False,False,,Gordon 2' Driving Layup (18 PTS),90-89,90,89
 0022000107,2021-01-06,IND,HOU,36.53,4,11,28,IND,IND,fg_miss,79,True,False,MISS Oladipo 1' Pullup Jump Shot,,90-89,90,89
-0022000107,2021-01-06,IND,HOU,36.53,4,11,28,IND,IND,reb,0,False,False,PACERS Rebound,,90-89,90,89
 0022000107,2021-01-06,IND,HOU,36.53,4,11,28,IND,HOU,block,79,True,False,block,block,90-89,90,89
+0022000107,2021-01-06,IND,HOU,36.53,4,11,28,IND,IND,reb,0,False,False,PACERS Rebound,,90-89,90,89
 0022000107,2021-01-06,IND,HOU,36.65,4,11,21,IND,IND,fg_miss,79,True,False,MISS Holiday 16' Pullup Jump Shot,,90-89,90,89
 0022000107,2021-01-06,IND,HOU,36.65,4,11,21,IND,HOU,block,79,True,False,block,block,90-89,90,89
 0022000107,2021-01-06,IND,HOU,36.68,4,11,19,HOU,HOU,reb,0,False,False,,Nwaba REBOUND (Off:0 Def:2),90-89,90,89
@@ -351,8 +351,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000107,2021-01-06,IND,HOU,37.22,4,10,47,HOU,HOU,fg3_miss,1,False,False,,MISS Nwaba 3PT Jump Shot,92-91,92,91
 0022000107,2021-01-06,IND,HOU,37.25,4,10,45,IND,IND,reb,0,False,False,McConnell REBOUND (Off:0 Def:3),,92-91,92,91
 0022000107,2021-01-06,IND,HOU,37.42,4,10,35,IND,IND,fg_miss,5,True,False,MISS Turner 2' Layup,,92-91,92,91
-0022000107,2021-01-06,IND,HOU,37.42,4,10,35,IND,IND,reb,0,False,False,PACERS Rebound,,92-91,92,91
 0022000107,2021-01-06,IND,HOU,37.42,4,10,35,IND,HOU,block,5,True,False,block,block,92-91,92,91
+0022000107,2021-01-06,IND,HOU,37.42,4,10,35,IND,IND,reb,0,False,False,PACERS Rebound,,92-91,92,91
 0022000107,2021-01-06,IND,HOU,37.63,4,10,22,IND,IND,fg_miss,101,False,False,MISS Holiday 3' Driving Floating Jump Shot,,92-91,92,91
 0022000107,2021-01-06,IND,HOU,37.68,4,10,19,HOU,HOU,reb,0,False,False,,Brown REBOUND (Off:0 Def:2),92-91,92,91
 0022000107,2021-01-06,IND,HOU,37.88,4,10,7,HOU,HOU,fg3_miss,1,False,False,,MISS Tate 27' 3PT Jump Shot,92-91,92,91
@@ -402,8 +402,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000107,2021-01-06,IND,HOU,42.95,4,5,3,HOU,HOU,timeout,1,False,False,,Rockets Timeout: Regular (Reg.4 Short 0),103-101,103,101
 0022000107,2021-01-06,IND,HOU,43.23,4,4,46,HOU,HOU,fg_make,75,False,False,,Wall 1' Driving Finger Roll Layup (26 PTS) (Harden 12 AST),103-103,103,103
 0022000107,2021-01-06,IND,HOU,43.63,4,4,22,IND,IND,fg_miss,75,True,False,MISS Brogdon Driving Finger Roll Layup,,103-103,103,103
-0022000107,2021-01-06,IND,HOU,43.63,4,4,22,IND,IND,reb,0,False,False,PACERS Rebound,,103-103,103,103
 0022000107,2021-01-06,IND,HOU,43.63,4,4,22,IND,HOU,block,75,True,False,block,block,103-103,103,103
+0022000107,2021-01-06,IND,HOU,43.63,4,4,22,IND,IND,reb,0,False,False,PACERS Rebound,,103-103,103,103
 0022000107,2021-01-06,IND,HOU,43.67,4,4,20,IND,IND,fg_miss,75,False,False,MISS Oladipo 1' Driving Finger Roll Layup,,103-103,103,103
 0022000107,2021-01-06,IND,HOU,43.68,4,4,19,IND,IND,reb,0,False,False,PACERS Rebound,,103-103,103,103
 0022000107,2021-01-06,IND,HOU,43.68,4,4,19,IND,IND,tov,11,False,False,PACERS Turnover: Shot Clock (T#13),,103-103,103,103

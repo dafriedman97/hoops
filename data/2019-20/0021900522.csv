@@ -5,8 +5,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900522,2020-01-03,LAL,NOP,0.57,1,11,26,NOP,NOP,fg3_make,1,False,False,,Ball 25' 3PT Jump Shot (3 PTS) (Redick 1 AST),2-3,2,3
 0021900522,2020-01-03,LAL,NOP,0.87,1,11,8,LAL,LAL,fg_make,43,False,False,Davis 2' Alley Oop Layup (4 PTS) (James 2 AST),,4-3,4,3
 0021900522,2020-01-03,LAL,NOP,0.9,1,11,6,NOP,NOP,fg_miss,7,True,False,,MISS Ingram 2' Dunk,4-3,4,3
-0021900522,2020-01-03,LAL,NOP,0.9,1,11,6,NOP,NOP,reb,0,False,False,,Pelicans Rebound,4-3,4,3
 0021900522,2020-01-03,LAL,NOP,0.9,1,11,6,NOP,LAL,block,7,True,False,block,block,4-3,4,3
+0021900522,2020-01-03,LAL,NOP,0.9,1,11,6,NOP,NOP,reb,0,False,False,,Pelicans Rebound,4-3,4,3
 0021900522,2020-01-03,LAL,NOP,1.0,1,11,0,NOP,NOP,fg_miss,6,True,False,,MISS Ingram 3' Driving Layup,4-3,4,3
 0021900522,2020-01-03,LAL,NOP,1.0,1,11,0,NOP,LAL,block,6,True,False,block,block,4-3,4,3
 0021900522,2020-01-03,LAL,NOP,1.02,1,10,59,NOP,NOP,reb,0,False,False,,Ingram REBOUND (Off:1 Def:0),4-3,4,3
@@ -42,8 +42,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900522,2020-01-03,LAL,NOP,4.55,1,7,27,NOP,NOP,fg_miss,78,False,False,,MISS Favors 9' Floating Jump Shot,17-12,17,12
 0021900522,2020-01-03,LAL,NOP,4.6,1,7,24,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:0 Def:3),,17-12,17,12
 0021900522,2020-01-03,LAL,NOP,4.72,1,7,17,LAL,LAL,fg_miss,98,True,False,MISS McGee 2' Cutting Layup Shot,,17-12,17,12
-0021900522,2020-01-03,LAL,NOP,4.72,1,7,17,LAL,LAL,reb,0,False,False,LAKERS Rebound,,17-12,17,12
 0021900522,2020-01-03,LAL,NOP,4.72,1,7,17,LAL,NOP,block,98,True,False,block,block,17-12,17,12
+0021900522,2020-01-03,LAL,NOP,4.72,1,7,17,LAL,LAL,reb,0,False,False,LAKERS Rebound,,17-12,17,12
 0021900522,2020-01-03,LAL,NOP,4.73,1,7,16,LAL,NOP,foul,2,False,False,,Favors S.FOUL (P2.T3) (R.Acosta),17-12,17,12
 0021900522,2020-01-03,LAL,NOP,4.73,1,7,16,LAL,LAL,ft_make,11,False,False,James Free Throw 1 of 2 (4 PTS),,18-12,18,12
 0021900522,2020-01-03,LAL,NOP,4.73,1,7,16,LAL,LAL,ft_miss,12,False,False,MISS James Free Throw 2 of 2,,18-12,18,12
@@ -58,9 +58,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900522,2020-01-03,LAL,NOP,5.32,1,6,41,NOP,NOP,tov,1,False,True,,Ball Bad Pass Turnover (P1.T1),20-12,20,12
 0021900522,2020-01-03,LAL,NOP,5.32,1,6,41,NOP,LAL,steal,1,False,True,steal,steal,20-12,20,12
 0021900522,2020-01-03,LAL,NOP,5.37,1,6,38,LAL,LAL,fg_miss,76,True,False,MISS McGee 4' Running Finger Roll Layup,,20-12,20,12
+0021900522,2020-01-03,LAL,NOP,5.37,1,6,38,LAL,NOP,block,76,True,False,block,block,20-12,20,12
 0021900522,2020-01-03,LAL,NOP,5.37,1,6,38,NOP,NOP,reb,0,False,False,,Pelicans Rebound,20-12,20,12
 0021900522,2020-01-03,LAL,NOP,5.37,1,6,38,NOP,LAL,foul,3,False,False,McGee L.B.FOUL (P2.T3) (R.Acosta),,20-12,20,12
-0021900522,2020-01-03,LAL,NOP,5.37,1,6,38,LAL,NOP,block,76,True,False,block,block,20-12,20,12
 0021900522,2020-01-03,LAL,NOP,5.53,1,6,28,NOP,NOP,fg_make,6,False,False,,Holiday 2' Driving Layup (2 PTS) (Hayes 1 AST),20-14,20,14
 0021900522,2020-01-03,LAL,NOP,5.53,1,6,28,NOP,LAL,violation,2,False,False,McGee Violation:Defensive Goaltending (B.Taylor),,20-14,20,14
 0021900522,2020-01-03,LAL,NOP,5.72,1,6,17,LAL,NOP,foul,1,False,False,,Ball P.FOUL (P2.PN) (B.Taylor),20-14,20,14
@@ -79,8 +79,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900522,2020-01-03,LAL,NOP,7.18,1,4,49,LAL,LAL,tov,11,False,False,LAKERS Turnover: Shot Clock (T#2),,26-17,26,17
 0021900522,2020-01-03,LAL,NOP,7.38,1,4,37,NOP,LAL,foul,1,False,False,Green P.FOUL (P1.T4) (E.Malloy),,26-17,26,17
 0021900522,2020-01-03,LAL,NOP,7.6,1,4,24,NOP,NOP,fg3_miss,1,False,False,,MISS Ingram 32' 3PT Jump Shot,26-17,26,17
-0021900522,2020-01-03,LAL,NOP,7.62,1,4,23,NOP,NOP,tov,11,False,False,,Pelicans Turnover: Shot Clock (T#3),26-17,26,17
 0021900522,2020-01-03,LAL,NOP,7.62,1,4,23,NOP,NOP,reb,0,False,False,,Pelicans Rebound,26-17,26,17
+0021900522,2020-01-03,LAL,NOP,7.62,1,4,23,NOP,NOP,tov,11,False,False,,Pelicans Turnover: Shot Clock (T#3),26-17,26,17
 0021900522,2020-01-03,LAL,NOP,7.8,1,4,12,LAL,NOP,foul,2,False,False,,Moore S.FOUL (P1.PN) (R.Acosta),26-17,26,17
 0021900522,2020-01-03,LAL,NOP,7.8,1,4,12,LAL,LAL,ft_make,11,False,False,Caldwell-Pope Free Throw 1 of 2 (1 PTS),,27-17,27,17
 0021900522,2020-01-03,LAL,NOP,7.8,1,4,12,LAL,LAL,ft_make,12,False,False,Caldwell-Pope Free Throw 2 of 2 (2 PTS),,28-17,28,17
@@ -197,8 +197,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900522,2020-01-03,LAL,NOP,22.07,2,1,56,NOP,NOP,reb,0,False,False,,Favors REBOUND (Off:1 Def:4),64-58,64,58
 0021900522,2020-01-03,LAL,NOP,22.17,2,1,50,NOP,NOP,fg_make,41,False,False,,Moore 2' Running Layup (9 PTS),64-60,64,60
 0021900522,2020-01-03,LAL,NOP,22.4,2,1,36,LAL,LAL,fg_miss,5,True,False,MISS James 2' Layup,,64-60,64,60
-0021900522,2020-01-03,LAL,NOP,22.4,2,1,36,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:2 Def:6),,64-60,64,60
 0021900522,2020-01-03,LAL,NOP,22.4,2,1,36,LAL,NOP,block,5,True,False,block,block,64-60,64,60
+0021900522,2020-01-03,LAL,NOP,22.4,2,1,36,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:2 Def:6),,64-60,64,60
 0021900522,2020-01-03,LAL,NOP,22.4,2,1,36,LAL,LAL,fg_make,72,False,False,Davis 2' Putback Layup (16 PTS),,66-60,66,60
 0021900522,2020-01-03,LAL,NOP,22.4,2,1,36,LAL,NOP,foul,2,False,False,,Ingram S.FOUL (P2.T2) (E.Malloy),66-60,66,60
 0021900522,2020-01-03,LAL,NOP,22.4,2,1,36,LAL,LAL,ft_make,10,False,False,Davis Free Throw 1 of 1 (17 PTS),,67-60,67,60
@@ -255,8 +255,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900522,2020-01-03,LAL,NOP,27.63,3,8,22,LAL,LAL,ft_make,11,False,False,McGee Free Throw 1 of 2 (5 PTS),,82-67,82,67
 0021900522,2020-01-03,LAL,NOP,27.63,3,8,22,LAL,LAL,ft_make,12,False,False,McGee Free Throw 2 of 2 (6 PTS),,83-67,83,67
 0021900522,2020-01-03,LAL,NOP,27.93,3,8,4,NOP,NOP,fg_miss,73,False,False,,MISS Holiday 2' Driving Reverse Layup,83-67,83,67
-0021900522,2020-01-03,LAL,NOP,28.02,3,7,59,NOP,NOP,fg_make,107,False,False,,Favors 1' Tip Dunk Shot (6 PTS),83-69,83,69
 0021900522,2020-01-03,LAL,NOP,28.02,3,7,59,NOP,NOP,reb,0,False,False,,Favors REBOUND (Off:3 Def:5),83-69,83,69
+0021900522,2020-01-03,LAL,NOP,28.02,3,7,59,NOP,NOP,fg_make,107,False,False,,Favors 1' Tip Dunk Shot (6 PTS),83-69,83,69
 0021900522,2020-01-03,LAL,NOP,28.1,3,7,54,LAL,LAL,fg3_make,2,False,False,Davis 27' 3PT Running Jump Shot (26 PTS) (James 12 AST),,86-69,86,69
 0021900522,2020-01-03,LAL,NOP,28.32,3,7,41,NOP,NOP,fg3_make,1,False,False,,Ingram 26' 3PT Jump Shot (15 PTS) (Ball 3 AST),86-72,86,72
 0021900522,2020-01-03,LAL,NOP,28.75,3,7,15,LAL,LAL,fg_miss,80,False,False,MISS Davis 19' Step Back Jump Shot,,86-72,86,72
@@ -331,10 +331,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900522,2020-01-03,LAL,NOP,35.92,3,0,5,NOP,NOP,fg3_miss,80,False,False,,MISS Ball 27' 3PT Step Back Jump Shot,105-83,105,83
 0021900522,2020-01-03,LAL,NOP,35.95,3,0,3,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:2 Def:9),,105-83,105,83
 0021900522,2020-01-03,LAL,NOP,36.0,3,0,0,LAL,LAL,fg3_miss,2,True,False,MISS Kuzma 34' 3PT Running Jump Shot,,105-83,105,83
+0021900522,2020-01-03,LAL,NOP,36.0,3,0,0,LAL,NOP,block,2,True,False,block,block,105-83,105,83
 0021900522,2020-01-03,LAL,NOP,36.0,3,0,0,LAL,LAL,reb,0,False,False,LAKERS Rebound,,105-83,105,83
 0021900522,2020-01-03,LAL,NOP,36.0,3,0,0,LAL,,period_end,0,False,False,,,105-83,105,83
 0021900522,2020-01-03,LAL,NOP,36.0,4,12,0,LAL,,period_start,0,False,False,,,105-83,105,83
-0021900522,2020-01-03,LAL,NOP,36.0,3,0,0,LAL,NOP,block,2,True,False,block,block,105-83,105,83
 0021900522,2020-01-03,LAL,NOP,36.2,4,11,48,LAL,LAL,fg3_miss,1,False,False,MISS Caldwell-Pope 27' 3PT Jump Shot,,105-83,105,83
 0021900522,2020-01-03,LAL,NOP,36.25,4,11,45,NOP,NOP,reb,0,False,False,,Moore REBOUND (Off:0 Def:2),105-83,105,83
 0021900522,2020-01-03,LAL,NOP,36.45,4,11,33,NOP,NOP,fg_make,3,False,False,,Favors 2' Hook Shot (8 PTS) (Holiday 4 AST),105-85,105,85
@@ -351,8 +351,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900522,2020-01-03,LAL,NOP,38.22,4,9,47,LAL,LAL,fg_miss,78,False,False,MISS Kuzma 4' Floating Jump Shot,,105-92,105,92
 0021900522,2020-01-03,LAL,NOP,38.25,4,9,45,NOP,NOP,reb,0,False,False,,Williams REBOUND (Off:0 Def:1),105-92,105,92
 0021900522,2020-01-03,LAL,NOP,38.45,4,9,33,NOP,NOP,fg_miss,71,True,False,,MISS Holiday 2' Finger Roll Layup,105-92,105,92
-0021900522,2020-01-03,LAL,NOP,38.45,4,9,33,NOP,NOP,reb,0,False,False,,Pelicans Rebound,105-92,105,92
 0021900522,2020-01-03,LAL,NOP,38.45,4,9,33,NOP,LAL,block,71,True,False,block,block,105-92,105,92
+0021900522,2020-01-03,LAL,NOP,38.45,4,9,33,NOP,NOP,reb,0,False,False,,Pelicans Rebound,105-92,105,92
 0021900522,2020-01-03,LAL,NOP,38.52,4,9,29,NOP,NOP,fg_miss,5,True,False,,MISS Moore 3' Layup,105-92,105,92
 0021900522,2020-01-03,LAL,NOP,38.52,4,9,29,NOP,LAL,block,5,True,False,block,block,105-92,105,92
 0021900522,2020-01-03,LAL,NOP,38.55,4,9,27,LAL,LAL,reb,0,False,False,Caldwell-Pope REBOUND (Off:0 Def:2),,105-92,105,92

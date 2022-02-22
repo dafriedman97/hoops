@@ -28,12 +28,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700951,2018-03-05,IND,MIL,3.47,1,8,32,MIL,MIL,fg_miss,80,False,False,,MISS Antetokounmpo 13' Step Back Jump Shot,6-5,6,5
 0021700951,2018-03-05,IND,MIL,3.53,1,8,28,IND,IND,reb,0,False,False,Oladipo REBOUND (Off:0 Def:1),,6-5,6,5
 0021700951,2018-03-05,IND,MIL,3.67,1,8,20,IND,IND,fg_miss,5,True,False,MISS Turner 2' Layup,,6-5,6,5
-0021700951,2018-03-05,IND,MIL,3.67,1,8,20,IND,IND,reb,0,False,False,PACERS Rebound,,6-5,6,5
 0021700951,2018-03-05,IND,MIL,3.67,1,8,20,IND,MIL,block,5,True,False,block,block,6-5,6,5
+0021700951,2018-03-05,IND,MIL,3.67,1,8,20,IND,IND,reb,0,False,False,PACERS Rebound,,6-5,6,5
 0021700951,2018-03-05,IND,MIL,3.87,1,8,8,IND,IND,fg_miss,6,True,False,MISS Oladipo 1' Driving Layup,,6-5,6,5
+0021700951,2018-03-05,IND,MIL,3.87,1,8,8,IND,MIL,block,6,True,False,block,block,6-5,6,5
 0021700951,2018-03-05,IND,MIL,3.87,1,8,8,IND,IND,reb,0,False,False,PACERS Rebound,,6-5,6,5
 0021700951,2018-03-05,IND,MIL,3.87,1,8,8,IND,IND,tov,45,False,False,Oladipo Out of Bounds - Bad Pass Turnover Turnover (P2.T2),,6-5,6,5
-0021700951,2018-03-05,IND,MIL,3.87,1,8,8,IND,MIL,block,6,True,False,block,block,6-5,6,5
 0021700951,2018-03-05,IND,MIL,4.22,1,7,47,MIL,MIL,fg3_miss,1,False,False,,MISS Snell 3PT Jump Shot,6-5,6,5
 0021700951,2018-03-05,IND,MIL,4.27,1,7,44,IND,IND,reb,0,False,False,Young REBOUND (Off:0 Def:3),,6-5,6,5
 0021700951,2018-03-05,IND,MIL,4.48,1,7,31,IND,IND,fg_make,1,False,False,Turner 17' Jump Shot (2 PTS) (Joseph 1 AST),,8-5,8,5
@@ -293,10 +293,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700951,2018-03-05,IND,MIL,35.5,3,0,30,MIL,MIL,fg_make,2,False,False,,Parker 6' Running Jump Shot (13 PTS),70-69,70,69
 0021700951,2018-03-05,IND,MIL,35.87,3,0,8,IND,IND,fg3_make,1,False,False,Stephenson 30' 3PT Jump Shot (7 PTS) (Robinson III 1 AST),,73-69,73,69
 0021700951,2018-03-05,IND,MIL,36.0,3,0,0,MIL,MIL,fg_miss,5,True,False,,MISS Maker 1' Layup,73-69,73,69
+0021700951,2018-03-05,IND,MIL,36.0,3,0,0,MIL,IND,block,5,True,False,block,block,73-69,73,69
 0021700951,2018-03-05,IND,MIL,36.0,3,0,0,MIL,MIL,reb,0,False,False,,Bucks Rebound,73-69,73,69
 0021700951,2018-03-05,IND,MIL,36.0,3,0,0,MIL,,period_end,0,False,False,,,73-69,73,69
 0021700951,2018-03-05,IND,MIL,36.0,4,12,0,MIL,,period_start,0,False,False,,,73-69,73,69
-0021700951,2018-03-05,IND,MIL,36.0,3,0,0,MIL,IND,block,5,True,False,block,block,73-69,73,69
 0021700951,2018-03-05,IND,MIL,36.28,4,11,43,MIL,MIL,tov,1,False,True,,Terry Bad Pass Turnover (P2.T14),73-69,73,69
 0021700951,2018-03-05,IND,MIL,36.28,4,11,43,MIL,IND,steal,1,False,True,steal,steal,73-69,73,69
 0021700951,2018-03-05,IND,MIL,36.57,4,11,26,IND,IND,fg3_make,79,False,False,Stephenson 25' 3PT Pullup Jump Shot (10 PTS),,76-69,76,69
@@ -381,8 +381,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700951,2018-03-05,IND,MIL,46.8,4,1,12,IND,IND,fg_miss,47,False,False,MISS Young 11' Turnaround Jump Shot,,90-88,90,88
 0021700951,2018-03-05,IND,MIL,46.85,4,1,9,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:2 Def:10),90-88,90,88
 0021700951,2018-03-05,IND,MIL,46.9,4,1,6,MIL,MIL,fg_miss,41,True,False,,MISS Bledsoe 5' Running Layup,90-88,90,88
-0021700951,2018-03-05,IND,MIL,46.9,4,1,6,MIL,MIL,reb,0,False,False,,Bucks Rebound,90-88,90,88
 0021700951,2018-03-05,IND,MIL,46.9,4,1,6,MIL,IND,block,41,True,False,block,block,90-88,90,88
+0021700951,2018-03-05,IND,MIL,46.9,4,1,6,MIL,MIL,reb,0,False,False,,Bucks Rebound,90-88,90,88
 0021700951,2018-03-05,IND,MIL,46.92,4,1,5,MIL,IND,foul,2,False,False,Young S.FOUL (P5.PN) (J.DeRosa),,90-88,90,88
 0021700951,2018-03-05,IND,MIL,46.92,4,1,5,MIL,MIL,ft_make,11,False,False,,Antetokounmpo Free Throw 1 of 2 (18 PTS),90-89,90,89
 0021700951,2018-03-05,IND,MIL,46.92,4,1,5,MIL,MIL,ft_miss,12,False,False,,MISS Antetokounmpo Free Throw 2 of 2,90-89,90,89
@@ -395,8 +395,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700951,2018-03-05,IND,MIL,47.87,4,0,8,IND,MIL,steal,1,False,True,steal,steal,90-89,90,89
 0021700951,2018-03-05,IND,MIL,47.92,4,0,5,,IND,jump_ball,0,False,False,Jump Ball Joseph vs. Middleton: Tip to Bogdanovic,,90-89,90,89
 0021700951,2018-03-05,IND,MIL,47.92,4,0,5,MIL,MIL,tov,2,False,True,,Middleton Lost Ball Turnover (P1.T18),90-89,90,89
-0021700951,2018-03-05,IND,MIL,47.92,4,0,5,IND,MIL,foul,1,False,False,,Bledsoe P.FOUL (P4.PN) (B.Kennedy),90-89,90,89
 0021700951,2018-03-05,IND,MIL,47.92,4,0,5,MIL,IND,steal,2,False,True,steal,steal,90-89,90,89
+0021700951,2018-03-05,IND,MIL,47.92,4,0,5,IND,MIL,foul,1,False,False,,Bledsoe P.FOUL (P4.PN) (B.Kennedy),90-89,90,89
 0021700951,2018-03-05,IND,MIL,47.92,4,0,5,IND,IND,ft_make,11,False,False,Bogdanovic Free Throw 1 of 2 (28 PTS),,91-89,91,89
 0021700951,2018-03-05,IND,MIL,47.92,4,0,5,IND,IND,ft_make,12,False,False,Bogdanovic Free Throw 2 of 2 (29 PTS),,92-89,92,89
 0021700951,2018-03-05,IND,MIL,47.92,4,0,5,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.6 Short 0),92-89,92,89

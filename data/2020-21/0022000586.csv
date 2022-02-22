@@ -47,8 +47,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000586,2021-03-13,OKC,NYK,6.22,1,5,47,OKC,OKC,tov,1,False,True,Maledon Bad Pass Turnover (P2.T3),,17-7,17,7
 0022000586,2021-03-13,OKC,NYK,6.22,1,5,47,OKC,NYK,steal,1,False,True,steal,steal,17-7,17,7
 0022000586,2021-03-13,OKC,NYK,6.3,1,5,42,NYK,NYK,fg_miss,41,False,False,,MISS Randle 4' Running Layup,17-7,17,7
-0022000586,2021-03-13,OKC,NYK,6.4,1,5,36,NYK,NYK,fg_make,107,False,False,,Noel Tip Dunk Shot (2 PTS),17-9,17,9
 0022000586,2021-03-13,OKC,NYK,6.4,1,5,36,NYK,NYK,reb,0,False,False,,Noel REBOUND (Off:2 Def:1),17-9,17,9
+0022000586,2021-03-13,OKC,NYK,6.4,1,5,36,NYK,NYK,fg_make,107,False,False,,Noel Tip Dunk Shot (2 PTS),17-9,17,9
 0022000586,2021-03-13,OKC,NYK,6.63,1,5,22,OKC,OKC,tov,1,False,True,Pokusevski Bad Pass Turnover (P1.T4),,17-9,17,9
 0022000586,2021-03-13,OKC,NYK,6.63,1,5,22,OKC,NYK,steal,1,False,True,steal,steal,17-9,17,9
 0022000586,2021-03-13,OKC,NYK,6.68,1,5,19,NYK,NYK,fg_make,41,False,False,,Bullock 6' Running Layup (2 PTS) (Randle 1 AST),17-11,17,11
@@ -242,10 +242,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000586,2021-03-13,OKC,NYK,27.6,3,8,24,OKC,OKC,fg_miss,6,True,False,MISS Dort 1' Driving Layup,,62-69,62,69
 0022000586,2021-03-13,OKC,NYK,27.6,3,8,24,OKC,NYK,block,6,True,False,block,block,62-69,62,69
 0022000586,2021-03-13,OKC,NYK,27.67,3,8,20,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:1 Def:7),62-69,62,69
-0022000586,2021-03-13,OKC,NYK,27.72,3,8,17,NYK,NYK,fg_miss,5,True,False,,MISS Randle 4' Layup,62-69,62,69
-0022000586,2021-03-13,OKC,NYK,27.72,3,8,17,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:1 Def:6),62-69,62,69
-0022000586,2021-03-13,OKC,NYK,27.72,3,8,17,NYK,OKC,block,5,True,False,block,block,62-69,62,69
 0022000586,2021-03-13,OKC,NYK,27.72,3,8,17,NYK,NYK,fg3_make,1,False,False,,Bullock 25' 3PT Jump Shot (8 PTS) (Randle 7 AST),62-72,62,72
+0022000586,2021-03-13,OKC,NYK,27.72,3,8,17,NYK,NYK,fg_miss,5,True,False,,MISS Randle 4' Layup,62-69,62,69
+0022000586,2021-03-13,OKC,NYK,27.72,3,8,17,NYK,OKC,block,5,True,False,block,block,62-69,62,69
+0022000586,2021-03-13,OKC,NYK,27.72,3,8,17,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:1 Def:6),62-69,62,69
 0022000586,2021-03-13,OKC,NYK,27.73,3,8,16,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 4 Short 0),,62-72,62,72
 0022000586,2021-03-13,OKC,NYK,27.93,3,8,4,OKC,OKC,tov,4,False,False,Horford Traveling Turnover (P2.T9),,62-72,62,72
 0022000586,2021-03-13,OKC,NYK,28.18,3,7,49,NYK,OKC,foul,2,False,False,Roby S.FOUL (P1.T3) (L.Wood),,62-72,62,72
@@ -273,14 +273,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000586,2021-03-13,OKC,NYK,30.68,3,5,19,OKC,OKC,ft_make,12,False,False,Dort Free Throw 2 of 2 (14 PTS),,71-77,71,77
 0022000586,2021-03-13,OKC,NYK,30.93,3,5,4,NYK,NYK,fg_make,1,False,False,,Burks 19' Jump Shot (11 PTS) (Randle 8 AST),71-79,71,79
 0022000586,2021-03-13,OKC,NYK,31.33,3,4,40,OKC,OKC,fg_miss,102,False,False,MISS Jerome 9' Driving Floating Bank Jump Shot,,71-79,71,79
-0022000586,2021-03-13,OKC,NYK,31.43,3,4,34,OKC,OKC,fg_miss,97,False,False,MISS Pokusevski Tip Layup Shot,,71-79,71,79
 0022000586,2021-03-13,OKC,NYK,31.43,3,4,34,OKC,OKC,reb,0,False,False,Pokusevski REBOUND (Off:1 Def:5),,71-79,71,79
+0022000586,2021-03-13,OKC,NYK,31.43,3,4,34,OKC,OKC,fg_miss,97,False,False,MISS Pokusevski Tip Layup Shot,,71-79,71,79
 0022000586,2021-03-13,OKC,NYK,31.45,3,4,33,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:1 Def:8),71-79,71,79
 0022000586,2021-03-13,OKC,NYK,31.65,3,4,21,NYK,NYK,fg3_miss,1,False,False,,MISS Barrett 26' 3PT Jump Shot,71-79,71,79
 0022000586,2021-03-13,OKC,NYK,31.73,3,4,16,OKC,OKC,reb,0,False,False,Jerome REBOUND (Off:0 Def:4),,71-79,71,79
 0022000586,2021-03-13,OKC,NYK,31.75,3,4,15,OKC,OKC,tov,1,False,True,Jerome Bad Pass Turnover (P1.T10),,71-79,71,79
-0022000586,2021-03-13,OKC,NYK,31.75,3,4,15,NYK,NYK,tov,40,False,False,,Gibson Out of Bounds Lost Ball Turnover (P1.T6),71-79,71,79
 0022000586,2021-03-13,OKC,NYK,31.75,3,4,15,OKC,NYK,steal,1,False,True,steal,steal,71-79,71,79
+0022000586,2021-03-13,OKC,NYK,31.75,3,4,15,NYK,NYK,tov,40,False,False,,Gibson Out of Bounds Lost Ball Turnover (P1.T6),71-79,71,79
 0022000586,2021-03-13,OKC,NYK,32.03,3,3,58,OKC,OKC,fg_make,79,False,False,Horford 5' Pullup Jump Shot (16 PTS) (Roby 2 AST),,73-79,73,79
 0022000586,2021-03-13,OKC,NYK,32.53,3,3,28,NYK,NYK,fg_miss,1,False,False,,MISS Burks 15' Jump Shot,73-79,73,79
 0022000586,2021-03-13,OKC,NYK,32.6,3,3,24,OKC,OKC,reb,0,False,False,Roby REBOUND (Off:0 Def:1),,73-79,73,79
@@ -313,10 +313,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000586,2021-03-13,OKC,NYK,35.8,3,0,12,NYK,NYK,ft_make,12,False,False,,Burks Free Throw 2 of 2 (13 PTS),78-88,78,88
 0022000586,2021-03-13,OKC,NYK,35.97,3,0,2,OKC,OKC,tov,2,False,True,Roby Lost Ball Turnover (P3.T12),,78-88,78,88
 0022000586,2021-03-13,OKC,NYK,35.97,3,0,2,OKC,NYK,steal,2,False,True,steal,steal,78-88,78,88
-0022000586,2021-03-13,OKC,NYK,36.0,3,0,0,NYK,NYK,fg_miss,78,False,False,,MISS Barrett 14' Floating Jump Shot,78-88,78,88
-0022000586,2021-03-13,OKC,NYK,36.0,3,0,0,NYK,NYK,reb,0,False,False,,Knicks Rebound,78-88,78,88
 0022000586,2021-03-13,OKC,NYK,36.0,3,0,0,NYK,,period_end,0,False,False,,,78-88,78,88
 0022000586,2021-03-13,OKC,NYK,36.0,4,12,0,NYK,,period_start,0,False,False,,,78-88,78,88
+0022000586,2021-03-13,OKC,NYK,36.0,3,0,0,NYK,NYK,fg_miss,78,False,False,,MISS Barrett 14' Floating Jump Shot,78-88,78,88
+0022000586,2021-03-13,OKC,NYK,36.0,3,0,0,NYK,NYK,reb,0,False,False,,Knicks Rebound,78-88,78,88
 0022000586,2021-03-13,OKC,NYK,36.22,4,11,47,NYK,NYK,fg_miss,1,False,False,,MISS Burks 19' Jump Shot,78-88,78,88
 0022000586,2021-03-13,OKC,NYK,36.23,4,11,46,NYK,NYK,reb,0,False,False,,Burks REBOUND (Off:1 Def:3),78-88,78,88
 0022000586,2021-03-13,OKC,NYK,36.27,4,11,44,NYK,NYK,fg_make,72,False,False,,Burks 2' Putback Layup (15 PTS),78-90,78,90

@@ -20,8 +20,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000619,2021-03-17,WAS,SAC,2.05,1,9,57,WAS,WAS,ft_make,12,False,False,Westbrook Free Throw 2 of 2 (2 PTS),,6-7,6,7
 0022000619,2021-03-17,WAS,SAC,2.28,1,9,43,SAC,SAC,fg_make,78,False,False,,Holmes 18' Floating Jump Shot (2 PTS) (Barnes 1 AST),6-9,6,9
 0022000619,2021-03-17,WAS,SAC,2.52,1,9,29,WAS,WAS,fg_miss,6,True,False,MISS Beal 14' Driving Layup,,6-9,6,9
-0022000619,2021-03-17,WAS,SAC,2.52,1,9,29,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,6-9,6,9
 0022000619,2021-03-17,WAS,SAC,2.52,1,9,29,WAS,SAC,block,6,True,False,block,block,6-9,6,9
+0022000619,2021-03-17,WAS,SAC,2.52,1,9,29,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,6-9,6,9
 0022000619,2021-03-17,WAS,SAC,2.62,1,9,23,WAS,WAS,fg_make,98,False,False,Beal 3' Cutting Layup Shot (4 PTS) (Westbrook 1 AST),,8-9,8,9
 0022000619,2021-03-17,WAS,SAC,2.62,1,9,23,WAS,SAC,foul,2,False,False,,Hield S.FOUL (P1.T2) (B.Barnaky),8-9,8,9
 0022000619,2021-03-17,WAS,SAC,2.62,1,9,23,WAS,WAS,ft_make,10,False,False,Beal Free Throw 1 of 1 (5 PTS),,9-9,9,9
@@ -210,8 +210,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000619,2021-03-17,WAS,SAC,19.95,2,4,3,SAC,WAS,steal,2,False,True,steal,steal,54-52,54,52
 0022000619,2021-03-17,WAS,SAC,19.98,2,4,1,WAS,SAC,foul,1,False,False,,Haliburton P.FOUL (P1.PN) (C.Washington),54-52,54,52
 0022000619,2021-03-17,WAS,SAC,19.98,2,4,1,WAS,WAS,ft_make,11,False,False,Westbrook Free Throw 1 of 2 (5 PTS),,55-52,55,52
-0022000619,2021-03-17,WAS,SAC,19.98,2,4,1,WAS,WAS,ft_make,12,False,False,Westbrook Free Throw 2 of 2 (6 PTS),,56-52,56,52
 0022000619,2021-03-17,WAS,SAC,19.98,2,4,1,SAC,SAC,timeout,1,False,False,,Kings Timeout: Regular (Reg.2 Short 0),56-52,56,52
+0022000619,2021-03-17,WAS,SAC,19.98,2,4,1,WAS,WAS,ft_make,12,False,False,Westbrook Free Throw 2 of 2 (6 PTS),,56-52,56,52
 0022000619,2021-03-17,WAS,SAC,20.33,2,3,40,SAC,SAC,fg_make,79,False,False,,James 15' Pullup Jump Shot (2 PTS) (Haliburton 1 AST),56-54,56,54
 0022000619,2021-03-17,WAS,SAC,20.65,2,3,21,WAS,WAS,fg_make,101,False,False,Beal 13' Driving Floating Jump Shot (15 PTS),,58-54,58,54
 0022000619,2021-03-17,WAS,SAC,20.93,2,3,4,SAC,SAC,fg3_make,80,False,False,,Hield 3PT Step Back Jump Shot (11 PTS),58-57,58,57
@@ -241,10 +241,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000619,2021-03-17,WAS,SAC,23.57,2,0,26,SAC,SAC,reb,0,False,False,,James REBOUND (Off:0 Def:1),66-66,66,66
 0022000619,2021-03-17,WAS,SAC,23.93,2,0,4,SAC,SAC,tov,4,False,False,,Hield Traveling Turnover (P1.T3),66-66,66,66
 0022000619,2021-03-17,WAS,SAC,24.0,2,0,0,WAS,WAS,fg_miss,6,True,False,MISS Westbrook 5' Driving Layup,,66-66,66,66
+0022000619,2021-03-17,WAS,SAC,24.0,2,0,0,WAS,SAC,block,6,True,False,block,block,66-66,66,66
 0022000619,2021-03-17,WAS,SAC,24.0,2,0,0,SAC,SAC,reb,0,False,False,,Joseph REBOUND (Off:0 Def:2),66-66,66,66
 0022000619,2021-03-17,WAS,SAC,24.0,2,0,0,SAC,,period_end,0,False,False,,,66-66,66,66
 0022000619,2021-03-17,WAS,SAC,24.0,3,12,0,SAC,,period_start,0,False,False,,,66-66,66,66
-0022000619,2021-03-17,WAS,SAC,24.0,2,0,0,WAS,SAC,block,6,True,False,block,block,66-66,66,66
 0022000619,2021-03-17,WAS,SAC,24.27,3,11,44,WAS,WAS,fg_make,5,False,False,Len 3' Layup (9 PTS) (Beal 2 AST),,68-66,68,66
 0022000619,2021-03-17,WAS,SAC,24.5,3,11,30,SAC,SAC,fg3_miss,1,False,False,,MISS Hield 28' 3PT Jump Shot,68-66,68,66
 0022000619,2021-03-17,WAS,SAC,24.55,3,11,27,WAS,WAS,reb,0,False,False,Len REBOUND (Off:2 Def:8),,68-66,68,66
@@ -253,9 +253,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000619,2021-03-17,WAS,SAC,24.9,3,11,6,SAC,SAC,fg3_miss,1,False,False,,MISS Fox 26' 3PT Jump Shot,68-66,68,66
 0022000619,2021-03-17,WAS,SAC,24.92,3,11,5,SAC,SAC,reb,0,False,False,,Kings Rebound,68-66,68,66
 0022000619,2021-03-17,WAS,SAC,24.92,3,11,5,SAC,WAS,foul,3,False,False,Westbrook L.B.FOUL (P1.T1) (S.Wright),,68-66,68,66
+0022000619,2021-03-17,WAS,SAC,25.15,3,10,51,SAC,SAC,tov,11,False,False,,Kings Turnover: Shot Clock (T#4),68-66,68,66
 0022000619,2021-03-17,WAS,SAC,25.15,3,10,51,SAC,SAC,fg3_miss,79,False,False,,MISS Fox 27' 3PT Pullup Jump Shot,68-66,68,66
 0022000619,2021-03-17,WAS,SAC,25.15,3,10,51,SAC,SAC,reb,0,False,False,,Kings Rebound,68-66,68,66
-0022000619,2021-03-17,WAS,SAC,25.15,3,10,51,SAC,SAC,tov,11,False,False,,Kings Turnover: Shot Clock (T#4),68-66,68,66
 0022000619,2021-03-17,WAS,SAC,25.4,3,10,36,WAS,WAS,fg_miss,5,False,False,MISS Mathews 3' Layup,,68-66,68,66
 0022000619,2021-03-17,WAS,SAC,25.47,3,10,32,WAS,WAS,reb,0,False,False,Len REBOUND (Off:3 Def:8),,68-66,68,66
 0022000619,2021-03-17,WAS,SAC,25.47,3,10,32,WAS,WAS,fg_miss,97,False,False,MISS Len Tip Layup Shot,,68-66,68,66

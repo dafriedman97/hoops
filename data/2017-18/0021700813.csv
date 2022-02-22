@@ -61,11 +61,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700813,2018-02-08,WAS,BOS,8.2,1,3,48,BOS,BOS,reb,0,False,False,,Morris Sr. REBOUND (Off:0 Def:1),19-16,19,16
 0021700813,2018-02-08,WAS,BOS,8.47,1,3,32,BOS,BOS,fg_make,73,False,False,,Rozier 2' Driving Reverse Layup (2 PTS),19-18,19,18
 0021700813,2018-02-08,WAS,BOS,8.75,1,3,15,WAS,WAS,fg_miss,101,True,False,MISS Beal 8' Driving Floating Jump Shot,,19-18,19,18
-0021700813,2018-02-08,WAS,BOS,8.75,1,3,15,WAS,WAS,reb,0,False,False,Gortat REBOUND (Off:3 Def:1),,19-18,19,18
-0021700813,2018-02-08,WAS,BOS,8.75,1,3,15,WAS,BOS,foul,2,False,False,,Rozier S.FOUL (P1.T3) (K.Scott),19-18,19,18
 0021700813,2018-02-08,WAS,BOS,8.75,1,3,15,WAS,BOS,block,101,True,False,block,block,19-18,19,18
+0021700813,2018-02-08,WAS,BOS,8.75,1,3,15,WAS,BOS,foul,2,False,False,,Rozier S.FOUL (P1.T3) (K.Scott),19-18,19,18
 0021700813,2018-02-08,WAS,BOS,8.75,1,3,15,WAS,WAS,ft_make,11,False,False,Gortat Free Throw 1 of 2 (1 PTS),,20-18,20,18
 0021700813,2018-02-08,WAS,BOS,8.75,1,3,15,WAS,WAS,ft_miss,12,False,False,MISS Gortat Free Throw 2 of 2,,20-18,20,18
+0021700813,2018-02-08,WAS,BOS,8.75,1,3,15,WAS,WAS,reb,0,False,False,Gortat REBOUND (Off:3 Def:1),,19-18,19,18
 0021700813,2018-02-08,WAS,BOS,8.78,1,3,13,BOS,BOS,reb,0,False,False,,Morris Sr. REBOUND (Off:0 Def:2),20-18,20,18
 0021700813,2018-02-08,WAS,BOS,9.02,1,2,59,BOS,BOS,fg3_make,1,False,False,,Rozier 26' 3PT Jump Shot (5 PTS),20-21,20,21
 0021700813,2018-02-08,WAS,BOS,9.38,1,2,37,WAS,WAS,tov,1,False,True,Frazier Bad Pass Turnover (P1.T5),,20-21,20,21
@@ -190,17 +190,17 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700813,2018-02-08,WAS,BOS,21.32,2,2,41,BOS,WAS,steal,1,False,True,steal,steal,45-46,45,46
 0021700813,2018-02-08,WAS,BOS,21.37,2,2,38,WAS,WAS,fg_make,41,False,False,Satoransky 3' Running Layup (6 PTS),,47-46,47,46
 0021700813,2018-02-08,WAS,BOS,21.75,2,2,15,BOS,BOS,fg_miss,5,True,False,,MISS Irving 1' Layup,47-46,47,46
-0021700813,2018-02-08,WAS,BOS,21.75,2,2,15,BOS,BOS,reb,0,False,False,,Celtics Rebound,47-46,47,46
 0021700813,2018-02-08,WAS,BOS,21.75,2,2,15,BOS,WAS,block,5,True,False,block,block,47-46,47,46
+0021700813,2018-02-08,WAS,BOS,21.75,2,2,15,BOS,BOS,reb,0,False,False,,Celtics Rebound,47-46,47,46
 0021700813,2018-02-08,WAS,BOS,21.82,2,2,11,BOS,BOS,fg3_make,1,False,False,,Morris Sr. 25' 3PT Jump Shot (5 PTS) (Irving 2 AST),47-49,47,49
 0021700813,2018-02-08,WAS,BOS,22.32,2,1,41,WAS,WAS,tov,11,False,False,WIZARDS Turnover: Shot Clock (T#12),,47-49,47,49
 0021700813,2018-02-08,WAS,BOS,22.52,2,1,29,BOS,BOS,fg3_miss,1,False,False,,MISS Horford 25' 3PT Jump Shot,47-49,47,49
 0021700813,2018-02-08,WAS,BOS,22.58,2,1,25,WAS,WAS,reb,0,False,False,Porter Jr. REBOUND (Off:0 Def:5),,47-49,47,49
 0021700813,2018-02-08,WAS,BOS,22.78,2,1,13,WAS,WAS,fg_make,63,False,False,Porter Jr. 18' Fadeaway Jumper (14 PTS) (Satoransky 2 AST),,49-49,49,49
 0021700813,2018-02-08,WAS,BOS,22.78,2,1,13,WAS,BOS,foul,6,False,False,,Horford AWAY.FROM.PLAY.FOUL (P2.PN) (K.Scott),49-49,49,49
-0021700813,2018-02-08,WAS,BOS,22.78,2,1,13,BOS,BOS,tov,0,False,False,,Horford No Turnover (P2.T8),49-49,49,49
 0021700813,2018-02-08,WAS,BOS,22.78,2,1,13,WAS,WAS,ft_miss,10,False,False,MISS Gortat Free Throw 1 of 1,,49-49,49,49
 0021700813,2018-02-08,WAS,BOS,22.78,2,1,13,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:0 Def:2),49-49,49,49
+0021700813,2018-02-08,WAS,BOS,22.78,2,1,13,BOS,BOS,tov,0,False,False,,Horford No Turnover (P2.T8),49-49,49,49
 0021700813,2018-02-08,WAS,BOS,23.07,2,0,56,BOS,BOS,tov,1,False,True,,Brown Bad Pass Turnover (P2.T9),49-49,49,49
 0021700813,2018-02-08,WAS,BOS,23.07,2,0,56,BOS,WAS,steal,1,False,True,steal,steal,49-49,49,49
 0021700813,2018-02-08,WAS,BOS,23.12,2,0,53,WAS,WAS,fg_make,41,False,False,Beal 1' Running Layup (12 PTS) (Porter Jr. 1 AST),,51-49,51,49
@@ -244,8 +244,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700813,2018-02-08,WAS,BOS,28.08,3,7,55,BOS,BOS,fg_miss,3,False,False,,MISS Baynes 10' Hook Shot,56-58,56,58
 0021700813,2018-02-08,WAS,BOS,28.13,3,7,52,WAS,WAS,reb,0,False,False,Gortat REBOUND (Off:4 Def:3),,56-58,56,58
 0021700813,2018-02-08,WAS,BOS,28.25,3,7,45,WAS,WAS,fg_miss,6,True,False,MISS Porter Jr. 5' Driving Layup,,56-58,56,58
-0021700813,2018-02-08,WAS,BOS,28.25,3,7,45,WAS,WAS,reb,0,False,False,Porter Jr. REBOUND (Off:1 Def:6),,56-58,56,58
 0021700813,2018-02-08,WAS,BOS,28.25,3,7,45,WAS,BOS,block,6,True,False,block,block,56-58,56,58
+0021700813,2018-02-08,WAS,BOS,28.25,3,7,45,WAS,WAS,reb,0,False,False,Porter Jr. REBOUND (Off:1 Def:6),,56-58,56,58
 0021700813,2018-02-08,WAS,BOS,28.32,3,7,41,WAS,WAS,fg_miss,5,False,False,MISS Porter Jr. 3' Layup,,56-58,56,58
 0021700813,2018-02-08,WAS,BOS,28.32,3,7,41,BOS,BOS,reb,0,False,False,,Baynes REBOUND (Off:1 Def:4),56-58,56,58
 0021700813,2018-02-08,WAS,BOS,28.42,3,7,35,BOS,BOS,fg3_miss,1,False,False,,MISS Tatum 26' 3PT Jump Shot,56-58,56,58
@@ -461,9 +461,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700813,2018-02-08,WAS,BOS,50.87,5,2,8,WAS,WAS,fg_miss,3,False,False,MISS Gortat 11' Hook Shot,,103-105,103,105
 0021700813,2018-02-08,WAS,BOS,50.93,5,2,4,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:1 Def:5),103-105,103,105
 0021700813,2018-02-08,WAS,BOS,51.12,5,1,53,BOS,BOS,fg_miss,5,True,False,,MISS Brown 3' Layup,103-105,103,105
-0021700813,2018-02-08,WAS,BOS,51.12,5,1,53,,WAS,jump_ball,0,False,False,Jump Ball Satoransky vs. Brown: Tip to Irving,,103-105,103,105
-0021700813,2018-02-08,WAS,BOS,51.12,5,1,53,BOS,BOS,reb,0,False,False,,Celtics Rebound,103-105,103,105
 0021700813,2018-02-08,WAS,BOS,51.12,5,1,53,BOS,WAS,block,5,True,False,block,block,103-105,103,105
+0021700813,2018-02-08,WAS,BOS,51.12,5,1,53,BOS,BOS,reb,0,False,False,,Celtics Rebound,103-105,103,105
+0021700813,2018-02-08,WAS,BOS,51.12,5,1,53,,WAS,jump_ball,0,False,False,Jump Ball Satoransky vs. Brown: Tip to Irving,,103-105,103,105
 0021700813,2018-02-08,WAS,BOS,51.28,5,1,43,BOS,BOS,fg3_make,80,False,False,,Brown 3PT Step Back Jump Shot (18 PTS),103-108,103,108
 0021700813,2018-02-08,WAS,BOS,51.45,5,1,33,WAS,WAS,fg3_miss,80,False,False,MISS Beal 25' 3PT Step Back Jump Shot,,103-108,103,108
 0021700813,2018-02-08,WAS,BOS,51.55,5,1,27,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:2),103-108,103,108

@@ -68,16 +68,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701071,2018-03-21,SAS,WAS,9.17,1,2,50,SAS,SAS,tov,1,False,True,Gasol Bad Pass Turnover (P1.T2),,14-16,14,16
 0021701071,2018-03-21,SAS,WAS,9.17,1,2,50,SAS,WAS,steal,1,False,True,steal,steal,14-16,14,16
 0021701071,2018-03-21,SAS,WAS,9.4,1,2,36,WAS,WAS,fg_miss,105,True,False,,MISS Morris 10' Turnaround Fadeaway Bank Jump Shot,14-16,14,16
+0021701071,2018-03-21,SAS,WAS,9.4,1,2,36,WAS,SAS,block,105,True,False,block,block,14-16,14,16
 0021701071,2018-03-21,SAS,WAS,9.4,1,2,36,WAS,WAS,reb,0,False,False,,Wizards Rebound,14-16,14,16
 0021701071,2018-03-21,SAS,WAS,9.4,1,2,36,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.1 Short 0),14-16,14,16
-0021701071,2018-03-21,SAS,WAS,9.4,1,2,36,WAS,SAS,block,105,True,False,block,block,14-16,14,16
 0021701071,2018-03-21,SAS,WAS,9.52,1,2,29,WAS,WAS,fg_miss,101,False,False,,MISS Morris 13' Driving Floating Jump Shot,14-16,14,16
 0021701071,2018-03-21,SAS,WAS,9.55,1,2,27,WAS,WAS,reb,0,False,False,,Wizards Rebound,14-16,14,16
 0021701071,2018-03-21,SAS,WAS,9.55,1,2,27,WAS,WAS,tov,11,False,False,,Wizards Turnover: Shot Clock (T#4),14-16,14,16
 0021701071,2018-03-21,SAS,WAS,9.83,1,2,10,SAS,SAS,fg_make,47,False,False,Gay 8' Turnaround Jump Shot (2 PTS),,16-16,16,16
 0021701071,2018-03-21,SAS,WAS,10.2,1,1,48,WAS,WAS,fg_miss,6,True,False,,MISS Oubre Jr. 4' Driving Layup,16-16,16,16
-0021701071,2018-03-21,SAS,WAS,10.2,1,1,48,WAS,WAS,reb,0,False,False,,Oubre Jr. REBOUND (Off:1 Def:0),16-16,16,16
 0021701071,2018-03-21,SAS,WAS,10.2,1,1,48,WAS,SAS,block,6,True,False,block,block,16-16,16,16
+0021701071,2018-03-21,SAS,WAS,10.2,1,1,48,WAS,WAS,reb,0,False,False,,Oubre Jr. REBOUND (Off:1 Def:0),16-16,16,16
 0021701071,2018-03-21,SAS,WAS,10.32,1,1,41,WAS,WAS,fg_make,72,False,False,,Oubre Jr. 1' Putback Layup (2 PTS),16-18,16,18
 0021701071,2018-03-21,SAS,WAS,10.48,1,1,31,SAS,SAS,tov,2,False,True,Gay Lost Ball Turnover (P1.T3),,16-18,16,18
 0021701071,2018-03-21,SAS,WAS,10.48,1,1,31,SAS,WAS,steal,2,False,True,steal,steal,16-18,16,18
@@ -145,8 +145,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701071,2018-03-21,SAS,WAS,17.37,2,6,38,WAS,WAS,fg3_miss,1,False,False,,MISS Beal 24' 3PT Jump Shot,33-34,33,34
 0021701071,2018-03-21,SAS,WAS,17.42,2,6,35,SAS,SAS,reb,0,False,False,Aldridge REBOUND (Off:0 Def:3),,33-34,33,34
 0021701071,2018-03-21,SAS,WAS,17.58,2,6,25,SAS,SAS,fg_miss,75,True,False,MISS Green 4' Driving Finger Roll Layup,,33-34,33,34
-0021701071,2018-03-21,SAS,WAS,17.58,2,6,25,SAS,SAS,reb,0,False,False,SPURS Rebound,,33-34,33,34
 0021701071,2018-03-21,SAS,WAS,17.58,2,6,25,SAS,WAS,block,75,True,False,block,block,33-34,33,34
+0021701071,2018-03-21,SAS,WAS,17.58,2,6,25,SAS,SAS,reb,0,False,False,SPURS Rebound,,33-34,33,34
 0021701071,2018-03-21,SAS,WAS,17.63,2,6,22,SAS,SAS,fg_miss,47,True,False,MISS Aldridge 13' Turnaround Jump Shot,,33-34,33,34
 0021701071,2018-03-21,SAS,WAS,17.63,2,6,22,SAS,WAS,block,47,True,False,block,block,33-34,33,34
 0021701071,2018-03-21,SAS,WAS,17.65,2,6,21,SAS,SAS,reb,0,False,False,Aldridge REBOUND (Off:1 Def:3),,33-34,33,34
@@ -178,8 +178,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701071,2018-03-21,SAS,WAS,20.78,2,3,13,SAS,SAS,fg_miss,57,False,False,MISS Aldridge 8' Driving Hook Shot,,41-37,41,37
 0021701071,2018-03-21,SAS,WAS,20.83,2,3,10,WAS,WAS,reb,0,False,False,,Gortat REBOUND (Off:0 Def:3),41-37,41,37
 0021701071,2018-03-21,SAS,WAS,20.85,2,3,9,WAS,WAS,tov,2,False,True,,Oubre Jr. Lost Ball Turnover (P2.T8),41-37,41,37
-0021701071,2018-03-21,SAS,WAS,20.85,2,3,9,SAS,WAS,foul,1,False,False,,Oubre Jr. P.FOUL (P2.PN) (L.Richardson),41-37,41,37
 0021701071,2018-03-21,SAS,WAS,20.85,2,3,9,WAS,SAS,steal,2,False,True,steal,steal,41-37,41,37
+0021701071,2018-03-21,SAS,WAS,20.85,2,3,9,SAS,WAS,foul,1,False,False,,Oubre Jr. P.FOUL (P2.PN) (L.Richardson),41-37,41,37
 0021701071,2018-03-21,SAS,WAS,20.85,2,3,9,SAS,SAS,ft_make,11,False,False,Mills Free Throw 1 of 2 (3 PTS),,42-37,42,37
 0021701071,2018-03-21,SAS,WAS,20.85,2,3,9,SAS,SAS,ft_make,12,False,False,Mills Free Throw 2 of 2 (4 PTS),,43-37,43,37
 0021701071,2018-03-21,SAS,WAS,21.15,2,2,51,WAS,SAS,foul,2,False,False,Mills S.FOUL (P2.T3) (L.Richardson),,43-37,43,37
@@ -196,8 +196,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701071,2018-03-21,SAS,WAS,22.13,2,1,52,WAS,WAS,ft_make,12,False,False,,Gortat Free Throw 2 of 2 (3 PTS),45-42,45,42
 0021701071,2018-03-21,SAS,WAS,22.4,2,1,36,SAS,SAS,fg3_make,1,False,False,Ginobili 25' 3PT Jump Shot (5 PTS) (Mills 3 AST),,48-42,48,42
 0021701071,2018-03-21,SAS,WAS,22.7,2,1,18,WAS,WAS,fg_miss,101,True,False,,MISS Beal 7' Driving Floating Jump Shot,48-42,48,42
-0021701071,2018-03-21,SAS,WAS,22.7,2,1,18,WAS,WAS,reb,0,False,False,,Wizards Rebound,48-42,48,42
 0021701071,2018-03-21,SAS,WAS,22.7,2,1,18,WAS,SAS,block,101,True,False,block,block,48-42,48,42
+0021701071,2018-03-21,SAS,WAS,22.7,2,1,18,WAS,WAS,reb,0,False,False,,Wizards Rebound,48-42,48,42
 0021701071,2018-03-21,SAS,WAS,22.73,2,1,16,WAS,WAS,fg_miss,1,False,False,,MISS Porter Jr. 17' Jump Shot,48-42,48,42
 0021701071,2018-03-21,SAS,WAS,22.8,2,1,12,SAS,SAS,reb,0,False,False,Parker REBOUND (Off:0 Def:1),,48-42,48,42
 0021701071,2018-03-21,SAS,WAS,23.03,2,0,58,SAS,SAS,fg_make,101,False,False,Ginobili 10' Driving Floating Jump Shot (7 PTS),,50-42,50,42
@@ -263,8 +263,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701071,2018-03-21,SAS,WAS,31.22,3,4,47,WAS,WAS,fg_make,79,False,False,,Beal 18' Pullup Jump Shot (21 PTS),69-56,69,56
 0021701071,2018-03-21,SAS,WAS,31.62,3,4,23,SAS,SAS,fg_make,75,False,False,Green 2' Driving Finger Roll Layup (7 PTS) (Murray 2 AST),,71-56,71,56
 0021701071,2018-03-21,SAS,WAS,31.9,3,4,6,WAS,WAS,fg_miss,6,True,False,,MISS Oubre Jr. 4' Driving Layup,71-56,71,56
-0021701071,2018-03-21,SAS,WAS,31.9,3,4,6,WAS,WAS,reb,0,False,False,,Wizards Rebound,71-56,71,56
 0021701071,2018-03-21,SAS,WAS,31.9,3,4,6,WAS,SAS,block,6,True,False,block,block,71-56,71,56
+0021701071,2018-03-21,SAS,WAS,31.9,3,4,6,WAS,WAS,reb,0,False,False,,Wizards Rebound,71-56,71,56
 0021701071,2018-03-21,SAS,WAS,31.97,3,4,2,WAS,WAS,fg3_miss,79,False,False,,MISS Porter Jr. 26' 3PT Pullup Jump Shot,71-56,71,56
 0021701071,2018-03-21,SAS,WAS,32.03,3,3,58,SAS,SAS,reb,0,False,False,Aldridge REBOUND (Off:2 Def:6),,71-56,71,56
 0021701071,2018-03-21,SAS,WAS,32.12,3,3,53,SAS,SAS,fg_miss,79,False,False,MISS Murray 14' Pullup Jump Shot,,71-56,71,56
@@ -300,10 +300,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701071,2018-03-21,SAS,WAS,35.6,3,0,24,SAS,SAS,fg3_make,1,False,False,Gay 25' 3PT Jump Shot (7 PTS) (Parker 2 AST),,77-60,77,60
 0021701071,2018-03-21,SAS,WAS,35.93,3,0,4,WAS,SAS,foul,1,False,False,Parker P.FOUL (P2.T3) (J.Phillips),,77-60,77,60
 0021701071,2018-03-21,SAS,WAS,36.0,3,0,0,WAS,WAS,fg_miss,75,True,False,,MISS Sessions 7' Driving Finger Roll Layup,77-60,77,60
+0021701071,2018-03-21,SAS,WAS,36.0,3,0,0,WAS,SAS,block,75,True,False,block,block,77-60,77,60
 0021701071,2018-03-21,SAS,WAS,36.0,3,0,0,WAS,WAS,reb,0,False,False,,Wizards Rebound,77-60,77,60
 0021701071,2018-03-21,SAS,WAS,36.0,3,0,0,WAS,,period_end,0,False,False,,,77-60,77,60
 0021701071,2018-03-21,SAS,WAS,36.0,4,12,0,WAS,,period_start,0,False,False,,,77-60,77,60
-0021701071,2018-03-21,SAS,WAS,36.0,3,0,0,WAS,SAS,block,75,True,False,block,block,77-60,77,60
 0021701071,2018-03-21,SAS,WAS,36.38,4,11,37,WAS,WAS,fg_miss,79,False,False,,MISS Frazier 21' Pullup Jump Shot,77-60,77,60
 0021701071,2018-03-21,SAS,WAS,36.45,4,11,33,SAS,SAS,reb,0,False,False,Forbes REBOUND (Off:0 Def:1),,77-60,77,60
 0021701071,2018-03-21,SAS,WAS,36.68,4,11,19,SAS,SAS,tov,45,False,False,Gay Out of Bounds - Bad Pass Turnover Turnover (P2.T9),,77-60,77,60
@@ -361,8 +361,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701071,2018-03-21,SAS,WAS,42.05,4,5,57,SAS,SAS,reb,0,False,False,Murray REBOUND (Off:4 Def:5),,86-74,86,74
 0021701071,2018-03-21,SAS,WAS,42.35,4,5,39,SAS,SAS,fg_make,47,False,False,Aldridge 9' Turnaround Jump Shot (25 PTS),,88-74,88,74
 0021701071,2018-03-21,SAS,WAS,42.67,4,5,20,WAS,WAS,fg_miss,73,True,False,,MISS Sessions 3' Driving Reverse Layup,88-74,88,74
-0021701071,2018-03-21,SAS,WAS,42.67,4,5,20,WAS,WAS,reb,0,False,False,,Satoransky REBOUND (Off:3 Def:2),88-74,88,74
 0021701071,2018-03-21,SAS,WAS,42.67,4,5,20,WAS,SAS,block,73,True,False,block,block,88-74,88,74
+0021701071,2018-03-21,SAS,WAS,42.67,4,5,20,WAS,WAS,reb,0,False,False,,Satoransky REBOUND (Off:3 Def:2),88-74,88,74
 0021701071,2018-03-21,SAS,WAS,42.68,4,5,19,WAS,WAS,fg_miss,97,False,False,,MISS Satoransky 1' Tip Layup Shot,88-74,88,74
 0021701071,2018-03-21,SAS,WAS,42.7,4,5,18,WAS,WAS,reb,0,False,False,,Satoransky REBOUND (Off:4 Def:2),88-74,88,74
 0021701071,2018-03-21,SAS,WAS,42.72,4,5,17,WAS,WAS,fg_miss,97,False,False,,MISS Satoransky 2' Tip Layup Shot,88-74,88,74

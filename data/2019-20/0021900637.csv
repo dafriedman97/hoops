@@ -126,8 +126,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900637,2020-01-19,SAS,MIA,15.32,2,8,41,SAS,MIA,foul,2,False,False,,Herro S.FOUL (P1.T1) (C.Washington),42-39,42,39
 0021900637,2020-01-19,SAS,MIA,15.32,2,8,41,SAS,SAS,ft_make,10,False,False,Belinelli Free Throw 1 of 1 (4 PTS),,43-39,43,39
 0021900637,2020-01-19,SAS,MIA,15.55,2,8,27,MIA,MIA,fg_miss,5,True,False,,MISS Adebayo 5' Layup,43-39,43,39
-0021900637,2020-01-19,SAS,MIA,15.55,2,8,27,SAS,SAS,reb,0,False,False,Belinelli REBOUND (Off:0 Def:2),,43-39,43,39
 0021900637,2020-01-19,SAS,MIA,15.55,2,8,27,MIA,SAS,block,5,True,False,block,block,43-39,43,39
+0021900637,2020-01-19,SAS,MIA,15.55,2,8,27,SAS,SAS,reb,0,False,False,Belinelli REBOUND (Off:0 Def:2),,43-39,43,39
 0021900637,2020-01-19,SAS,MIA,15.65,2,8,21,SAS,SAS,fg3_miss,1,False,False,MISS Mills 26' 3PT Jump Shot,,43-39,43,39
 0021900637,2020-01-19,SAS,MIA,15.7,2,8,18,MIA,MIA,reb,0,False,False,,Dragic REBOUND (Off:0 Def:1),43-39,43,39
 0021900637,2020-01-19,SAS,MIA,15.8,2,8,12,MIA,MIA,tov,45,False,False,,Dragic Out of Bounds - Bad Pass Turnover Turnover (P2.T3),43-39,43,39
@@ -206,8 +206,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900637,2020-01-19,SAS,MIA,24.6,3,11,24,MIA,MIA,fg3_miss,1,False,False,,MISS Nunn 27' 3PT Jump Shot,60-54,60,54
 0021900637,2020-01-19,SAS,MIA,24.67,3,11,20,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:2 Def:6),60-54,60,54
 0021900637,2020-01-19,SAS,MIA,24.68,3,11,19,MIA,MIA,fg_miss,98,True,False,,MISS Nunn 3' Cutting Layup Shot,60-54,60,54
-0021900637,2020-01-19,SAS,MIA,24.68,3,11,19,MIA,MIA,reb,0,False,False,,Heat Rebound,60-54,60,54
 0021900637,2020-01-19,SAS,MIA,24.68,3,11,19,MIA,SAS,block,98,True,False,block,block,60-54,60,54
+0021900637,2020-01-19,SAS,MIA,24.68,3,11,19,MIA,MIA,reb,0,False,False,,Heat Rebound,60-54,60,54
 0021900637,2020-01-19,SAS,MIA,24.77,3,11,14,MIA,MIA,fg_make,79,False,False,,Nunn 17' Pullup Jump Shot (12 PTS),60-56,60,56
 0021900637,2020-01-19,SAS,MIA,25.07,3,10,56,SAS,SAS,fg_make,108,False,False,Aldridge 1' Cutting Dunk Shot (10 PTS) (Lyles 1 AST),,62-56,62,56
 0021900637,2020-01-19,SAS,MIA,25.43,3,10,34,MIA,SAS,foul,2,False,False,Lyles S.FOUL (P1.T1) (J.Orr),,62-56,62,56
@@ -292,8 +292,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900637,2020-01-19,SAS,MIA,34.73,3,1,16,MIA,MIA,fg3_make,1,False,False,,Dragic 27' 3PT Jump Shot (9 PTS) (Butler 6 AST),81-80,81,80
 0021900637,2020-01-19,SAS,MIA,35.07,3,0,56,SAS,SAS,fg_make,78,False,False,DeRozan 7' Floating Jump Shot (18 PTS),,83-80,83,80
 0021900637,2020-01-19,SAS,MIA,35.32,3,0,41,MIA,MIA,fg_miss,7,True,False,,MISS Jones Jr. 5' Dunk,83-80,83,80
-0021900637,2020-01-19,SAS,MIA,35.32,3,0,41,MIA,MIA,reb,0,False,False,,Butler REBOUND (Off:1 Def:4),83-80,83,80
 0021900637,2020-01-19,SAS,MIA,35.32,3,0,41,MIA,SAS,block,7,True,False,block,block,83-80,83,80
+0021900637,2020-01-19,SAS,MIA,35.32,3,0,41,MIA,MIA,reb,0,False,False,,Butler REBOUND (Off:1 Def:4),83-80,83,80
 0021900637,2020-01-19,SAS,MIA,35.4,3,0,36,MIA,SAS,foul,2,False,False,White S.FOUL (P2.PN) (C.Washington),,83-80,83,80
 0021900637,2020-01-19,SAS,MIA,35.4,3,0,36,MIA,MIA,ft_miss,13,False,False,,MISS Dragic Free Throw 1 of 3,83-80,83,80
 0021900637,2020-01-19,SAS,MIA,35.4,3,0,36,MIA,MIA,reb,1,False,False,,Heat Rebound,83-80,83,80
@@ -363,11 +363,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900637,2020-01-19,SAS,MIA,43.07,4,4,56,SAS,SAS,fg3_miss,1,False,False,MISS Mills 27' 3PT Jump Shot,,95-98,95,98
 0021900637,2020-01-19,SAS,MIA,43.13,4,4,52,SAS,SAS,reb,0,False,False,White REBOUND (Off:1 Def:3),,95-98,95,98
 0021900637,2020-01-19,SAS,MIA,43.17,4,4,50,SAS,SAS,fg_miss,72,False,False,MISS White 2' Putback Layup,,95-98,95,98
-0021900637,2020-01-19,SAS,MIA,43.22,4,4,47,SAS,SAS,fg_miss,97,False,False,MISS Aldridge 1' Tip Layup Shot,,95-98,95,98
 0021900637,2020-01-19,SAS,MIA,43.22,4,4,47,SAS,SAS,reb,0,False,False,Aldridge REBOUND (Off:3 Def:1),,95-98,95,98
-0021900637,2020-01-19,SAS,MIA,43.23,4,4,46,SAS,SAS,reb,0,False,False,Aldridge REBOUND (Off:3 Def:1),,95-98,95,98
+0021900637,2020-01-19,SAS,MIA,43.22,4,4,47,SAS,SAS,fg_miss,97,False,False,MISS Aldridge 1' Tip Layup Shot,,95-98,95,98
 0021900637,2020-01-19,SAS,MIA,43.23,4,4,46,SAS,SAS,fg_miss,97,False,False,MISS Aldridge 1' Tip Layup Shot,,95-98,95,98
 0021900637,2020-01-19,SAS,MIA,43.23,4,4,46,SAS,SAS,reb,0,False,False,Mills REBOUND (Off:1 Def:1),,95-98,95,98
+0021900637,2020-01-19,SAS,MIA,43.23,4,4,46,SAS,SAS,reb,0,False,False,Aldridge REBOUND (Off:3 Def:1),,95-98,95,98
 0021900637,2020-01-19,SAS,MIA,43.35,4,4,39,SAS,SAS,fg_make,3,False,False,Aldridge 7' Hook Shot (18 PTS) (White 5 AST),,97-98,97,98
 0021900637,2020-01-19,SAS,MIA,43.63,4,4,22,MIA,MIA,fg_miss,99,False,False,,MISS Dragic 6' Cutting Finger Roll Layup Shot,97-98,97,98
 0021900637,2020-01-19,SAS,MIA,43.67,4,4,20,SAS,SAS,reb,0,False,False,Mills REBOUND (Off:1 Def:2),,97-98,97,98
@@ -390,8 +390,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900637,2020-01-19,SAS,MIA,45.4,4,2,36,MIA,MIA,fg3_miss,1,False,False,,MISS Leonard 26' 3PT Jump Shot,102-98,102,98
 0021900637,2020-01-19,SAS,MIA,45.48,4,2,31,SAS,SAS,reb,0,False,False,Belinelli REBOUND (Off:0 Def:6),,102-98,102,98
 0021900637,2020-01-19,SAS,MIA,45.68,4,2,19,SAS,SAS,fg_miss,6,True,False,MISS Belinelli 10' Driving Layup,,102-98,102,98
-0021900637,2020-01-19,SAS,MIA,45.68,4,2,19,SAS,SAS,reb,0,False,False,SPURS Rebound,,102-98,102,98
 0021900637,2020-01-19,SAS,MIA,45.68,4,2,19,SAS,MIA,block,6,True,False,block,block,102-98,102,98
+0021900637,2020-01-19,SAS,MIA,45.68,4,2,19,SAS,SAS,reb,0,False,False,SPURS Rebound,,102-98,102,98
 0021900637,2020-01-19,SAS,MIA,45.78,4,2,13,SAS,SAS,fg3_miss,1,False,False,MISS Belinelli 35' 3PT Jump Shot,,102-98,102,98
 0021900637,2020-01-19,SAS,MIA,45.83,4,2,10,SAS,SAS,reb,0,False,False,Mills REBOUND (Off:2 Def:3),,102-98,102,98
 0021900637,2020-01-19,SAS,MIA,45.88,4,2,7,SAS,SAS,fg3_make,1,False,False,Belinelli 3PT Jump Shot (10 PTS) (DeRozan 9 AST),,105-98,105,98

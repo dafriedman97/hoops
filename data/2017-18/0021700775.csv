@@ -16,8 +16,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700775,2018-02-03,LAC,CHI,2.2,1,9,48,LAC,LAC,tov,2,False,True,Jordan Lost Ball Turnover (P1.T1),,3-0,3,0
 0021700775,2018-02-03,LAC,CHI,2.2,1,9,48,LAC,CHI,steal,2,False,True,steal,steal,3-0,3,0
 0021700775,2018-02-03,LAC,CHI,2.27,1,9,44,CHI,CHI,fg_miss,5,True,False,,MISS Grant 3' Layup,3-0,3,0
-0021700775,2018-02-03,LAC,CHI,2.27,1,9,44,CHI,CHI,reb,0,False,False,,Bulls Rebound,3-0,3,0
 0021700775,2018-02-03,LAC,CHI,2.27,1,9,44,CHI,LAC,block,5,True,False,block,block,3-0,3,0
+0021700775,2018-02-03,LAC,CHI,2.27,1,9,44,CHI,CHI,reb,0,False,False,,Bulls Rebound,3-0,3,0
 0021700775,2018-02-03,LAC,CHI,2.37,1,9,38,CHI,CHI,fg_miss,3,False,False,,MISS Lopez 7' Hook Shot,3-0,3,0
 0021700775,2018-02-03,LAC,CHI,2.42,1,9,35,LAC,LAC,reb,0,False,False,Gallinari REBOUND (Off:0 Def:1),,3-0,3,0
 0021700775,2018-02-03,LAC,CHI,2.5,1,9,30,LAC,CHI,foul,1,False,False,,LaVine P.FOUL (P1.T1) (L.Wood),3-0,3,0
@@ -104,8 +104,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700775,2018-02-03,LAC,CHI,11.67,1,0,20,LAC,LAC,reb,0,False,False,W. Johnson REBOUND (Off:0 Def:1),,22-17,22,17
 0021700775,2018-02-03,LAC,CHI,11.85,1,0,9,LAC,CHI,foul,28,False,False,,Valentine Personal Take Foul (P1.T2) (K.Cutler),22-17,22,17
 0021700775,2018-02-03,LAC,CHI,11.93,1,0,4,LAC,LAC,fg3_miss,1,False,False,MISS Williams 24' 3PT Jump Shot,,22-17,22,17
-0021700775,2018-02-03,LAC,CHI,11.97,1,0,2,LAC,LAC,fg_miss,107,False,False,MISS Harrell 1' Tip Dunk Shot,,22-17,22,17
 0021700775,2018-02-03,LAC,CHI,11.97,1,0,2,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:1 Def:0),,22-17,22,17
+0021700775,2018-02-03,LAC,CHI,11.97,1,0,2,LAC,LAC,fg_miss,107,False,False,MISS Harrell 1' Tip Dunk Shot,,22-17,22,17
 0021700775,2018-02-03,LAC,CHI,11.98,1,0,1,CHI,CHI,reb,0,False,False,,Valentine REBOUND (Off:0 Def:1),22-17,22,17
 0021700775,2018-02-03,LAC,CHI,12.0,1,0,0,CHI,,period_end,0,False,False,,,22-17,22,17
 0021700775,2018-02-03,LAC,CHI,12.0,2,12,0,CHI,,period_start,0,False,False,,,22-17,22,17
@@ -373,8 +373,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700775,2018-02-03,LAC,CHI,40.42,4,7,35,CHI,CHI,fg_miss,78,False,False,,MISS Zipser 7' Floating Jump Shot,100-85,100,85
 0021700775,2018-02-03,LAC,CHI,40.45,4,7,33,CHI,CHI,reb,0,False,False,,Portis REBOUND (Off:6 Def:6),100-85,100,85
 0021700775,2018-02-03,LAC,CHI,40.45,4,7,33,CHI,CHI,fg_miss,5,True,False,,MISS Portis 2' Layup,100-85,100,85
-0021700775,2018-02-03,LAC,CHI,40.45,4,7,33,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:1 Def:5),,100-85,100,85
 0021700775,2018-02-03,LAC,CHI,40.45,4,7,33,CHI,LAC,block,5,True,False,block,block,100-85,100,85
+0021700775,2018-02-03,LAC,CHI,40.45,4,7,33,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:1 Def:5),,100-85,100,85
 0021700775,2018-02-03,LAC,CHI,40.63,4,7,22,,LAC,jump_ball,0,False,False,Jump Ball Harrell vs. Zipser: Tip to Wallace,,100-85,100,85
 0021700775,2018-02-03,LAC,CHI,40.67,4,7,20,LAC,LAC,tov,2,False,True,Wallace Lost Ball Turnover (P2.T12),,100-85,100,85
 0021700775,2018-02-03,LAC,CHI,40.67,4,7,20,LAC,CHI,steal,2,False,True,steal,steal,100-85,100,85
@@ -385,9 +385,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700775,2018-02-03,LAC,CHI,40.92,4,7,5,LAC,LAC,ft_miss,12,False,False,MISS Harrell Free Throw 2 of 2,,100-87,100,87
 0021700775,2018-02-03,LAC,CHI,40.95,4,7,3,CHI,CHI,reb,0,False,False,,Portis REBOUND (Off:6 Def:7),100-87,100,87
 0021700775,2018-02-03,LAC,CHI,41.32,4,6,41,CHI,CHI,fg_miss,3,True,False,,MISS Portis 13' Hook Shot,100-87,100,87
+0021700775,2018-02-03,LAC,CHI,41.32,4,6,41,CHI,LAC,block,3,True,False,block,block,100-87,100,87
 0021700775,2018-02-03,LAC,CHI,41.32,4,6,41,CHI,CHI,reb,0,False,False,,Bulls Rebound,100-87,100,87
 0021700775,2018-02-03,LAC,CHI,41.32,4,6,41,CHI,CHI,tov,11,False,False,,Bulls Turnover: Shot Clock (T#11),100-87,100,87
-0021700775,2018-02-03,LAC,CHI,41.32,4,6,41,CHI,LAC,block,3,True,False,block,block,100-87,100,87
 0021700775,2018-02-03,LAC,CHI,41.5,4,6,30,LAC,LAC,fg3_miss,1,False,False,MISS Williams 26' 3PT Jump Shot,,100-87,100,87
 0021700775,2018-02-03,LAC,CHI,41.55,4,6,27,CHI,CHI,reb,0,False,False,,Bulls Rebound,100-87,100,87
 0021700775,2018-02-03,LAC,CHI,41.82,4,6,11,CHI,CHI,fg_make,1,False,False,,Lopez 22' Jump Shot (11 PTS) (Grant 3 AST),100-89,100,89
@@ -409,8 +409,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700775,2018-02-03,LAC,CHI,43.75,4,4,15,CHI,CHI,fg3_miss,1,False,False,,MISS Holiday 25' 3PT Jump Shot,102-91,102,91
 0021700775,2018-02-03,LAC,CHI,43.78,4,4,13,LAC,LAC,reb,0,False,False,Jordan REBOUND (Off:4 Def:9),,102-91,102,91
 0021700775,2018-02-03,LAC,CHI,43.83,4,4,10,LAC,LAC,fg_miss,41,True,False,MISS Williams Running Layup,,102-91,102,91
-0021700775,2018-02-03,LAC,CHI,43.83,4,4,10,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,102-91,102,91
 0021700775,2018-02-03,LAC,CHI,43.83,4,4,10,LAC,CHI,block,41,True,False,block,block,102-91,102,91
+0021700775,2018-02-03,LAC,CHI,43.83,4,4,10,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,102-91,102,91
 0021700775,2018-02-03,LAC,CHI,44.05,4,3,57,LAC,LAC,fg_make,79,False,False,Bradley 20' Pullup Jump Shot (8 PTS),,104-91,104,91
 0021700775,2018-02-03,LAC,CHI,44.32,4,3,41,CHI,CHI,fg_miss,5,False,False,,MISS Grant 2' Layup,104-91,104,91
 0021700775,2018-02-03,LAC,CHI,44.37,4,3,38,LAC,LAC,reb,0,False,False,Jordan REBOUND (Off:4 Def:10),,104-91,104,91
@@ -418,8 +418,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700775,2018-02-03,LAC,CHI,44.63,4,3,22,CHI,CHI,fg3_miss,1,False,False,,MISS Holiday 24' 3PT Jump Shot,104-91,104,91
 0021700775,2018-02-03,LAC,CHI,44.63,4,3,22,CHI,CHI,reb,0,False,False,,Lopez REBOUND (Off:5 Def:3),104-91,104,91
 0021700775,2018-02-03,LAC,CHI,44.82,4,3,11,CHI,CHI,fg_miss,5,True,False,,MISS LaVine 3' Layup,104-91,104,91
-0021700775,2018-02-03,LAC,CHI,44.82,4,3,11,CHI,CHI,reb,0,False,False,,Bulls Rebound,104-91,104,91
 0021700775,2018-02-03,LAC,CHI,44.82,4,3,11,CHI,LAC,block,5,True,False,block,block,104-91,104,91
+0021700775,2018-02-03,LAC,CHI,44.82,4,3,11,CHI,CHI,reb,0,False,False,,Bulls Rebound,104-91,104,91
 0021700775,2018-02-03,LAC,CHI,44.92,4,3,5,CHI,CHI,fg_make,57,False,False,,Lopez 18' Driving Hook Shot (15 PTS) (Holiday 2 AST),104-93,104,93
 0021700775,2018-02-03,LAC,CHI,45.25,4,2,45,LAC,LAC,fg3_miss,1,False,False,MISS Bradley 25' 3PT Jump Shot,,104-93,104,93
 0021700775,2018-02-03,LAC,CHI,45.3,4,2,42,CHI,CHI,reb,0,False,False,,LaVine REBOUND (Off:0 Def:8),104-93,104,93

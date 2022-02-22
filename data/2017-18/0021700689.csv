@@ -15,8 +15,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700689,2018-01-22,HOU,MIA,2.0,1,10,0,HOU,HOU,fg_miss,6,False,False,MISS Capela 7' Driving Layup,,5-8,5,8
 0021700689,2018-01-22,HOU,MIA,2.05,1,9,57,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:1 Def:0),,5-8,5,8
 0021700689,2018-01-22,HOU,MIA,2.07,1,9,56,HOU,HOU,fg_miss,5,True,False,MISS Capela 3' Layup,,5-8,5,8
-0021700689,2018-01-22,HOU,MIA,2.07,1,9,56,MIA,MIA,reb,0,False,False,,Ellington REBOUND (Off:0 Def:1),5-8,5,8
 0021700689,2018-01-22,HOU,MIA,2.07,1,9,56,HOU,MIA,block,5,True,False,block,block,5-8,5,8
+0021700689,2018-01-22,HOU,MIA,2.07,1,9,56,MIA,MIA,reb,0,False,False,,Ellington REBOUND (Off:0 Def:1),5-8,5,8
 0021700689,2018-01-22,HOU,MIA,2.35,1,9,39,MIA,MIA,fg_make,1,False,False,,Whiteside 19' Jump Shot (6 PTS) (Richardson 1 AST),5-10,5,10
 0021700689,2018-01-22,HOU,MIA,2.72,1,9,17,HOU,HOU,tov,1,False,True,Harden Bad Pass Turnover (P2.T2),,5-10,5,10
 0021700689,2018-01-22,HOU,MIA,2.72,1,9,17,HOU,MIA,steal,1,False,True,steal,steal,5-10,5,10
@@ -143,8 +143,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700689,2018-01-22,HOU,MIA,17.02,2,6,59,MIA,MIA,reb,0,False,False,,Heat Rebound,30-37,30,37
 0021700689,2018-01-22,HOU,MIA,17.02,2,6,59,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 3 Short 0),,30-37,30,37
 0021700689,2018-01-22,HOU,MIA,17.28,2,6,43,MIA,MIA,fg_miss,6,True,False,,MISS Richardson 5' Driving Layup,30-37,30,37
-0021700689,2018-01-22,HOU,MIA,17.28,2,6,43,MIA,MIA,reb,0,False,False,,Heat Rebound,30-37,30,37
 0021700689,2018-01-22,HOU,MIA,17.28,2,6,43,MIA,HOU,block,6,True,False,block,block,30-37,30,37
+0021700689,2018-01-22,HOU,MIA,17.28,2,6,43,MIA,MIA,reb,0,False,False,,Heat Rebound,30-37,30,37
 0021700689,2018-01-22,HOU,MIA,17.38,2,6,37,MIA,MIA,fg3_make,1,False,False,,Walton Jr. 27' 3PT Jump Shot (3 PTS),30-40,30,40
 0021700689,2018-01-22,HOU,MIA,17.7,2,6,18,HOU,HOU,fg3_make,1,False,False,Anderson 29' 3PT Jump Shot (3 PTS) (Paul 2 AST),,33-40,33,40
 0021700689,2018-01-22,HOU,MIA,17.97,2,6,2,MIA,MIA,fg_make,1,False,False,,Richardson 19' Jump Shot (2 PTS) (Johnson 3 AST),33-42,33,42
@@ -236,9 +236,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700689,2018-01-22,HOU,MIA,29.05,3,6,57,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:2 Def:1),,57-57,57,57
 0021700689,2018-01-22,HOU,MIA,29.08,3,6,55,HOU,HOU,fg_miss,5,False,False,MISS Capela 3' Layup,,57-57,57,57
 0021700689,2018-01-22,HOU,MIA,29.08,3,6,55,MIA,MIA,reb,0,False,False,,Whiteside REBOUND (Off:2 Def:7),57-57,57,57
-0021700689,2018-01-22,HOU,MIA,29.13,3,6,52,MIA,MIA,tov,2,False,False,,Johnson Lost Ball Turnover (P3.T12),57-57,57,57
 0021700689,2018-01-22,HOU,MIA,29.13,3,6,52,HOU,MIA,foul,3,False,False,,Johnson L.B.FOUL (P3.T4) (L.Wood),57-57,57,57
 0021700689,2018-01-22,HOU,MIA,29.13,3,6,52,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 4 Short 0),,57-57,57,57
+0021700689,2018-01-22,HOU,MIA,29.13,3,6,52,MIA,MIA,tov,2,False,False,,Johnson Lost Ball Turnover (P3.T12),57-57,57,57
 0021700689,2018-01-22,HOU,MIA,29.47,3,6,32,HOU,HOU,fg3_miss,1,False,False,MISS Harden 26' 3PT Jump Shot,,57-57,57,57
 0021700689,2018-01-22,HOU,MIA,29.53,3,6,28,MIA,MIA,reb,0,False,False,,Whiteside REBOUND (Off:2 Def:8),57-57,57,57
 0021700689,2018-01-22,HOU,MIA,29.85,3,6,9,MIA,MIA,fg3_miss,1,False,False,,MISS Johnson 26' 3PT Jump Shot,57-57,57,57
@@ -277,8 +277,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700689,2018-01-22,HOU,MIA,32.83,3,3,10,MIA,MIA,fg3_miss,1,False,False,,MISS Olynyk 27' 3PT Jump Shot,62-61,62,61
 0021700689,2018-01-22,HOU,MIA,32.88,3,3,7,HOU,HOU,reb,0,False,False,Mbah a Moute REBOUND (Off:0 Def:3),,62-61,62,61
 0021700689,2018-01-22,HOU,MIA,32.98,3,3,1,HOU,HOU,fg_miss,6,True,False,MISS Harden 4' Driving Layup,,62-61,62,61
-0021700689,2018-01-22,HOU,MIA,32.98,3,3,1,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,62-61,62,61
 0021700689,2018-01-22,HOU,MIA,32.98,3,3,1,HOU,MIA,block,6,True,False,block,block,62-61,62,61
+0021700689,2018-01-22,HOU,MIA,32.98,3,3,1,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,62-61,62,61
 0021700689,2018-01-22,HOU,MIA,33.08,3,2,55,HOU,HOU,fg_miss,1,False,False,MISS Paul 16' Jump Shot,,62-61,62,61
 0021700689,2018-01-22,HOU,MIA,33.13,3,2,52,MIA,MIA,reb,0,False,False,,Olynyk REBOUND (Off:0 Def:2),62-61,62,61
 0021700689,2018-01-22,HOU,MIA,33.37,3,2,38,MIA,MIA,fg_miss,5,True,False,,MISS Olynyk 9' Layup,62-61,62,61
@@ -304,10 +304,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700689,2018-01-22,HOU,MIA,35.88,3,0,7,MIA,MIA,fg3_miss,1,False,False,,MISS Richardson 26' 3PT Jump Shot,71-68,71,68
 0021700689,2018-01-22,HOU,MIA,35.97,3,0,2,HOU,HOU,reb,0,False,False,Tucker REBOUND (Off:0 Def:3),,71-68,71,68
 0021700689,2018-01-22,HOU,MIA,36.0,3,0,0,HOU,HOU,fg_miss,41,True,False,MISS Paul 3' Running Layup,,71-68,71,68
+0021700689,2018-01-22,HOU,MIA,36.0,3,0,0,HOU,MIA,block,41,True,False,block,block,71-68,71,68
 0021700689,2018-01-22,HOU,MIA,36.0,3,0,0,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,71-68,71,68
 0021700689,2018-01-22,HOU,MIA,36.0,3,0,0,HOU,,period_end,0,False,False,,,71-68,71,68
 0021700689,2018-01-22,HOU,MIA,36.0,4,12,0,HOU,,period_start,0,False,False,,,71-68,71,68
-0021700689,2018-01-22,HOU,MIA,36.0,3,0,0,HOU,MIA,block,41,True,False,block,block,71-68,71,68
 0021700689,2018-01-22,HOU,MIA,36.12,4,11,53,MIA,MIA,fg_make,5,False,False,,Adebayo 4' Layup (4 PTS) (Winslow 2 AST),71-70,71,70
 0021700689,2018-01-22,HOU,MIA,36.32,4,11,41,HOU,HOU,tov,4,False,False,Gordon Traveling Turnover (P1.T12),,71-70,71,70
 0021700689,2018-01-22,HOU,MIA,36.62,4,11,23,MIA,MIA,fg3_make,1,False,False,,Richardson 27' 3PT Jump Shot (10 PTS),71-73,71,73
@@ -332,8 +332,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700689,2018-01-22,HOU,MIA,40.4,4,7,36,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.4 Short 0),81-79,81,79
 0021700689,2018-01-22,HOU,MIA,40.58,4,7,25,MIA,MIA,fg_make,79,False,False,,Richardson 23' Pullup Jump Shot (12 PTS),81-81,81,81
 0021700689,2018-01-22,HOU,MIA,40.85,4,7,9,HOU,HOU,tov,1,False,True,Harden Bad Pass Turnover (P5.T13),,81-81,81,81
-0021700689,2018-01-22,HOU,MIA,40.85,4,7,9,MIA,HOU,foul,1,False,False,Anderson P.FOUL (P3.T1) (J.Capers),,81-81,81,81
 0021700689,2018-01-22,HOU,MIA,40.85,4,7,9,HOU,MIA,steal,1,False,True,steal,steal,81-81,81,81
+0021700689,2018-01-22,HOU,MIA,40.85,4,7,9,MIA,HOU,foul,1,False,False,Anderson P.FOUL (P3.T1) (J.Capers),,81-81,81,81
 0021700689,2018-01-22,HOU,MIA,41.03,4,6,58,MIA,MIA,fg3_miss,1,False,False,,MISS Olynyk 27' 3PT Jump Shot,81-81,81,81
 0021700689,2018-01-22,HOU,MIA,41.08,4,6,55,HOU,HOU,reb,0,False,False,Anderson REBOUND (Off:0 Def:2),,81-81,81,81
 0021700689,2018-01-22,HOU,MIA,41.08,4,6,55,HOU,HOU,tov,40,False,False,Harden Out of Bounds Lost Ball Turnover (P6.T14),,81-81,81,81
@@ -369,13 +369,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700689,2018-01-22,HOU,MIA,45.2,4,2,48,MIA,MIA,fg_make,6,False,False,,Johnson 3' Driving Layup (10 PTS),91-90,91,90
 0021700689,2018-01-22,HOU,MIA,45.58,4,2,25,HOU,HOU,fg_make,63,False,False,Harden 14' Fadeaway Jumper (28 PTS),,93-90,93,90
 0021700689,2018-01-22,HOU,MIA,45.93,4,2,4,MIA,MIA,tov,2,False,True,,Whiteside Lost Ball Turnover (P6.T17),93-90,93,90
-0021700689,2018-01-22,HOU,MIA,45.93,4,2,4,HOU,MIA,foul,3,False,False,,Whiteside L.B.FOUL (P5.T1) (J.Goldenberg),93-90,93,90
 0021700689,2018-01-22,HOU,MIA,45.93,4,2,4,MIA,HOU,steal,2,False,True,steal,steal,93-90,93,90
+0021700689,2018-01-22,HOU,MIA,45.93,4,2,4,HOU,MIA,foul,3,False,False,,Whiteside L.B.FOUL (P5.T1) (J.Goldenberg),93-90,93,90
 0021700689,2018-01-22,HOU,MIA,46.1,4,1,54,HOU,MIA,foul,1,False,False,,Johnson P.FOUL (P4.T2) (J.Capers),93-90,93,90
 0021700689,2018-01-22,HOU,MIA,46.3,4,1,42,HOU,HOU,fg3_miss,80,True,False,MISS Harden 27' 3PT Step Back Jump Shot,,93-90,93,90
+0021700689,2018-01-22,HOU,MIA,46.3,4,1,42,HOU,MIA,block,80,True,False,block,block,93-90,93,90
 0021700689,2018-01-22,HOU,MIA,46.3,4,1,42,MIA,MIA,reb,0,False,False,,Whiteside REBOUND (Off:2 Def:10),93-90,93,90
 0021700689,2018-01-22,HOU,MIA,46.3,4,1,42,MIA,MIA,tov,2,False,True,,Whiteside Lost Ball Turnover (P7.T18),93-90,93,90
-0021700689,2018-01-22,HOU,MIA,46.3,4,1,42,HOU,MIA,block,80,True,False,block,block,93-90,93,90
 0021700689,2018-01-22,HOU,MIA,46.3,4,1,42,MIA,HOU,steal,2,False,True,steal,steal,93-90,93,90
 0021700689,2018-01-22,HOU,MIA,46.72,4,1,17,HOU,HOU,fg_miss,86,False,False,MISS Harden 16' Turnaround Fadeaway Shot,,93-90,93,90
 0021700689,2018-01-22,HOU,MIA,46.8,4,1,12,MIA,MIA,reb,0,False,False,,Richardson REBOUND (Off:0 Def:3),93-90,93,90
@@ -386,8 +386,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700689,2018-01-22,HOU,MIA,47.47,4,0,32,MIA,MIA,fg3_miss,1,False,False,,MISS Johnson 25' 3PT Jump Shot,95-90,95,90
 0021700689,2018-01-22,HOU,MIA,47.47,4,0,32,MIA,MIA,reb,0,False,False,,Whiteside REBOUND (Off:3 Def:10),95-90,95,90
 0021700689,2018-01-22,HOU,MIA,47.53,4,0,28,MIA,MIA,fg_miss,5,True,False,,MISS Whiteside 3' Layup,95-90,95,90
-0021700689,2018-01-22,HOU,MIA,47.53,4,0,28,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:3 Def:3),,95-90,95,90
 0021700689,2018-01-22,HOU,MIA,47.53,4,0,28,MIA,HOU,block,5,True,False,block,block,95-90,95,90
+0021700689,2018-01-22,HOU,MIA,47.53,4,0,28,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:3 Def:3),,95-90,95,90
 0021700689,2018-01-22,HOU,MIA,47.7,4,0,18,HOU,HOU,fg_make,7,False,False,Capela 1' Dunk (12 PTS) (Gordon 2 AST),,97-90,97,90
 0021700689,2018-01-22,HOU,MIA,47.7,4,0,18,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.7 Short 0),97-90,97,90
 0021700689,2018-01-22,HOU,MIA,47.75,4,0,15,MIA,MIA,fg3_miss,1,False,False,,MISS Johnson 24' 3PT Jump Shot,97-90,97,90

@@ -41,8 +41,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700262,2017-11-22,NOP,SAS,4.55,1,7,27,NOP,NOP,fg_miss,5,False,False,MISS Rondo 3' Layup,,2-13,2,13
 0021700262,2017-11-22,NOP,SAS,4.57,1,7,26,NOP,NOP,reb,0,False,False,Cousins REBOUND (Off:2 Def:2),,2-13,2,13
 0021700262,2017-11-22,NOP,SAS,4.57,1,7,26,NOP,NOP,fg_miss,72,True,False,MISS Cousins 1' Putback Layup,,2-13,2,13
-0021700262,2017-11-22,NOP,SAS,4.57,1,7,26,NOP,NOP,reb,0,False,False,PELICANS Rebound,,2-13,2,13
 0021700262,2017-11-22,NOP,SAS,4.57,1,7,26,NOP,SAS,block,72,True,False,block,block,2-13,2,13
+0021700262,2017-11-22,NOP,SAS,4.57,1,7,26,NOP,NOP,reb,0,False,False,PELICANS Rebound,,2-13,2,13
 0021700262,2017-11-22,NOP,SAS,4.77,1,7,14,NOP,NOP,fg_miss,6,False,False,MISS Cousins 3' Driving Layup,,2-13,2,13
 0021700262,2017-11-22,NOP,SAS,4.82,1,7,11,SAS,SAS,reb,0,False,False,,Gasol REBOUND (Off:0 Def:3),2-13,2,13
 0021700262,2017-11-22,NOP,SAS,5.02,1,6,59,SAS,SAS,fg_make,86,False,False,,Aldridge 15' Turnaround Fadeaway (5 PTS),2-15,2,15
@@ -102,8 +102,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700262,2017-11-22,NOP,SAS,11.55,1,0,27,SAS,SAS,ft_make,11,False,False,,Murray Free Throw 1 of 2 (3 PTS),19-28,19,28
 0021700262,2017-11-22,NOP,SAS,11.55,1,0,27,SAS,SAS,ft_make,12,False,False,,Murray Free Throw 2 of 2 (4 PTS),19-29,19,29
 0021700262,2017-11-22,NOP,SAS,11.93,1,0,4,NOP,NOP,fg_miss,1,True,False,MISS Nelson 12' Jump Shot,,19-29,19,29
-0021700262,2017-11-22,NOP,SAS,11.93,1,0,4,SAS,SAS,reb,0,False,False,,Anderson REBOUND (Off:1 Def:3),19-29,19,29
 0021700262,2017-11-22,NOP,SAS,11.93,1,0,4,NOP,SAS,block,1,True,False,block,block,19-29,19,29
+0021700262,2017-11-22,NOP,SAS,11.93,1,0,4,SAS,SAS,reb,0,False,False,,Anderson REBOUND (Off:1 Def:3),19-29,19,29
 0021700262,2017-11-22,NOP,SAS,12.0,1,0,0,SAS,SAS,fg3_miss,1,False,False,,MISS Ginobili 25' 3PT Jump Shot,19-29,19,29
 0021700262,2017-11-22,NOP,SAS,12.0,1,0,0,SAS,SAS,reb,0,False,False,,Spurs Rebound,19-29,19,29
 0021700262,2017-11-22,NOP,SAS,12.0,1,0,0,SAS,,period_end,0,False,False,,,19-29,19,29
@@ -148,8 +148,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700262,2017-11-22,NOP,SAS,16.68,2,7,19,NOP,NOP,tov,2,False,True,Davis Lost Ball Turnover (P1.T5),,28-36,28,36
 0021700262,2017-11-22,NOP,SAS,16.68,2,7,19,NOP,SAS,steal,2,False,True,steal,steal,28-36,28,36
 0021700262,2017-11-22,NOP,SAS,16.78,2,7,13,SAS,SAS,tov,1,False,True,,Anderson Bad Pass Turnover (P1.T6),28-36,28,36
-0021700262,2017-11-22,NOP,SAS,16.78,2,7,13,NOP,SAS,foul,1,False,False,,Bertans P.FOUL (P1.T2) (T.Ford),28-36,28,36
 0021700262,2017-11-22,NOP,SAS,16.78,2,7,13,SAS,NOP,steal,1,False,True,steal,steal,28-36,28,36
+0021700262,2017-11-22,NOP,SAS,16.78,2,7,13,NOP,SAS,foul,1,False,False,,Bertans P.FOUL (P1.T2) (T.Ford),28-36,28,36
 0021700262,2017-11-22,NOP,SAS,16.98,2,7,1,NOP,SAS,foul,2,False,False,,Gasol S.FOUL (P1.T3) (M.Ervin),28-36,28,36
 0021700262,2017-11-22,NOP,SAS,16.98,2,7,1,NOP,NOP,ft_make,11,False,False,Cousins Free Throw 1 of 2 (8 PTS),,29-36,29,36
 0021700262,2017-11-22,NOP,SAS,16.98,2,7,1,NOP,NOP,ft_miss,12,False,False,MISS Cousins Free Throw 2 of 2,,29-36,29,36
@@ -276,17 +276,17 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700262,2017-11-22,NOP,SAS,31.35,3,4,39,SAS,SAS,tov,2,False,True,,Forbes Lost Ball Turnover (P1.T13),67-53,67,53
 0021700262,2017-11-22,NOP,SAS,31.35,3,4,39,SAS,NOP,steal,2,False,True,steal,steal,67-53,67,53
 0021700262,2017-11-22,NOP,SAS,31.5,3,4,30,NOP,NOP,tov,1,False,True,Cousins Bad Pass Turnover (P3.T10),,67-53,67,53
+0021700262,2017-11-22,NOP,SAS,31.5,3,4,30,NOP,SAS,steal,1,False,True,steal,steal,67-53,67,53
 0021700262,2017-11-22,NOP,SAS,31.5,3,4,30,SAS,SAS,fg3_miss,1,False,False,,MISS Mills 26' 3PT Jump Shot,67-53,67,53
 0021700262,2017-11-22,NOP,SAS,31.5,3,4,30,NOP,NOP,reb,0,False,False,Cousins REBOUND (Off:3 Def:10),,67-53,67,53
-0021700262,2017-11-22,NOP,SAS,31.5,3,4,30,NOP,SAS,steal,1,False,True,steal,steal,67-53,67,53
 0021700262,2017-11-22,NOP,SAS,31.55,3,4,27,NOP,NOP,fg3_miss,1,False,False,MISS Moore 27' 3PT Jump Shot,,67-53,67,53
 0021700262,2017-11-22,NOP,SAS,31.58,3,4,25,NOP,NOP,reb,0,False,False,Moore REBOUND (Off:1 Def:2),,67-53,67,53
 0021700262,2017-11-22,NOP,SAS,31.6,3,4,24,NOP,NOP,fg_miss,71,False,False,MISS Moore 4' Finger Roll Layup,,67-53,67,53
 0021700262,2017-11-22,NOP,SAS,31.62,3,4,23,NOP,NOP,reb,0,False,False,Cousins REBOUND (Off:4 Def:10),,67-53,67,53
 0021700262,2017-11-22,NOP,SAS,31.63,3,4,22,NOP,NOP,fg_make,97,False,False,Cousins 1' Tip Layup Shot (20 PTS),,69-53,69,53
 0021700262,2017-11-22,NOP,SAS,32.03,3,3,58,SAS,SAS,fg_miss,5,False,False,,MISS Lauvergne 2' Layup,69-53,69,53
-0021700262,2017-11-22,NOP,SAS,32.07,3,3,56,SAS,SAS,reb,0,False,False,,Gasol REBOUND (Off:1 Def:8),69-53,69,53
 0021700262,2017-11-22,NOP,SAS,32.07,3,3,56,SAS,NOP,foul,1,False,False,Davis P.FOUL (P2.T1) (J.Goble),,69-53,69,53
+0021700262,2017-11-22,NOP,SAS,32.07,3,3,56,SAS,SAS,reb,0,False,False,,Gasol REBOUND (Off:1 Def:8),69-53,69,53
 0021700262,2017-11-22,NOP,SAS,32.13,3,3,52,SAS,NOP,foul,1,False,False,Holiday P.FOUL (P2.T2) (J.Goble),,69-53,69,53
 0021700262,2017-11-22,NOP,SAS,32.22,3,3,47,SAS,SAS,fg3_miss,1,False,False,,MISS Gay 3PT Jump Shot,69-53,69,53
 0021700262,2017-11-22,NOP,SAS,32.23,3,3,46,SAS,SAS,reb,0,False,False,,Lauvergne REBOUND (Off:3 Def:0),69-53,69,53
@@ -323,8 +323,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700262,2017-11-22,NOP,SAS,36.0,3,0,0,SAS,,period_end,0,False,False,,,87-59,87,59
 0021700262,2017-11-22,NOP,SAS,36.0,4,12,0,SAS,,period_start,0,False,False,,,87-59,87,59
 0021700262,2017-11-22,NOP,SAS,36.15,4,11,51,SAS,SAS,fg_miss,5,True,False,,MISS Murray 3' Layup,87-59,87,59
-0021700262,2017-11-22,NOP,SAS,36.15,4,11,51,SAS,SAS,reb,0,False,False,,Spurs Rebound,87-59,87,59
 0021700262,2017-11-22,NOP,SAS,36.15,4,11,51,SAS,NOP,block,5,True,False,block,block,87-59,87,59
+0021700262,2017-11-22,NOP,SAS,36.15,4,11,51,SAS,SAS,reb,0,False,False,,Spurs Rebound,87-59,87,59
 0021700262,2017-11-22,NOP,SAS,36.3,4,11,42,SAS,SAS,fg3_miss,1,False,False,,MISS Paul 26' 3PT Jump Shot,87-59,87,59
 0021700262,2017-11-22,NOP,SAS,36.38,4,11,37,NOP,NOP,reb,0,False,False,Cunningham REBOUND (Off:0 Def:3),,87-59,87,59
 0021700262,2017-11-22,NOP,SAS,36.7,4,11,18,NOP,NOP,fg_miss,5,False,False,MISS Cousins 3' Layup,,87-59,87,59
@@ -343,8 +343,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700262,2017-11-22,NOP,SAS,38.82,4,9,11,SAS,SAS,fg3_miss,1,False,False,,MISS Forbes 25' 3PT Jump Shot,89-61,89,61
 0021700262,2017-11-22,NOP,SAS,38.9,4,9,6,NOP,NOP,reb,0,False,False,Miller REBOUND (Off:0 Def:3),,89-61,89,61
 0021700262,2017-11-22,NOP,SAS,39.12,4,8,53,NOP,NOP,tov,2,False,True,Cousins Lost Ball Turnover (P6.T14),,89-61,89,61
-0021700262,2017-11-22,NOP,SAS,39.12,4,8,53,SAS,NOP,foul,11,False,False,Cousins T.FOUL (P2.T2) (J.Goble),,89-61,89,61
 0021700262,2017-11-22,NOP,SAS,39.12,4,8,53,NOP,SAS,steal,2,False,True,steal,steal,89-61,89,61
+0021700262,2017-11-22,NOP,SAS,39.12,4,8,53,SAS,NOP,foul,11,False,False,Cousins T.FOUL (P2.T2) (J.Goble),,89-61,89,61
 0021700262,2017-11-22,NOP,SAS,39.12,4,8,53,SAS,SAS,ft_make,16,False,False,,Gay Free Throw Technical (6 PTS),89-62,89,62
 0021700262,2017-11-22,NOP,SAS,39.32,4,8,41,SAS,SAS,fg_make,6,False,False,,Murray 2' Driving Layup (6 PTS),89-64,89,64
 0021700262,2017-11-22,NOP,SAS,39.47,4,8,32,NOP,NOP,fg3_miss,1,False,False,MISS Cousins 27' 3PT Jump Shot,,89-64,89,64
@@ -376,9 +376,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700262,2017-11-22,NOP,SAS,41.97,4,6,2,SAS,SAS,fg3_make,1,False,False,,Forbes 25' 3PT Jump Shot (3 PTS) (Paul 1 AST),97-73,97,73
 0021700262,2017-11-22,NOP,SAS,42.22,4,5,47,NOP,SAS,foul,1,False,False,,Forbes P.FOUL (P3.PN) (J.Goble),97-73,97,73
 0021700262,2017-11-22,NOP,SAS,42.22,4,5,47,NOP,NOP,ft_make,11,False,False,Cunningham Free Throw 1 of 2 (5 PTS),,98-73,98,73
-0021700262,2017-11-22,NOP,SAS,42.22,4,5,47,NOP,SAS,violation,3,False,False,,Lane,98-73,98,73
 0021700262,2017-11-22,NOP,SAS,42.22,4,5,47,NOP,NOP,ft_make,12,False,False,Cunningham Free Throw 2 of 2 (6 PTS),,99-73,99,73
 0021700262,2017-11-22,NOP,SAS,42.22,4,5,47,NOP,SAS,violation,3,False,False,,Lane,99-73,99,73
+0021700262,2017-11-22,NOP,SAS,42.22,4,5,47,NOP,SAS,violation,3,False,False,,Lane,98-73,98,73
 0021700262,2017-11-22,NOP,SAS,42.47,4,5,32,SAS,SAS,fg_miss,1,False,False,,MISS Gay 23' Jump Shot,99-73,99,73
 0021700262,2017-11-22,NOP,SAS,42.53,4,5,28,NOP,NOP,reb,0,False,False,Davis REBOUND (Off:0 Def:11),,99-73,99,73
 0021700262,2017-11-22,NOP,SAS,42.67,4,5,20,NOP,NOP,fg_make,101,False,False,Davis 6' Driving Floating Jump Shot (29 PTS),,101-73,101,73

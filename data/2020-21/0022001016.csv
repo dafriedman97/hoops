@@ -183,8 +183,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001016,2021-05-08,UTA,HOU,21.08,2,2,55,UTA,HOU,ft_make,12,False,False,,Thomas Free Throw 2 of 2 (8 PTS),58-53,58,53
 0022001016,2021-05-08,UTA,HOU,21.28,2,2,43,UTA,UTA,fg_miss,5,True,False,MISS Gobert 3' Layup,,58-53,58,53
 0022001016,2021-05-08,UTA,HOU,21.28,2,2,43,UTA,HOU,block,5,True,False,block,block,58-53,58,53
-0022001016,2021-05-08,UTA,HOU,21.32,2,2,41,UTA,UTA,reb,0,False,False,JAZZ Rebound,,58-53,58,53
 0022001016,2021-05-08,UTA,HOU,21.32,2,2,41,,UTA,jump_ball,0,False,False,Jump Ball Gobert vs. Thomas: Tip to O'Neale,,58-53,58,53
+0022001016,2021-05-08,UTA,HOU,21.32,2,2,41,UTA,UTA,reb,0,False,False,JAZZ Rebound,,58-53,58,53
 0022001016,2021-05-08,UTA,HOU,21.38,2,2,37,UTA,UTA,fg_make,75,False,False,Bogdanovic 2' Driving Finger Roll Layup (13 PTS) (O'Neale 3 AST),,60-53,60,53
 0022001016,2021-05-08,UTA,HOU,21.62,2,2,23,HOU,UTA,foul,2,False,False,Gobert S.FOUL (P2.T4) (M.Davis),,60-53,60,53
 0022001016,2021-05-08,UTA,HOU,21.62,2,2,23,HOU,HOU,ft_miss,11,False,False,,MISS Martin Jr. Free Throw 1 of 2,60-53,60,53
@@ -245,8 +245,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001016,2021-05-08,UTA,HOU,27.27,3,8,44,UTA,HOU,foul,1,False,False,,Jeffries P.FOUL (P3.T2) (J.Sterling),78-66,78,66
 0022001016,2021-05-08,UTA,HOU,27.38,3,8,37,UTA,UTA,fg_make,75,False,False,Ingles 2' Driving Finger Roll Layup (12 PTS),,80-66,80,66
 0022001016,2021-05-08,UTA,HOU,27.83,3,8,10,HOU,HOU,fg_miss,79,False,False,,MISS Tate 13' Pullup Jump Shot,80-66,80,66
-0022001016,2021-05-08,UTA,HOU,27.92,3,8,5,HOU,HOU,fg_miss,97,False,False,,MISS Lamb Tip Layup Shot,80-66,80,66
 0022001016,2021-05-08,UTA,HOU,27.92,3,8,5,HOU,HOU,reb,0,False,False,,Lamb REBOUND (Off:2 Def:1),80-66,80,66
+0022001016,2021-05-08,UTA,HOU,27.92,3,8,5,HOU,HOU,fg_miss,97,False,False,,MISS Lamb Tip Layup Shot,80-66,80,66
 0022001016,2021-05-08,UTA,HOU,27.93,3,8,4,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:1 Def:7),,80-66,80,66
 0022001016,2021-05-08,UTA,HOU,28.02,3,7,59,UTA,HOU,foul,14,False,False,,Tate FLAGRANT.FOUL.TYPE1 (P1.T3) (M.Davis),80-66,80,66
 0022001016,2021-05-08,UTA,HOU,28.02,3,7,59,UTA,UTA,ft_make,18,False,False,Gobert Free Throw Flagrant 1 of 2 (7 PTS),,81-66,81,66
@@ -264,8 +264,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001016,2021-05-08,UTA,HOU,29.1,3,6,54,UTA,UTA,reb,0,False,False,Ingles REBOUND (Off:0 Def:6),,83-69,83,69
 0022001016,2021-05-08,UTA,HOU,29.27,3,6,44,UTA,UTA,fg_make,108,False,False,Gobert 1' Cutting Dunk Shot (9 PTS) (O'Neale 5 AST),,85-69,85,69
 0022001016,2021-05-08,UTA,HOU,29.48,3,6,31,HOU,HOU,tov,1,False,True,,Tate Bad Pass Turnover (P1.T8),85-69,85,69
-0022001016,2021-05-08,UTA,HOU,29.48,3,6,31,UTA,HOU,foul,1,False,False,,Tate P.FOUL (P2.T4) (M.Davis),85-69,85,69
 0022001016,2021-05-08,UTA,HOU,29.48,3,6,31,HOU,UTA,steal,1,False,True,steal,steal,85-69,85,69
+0022001016,2021-05-08,UTA,HOU,29.48,3,6,31,UTA,HOU,foul,1,False,False,,Tate P.FOUL (P2.T4) (M.Davis),85-69,85,69
 0022001016,2021-05-08,UTA,HOU,29.68,3,6,19,UTA,UTA,fg3_make,79,False,False,Clarkson 25' 3PT Pullup Jump Shot (17 PTS) (Forrest 1 AST),,88-69,88,69
 0022001016,2021-05-08,UTA,HOU,29.85,3,6,9,HOU,HOU,fg3_miss,1,False,False,,MISS Tate 26' 3PT Jump Shot,88-69,88,69
 0022001016,2021-05-08,UTA,HOU,29.9,3,6,6,UTA,UTA,reb,0,False,False,Bogdanovic REBOUND (Off:1 Def:3),,88-69,88,69
@@ -287,15 +287,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001016,2021-05-08,UTA,HOU,31.4,3,4,36,UTA,UTA,timeout,1,False,False,JAZZ Timeout: Regular (Full 3 Short 0),,88-72,88,72
 0022001016,2021-05-08,UTA,HOU,31.4,3,4,36,UTA,HOU,ft_make,12,False,False,,Tate Free Throw 2 of 2 (8 PTS),88-73,88,73
 0022001016,2021-05-08,UTA,HOU,31.73,3,4,16,UTA,UTA,fg_miss,6,True,False,MISS Bogdanovic 6' Driving Layup,,88-73,88,73
-0022001016,2021-05-08,UTA,HOU,31.73,3,4,16,UTA,UTA,reb,0,False,False,JAZZ Rebound,,88-73,88,73
 0022001016,2021-05-08,UTA,HOU,31.73,3,4,16,UTA,HOU,block,6,True,False,block,block,88-73,88,73
+0022001016,2021-05-08,UTA,HOU,31.73,3,4,16,UTA,UTA,reb,0,False,False,JAZZ Rebound,,88-73,88,73
 0022001016,2021-05-08,UTA,HOU,31.78,3,4,13,UTA,UTA,fg3_miss,1,False,False,MISS Clarkson 24' 3PT Jump Shot,,88-73,88,73
 0022001016,2021-05-08,UTA,HOU,31.85,3,4,9,UTA,UTA,reb,0,False,False,Forrest REBOUND (Off:2 Def:3),,88-73,88,73
 0022001016,2021-05-08,UTA,HOU,31.95,3,4,3,UTA,UTA,fg_miss,102,False,False,MISS Clarkson 5' Driving Floating Bank Jump Shot,,88-73,88,73
 0022001016,2021-05-08,UTA,HOU,31.98,3,4,1,HOU,HOU,reb,0,False,False,,Martin Jr. REBOUND (Off:1 Def:7),88-73,88,73
 0022001016,2021-05-08,UTA,HOU,32.23,3,3,46,HOU,HOU,fg_miss,6,True,False,,MISS Thomas 3' Driving Layup,88-73,88,73
-0022001016,2021-05-08,UTA,HOU,32.23,3,3,46,UTA,UTA,reb,0,False,False,JAZZ Rebound,,88-73,88,73
 0022001016,2021-05-08,UTA,HOU,32.23,3,3,46,HOU,UTA,block,6,True,False,block,block,88-73,88,73
+0022001016,2021-05-08,UTA,HOU,32.23,3,3,46,UTA,UTA,reb,0,False,False,JAZZ Rebound,,88-73,88,73
 0022001016,2021-05-08,UTA,HOU,32.4,3,3,36,UTA,UTA,tov,45,False,False,Forrest Out of Bounds - Bad Pass Turnover Turnover (P2.T9),,88-73,88,73
 0022001016,2021-05-08,UTA,HOU,32.65,3,3,21,HOU,UTA,foul,2,False,False,Favors S.FOUL (P1.T3) (J.Sterling),,88-73,88,73
 0022001016,2021-05-08,UTA,HOU,32.65,3,3,21,HOU,HOU,ft_make,11,False,False,,Brooks Free Throw 1 of 2 (11 PTS),88-74,88,74
@@ -312,8 +312,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001016,2021-05-08,UTA,HOU,34.53,3,1,28,UTA,UTA,tov,1,False,True,Niang Bad Pass Turnover (P3.T10),,96-78,96,78
 0022001016,2021-05-08,UTA,HOU,34.53,3,1,28,UTA,HOU,steal,1,False,True,steal,steal,96-78,96,78
 0022001016,2021-05-08,UTA,HOU,34.65,3,1,21,HOU,HOU,fg_miss,5,True,False,,MISS Lamb 3' Layup,96-78,96,78
-0022001016,2021-05-08,UTA,HOU,34.65,3,1,21,HOU,HOU,reb,0,False,False,,Rockets Rebound,96-78,96,78
 0022001016,2021-05-08,UTA,HOU,34.65,3,1,21,HOU,UTA,block,5,True,False,block,block,96-78,96,78
+0022001016,2021-05-08,UTA,HOU,34.65,3,1,21,HOU,HOU,reb,0,False,False,,Rockets Rebound,96-78,96,78
 0022001016,2021-05-08,UTA,HOU,34.78,3,1,13,HOU,HOU,fg_make,80,False,False,,House Jr. 14' Step Back Jump Shot (8 PTS),96-80,96,80
 0022001016,2021-05-08,UTA,HOU,35.03,3,0,58,UTA,UTA,fg3_miss,79,False,False,MISS Ingles 25' 3PT Pullup Jump Shot,,96-80,96,80
 0022001016,2021-05-08,UTA,HOU,35.07,3,0,56,HOU,HOU,reb,0,False,False,,House Jr. REBOUND (Off:0 Def:3),96-80,96,80
@@ -336,8 +336,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001016,2021-05-08,UTA,HOU,37.03,4,10,58,HOU,HOU,fg3_miss,1,False,False,,MISS Tate 26' 3PT Jump Shot,99-84,99,84
 0022001016,2021-05-08,UTA,HOU,37.12,4,10,53,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:1 Def:9),,99-84,99,84
 0022001016,2021-05-08,UTA,HOU,37.32,4,10,41,UTA,UTA,tov,1,False,True,Gobert Bad Pass Turnover (P3.T12),,99-84,99,84
-0022001016,2021-05-08,UTA,HOU,37.32,4,10,41,HOU,UTA,foul,28,False,False,Niang Personal Take Foul (P2.T1) (M.Davis),,99-84,99,84
 0022001016,2021-05-08,UTA,HOU,37.32,4,10,41,UTA,HOU,steal,1,False,True,steal,steal,99-84,99,84
+0022001016,2021-05-08,UTA,HOU,37.32,4,10,41,HOU,UTA,foul,28,False,False,Niang Personal Take Foul (P2.T1) (M.Davis),,99-84,99,84
 0022001016,2021-05-08,UTA,HOU,37.55,4,10,27,HOU,HOU,fg3_miss,79,False,False,,MISS House Jr. 3PT Pullup Jump Shot,99-84,99,84
 0022001016,2021-05-08,UTA,HOU,37.6,4,10,24,UTA,UTA,reb,0,False,False,Niang REBOUND (Off:0 Def:2),,99-84,99,84
 0022001016,2021-05-08,UTA,HOU,37.77,4,10,14,UTA,UTA,fg3_miss,79,False,False,MISS Thomas 27' 3PT Pullup Jump Shot,,99-84,99,84
@@ -403,9 +403,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001016,2021-05-08,UTA,HOU,45.63,4,2,22,HOU,HOU,reb,0,False,False,,Tate REBOUND (Off:3 Def:5),124-108,124,108
 0022001016,2021-05-08,UTA,HOU,45.65,4,2,21,HOU,HOU,fg3_miss,1,False,False,,MISS Thomas 26' 3PT Jump Shot,124-108,124,108
 0022001016,2021-05-08,UTA,HOU,45.7,4,2,18,UTA,UTA,reb,0,False,False,Bogdanovic REBOUND (Off:1 Def:4),,124-108,124,108
-0022001016,2021-05-08,UTA,HOU,45.83,4,2,10,UTA,UTA,tov,40,False,False,Ingles Out of Bounds Lost Ball Turnover (P3.T15),,124-108,124,108
 0022001016,2021-05-08,UTA,HOU,45.83,4,2,10,HOU,UTA,foul,11,False,False,Ingles T.FOUL (P1.T1) (A.Nagy),,124-108,124,108
 0022001016,2021-05-08,UTA,HOU,45.83,4,2,10,HOU,HOU,ft_make,16,False,False,,Thomas Free Throw Technical (27 PTS),124-109,124,109
+0022001016,2021-05-08,UTA,HOU,45.83,4,2,10,UTA,UTA,tov,40,False,False,Ingles Out of Bounds Lost Ball Turnover (P3.T15),,124-108,124,108
 0022001016,2021-05-08,UTA,HOU,45.93,4,2,4,HOU,HOU,fg3_make,1,False,False,,Tate 26' 3PT Jump Shot (13 PTS) (Brooks 3 AST),124-112,124,112
 0022001016,2021-05-08,UTA,HOU,46.2,4,1,48,UTA,UTA,fg3_miss,1,False,False,MISS O'Neale 25' 3PT Jump Shot,,124-112,124,112
 0022001016,2021-05-08,UTA,HOU,46.23,4,1,46,HOU,HOU,reb,0,False,False,,Jeffries REBOUND (Off:1 Def:6),124-112,124,112

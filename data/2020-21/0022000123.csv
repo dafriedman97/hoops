@@ -43,8 +43,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000123,2021-01-08,DET,PHX,5.47,1,6,32,PHX,PHX,tov,1,False,True,,Paul Bad Pass Turnover (P1.T3),11-13,11,13
 0022000123,2021-01-08,DET,PHX,5.47,1,6,32,PHX,DET,steal,1,False,True,steal,steal,11-13,11,13
 0022000123,2021-01-08,DET,PHX,5.48,1,6,31,DET,DET,fg_miss,41,True,False,MISS Jackson 1' Running Layup,,11-13,11,13
-0022000123,2021-01-08,DET,PHX,5.48,1,6,31,DET,DET,reb,0,False,False,PISTONS Rebound,,11-13,11,13
 0022000123,2021-01-08,DET,PHX,5.48,1,6,31,DET,PHX,block,41,True,False,block,block,11-13,11,13
+0022000123,2021-01-08,DET,PHX,5.48,1,6,31,DET,DET,reb,0,False,False,PISTONS Rebound,,11-13,11,13
 0022000123,2021-01-08,DET,PHX,5.58,1,6,25,DET,DET,fg3_make,1,False,False,Jackson 24' 3PT Jump Shot (3 PTS) (Wright 1 AST),,14-13,14,13
 0022000123,2021-01-08,DET,PHX,5.82,1,6,11,PHX,PHX,tov,1,False,True,,Crowder Bad Pass Turnover (P1.T4),14-13,14,13
 0022000123,2021-01-08,DET,PHX,5.82,1,6,11,PHX,DET,steal,1,False,True,steal,steal,14-13,14,13
@@ -55,9 +55,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000123,2021-01-08,DET,PHX,6.67,1,5,20,PHX,PHX,tov,2,False,True,,Booker Lost Ball Turnover (P2.T5),16-16,16,16
 0022000123,2021-01-08,DET,PHX,6.67,1,5,20,PHX,DET,steal,2,False,True,steal,steal,16-16,16,16
 0022000123,2021-01-08,DET,PHX,6.72,1,5,17,DET,DET,fg_miss,74,True,False,MISS Wright 2' Running Reverse Layup,,16-16,16,16
+0022000123,2021-01-08,DET,PHX,6.72,1,5,17,DET,PHX,block,74,True,False,block,block,16-16,16,16
 0022000123,2021-01-08,DET,PHX,6.72,1,5,17,PHX,PHX,reb,0,False,False,,Suns Rebound,16-16,16,16
 0022000123,2021-01-08,DET,PHX,6.72,1,5,17,PHX,DET,foul,3,False,False,Jackson L.B.FOUL (P1.T2) (M.Davis),,16-16,16,16
-0022000123,2021-01-08,DET,PHX,6.72,1,5,17,DET,PHX,block,74,True,False,block,block,16-16,16,16
 0022000123,2021-01-08,DET,PHX,6.97,1,5,2,PHX,PHX,fg3_make,1,False,False,,Booker 27' 3PT Jump Shot (6 PTS),16-19,16,19
 0022000123,2021-01-08,DET,PHX,7.23,1,4,46,DET,PHX,foul,2,False,False,,Ayton S.FOUL (P1.T2) (M.Davis),16-19,16,19
 0022000123,2021-01-08,DET,PHX,7.23,1,4,46,DET,DET,ft_make,11,False,False,Grant Free Throw 1 of 2 (6 PTS),,17-19,17,19
@@ -195,10 +195,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000123,2021-01-08,DET,PHX,23.55,2,0,27,PHX,PHX,fg3_miss,1,False,False,,MISS Saric 3PT Jump Shot,48-56,48,56
 0022000123,2021-01-08,DET,PHX,23.62,2,0,23,DET,DET,reb,0,False,False,Griffin REBOUND (Off:0 Def:4),,48-56,48,56
 0022000123,2021-01-08,DET,PHX,23.98,2,0,1,DET,DET,tov,11,False,False,PISTONS Turnover: Shot Clock (T#10),,48-56,48,56
-0022000123,2021-01-08,DET,PHX,24.0,2,0,0,PHX,PHX,fg3_miss,1,False,False,,MISS Paul 69' 3PT Jump Shot,48-56,48,56
-0022000123,2021-01-08,DET,PHX,24.0,2,0,0,PHX,PHX,reb,0,False,False,,Suns Rebound,48-56,48,56
 0022000123,2021-01-08,DET,PHX,24.0,2,0,0,PHX,,period_end,0,False,False,,,48-56,48,56
 0022000123,2021-01-08,DET,PHX,24.0,3,12,0,PHX,,period_start,0,False,False,,,48-56,48,56
+0022000123,2021-01-08,DET,PHX,24.0,2,0,0,PHX,PHX,fg3_miss,1,False,False,,MISS Paul 69' 3PT Jump Shot,48-56,48,56
+0022000123,2021-01-08,DET,PHX,24.0,2,0,0,PHX,PHX,reb,0,False,False,,Suns Rebound,48-56,48,56
 0022000123,2021-01-08,DET,PHX,24.33,3,11,40,DET,DET,fg_miss,3,False,False,MISS Plumlee 5' Hook Shot,,48-56,48,56
 0022000123,2021-01-08,DET,PHX,24.37,3,11,38,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:0 Def:5),48-56,48,56
 0022000123,2021-01-08,DET,PHX,24.48,3,11,31,PHX,PHX,fg_make,86,False,False,,Ayton 4' Turnaround Fadeaway (8 PTS) (Paul 5 AST),48-58,48,58
@@ -314,10 +314,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000123,2021-01-08,DET,PHX,35.88,3,0,7,DET,DET,tov,2,False,True,Grant Lost Ball Turnover (P2.T13),,72-74,72,74
 0022000123,2021-01-08,DET,PHX,35.88,3,0,7,DET,PHX,steal,2,False,True,steal,steal,72-74,72,74
 0022000123,2021-01-08,DET,PHX,35.95,3,0,3,PHX,PHX,fg3_miss,1,False,False,,MISS Galloway 24' 3PT Jump Shot,72-74,72,74
-0022000123,2021-01-08,DET,PHX,35.98,3,0,1,PHX,PHX,reb,0,False,False,,Suns Rebound,72-74,72,74
 0022000123,2021-01-08,DET,PHX,35.98,3,0,1,PHX,DET,foul,3,False,False,Jackson L.B.FOUL (P1.PN) (M.Davis),,72-74,72,74
 0022000123,2021-01-08,DET,PHX,35.98,3,0,1,PHX,PHX,ft_make,11,False,False,,Saric Free Throw 1 of 2 (6 PTS),72-75,72,75
 0022000123,2021-01-08,DET,PHX,35.98,3,0,1,PHX,PHX,ft_make,12,False,False,,Saric Free Throw 2 of 2 (7 PTS),72-76,72,76
+0022000123,2021-01-08,DET,PHX,35.98,3,0,1,PHX,PHX,reb,0,False,False,,Suns Rebound,72-74,72,74
 0022000123,2021-01-08,DET,PHX,36.0,3,0,0,DET,DET,fg_miss,1,False,False,MISS Okafor 16' Jump Shot,,72-76,72,76
 0022000123,2021-01-08,DET,PHX,36.0,3,0,0,DET,DET,reb,0,False,False,PISTONS Rebound,,72-76,72,76
 0022000123,2021-01-08,DET,PHX,36.0,3,0,0,DET,,period_end,0,False,False,,,72-76,72,76
@@ -374,9 +374,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000123,2021-01-08,DET,PHX,42.07,4,5,56,DET,PHX,foul,1,False,False,,Booker P.FOUL (P3.T3) (J.Conley),78-84,78,84
 0022000123,2021-01-08,DET,PHX,42.13,4,5,52,DET,PHX,foul,1,False,False,,Crowder P.FOUL (P5.T4) (G.Petraitis),78-84,78,84
 0022000123,2021-01-08,DET,PHX,42.3,4,5,42,DET,DET,fg_miss,3,True,False,MISS Griffin 3' Hook Shot,,78-84,78,84
+0022000123,2021-01-08,DET,PHX,42.3,4,5,42,DET,PHX,block,3,True,False,block,block,78-84,78,84
 0022000123,2021-01-08,DET,PHX,42.3,4,5,42,DET,DET,reb,0,False,False,Griffin REBOUND (Off:1 Def:8),,78-84,78,84
 0022000123,2021-01-08,DET,PHX,42.3,4,5,42,DET,PHX,foul,1,False,False,,Saric P.FOUL (P2.PN) (M.Davis),78-84,78,84
-0022000123,2021-01-08,DET,PHX,42.3,4,5,42,DET,PHX,block,3,True,False,block,block,78-84,78,84
 0022000123,2021-01-08,DET,PHX,42.3,4,5,42,DET,DET,ft_make,11,False,False,Griffin Free Throw 1 of 2 (12 PTS),,79-84,79,84
 0022000123,2021-01-08,DET,PHX,42.3,4,5,42,DET,DET,ft_miss,12,False,False,MISS Griffin Free Throw 2 of 2,,79-84,79,84
 0022000123,2021-01-08,DET,PHX,42.35,4,5,39,DET,DET,reb,0,False,False,PISTONS Rebound,,79-84,79,84

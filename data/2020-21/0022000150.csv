@@ -12,8 +12,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000150,2021-01-11,CLE,MEM,1.72,1,10,17,CLE,CLE,reb,0,False,False,Drummond REBOUND (Off:0 Def:2),,4-2,4,2
 0022000150,2021-01-11,CLE,MEM,1.88,1,10,7,CLE,CLE,fg_make,7,False,False,Drummond 3' Dunk (2 PTS) (Nance Jr. 1 AST),,6-2,6,2
 0022000150,2021-01-11,CLE,MEM,2.17,1,9,50,MEM,MEM,fg_miss,73,True,False,,MISS Clarke 2' Driving Reverse Layup,6-2,6,2
-0022000150,2021-01-11,CLE,MEM,2.17,1,9,50,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,6-2,6,2
 0022000150,2021-01-11,CLE,MEM,2.17,1,9,50,MEM,CLE,block,73,True,False,block,block,6-2,6,2
+0022000150,2021-01-11,CLE,MEM,2.17,1,9,50,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,6-2,6,2
 0022000150,2021-01-11,CLE,MEM,2.22,1,9,47,MEM,CLE,foul,2,False,False,Drummond S.FOUL (P1.T1) (G.Petraitis),,6-2,6,2
 0022000150,2021-01-11,CLE,MEM,2.22,1,9,47,MEM,MEM,ft_make,11,False,False,,Clarke Free Throw 1 of 2 (1 PTS),6-3,6,3
 0022000150,2021-01-11,CLE,MEM,2.22,1,9,47,MEM,MEM,ft_miss,12,False,False,,MISS Clarke Free Throw 2 of 2,6-3,6,3
@@ -221,10 +221,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000150,2021-01-11,CLE,MEM,26.37,3,9,38,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 3 Short 0),,50-56,50,56
 0022000150,2021-01-11,CLE,MEM,26.62,3,9,23,CLE,MEM,foul,1,False,False,,Clarke P.FOUL (P1.T1) (C.Blair),50-56,50,56
 0022000150,2021-01-11,CLE,MEM,26.88,3,9,7,CLE,CLE,fg_miss,101,True,False,MISS Okoro 10' Driving Floating Jump Shot,,50-56,50,56
+0022000150,2021-01-11,CLE,MEM,26.88,3,9,7,CLE,MEM,block,101,True,False,block,block,50-56,50,56
 0022000150,2021-01-11,CLE,MEM,26.88,3,9,7,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,50-56,50,56
 0022000150,2021-01-11,CLE,MEM,26.88,3,9,7,CLE,CLE,tov,11,False,False,CAVALIERS Turnover: Shot Clock (T#12),,50-56,50,56
 0022000150,2021-01-11,CLE,MEM,26.88,3,9,7,CLE,MEM,violation,1,False,False,,Grizzlies Violation: Delay of game Violation,50-56,50,56
-0022000150,2021-01-11,CLE,MEM,26.88,3,9,7,CLE,MEM,block,101,True,False,block,block,50-56,50,56
 0022000150,2021-01-11,CLE,MEM,27.15,3,8,51,MEM,MEM,tov,2,False,True,,Clarke Lost Ball Turnover (P1.T7),50-56,50,56
 0022000150,2021-01-11,CLE,MEM,27.15,3,8,51,MEM,CLE,steal,2,False,True,steal,steal,50-56,50,56
 0022000150,2021-01-11,CLE,MEM,27.23,3,8,46,CLE,CLE,fg_make,50,False,False,Okoro 1' Running Dunk (9 PTS),,52-56,52,56
@@ -316,8 +316,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000150,2021-01-11,CLE,MEM,36.72,4,11,17,MEM,MEM,fg3_miss,80,False,False,,MISS Brooks 3PT Step Back Jump Shot,74-77,74,77
 0022000150,2021-01-11,CLE,MEM,36.73,4,11,16,CLE,CLE,reb,0,False,False,McGee REBOUND (Off:0 Def:6),,74-77,74,77
 0022000150,2021-01-11,CLE,MEM,37.07,4,10,56,CLE,CLE,fg_miss,98,True,False,MISS McGee 5' Cutting Layup Shot,,74-77,74,77
-0022000150,2021-01-11,CLE,MEM,37.07,4,10,56,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,74-77,74,77
 0022000150,2021-01-11,CLE,MEM,37.07,4,10,56,CLE,MEM,block,98,True,False,block,block,74-77,74,77
+0022000150,2021-01-11,CLE,MEM,37.07,4,10,56,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,74-77,74,77
 0022000150,2021-01-11,CLE,MEM,37.15,4,10,51,CLE,CLE,fg3_miss,1,False,False,MISS McGee 26' 3PT Jump Shot,,74-77,74,77
 0022000150,2021-01-11,CLE,MEM,37.15,4,10,51,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,74-77,74,77
 0022000150,2021-01-11,CLE,MEM,37.15,4,10,51,CLE,CLE,tov,11,False,False,CAVALIERS Turnover: Shot Clock (T#17),,74-77,74,77

@@ -107,13 +107,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800622,2019-01-11,WAS,MIL,11.93,1,0,4,MIL,MIL,fg3_miss,1,False,False,,MISS Snell 3PT Jump Shot,40-26,40,26
 0021800622,2019-01-11,WAS,MIL,11.98,1,0,1,MIL,MIL,reb,0,False,False,,Brogdon REBOUND (Off:1 Def:3),40-26,40,26
 0021800622,2019-01-11,WAS,MIL,12.0,1,0,0,MIL,MIL,fg_miss,5,True,False,,MISS Brogdon 4' Layup,40-26,40,26
+0021800622,2019-01-11,WAS,MIL,12.0,1,0,0,MIL,WAS,block,5,True,False,block,block,40-26,40,26
 0021800622,2019-01-11,WAS,MIL,12.0,1,0,0,WAS,WAS,reb,0,False,False,Porter Jr. REBOUND (Off:0 Def:3),,40-26,40,26
 0021800622,2019-01-11,WAS,MIL,12.0,1,0,0,WAS,,period_end,0,False,False,,,40-26,40,26
 0021800622,2019-01-11,WAS,MIL,12.0,2,12,0,WAS,,period_start,0,False,False,,,40-26,40,26
-0021800622,2019-01-11,WAS,MIL,12.0,1,0,0,MIL,WAS,block,5,True,False,block,block,40-26,40,26
 0021800622,2019-01-11,WAS,MIL,12.23,2,11,46,WAS,WAS,fg_miss,6,True,False,MISS Green 3' Driving Layup,,40-26,40,26
-0021800622,2019-01-11,WAS,MIL,12.23,2,11,46,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,40-26,40,26
 0021800622,2019-01-11,WAS,MIL,12.23,2,11,46,WAS,MIL,block,6,True,False,block,block,40-26,40,26
+0021800622,2019-01-11,WAS,MIL,12.23,2,11,46,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,40-26,40,26
 0021800622,2019-01-11,WAS,MIL,12.4,2,11,36,WAS,MIL,foul,2,False,False,,Snell S.FOUL (P1.T1) (T.Ford),40-26,40,26
 0021800622,2019-01-11,WAS,MIL,12.4,2,11,36,WAS,WAS,ft_miss,11,False,False,MISS Porter Jr. Free Throw 1 of 2,,40-26,40,26
 0021800622,2019-01-11,WAS,MIL,12.4,2,11,36,WAS,WAS,reb,1,False,False,WIZARDS Rebound,,40-26,40,26
@@ -133,8 +133,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800622,2019-01-11,WAS,MIL,13.22,2,10,47,MIL,MIL,ft_make,11,False,False,,Brogdon Free Throw 1 of 2 (3 PTS),42-27,42,27
 0021800622,2019-01-11,WAS,MIL,13.22,2,10,47,MIL,MIL,ft_make,12,False,False,,Brogdon Free Throw 2 of 2 (4 PTS),42-28,42,28
 0021800622,2019-01-11,WAS,MIL,13.47,2,10,32,WAS,WAS,fg_miss,6,True,False,MISS Randle 4' Driving Layup,,42-28,42,28
-0021800622,2019-01-11,WAS,MIL,13.47,2,10,32,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,42-28,42,28
 0021800622,2019-01-11,WAS,MIL,13.47,2,10,32,WAS,MIL,block,6,True,False,block,block,42-28,42,28
+0021800622,2019-01-11,WAS,MIL,13.47,2,10,32,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,42-28,42,28
 0021800622,2019-01-11,WAS,MIL,13.58,2,10,25,WAS,WAS,fg_miss,79,False,False,MISS Green 19' Pullup Jump Shot,,42-28,42,28
 0021800622,2019-01-11,WAS,MIL,13.62,2,10,23,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:0 Def:3),42-28,42,28
 0021800622,2019-01-11,WAS,MIL,13.72,2,10,17,MIL,MIL,tov,2,False,True,,Bledsoe Lost Ball Turnover (P1.T5),42-28,42,28
@@ -243,9 +243,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800622,2019-01-11,WAS,MIL,26.8,3,9,12,WAS,WAS,fg3_miss,1,False,False,MISS Green 26' 3PT Jump Shot,,63-55,63,55
 0021800622,2019-01-11,WAS,MIL,26.87,3,9,8,WAS,WAS,reb,0,False,False,Satoransky REBOUND (Off:3 Def:6),,63-55,63,55
 0021800622,2019-01-11,WAS,MIL,27.08,3,8,55,WAS,WAS,fg_miss,2,True,False,MISS Ariza 19' Running Jump Shot,,63-55,63,55
+0021800622,2019-01-11,WAS,MIL,27.08,3,8,55,WAS,MIL,block,2,True,False,block,block,63-55,63,55
 0021800622,2019-01-11,WAS,MIL,27.08,3,8,55,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,63-55,63,55
 0021800622,2019-01-11,WAS,MIL,27.08,3,8,55,WAS,WAS,tov,11,False,False,WIZARDS Turnover: Shot Clock (T#14),,63-55,63,55
-0021800622,2019-01-11,WAS,MIL,27.08,3,8,55,WAS,MIL,block,2,True,False,block,block,63-55,63,55
 0021800622,2019-01-11,WAS,MIL,27.38,3,8,37,MIL,MIL,fg_miss,73,False,False,,MISS Middleton 3' Driving Reverse Layup,63-55,63,55
 0021800622,2019-01-11,WAS,MIL,27.47,3,8,32,MIL,MIL,reb,0,False,False,,Lopez REBOUND (Off:1 Def:2),63-55,63,55
 0021800622,2019-01-11,WAS,MIL,27.53,3,8,28,MIL,MIL,fg_make,5,False,False,,Ilyasova 2' Layup (10 PTS) (Bledsoe 7 AST),63-57,63,57

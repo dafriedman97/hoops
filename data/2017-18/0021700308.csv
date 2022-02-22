@@ -9,8 +9,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700308,2017-11-29,HOU,IND,0.58,1,11,25,HOU,IND,steal,1,False,True,steal,steal,0-0,0,0
 0021700308,2017-11-29,HOU,IND,0.68,1,11,19,IND,IND,fg_make,5,False,False,,Collison 2' Layup (2 PTS),0-2,0,2
 0021700308,2017-11-29,HOU,IND,0.98,1,11,1,HOU,HOU,fg_miss,1,True,False,MISS Capela 5' Jump Shot,,0-2,0,2
-0021700308,2017-11-29,HOU,IND,0.98,1,11,1,IND,IND,reb,0,False,False,,Turner REBOUND (Off:0 Def:2),0-2,0,2
 0021700308,2017-11-29,HOU,IND,0.98,1,11,1,HOU,IND,block,1,True,False,block,block,0-2,0,2
+0021700308,2017-11-29,HOU,IND,0.98,1,11,1,IND,IND,reb,0,False,False,,Turner REBOUND (Off:0 Def:2),0-2,0,2
 0021700308,2017-11-29,HOU,IND,1.15,1,10,51,IND,IND,fg_miss,5,False,False,,MISS Collison 1' Layup,0-2,0,2
 0021700308,2017-11-29,HOU,IND,1.15,1,10,51,HOU,HOU,reb,0,False,False,Anderson REBOUND (Off:0 Def:2),,0-2,0,2
 0021700308,2017-11-29,HOU,IND,1.32,1,10,41,HOU,HOU,fg3_miss,1,False,False,MISS Harden 26' 3PT Jump Shot,,0-2,0,2
@@ -77,8 +77,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700308,2017-11-29,HOU,IND,9.32,1,2,41,HOU,HOU,fg3_miss,1,False,False,MISS Gordon 25' 3PT Jump Shot,,22-22,22,22
 0021700308,2017-11-29,HOU,IND,9.38,1,2,37,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:2 Def:2),,22-22,22,22
 0021700308,2017-11-29,HOU,IND,9.5,1,2,30,HOU,HOU,fg_miss,1,False,False,MISS Harden 22' Jump Shot,,22-22,22,22
-0021700308,2017-11-29,HOU,IND,9.5,1,2,30,IND,IND,reb,0,False,False,,Pacers Rebound,22-22,22,22
 0021700308,2017-11-29,HOU,IND,9.5,1,2,30,IND,HOU,foul,3,False,False,Capela L.B.FOUL (P1.T2) (C.Kirkland),,22-22,22,22
+0021700308,2017-11-29,HOU,IND,9.5,1,2,30,IND,IND,reb,0,False,False,,Pacers Rebound,22-22,22,22
 0021700308,2017-11-29,HOU,IND,9.5,1,2,30,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 1 Short 0),,22-22,22,22
 0021700308,2017-11-29,HOU,IND,9.85,1,2,9,IND,IND,fg3_make,1,False,False,,Stephenson 26' 3PT Jump Shot (3 PTS) (Oladipo 2 AST),22-25,22,25
 0021700308,2017-11-29,HOU,IND,10.03,1,1,58,HOU,HOU,tov,1,False,True,Gordon Bad Pass Turnover (P1.T4),,22-25,22,25
@@ -90,13 +90,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700308,2017-11-29,HOU,IND,10.72,1,1,17,IND,IND,fg_miss,98,False,False,,MISS Turner 2' Cutting Layup Shot,22-27,22,27
 0021700308,2017-11-29,HOU,IND,10.77,1,1,14,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:2 Def:3),,22-27,22,27
 0021700308,2017-11-29,HOU,IND,10.83,1,1,10,HOU,HOU,fg_miss,6,True,False,MISS Harden 2' Driving Layup,,22-27,22,27
-0021700308,2017-11-29,HOU,IND,10.83,1,1,10,IND,IND,reb,0,False,False,,Stephenson REBOUND (Off:0 Def:1),22-27,22,27
 0021700308,2017-11-29,HOU,IND,10.83,1,1,10,HOU,IND,block,6,True,False,block,block,22-27,22,27
+0021700308,2017-11-29,HOU,IND,10.83,1,1,10,IND,IND,reb,0,False,False,,Stephenson REBOUND (Off:0 Def:1),22-27,22,27
 0021700308,2017-11-29,HOU,IND,10.98,1,1,1,IND,IND,fg3_miss,1,False,False,,MISS Oladipo 26' 3PT Jump Shot,22-27,22,27
 0021700308,2017-11-29,HOU,IND,10.98,1,1,1,HOU,HOU,reb,0,False,False,Nene REBOUND (Off:0 Def:1),,22-27,22,27
 0021700308,2017-11-29,HOU,IND,11.13,1,0,52,HOU,HOU,fg_miss,6,True,False,MISS Gordon 2' Driving Layup,,22-27,22,27
-0021700308,2017-11-29,HOU,IND,11.13,1,0,52,IND,IND,reb,0,False,False,,Turner REBOUND (Off:0 Def:5),22-27,22,27
 0021700308,2017-11-29,HOU,IND,11.13,1,0,52,HOU,IND,block,6,True,False,block,block,22-27,22,27
+0021700308,2017-11-29,HOU,IND,11.13,1,0,52,IND,IND,reb,0,False,False,,Turner REBOUND (Off:0 Def:5),22-27,22,27
 0021700308,2017-11-29,HOU,IND,11.3,1,0,42,IND,IND,fg3_miss,1,False,False,,MISS Turner 24' 3PT Jump Shot,22-27,22,27
 0021700308,2017-11-29,HOU,IND,11.3,1,0,42,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,22-27,22,27
 0021700308,2017-11-29,HOU,IND,11.32,1,0,41,HOU,IND,foul,3,False,False,,Sabonis L.B.FOUL (P1.T1) (M.Smith),22-27,22,27
@@ -186,9 +186,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700308,2017-11-29,HOU,IND,20.38,2,3,37,HOU,HOU,fg_make,5,False,False,Gordon 7' Layup (6 PTS),,48-41,48,41
 0021700308,2017-11-29,HOU,IND,21.02,2,2,59,IND,IND,fg_make,5,False,False,,Oladipo Layup (10 PTS) (Young 2 AST),48-43,48,43
 0021700308,2017-11-29,HOU,IND,21.02,2,2,59,HOU,HOU,fg_miss,5,False,False,MISS Capela 3' Layup,,48-43,48,43
-0021700308,2017-11-29,HOU,IND,21.02,2,2,59,IND,IND,tov,45,False,False,,Young Out of Bounds - Bad Pass Turnover Turnover (P1.T4),48-43,48,43
 0021700308,2017-11-29,HOU,IND,21.02,2,2,59,IND,IND,reb,0,False,False,,Turner REBOUND (Off:0 Def:7),48-43,48,43
 0021700308,2017-11-29,HOU,IND,21.02,2,2,59,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 2 Short 0),,48-43,48,43
+0021700308,2017-11-29,HOU,IND,21.02,2,2,59,IND,IND,tov,45,False,False,,Young Out of Bounds - Bad Pass Turnover Turnover (P1.T4),48-43,48,43
 0021700308,2017-11-29,HOU,IND,21.22,2,2,47,HOU,HOU,fg_miss,5,False,False,MISS Harden 4' Layup,,48-43,48,43
 0021700308,2017-11-29,HOU,IND,21.28,2,2,43,IND,IND,reb,0,False,False,,Turner REBOUND (Off:0 Def:8),48-43,48,43
 0021700308,2017-11-29,HOU,IND,21.42,2,2,35,IND,IND,fg_make,5,False,False,,Turner 2' Layup (4 PTS) (Oladipo 3 AST),48-45,48,45

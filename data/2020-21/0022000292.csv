@@ -7,8 +7,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000292,2021-01-29,TOR,SAC,1.33,1,10,40,SAC,SAC,tov,2,False,True,,Fox Lost Ball Turnover (P1.T1),4-2,4,2
 0022000292,2021-01-29,TOR,SAC,1.33,1,10,40,SAC,TOR,steal,2,False,True,steal,steal,4-2,4,2
 0022000292,2021-01-29,TOR,SAC,1.37,1,10,38,TOR,TOR,fg_miss,6,True,False,MISS VanVleet 3' Driving Layup,,4-2,4,2
-0022000292,2021-01-29,TOR,SAC,1.37,1,10,38,SAC,SAC,reb,0,False,False,,Kings Rebound,4-2,4,2
 0022000292,2021-01-29,TOR,SAC,1.37,1,10,38,TOR,SAC,block,6,True,False,block,block,4-2,4,2
+0022000292,2021-01-29,TOR,SAC,1.37,1,10,38,SAC,SAC,reb,0,False,False,,Kings Rebound,4-2,4,2
 0022000292,2021-01-29,TOR,SAC,1.57,1,10,26,SAC,TOR,foul,2,False,False,Davis S.FOUL (P1.T1) (R.Mott),,4-2,4,2
 0022000292,2021-01-29,TOR,SAC,1.57,1,10,26,SAC,SAC,ft_make,11,False,False,,Barnes Free Throw 1 of 2 (3 PTS),4-3,4,3
 0022000292,2021-01-29,TOR,SAC,1.57,1,10,26,SAC,SAC,ft_make,12,False,False,,Barnes Free Throw 2 of 2 (4 PTS),4-4,4,4
@@ -40,9 +40,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000292,2021-01-29,TOR,SAC,5.05,1,6,57,TOR,TOR,tov,2,False,True,Baynes Lost Ball Turnover (P1.T1),,12-13,12,13
 0022000292,2021-01-29,TOR,SAC,5.05,1,6,57,TOR,SAC,steal,2,False,True,steal,steal,12-13,12,13
 0022000292,2021-01-29,TOR,SAC,5.13,1,6,52,SAC,SAC,fg_miss,6,True,False,,MISS Fox 4' Driving Layup,12-13,12,13
+0022000292,2021-01-29,TOR,SAC,5.13,1,6,52,SAC,TOR,block,6,True,False,block,block,12-13,12,13
 0022000292,2021-01-29,TOR,SAC,5.13,1,6,52,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,12-13,12,13
 0022000292,2021-01-29,TOR,SAC,5.13,1,6,52,TOR,TOR,timeout,1,False,False,RAPTORS Timeout: Regular (Full 1 Short 0),,12-13,12,13
-0022000292,2021-01-29,TOR,SAC,5.13,1,6,52,SAC,TOR,block,6,True,False,block,block,12-13,12,13
 0022000292,2021-01-29,TOR,SAC,5.3,1,6,42,SAC,TOR,foul,4,False,False,Siakam OFF.Foul (P1) (N.Sago),,12-13,12,13
 0022000292,2021-01-29,TOR,SAC,5.3,1,6,42,TOR,TOR,tov,37,False,False,Siakam Offensive Foul Turnover (P1.T2),,12-13,12,13
 0022000292,2021-01-29,TOR,SAC,5.58,1,6,25,SAC,SAC,fg3_miss,1,False,False,,MISS Fox 26' 3PT Jump Shot,12-13,12,13
@@ -96,8 +96,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000292,2021-01-29,TOR,SAC,11.3,1,0,42,TOR,TOR,fg_make,87,False,False,Boucher 1' Putback Dunk (2 PTS),,24-30,24,30
 0022000292,2021-01-29,TOR,SAC,11.52,1,0,29,SAC,SAC,fg3_make,1,False,False,,Barnes 26' 3PT Jump Shot (10 PTS) (Haliburton 4 AST),24-33,24,33
 0022000292,2021-01-29,TOR,SAC,11.83,1,0,10,TOR,TOR,tov,1,False,True,Lowry Bad Pass Turnover (P2.T4),,24-33,24,33
-0022000292,2021-01-29,TOR,SAC,11.83,1,0,10,SAC,TOR,foul,1,False,False,Lowry P.FOUL (P1.T4) (N.Sago),,24-33,24,33
 0022000292,2021-01-29,TOR,SAC,11.83,1,0,10,TOR,SAC,steal,1,False,True,steal,steal,24-33,24,33
+0022000292,2021-01-29,TOR,SAC,11.83,1,0,10,SAC,TOR,foul,1,False,False,Lowry P.FOUL (P1.T4) (N.Sago),,24-33,24,33
 0022000292,2021-01-29,TOR,SAC,12.0,1,0,0,SAC,SAC,fg3_make,1,False,False,,Barnes 25' 3PT Jump Shot (13 PTS) (Robinson III 1 AST),24-36,24,36
 0022000292,2021-01-29,TOR,SAC,12.0,1,0,0,SAC,,period_end,0,False,False,,,24-36,24,36
 0022000292,2021-01-29,TOR,SAC,12.0,2,12,0,SAC,,period_start,0,False,False,,,24-36,24,36
@@ -146,8 +146,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000292,2021-01-29,TOR,SAC,17.52,2,6,29,SAC,SAC,fg_miss,101,False,False,,MISS Hield 13' Driving Floating Jump Shot,38-50,38,50
 0022000292,2021-01-29,TOR,SAC,17.57,2,6,26,TOR,TOR,reb,0,False,False,VanVleet REBOUND (Off:0 Def:2),,38-50,38,50
 0022000292,2021-01-29,TOR,SAC,17.63,2,6,22,TOR,TOR,fg_miss,5,False,False,MISS Siakam 4' Layup,,38-50,38,50
-0022000292,2021-01-29,TOR,SAC,17.67,2,6,20,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,38-50,38,50
 0022000292,2021-01-29,TOR,SAC,17.67,2,6,20,,TOR,jump_ball,0,False,False,Jump Ball Baynes vs. Holmes: Tip to VanVleet,,38-50,38,50
+0022000292,2021-01-29,TOR,SAC,17.67,2,6,20,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,38-50,38,50
 0022000292,2021-01-29,TOR,SAC,17.82,2,6,11,TOR,TOR,fg_miss,6,True,False,MISS VanVleet 4' Driving Layup,,38-50,38,50
 0022000292,2021-01-29,TOR,SAC,17.82,2,6,11,TOR,SAC,block,6,True,False,block,block,38-50,38,50
 0022000292,2021-01-29,TOR,SAC,17.83,2,6,10,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,38-50,38,50
@@ -188,11 +188,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000292,2021-01-29,TOR,SAC,20.62,2,3,23,SAC,SAC,tov,1,False,True,,Hield Bad Pass Turnover (P1.T8),47-58,47,58
 0022000292,2021-01-29,TOR,SAC,20.62,2,3,23,SAC,TOR,steal,1,False,True,steal,steal,47-58,47,58
 0022000292,2021-01-29,TOR,SAC,20.8,2,3,12,TOR,TOR,tov,1,False,True,Siakam Bad Pass Turnover (P2.T8),,47-58,47,58
+0022000292,2021-01-29,TOR,SAC,20.8,2,3,12,TOR,SAC,steal,1,False,True,steal,steal,47-58,47,58
 0022000292,2021-01-29,TOR,SAC,20.8,2,3,12,SAC,TOR,foul,1,False,False,Baynes P.FOUL (P1.PN) (N.Sago),,47-58,47,58
 0022000292,2021-01-29,TOR,SAC,20.8,2,3,12,SAC,SAC,ft_miss,11,False,False,,MISS Bagley III Free Throw 1 of 2,47-58,47,58
 0022000292,2021-01-29,TOR,SAC,20.8,2,3,12,SAC,SAC,reb,1,False,False,,Kings Rebound,47-58,47,58
 0022000292,2021-01-29,TOR,SAC,20.8,2,3,12,SAC,SAC,ft_miss,12,False,False,,MISS Bagley III Free Throw 2 of 2,47-58,47,58
-0022000292,2021-01-29,TOR,SAC,20.8,2,3,12,TOR,SAC,steal,1,False,True,steal,steal,47-58,47,58
 0022000292,2021-01-29,TOR,SAC,20.83,2,3,10,TOR,TOR,reb,0,False,False,Baynes REBOUND (Off:1 Def:4),,47-58,47,58
 0022000292,2021-01-29,TOR,SAC,21.15,2,2,51,TOR,TOR,fg_make,5,False,False,Bembry 1' Layup (2 PTS),,49-58,49,58
 0022000292,2021-01-29,TOR,SAC,21.5,2,2,30,SAC,SAC,fg_miss,3,False,False,,MISS Holmes 6' Hook Shot,49-58,49,58
@@ -200,8 +200,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000292,2021-01-29,TOR,SAC,21.75,2,2,15,SAC,SAC,fg_make,1,False,False,,Hield 19' Jump Shot (10 PTS) (Holmes 2 AST),49-60,49,60
 0022000292,2021-01-29,TOR,SAC,21.95,2,2,3,TOR,TOR,fg_make,5,False,False,Lowry 2' Layup (4 PTS),,51-60,51,60
 0022000292,2021-01-29,TOR,SAC,22.02,2,1,59,SAC,SAC,tov,1,False,True,,Fox Bad Pass Turnover (P2.T9),51-60,51,60
-0022000292,2021-01-29,TOR,SAC,22.02,2,1,59,TOR,SAC,foul,1,False,False,,Barnes P.FOUL (P1.PN) (N.Sago),51-60,51,60
 0022000292,2021-01-29,TOR,SAC,22.02,2,1,59,SAC,TOR,steal,1,False,True,steal,steal,51-60,51,60
+0022000292,2021-01-29,TOR,SAC,22.02,2,1,59,TOR,SAC,foul,1,False,False,,Barnes P.FOUL (P1.PN) (N.Sago),51-60,51,60
 0022000292,2021-01-29,TOR,SAC,22.02,2,1,59,TOR,TOR,ft_make,11,False,False,Thomas Free Throw 1 of 2 (1 PTS),,52-60,52,60
 0022000292,2021-01-29,TOR,SAC,22.02,2,1,59,TOR,TOR,ft_make,12,False,False,Thomas Free Throw 2 of 2 (2 PTS),,53-60,53,60
 0022000292,2021-01-29,TOR,SAC,22.2,2,1,48,SAC,SAC,fg_make,66,False,False,,Haliburton 16' Jump Bank Shot (2 PTS),53-62,53,62
@@ -272,8 +272,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000292,2021-01-29,TOR,SAC,28.88,3,7,7,TOR,TOR,fg3_miss,1,False,False,MISS VanVleet 26' 3PT Jump Shot,,70-85,70,85
 0022000292,2021-01-29,TOR,SAC,28.93,3,7,4,SAC,SAC,reb,0,False,False,,Barnes REBOUND (Off:2 Def:2),70-85,70,85
 0022000292,2021-01-29,TOR,SAC,28.98,3,7,1,SAC,SAC,tov,1,False,True,,Barnes Bad Pass Turnover (P1.T11),70-85,70,85
-0022000292,2021-01-29,TOR,SAC,28.98,3,7,1,TOR,SAC,foul,1,False,False,,Hield P.FOUL (P1.PN) (N.Sago),70-85,70,85
 0022000292,2021-01-29,TOR,SAC,28.98,3,7,1,SAC,TOR,steal,1,False,True,steal,steal,70-85,70,85
+0022000292,2021-01-29,TOR,SAC,28.98,3,7,1,TOR,SAC,foul,1,False,False,,Hield P.FOUL (P1.PN) (N.Sago),70-85,70,85
 0022000292,2021-01-29,TOR,SAC,29.02,3,6,59,TOR,SAC,foul,2,False,False,,Whiteside S.FOUL (P1.PN) (N.Sago),70-85,70,85
 0022000292,2021-01-29,TOR,SAC,29.02,3,6,59,TOR,TOR,timeout,1,False,False,RAPTORS Timeout: Regular (Full 3 Short 0),,70-85,70,85
 0022000292,2021-01-29,TOR,SAC,29.02,3,6,59,TOR,TOR,ft_make,11,False,False,Siakam Free Throw 1 of 2 (18 PTS),,71-85,71,85
@@ -288,8 +288,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000292,2021-01-29,TOR,SAC,30.13,3,5,52,TOR,TOR,ft_miss,12,False,False,MISS Siakam Free Throw 2 of 2,,74-88,74,88
 0022000292,2021-01-29,TOR,SAC,30.17,3,5,50,SAC,SAC,reb,0,False,False,,Whiteside REBOUND (Off:0 Def:5),74-88,74,88
 0022000292,2021-01-29,TOR,SAC,30.45,3,5,33,SAC,SAC,fg3_miss,1,False,False,,MISS Haliburton 27' 3PT Jump Shot,74-88,74,88
-0022000292,2021-01-29,TOR,SAC,30.55,3,5,27,SAC,SAC,fg_make,72,False,False,,Whiteside Putback Layup (14 PTS),74-90,74,90
 0022000292,2021-01-29,TOR,SAC,30.55,3,5,27,SAC,SAC,reb,0,False,False,,Whiteside REBOUND (Off:1 Def:5),74-90,74,90
+0022000292,2021-01-29,TOR,SAC,30.55,3,5,27,SAC,SAC,fg_make,72,False,False,,Whiteside Putback Layup (14 PTS),74-90,74,90
 0022000292,2021-01-29,TOR,SAC,30.65,3,5,21,TOR,TOR,fg3_miss,1,False,False,MISS Lowry 25' 3PT Jump Shot,,74-90,74,90
 0022000292,2021-01-29,TOR,SAC,30.7,3,5,18,SAC,SAC,reb,0,False,False,,Whiteside REBOUND (Off:1 Def:6),74-90,74,90
 0022000292,2021-01-29,TOR,SAC,30.85,3,5,9,SAC,SAC,fg3_miss,1,False,False,,MISS Haliburton 3PT Jump Shot,74-90,74,90
@@ -464,8 +464,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000292,2021-01-29,TOR,SAC,47.93,4,0,4,SAC,TOR,foul,28,False,False,Bembry Personal Take Foul (P3.PN) (R.Mott),,121-123,121,123
 0022000292,2021-01-29,TOR,SAC,47.93,4,0,4,SAC,SAC,ft_make,11,False,False,,Fox Free Throw 1 of 2 (23 PTS),121-124,121,124
 0022000292,2021-01-29,TOR,SAC,47.93,4,0,4,SAC,TOR,foul,11,False,False,Lowry T.FOUL (P3.PN) (N.Sago),,121-124,121,124
-0022000292,2021-01-29,TOR,SAC,47.93,4,0,4,SAC,TOR,ejection,4,False,False,Lowry Ejection:Other,,121-124,121,124
 0022000292,2021-01-29,TOR,SAC,47.93,4,0,4,SAC,SAC,ft_make,16,False,False,,Hield Free Throw Technical (22 PTS),121-125,121,125
 0022000292,2021-01-29,TOR,SAC,47.93,4,0,4,SAC,SAC,ft_make,12,False,False,,Fox Free Throw 2 of 2 (24 PTS),121-126,121,126
+0022000292,2021-01-29,TOR,SAC,47.93,4,0,4,SAC,TOR,ejection,4,False,False,Lowry Ejection:Other,,121-124,121,124
 0022000292,2021-01-29,TOR,SAC,48.0,4,0,0,TOR,TOR,fg3_make,1,False,False,VanVleet 26' 3PT Jump Shot (26 PTS),,124-126,124,126
 0022000292,2021-01-29,TOR,SAC,48.0,4,0,0,TOR,,period_end,0,False,False,,,124-126,124,126

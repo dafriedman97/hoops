@@ -25,8 +25,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000378,2021-02-09,SAS,GSW,2.58,1,9,25,GSW,GSW,fg_miss,97,False,False,,MISS Toscano-Anderson Tip Layup Shot,4-3,4,3
 0022000378,2021-02-09,SAS,GSW,2.6,1,9,24,SAS,SAS,reb,0,False,False,Johnson REBOUND (Off:0 Def:1),,4-3,4,3
 0022000378,2021-02-09,SAS,GSW,2.73,1,9,16,SAS,SAS,fg_miss,78,True,False,MISS Johnson 5' Floating Jump Shot,,4-3,4,3
-0022000378,2021-02-09,SAS,GSW,2.73,1,9,16,SAS,SAS,reb,0,False,False,SPURS Rebound,,4-3,4,3
 0022000378,2021-02-09,SAS,GSW,2.73,1,9,16,SAS,GSW,block,78,True,False,block,block,4-3,4,3
+0022000378,2021-02-09,SAS,GSW,2.73,1,9,16,SAS,SAS,reb,0,False,False,SPURS Rebound,,4-3,4,3
 0022000378,2021-02-09,SAS,GSW,2.92,1,9,5,SAS,SAS,fg_make,79,False,False,Murray 16' Pullup Jump Shot (4 PTS),,6-3,6,3
 0022000378,2021-02-09,SAS,GSW,3.1,1,8,54,GSW,GSW,fg3_miss,1,False,False,,MISS Oubre Jr. 3PT Jump Shot,6-3,6,3
 0022000378,2021-02-09,SAS,GSW,3.15,1,8,51,SAS,SAS,reb,0,False,False,Poeltl REBOUND (Off:0 Def:2),,6-3,6,3
@@ -40,8 +40,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000378,2021-02-09,SAS,GSW,4.12,1,7,53,GSW,GSW,reb,0,False,False,,Oubre Jr. REBOUND (Off:0 Def:2),8-6,8,6
 0022000378,2021-02-09,SAS,GSW,4.4,1,7,36,GSW,GSW,fg_make,101,False,False,,Oubre Jr. 7' Driving Floating Jump Shot (2 PTS) (Green 2 AST),8-8,8,8
 0022000378,2021-02-09,SAS,GSW,4.67,1,7,20,SAS,SAS,fg_miss,5,False,False,MISS Johnson 1' Layup,,8-8,8,8
-0022000378,2021-02-09,SAS,GSW,4.75,1,7,15,SAS,SAS,fg_make,97,False,False,Poeltl Tip Layup Shot (2 PTS),,10-8,10,8
 0022000378,2021-02-09,SAS,GSW,4.75,1,7,15,SAS,SAS,reb,0,False,False,Poeltl REBOUND (Off:1 Def:2),,10-8,10,8
+0022000378,2021-02-09,SAS,GSW,4.75,1,7,15,SAS,SAS,fg_make,97,False,False,Poeltl Tip Layup Shot (2 PTS),,10-8,10,8
 0022000378,2021-02-09,SAS,GSW,4.93,1,7,4,GSW,GSW,fg3_miss,79,False,False,,MISS Curry 28' 3PT Pullup Jump Shot,10-8,10,8
 0022000378,2021-02-09,SAS,GSW,4.97,1,7,2,SAS,SAS,reb,0,False,False,Johnson REBOUND (Off:0 Def:2),,10-8,10,8
 0022000378,2021-02-09,SAS,GSW,5.07,1,6,56,SAS,SAS,fg_make,5,False,False,Murray 1' Layup (6 PTS) (Johnson 1 AST),,12-8,12,8
@@ -52,8 +52,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000378,2021-02-09,SAS,GSW,5.25,1,6,45,GSW,GSW,ft_miss,12,False,False,,MISS Toscano-Anderson Free Throw 2 of 2,12-8,12,8
 0022000378,2021-02-09,SAS,GSW,5.3,1,6,42,SAS,SAS,reb,0,False,False,Vassell REBOUND (Off:0 Def:1),,12-8,12,8
 0022000378,2021-02-09,SAS,GSW,5.63,1,6,22,SAS,SAS,tov,1,False,True,Murray Bad Pass Turnover (P2.T2),,12-8,12,8
-0022000378,2021-02-09,SAS,GSW,5.63,1,6,22,GSW,GSW,tov,40,False,False,,Wiggins Out of Bounds Lost Ball Turnover (P1.T3),12-8,12,8
 0022000378,2021-02-09,SAS,GSW,5.63,1,6,22,SAS,GSW,steal,1,False,True,steal,steal,12-8,12,8
+0022000378,2021-02-09,SAS,GSW,5.63,1,6,22,GSW,GSW,tov,40,False,False,,Wiggins Out of Bounds Lost Ball Turnover (P1.T3),12-8,12,8
 0022000378,2021-02-09,SAS,GSW,5.85,1,6,9,SAS,SAS,fg_make,71,False,False,Johnson Finger Roll Layup (2 PTS) (DeRozan 2 AST),,14-8,14,8
 0022000378,2021-02-09,SAS,GSW,6.1,1,5,54,GSW,SAS,foul,1,False,False,Mills P.FOUL (P1.T4) (T.Brothers),,14-8,14,8
 0022000378,2021-02-09,SAS,GSW,6.18,1,5,49,GSW,GSW,fg_miss,5,False,False,,MISS Curry Layup,14-8,14,8
@@ -64,9 +64,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000378,2021-02-09,SAS,GSW,6.48,1,5,31,GSW,SAS,block,7,True,False,block,block,14-8,14,8
 0022000378,2021-02-09,SAS,GSW,6.58,1,5,25,GSW,GSW,reb,0,False,False,,Toscano-Anderson REBOUND (Off:2 Def:0),14-8,14,8
 0022000378,2021-02-09,SAS,GSW,6.58,1,5,25,GSW,GSW,fg_miss,72,True,False,,MISS Toscano-Anderson Putback Layup,14-8,14,8
+0022000378,2021-02-09,SAS,GSW,6.58,1,5,25,GSW,SAS,block,72,True,False,block,block,14-8,14,8
 0022000378,2021-02-09,SAS,GSW,6.58,1,5,25,SAS,SAS,reb,0,False,False,Vassell REBOUND (Off:0 Def:2),,14-8,14,8
 0022000378,2021-02-09,SAS,GSW,6.58,1,5,25,SAS,GSW,foul,2,False,False,,Bazemore S.FOUL (P1.T1) (T.Brothers),14-8,14,8
-0022000378,2021-02-09,SAS,GSW,6.58,1,5,25,GSW,SAS,block,72,True,False,block,block,14-8,14,8
 0022000378,2021-02-09,SAS,GSW,6.58,1,5,25,SAS,SAS,ft_make,11,False,False,Johnson Free Throw 1 of 2 (3 PTS),,15-8,15,8
 0022000378,2021-02-09,SAS,GSW,6.58,1,5,25,SAS,SAS,ft_make,12,False,False,Johnson Free Throw 2 of 2 (4 PTS),,16-8,16,8
 0022000378,2021-02-09,SAS,GSW,6.72,1,5,17,GSW,GSW,fg3_miss,79,False,False,,MISS Curry 27' 3PT Pullup Jump Shot,16-8,16,8
@@ -152,8 +152,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000378,2021-02-09,SAS,GSW,15.8,2,8,12,GSW,GSW,fg3_miss,1,False,False,,MISS Wanamaker 3PT Jump Shot,32-38,32,38
 0022000378,2021-02-09,SAS,GSW,15.88,2,8,7,GSW,GSW,reb,0,False,False,,Oubre Jr. REBOUND (Off:1 Def:3),32-38,32,38
 0022000378,2021-02-09,SAS,GSW,15.9,2,8,6,GSW,GSW,fg_miss,5,True,False,,MISS Oubre Jr. 4' Layup,32-38,32,38
-0022000378,2021-02-09,SAS,GSW,15.9,2,8,6,GSW,GSW,reb,0,False,False,,Paschall REBOUND (Off:1 Def:1),32-38,32,38
 0022000378,2021-02-09,SAS,GSW,15.9,2,8,6,GSW,SAS,block,5,True,False,block,block,32-38,32,38
+0022000378,2021-02-09,SAS,GSW,15.9,2,8,6,GSW,GSW,reb,0,False,False,,Paschall REBOUND (Off:1 Def:1),32-38,32,38
 0022000378,2021-02-09,SAS,GSW,15.92,2,8,5,GSW,GSW,fg3_miss,1,False,False,,MISS Lee 27' 3PT Jump Shot,32-38,32,38
 0022000378,2021-02-09,SAS,GSW,15.92,2,8,5,SAS,SAS,reb,0,False,False,SPURS Rebound,,32-38,32,38
 0022000378,2021-02-09,SAS,GSW,16.32,2,7,41,SAS,SAS,fg_make,71,False,False,Johnson 2' Finger Roll Layup (6 PTS),,34-38,34,38
@@ -340,8 +340,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000378,2021-02-09,SAS,GSW,38.02,4,9,59,GSW,GSW,fg_make,6,False,False,,Wiggins 3' Driving Layup (10 PTS) (Wanamaker 2 AST),76-90,76,90
 0022000378,2021-02-09,SAS,GSW,38.02,4,9,59,GSW,SAS,foul,2,False,False,Johnson S.FOUL (P1.T1) (M.Ervin),,76-90,76,90
 0022000378,2021-02-09,SAS,GSW,38.02,4,9,59,SAS,SAS,timeout,7,False,False,SPURS Timeout: Coach Challenge (Full 5 Short 0),,76-90,76,90
-0022000378,2021-02-09,SAS,GSW,38.02,4,9,59,SAS,SAS,timeout,1,False,False,SPURS Timeout: Regular (Full 6 Short 0),,76-90,76,90
 0022000378,2021-02-09,SAS,GSW,38.02,4,9,59,SAS,GSW,ft_make,10,False,False,,Wiggins Free Throw 1 of 1 (11 PTS),76-91,76,91
+0022000378,2021-02-09,SAS,GSW,38.02,4,9,59,SAS,SAS,timeout,1,False,False,SPURS Timeout: Regular (Full 6 Short 0),,76-90,76,90
 0022000378,2021-02-09,SAS,GSW,38.27,4,9,44,SAS,SAS,tov,2,False,True,Johnson Lost Ball Turnover (P2.T11),,76-91,76,91
 0022000378,2021-02-09,SAS,GSW,38.27,4,9,44,SAS,GSW,steal,2,False,True,steal,steal,76-91,76,91
 0022000378,2021-02-09,SAS,GSW,38.38,4,9,37,GSW,GSW,fg_miss,5,False,False,,MISS Wanamaker 1' Layup,76-91,76,91
@@ -399,13 +399,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000378,2021-02-09,SAS,GSW,44.43,4,3,34,SAS,SAS,reb,0,False,False,Poeltl REBOUND (Off:1 Def:4),,86-106,86,106
 0022000378,2021-02-09,SAS,GSW,44.53,4,3,28,SAS,SAS,timeout,1,False,False,SPURS Timeout: Regular (Full 7 Short 0),,86-106,86,106
 0022000378,2021-02-09,SAS,GSW,44.7,4,3,18,SAS,SAS,fg_miss,6,True,False,MISS Bates-Diop 7' Driving Layup,,86-106,86,106
-0022000378,2021-02-09,SAS,GSW,44.7,4,3,18,SAS,SAS,reb,0,False,False,SPURS Rebound,,86-106,86,106
 0022000378,2021-02-09,SAS,GSW,44.7,4,3,18,SAS,GSW,block,6,True,False,block,block,86-106,86,106
+0022000378,2021-02-09,SAS,GSW,44.7,4,3,18,SAS,SAS,reb,0,False,False,SPURS Rebound,,86-106,86,106
 0022000378,2021-02-09,SAS,GSW,44.77,4,3,14,SAS,SAS,fg_miss,1,False,False,MISS Walker IV 14' Jump Shot,,86-106,86,106
 0022000378,2021-02-09,SAS,GSW,44.82,4,3,11,GSW,GSW,reb,0,False,False,,Wanamaker REBOUND (Off:0 Def:3),86-106,86,106
 0022000378,2021-02-09,SAS,GSW,45.1,4,2,54,GSW,GSW,tov,2,False,True,,Oubre Jr. Lost Ball Turnover (P1.T10),86-106,86,106
-0022000378,2021-02-09,SAS,GSW,45.1,4,2,54,SAS,GSW,foul,28,False,False,,Oubre Jr. Personal Take Foul (P2.T3) (D.Mosher),86-106,86,106
 0022000378,2021-02-09,SAS,GSW,45.1,4,2,54,GSW,SAS,steal,2,False,True,steal,steal,86-106,86,106
+0022000378,2021-02-09,SAS,GSW,45.1,4,2,54,SAS,GSW,foul,28,False,False,,Oubre Jr. Personal Take Foul (P2.T3) (D.Mosher),86-106,86,106
 0022000378,2021-02-09,SAS,GSW,45.35,4,2,39,SAS,GSW,foul,1,False,False,,Paschall P.FOUL (P4.T4) (T.Brothers),86-106,86,106
 0022000378,2021-02-09,SAS,GSW,45.48,4,2,31,SAS,SAS,fg_make,3,False,False,Eubanks 7' Hook Shot (2 PTS) (Walker IV 2 AST),,88-106,88,106
 0022000378,2021-02-09,SAS,GSW,45.75,4,2,15,GSW,GSW,fg3_miss,1,False,False,,MISS Bazemore 25' 3PT Jump Shot,88-106,88,106

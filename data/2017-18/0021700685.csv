@@ -143,8 +143,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700685,2018-01-21,DET,BKN,18.1,2,5,54,DET,DET,fg_miss,78,False,False,MISS Harris 12' Floating Jump Shot,,31-42,31,42
 0021700685,2018-01-21,DET,BKN,18.2,2,5,48,BKN,BKN,reb,0,False,False,,Hollis-Jefferson REBOUND (Off:0 Def:3),31-42,31,42
 0021700685,2018-01-21,DET,BKN,18.27,2,5,44,BKN,BKN,fg_miss,5,True,False,,MISS Hollis-Jefferson 4' Layup,31-42,31,42
-0021700685,2018-01-21,DET,BKN,18.27,2,5,44,BKN,BKN,reb,0,False,False,,Hollis-Jefferson REBOUND (Off:1 Def:3),31-42,31,42
 0021700685,2018-01-21,DET,BKN,18.27,2,5,44,BKN,DET,block,5,True,False,block,block,31-42,31,42
+0021700685,2018-01-21,DET,BKN,18.27,2,5,44,BKN,BKN,reb,0,False,False,,Hollis-Jefferson REBOUND (Off:1 Def:3),31-42,31,42
 0021700685,2018-01-21,DET,BKN,18.37,2,5,38,BKN,BKN,tov,6,False,False,,Okafor Double Dribble Turnover (P1.T4),31-42,31,42
 0021700685,2018-01-21,DET,BKN,18.58,2,5,25,DET,BKN,foul,2,False,False,,Hollis-Jefferson S.FOUL (P1.T4) (M.Smith),31-42,31,42
 0021700685,2018-01-21,DET,BKN,18.58,2,5,25,DET,DET,ft_make,11,False,False,Harris Free Throw 1 of 2 (10 PTS),,32-42,32,42
@@ -170,9 +170,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700685,2018-01-21,DET,BKN,21.05,2,2,57,DET,DET,reb,0,False,False,Smith REBOUND (Off:0 Def:2),,40-44,40,44
 0021700685,2018-01-21,DET,BKN,21.05,2,2,57,DET,BKN,foul,1,False,False,,Allen P.FOUL (P3.PN) (M.Kogut),40-44,40,44
 0021700685,2018-01-21,DET,BKN,21.05,2,2,57,BKN,BKN,timeout,1,False,False,,Nets Timeout: Regular (Reg.2 Short 0),40-44,40,44
-0021700685,2018-01-21,DET,BKN,21.05,2,2,57,BKN,,violation,1,False,False,,,40-44,40,44
 0021700685,2018-01-21,DET,BKN,21.05,2,2,57,BKN,DET,ft_make,11,False,False,Smith Free Throw 1 of 2 (3 PTS),,41-44,41,44
 0021700685,2018-01-21,DET,BKN,21.05,2,2,57,BKN,DET,ft_make,12,False,False,Smith Free Throw 2 of 2 (4 PTS),,42-44,42,44
+0021700685,2018-01-21,DET,BKN,21.05,2,2,57,BKN,,violation,1,False,False,,,40-44,40,44
 0021700685,2018-01-21,DET,BKN,21.28,2,2,43,BKN,BKN,fg3_miss,1,False,False,,MISS Acy 28' 3PT Jump Shot,42-44,42,44
 0021700685,2018-01-21,DET,BKN,21.37,2,2,38,BKN,BKN,reb,0,False,False,,Carroll REBOUND (Off:1 Def:3),42-44,42,44
 0021700685,2018-01-21,DET,BKN,21.4,2,2,36,BKN,BKN,fg_make,5,False,False,,Carroll 1' Layup (9 PTS),42-46,42,46
@@ -236,8 +236,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700685,2018-01-21,DET,BKN,30.07,3,5,56,BKN,BKN,fg_miss,5,False,False,,MISS Crabbe 2' Layup,58-65,58,65
 0021700685,2018-01-21,DET,BKN,30.12,3,5,53,BKN,BKN,reb,0,False,False,,Zeller REBOUND (Off:1 Def:6),58-65,58,65
 0021700685,2018-01-21,DET,BKN,30.12,3,5,53,BKN,BKN,fg_miss,3,True,False,,MISS Zeller 2' Hook Shot,58-65,58,65
-0021700685,2018-01-21,DET,BKN,30.12,3,5,53,DET,DET,reb,0,False,False,Moreland REBOUND (Off:0 Def:6),,58-65,58,65
 0021700685,2018-01-21,DET,BKN,30.12,3,5,53,BKN,DET,block,3,True,False,block,block,58-65,58,65
+0021700685,2018-01-21,DET,BKN,30.12,3,5,53,DET,DET,reb,0,False,False,Moreland REBOUND (Off:0 Def:6),,58-65,58,65
 0021700685,2018-01-21,DET,BKN,30.22,3,5,47,DET,DET,fg3_miss,1,False,False,MISS Bradley 27' 3PT Jump Shot,,58-65,58,65
 0021700685,2018-01-21,DET,BKN,30.25,3,5,45,DET,DET,reb,0,False,False,Moreland REBOUND (Off:1 Def:6),,58-65,58,65
 0021700685,2018-01-21,DET,BKN,30.37,3,5,38,DET,DET,tov,1,False,True,Bradley Bad Pass Turnover (P1.T4),,58-65,58,65

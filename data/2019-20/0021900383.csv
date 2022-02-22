@@ -41,10 +41,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900383,2019-12-14,MEM,WAS,4.33,1,7,40,MEM,WAS,foul,2,False,False,,Mahinmi S.FOUL (P1.T2) (J.Goble),10-13,10,13
 0021900383,2019-12-14,MEM,WAS,4.33,1,7,40,MEM,MEM,ft_make,11,False,False,Morant Free Throw 1 of 2 (1 PTS),,11-13,11,13
 0021900383,2019-12-14,MEM,WAS,4.33,1,7,40,MEM,MEM,ft_make,12,False,False,Morant Free Throw 2 of 2 (2 PTS),,12-13,12,13
-0021900383,2019-12-14,MEM,WAS,4.65,1,7,21,WAS,WAS,fg_miss,79,True,False,,MISS Beal 11' Pullup Jump Shot,12-13,12,13
-0021900383,2019-12-14,MEM,WAS,4.65,1,7,21,WAS,WAS,reb,0,False,False,,Beal REBOUND (Off:1 Def:0),12-13,12,13
 0021900383,2019-12-14,MEM,WAS,4.65,1,7,21,WAS,WAS,fg3_miss,1,False,False,,MISS Beal 3PT Jump Shot,12-13,12,13
+0021900383,2019-12-14,MEM,WAS,4.65,1,7,21,WAS,WAS,fg_miss,79,True,False,,MISS Beal 11' Pullup Jump Shot,12-13,12,13
 0021900383,2019-12-14,MEM,WAS,4.65,1,7,21,WAS,MEM,block,79,True,False,block,block,12-13,12,13
+0021900383,2019-12-14,MEM,WAS,4.65,1,7,21,WAS,WAS,reb,0,False,False,,Beal REBOUND (Off:1 Def:0),12-13,12,13
 0021900383,2019-12-14,MEM,WAS,4.7,1,7,18,WAS,WAS,reb,0,False,False,,Mahinmi REBOUND (Off:1 Def:0),12-13,12,13
 0021900383,2019-12-14,MEM,WAS,4.75,1,7,15,WAS,WAS,fg_miss,79,False,False,,MISS Smith 20' Pullup Jump Shot,12-13,12,13
 0021900383,2019-12-14,MEM,WAS,4.8,1,7,12,MEM,MEM,reb,0,False,False,Valanciunas REBOUND (Off:2 Def:1),,12-13,12,13
@@ -398,17 +398,17 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900383,2019-12-14,MEM,WAS,39.93,4,8,4,WAS,WAS,tov,6,False,False,,Smith Double Dribble Turnover (P3.T15),110-90,110,90
 0021900383,2019-12-14,MEM,WAS,39.93,4,8,4,MEM,WAS,violation,1,False,False,,Wizards Violation: Delay of game Violation,110-90,110,90
 0021900383,2019-12-14,MEM,WAS,40.15,4,7,51,MEM,MEM,tov,1,False,True,Clarke Bad Pass Turnover (P1.T19),,110-90,110,90
-0021900383,2019-12-14,MEM,WAS,40.15,4,7,51,WAS,MEM,foul,9,False,False,Brooks C.P.FOUL (P4.T2) (J.Goble),,110-90,110,90
 0021900383,2019-12-14,MEM,WAS,40.15,4,7,51,MEM,WAS,steal,1,False,True,steal,steal,110-90,110,90
+0021900383,2019-12-14,MEM,WAS,40.15,4,7,51,WAS,MEM,foul,9,False,False,Brooks C.P.FOUL (P4.T2) (J.Goble),,110-90,110,90
 0021900383,2019-12-14,MEM,WAS,40.15,4,7,51,WAS,WAS,ft_make,25,False,False,,Beal Free Throw Clear Path 1 of 2 (25 PTS),110-91,110,91
 0021900383,2019-12-14,MEM,WAS,40.15,4,7,51,WAS,WAS,ft_miss,26,False,False,,MISS Beal Free Throw Clear Path 2 of 2,110-91,110,91
 0021900383,2019-12-14,MEM,WAS,40.15,4,7,51,WAS,WAS,reb,0,False,False,,Wizards Rebound,110-91,110,91
 0021900383,2019-12-14,MEM,WAS,40.42,4,7,35,WAS,MEM,violation,5,False,False,Brooks Violation:Kicked Ball (R.Acosta),,110-91,110,91
 0021900383,2019-12-14,MEM,WAS,40.53,4,7,28,WAS,MEM,foul,2,False,False,Brooks S.FOUL (P5.T3) (J.Goble),,110-91,110,91
 0021900383,2019-12-14,MEM,WAS,40.53,4,7,28,WAS,WAS,ft_make,11,False,False,,Beal Free Throw 1 of 2 (26 PTS),110-92,110,92
+0021900383,2019-12-14,MEM,WAS,40.53,4,7,28,MEM,MEM,timeout,1,False,False,GRIZZLIES Timeout: Regular (Full 4 Short 0),,110-92,110,92
 0021900383,2019-12-14,MEM,WAS,40.53,4,7,28,WAS,WAS,ft_miss,12,False,False,,MISS Beal Free Throw 2 of 2,110-92,110,92
 0021900383,2019-12-14,MEM,WAS,40.53,4,7,28,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,110-92,110,92
-0021900383,2019-12-14,MEM,WAS,40.53,4,7,28,MEM,MEM,timeout,1,False,False,GRIZZLIES Timeout: Regular (Full 4 Short 0),,110-92,110,92
 0021900383,2019-12-14,MEM,WAS,40.6,4,7,24,,MEM,jump_ball,0,False,False,Jump Ball Jackson Jr. vs. Hachimura: Tip to Clarke,,110-92,110,92
 0021900383,2019-12-14,MEM,WAS,40.87,4,7,8,MEM,MEM,fg_make,6,False,False,Clarke 2' Driving Layup (25 PTS),,112-92,112,92
 0021900383,2019-12-14,MEM,WAS,40.9,4,7,6,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.4 Short 0),112-92,112,92

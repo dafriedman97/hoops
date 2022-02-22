@@ -183,9 +183,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700617,2018-01-11,LAL,SAS,20.72,2,3,17,SAS,LAL,foul,4,False,False,Lopez OFF.Foul (P1) (A.Smith),,40-29,40,29
 0021700617,2018-01-11,LAL,SAS,20.72,2,3,17,LAL,LAL,tov,37,False,False,Lopez Offensive Foul Turnover (P1.T7),,40-29,40,29
 0021700617,2018-01-11,LAL,SAS,20.98,2,3,1,SAS,SAS,fg_miss,5,True,False,,MISS Aldridge 4' Layup,40-29,40,29
+0021700617,2018-01-11,LAL,SAS,20.98,2,3,1,SAS,LAL,block,5,True,False,block,block,40-29,40,29
 0021700617,2018-01-11,LAL,SAS,20.98,2,3,1,SAS,SAS,reb,0,False,False,,Aldridge REBOUND (Off:2 Def:1),40-29,40,29
 0021700617,2018-01-11,LAL,SAS,20.98,2,3,1,SAS,LAL,foul,2,False,False,Lopez S.FOUL (P2.T2) (A.Smith),,40-29,40,29
-0021700617,2018-01-11,LAL,SAS,20.98,2,3,1,SAS,LAL,block,5,True,False,block,block,40-29,40,29
 0021700617,2018-01-11,LAL,SAS,20.98,2,3,1,SAS,SAS,ft_make,11,False,False,,Aldridge Free Throw 1 of 2 (12 PTS),40-30,40,30
 0021700617,2018-01-11,LAL,SAS,20.98,2,3,1,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 3 Short 0),,40-30,40,30
 0021700617,2018-01-11,LAL,SAS,20.98,2,3,1,LAL,SAS,ft_make,12,False,False,,Aldridge Free Throw 2 of 2 (13 PTS),40-31,40,31
@@ -335,8 +335,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700617,2018-01-11,LAL,SAS,39.3,4,8,42,SAS,SAS,reb,1,False,False,,Spurs Rebound,75-67,75,67
 0021700617,2018-01-11,LAL,SAS,39.3,4,8,42,SAS,SAS,ft_make,12,False,False,,White Free Throw 2 of 2 (4 PTS),75-68,75,68
 0021700617,2018-01-11,LAL,SAS,39.47,4,8,32,LAL,LAL,fg_miss,5,True,False,MISS Kuzma 4' Layup,,75-68,75,68
-0021700617,2018-01-11,LAL,SAS,39.47,4,8,32,LAL,LAL,reb,0,False,False,LAKERS Rebound,,75-68,75,68
 0021700617,2018-01-11,LAL,SAS,39.47,4,8,32,LAL,SAS,block,5,True,False,block,block,75-68,75,68
+0021700617,2018-01-11,LAL,SAS,39.47,4,8,32,LAL,LAL,reb,0,False,False,LAKERS Rebound,,75-68,75,68
 0021700617,2018-01-11,LAL,SAS,39.5,4,8,30,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 3PT Jump Shot,,75-68,75,68
 0021700617,2018-01-11,LAL,SAS,39.55,4,8,27,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:1 Def:8),75-68,75,68
 0021700617,2018-01-11,LAL,SAS,39.75,4,8,15,SAS,SAS,fg3_make,79,False,False,,Forbes 26' 3PT Pullup Jump Shot (16 PTS),75-71,75,71
@@ -370,8 +370,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700617,2018-01-11,LAL,SAS,42.82,4,5,11,LAL,LAL,reb,0,False,False,LAKERS Rebound,,81-75,81,75
 0021700617,2018-01-11,LAL,SAS,43.13,4,4,52,LAL,LAL,fg_make,71,False,False,Ingram 4' Finger Roll Layup (24 PTS),,83-75,83,75
 0021700617,2018-01-11,LAL,SAS,43.58,4,4,25,SAS,SAS,fg_miss,5,True,False,,MISS Gasol 2' Layup,83-75,83,75
-0021700617,2018-01-11,LAL,SAS,43.58,4,4,25,SAS,SAS,reb,0,False,False,,Spurs Rebound,83-75,83,75
 0021700617,2018-01-11,LAL,SAS,43.58,4,4,25,SAS,LAL,block,5,True,False,block,block,83-75,83,75
+0021700617,2018-01-11,LAL,SAS,43.58,4,4,25,SAS,SAS,reb,0,False,False,,Spurs Rebound,83-75,83,75
 0021700617,2018-01-11,LAL,SAS,43.62,4,4,23,SAS,SAS,tov,11,False,False,,Spurs Turnover: Shot Clock (T#18),83-75,83,75
 0021700617,2018-01-11,LAL,SAS,43.88,4,4,7,LAL,LAL,fg_make,1,False,False,Ingram 16' Jump Shot (26 PTS),,85-75,85,75
 0021700617,2018-01-11,LAL,SAS,44.03,4,3,58,SAS,LAL,foul,1,False,False,Caldwell-Pope P.FOUL (P2.T3) (A.Smith),,85-75,85,75

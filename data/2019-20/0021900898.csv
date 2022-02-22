@@ -15,8 +15,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900898,2020-03-01,DEN,TOR,2.02,1,9,59,TOR,TOR,fg3_miss,80,False,False,,MISS Lowry 24' 3PT Step Back Jump Shot,7-2,7,2
 0021900898,2020-03-01,DEN,TOR,2.07,1,9,56,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:0 Def:3),,7-2,7,2
 0021900898,2020-03-01,DEN,TOR,2.1,1,9,54,DEN,DEN,fg_miss,41,True,False,MISS Barton 3' Running Layup,,7-2,7,2
-0021900898,2020-03-01,DEN,TOR,2.1,1,9,54,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,7-2,7,2
 0021900898,2020-03-01,DEN,TOR,2.1,1,9,54,DEN,TOR,block,41,True,False,block,block,7-2,7,2
+0021900898,2020-03-01,DEN,TOR,2.1,1,9,54,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,7-2,7,2
 0021900898,2020-03-01,DEN,TOR,2.22,1,9,47,DEN,DEN,fg_make,102,False,False,Jokic 3' Driving Floating Bank Jump Shot (4 PTS) (Murray 1 AST),,9-2,9,2
 0021900898,2020-03-01,DEN,TOR,2.32,1,9,41,TOR,DEN,foul,2,False,False,Harris S.FOUL (P1.T2) (T.Washington),,9-2,9,2
 0021900898,2020-03-01,DEN,TOR,2.32,1,9,41,TOR,TOR,ft_make,11,False,False,,Lowry Free Throw 1 of 2 (1 PTS),9-3,9,3
@@ -114,8 +114,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900898,2020-03-01,DEN,TOR,11.9,1,0,6,DEN,DEN,fg3_miss,1,False,False,MISS Morris 25' 3PT Jump Shot,,40-32,40,32
 0021900898,2020-03-01,DEN,TOR,11.95,1,0,3,DEN,DEN,reb,0,False,False,Porter Jr. REBOUND (Off:1 Def:0),,40-32,40,32
 0021900898,2020-03-01,DEN,TOR,11.97,1,0,2,DEN,DEN,fg_miss,72,True,False,MISS Porter Jr. 4' Putback Layup,,40-32,40,32
-0021900898,2020-03-01,DEN,TOR,11.97,1,0,2,TOR,TOR,reb,0,False,False,,Davis REBOUND (Off:0 Def:2),40-32,40,32
 0021900898,2020-03-01,DEN,TOR,11.97,1,0,2,DEN,TOR,block,72,True,False,block,block,40-32,40,32
+0021900898,2020-03-01,DEN,TOR,11.97,1,0,2,TOR,TOR,reb,0,False,False,,Davis REBOUND (Off:0 Def:2),40-32,40,32
 0021900898,2020-03-01,DEN,TOR,12.0,1,0,0,TOR,,period_end,0,False,False,,,40-32,40,32
 0021900898,2020-03-01,DEN,TOR,12.0,2,12,0,TOR,,period_start,0,False,False,,,40-32,40,32
 0021900898,2020-03-01,DEN,TOR,12.3,2,11,42,TOR,TOR,fg3_make,1,False,False,,Boucher 25' 3PT Jump Shot (5 PTS) (Thomas 1 AST),40-35,40,35
@@ -276,8 +276,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900898,2020-03-01,DEN,TOR,30.72,3,5,17,TOR,TOR,fg3_miss,80,False,False,,MISS Lowry 26' 3PT Step Back Jump Shot,85-82,85,82
 0021900898,2020-03-01,DEN,TOR,30.78,3,5,13,DEN,DEN,reb,0,False,False,Morris REBOUND (Off:0 Def:2),,85-82,85,82
 0021900898,2020-03-01,DEN,TOR,30.9,3,5,6,DEN,DEN,fg_miss,9,True,False,MISS Grant 2' Driving Dunk,,85-82,85,82
-0021900898,2020-03-01,DEN,TOR,30.9,3,5,6,TOR,TOR,reb,0,False,False,,Raptors Rebound,85-82,85,82
 0021900898,2020-03-01,DEN,TOR,30.9,3,5,6,DEN,TOR,block,9,True,False,block,block,85-82,85,82
+0021900898,2020-03-01,DEN,TOR,30.9,3,5,6,TOR,TOR,reb,0,False,False,,Raptors Rebound,85-82,85,82
 0021900898,2020-03-01,DEN,TOR,31.18,3,4,49,TOR,TOR,fg_miss,75,False,False,,MISS Lowry 2' Driving Finger Roll Layup,85-82,85,82
 0021900898,2020-03-01,DEN,TOR,31.18,3,4,49,TOR,TOR,reb,0,False,False,,Raptors Rebound,85-82,85,82
 0021900898,2020-03-01,DEN,TOR,31.38,3,4,37,,DEN,jump_ball,0,False,False,Jump Ball Murray vs. Hollis-Jefferson: Tip to Anunoby,,85-82,85,82
@@ -329,8 +329,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900898,2020-03-01,DEN,TOR,36.22,4,11,47,DEN,TOR,foul,2,False,False,,Boucher S.FOUL (P2.T1) (R.Acosta),102-96,102,96
 0021900898,2020-03-01,DEN,TOR,36.22,4,11,47,DEN,DEN,ft_make,10,False,False,Porter Jr. Free Throw 1 of 1 (8 PTS),,103-96,103,96
 0021900898,2020-03-01,DEN,TOR,36.45,4,11,33,TOR,TOR,fg_miss,101,False,False,,MISS Powell 12' Driving Floating Jump Shot,103-96,103,96
-0021900898,2020-03-01,DEN,TOR,36.58,4,11,25,TOR,TOR,fg_miss,72,False,False,,MISS Powell 1' Putback Layup,103-96,103,96
 0021900898,2020-03-01,DEN,TOR,36.58,4,11,25,TOR,TOR,reb,0,False,False,,Powell REBOUND (Off:1 Def:4),103-96,103,96
+0021900898,2020-03-01,DEN,TOR,36.58,4,11,25,TOR,TOR,fg_miss,72,False,False,,MISS Powell 1' Putback Layup,103-96,103,96
 0021900898,2020-03-01,DEN,TOR,36.6,4,11,24,TOR,TOR,reb,0,False,False,,Boucher REBOUND (Off:1 Def:1),103-96,103,96
 0021900898,2020-03-01,DEN,TOR,36.6,4,11,24,TOR,TOR,fg_miss,72,True,False,,MISS Boucher 1' Putback Layup,103-96,103,96
 0021900898,2020-03-01,DEN,TOR,36.6,4,11,24,TOR,DEN,block,72,True,False,block,block,103-96,103,96
@@ -420,8 +420,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900898,2020-03-01,DEN,TOR,45.0,4,3,0,TOR,DEN,steal,1,False,True,steal,steal,124-115,124,115
 0021900898,2020-03-01,DEN,TOR,45.15,4,2,51,DEN,DEN,fg_make,1,False,False,Grant 14' Jump Shot (14 PTS),,126-115,126,115
 0021900898,2020-03-01,DEN,TOR,45.47,4,2,32,TOR,TOR,fg_miss,75,False,False,,MISS Siakam 3' Driving Finger Roll Layup,126-115,126,115
-0021900898,2020-03-01,DEN,TOR,45.53,4,2,28,TOR,TOR,fg_miss,72,False,False,,MISS Siakam 1' Putback Layup,126-115,126,115
 0021900898,2020-03-01,DEN,TOR,45.53,4,2,28,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:1 Def:6),126-115,126,115
+0021900898,2020-03-01,DEN,TOR,45.53,4,2,28,TOR,TOR,fg_miss,72,False,False,,MISS Siakam 1' Putback Layup,126-115,126,115
 0021900898,2020-03-01,DEN,TOR,45.55,4,2,27,DEN,DEN,reb,0,False,False,Harris REBOUND (Off:0 Def:4),,126-115,126,115
 0021900898,2020-03-01,DEN,TOR,45.8,4,2,12,DEN,DEN,fg_make,108,False,False,Grant Cutting Dunk Shot (16 PTS) (Jokic 10 AST),,128-115,128,115
 0021900898,2020-03-01,DEN,TOR,45.82,4,2,11,TOR,TOR,timeout,1,False,False,,Raptors Timeout: Regular (Reg.6 Short 0),128-115,128,115

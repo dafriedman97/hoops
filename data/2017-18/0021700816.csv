@@ -62,17 +62,17 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700816,2018-02-08,LAL,OKC,8.2,1,3,48,OKC,OKC,ft_miss,12,False,False,,MISS George Free Throw 2 of 2,17-23,17,23
 0021700816,2018-02-08,LAL,OKC,8.25,1,3,45,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:0 Def:1),,17-23,17,23
 0021700816,2018-02-08,LAL,OKC,8.63,1,3,22,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 3PT Jump Shot,,17-23,17,23
+0021700816,2018-02-08,LAL,OKC,8.7,1,3,18,LAL,LAL,reb,0,False,False,Brewer REBOUND (Off:1 Def:0),,17-23,17,23
 0021700816,2018-02-08,LAL,OKC,8.7,1,3,18,LAL,LAL,fg_miss,97,False,False,MISS Brewer 2' Tip Layup Shot,,17-23,17,23
 0021700816,2018-02-08,LAL,OKC,8.7,1,3,18,LAL,LAL,reb,0,False,False,Lopez REBOUND (Off:1 Def:1),,17-23,17,23
-0021700816,2018-02-08,LAL,OKC,8.7,1,3,18,LAL,LAL,reb,0,False,False,Brewer REBOUND (Off:1 Def:0),,17-23,17,23
 0021700816,2018-02-08,LAL,OKC,8.72,1,3,17,LAL,LAL,fg_miss,97,False,False,MISS Lopez 2' Tip Layup Shot,,17-23,17,23
 0021700816,2018-02-08,LAL,OKC,8.72,1,3,17,LAL,LAL,reb,0,False,False,Lopez REBOUND (Off:3 Def:1),,17-23,17,23
 0021700816,2018-02-08,LAL,OKC,8.72,1,3,17,LAL,LAL,fg_miss,97,False,False,MISS Lopez Tip Layup Shot,,17-23,17,23
 0021700816,2018-02-08,LAL,OKC,8.72,1,3,17,LAL,LAL,reb,0,False,False,Lopez REBOUND (Off:3 Def:1),,17-23,17,23
 0021700816,2018-02-08,LAL,OKC,8.78,1,3,13,LAL,LAL,fg_make,97,False,False,Lopez 2' Tip Layup Shot (6 PTS),,19-23,19,23
 0021700816,2018-02-08,LAL,OKC,9.02,1,2,59,OKC,OKC,fg_miss,44,True,False,,MISS Adams 2' Reverse Layup,19-23,19,23
-0021700816,2018-02-08,LAL,OKC,9.02,1,2,59,LAL,LAL,reb,0,False,False,Hart REBOUND (Off:0 Def:3),,19-23,19,23
 0021700816,2018-02-08,LAL,OKC,9.02,1,2,59,OKC,LAL,block,44,True,False,block,block,19-23,19,23
+0021700816,2018-02-08,LAL,OKC,9.02,1,2,59,LAL,LAL,reb,0,False,False,Hart REBOUND (Off:0 Def:3),,19-23,19,23
 0021700816,2018-02-08,LAL,OKC,9.32,1,2,41,LAL,OKC,foul,2,False,False,,Adams S.FOUL (P1.T1) (J.Goble),19-23,19,23
 0021700816,2018-02-08,LAL,OKC,9.32,1,2,41,LAL,LAL,ft_make,11,False,False,Ingram Free Throw 1 of 2 (5 PTS),,20-23,20,23
 0021700816,2018-02-08,LAL,OKC,9.32,1,2,41,LAL,LAL,ft_make,12,False,False,Ingram Free Throw 2 of 2 (6 PTS),,21-23,21,23
@@ -87,8 +87,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700816,2018-02-08,LAL,OKC,10.68,1,1,19,OKC,OKC,reb,0,False,False,,Johnson REBOUND (Off:1 Def:0),25-25,25,25
 0021700816,2018-02-08,LAL,OKC,10.7,1,1,18,OKC,OKC,fg_make,87,False,False,,Johnson 2' Putback Dunk (2 PTS),25-27,25,27
 0021700816,2018-02-08,LAL,OKC,10.8,1,1,12,LAL,LAL,fg_miss,6,True,False,MISS Randle 3' Driving Layup,,25-27,25,27
-0021700816,2018-02-08,LAL,OKC,10.8,1,1,12,OKC,OKC,reb,0,False,False,,Felton REBOUND (Off:0 Def:2),25-27,25,27
 0021700816,2018-02-08,LAL,OKC,10.8,1,1,12,LAL,OKC,block,6,True,False,block,block,25-27,25,27
+0021700816,2018-02-08,LAL,OKC,10.8,1,1,12,OKC,OKC,reb,0,False,False,,Felton REBOUND (Off:0 Def:2),25-27,25,27
 0021700816,2018-02-08,LAL,OKC,10.88,1,1,7,OKC,OKC,fg3_miss,1,False,False,,MISS Abrines 26' 3PT Jump Shot,25-27,25,27
 0021700816,2018-02-08,LAL,OKC,10.88,1,1,7,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:0 Def:2),,25-27,25,27
 0021700816,2018-02-08,LAL,OKC,10.98,1,1,1,LAL,LAL,fg_make,41,False,False,Kuzma 5' Running Layup (2 PTS),,27-27,27,27
@@ -133,8 +133,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700816,2018-02-08,LAL,OKC,14.6,2,9,24,LAL,LAL,reb,0,False,False,Brewer REBOUND (Off:2 Def:0),,30-27,30,27
 0021700816,2018-02-08,LAL,OKC,14.65,2,9,21,LAL,LAL,fg3_make,1,False,False,Caldwell-Pope 26' 3PT Jump Shot (4 PTS) (Brewer 2 AST),,33-27,33,27
 0021700816,2018-02-08,LAL,OKC,14.92,2,9,5,OKC,OKC,tov,1,False,True,,Grant Bad Pass Turnover (P1.T5),33-27,33,27
-0021700816,2018-02-08,LAL,OKC,14.92,2,9,5,LAL,OKC,foul,28,False,False,,Grant Personal Take Foul (P1.T1) (D.Collins),33-27,33,27
 0021700816,2018-02-08,LAL,OKC,14.92,2,9,5,OKC,LAL,steal,1,False,True,steal,steal,33-27,33,27
+0021700816,2018-02-08,LAL,OKC,14.92,2,9,5,LAL,OKC,foul,28,False,False,,Grant Personal Take Foul (P1.T1) (D.Collins),33-27,33,27
 0021700816,2018-02-08,LAL,OKC,15.03,2,8,58,LAL,LAL,fg_miss,1,False,False,MISS Kuzma 21' Jump Shot,,33-27,33,27
 0021700816,2018-02-08,LAL,OKC,15.1,2,8,54,OKC,OKC,reb,0,False,False,,Huestis REBOUND (Off:0 Def:4),33-27,33,27
 0021700816,2018-02-08,LAL,OKC,15.17,2,8,50,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.2 Short 0),33-27,33,27
@@ -146,8 +146,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700816,2018-02-08,LAL,OKC,15.95,2,8,3,LAL,LAL,fg_miss,9,False,False,MISS Caruso 1' Driving Dunk,,33-27,33,27
 0021700816,2018-02-08,LAL,OKC,15.95,2,8,3,LAL,LAL,reb,0,False,False,Zubac REBOUND (Off:1 Def:2),,33-27,33,27
 0021700816,2018-02-08,LAL,OKC,15.98,2,8,1,LAL,LAL,fg_miss,72,True,False,MISS Zubac 1' Putback Layup,,33-27,33,27
-0021700816,2018-02-08,LAL,OKC,15.98,2,8,1,OKC,OKC,reb,0,False,False,,Thunder Rebound,33-27,33,27
 0021700816,2018-02-08,LAL,OKC,15.98,2,8,1,LAL,OKC,block,72,True,False,block,block,33-27,33,27
+0021700816,2018-02-08,LAL,OKC,15.98,2,8,1,OKC,OKC,reb,0,False,False,,Thunder Rebound,33-27,33,27
 0021700816,2018-02-08,LAL,OKC,16.35,2,7,39,OKC,OKC,fg_miss,5,False,False,,MISS Abrines 2' Layup,33-27,33,27
 0021700816,2018-02-08,LAL,OKC,16.35,2,7,39,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:3 Def:1),33-27,33,27
 0021700816,2018-02-08,LAL,OKC,16.4,2,7,36,OKC,OKC,fg_miss,97,False,False,,MISS Adams 1' Tip Layup Shot,33-27,33,27
@@ -226,10 +226,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700816,2018-02-08,LAL,OKC,23.9,2,0,6,OKC,OKC,fg3_miss,1,False,False,,MISS Felton 26' 3PT Jump Shot,52-46,52,46
 0021700816,2018-02-08,LAL,OKC,23.97,2,0,2,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:0 Def:5),,52-46,52,46
 0021700816,2018-02-08,LAL,OKC,24.0,2,0,0,LAL,LAL,fg3_miss,2,True,False,MISS Kuzma 40' 3PT Running Jump Shot,,52-46,52,46
+0021700816,2018-02-08,LAL,OKC,24.0,2,0,0,LAL,OKC,block,2,True,False,block,block,52-46,52,46
 0021700816,2018-02-08,LAL,OKC,24.0,2,0,0,LAL,LAL,reb,0,False,False,LAKERS Rebound,,52-46,52,46
 0021700816,2018-02-08,LAL,OKC,24.0,2,0,0,LAL,,period_end,0,False,False,,,52-46,52,46
 0021700816,2018-02-08,LAL,OKC,24.0,3,12,0,LAL,,period_start,0,False,False,,,52-46,52,46
-0021700816,2018-02-08,LAL,OKC,24.0,2,0,0,LAL,OKC,block,2,True,False,block,block,52-46,52,46
 0021700816,2018-02-08,LAL,OKC,24.23,3,11,46,OKC,OKC,fg3_miss,1,False,False,,MISS George 26' 3PT Jump Shot,52-46,52,46
 0021700816,2018-02-08,LAL,OKC,24.28,3,11,43,LAL,LAL,reb,0,False,False,Hart REBOUND (Off:0 Def:4),,52-46,52,46
 0021700816,2018-02-08,LAL,OKC,24.35,3,11,39,LAL,LAL,tov,1,False,True,Hart Bad Pass Turnover (P2.T2),,52-46,52,46
@@ -362,8 +362,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700816,2018-02-08,LAL,OKC,38.53,4,9,28,LAL,LAL,fg_make,63,False,False,Brewer 8' Fadeaway Jumper (6 PTS) (Zubac 1 AST),,89-66,89,66
 0021700816,2018-02-08,LAL,OKC,38.72,4,9,17,OKC,OKC,fg3_make,103,False,False,,George 25' 3PT Running Pull-Up Jump Shot (29 PTS),89-69,89,69
 0021700816,2018-02-08,LAL,OKC,38.82,4,9,11,LAL,LAL,fg_miss,41,True,False,MISS Brewer 2' Running Layup,,89-69,89,69
-0021700816,2018-02-08,LAL,OKC,38.82,4,9,11,OKC,OKC,reb,0,False,False,,Hamilton REBOUND (Off:0 Def:1),89-69,89,69
 0021700816,2018-02-08,LAL,OKC,38.82,4,9,11,LAL,OKC,block,41,True,False,block,block,89-69,89,69
+0021700816,2018-02-08,LAL,OKC,38.82,4,9,11,OKC,OKC,reb,0,False,False,,Hamilton REBOUND (Off:0 Def:1),89-69,89,69
 0021700816,2018-02-08,LAL,OKC,38.9,4,9,6,OKC,LAL,foul,1,False,False,Caruso P.FOUL (P2.T2) (K.Cutler),,89-69,89,69
 0021700816,2018-02-08,LAL,OKC,39.0,4,9,0,OKC,OKC,fg3_miss,1,False,False,,MISS George 26' 3PT Jump Shot,89-69,89,69
 0021700816,2018-02-08,LAL,OKC,39.07,4,8,56,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:0 Def:8),,89-69,89,69

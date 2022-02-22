@@ -42,8 +42,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000344,2021-02-05,ORL,CHI,5.6,1,6,24,ORL,ORL,fg_miss,78,False,False,MISS Anthony 7' Floating Jump Shot,,18-12,18,12
 0022000344,2021-02-05,ORL,CHI,5.63,1,6,22,CHI,CHI,reb,0,False,False,,Young REBOUND (Off:0 Def:1),18-12,18,12
 0022000344,2021-02-05,ORL,CHI,5.88,1,6,7,CHI,CHI,fg_miss,6,True,False,,MISS LaVine 4' Driving Layup,18-12,18,12
-0022000344,2021-02-05,ORL,CHI,5.88,1,6,7,CHI,CHI,reb,0,False,False,,Bulls Rebound,18-12,18,12
 0022000344,2021-02-05,ORL,CHI,5.88,1,6,7,CHI,ORL,block,6,True,False,block,block,18-12,18,12
+0022000344,2021-02-05,ORL,CHI,5.88,1,6,7,CHI,CHI,reb,0,False,False,,Bulls Rebound,18-12,18,12
 0022000344,2021-02-05,ORL,CHI,5.98,1,6,1,CHI,CHI,fg3_make,1,False,False,,Markkanen 25' 3PT Jump Shot (8 PTS) (Williams 1 AST),18-15,18,15
 0022000344,2021-02-05,ORL,CHI,6.32,1,5,41,ORL,ORL,fg_make,3,False,False,Vucevic 4' Hook Shot (15 PTS) (Fournier 2 AST),,20-15,20,15
 0022000344,2021-02-05,ORL,CHI,6.6,1,5,24,CHI,CHI,fg_make,86,False,False,,Williams 7' Turnaround Fadeaway (5 PTS),20-17,20,17
@@ -63,10 +63,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000344,2021-02-05,ORL,CHI,8.27,1,3,44,ORL,ORL,fg3_make,1,False,False,Anthony 27' 3PT Jump Shot (6 PTS) (Birch 1 AST),,28-19,28,19
 0022000344,2021-02-05,ORL,CHI,8.68,1,3,19,CHI,CHI,fg_make,1,False,False,,Young 17' Jump Shot (6 PTS) (Satoransky 1 AST),28-21,28,21
 0022000344,2021-02-05,ORL,CHI,9.13,1,2,52,ORL,ORL,fg_miss,5,True,False,MISS Birch 3' Layup,,28-21,28,21
+0022000344,2021-02-05,ORL,CHI,9.13,1,2,52,ORL,CHI,block,5,True,False,block,block,28-21,28,21
 0022000344,2021-02-05,ORL,CHI,9.13,1,2,52,ORL,ORL,reb,0,False,False,Birch REBOUND (Off:2 Def:0),,28-21,28,21
 0022000344,2021-02-05,ORL,CHI,9.13,1,2,52,ORL,ORL,tov,11,False,False,MAGIC Turnover: Shot Clock (T#2),,28-21,28,21
 0022000344,2021-02-05,ORL,CHI,9.13,1,2,52,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 1 Short 0),,28-21,28,21
-0022000344,2021-02-05,ORL,CHI,9.13,1,2,52,ORL,CHI,block,5,True,False,block,block,28-21,28,21
 0022000344,2021-02-05,ORL,CHI,9.42,1,2,35,CHI,CHI,fg_make,47,False,False,,Williams 15' Turnaround Jump Shot (7 PTS) (Temple 1 AST),28-23,28,23
 0022000344,2021-02-05,ORL,CHI,9.67,1,2,20,ORL,ORL,tov,40,False,False,Ross Out of Bounds Lost Ball Turnover (P1.T3),,28-23,28,23
 0022000344,2021-02-05,ORL,CHI,9.93,1,2,4,CHI,CHI,fg_make,47,False,False,,LaVine 19' Turnaround Jump Shot (2 PTS) (Satoransky 2 AST),28-25,28,25
@@ -282,9 +282,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000344,2021-02-05,ORL,CHI,33.6,3,2,24,CHI,CHI,fg3_miss,79,False,False,,MISS Valentine 28' 3PT Pullup Jump Shot,88-76,88,76
 0022000344,2021-02-05,ORL,CHI,33.63,3,2,22,ORL,ORL,reb,0,False,False,Birch REBOUND (Off:3 Def:2),,88-76,88,76
 0022000344,2021-02-05,ORL,CHI,33.87,3,2,8,ORL,ORL,tov,1,False,True,Ross Bad Pass Turnover (P2.T9),,88-76,88,76
+0022000344,2021-02-05,ORL,CHI,33.87,3,2,8,ORL,CHI,steal,1,False,True,steal,steal,88-76,88,76
 0022000344,2021-02-05,ORL,CHI,33.87,3,2,8,CHI,ORL,foul,28,False,False,Ross Personal Take Foul (P1.T4) (J.Goble),,88-76,88,76
 0022000344,2021-02-05,ORL,CHI,33.87,3,2,8,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 3 Short 0),,88-76,88,76
-0022000344,2021-02-05,ORL,CHI,33.87,3,2,8,ORL,CHI,steal,1,False,True,steal,steal,88-76,88,76
 0022000344,2021-02-05,ORL,CHI,34.07,3,1,56,CHI,CHI,fg_make,6,False,False,,Temple 3' Driving Layup (4 PTS),88-78,88,78
 0022000344,2021-02-05,ORL,CHI,34.07,3,1,56,CHI,ORL,violation,2,False,False,Birch Violation:Defensive Goaltending (E.Lewis),,88-78,88,78
 0022000344,2021-02-05,ORL,CHI,34.3,3,1,42,ORL,ORL,fg_miss,5,True,False,MISS Birch 1' Layup,,88-78,88,78
@@ -351,8 +351,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000344,2021-02-05,ORL,CHI,40.17,4,7,50,CHI,CHI,fg3_miss,1,False,False,,MISS LaVine 28' 3PT Jump Shot,106-96,106,96
 0022000344,2021-02-05,ORL,CHI,40.23,4,7,46,ORL,ORL,reb,0,False,False,Mason REBOUND (Off:0 Def:1),,106-96,106,96
 0022000344,2021-02-05,ORL,CHI,40.4,4,7,36,ORL,ORL,tov,1,False,True,Vucevic Bad Pass Turnover (P1.T13),,106-96,106,96
-0022000344,2021-02-05,ORL,CHI,40.4,4,7,36,CHI,ORL,foul,28,False,False,Bacon Personal Take Foul (P2.T2) (E.Lewis),,106-96,106,96
 0022000344,2021-02-05,ORL,CHI,40.4,4,7,36,ORL,CHI,steal,1,False,True,steal,steal,106-96,106,96
+0022000344,2021-02-05,ORL,CHI,40.4,4,7,36,CHI,ORL,foul,28,False,False,Bacon Personal Take Foul (P2.T2) (E.Lewis),,106-96,106,96
 0022000344,2021-02-05,ORL,CHI,40.62,4,7,23,CHI,ORL,foul,1,False,False,Vucevic P.FOUL (P1.T3) (E.Scott),,106-96,106,96
 0022000344,2021-02-05,ORL,CHI,40.83,4,7,10,CHI,CHI,fg_make,6,False,False,,Young 3' Driving Layup (14 PTS),106-98,106,98
 0022000344,2021-02-05,ORL,CHI,41.2,4,6,48,ORL,ORL,fg_make,1,False,False,Vucevic 16' Jump Shot (37 PTS) (Mason 4 AST),,108-98,108,98
@@ -428,8 +428,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000344,2021-02-05,ORL,CHI,47.47,4,0,32,CHI,CHI,fg_miss,97,False,False,,MISS Temple Tip Layup Shot,119-114,119,114
 0022000344,2021-02-05,ORL,CHI,47.47,4,0,32,ORL,ORL,reb,0,False,False,Ross REBOUND (Off:0 Def:4),,119-114,119,114
 0022000344,2021-02-05,ORL,CHI,47.57,4,0,26,ORL,ORL,tov,1,False,True,Fournier Bad Pass Turnover (P3.T16),,119-114,119,114
-0022000344,2021-02-05,ORL,CHI,47.57,4,0,26,CHI,ORL,foul,2,False,False,Fournier S.FOUL (P3.PN) (E.Scott),,119-114,119,114
 0022000344,2021-02-05,ORL,CHI,47.57,4,0,26,ORL,CHI,steal,1,False,True,steal,steal,119-114,119,114
+0022000344,2021-02-05,ORL,CHI,47.57,4,0,26,CHI,ORL,foul,2,False,False,Fournier S.FOUL (P3.PN) (E.Scott),,119-114,119,114
 0022000344,2021-02-05,ORL,CHI,47.57,4,0,26,CHI,CHI,ft_make,13,False,False,,LaVine Free Throw 1 of 3 (22 PTS),119-115,119,115
 0022000344,2021-02-05,ORL,CHI,47.57,4,0,26,CHI,CHI,ft_make,14,False,False,,LaVine Free Throw 2 of 3 (23 PTS),119-116,119,116
 0022000344,2021-02-05,ORL,CHI,47.57,4,0,26,CHI,CHI,ft_make,15,False,False,,LaVine Free Throw 3 of 3 (24 PTS),119-117,119,117

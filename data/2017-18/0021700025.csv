@@ -56,14 +56,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700025,2017-10-20,NOP,GSW,5.92,1,6,5,NOP,NOP,fg3_miss,1,False,False,MISS Cunningham 26' 3PT Jump Shot,,120-128,120,128
 0021700025,2017-10-20,NOP,GSW,5.92,1,6,5,GSW,GSW,reb,0,False,False,,Pachulia REBOUND (Off:0 Def:1),120-128,120,128
 0021700025,2017-10-20,NOP,GSW,6.05,1,5,57,GSW,GSW,fg_miss,5,True,False,,MISS Durant 4' Layup,120-128,120,128
-0021700025,2017-10-20,NOP,GSW,6.05,1,5,57,NOP,NOP,reb,0,False,False,Cousins REBOUND (Off:0 Def:1),,120-128,120,128
 0021700025,2017-10-20,NOP,GSW,6.05,1,5,57,GSW,NOP,block,5,True,False,block,block,120-128,120,128
+0021700025,2017-10-20,NOP,GSW,6.05,1,5,57,NOP,NOP,reb,0,False,False,Cousins REBOUND (Off:0 Def:1),,120-128,120,128
 0021700025,2017-10-20,NOP,GSW,6.15,1,5,51,NOP,NOP,fg_make,7,False,False,Davis 2' Dunk (2 PTS) (Cousins 1 AST),,2-0,2,0
 0021700025,2017-10-20,NOP,GSW,6.33,1,5,40,GSW,GSW,tov,1,False,True,,Green Bad Pass Turnover (P1.T1),2-0,2,0
 0021700025,2017-10-20,NOP,GSW,6.33,1,5,40,GSW,NOP,steal,1,False,True,steal,steal,2-0,2,0
 0021700025,2017-10-20,NOP,GSW,6.4,1,5,36,NOP,NOP,fg_miss,7,True,False,MISS Cousins 1' Dunk,,2-0,2,0
-0021700025,2017-10-20,NOP,GSW,6.4,1,5,36,NOP,NOP,reb,0,False,False,Cunningham REBOUND (Off:1 Def:1),,2-0,2,0
 0021700025,2017-10-20,NOP,GSW,6.4,1,5,36,NOP,GSW,block,7,True,False,block,block,2-0,2,0
+0021700025,2017-10-20,NOP,GSW,6.4,1,5,36,NOP,NOP,reb,0,False,False,Cunningham REBOUND (Off:1 Def:1),,2-0,2,0
 0021700025,2017-10-20,NOP,GSW,6.4,1,5,36,NOP,NOP,fg_make,72,False,False,Cunningham 1' Putback Layup (2 PTS),,4-0,4,0
 0021700025,2017-10-20,NOP,GSW,6.7,1,5,18,GSW,GSW,fg3_make,1,False,False,,Durant 26' 3PT Jump Shot (3 PTS) (Curry 1 AST),4-3,4,3
 0021700025,2017-10-20,NOP,GSW,6.97,1,5,2,NOP,NOP,fg3_make,1,False,False,Holiday 24' 3PT Jump Shot (3 PTS),,7-3,7,3
@@ -110,11 +110,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700025,2017-10-20,NOP,GSW,12.5,2,11,30,NOP,NOP,fg3_miss,1,False,False,MISS Miller 26' 3PT Jump Shot,,22-22,22,22
 0021700025,2017-10-20,NOP,GSW,12.5,2,11,30,NOP,NOP,reb,0,False,False,Allen REBOUND (Off:1 Def:0),,22-22,22,22
 0021700025,2017-10-20,NOP,GSW,12.5,2,11,30,NOP,NOP,fg_miss,72,True,False,MISS Allen 1' Putback Layup,,22-22,22,22
+0021700025,2017-10-20,NOP,GSW,12.5,2,11,30,NOP,GSW,block,72,True,False,block,block,22-22,22,22
 0021700025,2017-10-20,NOP,GSW,12.5,2,11,30,NOP,NOP,reb,0,False,False,Allen REBOUND (Off:2 Def:0),,22-22,22,22
 0021700025,2017-10-20,NOP,GSW,12.5,2,11,30,NOP,NOP,fg_miss,72,True,False,MISS Allen 1' Putback Layup,,22-22,22,22
+0021700025,2017-10-20,NOP,GSW,12.5,2,11,30,NOP,GSW,block,72,True,False,block,block,22-22,22,22
 0021700025,2017-10-20,NOP,GSW,12.5,2,11,30,GSW,GSW,reb,0,False,False,,Durant REBOUND (Off:0 Def:1),22-22,22,22
-0021700025,2017-10-20,NOP,GSW,12.5,2,11,30,NOP,GSW,block,72,True,False,block,block,22-22,22,22
-0021700025,2017-10-20,NOP,GSW,12.5,2,11,30,NOP,GSW,block,72,True,False,block,block,22-22,22,22
 0021700025,2017-10-20,NOP,GSW,12.72,2,11,17,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.2 Short 0),22-22,22,22
 0021700025,2017-10-20,NOP,GSW,12.85,2,11,9,GSW,GSW,fg_miss,1,False,False,,MISS Young 17' Jump Shot,22-22,22,22
 0021700025,2017-10-20,NOP,GSW,12.85,2,11,9,NOP,NOP,reb,0,False,False,Cousins REBOUND (Off:0 Def:2),,22-22,22,22
@@ -175,8 +175,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700025,2017-10-20,NOP,GSW,18.58,2,5,25,GSW,NOP,foul,26,False,False,Cousins Offensive Charge Foul (P1.T4) (E.Malloy),,40-36,40,36
 0021700025,2017-10-20,NOP,GSW,18.58,2,5,25,NOP,NOP,tov,37,False,False,Cousins Offensive Foul Turnover (P2.T5),,40-36,40,36
 0021700025,2017-10-20,NOP,GSW,18.75,2,5,15,GSW,GSW,fg_miss,5,True,False,,MISS Durant 1' Layup,40-36,40,36
-0021700025,2017-10-20,NOP,GSW,18.75,2,5,15,NOP,NOP,reb,0,False,False,PELICANS Rebound,,40-36,40,36
 0021700025,2017-10-20,NOP,GSW,18.75,2,5,15,GSW,NOP,block,5,True,False,block,block,40-36,40,36
+0021700025,2017-10-20,NOP,GSW,18.75,2,5,15,NOP,NOP,reb,0,False,False,PELICANS Rebound,,40-36,40,36
 0021700025,2017-10-20,NOP,GSW,18.92,2,5,5,NOP,GSW,foul,1,False,False,,Thompson P.FOUL (P1.PN) (A.Smith),40-36,40,36
 0021700025,2017-10-20,NOP,GSW,18.95,2,5,3,GSW,NOP,foul,26,False,False,Cousins Offensive Charge Foul (P2.PN) (E.Malloy),,40-36,40,36
 0021700025,2017-10-20,NOP,GSW,18.95,2,5,3,NOP,NOP,tov,37,False,False,Cousins Offensive Foul Turnover (P3.T6),,40-36,40,36
@@ -205,8 +205,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700025,2017-10-20,NOP,GSW,21.27,2,2,44,GSW,GSW,fg_miss,5,False,False,,MISS Pachulia 2' Layup,45-44,45,44
 0021700025,2017-10-20,NOP,GSW,21.27,2,2,44,NOP,NOP,reb,0,False,False,Davis REBOUND (Off:1 Def:4),,45-44,45,44
 0021700025,2017-10-20,NOP,GSW,21.52,2,2,29,NOP,NOP,fg_miss,5,True,False,MISS Holiday 3' Layup,,45-44,45,44
-0021700025,2017-10-20,NOP,GSW,21.52,2,2,29,GSW,GSW,reb,0,False,False,,Thompson REBOUND (Off:2 Def:1),45-44,45,44
 0021700025,2017-10-20,NOP,GSW,21.52,2,2,29,NOP,GSW,block,5,True,False,block,block,45-44,45,44
+0021700025,2017-10-20,NOP,GSW,21.52,2,2,29,GSW,GSW,reb,0,False,False,,Thompson REBOUND (Off:2 Def:1),45-44,45,44
 0021700025,2017-10-20,NOP,GSW,21.65,2,2,21,GSW,GSW,fg3_miss,1,False,False,,MISS Curry 27' 3PT Jump Shot,45-44,45,44
 0021700025,2017-10-20,NOP,GSW,21.65,2,2,21,NOP,NOP,reb,0,False,False,Holiday REBOUND (Off:0 Def:3),,45-44,45,44
 0021700025,2017-10-20,NOP,GSW,21.97,2,2,2,NOP,NOP,fg_miss,1,False,False,MISS Davis 14' Jump Shot,,45-44,45,44
@@ -265,8 +265,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700025,2017-10-20,NOP,GSW,27.28,3,8,43,NOP,NOP,reb,0,False,False,Cousins REBOUND (Off:0 Def:5),,49-66,49,66
 0021700025,2017-10-20,NOP,GSW,27.45,3,8,33,NOP,GSW,foul,1,False,False,,Pachulia P.FOUL (P4.T3) (E.Malloy),49-66,49,66
 0021700025,2017-10-20,NOP,GSW,27.6,3,8,24,NOP,NOP,fg3_miss,1,True,False,MISS Holiday 27' 3PT Jump Shot,,49-66,49,66
-0021700025,2017-10-20,NOP,GSW,27.6,3,8,24,GSW,GSW,reb,0,False,False,,Thompson REBOUND (Off:2 Def:2),49-66,49,66
 0021700025,2017-10-20,NOP,GSW,27.6,3,8,24,NOP,GSW,block,1,True,False,block,block,49-66,49,66
+0021700025,2017-10-20,NOP,GSW,27.6,3,8,24,GSW,GSW,reb,0,False,False,,Thompson REBOUND (Off:2 Def:2),49-66,49,66
 0021700025,2017-10-20,NOP,GSW,27.62,3,8,23,GSW,GSW,fg_make,7,False,False,,Thompson 3' Dunk (15 PTS),49-68,49,68
 0021700025,2017-10-20,NOP,GSW,27.63,3,8,22,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 4 Short 0),,49-68,49,68
 0021700025,2017-10-20,NOP,GSW,27.85,3,8,9,NOP,NOP,fg3_miss,1,False,False,MISS Moore 27' 3PT Jump Shot,,49-68,49,68
@@ -289,8 +289,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700025,2017-10-20,NOP,GSW,29.12,3,6,53,GSW,GSW,tov,1,False,True,,Curry Bad Pass Turnover (P1.T8),53-71,53,71
 0021700025,2017-10-20,NOP,GSW,29.12,3,6,53,GSW,NOP,steal,1,False,True,steal,steal,53-71,53,71
 0021700025,2017-10-20,NOP,GSW,29.17,3,6,50,NOP,NOP,fg_miss,5,True,False,MISS Holiday 5' Layup,,53-71,53,71
-0021700025,2017-10-20,NOP,GSW,29.17,3,6,50,NOP,NOP,reb,0,False,False,PELICANS Rebound,,53-71,53,71
 0021700025,2017-10-20,NOP,GSW,29.17,3,6,50,NOP,GSW,block,5,True,False,block,block,53-71,53,71
+0021700025,2017-10-20,NOP,GSW,29.17,3,6,50,NOP,NOP,reb,0,False,False,PELICANS Rebound,,53-71,53,71
 0021700025,2017-10-20,NOP,GSW,29.23,3,6,46,NOP,GSW,foul,1,False,False,,McGee P.FOUL (P2.PN) (K.Lane),53-71,53,71
 0021700025,2017-10-20,NOP,GSW,29.23,3,6,46,NOP,NOP,ft_make,11,False,False,Cousins Free Throw 1 of 2 (11 PTS),,54-71,54,71
 0021700025,2017-10-20,NOP,GSW,29.23,3,6,46,NOP,NOP,ft_make,12,False,False,Cousins Free Throw 2 of 2 (12 PTS),,55-71,55,71
@@ -317,8 +317,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700025,2017-10-20,NOP,GSW,31.43,3,4,34,NOP,NOP,fg_make,87,False,False,Davis 1' Putback Dunk (22 PTS),,63-79,63,79
 0021700025,2017-10-20,NOP,GSW,31.47,3,4,32,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.3 Short 0),63-79,63,79
 0021700025,2017-10-20,NOP,GSW,31.65,3,4,21,GSW,GSW,fg_miss,5,True,False,,MISS Green 5' Layup,63-79,63,79
-0021700025,2017-10-20,NOP,GSW,31.65,3,4,21,NOP,NOP,reb,0,False,False,Davis REBOUND (Off:3 Def:5),,63-79,63,79
 0021700025,2017-10-20,NOP,GSW,31.65,3,4,21,GSW,NOP,block,5,True,False,block,block,63-79,63,79
+0021700025,2017-10-20,NOP,GSW,31.65,3,4,21,NOP,NOP,reb,0,False,False,Davis REBOUND (Off:3 Def:5),,63-79,63,79
 0021700025,2017-10-20,NOP,GSW,31.77,3,4,14,NOP,NOP,fg_make,78,False,False,Davis 6' Floating Jump Shot (24 PTS),,65-79,65,79
 0021700025,2017-10-20,NOP,GSW,31.98,3,4,1,GSW,GSW,fg_make,5,False,False,,Curry 3' Layup (18 PTS),65-81,65,81
 0021700025,2017-10-20,NOP,GSW,32.1,3,3,54,NOP,NOP,fg3_miss,1,False,False,MISS Miller 28' 3PT Jump Shot,,65-81,65,81
@@ -406,8 +406,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700025,2017-10-20,NOP,GSW,40.43,4,7,34,GSW,GSW,fg_miss,1,False,False,,MISS Durant 17' Jump Shot,81-103,81,103
 0021700025,2017-10-20,NOP,GSW,40.5,4,7,30,NOP,NOP,reb,0,False,False,Cousins REBOUND (Off:1 Def:6),,81-103,81,103
 0021700025,2017-10-20,NOP,GSW,40.75,4,7,15,NOP,NOP,fg_miss,5,True,False,MISS Cousins 5' Layup,,81-103,81,103
-0021700025,2017-10-20,NOP,GSW,40.75,4,7,15,NOP,NOP,reb,0,False,False,Cousins REBOUND (Off:2 Def:6),,81-103,81,103
 0021700025,2017-10-20,NOP,GSW,40.75,4,7,15,NOP,GSW,block,5,True,False,block,block,81-103,81,103
+0021700025,2017-10-20,NOP,GSW,40.75,4,7,15,NOP,NOP,reb,0,False,False,Cousins REBOUND (Off:2 Def:6),,81-103,81,103
 0021700025,2017-10-20,NOP,GSW,40.82,4,7,11,,NOP,jump_ball,0,False,False,Jump Ball Cousins vs. Livingston: Tip to Durant,,81-103,81,103
 0021700025,2017-10-20,NOP,GSW,40.82,4,7,11,NOP,NOP,tov,2,False,True,Cousins Lost Ball Turnover (P6.T15),,81-103,81,103
 0021700025,2017-10-20,NOP,GSW,40.82,4,7,11,NOP,GSW,steal,2,False,True,steal,steal,81-103,81,103
@@ -415,10 +415,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700025,2017-10-20,NOP,GSW,41.35,4,6,39,NOP,NOP,fg_miss,5,False,False,MISS Holiday 5' Layup,,81-105,81,105
 0021700025,2017-10-20,NOP,GSW,41.35,4,6,39,GSW,GSW,reb,0,False,False,,Livingston REBOUND (Off:1 Def:3),81-105,81,105
 0021700025,2017-10-20,NOP,GSW,41.47,4,6,32,GSW,GSW,fg_miss,5,True,False,,MISS Livingston 4' Layup,81-105,81,105
+0021700025,2017-10-20,NOP,GSW,41.47,4,6,32,GSW,NOP,block,5,True,False,block,block,81-105,81,105
 0021700025,2017-10-20,NOP,GSW,41.47,4,6,32,GSW,GSW,reb,0,False,False,,Livingston REBOUND (Off:2 Def:3),81-105,81,105
 0021700025,2017-10-20,NOP,GSW,41.47,4,6,32,GSW,GSW,fg3_miss,1,False,False,,MISS Thompson 24' 3PT Jump Shot,81-105,81,105
 0021700025,2017-10-20,NOP,GSW,41.47,4,6,32,GSW,GSW,reb,0,False,False,,West REBOUND (Off:1 Def:0),81-105,81,105
-0021700025,2017-10-20,NOP,GSW,41.47,4,6,32,GSW,NOP,block,5,True,False,block,block,81-105,81,105
 0021700025,2017-10-20,NOP,GSW,41.47,4,6,32,GSW,GSW,fg_make,72,False,False,,West 1' Putback Layup (11 PTS),81-107,81,107
 0021700025,2017-10-20,NOP,GSW,41.77,4,6,14,NOP,NOP,fg_make,98,False,False,Holiday 7' Cutting Layup Shot (8 PTS) (Cousins 4 AST),,83-107,83,107
 0021700025,2017-10-20,NOP,GSW,42.25,4,5,45,GSW,GSW,fg_make,1,False,False,,Thompson 16' Jump Shot (25 PTS),83-109,83,109
@@ -446,8 +446,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700025,2017-10-20,NOP,GSW,45.45,4,2,33,GSW,GSW,fg_miss,5,False,False,,MISS Pachulia 1' Layup,96-117,96,117
 0021700025,2017-10-20,NOP,GSW,45.45,4,2,33,NOP,NOP,reb,0,False,False,Cousins REBOUND (Off:4 Def:9),,96-117,96,117
 0021700025,2017-10-20,NOP,GSW,45.82,4,2,11,NOP,NOP,fg_miss,47,True,False,MISS Crawford 12' Turnaround Jump Shot,,96-117,96,117
-0021700025,2017-10-20,NOP,GSW,45.82,4,2,11,NOP,NOP,reb,0,False,False,Crawford REBOUND (Off:1 Def:1),,96-117,96,117
 0021700025,2017-10-20,NOP,GSW,45.82,4,2,11,NOP,GSW,block,47,True,False,block,block,96-117,96,117
+0021700025,2017-10-20,NOP,GSW,45.82,4,2,11,NOP,NOP,reb,0,False,False,Crawford REBOUND (Off:1 Def:1),,96-117,96,117
 0021700025,2017-10-20,NOP,GSW,45.85,4,2,9,NOP,NOP,tov,11,False,False,PELICANS Turnover: Shot Clock (T#18),,96-117,96,117
 0021700025,2017-10-20,NOP,GSW,46.05,4,1,57,GSW,GSW,fg3_miss,1,False,False,,MISS Thompson 26' 3PT Jump Shot,96-117,96,117
 0021700025,2017-10-20,NOP,GSW,46.05,4,1,57,NOP,NOP,reb,0,False,False,Davis REBOUND (Off:4 Def:9),,96-117,96,117
@@ -462,10 +462,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700025,2017-10-20,NOP,GSW,47.35,4,0,39,GSW,GSW,fg_make,5,False,False,,Pachulia 3' Layup (8 PTS) (Durant 2 AST),101-122,101,122
 0021700025,2017-10-20,NOP,GSW,47.55,4,0,27,NOP,NOP,fg_make,5,False,False,Cousins 2' Layup (30 PTS),,103-122,103,122
 0021700025,2017-10-20,NOP,GSW,47.65,4,0,21,GSW,NOP,foul,1,False,False,Holiday P.FOUL (P4.T4) (E.Malloy),,103-122,103,122
-0021700025,2017-10-20,NOP,GSW,47.7,4,0,18,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 7 Short 0),,103-122,103,122
 0021700025,2017-10-20,NOP,GSW,47.7,4,0,18,GSW,NOP,foul,1,False,False,Clark P.FOUL (P2.PN) (E.Malloy),,103-122,103,122
-0021700025,2017-10-20,NOP,GSW,47.7,4,0,18,GSW,GSW,ft_make,12,False,False,,Curry Free Throw 2 of 2 (27 PTS),103-123,103,123
 0021700025,2017-10-20,NOP,GSW,47.7,4,0,18,GSW,GSW,ft_make,11,False,False,,Curry Free Throw 1 of 2 (28 PTS),103-124,103,124
+0021700025,2017-10-20,NOP,GSW,47.7,4,0,18,GSW,GSW,ft_make,12,False,False,,Curry Free Throw 2 of 2 (27 PTS),103-123,103,123
+0021700025,2017-10-20,NOP,GSW,47.7,4,0,18,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 7 Short 0),,103-122,103,122
 0021700025,2017-10-20,NOP,GSW,47.77,4,0,14,NOP,NOP,fg3_miss,1,False,False,MISS Cousins 26' 3PT Jump Shot,,103-124,103,124
 0021700025,2017-10-20,NOP,GSW,47.77,4,0,14,GSW,GSW,reb,0,False,False,,Durant REBOUND (Off:0 Def:8),103-124,103,124
 0021700025,2017-10-20,NOP,GSW,48.0,4,0,0,GSW,,period_end,0,False,False,,,103-124,103,124

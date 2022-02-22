@@ -24,8 +24,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700436,2017-12-16,MEM,BOS,3.17,1,8,50,MEM,BOS,steal,1,False,True,steal,steal,5-6,5,6
 0021700436,2017-12-16,MEM,BOS,3.18,1,8,49,BOS,BOS,tov,40,False,False,,Irving Out of Bounds Lost Ball Turnover (P1.T1),5-6,5,6
 0021700436,2017-12-16,MEM,BOS,3.52,1,8,29,MEM,MEM,fg_miss,1,True,False,MISS Brooks 3' Jump Shot,,5-6,5,6
-0021700436,2017-12-16,MEM,BOS,3.52,1,8,29,BOS,BOS,reb,0,False,False,,Celtics Rebound,5-6,5,6
 0021700436,2017-12-16,MEM,BOS,3.52,1,8,29,MEM,BOS,block,1,True,False,block,block,5-6,5,6
+0021700436,2017-12-16,MEM,BOS,3.52,1,8,29,BOS,BOS,reb,0,False,False,,Celtics Rebound,5-6,5,6
 0021700436,2017-12-16,MEM,BOS,3.65,1,8,21,BOS,BOS,fg_miss,79,False,False,,MISS Irving 20' Pullup Jump Shot,5-6,5,6
 0021700436,2017-12-16,MEM,BOS,3.65,1,8,21,MEM,MEM,reb,0,False,False,Brooks REBOUND (Off:0 Def:1),,5-6,5,6
 0021700436,2017-12-16,MEM,BOS,3.78,1,8,13,MEM,MEM,tov,45,False,False,Green Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,5-6,5,6
@@ -70,8 +70,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700436,2017-12-16,MEM,BOS,9.37,1,2,38,BOS,BOS,fg3_make,1,False,False,,Tatum 25' 3PT Jump Shot (6 PTS) (Irving 3 AST),8-27,8,27
 0021700436,2017-12-16,MEM,BOS,9.5,1,2,30,MEM,MEM,timeout,1,False,False,GRIZZLIES Timeout: Regular (Full 2 Short 0),,8-27,8,27
 0021700436,2017-12-16,MEM,BOS,9.73,1,2,16,MEM,MEM,tov,1,False,True,Evans Bad Pass Turnover (P1.T5),,8-27,8,27
-0021700436,2017-12-16,MEM,BOS,9.73,1,2,16,BOS,MEM,foul,1,False,False,McLemore P.FOUL (P2.PN) (M.Boland),,8-27,8,27
 0021700436,2017-12-16,MEM,BOS,9.73,1,2,16,MEM,BOS,steal,1,False,True,steal,steal,8-27,8,27
+0021700436,2017-12-16,MEM,BOS,9.73,1,2,16,BOS,MEM,foul,1,False,False,McLemore P.FOUL (P2.PN) (M.Boland),,8-27,8,27
 0021700436,2017-12-16,MEM,BOS,9.73,1,2,16,BOS,BOS,ft_make,11,False,False,,Tatum Free Throw 1 of 2 (7 PTS),8-28,8,28
 0021700436,2017-12-16,MEM,BOS,9.73,1,2,16,BOS,BOS,ft_make,12,False,False,,Tatum Free Throw 2 of 2 (8 PTS),8-29,8,29
 0021700436,2017-12-16,MEM,BOS,9.93,1,2,4,MEM,MEM,fg3_miss,1,False,False,MISS McLemore 27' 3PT Jump Shot,,8-29,8,29
@@ -126,8 +126,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700436,2017-12-16,MEM,BOS,14.4,2,9,36,BOS,BOS,fg3_miss,1,False,False,,MISS Theis 24' 3PT Jump Shot,18-34,18,34
 0021700436,2017-12-16,MEM,BOS,14.43,2,9,34,MEM,MEM,reb,0,False,False,Davis REBOUND (Off:0 Def:1),,18-34,18,34
 0021700436,2017-12-16,MEM,BOS,14.5,2,9,30,MEM,MEM,fg_miss,5,True,False,MISS Simmons 2' Layup,,18-34,18,34
-0021700436,2017-12-16,MEM,BOS,14.5,2,9,30,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,18-34,18,34
 0021700436,2017-12-16,MEM,BOS,14.5,2,9,30,MEM,BOS,block,5,True,False,block,block,18-34,18,34
+0021700436,2017-12-16,MEM,BOS,14.5,2,9,30,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,18-34,18,34
 0021700436,2017-12-16,MEM,BOS,14.7,2,9,18,MEM,MEM,fg_miss,1,False,False,MISS Brooks 14' Jump Shot,,18-34,18,34
 0021700436,2017-12-16,MEM,BOS,14.75,2,9,15,BOS,BOS,reb,0,False,False,,Larkin REBOUND (Off:0 Def:1),18-34,18,34
 0021700436,2017-12-16,MEM,BOS,14.85,2,9,9,BOS,BOS,fg_miss,79,True,False,,MISS Larkin 11' Pullup Jump Shot,18-34,18,34
@@ -238,8 +238,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700436,2017-12-16,MEM,BOS,29.65,3,6,21,BOS,BOS,fg_make,79,False,False,,Smart 12' Pullup Jump Shot (6 PTS),58-60,58,60
 0021700436,2017-12-16,MEM,BOS,29.98,3,6,1,MEM,MEM,fg_make,73,False,False,Green 1' Driving Reverse Layup (7 PTS),,60-60,60,60
 0021700436,2017-12-16,MEM,BOS,30.25,3,5,45,BOS,MEM,foul,2,False,False,Green S.FOUL (P3.T2) (J.Goble),,60-60,60,60
-0021700436,2017-12-16,MEM,BOS,30.25,3,5,45,BOS,BOS,ft_make,12,False,False,,Smart Free Throw 2 of 2 (7 PTS),60-61,60,61
 0021700436,2017-12-16,MEM,BOS,30.25,3,5,45,BOS,BOS,ft_make,11,False,False,,Smart Free Throw 1 of 2 (8 PTS),60-62,60,62
+0021700436,2017-12-16,MEM,BOS,30.25,3,5,45,BOS,BOS,ft_make,12,False,False,,Smart Free Throw 2 of 2 (7 PTS),60-61,60,61
 0021700436,2017-12-16,MEM,BOS,30.53,3,5,28,MEM,MEM,tov,1,False,True,Gasol Bad Pass Turnover (P2.T9),,60-62,60,62
 0021700436,2017-12-16,MEM,BOS,30.53,3,5,28,MEM,BOS,steal,1,False,True,steal,steal,60-62,60,62
 0021700436,2017-12-16,MEM,BOS,30.68,3,5,19,BOS,BOS,fg_make,98,False,False,,Irving 1' Cutting Layup Shot (17 PTS) (Smart 4 AST),60-64,60,64

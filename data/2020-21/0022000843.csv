@@ -165,8 +165,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000843,2021-04-15,PHX,SAC,23.15,2,0,51,SAC,SAC,fg3_miss,79,False,False,,MISS Fox 24' 3PT Pullup Jump Shot,67-65,67,65
 0022000843,2021-04-15,PHX,SAC,23.23,2,0,46,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:0 Def:4),,67-65,67,65
 0022000843,2021-04-15,PHX,SAC,23.43,2,0,34,PHX,PHX,fg_miss,6,True,False,MISS Payne 4' Driving Layup,,67-65,67,65
-0022000843,2021-04-15,PHX,SAC,23.43,2,0,34,PHX,PHX,reb,0,False,False,SUNS Rebound,,67-65,67,65
 0022000843,2021-04-15,PHX,SAC,23.43,2,0,34,PHX,SAC,block,6,True,False,block,block,67-65,67,65
+0022000843,2021-04-15,PHX,SAC,23.43,2,0,34,PHX,PHX,reb,0,False,False,SUNS Rebound,,67-65,67,65
 0022000843,2021-04-15,PHX,SAC,23.48,2,0,31,PHX,PHX,fg_miss,79,False,False,MISS Johnson 16' Pullup Jump Shot,,67-65,67,65
 0022000843,2021-04-15,PHX,SAC,23.53,2,0,28,SAC,SAC,reb,0,False,False,,Wright REBOUND (Off:0 Def:2),67-65,67,65
 0022000843,2021-04-15,PHX,SAC,23.9,2,0,6,SAC,SAC,fg_miss,5,True,False,,MISS Whiteside 3' Layup,67-65,67,65
@@ -210,9 +210,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000843,2021-04-15,PHX,SAC,28.72,3,7,17,PHX,SAC,foul,28,False,False,,Whiteside Personal Take Foul (P1.T3) (S.Corbin),82-77,82,77
 0022000843,2021-04-15,PHX,SAC,28.83,3,7,10,PHX,PHX,fg_make,5,False,False,Ayton 1' Layup (14 PTS) (Paul 8 AST),,84-77,84,77
 0022000843,2021-04-15,PHX,SAC,29.15,3,6,51,SAC,SAC,fg_miss,5,True,False,,MISS Whiteside 3' Layup,84-77,84,77
+0022000843,2021-04-15,PHX,SAC,29.15,3,6,51,SAC,PHX,block,5,True,False,block,block,84-77,84,77
 0022000843,2021-04-15,PHX,SAC,29.15,3,6,51,PHX,PHX,reb,0,False,False,SUNS Rebound,,84-77,84,77
 0022000843,2021-04-15,PHX,SAC,29.15,3,6,51,PHX,PHX,timeout,1,False,False,SUNS Timeout: Regular (Full 3 Short 0),,84-77,84,77
-0022000843,2021-04-15,PHX,SAC,29.15,3,6,51,SAC,PHX,block,5,True,False,block,block,84-77,84,77
 0022000843,2021-04-15,PHX,SAC,29.37,3,6,38,PHX,PHX,fg3_miss,1,False,False,MISS Paul 26' 3PT Jump Shot,,84-77,84,77
 0022000843,2021-04-15,PHX,SAC,29.42,3,6,35,SAC,SAC,reb,0,False,False,,Whiteside REBOUND (Off:3 Def:5),84-77,84,77
 0022000843,2021-04-15,PHX,SAC,29.8,3,6,12,SAC,SAC,fg_make,86,False,False,,Fox 13' Turnaround Fadeaway (14 PTS),84-79,84,79
@@ -254,8 +254,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000843,2021-04-15,PHX,SAC,34.7,3,1,18,SAC,SAC,fg_miss,58,False,False,,MISS Metu 9' Turnaround Hook Shot,93-90,93,90
 0022000843,2021-04-15,PHX,SAC,34.75,3,1,15,PHX,PHX,reb,0,False,False,Saric REBOUND (Off:1 Def:3),,93-90,93,90
 0022000843,2021-04-15,PHX,SAC,34.83,3,1,10,PHX,PHX,tov,1,False,True,Johnson Bad Pass Turnover (P1.T9),,93-90,93,90
-0022000843,2021-04-15,PHX,SAC,34.83,3,1,10,SAC,SAC,tov,39,False,False,,Haliburton Step Out of Bounds Turnover (P1.T9),93-90,93,90
 0022000843,2021-04-15,PHX,SAC,34.83,3,1,10,PHX,SAC,steal,1,False,True,steal,steal,93-90,93,90
+0022000843,2021-04-15,PHX,SAC,34.83,3,1,10,SAC,SAC,tov,39,False,False,,Haliburton Step Out of Bounds Turnover (P1.T9),93-90,93,90
 0022000843,2021-04-15,PHX,SAC,35.07,3,0,56,PHX,PHX,fg_make,102,False,False,Payne 5' Driving Floating Bank Jump Shot (8 PTS),,95-90,95,90
 0022000843,2021-04-15,PHX,SAC,35.38,3,0,37,SAC,PHX,foul,2,False,False,Saric S.FOUL (P4.T1) (G.Petraitis),,95-90,95,90
 0022000843,2021-04-15,PHX,SAC,35.38,3,0,37,SAC,SAC,ft_make,11,False,False,,Metu Free Throw 1 of 2 (3 PTS),95-91,95,91
@@ -323,8 +323,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000843,2021-04-15,PHX,SAC,42.23,4,5,46,PHX,PHX,fg_miss,98,False,False,MISS Craig 3' Cutting Layup Shot,,108-102,108,102
 0022000843,2021-04-15,PHX,SAC,42.27,4,5,44,SAC,SAC,reb,0,False,False,,Fox REBOUND (Off:0 Def:2),108-102,108,102
 0022000843,2021-04-15,PHX,SAC,42.33,4,5,40,SAC,SAC,fg_miss,41,False,False,,MISS Fox 6' Running Layup,108-102,108,102
-0022000843,2021-04-15,PHX,SAC,42.42,4,5,35,SAC,SAC,fg_make,97,False,False,,Fox Tip Layup Shot (20 PTS),108-104,108,104
 0022000843,2021-04-15,PHX,SAC,42.42,4,5,35,SAC,SAC,reb,0,False,False,,Fox REBOUND (Off:1 Def:2),108-104,108,104
+0022000843,2021-04-15,PHX,SAC,42.42,4,5,35,SAC,SAC,fg_make,97,False,False,,Fox Tip Layup Shot (20 PTS),108-104,108,104
 0022000843,2021-04-15,PHX,SAC,42.8,4,5,12,PHX,PHX,fg3_miss,1,False,False,MISS Carter 29' 3PT Jump Shot,,108-104,108,104
 0022000843,2021-04-15,PHX,SAC,42.83,4,5,10,SAC,SAC,reb,0,False,False,,Hield REBOUND (Off:0 Def:4),108-104,108,104
 0022000843,2021-04-15,PHX,SAC,43.05,4,4,57,SAC,PHX,foul,1,False,False,Carter P.FOUL (P1.T1) (J.Van Duyne),,108-104,108,104
@@ -375,8 +375,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000843,2021-04-15,PHX,SAC,47.02,4,0,59,PHX,PHX,fg_miss,5,True,False,MISS Booker 3' Layup,,120-112,120,112
 0022000843,2021-04-15,PHX,SAC,47.02,4,0,59,PHX,SAC,block,5,True,False,block,block,120-112,120,112
 0022000843,2021-04-15,PHX,SAC,47.03,4,0,58,PHX,PHX,reb,0,False,False,Crowder REBOUND (Off:1 Def:4),,120-112,120,112
-0022000843,2021-04-15,PHX,SAC,47.03,4,0,58,PHX,PHX,fg_make,72,False,False,Crowder 1' Putback Layup (5 PTS),,122-112,122,112
 0022000843,2021-04-15,PHX,SAC,47.03,4,0,58,SAC,SAC,timeout,1,False,False,,Kings Timeout: Regular (Reg.6 Short 0),122-112,122,112
+0022000843,2021-04-15,PHX,SAC,47.03,4,0,58,PHX,PHX,fg_make,72,False,False,Crowder 1' Putback Layup (5 PTS),,122-112,122,112
 0022000843,2021-04-15,PHX,SAC,47.15,4,0,51,SAC,SAC,fg3_miss,1,False,False,,MISS Harkless 3PT Jump Shot,122-112,122,112
 0022000843,2021-04-15,PHX,SAC,47.2,4,0,48,PHX,PHX,reb,0,False,False,Crowder REBOUND (Off:1 Def:5),,122-112,122,112
 0022000843,2021-04-15,PHX,SAC,47.53,4,0,28,PHX,PHX,fg_miss,75,False,False,MISS Paul 2' Driving Finger Roll Layup,,122-112,122,112

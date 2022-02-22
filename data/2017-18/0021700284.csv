@@ -9,8 +9,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700284,2017-11-25,GSW,NOP,0.8,1,11,12,GSW,GSW,fg_miss,1,False,False,MISS Pachulia 9' Jump Shot,,0-3,0,3
 0021700284,2017-11-25,GSW,NOP,0.87,1,11,8,NOP,NOP,reb,0,False,False,,Davis REBOUND (Off:0 Def:1),0-3,0,3
 0021700284,2017-11-25,GSW,NOP,0.92,1,11,5,NOP,NOP,fg_miss,5,True,False,,MISS Cousins 1' Layup,0-3,0,3
-0021700284,2017-11-25,GSW,NOP,0.92,1,11,5,NOP,NOP,reb,0,False,False,,Pelicans Rebound,0-3,0,3
 0021700284,2017-11-25,GSW,NOP,0.92,1,11,5,NOP,GSW,block,5,True,False,block,block,0-3,0,3
+0021700284,2017-11-25,GSW,NOP,0.92,1,11,5,NOP,NOP,reb,0,False,False,,Pelicans Rebound,0-3,0,3
 0021700284,2017-11-25,GSW,NOP,0.97,1,11,2,NOP,NOP,fg_make,98,False,False,,Holiday 2' Cutting Layup Shot (5 PTS) (Rondo 1 AST),0-5,0,5
 0021700284,2017-11-25,GSW,NOP,1.05,1,10,57,GSW,GSW,fg3_miss,1,False,False,MISS Thompson 26' 3PT Jump Shot,,0-5,0,5
 0021700284,2017-11-25,GSW,NOP,1.33,1,10,40,NOP,NOP,reb,0,False,False,,Cousins REBOUND (Off:0 Def:1),0-5,0,5
@@ -181,9 +181,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700284,2017-11-25,GSW,NOP,18.58,2,5,25,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,34-41,34,41
 0021700284,2017-11-25,GSW,NOP,18.9,2,5,6,GSW,GSW,fg_make,9,False,False,Livingston 2' Driving Dunk (4 PTS) (Iguodala 3 AST),,36-41,36,41
 0021700284,2017-11-25,GSW,NOP,19.1,2,4,54,NOP,GSW,foul,2,False,False,Casspi S.FOUL (P1.T4) (J.Goldenberg),,36-41,36,41
+0021700284,2017-11-25,GSW,NOP,19.1,2,4,54,GSW,NOP,ft_make,11,False,False,,Davis Free Throw 1 of 2 (7 PTS),36-42,36,42
 0021700284,2017-11-25,GSW,NOP,19.1,2,4,54,NOP,NOP,ft_miss,12,False,False,,MISS Davis Free Throw 2 of 2,36-41,36,41
 0021700284,2017-11-25,GSW,NOP,19.1,2,4,54,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:0 Def:1),,36-41,36,41
-0021700284,2017-11-25,GSW,NOP,19.1,2,4,54,GSW,NOP,ft_make,11,False,False,,Davis Free Throw 1 of 2 (7 PTS),36-42,36,42
 0021700284,2017-11-25,GSW,NOP,19.42,2,4,35,GSW,GSW,fg_miss,1,False,False,MISS Casspi 16' Jump Shot,,36-42,36,42
 0021700284,2017-11-25,GSW,NOP,19.48,2,4,31,NOP,NOP,reb,0,False,False,,Rondo REBOUND (Off:0 Def:3),36-42,36,42
 0021700284,2017-11-25,GSW,NOP,19.53,2,4,28,NOP,NOP,fg_miss,1,True,False,,MISS Moore 10' Jump Shot,36-42,36,42
@@ -452,9 +452,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700284,2017-11-25,GSW,NOP,46.28,4,1,43,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,105-95,105,95
 0021700284,2017-11-25,GSW,NOP,46.28,4,1,43,GSW,NOP,foul,3,False,False,,Davis L.B.FOUL (P1.PN) (J.Goldenberg),105-95,105,95
 0021700284,2017-11-25,GSW,NOP,46.28,4,1,43,GSW,NOP,foul,11,False,False,,Cousins T.FOUL (P5.PN) (S.Foster),105-95,105,95
-0021700284,2017-11-25,GSW,NOP,46.28,4,1,43,GSW,GSW,ft_make,16,False,False,Curry Free Throw Technical (24 PTS),,106-95,106,95
 0021700284,2017-11-25,GSW,NOP,46.28,4,1,43,GSW,GSW,ft_miss,11,False,False,MISS Pachulia Free Throw 1 of 2,,106-95,106,95
 0021700284,2017-11-25,GSW,NOP,46.28,4,1,43,GSW,GSW,reb,1,False,False,WARRIORS Rebound,,106-95,106,95
+0021700284,2017-11-25,GSW,NOP,46.28,4,1,43,GSW,GSW,ft_make,16,False,False,Curry Free Throw Technical (24 PTS),,106-95,106,95
 0021700284,2017-11-25,GSW,NOP,46.28,4,1,43,GSW,GSW,ft_make,12,False,False,Pachulia Free Throw 2 of 2 (10 PTS),,107-95,107,95
 0021700284,2017-11-25,GSW,NOP,46.28,4,1,43,NOP,NOP,timeout,1,False,False,,Pelicans Timeout: Regular (Reg.4 Short 0),107-95,107,95
 0021700284,2017-11-25,GSW,NOP,46.5,4,1,30,NOP,NOP,fg_miss,1,False,False,,MISS Holiday 12' Jump Shot,107-95,107,95

@@ -12,8 +12,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000522,2021-02-28,MIA,ATL,0.92,1,11,5,ATL,ATL,fg_make,79,False,False,,Huerter 9' Pullup Jump Shot (2 PTS) (Young 1 AST),2-2,2,2
 0022000522,2021-02-28,MIA,ATL,1.33,1,10,40,MIA,MIA,fg_make,1,False,False,Adebayo 11' Jump Shot (4 PTS) (Nunn 2 AST),,4-2,4,2
 0022000522,2021-02-28,MIA,ATL,1.58,1,10,25,ATL,ATL,fg_miss,6,True,False,,MISS Collins 5' Driving Layup,4-2,4,2
-0022000522,2021-02-28,MIA,ATL,1.58,1,10,25,ATL,ATL,reb,0,False,False,,Hawks Rebound,4-2,4,2
 0022000522,2021-02-28,MIA,ATL,1.58,1,10,25,ATL,MIA,block,6,True,False,block,block,4-2,4,2
+0022000522,2021-02-28,MIA,ATL,1.58,1,10,25,ATL,ATL,reb,0,False,False,,Hawks Rebound,4-2,4,2
 0022000522,2021-02-28,MIA,ATL,1.63,1,10,22,ATL,ATL,tov,1,False,True,,Young Bad Pass Turnover (P1.T1),4-2,4,2
 0022000522,2021-02-28,MIA,ATL,1.63,1,10,22,ATL,MIA,steal,1,False,True,steal,steal,4-2,4,2
 0022000522,2021-02-28,MIA,ATL,1.73,1,10,16,MIA,MIA,fg_make,76,False,False,Olynyk 2' Running Finger Roll Layup (2 PTS),,6-2,6,2
@@ -29,8 +29,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000522,2021-02-28,MIA,ATL,3.17,1,8,50,ATL,ATL,reb,0,False,False,,Huerter REBOUND (Off:0 Def:1),6-8,6,8
 0022000522,2021-02-28,MIA,ATL,3.3,1,8,42,ATL,ATL,fg3_make,1,False,False,,Snell 3PT Jump Shot (6 PTS) (Collins 1 AST),6-11,6,11
 0022000522,2021-02-28,MIA,ATL,3.67,1,8,20,MIA,MIA,tov,1,False,True,Robinson Bad Pass Turnover (P1.T2),,6-11,6,11
-0022000522,2021-02-28,MIA,ATL,3.67,1,8,20,ATL,MIA,foul,28,False,False,Olynyk Personal Take Foul (P1.T1) (J.Goble),,6-11,6,11
 0022000522,2021-02-28,MIA,ATL,3.67,1,8,20,MIA,ATL,steal,1,False,True,steal,steal,6-11,6,11
+0022000522,2021-02-28,MIA,ATL,3.67,1,8,20,ATL,MIA,foul,28,False,False,Olynyk Personal Take Foul (P1.T1) (J.Goble),,6-11,6,11
 0022000522,2021-02-28,MIA,ATL,3.9,1,8,6,ATL,ATL,fg3_miss,80,False,False,,MISS Young 31' 3PT Step Back Jump Shot,6-11,6,11
 0022000522,2021-02-28,MIA,ATL,3.95,1,8,3,MIA,MIA,reb,0,False,False,Nunn REBOUND (Off:0 Def:1),,6-11,6,11
 0022000522,2021-02-28,MIA,ATL,4.0,1,8,0,MIA,MIA,fg3_miss,79,False,False,MISS Nunn 26' 3PT Pullup Jump Shot,,6-11,6,11
@@ -70,8 +70,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000522,2021-02-28,MIA,ATL,7.67,1,4,20,MIA,MIA,fg_miss,1,False,False,MISS Adebayo 13' Jump Shot,,15-15,15,15
 0022000522,2021-02-28,MIA,ATL,7.72,1,4,17,ATL,ATL,reb,0,False,False,,Collins REBOUND (Off:0 Def:2),15-15,15,15
 0022000522,2021-02-28,MIA,ATL,7.85,1,4,9,ATL,ATL,fg_miss,6,True,False,,MISS Collins 5' Driving Layup,15-15,15,15
-0022000522,2021-02-28,MIA,ATL,7.85,1,4,9,MIA,MIA,reb,0,False,False,HEAT Rebound,,15-15,15,15
 0022000522,2021-02-28,MIA,ATL,7.85,1,4,9,ATL,MIA,block,6,True,False,block,block,15-15,15,15
+0022000522,2021-02-28,MIA,ATL,7.85,1,4,9,MIA,MIA,reb,0,False,False,HEAT Rebound,,15-15,15,15
 0022000522,2021-02-28,MIA,ATL,8.07,1,3,56,MIA,MIA,fg_make,73,False,False,Olynyk 2' Driving Reverse Layup (4 PTS) (Nunn 3 AST),,17-15,17,15
 0022000522,2021-02-28,MIA,ATL,8.23,1,3,46,ATL,MIA,foul,2,False,False,Olynyk S.FOUL (P2.T2) (J.Goble),,17-15,17,15
 0022000522,2021-02-28,MIA,ATL,8.23,1,3,46,ATL,ATL,ft_make,11,False,False,,Collins Free Throw 1 of 2 (1 PTS),17-16,17,16
@@ -127,16 +127,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000522,2021-02-28,MIA,ATL,13.45,2,10,33,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 26' 3PT Jump Shot,,29-21,29,21
 0022000522,2021-02-28,MIA,ATL,13.52,2,10,29,ATL,ATL,reb,0,False,False,,Capela REBOUND (Off:1 Def:2),29-21,29,21
 0022000522,2021-02-28,MIA,ATL,13.62,2,10,23,ATL,ATL,fg_miss,6,True,False,,MISS Rondo 6' Driving Layup,29-21,29,21
-0022000522,2021-02-28,MIA,ATL,13.62,2,10,23,MIA,MIA,reb,0,False,False,Vincent REBOUND (Off:0 Def:1),,29-21,29,21
 0022000522,2021-02-28,MIA,ATL,13.62,2,10,23,ATL,MIA,block,6,True,False,block,block,29-21,29,21
+0022000522,2021-02-28,MIA,ATL,13.62,2,10,23,MIA,MIA,reb,0,False,False,Vincent REBOUND (Off:0 Def:1),,29-21,29,21
 0022000522,2021-02-28,MIA,ATL,13.68,2,10,19,MIA,MIA,fg_make,7,False,False,Iguodala 2' Dunk (2 PTS) (Vincent 1 AST),,31-21,31,21
 0022000522,2021-02-28,MIA,ATL,13.68,2,10,19,ATL,ATL,timeout,1,False,False,,Hawks Timeout: Regular (Reg.2 Short 0),31-21,31,21
 0022000522,2021-02-28,MIA,ATL,14.03,2,9,58,ATL,ATL,fg_make,58,False,False,,Capela 6' Turnaround Hook Shot (2 PTS) (S. Hill 1 AST),31-23,31,23
 0022000522,2021-02-28,MIA,ATL,14.33,2,9,40,MIA,MIA,fg_make,43,False,False,Adebayo 2' Alley Oop Layup (6 PTS) (Herro 1 AST),,33-23,33,23
 0022000522,2021-02-28,MIA,ATL,14.8,2,9,12,ATL,ATL,fg_miss,6,True,False,,MISS Capela 4' Driving Layup,33-23,33,23
+0022000522,2021-02-28,MIA,ATL,14.8,2,9,12,ATL,MIA,block,6,True,False,block,block,33-23,33,23
 0022000522,2021-02-28,MIA,ATL,14.8,2,9,12,ATL,ATL,reb,0,False,False,,Hawks Rebound,33-23,33,23
 0022000522,2021-02-28,MIA,ATL,14.8,2,9,12,ATL,ATL,tov,11,False,False,,Hawks Turnover: Shot Clock (T#5),33-23,33,23
-0022000522,2021-02-28,MIA,ATL,14.8,2,9,12,ATL,MIA,block,6,True,False,block,block,33-23,33,23
 0022000522,2021-02-28,MIA,ATL,14.97,2,9,2,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 26' 3PT Jump Shot,,33-23,33,23
 0022000522,2021-02-28,MIA,ATL,15.02,2,8,59,ATL,ATL,reb,0,False,False,,Gallinari REBOUND (Off:0 Def:1),33-23,33,23
 0022000522,2021-02-28,MIA,ATL,15.17,2,8,50,ATL,ATL,tov,45,False,False,,Young Out of Bounds - Bad Pass Turnover Turnover (P2.T6),33-23,33,23
@@ -240,8 +240,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000522,2021-02-28,MIA,ATL,25.67,3,10,20,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:3 Def:7),,57-48,57,48
 0022000522,2021-02-28,MIA,ATL,25.88,3,10,7,MIA,MIA,tov,2,False,True,Dragic Lost Ball Turnover (P3.T9),,57-48,57,48
 0022000522,2021-02-28,MIA,ATL,25.88,3,10,7,MIA,ATL,steal,2,False,True,steal,steal,57-48,57,48
-0022000522,2021-02-28,MIA,ATL,26.05,3,9,57,ATL,ATL,tov,1,False,False,,Young Bad Pass Turnover (P6.T11),57-48,57,48
 0022000522,2021-02-28,MIA,ATL,26.05,3,9,57,MIA,ATL,foul,3,False,False,,Collins L.B.FOUL (P2.T1) (R.Hussey),57-48,57,48
+0022000522,2021-02-28,MIA,ATL,26.05,3,9,57,ATL,ATL,tov,1,False,False,,Young Bad Pass Turnover (P6.T11),57-48,57,48
 0022000522,2021-02-28,MIA,ATL,26.3,3,9,42,MIA,MIA,fg_make,98,False,False,Olynyk 1' Cutting Layup Shot (6 PTS) (Adebayo 3 AST),,59-48,59,48
 0022000522,2021-02-28,MIA,ATL,26.58,3,9,25,ATL,ATL,fg_miss,5,False,False,,MISS Collins 2' Layup,59-48,59,48
 0022000522,2021-02-28,MIA,ATL,26.62,3,9,23,ATL,ATL,reb,0,False,False,,Collins REBOUND (Off:3 Def:3),59-48,59,48
@@ -274,8 +274,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000522,2021-02-28,MIA,ATL,30.17,3,5,50,ATL,ATL,fg_make,3,False,False,,Capela 6' Hook Shot (12 PTS) (Huerter 2 AST),63-63,63,63
 0022000522,2021-02-28,MIA,ATL,30.35,3,5,39,MIA,MIA,fg3_make,1,False,False,Olynyk 27' 3PT Jump Shot (9 PTS) (Dragic 2 AST),,66-63,66,63
 0022000522,2021-02-28,MIA,ATL,30.77,3,5,14,ATL,ATL,fg_miss,57,False,False,,MISS Capela 5' Driving Hook Shot,66-63,66,63
-0022000522,2021-02-28,MIA,ATL,30.83,3,5,10,ATL,ATL,fg_make,97,False,False,,Capela Tip Layup Shot (14 PTS),66-65,66,65
 0022000522,2021-02-28,MIA,ATL,30.83,3,5,10,ATL,ATL,reb,0,False,False,,Capela REBOUND (Off:4 Def:4),66-65,66,65
+0022000522,2021-02-28,MIA,ATL,30.83,3,5,10,ATL,ATL,fg_make,97,False,False,,Capela Tip Layup Shot (14 PTS),66-65,66,65
 0022000522,2021-02-28,MIA,ATL,31.05,3,4,57,MIA,MIA,fg_make,5,False,False,Nunn 2' Layup (19 PTS) (Robinson 3 AST),,68-65,68,65
 0022000522,2021-02-28,MIA,ATL,31.47,3,4,32,ATL,ATL,fg_make,93,False,False,,Collins 6' Driving Bank Hook Shot (25 PTS),68-67,68,67
 0022000522,2021-02-28,MIA,ATL,31.77,3,4,14,MIA,MIA,fg_miss,6,True,False,MISS Nunn 3' Driving Layup,,68-67,68,67
@@ -327,8 +327,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000522,2021-02-28,MIA,ATL,36.38,4,11,37,MIA,ATL,foul,4,False,False,,S. Hill OFF.Foul (P1) (J.Goble),78-77,78,77
 0022000522,2021-02-28,MIA,ATL,36.38,4,11,37,ATL,ATL,tov,37,False,False,,S. Hill Offensive Foul Turnover (P1.T12),78-77,78,77
 0022000522,2021-02-28,MIA,ATL,36.58,4,11,25,MIA,MIA,fg_miss,6,True,False,MISS Vincent 4' Driving Layup,,78-77,78,77
-0022000522,2021-02-28,MIA,ATL,36.58,4,11,25,MIA,MIA,reb,0,False,False,HEAT Rebound,,78-77,78,77
 0022000522,2021-02-28,MIA,ATL,36.58,4,11,25,MIA,ATL,block,6,True,False,block,block,78-77,78,77
+0022000522,2021-02-28,MIA,ATL,36.58,4,11,25,MIA,MIA,reb,0,False,False,HEAT Rebound,,78-77,78,77
 0022000522,2021-02-28,MIA,ATL,36.72,4,11,17,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 26' 3PT Jump Shot,,78-77,78,77
 0022000522,2021-02-28,MIA,ATL,36.75,4,11,15,ATL,ATL,reb,0,False,False,,Rondo REBOUND (Off:0 Def:3),78-77,78,77
 0022000522,2021-02-28,MIA,ATL,36.88,4,11,7,ATL,ATL,fg_make,86,False,False,,Gallinari 11' Turnaround Fadeaway (4 PTS) (Rondo 1 AST),78-79,78,79
@@ -429,8 +429,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000522,2021-02-28,MIA,ATL,47.07,4,0,56,ATL,ATL,fg_miss,1,False,False,,MISS Collins 12' Jump Shot,105-95,105,95
 0022000522,2021-02-28,MIA,ATL,47.12,4,0,53,MIA,MIA,reb,0,False,False,Herro REBOUND (Off:0 Def:2),,105-95,105,95
 0022000522,2021-02-28,MIA,ATL,47.37,4,0,38,MIA,MIA,fg_miss,75,True,False,MISS Dragic 5' Driving Finger Roll Layup,,105-95,105,95
-0022000522,2021-02-28,MIA,ATL,47.37,4,0,38,MIA,MIA,reb,0,False,False,HEAT Rebound,,105-95,105,95
 0022000522,2021-02-28,MIA,ATL,47.37,4,0,38,MIA,ATL,block,75,True,False,block,block,105-95,105,95
+0022000522,2021-02-28,MIA,ATL,47.37,4,0,38,MIA,MIA,reb,0,False,False,HEAT Rebound,,105-95,105,95
 0022000522,2021-02-28,MIA,ATL,47.47,4,0,32,MIA,MIA,fg_miss,1,False,False,MISS Adebayo 22' Jump Shot,,105-95,105,95
 0022000522,2021-02-28,MIA,ATL,47.52,4,0,29,ATL,ATL,reb,0,False,False,,Collins REBOUND (Off:3 Def:7),105-95,105,95
 0022000522,2021-02-28,MIA,ATL,47.6,4,0,24,ATL,ATL,fg_make,99,False,False,,Capela 1' Cutting Finger Roll Layup Shot (20 PTS) (Young 9 AST),105-97,105,97

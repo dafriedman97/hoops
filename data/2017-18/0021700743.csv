@@ -64,9 +64,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700743,2018-01-29,DEN,BOS,7.45,1,4,33,DEN,DEN,fg_make,6,False,False,Harris 2' Driving Layup (2 PTS) (Murray 3 AST),,15-16,15,16
 0021700743,2018-01-29,DEN,BOS,7.72,1,4,17,BOS,BOS,fg_make,66,False,False,,Irving 6' Jump Bank Shot (8 PTS),15-18,15,18
 0021700743,2018-01-29,DEN,BOS,7.93,1,4,4,DEN,DEN,fg_miss,6,True,False,MISS Harris 3' Driving Layup,,15-18,15,18
-0021700743,2018-01-29,DEN,BOS,7.93,1,4,4,BOS,BOS,tov,39,False,False,,Brown Step Out of Bounds Turnover (P1.T3),15-18,15,18
-0021700743,2018-01-29,DEN,BOS,7.93,1,4,4,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:1 Def:2),15-18,15,18
 0021700743,2018-01-29,DEN,BOS,7.93,1,4,4,DEN,BOS,block,6,True,False,block,block,15-18,15,18
+0021700743,2018-01-29,DEN,BOS,7.93,1,4,4,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:1 Def:2),15-18,15,18
+0021700743,2018-01-29,DEN,BOS,7.93,1,4,4,BOS,BOS,tov,39,False,False,,Brown Step Out of Bounds Turnover (P1.T3),15-18,15,18
 0021700743,2018-01-29,DEN,BOS,8.07,1,3,56,DEN,DEN,fg_miss,79,False,False,MISS Harris 16' Pullup Jump Shot,,15-18,15,18
 0021700743,2018-01-29,DEN,BOS,8.08,1,3,55,BOS,BOS,reb,0,False,False,,Celtics Rebound,15-18,15,18
 0021700743,2018-01-29,DEN,BOS,8.08,1,3,55,BOS,DEN,foul,3,False,False,Jokic L.B.FOUL (P1.T3) (J.Capers),,15-18,15,18
@@ -126,15 +126,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700743,2018-01-29,DEN,BOS,14.15,2,9,51,DEN,DEN,fg_miss,63,False,False,MISS Mudiay 18' Fadeaway Jumper,,24-36,24,36
 0021700743,2018-01-29,DEN,BOS,14.22,2,9,47,DEN,DEN,reb,0,False,False,Murray REBOUND (Off:1 Def:1),,24-36,24,36
 0021700743,2018-01-29,DEN,BOS,14.37,2,9,38,DEN,DEN,fg_miss,6,True,False,MISS Mudiay 2' Driving Layup,,24-36,24,36
+0021700743,2018-01-29,DEN,BOS,14.37,2,9,38,DEN,BOS,block,6,True,False,block,block,24-36,24,36
 0021700743,2018-01-29,DEN,BOS,14.37,2,9,38,DEN,DEN,reb,0,False,False,Lyles REBOUND (Off:1 Def:0),,24-36,24,36
 0021700743,2018-01-29,DEN,BOS,14.37,2,9,38,DEN,BOS,foul,2,False,False,,Tatum S.FOUL (P1.T1) (K.Cutler),24-36,24,36
-0021700743,2018-01-29,DEN,BOS,14.37,2,9,38,DEN,BOS,block,6,True,False,block,block,24-36,24,36
 0021700743,2018-01-29,DEN,BOS,14.37,2,9,38,DEN,DEN,ft_make,11,False,False,Lyles Free Throw 1 of 2 (6 PTS),,25-36,25,36
 0021700743,2018-01-29,DEN,BOS,14.37,2,9,38,DEN,DEN,ft_miss,12,False,False,MISS Lyles Free Throw 2 of 2,,25-36,25,36
 0021700743,2018-01-29,DEN,BOS,14.42,2,9,35,BOS,BOS,reb,0,False,False,,Ojeleye REBOUND (Off:0 Def:1),25-36,25,36
 0021700743,2018-01-29,DEN,BOS,14.68,2,9,19,BOS,BOS,fg_miss,3,True,False,,MISS Horford 12' Hook Shot,25-36,25,36
-0021700743,2018-01-29,DEN,BOS,14.68,2,9,19,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,25-36,25,36
 0021700743,2018-01-29,DEN,BOS,14.68,2,9,19,BOS,DEN,block,3,True,False,block,block,25-36,25,36
+0021700743,2018-01-29,DEN,BOS,14.68,2,9,19,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,25-36,25,36
 0021700743,2018-01-29,DEN,BOS,14.72,2,9,17,,DEN,jump_ball,0,False,False,Jump Ball Lyles vs. Horford: Tip to Barton,,25-36,25,36
 0021700743,2018-01-29,DEN,BOS,14.92,2,9,5,DEN,DEN,fg3_miss,1,False,False,MISS Harris 3PT Jump Shot,,25-36,25,36
 0021700743,2018-01-29,DEN,BOS,14.95,2,9,3,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:1 Def:2),25-36,25,36
@@ -181,8 +181,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700743,2018-01-29,DEN,BOS,19.52,2,4,29,DEN,DEN,fg_make,50,False,False,Harris 1' Running Dunk (9 PTS),,38-51,38,51
 0021700743,2018-01-29,DEN,BOS,19.52,2,4,29,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.1 Short 0),38-51,38,51
 0021700743,2018-01-29,DEN,BOS,19.77,2,4,14,BOS,BOS,fg_miss,5,False,False,,MISS Baynes 3' Layup,38-51,38,51
-0021700743,2018-01-29,DEN,BOS,19.78,2,4,13,BOS,BOS,reb,0,False,False,,Celtics Rebound,38-51,38,51
 0021700743,2018-01-29,DEN,BOS,19.78,2,4,13,BOS,BOS,tov,4,False,False,,Baynes Traveling Turnover (P2.T5),38-51,38,51
+0021700743,2018-01-29,DEN,BOS,19.78,2,4,13,BOS,BOS,reb,0,False,False,,Celtics Rebound,38-51,38,51
 0021700743,2018-01-29,DEN,BOS,19.98,2,4,1,DEN,DEN,fg_miss,78,False,False,MISS Jokic 13' Floating Jump Shot,,38-51,38,51
 0021700743,2018-01-29,DEN,BOS,19.98,2,4,1,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:4 Def:5),,38-51,38,51
 0021700743,2018-01-29,DEN,BOS,20.07,2,3,56,BOS,DEN,foul,26,False,False,Barton Offensive Charge Foul (P2.T2) (J.Capers),,38-51,38,51
@@ -221,8 +221,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700743,2018-01-29,DEN,BOS,23.18,2,0,49,DEN,DEN,fg_miss,5,False,False,MISS Plumlee 3' Layup,,42-56,42,56
 0021700743,2018-01-29,DEN,BOS,23.2,2,0,48,DEN,DEN,reb,0,False,False,Plumlee REBOUND (Off:2 Def:2),,42-56,42,56
 0021700743,2018-01-29,DEN,BOS,23.22,2,0,47,DEN,DEN,fg_miss,5,True,False,MISS Plumlee 2' Layup,,42-56,42,56
-0021700743,2018-01-29,DEN,BOS,23.22,2,0,47,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,42-56,42,56
 0021700743,2018-01-29,DEN,BOS,23.22,2,0,47,DEN,BOS,block,5,True,False,block,block,42-56,42,56
+0021700743,2018-01-29,DEN,BOS,23.22,2,0,47,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,42-56,42,56
 0021700743,2018-01-29,DEN,BOS,23.3,2,0,42,DEN,DEN,fg3_make,1,False,False,Lyles 24' 3PT Jump Shot (9 PTS) (Harris 2 AST),,45-56,45,56
 0021700743,2018-01-29,DEN,BOS,23.52,2,0,29,BOS,BOS,fg3_miss,1,False,False,,MISS Horford 25' 3PT Jump Shot,45-56,45,56
 0021700743,2018-01-29,DEN,BOS,23.57,2,0,26,DEN,DEN,reb,0,False,False,Barton REBOUND (Off:1 Def:3),,45-56,45,56
@@ -332,8 +332,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700743,2018-01-29,DEN,BOS,36.67,4,11,20,DEN,BOS,foul,1,False,False,,Morris Sr. P.FOUL (P1.T1) (J.Capers),83-82,83,82
 0021700743,2018-01-29,DEN,BOS,36.8,4,11,12,DEN,DEN,fg_make,98,False,False,Plumlee 3' Cutting Layup Shot (16 PTS) (Mudiay 3 AST),,85-82,85,82
 0021700743,2018-01-29,DEN,BOS,37.15,4,10,51,BOS,BOS,fg_miss,6,True,False,,MISS Tatum 3' Driving Layup,85-82,85,82
-0021700743,2018-01-29,DEN,BOS,37.15,4,10,51,BOS,BOS,reb,0,False,False,,Celtics Rebound,85-82,85,82
 0021700743,2018-01-29,DEN,BOS,37.15,4,10,51,BOS,DEN,block,6,True,False,block,block,85-82,85,82
+0021700743,2018-01-29,DEN,BOS,37.15,4,10,51,BOS,BOS,reb,0,False,False,,Celtics Rebound,85-82,85,82
 0021700743,2018-01-29,DEN,BOS,37.22,4,10,47,BOS,BOS,fg3_miss,1,False,False,,MISS Theis 26' 3PT Jump Shot,85-82,85,82
 0021700743,2018-01-29,DEN,BOS,37.27,4,10,44,DEN,DEN,reb,0,False,False,Craig REBOUND (Off:1 Def:1),,85-82,85,82
 0021700743,2018-01-29,DEN,BOS,37.5,4,10,30,DEN,DEN,fg3_make,1,False,False,Lyles 25' 3PT Jump Shot (12 PTS) (Mudiay 4 AST),,88-82,88,82

@@ -67,8 +67,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700366,2017-12-07,UTA,HOU,7.12,1,4,53,UTA,UTA,fg3_make,1,False,False,Jerebko 25' 3PT Jump Shot (3 PTS) (Ingles 1 AST),,15-15,15,15
 0021700366,2017-12-07,UTA,HOU,7.27,1,4,44,HOU,UTA,foul,1,False,False,Favors P.FOUL (P1.T4) (K.Mauer),,15-15,15,15
 0021700366,2017-12-07,UTA,HOU,7.47,1,4,32,HOU,HOU,fg_miss,3,True,False,,MISS Gordon 3' Hook Shot,15-15,15,15
-0021700366,2017-12-07,UTA,HOU,7.47,1,4,32,HOU,HOU,reb,0,False,False,,Rockets Rebound,15-15,15,15
 0021700366,2017-12-07,UTA,HOU,7.47,1,4,32,HOU,UTA,block,3,True,False,block,block,15-15,15,15
+0021700366,2017-12-07,UTA,HOU,7.47,1,4,32,HOU,HOU,reb,0,False,False,,Rockets Rebound,15-15,15,15
 0021700366,2017-12-07,UTA,HOU,7.52,1,4,29,HOU,HOU,fg3_miss,1,False,False,,MISS Harden 24' 3PT Jump Shot,15-15,15,15
 0021700366,2017-12-07,UTA,HOU,7.58,1,4,25,UTA,UTA,reb,0,False,False,Favors REBOUND (Off:0 Def:1),,15-15,15,15
 0021700366,2017-12-07,UTA,HOU,7.87,1,4,8,UTA,HOU,foul,2,False,False,,Tucker S.FOUL (P1.T4) (B.Forte),15-15,15,15
@@ -267,8 +267,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700366,2017-12-07,UTA,HOU,30.15,3,5,51,HOU,HOU,reb,0,False,False,,Harden REBOUND (Off:0 Def:5),58-74,58,74
 0021700366,2017-12-07,UTA,HOU,30.28,3,5,43,HOU,HOU,fg3_make,80,False,False,,Harden 25' 3PT Step Back Jump Shot (25 PTS),58-77,58,77
 0021700366,2017-12-07,UTA,HOU,30.53,3,5,28,UTA,UTA,fg_miss,9,True,False,MISS Mitchell 2' Driving Dunk,,58-77,58,77
-0021700366,2017-12-07,UTA,HOU,30.53,3,5,28,HOU,HOU,reb,0,False,False,,Rockets Rebound,58-77,58,77
 0021700366,2017-12-07,UTA,HOU,30.53,3,5,28,UTA,HOU,block,9,True,False,block,block,58-77,58,77
+0021700366,2017-12-07,UTA,HOU,30.53,3,5,28,HOU,HOU,reb,0,False,False,,Rockets Rebound,58-77,58,77
 0021700366,2017-12-07,UTA,HOU,30.77,3,5,14,HOU,UTA,foul,2,False,False,Jerebko S.FOUL (P2.T4) (G.Zielinski),,58-77,58,77
 0021700366,2017-12-07,UTA,HOU,30.77,3,5,14,HOU,HOU,ft_make,11,False,False,,Harden Free Throw 1 of 2 (26 PTS),58-78,58,78
 0021700366,2017-12-07,UTA,HOU,30.77,3,5,14,HOU,HOU,ft_make,12,False,False,,Harden Free Throw 2 of 2 (27 PTS),58-79,58,79
@@ -300,9 +300,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700366,2017-12-07,UTA,HOU,33.38,3,2,37,UTA,UTA,fg_miss,44,False,False,MISS Ingles 3' Reverse Layup,,61-83,61,83
 0021700366,2017-12-07,UTA,HOU,33.38,3,2,37,UTA,UTA,reb,0,False,False,Ingles REBOUND (Off:2 Def:2),,61-83,61,83
 0021700366,2017-12-07,UTA,HOU,33.52,3,2,29,HOU,HOU,fg_miss,5,True,False,,MISS Gordon 2' Layup,61-83,61,83
+0021700366,2017-12-07,UTA,HOU,33.52,3,2,29,HOU,UTA,block,5,True,False,block,block,61-83,61,83
 0021700366,2017-12-07,UTA,HOU,33.52,3,2,29,UTA,UTA,reb,0,False,False,JAZZ Rebound,,61-83,61,83
 0021700366,2017-12-07,UTA,HOU,33.52,3,2,29,HOU,HOU,timeout,1,False,False,,Rockets Timeout: Regular (Reg.3 Short 0),61-83,61,83
-0021700366,2017-12-07,UTA,HOU,33.52,3,2,29,HOU,UTA,block,5,True,False,block,block,61-83,61,83
 0021700366,2017-12-07,UTA,HOU,33.82,3,2,11,UTA,UTA,fg_make,79,False,False,Burks 13' Pullup Jump Shot (9 PTS),,63-83,63,83
 0021700366,2017-12-07,UTA,HOU,34.18,3,1,49,HOU,HOU,tov,1,False,True,,Paul Bad Pass Turnover (P1.T10),63-83,63,83
 0021700366,2017-12-07,UTA,HOU,34.18,3,1,49,HOU,UTA,steal,1,False,True,steal,steal,63-83,63,83
@@ -333,14 +333,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700366,2017-12-07,UTA,HOU,36.33,4,11,40,HOU,HOU,reb,0,False,False,,Paul REBOUND (Off:1 Def:6),66-88,66,88
 0021700366,2017-12-07,UTA,HOU,36.38,4,11,37,HOU,HOU,fg3_make,1,False,False,,Ariza 3PT Jump Shot (10 PTS) (Gordon 2 AST),66-91,66,91
 0021700366,2017-12-07,UTA,HOU,36.72,4,11,17,UTA,UTA,tov,1,False,True,Gobert Bad Pass Turnover (P4.T11),,66-91,66,91
-0021700366,2017-12-07,UTA,HOU,36.72,4,11,17,HOU,UTA,foul,1,False,False,Burks P.FOUL (P2.T1) (K.Mauer),,66-91,66,91
 0021700366,2017-12-07,UTA,HOU,36.72,4,11,17,UTA,HOU,steal,1,False,True,steal,steal,66-91,66,91
+0021700366,2017-12-07,UTA,HOU,36.72,4,11,17,HOU,UTA,foul,1,False,False,Burks P.FOUL (P2.T1) (K.Mauer),,66-91,66,91
 0021700366,2017-12-07,UTA,HOU,37.05,4,10,57,HOU,HOU,fg_miss,3,False,False,,MISS Black 3' Hook Shot,66-91,66,91
 0021700366,2017-12-07,UTA,HOU,37.07,4,10,56,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:2 Def:4),,66-91,66,91
 0021700366,2017-12-07,UTA,HOU,37.07,4,10,56,UTA,HOU,foul,1,False,False,,Paul P.FOUL (P2.T1) (B.Forte),66-91,66,91
 0021700366,2017-12-07,UTA,HOU,37.25,4,10,45,UTA,UTA,fg_miss,79,True,False,MISS Burks 17' Pullup Jump Shot,,66-91,66,91
-0021700366,2017-12-07,UTA,HOU,37.25,4,10,45,UTA,UTA,reb,0,False,False,JAZZ Rebound,,66-91,66,91
 0021700366,2017-12-07,UTA,HOU,37.25,4,10,45,UTA,HOU,block,79,True,False,block,block,66-91,66,91
+0021700366,2017-12-07,UTA,HOU,37.25,4,10,45,UTA,UTA,reb,0,False,False,JAZZ Rebound,,66-91,66,91
 0021700366,2017-12-07,UTA,HOU,37.42,4,10,35,UTA,UTA,fg3_make,79,False,False,Burks 26' 3PT Pullup Jump Shot (14 PTS) (O'Neale 1 AST),,69-91,69,91
 0021700366,2017-12-07,UTA,HOU,37.6,4,10,24,HOU,HOU,fg_make,79,False,False,,Paul 17' Pullup Jump Shot (13 PTS),69-93,69,93
 0021700366,2017-12-07,UTA,HOU,37.93,4,10,4,UTA,UTA,fg3_make,1,False,False,Neto 24' 3PT Jump Shot (5 PTS) (Burks 2 AST),,72-93,72,93
@@ -358,8 +358,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700366,2017-12-07,UTA,HOU,39.6,4,8,24,UTA,UTA,fg3_make,1,False,False,Burks 24' 3PT Jump Shot (17 PTS) (Rubio 1 AST),,79-96,79,96
 0021700366,2017-12-07,UTA,HOU,39.63,4,8,22,HOU,HOU,timeout,1,False,False,,Rockets Timeout: Regular (Reg.4 Short 0),79-96,79,96
 0021700366,2017-12-07,UTA,HOU,39.82,4,8,11,HOU,HOU,tov,2,False,True,,Gordon Lost Ball Turnover (P2.T14),79-96,79,96
-0021700366,2017-12-07,UTA,HOU,39.82,4,8,11,UTA,HOU,foul,3,False,False,,Gordon L.B.FOUL (P2.T2) (K.Mauer),79-96,79,96
 0021700366,2017-12-07,UTA,HOU,39.82,4,8,11,HOU,UTA,steal,2,False,True,steal,steal,79-96,79,96
+0021700366,2017-12-07,UTA,HOU,39.82,4,8,11,UTA,HOU,foul,3,False,False,,Gordon L.B.FOUL (P2.T2) (K.Mauer),79-96,79,96
 0021700366,2017-12-07,UTA,HOU,40.22,4,7,47,UTA,UTA,fg_make,79,False,False,Rubio 23' Pullup Jump Shot (5 PTS),,81-96,81,96
 0021700366,2017-12-07,UTA,HOU,40.45,4,7,33,HOU,UTA,foul,2,False,False,Sefolosha S.FOUL (P1.T2) (G.Zielinski),,81-96,81,96
 0021700366,2017-12-07,UTA,HOU,40.45,4,7,33,HOU,HOU,ft_make,11,False,False,,Gordon Free Throw 1 of 2 (9 PTS),81-97,81,97

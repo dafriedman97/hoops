@@ -50,11 +50,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700169,2017-11-10,DET,ATL,5.8,1,6,12,DET,DET,tov,1,False,False,Harris Bad Pass Turnover (P1.T2),,14-12,14,12
 0021700169,2017-11-10,DET,ATL,6.0,1,6,0,ATL,ATL,tov,4,False,False,,Collins Traveling Turnover (P1.T3),14-12,14,12
 0021700169,2017-11-10,DET,ATL,6.25,1,5,45,DET,ATL,foul,2,False,False,,Bazemore S.FOUL (P1.T4) (L.Holtkamp),14-12,14,12
-0021700169,2017-11-10,DET,ATL,6.25,1,5,45,DET,DET,ft_miss,12,False,False,MISS Bradley Free Throw 2 of 2,,14-12,14,12
-0021700169,2017-11-10,DET,ATL,6.25,1,5,45,DET,DET,reb,0,False,False,Drummond REBOUND (Off:2 Def:1),,14-12,14,12
+0021700169,2017-11-10,DET,ATL,6.25,1,5,45,DET,DET,fg_make,5,False,False,Drummond 2' Layup (6 PTS),,16-12,16,12
 0021700169,2017-11-10,DET,ATL,6.25,1,5,45,DET,DET,ft_miss,11,False,False,MISS Bradley Free Throw 1 of 2,,14-12,14,12
 0021700169,2017-11-10,DET,ATL,6.25,1,5,45,DET,DET,reb,1,False,False,PISTONS Rebound,,14-12,14,12
-0021700169,2017-11-10,DET,ATL,6.25,1,5,45,DET,DET,fg_make,5,False,False,Drummond 2' Layup (6 PTS),,16-12,16,12
+0021700169,2017-11-10,DET,ATL,6.25,1,5,45,DET,DET,ft_miss,12,False,False,MISS Bradley Free Throw 2 of 2,,14-12,14,12
+0021700169,2017-11-10,DET,ATL,6.25,1,5,45,DET,DET,reb,0,False,False,Drummond REBOUND (Off:2 Def:1),,14-12,14,12
 0021700169,2017-11-10,DET,ATL,6.25,1,5,45,ATL,ATL,tov,2,False,True,,Collins Lost Ball Turnover (P2.T4),16-12,16,12
 0021700169,2017-11-10,DET,ATL,6.25,1,5,45,ATL,DET,steal,2,False,True,steal,steal,16-12,16,12
 0021700169,2017-11-10,DET,ATL,6.67,1,5,20,DET,DET,fg3_make,1,False,False,Harris 27' 3PT Jump Shot (5 PTS) (Jackson 2 AST),,19-12,19,12
@@ -62,8 +62,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700169,2017-11-10,DET,ATL,6.97,1,5,2,ATL,ATL,fg_miss,1,False,False,,MISS Belinelli 16' Jump Shot,19-12,19,12
 0021700169,2017-11-10,DET,ATL,7.0,1,5,0,ATL,ATL,reb,0,False,False,,Prince REBOUND (Off:2 Def:0),19-12,19,12
 0021700169,2017-11-10,DET,ATL,7.03,1,4,58,ATL,ATL,fg_miss,5,True,False,,MISS Prince 1' Layup,19-12,19,12
-0021700169,2017-11-10,DET,ATL,7.03,1,4,58,ATL,ATL,reb,0,False,False,,Schroder REBOUND (Off:1 Def:0),19-12,19,12
 0021700169,2017-11-10,DET,ATL,7.03,1,4,58,ATL,DET,block,5,True,False,block,block,19-12,19,12
+0021700169,2017-11-10,DET,ATL,7.03,1,4,58,ATL,ATL,reb,0,False,False,,Schroder REBOUND (Off:1 Def:0),19-12,19,12
 0021700169,2017-11-10,DET,ATL,7.22,1,4,47,ATL,ATL,fg3_miss,1,False,False,,MISS Prince 26' 3PT Jump Shot,19-12,19,12
 0021700169,2017-11-10,DET,ATL,7.25,1,4,45,DET,DET,reb,0,False,False,Bullock REBOUND (Off:0 Def:1),,19-12,19,12
 0021700169,2017-11-10,DET,ATL,7.42,1,4,35,DET,DET,fg_miss,5,False,False,MISS Drummond 2' Layup,,19-12,19,12
@@ -88,8 +88,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700169,2017-11-10,DET,ATL,9.13,1,2,52,DET,ATL,block,5,True,False,block,block,19-14,19,14
 0021700169,2017-11-10,DET,ATL,9.17,1,2,50,DET,DET,reb,0,False,False,Drummond REBOUND (Off:5 Def:2),,19-14,19,14
 0021700169,2017-11-10,DET,ATL,9.18,1,2,49,DET,DET,fg_miss,5,True,False,MISS Drummond 2' Layup,,19-14,19,14
-0021700169,2017-11-10,DET,ATL,9.18,1,2,49,DET,DET,reb,0,False,False,Bullock REBOUND (Off:1 Def:1),,19-14,19,14
 0021700169,2017-11-10,DET,ATL,9.18,1,2,49,DET,ATL,block,5,True,False,block,block,19-14,19,14
+0021700169,2017-11-10,DET,ATL,9.18,1,2,49,DET,DET,reb,0,False,False,Bullock REBOUND (Off:1 Def:1),,19-14,19,14
 0021700169,2017-11-10,DET,ATL,9.32,1,2,41,DET,DET,fg3_miss,1,False,False,MISS Jackson 24' 3PT Jump Shot,,19-14,19,14
 0021700169,2017-11-10,DET,ATL,9.37,1,2,38,DET,DET,reb,0,False,False,Harris REBOUND (Off:1 Def:1),,19-14,19,14
 0021700169,2017-11-10,DET,ATL,9.53,1,2,28,DET,DET,fg3_miss,1,False,False,MISS Jackson 3PT Jump Shot,,19-14,19,14
@@ -118,8 +118,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700169,2017-11-10,DET,ATL,12.53,2,11,28,ATL,ATL,reb,0,False,False,,Delaney REBOUND (Off:0 Def:1),26-22,26,22
 0021700169,2017-11-10,DET,ATL,12.58,2,11,25,ATL,DET,foul,1,False,False,Smith P.FOUL (P1.T1) (L.Holtkamp),,26-22,26,22
 0021700169,2017-11-10,DET,ATL,12.6,2,11,24,ATL,ATL,fg_miss,5,True,False,,MISS Collins 4' Layup,26-22,26,22
-0021700169,2017-11-10,DET,ATL,12.6,2,11,24,DET,DET,reb,0,False,False,Tolliver REBOUND (Off:0 Def:1),,26-22,26,22
 0021700169,2017-11-10,DET,ATL,12.6,2,11,24,ATL,DET,block,5,True,False,block,block,26-22,26,22
+0021700169,2017-11-10,DET,ATL,12.6,2,11,24,DET,DET,reb,0,False,False,Tolliver REBOUND (Off:0 Def:1),,26-22,26,22
 0021700169,2017-11-10,DET,ATL,12.73,2,11,16,DET,DET,fg3_miss,1,False,False,MISS Tolliver 25' 3PT Jump Shot,,26-22,26,22
 0021700169,2017-11-10,DET,ATL,12.73,2,11,16,ATL,ATL,reb,0,False,False,,Babbitt REBOUND (Off:1 Def:2),26-22,26,22
 0021700169,2017-11-10,DET,ATL,13.03,2,10,58,ATL,ATL,fg_miss,1,False,False,,MISS Collins 17' Jump Shot,26-22,26,22
@@ -223,8 +223,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700169,2017-11-10,DET,ATL,24.8,3,11,12,DET,DET,fg_miss,1,False,False,MISS Harris 14' Jump Shot,,57-43,57,43
 0021700169,2017-11-10,DET,ATL,24.85,3,11,9,DET,DET,reb,0,False,False,Harris REBOUND (Off:2 Def:3),,57-43,57,43
 0021700169,2017-11-10,DET,ATL,24.88,3,11,7,DET,DET,fg_miss,5,True,False,MISS Harris 4' Layup,,57-43,57,43
-0021700169,2017-11-10,DET,ATL,24.88,3,11,7,ATL,ATL,reb,0,False,False,,Dedmon REBOUND (Off:0 Def:7),57-43,57,43
 0021700169,2017-11-10,DET,ATL,24.88,3,11,7,DET,ATL,block,5,True,False,block,block,57-43,57,43
+0021700169,2017-11-10,DET,ATL,24.88,3,11,7,ATL,ATL,reb,0,False,False,,Dedmon REBOUND (Off:0 Def:7),57-43,57,43
 0021700169,2017-11-10,DET,ATL,25.1,3,10,54,ATL,ATL,fg3_miss,1,False,False,,MISS Prince 29' 3PT Jump Shot,57-43,57,43
 0021700169,2017-11-10,DET,ATL,25.2,3,10,48,DET,DET,reb,0,False,False,Bradley REBOUND (Off:1 Def:1),,57-43,57,43
 0021700169,2017-11-10,DET,ATL,25.23,3,10,46,DET,ATL,foul,2,False,False,,Schroder S.FOUL (P1.T1) (J.Tiven),57-43,57,43
@@ -236,8 +236,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700169,2017-11-10,DET,ATL,25.8,3,10,12,ATL,DET,foul,1,False,False,Bullock P.FOUL (P1.T1) (J.Tiven),,59-46,59,46
 0021700169,2017-11-10,DET,ATL,25.88,3,10,7,ATL,ATL,fg_make,1,False,False,,Schroder 19' Jump Shot (9 PTS),59-48,59,48
 0021700169,2017-11-10,DET,ATL,26.18,3,9,49,DET,DET,fg_miss,5,True,False,MISS Bradley 2' Layup,,59-48,59,48
-0021700169,2017-11-10,DET,ATL,26.18,3,9,49,ATL,ATL,reb,0,False,False,,Collins REBOUND (Off:0 Def:2),59-48,59,48
 0021700169,2017-11-10,DET,ATL,26.18,3,9,49,DET,ATL,block,5,True,False,block,block,59-48,59,48
+0021700169,2017-11-10,DET,ATL,26.18,3,9,49,ATL,ATL,reb,0,False,False,,Collins REBOUND (Off:0 Def:2),59-48,59,48
 0021700169,2017-11-10,DET,ATL,26.33,3,9,40,ATL,ATL,tov,1,False,True,,Bazemore Bad Pass Turnover (P2.T13),59-48,59,48
 0021700169,2017-11-10,DET,ATL,26.33,3,9,40,ATL,DET,steal,1,False,True,steal,steal,59-48,59,48
 0021700169,2017-11-10,DET,ATL,26.42,3,9,35,DET,DET,fg_miss,5,True,False,MISS Bradley 4' Layup,,59-48,59,48

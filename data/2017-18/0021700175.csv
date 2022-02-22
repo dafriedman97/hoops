@@ -3,8 +3,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700175,2017-11-10,UTA,MIA,0.0,1,12,0,,UTA,jump_ball,0,False,False,Jump Ball Gobert vs. Whiteside: Tip to Favors,,0-0,0,0
 0021700175,2017-11-10,UTA,MIA,0.35,1,11,39,UTA,UTA,fg_make,6,False,False,Mitchell 2' Driving Layup (2 PTS) (Ingles 1 AST),,2-0,2,0
 0021700175,2017-11-10,UTA,MIA,0.72,1,11,17,MIA,MIA,fg_miss,5,True,False,,MISS Winslow 3' Layup,2-0,2,0
-0021700175,2017-11-10,UTA,MIA,0.72,1,11,17,UTA,UTA,reb,0,False,False,Ingles REBOUND (Off:0 Def:1),,2-0,2,0
 0021700175,2017-11-10,UTA,MIA,0.72,1,11,17,MIA,UTA,block,5,True,False,block,block,2-0,2,0
+0021700175,2017-11-10,UTA,MIA,0.72,1,11,17,UTA,UTA,reb,0,False,False,Ingles REBOUND (Off:0 Def:1),,2-0,2,0
 0021700175,2017-11-10,UTA,MIA,0.93,1,11,4,UTA,UTA,fg_make,44,False,False,Mitchell 2' Reverse Layup (4 PTS),,4-0,4,0
 0021700175,2017-11-10,UTA,MIA,1.25,1,10,45,MIA,MIA,fg3_miss,1,False,False,,MISS Winslow 24' 3PT Jump Shot,4-0,4,0
 0021700175,2017-11-10,UTA,MIA,1.28,1,10,43,MIA,MIA,reb,0,False,False,,Whiteside REBOUND (Off:1 Def:0),4-0,4,0
@@ -18,9 +18,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700175,2017-11-10,UTA,MIA,2.05,1,9,57,MIA,MIA,fg_miss,6,False,False,,MISS Dragic 8' Driving Layup,4-2,4,2
 0021700175,2017-11-10,UTA,MIA,2.08,1,9,55,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:0 Def:1),,4-2,4,2
 0021700175,2017-11-10,UTA,MIA,2.42,1,9,35,UTA,UTA,fg_miss,6,True,False,MISS Mitchell 2' Driving Layup,,4-2,4,2
+0021700175,2017-11-10,UTA,MIA,2.42,1,9,35,UTA,MIA,block,6,True,False,block,block,4-2,4,2
 0021700175,2017-11-10,UTA,MIA,2.42,1,9,35,UTA,UTA,reb,0,False,False,JAZZ Rebound,,4-2,4,2
 0021700175,2017-11-10,UTA,MIA,2.42,1,9,35,UTA,MIA,foul,1,False,False,,Waiters P.FOUL (P1.T1) (D.Collins),4-2,4,2
-0021700175,2017-11-10,UTA,MIA,2.42,1,9,35,UTA,MIA,block,6,True,False,block,block,4-2,4,2
 0021700175,2017-11-10,UTA,MIA,2.47,1,9,32,UTA,UTA,tov,1,False,True,Rubio Bad Pass Turnover (P1.T1),,4-2,4,2
 0021700175,2017-11-10,UTA,MIA,2.47,1,9,32,UTA,MIA,steal,1,False,True,steal,steal,4-2,4,2
 0021700175,2017-11-10,UTA,MIA,2.53,1,9,28,MIA,MIA,fg3_miss,1,False,False,,MISS Dragic 3PT Jump Shot,4-2,4,2
@@ -99,8 +99,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700175,2017-11-10,UTA,MIA,12.22,2,11,47,MIA,MIA,tov,37,False,False,,Olynyk Offensive Foul Turnover (P1.T5),22-25,22,25
 0021700175,2017-11-10,UTA,MIA,12.47,2,11,32,UTA,UTA,fg3_make,1,False,False,Hood 26' 3PT Jump Shot (9 PTS) (Rubio 2 AST),,25-25,25,25
 0021700175,2017-11-10,UTA,MIA,12.72,2,11,17,MIA,MIA,fg_miss,6,True,False,,MISS Richardson 4' Driving Layup,25-25,25,25
-0021700175,2017-11-10,UTA,MIA,12.72,2,11,17,MIA,MIA,reb,0,False,False,,Whiteside REBOUND (Off:2 Def:2),25-25,25,25
 0021700175,2017-11-10,UTA,MIA,12.72,2,11,17,MIA,UTA,block,6,True,False,block,block,25-25,25,25
+0021700175,2017-11-10,UTA,MIA,12.72,2,11,17,MIA,MIA,reb,0,False,False,,Whiteside REBOUND (Off:2 Def:2),25-25,25,25
 0021700175,2017-11-10,UTA,MIA,12.72,2,11,17,MIA,MIA,fg_make,5,False,False,,Whiteside 2' Layup (2 PTS),25-27,25,27
 0021700175,2017-11-10,UTA,MIA,12.72,2,11,17,MIA,UTA,foul,2,False,False,Hood S.FOUL (P2.T2) (D.Collins),,25-27,25,27
 0021700175,2017-11-10,UTA,MIA,12.72,2,11,17,MIA,MIA,ft_miss,10,False,False,,MISS Whiteside Free Throw 1 of 1,25-27,25,27
@@ -120,8 +120,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700175,2017-11-10,UTA,MIA,15.12,2,8,53,UTA,UTA,fg_miss,63,False,False,MISS Rubio 11' Fadeaway Jumper,,29-27,29,27
 0021700175,2017-11-10,UTA,MIA,15.17,2,8,50,MIA,MIA,reb,0,False,False,,Johnson REBOUND (Off:0 Def:1),29-27,29,27
 0021700175,2017-11-10,UTA,MIA,15.32,2,8,41,MIA,MIA,fg_miss,78,True,False,,MISS Johnson 7' Floating Jump Shot,29-27,29,27
-0021700175,2017-11-10,UTA,MIA,15.32,2,8,41,MIA,MIA,reb,0,False,False,,Heat Rebound,29-27,29,27
 0021700175,2017-11-10,UTA,MIA,15.32,2,8,41,MIA,UTA,block,78,True,False,block,block,29-27,29,27
+0021700175,2017-11-10,UTA,MIA,15.32,2,8,41,MIA,MIA,reb,0,False,False,,Heat Rebound,29-27,29,27
 0021700175,2017-11-10,UTA,MIA,15.45,2,8,33,MIA,MIA,fg3_miss,1,False,False,,MISS Johnson 26' 3PT Jump Shot,29-27,29,27
 0021700175,2017-11-10,UTA,MIA,15.52,2,8,29,UTA,UTA,reb,0,False,False,Sefolosha REBOUND (Off:0 Def:2),,29-27,29,27
 0021700175,2017-11-10,UTA,MIA,15.67,2,8,20,UTA,UTA,tov,2,False,True,Mitchell Lost Ball Turnover (P1.T6),,29-27,29,27
@@ -222,11 +222,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700175,2017-11-10,UTA,MIA,26.57,3,9,26,MIA,MIA,ft_make,10,False,False,,Dragic Free Throw 1 of 1 (7 PTS),49-44,49,44
 0021700175,2017-11-10,UTA,MIA,26.78,3,9,13,UTA,UTA,tov,4,False,False,Favors Traveling Turnover (P1.T9),,49-44,49,44
 0021700175,2017-11-10,UTA,MIA,27.0,3,9,0,MIA,UTA,foul,1,False,False,Mitchell P.FOUL (P3.T3) (G.Zielinski),,49-44,49,44
-0021700175,2017-11-10,UTA,MIA,27.12,3,8,53,MIA,MIA,tov,1,False,True,,Richardson Bad Pass Turnover (P2.T11),49-44,49,44
-0021700175,2017-11-10,UTA,MIA,27.12,3,8,53,UTA,UTA,tov,2,False,True,Ingles Lost Ball Turnover (P3.T10),,49-44,49,44
-0021700175,2017-11-10,UTA,MIA,27.12,3,8,53,MIA,UTA,steal,1,False,True,steal,steal,49-44,49,44
-0021700175,2017-11-10,UTA,MIA,27.12,3,8,53,UTA,MIA,steal,2,False,True,steal,steal,49-44,49,44
 0021700175,2017-11-10,UTA,MIA,27.12,3,8,53,MIA,MIA,fg_make,7,False,False,,Richardson 2' Dunk (5 PTS),49-46,49,46
+0021700175,2017-11-10,UTA,MIA,27.12,3,8,53,MIA,MIA,tov,1,False,True,,Richardson Bad Pass Turnover (P2.T11),49-44,49,44
+0021700175,2017-11-10,UTA,MIA,27.12,3,8,53,MIA,UTA,steal,1,False,True,steal,steal,49-44,49,44
+0021700175,2017-11-10,UTA,MIA,27.12,3,8,53,UTA,UTA,tov,2,False,True,Ingles Lost Ball Turnover (P3.T10),,49-44,49,44
+0021700175,2017-11-10,UTA,MIA,27.12,3,8,53,UTA,MIA,steal,2,False,True,steal,steal,49-44,49,44
 0021700175,2017-11-10,UTA,MIA,27.47,3,8,32,MIA,UTA,foul,4,False,False,Favors OFF.Foul (P1) (D.Collins),,49-46,49,46
 0021700175,2017-11-10,UTA,MIA,27.47,3,8,32,UTA,UTA,tov,37,False,False,Favors Offensive Foul Turnover (P2.T11),,49-46,49,46
 0021700175,2017-11-10,UTA,MIA,27.75,3,8,15,MIA,MIA,tov,1,False,True,,Dragic Bad Pass Turnover (P3.T12),49-46,49,46
@@ -237,8 +237,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700175,2017-11-10,UTA,MIA,28.4,3,7,36,MIA,UTA,foul,4,False,False,Favors OFF.Foul (P2) (H.Workman),,49-48,49,48
 0021700175,2017-11-10,UTA,MIA,28.4,3,7,36,UTA,UTA,tov,37,False,False,Favors Offensive Foul Turnover (P3.T13),,49-48,49,48
 0021700175,2017-11-10,UTA,MIA,28.63,3,7,22,MIA,MIA,fg_miss,5,True,False,,MISS Waiters 4' Layup,49-48,49,48
-0021700175,2017-11-10,UTA,MIA,28.63,3,7,22,MIA,MIA,reb,0,False,False,,Heat Rebound,49-48,49,48
 0021700175,2017-11-10,UTA,MIA,28.63,3,7,22,MIA,UTA,block,5,True,False,block,block,49-48,49,48
+0021700175,2017-11-10,UTA,MIA,28.63,3,7,22,MIA,MIA,reb,0,False,False,,Heat Rebound,49-48,49,48
 0021700175,2017-11-10,UTA,MIA,28.77,3,7,14,MIA,MIA,fg_miss,63,False,False,,MISS Winslow 12' Fadeaway Jumper,49-48,49,48
 0021700175,2017-11-10,UTA,MIA,28.88,3,7,7,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:0 Def:9),,49-48,49,48
 0021700175,2017-11-10,UTA,MIA,28.93,3,7,4,UTA,MIA,foul,2,False,False,,Whiteside S.FOUL (P1.T1) (D.Collins),49-48,49,48
@@ -255,12 +255,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700175,2017-11-10,UTA,MIA,30.12,3,5,53,MIA,MIA,fg_miss,6,False,False,,MISS Waiters 3' Driving Layup,52-52,52,52
 0021700175,2017-11-10,UTA,MIA,30.17,3,5,50,UTA,UTA,reb,0,False,False,Ingles REBOUND (Off:0 Def:4),,52-52,52,52
 0021700175,2017-11-10,UTA,MIA,30.25,3,5,45,UTA,UTA,fg_miss,5,True,False,MISS Favors 6' Layup,,52-52,52,52
-0021700175,2017-11-10,UTA,MIA,30.25,3,5,45,UTA,UTA,reb,0,False,False,JAZZ Rebound,,52-52,52,52
 0021700175,2017-11-10,UTA,MIA,30.25,3,5,45,UTA,MIA,block,5,True,False,block,block,52-52,52,52
+0021700175,2017-11-10,UTA,MIA,30.25,3,5,45,UTA,UTA,reb,0,False,False,JAZZ Rebound,,52-52,52,52
 0021700175,2017-11-10,UTA,MIA,30.55,3,5,27,UTA,UTA,fg_miss,44,True,False,MISS Favors 3' Reverse Layup,,52-52,52,52
+0021700175,2017-11-10,UTA,MIA,30.55,3,5,27,UTA,MIA,block,44,True,False,block,block,52-52,52,52
 0021700175,2017-11-10,UTA,MIA,30.55,3,5,27,UTA,UTA,reb,0,False,False,JAZZ Rebound,,52-52,52,52
 0021700175,2017-11-10,UTA,MIA,30.55,3,5,27,UTA,UTA,tov,11,False,False,JAZZ Turnover: Shot Clock (T#14),,52-52,52,52
-0021700175,2017-11-10,UTA,MIA,30.55,3,5,27,UTA,MIA,block,44,True,False,block,block,52-52,52,52
 0021700175,2017-11-10,UTA,MIA,30.8,3,5,12,MIA,MIA,fg_miss,78,False,False,,MISS Dragic 6' Floating Jump Shot,52-52,52,52
 0021700175,2017-11-10,UTA,MIA,30.82,3,5,11,UTA,UTA,reb,0,False,False,Ingles REBOUND (Off:0 Def:5),,52-52,52,52
 0021700175,2017-11-10,UTA,MIA,30.82,3,5,11,UTA,MIA,foul,1,False,False,,Dragic P.FOUL (P2.T2) (H.Workman),52-52,52,52
@@ -394,15 +394,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700175,2017-11-10,UTA,MIA,44.68,4,3,19,MIA,UTA,block,1,True,False,block,block,71-71,71,71
 0021700175,2017-11-10,UTA,MIA,44.75,4,3,15,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:0 Def:11),,71-71,71,71
 0021700175,2017-11-10,UTA,MIA,44.88,4,3,7,UTA,UTA,fg_miss,101,True,False,MISS Burks 6' Driving Floating Jump Shot,,71-71,71,71
-0021700175,2017-11-10,UTA,MIA,44.88,4,3,7,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:1 Def:11),,71-71,71,71
 0021700175,2017-11-10,UTA,MIA,44.88,4,3,7,UTA,MIA,block,101,True,False,block,block,71-71,71,71
+0021700175,2017-11-10,UTA,MIA,44.88,4,3,7,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:1 Def:11),,71-71,71,71
 0021700175,2017-11-10,UTA,MIA,44.88,4,3,7,UTA,UTA,fg_make,7,False,False,Gobert 3' Dunk (11 PTS),,73-71,73,71
 0021700175,2017-11-10,UTA,MIA,44.88,4,3,7,UTA,MIA,foul,2,False,False,,Winslow S.FOUL (P1.PN) (G.Zielinski),73-71,73,71
 0021700175,2017-11-10,UTA,MIA,44.88,4,3,7,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.5 Short 0),73-71,73,71
 0021700175,2017-11-10,UTA,MIA,44.88,4,3,7,MIA,UTA,ft_make,10,False,False,Gobert Free Throw 1 of 1 (12 PTS),,74-71,74,71
 0021700175,2017-11-10,UTA,MIA,45.22,4,2,47,MIA,MIA,fg_miss,3,True,False,,MISS Whiteside 8' Hook Shot,74-71,74,71
-0021700175,2017-11-10,UTA,MIA,45.22,4,2,47,MIA,MIA,reb,0,False,False,,Heat Rebound,74-71,74,71
 0021700175,2017-11-10,UTA,MIA,45.22,4,2,47,MIA,UTA,block,3,True,False,block,block,74-71,74,71
+0021700175,2017-11-10,UTA,MIA,45.22,4,2,47,MIA,MIA,reb,0,False,False,,Heat Rebound,74-71,74,71
 0021700175,2017-11-10,UTA,MIA,45.25,4,2,45,MIA,MIA,fg3_make,1,False,False,,Waiters 24' 3PT Jump Shot (14 PTS) (Dragic 3 AST),74-74,74,74
 0021700175,2017-11-10,UTA,MIA,45.53,4,2,28,UTA,UTA,fg3_miss,1,False,False,MISS Burks 25' 3PT Jump Shot,,74-74,74,74
 0021700175,2017-11-10,UTA,MIA,45.6,4,2,24,MIA,MIA,reb,0,False,False,,Whiteside REBOUND (Off:5 Def:14),74-74,74,74

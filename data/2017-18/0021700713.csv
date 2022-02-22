@@ -181,8 +181,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700713,2018-01-25,GSW,MIN,20.23,2,3,46,MIN,MIN,fg_make,101,False,False,,Crawford 10' Driving Floating Jump Shot (8 PTS),59-52,59,52
 0021700713,2018-01-25,GSW,MIN,20.37,2,3,38,GSW,GSW,fg3_make,1,False,False,Young 25' 3PT Jump Shot (3 PTS) (Durant 6 AST),,62-52,62,52
 0021700713,2018-01-25,GSW,MIN,20.63,2,3,22,MIN,MIN,fg_miss,1,False,False,,MISS Wiggins 13' Jump Shot,62-52,62,52
-0021700713,2018-01-25,GSW,MIN,20.67,2,3,20,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,62-52,62,52
 0021700713,2018-01-25,GSW,MIN,20.67,2,3,20,GSW,MIN,foul,3,False,False,,Towns L.B.FOUL (P2.T2) (M.Boland),62-52,62,52
+0021700713,2018-01-25,GSW,MIN,20.67,2,3,20,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,62-52,62,52
 0021700713,2018-01-25,GSW,MIN,20.98,2,3,1,GSW,GSW,fg3_miss,1,False,False,MISS Curry 28' 3PT Jump Shot,,62-52,62,52
 0021700713,2018-01-25,GSW,MIN,21.02,2,2,59,MIN,MIN,reb,0,False,False,,Bjelica REBOUND (Off:0 Def:2),62-52,62,52
 0021700713,2018-01-25,GSW,MIN,21.25,2,2,45,MIN,MIN,tov,1,False,True,,Teague Bad Pass Turnover (P2.T4),62-52,62,52
@@ -214,10 +214,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700713,2018-01-25,GSW,MIN,23.95,2,0,3,GSW,GSW,ft_make,11,False,False,Curry Free Throw 1 of 2 (16 PTS),,73-62,73,62
 0021700713,2018-01-25,GSW,MIN,23.95,2,0,3,GSW,GSW,ft_make,12,False,False,Curry Free Throw 2 of 2 (17 PTS),,74-62,74,62
 0021700713,2018-01-25,GSW,MIN,24.0,2,0,0,MIN,MIN,fg_miss,1,True,False,,MISS Gibson 18' Jump Shot,74-62,74,62
+0021700713,2018-01-25,GSW,MIN,24.0,2,0,0,MIN,GSW,block,1,True,False,block,block,74-62,74,62
 0021700713,2018-01-25,GSW,MIN,24.0,2,0,0,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,74-62,74,62
 0021700713,2018-01-25,GSW,MIN,24.0,2,0,0,MIN,,period_end,0,False,False,,,74-62,74,62
 0021700713,2018-01-25,GSW,MIN,24.0,3,12,0,MIN,,period_start,0,False,False,,,74-62,74,62
-0021700713,2018-01-25,GSW,MIN,24.0,2,0,0,MIN,GSW,block,1,True,False,block,block,74-62,74,62
 0021700713,2018-01-25,GSW,MIN,24.33,3,11,40,MIN,MIN,fg_miss,1,False,False,,MISS Gibson 12' Jump Shot,74-62,74,62
 0021700713,2018-01-25,GSW,MIN,24.38,3,11,37,GSW,GSW,reb,0,False,False,Thompson REBOUND (Off:0 Def:4),,74-62,74,62
 0021700713,2018-01-25,GSW,MIN,24.45,3,11,33,GSW,GSW,fg_miss,1,False,False,MISS Durant 16' Jump Shot,,74-62,74,62
@@ -247,8 +247,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700713,2018-01-25,GSW,MIN,28.45,3,7,33,GSW,GSW,reb,0,False,False,Pachulia REBOUND (Off:3 Def:3),,84-77,84,77
 0021700713,2018-01-25,GSW,MIN,28.52,3,7,29,GSW,GSW,fg3_make,1,False,False,Thompson 25' 3PT Jump Shot (16 PTS) (Durant 7 AST),,87-77,87,77
 0021700713,2018-01-25,GSW,MIN,28.75,3,7,15,MIN,MIN,fg_miss,5,True,False,,MISS Wiggins 2' Layup,87-77,87,77
-0021700713,2018-01-25,GSW,MIN,28.75,3,7,15,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,87-77,87,77
 0021700713,2018-01-25,GSW,MIN,28.75,3,7,15,MIN,GSW,block,5,True,False,block,block,87-77,87,77
+0021700713,2018-01-25,GSW,MIN,28.75,3,7,15,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,87-77,87,77
 0021700713,2018-01-25,GSW,MIN,28.92,3,7,5,MIN,MIN,fg3_miss,1,False,False,,MISS Wiggins 27' 3PT Jump Shot,87-77,87,77
 0021700713,2018-01-25,GSW,MIN,28.95,3,7,3,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:0 Def:2),,87-77,87,77
 0021700713,2018-01-25,GSW,MIN,29.15,3,6,51,GSW,GSW,fg3_make,1,False,False,Thompson 3PT Jump Shot (19 PTS) (Durant 8 AST),,90-77,90,77
@@ -322,8 +322,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700713,2018-01-25,GSW,MIN,36.67,4,11,20,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,106-93,106,93
 0021700713,2018-01-25,GSW,MIN,36.67,4,11,20,MIN,GSW,foul,1,False,False,Iguodala P.FOUL (P1.T1) (M.Boland),,106-93,106,93
 0021700713,2018-01-25,GSW,MIN,36.73,4,11,16,MIN,MIN,fg_miss,1,True,False,,MISS Crawford 16' Jump Shot,106-93,106,93
-0021700713,2018-01-25,GSW,MIN,36.73,4,11,16,MIN,MIN,reb,0,False,False,,Crawford REBOUND (Off:1 Def:1),106-93,106,93
 0021700713,2018-01-25,GSW,MIN,36.73,4,11,16,MIN,GSW,block,1,True,False,block,block,106-93,106,93
+0021700713,2018-01-25,GSW,MIN,36.73,4,11,16,MIN,MIN,reb,0,False,False,,Crawford REBOUND (Off:1 Def:1),106-93,106,93
 0021700713,2018-01-25,GSW,MIN,36.92,4,11,5,MIN,GSW,foul,1,False,False,Iguodala P.FOUL (P2.T2) (M.Davis),,106-93,106,93
 0021700713,2018-01-25,GSW,MIN,37.02,4,10,59,MIN,MIN,tov,2,False,True,,Crawford Lost Ball Turnover (P1.T8),106-93,106,93
 0021700713,2018-01-25,GSW,MIN,37.02,4,10,59,MIN,GSW,steal,2,False,True,steal,steal,106-93,106,93
@@ -421,8 +421,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700713,2018-01-25,GSW,MIN,46.5,4,1,30,MIN,MIN,fg_miss,1,False,False,,MISS Wiggins 22' Jump Shot,124-111,124,111
 0021700713,2018-01-25,GSW,MIN,46.53,4,1,28,GSW,GSW,reb,0,False,False,Durant REBOUND (Off:0 Def:9),,124-111,124,111
 0021700713,2018-01-25,GSW,MIN,46.88,4,1,7,GSW,GSW,fg3_miss,1,False,False,MISS Green 29' 3PT Jump Shot,,124-111,124,111
-0021700713,2018-01-25,GSW,MIN,46.9,4,1,6,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,124-111,124,111
 0021700713,2018-01-25,GSW,MIN,46.9,4,1,6,GSW,GSW,tov,11,False,False,WARRIORS Turnover: Shot Clock (T#16),,124-111,124,111
+0021700713,2018-01-25,GSW,MIN,46.9,4,1,6,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,124-111,124,111
 0021700713,2018-01-25,GSW,MIN,47.05,4,0,57,MIN,MIN,fg_miss,5,True,False,,MISS Gibson 3' Layup,124-111,124,111
 0021700713,2018-01-25,GSW,MIN,47.05,4,0,57,MIN,GSW,block,5,True,False,block,block,124-111,124,111
 0021700713,2018-01-25,GSW,MIN,47.08,4,0,55,GSW,GSW,reb,0,False,False,Durant REBOUND (Off:0 Def:10),,124-111,124,111

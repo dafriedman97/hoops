@@ -70,10 +70,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900644,2020-01-20,MIA,SAC,8.67,1,3,20,SAC,SAC,fg_miss,101,False,False,,MISS Bogdanovic 8' Driving Floating Jump Shot,14-17,14,17
 0021900644,2020-01-20,MIA,SAC,8.68,1,3,19,SAC,SAC,reb,0,False,False,,Bogdanovic REBOUND (Off:1 Def:0),14-17,14,17
 0021900644,2020-01-20,MIA,SAC,8.7,1,3,18,SAC,MIA,foul,2,False,False,Herro S.FOUL (P1.T2) (S.Wright),,14-17,14,17
+0021900644,2020-01-20,MIA,SAC,8.7,1,3,18,MIA,,foul,16,False,False,,,14-18,14,18
 0021900644,2020-01-20,MIA,SAC,8.7,1,3,18,SAC,SAC,ft_make,11,False,False,,Bogdanovic Free Throw 1 of 2 (1 PTS),14-18,14,18
 0021900644,2020-01-20,MIA,SAC,8.7,1,3,18,SAC,SAC,ft_miss,12,False,False,,MISS Bogdanovic Free Throw 2 of 2,14-18,14,18
 0021900644,2020-01-20,MIA,SAC,8.7,1,3,18,MIA,MIA,reb,0,False,False,Olynyk REBOUND (Off:0 Def:1),,14-18,14,18
-0021900644,2020-01-20,MIA,SAC,8.7,1,3,18,MIA,,foul,16,False,False,,,14-18,14,18
 0021900644,2020-01-20,MIA,SAC,9.12,1,2,53,MIA,MIA,fg_miss,80,False,False,MISS Herro 10' Step Back Jump Shot,,14-18,14,18
 0021900644,2020-01-20,MIA,SAC,9.13,1,2,52,SAC,SAC,reb,0,False,False,,Dedmon REBOUND (Off:0 Def:2),14-18,14,18
 0021900644,2020-01-20,MIA,SAC,9.45,1,2,33,SAC,SAC,fg3_miss,1,False,False,,MISS Dedmon 26' 3PT Jump Shot,14-18,14,18
@@ -243,8 +243,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900644,2020-01-20,MIA,SAC,28.1,3,7,54,SAC,SAC,fg3_miss,1,False,False,,MISS Fox 3PT Jump Shot,64-62,64,62
 0021900644,2020-01-20,MIA,SAC,28.12,3,7,53,MIA,MIA,reb,0,False,False,Jones Jr. REBOUND (Off:0 Def:2),,64-62,64,62
 0021900644,2020-01-20,MIA,SAC,28.28,3,7,43,MIA,MIA,fg_miss,6,True,False,MISS Nunn 2' Driving Layup,,64-62,64,62
-0021900644,2020-01-20,MIA,SAC,28.28,3,7,43,MIA,MIA,reb,0,False,False,HEAT Rebound,,64-62,64,62
 0021900644,2020-01-20,MIA,SAC,28.28,3,7,43,MIA,SAC,block,6,True,False,block,block,64-62,64,62
+0021900644,2020-01-20,MIA,SAC,28.28,3,7,43,MIA,MIA,reb,0,False,False,HEAT Rebound,,64-62,64,62
 0021900644,2020-01-20,MIA,SAC,28.42,3,7,35,MIA,MIA,tov,4,False,False,Jones Jr. Traveling Turnover (P1.T13),,64-62,64,62
 0021900644,2020-01-20,MIA,SAC,28.68,3,7,19,SAC,MIA,foul,2,False,False,Jones Jr. S.FOUL (P1.T2) (B.Nansel),,64-62,64,62
 0021900644,2020-01-20,MIA,SAC,28.68,3,7,19,SAC,SAC,ft_miss,11,False,False,,MISS Barnes Free Throw 1 of 2,64-62,64,62
@@ -317,10 +317,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900644,2020-01-20,MIA,SAC,35.95,3,0,3,SAC,SAC,ft_make,12,False,False,,Barnes Free Throw 2 of 2 (11 PTS),76-78,76,78
 0021900644,2020-01-20,MIA,SAC,35.98,3,0,1,MIA,SAC,foul,28,False,False,,Joseph Personal Take Foul (P2.T3) (B.Nansel),76-78,76,78
 0021900644,2020-01-20,MIA,SAC,36.0,3,0,0,MIA,MIA,fg_miss,1,True,False,MISS Herro 21' Jump Shot,,76-78,76,78
+0021900644,2020-01-20,MIA,SAC,36.0,3,0,0,MIA,SAC,block,1,True,False,block,block,76-78,76,78
 0021900644,2020-01-20,MIA,SAC,36.0,3,0,0,MIA,MIA,reb,0,False,False,HEAT Rebound,,76-78,76,78
 0021900644,2020-01-20,MIA,SAC,36.0,3,0,0,MIA,,period_end,0,False,False,,,76-78,76,78
 0021900644,2020-01-20,MIA,SAC,36.0,4,12,0,MIA,,period_start,0,False,False,,,76-78,76,78
-0021900644,2020-01-20,MIA,SAC,36.0,3,0,0,MIA,SAC,block,1,True,False,block,block,76-78,76,78
 0021900644,2020-01-20,MIA,SAC,36.25,4,11,45,MIA,MIA,fg3_miss,1,False,False,MISS Nunn 3PT Jump Shot,,76-78,76,78
 0021900644,2020-01-20,MIA,SAC,36.3,4,11,42,SAC,SAC,reb,0,False,False,,Ferrell REBOUND (Off:0 Def:1),76-78,76,78
 0021900644,2020-01-20,MIA,SAC,36.4,4,11,36,MIA,SAC,foul,26,False,False,,Dedmon Offensive Charge Foul (P2.T1) (S.Wright),76-78,76,78
@@ -331,8 +331,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900644,2020-01-20,MIA,SAC,37.62,4,10,23,SAC,SAC,fg3_miss,1,False,False,,MISS Bogdanovic 26' 3PT Jump Shot,79-80,79,80
 0021900644,2020-01-20,MIA,SAC,37.65,4,10,21,MIA,MIA,reb,0,False,False,Olynyk REBOUND (Off:0 Def:5),,79-80,79,80
 0021900644,2020-01-20,MIA,SAC,37.78,4,10,13,MIA,MIA,tov,2,False,True,Herro Lost Ball Turnover (P2.T19),,79-80,79,80
-0021900644,2020-01-20,MIA,SAC,37.78,4,10,13,SAC,MIA,foul,28,False,False,Olynyk Personal Take Foul (P2.T1) (S.Wright),,79-80,79,80
 0021900644,2020-01-20,MIA,SAC,37.78,4,10,13,MIA,SAC,steal,2,False,True,steal,steal,79-80,79,80
+0021900644,2020-01-20,MIA,SAC,37.78,4,10,13,SAC,MIA,foul,28,False,False,Olynyk Personal Take Foul (P2.T1) (S.Wright),,79-80,79,80
 0021900644,2020-01-20,MIA,SAC,38.03,4,9,58,SAC,SAC,fg_make,108,False,False,,Dedmon 1' Cutting Dunk Shot (6 PTS) (Barnes 1 AST),79-82,79,82
 0021900644,2020-01-20,MIA,SAC,38.03,4,9,58,SAC,MIA,foul,2,False,False,Johnson S.FOUL (P1.T2) (S.Wright),,79-82,79,82
 0021900644,2020-01-20,MIA,SAC,38.03,4,9,58,SAC,SAC,ft_miss,10,False,False,,MISS Dedmon Free Throw 1 of 1,79-82,79,82
@@ -464,8 +464,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900644,2020-01-20,MIA,SAC,52.92,5,0,5,MIA,MIA,tov,1,False,True,Robinson Bad Pass Turnover (P2.T21),,116-113,116,113
 0021900644,2020-01-20,MIA,SAC,52.92,5,0,5,MIA,SAC,steal,1,False,True,steal,steal,116-113,116,113
 0021900644,2020-01-20,MIA,SAC,52.93,5,0,4,SAC,SAC,fg3_miss,1,True,False,,MISS Bogdanovic 27' 3PT Jump Shot,116-113,116,113
-0021900644,2020-01-20,MIA,SAC,52.93,5,0,4,MIA,MIA,reb,0,False,False,Nunn REBOUND (Off:0 Def:7),,116-113,116,113
 0021900644,2020-01-20,MIA,SAC,52.93,5,0,4,SAC,MIA,block,1,True,False,block,block,116-113,116,113
+0021900644,2020-01-20,MIA,SAC,52.93,5,0,4,MIA,MIA,reb,0,False,False,Nunn REBOUND (Off:0 Def:7),,116-113,116,113
 0021900644,2020-01-20,MIA,SAC,53.0,5,0,0,MIA,SAC,foul,28,False,False,,Bjelica Personal Take Foul (P3.PN) (B.Nansel),116-113,116,113
 0021900644,2020-01-20,MIA,SAC,53.0,5,0,0,MIA,MIA,ft_make,11,False,False,Nunn Free Throw 1 of 2 (24 PTS),,117-113,117,113
 0021900644,2020-01-20,MIA,SAC,53.0,5,0,0,MIA,MIA,ft_make,12,False,False,Nunn Free Throw 2 of 2 (25 PTS),,118-113,118,113

@@ -262,16 +262,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000872,2021-04-19,WAS,OKC,26.88,3,9,7,OKC,OKC,fg3_miss,1,False,False,,MISS Pokusevski 32' 3PT Jump Shot,71-58,71,58
 0022000872,2021-04-19,WAS,OKC,26.93,3,9,4,WAS,WAS,reb,0,False,False,Neto REBOUND (Off:0 Def:2),,71-58,71,58
 0022000872,2021-04-19,WAS,OKC,27.0,3,9,0,WAS,WAS,fg_miss,50,True,False,MISS Westbrook 4' Running Dunk,,71-58,71,58
-0022000872,2021-04-19,WAS,OKC,27.0,3,9,0,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,71-58,71,58
 0022000872,2021-04-19,WAS,OKC,27.0,3,9,0,WAS,OKC,block,50,True,False,block,block,71-58,71,58
+0022000872,2021-04-19,WAS,OKC,27.0,3,9,0,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,71-58,71,58
 0022000872,2021-04-19,WAS,OKC,27.2,3,8,48,WAS,WAS,fg3_miss,1,False,False,MISS Avdija 27' 3PT Jump Shot,,71-58,71,58
 0022000872,2021-04-19,WAS,OKC,27.27,3,8,44,OKC,OKC,reb,0,False,False,,Brown REBOUND (Off:2 Def:4),71-58,71,58
 0022000872,2021-04-19,WAS,OKC,27.37,3,8,38,OKC,OKC,fg_miss,78,False,False,,MISS Pokusevski 16' Floating Jump Shot,71-58,71,58
 0022000872,2021-04-19,WAS,OKC,27.42,3,8,35,OKC,OKC,reb,0,False,False,,Thunder Rebound,71-58,71,58
-0022000872,2021-04-19,WAS,OKC,27.55,3,8,27,OKC,OKC,fg_make,5,False,False,,Bazley 2' Layup (13 PTS),71-60,71,60
-0022000872,2021-04-19,WAS,OKC,27.55,3,8,27,OKC,WAS,violation,2,False,False,Defensive Goaltending,,71-60,71,60
 0022000872,2021-04-19,WAS,OKC,27.55,3,8,27,OKC,WAS,foul,2,False,False,Westbrook S.FOUL (P2.T2) (J.Butler),,71-60,71,60
+0022000872,2021-04-19,WAS,OKC,27.55,3,8,27,OKC,OKC,fg_make,5,False,False,,Bazley 2' Layup (13 PTS),71-60,71,60
 0022000872,2021-04-19,WAS,OKC,27.55,3,8,27,OKC,OKC,ft_make,10,False,False,,Bazley Free Throw 1 of 1 (14 PTS),71-61,71,61
+0022000872,2021-04-19,WAS,OKC,27.55,3,8,27,OKC,WAS,violation,2,False,False,Defensive Goaltending,,71-60,71,60
 0022000872,2021-04-19,WAS,OKC,27.97,3,8,2,WAS,WAS,tov,1,False,True,Westbrook Bad Pass Turnover (P6.T9),,71-61,71,61
 0022000872,2021-04-19,WAS,OKC,27.97,3,8,2,WAS,OKC,steal,1,False,True,steal,steal,71-61,71,61
 0022000872,2021-04-19,WAS,OKC,28.02,3,7,59,OKC,WAS,foul,2,False,False,Neto S.FOUL (P3.T3) (S.Wright),,71-61,71,61
@@ -294,8 +294,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000872,2021-04-19,WAS,OKC,29.08,3,6,55,OKC,OKC,ft_miss,12,False,False,,MISS Williams Free Throw 2 of 2,75-64,75,64
 0022000872,2021-04-19,WAS,OKC,29.13,3,6,52,WAS,WAS,reb,0,False,False,Westbrook REBOUND (Off:1 Def:6),,75-64,75,64
 0022000872,2021-04-19,WAS,OKC,29.32,3,6,41,WAS,WAS,fg_miss,6,True,False,MISS Beal 7' Driving Layup,,75-64,75,64
-0022000872,2021-04-19,WAS,OKC,29.32,3,6,41,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,75-64,75,64
 0022000872,2021-04-19,WAS,OKC,29.32,3,6,41,WAS,OKC,block,6,True,False,block,block,75-64,75,64
+0022000872,2021-04-19,WAS,OKC,29.32,3,6,41,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,75-64,75,64
 0022000872,2021-04-19,WAS,OKC,29.43,3,6,34,WAS,WAS,fg_miss,63,False,False,MISS Westbrook 16' Fadeaway Jumper,,75-64,75,64
 0022000872,2021-04-19,WAS,OKC,29.5,3,6,30,WAS,WAS,reb,0,False,False,Len REBOUND (Off:1 Def:3),,75-64,75,64
 0022000872,2021-04-19,WAS,OKC,29.5,3,6,30,,WAS,jump_ball,0,False,False,Jump Ball Len vs. Williams: Tip to Avdija,,75-64,75,64
@@ -424,8 +424,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000872,2021-04-19,WAS,OKC,44.73,4,3,16,WAS,WAS,tov,4,False,False,Neto Traveling Turnover (P3.T11),,114-105,114,105
 0022000872,2021-04-19,WAS,OKC,44.73,4,3,16,WAS,WAS,timeout,1,False,False,WIZARDS Timeout: Regular (Full 4 Short 0),,114-105,114,105
 0022000872,2021-04-19,WAS,OKC,44.93,4,3,4,OKC,OKC,fg_miss,6,True,False,,MISS Bazley 5' Driving Layup,114-105,114,105
-0022000872,2021-04-19,WAS,OKC,44.93,4,3,4,OKC,OKC,reb,0,False,False,,Thunder Rebound,114-105,114,105
 0022000872,2021-04-19,WAS,OKC,44.93,4,3,4,OKC,WAS,block,6,True,False,block,block,114-105,114,105
+0022000872,2021-04-19,WAS,OKC,44.93,4,3,4,OKC,OKC,reb,0,False,False,,Thunder Rebound,114-105,114,105
 0022000872,2021-04-19,WAS,OKC,44.98,4,3,1,OKC,OKC,fg_miss,78,False,False,,MISS Bradley 12' Floating Jump Shot,114-105,114,105
 0022000872,2021-04-19,WAS,OKC,45.02,4,2,59,WAS,WAS,reb,0,False,False,Avdija REBOUND (Off:1 Def:4),,114-105,114,105
 0022000872,2021-04-19,WAS,OKC,45.27,4,2,44,WAS,OKC,foul,2,False,False,,Bradley S.FOUL (P5.T4) (E.Dalen),114-105,114,105

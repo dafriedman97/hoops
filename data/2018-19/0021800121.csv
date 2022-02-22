@@ -153,8 +153,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800121,2018-11-02,DAL,NYK,16.38,2,7,37,NYK,NYK,tov,2,False,True,,Kanter Lost Ball Turnover (P1.T5),40-41,40,41
 0021800121,2018-11-02,DAL,NYK,16.38,2,7,37,NYK,DAL,steal,2,False,True,steal,steal,40-41,40,41
 0021800121,2018-11-02,DAL,NYK,16.48,2,7,31,DAL,DAL,fg_miss,5,True,False,MISS Smith Jr. 2' Layup,,40-41,40,41
-0021800121,2018-11-02,DAL,NYK,16.48,2,7,31,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,40-41,40,41
 0021800121,2018-11-02,DAL,NYK,16.48,2,7,31,DAL,NYK,block,5,True,False,block,block,40-41,40,41
+0021800121,2018-11-02,DAL,NYK,16.48,2,7,31,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,40-41,40,41
 0021800121,2018-11-02,DAL,NYK,16.6,2,7,24,DAL,DAL,fg3_make,1,False,False,Powell 26' 3PT Jump Shot (5 PTS) (Doncic 3 AST),,43-41,43,41
 0021800121,2018-11-02,DAL,NYK,16.9,2,7,6,NYK,NYK,fg3_make,1,False,False,,Hezonja 26' 3PT Jump Shot (9 PTS) (Hardaway Jr. 1 AST),43-44,43,44
 0021800121,2018-11-02,DAL,NYK,17.23,2,6,46,DAL,DAL,fg3_miss,1,False,False,MISS Powell 26' 3PT Jump Shot,,43-44,43,44
@@ -336,12 +336,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800121,2018-11-02,DAL,NYK,35.97,3,0,2,NYK,NYK,reb,1,False,False,,Knicks Rebound,77-88,77,88
 0021800121,2018-11-02,DAL,NYK,35.97,3,0,2,NYK,NYK,ft_make,12,False,False,,Kanter Free Throw 2 of 2 (9 PTS),77-89,77,89
 0021800121,2018-11-02,DAL,NYK,36.0,3,0,0,DAL,DAL,tov,1,False,True,Finney-Smith Bad Pass Turnover (P1.T17),,77-89,77,89
+0021800121,2018-11-02,DAL,NYK,36.0,3,0,0,DAL,NYK,steal,1,False,True,steal,steal,77-89,77,89
 0021800121,2018-11-02,DAL,NYK,36.0,3,0,0,DAL,,period_end,0,False,False,,,77-89,77,89
 0021800121,2018-11-02,DAL,NYK,36.0,4,12,0,DAL,,period_start,0,False,False,,,77-89,77,89
-0021800121,2018-11-02,DAL,NYK,36.0,3,0,0,DAL,NYK,steal,1,False,True,steal,steal,77-89,77,89
 0021800121,2018-11-02,DAL,NYK,36.23,4,11,46,DAL,DAL,fg_miss,57,True,False,MISS Finney-Smith 5' Driving Hook Shot,,77-89,77,89
-0021800121,2018-11-02,DAL,NYK,36.23,4,11,46,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,77-89,77,89
 0021800121,2018-11-02,DAL,NYK,36.23,4,11,46,DAL,NYK,block,57,True,False,block,block,77-89,77,89
+0021800121,2018-11-02,DAL,NYK,36.23,4,11,46,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,77-89,77,89
 0021800121,2018-11-02,DAL,NYK,36.35,4,11,39,DAL,DAL,fg_make,78,False,False,Matthews 12' Floating Jump Shot (4 PTS) (Finney-Smith 2 AST),,79-89,79,89
 0021800121,2018-11-02,DAL,NYK,36.65,4,11,21,NYK,DAL,foul,2,False,False,Powell S.FOUL (P3.T1) (J.Tiven),,79-89,79,89
 0021800121,2018-11-02,DAL,NYK,36.65,4,11,21,NYK,NYK,ft_make,11,False,False,,Kanter Free Throw 1 of 2 (10 PTS),79-90,79,90
@@ -393,8 +393,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800121,2018-11-02,DAL,NYK,42.68,4,5,19,DAL,DAL,fg3_make,80,False,False,Doncic 25' 3PT Step Back Jump Shot (15 PTS),,95-108,95,108
 0021800121,2018-11-02,DAL,NYK,42.97,4,5,2,NYK,NYK,timeout,1,False,False,,Knicks Timeout: Regular (Reg.4 Short 0),95-108,95,108
 0021800121,2018-11-02,DAL,NYK,43.05,4,4,57,NYK,NYK,tov,1,False,True,,Hardaway Jr. Bad Pass Turnover (P2.T11),95-108,95,108
-0021800121,2018-11-02,DAL,NYK,43.05,4,4,57,DAL,NYK,foul,1,False,False,,Dotson P.FOUL (P1.T4) (M.Smith),95-108,95,108
 0021800121,2018-11-02,DAL,NYK,43.05,4,4,57,NYK,DAL,steal,1,False,True,steal,steal,95-108,95,108
+0021800121,2018-11-02,DAL,NYK,43.05,4,4,57,DAL,NYK,foul,1,False,False,,Dotson P.FOUL (P1.T4) (M.Smith),95-108,95,108
 0021800121,2018-11-02,DAL,NYK,43.27,4,4,44,DAL,DAL,fg3_miss,1,False,False,MISS Barnes 3PT Jump Shot,,95-108,95,108
 0021800121,2018-11-02,DAL,NYK,43.33,4,4,40,NYK,NYK,reb,0,False,False,,Dotson REBOUND (Off:1 Def:5),95-108,95,108
 0021800121,2018-11-02,DAL,NYK,43.33,4,4,40,NYK,DAL,foul,1,False,False,Finney-Smith P.FOUL (P5.PN) (J.Tiven),,95-108,95,108

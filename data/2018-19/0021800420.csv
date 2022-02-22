@@ -240,10 +240,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800420,2018-12-14,BOS,ATL,23.85,2,0,9,ATL,ATL,ft_make,11,False,False,,Young Free Throw 1 of 2 (6 PTS),67-55,67,55
 0021800420,2018-12-14,BOS,ATL,23.85,2,0,9,ATL,ATL,ft_make,12,False,False,,Young Free Throw 2 of 2 (7 PTS),67-56,67,56
 0021800420,2018-12-14,BOS,ATL,24.0,2,0,0,BOS,BOS,fg3_miss,1,True,False,MISS Morris Sr. 25' 3PT Jump Shot,,67-56,67,56
+0021800420,2018-12-14,BOS,ATL,24.0,2,0,0,BOS,ATL,block,1,True,False,block,block,67-56,67,56
 0021800420,2018-12-14,BOS,ATL,24.0,2,0,0,BOS,BOS,reb,0,False,False,CELTICS Rebound,,67-56,67,56
 0021800420,2018-12-14,BOS,ATL,24.0,2,0,0,BOS,,period_end,0,False,False,,,67-56,67,56
 0021800420,2018-12-14,BOS,ATL,24.0,3,12,0,BOS,,period_start,0,False,False,,,67-56,67,56
-0021800420,2018-12-14,BOS,ATL,24.0,2,0,0,BOS,ATL,block,1,True,False,block,block,67-56,67,56
 0021800420,2018-12-14,BOS,ATL,24.02,3,11,59,BOS,BOS,fg_make,80,False,False,Tatum 10' Step Back Jump Shot (9 PTS),,69-56,69,56
 0021800420,2018-12-14,BOS,ATL,24.52,3,11,29,ATL,BOS,foul,1,False,False,Tatum P.FOUL (P3.T1) (J.Sterling),,69-56,69,56
 0021800420,2018-12-14,BOS,ATL,24.62,3,11,23,ATL,ATL,tov,1,False,True,,Huerter Bad Pass Turnover (P3.T15),69-56,69,56
@@ -305,8 +305,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800420,2018-12-14,BOS,ATL,29.63,3,6,22,BOS,BOS,fg_miss,98,False,False,MISS Irving 5' Cutting Layup Shot,,87-68,87,68
 0021800420,2018-12-14,BOS,ATL,29.65,3,6,21,BOS,BOS,reb,0,False,False,Tatum REBOUND (Off:2 Def:0),,87-68,87,68
 0021800420,2018-12-14,BOS,ATL,29.78,3,6,13,BOS,BOS,fg_miss,6,True,False,MISS Tatum 3' Driving Layup,,87-68,87,68
-0021800420,2018-12-14,BOS,ATL,29.78,3,6,13,BOS,BOS,reb,0,False,False,CELTICS Rebound,,87-68,87,68
 0021800420,2018-12-14,BOS,ATL,29.78,3,6,13,BOS,ATL,block,6,True,False,block,block,87-68,87,68
+0021800420,2018-12-14,BOS,ATL,29.78,3,6,13,BOS,BOS,reb,0,False,False,CELTICS Rebound,,87-68,87,68
 0021800420,2018-12-14,BOS,ATL,29.83,3,6,10,BOS,BOS,fg_miss,1,False,False,MISS Morris Sr. 19' Jump Shot,,87-68,87,68
 0021800420,2018-12-14,BOS,ATL,29.88,3,6,7,BOS,BOS,reb,0,False,False,Irving REBOUND (Off:1 Def:4),,87-68,87,68
 0021800420,2018-12-14,BOS,ATL,29.88,3,6,7,BOS,BOS,fg_make,97,False,False,Irving 1' Tip Layup Shot (24 PTS),,89-68,89,68

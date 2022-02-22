@@ -130,8 +130,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800690,2019-01-20,SAS,LAC,14.5,2,9,30,SAS,SAS,fg3_make,1,False,False,Belinelli 25' 3PT Jump Shot (8 PTS) (White 2 AST),,34-46,34,46
 0021800690,2019-01-20,SAS,LAC,14.5,2,9,30,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.2 Short 0),34-46,34,46
 0021800690,2019-01-20,SAS,LAC,14.77,2,9,14,LAC,LAC,fg_miss,6,True,False,,MISS Robinson 6' Driving Layup,34-46,34,46
-0021800690,2019-01-20,SAS,LAC,14.77,2,9,14,SAS,SAS,reb,0,False,False,Belinelli REBOUND (Off:0 Def:2),,34-46,34,46
 0021800690,2019-01-20,SAS,LAC,14.77,2,9,14,LAC,SAS,block,6,True,False,block,block,34-46,34,46
+0021800690,2019-01-20,SAS,LAC,14.77,2,9,14,SAS,SAS,reb,0,False,False,Belinelli REBOUND (Off:0 Def:2),,34-46,34,46
 0021800690,2019-01-20,SAS,LAC,15.0,2,9,0,SAS,SAS,fg_make,5,False,False,Aldridge 7' Layup (4 PTS),,36-46,36,46
 0021800690,2019-01-20,SAS,LAC,15.0,2,9,0,SAS,LAC,foul,2,False,False,,Harrell S.FOUL (P3.T3) (M.Ayotte),36-46,36,46
 0021800690,2019-01-20,SAS,LAC,15.0,2,9,0,SAS,SAS,ft_make,10,False,False,Aldridge Free Throw 1 of 1 (5 PTS),,37-46,37,46
@@ -186,8 +186,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800690,2019-01-20,SAS,LAC,20.43,2,3,34,SAS,SAS,fg_miss,44,False,False,MISS Aldridge 3' Reverse Layup,,45-56,45,56
 0021800690,2019-01-20,SAS,LAC,20.48,2,3,31,LAC,LAC,reb,0,False,False,,Gortat REBOUND (Off:0 Def:2),45-56,45,56
 0021800690,2019-01-20,SAS,LAC,20.55,2,3,27,LAC,LAC,fg_miss,6,True,False,,MISS Gilgeous-Alexander 5' Driving Layup,45-56,45,56
-0021800690,2019-01-20,SAS,LAC,20.55,2,3,27,SAS,SAS,reb,0,False,False,Forbes REBOUND (Off:0 Def:2),,45-56,45,56
 0021800690,2019-01-20,SAS,LAC,20.55,2,3,27,LAC,SAS,block,6,True,False,block,block,45-56,45,56
+0021800690,2019-01-20,SAS,LAC,20.55,2,3,27,SAS,SAS,reb,0,False,False,Forbes REBOUND (Off:0 Def:2),,45-56,45,56
 0021800690,2019-01-20,SAS,LAC,20.75,2,3,15,SAS,SAS,fg_make,101,False,False,White 6' Driving Floating Jump Shot (6 PTS) (Cunningham 1 AST),,47-56,47,56
 0021800690,2019-01-20,SAS,LAC,21.08,2,2,55,LAC,LAC,fg_miss,79,False,False,,MISS Gilgeous-Alexander 16' Pullup Jump Shot,47-56,47,56
 0021800690,2019-01-20,SAS,LAC,21.12,2,2,53,SAS,SAS,reb,0,False,False,DeRozan REBOUND (Off:0 Def:3),,47-56,47,56
@@ -228,9 +228,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800690,2019-01-20,SAS,LAC,24.77,3,11,14,SAS,SAS,reb,0,False,False,Gay REBOUND (Off:0 Def:3),,53-60,53,60
 0021800690,2019-01-20,SAS,LAC,24.92,3,11,5,SAS,SAS,fg_make,1,False,False,Aldridge 18' Jump Shot (12 PTS) (DeRozan 3 AST),,55-60,55,60
 0021800690,2019-01-20,SAS,LAC,25.13,3,10,52,LAC,LAC,fg_miss,5,True,False,,MISS Harrell 7' Layup,55-60,55,60
+0021800690,2019-01-20,SAS,LAC,25.13,3,10,52,LAC,SAS,block,5,True,False,block,block,55-60,55,60
 0021800690,2019-01-20,SAS,LAC,25.13,3,10,52,LAC,LAC,reb,0,False,False,,Clippers Rebound,55-60,55,60
 0021800690,2019-01-20,SAS,LAC,25.13,3,10,52,LAC,,violation,1,False,False,,,55-60,55,60
-0021800690,2019-01-20,SAS,LAC,25.13,3,10,52,LAC,SAS,block,5,True,False,block,block,55-60,55,60
 0021800690,2019-01-20,SAS,LAC,25.28,3,10,43,LAC,LAC,tov,39,False,False,,Gilgeous-Alexander Step Out of Bounds Turnover (P2.T6),55-60,55,60
 0021800690,2019-01-20,SAS,LAC,25.6,3,10,24,SAS,SAS,fg_make,79,False,False,Aldridge 14' Pullup Jump Shot (14 PTS),,57-60,57,60
 0021800690,2019-01-20,SAS,LAC,26.02,3,9,59,LAC,LAC,fg_miss,79,False,False,,MISS Gilgeous-Alexander 11' Pullup Jump Shot,57-60,57,60
@@ -246,15 +246,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800690,2019-01-20,SAS,LAC,26.77,3,9,14,SAS,SAS,fg_miss,47,False,False,MISS Aldridge 11' Turnaround Jump Shot,,57-60,57,60
 0021800690,2019-01-20,SAS,LAC,26.82,3,9,11,LAC,LAC,reb,0,False,False,,Bradley REBOUND (Off:0 Def:3),57-60,57,60
 0021800690,2019-01-20,SAS,LAC,27.18,3,8,49,LAC,LAC,fg_miss,6,True,False,,MISS Bradley 5' Driving Layup,57-60,57,60
+0021800690,2019-01-20,SAS,LAC,27.18,3,8,49,LAC,SAS,block,6,True,False,block,block,57-60,57,60
 0021800690,2019-01-20,SAS,LAC,27.18,3,8,49,LAC,LAC,reb,0,False,False,,Clippers Rebound,57-60,57,60
 0021800690,2019-01-20,SAS,LAC,27.18,3,8,49,LAC,LAC,tov,11,False,False,,Clippers Turnover: Shot Clock (T#7),57-60,57,60
-0021800690,2019-01-20,SAS,LAC,27.18,3,8,49,LAC,SAS,block,6,True,False,block,block,57-60,57,60
 0021800690,2019-01-20,SAS,LAC,27.43,3,8,34,SAS,SAS,tov,40,False,False,Aldridge Out of Bounds Lost Ball Turnover (P1.T9),,57-60,57,60
 0021800690,2019-01-20,SAS,LAC,27.6,3,8,24,LAC,LAC,fg_miss,6,False,False,,MISS Bradley 11' Driving Layup,57-60,57,60
 0021800690,2019-01-20,SAS,LAC,27.67,3,8,20,SAS,SAS,reb,0,False,False,Gay REBOUND (Off:0 Def:5),,57-60,57,60
 0021800690,2019-01-20,SAS,LAC,27.85,3,8,9,SAS,SAS,tov,1,False,True,DeRozan Bad Pass Turnover (P4.T10),,57-60,57,60
-0021800690,2019-01-20,SAS,LAC,27.85,3,8,9,LAC,SAS,foul,1,False,False,Gay P.FOUL (P3.T2) (M.Ayotte),,57-60,57,60
 0021800690,2019-01-20,SAS,LAC,27.85,3,8,9,SAS,LAC,steal,1,False,True,steal,steal,57-60,57,60
+0021800690,2019-01-20,SAS,LAC,27.85,3,8,9,LAC,SAS,foul,1,False,False,Gay P.FOUL (P3.T2) (M.Ayotte),,57-60,57,60
 0021800690,2019-01-20,SAS,LAC,28.13,3,7,52,LAC,SAS,foul,2,False,False,White S.FOUL (P3.T3) (K.Cutler),,57-60,57,60
 0021800690,2019-01-20,SAS,LAC,28.13,3,7,52,LAC,LAC,ft_make,11,False,False,,Harrell Free Throw 1 of 2 (9 PTS),57-61,57,61
 0021800690,2019-01-20,SAS,LAC,28.13,3,7,52,LAC,LAC,ft_make,12,False,False,,Harrell Free Throw 2 of 2 (10 PTS),57-62,57,62
@@ -283,16 +283,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800690,2019-01-20,SAS,LAC,30.75,3,5,15,LAC,LAC,fg_miss,79,False,False,,MISS Harris 18' Pullup Jump Shot,60-68,60,68
 0021800690,2019-01-20,SAS,LAC,30.78,3,5,13,SAS,SAS,reb,0,False,False,Bertans REBOUND (Off:0 Def:3),,60-68,60,68
 0021800690,2019-01-20,SAS,LAC,30.95,3,5,3,SAS,SAS,tov,1,False,True,Mills Bad Pass Turnover (P1.T11),,60-68,60,68
+0021800690,2019-01-20,SAS,LAC,30.95,3,5,3,SAS,LAC,steal,1,False,True,steal,steal,60-68,60,68
 0021800690,2019-01-20,SAS,LAC,30.95,3,5,3,LAC,SAS,foul,1,False,False,Bertans P.FOUL (P3.PN) (A.Moyer-Gleich),,60-68,60,68
 0021800690,2019-01-20,SAS,LAC,30.95,3,5,3,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.3 Short 0),60-68,60,68
-0021800690,2019-01-20,SAS,LAC,30.95,3,5,3,SAS,LAC,steal,1,False,True,steal,steal,60-68,60,68
 0021800690,2019-01-20,SAS,LAC,31.2,3,4,48,LAC,LAC,fg_miss,5,False,False,,MISS Motley 9' Layup,60-68,60,68
 0021800690,2019-01-20,SAS,LAC,31.25,3,4,45,SAS,SAS,reb,0,False,False,Poeltl REBOUND (Off:0 Def:2),,60-68,60,68
 0021800690,2019-01-20,SAS,LAC,31.38,3,4,37,SAS,SAS,fg3_miss,1,False,False,MISS Belinelli 27' 3PT Jump Shot,,60-68,60,68
 0021800690,2019-01-20,SAS,LAC,31.43,3,4,34,LAC,LAC,reb,0,False,False,,Beverley REBOUND (Off:0 Def:8),60-68,60,68
 0021800690,2019-01-20,SAS,LAC,31.47,3,4,32,LAC,LAC,tov,1,False,True,,Beverley Bad Pass Turnover (P1.T8),60-68,60,68
-0021800690,2019-01-20,SAS,LAC,31.47,3,4,32,SAS,SAS,tov,45,False,False,Bertans Out of Bounds - Bad Pass Turnover Turnover (P1.T12),,60-68,60,68
 0021800690,2019-01-20,SAS,LAC,31.47,3,4,32,LAC,SAS,steal,1,False,True,steal,steal,60-68,60,68
+0021800690,2019-01-20,SAS,LAC,31.47,3,4,32,SAS,SAS,tov,45,False,False,Bertans Out of Bounds - Bad Pass Turnover Turnover (P1.T12),,60-68,60,68
 0021800690,2019-01-20,SAS,LAC,31.63,3,4,22,LAC,LAC,fg_miss,101,False,False,,MISS Thornwell 9' Driving Floating Jump Shot,60-68,60,68
 0021800690,2019-01-20,SAS,LAC,31.73,3,4,16,LAC,LAC,reb,0,False,False,,Harris REBOUND (Off:1 Def:6),60-68,60,68
 0021800690,2019-01-20,SAS,LAC,31.73,3,4,16,LAC,LAC,fg_make,72,False,False,,Harris 1' Putback Layup (16 PTS),60-70,60,70

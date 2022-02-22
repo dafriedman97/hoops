@@ -120,8 +120,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700770,2018-02-02,PHI,MIA,13.45,2,10,33,MIA,MIA,fg3_miss,1,False,False,,MISS Richardson 26' 3PT Jump Shot,24-23,24,23
 0021700770,2018-02-02,PHI,MIA,13.52,2,10,29,PHI,PHI,reb,0,False,False,Covington REBOUND (Off:0 Def:1),,24-23,24,23
 0021700770,2018-02-02,PHI,MIA,13.78,2,10,13,PHI,PHI,fg_miss,5,True,False,MISS Booker 7' Layup,,24-23,24,23
-0021700770,2018-02-02,PHI,MIA,13.78,2,10,13,PHI,PHI,reb,0,False,False,76ERS Rebound,,24-23,24,23
 0021700770,2018-02-02,PHI,MIA,13.78,2,10,13,PHI,MIA,block,5,True,False,block,block,24-23,24,23
+0021700770,2018-02-02,PHI,MIA,13.78,2,10,13,PHI,PHI,reb,0,False,False,76ERS Rebound,,24-23,24,23
 0021700770,2018-02-02,PHI,MIA,13.83,2,10,10,PHI,PHI,fg3_miss,1,False,False,MISS Saric 27' 3PT Jump Shot,,24-23,24,23
 0021700770,2018-02-02,PHI,MIA,13.92,2,10,5,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:2 Def:4),24-23,24,23
 0021700770,2018-02-02,PHI,MIA,14.17,2,9,50,MIA,MIA,fg_make,75,False,False,,Olynyk 2' Driving Finger Roll Layup (2 PTS),24-25,24,25
@@ -183,8 +183,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700770,2018-02-02,PHI,MIA,20.85,2,3,9,PHI,MIA,foul,1,False,False,,Dragic P.FOUL (P1.T2) (L.Holtkamp),41-36,41,36
 0021700770,2018-02-02,PHI,MIA,20.88,2,3,7,PHI,PHI,fg_make,43,False,False,Bayless 2' Alley Oop Layup (2 PTS) (Redick 1 AST),,43-36,43,36
 0021700770,2018-02-02,PHI,MIA,21.23,2,2,46,MIA,MIA,fg3_miss,1,True,False,,MISS Richardson 25' 3PT Jump Shot,43-36,43,36
-0021700770,2018-02-02,PHI,MIA,21.23,2,2,46,MIA,MIA,reb,0,False,False,,Heat Rebound,43-36,43,36
 0021700770,2018-02-02,PHI,MIA,21.23,2,2,46,MIA,PHI,block,1,True,False,block,block,43-36,43,36
+0021700770,2018-02-02,PHI,MIA,21.23,2,2,46,MIA,MIA,reb,0,False,False,,Heat Rebound,43-36,43,36
 0021700770,2018-02-02,PHI,MIA,21.27,2,2,44,PHI,MIA,foul,4,False,False,,Dragic OFF.Foul (P2) (L.Holtkamp),43-36,43,36
 0021700770,2018-02-02,PHI,MIA,21.27,2,2,44,MIA,MIA,tov,37,False,False,,Dragic Offensive Foul Turnover (P2.T6),43-36,43,36
 0021700770,2018-02-02,PHI,MIA,21.43,2,2,34,PHI,PHI,fg3_miss,1,False,False,MISS Redick 26' 3PT Jump Shot,,43-36,43,36
@@ -224,8 +224,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700770,2018-02-02,PHI,MIA,25.47,3,10,32,MIA,MIA,fg_miss,1,False,False,,MISS Whiteside 19' Jump Shot,53-46,53,46
 0021700770,2018-02-02,PHI,MIA,25.52,3,10,29,PHI,PHI,reb,0,False,False,Saric REBOUND (Off:1 Def:4),,53-46,53,46
 0021700770,2018-02-02,PHI,MIA,25.63,3,10,22,PHI,PHI,fg_miss,6,True,False,MISS Simmons 2' Driving Layup,,53-46,53,46
-0021700770,2018-02-02,PHI,MIA,25.63,3,10,22,PHI,PHI,reb,0,False,False,76ERS Rebound,,53-46,53,46
 0021700770,2018-02-02,PHI,MIA,25.63,3,10,22,PHI,MIA,block,6,True,False,block,block,53-46,53,46
+0021700770,2018-02-02,PHI,MIA,25.63,3,10,22,PHI,PHI,reb,0,False,False,76ERS Rebound,,53-46,53,46
 0021700770,2018-02-02,PHI,MIA,25.73,3,10,16,PHI,MIA,foul,2,False,False,,Johnson S.FOUL (P1.T1) (J.Phillips),53-46,53,46
 0021700770,2018-02-02,PHI,MIA,25.73,3,10,16,PHI,PHI,ft_make,11,False,False,Simmons Free Throw 1 of 2 (9 PTS),,54-46,54,46
 0021700770,2018-02-02,PHI,MIA,25.73,3,10,16,PHI,PHI,ft_make,12,False,False,Simmons Free Throw 2 of 2 (10 PTS),,55-46,55,46
@@ -364,9 +364,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700770,2018-02-02,PHI,MIA,41.7,4,6,18,MIA,MIA,fg_make,50,False,False,,Adebayo 1' Running Dunk (11 PTS) (Winslow 1 AST),90-78,90,78
 0021700770,2018-02-02,PHI,MIA,41.95,4,6,3,PHI,PHI,tov,4,False,False,Embiid Traveling Turnover (P4.T6),,90-78,90,78
 0021700770,2018-02-02,PHI,MIA,42.13,4,5,52,MIA,MIA,fg_miss,6,True,False,,MISS Winslow 5' Driving Layup,90-78,90,78
+0021700770,2018-02-02,PHI,MIA,42.13,4,5,52,MIA,PHI,block,6,True,False,block,block,90-78,90,78
 0021700770,2018-02-02,PHI,MIA,42.13,4,5,52,MIA,MIA,reb,0,False,False,,Heat Rebound,90-78,90,78
 0021700770,2018-02-02,PHI,MIA,42.13,4,5,52,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.4 Short 0),90-78,90,78
-0021700770,2018-02-02,PHI,MIA,42.13,4,5,52,MIA,PHI,block,6,True,False,block,block,90-78,90,78
 0021700770,2018-02-02,PHI,MIA,42.22,4,5,47,MIA,PHI,foul,1,False,False,Redick P.FOUL (P1.PN) (L.Holtkamp),,90-78,90,78
 0021700770,2018-02-02,PHI,MIA,42.22,4,5,47,MIA,MIA,ft_miss,11,False,False,,MISS Olynyk Free Throw 1 of 2,90-78,90,78
 0021700770,2018-02-02,PHI,MIA,42.22,4,5,47,MIA,MIA,reb,1,False,False,,Heat Rebound,90-78,90,78

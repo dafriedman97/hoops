@@ -110,10 +110,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900968,2020-03-10,LAL,BKN,11.95,1,0,3,LAL,LAL,fg3_miss,79,False,False,MISS Caldwell-Pope 27' 3PT Pullup Jump Shot,,33-27,33,27
 0021900968,2020-03-10,LAL,BKN,11.95,1,0,3,BKN,BKN,reb,0,False,False,,Prince REBOUND (Off:0 Def:2),33-27,33,27
 0021900968,2020-03-10,LAL,BKN,12.0,1,0,0,BKN,BKN,fg3_miss,1,True,False,,MISS Prince 61' 3PT Jump Shot,33-27,33,27
+0021900968,2020-03-10,LAL,BKN,12.0,1,0,0,BKN,LAL,block,1,True,False,block,block,33-27,33,27
 0021900968,2020-03-10,LAL,BKN,12.0,1,0,0,BKN,BKN,reb,0,False,False,,Nets Rebound,33-27,33,27
 0021900968,2020-03-10,LAL,BKN,12.0,1,0,0,BKN,,period_end,0,False,False,,,33-27,33,27
 0021900968,2020-03-10,LAL,BKN,12.0,2,12,0,BKN,,period_start,0,False,False,,,33-27,33,27
-0021900968,2020-03-10,LAL,BKN,12.0,1,0,0,BKN,LAL,block,1,True,False,block,block,33-27,33,27
 0021900968,2020-03-10,LAL,BKN,12.2,2,11,48,BKN,BKN,fg_miss,6,True,False,,MISS LeVert 5' Driving Layup,33-27,33,27
 0021900968,2020-03-10,LAL,BKN,12.2,2,11,48,BKN,LAL,block,6,True,False,block,block,33-27,33,27
 0021900968,2020-03-10,LAL,BKN,12.23,2,11,46,LAL,LAL,reb,0,False,False,Caldwell-Pope REBOUND (Off:0 Def:2),,33-27,33,27
@@ -161,9 +161,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900968,2020-03-10,LAL,BKN,17.42,2,6,35,BKN,BKN,fg3_miss,79,False,False,,MISS Chiozza 26' 3PT Pullup Jump Shot,44-38,44,38
 0021900968,2020-03-10,LAL,BKN,17.47,2,6,32,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:3),,44-38,44,38
 0021900968,2020-03-10,LAL,BKN,17.57,2,6,26,LAL,LAL,fg3_miss,1,True,False,MISS Caruso 3PT Jump Shot,,44-38,44,38
+0021900968,2020-03-10,LAL,BKN,17.57,2,6,26,LAL,BKN,block,1,True,False,block,block,44-38,44,38
 0021900968,2020-03-10,LAL,BKN,17.57,2,6,26,LAL,LAL,reb,0,False,False,LAKERS Rebound,,44-38,44,38
 0021900968,2020-03-10,LAL,BKN,17.57,2,6,26,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 2 Short 0),,44-38,44,38
-0021900968,2020-03-10,LAL,BKN,17.57,2,6,26,LAL,BKN,block,1,True,False,block,block,44-38,44,38
 0021900968,2020-03-10,LAL,BKN,17.65,2,6,21,LAL,LAL,fg_miss,102,False,False,MISS Caruso 12' Driving Floating Bank Jump Shot,,44-38,44,38
 0021900968,2020-03-10,LAL,BKN,17.67,2,6,20,BKN,BKN,reb,0,False,False,,Nets Rebound,44-38,44,38
 0021900968,2020-03-10,LAL,BKN,17.67,2,6,20,BKN,LAL,foul,3,False,False,McGee L.B.FOUL (P2.T3) (S.Twardoski),,44-38,44,38
@@ -240,9 +240,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900968,2020-03-10,LAL,BKN,26.63,3,9,22,LAL,BKN,foul,1,False,False,,Chandler P.FOUL (P2.T1) (J.Goble),62-64,62,64
 0021900968,2020-03-10,LAL,BKN,26.7,3,9,18,LAL,LAL,fg3_make,79,False,False,James 26' 3PT Pullup Jump Shot (16 PTS) (Green 4 AST),,65-64,65,64
 0021900968,2020-03-10,LAL,BKN,27.17,3,8,50,BKN,BKN,fg_miss,63,True,False,,MISS LeVert 12' Fadeaway Jumper,65-64,65,64
+0021900968,2020-03-10,LAL,BKN,27.17,3,8,50,BKN,LAL,block,63,True,False,block,block,65-64,65,64
 0021900968,2020-03-10,LAL,BKN,27.17,3,8,50,BKN,BKN,reb,0,False,False,,Nets Rebound,65-64,65,64
 0021900968,2020-03-10,LAL,BKN,27.17,3,8,50,BKN,BKN,tov,11,False,False,,Nets Turnover: Shot Clock (T#7),65-64,65,64
-0021900968,2020-03-10,LAL,BKN,27.17,3,8,50,BKN,LAL,block,63,True,False,block,block,65-64,65,64
 0021900968,2020-03-10,LAL,BKN,27.32,3,8,41,LAL,BKN,foul,1,False,False,,Chandler P.FOUL (P3.T2) (S.Twardoski),65-64,65,64
 0021900968,2020-03-10,LAL,BKN,27.4,3,8,36,LAL,LAL,fg3_make,1,False,False,Davis 26' 3PT Jump Shot (11 PTS) (James 5 AST),,68-64,68,64
 0021900968,2020-03-10,LAL,BKN,27.85,3,8,9,BKN,BKN,fg3_make,1,False,False,,Dinwiddie 31' 3PT Jump Shot (19 PTS) (Chandler 2 AST),68-67,68,67
@@ -293,8 +293,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900968,2020-03-10,LAL,BKN,33.7,3,2,18,LAL,BKN,violation,5,False,False,,Allen Violation:Kicked Ball (S.Foster),78-80,78,80
 0021900968,2020-03-10,LAL,BKN,33.83,3,2,10,LAL,LAL,fg_miss,75,False,False,MISS Rondo 4' Driving Finger Roll Layup,,78-80,78,80
 0021900968,2020-03-10,LAL,BKN,33.88,3,2,7,BKN,BKN,reb,0,False,False,,LeVert REBOUND (Off:1 Def:4),78-80,78,80
-0021900968,2020-03-10,LAL,BKN,33.95,3,2,3,BKN,BKN,fg_make,6,False,False,,Luwawu-Cabarrot 3' Driving Layup (9 PTS),78-82,78,82
 0021900968,2020-03-10,LAL,BKN,33.95,3,2,3,BKN,BKN,timeout,7,False,False,,Nets Timeout: Coach Challenge (Reg.3 Short 0),78-82,78,82
+0021900968,2020-03-10,LAL,BKN,33.95,3,2,3,BKN,BKN,fg_make,6,False,False,,Luwawu-Cabarrot 3' Driving Layup (9 PTS),78-82,78,82
 0021900968,2020-03-10,LAL,BKN,33.95,3,2,3,BKN,LAL,foul,2,False,False,Davis S.FOUL (P3.T2) (S.Foster),,78-82,78,82
 0021900968,2020-03-10,LAL,BKN,33.95,3,2,3,BKN,BKN,ft_make,10,False,False,,Luwawu-Cabarrot Free Throw 1 of 1 (10 PTS),78-83,78,83
 0021900968,2020-03-10,LAL,BKN,34.3,3,1,42,LAL,LAL,tov,2,False,True,Kuzma Lost Ball Turnover (P2.T11),,78-83,78,83
@@ -310,9 +310,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900968,2020-03-10,LAL,BKN,35.5,3,0,30,LAL,LAL,fg3_miss,1,False,False,MISS Davis 26' 3PT Jump Shot,,80-86,80,86
 0021900968,2020-03-10,LAL,BKN,35.57,3,0,26,LAL,LAL,reb,0,False,False,Morris REBOUND (Off:2 Def:2),,80-86,80,86
 0021900968,2020-03-10,LAL,BKN,35.78,3,0,13,LAL,LAL,fg_miss,44,True,False,MISS Morris 2' Reverse Layup,,80-86,80,86
+0021900968,2020-03-10,LAL,BKN,35.78,3,0,13,LAL,BKN,block,44,True,False,block,block,80-86,80,86
 0021900968,2020-03-10,LAL,BKN,35.78,3,0,13,LAL,LAL,reb,0,False,False,Morris REBOUND (Off:3 Def:2),,80-86,80,86
 0021900968,2020-03-10,LAL,BKN,35.78,3,0,13,LAL,LAL,tov,11,False,False,LAKERS Turnover: Shot Clock (T#13),,80-86,80,86
-0021900968,2020-03-10,LAL,BKN,35.78,3,0,13,LAL,BKN,block,44,True,False,block,block,80-86,80,86
 0021900968,2020-03-10,LAL,BKN,35.97,3,0,2,BKN,LAL,foul,2,False,False,Kuzma S.FOUL (P3.T3) (S.Foster),,80-86,80,86
 0021900968,2020-03-10,LAL,BKN,35.97,3,0,2,BKN,BKN,ft_make,11,False,False,,LeVert Free Throw 1 of 2 (15 PTS),80-87,80,87
 0021900968,2020-03-10,LAL,BKN,35.97,3,0,2,BKN,BKN,ft_miss,12,False,False,,MISS LeVert Free Throw 2 of 2,80-87,80,87
@@ -334,8 +334,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900968,2020-03-10,LAL,BKN,37.98,4,10,1,LAL,LAL,fg3_miss,80,False,False,MISS Rondo 28' 3PT Step Back Jump Shot,,84-89,84,89
 0021900968,2020-03-10,LAL,BKN,38.03,4,9,58,BKN,BKN,reb,0,False,False,,Allen REBOUND (Off:3 Def:3),84-89,84,89
 0021900968,2020-03-10,LAL,BKN,38.13,4,9,52,BKN,BKN,tov,1,False,True,,LeVert Bad Pass Turnover (P1.T9),84-89,84,89
-0021900968,2020-03-10,LAL,BKN,38.13,4,9,52,LAL,BKN,foul,28,False,False,,Prince Personal Take Foul (P1.T2) (J.Goble),84-89,84,89
 0021900968,2020-03-10,LAL,BKN,38.13,4,9,52,BKN,LAL,steal,1,False,True,steal,steal,84-89,84,89
+0021900968,2020-03-10,LAL,BKN,38.13,4,9,52,LAL,BKN,foul,28,False,False,,Prince Personal Take Foul (P1.T2) (J.Goble),84-89,84,89
 0021900968,2020-03-10,LAL,BKN,38.5,4,9,30,LAL,LAL,fg_make,86,False,False,Kuzma 18' Turnaround Fadeaway (14 PTS) (Rondo 2 AST),,86-89,86,89
 0021900968,2020-03-10,LAL,BKN,38.63,4,9,22,BKN,LAL,foul,1,False,False,McGee P.FOUL (P3.T1) (S.Foster),,86-89,86,89
 0021900968,2020-03-10,LAL,BKN,38.78,4,9,13,BKN,BKN,fg3_make,1,False,False,,Chiozza 26' 3PT Jump Shot (11 PTS) (Luwawu-Cabarrot 2 AST),86-92,86,92

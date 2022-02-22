@@ -50,14 +50,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000512,2021-02-26,LAL,POR,5.52,1,6,29,POR,POR,fg3_miss,1,False,False,,MISS Covington 25' 3PT Jump Shot,6-15,6,15
 0022000512,2021-02-26,LAL,POR,5.57,1,6,26,POR,POR,reb,0,False,False,,Jones Jr. REBOUND (Off:2 Def:0),6-15,6,15
 0022000512,2021-02-26,LAL,POR,5.63,1,6,22,POR,POR,fg_miss,108,True,False,,MISS Covington 2' Cutting Dunk Shot,6-15,6,15
-0022000512,2021-02-26,LAL,POR,5.63,1,6,22,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:2),,6-15,6,15
 0022000512,2021-02-26,LAL,POR,5.63,1,6,22,POR,LAL,block,108,True,False,block,block,6-15,6,15
+0022000512,2021-02-26,LAL,POR,5.63,1,6,22,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:2),,6-15,6,15
 0022000512,2021-02-26,LAL,POR,5.7,1,6,18,LAL,LAL,fg_make,41,False,False,James 1' Running Layup (4 PTS),,8-15,8,15
 0022000512,2021-02-26,LAL,POR,5.97,1,6,2,POR,POR,fg3_miss,79,False,False,,MISS Lillard 25' 3PT Pullup Jump Shot,8-15,8,15
 0022000512,2021-02-26,LAL,POR,6.03,1,5,58,LAL,LAL,reb,0,False,False,Morris REBOUND (Off:1 Def:1),,8-15,8,15
 0022000512,2021-02-26,LAL,POR,6.15,1,5,51,LAL,LAL,fg_miss,6,True,False,MISS Morris 2' Driving Layup,,8-15,8,15
-0022000512,2021-02-26,LAL,POR,6.15,1,5,51,LAL,LAL,reb,0,False,False,LAKERS Rebound,,8-15,8,15
 0022000512,2021-02-26,LAL,POR,6.15,1,5,51,LAL,POR,block,6,True,False,block,block,8-15,8,15
+0022000512,2021-02-26,LAL,POR,6.15,1,5,51,LAL,LAL,reb,0,False,False,LAKERS Rebound,,8-15,8,15
 0022000512,2021-02-26,LAL,POR,6.3,1,5,42,LAL,LAL,fg_miss,79,False,False,MISS Caruso 19' Pullup Jump Shot,,8-15,8,15
 0022000512,2021-02-26,LAL,POR,6.37,1,5,38,POR,POR,reb,0,False,False,,Jones Jr. REBOUND (Off:2 Def:1),8-15,8,15
 0022000512,2021-02-26,LAL,POR,6.37,1,5,38,POR,LAL,foul,28,False,False,Morris Personal Take Foul (P2.T3) (T.Ford),,8-15,8,15
@@ -107,10 +107,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000512,2021-02-26,LAL,POR,11.83,1,0,10,LAL,LAL,fg_miss,101,False,False,MISS Schroder 9' Driving Floating Jump Shot,,24-29,24,29
 0022000512,2021-02-26,LAL,POR,11.88,1,0,7,POR,POR,reb,0,False,False,,Covington REBOUND (Off:0 Def:4),24-29,24,29
 0022000512,2021-02-26,LAL,POR,12.0,1,0,0,POR,POR,fg_miss,98,True,False,,MISS Jones Jr. 3' Cutting Layup Shot,24-29,24,29
+0022000512,2021-02-26,LAL,POR,12.0,1,0,0,POR,LAL,block,98,True,False,block,block,24-29,24,29
 0022000512,2021-02-26,LAL,POR,12.0,1,0,0,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:4),,24-29,24,29
 0022000512,2021-02-26,LAL,POR,12.0,1,0,0,LAL,,period_end,0,False,False,,,24-29,24,29
 0022000512,2021-02-26,LAL,POR,12.0,2,12,0,LAL,,period_start,0,False,False,,,24-29,24,29
-0022000512,2021-02-26,LAL,POR,12.0,1,0,0,POR,LAL,block,98,True,False,block,block,24-29,24,29
 0022000512,2021-02-26,LAL,POR,12.27,2,11,44,POR,POR,fg3_make,79,False,False,,Hood 27' 3PT Pullup Jump Shot (3 PTS) (Anthony 1 AST),24-32,24,32
 0022000512,2021-02-26,LAL,POR,12.63,2,11,22,LAL,LAL,fg3_miss,1,False,False,MISS Matthews 27' 3PT Jump Shot,,24-32,24,32
 0022000512,2021-02-26,LAL,POR,12.67,2,11,20,POR,POR,reb,0,False,False,,Simons REBOUND (Off:0 Def:1),24-32,24,32
@@ -151,10 +151,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000512,2021-02-26,LAL,POR,16.65,2,7,21,LAL,LAL,reb,0,False,False,Caruso REBOUND (Off:0 Def:1),,31-37,31,37
 0022000512,2021-02-26,LAL,POR,16.75,2,7,15,LAL,LAL,fg_make,5,False,False,James 1' Layup (10 PTS) (Caruso 1 AST),,33-37,33,37
 0022000512,2021-02-26,LAL,POR,16.97,2,7,2,POR,POR,tov,2,False,True,,Simons Lost Ball Turnover (P2.T7),33-37,33,37
+0022000512,2021-02-26,LAL,POR,16.97,2,7,2,POR,LAL,steal,2,False,True,steal,steal,33-37,33,37
 0022000512,2021-02-26,LAL,POR,16.97,2,7,2,LAL,POR,foul,2,False,False,,Covington S.FOUL (P1.T3) (L.Holtkamp),33-37,33,37
 0022000512,2021-02-26,LAL,POR,16.97,2,7,2,LAL,LAL,ft_miss,11,False,False,MISS James Free Throw 1 of 2,,33-37,33,37
 0022000512,2021-02-26,LAL,POR,16.97,2,7,2,LAL,LAL,reb,1,False,False,LAKERS Rebound,,33-37,33,37
-0022000512,2021-02-26,LAL,POR,16.97,2,7,2,POR,LAL,steal,2,False,True,steal,steal,33-37,33,37
 0022000512,2021-02-26,LAL,POR,16.97,2,7,2,LAL,LAL,ft_make,12,False,False,James Free Throw 2 of 2 (11 PTS),,34-37,34,37
 0022000512,2021-02-26,LAL,POR,17.3,2,6,42,POR,POR,fg_miss,6,True,False,,MISS Lillard 3' Driving Layup,34-37,34,37
 0022000512,2021-02-26,LAL,POR,17.3,2,6,42,POR,LAL,block,6,True,False,block,block,34-37,34,37
@@ -168,8 +168,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000512,2021-02-26,LAL,POR,18.07,2,5,56,LAL,POR,foul,2,False,False,,Covington S.FOUL (P2.T4) (R.Mott),38-37,38,37
 0022000512,2021-02-26,LAL,POR,18.07,2,5,56,LAL,LAL,ft_make,10,False,False,Harrell Free Throw 1 of 1 (8 PTS),,39-37,39,37
 0022000512,2021-02-26,LAL,POR,18.37,2,5,38,POR,POR,fg_miss,6,True,False,,MISS Lillard 2' Driving Layup,39-37,39,37
-0022000512,2021-02-26,LAL,POR,18.37,2,5,38,POR,POR,reb,0,False,False,,Trail Blazers Rebound,39-37,39,37
 0022000512,2021-02-26,LAL,POR,18.37,2,5,38,POR,LAL,block,6,True,False,block,block,39-37,39,37
+0022000512,2021-02-26,LAL,POR,18.37,2,5,38,POR,POR,reb,0,False,False,,Trail Blazers Rebound,39-37,39,37
 0022000512,2021-02-26,LAL,POR,18.48,2,5,31,POR,POR,fg_make,6,False,False,,Lillard 1' Driving Layup (17 PTS) (Trent Jr. 1 AST),39-39,39,39
 0022000512,2021-02-26,LAL,POR,18.73,2,5,16,LAL,LAL,fg_miss,79,False,False,MISS Schroder 14' Pullup Jump Shot,,39-39,39,39
 0022000512,2021-02-26,LAL,POR,18.8,2,5,12,POR,POR,reb,0,False,False,,Kanter REBOUND (Off:1 Def:3),39-39,39,39
@@ -181,9 +181,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000512,2021-02-26,LAL,POR,19.57,2,4,26,POR,POR,fg3_miss,79,False,False,,MISS Lillard 30' 3PT Pullup Jump Shot,39-39,39,39
 0022000512,2021-02-26,LAL,POR,19.58,2,4,25,POR,POR,reb,0,False,False,,Kanter REBOUND (Off:2 Def:3),39-39,39,39
 0022000512,2021-02-26,LAL,POR,19.58,2,4,25,POR,POR,fg_miss,5,True,False,,MISS Kanter 2' Layup,39-39,39,39
+0022000512,2021-02-26,LAL,POR,19.58,2,4,25,POR,LAL,block,5,True,False,block,block,39-39,39,39
 0022000512,2021-02-26,LAL,POR,19.58,2,4,25,POR,POR,reb,0,False,False,,Little REBOUND (Off:1 Def:1),39-39,39,39
 0022000512,2021-02-26,LAL,POR,19.58,2,4,25,POR,LAL,foul,1,False,False,Schroder P.FOUL (P2.T2) (L.Holtkamp),,39-39,39,39
-0022000512,2021-02-26,LAL,POR,19.58,2,4,25,POR,LAL,block,5,True,False,block,block,39-39,39,39
 0022000512,2021-02-26,LAL,POR,19.68,2,4,19,POR,POR,fg3_miss,80,False,False,,MISS Little 25' 3PT Step Back Jump Shot,39-39,39,39
 0022000512,2021-02-26,LAL,POR,19.72,2,4,17,LAL,LAL,reb,0,False,False,Horton-Tucker REBOUND (Off:0 Def:3),,39-39,39,39
 0022000512,2021-02-26,LAL,POR,19.82,2,4,11,LAL,LAL,fg_make,74,False,False,Caldwell-Pope 1' Running Reverse Layup (2 PTS) (Horton-Tucker 3 AST),,41-39,41,39
@@ -358,8 +358,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000512,2021-02-26,LAL,POR,37.45,4,10,33,POR,LAL,violation,5,False,False,Schroder Violation:Kicked Ball (L.Holtkamp),,89-76,89,76
 0022000512,2021-02-26,LAL,POR,37.57,4,10,26,POR,POR,fg_make,86,False,False,,Lillard 19' Turnaround Fadeaway (30 PTS) (Anthony 3 AST),89-78,89,78
 0022000512,2021-02-26,LAL,POR,37.78,4,10,13,LAL,LAL,fg_miss,6,True,False,MISS Schroder 7' Driving Layup,,89-78,89,78
-0022000512,2021-02-26,LAL,POR,37.78,4,10,13,LAL,LAL,reb,0,False,False,LAKERS Rebound,,89-78,89,78
 0022000512,2021-02-26,LAL,POR,37.78,4,10,13,LAL,POR,block,6,True,False,block,block,89-78,89,78
+0022000512,2021-02-26,LAL,POR,37.78,4,10,13,LAL,LAL,reb,0,False,False,LAKERS Rebound,,89-78,89,78
 0022000512,2021-02-26,LAL,POR,37.85,4,10,9,LAL,LAL,fg3_miss,1,False,False,MISS Horton-Tucker 3PT Jump Shot,,89-78,89,78
 0022000512,2021-02-26,LAL,POR,37.9,4,10,6,POR,POR,reb,0,False,False,,Kanter REBOUND (Off:3 Def:8),89-78,89,78
 0022000512,2021-02-26,LAL,POR,38.03,4,9,58,POR,POR,fg3_miss,1,False,False,,MISS Hood 25' 3PT Jump Shot,89-78,89,78
@@ -375,9 +375,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000512,2021-02-26,LAL,POR,39.58,4,8,25,LAL,LAL,fg_make,6,False,False,James 2' Driving Layup (23 PTS) (Schroder 2 AST),,95-80,95,80
 0022000512,2021-02-26,LAL,POR,39.58,4,8,25,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.4 Short 0),95-80,95,80
 0022000512,2021-02-26,LAL,POR,39.82,4,8,11,POR,POR,fg3_miss,79,False,False,,MISS Lillard 30' 3PT Pullup Jump Shot,95-80,95,80
+0022000512,2021-02-26,LAL,POR,39.93,4,8,4,POR,POR,reb,0,False,False,,Kanter REBOUND (Off:4 Def:8),95-80,95,80
 0022000512,2021-02-26,LAL,POR,39.93,4,8,4,POR,POR,fg_miss,97,False,False,,MISS Kanter Tip Layup Shot,95-80,95,80
 0022000512,2021-02-26,LAL,POR,39.93,4,8,4,LAL,LAL,reb,0,False,False,Horton-Tucker REBOUND (Off:0 Def:5),,95-80,95,80
-0022000512,2021-02-26,LAL,POR,39.93,4,8,4,POR,POR,reb,0,False,False,,Kanter REBOUND (Off:4 Def:8),95-80,95,80
 0022000512,2021-02-26,LAL,POR,40.03,4,7,58,LAL,LAL,fg3_miss,1,False,False,MISS Morris 25' 3PT Jump Shot,,95-80,95,80
 0022000512,2021-02-26,LAL,POR,40.08,4,7,55,POR,POR,reb,0,False,False,,Kanter REBOUND (Off:4 Def:9),95-80,95,80
 0022000512,2021-02-26,LAL,POR,40.2,4,7,48,POR,POR,fg_make,101,False,False,,Trent Jr. 7' Driving Floating Jump Shot (16 PTS),95-82,95,82
@@ -386,8 +386,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000512,2021-02-26,LAL,POR,40.93,4,7,4,POR,POR,fg3_miss,1,False,False,,MISS Covington 33' 3PT Jump Shot,95-82,95,82
 0022000512,2021-02-26,LAL,POR,40.98,4,7,1,LAL,LAL,reb,0,False,False,Morris REBOUND (Off:1 Def:3),,95-82,95,82
 0022000512,2021-02-26,LAL,POR,41.17,4,6,50,LAL,LAL,fg_miss,101,False,False,MISS Horton-Tucker 5' Driving Floating Jump Shot,,95-82,95,82
-0022000512,2021-02-26,LAL,POR,41.23,4,6,46,LAL,LAL,fg_miss,97,False,False,MISS Harrell Tip Layup Shot,,95-82,95,82
 0022000512,2021-02-26,LAL,POR,41.23,4,6,46,LAL,LAL,reb,0,False,False,Harrell REBOUND (Off:5 Def:4),,95-82,95,82
+0022000512,2021-02-26,LAL,POR,41.23,4,6,46,LAL,LAL,fg_miss,97,False,False,MISS Harrell Tip Layup Shot,,95-82,95,82
 0022000512,2021-02-26,LAL,POR,41.25,4,6,45,POR,POR,reb,0,False,False,,Jones Jr. REBOUND (Off:3 Def:3),95-82,95,82
 0022000512,2021-02-26,LAL,POR,41.38,4,6,37,POR,POR,fg_miss,79,False,False,,MISS Trent Jr. 19' Pullup Jump Shot,95-82,95,82
 0022000512,2021-02-26,LAL,POR,41.42,4,6,35,LAL,LAL,reb,0,False,False,LAKERS Rebound,,95-82,95,82

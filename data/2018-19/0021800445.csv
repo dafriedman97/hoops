@@ -27,9 +27,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800445,2018-12-17,HOU,UTA,3.1,1,8,54,HOU,HOU,tov,1,False,True,Gordon Bad Pass Turnover (P1.T1),,8-2,8,2
 0021800445,2018-12-17,HOU,UTA,3.1,1,8,54,HOU,UTA,steal,1,False,True,steal,steal,8-2,8,2
 0021800445,2018-12-17,HOU,UTA,3.22,1,8,47,UTA,UTA,fg_miss,6,True,False,,MISS Mitchell 4' Driving Layup,8-2,8,2
+0021800445,2018-12-17,HOU,UTA,3.22,1,8,47,UTA,HOU,block,6,True,False,block,block,8-2,8,2
 0021800445,2018-12-17,HOU,UTA,3.22,1,8,47,UTA,UTA,reb,0,False,False,,Jazz Rebound,8-2,8,2
 0021800445,2018-12-17,HOU,UTA,3.22,1,8,47,UTA,HOU,foul,2,False,False,Gordon S.FOUL (P1.T1) (E.Dalen),,8-2,8,2
-0021800445,2018-12-17,HOU,UTA,3.22,1,8,47,UTA,HOU,block,6,True,False,block,block,8-2,8,2
 0021800445,2018-12-17,HOU,UTA,3.22,1,8,47,UTA,UTA,ft_make,11,False,False,,Crowder Free Throw 1 of 2 (1 PTS),8-3,8,3
 0021800445,2018-12-17,HOU,UTA,3.22,1,8,47,UTA,UTA,ft_make,12,False,False,,Crowder Free Throw 2 of 2 (2 PTS),8-4,8,4
 0021800445,2018-12-17,HOU,UTA,3.55,1,8,27,HOU,HOU,fg_miss,3,False,False,MISS Harden 9' Hook Shot,,8-4,8,4
@@ -143,9 +143,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800445,2018-12-17,HOU,UTA,14.82,2,9,11,UTA,UTA,reb,0,False,False,,Jazz Rebound,30-23,30,23
 0021800445,2018-12-17,HOU,UTA,14.82,2,9,11,UTA,UTA,tov,11,False,False,,Jazz Turnover: Shot Clock (T#6),30-23,30,23
 0021800445,2018-12-17,HOU,UTA,15.13,2,8,52,HOU,HOU,fg_miss,6,True,False,MISS Knight 3' Driving Layup,,30-23,30,23
+0021800445,2018-12-17,HOU,UTA,15.13,2,8,52,HOU,UTA,block,6,True,False,block,block,30-23,30,23
 0021800445,2018-12-17,HOU,UTA,15.13,2,8,52,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,30-23,30,23
 0021800445,2018-12-17,HOU,UTA,15.13,2,8,52,HOU,UTA,foul,1,False,False,,Exum P.FOUL (P2.T4) (D.Collins),30-23,30,23
-0021800445,2018-12-17,HOU,UTA,15.13,2,8,52,HOU,UTA,block,6,True,False,block,block,30-23,30,23
 0021800445,2018-12-17,HOU,UTA,15.27,2,8,44,UTA,HOU,foul,26,False,False,Gordon Offensive Charge Foul (P2.T1) (E.Lewis),,30-23,30,23
 0021800445,2018-12-17,HOU,UTA,15.27,2,8,44,HOU,HOU,tov,37,False,False,Gordon Offensive Foul Turnover (P2.T3),,30-23,30,23
 0021800445,2018-12-17,HOU,UTA,15.53,2,8,28,UTA,UTA,fg_miss,5,False,False,,MISS Sefolosha 1' Layup,30-23,30,23
@@ -182,8 +182,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800445,2018-12-17,HOU,UTA,18.23,2,5,46,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:0 Def:9),,35-30,35,30
 0021800445,2018-12-17,HOU,UTA,18.38,2,5,37,HOU,HOU,fg_make,75,False,False,Harden 3' Driving Finger Roll Layup (16 PTS),,37-30,37,30
 0021800445,2018-12-17,HOU,UTA,18.75,2,5,15,UTA,UTA,fg3_miss,1,False,False,,MISS Mitchell 26' 3PT Jump Shot,37-30,37,30
-0021800445,2018-12-17,HOU,UTA,18.75,2,5,15,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,37-30,37,30
 0021800445,2018-12-17,HOU,UTA,18.75,2,5,15,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 2 Short 0),,37-30,37,30
+0021800445,2018-12-17,HOU,UTA,18.75,2,5,15,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,37-30,37,30
 0021800445,2018-12-17,HOU,UTA,19.12,2,4,53,HOU,UTA,foul,2,False,False,,Ingles S.FOUL (P1.PN) (E.Lewis),37-30,37,30
 0021800445,2018-12-17,HOU,UTA,19.12,2,4,53,HOU,HOU,ft_make,11,False,False,Harden Free Throw 1 of 2 (17 PTS),,38-30,38,30
 0021800445,2018-12-17,HOU,UTA,19.12,2,4,53,HOU,HOU,ft_make,12,False,False,Harden Free Throw 2 of 2 (18 PTS),,39-30,39,30
@@ -265,8 +265,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800445,2018-12-17,HOU,UTA,27.2,3,8,48,HOU,HOU,fg_miss,72,False,False,MISS Capela 1' Putback Layup,,52-49,52,49
 0021800445,2018-12-17,HOU,UTA,27.2,3,8,48,UTA,UTA,reb,0,False,False,,Crowder REBOUND (Off:0 Def:7),52-49,52,49
 0021800445,2018-12-17,HOU,UTA,27.3,3,8,42,UTA,UTA,fg_miss,1,True,False,,MISS Ingles 5' Jump Shot,52-49,52,49
-0021800445,2018-12-17,HOU,UTA,27.3,3,8,42,UTA,UTA,reb,0,False,False,,Jazz Rebound,52-49,52,49
 0021800445,2018-12-17,HOU,UTA,27.3,3,8,42,UTA,HOU,block,1,True,False,block,block,52-49,52,49
+0021800445,2018-12-17,HOU,UTA,27.3,3,8,42,UTA,UTA,reb,0,False,False,,Jazz Rebound,52-49,52,49
 0021800445,2018-12-17,HOU,UTA,27.35,3,8,39,UTA,UTA,fg3_miss,1,False,False,,MISS Ingles 3PT Jump Shot,52-49,52,49
 0021800445,2018-12-17,HOU,UTA,27.4,3,8,36,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:0 Def:2),,52-49,52,49
 0021800445,2018-12-17,HOU,UTA,27.57,3,8,26,HOU,UTA,foul,2,False,False,,Rubio S.FOUL (P1.T1) (E.Dalen),52-49,52,49
@@ -289,8 +289,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800445,2018-12-17,HOU,UTA,28.88,3,7,7,UTA,UTA,ft_make,12,False,False,,Crowder Free Throw 2 of 2 (14 PTS),57-56,57,56
 0021800445,2018-12-17,HOU,UTA,29.07,3,6,56,HOU,HOU,fg_miss,98,True,False,MISS Nene 4' Cutting Layup Shot,,57-56,57,56
 0021800445,2018-12-17,HOU,UTA,29.07,3,6,56,HOU,UTA,block,98,True,False,block,block,57-56,57,56
-0021800445,2018-12-17,HOU,UTA,29.08,3,6,55,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:2 Def:6),57-56,57,56
 0021800445,2018-12-17,HOU,UTA,29.08,3,6,55,UTA,HOU,foul,1,False,False,Paul P.FOUL (P2.PN) (E.Lewis),,57-56,57,56
+0021800445,2018-12-17,HOU,UTA,29.08,3,6,55,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:2 Def:6),57-56,57,56
 0021800445,2018-12-17,HOU,UTA,29.08,3,6,55,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 3 Short 0),,57-56,57,56
 0021800445,2018-12-17,HOU,UTA,29.08,3,6,55,HOU,UTA,ft_make,11,False,False,,Gobert Free Throw 1 of 2 (7 PTS),57-57,57,57
 0021800445,2018-12-17,HOU,UTA,29.08,3,6,55,HOU,UTA,ft_make,12,False,False,,Gobert Free Throw 2 of 2 (8 PTS),57-58,57,58
@@ -316,8 +316,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800445,2018-12-17,HOU,UTA,31.03,3,4,58,HOU,HOU,reb,0,False,False,Tucker REBOUND (Off:1 Def:1),,66-62,66,62
 0021800445,2018-12-17,HOU,UTA,31.08,3,4,55,HOU,HOU,fg_miss,41,True,False,MISS Harden 3' Running Layup,,66-62,66,62
 0021800445,2018-12-17,HOU,UTA,31.08,3,4,55,HOU,UTA,block,41,True,False,block,block,66-62,66,62
-0021800445,2018-12-17,HOU,UTA,31.1,3,4,54,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:3 Def:10),,66-62,66,62
 0021800445,2018-12-17,HOU,UTA,31.1,3,4,54,HOU,HOU,fg_make,72,False,False,Capela 1' Putback Layup (3 PTS),,68-62,68,62
+0021800445,2018-12-17,HOU,UTA,31.1,3,4,54,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:3 Def:10),,66-62,66,62
 0021800445,2018-12-17,HOU,UTA,31.1,3,4,54,HOU,UTA,foul,2,False,False,,Korver S.FOUL (P1.PN) (E.Dalen),68-62,68,62
 0021800445,2018-12-17,HOU,UTA,31.1,3,4,54,HOU,HOU,ft_miss,10,False,False,MISS Capela Free Throw 1 of 1,,68-62,68,62
 0021800445,2018-12-17,HOU,UTA,31.1,3,4,54,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:3 Def:7),68-62,68,62
@@ -466,8 +466,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800445,2018-12-17,HOU,UTA,46.02,4,1,59,UTA,UTA,fg_make,97,False,False,,Gobert 1' Tip Layup Shot (18 PTS),94-94,94,94
 0021800445,2018-12-17,HOU,UTA,46.27,4,1,44,HOU,HOU,fg3_make,1,False,False,Harden 28' 3PT Jump Shot (42 PTS),,97-94,97,94
 0021800445,2018-12-17,HOU,UTA,46.65,4,1,21,UTA,UTA,fg3_miss,1,False,False,,MISS Crowder 3PT Jump Shot,97-94,97,94
-0021800445,2018-12-17,HOU,UTA,46.67,4,1,20,UTA,UTA,fg_miss,97,True,False,,MISS Gobert Tip Layup Shot,97-94,97,94
 0021800445,2018-12-17,HOU,UTA,46.67,4,1,20,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:5 Def:8),97-94,97,94
+0021800445,2018-12-17,HOU,UTA,46.67,4,1,20,UTA,UTA,fg_miss,97,True,False,,MISS Gobert Tip Layup Shot,97-94,97,94
 0021800445,2018-12-17,HOU,UTA,46.67,4,1,20,UTA,HOU,block,97,True,False,block,block,97-94,97,94
 0021800445,2018-12-17,HOU,UTA,46.68,4,1,19,UTA,UTA,reb,0,False,False,,Crowder REBOUND (Off:1 Def:9),97-94,97,94
 0021800445,2018-12-17,HOU,UTA,46.75,4,1,15,UTA,UTA,tov,1,False,True,,Crowder Bad Pass Turnover (P2.T24),97-94,97,94

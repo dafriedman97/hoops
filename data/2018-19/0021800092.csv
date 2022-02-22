@@ -107,14 +107,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800092,2018-10-29,MIL,TOR,11.47,1,0,32,MIL,MIL,fg3_miss,1,False,False,MISS Henson 26' 3PT Jump Shot,,30-26,30,26
 0021800092,2018-10-29,MIL,TOR,11.5,1,0,30,MIL,MIL,reb,0,False,False,Henson REBOUND (Off:1 Def:1),,30-26,30,26
 0021800092,2018-10-29,MIL,TOR,11.55,1,0,27,MIL,MIL,fg_miss,5,True,False,MISS Maker 2' Layup,,30-26,30,26
-0021800092,2018-10-29,MIL,TOR,11.55,1,0,27,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:0 Def:3),30-26,30,26
 0021800092,2018-10-29,MIL,TOR,11.55,1,0,27,MIL,TOR,block,5,True,False,block,block,30-26,30,26
+0021800092,2018-10-29,MIL,TOR,11.55,1,0,27,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:0 Def:3),30-26,30,26
 0021800092,2018-10-29,MIL,TOR,11.92,1,0,5,TOR,TOR,fg3_make,1,False,False,,Miles 27' 3PT Jump Shot (3 PTS) (Brown 1 AST),30-29,30,29
 0021800092,2018-10-29,MIL,TOR,12.0,1,0,0,MIL,MIL,fg3_miss,1,True,False,MISS Maker 33' 3PT Jump Shot,,30-29,30,29
+0021800092,2018-10-29,MIL,TOR,12.0,1,0,0,MIL,TOR,block,1,True,False,block,block,30-29,30,29
 0021800092,2018-10-29,MIL,TOR,12.0,1,0,0,MIL,MIL,reb,0,False,False,BUCKS Rebound,,30-29,30,29
 0021800092,2018-10-29,MIL,TOR,12.0,1,0,0,MIL,,period_end,0,False,False,,,30-29,30,29
 0021800092,2018-10-29,MIL,TOR,12.0,2,12,0,MIL,,period_start,0,False,False,,,30-29,30,29
-0021800092,2018-10-29,MIL,TOR,12.0,1,0,0,MIL,TOR,block,1,True,False,block,block,30-29,30,29
 0021800092,2018-10-29,MIL,TOR,12.15,2,11,51,MIL,MIL,tov,4,False,False,Ilyasova Traveling Turnover (P1.T4),,30-29,30,29
 0021800092,2018-10-29,MIL,TOR,12.43,2,11,34,TOR,TOR,fg3_miss,80,False,False,,MISS Wright 28' 3PT Step Back Jump Shot,30-29,30,29
 0021800092,2018-10-29,MIL,TOR,12.48,2,11,31,MIL,MIL,reb,0,False,False,Ilyasova REBOUND (Off:2 Def:2),,30-29,30,29
@@ -384,8 +384,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800092,2018-10-29,MIL,TOR,41.42,4,6,35,TOR,TOR,fg3_miss,1,False,False,,MISS Lowry 26' 3PT Jump Shot,116-94,116,94
 0021800092,2018-10-29,MIL,TOR,41.47,4,6,32,TOR,TOR,reb,0,False,False,,Ibaka REBOUND (Off:1 Def:6),116-94,116,94
 0021800092,2018-10-29,MIL,TOR,41.5,4,6,30,TOR,TOR,fg_miss,72,False,False,,MISS Ibaka 1' Putback Layup,116-94,116,94
-0021800092,2018-10-29,MIL,TOR,41.5,4,6,30,TOR,TOR,reb,0,False,False,,Ibaka REBOUND (Off:2 Def:6),116-94,116,94
 0021800092,2018-10-29,MIL,TOR,41.5,4,6,30,TOR,MIL,foul,2,False,False,Snell S.FOUL (P1.T4) (B.Forte),,116-94,116,94
+0021800092,2018-10-29,MIL,TOR,41.5,4,6,30,TOR,TOR,reb,0,False,False,,Ibaka REBOUND (Off:2 Def:6),116-94,116,94
 0021800092,2018-10-29,MIL,TOR,41.5,4,6,30,TOR,TOR,ft_make,11,False,False,,Ibaka Free Throw 1 of 2 (29 PTS),116-95,116,95
 0021800092,2018-10-29,MIL,TOR,41.5,4,6,30,TOR,TOR,ft_make,12,False,False,,Ibaka Free Throw 2 of 2 (30 PTS),116-96,116,96
 0021800092,2018-10-29,MIL,TOR,41.77,4,6,14,MIL,MIL,fg3_make,1,False,False,Connaughton 29' 3PT Jump Shot (8 PTS) (Bledsoe 8 AST),,119-96,119,96
@@ -447,11 +447,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800092,2018-10-29,MIL,TOR,46.12,4,1,53,TOR,TOR,fg3_miss,1,False,False,,MISS Richardson 3PT Jump Shot,124-101,124,101
 0021800092,2018-10-29,MIL,TOR,46.15,4,1,51,TOR,TOR,reb,0,False,False,,Loyd REBOUND (Off:1 Def:0),124-101,124,101
 0021800092,2018-10-29,MIL,TOR,46.18,4,1,49,TOR,TOR,fg3_miss,1,False,False,,MISS Richardson 3PT Jump Shot,124-101,124,101
-0021800092,2018-10-29,MIL,TOR,46.22,4,1,47,TOR,MIL,foul,3,False,False,Dellavedova L.B.FOUL (P1.PN) (B.Forte),,124-101,124,101
-0021800092,2018-10-29,MIL,TOR,46.22,4,1,47,TOR,TOR,reb,0,False,False,,Raptors Rebound,124-101,124,101
 0021800092,2018-10-29,MIL,TOR,46.22,4,1,47,TOR,TOR,ft_miss,11,False,False,,MISS Boucher Free Throw 1 of 2,124-101,124,101
 0021800092,2018-10-29,MIL,TOR,46.22,4,1,47,TOR,TOR,reb,1,False,False,,Raptors Rebound,124-101,124,101
 0021800092,2018-10-29,MIL,TOR,46.22,4,1,47,TOR,TOR,ft_make,12,False,False,,Boucher Free Throw 2 of 2 (1 PTS),124-102,124,102
+0021800092,2018-10-29,MIL,TOR,46.22,4,1,47,TOR,MIL,foul,3,False,False,Dellavedova L.B.FOUL (P1.PN) (B.Forte),,124-101,124,101
+0021800092,2018-10-29,MIL,TOR,46.22,4,1,47,TOR,TOR,reb,0,False,False,,Raptors Rebound,124-101,124,101
 0021800092,2018-10-29,MIL,TOR,46.43,4,1,34,MIL,TOR,foul,1,False,False,,Richardson P.FOUL (P2.PN) (J.Phillips),124-102,124,102
 0021800092,2018-10-29,MIL,TOR,46.43,4,1,34,MIL,MIL,ft_miss,11,False,False,MISS Connaughton Free Throw 1 of 2,,124-102,124,102
 0021800092,2018-10-29,MIL,TOR,46.43,4,1,34,MIL,MIL,reb,1,False,False,BUCKS Rebound,,124-102,124,102

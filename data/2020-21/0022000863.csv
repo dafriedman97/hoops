@@ -86,8 +86,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000863,2021-04-18,MIA,BKN,10.52,1,1,29,MIA,MIA,fg3_miss,1,False,False,MISS Ariza 24' 3PT Jump Shot,,30-24,30,24
 0022000863,2021-04-18,MIA,BKN,10.57,1,1,26,BKN,BKN,reb,0,False,False,,Claxton REBOUND (Off:0 Def:1),30-24,30,24
 0022000863,2021-04-18,MIA,BKN,10.8,1,1,12,BKN,BKN,fg_miss,101,False,False,,MISS Green 9' Driving Floating Jump Shot,30-24,30,24
-0022000863,2021-04-18,MIA,BKN,10.88,1,1,7,BKN,BKN,fg_make,97,False,False,,Claxton Tip Layup Shot (2 PTS),30-26,30,26
 0022000863,2021-04-18,MIA,BKN,10.88,1,1,7,BKN,BKN,reb,0,False,False,,Claxton REBOUND (Off:1 Def:1),30-26,30,26
+0022000863,2021-04-18,MIA,BKN,10.88,1,1,7,BKN,BKN,fg_make,97,False,False,,Claxton Tip Layup Shot (2 PTS),30-26,30,26
 0022000863,2021-04-18,MIA,BKN,11.12,1,0,53,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 24' 3PT Jump Shot,,30-26,30,26
 0022000863,2021-04-18,MIA,BKN,11.17,1,0,50,BKN,BKN,reb,0,False,False,,Green REBOUND (Off:0 Def:1),30-26,30,26
 0022000863,2021-04-18,MIA,BKN,11.25,1,0,45,BKN,BKN,fg3_make,1,False,False,,Luwawu-Cabarrot 26' 3PT Jump Shot (3 PTS) (Johnson 1 AST),30-29,30,29
@@ -126,8 +126,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000863,2021-04-18,MIA,BKN,14.73,2,9,16,MIA,BKN,foul,1,False,False,,Brown P.FOUL (P2.T2) (M.Davis),36-35,36,35
 0022000863,2021-04-18,MIA,BKN,14.82,2,9,11,MIA,MIA,fg3_make,1,False,False,Robinson 27' 3PT Jump Shot (6 PTS) (Herro 2 AST),,39-35,39,35
 0022000863,2021-04-18,MIA,BKN,15.17,2,8,50,BKN,BKN,tov,2,False,True,,Johnson Lost Ball Turnover (P1.T4),39-35,39,35
-0022000863,2021-04-18,MIA,BKN,15.17,2,8,50,MIA,BKN,foul,1,False,False,,Brown P.FOUL (P3.T3) (D.Collins),39-35,39,35
 0022000863,2021-04-18,MIA,BKN,15.17,2,8,50,BKN,MIA,steal,2,False,True,steal,steal,39-35,39,35
+0022000863,2021-04-18,MIA,BKN,15.17,2,8,50,MIA,BKN,foul,1,False,False,,Brown P.FOUL (P3.T3) (D.Collins),39-35,39,35
 0022000863,2021-04-18,MIA,BKN,15.3,2,8,42,MIA,MIA,fg_miss,1,False,False,MISS Adebayo 19' Jump Shot,,39-35,39,35
 0022000863,2021-04-18,MIA,BKN,15.38,2,8,37,BKN,BKN,reb,0,False,False,,Brown REBOUND (Off:2 Def:1),39-35,39,35
 0022000863,2021-04-18,MIA,BKN,15.5,2,8,30,BKN,BKN,tov,1,False,True,,Green Bad Pass Turnover (P1.T5),39-35,39,35
@@ -140,8 +140,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000863,2021-04-18,MIA,BKN,16.32,2,7,41,BKN,BKN,reb,0,False,False,,Luwawu-Cabarrot REBOUND (Off:0 Def:1),42-35,42,35
 0022000863,2021-04-18,MIA,BKN,16.43,2,7,34,BKN,BKN,fg_make,44,False,False,,Green 1' Reverse Layup (4 PTS),42-37,42,37
 0022000863,2021-04-18,MIA,BKN,16.73,2,7,16,MIA,MIA,fg_miss,98,True,False,MISS Dragic 4' Cutting Layup Shot,,42-37,42,37
-0022000863,2021-04-18,MIA,BKN,16.73,2,7,16,MIA,MIA,reb,0,False,False,HEAT Rebound,,42-37,42,37
 0022000863,2021-04-18,MIA,BKN,16.73,2,7,16,MIA,BKN,block,98,True,False,block,block,42-37,42,37
+0022000863,2021-04-18,MIA,BKN,16.73,2,7,16,MIA,MIA,reb,0,False,False,HEAT Rebound,,42-37,42,37
 0022000863,2021-04-18,MIA,BKN,16.75,2,7,15,MIA,BKN,foul,2,False,False,,Shamet S.FOUL (P1.T4) (D.Collins),42-37,42,37
 0022000863,2021-04-18,MIA,BKN,16.75,2,7,15,MIA,MIA,ft_make,11,False,False,Dedmon Free Throw 1 of 2 (3 PTS),,43-37,43,37
 0022000863,2021-04-18,MIA,BKN,16.75,2,7,15,MIA,MIA,ft_make,12,False,False,Dedmon Free Throw 2 of 2 (4 PTS),,44-37,44,37
@@ -336,11 +336,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000863,2021-04-18,MIA,BKN,38.92,4,9,5,MIA,MIA,tov,1,False,True,Dragic Bad Pass Turnover (P1.T15),,89-88,89,88
 0022000863,2021-04-18,MIA,BKN,38.92,4,9,5,MIA,BKN,steal,1,False,True,steal,steal,89-88,89,88
 0022000863,2021-04-18,MIA,BKN,38.98,4,9,1,BKN,BKN,tov,2,False,True,,Green Lost Ball Turnover (P2.T10),89-88,89,88
+0022000863,2021-04-18,MIA,BKN,38.98,4,9,1,BKN,MIA,steal,2,False,True,steal,steal,89-88,89,88
 0022000863,2021-04-18,MIA,BKN,38.98,4,9,1,MIA,BKN,foul,2,False,False,,Shamet S.FOUL (P4.T2) (D.Collins),89-88,89,88
 0022000863,2021-04-18,MIA,BKN,38.98,4,9,1,MIA,MIA,ft_miss,11,False,False,MISS Okpala Free Throw 1 of 2,,89-88,89,88
 0022000863,2021-04-18,MIA,BKN,38.98,4,9,1,MIA,MIA,reb,1,False,False,HEAT Rebound,,89-88,89,88
 0022000863,2021-04-18,MIA,BKN,38.98,4,9,1,MIA,MIA,ft_miss,12,False,False,MISS Okpala Free Throw 2 of 2,,89-88,89,88
-0022000863,2021-04-18,MIA,BKN,38.98,4,9,1,BKN,MIA,steal,2,False,True,steal,steal,89-88,89,88
 0022000863,2021-04-18,MIA,BKN,39.02,4,8,59,BKN,BKN,reb,0,False,False,,Brown REBOUND (Off:4 Def:4),89-88,89,88
 0022000863,2021-04-18,MIA,BKN,39.2,4,8,48,BKN,BKN,fg_make,47,False,False,,Brown 7' Turnaround Jump Shot (6 PTS) (Irving 7 AST),89-90,89,90
 0022000863,2021-04-18,MIA,BKN,39.5,4,8,30,MIA,MIA,fg_make,73,False,False,Herro 1' Driving Reverse Layup (6 PTS),,91-90,91,90
@@ -359,8 +359,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000863,2021-04-18,MIA,BKN,41.17,4,6,50,MIA,MIA,fg_make,73,False,False,Dragic 3' Driving Reverse Layup (16 PTS),,99-92,99,92
 0022000863,2021-04-18,MIA,BKN,41.43,4,6,34,BKN,BKN,fg_make,98,False,False,,Brown 2' Cutting Layup Shot (8 PTS) (Harris 2 AST),99-94,99,94
 0022000863,2021-04-18,MIA,BKN,41.85,4,6,9,MIA,MIA,fg_miss,6,True,False,MISS Herro 4' Driving Layup,,99-94,99,94
-0022000863,2021-04-18,MIA,BKN,41.85,4,6,9,BKN,BKN,reb,0,False,False,,Nets Rebound,99-94,99,94
 0022000863,2021-04-18,MIA,BKN,41.85,4,6,9,MIA,BKN,block,6,True,False,block,block,99-94,99,94
+0022000863,2021-04-18,MIA,BKN,41.85,4,6,9,BKN,BKN,reb,0,False,False,,Nets Rebound,99-94,99,94
 0022000863,2021-04-18,MIA,BKN,42.07,4,5,56,BKN,BKN,fg_miss,5,False,False,,MISS Brown 3' Layup,99-94,99,94
 0022000863,2021-04-18,MIA,BKN,42.12,4,5,53,MIA,MIA,reb,0,False,False,Dedmon REBOUND (Off:5 Def:5),,99-94,99,94
 0022000863,2021-04-18,MIA,BKN,42.27,4,5,44,MIA,MIA,fg_miss,79,False,False,MISS Herro 15' Pullup Jump Shot,,99-94,99,94

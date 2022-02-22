@@ -9,8 +9,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700098,2017-10-30,UTA,DAL,0.85,1,11,9,DAL,UTA,steal,1,False,True,steal,steal,2-0,2,0
 0021700098,2017-10-30,UTA,DAL,0.98,1,11,1,UTA,UTA,fg3_make,1,False,False,Favors 3PT Jump Shot (3 PTS) (Hood 1 AST),,5-0,5,0
 0021700098,2017-10-30,UTA,DAL,1.2,1,10,48,DAL,DAL,fg_miss,6,True,False,,MISS Smith Jr. 2' Driving Layup,5-0,5,0
-0021700098,2017-10-30,UTA,DAL,1.2,1,10,48,DAL,DAL,reb,0,False,False,,Mavericks Rebound,5-0,5,0
 0021700098,2017-10-30,UTA,DAL,1.2,1,10,48,DAL,UTA,block,6,True,False,block,block,5-0,5,0
+0021700098,2017-10-30,UTA,DAL,1.2,1,10,48,DAL,DAL,reb,0,False,False,,Mavericks Rebound,5-0,5,0
 0021700098,2017-10-30,UTA,DAL,1.33,1,10,40,DAL,DAL,fg_miss,1,False,False,,MISS Nowitzki 19' Jump Shot,5-0,5,0
 0021700098,2017-10-30,UTA,DAL,1.37,1,10,38,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:0 Def:1),,5-0,5,0
 0021700098,2017-10-30,UTA,DAL,1.53,1,10,28,UTA,UTA,fg3_miss,1,False,False,MISS Hood 26' 3PT Jump Shot,,5-0,5,0
@@ -156,8 +156,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700098,2017-10-30,UTA,DAL,20.7,2,3,18,DAL,UTA,block,5,True,False,block,block,37-51,37,51
 0021700098,2017-10-30,UTA,DAL,20.73,2,3,16,DAL,DAL,reb,0,False,False,,Noel REBOUND (Off:2 Def:1),37-51,37,51
 0021700098,2017-10-30,UTA,DAL,20.73,2,3,16,DAL,DAL,fg_miss,5,True,False,,MISS Noel 2' Layup,37-51,37,51
-0021700098,2017-10-30,UTA,DAL,20.73,2,3,16,DAL,DAL,reb,0,False,False,,Mavericks Rebound,37-51,37,51
 0021700098,2017-10-30,UTA,DAL,20.73,2,3,16,DAL,UTA,block,5,True,False,block,block,37-51,37,51
+0021700098,2017-10-30,UTA,DAL,20.73,2,3,16,DAL,DAL,reb,0,False,False,,Mavericks Rebound,37-51,37,51
 0021700098,2017-10-30,UTA,DAL,20.83,2,3,10,DAL,DAL,tov,1,False,True,,Barea Bad Pass Turnover (P2.T9),37-51,37,51
 0021700098,2017-10-30,UTA,DAL,20.83,2,3,10,DAL,UTA,steal,1,False,True,steal,steal,37-51,37,51
 0021700098,2017-10-30,UTA,DAL,20.93,2,3,4,UTA,UTA,fg_miss,5,False,False,MISS Gobert 5' Layup,,37-51,37,51
@@ -266,16 +266,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700098,2017-10-30,UTA,DAL,32.62,3,3,23,UTA,UTA,tov,37,False,False,Gobert Offensive Foul Turnover (P2.T8),,69-57,69,57
 0021700098,2017-10-30,UTA,DAL,32.75,3,3,15,DAL,UTA,foul,2,False,False,Mitchell S.FOUL (P2.T3) (R.Mott),,69-57,69,57
 0021700098,2017-10-30,UTA,DAL,32.75,3,3,15,DAL,DAL,ft_make,10,False,False,,Ferrell Free Throw 1 of 1 (4 PTS),69-58,69,58
-0021700098,2017-10-30,UTA,DAL,32.75,3,3,15,DAL,DAL,ft_make,12,False,False,,Ferrell Free Throw 2 of 2 (5 PTS),69-59,69,59
 0021700098,2017-10-30,UTA,DAL,32.75,3,3,15,UTA,UTA,timeout,1,False,False,JAZZ Timeout: Regular (Full 4 Short 0),,69-59,69,59
+0021700098,2017-10-30,UTA,DAL,32.75,3,3,15,DAL,DAL,ft_make,12,False,False,,Ferrell Free Throw 2 of 2 (5 PTS),69-59,69,59
 0021700098,2017-10-30,UTA,DAL,32.95,3,3,3,UTA,DAL,violation,5,False,False,,Noel Violation:Kicked Ball (T.Washington),69-59,69,59
 0021700098,2017-10-30,UTA,DAL,33.03,3,2,58,UTA,DAL,foul,1,False,False,,Harris P.FOUL (P2.PN) (T.Washington),69-59,69,59
 0021700098,2017-10-30,UTA,DAL,33.03,3,2,58,UTA,UTA,ft_make,11,False,False,Gobert Free Throw 1 of 2 (16 PTS),,70-59,70,59
 0021700098,2017-10-30,UTA,DAL,33.03,3,2,58,UTA,UTA,ft_miss,12,False,False,MISS Gobert Free Throw 2 of 2,,70-59,70,59
 0021700098,2017-10-30,UTA,DAL,33.08,3,2,55,DAL,DAL,reb,0,False,False,,Powell REBOUND (Off:2 Def:6),70-59,70,59
 0021700098,2017-10-30,UTA,DAL,33.32,3,2,41,DAL,DAL,fg_miss,1,True,False,,MISS Harris 10' Jump Shot,70-59,70,59
-0021700098,2017-10-30,UTA,DAL,33.32,3,2,41,DAL,DAL,reb,0,False,False,,Mavericks Rebound,70-59,70,59
 0021700098,2017-10-30,UTA,DAL,33.32,3,2,41,DAL,UTA,block,1,True,False,block,block,70-59,70,59
+0021700098,2017-10-30,UTA,DAL,33.32,3,2,41,DAL,DAL,reb,0,False,False,,Mavericks Rebound,70-59,70,59
 0021700098,2017-10-30,UTA,DAL,33.42,3,2,35,DAL,DAL,fg_miss,6,False,False,,MISS Powell 3' Driving Layup,70-59,70,59
 0021700098,2017-10-30,UTA,DAL,33.45,3,2,33,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:2 Def:8),,70-59,70,59
 0021700098,2017-10-30,UTA,DAL,33.57,3,2,26,UTA,UTA,tov,1,False,True,Burks Bad Pass Turnover (P2.T9),,70-59,70,59
@@ -301,8 +301,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700098,2017-10-30,UTA,DAL,36.0,3,0,0,UTA,,period_end,0,False,False,,,76-68,76,68
 0021700098,2017-10-30,UTA,DAL,36.0,4,12,0,UTA,,period_start,0,False,False,,,76-68,76,68
 0021700098,2017-10-30,UTA,DAL,36.3,4,11,42,UTA,UTA,fg3_make,1,False,False,Rubio 3PT Jump Shot (15 PTS) (Udoh 2 AST),,79-68,79,68
-0021700098,2017-10-30,UTA,DAL,36.8,4,11,12,DAL,DAL,tov,1,False,True,,Smith Jr. Bad Pass Turnover (P4.T18),79-68,79,68
 0021700098,2017-10-30,UTA,DAL,36.8,4,11,12,UTA,UTA,fg3_miss,1,False,False,MISS Favors 24' 3PT Jump Shot,,79-68,79,68
+0021700098,2017-10-30,UTA,DAL,36.8,4,11,12,DAL,DAL,tov,1,False,True,,Smith Jr. Bad Pass Turnover (P4.T18),79-68,79,68
 0021700098,2017-10-30,UTA,DAL,36.8,4,11,12,DAL,UTA,steal,1,False,True,steal,steal,79-68,79,68
 0021700098,2017-10-30,UTA,DAL,36.83,4,11,10,DAL,DAL,reb,0,False,False,,Mejri REBOUND (Off:1 Def:3),79-68,79,68
 0021700098,2017-10-30,UTA,DAL,37.02,4,10,59,DAL,DAL,fg3_make,1,False,False,,Nowitzki 26' 3PT Jump Shot (11 PTS) (Mejri 1 AST),79-71,79,71
@@ -381,9 +381,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700098,2017-10-30,UTA,DAL,45.98,4,2,1,UTA,UTA,fg_miss,63,False,False,MISS Jerebko 11' Fadeaway Jumper,,100-84,100,84
 0021700098,2017-10-30,UTA,DAL,46.03,4,1,58,DAL,DAL,reb,0,False,False,,Withey REBOUND (Off:0 Def:1),100-84,100,84
 0021700098,2017-10-30,UTA,DAL,46.13,4,1,52,DAL,UTA,foul,29,False,False,Jerebko Shooting Block Foul (P1.T2) (R.Mott),,100-84,100,84
-0021700098,2017-10-30,UTA,DAL,46.13,4,1,52,DAL,DAL,ft_make,12,False,False,,Kleber Free Throw 2 of 2 (1 PTS),100-85,100,85
 0021700098,2017-10-30,UTA,DAL,46.13,4,1,52,DAL,DAL,ft_miss,11,False,False,,MISS Kleber Free Throw 1 of 2,100-85,100,85
 0021700098,2017-10-30,UTA,DAL,46.13,4,1,52,DAL,DAL,reb,1,False,False,,Mavericks Rebound,100-85,100,85
+0021700098,2017-10-30,UTA,DAL,46.13,4,1,52,DAL,DAL,ft_make,12,False,False,,Kleber Free Throw 2 of 2 (1 PTS),100-85,100,85
 0021700098,2017-10-30,UTA,DAL,46.48,4,1,31,UTA,UTA,fg_make,79,False,False,Sefolosha 21' Pullup Jump Shot (11 PTS),,102-85,102,85
 0021700098,2017-10-30,UTA,DAL,46.65,4,1,21,DAL,DAL,fg_make,79,False,False,,Ferrell 19' Pullup Jump Shot (9 PTS),102-87,102,87
 0021700098,2017-10-30,UTA,DAL,46.83,4,1,10,UTA,UTA,fg_miss,79,False,False,MISS O'Neale 19' Pullup Jump Shot,,102-87,102,87

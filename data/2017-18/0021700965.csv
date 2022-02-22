@@ -48,8 +48,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700965,2018-03-07,IND,UTA,6.03,1,5,58,UTA,UTA,fg_miss,75,False,False,,MISS Gobert 2' Driving Finger Roll Layup,12-11,12,11
 0021700965,2018-03-07,IND,UTA,6.08,1,5,55,IND,IND,reb,0,False,False,Joseph REBOUND (Off:0 Def:2),,12-11,12,11
 0021700965,2018-03-07,IND,UTA,6.17,1,5,50,IND,IND,fg_miss,6,True,False,MISS Joseph 2' Driving Layup,,12-11,12,11
-0021700965,2018-03-07,IND,UTA,6.17,1,5,50,IND,IND,reb,0,False,False,PACERS Rebound,,12-11,12,11
 0021700965,2018-03-07,IND,UTA,6.17,1,5,50,IND,UTA,block,6,True,False,block,block,12-11,12,11
+0021700965,2018-03-07,IND,UTA,6.17,1,5,50,IND,IND,reb,0,False,False,PACERS Rebound,,12-11,12,11
 0021700965,2018-03-07,IND,UTA,6.33,1,5,40,IND,UTA,foul,2,False,False,,Gobert S.FOUL (P1.T1) (D.Taylor),12-11,12,11
 0021700965,2018-03-07,IND,UTA,6.33,1,5,40,IND,UTA,foul,11,False,False,,Gobert T.FOUL (P1.T1) (D.Taylor),12-11,12,11
 0021700965,2018-03-07,IND,UTA,6.33,1,5,40,IND,IND,ft_make,16,False,False,Bogdanovic Free Throw Technical (3 PTS),,13-11,13,11
@@ -82,8 +82,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700965,2018-03-07,IND,UTA,10.87,1,1,8,UTA,IND,foul,4,False,False,Booker OFF.Foul (P1) (T.Brothers),,20-30,20,30
 0021700965,2018-03-07,IND,UTA,10.87,1,1,8,IND,IND,tov,37,False,False,Booker Offensive Foul Turnover (P1.T2),,20-30,20,30
 0021700965,2018-03-07,IND,UTA,11.07,1,0,56,UTA,UTA,tov,2,False,True,,Mitchell Lost Ball Turnover (P1.T1),20-30,20,30
-0021700965,2018-03-07,IND,UTA,11.07,1,0,56,IND,UTA,foul,1,False,False,,Crowder P.FOUL (P1.T2) (T.Brothers),20-30,20,30
 0021700965,2018-03-07,IND,UTA,11.07,1,0,56,UTA,IND,steal,2,False,True,steal,steal,20-30,20,30
+0021700965,2018-03-07,IND,UTA,11.07,1,0,56,IND,UTA,foul,1,False,False,,Crowder P.FOUL (P1.T2) (T.Brothers),20-30,20,30
 0021700965,2018-03-07,IND,UTA,11.18,1,0,49,IND,IND,fg_miss,78,False,False,MISS Stephenson 19' Floating Jump Shot,,20-30,20,30
 0021700965,2018-03-07,IND,UTA,11.25,1,0,45,UTA,UTA,reb,0,False,False,,Crowder REBOUND (Off:0 Def:2),20-30,20,30
 0021700965,2018-03-07,IND,UTA,11.45,1,0,33,UTA,UTA,fg_make,98,False,False,,Crowder 1' Cutting Layup Shot (5 PTS) (Mitchell 1 AST),20-32,20,32
@@ -243,8 +243,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700965,2018-03-07,IND,UTA,29.97,3,6,2,IND,IND,reb,0,False,False,Young REBOUND (Off:2 Def:3),,54-70,54,70
 0021700965,2018-03-07,IND,UTA,29.97,3,6,2,IND,IND,fg_make,97,False,False,Young 1' Tip Layup Shot (4 PTS),,56-70,56,70
 0021700965,2018-03-07,IND,UTA,30.27,3,5,44,UTA,UTA,tov,2,False,True,,Rubio Lost Ball Turnover (P1.T6),56-70,56,70
-0021700965,2018-03-07,IND,UTA,30.27,3,5,44,IND,UTA,foul,3,False,False,,Mitchell L.B.FOUL (P2.T3) (T.Brothers),56-70,56,70
 0021700965,2018-03-07,IND,UTA,30.27,3,5,44,UTA,IND,steal,2,False,True,steal,steal,56-70,56,70
+0021700965,2018-03-07,IND,UTA,30.27,3,5,44,IND,UTA,foul,3,False,False,,Mitchell L.B.FOUL (P2.T3) (T.Brothers),56-70,56,70
 0021700965,2018-03-07,IND,UTA,30.43,3,5,34,IND,IND,fg_miss,1,False,False,MISS Joseph 20' Jump Shot,,56-70,56,70
 0021700965,2018-03-07,IND,UTA,30.43,3,5,34,IND,IND,reb,0,False,False,PACERS Rebound,,56-70,56,70
 0021700965,2018-03-07,IND,UTA,30.43,3,5,34,IND,UTA,foul,3,False,False,,Rubio L.B.FOUL (P2.T4) (M.Smith),56-70,56,70
@@ -298,11 +298,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700965,2018-03-07,IND,UTA,36.0,3,0,0,IND,IND,fg_make,41,False,False,Joseph 1' Running Layup (12 PTS),,69-79,69,79
 0021700965,2018-03-07,IND,UTA,36.0,3,0,0,UTA,UTA,tov,45,False,False,,O'Neale Out of Bounds - Bad Pass Turnover Turnover (P1.T9),69-79,69,79
 0021700965,2018-03-07,IND,UTA,36.0,3,0,0,IND,IND,fg_miss,1,True,False,MISS Young 17' Jump Shot,,69-79,69,79
+0021700965,2018-03-07,IND,UTA,36.0,3,0,0,IND,UTA,block,1,True,False,block,block,69-79,69,79
 0021700965,2018-03-07,IND,UTA,36.0,3,0,0,IND,IND,reb,0,False,False,PACERS Rebound,,69-79,69,79
 0021700965,2018-03-07,IND,UTA,36.0,3,0,0,IND,,period_end,0,False,False,,,69-79,69,79
 0021700965,2018-03-07,IND,UTA,36.0,4,12,0,IND,,period_start,0,False,False,,,69-79,69,79
 0021700965,2018-03-07,IND,UTA,36.0,4,12,0,IND,,violation,1,False,False,,,69-79,69,79
-0021700965,2018-03-07,IND,UTA,36.0,3,0,0,IND,UTA,block,1,True,False,block,block,69-79,69,79
 0021700965,2018-03-07,IND,UTA,36.33,4,11,40,UTA,UTA,fg_make,52,False,False,,Gobert 2' Alley Oop Dunk (14 PTS) (Ingles 6 AST),69-81,69,81
 0021700965,2018-03-07,IND,UTA,36.33,4,11,40,UTA,IND,foul,2,False,False,Sabonis S.FOUL (P2.T1) (M.Smith),,69-81,69,81
 0021700965,2018-03-07,IND,UTA,36.33,4,11,40,UTA,UTA,ft_make,10,False,False,,Gobert Free Throw 1 of 1 (15 PTS),69-82,69,82
@@ -325,8 +325,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700965,2018-03-07,IND,UTA,38.4,4,9,36,UTA,IND,foul,2,False,False,Booker S.FOUL (P2.T3) (D.Taylor),,71-90,71,90
 0021700965,2018-03-07,IND,UTA,38.4,4,9,36,UTA,UTA,ft_make,10,False,False,,Gobert Free Throw 1 of 1 (20 PTS),71-91,71,91
 0021700965,2018-03-07,IND,UTA,38.58,4,9,25,IND,IND,fg_miss,6,True,False,MISS Stephenson Driving Layup,,71-91,71,91
-0021700965,2018-03-07,IND,UTA,38.58,4,9,25,UTA,UTA,reb,0,False,False,,Jazz Rebound,71-91,71,91
 0021700965,2018-03-07,IND,UTA,38.58,4,9,25,IND,UTA,block,6,True,False,block,block,71-91,71,91
+0021700965,2018-03-07,IND,UTA,38.58,4,9,25,UTA,UTA,reb,0,False,False,,Jazz Rebound,71-91,71,91
 0021700965,2018-03-07,IND,UTA,39.0,4,9,0,UTA,UTA,fg3_miss,1,False,False,,MISS Jerebko 28' 3PT Jump Shot,71-91,71,91
 0021700965,2018-03-07,IND,UTA,39.03,4,8,58,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:2 Def:7),,71-91,71,91
 0021700965,2018-03-07,IND,UTA,39.13,4,8,52,UTA,IND,foul,26,False,False,Stephenson Offensive Charge Foul (P1.T4) (D.Taylor),,71-91,71,91

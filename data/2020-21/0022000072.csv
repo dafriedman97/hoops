@@ -160,8 +160,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000072,2021-01-01,BKN,ATL,17.95,2,6,3,ATL,ATL,fg3_miss,1,False,False,,MISS Young 3PT Jump Shot,39-50,39,50
 0022000072,2021-01-01,BKN,ATL,18.0,2,6,0,ATL,ATL,reb,0,False,False,,Collins REBOUND (Off:1 Def:0),39-50,39,50
 0022000072,2021-01-01,BKN,ATL,18.17,2,5,50,ATL,ATL,tov,1,False,True,,Young Bad Pass Turnover (P3.T6),39-50,39,50
-0022000072,2021-01-01,BKN,ATL,18.17,2,5,50,BKN,ATL,foul,1,False,False,,Bogdanovic P.FOUL (P1.T3) (J.Schroeder),39-50,39,50
 0022000072,2021-01-01,BKN,ATL,18.17,2,5,50,ATL,BKN,steal,1,False,True,steal,steal,39-50,39,50
+0022000072,2021-01-01,BKN,ATL,18.17,2,5,50,BKN,ATL,foul,1,False,False,,Bogdanovic P.FOUL (P1.T3) (J.Schroeder),39-50,39,50
 0022000072,2021-01-01,BKN,ATL,18.38,2,5,37,BKN,BKN,fg_make,108,False,False,Jordan Cutting Dunk Shot (5 PTS) (Durant 2 AST),,41-50,41,50
 0022000072,2021-01-01,BKN,ATL,18.75,2,5,15,ATL,ATL,fg_miss,79,False,False,,MISS Reddish 11' Pullup Jump Shot,41-50,41,50
 0022000072,2021-01-01,BKN,ATL,18.78,2,5,13,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:1 Def:1),,41-50,41,50
@@ -279,9 +279,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000072,2021-01-01,BKN,ATL,30.15,3,5,51,BKN,BKN,fg3_make,1,False,False,Harris 25' 3PT Jump Shot (7 PTS) (Durant 3 AST),,68-74,68,74
 0022000072,2021-01-01,BKN,ATL,30.38,3,5,37,ATL,ATL,fg_make,6,False,False,,Hunter 2' Driving Layup (15 PTS) (Collins 2 AST),68-76,68,76
 0022000072,2021-01-01,BKN,ATL,30.75,3,5,15,BKN,BKN,fg_miss,79,True,False,MISS Durant 12' Pullup Jump Shot,,68-76,68,76
+0022000072,2021-01-01,BKN,ATL,30.75,3,5,15,BKN,ATL,block,79,True,False,block,block,68-76,68,76
 0022000072,2021-01-01,BKN,ATL,30.75,3,5,15,BKN,BKN,reb,0,False,False,NETS Rebound,,68-76,68,76
 0022000072,2021-01-01,BKN,ATL,30.75,3,5,15,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 3 Short 0),,68-76,68,76
-0022000072,2021-01-01,BKN,ATL,30.75,3,5,15,BKN,ATL,block,79,True,False,block,block,68-76,68,76
 0022000072,2021-01-01,BKN,ATL,30.78,3,5,13,BKN,BKN,tov,40,False,False,Durant Out of Bounds Lost Ball Turnover (P4.T13),,68-76,68,76
 0022000072,2021-01-01,BKN,ATL,31.15,3,4,51,ATL,ATL,fg_make,63,False,False,,Bogdanovic 10' Fadeaway Jumper (7 PTS),68-78,68,78
 0022000072,2021-01-01,BKN,ATL,31.28,3,4,43,BKN,ATL,foul,1,False,False,,Collins P.FOUL (P3.T3) (T.Ford),68-78,68,78
@@ -372,9 +372,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000072,2021-01-01,BKN,ATL,41.08,4,6,55,BKN,BKN,fg3_miss,1,False,False,MISS Harris 29' 3PT Jump Shot,,83-100,83,100
 0022000072,2021-01-01,BKN,ATL,41.15,4,6,51,ATL,ATL,reb,0,False,False,,Hunter REBOUND (Off:1 Def:5),83-100,83,100
 0022000072,2021-01-01,BKN,ATL,41.45,4,6,33,ATL,ATL,fg_miss,6,True,False,,MISS Young 3' Driving Layup,83-100,83,100
+0022000072,2021-01-01,BKN,ATL,41.45,4,6,33,ATL,BKN,block,6,True,False,block,block,83-100,83,100
 0022000072,2021-01-01,BKN,ATL,41.45,4,6,33,ATL,ATL,reb,0,False,False,,Hawks Rebound,83-100,83,100
 0022000072,2021-01-01,BKN,ATL,41.45,4,6,33,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 4 Short 0),,83-100,83,100
-0022000072,2021-01-01,BKN,ATL,41.45,4,6,33,ATL,BKN,block,6,True,False,block,block,83-100,83,100
 0022000072,2021-01-01,BKN,ATL,41.52,4,6,29,ATL,ATL,fg_make,5,False,False,,Hunter Layup (17 PTS) (Bogdanovic 1 AST),83-102,83,102
 0022000072,2021-01-01,BKN,ATL,41.78,4,6,13,BKN,BKN,fg_miss,101,False,False,MISS Durant 4' Driving Floating Jump Shot,,83-102,83,102
 0022000072,2021-01-01,BKN,ATL,41.83,4,6,10,BKN,BKN,reb,0,False,False,Allen REBOUND (Off:2 Def:2),,83-102,83,102

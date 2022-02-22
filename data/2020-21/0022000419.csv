@@ -48,8 +48,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000419,2021-02-14,LAC,CLE,4.72,1,7,17,LAC,LAC,fg3_miss,1,False,False,MISS Williams 25' 3PT Jump Shot,,11-9,11,9
 0022000419,2021-02-14,LAC,CLE,4.77,1,7,14,CLE,CLE,reb,0,False,False,,Allen REBOUND (Off:0 Def:2),11-9,11,9
 0022000419,2021-02-14,LAC,CLE,4.83,1,7,10,CLE,CLE,fg_miss,41,True,False,,MISS Sexton 5' Running Layup,11-9,11,9
-0022000419,2021-02-14,LAC,CLE,4.83,1,7,10,LAC,LAC,reb,0,False,False,Ibaka REBOUND (Off:0 Def:1),,11-9,11,9
 0022000419,2021-02-14,LAC,CLE,4.83,1,7,10,CLE,LAC,block,41,True,False,block,block,11-9,11,9
+0022000419,2021-02-14,LAC,CLE,4.83,1,7,10,LAC,LAC,reb,0,False,False,Ibaka REBOUND (Off:0 Def:1),,11-9,11,9
 0022000419,2021-02-14,LAC,CLE,5.12,1,6,53,LAC,LAC,tov,45,False,False,Ibaka Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,11-9,11,9
 0022000419,2021-02-14,LAC,CLE,5.12,1,6,53,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 1 Short 0),,11-9,11,9
 0022000419,2021-02-14,LAC,CLE,5.33,1,6,40,CLE,CLE,fg3_miss,1,False,False,,MISS Sexton 26' 3PT Jump Shot,11-9,11,9
@@ -58,8 +58,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000419,2021-02-14,LAC,CLE,5.43,1,6,34,LAC,LAC,ft_make,11,False,False,Williams Free Throw 1 of 2 (5 PTS),,12-9,12,9
 0022000419,2021-02-14,LAC,CLE,5.43,1,6,34,LAC,LAC,ft_make,12,False,False,Williams Free Throw 2 of 2 (6 PTS),,13-9,13,9
 0022000419,2021-02-14,LAC,CLE,5.67,1,6,20,CLE,CLE,fg_miss,6,False,False,,MISS Prince 4' Driving Layup,13-9,13,9
-0022000419,2021-02-14,LAC,CLE,5.75,1,6,15,CLE,CLE,fg_make,72,False,False,,Allen 5' Putback Layup (4 PTS),13-11,13,11
 0022000419,2021-02-14,LAC,CLE,5.75,1,6,15,CLE,CLE,reb,0,False,False,,Allen REBOUND (Off:1 Def:2),13-11,13,11
+0022000419,2021-02-14,LAC,CLE,5.75,1,6,15,CLE,CLE,fg_make,72,False,False,,Allen 5' Putback Layup (4 PTS),13-11,13,11
 0022000419,2021-02-14,LAC,CLE,5.93,1,6,4,LAC,LAC,fg3_miss,1,False,False,MISS Batum 27' 3PT Jump Shot,,13-11,13,11
 0022000419,2021-02-14,LAC,CLE,5.98,1,6,1,CLE,CLE,reb,0,False,False,,Allen REBOUND (Off:1 Def:3),13-11,13,11
 0022000419,2021-02-14,LAC,CLE,6.35,1,5,39,CLE,CLE,fg_miss,63,False,False,,MISS Prince 5' Fadeaway Jumper,13-11,13,11
@@ -180,9 +180,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000419,2021-02-14,LAC,CLE,15.4,2,8,36,CLE,CLE,fg_make,6,False,False,,Garland 3' Driving Layup (6 PTS),40-32,40,32
 0022000419,2021-02-14,LAC,CLE,15.62,2,8,23,LAC,CLE,foul,1,False,False,,Garland P.FOUL (P3.T2) (L.Richardson),40-32,40,32
 0022000419,2021-02-14,LAC,CLE,15.73,2,8,16,LAC,LAC,fg3_miss,1,False,False,MISS Beverley 27' 3PT Jump Shot,,40-32,40,32
+0022000419,2021-02-14,LAC,CLE,15.85,2,8,9,LAC,LAC,reb,0,False,False,Morris Sr. REBOUND (Off:3 Def:2),,40-32,40,32
 0022000419,2021-02-14,LAC,CLE,15.85,2,8,9,LAC,LAC,fg_miss,97,False,False,MISS Morris Sr. Tip Layup Shot,,40-32,40,32
 0022000419,2021-02-14,LAC,CLE,15.85,2,8,9,LAC,LAC,reb,0,False,False,Morris Sr. REBOUND (Off:2 Def:2),,40-32,40,32
-0022000419,2021-02-14,LAC,CLE,15.85,2,8,9,LAC,LAC,reb,0,False,False,Morris Sr. REBOUND (Off:3 Def:2),,40-32,40,32
 0022000419,2021-02-14,LAC,CLE,15.9,2,8,6,LAC,LAC,fg_make,72,False,False,Morris Sr. Putback Layup (10 PTS),,42-32,42,32
 0022000419,2021-02-14,LAC,CLE,16.12,2,7,53,CLE,CLE,fg_miss,101,False,False,,MISS Prince 7' Driving Floating Jump Shot,42-32,42,32
 0022000419,2021-02-14,LAC,CLE,16.12,2,7,53,LAC,LAC,reb,0,False,False,Ibaka REBOUND (Off:0 Def:2),,42-32,42,32
@@ -261,8 +261,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000419,2021-02-14,LAC,CLE,24.93,3,11,4,LAC,LAC,reb,0,False,False,Ibaka REBOUND (Off:1 Def:3),,75-58,75,58
 0022000419,2021-02-14,LAC,CLE,25.02,3,10,59,LAC,CLE,foul,1,False,False,,Sexton P.FOUL (P3.T1) (E.Lewis),75-58,75,58
 0022000419,2021-02-14,LAC,CLE,25.1,3,10,54,LAC,LAC,fg_miss,101,True,False,MISS Williams 4' Driving Floating Jump Shot,,75-58,75,58
-0022000419,2021-02-14,LAC,CLE,25.1,3,10,54,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,75-58,75,58
 0022000419,2021-02-14,LAC,CLE,25.1,3,10,54,LAC,CLE,block,101,True,False,block,block,75-58,75,58
+0022000419,2021-02-14,LAC,CLE,25.1,3,10,54,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,75-58,75,58
 0022000419,2021-02-14,LAC,CLE,25.25,3,10,45,LAC,LAC,fg_make,1,False,False,Williams 5' Jump Shot (15 PTS) (Ibaka 3 AST),,77-58,77,58
 0022000419,2021-02-14,LAC,CLE,25.25,3,10,45,LAC,CLE,foul,2,False,False,,Okoro S.FOUL (P4.T2) (D.Taylor),77-58,77,58
 0022000419,2021-02-14,LAC,CLE,25.25,3,10,45,LAC,LAC,ft_make,10,False,False,Williams Free Throw 1 of 1 (16 PTS),,78-58,78,58
@@ -278,8 +278,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000419,2021-02-14,LAC,CLE,26.38,3,9,37,CLE,CLE,fg_miss,78,False,False,,MISS Allen 10' Floating Jump Shot,78-60,78,60
 0022000419,2021-02-14,LAC,CLE,26.45,3,9,33,LAC,LAC,reb,0,False,False,Beverley REBOUND (Off:0 Def:2),,78-60,78,60
 0022000419,2021-02-14,LAC,CLE,26.63,3,9,22,LAC,LAC,fg_miss,73,True,False,MISS Williams 4' Driving Reverse Layup,,78-60,78,60
-0022000419,2021-02-14,LAC,CLE,26.63,3,9,22,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,78-60,78,60
 0022000419,2021-02-14,LAC,CLE,26.63,3,9,22,LAC,CLE,block,73,True,False,block,block,78-60,78,60
+0022000419,2021-02-14,LAC,CLE,26.63,3,9,22,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,78-60,78,60
 0022000419,2021-02-14,LAC,CLE,26.67,3,9,20,LAC,LAC,fg3_make,80,False,False,Williams 26' 3PT Step Back Jump Shot (19 PTS) (Beverley 3 AST),,81-60,81,60
 0022000419,2021-02-14,LAC,CLE,26.87,3,9,8,CLE,LAC,violation,5,False,False,Jackson Violation:Kicked Ball (E.Lewis),,81-60,81,60
 0022000419,2021-02-14,LAC,CLE,26.98,3,9,1,CLE,CLE,fg_miss,79,False,False,,MISS Sexton 12' Pullup Jump Shot,81-60,81,60
@@ -416,8 +416,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000419,2021-02-14,LAC,CLE,41.22,4,6,47,CLE,CLE,fg_make,79,False,False,,Sexton 11' Pullup Jump Shot (22 PTS) (Garland 6 AST),116-97,116,97
 0022000419,2021-02-14,LAC,CLE,41.22,4,6,47,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 4 Short 0),,116-97,116,97
 0022000419,2021-02-14,LAC,CLE,41.5,4,6,30,LAC,LAC,fg_miss,63,False,False,MISS Williams 16' Fadeaway Jumper,,116-97,116,97
-0022000419,2021-02-14,LAC,CLE,41.62,4,6,23,LAC,LAC,fg_make,72,False,False,Ibaka Putback Layup (19 PTS),,118-97,118,97
 0022000419,2021-02-14,LAC,CLE,41.62,4,6,23,LAC,LAC,reb,0,False,False,Ibaka REBOUND (Off:2 Def:5),,118-97,118,97
+0022000419,2021-02-14,LAC,CLE,41.62,4,6,23,LAC,LAC,fg_make,72,False,False,Ibaka Putback Layup (19 PTS),,118-97,118,97
 0022000419,2021-02-14,LAC,CLE,41.83,4,6,10,CLE,CLE,fg_miss,75,False,False,,MISS Garland 3' Driving Finger Roll Layup,118-97,118,97
 0022000419,2021-02-14,LAC,CLE,41.87,4,6,8,LAC,LAC,reb,0,False,False,Ibaka REBOUND (Off:2 Def:6),,118-97,118,97
 0022000419,2021-02-14,LAC,CLE,41.95,4,6,3,LAC,LAC,fg3_miss,1,False,False,MISS Ibaka 29' 3PT Jump Shot,,118-97,118,97

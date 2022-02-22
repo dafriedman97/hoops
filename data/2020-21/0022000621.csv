@@ -35,9 +35,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000621,2021-03-17,CHI,SAS,4.9,1,7,6,SAS,SAS,fg_make,6,False,False,,Poeltl 3' Driving Layup (6 PTS) (White 2 AST),13-6,13,6
 0022000621,2021-03-17,CHI,SAS,5.12,1,6,53,CHI,CHI,fg3_make,1,False,False,Williams 3PT Jump Shot (3 PTS) (LaVine 2 AST),,16-6,16,6
 0022000621,2021-03-17,CHI,SAS,5.47,1,6,32,SAS,SAS,fg_miss,101,True,False,,MISS White 5' Driving Floating Jump Shot,16-6,16,6
+0022000621,2021-03-17,CHI,SAS,5.47,1,6,32,SAS,CHI,block,101,True,False,block,block,16-6,16,6
 0022000621,2021-03-17,CHI,SAS,5.47,1,6,32,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:3 Def:1),16-6,16,6
 0022000621,2021-03-17,CHI,SAS,5.47,1,6,32,SAS,CHI,foul,2,False,False,Satoransky S.FOUL (P1.T1) (P.Fraher),,16-6,16,6
-0022000621,2021-03-17,CHI,SAS,5.47,1,6,32,SAS,CHI,block,101,True,False,block,block,16-6,16,6
 0022000621,2021-03-17,CHI,SAS,5.47,1,6,32,SAS,SAS,ft_make,11,False,False,,Poeltl Free Throw 1 of 2 (7 PTS),16-7,16,7
 0022000621,2021-03-17,CHI,SAS,5.47,1,6,32,SAS,SAS,ft_miss,12,False,False,,MISS Poeltl Free Throw 2 of 2,16-7,16,7
 0022000621,2021-03-17,CHI,SAS,5.52,1,6,29,CHI,CHI,reb,0,False,False,Young REBOUND (Off:0 Def:3),,16-7,16,7
@@ -175,8 +175,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000621,2021-03-17,CHI,SAS,19.17,2,4,50,SAS,SAS,fg_miss,6,False,False,,MISS Johnson 2' Driving Layup,45-28,45,28
 0022000621,2021-03-17,CHI,SAS,19.2,2,4,48,CHI,CHI,reb,0,False,False,Young REBOUND (Off:1 Def:5),,45-28,45,28
 0022000621,2021-03-17,CHI,SAS,19.25,2,4,45,CHI,CHI,fg_miss,6,True,False,MISS LaVine 1' Driving Layup,,45-28,45,28
-0022000621,2021-03-17,CHI,SAS,19.25,2,4,45,CHI,CHI,reb,0,False,False,BULLS Rebound,,45-28,45,28
 0022000621,2021-03-17,CHI,SAS,19.25,2,4,45,CHI,SAS,block,6,True,False,block,block,45-28,45,28
+0022000621,2021-03-17,CHI,SAS,19.25,2,4,45,CHI,CHI,reb,0,False,False,BULLS Rebound,,45-28,45,28
 0022000621,2021-03-17,CHI,SAS,19.42,2,4,35,CHI,CHI,fg_make,1,False,False,Young 6' Jump Shot (10 PTS),,47-28,47,28
 0022000621,2021-03-17,CHI,SAS,19.68,2,4,19,SAS,SAS,fg_miss,79,False,False,,MISS Walker IV 1' Pullup Jump Shot,47-28,47,28
 0022000621,2021-03-17,CHI,SAS,19.77,2,4,14,SAS,SAS,reb,0,False,False,,Walker IV REBOUND (Off:2 Def:0),47-28,47,28
@@ -253,8 +253,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000621,2021-03-17,CHI,SAS,27.65,3,8,21,SAS,SAS,ft_make,12,False,False,,Murray Free Throw 2 of 2 (6 PTS),64-48,64,48
 0022000621,2021-03-17,CHI,SAS,27.92,3,8,5,CHI,CHI,fg_make,6,False,False,LaVine 1' Driving Layup (19 PTS),,66-48,66,48
 0022000621,2021-03-17,CHI,SAS,28.1,3,7,54,SAS,SAS,fg_miss,6,True,False,,MISS Murray 2' Driving Layup,66-48,66,48
-0022000621,2021-03-17,CHI,SAS,28.1,3,7,54,SAS,SAS,reb,0,False,False,,Spurs Rebound,66-48,66,48
 0022000621,2021-03-17,CHI,SAS,28.1,3,7,54,SAS,CHI,block,6,True,False,block,block,66-48,66,48
+0022000621,2021-03-17,CHI,SAS,28.1,3,7,54,SAS,SAS,reb,0,False,False,,Spurs Rebound,66-48,66,48
 0022000621,2021-03-17,CHI,SAS,28.27,3,7,44,SAS,SAS,tov,45,False,False,,Murray Out of Bounds - Bad Pass Turnover Turnover (P2.T7),66-48,66,48
 0022000621,2021-03-17,CHI,SAS,28.43,3,7,34,SAS,CHI,foul,26,False,False,Young Offensive Charge Foul (P3.T2) (N.Buchert),,66-48,66,48
 0022000621,2021-03-17,CHI,SAS,28.43,3,7,34,CHI,CHI,tov,37,False,False,Young Offensive Foul Turnover (P5.T7),,66-48,66,48

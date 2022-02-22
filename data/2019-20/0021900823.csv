@@ -76,8 +76,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900823,2020-02-20,CHI,CHA,8.48,1,3,31,CHI,CHI,fg3_miss,1,False,False,MISS Harrison 25' 3PT Jump Shot,,15-26,15,26
 0021900823,2020-02-20,CHI,CHA,8.52,1,3,29,CHI,CHI,reb,0,False,False,Satoransky REBOUND (Off:1 Def:0),,15-26,15,26
 0021900823,2020-02-20,CHI,CHA,8.58,1,3,25,CHI,CHI,fg_miss,6,True,False,MISS Harrison 3' Driving Layup,,15-26,15,26
-0021900823,2020-02-20,CHI,CHA,8.58,1,3,25,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:2),15-26,15,26
 0021900823,2020-02-20,CHI,CHA,8.58,1,3,25,CHI,CHA,block,6,True,False,block,block,15-26,15,26
+0021900823,2020-02-20,CHI,CHA,8.58,1,3,25,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:2),15-26,15,26
 0021900823,2020-02-20,CHI,CHA,8.7,1,3,18,CHA,CHA,fg_miss,41,False,False,,MISS Graham 2' Running Layup,15-26,15,26
 0021900823,2020-02-20,CHI,CHA,8.77,1,3,14,CHI,CHI,reb,0,False,False,Felicio REBOUND (Off:0 Def:1),,15-26,15,26
 0021900823,2020-02-20,CHI,CHA,8.78,1,3,13,CHI,CHI,fg_make,41,False,False,Harrison 2' Running Layup (4 PTS) (White 1 AST),,17-26,17,26
@@ -205,8 +205,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900823,2020-02-20,CHI,CHA,22.67,2,1,20,CHI,CHI,fg3_miss,1,False,False,MISS White 3PT Jump Shot,,40-56,40,56
 0021900823,2020-02-20,CHI,CHA,22.73,2,1,16,CHI,CHI,reb,0,False,False,Felicio REBOUND (Off:2 Def:2),,40-56,40,56
 0021900823,2020-02-20,CHI,CHA,22.82,2,1,11,CHI,CHI,fg_miss,6,True,False,MISS LaVine 2' Driving Layup,,40-56,40,56
-0021900823,2020-02-20,CHI,CHA,22.82,2,1,11,CHI,CHI,reb,0,False,False,BULLS Rebound,,40-56,40,56
 0021900823,2020-02-20,CHI,CHA,22.82,2,1,11,CHI,CHA,block,6,True,False,block,block,40-56,40,56
+0021900823,2020-02-20,CHI,CHA,22.82,2,1,11,CHI,CHI,reb,0,False,False,BULLS Rebound,,40-56,40,56
 0021900823,2020-02-20,CHI,CHA,22.9,2,1,6,CHI,CHI,fg_miss,80,False,False,MISS LaVine 20' Step Back Jump Shot,,40-56,40,56
 0021900823,2020-02-20,CHI,CHA,22.95,2,1,3,CHA,CHA,reb,0,False,False,,Rozier REBOUND (Off:0 Def:2),40-56,40,56
 0021900823,2020-02-20,CHI,CHA,22.98,2,1,1,CHA,CHI,foul,2,False,False,White S.FOUL (P2.T2) (K.Mauer),,40-56,40,56
@@ -227,8 +227,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900823,2020-02-20,CHI,CHA,24.28,3,11,43,CHI,CHI,tov,1,False,True,Satoransky Bad Pass Turnover (P1.T6),,44-60,44,60
 0021900823,2020-02-20,CHI,CHA,24.28,3,11,43,CHI,CHA,steal,1,False,True,steal,steal,44-60,44,60
 0021900823,2020-02-20,CHI,CHA,24.33,3,11,40,CHA,CHA,fg_miss,6,True,False,,MISS Bridges 1' Driving Layup,44-60,44,60
-0021900823,2020-02-20,CHI,CHA,24.33,3,11,40,CHI,CHI,reb,0,False,False,BULLS Rebound,,44-60,44,60
 0021900823,2020-02-20,CHI,CHA,24.33,3,11,40,CHA,CHI,block,6,True,False,block,block,44-60,44,60
+0021900823,2020-02-20,CHI,CHA,24.33,3,11,40,CHI,CHI,reb,0,False,False,BULLS Rebound,,44-60,44,60
 0021900823,2020-02-20,CHI,CHA,24.6,3,11,24,CHI,CHI,fg_miss,5,False,False,MISS Young 2' Layup,,44-60,44,60
 0021900823,2020-02-20,CHI,CHA,24.62,3,11,23,CHA,CHA,reb,0,False,False,,Zeller REBOUND (Off:1 Def:4),44-60,44,60
 0021900823,2020-02-20,CHI,CHA,24.78,3,11,13,CHA,CHA,fg3_miss,1,False,False,,MISS Washington 25' 3PT Jump Shot,44-60,44,60
@@ -311,11 +311,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900823,2020-02-20,CHI,CHA,33.72,3,2,17,CHI,CHI,fg3_miss,2,False,False,MISS White 27' 3PT Running Jump Shot,,68-72,68,72
 0021900823,2020-02-20,CHI,CHA,33.75,3,2,15,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:1 Def:5),68-72,68,72
 0021900823,2020-02-20,CHI,CHA,33.85,3,2,9,CHA,CHA,fg_miss,1,True,False,,MISS Bridges 2' Jump Shot,68-72,68,72
+0021900823,2020-02-20,CHI,CHA,33.85,3,2,9,CHA,CHI,block,1,True,False,block,block,68-72,68,72
 0021900823,2020-02-20,CHI,CHA,33.85,3,2,9,CHA,CHA,reb,0,False,False,,Monk REBOUND (Off:1 Def:3),68-72,68,72
 0021900823,2020-02-20,CHI,CHA,33.85,3,2,9,CHA,CHA,fg_miss,5,False,False,,MISS Monk 2' Layup,68-72,68,72
 0021900823,2020-02-20,CHI,CHA,33.85,3,2,9,CHA,CHA,reb,0,False,False,,Hornets Rebound,68-72,68,72
 0021900823,2020-02-20,CHI,CHA,33.85,3,2,9,CHA,CHI,foul,3,False,False,Felicio L.B.FOUL (P1.PN) (L.Wood),,68-72,68,72
-0021900823,2020-02-20,CHI,CHA,33.85,3,2,9,CHA,CHI,block,1,True,False,block,block,68-72,68,72
 0021900823,2020-02-20,CHI,CHA,33.85,3,2,9,CHA,CHA,ft_make,11,False,False,,Monk Free Throw 1 of 2 (16 PTS),68-73,68,73
 0021900823,2020-02-20,CHI,CHA,33.85,3,2,9,CHA,CHA,ft_make,12,False,False,,Monk Free Throw 2 of 2 (17 PTS),68-74,68,74
 0021900823,2020-02-20,CHI,CHA,34.23,3,1,46,CHI,CHI,fg3_make,1,False,False,Kornet 24' 3PT Jump Shot (5 PTS) (LaVine 5 AST),,71-74,71,74

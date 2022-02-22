@@ -30,8 +30,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800155,2018-11-07,ATL,NYK,3.23,1,8,46,ATL,NYK,foul,1,False,False,,Vonleh P.FOUL (P1.T1) (K.Lane),3-10,3,10
 0021800155,2018-11-07,ATL,NYK,3.32,1,8,41,ATL,NYK,foul,1,False,False,,Ntilikina P.FOUL (P1.T2) (T.Washington),3-10,3,10
 0021800155,2018-11-07,ATL,NYK,3.42,1,8,35,ATL,ATL,fg_miss,101,True,False,MISS Bembry 14' Driving Floating Jump Shot,,3-10,3,10
-0021800155,2018-11-07,ATL,NYK,3.42,1,8,35,ATL,ATL,reb,0,False,False,HAWKS Rebound,,3-10,3,10
 0021800155,2018-11-07,ATL,NYK,3.42,1,8,35,ATL,NYK,block,101,True,False,block,block,3-10,3,10
+0021800155,2018-11-07,ATL,NYK,3.42,1,8,35,ATL,ATL,reb,0,False,False,HAWKS Rebound,,3-10,3,10
 0021800155,2018-11-07,ATL,NYK,3.47,1,8,32,ATL,ATL,fg_miss,43,False,False,MISS Len 6' Alley Oop Layup,,3-10,3,10
 0021800155,2018-11-07,ATL,NYK,3.53,1,8,28,ATL,ATL,reb,0,False,False,Len REBOUND (Off:1 Def:1),,3-10,3,10
 0021800155,2018-11-07,ATL,NYK,3.53,1,8,28,ATL,ATL,fg_make,72,False,False,Len 1' Putback Layup (2 PTS),,5-10,5,10
@@ -117,8 +117,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800155,2018-11-07,ATL,NYK,9.55,1,2,27,NYK,NYK,ft_miss,12,False,False,,MISS Mudiay Free Throw 2 of 2,18-24,18,24
 0021800155,2018-11-07,ATL,NYK,9.57,1,2,26,NYK,NYK,reb,0,False,False,,Knicks Rebound,18-24,18,24
 0021800155,2018-11-07,ATL,NYK,9.77,1,2,14,NYK,NYK,fg_miss,63,True,False,,MISS Hezonja 12' Fadeaway Jumper,18-24,18,24
-0021800155,2018-11-07,ATL,NYK,9.77,1,2,14,ATL,ATL,reb,0,False,False,Dedmon REBOUND (Off:0 Def:2),,18-24,18,24
 0021800155,2018-11-07,ATL,NYK,9.77,1,2,14,NYK,ATL,block,63,True,False,block,block,18-24,18,24
+0021800155,2018-11-07,ATL,NYK,9.77,1,2,14,ATL,ATL,reb,0,False,False,Dedmon REBOUND (Off:0 Def:2),,18-24,18,24
 0021800155,2018-11-07,ATL,NYK,10.03,1,1,58,ATL,ATL,fg3_make,1,False,False,Prince 26' 3PT Jump Shot (5 PTS) (Dedmon 1 AST),,21-24,21,24
 0021800155,2018-11-07,ATL,NYK,10.27,1,1,44,NYK,NYK,tov,40,False,False,,Knox II Out of Bounds Lost Ball Turnover (P1.T5),21-24,21,24
 0021800155,2018-11-07,ATL,NYK,10.5,1,1,30,ATL,ATL,fg_miss,58,False,False,MISS Dedmon 9' Turnaround Hook Shot,,21-24,21,24
@@ -225,11 +225,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800155,2018-11-07,ATL,NYK,20.77,2,3,14,NYK,NYK,fg3_miss,1,False,False,,MISS Ntilikina 25' 3PT Jump Shot,46-48,46,48
 0021800155,2018-11-07,ATL,NYK,20.83,2,3,10,ATL,ATL,reb,0,False,False,Bazemore REBOUND (Off:2 Def:4),,46-48,46,48
 0021800155,2018-11-07,ATL,NYK,20.88,2,3,7,ATL,ATL,fg_miss,6,True,False,MISS Bazemore 3' Driving Layup,,46-48,46,48
-0021800155,2018-11-07,ATL,NYK,20.88,2,3,7,ATL,ATL,reb,0,False,False,Spellman REBOUND (Off:2 Def:2),,46-48,46,48
 0021800155,2018-11-07,ATL,NYK,20.88,2,3,7,ATL,NYK,block,6,True,False,block,block,46-48,46,48
-0021800155,2018-11-07,ATL,NYK,20.88,2,3,7,ATL,ATL,fg_make,72,False,False,Spellman 3' Putback Layup (9 PTS),,48-48,48,48
 0021800155,2018-11-07,ATL,NYK,20.88,2,3,7,ATL,NYK,foul,2,False,False,,Robinson S.FOUL (P1.T4) (T.Washington),48-48,48,48
 0021800155,2018-11-07,ATL,NYK,20.88,2,3,7,ATL,ATL,ft_make,10,False,False,Spellman Free Throw 1 of 1 (10 PTS),,49-48,49,48
+0021800155,2018-11-07,ATL,NYK,20.88,2,3,7,ATL,ATL,reb,0,False,False,Spellman REBOUND (Off:2 Def:2),,46-48,46,48
+0021800155,2018-11-07,ATL,NYK,20.88,2,3,7,ATL,ATL,fg_make,72,False,False,Spellman 3' Putback Layup (9 PTS),,48-48,48,48
 0021800155,2018-11-07,ATL,NYK,20.9,2,3,6,NYK,ATL,foul,1,False,False,Lin P.FOUL (P2.PN) (K.Lane),,49-48,49,48
 0021800155,2018-11-07,ATL,NYK,20.9,2,3,6,NYK,NYK,ft_make,11,False,False,,Ntilikina Free Throw 1 of 2 (10 PTS),49-49,49,49
 0021800155,2018-11-07,ATL,NYK,20.9,2,3,6,NYK,NYK,ft_make,12,False,False,,Ntilikina Free Throw 2 of 2 (11 PTS),49-50,49,50
@@ -239,8 +239,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800155,2018-11-07,ATL,NYK,21.42,2,2,35,NYK,NYK,tov,37,False,False,,Trier Offensive Foul Turnover (P2.T8),49-50,49,50
 0021800155,2018-11-07,ATL,NYK,21.67,2,2,20,ATL,ATL,fg_make,5,False,False,Poythress 3' Layup (2 PTS) (Bazemore 3 AST),,51-50,51,50
 0021800155,2018-11-07,ATL,NYK,21.92,2,2,5,NYK,NYK,fg_miss,6,True,False,,MISS Trier 3' Driving Layup,51-50,51,50
-0021800155,2018-11-07,ATL,NYK,21.92,2,2,5,NYK,NYK,reb,0,False,False,,Knicks Rebound,51-50,51,50
 0021800155,2018-11-07,ATL,NYK,21.92,2,2,5,NYK,ATL,block,6,True,False,block,block,51-50,51,50
+0021800155,2018-11-07,ATL,NYK,21.92,2,2,5,NYK,NYK,reb,0,False,False,,Knicks Rebound,51-50,51,50
 0021800155,2018-11-07,ATL,NYK,21.97,2,2,2,NYK,ATL,foul,1,False,False,Bazemore P.FOUL (P2.PN) (T.Washington),,51-50,51,50
 0021800155,2018-11-07,ATL,NYK,21.97,2,2,2,NYK,NYK,ft_make,11,False,False,,Hardaway Jr. Free Throw 1 of 2 (6 PTS),51-51,51,51
 0021800155,2018-11-07,ATL,NYK,21.97,2,2,2,NYK,NYK,ft_make,12,False,False,,Hardaway Jr. Free Throw 2 of 2 (7 PTS),51-52,51,52
@@ -270,8 +270,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800155,2018-11-07,ATL,NYK,24.6,3,11,24,NYK,NYK,tov,1,False,True,,Ntilikina Bad Pass Turnover (P1.T10),55-52,55,52
 0021800155,2018-11-07,ATL,NYK,24.6,3,11,24,NYK,ATL,steal,1,False,True,steal,steal,55-52,55,52
 0021800155,2018-11-07,ATL,NYK,24.67,3,11,20,ATL,ATL,fg_miss,44,True,False,MISS Bazemore 3' Reverse Layup,,55-52,55,52
-0021800155,2018-11-07,ATL,NYK,24.67,3,11,20,NYK,NYK,reb,0,False,False,,Knicks Rebound,55-52,55,52
 0021800155,2018-11-07,ATL,NYK,24.67,3,11,20,ATL,NYK,block,44,True,False,block,block,55-52,55,52
+0021800155,2018-11-07,ATL,NYK,24.67,3,11,20,NYK,NYK,reb,0,False,False,,Knicks Rebound,55-52,55,52
 0021800155,2018-11-07,ATL,NYK,24.92,3,11,5,NYK,NYK,fg3_make,1,False,False,,Hardaway Jr. 27' 3PT Jump Shot (10 PTS) (Ntilikina 3 AST),55-55,55,55
 0021800155,2018-11-07,ATL,NYK,24.95,3,11,3,ATL,ATL,timeout,1,False,False,HAWKS Timeout: Regular (Full 3 Short 0),,55-55,55,55
 0021800155,2018-11-07,ATL,NYK,25.13,3,10,52,ATL,ATL,fg3_miss,1,False,False,MISS Bazemore 3PT Jump Shot,,55-55,55,55
@@ -321,8 +321,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800155,2018-11-07,ATL,NYK,28.97,3,7,2,ATL,ATL,fg3_miss,1,False,False,MISS Young 25' 3PT Jump Shot,,63-62,63,62
 0021800155,2018-11-07,ATL,NYK,29.03,3,6,58,NYK,NYK,reb,0,False,False,,Vonleh REBOUND (Off:2 Def:10),63-62,63,62
 0021800155,2018-11-07,ATL,NYK,29.08,3,6,55,NYK,NYK,fg_miss,41,True,False,,MISS Mudiay 1' Running Layup,63-62,63,62
-0021800155,2018-11-07,ATL,NYK,29.08,3,6,55,NYK,NYK,reb,0,False,False,,Knicks Rebound,63-62,63,62
 0021800155,2018-11-07,ATL,NYK,29.08,3,6,55,NYK,ATL,block,41,True,False,block,block,63-62,63,62
+0021800155,2018-11-07,ATL,NYK,29.08,3,6,55,NYK,NYK,reb,0,False,False,,Knicks Rebound,63-62,63,62
 0021800155,2018-11-07,ATL,NYK,29.4,3,6,36,NYK,NYK,fg3_make,1,False,False,,Mudiay 26' 3PT Jump Shot (3 PTS) (Trier 1 AST),63-65,63,65
 0021800155,2018-11-07,ATL,NYK,29.67,3,6,20,ATL,ATL,tov,2,False,True,Prince Lost Ball Turnover (P2.T10),,63-65,63,65
 0021800155,2018-11-07,ATL,NYK,29.67,3,6,20,ATL,NYK,steal,2,False,True,steal,steal,63-65,63,65
@@ -393,12 +393,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800155,2018-11-07,ATL,NYK,36.58,4,11,25,NYK,NYK,tov,8,False,False,,Kanter 3 Second Violation Turnover (P4.T14),73-87,73,87
 0021800155,2018-11-07,ATL,NYK,36.75,4,11,15,ATL,ATL,fg3_make,1,False,False,Spellman 26' 3PT Jump Shot (18 PTS) (Young 5 AST),,76-87,76,87
 0021800155,2018-11-07,ATL,NYK,37.08,4,10,55,NYK,NYK,fg_miss,6,True,False,,MISS Knox II 1' Driving Layup,76-87,76,87
-0021800155,2018-11-07,ATL,NYK,37.08,4,10,55,NYK,NYK,reb,0,False,False,,Kanter REBOUND (Off:3 Def:6),76-87,76,87
 0021800155,2018-11-07,ATL,NYK,37.08,4,10,55,NYK,ATL,block,6,True,False,block,block,76-87,76,87
+0021800155,2018-11-07,ATL,NYK,37.08,4,10,55,NYK,NYK,reb,0,False,False,,Kanter REBOUND (Off:3 Def:6),76-87,76,87
 0021800155,2018-11-07,ATL,NYK,37.2,4,10,48,NYK,NYK,fg3_make,1,False,False,,Mudiay 26' 3PT Jump Shot (9 PTS) (Knox II 1 AST),76-90,76,90
 0021800155,2018-11-07,ATL,NYK,37.4,4,10,36,ATL,ATL,fg_miss,5,True,False,MISS Spellman 5' Layup,,76-90,76,90
-0021800155,2018-11-07,ATL,NYK,37.4,4,10,36,NYK,NYK,reb,0,False,False,,Kanter REBOUND (Off:3 Def:7),76-90,76,90
 0021800155,2018-11-07,ATL,NYK,37.4,4,10,36,ATL,NYK,block,5,True,False,block,block,76-90,76,90
+0021800155,2018-11-07,ATL,NYK,37.4,4,10,36,NYK,NYK,reb,0,False,False,,Kanter REBOUND (Off:3 Def:7),76-90,76,90
 0021800155,2018-11-07,ATL,NYK,37.65,4,10,21,NYK,NYK,fg3_miss,1,False,False,,MISS Vonleh 27' 3PT Jump Shot,76-90,76,90
 0021800155,2018-11-07,ATL,NYK,37.7,4,10,18,ATL,ATL,reb,0,False,False,Young REBOUND (Off:1 Def:4),,76-90,76,90
 0021800155,2018-11-07,ATL,NYK,37.78,4,10,13,ATL,ATL,fg_make,78,False,False,Bembry 4' Floating Jump Shot (2 PTS) (Young 6 AST),,78-90,78,90
@@ -485,9 +485,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800155,2018-11-07,ATL,NYK,47.1,4,0,54,ATL,ATL,ft_make,11,False,False,Young Free Throw 1 of 2 (12 PTS),,101-106,101,106
 0021800155,2018-11-07,ATL,NYK,47.1,4,0,54,ATL,ATL,ft_make,12,False,False,Young Free Throw 2 of 2 (13 PTS),,102-106,102,106
 0021800155,2018-11-07,ATL,NYK,47.37,4,0,38,NYK,NYK,fg_miss,6,True,False,,MISS Hardaway Jr. 4' Driving Layup,102-106,102,106
+0021800155,2018-11-07,ATL,NYK,47.37,4,0,38,NYK,ATL,block,6,True,False,block,block,102-106,102,106
 0021800155,2018-11-07,ATL,NYK,47.37,4,0,38,NYK,NYK,reb,0,False,False,,Knicks Rebound,102-106,102,106
 0021800155,2018-11-07,ATL,NYK,47.37,4,0,38,NYK,NYK,timeout,1,False,False,,Knicks Timeout: Regular (Reg.4 Short 0),102-106,102,106
-0021800155,2018-11-07,ATL,NYK,47.37,4,0,38,NYK,ATL,block,6,True,False,block,block,102-106,102,106
 0021800155,2018-11-07,ATL,NYK,47.48,4,0,31,NYK,NYK,fg_make,47,False,False,,Mudiay 17' Turnaround Jump Shot (11 PTS),102-108,102,108
 0021800155,2018-11-07,ATL,NYK,47.58,4,0,25,ATL,ATL,fg3_miss,1,False,False,MISS Young 27' 3PT Jump Shot,,102-108,102,108
 0021800155,2018-11-07,ATL,NYK,47.63,4,0,22,ATL,ATL,reb,0,False,False,Poythress REBOUND (Off:1 Def:0),,102-108,102,108

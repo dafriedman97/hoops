@@ -49,8 +49,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700536,2017-12-30,DEN,PHI,7.03,1,4,58,DEN,DEN,fg3_miss,1,False,False,MISS Lyles 24' 3PT Jump Shot,,15-21,15,21
 0021700536,2017-12-30,DEN,PHI,7.1,1,4,54,PHI,PHI,reb,0,False,False,,Holmes REBOUND (Off:0 Def:1),15-21,15,21
 0021700536,2017-12-30,DEN,PHI,7.18,1,4,49,PHI,PHI,fg_miss,98,True,False,,MISS Holmes 6' Cutting Layup Shot,15-21,15,21
-0021700536,2017-12-30,DEN,PHI,7.18,1,4,49,PHI,PHI,reb,0,False,False,,76ers Rebound,15-21,15,21
 0021700536,2017-12-30,DEN,PHI,7.18,1,4,49,PHI,DEN,block,98,True,False,block,block,15-21,15,21
+0021700536,2017-12-30,DEN,PHI,7.18,1,4,49,PHI,PHI,reb,0,False,False,,76ers Rebound,15-21,15,21
 0021700536,2017-12-30,DEN,PHI,7.22,1,4,47,PHI,PHI,fg_miss,63,False,False,,MISS Bayless 15' Fadeaway Jumper,15-21,15,21
 0021700536,2017-12-30,DEN,PHI,7.27,1,4,44,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:0 Def:1),,15-21,15,21
 0021700536,2017-12-30,DEN,PHI,7.33,1,4,40,DEN,DEN,fg_make,6,False,False,Harris 3' Driving Layup (7 PTS) (Jokic 3 AST),,17-21,17,21
@@ -78,8 +78,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700536,2017-12-30,DEN,PHI,9.68,1,2,19,PHI,PHI,tov,2,False,True,,Booker Lost Ball Turnover (P1.T3),26-25,26,25
 0021700536,2017-12-30,DEN,PHI,9.68,1,2,19,PHI,DEN,steal,2,False,True,steal,steal,26-25,26,25
 0021700536,2017-12-30,DEN,PHI,9.77,1,2,14,DEN,DEN,fg3_miss,79,True,False,MISS Barton 27' 3PT Pullup Jump Shot,,26-25,26,25
-0021700536,2017-12-30,DEN,PHI,9.77,1,2,14,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,26-25,26,25
 0021700536,2017-12-30,DEN,PHI,9.77,1,2,14,DEN,PHI,block,79,True,False,block,block,26-25,26,25
+0021700536,2017-12-30,DEN,PHI,9.77,1,2,14,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,26-25,26,25
 0021700536,2017-12-30,DEN,PHI,10.12,1,1,53,DEN,DEN,fg3_miss,1,False,False,MISS Barton 29' 3PT Jump Shot,,26-25,26,25
 0021700536,2017-12-30,DEN,PHI,10.12,1,1,53,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,26-25,26,25
 0021700536,2017-12-30,DEN,PHI,10.18,1,1,49,,DEN,jump_ball,0,False,False,Jump Ball Plumlee vs. Holmes: Tip to Lyles,,26-25,26,25
@@ -292,9 +292,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700536,2017-12-30,DEN,PHI,33.77,3,2,14,DEN,PHI,foul,2,False,False,,Covington S.FOUL (P1.PN) (M.Smith),76-77,76,77
 0021700536,2017-12-30,DEN,PHI,33.77,3,2,14,DEN,DEN,ft_miss,10,False,False,MISS Plumlee Free Throw 1 of 1,,76-77,76,77
 0021700536,2017-12-30,DEN,PHI,33.77,3,2,14,DEN,DEN,reb,1,False,False,NUGGETS Rebound,,76-77,76,77
-0021700536,2017-12-30,DEN,PHI,33.77,3,2,14,DEN,PHI,violation,3,False,False,,Lane,76-77,76,77
 0021700536,2017-12-30,DEN,PHI,33.77,3,2,14,DEN,DEN,ft_miss,10,False,False,MISS Plumlee Free Throw 1 of 1,,76-77,76,77
 0021700536,2017-12-30,DEN,PHI,33.77,3,2,14,PHI,PHI,reb,0,False,False,,Johnson REBOUND (Off:1 Def:3),76-77,76,77
+0021700536,2017-12-30,DEN,PHI,33.77,3,2,14,DEN,PHI,violation,3,False,False,,Lane,76-77,76,77
 0021700536,2017-12-30,DEN,PHI,34.03,3,1,58,PHI,PHI,fg_make,98,False,False,,Bayless 4' Cutting Layup Shot (6 PTS) (McConnell 7 AST),76-79,76,79
 0021700536,2017-12-30,DEN,PHI,34.3,3,1,42,PHI,DEN,foul,26,False,False,Chandler Offensive Charge Foul (P2.T4) (M.Smith),,76-79,76,79
 0021700536,2017-12-30,DEN,PHI,34.3,3,1,42,DEN,DEN,tov,37,False,False,Chandler Offensive Foul Turnover (P1.T9),,76-79,76,79
@@ -331,8 +331,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700536,2017-12-30,DEN,PHI,37.45,4,10,33,PHI,PHI,fg_miss,1,False,False,,MISS Saric 19' Jump Shot,80-91,80,91
 0021700536,2017-12-30,DEN,PHI,37.53,4,10,28,PHI,PHI,reb,0,False,False,,Booker REBOUND (Off:1 Def:2),80-91,80,91
 0021700536,2017-12-30,DEN,PHI,37.55,4,10,27,PHI,PHI,fg_miss,5,True,False,,MISS Booker 3' Layup,80-91,80,91
-0021700536,2017-12-30,DEN,PHI,37.55,4,10,27,PHI,PHI,reb,0,False,False,,Bayless REBOUND (Off:1 Def:0),80-91,80,91
 0021700536,2017-12-30,DEN,PHI,37.55,4,10,27,PHI,DEN,block,5,True,False,block,block,80-91,80,91
+0021700536,2017-12-30,DEN,PHI,37.55,4,10,27,PHI,PHI,reb,0,False,False,,Bayless REBOUND (Off:1 Def:0),80-91,80,91
 0021700536,2017-12-30,DEN,PHI,37.83,4,10,10,PHI,PHI,tov,2,False,True,,Bayless Lost Ball Turnover (P2.T9),80-91,80,91
 0021700536,2017-12-30,DEN,PHI,37.83,4,10,10,PHI,DEN,steal,2,False,True,steal,steal,80-91,80,91
 0021700536,2017-12-30,DEN,PHI,37.9,4,10,6,DEN,DEN,fg_make,41,False,False,Murray 2' Running Layup (23 PTS) (Harris 1 AST),,82-91,82,91
@@ -410,8 +410,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700536,2017-12-30,DEN,PHI,45.07,4,2,56,DEN,DEN,reb,1,False,False,NUGGETS Rebound,,97-103,97,103
 0021700536,2017-12-30,DEN,PHI,45.07,4,2,56,DEN,DEN,ft_make,12,False,False,Lyles Free Throw 2 of 2 (16 PTS),,98-103,98,103
 0021700536,2017-12-30,DEN,PHI,45.27,4,2,44,PHI,PHI,fg_miss,5,True,False,,MISS Johnson 4' Layup,98-103,98,103
-0021700536,2017-12-30,DEN,PHI,45.27,4,2,44,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,98-103,98,103
 0021700536,2017-12-30,DEN,PHI,45.27,4,2,44,PHI,DEN,block,5,True,False,block,block,98-103,98,103
+0021700536,2017-12-30,DEN,PHI,45.27,4,2,44,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,98-103,98,103
 0021700536,2017-12-30,DEN,PHI,45.4,4,2,36,DEN,DEN,fg3_miss,80,False,False,MISS Lyles 3PT Step Back Jump Shot,,98-103,98,103
 0021700536,2017-12-30,DEN,PHI,45.47,4,2,32,PHI,PHI,reb,0,False,False,,Covington REBOUND (Off:0 Def:10),98-103,98,103
 0021700536,2017-12-30,DEN,PHI,45.8,4,2,12,PHI,PHI,tov,1,False,True,,Simmons Bad Pass Turnover (P5.T13),98-103,98,103

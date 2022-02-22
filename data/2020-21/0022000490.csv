@@ -8,8 +8,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000490,2021-02-24,ATL,BOS,0.93,1,11,4,BOS,BOS,fg_make,6,False,False,,Brown 1' Driving Layup (2 PTS) (Tatum 1 AST),0-2,0,2
 0022000490,2021-02-24,ATL,BOS,1.08,1,10,55,ATL,ATL,fg_miss,6,True,False,MISS Young 1' Driving Layup,,0-2,0,2
 0022000490,2021-02-24,ATL,BOS,1.08,1,10,55,ATL,BOS,block,6,True,False,block,block,0-2,0,2
-0022000490,2021-02-24,ATL,BOS,1.18,1,10,49,ATL,ATL,fg_make,87,False,False,Collins Putback Dunk (2 PTS),,2-2,2,2
 0022000490,2021-02-24,ATL,BOS,1.18,1,10,49,ATL,ATL,reb,0,False,False,Collins REBOUND (Off:1 Def:0),,2-2,2,2
+0022000490,2021-02-24,ATL,BOS,1.18,1,10,49,ATL,ATL,fg_make,87,False,False,Collins Putback Dunk (2 PTS),,2-2,2,2
 0022000490,2021-02-24,ATL,BOS,1.33,1,10,40,BOS,BOS,fg_miss,6,False,False,,MISS Tatum 5' Driving Layup,2-2,2,2
 0022000490,2021-02-24,ATL,BOS,1.47,1,10,32,BOS,BOS,reb,0,False,False,,Thompson REBOUND (Off:1 Def:0),2-2,2,2
 0022000490,2021-02-24,ATL,BOS,1.47,1,10,32,BOS,BOS,fg_make,72,False,False,,Thompson Putback Layup (2 PTS),2-4,2,4
@@ -27,9 +27,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000490,2021-02-24,ATL,BOS,3.83,1,8,10,ATL,ATL,fg3_miss,1,False,False,MISS Collins 25' 3PT Jump Shot,,13-11,13,11
 0022000490,2021-02-24,ATL,BOS,3.88,1,8,7,BOS,BOS,reb,0,False,False,,Teague REBOUND (Off:0 Def:1),13-11,13,11
 0022000490,2021-02-24,ATL,BOS,4.23,1,7,46,BOS,BOS,fg3_miss,80,False,False,,MISS Tatum 3PT Step Back Jump Shot,13-11,13,11
+0022000490,2021-02-24,ATL,BOS,4.37,1,7,38,BOS,BOS,reb,0,False,False,,Thompson REBOUND (Off:3 Def:0),13-11,13,11
 0022000490,2021-02-24,ATL,BOS,4.37,1,7,38,BOS,BOS,fg_miss,97,False,False,,MISS Thompson Tip Layup Shot,13-11,13,11
 0022000490,2021-02-24,ATL,BOS,4.37,1,7,38,BOS,BOS,reb,0,False,False,,Thompson REBOUND (Off:2 Def:0),13-11,13,11
-0022000490,2021-02-24,ATL,BOS,4.37,1,7,38,BOS,BOS,reb,0,False,False,,Thompson REBOUND (Off:3 Def:0),13-11,13,11
 0022000490,2021-02-24,ATL,BOS,4.38,1,7,37,BOS,BOS,fg_make,97,False,False,,Thompson Tip Layup Shot (4 PTS),13-13,13,13
 0022000490,2021-02-24,ATL,BOS,4.52,1,7,29,ATL,ATL,fg_miss,79,False,False,MISS Huerter 21' Pullup Jump Shot,,13-13,13,13
 0022000490,2021-02-24,ATL,BOS,4.58,1,7,25,BOS,BOS,reb,0,False,False,,Teague REBOUND (Off:0 Def:2),13-13,13,13
@@ -265,14 +265,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000490,2021-02-24,ATL,BOS,29.68,3,6,19,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:1 Def:3),83-63,83,63
 0022000490,2021-02-24,ATL,BOS,29.73,3,6,16,BOS,BOS,fg_miss,6,True,False,,MISS Brown 1' Driving Layup,83-63,83,63
 0022000490,2021-02-24,ATL,BOS,29.73,3,6,16,BOS,ATL,block,6,True,False,block,block,83-63,83,63
-0022000490,2021-02-24,ATL,BOS,29.78,3,6,13,ATL,ATL,reb,0,False,False,HAWKS Rebound,,83-63,83,63
 0022000490,2021-02-24,ATL,BOS,29.78,3,6,13,,ATL,jump_ball,0,False,False,Jump Ball Capela vs. Brown: Tip to Young,,83-63,83,63
+0022000490,2021-02-24,ATL,BOS,29.78,3,6,13,ATL,ATL,reb,0,False,False,HAWKS Rebound,,83-63,83,63
 0022000490,2021-02-24,ATL,BOS,29.9,3,6,6,ATL,ATL,fg3_miss,79,False,False,MISS Young 25' 3PT Pullup Jump Shot,,83-63,83,63
 0022000490,2021-02-24,ATL,BOS,29.92,3,6,5,BOS,BOS,reb,0,False,False,,Celtics Rebound,83-63,83,63
 0022000490,2021-02-24,ATL,BOS,30.15,3,5,51,BOS,BOS,fg_miss,5,True,False,,MISS Teague 6' Layup,83-63,83,63
 0022000490,2021-02-24,ATL,BOS,30.15,3,5,51,BOS,ATL,block,5,True,False,block,block,83-63,83,63
-0022000490,2021-02-24,ATL,BOS,30.27,3,5,44,BOS,BOS,fg_make,78,False,False,,Thompson Floating Jump Shot (10 PTS),83-65,83,65
 0022000490,2021-02-24,ATL,BOS,30.27,3,5,44,BOS,BOS,reb,0,False,False,,Thompson REBOUND (Off:7 Def:5),83-65,83,65
+0022000490,2021-02-24,ATL,BOS,30.27,3,5,44,BOS,BOS,fg_make,78,False,False,,Thompson Floating Jump Shot (10 PTS),83-65,83,65
 0022000490,2021-02-24,ATL,BOS,30.57,3,5,26,ATL,ATL,fg3_make,80,False,False,Gallinari 24' 3PT Step Back Jump Shot (27 PTS) (Young 7 AST),,86-65,86,65
 0022000490,2021-02-24,ATL,BOS,30.8,3,5,12,BOS,ATL,foul,1,False,False,Huerter P.FOUL (P3.PN) (P.Ransom),,86-65,86,65
 0022000490,2021-02-24,ATL,BOS,30.8,3,5,12,BOS,BOS,ft_make,11,False,False,,Teague Free Throw 1 of 2 (10 PTS),86-66,86,66
@@ -325,10 +325,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000490,2021-02-24,ATL,BOS,35.93,3,0,4,BOS,BOS,ft_make,11,False,False,,Brown Free Throw 1 of 2 (16 PTS),99-77,99,77
 0022000490,2021-02-24,ATL,BOS,35.93,3,0,4,BOS,BOS,ft_make,12,False,False,,Brown Free Throw 2 of 2 (17 PTS),99-78,99,78
 0022000490,2021-02-24,ATL,BOS,36.0,3,0,0,ATL,ATL,fg_miss,41,True,False,MISS Rondo 2' Running Layup,,99-78,99,78
+0022000490,2021-02-24,ATL,BOS,36.0,3,0,0,ATL,BOS,block,41,True,False,block,block,99-78,99,78
 0022000490,2021-02-24,ATL,BOS,36.0,3,0,0,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:0 Def:3),99-78,99,78
 0022000490,2021-02-24,ATL,BOS,36.0,3,0,0,BOS,,period_end,0,False,False,,,99-78,99,78
 0022000490,2021-02-24,ATL,BOS,36.0,4,12,0,BOS,,period_start,0,False,False,,,99-78,99,78
-0022000490,2021-02-24,ATL,BOS,36.0,3,0,0,ATL,BOS,block,41,True,False,block,block,99-78,99,78
 0022000490,2021-02-24,ATL,BOS,36.27,4,11,44,ATL,ATL,fg_make,5,False,False,Gallinari 1' Layup (34 PTS) (Mays 3 AST),,101-78,101,78
 0022000490,2021-02-24,ATL,BOS,36.43,4,11,34,BOS,BOS,fg_miss,6,True,False,,MISS Tatum 1' Driving Layup,101-78,101,78
 0022000490,2021-02-24,ATL,BOS,36.43,4,11,34,BOS,ATL,block,6,True,False,block,block,101-78,101,78

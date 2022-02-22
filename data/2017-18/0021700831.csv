@@ -136,9 +136,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700831,2018-02-10,GSW,SAS,17.18,2,6,49,SAS,SAS,reb,0,False,False,,Ginobili REBOUND (Off:0 Def:1),42-44,42,44
 0021700831,2018-02-10,GSW,SAS,17.22,2,6,47,SAS,GSW,foul,1,False,False,Thompson P.FOUL (P1.T2) (K.Cutler),,42-44,42,44
 0021700831,2018-02-10,GSW,SAS,17.3,2,6,42,SAS,SAS,fg3_miss,1,True,False,,MISS Mills 25' 3PT Jump Shot,42-44,42,44
+0021700831,2018-02-10,GSW,SAS,17.3,2,6,42,SAS,GSW,block,1,True,False,block,block,42-44,42,44
 0021700831,2018-02-10,GSW,SAS,17.3,2,6,42,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,42-44,42,44
 0021700831,2018-02-10,GSW,SAS,17.3,2,6,42,GSW,SAS,foul,1,False,False,,Mills P.FOUL (P3.T2) (D.Collins),42-44,42,44
-0021700831,2018-02-10,GSW,SAS,17.3,2,6,42,SAS,GSW,block,1,True,False,block,block,42-44,42,44
 0021700831,2018-02-10,GSW,SAS,17.53,2,6,28,GSW,GSW,fg_make,1,False,False,West 19' Jump Shot (6 PTS) (Livingston 3 AST),,44-44,44,44
 0021700831,2018-02-10,GSW,SAS,17.92,2,6,5,SAS,GSW,foul,2,False,False,West S.FOUL (P2.T3) (D.Collins),,44-44,44,44
 0021700831,2018-02-10,GSW,SAS,17.92,2,6,5,SAS,SAS,ft_miss,11,False,False,,MISS Anderson Free Throw 1 of 2,44-44,44,44
@@ -163,8 +163,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700831,2018-02-10,GSW,SAS,19.27,2,4,44,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.3 Short 0),46-44,46,44
 0021700831,2018-02-10,GSW,SAS,19.55,2,4,27,SAS,SAS,fg_make,6,False,False,,Ginobili 2' Driving Layup (10 PTS),46-46,46,46
 0021700831,2018-02-10,GSW,SAS,19.83,2,4,10,GSW,GSW,fg_miss,1,True,False,MISS Casspi 11' Jump Shot,,46-46,46,46
-0021700831,2018-02-10,GSW,SAS,19.83,2,4,10,SAS,SAS,reb,0,False,False,,White REBOUND (Off:1 Def:5),46-46,46,46
 0021700831,2018-02-10,GSW,SAS,19.83,2,4,10,GSW,SAS,block,1,True,False,block,block,46-46,46,46
+0021700831,2018-02-10,GSW,SAS,19.83,2,4,10,SAS,SAS,reb,0,False,False,,White REBOUND (Off:1 Def:5),46-46,46,46
 0021700831,2018-02-10,GSW,SAS,19.95,2,4,3,SAS,SAS,fg_miss,73,False,False,,MISS Ginobili 2' Driving Reverse Layup,46-46,46,46
 0021700831,2018-02-10,GSW,SAS,20.03,2,3,58,GSW,GSW,reb,0,False,False,Casspi REBOUND (Off:0 Def:1),,46-46,46,46
 0021700831,2018-02-10,GSW,SAS,20.07,2,3,56,GSW,GSW,fg_miss,41,False,False,MISS Durant 2' Running Layup,,46-46,46,46
@@ -304,8 +304,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700831,2018-02-10,GSW,SAS,35.6,3,0,24,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:1 Def:3),,89-75,89,75
 0021700831,2018-02-10,GSW,SAS,35.85,3,0,9,GSW,GSW,fg_make,5,False,False,Curry 2' Layup (17 PTS),,91-75,91,75
 0021700831,2018-02-10,GSW,SAS,35.92,3,0,5,SAS,SAS,fg3_miss,1,True,False,,MISS Green 26' 3PT Jump Shot,91-75,91,75
-0021700831,2018-02-10,GSW,SAS,35.92,3,0,5,GSW,GSW,reb,0,False,False,Iguodala REBOUND (Off:1 Def:3),,91-75,91,75
 0021700831,2018-02-10,GSW,SAS,35.92,3,0,5,SAS,GSW,block,1,True,False,block,block,91-75,91,75
+0021700831,2018-02-10,GSW,SAS,35.92,3,0,5,GSW,GSW,reb,0,False,False,Iguodala REBOUND (Off:1 Def:3),,91-75,91,75
 0021700831,2018-02-10,GSW,SAS,36.0,3,0,0,GSW,GSW,fg3_miss,1,False,False,MISS Curry 66' 3PT Jump Shot,,91-75,91,75
 0021700831,2018-02-10,GSW,SAS,36.0,3,0,0,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,91-75,91,75
 0021700831,2018-02-10,GSW,SAS,36.0,3,0,0,GSW,,period_end,0,False,False,,,91-75,91,75

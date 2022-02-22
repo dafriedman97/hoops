@@ -154,8 +154,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000935,2021-04-28,WAS,LAL,15.22,2,8,47,LAL,LAL,ft_make,11,False,False,,Harrell Free Throw 1 of 2 (7 PTS),37-40,37,40
 0022000935,2021-04-28,WAS,LAL,15.22,2,8,47,LAL,LAL,ft_make,12,False,False,,Harrell Free Throw 2 of 2 (8 PTS),37-41,37,41
 0022000935,2021-04-28,WAS,LAL,15.4,2,8,36,WAS,WAS,fg_miss,6,True,False,MISS Westbrook 8' Driving Layup,,37-41,37,41
-0022000935,2021-04-28,WAS,LAL,15.4,2,8,36,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,37-41,37,41
 0022000935,2021-04-28,WAS,LAL,15.4,2,8,36,WAS,LAL,block,6,True,False,block,block,37-41,37,41
+0022000935,2021-04-28,WAS,LAL,15.4,2,8,36,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,37-41,37,41
 0022000935,2021-04-28,WAS,LAL,15.63,2,8,22,WAS,WAS,fg_miss,78,False,False,MISS Beal 7' Floating Jump Shot,,37-41,37,41
 0022000935,2021-04-28,WAS,LAL,15.63,2,8,22,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,37-41,37,41
 0022000935,2021-04-28,WAS,LAL,15.67,2,8,20,WAS,WAS,fg_miss,1,False,False,MISS Lopez 15' Jump Shot,,37-41,37,41
@@ -279,8 +279,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000935,2021-04-28,WAS,LAL,30.03,3,5,58,WAS,LAL,block,78,True,False,block,block,74-69,74,69
 0022000935,2021-04-28,WAS,LAL,30.1,3,5,54,LAL,LAL,reb,0,False,False,,Drummond REBOUND (Off:4 Def:7),74-69,74,69
 0022000935,2021-04-28,WAS,LAL,30.25,3,5,45,LAL,LAL,fg_miss,6,True,False,,MISS Schroder 5' Driving Layup,74-69,74,69
-0022000935,2021-04-28,WAS,LAL,30.25,3,5,45,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,74-69,74,69
 0022000935,2021-04-28,WAS,LAL,30.25,3,5,45,LAL,WAS,block,6,True,False,block,block,74-69,74,69
+0022000935,2021-04-28,WAS,LAL,30.25,3,5,45,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,74-69,74,69
 0022000935,2021-04-28,WAS,LAL,30.45,3,5,33,WAS,WAS,fg_make,79,False,False,Westbrook 14' Pullup Jump Shot (13 PTS),,76-69,76,69
 0022000935,2021-04-28,WAS,LAL,30.87,3,5,8,LAL,LAL,fg_miss,78,False,False,,MISS Drummond 8' Floating Jump Shot,76-69,76,69
 0022000935,2021-04-28,WAS,LAL,30.9,3,5,6,WAS,WAS,reb,0,False,False,Westbrook REBOUND (Off:2 Def:7),,76-69,76,69
@@ -365,9 +365,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000935,2021-04-28,WAS,LAL,38.82,4,9,11,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.6 Short 0),98-79,98,79
 0022000935,2021-04-28,WAS,LAL,39.05,4,8,57,LAL,WAS,foul,1,False,False,Bertans P.FOUL (P3.T2) (M.Myers),,98-79,98,79
 0022000935,2021-04-28,WAS,LAL,39.18,4,8,49,LAL,LAL,fg_miss,52,True,False,,MISS Davis 4' Alley Oop Dunk,98-79,98,79
+0022000935,2021-04-28,WAS,LAL,39.18,4,8,49,LAL,WAS,block,52,True,False,block,block,98-79,98,79
 0022000935,2021-04-28,WAS,LAL,39.18,4,8,49,LAL,LAL,reb,0,False,False,,Davis REBOUND (Off:1 Def:3),98-79,98,79
 0022000935,2021-04-28,WAS,LAL,39.18,4,8,49,LAL,WAS,foul,2,False,False,Gafford S.FOUL (P2.T3) (S.Wall),,98-79,98,79
-0022000935,2021-04-28,WAS,LAL,39.18,4,8,49,LAL,WAS,block,52,True,False,block,block,98-79,98,79
 0022000935,2021-04-28,WAS,LAL,39.18,4,8,49,LAL,LAL,ft_make,11,False,False,,Davis Free Throw 1 of 2 (13 PTS),98-80,98,80
 0022000935,2021-04-28,WAS,LAL,39.18,4,8,49,LAL,LAL,ft_make,12,False,False,,Davis Free Throw 2 of 2 (14 PTS),98-81,98,81
 0022000935,2021-04-28,WAS,LAL,39.42,4,8,35,WAS,WAS,fg_make,5,False,False,Gafford 4' Layup (8 PTS) (Westbrook 13 AST),,100-81,100,81
@@ -416,8 +416,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000935,2021-04-28,WAS,LAL,45.13,4,2,52,WAS,WAS,fg_make,108,False,False,Len 2' Cutting Dunk Shot (18 PTS) (Westbrook 14 AST),,114-98,114,98
 0022000935,2021-04-28,WAS,LAL,45.47,4,2,32,LAL,LAL,fg_make,1,False,False,,Davis 15' Jump Shot (26 PTS) (McLemore 1 AST),114-100,114,100
 0022000935,2021-04-28,WAS,LAL,45.8,4,2,12,WAS,WAS,fg_miss,5,True,False,MISS Hachimura 3' Layup,,114-100,114,100
-0022000935,2021-04-28,WAS,LAL,45.8,4,2,12,LAL,LAL,reb,0,False,False,,Lakers Rebound,114-100,114,100
 0022000935,2021-04-28,WAS,LAL,45.8,4,2,12,WAS,LAL,block,5,True,False,block,block,114-100,114,100
+0022000935,2021-04-28,WAS,LAL,45.8,4,2,12,LAL,LAL,reb,0,False,False,,Lakers Rebound,114-100,114,100
 0022000935,2021-04-28,WAS,LAL,45.92,4,2,5,LAL,LAL,fg3_miss,1,False,False,,MISS Davis 27' 3PT Jump Shot,114-100,114,100
 0022000935,2021-04-28,WAS,LAL,45.98,4,2,1,WAS,WAS,reb,0,False,False,Neto REBOUND (Off:0 Def:2),,114-100,114,100
 0022000935,2021-04-28,WAS,LAL,46.0,4,2,0,WAS,WAS,tov,2,False,True,Neto Lost Ball Turnover (P1.T13),,114-100,114,100
@@ -432,8 +432,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000935,2021-04-28,WAS,LAL,46.08,4,1,55,LAL,LAL,ft_miss,12,False,False,,MISS Davis Free Throw 2 of 2,114-100,114,100
 0022000935,2021-04-28,WAS,LAL,46.13,4,1,52,WAS,WAS,reb,0,False,False,Westbrook REBOUND (Off:2 Def:16),,114-100,114,100
 0022000935,2021-04-28,WAS,LAL,46.2,4,1,48,WAS,WAS,fg_miss,5,True,False,MISS Westbrook 5' Layup,,114-100,114,100
-0022000935,2021-04-28,WAS,LAL,46.2,4,1,48,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,114-100,114,100
 0022000935,2021-04-28,WAS,LAL,46.2,4,1,48,WAS,LAL,block,5,True,False,block,block,114-100,114,100
+0022000935,2021-04-28,WAS,LAL,46.2,4,1,48,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,114-100,114,100
 0022000935,2021-04-28,WAS,LAL,46.22,4,1,47,WAS,LAL,foul,2,False,False,,Caldwell-Pope S.FOUL (P3.PN) (S.Wall),114-100,114,100
 0022000935,2021-04-28,WAS,LAL,46.22,4,1,47,WAS,WAS,ft_make,11,False,False,Beal Free Throw 1 of 2 (26 PTS),,115-100,115,100
 0022000935,2021-04-28,WAS,LAL,46.22,4,1,47,WAS,WAS,ft_make,12,False,False,Beal Free Throw 2 of 2 (27 PTS),,116-100,116,100

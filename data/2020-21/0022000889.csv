@@ -278,9 +278,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000889,2021-04-21,LAC,MEM,30.37,3,5,38,MEM,MEM,fg_miss,6,False,False,,MISS Allen 2' Driving Layup,70-73,70,73
 0022000889,2021-04-21,LAC,MEM,30.4,3,5,36,LAC,LAC,reb,0,False,False,Kennard REBOUND (Off:0 Def:2),,70-73,70,73
 0022000889,2021-04-21,LAC,MEM,30.63,3,5,22,LAC,LAC,fg_miss,6,True,False,MISS Coffey 2' Driving Layup,,70-73,70,73
+0022000889,2021-04-21,LAC,MEM,30.63,3,5,22,LAC,MEM,block,6,True,False,block,block,70-73,70,73
 0022000889,2021-04-21,LAC,MEM,30.63,3,5,22,MEM,MEM,reb,0,False,False,,Bane REBOUND (Off:0 Def:1),70-73,70,73
 0022000889,2021-04-21,LAC,MEM,30.63,3,5,22,MEM,LAC,foul,28,False,False,Mann Personal Take Foul (P2.PN) (K.Cutler),,70-73,70,73
-0022000889,2021-04-21,LAC,MEM,30.63,3,5,22,LAC,MEM,block,6,True,False,block,block,70-73,70,73
 0022000889,2021-04-21,LAC,MEM,30.63,3,5,22,MEM,MEM,ft_make,11,False,False,,Bane Free Throw 1 of 2 (6 PTS),70-74,70,74
 0022000889,2021-04-21,LAC,MEM,30.63,3,5,22,MEM,MEM,ft_make,12,False,False,,Bane Free Throw 2 of 2 (7 PTS),70-75,70,75
 0022000889,2021-04-21,LAC,MEM,30.9,3,5,6,LAC,LAC,fg_miss,6,True,False,MISS Zubac 2' Driving Layup,,70-75,70,75
@@ -381,13 +381,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000889,2021-04-21,LAC,MEM,39.58,4,8,25,MEM,LAC,foul,4,False,False,Zubac OFF.Foul (P2) (G.Petraitis),,90-86,90,86
 0022000889,2021-04-21,LAC,MEM,39.58,4,8,25,LAC,LAC,tov,37,False,False,Zubac Offensive Foul Turnover (P1.T12),,90-86,90,86
 0022000889,2021-04-21,LAC,MEM,39.87,4,8,8,MEM,MEM,fg_miss,1,False,False,,MISS Winslow 17' Jump Shot,90-86,90,86
-0022000889,2021-04-21,LAC,MEM,40.02,4,7,59,MEM,MEM,fg_make,72,False,False,,Jackson Jr. Putback Layup (11 PTS),90-88,90,88
 0022000889,2021-04-21,LAC,MEM,40.02,4,7,59,MEM,MEM,reb,0,False,False,,Jackson Jr. REBOUND (Off:3 Def:3),90-88,90,88
+0022000889,2021-04-21,LAC,MEM,40.02,4,7,59,MEM,MEM,fg_make,72,False,False,,Jackson Jr. Putback Layup (11 PTS),90-88,90,88
 0022000889,2021-04-21,LAC,MEM,40.23,4,7,46,LAC,LAC,fg_miss,79,False,False,MISS Ferrell 19' Pullup Jump Shot,,90-88,90,88
 0022000889,2021-04-21,LAC,MEM,40.3,4,7,42,MEM,MEM,reb,0,False,False,,Jackson Jr. REBOUND (Off:3 Def:4),90-88,90,88
 0022000889,2021-04-21,LAC,MEM,40.42,4,7,35,MEM,MEM,fg_miss,78,True,False,,MISS Winslow 4' Floating Jump Shot,90-88,90,88
-0022000889,2021-04-21,LAC,MEM,40.42,4,7,35,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,90-88,90,88
 0022000889,2021-04-21,LAC,MEM,40.42,4,7,35,MEM,LAC,block,78,True,False,block,block,90-88,90,88
+0022000889,2021-04-21,LAC,MEM,40.42,4,7,35,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,90-88,90,88
 0022000889,2021-04-21,LAC,MEM,40.47,4,7,32,MEM,LAC,foul,2,False,False,Batum S.FOUL (P2.T2) (R.Acosta),,90-88,90,88
 0022000889,2021-04-21,LAC,MEM,40.47,4,7,32,MEM,MEM,ft_make,11,False,False,,Allen Free Throw 1 of 2 (6 PTS),90-89,90,89
 0022000889,2021-04-21,LAC,MEM,40.47,4,7,32,MEM,MEM,ft_miss,12,False,False,,MISS Allen Free Throw 2 of 2,90-89,90,89
@@ -437,8 +437,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000889,2021-04-21,LAC,MEM,45.85,4,2,9,MEM,MEM,fg3_miss,1,False,False,,MISS Allen 24' 3PT Jump Shot,112-99,112,99
 0022000889,2021-04-21,LAC,MEM,45.93,4,2,4,MEM,MEM,reb,0,False,False,,Tillman REBOUND (Off:4 Def:8),112-99,112,99
 0022000889,2021-04-21,LAC,MEM,45.95,4,2,3,MEM,MEM,fg_miss,72,True,False,,MISS Tillman 2' Putback Layup,112-99,112,99
-0022000889,2021-04-21,LAC,MEM,45.95,4,2,3,LAC,LAC,reb,0,False,False,Kennard REBOUND (Off:0 Def:6),,112-99,112,99
 0022000889,2021-04-21,LAC,MEM,45.95,4,2,3,MEM,LAC,block,72,True,False,block,block,112-99,112,99
+0022000889,2021-04-21,LAC,MEM,45.95,4,2,3,LAC,LAC,reb,0,False,False,Kennard REBOUND (Off:0 Def:6),,112-99,112,99
 0022000889,2021-04-21,LAC,MEM,46.25,4,1,45,LAC,LAC,fg_make,98,False,False,Zubac 4' Cutting Layup Shot (18 PTS) (Morris Sr. 2 AST),,114-99,114,99
 0022000889,2021-04-21,LAC,MEM,46.25,4,1,45,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.6 Short 0),114-99,114,99
 0022000889,2021-04-21,LAC,MEM,46.55,4,1,27,MEM,MEM,fg3_make,1,False,False,,Porter 26' 3PT Jump Shot (3 PTS) (Konchar 1 AST),114-102,114,102

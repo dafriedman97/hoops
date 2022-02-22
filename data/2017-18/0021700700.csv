@@ -42,9 +42,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700700,2018-01-23,LAL,BOS,5.07,1,6,56,BOS,BOS,reb,0,False,False,,Horford REBOUND (Off:0 Def:3),6-7,6,7
 0021700700,2018-01-23,LAL,BOS,5.22,1,6,47,BOS,BOS,fg3_make,1,False,False,,Brown 27' 3PT Jump Shot (5 PTS) (Horford 1 AST),6-10,6,10
 0021700700,2018-01-23,LAL,BOS,5.37,1,6,38,LAL,LAL,fg_miss,44,True,False,MISS Ennis 3' Reverse Layup,,6-10,6,10
+0021700700,2018-01-23,LAL,BOS,5.37,1,6,38,LAL,BOS,block,44,True,False,block,block,6-10,6,10
 0021700700,2018-01-23,LAL,BOS,5.37,1,6,38,LAL,LAL,reb,0,False,False,LAKERS Rebound,,6-10,6,10
 0021700700,2018-01-23,LAL,BOS,5.37,1,6,38,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 1 Short 0),,6-10,6,10
-0021700700,2018-01-23,LAL,BOS,5.37,1,6,38,LAL,BOS,block,44,True,False,block,block,6-10,6,10
 0021700700,2018-01-23,LAL,BOS,5.47,1,6,32,LAL,LAL,fg_miss,63,False,False,MISS Ingram 14' Fadeaway Jumper,,6-10,6,10
 0021700700,2018-01-23,LAL,BOS,5.5,1,6,30,BOS,BOS,reb,0,False,False,,Baynes REBOUND (Off:0 Def:1),6-10,6,10
 0021700700,2018-01-23,LAL,BOS,5.57,1,6,26,BOS,BOS,fg_miss,41,False,False,,MISS Tatum 3' Running Layup,6-10,6,10
@@ -172,9 +172,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700700,2018-01-23,LAL,BOS,20.33,2,3,40,BOS,BOS,fg_make,98,False,False,,Brown 2' Cutting Layup Shot (9 PTS) (Smart 4 AST),35-41,35,41
 0021700700,2018-01-23,LAL,BOS,20.65,2,3,21,LAL,LAL,fg_make,80,False,False,Clarkson 21' Step Back Jump Shot (12 PTS),,37-41,37,41
 0021700700,2018-01-23,LAL,BOS,20.97,2,3,2,BOS,BOS,fg3_make,79,False,False,,Irving 28' 3PT Pullup Jump Shot (10 PTS),37-44,37,44
+0021700700,2018-01-23,LAL,BOS,21.43,2,2,34,LAL,LAL,tov,15,False,False,Randle Offensive Goaltending Turnover (P1.T4),,37-44,37,44
 0021700700,2018-01-23,LAL,BOS,21.43,2,2,34,LAL,LAL,fg_miss,80,False,False,MISS Clarkson 17' Step Back Jump Shot,,37-44,37,44
 0021700700,2018-01-23,LAL,BOS,21.43,2,2,34,LAL,LAL,reb,0,False,False,Ingram REBOUND (Off:2 Def:5),,37-44,37,44
-0021700700,2018-01-23,LAL,BOS,21.43,2,2,34,LAL,LAL,tov,15,False,False,Randle Offensive Goaltending Turnover (P1.T4),,37-44,37,44
 0021700700,2018-01-23,LAL,BOS,21.62,2,2,23,BOS,LAL,foul,2,False,False,Caldwell-Pope S.FOUL (P1.T3) (M.Davis),,37-44,37,44
 0021700700,2018-01-23,LAL,BOS,21.62,2,2,23,BOS,BOS,ft_make,13,False,False,,Irving Free Throw 1 of 3 (11 PTS),37-45,37,45
 0021700700,2018-01-23,LAL,BOS,21.62,2,2,23,BOS,BOS,ft_make,14,False,False,,Irving Free Throw 2 of 3 (12 PTS),37-46,37,46
@@ -248,9 +248,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700700,2018-01-23,LAL,BOS,27.93,3,8,4,LAL,BOS,foul,2,False,False,,Baynes S.FOUL (P4.T4) (G.Petraitis),56-56,56,56
 0021700700,2018-01-23,LAL,BOS,27.93,3,8,4,LAL,LAL,ft_make,10,False,False,Lopez Free Throw 1 of 1 (8 PTS),,57-56,57,56
 0021700700,2018-01-23,LAL,BOS,28.2,3,7,48,BOS,BOS,fg_miss,5,True,False,,MISS Horford 4' Layup,57-56,57,56
+0021700700,2018-01-23,LAL,BOS,28.2,3,7,48,BOS,LAL,block,5,True,False,block,block,57-56,57,56
 0021700700,2018-01-23,LAL,BOS,28.2,3,7,48,LAL,LAL,reb,0,False,False,Randle REBOUND (Off:3 Def:6),,57-56,57,56
 0021700700,2018-01-23,LAL,BOS,28.2,3,7,48,LAL,BOS,foul,1,False,False,,Baynes P.FOUL (P5.PN) (M.Boland),57-56,57,56
-0021700700,2018-01-23,LAL,BOS,28.2,3,7,48,BOS,LAL,block,5,True,False,block,block,57-56,57,56
 0021700700,2018-01-23,LAL,BOS,28.35,3,7,39,LAL,LAL,fg3_miss,1,False,False,MISS Lopez 26' 3PT Jump Shot,,57-56,57,56
 0021700700,2018-01-23,LAL,BOS,28.4,3,7,36,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:0 Def:2),57-56,57,56
 0021700700,2018-01-23,LAL,BOS,28.55,3,7,27,BOS,BOS,fg_make,47,False,False,,Irving 15' Turnaround Jump Shot (15 PTS),57-58,57,58

@@ -106,9 +106,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900724,2020-01-31,MIL,DEN,11.1,1,0,54,MIL,DEN,block,7,True,False,block,block,37-28,37,28
 0021900724,2020-01-31,MIL,DEN,11.15,1,0,51,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:2 Def:4),,37-28,37,28
 0021900724,2020-01-31,MIL,DEN,11.17,1,0,50,MIL,MIL,fg_miss,58,True,False,MISS Antetokounmpo 5' Turnaround Hook Shot,,37-28,37,28
+0021900724,2020-01-31,MIL,DEN,11.17,1,0,50,MIL,DEN,block,58,True,False,block,block,37-28,37,28
 0021900724,2020-01-31,MIL,DEN,11.17,1,0,50,DEN,DEN,reb,0,False,False,,Hernangomez REBOUND (Off:0 Def:3),37-28,37,28
 0021900724,2020-01-31,MIL,DEN,11.17,1,0,50,DEN,,foul,11,False,False,,,37-28,37,28
-0021900724,2020-01-31,MIL,DEN,11.17,1,0,50,MIL,DEN,block,58,True,False,block,block,37-28,37,28
 0021900724,2020-01-31,MIL,DEN,11.17,1,0,50,DEN,DEN,ft_make,16,False,False,,Beasley Free Throw Technical (4 PTS),37-29,37,29
 0021900724,2020-01-31,MIL,DEN,11.28,1,0,43,DEN,DEN,fg3_make,79,False,False,,Dozier 25' 3PT Pullup Jump Shot (3 PTS),37-32,37,32
 0021900724,2020-01-31,MIL,DEN,11.53,1,0,28,MIL,MIL,fg3_make,1,False,False,Brown 24' 3PT Jump Shot (3 PTS) (Antetokounmpo 6 AST),,40-32,40,32
@@ -168,8 +168,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900724,2020-01-31,MIL,DEN,16.18,2,7,49,DEN,DEN,reb,0,False,False,,Nuggets Rebound,51-44,51,44
 0021900724,2020-01-31,MIL,DEN,16.18,2,7,49,DEN,MIL,foul,1,False,False,Lopez P.FOUL (P2.T3) (D.Guthrie),,51-44,51,44
 0021900724,2020-01-31,MIL,DEN,16.47,2,7,32,DEN,DEN,fg_miss,1,False,False,,MISS Morris 15' Jump Shot,51-44,51,44
-0021900724,2020-01-31,MIL,DEN,16.55,2,7,27,DEN,DEN,fg_make,97,False,False,,Hernangomez 1' Tip Layup Shot (7 PTS),51-46,51,46
 0021900724,2020-01-31,MIL,DEN,16.55,2,7,27,DEN,DEN,reb,0,False,False,,Hernangomez REBOUND (Off:1 Def:3),51-46,51,46
+0021900724,2020-01-31,MIL,DEN,16.55,2,7,27,DEN,DEN,fg_make,97,False,False,,Hernangomez 1' Tip Layup Shot (7 PTS),51-46,51,46
 0021900724,2020-01-31,MIL,DEN,16.72,2,7,17,MIL,MIL,fg_miss,5,True,False,MISS Antetokounmpo 2' Layup,,51-46,51,46
 0021900724,2020-01-31,MIL,DEN,16.72,2,7,17,MIL,DEN,block,5,True,False,block,block,51-46,51,46
 0021900724,2020-01-31,MIL,DEN,16.77,2,7,14,DEN,DEN,reb,0,False,False,,Porter Jr. REBOUND (Off:0 Def:7),51-46,51,46
@@ -209,8 +209,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900724,2020-01-31,MIL,DEN,20.83,2,3,10,DEN,DEN,tov,1,False,True,,Jokic Bad Pass Turnover (P3.T7),62-53,62,53
 0021900724,2020-01-31,MIL,DEN,20.83,2,3,10,DEN,MIL,steal,1,False,True,steal,steal,62-53,62,53
 0021900724,2020-01-31,MIL,DEN,20.88,2,3,7,MIL,MIL,fg_miss,6,True,False,MISS Connaughton 2' Driving Layup,,62-53,62,53
-0021900724,2020-01-31,MIL,DEN,20.88,2,3,7,MIL,MIL,reb,0,False,False,BUCKS Rebound,,62-53,62,53
 0021900724,2020-01-31,MIL,DEN,20.88,2,3,7,MIL,DEN,block,6,True,False,block,block,62-53,62,53
+0021900724,2020-01-31,MIL,DEN,20.88,2,3,7,MIL,MIL,reb,0,False,False,BUCKS Rebound,,62-53,62,53
 0021900724,2020-01-31,MIL,DEN,21.05,2,2,57,MIL,MIL,fg_miss,86,False,False,MISS Antetokounmpo 13' Turnaround Fadeaway Shot,,62-53,62,53
 0021900724,2020-01-31,MIL,DEN,21.1,2,2,54,DEN,DEN,reb,0,False,False,,Barton REBOUND (Off:0 Def:4),62-53,62,53
 0021900724,2020-01-31,MIL,DEN,21.37,2,2,38,DEN,DEN,fg3_miss,1,False,False,,MISS Craig 26' 3PT Jump Shot,62-53,62,53
@@ -233,10 +233,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900724,2020-01-31,MIL,DEN,23.92,2,0,5,DEN,DEN,fg_miss,101,False,False,,MISS Jokic 11' Driving Floating Jump Shot,67-60,67,60
 0021900724,2020-01-31,MIL,DEN,23.95,2,0,3,MIL,MIL,reb,0,False,False,Connaughton REBOUND (Off:0 Def:3),,67-60,67,60
 0021900724,2020-01-31,MIL,DEN,24.0,2,0,0,MIL,MIL,fg3_miss,1,True,False,MISS Bledsoe 28' 3PT Jump Shot,,67-60,67,60
+0021900724,2020-01-31,MIL,DEN,24.0,2,0,0,MIL,DEN,block,1,True,False,block,block,67-60,67,60
 0021900724,2020-01-31,MIL,DEN,24.0,2,0,0,MIL,MIL,reb,0,False,False,BUCKS Rebound,,67-60,67,60
 0021900724,2020-01-31,MIL,DEN,24.0,2,0,0,MIL,,period_end,0,False,False,,,67-60,67,60
 0021900724,2020-01-31,MIL,DEN,24.0,3,12,0,MIL,,period_start,0,False,False,,,67-60,67,60
-0021900724,2020-01-31,MIL,DEN,24.0,2,0,0,MIL,DEN,block,1,True,False,block,block,67-60,67,60
 0021900724,2020-01-31,MIL,DEN,24.23,3,11,46,DEN,DEN,fg_make,1,False,False,,Jokic 13' Jump Shot (8 PTS) (Craig 2 AST),67-62,67,62
 0021900724,2020-01-31,MIL,DEN,24.42,3,11,35,MIL,MIL,fg3_miss,1,False,False,MISS Lopez 24' 3PT Jump Shot,,67-62,67,62
 0021900724,2020-01-31,MIL,DEN,24.48,3,11,31,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:0 Def:5),67-62,67,62
@@ -294,8 +294,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900724,2020-01-31,MIL,DEN,29.0,3,7,0,DEN,DEN,fg_miss,79,False,False,,MISS Morris 13' Pullup Jump Shot,75-72,75,72
 0021900724,2020-01-31,MIL,DEN,29.03,3,6,58,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:3 Def:10),,75-72,75,72
 0021900724,2020-01-31,MIL,DEN,29.08,3,6,55,MIL,MIL,fg_miss,6,True,False,MISS Antetokounmpo 5' Driving Layup,,75-72,75,72
-0021900724,2020-01-31,MIL,DEN,29.08,3,6,55,MIL,MIL,reb,0,False,False,BUCKS Rebound,,75-72,75,72
 0021900724,2020-01-31,MIL,DEN,29.08,3,6,55,MIL,DEN,block,6,True,False,block,block,75-72,75,72
+0021900724,2020-01-31,MIL,DEN,29.08,3,6,55,MIL,MIL,reb,0,False,False,BUCKS Rebound,,75-72,75,72
 0021900724,2020-01-31,MIL,DEN,29.12,3,6,53,,MIL,jump_ball,0,False,False,Jump Ball Antetokounmpo vs. Porter Jr.: Tip to Lopez,,75-72,75,72
 0021900724,2020-01-31,MIL,DEN,29.33,3,6,40,,MIL,jump_ball,0,False,False,Jump Ball Lopez vs. Grant: Tip to Beasley,,75-72,75,72
 0021900724,2020-01-31,MIL,DEN,29.33,3,6,40,MIL,MIL,tov,2,False,True,Matthews Lost Ball Turnover (P1.T6),,75-72,75,72
@@ -308,8 +308,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900724,2020-01-31,MIL,DEN,29.83,3,6,10,MIL,MIL,fg_make,6,False,False,Bledsoe 3' Driving Layup (15 PTS),,77-75,77,75
 0021900724,2020-01-31,MIL,DEN,30.07,3,5,56,DEN,DEN,fg3_make,1,False,False,,Beasley 27' 3PT Jump Shot (7 PTS) (Barton 5 AST),77-78,77,78
 0021900724,2020-01-31,MIL,DEN,30.23,3,5,46,MIL,MIL,tov,2,False,True,Bledsoe Lost Ball Turnover (P2.T7),,77-78,77,78
-0021900724,2020-01-31,MIL,DEN,30.23,3,5,46,DEN,MIL,foul,1,False,False,Bledsoe P.FOUL (P2.T3) (D.Guthrie),,77-78,77,78
 0021900724,2020-01-31,MIL,DEN,30.23,3,5,46,MIL,DEN,steal,2,False,True,steal,steal,77-78,77,78
+0021900724,2020-01-31,MIL,DEN,30.23,3,5,46,DEN,MIL,foul,1,False,False,Bledsoe P.FOUL (P2.T3) (D.Guthrie),,77-78,77,78
 0021900724,2020-01-31,MIL,DEN,30.47,3,5,32,DEN,DEN,fg_make,79,False,False,,Barton 12' Pullup Jump Shot (14 PTS),77-80,77,80
 0021900724,2020-01-31,MIL,DEN,30.8,3,5,12,MIL,MIL,fg_make,47,False,False,Middleton 15' Turnaround Jump Shot (18 PTS),,79-80,79,80
 0021900724,2020-01-31,MIL,DEN,31.02,3,4,59,DEN,DEN,fg3_make,1,False,False,,Grant 27' 3PT Jump Shot (8 PTS) (Barton 6 AST),79-83,79,83
@@ -361,8 +361,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900724,2020-01-31,MIL,DEN,35.32,3,0,41,DEN,DEN,fg_miss,3,False,False,,MISS Barton 2' Hook Shot,89-95,89,95
 0021900724,2020-01-31,MIL,DEN,35.35,3,0,39,MIL,MIL,reb,0,False,False,Connaughton REBOUND (Off:0 Def:4),,89-95,89,95
 0021900724,2020-01-31,MIL,DEN,35.4,3,0,36,MIL,MIL,fg_miss,41,True,False,MISS Brown 2' Running Layup,,89-95,89,95
-0021900724,2020-01-31,MIL,DEN,35.4,3,0,36,DEN,DEN,reb,0,False,False,,Nuggets Rebound,89-95,89,95
 0021900724,2020-01-31,MIL,DEN,35.4,3,0,36,MIL,DEN,block,41,True,False,block,block,89-95,89,95
+0021900724,2020-01-31,MIL,DEN,35.4,3,0,36,DEN,DEN,reb,0,False,False,,Nuggets Rebound,89-95,89,95
 0021900724,2020-01-31,MIL,DEN,35.55,3,0,27,DEN,DEN,fg_make,101,False,False,,Barton 9' Driving Floating Jump Shot (16 PTS),89-97,89,97
 0021900724,2020-01-31,MIL,DEN,35.82,3,0,11,MIL,DEN,foul,2,False,False,,Porter Jr. S.FOUL (P2.PN) (J.Schroeder),89-97,89,97
 0021900724,2020-01-31,MIL,DEN,35.82,3,0,11,MIL,MIL,ft_make,13,False,False,Middleton Free Throw 1 of 3 (19 PTS),,90-97,90,97
@@ -442,8 +442,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900724,2020-01-31,MIL,DEN,46.27,4,1,44,DEN,DEN,tov,2,False,True,,Barton Lost Ball Turnover (P3.T12),113-125,113,125
 0021900724,2020-01-31,MIL,DEN,46.27,4,1,44,DEN,MIL,steal,2,False,True,steal,steal,113-125,113,125
 0021900724,2020-01-31,MIL,DEN,46.32,4,1,41,MIL,MIL,tov,1,False,True,Antetokounmpo Bad Pass Turnover (P2.T13),,113-125,113,125
-0021900724,2020-01-31,MIL,DEN,46.32,4,1,41,DEN,MIL,foul,28,False,False,Middleton Personal Take Foul (P3.T3) (S.Twardoski),,113-125,113,125
 0021900724,2020-01-31,MIL,DEN,46.32,4,1,41,MIL,DEN,steal,1,False,True,steal,steal,113-125,113,125
+0021900724,2020-01-31,MIL,DEN,46.32,4,1,41,DEN,MIL,foul,28,False,False,Middleton Personal Take Foul (P3.T3) (S.Twardoski),,113-125,113,125
 0021900724,2020-01-31,MIL,DEN,46.55,4,1,27,DEN,DEN,fg3_miss,80,False,False,,MISS Barton 26' 3PT Step Back Jump Shot,113-125,113,125
 0021900724,2020-01-31,MIL,DEN,46.62,4,1,23,MIL,MIL,reb,0,False,False,Connaughton REBOUND (Off:0 Def:9),,113-125,113,125
 0021900724,2020-01-31,MIL,DEN,46.7,4,1,18,MIL,MIL,fg_miss,41,False,False,MISS Antetokounmpo 2' Running Layup,,113-125,113,125

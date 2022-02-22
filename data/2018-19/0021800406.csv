@@ -203,17 +203,17 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800406,2018-12-12,CLE,NYK,22.53,2,1,28,CLE,CLE,reb,0,False,False,Frye REBOUND (Off:0 Def:4),,62-49,62,49
 0021800406,2018-12-12,CLE,NYK,22.67,2,1,20,CLE,CLE,fg3_make,1,False,False,Sexton 26' 3PT Jump Shot (15 PTS) (Frye 2 AST),,65-49,65,49
 0021800406,2018-12-12,CLE,NYK,22.98,2,1,1,NYK,NYK,fg_miss,6,False,False,,MISS Kanter 2' Driving Layup,65-49,65,49
-0021800406,2018-12-12,CLE,NYK,23.0,2,1,0,NYK,NYK,reb,0,False,False,,Vonleh REBOUND (Off:1 Def:1),65-49,65,49
 0021800406,2018-12-12,CLE,NYK,23.0,2,1,0,NYK,NYK,fg_make,107,False,False,,Vonleh 2' Tip Dunk Shot (2 PTS),65-51,65,51
+0021800406,2018-12-12,CLE,NYK,23.0,2,1,0,NYK,NYK,reb,0,False,False,,Vonleh REBOUND (Off:1 Def:1),65-49,65,49
 0021800406,2018-12-12,CLE,NYK,23.3,2,0,42,CLE,CLE,fg_miss,79,False,False,MISS Osman 17' Pullup Jump Shot,,65-51,65,51
 0021800406,2018-12-12,CLE,NYK,23.3,2,0,42,CLE,CLE,reb,0,False,False,Osman REBOUND (Off:1 Def:2),,65-51,65,51
 0021800406,2018-12-12,CLE,NYK,23.43,2,0,34,CLE,CLE,fg3_miss,1,False,False,MISS Clarkson 29' 3PT Jump Shot,,65-51,65,51
 0021800406,2018-12-12,CLE,NYK,23.5,2,0,30,NYK,NYK,reb,0,False,False,,Vonleh REBOUND (Off:1 Def:2),65-51,65,51
 0021800406,2018-12-12,CLE,NYK,23.78,2,0,13,NYK,NYK,fg3_make,1,False,False,,Vonleh 27' 3PT Jump Shot (5 PTS) (Mudiay 4 AST),65-54,65,54
 0021800406,2018-12-12,CLE,NYK,24.0,2,0,0,CLE,CLE,tov,2,False,True,Sexton Lost Ball Turnover (P3.T4),,65-54,65,54
+0021800406,2018-12-12,CLE,NYK,24.0,2,0,0,CLE,NYK,steal,2,False,True,steal,steal,65-54,65,54
 0021800406,2018-12-12,CLE,NYK,24.0,2,0,0,CLE,,period_end,0,False,False,,,65-54,65,54
 0021800406,2018-12-12,CLE,NYK,24.0,3,12,0,CLE,,period_start,0,False,False,,,65-54,65,54
-0021800406,2018-12-12,CLE,NYK,24.0,2,0,0,CLE,NYK,steal,2,False,True,steal,steal,65-54,65,54
 0021800406,2018-12-12,CLE,NYK,24.35,3,11,39,NYK,NYK,fg_make,80,False,False,,Mudiay 16' Step Back Jump Shot (8 PTS) (Knox II 1 AST),65-56,65,56
 0021800406,2018-12-12,CLE,NYK,24.82,3,11,11,CLE,CLE,fg_miss,47,True,False,MISS Burks 8' Turnaround Jump Shot,,65-56,65,56
 0021800406,2018-12-12,CLE,NYK,24.82,3,11,11,CLE,NYK,block,47,True,False,block,block,65-56,65,56
@@ -244,8 +244,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800406,2018-12-12,CLE,NYK,27.43,3,8,34,NYK,NYK,reb,0,False,False,,Knox II REBOUND (Off:0 Def:5),67-63,67,63
 0021800406,2018-12-12,CLE,NYK,27.53,3,8,28,NYK,NYK,fg_make,41,False,False,,Knox II 3' Running Layup (12 PTS),67-65,67,65
 0021800406,2018-12-12,CLE,NYK,27.67,3,8,20,CLE,CLE,fg_miss,6,True,False,MISS Sexton 2' Driving Layup,,67-65,67,65
-0021800406,2018-12-12,CLE,NYK,27.67,3,8,20,NYK,NYK,reb,0,False,False,,Knicks Rebound,67-65,67,65
 0021800406,2018-12-12,CLE,NYK,27.67,3,8,20,CLE,NYK,block,6,True,False,block,block,67-65,67,65
+0021800406,2018-12-12,CLE,NYK,27.67,3,8,20,NYK,NYK,reb,0,False,False,,Knicks Rebound,67-65,67,65
 0021800406,2018-12-12,CLE,NYK,27.8,3,8,12,NYK,NYK,fg_make,57,False,False,,Vonleh 9' Driving Hook Shot (7 PTS),67-67,67,67
 0021800406,2018-12-12,CLE,NYK,27.8,3,8,12,NYK,CLE,foul,2,False,False,Osman S.FOUL (P1.T2) (E.Malloy),,67-67,67,67
 0021800406,2018-12-12,CLE,NYK,27.8,3,8,12,NYK,NYK,ft_miss,10,False,False,,MISS Vonleh Free Throw 1 of 1,67-67,67,67
@@ -368,8 +368,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800406,2018-12-12,CLE,NYK,42.48,4,5,31,CLE,CLE,tov,1,False,True,Dellavedova Bad Pass Turnover (P2.T10),,99-93,99,93
 0021800406,2018-12-12,CLE,NYK,42.48,4,5,31,CLE,NYK,steal,1,False,True,steal,steal,99-93,99,93
 0021800406,2018-12-12,CLE,NYK,42.57,4,5,26,NYK,NYK,fg_miss,6,True,False,,MISS Knox II 3' Driving Layup,99-93,99,93
-0021800406,2018-12-12,CLE,NYK,42.57,4,5,26,NYK,NYK,reb,0,False,False,,Knicks Rebound,99-93,99,93
 0021800406,2018-12-12,CLE,NYK,42.57,4,5,26,NYK,CLE,block,6,True,False,block,block,99-93,99,93
+0021800406,2018-12-12,CLE,NYK,42.57,4,5,26,NYK,NYK,reb,0,False,False,,Knicks Rebound,99-93,99,93
 0021800406,2018-12-12,CLE,NYK,42.68,4,5,19,NYK,NYK,fg_make,1,False,False,,Hardaway Jr. 19' Jump Shot (20 PTS) (Mudiay 6 AST),99-95,99,95
 0021800406,2018-12-12,CLE,NYK,42.97,4,5,2,CLE,CLE,fg_make,78,False,False,Hood 8' Floating Jump Shot (19 PTS),,101-95,101,95
 0021800406,2018-12-12,CLE,NYK,43.22,4,4,47,NYK,NYK,fg_miss,6,True,False,,MISS Mudiay 6' Driving Layup,101-95,101,95

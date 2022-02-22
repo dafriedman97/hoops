@@ -74,10 +74,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800058,2018-10-24,SAS,IND,11.78,1,0,13,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:1 Def:2),22-28,22,28
 0021800058,2018-10-24,SAS,IND,11.92,1,0,5,IND,SAS,foul,1,False,False,DeRozan P.FOUL (P1.T2) (K.Scott),,22-28,22,28
 0021800058,2018-10-24,SAS,IND,12.0,1,0,0,IND,IND,fg_miss,75,True,False,,MISS Oladipo 4' Driving Finger Roll Layup,22-28,22,28
+0021800058,2018-10-24,SAS,IND,12.0,1,0,0,IND,SAS,block,75,True,False,block,block,22-28,22,28
 0021800058,2018-10-24,SAS,IND,12.0,1,0,0,SAS,SAS,reb,0,False,False,Bertans REBOUND (Off:0 Def:1),,22-28,22,28
 0021800058,2018-10-24,SAS,IND,12.0,1,0,0,SAS,,period_end,0,False,False,,,22-28,22,28
 0021800058,2018-10-24,SAS,IND,12.0,2,12,0,SAS,,period_start,0,False,False,,,22-28,22,28
-0021800058,2018-10-24,SAS,IND,12.0,1,0,0,IND,SAS,block,75,True,False,block,block,22-28,22,28
 0021800058,2018-10-24,SAS,IND,12.35,2,11,39,IND,IND,fg3_make,1,False,False,,Joseph 25' 3PT Jump Shot (9 PTS) (Leaf 2 AST),22-31,22,31
 0021800058,2018-10-24,SAS,IND,12.53,2,11,28,IND,SAS,foul,26,False,False,Mills Offensive Charge Foul (P1.T1) (B.Forte),,22-31,22,31
 0021800058,2018-10-24,SAS,IND,12.53,2,11,28,SAS,SAS,tov,37,False,False,Mills Offensive Foul Turnover (P1.T4),,22-31,22,31
@@ -375,8 +375,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800058,2018-10-24,SAS,IND,45.8,4,2,12,IND,SAS,steal,1,False,True,steal,steal,86-112,86,112
 0021800058,2018-10-24,SAS,IND,45.98,4,2,1,SAS,SAS,fg3_make,79,False,False,Belinelli 40' 3PT Pullup Jump Shot (13 PTS),,89-112,89,112
 0021800058,2018-10-24,SAS,IND,46.15,4,1,51,IND,IND,fg_miss,6,True,False,,MISS Leaf 5' Driving Layup,89-112,89,112
-0021800058,2018-10-24,SAS,IND,46.15,4,1,51,IND,IND,reb,0,False,False,,Pacers Rebound,89-112,89,112
 0021800058,2018-10-24,SAS,IND,46.15,4,1,51,IND,SAS,block,6,True,False,block,block,89-112,89,112
+0021800058,2018-10-24,SAS,IND,46.15,4,1,51,IND,IND,reb,0,False,False,,Pacers Rebound,89-112,89,112
 0021800058,2018-10-24,SAS,IND,46.2,4,1,48,IND,IND,fg_make,1,False,False,,O'Quinn 17' Jump Shot (2 PTS) (McDermott 3 AST),89-114,89,114
 0021800058,2018-10-24,SAS,IND,46.38,4,1,37,SAS,IND,foul,2,False,False,,O'Quinn S.FOUL (P1.PN) (B.Forte),89-114,89,114
 0021800058,2018-10-24,SAS,IND,46.38,4,1,37,SAS,SAS,ft_make,11,False,False,Eubanks Free Throw 1 of 2 (1 PTS),,90-114,90,114

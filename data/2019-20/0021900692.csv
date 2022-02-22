@@ -180,9 +180,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900692,2020-01-26,POR,IND,20.9,2,3,6,IND,IND,fg3_make,1,False,False,,McDermott 26' 3PT Jump Shot (10 PTS) (Sabonis 4 AST),53-49,53,49
 0021900692,2020-01-26,POR,IND,21.15,2,2,51,POR,POR,fg_make,73,False,False,Lillard 2' Driving Reverse Layup (19 PTS),,55-49,55,49
 0021900692,2020-01-26,POR,IND,21.45,2,2,33,IND,IND,fg_miss,73,True,False,,MISS Warren 2' Driving Reverse Layup,55-49,55,49
+0021900692,2020-01-26,POR,IND,21.45,2,2,33,IND,POR,block,73,True,False,block,block,55-49,55,49
 0021900692,2020-01-26,POR,IND,21.45,2,2,33,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,55-49,55,49
 0021900692,2020-01-26,POR,IND,21.45,2,2,33,IND,IND,timeout,1,False,False,,Pacers Timeout: Regular (Reg.2 Short 0),55-49,55,49
-0021900692,2020-01-26,POR,IND,21.45,2,2,33,IND,POR,block,73,True,False,block,block,55-49,55,49
 0021900692,2020-01-26,POR,IND,21.72,2,2,17,POR,POR,fg3_miss,79,False,False,MISS Trent Jr. 25' 3PT Pullup Jump Shot,,55-49,55,49
 0021900692,2020-01-26,POR,IND,21.77,2,2,14,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:1 Def:4),55-49,55,49
 0021900692,2020-01-26,POR,IND,21.95,2,2,3,IND,IND,fg3_miss,80,False,False,,MISS Warren 24' 3PT Step Back Jump Shot,55-49,55,49
@@ -215,8 +215,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900692,2020-01-26,POR,IND,25.08,3,10,55,POR,POR,fg_miss,1,False,False,MISS Anthony 16' Jump Shot,,68-58,68,58
 0021900692,2020-01-26,POR,IND,25.12,3,10,53,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:1 Def:5),68-58,68,58
 0021900692,2020-01-26,POR,IND,25.3,3,10,42,IND,IND,fg_miss,1,False,False,,MISS Warren 14' Jump Shot,68-58,68,58
-0021900692,2020-01-26,POR,IND,25.37,3,10,38,IND,IND,fg_make,97,False,False,,Lamb 1' Tip Layup Shot (14 PTS),68-60,68,60
 0021900692,2020-01-26,POR,IND,25.37,3,10,38,IND,IND,reb,0,False,False,,Lamb REBOUND (Off:1 Def:0),68-60,68,60
+0021900692,2020-01-26,POR,IND,25.37,3,10,38,IND,IND,fg_make,97,False,False,,Lamb 1' Tip Layup Shot (14 PTS),68-60,68,60
 0021900692,2020-01-26,POR,IND,25.62,3,10,23,POR,POR,fg3_make,1,False,False,Lillard 32' 3PT Jump Shot (26 PTS) (McCollum 4 AST),,71-60,71,60
 0021900692,2020-01-26,POR,IND,25.98,3,10,1,IND,IND,fg_miss,1,False,False,,MISS Sabonis 16' Jump Shot,71-60,71,60
 0021900692,2020-01-26,POR,IND,26.03,3,9,58,POR,POR,reb,0,False,False,Anthony REBOUND (Off:2 Def:5),,71-60,71,60
@@ -254,8 +254,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900692,2020-01-26,POR,IND,29.88,3,6,7,IND,IND,fg_make,98,False,False,,Lamb 1' Cutting Layup Shot (19 PTS) (Holiday 3 AST),87-76,87,76
 0021900692,2020-01-26,POR,IND,30.1,3,5,54,POR,POR,fg3_make,79,False,False,Lillard 30' 3PT Pullup Jump Shot (31 PTS),,90-76,90,76
 0021900692,2020-01-26,POR,IND,30.32,3,5,41,IND,IND,fg_miss,5,True,False,,MISS Sampson 2' Layup,90-76,90,76
-0021900692,2020-01-26,POR,IND,30.32,3,5,41,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,90-76,90,76
 0021900692,2020-01-26,POR,IND,30.32,3,5,41,IND,POR,block,5,True,False,block,block,90-76,90,76
+0021900692,2020-01-26,POR,IND,30.32,3,5,41,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,90-76,90,76
 0021900692,2020-01-26,POR,IND,30.57,3,5,26,POR,POR,fg_make,108,False,False,Whiteside 2' Cutting Dunk Shot (14 PTS) (Anthony 2 AST),,92-76,92,76
 0021900692,2020-01-26,POR,IND,30.57,3,5,26,POR,IND,foul,2,False,False,,Lamb S.FOUL (P2.T3) (J.Capers),92-76,92,76
 0021900692,2020-01-26,POR,IND,30.57,3,5,26,POR,POR,ft_make,10,False,False,Whiteside Free Throw 1 of 1 (15 PTS),,93-76,93,76
@@ -273,8 +273,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900692,2020-01-26,POR,IND,32.45,3,3,33,POR,IND,foul,1,False,False,,Sampson P.FOUL (P3.T4) (N.Buchert),100-82,100,82
 0021900692,2020-01-26,POR,IND,32.5,3,3,30,POR,POR,tov,40,False,False,Ariza Out of Bounds Lost Ball Turnover (P2.T10),,100-82,100,82
 0021900692,2020-01-26,POR,IND,32.58,3,3,25,IND,IND,fg_miss,6,True,False,,MISS Sampson 3' Driving Layup,100-82,100,82
-0021900692,2020-01-26,POR,IND,32.58,3,3,25,IND,IND,reb,0,False,False,,Pacers Rebound,100-82,100,82
 0021900692,2020-01-26,POR,IND,32.58,3,3,25,IND,POR,block,6,True,False,block,block,100-82,100,82
+0021900692,2020-01-26,POR,IND,32.58,3,3,25,IND,IND,reb,0,False,False,,Pacers Rebound,100-82,100,82
 0021900692,2020-01-26,POR,IND,32.75,3,3,15,IND,IND,fg_miss,47,False,False,,MISS McConnell 8' Turnaround Jump Shot,100-82,100,82
 0021900692,2020-01-26,POR,IND,32.8,3,3,12,POR,POR,reb,0,False,False,Whiteside REBOUND (Off:1 Def:5),,100-82,100,82
 0021900692,2020-01-26,POR,IND,32.95,3,3,3,POR,POR,fg3_make,1,False,False,Trent Jr. 3PT Jump Shot (3 PTS) (Lillard 12 AST),,103-82,103,82
@@ -359,8 +359,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900692,2020-01-26,POR,IND,41.83,4,6,10,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:3 Def:8),121-109,121,109
 0021900692,2020-01-26,POR,IND,41.98,4,6,1,IND,IND,fg_make,6,False,False,,Warren 2' Driving Layup (12 PTS) (McConnell 8 AST),121-111,121,111
 0021900692,2020-01-26,POR,IND,42.2,4,5,48,POR,POR,fg_miss,73,True,False,MISS Lillard 2' Driving Reverse Layup,,121-111,121,111
-0021900692,2020-01-26,POR,IND,42.2,4,5,48,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,121-111,121,111
 0021900692,2020-01-26,POR,IND,42.2,4,5,48,POR,IND,block,73,True,False,block,block,121-111,121,111
+0021900692,2020-01-26,POR,IND,42.2,4,5,48,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,121-111,121,111
 0021900692,2020-01-26,POR,IND,42.33,4,5,40,POR,POR,fg_miss,79,False,False,MISS McCollum 21' Pullup Jump Shot,,121-111,121,111
 0021900692,2020-01-26,POR,IND,42.37,4,5,38,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:3 Def:9),121-111,121,111
 0021900692,2020-01-26,POR,IND,42.58,4,5,25,IND,IND,fg3_make,1,False,False,,McDermott 3PT Jump Shot (19 PTS) (Sabonis 10 AST),121-114,121,114
@@ -370,8 +370,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900692,2020-01-26,POR,IND,42.92,4,5,5,POR,POR,fg3_make,1,False,False,Lillard 27' 3PT Jump Shot (44 PTS) (Whiteside 1 AST),,126-114,126,114
 0021900692,2020-01-26,POR,IND,43.25,4,4,45,IND,POR,foul,1,False,False,Ariza P.FOUL (P2.T4) (N.Buchert),,126-114,126,114
 0021900692,2020-01-26,POR,IND,43.43,4,4,34,IND,IND,fg_miss,73,True,False,,MISS McConnell 1' Driving Reverse Layup,126-114,126,114
-0021900692,2020-01-26,POR,IND,43.43,4,4,34,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,126-114,126,114
 0021900692,2020-01-26,POR,IND,43.43,4,4,34,IND,POR,block,73,True,False,block,block,126-114,126,114
+0021900692,2020-01-26,POR,IND,43.43,4,4,34,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,126-114,126,114
 0021900692,2020-01-26,POR,IND,43.63,4,4,22,POR,POR,fg3_make,79,False,False,Lillard 32' 3PT Pullup Jump Shot (47 PTS),,129-114,129,114
 0021900692,2020-01-26,POR,IND,43.88,4,4,7,IND,POR,foul,2,False,False,Whiteside S.FOUL (P5.PN) (M.Dagher),,129-114,129,114
 0021900692,2020-01-26,POR,IND,43.88,4,4,7,POR,POR,timeout,1,False,False,TRAIL BLAZERS Timeout: Regular (Full 4 Short 0),,129-114,129,114

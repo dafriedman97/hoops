@@ -94,8 +94,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800407,2018-12-12,IND,MIL,10.23,1,1,46,IND,IND,fg_miss,41,False,False,MISS Evans 2' Running Layup,,25-21,25,21
 0021800407,2018-12-12,IND,MIL,10.28,1,1,43,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:0 Def:2),25-21,25,21
 0021800407,2018-12-12,IND,MIL,10.42,1,1,35,MIL,MIL,fg_miss,47,True,False,,MISS Ilyasova 8' Turnaround Jump Shot,25-21,25,21
-0021800407,2018-12-12,IND,MIL,10.42,1,1,35,IND,IND,reb,0,False,False,McDermott REBOUND (Off:0 Def:2),,25-21,25,21
 0021800407,2018-12-12,IND,MIL,10.42,1,1,35,MIL,IND,block,47,True,False,block,block,25-21,25,21
+0021800407,2018-12-12,IND,MIL,10.42,1,1,35,IND,IND,reb,0,False,False,McDermott REBOUND (Off:0 Def:2),,25-21,25,21
 0021800407,2018-12-12,IND,MIL,10.78,1,1,13,IND,IND,fg_miss,5,False,False,MISS Sabonis Layup,,25-21,25,21
 0021800407,2018-12-12,IND,MIL,10.8,1,1,12,MIL,MIL,reb,0,False,False,,Maker REBOUND (Off:0 Def:2),25-21,25,21
 0021800407,2018-12-12,IND,MIL,10.95,1,1,3,MIL,MIL,fg3_miss,1,False,False,,MISS Ilyasova 26' 3PT Jump Shot,25-21,25,21
@@ -173,9 +173,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800407,2018-12-12,IND,MIL,18.72,2,5,17,IND,IND,reb,0,False,False,Turner REBOUND (Off:2 Def:1),,45-28,45,28
 0021800407,2018-12-12,IND,MIL,18.73,2,5,16,IND,IND,fg_miss,3,True,False,MISS Turner 3' Hook Shot,,45-28,45,28
 0021800407,2018-12-12,IND,MIL,18.73,2,5,16,IND,MIL,block,3,True,False,block,block,45-28,45,28
+0021800407,2018-12-12,IND,MIL,18.75,2,5,15,IND,IND,reb,0,False,False,Turner REBOUND (Off:3 Def:1),,45-28,45,28
 0021800407,2018-12-12,IND,MIL,18.75,2,5,15,IND,IND,fg_miss,3,False,False,MISS Turner 1' Hook Shot,,45-28,45,28
 0021800407,2018-12-12,IND,MIL,18.75,2,5,15,MIL,MIL,reb,0,False,False,,Lopez REBOUND (Off:0 Def:2),45-28,45,28
-0021800407,2018-12-12,IND,MIL,18.75,2,5,15,IND,IND,reb,0,False,False,Turner REBOUND (Off:3 Def:1),,45-28,45,28
 0021800407,2018-12-12,IND,MIL,18.82,2,5,11,MIL,MIL,fg3_miss,1,False,False,,MISS Middleton 26' 3PT Jump Shot,45-28,45,28
 0021800407,2018-12-12,IND,MIL,18.88,2,5,7,IND,IND,reb,0,False,False,Bogdanovic REBOUND (Off:0 Def:2),,45-28,45,28
 0021800407,2018-12-12,IND,MIL,19.08,2,4,55,IND,IND,fg3_miss,1,False,False,MISS Turner 26' 3PT Jump Shot,,45-28,45,28
@@ -221,8 +221,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800407,2018-12-12,IND,MIL,24.75,3,11,15,MIL,MIL,fg_miss,58,False,False,,MISS Lopez 9' Turnaround Hook Shot,58-43,58,43
 0021800407,2018-12-12,IND,MIL,24.78,3,11,13,IND,IND,reb,0,False,False,Bogdanovic REBOUND (Off:0 Def:3),,58-43,58,43
 0021800407,2018-12-12,IND,MIL,24.88,3,11,7,IND,IND,fg_miss,78,True,False,MISS Oladipo 9' Floating Jump Shot,,58-43,58,43
-0021800407,2018-12-12,IND,MIL,24.88,3,11,7,IND,IND,reb,0,False,False,PACERS Rebound,,58-43,58,43
 0021800407,2018-12-12,IND,MIL,24.88,3,11,7,IND,MIL,block,78,True,False,block,block,58-43,58,43
+0021800407,2018-12-12,IND,MIL,24.88,3,11,7,IND,IND,reb,0,False,False,PACERS Rebound,,58-43,58,43
 0021800407,2018-12-12,IND,MIL,24.9,3,11,6,IND,IND,fg3_make,1,False,False,Bogdanovic 29' 3PT Jump Shot (13 PTS) (Oladipo 3 AST),,61-43,61,43
 0021800407,2018-12-12,IND,MIL,25.12,3,10,53,MIL,IND,foul,1,False,False,Turner P.FOUL (P2.T1) (A.Moyer-Gleich),,61-43,61,43
 0021800407,2018-12-12,IND,MIL,25.2,3,10,48,MIL,MIL,fg3_miss,1,False,False,,MISS Middleton 27' 3PT Jump Shot,61-43,61,43
@@ -374,8 +374,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800407,2018-12-12,IND,MIL,40.48,4,7,31,IND,IND,tov,45,False,False,Oladipo Out of Bounds - Bad Pass Turnover Turnover (P1.T14),,98-82,98,82
 0021800407,2018-12-12,IND,MIL,40.82,4,7,11,MIL,MIL,fg_make,71,False,False,,Bledsoe 1' Finger Roll Layup (22 PTS),98-84,98,84
 0021800407,2018-12-12,IND,MIL,41.05,4,6,57,IND,IND,fg_miss,1,True,False,MISS Sabonis 9' Jump Shot,,98-84,98,84
-0021800407,2018-12-12,IND,MIL,41.05,4,6,57,IND,IND,reb,0,False,False,PACERS Rebound,,98-84,98,84
 0021800407,2018-12-12,IND,MIL,41.05,4,6,57,IND,MIL,block,1,True,False,block,block,98-84,98,84
+0021800407,2018-12-12,IND,MIL,41.05,4,6,57,IND,IND,reb,0,False,False,PACERS Rebound,,98-84,98,84
 0021800407,2018-12-12,IND,MIL,41.1,4,6,54,IND,IND,fg_make,1,False,False,Sabonis 19' Jump Shot (12 PTS) (Oladipo 5 AST),,100-84,100,84
 0021800407,2018-12-12,IND,MIL,41.27,4,6,44,MIL,MIL,fg_make,75,False,False,,Bledsoe 2' Driving Finger Roll Layup (24 PTS),100-86,100,86
 0021800407,2018-12-12,IND,MIL,41.48,4,6,31,IND,IND,fg_miss,75,False,False,MISS Oladipo 2' Driving Finger Roll Layup,,100-86,100,86

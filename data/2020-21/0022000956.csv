@@ -328,9 +328,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000956,2021-04-30,LAL,SAC,35.55,3,0,27,LAL,LAL,ft_make,12,False,False,Harrell Free Throw 2 of 2 (5 PTS),,88-78,88,78
 0022000956,2021-04-30,LAL,SAC,35.85,3,0,9,SAC,LAL,foul,1,False,False,Kuzma P.FOUL (P2.T3) (D.Collins),,88-78,88,78
 0022000956,2021-04-30,LAL,SAC,36.0,3,0,0,SAC,SAC,tov,2,False,True,,Wright Lost Ball Turnover (P1.T15),88-78,88,78
+0022000956,2021-04-30,LAL,SAC,36.0,3,0,0,SAC,LAL,steal,2,False,True,steal,steal,88-78,88,78
 0022000956,2021-04-30,LAL,SAC,36.0,3,0,0,SAC,,period_end,0,False,False,,,88-78,88,78
 0022000956,2021-04-30,LAL,SAC,36.0,4,12,0,SAC,,period_start,0,False,False,,,88-78,88,78
-0022000956,2021-04-30,LAL,SAC,36.0,3,0,0,SAC,LAL,steal,2,False,True,steal,steal,88-78,88,78
 0022000956,2021-04-30,LAL,SAC,36.22,4,11,47,LAL,LAL,tov,1,False,True,McLemore Bad Pass Turnover (P2.T16),,88-78,88,78
 0022000956,2021-04-30,LAL,SAC,36.22,4,11,47,LAL,SAC,steal,1,False,True,steal,steal,88-78,88,78
 0022000956,2021-04-30,LAL,SAC,36.33,4,11,40,SAC,SAC,fg3_make,1,False,False,,Davis 25' 3PT Jump Shot (8 PTS) (Wright 5 AST),88-81,88,81
@@ -415,8 +415,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000956,2021-04-30,LAL,SAC,46.72,4,1,17,LAL,LAL,fg3_miss,1,False,False,MISS James 27' 3PT Jump Shot,,104-106,104,106
 0022000956,2021-04-30,LAL,SAC,46.72,4,1,17,SAC,SAC,reb,0,False,False,,Kings Rebound,104-106,104,106
 0022000956,2021-04-30,LAL,SAC,47.0,4,1,0,SAC,SAC,fg_miss,6,True,False,,MISS Wright 3' Driving Layup,104-106,104,106
-0022000956,2021-04-30,LAL,SAC,47.0,4,1,0,SAC,SAC,reb,0,False,False,,Kings Rebound,104-106,104,106
 0022000956,2021-04-30,LAL,SAC,47.0,4,1,0,SAC,LAL,block,6,True,False,block,block,104-106,104,106
+0022000956,2021-04-30,LAL,SAC,47.0,4,1,0,SAC,SAC,reb,0,False,False,,Kings Rebound,104-106,104,106
 0022000956,2021-04-30,LAL,SAC,47.05,4,0,57,SAC,LAL,foul,2,False,False,Davis S.FOUL (P3.PN) (N.Green),,104-106,104,106
 0022000956,2021-04-30,LAL,SAC,47.05,4,0,57,SAC,SAC,ft_make,11,False,False,,Holmes Free Throw 1 of 2 (21 PTS),104-107,104,107
 0022000956,2021-04-30,LAL,SAC,47.05,4,0,57,SAC,SAC,ft_make,12,False,False,,Holmes Free Throw 2 of 2 (22 PTS),104-108,104,108

@@ -15,8 +15,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700519,2017-12-28,SAS,NYK,2.08,1,9,55,NYK,NYK,fg_miss,79,False,False,,MISS Jack 19' Pullup Jump Shot,8-0,8,0
 0021700519,2017-12-28,SAS,NYK,2.15,1,9,51,SAS,SAS,reb,0,False,False,Anderson REBOUND (Off:1 Def:2),,8-0,8,0
 0021700519,2017-12-28,SAS,NYK,2.5,1,9,30,SAS,SAS,fg_miss,47,True,False,MISS Gasol 9' Turnaround Jump Shot,,8-0,8,0
-0021700519,2017-12-28,SAS,NYK,2.5,1,9,30,NYK,NYK,reb,0,False,False,,Knicks Rebound,8-0,8,0
 0021700519,2017-12-28,SAS,NYK,2.5,1,9,30,SAS,NYK,block,47,True,False,block,block,8-0,8,0
+0021700519,2017-12-28,SAS,NYK,2.5,1,9,30,NYK,NYK,reb,0,False,False,,Knicks Rebound,8-0,8,0
 0021700519,2017-12-28,SAS,NYK,2.63,1,9,22,NYK,NYK,fg_miss,101,False,False,,MISS Lee 10' Driving Floating Jump Shot,8-0,8,0
 0021700519,2017-12-28,SAS,NYK,2.72,1,9,17,NYK,NYK,reb,0,False,False,,Kanter REBOUND (Off:1 Def:0),8-0,8,0
 0021700519,2017-12-28,SAS,NYK,2.72,1,9,17,NYK,NYK,fg_make,97,False,False,,Kanter 1' Tip Layup Shot (2 PTS),8-2,8,2
@@ -101,8 +101,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700519,2017-12-28,SAS,NYK,11.77,1,0,14,NYK,NYK,fg_make,47,False,False,,O'Quinn 2' Turnaround Jump Shot (4 PTS) (Beasley 2 AST),30-24,30,24
 0021700519,2017-12-28,SAS,NYK,12.0,1,0,0,SAS,SAS,fg_make,79,False,False,Gay 20' Pullup Jump Shot (2 PTS) (Mills 2 AST),,32-24,32,24
 0021700519,2017-12-28,SAS,NYK,12.0,1,0,0,SAS,,period_end,0,False,False,,,32-24,32,24
-0021700519,2017-12-28,SAS,NYK,12.0,2,12,0,SAS,,violation,1,False,False,,,32-24,32,24
 0021700519,2017-12-28,SAS,NYK,12.0,2,12,0,SAS,,period_start,0,False,False,,,32-24,32,24
+0021700519,2017-12-28,SAS,NYK,12.0,2,12,0,SAS,,violation,1,False,False,,,32-24,32,24
 0021700519,2017-12-28,SAS,NYK,12.22,2,11,47,NYK,NYK,fg_miss,1,False,False,,MISS Ntilikina 15' Jump Shot,32-24,32,24
 0021700519,2017-12-28,SAS,NYK,12.28,2,11,43,SAS,SAS,reb,0,False,False,Gay REBOUND (Off:0 Def:1),,32-24,32,24
 0021700519,2017-12-28,SAS,NYK,12.6,2,11,24,SAS,SAS,fg3_miss,1,False,False,MISS Gasol 24' 3PT Jump Shot,,32-24,32,24
@@ -161,9 +161,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700519,2017-12-28,SAS,NYK,19.13,2,4,52,SAS,SAS,ft_miss,12,False,False,MISS Gay Free Throw 2 of 2,,47-41,47,41
 0021700519,2017-12-28,SAS,NYK,19.18,2,4,49,NYK,NYK,reb,0,False,False,,Beasley REBOUND (Off:2 Def:3),47-41,47,41
 0021700519,2017-12-28,SAS,NYK,19.43,2,4,34,NYK,SAS,foul,2,False,False,Green S.FOUL (P1.PN) (P.Fraher),,47-41,47,41
+0021700519,2017-12-28,SAS,NYK,19.43,2,4,34,SAS,NYK,ft_make,11,False,False,,Porzingis Free Throw 1 of 2 (5 PTS),47-42,47,42
 0021700519,2017-12-28,SAS,NYK,19.43,2,4,34,NYK,NYK,ft_miss,12,False,False,,MISS Porzingis Free Throw 2 of 2,47-41,47,41
 0021700519,2017-12-28,SAS,NYK,19.43,2,4,34,SAS,SAS,reb,0,False,False,Aldridge REBOUND (Off:0 Def:2),,47-41,47,41
-0021700519,2017-12-28,SAS,NYK,19.43,2,4,34,SAS,NYK,ft_make,11,False,False,,Porzingis Free Throw 1 of 2 (5 PTS),47-42,47,42
 0021700519,2017-12-28,SAS,NYK,19.75,2,4,15,SAS,SAS,tov,45,False,False,Mills Out of Bounds - Bad Pass Turnover Turnover (P3.T5),,47-42,47,42
 0021700519,2017-12-28,SAS,NYK,19.92,2,4,5,NYK,SAS,foul,2,False,False,Parker S.FOUL (P2.PN) (S.Twardoski),,47-42,47,42
 0021700519,2017-12-28,SAS,NYK,19.92,2,4,5,NYK,NYK,ft_make,11,False,False,,Beasley Free Throw 1 of 2 (8 PTS),47-43,47,43
@@ -287,10 +287,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700519,2017-12-28,SAS,NYK,32.58,3,3,25,SAS,SAS,ft_miss,10,False,False,MISS Murray Free Throw 1 of 1,,79-69,79,69
 0021700519,2017-12-28,SAS,NYK,32.62,3,3,23,NYK,NYK,reb,0,False,False,,Beasley REBOUND (Off:2 Def:6),79-69,79,69
 0021700519,2017-12-28,SAS,NYK,33.0,3,3,0,NYK,NYK,fg_miss,75,True,False,,MISS Beasley 2' Driving Finger Roll Layup,79-69,79,69
+0021700519,2017-12-28,SAS,NYK,33.0,3,3,0,NYK,SAS,block,75,True,False,block,block,79-69,79,69
 0021700519,2017-12-28,SAS,NYK,33.0,3,3,0,NYK,NYK,reb,0,False,False,,Knicks Rebound,79-69,79,69
 0021700519,2017-12-28,SAS,NYK,33.0,3,3,0,NYK,NYK,tov,11,False,False,,Knicks Turnover: Shot Clock (T#7),79-69,79,69
 0021700519,2017-12-28,SAS,NYK,33.0,3,3,0,SAS,SAS,timeout,1,False,False,SPURS Timeout: Regular (Full 3 Short 0),,79-69,79,69
-0021700519,2017-12-28,SAS,NYK,33.0,3,3,0,NYK,SAS,block,75,True,False,block,block,79-69,79,69
 0021700519,2017-12-28,SAS,NYK,33.28,3,2,43,SAS,SAS,fg_miss,102,False,False,MISS Murray 3' Driving Floating Bank Jump Shot,,79-69,79,69
 0021700519,2017-12-28,SAS,NYK,33.32,3,2,41,SAS,SAS,reb,0,False,False,Gasol REBOUND (Off:2 Def:8),,79-69,79,69
 0021700519,2017-12-28,SAS,NYK,33.37,3,2,38,SAS,SAS,fg_make,79,False,False,Gay 12' Pullup Jump Shot (6 PTS) (Gasol 7 AST),,81-69,81,69
@@ -315,10 +315,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700519,2017-12-28,SAS,NYK,35.98,3,0,1,SAS,SAS,fg_miss,75,False,False,MISS Forbes 2' Driving Finger Roll Layup,,86-77,86,77
 0021700519,2017-12-28,SAS,NYK,35.98,3,0,1,NYK,NYK,reb,0,False,False,,Baker REBOUND (Off:0 Def:1),86-77,86,77
 0021700519,2017-12-28,SAS,NYK,36.0,3,0,0,NYK,SAS,foul,2,False,False,Murray S.FOUL (P1.PN) (S.Twardoski),,86-77,86,77
-0021700519,2017-12-28,SAS,NYK,36.0,3,0,0,NYK,NYK,ft_make,14,False,False,,Baker Free Throw 2 of 3 (1 PTS),86-78,86,78
-0021700519,2017-12-28,SAS,NYK,36.0,3,0,0,NYK,NYK,ft_make,15,False,False,,Baker Free Throw 3 of 3 (2 PTS),86-79,86,79
 0021700519,2017-12-28,SAS,NYK,36.0,3,0,0,NYK,NYK,ft_miss,13,False,False,,MISS Baker Free Throw 1 of 3,86-79,86,79
 0021700519,2017-12-28,SAS,NYK,36.0,3,0,0,NYK,NYK,reb,0,False,False,,Knicks Rebound,86-79,86,79
+0021700519,2017-12-28,SAS,NYK,36.0,3,0,0,NYK,NYK,ft_make,14,False,False,,Baker Free Throw 2 of 3 (1 PTS),86-78,86,78
+0021700519,2017-12-28,SAS,NYK,36.0,3,0,0,NYK,NYK,ft_make,15,False,False,,Baker Free Throw 3 of 3 (2 PTS),86-79,86,79
 0021700519,2017-12-28,SAS,NYK,36.0,3,0,0,NYK,,period_end,0,False,False,,,86-79,86,79
 0021700519,2017-12-28,SAS,NYK,36.0,4,12,0,NYK,,period_start,0,False,False,,,86-79,86,79
 0021700519,2017-12-28,SAS,NYK,36.32,4,11,41,SAS,SAS,fg_make,79,False,False,Forbes 18' Pullup Jump Shot (7 PTS) (Ginobili 3 AST),,88-79,88,79

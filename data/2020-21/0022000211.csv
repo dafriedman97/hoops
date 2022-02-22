@@ -73,8 +73,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000211,2021-01-18,CHI,HOU,7.42,1,4,35,CHI,CHI,fg3_miss,79,False,False,MISS LaVine 26' 3PT Pullup Jump Shot,,15-10,15,10
 0022000211,2021-01-18,CHI,HOU,7.47,1,4,32,HOU,HOU,reb,0,False,False,,Wood REBOUND (Off:0 Def:4),15-10,15,10
 0022000211,2021-01-18,CHI,HOU,7.57,1,4,26,HOU,HOU,tov,1,False,True,,Oladipo Bad Pass Turnover (P4.T7),15-10,15,10
-0022000211,2021-01-18,CHI,HOU,7.57,1,4,26,CHI,HOU,foul,28,False,False,,Tucker Personal Take Foul (P1.T3) (B.Adair),15-10,15,10
 0022000211,2021-01-18,CHI,HOU,7.57,1,4,26,HOU,CHI,steal,1,False,True,steal,steal,15-10,15,10
+0022000211,2021-01-18,CHI,HOU,7.57,1,4,26,CHI,HOU,foul,28,False,False,,Tucker Personal Take Foul (P1.T3) (B.Adair),15-10,15,10
 0022000211,2021-01-18,CHI,HOU,7.78,1,4,13,CHI,CHI,fg3_miss,1,False,False,MISS LaVine 3PT Jump Shot,,15-10,15,10
 0022000211,2021-01-18,CHI,HOU,7.83,1,4,10,HOU,HOU,reb,0,False,False,,Oladipo REBOUND (Off:0 Def:3),15-10,15,10
 0022000211,2021-01-18,CHI,HOU,7.87,1,4,8,HOU,CHI,foul,1,False,False,White P.FOUL (P1.T2) (S.Wall),,15-10,15,10
@@ -139,15 +139,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000211,2021-01-18,CHI,HOU,13.9,2,10,6,CHI,CHI,fg_miss,75,False,False,MISS Valentine 2' Driving Finger Roll Layup,,34-23,34,23
 0022000211,2021-01-18,CHI,HOU,13.93,2,10,4,HOU,HOU,reb,0,False,False,,Nwaba REBOUND (Off:0 Def:1),34-23,34,23
 0022000211,2021-01-18,CHI,HOU,13.98,2,10,1,HOU,HOU,fg_miss,6,True,False,,MISS Tate 4' Driving Layup,34-23,34,23
-0022000211,2021-01-18,CHI,HOU,13.98,2,10,1,HOU,HOU,reb,0,False,False,,Rockets Rebound,34-23,34,23
 0022000211,2021-01-18,CHI,HOU,13.98,2,10,1,HOU,CHI,block,6,True,False,block,block,34-23,34,23
+0022000211,2021-01-18,CHI,HOU,13.98,2,10,1,HOU,HOU,reb,0,False,False,,Rockets Rebound,34-23,34,23
 0022000211,2021-01-18,CHI,HOU,14.18,2,9,49,HOU,HOU,fg3_make,1,False,False,,Tate 24' 3PT Jump Shot (3 PTS) (Gordon 1 AST),34-26,34,26
 0022000211,2021-01-18,CHI,HOU,14.43,2,9,34,CHI,CHI,fg_miss,98,True,False,MISS Gafford 4' Cutting Layup Shot,,34-26,34,26
 0022000211,2021-01-18,CHI,HOU,14.43,2,9,34,CHI,HOU,block,98,True,False,block,block,34-26,34,26
 0022000211,2021-01-18,CHI,HOU,14.48,2,9,31,HOU,HOU,reb,0,False,False,,Tate REBOUND (Off:0 Def:1),34-26,34,26
 0022000211,2021-01-18,CHI,HOU,14.57,2,9,26,HOU,HOU,tov,1,False,True,,Cousins Bad Pass Turnover (P2.T11),34-26,34,26
-0022000211,2021-01-18,CHI,HOU,14.57,2,9,26,CHI,CHI,tov,39,False,False,LaVine Step Out of Bounds Turnover (P2.T8),,34-26,34,26
 0022000211,2021-01-18,CHI,HOU,14.57,2,9,26,HOU,CHI,steal,1,False,True,steal,steal,34-26,34,26
+0022000211,2021-01-18,CHI,HOU,14.57,2,9,26,CHI,CHI,tov,39,False,False,LaVine Step Out of Bounds Turnover (P2.T8),,34-26,34,26
 0022000211,2021-01-18,CHI,HOU,14.77,2,9,14,HOU,HOU,fg3_miss,1,False,False,,MISS Nwaba 25' 3PT Jump Shot,34-26,34,26
 0022000211,2021-01-18,CHI,HOU,14.78,2,9,13,CHI,CHI,reb,0,False,False,LaVine REBOUND (Off:0 Def:3),,34-26,34,26
 0022000211,2021-01-18,CHI,HOU,14.83,2,9,10,CHI,HOU,foul,1,False,False,,Tate P.FOUL (P2.T2) (B.Adair),34-26,34,26
@@ -410,8 +410,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000211,2021-01-18,CHI,HOU,46.17,4,1,50,HOU,HOU,fg3_make,1,False,False,,Oladipo 25' 3PT Jump Shot (32 PTS) (Gordon 4 AST),114-111,114,111
 0022000211,2021-01-18,CHI,HOU,46.35,4,1,39,CHI,CHI,fg_make,75,False,False,LaVine Driving Finger Roll Layup (31 PTS),,116-111,116,111
 0022000211,2021-01-18,CHI,HOU,46.55,4,1,27,HOU,HOU,fg_miss,6,True,False,,MISS Oladipo 1' Driving Layup,116-111,116,111
-0022000211,2021-01-18,CHI,HOU,46.55,4,1,27,CHI,CHI,reb,0,False,False,BULLS Rebound,,116-111,116,111
 0022000211,2021-01-18,CHI,HOU,46.55,4,1,27,HOU,CHI,block,6,True,False,block,block,116-111,116,111
+0022000211,2021-01-18,CHI,HOU,46.55,4,1,27,CHI,CHI,reb,0,False,False,BULLS Rebound,,116-111,116,111
 0022000211,2021-01-18,CHI,HOU,46.77,4,1,14,CHI,CHI,fg_miss,80,False,False,MISS LaVine 13' Step Back Jump Shot,,116-111,116,111
 0022000211,2021-01-18,CHI,HOU,46.8,4,1,12,HOU,HOU,reb,0,False,False,,Oladipo REBOUND (Off:0 Def:5),116-111,116,111
 0022000211,2021-01-18,CHI,HOU,46.95,4,1,3,HOU,CHI,foul,2,False,False,Markkanen S.FOUL (P3.PN) (S.Wall),,116-111,116,111

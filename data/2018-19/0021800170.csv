@@ -19,9 +19,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800170,2018-11-09,MIA,IND,1.55,1,10,27,IND,IND,tov,40,False,False,,Young Out of Bounds Lost Ball Turnover (P1.T1),1-2,1,2
 0021800170,2018-11-09,MIA,IND,1.78,1,10,13,MIA,MIA,tov,40,False,False,Winslow Out of Bounds Lost Ball Turnover (P2.T3),,1-2,1,2
 0021800170,2018-11-09,MIA,IND,2.0,1,10,0,IND,IND,fg_miss,6,True,False,,MISS Oladipo 2' Driving Layup,1-2,1,2
+0021800170,2018-11-09,MIA,IND,2.0,1,10,0,IND,MIA,block,6,True,False,block,block,1-2,1,2
 0021800170,2018-11-09,MIA,IND,2.0,1,10,0,IND,IND,reb,0,False,False,,Pacers Rebound,1-2,1,2
 0021800170,2018-11-09,MIA,IND,2.0,1,10,0,IND,MIA,foul,3,False,False,Winslow L.B.FOUL (P1.T1) (J.Goldenberg),,1-2,1,2
-0021800170,2018-11-09,MIA,IND,2.0,1,10,0,IND,MIA,block,6,True,False,block,block,1-2,1,2
 0021800170,2018-11-09,MIA,IND,2.25,1,9,45,IND,IND,fg_miss,1,False,False,,MISS Bogdanovic 23' Jump Shot,1-2,1,2
 0021800170,2018-11-09,MIA,IND,2.32,1,9,41,MIA,MIA,reb,0,False,False,Whiteside REBOUND (Off:0 Def:3),,1-2,1,2
 0021800170,2018-11-09,MIA,IND,2.35,1,9,39,MIA,IND,foul,1,False,False,,Oladipo P.FOUL (P1.T2) (J.Goldenberg),1-2,1,2
@@ -205,9 +205,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800170,2018-11-09,MIA,IND,22.25,2,1,45,MIA,IND,steal,1,False,True,steal,steal,52-47,52,47
 0021800170,2018-11-09,MIA,IND,22.37,2,1,38,MIA,IND,foul,15,False,False,,Young FLAGRANT.FOUL.TYPE2 (P1.PN) (R.Mott),52-47,52,47
 0021800170,2018-11-09,MIA,IND,22.37,2,1,38,IND,IND,tov,0,False,False,,Young No Turnover (P3.T12),52-47,52,47
+0021800170,2018-11-09,MIA,IND,22.37,2,1,38,IND,IND,ejection,4,False,False,,Young Ejection:Other,54-47,54,47
 0021800170,2018-11-09,MIA,IND,22.37,2,1,38,IND,MIA,ft_make,18,False,False,Olynyk Free Throw Flagrant 1 of 2 (10 PTS),,53-47,53,47
 0021800170,2018-11-09,MIA,IND,22.37,2,1,38,IND,MIA,ft_make,19,False,False,Olynyk Free Throw Flagrant 2 of 2 (11 PTS),,54-47,54,47
-0021800170,2018-11-09,MIA,IND,22.37,2,1,38,IND,IND,ejection,4,False,False,,Young Ejection:Other,54-47,54,47
 0021800170,2018-11-09,MIA,IND,22.52,2,1,29,MIA,MIA,tov,45,False,False,Johnson Out of Bounds - Bad Pass Turnover Turnover (P3.T12),,54-47,54,47
 0021800170,2018-11-09,MIA,IND,22.73,2,1,16,IND,IND,fg_make,101,False,False,,Oladipo 5' Driving Floating Jump Shot (9 PTS),54-49,54,49
 0021800170,2018-11-09,MIA,IND,22.92,2,1,5,MIA,IND,foul,17,False,False,,Pacers T.Foul (Def. 3 Sec Collison ) (C.Kirkland),54-49,54,49
@@ -277,8 +277,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800170,2018-11-09,MIA,IND,29.3,3,6,42,MIA,MIA,ft_make,11,False,False,Johnson Free Throw 1 of 2 (14 PTS),,65-63,65,63
 0021800170,2018-11-09,MIA,IND,29.3,3,6,42,MIA,MIA,ft_make,12,False,False,Johnson Free Throw 2 of 2 (15 PTS),,66-63,66,63
 0021800170,2018-11-09,MIA,IND,29.47,3,6,32,IND,IND,fg_miss,6,True,False,,MISS Oladipo 2' Driving Layup,66-63,66,63
-0021800170,2018-11-09,MIA,IND,29.47,3,6,32,MIA,MIA,reb,0,False,False,Whiteside REBOUND (Off:2 Def:10),,66-63,66,63
 0021800170,2018-11-09,MIA,IND,29.47,3,6,32,IND,MIA,block,6,True,False,block,block,66-63,66,63
+0021800170,2018-11-09,MIA,IND,29.47,3,6,32,MIA,MIA,reb,0,False,False,Whiteside REBOUND (Off:2 Def:10),,66-63,66,63
 0021800170,2018-11-09,MIA,IND,29.58,3,6,25,MIA,MIA,fg_miss,101,False,False,MISS Winslow 1' Driving Floating Jump Shot,,66-63,66,63
 0021800170,2018-11-09,MIA,IND,29.63,3,6,22,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:0 Def:5),66-63,66,63
 0021800170,2018-11-09,MIA,IND,29.73,3,6,16,IND,MIA,foul,2,False,False,Ellington S.FOUL (P5.T3) (C.Kirkland),,66-63,66,63
@@ -298,8 +298,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800170,2018-11-09,MIA,IND,31.15,3,4,51,IND,IND,ft_make,11,False,False,,Sabonis Free Throw 1 of 2 (6 PTS),70-69,70,69
 0021800170,2018-11-09,MIA,IND,31.15,3,4,51,IND,IND,ft_make,12,False,False,,Sabonis Free Throw 2 of 2 (7 PTS),70-70,70,70
 0021800170,2018-11-09,MIA,IND,31.35,3,4,39,MIA,MIA,fg_miss,1,True,False,MISS Jones Jr. 11' Jump Shot,,70-70,70,70
-0021800170,2018-11-09,MIA,IND,31.35,3,4,39,MIA,MIA,reb,0,False,False,HEAT Rebound,,70-70,70,70
 0021800170,2018-11-09,MIA,IND,31.35,3,4,39,MIA,IND,block,1,True,False,block,block,70-70,70,70
+0021800170,2018-11-09,MIA,IND,31.35,3,4,39,MIA,MIA,reb,0,False,False,HEAT Rebound,,70-70,70,70
 0021800170,2018-11-09,MIA,IND,31.53,3,4,28,MIA,MIA,fg_make,43,False,False,Jones Jr. 1' Alley Oop Layup (8 PTS) (Olynyk 2 AST),,72-70,72,70
 0021800170,2018-11-09,MIA,IND,31.62,3,4,23,IND,IND,tov,2,False,True,,Oladipo Lost Ball Turnover (P1.T14),72-70,72,70
 0021800170,2018-11-09,MIA,IND,31.62,3,4,23,IND,MIA,steal,2,False,True,steal,steal,72-70,72,70
@@ -448,16 +448,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800170,2018-11-09,MIA,IND,47.07,4,0,56,IND,IND,fg3_make,1,False,False,,Bogdanovic 25' 3PT Jump Shot (16 PTS) (Oladipo 10 AST),102-103,102,103
 0021800170,2018-11-09,MIA,IND,47.07,4,0,56,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 6 Short 0),,102-103,102,103
 0021800170,2018-11-09,MIA,IND,47.13,4,0,52,MIA,MIA,fg_miss,6,True,False,MISS Winslow 3' Driving Layup,,102-103,102,103
-0021800170,2018-11-09,MIA,IND,47.13,4,0,52,MIA,MIA,reb,0,False,False,HEAT Rebound,,102-103,102,103
 0021800170,2018-11-09,MIA,IND,47.13,4,0,52,MIA,IND,block,6,True,False,block,block,102-103,102,103
+0021800170,2018-11-09,MIA,IND,47.13,4,0,52,MIA,MIA,reb,0,False,False,HEAT Rebound,,102-103,102,103
 0021800170,2018-11-09,MIA,IND,47.23,4,0,46,MIA,MIA,fg3_miss,1,False,False,MISS Winslow 24' 3PT Jump Shot,,102-103,102,103
 0021800170,2018-11-09,MIA,IND,47.28,4,0,43,IND,IND,reb,0,False,False,,Turner REBOUND (Off:0 Def:5),102-103,102,103
 0021800170,2018-11-09,MIA,IND,47.47,4,0,32,IND,IND,fg_make,79,False,False,,Oladipo 17' Pullup Jump Shot (19 PTS),102-105,102,105
 0021800170,2018-11-09,MIA,IND,47.47,4,0,32,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 7 Short 0),,102-105,102,105
 0021800170,2018-11-09,MIA,IND,47.65,4,0,21,MIA,MIA,tov,1,False,True,Richardson Bad Pass Turnover (P5.T23),,102-105,102,105
+0021800170,2018-11-09,MIA,IND,47.65,4,0,21,MIA,IND,steal,1,False,True,steal,steal,102-105,102,105
 0021800170,2018-11-09,MIA,IND,47.65,4,0,21,IND,MIA,foul,1,False,False,Richardson P.FOUL (P5.T2) (J.Goldenberg),,102-105,102,105
 0021800170,2018-11-09,MIA,IND,47.65,4,0,21,IND,IND,timeout,1,False,False,,Pacers Timeout: Regular (Reg.6 Short 0),102-105,102,105
-0021800170,2018-11-09,MIA,IND,47.65,4,0,21,MIA,IND,steal,1,False,True,steal,steal,102-105,102,105
 0021800170,2018-11-09,MIA,IND,47.75,4,0,15,IND,MIA,foul,1,False,False,Winslow P.FOUL (P3.PN) (R.Mott),,102-105,102,105
 0021800170,2018-11-09,MIA,IND,47.75,4,0,15,IND,IND,ft_make,11,False,False,,Collison Free Throw 1 of 2 (16 PTS),102-106,102,106
 0021800170,2018-11-09,MIA,IND,47.75,4,0,15,IND,IND,ft_make,12,False,False,,Collison Free Throw 2 of 2 (17 PTS),102-107,102,107

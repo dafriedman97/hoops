@@ -235,10 +235,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000011,2020-12-23,IND,NYK,23.63,2,0,22,NYK,NYK,fg3_miss,1,False,False,,MISS Randle 26' 3PT Jump Shot,61-66,61,66
 0022000011,2020-12-23,IND,NYK,23.68,2,0,19,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:0 Def:4),,61-66,61,66
 0022000011,2020-12-23,IND,NYK,24.0,2,0,0,IND,IND,fg_miss,101,True,False,MISS Brogdon 1' Driving Floating Jump Shot,,61-66,61,66
+0022000011,2020-12-23,IND,NYK,24.0,2,0,0,IND,NYK,block,101,True,False,block,block,61-66,61,66
 0022000011,2020-12-23,IND,NYK,24.0,2,0,0,IND,IND,reb,0,False,False,PACERS Rebound,,61-66,61,66
 0022000011,2020-12-23,IND,NYK,24.0,2,0,0,IND,,period_end,0,False,False,,,61-66,61,66
 0022000011,2020-12-23,IND,NYK,24.0,3,12,0,IND,,period_start,0,False,False,,,61-66,61,66
-0022000011,2020-12-23,IND,NYK,24.0,2,0,0,IND,NYK,block,101,True,False,block,block,61-66,61,66
 0022000011,2020-12-23,IND,NYK,24.23,3,11,46,NYK,NYK,fg_miss,79,False,False,,MISS Randle 16' Pullup Jump Shot,61-66,61,66
 0022000011,2020-12-23,IND,NYK,24.32,3,11,41,IND,IND,reb,0,False,False,Brogdon REBOUND (Off:2 Def:3),,61-66,61,66
 0022000011,2020-12-23,IND,NYK,24.53,3,11,28,IND,IND,fg_miss,5,False,False,MISS Sabonis 1' Layup,,61-66,61,66
@@ -266,8 +266,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000011,2020-12-23,IND,NYK,28.0,3,8,0,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:0 Def:5),,70-74,70,74
 0022000011,2020-12-23,IND,NYK,28.2,3,7,48,IND,NYK,foul,3,False,False,,Bullock L.B.FOUL (P2.T2) (S.Twardoski),70-74,70,74
 0022000011,2020-12-23,IND,NYK,28.32,3,7,41,IND,IND,fg_miss,75,True,False,MISS Brogdon Driving Finger Roll Layup,,70-74,70,74
-0022000011,2020-12-23,IND,NYK,28.32,3,7,41,IND,IND,reb,0,False,False,PACERS Rebound,,70-74,70,74
 0022000011,2020-12-23,IND,NYK,28.32,3,7,41,IND,NYK,block,75,True,False,block,block,70-74,70,74
+0022000011,2020-12-23,IND,NYK,28.32,3,7,41,IND,IND,reb,0,False,False,PACERS Rebound,,70-74,70,74
 0022000011,2020-12-23,IND,NYK,28.33,3,7,40,IND,IND,fg_make,1,False,False,Oladipo 10' Jump Shot (17 PTS) (Brogdon 7 AST),,72-74,72,74
 0022000011,2020-12-23,IND,NYK,28.63,3,7,22,NYK,NYK,fg_miss,79,False,False,,MISS Payton 16' Pullup Jump Shot,72-74,72,74
 0022000011,2020-12-23,IND,NYK,28.67,3,7,20,IND,IND,reb,0,False,False,Oladipo REBOUND (Off:0 Def:2),,72-74,72,74
@@ -319,9 +319,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000011,2020-12-23,IND,NYK,33.35,3,2,39,IND,NYK,block,75,True,False,block,block,83-80,83,80
 0022000011,2020-12-23,IND,NYK,33.42,3,2,35,NYK,NYK,reb,0,False,False,,Barrett REBOUND (Off:0 Def:5),83-80,83,80
 0022000011,2020-12-23,IND,NYK,33.48,3,2,31,NYK,NYK,fg_miss,6,True,False,,MISS Barrett 1' Driving Layup,83-80,83,80
-0022000011,2020-12-23,IND,NYK,33.48,3,2,31,IND,IND,reb,0,False,False,PACERS Rebound,,83-80,83,80
-0022000011,2020-12-23,IND,NYK,33.48,3,2,31,,IND,jump_ball,0,False,False,Jump Ball Holiday vs. Barrett: Tip to Holiday,,83-80,83,80
 0022000011,2020-12-23,IND,NYK,33.48,3,2,31,NYK,IND,block,6,True,False,block,block,83-80,83,80
+0022000011,2020-12-23,IND,NYK,33.48,3,2,31,,IND,jump_ball,0,False,False,Jump Ball Holiday vs. Barrett: Tip to Holiday,,83-80,83,80
+0022000011,2020-12-23,IND,NYK,33.48,3,2,31,IND,IND,reb,0,False,False,PACERS Rebound,,83-80,83,80
 0022000011,2020-12-23,IND,NYK,33.87,3,2,8,IND,IND,fg_miss,47,True,False,MISS Turner 2' Turnaround Jump Shot,,83-80,83,80
 0022000011,2020-12-23,IND,NYK,33.87,3,2,8,IND,NYK,block,47,True,False,block,block,83-80,83,80
 0022000011,2020-12-23,IND,NYK,33.9,3,2,6,NYK,NYK,reb,0,False,False,,Barrett REBOUND (Off:0 Def:6),83-80,83,80

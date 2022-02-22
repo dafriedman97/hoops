@@ -21,9 +21,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800055,2018-10-24,TOR,MIN,2.95,1,9,3,TOR,TOR,tov,2,False,True,Ibaka Lost Ball Turnover (P1.T1),,9-4,9,4
 0021800055,2018-10-24,TOR,MIN,2.95,1,9,3,TOR,MIN,steal,2,False,True,steal,steal,9-4,9,4
 0021800055,2018-10-24,TOR,MIN,3.25,1,8,45,MIN,MIN,fg_miss,6,True,False,,MISS Okogie 5' Driving Layup,9-4,9,4
+0021800055,2018-10-24,TOR,MIN,3.25,1,8,45,MIN,TOR,block,6,True,False,block,block,9-4,9,4
 0021800055,2018-10-24,TOR,MIN,3.25,1,8,45,TOR,TOR,reb,0,False,False,Leonard REBOUND (Off:0 Def:1),,9-4,9,4
 0021800055,2018-10-24,TOR,MIN,3.25,1,8,45,TOR,MIN,foul,1,False,False,,Okogie P.FOUL (P1.T1) (S.Wright),9-4,9,4
-0021800055,2018-10-24,TOR,MIN,3.25,1,8,45,MIN,TOR,block,6,True,False,block,block,9-4,9,4
 0021800055,2018-10-24,TOR,MIN,3.45,1,8,33,TOR,TOR,fg_make,63,False,False,Leonard 8' Fadeaway Jumper (6 PTS),,11-4,11,4
 0021800055,2018-10-24,TOR,MIN,3.85,1,8,9,MIN,MIN,fg3_make,1,False,False,,Teague 26' 3PT Jump Shot (3 PTS),11-7,11,7
 0021800055,2018-10-24,TOR,MIN,4.18,1,7,49,TOR,TOR,fg_miss,101,False,False,MISS Lowry 4' Driving Floating Jump Shot,,11-7,11,7
@@ -43,8 +43,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800055,2018-10-24,TOR,MIN,4.83,1,7,10,MIN,TOR,block,6,True,False,block,block,13-7,13,7
 0021800055,2018-10-24,TOR,MIN,4.88,1,7,7,TOR,TOR,reb,0,False,False,Ibaka REBOUND (Off:0 Def:1),,13-7,13,7
 0021800055,2018-10-24,TOR,MIN,4.93,1,7,4,TOR,TOR,tov,1,False,True,Lowry Bad Pass Turnover (P1.T2),,13-7,13,7
-0021800055,2018-10-24,TOR,MIN,4.93,1,7,4,MIN,TOR,foul,28,False,False,Lowry Personal Take Foul (P1.T1) (S.Wright),,13-7,13,7
 0021800055,2018-10-24,TOR,MIN,4.93,1,7,4,TOR,MIN,steal,1,False,True,steal,steal,13-7,13,7
+0021800055,2018-10-24,TOR,MIN,4.93,1,7,4,MIN,TOR,foul,28,False,False,Lowry Personal Take Foul (P1.T1) (S.Wright),,13-7,13,7
 0021800055,2018-10-24,TOR,MIN,5.1,1,6,54,MIN,MIN,fg_make,1,False,False,,Towns 17' Jump Shot (2 PTS) (Teague 2 AST),13-9,13,9
 0021800055,2018-10-24,TOR,MIN,5.45,1,6,33,TOR,TOR,tov,1,False,True,Lowry Bad Pass Turnover (P2.T3),,13-9,13,9
 0021800055,2018-10-24,TOR,MIN,5.45,1,6,33,TOR,MIN,steal,1,False,True,steal,steal,13-9,13,9
@@ -197,8 +197,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800055,2018-10-24,TOR,MIN,20.58,2,3,25,TOR,TOR,fg_miss,58,False,False,MISS Ibaka 2' Turnaround Hook Shot,,49-40,49,40
 0021800055,2018-10-24,TOR,MIN,20.58,2,3,25,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:0 Def:4),49-40,49,40
 0021800055,2018-10-24,TOR,MIN,20.73,2,3,16,MIN,MIN,fg_miss,6,True,False,,MISS Teague 2' Driving Layup,49-40,49,40
-0021800055,2018-10-24,TOR,MIN,20.73,2,3,16,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,49-40,49,40
 0021800055,2018-10-24,TOR,MIN,20.73,2,3,16,MIN,TOR,block,6,True,False,block,block,49-40,49,40
+0021800055,2018-10-24,TOR,MIN,20.73,2,3,16,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,49-40,49,40
 0021800055,2018-10-24,TOR,MIN,20.9,2,3,6,MIN,MIN,fg_make,3,False,False,,Towns Hook Shot (5 PTS) (Rose 3 AST),49-42,49,42
 0021800055,2018-10-24,TOR,MIN,21.15,2,2,51,TOR,TOR,fg_make,108,False,False,Ibaka 1' Cutting Dunk Shot (8 PTS) (Lowry 6 AST),,51-42,51,42
 0021800055,2018-10-24,TOR,MIN,21.28,2,2,43,MIN,TOR,foul,3,False,False,Anunoby L.B.FOUL (P1.T4) (C.Blair),,51-42,51,42
@@ -385,8 +385,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800055,2018-10-24,TOR,MIN,41.88,4,6,7,MIN,MIN,fg_miss,6,False,False,,MISS Towns 2' Driving Layup,96-83,96,83
 0021800055,2018-10-24,TOR,MIN,41.92,4,6,5,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:2 Def:6),96-83,96,83
 0021800055,2018-10-24,TOR,MIN,41.93,4,6,4,MIN,MIN,fg_miss,5,True,False,,MISS Towns 1' Layup,96-83,96,83
-0021800055,2018-10-24,TOR,MIN,41.93,4,6,4,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,96-83,96,83
 0021800055,2018-10-24,TOR,MIN,41.93,4,6,4,MIN,TOR,block,5,True,False,block,block,96-83,96,83
+0021800055,2018-10-24,TOR,MIN,41.93,4,6,4,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,96-83,96,83
 0021800055,2018-10-24,TOR,MIN,42.13,4,5,52,MIN,MIN,fg3_miss,1,False,False,,MISS Butler 26' 3PT Jump Shot,96-83,96,83
 0021800055,2018-10-24,TOR,MIN,42.18,4,5,49,TOR,TOR,reb,0,False,False,Anunoby REBOUND (Off:0 Def:5),,96-83,96,83
 0021800055,2018-10-24,TOR,MIN,42.4,4,5,36,TOR,TOR,fg_make,80,False,False,Leonard 16' Step Back Jump Shot (27 PTS),,98-83,98,83

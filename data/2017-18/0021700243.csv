@@ -46,8 +46,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700243,2017-11-20,ORL,IND,5.02,1,6,59,IND,IND,fg3_make,1,False,False,,Oladipo 3PT Jump Shot (3 PTS) (Collison 3 AST),11-13,11,13
 0021700243,2017-11-20,ORL,IND,5.3,1,6,42,ORL,ORL,fg3_make,1,False,False,Vucevic 26' 3PT Jump Shot (8 PTS) (Payton 2 AST),,14-13,14,13
 0021700243,2017-11-20,ORL,IND,5.65,1,6,21,IND,IND,fg_miss,5,True,False,,MISS Turner 8' Layup,14-13,14,13
-0021700243,2017-11-20,ORL,IND,5.65,1,6,21,IND,IND,reb,0,False,False,,Pacers Rebound,14-13,14,13
 0021700243,2017-11-20,ORL,IND,5.65,1,6,21,IND,ORL,block,5,True,False,block,block,14-13,14,13
+0021700243,2017-11-20,ORL,IND,5.65,1,6,21,IND,IND,reb,0,False,False,,Pacers Rebound,14-13,14,13
 0021700243,2017-11-20,ORL,IND,5.83,1,6,10,IND,IND,fg_make,6,False,False,,Young 3' Driving Layup (6 PTS) (Oladipo 3 AST),14-15,14,15
 0021700243,2017-11-20,ORL,IND,6.23,1,5,46,ORL,ORL,fg_make,108,False,False,Gordon 1' Cutting Dunk Shot (2 PTS) (Payton 3 AST),,16-15,16,15
 0021700243,2017-11-20,ORL,IND,6.6,1,5,24,IND,IND,fg_make,76,False,False,,Oladipo 2' Running Finger Roll Layup (5 PTS),16-17,16,17
@@ -111,8 +111,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700243,2017-11-20,ORL,IND,12.8,2,11,12,IND,IND,fg_miss,79,False,False,,MISS Bogdanovic 14' Pullup Jump Shot,34-34,34,34
 0021700243,2017-11-20,ORL,IND,12.82,2,11,11,IND,IND,reb,0,False,False,,Stephenson REBOUND (Off:1 Def:0),34-34,34,34
 0021700243,2017-11-20,ORL,IND,12.87,2,11,8,IND,IND,fg_miss,107,True,False,,MISS Stephenson 8' Tip Dunk Shot,34-34,34,34
-0021700243,2017-11-20,ORL,IND,12.87,2,11,8,ORL,ORL,reb,0,False,False,Speights REBOUND (Off:0 Def:1),,34-34,34,34
 0021700243,2017-11-20,ORL,IND,12.87,2,11,8,IND,ORL,block,107,True,False,block,block,34-34,34,34
+0021700243,2017-11-20,ORL,IND,12.87,2,11,8,ORL,ORL,reb,0,False,False,Speights REBOUND (Off:0 Def:1),,34-34,34,34
 0021700243,2017-11-20,ORL,IND,13.0,2,11,0,ORL,ORL,fg3_make,1,False,False,Speights 25' 3PT Jump Shot (6 PTS) (Simmons 2 AST),,37-34,37,34
 0021700243,2017-11-20,ORL,IND,13.22,2,10,47,IND,IND,fg_miss,80,False,False,,MISS Stephenson 20' Step Back Jump Shot,37-34,37,34
 0021700243,2017-11-20,ORL,IND,13.27,2,10,44,ORL,ORL,reb,0,False,False,Speights REBOUND (Off:0 Def:2),,37-34,37,34
@@ -141,8 +141,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700243,2017-11-20,ORL,IND,15.77,2,8,14,IND,IND,fg_miss,5,False,False,,MISS Turner 3' Layup,40-37,40,37
 0021700243,2017-11-20,ORL,IND,15.82,2,8,11,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:2 Def:1),40-37,40,37
 0021700243,2017-11-20,ORL,IND,15.83,2,8,10,IND,IND,fg_miss,5,True,False,,MISS Sabonis 3' Layup,40-37,40,37
-0021700243,2017-11-20,ORL,IND,15.83,2,8,10,ORL,ORL,reb,0,False,False,Afflalo REBOUND (Off:0 Def:1),,40-37,40,37
 0021700243,2017-11-20,ORL,IND,15.83,2,8,10,IND,ORL,block,5,True,False,block,block,40-37,40,37
+0021700243,2017-11-20,ORL,IND,15.83,2,8,10,ORL,ORL,reb,0,False,False,Afflalo REBOUND (Off:0 Def:1),,40-37,40,37
 0021700243,2017-11-20,ORL,IND,15.9,2,8,6,ORL,ORL,fg_make,52,False,False,Simmons 2' Alley Oop Dunk (4 PTS) (Augustin 2 AST),,42-37,42,37
 0021700243,2017-11-20,ORL,IND,15.9,2,8,6,IND,IND,timeout,1,False,False,,Pacers Timeout: Regular (Reg.1 Short 0),42-37,42,37
 0021700243,2017-11-20,ORL,IND,16.02,2,7,59,IND,IND,fg_make,108,False,False,,Sabonis 2' Cutting Dunk Shot (10 PTS) (Stephenson 3 AST),42-39,42,39
@@ -258,8 +258,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700243,2017-11-20,ORL,IND,26.47,3,9,32,IND,IND,fg_make,5,False,False,,Young 3' Layup (12 PTS),58-55,58,55
 0021700243,2017-11-20,ORL,IND,26.75,3,9,15,ORL,ORL,fg_make,47,False,False,Vucevic 12' Turnaround Jump Shot (16 PTS),,60-55,60,55
 0021700243,2017-11-20,ORL,IND,27.13,3,8,52,IND,IND,fg_miss,6,True,False,,MISS Collison 3' Driving Layup,60-55,60,55
-0021700243,2017-11-20,ORL,IND,27.13,3,8,52,IND,IND,reb,0,False,False,,Pacers Rebound,60-55,60,55
 0021700243,2017-11-20,ORL,IND,27.13,3,8,52,IND,ORL,block,6,True,False,block,block,60-55,60,55
+0021700243,2017-11-20,ORL,IND,27.13,3,8,52,IND,IND,reb,0,False,False,,Pacers Rebound,60-55,60,55
 0021700243,2017-11-20,ORL,IND,27.22,3,8,47,IND,IND,fg3_make,1,False,False,,Bogdanovic 25' 3PT Jump Shot (8 PTS) (Collison 4 AST),60-58,60,58
 0021700243,2017-11-20,ORL,IND,27.47,3,8,32,ORL,ORL,fg3_miss,1,True,False,MISS Ross 24' 3PT Jump Shot,,60-58,60,58
 0021700243,2017-11-20,ORL,IND,27.47,3,8,32,ORL,IND,block,1,True,False,block,block,60-58,60,58
@@ -312,8 +312,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700243,2017-11-20,ORL,IND,31.32,3,4,41,IND,ORL,foul,1,False,False,Vucevic P.FOUL (P3.PN) (K.Mauer),,66-67,66,67
 0021700243,2017-11-20,ORL,IND,31.32,3,4,41,IND,IND,ft_make,11,False,False,,Oladipo Free Throw 1 of 2 (19 PTS),68-68,68,68
 0021700243,2017-11-20,ORL,IND,31.32,3,4,41,IND,IND,ft_make,12,False,False,,Oladipo Free Throw 2 of 2 (20 PTS),68-69,68,69
-0021700243,2017-11-20,ORL,IND,31.33,3,4,40,ORL,ORL,fg_make,97,False,False,Vucevic 1' Tip Layup Shot (23 PTS),,68-67,68,67
 0021700243,2017-11-20,ORL,IND,31.33,3,4,40,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:7 Def:5),,68-69,68,69
+0021700243,2017-11-20,ORL,IND,31.33,3,4,40,ORL,ORL,fg_make,97,False,False,Vucevic 1' Tip Layup Shot (23 PTS),,68-67,68,67
 0021700243,2017-11-20,ORL,IND,31.72,3,4,17,ORL,ORL,fg_miss,79,False,False,MISS Payton 15' Pullup Jump Shot,,68-67,68,67
 0021700243,2017-11-20,ORL,IND,31.8,3,4,12,IND,IND,reb,0,False,False,,Bogdanovic REBOUND (Off:0 Def:6),68-67,68,67
 0021700243,2017-11-20,ORL,IND,31.8,3,4,12,IND,ORL,foul,1,False,False,Payton P.FOUL (P2.PN) (K.Mauer),,68-67,68,67
@@ -324,9 +324,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700243,2017-11-20,ORL,IND,32.03,3,3,58,IND,IND,fg3_make,1,False,False,,Bogdanovic 25' 3PT Jump Shot (15 PTS) (Collison 5 AST),68-74,68,74
 0021700243,2017-11-20,ORL,IND,32.18,3,3,49,ORL,ORL,fg3_miss,79,False,False,MISS Gordon 25' 3PT Pullup Jump Shot,,68-74,68,74
 0021700243,2017-11-20,ORL,IND,32.25,3,3,45,IND,IND,reb,0,False,False,,Oladipo REBOUND (Off:1 Def:4),68-74,68,74
+0021700243,2017-11-20,ORL,IND,32.32,3,3,41,IND,IND,fg_miss,43,False,False,,MISS Young 4' Alley Oop Layup,68-74,68,74
 0021700243,2017-11-20,ORL,IND,32.32,3,3,41,IND,IND,fg_miss,97,False,False,,MISS Oladipo 4' Tip Layup Shot,68-74,68,74
 0021700243,2017-11-20,ORL,IND,32.32,3,3,41,ORL,ORL,reb,0,False,False,Augustin REBOUND (Off:0 Def:2),,68-74,68,74
-0021700243,2017-11-20,ORL,IND,32.32,3,3,41,IND,IND,fg_miss,43,False,False,,MISS Young 4' Alley Oop Layup,68-74,68,74
 0021700243,2017-11-20,ORL,IND,32.38,3,3,37,ORL,ORL,reb,0,False,False,Augustin REBOUND (Off:0 Def:3),,68-74,68,74
 0021700243,2017-11-20,ORL,IND,32.47,3,3,32,ORL,ORL,fg3_miss,1,False,False,MISS Vucevic 25' 3PT Jump Shot,,68-74,68,74
 0021700243,2017-11-20,ORL,IND,32.47,3,3,32,IND,IND,reb,0,False,False,,Oladipo REBOUND (Off:1 Def:5),68-74,68,74

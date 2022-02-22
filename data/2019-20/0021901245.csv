@@ -107,9 +107,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901245,2020-08-02,BOS,POR,11.13,1,0,52,POR,POR,fg_make,72,False,False,,Whiteside 1' Putback Layup (2 PTS),34-24,34,24
 0021901245,2020-08-02,BOS,POR,11.42,1,0,35,BOS,BOS,fg3_make,1,False,False,Tatum 27' 3PT Jump Shot (6 PTS),,37-24,37,24
 0021901245,2020-08-02,BOS,POR,11.58,1,0,25,POR,POR,fg_miss,6,True,False,,MISS Lillard 6' Driving Layup,37-24,37,24
+0021901245,2020-08-02,BOS,POR,11.58,1,0,25,POR,BOS,block,6,True,False,block,block,37-24,37,24
 0021901245,2020-08-02,BOS,POR,11.58,1,0,25,POR,POR,reb,0,False,False,,Trail Blazers Rebound,37-24,37,24
 0021901245,2020-08-02,BOS,POR,11.58,1,0,25,POR,BOS,foul,1,False,False,Tatum P.FOUL (P1.T4) (M.Davis),,37-24,37,24
-0021901245,2020-08-02,BOS,POR,11.58,1,0,25,POR,BOS,block,6,True,False,block,block,37-24,37,24
 0021901245,2020-08-02,BOS,POR,11.7,1,0,18,POR,POR,fg_miss,5,True,False,,MISS Anthony 1' Layup,37-24,37,24
 0021901245,2020-08-02,BOS,POR,11.7,1,0,18,POR,BOS,block,5,True,False,block,block,37-24,37,24
 0021901245,2020-08-02,BOS,POR,11.75,1,0,15,POR,POR,reb,0,False,False,,Hezonja REBOUND (Off:2 Def:0),37-24,37,24
@@ -132,8 +132,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901245,2020-08-02,BOS,POR,13.57,2,10,26,POR,POR,fg_miss,3,False,False,,MISS Nurkic 12' Hook Shot,39-24,39,24
 0021901245,2020-08-02,BOS,POR,13.6,2,10,24,POR,POR,reb,0,False,False,,Anthony REBOUND (Off:1 Def:0),39-24,39,24
 0021901245,2020-08-02,BOS,POR,13.6,2,10,24,POR,POR,fg_miss,5,True,False,,MISS Anthony 1' Layup,39-24,39,24
-0021901245,2020-08-02,BOS,POR,13.6,2,10,24,POR,POR,reb,0,False,False,,Trail Blazers Rebound,39-24,39,24
 0021901245,2020-08-02,BOS,POR,13.6,2,10,24,POR,BOS,block,5,True,False,block,block,39-24,39,24
+0021901245,2020-08-02,BOS,POR,13.6,2,10,24,POR,POR,reb,0,False,False,,Trail Blazers Rebound,39-24,39,24
 0021901245,2020-08-02,BOS,POR,13.7,2,10,18,POR,POR,fg3_miss,80,False,False,,MISS McCollum 26' 3PT Step Back Jump Shot,39-24,39,24
 0021901245,2020-08-02,BOS,POR,13.77,2,10,14,BOS,BOS,reb,0,False,False,Ojeleye REBOUND (Off:0 Def:1),,39-24,39,24
 0021901245,2020-08-02,BOS,POR,13.97,2,10,2,BOS,BOS,fg_miss,63,False,False,MISS Tatum 11' Fadeaway Jumper,,39-24,39,24
@@ -153,8 +153,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901245,2020-08-02,BOS,POR,15.97,2,8,2,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.2 Short 0),47-27,47,27
 0021901245,2020-08-02,BOS,POR,16.12,2,7,53,POR,POR,fg_make,98,False,False,,Nurkic 2' Cutting Layup Shot (8 PTS) (Lillard 6 AST),47-29,47,29
 0021901245,2020-08-02,BOS,POR,16.53,2,7,28,BOS,BOS,tov,2,False,True,Hayward Lost Ball Turnover (P1.T3),,47-29,47,29
-0021901245,2020-08-02,BOS,POR,16.53,2,7,28,POR,BOS,foul,28,False,False,Hayward Personal Take Foul (P1.T1) (S.Twardoski),,47-29,47,29
 0021901245,2020-08-02,BOS,POR,16.53,2,7,28,BOS,POR,steal,2,False,True,steal,steal,47-29,47,29
+0021901245,2020-08-02,BOS,POR,16.53,2,7,28,POR,BOS,foul,28,False,False,Hayward Personal Take Foul (P1.T1) (S.Twardoski),,47-29,47,29
 0021901245,2020-08-02,BOS,POR,16.7,2,7,18,POR,POR,fg_miss,6,True,False,,MISS McCollum 3' Driving Layup,47-29,47,29
 0021901245,2020-08-02,BOS,POR,16.7,2,7,18,POR,BOS,block,6,True,False,block,block,47-29,47,29
 0021901245,2020-08-02,BOS,POR,16.73,2,7,16,BOS,BOS,reb,0,False,False,Hayward REBOUND (Off:0 Def:3),,47-29,47,29
@@ -223,9 +223,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901245,2020-08-02,BOS,POR,23.98,2,0,1,POR,POR,ft_make,11,False,False,,Lillard Free Throw 1 of 2 (7 PTS),67-47,67,47
 0021901245,2020-08-02,BOS,POR,23.98,2,0,1,POR,POR,ft_make,12,False,False,,Lillard Free Throw 2 of 2 (8 PTS),67-48,67,48
 0021901245,2020-08-02,BOS,POR,24.0,2,0,0,BOS,BOS,tov,1,False,True,Smart Bad Pass Turnover (P1.T6),,67-48,67,48
+0021901245,2020-08-02,BOS,POR,24.0,2,0,0,BOS,POR,steal,1,False,True,steal,steal,67-48,67,48
 0021901245,2020-08-02,BOS,POR,24.0,2,0,0,BOS,,period_end,0,False,False,,,67-48,67,48
 0021901245,2020-08-02,BOS,POR,24.0,3,12,0,BOS,,period_start,0,False,False,,,67-48,67,48
-0021901245,2020-08-02,BOS,POR,24.0,2,0,0,BOS,POR,steal,1,False,True,steal,steal,67-48,67,48
 0021901245,2020-08-02,BOS,POR,24.18,3,11,49,BOS,BOS,fg_make,44,False,False,Tatum 1' Reverse Layup (23 PTS) (Theis 2 AST),,69-48,69,48
 0021901245,2020-08-02,BOS,POR,24.48,3,11,31,POR,POR,fg_make,98,False,False,,Anthony 2' Cutting Layup Shot (8 PTS) (McCollum 2 AST),69-50,69,50
 0021901245,2020-08-02,BOS,POR,24.98,3,11,1,BOS,BOS,fg3_miss,80,False,False,MISS Brown 28' 3PT Step Back Jump Shot,,69-50,69,50
@@ -371,8 +371,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901245,2020-08-02,BOS,POR,42.4,4,5,36,POR,POR,ft_miss,11,False,False,,MISS Whiteside Free Throw 1 of 2,109-108,109,108
 0021901245,2020-08-02,BOS,POR,42.4,4,5,36,POR,POR,reb,1,False,False,,Trail Blazers Rebound,109-108,109,108
 0021901245,2020-08-02,BOS,POR,42.4,4,5,36,POR,POR,ft_make,12,False,False,,Whiteside Free Throw 2 of 2 (5 PTS),109-109,109,109
-0021901245,2020-08-02,BOS,POR,42.68,4,5,19,BOS,BOS,tov,2,False,True,Hayward Lost Ball Turnover (P4.T12),,109-109,109,109
 0021901245,2020-08-02,BOS,POR,42.68,4,5,19,POR,POR,timeout,7,False,False,,Trail Blazers Timeout: Coach Challenge (Reg.4 Short 0),109-109,109,109
+0021901245,2020-08-02,BOS,POR,42.68,4,5,19,BOS,BOS,tov,2,False,True,Hayward Lost Ball Turnover (P4.T12),,109-109,109,109
 0021901245,2020-08-02,BOS,POR,42.68,4,5,19,BOS,POR,steal,2,False,True,steal,steal,109-109,109,109
 0021901245,2020-08-02,BOS,POR,42.77,4,5,14,,BOS,jump_ball,1,False,False,Jump Ball (CC) Brown vs. Nurkic: Tip to Lillard,,109-109,109,109
 0021901245,2020-08-02,BOS,POR,43.03,4,4,58,POR,POR,fg_miss,6,False,False,,MISS Nurkic 3' Driving Layup,109-109,109,109

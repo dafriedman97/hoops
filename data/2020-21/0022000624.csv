@@ -99,10 +99,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000624,2021-03-17,DEN,CHA,11.58,1,0,25,DEN,DEN,fg3_miss,1,False,False,MISS Campazzo 26' 3PT Jump Shot,,26-25,26,25
 0022000624,2021-03-17,DEN,CHA,11.63,1,0,22,CHA,CHA,reb,0,False,False,,Monk REBOUND (Off:0 Def:1),26-25,26,25
 0022000624,2021-03-17,DEN,CHA,12.0,1,0,0,CHA,CHA,fg_miss,63,True,False,,MISS Graham 17' Fadeaway Jumper,26-25,26,25
+0022000624,2021-03-17,DEN,CHA,12.0,1,0,0,CHA,DEN,block,63,True,False,block,block,26-25,26,25
 0022000624,2021-03-17,DEN,CHA,12.0,1,0,0,CHA,CHA,reb,0,False,False,,Hornets Rebound,26-25,26,25
 0022000624,2021-03-17,DEN,CHA,12.0,1,0,0,CHA,,period_end,0,False,False,,,26-25,26,25
 0022000624,2021-03-17,DEN,CHA,12.0,2,12,0,CHA,,period_start,0,False,False,,,26-25,26,25
-0022000624,2021-03-17,DEN,CHA,12.0,1,0,0,CHA,DEN,block,63,True,False,block,block,26-25,26,25
 0022000624,2021-03-17,DEN,CHA,12.25,2,11,45,DEN,DEN,tov,1,False,True,Campazzo Bad Pass Turnover (P1.T6),,26-25,26,25
 0022000624,2021-03-17,DEN,CHA,12.25,2,11,45,DEN,CHA,steal,1,False,True,steal,steal,26-25,26,25
 0022000624,2021-03-17,DEN,CHA,12.55,2,11,27,CHA,CHA,fg_miss,80,False,False,,MISS Monk 22' Step Back Jump Shot,26-25,26,25
@@ -412,8 +412,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000624,2021-03-17,DEN,CHA,46.67,4,1,20,DEN,DEN,reb,0,False,False,Bol REBOUND (Off:0 Def:1),,127-102,127,102
 0022000624,2021-03-17,DEN,CHA,46.78,4,1,13,DEN,DEN,fg_make,9,False,False,Bol 1' Driving Dunk (5 PTS),,129-102,129,102
 0022000624,2021-03-17,DEN,CHA,46.98,4,1,1,CHA,CHA,fg_miss,6,True,False,,MISS McDaniels 3' Driving Layup,129-102,129,102
-0022000624,2021-03-17,DEN,CHA,46.98,4,1,1,DEN,DEN,reb,0,False,False,Howard REBOUND (Off:0 Def:1),,129-102,129,102
 0022000624,2021-03-17,DEN,CHA,46.98,4,1,1,CHA,DEN,block,6,True,False,block,block,129-102,129,102
+0022000624,2021-03-17,DEN,CHA,46.98,4,1,1,DEN,DEN,reb,0,False,False,Howard REBOUND (Off:0 Def:1),,129-102,129,102
 0022000624,2021-03-17,DEN,CHA,47.15,4,0,51,DEN,DEN,fg3_miss,1,False,False,MISS Bol 26' 3PT Jump Shot,,129-102,129,102
 0022000624,2021-03-17,DEN,CHA,47.18,4,0,49,CHA,CHA,reb,0,False,False,,Richards REBOUND (Off:0 Def:1),129-102,129,102
 0022000624,2021-03-17,DEN,CHA,47.3,4,0,42,CHA,CHA,fg3_miss,1,False,False,,MISS Martin 3PT Jump Shot,129-102,129,102

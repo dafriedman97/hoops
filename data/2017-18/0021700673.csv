@@ -40,13 +40,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700673,2018-01-19,LAL,IND,4.4,1,7,36,LAL,LAL,reb,0,False,False,Brewer REBOUND (Off:0 Def:1),,6-6,6,6
 0021700673,2018-01-19,LAL,IND,4.72,1,7,17,LAL,LAL,fg_miss,1,True,False,MISS Randle 7' Jump Shot,,6-6,6,6
 0021700673,2018-01-19,LAL,IND,4.72,1,7,17,LAL,IND,block,1,True,False,block,block,6-6,6,6
-0021700673,2018-01-19,LAL,IND,4.73,1,7,16,LAL,LAL,reb,0,False,False,Brewer REBOUND (Off:1 Def:1),,6-6,6,6
 0021700673,2018-01-19,LAL,IND,4.73,1,7,16,LAL,LAL,fg3_miss,1,False,False,MISS Brewer 26' 3PT Jump Shot,,6-6,6,6
+0021700673,2018-01-19,LAL,IND,4.73,1,7,16,LAL,LAL,reb,0,False,False,Brewer REBOUND (Off:1 Def:1),,6-6,6,6
 0021700673,2018-01-19,LAL,IND,4.75,1,7,15,LAL,LAL,reb,0,False,False,LAKERS Rebound,,6-6,6,6
 0021700673,2018-01-19,LAL,IND,4.75,1,7,15,LAL,LAL,tov,11,False,False,LAKERS Turnover: Shot Clock (T#1),,6-6,6,6
 0021700673,2018-01-19,LAL,IND,4.98,1,7,1,IND,IND,fg_miss,1,True,False,,MISS Young 8' Jump Shot,6-6,6,6
-0021700673,2018-01-19,LAL,IND,4.98,1,7,1,LAL,LAL,reb,0,False,False,Brewer REBOUND (Off:1 Def:2),,6-6,6,6
 0021700673,2018-01-19,LAL,IND,4.98,1,7,1,IND,LAL,block,1,True,False,block,block,6-6,6,6
+0021700673,2018-01-19,LAL,IND,4.98,1,7,1,LAL,LAL,reb,0,False,False,Brewer REBOUND (Off:1 Def:2),,6-6,6,6
 0021700673,2018-01-19,LAL,IND,5.12,1,6,53,LAL,LAL,fg_make,44,False,False,Ennis 2' Reverse Layup (4 PTS),,8-6,8,6
 0021700673,2018-01-19,LAL,IND,5.4,1,6,36,IND,IND,fg_miss,79,False,False,,MISS Collison 14' Pullup Jump Shot,8-6,8,6
 0021700673,2018-01-19,LAL,IND,5.4,1,6,36,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:1 Def:3),8-6,8,6
@@ -153,8 +153,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700673,2018-01-19,LAL,IND,16.82,2,7,11,LAL,LAL,fg3_miss,1,False,False,MISS Clarkson 26' 3PT Jump Shot,,30-27,30,27
 0021700673,2018-01-19,LAL,IND,16.88,2,7,7,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:2 Def:6),30-27,30,27
 0021700673,2018-01-19,LAL,IND,17.12,2,6,53,IND,IND,tov,1,False,True,,Collison Bad Pass Turnover (P2.T4),30-27,30,27
-0021700673,2018-01-19,LAL,IND,17.12,2,6,53,LAL,IND,foul,1,False,False,,Joseph P.FOUL (P1.T1) (M.Callahan),30-27,30,27
 0021700673,2018-01-19,LAL,IND,17.12,2,6,53,IND,LAL,steal,1,False,True,steal,steal,30-27,30,27
+0021700673,2018-01-19,LAL,IND,17.12,2,6,53,LAL,IND,foul,1,False,False,,Joseph P.FOUL (P1.T1) (M.Callahan),30-27,30,27
 0021700673,2018-01-19,LAL,IND,17.2,2,6,48,LAL,LAL,fg_miss,1,False,False,MISS Lopez 19' Jump Shot,,30-27,30,27
 0021700673,2018-01-19,LAL,IND,17.2,2,6,48,IND,IND,reb,0,False,False,,Pacers Rebound,30-27,30,27
 0021700673,2018-01-19,LAL,IND,17.42,2,6,35,IND,IND,fg3_miss,1,False,False,,MISS Bogdanovic 26' 3PT Jump Shot,30-27,30,27
@@ -401,8 +401,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700673,2018-01-19,LAL,IND,45.0,4,3,0,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:0 Def:5),,89-82,89,82
 0021700673,2018-01-19,LAL,IND,45.3,4,2,42,LAL,LAL,fg3_make,80,False,False,Kuzma 27' 3PT Step Back Jump Shot (13 PTS),,92-82,92,82
 0021700673,2018-01-19,LAL,IND,45.58,4,2,25,IND,IND,fg_miss,5,True,False,,MISS Oladipo 4' Layup,92-82,92,82
-0021700673,2018-01-19,LAL,IND,45.58,4,2,25,IND,IND,reb,0,False,False,,Pacers Rebound,92-82,92,82
 0021700673,2018-01-19,LAL,IND,45.58,4,2,25,IND,LAL,block,5,True,False,block,block,92-82,92,82
+0021700673,2018-01-19,LAL,IND,45.58,4,2,25,IND,IND,reb,0,False,False,,Pacers Rebound,92-82,92,82
 0021700673,2018-01-19,LAL,IND,45.78,4,2,13,IND,IND,fg3_miss,1,False,False,,MISS Oladipo 28' 3PT Jump Shot,92-82,92,82
 0021700673,2018-01-19,LAL,IND,45.83,4,2,10,LAL,LAL,reb,0,False,False,Nance Jr. REBOUND (Off:3 Def:7),,92-82,92,82
 0021700673,2018-01-19,LAL,IND,46.12,4,1,53,LAL,LAL,fg3_make,79,False,False,Clarkson 27' 3PT Pullup Jump Shot (31 PTS),,95-82,95,82

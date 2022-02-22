@@ -60,8 +60,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700114,2017-11-01,DEN,TOR,7.17,1,4,50,DEN,DEN,reb,0,False,False,Barton REBOUND (Off:0 Def:2),,24-12,24,12
 0021700114,2017-11-01,DEN,TOR,7.25,1,4,45,DEN,TOR,foul,1,False,False,,Siakam P.FOUL (P1.T3) (L.Richardson),24-12,24,12
 0021700114,2017-11-01,DEN,TOR,7.37,1,4,38,DEN,DEN,fg_miss,5,True,False,MISS Millsap 8' Layup,,24-12,24,12
-0021700114,2017-11-01,DEN,TOR,7.37,1,4,38,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,24-12,24,12
 0021700114,2017-11-01,DEN,TOR,7.37,1,4,38,DEN,TOR,block,5,True,False,block,block,24-12,24,12
+0021700114,2017-11-01,DEN,TOR,7.37,1,4,38,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,24-12,24,12
 0021700114,2017-11-01,DEN,TOR,7.5,1,4,30,DEN,DEN,fg_miss,80,False,False,MISS Plumlee 17' Step Back Jump Shot,,24-12,24,12
 0021700114,2017-11-01,DEN,TOR,7.57,1,4,26,TOR,TOR,reb,0,False,False,,Lowry REBOUND (Off:1 Def:1),24-12,24,12
 0021700114,2017-11-01,DEN,TOR,7.7,1,4,18,TOR,TOR,fg_make,44,False,False,,Lowry 2' Reverse Layup (6 PTS),24-14,24,14
@@ -240,8 +240,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700114,2017-11-01,DEN,TOR,27.68,3,8,19,TOR,TOR,fg3_make,1,False,False,,Powell 26' 3PT Jump Shot (8 PTS) (Lowry 4 AST),69-54,69,54
 0021700114,2017-11-01,DEN,TOR,28.0,3,8,0,DEN,DEN,fg3_make,1,False,False,Murray 25' 3PT Jump Shot (15 PTS),,72-54,72,54
 0021700114,2017-11-01,DEN,TOR,28.23,3,7,46,TOR,TOR,tov,1,False,True,,Lowry Bad Pass Turnover (P1.T6),72-54,72,54
-0021700114,2017-11-01,DEN,TOR,28.23,3,7,46,DEN,TOR,foul,1,False,False,,Powell P.FOUL (P2.T3) (L.Richardson),72-54,72,54
 0021700114,2017-11-01,DEN,TOR,28.23,3,7,46,TOR,DEN,steal,1,False,True,steal,steal,72-54,72,54
+0021700114,2017-11-01,DEN,TOR,28.23,3,7,46,DEN,TOR,foul,1,False,False,,Powell P.FOUL (P2.T3) (L.Richardson),72-54,72,54
 0021700114,2017-11-01,DEN,TOR,28.48,3,7,31,DEN,DEN,fg_make,41,False,False,Chandler 6' Running Layup (6 PTS) (Jokic 10 AST),,74-54,74,54
 0021700114,2017-11-01,DEN,TOR,28.83,3,7,10,TOR,TOR,fg_make,1,False,False,,Ibaka 10' Jump Shot (11 PTS) (DeRozan 2 AST),74-56,74,56
 0021700114,2017-11-01,DEN,TOR,29.05,3,6,57,DEN,DEN,fg_make,6,False,False,Chandler 5' Driving Layup (8 PTS),,76-56,76,56
@@ -334,11 +334,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700114,2017-11-01,DEN,TOR,37.27,4,10,44,DEN,DEN,fg3_miss,1,False,False,MISS Chandler 3PT Jump Shot,,103-73,103,73
 0021700114,2017-11-01,DEN,TOR,37.32,4,10,41,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:1 Def:5),103-73,103,73
 0021700114,2017-11-01,DEN,TOR,37.53,4,10,28,TOR,TOR,tov,1,False,True,,Wright Bad Pass Turnover (P2.T12),103-73,103,73
-0021700114,2017-11-01,DEN,TOR,37.53,4,10,28,DEN,TOR,foul,1,False,False,,Anunoby P.FOUL (P1.T1) (D.Taylor),103-73,103,73
 0021700114,2017-11-01,DEN,TOR,37.53,4,10,28,TOR,DEN,steal,1,False,True,steal,steal,103-73,103,73
-0021700114,2017-11-01,DEN,TOR,37.53,4,10,28,DEN,DEN,ft_make,12,False,False,Mudiay Free Throw 2 of 2 (9 PTS),,104-73,104,73
+0021700114,2017-11-01,DEN,TOR,37.53,4,10,28,DEN,TOR,foul,1,False,False,,Anunoby P.FOUL (P1.T1) (D.Taylor),103-73,103,73
 0021700114,2017-11-01,DEN,TOR,37.53,4,10,28,DEN,DEN,ft_miss,11,False,False,MISS Mudiay Free Throw 1 of 2,,104-73,104,73
 0021700114,2017-11-01,DEN,TOR,37.53,4,10,28,DEN,DEN,reb,1,False,False,NUGGETS Rebound,,104-73,104,73
+0021700114,2017-11-01,DEN,TOR,37.53,4,10,28,DEN,DEN,ft_make,12,False,False,Mudiay Free Throw 2 of 2 (9 PTS),,104-73,104,73
 0021700114,2017-11-01,DEN,TOR,37.78,4,10,13,DEN,DEN,fg_make,1,False,False,Jokic 22' Jump Shot (6 PTS) (Mudiay 4 AST),,106-73,106,73
 0021700114,2017-11-01,DEN,TOR,37.95,4,10,3,TOR,TOR,fg3_miss,1,False,False,,MISS VanVleet 25' 3PT Jump Shot,106-73,106,73
 0021700114,2017-11-01,DEN,TOR,37.95,4,10,3,DEN,DEN,reb,0,False,False,Mudiay REBOUND (Off:1 Def:2),,106-73,106,73
@@ -385,11 +385,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700114,2017-11-01,DEN,TOR,42.68,4,5,19,TOR,DEN,foul,2,False,False,Mudiay S.FOUL (P2.T3) (L.Richardson),,118-86,118,86
 0021700114,2017-11-01,DEN,TOR,42.68,4,5,19,TOR,TOR,ft_make,10,False,False,,Wright Free Throw 1 of 1 (9 PTS),118-87,118,87
 0021700114,2017-11-01,DEN,TOR,42.97,4,5,2,DEN,DEN,fg_miss,6,True,False,MISS Beasley 7' Driving Layup,,118-87,118,87
-0021700114,2017-11-01,DEN,TOR,42.97,4,5,2,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,118-87,118,87
 0021700114,2017-11-01,DEN,TOR,42.97,4,5,2,DEN,TOR,block,6,True,False,block,block,118-87,118,87
+0021700114,2017-11-01,DEN,TOR,42.97,4,5,2,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,118-87,118,87
 0021700114,2017-11-01,DEN,TOR,43.07,4,4,56,DEN,DEN,fg_miss,5,False,False,MISS Barton 5' Layup,,118-87,118,87
-0021700114,2017-11-01,DEN,TOR,43.07,4,4,56,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,118-87,118,87
 0021700114,2017-11-01,DEN,TOR,43.07,4,4,56,DEN,TOR,foul,2,False,False,,McKinnie S.FOUL (P1.T3) (T.Washington),118-87,118,87
+0021700114,2017-11-01,DEN,TOR,43.07,4,4,56,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,118-87,118,87
 0021700114,2017-11-01,DEN,TOR,43.07,4,4,56,DEN,DEN,ft_miss,11,False,False,MISS Barton Free Throw 1 of 2,,118-87,118,87
 0021700114,2017-11-01,DEN,TOR,43.07,4,4,56,DEN,DEN,reb,1,False,False,NUGGETS Rebound,,118-87,118,87
 0021700114,2017-11-01,DEN,TOR,43.07,4,4,56,DEN,DEN,ft_make,12,False,False,Barton Free Throw 2 of 2 (13 PTS),,119-87,119,87

@@ -131,9 +131,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700914,2018-02-28,ORL,TOR,17.88,2,6,7,TOR,TOR,ft_make,11,False,False,,Poeltl Free Throw 1 of 2 (10 PTS),53-55,53,55
 0021700914,2018-02-28,ORL,TOR,17.88,2,6,7,TOR,TOR,ft_make,12,False,False,,Poeltl Free Throw 2 of 2 (11 PTS),53-56,53,56
 0021700914,2018-02-28,ORL,TOR,18.15,2,5,51,ORL,ORL,fg_miss,2,True,False,MISS Iwundu 7' Running Jump Shot,,53-56,53,56
+0021700914,2018-02-28,ORL,TOR,18.15,2,5,51,ORL,TOR,block,2,True,False,block,block,53-56,53,56
 0021700914,2018-02-28,ORL,TOR,18.15,2,5,51,ORL,ORL,reb,0,False,False,Biyombo REBOUND (Off:1 Def:6),,53-56,53,56
 0021700914,2018-02-28,ORL,TOR,18.15,2,5,51,ORL,TOR,foul,2,False,False,,VanVleet S.FOUL (P1.T3) (B.Nansel),53-56,53,56
-0021700914,2018-02-28,ORL,TOR,18.15,2,5,51,ORL,TOR,block,2,True,False,block,block,53-56,53,56
 0021700914,2018-02-28,ORL,TOR,18.15,2,5,51,ORL,ORL,ft_make,11,False,False,Biyombo Free Throw 1 of 2 (5 PTS),,54-56,54,56
 0021700914,2018-02-28,ORL,TOR,18.15,2,5,51,ORL,ORL,ft_make,12,False,False,Biyombo Free Throw 2 of 2 (6 PTS),,55-56,55,56
 0021700914,2018-02-28,ORL,TOR,18.5,2,5,30,TOR,TOR,fg_make,1,False,False,,Ibaka 17' Jump Shot (2 PTS) (Lowry 4 AST),55-58,55,58
@@ -151,8 +151,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700914,2018-02-28,ORL,TOR,19.8,2,4,12,TOR,TOR,fg_make,5,False,False,,Valanciunas 2' Layup (7 PTS) (Lowry 5 AST),57-60,57,60
 0021700914,2018-02-28,ORL,TOR,20.05,2,3,57,ORL,ORL,fg_make,93,False,False,Simmons 5' Driving Bank Hook Shot (4 PTS) (Vucevic 2 AST),,59-60,59,60
 0021700914,2018-02-28,ORL,TOR,20.13,2,3,52,TOR,ORL,foul,2,False,False,Vaughn S.FOUL (P1.PN) (J.Tiven),,59-60,59,60
-0021700914,2018-02-28,ORL,TOR,20.13,2,3,52,TOR,TOR,fg_make,6,False,False,,Anunoby 1' Driving Layup (7 PTS) (Lowry 6 AST),59-62,59,62
 0021700914,2018-02-28,ORL,TOR,20.13,2,3,52,TOR,TOR,ft_miss,10,False,False,,MISS Anunoby Free Throw 1 of 1,59-62,59,62
+0021700914,2018-02-28,ORL,TOR,20.13,2,3,52,TOR,TOR,fg_make,6,False,False,,Anunoby 1' Driving Layup (7 PTS) (Lowry 6 AST),59-62,59,62
 0021700914,2018-02-28,ORL,TOR,20.23,2,3,46,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:0 Def:1),,59-62,59,62
 0021700914,2018-02-28,ORL,TOR,20.35,2,3,39,ORL,ORL,fg3_miss,1,False,False,MISS Vucevic 25' 3PT Jump Shot,,59-62,59,62
 0021700914,2018-02-28,ORL,TOR,20.4,2,3,36,TOR,TOR,reb,0,False,False,,Valanciunas REBOUND (Off:0 Def:2),59-62,59,62
@@ -164,8 +164,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700914,2018-02-28,ORL,TOR,21.27,2,2,44,ORL,ORL,reb,0,False,False,Augustin REBOUND (Off:0 Def:2),,59-64,59,64
 0021700914,2018-02-28,ORL,TOR,21.33,2,2,40,ORL,ORL,fg_make,78,False,False,Simmons 11' Floating Jump Shot (6 PTS) (Augustin 3 AST),,61-64,61,64
 0021700914,2018-02-28,ORL,TOR,21.72,2,2,17,TOR,TOR,fg_miss,79,True,False,,MISS Ibaka 8' Pullup Jump Shot,61-64,61,64
-0021700914,2018-02-28,ORL,TOR,21.72,2,2,17,TOR,TOR,reb,0,False,False,,Raptors Rebound,61-64,61,64
 0021700914,2018-02-28,ORL,TOR,21.72,2,2,17,TOR,ORL,block,79,True,False,block,block,61-64,61,64
+0021700914,2018-02-28,ORL,TOR,21.72,2,2,17,TOR,TOR,reb,0,False,False,,Raptors Rebound,61-64,61,64
 0021700914,2018-02-28,ORL,TOR,21.77,2,2,14,TOR,TOR,fg_miss,79,False,False,,MISS DeRozan 15' Pullup Jump Shot,61-64,61,64
 0021700914,2018-02-28,ORL,TOR,21.77,2,2,14,ORL,ORL,reb,0,False,False,Simmons REBOUND (Off:0 Def:1),,61-64,61,64
 0021700914,2018-02-28,ORL,TOR,22.1,2,1,54,ORL,ORL,fg3_miss,1,False,False,MISS Fournier 26' 3PT Jump Shot,,61-64,61,64
@@ -392,8 +392,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700914,2018-02-28,ORL,TOR,44.65,4,3,21,TOR,TOR,reb,0,False,False,,VanVleet REBOUND (Off:0 Def:3),98-108,98,108
 0021700914,2018-02-28,ORL,TOR,44.7,4,3,18,TOR,TOR,fg_make,41,False,False,,Siakam Running Layup (12 PTS) (VanVleet 3 AST),98-110,98,110
 0021700914,2018-02-28,ORL,TOR,44.88,4,3,7,ORL,ORL,fg_miss,47,True,False,MISS Simmons 4' Turnaround Jump Shot,,98-110,98,110
-0021700914,2018-02-28,ORL,TOR,44.88,4,3,7,ORL,ORL,reb,0,False,False,MAGIC Rebound,,98-110,98,110
 0021700914,2018-02-28,ORL,TOR,44.88,4,3,7,ORL,TOR,block,47,True,False,block,block,98-110,98,110
+0021700914,2018-02-28,ORL,TOR,44.88,4,3,7,ORL,ORL,reb,0,False,False,MAGIC Rebound,,98-110,98,110
 0021700914,2018-02-28,ORL,TOR,45.03,4,2,58,ORL,ORL,fg3_miss,1,False,False,MISS Augustin 26' 3PT Jump Shot,,98-110,98,110
 0021700914,2018-02-28,ORL,TOR,45.08,4,2,55,TOR,TOR,reb,0,False,False,,Poeltl REBOUND (Off:1 Def:6),98-110,98,110
 0021700914,2018-02-28,ORL,TOR,45.4,4,2,36,TOR,TOR,fg_miss,6,False,False,,MISS VanVleet 2' Driving Layup,98-110,98,110

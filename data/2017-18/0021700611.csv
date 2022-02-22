@@ -84,9 +84,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700611,2018-01-10,MIN,OKC,9.3,1,2,42,MIN,MIN,fg_miss,6,False,False,MISS Wiggins 1' Driving Layup,,17-18,17,18
 0021700611,2018-01-10,MIN,OKC,9.33,1,2,40,OKC,OKC,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:4),17-18,17,18
 0021700611,2018-01-10,MIN,OKC,9.4,1,2,36,OKC,OKC,fg_miss,5,True,False,,MISS Ferguson 2' Layup,17-18,17,18
+0021700611,2018-01-10,MIN,OKC,9.4,1,2,36,OKC,MIN,block,5,True,False,block,block,17-18,17,18
 0021700611,2018-01-10,MIN,OKC,9.4,1,2,36,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,17-18,17,18
 0021700611,2018-01-10,MIN,OKC,9.4,1,2,36,MIN,MIN,timeout,1,False,False,TIMBERWOLVES Timeout: Regular (Full 1 Short 0),,17-18,17,18
-0021700611,2018-01-10,MIN,OKC,9.4,1,2,36,OKC,MIN,block,5,True,False,block,block,17-18,17,18
 0021700611,2018-01-10,MIN,OKC,9.68,1,2,19,MIN,MIN,tov,2,False,True,Dieng Lost Ball Turnover (P1.T3),,17-18,17,18
 0021700611,2018-01-10,MIN,OKC,9.68,1,2,19,MIN,OKC,steal,2,False,True,steal,steal,17-18,17,18
 0021700611,2018-01-10,MIN,OKC,9.98,1,2,1,OKC,OKC,fg3_miss,1,False,False,,MISS Grant 3PT Jump Shot,17-18,17,18
@@ -338,14 +338,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700611,2018-01-10,MIN,OKC,37.42,4,10,35,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,78-69,78,69
 0021700611,2018-01-10,MIN,OKC,37.57,4,10,26,MIN,MIN,fg_make,78,False,False,Crawford 12' Floating Jump Shot (8 PTS) (Jones 1 AST),,80-69,80,69
 0021700611,2018-01-10,MIN,OKC,38.03,4,9,58,OKC,OKC,fg_miss,5,True,False,,MISS Huestis 4' Layup,80-69,80,69
+0021700611,2018-01-10,MIN,OKC,38.03,4,9,58,OKC,MIN,block,5,True,False,block,block,80-69,80,69
 0021700611,2018-01-10,MIN,OKC,38.03,4,9,58,OKC,OKC,reb,0,False,False,,Thunder Rebound,80-69,80,69
 0021700611,2018-01-10,MIN,OKC,38.03,4,9,58,OKC,OKC,tov,11,False,False,,Thunder Turnover: Shot Clock (T#14),80-69,80,69
-0021700611,2018-01-10,MIN,OKC,38.03,4,9,58,OKC,MIN,block,5,True,False,block,block,80-69,80,69
 0021700611,2018-01-10,MIN,OKC,38.2,4,9,48,MIN,MIN,fg_miss,5,False,False,MISS Dieng 3' Layup,,80-69,80,69
 0021700611,2018-01-10,MIN,OKC,38.23,4,9,46,OKC,OKC,reb,0,False,False,,Huestis REBOUND (Off:1 Def:2),80-69,80,69
 0021700611,2018-01-10,MIN,OKC,38.38,4,9,37,OKC,OKC,tov,2,False,True,,Felton Lost Ball Turnover (P4.T15),80-69,80,69
-0021700611,2018-01-10,MIN,OKC,38.38,4,9,37,MIN,MIN,timeout,1,False,False,TIMBERWOLVES Timeout: Regular (Full 3 Short 0),,80-69,80,69
 0021700611,2018-01-10,MIN,OKC,38.38,4,9,37,OKC,MIN,steal,2,False,True,steal,steal,80-69,80,69
+0021700611,2018-01-10,MIN,OKC,38.38,4,9,37,MIN,MIN,timeout,1,False,False,TIMBERWOLVES Timeout: Regular (Full 3 Short 0),,80-69,80,69
 0021700611,2018-01-10,MIN,OKC,38.67,4,9,20,MIN,MIN,fg_miss,1,False,False,MISS Crawford 21' Jump Shot,,80-69,80,69
 0021700611,2018-01-10,MIN,OKC,38.72,4,9,17,OKC,OKC,reb,0,False,False,,Patterson REBOUND (Off:0 Def:4),80-69,80,69
 0021700611,2018-01-10,MIN,OKC,38.9,4,9,6,OKC,OKC,fg_make,6,False,False,,Westbrook Driving Layup (29 PTS),80-71,80,71
@@ -353,8 +353,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700611,2018-01-10,MIN,OKC,39.32,4,8,41,OKC,OKC,tov,1,False,True,,Westbrook Bad Pass Turnover (P2.T16),80-71,80,71
 0021700611,2018-01-10,MIN,OKC,39.32,4,8,41,OKC,MIN,steal,1,False,True,steal,steal,80-71,80,71
 0021700611,2018-01-10,MIN,OKC,39.38,4,8,37,MIN,MIN,fg_miss,6,True,False,MISS Jones 4' Driving Layup,,80-71,80,71
-0021700611,2018-01-10,MIN,OKC,39.38,4,8,37,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,80-71,80,71
 0021700611,2018-01-10,MIN,OKC,39.38,4,8,37,MIN,OKC,block,6,True,False,block,block,80-71,80,71
+0021700611,2018-01-10,MIN,OKC,39.38,4,8,37,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,80-71,80,71
 0021700611,2018-01-10,MIN,OKC,39.43,4,8,34,MIN,MIN,fg3_make,1,False,False,Towns 26' 3PT Jump Shot (14 PTS) (Crawford 3 AST),,83-71,83,71
 0021700611,2018-01-10,MIN,OKC,39.68,4,8,19,OKC,OKC,fg_miss,1,False,False,,MISS Felton 12' Jump Shot,83-71,83,71
 0021700611,2018-01-10,MIN,OKC,39.73,4,8,16,MIN,MIN,reb,0,False,False,Towns REBOUND (Off:2 Def:8),,83-71,83,71
@@ -381,8 +381,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700611,2018-01-10,MIN,OKC,42.43,4,5,34,MIN,MIN,fg_make,80,False,False,Butler 18' Step Back Jump Shot (18 PTS),,90-77,90,77
 0021700611,2018-01-10,MIN,OKC,42.88,4,5,7,OKC,OKC,fg3_make,1,False,False,,George 3PT Jump Shot (13 PTS) (Felton 1 AST),90-80,90,80
 0021700611,2018-01-10,MIN,OKC,43.32,4,4,41,MIN,MIN,tov,1,False,True,Butler Bad Pass Turnover (P4.T12),,90-80,90,80
-0021700611,2018-01-10,MIN,OKC,43.32,4,4,41,OKC,MIN,foul,1,False,False,Jones P.FOUL (P1.T2) (M.Ayotte),,90-80,90,80
 0021700611,2018-01-10,MIN,OKC,43.32,4,4,41,MIN,OKC,steal,1,False,True,steal,steal,90-80,90,80
+0021700611,2018-01-10,MIN,OKC,43.32,4,4,41,OKC,MIN,foul,1,False,False,Jones P.FOUL (P1.T2) (M.Ayotte),,90-80,90,80
 0021700611,2018-01-10,MIN,OKC,43.4,4,4,36,OKC,OKC,tov,2,False,False,,Westbrook Lost Ball Turnover (P3.T17),90-80,90,80
 0021700611,2018-01-10,MIN,OKC,43.77,4,4,14,MIN,OKC,foul,2,False,False,,George S.FOUL (P4.T1) (S.Wright),90-80,90,80
 0021700611,2018-01-10,MIN,OKC,43.77,4,4,14,MIN,MIN,ft_make,11,False,False,Butler Free Throw 1 of 2 (19 PTS),,91-80,91,80
@@ -406,8 +406,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700611,2018-01-10,MIN,OKC,44.93,4,3,4,MIN,MIN,timeout,1,False,False,TIMBERWOLVES Timeout: Regular (Full 4 Short 0),,96-83,96,83
 0021700611,2018-01-10,MIN,OKC,45.03,4,2,58,MIN,MIN,fg_make,1,False,False,Towns 21' Jump Shot (18 PTS) (Teague 3 AST),,98-83,98,83
 0021700611,2018-01-10,MIN,OKC,45.22,4,2,47,OKC,OKC,tov,1,False,True,,Westbrook Bad Pass Turnover (P4.T19),98-83,98,83
-0021700611,2018-01-10,MIN,OKC,45.22,4,2,47,MIN,OKC,foul,9,False,False,,George C.P.FOUL (P5.T3) (M.Ayotte),98-83,98,83
 0021700611,2018-01-10,MIN,OKC,45.22,4,2,47,OKC,MIN,steal,1,False,True,steal,steal,98-83,98,83
+0021700611,2018-01-10,MIN,OKC,45.22,4,2,47,MIN,OKC,foul,9,False,False,,George C.P.FOUL (P5.T3) (M.Ayotte),98-83,98,83
 0021700611,2018-01-10,MIN,OKC,45.22,4,2,47,MIN,MIN,ft_make,25,False,False,Butler Free Throw Clear Path 1 of 2 (23 PTS),,99-83,99,83
 0021700611,2018-01-10,MIN,OKC,45.22,4,2,47,MIN,MIN,ft_miss,26,False,False,MISS Butler Free Throw Clear Path 2 of 2,,99-83,99,83
 0021700611,2018-01-10,MIN,OKC,45.22,4,2,47,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,99-83,99,83

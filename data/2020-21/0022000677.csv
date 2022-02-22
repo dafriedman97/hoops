@@ -36,8 +36,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000677,2021-03-24,SAC,ATL,3.77,1,8,14,SAC,SAC,fg_miss,78,False,False,MISS Fox 9' Floating Jump Shot,,10-7,10,7
 0022000677,2021-03-24,SAC,ATL,3.83,1,8,10,ATL,ATL,reb,0,False,False,,Capela REBOUND (Off:2 Def:2),10-7,10,7
 0022000677,2021-03-24,SAC,ATL,4.07,1,7,56,ATL,ATL,fg_miss,3,True,False,,MISS Capela 6' Hook Shot,10-7,10,7
-0022000677,2021-03-24,SAC,ATL,4.07,1,7,56,SAC,SAC,reb,0,False,False,KINGS Rebound,,10-7,10,7
 0022000677,2021-03-24,SAC,ATL,4.07,1,7,56,ATL,SAC,block,3,True,False,block,block,10-7,10,7
+0022000677,2021-03-24,SAC,ATL,4.07,1,7,56,SAC,SAC,reb,0,False,False,KINGS Rebound,,10-7,10,7
 0022000677,2021-03-24,SAC,ATL,4.32,1,7,41,SAC,SAC,fg3_miss,1,False,False,MISS Hield 28' 3PT Jump Shot,,10-7,10,7
 0022000677,2021-03-24,SAC,ATL,4.38,1,7,37,ATL,ATL,reb,0,False,False,,Young REBOUND (Off:0 Def:1),10-7,10,7
 0022000677,2021-03-24,SAC,ATL,4.52,1,7,29,ATL,ATL,fg_make,7,False,False,,Capela 2' Dunk (3 PTS) (Young 1 AST),10-9,10,9
@@ -101,9 +101,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000677,2021-03-24,SAC,ATL,11.48,1,0,31,ATL,ATL,fg_make,63,False,False,,Bogdanovic 10' Fadeaway Jumper (7 PTS),29-27,29,27
 0022000677,2021-03-24,SAC,ATL,11.77,1,0,14,SAC,SAC,tov,4,False,False,Fox Traveling Turnover (P1.T3),,29-27,29,27
 0022000677,2021-03-24,SAC,ATL,12.0,1,0,0,ATL,ATL,tov,1,False,True,,Huerter Bad Pass Turnover (P1.T3),29-27,29,27
+0022000677,2021-03-24,SAC,ATL,12.0,1,0,0,ATL,SAC,steal,1,False,True,steal,steal,29-27,29,27
 0022000677,2021-03-24,SAC,ATL,12.0,1,0,0,ATL,,period_end,0,False,False,,,29-27,29,27
 0022000677,2021-03-24,SAC,ATL,12.0,2,12,0,ATL,,period_start,0,False,False,,,29-27,29,27
-0022000677,2021-03-24,SAC,ATL,12.0,1,0,0,ATL,SAC,steal,1,False,True,steal,steal,29-27,29,27
 0022000677,2021-03-24,SAC,ATL,12.25,2,11,45,SAC,SAC,tov,45,False,False,Joseph Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,29-27,29,27
 0022000677,2021-03-24,SAC,ATL,12.58,2,11,25,ATL,ATL,fg_make,79,False,False,,Gallinari 8' Pullup Jump Shot (4 PTS),29-29,29,29
 0022000677,2021-03-24,SAC,ATL,12.98,2,11,1,SAC,SAC,fg3_miss,1,False,False,MISS Metu 3PT Jump Shot,,29-29,29,29
@@ -162,9 +162,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000677,2021-03-24,SAC,ATL,19.47,2,4,32,ATL,SAC,steal,1,False,True,steal,steal,46-43,46,43
 0022000677,2021-03-24,SAC,ATL,19.57,2,4,26,SAC,SAC,fg3_make,80,False,False,Fox 26' 3PT Step Back Jump Shot (20 PTS),,49-43,49,43
 0022000677,2021-03-24,SAC,ATL,19.75,2,4,15,ATL,ATL,fg_miss,78,True,False,,MISS Young 13' Floating Jump Shot,49-43,49,43
+0022000677,2021-03-24,SAC,ATL,19.75,2,4,15,ATL,SAC,block,78,True,False,block,block,49-43,49,43
 0022000677,2021-03-24,SAC,ATL,19.75,2,4,15,SAC,SAC,reb,0,False,False,KINGS Rebound,,49-43,49,43
 0022000677,2021-03-24,SAC,ATL,19.75,2,4,15,SAC,ATL,foul,3,False,False,,Capela L.B.FOUL (P2.T3) (J.Goldenberg),49-43,49,43
-0022000677,2021-03-24,SAC,ATL,19.75,2,4,15,ATL,SAC,block,78,True,False,block,block,49-43,49,43
 0022000677,2021-03-24,SAC,ATL,19.92,2,4,5,SAC,ATL,foul,2,False,False,,Snell S.FOUL (P2.T4) (J.Goldenberg),49-43,49,43
 0022000677,2021-03-24,SAC,ATL,19.92,2,4,5,SAC,SAC,ft_make,11,False,False,Holmes Free Throw 1 of 2 (5 PTS),,50-43,50,43
 0022000677,2021-03-24,SAC,ATL,19.92,2,4,5,SAC,SAC,ft_make,12,False,False,Holmes Free Throw 2 of 2 (6 PTS),,51-43,51,43
@@ -209,10 +209,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000677,2021-03-24,SAC,ATL,23.93,2,0,4,ATL,ATL,reb,0,False,False,,Young REBOUND (Off:1 Def:2),57-55,57,55
 0022000677,2021-03-24,SAC,ATL,23.93,2,0,4,ATL,ATL,fg_make,52,False,False,,Collins 1' Alley Oop Dunk (10 PTS) (Young 5 AST),57-57,57,57
 0022000677,2021-03-24,SAC,ATL,24.0,2,0,0,SAC,SAC,fg_miss,1,True,False,MISS Hield 22' Jump Shot,,57-57,57,57
+0022000677,2021-03-24,SAC,ATL,24.0,2,0,0,SAC,ATL,block,1,True,False,block,block,57-57,57,57
 0022000677,2021-03-24,SAC,ATL,24.0,2,0,0,ATL,ATL,reb,0,False,False,,Capela REBOUND (Off:6 Def:5),57-57,57,57
 0022000677,2021-03-24,SAC,ATL,24.0,2,0,0,ATL,,period_end,0,False,False,,,57-57,57,57
 0022000677,2021-03-24,SAC,ATL,24.0,3,12,0,ATL,,period_start,0,False,False,,,57-57,57,57
-0022000677,2021-03-24,SAC,ATL,24.0,2,0,0,SAC,ATL,block,1,True,False,block,block,57-57,57,57
 0022000677,2021-03-24,SAC,ATL,24.28,3,11,43,SAC,SAC,fg_miss,43,False,False,MISS Holmes 2' Alley Oop Layup,,57-57,57,57
 0022000677,2021-03-24,SAC,ATL,24.3,3,11,42,SAC,SAC,reb,0,False,False,Holmes REBOUND (Off:1 Def:1),,57-57,57,57
 0022000677,2021-03-24,SAC,ATL,24.3,3,11,42,SAC,SAC,fg_miss,97,False,False,MISS Holmes 2' Tip Layup Shot,,57-57,57,57
@@ -294,8 +294,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000677,2021-03-24,SAC,ATL,33.83,3,2,10,SAC,SAC,reb,0,False,False,Barnes REBOUND (Off:1 Def:5),,79-74,79,74
 0022000677,2021-03-24,SAC,ATL,34.03,3,1,58,SAC,ATL,foul,1,False,False,,Gallinari P.FOUL (P1.T4) (A.Smith),79-74,79,74
 0022000677,2021-03-24,SAC,ATL,34.2,3,1,48,SAC,SAC,fg_miss,78,True,False,MISS James 5' Floating Jump Shot,,79-74,79,74
-0022000677,2021-03-24,SAC,ATL,34.2,3,1,48,SAC,SAC,reb,0,False,False,KINGS Rebound,,79-74,79,74
 0022000677,2021-03-24,SAC,ATL,34.2,3,1,48,SAC,ATL,block,78,True,False,block,block,79-74,79,74
+0022000677,2021-03-24,SAC,ATL,34.2,3,1,48,SAC,SAC,reb,0,False,False,KINGS Rebound,,79-74,79,74
 0022000677,2021-03-24,SAC,ATL,34.23,3,1,46,SAC,SAC,fg_make,1,False,False,Whiteside 20' Jump Shot (4 PTS) (Haliburton 5 AST),,81-74,81,74
 0022000677,2021-03-24,SAC,ATL,34.52,3,1,29,ATL,ATL,fg_miss,79,False,False,,MISS Huerter 16' Pullup Jump Shot,81-74,81,74
 0022000677,2021-03-24,SAC,ATL,34.58,3,1,25,SAC,SAC,reb,0,False,False,Joseph REBOUND (Off:1 Def:2),,81-74,81,74

@@ -39,8 +39,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800254,2018-11-21,ATL,TOR,3.92,1,8,5,ATL,TOR,block,63,True,False,block,block,0-5,0,5
 0021800254,2018-11-21,ATL,TOR,3.97,1,8,2,TOR,TOR,reb,0,False,False,,Valanciunas REBOUND (Off:0 Def:4),0-5,0,5
 0021800254,2018-11-21,ATL,TOR,4.02,1,7,59,TOR,TOR,fg_miss,41,True,False,,MISS Siakam 1' Running Layup,0-5,0,5
-0021800254,2018-11-21,ATL,TOR,4.02,1,7,59,TOR,TOR,reb,0,False,False,,Raptors Rebound,0-5,0,5
 0021800254,2018-11-21,ATL,TOR,4.02,1,7,59,TOR,ATL,block,41,True,False,block,block,0-5,0,5
+0021800254,2018-11-21,ATL,TOR,4.02,1,7,59,TOR,TOR,reb,0,False,False,,Raptors Rebound,0-5,0,5
 0021800254,2018-11-21,ATL,TOR,4.07,1,7,56,TOR,TOR,fg_make,98,False,False,,VanVleet 1' Cutting Layup Shot (2 PTS) (Lowry 1 AST),0-7,0,7
 0021800254,2018-11-21,ATL,TOR,4.43,1,7,34,ATL,ATL,fg_make,79,False,False,Bazemore 14' Pullup Jump Shot (2 PTS),,2-7,2,7
 0021800254,2018-11-21,ATL,TOR,4.7,1,7,18,TOR,TOR,fg_miss,5,True,False,,MISS Valanciunas 3' Layup,2-7,2,7
@@ -138,8 +138,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800254,2018-11-21,ATL,TOR,15.12,2,8,53,ATL,ATL,fg3_miss,1,False,False,MISS Dedmon 25' 3PT Jump Shot,,29-34,29,34
 0021800254,2018-11-21,ATL,TOR,15.18,2,8,49,TOR,TOR,reb,0,False,False,,Lowry REBOUND (Off:1 Def:3),29-34,29,34
 0021800254,2018-11-21,ATL,TOR,15.28,2,8,43,TOR,TOR,fg_miss,5,True,False,,MISS Monroe 2' Layup,29-34,29,34
-0021800254,2018-11-21,ATL,TOR,15.28,2,8,43,TOR,TOR,reb,0,False,False,,Raptors Rebound,29-34,29,34
 0021800254,2018-11-21,ATL,TOR,15.28,2,8,43,TOR,ATL,block,5,True,False,block,block,29-34,29,34
+0021800254,2018-11-21,ATL,TOR,15.28,2,8,43,TOR,TOR,reb,0,False,False,,Raptors Rebound,29-34,29,34
 0021800254,2018-11-21,ATL,TOR,15.32,2,8,41,TOR,TOR,fg_make,108,False,False,,Wright 1' Cutting Dunk Shot (2 PTS) (Lowry 5 AST),29-36,29,36
 0021800254,2018-11-21,ATL,TOR,15.37,2,8,38,ATL,ATL,timeout,1,False,False,HAWKS Timeout: Regular (Full 2 Short 0),,29-36,29,36
 0021800254,2018-11-21,ATL,TOR,15.58,2,8,25,ATL,ATL,fg_make,101,False,False,Young 2' Driving Floating Jump Shot (2 PTS),,31-36,31,36
@@ -323,8 +323,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800254,2018-11-21,ATL,TOR,35.07,3,0,56,ATL,ATL,fg3_miss,2,False,False,MISS Prince 25' 3PT Running Jump Shot,,69-86,69,86
 0021800254,2018-11-21,ATL,TOR,35.13,3,0,52,TOR,TOR,reb,0,False,False,,Monroe REBOUND (Off:1 Def:2),69-86,69,86
 0021800254,2018-11-21,ATL,TOR,35.27,3,0,44,TOR,TOR,tov,2,False,True,,Wright Lost Ball Turnover (P2.T12),69-86,69,86
-0021800254,2018-11-21,ATL,TOR,35.27,3,0,44,ATL,TOR,foul,1,False,False,,Wright P.FOUL (P1.T3) (J.Williams),69-86,69,86
 0021800254,2018-11-21,ATL,TOR,35.27,3,0,44,TOR,ATL,steal,2,False,True,steal,steal,69-86,69,86
+0021800254,2018-11-21,ATL,TOR,35.27,3,0,44,ATL,TOR,foul,1,False,False,,Wright P.FOUL (P1.T3) (J.Williams),69-86,69,86
 0021800254,2018-11-21,ATL,TOR,35.48,3,0,31,ATL,ATL,fg_make,52,False,False,Collins 1' Alley Oop Dunk (2 PTS) (Young 4 AST),,71-86,71,86
 0021800254,2018-11-21,ATL,TOR,35.88,3,0,7,TOR,TOR,tov,11,False,False,,Raptors Turnover: Shot Clock (T#13),71-86,71,86
 0021800254,2018-11-21,ATL,TOR,36.0,3,0,0,ATL,TOR,foul,2,False,False,,Wright S.FOUL (P2.PN) (L.Richardson),71-86,71,86
@@ -356,8 +356,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800254,2018-11-21,ATL,TOR,38.68,4,9,19,TOR,ATL,foul,3,False,False,Dedmon L.B.FOUL (P2.T1) (J.Orr),,78-90,78,90
 0021800254,2018-11-21,ATL,TOR,38.92,4,9,5,TOR,TOR,fg3_make,1,False,False,,Ibaka 25' 3PT Jump Shot (15 PTS) (Wright 1 AST),78-93,78,93
 0021800254,2018-11-21,ATL,TOR,39.18,4,8,49,ATL,ATL,tov,2,False,True,Collins Lost Ball Turnover (P2.T7),,78-93,78,93
-0021800254,2018-11-21,ATL,TOR,39.18,4,8,49,TOR,ATL,foul,1,False,False,Collins P.FOUL (P3.T2) (J.Orr),,78-93,78,93
 0021800254,2018-11-21,ATL,TOR,39.18,4,8,49,ATL,TOR,steal,2,False,True,steal,steal,78-93,78,93
+0021800254,2018-11-21,ATL,TOR,39.18,4,8,49,TOR,ATL,foul,1,False,False,Collins P.FOUL (P3.T2) (J.Orr),,78-93,78,93
 0021800254,2018-11-21,ATL,TOR,39.53,4,8,28,TOR,TOR,fg_miss,73,False,False,,MISS Wright 1' Driving Reverse Layup,78-93,78,93
 0021800254,2018-11-21,ATL,TOR,39.55,4,8,27,TOR,TOR,reb,0,False,False,,Ibaka REBOUND (Off:3 Def:5),78-93,78,93
 0021800254,2018-11-21,ATL,TOR,39.55,4,8,27,TOR,TOR,fg_make,5,False,False,,Ibaka 1' Layup (17 PTS),78-95,78,95
@@ -425,8 +425,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800254,2018-11-21,ATL,TOR,46.15,4,1,51,TOR,TOR,fg3_make,1,False,False,,Boucher 25' 3PT Jump Shot (3 PTS) (Brown 2 AST),101-118,101,118
 0021800254,2018-11-21,ATL,TOR,46.3,4,1,42,ATL,ATL,fg3_make,1,False,False,Carter 26' 3PT Jump Shot (10 PTS) (Young 5 AST),,104-118,104,118
 0021800254,2018-11-21,ATL,TOR,46.53,4,1,28,TOR,TOR,fg_miss,6,True,False,,MISS Brown 1' Driving Layup,104-118,104,118
-0021800254,2018-11-21,ATL,TOR,46.53,4,1,28,TOR,TOR,reb,0,False,False,,Raptors Rebound,104-118,104,118
 0021800254,2018-11-21,ATL,TOR,46.53,4,1,28,TOR,ATL,block,6,True,False,block,block,104-118,104,118
+0021800254,2018-11-21,ATL,TOR,46.53,4,1,28,TOR,TOR,reb,0,False,False,,Raptors Rebound,104-118,104,118
 0021800254,2018-11-21,ATL,TOR,46.65,4,1,21,TOR,TOR,fg_make,6,False,False,,Loyd 9' Driving Layup (2 PTS) (Monroe 1 AST),104-120,104,120
 0021800254,2018-11-21,ATL,TOR,46.83,4,1,10,ATL,ATL,fg3_miss,1,False,False,MISS Carter 27' 3PT Jump Shot,,104-120,104,120
 0021800254,2018-11-21,ATL,TOR,46.9,4,1,6,TOR,TOR,reb,0,False,False,,Monroe REBOUND (Off:2 Def:3),104-120,104,120

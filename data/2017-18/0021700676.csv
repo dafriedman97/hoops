@@ -109,8 +109,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700676,2018-01-20,CHA,MIA,13.05,2,10,57,CHA,MIA,block,98,True,False,block,block,29-34,29,34
 0021700676,2018-01-20,CHA,MIA,13.13,2,10,52,MIA,MIA,reb,0,False,False,,Richardson REBOUND (Off:0 Def:1),29-34,29,34
 0021700676,2018-01-20,CHA,MIA,13.15,2,10,51,MIA,MIA,fg_miss,5,True,False,,MISS Richardson 3' Layup,29-34,29,34
-0021700676,2018-01-20,CHA,MIA,13.15,2,10,51,CHA,CHA,reb,0,False,False,Lamb REBOUND (Off:0 Def:3),,29-34,29,34
 0021700676,2018-01-20,CHA,MIA,13.15,2,10,51,MIA,CHA,block,5,True,False,block,block,29-34,29,34
+0021700676,2018-01-20,CHA,MIA,13.15,2,10,51,CHA,CHA,reb,0,False,False,Lamb REBOUND (Off:0 Def:3),,29-34,29,34
 0021700676,2018-01-20,CHA,MIA,13.28,2,10,43,CHA,CHA,fg_miss,1,False,False,MISS Lamb 18' Jump Shot,,29-34,29,34
 0021700676,2018-01-20,CHA,MIA,13.28,2,10,43,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:0 Def:1),29-34,29,34
 0021700676,2018-01-20,CHA,MIA,13.42,2,10,35,MIA,MIA,fg3_miss,1,False,False,,MISS Olynyk 25' 3PT Jump Shot,29-34,29,34
@@ -212,10 +212,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700676,2018-01-20,CHA,MIA,23.68,2,0,19,MIA,MIA,fg_make,7,False,False,,Adebayo 1' Dunk (6 PTS),46-57,46,57
 0021700676,2018-01-20,CHA,MIA,23.95,2,0,3,CHA,CHA,fg_make,79,False,False,Walker 16' Pullup Jump Shot (15 PTS),,48-57,48,57
 0021700676,2018-01-20,CHA,MIA,24.0,2,0,0,MIA,MIA,fg3_miss,1,True,False,,MISS Walton Jr. 35' 3PT Jump Shot,48-57,48,57
+0021700676,2018-01-20,CHA,MIA,24.0,2,0,0,MIA,CHA,block,1,True,False,block,block,48-57,48,57
 0021700676,2018-01-20,CHA,MIA,24.0,2,0,0,MIA,MIA,reb,0,False,False,,Heat Rebound,48-57,48,57
 0021700676,2018-01-20,CHA,MIA,24.0,2,0,0,MIA,,period_end,0,False,False,,,48-57,48,57
 0021700676,2018-01-20,CHA,MIA,24.0,3,12,0,MIA,,period_start,0,False,False,,,48-57,48,57
-0021700676,2018-01-20,CHA,MIA,24.0,2,0,0,MIA,CHA,block,1,True,False,block,block,48-57,48,57
 0021700676,2018-01-20,CHA,MIA,24.32,3,11,41,MIA,MIA,fg_miss,1,False,False,,MISS Richardson 9' Jump Shot,48-57,48,57
 0021700676,2018-01-20,CHA,MIA,24.37,3,11,38,CHA,CHA,reb,0,False,False,Howard REBOUND (Off:2 Def:7),,48-57,48,57
 0021700676,2018-01-20,CHA,MIA,24.48,3,11,31,CHA,CHA,fg_miss,41,False,False,MISS Walker 1' Running Layup,,48-57,48,57
@@ -311,9 +311,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700676,2018-01-20,CHA,MIA,35.5,3,0,30,MIA,MIA,tov,40,False,False,,Adebayo Out of Bounds Lost Ball Turnover (P1.T11),80-73,80,73
 0021700676,2018-01-20,CHA,MIA,35.82,3,0,11,CHA,CHA,fg3_make,79,False,False,Walker 25' 3PT Pullup Jump Shot (20 PTS),,83-73,83,73
 0021700676,2018-01-20,CHA,MIA,36.0,3,0,0,MIA,MIA,tov,1,False,True,,Richardson Bad Pass Turnover (P3.T12),83-73,83,73
+0021700676,2018-01-20,CHA,MIA,36.0,3,0,0,MIA,CHA,steal,1,False,True,steal,steal,83-73,83,73
 0021700676,2018-01-20,CHA,MIA,36.0,3,0,0,MIA,,period_end,0,False,False,,,83-73,83,73
 0021700676,2018-01-20,CHA,MIA,36.0,4,12,0,MIA,,period_start,0,False,False,,,83-73,83,73
-0021700676,2018-01-20,CHA,MIA,36.0,3,0,0,MIA,CHA,steal,1,False,True,steal,steal,83-73,83,73
 0021700676,2018-01-20,CHA,MIA,36.2,4,11,48,CHA,CHA,fg_miss,1,False,False,MISS Lamb 17' Jump Shot,,83-73,83,73
 0021700676,2018-01-20,CHA,MIA,36.27,4,11,44,MIA,MIA,reb,0,False,False,,Olynyk REBOUND (Off:0 Def:4),83-73,83,73
 0021700676,2018-01-20,CHA,MIA,36.43,4,11,34,MIA,MIA,fg3_make,1,False,False,,Olynyk 25' 3PT Jump Shot (5 PTS) (Adebayo 3 AST),83-76,83,76

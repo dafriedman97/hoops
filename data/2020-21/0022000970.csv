@@ -29,9 +29,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000970,2021-05-02,DAL,SAC,3.2,1,8,48,SAC,SAC,fg3_make,79,False,False,,Haliburton 25' 3PT Pullup Jump Shot (9 PTS),7-14,7,14
 0022000970,2021-05-02,DAL,SAC,3.58,1,8,25,DAL,DAL,fg_make,52,False,False,Powell 1' Alley Oop Dunk (5 PTS) (Richardson 1 AST),,9-14,9,14
 0022000970,2021-05-02,DAL,SAC,4.0,1,8,0,SAC,SAC,fg_miss,101,True,False,,MISS Harkless 7' Driving Floating Jump Shot,9-14,9,14
+0022000970,2021-05-02,DAL,SAC,4.0,1,8,0,SAC,DAL,block,101,True,False,block,block,9-14,9,14
 0022000970,2021-05-02,DAL,SAC,4.0,1,8,0,DAL,DAL,reb,0,False,False,Powell REBOUND (Off:0 Def:1),,9-14,9,14
 0022000970,2021-05-02,DAL,SAC,4.0,1,8,0,DAL,SAC,foul,1,False,False,,Harkless P.FOUL (P1.T3) (R.Mott),9-14,9,14
-0022000970,2021-05-02,DAL,SAC,4.0,1,8,0,SAC,DAL,block,101,True,False,block,block,9-14,9,14
 0022000970,2021-05-02,DAL,SAC,4.18,1,7,49,DAL,SAC,foul,1,False,False,,Jones P.FOUL (P1.T4) (M.Boland),9-14,9,14
 0022000970,2021-05-02,DAL,SAC,4.33,1,7,40,DAL,DAL,fg_make,7,False,False,Powell 1' Dunk (7 PTS) (Doncic 1 AST),,11-14,11,14
 0022000970,2021-05-02,DAL,SAC,4.48,1,7,31,SAC,SAC,timeout,1,False,False,,Kings Timeout: Regular (Reg.1 Short 0),11-14,11,14
@@ -196,15 +196,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000970,2021-05-02,DAL,SAC,21.7,2,2,18,DAL,SAC,ft_make,18,False,False,,Hield Free Throw Flagrant 1 of 2 (14 PTS),47-53,47,53
 0022000970,2021-05-02,DAL,SAC,21.7,2,2,18,DAL,SAC,ft_make,19,False,False,,Hield Free Throw Flagrant 2 of 2 (15 PTS),47-54,47,54
 0022000970,2021-05-02,DAL,SAC,21.88,2,2,7,SAC,SAC,fg_miss,101,False,False,,MISS Bagley III 3' Driving Floating Jump Shot,47-54,47,54
-0022000970,2021-05-02,DAL,SAC,21.93,2,2,4,SAC,SAC,fg_make,87,False,False,,Bagley III Putback Dunk (11 PTS),47-56,47,56
 0022000970,2021-05-02,DAL,SAC,21.93,2,2,4,SAC,SAC,reb,0,False,False,,Bagley III REBOUND (Off:2 Def:2),47-56,47,56
+0022000970,2021-05-02,DAL,SAC,21.93,2,2,4,SAC,SAC,fg_make,87,False,False,,Bagley III Putback Dunk (11 PTS),47-56,47,56
 0022000970,2021-05-02,DAL,SAC,22.15,2,1,51,DAL,DAL,tov,1,False,True,Doncic Bad Pass Turnover (P6.T9),,47-56,47,56
 0022000970,2021-05-02,DAL,SAC,22.15,2,1,51,DAL,SAC,steal,1,False,True,steal,steal,47-56,47,56
 0022000970,2021-05-02,DAL,SAC,22.27,2,1,44,SAC,SAC,fg3_miss,1,False,False,,MISS Davis 3PT Jump Shot,47-56,47,56
 0022000970,2021-05-02,DAL,SAC,22.35,2,1,39,DAL,DAL,reb,0,False,False,Powell REBOUND (Off:1 Def:3),,47-56,47,56
 0022000970,2021-05-02,DAL,SAC,22.4,2,1,36,SAC,DAL,foul,4,False,False,Powell OFF.Foul (P2) (C.Washington),,47-56,47,56
-0022000970,2021-05-02,DAL,SAC,22.4,2,1,36,DAL,DAL,tov,37,False,False,Powell Offensive Foul Turnover (P2.T10),,47-56,47,56
 0022000970,2021-05-02,DAL,SAC,22.4,2,1,36,SAC,SAC,timeout,7,False,False,,Kings Timeout: Coach Challenge (Reg.2 Short 0),47-56,47,56
+0022000970,2021-05-02,DAL,SAC,22.4,2,1,36,DAL,DAL,tov,37,False,False,Powell Offensive Foul Turnover (P2.T10),,47-56,47,56
 0022000970,2021-05-02,DAL,SAC,22.57,2,1,26,SAC,SAC,tov,2,False,True,,Haliburton Lost Ball Turnover (P1.T11),47-56,47,56
 0022000970,2021-05-02,DAL,SAC,22.57,2,1,26,SAC,DAL,steal,2,False,True,steal,steal,47-56,47,56
 0022000970,2021-05-02,DAL,SAC,22.63,2,1,22,DAL,DAL,fg_miss,78,False,False,MISS Richardson 1' Floating Jump Shot,,47-56,47,56
@@ -282,8 +282,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000970,2021-05-02,DAL,SAC,30.45,3,5,33,DAL,DAL,tov,2,False,True,Powell Lost Ball Turnover (P3.T13),,67-75,67,75
 0022000970,2021-05-02,DAL,SAC,30.45,3,5,33,DAL,SAC,steal,2,False,True,steal,steal,67-75,67,75
 0022000970,2021-05-02,DAL,SAC,30.58,3,5,25,SAC,SAC,fg_miss,6,True,False,,MISS Bagley III 4' Driving Layup,67-75,67,75
-0022000970,2021-05-02,DAL,SAC,30.58,3,5,25,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,67-75,67,75
 0022000970,2021-05-02,DAL,SAC,30.58,3,5,25,SAC,DAL,block,6,True,False,block,block,67-75,67,75
+0022000970,2021-05-02,DAL,SAC,30.58,3,5,25,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,67-75,67,75
 0022000970,2021-05-02,DAL,SAC,30.83,3,5,10,DAL,DAL,fg3_miss,1,False,False,MISS Finney-Smith 25' 3PT Jump Shot,,67-75,67,75
 0022000970,2021-05-02,DAL,SAC,30.87,3,5,8,SAC,SAC,reb,0,False,False,,Kings Rebound,67-75,67,75
 0022000970,2021-05-02,DAL,SAC,31.25,3,4,45,SAC,SAC,fg_miss,80,False,False,,MISS Hield 23' Step Back Jump Shot,67-75,67,75
@@ -385,8 +385,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000970,2021-05-02,DAL,SAC,41.7,4,6,18,SAC,SAC,fg3_miss,79,False,False,,MISS Hield 25' 3PT Pullup Jump Shot,87-99,87,99
 0022000970,2021-05-02,DAL,SAC,41.75,4,6,15,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:2 Def:2),,87-99,87,99
 0022000970,2021-05-02,DAL,SAC,41.92,4,6,5,DAL,DAL,fg_miss,101,True,False,MISS Brunson 4' Driving Floating Jump Shot,,87-99,87,99
-0022000970,2021-05-02,DAL,SAC,41.92,4,6,5,SAC,SAC,reb,0,False,False,,Kings Rebound,87-99,87,99
 0022000970,2021-05-02,DAL,SAC,41.92,4,6,5,DAL,SAC,block,101,True,False,block,block,87-99,87,99
+0022000970,2021-05-02,DAL,SAC,41.92,4,6,5,SAC,SAC,reb,0,False,False,,Kings Rebound,87-99,87,99
 0022000970,2021-05-02,DAL,SAC,42.17,4,5,50,DAL,SAC,foul,4,False,False,,Wright OFF.Foul (P1) (M.Boland),87-99,87,99
 0022000970,2021-05-02,DAL,SAC,42.17,4,5,50,SAC,SAC,tov,37,False,False,,Wright Offensive Foul Turnover (P3.T17),87-99,87,99
 0022000970,2021-05-02,DAL,SAC,42.37,4,5,38,DAL,DAL,fg_make,102,False,False,Doncic 4' Driving Floating Bank Jump Shot (30 PTS),,89-99,89,99

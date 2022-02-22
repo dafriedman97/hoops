@@ -23,8 +23,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000764,2021-04-05,DAL,UTA,2.48,1,9,31,DAL,DAL,fg_miss,79,False,False,MISS Finney-Smith 19' Pullup Jump Shot,,2-5,2,5
 0022000764,2021-04-05,DAL,UTA,2.53,1,9,28,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:0 Def:2),2-5,2,5
 0022000764,2021-04-05,DAL,UTA,2.58,1,9,25,UTA,UTA,fg3_miss,1,False,False,,MISS Conley 25' 3PT Jump Shot,2-5,2,5
-0022000764,2021-04-05,DAL,UTA,2.73,1,9,16,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,2-5,2,5
 0022000764,2021-04-05,DAL,UTA,2.73,1,9,16,,DAL,jump_ball,0,False,False,Jump Ball Kleber vs. Gobert: Tip to Finney-Smith,,2-5,2,5
+0022000764,2021-04-05,DAL,UTA,2.73,1,9,16,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,2-5,2,5
 0022000764,2021-04-05,DAL,UTA,2.87,1,9,8,DAL,DAL,fg3_make,1,False,False,Finney-Smith 25' 3PT Jump Shot (3 PTS) (Doncic 1 AST),,5-5,5,5
 0022000764,2021-04-05,DAL,UTA,3.08,1,8,55,UTA,UTA,fg_make,98,False,False,,Gobert 1' Cutting Layup Shot (2 PTS) (Mitchell 2 AST),5-7,5,7
 0022000764,2021-04-05,DAL,UTA,3.2,1,8,48,DAL,UTA,violation,5,False,False,,O'Neale Violation:Kicked Ball (P.Ransom),5-7,5,7
@@ -195,10 +195,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000764,2021-04-05,DAL,UTA,23.78,2,0,13,UTA,UTA,fg_miss,6,False,False,,MISS Bogdanovic 3' Driving Layup,50-42,50,42
 0022000764,2021-04-05,DAL,UTA,23.82,2,0,11,DAL,DAL,reb,0,False,False,Kleber REBOUND (Off:0 Def:2),,50-42,50,42
 0022000764,2021-04-05,DAL,UTA,24.0,2,0,0,DAL,DAL,fg_miss,101,True,False,MISS Doncic 10' Driving Floating Jump Shot,,50-42,50,42
+0022000764,2021-04-05,DAL,UTA,24.0,2,0,0,DAL,UTA,block,101,True,False,block,block,50-42,50,42
 0022000764,2021-04-05,DAL,UTA,24.0,2,0,0,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,50-42,50,42
 0022000764,2021-04-05,DAL,UTA,24.0,2,0,0,DAL,,period_end,0,False,False,,,50-42,50,42
 0022000764,2021-04-05,DAL,UTA,24.0,3,12,0,DAL,,period_start,0,False,False,,,50-42,50,42
-0022000764,2021-04-05,DAL,UTA,24.0,2,0,0,DAL,UTA,block,101,True,False,block,block,50-42,50,42
 0022000764,2021-04-05,DAL,UTA,24.37,3,11,38,DAL,DAL,fg_miss,6,True,False,MISS Doncic 2' Driving Layup,,50-42,50,42
 0022000764,2021-04-05,DAL,UTA,24.37,3,11,38,DAL,UTA,block,6,True,False,block,block,50-42,50,42
 0022000764,2021-04-05,DAL,UTA,24.38,3,11,37,DAL,DAL,reb,0,False,False,Kleber REBOUND (Off:1 Def:2),,50-42,50,42

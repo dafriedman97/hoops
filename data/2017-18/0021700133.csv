@@ -50,8 +50,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700133,2017-11-04,CHI,NOP,6.57,1,5,26,NOP,CHI,steal,1,False,True,steal,steal,9-13,9,13
 0021700133,2017-11-04,CHI,NOP,6.67,1,5,20,CHI,CHI,fg_make,1,False,False,Lopez 18' Jump Shot (7 PTS) (Grant 3 AST),,11-13,11,13
 0021700133,2017-11-04,CHI,NOP,7.13,1,4,52,NOP,NOP,fg3_miss,1,False,False,,MISS Cousins 3PT Jump Shot,11-13,11,13
-0021700133,2017-11-04,CHI,NOP,7.13,1,4,52,NOP,NOP,reb,0,False,False,,Pelicans Rebound,11-13,11,13
 0021700133,2017-11-04,CHI,NOP,7.13,1,4,52,NOP,NOP,tov,11,False,False,,Pelicans Turnover: Shot Clock (T#2),11-13,11,13
+0021700133,2017-11-04,CHI,NOP,7.13,1,4,52,NOP,NOP,reb,0,False,False,,Pelicans Rebound,11-13,11,13
 0021700133,2017-11-04,CHI,NOP,7.47,1,4,32,CHI,CHI,fg_miss,1,False,False,MISS Lopez 19' Jump Shot,,11-13,11,13
 0021700133,2017-11-04,CHI,NOP,7.53,1,4,28,NOP,NOP,reb,0,False,False,,Cunningham REBOUND (Off:0 Def:1),11-13,11,13
 0021700133,2017-11-04,CHI,NOP,7.58,1,4,25,NOP,CHI,violation,5,False,False,Kicked Ball,,11-13,11,13
@@ -137,8 +137,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700133,2017-11-04,CHI,NOP,16.57,2,7,26,CHI,CHI,reb,0,False,False,Felicio REBOUND (Off:1 Def:1),,22-25,22,25
 0021700133,2017-11-04,CHI,NOP,16.7,2,7,18,CHI,CHI,fg_miss,5,True,False,MISS Markkanen 1' Layup,,22-25,22,25
 0021700133,2017-11-04,CHI,NOP,16.7,2,7,18,CHI,NOP,block,5,True,False,block,block,22-25,22,25
-0021700133,2017-11-04,CHI,NOP,16.8,2,7,12,CHI,CHI,fg_miss,97,False,False,MISS Felicio 1' Tip Layup Shot,,22-25,22,25
 0021700133,2017-11-04,CHI,NOP,16.8,2,7,12,CHI,CHI,reb,0,False,False,Felicio REBOUND (Off:3 Def:1),,22-25,22,25
+0021700133,2017-11-04,CHI,NOP,16.8,2,7,12,CHI,CHI,fg_miss,97,False,False,MISS Felicio 1' Tip Layup Shot,,22-25,22,25
 0021700133,2017-11-04,CHI,NOP,16.82,2,7,11,CHI,CHI,reb,0,False,False,Felicio REBOUND (Off:2 Def:1),,22-25,22,25
 0021700133,2017-11-04,CHI,NOP,16.83,2,7,10,CHI,CHI,fg_miss,97,False,False,MISS Felicio 1' Tip Layup Shot,,22-25,22,25
 0021700133,2017-11-04,CHI,NOP,16.85,2,7,9,NOP,NOP,reb,0,False,False,,Davis REBOUND (Off:0 Def:7),22-25,22,25
@@ -149,9 +149,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700133,2017-11-04,CHI,NOP,17.28,2,6,43,NOP,NOP,ft_miss,16,False,False,,MISS Clark Free Throw Technical,24-25,24,25
 0021700133,2017-11-04,CHI,NOP,17.28,2,6,43,NOP,NOP,reb,1,False,False,,Pelicans Rebound,24-25,24,25
 0021700133,2017-11-04,CHI,NOP,17.52,2,6,29,NOP,NOP,fg3_miss,1,True,False,,MISS Cousins 26' 3PT Jump Shot,24-25,24,25
-0021700133,2017-11-04,CHI,NOP,17.52,2,6,29,NOP,NOP,reb,0,False,False,,Pelicans Rebound,24-25,24,25
-0021700133,2017-11-04,CHI,NOP,17.52,2,6,29,NOP,NOP,tov,11,False,False,,Pelicans Turnover: Shot Clock (T#6),24-25,24,25
 0021700133,2017-11-04,CHI,NOP,17.52,2,6,29,NOP,CHI,block,1,True,False,block,block,24-25,24,25
+0021700133,2017-11-04,CHI,NOP,17.52,2,6,29,NOP,NOP,tov,11,False,False,,Pelicans Turnover: Shot Clock (T#6),24-25,24,25
+0021700133,2017-11-04,CHI,NOP,17.52,2,6,29,NOP,NOP,reb,0,False,False,,Pelicans Rebound,24-25,24,25
 0021700133,2017-11-04,CHI,NOP,17.73,2,6,16,CHI,CHI,fg3_miss,1,False,False,MISS Holiday 24' 3PT Jump Shot,,24-25,24,25
 0021700133,2017-11-04,CHI,NOP,17.78,2,6,13,NOP,NOP,reb,0,False,False,,Cousins REBOUND (Off:0 Def:3),24-25,24,25
 0021700133,2017-11-04,CHI,NOP,17.92,2,6,5,NOP,NOP,fg_miss,5,False,False,,MISS Cousins 4' Layup,24-25,24,25
@@ -409,11 +409,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700133,2017-11-04,CHI,NOP,47.97,4,0,2,CHI,CHI,reb,0,False,False,Grant REBOUND (Off:2 Def:5),,83-83,83,83
 0021700133,2017-11-04,CHI,NOP,47.97,4,0,2,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 7 Short 0),,83-83,83,83
 0021700133,2017-11-04,CHI,NOP,48.0,4,0,0,CHI,CHI,fg_miss,1,True,False,MISS Lopez 6' Jump Shot,,83-83,83,83
+0021700133,2017-11-04,CHI,NOP,48.0,4,0,0,CHI,NOP,block,1,True,False,block,block,83-83,83,83
 0021700133,2017-11-04,CHI,NOP,48.0,4,0,0,NOP,NOP,reb,0,False,False,,Cousins REBOUND (Off:0 Def:9),83-83,83,83
 0021700133,2017-11-04,CHI,NOP,48.0,4,0,0,NOP,,period_end,0,False,False,,,83-83,83,83
 0021700133,2017-11-04,CHI,NOP,48.0,5,5,0,NOP,,period_start,0,False,False,,,83-83,83,83
 0021700133,2017-11-04,CHI,NOP,48.0,5,5,0,,CHI,jump_ball,0,False,False,Jump Ball Lopez vs. Davis: Tip to Cousins,,83-83,83,83
-0021700133,2017-11-04,CHI,NOP,48.0,4,0,0,CHI,NOP,block,1,True,False,block,block,83-83,83,83
 0021700133,2017-11-04,CHI,NOP,48.2,5,4,48,NOP,CHI,foul,2,False,False,Markkanen S.FOUL (P2.T1) (E.Dalen),,83-83,83,83
 0021700133,2017-11-04,CHI,NOP,48.2,5,4,48,NOP,NOP,ft_make,11,False,False,,Cousins Free Throw 1 of 2 (20 PTS),83-84,83,84
 0021700133,2017-11-04,CHI,NOP,48.2,5,4,48,NOP,NOP,ft_make,12,False,False,,Cousins Free Throw 2 of 2 (21 PTS),83-85,83,85
@@ -442,8 +442,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700133,2017-11-04,CHI,NOP,50.6,5,2,24,CHI,CHI,ft_make,12,False,False,Grant Free Throw 2 of 2 (13 PTS),,88-91,88,91
 0021700133,2017-11-04,CHI,NOP,50.87,5,2,8,NOP,NOP,fg_make,6,False,False,,Cousins 1' Driving Layup (25 PTS),88-93,88,93
 0021700133,2017-11-04,CHI,NOP,51.1,5,1,54,CHI,CHI,fg_miss,6,True,False,MISS Holiday 7' Driving Layup,,88-93,88,93
-0021700133,2017-11-04,CHI,NOP,51.1,5,1,54,NOP,NOP,reb,0,False,False,,Davis REBOUND (Off:2 Def:14),88-93,88,93
 0021700133,2017-11-04,CHI,NOP,51.1,5,1,54,CHI,NOP,block,6,True,False,block,block,88-93,88,93
+0021700133,2017-11-04,CHI,NOP,51.1,5,1,54,NOP,NOP,reb,0,False,False,,Davis REBOUND (Off:2 Def:14),88-93,88,93
 0021700133,2017-11-04,CHI,NOP,51.32,5,1,41,NOP,NOP,fg3_miss,1,False,False,,MISS Miller 3PT Jump Shot,88-93,88,93
 0021700133,2017-11-04,CHI,NOP,51.42,5,1,35,CHI,CHI,reb,0,False,False,Markkanen REBOUND (Off:1 Def:6),,88-93,88,93
 0021700133,2017-11-04,CHI,NOP,51.58,5,1,25,CHI,CHI,fg3_miss,1,False,False,MISS Markkanen 25' 3PT Jump Shot,,88-93,88,93

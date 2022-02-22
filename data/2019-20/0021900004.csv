@@ -211,10 +211,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900004,2019-10-23,IND,DET,23.95,2,0,3,IND,IND,ft_make,11,False,False,Brogdon Free Throw 1 of 2 (8 PTS),,54-54,54,54
 0021900004,2019-10-23,IND,DET,23.95,2,0,3,IND,IND,ft_make,12,False,False,Brogdon Free Throw 2 of 2 (9 PTS),,55-54,55,54
 0021900004,2019-10-23,IND,DET,24.0,2,0,0,DET,DET,fg3_miss,79,True,False,,MISS Drummond 30' 3PT Pullup Jump Shot,55-54,55,54
+0021900004,2019-10-23,IND,DET,24.0,2,0,0,DET,IND,block,79,True,False,block,block,55-54,55,54
 0021900004,2019-10-23,IND,DET,24.0,2,0,0,IND,IND,reb,0,False,False,Turner REBOUND (Off:1 Def:3),,55-54,55,54
 0021900004,2019-10-23,IND,DET,24.0,2,0,0,IND,,period_end,0,False,False,,,55-54,55,54
 0021900004,2019-10-23,IND,DET,24.0,3,12,0,IND,,period_start,0,False,False,,,55-54,55,54
-0021900004,2019-10-23,IND,DET,24.0,2,0,0,DET,IND,block,79,True,False,block,block,55-54,55,54
 0021900004,2019-10-23,IND,DET,24.32,3,11,41,IND,IND,fg3_make,79,False,False,Brogdon 28' 3PT Pullup Jump Shot (12 PTS),,58-54,58,54
 0021900004,2019-10-23,IND,DET,24.7,3,11,18,DET,DET,fg_make,44,False,False,,Drummond 2' Reverse Layup (12 PTS) (Jackson 3 AST),58-56,58,56
 0021900004,2019-10-23,IND,DET,24.95,3,11,3,IND,IND,fg_miss,79,False,False,MISS Warren 20' Pullup Jump Shot,,58-56,58,56
@@ -238,8 +238,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900004,2019-10-23,IND,DET,27.15,3,8,51,IND,DET,foul,4,False,False,,Brown OFF.Foul (P1) (B.Taylor),63-64,63,64
 0021900004,2019-10-23,IND,DET,27.15,3,8,51,DET,DET,tov,37,False,False,,Brown Offensive Foul Turnover (P2.T12),63-64,63,64
 0021900004,2019-10-23,IND,DET,27.25,3,8,45,IND,IND,fg_miss,79,False,False,MISS Brogdon 17' Pullup Jump Shot,,63-64,63,64
-0021900004,2019-10-23,IND,DET,27.32,3,8,41,IND,IND,fg_make,97,False,False,Sabonis 1' Tip Layup Shot (12 PTS),,65-64,65,64
 0021900004,2019-10-23,IND,DET,27.32,3,8,41,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:3 Def:5),,65-64,65,64
+0021900004,2019-10-23,IND,DET,27.32,3,8,41,IND,IND,fg_make,97,False,False,Sabonis 1' Tip Layup Shot (12 PTS),,65-64,65,64
 0021900004,2019-10-23,IND,DET,27.55,3,8,27,DET,IND,foul,1,False,False,Sabonis P.FOUL (P2.T3) (B.Taylor),,65-64,65,64
 0021900004,2019-10-23,IND,DET,27.75,3,8,15,DET,DET,fg_miss,75,False,False,,MISS Morris 2' Driving Finger Roll Layup,65-64,65,64
 0021900004,2019-10-23,IND,DET,27.78,3,8,13,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:3 Def:6),,65-64,65,64
@@ -348,8 +348,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900004,2019-10-23,IND,DET,38.07,4,9,56,DET,IND,violation,5,False,False,Turner Violation:Kicked Ball (M.Davis),,91-87,91,87
 0021900004,2019-10-23,IND,DET,38.23,4,9,46,DET,DET,tov,1,False,True,,Galloway Bad Pass Turnover (P3.T18),91-87,91,87
 0021900004,2019-10-23,IND,DET,38.23,4,9,46,DET,IND,steal,1,False,True,steal,steal,91-87,91,87
-0021900004,2019-10-23,IND,DET,38.27,4,9,44,IND,IND,tov,2,False,False,McConnell Lost Ball Turnover (P1.T12),,91-87,91,87
 0021900004,2019-10-23,IND,DET,38.27,4,9,44,DET,IND,foul,3,False,False,McConnell L.B.FOUL (P2.T2) (B.Taylor),,91-87,91,87
+0021900004,2019-10-23,IND,DET,38.27,4,9,44,IND,IND,tov,2,False,False,McConnell Lost Ball Turnover (P1.T12),,91-87,91,87
 0021900004,2019-10-23,IND,DET,38.47,4,9,32,DET,DET,fg3_miss,1,False,False,,MISS Snell 27' 3PT Jump Shot,91-87,91,87
 0021900004,2019-10-23,IND,DET,38.5,4,9,30,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:4 Def:13),91-87,91,87
 0021900004,2019-10-23,IND,DET,38.52,4,9,29,DET,DET,fg_make,9,False,False,,Drummond 1' Driving Dunk (24 PTS),91-89,91,89

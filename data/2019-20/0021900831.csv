@@ -59,8 +59,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900831,2020-02-21,OKC,DEN,6.28,1,5,43,OKC,OKC,fg_make,98,False,False,Noel 3' Cutting Layup Shot (2 PTS) (Gilgeous-Alexander 1 AST),,11-9,11,9
 0021900831,2020-02-21,OKC,DEN,6.7,1,5,18,DEN,DEN,fg_make,5,False,False,,Jokic 2' Layup (9 PTS),11-11,11,11
 0021900831,2020-02-21,OKC,DEN,7.08,1,4,55,OKC,OKC,tov,1,False,True,Paul Bad Pass Turnover (P1.T1),,11-11,11,11
-0021900831,2020-02-21,OKC,DEN,7.08,1,4,55,DEN,OKC,foul,1,False,False,Paul P.FOUL (P1.T3) (M.Ayotte),,11-11,11,11
 0021900831,2020-02-21,OKC,DEN,7.08,1,4,55,OKC,DEN,steal,1,False,True,steal,steal,11-11,11,11
+0021900831,2020-02-21,OKC,DEN,7.08,1,4,55,DEN,OKC,foul,1,False,False,Paul P.FOUL (P1.T3) (M.Ayotte),,11-11,11,11
 0021900831,2020-02-21,OKC,DEN,7.3,1,4,42,DEN,DEN,fg_miss,6,False,False,,MISS Harris 4' Driving Layup,11-11,11,11
 0021900831,2020-02-21,OKC,DEN,7.35,1,4,39,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:1 Def:1),11-11,11,11
 0021900831,2020-02-21,OKC,DEN,7.35,1,4,39,DEN,DEN,fg_make,97,False,False,,Jokic 1' Tip Layup Shot (11 PTS),11-13,11,13
@@ -96,9 +96,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900831,2020-02-21,OKC,DEN,11.57,1,0,26,DEN,DEN,fg3_miss,79,False,False,,MISS Morris 26' 3PT Pullup Jump Shot,27-17,27,17
 0021900831,2020-02-21,OKC,DEN,11.62,1,0,23,OKC,OKC,reb,0,False,False,Schroder REBOUND (Off:0 Def:2),,27-17,27,17
 0021900831,2020-02-21,OKC,DEN,11.98,1,0,1,OKC,OKC,tov,1,False,True,Paul Bad Pass Turnover (P2.T2),,27-17,27,17
+0021900831,2020-02-21,OKC,DEN,11.98,1,0,1,OKC,DEN,steal,1,False,True,steal,steal,27-17,27,17
 0021900831,2020-02-21,OKC,DEN,11.98,1,0,1,DEN,DEN,fg3_miss,1,True,False,,MISS Craig 50' 3PT Jump Shot,27-17,27,17
 0021900831,2020-02-21,OKC,DEN,11.98,1,0,1,DEN,OKC,block,1,True,False,block,block,27-17,27,17
-0021900831,2020-02-21,OKC,DEN,11.98,1,0,1,OKC,DEN,steal,1,False,True,steal,steal,27-17,27,17
 0021900831,2020-02-21,OKC,DEN,12.0,1,0,0,DEN,DEN,reb,0,False,False,,Nuggets Rebound,27-17,27,17
 0021900831,2020-02-21,OKC,DEN,12.0,1,0,0,DEN,,period_end,0,False,False,,,27-17,27,17
 0021900831,2020-02-21,OKC,DEN,12.0,2,12,0,DEN,,period_start,0,False,False,,,27-17,27,17
@@ -232,8 +232,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900831,2020-02-21,OKC,DEN,23.97,2,0,2,OKC,OKC,ft_miss,10,False,False,MISS Paul Free Throw 1 of 1,,48-48,48,48
 0021900831,2020-02-21,OKC,DEN,23.97,2,0,2,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:5 Def:5),,48-48,48,48
 0021900831,2020-02-21,OKC,DEN,23.98,2,0,1,OKC,OKC,fg_miss,72,True,False,MISS Adams 2' Putback Layup,,48-48,48,48
-0021900831,2020-02-21,OKC,DEN,23.98,2,0,1,DEN,DEN,reb,0,False,False,,Millsap REBOUND (Off:0 Def:6),48-48,48,48
 0021900831,2020-02-21,OKC,DEN,23.98,2,0,1,OKC,DEN,block,72,True,False,block,block,48-48,48,48
+0021900831,2020-02-21,OKC,DEN,23.98,2,0,1,DEN,DEN,reb,0,False,False,,Millsap REBOUND (Off:0 Def:6),48-48,48,48
 0021900831,2020-02-21,OKC,DEN,24.0,2,0,0,DEN,,period_end,0,False,False,,,48-48,48,48
 0021900831,2020-02-21,OKC,DEN,24.0,3,12,0,DEN,,period_start,0,False,False,,,48-48,48,48
 0021900831,2020-02-21,OKC,DEN,24.23,3,11,46,OKC,OKC,fg_make,6,False,False,Dort 1' Driving Layup (5 PTS) (Paul 2 AST),,50-48,50,48
@@ -362,8 +362,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900831,2020-02-21,OKC,DEN,40.37,4,7,38,DEN,DEN,reb,0,False,False,,Porter Jr. REBOUND (Off:0 Def:1),93-85,93,85
 0021900831,2020-02-21,OKC,DEN,40.5,4,7,30,DEN,DEN,fg3_miss,1,False,False,,MISS Morris 25' 3PT Jump Shot,93-85,93,85
 0021900831,2020-02-21,OKC,DEN,40.55,4,7,27,DEN,DEN,reb,0,False,False,,Porter Jr. REBOUND (Off:1 Def:1),93-85,93,85
-0021900831,2020-02-21,OKC,DEN,40.57,4,7,26,DEN,DEN,tov,40,False,False,,Porter Jr. Out of Bounds Lost Ball Turnover (P1.T17),93-85,93,85
 0021900831,2020-02-21,OKC,DEN,40.57,4,7,26,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 5 Short 0),,93-85,93,85
+0021900831,2020-02-21,OKC,DEN,40.57,4,7,26,DEN,DEN,tov,40,False,False,,Porter Jr. Out of Bounds Lost Ball Turnover (P1.T17),93-85,93,85
 0021900831,2020-02-21,OKC,DEN,40.75,4,7,15,OKC,OKC,fg_make,52,False,False,Noel 2' Alley Oop Dunk (10 PTS) (Schroder 1 AST),,95-85,95,85
 0021900831,2020-02-21,OKC,DEN,41.02,4,6,59,DEN,OKC,foul,1,False,False,Noel P.FOUL (P4.T1) (M.Ayotte),,95-85,95,85
 0021900831,2020-02-21,OKC,DEN,41.08,4,6,55,DEN,OKC,foul,1,False,False,Dort P.FOUL (P2.T2) (M.Ayotte),,95-85,95,85

@@ -12,8 +12,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700571,2018-01-05,MIL,TOR,1.43,1,10,34,MIL,TOR,foul,3,False,False,,Valanciunas L.B.FOUL (P2.T2) (D.Guthrie),5-5,5,5
 0021700571,2018-01-05,MIL,TOR,1.6,1,10,24,MIL,TOR,foul,1,False,False,,DeRozan P.FOUL (P1.T3) (D.Guthrie),5-5,5,5
 0021700571,2018-01-05,MIL,TOR,1.63,1,10,22,MIL,MIL,tov,1,False,True,Antetokounmpo Bad Pass Turnover (P1.T1),,5-5,5,5
-0021700571,2018-01-05,MIL,TOR,1.63,1,10,22,TOR,MIL,foul,28,False,False,Bledsoe Personal Take Foul (P1.T1) (D.Guthrie),,5-5,5,5
 0021700571,2018-01-05,MIL,TOR,1.63,1,10,22,MIL,TOR,steal,1,False,True,steal,steal,5-5,5,5
+0021700571,2018-01-05,MIL,TOR,1.63,1,10,22,TOR,MIL,foul,28,False,False,Bledsoe Personal Take Foul (P1.T1) (D.Guthrie),,5-5,5,5
 0021700571,2018-01-05,MIL,TOR,1.95,1,10,3,TOR,TOR,tov,2,False,True,,Ibaka Lost Ball Turnover (P1.T1),5-5,5,5
 0021700571,2018-01-05,MIL,TOR,1.95,1,10,3,TOR,MIL,steal,2,False,True,steal,steal,5-5,5,5
 0021700571,2018-01-05,MIL,TOR,2.03,1,9,58,MIL,MIL,fg_make,50,False,False,Antetokounmpo 1' Running Dunk (5 PTS) (Middleton 2 AST),,7-5,7,5
@@ -388,9 +388,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700571,2018-01-05,MIL,TOR,44.93,4,3,4,TOR,TOR,fg3_miss,1,False,False,,MISS Siakam 29' 3PT Jump Shot,102-129,102,129
 0021700571,2018-01-05,MIL,TOR,44.98,4,3,1,TOR,TOR,reb,0,False,False,,Powell REBOUND (Off:1 Def:0),102-129,102,129
 0021700571,2018-01-05,MIL,TOR,45.15,4,2,51,TOR,TOR,fg_miss,6,True,False,,MISS VanVleet 3' Driving Layup,102-129,102,129
+0021700571,2018-01-05,MIL,TOR,45.15,4,2,51,TOR,MIL,block,6,True,False,block,block,102-129,102,129
 0021700571,2018-01-05,MIL,TOR,45.15,4,2,51,TOR,TOR,reb,0,False,False,,Raptors Rebound,102-129,102,129
 0021700571,2018-01-05,MIL,TOR,45.15,4,2,51,TOR,TOR,timeout,1,False,False,,Raptors Timeout: Regular (Reg.3 Short 0),102-129,102,129
-0021700571,2018-01-05,MIL,TOR,45.15,4,2,51,TOR,MIL,block,6,True,False,block,block,102-129,102,129
 0021700571,2018-01-05,MIL,TOR,45.37,4,2,38,TOR,TOR,fg_miss,6,False,False,,MISS Powell 2' Driving Layup,102-129,102,129
 0021700571,2018-01-05,MIL,TOR,45.43,4,2,34,MIL,MIL,reb,0,False,False,Maker REBOUND (Off:3 Def:4),,102-129,102,129
 0021700571,2018-01-05,MIL,TOR,45.7,4,2,18,MIL,MIL,tov,2,False,True,Brown Lost Ball Turnover (P1.T11),,102-129,102,129
@@ -398,8 +398,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700571,2018-01-05,MIL,TOR,45.78,4,2,13,TOR,TOR,fg_miss,41,False,False,,MISS Powell Running Layup,102-129,102,129
 0021700571,2018-01-05,MIL,TOR,45.83,4,2,10,MIL,MIL,reb,0,False,False,Liggins REBOUND (Off:1 Def:2),,102-129,102,129
 0021700571,2018-01-05,MIL,TOR,45.88,4,2,7,MIL,MIL,fg_miss,6,True,False,MISS Brown 2' Driving Layup,,102-129,102,129
-0021700571,2018-01-05,MIL,TOR,45.88,4,2,7,MIL,MIL,reb,0,False,False,BUCKS Rebound,,102-129,102,129
 0021700571,2018-01-05,MIL,TOR,45.88,4,2,7,MIL,TOR,block,6,True,False,block,block,102-129,102,129
+0021700571,2018-01-05,MIL,TOR,45.88,4,2,7,MIL,MIL,reb,0,False,False,BUCKS Rebound,,102-129,102,129
 0021700571,2018-01-05,MIL,TOR,45.93,4,2,4,MIL,MIL,fg_make,1,False,False,Maker 14' Jump Shot (8 PTS) (Liggins 1 AST),,104-129,104,129
 0021700571,2018-01-05,MIL,TOR,46.25,4,1,45,TOR,TOR,fg3_miss,1,False,False,,MISS Powell 27' 3PT Jump Shot,104-129,104,129
 0021700571,2018-01-05,MIL,TOR,46.3,4,1,42,MIL,MIL,reb,0,False,False,Maker REBOUND (Off:3 Def:5),,104-129,104,129

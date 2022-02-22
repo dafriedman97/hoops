@@ -75,8 +75,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700320,2017-12-01,WAS,DET,9.97,1,2,2,DET,DET,reb,0,False,False,,Tolliver REBOUND (Off:0 Def:1),21-19,21,19
 0021700320,2017-12-01,WAS,DET,10.12,1,1,53,DET,DET,fg3_make,1,False,False,,Tolliver 25' 3PT Jump Shot (3 PTS) (Drummond 5 AST),21-22,21,22
 0021700320,2017-12-01,WAS,DET,10.52,1,1,29,WAS,WAS,fg_miss,6,True,False,MISS Oubre Jr. 3' Driving Layup,,21-22,21,22
-0021700320,2017-12-01,WAS,DET,10.52,1,1,29,DET,DET,reb,0,False,False,,Pistons Rebound,21-22,21,22
 0021700320,2017-12-01,WAS,DET,10.52,1,1,29,WAS,DET,block,6,True,False,block,block,21-22,21,22
+0021700320,2017-12-01,WAS,DET,10.52,1,1,29,DET,DET,reb,0,False,False,,Pistons Rebound,21-22,21,22
 0021700320,2017-12-01,WAS,DET,10.72,1,1,17,DET,DET,fg_miss,6,False,False,,MISS Drummond 2' Driving Layup,21-22,21,22
 0021700320,2017-12-01,WAS,DET,10.75,1,1,15,WAS,WAS,reb,0,False,False,Scott REBOUND (Off:0 Def:1),,21-22,21,22
 0021700320,2017-12-01,WAS,DET,10.95,1,1,3,WAS,DET,foul,2,False,False,,Bradley S.FOUL (P1.T4) (M.Ayotte),21-22,21,22
@@ -227,8 +227,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700320,2017-12-01,WAS,DET,26.62,3,9,23,DET,WAS,block,78,True,False,block,block,55-52,55,52
 0021700320,2017-12-01,WAS,DET,26.68,3,9,19,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:2 Def:10),55-52,55,52
 0021700320,2017-12-01,WAS,DET,26.68,3,9,19,DET,DET,fg_miss,72,True,False,,MISS Drummond 9' Putback Layup,55-52,55,52
-0021700320,2017-12-01,WAS,DET,26.68,3,9,19,WAS,WAS,reb,0,False,False,Gortat REBOUND (Off:2 Def:5),,55-52,55,52
 0021700320,2017-12-01,WAS,DET,26.68,3,9,19,DET,WAS,block,72,True,False,block,block,55-52,55,52
+0021700320,2017-12-01,WAS,DET,26.68,3,9,19,WAS,WAS,reb,0,False,False,Gortat REBOUND (Off:2 Def:5),,55-52,55,52
 0021700320,2017-12-01,WAS,DET,26.78,3,9,13,WAS,WAS,fg_make,6,False,False,Beal 1' Driving Layup (10 PTS),,57-52,57,52
 0021700320,2017-12-01,WAS,DET,27.05,3,8,57,DET,DET,tov,2,False,True,,Drummond Lost Ball Turnover (P3.T10),57-52,57,52
 0021700320,2017-12-01,WAS,DET,27.05,3,8,57,DET,WAS,steal,2,False,True,steal,steal,57-52,57,52
@@ -290,8 +290,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700320,2017-12-01,WAS,DET,34.95,3,1,3,WAS,WAS,fg_miss,78,False,False,MISS Oubre Jr. 7' Floating Jump Shot,,76-64,76,64
 0021700320,2017-12-01,WAS,DET,34.97,3,1,2,WAS,WAS,reb,0,False,False,Gortat REBOUND (Off:3 Def:7),,76-64,76,64
 0021700320,2017-12-01,WAS,DET,34.98,3,1,1,WAS,WAS,fg_miss,5,True,False,MISS Gortat 1' Layup,,76-64,76,64
-0021700320,2017-12-01,WAS,DET,34.98,3,1,1,DET,DET,reb,0,False,False,,Tolliver REBOUND (Off:0 Def:4),76-64,76,64
 0021700320,2017-12-01,WAS,DET,34.98,3,1,1,WAS,DET,block,5,True,False,block,block,76-64,76,64
+0021700320,2017-12-01,WAS,DET,34.98,3,1,1,DET,DET,reb,0,False,False,,Tolliver REBOUND (Off:0 Def:4),76-64,76,64
 0021700320,2017-12-01,WAS,DET,35.07,3,0,56,DET,DET,fg3_make,1,False,False,,Kennard 28' 3PT Jump Shot (8 PTS) (Smith 4 AST),76-67,76,67
 0021700320,2017-12-01,WAS,DET,35.17,3,0,50,WAS,DET,foul,1,False,False,,Kennard P.FOUL (P1.PN) (M.Lindsay),76-67,76,67
 0021700320,2017-12-01,WAS,DET,35.27,3,0,44,WAS,WAS,fg_miss,98,False,False,MISS Meeks 3' Cutting Layup Shot,,76-67,76,67
@@ -340,8 +340,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700320,2017-12-01,WAS,DET,38.18,4,9,49,WAS,DET,foul,2,False,False,,Jackson S.FOUL (P3.T2) (M.Lindsay),87-73,87,73
 0021700320,2017-12-01,WAS,DET,38.18,4,9,49,WAS,WAS,ft_make,10,False,False,Satoransky Free Throw 1 of 1 (11 PTS),,88-73,88,73
 0021700320,2017-12-01,WAS,DET,38.4,4,9,36,DET,DET,fg_miss,6,True,False,,MISS Harris 3' Driving Layup,88-73,88,73
-0021700320,2017-12-01,WAS,DET,38.4,4,9,36,DET,DET,reb,0,False,False,,Pistons Rebound,88-73,88,73
 0021700320,2017-12-01,WAS,DET,38.4,4,9,36,DET,WAS,block,6,True,False,block,block,88-73,88,73
+0021700320,2017-12-01,WAS,DET,38.4,4,9,36,DET,DET,reb,0,False,False,,Pistons Rebound,88-73,88,73
 0021700320,2017-12-01,WAS,DET,38.45,4,9,33,DET,DET,tov,4,False,False,,Kennard Traveling Turnover (P1.T13),88-73,88,73
 0021700320,2017-12-01,WAS,DET,38.6,4,9,24,WAS,WAS,tov,1,False,True,Scott Bad Pass Turnover (P1.T9),,88-73,88,73
 0021700320,2017-12-01,WAS,DET,38.6,4,9,24,WAS,DET,steal,1,False,True,steal,steal,88-73,88,73

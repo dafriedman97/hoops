@@ -51,8 +51,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701073,2018-03-22,ORL,PHI,5.42,1,6,35,ORL,ORL,ft_miss,12,False,False,MISS Augustin Free Throw 2 of 2,,11-12,11,12
 0021701073,2018-03-22,ORL,PHI,5.47,1,6,32,PHI,PHI,reb,0,False,False,,Simmons REBOUND (Off:0 Def:2),11-12,11,12
 0021701073,2018-03-22,ORL,PHI,5.6,1,6,24,PHI,PHI,fg_miss,6,True,False,,MISS Saric 5' Driving Layup,11-12,11,12
-0021701073,2018-03-22,ORL,PHI,5.6,1,6,24,ORL,ORL,reb,0,False,False,MAGIC Rebound,,11-12,11,12
 0021701073,2018-03-22,ORL,PHI,5.6,1,6,24,PHI,ORL,block,6,True,False,block,block,11-12,11,12
+0021701073,2018-03-22,ORL,PHI,5.6,1,6,24,ORL,ORL,reb,0,False,False,MAGIC Rebound,,11-12,11,12
 0021701073,2018-03-22,ORL,PHI,5.85,1,6,9,ORL,ORL,fg3_make,1,False,False,Vucevic 26' 3PT Jump Shot (7 PTS) (Gordon 1 AST),,14-12,14,12
 0021701073,2018-03-22,ORL,PHI,6.03,1,5,58,PHI,ORL,foul,1,False,False,Iwundu P.FOUL (P1.T1) (T.Washington),,14-12,14,12
 0021701073,2018-03-22,ORL,PHI,6.07,1,5,56,PHI,PHI,fg_make,43,False,False,,Belinelli 2' Alley Oop Layup (2 PTS) (Covington 2 AST),14-14,14,14
@@ -179,8 +179,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701073,2018-03-22,ORL,PHI,20.67,2,3,20,PHI,ORL,block,5,True,False,block,block,43-56,43,56
 0021701073,2018-03-22,ORL,PHI,20.73,2,3,16,ORL,ORL,reb,0,False,False,Iwundu REBOUND (Off:0 Def:1),,43-56,43,56
 0021701073,2018-03-22,ORL,PHI,20.77,2,3,14,ORL,ORL,tov,1,False,True,Iwundu Bad Pass Turnover (P1.T6),,43-56,43,56
-0021701073,2018-03-22,ORL,PHI,20.77,2,3,14,PHI,ORL,foul,1,False,False,Iwundu P.FOUL (P2.PN) (T.Washington),,43-56,43,56
 0021701073,2018-03-22,ORL,PHI,20.77,2,3,14,ORL,PHI,steal,1,False,True,steal,steal,43-56,43,56
+0021701073,2018-03-22,ORL,PHI,20.77,2,3,14,PHI,ORL,foul,1,False,False,Iwundu P.FOUL (P2.PN) (T.Washington),,43-56,43,56
 0021701073,2018-03-22,ORL,PHI,20.77,2,3,14,PHI,PHI,ft_make,11,False,False,,Saric Free Throw 1 of 2 (9 PTS),43-57,43,57
 0021701073,2018-03-22,ORL,PHI,20.77,2,3,14,PHI,PHI,ft_make,12,False,False,,Saric Free Throw 2 of 2 (10 PTS),43-58,43,58
 0021701073,2018-03-22,ORL,PHI,21.02,2,2,59,ORL,ORL,fg_make,79,False,False,Hezonja 14' Pullup Jump Shot (4 PTS),,45-58,45,58
@@ -193,8 +193,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701073,2018-03-22,ORL,PHI,22.2,2,1,48,PHI,PHI,reb,0,False,False,,Saric REBOUND (Off:1 Def:5),47-58,47,58
 0021701073,2018-03-22,ORL,PHI,22.28,2,1,43,PHI,PHI,fg_make,108,False,False,,Embiid Cutting Dunk Shot (12 PTS) (Simmons 6 AST),47-60,47,60
 0021701073,2018-03-22,ORL,PHI,22.65,2,1,21,ORL,ORL,tov,1,False,True,Gordon Bad Pass Turnover (P2.T7),,47-60,47,60
-0021701073,2018-03-22,ORL,PHI,22.65,2,1,21,PHI,ORL,foul,9,False,False,Biyombo C.P.FOUL (P1.PN) (T.Brown),,47-60,47,60
 0021701073,2018-03-22,ORL,PHI,22.65,2,1,21,ORL,PHI,steal,1,False,True,steal,steal,47-60,47,60
+0021701073,2018-03-22,ORL,PHI,22.65,2,1,21,PHI,ORL,foul,9,False,False,Biyombo C.P.FOUL (P1.PN) (T.Brown),,47-60,47,60
 0021701073,2018-03-22,ORL,PHI,22.65,2,1,21,PHI,PHI,ft_make,25,False,False,,Covington Free Throw Clear Path 1 of 2 (5 PTS),47-61,47,61
 0021701073,2018-03-22,ORL,PHI,22.65,2,1,21,PHI,PHI,ft_make,26,False,False,,Covington Free Throw Clear Path 2 of 2 (6 PTS),47-62,47,62
 0021701073,2018-03-22,ORL,PHI,22.78,2,1,13,PHI,ORL,foul,1,False,False,Vucevic P.FOUL (P1.PN) (J.Van Duyne),,47-62,47,62
@@ -289,8 +289,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701073,2018-03-22,ORL,PHI,30.42,3,5,35,ORL,ORL,reb,0,False,False,Gordon REBOUND (Off:1 Def:8),,54-85,54,85
 0021701073,2018-03-22,ORL,PHI,30.77,3,5,14,ORL,ORL,fg_miss,6,True,False,MISS Hezonja 12' Driving Layup,,54-85,54,85
 0021701073,2018-03-22,ORL,PHI,30.77,3,5,14,ORL,PHI,block,6,True,False,block,block,54-85,54,85
-0021701073,2018-03-22,ORL,PHI,30.78,3,5,13,ORL,ORL,reb,0,False,False,MAGIC Rebound,,54-85,54,85
 0021701073,2018-03-22,ORL,PHI,30.78,3,5,13,ORL,ORL,tov,11,False,False,MAGIC Turnover: Shot Clock (T#10),,54-85,54,85
+0021701073,2018-03-22,ORL,PHI,30.78,3,5,13,ORL,ORL,reb,0,False,False,MAGIC Rebound,,54-85,54,85
 0021701073,2018-03-22,ORL,PHI,30.93,3,5,4,PHI,PHI,tov,45,False,False,,Simmons Out of Bounds - Bad Pass Turnover Turnover (P4.T10),54-85,54,85
 0021701073,2018-03-22,ORL,PHI,31.33,3,4,40,ORL,ORL,fg_miss,57,False,False,MISS Iwundu 8' Driving Hook Shot,,54-85,54,85
 0021701073,2018-03-22,ORL,PHI,31.4,3,4,36,PHI,PHI,reb,0,False,False,,Johnson REBOUND (Off:2 Def:2),54-85,54,85
@@ -352,8 +352,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701073,2018-03-22,ORL,PHI,37.83,4,10,10,ORL,ORL,reb,0,False,False,Mack REBOUND (Off:1 Def:0),,72-95,72,95
 0021701073,2018-03-22,ORL,PHI,37.88,4,10,7,ORL,ORL,fg_miss,101,True,False,MISS Mack 9' Driving Floating Jump Shot,,72-95,72,95
 0021701073,2018-03-22,ORL,PHI,37.88,4,10,7,ORL,PHI,block,101,True,False,block,block,72-95,72,95
-0021701073,2018-03-22,ORL,PHI,37.9,4,10,6,ORL,ORL,fg_miss,5,True,False,MISS Biyombo 2' Layup,,72-95,72,95
 0021701073,2018-03-22,ORL,PHI,37.9,4,10,6,ORL,ORL,reb,0,False,False,Biyombo REBOUND (Off:1 Def:2),,72-95,72,95
+0021701073,2018-03-22,ORL,PHI,37.9,4,10,6,ORL,ORL,fg_miss,5,True,False,MISS Biyombo 2' Layup,,72-95,72,95
 0021701073,2018-03-22,ORL,PHI,37.9,4,10,6,ORL,PHI,block,5,True,False,block,block,72-95,72,95
 0021701073,2018-03-22,ORL,PHI,37.93,4,10,4,PHI,PHI,reb,0,False,False,,Holmes REBOUND (Off:1 Def:1),72-95,72,95
 0021701073,2018-03-22,ORL,PHI,38.12,4,9,53,PHI,PHI,fg3_miss,1,False,False,,MISS Anderson 26' 3PT Jump Shot,72-95,72,95

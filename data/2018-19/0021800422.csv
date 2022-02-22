@@ -2,8 +2,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800422,2018-12-14,BKN,WAS,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
 0021800422,2018-12-14,BKN,WAS,0.0,1,12,0,,BKN,jump_ball,0,False,False,Jump Ball Allen vs. Bryant: Tip to Satoransky,,0-0,0,0
 0021800422,2018-12-14,BKN,WAS,0.33,1,11,40,WAS,WAS,fg_miss,98,True,False,,MISS Bryant 1' Cutting Layup Shot,0-0,0,0
-0021800422,2018-12-14,BKN,WAS,0.33,1,11,40,WAS,WAS,reb,0,False,False,,Wizards Rebound,0-0,0,0
 0021800422,2018-12-14,BKN,WAS,0.33,1,11,40,WAS,BKN,block,98,True,False,block,block,0-0,0,0
+0021800422,2018-12-14,BKN,WAS,0.33,1,11,40,WAS,WAS,reb,0,False,False,,Wizards Rebound,0-0,0,0
 0021800422,2018-12-14,BKN,WAS,0.38,1,11,37,WAS,WAS,fg_miss,79,False,False,,MISS Beal 16' Pullup Jump Shot,0-0,0,0
 0021800422,2018-12-14,BKN,WAS,0.45,1,11,33,BKN,BKN,reb,0,False,False,Kurucs REBOUND (Off:0 Def:1),,0-0,0,0
 0021800422,2018-12-14,BKN,WAS,0.73,1,11,16,BKN,BKN,fg_make,79,False,False,Kurucs 4' Pullup Jump Shot (2 PTS),,2-0,2,0
@@ -23,8 +23,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800422,2018-12-14,BKN,WAS,2.3,1,9,42,WAS,WAS,fg_miss,79,False,False,,MISS Wall 20' Pullup Jump Shot,9-2,9,2
 0021800422,2018-12-14,BKN,WAS,2.3,1,9,42,BKN,BKN,reb,0,False,False,Kurucs REBOUND (Off:1 Def:2),,9-2,9,2
 0021800422,2018-12-14,BKN,WAS,2.43,1,9,34,BKN,BKN,fg_miss,6,True,False,MISS Kurucs 1' Driving Layup,,9-2,9,2
-0021800422,2018-12-14,BKN,WAS,2.43,1,9,34,WAS,WAS,reb,0,False,False,,Wizards Rebound,9-2,9,2
 0021800422,2018-12-14,BKN,WAS,2.43,1,9,34,BKN,WAS,block,6,True,False,block,block,9-2,9,2
+0021800422,2018-12-14,BKN,WAS,2.43,1,9,34,WAS,WAS,reb,0,False,False,,Wizards Rebound,9-2,9,2
 0021800422,2018-12-14,BKN,WAS,2.5,1,9,30,WAS,WAS,fg_make,6,False,False,,Green 1' Driving Layup (2 PTS) (Wall 2 AST),9-4,9,4
 0021800422,2018-12-14,BKN,WAS,2.5,1,9,30,WAS,BKN,foul,2,False,False,Allen S.FOUL (P1.T2) (E.Malloy),,9-4,9,4
 0021800422,2018-12-14,BKN,WAS,2.5,1,9,30,WAS,BKN,violation,3,False,False,Lane,,9-4,9,4
@@ -155,8 +155,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800422,2018-12-14,BKN,WAS,17.87,2,6,8,BKN,BKN,ft_make,11,False,False,Kurucs Free Throw 1 of 2 (5 PTS),,48-43,48,43
 0021800422,2018-12-14,BKN,WAS,17.87,2,6,8,BKN,BKN,ft_make,12,False,False,Kurucs Free Throw 2 of 2 (6 PTS),,49-43,49,43
 0021800422,2018-12-14,BKN,WAS,17.97,2,6,2,WAS,WAS,fg_miss,79,False,False,,MISS Beal 17' Pullup Jump Shot,49-43,49,43
-0021800422,2018-12-14,BKN,WAS,17.98,2,6,1,BKN,BKN,reb,0,False,False,NETS Rebound,,49-43,49,43
 0021800422,2018-12-14,BKN,WAS,17.98,2,6,1,BKN,WAS,foul,3,False,False,,Morris L.B.FOUL (P2.T4) (E.Malloy),49-43,49,43
+0021800422,2018-12-14,BKN,WAS,17.98,2,6,1,BKN,BKN,reb,0,False,False,NETS Rebound,,49-43,49,43
 0021800422,2018-12-14,BKN,WAS,18.2,2,5,48,BKN,BKN,fg_make,101,False,False,Harris 8' Driving Floating Jump Shot (6 PTS) (Dinwiddie 4 AST),,51-43,51,43
 0021800422,2018-12-14,BKN,WAS,18.35,2,5,39,WAS,WAS,fg_miss,80,False,False,,MISS Beal 10' Step Back Jump Shot,51-43,51,43
 0021800422,2018-12-14,BKN,WAS,18.37,2,5,38,WAS,WAS,reb,0,False,False,,Wizards Rebound,51-43,51,43
@@ -242,8 +242,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800422,2018-12-14,BKN,WAS,28.65,3,7,21,WAS,WAS,fg3_make,1,False,False,,Green 24' 3PT Jump Shot (9 PTS) (Beal 8 AST),80-74,80,74
 0021800422,2018-12-14,BKN,WAS,28.67,3,7,20,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 4 Short 0),,80-74,80,74
 0021800422,2018-12-14,BKN,WAS,28.9,3,7,6,BKN,BKN,fg_miss,6,True,False,MISS Harris 4' Driving Layup,,80-74,80,74
-0021800422,2018-12-14,BKN,WAS,28.9,3,7,6,BKN,BKN,reb,0,False,False,NETS Rebound,,80-74,80,74
 0021800422,2018-12-14,BKN,WAS,28.9,3,7,6,BKN,WAS,block,6,True,False,block,block,80-74,80,74
+0021800422,2018-12-14,BKN,WAS,28.9,3,7,6,BKN,BKN,reb,0,False,False,NETS Rebound,,80-74,80,74
 0021800422,2018-12-14,BKN,WAS,29.0,3,7,0,BKN,BKN,fg_make,1,False,False,Kurucs 22' Jump Shot (8 PTS) (Russell 8 AST),,82-74,82,74
 0021800422,2018-12-14,BKN,WAS,29.25,3,6,45,WAS,WAS,fg3_miss,79,False,False,,MISS Wall 25' 3PT Pullup Jump Shot,82-74,82,74
 0021800422,2018-12-14,BKN,WAS,29.32,3,6,41,BKN,BKN,reb,0,False,False,Kurucs REBOUND (Off:1 Def:5),,82-74,82,74
@@ -268,10 +268,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800422,2018-12-14,BKN,WAS,31.87,3,4,8,WAS,WAS,fg_make,108,False,False,,Oubre Jr. 2' Cutting Dunk Shot (6 PTS) (Beal 9 AST),90-81,90,81
 0021800422,2018-12-14,BKN,WAS,32.18,3,3,49,BKN,BKN,fg_make,7,False,False,Allen 1' Dunk (12 PTS) (Carroll 1 AST),,92-81,92,81
 0021800422,2018-12-14,BKN,WAS,32.52,3,3,29,WAS,WAS,fg_miss,101,True,False,,MISS Rivers 1' Driving Floating Jump Shot,92-81,92,81
+0021800422,2018-12-14,BKN,WAS,32.52,3,3,29,WAS,BKN,block,101,True,False,block,block,92-81,92,81
 0021800422,2018-12-14,BKN,WAS,32.52,3,3,29,WAS,WAS,reb,0,False,False,,Wizards Rebound,92-81,92,81
 0021800422,2018-12-14,BKN,WAS,32.52,3,3,29,WAS,BKN,violation,1,False,False,NETS Violation: Delay of game Violation,,92-81,92,81
 0021800422,2018-12-14,BKN,WAS,32.52,3,3,29,WAS,BKN,foul,18,False,False,NETS Delay,,92-81,92,81
-0021800422,2018-12-14,BKN,WAS,32.52,3,3,29,WAS,BKN,block,101,True,False,block,block,92-81,92,81
 0021800422,2018-12-14,BKN,WAS,32.52,3,3,29,WAS,WAS,ft_make,16,False,False,,Beal Free Throw Technical (18 PTS),92-82,92,82
 0021800422,2018-12-14,BKN,WAS,32.55,3,3,27,WAS,WAS,fg3_miss,1,False,False,,MISS Morris 25' 3PT Jump Shot,92-82,92,82
 0021800422,2018-12-14,BKN,WAS,32.62,3,3,23,BKN,BKN,reb,0,False,False,Dudley REBOUND (Off:1 Def:2),,92-82,92,82

@@ -19,8 +19,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700928,2018-03-02,ATL,GSW,2.52,1,9,29,GSW,GSW,ft_make,11,False,False,,Curry Free Throw 1 of 2 (3 PTS),8-3,8,3
 0021700928,2018-03-02,ATL,GSW,2.52,1,9,29,GSW,GSW,ft_make,12,False,False,,Curry Free Throw 2 of 2 (4 PTS),8-4,8,4
 0021700928,2018-03-02,ATL,GSW,2.9,1,9,6,ATL,ATL,fg_miss,101,True,False,MISS Dedmon 9' Driving Floating Jump Shot,,8-4,8,4
-0021700928,2018-03-02,ATL,GSW,2.9,1,9,6,ATL,ATL,reb,0,False,False,HAWKS Rebound,,8-4,8,4
 0021700928,2018-03-02,ATL,GSW,2.9,1,9,6,ATL,GSW,block,101,True,False,block,block,8-4,8,4
+0021700928,2018-03-02,ATL,GSW,2.9,1,9,6,ATL,ATL,reb,0,False,False,HAWKS Rebound,,8-4,8,4
 0021700928,2018-03-02,ATL,GSW,2.92,1,9,5,ATL,ATL,fg3_miss,1,False,False,MISS Schroder 33' 3PT Jump Shot,,8-4,8,4
 0021700928,2018-03-02,ATL,GSW,2.92,1,9,5,ATL,ATL,reb,0,False,False,HAWKS Rebound,,8-4,8,4
 0021700928,2018-03-02,ATL,GSW,2.92,1,9,5,ATL,ATL,tov,11,False,False,HAWKS Turnover: Shot Clock (T#2),,8-4,8,4
@@ -178,12 +178,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700928,2018-03-02,ATL,GSW,21.0,2,3,0,ATL,ATL,tov,1,False,True,Prince Bad Pass Turnover (P4.T9),,48-56,48,56
 0021700928,2018-03-02,ATL,GSW,21.0,2,3,0,ATL,GSW,steal,1,False,True,steal,steal,48-56,48,56
 0021700928,2018-03-02,ATL,GSW,21.03,2,2,58,GSW,GSW,fg_miss,41,True,False,,MISS Bell 1' Running Layup,48-56,48,56
-0021700928,2018-03-02,ATL,GSW,21.03,2,2,58,GSW,GSW,reb,0,False,False,,Warriors Rebound,48-56,48,56
 0021700928,2018-03-02,ATL,GSW,21.03,2,2,58,GSW,ATL,block,41,True,False,block,block,48-56,48,56
+0021700928,2018-03-02,ATL,GSW,21.03,2,2,58,GSW,GSW,reb,0,False,False,,Warriors Rebound,48-56,48,56
 0021700928,2018-03-02,ATL,GSW,21.08,2,2,55,GSW,GSW,fg_make,79,False,False,,Durant 19' Pullup Jump Shot (12 PTS) (Curry 1 AST),48-58,48,58
 0021700928,2018-03-02,ATL,GSW,21.38,2,2,37,ATL,ATL,fg3_miss,1,True,False,MISS Muscala 3PT Jump Shot,,48-58,48,58
-0021700928,2018-03-02,ATL,GSW,21.38,2,2,37,ATL,ATL,reb,0,False,False,HAWKS Rebound,,48-58,48,58
 0021700928,2018-03-02,ATL,GSW,21.38,2,2,37,ATL,GSW,block,1,True,False,block,block,48-58,48,58
+0021700928,2018-03-02,ATL,GSW,21.38,2,2,37,ATL,ATL,reb,0,False,False,HAWKS Rebound,,48-58,48,58
 0021700928,2018-03-02,ATL,GSW,21.48,2,2,31,ATL,ATL,fg_miss,79,False,False,MISS Schroder 22' Pullup Jump Shot,,48-58,48,58
 0021700928,2018-03-02,ATL,GSW,21.55,2,2,27,GSW,GSW,reb,0,False,False,,Iguodala REBOUND (Off:0 Def:3),48-58,48,58
 0021700928,2018-03-02,ATL,GSW,21.77,2,2,14,GSW,GSW,tov,40,False,False,,Iguodala Out of Bounds Lost Ball Turnover (P2.T8),48-58,48,58
@@ -194,8 +194,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700928,2018-03-02,ATL,GSW,22.23,2,1,46,GSW,GSW,fg_miss,97,False,False,,MISS Bell 1' Tip Layup Shot,48-58,48,58
 0021700928,2018-03-02,ATL,GSW,22.25,2,1,45,ATL,ATL,reb,0,False,False,Collins REBOUND (Off:1 Def:3),,48-58,48,58
 0021700928,2018-03-02,ATL,GSW,22.25,2,1,45,ATL,ATL,tov,1,False,True,Collins Bad Pass Turnover (P1.T11),,48-58,48,58
-0021700928,2018-03-02,ATL,GSW,22.25,2,1,45,GSW,ATL,foul,2,False,False,Bazemore S.FOUL (P1.PN) (B.Nansel),,48-58,48,58
 0021700928,2018-03-02,ATL,GSW,22.25,2,1,45,ATL,GSW,steal,1,False,True,steal,steal,48-58,48,58
+0021700928,2018-03-02,ATL,GSW,22.25,2,1,45,GSW,ATL,foul,2,False,False,Bazemore S.FOUL (P1.PN) (B.Nansel),,48-58,48,58
 0021700928,2018-03-02,ATL,GSW,22.25,2,1,45,GSW,GSW,ft_make,11,False,False,,Curry Free Throw 1 of 2 (22 PTS),48-59,48,59
 0021700928,2018-03-02,ATL,GSW,22.25,2,1,45,GSW,GSW,ft_make,12,False,False,,Curry Free Throw 2 of 2 (23 PTS),48-60,48,60
 0021700928,2018-03-02,ATL,GSW,22.6,2,1,24,ATL,ATL,fg_make,6,False,False,Schroder 2' Driving Layup (14 PTS),,50-60,50,60
@@ -307,8 +307,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700928,2018-03-02,ATL,GSW,34.73,3,1,16,GSW,GSW,fg3_miss,1,False,False,,MISS Iguodala 25' 3PT Jump Shot,76-87,76,87
 0021700928,2018-03-02,ATL,GSW,34.8,3,1,12,ATL,ATL,reb,0,False,False,Schroder REBOUND (Off:0 Def:4),,76-87,76,87
 0021700928,2018-03-02,ATL,GSW,35.07,3,0,56,ATL,ATL,fg_miss,6,True,False,MISS Morris 4' Driving Layup,,76-87,76,87
-0021700928,2018-03-02,ATL,GSW,35.07,3,0,56,GSW,GSW,reb,0,False,False,,Bell REBOUND (Off:1 Def:3),76-87,76,87
 0021700928,2018-03-02,ATL,GSW,35.07,3,0,56,ATL,GSW,block,6,True,False,block,block,76-87,76,87
+0021700928,2018-03-02,ATL,GSW,35.07,3,0,56,GSW,GSW,reb,0,False,False,,Bell REBOUND (Off:1 Def:3),76-87,76,87
 0021700928,2018-03-02,ATL,GSW,35.18,3,0,49,GSW,GSW,tov,1,False,True,,Bell Bad Pass Turnover (P2.T14),76-87,76,87
 0021700928,2018-03-02,ATL,GSW,35.18,3,0,49,GSW,ATL,steal,1,False,True,steal,steal,76-87,76,87
 0021700928,2018-03-02,ATL,GSW,35.2,3,0,48,ATL,ATL,fg3_make,1,False,False,Delaney 3PT Jump Shot (6 PTS),,79-87,79,87
@@ -361,8 +361,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700928,2018-03-02,ATL,GSW,41.48,4,6,31,GSW,GSW,fg3_miss,1,False,False,,MISS Young 3PT Jump Shot,90-101,90,101
 0021700928,2018-03-02,ATL,GSW,41.55,4,6,27,ATL,ATL,reb,0,False,False,Dedmon REBOUND (Off:2 Def:4),,90-101,90,101
 0021700928,2018-03-02,ATL,GSW,41.7,4,6,18,ATL,ATL,fg_miss,79,True,False,MISS Schroder 22' Pullup Jump Shot,,90-101,90,101
-0021700928,2018-03-02,ATL,GSW,41.7,4,6,18,GSW,GSW,reb,0,False,False,,Thompson REBOUND (Off:0 Def:3),90-101,90,101
 0021700928,2018-03-02,ATL,GSW,41.7,4,6,18,ATL,GSW,block,79,True,False,block,block,90-101,90,101
+0021700928,2018-03-02,ATL,GSW,41.7,4,6,18,GSW,GSW,reb,0,False,False,,Thompson REBOUND (Off:0 Def:3),90-101,90,101
 0021700928,2018-03-02,ATL,GSW,41.78,4,6,13,GSW,GSW,fg_make,50,False,False,,Iguodala 2' Running Dunk (5 PTS) (Thompson 3 AST),90-103,90,103
 0021700928,2018-03-02,ATL,GSW,42.12,4,5,53,ATL,ATL,fg_make,58,False,False,Collins 13' Turnaround Hook Shot (12 PTS),,92-103,92,103
 0021700928,2018-03-02,ATL,GSW,42.3,4,5,42,GSW,GSW,fg_miss,1,False,False,,MISS West 20' Jump Shot,92-103,92,103

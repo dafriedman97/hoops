@@ -24,16 +24,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800227,2018-11-17,ORL,LAL,2.58,1,9,25,LAL,LAL,ft_make,12,False,False,,James Free Throw 2 of 2 (2 PTS),4-6,4,6
 0021800227,2018-11-17,ORL,LAL,2.83,1,9,10,ORL,ORL,fg_make,78,False,False,Vucevic 6' Floating Jump Shot (2 PTS) (Fournier 1 AST),,6-6,6,6
 0021800227,2018-11-17,ORL,LAL,3.12,1,8,53,LAL,LAL,fg_miss,6,True,False,,MISS Kuzma 2' Driving Layup,6-6,6,6
-0021800227,2018-11-17,ORL,LAL,3.12,1,8,53,LAL,LAL,reb,0,False,False,,Lakers Rebound,6-6,6,6
 0021800227,2018-11-17,ORL,LAL,3.12,1,8,53,LAL,ORL,block,6,True,False,block,block,6-6,6,6
+0021800227,2018-11-17,ORL,LAL,3.12,1,8,53,LAL,LAL,reb,0,False,False,,Lakers Rebound,6-6,6,6
 0021800227,2018-11-17,ORL,LAL,3.22,1,8,47,LAL,LAL,fg_make,9,False,False,,Ingram 2' Driving Dunk (2 PTS),6-8,6,8
 0021800227,2018-11-17,ORL,LAL,3.5,1,8,30,ORL,ORL,fg_make,6,False,False,Fournier 2' Driving Layup (4 PTS),,8-8,8,8
 0021800227,2018-11-17,ORL,LAL,3.65,1,8,21,LAL,LAL,fg3_make,1,False,False,,James 25' 3PT Jump Shot (5 PTS),8-11,8,11
 0021800227,2018-11-17,ORL,LAL,3.98,1,8,1,ORL,ORL,fg3_miss,1,False,False,MISS Iwundu 26' 3PT Jump Shot,,8-11,8,11
 0021800227,2018-11-17,ORL,LAL,4.02,1,7,59,LAL,LAL,reb,0,False,False,,Kuzma REBOUND (Off:0 Def:2),8-11,8,11
 0021800227,2018-11-17,ORL,LAL,4.1,1,7,54,LAL,LAL,fg_miss,6,True,False,,MISS Kuzma 6' Driving Layup,8-11,8,11
-0021800227,2018-11-17,ORL,LAL,4.1,1,7,54,ORL,ORL,reb,0,False,False,MAGIC Rebound,,8-11,8,11
 0021800227,2018-11-17,ORL,LAL,4.1,1,7,54,LAL,ORL,block,6,True,False,block,block,8-11,8,11
+0021800227,2018-11-17,ORL,LAL,4.1,1,7,54,ORL,ORL,reb,0,False,False,MAGIC Rebound,,8-11,8,11
 0021800227,2018-11-17,ORL,LAL,4.25,1,7,45,ORL,ORL,fg_miss,1,False,False,MISS Gordon 4' Jump Shot,,8-11,8,11
 0021800227,2018-11-17,ORL,LAL,4.3,1,7,42,LAL,LAL,reb,0,False,False,,Ball REBOUND (Off:0 Def:1),8-11,8,11
 0021800227,2018-11-17,ORL,LAL,4.47,1,7,32,LAL,LAL,fg_make,79,False,False,,Ingram 12' Pullup Jump Shot (4 PTS),8-13,8,13
@@ -41,8 +41,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800227,2018-11-17,ORL,LAL,4.88,1,7,7,LAL,LAL,fg_miss,6,False,False,,MISS James 5' Driving Layup,8-13,8,13
 0021800227,2018-11-17,ORL,LAL,4.92,1,7,5,ORL,ORL,reb,0,False,False,Fournier REBOUND (Off:0 Def:1),,8-13,8,13
 0021800227,2018-11-17,ORL,LAL,4.98,1,7,1,ORL,ORL,fg_miss,98,True,False,MISS Fournier 3' Cutting Layup Shot,,8-13,8,13
-0021800227,2018-11-17,ORL,LAL,4.98,1,7,1,ORL,ORL,reb,0,False,False,MAGIC Rebound,,8-13,8,13
 0021800227,2018-11-17,ORL,LAL,4.98,1,7,1,ORL,LAL,block,98,True,False,block,block,8-13,8,13
+0021800227,2018-11-17,ORL,LAL,4.98,1,7,1,ORL,ORL,reb,0,False,False,MAGIC Rebound,,8-13,8,13
 0021800227,2018-11-17,ORL,LAL,4.98,1,7,1,ORL,ORL,fg_make,98,False,False,Fournier 3' Cutting Layup Shot (6 PTS) (Augustin 1 AST),,10-13,10,13
 0021800227,2018-11-17,ORL,LAL,5.32,1,6,41,LAL,ORL,foul,2,False,False,Iwundu S.FOUL (P2.T2) (S.Wright),,10-13,10,13
 0021800227,2018-11-17,ORL,LAL,5.32,1,6,41,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 1 Short 0),,10-13,10,13
@@ -143,8 +143,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800227,2018-11-17,ORL,LAL,15.6,2,8,24,LAL,LAL,fg3_make,1,False,False,,Hart 24' 3PT Jump Shot (8 PTS) (Ingram 4 AST),37-35,37,35
 0021800227,2018-11-17,ORL,LAL,15.77,2,8,14,ORL,ORL,fg_make,1,False,False,Bamba 19' Jump Shot (4 PTS) (Simmons 4 AST),,39-35,39,35
 0021800227,2018-11-17,ORL,LAL,16.0,2,8,0,LAL,LAL,fg_miss,6,True,False,,MISS James 4' Driving Layup,39-35,39,35
-0021800227,2018-11-17,ORL,LAL,16.0,2,8,0,LAL,LAL,reb,0,False,False,,Lakers Rebound,39-35,39,35
 0021800227,2018-11-17,ORL,LAL,16.0,2,8,0,LAL,ORL,block,6,True,False,block,block,39-35,39,35
+0021800227,2018-11-17,ORL,LAL,16.0,2,8,0,LAL,LAL,reb,0,False,False,,Lakers Rebound,39-35,39,35
 0021800227,2018-11-17,ORL,LAL,16.1,2,7,54,LAL,LAL,fg_miss,6,False,False,,MISS James 4' Driving Layup,39-35,39,35
 0021800227,2018-11-17,ORL,LAL,16.12,2,7,53,LAL,LAL,reb,0,False,False,,McGee REBOUND (Off:1 Def:1),39-35,39,35
 0021800227,2018-11-17,ORL,LAL,16.13,2,7,52,LAL,LAL,fg_make,97,False,False,,McGee 1' Tip Layup Shot (7 PTS),39-37,39,37
@@ -320,8 +320,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800227,2018-11-17,ORL,LAL,35.9,3,0,6,ORL,LAL,block,6,True,False,block,block,100-81,100,81
 0021800227,2018-11-17,ORL,LAL,35.93,3,0,4,LAL,LAL,reb,0,False,False,,Ball REBOUND (Off:0 Def:5),100-81,100,81
 0021800227,2018-11-17,ORL,LAL,35.97,3,0,2,LAL,LAL,fg_miss,50,True,False,,MISS Caldwell-Pope 4' Running Dunk,100-81,100,81
-0021800227,2018-11-17,ORL,LAL,35.97,3,0,2,ORL,ORL,reb,0,False,False,MAGIC Rebound,,100-81,100,81
 0021800227,2018-11-17,ORL,LAL,35.97,3,0,2,LAL,ORL,block,50,True,False,block,block,100-81,100,81
+0021800227,2018-11-17,ORL,LAL,35.97,3,0,2,ORL,ORL,reb,0,False,False,MAGIC Rebound,,100-81,100,81
 0021800227,2018-11-17,ORL,LAL,36.0,3,0,0,ORL,ORL,tov,45,False,False,Isaac Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,100-81,100,81
 0021800227,2018-11-17,ORL,LAL,36.0,3,0,0,LAL,LAL,fg3_miss,1,False,False,,MISS Stephenson 62' 3PT Jump Shot,100-81,100,81
 0021800227,2018-11-17,ORL,LAL,36.0,3,0,0,LAL,LAL,reb,0,False,False,,Lakers Rebound,100-81,100,81
@@ -330,8 +330,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800227,2018-11-17,ORL,LAL,36.32,4,11,41,LAL,LAL,fg_miss,75,False,False,,MISS Kuzma 3' Driving Finger Roll Layup,100-81,100,81
 0021800227,2018-11-17,ORL,LAL,36.35,4,11,39,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:0 Def:1),,100-81,100,81
 0021800227,2018-11-17,ORL,LAL,36.5,4,11,30,ORL,ORL,tov,1,False,True,Isaac Bad Pass Turnover (P2.T9),,100-81,100,81
-0021800227,2018-11-17,ORL,LAL,36.5,4,11,30,LAL,ORL,foul,1,False,False,Simmons P.FOUL (P1.T1) (J.Goble),,100-81,100,81
 0021800227,2018-11-17,ORL,LAL,36.5,4,11,30,ORL,LAL,steal,1,False,True,steal,steal,100-81,100,81
+0021800227,2018-11-17,ORL,LAL,36.5,4,11,30,LAL,ORL,foul,1,False,False,Simmons P.FOUL (P1.T1) (J.Goble),,100-81,100,81
 0021800227,2018-11-17,ORL,LAL,36.55,4,11,27,LAL,LAL,fg3_make,1,False,False,,Hart 25' 3PT Jump Shot (13 PTS) (Ball 4 AST),100-84,100,84
 0021800227,2018-11-17,ORL,LAL,36.83,4,11,10,ORL,LAL,foul,1,False,False,,Ball P.FOUL (P3.T1) (S.Wright),100-84,100,84
 0021800227,2018-11-17,ORL,LAL,37.02,4,10,59,ORL,ORL,fg_make,108,False,False,Simmons 1' Cutting Dunk Shot (10 PTS) (Isaac 1 AST),,102-84,102,84
@@ -369,8 +369,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800227,2018-11-17,ORL,LAL,40.13,4,7,52,ORL,ORL,fg3_miss,1,False,False,MISS Bamba 26' 3PT Jump Shot,,110-92,110,92
 0021800227,2018-11-17,ORL,LAL,40.2,4,7,48,LAL,LAL,reb,0,False,False,,Stephenson REBOUND (Off:0 Def:2),110-92,110,92
 0021800227,2018-11-17,ORL,LAL,40.32,4,7,41,LAL,LAL,fg_miss,78,True,False,,MISS Caldwell-Pope 4' Floating Jump Shot,110-92,110,92
-0021800227,2018-11-17,ORL,LAL,40.32,4,7,41,LAL,LAL,reb,0,False,False,,Lakers Rebound,110-92,110,92
 0021800227,2018-11-17,ORL,LAL,40.32,4,7,41,LAL,ORL,block,78,True,False,block,block,110-92,110,92
+0021800227,2018-11-17,ORL,LAL,40.32,4,7,41,LAL,LAL,reb,0,False,False,,Lakers Rebound,110-92,110,92
 0021800227,2018-11-17,ORL,LAL,40.35,4,7,39,LAL,LAL,fg_miss,1,False,False,,MISS Beasley 20' Jump Shot,110-92,110,92
 0021800227,2018-11-17,ORL,LAL,40.38,4,7,37,ORL,ORL,reb,0,False,False,Isaac REBOUND (Off:1 Def:4),,110-92,110,92
 0021800227,2018-11-17,ORL,LAL,40.6,4,7,24,ORL,ORL,fg_make,6,False,False,Isaac 2' Driving Layup (7 PTS),,112-92,112,92

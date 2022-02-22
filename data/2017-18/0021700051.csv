@@ -32,8 +32,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700051,2017-10-24,BOS,NYK,3.03,1,8,58,NYK,BOS,block,6,True,False,block,block,4-4,4,4
 0021700051,2017-10-24,BOS,NYK,3.1,1,8,54,NYK,NYK,reb,0,False,False,,Kanter REBOUND (Off:2 Def:2),4-4,4,4
 0021700051,2017-10-24,BOS,NYK,3.12,1,8,53,NYK,NYK,fg_miss,41,True,False,,MISS Kanter 2' Running Layup,4-4,4,4
-0021700051,2017-10-24,BOS,NYK,3.12,1,8,53,BOS,BOS,reb,0,False,False,Horford REBOUND (Off:0 Def:2),,4-4,4,4
 0021700051,2017-10-24,BOS,NYK,3.12,1,8,53,NYK,BOS,block,41,True,False,block,block,4-4,4,4
+0021700051,2017-10-24,BOS,NYK,3.12,1,8,53,BOS,BOS,reb,0,False,False,Horford REBOUND (Off:0 Def:2),,4-4,4,4
 0021700051,2017-10-24,BOS,NYK,3.2,1,8,48,BOS,BOS,fg_make,57,False,False,Baynes Driving Hook Shot (2 PTS) (Horford 1 AST),,6-4,6,4
 0021700051,2017-10-24,BOS,NYK,3.47,1,8,32,NYK,NYK,fg_make,1,False,False,,Porzingis 14' Jump Shot (2 PTS) (Sessions 2 AST),6-6,6,6
 0021700051,2017-10-24,BOS,NYK,3.83,1,8,10,BOS,BOS,fg3_miss,1,False,False,MISS Brown 3PT Jump Shot,,6-6,6,6
@@ -72,9 +72,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700051,2017-10-24,BOS,NYK,6.98,1,5,1,NYK,BOS,foul,3,False,False,Irving L.B.FOUL (P1.T3) (E.Dalen),,13-10,13,10
 0021700051,2017-10-24,BOS,NYK,7.08,1,4,55,NYK,NYK,fg_make,41,False,False,,Sessions 2' Running Layup (4 PTS),13-12,13,12
 0021700051,2017-10-24,BOS,NYK,7.52,1,4,29,BOS,BOS,fg_miss,44,True,False,MISS Brown 1' Reverse Layup,,13-12,13,12
+0021700051,2017-10-24,BOS,NYK,7.52,1,4,29,BOS,NYK,block,44,True,False,block,block,13-12,13,12
 0021700051,2017-10-24,BOS,NYK,7.52,1,4,29,BOS,BOS,reb,0,False,False,Horford REBOUND (Off:1 Def:3),,13-12,13,12
 0021700051,2017-10-24,BOS,NYK,7.52,1,4,29,BOS,BOS,tov,11,False,False,CELTICS Turnover: Shot Clock (T#4),,13-12,13,12
-0021700051,2017-10-24,BOS,NYK,7.52,1,4,29,BOS,NYK,block,44,True,False,block,block,13-12,13,12
 0021700051,2017-10-24,BOS,NYK,7.82,1,4,11,NYK,NYK,fg_miss,86,False,False,,MISS Porzingis 8' Turnaround Fadeaway Shot,13-12,13,12
 0021700051,2017-10-24,BOS,NYK,7.87,1,4,8,BOS,BOS,reb,0,False,False,Rozier REBOUND (Off:0 Def:1),,13-12,13,12
 0021700051,2017-10-24,BOS,NYK,7.95,1,4,3,BOS,BOS,fg3_make,1,False,False,Brown 26' 3PT Jump Shot (8 PTS) (Horford 2 AST),,16-12,16,12
@@ -96,8 +96,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700051,2017-10-24,BOS,NYK,10.03,1,1,58,NYK,NYK,ft_miss,12,False,False,,MISS O'Quinn Free Throw 2 of 2,21-12,21,12
 0021700051,2017-10-24,BOS,NYK,10.08,1,1,55,BOS,BOS,reb,0,False,False,Brown REBOUND (Off:0 Def:2),,21-12,21,12
 0021700051,2017-10-24,BOS,NYK,10.25,1,1,45,BOS,BOS,fg_make,79,False,False,Irving 18' Pullup Jump Shot (4 PTS),,23-12,23,12
-0021700051,2017-10-24,BOS,NYK,10.48,1,1,31,NYK,BOS,foul,17,False,False,CELTICS T.Foul (Def. 3 Sec Theis ) (M.Callahan),,23-12,23,12
 0021700051,2017-10-24,BOS,NYK,10.48,1,1,31,NYK,NYK,ft_make,16,False,False,,Hardaway Jr. Free Throw Technical (1 PTS),23-13,23,13
+0021700051,2017-10-24,BOS,NYK,10.48,1,1,31,NYK,BOS,foul,17,False,False,CELTICS T.Foul (Def. 3 Sec Theis ) (M.Callahan),,23-12,23,12
 0021700051,2017-10-24,BOS,NYK,10.68,1,1,19,NYK,NYK,fg_make,6,False,False,,Beasley 2' Driving Layup (2 PTS) (Jack 1 AST),23-15,23,15
 0021700051,2017-10-24,BOS,NYK,10.88,1,1,7,BOS,NYK,foul,2,False,False,,O'Quinn S.FOUL (P1.T2) (E.Dalen),23-15,23,15
 0021700051,2017-10-24,BOS,NYK,10.88,1,1,7,BOS,BOS,ft_make,11,False,False,Irving Free Throw 1 of 2 (5 PTS),,24-15,24,15
@@ -239,8 +239,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700051,2017-10-24,BOS,NYK,27.33,3,8,40,BOS,BOS,reb,0,False,False,Horford REBOUND (Off:1 Def:6),,59-39,59,39
 0021700051,2017-10-24,BOS,NYK,27.48,3,8,31,BOS,NYK,foul,1,False,False,,Lee P.FOUL (P2.T1) (M.Callahan),59-39,59,39
 0021700051,2017-10-24,BOS,NYK,27.72,3,8,17,BOS,NYK,foul,2,False,False,,Kanter S.FOUL (P2.T2) (E.Dalen),59-39,59,39
-0021700051,2017-10-24,BOS,NYK,27.72,3,8,17,BOS,BOS,ft_make,12,False,False,Irving Free Throw 2 of 2 (12 PTS),,60-39,60,39
 0021700051,2017-10-24,BOS,NYK,27.72,3,8,17,BOS,BOS,ft_make,11,False,False,Irving Free Throw 1 of 2 (13 PTS),,61-39,61,39
+0021700051,2017-10-24,BOS,NYK,27.72,3,8,17,BOS,BOS,ft_make,12,False,False,Irving Free Throw 2 of 2 (12 PTS),,60-39,60,39
 0021700051,2017-10-24,BOS,NYK,27.87,3,8,8,NYK,BOS,foul,1,False,False,Tatum P.FOUL (P2.T2) (E.Dalen),,61-39,61,39
 0021700051,2017-10-24,BOS,NYK,28.08,3,7,55,NYK,NYK,fg_miss,6,False,False,,MISS Porzingis 3' Driving Layup,61-39,61,39
 0021700051,2017-10-24,BOS,NYK,28.13,3,7,52,BOS,BOS,reb,0,False,False,Baynes REBOUND (Off:1 Def:3),,61-39,61,39
@@ -267,8 +267,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700051,2017-10-24,BOS,NYK,30.33,3,5,40,NYK,NYK,ft_make,12,False,False,,Hardaway Jr. Free Throw 2 of 2 (4 PTS),63-46,63,46
 0021700051,2017-10-24,BOS,NYK,30.78,3,5,13,BOS,BOS,fg3_make,1,False,False,Irving 3PT Jump Shot (16 PTS) (Horford 4 AST),,66-46,66,46
 0021700051,2017-10-24,BOS,NYK,31.05,3,4,57,NYK,NYK,fg_miss,6,True,False,,MISS Sessions 2' Driving Layup,66-46,66,46
-0021700051,2017-10-24,BOS,NYK,31.05,3,4,57,NYK,NYK,reb,0,False,False,,Knicks Rebound,66-46,66,46
 0021700051,2017-10-24,BOS,NYK,31.05,3,4,57,NYK,BOS,block,6,True,False,block,block,66-46,66,46
+0021700051,2017-10-24,BOS,NYK,31.05,3,4,57,NYK,NYK,reb,0,False,False,,Knicks Rebound,66-46,66,46
 0021700051,2017-10-24,BOS,NYK,31.07,3,4,56,NYK,BOS,foul,2,False,False,Brown S.FOUL (P3.PN) (E.Dalen),,66-46,66,46
 0021700051,2017-10-24,BOS,NYK,31.07,3,4,56,NYK,NYK,ft_make,11,False,False,,Porzingis Free Throw 1 of 2 (3 PTS),66-47,66,47
 0021700051,2017-10-24,BOS,NYK,31.07,3,4,56,NYK,NYK,ft_make,12,False,False,,Porzingis Free Throw 2 of 2 (4 PTS),66-48,66,48

@@ -67,11 +67,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700309,2017-11-29,NOP,MIN,7.75,1,4,15,MIN,MIN,fg_miss,80,False,False,,MISS Wiggins 15' Step Back Jump Shot,19-12,19,12
 0021700309,2017-11-29,NOP,MIN,7.75,1,4,15,MIN,MIN,reb,0,False,False,,Wiggins REBOUND (Off:1 Def:2),19-12,19,12
 0021700309,2017-11-29,NOP,MIN,7.92,1,4,5,MIN,MIN,fg_miss,5,True,False,,MISS Gibson 7' Layup,19-12,19,12
-0021700309,2017-11-29,NOP,MIN,7.92,1,4,5,MIN,MIN,reb,0,False,False,,Jones REBOUND (Off:1 Def:0),19-12,19,12
 0021700309,2017-11-29,NOP,MIN,7.92,1,4,5,MIN,NOP,block,5,True,False,block,block,19-12,19,12
+0021700309,2017-11-29,NOP,MIN,7.92,1,4,5,MIN,MIN,reb,0,False,False,,Jones REBOUND (Off:1 Def:0),19-12,19,12
+0021700309,2017-11-29,NOP,MIN,8.05,1,3,57,MIN,MIN,fg_make,97,False,False,,Wiggins 2' Tip Layup Shot (2 PTS),19-14,19,14
 0021700309,2017-11-29,NOP,MIN,8.05,1,3,57,MIN,MIN,fg_miss,78,False,False,,MISS Jones 8' Floating Jump Shot,19-12,19,12
 0021700309,2017-11-29,NOP,MIN,8.05,1,3,57,MIN,MIN,reb,0,False,False,,Wiggins REBOUND (Off:2 Def:2),19-12,19,12
-0021700309,2017-11-29,NOP,MIN,8.05,1,3,57,MIN,MIN,fg_make,97,False,False,,Wiggins 2' Tip Layup Shot (2 PTS),19-14,19,14
 0021700309,2017-11-29,NOP,MIN,8.12,1,3,53,NOP,NOP,tov,2,False,True,Rondo Lost Ball Turnover (P1.T2),,19-14,19,14
 0021700309,2017-11-29,NOP,MIN,8.12,1,3,53,NOP,MIN,steal,2,False,True,steal,steal,19-14,19,14
 0021700309,2017-11-29,NOP,MIN,8.18,1,3,49,MIN,MIN,fg_make,5,False,False,,Butler 2' Layup (6 PTS) (Gibson 3 AST),19-16,19,16
@@ -93,8 +93,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700309,2017-11-29,NOP,MIN,10.9,1,1,6,MIN,MIN,ft_make,11,False,False,,Wiggins Free Throw 1 of 2 (5 PTS),26-25,26,25
 0021700309,2017-11-29,NOP,MIN,10.9,1,1,6,MIN,MIN,ft_make,12,False,False,,Wiggins Free Throw 2 of 2 (6 PTS),26-26,26,26
 0021700309,2017-11-29,NOP,MIN,11.05,1,0,57,NOP,NOP,tov,2,False,True,Holiday Lost Ball Turnover (P1.T4),,26-26,26,26
-0021700309,2017-11-29,NOP,MIN,11.05,1,0,57,MIN,MIN,tov,4,False,False,,Gibson Traveling Turnover (P1.T4),26-26,26,26
 0021700309,2017-11-29,NOP,MIN,11.05,1,0,57,NOP,MIN,steal,2,False,True,steal,steal,26-26,26,26
+0021700309,2017-11-29,NOP,MIN,11.05,1,0,57,MIN,MIN,tov,4,False,False,,Gibson Traveling Turnover (P1.T4),26-26,26,26
 0021700309,2017-11-29,NOP,MIN,11.23,1,0,46,NOP,NOP,fg3_make,1,False,False,Cunningham 3PT Jump Shot (5 PTS) (Allen 1 AST),,29-26,29,26
 0021700309,2017-11-29,NOP,MIN,11.4,1,0,36,MIN,MIN,fg_make,79,False,False,,Crawford 18' Pullup Jump Shot (4 PTS) (Dieng 1 AST),29-28,29,28
 0021700309,2017-11-29,NOP,MIN,11.68,1,0,19,NOP,NOP,fg_miss,5,False,False,MISS Allen 4' Layup,,29-28,29,28
@@ -169,9 +169,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700309,2017-11-29,NOP,MIN,19.82,2,4,11,MIN,NOP,foul,2,False,False,Davis S.FOUL (P2.T4) (B.Barnaky),,43-46,43,46
 0021700309,2017-11-29,NOP,MIN,19.82,2,4,11,MIN,NOP,foul,11,False,False,Davis T.FOUL (P2.T4) (B.Barnaky),,43-46,43,46
 0021700309,2017-11-29,NOP,MIN,19.82,2,4,11,MIN,MIN,ft_make,16,False,False,,Butler Free Throw Technical (8 PTS),43-47,43,47
-0021700309,2017-11-29,NOP,MIN,19.82,2,4,11,MIN,NOP,ejection,4,False,False,Davis Ejection:Other,,43-47,43,47
 0021700309,2017-11-29,NOP,MIN,19.82,2,4,11,MIN,MIN,ft_make,11,False,False,,Towns Free Throw 1 of 2 (10 PTS),43-48,43,48
 0021700309,2017-11-29,NOP,MIN,19.82,2,4,11,MIN,MIN,ft_make,12,False,False,,Towns Free Throw 2 of 2 (11 PTS),43-49,43,49
+0021700309,2017-11-29,NOP,MIN,19.82,2,4,11,MIN,NOP,ejection,4,False,False,Davis Ejection:Other,,43-47,43,47
 0021700309,2017-11-29,NOP,MIN,20.07,2,3,56,NOP,NOP,fg_miss,44,False,False,MISS Rondo 1' Reverse Layup,,43-49,43,49
 0021700309,2017-11-29,NOP,MIN,20.07,2,3,56,MIN,MIN,reb,0,False,False,,Gibson REBOUND (Off:0 Def:3),43-49,43,49
 0021700309,2017-11-29,NOP,MIN,20.07,2,3,56,MIN,NOP,foul,3,False,False,Cunningham L.B.FOUL (P1.PN) (K.Mauer),,43-49,43,49
@@ -213,10 +213,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700309,2017-11-29,NOP,MIN,23.78,2,0,13,MIN,MIN,fg_make,1,False,False,,Dieng 18' Jump Shot (8 PTS),49-62,49,62
 0021700309,2017-11-29,NOP,MIN,23.9,2,0,6,NOP,MIN,foul,28,False,False,,Wiggins Personal Take Foul (P1.PN) (S.Wall),49-62,49,62
 0021700309,2017-11-29,NOP,MIN,24.0,2,0,0,NOP,NOP,tov,2,False,True,Cousins Lost Ball Turnover (P1.T11),,49-62,49,62
-0021700309,2017-11-29,NOP,MIN,24.0,2,0,0,NOP,,period_end,0,False,False,,,49-62,49,62
-0021700309,2017-11-29,NOP,MIN,24.0,3,12,0,NOP,,violation,1,False,False,,,49-62,49,62
-0021700309,2017-11-29,NOP,MIN,24.0,3,12,0,NOP,,period_start,0,False,False,,,49-62,49,62
 0021700309,2017-11-29,NOP,MIN,24.0,2,0,0,NOP,MIN,steal,2,False,True,steal,steal,49-62,49,62
+0021700309,2017-11-29,NOP,MIN,24.0,2,0,0,NOP,,period_end,0,False,False,,,49-62,49,62
+0021700309,2017-11-29,NOP,MIN,24.0,3,12,0,NOP,,period_start,0,False,False,,,49-62,49,62
+0021700309,2017-11-29,NOP,MIN,24.0,3,12,0,NOP,,violation,1,False,False,,,49-62,49,62
 0021700309,2017-11-29,NOP,MIN,24.1,3,11,54,MIN,NOP,foul,1,False,False,Cousins P.FOUL (P2.T1) (B.Barnaky),,49-62,49,62
 0021700309,2017-11-29,NOP,MIN,24.27,3,11,44,MIN,MIN,fg_miss,1,False,False,,MISS Wiggins 21' Jump Shot,49-62,49,62
 0021700309,2017-11-29,NOP,MIN,24.32,3,11,41,NOP,NOP,reb,0,False,False,Cunningham REBOUND (Off:0 Def:3),,49-62,49,62
@@ -344,9 +344,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700309,2017-11-29,NOP,MIN,41.73,4,6,16,NOP,NOP,fg3_miss,1,False,False,MISS Holiday 27' 3PT Jump Shot,,88-104,88,104
 0021700309,2017-11-29,NOP,MIN,41.78,4,6,13,MIN,MIN,reb,0,False,False,,Butler REBOUND (Off:0 Def:4),88-104,88,104
 0021700309,2017-11-29,NOP,MIN,41.98,4,6,1,MIN,MIN,fg_miss,6,True,False,,MISS Butler 3' Driving Layup,88-104,88,104
+0021700309,2017-11-29,NOP,MIN,41.98,4,6,1,MIN,NOP,block,6,True,False,block,block,88-104,88,104
 0021700309,2017-11-29,NOP,MIN,41.98,4,6,1,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,88-104,88,104
 0021700309,2017-11-29,NOP,MIN,41.98,4,6,1,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 5 Short 0),,88-104,88,104
-0021700309,2017-11-29,NOP,MIN,41.98,4,6,1,MIN,NOP,block,6,True,False,block,block,88-104,88,104
 0021700309,2017-11-29,NOP,MIN,42.07,4,5,56,MIN,MIN,fg_make,86,False,False,,Wiggins 12' Turnaround Fadeaway (23 PTS),88-106,88,106
 0021700309,2017-11-29,NOP,MIN,42.35,4,5,39,,NOP,jump_ball,0,False,False,Jump Ball Cousins vs. Jones: Tip to Rondo,,88-106,88,106
 0021700309,2017-11-29,NOP,MIN,42.57,4,5,26,NOP,NOP,fg3_miss,1,False,False,MISS Miller 29' 3PT Jump Shot,,88-106,88,106

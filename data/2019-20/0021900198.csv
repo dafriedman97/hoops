@@ -44,8 +44,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900198,2019-11-19,MEM,GSW,5.15,1,6,51,GSW,GSW,fg3_miss,79,False,False,,MISS Burks 25' 3PT Pullup Jump Shot,13-18,13,18
 0021900198,2019-11-19,MEM,GSW,5.18,1,6,49,MEM,MEM,reb,0,False,False,Crowder REBOUND (Off:0 Def:2),,13-18,13,18
 0021900198,2019-11-19,MEM,GSW,5.48,1,6,31,MEM,MEM,fg_miss,6,True,False,MISS Morant 4' Driving Layup,,13-18,13,18
-0021900198,2019-11-19,MEM,GSW,5.48,1,6,31,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,13-18,13,18
 0021900198,2019-11-19,MEM,GSW,5.48,1,6,31,MEM,GSW,block,6,True,False,block,block,13-18,13,18
+0021900198,2019-11-19,MEM,GSW,5.48,1,6,31,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,13-18,13,18
 0021900198,2019-11-19,MEM,GSW,5.55,1,6,27,MEM,MEM,fg_miss,79,False,False,MISS Clarke 13' Pullup Jump Shot,,13-18,13,18
 0021900198,2019-11-19,MEM,GSW,5.58,1,6,25,MEM,MEM,reb,0,False,False,Crowder REBOUND (Off:1 Def:2),,13-18,13,18
 0021900198,2019-11-19,MEM,GSW,5.6,1,6,24,MEM,MEM,fg_make,72,False,False,Crowder 1' Putback Layup (5 PTS),,15-18,15,18
@@ -66,17 +66,17 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900198,2019-11-19,MEM,GSW,7.4,1,4,36,MEM,MEM,fg_miss,101,False,False,MISS Jones 6' Driving Floating Jump Shot,,17-18,17,18
 0021900198,2019-11-19,MEM,GSW,7.43,1,4,34,MEM,MEM,reb,0,False,False,Clarke REBOUND (Off:1 Def:0),,17-18,17,18
 0021900198,2019-11-19,MEM,GSW,7.45,1,4,33,MEM,MEM,fg_miss,72,True,False,MISS Clarke 1' Putback Layup,,17-18,17,18
-0021900198,2019-11-19,MEM,GSW,7.45,1,4,33,GSW,GSW,reb,0,False,False,,Paschall REBOUND (Off:0 Def:1),17-18,17,18
 0021900198,2019-11-19,MEM,GSW,7.45,1,4,33,MEM,GSW,block,72,True,False,block,block,17-18,17,18
+0021900198,2019-11-19,MEM,GSW,7.45,1,4,33,GSW,GSW,reb,0,False,False,,Paschall REBOUND (Off:0 Def:1),17-18,17,18
 0021900198,2019-11-19,MEM,GSW,7.72,1,4,17,GSW,GSW,fg_make,5,False,False,,Paschall 1' Layup (7 PTS) (Robinson III 2 AST),17-20,17,20
 0021900198,2019-11-19,MEM,GSW,7.9,1,4,6,MEM,MEM,fg_make,101,False,False,Clarke 11' Driving Floating Jump Shot (4 PTS) (Jones 1 AST),,19-20,19,20
 0021900198,2019-11-19,MEM,GSW,7.9,1,4,6,MEM,GSW,foul,2,False,False,,Paschall S.FOUL (P2.T3) (M.Kogut),19-20,19,20
 0021900198,2019-11-19,MEM,GSW,7.9,1,4,6,MEM,MEM,ft_make,10,False,False,Clarke Free Throw 1 of 1 (5 PTS),,20-20,20,20
 0021900198,2019-11-19,MEM,GSW,8.1,1,3,54,GSW,GSW,fg_make,1,False,False,,Poole 17' Jump Shot (2 PTS) (Chriss 1 AST),20-22,20,22
 0021900198,2019-11-19,MEM,GSW,8.35,1,3,39,MEM,MEM,fg_miss,101,False,False,MISS Jones 11' Driving Floating Jump Shot,,20-22,20,22
+0021900198,2019-11-19,MEM,GSW,8.42,1,3,35,MEM,MEM,reb,0,False,False,Clarke REBOUND (Off:2 Def:0),,20-22,20,22
 0021900198,2019-11-19,MEM,GSW,8.42,1,3,35,MEM,MEM,fg_miss,97,False,False,MISS Clarke 1' Tip Layup Shot,,20-22,20,22
 0021900198,2019-11-19,MEM,GSW,8.42,1,3,35,GSW,GSW,reb,0,False,False,,Chriss REBOUND (Off:0 Def:1),20-22,20,22
-0021900198,2019-11-19,MEM,GSW,8.42,1,3,35,MEM,MEM,reb,0,False,False,Clarke REBOUND (Off:2 Def:0),,20-22,20,22
 0021900198,2019-11-19,MEM,GSW,8.55,1,3,27,GSW,GSW,fg3_miss,1,False,False,,MISS Robinson III 26' 3PT Jump Shot,20-22,20,22
 0021900198,2019-11-19,MEM,GSW,8.67,1,3,20,MEM,MEM,reb,0,False,False,Guduric REBOUND (Off:0 Def:1),,20-22,20,22
 0021900198,2019-11-19,MEM,GSW,8.8,1,3,12,MEM,MEM,fg3_miss,1,False,False,MISS S. Hill 25' 3PT Jump Shot,,20-22,20,22
@@ -91,9 +91,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900198,2019-11-19,MEM,GSW,9.73,1,2,16,MEM,MEM,reb,0,False,False,Jones REBOUND (Off:0 Def:3),,22-23,22,23
 0021900198,2019-11-19,MEM,GSW,9.82,1,2,11,MEM,MEM,fg_make,98,False,False,S. Hill 1' Cutting Layup Shot (4 PTS) (Anderson 2 AST),,24-23,24,23
 0021900198,2019-11-19,MEM,GSW,10.08,1,1,55,GSW,GSW,fg_miss,5,False,False,,MISS Burks 2' Layup,24-23,24,23
+0021900198,2019-11-19,MEM,GSW,10.15,1,1,51,GSW,GSW,reb,0,False,False,,Chriss REBOUND (Off:1 Def:1),24-23,24,23
 0021900198,2019-11-19,MEM,GSW,10.15,1,1,51,GSW,GSW,fg_miss,97,False,False,,MISS Chriss 1' Tip Layup Shot,24-23,24,23
 0021900198,2019-11-19,MEM,GSW,10.15,1,1,51,GSW,GSW,reb,0,False,False,,Bowman REBOUND (Off:1 Def:0),24-23,24,23
-0021900198,2019-11-19,MEM,GSW,10.15,1,1,51,GSW,GSW,reb,0,False,False,,Chriss REBOUND (Off:1 Def:1),24-23,24,23
 0021900198,2019-11-19,MEM,GSW,10.18,1,1,49,GSW,GSW,fg3_miss,1,False,False,,MISS Spellman 3PT Jump Shot,24-23,24,23
 0021900198,2019-11-19,MEM,GSW,10.18,1,1,49,GSW,GSW,reb,0,False,False,,Chriss REBOUND (Off:2 Def:1),24-23,24,23
 0021900198,2019-11-19,MEM,GSW,10.27,1,1,44,GSW,GSW,fg_make,72,False,False,,Chriss 1' Putback Layup (3 PTS),24-25,24,25
@@ -126,15 +126,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900198,2019-11-19,MEM,GSW,13.28,2,10,43,MEM,MEM,fg_make,63,False,False,Morant 8' Fadeaway Jumper (4 PTS) (S. Hill 1 AST),,32-31,32,31
 0021900198,2019-11-19,MEM,GSW,13.52,2,10,29,GSW,GSW,fg3_make,1,False,False,,Spellman 26' 3PT Jump Shot (3 PTS) (Bowman 3 AST),32-34,32,34
 0021900198,2019-11-19,MEM,GSW,13.78,2,10,13,MEM,MEM,fg_miss,6,True,False,MISS Morant 3' Driving Layup,,32-34,32,34
-0021900198,2019-11-19,MEM,GSW,13.78,2,10,13,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,32-34,32,34
 0021900198,2019-11-19,MEM,GSW,13.78,2,10,13,MEM,GSW,block,6,True,False,block,block,32-34,32,34
+0021900198,2019-11-19,MEM,GSW,13.78,2,10,13,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,32-34,32,34
 0021900198,2019-11-19,MEM,GSW,13.98,2,10,1,MEM,MEM,tov,11,False,False,GRIZZLIES Turnover: Shot Clock (T#3),,32-34,32,34
 0021900198,2019-11-19,MEM,GSW,14.08,2,9,55,GSW,GSW,fg3_miss,1,False,False,,MISS Poole 26' 3PT Jump Shot,32-34,32,34
 0021900198,2019-11-19,MEM,GSW,14.22,2,9,47,GSW,GSW,reb,0,False,False,,Poole REBOUND (Off:1 Def:1),32-34,32,34
 0021900198,2019-11-19,MEM,GSW,14.33,2,9,40,GSW,GSW,fg_miss,1,False,False,,MISS Chriss 14' Jump Shot,32-34,32,34
+0021900198,2019-11-19,MEM,GSW,14.42,2,9,35,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:1 Def:3),32-34,32,34
 0021900198,2019-11-19,MEM,GSW,14.42,2,9,35,GSW,GSW,fg_miss,97,False,False,,MISS Green 1' Tip Layup Shot,32-34,32,34
 0021900198,2019-11-19,MEM,GSW,14.42,2,9,35,MEM,MEM,reb,0,False,False,Anderson REBOUND (Off:0 Def:2),,32-34,32,34
-0021900198,2019-11-19,MEM,GSW,14.42,2,9,35,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:1 Def:3),32-34,32,34
 0021900198,2019-11-19,MEM,GSW,14.48,2,9,31,MEM,MEM,tov,21,False,False,Anderson Palming Turnover (P1.T4),,32-34,32,34
 0021900198,2019-11-19,MEM,GSW,14.8,2,9,12,GSW,GSW,fg_make,52,False,False,,Chriss 1' Alley Oop Dunk (5 PTS) (Poole 1 AST),32-36,32,36
 0021900198,2019-11-19,MEM,GSW,15.18,2,8,49,MEM,MEM,fg3_miss,1,False,False,MISS Brooks 24' 3PT Jump Shot,,32-36,32,36
@@ -177,15 +177,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900198,2019-11-19,MEM,GSW,18.25,2,5,45,MEM,MEM,fg_miss,75,False,False,MISS Brooks 7' Driving Finger Roll Layup,,34-44,34,44
 0021900198,2019-11-19,MEM,GSW,18.3,2,5,42,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:1 Def:5),34-44,34,44
 0021900198,2019-11-19,MEM,GSW,18.47,2,5,32,GSW,GSW,fg_miss,5,True,False,,MISS Paschall 1' Layup,34-44,34,44
-0021900198,2019-11-19,MEM,GSW,18.47,2,5,32,GSW,GSW,reb,0,False,False,,Warriors Rebound,34-44,34,44
 0021900198,2019-11-19,MEM,GSW,18.47,2,5,32,GSW,MEM,block,5,True,False,block,block,34-44,34,44
+0021900198,2019-11-19,MEM,GSW,18.47,2,5,32,GSW,GSW,reb,0,False,False,,Warriors Rebound,34-44,34,44
 0021900198,2019-11-19,MEM,GSW,18.5,2,5,30,GSW,GSW,fg_make,1,False,False,,Burks 19' Jump Shot (9 PTS) (Green 6 AST),34-46,34,46
 0021900198,2019-11-19,MEM,GSW,18.75,2,5,15,MEM,MEM,fg3_miss,1,False,False,MISS Clarke 24' 3PT Jump Shot,,34-46,34,46
 0021900198,2019-11-19,MEM,GSW,18.78,2,5,13,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:1 Def:6),34-46,34,46
 0021900198,2019-11-19,MEM,GSW,18.85,2,5,9,GSW,GSW,fg_make,50,False,False,,Robinson III Running Dunk (11 PTS) (Green 7 AST),34-48,34,48
 0021900198,2019-11-19,MEM,GSW,19.15,2,4,51,MEM,MEM,fg_miss,6,True,False,MISS Crowder 5' Driving Layup,,34-48,34,48
-0021900198,2019-11-19,MEM,GSW,19.15,2,4,51,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,34-48,34,48
 0021900198,2019-11-19,MEM,GSW,19.15,2,4,51,MEM,GSW,block,6,True,False,block,block,34-48,34,48
+0021900198,2019-11-19,MEM,GSW,19.15,2,4,51,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,34-48,34,48
 0021900198,2019-11-19,MEM,GSW,19.28,2,4,43,MEM,MEM,fg_miss,43,False,False,MISS Clarke 3' Alley Oop Layup,,34-48,34,48
 0021900198,2019-11-19,MEM,GSW,19.33,2,4,40,GSW,GSW,reb,0,False,False,,Cauley-Stein REBOUND (Off:1 Def:4),34-48,34,48
 0021900198,2019-11-19,MEM,GSW,19.6,2,4,24,GSW,GSW,fg_make,5,False,False,,Green 1' Layup (2 PTS) (Cauley-Stein 1 AST),34-50,34,50
@@ -360,9 +360,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900198,2019-11-19,MEM,GSW,37.35,4,10,39,MEM,GSW,foul,2,False,False,,Chriss S.FOUL (P2.T1) (K.Scott),74-88,74,88
 0021900198,2019-11-19,MEM,GSW,37.35,4,10,39,MEM,MEM,ft_make,10,False,False,Valanciunas Free Throw 1 of 1 (5 PTS),,75-88,75,88
 0021900198,2019-11-19,MEM,GSW,37.75,4,10,15,GSW,GSW,fg3_miss,80,True,False,,MISS Chriss 26' 3PT Step Back Jump Shot,75-88,75,88
+0021900198,2019-11-19,MEM,GSW,37.75,4,10,15,GSW,MEM,block,80,True,False,block,block,75-88,75,88
 0021900198,2019-11-19,MEM,GSW,37.75,4,10,15,GSW,GSW,reb,0,False,False,,Warriors Rebound,75-88,75,88
 0021900198,2019-11-19,MEM,GSW,37.75,4,10,15,GSW,GSW,tov,11,False,False,,Warriors Turnover: Shot Clock (T#11),75-88,75,88
-0021900198,2019-11-19,MEM,GSW,37.75,4,10,15,GSW,MEM,block,80,True,False,block,block,75-88,75,88
 0021900198,2019-11-19,MEM,GSW,37.9,4,10,6,MEM,GSW,foul,1,False,False,,Bowman P.FOUL (P2.T2) (M.Kogut),75-88,75,88
 0021900198,2019-11-19,MEM,GSW,38.02,4,9,59,MEM,MEM,fg_miss,6,False,False,MISS Morant 2' Driving Layup,,75-88,75,88
 0021900198,2019-11-19,MEM,GSW,38.05,4,9,57,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:1 Def:9),75-88,75,88
@@ -443,8 +443,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900198,2019-11-19,MEM,GSW,46.98,4,1,1,MEM,GSW,steal,1,False,True,steal,steal,94-111,94,111
 0021900198,2019-11-19,MEM,GSW,47.33,4,0,40,GSW,GSW,fg3_make,1,False,False,,Robinson III 24' 3PT Jump Shot (20 PTS) (Chriss 2 AST),94-114,94,114
 0021900198,2019-11-19,MEM,GSW,47.52,4,0,29,MEM,MEM,fg_miss,44,False,False,MISS Guduric 7' Reverse Layup,,94-114,94,114
-0021900198,2019-11-19,MEM,GSW,47.58,4,0,25,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,94-114,94,114
 0021900198,2019-11-19,MEM,GSW,47.58,4,0,25,,MEM,jump_ball,0,False,False,Jump Ball Guduric vs. Chriss: Tip to Melton,,94-114,94,114
+0021900198,2019-11-19,MEM,GSW,47.58,4,0,25,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,94-114,94,114
 0021900198,2019-11-19,MEM,GSW,47.68,4,0,19,MEM,MEM,fg_miss,101,False,False,MISS Melton 10' Driving Floating Jump Shot,,94-114,94,114
 0021900198,2019-11-19,MEM,GSW,47.7,4,0,18,MEM,MEM,reb,0,False,False,Clarke REBOUND (Off:3 Def:2),,94-114,94,114
 0021900198,2019-11-19,MEM,GSW,47.7,4,0,18,MEM,GSW,foul,2,False,False,,Spellman S.FOUL (P4.PN) (K.Scott),94-114,94,114

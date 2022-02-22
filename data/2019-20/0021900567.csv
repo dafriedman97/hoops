@@ -57,8 +57,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900567,2020-01-10,WAS,ATL,6.53,1,5,28,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,12-11,12,11
 0021900567,2020-01-10,WAS,ATL,6.58,1,5,25,WAS,WAS,fg_make,1,False,False,Thomas 15' Jump Shot (2 PTS) (Payton II 1 AST),,14-11,14,11
 0021900567,2020-01-10,WAS,ATL,6.82,1,5,11,ATL,ATL,fg_miss,2,False,False,,MISS Huerter 8' Running Jump Shot,14-11,14,11
-0021900567,2020-01-10,WAS,ATL,6.9,1,5,6,ATL,ATL,fg_miss,97,False,False,,MISS Collins 1' Tip Layup Shot,14-11,14,11
 0021900567,2020-01-10,WAS,ATL,6.9,1,5,6,ATL,ATL,reb,0,False,False,,Collins REBOUND (Off:1 Def:4),14-11,14,11
+0021900567,2020-01-10,WAS,ATL,6.9,1,5,6,ATL,ATL,fg_miss,97,False,False,,MISS Collins 1' Tip Layup Shot,14-11,14,11
 0021900567,2020-01-10,WAS,ATL,6.92,1,5,5,WAS,WAS,reb,0,False,False,McRae REBOUND (Off:0 Def:1),,14-11,14,11
 0021900567,2020-01-10,WAS,ATL,6.93,1,5,4,WAS,WAS,fg3_make,1,False,False,Payton II 3PT Jump Shot (9 PTS) (McRae 3 AST),,17-11,17,11
 0021900567,2020-01-10,WAS,ATL,7.12,1,4,53,ATL,WAS,foul,1,False,False,Payton II P.FOUL (P1.T1) (J.Orr),,17-11,17,11
@@ -145,16 +145,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900567,2020-01-10,WAS,ATL,14.22,2,9,47,ATL,ATL,ft_miss,12,False,False,,MISS Young Free Throw 2 of 2,37-27,37,27
 0021900567,2020-01-10,WAS,ATL,14.27,2,9,44,WAS,WAS,reb,0,False,False,Pasecniks REBOUND (Off:0 Def:2),,37-27,37,27
 0021900567,2020-01-10,WAS,ATL,14.45,2,9,33,WAS,WAS,fg_miss,6,True,False,MISS Smith 5' Driving Layup,,37-27,37,27
-0021900567,2020-01-10,WAS,ATL,14.45,2,9,33,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,37-27,37,27
 0021900567,2020-01-10,WAS,ATL,14.45,2,9,33,WAS,ATL,block,6,True,False,block,block,37-27,37,27
+0021900567,2020-01-10,WAS,ATL,14.45,2,9,33,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,37-27,37,27
 0021900567,2020-01-10,WAS,ATL,14.57,2,9,26,WAS,WAS,fg_make,73,False,False,Payton II 2' Driving Reverse Layup (11 PTS) (Smith 5 AST),,39-27,39,27
 0021900567,2020-01-10,WAS,ATL,14.77,2,9,14,ATL,ATL,tov,1,False,True,,Huerter Bad Pass Turnover (P1.T6),39-27,39,27
 0021900567,2020-01-10,WAS,ATL,14.77,2,9,14,ATL,WAS,steal,1,False,True,steal,steal,39-27,39,27
 0021900567,2020-01-10,WAS,ATL,14.95,2,9,3,WAS,WAS,fg_miss,5,False,False,MISS Pasecniks 5' Layup,,39-27,39,27
 0021900567,2020-01-10,WAS,ATL,15.02,2,8,59,ATL,ATL,reb,0,False,False,,Young REBOUND (Off:0 Def:1),39-27,39,27
 0021900567,2020-01-10,WAS,ATL,15.08,2,8,55,ATL,ATL,tov,1,False,True,,Young Bad Pass Turnover (P4.T7),39-27,39,27
-0021900567,2020-01-10,WAS,ATL,15.08,2,8,55,WAS,WAS,tov,39,False,False,Smith Step Out of Bounds Turnover (P1.T3),,39-27,39,27
 0021900567,2020-01-10,WAS,ATL,15.08,2,8,55,ATL,WAS,steal,1,False,True,steal,steal,39-27,39,27
+0021900567,2020-01-10,WAS,ATL,15.08,2,8,55,WAS,WAS,tov,39,False,False,Smith Step Out of Bounds Turnover (P1.T3),,39-27,39,27
 0021900567,2020-01-10,WAS,ATL,15.13,2,8,52,ATL,WAS,foul,1,False,False,Payton II P.FOUL (P2.T4) (J.Sterling),,39-27,39,27
 0021900567,2020-01-10,WAS,ATL,15.37,2,8,38,ATL,ATL,fg_make,6,False,False,,Young 2' Driving Layup (5 PTS),39-29,39,29
 0021900567,2020-01-10,WAS,ATL,15.48,2,8,31,WAS,WAS,fg3_make,1,False,False,Brown Jr. 3PT Jump Shot (5 PTS) (Smith 6 AST),,42-29,42,29
@@ -181,11 +181,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900567,2020-01-10,WAS,ATL,17.03,2,6,58,WAS,WAS,fg_miss,3,False,False,MISS Mahinmi 12' Hook Shot,,43-30,43,30
 0021900567,2020-01-10,WAS,ATL,17.1,2,6,54,WAS,WAS,reb,0,False,False,Payton II REBOUND (Off:1 Def:2),,43-30,43,30
 0021900567,2020-01-10,WAS,ATL,17.1,2,6,54,WAS,WAS,tov,2,False,True,Payton II Lost Ball Turnover (P1.T4),,43-30,43,30
+0021900567,2020-01-10,WAS,ATL,17.1,2,6,54,WAS,ATL,steal,2,False,True,steal,steal,43-30,43,30
 0021900567,2020-01-10,WAS,ATL,17.1,2,6,54,ATL,WAS,foul,28,False,False,McRae Personal Take Foul (P1.PN) (J.Orr),,43-30,43,30
 0021900567,2020-01-10,WAS,ATL,17.1,2,6,54,WAS,WAS,timeout,1,False,False,WIZARDS Timeout: Regular (Full 2 Short 0),,43-30,43,30
 0021900567,2020-01-10,WAS,ATL,17.1,2,6,54,ATL,ATL,ft_miss,11,False,False,,MISS Young Free Throw 1 of 2,43-30,43,30
 0021900567,2020-01-10,WAS,ATL,17.1,2,6,54,ATL,ATL,reb,1,False,False,,Hawks Rebound,43-30,43,30
-0021900567,2020-01-10,WAS,ATL,17.1,2,6,54,WAS,ATL,steal,2,False,True,steal,steal,43-30,43,30
 0021900567,2020-01-10,WAS,ATL,17.1,2,6,54,ATL,ATL,ft_make,12,False,False,,Young Free Throw 2 of 2 (6 PTS),43-31,43,31
 0021900567,2020-01-10,WAS,ATL,17.35,2,6,39,WAS,WAS,fg_miss,6,False,False,MISS McRae 5' Driving Layup,,43-31,43,31
 0021900567,2020-01-10,WAS,ATL,17.38,2,6,37,WAS,WAS,reb,0,False,False,McRae REBOUND (Off:1 Def:1),,43-31,43,31
@@ -254,8 +254,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900567,2020-01-10,WAS,ATL,21.43,2,2,34,WAS,ATL,foul,4,False,False,,Bembry OFF.Foul (P2) (J.Tiven),53-44,53,44
 0021900567,2020-01-10,WAS,ATL,21.43,2,2,34,ATL,ATL,tov,37,False,False,,Bembry Offensive Foul Turnover (P2.T9),53-44,53,44
 0021900567,2020-01-10,WAS,ATL,21.72,2,2,17,WAS,WAS,fg_miss,5,True,False,MISS McRae 3' Layup,,53-44,53,44
-0021900567,2020-01-10,WAS,ATL,21.72,2,2,17,ATL,ATL,reb,0,False,False,,Reddish REBOUND (Off:0 Def:4),53-44,53,44
 0021900567,2020-01-10,WAS,ATL,21.72,2,2,17,WAS,ATL,block,5,True,False,block,block,53-44,53,44
+0021900567,2020-01-10,WAS,ATL,21.72,2,2,17,ATL,ATL,reb,0,False,False,,Reddish REBOUND (Off:0 Def:4),53-44,53,44
 0021900567,2020-01-10,WAS,ATL,21.87,2,2,8,ATL,ATL,fg_make,108,False,False,,Len Cutting Dunk Shot (6 PTS) (Reddish 2 AST),53-46,53,46
 0021900567,2020-01-10,WAS,ATL,22.05,2,1,57,WAS,WAS,fg_miss,73,False,False,MISS Mahinmi 5' Driving Reverse Layup,,53-46,53,46
 0021900567,2020-01-10,WAS,ATL,22.1,2,1,54,ATL,ATL,reb,0,False,False,,Huerter REBOUND (Off:1 Def:1),53-46,53,46
@@ -426,16 +426,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900567,2020-01-10,WAS,ATL,37.45,4,10,33,ATL,ATL,ft_miss,10,False,False,,MISS Reddish Free Throw 1 of 1,81-84,81,84
 0021900567,2020-01-10,WAS,ATL,37.52,4,10,29,WAS,WAS,reb,0,False,False,Bertans REBOUND (Off:0 Def:6),,81-84,81,84
 0021900567,2020-01-10,WAS,ATL,37.7,4,10,18,WAS,WAS,fg_miss,6,True,False,MISS Bertans 6' Driving Layup,,81-84,81,84
-0021900567,2020-01-10,WAS,ATL,37.7,4,10,18,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,81-84,81,84
 0021900567,2020-01-10,WAS,ATL,37.7,4,10,18,WAS,ATL,block,6,True,False,block,block,81-84,81,84
+0021900567,2020-01-10,WAS,ATL,37.7,4,10,18,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,81-84,81,84
 0021900567,2020-01-10,WAS,ATL,37.85,4,10,9,WAS,WAS,fg3_miss,79,False,False,MISS Smith 28' 3PT Pullup Jump Shot,,81-84,81,84
 0021900567,2020-01-10,WAS,ATL,37.88,4,10,7,ATL,ATL,reb,0,False,False,,Hawks Rebound,81-84,81,84
 0021900567,2020-01-10,WAS,ATL,38.18,4,9,49,ATL,ATL,tov,45,False,False,,Reddish Out of Bounds - Bad Pass Turnover Turnover (P1.T15),81-84,81,84
 0021900567,2020-01-10,WAS,ATL,38.4,4,9,36,WAS,WAS,fg_make,80,False,False,McRae 17' Step Back Jump Shot (19 PTS),,83-84,83,84
 0021900567,2020-01-10,WAS,ATL,38.62,4,9,23,ATL,ATL,fg3_make,79,False,False,,Goodwin 26' 3PT Pullup Jump Shot (8 PTS),83-87,83,87
 0021900567,2020-01-10,WAS,ATL,38.88,4,9,7,WAS,WAS,fg_miss,79,False,False,MISS McRae 17' Pullup Jump Shot,,83-87,83,87
-0021900567,2020-01-10,WAS,ATL,38.97,4,9,2,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,83-87,83,87
 0021900567,2020-01-10,WAS,ATL,38.97,4,9,2,,WAS,jump_ball,0,False,False,Jump Ball Pasecniks vs. Goodwin: Tip to McRae,,83-87,83,87
+0021900567,2020-01-10,WAS,ATL,38.97,4,9,2,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,83-87,83,87
 0021900567,2020-01-10,WAS,ATL,39.02,4,8,59,WAS,WAS,fg3_miss,1,False,False,MISS Smith 27' 3PT Jump Shot,,83-87,83,87
 0021900567,2020-01-10,WAS,ATL,39.07,4,8,56,ATL,ATL,reb,0,False,False,,Reddish REBOUND (Off:0 Def:6),83-87,83,87
 0021900567,2020-01-10,WAS,ATL,39.35,4,8,39,ATL,ATL,fg_make,5,False,False,,Collins 5' Layup (15 PTS) (Crabbe 1 AST),83-89,83,89

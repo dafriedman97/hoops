@@ -43,8 +43,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000971,2021-05-02,HOU,NYK,4.48,1,7,31,HOU,HOU,fg_make,41,False,False,Bradley 1' Running Layup (4 PTS),,13-10,13,10
 0022000971,2021-05-02,HOU,NYK,4.63,1,7,22,NYK,NYK,timeout,1,False,False,,Knicks Timeout: Regular (Reg.1 Short 0),13-10,13,10
 0022000971,2021-05-02,HOU,NYK,4.78,1,7,13,NYK,NYK,fg_miss,73,True,False,,MISS Payton 2' Driving Reverse Layup,13-10,13,10
-0022000971,2021-05-02,HOU,NYK,4.78,1,7,13,HOU,HOU,reb,0,False,False,Martin Jr. REBOUND (Off:0 Def:1),,13-10,13,10
 0022000971,2021-05-02,HOU,NYK,4.78,1,7,13,NYK,HOU,block,73,True,False,block,block,13-10,13,10
+0022000971,2021-05-02,HOU,NYK,4.78,1,7,13,HOU,HOU,reb,0,False,False,Martin Jr. REBOUND (Off:0 Def:1),,13-10,13,10
 0022000971,2021-05-02,HOU,NYK,4.93,1,7,4,HOU,HOU,fg_make,6,False,False,Porter Jr. 2' Driving Layup (2 PTS),,15-10,15,10
 0022000971,2021-05-02,HOU,NYK,5.15,1,6,51,NYK,NYK,fg_make,80,False,False,,Bullock 15' Step Back Jump Shot (2 PTS),15-12,15,12
 0022000971,2021-05-02,HOU,NYK,5.55,1,6,27,HOU,HOU,tov,2,False,True,Bradley Lost Ball Turnover (P1.T1),,15-12,15,12
@@ -184,10 +184,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000971,2021-05-02,HOU,NYK,20.07,2,3,56,HOU,HOU,fg_make,97,False,False,Lamb 3' Tip Layup Shot (2 PTS),,37-50,37,50
 0022000971,2021-05-02,HOU,NYK,20.33,2,3,40,NYK,NYK,fg_make,1,False,False,,Randle 10' Jump Shot (14 PTS),37-52,37,52
 0022000971,2021-05-02,HOU,NYK,20.53,2,3,28,HOU,HOU,fg_miss,6,False,False,MISS Porter Jr. 2' Driving Layup,,37-52,37,52
-0022000971,2021-05-02,HOU,NYK,20.58,2,3,25,NYK,NYK,reb,0,False,False,,Knicks Rebound,37-52,37,52
 0022000971,2021-05-02,HOU,NYK,20.58,2,3,25,NYK,HOU,foul,1,False,False,Wood P.FOUL (P2.PN) (C.Kirkland),,37-52,37,52
 0022000971,2021-05-02,HOU,NYK,20.58,2,3,25,NYK,NYK,ft_make,11,False,False,,Barrett Free Throw 1 of 2 (9 PTS),37-53,37,53
 0022000971,2021-05-02,HOU,NYK,20.58,2,3,25,NYK,NYK,ft_make,12,False,False,,Barrett Free Throw 2 of 2 (10 PTS),37-54,37,54
+0022000971,2021-05-02,HOU,NYK,20.58,2,3,25,NYK,NYK,reb,0,False,False,,Knicks Rebound,37-52,37,52
 0022000971,2021-05-02,HOU,NYK,21.0,2,3,0,HOU,HOU,fg_make,73,False,False,Porter Jr. 2' Driving Reverse Layup (7 PTS),,39-54,39,54
 0022000971,2021-05-02,HOU,NYK,21.17,2,2,50,NYK,NYK,fg3_make,79,False,False,,Rose 27' 3PT Pullup Jump Shot (13 PTS) (Randle 4 AST),39-57,39,57
 0022000971,2021-05-02,HOU,NYK,21.38,2,2,37,HOU,HOU,fg3_make,1,False,False,Olynyk 27' 3PT Jump Shot (11 PTS) (Tate 1 AST),,42-57,42,57
@@ -353,8 +353,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000971,2021-05-02,HOU,NYK,40.72,4,7,17,NYK,NYK,fg3_miss,1,False,False,,MISS Barrett 29' 3PT Jump Shot,80-110,80,110
 0022000971,2021-05-02,HOU,NYK,40.73,4,7,16,HOU,HOU,reb,0,False,False,Olynyk REBOUND (Off:1 Def:6),,80-110,80,110
 0022000971,2021-05-02,HOU,NYK,40.85,4,7,9,HOU,HOU,fg_miss,41,False,False,MISS Martin Jr. 4' Running Layup,,80-110,80,110
-0022000971,2021-05-02,HOU,NYK,40.9,4,7,6,HOU,HOU,fg_make,97,False,False,Martin Jr. Tip Layup Shot (9 PTS),,82-110,82,110
 0022000971,2021-05-02,HOU,NYK,40.9,4,7,6,HOU,HOU,reb,0,False,False,Martin Jr. REBOUND (Off:2 Def:3),,82-110,82,110
+0022000971,2021-05-02,HOU,NYK,40.9,4,7,6,HOU,HOU,fg_make,97,False,False,Martin Jr. Tip Layup Shot (9 PTS),,82-110,82,110
 0022000971,2021-05-02,HOU,NYK,41.3,4,6,42,NYK,NYK,fg_make,108,False,False,,Toppin 3' Cutting Dunk Shot (5 PTS) (Barrett 5 AST),82-112,82,112
 0022000971,2021-05-02,HOU,NYK,41.62,4,6,23,HOU,HOU,fg_miss,6,False,False,MISS Tate 6' Driving Layup,,82-112,82,112
 0022000971,2021-05-02,HOU,NYK,41.62,4,6,23,HOU,HOU,reb,0,False,False,Tate REBOUND (Off:2 Def:5),,82-112,82,112

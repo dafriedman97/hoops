@@ -45,9 +45,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800469,2018-12-21,CHA,DET,4.48,1,7,31,DET,DET,ft_make,10,False,False,,Griffin Free Throw 1 of 1 (3 PTS),7-8,7,8
 0021800469,2018-12-21,CHA,DET,4.7,1,7,18,CHA,CHA,fg_make,73,False,False,Walker 1' Driving Reverse Layup (4 PTS),,9-8,9,8
 0021800469,2018-12-21,CHA,DET,4.83,1,7,10,DET,DET,fg_miss,5,True,False,,MISS Jackson 3' Layup,9-8,9,8
+0021800469,2018-12-21,CHA,DET,4.83,1,7,10,DET,CHA,block,5,True,False,block,block,9-8,9,8
 0021800469,2018-12-21,CHA,DET,4.83,1,7,10,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:1 Def:2),9-8,9,8
 0021800469,2018-12-21,CHA,DET,4.83,1,7,10,DET,CHA,foul,2,False,False,Lamb S.FOUL (P2.T3) (M.Myers),,9-8,9,8
-0021800469,2018-12-21,CHA,DET,4.83,1,7,10,DET,CHA,block,5,True,False,block,block,9-8,9,8
 0021800469,2018-12-21,CHA,DET,4.83,1,7,10,DET,DET,ft_make,11,False,False,,Jackson Free Throw 1 of 2 (3 PTS),9-9,9,9
 0021800469,2018-12-21,CHA,DET,4.83,1,7,10,DET,DET,ft_miss,12,False,False,,MISS Jackson Free Throw 2 of 2,9-9,9,9
 0021800469,2018-12-21,CHA,DET,4.87,1,7,8,CHA,CHA,reb,0,False,False,HORNETS Rebound,,9-9,9,9
@@ -95,8 +95,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800469,2018-12-21,CHA,DET,9.57,1,2,26,DET,DET,ft_make,11,False,False,,Griffin Free Throw 1 of 2 (6 PTS),21-16,21,16
 0021800469,2018-12-21,CHA,DET,9.57,1,2,26,DET,DET,ft_make,12,False,False,,Griffin Free Throw 2 of 2 (7 PTS),21-17,21,17
 0021800469,2018-12-21,CHA,DET,9.75,1,2,15,CHA,CHA,fg_miss,6,True,False,MISS Parker 4' Driving Layup,,21-17,21,17
-0021800469,2018-12-21,CHA,DET,9.75,1,2,15,CHA,CHA,reb,0,False,False,HORNETS Rebound,,21-17,21,17
 0021800469,2018-12-21,CHA,DET,9.75,1,2,15,CHA,DET,block,6,True,False,block,block,21-17,21,17
+0021800469,2018-12-21,CHA,DET,9.75,1,2,15,CHA,CHA,reb,0,False,False,HORNETS Rebound,,21-17,21,17
 0021800469,2018-12-21,CHA,DET,9.8,1,2,12,CHA,CHA,fg_miss,44,False,False,MISS Batum 3' Reverse Layup,,21-17,21,17
 0021800469,2018-12-21,CHA,DET,9.85,1,2,9,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:1 Def:3),21-17,21,17
 0021800469,2018-12-21,CHA,DET,9.93,1,2,4,DET,DET,fg_make,6,False,False,,Brown 2' Driving Layup (2 PTS) (Calderon 1 AST),21-19,21,19
@@ -223,10 +223,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800469,2018-12-21,CHA,DET,23.32,2,0,41,CHA,CHA,tov,45,False,False,Walker Out of Bounds - Bad Pass Turnover Turnover (P2.T9),,45-40,45,40
 0021800469,2018-12-21,CHA,DET,23.63,2,0,22,DET,DET,fg_miss,5,False,False,,MISS Drummond 2' Layup,45-40,45,40
 0021800469,2018-12-21,CHA,DET,23.67,2,0,20,CHA,CHA,reb,0,False,False,Zeller REBOUND (Off:0 Def:3),,45-40,45,40
-0021800469,2018-12-21,CHA,DET,24.0,2,0,0,CHA,CHA,tov,2,False,True,Walker Lost Ball Turnover (P3.T10),,45-40,45,40
 0021800469,2018-12-21,CHA,DET,24.0,2,0,0,CHA,,period_end,0,False,False,,,45-40,45,40
-0021800469,2018-12-21,CHA,DET,24.0,3,12,0,CHA,,period_start,0,False,False,,,45-40,45,40
+0021800469,2018-12-21,CHA,DET,24.0,2,0,0,CHA,CHA,tov,2,False,True,Walker Lost Ball Turnover (P3.T10),,45-40,45,40
 0021800469,2018-12-21,CHA,DET,24.0,2,0,0,CHA,DET,steal,2,False,True,steal,steal,45-40,45,40
+0021800469,2018-12-21,CHA,DET,24.0,3,12,0,CHA,,period_start,0,False,False,,,45-40,45,40
 0021800469,2018-12-21,CHA,DET,24.27,3,11,44,CHA,CHA,fg3_make,1,False,False,Williams 25' 3PT Jump Shot (11 PTS) (Zeller 2 AST),,48-40,48,40
 0021800469,2018-12-21,CHA,DET,24.67,3,11,20,DET,DET,tov,1,False,True,,Jackson Bad Pass Turnover (P2.T9),48-40,48,40
 0021800469,2018-12-21,CHA,DET,24.67,3,11,20,DET,CHA,steal,1,False,True,steal,steal,48-40,48,40
@@ -287,12 +287,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800469,2018-12-21,CHA,DET,32.22,3,3,47,CHA,CHA,fg_miss,57,False,False,MISS Kidd-Gilchrist 8' Driving Hook Shot,,69-55,69,55
 0021800469,2018-12-21,CHA,DET,32.25,3,3,45,DET,DET,reb,0,False,False,,Griffin REBOUND (Off:1 Def:6),69-55,69,55
 0021800469,2018-12-21,CHA,DET,32.6,3,3,24,DET,DET,fg3_miss,1,False,False,,MISS Brown 26' 3PT Jump Shot,69-55,69,55
+0021800469,2018-12-21,CHA,DET,32.7,3,3,18,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:7 Def:7),69-55,69,55
 0021800469,2018-12-21,CHA,DET,32.7,3,3,18,DET,DET,fg_miss,97,False,False,,MISS Drummond 2' Tip Layup Shot,69-55,69,55
 0021800469,2018-12-21,CHA,DET,32.7,3,3,18,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:6 Def:7),69-55,69,55
-0021800469,2018-12-21,CHA,DET,32.7,3,3,18,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:7 Def:7),69-55,69,55
 0021800469,2018-12-21,CHA,DET,32.72,3,3,17,DET,DET,fg_miss,5,True,False,,MISS Drummond 1' Layup,69-55,69,55
-0021800469,2018-12-21,CHA,DET,32.72,3,3,17,DET,DET,reb,0,False,False,,Calderon REBOUND (Off:1 Def:0),69-55,69,55
 0021800469,2018-12-21,CHA,DET,32.72,3,3,17,DET,CHA,block,5,True,False,block,block,69-55,69,55
+0021800469,2018-12-21,CHA,DET,32.72,3,3,17,DET,DET,reb,0,False,False,,Calderon REBOUND (Off:1 Def:0),69-55,69,55
 0021800469,2018-12-21,CHA,DET,32.75,3,3,15,DET,DET,fg3_miss,1,False,False,,MISS Bullock 26' 3PT Jump Shot,69-55,69,55
 0021800469,2018-12-21,CHA,DET,32.75,3,3,15,CHA,CHA,reb,0,False,False,HORNETS Rebound,,69-55,69,55
 0021800469,2018-12-21,CHA,DET,32.75,3,3,15,CHA,DET,foul,1,False,False,,Drummond P.FOUL (P3.T4) (P.Fraher),69-55,69,55
@@ -314,11 +314,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800469,2018-12-21,CHA,DET,34.67,3,1,20,CHA,CHA,fg_miss,79,False,False,MISS Parker 17' Pullup Jump Shot,,71-62,71,62
 0021800469,2018-12-21,CHA,DET,34.72,3,1,17,CHA,CHA,reb,0,False,False,Hernangomez REBOUND (Off:1 Def:2),,71-62,71,62
 0021800469,2018-12-21,CHA,DET,34.93,3,1,4,CHA,CHA,fg_miss,5,True,False,MISS Hernangomez 7' Layup,,71-62,71,62
+0021800469,2018-12-21,CHA,DET,34.93,3,1,4,CHA,DET,block,5,True,False,block,block,71-62,71,62
 0021800469,2018-12-21,CHA,DET,34.93,3,1,4,CHA,CHA,reb,0,False,False,Hernangomez REBOUND (Off:2 Def:2),,71-62,71,62
 0021800469,2018-12-21,CHA,DET,34.93,3,1,4,CHA,CHA,fg_miss,97,False,False,MISS Hernangomez 3' Tip Layup Shot,,71-62,71,62
-0021800469,2018-12-21,CHA,DET,34.93,3,1,4,CHA,CHA,reb,0,False,False,Kidd-Gilchrist REBOUND (Off:2 Def:1),,71-62,71,62
 0021800469,2018-12-21,CHA,DET,34.93,3,1,4,CHA,CHA,tov,11,False,False,HORNETS Turnover: Shot Clock (T#12),,71-62,71,62
-0021800469,2018-12-21,CHA,DET,34.93,3,1,4,CHA,DET,block,5,True,False,block,block,71-62,71,62
+0021800469,2018-12-21,CHA,DET,34.93,3,1,4,CHA,CHA,reb,0,False,False,Kidd-Gilchrist REBOUND (Off:2 Def:1),,71-62,71,62
 0021800469,2018-12-21,CHA,DET,35.18,3,0,49,DET,DET,fg3_miss,1,False,False,,MISS Johnson 3PT Jump Shot,71-62,71,62
 0021800469,2018-12-21,CHA,DET,35.2,3,0,48,CHA,CHA,reb,0,False,False,HORNETS Rebound,,71-62,71,62
 0021800469,2018-12-21,CHA,DET,35.2,3,0,48,CHA,DET,foul,3,False,False,,Brown L.B.FOUL (P3.PN) (M.Myers),71-62,71,62

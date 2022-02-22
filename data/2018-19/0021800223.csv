@@ -4,8 +4,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800223,2018-11-16,MIL,CHI,0.23,1,11,46,MIL,MIL,tov,1,False,True,Lopez Bad Pass Turnover (P1.T1),,0-0,0,0
 0021800223,2018-11-16,MIL,CHI,0.23,1,11,46,MIL,CHI,steal,1,False,True,steal,steal,0-0,0,0
 0021800223,2018-11-16,MIL,CHI,0.27,1,11,44,CHI,CHI,fg_miss,41,True,False,,MISS LaVine 2' Running Layup,0-0,0,0
-0021800223,2018-11-16,MIL,CHI,0.27,1,11,44,CHI,CHI,reb,0,False,False,,Bulls Rebound,0-0,0,0
 0021800223,2018-11-16,MIL,CHI,0.27,1,11,44,CHI,MIL,block,41,True,False,block,block,0-0,0,0
+0021800223,2018-11-16,MIL,CHI,0.27,1,11,44,CHI,CHI,reb,0,False,False,,Bulls Rebound,0-0,0,0
 0021800223,2018-11-16,MIL,CHI,0.42,1,11,35,CHI,CHI,fg_make,80,False,False,,Parker 21' Step Back Jump Shot (2 PTS) (Arcidiacono 1 AST),0-2,0,2
 0021800223,2018-11-16,MIL,CHI,0.6,1,11,24,MIL,MIL,fg3_make,1,False,False,Antetokounmpo 29' 3PT Jump Shot (3 PTS) (Bledsoe 1 AST),,3-2,3,2
 0021800223,2018-11-16,MIL,CHI,0.93,1,11,4,CHI,CHI,fg_miss,78,False,False,,MISS Carter Jr. 13' Floating Jump Shot,3-2,3,2
@@ -140,8 +140,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800223,2018-11-16,MIL,CHI,16.33,2,7,40,MIL,MIL,fg_miss,6,False,False,MISS Brogdon 2' Driving Layup,,31-45,31,45
 0021800223,2018-11-16,MIL,CHI,16.33,2,7,40,CHI,CHI,reb,0,False,False,,Bulls Rebound,31-45,31,45
 0021800223,2018-11-16,MIL,CHI,16.52,2,7,29,CHI,CHI,fg_miss,5,True,False,,MISS LaVine 2' Layup,31-45,31,45
-0021800223,2018-11-16,MIL,CHI,16.52,2,7,29,MIL,MIL,reb,0,False,False,Brogdon REBOUND (Off:0 Def:1),,31-45,31,45
 0021800223,2018-11-16,MIL,CHI,16.52,2,7,29,CHI,MIL,block,5,True,False,block,block,31-45,31,45
+0021800223,2018-11-16,MIL,CHI,16.52,2,7,29,MIL,MIL,reb,0,False,False,Brogdon REBOUND (Off:0 Def:1),,31-45,31,45
 0021800223,2018-11-16,MIL,CHI,16.63,2,7,22,MIL,MIL,fg_make,78,False,False,Antetokounmpo 7' Floating Jump Shot (11 PTS) (Brogdon 2 AST),,33-45,33,45
 0021800223,2018-11-16,MIL,CHI,16.83,2,7,10,CHI,CHI,fg_miss,80,False,False,,MISS Parker 17' Step Back Jump Shot,33-45,33,45
 0021800223,2018-11-16,MIL,CHI,16.88,2,7,7,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:2 Def:4),,33-45,33,45
@@ -178,9 +178,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800223,2018-11-16,MIL,CHI,21.12,2,2,53,CHI,CHI,fg3_make,80,False,False,,Holiday 26' 3PT Step Back Jump Shot (12 PTS) (Carter Jr. 2 AST),38-57,38,57
 0021800223,2018-11-16,MIL,CHI,21.43,2,2,34,MIL,MIL,fg3_make,1,False,False,Middleton 27' 3PT Jump Shot (5 PTS) (Connaughton 1 AST),,41-57,41,57
 0021800223,2018-11-16,MIL,CHI,21.7,2,2,18,CHI,CHI,fg_miss,5,True,False,,MISS LaVine 2' Layup,41-57,41,57
+0021800223,2018-11-16,MIL,CHI,21.7,2,2,18,CHI,MIL,block,5,True,False,block,block,41-57,41,57
 0021800223,2018-11-16,MIL,CHI,21.7,2,2,18,CHI,CHI,reb,0,False,False,,Bulls Rebound,41-57,41,57
 0021800223,2018-11-16,MIL,CHI,21.7,2,2,18,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.2 Short 0),41-57,41,57
-0021800223,2018-11-16,MIL,CHI,21.7,2,2,18,CHI,MIL,block,5,True,False,block,block,41-57,41,57
 0021800223,2018-11-16,MIL,CHI,21.85,2,2,9,CHI,CHI,fg_miss,1,False,False,,MISS Parker 8' Jump Shot,41-57,41,57
 0021800223,2018-11-16,MIL,CHI,21.93,2,2,4,MIL,MIL,reb,0,False,False,Connaughton REBOUND (Off:0 Def:4),,41-57,41,57
 0021800223,2018-11-16,MIL,CHI,22.08,2,1,55,MIL,MIL,fg_miss,3,False,False,MISS Antetokounmpo 5' Hook Shot,,41-57,41,57
@@ -200,9 +200,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800223,2018-11-16,MIL,CHI,23.93,2,0,4,MIL,MIL,ft_make,11,False,False,Middleton Free Throw 1 of 2 (8 PTS),,44-63,44,63
 0021800223,2018-11-16,MIL,CHI,23.93,2,0,4,MIL,MIL,ft_make,12,False,False,Middleton Free Throw 2 of 2 (9 PTS),,45-63,45,63
 0021800223,2018-11-16,MIL,CHI,24.0,2,0,0,CHI,CHI,tov,2,False,True,,LaVine Lost Ball Turnover (P2.T6),45-63,45,63
+0021800223,2018-11-16,MIL,CHI,24.0,2,0,0,CHI,MIL,steal,2,False,True,steal,steal,45-63,45,63
 0021800223,2018-11-16,MIL,CHI,24.0,2,0,0,CHI,,period_end,0,False,False,,,45-63,45,63
 0021800223,2018-11-16,MIL,CHI,24.0,3,12,0,CHI,,period_start,0,False,False,,,45-63,45,63
-0021800223,2018-11-16,MIL,CHI,24.0,2,0,0,CHI,MIL,steal,2,False,True,steal,steal,45-63,45,63
 0021800223,2018-11-16,MIL,CHI,24.15,3,11,51,CHI,CHI,fg_miss,79,False,False,,MISS LaVine 14' Pullup Jump Shot,45-63,45,63
 0021800223,2018-11-16,MIL,CHI,24.22,3,11,47,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:2 Def:6),,45-63,45,63
 0021800223,2018-11-16,MIL,CHI,24.35,3,11,39,MIL,MIL,fg3_make,1,False,False,Lopez 27' 3PT Jump Shot (9 PTS) (Antetokounmpo 2 AST),,48-63,48,63
@@ -226,9 +226,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800223,2018-11-16,MIL,CHI,25.65,3,10,21,MIL,MIL,ft_make,12,False,False,Antetokounmpo Free Throw 2 of 2 (12 PTS),,49-63,49,63
 0021800223,2018-11-16,MIL,CHI,25.88,3,10,7,CHI,CHI,fg3_miss,1,False,False,,MISS Arcidiacono 26' 3PT Jump Shot,49-63,49,63
 0021800223,2018-11-16,MIL,CHI,25.93,3,10,4,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:2 Def:7),,49-63,49,63
+0021800223,2018-11-16,MIL,CHI,25.97,3,10,2,MIL,CHI,foul,1,False,False,,Arcidiacono P.FOUL (P1.T3) (D.Richardson),52-63,52,63
 0021800223,2018-11-16,MIL,CHI,25.97,3,10,2,MIL,MIL,fg_make,6,False,False,Bledsoe Driving Layup (10 PTS),,51-63,51,63
 0021800223,2018-11-16,MIL,CHI,25.97,3,10,2,MIL,MIL,ft_make,10,False,False,Bledsoe Free Throw 1 of 1 (11 PTS),,52-63,52,63
-0021800223,2018-11-16,MIL,CHI,25.97,3,10,2,MIL,CHI,foul,1,False,False,,Arcidiacono P.FOUL (P1.T3) (D.Richardson),52-63,52,63
 0021800223,2018-11-16,MIL,CHI,26.38,3,9,37,CHI,CHI,fg_make,5,False,False,,Carter Jr. 1' Layup (10 PTS),52-65,52,65
 0021800223,2018-11-16,MIL,CHI,26.65,3,9,21,MIL,MIL,fg3_make,1,False,False,Bledsoe 27' 3PT Jump Shot (14 PTS) (Antetokounmpo 3 AST),,55-65,55,65
 0021800223,2018-11-16,MIL,CHI,26.98,3,9,1,CHI,CHI,fg_make,78,False,False,,Holiday 7' Floating Jump Shot (20 PTS) (Carter Jr. 4 AST),55-67,55,67
@@ -296,8 +296,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800223,2018-11-16,MIL,CHI,33.87,3,2,8,MIL,MIL,fg_make,50,False,False,Middleton 2' Running Dunk (20 PTS),,82-74,82,74
 0021800223,2018-11-16,MIL,CHI,33.88,3,2,7,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.5 Short 0),82-74,82,74
 0021800223,2018-11-16,MIL,CHI,34.03,3,1,58,CHI,CHI,fg_miss,6,True,False,,MISS LaVine 3' Driving Layup,82-74,82,74
-0021800223,2018-11-16,MIL,CHI,34.03,3,1,58,CHI,CHI,reb,0,False,False,,Bulls Rebound,82-74,82,74
 0021800223,2018-11-16,MIL,CHI,34.03,3,1,58,CHI,MIL,block,6,True,False,block,block,82-74,82,74
+0021800223,2018-11-16,MIL,CHI,34.03,3,1,58,CHI,CHI,reb,0,False,False,,Bulls Rebound,82-74,82,74
 0021800223,2018-11-16,MIL,CHI,34.13,3,1,52,CHI,MIL,foul,2,False,False,Connaughton S.FOUL (P1.T2) (D.Richardson),,82-74,82,74
 0021800223,2018-11-16,MIL,CHI,34.13,3,1,52,CHI,CHI,ft_miss,11,False,False,,MISS Hutchison Free Throw 1 of 2,82-74,82,74
 0021800223,2018-11-16,MIL,CHI,34.13,3,1,52,CHI,CHI,reb,1,False,False,,Bulls Rebound,82-74,82,74

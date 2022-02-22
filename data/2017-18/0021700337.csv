@@ -42,8 +42,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700337,2017-12-03,OKC,SAS,5.23,1,6,46,SAS,SAS,fg_miss,1,False,False,,MISS Paul 12' Jump Shot,10-4,10,4
 0021700337,2017-12-03,OKC,SAS,5.28,1,6,43,OKC,OKC,reb,0,False,False,Anthony REBOUND (Off:0 Def:2),,10-4,10,4
 0021700337,2017-12-03,OKC,SAS,5.37,1,6,38,OKC,OKC,fg_miss,6,True,False,MISS George 2' Driving Layup,,10-4,10,4
-0021700337,2017-12-03,OKC,SAS,5.37,1,6,38,SAS,SAS,reb,0,False,False,,Spurs Rebound,10-4,10,4
 0021700337,2017-12-03,OKC,SAS,5.37,1,6,38,OKC,SAS,block,6,True,False,block,block,10-4,10,4
+0021700337,2017-12-03,OKC,SAS,5.37,1,6,38,SAS,SAS,reb,0,False,False,,Spurs Rebound,10-4,10,4
 0021700337,2017-12-03,OKC,SAS,5.63,1,6,22,SAS,SAS,fg_make,79,False,False,,Green 7' Pullup Jump Shot (2 PTS),10-6,10,6
 0021700337,2017-12-03,OKC,SAS,6.05,1,5,57,OKC,OKC,fg_make,98,False,False,Roberson 1' Cutting Layup Shot (4 PTS) (Westbrook 3 AST),,12-6,12,6
 0021700337,2017-12-03,OKC,SAS,6.42,1,5,35,SAS,SAS,fg_make,86,False,False,,Gasol 7' Turnaround Fadeaway (2 PTS),12-8,12,8
@@ -88,10 +88,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700337,2017-12-03,OKC,SAS,11.2,1,0,48,SAS,SAS,fg3_miss,1,False,False,,MISS Forbes 25' 3PT Jump Shot,21-15,21,15
 0021700337,2017-12-03,OKC,SAS,11.2,1,0,48,OKC,OKC,reb,0,False,False,THUNDER Rebound,,21-15,21,15
 0021700337,2017-12-03,OKC,SAS,11.22,1,0,47,OKC,SAS,foul,3,False,False,,Lauvergne L.B.FOUL (P1.PN) (C.Blair),21-15,21,15
-0021700337,2017-12-03,OKC,SAS,11.22,1,0,47,OKC,OKC,ft_miss,12,False,False,MISS Huestis Free Throw 2 of 2,,21-15,21,15
-0021700337,2017-12-03,OKC,SAS,11.22,1,0,47,OKC,OKC,reb,0,False,False,Grant REBOUND (Off:1 Def:0),,21-15,21,15
 0021700337,2017-12-03,OKC,SAS,11.22,1,0,47,OKC,OKC,ft_miss,11,False,False,MISS Huestis Free Throw 1 of 2,,21-15,21,15
 0021700337,2017-12-03,OKC,SAS,11.22,1,0,47,OKC,OKC,reb,1,False,False,THUNDER Rebound,,21-15,21,15
+0021700337,2017-12-03,OKC,SAS,11.22,1,0,47,OKC,OKC,ft_miss,12,False,False,MISS Huestis Free Throw 2 of 2,,21-15,21,15
+0021700337,2017-12-03,OKC,SAS,11.22,1,0,47,OKC,OKC,reb,0,False,False,Grant REBOUND (Off:1 Def:0),,21-15,21,15
 0021700337,2017-12-03,OKC,SAS,11.35,1,0,39,OKC,OKC,fg_make,9,False,False,Grant 1' Driving Dunk (4 PTS) (Westbrook 5 AST),,23-15,23,15
 0021700337,2017-12-03,OKC,SAS,11.6,1,0,24,SAS,OKC,foul,2,False,False,Felton S.FOUL (P1.T4) (B.Adams),,23-15,23,15
 0021700337,2017-12-03,OKC,SAS,11.6,1,0,24,SAS,SAS,ft_make,13,False,False,,Mills Free Throw 1 of 3 (4 PTS),23-16,23,16
@@ -232,8 +232,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700337,2017-12-03,OKC,SAS,25.12,3,10,53,OKC,OKC,fg3_miss,1,False,False,MISS George 3PT Jump Shot,,54-43,54,43
 0021700337,2017-12-03,OKC,SAS,25.17,3,10,50,SAS,SAS,reb,0,False,False,,Lauvergne REBOUND (Off:1 Def:1),54-43,54,43
 0021700337,2017-12-03,OKC,SAS,25.42,3,10,35,SAS,SAS,fg_miss,6,True,False,,MISS Lauvergne 2' Driving Layup,54-43,54,43
-0021700337,2017-12-03,OKC,SAS,25.42,3,10,35,SAS,SAS,reb,0,False,False,,Spurs Rebound,54-43,54,43
 0021700337,2017-12-03,OKC,SAS,25.42,3,10,35,SAS,OKC,block,6,True,False,block,block,54-43,54,43
+0021700337,2017-12-03,OKC,SAS,25.42,3,10,35,SAS,SAS,reb,0,False,False,,Spurs Rebound,54-43,54,43
 0021700337,2017-12-03,OKC,SAS,25.47,3,10,32,SAS,SAS,tov,1,False,True,,Anderson Bad Pass Turnover (P3.T8),54-43,54,43
 0021700337,2017-12-03,OKC,SAS,25.47,3,10,32,SAS,OKC,steal,1,False,True,steal,steal,54-43,54,43
 0021700337,2017-12-03,OKC,SAS,25.52,3,10,29,OKC,SAS,foul,2,False,False,,Paul S.FOUL (P3.T1) (B.Adams),54-43,54,43
@@ -266,8 +266,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700337,2017-12-03,OKC,SAS,28.5,3,7,30,SAS,SAS,fg_make,6,False,False,,Paul 4' Driving Layup (8 PTS),63-52,63,52
 0021700337,2017-12-03,OKC,SAS,28.78,3,7,13,OKC,OKC,fg_make,79,False,False,Anthony 18' Pullup Jump Shot (7 PTS),,65-52,65,52
 0021700337,2017-12-03,OKC,SAS,29.03,3,6,58,SAS,SAS,tov,2,False,True,,Murray Lost Ball Turnover (P1.T9),65-52,65,52
-0021700337,2017-12-03,OKC,SAS,29.03,3,6,58,OKC,SAS,foul,1,False,False,,Paul P.FOUL (P4.T4) (B.Adams),65-52,65,52
 0021700337,2017-12-03,OKC,SAS,29.03,3,6,58,SAS,OKC,steal,2,False,True,steal,steal,65-52,65,52
+0021700337,2017-12-03,OKC,SAS,29.03,3,6,58,OKC,SAS,foul,1,False,False,,Paul P.FOUL (P4.T4) (B.Adams),65-52,65,52
 0021700337,2017-12-03,OKC,SAS,29.23,3,6,46,OKC,OKC,fg3_miss,1,False,False,MISS Anthony 24' 3PT Jump Shot,,65-52,65,52
 0021700337,2017-12-03,OKC,SAS,29.27,3,6,44,OKC,OKC,reb,0,False,False,THUNDER Rebound,,65-52,65,52
 0021700337,2017-12-03,OKC,SAS,29.3,3,6,42,OKC,OKC,fg_miss,1,False,False,MISS Adams 5' Jump Shot,,65-52,65,52
@@ -407,8 +407,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700337,2017-12-03,OKC,SAS,41.78,4,6,13,OKC,OKC,reb,0,False,False,Grant REBOUND (Off:3 Def:3),,80-79,80,79
 0021700337,2017-12-03,OKC,SAS,41.78,4,6,13,OKC,SAS,foul,1,False,False,,Murray P.FOUL (P4.T3) (C.Blair),80-79,80,79
 0021700337,2017-12-03,OKC,SAS,41.93,4,6,4,OKC,OKC,fg_miss,47,True,False,MISS Anthony 3' Turnaround Jump Shot,,80-79,80,79
-0021700337,2017-12-03,OKC,SAS,41.93,4,6,4,OKC,OKC,reb,0,False,False,THUNDER Rebound,,80-79,80,79
 0021700337,2017-12-03,OKC,SAS,41.93,4,6,4,OKC,SAS,block,47,True,False,block,block,80-79,80,79
+0021700337,2017-12-03,OKC,SAS,41.93,4,6,4,OKC,OKC,reb,0,False,False,THUNDER Rebound,,80-79,80,79
 0021700337,2017-12-03,OKC,SAS,42.17,4,5,50,OKC,OKC,fg_make,101,False,False,Felton 8' Driving Floating Jump Shot (8 PTS),,82-79,82,79
 0021700337,2017-12-03,OKC,SAS,42.45,4,5,33,SAS,SAS,fg3_miss,79,False,False,,MISS Forbes 3PT Pullup Jump Shot,82-79,82,79
 0021700337,2017-12-03,OKC,SAS,42.48,4,5,31,OKC,OKC,reb,0,False,False,Westbrook REBOUND (Off:3 Def:6),,82-79,82,79

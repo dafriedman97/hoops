@@ -52,10 +52,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900015,2019-10-24,HOU,MIL,4.57,1,7,26,MIL,MIL,fg_miss,63,False,False,,MISS Lopez 6' Fadeaway Jumper,17-5,17,5
 0021900015,2019-10-24,HOU,MIL,4.6,1,7,24,HOU,HOU,reb,0,False,False,Westbrook REBOUND (Off:0 Def:4),,17-5,17,5
 0021900015,2019-10-24,HOU,MIL,4.6,1,7,24,HOU,HOU,tov,1,False,True,Tucker Bad Pass Turnover (P1.T2),,17-5,17,5
+0021900015,2019-10-24,HOU,MIL,4.6,1,7,24,HOU,MIL,steal,1,False,True,steal,steal,17-5,17,5
+0021900015,2019-10-24,HOU,MIL,4.6,1,7,24,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 1 Short 0),,17-5,17,5
 0021900015,2019-10-24,HOU,MIL,4.6,1,7,24,HOU,MIL,foul,26,False,False,,Antetokounmpo Offensive Charge Foul (P2.T4) (T.Ford),17-5,17,5
 0021900015,2019-10-24,HOU,MIL,4.6,1,7,24,MIL,MIL,tov,37,False,False,,Antetokounmpo Offensive Foul Turnover (P1.T2),17-5,17,5
-0021900015,2019-10-24,HOU,MIL,4.6,1,7,24,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 1 Short 0),,17-5,17,5
-0021900015,2019-10-24,HOU,MIL,4.6,1,7,24,HOU,MIL,steal,1,False,True,steal,steal,17-5,17,5
 0021900015,2019-10-24,HOU,MIL,4.72,1,7,17,HOU,HOU,tov,2,False,True,Westbrook Lost Ball Turnover (P2.T3),,17-5,17,5
 0021900015,2019-10-24,HOU,MIL,4.72,1,7,17,HOU,MIL,steal,2,False,True,steal,steal,17-5,17,5
 0021900015,2019-10-24,HOU,MIL,5.08,1,6,55,MIL,MIL,fg3_make,1,False,False,,G. Hill 27' 3PT Jump Shot (3 PTS) (Lopez 1 AST),17-8,17,8
@@ -101,10 +101,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900015,2019-10-24,HOU,MIL,9.45,1,2,33,HOU,HOU,fg_miss,79,False,False,MISS Westbrook 17' Pullup Jump Shot,,26-15,26,15
 0021900015,2019-10-24,HOU,MIL,9.48,1,2,31,MIL,MIL,reb,0,False,False,,Brown REBOUND (Off:0 Def:1),26-15,26,15
 0021900015,2019-10-24,HOU,MIL,9.57,1,2,26,MIL,MIL,fg_make,50,False,False,,Brown 1' Running Dunk (2 PTS),26-17,26,17
-0021900015,2019-10-24,HOU,MIL,9.82,1,2,11,HOU,HOU,fg3_miss,1,True,False,MISS Gordon 26' 3PT Jump Shot,,26-17,26,17
-0021900015,2019-10-24,HOU,MIL,9.82,1,2,11,MIL,MIL,reb,0,False,False,,Bucks Rebound,26-17,26,17
 0021900015,2019-10-24,HOU,MIL,9.82,1,2,11,MIL,MIL,timeout,7,False,False,,Bucks Timeout: Coach Challenge (Reg.1 Short 0),26-17,26,17
+0021900015,2019-10-24,HOU,MIL,9.82,1,2,11,HOU,HOU,fg3_miss,1,True,False,MISS Gordon 26' 3PT Jump Shot,,26-17,26,17
 0021900015,2019-10-24,HOU,MIL,9.82,1,2,11,HOU,MIL,block,1,True,False,block,block,26-17,26,17
+0021900015,2019-10-24,HOU,MIL,9.82,1,2,11,MIL,MIL,reb,0,False,False,,Bucks Rebound,26-17,26,17
 0021900015,2019-10-24,HOU,MIL,9.9,1,2,6,,HOU,jump_ball,1,False,False,Jump Ball (CC) Chandler vs. Lopez: Tip to G. Hill,,26-17,26,17
 0021900015,2019-10-24,HOU,MIL,10.03,1,1,58,MIL,MIL,fg3_miss,1,False,False,,MISS Connaughton 25' 3PT Jump Shot,26-17,26,17
 0021900015,2019-10-24,HOU,MIL,10.1,1,1,54,MIL,MIL,reb,0,False,False,,Ilyasova REBOUND (Off:1 Def:1),26-17,26,17
@@ -132,8 +132,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900015,2019-10-24,HOU,MIL,12.0,1,0,0,HOU,,period_end,0,False,False,,,30-23,30,23
 0021900015,2019-10-24,HOU,MIL,12.0,2,12,0,HOU,,period_start,0,False,False,,,30-23,30,23
 0021900015,2019-10-24,HOU,MIL,12.23,2,11,46,MIL,MIL,tov,1,False,True,,Bledsoe Bad Pass Turnover (P1.T4),30-23,30,23
-0021900015,2019-10-24,HOU,MIL,12.23,2,11,46,HOU,MIL,foul,1,False,False,,Bledsoe P.FOUL (P3.T1) (T.Ford),30-23,30,23
 0021900015,2019-10-24,HOU,MIL,12.23,2,11,46,MIL,HOU,steal,1,False,True,steal,steal,30-23,30,23
+0021900015,2019-10-24,HOU,MIL,12.23,2,11,46,HOU,MIL,foul,1,False,False,,Bledsoe P.FOUL (P3.T1) (T.Ford),30-23,30,23
 0021900015,2019-10-24,HOU,MIL,12.43,2,11,34,HOU,HOU,fg3_make,1,False,False,Gordon 27' 3PT Jump Shot (3 PTS) (Westbrook 2 AST),,33-23,33,23
 0021900015,2019-10-24,HOU,MIL,12.62,2,11,23,MIL,MIL,fg3_make,1,False,False,,Bledsoe 24' 3PT Jump Shot (8 PTS) (Lopez 1 AST),33-26,33,26
 0021900015,2019-10-24,HOU,MIL,12.77,2,11,14,HOU,HOU,fg_make,52,False,False,Chandler 1' Alley Oop Dunk (8 PTS) (Westbrook 3 AST),,35-26,35,26
@@ -254,8 +254,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900015,2019-10-24,HOU,MIL,24.47,3,11,32,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:1 Def:3),,66-50,66,50
 0021900015,2019-10-24,HOU,MIL,24.65,3,11,21,HOU,HOU,fg_miss,5,True,False,MISS Capela 3' Layup,,66-50,66,50
 0021900015,2019-10-24,HOU,MIL,24.65,3,11,21,HOU,MIL,block,5,True,False,block,block,66-50,66,50
-0021900015,2019-10-24,HOU,MIL,24.72,3,11,17,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:2 Def:3),,66-50,66,50
 0021900015,2019-10-24,HOU,MIL,24.72,3,11,17,,HOU,jump_ball,0,False,False,Jump Ball Capela vs. Lopez: Tip to Harden,,66-50,66,50
+0021900015,2019-10-24,HOU,MIL,24.72,3,11,17,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:2 Def:3),,66-50,66,50
 0021900015,2019-10-24,HOU,MIL,24.78,3,11,13,HOU,HOU,fg3_miss,80,False,False,MISS Harden 3PT Step Back Jump Shot,,66-50,66,50
 0021900015,2019-10-24,HOU,MIL,24.82,3,11,11,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:1 Def:2),66-50,66,50
 0021900015,2019-10-24,HOU,MIL,24.87,3,11,8,MIL,MIL,fg_make,98,False,False,,Bledsoe 3' Cutting Layup Shot (10 PTS) (Antetokounmpo 7 AST),66-52,66,52
@@ -280,8 +280,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900015,2019-10-24,HOU,MIL,26.8,3,9,12,MIL,HOU,block,5,True,False,block,block,71-56,71,56
 0021900015,2019-10-24,HOU,MIL,26.85,3,9,9,HOU,HOU,reb,0,False,False,Tucker REBOUND (Off:1 Def:2),,71-56,71,56
 0021900015,2019-10-24,HOU,MIL,26.88,3,9,7,HOU,HOU,fg_miss,5,True,False,MISS Harden 3' Layup,,71-56,71,56
-0021900015,2019-10-24,HOU,MIL,26.88,3,9,7,MIL,MIL,reb,0,False,False,,Matthews REBOUND (Off:0 Def:3),71-56,71,56
 0021900015,2019-10-24,HOU,MIL,26.88,3,9,7,HOU,MIL,block,5,True,False,block,block,71-56,71,56
+0021900015,2019-10-24,HOU,MIL,26.88,3,9,7,MIL,MIL,reb,0,False,False,,Matthews REBOUND (Off:0 Def:3),71-56,71,56
 0021900015,2019-10-24,HOU,MIL,26.97,3,9,2,MIL,HOU,foul,2,False,False,Capela S.FOUL (P2.T2) (T.Ford),,71-56,71,56
 0021900015,2019-10-24,HOU,MIL,26.97,3,9,2,MIL,MIL,ft_miss,11,False,False,,MISS Antetokounmpo Free Throw 1 of 2,71-56,71,56
 0021900015,2019-10-24,HOU,MIL,26.97,3,9,2,MIL,MIL,reb,1,False,False,,Bucks Rebound,71-56,71,56
@@ -392,8 +392,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900015,2019-10-24,HOU,MIL,37.0,4,11,0,MIL,MIL,fg3_miss,1,False,False,,MISS Ilyasova 24' 3PT Jump Shot,87-80,87,80
 0021900015,2019-10-24,HOU,MIL,37.05,4,10,57,HOU,HOU,reb,0,False,False,Tucker REBOUND (Off:2 Def:4),,87-80,87,80
 0021900015,2019-10-24,HOU,MIL,37.1,4,10,54,HOU,HOU,fg_miss,6,True,False,MISS Gordon 2' Driving Layup,,87-80,87,80
-0021900015,2019-10-24,HOU,MIL,37.1,4,10,54,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,87-80,87,80
 0021900015,2019-10-24,HOU,MIL,37.1,4,10,54,HOU,MIL,block,6,True,False,block,block,87-80,87,80
+0021900015,2019-10-24,HOU,MIL,37.1,4,10,54,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,87-80,87,80
 0021900015,2019-10-24,HOU,MIL,37.15,4,10,51,HOU,HOU,fg3_miss,1,False,False,MISS House Jr. 25' 3PT Jump Shot,,87-80,87,80
 0021900015,2019-10-24,HOU,MIL,37.18,4,10,49,MIL,MIL,reb,0,False,False,,Korver REBOUND (Off:1 Def:4),87-80,87,80
 0021900015,2019-10-24,HOU,MIL,37.25,4,10,45,MIL,MIL,fg_make,7,False,False,,Antetokounmpo 1' Dunk (26 PTS) (Middleton 3 AST),87-82,87,82
@@ -415,8 +415,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900015,2019-10-24,HOU,MIL,39.23,4,8,46,HOU,HOU,fg3_miss,1,False,False,MISS Gordon 26' 3PT Jump Shot,,90-89,90,89
 0021900015,2019-10-24,HOU,MIL,39.27,4,8,44,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:0 Def:12),90-89,90,89
 0021900015,2019-10-24,HOU,MIL,39.35,4,8,39,MIL,MIL,fg3_miss,1,False,False,,MISS Korver 25' 3PT Jump Shot,90-89,90,89
-0021900015,2019-10-24,HOU,MIL,39.43,4,8,34,MIL,MIL,fg_make,72,False,False,,Ilyasova 1' Putback Layup (9 PTS),90-91,90,91
 0021900015,2019-10-24,HOU,MIL,39.43,4,8,34,MIL,MIL,reb,0,False,False,,Ilyasova REBOUND (Off:4 Def:5),90-91,90,91
+0021900015,2019-10-24,HOU,MIL,39.43,4,8,34,MIL,MIL,fg_make,72,False,False,,Ilyasova 1' Putback Layup (9 PTS),90-91,90,91
 0021900015,2019-10-24,HOU,MIL,39.73,4,8,16,HOU,HOU,fg3_miss,1,False,False,MISS Gordon 25' 3PT Jump Shot,,90-91,90,91
 0021900015,2019-10-24,HOU,MIL,39.77,4,8,14,MIL,MIL,reb,0,False,False,,Ilyasova REBOUND (Off:4 Def:6),90-91,90,91
 0021900015,2019-10-24,HOU,MIL,39.92,4,8,5,MIL,MIL,fg3_miss,1,True,False,,MISS Matthews 25' 3PT Jump Shot,90-91,90,91

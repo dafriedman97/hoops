@@ -56,9 +56,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000249,2021-01-24,IND,TOR,7.05,1,4,57,TOR,IND,block,73,True,False,block,block,17-16,17,16
 0022000249,2021-01-24,IND,TOR,7.08,1,4,55,TOR,TOR,reb,0,False,False,,Anunoby REBOUND (Off:1 Def:0),17-16,17,16
 0022000249,2021-01-24,IND,TOR,7.08,1,4,55,TOR,TOR,fg3_miss,1,True,False,,MISS VanVleet 26' 3PT Jump Shot,17-16,17,16
+0022000249,2021-01-24,IND,TOR,7.08,1,4,55,TOR,IND,block,1,True,False,block,block,17-16,17,16
 0022000249,2021-01-24,IND,TOR,7.08,1,4,55,TOR,TOR,reb,0,False,False,,Raptors Rebound,17-16,17,16
 0022000249,2021-01-24,IND,TOR,7.08,1,4,55,TOR,TOR,tov,11,False,False,,Raptors Turnover: Shot Clock (T#3),17-16,17,16
-0022000249,2021-01-24,IND,TOR,7.08,1,4,55,TOR,IND,block,1,True,False,block,block,17-16,17,16
 0022000249,2021-01-24,IND,TOR,7.43,1,4,34,IND,IND,tov,8,False,False,Sabonis 3 Second Violation Turnover (P1.T3),,17-16,17,16
 0022000249,2021-01-24,IND,TOR,7.7,1,4,18,TOR,TOR,fg_miss,75,False,False,,MISS Baynes 1' Driving Finger Roll Layup,17-16,17,16
 0022000249,2021-01-24,IND,TOR,7.73,1,4,16,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:1 Def:4),,17-16,17,16
@@ -175,8 +175,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000249,2021-01-24,IND,TOR,18.07,2,5,56,TOR,TOR,reb,0,False,False,,Bembry REBOUND (Off:1 Def:1),37-40,37,40
 0022000249,2021-01-24,IND,TOR,18.08,2,5,55,TOR,TOR,fg3_make,1,False,False,,Powell 26' 3PT Jump Shot (7 PTS) (Bembry 1 AST),37-43,37,43
 0022000249,2021-01-24,IND,TOR,18.37,2,5,38,IND,IND,fg_miss,6,True,False,MISS McConnell 1' Driving Layup,,37-43,37,43
-0022000249,2021-01-24,IND,TOR,18.37,2,5,38,IND,IND,reb,0,False,False,PACERS Rebound,,37-43,37,43
 0022000249,2021-01-24,IND,TOR,18.37,2,5,38,IND,TOR,block,6,True,False,block,block,37-43,37,43
+0022000249,2021-01-24,IND,TOR,18.37,2,5,38,IND,IND,reb,0,False,False,PACERS Rebound,,37-43,37,43
 0022000249,2021-01-24,IND,TOR,18.47,2,5,32,IND,IND,tov,1,False,True,Turner Bad Pass Turnover (P3.T8),,37-43,37,43
 0022000249,2021-01-24,IND,TOR,18.47,2,5,32,IND,TOR,steal,1,False,True,steal,steal,37-43,37,43
 0022000249,2021-01-24,IND,TOR,18.53,2,5,28,TOR,TOR,fg_make,98,False,False,,Bembry 2' Cutting Layup Shot (4 PTS) (Powell 3 AST),37-45,37,45
@@ -294,9 +294,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000249,2021-01-24,IND,TOR,28.8,3,7,12,IND,IND,tov,2,False,True,McDermott Lost Ball Turnover (P2.T15),,58-69,58,69
 0022000249,2021-01-24,IND,TOR,28.8,3,7,12,IND,TOR,steal,2,False,True,steal,steal,58-69,58,69
 0022000249,2021-01-24,IND,TOR,29.07,3,6,56,TOR,TOR,fg_miss,73,True,False,,MISS Baynes 2' Driving Reverse Layup,58-69,58,69
+0022000249,2021-01-24,IND,TOR,29.07,3,6,56,TOR,IND,block,73,True,False,block,block,58-69,58,69
 0022000249,2021-01-24,IND,TOR,29.07,3,6,56,TOR,TOR,reb,0,False,False,,Raptors Rebound,58-69,58,69
 0022000249,2021-01-24,IND,TOR,29.07,3,6,56,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 3 Short 0),,58-69,58,69
-0022000249,2021-01-24,IND,TOR,29.07,3,6,56,TOR,IND,block,73,True,False,block,block,58-69,58,69
 0022000249,2021-01-24,IND,TOR,29.17,3,6,50,TOR,TOR,fg3_miss,79,False,False,,MISS VanVleet 26' 3PT Pullup Jump Shot,58-69,58,69
 0022000249,2021-01-24,IND,TOR,29.2,3,6,48,TOR,TOR,reb,0,False,False,,Raptors Rebound,58-69,58,69
 0022000249,2021-01-24,IND,TOR,29.2,3,6,48,TOR,IND,foul,3,False,False,Sabonis L.B.FOUL (P2.T2) (S.Corbin),,58-69,58,69
@@ -314,8 +314,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000249,2021-01-24,IND,TOR,30.42,3,5,35,IND,IND,fg_miss,6,False,False,MISS Brogdon 2' Driving Layup,,60-71,60,71
 0022000249,2021-01-24,IND,TOR,30.43,3,5,34,TOR,TOR,reb,0,False,False,,Baynes REBOUND (Off:0 Def:5),60-71,60,71
 0022000249,2021-01-24,IND,TOR,30.68,3,5,19,TOR,TOR,fg_miss,47,False,False,,MISS Anunoby 9' Turnaround Jump Shot,60-71,60,71
-0022000249,2021-01-24,IND,TOR,30.77,3,5,14,TOR,TOR,fg_make,97,False,False,,Baynes Tip Layup Shot (12 PTS),60-73,60,73
 0022000249,2021-01-24,IND,TOR,30.77,3,5,14,TOR,TOR,reb,0,False,False,,Baynes REBOUND (Off:1 Def:5),60-73,60,73
+0022000249,2021-01-24,IND,TOR,30.77,3,5,14,TOR,TOR,fg_make,97,False,False,,Baynes Tip Layup Shot (12 PTS),60-73,60,73
 0022000249,2021-01-24,IND,TOR,30.98,3,5,1,IND,IND,fg_make,101,False,False,McConnell 6' Driving Floating Jump Shot (4 PTS),,62-73,62,73
 0022000249,2021-01-24,IND,TOR,31.28,3,4,43,TOR,TOR,fg_miss,75,True,False,,MISS Anunoby 1' Driving Finger Roll Layup,62-73,62,73
 0022000249,2021-01-24,IND,TOR,31.28,3,4,43,TOR,IND,block,75,True,False,block,block,62-73,62,73

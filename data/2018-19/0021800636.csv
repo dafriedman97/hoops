@@ -35,8 +35,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800636,2019-01-12,SAC,CHA,3.42,1,8,35,SAC,SAC,fg3_miss,1,False,False,MISS Hield 25' 3PT Jump Shot,,7-7,7,7
 0021800636,2019-01-12,SAC,CHA,3.42,1,8,35,CHA,CHA,reb,0,False,False,,Biyombo REBOUND (Off:0 Def:1),7-7,7,7
 0021800636,2019-01-12,SAC,CHA,3.6,1,8,24,CHA,CHA,fg_miss,7,True,False,,MISS Biyombo 2' Dunk,7-7,7,7
-0021800636,2019-01-12,SAC,CHA,3.6,1,8,24,CHA,CHA,reb,0,False,False,,Hornets Rebound,7-7,7,7
 0021800636,2019-01-12,SAC,CHA,3.6,1,8,24,CHA,SAC,block,7,True,False,block,block,7-7,7,7
+0021800636,2019-01-12,SAC,CHA,3.6,1,8,24,CHA,CHA,reb,0,False,False,,Hornets Rebound,7-7,7,7
 0021800636,2019-01-12,SAC,CHA,3.67,1,8,20,,SAC,jump_ball,0,False,False,Jump Ball Cauley-Stein vs. Biyombo: Tip to Batum,,7-7,7,7
 0021800636,2019-01-12,SAC,CHA,3.7,1,8,18,CHA,SAC,foul,1,False,False,Shumpert P.FOUL (P1.T1) (J.Butler),,7-7,7,7
 0021800636,2019-01-12,SAC,CHA,3.83,1,8,10,CHA,CHA,fg3_miss,1,False,False,,MISS Walker 26' 3PT Jump Shot,7-7,7,7
@@ -123,8 +123,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800636,2019-01-12,SAC,CHA,11.07,1,0,56,SAC,SAC,fg3_make,1,False,False,Bogdanovic 25' 3PT Jump Shot (5 PTS) (Jackson 1 AST),,32-27,32,27
 0021800636,2019-01-12,SAC,CHA,11.23,1,0,46,CHA,CHA,tov,40,False,False,,Monk Out of Bounds Lost Ball Turnover (P2.T8),32-27,32,27
 0021800636,2019-01-12,SAC,CHA,11.43,1,0,34,SAC,SAC,fg_miss,5,True,False,MISS Bagley III 2' Layup,,32-27,32,27
-0021800636,2019-01-12,SAC,CHA,11.43,1,0,34,SAC,SAC,reb,0,False,False,KINGS Rebound,,32-27,32,27
 0021800636,2019-01-12,SAC,CHA,11.43,1,0,34,SAC,CHA,block,5,True,False,block,block,32-27,32,27
+0021800636,2019-01-12,SAC,CHA,11.43,1,0,34,SAC,SAC,reb,0,False,False,KINGS Rebound,,32-27,32,27
 0021800636,2019-01-12,SAC,CHA,11.53,1,0,28,SAC,SAC,fg3_make,80,False,False,Bogdanovic 3PT Step Back Jump Shot (8 PTS),,35-27,35,27
 0021800636,2019-01-12,SAC,CHA,11.8,1,0,12,CHA,CHA,fg_make,78,False,False,,Lamb 10' Floating Jump Shot (4 PTS),35-29,35,29
 0021800636,2019-01-12,SAC,CHA,11.97,1,0,2,SAC,SAC,fg_miss,5,False,False,MISS Bogdanovic 2' Layup,,35-29,35,29
@@ -291,8 +291,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800636,2019-01-12,SAC,CHA,30.05,3,5,57,SAC,SAC,fg_make,41,False,False,Fox 2' Running Layup (19 PTS),,69-70,69,70
 0021800636,2019-01-12,SAC,CHA,30.07,3,5,56,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.3 Short 0),69-70,69,70
 0021800636,2019-01-12,SAC,CHA,30.22,3,5,47,CHA,CHA,fg_miss,6,True,False,,MISS Kidd-Gilchrist 4' Driving Layup,69-70,69,70
-0021800636,2019-01-12,SAC,CHA,30.22,3,5,47,CHA,CHA,reb,0,False,False,,Hornets Rebound,69-70,69,70
 0021800636,2019-01-12,SAC,CHA,30.22,3,5,47,CHA,SAC,block,6,True,False,block,block,69-70,69,70
+0021800636,2019-01-12,SAC,CHA,30.22,3,5,47,CHA,CHA,reb,0,False,False,,Hornets Rebound,69-70,69,70
 0021800636,2019-01-12,SAC,CHA,30.48,3,5,31,CHA,CHA,fg_miss,1,True,False,,MISS Kidd-Gilchrist 9' Jump Shot,69-70,69,70
 0021800636,2019-01-12,SAC,CHA,30.48,3,5,31,CHA,SAC,block,1,True,False,block,block,69-70,69,70
 0021800636,2019-01-12,SAC,CHA,30.55,3,5,27,SAC,SAC,reb,0,False,False,Cauley-Stein REBOUND (Off:4 Def:7),,69-70,69,70
@@ -424,9 +424,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800636,2019-01-12,SAC,CHA,44.53,4,3,28,CHA,CHA,fg3_miss,1,False,False,,MISS Graham 25' 3PT Jump Shot,97-91,97,91
 0021800636,2019-01-12,SAC,CHA,44.58,4,3,25,SAC,SAC,reb,0,False,False,Fox REBOUND (Off:2 Def:4),,97-91,97,91
 0021800636,2019-01-12,SAC,CHA,44.67,4,3,20,SAC,SAC,fg_miss,5,True,False,MISS Fox 4' Layup,,97-91,97,91
+0021800636,2019-01-12,SAC,CHA,44.67,4,3,20,SAC,CHA,block,5,True,False,block,block,97-91,97,91
 0021800636,2019-01-12,SAC,CHA,44.67,4,3,20,SAC,SAC,reb,0,False,False,KINGS Rebound,,97-91,97,91
 0021800636,2019-01-12,SAC,CHA,44.67,4,3,20,SAC,SAC,timeout,1,False,False,KINGS Timeout: Regular (Full 5 Short 0),,97-91,97,91
-0021800636,2019-01-12,SAC,CHA,44.67,4,3,20,SAC,CHA,block,5,True,False,block,block,97-91,97,91
 0021800636,2019-01-12,SAC,CHA,44.95,4,3,3,SAC,SAC,tov,1,False,True,Fox Bad Pass Turnover (P2.T10),,97-91,97,91
 0021800636,2019-01-12,SAC,CHA,44.95,4,3,3,SAC,CHA,steal,1,False,True,steal,steal,97-91,97,91
 0021800636,2019-01-12,SAC,CHA,45.15,4,2,51,CHA,CHA,fg_miss,44,False,False,,MISS Kidd-Gilchrist 3' Reverse Layup,97-91,97,91
@@ -456,8 +456,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800636,2019-01-12,SAC,CHA,47.42,4,0,35,CHA,SAC,foul,2,False,False,Hield S.FOUL (P1.PN) (D.Taylor),,104-95,104,95
 0021800636,2019-01-12,SAC,CHA,47.42,4,0,35,CHA,CHA,ft_make,13,False,False,,Batum Free Throw 1 of 3 (12 PTS),104-96,104,96
 0021800636,2019-01-12,SAC,CHA,47.42,4,0,35,CHA,CHA,ft_miss,14,False,False,,MISS Batum Free Throw 2 of 3,104-96,104,96
-0021800636,2019-01-12,SAC,CHA,47.42,4,0,35,CHA,CHA,ft_make,15,False,False,,Batum Free Throw 3 of 3 (13 PTS),104-97,104,97
 0021800636,2019-01-12,SAC,CHA,47.42,4,0,35,CHA,CHA,reb,1,False,False,,Hornets Rebound,104-97,104,97
+0021800636,2019-01-12,SAC,CHA,47.42,4,0,35,CHA,CHA,ft_make,15,False,False,,Batum Free Throw 3 of 3 (13 PTS),104-97,104,97
 0021800636,2019-01-12,SAC,CHA,47.57,4,0,26,SAC,SAC,tov,1,False,True,Bogdanovic Bad Pass Turnover (P4.T11),,104-97,104,97
 0021800636,2019-01-12,SAC,CHA,47.57,4,0,26,SAC,CHA,steal,1,False,True,steal,steal,104-97,104,97
 0021800636,2019-01-12,SAC,CHA,47.63,4,0,22,CHA,CHA,fg3_miss,1,False,False,,MISS Bridges 27' 3PT Jump Shot,104-97,104,97

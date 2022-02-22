@@ -9,9 +9,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000272,2021-01-27,CLE,DET,1.1,1,10,54,CLE,DET,steal,1,False,True,steal,steal,2-4,2,4
 0022000272,2021-01-27,CLE,DET,1.18,1,10,49,DET,DET,fg_make,106,False,False,,Plumlee 1' Running Alley Oop Dunk Shot (2 PTS) (Wright 2 AST),2-6,2,6
 0022000272,2021-01-27,CLE,DET,1.35,1,10,39,CLE,CLE,fg_miss,108,True,False,MISS Drummond 2' Cutting Dunk Shot,,2-6,2,6
+0022000272,2021-01-27,CLE,DET,1.35,1,10,39,CLE,DET,block,108,True,False,block,block,2-6,2,6
 0022000272,2021-01-27,CLE,DET,1.35,1,10,39,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,2-6,2,6
 0022000272,2021-01-27,CLE,DET,1.35,1,10,39,,CLE,jump_ball,0,False,False,Jump Ball Drummond vs. Plumlee: Tip to Osman,,2-6,2,6
-0022000272,2021-01-27,CLE,DET,1.35,1,10,39,CLE,DET,block,108,True,False,block,block,2-6,2,6
 0022000272,2021-01-27,CLE,DET,1.47,1,10,32,CLE,DET,foul,2,False,False,,Plumlee S.FOUL (P1.T1) (J.Williams),2-6,2,6
 0022000272,2021-01-27,CLE,DET,1.47,1,10,32,CLE,CLE,ft_make,11,False,False,Drummond Free Throw 1 of 2 (3 PTS),,3-6,3,6
 0022000272,2021-01-27,CLE,DET,1.47,1,10,32,CLE,CLE,ft_miss,12,False,False,MISS Drummond Free Throw 2 of 2,,3-6,3,6
@@ -21,8 +21,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000272,2021-01-27,CLE,DET,2.18,1,9,49,CLE,DET,foul,4,False,False,,Grant OFF.Foul (P1) (M.Boland),6-9,6,9
 0022000272,2021-01-27,CLE,DET,2.18,1,9,49,DET,DET,tov,37,False,False,,Grant Offensive Foul Turnover (P1.T1),6-9,6,9
 0022000272,2021-01-27,CLE,DET,2.4,1,9,36,CLE,CLE,fg_miss,101,False,False,MISS Garland 7' Driving Floating Jump Shot,,6-9,6,9
-0022000272,2021-01-27,CLE,DET,2.55,1,9,27,CLE,CLE,fg_make,72,False,False,Drummond Putback Layup (5 PTS),,8-9,8,9
 0022000272,2021-01-27,CLE,DET,2.55,1,9,27,CLE,CLE,reb,0,False,False,Drummond REBOUND (Off:1 Def:0),,8-9,8,9
+0022000272,2021-01-27,CLE,DET,2.55,1,9,27,CLE,CLE,fg_make,72,False,False,Drummond Putback Layup (5 PTS),,8-9,8,9
 0022000272,2021-01-27,CLE,DET,2.7,1,9,18,DET,DET,fg3_make,1,False,False,,Grant 27' 3PT Jump Shot (3 PTS) (Bey 1 AST),8-12,8,12
 0022000272,2021-01-27,CLE,DET,2.9,1,9,6,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 1 Short 0),,8-12,8,12
 0022000272,2021-01-27,CLE,DET,3.12,1,8,53,CLE,CLE,fg_miss,101,False,False,MISS Garland 4' Driving Floating Jump Shot,,8-12,8,12
@@ -105,8 +105,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000272,2021-01-27,CLE,DET,10.18,1,1,49,DET,CLE,block,98,True,False,block,block,30-26,30,26
 0022000272,2021-01-27,CLE,DET,10.2,1,1,48,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:2 Def:0),30-26,30,26
 0022000272,2021-01-27,CLE,DET,10.2,1,1,48,DET,DET,fg_miss,72,False,False,,MISS Stewart 2' Putback Layup,30-26,30,26
-0022000272,2021-01-27,CLE,DET,10.23,1,1,46,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:3 Def:0),30-26,30,26
 0022000272,2021-01-27,CLE,DET,10.23,1,1,46,DET,DET,fg_miss,72,False,False,,MISS Stewart 2' Putback Layup,30-26,30,26
+0022000272,2021-01-27,CLE,DET,10.23,1,1,46,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:3 Def:0),30-26,30,26
 0022000272,2021-01-27,CLE,DET,10.25,1,1,45,CLE,CLE,reb,0,False,False,Sexton REBOUND (Off:0 Def:1),,30-26,30,26
 0022000272,2021-01-27,CLE,DET,10.45,1,1,33,CLE,CLE,fg3_miss,1,False,False,MISS Windler 27' 3PT Jump Shot,,30-26,30,26
 0022000272,2021-01-27,CLE,DET,10.52,1,1,29,DET,DET,reb,0,False,False,,Doumbouya REBOUND (Off:0 Def:2),30-26,30,26
@@ -124,8 +124,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000272,2021-01-27,CLE,DET,11.45,1,0,33,CLE,DET,block,101,True,False,block,block,32-28,32,28
 0022000272,2021-01-27,CLE,DET,11.5,1,0,30,DET,DET,reb,0,False,False,,Mykhailiuk REBOUND (Off:0 Def:1),32-28,32,28
 0022000272,2021-01-27,CLE,DET,11.53,1,0,28,DET,DET,fg_miss,5,True,False,,MISS Doumbouya 1' Layup,32-28,32,28
-0022000272,2021-01-27,CLE,DET,11.53,1,0,28,DET,DET,reb,0,False,False,,Pistons Rebound,32-28,32,28
 0022000272,2021-01-27,CLE,DET,11.53,1,0,28,DET,CLE,block,5,True,False,block,block,32-28,32,28
+0022000272,2021-01-27,CLE,DET,11.53,1,0,28,DET,DET,reb,0,False,False,,Pistons Rebound,32-28,32,28
 0022000272,2021-01-27,CLE,DET,11.57,1,0,26,DET,DET,fg3_miss,1,False,False,,MISS Jackson 3PT Jump Shot,32-28,32,28
 0022000272,2021-01-27,CLE,DET,11.6,1,0,24,CLE,CLE,reb,0,False,False,Sexton REBOUND (Off:0 Def:2),,32-28,32,28
 0022000272,2021-01-27,CLE,DET,11.98,1,0,1,CLE,CLE,tov,11,False,False,CAVALIERS Turnover: Shot Clock (T#6),,32-28,32,28
@@ -209,8 +209,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000272,2021-01-27,CLE,DET,21.35,2,2,39,DET,DET,fg_miss,75,False,False,,MISS Wright 2' Driving Finger Roll Layup,45-53,45,53
 0022000272,2021-01-27,CLE,DET,21.38,2,2,37,CLE,CLE,reb,0,False,False,Drummond REBOUND (Off:4 Def:3),,45-53,45,53
 0022000272,2021-01-27,CLE,DET,21.4,2,2,36,CLE,CLE,fg_miss,41,True,False,MISS Garland 2' Running Layup,,45-53,45,53
-0022000272,2021-01-27,CLE,DET,21.4,2,2,36,DET,DET,reb,0,False,False,,Pistons Rebound,45-53,45,53
 0022000272,2021-01-27,CLE,DET,21.4,2,2,36,CLE,DET,block,41,True,False,block,block,45-53,45,53
+0022000272,2021-01-27,CLE,DET,21.4,2,2,36,DET,DET,reb,0,False,False,,Pistons Rebound,45-53,45,53
 0022000272,2021-01-27,CLE,DET,21.72,2,2,17,DET,DET,tov,1,False,True,,Plumlee Bad Pass Turnover (P4.T11),45-53,45,53
 0022000272,2021-01-27,CLE,DET,21.72,2,2,17,DET,CLE,steal,1,False,True,steal,steal,45-53,45,53
 0022000272,2021-01-27,CLE,DET,21.8,2,2,12,CLE,CLE,fg_make,41,False,False,Sexton 1' Running Layup (16 PTS) (Okoro 3 AST),,47-53,47,53
@@ -342,8 +342,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000272,2021-01-27,CLE,DET,36.8,4,11,12,DET,DET,reb,0,False,False,,Doumbouya REBOUND (Off:0 Def:3),92-82,92,82
 0022000272,2021-01-27,CLE,DET,37.03,4,10,58,DET,DET,fg_make,5,False,False,,Okafor 1' Layup (2 PTS) (Jackson 3 AST),92-84,92,84
 0022000272,2021-01-27,CLE,DET,37.17,4,10,50,CLE,CLE,fg_miss,6,True,False,MISS Sexton 3' Driving Layup,,92-84,92,84
-0022000272,2021-01-27,CLE,DET,37.17,4,10,50,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,92-84,92,84
 0022000272,2021-01-27,CLE,DET,37.17,4,10,50,CLE,DET,block,6,True,False,block,block,92-84,92,84
+0022000272,2021-01-27,CLE,DET,37.17,4,10,50,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,92-84,92,84
 0022000272,2021-01-27,CLE,DET,37.3,4,10,42,CLE,CLE,fg_miss,5,False,False,MISS Windler 2' Layup,,92-84,92,84
 0022000272,2021-01-27,CLE,DET,37.35,4,10,39,DET,DET,reb,0,False,False,,Mykhailiuk REBOUND (Off:0 Def:2),92-84,92,84
 0022000272,2021-01-27,CLE,DET,37.52,4,10,29,DET,DET,fg_make,75,False,False,,Rose Driving Finger Roll Layup (12 PTS) (Doumbouya 1 AST),92-86,92,86

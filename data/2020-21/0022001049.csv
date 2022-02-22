@@ -55,8 +55,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001049,2021-05-13,ATL,ORL,5.75,1,6,15,ORL,ORL,fg_make,41,False,False,,Harris 2' Running Layup (5 PTS) (Anthony 2 AST),13-12,13,12
 0022001049,2021-05-13,ATL,ORL,6.1,1,5,54,ATL,ATL,fg_make,79,False,False,Bogdanovic 16' Pullup Jump Shot (4 PTS),,15-12,15,12
 0022001049,2021-05-13,ATL,ORL,6.37,1,5,38,ORL,ORL,fg_miss,6,True,False,,MISS Anthony 1' Driving Layup,15-12,15,12
-0022001049,2021-05-13,ATL,ORL,6.37,1,5,38,ORL,ORL,reb,0,False,False,,Magic Rebound,15-12,15,12
 0022001049,2021-05-13,ATL,ORL,6.37,1,5,38,ORL,ATL,block,6,True,False,block,block,15-12,15,12
+0022001049,2021-05-13,ATL,ORL,6.37,1,5,38,ORL,ORL,reb,0,False,False,,Magic Rebound,15-12,15,12
 0022001049,2021-05-13,ATL,ORL,6.52,1,5,29,ORL,ORL,tov,1,False,True,,Harris Bad Pass Turnover (P1.T2),15-12,15,12
 0022001049,2021-05-13,ATL,ORL,6.52,1,5,29,ORL,ATL,steal,1,False,True,steal,steal,15-12,15,12
 0022001049,2021-05-13,ATL,ORL,6.62,1,5,23,ATL,ATL,fg3_miss,1,False,False,MISS Bogdanovic 26' 3PT Jump Shot,,15-12,15,12
@@ -279,11 +279,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001049,2021-05-13,ATL,ORL,31.17,3,4,50,ATL,ATL,reb,0,False,False,Capela REBOUND (Off:6 Def:8),,81-55,81,55
 0022001049,2021-05-13,ATL,ORL,31.25,3,4,45,ATL,ATL,fg_make,103,False,False,Young 17' Running Pull-Up Jump Shot (18 PTS),,83-55,83,55
 0022001049,2021-05-13,ATL,ORL,31.28,3,4,43,ORL,ORL,timeout,1,False,False,,Magic Timeout: Regular (Reg.4 Short 0),83-55,83,55
-0022001049,2021-05-13,ATL,ORL,31.52,3,4,29,ORL,ORL,tov,2,False,True,,Wagner Lost Ball Turnover (P1.T10),83-55,83,55
-0022001049,2021-05-13,ATL,ORL,31.52,3,4,29,ATL,ORL,foul,28,False,False,,Wagner Personal Take Foul (P2.PN) (B.Adair),83-55,83,55
-0022001049,2021-05-13,ATL,ORL,31.52,3,4,29,ORL,ATL,steal,2,False,True,steal,steal,83-55,83,55
 0022001049,2021-05-13,ATL,ORL,31.52,3,4,29,ATL,ATL,ft_make,11,False,False,Bogdanovic Free Throw 1 of 2 (23 PTS),,84-55,84,55
 0022001049,2021-05-13,ATL,ORL,31.52,3,4,29,ATL,ATL,ft_make,12,False,False,Bogdanovic Free Throw 2 of 2 (24 PTS),,85-55,85,55
+0022001049,2021-05-13,ATL,ORL,31.52,3,4,29,ATL,ORL,foul,28,False,False,,Wagner Personal Take Foul (P2.PN) (B.Adair),83-55,83,55
+0022001049,2021-05-13,ATL,ORL,31.52,3,4,29,ORL,ORL,tov,2,False,True,,Wagner Lost Ball Turnover (P1.T10),83-55,83,55
+0022001049,2021-05-13,ATL,ORL,31.52,3,4,29,ORL,ATL,steal,2,False,True,steal,steal,83-55,83,55
 0022001049,2021-05-13,ATL,ORL,31.77,3,4,14,ORL,ORL,fg_miss,78,False,False,,MISS Thornwell 8' Floating Jump Shot,85-55,85,55
 0022001049,2021-05-13,ATL,ORL,31.82,3,4,11,ORL,ORL,reb,0,False,False,,Carter Jr. REBOUND (Off:4 Def:4),85-55,85,55
 0022001049,2021-05-13,ATL,ORL,31.98,3,4,1,ORL,ORL,fg_miss,63,False,False,,MISS Carter Jr. 14' Fadeaway Jumper,85-55,85,55
@@ -327,9 +327,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001049,2021-05-13,ATL,ORL,35.45,3,0,33,ATL,ATL,tov,1,False,True,Williams Bad Pass Turnover (P1.T7),,91-69,91,69
 0022001049,2021-05-13,ATL,ORL,35.45,3,0,33,ATL,ORL,steal,1,False,True,steal,steal,91-69,91,69
 0022001049,2021-05-13,ATL,ORL,35.47,3,0,32,ORL,ATL,foul,28,False,False,Huerter Personal Take Foul (P1.PN) (K.Cutler),,91-69,91,69
-0022001049,2021-05-13,ATL,ORL,35.57,3,0,26,ORL,ATL,foul,2,False,False,Okongwu S.FOUL (P2.PN) (B.Adair),,91-69,91,69
 0022001049,2021-05-13,ATL,ORL,35.57,3,0,26,ORL,ORL,ft_make,11,False,False,,Hall Free Throw 1 of 2 (5 PTS),91-70,91,70
 0022001049,2021-05-13,ATL,ORL,35.57,3,0,26,ORL,ORL,ft_make,12,False,False,,Hall Free Throw 2 of 2 (6 PTS),91-71,91,71
+0022001049,2021-05-13,ATL,ORL,35.57,3,0,26,ORL,ATL,foul,2,False,False,Okongwu S.FOUL (P2.PN) (B.Adair),,91-69,91,69
 0022001049,2021-05-13,ATL,ORL,35.73,3,0,16,ATL,ORL,foul,2,False,False,,Brazdeikis S.FOUL (P1.PN) (B.Adair),91-71,91,71
 0022001049,2021-05-13,ATL,ORL,35.73,3,0,16,ATL,ATL,ft_make,11,False,False,Hunter Free Throw 1 of 2 (1 PTS),,92-71,92,71
 0022001049,2021-05-13,ATL,ORL,35.73,3,0,16,ATL,ATL,ft_make,12,False,False,Hunter Free Throw 2 of 2 (2 PTS),,93-71,93,71
@@ -343,8 +343,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001049,2021-05-13,ATL,ORL,36.4,4,11,36,ORL,ORL,fg3_miss,80,False,False,,MISS Brazdeikis 26' 3PT Step Back Jump Shot,93-71,93,71
 0022001049,2021-05-13,ATL,ORL,36.47,4,11,32,ATL,ATL,reb,0,False,False,Okongwu REBOUND (Off:2 Def:2),,93-71,93,71
 0022001049,2021-05-13,ATL,ORL,36.67,4,11,20,ATL,ATL,fg_miss,5,True,False,MISS Gallinari 4' Layup,,93-71,93,71
-0022001049,2021-05-13,ATL,ORL,36.67,4,11,20,ORL,ORL,reb,0,False,False,,Thornwell REBOUND (Off:1 Def:3),93-71,93,71
 0022001049,2021-05-13,ATL,ORL,36.67,4,11,20,ATL,ORL,block,5,True,False,block,block,93-71,93,71
+0022001049,2021-05-13,ATL,ORL,36.67,4,11,20,ORL,ORL,reb,0,False,False,,Thornwell REBOUND (Off:1 Def:3),93-71,93,71
 0022001049,2021-05-13,ATL,ORL,36.82,4,11,11,ORL,ORL,fg3_miss,1,False,False,,MISS Randle 27' 3PT Jump Shot,93-71,93,71
 0022001049,2021-05-13,ATL,ORL,36.9,4,11,6,ATL,ATL,reb,0,False,False,Hunter REBOUND (Off:0 Def:3),,93-71,93,71
 0022001049,2021-05-13,ATL,ORL,37.08,4,10,55,ATL,ATL,fg_miss,47,False,False,MISS Hunter 16' Turnaround Jump Shot,,93-71,93,71
@@ -356,9 +356,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001049,2021-05-13,ATL,ORL,37.67,4,10,20,ORL,ORL,fg3_miss,1,False,False,,MISS Thornwell 28' 3PT Jump Shot,93-71,93,71
 0022001049,2021-05-13,ATL,ORL,37.72,4,10,17,ATL,ATL,reb,0,False,False,Huerter REBOUND (Off:1 Def:4),,93-71,93,71
 0022001049,2021-05-13,ATL,ORL,37.93,4,10,4,ATL,ATL,fg_miss,79,False,False,MISS Williams 12' Pullup Jump Shot,,93-71,93,71
+0022001049,2021-05-13,ATL,ORL,38.05,4,9,57,ATL,ATL,reb,0,False,False,Okongwu REBOUND (Off:3 Def:2),,93-71,93,71
 0022001049,2021-05-13,ATL,ORL,38.05,4,9,57,ATL,ATL,fg_miss,72,False,False,MISS Okongwu Putback Layup,,93-71,93,71
 0022001049,2021-05-13,ATL,ORL,38.05,4,9,57,ORL,ORL,reb,0,False,False,,Brazdeikis REBOUND (Off:1 Def:2),93-71,93,71
-0022001049,2021-05-13,ATL,ORL,38.05,4,9,57,ATL,ATL,reb,0,False,False,Okongwu REBOUND (Off:3 Def:2),,93-71,93,71
 0022001049,2021-05-13,ATL,ORL,38.2,4,9,48,ORL,ORL,fg_miss,79,False,False,,MISS Hampton 22' Pullup Jump Shot,93-71,93,71
 0022001049,2021-05-13,ATL,ORL,38.22,4,9,47,ATL,ATL,reb,0,False,False,HAWKS Rebound,,93-71,93,71
 0022001049,2021-05-13,ATL,ORL,38.22,4,9,47,ATL,ORL,foul,3,False,False,,Hall L.B.FOUL (P3.T1) (K.Cutler),93-71,93,71
@@ -384,8 +384,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001049,2021-05-13,ATL,ORL,40.93,4,7,4,ORL,ORL,fg_miss,80,False,False,,MISS Randle 21' Step Back Jump Shot,103-77,103,77
 0022001049,2021-05-13,ATL,ORL,41.05,4,6,57,ORL,ORL,reb,0,False,False,,Brazdeikis REBOUND (Off:2 Def:2),103-77,103,77
 0022001049,2021-05-13,ATL,ORL,41.05,4,6,57,ORL,ORL,fg_miss,72,True,False,,MISS Brazdeikis Putback Layup,103-77,103,77
-0022001049,2021-05-13,ATL,ORL,41.05,4,6,57,ATL,ATL,reb,0,False,False,Gallinari REBOUND (Off:0 Def:3),,103-77,103,77
 0022001049,2021-05-13,ATL,ORL,41.05,4,6,57,ORL,ATL,block,72,True,False,block,block,103-77,103,77
+0022001049,2021-05-13,ATL,ORL,41.05,4,6,57,ATL,ATL,reb,0,False,False,Gallinari REBOUND (Off:0 Def:3),,103-77,103,77
 0022001049,2021-05-13,ATL,ORL,41.33,4,6,40,ATL,ATL,fg_miss,79,False,False,MISS Huerter 9' Pullup Jump Shot,,103-77,103,77
 0022001049,2021-05-13,ATL,ORL,41.38,4,6,37,ORL,ORL,reb,0,False,False,,Hampton REBOUND (Off:1 Def:5),103-77,103,77
 0022001049,2021-05-13,ATL,ORL,41.52,4,6,29,ORL,ORL,fg3_make,1,False,False,,Hampton 24' 3PT Jump Shot (15 PTS) (Thornwell 4 AST),103-80,103,80

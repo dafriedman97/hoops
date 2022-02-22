@@ -25,5 +25,3 @@ def get_sbs(seasons): # get combined score by score
             sbs.append(convert_play_by_play_to_score_by_score(pbp))
     sbs = pd.concat(sbs)
     return sbs
-
-

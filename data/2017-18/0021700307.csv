@@ -33,8 +33,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700307,2017-11-29,TOR,CHA,3.42,1,8,35,TOR,TOR,tov,2,False,True,Ibaka Lost Ball Turnover (P1.T1),,8-5,8,5
 0021700307,2017-11-29,TOR,CHA,3.42,1,8,35,TOR,CHA,steal,2,False,True,steal,steal,8-5,8,5
 0021700307,2017-11-29,TOR,CHA,3.55,1,8,27,CHA,CHA,fg_miss,101,True,False,,MISS Kidd-Gilchrist 7' Driving Floating Jump Shot,8-5,8,5
-0021700307,2017-11-29,TOR,CHA,3.55,1,8,27,CHA,CHA,reb,0,False,False,,Hornets Rebound,8-5,8,5
 0021700307,2017-11-29,TOR,CHA,3.55,1,8,27,CHA,TOR,block,101,True,False,block,block,8-5,8,5
+0021700307,2017-11-29,TOR,CHA,3.55,1,8,27,CHA,CHA,reb,0,False,False,,Hornets Rebound,8-5,8,5
 0021700307,2017-11-29,TOR,CHA,3.65,1,8,21,CHA,CHA,fg3_make,1,False,False,,Williams 26' 3PT Jump Shot (3 PTS) (Batum 2 AST),8-8,8,8
 0021700307,2017-11-29,TOR,CHA,3.87,1,8,8,TOR,TOR,fg_miss,1,False,False,MISS Valanciunas 13' Jump Shot,,8-8,8,8
 0021700307,2017-11-29,TOR,CHA,3.92,1,8,5,CHA,CHA,reb,0,False,False,,Howard REBOUND (Off:0 Def:1),8-8,8,8
@@ -69,8 +69,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700307,2017-11-29,TOR,CHA,8.18,1,3,49,CHA,CHA,fg_miss,102,False,False,,MISS Carter-Williams 8' Driving Floating Bank Jump Shot,18-12,18,12
 0021700307,2017-11-29,TOR,CHA,8.22,1,3,47,CHA,CHA,reb,0,False,False,,Carter-Williams REBOUND (Off:1 Def:0),18-12,18,12
 0021700307,2017-11-29,TOR,CHA,8.33,1,3,40,CHA,CHA,fg_miss,79,False,False,,MISS Howard 7' Pullup Jump Shot,18-12,18,12
-0021700307,2017-11-29,TOR,CHA,8.33,1,3,40,CHA,CHA,reb,0,False,False,,Hornets Rebound,18-12,18,12
 0021700307,2017-11-29,TOR,CHA,8.33,1,3,40,CHA,CHA,tov,11,False,False,,Hornets Turnover: Shot Clock (T#3),18-12,18,12
+0021700307,2017-11-29,TOR,CHA,8.33,1,3,40,CHA,CHA,reb,0,False,False,,Hornets Rebound,18-12,18,12
 0021700307,2017-11-29,TOR,CHA,8.7,1,3,18,TOR,TOR,fg_make,66,False,False,Valanciunas 6' Jump Bank Shot (6 PTS),,20-12,20,12
 0021700307,2017-11-29,TOR,CHA,8.93,1,3,4,CHA,CHA,fg_miss,79,False,False,,MISS Lamb 11' Pullup Jump Shot,20-12,20,12
 0021700307,2017-11-29,TOR,CHA,8.93,1,3,4,TOR,TOR,reb,0,False,False,Lowry REBOUND (Off:0 Def:2),,20-12,20,12
@@ -149,8 +149,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700307,2017-11-29,TOR,CHA,16.73,2,7,16,CHA,TOR,foul,4,False,False,Valanciunas OFF.Foul (P1) (E.Dalen),,45-39,45,39
 0021700307,2017-11-29,TOR,CHA,16.73,2,7,16,TOR,TOR,tov,37,False,False,Valanciunas Offensive Foul Turnover (P1.T2),,45-39,45,39
 0021700307,2017-11-29,TOR,CHA,17.0,2,7,0,CHA,CHA,fg_miss,98,True,False,,MISS Kaminsky 4' Cutting Layup Shot,45-39,45,39
-0021700307,2017-11-29,TOR,CHA,17.0,2,7,0,CHA,CHA,reb,0,False,False,,Howard REBOUND (Off:1 Def:2),45-39,45,39
 0021700307,2017-11-29,TOR,CHA,17.0,2,7,0,CHA,TOR,block,98,True,False,block,block,45-39,45,39
+0021700307,2017-11-29,TOR,CHA,17.0,2,7,0,CHA,CHA,reb,0,False,False,,Howard REBOUND (Off:1 Def:2),45-39,45,39
 0021700307,2017-11-29,TOR,CHA,17.1,2,6,54,CHA,CHA,fg_miss,3,False,False,,MISS Howard 4' Hook Shot,45-39,45,39
 0021700307,2017-11-29,TOR,CHA,17.1,2,6,54,TOR,TOR,reb,0,False,False,Lowry REBOUND (Off:0 Def:3),,45-39,45,39
 0021700307,2017-11-29,TOR,CHA,17.33,2,6,40,TOR,TOR,fg_make,58,False,False,Valanciunas 2' Turnaround Hook Shot (8 PTS) (Lowry 3 AST),,47-39,47,39
@@ -228,8 +228,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700307,2017-11-29,TOR,CHA,25.08,3,10,55,CHA,CHA,ft_make,11,False,False,,Kidd-Gilchrist Free Throw 1 of 2 (5 PTS),71-57,71,57
 0021700307,2017-11-29,TOR,CHA,25.08,3,10,55,CHA,CHA,ft_make,12,False,False,,Kidd-Gilchrist Free Throw 2 of 2 (6 PTS),71-58,71,58
 0021700307,2017-11-29,TOR,CHA,25.42,3,10,35,TOR,TOR,tov,2,False,True,Lowry Lost Ball Turnover (P1.T4),,71-58,71,58
-0021700307,2017-11-29,TOR,CHA,25.42,3,10,35,CHA,TOR,foul,1,False,False,Lowry P.FOUL (P2.T2) (A.Smith),,71-58,71,58
 0021700307,2017-11-29,TOR,CHA,25.42,3,10,35,TOR,CHA,steal,2,False,True,steal,steal,71-58,71,58
+0021700307,2017-11-29,TOR,CHA,25.42,3,10,35,CHA,TOR,foul,1,False,False,Lowry P.FOUL (P2.T2) (A.Smith),,71-58,71,58
 0021700307,2017-11-29,TOR,CHA,25.78,3,10,13,CHA,CHA,fg3_miss,1,False,False,,MISS Carter-Williams 27' 3PT Jump Shot,71-58,71,58
 0021700307,2017-11-29,TOR,CHA,25.82,3,10,11,CHA,CHA,reb,0,False,False,,Howard REBOUND (Off:2 Def:4),71-58,71,58
 0021700307,2017-11-29,TOR,CHA,25.85,3,10,9,CHA,CHA,fg_make,67,False,False,,Howard 3' Hook Bank Shot (15 PTS),71-60,71,60
@@ -251,8 +251,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700307,2017-11-29,TOR,CHA,27.58,3,8,25,TOR,TOR,tov,2,False,True,Ibaka Lost Ball Turnover (P2.T6),,73-66,73,66
 0021700307,2017-11-29,TOR,CHA,27.58,3,8,25,TOR,CHA,steal,2,False,True,steal,steal,73-66,73,66
 0021700307,2017-11-29,TOR,CHA,27.63,3,8,22,CHA,CHA,fg_make,41,False,False,,Carter-Williams 2' Running Layup (6 PTS) (Kidd-Gilchrist 1 AST),73-68,73,68
-0021700307,2017-11-29,TOR,CHA,27.63,3,8,22,CHA,TOR,foul,2,False,False,Lowry S.FOUL (P3.T4) (M.Davis),,73-68,73,68
 0021700307,2017-11-29,TOR,CHA,27.63,3,8,22,CHA,CHA,ft_make,10,False,False,,Carter-Williams Free Throw 1 of 1 (7 PTS),73-69,73,69
+0021700307,2017-11-29,TOR,CHA,27.63,3,8,22,CHA,TOR,foul,2,False,False,Lowry S.FOUL (P3.T4) (M.Davis),,73-68,73,68
 0021700307,2017-11-29,TOR,CHA,27.82,3,8,11,TOR,TOR,fg3_miss,79,False,False,MISS Lowry 25' 3PT Pullup Jump Shot,,73-69,73,69
 0021700307,2017-11-29,TOR,CHA,27.88,3,8,7,CHA,CHA,reb,0,False,False,,Howard REBOUND (Off:2 Def:5),73-69,73,69
 0021700307,2017-11-29,TOR,CHA,28.0,3,8,0,CHA,TOR,foul,1,False,False,Poeltl P.FOUL (P4.PN) (M.Davis),,73-69,73,69
@@ -402,8 +402,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700307,2017-11-29,TOR,CHA,45.93,4,2,4,TOR,TOR,fg_miss,1,False,False,MISS Ibaka 17' Jump Shot,,116-107,116,107
 0021700307,2017-11-29,TOR,CHA,45.97,4,2,2,TOR,TOR,reb,0,False,False,DeRozan REBOUND (Off:1 Def:2),,116-107,116,107
 0021700307,2017-11-29,TOR,CHA,46.18,4,1,49,TOR,TOR,fg_miss,79,True,False,MISS DeRozan 17' Pullup Jump Shot,,116-107,116,107
-0021700307,2017-11-29,TOR,CHA,46.18,4,1,49,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,116-107,116,107
 0021700307,2017-11-29,TOR,CHA,46.18,4,1,49,TOR,CHA,block,79,True,False,block,block,116-107,116,107
+0021700307,2017-11-29,TOR,CHA,46.18,4,1,49,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,116-107,116,107
 0021700307,2017-11-29,TOR,CHA,46.32,4,1,41,TOR,TOR,fg_make,79,False,False,DeRozan 22' Pullup Jump Shot (27 PTS),,118-107,118,107
 0021700307,2017-11-29,TOR,CHA,46.55,4,1,27,CHA,CHA,fg3_miss,1,False,False,,MISS Kaminsky 25' 3PT Jump Shot,118-107,118,107
 0021700307,2017-11-29,TOR,CHA,46.6,4,1,24,TOR,TOR,reb,0,False,False,DeRozan REBOUND (Off:1 Def:3),,118-107,118,107

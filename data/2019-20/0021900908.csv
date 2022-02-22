@@ -104,9 +104,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900908,2020-03-02,SAS,IND,13.92,2,10,5,SAS,SAS,ft_make,11,False,False,White Free Throw 1 of 2 (3 PTS),,37-29,37,29
 0021900908,2020-03-02,SAS,IND,13.92,2,10,5,SAS,SAS,ft_make,12,False,False,White Free Throw 2 of 2 (4 PTS),,38-29,38,29
 0021900908,2020-03-02,SAS,IND,14.33,2,9,40,IND,IND,fg_miss,75,True,False,,MISS Sumner 2' Driving Finger Roll Layup,38-29,38,29
+0021900908,2020-03-02,SAS,IND,14.33,2,9,40,IND,SAS,block,75,True,False,block,block,38-29,38,29
 0021900908,2020-03-02,SAS,IND,14.33,2,9,40,IND,IND,reb,0,False,False,,Pacers Rebound,38-29,38,29
 0021900908,2020-03-02,SAS,IND,14.33,2,9,40,IND,SAS,foul,3,False,False,Mills L.B.FOUL (P2.T1) (S.Corbin),,38-29,38,29
-0021900908,2020-03-02,SAS,IND,14.33,2,9,40,IND,SAS,block,75,True,False,block,block,38-29,38,29
 0021900908,2020-03-02,SAS,IND,14.38,2,9,37,IND,SAS,foul,2,False,False,Walker IV S.FOUL (P1.T2) (C.Washington),,38-29,38,29
 0021900908,2020-03-02,SAS,IND,14.38,2,9,37,IND,IND,ft_make,11,False,False,,Sabonis Free Throw 1 of 2 (1 PTS),38-30,38,30
 0021900908,2020-03-02,SAS,IND,14.38,2,9,37,IND,IND,ft_miss,12,False,False,,MISS Sabonis Free Throw 2 of 2,38-30,38,30
@@ -237,9 +237,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900908,2020-03-02,SAS,IND,28.27,3,7,44,IND,IND,fg_miss,1,False,False,,MISS Warren 17' Jump Shot,67-75,67,75
 0021900908,2020-03-02,SAS,IND,28.35,3,7,39,SAS,SAS,reb,0,False,False,Murray REBOUND (Off:1 Def:5),,67-75,67,75
 0021900908,2020-03-02,SAS,IND,28.42,3,7,35,SAS,SAS,fg_miss,75,True,False,MISS DeRozan 1' Driving Finger Roll Layup,,67-75,67,75
-0021900908,2020-03-02,SAS,IND,28.42,3,7,35,IND,IND,reb,0,False,False,,Warren REBOUND (Off:0 Def:4),67-75,67,75
-0021900908,2020-03-02,SAS,IND,28.42,3,7,35,IND,IND,timeout,1,False,False,,Pacers Timeout: Regular (Reg.3 Short 0),67-75,67,75
 0021900908,2020-03-02,SAS,IND,28.42,3,7,35,SAS,IND,block,75,True,False,block,block,67-75,67,75
+0021900908,2020-03-02,SAS,IND,28.42,3,7,35,IND,IND,timeout,1,False,False,,Pacers Timeout: Regular (Reg.3 Short 0),67-75,67,75
+0021900908,2020-03-02,SAS,IND,28.42,3,7,35,IND,IND,reb,0,False,False,,Warren REBOUND (Off:0 Def:4),67-75,67,75
 0021900908,2020-03-02,SAS,IND,28.72,3,7,17,IND,IND,fg_make,75,False,False,,Brogdon 1' Driving Finger Roll Layup (21 PTS),67-77,67,77
 0021900908,2020-03-02,SAS,IND,29.13,3,6,52,SAS,SAS,fg3_miss,79,False,False,MISS Forbes 25' 3PT Pullup Jump Shot,,67-77,67,77
 0021900908,2020-03-02,SAS,IND,29.2,3,6,48,IND,IND,reb,0,False,False,,Warren REBOUND (Off:0 Def:5),67-77,67,77
@@ -384,8 +384,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900908,2020-03-02,SAS,IND,47.32,4,0,41,IND,SAS,block,6,True,False,block,block,109-112,109,112
 0021900908,2020-03-02,SAS,IND,47.33,4,0,40,SAS,SAS,reb,0,False,False,White REBOUND (Off:0 Def:4),,109-112,109,112
 0021900908,2020-03-02,SAS,IND,47.7,4,0,18,SAS,SAS,fg_miss,6,True,False,MISS Lyles 1' Driving Layup,,109-112,109,112
-0021900908,2020-03-02,SAS,IND,47.7,4,0,18,SAS,SAS,reb,0,False,False,SPURS Rebound,,109-112,109,112
 0021900908,2020-03-02,SAS,IND,47.7,4,0,18,SAS,IND,block,6,True,False,block,block,109-112,109,112
+0021900908,2020-03-02,SAS,IND,47.7,4,0,18,SAS,SAS,reb,0,False,False,SPURS Rebound,,109-112,109,112
 0021900908,2020-03-02,SAS,IND,47.72,4,0,17,SAS,SAS,tov,11,False,False,SPURS Turnover: Shot Clock (T#14),,109-112,109,112
 0021900908,2020-03-02,SAS,IND,47.72,4,0,17,IND,IND,timeout,1,False,False,,Pacers Timeout: Regular (Reg.6 Short 0),109-112,109,112
 0021900908,2020-03-02,SAS,IND,47.73,4,0,16,IND,SAS,foul,28,False,False,Walker IV Personal Take Foul (P3.PN) (M.Davis),,109-112,109,112

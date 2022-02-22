@@ -44,8 +44,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900631,2020-01-18,CHI,CLE,5.27,1,6,44,CLE,CLE,reb,0,False,False,,Love REBOUND (Off:0 Def:1),14-18,14,18
 0021900631,2020-01-18,CHI,CLE,5.47,1,6,32,CLE,CLE,fg_miss,6,True,False,,MISS Sexton 3' Driving Layup,14-18,14,18
 0021900631,2020-01-18,CHI,CLE,5.47,1,6,32,CLE,CHI,block,6,True,False,block,block,14-18,14,18
-0021900631,2020-01-18,CHI,CLE,5.57,1,6,26,CLE,CLE,fg_make,72,False,False,,Sexton 1' Putback Layup (2 PTS),14-20,14,20
 0021900631,2020-01-18,CHI,CLE,5.57,1,6,26,CLE,CLE,reb,0,False,False,,Sexton REBOUND (Off:1 Def:2),14-20,14,20
+0021900631,2020-01-18,CHI,CLE,5.57,1,6,26,CLE,CLE,fg_make,72,False,False,,Sexton 1' Putback Layup (2 PTS),14-20,14,20
 0021900631,2020-01-18,CHI,CLE,5.72,1,6,17,CHI,CHI,fg_make,73,False,False,LaVine 1' Driving Reverse Layup (4 PTS),,16-20,16,20
 0021900631,2020-01-18,CHI,CLE,6.0,1,6,0,CLE,CLE,tov,1,False,True,,Garland Bad Pass Turnover (P2.T3),16-20,16,20
 0021900631,2020-01-18,CHI,CLE,6.0,1,6,0,CLE,CHI,steal,1,False,True,steal,steal,16-20,16,20
@@ -60,9 +60,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900631,2020-01-18,CHI,CLE,6.95,1,5,3,CLE,CLE,tov,1,False,True,,Exum Bad Pass Turnover (P1.T5),16-20,16,20
 0021900631,2020-01-18,CHI,CLE,6.95,1,5,3,CLE,CHI,steal,1,False,True,steal,steal,16-20,16,20
 0021900631,2020-01-18,CHI,CLE,7.07,1,4,56,CHI,CHI,fg3_miss,1,False,False,MISS Markkanen 26' 3PT Jump Shot,,16-20,16,20
+0021900631,2020-01-18,CHI,CLE,7.18,1,4,49,CHI,CHI,reb,0,False,False,LaVine REBOUND (Off:2 Def:0),,16-20,16,20
 0021900631,2020-01-18,CHI,CLE,7.18,1,4,49,CHI,CHI,fg_miss,72,False,False,MISS LaVine 1' Putback Layup,,16-20,16,20
 0021900631,2020-01-18,CHI,CLE,7.18,1,4,49,CHI,CHI,reb,0,False,False,LaVine REBOUND (Off:1 Def:0),,16-20,16,20
-0021900631,2020-01-18,CHI,CLE,7.18,1,4,49,CHI,CHI,reb,0,False,False,LaVine REBOUND (Off:2 Def:0),,16-20,16,20
 0021900631,2020-01-18,CHI,CLE,7.22,1,4,47,CHI,CHI,fg_make,97,False,False,LaVine 1' Tip Layup Shot (6 PTS),,18-20,18,20
 0021900631,2020-01-18,CHI,CLE,7.5,1,4,30,CLE,CLE,fg3_make,1,False,False,,Osman 3PT Jump Shot (6 PTS) (Nance Jr. 1 AST),18-23,18,23
 0021900631,2020-01-18,CHI,CLE,7.75,1,4,15,CHI,CHI,fg3_make,1,False,False,Dunn 25' 3PT Jump Shot (5 PTS) (Felicio 1 AST),,21-23,21,23
@@ -262,8 +262,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900631,2020-01-18,CHI,CLE,31.73,3,4,16,CHI,CHI,fg_miss,5,False,False,MISS LaVine 2' Layup,,77-91,77,91
 0021900631,2020-01-18,CHI,CLE,31.77,3,4,14,CLE,CLE,reb,0,False,False,,Love REBOUND (Off:0 Def:3),77-91,77,91
 0021900631,2020-01-18,CHI,CLE,31.85,3,4,9,CLE,CLE,tov,1,False,True,,Sexton Bad Pass Turnover (P4.T16),77-91,77,91
-0021900631,2020-01-18,CHI,CLE,31.85,3,4,9,CHI,CLE,foul,28,False,False,,Love Personal Take Foul (P2.T3) (B.Taylor),77-91,77,91
 0021900631,2020-01-18,CHI,CLE,31.85,3,4,9,CLE,CHI,steal,1,False,True,steal,steal,77-91,77,91
+0021900631,2020-01-18,CHI,CLE,31.85,3,4,9,CHI,CLE,foul,28,False,False,,Love Personal Take Foul (P2.T3) (B.Taylor),77-91,77,91
 0021900631,2020-01-18,CHI,CLE,32.17,3,3,50,CHI,CHI,fg_miss,6,False,False,MISS White 1' Driving Layup,,77-91,77,91
 0021900631,2020-01-18,CHI,CLE,32.22,3,3,47,CLE,CLE,reb,0,False,False,,Thompson REBOUND (Off:1 Def:4),77-91,77,91
 0021900631,2020-01-18,CHI,CLE,32.38,3,3,37,CLE,CLE,fg_miss,6,False,False,,MISS Exum 6' Driving Layup,77-91,77,91
@@ -271,8 +271,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900631,2020-01-18,CHI,CLE,32.48,3,3,31,CHI,CHI,fg3_miss,1,False,False,MISS Harrison 3PT Jump Shot,,77-91,77,91
 0021900631,2020-01-18,CHI,CLE,32.52,3,3,29,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,77-91,77,91
 0021900631,2020-01-18,CHI,CLE,32.87,3,3,8,CLE,CLE,fg3_miss,1,False,False,,MISS Exum 25' 3PT Jump Shot,77-91,77,91
-0021900631,2020-01-18,CHI,CLE,33.0,3,3,0,CLE,CLE,fg_make,72,False,False,,McKinnie 1' Putback Layup (5 PTS),77-93,77,93
 0021900631,2020-01-18,CHI,CLE,33.0,3,3,0,CLE,CLE,reb,0,False,False,,McKinnie REBOUND (Off:1 Def:1),77-93,77,93
+0021900631,2020-01-18,CHI,CLE,33.0,3,3,0,CLE,CLE,fg_make,72,False,False,,McKinnie 1' Putback Layup (5 PTS),77-93,77,93
 0021900631,2020-01-18,CHI,CLE,33.15,3,2,51,CHI,CHI,fg_miss,6,False,False,MISS LaVine 3' Driving Layup,,77-93,77,93
 0021900631,2020-01-18,CHI,CLE,33.18,3,2,49,CLE,CLE,reb,0,False,False,,McKinnie REBOUND (Off:1 Def:2),77-93,77,93
 0021900631,2020-01-18,CHI,CLE,33.18,3,2,49,CLE,CHI,foul,1,False,False,LaVine P.FOUL (P2.PN) (B.Taylor),,77-93,77,93
@@ -399,8 +399,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900631,2020-01-18,CHI,CLE,47.47,4,0,32,CHI,CLE,block,5,True,False,block,block,114-111,114,111
 0021900631,2020-01-18,CHI,CLE,47.52,4,0,29,CLE,CLE,reb,0,False,False,,Thompson REBOUND (Off:1 Def:6),114-111,114,111
 0021900631,2020-01-18,CHI,CLE,47.67,4,0,20,CLE,CLE,fg_make,9,False,False,,Love 1' Driving Dunk (29 PTS) (Osman 2 AST),114-113,114,113
-0021900631,2020-01-18,CHI,CLE,47.67,4,0,20,CHI,CHI,timeout,7,False,False,BULLS Timeout: Coach Challenge (Full 5 Short 0),,114-113,114,113
 0021900631,2020-01-18,CHI,CLE,47.67,4,0,20,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 6 Short 0),,114-113,114,113
+0021900631,2020-01-18,CHI,CLE,47.67,4,0,20,CHI,CHI,timeout,7,False,False,BULLS Timeout: Coach Challenge (Full 5 Short 0),,114-113,114,113
 0021900631,2020-01-18,CHI,CLE,47.73,4,0,16,CHI,CHI,fg_make,6,False,False,LaVine 1' Driving Layup (41 PTS) (Kornet 4 AST),,116-113,116,113
 0021900631,2020-01-18,CHI,CLE,47.73,4,0,16,CHI,CLE,foul,2,False,False,,Sexton S.FOUL (P2.T1) (A.Moyer-Gleich),116-113,116,113
 0021900631,2020-01-18,CHI,CLE,47.73,4,0,16,CHI,CHI,ft_make,10,False,False,LaVine Free Throw 1 of 1 (42 PTS),,117-113,117,113
@@ -416,5 +416,5 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900631,2020-01-18,CHI,CLE,47.97,4,0,2,CHI,CHI,reb,1,False,False,BULLS Rebound,,117-116,117,116
 0021900631,2020-01-18,CHI,CLE,47.97,4,0,2,CHI,CHI,ft_make,12,False,False,Dunn Free Throw 2 of 2 (10 PTS),,118-116,118,116
 0021900631,2020-01-18,CHI,CLE,48.0,4,0,0,CLE,CLE,tov,1,False,True,,Nance Jr. Bad Pass Turnover (P3.T27),118-116,118,116
-0021900631,2020-01-18,CHI,CLE,48.0,4,0,0,CLE,,period_end,0,False,False,,,118-116,118,116
 0021900631,2020-01-18,CHI,CLE,48.0,4,0,0,CLE,CHI,steal,1,False,True,steal,steal,118-116,118,116
+0021900631,2020-01-18,CHI,CLE,48.0,4,0,0,CLE,,period_end,0,False,False,,,118-116,118,116

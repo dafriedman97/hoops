@@ -122,16 +122,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900552,2020-01-07,PHX,SAC,15.93,2,8,4,PHX,PHX,fg3_miss,1,False,False,MISS Johnson 27' 3PT Jump Shot,,36-38,36,38
 0021900552,2020-01-07,PHX,SAC,15.98,2,8,1,SAC,SAC,reb,0,False,False,,Joseph REBOUND (Off:0 Def:1),36-38,36,38
 0021900552,2020-01-07,PHX,SAC,16.05,2,7,57,SAC,SAC,fg_make,41,False,False,,Fox 1' Running Layup (10 PTS) (Joseph 2 AST),36-40,36,40
-0021900552,2020-01-07,PHX,SAC,16.42,2,7,35,PHX,PHX,tov,1,False,False,Johnson Bad Pass Turnover (P1.T6),,36-40,36,40
 0021900552,2020-01-07,PHX,SAC,16.42,2,7,35,SAC,PHX,foul,3,False,False,Oubre Jr. L.B.FOUL (P1.T4) (T.Maddox),,36-40,36,40
+0021900552,2020-01-07,PHX,SAC,16.42,2,7,35,PHX,PHX,tov,1,False,False,Johnson Bad Pass Turnover (P1.T6),,36-40,36,40
 0021900552,2020-01-07,PHX,SAC,16.6,2,7,24,SAC,SAC,fg_make,102,False,False,,Joseph 11' Driving Floating Bank Jump Shot (2 PTS),36-42,36,42
 0021900552,2020-01-07,PHX,SAC,16.75,2,7,15,PHX,SAC,foul,1,False,False,,Ariza P.FOUL (P1.T3) (T.Maddox),36-42,36,42
 0021900552,2020-01-07,PHX,SAC,16.83,2,7,10,PHX,PHX,fg3_make,1,False,False,Oubre Jr. 26' 3PT Jump Shot (10 PTS) (Booker 6 AST),,39-42,39,42
 0021900552,2020-01-07,PHX,SAC,17.17,2,6,50,SAC,SAC,fg3_miss,1,False,False,,MISS Bjelica 25' 3PT Jump Shot,39-42,39,42
 0021900552,2020-01-07,PHX,SAC,17.2,2,6,48,SAC,SAC,reb,0,False,False,,Giles III REBOUND (Off:2 Def:3),39-42,39,42
 0021900552,2020-01-07,PHX,SAC,17.22,2,6,47,SAC,SAC,fg_miss,72,False,False,,MISS Giles III 1' Putback Layup,39-42,39,42
-0021900552,2020-01-07,PHX,SAC,17.28,2,6,43,SAC,SAC,fg_make,97,False,False,,Giles III 1' Tip Layup Shot (8 PTS),39-44,39,44
 0021900552,2020-01-07,PHX,SAC,17.28,2,6,43,SAC,SAC,reb,0,False,False,,Giles III REBOUND (Off:3 Def:3),39-44,39,44
+0021900552,2020-01-07,PHX,SAC,17.28,2,6,43,SAC,SAC,fg_make,97,False,False,,Giles III 1' Tip Layup Shot (8 PTS),39-44,39,44
 0021900552,2020-01-07,PHX,SAC,17.43,2,6,34,PHX,PHX,fg3_miss,1,False,False,MISS Oubre Jr. 25' 3PT Jump Shot,,39-44,39,44
 0021900552,2020-01-07,PHX,SAC,17.48,2,6,31,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:2 Def:3),,39-44,39,44
 0021900552,2020-01-07,PHX,SAC,17.53,2,6,28,PHX,PHX,fg3_miss,1,False,False,MISS Saric 25' 3PT Jump Shot,,39-44,39,44
@@ -367,8 +367,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900552,2020-01-07,PHX,SAC,40.97,4,7,2,SAC,SAC,ft_make,12,False,False,,Fox Free Throw 2 of 2 (20 PTS),93-97,93,97
 0021900552,2020-01-07,PHX,SAC,41.38,4,6,37,PHX,PHX,tov,11,False,False,SUNS Turnover: Shot Clock (T#17),,93-97,93,97
 0021900552,2020-01-07,PHX,SAC,41.58,4,6,25,SAC,SAC,fg_miss,6,True,False,,MISS Ariza 2' Driving Layup,93-97,93,97
-0021900552,2020-01-07,PHX,SAC,41.58,4,6,25,SAC,SAC,reb,0,False,False,,Kings Rebound,93-97,93,97
 0021900552,2020-01-07,PHX,SAC,41.58,4,6,25,SAC,PHX,block,6,True,False,block,block,93-97,93,97
+0021900552,2020-01-07,PHX,SAC,41.58,4,6,25,SAC,SAC,reb,0,False,False,,Kings Rebound,93-97,93,97
 0021900552,2020-01-07,PHX,SAC,41.65,4,6,21,,PHX,jump_ball,0,False,False,Jump Ball Oubre Jr. vs. Ariza: Tip to Fox,,93-97,93,97
 0021900552,2020-01-07,PHX,SAC,41.67,4,6,20,SAC,SAC,fg3_miss,1,False,False,,MISS Fox 27' 3PT Jump Shot,93-97,93,97
 0021900552,2020-01-07,PHX,SAC,41.72,4,6,17,PHX,PHX,reb,0,False,False,Baynes REBOUND (Off:0 Def:7),,93-97,93,97
@@ -411,8 +411,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900552,2020-01-07,PHX,SAC,46.8,4,1,12,SAC,SAC,reb,0,False,False,,Ariza REBOUND (Off:1 Def:5),102-109,102,109
 0021900552,2020-01-07,PHX,SAC,47.02,4,0,59,SAC,SAC,timeout,1,False,False,,Kings Timeout: Regular (Reg.7 Short 0),102-109,102,109
 0021900552,2020-01-07,PHX,SAC,47.1,4,0,54,SAC,SAC,fg_miss,6,True,False,,MISS Fox 2' Driving Layup,102-109,102,109
-0021900552,2020-01-07,PHX,SAC,47.1,4,0,54,SAC,SAC,reb,0,False,False,,Kings Rebound,102-109,102,109
 0021900552,2020-01-07,PHX,SAC,47.1,4,0,54,SAC,PHX,block,6,True,False,block,block,102-109,102,109
+0021900552,2020-01-07,PHX,SAC,47.1,4,0,54,SAC,SAC,reb,0,False,False,,Kings Rebound,102-109,102,109
 0021900552,2020-01-07,PHX,SAC,47.17,4,0,50,SAC,SAC,tov,11,False,False,,Kings Turnover: Shot Clock (T#16),102-109,102,109
 0021900552,2020-01-07,PHX,SAC,47.17,4,0,50,PHX,PHX,timeout,1,False,False,SUNS Timeout: Regular (Full 5 Short 0),,102-109,102,109
 0021900552,2020-01-07,PHX,SAC,47.23,4,0,46,PHX,PHX,fg3_miss,1,False,False,MISS Booker 26' 3PT Jump Shot,,102-109,102,109

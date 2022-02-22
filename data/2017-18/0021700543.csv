@@ -28,8 +28,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700543,2017-12-31,SAC,MEM,2.28,1,9,43,MEM,MEM,fg_miss,6,False,False,,MISS Evans 4' Driving Layup,5-3,5,3
 0021700543,2017-12-31,SAC,MEM,2.32,1,9,41,SAC,SAC,reb,0,False,False,Koufos REBOUND (Off:1 Def:2),,5-3,5,3
 0021700543,2017-12-31,SAC,MEM,2.47,1,9,32,SAC,SAC,fg_miss,6,True,False,MISS Bogdanovic 2' Driving Layup,,5-3,5,3
-0021700543,2017-12-31,SAC,MEM,2.47,1,9,32,SAC,SAC,reb,0,False,False,KINGS Rebound,,5-3,5,3
 0021700543,2017-12-31,SAC,MEM,2.47,1,9,32,SAC,MEM,block,6,True,False,block,block,5-3,5,3
+0021700543,2017-12-31,SAC,MEM,2.47,1,9,32,SAC,SAC,reb,0,False,False,KINGS Rebound,,5-3,5,3
 0021700543,2017-12-31,SAC,MEM,2.67,1,9,20,SAC,SAC,fg3_miss,1,False,False,MISS Bogdanovic 27' 3PT Jump Shot,,5-3,5,3
 0021700543,2017-12-31,SAC,MEM,2.73,1,9,16,MEM,MEM,reb,0,False,False,,Harrison REBOUND (Off:0 Def:2),5-3,5,3
 0021700543,2017-12-31,SAC,MEM,2.82,1,9,11,MEM,MEM,fg_make,66,False,False,,Harrison 4' Jump Bank Shot (2 PTS),5-5,5,5
@@ -102,17 +102,17 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700543,2017-12-31,SAC,MEM,11.43,1,0,34,MEM,MEM,fg_make,43,False,False,,Davis 2' Alley Oop Layup (4 PTS) (Chalmers 2 AST),17-33,17,33
 0021700543,2017-12-31,SAC,MEM,11.72,1,0,17,SAC,SAC,fg3_make,1,False,False,Hield 3PT Jump Shot (3 PTS) (Mason 1 AST),,20-33,20,33
 0021700543,2017-12-31,SAC,MEM,11.98,1,0,1,MEM,SAC,foul,2,False,False,Mason S.FOUL (P2.PN) (P.Fraher),,20-33,20,33
-0021700543,2017-12-31,SAC,MEM,11.98,1,0,1,MEM,MEM,ft_make,12,False,False,,Chalmers Free Throw 2 of 2 (7 PTS),20-34,20,34
 0021700543,2017-12-31,SAC,MEM,11.98,1,0,1,MEM,MEM,ft_make,11,False,False,,Chalmers Free Throw 1 of 2 (8 PTS),20-35,20,35
-0021700543,2017-12-31,SAC,MEM,12.0,1,0,0,SAC,MEM,foul,1,False,False,,Chalmers P.FOUL (P2.PN) (P.Fraher),20-35,20,35
+0021700543,2017-12-31,SAC,MEM,11.98,1,0,1,MEM,MEM,ft_make,12,False,False,,Chalmers Free Throw 2 of 2 (7 PTS),20-34,20,34
 0021700543,2017-12-31,SAC,MEM,12.0,1,0,0,MEM,SAC,foul,11,False,False,Mason T.FOUL (P2.PN) (P.Fraher),,20-35,20,35
+0021700543,2017-12-31,SAC,MEM,12.0,1,0,0,SAC,MEM,ft_make,16,False,False,,Ennis III Free Throw Technical (3 PTS),22-36,22,36
+0021700543,2017-12-31,SAC,MEM,12.0,1,0,0,SAC,SAC,ft_make,13,False,False,Mason Free Throw 1 of 3 (6 PTS),,22-35,22,35
 0021700543,2017-12-31,SAC,MEM,12.0,1,0,0,MEM,SAC,ft_make,14,False,False,Mason Free Throw 2 of 3 (5 PTS),,21-35,21,35
 0021700543,2017-12-31,SAC,MEM,12.0,1,0,0,SAC,SAC,ft_miss,15,False,False,MISS Mason Free Throw 3 of 3,,21-35,21,35
 0021700543,2017-12-31,SAC,MEM,12.0,1,0,0,SAC,SAC,reb,0,False,False,KINGS Rebound,,21-35,21,35
-0021700543,2017-12-31,SAC,MEM,12.0,1,0,0,SAC,SAC,ft_make,13,False,False,Mason Free Throw 1 of 3 (6 PTS),,22-35,22,35
-0021700543,2017-12-31,SAC,MEM,12.0,1,0,0,SAC,MEM,ft_make,16,False,False,,Ennis III Free Throw Technical (3 PTS),22-36,22,36
 0021700543,2017-12-31,SAC,MEM,12.0,1,0,0,SAC,,period_end,0,False,False,,,22-36,22,36
 0021700543,2017-12-31,SAC,MEM,12.0,2,12,0,SAC,,period_start,0,False,False,,,22-36,22,36
+0021700543,2017-12-31,SAC,MEM,12.0,1,0,0,SAC,MEM,foul,1,False,False,,Chalmers P.FOUL (P2.PN) (P.Fraher),20-35,20,35
 0021700543,2017-12-31,SAC,MEM,12.35,2,11,39,SAC,SAC,fg3_miss,1,False,False,MISS Hield 3PT Jump Shot,,22-36,22,36
 0021700543,2017-12-31,SAC,MEM,12.43,2,11,34,MEM,MEM,reb,0,False,False,,Chalmers REBOUND (Off:0 Def:2),22-36,22,36
 0021700543,2017-12-31,SAC,MEM,12.77,2,11,14,MEM,MEM,fg3_miss,1,False,False,,MISS Selden 25' 3PT Jump Shot,22-36,22,36
@@ -192,9 +192,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700543,2017-12-31,SAC,MEM,22.88,2,1,7,MEM,MEM,reb,1,False,False,,Grizzlies Rebound,42-58,42,58
 0021700543,2017-12-31,SAC,MEM,22.88,2,1,7,MEM,MEM,ft_make,12,False,False,,Brooks Free Throw 2 of 2 (3 PTS),42-59,42,59
 0021700543,2017-12-31,SAC,MEM,23.07,2,0,56,SAC,SAC,fg_miss,3,True,False,MISS Randolph 5' Hook Shot,,42-59,42,59
+0021700543,2017-12-31,SAC,MEM,23.07,2,0,56,SAC,MEM,block,3,True,False,block,block,42-59,42,59
 0021700543,2017-12-31,SAC,MEM,23.07,2,0,56,MEM,MEM,reb,0,False,False,,Selden REBOUND (Off:0 Def:1),42-59,42,59
 0021700543,2017-12-31,SAC,MEM,23.07,2,0,56,MEM,SAC,foul,1,False,False,Randolph P.FOUL (P1.PN) (B.Barnaky),,42-59,42,59
-0021700543,2017-12-31,SAC,MEM,23.07,2,0,56,SAC,MEM,block,3,True,False,block,block,42-59,42,59
 0021700543,2017-12-31,SAC,MEM,23.07,2,0,56,MEM,MEM,ft_make,11,False,False,,Selden Free Throw 1 of 2 (1 PTS),42-60,42,60
 0021700543,2017-12-31,SAC,MEM,23.07,2,0,56,MEM,MEM,ft_make,12,False,False,,Selden Free Throw 2 of 2 (2 PTS),42-61,42,61
 0021700543,2017-12-31,SAC,MEM,23.3,2,0,42,SAC,SAC,tov,1,False,True,Bogdanovic Bad Pass Turnover (P2.T6),,42-61,42,61
@@ -275,8 +275,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700543,2017-12-31,SAC,MEM,30.48,3,5,31,MEM,MEM,fg3_miss,1,False,False,,MISS Gasol 25' 3PT Jump Shot,51-77,51,77
 0021700543,2017-12-31,SAC,MEM,30.52,3,5,29,MEM,MEM,reb,0,False,False,,Green REBOUND (Off:1 Def:2),51-77,51,77
 0021700543,2017-12-31,SAC,MEM,30.52,3,5,29,MEM,SAC,foul,2,False,False,Carter S.FOUL (P2.T3) (P.Fraher),,51-77,51,77
-0021700543,2017-12-31,SAC,MEM,30.52,3,5,29,MEM,MEM,ft_make,12,False,False,,Green Free Throw 2 of 2 (6 PTS),51-78,51,78
 0021700543,2017-12-31,SAC,MEM,30.52,3,5,29,MEM,MEM,ft_make,11,False,False,,Green Free Throw 1 of 2 (7 PTS),51-79,51,79
+0021700543,2017-12-31,SAC,MEM,30.52,3,5,29,MEM,MEM,ft_make,12,False,False,,Green Free Throw 2 of 2 (6 PTS),51-78,51,78
 0021700543,2017-12-31,SAC,MEM,30.88,3,5,7,SAC,SAC,fg_miss,1,False,False,MISS Cauley-Stein 19' Jump Shot,,51-79,51,79
 0021700543,2017-12-31,SAC,MEM,30.97,3,5,2,MEM,MEM,reb,0,False,False,,Ennis III REBOUND (Off:2 Def:4),51-79,51,79
 0021700543,2017-12-31,SAC,MEM,31.07,3,4,56,MEM,MEM,fg_make,6,False,False,,Evans 4' Driving Layup (24 PTS),51-81,51,81

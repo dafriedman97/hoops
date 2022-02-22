@@ -45,8 +45,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800439,2018-12-16,WAS,LAL,5.95,1,6,3,WAS,WAS,fg_miss,72,False,False,MISS Beal 2' Putback Layup,,22-8,22,8
 0021800439,2018-12-16,WAS,LAL,5.98,1,6,1,LAL,LAL,reb,0,False,False,,Chandler REBOUND (Off:1 Def:1),22-8,22,8
 0021800439,2018-12-16,WAS,LAL,6.05,1,5,57,LAL,LAL,fg_miss,98,True,False,,MISS Hart 2' Cutting Layup Shot,22-8,22,8
-0021800439,2018-12-16,WAS,LAL,6.05,1,5,57,WAS,WAS,reb,0,False,False,Satoransky REBOUND (Off:0 Def:1),,22-8,22,8
 0021800439,2018-12-16,WAS,LAL,6.05,1,5,57,LAL,WAS,block,98,True,False,block,block,22-8,22,8
+0021800439,2018-12-16,WAS,LAL,6.05,1,5,57,WAS,WAS,reb,0,False,False,Satoransky REBOUND (Off:0 Def:1),,22-8,22,8
 0021800439,2018-12-16,WAS,LAL,6.12,1,5,53,WAS,LAL,foul,28,False,False,,Kuzma Personal Take Foul (P1.T1) (J.Williams),22-8,22,8
 0021800439,2018-12-16,WAS,LAL,6.3,1,5,42,WAS,WAS,fg_miss,71,False,False,MISS Wall 3' Finger Roll Layup,,22-8,22,8
 0021800439,2018-12-16,WAS,LAL,6.32,1,5,41,LAL,LAL,reb,0,False,False,,Stephenson REBOUND (Off:0 Def:1),22-8,22,8
@@ -151,8 +151,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800439,2018-12-16,WAS,LAL,16.48,2,7,31,LAL,LAL,fg3_miss,1,False,False,,MISS James 28' 3PT Jump Shot,46-34,46,34
 0021800439,2018-12-16,WAS,LAL,16.52,2,7,29,WAS,WAS,reb,0,False,False,Wall REBOUND (Off:0 Def:3),,46-34,46,34
 0021800439,2018-12-16,WAS,LAL,16.57,2,7,26,WAS,WAS,fg_miss,41,True,False,MISS Wall 2' Running Layup,,46-34,46,34
-0021800439,2018-12-16,WAS,LAL,16.57,2,7,26,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,46-34,46,34
 0021800439,2018-12-16,WAS,LAL,16.57,2,7,26,WAS,LAL,block,41,True,False,block,block,46-34,46,34
+0021800439,2018-12-16,WAS,LAL,16.57,2,7,26,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,46-34,46,34
 0021800439,2018-12-16,WAS,LAL,16.63,2,7,22,WAS,WAS,fg_miss,43,False,False,MISS Beal 2' Alley Oop Layup,,46-34,46,34
 0021800439,2018-12-16,WAS,LAL,16.67,2,7,20,LAL,LAL,reb,0,False,False,,Ball REBOUND (Off:0 Def:2),46-34,46,34
 0021800439,2018-12-16,WAS,LAL,16.72,2,7,17,LAL,LAL,tov,4,False,False,,Ball Traveling Turnover (P3.T10),46-34,46,34
@@ -200,8 +200,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800439,2018-12-16,WAS,LAL,21.03,2,2,58,WAS,WAS,fg_miss,80,False,False,MISS Beal 18' Step Back Jump Shot,,58-45,58,45
 0021800439,2018-12-16,WAS,LAL,21.1,2,2,54,LAL,LAL,reb,0,False,False,,Caldwell-Pope REBOUND (Off:0 Def:3),58-45,58,45
 0021800439,2018-12-16,WAS,LAL,21.13,2,2,52,LAL,LAL,fg_miss,6,True,False,,MISS Ball 3' Driving Layup,58-45,58,45
-0021800439,2018-12-16,WAS,LAL,21.13,2,2,52,LAL,LAL,reb,0,False,False,,Lakers Rebound,58-45,58,45
 0021800439,2018-12-16,WAS,LAL,21.13,2,2,52,LAL,WAS,block,6,True,False,block,block,58-45,58,45
+0021800439,2018-12-16,WAS,LAL,21.13,2,2,52,LAL,LAL,reb,0,False,False,,Lakers Rebound,58-45,58,45
 0021800439,2018-12-16,WAS,LAL,21.4,2,2,36,LAL,LAL,fg_miss,5,True,False,,MISS James 4' Layup,58-45,58,45
 0021800439,2018-12-16,WAS,LAL,21.4,2,2,36,LAL,WAS,block,5,True,False,block,block,58-45,58,45
 0021800439,2018-12-16,WAS,LAL,21.45,2,2,33,WAS,WAS,reb,0,False,False,Green REBOUND (Off:0 Def:3),,58-45,58,45
@@ -241,12 +241,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800439,2018-12-16,WAS,LAL,25.03,3,10,58,WAS,WAS,reb,0,False,False,Green REBOUND (Off:0 Def:4),,74-53,74,53
 0021800439,2018-12-16,WAS,LAL,25.22,3,10,47,WAS,WAS,fg_make,79,False,False,Wall 15' Pullup Jump Shot (33 PTS),,76-53,76,53
 0021800439,2018-12-16,WAS,LAL,25.53,3,10,28,LAL,LAL,fg_miss,5,True,False,,MISS Kuzma 5' Layup,76-53,76,53
-0021800439,2018-12-16,WAS,LAL,25.53,3,10,28,LAL,LAL,reb,0,False,False,,Lakers Rebound,76-53,76,53
 0021800439,2018-12-16,WAS,LAL,25.53,3,10,28,LAL,WAS,block,5,True,False,block,block,76-53,76,53
+0021800439,2018-12-16,WAS,LAL,25.53,3,10,28,LAL,LAL,reb,0,False,False,,Lakers Rebound,76-53,76,53
 0021800439,2018-12-16,WAS,LAL,25.65,3,10,21,LAL,LAL,fg_miss,5,True,False,,MISS Hart 3' Layup,76-53,76,53
+0021800439,2018-12-16,WAS,LAL,25.65,3,10,21,LAL,WAS,block,5,True,False,block,block,76-53,76,53
 0021800439,2018-12-16,WAS,LAL,25.65,3,10,21,WAS,WAS,reb,0,False,False,Bryant REBOUND (Off:2 Def:3),,76-53,76,53
 0021800439,2018-12-16,WAS,LAL,25.65,3,10,21,WAS,LAL,foul,1,False,False,,Hart P.FOUL (P2.T2) (B.Forte),76-53,76,53
-0021800439,2018-12-16,WAS,LAL,25.65,3,10,21,LAL,WAS,block,5,True,False,block,block,76-53,76,53
 0021800439,2018-12-16,WAS,LAL,25.75,3,10,15,WAS,WAS,fg3_miss,1,False,False,MISS Wall 27' 3PT Jump Shot,,76-53,76,53
 0021800439,2018-12-16,WAS,LAL,25.8,3,10,12,WAS,WAS,reb,0,False,False,Beal REBOUND (Off:5 Def:3),,76-53,76,53
 0021800439,2018-12-16,WAS,LAL,25.83,3,10,10,WAS,WAS,tov,1,False,True,Beal Bad Pass Turnover (P4.T8),,76-53,76,53
@@ -263,8 +263,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800439,2018-12-16,WAS,LAL,27.12,3,8,53,LAL,LAL,fg3_miss,1,False,False,,MISS Hart 25' 3PT Jump Shot,81-55,81,55
 0021800439,2018-12-16,WAS,LAL,27.15,3,8,51,WAS,WAS,reb,0,False,False,Wall REBOUND (Off:0 Def:4),,81-55,81,55
 0021800439,2018-12-16,WAS,LAL,27.18,3,8,49,WAS,WAS,fg_miss,41,True,False,MISS Wall 3' Running Layup,,81-55,81,55
-0021800439,2018-12-16,WAS,LAL,27.18,3,8,49,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,81-55,81,55
 0021800439,2018-12-16,WAS,LAL,27.18,3,8,49,WAS,LAL,block,41,True,False,block,block,81-55,81,55
+0021800439,2018-12-16,WAS,LAL,27.18,3,8,49,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,81-55,81,55
 0021800439,2018-12-16,WAS,LAL,27.22,3,8,47,WAS,WAS,fg_miss,1,False,False,MISS Bryant 17' Jump Shot,,81-55,81,55
 0021800439,2018-12-16,WAS,LAL,27.28,3,8,43,LAL,LAL,reb,0,False,False,,Chandler REBOUND (Off:2 Def:3),81-55,81,55
 0021800439,2018-12-16,WAS,LAL,27.42,3,8,35,LAL,LAL,fg3_miss,1,False,False,,MISS Kuzma 25' 3PT Jump Shot,81-55,81,55

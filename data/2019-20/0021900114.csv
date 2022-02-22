@@ -66,8 +66,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900114,2019-11-07,PHX,MIA,7.02,1,4,59,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.1 Short 0),15-22,15,22
 0021900114,2019-11-07,PHX,MIA,7.02,1,4,59,PHX,MIA,violation,1,False,False,,Heat Violation: Delay of game Violation,15-22,15,22
 0021900114,2019-11-07,PHX,MIA,7.35,1,4,39,MIA,MIA,fg_miss,6,True,False,,MISS Butler 1' Driving Layup,15-22,15,22
-0021900114,2019-11-07,PHX,MIA,7.35,1,4,39,PHX,PHX,reb,0,False,False,SUNS Rebound,,15-22,15,22
 0021900114,2019-11-07,PHX,MIA,7.35,1,4,39,MIA,PHX,block,6,True,False,block,block,15-22,15,22
+0021900114,2019-11-07,PHX,MIA,7.35,1,4,39,PHX,PHX,reb,0,False,False,SUNS Rebound,,15-22,15,22
 0021900114,2019-11-07,PHX,MIA,7.57,1,4,26,PHX,PHX,fg3_make,79,False,False,Booker 27' 3PT Pullup Jump Shot (5 PTS),,18-22,18,22
 0021900114,2019-11-07,PHX,MIA,7.97,1,4,2,MIA,MIA,fg3_miss,1,False,False,,MISS Dragic 26' 3PT Jump Shot,18-22,18,22
 0021900114,2019-11-07,PHX,MIA,8.02,1,3,59,PHX,PHX,reb,0,False,False,Saric REBOUND (Off:0 Def:2),,18-22,18,22
@@ -126,8 +126,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900114,2019-11-07,PHX,MIA,13.05,2,10,57,PHX,PHX,tov,1,False,True,Johnson Bad Pass Turnover (P1.T3),,32-36,32,36
 0021900114,2019-11-07,PHX,MIA,13.05,2,10,57,PHX,MIA,steal,1,False,True,steal,steal,32-36,32,36
 0021900114,2019-11-07,PHX,MIA,13.13,2,10,52,MIA,MIA,fg_miss,102,False,False,,MISS Herro 1' Driving Floating Bank Jump Shot,32-36,32,36
-0021900114,2019-11-07,PHX,MIA,13.23,2,10,46,MIA,MIA,fg_make,107,False,False,,Jones Jr. 1' Tip Dunk Shot (2 PTS),32-38,32,38
 0021900114,2019-11-07,PHX,MIA,13.23,2,10,46,MIA,MIA,reb,0,False,False,,Jones Jr. REBOUND (Off:1 Def:1),32-38,32,38
+0021900114,2019-11-07,PHX,MIA,13.23,2,10,46,MIA,MIA,fg_make,107,False,False,,Jones Jr. 1' Tip Dunk Shot (2 PTS),32-38,32,38
 0021900114,2019-11-07,PHX,MIA,13.38,2,10,37,PHX,PHX,fg3_miss,1,False,False,MISS Johnson 26' 3PT Jump Shot,,32-38,32,38
 0021900114,2019-11-07,PHX,MIA,13.43,2,10,34,MIA,MIA,reb,0,False,False,,Robinson REBOUND (Off:0 Def:2),32-38,32,38
 0021900114,2019-11-07,PHX,MIA,13.58,2,10,25,MIA,MIA,fg_make,79,False,False,,Herro 20' Pullup Jump Shot (5 PTS) (Jones Jr. 1 AST),32-40,32,40
@@ -222,8 +222,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900114,2019-11-07,PHX,MIA,24.0,2,0,0,MIA,,period_end,0,False,False,,,57-64,57,64
 0021900114,2019-11-07,PHX,MIA,24.0,3,12,0,MIA,,period_start,0,False,False,,,57-64,57,64
 0021900114,2019-11-07,PHX,MIA,24.25,3,11,45,PHX,PHX,fg_miss,63,False,False,MISS Oubre Jr. 10' Fadeaway Jumper,,57-64,57,64
-0021900114,2019-11-07,PHX,MIA,24.37,3,11,38,PHX,PHX,fg_miss,97,False,False,MISS Baynes 1' Tip Layup Shot,,57-64,57,64
 0021900114,2019-11-07,PHX,MIA,24.37,3,11,38,PHX,PHX,reb,0,False,False,Baynes REBOUND (Off:2 Def:0),,57-64,57,64
+0021900114,2019-11-07,PHX,MIA,24.37,3,11,38,PHX,PHX,fg_miss,97,False,False,MISS Baynes 1' Tip Layup Shot,,57-64,57,64
 0021900114,2019-11-07,PHX,MIA,24.38,3,11,37,MIA,MIA,reb,0,False,False,,Butler REBOUND (Off:1 Def:3),57-64,57,64
 0021900114,2019-11-07,PHX,MIA,24.58,3,11,25,MIA,MIA,fg_miss,1,False,False,,MISS Adebayo 11' Jump Shot,57-64,57,64
 0021900114,2019-11-07,PHX,MIA,24.63,3,11,22,PHX,PHX,reb,0,False,False,Rubio REBOUND (Off:0 Def:7),,57-64,57,64
@@ -274,9 +274,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900114,2019-11-07,PHX,MIA,29.32,3,6,41,MIA,MIA,fg_miss,6,False,False,,MISS Butler 2' Driving Layup,65-77,65,77
 0021900114,2019-11-07,PHX,MIA,29.35,3,6,39,PHX,PHX,reb,0,False,False,Rubio REBOUND (Off:0 Def:9),,65-77,65,77
 0021900114,2019-11-07,PHX,MIA,29.4,3,6,36,PHX,MIA,foul,2,False,False,,Olynyk S.FOUL (P4.T2) (D.Collins),65-77,65,77
-0021900114,2019-11-07,PHX,MIA,29.4,3,6,36,PHX,PHX,timeout,1,False,False,SUNS Timeout: Regular (Full 3 Short 0),,65-77,65,77
 0021900114,2019-11-07,PHX,MIA,29.4,3,6,36,PHX,PHX,ft_make,11,False,False,Rubio Free Throw 1 of 2 (7 PTS),,66-77,66,77
 0021900114,2019-11-07,PHX,MIA,29.4,3,6,36,PHX,PHX,ft_make,12,False,False,Rubio Free Throw 2 of 2 (8 PTS),,67-77,67,77
+0021900114,2019-11-07,PHX,MIA,29.4,3,6,36,PHX,PHX,timeout,1,False,False,SUNS Timeout: Regular (Full 3 Short 0),,65-77,65,77
 0021900114,2019-11-07,PHX,MIA,29.67,3,6,20,MIA,MIA,fg_miss,101,False,False,,MISS Nunn 11' Driving Floating Jump Shot,67-77,67,77
 0021900114,2019-11-07,PHX,MIA,29.72,3,6,17,PHX,PHX,reb,0,False,False,Oubre Jr. REBOUND (Off:1 Def:1),,67-77,67,77
 0021900114,2019-11-07,PHX,MIA,30.1,3,5,54,PHX,PHX,fg_miss,73,False,False,MISS Rubio Driving Reverse Layup,,67-77,67,77
@@ -367,8 +367,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900114,2019-11-07,PHX,MIA,39.43,4,8,34,PHX,PHX,fg_make,44,False,False,Baynes 1' Reverse Layup (16 PTS) (Rubio 4 AST),,93-105,93,105
 0021900114,2019-11-07,PHX,MIA,39.68,4,8,19,MIA,MIA,fg_make,79,False,False,,Dragic 11' Pullup Jump Shot (25 PTS),93-107,93,107
 0021900114,2019-11-07,PHX,MIA,39.88,4,8,7,PHX,PHX,fg_miss,6,False,False,MISS Booker 1' Driving Layup,,93-107,93,107
-0021900114,2019-11-07,PHX,MIA,39.95,4,8,3,PHX,PHX,fg_miss,97,False,False,MISS Baynes 1' Tip Layup Shot,,93-107,93,107
 0021900114,2019-11-07,PHX,MIA,39.95,4,8,3,PHX,PHX,reb,0,False,False,Baynes REBOUND (Off:3 Def:1),,93-107,93,107
+0021900114,2019-11-07,PHX,MIA,39.95,4,8,3,PHX,PHX,fg_miss,97,False,False,MISS Baynes 1' Tip Layup Shot,,93-107,93,107
 0021900114,2019-11-07,PHX,MIA,39.95,4,8,3,MIA,MIA,reb,0,False,False,,Olynyk REBOUND (Off:0 Def:4),93-107,93,107
 0021900114,2019-11-07,PHX,MIA,40.12,4,7,53,MIA,MIA,fg_make,79,False,False,,Herro 19' Pullup Jump Shot (10 PTS),93-109,93,109
 0021900114,2019-11-07,PHX,MIA,40.37,4,7,38,PHX,PHX,fg_make,78,False,False,Baynes 13' Floating Jump Shot (18 PTS) (Rubio 5 AST),,95-109,95,109

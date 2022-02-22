@@ -95,8 +95,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900907,2020-03-02,CHI,DAL,12.62,2,11,23,DAL,DAL,fg_miss,6,False,False,,MISS Barea 3' Driving Layup,22-29,22,29
 0021900907,2020-03-02,CHI,DAL,12.65,2,11,21,CHI,CHI,reb,0,False,False,White REBOUND (Off:0 Def:1),,22-29,22,29
 0021900907,2020-03-02,CHI,DAL,12.68,2,11,19,CHI,CHI,fg_miss,6,True,False,MISS White 3' Driving Layup,,22-29,22,29
-0021900907,2020-03-02,CHI,DAL,12.68,2,11,19,CHI,CHI,reb,0,False,False,BULLS Rebound,,22-29,22,29
 0021900907,2020-03-02,CHI,DAL,12.68,2,11,19,CHI,DAL,block,6,True,False,block,block,22-29,22,29
+0021900907,2020-03-02,CHI,DAL,12.68,2,11,19,CHI,CHI,reb,0,False,False,BULLS Rebound,,22-29,22,29
 0021900907,2020-03-02,CHI,DAL,12.73,2,11,16,CHI,CHI,fg_miss,1,False,False,MISS White 16' Jump Shot,,22-29,22,29
 0021900907,2020-03-02,CHI,DAL,12.77,2,11,14,DAL,DAL,reb,0,False,False,,Mavericks Rebound,22-29,22,29
 0021900907,2020-03-02,CHI,DAL,12.93,2,11,4,DAL,DAL,fg_make,5,False,False,,Hardaway Jr. 1' Layup (7 PTS) (Barea 2 AST),22-31,22,31
@@ -106,8 +106,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900907,2020-03-02,CHI,DAL,13.58,2,10,25,CHI,CHI,fg3_miss,1,False,False,MISS Mokoka 3PT Jump Shot,,24-31,24,31
 0021900907,2020-03-02,CHI,DAL,13.65,2,10,21,CHI,CHI,reb,0,False,False,Arcidiacono REBOUND (Off:1 Def:2),,24-31,24,31
 0021900907,2020-03-02,CHI,DAL,13.77,2,10,14,CHI,CHI,fg_miss,1,False,False,MISS Arcidiacono 13' Jump Shot,,24-31,24,31
-0021900907,2020-03-02,CHI,DAL,13.87,2,10,8,CHI,CHI,fg_miss,72,False,False,MISS Carter Jr. 1' Putback Layup,,24-31,24,31
 0021900907,2020-03-02,CHI,DAL,13.87,2,10,8,CHI,CHI,reb,0,False,False,Carter Jr. REBOUND (Off:1 Def:0),,24-31,24,31
+0021900907,2020-03-02,CHI,DAL,13.87,2,10,8,CHI,CHI,fg_miss,72,False,False,MISS Carter Jr. 1' Putback Layup,,24-31,24,31
 0021900907,2020-03-02,CHI,DAL,13.87,2,10,8,CHI,CHI,reb,0,False,False,Arcidiacono REBOUND (Off:2 Def:2),,24-31,24,31
 0021900907,2020-03-02,CHI,DAL,13.9,2,10,6,CHI,CHI,fg_make,3,False,False,Carter Jr. 1' Hook Shot (2 PTS) (Porter Jr. 1 AST),,26-31,26,31
 0021900907,2020-03-02,CHI,DAL,13.9,2,10,6,CHI,DAL,foul,2,False,False,,Kidd-Gilchrist S.FOUL (P1.T1) (A.Smith),26-31,26,31
@@ -186,8 +186,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900907,2020-03-02,CHI,DAL,22.33,2,1,40,DAL,CHI,block,5,True,False,block,block,45-52,45,52
 0021900907,2020-03-02,CHI,DAL,22.35,2,1,39,CHI,CHI,reb,0,False,False,Gafford REBOUND (Off:0 Def:1),,45-52,45,52
 0021900907,2020-03-02,CHI,DAL,22.47,2,1,32,CHI,CHI,fg_miss,6,True,False,MISS Satoransky 4' Driving Layup,,45-52,45,52
-0021900907,2020-03-02,CHI,DAL,22.47,2,1,32,CHI,CHI,reb,0,False,False,Satoransky REBOUND (Off:2 Def:0),,45-52,45,52
 0021900907,2020-03-02,CHI,DAL,22.47,2,1,32,CHI,DAL,block,6,True,False,block,block,45-52,45,52
+0021900907,2020-03-02,CHI,DAL,22.47,2,1,32,CHI,CHI,reb,0,False,False,Satoransky REBOUND (Off:2 Def:0),,45-52,45,52
 0021900907,2020-03-02,CHI,DAL,22.53,2,1,28,CHI,CHI,fg3_make,1,False,False,Valentine 26' 3PT Jump Shot (15 PTS) (White 3 AST),,48-52,48,52
 0021900907,2020-03-02,CHI,DAL,22.85,2,1,9,DAL,DAL,fg3_miss,1,False,False,,MISS Jackson 25' 3PT Jump Shot,48-52,48,52
 0021900907,2020-03-02,CHI,DAL,22.88,2,1,7,CHI,CHI,reb,0,False,False,Satoransky REBOUND (Off:2 Def:1),,48-52,48,52
@@ -208,10 +208,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900907,2020-03-02,CHI,DAL,24.3,3,11,42,CHI,CHI,fg_make,6,False,False,Young 2' Driving Layup (6 PTS),,50-58,50,58
 0021900907,2020-03-02,CHI,DAL,24.65,3,11,21,DAL,DAL,tov,2,False,True,,Lee Lost Ball Turnover (P1.T6),50-58,50,58
 0021900907,2020-03-02,CHI,DAL,24.65,3,11,21,DAL,CHI,steal,2,False,True,steal,steal,50-58,50,58
-0021900907,2020-03-02,CHI,DAL,24.9,3,11,6,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 3 Short 0),,50-58,50,58
 0021900907,2020-03-02,CHI,DAL,24.9,3,11,6,CHI,CHI,fg_make,6,False,False,Young 2' Driving Layup (8 PTS) (Harrison 1 AST),,52-58,52,58
 0021900907,2020-03-02,CHI,DAL,24.9,3,11,6,CHI,DAL,foul,2,False,False,,Lee S.FOUL (P3.T1) (J.Williams),52-58,52,58
 0021900907,2020-03-02,CHI,DAL,24.9,3,11,6,CHI,CHI,ft_make,10,False,False,Young Free Throw 1 of 1 (9 PTS),,53-58,53,58
+0021900907,2020-03-02,CHI,DAL,24.9,3,11,6,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 3 Short 0),,50-58,50,58
 0021900907,2020-03-02,CHI,DAL,25.3,3,10,42,DAL,DAL,fg_miss,1,True,False,,MISS Doncic 9' Jump Shot,53-58,53,58
 0021900907,2020-03-02,CHI,DAL,25.3,3,10,42,DAL,CHI,block,1,True,False,block,block,53-58,53,58
 0021900907,2020-03-02,CHI,DAL,25.33,3,10,40,CHI,CHI,reb,0,False,False,Harrison REBOUND (Off:0 Def:2),,53-58,53,58
@@ -270,8 +270,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900907,2020-03-02,CHI,DAL,31.78,3,4,13,DAL,DAL,ft_make,12,False,False,,Hardaway Jr. Free Throw 2 of 2 (14 PTS),70-70,70,70
 0021900907,2020-03-02,CHI,DAL,32.02,3,3,59,CHI,CHI,fg3_make,1,False,False,White 27' 3PT Jump Shot (13 PTS) (Arcidiacono 1 AST),,73-70,73,70
 0021900907,2020-03-02,CHI,DAL,32.32,3,3,41,DAL,DAL,fg_miss,7,True,False,,MISS Marjanovic 3' Dunk,73-70,73,70
-0021900907,2020-03-02,CHI,DAL,32.32,3,3,41,DAL,DAL,reb,0,False,False,,Mavericks Rebound,73-70,73,70
 0021900907,2020-03-02,CHI,DAL,32.32,3,3,41,DAL,CHI,block,7,True,False,block,block,73-70,73,70
+0021900907,2020-03-02,CHI,DAL,32.32,3,3,41,DAL,DAL,reb,0,False,False,,Mavericks Rebound,73-70,73,70
 0021900907,2020-03-02,CHI,DAL,32.47,3,3,32,DAL,DAL,fg_make,3,False,False,,Marjanovic 8' Hook Shot (10 PTS),73-72,73,72
 0021900907,2020-03-02,CHI,DAL,32.72,3,3,17,CHI,DAL,foul,2,False,False,,Lee S.FOUL (P5.T4) (J.Van Duyne),73-72,73,72
 0021900907,2020-03-02,CHI,DAL,32.72,3,3,17,CHI,CHI,ft_make,11,False,False,Arcidiacono Free Throw 1 of 2 (3 PTS),,74-72,74,72
@@ -388,8 +388,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900907,2020-03-02,CHI,DAL,45.57,4,2,26,DAL,DAL,tov,1,False,True,,Lee Bad Pass Turnover (P3.T17),105-97,105,97
 0021900907,2020-03-02,CHI,DAL,45.57,4,2,26,DAL,CHI,steal,1,False,True,steal,steal,105-97,105,97
 0021900907,2020-03-02,CHI,DAL,45.65,4,2,21,CHI,CHI,fg_miss,5,True,False,MISS White 1' Layup,,105-97,105,97
-0021900907,2020-03-02,CHI,DAL,45.65,4,2,21,CHI,CHI,reb,0,False,False,BULLS Rebound,,105-97,105,97
 0021900907,2020-03-02,CHI,DAL,45.65,4,2,21,CHI,DAL,block,5,True,False,block,block,105-97,105,97
+0021900907,2020-03-02,CHI,DAL,45.65,4,2,21,CHI,CHI,reb,0,False,False,BULLS Rebound,,105-97,105,97
 0021900907,2020-03-02,CHI,DAL,45.73,4,2,16,CHI,CHI,fg3_miss,1,False,False,MISS White 25' 3PT Jump Shot,,105-97,105,97
 0021900907,2020-03-02,CHI,DAL,45.82,4,2,11,DAL,DAL,reb,0,False,False,,Kleber REBOUND (Off:0 Def:9),105-97,105,97
 0021900907,2020-03-02,CHI,DAL,45.95,4,2,3,DAL,DAL,fg3_miss,1,False,False,,MISS Hardaway Jr. 26' 3PT Jump Shot,105-97,105,97

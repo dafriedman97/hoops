@@ -48,9 +48,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800722,2019-01-25,CLE,MIA,5.75,1,6,15,MIA,MIA,fg_miss,58,False,False,,MISS Whiteside 6' Turnaround Hook Shot,13-13,13,13
 0021800722,2019-01-25,CLE,MIA,5.8,1,6,12,CLE,CLE,reb,0,False,False,Burks REBOUND (Off:0 Def:2),,13-13,13,13
 0021800722,2019-01-25,CLE,MIA,5.8,1,6,12,CLE,CLE,tov,2,False,True,Burks Lost Ball Turnover (P1.T1),,13-13,13,13
+0021800722,2019-01-25,CLE,MIA,5.8,1,6,12,CLE,MIA,steal,2,False,True,steal,steal,13-13,13,13
 0021800722,2019-01-25,CLE,MIA,5.8,1,6,12,MIA,CLE,foul,28,False,False,Osman Personal Take Foul (P1.T2) (T.Brown),,13-13,13,13
 0021800722,2019-01-25,CLE,MIA,5.8,1,6,12,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 1 Short 0),,13-13,13,13
-0021800722,2019-01-25,CLE,MIA,5.8,1,6,12,CLE,MIA,steal,2,False,True,steal,steal,13-13,13,13
 0021800722,2019-01-25,CLE,MIA,5.98,1,6,1,MIA,MIA,fg_miss,101,False,False,,MISS Winslow 6' Driving Floating Jump Shot,13-13,13,13
 0021800722,2019-01-25,CLE,MIA,6.02,1,5,59,CLE,CLE,reb,0,False,False,Hood REBOUND (Off:0 Def:1),,13-13,13,13
 0021800722,2019-01-25,CLE,MIA,6.27,1,5,44,CLE,CLE,tov,4,False,False,Burks Traveling Turnover (P2.T2),,13-13,13,13
@@ -76,8 +76,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800722,2019-01-25,CLE,MIA,8.95,1,3,3,CLE,CLE,fg_miss,101,False,False,MISS Clarkson 6' Driving Floating Jump Shot,,15-22,15,22
 0021800722,2019-01-25,CLE,MIA,8.98,1,3,1,CLE,CLE,reb,0,False,False,Clarkson REBOUND (Off:1 Def:0),,15-22,15,22
 0021800722,2019-01-25,CLE,MIA,9.0,1,3,0,CLE,CLE,fg_miss,1,True,False,MISS Clarkson 5' Jump Shot,,15-22,15,22
-0021800722,2019-01-25,CLE,MIA,9.0,1,3,0,CLE,CLE,reb,0,False,False,Dellavedova REBOUND (Off:1 Def:0),,15-22,15,22
 0021800722,2019-01-25,CLE,MIA,9.0,1,3,0,CLE,MIA,block,1,True,False,block,block,15-22,15,22
+0021800722,2019-01-25,CLE,MIA,9.0,1,3,0,CLE,CLE,reb,0,False,False,Dellavedova REBOUND (Off:1 Def:0),,15-22,15,22
 0021800722,2019-01-25,CLE,MIA,9.1,1,2,54,CLE,CLE,fg3_make,1,False,False,Osman 26' 3PT Jump Shot (3 PTS) (Dellavedova 1 AST),,18-22,18,22
 0021800722,2019-01-25,CLE,MIA,9.37,1,2,38,MIA,MIA,fg3_miss,1,False,False,,MISS McGruder 24' 3PT Jump Shot,18-22,18,22
 0021800722,2019-01-25,CLE,MIA,9.4,1,2,36,CLE,CLE,reb,0,False,False,Clarkson REBOUND (Off:1 Def:1),,18-22,18,22
@@ -274,8 +274,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800722,2019-01-25,CLE,MIA,34.28,3,1,43,CLE,MIA,steal,1,False,True,steal,steal,70-78,70,78
 0021800722,2019-01-25,CLE,MIA,34.35,3,1,39,MIA,MIA,fg_make,52,False,False,,Whiteside Alley Oop Dunk (14 PTS) (Johnson 2 AST),70-80,70,80
 0021800722,2019-01-25,CLE,MIA,34.57,3,1,26,CLE,CLE,tov,2,False,True,Clarkson Lost Ball Turnover (P2.T9),,70-80,70,80
-0021800722,2019-01-25,CLE,MIA,34.57,3,1,26,MIA,CLE,foul,28,False,False,Clarkson Personal Take Foul (P2.T4) (T.Brown),,70-80,70,80
 0021800722,2019-01-25,CLE,MIA,34.57,3,1,26,CLE,MIA,steal,2,False,True,steal,steal,70-80,70,80
+0021800722,2019-01-25,CLE,MIA,34.57,3,1,26,MIA,CLE,foul,28,False,False,Clarkson Personal Take Foul (P2.T4) (T.Brown),,70-80,70,80
 0021800722,2019-01-25,CLE,MIA,34.75,3,1,15,MIA,MIA,fg3_miss,1,False,False,,MISS Richardson 3PT Jump Shot,70-80,70,80
 0021800722,2019-01-25,CLE,MIA,34.75,3,1,15,CLE,CLE,reb,0,False,False,Nance Jr. REBOUND (Off:2 Def:3),,70-80,70,80
 0021800722,2019-01-25,CLE,MIA,34.77,3,1,14,CLE,CLE,tov,1,False,True,Adel Bad Pass Turnover (P2.T10),,70-80,70,80

@@ -90,9 +90,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700109,2017-11-01,BOS,SAC,11.63,1,0,22,BOS,SAC,steal,1,False,True,steal,steal,27-24,27,24
 0021700109,2017-11-01,BOS,SAC,12.0,1,0,0,SAC,SAC,tov,4,False,False,,Koufos Traveling Turnover (P1.T2),27-24,27,24
 0021700109,2017-11-01,BOS,SAC,12.0,1,0,0,BOS,BOS,tov,1,False,True,Smart Bad Pass Turnover (P1.T5),,27-24,27,24
+0021700109,2017-11-01,BOS,SAC,12.0,1,0,0,BOS,SAC,steal,1,False,True,steal,steal,27-24,27,24
 0021700109,2017-11-01,BOS,SAC,12.0,1,0,0,BOS,,period_end,0,False,False,,,27-24,27,24
 0021700109,2017-11-01,BOS,SAC,12.0,2,12,0,BOS,,period_start,0,False,False,,,27-24,27,24
-0021700109,2017-11-01,BOS,SAC,12.0,1,0,0,BOS,SAC,steal,1,False,True,steal,steal,27-24,27,24
 0021700109,2017-11-01,BOS,SAC,12.38,2,11,37,SAC,SAC,fg_make,6,False,False,,Fox 2' Driving Layup (2 PTS) (Hield 2 AST),27-26,27,26
 0021700109,2017-11-01,BOS,SAC,12.38,2,11,37,SAC,BOS,foul,2,False,False,Theis S.FOUL (P2.T1) (T.Brown),,27-26,27,26
 0021700109,2017-11-01,BOS,SAC,12.38,2,11,37,SAC,SAC,ft_miss,10,False,False,,MISS Fox Free Throw 1 of 1,27-26,27,26
@@ -105,8 +105,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700109,2017-11-01,BOS,SAC,14.05,2,9,57,BOS,BOS,fg3_miss,1,False,False,MISS Ojeleye 3PT Jump Shot,,29-30,29,30
 0021700109,2017-11-01,BOS,SAC,14.1,2,9,54,BOS,BOS,reb,0,False,False,Theis REBOUND (Off:3 Def:0),,29-30,29,30
 0021700109,2017-11-01,BOS,SAC,14.12,2,9,53,BOS,BOS,fg_miss,5,True,False,MISS Theis 1' Layup,,29-30,29,30
-0021700109,2017-11-01,BOS,SAC,14.12,2,9,53,BOS,BOS,reb,0,False,False,Theis REBOUND (Off:4 Def:0),,29-30,29,30
 0021700109,2017-11-01,BOS,SAC,14.12,2,9,53,BOS,SAC,block,5,True,False,block,block,29-30,29,30
+0021700109,2017-11-01,BOS,SAC,14.12,2,9,53,BOS,BOS,reb,0,False,False,Theis REBOUND (Off:4 Def:0),,29-30,29,30
 0021700109,2017-11-01,BOS,SAC,14.18,2,9,49,BOS,BOS,fg_make,72,False,False,Theis Putback Layup (4 PTS),,31-30,31,30
 0021700109,2017-11-01,BOS,SAC,14.35,2,9,39,SAC,SAC,fg3_miss,1,False,False,,MISS Carter 26' 3PT Jump Shot,31-30,31,30
 0021700109,2017-11-01,BOS,SAC,14.42,2,9,35,BOS,BOS,reb,0,False,False,Theis REBOUND (Off:4 Def:1),,31-30,31,30
@@ -190,8 +190,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700109,2017-11-01,BOS,SAC,23.15,2,0,51,SAC,BOS,foul,2,False,False,Horford S.FOUL (P1.PN) (T.Brown),,55-44,55,44
 0021700109,2017-11-01,BOS,SAC,23.15,2,0,51,SAC,SAC,ft_make,10,False,False,,Randolph Free Throw 1 of 1 (12 PTS),55-45,55,45
 0021700109,2017-11-01,BOS,SAC,23.4,2,0,36,BOS,BOS,fg_miss,9,True,False,MISS Baynes 1' Driving Dunk,,55-45,55,45
-0021700109,2017-11-01,BOS,SAC,23.4,2,0,36,BOS,BOS,reb,0,False,False,CELTICS Rebound,,55-45,55,45
 0021700109,2017-11-01,BOS,SAC,23.4,2,0,36,BOS,SAC,block,9,True,False,block,block,55-45,55,45
+0021700109,2017-11-01,BOS,SAC,23.4,2,0,36,BOS,BOS,reb,0,False,False,CELTICS Rebound,,55-45,55,45
 0021700109,2017-11-01,BOS,SAC,23.5,2,0,30,BOS,BOS,fg3_make,1,False,False,Horford 24' 3PT Jump Shot (3 PTS) (Smart 6 AST),,58-45,58,45
 0021700109,2017-11-01,BOS,SAC,23.88,2,0,7,SAC,SAC,fg_miss,6,False,False,,MISS Bogdanovic 2' Driving Layup,58-45,58,45
 0021700109,2017-11-01,BOS,SAC,23.92,2,0,5,BOS,BOS,reb,0,False,False,Brown REBOUND (Off:0 Def:4),,58-45,58,45
@@ -227,8 +227,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700109,2017-11-01,BOS,SAC,28.42,3,7,35,SAC,SAC,fg_miss,1,False,False,,MISS G. Hill 13' Jump Shot,70-52,70,52
 0021700109,2017-11-01,BOS,SAC,28.48,3,7,31,BOS,BOS,reb,0,False,False,Baynes REBOUND (Off:4 Def:4),,70-52,70,52
 0021700109,2017-11-01,BOS,SAC,28.57,3,7,26,BOS,BOS,fg_miss,6,True,False,MISS Irving 4' Driving Layup,,70-52,70,52
-0021700109,2017-11-01,BOS,SAC,28.57,3,7,26,SAC,SAC,reb,0,False,False,,Temple REBOUND (Off:0 Def:1),70-52,70,52
 0021700109,2017-11-01,BOS,SAC,28.57,3,7,26,BOS,SAC,block,6,True,False,block,block,70-52,70,52
+0021700109,2017-11-01,BOS,SAC,28.57,3,7,26,SAC,SAC,reb,0,False,False,,Temple REBOUND (Off:0 Def:1),70-52,70,52
 0021700109,2017-11-01,BOS,SAC,28.8,3,7,12,SAC,SAC,fg_make,58,False,False,,Randolph 2' Turnaround Hook Shot (16 PTS) (Cauley-Stein 2 AST),70-54,70,54
 0021700109,2017-11-01,BOS,SAC,29.02,3,6,59,BOS,BOS,fg3_miss,1,False,False,MISS Irving 26' 3PT Jump Shot,,70-54,70,54
 0021700109,2017-11-01,BOS,SAC,29.08,3,6,55,SAC,SAC,reb,0,False,False,,Randolph REBOUND (Off:0 Def:3),70-54,70,54
@@ -242,9 +242,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700109,2017-11-01,BOS,SAC,29.93,3,6,4,BOS,SAC,foul,4,False,False,,Cauley-Stein OFF.Foul (P2) (T.Brown),70-54,70,54
 0021700109,2017-11-01,BOS,SAC,29.93,3,6,4,SAC,SAC,tov,37,False,False,,Cauley-Stein Offensive Foul Turnover (P2.T9),70-54,70,54
 0021700109,2017-11-01,BOS,SAC,30.35,3,5,39,BOS,BOS,fg3_miss,1,True,False,MISS Brown 27' 3PT Jump Shot,,70-54,70,54
+0021700109,2017-11-01,BOS,SAC,30.35,3,5,39,BOS,SAC,block,1,True,False,block,block,70-54,70,54
 0021700109,2017-11-01,BOS,SAC,30.35,3,5,39,BOS,BOS,reb,0,False,False,CELTICS Rebound,,70-54,70,54
 0021700109,2017-11-01,BOS,SAC,30.35,3,5,39,BOS,BOS,tov,11,False,False,CELTICS Turnover: Shot Clock (T#11),,70-54,70,54
-0021700109,2017-11-01,BOS,SAC,30.35,3,5,39,BOS,SAC,block,1,True,False,block,block,70-54,70,54
 0021700109,2017-11-01,BOS,SAC,30.58,3,5,25,SAC,SAC,fg3_miss,1,False,False,,MISS Hield 26' 3PT Jump Shot,70-54,70,54
 0021700109,2017-11-01,BOS,SAC,30.63,3,5,22,BOS,BOS,reb,0,False,False,Brown REBOUND (Off:0 Def:6),,70-54,70,54
 0021700109,2017-11-01,BOS,SAC,30.82,3,5,11,BOS,SAC,foul,1,False,False,,Temple P.FOUL (P2.T2) (V.Voyard-Tadal),70-54,70,54

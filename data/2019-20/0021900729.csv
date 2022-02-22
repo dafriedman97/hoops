@@ -172,8 +172,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900729,2020-02-01,ORL,MIA,21.48,2,2,31,MIA,MIA,reb,0,False,False,,Jones Jr. REBOUND (Off:3 Def:0),47-47,47,47
 0021900729,2020-02-01,ORL,MIA,21.5,2,2,30,MIA,MIA,fg3_make,1,False,False,,Robinson 24' 3PT Jump Shot (6 PTS) (Jones Jr. 2 AST),47-50,47,50
 0021900729,2020-02-01,ORL,MIA,21.88,2,2,7,ORL,ORL,fg_miss,5,True,False,MISS Fournier 1' Layup,,47-50,47,50
-0021900729,2020-02-01,ORL,MIA,21.88,2,2,7,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:1 Def:3),47-50,47,50
 0021900729,2020-02-01,ORL,MIA,21.88,2,2,7,ORL,MIA,block,5,True,False,block,block,47-50,47,50
+0021900729,2020-02-01,ORL,MIA,21.88,2,2,7,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:1 Def:3),47-50,47,50
 0021900729,2020-02-01,ORL,MIA,22.0,2,2,0,MIA,MIA,fg3_miss,1,False,False,,MISS Robinson 24' 3PT Jump Shot,47-50,47,50
 0021900729,2020-02-01,ORL,MIA,22.03,2,1,58,MIA,MIA,reb,0,False,False,,Jones Jr. REBOUND (Off:4 Def:0),47-50,47,50
 0021900729,2020-02-01,ORL,MIA,22.07,2,1,56,MIA,MIA,fg3_miss,1,False,False,,MISS Robinson 28' 3PT Jump Shot,47-50,47,50
@@ -198,10 +198,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900729,2020-02-01,ORL,MIA,23.98,2,0,1,MIA,MIA,tov,1,False,True,,Butler Bad Pass Turnover (P2.T8),49-57,49,57
 0021900729,2020-02-01,ORL,MIA,23.98,2,0,1,MIA,ORL,steal,1,False,True,steal,steal,49-57,49,57
 0021900729,2020-02-01,ORL,MIA,24.0,2,0,0,ORL,ORL,fg3_miss,1,True,False,MISS Gordon 28' 3PT Jump Shot,,49-57,49,57
+0021900729,2020-02-01,ORL,MIA,24.0,2,0,0,ORL,MIA,block,1,True,False,block,block,49-57,49,57
 0021900729,2020-02-01,ORL,MIA,24.0,2,0,0,ORL,ORL,reb,0,False,False,MAGIC Rebound,,49-57,49,57
 0021900729,2020-02-01,ORL,MIA,24.0,2,0,0,ORL,,period_end,0,False,False,,,49-57,49,57
 0021900729,2020-02-01,ORL,MIA,24.0,3,12,0,ORL,,period_start,0,False,False,,,49-57,49,57
-0021900729,2020-02-01,ORL,MIA,24.0,2,0,0,ORL,MIA,block,1,True,False,block,block,49-57,49,57
 0021900729,2020-02-01,ORL,MIA,24.23,3,11,46,ORL,ORL,fg_make,101,False,False,Vucevic 7' Driving Floating Jump Shot (8 PTS) (Fultz 3 AST),,51-57,51,57
 0021900729,2020-02-01,ORL,MIA,24.5,3,11,30,MIA,MIA,fg3_miss,1,False,False,,MISS Nunn 25' 3PT Jump Shot,51-57,51,57
 0021900729,2020-02-01,ORL,MIA,24.55,3,11,27,ORL,ORL,reb,0,False,False,Fultz REBOUND (Off:0 Def:2),,51-57,51,57
@@ -216,8 +216,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900729,2020-02-01,ORL,MIA,26.45,3,9,33,MIA,MIA,fg_miss,6,False,False,,MISS Butler 4' Driving Layup,53-60,53,60
 0021900729,2020-02-01,ORL,MIA,26.55,3,9,27,ORL,ORL,reb,0,False,False,Gordon REBOUND (Off:0 Def:3),,53-60,53,60
 0021900729,2020-02-01,ORL,MIA,26.6,3,9,24,ORL,ORL,fg_miss,9,True,False,MISS Gordon 3' Driving Dunk,,53-60,53,60
-0021900729,2020-02-01,ORL,MIA,26.6,3,9,24,ORL,ORL,reb,0,False,False,MAGIC Rebound,,53-60,53,60
 0021900729,2020-02-01,ORL,MIA,26.6,3,9,24,ORL,MIA,block,9,True,False,block,block,53-60,53,60
+0021900729,2020-02-01,ORL,MIA,26.6,3,9,24,ORL,ORL,reb,0,False,False,MAGIC Rebound,,53-60,53,60
 0021900729,2020-02-01,ORL,MIA,26.8,3,9,12,ORL,ORL,fg_miss,86,False,False,MISS Gordon 13' Turnaround Fadeaway Shot,,53-60,53,60
 0021900729,2020-02-01,ORL,MIA,26.85,3,9,9,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:1 Def:5),53-60,53,60
 0021900729,2020-02-01,ORL,MIA,27.02,3,8,59,MIA,MIA,fg3_make,1,False,False,,Leonard 25' 3PT Jump Shot (9 PTS),53-63,53,63
@@ -381,8 +381,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900729,2020-02-01,ORL,MIA,45.55,4,2,27,MIA,ORL,block,5,True,False,block,block,87-96,87,96
 0021900729,2020-02-01,ORL,MIA,45.6,4,2,24,ORL,ORL,reb,0,False,False,Gordon REBOUND (Off:0 Def:5),,87-96,87,96
 0021900729,2020-02-01,ORL,MIA,45.62,4,2,23,ORL,ORL,fg_miss,6,True,False,MISS Gordon 3' Driving Layup,,87-96,87,96
-0021900729,2020-02-01,ORL,MIA,45.62,4,2,23,MIA,MIA,reb,0,False,False,,Heat Rebound,87-96,87,96
 0021900729,2020-02-01,ORL,MIA,45.62,4,2,23,ORL,MIA,block,6,True,False,block,block,87-96,87,96
+0021900729,2020-02-01,ORL,MIA,45.62,4,2,23,MIA,MIA,reb,0,False,False,,Heat Rebound,87-96,87,96
 0021900729,2020-02-01,ORL,MIA,45.92,4,2,5,MIA,MIA,fg3_miss,1,False,False,,MISS Herro 25' 3PT Jump Shot,87-96,87,96
 0021900729,2020-02-01,ORL,MIA,45.97,4,2,2,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:1 Def:8),,87-96,87,96
 0021900729,2020-02-01,ORL,MIA,46.22,4,1,47,ORL,MIA,foul,1,False,False,,Dragic P.FOUL (P3.PN) (T.Brown),87-96,87,96

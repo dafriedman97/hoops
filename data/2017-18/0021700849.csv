@@ -7,8 +7,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700849,2018-02-13,MIN,HOU,0.47,1,11,32,MIN,MIN,reb,0,False,False,Gibson REBOUND (Off:0 Def:1),,0-0,0,0
 0021700849,2018-02-13,MIN,HOU,0.77,1,11,14,MIN,MIN,fg_make,58,False,False,Towns 9' Turnaround Hook Shot (2 PTS) (Butler 1 AST),,2-0,2,0
 0021700849,2018-02-13,MIN,HOU,0.98,1,11,1,HOU,HOU,fg_miss,5,True,False,,MISS Mbah a Moute 2' Layup,2-0,2,0
-0021700849,2018-02-13,MIN,HOU,0.98,1,11,1,MIN,MIN,reb,0,False,False,Towns REBOUND (Off:0 Def:1),,2-0,2,0
 0021700849,2018-02-13,MIN,HOU,0.98,1,11,1,HOU,MIN,block,5,True,False,block,block,2-0,2,0
+0021700849,2018-02-13,MIN,HOU,0.98,1,11,1,MIN,MIN,reb,0,False,False,Towns REBOUND (Off:0 Def:1),,2-0,2,0
 0021700849,2018-02-13,MIN,HOU,1.2,1,10,48,MIN,MIN,fg_make,78,False,False,Butler 11' Floating Jump Shot (2 PTS) (Towns 1 AST),,4-0,4,0
 0021700849,2018-02-13,MIN,HOU,1.43,1,10,34,HOU,HOU,tov,1,False,True,,Harden Bad Pass Turnover (P1.T1),4-0,4,0
 0021700849,2018-02-13,MIN,HOU,1.43,1,10,34,HOU,MIN,steal,1,False,True,steal,steal,4-0,4,0
@@ -38,8 +38,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700849,2018-02-13,MIN,HOU,5.3,1,6,42,MIN,MIN,reb,0,False,False,Teague REBOUND (Off:0 Def:1),,11-7,11,7
 0021700849,2018-02-13,MIN,HOU,5.33,1,6,40,MIN,MIN,fg3_make,79,False,False,Teague 25' 3PT Pullup Jump Shot (6 PTS),,14-7,14,7
 0021700849,2018-02-13,MIN,HOU,5.57,1,6,26,HOU,HOU,tov,2,False,True,,Mbah a Moute Lost Ball Turnover (P2.T3),14-7,14,7
-0021700849,2018-02-13,MIN,HOU,5.57,1,6,26,MIN,HOU,foul,3,False,False,,Mbah a Moute L.B.FOUL (P2.T2) (S.Wright),14-7,14,7
 0021700849,2018-02-13,MIN,HOU,5.57,1,6,26,HOU,MIN,steal,2,False,True,steal,steal,14-7,14,7
+0021700849,2018-02-13,MIN,HOU,5.57,1,6,26,MIN,HOU,foul,3,False,False,,Mbah a Moute L.B.FOUL (P2.T2) (S.Wright),14-7,14,7
 0021700849,2018-02-13,MIN,HOU,5.78,1,6,13,MIN,MIN,fg_miss,79,False,False,MISS Wiggins 21' Pullup Jump Shot,,14-7,14,7
 0021700849,2018-02-13,MIN,HOU,5.83,1,6,10,HOU,HOU,reb,0,False,False,,Capela REBOUND (Off:1 Def:1),14-7,14,7
 0021700849,2018-02-13,MIN,HOU,5.92,1,6,5,HOU,HOU,fg_make,98,False,False,,Capela 1' Cutting Layup Shot (2 PTS) (Harden 1 AST),14-9,14,9
@@ -66,9 +66,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700849,2018-02-13,MIN,HOU,7.47,1,4,32,MIN,MIN,ft_make,11,False,False,Towns Free Throw 1 of 2 (7 PTS),,22-12,22,12
 0021700849,2018-02-13,MIN,HOU,7.47,1,4,32,MIN,MIN,ft_make,12,False,False,Towns Free Throw 2 of 2 (8 PTS),,23-12,23,12
 0021700849,2018-02-13,MIN,HOU,7.6,1,4,24,HOU,HOU,fg_make,6,False,False,,Harden 2' Driving Layup (2 PTS),23-14,23,14
-0021700849,2018-02-13,MIN,HOU,7.6,1,4,24,HOU,MIN,violation,2,False,False,Defensive Goaltending,,23-14,23,14
 0021700849,2018-02-13,MIN,HOU,7.6,1,4,24,HOU,MIN,foul,2,False,False,Gibson S.FOUL (P1.T3) (D.Collins),,23-14,23,14
 0021700849,2018-02-13,MIN,HOU,7.6,1,4,24,HOU,HOU,ft_miss,10,False,False,,MISS Harden Free Throw 1 of 1,23-14,23,14
+0021700849,2018-02-13,MIN,HOU,7.6,1,4,24,HOU,MIN,violation,2,False,False,Defensive Goaltending,,23-14,23,14
 0021700849,2018-02-13,MIN,HOU,7.63,1,4,22,HOU,HOU,reb,0,False,False,,Nene REBOUND (Off:1 Def:0),23-14,23,14
 0021700849,2018-02-13,MIN,HOU,7.77,1,4,14,HOU,HOU,fg3_miss,80,False,False,,MISS Harden 26' 3PT Step Back Jump Shot,23-14,23,14
 0021700849,2018-02-13,MIN,HOU,7.83,1,4,10,MIN,MIN,reb,0,False,False,Butler REBOUND (Off:0 Def:3),,23-14,23,14
@@ -113,13 +113,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700849,2018-02-13,MIN,HOU,12.68,2,11,19,HOU,HOU,fg_miss,47,False,False,,MISS Anderson 8' Turnaround Jump Shot,31-23,31,23
 0021700849,2018-02-13,MIN,HOU,12.75,2,11,15,MIN,MIN,reb,0,False,False,Dieng REBOUND (Off:0 Def:2),,31-23,31,23
 0021700849,2018-02-13,MIN,HOU,12.92,2,11,5,MIN,MIN,fg_miss,1,True,False,MISS Wiggins 19' Jump Shot,,31-23,31,23
-0021700849,2018-02-13,MIN,HOU,12.92,2,11,5,HOU,HOU,reb,0,False,False,,Rockets Rebound,31-23,31,23
 0021700849,2018-02-13,MIN,HOU,12.92,2,11,5,MIN,HOU,block,1,True,False,block,block,31-23,31,23
+0021700849,2018-02-13,MIN,HOU,12.92,2,11,5,HOU,HOU,reb,0,False,False,,Rockets Rebound,31-23,31,23
 0021700849,2018-02-13,MIN,HOU,12.98,2,11,1,HOU,HOU,fg3_make,1,False,False,,Green 27' 3PT Jump Shot (6 PTS) (Paul 2 AST),31-26,31,26
 0021700849,2018-02-13,MIN,HOU,13.33,2,10,40,MIN,MIN,fg_miss,1,False,False,MISS Wiggins 8' Jump Shot,,31-26,31,26
+0021700849,2018-02-13,MIN,HOU,13.38,2,10,37,MIN,MIN,reb,0,False,False,Dieng REBOUND (Off:2 Def:2),,31-26,31,26
 0021700849,2018-02-13,MIN,HOU,13.38,2,10,37,MIN,MIN,fg_miss,97,False,False,MISS Dieng Tip Layup Shot,,31-26,31,26
 0021700849,2018-02-13,MIN,HOU,13.38,2,10,37,MIN,MIN,reb,0,False,False,Dieng REBOUND (Off:1 Def:2),,31-26,31,26
-0021700849,2018-02-13,MIN,HOU,13.38,2,10,37,MIN,MIN,reb,0,False,False,Dieng REBOUND (Off:2 Def:2),,31-26,31,26
 0021700849,2018-02-13,MIN,HOU,13.4,2,10,36,MIN,MIN,tov,45,False,False,Crawford Out of Bounds - Bad Pass Turnover Turnover (P2.T5),,31-26,31,26
 0021700849,2018-02-13,MIN,HOU,13.6,2,10,24,HOU,HOU,fg_make,7,False,False,,Nene 1' Dunk (4 PTS),31-28,31,28
 0021700849,2018-02-13,MIN,HOU,14.05,2,9,57,MIN,MIN,fg3_miss,1,False,False,MISS Crawford 24' 3PT Jump Shot,,31-28,31,28
@@ -210,8 +210,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700849,2018-02-13,MIN,HOU,23.78,2,0,13,MIN,MIN,fg_miss,78,False,False,MISS Teague 13' Floating Jump Shot,,50-54,50,54
 0021700849,2018-02-13,MIN,HOU,23.82,2,0,11,MIN,MIN,reb,0,False,False,Towns REBOUND (Off:3 Def:4),,50-54,50,54
 0021700849,2018-02-13,MIN,HOU,23.87,2,0,8,MIN,MIN,fg_miss,1,True,False,MISS Towns 5' Jump Shot,,50-54,50,54
-0021700849,2018-02-13,MIN,HOU,23.87,2,0,8,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,50-54,50,54
 0021700849,2018-02-13,MIN,HOU,23.87,2,0,8,MIN,HOU,block,1,True,False,block,block,50-54,50,54
+0021700849,2018-02-13,MIN,HOU,23.87,2,0,8,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,50-54,50,54
 0021700849,2018-02-13,MIN,HOU,24.0,2,0,0,MIN,MIN,fg3_miss,1,False,False,MISS Wiggins 24' 3PT Jump Shot,,50-54,50,54
 0021700849,2018-02-13,MIN,HOU,24.0,2,0,0,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,50-54,50,54
 0021700849,2018-02-13,MIN,HOU,24.0,2,0,0,MIN,,period_end,0,False,False,,,50-54,50,54
@@ -258,9 +258,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700849,2018-02-13,MIN,HOU,28.03,3,7,58,MIN,MIN,fg_miss,1,False,False,MISS Gibson 17' Jump Shot,,57-65,57,65
 0021700849,2018-02-13,MIN,HOU,28.1,3,7,54,HOU,HOU,reb,0,False,False,,Capela REBOUND (Off:2 Def:9),57-65,57,65
 0021700849,2018-02-13,MIN,HOU,28.23,3,7,46,HOU,HOU,fg_miss,5,True,False,,MISS Capela 4' Layup,57-65,57,65
+0021700849,2018-02-13,MIN,HOU,28.23,3,7,46,HOU,MIN,block,5,True,False,block,block,57-65,57,65
 0021700849,2018-02-13,MIN,HOU,28.23,3,7,46,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,57-65,57,65
 0021700849,2018-02-13,MIN,HOU,28.23,3,7,46,MIN,HOU,foul,3,False,False,,Capela L.B.FOUL (P3.T4) (D.Collins),57-65,57,65
-0021700849,2018-02-13,MIN,HOU,28.23,3,7,46,HOU,MIN,block,5,True,False,block,block,57-65,57,65
 0021700849,2018-02-13,MIN,HOU,28.45,3,7,33,MIN,MIN,fg3_miss,1,False,False,MISS Wiggins 24' 3PT Jump Shot,,57-65,57,65
 0021700849,2018-02-13,MIN,HOU,28.5,3,7,30,MIN,MIN,reb,0,False,False,Gibson REBOUND (Off:1 Def:2),,57-65,57,65
 0021700849,2018-02-13,MIN,HOU,28.55,3,7,27,MIN,MIN,fg_miss,1,False,False,MISS Wiggins 5' Jump Shot,,57-65,57,65

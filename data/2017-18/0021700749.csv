@@ -32,9 +32,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700749,2018-01-30,NOP,SAC,3.12,1,8,53,SAC,SAC,tov,45,False,False,,Randolph Out of Bounds - Bad Pass Turnover Turnover (P2.T3),8-7,8,7
 0021700749,2018-01-30,NOP,SAC,3.25,1,8,45,NOP,NOP,fg3_make,1,False,False,Holiday 25' 3PT Jump Shot (7 PTS) (Cunningham 1 AST),,11-7,11,7
 0021700749,2018-01-30,NOP,SAC,3.62,1,8,23,SAC,SAC,fg_miss,5,True,False,,MISS Randolph 7' Layup,11-7,11,7
+0021700749,2018-01-30,NOP,SAC,3.62,1,8,23,SAC,NOP,block,5,True,False,block,block,11-7,11,7
 0021700749,2018-01-30,NOP,SAC,3.62,1,8,23,SAC,SAC,reb,0,False,False,,Randolph REBOUND (Off:1 Def:2),11-7,11,7
 0021700749,2018-01-30,NOP,SAC,3.62,1,8,23,SAC,SAC,tov,39,False,False,,Randolph Step Out of Bounds Turnover (P3.T4),11-7,11,7
-0021700749,2018-01-30,NOP,SAC,3.62,1,8,23,SAC,NOP,block,5,True,False,block,block,11-7,11,7
 0021700749,2018-01-30,NOP,SAC,3.83,1,8,10,NOP,SAC,foul,1,False,False,,Randolph P.FOUL (P1.T3) (M.Smith),11-7,11,7
 0021700749,2018-01-30,NOP,SAC,4.02,1,7,59,NOP,NOP,fg_miss,6,False,False,MISS Rondo 1' Driving Layup,,11-7,11,7
 0021700749,2018-01-30,NOP,SAC,4.05,1,7,57,SAC,SAC,reb,0,False,False,,Koufos REBOUND (Off:1 Def:1),11-7,11,7
@@ -174,8 +174,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700749,2018-01-30,NOP,SAC,19.55,2,4,27,SAC,SAC,fg3_make,1,False,False,,Temple 25' 3PT Jump Shot (11 PTS) (Koufos 1 AST),47-47,47,47
 0021700749,2018-01-30,NOP,SAC,19.85,2,4,9,NOP,NOP,fg_make,98,False,False,Clark 1' Cutting Layup Shot (8 PTS) (Nelson 2 AST),,49-47,49,47
 0021700749,2018-01-30,NOP,SAC,20.22,2,3,47,SAC,SAC,fg_miss,6,True,False,,MISS Hield 3' Driving Layup,49-47,49,47
-0021700749,2018-01-30,NOP,SAC,20.22,2,3,47,SAC,SAC,reb,0,False,False,,Koufos REBOUND (Off:4 Def:4),49-47,49,47
 0021700749,2018-01-30,NOP,SAC,20.22,2,3,47,SAC,NOP,block,6,True,False,block,block,49-47,49,47
+0021700749,2018-01-30,NOP,SAC,20.22,2,3,47,SAC,SAC,reb,0,False,False,,Koufos REBOUND (Off:4 Def:4),49-47,49,47
 0021700749,2018-01-30,NOP,SAC,20.3,2,3,42,SAC,SAC,fg3_make,1,False,False,,Carter 26' 3PT Jump Shot (5 PTS) (Koufos 2 AST),49-50,49,50
 0021700749,2018-01-30,NOP,SAC,20.45,2,3,33,NOP,NOP,fg3_make,1,False,False,Nelson 25' 3PT Jump Shot (3 PTS),,52-50,52,50
 0021700749,2018-01-30,NOP,SAC,20.63,2,3,22,SAC,SAC,fg_make,78,False,False,,G. Hill 12' Floating Jump Shot (11 PTS),52-52,52,52
@@ -371,8 +371,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700749,2018-01-30,NOP,SAC,41.67,4,6,20,NOP,NOP,fg_miss,5,False,False,MISS Holiday 2' Layup,,93-100,93,100
 0021700749,2018-01-30,NOP,SAC,41.67,4,6,20,SAC,SAC,reb,0,False,False,,Fox REBOUND (Off:3 Def:2),93-100,93,100
 0021700749,2018-01-30,NOP,SAC,41.9,4,6,6,SAC,SAC,fg_miss,5,True,False,,MISS Randolph 3' Layup,93-100,93,100
-0021700749,2018-01-30,NOP,SAC,41.9,4,6,6,SAC,SAC,reb,0,False,False,,Randolph REBOUND (Off:2 Def:8),93-100,93,100
 0021700749,2018-01-30,NOP,SAC,41.9,4,6,6,SAC,NOP,block,5,True,False,block,block,93-100,93,100
+0021700749,2018-01-30,NOP,SAC,41.9,4,6,6,SAC,SAC,reb,0,False,False,,Randolph REBOUND (Off:2 Def:8),93-100,93,100
 0021700749,2018-01-30,NOP,SAC,42.0,4,6,0,SAC,SAC,fg_make,72,False,False,,Randolph 2' Putback Layup (21 PTS),93-102,93,102
 0021700749,2018-01-30,NOP,SAC,42.13,4,5,52,NOP,NOP,fg3_miss,79,False,False,MISS Holiday 26' 3PT Pullup Jump Shot,,93-102,93,102
 0021700749,2018-01-30,NOP,SAC,42.13,4,5,52,SAC,SAC,reb,0,False,False,,Koufos REBOUND (Off:7 Def:10),93-102,93,102
@@ -389,8 +389,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700749,2018-01-30,NOP,SAC,43.78,4,4,13,NOP,NOP,ft_make,11,False,False,Davis Free Throw 1 of 2 (20 PTS),,98-104,98,104
 0021700749,2018-01-30,NOP,SAC,43.78,4,4,13,NOP,NOP,ft_make,12,False,False,Davis Free Throw 2 of 2 (21 PTS),,99-104,99,104
 0021700749,2018-01-30,NOP,SAC,44.12,4,3,53,SAC,SAC,fg_miss,1,True,False,,MISS Fox 12' Jump Shot,99-104,99,104
-0021700749,2018-01-30,NOP,SAC,44.12,4,3,53,NOP,NOP,reb,0,False,False,Nelson REBOUND (Off:0 Def:2),,99-104,99,104
 0021700749,2018-01-30,NOP,SAC,44.12,4,3,53,SAC,NOP,block,1,True,False,block,block,99-104,99,104
+0021700749,2018-01-30,NOP,SAC,44.12,4,3,53,NOP,NOP,reb,0,False,False,Nelson REBOUND (Off:0 Def:2),,99-104,99,104
 0021700749,2018-01-30,NOP,SAC,44.23,4,3,46,NOP,NOP,fg3_miss,79,False,False,MISS Holiday 24' 3PT Pullup Jump Shot,,99-104,99,104
 0021700749,2018-01-30,NOP,SAC,44.3,4,3,42,SAC,SAC,reb,0,False,False,,Fox REBOUND (Off:3 Def:3),99-104,99,104
 0021700749,2018-01-30,NOP,SAC,44.33,4,3,40,SAC,NOP,foul,1,False,False,Holiday P.FOUL (P1.T3) (B.Nansel),,99-104,99,104

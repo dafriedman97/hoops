@@ -19,8 +19,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901252,2020-08-03,WAS,IND,1.93,1,10,4,IND,IND,tov,1,False,True,,Holiday Bad Pass Turnover (P1.T3),2-2,2,2
 0021901252,2020-08-03,WAS,IND,1.93,1,10,4,IND,WAS,steal,1,False,True,steal,steal,2-2,2,2
 0021901252,2020-08-03,WAS,IND,2.0,1,10,0,WAS,WAS,fg_miss,41,True,False,MISS Bonga 4' Running Layup,,2-2,2,2
-0021901252,2020-08-03,WAS,IND,2.0,1,10,0,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,2-2,2,2
 0021901252,2020-08-03,WAS,IND,2.0,1,10,0,WAS,IND,block,41,True,False,block,block,2-2,2,2
+0021901252,2020-08-03,WAS,IND,2.0,1,10,0,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,2-2,2,2
 0021901252,2020-08-03,WAS,IND,2.23,1,9,46,WAS,WAS,tov,2,False,True,Brown Jr. Lost Ball Turnover (P1.T1),,2-2,2,2
 0021901252,2020-08-03,WAS,IND,2.23,1,9,46,WAS,IND,steal,2,False,True,steal,steal,2-2,2,2
 0021901252,2020-08-03,WAS,IND,2.43,1,9,34,IND,IND,fg_make,1,False,False,,Turner 13' Jump Shot (2 PTS) (Brogdon 1 AST),2-4,2,4
@@ -44,9 +44,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901252,2020-08-03,WAS,IND,5.43,1,6,34,IND,IND,fg3_miss,80,False,False,,MISS Brogdon 27' 3PT Step Back Jump Shot,10-9,10,9
 0021901252,2020-08-03,WAS,IND,5.48,1,6,31,WAS,WAS,reb,0,False,False,Hachimura REBOUND (Off:0 Def:1),,10-9,10,9
 0021901252,2020-08-03,WAS,IND,5.67,1,6,20,WAS,WAS,fg_miss,6,True,False,MISS Smith 6' Driving Layup,,10-9,10,9
+0021901252,2020-08-03,WAS,IND,5.67,1,6,20,WAS,IND,block,6,True,False,block,block,10-9,10,9
 0021901252,2020-08-03,WAS,IND,5.67,1,6,20,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,10-9,10,9
 0021901252,2020-08-03,WAS,IND,5.67,1,6,20,WAS,WAS,timeout,1,False,False,WIZARDS Timeout: Regular (Full 1 Short 0),,10-9,10,9
-0021901252,2020-08-03,WAS,IND,5.67,1,6,20,WAS,IND,block,6,True,False,block,block,10-9,10,9
 0021901252,2020-08-03,WAS,IND,5.82,1,6,11,WAS,WAS,fg_miss,79,True,False,MISS Smith 12' Pullup Jump Shot,,10-9,10,9
 0021901252,2020-08-03,WAS,IND,5.82,1,6,11,WAS,IND,block,79,True,False,block,block,10-9,10,9
 0021901252,2020-08-03,WAS,IND,5.83,1,6,10,IND,IND,reb,0,False,False,,Warren REBOUND (Off:0 Def:2),10-9,10,9
@@ -58,8 +58,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901252,2020-08-03,WAS,IND,6.47,1,5,32,IND,WAS,block,79,True,False,block,block,10-11,10,11
 0021901252,2020-08-03,WAS,IND,6.55,1,5,27,WAS,WAS,reb,0,False,False,Hachimura REBOUND (Off:0 Def:2),,10-11,10,11
 0021901252,2020-08-03,WAS,IND,6.57,1,5,26,WAS,WAS,fg_miss,41,True,False,MISS Hachimura 3' Running Layup,,10-11,10,11
-0021901252,2020-08-03,WAS,IND,6.57,1,5,26,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,10-11,10,11
 0021901252,2020-08-03,WAS,IND,6.57,1,5,26,WAS,IND,block,41,True,False,block,block,10-11,10,11
+0021901252,2020-08-03,WAS,IND,6.57,1,5,26,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,10-11,10,11
 0021901252,2020-08-03,WAS,IND,6.8,1,5,12,WAS,WAS,fg_make,86,False,False,Hachimura 14' Turnaround Fadeaway (2 PTS),,12-11,12,11
 0021901252,2020-08-03,WAS,IND,7.07,1,4,56,IND,IND,fg_miss,6,False,False,,MISS Holiday 6' Driving Layup,12-11,12,11
 0021901252,2020-08-03,WAS,IND,7.1,1,4,54,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,12-11,12,11
@@ -173,8 +173,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901252,2020-08-03,WAS,IND,19.83,2,4,10,WAS,WAS,fg_miss,58,False,False,MISS Hachimura 5' Turnaround Hook Shot,,38-41,38,41
 0021901252,2020-08-03,WAS,IND,19.87,2,4,8,WAS,WAS,reb,0,False,False,Hachimura REBOUND (Off:1 Def:2),,38-41,38,41
 0021901252,2020-08-03,WAS,IND,19.87,2,4,8,WAS,WAS,fg_miss,72,True,False,MISS Hachimura 2' Putback Layup,,38-41,38,41
-0021901252,2020-08-03,WAS,IND,19.87,2,4,8,IND,IND,reb,0,False,False,,Holiday REBOUND (Off:0 Def:4),38-41,38,41
 0021901252,2020-08-03,WAS,IND,19.87,2,4,8,WAS,IND,block,72,True,False,block,block,38-41,38,41
+0021901252,2020-08-03,WAS,IND,19.87,2,4,8,IND,IND,reb,0,False,False,,Holiday REBOUND (Off:0 Def:4),38-41,38,41
 0021901252,2020-08-03,WAS,IND,20.02,2,3,59,IND,IND,fg3_miss,1,False,False,,MISS Holiday 26' 3PT Jump Shot,38-41,38,41
 0021901252,2020-08-03,WAS,IND,20.02,2,3,59,WAS,WAS,reb,0,False,False,Robinson REBOUND (Off:0 Def:1),,38-41,38,41
 0021901252,2020-08-03,WAS,IND,20.25,2,3,45,WAS,WAS,fg_miss,5,False,False,MISS Schofield 3' Layup,,38-41,38,41
@@ -226,8 +226,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901252,2020-08-03,WAS,IND,25.1,3,10,54,IND,IND,fg3_miss,1,False,False,,MISS Turner 26' 3PT Jump Shot,49-58,49,58
 0021901252,2020-08-03,WAS,IND,25.15,3,10,51,WAS,WAS,reb,0,False,False,Hachimura REBOUND (Off:1 Def:3),,49-58,49,58
 0021901252,2020-08-03,WAS,IND,25.22,3,10,47,WAS,WAS,fg_miss,6,True,False,MISS Hachimura 4' Driving Layup,,49-58,49,58
-0021901252,2020-08-03,WAS,IND,25.22,3,10,47,IND,IND,reb,0,False,False,,Pacers Rebound,49-58,49,58
 0021901252,2020-08-03,WAS,IND,25.22,3,10,47,WAS,IND,block,6,True,False,block,block,49-58,49,58
+0021901252,2020-08-03,WAS,IND,25.22,3,10,47,IND,IND,reb,0,False,False,,Pacers Rebound,49-58,49,58
 0021901252,2020-08-03,WAS,IND,25.35,3,10,39,WAS,IND,foul,4,False,False,,Brogdon OFF.Foul (P2) (D.Collins),49-58,49,58
 0021901252,2020-08-03,WAS,IND,25.35,3,10,39,IND,IND,tov,37,False,False,,Brogdon Offensive Foul Turnover (P2.T6),49-58,49,58
 0021901252,2020-08-03,WAS,IND,25.57,3,10,26,WAS,WAS,fg3_make,1,False,False,Smith 3PT Jump Shot (8 PTS) (Brown Jr. 4 AST),,52-58,52,58
@@ -304,8 +304,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901252,2020-08-03,WAS,IND,34.87,3,1,8,WAS,IND,steal,1,False,True,steal,steal,68-82,68,82
 0021901252,2020-08-03,WAS,IND,34.92,3,1,5,IND,IND,fg_make,50,False,False,,Warren Running Dunk (25 PTS),68-84,68,84
 0021901252,2020-08-03,WAS,IND,35.15,3,0,51,WAS,WAS,fg_miss,47,True,False,MISS Wagner 4' Turnaround Jump Shot,,68-84,68,84
-0021901252,2020-08-03,WAS,IND,35.15,3,0,51,IND,IND,reb,0,False,False,,Pacers Rebound,68-84,68,84
 0021901252,2020-08-03,WAS,IND,35.15,3,0,51,WAS,IND,block,47,True,False,block,block,68-84,68,84
+0021901252,2020-08-03,WAS,IND,35.15,3,0,51,IND,IND,reb,0,False,False,,Pacers Rebound,68-84,68,84
 0021901252,2020-08-03,WAS,IND,35.48,3,0,31,IND,WAS,foul,2,False,False,Wagner S.FOUL (P2.T4) (D.Taylor),,68-84,68,84
 0021901252,2020-08-03,WAS,IND,35.48,3,0,31,IND,IND,ft_make,11,False,False,,Sampson Free Throw 1 of 2 (7 PTS),68-85,68,85
 0021901252,2020-08-03,WAS,IND,35.48,3,0,31,IND,IND,ft_make,12,False,False,,Sampson Free Throw 2 of 2 (8 PTS),68-86,68,86

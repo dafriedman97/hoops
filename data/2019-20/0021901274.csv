@@ -57,8 +57,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901274,2020-08-07,SAS,UTA,6.43,1,5,34,SAS,SAS,fg_miss,6,False,False,MISS DeRozan 2' Driving Layup,,19-8,19,8
 0021901274,2020-08-07,SAS,UTA,6.48,1,5,31,UTA,UTA,reb,0,False,False,,Davis REBOUND (Off:0 Def:1),19-8,19,8
 0021901274,2020-08-07,SAS,UTA,6.58,1,5,25,UTA,UTA,fg_miss,78,False,False,,MISS Clarkson 6' Floating Jump Shot,19-8,19,8
-0021901274,2020-08-07,SAS,UTA,6.6,1,5,24,UTA,UTA,reb,0,False,False,,Jazz Rebound,19-8,19,8
 0021901274,2020-08-07,SAS,UTA,6.6,1,5,24,UTA,SAS,foul,3,False,False,Poeltl L.B.FOUL (P1.T3) (M.Smith),,19-8,19,8
+0021901274,2020-08-07,SAS,UTA,6.6,1,5,24,UTA,UTA,reb,0,False,False,,Jazz Rebound,19-8,19,8
 0021901274,2020-08-07,SAS,UTA,6.77,1,5,14,UTA,UTA,fg_miss,63,False,False,,MISS Oni 15' Fadeaway Jumper,19-8,19,8
 0021901274,2020-08-07,SAS,UTA,6.8,1,5,12,SAS,SAS,reb,0,False,False,White REBOUND (Off:0 Def:3),,19-8,19,8
 0021901274,2020-08-07,SAS,UTA,6.93,1,5,4,SAS,SAS,fg3_make,1,False,False,Belinelli 26' 3PT Jump Shot (3 PTS) (White 2 AST),,22-8,22,8
@@ -208,9 +208,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901274,2020-08-07,SAS,UTA,23.27,2,0,44,SAS,SAS,reb,0,False,False,Belinelli REBOUND (Off:0 Def:1),,58-50,58,50
 0021901274,2020-08-07,SAS,UTA,23.47,2,0,32,SAS,SAS,fg_make,75,False,False,Walker IV 1' Driving Finger Roll Layup (4 PTS) (DeRozan 4 AST),,60-50,60,50
 0021901274,2020-08-07,SAS,UTA,23.87,2,0,8,UTA,UTA,fg_miss,101,True,False,,MISS Clarkson 4' Driving Floating Jump Shot,60-50,60,50
+0021901274,2020-08-07,SAS,UTA,23.87,2,0,8,UTA,SAS,block,101,True,False,block,block,60-50,60,50
 0021901274,2020-08-07,SAS,UTA,23.87,2,0,8,UTA,UTA,reb,0,False,False,,Jazz Rebound,60-50,60,50
 0021901274,2020-08-07,SAS,UTA,23.87,2,0,8,UTA,UTA,tov,11,False,False,,Jazz Turnover: Shot Clock (T#8),60-50,60,50
-0021901274,2020-08-07,SAS,UTA,23.87,2,0,8,UTA,SAS,block,101,True,False,block,block,60-50,60,50
 0021901274,2020-08-07,SAS,UTA,23.97,2,0,2,SAS,SAS,fg_miss,79,False,False,MISS DeRozan 17' Pullup Jump Shot,,60-50,60,50
 0021901274,2020-08-07,SAS,UTA,23.97,2,0,2,UTA,UTA,reb,0,False,False,,Mudiay REBOUND (Off:0 Def:1),60-50,60,50
 0021901274,2020-08-07,SAS,UTA,24.0,2,0,0,UTA,,period_end,0,False,False,,,60-50,60,50
@@ -297,8 +297,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901274,2020-08-07,SAS,UTA,33.37,3,2,38,SAS,SAS,fg_make,98,False,False,Weatherspoon 3' Cutting Layup Shot (2 PTS) (Johnson 1 AST),,92-78,92,78
 0021901274,2020-08-07,SAS,UTA,33.65,3,2,21,UTA,UTA,fg_make,5,False,False,,Brantley 3' Layup (5 PTS) (Wright-Foreman 1 AST),92-80,92,80
 0021901274,2020-08-07,SAS,UTA,33.98,3,2,1,SAS,SAS,fg_miss,75,False,False,MISS Belinelli 3' Driving Finger Roll Layup,,92-80,92,80
-0021901274,2020-08-07,SAS,UTA,34.05,3,1,57,SAS,SAS,fg_miss,97,False,False,MISS Eubanks 1' Tip Layup Shot,,92-80,92,80
 0021901274,2020-08-07,SAS,UTA,34.05,3,1,57,SAS,SAS,reb,0,False,False,Eubanks REBOUND (Off:1 Def:2),,92-80,92,80
+0021901274,2020-08-07,SAS,UTA,34.05,3,1,57,SAS,SAS,fg_miss,97,False,False,MISS Eubanks 1' Tip Layup Shot,,92-80,92,80
 0021901274,2020-08-07,SAS,UTA,34.07,3,1,56,SAS,SAS,reb,0,False,False,Belinelli REBOUND (Off:1 Def:1),,92-80,92,80
 0021901274,2020-08-07,SAS,UTA,34.1,3,1,54,SAS,SAS,fg_miss,78,False,False,MISS Belinelli 19' Floating Jump Shot,,92-80,92,80
 0021901274,2020-08-07,SAS,UTA,34.15,3,1,51,UTA,UTA,reb,0,False,False,,Morgan REBOUND (Off:0 Def:2),92-80,92,80
@@ -312,8 +312,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901274,2020-08-07,SAS,UTA,34.8,3,1,12,SAS,SAS,fg_miss,75,False,False,MISS Gay 2' Driving Finger Roll Layup,,92-82,92,82
 0021901274,2020-08-07,SAS,UTA,34.85,3,1,9,UTA,UTA,reb,0,False,False,,Wright-Foreman REBOUND (Off:0 Def:1),92-82,92,82
 0021901274,2020-08-07,SAS,UTA,34.92,3,1,5,UTA,UTA,tov,1,False,True,,Wright-Foreman Bad Pass Turnover (P1.T10),92-82,92,82
-0021901274,2020-08-07,SAS,UTA,34.92,3,1,5,SAS,UTA,foul,1,False,False,,Morgan P.FOUL (P2.PN) (A.Smith),92-82,92,82
 0021901274,2020-08-07,SAS,UTA,34.92,3,1,5,UTA,SAS,steal,1,False,True,steal,steal,92-82,92,82
+0021901274,2020-08-07,SAS,UTA,34.92,3,1,5,SAS,UTA,foul,1,False,False,,Morgan P.FOUL (P2.PN) (A.Smith),92-82,92,82
 0021901274,2020-08-07,SAS,UTA,34.92,3,1,5,SAS,SAS,ft_make,11,False,False,Johnson Free Throw 1 of 2 (3 PTS),,93-82,93,82
 0021901274,2020-08-07,SAS,UTA,34.92,3,1,5,SAS,SAS,ft_make,12,False,False,Johnson Free Throw 2 of 2 (4 PTS),,94-82,94,82
 0021901274,2020-08-07,SAS,UTA,35.15,3,0,51,UTA,UTA,fg_miss,80,False,False,,MISS Wright-Foreman 16' Step Back Jump Shot,94-82,94,82
@@ -422,9 +422,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901274,2020-08-07,SAS,UTA,45.45,4,2,33,UTA,UTA,fg_miss,97,False,False,,MISS Morgan 1' Tip Layup Shot,116-109,116,109
 0021901274,2020-08-07,SAS,UTA,45.45,4,2,33,UTA,UTA,reb,0,False,False,,Morgan REBOUND (Off:2 Def:3),116-109,116,109
 0021901274,2020-08-07,SAS,UTA,45.47,4,2,32,UTA,UTA,tov,1,False,True,,Morgan Bad Pass Turnover (P2.T15),116-109,116,109
+0021901274,2020-08-07,SAS,UTA,45.47,4,2,32,UTA,SAS,steal,1,False,True,steal,steal,116-109,116,109
 0021901274,2020-08-07,SAS,UTA,45.47,4,2,32,SAS,UTA,foul,1,False,False,,Oni P.FOUL (P2.T4) (P.Fraher),116-109,116,109
 0021901274,2020-08-07,SAS,UTA,45.47,4,2,32,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.5 Short 0),116-109,116,109
-0021901274,2020-08-07,SAS,UTA,45.47,4,2,32,UTA,SAS,steal,1,False,True,steal,steal,116-109,116,109
 0021901274,2020-08-07,SAS,UTA,45.78,4,2,13,SAS,SAS,fg3_miss,1,False,False,MISS White 27' 3PT Jump Shot,,116-109,116,109
 0021901274,2020-08-07,SAS,UTA,45.83,4,2,10,UTA,UTA,reb,0,False,False,,Brantley REBOUND (Off:0 Def:5),116-109,116,109
 0021901274,2020-08-07,SAS,UTA,45.92,4,2,5,UTA,UTA,tov,1,False,True,,Tucker Bad Pass Turnover (P2.T16),116-109,116,109

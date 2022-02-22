@@ -3,9 +3,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900388,2019-12-15,NOP,ORL,0.0,1,12,0,,NOP,jump_ball,0,False,False,Jump Ball Favors vs. Vucevic: Tip to Williams,,0-0,0,0
 0021900388,2019-12-15,NOP,ORL,0.25,1,11,45,NOP,NOP,fg_make,79,False,False,Holiday 14' Pullup Jump Shot (2 PTS) (Favors 1 AST),,2-0,2,0
 0021900388,2019-12-15,NOP,ORL,0.53,1,11,28,ORL,ORL,fg_miss,47,True,False,,MISS Gordon 14' Turnaround Jump Shot,2-0,2,0
+0021900388,2019-12-15,NOP,ORL,0.53,1,11,28,ORL,NOP,block,47,True,False,block,block,2-0,2,0
 0021900388,2019-12-15,NOP,ORL,0.53,1,11,28,NOP,NOP,reb,0,False,False,PELICANS Rebound,,2-0,2,0
 0021900388,2019-12-15,NOP,ORL,0.53,1,11,28,NOP,ORL,foul,3,False,False,,Gordon L.B.FOUL (P1.T1) (G.Petraitis),2-0,2,0
-0021900388,2019-12-15,NOP,ORL,0.53,1,11,28,ORL,NOP,block,47,True,False,block,block,2-0,2,0
 0021900388,2019-12-15,NOP,ORL,0.75,1,11,15,NOP,NOP,fg_miss,105,False,False,MISS Holiday 12' Turnaround Fadeaway Bank Jump Shot,,2-0,2,0
 0021900388,2019-12-15,NOP,ORL,0.82,1,11,11,ORL,ORL,reb,0,False,False,,Isaac REBOUND (Off:0 Def:1),2-0,2,0
 0021900388,2019-12-15,NOP,ORL,1.03,1,10,58,ORL,ORL,fg_miss,78,False,False,,MISS Fournier 7' Floating Jump Shot,2-0,2,0
@@ -94,8 +94,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900388,2019-12-15,NOP,ORL,11.32,1,0,41,NOP,NOP,fg3_miss,1,False,False,MISS Redick 3PT Jump Shot,,28-24,28,24
 0021900388,2019-12-15,NOP,ORL,11.37,1,0,38,ORL,ORL,reb,0,False,False,,Gordon REBOUND (Off:0 Def:1),28-24,28,24
 0021900388,2019-12-15,NOP,ORL,11.5,1,0,30,ORL,ORL,fg_miss,5,True,False,,MISS Carter-Williams 6' Layup,28-24,28,24
-0021900388,2019-12-15,NOP,ORL,11.5,1,0,30,NOP,NOP,reb,0,False,False,Hayes REBOUND (Off:0 Def:3),,28-24,28,24
 0021900388,2019-12-15,NOP,ORL,11.5,1,0,30,ORL,NOP,block,5,True,False,block,block,28-24,28,24
+0021900388,2019-12-15,NOP,ORL,11.5,1,0,30,NOP,NOP,reb,0,False,False,Hayes REBOUND (Off:0 Def:3),,28-24,28,24
 0021900388,2019-12-15,NOP,ORL,11.62,1,0,23,NOP,NOP,fg_make,108,False,False,Hayes 1' Cutting Dunk Shot (4 PTS) (Redick 2 AST),,30-24,30,24
 0021900388,2019-12-15,NOP,ORL,11.98,1,0,1,ORL,ORL,fg3_miss,1,False,False,,MISS Gordon 25' 3PT Jump Shot,30-24,30,24
 0021900388,2019-12-15,NOP,ORL,11.98,1,0,1,ORL,ORL,reb,0,False,False,,Magic Rebound,30-24,30,24
@@ -156,8 +156,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900388,2019-12-15,NOP,ORL,18.28,2,5,43,ORL,ORL,fg_miss,6,False,False,,MISS Fournier 2' Driving Layup,45-44,45,44
 0021900388,2019-12-15,NOP,ORL,18.32,2,5,41,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:0 Def:3),,45-44,45,44
 0021900388,2019-12-15,NOP,ORL,18.52,2,5,29,NOP,NOP,fg_miss,6,False,False,MISS Hart 2' Driving Layup,,45-44,45,44
-0021900388,2019-12-15,NOP,ORL,18.58,2,5,25,NOP,NOP,fg_miss,97,False,False,MISS Hayes 1' Tip Layup Shot,,45-44,45,44
 0021900388,2019-12-15,NOP,ORL,18.58,2,5,25,NOP,NOP,reb,0,False,False,Hayes REBOUND (Off:1 Def:3),,45-44,45,44
+0021900388,2019-12-15,NOP,ORL,18.58,2,5,25,NOP,NOP,fg_miss,97,False,False,MISS Hayes 1' Tip Layup Shot,,45-44,45,44
 0021900388,2019-12-15,NOP,ORL,18.6,2,5,24,ORL,ORL,reb,0,False,False,,Vucevic REBOUND (Off:1 Def:1),45-44,45,44
 0021900388,2019-12-15,NOP,ORL,18.68,2,5,19,ORL,NOP,foul,2,False,False,Hayes S.FOUL (P2.PN) (T.Maddox),,45-44,45,44
 0021900388,2019-12-15,NOP,ORL,18.68,2,5,19,ORL,ORL,ft_make,11,False,False,,Vucevic Free Throw 1 of 2 (10 PTS),45-45,45,45
@@ -190,9 +190,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900388,2019-12-15,NOP,ORL,21.4,2,2,36,ORL,NOP,block,5,True,False,block,block,50-53,50,53
 0021900388,2019-12-15,NOP,ORL,21.42,2,2,35,ORL,ORL,reb,0,False,False,,Gordon REBOUND (Off:1 Def:1),50-53,50,53
 0021900388,2019-12-15,NOP,ORL,21.42,2,2,35,ORL,ORL,fg_miss,5,True,False,,MISS Gordon 5' Layup,50-53,50,53
-0021900388,2019-12-15,NOP,ORL,21.42,2,2,35,NOP,NOP,reb,0,False,False,PELICANS Rebound,,50-53,50,53
-0021900388,2019-12-15,NOP,ORL,21.42,2,2,35,ORL,ORL,timeout,1,False,False,,Magic Timeout: Regular (Reg.3 Short 0),50-53,50,53
 0021900388,2019-12-15,NOP,ORL,21.42,2,2,35,ORL,NOP,block,5,True,False,block,block,50-53,50,53
+0021900388,2019-12-15,NOP,ORL,21.42,2,2,35,ORL,ORL,timeout,1,False,False,,Magic Timeout: Regular (Reg.3 Short 0),50-53,50,53
+0021900388,2019-12-15,NOP,ORL,21.42,2,2,35,NOP,NOP,reb,0,False,False,PELICANS Rebound,,50-53,50,53
 0021900388,2019-12-15,NOP,ORL,21.47,2,2,32,,NOP,jump_ball,0,False,False,Jump Ball Williams vs. Gordon: Tip to Hayes,,50-53,50,53
 0021900388,2019-12-15,NOP,ORL,21.67,2,2,20,NOP,NOP,fg3_make,1,False,False,Redick 26' 3PT Jump Shot (15 PTS) (Holiday 5 AST),,53-53,53,53
 0021900388,2019-12-15,NOP,ORL,21.88,2,2,7,ORL,ORL,tov,45,False,False,,Fultz Out of Bounds - Bad Pass Turnover Turnover (P1.T5),53-53,53,53
@@ -223,8 +223,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900388,2019-12-15,NOP,ORL,24.83,3,11,10,ORL,ORL,reb,1,False,False,,Magic Rebound,60-60,60,60
 0021900388,2019-12-15,NOP,ORL,24.83,3,11,10,ORL,ORL,ft_make,12,False,False,,Gordon Free Throw 2 of 2 (5 PTS),60-61,60,61
 0021900388,2019-12-15,NOP,ORL,25.13,3,10,52,NOP,NOP,fg_miss,98,True,False,MISS Favors 2' Cutting Layup Shot,,60-61,60,61
-0021900388,2019-12-15,NOP,ORL,25.13,3,10,52,NOP,NOP,reb,0,False,False,PELICANS Rebound,,60-61,60,61
 0021900388,2019-12-15,NOP,ORL,25.13,3,10,52,NOP,ORL,block,98,True,False,block,block,60-61,60,61
+0021900388,2019-12-15,NOP,ORL,25.13,3,10,52,NOP,NOP,reb,0,False,False,PELICANS Rebound,,60-61,60,61
 0021900388,2019-12-15,NOP,ORL,25.17,3,10,50,NOP,NOP,fg_make,2,False,False,Ingram 16' Running Jump Shot (8 PTS) (Holiday 6 AST),,62-61,62,61
 0021900388,2019-12-15,NOP,ORL,25.47,3,10,32,ORL,ORL,fg_make,2,False,False,,Fournier 13' Running Jump Shot (13 PTS),62-63,62,63
 0021900388,2019-12-15,NOP,ORL,25.63,3,10,22,NOP,NOP,fg_miss,79,False,False,MISS Redick 19' Pullup Jump Shot,,62-63,62,63
@@ -316,8 +316,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900388,2019-12-15,NOP,ORL,34.23,3,1,46,ORL,,foul,11,False,False,,,81-92,81,92
 0021900388,2019-12-15,NOP,ORL,34.23,3,1,46,ORL,ORL,ft_make,16,False,False,,Augustin Free Throw Technical (14 PTS),81-93,81,93
 0021900388,2019-12-15,NOP,ORL,34.23,3,1,46,ORL,,foul,11,False,False,,,81-93,81,93
-0021900388,2019-12-15,NOP,ORL,34.23,3,1,46,ORL,,ejection,4,False,False,,,81-93,81,93
 0021900388,2019-12-15,NOP,ORL,34.23,3,1,46,ORL,ORL,ft_make,16,False,False,,Augustin Free Throw Technical (15 PTS),81-94,81,94
+0021900388,2019-12-15,NOP,ORL,34.23,3,1,46,ORL,,ejection,4,False,False,,,81-93,81,93
 0021900388,2019-12-15,NOP,ORL,34.4,3,1,36,ORL,ORL,fg_miss,1,False,False,,MISS Augustin 15' Jump Shot,81-94,81,94
 0021900388,2019-12-15,NOP,ORL,34.45,3,1,33,NOP,NOP,reb,0,False,False,Ball REBOUND (Off:2 Def:3),,81-94,81,94
 0021900388,2019-12-15,NOP,ORL,34.48,3,1,31,NOP,NOP,fg_make,108,False,False,Hayes Cutting Dunk Shot (10 PTS) (Ball 6 AST),,83-94,83,94
@@ -348,8 +348,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900388,2019-12-15,NOP,ORL,38.02,4,9,59,ORL,ORL,fg3_make,1,False,False,,Bamba 25' 3PT Jump Shot (11 PTS) (Augustin 5 AST),91-105,91,105
 0021900388,2019-12-15,NOP,ORL,38.27,4,9,44,NOP,NOP,tov,4,False,False,Favors Traveling Turnover (P2.T15),,91-105,91,105
 0021900388,2019-12-15,NOP,ORL,38.55,4,9,27,ORL,ORL,fg_miss,6,True,False,,MISS Augustin 3' Driving Layup,91-105,91,105
-0021900388,2019-12-15,NOP,ORL,38.55,4,9,27,ORL,ORL,reb,0,False,False,,Magic Rebound,91-105,91,105
 0021900388,2019-12-15,NOP,ORL,38.55,4,9,27,ORL,NOP,block,6,True,False,block,block,91-105,91,105
+0021900388,2019-12-15,NOP,ORL,38.55,4,9,27,ORL,ORL,reb,0,False,False,,Magic Rebound,91-105,91,105
 0021900388,2019-12-15,NOP,ORL,38.58,4,9,25,ORL,ORL,fg_make,1,False,False,,Bamba 12' Jump Shot (13 PTS) (Carter-Williams 4 AST),91-107,91,107
 0021900388,2019-12-15,NOP,ORL,38.85,4,9,9,NOP,NOP,fg_make,80,False,False,Ingram 14' Step Back Jump Shot (18 PTS),,93-107,93,107
 0021900388,2019-12-15,NOP,ORL,39.15,4,8,51,ORL,ORL,fg3_make,1,False,False,,Carter-Williams 3PT Jump Shot (8 PTS) (Augustin 6 AST),93-110,93,110
@@ -390,8 +390,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900388,2019-12-15,NOP,ORL,44.02,4,3,59,ORL,ORL,fg_make,98,False,False,,Vucevic 2' Cutting Layup Shot (18 PTS) (Augustin 8 AST),106-122,106,122
 0021900388,2019-12-15,NOP,ORL,44.02,4,3,59,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 4 Short 0),,106-122,106,122
 0021900388,2019-12-15,NOP,ORL,44.3,4,3,42,NOP,NOP,fg3_miss,1,False,False,MISS Holiday 3PT Jump Shot,,106-122,106,122
-0021900388,2019-12-15,NOP,ORL,44.35,4,3,39,NOP,NOP,reb,0,False,False,Hayes REBOUND (Off:2 Def:4),,106-122,106,122
 0021900388,2019-12-15,NOP,ORL,44.35,4,3,39,,NOP,jump_ball,0,False,False,Jump Ball Hayes vs. Isaac: Tip to Ingram,,106-122,106,122
+0021900388,2019-12-15,NOP,ORL,44.35,4,3,39,NOP,NOP,reb,0,False,False,Hayes REBOUND (Off:2 Def:4),,106-122,106,122
 0021900388,2019-12-15,NOP,ORL,44.4,4,3,36,NOP,NOP,fg3_make,1,False,False,Hart 25' 3PT Jump Shot (15 PTS) (Ingram 4 AST),,109-122,109,122
 0021900388,2019-12-15,NOP,ORL,44.73,4,3,16,ORL,NOP,foul,2,False,False,Redick S.FOUL (P2.T1) (G.Petraitis),,109-122,109,122
 0021900388,2019-12-15,NOP,ORL,44.73,4,3,16,ORL,ORL,ft_make,11,False,False,,Fultz Free Throw 1 of 2 (9 PTS),109-123,109,123
@@ -399,8 +399,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900388,2019-12-15,NOP,ORL,44.73,4,3,16,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 5 Short 0),,109-124,109,124
 0021900388,2019-12-15,NOP,ORL,45.15,4,2,51,NOP,NOP,fg_make,6,False,False,Hart 3' Driving Layup (17 PTS) (Ingram 5 AST),,111-124,111,124
 0021900388,2019-12-15,NOP,ORL,45.57,4,2,26,ORL,ORL,fg_miss,98,True,False,,MISS Vucevic 4' Cutting Layup Shot,111-124,111,124
-0021900388,2019-12-15,NOP,ORL,45.57,4,2,26,NOP,NOP,reb,0,False,False,PELICANS Rebound,,111-124,111,124
 0021900388,2019-12-15,NOP,ORL,45.57,4,2,26,ORL,NOP,block,98,True,False,block,block,111-124,111,124
+0021900388,2019-12-15,NOP,ORL,45.57,4,2,26,NOP,NOP,reb,0,False,False,PELICANS Rebound,,111-124,111,124
 0021900388,2019-12-15,NOP,ORL,45.75,4,2,15,NOP,NOP,tov,1,False,True,Hayes Bad Pass Turnover (P2.T17),,111-124,111,124
 0021900388,2019-12-15,NOP,ORL,45.75,4,2,15,NOP,ORL,steal,1,False,True,steal,steal,111-124,111,124
 0021900388,2019-12-15,NOP,ORL,45.97,4,2,2,ORL,ORL,fg_make,108,False,False,,Isaac 1' Cutting Dunk Shot (19 PTS) (Fultz 6 AST),111-126,111,126

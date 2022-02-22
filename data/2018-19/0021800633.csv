@@ -80,8 +80,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800633,2019-01-12,MIN,NOP,7.47,1,4,32,MIN,MIN,fg_miss,58,False,False,MISS Towns 8' Turnaround Hook Shot,,14-18,14,18
 0021800633,2019-01-12,MIN,NOP,7.52,1,4,29,MIN,MIN,reb,0,False,False,Towns REBOUND (Off:4 Def:3),,14-18,14,18
 0021800633,2019-01-12,MIN,NOP,7.53,1,4,28,MIN,MIN,fg_miss,5,True,False,MISS Towns 4' Layup,,14-18,14,18
-0021800633,2019-01-12,MIN,NOP,7.53,1,4,28,NOP,NOP,reb,0,False,False,,Davis REBOUND (Off:1 Def:3),14-18,14,18
 0021800633,2019-01-12,MIN,NOP,7.53,1,4,28,MIN,NOP,block,5,True,False,block,block,14-18,14,18
+0021800633,2019-01-12,MIN,NOP,7.53,1,4,28,NOP,NOP,reb,0,False,False,,Davis REBOUND (Off:1 Def:3),14-18,14,18
 0021800633,2019-01-12,MIN,NOP,7.7,1,4,18,NOP,NOP,fg_miss,3,False,False,,MISS Holiday 3' Hook Shot,14-18,14,18
 0021800633,2019-01-12,MIN,NOP,7.77,1,4,14,NOP,NOP,reb,0,False,False,,Davis REBOUND (Off:2 Def:3),14-18,14,18
 0021800633,2019-01-12,MIN,NOP,7.8,1,4,12,NOP,NOP,fg3_miss,1,False,False,,MISS Mirotic 25' 3PT Jump Shot,14-18,14,18
@@ -91,8 +91,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800633,2019-01-12,MIN,NOP,8.1,1,3,54,MIN,MIN,fg_miss,97,False,False,MISS Saric 1' Tip Layup Shot,,14-18,14,18
 0021800633,2019-01-12,MIN,NOP,8.1,1,3,54,NOP,NOP,reb,0,False,False,,Davis REBOUND (Off:2 Def:4),14-18,14,18
 0021800633,2019-01-12,MIN,NOP,8.12,1,3,53,NOP,NOP,fg_miss,5,True,False,,MISS Payton 4' Layup,14-18,14,18
-0021800633,2019-01-12,MIN,NOP,8.12,1,3,53,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,14-18,14,18
 0021800633,2019-01-12,MIN,NOP,8.12,1,3,53,NOP,MIN,block,5,True,False,block,block,14-18,14,18
+0021800633,2019-01-12,MIN,NOP,8.12,1,3,53,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,14-18,14,18
 0021800633,2019-01-12,MIN,NOP,8.3,1,3,42,MIN,MIN,fg3_miss,80,False,False,MISS Towns 3PT Step Back Jump Shot,,14-18,14,18
 0021800633,2019-01-12,MIN,NOP,8.35,1,3,39,NOP,NOP,reb,0,False,False,,Payton REBOUND (Off:0 Def:1),14-18,14,18
 0021800633,2019-01-12,MIN,NOP,8.45,1,3,33,NOP,MIN,foul,2,False,False,Saric S.FOUL (P2.T4) (J.Tiven),,14-18,14,18
@@ -171,8 +171,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800633,2019-01-12,MIN,NOP,16.12,2,7,53,MIN,MIN,fg_miss,79,False,False,MISS Jones 19' Pullup Jump Shot,,35-37,35,37
 0021800633,2019-01-12,MIN,NOP,16.17,2,7,50,NOP,NOP,reb,0,False,False,,Randle REBOUND (Off:1 Def:6),35-37,35,37
 0021800633,2019-01-12,MIN,NOP,16.27,2,7,44,NOP,NOP,tov,1,False,True,,Moore Bad Pass Turnover (P2.T9),35-37,35,37
-0021800633,2019-01-12,MIN,NOP,16.27,2,7,44,MIN,NOP,foul,1,False,False,,Davis P.FOUL (P2.PN) (M.Ervin),35-37,35,37
 0021800633,2019-01-12,MIN,NOP,16.27,2,7,44,NOP,MIN,steal,1,False,True,steal,steal,35-37,35,37
+0021800633,2019-01-12,MIN,NOP,16.27,2,7,44,MIN,NOP,foul,1,False,False,,Davis P.FOUL (P2.PN) (M.Ervin),35-37,35,37
 0021800633,2019-01-12,MIN,NOP,16.43,2,7,34,MIN,MIN,fg3_make,1,False,False,Towns 26' 3PT Jump Shot (14 PTS) (Teague 4 AST),,38-37,38,37
 0021800633,2019-01-12,MIN,NOP,16.75,2,7,15,NOP,NOP,fg_miss,63,False,False,,MISS Randle 7' Fadeaway Jumper,38-37,38,37
 0021800633,2019-01-12,MIN,NOP,16.8,2,7,12,MIN,MIN,reb,0,False,False,Towns REBOUND (Off:5 Def:8),,38-37,38,37
@@ -428,9 +428,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800633,2019-01-12,MIN,NOP,45.62,4,2,23,NOP,MIN,foul,2,False,False,Towns S.FOUL (P3.T3) (M.Ervin),,108-105,108,105
 0021800633,2019-01-12,MIN,NOP,45.62,4,2,23,NOP,NOP,ft_make,10,False,False,,Holiday Free Throw 1 of 1 (25 PTS),108-106,108,106
 0021800633,2019-01-12,MIN,NOP,46.02,4,1,59,MIN,MIN,fg_miss,47,True,False,MISS Towns 15' Turnaround Jump Shot,,108-106,108,106
+0021800633,2019-01-12,MIN,NOP,46.02,4,1,59,MIN,NOP,block,47,True,False,block,block,108-106,108,106
 0021800633,2019-01-12,MIN,NOP,46.02,4,1,59,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,108-106,108,106
 0021800633,2019-01-12,MIN,NOP,46.02,4,1,59,MIN,MIN,tov,11,False,False,TIMBERWOLVES Turnover: Shot Clock (T#15),,108-106,108,106
-0021800633,2019-01-12,MIN,NOP,46.02,4,1,59,MIN,NOP,block,47,True,False,block,block,108-106,108,106
 0021800633,2019-01-12,MIN,NOP,46.38,4,1,37,NOP,NOP,fg3_miss,1,True,False,,MISS Davis 25' 3PT Jump Shot,108-106,108,106
 0021800633,2019-01-12,MIN,NOP,46.38,4,1,37,NOP,MIN,block,1,True,False,block,block,108-106,108,106
 0021800633,2019-01-12,MIN,NOP,46.42,4,1,35,NOP,NOP,reb,0,False,False,,Davis REBOUND (Off:4 Def:10),108-106,108,106

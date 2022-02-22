@@ -65,8 +65,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000460,2021-02-20,CHI,SAC,8.05,1,3,57,SAC,SAC,fg_miss,5,False,False,,MISS Bagley III 1' Layup,18-17,18,17
 0022000460,2021-02-20,CHI,SAC,8.13,1,3,52,SAC,SAC,reb,0,False,False,,Bagley III REBOUND (Off:2 Def:1),18-17,18,17
 0022000460,2021-02-20,CHI,SAC,8.13,1,3,52,SAC,SAC,fg_miss,72,True,False,,MISS Bagley III Putback Layup,18-17,18,17
-0022000460,2021-02-20,CHI,SAC,8.13,1,3,52,CHI,CHI,reb,0,False,False,Temple REBOUND (Off:0 Def:2),,18-17,18,17
 0022000460,2021-02-20,CHI,SAC,8.13,1,3,52,SAC,CHI,block,72,True,False,block,block,18-17,18,17
+0022000460,2021-02-20,CHI,SAC,8.13,1,3,52,CHI,CHI,reb,0,False,False,Temple REBOUND (Off:0 Def:2),,18-17,18,17
 0022000460,2021-02-20,CHI,SAC,8.23,1,3,46,CHI,CHI,fg_make,6,False,False,Satoransky 1' Driving Layup (2 PTS),,20-17,20,17
 0022000460,2021-02-20,CHI,SAC,8.25,1,3,45,SAC,SAC,timeout,1,False,False,,Kings Timeout: Regular (Reg.1 Short 0),20-17,20,17
 0022000460,2021-02-20,CHI,SAC,8.52,1,3,29,SAC,SAC,fg_miss,80,False,False,,MISS Fox 19' Step Back Jump Shot,20-17,20,17
@@ -96,8 +96,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000460,2021-02-20,CHI,SAC,11.45,1,0,33,CHI,CHI,fg3_miss,80,False,False,MISS Valentine 3PT Step Back Jump Shot,,28-19,28,19
 0022000460,2021-02-20,CHI,SAC,11.48,1,0,31,SAC,SAC,reb,0,False,False,,Fox REBOUND (Off:0 Def:2),28-19,28,19
 0022000460,2021-02-20,CHI,SAC,11.52,1,0,29,SAC,SAC,fg_miss,6,True,False,,MISS James 1' Driving Layup,28-19,28,19
-0022000460,2021-02-20,CHI,SAC,11.52,1,0,29,CHI,CHI,reb,0,False,False,BULLS Rebound,,28-19,28,19
 0022000460,2021-02-20,CHI,SAC,11.52,1,0,29,SAC,CHI,block,6,True,False,block,block,28-19,28,19
+0022000460,2021-02-20,CHI,SAC,11.52,1,0,29,CHI,CHI,reb,0,False,False,BULLS Rebound,,28-19,28,19
 0022000460,2021-02-20,CHI,SAC,11.82,1,0,11,CHI,CHI,tov,1,False,True,Satoransky Bad Pass Turnover (P1.T2),,28-19,28,19
 0022000460,2021-02-20,CHI,SAC,11.82,1,0,11,CHI,SAC,steal,1,False,True,steal,steal,28-19,28,19
 0022000460,2021-02-20,CHI,SAC,11.83,1,0,10,SAC,CHI,foul,1,False,False,Satoransky P.FOUL (P1.T3) (B.Schwab),,28-19,28,19
@@ -121,8 +121,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000460,2021-02-20,CHI,SAC,14.55,2,9,27,CHI,CHI,fg_make,87,False,False,Williams Putback Dunk (2 PTS),,37-31,37,31
 0022000460,2021-02-20,CHI,SAC,14.83,2,9,10,SAC,SAC,fg_miss,6,True,False,,MISS Bjelica 5' Driving Layup,37-31,37,31
 0022000460,2021-02-20,CHI,SAC,14.83,2,9,10,SAC,CHI,block,6,True,False,block,block,37-31,37,31
-0022000460,2021-02-20,CHI,SAC,14.85,2,9,9,CHI,CHI,reb,0,False,False,BULLS Rebound,,37-31,37,31
 0022000460,2021-02-20,CHI,SAC,14.85,2,9,9,,CHI,jump_ball,0,False,False,Jump Ball Young vs. Bjelica: Tip to Williams,,37-31,37,31
+0022000460,2021-02-20,CHI,SAC,14.85,2,9,9,CHI,CHI,reb,0,False,False,BULLS Rebound,,37-31,37,31
 0022000460,2021-02-20,CHI,SAC,15.02,2,8,59,CHI,CHI,fg_miss,6,True,False,MISS Williams 5' Driving Layup,,37-31,37,31
 0022000460,2021-02-20,CHI,SAC,15.02,2,8,59,CHI,SAC,block,6,True,False,block,block,37-31,37,31
 0022000460,2021-02-20,CHI,SAC,15.05,2,8,57,SAC,SAC,reb,0,False,False,,Parker REBOUND (Off:0 Def:1),37-31,37,31
@@ -148,8 +148,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000460,2021-02-20,CHI,SAC,18.15,2,5,51,SAC,SAC,fg_make,7,False,False,,Whiteside 1' Dunk (4 PTS) (Fox 4 AST),46-35,46,35
 0022000460,2021-02-20,CHI,SAC,18.37,2,5,38,CHI,CHI,fg3_make,1,False,False,White 26' 3PT Jump Shot (11 PTS) (Williams 2 AST),,49-35,49,35
 0022000460,2021-02-20,CHI,SAC,18.67,2,5,20,SAC,SAC,fg_miss,6,False,False,,MISS Bagley III 3' Driving Layup,49-35,49,35
-0022000460,2021-02-20,CHI,SAC,18.73,2,5,16,SAC,SAC,fg_make,87,False,False,,Bagley III Putback Dunk (12 PTS),49-37,49,37
 0022000460,2021-02-20,CHI,SAC,18.73,2,5,16,SAC,SAC,reb,0,False,False,,Bagley III REBOUND (Off:3 Def:1),49-37,49,37
+0022000460,2021-02-20,CHI,SAC,18.73,2,5,16,SAC,SAC,fg_make,87,False,False,,Bagley III Putback Dunk (12 PTS),49-37,49,37
 0022000460,2021-02-20,CHI,SAC,18.98,2,5,1,CHI,CHI,fg_miss,101,False,False,MISS White 6' Driving Floating Jump Shot,,49-37,49,37
 0022000460,2021-02-20,CHI,SAC,19.0,2,5,0,CHI,CHI,reb,0,False,False,BULLS Rebound,,49-37,49,37
 0022000460,2021-02-20,CHI,SAC,19.1,2,4,54,CHI,SAC,foul,2,False,False,,Whiteside S.FOUL (P2.T3) (S.Foster),49-37,49,37
@@ -259,9 +259,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000460,2021-02-20,CHI,SAC,30.33,3,5,40,CHI,CHI,fg3_miss,1,False,False,MISS White 25' 3PT Jump Shot,,80-71,80,71
 0022000460,2021-02-20,CHI,SAC,30.37,3,5,38,SAC,SAC,reb,0,False,False,,Hield REBOUND (Off:0 Def:1),80-71,80,71
 0022000460,2021-02-20,CHI,SAC,30.52,3,5,29,SAC,SAC,fg_miss,47,True,False,,MISS Hield 12' Turnaround Jump Shot,80-71,80,71
+0022000460,2021-02-20,CHI,SAC,30.52,3,5,29,SAC,CHI,block,47,True,False,block,block,80-71,80,71
 0022000460,2021-02-20,CHI,SAC,30.52,3,5,29,CHI,CHI,reb,0,False,False,White REBOUND (Off:0 Def:1),,80-71,80,71
 0022000460,2021-02-20,CHI,SAC,30.52,3,5,29,CHI,SAC,foul,1,False,False,,Hield P.FOUL (P3.T4) (S.Wall),80-71,80,71
-0022000460,2021-02-20,CHI,SAC,30.52,3,5,29,SAC,CHI,block,47,True,False,block,block,80-71,80,71
 0022000460,2021-02-20,CHI,SAC,30.63,3,5,22,CHI,CHI,tov,45,False,False,Satoransky Out of Bounds - Bad Pass Turnover Turnover (P2.T8),,80-71,80,71
 0022000460,2021-02-20,CHI,SAC,30.83,3,5,10,SAC,SAC,fg_miss,6,False,False,,MISS Haliburton 1' Driving Layup,80-71,80,71
 0022000460,2021-02-20,CHI,SAC,30.85,3,5,9,CHI,CHI,reb,0,False,False,Valentine REBOUND (Off:0 Def:4),,80-71,80,71

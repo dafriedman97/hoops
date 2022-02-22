@@ -2,9 +2,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900309,2019-12-04,ATL,BKN,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
 0021900309,2019-12-04,ATL,BKN,0.0,1,12,0,,ATL,jump_ball,0,False,False,Jump Ball Jones vs. Allen: Tip to Dinwiddie,,0-0,0,0
 0021900309,2019-12-04,ATL,BKN,0.3,1,11,42,BKN,BKN,fg_miss,6,True,False,,MISS Harris 2' Driving Layup,0-0,0,0
+0021900309,2019-12-04,ATL,BKN,0.3,1,11,42,BKN,ATL,block,6,True,False,block,block,0-0,0,0
 0021900309,2019-12-04,ATL,BKN,0.3,1,11,42,BKN,BKN,reb,0,False,False,,Allen REBOUND (Off:1 Def:0),0-0,0,0
 0021900309,2019-12-04,ATL,BKN,0.3,1,11,42,BKN,ATL,foul,1,False,False,Parker P.FOUL (P1.T1) (N.Buchert),,0-0,0,0
-0021900309,2019-12-04,ATL,BKN,0.3,1,11,42,BKN,ATL,block,6,True,False,block,block,0-0,0,0
 0021900309,2019-12-04,ATL,BKN,0.42,1,11,35,BKN,BKN,fg_make,101,False,False,,Allen 10' Driving Floating Jump Shot (2 PTS) (Harris 1 AST),0-2,0,2
 0021900309,2019-12-04,ATL,BKN,0.72,1,11,17,ATL,ATL,fg3_make,1,False,False,Reddish 25' 3PT Jump Shot (3 PTS) (Young 1 AST),,3-2,3,2
 0021900309,2019-12-04,ATL,BKN,0.95,1,11,3,BKN,BKN,fg3_miss,1,False,False,,MISS Dinwiddie 27' 3PT Jump Shot,3-2,3,2
@@ -30,9 +30,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900309,2019-12-04,ATL,BKN,3.7,1,8,18,ATL,BKN,foul,1,False,False,,Temple P.FOUL (P1.T1) (S.Mehta),11-7,11,7
 0021900309,2019-12-04,ATL,BKN,3.78,1,8,13,ATL,ATL,fg_make,6,False,False,Parker 2' Driving Layup (2 PTS),,13-7,13,7
 0021900309,2019-12-04,ATL,BKN,3.78,1,8,13,ATL,BKN,violation,2,False,False,,Allen Violation:Defensive Goaltending (E.Malloy),13-7,13,7
+0021900309,2019-12-04,ATL,BKN,4.03,1,7,58,BKN,BKN,tov,4,False,False,,Dinwiddie Traveling Turnover (P1.T2),13-7,13,7
 0021900309,2019-12-04,ATL,BKN,4.03,1,7,58,BKN,BKN,fg_miss,1,False,False,,MISS Dinwiddie 16' Jump Shot,13-7,13,7
 0021900309,2019-12-04,ATL,BKN,4.03,1,7,58,BKN,BKN,reb,0,False,False,,Nets Rebound,13-7,13,7
-0021900309,2019-12-04,ATL,BKN,4.03,1,7,58,BKN,BKN,tov,4,False,False,,Dinwiddie Traveling Turnover (P1.T2),13-7,13,7
 0021900309,2019-12-04,ATL,BKN,4.22,1,7,47,ATL,ATL,fg_miss,101,False,False,MISS Young 6' Driving Floating Jump Shot,,13-7,13,7
 0021900309,2019-12-04,ATL,BKN,4.27,1,7,44,BKN,BKN,reb,0,False,False,,Dinwiddie REBOUND (Off:0 Def:1),13-7,13,7
 0021900309,2019-12-04,ATL,BKN,4.47,1,7,32,BKN,BKN,fg3_miss,80,False,False,,MISS Prince 24' 3PT Step Back Jump Shot,13-7,13,7
@@ -48,8 +48,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900309,2019-12-04,ATL,BKN,5.38,1,6,37,ATL,ATL,fg_make,5,False,False,Parker 1' Layup (4 PTS) (Bembry 3 AST),,17-11,17,11
 0021900309,2019-12-04,ATL,BKN,5.55,1,6,27,BKN,BKN,fg_miss,6,True,False,,MISS Harris 2' Driving Layup,17-11,17,11
 0021900309,2019-12-04,ATL,BKN,5.55,1,6,27,BKN,ATL,block,6,True,False,block,block,17-11,17,11
-0021900309,2019-12-04,ATL,BKN,5.72,1,6,17,BKN,BKN,fg_make,87,False,False,,Allen 1' Putback Dunk (4 PTS),17-13,17,13
 0021900309,2019-12-04,ATL,BKN,5.72,1,6,17,BKN,BKN,reb,0,False,False,,Allen REBOUND (Off:3 Def:0),17-13,17,13
+0021900309,2019-12-04,ATL,BKN,5.72,1,6,17,BKN,BKN,fg_make,87,False,False,,Allen 1' Putback Dunk (4 PTS),17-13,17,13
 0021900309,2019-12-04,ATL,BKN,6.02,1,5,59,ATL,ATL,tov,1,False,True,Young Bad Pass Turnover (P1.T1),,17-13,17,13
 0021900309,2019-12-04,ATL,BKN,6.02,1,5,59,ATL,BKN,steal,1,False,True,steal,steal,17-13,17,13
 0021900309,2019-12-04,ATL,BKN,6.32,1,5,41,BKN,BKN,fg3_miss,1,False,False,,MISS Dinwiddie 29' 3PT Jump Shot,17-13,17,13
@@ -68,8 +68,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900309,2019-12-04,ATL,BKN,7.8,1,4,12,BKN,BKN,tov,45,False,False,,Dinwiddie Out of Bounds - Bad Pass Turnover Turnover (P2.T3),20-17,20,17
 0021900309,2019-12-04,ATL,BKN,8.15,1,3,51,ATL,ATL,fg_make,47,False,False,Carter 15' Turnaround Jump Shot (2 PTS),,22-17,22,17
 0021900309,2019-12-04,ATL,BKN,8.45,1,3,33,BKN,BKN,fg_miss,6,True,False,,MISS Musa 2' Driving Layup,22-17,22,17
-0021900309,2019-12-04,ATL,BKN,8.45,1,3,33,BKN,BKN,reb,0,False,False,,Nets Rebound,22-17,22,17
 0021900309,2019-12-04,ATL,BKN,8.45,1,3,33,BKN,ATL,block,6,True,False,block,block,22-17,22,17
+0021900309,2019-12-04,ATL,BKN,8.45,1,3,33,BKN,BKN,reb,0,False,False,,Nets Rebound,22-17,22,17
 0021900309,2019-12-04,ATL,BKN,8.67,1,3,20,BKN,BKN,tov,1,False,True,,Pinson Bad Pass Turnover (P1.T4),22-17,22,17
 0021900309,2019-12-04,ATL,BKN,8.67,1,3,20,BKN,ATL,steal,1,False,True,steal,steal,22-17,22,17
 0021900309,2019-12-04,ATL,BKN,8.77,1,3,14,ATL,ATL,fg_make,41,False,False,Len 1' Running Layup (2 PTS) (Turner 2 AST),,24-17,24,17
@@ -95,8 +95,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900309,2019-12-04,ATL,BKN,10.68,1,1,19,BKN,BKN,reb,0,False,False,,Jordan REBOUND (Off:0 Def:3),24-20,24,20
 0021900309,2019-12-04,ATL,BKN,10.85,1,1,9,BKN,ATL,foul,1,False,False,Wallace P.FOUL (P1.T4) (N.Buchert),,24-20,24,20
 0021900309,2019-12-04,ATL,BKN,10.98,1,1,1,BKN,BKN,tov,1,False,True,,Jordan Bad Pass Turnover (P1.T5),24-20,24,20
-0021900309,2019-12-04,ATL,BKN,10.98,1,1,1,ATL,BKN,foul,1,False,False,,Nwaba P.FOUL (P1.T3) (E.Malloy),24-20,24,20
 0021900309,2019-12-04,ATL,BKN,10.98,1,1,1,BKN,ATL,steal,1,False,True,steal,steal,24-20,24,20
+0021900309,2019-12-04,ATL,BKN,10.98,1,1,1,ATL,BKN,foul,1,False,False,,Nwaba P.FOUL (P1.T3) (E.Malloy),24-20,24,20
 0021900309,2019-12-04,ATL,BKN,11.23,1,0,46,ATL,ATL,tov,40,False,False,Wallace Out of Bounds Lost Ball Turnover (P1.T2),,24-20,24,20
 0021900309,2019-12-04,ATL,BKN,11.47,1,0,32,BKN,BKN,fg3_miss,1,False,False,,MISS Temple 26' 3PT Jump Shot,24-20,24,20
 0021900309,2019-12-04,ATL,BKN,11.5,1,0,30,ATL,ATL,reb,0,False,False,Len REBOUND (Off:0 Def:2),,24-20,24,20
@@ -133,8 +133,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900309,2019-12-04,ATL,BKN,15.45,2,8,33,BKN,BKN,fg3_make,1,False,False,,Temple 27' 3PT Jump Shot (10 PTS) (Pinson 1 AST),28-33,28,33
 0021900309,2019-12-04,ATL,BKN,15.67,2,8,20,ATL,ATL,fg_make,101,False,False,Young 11' Driving Floating Jump Shot (6 PTS),,30-33,30,33
 0021900309,2019-12-04,ATL,BKN,15.93,2,8,4,BKN,BKN,fg_miss,6,True,False,,MISS Pinson 3' Driving Layup,30-33,30,33
-0021900309,2019-12-04,ATL,BKN,15.93,2,8,4,BKN,BKN,reb,0,False,False,,Pinson REBOUND (Off:1 Def:0),30-33,30,33
 0021900309,2019-12-04,ATL,BKN,15.93,2,8,4,BKN,ATL,block,6,True,False,block,block,30-33,30,33
+0021900309,2019-12-04,ATL,BKN,15.93,2,8,4,BKN,BKN,reb,0,False,False,,Pinson REBOUND (Off:1 Def:0),30-33,30,33
 0021900309,2019-12-04,ATL,BKN,16.1,2,7,54,BKN,BKN,fg3_make,1,False,False,,Prince 28' 3PT Jump Shot (8 PTS),30-36,30,36
 0021900309,2019-12-04,ATL,BKN,16.22,2,7,47,ATL,ATL,fg3_miss,79,False,False,MISS Young 33' 3PT Pullup Jump Shot,,30-36,30,36
 0021900309,2019-12-04,ATL,BKN,16.22,2,7,47,ATL,ATL,reb,0,False,False,Reddish REBOUND (Off:1 Def:1),,30-36,30,36
@@ -177,13 +177,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900309,2019-12-04,ATL,BKN,19.95,2,4,3,BKN,BKN,fg_miss,97,False,False,,MISS Allen 1' Tip Layup Shot,37-43,37,43
 0021900309,2019-12-04,ATL,BKN,19.95,2,4,3,BKN,BKN,reb,0,False,False,,Prince REBOUND (Off:1 Def:4),37-43,37,43
 0021900309,2019-12-04,ATL,BKN,19.95,2,4,3,BKN,BKN,fg_miss,97,True,False,,MISS Prince 1' Tip Layup Shot,37-43,37,43
-0021900309,2019-12-04,ATL,BKN,19.95,2,4,3,BKN,BKN,reb,0,False,False,,Nets Rebound,37-43,37,43
 0021900309,2019-12-04,ATL,BKN,19.95,2,4,3,BKN,ATL,block,97,True,False,block,block,37-43,37,43
+0021900309,2019-12-04,ATL,BKN,19.95,2,4,3,BKN,BKN,reb,0,False,False,,Nets Rebound,37-43,37,43
 0021900309,2019-12-04,ATL,BKN,20.17,2,3,50,BKN,BKN,fg_miss,6,False,False,,MISS Nwaba 2' Driving Layup,37-43,37,43
 0021900309,2019-12-04,ATL,BKN,20.22,2,3,47,BKN,BKN,reb,0,False,False,,Nwaba REBOUND (Off:1 Def:1),37-43,37,43
 0021900309,2019-12-04,ATL,BKN,20.22,2,3,47,BKN,BKN,fg_miss,72,True,False,,MISS Nwaba 2' Putback Layup,37-43,37,43
-0021900309,2019-12-04,ATL,BKN,20.22,2,3,47,ATL,ATL,reb,0,False,False,Turner REBOUND (Off:0 Def:1),,37-43,37,43
 0021900309,2019-12-04,ATL,BKN,20.22,2,3,47,BKN,ATL,block,72,True,False,block,block,37-43,37,43
+0021900309,2019-12-04,ATL,BKN,20.22,2,3,47,ATL,ATL,reb,0,False,False,Turner REBOUND (Off:0 Def:1),,37-43,37,43
 0021900309,2019-12-04,ATL,BKN,20.43,2,3,34,ATL,ATL,fg3_make,79,False,False,Young 26' 3PT Pullup Jump Shot (9 PTS) (Len 1 AST),,40-43,40,43
 0021900309,2019-12-04,ATL,BKN,20.63,2,3,22,BKN,BKN,fg_make,5,False,False,,Musa 1' Layup (2 PTS) (Dinwiddie 1 AST),40-45,40,45
 0021900309,2019-12-04,ATL,BKN,20.87,2,3,8,BKN,ATL,foul,26,False,False,Young Offensive Charge Foul (P1.T2) (N.Buchert),,40-45,40,45
@@ -191,8 +191,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900309,2019-12-04,ATL,BKN,21.1,2,2,54,BKN,BKN,fg_miss,6,False,False,,MISS Dinwiddie 1' Driving Layup,40-45,40,45
 0021900309,2019-12-04,ATL,BKN,21.18,2,2,49,ATL,ATL,reb,0,False,False,Young REBOUND (Off:0 Def:1),,40-45,40,45
 0021900309,2019-12-04,ATL,BKN,21.18,2,2,49,ATL,ATL,fg_miss,6,True,False,MISS Young 3' Driving Layup,,40-45,40,45
-0021900309,2019-12-04,ATL,BKN,21.18,2,2,49,ATL,ATL,reb,0,False,False,HAWKS Rebound,,40-45,40,45
 0021900309,2019-12-04,ATL,BKN,21.18,2,2,49,ATL,BKN,block,6,True,False,block,block,40-45,40,45
+0021900309,2019-12-04,ATL,BKN,21.18,2,2,49,ATL,ATL,reb,0,False,False,HAWKS Rebound,,40-45,40,45
 0021900309,2019-12-04,ATL,BKN,21.32,2,2,41,ATL,ATL,fg3_miss,1,False,False,MISS Huerter 25' 3PT Jump Shot,,40-45,40,45
 0021900309,2019-12-04,ATL,BKN,21.35,2,2,39,BKN,BKN,reb,0,False,False,,Nets Rebound,40-45,40,45
 0021900309,2019-12-04,ATL,BKN,21.53,2,2,28,BKN,BKN,fg3_miss,1,False,False,,MISS Musa 26' 3PT Jump Shot,40-45,40,45
@@ -326,9 +326,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900309,2019-12-04,ATL,BKN,34.95,3,1,3,BKN,BKN,fg_make,44,False,False,,Shumpert 1' Reverse Layup (2 PTS) (Jordan 2 AST),77-88,77,88
 0021900309,2019-12-04,ATL,BKN,35.3,3,0,42,ATL,ATL,fg3_make,1,False,False,Reddish 26' 3PT Jump Shot (13 PTS) (Turner 4 AST),,80-88,80,88
 0021900309,2019-12-04,ATL,BKN,35.47,3,0,32,BKN,BKN,fg_miss,6,True,False,,MISS Pinson 2' Driving Layup,80-88,80,88
+0021900309,2019-12-04,ATL,BKN,35.47,3,0,32,BKN,ATL,block,6,True,False,block,block,80-88,80,88
 0021900309,2019-12-04,ATL,BKN,35.47,3,0,32,BKN,BKN,reb,0,False,False,,Nets Rebound,80-88,80,88
 0021900309,2019-12-04,ATL,BKN,35.47,3,0,32,BKN,BKN,timeout,1,False,False,,Nets Timeout: Regular (Reg.3 Short 0),80-88,80,88
-0021900309,2019-12-04,ATL,BKN,35.47,3,0,32,BKN,ATL,block,6,True,False,block,block,80-88,80,88
 0021900309,2019-12-04,ATL,BKN,35.5,3,0,30,BKN,BKN,fg3_make,1,False,False,,Temple 24' 3PT Jump Shot (16 PTS) (Shumpert 1 AST),80-91,80,91
 0021900309,2019-12-04,ATL,BKN,35.75,3,0,15,ATL,BKN,foul,2,False,False,,Nwaba S.FOUL (P2.PN) (E.Malloy),80-91,80,91
 0021900309,2019-12-04,ATL,BKN,35.75,3,0,15,ATL,ATL,ft_make,11,False,False,Jones Free Throw 1 of 2 (17 PTS),,81-91,81,91
@@ -377,8 +377,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900309,2019-12-04,ATL,BKN,39.93,4,8,4,BKN,BKN,fg3_miss,103,False,False,,MISS Dinwiddie 25' 3PT Running Pull-Up Jump Shot,92-102,92,102
 0021900309,2019-12-04,ATL,BKN,39.98,4,8,1,ATL,ATL,reb,0,False,False,Parker REBOUND (Off:0 Def:3),,92-102,92,102
 0021900309,2019-12-04,ATL,BKN,40.13,4,7,52,ATL,ATL,fg_miss,6,True,False,MISS Reddish 11' Driving Layup,,92-102,92,102
-0021900309,2019-12-04,ATL,BKN,40.13,4,7,52,ATL,ATL,reb,0,False,False,HAWKS Rebound,,92-102,92,102
 0021900309,2019-12-04,ATL,BKN,40.13,4,7,52,ATL,BKN,block,6,True,False,block,block,92-102,92,102
+0021900309,2019-12-04,ATL,BKN,40.13,4,7,52,ATL,ATL,reb,0,False,False,HAWKS Rebound,,92-102,92,102
 0021900309,2019-12-04,ATL,BKN,40.32,4,7,41,ATL,ATL,fg_make,101,False,False,Young 6' Driving Floating Jump Shot (27 PTS),,94-102,94,102
 0021900309,2019-12-04,ATL,BKN,40.32,4,7,41,ATL,BKN,foul,3,False,False,,Allen L.B.FOUL (P2.T3) (N.Buchert),94-102,94,102
 0021900309,2019-12-04,ATL,BKN,40.32,4,7,41,BKN,BKN,timeout,1,False,False,,Nets Timeout: Regular (Reg.5 Short 0),94-102,94,102

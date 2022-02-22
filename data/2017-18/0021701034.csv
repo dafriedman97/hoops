@@ -6,8 +6,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701034,2018-03-16,LAL,MIA,0.35,1,11,39,MIA,MIA,tov,2,False,True,,Richardson Lost Ball Turnover (P1.T1),0-0,0,0
 0021701034,2018-03-16,LAL,MIA,0.35,1,11,39,MIA,LAL,steal,2,False,True,steal,steal,0-0,0,0
 0021701034,2018-03-16,LAL,MIA,0.42,1,11,35,LAL,LAL,fg_miss,47,True,False,MISS Randle 9' Turnaround Jump Shot,,0-0,0,0
-0021701034,2018-03-16,LAL,MIA,0.42,1,11,35,MIA,MIA,reb,0,False,False,,Johnson REBOUND (Off:0 Def:1),0-0,0,0
 0021701034,2018-03-16,LAL,MIA,0.42,1,11,35,LAL,MIA,block,47,True,False,block,block,0-0,0,0
+0021701034,2018-03-16,LAL,MIA,0.42,1,11,35,MIA,MIA,reb,0,False,False,,Johnson REBOUND (Off:0 Def:1),0-0,0,0
 0021701034,2018-03-16,LAL,MIA,0.58,1,11,25,MIA,MIA,fg3_make,1,False,False,,Dragic 26' 3PT Jump Shot (3 PTS) (Johnson 1 AST),0-3,0,3
 0021701034,2018-03-16,LAL,MIA,0.92,1,11,5,LAL,LAL,fg_make,108,False,False,Randle 1' Cutting Dunk Shot (2 PTS) (Ball 1 AST),,2-3,2,3
 0021701034,2018-03-16,LAL,MIA,1.13,1,10,52,MIA,MIA,fg3_make,1,False,False,,Johnson 24' 3PT Jump Shot (3 PTS) (Richardson 1 AST),2-6,2,6
@@ -101,18 +101,18 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701034,2018-03-16,LAL,MIA,11.98,1,0,1,LAL,LAL,fg_miss,5,False,False,MISS Thomas 2' Layup,,24-25,24,25
 0021701034,2018-03-16,LAL,MIA,12.0,1,0,0,LAL,LAL,reb,0,False,False,Thomas REBOUND (Off:1 Def:1),,24-25,24,25
 0021701034,2018-03-16,LAL,MIA,12.0,1,0,0,LAL,LAL,fg_miss,72,True,False,MISS Thomas 2' Putback Layup,,24-25,24,25
+0021701034,2018-03-16,LAL,MIA,12.0,1,0,0,LAL,MIA,block,72,True,False,block,block,24-25,24,25
 0021701034,2018-03-16,LAL,MIA,12.0,1,0,0,LAL,LAL,reb,0,False,False,LAKERS Rebound,,24-25,24,25
 0021701034,2018-03-16,LAL,MIA,12.0,1,0,0,LAL,,period_end,0,False,False,,,24-25,24,25
 0021701034,2018-03-16,LAL,MIA,12.0,2,12,0,LAL,,period_start,0,False,False,,,24-25,24,25
-0021701034,2018-03-16,LAL,MIA,12.0,1,0,0,LAL,MIA,block,72,True,False,block,block,24-25,24,25
 0021701034,2018-03-16,LAL,MIA,12.27,2,11,44,MIA,MIA,fg_miss,1,False,False,,MISS McGruder 16' Jump Shot,24-25,24,25
 0021701034,2018-03-16,LAL,MIA,12.35,2,11,39,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:0 Def:3),,24-25,24,25
 0021701034,2018-03-16,LAL,MIA,12.48,2,11,31,LAL,LAL,fg_miss,5,False,False,MISS Kuzma 2' Layup,,24-25,24,25
 0021701034,2018-03-16,LAL,MIA,12.52,2,11,29,MIA,MIA,reb,0,False,False,,Olynyk REBOUND (Off:0 Def:1),24-25,24,25
 0021701034,2018-03-16,LAL,MIA,12.62,2,11,23,MIA,MIA,fg_miss,5,True,False,,MISS Olynyk 3' Layup,24-25,24,25
+0021701034,2018-03-16,LAL,MIA,12.62,2,11,23,MIA,LAL,block,5,True,False,block,block,24-25,24,25
 0021701034,2018-03-16,LAL,MIA,12.62,2,11,23,MIA,MIA,reb,0,False,False,,Olynyk REBOUND (Off:1 Def:1),24-25,24,25
 0021701034,2018-03-16,LAL,MIA,12.62,2,11,23,MIA,LAL,foul,1,False,False,Kuzma P.FOUL (P1.T1) (M.Lindsay),,24-25,24,25
-0021701034,2018-03-16,LAL,MIA,12.62,2,11,23,MIA,LAL,block,5,True,False,block,block,24-25,24,25
 0021701034,2018-03-16,LAL,MIA,12.73,2,11,16,MIA,MIA,fg3_make,1,False,False,,Olynyk 25' 3PT Jump Shot (6 PTS) (Johnson 1 AST),24-28,24,28
 0021701034,2018-03-16,LAL,MIA,13.07,2,10,56,LAL,MIA,foul,2,False,False,,Winslow S.FOUL (P2.T1) (J.Van Duyne),24-28,24,28
 0021701034,2018-03-16,LAL,MIA,13.07,2,10,56,LAL,LAL,ft_make,11,False,False,Wear Free Throw 1 of 2 (4 PTS),,25-28,25,28
@@ -174,8 +174,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701034,2018-03-16,LAL,MIA,19.17,2,4,50,MIA,MIA,fg_make,108,False,False,,Adebayo 1' Cutting Dunk Shot (2 PTS) (Johnson 3 AST),37-40,37,40
 0021701034,2018-03-16,LAL,MIA,19.42,2,4,35,LAL,LAL,fg3_make,1,False,False,Lopez 25' 3PT Jump Shot (9 PTS) (Kuzma 1 AST),,40-40,40,40
 0021701034,2018-03-16,LAL,MIA,19.73,2,4,16,MIA,MIA,fg_miss,5,True,False,,MISS McGruder 2' Layup,40-40,40,40
-0021701034,2018-03-16,LAL,MIA,19.73,2,4,16,MIA,MIA,reb,0,False,False,,Heat Rebound,40-40,40,40
 0021701034,2018-03-16,LAL,MIA,19.73,2,4,16,MIA,LAL,block,5,True,False,block,block,40-40,40,40
+0021701034,2018-03-16,LAL,MIA,19.73,2,4,16,MIA,MIA,reb,0,False,False,,Heat Rebound,40-40,40,40
 0021701034,2018-03-16,LAL,MIA,19.75,2,4,15,MIA,MIA,fg3_miss,1,False,False,,MISS Johnson 25' 3PT Jump Shot,40-40,40,40
 0021701034,2018-03-16,LAL,MIA,19.8,2,4,12,LAL,LAL,reb,0,False,False,Caldwell-Pope REBOUND (Off:0 Def:4),,40-40,40,40
 0021701034,2018-03-16,LAL,MIA,19.88,2,4,7,LAL,LAL,tov,45,False,False,Caldwell-Pope Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,40-40,40,40
@@ -222,8 +222,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701034,2018-03-16,LAL,MIA,24.73,3,11,16,LAL,LAL,reb,0,False,False,LAKERS Rebound,,50-52,50,52
 0021701034,2018-03-16,LAL,MIA,24.73,3,11,16,LAL,MIA,foul,3,False,False,,Richardson L.B.FOUL (P1.T1) (J.Van Duyne),50-52,50,52
 0021701034,2018-03-16,LAL,MIA,24.95,3,11,3,LAL,LAL,tov,1,False,True,Caldwell-Pope Bad Pass Turnover (P2.T10),,50-52,50,52
-0021701034,2018-03-16,LAL,MIA,24.95,3,11,3,MIA,LAL,foul,1,False,False,Randle P.FOUL (P1.T1) (R.Garretson),,50-52,50,52
 0021701034,2018-03-16,LAL,MIA,24.95,3,11,3,LAL,MIA,steal,1,False,True,steal,steal,50-52,50,52
+0021701034,2018-03-16,LAL,MIA,24.95,3,11,3,MIA,LAL,foul,1,False,False,Randle P.FOUL (P1.T1) (R.Garretson),,50-52,50,52
 0021701034,2018-03-16,LAL,MIA,25.12,3,10,53,MIA,MIA,fg_make,71,False,False,,Johnson 2' Finger Roll Layup (11 PTS),50-54,50,54
 0021701034,2018-03-16,LAL,MIA,25.27,3,10,44,LAL,LAL,tov,1,False,True,Ball Bad Pass Turnover (P2.T11),,50-54,50,54
 0021701034,2018-03-16,LAL,MIA,25.27,3,10,44,LAL,MIA,steal,1,False,True,steal,steal,50-54,50,54
@@ -281,8 +281,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701034,2018-03-16,LAL,MIA,30.67,3,5,20,LAL,LAL,ft_make,12,False,False,Randle Free Throw 2 of 2 (20 PTS),,67-63,67,63
 0021701034,2018-03-16,LAL,MIA,30.87,3,5,8,MIA,MIA,fg_make,6,False,False,,Johnson 2' Driving Layup (4 PTS),67-65,67,65
 0021701034,2018-03-16,LAL,MIA,31.05,3,4,57,LAL,LAL,fg_miss,5,True,False,MISS Ball 5' Layup,,67-65,67,65
-0021701034,2018-03-16,LAL,MIA,31.05,3,4,57,LAL,LAL,reb,0,False,False,LAKERS Rebound,,67-65,67,65
 0021701034,2018-03-16,LAL,MIA,31.05,3,4,57,LAL,MIA,block,5,True,False,block,block,67-65,67,65
+0021701034,2018-03-16,LAL,MIA,31.05,3,4,57,LAL,LAL,reb,0,False,False,LAKERS Rebound,,67-65,67,65
 0021701034,2018-03-16,LAL,MIA,31.13,3,4,52,LAL,LAL,fg3_miss,1,False,False,MISS Ball 3PT Jump Shot,,67-65,67,65
 0021701034,2018-03-16,LAL,MIA,31.23,3,4,46,LAL,LAL,reb,0,False,False,Caldwell-Pope REBOUND (Off:1 Def:4),,67-65,67,65
 0021701034,2018-03-16,LAL,MIA,31.23,3,4,46,LAL,LAL,fg_make,97,False,False,Caldwell-Pope 1' Tip Layup Shot (6 PTS),,69-65,69,65
@@ -324,15 +324,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701034,2018-03-16,LAL,MIA,35.03,3,0,58,LAL,LAL,fg_miss,97,False,False,MISS Ball Tip Layup Shot,,71-74,71,74
 0021701034,2018-03-16,LAL,MIA,35.05,3,0,57,LAL,LAL,reb,0,False,False,Zubac REBOUND (Off:1 Def:2),,71-74,71,74
 0021701034,2018-03-16,LAL,MIA,35.07,3,0,56,LAL,LAL,tov,2,False,True,Zubac Lost Ball Turnover (P2.T15),,71-74,71,74
-0021701034,2018-03-16,LAL,MIA,35.07,3,0,56,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.4 Short 0),71-74,71,74
 0021701034,2018-03-16,LAL,MIA,35.07,3,0,56,LAL,MIA,steal,2,False,True,steal,steal,71-74,71,74
+0021701034,2018-03-16,LAL,MIA,35.07,3,0,56,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.4 Short 0),71-74,71,74
 0021701034,2018-03-16,LAL,MIA,35.28,3,0,43,MIA,MIA,fg_miss,1,False,False,,MISS Ellington 23' Jump Shot,71-74,71,74
 0021701034,2018-03-16,LAL,MIA,35.32,3,0,41,LAL,LAL,reb,0,False,False,Caldwell-Pope REBOUND (Off:1 Def:5),,71-74,71,74
 0021701034,2018-03-16,LAL,MIA,35.6,3,0,24,LAL,LAL,fg_miss,1,False,False,MISS Wear 21' Jump Shot,,71-74,71,74
 0021701034,2018-03-16,LAL,MIA,35.6,3,0,24,MIA,MIA,reb,0,False,False,,Winslow REBOUND (Off:0 Def:3),71-74,71,74
 0021701034,2018-03-16,LAL,MIA,35.93,3,0,4,MIA,MIA,fg_miss,5,True,False,,MISS Winslow 5' Layup,71-74,71,74
-0021701034,2018-03-16,LAL,MIA,35.93,3,0,4,MIA,MIA,reb,0,False,False,,Heat Rebound,71-74,71,74
 0021701034,2018-03-16,LAL,MIA,35.93,3,0,4,MIA,LAL,block,5,True,False,block,block,71-74,71,74
+0021701034,2018-03-16,LAL,MIA,35.93,3,0,4,MIA,MIA,reb,0,False,False,,Heat Rebound,71-74,71,74
 0021701034,2018-03-16,LAL,MIA,35.98,3,0,1,MIA,MIA,fg_miss,1,False,False,,MISS Adebayo 14' Jump Shot,71-74,71,74
 0021701034,2018-03-16,LAL,MIA,35.98,3,0,1,LAL,LAL,reb,0,False,False,Ball REBOUND (Off:3 Def:5),,71-74,71,74
 0021701034,2018-03-16,LAL,MIA,36.0,3,0,0,LAL,LAL,fg3_miss,1,False,False,MISS Ball 73' 3PT Jump Shot,,71-74,71,74
@@ -352,8 +352,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701034,2018-03-16,LAL,MIA,37.82,4,10,11,MIA,MIA,reb,0,False,False,,Olynyk REBOUND (Off:1 Def:3),77-76,77,76
 0021701034,2018-03-16,LAL,MIA,38.17,4,9,50,MIA,MIA,fg_make,6,False,False,,Johnson 2' Driving Layup (6 PTS),77-78,77,78
 0021701034,2018-03-16,LAL,MIA,38.28,4,9,43,LAL,LAL,fg_miss,41,True,False,MISS Thomas 3' Running Layup,,77-78,77,78
-0021701034,2018-03-16,LAL,MIA,38.28,4,9,43,LAL,LAL,reb,0,False,False,LAKERS Rebound,,77-78,77,78
 0021701034,2018-03-16,LAL,MIA,38.28,4,9,43,LAL,MIA,block,41,True,False,block,block,77-78,77,78
+0021701034,2018-03-16,LAL,MIA,38.28,4,9,43,LAL,LAL,reb,0,False,False,LAKERS Rebound,,77-78,77,78
 0021701034,2018-03-16,LAL,MIA,38.37,4,9,38,LAL,LAL,fg_miss,79,False,False,MISS Wear 16' Pullup Jump Shot,,77-78,77,78
 0021701034,2018-03-16,LAL,MIA,38.4,4,9,36,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:4 Def:2),77-78,77,78
 0021701034,2018-03-16,LAL,MIA,38.57,4,9,26,MIA,MIA,fg3_miss,1,False,False,,MISS Olynyk 25' 3PT Jump Shot,77-78,77,78

@@ -83,8 +83,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900181,2019-11-16,SAS,POR,12.6,2,11,24,POR,POR,reb,0,False,False,,Hezonja REBOUND (Off:0 Def:1),23-43,23,43
 0021900181,2019-11-16,SAS,POR,12.87,2,11,8,POR,POR,fg3_make,1,False,False,,McCollum 25' 3PT Jump Shot (11 PTS) (Hezonja 1 AST),23-46,23,46
 0021900181,2019-11-16,SAS,POR,13.15,2,10,51,SAS,SAS,fg_miss,73,True,False,MISS Mills 3' Driving Reverse Layup,,23-46,23,46
-0021900181,2019-11-16,SAS,POR,13.15,2,10,51,SAS,SAS,reb,0,False,False,SPURS Rebound,,23-46,23,46
 0021900181,2019-11-16,SAS,POR,13.15,2,10,51,SAS,POR,block,73,True,False,block,block,23-46,23,46
+0021900181,2019-11-16,SAS,POR,13.15,2,10,51,SAS,SAS,reb,0,False,False,SPURS Rebound,,23-46,23,46
 0021900181,2019-11-16,SAS,POR,13.2,2,10,48,SAS,SAS,fg_make,3,False,False,Poeltl 8' Hook Shot (4 PTS) (Mills 1 AST),,25-46,25,46
 0021900181,2019-11-16,SAS,POR,13.38,2,10,37,POR,POR,fg3_miss,1,False,False,,MISS Simons 26' 3PT Jump Shot,25-46,25,46
 0021900181,2019-11-16,SAS,POR,13.43,2,10,34,SAS,SAS,reb,0,False,False,Mills REBOUND (Off:0 Def:1),,25-46,25,46
@@ -150,10 +150,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900181,2019-11-16,SAS,POR,19.95,2,4,3,SAS,SAS,reb,0,False,False,Lyles REBOUND (Off:0 Def:3),,47-57,47,57
 0021900181,2019-11-16,SAS,POR,20.1,2,3,54,SAS,SAS,fg_make,101,False,False,Forbes 5' Driving Floating Jump Shot (8 PTS) (Lyles 3 AST),,49-57,49,57
 0021900181,2019-11-16,SAS,POR,20.4,2,3,36,POR,POR,tov,1,False,True,,Little Bad Pass Turnover (P1.T5),49-57,49,57
+0021900181,2019-11-16,SAS,POR,20.4,2,3,36,POR,SAS,steal,1,False,True,steal,steal,49-57,49,57
 0021900181,2019-11-16,SAS,POR,20.4,2,3,36,SAS,POR,foul,1,False,False,,Whiteside P.FOUL (P1.PN) (J.Goldenberg),49-57,49,57
 0021900181,2019-11-16,SAS,POR,20.4,2,3,36,SAS,SAS,ft_miss,11,False,False,MISS White Free Throw 1 of 2,,49-57,49,57
 0021900181,2019-11-16,SAS,POR,20.4,2,3,36,SAS,SAS,reb,1,False,False,SPURS Rebound,,49-57,49,57
-0021900181,2019-11-16,SAS,POR,20.4,2,3,36,POR,SAS,steal,1,False,True,steal,steal,49-57,49,57
 0021900181,2019-11-16,SAS,POR,20.4,2,3,36,SAS,SAS,ft_make,12,False,False,White Free Throw 2 of 2 (5 PTS),,50-57,50,57
 0021900181,2019-11-16,SAS,POR,20.63,2,3,22,POR,POR,fg_miss,78,False,False,,MISS Whiteside 9' Floating Jump Shot,50-57,50,57
 0021900181,2019-11-16,SAS,POR,20.67,2,3,20,SAS,SAS,reb,0,False,False,Aldridge REBOUND (Off:0 Def:4),,50-57,50,57
@@ -166,8 +166,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900181,2019-11-16,SAS,POR,21.35,2,2,39,POR,POR,fg3_miss,79,False,False,,MISS Lillard 25' 3PT Pullup Jump Shot,50-57,50,57
 0021900181,2019-11-16,SAS,POR,21.42,2,2,35,SAS,SAS,reb,0,False,False,Aldridge REBOUND (Off:0 Def:6),,50-57,50,57
 0021900181,2019-11-16,SAS,POR,21.53,2,2,28,SAS,SAS,fg_miss,75,True,False,MISS Lyles 2' Driving Finger Roll Layup,,50-57,50,57
-0021900181,2019-11-16,SAS,POR,21.53,2,2,28,SAS,SAS,reb,0,False,False,SPURS Rebound,,50-57,50,57
 0021900181,2019-11-16,SAS,POR,21.53,2,2,28,SAS,POR,block,75,True,False,block,block,50-57,50,57
+0021900181,2019-11-16,SAS,POR,21.53,2,2,28,SAS,SAS,reb,0,False,False,SPURS Rebound,,50-57,50,57
 0021900181,2019-11-16,SAS,POR,21.57,2,2,26,SAS,SAS,fg_make,1,False,False,Forbes 16' Jump Shot (10 PTS) (Mills 3 AST),,52-57,52,57
 0021900181,2019-11-16,SAS,POR,21.9,2,2,6,POR,SAS,foul,2,False,False,Forbes S.FOUL (P1.T2) (J.Goldenberg),,52-57,52,57
 0021900181,2019-11-16,SAS,POR,21.9,2,2,6,POR,POR,ft_miss,11,False,False,,MISS Hood Free Throw 1 of 2,52-57,52,57
@@ -306,10 +306,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900181,2019-11-16,SAS,POR,35.92,3,0,5,SAS,SAS,fg_miss,75,False,False,MISS Mills 2' Driving Finger Roll Layup,,96-90,96,90
 0021900181,2019-11-16,SAS,POR,35.95,3,0,3,POR,POR,reb,0,False,False,,Bazemore REBOUND (Off:0 Def:1),96-90,96,90
 0021900181,2019-11-16,SAS,POR,36.0,3,0,0,POR,POR,fg3_miss,79,True,False,,MISS Bazemore 31' 3PT Pullup Jump Shot,96-90,96,90
+0021900181,2019-11-16,SAS,POR,36.0,3,0,0,POR,SAS,block,79,True,False,block,block,96-90,96,90
 0021900181,2019-11-16,SAS,POR,36.0,3,0,0,SAS,SAS,reb,0,False,False,Walker IV REBOUND (Off:0 Def:1),,96-90,96,90
 0021900181,2019-11-16,SAS,POR,36.0,3,0,0,SAS,,period_end,0,False,False,,,96-90,96,90
 0021900181,2019-11-16,SAS,POR,36.0,4,12,0,SAS,,period_start,0,False,False,,,96-90,96,90
-0021900181,2019-11-16,SAS,POR,36.0,3,0,0,POR,SAS,block,79,True,False,block,block,96-90,96,90
 0021900181,2019-11-16,SAS,POR,36.33,4,11,40,POR,POR,fg_miss,58,False,False,,MISS Labissiere 10' Turnaround Hook Shot,96-90,96,90
 0021900181,2019-11-16,SAS,POR,36.38,4,11,37,SAS,SAS,reb,0,False,False,Belinelli REBOUND (Off:0 Def:1),,96-90,96,90
 0021900181,2019-11-16,SAS,POR,36.6,4,11,24,SAS,SAS,fg_miss,101,False,False,MISS Mills 10' Driving Floating Jump Shot,,96-90,96,90
@@ -329,8 +329,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900181,2019-11-16,SAS,POR,37.98,4,10,1,SAS,SAS,reb,0,False,False,Poeltl REBOUND (Off:3 Def:6),,98-90,98,90
 0021900181,2019-11-16,SAS,POR,38.08,4,9,55,SAS,POR,foul,2,False,False,,Hezonja S.FOUL (P3.T1) (T.Brothers),98-90,98,90
 0021900181,2019-11-16,SAS,POR,38.08,4,9,55,SAS,SAS,ft_make,11,False,False,Gay Free Throw 1 of 2 (12 PTS),,99-90,99,90
-0021900181,2019-11-16,SAS,POR,38.08,4,9,55,SAS,SAS,ft_miss,12,False,False,MISS Gay Free Throw 2 of 2,,99-90,99,90
 0021900181,2019-11-16,SAS,POR,38.08,4,9,55,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.4 Short 0),99-90,99,90
+0021900181,2019-11-16,SAS,POR,38.08,4,9,55,SAS,SAS,ft_miss,12,False,False,MISS Gay Free Throw 2 of 2,,99-90,99,90
 0021900181,2019-11-16,SAS,POR,38.13,4,9,52,POR,POR,reb,0,False,False,,Bazemore REBOUND (Off:0 Def:2),99-90,99,90
 0021900181,2019-11-16,SAS,POR,38.3,4,9,42,POR,POR,tov,1,False,True,,Simons Bad Pass Turnover (P1.T11),99-90,99,90
 0021900181,2019-11-16,SAS,POR,38.3,4,9,42,POR,SAS,steal,1,False,True,steal,steal,99-90,99,90
@@ -349,8 +349,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900181,2019-11-16,SAS,POR,39.9,4,8,6,SAS,SAS,fg_miss,1,False,False,MISS DeRozan 20' Jump Shot,,106-93,106,93
 0021900181,2019-11-16,SAS,POR,39.9,4,8,6,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:0 Def:7),106-93,106,93
 0021900181,2019-11-16,SAS,POR,40.08,4,7,55,POR,POR,fg_miss,57,False,False,,MISS Lillard 1' Driving Hook Shot,106-93,106,93
-0021900181,2019-11-16,SAS,POR,40.23,4,7,46,POR,POR,fg_make,72,False,False,,Whiteside 1' Putback Layup (12 PTS),106-95,106,95
 0021900181,2019-11-16,SAS,POR,40.23,4,7,46,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:1 Def:7),106-95,106,95
+0021900181,2019-11-16,SAS,POR,40.23,4,7,46,POR,POR,fg_make,72,False,False,,Whiteside 1' Putback Layup (12 PTS),106-95,106,95
 0021900181,2019-11-16,SAS,POR,40.42,4,7,35,SAS,SAS,fg_miss,79,False,False,MISS White 20' Pullup Jump Shot,,106-95,106,95
 0021900181,2019-11-16,SAS,POR,40.45,4,7,33,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:1 Def:8),106-95,106,95
 0021900181,2019-11-16,SAS,POR,40.5,4,7,30,POR,POR,fg_make,76,False,False,,Bazemore Running Finger Roll Layup (7 PTS),106-97,106,97
@@ -386,8 +386,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900181,2019-11-16,SAS,POR,43.57,4,4,26,SAS,SAS,fg_miss,73,False,False,MISS White 1' Driving Reverse Layup,,110-104,110,104
 0021900181,2019-11-16,SAS,POR,43.58,4,4,25,POR,POR,reb,0,False,False,,Lillard REBOUND (Off:2 Def:3),110-104,110,104
 0021900181,2019-11-16,SAS,POR,43.65,4,4,21,POR,POR,fg_miss,75,True,False,,MISS Lillard 1' Driving Finger Roll Layup,110-104,110,104
-0021900181,2019-11-16,SAS,POR,43.65,4,4,21,POR,POR,reb,0,False,False,,Trail Blazers Rebound,110-104,110,104
 0021900181,2019-11-16,SAS,POR,43.65,4,4,21,POR,SAS,block,75,True,False,block,block,110-104,110,104
+0021900181,2019-11-16,SAS,POR,43.65,4,4,21,POR,POR,reb,0,False,False,,Trail Blazers Rebound,110-104,110,104
 0021900181,2019-11-16,SAS,POR,43.75,4,4,15,POR,POR,fg3_miss,1,False,False,,MISS McCollum 3PT Jump Shot,110-104,110,104
 0021900181,2019-11-16,SAS,POR,43.78,4,4,13,SAS,SAS,reb,0,False,False,Aldridge REBOUND (Off:1 Def:12),,110-104,110,104
 0021900181,2019-11-16,SAS,POR,43.82,4,4,11,SAS,SAS,tov,2,False,True,White Lost Ball Turnover (P2.T9),,110-104,110,104
@@ -432,10 +432,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900181,2019-11-16,SAS,POR,47.37,4,0,38,SAS,SAS,fg_miss,75,True,False,MISS DeRozan 3' Driving Finger Roll Layup,,113-114,113,114
 0021900181,2019-11-16,SAS,POR,47.37,4,0,38,SAS,POR,block,75,True,False,block,block,113-114,113,114
 0021900181,2019-11-16,SAS,POR,47.38,4,0,37,POR,SAS,foul,3,False,False,DeRozan L.B.FOUL (P5.PN) (J.Goldenberg),,113-114,113,114
-0021900181,2019-11-16,SAS,POR,47.38,4,0,37,POR,POR,reb,0,False,False,,Trail Blazers Rebound,113-114,113,114
 0021900181,2019-11-16,SAS,POR,47.38,4,0,37,SAS,SAS,timeout,1,False,False,SPURS Timeout: Regular (Full 5 Short 0),,113-114,113,114
 0021900181,2019-11-16,SAS,POR,47.38,4,0,37,SAS,POR,ft_make,11,False,False,,Whiteside Free Throw 1 of 2 (20 PTS),113-115,113,115
 0021900181,2019-11-16,SAS,POR,47.38,4,0,37,SAS,POR,ft_make,12,False,False,,Whiteside Free Throw 2 of 2 (21 PTS),113-116,113,116
+0021900181,2019-11-16,SAS,POR,47.38,4,0,37,POR,POR,reb,0,False,False,,Trail Blazers Rebound,113-114,113,114
 0021900181,2019-11-16,SAS,POR,47.52,4,0,29,SAS,SAS,fg_miss,1,False,False,MISS White 14' Jump Shot,,113-116,113,116
 0021900181,2019-11-16,SAS,POR,47.57,4,0,26,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:2 Def:10),113-116,113,116
 0021900181,2019-11-16,SAS,POR,47.57,4,0,26,POR,SAS,foul,28,False,False,Mills Personal Take Foul (P2.PN) (T.Brothers),,113-116,113,116

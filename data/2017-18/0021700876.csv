@@ -50,8 +50,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700876,2018-02-23,TOR,MIL,6.45,1,5,33,MIL,MIL,tov,1,False,True,,Bledsoe Bad Pass Turnover (P2.T2),18-13,18,13
 0021700876,2018-02-23,TOR,MIL,6.45,1,5,33,MIL,TOR,steal,1,False,True,steal,steal,18-13,18,13
 0021700876,2018-02-23,TOR,MIL,6.52,1,5,29,TOR,TOR,fg_miss,41,True,False,MISS DeRozan 3' Running Layup,,18-13,18,13
-0021700876,2018-02-23,TOR,MIL,6.52,1,5,29,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,18-13,18,13
 0021700876,2018-02-23,TOR,MIL,6.52,1,5,29,TOR,MIL,block,41,True,False,block,block,18-13,18,13
+0021700876,2018-02-23,TOR,MIL,6.52,1,5,29,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,18-13,18,13
 0021700876,2018-02-23,TOR,MIL,6.65,1,5,21,TOR,TOR,fg_miss,93,False,False,MISS Valanciunas 1' Driving Bank Hook Shot,,18-13,18,13
 0021700876,2018-02-23,TOR,MIL,6.68,1,5,19,MIL,MIL,reb,0,False,False,,Brown REBOUND (Off:0 Def:1),18-13,18,13
 0021700876,2018-02-23,TOR,MIL,6.8,1,5,12,MIL,MIL,fg_make,52,False,False,,Henson 2' Alley Oop Dunk (4 PTS) (Middleton 1 AST),18-15,18,15
@@ -59,8 +59,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700876,2018-02-23,TOR,MIL,7.1,1,4,54,TOR,TOR,fg3_miss,1,False,False,MISS Lowry 27' 3PT Jump Shot,,18-15,18,15
 0021700876,2018-02-23,TOR,MIL,7.1,1,4,54,MIL,MIL,reb,0,False,False,,Bucks Rebound,18-15,18,15
 0021700876,2018-02-23,TOR,MIL,7.38,1,4,37,MIL,MIL,fg_miss,1,True,False,,MISS Henson 2' Jump Shot,18-15,18,15
-0021700876,2018-02-23,TOR,MIL,7.38,1,4,37,MIL,MIL,reb,0,False,False,,Henson REBOUND (Off:2 Def:1),18-15,18,15
 0021700876,2018-02-23,TOR,MIL,7.38,1,4,37,MIL,TOR,block,1,True,False,block,block,18-15,18,15
+0021700876,2018-02-23,TOR,MIL,7.38,1,4,37,MIL,MIL,reb,0,False,False,,Henson REBOUND (Off:2 Def:1),18-15,18,15
 0021700876,2018-02-23,TOR,MIL,7.48,1,4,31,MIL,MIL,fg_miss,66,False,False,,MISS Parker 3' Jump Bank Shot,18-15,18,15
 0021700876,2018-02-23,TOR,MIL,7.52,1,4,29,TOR,TOR,reb,0,False,False,Ibaka REBOUND (Off:0 Def:3),,18-15,18,15
 0021700876,2018-02-23,TOR,MIL,7.67,1,4,20,TOR,TOR,fg_make,101,False,False,DeRozan 8' Driving Floating Jump Shot (6 PTS) (Lowry 3 AST),,20-15,20,15
@@ -97,8 +97,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700876,2018-02-23,TOR,MIL,11.22,1,0,47,TOR,TOR,fg_miss,99,False,False,MISS Poeltl 1' Cutting Finger Roll Layup Shot,,29-23,29,23
 0021700876,2018-02-23,TOR,MIL,11.25,1,0,45,MIL,MIL,reb,0,False,False,,Kilpatrick REBOUND (Off:0 Def:1),29-23,29,23
 0021700876,2018-02-23,TOR,MIL,11.38,1,0,37,MIL,MIL,fg_miss,6,True,False,,MISS Brown 2' Driving Layup,29-23,29,23
-0021700876,2018-02-23,TOR,MIL,11.38,1,0,37,MIL,MIL,reb,0,False,False,,Bucks Rebound,29-23,29,23
 0021700876,2018-02-23,TOR,MIL,11.38,1,0,37,MIL,TOR,block,6,True,False,block,block,29-23,29,23
+0021700876,2018-02-23,TOR,MIL,11.38,1,0,37,MIL,MIL,reb,0,False,False,,Bucks Rebound,29-23,29,23
 0021700876,2018-02-23,TOR,MIL,11.62,1,0,23,MIL,MIL,tov,11,False,False,,Bucks Turnover: Shot Clock (T#5),29-23,29,23
 0021700876,2018-02-23,TOR,MIL,11.98,1,0,1,TOR,TOR,fg3_miss,1,False,False,MISS Miles 26' 3PT Jump Shot,,29-23,29,23
 0021700876,2018-02-23,TOR,MIL,11.98,1,0,1,MIL,MIL,reb,0,False,False,,Brown REBOUND (Off:0 Def:2),29-23,29,23
@@ -210,11 +210,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700876,2018-02-23,TOR,MIL,23.95,2,0,3,TOR,TOR,tov,2,False,True,DeRozan Lost Ball Turnover (P2.T3),,57-65,57,65
 0021700876,2018-02-23,TOR,MIL,23.95,2,0,3,TOR,MIL,steal,2,False,True,steal,steal,57-65,57,65
 0021700876,2018-02-23,TOR,MIL,24.0,2,0,0,MIL,MIL,tov,1,False,True,,Henson Bad Pass Turnover (P1.T11),57-65,57,65
+0021700876,2018-02-23,TOR,MIL,24.0,2,0,0,MIL,TOR,steal,1,False,True,steal,steal,57-65,57,65
 0021700876,2018-02-23,TOR,MIL,24.0,2,0,0,TOR,TOR,fg3_miss,79,False,False,MISS Lowry 31' 3PT Pullup Jump Shot,,57-65,57,65
 0021700876,2018-02-23,TOR,MIL,24.0,2,0,0,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,57-65,57,65
 0021700876,2018-02-23,TOR,MIL,24.0,2,0,0,TOR,,period_end,0,False,False,,,57-65,57,65
 0021700876,2018-02-23,TOR,MIL,24.0,3,12,0,TOR,,period_start,0,False,False,,,57-65,57,65
-0021700876,2018-02-23,TOR,MIL,24.0,2,0,0,MIL,TOR,steal,1,False,True,steal,steal,57-65,57,65
 0021700876,2018-02-23,TOR,MIL,24.23,3,11,46,MIL,MIL,tov,1,False,True,,Bledsoe Bad Pass Turnover (P4.T12),57-65,57,65
 0021700876,2018-02-23,TOR,MIL,24.23,3,11,46,MIL,TOR,steal,1,False,True,steal,steal,57-65,57,65
 0021700876,2018-02-23,TOR,MIL,24.33,3,11,40,TOR,TOR,tov,40,False,False,DeRozan Out of Bounds Lost Ball Turnover (P3.T4),,57-65,57,65
@@ -233,17 +233,17 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700876,2018-02-23,TOR,MIL,25.38,3,10,37,TOR,TOR,ft_make,11,False,False,Ibaka Free Throw 1 of 2 (15 PTS),,60-68,60,68
 0021700876,2018-02-23,TOR,MIL,25.38,3,10,37,TOR,TOR,ft_make,12,False,False,Ibaka Free Throw 2 of 2 (16 PTS),,61-68,61,68
 0021700876,2018-02-23,TOR,MIL,25.57,3,10,26,MIL,MIL,tov,2,False,True,,Middleton Lost Ball Turnover (P1.T14),61-68,61,68
-0021700876,2018-02-23,TOR,MIL,25.57,3,10,26,TOR,MIL,foul,1,False,False,,Middleton P.FOUL (P3.T3) (K.Scott),61-68,61,68
 0021700876,2018-02-23,TOR,MIL,25.57,3,10,26,MIL,TOR,steal,2,False,True,steal,steal,61-68,61,68
+0021700876,2018-02-23,TOR,MIL,25.57,3,10,26,TOR,MIL,foul,1,False,False,,Middleton P.FOUL (P3.T3) (K.Scott),61-68,61,68
 0021700876,2018-02-23,TOR,MIL,25.8,3,10,12,TOR,TOR,fg_make,1,False,False,DeRozan 23' Jump Shot (17 PTS) (Valanciunas 3 AST),,63-68,63,68
 0021700876,2018-02-23,TOR,MIL,26.22,3,9,47,MIL,MIL,fg3_miss,1,False,False,,MISS Middleton 3PT Jump Shot,63-68,63,68
 0021700876,2018-02-23,TOR,MIL,26.23,3,9,46,MIL,MIL,reb,0,False,False,,Bucks Rebound,63-68,63,68
 0021700876,2018-02-23,TOR,MIL,26.23,3,9,46,MIL,TOR,foul,3,False,False,Ibaka L.B.FOUL (P2.T2) (D.Stafford),,63-68,63,68
 0021700876,2018-02-23,TOR,MIL,26.33,3,9,40,MIL,MIL,fg_miss,73,True,False,,MISS Antetokounmpo 3' Driving Reverse Layup,63-68,63,68
-0021700876,2018-02-23,TOR,MIL,26.33,3,9,40,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:2 Def:6),63-68,63,68
-0021700876,2018-02-23,TOR,MIL,26.33,3,9,40,MIL,TOR,foul,2,False,False,Valanciunas S.FOUL (P2.T3) (L.Holtkamp),,63-68,63,68
 0021700876,2018-02-23,TOR,MIL,26.33,3,9,40,MIL,TOR,block,73,True,False,block,block,63-68,63,68
+0021700876,2018-02-23,TOR,MIL,26.33,3,9,40,MIL,TOR,foul,2,False,False,Valanciunas S.FOUL (P2.T3) (L.Holtkamp),,63-68,63,68
 0021700876,2018-02-23,TOR,MIL,26.33,3,9,40,MIL,MIL,ft_make,11,False,False,,Antetokounmpo Free Throw 1 of 2 (10 PTS),63-69,63,69
+0021700876,2018-02-23,TOR,MIL,26.33,3,9,40,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:2 Def:6),63-68,63,68
 0021700876,2018-02-23,TOR,MIL,26.33,3,9,40,MIL,MIL,ft_make,12,False,False,,Antetokounmpo Free Throw 2 of 2 (11 PTS),63-70,63,70
 0021700876,2018-02-23,TOR,MIL,26.5,3,9,30,TOR,TOR,fg3_miss,66,False,False,MISS Lowry 26' 3PT Jump Bank Shot,,63-70,63,70
 0021700876,2018-02-23,TOR,MIL,26.55,3,9,27,MIL,MIL,reb,0,False,False,,Henson REBOUND (Off:2 Def:5),63-70,63,70
@@ -298,8 +298,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700876,2018-02-23,TOR,MIL,33.37,3,2,38,TOR,TOR,fg_miss,101,False,False,MISS Ibaka 8' Driving Floating Jump Shot,,82-92,82,92
 0021700876,2018-02-23,TOR,MIL,33.45,3,2,33,TOR,TOR,reb,0,False,False,Valanciunas REBOUND (Off:2 Def:5),,82-92,82,92
 0021700876,2018-02-23,TOR,MIL,33.48,3,2,31,TOR,TOR,fg_miss,58,True,False,MISS Valanciunas 3' Turnaround Hook Shot,,82-92,82,92
-0021700876,2018-02-23,TOR,MIL,33.48,3,2,31,MIL,MIL,reb,0,False,False,,Snell REBOUND (Off:0 Def:1),82-92,82,92
 0021700876,2018-02-23,TOR,MIL,33.48,3,2,31,TOR,MIL,block,58,True,False,block,block,82-92,82,92
+0021700876,2018-02-23,TOR,MIL,33.48,3,2,31,MIL,MIL,reb,0,False,False,,Snell REBOUND (Off:0 Def:1),82-92,82,92
 0021700876,2018-02-23,TOR,MIL,33.67,3,2,20,MIL,MIL,fg3_miss,1,False,False,,MISS Snell 25' 3PT Jump Shot,82-92,82,92
 0021700876,2018-02-23,TOR,MIL,33.75,3,2,15,MIL,MIL,reb,0,False,False,,Bledsoe REBOUND (Off:2 Def:3),82-92,82,92
 0021700876,2018-02-23,TOR,MIL,33.75,3,2,15,MIL,MIL,fg_make,97,False,False,,Bledsoe 1' Tip Layup Shot (19 PTS),82-94,82,94
@@ -307,8 +307,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700876,2018-02-23,TOR,MIL,34.0,3,2,0,TOR,TOR,ft_make,11,False,False,Lowry Free Throw 1 of 2 (13 PTS),,83-94,83,94
 0021700876,2018-02-23,TOR,MIL,34.0,3,2,0,TOR,TOR,ft_make,12,False,False,Lowry Free Throw 2 of 2 (14 PTS),,84-94,84,94
 0021700876,2018-02-23,TOR,MIL,34.25,3,1,45,MIL,MIL,tov,1,False,True,,Bledsoe Bad Pass Turnover (P5.T16),84-94,84,94
-0021700876,2018-02-23,TOR,MIL,34.25,3,1,45,TOR,MIL,foul,9,False,False,,Bledsoe C.P.FOUL (P3.PN) (K.Scott),84-94,84,94
 0021700876,2018-02-23,TOR,MIL,34.25,3,1,45,MIL,TOR,steal,1,False,True,steal,steal,84-94,84,94
+0021700876,2018-02-23,TOR,MIL,34.25,3,1,45,TOR,MIL,foul,9,False,False,,Bledsoe C.P.FOUL (P3.PN) (K.Scott),84-94,84,94
 0021700876,2018-02-23,TOR,MIL,34.25,3,1,45,TOR,TOR,ft_make,25,False,False,VanVleet Free Throw Clear Path 1 of 2 (5 PTS),,85-94,85,94
 0021700876,2018-02-23,TOR,MIL,34.25,3,1,45,TOR,TOR,ft_make,26,False,False,VanVleet Free Throw Clear Path 2 of 2 (6 PTS),,86-94,86,94
 0021700876,2018-02-23,TOR,MIL,34.37,3,1,38,TOR,TOR,fg_miss,6,False,False,MISS Siakam 3' Driving Layup,,86-94,86,94
@@ -351,8 +351,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700876,2018-02-23,TOR,MIL,38.6,4,9,24,TOR,TOR,reb,0,False,False,Siakam REBOUND (Off:1 Def:5),,92-98,92,98
 0021700876,2018-02-23,TOR,MIL,38.92,4,9,5,TOR,TOR,fg_make,105,False,False,Siakam 9' Turnaround Fadeaway Bank Jump Shot (13 PTS),,94-98,94,98
 0021700876,2018-02-23,TOR,MIL,39.28,4,8,43,MIL,MIL,fg_miss,101,True,False,,MISS Brown 6' Driving Floating Jump Shot,94-98,94,98
-0021700876,2018-02-23,TOR,MIL,39.28,4,8,43,MIL,MIL,reb,0,False,False,,Bucks Rebound,94-98,94,98
 0021700876,2018-02-23,TOR,MIL,39.28,4,8,43,MIL,TOR,block,101,True,False,block,block,94-98,94,98
+0021700876,2018-02-23,TOR,MIL,39.28,4,8,43,MIL,MIL,reb,0,False,False,,Bucks Rebound,94-98,94,98
 0021700876,2018-02-23,TOR,MIL,39.4,4,8,36,MIL,MIL,fg_miss,58,False,False,,MISS Maker 9' Turnaround Hook Shot,94-98,94,98
 0021700876,2018-02-23,TOR,MIL,39.42,4,8,35,TOR,TOR,reb,0,False,False,Wright REBOUND (Off:0 Def:1),,94-98,94,98
 0021700876,2018-02-23,TOR,MIL,39.55,4,8,27,TOR,TOR,tov,2,False,True,Miles Lost Ball Turnover (P1.T9),,94-98,94,98

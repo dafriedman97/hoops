@@ -52,8 +52,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000905,2021-04-24,MIL,PHI,5.17,1,6,50,MIL,MIL,fg_make,108,False,False,Lopez 3' Cutting Dunk Shot (2 PTS) (Antetokounmpo 2 AST),,11-5,11,5
 0022000905,2021-04-24,MIL,PHI,5.43,1,6,34,PHI,PHI,fg_miss,43,True,False,,MISS Howard 5' Alley Oop Layup,11-5,11,5
 0022000905,2021-04-24,MIL,PHI,5.43,1,6,34,PHI,MIL,block,43,True,False,block,block,11-5,11,5
-0022000905,2021-04-24,MIL,PHI,5.55,1,6,27,PHI,PHI,fg_make,72,False,False,,Howard Putback Layup (2 PTS),11-7,11,7
 0022000905,2021-04-24,MIL,PHI,5.55,1,6,27,PHI,PHI,reb,0,False,False,,Howard REBOUND (Off:1 Def:0),11-7,11,7
+0022000905,2021-04-24,MIL,PHI,5.55,1,6,27,PHI,PHI,fg_make,72,False,False,,Howard Putback Layup (2 PTS),11-7,11,7
 0022000905,2021-04-24,MIL,PHI,5.68,1,6,19,MIL,MIL,fg_miss,6,True,False,MISS Lopez 8' Driving Layup,,11-7,11,7
 0022000905,2021-04-24,MIL,PHI,5.68,1,6,19,MIL,PHI,block,6,True,False,block,block,11-7,11,7
 0022000905,2021-04-24,MIL,PHI,5.75,1,6,15,MIL,MIL,reb,0,False,False,Lopez REBOUND (Off:1 Def:0),,11-7,11,7
@@ -111,13 +111,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000905,2021-04-24,MIL,PHI,11.97,1,0,2,PHI,PHI,tov,37,False,False,,Milton Offensive Foul Turnover (P1.T4),26-17,26,17
 0022000905,2021-04-24,MIL,PHI,11.97,1,0,2,MIL,MIL,fg_miss,86,False,False,MISS Holiday 17' Turnaround Fadeaway Shot,,26-17,26,17
 0022000905,2021-04-24,MIL,PHI,11.98,1,0,1,MIL,MIL,reb,0,False,False,Portis REBOUND (Off:1 Def:1),,26-17,26,17
+0022000905,2021-04-24,MIL,PHI,12.0,1,0,0,MIL,,period_end,0,False,False,,,26-17,26,17
 0022000905,2021-04-24,MIL,PHI,12.0,1,0,0,MIL,MIL,fg_miss,97,False,False,MISS Portis 1' Tip Layup Shot,,26-17,26,17
 0022000905,2021-04-24,MIL,PHI,12.0,1,0,0,MIL,MIL,reb,0,False,False,BUCKS Rebound,,26-17,26,17
-0022000905,2021-04-24,MIL,PHI,12.0,1,0,0,MIL,,period_end,0,False,False,,,26-17,26,17
 0022000905,2021-04-24,MIL,PHI,12.0,2,12,0,MIL,,period_start,0,False,False,,,26-17,26,17
 0022000905,2021-04-24,MIL,PHI,12.12,2,11,53,PHI,PHI,fg_miss,6,True,False,,MISS Milton 5' Driving Layup,26-17,26,17
-0022000905,2021-04-24,MIL,PHI,12.12,2,11,53,PHI,PHI,reb,0,False,False,,76ers Rebound,26-17,26,17
 0022000905,2021-04-24,MIL,PHI,12.12,2,11,53,PHI,MIL,block,6,True,False,block,block,26-17,26,17
+0022000905,2021-04-24,MIL,PHI,12.12,2,11,53,PHI,PHI,reb,0,False,False,,76ers Rebound,26-17,26,17
 0022000905,2021-04-24,MIL,PHI,12.45,2,11,33,PHI,PHI,fg3_make,102,False,False,,Milton 31' 3PT Driving Floating Bank Jump Shot (5 PTS),26-20,26,20
 0022000905,2021-04-24,MIL,PHI,12.75,2,11,15,MIL,MIL,fg_miss,79,False,False,MISS Antetokounmpo 17' Pullup Jump Shot,,26-20,26,20
 0022000905,2021-04-24,MIL,PHI,12.82,2,11,11,PHI,PHI,reb,0,False,False,,Howard REBOUND (Off:2 Def:3),26-20,26,20
@@ -166,8 +166,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000905,2021-04-24,MIL,PHI,16.47,2,7,32,PHI,PHI,reb,0,False,False,,Tolliver REBOUND (Off:0 Def:1),31-28,31,28
 0022000905,2021-04-24,MIL,PHI,16.47,2,7,32,PHI,PHI,tov,45,False,False,,Tolliver Out of Bounds - Bad Pass Turnover Turnover (P1.T7),31-28,31,28
 0022000905,2021-04-24,MIL,PHI,16.57,2,7,26,MIL,MIL,tov,2,False,True,Antetokounmpo Lost Ball Turnover (P2.T6),,31-28,31,28
-0022000905,2021-04-24,MIL,PHI,16.57,2,7,26,PHI,MIL,foul,28,False,False,Antetokounmpo Personal Take Foul (P2.T3) (T.Brothers),,31-28,31,28
 0022000905,2021-04-24,MIL,PHI,16.57,2,7,26,MIL,PHI,steal,2,False,True,steal,steal,31-28,31,28
+0022000905,2021-04-24,MIL,PHI,16.57,2,7,26,PHI,MIL,foul,28,False,False,Antetokounmpo Personal Take Foul (P2.T3) (T.Brothers),,31-28,31,28
 0022000905,2021-04-24,MIL,PHI,16.87,2,7,8,PHI,PHI,fg3_miss,79,False,False,,MISS Maxey 28' 3PT Pullup Jump Shot,31-28,31,28
 0022000905,2021-04-24,MIL,PHI,16.92,2,7,5,MIL,MIL,reb,0,False,False,Middleton REBOUND (Off:0 Def:1),,31-28,31,28
 0022000905,2021-04-24,MIL,PHI,17.07,2,6,56,MIL,MIL,fg3_miss,1,False,False,MISS Lopez 31' 3PT Jump Shot,,31-28,31,28

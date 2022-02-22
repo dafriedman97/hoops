@@ -111,9 +111,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900925,2020-03-04,POR,WAS,12.43,2,11,34,WAS,WAS,reb,0,False,False,,Wizards Rebound,37-30,37,30
 0021900925,2020-03-04,POR,WAS,12.43,2,11,34,WAS,POR,foul,3,False,False,Swanigan L.B.FOUL (P1.T1) (M.Ayotte),,37-30,37,30
 0021900925,2020-03-04,POR,WAS,12.53,2,11,28,WAS,WAS,fg3_miss,1,True,False,,MISS Bertans 25' 3PT Jump Shot,37-30,37,30
+0021900925,2020-03-04,POR,WAS,12.53,2,11,28,WAS,POR,block,1,True,False,block,block,37-30,37,30
 0021900925,2020-03-04,POR,WAS,12.53,2,11,28,POR,POR,reb,0,False,False,Trent Jr. REBOUND (Off:1 Def:2),,37-30,37,30
 0021900925,2020-03-04,POR,WAS,12.53,2,11,28,POR,WAS,foul,1,False,False,,Pasecniks P.FOUL (P1.T1) (M.Dagher),37-30,37,30
-0021900925,2020-03-04,POR,WAS,12.53,2,11,28,WAS,POR,block,1,True,False,block,block,37-30,37,30
 0021900925,2020-03-04,POR,WAS,12.87,2,11,8,POR,POR,fg_make,79,False,False,McCollum 21' Pullup Jump Shot (11 PTS),,39-30,39,30
 0021900925,2020-03-04,POR,WAS,13.08,2,10,55,WAS,POR,foul,1,False,False,Swanigan P.FOUL (P2.T2) (M.Dagher),,39-30,39,30
 0021900925,2020-03-04,POR,WAS,13.08,2,10,55,POR,WAS,foul,4,False,False,,Brown Jr. OFF.Foul (P1) (M.Dagher),39-30,39,30
@@ -404,8 +404,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900925,2020-03-04,POR,WAS,41.38,4,6,37,WAS,WAS,fg_make,72,False,False,,Payton II 1' Putback Layup (2 PTS),106-95,106,95
 0021900925,2020-03-04,POR,WAS,41.65,4,6,21,POR,POR,fg_make,108,False,False,Whiteside 1' Cutting Dunk Shot (20 PTS) (McCollum 5 AST),,108-95,108,95
 0021900925,2020-03-04,POR,WAS,41.88,4,6,7,WAS,WAS,fg_miss,6,True,False,,MISS Bonga 3' Driving Layup,108-95,108,95
-0021900925,2020-03-04,POR,WAS,41.88,4,6,7,WAS,WAS,reb,0,False,False,,Wizards Rebound,108-95,108,95
 0021900925,2020-03-04,POR,WAS,41.88,4,6,7,WAS,POR,block,6,True,False,block,block,108-95,108,95
+0021900925,2020-03-04,POR,WAS,41.88,4,6,7,WAS,WAS,reb,0,False,False,,Wizards Rebound,108-95,108,95
 0021900925,2020-03-04,POR,WAS,42.1,4,5,54,WAS,WAS,fg3_miss,79,False,False,,MISS Beal 24' 3PT Pullup Jump Shot,108-95,108,95
 0021900925,2020-03-04,POR,WAS,42.13,4,5,52,POR,POR,reb,0,False,False,Anthony REBOUND (Off:0 Def:5),,108-95,108,95
 0021900925,2020-03-04,POR,WAS,42.3,4,5,42,POR,WAS,foul,2,False,False,,Bertans S.FOUL (P5.PN) (M.Ayotte),108-95,108,95
@@ -473,8 +473,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900925,2020-03-04,POR,WAS,46.62,4,1,23,WAS,WAS,reb,1,False,False,,Wizards Rebound,121-102,121,102
 0021900925,2020-03-04,POR,WAS,47.0,4,1,0,POR,POR,fg_make,47,False,False,Little 9' Turnaround Jump Shot (4 PTS),,123-102,123,102
 0021900925,2020-03-04,POR,WAS,47.13,4,0,52,WAS,WAS,tov,1,False,True,,Bonga Bad Pass Turnover (P1.T10),123-102,123,102
-0021900925,2020-03-04,POR,WAS,47.13,4,0,52,POR,WAS,foul,28,False,False,,Robinson Personal Take Foul (P4.PN) (M.Dagher),123-102,123,102
 0021900925,2020-03-04,POR,WAS,47.13,4,0,52,WAS,POR,steal,1,False,True,steal,steal,123-102,123,102
+0021900925,2020-03-04,POR,WAS,47.13,4,0,52,POR,WAS,foul,28,False,False,,Robinson Personal Take Foul (P4.PN) (M.Dagher),123-102,123,102
 0021900925,2020-03-04,POR,WAS,47.13,4,0,52,POR,POR,ft_make,11,False,False,Simons Free Throw 1 of 2 (7 PTS),,124-102,124,102
 0021900925,2020-03-04,POR,WAS,47.13,4,0,52,POR,POR,ft_make,12,False,False,Simons Free Throw 2 of 2 (8 PTS),,125-102,125,102
 0021900925,2020-03-04,POR,WAS,47.33,4,0,40,WAS,WAS,fg_make,5,False,False,,Wagner 1' Layup (9 PTS) (Robinson 1 AST),125-104,125,104

@@ -6,8 +6,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800723,2019-01-25,CHI,LAC,0.57,1,11,26,CHI,CHI,fg_miss,6,False,False,MISS LaVine 2' Driving Layup,,0-0,0,0
 0021800723,2019-01-25,CHI,LAC,0.62,1,11,23,LAC,LAC,reb,0,False,False,,Harris REBOUND (Off:0 Def:1),0-0,0,0
 0021800723,2019-01-25,CHI,LAC,0.67,1,11,20,LAC,LAC,fg_miss,6,True,False,,MISS Gilgeous-Alexander 2' Driving Layup,0-0,0,0
-0021800723,2019-01-25,CHI,LAC,0.67,1,11,20,LAC,LAC,reb,0,False,False,,Clippers Rebound,0-0,0,0
 0021800723,2019-01-25,CHI,LAC,0.67,1,11,20,LAC,CHI,block,6,True,False,block,block,0-0,0,0
+0021800723,2019-01-25,CHI,LAC,0.67,1,11,20,LAC,LAC,reb,0,False,False,,Clippers Rebound,0-0,0,0
 0021800723,2019-01-25,CHI,LAC,0.87,1,11,8,LAC,LAC,fg3_make,1,False,False,,Harris 25' 3PT Jump Shot (3 PTS) (Beverley 1 AST),0-3,0,3
 0021800723,2019-01-25,CHI,LAC,1.17,1,10,50,CHI,LAC,foul,2,False,False,,Gilgeous-Alexander S.FOUL (P1.T1) (J.Goldenberg),0-3,0,3
 0021800723,2019-01-25,CHI,LAC,1.17,1,10,50,CHI,CHI,ft_make,11,False,False,Hutchison Free Throw 1 of 2 (1 PTS),,1-3,1,3
@@ -90,9 +90,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800723,2019-01-25,CHI,LAC,8.3,1,3,42,LAC,CHI,ft_make,12,False,False,Markkanen Free Throw 2 of 2 (2 PTS),,11-17,11,17
 0021800723,2019-01-25,CHI,LAC,8.53,1,3,28,LAC,LAC,fg_make,79,False,False,,Harris 16' Pullup Jump Shot (11 PTS) (Williams 1 AST),11-19,11,19
 0021800723,2019-01-25,CHI,LAC,8.92,1,3,5,CHI,CHI,fg_miss,1,True,False,MISS Selden 9' Jump Shot,,11-19,11,19
-0021800723,2019-01-25,CHI,LAC,8.92,1,3,5,LAC,LAC,reb,0,False,False,,Clippers Rebound,11-19,11,19
-0021800723,2019-01-25,CHI,LAC,8.92,1,3,5,LAC,CHI,foul,3,False,False,Selden L.B.FOUL (P1.T3) (S.Foster),,11-19,11,19
 0021800723,2019-01-25,CHI,LAC,8.92,1,3,5,CHI,LAC,block,1,True,False,block,block,11-19,11,19
+0021800723,2019-01-25,CHI,LAC,8.92,1,3,5,LAC,CHI,foul,3,False,False,Selden L.B.FOUL (P1.T3) (S.Foster),,11-19,11,19
+0021800723,2019-01-25,CHI,LAC,8.92,1,3,5,LAC,LAC,reb,0,False,False,,Clippers Rebound,11-19,11,19
 0021800723,2019-01-25,CHI,LAC,9.22,1,2,47,LAC,LAC,fg_miss,1,False,False,,MISS Williams 4' Jump Shot,11-19,11,19
 0021800723,2019-01-25,CHI,LAC,9.28,1,2,43,LAC,LAC,reb,0,False,False,,Harrell REBOUND (Off:1 Def:0),11-19,11,19
 0021800723,2019-01-25,CHI,LAC,9.28,1,2,43,LAC,LAC,fg_miss,97,False,False,,MISS Harrell 1' Tip Layup Shot,11-19,11,19
@@ -215,8 +215,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800723,2019-01-25,CHI,LAC,23.37,2,0,38,CHI,CHI,fg_miss,97,False,False,MISS Hutchison 2' Tip Layup Shot,,56-52,56,52
 0021800723,2019-01-25,CHI,LAC,23.37,2,0,38,CHI,CHI,reb,0,False,False,Markkanen REBOUND (Off:1 Def:2),,56-52,56,52
 0021800723,2019-01-25,CHI,LAC,23.4,2,0,36,CHI,CHI,fg_miss,97,True,False,MISS Markkanen 2' Tip Layup Shot,,56-52,56,52
-0021800723,2019-01-25,CHI,LAC,23.4,2,0,36,LAC,LAC,reb,0,False,False,,Williams REBOUND (Off:0 Def:5),56-52,56,52
 0021800723,2019-01-25,CHI,LAC,23.4,2,0,36,CHI,LAC,block,97,True,False,block,block,56-52,56,52
+0021800723,2019-01-25,CHI,LAC,23.4,2,0,36,LAC,LAC,reb,0,False,False,,Williams REBOUND (Off:0 Def:5),56-52,56,52
 0021800723,2019-01-25,CHI,LAC,23.45,2,0,33,LAC,LAC,fg3_miss,1,False,False,,MISS Harris 25' 3PT Jump Shot,56-52,56,52
 0021800723,2019-01-25,CHI,LAC,23.5,2,0,30,CHI,CHI,reb,0,False,False,Dunn REBOUND (Off:0 Def:3),,56-52,56,52
 0021800723,2019-01-25,CHI,LAC,23.87,2,0,8,CHI,CHI,fg3_miss,1,False,False,MISS Hutchison 26' 3PT Jump Shot,,56-52,56,52
@@ -433,8 +433,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800723,2019-01-25,CHI,LAC,46.87,4,1,8,LAC,LAC,fg_miss,101,False,False,,MISS Williams 13' Driving Floating Jump Shot,99-100,99,100
 0021800723,2019-01-25,CHI,LAC,46.9,4,1,6,CHI,CHI,reb,0,False,False,Markkanen REBOUND (Off:3 Def:5),,99-100,99,100
 0021800723,2019-01-25,CHI,LAC,47.2,4,0,48,CHI,CHI,fg3_miss,1,False,False,MISS Hutchison 24' 3PT Jump Shot,,99-100,99,100
-0021800723,2019-01-25,CHI,LAC,47.2,4,0,48,CHI,CHI,reb,0,False,False,BULLS Rebound,,99-100,99,100
 0021800723,2019-01-25,CHI,LAC,47.2,4,0,48,CHI,CHI,tov,11,False,False,BULLS Turnover: Shot Clock (T#11),,99-100,99,100
+0021800723,2019-01-25,CHI,LAC,47.2,4,0,48,CHI,CHI,reb,0,False,False,BULLS Rebound,,99-100,99,100
 0021800723,2019-01-25,CHI,LAC,47.2,4,0,48,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.6 Short 0),99-100,99,100
 0021800723,2019-01-25,CHI,LAC,47.38,4,0,37,LAC,LAC,fg_make,101,False,False,,Beverley 8' Driving Floating Jump Shot (2 PTS) (Williams 9 AST),99-102,99,102
 0021800723,2019-01-25,CHI,LAC,47.42,4,0,35,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 7 Short 0),,99-102,99,102

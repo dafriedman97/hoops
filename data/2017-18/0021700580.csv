@@ -76,10 +76,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700580,2018-01-06,DET,HOU,11.58,1,0,25,DET,HOU,foul,2,False,False,,Gordon S.FOUL (P1.T3) (E.Malloy),29-36,29,36
 0021700580,2018-01-06,DET,HOU,11.58,1,0,25,DET,DET,ft_make,11,False,False,Harris Free Throw 1 of 2 (10 PTS),,30-36,30,36
 0021700580,2018-01-06,DET,HOU,11.58,1,0,25,DET,DET,ft_make,12,False,False,Harris Free Throw 2 of 2 (11 PTS),,31-36,31,36
-0021700580,2018-01-06,DET,HOU,11.98,1,0,1,HOU,HOU,ft_make,12,False,False,,Black Free Throw 2 of 2 (3 PTS),31-37,31,37
 0021700580,2018-01-06,DET,HOU,11.98,1,0,1,HOU,DET,foul,2,False,False,Moreland S.FOUL (P1.T4) (E.Malloy),,35-42,35,42
 0021700580,2018-01-06,DET,HOU,11.98,1,0,1,HOU,HOU,ft_miss,11,False,False,,MISS Black Free Throw 1 of 2,35-42,35,42
 0021700580,2018-01-06,DET,HOU,11.98,1,0,1,HOU,HOU,reb,1,False,False,,Rockets Rebound,35-42,35,42
+0021700580,2018-01-06,DET,HOU,11.98,1,0,1,HOU,HOU,ft_make,12,False,False,,Black Free Throw 2 of 2 (3 PTS),31-37,31,37
 0021700580,2018-01-06,DET,HOU,12.0,1,0,0,DET,DET,fg3_miss,1,False,False,MISS Buycks 66' 3PT Jump Shot,,31-37,31,37
 0021700580,2018-01-06,DET,HOU,12.0,1,0,0,DET,DET,reb,0,False,False,PISTONS Rebound,,31-37,31,37
 0021700580,2018-01-06,DET,HOU,12.0,1,0,0,DET,,period_end,0,False,False,,,31-37,31,37
@@ -189,8 +189,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700580,2018-01-06,DET,HOU,23.5,2,0,30,HOU,HOU,fg3_miss,1,False,False,,MISS Paul 26' 3PT Jump Shot,57-58,57,58
 0021700580,2018-01-06,DET,HOU,23.58,2,0,25,DET,DET,reb,0,False,False,Bullock REBOUND (Off:1 Def:1),,57-58,57,58
 0021700580,2018-01-06,DET,HOU,23.95,2,0,3,DET,DET,fg_miss,1,True,False,MISS Buycks 21' Jump Shot,,57-58,57,58
-0021700580,2018-01-06,DET,HOU,23.95,2,0,3,HOU,HOU,reb,0,False,False,,Paul REBOUND (Off:1 Def:3),57-58,57,58
 0021700580,2018-01-06,DET,HOU,23.95,2,0,3,DET,HOU,block,1,True,False,block,block,57-58,57,58
+0021700580,2018-01-06,DET,HOU,23.95,2,0,3,HOU,HOU,reb,0,False,False,,Paul REBOUND (Off:1 Def:3),57-58,57,58
 0021700580,2018-01-06,DET,HOU,24.0,2,0,0,HOU,HOU,fg3_miss,1,False,False,,MISS Paul 43' 3PT Jump Shot,57-58,57,58
 0021700580,2018-01-06,DET,HOU,24.0,2,0,0,HOU,HOU,reb,0,False,False,,Rockets Rebound,57-58,57,58
 0021700580,2018-01-06,DET,HOU,24.0,2,0,0,HOU,,period_end,0,False,False,,,57-58,57,58
@@ -210,8 +210,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700580,2018-01-06,DET,HOU,26.13,3,9,52,DET,DET,tov,2,False,True,Bradley Lost Ball Turnover (P2.T8),,60-61,60,61
 0021700580,2018-01-06,DET,HOU,26.13,3,9,52,DET,HOU,steal,2,False,True,steal,steal,60-61,60,61
 0021700580,2018-01-06,DET,HOU,26.2,3,9,48,HOU,HOU,fg_miss,5,True,False,,MISS Gordon 3' Layup,60-61,60,61
-0021700580,2018-01-06,DET,HOU,26.2,3,9,48,DET,DET,reb,0,False,False,PISTONS Rebound,,60-61,60,61
 0021700580,2018-01-06,DET,HOU,26.2,3,9,48,HOU,DET,block,5,True,False,block,block,60-61,60,61
+0021700580,2018-01-06,DET,HOU,26.2,3,9,48,DET,DET,reb,0,False,False,PISTONS Rebound,,60-61,60,61
 0021700580,2018-01-06,DET,HOU,26.42,3,9,35,DET,DET,fg_make,78,False,False,Smith 8' Floating Jump Shot (8 PTS),,62-61,62,61
 0021700580,2018-01-06,DET,HOU,26.5,3,9,30,HOU,DET,foul,1,False,False,Bullock P.FOUL (P2.T1) (M.Boland),,62-61,62,61
 0021700580,2018-01-06,DET,HOU,26.63,3,9,22,HOU,HOU,fg_make,5,False,False,,Capela 3' Layup (10 PTS) (Paul 10 AST),62-63,62,63
@@ -259,9 +259,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700580,2018-01-06,DET,HOU,31.88,3,4,7,HOU,HOU,fg_make,9,False,False,,Ariza 1' Driving Dunk (15 PTS) (Tucker 1 AST),75-67,75,67
 0021700580,2018-01-06,DET,HOU,32.13,3,3,52,DET,HOU,foul,1,False,False,,Ariza P.FOUL (P1.T2) (M.Boland),75-67,75,67
 0021700580,2018-01-06,DET,HOU,32.3,3,3,42,DET,DET,fg3_make,1,False,False,Buycks 27' 3PT Jump Shot (11 PTS) (Bradley 3 AST),,78-67,78,67
-0021700580,2018-01-06,DET,HOU,32.68,3,3,19,HOU,HOU,fg_make,105,False,False,,Green 13' Turnaround Fadeaway Bank Jump Shot (11 PTS) (Gordon 6 AST),78-69,78,69
 0021700580,2018-01-06,DET,HOU,32.68,3,3,19,HOU,DET,foul,2,False,False,Buycks S.FOUL (P2.T2) (M.Boland),,78-69,78,69
 0021700580,2018-01-06,DET,HOU,32.68,3,3,19,HOU,HOU,ft_make,10,False,False,,Green Free Throw 1 of 1 (12 PTS),78-70,78,70
+0021700580,2018-01-06,DET,HOU,32.68,3,3,19,HOU,HOU,fg_make,105,False,False,,Green 13' Turnaround Fadeaway Bank Jump Shot (11 PTS) (Gordon 6 AST),78-69,78,69
 0021700580,2018-01-06,DET,HOU,32.97,3,3,2,DET,HOU,foul,2,False,False,,Tucker S.FOUL (P2.T3) (M.Boland),78-70,78,70
 0021700580,2018-01-06,DET,HOU,32.97,3,3,2,DET,DET,ft_make,11,False,False,Harris Free Throw 1 of 2 (22 PTS),,79-70,79,70
 0021700580,2018-01-06,DET,HOU,32.97,3,3,2,DET,DET,ft_make,12,False,False,Harris Free Throw 2 of 2 (23 PTS),,80-70,80,70
@@ -337,8 +337,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700580,2018-01-06,DET,HOU,41.27,4,6,44,DET,DET,reb,0,False,False,PISTONS Rebound,,96-84,96,84
 0021700580,2018-01-06,DET,HOU,41.27,4,6,44,DET,HOU,foul,1,False,False,,Ariza P.FOUL (P2.T4) (J.Van Duyne),96-84,96,84
 0021700580,2018-01-06,DET,HOU,41.42,4,6,35,DET,DET,fg_miss,6,True,False,MISS Buycks 4' Driving Layup,,96-84,96,84
-0021700580,2018-01-06,DET,HOU,41.42,4,6,35,DET,DET,reb,0,False,False,PISTONS Rebound,,96-84,96,84
 0021700580,2018-01-06,DET,HOU,41.42,4,6,35,DET,HOU,block,6,True,False,block,block,96-84,96,84
+0021700580,2018-01-06,DET,HOU,41.42,4,6,35,DET,DET,reb,0,False,False,PISTONS Rebound,,96-84,96,84
 0021700580,2018-01-06,DET,HOU,41.58,4,6,25,DET,DET,tov,9,False,False,PISTONS Turnover: 5 Second Violation (T#11),,96-84,96,84
 0021700580,2018-01-06,DET,HOU,41.77,4,6,14,HOU,HOU,fg3_miss,1,False,False,,MISS Green 3PT Jump Shot,96-84,96,84
 0021700580,2018-01-06,DET,HOU,41.77,4,6,14,DET,DET,reb,0,False,False,PISTONS Rebound,,96-84,96,84

@@ -31,8 +31,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000729,2021-03-31,LAL,MIL,3.48,1,8,31,MIL,LAL,foul,1,False,False,Morris P.FOUL (P1.T2) (T.Brothers),,8-9,8,9
 0022000729,2021-03-31,LAL,MIL,3.53,1,8,28,MIL,MIL,fg_make,52,False,False,,Antetokounmpo 1' Alley Oop Dunk (2 PTS) (Middleton 1 AST),8-11,8,11
 0022000729,2021-03-31,LAL,MIL,3.83,1,8,10,LAL,LAL,fg_miss,6,True,False,MISS Caldwell-Pope 4' Driving Layup,,8-11,8,11
-0022000729,2021-03-31,LAL,MIL,3.83,1,8,10,LAL,LAL,reb,0,False,False,LAKERS Rebound,,8-11,8,11
 0022000729,2021-03-31,LAL,MIL,3.83,1,8,10,LAL,MIL,block,6,True,False,block,block,8-11,8,11
+0022000729,2021-03-31,LAL,MIL,3.83,1,8,10,LAL,LAL,reb,0,False,False,LAKERS Rebound,,8-11,8,11
 0022000729,2021-03-31,LAL,MIL,3.95,1,8,3,LAL,LAL,fg3_make,79,False,False,Kuzma 26' 3PT Pullup Jump Shot (3 PTS),,11-11,11,11
 0022000729,2021-03-31,LAL,MIL,4.13,1,7,52,MIL,MIL,fg_miss,6,False,False,,MISS Middleton 2' Driving Layup,11-11,11,11
 0022000729,2021-03-31,LAL,MIL,4.15,1,7,51,LAL,LAL,reb,0,False,False,Drummond REBOUND (Off:0 Def:1),,11-11,11,11
@@ -76,8 +76,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000729,2021-03-31,LAL,MIL,9.0,1,3,0,LAL,LAL,reb,0,False,False,Caruso REBOUND (Off:0 Def:1),,23-18,23,18
 0022000729,2021-03-31,LAL,MIL,9.12,1,2,53,LAL,LAL,fg3_make,1,False,False,Morris 26' 3PT Jump Shot (9 PTS) (Schroder 2 AST),,26-18,26,18
 0022000729,2021-03-31,LAL,MIL,9.23,1,2,46,LAL,MIL,foul,4,False,False,,Diakite OFF.Foul (P1) (T.Washington),26-18,26,18
-0022000729,2021-03-31,LAL,MIL,9.23,1,2,46,MIL,MIL,tov,37,False,False,,Diakite Offensive Foul Turnover (P1.T3),26-18,26,18
 0022000729,2021-03-31,LAL,MIL,9.23,1,2,46,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 1 Short 0),,26-18,26,18
+0022000729,2021-03-31,LAL,MIL,9.23,1,2,46,MIL,MIL,tov,37,False,False,,Diakite Offensive Foul Turnover (P1.T3),26-18,26,18
 0022000729,2021-03-31,LAL,MIL,9.58,1,2,25,LAL,LAL,fg_make,79,False,False,Kuzma 10' Pullup Jump Shot (5 PTS),,28-18,28,18
 0022000729,2021-03-31,LAL,MIL,9.83,1,2,10,MIL,MIL,fg3_make,1,False,False,,Forbes 27' 3PT Jump Shot (3 PTS) (Lopez 1 AST),28-21,28,21
 0022000729,2021-03-31,LAL,MIL,10.03,1,1,58,LAL,LAL,fg_miss,79,False,False,MISS Caruso 15' Pullup Jump Shot,,28-21,28,21
@@ -108,9 +108,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000729,2021-03-31,LAL,MIL,13.15,2,10,51,LAL,LAL,reb,0,False,False,Harrell REBOUND (Off:0 Def:1),,30-26,30,26
 0022000729,2021-03-31,LAL,MIL,13.3,2,10,42,MIL,LAL,foul,26,False,False,Harrell Offensive Charge Foul (P1.T1) (T.Washington),,30-26,30,26
 0022000729,2021-03-31,LAL,MIL,13.3,2,10,42,LAL,LAL,tov,37,False,False,Harrell Offensive Foul Turnover (P2.T4),,30-26,30,26
+0022000729,2021-03-31,LAL,MIL,13.52,2,10,29,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 2 Short 0),,30-26,30,26
 0022000729,2021-03-31,LAL,MIL,13.52,2,10,29,LAL,MIL,foul,4,False,False,,Antetokounmpo OFF.Foul (P2) (T.Brothers),30-26,30,26
 0022000729,2021-03-31,LAL,MIL,13.52,2,10,29,MIL,MIL,tov,37,False,False,,Antetokounmpo Offensive Foul Turnover (P2.T7),30-26,30,26
-0022000729,2021-03-31,LAL,MIL,13.52,2,10,29,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 2 Short 0),,30-26,30,26
 0022000729,2021-03-31,LAL,MIL,13.93,2,10,4,LAL,LAL,fg_make,1,False,False,Harrell 12' Jump Shot (2 PTS) (Kuzma 3 AST),,32-26,32,26
 0022000729,2021-03-31,LAL,MIL,14.08,2,9,55,MIL,LAL,foul,2,False,False,Harrell S.FOUL (P2.T2) (S.Mehta),,32-26,32,26
 0022000729,2021-03-31,LAL,MIL,14.08,2,9,55,MIL,MIL,ft_miss,11,False,False,,MISS Antetokounmpo Free Throw 1 of 2,32-26,32,26
@@ -146,9 +146,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000729,2021-03-31,LAL,MIL,16.62,2,7,23,LAL,MIL,steal,2,False,True,steal,steal,37-33,37,33
 0022000729,2021-03-31,LAL,MIL,16.77,2,7,14,MIL,MIL,fg_make,73,False,False,,Middleton 2' Driving Reverse Layup (4 PTS),37-35,37,35
 0022000729,2021-03-31,LAL,MIL,17.15,2,6,51,LAL,LAL,fg_miss,1,True,False,MISS Schroder 14' Jump Shot,,37-35,37,35
+0022000729,2021-03-31,LAL,MIL,17.15,2,6,51,LAL,MIL,block,1,True,False,block,block,37-35,37,35
 0022000729,2021-03-31,LAL,MIL,17.15,2,6,51,LAL,LAL,reb,0,False,False,Harrell REBOUND (Off:1 Def:1),,37-35,37,35
 0022000729,2021-03-31,LAL,MIL,17.15,2,6,51,LAL,MIL,foul,2,False,False,,DiVincenzo S.FOUL (P1.T2) (T.Brothers),37-35,37,35
-0022000729,2021-03-31,LAL,MIL,17.15,2,6,51,LAL,MIL,block,1,True,False,block,block,37-35,37,35
 0022000729,2021-03-31,LAL,MIL,17.15,2,6,51,LAL,LAL,ft_make,11,False,False,Harrell Free Throw 1 of 2 (3 PTS),,38-35,38,35
 0022000729,2021-03-31,LAL,MIL,17.15,2,6,51,LAL,LAL,ft_make,12,False,False,Harrell Free Throw 2 of 2 (4 PTS),,39-35,39,35
 0022000729,2021-03-31,LAL,MIL,17.38,2,6,37,MIL,LAL,foul,1,False,False,Caruso P.FOUL (P1.PN) (T.Brothers),,39-35,39,35
@@ -176,8 +176,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000729,2021-03-31,LAL,MIL,19.97,2,4,2,MIL,LAL,ft_make,12,False,False,Morris Free Throw 2 of 2 (13 PTS),,45-43,45,43
 0022000729,2021-03-31,LAL,MIL,20.35,2,3,39,MIL,MIL,fg_make,9,False,False,,Antetokounmpo 2' Driving Dunk (6 PTS),45-45,45,45
 0022000729,2021-03-31,LAL,MIL,20.72,2,3,17,LAL,LAL,fg_miss,101,True,False,MISS Caldwell-Pope 4' Driving Floating Jump Shot,,45-45,45,45
-0022000729,2021-03-31,LAL,MIL,20.72,2,3,17,LAL,LAL,reb,0,False,False,LAKERS Rebound,,45-45,45,45
 0022000729,2021-03-31,LAL,MIL,20.72,2,3,17,LAL,MIL,block,101,True,False,block,block,45-45,45,45
+0022000729,2021-03-31,LAL,MIL,20.72,2,3,17,LAL,LAL,reb,0,False,False,LAKERS Rebound,,45-45,45,45
 0022000729,2021-03-31,LAL,MIL,20.82,2,3,11,LAL,LAL,fg_miss,1,False,False,MISS Drummond 14' Jump Shot,,45-45,45,45
 0022000729,2021-03-31,LAL,MIL,20.85,2,3,9,MIL,MIL,reb,0,False,False,,Holiday REBOUND (Off:0 Def:5),45-45,45,45
 0022000729,2021-03-31,LAL,MIL,21.05,2,2,57,MIL,MIL,fg_make,1,False,False,,Middleton 13' Jump Shot (11 PTS),45-47,45,47
@@ -373,8 +373,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000729,2021-03-31,LAL,MIL,40.2,4,7,48,MIL,MIL,tov,40,False,False,,Holiday Out of Bounds Lost Ball Turnover (P3.T19),82-96,82,96
 0022000729,2021-03-31,LAL,MIL,40.48,4,7,31,LAL,LAL,fg_make,5,False,False,Gasol 2' Layup (2 PTS) (Schroder 7 AST),,84-96,84,96
 0022000729,2021-03-31,LAL,MIL,40.72,4,7,17,MIL,MIL,fg_miss,6,True,False,,MISS Antetokounmpo 4' Driving Layup,84-96,84,96
-0022000729,2021-03-31,LAL,MIL,40.72,4,7,17,LAL,LAL,reb,0,False,False,LAKERS Rebound,,84-96,84,96
 0022000729,2021-03-31,LAL,MIL,40.72,4,7,17,MIL,LAL,block,6,True,False,block,block,84-96,84,96
+0022000729,2021-03-31,LAL,MIL,40.72,4,7,17,LAL,LAL,reb,0,False,False,LAKERS Rebound,,84-96,84,96
 0022000729,2021-03-31,LAL,MIL,40.97,4,7,2,LAL,LAL,fg3_miss,1,False,False,MISS Gasol 26' 3PT Jump Shot,,84-96,84,96
 0022000729,2021-03-31,LAL,MIL,41.02,4,6,59,MIL,MIL,reb,0,False,False,,Holiday REBOUND (Off:0 Def:6),84-96,84,96
 0022000729,2021-03-31,LAL,MIL,41.12,4,6,53,MIL,MIL,fg_miss,47,False,False,,MISS Holiday 11' Turnaround Jump Shot,84-96,84,96

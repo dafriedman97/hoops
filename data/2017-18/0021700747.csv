@@ -45,8 +45,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700747,2018-01-30,DET,CLE,5.33,1,6,40,DET,DET,fg_miss,78,False,False,MISS Drummond 6' Floating Jump Shot,,10-6,10,6
 0021700747,2018-01-30,DET,CLE,5.37,1,6,38,CLE,CLE,reb,0,False,False,,Smith REBOUND (Off:0 Def:2),10-6,10,6
 0021700747,2018-01-30,DET,CLE,5.47,1,6,32,CLE,CLE,fg_miss,5,True,False,,MISS Crowder 5' Layup,10-6,10,6
-0021700747,2018-01-30,DET,CLE,5.47,1,6,32,DET,DET,reb,0,False,False,Drummond REBOUND (Off:1 Def:4),,10-6,10,6
 0021700747,2018-01-30,DET,CLE,5.47,1,6,32,CLE,DET,block,5,True,False,block,block,10-6,10,6
+0021700747,2018-01-30,DET,CLE,5.47,1,6,32,DET,DET,reb,0,False,False,Drummond REBOUND (Off:1 Def:4),,10-6,10,6
 0021700747,2018-01-30,DET,CLE,5.55,1,6,27,DET,DET,fg_miss,5,False,False,MISS Johnson 2' Layup,,10-6,10,6
 0021700747,2018-01-30,DET,CLE,5.55,1,6,27,CLE,CLE,reb,0,False,False,,Thompson REBOUND (Off:1 Def:2),10-6,10,6
 0021700747,2018-01-30,DET,CLE,5.67,1,6,20,CLE,CLE,fg3_miss,1,False,False,,MISS Crowder 25' 3PT Jump Shot,10-6,10,6
@@ -249,8 +249,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700747,2018-01-30,DET,CLE,25.95,3,10,3,DET,DET,reb,0,False,False,Drummond REBOUND (Off:4 Def:7),,62-65,62,65
 0021700747,2018-01-30,DET,CLE,25.95,3,10,3,DET,DET,fg_make,97,False,False,Drummond 1' Tip Layup Shot (10 PTS),,64-65,64,65
 0021700747,2018-01-30,DET,CLE,26.35,3,9,39,CLE,CLE,fg3_miss,1,True,False,,MISS Thomas 3PT Jump Shot,64-65,64,65
-0021700747,2018-01-30,DET,CLE,26.35,3,9,39,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,64-65,64,65
 0021700747,2018-01-30,DET,CLE,26.35,3,9,39,CLE,DET,block,1,True,False,block,block,64-65,64,65
+0021700747,2018-01-30,DET,CLE,26.35,3,9,39,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,64-65,64,65
 0021700747,2018-01-30,DET,CLE,26.37,3,9,38,CLE,CLE,fg_miss,1,False,False,,MISS Thompson 18' Jump Shot,64-65,64,65
 0021700747,2018-01-30,DET,CLE,26.37,3,9,38,DET,DET,reb,0,False,False,Bullock REBOUND (Off:0 Def:2),,64-65,64,65
 0021700747,2018-01-30,DET,CLE,26.65,3,9,21,DET,DET,fg_make,6,False,False,Johnson 1' Driving Layup (16 PTS) (Tolliver 3 AST),,66-65,66,65
@@ -341,9 +341,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700747,2018-01-30,DET,CLE,35.47,3,0,32,DET,DET,reb,0,False,False,Drummond REBOUND (Off:4 Def:14),,89-84,89,84
 0021700747,2018-01-30,DET,CLE,35.68,3,0,19,DET,DET,tov,45,False,False,Kennard Out of Bounds - Bad Pass Turnover Turnover (P1.T9),,89-84,89,84
 0021700747,2018-01-30,DET,CLE,36.0,3,0,0,CLE,CLE,tov,1,False,True,,James Bad Pass Turnover (P1.T10),89-84,89,84
+0021700747,2018-01-30,DET,CLE,36.0,3,0,0,CLE,DET,steal,1,False,True,steal,steal,89-84,89,84
 0021700747,2018-01-30,DET,CLE,36.0,3,0,0,CLE,,period_end,0,False,False,,,89-84,89,84
 0021700747,2018-01-30,DET,CLE,36.0,4,12,0,CLE,,period_start,0,False,False,,,89-84,89,84
-0021700747,2018-01-30,DET,CLE,36.0,3,0,0,CLE,DET,steal,1,False,True,steal,steal,89-84,89,84
 0021700747,2018-01-30,DET,CLE,36.15,4,11,51,DET,DET,fg3_miss,1,False,False,MISS Galloway 24' 3PT Jump Shot,,89-84,89,84
 0021700747,2018-01-30,DET,CLE,36.25,4,11,45,DET,DET,reb,0,False,False,PISTONS Rebound,,89-84,89,84
 0021700747,2018-01-30,DET,CLE,36.25,4,11,45,DET,CLE,foul,3,False,False,,Frye L.B.FOUL (P1.T1) (G.Petraitis),89-84,89,84
@@ -416,8 +416,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700747,2018-01-30,DET,CLE,43.42,4,4,35,DET,DET,fg3_miss,1,False,False,MISS Tolliver 25' 3PT Jump Shot,,111-104,111,104
 0021700747,2018-01-30,DET,CLE,43.5,4,4,30,CLE,CLE,reb,0,False,False,,Thomas REBOUND (Off:0 Def:3),111-104,111,104
 0021700747,2018-01-30,DET,CLE,43.77,4,4,14,CLE,CLE,tov,1,False,True,,James Bad Pass Turnover (P2.T12),111-104,111,104
-0021700747,2018-01-30,DET,CLE,43.77,4,4,14,DET,CLE,foul,1,False,False,,Frye P.FOUL (P3.PN) (D.Collins),111-104,111,104
 0021700747,2018-01-30,DET,CLE,43.77,4,4,14,CLE,DET,steal,1,False,True,steal,steal,111-104,111,104
+0021700747,2018-01-30,DET,CLE,43.77,4,4,14,DET,CLE,foul,1,False,False,,Frye P.FOUL (P3.PN) (D.Collins),111-104,111,104
 0021700747,2018-01-30,DET,CLE,43.77,4,4,14,DET,DET,ft_make,11,False,False,Smith Free Throw 1 of 2 (16 PTS),,112-104,112,104
 0021700747,2018-01-30,DET,CLE,43.77,4,4,14,DET,DET,ft_make,12,False,False,Smith Free Throw 2 of 2 (17 PTS),,113-104,113,104
 0021700747,2018-01-30,DET,CLE,43.92,4,4,5,CLE,CLE,fg3_miss,1,False,False,,MISS James 25' 3PT Jump Shot,113-104,113,104

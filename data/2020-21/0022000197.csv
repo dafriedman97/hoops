@@ -148,8 +148,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000197,2021-04-25,WAS,CLE,18.2,2,5,48,CLE,CLE,ft_make,11,False,False,,Garland Free Throw 1 of 2 (8 PTS),47-44,47,44
 0022000197,2021-04-25,WAS,CLE,18.2,2,5,48,CLE,CLE,ft_make,12,False,False,,Garland Free Throw 2 of 2 (9 PTS),47-45,47,45
 0022000197,2021-04-25,WAS,CLE,18.48,2,5,31,WAS,WAS,tov,2,False,True,Beal Lost Ball Turnover (P1.T5),,47-45,47,45
-0022000197,2021-04-25,WAS,CLE,18.48,2,5,31,CLE,WAS,foul,28,False,False,Beal Personal Take Foul (P2.PN) (G.Petraitis),,47-45,47,45
 0022000197,2021-04-25,WAS,CLE,18.48,2,5,31,WAS,CLE,steal,2,False,True,steal,steal,47-45,47,45
+0022000197,2021-04-25,WAS,CLE,18.48,2,5,31,CLE,WAS,foul,28,False,False,Beal Personal Take Foul (P2.PN) (G.Petraitis),,47-45,47,45
 0022000197,2021-04-25,WAS,CLE,18.48,2,5,31,CLE,CLE,ft_make,11,False,False,,Garland Free Throw 1 of 2 (10 PTS),47-46,47,46
 0022000197,2021-04-25,WAS,CLE,18.48,2,5,31,CLE,CLE,ft_make,12,False,False,,Garland Free Throw 2 of 2 (11 PTS),47-47,47,47
 0022000197,2021-04-25,WAS,CLE,18.68,2,5,19,WAS,WAS,fg_miss,73,False,False,MISS Beal 3' Driving Reverse Layup,,47-47,47,47
@@ -217,10 +217,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000197,2021-04-25,WAS,CLE,23.93,2,0,4,CLE,WAS,steal,2,False,True,steal,steal,63-60,63,60
 0022000197,2021-04-25,WAS,CLE,24.0,2,0,0,WAS,WAS,fg_miss,98,False,False,MISS Bertans 5' Cutting Layup Shot,,63-60,63,60
 0022000197,2021-04-25,WAS,CLE,24.0,2,0,0,WAS,WAS,reb,0,False,False,Beal REBOUND (Off:2 Def:1),,63-60,63,60
-0022000197,2021-04-25,WAS,CLE,24.0,2,0,0,WAS,WAS,fg_miss,97,False,False,MISS Beal 4' Tip Layup Shot,,63-60,63,60
-0022000197,2021-04-25,WAS,CLE,24.0,2,0,0,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,63-60,63,60
 0022000197,2021-04-25,WAS,CLE,24.0,2,0,0,WAS,,period_end,0,False,False,,,63-60,63,60
 0022000197,2021-04-25,WAS,CLE,24.0,3,12,0,WAS,,period_start,0,False,False,,,63-60,63,60
+0022000197,2021-04-25,WAS,CLE,24.0,2,0,0,WAS,WAS,fg_miss,97,False,False,MISS Beal 4' Tip Layup Shot,,63-60,63,60
+0022000197,2021-04-25,WAS,CLE,24.0,2,0,0,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,63-60,63,60
 0022000197,2021-04-25,WAS,CLE,24.28,3,11,43,WAS,WAS,fg_miss,79,False,False,MISS Beal 14' Pullup Jump Shot,,63-60,63,60
 0022000197,2021-04-25,WAS,CLE,24.33,3,11,40,CLE,CLE,reb,0,False,False,,Love REBOUND (Off:0 Def:3),63-60,63,60
 0022000197,2021-04-25,WAS,CLE,24.45,3,11,33,CLE,CLE,fg3_make,1,False,False,,Love 27' 3PT Jump Shot (9 PTS) (Garland 7 AST),63-63,63,63
@@ -300,8 +300,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000197,2021-04-25,WAS,CLE,33.93,3,2,4,CLE,WAS,block,6,True,False,block,block,85-89,85,89
 0022000197,2021-04-25,WAS,CLE,33.95,3,2,3,CLE,CLE,reb,0,False,False,,Allen REBOUND (Off:7 Def:4),85-89,85,89
 0022000197,2021-04-25,WAS,CLE,33.95,3,2,3,CLE,CLE,fg_miss,107,True,False,,MISS Allen 1' Tip Dunk Shot,85-89,85,89
-0022000197,2021-04-25,WAS,CLE,33.95,3,2,3,WAS,WAS,reb,0,False,False,Bertans REBOUND (Off:0 Def:2),,85-89,85,89
 0022000197,2021-04-25,WAS,CLE,33.95,3,2,3,CLE,WAS,block,107,True,False,block,block,85-89,85,89
+0022000197,2021-04-25,WAS,CLE,33.95,3,2,3,WAS,WAS,reb,0,False,False,Bertans REBOUND (Off:0 Def:2),,85-89,85,89
 0022000197,2021-04-25,WAS,CLE,33.97,3,2,2,WAS,CLE,foul,1,False,False,,Dellavedova P.FOUL (P2.T3) (M.Dagher),85-89,85,89
 0022000197,2021-04-25,WAS,CLE,33.97,3,2,2,CLE,CLE,timeout,1,False,False,,Cavaliers Timeout: Regular (Reg.3 Short 0),85-89,85,89
 0022000197,2021-04-25,WAS,CLE,34.28,3,1,43,WAS,WAS,fg_miss,3,False,False,MISS Gafford 4' Hook Shot,,85-89,85,89

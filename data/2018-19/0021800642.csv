@@ -71,8 +71,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800642,2019-01-13,DAL,GSW,8.2,1,3,48,GSW,GSW,fg3_miss,1,False,False,,MISS Curry 25' 3PT Jump Shot,19-16,19,16
 0021800642,2019-01-13,DAL,GSW,8.25,1,3,45,DAL,DAL,reb,0,False,False,Matthews REBOUND (Off:1 Def:1),,19-16,19,16
 0021800642,2019-01-13,DAL,GSW,8.3,1,3,42,DAL,DAL,fg_miss,2,True,False,MISS Matthews 5' Running Jump Shot,,19-16,19,16
-0021800642,2019-01-13,DAL,GSW,8.3,1,3,42,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,19-16,19,16
 0021800642,2019-01-13,DAL,GSW,8.3,1,3,42,DAL,GSW,block,2,True,False,block,block,19-16,19,16
+0021800642,2019-01-13,DAL,GSW,8.3,1,3,42,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,19-16,19,16
 0021800642,2019-01-13,DAL,GSW,8.35,1,3,39,DAL,DAL,fg3_make,1,False,False,Matthews 26' 3PT Jump Shot (8 PTS) (Finney-Smith 1 AST),,22-16,22,16
 0021800642,2019-01-13,DAL,GSW,8.52,1,3,29,GSW,GSW,fg3_make,79,False,False,,Curry 25' 3PT Pullup Jump Shot (13 PTS),22-19,22,19
 0021800642,2019-01-13,DAL,GSW,8.88,1,3,7,DAL,DAL,fg_miss,47,False,False,MISS Barnes 12' Turnaround Jump Shot,,22-19,22,19
@@ -203,8 +203,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800642,2019-01-13,DAL,GSW,22.65,2,1,21,DAL,DAL,fg3_miss,1,False,False,MISS Barnes 25' 3PT Jump Shot,,52-57,52,57
 0021800642,2019-01-13,DAL,GSW,22.7,2,1,18,DAL,DAL,reb,0,False,False,Kleber REBOUND (Off:1 Def:2),,52-57,52,57
 0021800642,2019-01-13,DAL,GSW,22.7,2,1,18,DAL,DAL,fg_miss,72,True,False,MISS Kleber 1' Putback Layup,,52-57,52,57
-0021800642,2019-01-13,DAL,GSW,22.7,2,1,18,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:1 Def:3),52-57,52,57
 0021800642,2019-01-13,DAL,GSW,22.7,2,1,18,DAL,GSW,block,72,True,False,block,block,52-57,52,57
+0021800642,2019-01-13,DAL,GSW,22.7,2,1,18,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:1 Def:3),52-57,52,57
 0021800642,2019-01-13,DAL,GSW,22.88,2,1,7,GSW,DAL,foul,2,False,False,Kleber S.FOUL (P2.PN) (J.Goble),,52-57,52,57
 0021800642,2019-01-13,DAL,GSW,22.88,2,1,7,GSW,GSW,ft_make,11,False,False,,Durant Free Throw 1 of 2 (16 PTS),52-58,52,58
 0021800642,2019-01-13,DAL,GSW,22.88,2,1,7,GSW,GSW,ft_make,12,False,False,,Durant Free Throw 2 of 2 (17 PTS),52-59,52,59
@@ -272,8 +272,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800642,2019-01-13,DAL,GSW,30.42,3,5,35,GSW,GSW,reb,0,False,False,,Warriors Rebound,75-80,75,80
 0021800642,2019-01-13,DAL,GSW,30.42,3,5,35,GSW,DAL,foul,3,False,False,Jordan L.B.FOUL (P1.T2) (E.Malloy),,75-80,75,80
 0021800642,2019-01-13,DAL,GSW,30.68,3,5,19,GSW,GSW,fg_miss,9,True,False,,MISS Bell 6' Driving Dunk,75-80,75,80
-0021800642,2019-01-13,DAL,GSW,30.68,3,5,19,DAL,DAL,reb,0,False,False,Barnes REBOUND (Off:0 Def:4),,75-80,75,80
 0021800642,2019-01-13,DAL,GSW,30.68,3,5,19,GSW,DAL,block,9,True,False,block,block,75-80,75,80
+0021800642,2019-01-13,DAL,GSW,30.68,3,5,19,DAL,DAL,reb,0,False,False,Barnes REBOUND (Off:0 Def:4),,75-80,75,80
 0021800642,2019-01-13,DAL,GSW,30.8,3,5,12,DAL,DAL,fg_miss,101,False,False,MISS Matthews 8' Driving Floating Jump Shot,,75-80,75,80
 0021800642,2019-01-13,DAL,GSW,30.8,3,5,12,DAL,DAL,reb,0,False,False,Jordan REBOUND (Off:5 Def:5),,75-80,75,80
 0021800642,2019-01-13,DAL,GSW,30.8,3,5,12,DAL,DAL,fg_make,107,False,False,Jordan 1' Tip Dunk Shot (8 PTS),,77-80,77,80
@@ -286,9 +286,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800642,2019-01-13,DAL,GSW,31.77,3,4,14,GSW,GSW,reb,0,False,False,,Iguodala REBOUND (Off:1 Def:1),77-80,77,80
 0021800642,2019-01-13,DAL,GSW,31.77,3,4,14,GSW,GSW,fg_make,107,False,False,,Iguodala 1' Tip Dunk Shot (5 PTS),77-82,77,82
 0021800642,2019-01-13,DAL,GSW,31.95,3,4,3,DAL,DAL,fg_miss,6,True,False,MISS Brunson 1' Driving Layup,,77-82,77,82
+0021800642,2019-01-13,DAL,GSW,31.95,3,4,3,DAL,GSW,block,6,True,False,block,block,77-82,77,82
 0021800642,2019-01-13,DAL,GSW,31.95,3,4,3,GSW,GSW,reb,0,False,False,,Curry REBOUND (Off:3 Def:2),77-82,77,82
 0021800642,2019-01-13,DAL,GSW,31.95,3,4,3,GSW,DAL,foul,28,False,False,Jordan Personal Take Foul (P2.T3) (J.Goble),,77-82,77,82
-0021800642,2019-01-13,DAL,GSW,31.95,3,4,3,DAL,GSW,block,6,True,False,block,block,77-82,77,82
 0021800642,2019-01-13,DAL,GSW,32.32,3,3,41,GSW,GSW,fg_make,101,False,False,,Curry 8' Driving Floating Jump Shot (32 PTS),77-84,77,84
 0021800642,2019-01-13,DAL,GSW,32.45,3,3,33,DAL,GSW,foul,1,False,False,,Curry P.FOUL (P2.PN) (E.Malloy),77-84,77,84
 0021800642,2019-01-13,DAL,GSW,32.45,3,3,33,DAL,DAL,ft_make,11,False,False,Brunson Free Throw 1 of 2 (9 PTS),,78-84,78,84
@@ -417,8 +417,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800642,2019-01-13,DAL,GSW,44.98,4,3,1,GSW,GSW,reb,0,False,False,,Curry REBOUND (Off:3 Def:3),113-108,113,108
 0021800642,2019-01-13,DAL,GSW,45.05,4,2,57,GSW,DAL,foul,1,False,False,Brunson P.FOUL (P4.T4) (J.Goble),,113-108,113,108
 0021800642,2019-01-13,DAL,GSW,45.18,4,2,49,GSW,GSW,fg_miss,5,True,False,,MISS Durant 2' Layup,113-108,113,108
-0021800642,2019-01-13,DAL,GSW,45.18,4,2,49,GSW,GSW,reb,0,False,False,,Warriors Rebound,113-108,113,108
 0021800642,2019-01-13,DAL,GSW,45.18,4,2,49,GSW,DAL,block,5,True,False,block,block,113-108,113,108
+0021800642,2019-01-13,DAL,GSW,45.18,4,2,49,GSW,GSW,reb,0,False,False,,Warriors Rebound,113-108,113,108
 0021800642,2019-01-13,DAL,GSW,45.25,4,2,45,GSW,GSW,fg_make,63,False,False,,Durant 13' Fadeaway Jumper (28 PTS),113-110,113,110
 0021800642,2019-01-13,DAL,GSW,45.52,4,2,29,DAL,DAL,fg_miss,102,False,False,MISS Doncic 5' Driving Floating Bank Jump Shot,,113-110,113,110
 0021800642,2019-01-13,DAL,GSW,45.55,4,2,27,DAL,DAL,reb,0,False,False,Jordan REBOUND (Off:6 Def:7),,113-110,113,110

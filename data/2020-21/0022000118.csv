@@ -19,8 +19,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000118,2021-01-07,BKN,PHI,2.77,1,9,14,BKN,BKN,fg_miss,6,False,False,MISS LeVert 2' Driving Layup,,10-2,10,2
 0022000118,2021-01-07,BKN,PHI,2.8,1,9,12,BKN,BKN,reb,0,False,False,Allen REBOUND (Off:1 Def:1),,10-2,10,2
 0022000118,2021-01-07,BKN,PHI,2.82,1,9,11,BKN,BKN,fg_miss,72,True,False,MISS Allen 1' Putback Layup,,10-2,10,2
-0022000118,2021-01-07,BKN,PHI,2.82,1,9,11,PHI,PHI,reb,0,False,False,,Green REBOUND (Off:0 Def:2),10-2,10,2
 0022000118,2021-01-07,BKN,PHI,2.82,1,9,11,BKN,PHI,block,72,True,False,block,block,10-2,10,2
+0022000118,2021-01-07,BKN,PHI,2.82,1,9,11,PHI,PHI,reb,0,False,False,,Green REBOUND (Off:0 Def:2),10-2,10,2
 0022000118,2021-01-07,BKN,PHI,2.87,1,9,8,PHI,PHI,fg_make,6,False,False,,Milton 1' Driving Layup (2 PTS) (Green 1 AST),10-4,10,4
 0022000118,2021-01-07,BKN,PHI,2.87,1,9,8,PHI,BKN,foul,2,False,False,Brown S.FOUL (P1.T1) (L.Wood),,10-4,10,4
 0022000118,2021-01-07,BKN,PHI,2.87,1,9,8,PHI,PHI,ft_make,10,False,False,,Milton Free Throw 1 of 1 (3 PTS),10-5,10,5
@@ -83,8 +83,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000118,2021-01-07,BKN,PHI,8.92,1,3,5,BKN,BKN,tov,37,False,False,Allen Offensive Foul Turnover (P2.T4),,24-17,24,17
 0022000118,2021-01-07,BKN,PHI,8.92,1,3,5,PHI,PHI,timeout,1,False,False,,76ers Timeout: Regular (Reg.1 Short 0),24-17,24,17
 0022000118,2021-01-07,BKN,PHI,9.13,1,2,52,PHI,PHI,fg_miss,73,True,False,,MISS Simmons 3' Driving Reverse Layup,24-17,24,17
-0022000118,2021-01-07,BKN,PHI,9.13,1,2,52,BKN,BKN,reb,0,False,False,Harris REBOUND (Off:0 Def:1),,24-17,24,17
 0022000118,2021-01-07,BKN,PHI,9.13,1,2,52,PHI,BKN,block,73,True,False,block,block,24-17,24,17
+0022000118,2021-01-07,BKN,PHI,9.13,1,2,52,BKN,BKN,reb,0,False,False,Harris REBOUND (Off:0 Def:1),,24-17,24,17
 0022000118,2021-01-07,BKN,PHI,9.25,1,2,45,PHI,BKN,foul,4,False,False,Jordan OFF.Foul (P1) (S.Foster),,24-17,24,17
 0022000118,2021-01-07,BKN,PHI,9.25,1,2,45,BKN,BKN,tov,37,False,False,Jordan Offensive Foul Turnover (P1.T5),,24-17,24,17
 0022000118,2021-01-07,BKN,PHI,9.37,1,2,38,PHI,BKN,foul,1,False,False,Shamet P.FOUL (P1.T3) (L.Wood),,24-17,24,17
@@ -132,9 +132,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000118,2021-01-07,BKN,PHI,13.25,2,10,45,PHI,PHI,reb,0,False,False,,Maxey REBOUND (Off:0 Def:2),28-30,28,30
 0022000118,2021-01-07,BKN,PHI,13.37,2,10,38,PHI,PHI,fg_make,6,False,False,,Milton Driving Layup (11 PTS),28-32,28,32
 0022000118,2021-01-07,BKN,PHI,13.6,2,10,24,BKN,BKN,fg3_miss,1,True,False,MISS Harris 25' 3PT Jump Shot,,28-32,28,32
+0022000118,2021-01-07,BKN,PHI,13.6,2,10,24,BKN,PHI,block,1,True,False,block,block,28-32,28,32
 0022000118,2021-01-07,BKN,PHI,13.6,2,10,24,BKN,BKN,reb,0,False,False,NETS Rebound,,28-32,28,32
 0022000118,2021-01-07,BKN,PHI,13.6,2,10,24,BKN,PHI,foul,3,False,False,,Howard L.B.FOUL (P1.T1) (S.Foster),28-32,28,32
-0022000118,2021-01-07,BKN,PHI,13.6,2,10,24,BKN,PHI,block,1,True,False,block,block,28-32,28,32
 0022000118,2021-01-07,BKN,PHI,13.68,2,10,19,BKN,BKN,fg3_make,1,False,False,Harris 27' 3PT Jump Shot (3 PTS) (Jordan 1 AST),,31-32,31,32
 0022000118,2021-01-07,BKN,PHI,13.98,2,10,1,PHI,PHI,fg_make,52,False,False,,Howard Alley Oop Dunk (2 PTS) (Milton 2 AST),31-34,31,34
 0022000118,2021-01-07,BKN,PHI,14.27,2,9,44,BKN,BKN,fg3_make,1,False,False,Harris 25' 3PT Jump Shot (6 PTS) (Chiozza 2 AST),,34-34,34,34
@@ -148,8 +148,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000118,2021-01-07,BKN,PHI,15.43,2,8,34,PHI,BKN,block,6,True,False,block,block,38-34,38,34
 0022000118,2021-01-07,BKN,PHI,15.48,2,8,31,BKN,BKN,reb,0,False,False,Jordan REBOUND (Off:1 Def:4),,38-34,38,34
 0022000118,2021-01-07,BKN,PHI,15.63,2,8,22,BKN,BKN,fg_miss,98,True,False,MISS Jordan 2' Cutting Layup Shot,,38-34,38,34
-0022000118,2021-01-07,BKN,PHI,15.63,2,8,22,BKN,BKN,reb,0,False,False,NETS Rebound,,38-34,38,34
 0022000118,2021-01-07,BKN,PHI,15.63,2,8,22,BKN,PHI,block,98,True,False,block,block,38-34,38,34
+0022000118,2021-01-07,BKN,PHI,15.63,2,8,22,BKN,BKN,reb,0,False,False,NETS Rebound,,38-34,38,34
 0022000118,2021-01-07,BKN,PHI,15.65,2,8,21,BKN,PHI,foul,2,False,False,,Thybulle S.FOUL (P1.T2) (S.Foster),38-34,38,34
 0022000118,2021-01-07,BKN,PHI,15.65,2,8,21,BKN,BKN,ft_miss,11,False,False,MISS Harris Free Throw 1 of 2,,38-34,38,34
 0022000118,2021-01-07,BKN,PHI,15.65,2,8,21,BKN,BKN,reb,1,False,False,NETS Rebound,,38-34,38,34
@@ -311,8 +311,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000118,2021-01-07,BKN,PHI,30.48,3,5,31,PHI,PHI,tov,37,False,False,,Embiid Offensive Foul Turnover (P3.T15),79-70,79,70
 0022000118,2021-01-07,BKN,PHI,30.67,3,5,20,BKN,BKN,fg3_make,1,False,False,Luwawu-Cabarrot 25' 3PT Jump Shot (3 PTS) (Harris 3 AST),,82-70,82,70
 0022000118,2021-01-07,BKN,PHI,31.12,3,4,53,PHI,PHI,fg_miss,6,True,False,,MISS Simmons 9' Driving Layup,82-70,82,70
-0022000118,2021-01-07,BKN,PHI,31.12,3,4,53,BKN,BKN,reb,0,False,False,NETS Rebound,,82-70,82,70
 0022000118,2021-01-07,BKN,PHI,31.12,3,4,53,PHI,BKN,block,6,True,False,block,block,82-70,82,70
+0022000118,2021-01-07,BKN,PHI,31.12,3,4,53,BKN,BKN,reb,0,False,False,NETS Rebound,,82-70,82,70
 0022000118,2021-01-07,BKN,PHI,31.2,3,4,48,BKN,BKN,fg3_make,1,False,False,Luwawu-Cabarrot 25' 3PT Jump Shot (6 PTS) (LeVert 8 AST),,85-70,85,70
 0022000118,2021-01-07,BKN,PHI,31.22,3,4,47,PHI,PHI,timeout,1,False,False,,76ers Timeout: Regular (Reg.4 Short 0),85-70,85,70
 0022000118,2021-01-07,BKN,PHI,31.5,3,4,30,PHI,PHI,tov,1,False,True,,Embiid Bad Pass Turnover (P4.T16),85-70,85,70
@@ -321,8 +321,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000118,2021-01-07,BKN,PHI,31.55,3,4,27,BKN,PHI,foul,2,False,False,,Harris S.FOUL (P4.T3) (A.Smith),87-70,87,70
 0022000118,2021-01-07,BKN,PHI,31.55,3,4,27,BKN,BKN,ft_make,10,False,False,Prince Free Throw 1 of 1 (13 PTS),,88-70,88,70
 0022000118,2021-01-07,BKN,PHI,31.7,3,4,18,PHI,PHI,fg_miss,6,True,False,,MISS Embiid 3' Driving Layup,88-70,88,70
-0022000118,2021-01-07,BKN,PHI,31.7,3,4,18,PHI,PHI,reb,0,False,False,,76ers Rebound,88-70,88,70
 0022000118,2021-01-07,BKN,PHI,31.7,3,4,18,PHI,BKN,block,6,True,False,block,block,88-70,88,70
+0022000118,2021-01-07,BKN,PHI,31.7,3,4,18,PHI,PHI,reb,0,False,False,,76ers Rebound,88-70,88,70
 0022000118,2021-01-07,BKN,PHI,31.73,3,4,16,PHI,PHI,fg_miss,1,False,False,,MISS Harris 12' Jump Shot,88-70,88,70
 0022000118,2021-01-07,BKN,PHI,31.78,3,4,13,BKN,BKN,reb,0,False,False,Harris REBOUND (Off:2 Def:3),,88-70,88,70
 0022000118,2021-01-07,BKN,PHI,32.07,3,3,56,BKN,BKN,fg_miss,63,False,False,MISS LeVert 7' Fadeaway Jumper,,88-70,88,70
@@ -355,8 +355,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000118,2021-01-07,BKN,PHI,34.42,3,1,35,PHI,PHI,reb,0,False,False,,76ers Rebound,92-76,92,76
 0022000118,2021-01-07,BKN,PHI,34.42,3,1,35,PHI,BKN,foul,3,False,False,Luwawu-Cabarrot L.B.FOUL (P1.T2) (L.Wood),,92-76,92,76
 0022000118,2021-01-07,BKN,PHI,34.58,3,1,25,PHI,PHI,fg_miss,98,True,False,,MISS Howard 3' Cutting Layup Shot,92-76,92,76
-0022000118,2021-01-07,BKN,PHI,34.58,3,1,25,PHI,PHI,reb,0,False,False,,76ers Rebound,92-76,92,76
 0022000118,2021-01-07,BKN,PHI,34.58,3,1,25,PHI,BKN,block,98,True,False,block,block,92-76,92,76
+0022000118,2021-01-07,BKN,PHI,34.58,3,1,25,PHI,PHI,reb,0,False,False,,76ers Rebound,92-76,92,76
 0022000118,2021-01-07,BKN,PHI,34.63,3,1,22,PHI,PHI,fg3_miss,79,False,False,,MISS Joe 26' 3PT Pullup Jump Shot,92-76,92,76
 0022000118,2021-01-07,BKN,PHI,34.72,3,1,17,BKN,BKN,reb,0,False,False,Jordan REBOUND (Off:2 Def:7),,92-76,92,76
 0022000118,2021-01-07,BKN,PHI,34.85,3,1,9,BKN,BKN,tov,2,False,True,Chiozza Lost Ball Turnover (P1.T10),,92-76,92,76

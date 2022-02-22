@@ -2,9 +2,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700701,2018-01-24,CHA,NOP,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
 0021700701,2018-01-24,CHA,NOP,0.0,1,12,0,,CHA,jump_ball,0,False,False,Jump Ball Howard vs. Davis: Tip to Cousins,,0-0,0,0
 0021700701,2018-01-24,CHA,NOP,0.43,1,11,34,NOP,NOP,fg_miss,5,True,False,,MISS Holiday 4' Layup,0-0,0,0
+0021700701,2018-01-24,CHA,NOP,0.43,1,11,34,NOP,CHA,block,5,True,False,block,block,0-0,0,0
 0021700701,2018-01-24,CHA,NOP,0.43,1,11,34,NOP,NOP,reb,0,False,False,,Pelicans Rebound,0-0,0,0
 0021700701,2018-01-24,CHA,NOP,0.43,1,11,34,NOP,NOP,tov,11,False,False,,Pelicans Turnover: Shot Clock (T#1),0-0,0,0
-0021700701,2018-01-24,CHA,NOP,0.43,1,11,34,NOP,CHA,block,5,True,False,block,block,0-0,0,0
 0021700701,2018-01-24,CHA,NOP,0.7,1,11,18,CHA,CHA,fg3_miss,1,False,False,MISS Williams 25' 3PT Jump Shot,,0-0,0,0
 0021700701,2018-01-24,CHA,NOP,0.78,1,11,13,NOP,NOP,reb,0,False,False,,Cousins REBOUND (Off:0 Def:1),0-0,0,0
 0021700701,2018-01-24,CHA,NOP,0.87,1,11,8,NOP,NOP,tov,1,False,True,,Cousins Bad Pass Turnover (P1.T2),0-0,0,0
@@ -13,8 +13,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700701,2018-01-24,CHA,NOP,1.13,1,10,52,NOP,NOP,fg_miss,1,False,False,,MISS Holiday 20' Jump Shot,0-0,0,0
 0021700701,2018-01-24,CHA,NOP,1.18,1,10,49,CHA,CHA,reb,0,False,False,Williams REBOUND (Off:0 Def:1),,0-0,0,0
 0021700701,2018-01-24,CHA,NOP,1.32,1,10,41,CHA,CHA,fg_miss,1,True,False,MISS Howard 4' Jump Shot,,0-0,0,0
-0021700701,2018-01-24,CHA,NOP,1.32,1,10,41,NOP,NOP,reb,0,False,False,,Pelicans Rebound,0-0,0,0
 0021700701,2018-01-24,CHA,NOP,1.32,1,10,41,CHA,NOP,block,1,True,False,block,block,0-0,0,0
+0021700701,2018-01-24,CHA,NOP,1.32,1,10,41,NOP,NOP,reb,0,False,False,,Pelicans Rebound,0-0,0,0
 0021700701,2018-01-24,CHA,NOP,1.62,1,10,23,NOP,NOP,fg3_make,1,False,False,,Rondo 3PT Jump Shot (3 PTS) (Holiday 1 AST),0-3,0,3
 0021700701,2018-01-24,CHA,NOP,1.87,1,10,8,CHA,CHA,fg_miss,78,False,False,MISS Walker 13' Floating Jump Shot,,0-3,0,3
 0021700701,2018-01-24,CHA,NOP,1.92,1,10,5,NOP,NOP,reb,0,False,False,,Cousins REBOUND (Off:0 Def:2),0-3,0,3
@@ -83,11 +83,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700701,2018-01-24,CHA,NOP,6.83,1,5,10,CHA,CHA,fg_miss,97,False,False,MISS Batum 1' Tip Layup Shot,,13-14,13,14
 0021700701,2018-01-24,CHA,NOP,6.83,1,5,10,NOP,NOP,reb,0,False,False,,Cunningham REBOUND (Off:0 Def:1),13-14,13,14
 0021700701,2018-01-24,CHA,NOP,6.9,1,5,6,NOP,NOP,fg_miss,44,True,False,,MISS Rondo 2' Reverse Layup,13-14,13,14
-0021700701,2018-01-24,CHA,NOP,6.9,1,5,6,NOP,NOP,reb,0,False,False,,Rondo REBOUND (Off:1 Def:0),13-14,13,14
 0021700701,2018-01-24,CHA,NOP,6.9,1,5,6,NOP,CHA,block,44,True,False,block,block,13-14,13,14
+0021700701,2018-01-24,CHA,NOP,6.9,1,5,6,NOP,NOP,reb,0,False,False,,Rondo REBOUND (Off:1 Def:0),13-14,13,14
 0021700701,2018-01-24,CHA,NOP,7.0,1,5,0,NOP,NOP,fg_miss,5,True,False,,MISS Cunningham 1' Layup,13-14,13,14
-0021700701,2018-01-24,CHA,NOP,7.0,1,5,0,CHA,CHA,reb,0,False,False,Kidd-Gilchrist REBOUND (Off:0 Def:2),,13-14,13,14
 0021700701,2018-01-24,CHA,NOP,7.0,1,5,0,NOP,CHA,block,5,True,False,block,block,13-14,13,14
+0021700701,2018-01-24,CHA,NOP,7.0,1,5,0,CHA,CHA,reb,0,False,False,Kidd-Gilchrist REBOUND (Off:0 Def:2),,13-14,13,14
 0021700701,2018-01-24,CHA,NOP,7.17,1,4,50,CHA,CHA,fg3_make,1,False,False,Walker 26' 3PT Jump Shot (3 PTS) (Batum 2 AST),,16-14,16,14
 0021700701,2018-01-24,CHA,NOP,7.25,1,4,45,NOP,NOP,tov,1,False,True,,Moore Bad Pass Turnover (P1.T5),16-14,16,14
 0021700701,2018-01-24,CHA,NOP,7.25,1,4,45,NOP,CHA,steal,1,False,True,steal,steal,16-14,16,14
@@ -110,9 +110,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700701,2018-01-24,CHA,NOP,8.95,1,3,3,CHA,CHA,fg_make,5,False,False,Howard 2' Layup (10 PTS),,18-20,18,20
 0021700701,2018-01-24,CHA,NOP,9.12,1,2,53,NOP,NOP,fg_make,105,False,False,,Holiday 9' Turnaround Fadeaway Bank Jump Shot (4 PTS),18-22,18,22
 0021700701,2018-01-24,CHA,NOP,9.45,1,2,33,CHA,CHA,fg_miss,5,True,False,MISS Howard 4' Layup,,18-22,18,22
+0021700701,2018-01-24,CHA,NOP,9.45,1,2,33,CHA,NOP,block,5,True,False,block,block,18-22,18,22
 0021700701,2018-01-24,CHA,NOP,9.45,1,2,33,NOP,NOP,reb,0,False,False,,Pelicans Rebound,18-22,18,22
 0021700701,2018-01-24,CHA,NOP,9.45,1,2,33,NOP,NOP,timeout,1,False,False,,Pelicans Timeout: Regular (Reg.1 Short 0),18-22,18,22
-0021700701,2018-01-24,CHA,NOP,9.45,1,2,33,CHA,NOP,block,5,True,False,block,block,18-22,18,22
 0021700701,2018-01-24,CHA,NOP,9.72,1,2,17,,CHA,jump_ball,0,False,False,Jump Ball Howard vs. Davis: Tip to Cunningham,,18-22,18,22
 0021700701,2018-01-24,CHA,NOP,9.83,1,2,10,NOP,NOP,fg_make,63,False,False,,Davis 11' Fadeaway Jumper (10 PTS),18-24,18,24
 0021700701,2018-01-24,CHA,NOP,10.0,1,2,0,CHA,CHA,tov,36,False,False,Kaminsky Illegal Screen Turnover (P1.T4),,18-24,18,24
@@ -185,8 +185,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700701,2018-01-24,CHA,NOP,18.07,2,5,56,CHA,CHA,ft_make,12,False,False,Kaminsky Free Throw 2 of 2 (10 PTS),,39-39,39,39
 0021700701,2018-01-24,CHA,NOP,18.37,2,5,38,NOP,NOP,fg_make,1,False,False,,Miller 14' Jump Shot (5 PTS) (Davis 1 AST),39-41,39,41
 0021700701,2018-01-24,CHA,NOP,18.72,2,5,17,CHA,CHA,fg_miss,5,True,False,MISS Howard 5' Layup,,39-41,39,41
-0021700701,2018-01-24,CHA,NOP,18.72,2,5,17,CHA,CHA,reb,0,False,False,HORNETS Rebound,,39-41,39,41
 0021700701,2018-01-24,CHA,NOP,18.72,2,5,17,CHA,NOP,block,5,True,False,block,block,39-41,39,41
+0021700701,2018-01-24,CHA,NOP,18.72,2,5,17,CHA,CHA,reb,0,False,False,HORNETS Rebound,,39-41,39,41
 0021700701,2018-01-24,CHA,NOP,18.78,2,5,13,CHA,CHA,fg3_miss,1,False,False,MISS Walker 26' 3PT Jump Shot,,39-41,39,41
 0021700701,2018-01-24,CHA,NOP,18.78,2,5,13,CHA,CHA,reb,0,False,False,Howard REBOUND (Off:2 Def:1),,39-41,39,41
 0021700701,2018-01-24,CHA,NOP,18.87,2,5,8,CHA,CHA,fg_make,5,False,False,Howard 2' Layup (12 PTS),,41-41,41,41
@@ -217,10 +217,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700701,2018-01-24,CHA,NOP,22.0,2,2,0,CHA,CHA,reb,0,False,False,Howard REBOUND (Off:2 Def:4),,50-48,50,48
 0021700701,2018-01-24,CHA,NOP,22.08,2,1,55,CHA,NOP,foul,2,False,False,,Cousins S.FOUL (P3.PN) (D.Guthrie),50-48,50,48
 0021700701,2018-01-24,CHA,NOP,22.08,2,1,55,CHA,CHA,ft_miss,11,False,False,MISS Kidd-Gilchrist Free Throw 1 of 2,,50-48,50,48
-0021700701,2018-01-24,CHA,NOP,22.08,2,1,55,CHA,CHA,reb,1,False,False,HORNETS Rebound,,50-48,50,48
 0021700701,2018-01-24,CHA,NOP,22.08,2,1,55,CHA,NOP,foul,11,False,False,,Cousins T.FOUL (P3.PN) (J.DeRosa),50-48,50,48
 0021700701,2018-01-24,CHA,NOP,22.08,2,1,55,CHA,CHA,ft_make,16,False,False,Batum Free Throw Technical (4 PTS),,51-48,51,48
 0021700701,2018-01-24,CHA,NOP,22.08,2,1,55,CHA,CHA,ft_make,12,False,False,Kidd-Gilchrist Free Throw 2 of 2 (3 PTS),,52-48,52,48
+0021700701,2018-01-24,CHA,NOP,22.08,2,1,55,CHA,CHA,reb,1,False,False,HORNETS Rebound,,50-48,50,48
 0021700701,2018-01-24,CHA,NOP,22.45,2,1,33,NOP,NOP,fg3_make,1,False,False,,Moore 25' 3PT Jump Shot (3 PTS) (Holiday 4 AST),52-51,52,51
 0021700701,2018-01-24,CHA,NOP,22.5,2,1,30,CHA,CHA,tov,4,False,False,Kidd-Gilchrist Traveling Turnover (P1.T8),,52-51,52,51
 0021700701,2018-01-24,CHA,NOP,22.73,2,1,16,NOP,NOP,fg3_make,1,False,False,,Cunningham 24' 3PT Jump Shot (7 PTS) (Davis 2 AST),52-54,52,54
@@ -424,8 +424,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700701,2018-01-24,CHA,NOP,46.02,4,1,59,CHA,CHA,tov,45,False,False,Walker Out of Bounds - Bad Pass Turnover Turnover (P5.T13),,92-94,92,94
 0021700701,2018-01-24,CHA,NOP,46.2,4,1,48,NOP,NOP,fg_make,6,False,False,,Holiday 1' Driving Layup (17 PTS),92-96,92,96
 0021700701,2018-01-24,CHA,NOP,46.48,4,1,31,CHA,CHA,fg_miss,5,True,False,MISS Howard 3' Layup,,92-96,92,96
-0021700701,2018-01-24,CHA,NOP,46.48,4,1,31,CHA,CHA,reb,0,False,False,HORNETS Rebound,,92-96,92,96
 0021700701,2018-01-24,CHA,NOP,46.48,4,1,31,CHA,NOP,block,5,True,False,block,block,92-96,92,96
+0021700701,2018-01-24,CHA,NOP,46.48,4,1,31,CHA,CHA,reb,0,False,False,HORNETS Rebound,,92-96,92,96
 0021700701,2018-01-24,CHA,NOP,46.57,4,1,26,CHA,CHA,fg_miss,1,False,False,MISS Williams 21' Jump Shot,,92-96,92,96
 0021700701,2018-01-24,CHA,NOP,46.62,4,1,23,NOP,NOP,reb,0,False,False,,Davis REBOUND (Off:1 Def:4),92-96,92,96
 0021700701,2018-01-24,CHA,NOP,46.83,4,1,10,NOP,NOP,tov,4,False,False,,Cousins Traveling Turnover (P8.T16),92-96,92,96
@@ -434,9 +434,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700701,2018-01-24,CHA,NOP,47.33,4,0,40,NOP,NOP,fg_miss,5,False,False,,MISS Davis 3' Layup,95-96,95,96
 0021700701,2018-01-24,CHA,NOP,47.38,4,0,37,CHA,CHA,reb,0,False,False,Howard REBOUND (Off:3 Def:12),,95-96,95,96
 0021700701,2018-01-24,CHA,NOP,47.5,4,0,30,CHA,CHA,fg_miss,5,True,False,MISS Walker 2' Layup,,95-96,95,96
+0021700701,2018-01-24,CHA,NOP,47.5,4,0,30,CHA,NOP,block,5,True,False,block,block,95-96,95,96
 0021700701,2018-01-24,CHA,NOP,47.5,4,0,30,NOP,NOP,reb,0,False,False,,Cousins REBOUND (Off:1 Def:12),95-96,95,96
 0021700701,2018-01-24,CHA,NOP,47.5,4,0,30,NOP,CHA,foul,1,False,False,Williams P.FOUL (P4.PN) (J.DeRosa),,95-96,95,96
-0021700701,2018-01-24,CHA,NOP,47.5,4,0,30,CHA,NOP,block,5,True,False,block,block,95-96,95,96
 0021700701,2018-01-24,CHA,NOP,47.5,4,0,30,NOP,NOP,ft_make,11,False,False,,Holiday Free Throw 1 of 2 (18 PTS),95-97,95,97
 0021700701,2018-01-24,CHA,NOP,47.5,4,0,30,NOP,NOP,ft_make,12,False,False,,Holiday Free Throw 2 of 2 (19 PTS),95-98,95,98
 0021700701,2018-01-24,CHA,NOP,47.5,4,0,30,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 5 Short 0),,95-98,95,98

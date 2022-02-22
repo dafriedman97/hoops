@@ -173,8 +173,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900225,2019-11-23,MIN,PHX,18.23,2,5,46,MIN,MIN,ft_make,11,False,False,Towns Free Throw 1 of 2 (16 PTS),,35-40,35,40
 0021900225,2019-11-23,MIN,PHX,18.23,2,5,46,MIN,MIN,ft_make,12,False,False,Towns Free Throw 2 of 2 (17 PTS),,36-40,36,40
 0021900225,2019-11-23,MIN,PHX,18.52,2,5,29,PHX,PHX,fg_miss,6,True,False,,MISS Saric 4' Driving Layup,36-40,36,40
-0021900225,2019-11-23,MIN,PHX,18.52,2,5,29,PHX,PHX,reb,0,False,False,,Suns Rebound,36-40,36,40
 0021900225,2019-11-23,MIN,PHX,18.52,2,5,29,PHX,MIN,block,6,True,False,block,block,36-40,36,40
+0021900225,2019-11-23,MIN,PHX,18.52,2,5,29,PHX,PHX,reb,0,False,False,,Suns Rebound,36-40,36,40
 0021900225,2019-11-23,MIN,PHX,18.63,2,5,22,PHX,PHX,fg_miss,102,False,False,,MISS Johnson 14' Driving Floating Bank Jump Shot,36-40,36,40
 0021900225,2019-11-23,MIN,PHX,18.68,2,5,19,MIN,MIN,reb,0,False,False,Towns REBOUND (Off:1 Def:8),,36-40,36,40
 0021900225,2019-11-23,MIN,PHX,18.92,2,5,5,MIN,MIN,fg_miss,80,False,False,MISS Wiggins 20' Step Back Jump Shot,,36-40,36,40
@@ -209,8 +209,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900225,2019-11-23,MIN,PHX,21.8,2,2,12,MIN,MIN,tov,37,False,False,Wiggins Offensive Foul Turnover (P3.T8),,40-47,40,47
 0021900225,2019-11-23,MIN,PHX,21.95,2,2,3,PHX,PHX,tov,39,False,False,,Kaminsky Step Out of Bounds Turnover (P1.T4),40-47,40,47
 0021900225,2019-11-23,MIN,PHX,22.15,2,1,51,MIN,MIN,fg_miss,6,True,False,MISS Towns 3' Driving Layup,,40-47,40,47
-0021900225,2019-11-23,MIN,PHX,22.15,2,1,51,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,40-47,40,47
 0021900225,2019-11-23,MIN,PHX,22.15,2,1,51,MIN,PHX,block,6,True,False,block,block,40-47,40,47
+0021900225,2019-11-23,MIN,PHX,22.15,2,1,51,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,40-47,40,47
 0021900225,2019-11-23,MIN,PHX,22.27,2,1,44,MIN,MIN,fg_miss,75,False,False,MISS Wiggins 1' Driving Finger Roll Layup,,40-47,40,47
 0021900225,2019-11-23,MIN,PHX,22.32,2,1,41,PHX,PHX,reb,0,False,False,,Booker REBOUND (Off:3 Def:4),40-47,40,47
 0021900225,2019-11-23,MIN,PHX,22.33,2,1,40,PHX,MIN,foul,1,False,False,Wiggins P.FOUL (P2.PN) (S.Jelks),,40-47,40,47
@@ -359,8 +359,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900225,2019-11-23,MIN,PHX,38.13,4,9,52,MIN,MIN,fg_miss,6,False,False,MISS Culver 3' Driving Layup,,77-85,77,85
 0021900225,2019-11-23,MIN,PHX,38.17,4,9,50,PHX,PHX,reb,0,False,False,,Okobo REBOUND (Off:1 Def:5),77-85,77,85
 0021900225,2019-11-23,MIN,PHX,38.38,4,9,37,PHX,PHX,fg_miss,5,True,False,,MISS Oubre Jr. 3' Layup,77-85,77,85
-0021900225,2019-11-23,MIN,PHX,38.38,4,9,37,PHX,PHX,reb,0,False,False,,Suns Rebound,77-85,77,85
 0021900225,2019-11-23,MIN,PHX,38.38,4,9,37,PHX,MIN,block,5,True,False,block,block,77-85,77,85
+0021900225,2019-11-23,MIN,PHX,38.38,4,9,37,PHX,PHX,reb,0,False,False,,Suns Rebound,77-85,77,85
 0021900225,2019-11-23,MIN,PHX,38.57,4,9,26,PHX,PHX,fg_miss,5,True,False,,MISS Saric 3' Layup,77-85,77,85
 0021900225,2019-11-23,MIN,PHX,38.57,4,9,26,PHX,MIN,block,5,True,False,block,block,77-85,77,85
 0021900225,2019-11-23,MIN,PHX,38.63,4,9,22,MIN,MIN,reb,0,False,False,Teague REBOUND (Off:1 Def:4),,77-85,77,85
@@ -400,11 +400,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900225,2019-11-23,MIN,PHX,41.7,4,6,18,PHX,PHX,fg3_miss,1,False,False,,MISS Johnson 25' 3PT Jump Shot,83-90,83,90
 0021900225,2019-11-23,MIN,PHX,41.72,4,6,17,PHX,PHX,reb,0,False,False,,Saric REBOUND (Off:2 Def:3),83-90,83,90
 0021900225,2019-11-23,MIN,PHX,41.72,4,6,17,PHX,PHX,fg_miss,97,False,False,,MISS Saric 3' Tip Layup Shot,83-90,83,90
-0021900225,2019-11-23,MIN,PHX,41.73,4,6,16,MIN,MIN,reb,0,False,False,Bell REBOUND (Off:3 Def:4),,83-90,83,90
 0021900225,2019-11-23,MIN,PHX,41.73,4,6,16,MIN,PHX,foul,1,False,False,,Saric P.FOUL (P4.PN) (K.Lane),83-90,83,90
 0021900225,2019-11-23,MIN,PHX,41.73,4,6,16,MIN,MIN,ft_miss,11,False,False,MISS Bell Free Throw 1 of 2,,83-90,83,90
 0021900225,2019-11-23,MIN,PHX,41.73,4,6,16,MIN,MIN,reb,1,False,False,TIMBERWOLVES Rebound,,83-90,83,90
 0021900225,2019-11-23,MIN,PHX,41.73,4,6,16,MIN,MIN,ft_make,12,False,False,Bell Free Throw 2 of 2 (1 PTS),,84-90,84,90
+0021900225,2019-11-23,MIN,PHX,41.73,4,6,16,MIN,MIN,reb,0,False,False,Bell REBOUND (Off:3 Def:4),,83-90,83,90
 0021900225,2019-11-23,MIN,PHX,42.07,4,5,56,PHX,PHX,fg_miss,98,True,False,,MISS Kaminsky 2' Cutting Layup Shot,84-90,84,90
 0021900225,2019-11-23,MIN,PHX,42.07,4,5,56,PHX,MIN,block,98,True,False,block,block,84-90,84,90
 0021900225,2019-11-23,MIN,PHX,42.12,4,5,53,PHX,PHX,reb,0,False,False,,Kaminsky REBOUND (Off:1 Def:4),84-90,84,90

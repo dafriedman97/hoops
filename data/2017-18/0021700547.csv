@@ -64,8 +64,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700547,2018-01-01,CHI,POR,8.08,1,3,55,CHI,CHI,reb,0,False,False,Nwaba REBOUND (Off:0 Def:1),,15-23,15,23
 0021700547,2018-01-01,CHI,POR,8.18,1,3,49,CHI,CHI,fg_make,1,False,False,Lopez 16' Jump Shot (8 PTS) (Grant 1 AST),,17-23,17,23
 0021700547,2018-01-01,CHI,POR,8.53,1,3,28,POR,POR,fg_miss,43,True,False,,MISS Connaughton 3' Alley Oop Layup,17-23,17,23
-0021700547,2018-01-01,CHI,POR,8.53,1,3,28,POR,POR,reb,0,False,False,,Aminu REBOUND (Off:1 Def:1),17-23,17,23
 0021700547,2018-01-01,CHI,POR,8.53,1,3,28,POR,CHI,block,43,True,False,block,block,17-23,17,23
+0021700547,2018-01-01,CHI,POR,8.53,1,3,28,POR,POR,reb,0,False,False,,Aminu REBOUND (Off:1 Def:1),17-23,17,23
 0021700547,2018-01-01,CHI,POR,8.53,1,3,28,POR,POR,fg_make,72,False,False,,Aminu 2' Putback Layup (6 PTS),17-25,17,25
 0021700547,2018-01-01,CHI,POR,8.53,1,3,28,POR,CHI,foul,2,False,False,Markkanen S.FOUL (P1.T1) (R.Garretson),,17-25,17,25
 0021700547,2018-01-01,CHI,POR,8.53,1,3,28,POR,POR,ft_make,10,False,False,,Aminu Free Throw 1 of 1 (7 PTS),17-26,17,26
@@ -271,8 +271,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700547,2018-01-01,CHI,POR,30.12,3,5,53,CHI,CHI,fg_miss,78,False,False,MISS Lopez 8' Floating Jump Shot,,71-66,71,66
 0021700547,2018-01-01,CHI,POR,30.12,3,5,53,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:2 Def:4),71-66,71,66
 0021700547,2018-01-01,CHI,POR,30.37,3,5,38,POR,POR,fg_miss,1,False,False,,MISS Nurkic 8' Jump Shot,71-66,71,66
-0021700547,2018-01-01,CHI,POR,30.38,3,5,37,CHI,CHI,reb,0,False,False,Dunn REBOUND (Off:0 Def:4),,71-66,71,66
 0021700547,2018-01-01,CHI,POR,30.38,3,5,37,CHI,POR,foul,1,False,False,,Nurkic P.FOUL (P1.T3) (R.Garretson),71-66,71,66
+0021700547,2018-01-01,CHI,POR,30.38,3,5,37,CHI,CHI,reb,0,False,False,Dunn REBOUND (Off:0 Def:4),,71-66,71,66
 0021700547,2018-01-01,CHI,POR,30.57,3,5,26,CHI,POR,foul,2,False,False,,Napier S.FOUL (P1.T4) (M.Ayotte),71-66,71,66
 0021700547,2018-01-01,CHI,POR,30.57,3,5,26,CHI,CHI,ft_make,11,False,False,Lopez Free Throw 1 of 2 (13 PTS),,72-66,72,66
 0021700547,2018-01-01,CHI,POR,30.57,3,5,26,CHI,CHI,ft_miss,12,False,False,MISS Lopez Free Throw 2 of 2,,72-66,72,66
@@ -359,8 +359,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700547,2018-01-01,CHI,POR,39.52,4,8,29,CHI,POR,block,6,True,False,block,block,93-91,93,91
 0021700547,2018-01-01,CHI,POR,39.58,4,8,25,CHI,CHI,reb,0,False,False,Mirotic REBOUND (Off:1 Def:9),,93-91,93,91
 0021700547,2018-01-01,CHI,POR,39.6,4,8,24,CHI,CHI,fg_miss,72,True,False,MISS Mirotic 2' Putback Layup,,93-91,93,91
-0021700547,2018-01-01,CHI,POR,39.6,4,8,24,POR,POR,reb,0,False,False,,Napier REBOUND (Off:0 Def:3),93-91,93,91
 0021700547,2018-01-01,CHI,POR,39.6,4,8,24,CHI,POR,block,72,True,False,block,block,93-91,93,91
+0021700547,2018-01-01,CHI,POR,39.6,4,8,24,POR,POR,reb,0,False,False,,Napier REBOUND (Off:0 Def:3),93-91,93,91
 0021700547,2018-01-01,CHI,POR,39.83,4,8,10,POR,CHI,foul,1,False,False,Valentine P.FOUL (P1.T1) (M.Ayotte),,93-91,93,91
 0021700547,2018-01-01,CHI,POR,40.02,4,7,59,POR,CHI,foul,2,False,False,Grant S.FOUL (P2.T2) (R.Garretson),,93-91,93,91
 0021700547,2018-01-01,CHI,POR,40.02,4,7,59,POR,POR,ft_make,11,False,False,,Napier Free Throw 1 of 2 (10 PTS),93-92,93,92
@@ -373,8 +373,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700547,2018-01-01,CHI,POR,40.43,4,7,34,POR,POR,fg_make,72,False,False,,Nurkic 2' Putback Layup (9 PTS),93-95,93,95
 0021700547,2018-01-01,CHI,POR,40.43,4,7,34,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 4 Short 0),,93-95,93,95
 0021700547,2018-01-01,CHI,POR,40.63,4,7,22,CHI,CHI,fg_miss,6,True,False,MISS Dunn 2' Driving Layup,,93-95,93,95
-0021700547,2018-01-01,CHI,POR,40.63,4,7,22,CHI,CHI,reb,0,False,False,BULLS Rebound,,93-95,93,95
 0021700547,2018-01-01,CHI,POR,40.63,4,7,22,CHI,POR,block,6,True,False,block,block,93-95,93,95
+0021700547,2018-01-01,CHI,POR,40.63,4,7,22,CHI,CHI,reb,0,False,False,BULLS Rebound,,93-95,93,95
 0021700547,2018-01-01,CHI,POR,40.75,4,7,15,CHI,CHI,fg_miss,1,False,False,MISS Dunn 13' Jump Shot,,93-95,93,95
 0021700547,2018-01-01,CHI,POR,40.78,4,7,13,POR,POR,reb,0,False,False,,Harkless REBOUND (Off:0 Def:1),93-95,93,95
 0021700547,2018-01-01,CHI,POR,40.97,4,7,2,POR,POR,fg_miss,5,False,False,,MISS Nurkic 3' Layup,93-95,93,95
@@ -383,8 +383,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700547,2018-01-01,CHI,POR,41.08,4,6,55,CHI,CHI,reb,0,False,False,Markkanen REBOUND (Off:0 Def:7),,93-95,93,95
 0021700547,2018-01-01,CHI,POR,41.12,4,6,53,CHI,CHI,fg3_make,1,False,False,Valentine 24' 3PT Jump Shot (5 PTS),,96-95,96,95
 0021700547,2018-01-01,CHI,POR,41.52,4,6,29,POR,POR,fg_miss,6,True,False,,MISS Napier 2' Driving Layup,96-95,96,95
-0021700547,2018-01-01,CHI,POR,41.52,4,6,29,POR,POR,reb,0,False,False,,Trail Blazers Rebound,96-95,96,95
 0021700547,2018-01-01,CHI,POR,41.52,4,6,29,POR,CHI,block,6,True,False,block,block,96-95,96,95
+0021700547,2018-01-01,CHI,POR,41.52,4,6,29,POR,POR,reb,0,False,False,,Trail Blazers Rebound,96-95,96,95
 0021700547,2018-01-01,CHI,POR,41.58,4,6,25,POR,POR,fg_miss,1,False,False,,MISS Aminu 7' Jump Shot,96-95,96,95
 0021700547,2018-01-01,CHI,POR,41.58,4,6,25,POR,POR,reb,0,False,False,,Napier REBOUND (Off:1 Def:4),96-95,96,95
 0021700547,2018-01-01,CHI,POR,41.82,4,6,11,POR,POR,fg_miss,63,False,False,,MISS McCollum 9' Fadeaway Jumper,96-95,96,95
@@ -468,8 +468,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700547,2018-01-01,CHI,POR,51.47,5,1,32,CHI,CHI,reb,0,False,False,Lopez REBOUND (Off:5 Def:1),,118-120,118,120
 0021700547,2018-01-01,CHI,POR,51.77,5,1,14,CHI,CHI,fg_make,1,False,False,Markkanen 18' Jump Shot (19 PTS) (Lopez 5 AST),,120-120,120,120
 0021700547,2018-01-01,CHI,POR,51.93,5,1,4,POR,POR,fg3_miss,1,True,False,,MISS McCollum 25' 3PT Jump Shot,120-120,120,120
-0021700547,2018-01-01,CHI,POR,51.93,5,1,4,POR,POR,reb,0,False,False,,McCollum REBOUND (Off:1 Def:5),120-120,120,120
 0021700547,2018-01-01,CHI,POR,51.93,5,1,4,POR,CHI,block,1,True,False,block,block,120-120,120,120
+0021700547,2018-01-01,CHI,POR,51.93,5,1,4,POR,POR,reb,0,False,False,,McCollum REBOUND (Off:1 Def:5),120-120,120,120
 0021700547,2018-01-01,CHI,POR,52.07,5,0,56,POR,POR,fg_make,78,False,False,,McCollum 3' Floating Jump Shot (30 PTS),120-122,120,122
 0021700547,2018-01-01,CHI,POR,52.07,5,0,56,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 5 Short 0),,120-122,120,122
 0021700547,2018-01-01,CHI,POR,52.22,5,0,47,CHI,CHI,fg_miss,1,False,False,MISS Dunn 14' Jump Shot,,120-122,120,122

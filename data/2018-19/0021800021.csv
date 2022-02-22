@@ -233,9 +233,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800021,2018-10-19,MIN,CLE,25.3,3,10,42,CLE,CLE,ft_make,12,False,False,,Hood Free Throw 2 of 2 (8 PTS),74-60,74,60
 0021800021,2018-10-19,MIN,CLE,25.5,3,10,30,MIN,MIN,fg_miss,1,False,False,MISS Wiggins 23' Jump Shot,,74-60,74,60
 0021800021,2018-10-19,MIN,CLE,25.52,3,10,29,MIN,MIN,reb,0,False,False,Gibson REBOUND (Off:3 Def:3),,74-60,74,60
+0021800021,2018-10-19,MIN,CLE,25.53,3,10,28,MIN,CLE,foul,3,False,False,,G. Hill L.B.FOUL (P2.T2) (J.Tiven),74-60,74,60
 0021800021,2018-10-19,MIN,CLE,25.53,3,10,28,MIN,MIN,fg_miss,97,False,False,MISS Gibson 1' Tip Layup Shot,,74-60,74,60
 0021800021,2018-10-19,MIN,CLE,25.53,3,10,28,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,74-60,74,60
-0021800021,2018-10-19,MIN,CLE,25.53,3,10,28,MIN,CLE,foul,3,False,False,,G. Hill L.B.FOUL (P2.T2) (J.Tiven),74-60,74,60
 0021800021,2018-10-19,MIN,CLE,25.65,3,10,21,MIN,CLE,foul,2,False,False,,Love S.FOUL (P2.T3) (J.Van Duyne),74-60,74,60
 0021800021,2018-10-19,MIN,CLE,25.65,3,10,21,MIN,MIN,ft_make,11,False,False,Gibson Free Throw 1 of 2 (7 PTS),,75-60,75,60
 0021800021,2018-10-19,MIN,CLE,25.65,3,10,21,MIN,MIN,ft_make,12,False,False,Gibson Free Throw 2 of 2 (8 PTS),,76-60,76,60
@@ -290,8 +290,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800021,2018-10-19,MIN,CLE,31.08,3,4,55,CLE,CLE,fg3_miss,1,False,False,,MISS Hood 3PT Jump Shot,91-74,91,74
 0021800021,2018-10-19,MIN,CLE,31.12,3,4,53,CLE,CLE,reb,0,False,False,,Thompson REBOUND (Off:3 Def:3),91-74,91,74
 0021800021,2018-10-19,MIN,CLE,31.13,3,4,52,CLE,CLE,fg_miss,72,True,False,,MISS Thompson 2' Putback Layup,91-74,91,74
-0021800021,2018-10-19,MIN,CLE,31.13,3,4,52,MIN,MIN,reb,0,False,False,Wiggins REBOUND (Off:1 Def:1),,91-74,91,74
 0021800021,2018-10-19,MIN,CLE,31.13,3,4,52,CLE,MIN,block,72,True,False,block,block,91-74,91,74
+0021800021,2018-10-19,MIN,CLE,31.13,3,4,52,MIN,MIN,reb,0,False,False,Wiggins REBOUND (Off:1 Def:1),,91-74,91,74
 0021800021,2018-10-19,MIN,CLE,31.27,3,4,44,MIN,MIN,fg_miss,1,False,False,MISS Wiggins 16' Jump Shot,,91-74,91,74
 0021800021,2018-10-19,MIN,CLE,31.3,3,4,42,CLE,CLE,reb,0,False,False,,Love REBOUND (Off:2 Def:11),91-74,91,74
 0021800021,2018-10-19,MIN,CLE,31.37,3,4,38,CLE,CLE,fg_make,5,False,False,,Hood 1' Layup (10 PTS) (Love 6 AST),91-76,91,76
@@ -330,8 +330,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800021,2018-10-19,MIN,CLE,35.15,3,0,51,CLE,CLE,fg3_miss,1,False,False,,MISS Hood 25' 3PT Jump Shot,100-91,100,91
 0021800021,2018-10-19,MIN,CLE,35.18,3,0,49,MIN,MIN,reb,0,False,False,Dieng REBOUND (Off:0 Def:3),,100-91,100,91
 0021800021,2018-10-19,MIN,CLE,35.37,3,0,38,MIN,MIN,tov,2,False,True,Wiggins Lost Ball Turnover (P1.T8),,100-91,100,91
-0021800021,2018-10-19,MIN,CLE,35.37,3,0,38,CLE,MIN,foul,1,False,False,Dieng P.FOUL (P3.PN) (B.Barnaky),,100-91,100,91
 0021800021,2018-10-19,MIN,CLE,35.37,3,0,38,MIN,CLE,steal,2,False,True,steal,steal,100-91,100,91
+0021800021,2018-10-19,MIN,CLE,35.37,3,0,38,CLE,MIN,foul,1,False,False,Dieng P.FOUL (P3.PN) (B.Barnaky),,100-91,100,91
 0021800021,2018-10-19,MIN,CLE,35.37,3,0,38,CLE,CLE,ft_make,11,False,False,,Zizic Free Throw 1 of 2 (3 PTS),100-92,100,92
 0021800021,2018-10-19,MIN,CLE,35.37,3,0,38,CLE,CLE,ft_miss,12,False,False,,MISS Zizic Free Throw 2 of 2,100-92,100,92
 0021800021,2018-10-19,MIN,CLE,35.38,3,0,37,MIN,MIN,reb,0,False,False,Dieng REBOUND (Off:0 Def:4),,100-92,100,92
@@ -452,8 +452,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800021,2018-10-19,MIN,CLE,47.6,4,0,24,MIN,MIN,fg_make,79,False,False,Butler 22' Pullup Jump Shot (31 PTS),,129-123,129,123
 0021800021,2018-10-19,MIN,CLE,47.72,4,0,17,CLE,CLE,fg_miss,5,True,False,,MISS Love 2' Layup,129-123,129,123
 0021800021,2018-10-19,MIN,CLE,47.72,4,0,17,CLE,MIN,block,5,True,False,block,block,129-123,129,123
-0021800021,2018-10-19,MIN,CLE,47.73,4,0,16,MIN,MIN,timeout,1,False,False,TIMBERWOLVES Timeout: Regular (Full 5 Short 0),,129-123,129,123
 0021800021,2018-10-19,MIN,CLE,47.73,4,0,16,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,129-123,129,123
+0021800021,2018-10-19,MIN,CLE,47.73,4,0,16,MIN,MIN,timeout,1,False,False,TIMBERWOLVES Timeout: Regular (Full 5 Short 0),,129-123,129,123
 0021800021,2018-10-19,MIN,CLE,47.78,4,0,13,MIN,CLE,foul,28,False,False,,Thompson Personal Take Foul (P4.PN) (J.Van Duyne),129-123,129,123
 0021800021,2018-10-19,MIN,CLE,47.78,4,0,13,MIN,MIN,ft_make,11,False,False,Butler Free Throw 1 of 2 (32 PTS),,130-123,130,123
 0021800021,2018-10-19,MIN,CLE,47.78,4,0,13,MIN,MIN,ft_make,12,False,False,Butler Free Throw 2 of 2 (33 PTS),,131-123,131,123

@@ -105,9 +105,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900134,2019-11-10,PHI,CHA,11.95,1,0,3,CHA,CHA,ft_make,11,False,False,,Biyombo Free Throw 1 of 2 (1 PTS),33-23,33,23
 0021900134,2019-11-10,PHI,CHA,11.95,1,0,3,CHA,CHA,ft_make,12,False,False,,Biyombo Free Throw 2 of 2 (2 PTS),33-24,33,24
 0021900134,2019-11-10,PHI,CHA,12.0,1,0,0,PHI,PHI,tov,2,False,True,Embiid Lost Ball Turnover (P1.T6),,33-24,33,24
+0021900134,2019-11-10,PHI,CHA,12.0,1,0,0,PHI,CHA,steal,2,False,True,steal,steal,33-24,33,24
 0021900134,2019-11-10,PHI,CHA,12.0,1,0,0,PHI,,period_end,0,False,False,,,33-24,33,24
 0021900134,2019-11-10,PHI,CHA,12.0,2,12,0,PHI,,period_start,0,False,False,,,33-24,33,24
-0021900134,2019-11-10,PHI,CHA,12.0,1,0,0,PHI,CHA,steal,2,False,True,steal,steal,33-24,33,24
 0021900134,2019-11-10,PHI,CHA,12.3,2,11,42,CHA,CHA,tov,1,False,True,,Graham Bad Pass Turnover (P2.T4),33-24,33,24
 0021900134,2019-11-10,PHI,CHA,12.3,2,11,42,CHA,PHI,steal,1,False,True,steal,steal,33-24,33,24
 0021900134,2019-11-10,PHI,CHA,12.55,2,11,27,PHI,PHI,fg_miss,76,False,False,MISS Burke 2' Running Finger Roll Layup,,33-24,33,24
@@ -157,8 +157,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900134,2019-11-10,PHI,CHA,16.8,2,7,12,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:1 Def:3),,41-31,41,31
 0021900134,2019-11-10,PHI,CHA,16.82,2,7,11,PHI,PHI,fg_make,72,False,False,Harris 3' Putback Layup (6 PTS),,43-31,43,31
 0021900134,2019-11-10,PHI,CHA,17.15,2,6,51,CHA,CHA,fg_miss,6,True,False,,MISS Bridges 6' Driving Layup,43-31,43,31
-0021900134,2019-11-10,PHI,CHA,17.15,2,6,51,CHA,CHA,reb,0,False,False,,Hornets Rebound,43-31,43,31
 0021900134,2019-11-10,PHI,CHA,17.15,2,6,51,CHA,PHI,block,6,True,False,block,block,43-31,43,31
+0021900134,2019-11-10,PHI,CHA,17.15,2,6,51,CHA,CHA,reb,0,False,False,,Hornets Rebound,43-31,43,31
 0021900134,2019-11-10,PHI,CHA,17.23,2,6,46,CHA,CHA,fg3_miss,1,False,False,,MISS Bridges 28' 3PT Jump Shot,43-31,43,31
 0021900134,2019-11-10,PHI,CHA,17.3,2,6,42,PHI,PHI,reb,0,False,False,O'Quinn REBOUND (Off:0 Def:1),,43-31,43,31
 0021900134,2019-11-10,PHI,CHA,17.38,2,6,37,PHI,PHI,tov,1,False,True,O'Quinn Bad Pass Turnover (P1.T9),,43-31,43,31
@@ -269,8 +269,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900134,2019-11-10,PHI,CHA,30.7,3,5,18,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:3),72-64,72,64
 0021900134,2019-11-10,PHI,CHA,30.8,3,5,12,CHA,CHA,fg_make,99,False,False,,Zeller 2' Cutting Finger Roll Layup Shot (21 PTS) (Monk 3 AST),72-66,72,66
 0021900134,2019-11-10,PHI,CHA,31.02,3,4,59,PHI,PHI,fg_miss,98,False,False,MISS Korkmaz 3' Cutting Layup Shot,,72-66,72,66
-0021900134,2019-11-10,PHI,CHA,31.08,3,4,55,PHI,PHI,fg_make,97,False,False,Harris 1' Tip Layup Shot (10 PTS),,74-66,74,66
 0021900134,2019-11-10,PHI,CHA,31.08,3,4,55,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:2 Def:4),,74-66,74,66
+0021900134,2019-11-10,PHI,CHA,31.08,3,4,55,PHI,PHI,fg_make,97,False,False,Harris 1' Tip Layup Shot (10 PTS),,74-66,74,66
 0021900134,2019-11-10,PHI,CHA,31.22,3,4,47,CHA,CHA,fg_make,79,False,False,,Graham 19' Pullup Jump Shot (13 PTS),74-68,74,68
 0021900134,2019-11-10,PHI,CHA,31.47,3,4,32,PHI,PHI,fg3_miss,1,False,False,MISS Horford 24' 3PT Jump Shot,,74-68,74,68
 0021900134,2019-11-10,PHI,CHA,31.57,3,4,26,PHI,PHI,reb,0,False,False,Ennis III REBOUND (Off:1 Def:3),,74-68,74,68
@@ -331,8 +331,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900134,2019-11-10,PHI,CHA,37.68,4,10,19,PHI,PHI,fg_miss,98,False,False,MISS Scott 4' Cutting Layup Shot,,88-81,88,81
 0021900134,2019-11-10,PHI,CHA,37.72,4,10,17,CHA,CHA,reb,0,False,False,,Williams REBOUND (Off:0 Def:2),88-81,88,81
 0021900134,2019-11-10,PHI,CHA,37.85,4,10,9,CHA,CHA,tov,1,False,True,,Monk Bad Pass Turnover (P3.T11),88-81,88,81
-0021900134,2019-11-10,PHI,CHA,37.85,4,10,9,PHI,CHA,foul,28,False,False,,Graham Personal Take Foul (P1.T2) (H.Workman),88-81,88,81
 0021900134,2019-11-10,PHI,CHA,37.85,4,10,9,CHA,PHI,steal,1,False,True,steal,steal,88-81,88,81
+0021900134,2019-11-10,PHI,CHA,37.85,4,10,9,PHI,CHA,foul,28,False,False,,Graham Personal Take Foul (P1.T2) (H.Workman),88-81,88,81
 0021900134,2019-11-10,PHI,CHA,38.03,4,9,58,PHI,PHI,fg_make,75,False,False,Richardson 4' Driving Finger Roll Layup (11 PTS) (Embiid 2 AST),,90-81,90,81
 0021900134,2019-11-10,PHI,CHA,38.18,4,9,49,CHA,CHA,fg_miss,6,False,False,,MISS Graham 2' Driving Layup,90-81,90,81
 0021900134,2019-11-10,PHI,CHA,38.22,4,9,47,PHI,PHI,reb,0,False,False,Korkmaz REBOUND (Off:0 Def:1),,90-81,90,81
@@ -370,9 +370,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900134,2019-11-10,PHI,CHA,43.37,4,4,38,PHI,PHI,fg_miss,1,False,False,MISS Scott 14' Jump Shot,,103-88,103,88
 0021900134,2019-11-10,PHI,CHA,43.43,4,4,34,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:4),103-88,103,88
 0021900134,2019-11-10,PHI,CHA,43.53,4,4,28,CHA,CHA,fg_miss,75,True,False,,MISS Bridges 3' Driving Finger Roll Layup,103-88,103,88
+0021900134,2019-11-10,PHI,CHA,43.53,4,4,28,CHA,PHI,block,75,True,False,block,block,103-88,103,88
 0021900134,2019-11-10,PHI,CHA,43.53,4,4,28,PHI,PHI,reb,0,False,False,76ERS Rebound,,103-88,103,88
 0021900134,2019-11-10,PHI,CHA,43.53,4,4,28,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 4 Short 0),,103-88,103,88
-0021900134,2019-11-10,PHI,CHA,43.53,4,4,28,CHA,PHI,block,75,True,False,block,block,103-88,103,88
 0021900134,2019-11-10,PHI,CHA,43.55,4,4,27,PHI,PHI,tov,45,False,False,Scott Out of Bounds - Bad Pass Turnover Turnover (P1.T18),,103-88,103,88
 0021900134,2019-11-10,PHI,CHA,43.83,4,4,10,CHA,CHA,fg3_miss,1,False,False,,MISS Rozier 26' 3PT Jump Shot,103-88,103,88
 0021900134,2019-11-10,PHI,CHA,43.92,4,4,5,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:2 Def:5),,103-88,103,88

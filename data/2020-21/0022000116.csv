@@ -24,8 +24,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000116,2021-01-06,GSW,LAC,2.55,1,9,27,GSW,GSW,reb,0,False,False,Oubre Jr. REBOUND (Off:0 Def:2),,0-2,0,2
 0022000116,2021-01-06,GSW,LAC,2.58,1,9,25,GSW,LAC,foul,1,False,False,,Batum P.FOUL (P1.T1) (S.Wright),0-2,0,2
 0022000116,2021-01-06,GSW,LAC,2.75,1,9,15,GSW,GSW,fg_miss,43,False,False,MISS Wiseman 3' Alley Oop Layup,,0-2,0,2
-0022000116,2021-01-06,GSW,LAC,2.78,1,9,13,GSW,GSW,reb,0,False,False,Wiseman REBOUND (Off:1 Def:2),,0-2,0,2
 0022000116,2021-01-06,GSW,LAC,2.78,1,9,13,GSW,GSW,fg_miss,97,False,False,MISS Wiseman 4' Tip Layup Shot,,0-2,0,2
+0022000116,2021-01-06,GSW,LAC,2.78,1,9,13,GSW,GSW,reb,0,False,False,Wiseman REBOUND (Off:1 Def:2),,0-2,0,2
 0022000116,2021-01-06,GSW,LAC,2.82,1,9,11,LAC,LAC,reb,0,False,False,,George REBOUND (Off:0 Def:1),0-2,0,2
 0022000116,2021-01-06,GSW,LAC,3.15,1,8,51,LAC,LAC,fg3_miss,1,False,False,,MISS George 26' 3PT Jump Shot,0-2,0,2
 0022000116,2021-01-06,GSW,LAC,3.18,1,8,49,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:0 Def:1),,0-2,0,2
@@ -39,10 +39,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000116,2021-01-06,GSW,LAC,4.0,1,8,0,LAC,LAC,fg_miss,3,False,False,,MISS Ibaka 8' Hook Shot,0-2,0,2
 0022000116,2021-01-06,GSW,LAC,4.02,1,7,59,LAC,LAC,reb,0,False,False,,Batum REBOUND (Off:1 Def:0),0-2,0,2
 0022000116,2021-01-06,GSW,LAC,4.02,1,7,59,LAC,LAC,fg_miss,87,False,False,,MISS Batum 1' Putback Dunk,0-2,0,2
-0022000116,2021-01-06,GSW,LAC,4.03,1,7,58,LAC,LAC,reb,0,False,False,,Batum REBOUND (Off:2 Def:0),0-2,0,2
 0022000116,2021-01-06,GSW,LAC,4.03,1,7,58,LAC,GSW,foul,2,False,False,Oubre Jr. S.FOUL (P1.T2) (N.Buchert),,0-2,0,2
 0022000116,2021-01-06,GSW,LAC,4.03,1,7,58,LAC,LAC,ft_make,11,False,False,,Batum Free Throw 1 of 2 (1 PTS),0-3,0,3
 0022000116,2021-01-06,GSW,LAC,4.03,1,7,58,LAC,LAC,ft_make,12,False,False,,Batum Free Throw 2 of 2 (2 PTS),0-4,0,4
+0022000116,2021-01-06,GSW,LAC,4.03,1,7,58,LAC,LAC,reb,0,False,False,,Batum REBOUND (Off:2 Def:0),0-2,0,2
 0022000116,2021-01-06,GSW,LAC,4.32,1,7,41,GSW,GSW,fg3_miss,1,False,False,MISS Oubre Jr. 28' 3PT Jump Shot,,0-4,0,4
 0022000116,2021-01-06,GSW,LAC,4.35,1,7,39,LAC,LAC,reb,0,False,False,,Batum REBOUND (Off:2 Def:1),0-4,0,4
 0022000116,2021-01-06,GSW,LAC,4.45,1,7,33,LAC,LAC,fg3_miss,1,False,False,,MISS Ibaka 26' 3PT Jump Shot,0-4,0,4
@@ -119,9 +119,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000116,2021-01-06,GSW,LAC,13.07,2,10,56,GSW,GSW,fg3_miss,1,False,False,MISS Mulder 29' 3PT Jump Shot,,18-25,18,25
 0022000116,2021-01-06,GSW,LAC,13.1,2,10,54,LAC,LAC,reb,0,False,False,,Jackson REBOUND (Off:0 Def:1),18-25,18,25
 0022000116,2021-01-06,GSW,LAC,13.15,2,10,51,LAC,LAC,fg_make,41,False,False,,Kennard 2' Running Layup (2 PTS),18-27,18,27
-0022000116,2021-01-06,GSW,LAC,13.15,2,10,51,LAC,GSW,violation,2,False,False,Defensive Goaltending,,18-27,18,27
 0022000116,2021-01-06,GSW,LAC,13.15,2,10,51,LAC,GSW,foul,2,False,False,Mulder S.FOUL (P1.T1) (N.Buchert),,18-27,18,27
 0022000116,2021-01-06,GSW,LAC,13.15,2,10,51,LAC,LAC,ft_make,10,False,False,,Kennard Free Throw 1 of 1 (3 PTS),18-28,18,28
+0022000116,2021-01-06,GSW,LAC,13.15,2,10,51,LAC,GSW,violation,2,False,False,Defensive Goaltending,,18-27,18,27
 0022000116,2021-01-06,GSW,LAC,13.27,2,10,44,GSW,LAC,foul,1,False,False,,Morris Sr. P.FOUL (P1.T2) (N.Buchert),18-28,18,28
 0022000116,2021-01-06,GSW,LAC,13.38,2,10,37,GSW,GSW,fg3_miss,1,False,False,MISS Lee 24' 3PT Jump Shot,,18-28,18,28
 0022000116,2021-01-06,GSW,LAC,13.42,2,10,35,GSW,GSW,reb,0,False,False,Paschall REBOUND (Off:1 Def:0),,18-28,18,28
@@ -292,9 +292,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000116,2021-01-06,GSW,LAC,30.45,3,5,33,LAC,GSW,foul,4,False,False,Looney OFF.Foul (P1) (S.Wright),,64-68,64,68
 0022000116,2021-01-06,GSW,LAC,30.45,3,5,33,GSW,GSW,tov,37,False,False,Looney Offensive Foul Turnover (P1.T10),,64-68,64,68
 0022000116,2021-01-06,GSW,LAC,30.7,3,5,18,LAC,LAC,tov,1,False,True,,Leonard Bad Pass Turnover (P6.T14),64-68,64,68
+0022000116,2021-01-06,GSW,LAC,30.7,3,5,18,LAC,GSW,steal,1,False,True,steal,steal,64-68,64,68
 0022000116,2021-01-06,GSW,LAC,30.7,3,5,18,GSW,LAC,foul,1,False,False,,Beverley P.FOUL (P2.T2) (S.Wright),64-68,64,68
 0022000116,2021-01-06,GSW,LAC,30.7,3,5,18,GSW,GSW,tov,1,False,True,Looney Bad Pass Turnover (P2.T11),,64-68,64,68
-0022000116,2021-01-06,GSW,LAC,30.7,3,5,18,LAC,GSW,steal,1,False,True,steal,steal,64-68,64,68
 0022000116,2021-01-06,GSW,LAC,30.7,3,5,18,GSW,LAC,steal,1,False,True,steal,steal,64-68,64,68
 0022000116,2021-01-06,GSW,LAC,31.17,3,4,50,LAC,LAC,fg3_make,1,False,False,,Williams 24' 3PT Jump Shot (3 PTS) (Leonard 2 AST),64-71,64,71
 0022000116,2021-01-06,GSW,LAC,31.17,3,4,50,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 4 Short 0),,64-71,64,71

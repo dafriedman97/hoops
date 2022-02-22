@@ -106,8 +106,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800755,2019-01-29,LAL,PHI,9.63,1,2,22,LAL,LAL,fg3_miss,80,False,False,MISS Stephenson 25' 3PT Step Back Jump Shot,,17-35,17,35
 0021800755,2019-01-29,LAL,PHI,9.68,1,2,19,PHI,PHI,reb,0,False,False,,Muscala REBOUND (Off:0 Def:1),17-35,17,35
 0021800755,2019-01-29,LAL,PHI,9.75,1,2,15,PHI,PHI,fg_miss,101,True,False,,MISS McConnell 4' Driving Floating Jump Shot,17-35,17,35
-0021800755,2019-01-29,LAL,PHI,9.75,1,2,15,PHI,PHI,reb,0,False,False,,76ers Rebound,17-35,17,35
 0021800755,2019-01-29,LAL,PHI,9.75,1,2,15,PHI,LAL,block,101,True,False,block,block,17-35,17,35
+0021800755,2019-01-29,LAL,PHI,9.75,1,2,15,PHI,PHI,reb,0,False,False,,76ers Rebound,17-35,17,35
 0021800755,2019-01-29,LAL,PHI,9.93,1,2,4,PHI,PHI,fg3_miss,79,False,False,,MISS Redick 3PT Pullup Jump Shot,17-35,17,35
 0021800755,2019-01-29,LAL,PHI,10.02,1,1,59,LAL,LAL,reb,0,False,False,Hart REBOUND (Off:0 Def:1),,17-35,17,35
 0021800755,2019-01-29,LAL,PHI,10.25,1,1,45,LAL,LAL,tov,40,False,False,Stephenson Out of Bounds Lost Ball Turnover (P2.T9),,17-35,17,35
@@ -131,9 +131,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800755,2019-01-29,LAL,PHI,11.98,1,0,1,LAL,LAL,ft_make,11,False,False,Ingram Free Throw 1 of 2 (7 PTS),,20-39,20,39
 0021800755,2019-01-29,LAL,PHI,11.98,1,0,1,LAL,LAL,ft_miss,12,False,False,MISS Ingram Free Throw 2 of 2,,20-39,20,39
 0021800755,2019-01-29,LAL,PHI,11.98,1,0,1,LAL,LAL,reb,0,False,False,Hart REBOUND (Off:1 Def:1),,20-39,20,39
+0021800755,2019-01-29,LAL,PHI,12.0,1,0,0,LAL,,period_end,0,False,False,,,20-39,20,39
 0021800755,2019-01-29,LAL,PHI,12.0,1,0,0,LAL,LAL,fg_miss,63,False,False,MISS Hart 17' Fadeaway Jumper,,20-39,20,39
 0021800755,2019-01-29,LAL,PHI,12.0,1,0,0,LAL,LAL,reb,0,False,False,LAKERS Rebound,,20-39,20,39
-0021800755,2019-01-29,LAL,PHI,12.0,1,0,0,LAL,,period_end,0,False,False,,,20-39,20,39
 0021800755,2019-01-29,LAL,PHI,12.0,2,12,0,LAL,,period_start,0,False,False,,,20-39,20,39
 0021800755,2019-01-29,LAL,PHI,12.33,2,11,40,PHI,PHI,fg_make,86,False,False,,Embiid 13' Turnaround Fadeaway (7 PTS),20-41,20,41
 0021800755,2019-01-29,LAL,PHI,12.6,2,11,24,LAL,LAL,tov,1,False,True,Hart Bad Pass Turnover (P1.T10),,20-41,20,41
@@ -202,8 +202,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800755,2019-01-29,LAL,PHI,18.85,2,5,9,PHI,PHI,fg_miss,79,False,False,,MISS Redick 22' Pullup Jump Shot,37-48,37,48
 0021800755,2019-01-29,LAL,PHI,18.9,2,5,6,PHI,PHI,reb,0,False,False,,Simmons REBOUND (Off:2 Def:2),37-48,37,48
 0021800755,2019-01-29,LAL,PHI,18.92,2,5,5,PHI,PHI,fg_miss,5,True,False,,MISS Simmons 1' Layup,37-48,37,48
-0021800755,2019-01-29,LAL,PHI,18.92,2,5,5,LAL,LAL,reb,0,False,False,Hart REBOUND (Off:1 Def:2),,37-48,37,48
 0021800755,2019-01-29,LAL,PHI,18.92,2,5,5,PHI,LAL,block,5,True,False,block,block,37-48,37,48
+0021800755,2019-01-29,LAL,PHI,18.92,2,5,5,LAL,LAL,reb,0,False,False,Hart REBOUND (Off:1 Def:2),,37-48,37,48
 0021800755,2019-01-29,LAL,PHI,19.02,2,4,59,LAL,LAL,fg_make,50,False,False,Ingram 1' Running Dunk (15 PTS) (Rondo 8 AST),,39-48,39,48
 0021800755,2019-01-29,LAL,PHI,19.02,2,4,59,LAL,PHI,foul,2,False,False,,Brewer S.FOUL (P2.T1) (K.Mauer),39-48,39,48
 0021800755,2019-01-29,LAL,PHI,19.02,2,4,59,PHI,PHI,timeout,1,False,False,,76ers Timeout: Regular (Reg.3 Short 0),39-48,39,48
@@ -457,7 +457,7 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800755,2019-01-29,LAL,PHI,47.58,4,0,25,PHI,PHI,fg3_miss,1,False,False,,MISS Muscala 25' 3PT Jump Shot,103-121,103,121
 0021800755,2019-01-29,LAL,PHI,47.65,4,0,21,LAL,LAL,reb,0,False,False,Mykhailiuk REBOUND (Off:1 Def:4),,103-121,103,121
 0021800755,2019-01-29,LAL,PHI,47.87,4,0,8,LAL,LAL,fg_miss,98,True,False,MISS Caruso 4' Cutting Layup Shot,,103-121,103,121
-0021800755,2019-01-29,LAL,PHI,47.87,4,0,8,LAL,LAL,reb,0,False,False,LAKERS Rebound,,103-121,103,121
 0021800755,2019-01-29,LAL,PHI,47.87,4,0,8,LAL,PHI,block,98,True,False,block,block,103-121,103,121
+0021800755,2019-01-29,LAL,PHI,47.87,4,0,8,LAL,LAL,reb,0,False,False,LAKERS Rebound,,103-121,103,121
 0021800755,2019-01-29,LAL,PHI,47.95,4,0,3,LAL,LAL,fg_make,79,False,False,Caldwell-Pope 18' Pullup Jump Shot (12 PTS) (Wagner 1 AST),,105-121,105,121
 0021800755,2019-01-29,LAL,PHI,48.0,4,0,0,LAL,,period_end,0,False,False,,,105-121,105,121

@@ -20,8 +20,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900190,2019-11-18,BKN,IND,2.52,1,9,29,BKN,BKN,reb,0,False,False,Dinwiddie REBOUND (Off:0 Def:1),,7-3,7,3
 0021900190,2019-11-18,BKN,IND,2.65,1,9,21,BKN,BKN,fg_make,6,False,False,Harris 4' Driving Layup (2 PTS) (Temple 1 AST),,9-3,9,3
 0021900190,2019-11-18,BKN,IND,2.87,1,9,8,IND,IND,fg_miss,6,True,False,,MISS Turner 1' Driving Layup,9-3,9,3
-0021900190,2019-11-18,BKN,IND,2.87,1,9,8,IND,IND,reb,0,False,False,,Pacers Rebound,9-3,9,3
 0021900190,2019-11-18,BKN,IND,2.87,1,9,8,IND,BKN,block,6,True,False,block,block,9-3,9,3
+0021900190,2019-11-18,BKN,IND,2.87,1,9,8,IND,IND,reb,0,False,False,,Pacers Rebound,9-3,9,3
 0021900190,2019-11-18,BKN,IND,3.03,1,8,58,IND,IND,fg_miss,86,False,False,,MISS Holiday 11' Turnaround Fadeaway Shot,9-3,9,3
 0021900190,2019-11-18,BKN,IND,3.08,1,8,55,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:2 Def:2),9-3,9,3
 0021900190,2019-11-18,BKN,IND,3.22,1,8,47,IND,IND,fg_miss,75,False,False,,MISS Holiday 3' Driving Finger Roll Layup,9-3,9,3
@@ -115,10 +115,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900190,2019-11-18,BKN,IND,11.88,1,0,7,IND,IND,ft_make,11,False,False,,Warren Free Throw 1 of 2 (7 PTS),18-17,18,17
 0021900190,2019-11-18,BKN,IND,11.88,1,0,7,IND,IND,ft_make,12,False,False,,Warren Free Throw 2 of 2 (8 PTS),18-18,18,18
 0021900190,2019-11-18,BKN,IND,12.0,1,0,0,BKN,BKN,fg_miss,76,True,False,MISS Pinson 1' Running Finger Roll Layup,,18-18,18,18
+0021900190,2019-11-18,BKN,IND,12.0,1,0,0,BKN,IND,block,76,True,False,block,block,18-18,18,18
 0021900190,2019-11-18,BKN,IND,12.0,1,0,0,BKN,BKN,reb,0,False,False,NETS Rebound,,18-18,18,18
 0021900190,2019-11-18,BKN,IND,12.0,1,0,0,BKN,,period_end,0,False,False,,,18-18,18,18
 0021900190,2019-11-18,BKN,IND,12.0,2,12,0,BKN,,period_start,0,False,False,,,18-18,18,18
-0021900190,2019-11-18,BKN,IND,12.0,1,0,0,BKN,IND,block,76,True,False,block,block,18-18,18,18
 0021900190,2019-11-18,BKN,IND,12.4,2,11,36,IND,IND,fg_miss,98,False,False,,MISS McDermott 1' Cutting Layup Shot,18-18,18,18
 0021900190,2019-11-18,BKN,IND,12.43,2,11,34,IND,IND,reb,0,False,False,,Bitadze REBOUND (Off:2 Def:0),18-18,18,18
 0021900190,2019-11-18,BKN,IND,12.43,2,11,34,IND,IND,fg_miss,97,False,False,,MISS Bitadze 1' Tip Layup Shot,18-18,18,18
@@ -192,8 +192,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900190,2019-11-18,BKN,IND,19.48,2,4,31,IND,IND,tov,39,False,False,,Sabonis Step Out of Bounds Turnover (P1.T4),24-43,24,43
 0021900190,2019-11-18,BKN,IND,19.77,2,4,14,BKN,BKN,fg_make,52,False,False,Allen 1' Alley Oop Dunk (4 PTS) (Dinwiddie 2 AST),,26-43,26,43
 0021900190,2019-11-18,BKN,IND,20.07,2,3,56,IND,IND,fg_miss,5,True,False,,MISS Sabonis 2' Layup,26-43,26,43
-0021900190,2019-11-18,BKN,IND,20.07,2,3,56,IND,IND,reb,0,False,False,,Pacers Rebound,26-43,26,43
 0021900190,2019-11-18,BKN,IND,20.07,2,3,56,IND,BKN,block,5,True,False,block,block,26-43,26,43
+0021900190,2019-11-18,BKN,IND,20.07,2,3,56,IND,IND,reb,0,False,False,,Pacers Rebound,26-43,26,43
 0021900190,2019-11-18,BKN,IND,20.18,2,3,49,IND,IND,fg3_make,1,False,False,,Turner 25' 3PT Jump Shot (5 PTS) (Warren 1 AST),26-46,26,46
 0021900190,2019-11-18,BKN,IND,20.42,2,3,35,BKN,BKN,fg3_make,1,False,False,Harris 25' 3PT Jump Shot (5 PTS) (Dinwiddie 3 AST),,29-46,29,46
 0021900190,2019-11-18,BKN,IND,20.77,2,3,14,IND,IND,fg_miss,58,False,False,,MISS Sabonis 4' Turnaround Hook Shot,29-46,29,46
@@ -230,8 +230,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900190,2019-11-18,BKN,IND,24.57,3,11,26,BKN,BKN,fg_miss,58,False,False,MISS Allen 3' Turnaround Hook Shot,,35-61,35,61
 0021900190,2019-11-18,BKN,IND,24.62,3,11,23,IND,IND,reb,0,False,False,,Turner REBOUND (Off:1 Def:4),35-61,35,61
 0021900190,2019-11-18,BKN,IND,24.68,3,11,19,IND,IND,fg_miss,98,True,False,,MISS Holiday 1' Cutting Layup Shot,35-61,35,61
-0021900190,2019-11-18,BKN,IND,24.68,3,11,19,IND,IND,reb,0,False,False,,Pacers Rebound,35-61,35,61
 0021900190,2019-11-18,BKN,IND,24.68,3,11,19,IND,BKN,block,98,True,False,block,block,35-61,35,61
+0021900190,2019-11-18,BKN,IND,24.68,3,11,19,IND,IND,reb,0,False,False,,Pacers Rebound,35-61,35,61
 0021900190,2019-11-18,BKN,IND,24.83,3,11,10,IND,IND,fg_miss,1,False,False,,MISS Turner 15' Jump Shot,35-61,35,61
 0021900190,2019-11-18,BKN,IND,24.83,3,11,10,BKN,BKN,reb,0,False,False,Prince REBOUND (Off:1 Def:1),,35-61,35,61
 0021900190,2019-11-18,BKN,IND,25.02,3,10,59,BKN,BKN,fg_miss,75,False,False,MISS Dinwiddie 4' Driving Finger Roll Layup,,35-61,35,61
@@ -249,8 +249,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900190,2019-11-18,BKN,IND,26.15,3,9,51,IND,IND,fg3_miss,1,False,False,,MISS Sabonis 25' 3PT Jump Shot,40-61,40,61
 0021900190,2019-11-18,BKN,IND,26.2,3,9,48,BKN,BKN,reb,0,False,False,Dinwiddie REBOUND (Off:0 Def:4),,40-61,40,61
 0021900190,2019-11-18,BKN,IND,26.3,3,9,42,BKN,BKN,fg_miss,6,True,False,MISS Prince 4' Driving Layup,,40-61,40,61
-0021900190,2019-11-18,BKN,IND,26.3,3,9,42,BKN,BKN,reb,0,False,False,NETS Rebound,,40-61,40,61
 0021900190,2019-11-18,BKN,IND,26.3,3,9,42,BKN,IND,block,6,True,False,block,block,40-61,40,61
+0021900190,2019-11-18,BKN,IND,26.3,3,9,42,BKN,BKN,reb,0,False,False,NETS Rebound,,40-61,40,61
 0021900190,2019-11-18,BKN,IND,26.4,3,9,36,BKN,BKN,fg3_make,1,False,False,Temple 25' 3PT Jump Shot (5 PTS) (Dinwiddie 6 AST),,43-61,43,61
 0021900190,2019-11-18,BKN,IND,26.42,3,9,35,IND,IND,timeout,1,False,False,,Pacers Timeout: Regular (Reg.2 Short 0),43-61,43,61
 0021900190,2019-11-18,BKN,IND,26.65,3,9,21,IND,IND,fg_make,79,False,False,,Holiday 15' Pullup Jump Shot (17 PTS) (Sabonis 3 AST),43-63,43,63
@@ -298,20 +298,20 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900190,2019-11-18,BKN,IND,31.3,3,4,42,BKN,BKN,ft_make,11,False,False,Dinwiddie Free Throw 1 of 2 (25 PTS),,56-75,56,75
 0021900190,2019-11-18,BKN,IND,31.3,3,4,42,BKN,BKN,ft_make,12,False,False,Dinwiddie Free Throw 2 of 2 (26 PTS),,57-75,57,75
 0021900190,2019-11-18,BKN,IND,31.52,3,4,29,IND,IND,fg_miss,6,True,False,,MISS Turner 2' Driving Layup,57-75,57,75
+0021900190,2019-11-18,BKN,IND,31.52,3,4,29,IND,BKN,block,6,True,False,block,block,57-75,57,75
 0021900190,2019-11-18,BKN,IND,31.52,3,4,29,IND,IND,reb,0,False,False,,Pacers Rebound,57-75,57,75
 0021900190,2019-11-18,BKN,IND,31.52,3,4,29,BKN,IND,foul,4,False,False,,Turner OFF.Foul (P2) (J.Butler),57-75,57,75
 0021900190,2019-11-18,BKN,IND,31.52,3,4,29,IND,IND,tov,37,False,False,,Turner Offensive Foul Turnover (P1.T6),57-75,57,75
-0021900190,2019-11-18,BKN,IND,31.52,3,4,29,IND,BKN,block,6,True,False,block,block,57-75,57,75
 0021900190,2019-11-18,BKN,IND,31.72,3,4,17,BKN,BKN,fg3_make,79,False,False,Shumpert 26' 3PT Pullup Jump Shot (3 PTS) (Jordan 1 AST),,60-75,60,75
 0021900190,2019-11-18,BKN,IND,31.83,3,4,10,IND,IND,timeout,1,False,False,,Pacers Timeout: Regular (Reg.3 Short 0),60-75,60,75
 0021900190,2019-11-18,BKN,IND,31.97,3,4,2,IND,IND,tov,2,False,True,,Holiday Lost Ball Turnover (P1.T7),60-75,60,75
+0021900190,2019-11-18,BKN,IND,31.97,3,4,2,IND,BKN,steal,2,False,True,steal,steal,60-75,60,75
 0021900190,2019-11-18,BKN,IND,31.97,3,4,2,BKN,IND,foul,1,False,False,,Holiday P.FOUL (P3.PN) (J.Butler),60-75,60,75
 0021900190,2019-11-18,BKN,IND,31.97,3,4,2,BKN,BKN,ft_miss,11,False,False,MISS Shumpert Free Throw 1 of 2,,60-75,60,75
 0021900190,2019-11-18,BKN,IND,31.97,3,4,2,BKN,BKN,reb,1,False,False,NETS Rebound,,60-75,60,75
 0021900190,2019-11-18,BKN,IND,31.97,3,4,2,BKN,BKN,ft_miss,12,False,False,MISS Shumpert Free Throw 2 of 2,,60-75,60,75
 0021900190,2019-11-18,BKN,IND,31.97,3,4,2,BKN,BKN,reb,0,False,False,NETS Rebound,,60-75,60,75
 0021900190,2019-11-18,BKN,IND,31.97,3,4,2,BKN,IND,foul,3,False,False,,McDermott L.B.FOUL (P1.PN) (G.Petraitis),60-75,60,75
-0021900190,2019-11-18,BKN,IND,31.97,3,4,2,IND,BKN,steal,2,False,True,steal,steal,60-75,60,75
 0021900190,2019-11-18,BKN,IND,31.97,3,4,2,BKN,BKN,ft_make,11,False,False,Jordan Free Throw 1 of 2 (3 PTS),,61-75,61,75
 0021900190,2019-11-18,BKN,IND,31.97,3,4,2,BKN,BKN,ft_make,12,False,False,Jordan Free Throw 2 of 2 (4 PTS),,62-75,62,75
 0021900190,2019-11-18,BKN,IND,32.2,3,3,48,IND,IND,fg_miss,1,False,False,,MISS Turner 23' Jump Shot,62-75,62,75
@@ -394,9 +394,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900190,2019-11-18,BKN,IND,40.88,4,7,7,BKN,BKN,fg3_miss,79,False,False,MISS Dinwiddie 25' 3PT Pullup Jump Shot,,76-95,76,95
 0021900190,2019-11-18,BKN,IND,40.97,4,7,2,IND,IND,reb,0,False,False,,Turner REBOUND (Off:1 Def:5),76-95,76,95
 0021900190,2019-11-18,BKN,IND,41.27,4,6,44,IND,IND,fg_miss,98,True,False,,MISS McDermott 2' Cutting Layup Shot,76-95,76,95
+0021900190,2019-11-18,BKN,IND,41.27,4,6,44,IND,BKN,block,98,True,False,block,block,76-95,76,95
 0021900190,2019-11-18,BKN,IND,41.27,4,6,44,IND,IND,reb,0,False,False,,Warren REBOUND (Off:2 Def:4),76-95,76,95
 0021900190,2019-11-18,BKN,IND,41.27,4,6,44,IND,BKN,foul,2,False,False,Shumpert S.FOUL (P4.PN) (E.Lewis),,76-95,76,95
-0021900190,2019-11-18,BKN,IND,41.27,4,6,44,IND,BKN,block,98,True,False,block,block,76-95,76,95
 0021900190,2019-11-18,BKN,IND,41.27,4,6,44,IND,IND,ft_make,11,False,False,,Warren Free Throw 1 of 2 (18 PTS),76-96,76,96
 0021900190,2019-11-18,BKN,IND,41.27,4,6,44,IND,IND,ft_make,12,False,False,,Warren Free Throw 2 of 2 (19 PTS),76-97,76,97
 0021900190,2019-11-18,BKN,IND,41.57,4,6,26,BKN,BKN,fg3_miss,80,False,False,MISS Temple 26' 3PT Step Back Jump Shot,,76-97,76,97

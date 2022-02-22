@@ -68,16 +68,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900101,2019-11-05,OKC,ORL,8.2,1,3,48,OKC,ORL,steal,1,False,True,steal,steal,26-15,26,15
 0021900101,2019-11-05,OKC,ORL,8.48,1,3,31,ORL,OKC,foul,2,False,False,Ferguson S.FOUL (P2.PN) (L.Wood),,26-15,26,15
 0021900101,2019-11-05,OKC,ORL,8.48,1,3,31,ORL,ORL,ft_make,11,False,False,,Vucevic Free Throw 1 of 2 (1 PTS),26-16,26,16
-0021900101,2019-11-05,OKC,ORL,8.48,1,3,31,ORL,ORL,ft_make,12,False,False,,Vucevic Free Throw 2 of 2 (2 PTS),26-17,26,17
 0021900101,2019-11-05,OKC,ORL,8.48,1,3,31,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 1 Short 0),,26-17,26,17
+0021900101,2019-11-05,OKC,ORL,8.48,1,3,31,ORL,ORL,ft_make,12,False,False,,Vucevic Free Throw 2 of 2 (2 PTS),26-17,26,17
 0021900101,2019-11-05,OKC,ORL,8.77,1,3,14,OKC,OKC,fg_make,79,False,False,Schroder 15' Pullup Jump Shot (2 PTS),,28-17,28,17
 0021900101,2019-11-05,OKC,ORL,9.08,1,2,55,ORL,OKC,foul,1,False,False,Diallo P.FOUL (P1.PN) (S.Twardoski),,28-17,28,17
 0021900101,2019-11-05,OKC,ORL,9.08,1,2,55,ORL,ORL,ft_make,11,False,False,,Ross Free Throw 1 of 2 (1 PTS),28-18,28,18
 0021900101,2019-11-05,OKC,ORL,9.08,1,2,55,ORL,ORL,ft_make,12,False,False,,Ross Free Throw 2 of 2 (2 PTS),28-19,28,19
 0021900101,2019-11-05,OKC,ORL,9.25,1,2,45,OKC,OKC,tov,4,False,False,Noel Traveling Turnover (P1.T3),,28-19,28,19
 0021900101,2019-11-05,OKC,ORL,9.48,1,2,31,ORL,ORL,fg_miss,3,False,False,,MISS Bamba 2' Hook Shot,28-19,28,19
-0021900101,2019-11-05,OKC,ORL,9.5,1,2,30,ORL,ORL,reb,0,False,False,,Bamba REBOUND (Off:1 Def:0),28-19,28,19
 0021900101,2019-11-05,OKC,ORL,9.5,1,2,30,ORL,ORL,fg_miss,97,False,False,,MISS Bamba 3' Tip Layup Shot,28-19,28,19
+0021900101,2019-11-05,OKC,ORL,9.5,1,2,30,ORL,ORL,reb,0,False,False,,Bamba REBOUND (Off:1 Def:0),28-19,28,19
 0021900101,2019-11-05,OKC,ORL,9.53,1,2,28,ORL,ORL,reb,0,False,False,,Aminu REBOUND (Off:1 Def:0),28-19,28,19
 0021900101,2019-11-05,OKC,ORL,9.58,1,2,25,ORL,ORL,fg_make,5,False,False,,Aminu 1' Layup (2 PTS),28-21,28,21
 0021900101,2019-11-05,OKC,ORL,9.58,1,2,25,ORL,OKC,foul,2,False,False,Bazley S.FOUL (P1.PN) (K.Scott),,28-21,28,21
@@ -215,8 +215,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900101,2019-11-05,OKC,ORL,23.05,2,0,57,OKC,OKC,reb,0,False,False,Bazley REBOUND (Off:0 Def:3),,56-51,56,51
 0021900101,2019-11-05,OKC,ORL,23.15,2,0,51,OKC,OKC,fg_make,75,False,False,Gilgeous-Alexander 2' Driving Finger Roll Layup (17 PTS),,58-51,58,51
 0021900101,2019-11-05,OKC,ORL,23.38,2,0,37,ORL,ORL,fg_miss,3,True,False,,MISS Vucevic 7' Hook Shot,58-51,58,51
-0021900101,2019-11-05,OKC,ORL,23.38,2,0,37,ORL,ORL,reb,0,False,False,,Magic Rebound,58-51,58,51
 0021900101,2019-11-05,OKC,ORL,23.38,2,0,37,ORL,OKC,block,3,True,False,block,block,58-51,58,51
+0021900101,2019-11-05,OKC,ORL,23.38,2,0,37,ORL,ORL,reb,0,False,False,,Magic Rebound,58-51,58,51
 0021900101,2019-11-05,OKC,ORL,23.45,2,0,33,ORL,ORL,tov,39,False,False,,Fournier Step Out of Bounds Turnover (P3.T9),58-51,58,51
 0021900101,2019-11-05,OKC,ORL,23.53,2,0,28,OKC,OKC,fg3_miss,1,False,False,MISS Bazley 24' 3PT Jump Shot,,58-51,58,51
 0021900101,2019-11-05,OKC,ORL,23.58,2,0,25,ORL,ORL,reb,0,False,False,,Fournier REBOUND (Off:0 Def:1),58-51,58,51
@@ -369,8 +369,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900101,2019-11-05,OKC,ORL,39.1,4,8,54,OKC,OKC,fg3_miss,1,False,False,MISS Diallo 24' 3PT Jump Shot,,83-81,83,81
 0021900101,2019-11-05,OKC,ORL,39.17,4,8,50,ORL,ORL,reb,0,False,False,,Bamba REBOUND (Off:2 Def:5),83-81,83,81
 0021900101,2019-11-05,OKC,ORL,39.27,4,8,44,ORL,ORL,fg_miss,6,True,False,,MISS Augustin 3' Driving Layup,83-81,83,81
-0021900101,2019-11-05,OKC,ORL,39.27,4,8,44,OKC,OKC,reb,0,False,False,THUNDER Rebound,,83-81,83,81
 0021900101,2019-11-05,OKC,ORL,39.27,4,8,44,ORL,OKC,block,6,True,False,block,block,83-81,83,81
+0021900101,2019-11-05,OKC,ORL,39.27,4,8,44,OKC,OKC,reb,0,False,False,THUNDER Rebound,,83-81,83,81
 0021900101,2019-11-05,OKC,ORL,39.43,4,8,34,OKC,OKC,fg_miss,101,False,False,MISS Schroder 9' Driving Floating Jump Shot,,83-81,83,81
 0021900101,2019-11-05,OKC,ORL,39.48,4,8,31,ORL,ORL,reb,0,False,False,,Vucevic REBOUND (Off:2 Def:6),83-81,83,81
 0021900101,2019-11-05,OKC,ORL,39.67,4,8,20,ORL,ORL,fg_make,98,False,False,,Vucevic 1' Cutting Layup Shot (10 PTS) (Ross 2 AST),83-83,83,83
@@ -378,10 +378,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900101,2019-11-05,OKC,ORL,40.38,4,7,37,ORL,ORL,fg3_miss,1,False,False,,MISS Vucevic 26' 3PT Jump Shot,86-83,86,83
 0021900101,2019-11-05,OKC,ORL,40.43,4,7,34,OKC,OKC,reb,0,False,False,Noel REBOUND (Off:1 Def:2),,86-83,86,83
 0021900101,2019-11-05,OKC,ORL,40.63,4,7,22,OKC,OKC,fg_miss,6,True,False,MISS Diallo 10' Driving Layup,,86-83,86,83
+0021900101,2019-11-05,OKC,ORL,40.63,4,7,22,OKC,ORL,block,6,True,False,block,block,86-83,86,83
 0021900101,2019-11-05,OKC,ORL,40.63,4,7,22,OKC,OKC,reb,0,False,False,Diallo REBOUND (Off:2 Def:4),,86-83,86,83
 0021900101,2019-11-05,OKC,ORL,40.63,4,7,22,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 4 Short 0),,86-83,86,83
 0021900101,2019-11-05,OKC,ORL,40.63,4,7,22,OKC,ORL,foul,1,False,False,,Aminu P.FOUL (P3.T1) (S.Twardoski),86-83,86,83
-0021900101,2019-11-05,OKC,ORL,40.63,4,7,22,OKC,ORL,block,6,True,False,block,block,86-83,86,83
 0021900101,2019-11-05,OKC,ORL,40.85,4,7,9,OKC,OKC,fg_miss,80,False,False,MISS Gallinari 21' Step Back Jump Shot,,86-83,86,83
 0021900101,2019-11-05,OKC,ORL,40.88,4,7,7,ORL,ORL,reb,0,False,False,,Fournier REBOUND (Off:0 Def:4),86-83,86,83
 0021900101,2019-11-05,OKC,ORL,41.1,4,6,54,ORL,ORL,fg_miss,75,False,False,,MISS Fournier 1' Driving Finger Roll Layup,86-83,86,83

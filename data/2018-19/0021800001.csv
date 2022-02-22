@@ -48,9 +48,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800001,2018-10-16,BOS,PHI,5.05,1,6,57,PHI,PHI,fg3_miss,79,False,False,,MISS Covington 27' 3PT Pullup Jump Shot,7-8,7,8
 0021800001,2018-10-16,BOS,PHI,5.07,1,6,56,BOS,BOS,reb,0,False,False,Brown REBOUND (Off:0 Def:1),,7-8,7,8
 0021800001,2018-10-16,BOS,PHI,5.15,1,6,51,BOS,BOS,fg_miss,6,True,False,MISS Brown 2' Driving Layup,,7-8,7,8
+0021800001,2018-10-16,BOS,PHI,5.15,1,6,51,BOS,PHI,block,6,True,False,block,block,7-8,7,8
 0021800001,2018-10-16,BOS,PHI,5.15,1,6,51,PHI,PHI,reb,0,False,False,,76ers Rebound,7-8,7,8
 0021800001,2018-10-16,BOS,PHI,5.15,1,6,51,BOS,BOS,timeout,1,False,False,CELTICS Timeout: Regular (Full 1 Short 0),,7-8,7,8
-0021800001,2018-10-16,BOS,PHI,5.15,1,6,51,BOS,PHI,block,6,True,False,block,block,7-8,7,8
 0021800001,2018-10-16,BOS,PHI,5.3,1,6,42,PHI,PHI,tov,1,False,True,,Covington Bad Pass Turnover (P1.T3),7-8,7,8
 0021800001,2018-10-16,BOS,PHI,5.3,1,6,42,PHI,BOS,steal,1,False,True,steal,steal,7-8,7,8
 0021800001,2018-10-16,BOS,PHI,5.43,1,6,34,BOS,PHI,foul,2,False,False,,Covington S.FOUL (P1.T2) (S.Foster),7-8,7,8
@@ -183,9 +183,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800001,2018-10-16,BOS,PHI,18.42,2,5,35,BOS,BOS,reb,1,False,False,CELTICS Rebound,,32-28,32,28
 0021800001,2018-10-16,BOS,PHI,18.42,2,5,35,BOS,BOS,ft_make,12,False,False,Smart Free Throw 2 of 2 (4 PTS),,33-28,33,28
 0021800001,2018-10-16,BOS,PHI,18.68,2,5,19,PHI,PHI,fg_make,47,False,False,,Simmons 9' Turnaround Jump Shot (9 PTS),33-30,33,30
-0021800001,2018-10-16,BOS,PHI,18.68,2,5,19,PHI,BOS,foul,2,False,False,Morris Sr. S.FOUL (P2.T1) (R.Garretson),,33-30,33,30
-0021800001,2018-10-16,BOS,PHI,18.68,2,5,19,PHI,BOS,violation,3,False,False,Lane,,33-30,33,30
 0021800001,2018-10-16,BOS,PHI,18.68,2,5,19,PHI,PHI,ft_make,10,False,False,,Simmons Free Throw 1 of 1 (10 PTS),33-31,33,31
+0021800001,2018-10-16,BOS,PHI,18.68,2,5,19,PHI,BOS,violation,3,False,False,Lane,,33-30,33,30
+0021800001,2018-10-16,BOS,PHI,18.68,2,5,19,PHI,BOS,foul,2,False,False,Morris Sr. S.FOUL (P2.T1) (R.Garretson),,33-30,33,30
 0021800001,2018-10-16,BOS,PHI,18.88,2,5,7,BOS,BOS,fg_make,43,False,False,Horford 1' Alley Oop Layup (5 PTS) (Smart 1 AST),,35-31,35,31
 0021800001,2018-10-16,BOS,PHI,19.17,2,4,50,PHI,PHI,fg_make,98,False,False,,Fultz 3' Cutting Layup Shot (4 PTS) (Simmons 4 AST),35-33,35,33
 0021800001,2018-10-16,BOS,PHI,19.45,2,4,33,BOS,BOS,fg3_make,1,False,False,Morris Sr. 24' 3PT Jump Shot (5 PTS) (Smart 2 AST),,38-33,38,33
@@ -216,9 +216,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800001,2018-10-16,BOS,PHI,22.4,2,1,36,PHI,PHI,tov,1,False,True,,Covington Bad Pass Turnover (P2.T10),43-40,43,40
 0021800001,2018-10-16,BOS,PHI,22.4,2,1,36,PHI,BOS,steal,1,False,True,steal,steal,43-40,43,40
 0021800001,2018-10-16,BOS,PHI,22.45,2,1,33,BOS,BOS,fg3_miss,1,False,False,MISS Irving 25' 3PT Jump Shot,,43-40,43,40
+0021800001,2018-10-16,BOS,PHI,22.47,2,1,32,BOS,BOS,reb,0,False,False,Brown REBOUND (Off:3 Def:1),,43-40,43,40
 0021800001,2018-10-16,BOS,PHI,22.47,2,1,32,BOS,BOS,fg_miss,97,False,False,MISS Brown 2' Tip Layup Shot,,43-40,43,40
 0021800001,2018-10-16,BOS,PHI,22.47,2,1,32,BOS,BOS,reb,0,False,False,Brown REBOUND (Off:2 Def:1),,43-40,43,40
-0021800001,2018-10-16,BOS,PHI,22.47,2,1,32,BOS,BOS,reb,0,False,False,Brown REBOUND (Off:3 Def:1),,43-40,43,40
 0021800001,2018-10-16,BOS,PHI,22.48,2,1,31,BOS,BOS,fg_miss,72,False,False,MISS Brown 1' Putback Layup,,43-40,43,40
 0021800001,2018-10-16,BOS,PHI,22.52,2,1,29,PHI,PHI,reb,0,False,False,,Covington REBOUND (Off:1 Def:2),43-40,43,40
 0021800001,2018-10-16,BOS,PHI,22.7,2,1,18,PHI,PHI,tov,45,False,False,,Embiid Out of Bounds - Bad Pass Turnover Turnover (P4.T11),43-40,43,40
@@ -407,8 +407,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800001,2018-10-16,BOS,PHI,42.32,4,5,41,BOS,BOS,reb,0,False,False,Hayward REBOUND (Off:2 Def:2),,94-83,94,83
 0021800001,2018-10-16,BOS,PHI,42.65,4,5,21,BOS,BOS,fg3_miss,1,True,False,MISS Hayward 3PT Jump Shot,,94-83,94,83
 0021800001,2018-10-16,BOS,PHI,42.65,4,5,21,BOS,PHI,block,1,True,False,block,block,94-83,94,83
-0021800001,2018-10-16,BOS,PHI,42.67,4,5,20,BOS,BOS,reb,0,False,False,CELTICS Rebound,,94-83,94,83
 0021800001,2018-10-16,BOS,PHI,42.67,4,5,20,BOS,BOS,tov,11,False,False,CELTICS Turnover: Shot Clock (T#13),,94-83,94,83
+0021800001,2018-10-16,BOS,PHI,42.67,4,5,20,BOS,BOS,reb,0,False,False,CELTICS Rebound,,94-83,94,83
 0021800001,2018-10-16,BOS,PHI,42.87,4,5,8,PHI,PHI,fg_miss,5,False,False,,MISS Saric 2' Layup,94-83,94,83
 0021800001,2018-10-16,BOS,PHI,42.9,4,5,6,BOS,BOS,reb,0,False,False,Tatum REBOUND (Off:2 Def:7),,94-83,94,83
 0021800001,2018-10-16,BOS,PHI,43.18,4,4,49,BOS,BOS,fg_miss,80,False,False,MISS Irving 17' Step Back Jump Shot,,94-83,94,83

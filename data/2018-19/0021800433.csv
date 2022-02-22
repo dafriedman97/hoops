@@ -20,8 +20,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800433,2018-12-15,SAS,CHI,2.85,1,9,9,SAS,SAS,fg_make,63,False,False,Aldridge 13' Fadeaway Jumper (6 PTS) (Forbes 2 AST),,8-5,8,5
 0021800433,2018-12-15,SAS,CHI,3.23,1,8,46,CHI,CHI,fg_miss,79,True,False,,MISS Markkanen 13' Pullup Jump Shot,8-5,8,5
 0021800433,2018-12-15,SAS,CHI,3.23,1,8,46,CHI,SAS,block,79,True,False,block,block,8-5,8,5
-0021800433,2018-12-15,SAS,CHI,3.25,1,8,45,SAS,SAS,reb,0,False,False,Gay REBOUND (Off:0 Def:1),,8-5,8,5
 0021800433,2018-12-15,SAS,CHI,3.25,1,8,45,SAS,SAS,tov,45,False,False,Gay Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,8-5,8,5
+0021800433,2018-12-15,SAS,CHI,3.25,1,8,45,SAS,SAS,reb,0,False,False,Gay REBOUND (Off:0 Def:1),,8-5,8,5
 0021800433,2018-12-15,SAS,CHI,3.43,1,8,34,CHI,CHI,fg_miss,79,False,False,,MISS Dunn 17' Pullup Jump Shot,8-5,8,5
 0021800433,2018-12-15,SAS,CHI,3.47,1,8,32,SAS,SAS,reb,0,False,False,Forbes REBOUND (Off:0 Def:2),,8-5,8,5
 0021800433,2018-12-15,SAS,CHI,3.6,1,8,24,SAS,SAS,fg_miss,78,False,False,MISS DeRozan 10' Floating Jump Shot,,8-5,8,5
@@ -148,8 +148,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800433,2018-12-15,SAS,CHI,18.55,2,5,27,CHI,CHI,fg3_miss,1,False,False,,MISS Arcidiacono 26' 3PT Jump Shot,50-33,50,33
 0021800433,2018-12-15,SAS,CHI,18.6,2,5,24,CHI,CHI,reb,0,False,False,,Markkanen REBOUND (Off:1 Def:1),50-33,50,33
 0021800433,2018-12-15,SAS,CHI,18.62,2,5,23,CHI,CHI,fg_miss,6,True,False,,MISS Markkanen 2' Driving Layup,50-33,50,33
-0021800433,2018-12-15,SAS,CHI,18.62,2,5,23,CHI,CHI,reb,0,False,False,,Bulls Rebound,50-33,50,33
 0021800433,2018-12-15,SAS,CHI,18.62,2,5,23,CHI,SAS,block,6,True,False,block,block,50-33,50,33
+0021800433,2018-12-15,SAS,CHI,18.62,2,5,23,CHI,CHI,reb,0,False,False,,Bulls Rebound,50-33,50,33
 0021800433,2018-12-15,SAS,CHI,18.77,2,5,14,CHI,CHI,fg_make,78,False,False,,Markkanen 8' Floating Jump Shot (10 PTS) (Lopez 1 AST),50-35,50,35
 0021800433,2018-12-15,SAS,CHI,19.0,2,5,0,SAS,SAS,tov,1,False,True,Forbes Bad Pass Turnover (P1.T6),,50-35,50,35
 0021800433,2018-12-15,SAS,CHI,19.0,2,5,0,SAS,SAS,tov,1,False,True,Forbes Bad Pass Turnover (P1.T6),,50-35,50,35
@@ -221,8 +221,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800433,2018-12-15,SAS,CHI,25.98,3,10,1,SAS,SAS,tov,2,False,True,White Lost Ball Turnover (P1.T11),,64-46,64,46
 0021800433,2018-12-15,SAS,CHI,25.98,3,10,1,SAS,CHI,steal,2,False,True,steal,steal,64-46,64,46
 0021800433,2018-12-15,SAS,CHI,26.05,3,9,57,CHI,CHI,fg_miss,44,True,False,,MISS Dunn 4' Reverse Layup,64-46,64,46
-0021800433,2018-12-15,SAS,CHI,26.05,3,9,57,CHI,CHI,reb,0,False,False,,Bulls Rebound,64-46,64,46
 0021800433,2018-12-15,SAS,CHI,26.05,3,9,57,CHI,SAS,block,44,True,False,block,block,64-46,64,46
+0021800433,2018-12-15,SAS,CHI,26.05,3,9,57,CHI,CHI,reb,0,False,False,,Bulls Rebound,64-46,64,46
 0021800433,2018-12-15,SAS,CHI,26.17,3,9,50,CHI,CHI,fg3_miss,1,False,False,,MISS Markkanen 26' 3PT Jump Shot,64-46,64,46
 0021800433,2018-12-15,SAS,CHI,26.23,3,9,46,SAS,SAS,reb,0,False,False,Mills REBOUND (Off:0 Def:2),,64-46,64,46
 0021800433,2018-12-15,SAS,CHI,26.25,3,9,45,SAS,SAS,tov,2,False,True,Mills Lost Ball Turnover (P2.T12),,64-46,64,46
@@ -239,8 +239,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800433,2018-12-15,SAS,CHI,27.98,3,8,1,CHI,CHI,fg_miss,80,False,False,,MISS Dunn 14' Step Back Jump Shot,68-50,68,50
 0021800433,2018-12-15,SAS,CHI,28.1,3,7,54,CHI,CHI,reb,0,False,False,,Carter Jr. REBOUND (Off:1 Def:0),68-50,68,50
 0021800433,2018-12-15,SAS,CHI,28.1,3,7,54,CHI,CHI,fg_miss,72,True,False,,MISS Carter Jr. 1' Putback Layup,68-50,68,50
-0021800433,2018-12-15,SAS,CHI,28.1,3,7,54,SAS,SAS,reb,0,False,False,Forbes REBOUND (Off:0 Def:5),,68-50,68,50
 0021800433,2018-12-15,SAS,CHI,28.1,3,7,54,CHI,SAS,block,72,True,False,block,block,68-50,68,50
+0021800433,2018-12-15,SAS,CHI,28.1,3,7,54,SAS,SAS,reb,0,False,False,Forbes REBOUND (Off:0 Def:5),,68-50,68,50
 0021800433,2018-12-15,SAS,CHI,28.47,3,7,32,SAS,SAS,fg_make,103,False,False,Gay 12' Running Pull-Up Jump Shot (12 PTS),,70-50,70,50
 0021800433,2018-12-15,SAS,CHI,28.65,3,7,21,CHI,CHI,fg_make,66,False,False,,Dunn 3' Jump Bank Shot (12 PTS),70-52,70,52
 0021800433,2018-12-15,SAS,CHI,29.0,3,7,0,SAS,SAS,fg_miss,1,False,False,MISS Aldridge 17' Jump Shot,,70-52,70,52
@@ -258,8 +258,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800433,2018-12-15,SAS,CHI,30.2,3,5,48,CHI,CHI,fg_make,57,False,False,,Dunn 9' Driving Hook Shot (14 PTS),72-59,72,59
 0021800433,2018-12-15,SAS,CHI,30.42,3,5,35,SAS,CHI,foul,1,False,False,,Arcidiacono P.FOUL (P2.T2) (M.Ervin),72-59,72,59
 0021800433,2018-12-15,SAS,CHI,30.52,3,5,29,SAS,SAS,fg_miss,78,True,False,MISS DeRozan 9' Floating Jump Shot,,72-59,72,59
-0021800433,2018-12-15,SAS,CHI,30.52,3,5,29,CHI,CHI,reb,0,False,False,,Carter Jr. REBOUND (Off:1 Def:1),72-59,72,59
 0021800433,2018-12-15,SAS,CHI,30.52,3,5,29,SAS,CHI,block,78,True,False,block,block,72-59,72,59
+0021800433,2018-12-15,SAS,CHI,30.52,3,5,29,CHI,CHI,reb,0,False,False,,Carter Jr. REBOUND (Off:1 Def:1),72-59,72,59
 0021800433,2018-12-15,SAS,CHI,30.7,3,5,18,CHI,CHI,fg_make,79,False,False,,Dunn 13' Pullup Jump Shot (16 PTS),72-61,72,61
 0021800433,2018-12-15,SAS,CHI,31.08,3,4,55,SAS,SAS,fg_miss,6,False,False,MISS Aldridge 6' Driving Layup,,72-61,72,61
 0021800433,2018-12-15,SAS,CHI,31.08,3,4,55,CHI,CHI,reb,0,False,False,,Markkanen REBOUND (Off:1 Def:4),72-61,72,61
@@ -381,8 +381,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800433,2018-12-15,SAS,CHI,44.22,4,3,47,CHI,SAS,foul,1,False,False,Belinelli P.FOUL (P3.T4) (M.Lindsay),,89-85,89,85
 0021800433,2018-12-15,SAS,CHI,44.5,4,3,30,CHI,CHI,fg3_make,79,False,False,,Arcidiacono 26' 3PT Pullup Jump Shot (12 PTS),89-88,89,88
 0021800433,2018-12-15,SAS,CHI,44.73,4,3,16,SAS,SAS,fg_miss,47,True,False,MISS DeRozan 7' Turnaround Jump Shot,,89-88,89,88
-0021800433,2018-12-15,SAS,CHI,44.73,4,3,16,CHI,CHI,reb,0,False,False,,Holiday REBOUND (Off:0 Def:7),89-88,89,88
 0021800433,2018-12-15,SAS,CHI,44.73,4,3,16,SAS,CHI,block,47,True,False,block,block,89-88,89,88
+0021800433,2018-12-15,SAS,CHI,44.73,4,3,16,CHI,CHI,reb,0,False,False,,Holiday REBOUND (Off:0 Def:7),89-88,89,88
 0021800433,2018-12-15,SAS,CHI,45.12,4,2,53,CHI,CHI,tov,11,False,False,,Bulls Turnover: Shot Clock (T#9),89-88,89,88
 0021800433,2018-12-15,SAS,CHI,45.3,4,2,42,SAS,CHI,foul,2,False,False,,Carter Jr. S.FOUL (P5.T3) (C.Kirkland),89-88,89,88
 0021800433,2018-12-15,SAS,CHI,45.3,4,2,42,SAS,SAS,ft_make,11,False,False,Aldridge Free Throw 1 of 2 (28 PTS),,90-88,90,88
@@ -390,8 +390,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800433,2018-12-15,SAS,CHI,45.37,4,2,38,CHI,CHI,reb,0,False,False,,Markkanen REBOUND (Off:1 Def:6),90-88,90,88
 0021800433,2018-12-15,SAS,CHI,45.78,4,2,13,CHI,CHI,fg_make,47,False,False,,Markkanen 17' Turnaround Jump Shot (23 PTS),90-90,90,90
 0021800433,2018-12-15,SAS,CHI,46.12,4,1,53,SAS,SAS,fg_miss,6,True,False,MISS DeRozan 3' Driving Layup,,90-90,90,90
-0021800433,2018-12-15,SAS,CHI,46.12,4,1,53,SAS,SAS,reb,0,False,False,SPURS Rebound,,90-90,90,90
 0021800433,2018-12-15,SAS,CHI,46.12,4,1,53,SAS,CHI,block,6,True,False,block,block,90-90,90,90
+0021800433,2018-12-15,SAS,CHI,46.12,4,1,53,SAS,SAS,reb,0,False,False,SPURS Rebound,,90-90,90,90
 0021800433,2018-12-15,SAS,CHI,46.15,4,1,51,SAS,CHI,foul,2,False,False,,Carter Jr. S.FOUL (P6.T4) (C.Kirkland),90-90,90,90
 0021800433,2018-12-15,SAS,CHI,46.15,4,1,51,SAS,SAS,ft_miss,11,False,False,MISS Aldridge Free Throw 1 of 2,,90-90,90,90
 0021800433,2018-12-15,SAS,CHI,46.15,4,1,51,SAS,SAS,reb,1,False,False,SPURS Rebound,,90-90,90,90

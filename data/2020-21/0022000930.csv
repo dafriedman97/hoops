@@ -26,8 +26,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000930,2021-04-27,TOR,BKN,3.03,1,8,58,BKN,BKN,tov,1,False,True,,Durant Bad Pass Turnover (P1.T1),5-7,5,7
 0022000930,2021-04-27,TOR,BKN,3.03,1,8,58,BKN,TOR,steal,1,False,True,steal,steal,5-7,5,7
 0022000930,2021-04-27,TOR,BKN,3.17,1,8,50,TOR,TOR,fg_miss,6,True,False,MISS Siakam 4' Driving Layup,,5-7,5,7
-0022000930,2021-04-27,TOR,BKN,3.17,1,8,50,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,5-7,5,7
 0022000930,2021-04-27,TOR,BKN,3.17,1,8,50,TOR,BKN,block,6,True,False,block,block,5-7,5,7
+0022000930,2021-04-27,TOR,BKN,3.17,1,8,50,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,5-7,5,7
 0022000930,2021-04-27,TOR,BKN,3.18,1,8,49,TOR,TOR,fg_make,98,False,False,Siakam 3' Cutting Layup Shot (2 PTS) (Lowry 2 AST),,7-7,7,7
 0022000930,2021-04-27,TOR,BKN,3.18,1,8,49,TOR,BKN,violation,2,False,False,,Durant Violation:Defensive Goaltending (R.Hussey),7-7,7,7
 0022000930,2021-04-27,TOR,BKN,3.4,1,8,36,BKN,BKN,fg_miss,101,False,False,,MISS Harris 4' Driving Floating Jump Shot,7-7,7,7
@@ -35,8 +35,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000930,2021-04-27,TOR,BKN,3.55,1,8,27,TOR,TOR,fg_miss,102,False,False,MISS Siakam 4' Driving Floating Bank Jump Shot,,7-7,7,7
 0022000930,2021-04-27,TOR,BKN,3.58,1,8,25,BKN,BKN,reb,0,False,False,,Durant REBOUND (Off:0 Def:3),7-7,7,7
 0022000930,2021-04-27,TOR,BKN,3.68,1,8,19,BKN,BKN,fg_miss,6,True,False,,MISS Shamet 2' Driving Layup,7-7,7,7
-0022000930,2021-04-27,TOR,BKN,3.68,1,8,19,TOR,TOR,reb,0,False,False,Siakam REBOUND (Off:0 Def:2),,7-7,7,7
 0022000930,2021-04-27,TOR,BKN,3.68,1,8,19,BKN,TOR,block,6,True,False,block,block,7-7,7,7
+0022000930,2021-04-27,TOR,BKN,3.68,1,8,19,TOR,TOR,reb,0,False,False,Siakam REBOUND (Off:0 Def:2),,7-7,7,7
 0022000930,2021-04-27,TOR,BKN,3.8,1,8,12,TOR,TOR,fg3_make,1,False,False,Lowry 27' 3PT Jump Shot (6 PTS) (Anunoby 1 AST),,10-7,10,7
 0022000930,2021-04-27,TOR,BKN,4.12,1,7,53,BKN,BKN,tov,1,False,True,,Irving Bad Pass Turnover (P1.T2),10-7,10,7
 0022000930,2021-04-27,TOR,BKN,4.12,1,7,53,BKN,TOR,steal,1,False,True,steal,steal,10-7,10,7
@@ -92,8 +92,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000930,2021-04-27,TOR,BKN,9.63,1,2,22,BKN,BKN,ft_make,12,False,False,,Johnson Free Throw 2 of 2 (2 PTS),24-21,24,21
 0022000930,2021-04-27,TOR,BKN,9.98,1,2,1,TOR,TOR,fg_make,79,False,False,Flynn 14' Pullup Jump Shot (2 PTS),,26-21,26,21
 0022000930,2021-04-27,TOR,BKN,10.27,1,1,44,BKN,BKN,fg_miss,98,True,False,,MISS Griffin 3' Cutting Layup Shot,26-21,26,21
-0022000930,2021-04-27,TOR,BKN,10.27,1,1,44,BKN,BKN,reb,0,False,False,,Nets Rebound,26-21,26,21
 0022000930,2021-04-27,TOR,BKN,10.27,1,1,44,BKN,TOR,block,98,True,False,block,block,26-21,26,21
+0022000930,2021-04-27,TOR,BKN,10.27,1,1,44,BKN,BKN,reb,0,False,False,,Nets Rebound,26-21,26,21
 0022000930,2021-04-27,TOR,BKN,10.42,1,1,35,BKN,BKN,fg3_miss,1,False,False,,MISS Green 3PT Jump Shot,26-21,26,21
 0022000930,2021-04-27,TOR,BKN,10.48,1,1,31,TOR,TOR,reb,0,False,False,Gillespie REBOUND (Off:0 Def:1),,26-21,26,21
 0022000930,2021-04-27,TOR,BKN,10.57,1,1,26,TOR,TOR,tov,45,False,False,Lowry Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,26-21,26,21
@@ -153,9 +153,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000930,2021-04-27,TOR,BKN,16.88,2,7,7,TOR,TOR,reb,0,False,False,VanVleet REBOUND (Off:0 Def:3),,38-37,38,37
 0022000930,2021-04-27,TOR,BKN,16.97,2,7,2,TOR,TOR,fg3_miss,1,False,False,MISS Siakam 26' 3PT Jump Shot,,38-37,38,37
 0022000930,2021-04-27,TOR,BKN,17.0,2,7,0,BKN,BKN,reb,0,False,False,,Nets Rebound,38-37,38,37
-0022000930,2021-04-27,TOR,BKN,17.33,2,6,40,BKN,BKN,tov,2,False,False,,Shamet Lost Ball Turnover (P1.T6),38-37,38,37
 0022000930,2021-04-27,TOR,BKN,17.33,2,6,40,TOR,BKN,foul,3,False,False,,Shamet L.B.FOUL (P2.T2) (R.Hussey),38-37,38,37
 0022000930,2021-04-27,TOR,BKN,17.33,2,6,40,TOR,TOR,timeout,1,False,False,RAPTORS Timeout: Regular (Full 2 Short 0),,38-37,38,37
+0022000930,2021-04-27,TOR,BKN,17.33,2,6,40,BKN,BKN,tov,2,False,False,,Shamet Lost Ball Turnover (P1.T6),38-37,38,37
 0022000930,2021-04-27,TOR,BKN,17.5,2,6,30,TOR,TOR,fg3_miss,1,False,False,MISS Watanabe 3PT Jump Shot,,38-37,38,37
 0022000930,2021-04-27,TOR,BKN,17.57,2,6,26,TOR,TOR,reb,0,False,False,Birch REBOUND (Off:2 Def:2),,38-37,38,37
 0022000930,2021-04-27,TOR,BKN,17.63,2,6,22,TOR,TOR,fg3_miss,1,False,False,MISS Watanabe 3PT Jump Shot,,38-37,38,37
@@ -164,8 +164,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000930,2021-04-27,TOR,BKN,17.78,2,6,13,BKN,BKN,reb,0,False,False,,Durant REBOUND (Off:0 Def:6),38-37,38,37
 0022000930,2021-04-27,TOR,BKN,18.03,2,5,58,BKN,BKN,fg_make,5,False,False,,Irving 4' Layup (2 PTS) (Shamet 2 AST),38-39,38,39
 0022000930,2021-04-27,TOR,BKN,18.23,2,5,46,TOR,TOR,tov,1,False,True,VanVleet Bad Pass Turnover (P1.T4),,38-39,38,39
-0022000930,2021-04-27,TOR,BKN,18.23,2,5,46,BKN,TOR,foul,28,False,False,Siakam Personal Take Foul (P2.PN) (R.Mott),,38-39,38,39
 0022000930,2021-04-27,TOR,BKN,18.23,2,5,46,TOR,BKN,steal,1,False,True,steal,steal,38-39,38,39
+0022000930,2021-04-27,TOR,BKN,18.23,2,5,46,BKN,TOR,foul,28,False,False,Siakam Personal Take Foul (P2.PN) (R.Mott),,38-39,38,39
 0022000930,2021-04-27,TOR,BKN,18.23,2,5,46,BKN,BKN,ft_make,11,False,False,,Irving Free Throw 1 of 2 (3 PTS),38-40,38,40
 0022000930,2021-04-27,TOR,BKN,18.23,2,5,46,BKN,BKN,ft_make,12,False,False,,Irving Free Throw 2 of 2 (4 PTS),38-41,38,41
 0022000930,2021-04-27,TOR,BKN,18.48,2,5,31,TOR,TOR,fg3_miss,79,False,False,MISS Lowry 29' 3PT Pullup Jump Shot,,38-41,38,41
@@ -257,8 +257,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000930,2021-04-27,TOR,BKN,27.83,3,8,10,BKN,BKN,fg_miss,41,False,False,,MISS Irving 3' Running Layup,61-63,61,63
 0022000930,2021-04-27,TOR,BKN,27.9,3,8,6,TOR,TOR,reb,0,False,False,Anunoby REBOUND (Off:0 Def:1),,61-63,61,63
 0022000930,2021-04-27,TOR,BKN,27.93,3,8,4,TOR,TOR,fg_miss,41,True,False,MISS Anunoby 3' Running Layup,,61-63,61,63
-0022000930,2021-04-27,TOR,BKN,27.93,3,8,4,BKN,BKN,reb,0,False,False,,Nets Rebound,61-63,61,63
 0022000930,2021-04-27,TOR,BKN,27.93,3,8,4,TOR,BKN,block,41,True,False,block,block,61-63,61,63
+0022000930,2021-04-27,TOR,BKN,27.93,3,8,4,BKN,BKN,reb,0,False,False,,Nets Rebound,61-63,61,63
 0022000930,2021-04-27,TOR,BKN,28.13,3,7,52,BKN,BKN,fg3_miss,1,False,False,,MISS Harris 24' 3PT Jump Shot,61-63,61,63
 0022000930,2021-04-27,TOR,BKN,28.17,3,7,50,TOR,TOR,reb,0,False,False,Anunoby REBOUND (Off:0 Def:2),,61-63,61,63
 0022000930,2021-04-27,TOR,BKN,28.37,3,7,38,TOR,TOR,tov,1,False,True,Anunoby Bad Pass Turnover (P2.T10),,61-63,61,63

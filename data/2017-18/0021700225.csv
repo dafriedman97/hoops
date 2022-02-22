@@ -12,8 +12,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700225,2017-11-17,SAC,POR,1.47,1,10,32,POR,POR,fg3_miss,1,False,False,,MISS Lillard 25' 3PT Jump Shot,5-0,5,0
 0021700225,2017-11-17,SAC,POR,1.53,1,10,28,SAC,SAC,reb,0,False,False,Fox REBOUND (Off:0 Def:1),,5-0,5,0
 0021700225,2017-11-17,SAC,POR,1.57,1,10,26,SAC,SAC,fg_miss,5,True,False,MISS Fox 6' Layup,,5-0,5,0
-0021700225,2017-11-17,SAC,POR,1.57,1,10,26,POR,POR,reb,0,False,False,,Trail Blazers Rebound,5-0,5,0
 0021700225,2017-11-17,SAC,POR,1.57,1,10,26,SAC,POR,block,5,True,False,block,block,5-0,5,0
+0021700225,2017-11-17,SAC,POR,1.57,1,10,26,POR,POR,reb,0,False,False,,Trail Blazers Rebound,5-0,5,0
 0021700225,2017-11-17,SAC,POR,1.68,1,10,19,,SAC,jump_ball,0,False,False,Jump Ball Fox vs. Lillard: Tip to McCollum,,5-0,5,0
 0021700225,2017-11-17,SAC,POR,1.72,1,10,17,POR,POR,fg_miss,5,False,False,,MISS Lillard 2' Layup,5-0,5,0
 0021700225,2017-11-17,SAC,POR,1.77,1,10,14,SAC,SAC,reb,0,False,False,Randolph REBOUND (Off:0 Def:1),,5-0,5,0
@@ -156,8 +156,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700225,2017-11-17,SAC,POR,18.82,2,5,11,SAC,SAC,reb,1,False,False,KINGS Rebound,,31-25,31,25
 0021700225,2017-11-17,SAC,POR,18.82,2,5,11,SAC,SAC,ft_make,12,False,False,Cauley-Stein Free Throw 2 of 2 (9 PTS),,32-25,32,25
 0021700225,2017-11-17,SAC,POR,19.2,2,4,48,POR,POR,fg_miss,6,True,False,,MISS Connaughton 3' Driving Layup,32-25,32,25
-0021700225,2017-11-17,SAC,POR,19.2,2,4,48,POR,POR,reb,0,False,False,,Trail Blazers Rebound,32-25,32,25
 0021700225,2017-11-17,SAC,POR,19.2,2,4,48,POR,SAC,block,6,True,False,block,block,32-25,32,25
+0021700225,2017-11-17,SAC,POR,19.2,2,4,48,POR,POR,reb,0,False,False,,Trail Blazers Rebound,32-25,32,25
 0021700225,2017-11-17,SAC,POR,19.27,2,4,44,POR,POR,fg3_miss,1,False,False,,MISS McCollum 25' 3PT Jump Shot,32-25,32,25
 0021700225,2017-11-17,SAC,POR,19.3,2,4,42,SAC,SAC,reb,0,False,False,Mason REBOUND (Off:0 Def:1),,32-25,32,25
 0021700225,2017-11-17,SAC,POR,19.5,2,4,30,SAC,SAC,fg_miss,3,False,False,MISS Koufos 7' Hook Shot,,32-25,32,25
@@ -228,8 +228,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700225,2017-11-17,SAC,POR,27.53,3,8,28,SAC,SAC,fg_miss,1,False,False,MISS G. Hill 13' Jump Shot,,44-45,44,45
 0021700225,2017-11-17,SAC,POR,27.6,3,8,24,POR,POR,reb,0,False,False,,Harkless REBOUND (Off:1 Def:4),44-45,44,45
 0021700225,2017-11-17,SAC,POR,27.73,3,8,16,POR,POR,fg_miss,5,False,False,,MISS Nurkic 3' Layup,44-45,44,45
-0021700225,2017-11-17,SAC,POR,27.75,3,8,15,SAC,SAC,reb,0,False,False,KINGS Rebound,,44-45,44,45
 0021700225,2017-11-17,SAC,POR,27.75,3,8,15,SAC,POR,foul,3,False,False,,Swanigan L.B.FOUL (P3.T2) (C.Washington),44-45,44,45
+0021700225,2017-11-17,SAC,POR,27.75,3,8,15,SAC,SAC,reb,0,False,False,KINGS Rebound,,44-45,44,45
 0021700225,2017-11-17,SAC,POR,27.9,3,8,6,SAC,SAC,fg_make,1,False,False,Labissiere 18' Jump Shot (2 PTS) (Fox 4 AST),,46-45,46,45
 0021700225,2017-11-17,SAC,POR,28.13,3,7,52,POR,POR,fg3_miss,63,False,False,,MISS Lillard 29' 3PT Fadeaway Jumper,46-45,46,45
 0021700225,2017-11-17,SAC,POR,28.13,3,7,52,SAC,SAC,reb,0,False,False,Temple REBOUND (Off:0 Def:2),,46-45,46,45
@@ -238,11 +238,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700225,2017-11-17,SAC,POR,28.35,3,7,39,POR,POR,fg_miss,1,False,False,,MISS McCollum 10' Jump Shot,46-45,46,45
 0021700225,2017-11-17,SAC,POR,28.35,3,7,39,POR,POR,reb,0,False,False,,Trail Blazers Rebound,46-45,46,45
 0021700225,2017-11-17,SAC,POR,28.47,3,7,32,POR,POR,fg_miss,1,True,False,,MISS Lillard 15' Jump Shot,46-45,46,45
-0021700225,2017-11-17,SAC,POR,28.47,3,7,32,SAC,SAC,reb,0,False,False,KINGS Rebound,,46-45,46,45
 0021700225,2017-11-17,SAC,POR,28.47,3,7,32,POR,SAC,block,1,True,False,block,block,46-45,46,45
+0021700225,2017-11-17,SAC,POR,28.47,3,7,32,SAC,SAC,reb,0,False,False,KINGS Rebound,,46-45,46,45
 0021700225,2017-11-17,SAC,POR,28.75,3,7,15,SAC,SAC,tov,1,False,True,Fox Bad Pass Turnover (P4.T6),,46-45,46,45
-0021700225,2017-11-17,SAC,POR,28.75,3,7,15,POR,SAC,foul,1,False,False,G. Hill P.FOUL (P2.T3) (C.Washington),,46-45,46,45
 0021700225,2017-11-17,SAC,POR,28.75,3,7,15,SAC,POR,steal,1,False,True,steal,steal,46-45,46,45
+0021700225,2017-11-17,SAC,POR,28.75,3,7,15,POR,SAC,foul,1,False,False,G. Hill P.FOUL (P2.T3) (C.Washington),,46-45,46,45
 0021700225,2017-11-17,SAC,POR,29.02,3,6,59,POR,POR,fg_make,108,False,False,,Vonleh 2' Cutting Dunk Shot (5 PTS) (Nurkic 1 AST),46-47,46,47
 0021700225,2017-11-17,SAC,POR,29.28,3,6,43,SAC,POR,foul,1,False,False,,Harkless P.FOUL (P3.T3) (C.Washington),46-47,46,47
 0021700225,2017-11-17,SAC,POR,29.28,3,6,43,SAC,SAC,timeout,1,False,False,KINGS Timeout: Regular (Full 3 Short 0),,46-47,46,47
@@ -362,8 +362,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700225,2017-11-17,SAC,POR,42.8,4,5,12,SAC,SAC,fg_make,5,False,False,G. Hill 3' Layup (14 PTS) (Cauley-Stein 2 AST),,76-71,76,71
 0021700225,2017-11-17,SAC,POR,43.02,4,4,59,POR,SAC,foul,1,False,False,Koufos P.FOUL (P1.T2) (E.Lewis),,76-71,76,71
 0021700225,2017-11-17,SAC,POR,43.22,4,4,47,POR,POR,fg_miss,1,True,False,,MISS McCollum 23' Jump Shot,76-71,76,71
-0021700225,2017-11-17,SAC,POR,43.22,4,4,47,POR,POR,reb,0,False,False,,Trail Blazers Rebound,76-71,76,71
 0021700225,2017-11-17,SAC,POR,43.22,4,4,47,POR,SAC,block,1,True,False,block,block,76-71,76,71
+0021700225,2017-11-17,SAC,POR,43.22,4,4,47,POR,POR,reb,0,False,False,,Trail Blazers Rebound,76-71,76,71
 0021700225,2017-11-17,SAC,POR,43.25,4,4,45,POR,POR,tov,11,False,False,,Trail Blazers Turnover: Shot Clock (T#17),76-71,76,71
 0021700225,2017-11-17,SAC,POR,43.38,4,4,37,SAC,POR,foul,1,False,False,,Davis P.FOUL (P2.T4) (C.Washington),76-71,76,71
 0021700225,2017-11-17,SAC,POR,43.57,4,4,26,SAC,SAC,fg_miss,1,False,False,MISS Cauley-Stein 21' Jump Shot,,76-71,76,71
@@ -377,11 +377,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700225,2017-11-17,SAC,POR,44.23,4,3,46,POR,POR,fg_miss,1,False,False,,MISS Lillard 9' Jump Shot,78-73,78,73
 0021700225,2017-11-17,SAC,POR,44.3,4,3,42,POR,POR,reb,0,False,False,,Davis REBOUND (Off:2 Def:6),78-73,78,73
 0021700225,2017-11-17,SAC,POR,44.35,4,3,39,POR,POR,tov,1,False,True,,Davis Bad Pass Turnover (P3.T18),78-73,78,73
+0021700225,2017-11-17,SAC,POR,44.35,4,3,39,POR,SAC,steal,1,False,True,steal,steal,78-73,78,73
 0021700225,2017-11-17,SAC,POR,44.35,4,3,39,SAC,SAC,tov,2,False,True,G. Hill Lost Ball Turnover (P2.T13),,78-73,78,73
+0021700225,2017-11-17,SAC,POR,44.35,4,3,39,SAC,POR,steal,2,False,True,steal,steal,78-73,78,73
 0021700225,2017-11-17,SAC,POR,44.35,4,3,39,POR,SAC,foul,3,False,False,G. Hill L.B.FOUL (P4.T4) (E.Lewis),,78-73,78,73
 0021700225,2017-11-17,SAC,POR,44.35,4,3,39,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.5 Short 0),78-73,78,73
-0021700225,2017-11-17,SAC,POR,44.35,4,3,39,POR,SAC,steal,1,False,True,steal,steal,78-73,78,73
-0021700225,2017-11-17,SAC,POR,44.35,4,3,39,SAC,POR,steal,2,False,True,steal,steal,78-73,78,73
 0021700225,2017-11-17,SAC,POR,44.48,4,3,31,POR,POR,fg3_miss,1,False,False,,MISS Lillard 27' 3PT Jump Shot,78-73,78,73
 0021700225,2017-11-17,SAC,POR,44.53,4,3,28,SAC,SAC,reb,0,False,False,Cauley-Stein REBOUND (Off:3 Def:5),,78-73,78,73
 0021700225,2017-11-17,SAC,POR,44.87,4,3,8,SAC,SAC,fg3_miss,1,False,False,MISS G. Hill 25' 3PT Jump Shot,,78-73,78,73

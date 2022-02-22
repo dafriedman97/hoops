@@ -267,10 +267,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800097,2018-10-30,CLE,ATL,28.42,3,7,35,ATL,ATL,fg3_make,1,False,False,,Young 30' 3PT Jump Shot (15 PTS),74-63,74,63
 0021800097,2018-10-30,CLE,ATL,28.73,3,7,16,CLE,CLE,fg_make,1,False,False,Hood 11' Jump Shot (15 PTS) (G. Hill 2 AST),,76-63,76,63
 0021800097,2018-10-30,CLE,ATL,28.83,3,7,10,ATL,ATL,fg_make,6,False,False,,Young 2' Driving Layup (17 PTS),76-65,76,65
-0021800097,2018-10-30,CLE,ATL,28.83,3,7,10,ATL,CLE,violation,2,False,False,Defensive Goaltending,,76-65,76,65
 0021800097,2018-10-30,CLE,ATL,28.83,3,7,10,ATL,CLE,foul,2,False,False,Dekker S.FOUL (P2.T2) (M.Myers),,76-65,76,65
 0021800097,2018-10-30,CLE,ATL,28.83,3,7,10,ATL,ATL,ft_miss,10,False,False,,MISS Young Free Throw 1 of 1,76-65,76,65
 0021800097,2018-10-30,CLE,ATL,28.83,3,7,10,CLE,CLE,reb,0,False,False,Dekker REBOUND (Off:0 Def:7),,76-65,76,65
+0021800097,2018-10-30,CLE,ATL,28.83,3,7,10,ATL,CLE,violation,2,False,False,Defensive Goaltending,,76-65,76,65
 0021800097,2018-10-30,CLE,ATL,28.98,3,7,1,CLE,ATL,foul,1,False,False,,Young P.FOUL (P1.T3) (J.Capers),76-65,76,65
 0021800097,2018-10-30,CLE,ATL,29.07,3,6,56,CLE,ATL,foul,2,False,False,,Bembry S.FOUL (P2.T4) (D.Taylor),76-65,76,65
 0021800097,2018-10-30,CLE,ATL,29.07,3,6,56,CLE,CLE,ft_make,11,False,False,Osman Free Throw 1 of 2 (9 PTS),,77-65,77,65
@@ -390,16 +390,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800097,2018-10-30,CLE,ATL,40.27,4,7,44,ATL,ATL,fg3_miss,1,False,False,,MISS Prince 3PT Jump Shot,112-97,112,97
 0021800097,2018-10-30,CLE,ATL,40.3,4,7,42,CLE,CLE,reb,0,False,False,Clarkson REBOUND (Off:1 Def:1),,112-97,112,97
 0021800097,2018-10-30,CLE,ATL,40.35,4,7,39,CLE,CLE,fg_miss,6,True,False,MISS Clarkson 3' Driving Layup,,112-97,112,97
-0021800097,2018-10-30,CLE,ATL,40.35,4,7,39,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,112-97,112,97
 0021800097,2018-10-30,CLE,ATL,40.35,4,7,39,CLE,ATL,block,6,True,False,block,block,112-97,112,97
+0021800097,2018-10-30,CLE,ATL,40.35,4,7,39,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,112-97,112,97
 0021800097,2018-10-30,CLE,ATL,40.52,4,7,29,CLE,CLE,tov,40,False,False,Osman Out of Bounds Lost Ball Turnover (P5.T11),,112-97,112,97
 0021800097,2018-10-30,CLE,ATL,40.78,4,7,13,ATL,ATL,fg_miss,6,False,False,,MISS Prince Driving Layup,112-97,112,97
 0021800097,2018-10-30,CLE,ATL,40.83,4,7,10,CLE,CLE,reb,0,False,False,Thompson REBOUND (Off:5 Def:7),,112-97,112,97
 0021800097,2018-10-30,CLE,ATL,41.02,4,6,59,CLE,ATL,foul,1,False,False,,Bembry P.FOUL (P4.T2) (J.Capers),112-97,112,97
 0021800097,2018-10-30,CLE,ATL,41.02,4,6,59,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 5 Short 0),,112-97,112,97
 0021800097,2018-10-30,CLE,ATL,41.1,4,6,54,CLE,CLE,fg_miss,5,True,False,MISS Osman 2' Layup,,112-97,112,97
-0021800097,2018-10-30,CLE,ATL,41.1,4,6,54,CLE,CLE,reb,0,False,False,Thompson REBOUND (Off:6 Def:7),,112-97,112,97
 0021800097,2018-10-30,CLE,ATL,41.1,4,6,54,CLE,ATL,block,5,True,False,block,block,112-97,112,97
+0021800097,2018-10-30,CLE,ATL,41.1,4,6,54,CLE,CLE,reb,0,False,False,Thompson REBOUND (Off:6 Def:7),,112-97,112,97
 0021800097,2018-10-30,CLE,ATL,41.1,4,6,54,CLE,CLE,fg_make,7,False,False,Thompson 1' Dunk (9 PTS),,114-97,114,97
 0021800097,2018-10-30,CLE,ATL,41.1,4,6,54,CLE,ATL,foul,2,False,False,,Prince S.FOUL (P5.T3) (D.Taylor),114-97,114,97
 0021800097,2018-10-30,CLE,ATL,41.1,4,6,54,CLE,CLE,ft_make,10,False,False,Thompson Free Throw 1 of 1 (10 PTS),,115-97,115,97
@@ -460,8 +460,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800097,2018-10-30,CLE,ATL,46.82,4,1,11,CLE,CLE,ft_make,12,False,False,Sexton Free Throw 2 of 2 (15 PTS),,134-108,134,108
 0021800097,2018-10-30,CLE,ATL,46.97,4,1,2,ATL,ATL,fg3_make,1,False,False,,Huerter 25' 3PT Jump Shot (13 PTS) (Lin 7 AST),134-111,134,111
 0021800097,2018-10-30,CLE,ATL,47.15,4,0,51,CLE,CLE,fg_miss,1,True,False,MISS Zizic 2' Jump Shot,,134-111,134,111
-0021800097,2018-10-30,CLE,ATL,47.15,4,0,51,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,134-111,134,111
 0021800097,2018-10-30,CLE,ATL,47.15,4,0,51,CLE,ATL,block,1,True,False,block,block,134-111,134,111
+0021800097,2018-10-30,CLE,ATL,47.15,4,0,51,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,134-111,134,111
 0021800097,2018-10-30,CLE,ATL,47.18,4,0,49,,CLE,jump_ball,0,False,False,Jump Ball Zizic vs. Adams: Tip to Clarkson,,134-111,134,111
 0021800097,2018-10-30,CLE,ATL,47.35,4,0,39,CLE,CLE,fg3_miss,1,False,False,MISS Clarkson 27' 3PT Jump Shot,,134-111,134,111
 0021800097,2018-10-30,CLE,ATL,47.35,4,0,39,CLE,CLE,reb,0,False,False,Sexton REBOUND (Off:4 Def:4),,134-111,134,111

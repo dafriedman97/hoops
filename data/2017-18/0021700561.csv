@@ -4,9 +4,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700561,2018-01-03,MIL,IND,0.3,1,11,42,MIL,MIL,tov,45,False,False,Middleton Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,0-0,0,0
 0021700561,2018-01-03,MIL,IND,0.6,1,11,24,IND,IND,fg3_make,1,False,False,,Stephenson 28' 3PT Jump Shot (3 PTS) (Collison 1 AST),0-3,0,3
 0021700561,2018-01-03,MIL,IND,0.88,1,11,7,MIL,MIL,fg_miss,6,True,False,MISS Snell 1' Driving Layup,,0-3,0,3
+0021700561,2018-01-03,MIL,IND,0.88,1,11,7,MIL,IND,block,6,True,False,block,block,0-3,0,3
 0021700561,2018-01-03,MIL,IND,0.88,1,11,7,MIL,MIL,reb,0,False,False,BUCKS Rebound,,0-3,0,3
 0021700561,2018-01-03,MIL,IND,0.88,1,11,7,MIL,IND,foul,1,False,False,,Bogdanovic P.FOUL (P1.T1) (R.Garretson),0-3,0,3
-0021700561,2018-01-03,MIL,IND,0.88,1,11,7,MIL,IND,block,6,True,False,block,block,0-3,0,3
 0021700561,2018-01-03,MIL,IND,0.98,1,11,1,MIL,MIL,fg_make,1,False,False,Middleton 18' Jump Shot (2 PTS) (Henson 1 AST),,2-3,2,3
 0021700561,2018-01-03,MIL,IND,1.33,1,10,40,IND,IND,tov,8,False,False,,Turner 3 Second Violation Turnover (P1.T1),2-3,2,3
 0021700561,2018-01-03,MIL,IND,1.52,1,10,29,MIL,MIL,fg_make,2,False,False,Middleton 17' Running Jump Shot (4 PTS),,4-3,4,3
@@ -28,9 +28,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700561,2018-01-03,MIL,IND,4.2,1,7,48,IND,IND,fg3_miss,1,False,False,,MISS Young 3PT Jump Shot,11-5,11,5
 0021700561,2018-01-03,MIL,IND,4.25,1,7,45,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:0 Def:1),,11-5,11,5
 0021700561,2018-01-03,MIL,IND,4.27,1,7,44,MIL,IND,foul,2,False,False,,Young S.FOUL (P1.T2) (J.Van Duyne),11-5,11,5
-0021700561,2018-01-03,MIL,IND,4.27,1,7,44,MIL,MIL,ft_make,12,False,False,Henson Free Throw 2 of 2 (1 PTS),,12-5,12,5
 0021700561,2018-01-03,MIL,IND,4.27,1,7,44,MIL,MIL,ft_miss,11,False,False,MISS Henson Free Throw 1 of 2,,12-5,12,5
 0021700561,2018-01-03,MIL,IND,4.27,1,7,44,MIL,MIL,reb,1,False,False,BUCKS Rebound,,12-5,12,5
+0021700561,2018-01-03,MIL,IND,4.27,1,7,44,MIL,MIL,ft_make,12,False,False,Henson Free Throw 2 of 2 (1 PTS),,12-5,12,5
 0021700561,2018-01-03,MIL,IND,4.55,1,7,27,IND,MIL,foul,2,False,False,Middleton S.FOUL (P1.T2) (J.Van Duyne),,12-5,12,5
 0021700561,2018-01-03,MIL,IND,4.55,1,7,27,IND,IND,ft_make,11,False,False,,Collison Free Throw 1 of 2 (3 PTS),12-6,12,6
 0021700561,2018-01-03,MIL,IND,4.55,1,7,27,IND,IND,ft_make,12,False,False,,Collison Free Throw 2 of 2 (4 PTS),12-7,12,7
@@ -125,9 +125,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700561,2018-01-03,MIL,IND,14.5,2,9,30,IND,IND,tov,1,False,True,,Sabonis Bad Pass Turnover (P2.T7),38-32,38,32
 0021700561,2018-01-03,MIL,IND,14.5,2,9,30,IND,MIL,steal,1,False,True,steal,steal,38-32,38,32
 0021700561,2018-01-03,MIL,IND,14.57,2,9,26,MIL,MIL,fg_make,41,False,False,Brogdon 3' Running Layup (7 PTS) (Antetokounmpo 2 AST),,40-32,40,32
-0021700561,2018-01-03,MIL,IND,14.57,2,9,26,MIL,IND,violation,2,False,False,,Young Violation:Defensive Goaltending (M.Smith),40-32,40,32
 0021700561,2018-01-03,MIL,IND,14.57,2,9,26,MIL,IND,foul,2,False,False,,Young S.FOUL (P1.T2) (R.Garretson),40-32,40,32
 0021700561,2018-01-03,MIL,IND,14.57,2,9,26,MIL,MIL,ft_make,10,False,False,Brogdon Free Throw 1 of 1 (8 PTS),,41-32,41,32
+0021700561,2018-01-03,MIL,IND,14.57,2,9,26,MIL,IND,violation,2,False,False,,Young Violation:Defensive Goaltending (M.Smith),40-32,40,32
 0021700561,2018-01-03,MIL,IND,14.92,2,9,5,IND,IND,tov,45,False,False,,Stephenson Out of Bounds - Bad Pass Turnover Turnover (P2.T8),41-32,41,32
 0021700561,2018-01-03,MIL,IND,15.07,2,8,56,MIL,MIL,fg_make,43,False,False,Henson 1' Alley Oop Layup (5 PTS) (Brogdon 3 AST),,43-32,43,32
 0021700561,2018-01-03,MIL,IND,15.07,2,8,56,MIL,IND,foul,2,False,False,,Stephenson S.FOUL (P1.T3) (M.Smith),43-32,43,32
@@ -210,8 +210,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700561,2018-01-03,MIL,IND,25.07,3,10,56,MIL,MIL,tov,1,False,True,Snell Bad Pass Turnover (P1.T10),,64-54,64,54
 0021700561,2018-01-03,MIL,IND,25.07,3,10,56,MIL,IND,steal,1,False,True,steal,steal,64-54,64,54
 0021700561,2018-01-03,MIL,IND,25.1,3,10,54,IND,IND,fg_miss,41,True,False,,MISS Collison 2' Running Layup,64-54,64,54
-0021700561,2018-01-03,MIL,IND,25.1,3,10,54,IND,IND,reb,0,False,False,,Pacers Rebound,64-54,64,54
 0021700561,2018-01-03,MIL,IND,25.1,3,10,54,IND,MIL,block,41,True,False,block,block,64-54,64,54
+0021700561,2018-01-03,MIL,IND,25.1,3,10,54,IND,IND,reb,0,False,False,,Pacers Rebound,64-54,64,54
 0021700561,2018-01-03,MIL,IND,25.22,3,10,47,IND,IND,fg_make,66,False,False,,Bogdanovic 7' Jump Bank Shot (9 PTS) (Collison 2 AST),64-56,64,56
 0021700561,2018-01-03,MIL,IND,25.5,3,10,30,MIL,MIL,fg_miss,5,False,False,MISS Antetokounmpo 2' Layup,,64-56,64,56
 0021700561,2018-01-03,MIL,IND,25.55,3,10,27,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:3 Def:4),,64-56,64,56
@@ -263,8 +263,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700561,2018-01-03,MIL,IND,30.38,3,5,37,IND,MIL,foul,1,False,False,Middleton P.FOUL (P3.T3) (J.Van Duyne),,79-64,79,64
 0021700561,2018-01-03,MIL,IND,30.6,3,5,24,IND,IND,fg_miss,6,True,False,,MISS Stephenson 3' Driving Layup,79-64,79,64
 0021700561,2018-01-03,MIL,IND,30.6,3,5,24,IND,MIL,block,6,True,False,block,block,79-64,79,64
-0021700561,2018-01-03,MIL,IND,30.62,3,5,23,IND,IND,reb,0,False,False,,Pacers Rebound,79-64,79,64
 0021700561,2018-01-03,MIL,IND,30.62,3,5,23,IND,IND,tov,11,False,False,,Pacers Turnover: Shot Clock (T#11),79-64,79,64
+0021700561,2018-01-03,MIL,IND,30.62,3,5,23,IND,IND,reb,0,False,False,,Pacers Rebound,79-64,79,64
 0021700561,2018-01-03,MIL,IND,30.97,3,5,2,MIL,MIL,fg_miss,1,False,False,MISS Henson 16' Jump Shot,,79-64,79,64
 0021700561,2018-01-03,MIL,IND,30.97,3,5,2,MIL,MIL,reb,0,False,False,BUCKS Rebound,,79-64,79,64
 0021700561,2018-01-03,MIL,IND,30.97,3,5,2,MIL,IND,foul,3,False,False,,Stephenson L.B.FOUL (P3.T4) (J.Van Duyne),79-64,79,64
@@ -391,8 +391,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700561,2018-01-03,MIL,IND,46.45,4,1,33,MIL,MIL,fg_miss,63,False,False,MISS Brown 12' Fadeaway Jumper,,117-98,117,98
 0021700561,2018-01-03,MIL,IND,46.45,4,1,33,IND,IND,reb,0,False,False,,Joseph REBOUND (Off:2 Def:4),117-98,117,98
 0021700561,2018-01-03,MIL,IND,46.52,4,1,29,IND,IND,fg_miss,41,True,False,,MISS Joseph 4' Running Layup,117-98,117,98
-0021700561,2018-01-03,MIL,IND,46.52,4,1,29,IND,IND,reb,0,False,False,,Pacers Rebound,117-98,117,98
 0021700561,2018-01-03,MIL,IND,46.52,4,1,29,IND,MIL,block,41,True,False,block,block,117-98,117,98
+0021700561,2018-01-03,MIL,IND,46.52,4,1,29,IND,IND,reb,0,False,False,,Pacers Rebound,117-98,117,98
 0021700561,2018-01-03,MIL,IND,46.68,4,1,19,IND,IND,fg3_miss,1,False,False,,MISS Young 27' 3PT Jump Shot,117-98,117,98
 0021700561,2018-01-03,MIL,IND,46.72,4,1,17,MIL,MIL,reb,0,False,False,Brown REBOUND (Off:0 Def:1),,117-98,117,98
 0021700561,2018-01-03,MIL,IND,46.95,4,1,3,MIL,IND,foul,2,False,False,,Poythress S.FOUL (P1.T2) (J.Van Duyne),117-98,117,98

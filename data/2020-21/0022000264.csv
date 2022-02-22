@@ -106,10 +106,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000264,2021-04-24,NOP,SAS,11.72,1,0,17,NOP,NOP,fg_miss,98,False,False,MISS Hayes 4' Cutting Layup Shot,,24-31,24,31
 0022000264,2021-04-24,NOP,SAS,11.75,1,0,15,SAS,SAS,reb,0,False,False,,White REBOUND (Off:0 Def:2),24-31,24,31
 0022000264,2021-04-24,NOP,SAS,12.0,1,0,0,SAS,SAS,fg_miss,79,True,False,,MISS White 14' Pullup Jump Shot,24-31,24,31
+0022000264,2021-04-24,NOP,SAS,12.0,1,0,0,SAS,NOP,block,79,True,False,block,block,24-31,24,31
 0022000264,2021-04-24,NOP,SAS,12.0,1,0,0,SAS,SAS,reb,0,False,False,,Spurs Rebound,24-31,24,31
 0022000264,2021-04-24,NOP,SAS,12.0,1,0,0,SAS,,period_end,0,False,False,,,24-31,24,31
 0022000264,2021-04-24,NOP,SAS,12.0,2,12,0,SAS,,period_start,0,False,False,,,24-31,24,31
-0022000264,2021-04-24,NOP,SAS,12.0,1,0,0,SAS,NOP,block,79,True,False,block,block,24-31,24,31
 0022000264,2021-04-24,NOP,SAS,12.28,2,11,43,SAS,NOP,foul,26,False,False,Lewis Jr. Offensive Charge Foul (P1.T1) (E.Scott),,24-31,24,31
 0022000264,2021-04-24,NOP,SAS,12.28,2,11,43,NOP,NOP,tov,37,False,False,Lewis Jr. Offensive Foul Turnover (P1.T8),,24-31,24,31
 0022000264,2021-04-24,NOP,SAS,12.53,2,11,28,SAS,SAS,tov,1,False,True,,Walker IV Bad Pass Turnover (P2.T4),24-31,24,31
@@ -153,8 +153,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000264,2021-04-24,NOP,SAS,16.78,2,7,13,NOP,NOP,ft_miss,12,False,False,MISS Williamson Free Throw 2 of 2,,36-39,36,39
 0022000264,2021-04-24,NOP,SAS,16.82,2,7,11,SAS,SAS,reb,0,False,False,,Samanic REBOUND (Off:0 Def:1),36-39,36,39
 0022000264,2021-04-24,NOP,SAS,16.98,2,7,1,SAS,SAS,tov,2,False,True,,DeRozan Lost Ball Turnover (P2.T7),36-39,36,39
-0022000264,2021-04-24,NOP,SAS,16.98,2,7,1,NOP,SAS,foul,1,False,False,,DeRozan P.FOUL (P1.T3) (K.Mauer),36-39,36,39
 0022000264,2021-04-24,NOP,SAS,16.98,2,7,1,SAS,NOP,steal,2,False,True,steal,steal,36-39,36,39
+0022000264,2021-04-24,NOP,SAS,16.98,2,7,1,NOP,SAS,foul,1,False,False,,DeRozan P.FOUL (P1.T3) (K.Mauer),36-39,36,39
 0022000264,2021-04-24,NOP,SAS,17.18,2,6,49,NOP,SAS,foul,2,False,False,,Eubanks S.FOUL (P1.T4) (E.Scott),36-39,36,39
 0022000264,2021-04-24,NOP,SAS,17.18,2,6,49,NOP,NOP,ft_miss,11,False,False,MISS Marshall Free Throw 1 of 2,,36-39,36,39
 0022000264,2021-04-24,NOP,SAS,17.18,2,6,49,NOP,NOP,reb,1,False,False,PELICANS Rebound,,36-39,36,39
@@ -185,8 +185,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000264,2021-04-24,NOP,SAS,19.97,2,4,2,SAS,SAS,fg3_miss,1,False,False,,MISS Murray 25' 3PT Jump Shot,41-47,41,47
 0022000264,2021-04-24,NOP,SAS,20.0,2,4,0,NOP,NOP,reb,0,False,False,Williamson REBOUND (Off:0 Def:3),,41-47,41,47
 0022000264,2021-04-24,NOP,SAS,20.17,2,3,50,NOP,NOP,tov,40,False,False,Bledsoe Out of Bounds Lost Ball Turnover (P1.T11),,41-47,41,47
-0022000264,2021-04-24,NOP,SAS,20.38,2,3,37,SAS,SAS,fg_make,6,False,False,,DeRozan 3' Driving Layup (6 PTS),41-49,41,49
 0022000264,2021-04-24,NOP,SAS,20.38,2,3,37,SAS,NOP,foul,2,False,False,Bledsoe S.FOUL (P1.T2) (K.Mauer),,41-49,41,49
+0022000264,2021-04-24,NOP,SAS,20.38,2,3,37,SAS,SAS,fg_make,6,False,False,,DeRozan 3' Driving Layup (6 PTS),41-49,41,49
 0022000264,2021-04-24,NOP,SAS,20.38,2,3,37,SAS,SAS,ft_make,10,False,False,,DeRozan Free Throw 1 of 1 (7 PTS),41-50,41,50
 0022000264,2021-04-24,NOP,SAS,20.57,2,3,26,NOP,SAS,foul,2,False,False,,Samanic S.FOUL (P1.PN) (E.Scott),41-50,41,50
 0022000264,2021-04-24,NOP,SAS,20.57,2,3,26,NOP,NOP,ft_miss,11,False,False,MISS Bledsoe Free Throw 1 of 2,,41-50,41,50
@@ -221,10 +221,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000264,2021-04-24,NOP,SAS,23.35,2,0,39,NOP,SAS,block,6,True,False,block,block,52-59,52,59
 0022000264,2021-04-24,NOP,SAS,23.37,2,0,38,NOP,NOP,reb,0,False,False,Adams REBOUND (Off:2 Def:4),,52-59,52,59
 0022000264,2021-04-24,NOP,SAS,23.37,2,0,38,NOP,NOP,fg_miss,72,False,False,MISS Adams 3' Putback Layup,,52-59,52,59
-0022000264,2021-04-24,NOP,SAS,23.4,2,0,36,SAS,SAS,reb,0,False,False,,Spurs Rebound,52-59,52,59
 0022000264,2021-04-24,NOP,SAS,23.4,2,0,36,SAS,NOP,foul,3,False,False,Adams L.B.FOUL (P1.PN) (K.Mauer),,52-59,52,59
 0022000264,2021-04-24,NOP,SAS,23.4,2,0,36,SAS,SAS,ft_make,11,False,False,,Poeltl Free Throw 1 of 2 (5 PTS),52-60,52,60
 0022000264,2021-04-24,NOP,SAS,23.4,2,0,36,SAS,SAS,ft_make,12,False,False,,Poeltl Free Throw 2 of 2 (6 PTS),52-61,52,61
+0022000264,2021-04-24,NOP,SAS,23.4,2,0,36,SAS,SAS,reb,0,False,False,,Spurs Rebound,52-59,52,59
 0022000264,2021-04-24,NOP,SAS,23.52,2,0,29,NOP,SAS,foul,2,False,False,,Poeltl S.FOUL (P1.PN) (K.Mauer),52-61,52,61
 0022000264,2021-04-24,NOP,SAS,23.52,2,0,29,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 2 Short 0),,52-61,52,61
 0022000264,2021-04-24,NOP,SAS,23.52,2,0,29,NOP,NOP,ft_miss,11,False,False,MISS Williamson Free Throw 1 of 2,,52-61,52,61

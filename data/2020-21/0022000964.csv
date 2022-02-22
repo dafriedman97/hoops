@@ -134,9 +134,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000964,2021-05-01,DAL,WAS,11.97,1,0,2,WAS,DAL,foul,4,False,False,Kleber OFF.Foul (P1) (J.Sterling),,38-26,38,26
 0022000964,2021-05-01,DAL,WAS,11.97,1,0,2,DAL,DAL,tov,37,False,False,Kleber Offensive Foul Turnover (P1.T3),,38-26,38,26
 0022000964,2021-05-01,DAL,WAS,12.0,1,0,0,WAS,WAS,tov,1,False,True,,Westbrook Bad Pass Turnover (P2.T7),38-26,38,26
+0022000964,2021-05-01,DAL,WAS,12.0,1,0,0,WAS,DAL,steal,1,False,True,steal,steal,38-26,38,26
 0022000964,2021-05-01,DAL,WAS,12.0,1,0,0,WAS,,period_end,0,False,False,,,38-26,38,26
 0022000964,2021-05-01,DAL,WAS,12.0,2,12,0,WAS,,period_start,0,False,False,,,38-26,38,26
-0022000964,2021-05-01,DAL,WAS,12.0,1,0,0,WAS,DAL,steal,1,False,True,steal,steal,38-26,38,26
 0022000964,2021-05-01,DAL,WAS,12.37,2,11,38,DAL,DAL,fg3_make,1,False,False,Melli 24' 3PT Jump Shot (3 PTS) (Doncic 7 AST),,41-26,41,26
 0022000964,2021-05-01,DAL,WAS,12.55,2,11,27,WAS,DAL,foul,1,False,False,Melli P.FOUL (P1.T1) (J.Sterling),,41-26,41,26
 0022000964,2021-05-01,DAL,WAS,12.75,2,11,15,WAS,WAS,fg_make,79,False,False,,Smith 8' Pullup Jump Shot (2 PTS),41-28,41,28
@@ -245,10 +245,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000964,2021-05-01,DAL,WAS,23.97,2,0,2,DAL,WAS,foul,11,False,False,,Beal T.FOUL (P3.PN) (J.Sterling),69-65,69,65
 0022000964,2021-05-01,DAL,WAS,23.97,2,0,2,DAL,DAL,ft_make,16,False,False,Richardson Free Throw Technical (6 PTS),,70-65,70,65
 0022000964,2021-05-01,DAL,WAS,24.0,2,0,0,DAL,DAL,fg3_miss,1,True,False,MISS Finney-Smith 3PT Jump Shot,,70-65,70,65
+0022000964,2021-05-01,DAL,WAS,24.0,2,0,0,DAL,WAS,block,1,True,False,block,block,70-65,70,65
 0022000964,2021-05-01,DAL,WAS,24.0,2,0,0,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,70-65,70,65
 0022000964,2021-05-01,DAL,WAS,24.0,2,0,0,DAL,,period_end,0,False,False,,,70-65,70,65
 0022000964,2021-05-01,DAL,WAS,24.0,3,12,0,DAL,,period_start,0,False,False,,,70-65,70,65
-0022000964,2021-05-01,DAL,WAS,24.0,2,0,0,DAL,WAS,block,1,True,False,block,block,70-65,70,65
 0022000964,2021-05-01,DAL,WAS,24.38,3,11,37,DAL,DAL,fg3_miss,1,False,False,MISS Richardson 26' 3PT Jump Shot,,70-65,70,65
 0022000964,2021-05-01,DAL,WAS,24.45,3,11,33,WAS,WAS,reb,0,False,False,,Beal REBOUND (Off:0 Def:3),70-65,70,65
 0022000964,2021-05-01,DAL,WAS,24.63,3,11,22,WAS,WAS,fg_miss,5,False,False,,MISS Beal 5' Layup,70-65,70,65
@@ -283,8 +283,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000964,2021-05-01,DAL,WAS,28.87,3,7,8,DAL,DAL,fg3_miss,1,False,False,MISS Richardson 27' 3PT Jump Shot,,79-78,79,78
 0022000964,2021-05-01,DAL,WAS,28.88,3,7,7,DAL,DAL,reb,0,False,False,Powell REBOUND (Off:1 Def:1),,79-78,79,78
 0022000964,2021-05-01,DAL,WAS,28.98,3,7,1,DAL,DAL,fg_miss,98,True,False,MISS Powell 3' Cutting Layup Shot,,79-78,79,78
-0022000964,2021-05-01,DAL,WAS,28.98,3,7,1,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,79-78,79,78
 0022000964,2021-05-01,DAL,WAS,28.98,3,7,1,DAL,WAS,block,98,True,False,block,block,79-78,79,78
+0022000964,2021-05-01,DAL,WAS,28.98,3,7,1,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,79-78,79,78
 0022000964,2021-05-01,DAL,WAS,29.02,3,6,59,DAL,DAL,fg3_make,1,False,False,Finney-Smith 25' 3PT Jump Shot (14 PTS) (Doncic 13 AST),,82-78,82,78
 0022000964,2021-05-01,DAL,WAS,29.33,3,6,40,WAS,DAL,foul,2,False,False,Powell S.FOUL (P3.T1) (K.Scott),,82-78,82,78
 0022000964,2021-05-01,DAL,WAS,29.33,3,6,40,WAS,WAS,ft_make,11,False,False,,Neto Free Throw 1 of 2 (5 PTS),82-79,82,79

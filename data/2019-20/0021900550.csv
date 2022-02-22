@@ -28,8 +28,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900550,2020-01-07,BKN,OKC,3.6,1,8,24,OKC,OKC,fg_miss,66,False,False,,MISS Gilgeous-Alexander 11' Jump Bank Shot,8-8,8,8
 0021900550,2020-01-07,BKN,OKC,3.65,1,8,21,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:1 Def:1),8-8,8,8
 0021900550,2020-01-07,BKN,OKC,3.7,1,8,18,OKC,OKC,fg_miss,6,True,False,,MISS Bazley 1' Driving Layup,8-8,8,8
-0021900550,2020-01-07,BKN,OKC,3.7,1,8,18,OKC,OKC,reb,0,False,False,,Thunder Rebound,8-8,8,8
 0021900550,2020-01-07,BKN,OKC,3.7,1,8,18,OKC,BKN,block,6,True,False,block,block,8-8,8,8
+0021900550,2020-01-07,BKN,OKC,3.7,1,8,18,OKC,OKC,reb,0,False,False,,Thunder Rebound,8-8,8,8
 0021900550,2020-01-07,BKN,OKC,3.82,1,8,11,OKC,OKC,fg_make,101,False,False,,Gilgeous-Alexander 10' Driving Floating Jump Shot (4 PTS),8-10,8,10
 0021900550,2020-01-07,BKN,OKC,3.82,1,8,11,OKC,BKN,foul,2,False,False,Kurucs S.FOUL (P1.T3) (J.Orr),,8-10,8,10
 0021900550,2020-01-07,BKN,OKC,3.82,1,8,11,OKC,OKC,ft_make,10,False,False,,Gilgeous-Alexander Free Throw 1 of 1 (5 PTS),8-11,8,11
@@ -101,10 +101,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900550,2020-01-07,BKN,OKC,11.58,1,0,25,BKN,BKN,fg_miss,78,False,False,MISS LeVert 14' Floating Jump Shot,,23-27,23,27
 0021900550,2020-01-07,BKN,OKC,11.63,1,0,22,OKC,OKC,reb,0,False,False,,Diallo REBOUND (Off:0 Def:2),23-27,23,27
 0021900550,2020-01-07,BKN,OKC,12.0,1,0,0,OKC,OKC,fg_miss,6,True,False,,MISS Diallo 6' Driving Layup,23-27,23,27
+0021900550,2020-01-07,BKN,OKC,12.0,1,0,0,OKC,BKN,block,6,True,False,block,block,23-27,23,27
 0021900550,2020-01-07,BKN,OKC,12.0,1,0,0,BKN,BKN,reb,0,False,False,Chandler REBOUND (Off:0 Def:1),,23-27,23,27
 0021900550,2020-01-07,BKN,OKC,12.0,1,0,0,BKN,,period_end,0,False,False,,,23-27,23,27
 0021900550,2020-01-07,BKN,OKC,12.0,2,12,0,BKN,,period_start,0,False,False,,,23-27,23,27
-0021900550,2020-01-07,BKN,OKC,12.0,1,0,0,OKC,BKN,block,6,True,False,block,block,23-27,23,27
 0021900550,2020-01-07,BKN,OKC,12.3,2,11,42,BKN,BKN,tov,39,False,False,LeVert Step Out of Bounds Turnover (P1.T5),,23-27,23,27
 0021900550,2020-01-07,BKN,OKC,12.62,2,11,23,OKC,OKC,fg_miss,79,False,False,,MISS Burton 13' Pullup Jump Shot,23-27,23,27
 0021900550,2020-01-07,BKN,OKC,12.68,2,11,19,BKN,BKN,reb,0,False,False,Jordan REBOUND (Off:0 Def:4),,23-27,23,27
@@ -338,8 +338,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900550,2020-01-07,BKN,OKC,36.28,4,11,43,BKN,BKN,fg3_make,1,False,False,LeVert 25' 3PT Jump Shot (15 PTS),,80-75,80,75
 0021900550,2020-01-07,BKN,OKC,36.5,4,11,30,OKC,OKC,fg3_make,1,False,False,,Paul 25' 3PT Jump Shot (11 PTS),80-78,80,78
 0021900550,2020-01-07,BKN,OKC,36.9,4,11,6,BKN,BKN,fg_miss,52,True,False,MISS Jordan 1' Alley Oop Dunk,,80-78,80,78
-0021900550,2020-01-07,BKN,OKC,36.9,4,11,6,OKC,OKC,reb,0,False,False,,Schroder REBOUND (Off:0 Def:4),80-78,80,78
 0021900550,2020-01-07,BKN,OKC,36.9,4,11,6,BKN,OKC,block,52,True,False,block,block,80-78,80,78
+0021900550,2020-01-07,BKN,OKC,36.9,4,11,6,OKC,OKC,reb,0,False,False,,Schroder REBOUND (Off:0 Def:4),80-78,80,78
 0021900550,2020-01-07,BKN,OKC,36.95,4,11,3,OKC,BKN,foul,2,False,False,LeVert S.FOUL (P1.T2) (S.Foster),,80-78,80,78
 0021900550,2020-01-07,BKN,OKC,36.95,4,11,3,OKC,OKC,ft_miss,11,False,False,,MISS Burton Free Throw 1 of 2,80-78,80,78
 0021900550,2020-01-07,BKN,OKC,36.95,4,11,3,OKC,OKC,reb,1,False,False,,Thunder Rebound,80-78,80,78

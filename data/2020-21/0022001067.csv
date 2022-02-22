@@ -35,12 +35,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001067,2021-05-16,BKN,CLE,4.65,1,7,21,BKN,CLE,foul,1,False,False,,Wade P.FOUL (P1.T1) (N.Green),17-6,17,6
 0022001067,2021-05-16,BKN,CLE,4.72,1,7,17,BKN,BKN,tov,45,False,False,Griffin Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,17-6,17,6
 0022001067,2021-05-16,BKN,CLE,4.98,1,7,1,CLE,CLE,fg_miss,6,True,False,,MISS Osman 6' Driving Layup,17-6,17,6
-0022001067,2021-05-16,BKN,CLE,4.98,1,7,1,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,17-6,17,6
 0022001067,2021-05-16,BKN,CLE,4.98,1,7,1,CLE,BKN,block,6,True,False,block,block,17-6,17,6
+0022001067,2021-05-16,BKN,CLE,4.98,1,7,1,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,17-6,17,6
 0022001067,2021-05-16,BKN,CLE,5.12,1,6,53,CLE,CLE,fg_miss,6,True,False,,MISS Okoro 10' Driving Layup,17-6,17,6
+0022001067,2021-05-16,BKN,CLE,5.12,1,6,53,CLE,BKN,block,6,True,False,block,block,17-6,17,6
 0022001067,2021-05-16,BKN,CLE,5.12,1,6,53,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,17-6,17,6
 0022001067,2021-05-16,BKN,CLE,5.12,1,6,53,CLE,CLE,tov,11,False,False,,Cavaliers Turnover: Shot Clock (T#2),17-6,17,6
-0022001067,2021-05-16,BKN,CLE,5.12,1,6,53,CLE,BKN,block,6,True,False,block,block,17-6,17,6
 0022001067,2021-05-16,BKN,CLE,5.35,1,6,39,BKN,BKN,tov,1,False,True,Griffin Bad Pass Turnover (P2.T2),,17-6,17,6
 0022001067,2021-05-16,BKN,CLE,5.35,1,6,39,BKN,CLE,steal,1,False,True,steal,steal,17-6,17,6
 0022001067,2021-05-16,BKN,CLE,5.47,1,6,32,CLE,CLE,tov,1,False,True,,Okoro Bad Pass Turnover (P2.T3),17-6,17,6
@@ -110,8 +110,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001067,2021-05-16,BKN,CLE,12.0,1,0,0,CLE,,period_end,0,False,False,,,34-24,34,24
 0022001067,2021-05-16,BKN,CLE,12.0,2,12,0,CLE,,period_start,0,False,False,,,34-24,34,24
 0022001067,2021-05-16,BKN,CLE,12.4,2,11,36,CLE,CLE,fg_miss,80,False,False,,MISS Sexton 18' Step Back Jump Shot,34-24,34,24
-0022001067,2021-05-16,BKN,CLE,12.5,2,11,30,CLE,CLE,fg_make,107,False,False,,Kabengele Tip Dunk Shot (2 PTS),34-26,34,26
 0022001067,2021-05-16,BKN,CLE,12.5,2,11,30,CLE,CLE,reb,0,False,False,,Kabengele REBOUND (Off:2 Def:2),34-26,34,26
+0022001067,2021-05-16,BKN,CLE,12.5,2,11,30,CLE,CLE,fg_make,107,False,False,,Kabengele Tip Dunk Shot (2 PTS),34-26,34,26
 0022001067,2021-05-16,BKN,CLE,12.68,2,11,19,BKN,BKN,fg_make,101,False,False,James 8' Driving Floating Jump Shot (5 PTS),,36-26,36,26
 0022001067,2021-05-16,BKN,CLE,12.82,2,11,11,CLE,CLE,tov,1,False,True,,Osman Bad Pass Turnover (P1.T5),36-26,36,26
 0022001067,2021-05-16,BKN,CLE,12.82,2,11,11,CLE,BKN,steal,1,False,True,steal,steal,36-26,36,26
@@ -120,8 +120,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001067,2021-05-16,BKN,CLE,12.93,2,11,4,BKN,BKN,ft_make,12,False,False,Green Free Throw 2 of 2 (5 PTS),,38-26,38,26
 0022001067,2021-05-16,BKN,CLE,13.13,2,10,52,CLE,BKN,foul,1,False,False,Johnson P.FOUL (P2.T1) (Z.Zarba),,38-26,38,26
 0022001067,2021-05-16,BKN,CLE,13.32,2,10,41,CLE,CLE,fg_miss,6,True,False,,MISS Sexton 8' Driving Layup,38-26,38,26
-0022001067,2021-05-16,BKN,CLE,13.32,2,10,41,BKN,BKN,reb,0,False,False,NETS Rebound,,38-26,38,26
 0022001067,2021-05-16,BKN,CLE,13.32,2,10,41,CLE,BKN,block,6,True,False,block,block,38-26,38,26
+0022001067,2021-05-16,BKN,CLE,13.32,2,10,41,BKN,BKN,reb,0,False,False,NETS Rebound,,38-26,38,26
 0022001067,2021-05-16,BKN,CLE,13.48,2,10,31,BKN,BKN,fg_miss,6,True,False,MISS James 3' Driving Layup,,38-26,38,26
 0022001067,2021-05-16,BKN,CLE,13.48,2,10,31,BKN,CLE,block,6,True,False,block,block,38-26,38,26
 0022001067,2021-05-16,BKN,CLE,13.52,2,10,29,CLE,CLE,reb,0,False,False,,Osman REBOUND (Off:1 Def:2),38-26,38,26
@@ -200,10 +200,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001067,2021-05-16,BKN,CLE,23.95,2,0,3,CLE,CLE,fg3_miss,1,False,False,,MISS Wade 25' 3PT Jump Shot,67-56,67,56
 0022001067,2021-05-16,BKN,CLE,23.95,2,0,3,CLE,CLE,reb,0,False,False,,Allen REBOUND (Off:2 Def:4),67-56,67,56
 0022001067,2021-05-16,BKN,CLE,24.0,2,0,0,CLE,CLE,fg_miss,72,True,False,,MISS Allen 4' Putback Layup,67-56,67,56
+0022001067,2021-05-16,BKN,CLE,24.0,2,0,0,CLE,BKN,block,72,True,False,block,block,67-56,67,56
 0022001067,2021-05-16,BKN,CLE,24.0,2,0,0,BKN,BKN,reb,0,False,False,Irving REBOUND (Off:0 Def:2),,67-56,67,56
 0022001067,2021-05-16,BKN,CLE,24.0,2,0,0,BKN,,period_end,0,False,False,,,67-56,67,56
 0022001067,2021-05-16,BKN,CLE,24.0,3,12,0,BKN,,period_start,0,False,False,,,67-56,67,56
-0022001067,2021-05-16,BKN,CLE,24.0,2,0,0,CLE,BKN,block,72,True,False,block,block,67-56,67,56
 0022001067,2021-05-16,BKN,CLE,24.32,3,11,41,CLE,CLE,fg3_miss,1,False,False,,MISS Wade 26' 3PT Jump Shot,67-56,67,56
 0022001067,2021-05-16,BKN,CLE,24.37,3,11,38,BKN,BKN,reb,0,False,False,Irving REBOUND (Off:0 Def:3),,67-56,67,56
 0022001067,2021-05-16,BKN,CLE,24.73,3,11,16,BKN,CLE,foul,2,False,False,,Wade S.FOUL (P2.T1) (Z.Zarba),67-56,67,56
@@ -225,8 +225,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001067,2021-05-16,BKN,CLE,26.52,3,9,29,BKN,BKN,fg_miss,6,False,False,MISS Griffin 2' Driving Layup,,73-60,73,60
 0022001067,2021-05-16,BKN,CLE,26.6,3,9,24,CLE,CLE,reb,0,False,False,,Okoro REBOUND (Off:0 Def:1),73-60,73,60
 0022001067,2021-05-16,BKN,CLE,26.6,3,9,24,CLE,CLE,fg_miss,41,True,False,,MISS Okoro 3' Running Layup,73-60,73,60
-0022001067,2021-05-16,BKN,CLE,26.6,3,9,24,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,73-60,73,60
 0022001067,2021-05-16,BKN,CLE,26.6,3,9,24,CLE,BKN,block,41,True,False,block,block,73-60,73,60
+0022001067,2021-05-16,BKN,CLE,26.6,3,9,24,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,73-60,73,60
 0022001067,2021-05-16,BKN,CLE,26.78,3,9,13,CLE,CLE,fg3_make,1,False,False,,Wade 26' 3PT Jump Shot (11 PTS) (Sexton 4 AST),73-63,73,63
 0022001067,2021-05-16,BKN,CLE,27.08,3,8,55,BKN,BKN,fg_make,52,False,False,Griffin 1' Alley Oop Dunk (9 PTS) (Brown 4 AST),,75-63,75,63
 0022001067,2021-05-16,BKN,CLE,27.25,3,8,45,CLE,CLE,fg3_make,79,False,False,,Sexton 25' 3PT Pullup Jump Shot (16 PTS),75-66,75,66
@@ -252,9 +252,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001067,2021-05-16,BKN,CLE,29.38,3,6,37,CLE,CLE,fg_make,43,False,False,,Wade 1' Alley Oop Layup (13 PTS) (Sexton 5 AST),82-70,82,70
 0022001067,2021-05-16,BKN,CLE,29.57,3,6,26,BKN,BKN,tov,1,False,True,Durant Bad Pass Turnover (P1.T6),,82-70,82,70
 0022001067,2021-05-16,BKN,CLE,29.57,3,6,26,BKN,CLE,steal,1,False,True,steal,steal,82-70,82,70
+0022001067,2021-05-16,BKN,CLE,29.82,3,6,11,BKN,BKN,timeout,7,False,False,NETS Timeout: Coach Challenge (Full 2 Short 0),,82-70,82,70
 0022001067,2021-05-16,BKN,CLE,29.82,3,6,11,BKN,CLE,foul,15,False,False,,Sexton FLAGRANT.FOUL.TYPE2 (P2.T4) (Z.Zarba),82-70,82,70
 0022001067,2021-05-16,BKN,CLE,29.82,3,6,11,CLE,CLE,tov,0,False,False,,Sexton No Turnover (P1.T10),82-70,82,70
-0022001067,2021-05-16,BKN,CLE,29.82,3,6,11,BKN,BKN,timeout,7,False,False,NETS Timeout: Coach Challenge (Full 2 Short 0),,82-70,82,70
 0022001067,2021-05-16,BKN,CLE,29.82,3,6,11,BKN,CLE,ejection,4,False,False,,Sexton Ejection:Other,82-70,82,70
 0022001067,2021-05-16,BKN,CLE,29.82,3,6,11,BKN,BKN,ft_make,18,False,False,Durant Free Throw Flagrant 1 of 2 (19 PTS),,83-70,83,70
 0022001067,2021-05-16,BKN,CLE,29.82,3,6,11,BKN,BKN,ft_make,19,False,False,Durant Free Throw Flagrant 2 of 2 (20 PTS),,84-70,84,70
@@ -311,8 +311,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001067,2021-05-16,BKN,CLE,35.48,3,0,31,BKN,BKN,fg3_miss,79,False,False,MISS Durant 25' 3PT Pullup Jump Shot,,97-76,97,76
 0022001067,2021-05-16,BKN,CLE,35.57,3,0,26,CLE,CLE,reb,0,False,False,,Kabengele REBOUND (Off:3 Def:4),97-76,97,76
 0022001067,2021-05-16,BKN,CLE,35.92,3,0,5,CLE,CLE,fg_miss,6,True,False,,MISS Okoro 1' Driving Layup,97-76,97,76
-0022001067,2021-05-16,BKN,CLE,35.92,3,0,5,BKN,BKN,reb,0,False,False,Green REBOUND (Off:0 Def:1),,97-76,97,76
 0022001067,2021-05-16,BKN,CLE,35.92,3,0,5,CLE,BKN,block,6,True,False,block,block,97-76,97,76
+0022001067,2021-05-16,BKN,CLE,35.92,3,0,5,BKN,BKN,reb,0,False,False,Green REBOUND (Off:0 Def:1),,97-76,97,76
 0022001067,2021-05-16,BKN,CLE,35.98,3,0,1,BKN,BKN,fg_make,74,False,False,Johnson Running Reverse Layup (5 PTS) (Durant 13 AST),,99-76,99,76
 0022001067,2021-05-16,BKN,CLE,36.0,3,0,0,BKN,,period_end,0,False,False,,,99-76,99,76
 0022001067,2021-05-16,BKN,CLE,36.0,4,12,0,BKN,,period_start,0,False,False,,,99-76,99,76
@@ -365,8 +365,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001067,2021-05-16,BKN,CLE,41.55,4,6,27,BKN,BKN,fg_miss,6,False,False,MISS Green 1' Driving Layup,,109-90,109,90
 0022001067,2021-05-16,BKN,CLE,41.62,4,6,23,BKN,BKN,reb,0,False,False,Claxton REBOUND (Off:2 Def:2),,109-90,109,90
 0022001067,2021-05-16,BKN,CLE,41.62,4,6,23,BKN,BKN,fg_miss,7,True,False,MISS Claxton 1' Dunk,,109-90,109,90
-0022001067,2021-05-16,BKN,CLE,41.62,4,6,23,CLE,CLE,reb,0,False,False,,Allen REBOUND (Off:2 Def:7),109-90,109,90
 0022001067,2021-05-16,BKN,CLE,41.62,4,6,23,BKN,CLE,block,7,True,False,block,block,109-90,109,90
+0022001067,2021-05-16,BKN,CLE,41.62,4,6,23,CLE,CLE,reb,0,False,False,,Allen REBOUND (Off:2 Def:7),109-90,109,90
 0022001067,2021-05-16,BKN,CLE,41.7,4,6,18,CLE,CLE,fg3_miss,1,False,False,,MISS Osman 26' 3PT Jump Shot,109-90,109,90
 0022001067,2021-05-16,BKN,CLE,41.7,4,6,18,CLE,CLE,reb,0,False,False,,Okoro REBOUND (Off:1 Def:2),109-90,109,90
 0022001067,2021-05-16,BKN,CLE,41.78,4,6,13,CLE,CLE,fg_make,75,False,False,,Okoro 6' Driving Finger Roll Layup (14 PTS),109-92,109,92

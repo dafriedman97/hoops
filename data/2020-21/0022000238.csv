@@ -87,8 +87,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000238,2021-01-22,PHX,DEN,11.43,1,0,34,PHX,PHX,fg3_miss,79,False,False,MISS Booker 29' 3PT Pullup Jump Shot,,34-23,34,23
 0022000238,2021-01-22,PHX,DEN,11.48,1,0,31,DEN,DEN,reb,0,False,False,,Green REBOUND (Off:0 Def:1),34-23,34,23
 0022000238,2021-01-22,PHX,DEN,11.72,1,0,17,DEN,DEN,fg_miss,98,True,False,,MISS Morris 3' Cutting Layup Shot,34-23,34,23
-0022000238,2021-01-22,PHX,DEN,11.72,1,0,17,DEN,DEN,reb,0,False,False,,Nuggets Rebound,34-23,34,23
 0022000238,2021-01-22,PHX,DEN,11.72,1,0,17,DEN,PHX,block,98,True,False,block,block,34-23,34,23
+0022000238,2021-01-22,PHX,DEN,11.72,1,0,17,DEN,DEN,reb,0,False,False,,Nuggets Rebound,34-23,34,23
 0022000238,2021-01-22,PHX,DEN,11.8,1,0,12,DEN,PHX,foul,1,False,False,Nader P.FOUL (P1.T4) (G.Petraitis),,34-23,34,23
 0022000238,2021-01-22,PHX,DEN,11.97,1,0,2,DEN,DEN,fg_make,6,False,False,,Morris 3' Driving Layup (4 PTS),34-25,34,25
 0022000238,2021-01-22,PHX,DEN,12.0,1,0,0,PHX,PHX,fg3_miss,79,False,False,MISS Carter 50' 3PT Pullup Jump Shot,,34-25,34,25
@@ -286,8 +286,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000238,2021-01-22,PHX,DEN,35.92,3,0,5,PHX,PHX,tov,1,False,True,Booker Bad Pass Turnover (P3.T7),,95-91,95,91
 0022000238,2021-01-22,PHX,DEN,35.92,3,0,5,PHX,DEN,steal,1,False,True,steal,steal,95-91,95,91
 0022000238,2021-01-22,PHX,DEN,35.98,3,0,1,DEN,DEN,fg_miss,41,True,False,,MISS Murray 3' Running Layup,95-91,95,91
-0022000238,2021-01-22,PHX,DEN,35.98,3,0,1,DEN,DEN,reb,0,False,False,,Nuggets Rebound,95-91,95,91
 0022000238,2021-01-22,PHX,DEN,35.98,3,0,1,DEN,PHX,block,41,True,False,block,block,95-91,95,91
+0022000238,2021-01-22,PHX,DEN,35.98,3,0,1,DEN,DEN,reb,0,False,False,,Nuggets Rebound,95-91,95,91
 0022000238,2021-01-22,PHX,DEN,36.0,3,0,0,DEN,DEN,fg3_miss,1,False,False,,MISS Porter Jr. 3PT Jump Shot,95-91,95,91
 0022000238,2021-01-22,PHX,DEN,36.0,3,0,0,DEN,DEN,reb,0,False,False,,Nuggets Rebound,95-91,95,91
 0022000238,2021-01-22,PHX,DEN,36.0,3,0,0,DEN,,period_end,0,False,False,,,95-91,95,91
@@ -358,9 +358,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000238,2021-01-22,PHX,DEN,43.68,4,4,19,DEN,DEN,timeout,1,False,False,,Nuggets Timeout: Regular (Reg.4 Short 0),106-104,106,104
 0022000238,2021-01-22,PHX,DEN,43.93,4,4,4,DEN,DEN,tov,1,False,True,,Jokic Bad Pass Turnover (P3.T8),106-104,106,104
 0022000238,2021-01-22,PHX,DEN,43.93,4,4,4,DEN,PHX,steal,1,False,True,steal,steal,106-104,106,104
+0022000238,2021-01-22,PHX,DEN,44.02,4,3,59,DEN,DEN,timeout,7,False,False,,Nuggets Timeout: Coach Challenge (Reg.4 Short 0),106-104,106,104
 0022000238,2021-01-22,PHX,DEN,44.02,4,3,59,DEN,PHX,foul,4,False,False,Booker OFF.Foul (P2) (J.Capers),,106-104,106,104
 0022000238,2021-01-22,PHX,DEN,44.02,4,3,59,PHX,PHX,tov,37,False,False,Booker Offensive Foul Turnover (P5.T14),,106-104,106,104
-0022000238,2021-01-22,PHX,DEN,44.02,4,3,59,DEN,DEN,timeout,7,False,False,,Nuggets Timeout: Coach Challenge (Reg.4 Short 0),106-104,106,104
 0022000238,2021-01-22,PHX,DEN,44.17,4,3,50,DEN,DEN,fg_make,78,False,False,,Jokic 6' Floating Jump Shot (25 PTS) (Murray 9 AST),106-106,106,106
 0022000238,2021-01-22,PHX,DEN,44.43,4,3,34,PHX,PHX,fg_make,6,False,False,Paul 2' Driving Layup (4 PTS),,108-106,108,106
 0022000238,2021-01-22,PHX,DEN,44.63,4,3,22,DEN,PHX,foul,2,False,False,Booker S.FOUL (P3.T3) (J.Capers),,108-106,108,106
@@ -403,8 +403,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000238,2021-01-22,PHX,DEN,49.25,5,3,45,PHX,PHX,ft_make,11,False,False,Ayton Free Throw 1 of 2 (21 PTS),,115-118,115,118
 0022000238,2021-01-22,PHX,DEN,49.25,5,3,45,PHX,PHX,ft_make,12,False,False,Ayton Free Throw 2 of 2 (22 PTS),,116-118,116,118
 0022000238,2021-01-22,PHX,DEN,49.52,5,3,29,DEN,DEN,fg_miss,47,False,False,,MISS Barton 7' Turnaround Jump Shot,116-118,116,118
-0022000238,2021-01-22,PHX,DEN,49.63,5,3,22,DEN,DEN,fg_make,72,False,False,,Jokic Putback Layup (31 PTS),116-120,116,120
 0022000238,2021-01-22,PHX,DEN,49.63,5,3,22,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:6 Def:3),116-120,116,120
+0022000238,2021-01-22,PHX,DEN,49.63,5,3,22,DEN,DEN,fg_make,72,False,False,,Jokic Putback Layup (31 PTS),116-120,116,120
 0022000238,2021-01-22,PHX,DEN,49.77,5,3,14,PHX,DEN,foul,2,False,False,,Harris S.FOUL (P2.T2) (D.Scott),116-120,116,120
 0022000238,2021-01-22,PHX,DEN,49.77,5,3,14,PHX,PHX,ft_make,11,False,False,Booker Free Throw 1 of 2 (30 PTS),,117-120,117,120
 0022000238,2021-01-22,PHX,DEN,49.77,5,3,14,PHX,PHX,ft_make,12,False,False,Booker Free Throw 2 of 2 (31 PTS),,118-120,118,120
@@ -412,8 +412,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000238,2021-01-22,PHX,DEN,50.18,5,2,49,DEN,DEN,ft_make,11,False,False,,Barton Free Throw 1 of 2 (10 PTS),118-121,118,121
 0022000238,2021-01-22,PHX,DEN,50.18,5,2,49,DEN,DEN,ft_make,12,False,False,,Barton Free Throw 2 of 2 (11 PTS),118-122,118,122
 0022000238,2021-01-22,PHX,DEN,50.43,5,2,34,PHX,PHX,fg_miss,102,False,False,MISS Bridges 8' Driving Floating Bank Jump Shot,,118-122,118,122
-0022000238,2021-01-22,PHX,DEN,50.55,5,2,27,PHX,PHX,fg_make,107,False,False,Ayton Tip Dunk Shot (24 PTS),,120-122,120,122
 0022000238,2021-01-22,PHX,DEN,50.55,5,2,27,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:6 Def:7),,120-122,120,122
+0022000238,2021-01-22,PHX,DEN,50.55,5,2,27,PHX,PHX,fg_make,107,False,False,Ayton Tip Dunk Shot (24 PTS),,120-122,120,122
 0022000238,2021-01-22,PHX,DEN,50.85,5,2,9,DEN,DEN,fg_miss,86,False,False,,MISS Murray 13' Turnaround Fadeaway Shot,120-122,120,122
 0022000238,2021-01-22,PHX,DEN,50.88,5,2,7,PHX,PHX,reb,0,False,False,Booker REBOUND (Off:0 Def:5),,120-122,120,122
 0022000238,2021-01-22,PHX,DEN,51.0,5,2,0,PHX,PHX,fg3_miss,1,False,False,MISS Bridges 3PT Jump Shot,,120-122,120,122

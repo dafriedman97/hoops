@@ -82,8 +82,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701148,2018-04-01,BKN,DET,7.57,1,4,26,DET,BKN,foul,1,False,False,Hollis-Jefferson P.FOUL (P1.T4) (D.Collins),,19-18,19,18
 0021701148,2018-04-01,BKN,DET,7.72,1,4,17,DET,DET,fg_make,80,False,False,,Smith 14' Step Back Jump Shot (2 PTS),19-20,19,20
 0021701148,2018-04-01,BKN,DET,7.97,1,4,2,BKN,BKN,tov,1,False,True,Harris Bad Pass Turnover (P1.T3),,19-20,19,20
-0021701148,2018-04-01,BKN,DET,7.97,1,4,2,DET,BKN,foul,1,False,False,Russell P.FOUL (P1.PN) (J.Sterling),,19-20,19,20
 0021701148,2018-04-01,BKN,DET,7.97,1,4,2,BKN,DET,steal,1,False,True,steal,steal,19-20,19,20
+0021701148,2018-04-01,BKN,DET,7.97,1,4,2,DET,BKN,foul,1,False,False,Russell P.FOUL (P1.PN) (J.Sterling),,19-20,19,20
 0021701148,2018-04-01,BKN,DET,7.97,1,4,2,DET,DET,ft_make,11,False,False,,Smith Free Throw 1 of 2 (3 PTS),19-21,19,21
 0021701148,2018-04-01,BKN,DET,7.97,1,4,2,DET,DET,ft_miss,12,False,False,,MISS Smith Free Throw 2 of 2,19-21,19,21
 0021701148,2018-04-01,BKN,DET,8.0,1,4,0,BKN,BKN,reb,0,False,False,Hollis-Jefferson REBOUND (Off:1 Def:2),,19-21,19,21
@@ -294,8 +294,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701148,2018-04-01,BKN,DET,33.98,3,2,1,DET,DET,reb,0,False,False,,Johnson REBOUND (Off:0 Def:2),67-83,67,83
 0021701148,2018-04-01,BKN,DET,34.3,3,1,42,DET,DET,fg_miss,75,True,False,,MISS Johnson 4' Driving Finger Roll Layup,67-83,67,83
 0021701148,2018-04-01,BKN,DET,34.3,3,1,42,DET,BKN,block,75,True,False,block,block,67-83,67,83
-0021701148,2018-04-01,BKN,DET,34.32,3,1,41,DET,DET,reb,0,False,False,,Pistons Rebound,67-83,67,83
 0021701148,2018-04-01,BKN,DET,34.32,3,1,41,DET,DET,fg3_miss,1,False,False,,MISS Ellenson 3PT Jump Shot,67-83,67,83
+0021701148,2018-04-01,BKN,DET,34.32,3,1,41,DET,DET,reb,0,False,False,,Pistons Rebound,67-83,67,83
 0021701148,2018-04-01,BKN,DET,34.43,3,1,34,BKN,BKN,reb,0,False,False,Stauskas REBOUND (Off:0 Def:1),,67-83,67,83
 0021701148,2018-04-01,BKN,DET,34.67,3,1,20,BKN,BKN,tov,40,False,False,Harris Out of Bounds Lost Ball Turnover (P3.T9),,67-83,67,83
 0021701148,2018-04-01,BKN,DET,34.87,3,1,8,DET,DET,fg_miss,41,True,False,,MISS Kennard 3' Running Layup,67-83,67,83
@@ -311,11 +311,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701148,2018-04-01,BKN,DET,35.7,3,0,18,BKN,,foul,16,False,False,,,70-83,70,83
 0021701148,2018-04-01,BKN,DET,35.7,3,0,18,BKN,DET,ejection,4,False,False,,Drummond Ejection:Other,70-83,70,83
 0021701148,2018-04-01,BKN,DET,35.7,3,0,18,BKN,BKN,ejection,4,False,False,Acy Ejection:Other,,70-83,70,83
-0021701148,2018-04-01,BKN,DET,36.0,3,0,0,BKN,BKN,fg_miss,5,True,False,MISS Carroll 7' Layup,,70-83,70,83
-0021701148,2018-04-01,BKN,DET,36.0,3,0,0,DET,DET,reb,0,False,False,,Kennard REBOUND (Off:0 Def:1),70-83,70,83
 0021701148,2018-04-01,BKN,DET,36.0,3,0,0,DET,,period_end,0,False,False,,,70-83,70,83
 0021701148,2018-04-01,BKN,DET,36.0,4,12,0,DET,,period_start,0,False,False,,,70-83,70,83
+0021701148,2018-04-01,BKN,DET,36.0,3,0,0,BKN,BKN,fg_miss,5,True,False,MISS Carroll 7' Layup,,70-83,70,83
 0021701148,2018-04-01,BKN,DET,36.0,3,0,0,BKN,DET,block,5,True,False,block,block,70-83,70,83
+0021701148,2018-04-01,BKN,DET,36.0,3,0,0,DET,DET,reb,0,False,False,,Kennard REBOUND (Off:0 Def:1),70-83,70,83
 0021701148,2018-04-01,BKN,DET,36.18,4,11,49,BKN,DET,foul,2,False,False,,Kennard S.FOUL (P2.T1) (D.Collins),70-83,70,83
 0021701148,2018-04-01,BKN,DET,36.18,4,11,49,BKN,BKN,ft_make,11,False,False,Allen Free Throw 1 of 2 (8 PTS),,71-83,71,83
 0021701148,2018-04-01,BKN,DET,36.18,4,11,49,BKN,BKN,ft_miss,12,False,False,MISS Allen Free Throw 2 of 2,,71-83,71,83
@@ -419,10 +419,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701148,2018-04-01,BKN,DET,47.12,4,0,53,DET,DET,ft_make,12,False,False,,Jackson Free Throw 2 of 2 (28 PTS),94-105,94,105
 0021701148,2018-04-01,BKN,DET,47.12,4,0,53,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 6 Short 0),,94-105,94,105
 0021701148,2018-04-01,BKN,DET,47.15,4,0,51,BKN,BKN,tov,1,False,True,Allen Bad Pass Turnover (P2.T12),,94-105,94,105
+0021701148,2018-04-01,BKN,DET,47.15,4,0,51,BKN,DET,steal,1,False,True,steal,steal,94-105,94,105
 0021701148,2018-04-01,BKN,DET,47.15,4,0,51,DET,BKN,foul,28,False,False,Cunningham Personal Take Foul (P3.PN) (D.Collins),,94-105,94,105
 0021701148,2018-04-01,BKN,DET,47.15,4,0,51,DET,DET,ft_miss,11,False,False,,MISS Jackson Free Throw 1 of 2,94-105,94,105
 0021701148,2018-04-01,BKN,DET,47.15,4,0,51,DET,DET,reb,1,False,False,,Pistons Rebound,94-105,94,105
-0021701148,2018-04-01,BKN,DET,47.15,4,0,51,BKN,DET,steal,1,False,True,steal,steal,94-105,94,105
 0021701148,2018-04-01,BKN,DET,47.15,4,0,51,DET,DET,ft_make,12,False,False,,Jackson Free Throw 2 of 2 (29 PTS),94-106,94,106
 0021701148,2018-04-01,BKN,DET,47.3,4,0,42,BKN,BKN,fg_make,98,False,False,Allen 1' Cutting Layup Shot (15 PTS) (LeVert 7 AST),,96-106,96,106
 0021701148,2018-04-01,BKN,DET,47.32,4,0,41,DET,BKN,foul,28,False,False,Harris Personal Take Foul (P1.PN) (D.Collins),,96-106,96,106

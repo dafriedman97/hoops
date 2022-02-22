@@ -30,8 +30,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701224,2018-04-11,CHI,DET,4.52,1,7,29,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 1 Short 0),,12-15,12,15
 0021701224,2018-04-11,CHI,DET,4.87,1,7,8,CHI,DET,foul,1,False,False,,Tolliver P.FOUL (P1.T1) (J.Capers),12-15,12,15
 0021701224,2018-04-11,CHI,DET,4.97,1,7,2,CHI,CHI,fg_miss,101,False,False,MISS Payne 6' Driving Floating Jump Shot,,12-15,12,15
-0021701224,2018-04-11,CHI,DET,4.98,1,7,1,CHI,CHI,reb,0,False,False,BULLS Rebound,,12-15,12,15
 0021701224,2018-04-11,CHI,DET,4.98,1,7,1,CHI,DET,foul,3,False,False,,Johnson L.B.FOUL (P1.T2) (T.Brown),12-15,12,15
+0021701224,2018-04-11,CHI,DET,4.98,1,7,1,CHI,CHI,reb,0,False,False,BULLS Rebound,,12-15,12,15
 0021701224,2018-04-11,CHI,DET,5.13,1,6,52,CHI,CHI,fg3_miss,1,False,False,MISS Kilpatrick 26' 3PT Jump Shot,,12-15,12,15
 0021701224,2018-04-11,CHI,DET,5.13,1,6,52,DET,DET,reb,0,False,False,,Moreland REBOUND (Off:1 Def:4),12-15,12,15
 0021701224,2018-04-11,CHI,DET,5.43,1,6,34,DET,DET,fg_make,101,False,False,,Moreland 12' Driving Floating Jump Shot (4 PTS) (Kennard 2 AST),12-17,12,17
@@ -84,8 +84,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701224,2018-04-11,CHI,DET,11.42,1,0,35,CHI,CHI,fg_miss,6,False,False,MISS Asik 2' Driving Layup,,21-33,21,33
 0021701224,2018-04-11,CHI,DET,11.43,1,0,34,CHI,CHI,reb,0,False,False,Asik REBOUND (Off:1 Def:0),,21-33,21,33
 0021701224,2018-04-11,CHI,DET,11.43,1,0,34,CHI,CHI,tov,1,False,True,Asik Bad Pass Turnover (P1.T3),,21-33,21,33
-0021701224,2018-04-11,CHI,DET,11.43,1,0,34,DET,CHI,foul,1,False,False,Grant P.FOUL (P1.T2) (J.Capers),,21-33,21,33
 0021701224,2018-04-11,CHI,DET,11.43,1,0,34,CHI,DET,steal,1,False,True,steal,steal,21-33,21,33
+0021701224,2018-04-11,CHI,DET,11.43,1,0,34,DET,CHI,foul,1,False,False,Grant P.FOUL (P1.T2) (J.Capers),,21-33,21,33
 0021701224,2018-04-11,CHI,DET,11.68,1,0,19,DET,DET,fg_make,73,False,False,,Galloway 1' Driving Reverse Layup (2 PTS),21-35,21,35
 0021701224,2018-04-11,CHI,DET,12.0,1,0,0,CHI,CHI,fg3_miss,80,False,False,MISS Grant 26' 3PT Step Back Jump Shot,,21-35,21,35
 0021701224,2018-04-11,CHI,DET,12.0,1,0,0,CHI,CHI,reb,0,False,False,BULLS Rebound,,21-35,21,35
@@ -216,9 +216,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701224,2018-04-11,CHI,DET,27.53,3,8,28,CHI,DET,block,1,True,False,block,block,63-71,63,71
 0021701224,2018-04-11,CHI,DET,27.58,3,8,25,CHI,CHI,reb,0,False,False,Felicio REBOUND (Off:3 Def:0),,63-71,63,71
 0021701224,2018-04-11,CHI,DET,27.6,3,8,24,CHI,CHI,fg_miss,6,True,False,MISS Kilpatrick 2' Driving Layup,,63-71,63,71
+0021701224,2018-04-11,CHI,DET,27.6,3,8,24,CHI,DET,block,6,True,False,block,block,63-71,63,71
 0021701224,2018-04-11,CHI,DET,27.6,3,8,24,CHI,CHI,reb,0,False,False,BULLS Rebound,,63-71,63,71
 0021701224,2018-04-11,CHI,DET,27.6,3,8,24,CHI,DET,foul,3,False,False,,Tolliver L.B.FOUL (P3.T3) (L.Richardson),63-71,63,71
-0021701224,2018-04-11,CHI,DET,27.6,3,8,24,CHI,DET,block,6,True,False,block,block,63-71,63,71
 0021701224,2018-04-11,CHI,DET,27.92,3,8,5,CHI,CHI,tov,1,False,True,Kilpatrick Bad Pass Turnover (P2.T8),,63-71,63,71
 0021701224,2018-04-11,CHI,DET,27.92,3,8,5,CHI,DET,steal,1,False,True,steal,steal,63-71,63,71
 0021701224,2018-04-11,CHI,DET,28.03,3,7,58,DET,DET,fg3_miss,1,False,False,,MISS Jackson 25' 3PT Jump Shot,63-71,63,71
@@ -265,8 +265,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701224,2018-04-11,CHI,DET,32.75,3,3,15,DET,DET,fg3_make,1,False,False,,Kennard 24' 3PT Jump Shot (18 PTS) (Ellenson 2 AST),67-88,67,88
 0021701224,2018-04-11,CHI,DET,33.03,3,2,58,CHI,CHI,fg3_make,1,False,False,Kilpatrick 3PT Jump Shot (14 PTS) (Payne 8 AST),,70-88,70,88
 0021701224,2018-04-11,CHI,DET,33.27,3,2,44,DET,DET,fg3_miss,1,False,False,,MISS Kennard 25' 3PT Jump Shot,70-88,70,88
-0021701224,2018-04-11,CHI,DET,33.28,3,2,43,CHI,CHI,reb,0,False,False,BULLS Rebound,,70-88,70,88
 0021701224,2018-04-11,CHI,DET,33.28,3,2,43,CHI,DET,foul,3,False,False,,Tolliver L.B.FOUL (P4.T4) (L.Richardson),70-88,70,88
+0021701224,2018-04-11,CHI,DET,33.28,3,2,43,CHI,CHI,reb,0,False,False,BULLS Rebound,,70-88,70,88
 0021701224,2018-04-11,CHI,DET,33.53,3,2,28,CHI,CHI,fg_make,63,False,False,Grant 20' Fadeaway Jumper (7 PTS),,72-88,72,88
 0021701224,2018-04-11,CHI,DET,33.82,3,2,11,DET,DET,fg3_miss,1,False,False,,MISS Smith 26' 3PT Jump Shot,72-88,72,88
 0021701224,2018-04-11,CHI,DET,33.85,3,2,9,CHI,CHI,reb,0,False,False,Portis REBOUND (Off:0 Def:4),,72-88,72,88
@@ -278,8 +278,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701224,2018-04-11,CHI,DET,34.35,3,1,39,DET,DET,fg_make,1,False,False,,Smith 15' Jump Shot (13 PTS),72-90,72,90
 0021701224,2018-04-11,CHI,DET,34.58,3,1,25,CHI,CHI,fg_miss,6,True,False,MISS Asik 2' Driving Layup,,72-90,72,90
 0021701224,2018-04-11,CHI,DET,34.58,3,1,25,CHI,DET,block,6,True,False,block,block,72-90,72,90
-0021701224,2018-04-11,CHI,DET,34.6,3,1,24,DET,DET,reb,0,False,False,,Ellenson REBOUND (Off:0 Def:6),72-90,72,90
 0021701224,2018-04-11,CHI,DET,34.6,3,1,24,DET,CHI,foul,1,False,False,Grant P.FOUL (P2.PN) (T.Brown),,72-90,72,90
+0021701224,2018-04-11,CHI,DET,34.6,3,1,24,DET,DET,reb,0,False,False,,Ellenson REBOUND (Off:0 Def:6),72-90,72,90
 0021701224,2018-04-11,CHI,DET,34.82,3,1,11,DET,DET,fg_miss,1,False,False,,MISS Smith 17' Jump Shot,72-90,72,90
 0021701224,2018-04-11,CHI,DET,34.85,3,1,9,CHI,CHI,reb,0,False,False,Arcidiacono REBOUND (Off:0 Def:1),,72-90,72,90
 0021701224,2018-04-11,CHI,DET,34.92,3,1,5,CHI,CHI,tov,1,False,True,Nwaba Bad Pass Turnover (P1.T11),,72-90,72,90

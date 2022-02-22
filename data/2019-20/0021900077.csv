@@ -50,8 +50,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900077,2019-11-02,OKC,NOP,5.43,1,6,34,NOP,OKC,foul,2,False,False,Noel S.FOUL (P2.PN) (D.Collins),,14-11,14,11
 0021900077,2019-11-02,OKC,NOP,5.43,1,6,34,NOP,NOP,ft_miss,11,False,False,,MISS Ingram Free Throw 1 of 2,14-11,14,11
 0021900077,2019-11-02,OKC,NOP,5.43,1,6,34,NOP,NOP,reb,1,False,False,,Pelicans Rebound,14-11,14,11
-0021900077,2019-11-02,OKC,NOP,5.43,1,6,34,NOP,NOP,ft_miss,12,False,False,,MISS Ingram Free Throw 2 of 2,14-11,14,11
 0021900077,2019-11-02,OKC,NOP,5.43,1,6,34,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 1 Short 0),,14-11,14,11
+0021900077,2019-11-02,OKC,NOP,5.43,1,6,34,NOP,NOP,ft_miss,12,False,False,,MISS Ingram Free Throw 2 of 2,14-11,14,11
 0021900077,2019-11-02,OKC,NOP,5.47,1,6,32,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:0 Def:2),,14-11,14,11
 0021900077,2019-11-02,OKC,NOP,5.8,1,6,12,OKC,OKC,fg3_miss,1,False,False,MISS Muscala 25' 3PT Jump Shot,,14-11,14,11
 0021900077,2019-11-02,OKC,NOP,5.87,1,6,8,NOP,NOP,reb,0,False,False,,Ball REBOUND (Off:1 Def:2),14-11,14,11
@@ -161,25 +161,25 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900077,2019-11-02,OKC,NOP,14.97,2,9,2,OKC,OKC,tov,40,False,False,Nader Out of Bounds Lost Ball Turnover (P1.T3),,37-34,37,34
 0021900077,2019-11-02,OKC,NOP,15.17,2,8,50,NOP,OKC,foul,2,False,False,Diallo S.FOUL (P1.T3) (A.Nagy),,37-34,37,34
 0021900077,2019-11-02,OKC,NOP,15.17,2,8,50,NOP,NOP,ft_miss,11,False,False,,MISS Ingram Free Throw 1 of 2,37-34,37,34
+0021900077,2019-11-02,OKC,NOP,15.17,2,8,50,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 2 Short 0),,37-35,37,35
 0021900077,2019-11-02,OKC,NOP,15.17,2,8,50,NOP,NOP,ft_make,12,False,False,,Ingram Free Throw 2 of 2 (7 PTS),37-35,37,35
 0021900077,2019-11-02,OKC,NOP,15.17,2,8,50,NOP,NOP,reb,1,False,False,,Pelicans Rebound,37-35,37,35
-0021900077,2019-11-02,OKC,NOP,15.17,2,8,50,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 2 Short 0),,37-35,37,35
 0021900077,2019-11-02,OKC,NOP,15.52,2,8,29,OKC,OKC,fg3_miss,1,False,False,MISS Bazley 25' 3PT Jump Shot,,37-35,37,35
 0021900077,2019-11-02,OKC,NOP,15.58,2,8,25,NOP,NOP,reb,0,False,False,,Okafor REBOUND (Off:4 Def:3),37-35,37,35
 0021900077,2019-11-02,OKC,NOP,15.65,2,8,21,NOP,NOP,fg_miss,5,True,False,,MISS Hart 3' Layup,37-35,37,35
 0021900077,2019-11-02,OKC,NOP,15.65,2,8,21,NOP,OKC,block,5,True,False,block,block,37-35,37,35
 0021900077,2019-11-02,OKC,NOP,15.7,2,8,18,OKC,OKC,reb,0,False,False,Schroder REBOUND (Off:1 Def:4),,37-35,37,35
 0021900077,2019-11-02,OKC,NOP,15.78,2,8,13,OKC,OKC,fg_miss,5,True,False,MISS Noel 1' Layup,,37-35,37,35
-0021900077,2019-11-02,OKC,NOP,15.78,2,8,13,OKC,OKC,reb,0,False,False,THUNDER Rebound,,37-35,37,35
 0021900077,2019-11-02,OKC,NOP,15.78,2,8,13,OKC,NOP,block,5,True,False,block,block,37-35,37,35
+0021900077,2019-11-02,OKC,NOP,15.78,2,8,13,OKC,OKC,reb,0,False,False,THUNDER Rebound,,37-35,37,35
 0021900077,2019-11-02,OKC,NOP,15.92,2,8,5,OKC,OKC,fg3_miss,1,False,False,MISS Schroder 27' 3PT Jump Shot,,37-35,37,35
 0021900077,2019-11-02,OKC,NOP,15.97,2,8,2,NOP,NOP,reb,0,False,False,,Okafor REBOUND (Off:4 Def:4),37-35,37,35
 0021900077,2019-11-02,OKC,NOP,16.13,2,7,52,NOP,NOP,fg_make,5,False,False,,Holiday 2' Layup (4 PTS) (Ingram 1 AST),37-37,37,37
 0021900077,2019-11-02,OKC,NOP,16.13,2,7,52,NOP,OKC,violation,2,False,False,Noel Violation:Defensive Goaltending (A.Nagy),,37-37,37,37
 0021900077,2019-11-02,OKC,NOP,16.13,2,7,52,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 3 Short 0),,37-37,37,37
 0021900077,2019-11-02,OKC,NOP,16.42,2,7,35,OKC,OKC,fg_miss,6,True,False,MISS Diallo 3' Driving Layup,,37-37,37,37
-0021900077,2019-11-02,OKC,NOP,16.42,2,7,35,NOP,NOP,reb,0,False,False,,Pelicans Rebound,37-37,37,37
 0021900077,2019-11-02,OKC,NOP,16.42,2,7,35,OKC,NOP,block,6,True,False,block,block,37-37,37,37
+0021900077,2019-11-02,OKC,NOP,16.42,2,7,35,NOP,NOP,reb,0,False,False,,Pelicans Rebound,37-37,37,37
 0021900077,2019-11-02,OKC,NOP,16.62,2,7,23,NOP,NOP,fg_miss,79,False,False,,MISS Ball 19' Pullup Jump Shot,37-37,37,37
 0021900077,2019-11-02,OKC,NOP,16.67,2,7,20,NOP,NOP,reb,0,False,False,,Williams REBOUND (Off:1 Def:0),37-37,37,37
 0021900077,2019-11-02,OKC,NOP,16.73,2,7,16,NOP,NOP,fg_make,98,False,False,,Ball 2' Cutting Layup Shot (5 PTS) (Okafor 2 AST),37-39,37,39
@@ -187,8 +187,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900077,2019-11-02,OKC,NOP,17.13,2,6,52,OKC,NOP,foul,2,False,False,,Williams S.FOUL (P1.T3) (A.Nagy),39-39,39,39
 0021900077,2019-11-02,OKC,NOP,17.13,2,6,52,OKC,OKC,ft_make,10,False,False,Diallo Free Throw 1 of 1 (8 PTS),,40-39,40,39
 0021900077,2019-11-02,OKC,NOP,17.33,2,6,40,NOP,NOP,fg_miss,5,True,False,,MISS Okafor 2' Layup,40-39,40,39
-0021900077,2019-11-02,OKC,NOP,17.33,2,6,40,NOP,NOP,reb,0,False,False,,Pelicans Rebound,40-39,40,39
 0021900077,2019-11-02,OKC,NOP,17.33,2,6,40,NOP,OKC,block,5,True,False,block,block,40-39,40,39
+0021900077,2019-11-02,OKC,NOP,17.33,2,6,40,NOP,NOP,reb,0,False,False,,Pelicans Rebound,40-39,40,39
 0021900077,2019-11-02,OKC,NOP,17.38,2,6,37,NOP,NOP,fg_make,98,False,False,,Okafor 6' Cutting Layup Shot (9 PTS) (Redick 1 AST),40-41,40,41
 0021900077,2019-11-02,OKC,NOP,17.38,2,6,37,NOP,OKC,violation,2,False,False,Defensive Goaltending,,40-41,40,41
 0021900077,2019-11-02,OKC,NOP,17.73,2,6,16,OKC,OKC,fg3_miss,1,False,False,MISS Gallinari 26' 3PT Jump Shot,,40-41,40,41
@@ -367,8 +367,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900077,2019-11-02,OKC,NOP,37.73,4,10,16,NOP,NOP,fg_miss,5,False,False,,MISS Okafor 1' Layup,94-91,94,91
 0021900077,2019-11-02,OKC,NOP,37.9,4,10,6,OKC,OKC,reb,0,False,False,Muscala REBOUND (Off:1 Def:1),,94-91,94,91
 0021900077,2019-11-02,OKC,NOP,37.95,4,10,3,OKC,OKC,fg_miss,5,True,False,MISS Schroder 3' Layup,,94-91,94,91
-0021900077,2019-11-02,OKC,NOP,37.95,4,10,3,OKC,OKC,reb,0,False,False,THUNDER Rebound,,94-91,94,91
 0021900077,2019-11-02,OKC,NOP,37.95,4,10,3,OKC,NOP,block,5,True,False,block,block,94-91,94,91
+0021900077,2019-11-02,OKC,NOP,37.95,4,10,3,OKC,OKC,reb,0,False,False,THUNDER Rebound,,94-91,94,91
 0021900077,2019-11-02,OKC,NOP,38.17,4,9,50,OKC,OKC,fg_miss,6,False,False,MISS Schroder 6' Driving Layup,,94-91,94,91
 0021900077,2019-11-02,OKC,NOP,38.2,4,9,48,NOP,NOP,reb,0,False,False,,Hart REBOUND (Off:0 Def:10),94-91,94,91
 0021900077,2019-11-02,OKC,NOP,38.37,4,9,38,NOP,NOP,fg_miss,79,False,False,,MISS Hart 20' Pullup Jump Shot,94-91,94,91
@@ -418,8 +418,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900077,2019-11-02,OKC,NOP,41.88,4,6,7,OKC,OKC,fg3_miss,1,False,False,MISS Diallo 24' 3PT Jump Shot,,101-93,101,93
 0021900077,2019-11-02,OKC,NOP,41.95,4,6,3,NOP,NOP,reb,0,False,False,,Hart REBOUND (Off:1 Def:11),101-93,101,93
 0021900077,2019-11-02,OKC,NOP,42.27,4,5,44,NOP,NOP,fg3_miss,1,False,False,,MISS Ball 3PT Jump Shot,101-93,101,93
-0021900077,2019-11-02,OKC,NOP,42.4,4,5,36,NOP,NOP,fg_make,97,False,False,,Hart 1' Tip Layup Shot (10 PTS),101-95,101,95
 0021900077,2019-11-02,OKC,NOP,42.4,4,5,36,NOP,NOP,reb,0,False,False,,Hart REBOUND (Off:2 Def:11),101-95,101,95
+0021900077,2019-11-02,OKC,NOP,42.4,4,5,36,NOP,NOP,fg_make,97,False,False,,Hart 1' Tip Layup Shot (10 PTS),101-95,101,95
 0021900077,2019-11-02,OKC,NOP,42.6,4,5,24,OKC,OKC,tov,2,False,True,Noel Lost Ball Turnover (P2.T10),,101-95,101,95
 0021900077,2019-11-02,OKC,NOP,42.6,4,5,24,OKC,NOP,steal,2,False,True,steal,steal,101-95,101,95
 0021900077,2019-11-02,OKC,NOP,42.67,4,5,20,NOP,NOP,fg3_make,1,False,False,,Redick 25' 3PT Jump Shot (15 PTS) (Hart 3 AST),101-98,101,98
@@ -451,12 +451,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900077,2019-11-02,OKC,NOP,46.32,4,1,41,OKC,OKC,fg3_miss,1,False,False,MISS Schroder 26' 3PT Jump Shot,,109-104,109,104
 0021900077,2019-11-02,OKC,NOP,46.37,4,1,38,NOP,NOP,reb,0,False,False,,Redick REBOUND (Off:0 Def:3),109-104,109,104
 0021900077,2019-11-02,OKC,NOP,46.48,4,1,31,NOP,NOP,fg_miss,5,True,False,,MISS Okafor 4' Layup,109-104,109,104
-0021900077,2019-11-02,OKC,NOP,46.48,4,1,31,OKC,OKC,reb,0,False,False,THUNDER Rebound,,109-104,109,104
 0021900077,2019-11-02,OKC,NOP,46.48,4,1,31,NOP,OKC,block,5,True,False,block,block,109-104,109,104
+0021900077,2019-11-02,OKC,NOP,46.48,4,1,31,OKC,OKC,reb,0,False,False,THUNDER Rebound,,109-104,109,104
 0021900077,2019-11-02,OKC,NOP,46.8,4,1,12,OKC,OKC,fg_make,6,False,False,Schroder 3' Driving Layup (13 PTS),,111-104,111,104
 0021900077,2019-11-02,OKC,NOP,47.03,4,0,58,NOP,NOP,tov,1,False,True,,Ball Bad Pass Turnover (P5.T15),111-104,111,104
-0021900077,2019-11-02,OKC,NOP,47.03,4,0,58,OKC,NOP,foul,28,False,False,,Holiday Personal Take Foul (P4.PN) (D.Collins),111-104,111,104
 0021900077,2019-11-02,OKC,NOP,47.03,4,0,58,NOP,OKC,steal,1,False,True,steal,steal,111-104,111,104
+0021900077,2019-11-02,OKC,NOP,47.03,4,0,58,OKC,NOP,foul,28,False,False,,Holiday Personal Take Foul (P4.PN) (D.Collins),111-104,111,104
 0021900077,2019-11-02,OKC,NOP,47.03,4,0,58,OKC,OKC,ft_make,11,False,False,Schroder Free Throw 1 of 2 (14 PTS),,112-104,112,104
 0021900077,2019-11-02,OKC,NOP,47.03,4,0,58,OKC,OKC,ft_make,12,False,False,Schroder Free Throw 2 of 2 (15 PTS),,113-104,113,104
 0021900077,2019-11-02,OKC,NOP,47.03,4,0,58,NOP,NOP,timeout,1,False,False,,Pelicans Timeout: Regular (Reg.6 Short 0),113-104,113,104

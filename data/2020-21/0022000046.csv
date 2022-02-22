@@ -9,8 +9,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000046,2020-12-29,CLE,NYK,1.02,1,10,59,NYK,NYK,fg_make,79,False,False,,Randle 17' Pullup Jump Shot (2 PTS),2-2,2,2
 0022000046,2020-12-29,CLE,NYK,1.35,1,10,39,CLE,CLE,fg_make,5,False,False,Drummond Layup (4 PTS) (Sexton 1 AST),,4-2,4,2
 0022000046,2020-12-29,CLE,NYK,1.73,1,10,16,NYK,NYK,fg_miss,79,False,False,,MISS Barrett 8' Pullup Jump Shot,4-2,4,2
-0022000046,2020-12-29,CLE,NYK,1.8,1,10,12,NYK,NYK,fg_miss,97,False,False,,MISS Robinson Tip Layup Shot,4-2,4,2
 0022000046,2020-12-29,CLE,NYK,1.8,1,10,12,NYK,NYK,reb,0,False,False,,Robinson REBOUND (Off:1 Def:1),4-2,4,2
+0022000046,2020-12-29,CLE,NYK,1.8,1,10,12,NYK,NYK,fg_miss,97,False,False,,MISS Robinson Tip Layup Shot,4-2,4,2
 0022000046,2020-12-29,CLE,NYK,1.8,1,10,12,CLE,CLE,reb,0,False,False,Drummond REBOUND (Off:0 Def:1),,4-2,4,2
 0022000046,2020-12-29,CLE,NYK,2.07,1,9,56,CLE,CLE,fg3_miss,1,False,False,MISS Nance Jr. 3PT Jump Shot,,4-2,4,2
 0022000046,2020-12-29,CLE,NYK,2.07,1,9,56,NYK,NYK,reb,0,False,False,,Knicks Rebound,4-2,4,2
@@ -221,8 +221,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000046,2020-12-29,CLE,NYK,23.17,2,0,50,CLE,CLE,fg3_miss,1,False,False,MISS Osman 24' 3PT Jump Shot,,42-47,42,47
 0022000046,2020-12-29,CLE,NYK,23.23,2,0,46,NYK,NYK,reb,0,False,False,,Payton REBOUND (Off:2 Def:2),42-47,42,47
 0022000046,2020-12-29,CLE,NYK,23.25,2,0,45,NYK,NYK,fg_miss,41,True,False,,MISS Randle 1' Running Layup,42-47,42,47
-0022000046,2020-12-29,CLE,NYK,23.25,2,0,45,NYK,NYK,reb,0,False,False,,Knicks Rebound,42-47,42,47
 0022000046,2020-12-29,CLE,NYK,23.25,2,0,45,NYK,CLE,block,41,True,False,block,block,42-47,42,47
+0022000046,2020-12-29,CLE,NYK,23.25,2,0,45,NYK,NYK,reb,0,False,False,,Knicks Rebound,42-47,42,47
 0022000046,2020-12-29,CLE,NYK,23.4,2,0,36,NYK,NYK,tov,1,False,True,,Randle Bad Pass Turnover (P6.T15),42-47,42,47
 0022000046,2020-12-29,CLE,NYK,23.4,2,0,36,NYK,CLE,steal,1,False,True,steal,steal,42-47,42,47
 0022000046,2020-12-29,CLE,NYK,23.47,2,0,32,CLE,CLE,fg_make,76,False,False,Garland 1' Running Finger Roll Layup (4 PTS) (Osman 1 AST),,44-47,44,47
@@ -257,8 +257,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000046,2020-12-29,CLE,NYK,26.05,3,9,57,CLE,CLE,reb,0,False,False,Drummond REBOUND (Off:4 Def:7),,50-56,50,56
 0022000046,2020-12-29,CLE,NYK,26.07,3,9,56,CLE,CLE,fg_make,72,False,False,Drummond 2' Putback Layup (14 PTS),,52-56,52,56
 0022000046,2020-12-29,CLE,NYK,26.32,3,9,41,NYK,NYK,fg_miss,47,True,False,,MISS Randle 7' Turnaround Jump Shot,52-56,52,56
-0022000046,2020-12-29,CLE,NYK,26.32,3,9,41,NYK,NYK,reb,0,False,False,,Knicks Rebound,52-56,52,56
 0022000046,2020-12-29,CLE,NYK,26.32,3,9,41,NYK,CLE,block,47,True,False,block,block,52-56,52,56
+0022000046,2020-12-29,CLE,NYK,26.32,3,9,41,NYK,NYK,reb,0,False,False,,Knicks Rebound,52-56,52,56
 0022000046,2020-12-29,CLE,NYK,26.35,3,9,39,NYK,NYK,fg_miss,98,True,False,,MISS Robinson 1' Cutting Layup Shot,52-56,52,56
 0022000046,2020-12-29,CLE,NYK,26.35,3,9,39,NYK,CLE,block,98,True,False,block,block,52-56,52,56
 0022000046,2020-12-29,CLE,NYK,26.43,3,9,34,CLE,CLE,reb,0,False,False,Garland REBOUND (Off:1 Def:3),,52-56,52,56
@@ -386,11 +386,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000046,2020-12-29,CLE,NYK,38.95,4,9,3,NYK,NYK,fg3_miss,1,False,False,,MISS Ntilikina 27' 3PT Jump Shot,66-78,66,78
 0022000046,2020-12-29,CLE,NYK,39.03,4,8,58,CLE,CLE,reb,0,False,False,McGee REBOUND (Off:5 Def:4),,66-78,66,78
 0022000046,2020-12-29,CLE,NYK,39.23,4,8,46,CLE,CLE,tov,2,False,True,Sexton Lost Ball Turnover (P1.T12),,66-78,66,78
+0022000046,2020-12-29,CLE,NYK,39.23,4,8,46,CLE,NYK,steal,2,False,True,steal,steal,66-78,66,78
 0022000046,2020-12-29,CLE,NYK,39.23,4,8,46,CLE,,foul,11,False,False,,,66-78,66,78
 0022000046,2020-12-29,CLE,NYK,39.23,4,8,46,NYK,NYK,ft_miss,16,False,False,,MISS Ntilikina Free Throw Technical,66-78,66,78
 0022000046,2020-12-29,CLE,NYK,39.23,4,8,46,NYK,NYK,reb,1,False,False,,Knicks Rebound,66-78,66,78
 0022000046,2020-12-29,CLE,NYK,39.23,4,8,46,NYK,CLE,foul,1,False,False,McGee P.FOUL (P1.T2) (A.Moyer-Gleich),,66-78,66,78
-0022000046,2020-12-29,CLE,NYK,39.23,4,8,46,CLE,NYK,steal,2,False,True,steal,steal,66-78,66,78
 0022000046,2020-12-29,CLE,NYK,39.37,4,8,38,CLE,NYK,foul,4,False,False,,Randle OFF.Foul (P3) (S.Twardoski),66-78,66,78
 0022000046,2020-12-29,CLE,NYK,39.37,4,8,38,NYK,NYK,tov,37,False,False,,Randle Offensive Foul Turnover (P7.T20),66-78,66,78
 0022000046,2020-12-29,CLE,NYK,39.55,4,8,27,CLE,CLE,fg_miss,79,False,False,MISS Garland 16' Pullup Jump Shot,,66-78,66,78
@@ -406,9 +406,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000046,2020-12-29,CLE,NYK,41.0,4,7,0,CLE,CLE,fg_make,6,False,False,Sexton 1' Driving Layup (16 PTS) (Garland 4 AST),,73-80,73,80
 0022000046,2020-12-29,CLE,NYK,41.02,4,6,59,NYK,NYK,tov,12,False,False,,Randle Inbound Turnover (P8.T23),73-80,73,80
 0022000046,2020-12-29,CLE,NYK,41.15,4,6,51,CLE,CLE,fg_miss,101,True,False,MISS Osman 4' Driving Floating Jump Shot,,73-80,73,80
+0022000046,2020-12-29,CLE,NYK,41.15,4,6,51,CLE,NYK,block,101,True,False,block,block,73-80,73,80
 0022000046,2020-12-29,CLE,NYK,41.15,4,6,51,NYK,NYK,reb,0,False,False,,Knicks Rebound,73-80,73,80
 0022000046,2020-12-29,CLE,NYK,41.15,4,6,51,NYK,NYK,timeout,1,False,False,,Knicks Timeout: Regular (Reg.3 Short 0),73-80,73,80
-0022000046,2020-12-29,CLE,NYK,41.15,4,6,51,CLE,NYK,block,101,True,False,block,block,73-80,73,80
 0022000046,2020-12-29,CLE,NYK,41.3,4,6,42,NYK,NYK,tov,10,False,False,,Knicks Turnover: 8 Second Violation (T#24),73-80,73,80
 0022000046,2020-12-29,CLE,NYK,41.57,4,6,26,CLE,CLE,fg3_miss,1,False,False,MISS Garland 24' 3PT Jump Shot,,73-80,73,80
 0022000046,2020-12-29,CLE,NYK,41.6,4,6,24,NYK,NYK,reb,0,False,False,,Barrett REBOUND (Off:1 Def:5),73-80,73,80
@@ -435,9 +435,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000046,2020-12-29,CLE,NYK,45.38,4,2,37,CLE,CLE,ft_miss,12,False,False,MISS Drummond Free Throw 2 of 2,,80-93,80,93
 0022000046,2020-12-29,CLE,NYK,45.43,4,2,34,NYK,NYK,reb,0,False,False,,Barrett REBOUND (Off:1 Def:6),80-93,80,93
 0022000046,2020-12-29,CLE,NYK,45.62,4,2,23,NYK,NYK,fg_miss,101,True,False,,MISS Payton 7' Driving Floating Jump Shot,80-93,80,93
+0022000046,2020-12-29,CLE,NYK,45.62,4,2,23,NYK,CLE,block,101,True,False,block,block,80-93,80,93
 0022000046,2020-12-29,CLE,NYK,45.62,4,2,23,CLE,CLE,reb,0,False,False,Drummond REBOUND (Off:4 Def:12),,80-93,80,93
 0022000046,2020-12-29,CLE,NYK,45.62,4,2,23,CLE,NYK,foul,1,False,False,,Payton P.FOUL (P2.T3) (A.Moyer-Gleich),80-93,80,93
-0022000046,2020-12-29,CLE,NYK,45.62,4,2,23,NYK,CLE,block,101,True,False,block,block,80-93,80,93
 0022000046,2020-12-29,CLE,NYK,45.87,4,2,8,CLE,CLE,fg_make,101,False,False,Garland 8' Driving Floating Jump Shot (17 PTS) (Drummond 2 AST),,82-93,82,93
 0022000046,2020-12-29,CLE,NYK,45.95,4,2,3,NYK,CLE,foul,1,False,False,Nance Jr. P.FOUL (P2.T4) (E.Malloy),,82-93,82,93
 0022000046,2020-12-29,CLE,NYK,46.23,4,1,46,CLE,NYK,foul,4,False,False,,Randle OFF.Foul (P4) (A.Moyer-Gleich),82-93,82,93
@@ -446,9 +446,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000046,2020-12-29,CLE,NYK,46.32,4,1,41,CLE,CLE,ft_make,11,False,False,Drummond Free Throw 1 of 2 (17 PTS),,83-93,83,93
 0022000046,2020-12-29,CLE,NYK,46.32,4,1,41,CLE,CLE,ft_miss,12,False,False,MISS Drummond Free Throw 2 of 2,,83-93,83,93
 0022000046,2020-12-29,CLE,NYK,46.32,4,1,41,NYK,NYK,reb,0,False,False,,Bullock REBOUND (Off:1 Def:6),83-93,83,93
-0022000046,2020-12-29,CLE,NYK,46.32,4,1,41,NYK,NYK,tov,1,False,True,,Bullock Bad Pass Turnover (P3.T26),83-93,83,93
 0022000046,2020-12-29,CLE,NYK,46.32,4,1,41,CLE,CLE,fg3_miss,1,False,False,MISS Dotson 3PT Jump Shot,,83-93,83,93
 0022000046,2020-12-29,CLE,NYK,46.32,4,1,41,CLE,CLE,reb,0,False,False,Drummond REBOUND (Off:5 Def:12),,83-93,83,93
+0022000046,2020-12-29,CLE,NYK,46.32,4,1,41,NYK,NYK,tov,1,False,True,,Bullock Bad Pass Turnover (P3.T26),83-93,83,93
 0022000046,2020-12-29,CLE,NYK,46.32,4,1,41,NYK,CLE,steal,1,False,True,steal,steal,83-93,83,93
 0022000046,2020-12-29,CLE,NYK,46.42,4,1,35,CLE,NYK,foul,2,False,False,,Robinson S.FOUL (P4.PN) (E.Malloy),83-93,83,93
 0022000046,2020-12-29,CLE,NYK,46.42,4,1,35,CLE,CLE,ft_miss,11,False,False,MISS Drummond Free Throw 1 of 2,,83-93,83,93

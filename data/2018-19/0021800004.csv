@@ -190,8 +190,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800004,2018-10-17,DET,BKN,20.98,2,3,1,DET,DET,tov,37,False,False,Drummond Offensive Foul Turnover (P4.T8),,45-43,45,43
 0021800004,2018-10-17,DET,BKN,21.2,2,2,48,BKN,BKN,fg_make,79,False,False,,Russell 15' Pullup Jump Shot (5 PTS) (LeVert 1 AST),45-45,45,45
 0021800004,2018-10-17,DET,BKN,21.48,2,2,31,DET,DET,fg_miss,6,True,False,MISS Griffin 10' Driving Layup,,45-45,45,45
-0021800004,2018-10-17,DET,BKN,21.48,2,2,31,DET,DET,reb,0,False,False,PISTONS Rebound,,45-45,45,45
 0021800004,2018-10-17,DET,BKN,21.48,2,2,31,DET,BKN,block,6,True,False,block,block,45-45,45,45
+0021800004,2018-10-17,DET,BKN,21.48,2,2,31,DET,DET,reb,0,False,False,PISTONS Rebound,,45-45,45,45
 0021800004,2018-10-17,DET,BKN,21.52,2,2,29,DET,DET,fg_make,78,False,False,Jackson 12' Floating Jump Shot (9 PTS) (Smith 3 AST),,47-45,47,45
 0021800004,2018-10-17,DET,BKN,21.88,2,2,7,BKN,BKN,fg3_make,1,False,False,,Allen 24' 3PT Jump Shot (14 PTS) (LeVert 2 AST),47-48,47,48
 0021800004,2018-10-17,DET,BKN,22.15,2,1,51,DET,DET,fg_make,7,False,False,Drummond 3' Dunk (8 PTS) (Griffin 4 AST),,49-48,49,48
@@ -312,8 +312,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800004,2018-10-17,DET,BKN,33.27,3,2,44,DET,DET,ft_make,11,False,False,Pachulia Free Throw 1 of 2 (5 PTS),,79-70,79,70
 0021800004,2018-10-17,DET,BKN,33.27,3,2,44,DET,DET,ft_make,12,False,False,Pachulia Free Throw 2 of 2 (6 PTS),,80-70,80,70
 0021800004,2018-10-17,DET,BKN,33.55,3,2,27,BKN,BKN,fg_miss,5,True,False,,MISS Dinwiddie 7' Layup,80-70,80,70
-0021800004,2018-10-17,DET,BKN,33.55,3,2,27,BKN,BKN,reb,0,False,False,,Nets Rebound,80-70,80,70
 0021800004,2018-10-17,DET,BKN,33.55,3,2,27,BKN,DET,block,5,True,False,block,block,80-70,80,70
+0021800004,2018-10-17,DET,BKN,33.55,3,2,27,BKN,BKN,reb,0,False,False,,Nets Rebound,80-70,80,70
 0021800004,2018-10-17,DET,BKN,33.63,3,2,22,BKN,BKN,fg_make,5,False,False,,Dinwiddie 5' Layup (11 PTS) (Davis 2 AST),80-72,80,72
 0021800004,2018-10-17,DET,BKN,33.82,3,2,11,DET,DET,fg3_miss,1,False,False,MISS Galloway 28' 3PT Jump Shot,,80-72,80,72
 0021800004,2018-10-17,DET,BKN,33.82,3,2,11,BKN,BKN,reb,0,False,False,,Harris REBOUND (Off:0 Def:4),80-72,80,72
@@ -345,13 +345,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800004,2018-10-17,DET,BKN,36.92,4,11,5,DET,DET,fg3_make,1,False,False,Drummond 28' 3PT Jump Shot (18 PTS) (Brown 1 AST),,86-78,86,78
 0021800004,2018-10-17,DET,BKN,37.17,4,10,50,BKN,BKN,fg_make,6,False,False,,Harris 3' Driving Layup (8 PTS) (Davis 3 AST),86-80,86,80
 0021800004,2018-10-17,DET,BKN,37.35,4,10,39,DET,DET,tov,2,False,True,Robinson III Lost Ball Turnover (P1.T11),,86-80,86,80
-0021800004,2018-10-17,DET,BKN,37.35,4,10,39,BKN,BKN,tov,4,False,False,,Harris Traveling Turnover (P1.T16),86-80,86,80
 0021800004,2018-10-17,DET,BKN,37.35,4,10,39,DET,BKN,steal,2,False,True,steal,steal,86-80,86,80
+0021800004,2018-10-17,DET,BKN,37.35,4,10,39,BKN,BKN,tov,4,False,False,,Harris Traveling Turnover (P1.T16),86-80,86,80
 0021800004,2018-10-17,DET,BKN,37.58,4,10,25,DET,DET,fg3_miss,1,False,False,MISS Brown 24' 3PT Jump Shot,,86-80,86,80
 0021800004,2018-10-17,DET,BKN,37.65,4,10,21,BKN,BKN,reb,0,False,False,,Graham REBOUND (Off:0 Def:1),86-80,86,80
 0021800004,2018-10-17,DET,BKN,37.78,4,10,13,BKN,BKN,fg_miss,5,True,False,,MISS Dudley 3' Layup,86-80,86,80
-0021800004,2018-10-17,DET,BKN,37.78,4,10,13,BKN,BKN,reb,0,False,False,,Nets Rebound,86-80,86,80
 0021800004,2018-10-17,DET,BKN,37.78,4,10,13,BKN,DET,block,5,True,False,block,block,86-80,86,80
+0021800004,2018-10-17,DET,BKN,37.78,4,10,13,BKN,BKN,reb,0,False,False,,Nets Rebound,86-80,86,80
 0021800004,2018-10-17,DET,BKN,37.9,4,10,6,BKN,BKN,fg3_miss,1,False,False,,MISS Dinwiddie 27' 3PT Jump Shot,86-80,86,80
 0021800004,2018-10-17,DET,BKN,37.93,4,10,4,DET,DET,reb,0,False,False,PISTONS Rebound,,86-80,86,80
 0021800004,2018-10-17,DET,BKN,38.2,4,9,48,DET,DET,fg_make,101,False,False,Smith 4' Driving Floating Jump Shot (11 PTS),,88-80,88,80
@@ -420,9 +420,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800004,2018-10-17,DET,BKN,45.98,4,2,1,DET,DET,reb,0,False,False,Drummond REBOUND (Off:9 Def:11),,97-94,97,94
 0021800004,2018-10-17,DET,BKN,46.0,4,2,0,DET,DET,fg_make,5,False,False,Drummond 2' Layup (24 PTS),,99-94,99,94
 0021800004,2018-10-17,DET,BKN,46.27,4,1,44,BKN,BKN,fg_miss,6,True,False,,MISS Dinwiddie 6' Driving Layup,99-94,99,94
-0021800004,2018-10-17,DET,BKN,46.27,4,1,44,BKN,BKN,reb,0,False,False,,Nets Rebound,99-94,99,94
-0021800004,2018-10-17,DET,BKN,46.27,4,1,44,BKN,DET,foul,1,False,False,Smith P.FOUL (P3.T4) (R.Mott),,99-94,99,94
 0021800004,2018-10-17,DET,BKN,46.27,4,1,44,BKN,DET,block,6,True,False,block,block,99-94,99,94
+0021800004,2018-10-17,DET,BKN,46.27,4,1,44,BKN,DET,foul,1,False,False,Smith P.FOUL (P3.T4) (R.Mott),,99-94,99,94
+0021800004,2018-10-17,DET,BKN,46.27,4,1,44,BKN,BKN,reb,0,False,False,,Nets Rebound,99-94,99,94
 0021800004,2018-10-17,DET,BKN,46.35,4,1,39,BKN,BKN,fg_make,6,False,False,,Harris 4' Driving Layup (10 PTS) (LeVert 4 AST),99-96,99,96
 0021800004,2018-10-17,DET,BKN,46.53,4,1,28,DET,DET,fg_make,6,False,False,Jackson 3' Driving Layup (17 PTS),,101-96,101,96
 0021800004,2018-10-17,DET,BKN,46.67,4,1,20,BKN,DET,foul,2,False,False,Smith S.FOUL (P4.PN) (E.Dalen),,101-96,101,96
@@ -431,17 +431,17 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800004,2018-10-17,DET,BKN,46.73,4,1,16,BKN,BKN,reb,0,False,False,,Dudley REBOUND (Off:2 Def:1),101-97,101,97
 0021800004,2018-10-17,DET,BKN,46.77,4,1,14,BKN,BKN,fg3_make,1,False,False,,Harris 28' 3PT Jump Shot (13 PTS) (Dudley 3 AST),101-100,101,100
 0021800004,2018-10-17,DET,BKN,47.13,4,0,52,DET,DET,fg_miss,66,False,False,MISS Jackson 10' Jump Bank Shot,,101-100,101,100
-0021800004,2018-10-17,DET,BKN,47.13,4,0,52,DET,DET,reb,0,False,False,PISTONS Rebound,,101-100,101,100
 0021800004,2018-10-17,DET,BKN,47.13,4,0,52,DET,DET,tov,11,False,False,PISTONS Turnover: Shot Clock (T#16),,101-100,101,100
+0021800004,2018-10-17,DET,BKN,47.13,4,0,52,DET,DET,reb,0,False,False,PISTONS Rebound,,101-100,101,100
 0021800004,2018-10-17,DET,BKN,47.38,4,0,37,BKN,BKN,fg_miss,5,False,False,,MISS Allen 3' Layup,101-100,101,100
 0021800004,2018-10-17,DET,BKN,47.43,4,0,34,DET,DET,reb,0,False,False,Griffin REBOUND (Off:2 Def:5),,101-100,101,100
-0021800004,2018-10-17,DET,BKN,47.73,4,0,16,DET,DET,fg_miss,47,True,False,MISS Griffin 9' Turnaround Jump Shot,,101-100,101,100
-0021800004,2018-10-17,DET,BKN,47.73,4,0,16,DET,DET,reb,0,False,False,PISTONS Rebound,,101-100,101,100
 0021800004,2018-10-17,DET,BKN,47.73,4,0,16,DET,DET,timeout,1,False,False,PISTONS Timeout: Regular (Full 5 Short 0),,101-100,101,100
+0021800004,2018-10-17,DET,BKN,47.73,4,0,16,DET,DET,fg_miss,47,True,False,MISS Griffin 9' Turnaround Jump Shot,,101-100,101,100
 0021800004,2018-10-17,DET,BKN,47.73,4,0,16,DET,BKN,block,47,True,False,block,block,101-100,101,100
+0021800004,2018-10-17,DET,BKN,47.73,4,0,16,DET,DET,reb,0,False,False,PISTONS Rebound,,101-100,101,100
 0021800004,2018-10-17,DET,BKN,47.75,4,0,15,DET,DET,fg3_miss,1,False,False,MISS Drummond 30' 3PT Jump Shot,,101-100,101,100
-0021800004,2018-10-17,DET,BKN,47.75,4,0,15,DET,DET,reb,0,False,False,PISTONS Rebound,,101-100,101,100
 0021800004,2018-10-17,DET,BKN,47.75,4,0,15,DET,DET,tov,11,False,False,PISTONS Turnover: Shot Clock (T#17),,101-100,101,100
+0021800004,2018-10-17,DET,BKN,47.75,4,0,15,DET,DET,reb,0,False,False,PISTONS Rebound,,101-100,101,100
 0021800004,2018-10-17,DET,BKN,47.75,4,0,15,BKN,BKN,timeout,1,False,False,,Nets Timeout: Regular (Reg.6 Short 0),101-100,101,100
 0021800004,2018-10-17,DET,BKN,47.87,4,0,8,BKN,BKN,tov,40,False,False,,LeVert Out of Bounds Lost Ball Turnover (P3.T19),101-100,101,100
 0021800004,2018-10-17,DET,BKN,47.88,4,0,7,DET,DET,timeout,1,False,False,PISTONS Timeout: Regular (Full 6 Short 0),,101-100,101,100

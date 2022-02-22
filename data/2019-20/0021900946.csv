@@ -22,8 +22,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900946,2020-03-08,BKN,CHI,3.27,1,8,44,CHI,CHI,fg3_make,1,False,False,,Markkanen 26' 3PT Jump Shot (6 PTS) (Valentine 3 AST),5-8,5,8
 0021900946,2020-03-08,BKN,CHI,3.53,1,8,28,BKN,BKN,tov,8,False,False,Jordan 3 Second Violation Turnover (P1.T1),,5-8,5,8
 0021900946,2020-03-08,BKN,CHI,3.75,1,8,15,CHI,CHI,tov,1,False,True,,Satoransky Bad Pass Turnover (P1.T1),5-8,5,8
-0021900946,2020-03-08,BKN,CHI,3.75,1,8,15,BKN,CHI,foul,28,False,False,,Satoransky Personal Take Foul (P1.T1) (J.Butler),5-8,5,8
 0021900946,2020-03-08,BKN,CHI,3.75,1,8,15,CHI,BKN,steal,1,False,True,steal,steal,5-8,5,8
+0021900946,2020-03-08,BKN,CHI,3.75,1,8,15,BKN,CHI,foul,28,False,False,,Satoransky Personal Take Foul (P1.T1) (J.Butler),5-8,5,8
 0021900946,2020-03-08,BKN,CHI,3.97,1,8,2,BKN,BKN,fg3_make,1,False,False,Harris 28' 3PT Jump Shot (5 PTS) (Jordan 1 AST),,8-8,8,8
 0021900946,2020-03-08,BKN,CHI,4.17,1,7,50,BKN,CHI,foul,4,False,False,,Carter Jr. OFF.Foul (P1) (J.Butler),8-8,8,8
 0021900946,2020-03-08,BKN,CHI,4.17,1,7,50,CHI,CHI,tov,37,False,False,,Carter Jr. Offensive Foul Turnover (P1.T2),8-8,8,8
@@ -31,8 +31,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900946,2020-03-08,BKN,CHI,4.7,1,7,18,CHI,CHI,fg_miss,58,False,False,,MISS Satoransky 5' Turnaround Hook Shot,11-8,11,8
 0021900946,2020-03-08,BKN,CHI,4.73,1,7,16,BKN,BKN,reb,0,False,False,Jordan REBOUND (Off:0 Def:3),,11-8,11,8
 0021900946,2020-03-08,BKN,CHI,4.82,1,7,11,BKN,BKN,tov,2,False,True,LeVert Lost Ball Turnover (P1.T2),,11-8,11,8
-0021900946,2020-03-08,BKN,CHI,4.82,1,7,11,CHI,BKN,foul,1,False,False,Harris P.FOUL (P1.T1) (G.Petraitis),,11-8,11,8
 0021900946,2020-03-08,BKN,CHI,4.82,1,7,11,BKN,CHI,steal,2,False,True,steal,steal,11-8,11,8
+0021900946,2020-03-08,BKN,CHI,4.82,1,7,11,CHI,BKN,foul,1,False,False,Harris P.FOUL (P1.T1) (G.Petraitis),,11-8,11,8
 0021900946,2020-03-08,BKN,CHI,5.0,1,7,0,CHI,CHI,fg_make,79,False,False,,Valentine 19' Pullup Jump Shot (2 PTS) (Carter Jr. 1 AST),11-10,11,10
 0021900946,2020-03-08,BKN,CHI,5.2,1,6,48,BKN,BKN,fg_make,51,False,False,Jordan 1' Reverse Dunk (2 PTS) (Dinwiddie 1 AST),,13-10,13,10
 0021900946,2020-03-08,BKN,CHI,5.4,1,6,36,CHI,CHI,fg_miss,79,False,False,,MISS Markkanen 5' Pullup Jump Shot,13-10,13,10
@@ -205,9 +205,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900946,2020-03-08,BKN,CHI,23.83,2,0,10,CHI,CHI,fg3_make,1,False,False,,Young 24' 3PT Jump Shot (7 PTS) (White 3 AST),58-50,58,50
 0021900946,2020-03-08,BKN,CHI,23.95,2,0,3,BKN,BKN,fg3_miss,80,False,False,MISS LeVert 26' 3PT Step Back Jump Shot,,58-50,58,50
 0021900946,2020-03-08,BKN,CHI,23.95,2,0,3,CHI,CHI,reb,0,False,False,,Porter Jr. REBOUND (Off:0 Def:1),58-50,58,50
+0021900946,2020-03-08,BKN,CHI,24.0,2,0,0,CHI,,period_end,0,False,False,,,58-50,58,50
 0021900946,2020-03-08,BKN,CHI,24.0,2,0,0,CHI,CHI,fg3_miss,2,False,False,,MISS Porter Jr. 57' 3PT Running Jump Shot,58-50,58,50
 0021900946,2020-03-08,BKN,CHI,24.0,2,0,0,CHI,CHI,reb,0,False,False,,Bulls Rebound,58-50,58,50
-0021900946,2020-03-08,BKN,CHI,24.0,2,0,0,CHI,,period_end,0,False,False,,,58-50,58,50
 0021900946,2020-03-08,BKN,CHI,24.0,3,12,0,CHI,,period_start,0,False,False,,,58-50,58,50
 0021900946,2020-03-08,BKN,CHI,24.35,3,11,39,CHI,CHI,fg_make,101,False,False,,Valentine 6' Driving Floating Jump Shot (6 PTS),58-52,58,52
 0021900946,2020-03-08,BKN,CHI,24.6,3,11,24,BKN,BKN,fg3_miss,1,False,False,MISS Harris 26' 3PT Jump Shot,,58-52,58,52
@@ -221,8 +221,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900946,2020-03-08,BKN,CHI,25.35,3,10,39,CHI,CHI,fg3_miss,1,False,False,,MISS Valentine 3PT Jump Shot,58-53,58,53
 0021900946,2020-03-08,BKN,CHI,25.4,3,10,36,BKN,BKN,reb,0,False,False,Chandler REBOUND (Off:0 Def:3),,58-53,58,53
 0021900946,2020-03-08,BKN,CHI,25.65,3,10,21,BKN,BKN,tov,1,False,True,Harris Bad Pass Turnover (P4.T14),,58-53,58,53
-0021900946,2020-03-08,BKN,CHI,25.65,3,10,21,CHI,BKN,foul,1,False,False,Chandler P.FOUL (P3.T1) (J.Williams),,58-53,58,53
 0021900946,2020-03-08,BKN,CHI,25.65,3,10,21,BKN,CHI,steal,1,False,True,steal,steal,58-53,58,53
+0021900946,2020-03-08,BKN,CHI,25.65,3,10,21,CHI,BKN,foul,1,False,False,Chandler P.FOUL (P3.T1) (J.Williams),,58-53,58,53
 0021900946,2020-03-08,BKN,CHI,25.9,3,10,6,CHI,CHI,fg_make,79,False,False,,Satoransky 11' Pullup Jump Shot (2 PTS) (Markkanen 2 AST),58-55,58,55
 0021900946,2020-03-08,BKN,CHI,26.1,3,9,54,BKN,BKN,fg_make,9,False,False,Dinwiddie 1' Driving Dunk (14 PTS),,60-55,60,55
 0021900946,2020-03-08,BKN,CHI,26.42,3,9,35,CHI,CHI,fg3_miss,1,False,False,,MISS Markkanen 28' 3PT Jump Shot,60-55,60,55
@@ -251,9 +251,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900946,2020-03-08,BKN,CHI,29.02,3,6,59,CHI,CHI,ft_miss,12,False,False,,MISS Valentine Free Throw 2 of 2,68-57,68,57
 0021900946,2020-03-08,BKN,CHI,29.07,3,6,56,BKN,BKN,reb,0,False,False,Chandler REBOUND (Off:0 Def:4),,68-57,68,57
 0021900946,2020-03-08,BKN,CHI,29.42,3,6,35,BKN,BKN,fg_miss,6,True,False,MISS Chandler 6' Driving Layup,,68-57,68,57
+0021900946,2020-03-08,BKN,CHI,29.42,3,6,35,BKN,CHI,block,6,True,False,block,block,68-57,68,57
 0021900946,2020-03-08,BKN,CHI,29.42,3,6,35,BKN,BKN,reb,0,False,False,NETS Rebound,,68-57,68,57
 0021900946,2020-03-08,BKN,CHI,29.42,3,6,35,BKN,BKN,tov,11,False,False,NETS Turnover: Shot Clock (T#15),,68-57,68,57
-0021900946,2020-03-08,BKN,CHI,29.42,3,6,35,BKN,CHI,block,6,True,False,block,block,68-57,68,57
 0021900946,2020-03-08,BKN,CHI,29.6,3,6,24,CHI,CHI,tov,4,False,False,,Satoransky Traveling Turnover (P2.T4),68-57,68,57
 0021900946,2020-03-08,BKN,CHI,29.83,3,6,10,BKN,BKN,fg_make,6,False,False,Harris 1' Driving Layup (17 PTS) (Dinwiddie 5 AST),,70-57,70,57
 0021900946,2020-03-08,BKN,CHI,29.98,3,6,1,CHI,CHI,fg_make,108,False,False,,Gafford 1' Cutting Dunk Shot (4 PTS) (White 4 AST),70-59,70,59
@@ -459,6 +459,6 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900946,2020-03-08,BKN,CHI,48.0,4,0,0,BKN,CHI,foul,1,False,False,,Harrison P.FOUL (P6.PN) (J.Butler),108-107,108,107
 0021900946,2020-03-08,BKN,CHI,48.0,4,0,0,BKN,BKN,ft_make,11,False,False,Dinwiddie Free Throw 1 of 2 (23 PTS),,109-107,109,107
 0021900946,2020-03-08,BKN,CHI,48.0,4,0,0,BKN,BKN,ft_make,12,False,False,Dinwiddie Free Throw 2 of 2 (24 PTS),,110-107,110,107
-0021900946,2020-03-08,BKN,CHI,48.0,4,0,0,CHI,CHI,tov,1,False,True,,Young Bad Pass Turnover (P2.T7),110-107,110,107
 0021900946,2020-03-08,BKN,CHI,48.0,4,0,0,CHI,,period_end,0,False,False,,,110-107,110,107
+0021900946,2020-03-08,BKN,CHI,48.0,4,0,0,CHI,CHI,tov,1,False,True,,Young Bad Pass Turnover (P2.T7),110-107,110,107
 0021900946,2020-03-08,BKN,CHI,48.0,4,0,0,CHI,BKN,steal,1,False,True,steal,steal,110-107,110,107

@@ -13,8 +13,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701110,2018-03-27,MIA,CLE,1.37,1,10,38,MIA,MIA,ft_miss,12,False,False,MISS Mickey Free Throw 2 of 2,,3-2,3,2
 0021701110,2018-03-27,MIA,CLE,1.43,1,10,34,CLE,CLE,reb,0,False,False,,Green REBOUND (Off:0 Def:1),3-2,3,2
 0021701110,2018-03-27,MIA,CLE,1.72,1,10,17,CLE,CLE,fg_miss,6,True,False,,MISS James 1' Driving Layup,3-2,3,2
-0021701110,2018-03-27,MIA,CLE,1.72,1,10,17,MIA,MIA,reb,0,False,False,HEAT Rebound,,3-2,3,2
 0021701110,2018-03-27,MIA,CLE,1.72,1,10,17,CLE,MIA,block,6,True,False,block,block,3-2,3,2
+0021701110,2018-03-27,MIA,CLE,1.72,1,10,17,MIA,MIA,reb,0,False,False,HEAT Rebound,,3-2,3,2
 0021701110,2018-03-27,MIA,CLE,1.87,1,10,8,MIA,MIA,tov,1,False,True,Dragic Bad Pass Turnover (P1.T1),,3-2,3,2
 0021701110,2018-03-27,MIA,CLE,1.87,1,10,8,MIA,CLE,steal,1,False,True,steal,steal,3-2,3,2
 0021701110,2018-03-27,MIA,CLE,1.98,1,10,1,CLE,MIA,foul,2,False,False,Richardson S.FOUL (P1.T1) (K.Lane),,3-2,3,2
@@ -31,8 +31,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701110,2018-03-27,MIA,CLE,3.57,1,8,26,MIA,MIA,fg_make,98,False,False,Johnson 2' Cutting Layup Shot (6 PTS) (Dragic 1 AST),,12-8,12,8
 0021701110,2018-03-27,MIA,CLE,3.57,1,8,26,CLE,CLE,timeout,1,False,False,,Cavaliers Timeout: Regular (Reg.1 Short 0),12-8,12,8
 0021701110,2018-03-27,MIA,CLE,3.92,1,8,5,CLE,CLE,fg_miss,1,True,False,,MISS Green 8' Jump Shot,12-8,12,8
-0021701110,2018-03-27,MIA,CLE,3.92,1,8,5,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,12-8,12,8
 0021701110,2018-03-27,MIA,CLE,3.92,1,8,5,CLE,MIA,block,1,True,False,block,block,12-8,12,8
+0021701110,2018-03-27,MIA,CLE,3.92,1,8,5,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,12-8,12,8
 0021701110,2018-03-27,MIA,CLE,4.0,1,8,0,CLE,CLE,fg_make,1,False,False,,Calderon 15' Jump Shot (4 PTS) (Nance Jr. 1 AST),12-10,12,10
 0021701110,2018-03-27,MIA,CLE,4.18,1,7,49,MIA,CLE,foul,1,False,False,,G. Hill P.FOUL (P1.T2) (M.Callahan),12-10,12,10
 0021701110,2018-03-27,MIA,CLE,4.43,1,7,34,MIA,MIA,tov,11,False,False,HEAT Turnover: Shot Clock (T#2),,12-10,12,10
@@ -46,8 +46,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701110,2018-03-27,MIA,CLE,5.55,1,6,27,MIA,MIA,tov,1,False,True,Richardson Bad Pass Turnover (P1.T3),,12-10,12,10
 0021701110,2018-03-27,MIA,CLE,5.55,1,6,27,MIA,CLE,steal,1,False,True,steal,steal,12-10,12,10
 0021701110,2018-03-27,MIA,CLE,5.62,1,6,23,CLE,CLE,fg_miss,6,True,False,,MISS Calderon 1' Driving Layup,12-10,12,10
-0021701110,2018-03-27,MIA,CLE,5.62,1,6,23,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,12-10,12,10
 0021701110,2018-03-27,MIA,CLE,5.62,1,6,23,CLE,MIA,block,6,True,False,block,block,12-10,12,10
+0021701110,2018-03-27,MIA,CLE,5.62,1,6,23,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,12-10,12,10
 0021701110,2018-03-27,MIA,CLE,5.78,1,6,13,CLE,CLE,fg3_miss,1,False,False,,MISS G. Hill 25' 3PT Jump Shot,12-10,12,10
 0021701110,2018-03-27,MIA,CLE,5.83,1,6,10,MIA,MIA,reb,0,False,False,Winslow REBOUND (Off:0 Def:1),,12-10,12,10
 0021701110,2018-03-27,MIA,CLE,5.97,1,6,2,,MIA,jump_ball,0,False,False,Jump Ball Winslow vs. Nance Jr.: Tip to Dragic,,12-10,12,10
@@ -77,8 +77,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701110,2018-03-27,MIA,CLE,8.48,1,3,31,CLE,CLE,tov,2,False,True,,James Lost Ball Turnover (P2.T5),17-12,17,12
 0021701110,2018-03-27,MIA,CLE,8.48,1,3,31,CLE,MIA,steal,2,False,True,steal,steal,17-12,17,12
 0021701110,2018-03-27,MIA,CLE,8.6,1,3,24,MIA,MIA,fg_miss,6,True,False,MISS Winslow 2' Driving Layup,,17-12,17,12
-0021701110,2018-03-27,MIA,CLE,8.6,1,3,24,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,17-12,17,12
 0021701110,2018-03-27,MIA,CLE,8.6,1,3,24,MIA,CLE,block,6,True,False,block,block,17-12,17,12
+0021701110,2018-03-27,MIA,CLE,8.6,1,3,24,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,17-12,17,12
 0021701110,2018-03-27,MIA,CLE,9.0,1,3,0,CLE,CLE,fg_miss,86,False,False,,MISS Smith 11' Turnaround Fadeaway Shot,17-12,17,12
 0021701110,2018-03-27,MIA,CLE,9.02,1,2,59,MIA,MIA,reb,0,False,False,Olynyk REBOUND (Off:0 Def:1),,17-12,17,12
 0021701110,2018-03-27,MIA,CLE,9.1,1,2,54,MIA,CLE,foul,2,False,False,,Hood S.FOUL (P1.T4) (K.Lane),17-12,17,12

@@ -142,8 +142,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000814,2021-04-11,POR,MIA,17.13,2,6,52,POR,POR,reb,1,False,False,TRAIL BLAZERS Rebound,,37-38,37,38
 0022000814,2021-04-11,POR,MIA,17.13,2,6,52,POR,POR,ft_make,12,False,False,Covington Free Throw 2 of 2 (7 PTS),,38-38,38,38
 0022000814,2021-04-11,POR,MIA,17.38,2,6,37,MIA,MIA,fg_miss,6,True,False,,MISS Herro 3' Driving Layup,38-38,38,38
-0022000814,2021-04-11,POR,MIA,17.38,2,6,37,MIA,MIA,reb,0,False,False,,Heat Rebound,38-38,38,38
 0022000814,2021-04-11,POR,MIA,17.38,2,6,37,MIA,POR,block,6,True,False,block,block,38-38,38,38
+0022000814,2021-04-11,POR,MIA,17.38,2,6,37,MIA,MIA,reb,0,False,False,,Heat Rebound,38-38,38,38
 0022000814,2021-04-11,POR,MIA,17.5,2,6,30,MIA,MIA,fg3_make,1,False,False,,Robinson 3PT Jump Shot (6 PTS) (Iguodala 1 AST),38-41,38,41
 0022000814,2021-04-11,POR,MIA,17.77,2,6,14,POR,POR,fg3_make,79,False,False,Powell 3PT Pullup Jump Shot (7 PTS) (Nurkic 2 AST),,41-41,41,41
 0022000814,2021-04-11,POR,MIA,18.05,2,5,57,MIA,MIA,fg_miss,79,False,False,,MISS Nunn 17' Pullup Jump Shot,41-41,41,41
@@ -300,8 +300,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000814,2021-04-11,POR,MIA,36.2,4,11,48,POR,POR,fg_miss,73,False,False,MISS Lillard 2' Driving Reverse Layup,,71-89,71,89
 0022000814,2021-04-11,POR,MIA,36.23,4,11,46,POR,POR,reb,0,False,False,Powell REBOUND (Off:1 Def:2),,71-89,71,89
 0022000814,2021-04-11,POR,MIA,36.27,4,11,44,POR,POR,fg_miss,5,True,False,MISS Powell 3' Layup,,71-89,71,89
-0022000814,2021-04-11,POR,MIA,36.27,4,11,44,MIA,MIA,reb,0,False,False,,Dragic REBOUND (Off:0 Def:2),71-89,71,89
 0022000814,2021-04-11,POR,MIA,36.27,4,11,44,POR,MIA,block,5,True,False,block,block,71-89,71,89
+0022000814,2021-04-11,POR,MIA,36.27,4,11,44,MIA,MIA,reb,0,False,False,,Dragic REBOUND (Off:0 Def:2),71-89,71,89
 0022000814,2021-04-11,POR,MIA,36.53,4,11,28,MIA,MIA,fg3_miss,1,False,False,,MISS Iguodala 27' 3PT Jump Shot,71-89,71,89
 0022000814,2021-04-11,POR,MIA,36.6,4,11,24,POR,POR,reb,0,False,False,Covington REBOUND (Off:0 Def:4),,71-89,71,89
 0022000814,2021-04-11,POR,MIA,36.78,4,11,13,POR,POR,fg3_miss,1,False,False,MISS McCollum 25' 3PT Jump Shot,,71-89,71,89
@@ -328,8 +328,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000814,2021-04-11,POR,MIA,39.97,4,8,2,MIA,MIA,fg3_miss,80,False,False,,MISS Butler 24' 3PT Step Back Jump Shot,75-93,75,93
 0022000814,2021-04-11,POR,MIA,40.0,4,8,0,POR,POR,reb,0,False,False,Kanter REBOUND (Off:3 Def:5),,75-93,75,93
 0022000814,2021-04-11,POR,MIA,40.1,4,7,54,POR,POR,fg_miss,6,True,False,MISS Lillard 3' Driving Layup,,75-93,75,93
-0022000814,2021-04-11,POR,MIA,40.1,4,7,54,MIA,MIA,reb,0,False,False,,Heat Rebound,75-93,75,93
 0022000814,2021-04-11,POR,MIA,40.1,4,7,54,POR,MIA,block,6,True,False,block,block,75-93,75,93
+0022000814,2021-04-11,POR,MIA,40.1,4,7,54,MIA,MIA,reb,0,False,False,,Heat Rebound,75-93,75,93
 0022000814,2021-04-11,POR,MIA,40.12,4,7,53,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.3 Short 0),75-93,75,93
 0022000814,2021-04-11,POR,MIA,40.18,4,7,49,,POR,jump_ball,1,False,False,Jump Ball (CC) Kanter vs. Achiuwa: Tip to Dragic,,75-93,75,93
 0022000814,2021-04-11,POR,MIA,40.55,4,7,27,MIA,MIA,fg3_miss,1,False,False,,MISS Dragic 27' 3PT Jump Shot,75-93,75,93
@@ -399,6 +399,6 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000814,2021-04-11,POR,MIA,47.73,4,0,16,MIA,MIA,fg3_miss,1,False,False,,MISS Herro 25' 3PT Jump Shot,98-107,98,107
 0022000814,2021-04-11,POR,MIA,47.77,4,0,14,POR,POR,reb,0,False,False,Simons REBOUND (Off:0 Def:2),,98-107,98,107
 0022000814,2021-04-11,POR,MIA,47.88,4,0,7,POR,POR,fg_miss,101,True,False,MISS Simons 3' Driving Floating Jump Shot,,98-107,98,107
-0022000814,2021-04-11,POR,MIA,47.88,4,0,7,MIA,MIA,reb,0,False,False,,Heat Rebound,98-107,98,107
 0022000814,2021-04-11,POR,MIA,47.88,4,0,7,POR,MIA,block,101,True,False,block,block,98-107,98,107
+0022000814,2021-04-11,POR,MIA,47.88,4,0,7,MIA,MIA,reb,0,False,False,,Heat Rebound,98-107,98,107
 0022000814,2021-04-11,POR,MIA,48.0,4,0,0,MIA,,period_end,0,False,False,,,98-107,98,107

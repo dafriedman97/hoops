@@ -54,8 +54,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700240,2017-11-19,LAL,DEN,5.67,1,6,20,DEN,DEN,ft_make,11,False,False,,Jokic Free Throw 1 of 2 (3 PTS),14-14,14,14
 0021700240,2017-11-19,LAL,DEN,5.67,1,6,20,DEN,DEN,ft_make,12,False,False,,Jokic Free Throw 2 of 2 (4 PTS),14-15,14,15
 0021700240,2017-11-19,LAL,DEN,5.68,1,6,19,DEN,DEN,fg_miss,5,True,False,,MISS Jokic 5' Layup,14-15,14,15
-0021700240,2017-11-19,LAL,DEN,5.68,1,6,19,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:2 Def:1),14-15,14,15
 0021700240,2017-11-19,LAL,DEN,5.68,1,6,19,DEN,LAL,block,5,True,False,block,block,14-15,14,15
+0021700240,2017-11-19,LAL,DEN,5.68,1,6,19,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:2 Def:1),14-15,14,15
 0021700240,2017-11-19,LAL,DEN,5.92,1,6,5,LAL,LAL,fg_make,1,False,False,Randle 4' Jump Shot (2 PTS) (Lopez 2 AST),,16-15,16,15
 0021700240,2017-11-19,LAL,DEN,5.92,1,6,5,LAL,DEN,foul,2,False,False,,Jokic S.FOUL (P2.T2) (R.Mott),16-15,16,15
 0021700240,2017-11-19,LAL,DEN,5.92,1,6,5,LAL,LAL,ft_make,10,False,False,Randle Free Throw 1 of 1 (3 PTS),,17-15,17,15
@@ -157,8 +157,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700240,2017-11-19,LAL,DEN,15.65,2,8,21,DEN,LAL,steal,2,False,True,steal,steal,44-30,44,30
 0021700240,2017-11-19,LAL,DEN,15.72,2,8,17,LAL,LAL,fg_make,41,False,False,Ball 2' Running Layup (2 PTS),,46-30,46,30
 0021700240,2017-11-19,LAL,DEN,15.97,2,8,2,DEN,DEN,tov,1,False,True,,Chandler Bad Pass Turnover (P2.T11),46-30,46,30
-0021700240,2017-11-19,LAL,DEN,15.97,2,8,2,LAL,DEN,foul,1,False,False,,Millsap P.FOUL (P1.T2) (M.Ervin),46-30,46,30
 0021700240,2017-11-19,LAL,DEN,15.97,2,8,2,DEN,LAL,steal,1,False,True,steal,steal,46-30,46,30
+0021700240,2017-11-19,LAL,DEN,15.97,2,8,2,LAL,DEN,foul,1,False,False,,Millsap P.FOUL (P1.T2) (M.Ervin),46-30,46,30
 0021700240,2017-11-19,LAL,DEN,16.1,2,7,54,LAL,LAL,tov,1,False,True,Ball Bad Pass Turnover (P1.T4),,46-30,46,30
 0021700240,2017-11-19,LAL,DEN,16.1,2,7,54,LAL,DEN,steal,1,False,True,steal,steal,46-30,46,30
 0021700240,2017-11-19,LAL,DEN,16.18,2,7,49,DEN,DEN,fg3_miss,1,False,False,,MISS Millsap 26' 3PT Jump Shot,46-30,46,30
@@ -179,13 +179,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700240,2017-11-19,LAL,DEN,17.67,2,6,20,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:4 Def:2),50-32,50,32
 0021700240,2017-11-19,LAL,DEN,17.67,2,6,20,DEN,DEN,fg_miss,97,False,False,,MISS Jokic 1' Tip Layup Shot,50-32,50,32
 0021700240,2017-11-19,LAL,DEN,17.67,2,6,20,LAL,LAL,reb,0,False,False,Randle REBOUND (Off:0 Def:3),,50-32,50,32
-0021700240,2017-11-19,LAL,DEN,17.67,2,6,20,LAL,,foul,11,False,False,,,50-32,50,32
 0021700240,2017-11-19,LAL,DEN,17.67,2,6,20,LAL,DEN,foul,11,False,False,,Jokic T.FOUL (P2.T3) (R.Mott),50-32,50,32
 0021700240,2017-11-19,LAL,DEN,17.67,2,6,20,LAL,LAL,ft_make,16,False,False,Clarkson Free Throw Technical (9 PTS),,51-32,51,32
 0021700240,2017-11-19,LAL,DEN,17.67,2,6,20,LAL,LAL,ft_make,16,False,False,Clarkson Free Throw Technical (10 PTS),,52-32,52,32
 0021700240,2017-11-19,LAL,DEN,17.67,2,6,20,LAL,,ejection,4,False,False,,,52-32,52,32
 0021700240,2017-11-19,LAL,DEN,17.67,2,6,20,LAL,DEN,ejection,4,False,False,,Jokic Ejection:Other,52-32,52,32
 0021700240,2017-11-19,LAL,DEN,17.67,2,6,20,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 2 Short 0),,52-32,52,32
+0021700240,2017-11-19,LAL,DEN,17.67,2,6,20,LAL,,foul,11,False,False,,,50-32,50,32
 0021700240,2017-11-19,LAL,DEN,17.75,2,6,15,LAL,DEN,foul,1,False,False,,Murray P.FOUL (P1.T4) (M.Ervin),52-32,52,32
 0021700240,2017-11-19,LAL,DEN,17.75,2,6,15,LAL,DEN,foul,11,False,False,,Murray T.FOUL (P1.T4) (R.Mott),52-32,52,32
 0021700240,2017-11-19,LAL,DEN,17.75,2,6,15,LAL,LAL,ft_miss,16,False,False,MISS Kuzma Free Throw Technical,,52-32,52,32
@@ -211,11 +211,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700240,2017-11-19,LAL,DEN,20.33,2,3,40,LAL,LAL,fg_make,6,False,False,Lopez 3' Driving Layup (14 PTS) (Kuzma 2 AST),,61-39,61,39
 0021700240,2017-11-19,LAL,DEN,20.45,2,3,33,DEN,DEN,tov,45,False,False,,Harris Out of Bounds - Bad Pass Turnover Turnover (P2.T12),61-39,61,39
 0021700240,2017-11-19,LAL,DEN,20.65,2,3,21,LAL,LAL,tov,1,False,True,Clarkson Bad Pass Turnover (P1.T7),,61-39,61,39
+0021700240,2017-11-19,LAL,DEN,20.65,2,3,21,LAL,DEN,steal,1,False,True,steal,steal,61-39,61,39
 0021700240,2017-11-19,LAL,DEN,20.65,2,3,21,DEN,LAL,foul,28,False,False,Lopez Personal Take Foul (P2.PN) (K.Lane),,61-39,61,39
 0021700240,2017-11-19,LAL,DEN,20.65,2,3,21,DEN,DEN,ft_miss,11,False,False,,MISS Plumlee Free Throw 1 of 2,61-39,61,39
 0021700240,2017-11-19,LAL,DEN,20.65,2,3,21,DEN,DEN,reb,1,False,False,,Nuggets Rebound,61-39,61,39
 0021700240,2017-11-19,LAL,DEN,20.65,2,3,21,DEN,DEN,ft_miss,12,False,False,,MISS Plumlee Free Throw 2 of 2,61-39,61,39
-0021700240,2017-11-19,LAL,DEN,20.65,2,3,21,LAL,DEN,steal,1,False,True,steal,steal,61-39,61,39
 0021700240,2017-11-19,LAL,DEN,20.72,2,3,17,DEN,DEN,reb,0,False,False,,Plumlee REBOUND (Off:2 Def:0),61-39,61,39
 0021700240,2017-11-19,LAL,DEN,20.78,2,3,13,DEN,DEN,fg3_make,1,False,False,,Harris 25' 3PT Jump Shot (12 PTS) (Plumlee 1 AST),61-42,61,42
 0021700240,2017-11-19,LAL,DEN,20.78,2,3,13,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 3 Short 0),,61-42,61,42
@@ -228,8 +228,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700240,2017-11-19,LAL,DEN,21.55,2,2,27,DEN,DEN,fg_miss,47,False,False,,MISS Chandler 21' Turnaround Jump Shot,63-42,63,42
 0021700240,2017-11-19,LAL,DEN,21.6,2,2,24,LAL,LAL,reb,0,False,False,Randle REBOUND (Off:0 Def:4),,63-42,63,42
 0021700240,2017-11-19,LAL,DEN,21.6,2,2,24,LAL,LAL,fg_miss,41,True,False,MISS Randle 3' Running Layup,,63-42,63,42
-0021700240,2017-11-19,LAL,DEN,21.6,2,2,24,LAL,LAL,reb,0,False,False,LAKERS Rebound,,63-42,63,42
 0021700240,2017-11-19,LAL,DEN,21.6,2,2,24,LAL,DEN,block,41,True,False,block,block,63-42,63,42
+0021700240,2017-11-19,LAL,DEN,21.6,2,2,24,LAL,LAL,reb,0,False,False,LAKERS Rebound,,63-42,63,42
 0021700240,2017-11-19,LAL,DEN,21.78,2,2,13,LAL,LAL,fg3_make,1,False,False,Ball 25' 3PT Jump Shot (7 PTS) (Randle 2 AST),,66-42,66,42
 0021700240,2017-11-19,LAL,DEN,22.0,2,2,0,DEN,DEN,fg_miss,1,False,False,,MISS Harris 16' Jump Shot,66-42,66,42
 0021700240,2017-11-19,LAL,DEN,22.07,2,1,56,LAL,LAL,reb,0,False,False,Randle REBOUND (Off:0 Def:5),,66-42,66,42
@@ -239,8 +239,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700240,2017-11-19,LAL,DEN,22.83,2,1,10,LAL,LAL,fg_miss,79,False,False,MISS Ingram 19' Pullup Jump Shot,,66-44,66,44
 0021700240,2017-11-19,LAL,DEN,22.9,2,1,6,LAL,LAL,reb,0,False,False,Hart REBOUND (Off:1 Def:0),,66-44,66,44
 0021700240,2017-11-19,LAL,DEN,22.9,2,1,6,LAL,LAL,fg_miss,5,True,False,MISS Ingram 2' Layup,,66-44,66,44
-0021700240,2017-11-19,LAL,DEN,22.9,2,1,6,LAL,LAL,reb,0,False,False,LAKERS Rebound,,66-44,66,44
 0021700240,2017-11-19,LAL,DEN,22.9,2,1,6,LAL,DEN,block,5,True,False,block,block,66-44,66,44
+0021700240,2017-11-19,LAL,DEN,22.9,2,1,6,LAL,LAL,reb,0,False,False,LAKERS Rebound,,66-44,66,44
 0021700240,2017-11-19,LAL,DEN,22.98,2,1,1,LAL,LAL,fg3_miss,1,False,False,MISS Caldwell-Pope 24' 3PT Jump Shot,,66-44,66,44
 0021700240,2017-11-19,LAL,DEN,23.05,2,0,57,DEN,DEN,reb,0,False,False,,Plumlee REBOUND (Off:2 Def:1),66-44,66,44
 0021700240,2017-11-19,LAL,DEN,23.13,2,0,52,DEN,DEN,fg_miss,41,True,False,,MISS Mudiay 3' Running Layup,66-44,66,44
@@ -315,8 +315,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700240,2017-11-19,LAL,DEN,30.93,3,5,4,DEN,DEN,fg3_miss,1,False,False,,MISS Barton 27' 3PT Jump Shot,88-69,88,69
 0021700240,2017-11-19,LAL,DEN,31.0,3,5,0,LAL,LAL,reb,0,False,False,Ball REBOUND (Off:3 Def:7),,88-69,88,69
 0021700240,2017-11-19,LAL,DEN,31.12,3,4,53,LAL,LAL,fg_miss,1,True,False,MISS Lopez 4' Jump Shot,,88-69,88,69
-0021700240,2017-11-19,LAL,DEN,31.12,3,4,53,LAL,LAL,reb,0,False,False,LAKERS Rebound,,88-69,88,69
 0021700240,2017-11-19,LAL,DEN,31.12,3,4,53,LAL,DEN,block,1,True,False,block,block,88-69,88,69
+0021700240,2017-11-19,LAL,DEN,31.12,3,4,53,LAL,LAL,reb,0,False,False,LAKERS Rebound,,88-69,88,69
 0021700240,2017-11-19,LAL,DEN,31.25,3,4,45,LAL,LAL,fg3_miss,1,False,False,MISS Ingram 3PT Jump Shot,,88-69,88,69
 0021700240,2017-11-19,LAL,DEN,31.3,3,4,42,DEN,DEN,reb,0,False,False,,Chandler REBOUND (Off:0 Def:4),88-69,88,69
 0021700240,2017-11-19,LAL,DEN,31.52,3,4,29,DEN,DEN,fg_miss,1,True,False,,MISS Mudiay 6' Jump Shot,88-69,88,69

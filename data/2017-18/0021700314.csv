@@ -56,8 +56,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700314,2017-11-30,BOS,PHI,6.98,1,5,1,BOS,BOS,ft_make,10,False,False,Irving Free Throw 1 of 1 (8 PTS),,15-14,15,14
 0021700314,2017-11-30,BOS,PHI,7.15,1,4,51,BOS,PHI,foul,26,False,False,,Holmes Offensive Charge Foul (P2.T4) (M.Ayotte),15-14,15,14
 0021700314,2017-11-30,BOS,PHI,7.15,1,4,51,PHI,PHI,tov,37,False,False,,Holmes Offensive Foul Turnover (P1.T2),15-14,15,14
-0021700314,2017-11-30,BOS,PHI,7.15,1,4,51,BOS,PHI,foul,11,False,False,,Holmes T.FOUL (P2.T4) (R.Garretson),15-14,15,14
 0021700314,2017-11-30,BOS,PHI,7.15,1,4,51,BOS,BOS,ft_make,16,False,False,Irving Free Throw Technical (9 PTS),,16-14,16,14
+0021700314,2017-11-30,BOS,PHI,7.15,1,4,51,BOS,PHI,foul,11,False,False,,Holmes T.FOUL (P2.T4) (R.Garretson),15-14,15,14
 0021700314,2017-11-30,BOS,PHI,7.4,1,4,36,BOS,BOS,fg_make,1,False,False,Horford 22' Jump Shot (7 PTS) (Smart 1 AST),,18-14,18,14
 0021700314,2017-11-30,BOS,PHI,7.62,1,4,23,PHI,BOS,foul,2,False,False,Brown S.FOUL (P2.T2) (M.Ayotte),,18-14,18,14
 0021700314,2017-11-30,BOS,PHI,7.62,1,4,23,PHI,PHI,ft_make,11,False,False,,Johnson Free Throw 1 of 2 (3 PTS),18-15,18,15
@@ -66,8 +66,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700314,2017-11-30,BOS,PHI,7.9,1,4,6,BOS,BOS,fg_miss,98,False,False,MISS Brown 4' Cutting Layup Shot,,18-15,18,15
 0021700314,2017-11-30,BOS,PHI,7.92,1,4,5,BOS,BOS,reb,0,False,False,Brown REBOUND (Off:1 Def:0),,18-15,18,15
 0021700314,2017-11-30,BOS,PHI,7.93,1,4,4,BOS,BOS,fg_miss,72,True,False,MISS Brown 2' Putback Layup,,18-15,18,15
-0021700314,2017-11-30,BOS,PHI,7.93,1,4,4,BOS,BOS,reb,0,False,False,CELTICS Rebound,,18-15,18,15
 0021700314,2017-11-30,BOS,PHI,7.93,1,4,4,BOS,PHI,block,72,True,False,block,block,18-15,18,15
+0021700314,2017-11-30,BOS,PHI,7.93,1,4,4,BOS,BOS,reb,0,False,False,CELTICS Rebound,,18-15,18,15
 0021700314,2017-11-30,BOS,PHI,8.02,1,3,59,BOS,BOS,fg3_make,1,False,False,Smart 27' 3PT Jump Shot (3 PTS) (Horford 2 AST),,21-15,21,15
 0021700314,2017-11-30,BOS,PHI,8.37,1,3,38,PHI,PHI,fg_miss,57,False,False,,MISS Johnson 7' Driving Hook Shot,21-15,21,15
 0021700314,2017-11-30,BOS,PHI,8.4,1,3,36,PHI,PHI,reb,0,False,False,,Johnson REBOUND (Off:2 Def:1),21-15,21,15
@@ -129,8 +129,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700314,2017-11-30,BOS,PHI,14.38,2,9,37,BOS,BOS,tov,37,False,False,Theis Offensive Foul Turnover (P1.T10),,30-24,30,24
 0021700314,2017-11-30,BOS,PHI,14.48,2,9,31,PHI,BOS,foul,1,False,False,Morris Sr. P.FOUL (P1.T1) (M.Ayotte),,30-24,30,24
 0021700314,2017-11-30,BOS,PHI,14.65,2,9,21,PHI,PHI,fg_miss,6,True,False,,MISS Bayless 4' Driving Layup,30-24,30,24
-0021700314,2017-11-30,BOS,PHI,14.65,2,9,21,PHI,PHI,reb,0,False,False,,76ers Rebound,30-24,30,24
 0021700314,2017-11-30,BOS,PHI,14.65,2,9,21,PHI,BOS,block,6,True,False,block,block,30-24,30,24
+0021700314,2017-11-30,BOS,PHI,14.65,2,9,21,PHI,PHI,reb,0,False,False,,76ers Rebound,30-24,30,24
 0021700314,2017-11-30,BOS,PHI,14.77,2,9,14,PHI,PHI,fg_make,108,False,False,,Holmes 1' Cutting Dunk Shot (2 PTS) (Simmons 3 AST),30-26,30,26
 0021700314,2017-11-30,BOS,PHI,15.02,2,8,59,BOS,BOS,fg_make,6,False,False,Morris Sr. 2' Driving Layup (4 PTS) (Rozier 2 AST),,32-26,32,26
 0021700314,2017-11-30,BOS,PHI,15.17,2,8,50,PHI,PHI,fg_miss,6,True,False,,MISS Saric 4' Driving Layup,32-26,32,26
@@ -149,10 +149,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700314,2017-11-30,BOS,PHI,16.83,2,7,10,BOS,BOS,fg_miss,79,False,False,MISS Rozier 11' Pullup Jump Shot,,34-30,34,30
 0021700314,2017-11-30,BOS,PHI,16.9,2,7,6,PHI,PHI,reb,0,False,False,,Luwawu-Cabarrot REBOUND (Off:0 Def:1),34-30,34,30
 0021700314,2017-11-30,BOS,PHI,16.93,2,7,4,PHI,PHI,tov,2,False,True,,Simmons Lost Ball Turnover (P2.T7),34-30,34,30
+0021700314,2017-11-30,BOS,PHI,16.93,2,7,4,PHI,BOS,steal,2,False,True,steal,steal,34-30,34,30
 0021700314,2017-11-30,BOS,PHI,16.93,2,7,4,BOS,PHI,foul,2,False,False,,Luwawu-Cabarrot S.FOUL (P1.T2) (M.Ayotte),34-30,34,30
 0021700314,2017-11-30,BOS,PHI,16.93,2,7,4,BOS,BOS,ft_miss,11,False,False,MISS Tatum Free Throw 1 of 2,,34-30,34,30
 0021700314,2017-11-30,BOS,PHI,16.93,2,7,4,BOS,BOS,reb,1,False,False,CELTICS Rebound,,34-30,34,30
-0021700314,2017-11-30,BOS,PHI,16.93,2,7,4,PHI,BOS,steal,2,False,True,steal,steal,34-30,34,30
 0021700314,2017-11-30,BOS,PHI,16.93,2,7,4,BOS,BOS,ft_make,12,False,False,Tatum Free Throw 2 of 2 (1 PTS),,35-30,35,30
 0021700314,2017-11-30,BOS,PHI,17.12,2,6,53,PHI,PHI,fg_make,98,False,False,,Saric 2' Cutting Layup Shot (9 PTS) (Simmons 4 AST),35-32,35,32
 0021700314,2017-11-30,BOS,PHI,17.3,2,6,42,BOS,BOS,fg3_miss,1,False,False,MISS Morris Sr. 27' 3PT Jump Shot,,35-32,35,32
@@ -218,8 +218,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700314,2017-11-30,BOS,PHI,23.47,2,0,32,PHI,PHI,fg3_make,1,False,False,,Holmes 25' 3PT Jump Shot (5 PTS) (Bayless 3 AST),51-44,51,44
 0021700314,2017-11-30,BOS,PHI,23.78,2,0,13,BOS,BOS,fg3_make,1,False,False,Tatum 28' 3PT Jump Shot (6 PTS) (Smart 3 AST),,54-44,54,44
 0021700314,2017-11-30,BOS,PHI,23.98,2,0,1,PHI,PHI,fg_miss,6,True,False,,MISS Bayless 1' Driving Layup,54-44,54,44
-0021700314,2017-11-30,BOS,PHI,23.98,2,0,1,BOS,BOS,reb,0,False,False,Morris Sr. REBOUND (Off:0 Def:4),,54-44,54,44
 0021700314,2017-11-30,BOS,PHI,23.98,2,0,1,PHI,BOS,block,6,True,False,block,block,54-44,54,44
+0021700314,2017-11-30,BOS,PHI,23.98,2,0,1,BOS,BOS,reb,0,False,False,Morris Sr. REBOUND (Off:0 Def:4),,54-44,54,44
 0021700314,2017-11-30,BOS,PHI,24.0,2,0,0,BOS,BOS,fg3_miss,1,False,False,MISS Morris Sr. 76' 3PT Jump Shot,,54-44,54,44
 0021700314,2017-11-30,BOS,PHI,24.0,2,0,0,BOS,BOS,reb,0,False,False,CELTICS Rebound,,54-44,54,44
 0021700314,2017-11-30,BOS,PHI,24.0,2,0,0,BOS,,period_end,0,False,False,,,54-44,54,44
@@ -254,8 +254,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700314,2017-11-30,BOS,PHI,27.42,3,8,35,BOS,BOS,fg_miss,1,False,False,MISS Irving 11' Jump Shot,,60-56,60,56
 0021700314,2017-11-30,BOS,PHI,27.45,3,8,33,PHI,PHI,reb,0,False,False,,Johnson REBOUND (Off:2 Def:4),60-56,60,56
 0021700314,2017-11-30,BOS,PHI,27.58,3,8,25,PHI,PHI,fg_miss,57,True,False,,MISS Johnson 8' Driving Hook Shot,60-56,60,56
-0021700314,2017-11-30,BOS,PHI,27.58,3,8,25,BOS,BOS,reb,0,False,False,Horford REBOUND (Off:0 Def:7),,60-56,60,56
 0021700314,2017-11-30,BOS,PHI,27.58,3,8,25,PHI,BOS,block,57,True,False,block,block,60-56,60,56
+0021700314,2017-11-30,BOS,PHI,27.58,3,8,25,BOS,BOS,reb,0,False,False,Horford REBOUND (Off:0 Def:7),,60-56,60,56
 0021700314,2017-11-30,BOS,PHI,27.98,3,8,1,BOS,BOS,tov,1,False,True,Brown Bad Pass Turnover (P4.T14),,60-56,60,56
 0021700314,2017-11-30,BOS,PHI,27.98,3,8,1,BOS,PHI,steal,1,False,True,steal,steal,60-56,60,56
 0021700314,2017-11-30,BOS,PHI,28.05,3,7,57,PHI,BOS,foul,2,False,False,Smart S.FOUL (P1.T2) (M.Ayotte),,60-56,60,56
@@ -376,9 +376,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700314,2017-11-30,BOS,PHI,41.4,4,6,36,BOS,BOS,tov,1,False,True,Smart Bad Pass Turnover (P6.T16),,87-78,87,78
 0021700314,2017-11-30,BOS,PHI,41.4,4,6,36,BOS,PHI,steal,1,False,True,steal,steal,87-78,87,78
 0021700314,2017-11-30,BOS,PHI,41.42,4,6,35,PHI,BOS,foul,2,False,False,Theis S.FOUL (P2.T2) (R.Garretson),,87-78,87,78
-0021700314,2017-11-30,BOS,PHI,41.42,4,6,35,PHI,PHI,ft_make,12,False,False,,Johnson Free Throw 2 of 2 (6 PTS),87-79,87,79
 0021700314,2017-11-30,BOS,PHI,41.42,4,6,35,PHI,PHI,ft_miss,11,False,False,,MISS Johnson Free Throw 1 of 2,87-79,87,79
 0021700314,2017-11-30,BOS,PHI,41.42,4,6,35,PHI,PHI,reb,1,False,False,,76ers Rebound,87-79,87,79
+0021700314,2017-11-30,BOS,PHI,41.42,4,6,35,PHI,PHI,ft_make,12,False,False,,Johnson Free Throw 2 of 2 (6 PTS),87-79,87,79
 0021700314,2017-11-30,BOS,PHI,41.65,4,6,21,BOS,BOS,fg3_make,1,False,False,Irving 25' 3PT Jump Shot (30 PTS) (Morris Sr. 2 AST),,90-79,90,79
 0021700314,2017-11-30,BOS,PHI,41.68,4,6,19,PHI,PHI,timeout,1,False,False,,76ers Timeout: Regular (Reg.5 Short 0),90-79,90,79
 0021700314,2017-11-30,BOS,PHI,41.92,4,6,5,PHI,PHI,fg3_make,1,False,False,,Covington 28' 3PT Jump Shot (6 PTS) (Redick 3 AST),90-82,90,82

@@ -23,9 +23,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900237,2019-11-24,WAS,SAC,3.0,1,9,0,WAS,WAS,fg_miss,78,False,False,MISS Brown Jr. 3' Floating Jump Shot,,2-5,2,5
 0021900237,2019-11-24,WAS,SAC,3.03,1,8,58,SAC,SAC,reb,0,False,False,,Bjelica REBOUND (Off:0 Def:3),2-5,2,5
 0021900237,2019-11-24,WAS,SAC,3.12,1,8,53,SAC,SAC,fg_miss,78,False,False,,MISS Bjelica 9' Floating Jump Shot,2-5,2,5
+0021900237,2019-11-24,WAS,SAC,3.23,1,8,46,SAC,SAC,reb,0,False,False,,Bjelica REBOUND (Off:1 Def:3),2-5,2,5
 0021900237,2019-11-24,WAS,SAC,3.23,1,8,46,SAC,SAC,fg_miss,97,False,False,,MISS Bjelica 1' Tip Layup Shot,2-5,2,5
 0021900237,2019-11-24,WAS,SAC,3.23,1,8,46,WAS,WAS,reb,0,False,False,Hachimura REBOUND (Off:0 Def:2),,2-5,2,5
-0021900237,2019-11-24,WAS,SAC,3.23,1,8,46,SAC,SAC,reb,0,False,False,,Bjelica REBOUND (Off:1 Def:3),2-5,2,5
 0021900237,2019-11-24,WAS,SAC,3.4,1,8,36,WAS,WAS,fg_make,79,False,False,Thomas 15' Pullup Jump Shot (2 PTS),,4-5,4,5
 0021900237,2019-11-24,WAS,SAC,3.4,1,8,36,WAS,SAC,foul,2,False,False,,Bjelica S.FOUL (P1.T2) (M.Ayotte),4-5,4,5
 0021900237,2019-11-24,WAS,SAC,3.4,1,8,36,WAS,WAS,ft_make,10,False,False,Thomas Free Throw 1 of 1 (3 PTS),,5-5,5,5
@@ -192,8 +192,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900237,2019-11-24,WAS,SAC,19.78,2,4,13,SAC,SAC,tov,37,False,False,,Bjelica Offensive Foul Turnover (P2.T7),50-45,50,45
 0021900237,2019-11-24,WAS,SAC,20.0,2,4,0,WAS,WAS,fg_make,108,False,False,Bryant 2' Cutting Dunk Shot (8 PTS) (Beal 3 AST),,52-45,52,45
 0021900237,2019-11-24,WAS,SAC,20.25,2,3,45,SAC,SAC,fg_miss,3,False,False,,MISS Bjelica 9' Hook Shot,52-45,52,45
-0021900237,2019-11-24,WAS,SAC,20.35,2,3,39,SAC,SAC,fg_make,97,False,False,,Bjelica 1' Tip Layup Shot (6 PTS),52-47,52,47
 0021900237,2019-11-24,WAS,SAC,20.35,2,3,39,SAC,SAC,reb,0,False,False,,Bjelica REBOUND (Off:3 Def:3),52-47,52,47
+0021900237,2019-11-24,WAS,SAC,20.35,2,3,39,SAC,SAC,fg_make,97,False,False,,Bjelica 1' Tip Layup Shot (6 PTS),52-47,52,47
 0021900237,2019-11-24,WAS,SAC,20.57,2,3,26,WAS,WAS,tov,45,False,False,Bryant Out of Bounds - Bad Pass Turnover Turnover (P3.T7),,52-47,52,47
 0021900237,2019-11-24,WAS,SAC,20.78,2,3,13,SAC,SAC,fg_make,101,False,False,,Joseph 10' Driving Floating Jump Shot (6 PTS),52-49,52,49
 0021900237,2019-11-24,WAS,SAC,21.07,2,2,56,WAS,WAS,fg_miss,63,False,False,MISS Bryant 13' Fadeaway Jumper,,52-49,52,49
@@ -252,8 +252,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900237,2019-11-24,WAS,SAC,26.73,3,9,16,WAS,WAS,fg3_make,1,False,False,Beal 26' 3PT Jump Shot (10 PTS) (Brown Jr. 2 AST),,65-65,65,65
 0021900237,2019-11-24,WAS,SAC,27.02,3,8,59,SAC,SAC,fg_make,78,False,False,,Holmes 14' Floating Jump Shot (12 PTS) (Hield 3 AST),65-67,65,67
 0021900237,2019-11-24,WAS,SAC,27.37,3,8,38,WAS,WAS,tov,2,False,True,Beal Lost Ball Turnover (P2.T12),,65-67,65,67
-0021900237,2019-11-24,WAS,SAC,27.37,3,8,38,SAC,WAS,foul,1,False,False,Beal P.FOUL (P2.T2) (M.Ayotte),,65-67,65,67
 0021900237,2019-11-24,WAS,SAC,27.37,3,8,38,WAS,SAC,steal,2,False,True,steal,steal,65-67,65,67
+0021900237,2019-11-24,WAS,SAC,27.37,3,8,38,SAC,WAS,foul,1,False,False,Beal P.FOUL (P2.T2) (M.Ayotte),,65-67,65,67
 0021900237,2019-11-24,WAS,SAC,27.53,3,8,28,WAS,SAC,foul,4,False,False,,Holmes OFF.Foul (P2) (J.DeRosa),65-67,65,67
 0021900237,2019-11-24,WAS,SAC,27.53,3,8,28,SAC,SAC,tov,37,False,False,,Holmes Offensive Foul Turnover (P1.T10),65-67,65,67
 0021900237,2019-11-24,WAS,SAC,27.85,3,8,9,WAS,WAS,fg3_make,1,False,False,Thomas 26' 3PT Jump Shot (12 PTS) (Brown Jr. 3 AST),,68-67,68,67
@@ -399,8 +399,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900237,2019-11-24,WAS,SAC,44.98,4,3,1,SAC,SAC,fg_make,5,False,False,,Holmes 5' Layup (16 PTS) (Hield 5 AST),97-105,97,105
 0021900237,2019-11-24,WAS,SAC,45.18,4,2,49,WAS,WAS,fg_make,78,False,False,Beal 10' Floating Jump Shot (20 PTS) (Thomas 2 AST),,99-105,99,105
 0021900237,2019-11-24,WAS,SAC,45.53,4,2,28,SAC,SAC,fg_miss,5,True,False,,MISS Hield 7' Layup,99-105,99,105
-0021900237,2019-11-24,WAS,SAC,45.53,4,2,28,WAS,WAS,reb,0,False,False,Thomas REBOUND (Off:0 Def:2),,99-105,99,105
 0021900237,2019-11-24,WAS,SAC,45.53,4,2,28,SAC,WAS,block,5,True,False,block,block,99-105,99,105
+0021900237,2019-11-24,WAS,SAC,45.53,4,2,28,WAS,WAS,reb,0,False,False,Thomas REBOUND (Off:0 Def:2),,99-105,99,105
 0021900237,2019-11-24,WAS,SAC,45.68,4,2,19,WAS,WAS,fg_make,98,False,False,Bryant 1' Cutting Layup Shot (14 PTS) (Beal 7 AST),,101-105,101,105
 0021900237,2019-11-24,WAS,SAC,46.07,4,1,56,SAC,WAS,foul,2,False,False,Thomas S.FOUL (P5.T3) (M.Ayotte),,101-105,101,105
 0021900237,2019-11-24,WAS,SAC,46.07,4,1,56,SAC,SAC,ft_make,11,False,False,,Barnes Free Throw 1 of 2 (25 PTS),101-106,101,106

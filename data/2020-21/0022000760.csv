@@ -29,8 +29,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000760,2021-04-04,HOU,NOP,2.33,1,9,40,HOU,NOP,foul,26,False,False,,Ball Offensive Charge Foul (P1.T1) (J.Goble),6-3,6,3
 0022000760,2021-04-04,HOU,NOP,2.33,1,9,40,NOP,NOP,tov,37,False,False,,Ball Offensive Foul Turnover (P1.T1),6-3,6,3
 0022000760,2021-04-04,HOU,NOP,2.58,1,9,25,HOU,HOU,fg_miss,5,True,False,MISS Brown 4' Layup,,6-3,6,3
-0022000760,2021-04-04,HOU,NOP,2.58,1,9,25,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,6-3,6,3
 0022000760,2021-04-04,HOU,NOP,2.58,1,9,25,HOU,NOP,block,5,True,False,block,block,6-3,6,3
+0022000760,2021-04-04,HOU,NOP,2.58,1,9,25,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,6-3,6,3
 0022000760,2021-04-04,HOU,NOP,2.62,1,9,23,HOU,HOU,tov,1,False,True,Porter Jr. Bad Pass Turnover (P2.T2),,6-3,6,3
 0022000760,2021-04-04,HOU,NOP,2.62,1,9,23,HOU,NOP,steal,1,False,True,steal,steal,6-3,6,3
 0022000760,2021-04-04,HOU,NOP,2.78,1,9,13,NOP,NOP,fg_make,75,False,False,,Johnson 3' Driving Finger Roll Layup (2 PTS),6-5,6,5
@@ -110,8 +110,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000760,2021-04-04,HOU,NOP,10.52,1,1,29,NOP,NOP,fg3_miss,1,False,False,,MISS Bledsoe 24' 3PT Jump Shot,23-33,23,33
 0022000760,2021-04-04,HOU,NOP,10.55,1,1,27,HOU,HOU,reb,0,False,False,Augustin REBOUND (Off:0 Def:1),,23-33,23,33
 0022000760,2021-04-04,HOU,NOP,10.63,1,1,22,HOU,HOU,fg_miss,41,True,False,MISS Martin Jr. 4' Running Layup,,23-33,23,33
-0022000760,2021-04-04,HOU,NOP,10.63,1,1,22,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,23-33,23,33
 0022000760,2021-04-04,HOU,NOP,10.63,1,1,22,HOU,NOP,block,41,True,False,block,block,23-33,23,33
+0022000760,2021-04-04,HOU,NOP,10.63,1,1,22,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,23-33,23,33
 0022000760,2021-04-04,HOU,NOP,10.65,1,1,21,HOU,NOP,foul,1,False,False,,Hernangomez P.FOUL (P2.PN) (H.Workman),23-33,23,33
 0022000760,2021-04-04,HOU,NOP,10.77,1,1,14,HOU,HOU,fg_miss,1,False,False,MISS Bradley 18' Jump Shot,,23-33,23,33
 0022000760,2021-04-04,HOU,NOP,10.78,1,1,13,HOU,HOU,reb,0,False,False,Augustin REBOUND (Off:1 Def:1),,23-33,23,33
@@ -152,8 +152,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000760,2021-04-04,HOU,NOP,14.67,2,9,20,HOU,HOU,tov,1,False,True,Augustin Bad Pass Turnover (P1.T8),,35-40,35,40
 0022000760,2021-04-04,HOU,NOP,14.67,2,9,20,HOU,NOP,steal,1,False,True,steal,steal,35-40,35,40
 0022000760,2021-04-04,HOU,NOP,14.77,2,9,14,NOP,NOP,fg_miss,41,False,False,,MISS Marshall 3' Running Layup,35-40,35,40
-0022000760,2021-04-04,HOU,NOP,14.87,2,9,8,NOP,NOP,fg_make,97,False,False,,Hernangomez Tip Layup Shot (5 PTS),35-42,35,42
 0022000760,2021-04-04,HOU,NOP,14.87,2,9,8,NOP,NOP,reb,0,False,False,,Hernangomez REBOUND (Off:1 Def:3),35-42,35,42
+0022000760,2021-04-04,HOU,NOP,14.87,2,9,8,NOP,NOP,fg_make,97,False,False,,Hernangomez Tip Layup Shot (5 PTS),35-42,35,42
 0022000760,2021-04-04,HOU,NOP,15.07,2,8,56,HOU,HOU,fg_miss,5,True,False,MISS Augustin 3' Layup,,35-42,35,42
 0022000760,2021-04-04,HOU,NOP,15.07,2,8,56,HOU,NOP,block,5,True,False,block,block,35-42,35,42
 0022000760,2021-04-04,HOU,NOP,15.1,2,8,54,NOP,NOP,reb,0,False,False,,Alexander-Walker REBOUND (Off:0 Def:1),35-42,35,42
@@ -199,9 +199,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000760,2021-04-04,HOU,NOP,19.08,2,4,55,NOP,NOP,fg3_miss,1,False,False,,MISS Bledsoe 26' 3PT Jump Shot,47-53,47,53
 0022000760,2021-04-04,HOU,NOP,19.08,2,4,55,NOP,NOP,reb,0,False,False,,Bledsoe REBOUND (Off:1 Def:2),47-53,47,53
 0022000760,2021-04-04,HOU,NOP,19.1,2,4,54,NOP,HOU,foul,1,False,False,Brown P.FOUL (P2.PN) (H.Workman),,47-53,47,53
-0022000760,2021-04-04,HOU,NOP,19.1,2,4,54,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 3 Short 0),,47-53,47,53
 0022000760,2021-04-04,HOU,NOP,19.1,2,4,54,HOU,NOP,ft_make,11,False,False,,Bledsoe Free Throw 1 of 2 (3 PTS),47-54,47,54
 0022000760,2021-04-04,HOU,NOP,19.1,2,4,54,HOU,NOP,ft_make,12,False,False,,Bledsoe Free Throw 2 of 2 (4 PTS),47-55,47,55
+0022000760,2021-04-04,HOU,NOP,19.1,2,4,54,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 3 Short 0),,47-53,47,53
 0022000760,2021-04-04,HOU,NOP,19.3,2,4,42,HOU,HOU,fg3_miss,1,False,False,MISS Wood 27' 3PT Jump Shot,,47-55,47,55
 0022000760,2021-04-04,HOU,NOP,19.32,2,4,41,NOP,NOP,reb,0,False,False,,Iwundu REBOUND (Off:0 Def:2),47-55,47,55
 0022000760,2021-04-04,HOU,NOP,19.45,2,4,33,NOP,NOP,fg_miss,6,False,False,,MISS Iwundu 3' Driving Layup,47-55,47,55
@@ -216,9 +216,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000760,2021-04-04,HOU,NOP,20.32,2,3,41,NOP,NOP,fg3_miss,1,False,False,,MISS Hayes 24' 3PT Jump Shot,47-57,47,57
 0022000760,2021-04-04,HOU,NOP,20.33,2,3,40,HOU,HOU,reb,0,False,False,Olynyk REBOUND (Off:1 Def:2),,47-57,47,57
 0022000760,2021-04-04,HOU,NOP,20.47,2,3,32,HOU,HOU,tov,2,False,True,Porter Jr. Lost Ball Turnover (P6.T10),,47-57,47,57
+0022000760,2021-04-04,HOU,NOP,20.47,2,3,32,HOU,NOP,steal,2,False,True,steal,steal,47-57,47,57
 0022000760,2021-04-04,HOU,NOP,20.47,2,3,32,NOP,HOU,foul,3,False,False,Porter Jr. L.B.FOUL (P1.PN) (H.Workman),,47-57,47,57
 0022000760,2021-04-04,HOU,NOP,20.47,2,3,32,NOP,NOP,timeout,1,False,False,,Pelicans Timeout: Regular (Reg.3 Short 0),47-57,47,57
-0022000760,2021-04-04,HOU,NOP,20.47,2,3,32,HOU,NOP,steal,2,False,True,steal,steal,47-57,47,57
 0022000760,2021-04-04,HOU,NOP,20.47,2,3,32,NOP,NOP,ft_make,11,False,False,,Alexander-Walker Free Throw 1 of 2 (5 PTS),47-58,47,58
 0022000760,2021-04-04,HOU,NOP,20.47,2,3,32,NOP,NOP,ft_miss,12,False,False,,MISS Alexander-Walker Free Throw 2 of 2,47-58,47,58
 0022000760,2021-04-04,HOU,NOP,20.47,2,3,32,HOU,HOU,reb,0,False,False,Olynyk REBOUND (Off:1 Def:3),,47-58,47,58
@@ -317,9 +317,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000760,2021-04-04,HOU,NOP,30.7,3,5,18,HOU,HOU,reb,0,False,False,Tate REBOUND (Off:1 Def:4),,77-81,77,81
 0022000760,2021-04-04,HOU,NOP,30.9,3,5,6,HOU,HOU,fg3_make,1,False,False,Brown 24' 3PT Jump Shot (12 PTS) (Tate 3 AST),,80-81,80,81
 0022000760,2021-04-04,HOU,NOP,31.25,3,4,45,NOP,NOP,fg_miss,101,True,False,,MISS Hayes 10' Driving Floating Jump Shot,80-81,80,81
+0022000760,2021-04-04,HOU,NOP,31.25,3,4,45,NOP,HOU,block,101,True,False,block,block,80-81,80,81
 0022000760,2021-04-04,HOU,NOP,31.25,3,4,45,HOU,HOU,reb,0,False,False,Porter Jr. REBOUND (Off:1 Def:4),,80-81,80,81
 0022000760,2021-04-04,HOU,NOP,31.25,3,4,45,HOU,NOP,foul,28,False,False,,Adams Personal Take Foul (P3.T4) (H.Workman),80-81,80,81
-0022000760,2021-04-04,HOU,NOP,31.25,3,4,45,NOP,HOU,block,101,True,False,block,block,80-81,80,81
 0022000760,2021-04-04,HOU,NOP,31.43,3,4,34,HOU,HOU,tov,45,False,False,Wood Out of Bounds - Bad Pass Turnover Turnover (P2.T13),,80-81,80,81
 0022000760,2021-04-04,HOU,NOP,31.63,3,4,22,NOP,NOP,fg_miss,73,False,False,,MISS Johnson 2' Driving Reverse Layup,80-81,80,81
 0022000760,2021-04-04,HOU,NOP,31.63,3,4,22,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:0 Def:6),,80-81,80,81

@@ -16,9 +16,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000637,2021-03-19,DEN,CHI,1.87,1,10,8,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:0 Def:2),,5-3,5,3
 0022000637,2021-03-19,DEN,CHI,2.1,1,9,54,DEN,DEN,fg_make,79,False,False,Porter Jr. 23' Pullup Jump Shot (4 PTS),,7-3,7,3
 0022000637,2021-03-19,DEN,CHI,2.57,1,9,26,CHI,CHI,fg_miss,78,True,False,,MISS Williams 6' Floating Jump Shot,7-3,7,3
+0022000637,2021-03-19,DEN,CHI,2.57,1,9,26,CHI,DEN,block,78,True,False,block,block,7-3,7,3
 0022000637,2021-03-19,DEN,CHI,2.57,1,9,26,CHI,CHI,reb,0,False,False,,Bulls Rebound,7-3,7,3
 0022000637,2021-03-19,DEN,CHI,2.57,1,9,26,CHI,CHI,tov,11,False,False,,Bulls Turnover: Shot Clock (T#2),7-3,7,3
-0022000637,2021-03-19,DEN,CHI,2.57,1,9,26,CHI,DEN,block,78,True,False,block,block,7-3,7,3
 0022000637,2021-03-19,DEN,CHI,2.73,1,9,16,DEN,DEN,fg_miss,44,True,False,MISS Porter Jr. 4' Reverse Layup,,7-3,7,3
 0022000637,2021-03-19,DEN,CHI,2.73,1,9,16,DEN,CHI,block,44,True,False,block,block,7-3,7,3
 0022000637,2021-03-19,DEN,CHI,2.78,1,9,13,DEN,DEN,reb,0,False,False,Porter Jr. REBOUND (Off:1 Def:0),,7-3,7,3
@@ -41,8 +41,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000637,2021-03-19,DEN,CHI,4.55,1,7,27,CHI,CHI,reb,0,False,False,,Young REBOUND (Off:0 Def:2),7-11,7,11
 0022000637,2021-03-19,DEN,CHI,4.62,1,7,23,CHI,CHI,fg3_make,1,False,False,,Markkanen 28' 3PT Jump Shot (6 PTS) (Satoransky 2 AST),7-14,7,14
 0022000637,2021-03-19,DEN,CHI,4.9,1,7,6,DEN,DEN,fg3_miss,1,False,False,MISS Porter Jr. 25' 3PT Jump Shot,,7-14,7,14
-0022000637,2021-03-19,DEN,CHI,5.03,1,6,58,DEN,DEN,fg_make,107,False,False,Barton Tip Dunk Shot (2 PTS),,9-14,9,14
 0022000637,2021-03-19,DEN,CHI,5.03,1,6,58,DEN,DEN,reb,0,False,False,Barton REBOUND (Off:1 Def:0),,9-14,9,14
+0022000637,2021-03-19,DEN,CHI,5.03,1,6,58,DEN,DEN,fg_make,107,False,False,Barton Tip Dunk Shot (2 PTS),,9-14,9,14
 0022000637,2021-03-19,DEN,CHI,5.15,1,6,51,CHI,CHI,fg_miss,98,False,False,,MISS Young 7' Cutting Layup Shot,9-14,9,14
 0022000637,2021-03-19,DEN,CHI,5.2,1,6,48,DEN,DEN,reb,0,False,False,Porter Jr. REBOUND (Off:1 Def:1),,9-14,9,14
 0022000637,2021-03-19,DEN,CHI,5.23,1,6,46,DEN,DEN,fg3_miss,103,False,False,MISS Porter Jr. 25' 3PT Running Pull-Up Jump Shot,,9-14,9,14
@@ -99,8 +99,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000637,2021-03-19,DEN,CHI,12.9,2,11,6,CHI,CHI,reb,0,False,False,,Valentine REBOUND (Off:0 Def:2),20-33,20,33
 0022000637,2021-03-19,DEN,CHI,13.07,2,10,56,CHI,CHI,fg3_miss,1,False,False,,MISS Markkanen 25' 3PT Jump Shot,20-33,20,33
 0022000637,2021-03-19,DEN,CHI,13.13,2,10,52,DEN,DEN,reb,0,False,False,Dozier REBOUND (Off:0 Def:1),,20-33,20,33
-0022000637,2021-03-19,DEN,CHI,13.23,2,10,46,DEN,DEN,tov,2,False,False,Dozier Lost Ball Turnover (P1.T4),,20-33,20,33
 0022000637,2021-03-19,DEN,CHI,13.23,2,10,46,CHI,DEN,foul,3,False,False,Dozier L.B.FOUL (P1.T1) (B.Taylor),,20-33,20,33
+0022000637,2021-03-19,DEN,CHI,13.23,2,10,46,DEN,DEN,tov,2,False,False,Dozier Lost Ball Turnover (P1.T4),,20-33,20,33
 0022000637,2021-03-19,DEN,CHI,13.43,2,10,34,CHI,CHI,fg3_miss,79,False,False,,MISS Valentine 26' 3PT Pullup Jump Shot,20-33,20,33
 0022000637,2021-03-19,DEN,CHI,13.48,2,10,31,DEN,DEN,reb,0,False,False,Green REBOUND (Off:0 Def:1),,20-33,20,33
 0022000637,2021-03-19,DEN,CHI,13.57,2,10,26,DEN,DEN,tov,1,False,True,Murray Bad Pass Turnover (P2.T5),,20-33,20,33
@@ -290,8 +290,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000637,2021-03-19,DEN,CHI,34.42,3,1,35,DEN,DEN,fg_miss,86,False,False,MISS Jokic 12' Turnaround Fadeaway Shot,,77-86,77,86
 0022000637,2021-03-19,DEN,CHI,34.52,3,1,29,CHI,CHI,reb,0,False,False,,Porter Jr. REBOUND (Off:0 Def:3),77-86,77,86
 0022000637,2021-03-19,DEN,CHI,34.75,3,1,15,CHI,CHI,fg_miss,5,True,False,,MISS Carter Jr. 4' Layup,77-86,77,86
-0022000637,2021-03-19,DEN,CHI,34.75,3,1,15,CHI,CHI,reb,0,False,False,,Bulls Rebound,77-86,77,86
 0022000637,2021-03-19,DEN,CHI,34.75,3,1,15,CHI,DEN,block,5,True,False,block,block,77-86,77,86
+0022000637,2021-03-19,DEN,CHI,34.75,3,1,15,CHI,CHI,reb,0,False,False,,Bulls Rebound,77-86,77,86
 0022000637,2021-03-19,DEN,CHI,34.83,3,1,10,CHI,CHI,fg_miss,63,False,False,,MISS Porter Jr. 18' Fadeaway Jumper,77-86,77,86
 0022000637,2021-03-19,DEN,CHI,34.88,3,1,7,DEN,DEN,reb,0,False,False,Campazzo REBOUND (Off:0 Def:2),,77-86,77,86
 0022000637,2021-03-19,DEN,CHI,34.97,3,1,2,DEN,DEN,fg3_miss,1,False,False,MISS Dozier 29' 3PT Jump Shot,,77-86,77,86
@@ -316,8 +316,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000637,2021-03-19,DEN,CHI,37.35,4,10,39,DEN,DEN,fg3_make,80,False,False,Murray 27' 3PT Step Back Jump Shot (15 PTS),,87-91,87,91
 0022000637,2021-03-19,DEN,CHI,37.67,4,10,20,CHI,CHI,fg3_make,1,False,False,,White 25' 3PT Jump Shot (12 PTS) (Markkanen 2 AST),87-94,87,94
 0022000637,2021-03-19,DEN,CHI,37.92,4,10,5,DEN,DEN,tov,2,False,True,Murray Lost Ball Turnover (P6.T10),,87-94,87,94
-0022000637,2021-03-19,DEN,CHI,37.92,4,10,5,CHI,DEN,foul,1,False,False,Murray P.FOUL (P4.T1) (B.Taylor),,87-94,87,94
 0022000637,2021-03-19,DEN,CHI,37.92,4,10,5,DEN,CHI,steal,2,False,True,steal,steal,87-94,87,94
+0022000637,2021-03-19,DEN,CHI,37.92,4,10,5,CHI,DEN,foul,1,False,False,Murray P.FOUL (P4.T1) (B.Taylor),,87-94,87,94
 0022000637,2021-03-19,DEN,CHI,38.18,4,9,49,CHI,CHI,fg_make,98,False,False,,Arcidiacono 6' Cutting Layup Shot (7 PTS) (Valentine 2 AST),87-96,87,96
 0022000637,2021-03-19,DEN,CHI,38.47,4,9,32,DEN,DEN,tov,1,False,True,Green Bad Pass Turnover (P2.T11),,87-96,87,96
 0022000637,2021-03-19,DEN,CHI,38.47,4,9,32,DEN,CHI,steal,1,False,True,steal,steal,87-96,87,96
@@ -397,8 +397,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000637,2021-03-19,DEN,CHI,47.2,4,0,48,CHI,CHI,reb,0,False,False,,Young REBOUND (Off:3 Def:6),108-112,108,112
 0022000637,2021-03-19,DEN,CHI,47.25,4,0,45,CHI,CHI,fg_make,41,False,False,,White 5' Running Layup (17 PTS) (Porter Jr. 2 AST),108-114,108,114
 0022000637,2021-03-19,DEN,CHI,47.38,4,0,37,DEN,DEN,fg3_make,1,False,False,Jokic 25' 3PT Jump Shot (28 PTS) (Murray 5 AST),,111-114,111,114
-0022000637,2021-03-19,DEN,CHI,47.55,4,0,27,CHI,CHI,tov,2,False,False,,LaVine Lost Ball Turnover (P3.T16),111-114,111,114
 0022000637,2021-03-19,DEN,CHI,47.55,4,0,27,DEN,CHI,foul,3,False,False,,LaVine L.B.FOUL (P1.T4) (B.Taylor),111-114,111,114
+0022000637,2021-03-19,DEN,CHI,47.55,4,0,27,CHI,CHI,tov,2,False,False,,LaVine Lost Ball Turnover (P3.T16),111-114,111,114
 0022000637,2021-03-19,DEN,CHI,47.57,4,0,26,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 6 Short 0),,111-114,111,114
 0022000637,2021-03-19,DEN,CHI,47.7,4,0,18,DEN,DEN,fg_make,101,False,False,Murray 6' Driving Floating Jump Shot (24 PTS),,113-114,113,114
 0022000637,2021-03-19,DEN,CHI,47.7,4,0,18,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.7 Short 0),113-114,113,114

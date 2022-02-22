@@ -48,8 +48,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000473,2021-04-19,IND,SAS,5.5,1,6,30,IND,SAS,block,6,True,False,block,block,15-12,15,12
 0022000473,2021-04-19,IND,SAS,5.52,1,6,29,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:0 Def:2),15-12,15,12
 0022000473,2021-04-19,IND,SAS,5.73,1,6,16,SAS,SAS,fg_miss,6,False,False,,MISS White 1' Driving Layup,15-12,15,12
-0022000473,2021-04-19,IND,SAS,5.8,1,6,12,SAS,SAS,fg_make,97,False,False,,Poeltl Tip Layup Shot (4 PTS),15-14,15,14
 0022000473,2021-04-19,IND,SAS,5.8,1,6,12,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:1 Def:2),15-14,15,14
+0022000473,2021-04-19,IND,SAS,5.8,1,6,12,SAS,SAS,fg_make,97,False,False,,Poeltl Tip Layup Shot (4 PTS),15-14,15,14
 0022000473,2021-04-19,IND,SAS,5.95,1,6,3,IND,IND,fg3_miss,1,False,False,MISS Sumner 3PT Jump Shot,,15-14,15,14
 0022000473,2021-04-19,IND,SAS,6.0,1,6,0,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:0 Def:2),15-14,15,14
 0022000473,2021-04-19,IND,SAS,6.07,1,5,56,SAS,SAS,fg_make,50,False,False,,DeRozan 1' Running Dunk (4 PTS) (Murray 4 AST),15-16,15,16
@@ -315,8 +315,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000473,2021-04-19,IND,SAS,31.05,3,4,57,IND,IND,fg3_miss,1,False,False,MISS Brogdon 3PT Jump Shot,,57-76,57,76
 0022000473,2021-04-19,IND,SAS,31.1,3,4,54,SAS,SAS,reb,0,False,False,,Eubanks REBOUND (Off:2 Def:4),57-76,57,76
 0022000473,2021-04-19,IND,SAS,31.27,3,4,44,SAS,SAS,fg_miss,1,False,False,,MISS Murray 18' Jump Shot,57-76,57,76
-0022000473,2021-04-19,IND,SAS,31.37,3,4,38,SAS,SAS,fg_make,97,False,False,,Johnson Tip Layup Shot (11 PTS),57-78,57,78
 0022000473,2021-04-19,IND,SAS,31.37,3,4,38,SAS,SAS,reb,0,False,False,,Johnson REBOUND (Off:1 Def:5),57-78,57,78
+0022000473,2021-04-19,IND,SAS,31.37,3,4,38,SAS,SAS,fg_make,97,False,False,,Johnson Tip Layup Shot (11 PTS),57-78,57,78
 0022000473,2021-04-19,IND,SAS,31.42,3,4,35,IND,SAS,foul,1,False,False,,DeRozan P.FOUL (P3.T4) (J.Schroeder),57-78,57,78
 0022000473,2021-04-19,IND,SAS,31.6,3,4,24,IND,IND,fg_miss,73,False,False,MISS McConnell 1' Driving Reverse Layup,,57-78,57,78
 0022000473,2021-04-19,IND,SAS,31.63,3,4,22,SAS,SAS,reb,0,False,False,,Eubanks REBOUND (Off:2 Def:5),57-78,57,78
@@ -387,8 +387,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000473,2021-04-19,IND,SAS,38.13,4,9,52,SAS,SAS,fg_miss,72,False,False,,MISS Eubanks 2' Putback Layup,68-84,68,84
 0022000473,2021-04-19,IND,SAS,38.13,4,9,52,IND,IND,reb,0,False,False,Bitadze REBOUND (Off:3 Def:6),,68-84,68,84
 0022000473,2021-04-19,IND,SAS,38.18,4,9,49,IND,IND,fg_miss,41,True,False,MISS McDermott 1' Running Layup,,68-84,68,84
-0022000473,2021-04-19,IND,SAS,38.18,4,9,49,IND,IND,reb,0,False,False,PACERS Rebound,,68-84,68,84
 0022000473,2021-04-19,IND,SAS,38.18,4,9,49,IND,SAS,block,41,True,False,block,block,68-84,68,84
+0022000473,2021-04-19,IND,SAS,38.18,4,9,49,IND,IND,reb,0,False,False,PACERS Rebound,,68-84,68,84
 0022000473,2021-04-19,IND,SAS,38.28,4,9,43,IND,IND,fg_make,6,False,False,Holiday 1' Driving Layup (6 PTS) (Sampson 1 AST),,70-84,70,84
 0022000473,2021-04-19,IND,SAS,38.47,4,9,32,IND,,foul,16,False,False,,,70-84,70,84
 0022000473,2021-04-19,IND,SAS,38.47,4,9,32,IND,SAS,foul,11,False,False,,Gay T.FOUL (P2.T0) (K.Fitzgerald),70-84,70,84
@@ -476,8 +476,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000473,2021-04-19,IND,SAS,46.5,4,1,30,IND,IND,fg3_miss,1,False,False,MISS Brissett 26' 3PT Jump Shot,,85-107,85,107
 0022000473,2021-04-19,IND,SAS,46.55,4,1,27,IND,IND,reb,0,False,False,Martin REBOUND (Off:2 Def:0),,85-107,85,107
 0022000473,2021-04-19,IND,SAS,46.57,4,1,26,IND,IND,fg_miss,5,True,False,MISS Martin 1' Layup,,85-107,85,107
-0022000473,2021-04-19,IND,SAS,46.57,4,1,26,IND,IND,reb,0,False,False,PACERS Rebound,,85-107,85,107
 0022000473,2021-04-19,IND,SAS,46.57,4,1,26,IND,SAS,block,5,True,False,block,block,85-107,85,107
+0022000473,2021-04-19,IND,SAS,46.57,4,1,26,IND,IND,reb,0,False,False,PACERS Rebound,,85-107,85,107
 0022000473,2021-04-19,IND,SAS,46.58,4,1,25,IND,IND,fg_make,108,False,False,Stanley 2' Cutting Dunk Shot (2 PTS) (Sumner 4 AST),,87-107,87,107
 0022000473,2021-04-19,IND,SAS,46.8,4,1,12,SAS,SAS,fg3_miss,1,False,False,,MISS Vassell 25' 3PT Jump Shot,87-107,87,107
 0022000473,2021-04-19,IND,SAS,46.87,4,1,8,IND,IND,reb,0,False,False,Sumner REBOUND (Off:1 Def:4),,87-107,87,107

@@ -8,8 +8,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700470,2017-12-21,UTA,SAS,0.98,1,11,1,SAS,SAS,reb,0,False,False,,Aldridge REBOUND (Off:0 Def:1),3-0,3,0
 0021700470,2017-12-21,UTA,SAS,1.13,1,10,52,SAS,SAS,fg3_make,1,False,False,,Aldridge 25' 3PT Jump Shot (3 PTS) (Parker 1 AST),3-3,3,3
 0021700470,2017-12-21,UTA,SAS,1.62,1,10,23,UTA,UTA,fg3_miss,1,True,False,MISS Rubio 3PT Jump Shot,,3-3,3,3
-0021700470,2017-12-21,UTA,SAS,1.62,1,10,23,UTA,UTA,reb,0,False,False,JAZZ Rebound,,3-3,3,3
 0021700470,2017-12-21,UTA,SAS,1.62,1,10,23,UTA,SAS,block,1,True,False,block,block,3-3,3,3
+0021700470,2017-12-21,UTA,SAS,1.62,1,10,23,UTA,UTA,reb,0,False,False,JAZZ Rebound,,3-3,3,3
 0021700470,2017-12-21,UTA,SAS,1.63,1,10,22,UTA,UTA,fg_miss,43,False,False,MISS Favors 8' Alley Oop Layup,,3-3,3,3
 0021700470,2017-12-21,UTA,SAS,1.63,1,10,22,UTA,UTA,reb,0,False,False,JAZZ Rebound,,3-3,3,3
 0021700470,2017-12-21,UTA,SAS,1.63,1,10,22,UTA,UTA,tov,11,False,False,JAZZ Turnover: Shot Clock (T#1),,3-3,3,3
@@ -50,8 +50,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700470,2017-12-21,UTA,SAS,6.55,1,5,27,SAS,SAS,fg_miss,79,False,False,,MISS Gay 17' Pullup Jump Shot,15-14,15,14
 0021700470,2017-12-21,UTA,SAS,6.62,1,5,23,UTA,UTA,reb,0,False,False,Favors REBOUND (Off:3 Def:1),,15-14,15,14
 0021700470,2017-12-21,UTA,SAS,6.9,1,5,6,UTA,UTA,fg_miss,5,True,False,MISS Favors 3' Layup,,15-14,15,14
-0021700470,2017-12-21,UTA,SAS,6.9,1,5,6,UTA,UTA,reb,0,False,False,JAZZ Rebound,,15-14,15,14
 0021700470,2017-12-21,UTA,SAS,6.9,1,5,6,UTA,SAS,block,5,True,False,block,block,15-14,15,14
+0021700470,2017-12-21,UTA,SAS,6.9,1,5,6,UTA,UTA,reb,0,False,False,JAZZ Rebound,,15-14,15,14
 0021700470,2017-12-21,UTA,SAS,6.98,1,5,1,UTA,UTA,fg3_make,79,False,False,Burks 27' 3PT Pullup Jump Shot (3 PTS),,18-14,18,14
 0021700470,2017-12-21,UTA,SAS,7.25,1,4,45,SAS,SAS,fg_miss,43,False,False,,MISS Anderson 3' Alley Oop Layup,18-14,18,14
 0021700470,2017-12-21,UTA,SAS,7.28,1,4,43,UTA,UTA,reb,0,False,False,Burks REBOUND (Off:0 Def:1),,18-14,18,14
@@ -157,8 +157,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700470,2017-12-21,UTA,SAS,20.5,2,3,30,SAS,UTA,foul,4,False,False,Jerebko OFF.Foul (P1) (B.Kennedy),,42-33,42,33
 0021700470,2017-12-21,UTA,SAS,20.5,2,3,30,UTA,UTA,tov,37,False,False,Jerebko Offensive Foul Turnover (P1.T8),,42-33,42,33
 0021700470,2017-12-21,UTA,SAS,20.72,2,3,17,SAS,SAS,fg_miss,102,False,False,,MISS Forbes 11' Driving Floating Bank Jump Shot,42-33,42,33
-0021700470,2017-12-21,UTA,SAS,20.85,2,3,9,SAS,SAS,tov,2,False,True,,Aldridge Lost Ball Turnover (P1.T6),42-33,42,33
 0021700470,2017-12-21,UTA,SAS,20.85,2,3,9,SAS,SAS,reb,0,False,False,,Aldridge REBOUND (Off:1 Def:2),42-33,42,33
+0021700470,2017-12-21,UTA,SAS,20.85,2,3,9,SAS,SAS,tov,2,False,True,,Aldridge Lost Ball Turnover (P1.T6),42-33,42,33
 0021700470,2017-12-21,UTA,SAS,20.85,2,3,9,SAS,UTA,steal,2,False,True,steal,steal,42-33,42,33
 0021700470,2017-12-21,UTA,SAS,20.93,2,3,4,UTA,UTA,fg_make,1,False,False,Hood 11' Jump Shot (13 PTS),,44-33,44,33
 0021700470,2017-12-21,UTA,SAS,20.93,2,3,4,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.2 Short 0),44-33,44,33
@@ -321,8 +321,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700470,2017-12-21,UTA,SAS,40.08,4,7,55,UTA,UTA,fg3_miss,1,False,False,MISS Jerebko 25' 3PT Jump Shot,,80-79,80,79
 0021700470,2017-12-21,UTA,SAS,40.15,4,7,51,SAS,SAS,reb,0,False,False,,Paul REBOUND (Off:0 Def:1),80-79,80,79
 0021700470,2017-12-21,UTA,SAS,40.27,4,7,44,SAS,SAS,fg_miss,6,True,False,,MISS Parker 3' Driving Layup,80-79,80,79
-0021700470,2017-12-21,UTA,SAS,40.27,4,7,44,SAS,SAS,reb,0,False,False,,Spurs Rebound,80-79,80,79
 0021700470,2017-12-21,UTA,SAS,40.27,4,7,44,SAS,UTA,block,6,True,False,block,block,80-79,80,79
+0021700470,2017-12-21,UTA,SAS,40.27,4,7,44,SAS,SAS,reb,0,False,False,,Spurs Rebound,80-79,80,79
 0021700470,2017-12-21,UTA,SAS,40.3,4,7,42,SAS,SAS,fg_miss,1,False,False,,MISS Aldridge 21' Jump Shot,80-79,80,79
 0021700470,2017-12-21,UTA,SAS,40.35,4,7,39,UTA,UTA,reb,0,False,False,Ingles REBOUND (Off:0 Def:4),,80-79,80,79
 0021700470,2017-12-21,UTA,SAS,40.45,4,7,33,UTA,UTA,fg_make,1,False,False,Favors 11' Jump Shot (12 PTS) (Ingles 5 AST),,82-79,82,79
@@ -354,8 +354,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700470,2017-12-21,UTA,SAS,43.7,4,4,18,UTA,UTA,reb,0,False,False,Rubio REBOUND (Off:0 Def:10),,91-83,91,83
 0021700470,2017-12-21,UTA,SAS,43.92,4,4,5,UTA,UTA,fg_make,47,False,False,Hood 14' Turnaround Jump Shot (29 PTS),,93-83,93,83
 0021700470,2017-12-21,UTA,SAS,44.12,4,3,53,SAS,SAS,tov,2,False,True,,Aldridge Lost Ball Turnover (P3.T13),93-83,93,83
-0021700470,2017-12-21,UTA,SAS,44.12,4,3,53,UTA,SAS,foul,1,False,False,,Bertans P.FOUL (P2.PN) (B.Kennedy),93-83,93,83
 0021700470,2017-12-21,UTA,SAS,44.12,4,3,53,SAS,UTA,steal,2,False,True,steal,steal,93-83,93,83
+0021700470,2017-12-21,UTA,SAS,44.12,4,3,53,UTA,SAS,foul,1,False,False,,Bertans P.FOUL (P2.PN) (B.Kennedy),93-83,93,83
 0021700470,2017-12-21,UTA,SAS,44.12,4,3,53,UTA,UTA,ft_make,11,False,False,Jerebko Free Throw 1 of 2 (8 PTS),,94-83,94,83
 0021700470,2017-12-21,UTA,SAS,44.12,4,3,53,UTA,UTA,ft_make,12,False,False,Jerebko Free Throw 2 of 2 (9 PTS),,95-83,95,83
 0021700470,2017-12-21,UTA,SAS,44.22,4,3,47,UTA,SAS,foul,4,False,False,,Aldridge OFF.Foul (P6) (K.Fitzgerald),95-83,95,83
@@ -386,8 +386,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700470,2017-12-21,UTA,SAS,46.87,4,1,8,UTA,UTA,reb,0,False,False,Rubio REBOUND (Off:0 Def:11),,98-87,98,87
 0021700470,2017-12-21,UTA,SAS,47.15,4,0,51,UTA,UTA,fg_make,5,False,False,Sefolosha 3' Layup (7 PTS) (Rubio 7 AST),,100-87,100,87
 0021700470,2017-12-21,UTA,SAS,47.25,4,0,45,SAS,SAS,fg_miss,5,True,False,,MISS Murray 2' Layup,100-87,100,87
-0021700470,2017-12-21,UTA,SAS,47.25,4,0,45,UTA,UTA,reb,0,False,False,JAZZ Rebound,,100-87,100,87
 0021700470,2017-12-21,UTA,SAS,47.25,4,0,45,SAS,UTA,block,5,True,False,block,block,100-87,100,87
+0021700470,2017-12-21,UTA,SAS,47.25,4,0,45,UTA,UTA,reb,0,False,False,JAZZ Rebound,,100-87,100,87
 0021700470,2017-12-21,UTA,SAS,47.42,4,0,35,,UTA,jump_ball,0,False,False,Jump Ball Favors vs. Bertans: Tip to Rubio,,100-87,100,87
 0021700470,2017-12-21,UTA,SAS,47.52,4,0,29,UTA,UTA,fg_miss,1,False,False,MISS Hood 14' Jump Shot,,100-87,100,87
 0021700470,2017-12-21,UTA,SAS,47.62,4,0,23,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:1 Def:7),100-87,100,87

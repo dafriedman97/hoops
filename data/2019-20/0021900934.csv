@@ -26,8 +26,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900934,2020-03-06,CHI,IND,3.73,1,8,16,CHI,CHI,tov,2,False,True,Markkanen Lost Ball Turnover (P1.T1),,10-7,10,7
 0021900934,2020-03-06,CHI,IND,3.73,1,8,16,CHI,IND,steal,2,False,True,steal,steal,10-7,10,7
 0021900934,2020-03-06,CHI,IND,3.78,1,8,13,IND,IND,fg_miss,41,True,False,,MISS Oladipo 1' Running Layup,10-7,10,7
-0021900934,2020-03-06,CHI,IND,3.78,1,8,13,IND,IND,reb,0,False,False,,Pacers Rebound,10-7,10,7
 0021900934,2020-03-06,CHI,IND,3.78,1,8,13,IND,CHI,block,41,True,False,block,block,10-7,10,7
+0021900934,2020-03-06,CHI,IND,3.78,1,8,13,IND,IND,reb,0,False,False,,Pacers Rebound,10-7,10,7
 0021900934,2020-03-06,CHI,IND,3.93,1,8,4,IND,IND,fg_miss,1,False,False,,MISS Bowen II 22' Jump Shot,10-7,10,7
 0021900934,2020-03-06,CHI,IND,3.97,1,8,2,IND,IND,reb,0,False,False,,Turner REBOUND (Off:1 Def:0),10-7,10,7
 0021900934,2020-03-06,CHI,IND,3.98,1,8,1,IND,IND,fg_make,87,False,False,,Turner 1' Putback Dunk (2 PTS),10-9,10,9
@@ -252,9 +252,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900934,2020-03-06,CHI,IND,26.57,3,9,26,IND,IND,fg_miss,43,False,False,,MISS Bowen II 2' Alley Oop Layup,50-70,50,70
 0021900934,2020-03-06,CHI,IND,26.63,3,9,22,IND,IND,reb,0,False,False,,Bowen II REBOUND (Off:1 Def:3),50-70,50,70
 0021900934,2020-03-06,CHI,IND,26.63,3,9,22,IND,IND,fg_miss,72,True,False,,MISS Bowen II 1' Putback Layup,50-70,50,70
+0021900934,2020-03-06,CHI,IND,26.63,3,9,22,IND,CHI,block,72,True,False,block,block,50-70,50,70
 0021900934,2020-03-06,CHI,IND,26.63,3,9,22,CHI,CHI,reb,0,False,False,Satoransky REBOUND (Off:0 Def:2),,50-70,50,70
 0021900934,2020-03-06,CHI,IND,26.63,3,9,22,CHI,CHI,tov,45,False,False,Satoransky Out of Bounds - Bad Pass Turnover Turnover (P4.T11),,50-70,50,70
-0021900934,2020-03-06,CHI,IND,26.63,3,9,22,IND,CHI,block,72,True,False,block,block,50-70,50,70
 0021900934,2020-03-06,CHI,IND,26.95,3,9,3,IND,CHI,foul,2,False,False,Harrison S.FOUL (P3.T2) (D.Taylor),,50-70,50,70
 0021900934,2020-03-06,CHI,IND,26.95,3,9,3,IND,IND,ft_make,11,False,False,,Oladipo Free Throw 1 of 2 (12 PTS),50-71,50,71
 0021900934,2020-03-06,CHI,IND,26.95,3,9,3,IND,IND,ft_miss,12,False,False,,MISS Oladipo Free Throw 2 of 2,50-71,50,71
@@ -262,15 +262,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900934,2020-03-06,CHI,IND,27.17,3,8,50,CHI,CHI,fg_miss,79,False,False,MISS White 20' Pullup Jump Shot,,50-71,50,71
 0021900934,2020-03-06,CHI,IND,27.22,3,8,47,CHI,CHI,reb,0,False,False,Satoransky REBOUND (Off:1 Def:3),,50-71,50,71
 0021900934,2020-03-06,CHI,IND,27.25,3,8,45,CHI,CHI,fg_miss,6,True,False,MISS Harrison 1' Driving Layup,,50-71,50,71
-0021900934,2020-03-06,CHI,IND,27.25,3,8,45,CHI,CHI,reb,0,False,False,BULLS Rebound,,50-71,50,71
 0021900934,2020-03-06,CHI,IND,27.25,3,8,45,CHI,IND,block,6,True,False,block,block,50-71,50,71
+0021900934,2020-03-06,CHI,IND,27.25,3,8,45,CHI,CHI,reb,0,False,False,BULLS Rebound,,50-71,50,71
 0021900934,2020-03-06,CHI,IND,27.42,3,8,35,CHI,CHI,fg3_miss,1,False,False,MISS White 27' 3PT Jump Shot,,50-71,50,71
 0021900934,2020-03-06,CHI,IND,27.47,3,8,32,IND,IND,reb,0,False,False,,Oladipo REBOUND (Off:0 Def:3),50-71,50,71
 0021900934,2020-03-06,CHI,IND,27.62,3,8,23,IND,IND,tov,4,False,False,,Sabonis Traveling Turnover (P5.T14),50-71,50,71
 0021900934,2020-03-06,CHI,IND,27.9,3,8,6,CHI,CHI,fg_miss,101,True,False,MISS Satoransky 7' Driving Floating Jump Shot,,50-71,50,71
+0021900934,2020-03-06,CHI,IND,27.9,3,8,6,CHI,IND,block,101,True,False,block,block,50-71,50,71
 0021900934,2020-03-06,CHI,IND,27.9,3,8,6,CHI,CHI,reb,0,False,False,BULLS Rebound,,50-71,50,71
 0021900934,2020-03-06,CHI,IND,27.9,3,8,6,CHI,IND,foul,3,False,False,,Oladipo L.B.FOUL (P1.T1) (E.Lewis),50-71,50,71
-0021900934,2020-03-06,CHI,IND,27.9,3,8,6,CHI,IND,block,101,True,False,block,block,50-71,50,71
 0021900934,2020-03-06,CHI,IND,28.08,3,7,55,CHI,CHI,tov,39,False,False,Carter Jr. Step Out of Bounds Turnover (P2.T12),,50-71,50,71
 0021900934,2020-03-06,CHI,IND,28.08,3,7,55,IND,CHI,violation,1,False,False,BULLS Violation: Delay of game Violation,,50-71,50,71
 0021900934,2020-03-06,CHI,IND,28.32,3,7,41,IND,IND,fg_make,6,False,False,,Oladipo 2' Driving Layup (14 PTS),50-73,50,73
@@ -312,8 +312,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900934,2020-03-06,CHI,IND,32.83,3,3,10,CHI,CHI,fg_miss,72,False,False,MISS Young 1' Putback Layup,,65-79,65,79
 0021900934,2020-03-06,CHI,IND,32.88,3,3,7,CHI,CHI,reb,0,False,False,Gafford REBOUND (Off:2 Def:1),,65-79,65,79
 0021900934,2020-03-06,CHI,IND,32.88,3,3,7,CHI,CHI,fg_miss,72,True,False,MISS Gafford 1' Putback Layup,,65-79,65,79
-0021900934,2020-03-06,CHI,IND,32.88,3,3,7,IND,IND,reb,0,False,False,,Sampson REBOUND (Off:0 Def:3),65-79,65,79
 0021900934,2020-03-06,CHI,IND,32.88,3,3,7,CHI,IND,block,72,True,False,block,block,65-79,65,79
+0021900934,2020-03-06,CHI,IND,32.88,3,3,7,IND,IND,reb,0,False,False,,Sampson REBOUND (Off:0 Def:3),65-79,65,79
 0021900934,2020-03-06,CHI,IND,32.98,3,3,1,IND,IND,fg_miss,41,False,False,,MISS Holiday 2' Running Layup,65-79,65,79
 0021900934,2020-03-06,CHI,IND,33.05,3,2,57,IND,IND,reb,0,False,False,,Sampson REBOUND (Off:1 Def:3),65-79,65,79
 0021900934,2020-03-06,CHI,IND,33.05,3,2,57,IND,IND,fg_make,97,False,False,,Sampson 1' Tip Layup Shot (10 PTS),65-81,65,81
@@ -343,12 +343,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900934,2020-03-06,CHI,IND,35.9,3,0,6,CHI,CHI,tov,1,False,True,Carter Jr. Bad Pass Turnover (P4.T14),,72-89,72,89
 0021900934,2020-03-06,CHI,IND,35.9,3,0,6,CHI,IND,steal,1,False,True,steal,steal,72-89,72,89
 0021900934,2020-03-06,CHI,IND,36.0,3,0,0,IND,IND,fg_miss,6,True,False,,MISS Sumner 4' Driving Layup,72-89,72,89
+0021900934,2020-03-06,CHI,IND,36.0,3,0,0,IND,CHI,block,6,True,False,block,block,72-89,72,89
 0021900934,2020-03-06,CHI,IND,36.0,3,0,0,IND,IND,reb,0,False,False,,Sumner REBOUND (Off:1 Def:1),72-89,72,89
 0021900934,2020-03-06,CHI,IND,36.0,3,0,0,IND,IND,fg3_miss,1,False,False,,MISS Turner 27' 3PT Jump Shot,72-89,72,89
 0021900934,2020-03-06,CHI,IND,36.0,3,0,0,IND,IND,reb,0,False,False,,Pacers Rebound,72-89,72,89
 0021900934,2020-03-06,CHI,IND,36.0,3,0,0,IND,,period_end,0,False,False,,,72-89,72,89
 0021900934,2020-03-06,CHI,IND,36.0,4,12,0,IND,,period_start,0,False,False,,,72-89,72,89
-0021900934,2020-03-06,CHI,IND,36.0,3,0,0,IND,CHI,block,6,True,False,block,block,72-89,72,89
 0021900934,2020-03-06,CHI,IND,36.27,4,11,44,CHI,CHI,fg3_miss,1,False,False,MISS Markkanen 27' 3PT Jump Shot,,72-89,72,89
 0021900934,2020-03-06,CHI,IND,36.3,4,11,42,CHI,CHI,reb,0,False,False,Porter Jr. REBOUND (Off:3 Def:2),,72-89,72,89
 0021900934,2020-03-06,CHI,IND,36.35,4,11,39,CHI,CHI,fg_miss,1,False,False,MISS Porter Jr. Jump Shot,,72-89,72,89
@@ -394,8 +394,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900934,2020-03-06,CHI,IND,41.03,4,6,58,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 4 Short 0),,84-99,84,99
 0021900934,2020-03-06,CHI,IND,41.4,4,6,36,,CHI,jump_ball,0,False,False,Jump Ball Satoransky vs. McConnell: Tip to Young,,84-99,84,99
 0021900934,2020-03-06,CHI,IND,41.43,4,6,34,CHI,CHI,fg3_miss,1,False,False,MISS Young 25' 3PT Jump Shot,,84-99,84,99
-0021900934,2020-03-06,CHI,IND,41.53,4,6,28,CHI,CHI,fg_miss,97,False,False,MISS Satoransky 1' Tip Layup Shot,,84-99,84,99
 0021900934,2020-03-06,CHI,IND,41.53,4,6,28,CHI,CHI,reb,0,False,False,Satoransky REBOUND (Off:3 Def:3),,84-99,84,99
+0021900934,2020-03-06,CHI,IND,41.53,4,6,28,CHI,CHI,fg_miss,97,False,False,MISS Satoransky 1' Tip Layup Shot,,84-99,84,99
 0021900934,2020-03-06,CHI,IND,41.55,4,6,27,IND,IND,reb,0,False,False,,Turner REBOUND (Off:2 Def:5),84-99,84,99
 0021900934,2020-03-06,CHI,IND,41.73,4,6,16,IND,IND,fg3_miss,1,False,False,,MISS Oladipo 3PT Jump Shot,84-99,84,99
 0021900934,2020-03-06,CHI,IND,41.77,4,6,14,CHI,CHI,reb,0,False,False,Satoransky REBOUND (Off:3 Def:4),,84-99,84,99

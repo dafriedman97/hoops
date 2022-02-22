@@ -37,8 +37,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701118,2018-03-28,PHI,NYK,4.0,1,8,0,PHI,PHI,fg3_miss,1,False,False,MISS Redick 25' 3PT Jump Shot,,13-9,13,9
 0021701118,2018-03-28,PHI,NYK,4.05,1,7,57,NYK,NYK,reb,0,False,False,,Beasley REBOUND (Off:0 Def:1),13-9,13,9
 0021701118,2018-03-28,PHI,NYK,4.1,1,7,54,NYK,NYK,fg_miss,41,True,False,,MISS Hardaway Jr. 4' Running Layup,13-9,13,9
-0021701118,2018-03-28,PHI,NYK,4.1,1,7,54,PHI,PHI,reb,0,False,False,76ERS Rebound,,13-9,13,9
 0021701118,2018-03-28,PHI,NYK,4.1,1,7,54,NYK,PHI,block,41,True,False,block,block,13-9,13,9
+0021701118,2018-03-28,PHI,NYK,4.1,1,7,54,PHI,PHI,reb,0,False,False,76ERS Rebound,,13-9,13,9
 0021701118,2018-03-28,PHI,NYK,4.32,1,7,41,PHI,PHI,fg_make,1,False,False,Redick 17' Jump Shot (7 PTS) (Simmons 4 AST),,15-9,15,9
 0021701118,2018-03-28,PHI,NYK,4.47,1,7,32,NYK,NYK,timeout,1,False,False,,Knicks Timeout: Regular (Reg.1 Short 0),15-9,15,9
 0021701118,2018-03-28,PHI,NYK,4.75,1,7,15,NYK,NYK,fg3_make,1,False,False,,Hardaway Jr. 25' 3PT Jump Shot (3 PTS) (Kanter 1 AST),15-12,15,12
@@ -277,8 +277,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701118,2018-03-28,PHI,NYK,27.1,3,8,54,NYK,NYK,reb,0,False,False,,Burke REBOUND (Off:0 Def:1),74-69,74,69
 0021701118,2018-03-28,PHI,NYK,27.17,3,8,50,NYK,NYK,fg3_make,80,False,False,,Burke 3PT Step Back Jump Shot (15 PTS) (Hardaway Jr. 1 AST),74-72,74,72
 0021701118,2018-03-28,PHI,NYK,27.45,3,8,33,PHI,PHI,fg_miss,6,True,False,MISS Saric 2' Driving Layup,,74-72,74,72
-0021701118,2018-03-28,PHI,NYK,27.45,3,8,33,NYK,NYK,reb,0,False,False,,Knicks Rebound,74-72,74,72
 0021701118,2018-03-28,PHI,NYK,27.45,3,8,33,PHI,NYK,block,6,True,False,block,block,74-72,74,72
+0021701118,2018-03-28,PHI,NYK,27.45,3,8,33,NYK,NYK,reb,0,False,False,,Knicks Rebound,74-72,74,72
 0021701118,2018-03-28,PHI,NYK,27.63,3,8,22,NYK,NYK,fg_miss,63,False,False,,MISS Beasley 18' Fadeaway Jumper,74-72,74,72
 0021701118,2018-03-28,PHI,NYK,27.7,3,8,18,NYK,NYK,reb,0,False,False,,Hardaway Jr. REBOUND (Off:1 Def:1),74-72,74,72
 0021701118,2018-03-28,PHI,NYK,27.72,3,8,17,NYK,NYK,fg3_miss,1,False,False,,MISS Hardaway Jr. 25' 3PT Jump Shot,74-72,74,72
@@ -312,8 +312,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701118,2018-03-28,PHI,NYK,29.75,3,6,15,NYK,NYK,fg_miss,47,False,False,,MISS Beasley 9' Turnaround Jump Shot,81-72,81,72
 0021701118,2018-03-28,PHI,NYK,29.83,3,6,10,PHI,PHI,reb,0,False,False,McConnell REBOUND (Off:0 Def:1),,81-72,81,72
 0021701118,2018-03-28,PHI,NYK,29.97,3,6,2,PHI,PHI,fg_miss,47,True,False,MISS Saric 13' Turnaround Jump Shot,,81-72,81,72
-0021701118,2018-03-28,PHI,NYK,29.97,3,6,2,PHI,PHI,reb,0,False,False,76ERS Rebound,,81-72,81,72
 0021701118,2018-03-28,PHI,NYK,29.97,3,6,2,PHI,NYK,block,47,True,False,block,block,81-72,81,72
+0021701118,2018-03-28,PHI,NYK,29.97,3,6,2,PHI,PHI,reb,0,False,False,76ERS Rebound,,81-72,81,72
 0021701118,2018-03-28,PHI,NYK,30.07,3,5,56,PHI,NYK,foul,1,False,False,,Hardaway Jr. P.FOUL (P2.T4) (M.Davis),81-72,81,72
 0021701118,2018-03-28,PHI,NYK,30.25,3,5,45,PHI,PHI,fg_make,101,False,False,Simmons 13' Driving Floating Jump Shot (11 PTS),,83-72,83,72
 0021701118,2018-03-28,PHI,NYK,30.6,3,5,24,NYK,NYK,fg3_miss,1,False,False,,MISS Hardaway Jr. 25' 3PT Jump Shot,83-72,83,72
@@ -398,9 +398,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701118,2018-03-28,PHI,NYK,38.8,4,9,12,NYK,NYK,fg_make,41,False,False,,Mudiay 1' Running Layup (14 PTS),95-87,95,87
 0021701118,2018-03-28,PHI,NYK,38.82,4,9,11,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 4 Short 0),,95-87,95,87
 0021701118,2018-03-28,PHI,NYK,39.18,4,8,49,PHI,PHI,fg_miss,1,True,False,MISS Holmes 23' Jump Shot,,95-87,95,87
+0021701118,2018-03-28,PHI,NYK,39.18,4,8,49,PHI,NYK,block,1,True,False,block,block,95-87,95,87
 0021701118,2018-03-28,PHI,NYK,39.18,4,8,49,NYK,NYK,reb,0,False,False,,Knicks Rebound,95-87,95,87
 0021701118,2018-03-28,PHI,NYK,39.18,4,8,49,NYK,PHI,foul,3,False,False,Holmes L.B.FOUL (P3.T2) (M.Davis),,95-87,95,87
-0021701118,2018-03-28,PHI,NYK,39.18,4,8,49,PHI,NYK,block,1,True,False,block,block,95-87,95,87
 0021701118,2018-03-28,PHI,NYK,39.48,4,8,31,NYK,NYK,fg_miss,78,False,False,,MISS Mudiay 6' Floating Jump Shot,95-87,95,87
 0021701118,2018-03-28,PHI,NYK,39.53,4,8,28,PHI,PHI,reb,0,False,False,Covington REBOUND (Off:1 Def:3),,95-87,95,87
 0021701118,2018-03-28,PHI,NYK,39.67,4,8,20,PHI,PHI,fg_miss,3,False,False,MISS Covington 7' Hook Shot,,95-87,95,87
@@ -408,8 +408,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701118,2018-03-28,PHI,NYK,39.77,4,8,14,PHI,PHI,fg_miss,5,False,False,MISS Saric 3' Layup,,95-87,95,87
 0021701118,2018-03-28,PHI,NYK,39.82,4,8,11,NYK,NYK,reb,0,False,False,,Kanter REBOUND (Off:3 Def:11),95-87,95,87
 0021701118,2018-03-28,PHI,NYK,39.88,4,8,7,NYK,NYK,tov,2,False,True,,Ntilikina Lost Ball Turnover (P3.T14),95-87,95,87
-0021701118,2018-03-28,PHI,NYK,39.88,4,8,7,PHI,NYK,foul,1,False,False,,Kanter P.FOUL (P4.T2) (M.Davis),95-87,95,87
 0021701118,2018-03-28,PHI,NYK,39.88,4,8,7,NYK,PHI,steal,2,False,True,steal,steal,95-87,95,87
+0021701118,2018-03-28,PHI,NYK,39.88,4,8,7,PHI,NYK,foul,1,False,False,,Kanter P.FOUL (P4.T2) (M.Davis),95-87,95,87
 0021701118,2018-03-28,PHI,NYK,40.03,4,7,58,PHI,PHI,fg3_make,1,False,False,Saric 26' 3PT Jump Shot (20 PTS) (Simmons 9 AST),,98-87,98,87
 0021701118,2018-03-28,PHI,NYK,40.38,4,7,37,NYK,NYK,fg3_miss,1,False,False,,MISS Kornet 28' 3PT Jump Shot,98-87,98,87
 0021701118,2018-03-28,PHI,NYK,40.43,4,7,34,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:1 Def:5),,98-87,98,87

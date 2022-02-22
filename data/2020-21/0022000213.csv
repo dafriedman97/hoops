@@ -61,8 +61,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000213,2021-01-19,DEN,OKC,6.37,1,5,38,DEN,DEN,fg_make,47,False,False,Jokic 2' Turnaround Jump Shot (8 PTS) (Barton 2 AST),,18-15,18,15
 0022000213,2021-01-19,DEN,OKC,6.67,1,5,20,OKC,OKC,fg_make,98,False,False,,Dort 2' Cutting Layup Shot (7 PTS) (Roby 1 AST),18-17,18,17
 0022000213,2021-01-19,DEN,OKC,7.02,1,4,59,DEN,DEN,tov,2,False,True,Harris Lost Ball Turnover (P1.T3),,18-17,18,17
-0022000213,2021-01-19,DEN,OKC,7.02,1,4,59,OKC,DEN,foul,1,False,False,Harris P.FOUL (P1.T4) (T.Brothers),,18-17,18,17
 0022000213,2021-01-19,DEN,OKC,7.02,1,4,59,DEN,OKC,steal,2,False,True,steal,steal,18-17,18,17
+0022000213,2021-01-19,DEN,OKC,7.02,1,4,59,OKC,DEN,foul,1,False,False,Harris P.FOUL (P1.T4) (T.Brothers),,18-17,18,17
 0022000213,2021-01-19,DEN,OKC,7.37,1,4,38,OKC,DEN,foul,2,False,False,Jokic S.FOUL (P1.PN) (J.Goldenberg),,18-17,18,17
 0022000213,2021-01-19,DEN,OKC,7.37,1,4,38,OKC,OKC,ft_make,11,False,False,,Roby Free Throw 1 of 2 (4 PTS),18-18,18,18
 0022000213,2021-01-19,DEN,OKC,7.37,1,4,38,OKC,OKC,ft_make,12,False,False,,Roby Free Throw 2 of 2 (5 PTS),18-19,18,19
@@ -240,8 +240,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000213,2021-01-19,DEN,OKC,23.63,2,0,22,OKC,OKC,fg_miss,6,False,False,,MISS Gilgeous-Alexander 2' Driving Layup,63-52,63,52
 0022000213,2021-01-19,DEN,OKC,23.68,2,0,19,DEN,DEN,reb,0,False,False,Murray REBOUND (Off:0 Def:2),,63-52,63,52
 0022000213,2021-01-19,DEN,OKC,23.97,2,0,2,DEN,DEN,fg_miss,75,True,False,MISS Murray 3' Driving Finger Roll Layup,,63-52,63,52
-0022000213,2021-01-19,DEN,OKC,23.97,2,0,2,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:4 Def:4),,63-52,63,52
 0022000213,2021-01-19,DEN,OKC,23.97,2,0,2,DEN,OKC,block,75,True,False,block,block,63-52,63,52
+0022000213,2021-01-19,DEN,OKC,23.97,2,0,2,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:4 Def:4),,63-52,63,52
 0022000213,2021-01-19,DEN,OKC,24.0,2,0,0,DEN,DEN,fg_make,97,False,False,Jokic Tip Layup Shot (19 PTS),,65-52,65,52
 0022000213,2021-01-19,DEN,OKC,24.0,2,0,0,OKC,OKC,fg3_miss,1,False,False,,MISS Dort 42' 3PT Jump Shot,65-52,65,52
 0022000213,2021-01-19,DEN,OKC,24.0,2,0,0,OKC,OKC,reb,0,False,False,,Thunder Rebound,65-52,65,52
@@ -250,8 +250,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000213,2021-01-19,DEN,OKC,24.22,3,11,47,OKC,OKC,tov,1,False,True,,Gilgeous-Alexander Bad Pass Turnover (P3.T11),65-52,65,52
 0022000213,2021-01-19,DEN,OKC,24.22,3,11,47,OKC,DEN,steal,1,False,True,steal,steal,65-52,65,52
 0022000213,2021-01-19,DEN,OKC,24.37,3,11,38,DEN,DEN,fg_miss,6,False,False,MISS Jokic 7' Driving Layup,,65-52,65,52
-0022000213,2021-01-19,DEN,OKC,24.43,3,11,34,DEN,DEN,fg_make,97,False,False,Jokic Tip Layup Shot (21 PTS),,67-52,67,52
 0022000213,2021-01-19,DEN,OKC,24.43,3,11,34,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:5 Def:4),,67-52,67,52
+0022000213,2021-01-19,DEN,OKC,24.43,3,11,34,DEN,DEN,fg_make,97,False,False,Jokic Tip Layup Shot (21 PTS),,67-52,67,52
 0022000213,2021-01-19,DEN,OKC,24.75,3,11,15,OKC,OKC,tov,40,False,False,,Roby Out of Bounds Lost Ball Turnover (P3.T12),67-52,67,52
 0022000213,2021-01-19,DEN,OKC,25.1,3,10,54,DEN,DEN,fg3_miss,1,False,False,MISS Jokic 25' 3PT Jump Shot,,67-52,67,52
 0022000213,2021-01-19,DEN,OKC,25.12,3,10,53,OKC,OKC,reb,0,False,False,,Dort REBOUND (Off:0 Def:3),67-52,67,52
@@ -277,8 +277,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000213,2021-01-19,DEN,OKC,26.73,3,9,16,OKC,OKC,fg_miss,73,False,False,,MISS Roby 4' Driving Reverse Layup,70-54,70,54
 0022000213,2021-01-19,DEN,OKC,26.77,3,9,14,DEN,DEN,reb,0,False,False,Millsap REBOUND (Off:3 Def:7),,70-54,70,54
 0022000213,2021-01-19,DEN,OKC,26.82,3,9,11,DEN,DEN,fg_miss,74,True,False,MISS Harris 2' Running Reverse Layup,,70-54,70,54
-0022000213,2021-01-19,DEN,OKC,26.82,3,9,11,DEN,DEN,reb,0,False,False,Harris REBOUND (Off:2 Def:1),,70-54,70,54
 0022000213,2021-01-19,DEN,OKC,26.82,3,9,11,DEN,OKC,block,74,True,False,block,block,70-54,70,54
+0022000213,2021-01-19,DEN,OKC,26.82,3,9,11,DEN,DEN,reb,0,False,False,Harris REBOUND (Off:2 Def:1),,70-54,70,54
 0022000213,2021-01-19,DEN,OKC,26.9,3,9,6,DEN,DEN,fg3_miss,1,False,False,MISS Millsap 25' 3PT Jump Shot,,70-54,70,54
 0022000213,2021-01-19,DEN,OKC,26.92,3,9,5,OKC,OKC,reb,0,False,False,,Thunder Rebound,70-54,70,54
 0022000213,2021-01-19,DEN,OKC,27.13,3,8,52,OKC,OKC,fg_make,6,False,False,,Dort 3' Driving Layup (18 PTS),70-56,70,56
@@ -422,8 +422,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000213,2021-01-19,DEN,OKC,44.18,4,3,49,DEN,DEN,fg3_miss,80,False,False,MISS Campazzo 26' 3PT Step Back Jump Shot,,115-92,115,92
 0022000213,2021-01-19,DEN,OKC,44.23,4,3,46,OKC,OKC,reb,0,False,False,,Brown REBOUND (Off:0 Def:1),115-92,115,92
 0022000213,2021-01-19,DEN,OKC,44.32,4,3,41,OKC,OKC,tov,1,False,True,,Pokusevski Bad Pass Turnover (P3.T19),115-92,115,92
-0022000213,2021-01-19,DEN,OKC,44.32,4,3,41,DEN,OKC,foul,1,False,False,,Miller P.FOUL (P1.T4) (T.Brothers),115-92,115,92
 0022000213,2021-01-19,DEN,OKC,44.32,4,3,41,OKC,DEN,steal,1,False,True,steal,steal,115-92,115,92
+0022000213,2021-01-19,DEN,OKC,44.32,4,3,41,DEN,OKC,foul,1,False,False,,Miller P.FOUL (P1.T4) (T.Brothers),115-92,115,92
 0022000213,2021-01-19,DEN,OKC,44.43,4,3,34,DEN,DEN,fg3_miss,1,False,False,MISS Cancar 26' 3PT Jump Shot,,115-92,115,92
 0022000213,2021-01-19,DEN,OKC,44.48,4,3,31,OKC,OKC,reb,0,False,False,,Pokusevski REBOUND (Off:0 Def:3),115-92,115,92
 0022000213,2021-01-19,DEN,OKC,44.65,4,3,21,OKC,OKC,fg_make,101,False,False,,Jackson 6' Driving Floating Jump Shot (8 PTS),115-94,115,94

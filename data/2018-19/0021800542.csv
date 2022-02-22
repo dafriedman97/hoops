@@ -31,8 +31,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800542,2018-12-31,IND,ATL,4.42,1,7,35,ATL,ATL,fg3_make,1,False,False,,Huerter 29' 3PT Jump Shot (3 PTS) (Young 2 AST),11-15,11,15
 0021800542,2018-12-31,IND,ATL,4.62,1,7,23,IND,ATL,foul,1,False,False,,Young P.FOUL (P1.T1) (J.Van Duyne),11-15,11,15
 0021800542,2018-12-31,IND,ATL,4.78,1,7,13,IND,IND,fg_miss,6,True,False,MISS Bogdanovic Driving Layup,,11-15,11,15
-0021800542,2018-12-31,IND,ATL,4.78,1,7,13,IND,IND,reb,0,False,False,PACERS Rebound,,11-15,11,15
 0021800542,2018-12-31,IND,ATL,4.78,1,7,13,IND,ATL,block,6,True,False,block,block,11-15,11,15
+0021800542,2018-12-31,IND,ATL,4.78,1,7,13,IND,IND,reb,0,False,False,PACERS Rebound,,11-15,11,15
 0021800542,2018-12-31,IND,ATL,4.82,1,7,11,IND,IND,fg_miss,66,False,False,MISS Bogdanovic 15' Jump Bank Shot,,11-15,11,15
 0021800542,2018-12-31,IND,ATL,4.88,1,7,7,ATL,ATL,reb,0,False,False,,Poythress REBOUND (Off:0 Def:1),11-15,11,15
 0021800542,2018-12-31,IND,ATL,4.98,1,7,1,ATL,ATL,tov,1,False,True,,Huerter Bad Pass Turnover (P1.T2),11-15,11,15
@@ -120,9 +120,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800542,2018-12-31,IND,ATL,12.53,2,11,28,ATL,ATL,tov,45,False,False,,Young Out of Bounds - Bad Pass Turnover Turnover (P1.T5),33-25,33,25
 0021800542,2018-12-31,IND,ATL,12.72,2,11,17,IND,IND,fg_miss,5,False,False,MISS Young Layup,,33-25,33,25
 0021800542,2018-12-31,IND,ATL,12.73,2,11,16,ATL,ATL,reb,0,False,False,,Plumlee REBOUND (Off:0 Def:1),33-25,33,25
-0021800542,2018-12-31,IND,ATL,12.9,2,11,6,ATL,ATL,fg_make,6,False,False,,Dorsey 1' Driving Layup (2 PTS) (Plumlee 1 AST),33-27,33,27
 0021800542,2018-12-31,IND,ATL,12.9,2,11,6,ATL,IND,foul,2,False,False,Evans S.FOUL (P1.T1) (J.Williams),,33-27,33,27
 0021800542,2018-12-31,IND,ATL,12.9,2,11,6,ATL,ATL,ft_make,10,False,False,,Dorsey Free Throw 1 of 1 (3 PTS),33-28,33,28
+0021800542,2018-12-31,IND,ATL,12.9,2,11,6,ATL,ATL,fg_make,6,False,False,,Dorsey 1' Driving Layup (2 PTS) (Plumlee 1 AST),33-27,33,27
 0021800542,2018-12-31,IND,ATL,13.13,2,10,52,IND,IND,fg_miss,58,False,False,MISS Sabonis 4' Turnaround Hook Shot,,33-28,33,28
 0021800542,2018-12-31,IND,ATL,13.22,2,10,47,ATL,ATL,reb,0,False,False,,Dorsey REBOUND (Off:0 Def:1),33-28,33,28
 0021800542,2018-12-31,IND,ATL,13.27,2,10,44,ATL,ATL,fg_make,52,False,False,,Plumlee 2' Alley Oop Dunk (4 PTS) (Young 4 AST),33-30,33,30
@@ -262,8 +262,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800542,2018-12-31,IND,ATL,27.32,3,8,41,ATL,ATL,tov,2,False,True,,Len Lost Ball Turnover (P2.T8),72-66,72,66
 0021800542,2018-12-31,IND,ATL,27.32,3,8,41,ATL,IND,steal,2,False,True,steal,steal,72-66,72,66
 0021800542,2018-12-31,IND,ATL,27.37,3,8,38,IND,IND,tov,1,False,True,Bogdanovic Bad Pass Turnover (P3.T6),,72-66,72,66
-0021800542,2018-12-31,IND,ATL,27.37,3,8,38,ATL,IND,foul,28,False,False,Oladipo Personal Take Foul (P1.T3) (J.Williams),,72-66,72,66
 0021800542,2018-12-31,IND,ATL,27.37,3,8,38,IND,ATL,steal,1,False,True,steal,steal,72-66,72,66
+0021800542,2018-12-31,IND,ATL,27.37,3,8,38,ATL,IND,foul,28,False,False,Oladipo Personal Take Foul (P1.T3) (J.Williams),,72-66,72,66
 0021800542,2018-12-31,IND,ATL,27.62,3,8,23,ATL,ATL,tov,1,False,True,,Young Bad Pass Turnover (P4.T9),72-66,72,66
 0021800542,2018-12-31,IND,ATL,27.62,3,8,23,ATL,IND,steal,1,False,True,steal,steal,72-66,72,66
 0021800542,2018-12-31,IND,ATL,27.65,3,8,21,IND,ATL,foul,2,False,False,,Huerter S.FOUL (P2.T1) (S.Twardoski),72-66,72,66
@@ -380,8 +380,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800542,2018-12-31,IND,ATL,39.98,4,8,1,IND,IND,fg_miss,6,False,False,MISS Sabonis 2' Driving Layup,,105-92,105,92
 0021800542,2018-12-31,IND,ATL,40.02,4,7,59,ATL,ATL,reb,0,False,False,,Collins REBOUND (Off:6 Def:7),105-92,105,92
 0021800542,2018-12-31,IND,ATL,40.12,4,7,53,ATL,ATL,fg_miss,5,True,False,,MISS Len 1' Layup,105-92,105,92
-0021800542,2018-12-31,IND,ATL,40.12,4,7,53,ATL,ATL,reb,0,False,False,,Hawks Rebound,105-92,105,92
 0021800542,2018-12-31,IND,ATL,40.12,4,7,53,ATL,IND,block,5,True,False,block,block,105-92,105,92
+0021800542,2018-12-31,IND,ATL,40.12,4,7,53,ATL,ATL,reb,0,False,False,,Hawks Rebound,105-92,105,92
 0021800542,2018-12-31,IND,ATL,40.17,4,7,50,ATL,ATL,fg_miss,71,False,False,,MISS Len 2' Finger Roll Layup,105-92,105,92
 0021800542,2018-12-31,IND,ATL,40.2,4,7,48,ATL,ATL,reb,0,False,False,,Len REBOUND (Off:5 Def:2),105-92,105,92
 0021800542,2018-12-31,IND,ATL,40.2,4,7,48,ATL,ATL,fg_make,97,False,False,,Len 1' Tip Layup Shot (19 PTS),105-94,105,94
@@ -432,8 +432,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800542,2018-12-31,IND,ATL,44.62,4,3,23,ATL,ATL,reb,0,False,False,,Hawks Rebound,110-103,110,103
 0021800542,2018-12-31,IND,ATL,44.62,4,3,23,ATL,ATL,timeout,1,False,False,,Hawks Timeout: Regular (Reg.5 Short 0),110-103,110,103
 0021800542,2018-12-31,IND,ATL,45.0,4,3,0,ATL,ATL,tov,1,False,True,,Bembry Bad Pass Turnover (P1.T15),110-103,110,103
-0021800542,2018-12-31,IND,ATL,45.0,4,3,0,IND,ATL,foul,28,False,False,,Collins Personal Take Foul (P3.T4) (J.Van Duyne),110-103,110,103
 0021800542,2018-12-31,IND,ATL,45.0,4,3,0,ATL,IND,steal,1,False,True,steal,steal,110-103,110,103
+0021800542,2018-12-31,IND,ATL,45.0,4,3,0,IND,ATL,foul,28,False,False,,Collins Personal Take Foul (P3.T4) (J.Van Duyne),110-103,110,103
 0021800542,2018-12-31,IND,ATL,45.27,4,2,44,IND,IND,fg_make,71,False,False,Young 3' Finger Roll Layup (6 PTS) (Collison 6 AST),,112-103,112,103
 0021800542,2018-12-31,IND,ATL,45.45,4,2,33,ATL,ATL,tov,2,False,True,,Young Lost Ball Turnover (P8.T16),112-103,112,103
 0021800542,2018-12-31,IND,ATL,45.45,4,2,33,ATL,IND,steal,2,False,True,steal,steal,112-103,112,103

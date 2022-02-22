@@ -36,8 +36,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800043,2018-10-22,MIN,IND,4.43,1,7,34,MIN,MIN,fg_miss,1,False,False,MISS Wiggins 15' Jump Shot,,14-7,14,7
 0021800043,2018-10-22,MIN,IND,4.45,1,7,33,IND,IND,reb,0,False,False,,Bogdanovic REBOUND (Off:0 Def:1),14-7,14,7
 0021800043,2018-10-22,MIN,IND,4.58,1,7,25,IND,IND,fg_miss,1,True,False,,MISS Bogdanovic 13' Jump Shot,14-7,14,7
-0021800043,2018-10-22,MIN,IND,4.58,1,7,25,IND,IND,reb,0,False,False,,Pacers Rebound,14-7,14,7
 0021800043,2018-10-22,MIN,IND,4.58,1,7,25,IND,MIN,block,1,True,False,block,block,14-7,14,7
+0021800043,2018-10-22,MIN,IND,4.58,1,7,25,IND,IND,reb,0,False,False,,Pacers Rebound,14-7,14,7
 0021800043,2018-10-22,MIN,IND,4.72,1,7,17,IND,IND,fg_make,80,False,False,,Oladipo 14' Step Back Jump Shot (6 PTS),14-9,14,9
 0021800043,2018-10-22,MIN,IND,4.95,1,7,3,MIN,MIN,tov,2,False,True,Towns Lost Ball Turnover (P1.T1),,14-9,14,9
 0021800043,2018-10-22,MIN,IND,4.95,1,7,3,MIN,IND,steal,2,False,True,steal,steal,14-9,14,9
@@ -110,8 +110,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800043,2018-10-22,MIN,IND,10.65,1,1,21,IND,MIN,block,6,True,False,block,block,21-26,21,26
 0021800043,2018-10-22,MIN,IND,10.72,1,1,17,MIN,MIN,reb,0,False,False,Dieng REBOUND (Off:0 Def:1),,21-26,21,26
 0021800043,2018-10-22,MIN,IND,10.77,1,1,14,MIN,MIN,fg_miss,5,True,False,MISS Okogie 3' Layup,,21-26,21,26
-0021800043,2018-10-22,MIN,IND,10.77,1,1,14,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,21-26,21,26
 0021800043,2018-10-22,MIN,IND,10.77,1,1,14,MIN,IND,block,5,True,False,block,block,21-26,21,26
+0021800043,2018-10-22,MIN,IND,10.77,1,1,14,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,21-26,21,26
 0021800043,2018-10-22,MIN,IND,10.8,1,1,12,MIN,MIN,fg_make,1,False,False,Dieng 16' Jump Shot (3 PTS) (Jones 1 AST),,23-26,23,26
 0021800043,2018-10-22,MIN,IND,11.03,1,0,58,IND,IND,fg_miss,58,False,False,,MISS Sabonis 8' Turnaround Hook Shot,23-26,23,26
 0021800043,2018-10-22,MIN,IND,11.03,1,0,58,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,23-26,23,26
@@ -234,8 +234,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800043,2018-10-22,MIN,IND,24.0,3,12,0,IND,,period_start,0,False,False,,,50-49,50,49
 0021800043,2018-10-22,MIN,IND,24.32,3,11,41,IND,IND,fg_make,1,False,False,,Turner 21' Jump Shot (12 PTS) (Collison 3 AST),50-51,50,51
 0021800043,2018-10-22,MIN,IND,24.67,3,11,20,MIN,MIN,fg_miss,6,True,False,MISS Gibson 5' Driving Layup,,50-51,50,51
-0021800043,2018-10-22,MIN,IND,24.67,3,11,20,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,50-51,50,51
 0021800043,2018-10-22,MIN,IND,24.67,3,11,20,MIN,IND,block,6,True,False,block,block,50-51,50,51
+0021800043,2018-10-22,MIN,IND,24.67,3,11,20,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,50-51,50,51
 0021800043,2018-10-22,MIN,IND,24.72,3,11,17,MIN,MIN,fg3_miss,1,False,False,MISS Okogie 3PT Jump Shot,,50-51,50,51
 0021800043,2018-10-22,MIN,IND,24.75,3,11,15,MIN,MIN,reb,0,False,False,Gibson REBOUND (Off:1 Def:3),,50-51,50,51
 0021800043,2018-10-22,MIN,IND,24.77,3,11,14,MIN,MIN,fg_make,3,False,False,Gibson 6' Hook Shot (11 PTS),,52-51,52,51
@@ -261,8 +261,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800043,2018-10-22,MIN,IND,26.72,3,9,17,MIN,MIN,tov,2,False,True,Butler Lost Ball Turnover (P1.T7),,54-56,54,56
 0021800043,2018-10-22,MIN,IND,26.72,3,9,17,MIN,IND,steal,2,False,True,steal,steal,54-56,54,56
 0021800043,2018-10-22,MIN,IND,27.0,3,9,0,IND,IND,fg_miss,6,True,False,,MISS Oladipo 2' Driving Layup,54-56,54,56
-0021800043,2018-10-22,MIN,IND,27.0,3,9,0,MIN,MIN,reb,0,False,False,Towns REBOUND (Off:1 Def:7),,54-56,54,56
 0021800043,2018-10-22,MIN,IND,27.0,3,9,0,IND,MIN,block,6,True,False,block,block,54-56,54,56
+0021800043,2018-10-22,MIN,IND,27.0,3,9,0,MIN,MIN,reb,0,False,False,Towns REBOUND (Off:1 Def:7),,54-56,54,56
 0021800043,2018-10-22,MIN,IND,27.17,3,8,50,MIN,MIN,fg_make,108,False,False,Towns 1' Cutting Dunk Shot (13 PTS) (Teague 8 AST),,56-56,56,56
 0021800043,2018-10-22,MIN,IND,27.42,3,8,35,IND,MIN,foul,2,False,False,Teague S.FOUL (P2.T1) (A.Moyer-Gleich),,56-56,56,56
 0021800043,2018-10-22,MIN,IND,27.42,3,8,35,IND,IND,ft_make,11,False,False,,Collison Free Throw 1 of 2 (2 PTS),56-57,56,57
@@ -436,8 +436,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800043,2018-10-22,MIN,IND,46.5,4,1,30,IND,IND,tov,2,False,True,,Oladipo Lost Ball Turnover (P3.T15),101-91,101,91
 0021800043,2018-10-22,MIN,IND,46.5,4,1,30,IND,MIN,steal,2,False,True,steal,steal,101-91,101,91
 0021800043,2018-10-22,MIN,IND,46.52,4,1,29,MIN,MIN,fg_miss,6,True,False,MISS Butler 1' Driving Layup,,101-91,101,91
-0021800043,2018-10-22,MIN,IND,46.52,4,1,29,IND,IND,reb,0,False,False,,Pacers Rebound,101-91,101,91
 0021800043,2018-10-22,MIN,IND,46.52,4,1,29,MIN,IND,block,6,True,False,block,block,101-91,101,91
+0021800043,2018-10-22,MIN,IND,46.52,4,1,29,IND,IND,reb,0,False,False,,Pacers Rebound,101-91,101,91
 0021800043,2018-10-22,MIN,IND,46.67,4,1,20,IND,MIN,foul,2,False,False,Towns S.FOUL (P4.T4) (C.Kirkland),,101-91,101,91
 0021800043,2018-10-22,MIN,IND,46.67,4,1,20,IND,IND,ft_miss,11,False,False,,MISS Oladipo Free Throw 1 of 2,101-91,101,91
 0021800043,2018-10-22,MIN,IND,46.67,4,1,20,IND,IND,reb,1,False,False,,Pacers Rebound,101-91,101,91

@@ -4,12 +4,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700583,2018-01-06,WAS,MIL,0.4,1,11,36,WAS,WAS,fg_miss,79,False,False,MISS Wall 16' Pullup Jump Shot,,0-0,0,0
 0021700583,2018-01-06,WAS,MIL,0.47,1,11,32,MIL,MIL,reb,0,False,False,,Brogdon REBOUND (Off:0 Def:1),0-0,0,0
 0021700583,2018-01-06,WAS,MIL,0.55,1,11,27,MIL,MIL,fg_miss,44,True,False,,MISS Henson 5' Reverse Layup,0-0,0,0
-0021700583,2018-01-06,WAS,MIL,0.55,1,11,27,WAS,WAS,reb,0,False,False,Morris REBOUND (Off:0 Def:1),,0-0,0,0
 0021700583,2018-01-06,WAS,MIL,0.55,1,11,27,MIL,WAS,block,44,True,False,block,block,0-0,0,0
+0021700583,2018-01-06,WAS,MIL,0.55,1,11,27,WAS,WAS,reb,0,False,False,Morris REBOUND (Off:0 Def:1),,0-0,0,0
 0021700583,2018-01-06,WAS,MIL,0.77,1,11,14,WAS,WAS,fg_make,79,False,False,Morris 16' Pullup Jump Shot (2 PTS) (Wall 1 AST),,2-0,2,0
 0021700583,2018-01-06,WAS,MIL,0.98,1,11,1,MIL,MIL,fg_miss,1,True,False,,MISS Brogdon 4' Jump Shot,2-0,2,0
-0021700583,2018-01-06,WAS,MIL,0.98,1,11,1,WAS,WAS,reb,0,False,False,Beal REBOUND (Off:0 Def:1),,2-0,2,0
 0021700583,2018-01-06,WAS,MIL,0.98,1,11,1,MIL,WAS,block,1,True,False,block,block,2-0,2,0
+0021700583,2018-01-06,WAS,MIL,0.98,1,11,1,WAS,WAS,reb,0,False,False,Beal REBOUND (Off:0 Def:1),,2-0,2,0
 0021700583,2018-01-06,WAS,MIL,1.1,1,10,54,WAS,WAS,fg3_make,1,False,False,Oubre Jr. 3PT Jump Shot (3 PTS) (Wall 2 AST),,5-0,5,0
 0021700583,2018-01-06,WAS,MIL,1.38,1,10,37,MIL,MIL,fg3_miss,1,False,False,,MISS Brogdon 3PT Jump Shot,5-0,5,0
 0021700583,2018-01-06,WAS,MIL,1.43,1,10,34,WAS,WAS,reb,0,False,False,Wall REBOUND (Off:0 Def:1),,5-0,5,0
@@ -100,9 +100,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700583,2018-01-06,WAS,MIL,12.0,1,0,0,MIL,,period_end,0,False,False,,,32-24,32,24
 0021700583,2018-01-06,WAS,MIL,12.0,2,12,0,MIL,,period_start,0,False,False,,,32-24,32,24
 0021700583,2018-01-06,WAS,MIL,12.4,2,11,36,MIL,MIL,fg_miss,1,True,False,,MISS Maker 16' Jump Shot,32-24,32,24
+0021700583,2018-01-06,WAS,MIL,12.4,2,11,36,MIL,WAS,block,1,True,False,block,block,32-24,32,24
 0021700583,2018-01-06,WAS,MIL,12.4,2,11,36,MIL,MIL,reb,0,False,False,,Bucks Rebound,32-24,32,24
 0021700583,2018-01-06,WAS,MIL,12.4,2,11,36,MIL,MIL,tov,11,False,False,,Bucks Turnover: Shot Clock (T#4),32-24,32,24
-0021700583,2018-01-06,WAS,MIL,12.4,2,11,36,MIL,WAS,block,1,True,False,block,block,32-24,32,24
 0021700583,2018-01-06,WAS,MIL,12.72,2,11,17,WAS,WAS,tov,1,False,True,Mahinmi Bad Pass Turnover (P1.T5),,32-24,32,24
 0021700583,2018-01-06,WAS,MIL,12.72,2,11,17,WAS,MIL,steal,1,False,True,steal,steal,32-24,32,24
 0021700583,2018-01-06,WAS,MIL,12.78,2,11,13,MIL,MIL,fg_make,6,False,False,,Brogdon 2' Driving Layup (4 PTS),32-26,32,26
@@ -365,10 +365,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700583,2018-01-06,WAS,MIL,40.58,4,7,25,WAS,WAS,reb,0,False,False,Mahinmi REBOUND (Off:0 Def:5),,90-92,90,92
 0021700583,2018-01-06,WAS,MIL,40.6,4,7,24,WAS,MIL,foul,15,False,False,,Dellavedova FLAGRANT.FOUL.TYPE2 (P4.T3) (R.Mott),90-92,90,92
 0021700583,2018-01-06,WAS,MIL,40.6,4,7,24,WAS,MIL,ejection,4,False,False,,Dellavedova Ejection:Other,90-92,90,92
-0021700583,2018-01-06,WAS,MIL,40.6,4,7,24,WAS,WAS,ft_miss,19,False,False,MISS Beal Free Throw Flagrant 2 of 2,,90-92,90,92
-0021700583,2018-01-06,WAS,MIL,40.6,4,7,24,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,90-92,90,92
 0021700583,2018-01-06,WAS,MIL,40.6,4,7,24,WAS,WAS,ft_miss,18,False,False,MISS Beal Free Throw Flagrant 1 of 2,,90-92,90,92
 0021700583,2018-01-06,WAS,MIL,40.6,4,7,24,WAS,WAS,reb,1,False,False,WIZARDS Rebound,,90-92,90,92
+0021700583,2018-01-06,WAS,MIL,40.6,4,7,24,WAS,WAS,ft_miss,19,False,False,MISS Beal Free Throw Flagrant 2 of 2,,90-92,90,92
+0021700583,2018-01-06,WAS,MIL,40.6,4,7,24,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,90-92,90,92
 0021700583,2018-01-06,WAS,MIL,40.73,4,7,16,WAS,WAS,fg_miss,6,False,False,MISS Beal 5' Driving Layup,,90-92,90,92
 0021700583,2018-01-06,WAS,MIL,40.73,4,7,16,MIL,MIL,reb,0,False,False,,Bucks Rebound,90-92,90,92
 0021700583,2018-01-06,WAS,MIL,41.08,4,6,55,MIL,MIL,fg_miss,79,False,False,,MISS Middleton 18' Pullup Jump Shot,90-92,90,92

@@ -53,9 +53,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000987,2021-05-04,NOP,GSW,4.68,1,7,19,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:0 Def:3),10-12,10,12
 0022000987,2021-05-04,NOP,GSW,4.92,1,7,5,GSW,GSW,fg3_make,1,False,False,,Curry 3PT Jump Shot (3 PTS) (Green 2 AST),10-15,10,15
 0022000987,2021-05-04,NOP,GSW,5.25,1,6,45,NOP,NOP,fg_miss,5,True,False,MISS Williamson 4' Layup,,10-15,10,15
+0022000987,2021-05-04,NOP,GSW,5.25,1,6,45,NOP,GSW,block,5,True,False,block,block,10-15,10,15
 0022000987,2021-05-04,NOP,GSW,5.25,1,6,45,NOP,NOP,reb,0,False,False,PELICANS Rebound,,10-15,10,15
 0022000987,2021-05-04,NOP,GSW,5.25,1,6,45,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 1 Short 0),,10-15,10,15
-0022000987,2021-05-04,NOP,GSW,5.25,1,6,45,NOP,GSW,block,5,True,False,block,block,10-15,10,15
 0022000987,2021-05-04,NOP,GSW,5.35,1,6,39,NOP,NOP,fg3_make,1,False,False,Ball 25' 3PT Jump Shot (6 PTS) (Williamson 1 AST),,13-15,13,15
 0022000987,2021-05-04,NOP,GSW,5.58,1,6,25,GSW,GSW,fg3_miss,1,False,False,,MISS Bazemore 24' 3PT Jump Shot,13-15,13,15
 0022000987,2021-05-04,NOP,GSW,5.65,1,6,21,NOP,NOP,reb,0,False,False,Bledsoe REBOUND (Off:0 Def:1),,13-15,13,15
@@ -164,8 +164,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000987,2021-05-04,NOP,GSW,16.8,2,7,12,NOP,NOP,fg_miss,5,False,False,MISS Lewis Jr. 2' Layup,,39-42,39,42
 0022000987,2021-05-04,NOP,GSW,16.9,2,7,6,NOP,NOP,reb,0,False,False,Hayes REBOUND (Off:1 Def:3),,39-42,39,42
 0022000987,2021-05-04,NOP,GSW,16.9,2,7,6,NOP,NOP,fg_miss,72,True,False,MISS Hayes Putback Layup,,39-42,39,42
-0022000987,2021-05-04,NOP,GSW,16.9,2,7,6,GSW,GSW,reb,0,False,False,,Wiggins REBOUND (Off:0 Def:2),39-42,39,42
 0022000987,2021-05-04,NOP,GSW,16.9,2,7,6,NOP,GSW,block,72,True,False,block,block,39-42,39,42
+0022000987,2021-05-04,NOP,GSW,16.9,2,7,6,GSW,GSW,reb,0,False,False,,Wiggins REBOUND (Off:0 Def:2),39-42,39,42
 0022000987,2021-05-04,NOP,GSW,16.9,2,7,6,GSW,GSW,fg_make,5,False,False,,Wiggins 2' Layup (10 PTS),39-44,39,44
 0022000987,2021-05-04,NOP,GSW,16.9,2,7,6,GSW,NOP,foul,2,False,False,Nunnally S.FOUL (P1.T4) (J.Schroeder),,39-44,39,44
 0022000987,2021-05-04,NOP,GSW,16.9,2,7,6,GSW,GSW,ft_make,10,False,False,,Wiggins Free Throw 1 of 1 (11 PTS),39-45,39,45
@@ -180,8 +180,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000987,2021-05-04,NOP,GSW,18.05,2,5,57,NOP,NOP,fg_make,5,False,False,Marshall 6' Layup (4 PTS),,43-45,43,45
 0022000987,2021-05-04,NOP,GSW,18.43,2,5,34,GSW,GSW,fg_make,105,False,False,,Wiggins 8' Turnaround Fadeaway Bank Jump Shot (13 PTS) (Green 4 AST),43-47,43,47
 0022000987,2021-05-04,NOP,GSW,18.67,2,5,20,NOP,NOP,fg_miss,6,True,False,MISS Lewis Jr. 2' Driving Layup,,43-47,43,47
-0022000987,2021-05-04,NOP,GSW,18.67,2,5,20,GSW,GSW,reb,0,False,False,,Warriors Rebound,43-47,43,47
 0022000987,2021-05-04,NOP,GSW,18.67,2,5,20,NOP,GSW,block,6,True,False,block,block,43-47,43,47
+0022000987,2021-05-04,NOP,GSW,18.67,2,5,20,GSW,GSW,reb,0,False,False,,Warriors Rebound,43-47,43,47
 0022000987,2021-05-04,NOP,GSW,18.9,2,5,6,GSW,GSW,fg3_make,1,False,False,,Poole 26' 3PT Jump Shot (7 PTS) (Toscano-Anderson 2 AST),43-50,43,50
 0022000987,2021-05-04,NOP,GSW,19.02,2,4,59,NOP,GSW,foul,1,False,False,,Poole P.FOUL (P2.T2) (G.Petraitis),43-50,43,50
 0022000987,2021-05-04,NOP,GSW,19.2,2,4,48,NOP,NOP,fg_make,6,False,False,Ball 1' Driving Layup (13 PTS),,45-50,45,50

@@ -62,11 +62,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800685,2019-01-19,CHI,MIA,5.37,1,6,38,MIA,MIA,fg_miss,5,False,False,,MISS Winslow 1' Layup,12-13,12,13
 0021800685,2019-01-19,CHI,MIA,5.53,1,6,28,CHI,CHI,reb,0,False,False,LaVine REBOUND (Off:0 Def:1),,12-13,12,13
 0021800685,2019-01-19,CHI,MIA,5.53,1,6,28,CHI,CHI,tov,1,False,True,LaVine Bad Pass Turnover (P1.T1),,12-13,12,13
-0021800685,2019-01-19,CHI,MIA,5.53,1,6,28,MIA,CHI,foul,1,False,False,LaVine P.FOUL (P2.PN) (J.Williams),,12-13,12,13
-0021800685,2019-01-19,CHI,MIA,5.53,1,6,28,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 1 Short 0),,12-13,12,13
 0021800685,2019-01-19,CHI,MIA,5.53,1,6,28,CHI,MIA,steal,1,False,True,steal,steal,12-13,12,13
+0021800685,2019-01-19,CHI,MIA,5.53,1,6,28,MIA,CHI,foul,1,False,False,LaVine P.FOUL (P2.PN) (J.Williams),,12-13,12,13
 0021800685,2019-01-19,CHI,MIA,5.53,1,6,28,CHI,MIA,ft_make,11,False,False,,Johnson Free Throw 1 of 2 (4 PTS),12-14,12,14
 0021800685,2019-01-19,CHI,MIA,5.53,1,6,28,CHI,MIA,ft_make,12,False,False,,Johnson Free Throw 2 of 2 (5 PTS),12-15,12,15
+0021800685,2019-01-19,CHI,MIA,5.53,1,6,28,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 1 Short 0),,12-13,12,13
 0021800685,2019-01-19,CHI,MIA,5.85,1,6,9,CHI,CHI,fg_miss,6,False,False,MISS Markkanen 1' Driving Layup,,12-15,12,15
 0021800685,2019-01-19,CHI,MIA,5.85,1,6,9,MIA,MIA,reb,0,False,False,,Whiteside REBOUND (Off:3 Def:1),12-15,12,15
 0021800685,2019-01-19,CHI,MIA,6.02,1,5,59,MIA,MIA,fg_make,1,False,False,,Richardson 7' Jump Shot (7 PTS),12-17,12,17
@@ -238,8 +238,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800685,2019-01-19,CHI,MIA,21.65,2,2,21,CHI,CHI,ft_make,12,False,False,LaVine Free Throw 2 of 2 (12 PTS),,57-50,57,50
 0021800685,2019-01-19,CHI,MIA,21.88,2,2,7,MIA,MIA,fg3_make,1,False,False,,Waiters 26' 3PT Jump Shot (13 PTS) (Winslow 3 AST),57-53,57,53
 0021800685,2019-01-19,CHI,MIA,22.2,2,1,48,CHI,CHI,fg_miss,6,True,False,MISS LaVine 2' Driving Layup,,57-53,57,53
-0021800685,2019-01-19,CHI,MIA,22.2,2,1,48,CHI,CHI,reb,0,False,False,BULLS Rebound,,57-53,57,53
 0021800685,2019-01-19,CHI,MIA,22.2,2,1,48,CHI,MIA,block,6,True,False,block,block,57-53,57,53
+0021800685,2019-01-19,CHI,MIA,22.2,2,1,48,CHI,CHI,reb,0,False,False,BULLS Rebound,,57-53,57,53
 0021800685,2019-01-19,CHI,MIA,22.32,2,1,41,CHI,CHI,fg_miss,3,False,False,MISS Dunn 5' Hook Shot,,57-53,57,53
 0021800685,2019-01-19,CHI,MIA,22.35,2,1,39,CHI,CHI,reb,0,False,False,Lopez REBOUND (Off:2 Def:1),,57-53,57,53
 0021800685,2019-01-19,CHI,MIA,22.42,2,1,35,CHI,CHI,fg3_miss,1,False,False,MISS Selden 26' 3PT Jump Shot,,57-53,57,53
@@ -390,8 +390,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800685,2019-01-19,CHI,MIA,40.75,4,7,15,MIA,MIA,reb,0,False,False,,Wade REBOUND (Off:3 Def:5),88-97,88,97
 0021800685,2019-01-19,CHI,MIA,40.95,4,7,3,MIA,MIA,fg3_make,1,False,False,,Johnson 3PT Jump Shot (8 PTS) (Jones Jr. 1 AST),88-100,88,100
 0021800685,2019-01-19,CHI,MIA,41.23,4,6,46,CHI,CHI,tov,2,False,True,Parker Lost Ball Turnover (P2.T13),,88-100,88,100
-0021800685,2019-01-19,CHI,MIA,41.23,4,6,46,MIA,CHI,foul,1,False,False,Parker P.FOUL (P3.T1) (J.Williams),,88-100,88,100
 0021800685,2019-01-19,CHI,MIA,41.23,4,6,46,CHI,MIA,steal,2,False,True,steal,steal,88-100,88,100
+0021800685,2019-01-19,CHI,MIA,41.23,4,6,46,MIA,CHI,foul,1,False,False,Parker P.FOUL (P3.T1) (J.Williams),,88-100,88,100
 0021800685,2019-01-19,CHI,MIA,41.47,4,6,32,MIA,MIA,fg3_make,1,False,False,,Waiters 26' 3PT Jump Shot (16 PTS) (Adebayo 2 AST),88-103,88,103
 0021800685,2019-01-19,CHI,MIA,41.73,4,6,16,CHI,CHI,fg3_miss,1,False,False,MISS Markkanen 26' 3PT Jump Shot,,88-103,88,103
 0021800685,2019-01-19,CHI,MIA,41.8,4,6,12,MIA,MIA,reb,0,False,False,,Wade REBOUND (Off:3 Def:6),88-103,88,103

@@ -95,12 +95,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000131,2021-01-08,LAL,CHI,12.68,2,11,19,LAL,LAL,fg_miss,79,False,False,MISS James 18' Pullup Jump Shot,,28-33,28,33
 0022000131,2021-01-08,LAL,CHI,12.72,2,11,17,CHI,CHI,reb,0,False,False,,Williams REBOUND (Off:2 Def:2),28-33,28,33
 0022000131,2021-01-08,LAL,CHI,12.83,2,11,10,CHI,CHI,tov,1,False,True,,White Bad Pass Turnover (P2.T4),28-33,28,33
-0022000131,2021-01-08,LAL,CHI,12.83,2,11,10,LAL,CHI,foul,28,False,False,,Young Personal Take Foul (P1.T1) (Z.Zarba),28-33,28,33
 0022000131,2021-01-08,LAL,CHI,12.83,2,11,10,CHI,LAL,steal,1,False,True,steal,steal,28-33,28,33
+0022000131,2021-01-08,LAL,CHI,12.83,2,11,10,LAL,CHI,foul,28,False,False,,Young Personal Take Foul (P1.T1) (Z.Zarba),28-33,28,33
 0022000131,2021-01-08,LAL,CHI,13.03,2,10,58,LAL,LAL,fg_miss,78,False,False,MISS Kuzma 9' Floating Jump Shot,,28-33,28,33
+0022000131,2021-01-08,LAL,CHI,13.12,2,10,53,LAL,LAL,reb,0,False,False,Harrell REBOUND (Off:2 Def:0),,28-33,28,33
 0022000131,2021-01-08,LAL,CHI,13.12,2,10,53,LAL,LAL,fg_miss,97,False,False,MISS Harrell Tip Layup Shot,,28-33,28,33
 0022000131,2021-01-08,LAL,CHI,13.12,2,10,53,CHI,CHI,reb,0,False,False,,Valentine REBOUND (Off:0 Def:1),28-33,28,33
-0022000131,2021-01-08,LAL,CHI,13.12,2,10,53,LAL,LAL,reb,0,False,False,Harrell REBOUND (Off:2 Def:0),,28-33,28,33
 0022000131,2021-01-08,LAL,CHI,13.17,2,10,50,CHI,CHI,fg_make,74,False,False,,White 1' Running Reverse Layup (2 PTS),28-35,28,35
 0022000131,2021-01-08,LAL,CHI,13.45,2,10,33,LAL,LAL,fg3_make,1,False,False,Kuzma 25' 3PT Jump Shot (3 PTS) (Caruso 2 AST),,31-35,31,35
 0022000131,2021-01-08,LAL,CHI,13.7,2,10,18,CHI,CHI,fg_make,1,False,False,,White 18' Jump Shot (4 PTS) (Gafford 2 AST),31-37,31,37
@@ -155,8 +155,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000131,2021-01-08,LAL,CHI,18.63,2,5,22,CHI,LAL,block,98,True,False,block,block,43-47,43,47
 0022000131,2021-01-08,LAL,CHI,18.67,2,5,20,CHI,CHI,reb,0,False,False,,Carter Jr. REBOUND (Off:3 Def:1),43-47,43,47
 0022000131,2021-01-08,LAL,CHI,18.67,2,5,20,CHI,CHI,fg_miss,72,True,False,,MISS Carter Jr. 3' Putback Layup,43-47,43,47
-0022000131,2021-01-08,LAL,CHI,18.67,2,5,20,CHI,CHI,reb,0,False,False,,Bulls Rebound,43-47,43,47
 0022000131,2021-01-08,LAL,CHI,18.67,2,5,20,CHI,LAL,block,72,True,False,block,block,43-47,43,47
+0022000131,2021-01-08,LAL,CHI,18.67,2,5,20,CHI,CHI,reb,0,False,False,,Bulls Rebound,43-47,43,47
 0022000131,2021-01-08,LAL,CHI,18.87,2,5,8,CHI,CHI,fg_miss,1,False,False,,MISS Carter Jr. 14' Jump Shot,43-47,43,47
 0022000131,2021-01-08,LAL,CHI,18.9,2,5,6,LAL,LAL,reb,0,False,False,Harrell REBOUND (Off:3 Def:2),,43-47,43,47
 0022000131,2021-01-08,LAL,CHI,19.15,2,4,51,LAL,LAL,fg3_miss,1,False,False,MISS Morris 26' 3PT Jump Shot,,43-47,43,47
@@ -202,8 +202,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000131,2021-01-08,LAL,CHI,24.0,3,12,0,LAL,,period_start,0,False,False,,,59-58,59,58
 0022000131,2021-01-08,LAL,CHI,24.32,3,11,41,CHI,CHI,fg_make,108,False,False,,Carter Jr. 2' Cutting Dunk Shot (10 PTS) (LaVine 3 AST),59-60,59,60
 0022000131,2021-01-08,LAL,CHI,24.6,3,11,24,LAL,LAL,tov,1,False,True,James Bad Pass Turnover (P2.T8),,59-60,59,60
-0022000131,2021-01-08,LAL,CHI,24.6,3,11,24,CHI,LAL,foul,1,False,False,Schroder P.FOUL (P1.T1) (Z.Zarba),,59-60,59,60
 0022000131,2021-01-08,LAL,CHI,24.6,3,11,24,LAL,CHI,steal,1,False,True,steal,steal,59-60,59,60
+0022000131,2021-01-08,LAL,CHI,24.6,3,11,24,CHI,LAL,foul,1,False,False,Schroder P.FOUL (P1.T1) (Z.Zarba),,59-60,59,60
 0022000131,2021-01-08,LAL,CHI,24.83,3,11,10,CHI,CHI,fg_make,1,False,False,,Carter Jr. 10' Jump Shot (12 PTS) (LaVine 4 AST),59-62,59,62
 0022000131,2021-01-08,LAL,CHI,25.07,3,10,56,LAL,LAL,tov,1,False,True,James Bad Pass Turnover (P3.T9),,59-62,59,62
 0022000131,2021-01-08,LAL,CHI,25.07,3,10,56,LAL,CHI,steal,1,False,True,steal,steal,59-62,59,62
@@ -223,8 +223,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000131,2021-01-08,LAL,CHI,27.0,3,9,0,LAL,LAL,fg3_make,1,False,False,Matthews 24' 3PT Jump Shot (5 PTS) (James 4 AST),,69-70,69,70
 0022000131,2021-01-08,LAL,CHI,27.1,3,8,54,CHI,LAL,foul,1,False,False,Schroder P.FOUL (P3.T3) (Z.Zarba),,69-70,69,70
 0022000131,2021-01-08,LAL,CHI,27.35,3,8,39,CHI,CHI,fg_miss,57,True,False,,MISS Williams 5' Driving Hook Shot,69-70,69,70
-0022000131,2021-01-08,LAL,CHI,27.35,3,8,39,CHI,CHI,reb,0,False,False,,Bulls Rebound,69-70,69,70
 0022000131,2021-01-08,LAL,CHI,27.35,3,8,39,CHI,LAL,block,57,True,False,block,block,69-70,69,70
+0022000131,2021-01-08,LAL,CHI,27.35,3,8,39,CHI,CHI,reb,0,False,False,,Bulls Rebound,69-70,69,70
 0022000131,2021-01-08,LAL,CHI,27.5,3,8,30,CHI,CHI,fg_make,1,False,False,,White 17' Jump Shot (14 PTS) (Carter Jr. 1 AST),69-72,69,72
 0022000131,2021-01-08,LAL,CHI,27.85,3,8,9,LAL,LAL,fg_miss,6,True,False,MISS Morris 3' Driving Layup,,69-72,69,72
 0022000131,2021-01-08,LAL,CHI,27.85,3,8,9,LAL,CHI,block,6,True,False,block,block,69-72,69,72
@@ -299,9 +299,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000131,2021-01-08,LAL,CHI,35.62,3,0,23,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 5 Short 0),,92-88,92,88
 0022000131,2021-01-08,LAL,CHI,35.97,3,0,2,LAL,LAL,tov,2,False,True,Horton-Tucker Lost Ball Turnover (P1.T12),,92-88,92,88
 0022000131,2021-01-08,LAL,CHI,35.97,3,0,2,LAL,CHI,steal,2,False,True,steal,steal,92-88,92,88
-0022000131,2021-01-08,LAL,CHI,36.0,3,0,0,CHI,CHI,tov,40,False,False,,Gafford Out of Bounds Lost Ball Turnover (P2.T11),92-88,92,88
 0022000131,2021-01-08,LAL,CHI,36.0,3,0,0,CHI,,period_end,0,False,False,,,92-88,92,88
 0022000131,2021-01-08,LAL,CHI,36.0,4,12,0,CHI,,period_start,0,False,False,,,92-88,92,88
+0022000131,2021-01-08,LAL,CHI,36.0,3,0,0,CHI,CHI,tov,40,False,False,,Gafford Out of Bounds Lost Ball Turnover (P2.T11),92-88,92,88
 0022000131,2021-01-08,LAL,CHI,36.4,4,11,36,LAL,LAL,fg_make,3,False,False,Harrell 4' Hook Shot (13 PTS) (Caruso 3 AST),,94-88,94,88
 0022000131,2021-01-08,LAL,CHI,36.72,4,11,17,CHI,CHI,fg_miss,58,True,False,,MISS Young 6' Turnaround Hook Shot,94-88,94,88
 0022000131,2021-01-08,LAL,CHI,36.72,4,11,17,CHI,LAL,block,58,True,False,block,block,94-88,94,88

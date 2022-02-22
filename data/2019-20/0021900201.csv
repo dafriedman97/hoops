@@ -15,9 +15,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900201,2019-11-19,LAL,OKC,1.98,1,10,1,OKC,OKC,fg_miss,75,False,False,,MISS Gilgeous-Alexander 3' Driving Finger Roll Layup,5-4,5,4
 0021900201,2019-11-19,LAL,OKC,2.02,1,9,59,OKC,OKC,reb,0,False,False,,Gilgeous-Alexander REBOUND (Off:1 Def:1),5-4,5,4
 0021900201,2019-11-19,LAL,OKC,2.2,1,9,48,OKC,OKC,fg3_miss,80,True,False,,MISS Gilgeous-Alexander 27' 3PT Step Back Jump Shot,5-4,5,4
+0021900201,2019-11-19,LAL,OKC,2.2,1,9,48,OKC,LAL,block,80,True,False,block,block,5-4,5,4
 0021900201,2019-11-19,LAL,OKC,2.2,1,9,48,OKC,OKC,reb,0,False,False,,Thunder Rebound,5-4,5,4
 0021900201,2019-11-19,LAL,OKC,2.2,1,9,48,OKC,OKC,tov,11,False,False,,Thunder Turnover: Shot Clock (T#2),5-4,5,4
-0021900201,2019-11-19,LAL,OKC,2.2,1,9,48,OKC,LAL,block,80,True,False,block,block,5-4,5,4
 0021900201,2019-11-19,LAL,OKC,2.35,1,9,39,LAL,LAL,fg_make,98,False,False,Green 1' Cutting Layup Shot (2 PTS) (James 2 AST),,7-4,7,4
 0021900201,2019-11-19,LAL,OKC,2.68,1,9,19,OKC,OKC,tov,2,False,True,,Gallinari Lost Ball Turnover (P1.T3),7-4,7,4
 0021900201,2019-11-19,LAL,OKC,2.68,1,9,19,OKC,LAL,steal,2,False,True,steal,steal,7-4,7,4
@@ -92,8 +92,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900201,2019-11-19,LAL,OKC,8.62,1,3,23,OKC,OKC,tov,1,False,True,,Schroder Bad Pass Turnover (P4.T8),22-17,22,17
 0021900201,2019-11-19,LAL,OKC,8.62,1,3,23,OKC,LAL,steal,1,False,True,steal,steal,22-17,22,17
 0021900201,2019-11-19,LAL,OKC,8.95,1,3,3,LAL,LAL,fg_miss,75,True,False,MISS Rondo 4' Driving Finger Roll Layup,,22-17,22,17
-0021900201,2019-11-19,LAL,OKC,8.95,1,3,3,LAL,LAL,reb,0,False,False,LAKERS Rebound,,22-17,22,17
 0021900201,2019-11-19,LAL,OKC,8.95,1,3,3,LAL,OKC,block,75,True,False,block,block,22-17,22,17
+0021900201,2019-11-19,LAL,OKC,8.95,1,3,3,LAL,LAL,reb,0,False,False,LAKERS Rebound,,22-17,22,17
 0021900201,2019-11-19,LAL,OKC,8.98,1,3,1,LAL,LAL,fg3_make,1,False,False,Caruso 3PT Jump Shot (3 PTS) (Rondo 1 AST),,25-17,25,17
 0021900201,2019-11-19,LAL,OKC,9.28,1,2,43,OKC,OKC,fg_miss,1,False,False,,MISS Noel 17' Jump Shot,25-17,25,17
 0021900201,2019-11-19,LAL,OKC,9.32,1,2,41,LAL,LAL,reb,0,False,False,Caruso REBOUND (Off:0 Def:1),,25-17,25,17
@@ -181,8 +181,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900201,2019-11-19,LAL,OKC,19.72,2,4,17,LAL,LAL,fg_miss,99,False,False,MISS Davis 2' Cutting Finger Roll Layup Shot,,52-44,52,44
 0021900201,2019-11-19,LAL,OKC,19.75,2,4,15,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:2 Def:1),52-44,52,44
 0021900201,2019-11-19,LAL,OKC,19.82,2,4,11,OKC,OKC,fg_miss,99,True,False,,MISS Gallinari 3' Cutting Finger Roll Layup Shot,52-44,52,44
-0021900201,2019-11-19,LAL,OKC,19.82,2,4,11,OKC,OKC,reb,0,False,False,,Thunder Rebound,52-44,52,44
 0021900201,2019-11-19,LAL,OKC,19.82,2,4,11,OKC,LAL,block,99,True,False,block,block,52-44,52,44
+0021900201,2019-11-19,LAL,OKC,19.82,2,4,11,OKC,OKC,reb,0,False,False,,Thunder Rebound,52-44,52,44
 0021900201,2019-11-19,LAL,OKC,19.95,2,4,3,OKC,OKC,fg_make,63,False,False,,Schroder 17' Fadeaway Jumper (18 PTS),52-46,52,46
 0021900201,2019-11-19,LAL,OKC,20.18,2,3,49,LAL,LAL,fg_miss,80,False,False,MISS Rondo 16' Step Back Jump Shot,,52-46,52,46
 0021900201,2019-11-19,LAL,OKC,20.23,2,3,46,OKC,OKC,reb,0,False,False,,Schroder REBOUND (Off:0 Def:3),52-46,52,46
@@ -258,8 +258,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900201,2019-11-19,LAL,OKC,28.25,3,7,45,LAL,LAL,ft_miss,12,False,False,MISS McGee Free Throw 2 of 2,,70-67,70,67
 0021900201,2019-11-19,LAL,OKC,28.3,3,7,42,OKC,OKC,reb,0,False,False,,Noel REBOUND (Off:2 Def:3),70-67,70,67
 0021900201,2019-11-19,LAL,OKC,28.53,3,7,28,OKC,OKC,fg_miss,6,True,False,,MISS Paul 3' Driving Layup,70-67,70,67
-0021900201,2019-11-19,LAL,OKC,28.53,3,7,28,OKC,OKC,reb,0,False,False,,Thunder Rebound,70-67,70,67
 0021900201,2019-11-19,LAL,OKC,28.53,3,7,28,OKC,LAL,block,6,True,False,block,block,70-67,70,67
+0021900201,2019-11-19,LAL,OKC,28.53,3,7,28,OKC,OKC,reb,0,False,False,,Thunder Rebound,70-67,70,67
 0021900201,2019-11-19,LAL,OKC,28.65,3,7,21,OKC,OKC,tov,2,False,True,,Gilgeous-Alexander Lost Ball Turnover (P1.T12),70-67,70,67
 0021900201,2019-11-19,LAL,OKC,28.65,3,7,21,OKC,LAL,steal,2,False,True,steal,steal,70-67,70,67
 0021900201,2019-11-19,LAL,OKC,28.7,3,7,18,LAL,LAL,fg_make,98,False,False,Davis 2' Cutting Layup Shot (23 PTS) (James 6 AST),,72-67,72,67

@@ -118,9 +118,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000259,2021-01-25,ORL,CHA,12.0,2,12,0,ORL,,period_start,0,False,False,,,19-30,19,30
 0022000259,2021-01-25,ORL,CHA,12.22,2,11,47,ORL,CHA,foul,1,False,False,,Washington P.FOUL (P1.T1) (S.Wright),19-30,19,30
 0022000259,2021-01-25,ORL,CHA,12.47,2,11,32,ORL,ORL,fg_miss,47,True,False,MISS Gordon 17' Turnaround Jump Shot,,19-30,19,30
+0022000259,2021-01-25,ORL,CHA,12.47,2,11,32,ORL,CHA,block,47,True,False,block,block,19-30,19,30
 0022000259,2021-01-25,ORL,CHA,12.47,2,11,32,ORL,ORL,reb,0,False,False,MAGIC Rebound,,19-30,19,30
 0022000259,2021-01-25,ORL,CHA,12.47,2,11,32,ORL,ORL,tov,11,False,False,MAGIC Turnover: Shot Clock (T#5),,19-30,19,30
-0022000259,2021-01-25,ORL,CHA,12.47,2,11,32,ORL,CHA,block,47,True,False,block,block,19-30,19,30
 0022000259,2021-01-25,ORL,CHA,12.68,2,11,19,CHA,CHA,fg_miss,1,False,False,,MISS Bridges 10' Jump Shot,19-30,19,30
 0022000259,2021-01-25,ORL,CHA,12.73,2,11,16,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:1 Def:2),19-30,19,30
 0022000259,2021-01-25,ORL,CHA,12.77,2,11,14,CHA,CHA,fg3_miss,1,False,False,,MISS Washington 25' 3PT Jump Shot,19-30,19,30
@@ -335,8 +335,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000259,2021-01-25,ORL,CHA,36.95,4,11,3,ORL,ORL,fg_make,41,False,False,Bacon 1' Running Layup (13 PTS),,92-78,92,78
 0022000259,2021-01-25,ORL,CHA,37.07,4,10,56,CHA,CHA,fg3_make,1,False,False,,Rozier 3PT Jump Shot (16 PTS) (Ball 4 AST),92-81,92,81
 0022000259,2021-01-25,ORL,CHA,37.5,4,10,30,ORL,ORL,fg_miss,6,True,False,MISS Bacon 5' Driving Layup,,92-81,92,81
-0022000259,2021-01-25,ORL,CHA,37.5,4,10,30,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:0 Def:2),92-81,92,81
 0022000259,2021-01-25,ORL,CHA,37.5,4,10,30,ORL,CHA,block,6,True,False,block,block,92-81,92,81
+0022000259,2021-01-25,ORL,CHA,37.5,4,10,30,CHA,CHA,reb,0,False,False,,Ball REBOUND (Off:0 Def:2),92-81,92,81
 0022000259,2021-01-25,ORL,CHA,37.68,4,10,19,CHA,CHA,fg_miss,5,False,False,,MISS Ball 3' Layup,92-81,92,81
 0022000259,2021-01-25,ORL,CHA,37.73,4,10,16,ORL,ORL,reb,0,False,False,Gordon REBOUND (Off:1 Def:10),,92-81,92,81
 0022000259,2021-01-25,ORL,CHA,37.78,4,10,13,ORL,ORL,fg_make,74,False,False,Bacon 3' Running Reverse Layup (15 PTS) (Gordon 5 AST),,94-81,94,81
@@ -394,8 +394,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000259,2021-01-25,ORL,CHA,43.43,4,4,34,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:2 Def:9),,108-96,108,96
 0022000259,2021-01-25,ORL,CHA,43.63,4,4,22,ORL,ORL,fg_make,3,False,False,Vucevic 6' Hook Shot (28 PTS) (Ross 2 AST),,110-96,110,96
 0022000259,2021-01-25,ORL,CHA,43.73,4,4,16,CHA,CHA,fg_miss,6,True,False,,MISS Bridges 2' Driving Layup,110-96,110,96
-0022000259,2021-01-25,ORL,CHA,43.73,4,4,16,CHA,CHA,reb,0,False,False,,Hornets Rebound,110-96,110,96
 0022000259,2021-01-25,ORL,CHA,43.73,4,4,16,CHA,ORL,block,6,True,False,block,block,110-96,110,96
+0022000259,2021-01-25,ORL,CHA,43.73,4,4,16,CHA,CHA,reb,0,False,False,,Hornets Rebound,110-96,110,96
 0022000259,2021-01-25,ORL,CHA,43.95,4,4,3,CHA,CHA,fg_make,63,False,False,,Graham 15' Fadeaway Jumper (17 PTS),110-98,110,98
 0022000259,2021-01-25,ORL,CHA,44.35,4,3,39,ORL,ORL,fg_miss,86,False,False,MISS Vucevic 14' Turnaround Fadeaway Shot,,110-98,110,98
 0022000259,2021-01-25,ORL,CHA,44.38,4,3,37,CHA,CHA,reb,0,False,False,,Hayward REBOUND (Off:2 Def:3),110-98,110,98
@@ -427,8 +427,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000259,2021-01-25,ORL,CHA,46.25,4,1,45,ORL,CHA,ft_make,11,False,False,,Graham Free Throw 1 of 2 (20 PTS),115-105,115,105
 0022000259,2021-01-25,ORL,CHA,46.25,4,1,45,ORL,CHA,ft_make,12,False,False,,Graham Free Throw 2 of 2 (21 PTS),115-106,115,106
 0022000259,2021-01-25,ORL,CHA,46.48,4,1,31,ORL,ORL,fg_miss,6,True,False,MISS Fournier 2' Driving Layup,,115-106,115,106
-0022000259,2021-01-25,ORL,CHA,46.48,4,1,31,CHA,CHA,reb,0,False,False,,Hornets Rebound,115-106,115,106
 0022000259,2021-01-25,ORL,CHA,46.48,4,1,31,ORL,CHA,block,6,True,False,block,block,115-106,115,106
+0022000259,2021-01-25,ORL,CHA,46.48,4,1,31,CHA,CHA,reb,0,False,False,,Hornets Rebound,115-106,115,106
 0022000259,2021-01-25,ORL,CHA,46.72,4,1,17,CHA,CHA,fg3_miss,1,False,False,,MISS Bridges 25' 3PT Jump Shot,115-106,115,106
 0022000259,2021-01-25,ORL,CHA,46.77,4,1,14,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:2 Def:10),,115-106,115,106
 0022000259,2021-01-25,ORL,CHA,47.1,4,0,54,ORL,ORL,fg_miss,1,False,False,MISS Vucevic 15' Jump Shot,,115-106,115,106

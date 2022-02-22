@@ -4,9 +4,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800298,2018-11-26,NOP,BOS,0.28,1,11,43,BOS,BOS,fg_miss,3,False,False,,MISS Horford 11' Hook Shot,0-0,0,0
 0021800298,2018-11-26,NOP,BOS,0.35,1,11,39,NOP,NOP,reb,0,False,False,Davis REBOUND (Off:0 Def:1),,0-0,0,0
 0021800298,2018-11-26,NOP,BOS,0.37,1,11,38,NOP,NOP,tov,1,False,True,Davis Bad Pass Turnover (P1.T1),,0-0,0,0
+0021800298,2018-11-26,NOP,BOS,0.37,1,11,38,NOP,BOS,steal,1,False,True,steal,steal,0-0,0,0
 0021800298,2018-11-26,NOP,BOS,0.37,1,11,38,BOS,BOS,fg_miss,5,True,False,,MISS Smart 2' Layup,0-0,0,0
 0021800298,2018-11-26,NOP,BOS,0.37,1,11,38,BOS,NOP,block,5,True,False,block,block,0-0,0,0
-0021800298,2018-11-26,NOP,BOS,0.37,1,11,38,NOP,BOS,steal,1,False,True,steal,steal,0-0,0,0
 0021800298,2018-11-26,NOP,BOS,0.45,1,11,33,NOP,NOP,reb,0,False,False,PELICANS Rebound,,0-0,0,0
 0021800298,2018-11-26,NOP,BOS,0.55,1,11,27,NOP,BOS,foul,2,False,False,,Horford S.FOUL (P1.T1) (J.Phillips),0-0,0,0
 0021800298,2018-11-26,NOP,BOS,0.55,1,11,27,NOP,NOP,ft_make,11,False,False,Davis Free Throw 1 of 2 (1 PTS),,1-0,1,0
@@ -122,8 +122,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800298,2018-11-26,NOP,BOS,11.65,1,0,21,NOP,NOP,fg3_miss,1,False,False,MISS Miller 26' 3PT Jump Shot,,21-31,21,31
 0021800298,2018-11-26,NOP,BOS,11.72,1,0,17,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:5),21-31,21,31
 0021800298,2018-11-26,NOP,BOS,11.95,1,0,3,BOS,BOS,fg_miss,6,True,False,,MISS Tatum 2' Driving Layup,21-31,21,31
-0021800298,2018-11-26,NOP,BOS,11.95,1,0,3,BOS,BOS,reb,0,False,False,,Hayward REBOUND (Off:1 Def:1),21-31,21,31
 0021800298,2018-11-26,NOP,BOS,11.95,1,0,3,BOS,NOP,block,6,True,False,block,block,21-31,21,31
+0021800298,2018-11-26,NOP,BOS,11.95,1,0,3,BOS,BOS,reb,0,False,False,,Hayward REBOUND (Off:1 Def:1),21-31,21,31
 0021800298,2018-11-26,NOP,BOS,12.0,1,0,0,BOS,BOS,fg3_make,1,False,False,,Rozier 27' 3PT Jump Shot (5 PTS) (Hayward 2 AST),21-34,21,34
 0021800298,2018-11-26,NOP,BOS,12.0,1,0,0,BOS,,period_end,0,False,False,,,21-34,21,34
 0021800298,2018-11-26,NOP,BOS,12.0,2,12,0,BOS,,period_start,0,False,False,,,21-34,21,34
@@ -146,8 +146,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800298,2018-11-26,NOP,BOS,14.53,2,9,28,BOS,BOS,reb,0,False,False,,Rozier REBOUND (Off:0 Def:1),26-38,26,38
 0021800298,2018-11-26,NOP,BOS,14.62,2,9,23,BOS,BOS,fg3_make,1,False,False,,Smart 27' 3PT Jump Shot (5 PTS),26-41,26,41
 0021800298,2018-11-26,NOP,BOS,15.03,2,8,58,NOP,NOP,fg_miss,63,True,False,MISS Randle 10' Fadeaway Jumper,,26-41,26,41
-0021800298,2018-11-26,NOP,BOS,15.03,2,8,58,NOP,NOP,reb,0,False,False,PELICANS Rebound,,26-41,26,41
 0021800298,2018-11-26,NOP,BOS,15.03,2,8,58,NOP,BOS,block,63,True,False,block,block,26-41,26,41
+0021800298,2018-11-26,NOP,BOS,15.03,2,8,58,NOP,NOP,reb,0,False,False,PELICANS Rebound,,26-41,26,41
 0021800298,2018-11-26,NOP,BOS,15.07,2,8,56,NOP,NOP,fg3_miss,1,False,False,MISS Miller 24' 3PT Jump Shot,,26-41,26,41
 0021800298,2018-11-26,NOP,BOS,15.12,2,8,53,BOS,BOS,reb,0,False,False,,Rozier REBOUND (Off:0 Def:2),26-41,26,41
 0021800298,2018-11-26,NOP,BOS,15.18,2,8,49,BOS,NOP,foul,1,False,False,Miller P.FOUL (P2.T1) (A.Moyer-Gleich),,26-41,26,41
@@ -197,8 +197,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800298,2018-11-26,NOP,BOS,20.42,2,3,35,BOS,BOS,fg_miss,1,False,False,,MISS Horford 20' Jump Shot,37-49,37,49
 0021800298,2018-11-26,NOP,BOS,20.48,2,3,31,NOP,NOP,reb,0,False,False,Davis REBOUND (Off:1 Def:9),,37-49,37,49
 0021800298,2018-11-26,NOP,BOS,20.72,2,3,17,NOP,NOP,fg_miss,1,False,False,MISS Moore 21' Jump Shot,,37-49,37,49
-0021800298,2018-11-26,NOP,BOS,20.72,2,3,17,NOP,NOP,reb,0,False,False,PELICANS Rebound,,37-49,37,49
 0021800298,2018-11-26,NOP,BOS,20.72,2,3,17,NOP,BOS,foul,3,False,False,,Morris Sr. L.B.FOUL (P3.T3) (J.Phillips),37-49,37,49
+0021800298,2018-11-26,NOP,BOS,20.72,2,3,17,NOP,NOP,reb,0,False,False,PELICANS Rebound,,37-49,37,49
 0021800298,2018-11-26,NOP,BOS,21.0,2,3,0,NOP,NOP,tov,1,False,True,Moore Bad Pass Turnover (P2.T12),,37-49,37,49
 0021800298,2018-11-26,NOP,BOS,21.0,2,3,0,NOP,BOS,steal,1,False,True,steal,steal,37-49,37,49
 0021800298,2018-11-26,NOP,BOS,21.08,2,2,55,BOS,BOS,fg3_make,1,False,False,,Smart 27' 3PT Jump Shot (8 PTS) (Morris Sr. 1 AST),37-52,37,52
@@ -242,8 +242,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800298,2018-11-26,NOP,BOS,25.58,3,10,25,BOS,BOS,fg3_make,1,False,False,,Morris Sr. 25' 3PT Jump Shot (10 PTS) (Irving 6 AST),53-62,53,62
 0021800298,2018-11-26,NOP,BOS,25.83,3,10,10,NOP,BOS,foul,1,False,False,,Smart P.FOUL (P2.T1) (J.Phillips),53-62,53,62
 0021800298,2018-11-26,NOP,BOS,25.98,3,10,1,NOP,BOS,foul,3,False,False,,Smart L.B.FOUL (P3.T2) (A.Moyer-Gleich),53-62,53,62
-0021800298,2018-11-26,NOP,BOS,26.07,3,9,56,NOP,NOP,tov,1,False,True,Davis Bad Pass Turnover (P4.T13),,53-62,53,62
 0021800298,2018-11-26,NOP,BOS,26.07,3,9,56,BOS,NOP,foul,3,False,False,Holiday L.B.FOUL (P3.T1) (A.Moyer-Gleich),,53-62,53,62
+0021800298,2018-11-26,NOP,BOS,26.07,3,9,56,NOP,NOP,tov,1,False,True,Davis Bad Pass Turnover (P4.T13),,53-62,53,62
 0021800298,2018-11-26,NOP,BOS,26.07,3,9,56,NOP,BOS,steal,1,False,True,steal,steal,53-62,53,62
 0021800298,2018-11-26,NOP,BOS,26.25,3,9,45,BOS,BOS,fg3_make,1,False,False,,Morris Sr. 24' 3PT Jump Shot (13 PTS) (Irving 7 AST),53-65,53,65
 0021800298,2018-11-26,NOP,BOS,26.48,3,9,31,NOP,NOP,fg3_miss,1,False,False,MISS Mirotic 27' 3PT Jump Shot,,53-65,53,65
@@ -276,9 +276,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800298,2018-11-26,NOP,BOS,29.52,3,6,29,BOS,BOS,tov,1,False,True,,Irving Bad Pass Turnover (P6.T12),60-69,60,69
 0021800298,2018-11-26,NOP,BOS,29.52,3,6,29,BOS,NOP,steal,1,False,True,steal,steal,60-69,60,69
 0021800298,2018-11-26,NOP,BOS,29.6,3,6,24,NOP,NOP,fg_miss,5,True,False,MISS Moore 4' Layup,,60-69,60,69
+0021800298,2018-11-26,NOP,BOS,29.6,3,6,24,NOP,BOS,block,5,True,False,block,block,60-69,60,69
 0021800298,2018-11-26,NOP,BOS,29.6,3,6,24,BOS,BOS,reb,0,False,False,,Celtics Rebound,60-69,60,69
 0021800298,2018-11-26,NOP,BOS,29.6,3,6,24,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 4 Short 0),,60-69,60,69
-0021800298,2018-11-26,NOP,BOS,29.6,3,6,24,NOP,BOS,block,5,True,False,block,block,60-69,60,69
 0021800298,2018-11-26,NOP,BOS,29.78,3,6,13,BOS,BOS,fg_make,78,False,False,,Irving 14' Floating Jump Shot (12 PTS),60-71,60,71
 0021800298,2018-11-26,NOP,BOS,29.78,3,6,13,BOS,NOP,foul,2,False,False,Clark S.FOUL (P1.T4) (A.Moyer-Gleich),,60-71,60,71
 0021800298,2018-11-26,NOP,BOS,29.78,3,6,13,BOS,BOS,ft_make,10,False,False,,Irving Free Throw 1 of 1 (13 PTS),60-72,60,72

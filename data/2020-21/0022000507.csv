@@ -155,8 +155,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000507,2021-02-26,MIA,UTA,18.87,2,5,8,MIA,MIA,fg3_miss,1,False,False,MISS Okpala 26' 3PT Jump Shot,,47-44,47,44
 0022000507,2021-02-26,MIA,UTA,18.93,2,5,4,UTA,UTA,reb,0,False,False,,O'Neale REBOUND (Off:0 Def:1),47-44,47,44
 0022000507,2021-02-26,MIA,UTA,18.98,2,5,1,UTA,UTA,fg_miss,41,False,False,,MISS O'Neale 3' Running Layup,47-44,47,44
-0022000507,2021-02-26,MIA,UTA,19.08,2,4,55,UTA,UTA,fg_make,107,False,False,,Favors Tip Dunk Shot (4 PTS),47-46,47,46
 0022000507,2021-02-26,MIA,UTA,19.08,2,4,55,UTA,UTA,reb,0,False,False,,Favors REBOUND (Off:1 Def:0),47-46,47,46
+0022000507,2021-02-26,MIA,UTA,19.08,2,4,55,UTA,UTA,fg_make,107,False,False,,Favors Tip Dunk Shot (4 PTS),47-46,47,46
 0022000507,2021-02-26,MIA,UTA,19.2,2,4,48,MIA,MIA,fg3_miss,79,False,False,MISS Dragic 26' 3PT Pullup Jump Shot,,47-46,47,46
 0022000507,2021-02-26,MIA,UTA,19.25,2,4,45,MIA,MIA,reb,0,False,False,Okpala REBOUND (Off:3 Def:1),,47-46,47,46
 0022000507,2021-02-26,MIA,UTA,19.42,2,4,35,MIA,UTA,foul,2,False,False,,Bogdanovic S.FOUL (P2.PN) (P.Ransom),47-46,47,46
@@ -286,16 +286,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000507,2021-02-26,MIA,UTA,33.12,3,2,53,UTA,UTA,fg_make,1,False,False,,Favors 8' Jump Shot (6 PTS) (Clarkson 3 AST),87-90,87,90
 0022000507,2021-02-26,MIA,UTA,33.35,3,2,39,MIA,MIA,fg_make,101,False,False,Dragic 12' Driving Floating Jump Shot (14 PTS),,89-90,89,90
 0022000507,2021-02-26,MIA,UTA,33.55,3,2,27,UTA,UTA,tov,1,False,True,,Mitchell Bad Pass Turnover (P3.T6),89-90,89,90
-0022000507,2021-02-26,MIA,UTA,33.55,3,2,27,MIA,UTA,foul,28,False,False,,Mitchell Personal Take Foul (P2.PN) (M.Ervin),89-90,89,90
 0022000507,2021-02-26,MIA,UTA,33.55,3,2,27,UTA,MIA,steal,1,False,True,steal,steal,89-90,89,90
+0022000507,2021-02-26,MIA,UTA,33.55,3,2,27,MIA,UTA,foul,28,False,False,,Mitchell Personal Take Foul (P2.PN) (M.Ervin),89-90,89,90
 0022000507,2021-02-26,MIA,UTA,33.55,3,2,27,MIA,MIA,ft_make,11,False,False,Dragic Free Throw 1 of 2 (15 PTS),,90-90,90,90
 0022000507,2021-02-26,MIA,UTA,33.55,3,2,27,MIA,MIA,ft_make,12,False,False,Dragic Free Throw 2 of 2 (16 PTS),,91-90,91,90
 0022000507,2021-02-26,MIA,UTA,33.97,3,2,2,UTA,UTA,fg_miss,80,False,False,,MISS Clarkson 13' Step Back Jump Shot,91-90,91,90
 0022000507,2021-02-26,MIA,UTA,34.03,3,1,58,MIA,MIA,reb,0,False,False,Iguodala REBOUND (Off:0 Def:2),,91-90,91,90
 0022000507,2021-02-26,MIA,UTA,34.13,3,1,52,MIA,MIA,fg_miss,3,True,False,MISS Adebayo 5' Hook Shot,,91-90,91,90
+0022000507,2021-02-26,MIA,UTA,34.13,3,1,52,MIA,UTA,block,3,True,False,block,block,91-90,91,90
 0022000507,2021-02-26,MIA,UTA,34.13,3,1,52,UTA,UTA,reb,0,False,False,,Jazz Rebound,91-90,91,90
 0022000507,2021-02-26,MIA,UTA,34.13,3,1,52,UTA,MIA,foul,3,False,False,Adebayo L.B.FOUL (P2.PN) (T.Brown),,91-90,91,90
-0022000507,2021-02-26,MIA,UTA,34.13,3,1,52,MIA,UTA,block,3,True,False,block,block,91-90,91,90
 0022000507,2021-02-26,MIA,UTA,34.13,3,1,52,UTA,UTA,ft_make,11,False,False,,Ingles Free Throw 1 of 2 (10 PTS),91-91,91,91
 0022000507,2021-02-26,MIA,UTA,34.13,3,1,52,UTA,UTA,ft_make,12,False,False,,Ingles Free Throw 2 of 2 (11 PTS),91-92,91,92
 0022000507,2021-02-26,MIA,UTA,34.35,3,1,39,MIA,MIA,fg_miss,80,False,False,MISS Dragic 20' Step Back Jump Shot,,91-92,91,92
@@ -346,8 +346,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000507,2021-02-26,MIA,UTA,40.67,4,7,20,UTA,UTA,ft_make,12,False,False,,Mitchell Free Throw 2 of 2 (28 PTS),108-105,108,105
 0022000507,2021-02-26,MIA,UTA,40.9,4,7,6,MIA,MIA,fg3_make,1,False,False,Iguodala 24' 3PT Jump Shot (6 PTS) (Dragic 2 AST),,111-105,111,105
 0022000507,2021-02-26,MIA,UTA,41.18,4,6,49,UTA,UTA,fg_miss,6,False,False,,MISS Mitchell 2' Driving Layup,111-105,111,105
-0022000507,2021-02-26,MIA,UTA,41.27,4,6,44,UTA,UTA,fg_make,107,False,False,,Gobert Tip Dunk Shot (13 PTS),111-107,111,107
 0022000507,2021-02-26,MIA,UTA,41.27,4,6,44,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:2 Def:8),111-107,111,107
+0022000507,2021-02-26,MIA,UTA,41.27,4,6,44,UTA,UTA,fg_make,107,False,False,,Gobert Tip Dunk Shot (13 PTS),111-107,111,107
 0022000507,2021-02-26,MIA,UTA,41.42,4,6,35,MIA,MIA,fg3_make,1,False,False,Dragic 25' 3PT Jump Shot (25 PTS),,114-107,114,107
 0022000507,2021-02-26,MIA,UTA,41.45,4,6,33,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.4 Short 0),114-107,114,107
 0022000507,2021-02-26,MIA,UTA,41.68,4,6,19,UTA,UTA,fg3_miss,1,False,False,,MISS O'Neale 25' 3PT Jump Shot,114-107,114,107

@@ -79,9 +79,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800130,2018-11-03,SAS,NOP,9.95,1,2,3,NOP,NOP,fg_miss,79,False,False,,MISS Frazier 21' Pullup Jump Shot,19-17,19,17
 0021800130,2018-11-03,SAS,NOP,10.07,1,1,56,NOP,NOP,reb,0,False,False,,Randle REBOUND (Off:1 Def:0),19-17,19,17
 0021800130,2018-11-03,SAS,NOP,10.13,1,1,52,NOP,NOP,fg_miss,1,True,False,,MISS Frazier 12' Jump Shot,19-17,19,17
+0021800130,2018-11-03,SAS,NOP,10.13,1,1,52,NOP,SAS,block,1,True,False,block,block,19-17,19,17
 0021800130,2018-11-03,SAS,NOP,10.13,1,1,52,NOP,NOP,reb,0,False,False,,Frazier REBOUND (Off:1 Def:0),19-17,19,17
 0021800130,2018-11-03,SAS,NOP,10.13,1,1,52,,SAS,jump_ball,0,False,False,Jump Ball Mills vs. Frazier: Tip to Randle,,19-17,19,17
-0021800130,2018-11-03,SAS,NOP,10.13,1,1,52,NOP,SAS,block,1,True,False,block,block,19-17,19,17
 0021800130,2018-11-03,SAS,NOP,10.25,1,1,45,NOP,NOP,fg_miss,101,False,False,,MISS Randle 5' Driving Floating Jump Shot,19-17,19,17
 0021800130,2018-11-03,SAS,NOP,10.25,1,1,45,SAS,SAS,reb,0,False,False,SPURS Rebound,,19-17,19,17
 0021800130,2018-11-03,SAS,NOP,10.53,1,1,28,SAS,SAS,fg_make,6,False,False,Aldridge 3' Driving Layup (6 PTS) (Cunningham 2 AST),,21-17,21,17
@@ -242,8 +242,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800130,2018-11-03,SAS,NOP,26.2,3,9,48,SAS,SAS,fg_miss,6,False,False,MISS Gay 3' Driving Layup,,62-43,62,43
 0021800130,2018-11-03,SAS,NOP,26.27,3,9,44,NOP,NOP,reb,0,False,False,,W. Johnson REBOUND (Off:0 Def:4),62-43,62,43
 0021800130,2018-11-03,SAS,NOP,26.3,3,9,42,NOP,NOP,fg_miss,5,True,False,,MISS Mirotic 3' Layup,62-43,62,43
-0021800130,2018-11-03,SAS,NOP,26.3,3,9,42,NOP,NOP,reb,0,False,False,,Pelicans Rebound,62-43,62,43
 0021800130,2018-11-03,SAS,NOP,26.3,3,9,42,NOP,SAS,block,5,True,False,block,block,62-43,62,43
+0021800130,2018-11-03,SAS,NOP,26.3,3,9,42,NOP,NOP,reb,0,False,False,,Pelicans Rebound,62-43,62,43
 0021800130,2018-11-03,SAS,NOP,26.32,3,9,41,NOP,NOP,fg3_make,1,False,False,,W. Johnson 3PT Jump Shot (3 PTS) (Holiday 4 AST),62-46,62,46
 0021800130,2018-11-03,SAS,NOP,26.7,3,9,18,SAS,SAS,fg_make,79,False,False,DeRozan 16' Pullup Jump Shot (15 PTS),,64-46,64,46
 0021800130,2018-11-03,SAS,NOP,26.85,3,9,9,NOP,NOP,fg_make,99,False,False,,Mirotic 3' Cutting Finger Roll Layup Shot (11 PTS) (Davis 2 AST),64-48,64,48
@@ -431,8 +431,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800130,2018-11-03,SAS,NOP,47.1,4,0,54,NOP,NOP,ft_make,12,False,False,,Holiday Free Throw 2 of 2 (29 PTS),109-95,109,95
 0021800130,2018-11-03,SAS,NOP,47.12,4,0,53,SAS,NOP,foul,1,False,False,,Jackson P.FOUL (P1.T4) (D.Guthrie),109-95,109,95
 0021800130,2018-11-03,SAS,NOP,47.33,4,0,40,SAS,SAS,fg_miss,99,True,False,MISS Poeltl 4' Cutting Finger Roll Layup Shot,,109-95,109,95
-0021800130,2018-11-03,SAS,NOP,47.33,4,0,40,NOP,NOP,reb,0,False,False,,Okafor REBOUND (Off:0 Def:1),109-95,109,95
 0021800130,2018-11-03,SAS,NOP,47.33,4,0,40,SAS,NOP,block,99,True,False,block,block,109-95,109,95
+0021800130,2018-11-03,SAS,NOP,47.33,4,0,40,NOP,NOP,reb,0,False,False,,Okafor REBOUND (Off:0 Def:1),109-95,109,95
 0021800130,2018-11-03,SAS,NOP,47.53,4,0,28,NOP,NOP,fg3_miss,79,False,False,,MISS Jackson 26' 3PT Pullup Jump Shot,109-95,109,95
 0021800130,2018-11-03,SAS,NOP,47.6,4,0,24,NOP,NOP,reb,0,False,False,,Frazier REBOUND (Off:2 Def:0),109-95,109,95
 0021800130,2018-11-03,SAS,NOP,47.67,4,0,20,NOP,NOP,tov,1,False,True,,W. Johnson Bad Pass Turnover (P3.T16),109-95,109,95

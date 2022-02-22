@@ -45,8 +45,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000879,2021-04-20,POR,LAC,6.33,1,5,40,LAC,LAC,fg_miss,79,False,False,,MISS Jackson 7' Pullup Jump Shot,17-16,17,16
 0022000879,2021-04-20,POR,LAC,6.38,1,5,37,POR,POR,reb,0,False,False,McCollum REBOUND (Off:0 Def:2),,17-16,17,16
 0022000879,2021-04-20,POR,LAC,6.53,1,5,28,POR,POR,fg_miss,101,False,False,MISS Covington 5' Driving Floating Jump Shot,,17-16,17,16
-0022000879,2021-04-20,POR,LAC,6.6,1,5,24,POR,POR,fg_make,97,False,False,Kanter Tip Layup Shot (8 PTS),,19-16,19,16
 0022000879,2021-04-20,POR,LAC,6.6,1,5,24,POR,POR,reb,0,False,False,Kanter REBOUND (Off:1 Def:1),,19-16,19,16
+0022000879,2021-04-20,POR,LAC,6.6,1,5,24,POR,POR,fg_make,97,False,False,Kanter Tip Layup Shot (8 PTS),,19-16,19,16
 0022000879,2021-04-20,POR,LAC,6.82,1,5,11,LAC,LAC,fg_make,79,False,False,,Morris Sr. 15' Pullup Jump Shot (9 PTS) (Mann 1 AST),19-18,19,18
 0022000879,2021-04-20,POR,LAC,7.05,1,4,57,POR,POR,fg_make,6,False,False,Powell 1' Driving Layup (7 PTS) (McCollum 3 AST),,21-18,21,18
 0022000879,2021-04-20,POR,LAC,7.27,1,4,44,LAC,LAC,fg_miss,98,False,False,,MISS Zubac 2' Cutting Layup Shot,21-18,21,18
@@ -145,9 +145,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000879,2021-04-20,POR,LAC,17.07,2,6,56,LAC,LAC,fg3_make,1,False,False,,Batum 3PT Jump Shot (5 PTS) (Kennard 1 AST),43-42,43,42
 0022000879,2021-04-20,POR,LAC,17.48,2,6,31,POR,POR,fg_make,5,False,False,Little 3' Layup (4 PTS) (Hollis-Jefferson 2 AST),,45-42,45,42
 0022000879,2021-04-20,POR,LAC,17.58,2,6,25,LAC,LAC,fg_miss,6,True,False,,MISS Rondo 2' Driving Layup,45-42,45,42
+0022000879,2021-04-20,POR,LAC,17.58,2,6,25,LAC,POR,block,6,True,False,block,block,45-42,45,42
 0022000879,2021-04-20,POR,LAC,17.58,2,6,25,LAC,LAC,reb,0,False,False,,Clippers Rebound,45-42,45,42
 0022000879,2021-04-20,POR,LAC,17.58,2,6,25,POR,LAC,foul,11,False,False,,Rondo T.FOUL (P0.T2) (S.Foster),45-42,45,42
-0022000879,2021-04-20,POR,LAC,17.58,2,6,25,LAC,POR,block,6,True,False,block,block,45-42,45,42
 0022000879,2021-04-20,POR,LAC,17.58,2,6,25,POR,POR,ft_make,16,False,False,Anthony Free Throw Technical (6 PTS),,46-42,46,42
 0022000879,2021-04-20,POR,LAC,17.62,2,6,23,LAC,LAC,fg_make,1,False,False,,Kennard 18' Jump Shot (7 PTS) (Jackson 3 AST),46-44,46,44
 0022000879,2021-04-20,POR,LAC,17.87,2,6,8,POR,POR,fg3_miss,1,False,False,MISS Powell 3PT Jump Shot,,46-44,46,44
@@ -158,8 +158,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000879,2021-04-20,POR,LAC,18.27,2,5,44,POR,POR,fg_miss,41,False,False,MISS Little 2' Running Layup,,46-44,46,44
 0022000879,2021-04-20,POR,LAC,18.28,2,5,43,POR,POR,reb,0,False,False,Anthony REBOUND (Off:2 Def:1),,46-44,46,44
 0022000879,2021-04-20,POR,LAC,18.3,2,5,42,POR,POR,fg_miss,72,True,False,MISS Anthony 3' Putback Layup,,46-44,46,44
-0022000879,2021-04-20,POR,LAC,18.3,2,5,42,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,46-44,46,44
 0022000879,2021-04-20,POR,LAC,18.3,2,5,42,POR,LAC,block,72,True,False,block,block,46-44,46,44
+0022000879,2021-04-20,POR,LAC,18.3,2,5,42,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,46-44,46,44
 0022000879,2021-04-20,POR,LAC,18.43,2,5,34,POR,POR,fg_miss,75,False,False,MISS Powell 4' Driving Finger Roll Layup,,46-44,46,44
 0022000879,2021-04-20,POR,LAC,18.48,2,5,31,LAC,LAC,reb,0,False,False,,Jackson REBOUND (Off:1 Def:1),46-44,46,44
 0022000879,2021-04-20,POR,LAC,18.68,2,5,19,LAC,LAC,fg_make,79,False,False,,George 16' Pullup Jump Shot (13 PTS),46-46,46,46
@@ -237,8 +237,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000879,2021-04-20,POR,LAC,26.45,3,9,33,POR,LAC,violation,1,False,False,,Clippers Violation: Delay of game Violation,60-61,60,61
 0022000879,2021-04-20,POR,LAC,26.68,3,9,19,POR,POR,fg_make,101,False,False,McCollum 15' Driving Floating Jump Shot (14 PTS),,62-61,62,61
 0022000879,2021-04-20,POR,LAC,26.9,3,9,6,LAC,LAC,fg_miss,6,True,False,,MISS George 2' Driving Layup,62-61,62,61
-0022000879,2021-04-20,POR,LAC,26.9,3,9,6,LAC,LAC,reb,0,False,False,,Clippers Rebound,62-61,62,61
 0022000879,2021-04-20,POR,LAC,26.9,3,9,6,LAC,POR,block,6,True,False,block,block,62-61,62,61
+0022000879,2021-04-20,POR,LAC,26.9,3,9,6,LAC,LAC,reb,0,False,False,,Clippers Rebound,62-61,62,61
 0022000879,2021-04-20,POR,LAC,26.95,3,9,3,LAC,LAC,fg3_miss,1,False,False,,MISS George 28' 3PT Jump Shot,62-61,62,61
 0022000879,2021-04-20,POR,LAC,27.0,3,9,0,POR,POR,reb,0,False,False,Kanter REBOUND (Off:1 Def:6),,62-61,62,61
 0022000879,2021-04-20,POR,LAC,27.27,3,8,44,POR,POR,fg3_miss,1,False,False,MISS McCollum 25' 3PT Jump Shot,,62-61,62,61
@@ -291,9 +291,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000879,2021-04-20,POR,LAC,32.88,3,3,7,POR,POR,reb,0,False,False,McCollum REBOUND (Off:1 Def:3),,75-77,75,77
 0022000879,2021-04-20,POR,LAC,32.92,3,3,5,POR,POR,fg3_miss,1,False,False,MISS Anthony 26' 3PT Jump Shot,,75-77,75,77
 0022000879,2021-04-20,POR,LAC,32.97,3,3,2,LAC,LAC,reb,0,False,False,,Rondo REBOUND (Off:1 Def:4),75-77,75,77
+0022000879,2021-04-20,POR,LAC,33.03,3,2,58,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.4 Short 0),75-77,75,77
 0022000879,2021-04-20,POR,LAC,33.03,3,2,58,LAC,LAC,fg3_miss,1,False,False,,MISS George 24' 3PT Jump Shot,75-77,75,77
 0022000879,2021-04-20,POR,LAC,33.03,3,2,58,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,75-77,75,77
-0022000879,2021-04-20,POR,LAC,33.03,3,2,58,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.4 Short 0),75-77,75,77
 0022000879,2021-04-20,POR,LAC,33.08,3,2,55,,POR,jump_ball,1,False,False,Jump Ball (CC) Anthony vs. George: Tip to McCollum,,75-77,75,77
 0022000879,2021-04-20,POR,LAC,33.43,3,2,34,POR,POR,fg3_make,1,False,False,Anthony 24' 3PT Jump Shot (11 PTS) (McCollum 4 AST),,78-77,78,77
 0022000879,2021-04-20,POR,LAC,33.75,3,2,15,LAC,POR,foul,2,False,False,Hollis-Jefferson S.FOUL (P2.T4) (N.Buchert),,78-77,78,77
@@ -368,9 +368,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000879,2021-04-20,POR,LAC,42.6,4,5,24,POR,LAC,foul,1,False,False,,Cousins P.FOUL (P2.T3) (M.Boland),101-96,101,96
 0022000879,2021-04-20,POR,LAC,42.6,4,5,24,POR,POR,timeout,1,False,False,TRAIL BLAZERS Timeout: Regular (Full 4 Short 0),,101-96,101,96
 0022000879,2021-04-20,POR,LAC,42.73,4,5,16,POR,POR,fg_miss,6,True,False,MISS Powell 3' Driving Layup,,101-96,101,96
+0022000879,2021-04-20,POR,LAC,42.73,4,5,16,POR,LAC,block,6,True,False,block,block,101-96,101,96
 0022000879,2021-04-20,POR,LAC,42.73,4,5,16,POR,POR,reb,0,False,False,Hollis-Jefferson REBOUND (Off:4 Def:2),,101-96,101,96
 0022000879,2021-04-20,POR,LAC,42.73,4,5,16,POR,LAC,foul,1,False,False,,George P.FOUL (P1.T4) (S.Foster),101-96,101,96
-0022000879,2021-04-20,POR,LAC,42.73,4,5,16,POR,LAC,block,6,True,False,block,block,101-96,101,96
 0022000879,2021-04-20,POR,LAC,42.88,4,5,7,POR,LAC,foul,2,False,False,,Morris Sr. S.FOUL (P2.PN) (S.Foster),101-96,101,96
 0022000879,2021-04-20,POR,LAC,42.88,4,5,7,POR,POR,ft_make,11,False,False,McCollum Free Throw 1 of 2 (22 PTS),,102-96,102,96
 0022000879,2021-04-20,POR,LAC,42.88,4,5,7,POR,POR,ft_miss,12,False,False,MISS McCollum Free Throw 2 of 2,,102-96,102,96

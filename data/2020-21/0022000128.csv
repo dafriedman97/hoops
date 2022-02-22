@@ -6,8 +6,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000128,2021-01-08,MEM,BKN,0.87,1,11,8,BKN,BKN,fg_miss,98,False,False,,MISS Allen 3' Cutting Layup Shot,2-3,2,3
 0022000128,2021-01-08,MEM,BKN,0.9,1,11,6,BKN,BKN,reb,0,False,False,,Allen REBOUND (Off:1 Def:0),2-3,2,3
 0022000128,2021-01-08,MEM,BKN,0.9,1,11,6,BKN,BKN,fg_miss,72,True,False,,MISS Allen 2' Putback Layup,2-3,2,3
-0022000128,2021-01-08,MEM,BKN,0.9,1,11,6,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,2-3,2,3
 0022000128,2021-01-08,MEM,BKN,0.9,1,11,6,BKN,MEM,block,72,True,False,block,block,2-3,2,3
+0022000128,2021-01-08,MEM,BKN,0.9,1,11,6,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,2-3,2,3
 0022000128,2021-01-08,MEM,BKN,1.12,1,10,53,BKN,MEM,foul,4,False,False,Valanciunas OFF.Foul (P1) (R.Mott),,2-3,2,3
 0022000128,2021-01-08,MEM,BKN,1.12,1,10,53,MEM,MEM,tov,37,False,False,Valanciunas Offensive Foul Turnover (P1.T1),,2-3,2,3
 0022000128,2021-01-08,MEM,BKN,1.28,1,10,43,BKN,MEM,foul,17,False,False,GRIZZLIES T.Foul (Def. 3 Sec Valanciunas ) (M.Dagher),,2-3,2,3
@@ -166,8 +166,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000128,2021-01-08,MEM,BKN,17.78,2,6,13,BKN,BKN,fg_miss,6,False,False,,MISS LeVert 6' Driving Layup,54-34,54,34
 0022000128,2021-01-08,MEM,BKN,17.8,2,6,12,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,54-34,54,34
 0022000128,2021-01-08,MEM,BKN,18.03,2,5,58,MEM,MEM,fg_miss,101,True,False,MISS Bane 8' Driving Floating Jump Shot,,54-34,54,34
-0022000128,2021-01-08,MEM,BKN,18.03,2,5,58,BKN,BKN,reb,0,False,False,,Green REBOUND (Off:0 Def:1),54-34,54,34
 0022000128,2021-01-08,MEM,BKN,18.03,2,5,58,MEM,BKN,block,101,True,False,block,block,54-34,54,34
+0022000128,2021-01-08,MEM,BKN,18.03,2,5,58,BKN,BKN,reb,0,False,False,,Green REBOUND (Off:0 Def:1),54-34,54,34
 0022000128,2021-01-08,MEM,BKN,18.28,2,5,43,BKN,BKN,fg3_miss,1,False,False,,MISS Green 25' 3PT Jump Shot,54-34,54,34
 0022000128,2021-01-08,MEM,BKN,18.35,2,5,39,MEM,MEM,reb,0,False,False,Bane REBOUND (Off:0 Def:2),,54-34,54,34
 0022000128,2021-01-08,MEM,BKN,18.48,2,5,31,MEM,MEM,fg3_miss,1,False,False,MISS Clarke 25' 3PT Jump Shot,,54-34,54,34
@@ -245,8 +245,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000128,2021-01-08,MEM,BKN,26.8,3,9,12,BKN,BKN,fg_miss,103,False,False,,MISS LeVert 10' Running Pull-Up Jump Shot,70-54,70,54
 0022000128,2021-01-08,MEM,BKN,26.8,3,9,12,BKN,BKN,reb,0,False,False,,Allen REBOUND (Off:3 Def:2),70-54,70,54
 0022000128,2021-01-08,MEM,BKN,26.8,3,9,12,BKN,BKN,fg_miss,97,True,False,,MISS Allen 3' Tip Layup Shot,70-54,70,54
-0022000128,2021-01-08,MEM,BKN,26.8,3,9,12,MEM,MEM,reb,0,False,False,Anderson REBOUND (Off:1 Def:2),,70-54,70,54
 0022000128,2021-01-08,MEM,BKN,26.8,3,9,12,BKN,MEM,block,97,True,False,block,block,70-54,70,54
+0022000128,2021-01-08,MEM,BKN,26.8,3,9,12,MEM,MEM,reb,0,False,False,Anderson REBOUND (Off:1 Def:2),,70-54,70,54
 0022000128,2021-01-08,MEM,BKN,26.93,3,9,4,MEM,MEM,fg_make,74,False,False,Brooks 3' Running Reverse Layup (18 PTS) (Anderson 3 AST),,72-54,72,54
 0022000128,2021-01-08,MEM,BKN,27.15,3,8,51,BKN,BKN,fg_make,75,False,False,,Prince 7' Driving Finger Roll Layup (11 PTS) (LeVert 2 AST),72-56,72,56
 0022000128,2021-01-08,MEM,BKN,27.33,3,8,40,MEM,MEM,fg3_miss,80,False,False,MISS Brooks 27' 3PT Step Back Jump Shot,,72-56,72,56
@@ -265,8 +265,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000128,2021-01-08,MEM,BKN,29.13,3,6,52,MEM,MEM,tov,1,False,True,Dieng Bad Pass Turnover (P1.T9),,72-63,72,63
 0022000128,2021-01-08,MEM,BKN,29.13,3,6,52,MEM,BKN,steal,1,False,True,steal,steal,72-63,72,63
 0022000128,2021-01-08,MEM,BKN,29.23,3,6,46,BKN,BKN,fg_miss,41,True,False,,MISS Prince 4' Running Layup,72-63,72,63
-0022000128,2021-01-08,MEM,BKN,29.23,3,6,46,BKN,BKN,reb,0,False,False,,Nets Rebound,72-63,72,63
 0022000128,2021-01-08,MEM,BKN,29.23,3,6,46,BKN,MEM,block,41,True,False,block,block,72-63,72,63
+0022000128,2021-01-08,MEM,BKN,29.23,3,6,46,BKN,BKN,reb,0,False,False,,Nets Rebound,72-63,72,63
 0022000128,2021-01-08,MEM,BKN,29.3,3,6,42,BKN,BKN,tov,1,False,True,,Harris Bad Pass Turnover (P2.T10),72-63,72,63
 0022000128,2021-01-08,MEM,BKN,29.3,3,6,42,BKN,MEM,steal,1,False,True,steal,steal,72-63,72,63
 0022000128,2021-01-08,MEM,BKN,29.47,3,6,32,MEM,MEM,fg_make,6,False,False,Brooks 6' Driving Layup (20 PTS) (Clarke 4 AST),,74-63,74,63
@@ -312,8 +312,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000128,2021-01-08,MEM,BKN,33.73,3,2,16,BKN,BKN,reb,0,False,False,,Harris REBOUND (Off:0 Def:2),81-80,81,80
 0022000128,2021-01-08,MEM,BKN,33.77,3,2,14,BKN,BKN,fg3_make,2,False,False,,LeVert 25' 3PT Running Jump Shot (34 PTS) (Harris 2 AST),81-83,81,83
 0022000128,2021-01-08,MEM,BKN,34.03,3,1,58,MEM,MEM,fg_miss,7,True,False,MISS Tillman 4' Dunk,,81-83,81,83
-0022000128,2021-01-08,MEM,BKN,34.03,3,1,58,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,81-83,81,83
 0022000128,2021-01-08,MEM,BKN,34.03,3,1,58,MEM,BKN,block,7,True,False,block,block,81-83,81,83
+0022000128,2021-01-08,MEM,BKN,34.03,3,1,58,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,81-83,81,83
 0022000128,2021-01-08,MEM,BKN,34.07,3,1,56,MEM,MEM,fg3_make,1,False,False,Allen 3PT Jump Shot (7 PTS) (Anderson 5 AST),,84-83,84,83
 0022000128,2021-01-08,MEM,BKN,34.4,3,1,36,BKN,BKN,fg3_make,79,False,False,,LeVert 25' 3PT Pullup Jump Shot (37 PTS) (Allen 6 AST),84-86,84,86
 0022000128,2021-01-08,MEM,BKN,34.65,3,1,21,MEM,MEM,fg_make,9,False,False,Melton Driving Dunk (9 PTS) (Anderson 6 AST),,86-86,86,86
@@ -433,5 +433,5 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000128,2021-01-08,MEM,BKN,47.9,4,0,6,MEM,MEM,ft_make,12,False,False,Bane Free Throw 2 of 2 (10 PTS),,115-110,115,110
 0022000128,2021-01-08,MEM,BKN,47.9,4,0,6,BKN,BKN,timeout,1,False,False,,Nets Timeout: Regular (Reg.7 Short 0),115-110,115,110
 0022000128,2021-01-08,MEM,BKN,48.0,4,0,0,BKN,BKN,tov,1,False,True,,Luwawu-Cabarrot Bad Pass Turnover (P1.T21),115-110,115,110
-0022000128,2021-01-08,MEM,BKN,48.0,4,0,0,BKN,,period_end,0,False,False,,,115-110,115,110
 0022000128,2021-01-08,MEM,BKN,48.0,4,0,0,BKN,MEM,steal,1,False,True,steal,steal,115-110,115,110
+0022000128,2021-01-08,MEM,BKN,48.0,4,0,0,BKN,,period_end,0,False,False,,,115-110,115,110

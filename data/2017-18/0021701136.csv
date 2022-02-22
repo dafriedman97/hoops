@@ -138,8 +138,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701136,2018-03-30,LAL,MIL,15.72,2,8,17,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:2 Def:3),40-46,40,46
 0021701136,2018-03-30,LAL,MIL,15.87,2,8,8,MIL,MIL,fg_make,108,False,False,,Parker 1' Cutting Dunk Shot (6 PTS) (Terry 2 AST),40-48,40,48
 0021701136,2018-03-30,LAL,MIL,16.02,2,7,59,LAL,LAL,tov,1,False,True,Ennis Bad Pass Turnover (P2.T8),,40-48,40,48
-0021701136,2018-03-30,LAL,MIL,16.02,2,7,59,MIL,LAL,foul,1,False,False,Frye P.FOUL (P1.PN) (L.Richardson),,40-48,40,48
 0021701136,2018-03-30,LAL,MIL,16.02,2,7,59,LAL,MIL,steal,1,False,True,steal,steal,40-48,40,48
+0021701136,2018-03-30,LAL,MIL,16.02,2,7,59,MIL,LAL,foul,1,False,False,Frye P.FOUL (P1.PN) (L.Richardson),,40-48,40,48
 0021701136,2018-03-30,LAL,MIL,16.02,2,7,59,MIL,MIL,ft_make,11,False,False,,Antetokounmpo Free Throw 1 of 2 (11 PTS),40-49,40,49
 0021701136,2018-03-30,LAL,MIL,16.02,2,7,59,MIL,LAL,violation,3,False,False,Lane,,40-49,40,49
 0021701136,2018-03-30,LAL,MIL,16.02,2,7,59,MIL,MIL,ft_make,12,False,False,,Antetokounmpo Free Throw 2 of 2 (12 PTS),40-50,40,50
@@ -241,8 +241,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701136,2018-03-30,LAL,MIL,24.63,3,11,22,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 4 Short 0),,57-73,57,73
 0021701136,2018-03-30,LAL,MIL,24.85,3,11,9,LAL,LAL,fg_make,101,False,False,Kuzma 5' Driving Floating Jump Shot (11 PTS) (Lopez 2 AST),,59-73,59,73
 0021701136,2018-03-30,LAL,MIL,25.2,3,10,48,MIL,MIL,fg_miss,5,True,False,,MISS Bledsoe 3' Layup,59-73,59,73
-0021701136,2018-03-30,LAL,MIL,25.2,3,10,48,MIL,MIL,reb,0,False,False,,Bucks Rebound,59-73,59,73
 0021701136,2018-03-30,LAL,MIL,25.2,3,10,48,MIL,LAL,block,5,True,False,block,block,59-73,59,73
+0021701136,2018-03-30,LAL,MIL,25.2,3,10,48,MIL,MIL,reb,0,False,False,,Bucks Rebound,59-73,59,73
 0021701136,2018-03-30,LAL,MIL,25.27,3,10,44,MIL,MIL,fg_make,5,False,False,,Middleton 2' Layup (21 PTS) (Bledsoe 5 AST),59-75,59,75
 0021701136,2018-03-30,LAL,MIL,25.57,3,10,26,LAL,LAL,fg3_make,1,False,False,Ingram 25' 3PT Jump Shot (7 PTS) (Kuzma 1 AST),,62-75,62,75
 0021701136,2018-03-30,LAL,MIL,25.97,3,10,2,MIL,MIL,fg_miss,79,False,False,,MISS Antetokounmpo 19' Pullup Jump Shot,62-75,62,75
@@ -403,9 +403,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701136,2018-03-30,LAL,MIL,44.27,4,3,44,MIL,MIL,tov,8,False,False,,Antetokounmpo 3 Second Violation Turnover (P4.T11),107-108,107,108
 0021701136,2018-03-30,LAL,MIL,44.27,4,3,44,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 6 Short 0),,107-108,107,108
 0021701136,2018-03-30,LAL,MIL,44.67,4,3,20,LAL,LAL,fg_miss,5,True,False,MISS Caruso 3' Layup,,107-108,107,108
-0021701136,2018-03-30,LAL,MIL,44.67,4,3,20,LAL,LAL,reb,0,False,False,Caruso REBOUND (Off:1 Def:3),,107-108,107,108
-0021701136,2018-03-30,LAL,MIL,44.67,4,3,20,LAL,LAL,tov,11,False,False,LAKERS Turnover: Shot Clock (T#16),,107-108,107,108
 0021701136,2018-03-30,LAL,MIL,44.67,4,3,20,LAL,MIL,block,5,True,False,block,block,107-108,107,108
+0021701136,2018-03-30,LAL,MIL,44.67,4,3,20,LAL,LAL,tov,11,False,False,LAKERS Turnover: Shot Clock (T#16),,107-108,107,108
+0021701136,2018-03-30,LAL,MIL,44.67,4,3,20,LAL,LAL,reb,0,False,False,Caruso REBOUND (Off:1 Def:3),,107-108,107,108
 0021701136,2018-03-30,LAL,MIL,45.0,4,3,0,MIL,MIL,fg_make,6,False,False,,Bledsoe 5' Driving Layup (28 PTS),107-110,107,110
 0021701136,2018-03-30,LAL,MIL,45.33,4,2,40,LAL,LAL,fg3_make,1,False,False,Ingram 26' 3PT Jump Shot (12 PTS) (Kuzma 5 AST),,110-110,110,110
 0021701136,2018-03-30,LAL,MIL,45.33,4,2,40,LAL,MIL,foul,2,False,False,,Antetokounmpo S.FOUL (P5.PN) (L.Richardson),110-110,110,110

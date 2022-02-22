@@ -12,8 +12,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000884,2021-04-21,TOR,BKN,0.98,1,11,1,TOR,TOR,fg3_miss,1,False,False,MISS Lowry 26' 3PT Jump Shot,,2-3,2,3
 0022000884,2021-04-21,TOR,BKN,1.03,1,10,58,BKN,BKN,reb,0,False,False,,Irving REBOUND (Off:0 Def:1),2-3,2,3
 0022000884,2021-04-21,TOR,BKN,1.22,1,10,47,BKN,BKN,fg_miss,98,True,False,,MISS Green 3' Cutting Layup Shot,2-3,2,3
-0022000884,2021-04-21,TOR,BKN,1.22,1,10,47,BKN,BKN,reb,0,False,False,,Nets Rebound,2-3,2,3
 0022000884,2021-04-21,TOR,BKN,1.22,1,10,47,BKN,TOR,block,98,True,False,block,block,2-3,2,3
+0022000884,2021-04-21,TOR,BKN,1.22,1,10,47,BKN,BKN,reb,0,False,False,,Nets Rebound,2-3,2,3
 0022000884,2021-04-21,TOR,BKN,1.27,1,10,44,BKN,BKN,fg3_make,1,False,False,,Harris 3PT Jump Shot (6 PTS) (Irving 2 AST),2-6,2,6
 0022000884,2021-04-21,TOR,BKN,1.47,1,10,32,TOR,TOR,fg_make,73,False,False,Siakam 2' Driving Reverse Layup (2 PTS),,4-6,4,6
 0022000884,2021-04-21,TOR,BKN,1.68,1,10,19,BKN,BKN,fg_make,6,False,False,,Irving 3' Driving Layup (2 PTS),4-8,4,8
@@ -53,8 +53,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000884,2021-04-21,TOR,BKN,5.45,1,6,33,BKN,BKN,fg3_miss,1,False,False,,MISS Green 3PT Jump Shot,9-18,9,18
 0022000884,2021-04-21,TOR,BKN,5.5,1,6,30,TOR,TOR,reb,0,False,False,Siakam REBOUND (Off:0 Def:1),,9-18,9,18
 0022000884,2021-04-21,TOR,BKN,5.65,1,6,21,TOR,TOR,fg_make,57,False,False,Siakam 6' Driving Hook Shot (4 PTS),,11-18,11,18
-0022000884,2021-04-21,TOR,BKN,5.87,1,6,8,BKN,BKN,tov,45,False,False,,Irving Out of Bounds - Bad Pass Turnover Turnover (P1.T2),11-18,11,18
 0022000884,2021-04-21,TOR,BKN,5.87,1,6,8,TOR,TOR,timeout,1,False,False,RAPTORS Timeout: Regular (Full 1 Short 0),,11-18,11,18
+0022000884,2021-04-21,TOR,BKN,5.87,1,6,8,BKN,BKN,tov,45,False,False,,Irving Out of Bounds - Bad Pass Turnover Turnover (P1.T2),11-18,11,18
 0022000884,2021-04-21,TOR,BKN,6.27,1,5,44,TOR,TOR,fg_miss,6,False,False,MISS VanVleet 5' Driving Layup,,11-18,11,18
 0022000884,2021-04-21,TOR,BKN,6.3,1,5,42,BKN,BKN,reb,0,False,False,,Irving REBOUND (Off:0 Def:3),11-18,11,18
 0022000884,2021-04-21,TOR,BKN,6.42,1,5,35,BKN,BKN,fg_miss,5,True,False,,MISS Brown 3' Layup,11-18,11,18
@@ -73,8 +73,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000884,2021-04-21,TOR,BKN,7.32,1,4,41,BKN,BKN,fg_make,73,False,False,,Griffin 1' Driving Reverse Layup (4 PTS),14-21,14,21
 0022000884,2021-04-21,TOR,BKN,7.52,1,4,29,TOR,TOR,fg3_make,1,False,False,Anunoby 24' 3PT Jump Shot (8 PTS) (Lowry 1 AST),,17-21,17,21
 0022000884,2021-04-21,TOR,BKN,7.77,1,4,14,BKN,BKN,fg_miss,79,False,False,,MISS Irving 12' Pullup Jump Shot,17-21,17,21
-0022000884,2021-04-21,TOR,BKN,7.83,1,4,10,BKN,BKN,fg_make,97,False,False,,Irving Tip Layup Shot (4 PTS),17-23,17,23
 0022000884,2021-04-21,TOR,BKN,7.83,1,4,10,BKN,BKN,reb,0,False,False,,Irving REBOUND (Off:1 Def:3),17-23,17,23
+0022000884,2021-04-21,TOR,BKN,7.83,1,4,10,BKN,BKN,fg_make,97,False,False,,Irving Tip Layup Shot (4 PTS),17-23,17,23
 0022000884,2021-04-21,TOR,BKN,8.0,1,4,0,TOR,TOR,fg_make,101,False,False,Siakam 4' Driving Floating Jump Shot (6 PTS),,19-23,19,23
 0022000884,2021-04-21,TOR,BKN,8.23,1,3,46,BKN,BKN,fg3_miss,1,False,False,,MISS Luwawu-Cabarrot 3PT Jump Shot,19-23,19,23
 0022000884,2021-04-21,TOR,BKN,8.27,1,3,44,BKN,BKN,reb,0,False,False,,Nets Rebound,19-23,19,23
@@ -213,8 +213,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000884,2021-04-21,TOR,BKN,21.08,2,2,55,BKN,BKN,timeout,1,False,False,,Nets Timeout: Regular (Reg.1 Short 0),45-51,45,51
 0022000884,2021-04-21,TOR,BKN,21.35,2,2,39,BKN,BKN,fg_make,58,False,False,,Brown 4' Turnaround Hook Shot (7 PTS) (Irving 8 AST),45-53,45,53
 0022000884,2021-04-21,TOR,BKN,21.65,2,2,21,TOR,TOR,fg_miss,6,True,False,MISS Anunoby 5' Driving Layup,,45-53,45,53
-0022000884,2021-04-21,TOR,BKN,21.65,2,2,21,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,45-53,45,53
 0022000884,2021-04-21,TOR,BKN,21.65,2,2,21,TOR,BKN,block,6,True,False,block,block,45-53,45,53
+0022000884,2021-04-21,TOR,BKN,21.65,2,2,21,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,45-53,45,53
 0022000884,2021-04-21,TOR,BKN,21.75,2,2,15,TOR,BKN,foul,2,False,False,,Brown S.FOUL (P1.PN) (C.Kirkland),45-53,45,53
 0022000884,2021-04-21,TOR,BKN,21.75,2,2,15,TOR,TOR,ft_make,11,False,False,Siakam Free Throw 1 of 2 (7 PTS),,46-53,46,53
 0022000884,2021-04-21,TOR,BKN,21.75,2,2,15,TOR,TOR,ft_make,12,False,False,Siakam Free Throw 2 of 2 (8 PTS),,47-53,47,53
@@ -241,8 +241,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000884,2021-04-21,TOR,BKN,24.33,3,11,40,BKN,BKN,reb,0,False,False,,Griffin REBOUND (Off:0 Def:2),57-58,57,58
 0022000884,2021-04-21,TOR,BKN,24.53,3,11,28,BKN,BKN,fg_make,79,False,False,,Irving 10' Pullup Jump Shot (14 PTS) (Harris 1 AST),57-60,57,60
 0022000884,2021-04-21,TOR,BKN,24.72,3,11,17,TOR,TOR,fg_miss,5,True,False,MISS Birch 5' Layup,,57-60,57,60
-0022000884,2021-04-21,TOR,BKN,24.72,3,11,17,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,57-60,57,60
 0022000884,2021-04-21,TOR,BKN,24.72,3,11,17,TOR,BKN,block,5,True,False,block,block,57-60,57,60
+0022000884,2021-04-21,TOR,BKN,24.72,3,11,17,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,57-60,57,60
 0022000884,2021-04-21,TOR,BKN,24.77,3,11,14,TOR,BKN,foul,2,False,False,,Green S.FOUL (P2.T2) (C.Kirkland),57-60,57,60
 0022000884,2021-04-21,TOR,BKN,24.77,3,11,14,TOR,TOR,ft_make,11,False,False,Anunoby Free Throw 1 of 2 (15 PTS),,58-60,58,60
 0022000884,2021-04-21,TOR,BKN,24.77,3,11,14,TOR,TOR,ft_make,12,False,False,Anunoby Free Throw 2 of 2 (16 PTS),,59-60,59,60

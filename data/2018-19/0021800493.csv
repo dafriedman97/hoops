@@ -139,8 +139,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800493,2018-12-23,OKC,MIN,14.0,2,10,0,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 2 Short 0),,28-40,28,40
 0021800493,2018-12-23,OKC,MIN,14.23,2,9,46,OKC,OKC,fg_make,101,False,False,Schroder 6' Driving Floating Jump Shot (5 PTS),,30-40,30,40
 0021800493,2018-12-23,OKC,MIN,14.7,2,9,18,MIN,MIN,fg_miss,79,False,False,,MISS Bayless 13' Pullup Jump Shot,30-40,30,40
-0021800493,2018-12-23,OKC,MIN,14.7,2,9,18,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,30-40,30,40
 0021800493,2018-12-23,OKC,MIN,14.7,2,9,18,MIN,MIN,tov,11,False,False,,Timberwolves Turnover: Shot Clock (T#7),30-40,30,40
+0021800493,2018-12-23,OKC,MIN,14.7,2,9,18,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,30-40,30,40
 0021800493,2018-12-23,OKC,MIN,14.9,2,9,6,OKC,OKC,fg3_make,1,False,False,Patterson 3PT Jump Shot (3 PTS) (Noel 1 AST),,33-40,33,40
 0021800493,2018-12-23,OKC,MIN,15.15,2,8,51,MIN,OKC,foul,2,False,False,Patterson S.FOUL (P1.T1) (S.Wall),,33-40,33,40
 0021800493,2018-12-23,OKC,MIN,15.15,2,8,51,MIN,MIN,ft_miss,11,False,False,,MISS Okogie Free Throw 1 of 2,33-40,33,40
@@ -151,8 +151,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800493,2018-12-23,OKC,MIN,15.42,2,8,35,MIN,MIN,reb,0,False,False,,Saric REBOUND (Off:1 Def:4),33-40,33,40
 0021800493,2018-12-23,OKC,MIN,15.55,2,8,27,MIN,MIN,tov,4,False,False,,Saric Traveling Turnover (P2.T8),33-40,33,40
 0021800493,2018-12-23,OKC,MIN,15.62,2,8,23,OKC,OKC,fg_miss,6,True,False,MISS George 5' Driving Layup,,33-40,33,40
-0021800493,2018-12-23,OKC,MIN,15.62,2,8,23,OKC,OKC,reb,0,False,False,THUNDER Rebound,,33-40,33,40
 0021800493,2018-12-23,OKC,MIN,15.62,2,8,23,OKC,MIN,block,6,True,False,block,block,33-40,33,40
+0021800493,2018-12-23,OKC,MIN,15.62,2,8,23,OKC,OKC,reb,0,False,False,THUNDER Rebound,,33-40,33,40
 0021800493,2018-12-23,OKC,MIN,15.7,2,8,18,OKC,OKC,fg_make,47,False,False,George 5' Turnaround Jump Shot (10 PTS),,35-40,35,40
 0021800493,2018-12-23,OKC,MIN,16.05,2,7,57,MIN,MIN,fg3_make,80,False,False,,Bayless 24' 3PT Step Back Jump Shot (6 PTS),35-43,35,43
 0021800493,2018-12-23,OKC,MIN,16.15,2,7,51,OKC,MIN,foul,2,False,False,,Covington S.FOUL (P3.T2) (T.Brown),35-43,35,43
@@ -305,8 +305,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800493,2018-12-23,OKC,MIN,34.55,3,1,27,OKC,OKC,tov,2,False,True,Schroder Lost Ball Turnover (P3.T11),,78-80,78,80
 0021800493,2018-12-23,OKC,MIN,34.55,3,1,27,OKC,MIN,steal,2,False,True,steal,steal,78-80,78,80
 0021800493,2018-12-23,OKC,MIN,34.63,3,1,22,MIN,MIN,fg_miss,41,False,False,,MISS Okogie 1' Running Layup,78-80,78,80
-0021800493,2018-12-23,OKC,MIN,34.63,3,1,22,OKC,OKC,reb,0,False,False,THUNDER Rebound,,78-80,78,80
 0021800493,2018-12-23,OKC,MIN,34.63,3,1,22,OKC,MIN,foul,3,False,False,,Gibson L.B.FOUL (P2.PN) (T.Brown),78-80,78,80
+0021800493,2018-12-23,OKC,MIN,34.63,3,1,22,OKC,OKC,reb,0,False,False,THUNDER Rebound,,78-80,78,80
 0021800493,2018-12-23,OKC,MIN,34.63,3,1,22,OKC,OKC,ft_make,11,False,False,Abrines Free Throw 1 of 2 (6 PTS),,79-80,79,80
 0021800493,2018-12-23,OKC,MIN,34.63,3,1,22,OKC,OKC,ft_make,12,False,False,Abrines Free Throw 2 of 2 (7 PTS),,80-80,80,80
 0021800493,2018-12-23,OKC,MIN,34.82,3,1,11,MIN,OKC,foul,17,False,False,THUNDER T.Foul (Def. 3 Sec Patterson ) (T.Brown),,80-80,80,80
@@ -341,9 +341,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800493,2018-12-23,OKC,MIN,38.35,4,9,39,OKC,OKC,reb,0,False,False,Diallo REBOUND (Off:0 Def:2),,83-89,83,89
 0021800493,2018-12-23,OKC,MIN,38.37,4,9,38,OKC,OKC,fg_make,50,False,False,Diallo 1' Running Dunk (4 PTS),,85-89,85,89
 0021800493,2018-12-23,OKC,MIN,38.52,4,9,29,MIN,MIN,fg_miss,5,True,False,,MISS Wiggins 3' Layup,85-89,85,89
+0021800493,2018-12-23,OKC,MIN,38.52,4,9,29,MIN,OKC,block,5,True,False,block,block,85-89,85,89
 0021800493,2018-12-23,OKC,MIN,38.52,4,9,29,OKC,OKC,reb,0,False,False,Noel REBOUND (Off:1 Def:3),,85-89,85,89
 0021800493,2018-12-23,OKC,MIN,38.52,4,9,29,OKC,MIN,foul,1,False,False,,Okogie P.FOUL (P2.T1) (T.Brown),85-89,85,89
-0021800493,2018-12-23,OKC,MIN,38.52,4,9,29,MIN,OKC,block,5,True,False,block,block,85-89,85,89
 0021800493,2018-12-23,OKC,MIN,38.78,4,9,13,OKC,OKC,tov,1,False,True,Schroder Bad Pass Turnover (P4.T14),,85-89,85,89
 0021800493,2018-12-23,OKC,MIN,38.78,4,9,13,OKC,MIN,steal,1,False,True,steal,steal,85-89,85,89
 0021800493,2018-12-23,OKC,MIN,38.8,4,9,12,MIN,OKC,foul,1,False,False,Noel P.FOUL (P3.T2) (S.Wall),,85-89,85,89
@@ -401,8 +401,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800493,2018-12-23,OKC,MIN,43.5,4,4,30,MIN,OKC,block,6,True,False,block,block,98-100,98,100
 0021800493,2018-12-23,OKC,MIN,43.53,4,4,28,MIN,MIN,reb,0,False,False,,Bayless REBOUND (Off:1 Def:1),98-100,98,100
 0021800493,2018-12-23,OKC,MIN,43.53,4,4,28,MIN,MIN,fg3_miss,1,True,False,,MISS Saric 3PT Jump Shot,98-100,98,100
-0021800493,2018-12-23,OKC,MIN,43.53,4,4,28,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,98-100,98,100
 0021800493,2018-12-23,OKC,MIN,43.53,4,4,28,MIN,OKC,block,1,True,False,block,block,98-100,98,100
+0021800493,2018-12-23,OKC,MIN,43.53,4,4,28,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,98-100,98,100
 0021800493,2018-12-23,OKC,MIN,43.72,4,4,17,MIN,MIN,fg_make,98,False,False,,Covington 3' Cutting Layup Shot (9 PTS) (Wiggins 5 AST),98-102,98,102
 0021800493,2018-12-23,OKC,MIN,43.72,4,4,17,MIN,OKC,foul,2,False,False,Schroder S.FOUL (P1.PN) (S.Wall),,98-102,98,102
 0021800493,2018-12-23,OKC,MIN,43.72,4,4,17,MIN,MIN,ft_make,10,False,False,,Covington Free Throw 1 of 1 (10 PTS),98-103,98,103

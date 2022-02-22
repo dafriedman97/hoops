@@ -91,8 +91,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700031,2017-10-21,CHI,SAS,11.05,1,0,57,CHI,CHI,fg_miss,1,False,False,MISS Holiday 10' Jump Shot,,19-19,19,19
 0021700031,2017-10-21,CHI,SAS,11.1,1,0,54,SAS,SAS,reb,0,False,False,,Lauvergne REBOUND (Off:0 Def:2),19-19,19,19
 0021700031,2017-10-21,CHI,SAS,11.23,1,0,46,SAS,SAS,fg_miss,5,True,False,,MISS Lauvergne 1' Layup,19-19,19,19
-0021700031,2017-10-21,CHI,SAS,11.23,1,0,46,CHI,CHI,reb,0,False,False,Zipser REBOUND (Off:0 Def:3),,19-19,19,19
 0021700031,2017-10-21,CHI,SAS,11.23,1,0,46,SAS,CHI,block,5,True,False,block,block,19-19,19,19
+0021700031,2017-10-21,CHI,SAS,11.23,1,0,46,CHI,CHI,reb,0,False,False,Zipser REBOUND (Off:0 Def:3),,19-19,19,19
 0021700031,2017-10-21,CHI,SAS,11.47,1,0,32,CHI,CHI,fg3_miss,1,False,False,MISS Holiday 26' 3PT Jump Shot,,19-19,19,19
 0021700031,2017-10-21,CHI,SAS,11.53,1,0,28,CHI,CHI,reb,0,False,False,Lopez REBOUND (Off:2 Def:2),,19-19,19,19
 0021700031,2017-10-21,CHI,SAS,11.53,1,0,28,CHI,CHI,fg_make,44,False,False,Lopez 2' Reverse Layup (8 PTS),,21-19,21,19
@@ -245,15 +245,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700031,2017-10-21,CHI,SAS,28.65,3,7,21,SAS,SAS,reb,0,False,False,,Aldridge REBOUND (Off:4 Def:4),49-50,49,50
 0021700031,2017-10-21,CHI,SAS,28.77,3,7,14,SAS,SAS,fg_make,72,False,False,,Aldridge 1' Putback Layup (18 PTS),49-52,49,52
 0021700031,2017-10-21,CHI,SAS,28.93,3,7,4,CHI,CHI,fg_miss,1,True,False,MISS Holiday 3' Jump Shot,,49-52,49,52
+0021700031,2017-10-21,CHI,SAS,28.93,3,7,4,CHI,SAS,block,1,True,False,block,block,49-52,49,52
 0021700031,2017-10-21,CHI,SAS,28.93,3,7,4,CHI,CHI,reb,0,False,False,Holiday REBOUND (Off:1 Def:2),,49-52,49,52
 0021700031,2017-10-21,CHI,SAS,28.93,3,7,4,CHI,CHI,tov,39,False,False,Holiday Step Out of Bounds Turnover (P2.T14),,49-52,49,52
-0021700031,2017-10-21,CHI,SAS,28.93,3,7,4,CHI,SAS,block,1,True,False,block,block,49-52,49,52
 0021700031,2017-10-21,CHI,SAS,29.23,3,6,46,SAS,SAS,fg_miss,1,False,False,,MISS Aldridge 9' Jump Shot,49-52,49,52
 0021700031,2017-10-21,CHI,SAS,29.27,3,6,44,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:3 Def:4),49-52,49,52
 0021700031,2017-10-21,CHI,SAS,29.27,3,6,44,SAS,SAS,fg_miss,1,True,False,,MISS Murray 3' Jump Shot,49-52,49,52
+0021700031,2017-10-21,CHI,SAS,29.27,3,6,44,SAS,CHI,block,1,True,False,block,block,49-52,49,52
 0021700031,2017-10-21,CHI,SAS,29.27,3,6,44,SAS,SAS,reb,0,False,False,,Spurs Rebound,49-52,49,52
 0021700031,2017-10-21,CHI,SAS,29.27,3,6,44,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 3 Short 0),,49-52,49,52
-0021700031,2017-10-21,CHI,SAS,29.27,3,6,44,SAS,CHI,block,1,True,False,block,block,49-52,49,52
 0021700031,2017-10-21,CHI,SAS,29.45,3,6,33,SAS,SAS,fg_make,1,False,False,,Aldridge 19' Jump Shot (20 PTS) (Murray 4 AST),49-54,49,54
 0021700031,2017-10-21,CHI,SAS,29.9,3,6,6,CHI,CHI,fg_miss,1,False,False,MISS Holiday 20' Jump Shot,,49-54,49,54
 0021700031,2017-10-21,CHI,SAS,29.95,3,6,3,SAS,SAS,reb,0,False,False,,Anderson REBOUND (Off:1 Def:5),49-54,49,54
@@ -327,9 +327,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700031,2017-10-21,CHI,SAS,38.42,4,9,35,CHI,CHI,fg_miss,97,False,False,MISS Felicio 1' Tip Layup Shot,,55-71,55,71
 0021700031,2017-10-21,CHI,SAS,38.43,4,9,34,SAS,SAS,reb,0,False,False,,Forbes REBOUND (Off:1 Def:1),55-71,55,71
 0021700031,2017-10-21,CHI,SAS,38.55,4,9,27,SAS,SAS,fg_miss,1,True,False,,MISS Forbes 9' Jump Shot,55-71,55,71
+0021700031,2017-10-21,CHI,SAS,38.55,4,9,27,SAS,CHI,block,1,True,False,block,block,55-71,55,71
 0021700031,2017-10-21,CHI,SAS,38.55,4,9,27,CHI,CHI,reb,0,False,False,Nwaba REBOUND (Off:0 Def:2),,55-71,55,71
 0021700031,2017-10-21,CHI,SAS,38.55,4,9,27,CHI,SAS,foul,1,False,False,,Ginobili P.FOUL (P3.T2) (L.Wood),55-71,55,71
-0021700031,2017-10-21,CHI,SAS,38.55,4,9,27,SAS,CHI,block,1,True,False,block,block,55-71,55,71
 0021700031,2017-10-21,CHI,SAS,38.8,4,9,12,CHI,CHI,fg_miss,5,False,False,MISS Grant 2' Layup,,55-71,55,71
 0021700031,2017-10-21,CHI,SAS,38.88,4,9,7,CHI,CHI,reb,0,False,False,Felicio REBOUND (Off:4 Def:2),,55-71,55,71
 0021700031,2017-10-21,CHI,SAS,38.88,4,9,7,CHI,CHI,fg_make,97,False,False,Felicio 1' Tip Layup Shot (2 PTS),,57-71,57,71
@@ -374,8 +374,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700031,2017-10-21,CHI,SAS,43.72,4,4,17,SAS,SAS,reb,0,False,False,,Aldridge REBOUND (Off:5 Def:5),64-79,64,79
 0021700031,2017-10-21,CHI,SAS,43.97,4,4,2,SAS,SAS,fg_make,47,False,False,,Aldridge 5' Turnaround Jump Shot (28 PTS) (Mills 3 AST),64-81,64,81
 0021700031,2017-10-21,CHI,SAS,44.03,4,3,58,CHI,CHI,fg_miss,5,True,False,MISS Grant 2' Layup,,64-81,64,81
-0021700031,2017-10-21,CHI,SAS,44.03,4,3,58,CHI,CHI,reb,0,False,False,BULLS Rebound,,64-81,64,81
 0021700031,2017-10-21,CHI,SAS,44.03,4,3,58,CHI,SAS,block,5,True,False,block,block,64-81,64,81
+0021700031,2017-10-21,CHI,SAS,44.03,4,3,58,CHI,CHI,reb,0,False,False,BULLS Rebound,,64-81,64,81
 0021700031,2017-10-21,CHI,SAS,44.08,4,3,55,CHI,CHI,tov,45,False,False,Grant Out of Bounds - Bad Pass Turnover Turnover (P2.T18),,64-81,64,81
 0021700031,2017-10-21,CHI,SAS,44.43,4,3,34,SAS,SAS,fg_make,73,False,False,,Green 2' Driving Reverse Layup (9 PTS) (Aldridge 3 AST),64-83,64,83
 0021700031,2017-10-21,CHI,SAS,44.63,4,3,22,CHI,SAS,foul,2,False,False,,Gay S.FOUL (P1.PN) (T.Brothers),64-83,64,83

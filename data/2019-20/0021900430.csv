@@ -79,8 +79,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900430,2019-12-21,CHA,UTA,11.48,1,0,31,UTA,UTA,fg3_miss,1,False,False,,MISS Mudiay 26' 3PT Jump Shot,31-31,31,31
 0021900430,2019-12-21,CHA,UTA,11.57,1,0,26,UTA,UTA,reb,0,False,False,,Niang REBOUND (Off:1 Def:0),31-31,31,31
 0021900430,2019-12-21,CHA,UTA,11.73,1,0,16,UTA,UTA,fg_miss,63,False,False,,MISS Mitchell 10' Fadeaway Jumper,31-31,31,31
-0021900430,2019-12-21,CHA,UTA,11.78,1,0,13,CHA,CHA,reb,0,False,False,HORNETS Rebound,,31-31,31,31
 0021900430,2019-12-21,CHA,UTA,11.78,1,0,13,,CHA,jump_ball,0,False,False,Jump Ball Zeller vs. Davis: Tip to Williams,,31-31,31,31
+0021900430,2019-12-21,CHA,UTA,11.78,1,0,13,CHA,CHA,reb,0,False,False,HORNETS Rebound,,31-31,31,31
 0021900430,2019-12-21,CHA,UTA,11.97,1,0,2,CHA,CHA,fg3_miss,1,False,False,MISS Graham 26' 3PT Jump Shot,,31-31,31,31
 0021900430,2019-12-21,CHA,UTA,11.98,1,0,1,CHA,CHA,reb,0,False,False,Zeller REBOUND (Off:1 Def:1),,31-31,31,31
 0021900430,2019-12-21,CHA,UTA,11.98,1,0,1,CHA,UTA,foul,2,False,False,,Davis S.FOUL (P1.PN) (R.Acosta),31-31,31,31
@@ -191,8 +191,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900430,2019-12-21,CHA,UTA,23.75,2,0,15,UTA,UTA,ft_make,11,False,False,,Bogdanovic Free Throw 1 of 2 (12 PTS),64-55,64,55
 0021900430,2019-12-21,CHA,UTA,23.75,2,0,15,UTA,UTA,ft_make,12,False,False,,Bogdanovic Free Throw 2 of 2 (13 PTS),64-56,64,56
 0021900430,2019-12-21,CHA,UTA,23.97,2,0,2,CHA,CHA,fg_miss,5,True,False,MISS Graham 4' Layup,,64-56,64,56
-0021900430,2019-12-21,CHA,UTA,23.97,2,0,2,UTA,UTA,reb,0,False,False,,O'Neale REBOUND (Off:0 Def:1),64-56,64,56
 0021900430,2019-12-21,CHA,UTA,23.97,2,0,2,CHA,UTA,block,5,True,False,block,block,64-56,64,56
+0021900430,2019-12-21,CHA,UTA,23.97,2,0,2,UTA,UTA,reb,0,False,False,,O'Neale REBOUND (Off:0 Def:1),64-56,64,56
 0021900430,2019-12-21,CHA,UTA,24.0,2,0,0,UTA,UTA,fg3_miss,2,False,False,,MISS O'Neale 42' 3PT Running Jump Shot,64-56,64,56
 0021900430,2019-12-21,CHA,UTA,24.0,2,0,0,UTA,UTA,reb,0,False,False,,Jazz Rebound,64-56,64,56
 0021900430,2019-12-21,CHA,UTA,24.0,2,0,0,UTA,,period_end,0,False,False,,,64-56,64,56
@@ -222,9 +222,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900430,2019-12-21,CHA,UTA,26.42,3,9,35,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:5 Def:9),70-58,70,58
 0021900430,2019-12-21,CHA,UTA,26.42,3,9,35,UTA,CHA,foul,2,False,False,Biyombo S.FOUL (P2.T2) (K.Scott),,70-58,70,58
 0021900430,2019-12-21,CHA,UTA,26.42,3,9,35,UTA,CHA,foul,11,False,False,Graham T.FOUL (P0.T2) (J.Goble),,70-58,70,58
-0021900430,2019-12-21,CHA,UTA,26.42,3,9,35,UTA,UTA,ft_make,16,False,False,,Mitchell Free Throw Technical (7 PTS),70-59,70,59
 0021900430,2019-12-21,CHA,UTA,26.42,3,9,35,UTA,UTA,ft_make,11,False,False,,Gobert Free Throw 1 of 2 (14 PTS),70-60,70,60
 0021900430,2019-12-21,CHA,UTA,26.42,3,9,35,UTA,UTA,ft_make,12,False,False,,Gobert Free Throw 2 of 2 (15 PTS),70-61,70,61
+0021900430,2019-12-21,CHA,UTA,26.42,3,9,35,UTA,UTA,ft_make,16,False,False,,Mitchell Free Throw Technical (7 PTS),70-59,70,59
 0021900430,2019-12-21,CHA,UTA,26.45,3,9,33,CHA,UTA,foul,1,False,False,,O'Neale P.FOUL (P3.T2) (R.Acosta),70-61,70,61
 0021900430,2019-12-21,CHA,UTA,26.65,3,9,21,CHA,CHA,fg3_miss,1,False,False,MISS Bridges 26' 3PT Jump Shot,,70-61,70,61
 0021900430,2019-12-21,CHA,UTA,26.72,3,9,17,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:0 Def:2),70-61,70,61
@@ -332,8 +332,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900430,2019-12-21,CHA,UTA,37.47,4,10,32,CHA,UTA,foul,1,False,False,,Niang P.FOUL (P3.T2) (K.Scott),90-90,90,90
 0021900430,2019-12-21,CHA,UTA,37.58,4,10,25,CHA,CHA,fg_make,98,False,False,Williams 2' Cutting Layup Shot (7 PTS) (Rozier 3 AST),,92-90,92,90
 0021900430,2019-12-21,CHA,UTA,37.8,4,10,12,UTA,UTA,fg_miss,5,True,False,,MISS Mitchell 3' Layup,92-90,92,90
-0021900430,2019-12-21,CHA,UTA,37.8,4,10,12,UTA,UTA,reb,0,False,False,,Jazz Rebound,92-90,92,90
 0021900430,2019-12-21,CHA,UTA,37.8,4,10,12,UTA,CHA,block,5,True,False,block,block,92-90,92,90
+0021900430,2019-12-21,CHA,UTA,37.8,4,10,12,UTA,UTA,reb,0,False,False,,Jazz Rebound,92-90,92,90
 0021900430,2019-12-21,CHA,UTA,37.98,4,10,1,UTA,UTA,fg_make,6,False,False,,Mudiay 2' Driving Layup (12 PTS) (Gobert 1 AST),92-92,92,92
 0021900430,2019-12-21,CHA,UTA,38.23,4,9,46,CHA,CHA,tov,40,False,False,Rozier Out of Bounds Lost Ball Turnover (P2.T11),,92-92,92,92
 0021900430,2019-12-21,CHA,UTA,38.4,4,9,36,UTA,UTA,fg3_miss,1,False,False,,MISS Ingles 26' 3PT Jump Shot,92-92,92,92
@@ -380,8 +380,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900430,2019-12-21,CHA,UTA,43.57,4,4,26,UTA,UTA,fg3_miss,1,False,False,,MISS Ingles 26' 3PT Jump Shot,99-105,99,105
 0021900430,2019-12-21,CHA,UTA,43.63,4,4,22,CHA,CHA,reb,0,False,False,Martin REBOUND (Off:0 Def:4),,99-105,99,105
 0021900430,2019-12-21,CHA,UTA,43.97,4,4,2,CHA,CHA,fg_miss,6,False,False,MISS Martin 3' Driving Layup,,99-105,99,105
-0021900430,2019-12-21,CHA,UTA,44.05,4,3,57,CHA,CHA,fg_miss,97,False,False,MISS Zeller 1' Tip Layup Shot,,99-105,99,105
 0021900430,2019-12-21,CHA,UTA,44.05,4,3,57,CHA,CHA,reb,0,False,False,Zeller REBOUND (Off:3 Def:3),,99-105,99,105
+0021900430,2019-12-21,CHA,UTA,44.05,4,3,57,CHA,CHA,fg_miss,97,False,False,MISS Zeller 1' Tip Layup Shot,,99-105,99,105
 0021900430,2019-12-21,CHA,UTA,44.07,4,3,56,UTA,UTA,reb,0,False,False,,Ingles REBOUND (Off:0 Def:2),99-105,99,105
 0021900430,2019-12-21,CHA,UTA,44.18,4,3,49,UTA,CHA,foul,1,False,False,Zeller P.FOUL (P4.T4) (R.Acosta),,99-105,99,105
 0021900430,2019-12-21,CHA,UTA,44.18,4,3,49,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.4 Short 0),99-105,99,105

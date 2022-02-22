@@ -21,8 +21,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700441,2017-12-18,CHA,NYK,1.85,1,10,9,NYK,NYK,reb,0,False,False,,Beasley REBOUND (Off:0 Def:1),2-3,2,3
 0021700441,2017-12-18,CHA,NYK,1.97,1,10,2,NYK,NYK,fg_make,1,False,False,,Kanter 11' Jump Shot (3 PTS) (Jack 1 AST),2-5,2,5
 0021700441,2017-12-18,CHA,NYK,2.33,1,9,40,CHA,CHA,fg_miss,5,True,False,MISS Kidd-Gilchrist 4' Layup,,2-5,2,5
-0021700441,2017-12-18,CHA,NYK,2.33,1,9,40,NYK,NYK,reb,0,False,False,,Knicks Rebound,2-5,2,5
 0021700441,2017-12-18,CHA,NYK,2.33,1,9,40,CHA,NYK,block,5,True,False,block,block,2-5,2,5
+0021700441,2017-12-18,CHA,NYK,2.33,1,9,40,NYK,NYK,reb,0,False,False,,Knicks Rebound,2-5,2,5
 0021700441,2017-12-18,CHA,NYK,2.5,1,9,30,NYK,NYK,fg_miss,1,False,False,,MISS Lee 18' Jump Shot,2-5,2,5
 0021700441,2017-12-18,CHA,NYK,2.58,1,9,25,CHA,CHA,reb,0,False,False,Walker REBOUND (Off:0 Def:1),,2-5,2,5
 0021700441,2017-12-18,CHA,NYK,2.68,1,9,19,CHA,CHA,fg_make,1,False,False,Batum 16' Jump Shot (2 PTS) (Walker 1 AST),,4-5,4,5
@@ -91,10 +91,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700441,2017-12-18,CHA,NYK,10.95,1,1,3,CHA,CHA,fg_miss,1,False,False,MISS O'Bryant III 16' Jump Shot,,24-21,24,21
 0021700441,2017-12-18,CHA,NYK,11.02,1,0,59,NYK,NYK,reb,0,False,False,,McDermott REBOUND (Off:0 Def:1),24-21,24,21
 0021700441,2017-12-18,CHA,NYK,11.13,1,0,52,NYK,NYK,tov,1,False,True,,Ntilikina Bad Pass Turnover (P1.T4),24-21,24,21
+0021700441,2017-12-18,CHA,NYK,11.13,1,0,52,NYK,CHA,steal,1,False,True,steal,steal,24-21,24,21
 0021700441,2017-12-18,CHA,NYK,11.13,1,0,52,CHA,NYK,foul,1,False,False,,Ntilikina P.FOUL (P1.PN) (J.Goble),24-21,24,21
 0021700441,2017-12-18,CHA,NYK,11.13,1,0,52,CHA,CHA,ft_miss,11,False,False,MISS Carter-Williams Free Throw 1 of 2,,24-21,24,21
 0021700441,2017-12-18,CHA,NYK,11.13,1,0,52,CHA,CHA,reb,1,False,False,HORNETS Rebound,,24-21,24,21
-0021700441,2017-12-18,CHA,NYK,11.13,1,0,52,NYK,CHA,steal,1,False,True,steal,steal,24-21,24,21
 0021700441,2017-12-18,CHA,NYK,11.13,1,0,52,CHA,CHA,ft_make,12,False,False,Carter-Williams Free Throw 2 of 2 (1 PTS),,25-21,25,21
 0021700441,2017-12-18,CHA,NYK,11.43,1,0,34,NYK,NYK,fg3_miss,1,False,False,,MISS McDermott 3PT Jump Shot,25-21,25,21
 0021700441,2017-12-18,CHA,NYK,11.47,1,0,32,CHA,CHA,reb,0,False,False,Lamb REBOUND (Off:0 Def:3),,25-21,25,21
@@ -208,8 +208,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700441,2017-12-18,CHA,NYK,23.35,2,0,39,NYK,NYK,fg3_miss,1,False,False,,MISS Jack 25' 3PT Jump Shot,60-39,60,39
 0021700441,2017-12-18,CHA,NYK,23.4,2,0,36,NYK,NYK,reb,0,False,False,,Beasley REBOUND (Off:1 Def:4),60-39,60,39
 0021700441,2017-12-18,CHA,NYK,23.4,2,0,36,NYK,NYK,fg_miss,97,True,False,,MISS Beasley Tip Layup Shot,60-39,60,39
-0021700441,2017-12-18,CHA,NYK,23.4,2,0,36,CHA,CHA,reb,0,False,False,Batum REBOUND (Off:2 Def:2),,60-39,60,39
 0021700441,2017-12-18,CHA,NYK,23.4,2,0,36,NYK,CHA,block,97,True,False,block,block,60-39,60,39
+0021700441,2017-12-18,CHA,NYK,23.4,2,0,36,CHA,CHA,reb,0,False,False,Batum REBOUND (Off:2 Def:2),,60-39,60,39
 0021700441,2017-12-18,CHA,NYK,23.48,2,0,31,CHA,CHA,fg3_miss,1,False,False,MISS Walker 26' 3PT Jump Shot,,60-39,60,39
 0021700441,2017-12-18,CHA,NYK,23.55,2,0,27,NYK,NYK,reb,0,False,False,,Lee REBOUND (Off:0 Def:1),60-39,60,39
 0021700441,2017-12-18,CHA,NYK,23.83,2,0,10,NYK,NYK,fg3_make,1,False,False,,McDermott 3PT Jump Shot (4 PTS) (Jack 5 AST),60-42,60,42
@@ -283,18 +283,18 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700441,2017-12-18,CHA,NYK,31.92,3,4,5,CHA,CHA,fg3_make,1,False,False,Kaminsky 26' 3PT Jump Shot (18 PTS) (Walker 6 AST),,80-54,80,54
 0021700441,2017-12-18,CHA,NYK,32.2,3,3,48,NYK,NYK,fg3_make,1,False,False,,Beasley 25' 3PT Jump Shot (16 PTS) (Jack 7 AST),80-57,80,57
 0021700441,2017-12-18,CHA,NYK,32.47,3,3,32,CHA,CHA,fg_miss,3,True,False,MISS Howard 6' Hook Shot,,80-57,80,57
+0021700441,2017-12-18,CHA,NYK,32.47,3,3,32,CHA,NYK,block,3,True,False,block,block,80-57,80,57
 0021700441,2017-12-18,CHA,NYK,32.47,3,3,32,NYK,NYK,reb,0,False,False,,Knicks Rebound,80-57,80,57
 0021700441,2017-12-18,CHA,NYK,32.47,3,3,32,NYK,CHA,foul,3,False,False,Kidd-Gilchrist L.B.FOUL (P1.T1) (J.Williams),,80-57,80,57
-0021700441,2017-12-18,CHA,NYK,32.47,3,3,32,CHA,NYK,block,3,True,False,block,block,80-57,80,57
 0021700441,2017-12-18,CHA,NYK,32.7,3,3,18,NYK,NYK,fg_make,6,False,False,,Beasley 3' Driving Layup (18 PTS) (Ntilikina 2 AST),80-59,80,59
 0021700441,2017-12-18,CHA,NYK,32.7,3,3,18,NYK,CHA,violation,2,False,False,Howard Violation:Defensive Goaltending (J.Goble),,80-59,80,59
 0021700441,2017-12-18,CHA,NYK,33.08,3,2,55,CHA,CHA,fg_make,109,False,False,Howard 1' Driving Reverse Dunk Shot (11 PTS),,82-59,82,59
 0021700441,2017-12-18,CHA,NYK,33.22,3,2,47,NYK,NYK,fg_miss,1,False,False,,MISS Dotson 14' Jump Shot,82-59,82,59
 0021700441,2017-12-18,CHA,NYK,33.27,3,2,44,NYK,NYK,reb,0,False,False,,Dotson REBOUND (Off:1 Def:1),82-59,82,59
 0021700441,2017-12-18,CHA,NYK,33.48,3,2,31,NYK,NYK,fg_miss,5,True,False,,MISS O'Quinn 5' Layup,82-59,82,59
+0021700441,2017-12-18,CHA,NYK,33.48,3,2,31,NYK,CHA,block,5,True,False,block,block,82-59,82,59
 0021700441,2017-12-18,CHA,NYK,33.48,3,2,31,NYK,NYK,reb,0,False,False,,Knicks Rebound,82-59,82,59
 0021700441,2017-12-18,CHA,NYK,33.48,3,2,31,NYK,NYK,timeout,1,False,False,,Knicks Timeout: Regular (Reg.3 Short 0),82-59,82,59
-0021700441,2017-12-18,CHA,NYK,33.48,3,2,31,NYK,CHA,block,5,True,False,block,block,82-59,82,59
 0021700441,2017-12-18,CHA,NYK,33.6,3,2,24,NYK,NYK,fg_miss,1,False,False,,MISS Beasley 17' Jump Shot,82-59,82,59
 0021700441,2017-12-18,CHA,NYK,33.65,3,2,21,NYK,NYK,reb,0,False,False,,Beasley REBOUND (Off:3 Def:5),82-59,82,59
 0021700441,2017-12-18,CHA,NYK,33.65,3,2,21,NYK,NYK,tov,45,False,False,,Beasley Out of Bounds - Bad Pass Turnover Turnover (P3.T11),82-59,82,59
@@ -420,9 +420,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700441,2017-12-18,CHA,NYK,46.98,4,1,1,CHA,CHA,tov,1,False,True,Stone Bad Pass Turnover (P1.T17),,109-89,109,89
 0021700441,2017-12-18,CHA,NYK,46.98,4,1,1,CHA,NYK,steal,1,False,True,steal,steal,109-89,109,89
 0021700441,2017-12-18,CHA,NYK,47.0,4,1,0,NYK,CHA,foul,1,False,False,Stone P.FOUL (P1.PN) (G.Petraitis),,109-89,109,89
-0021700441,2017-12-18,CHA,NYK,47.0,4,1,0,NYK,,violation,1,False,False,,,109-89,109,89
 0021700441,2017-12-18,CHA,NYK,47.0,4,1,0,NYK,NYK,ft_make,11,False,False,,Baker Free Throw 1 of 2 (3 PTS),109-90,109,90
 0021700441,2017-12-18,CHA,NYK,47.0,4,1,0,NYK,NYK,ft_make,12,False,False,,Baker Free Throw 2 of 2 (4 PTS),109-91,109,91
+0021700441,2017-12-18,CHA,NYK,47.0,4,1,0,NYK,,violation,1,False,False,,,109-89,109,89
 0021700441,2017-12-18,CHA,NYK,47.25,4,0,45,CHA,CHA,tov,40,False,False,O'Bryant III Out of Bounds Lost Ball Turnover (P2.T18),,109-91,109,91
 0021700441,2017-12-18,CHA,NYK,47.42,4,0,35,NYK,NYK,tov,1,False,True,,Baker Bad Pass Turnover (P1.T17),109-91,109,91
 0021700441,2017-12-18,CHA,NYK,47.42,4,0,35,NYK,CHA,steal,1,False,True,steal,steal,109-91,109,91

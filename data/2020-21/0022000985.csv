@@ -106,10 +106,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000985,2021-05-04,MIL,BKN,11.95,1,0,3,BKN,MIL,foul,2,False,False,Tucker S.FOUL (P1.T2) (J.Goble),,34-32,34,32
 0022000985,2021-05-04,MIL,BKN,11.95,1,0,3,BKN,BKN,ft_make,10,False,False,,Durant Free Throw 1 of 1 (10 PTS),34-33,34,33
 0022000985,2021-05-04,MIL,BKN,12.0,1,0,0,MIL,MIL,fg3_miss,1,True,False,MISS Antetokounmpo 28' 3PT Jump Shot,,34-33,34,33
+0022000985,2021-05-04,MIL,BKN,12.0,1,0,0,MIL,BKN,block,1,True,False,block,block,34-33,34,33
 0022000985,2021-05-04,MIL,BKN,12.0,1,0,0,MIL,MIL,reb,0,False,False,BUCKS Rebound,,34-33,34,33
 0022000985,2021-05-04,MIL,BKN,12.0,1,0,0,MIL,,period_end,0,False,False,,,34-33,34,33
 0022000985,2021-05-04,MIL,BKN,12.0,2,12,0,MIL,,period_start,0,False,False,,,34-33,34,33
-0022000985,2021-05-04,MIL,BKN,12.0,1,0,0,MIL,BKN,block,1,True,False,block,block,34-33,34,33
 0022000985,2021-05-04,MIL,BKN,12.28,2,11,43,BKN,BKN,fg3_miss,1,False,False,,MISS Harris 27' 3PT Jump Shot,34-33,34,33
 0022000985,2021-05-04,MIL,BKN,12.32,2,11,41,MIL,MIL,reb,0,False,False,DiVincenzo REBOUND (Off:0 Def:4),,34-33,34,33
 0022000985,2021-05-04,MIL,BKN,12.48,2,11,31,MIL,MIL,fg_miss,44,False,False,MISS Portis 1' Reverse Layup,,34-33,34,33
@@ -211,9 +211,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000985,2021-05-04,MIL,BKN,22.65,2,1,21,BKN,BKN,fg3_miss,1,False,False,,MISS Durant 26' 3PT Jump Shot,62-55,62,55
 0022000985,2021-05-04,MIL,BKN,22.7,2,1,18,MIL,MIL,reb,0,False,False,Middleton REBOUND (Off:0 Def:4),,62-55,62,55
 0022000985,2021-05-04,MIL,BKN,22.83,2,1,10,MIL,MIL,fg_miss,1,True,False,MISS Middleton 5' Jump Shot,,62-55,62,55
+0022000985,2021-05-04,MIL,BKN,22.83,2,1,10,MIL,BKN,block,1,True,False,block,block,62-55,62,55
 0022000985,2021-05-04,MIL,BKN,22.83,2,1,10,MIL,MIL,reb,0,False,False,Middleton REBOUND (Off:1 Def:4),,62-55,62,55
 0022000985,2021-05-04,MIL,BKN,22.83,2,1,10,MIL,BKN,foul,1,False,False,,Shamet P.FOUL (P1.PN) (J.Goble),62-55,62,55
-0022000985,2021-05-04,MIL,BKN,22.83,2,1,10,MIL,BKN,block,1,True,False,block,block,62-55,62,55
 0022000985,2021-05-04,MIL,BKN,22.83,2,1,10,MIL,MIL,ft_make,11,False,False,Middleton Free Throw 1 of 2 (6 PTS),,63-55,63,55
 0022000985,2021-05-04,MIL,BKN,22.83,2,1,10,MIL,MIL,ft_make,12,False,False,Middleton Free Throw 2 of 2 (7 PTS),,64-55,64,55
 0022000985,2021-05-04,MIL,BKN,22.97,2,1,2,BKN,MIL,foul,1,False,False,Tucker P.FOUL (P2.PN) (J.Goble),,64-55,64,55
@@ -366,8 +366,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000985,2021-05-04,MIL,BKN,37.62,4,10,23,MIL,MIL,fg_make,52,False,False,Lopez 2' Alley Oop Dunk (8 PTS) (Antetokounmpo 2 AST),,97-100,97,100
 0022000985,2021-05-04,MIL,BKN,38.0,4,10,0,BKN,BKN,fg3_make,80,False,False,,James 27' 3PT Step Back Jump Shot (10 PTS),97-103,97,103
 0022000985,2021-05-04,MIL,BKN,38.13,4,9,52,MIL,MIL,fg_miss,47,True,False,MISS Antetokounmpo 9' Turnaround Jump Shot,,97-103,97,103
-0022000985,2021-05-04,MIL,BKN,38.13,4,9,52,MIL,MIL,reb,0,False,False,BUCKS Rebound,,97-103,97,103
 0022000985,2021-05-04,MIL,BKN,38.13,4,9,52,MIL,BKN,block,47,True,False,block,block,97-103,97,103
+0022000985,2021-05-04,MIL,BKN,38.13,4,9,52,MIL,MIL,reb,0,False,False,BUCKS Rebound,,97-103,97,103
 0022000985,2021-05-04,MIL,BKN,38.18,4,9,49,MIL,MIL,fg_miss,44,False,False,MISS Forbes 2' Reverse Layup,,97-103,97,103
 0022000985,2021-05-04,MIL,BKN,38.2,4,9,48,MIL,MIL,reb,0,False,False,BUCKS Rebound,,97-103,97,103
 0022000985,2021-05-04,MIL,BKN,38.32,4,9,41,MIL,MIL,fg_miss,86,False,False,MISS Antetokounmpo 14' Turnaround Fadeaway Shot,,97-103,97,103

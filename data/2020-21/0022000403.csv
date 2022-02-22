@@ -157,8 +157,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000403,2021-02-12,LAL,MEM,18.4,2,5,36,MEM,MEM,fg3_miss,1,False,False,,MISS Anderson 3PT Jump Shot,32-45,32,45
 0022000403,2021-02-12,LAL,MEM,18.45,2,5,33,MEM,MEM,reb,0,False,False,,Tillman REBOUND (Off:1 Def:0),32-45,32,45
 0022000403,2021-02-12,LAL,MEM,18.45,2,5,33,MEM,MEM,fg_miss,72,True,False,,MISS Tillman Putback Layup,32-45,32,45
-0022000403,2021-02-12,LAL,MEM,18.45,2,5,33,LAL,LAL,reb,0,False,False,Schroder REBOUND (Off:0 Def:1),,32-45,32,45
 0022000403,2021-02-12,LAL,MEM,18.45,2,5,33,MEM,LAL,block,72,True,False,block,block,32-45,32,45
+0022000403,2021-02-12,LAL,MEM,18.45,2,5,33,LAL,LAL,reb,0,False,False,Schroder REBOUND (Off:0 Def:1),,32-45,32,45
 0022000403,2021-02-12,LAL,MEM,18.52,2,5,29,LAL,LAL,fg3_make,1,False,False,Caldwell-Pope 26' 3PT Jump Shot (3 PTS) (Schroder 1 AST),,35-45,35,45
 0022000403,2021-02-12,LAL,MEM,18.55,2,5,27,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.2 Short 0),35-45,35,45
 0022000403,2021-02-12,LAL,MEM,18.78,2,5,13,MEM,MEM,fg3_make,1,False,False,,Tillman 3PT Jump Shot (5 PTS) (Morant 5 AST),35-48,35,48
@@ -392,9 +392,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000403,2021-02-12,LAL,MEM,41.8,4,6,12,LAL,LAL,ft_make,11,False,False,Kuzma Free Throw 1 of 2 (16 PTS),,103-91,103,91
 0022000403,2021-02-12,LAL,MEM,41.8,4,6,12,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.5 Short 0),103-91,103,91
 0022000403,2021-02-12,LAL,MEM,41.8,4,6,12,MEM,LAL,ft_make,12,False,False,Kuzma Free Throw 2 of 2 (17 PTS),,104-91,104,91
+0022000403,2021-02-12,LAL,MEM,42.15,4,5,51,LAL,LAL,timeout,7,False,False,LAKERS Timeout: Coach Challenge (Full 5 Short 0),,104-91,104,91
 0022000403,2021-02-12,LAL,MEM,42.15,4,5,51,MEM,MEM,fg_miss,73,False,False,,MISS Allen 2' Driving Reverse Layup,104-91,104,91
 0022000403,2021-02-12,LAL,MEM,42.15,4,5,51,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:3 Def:3),,104-91,104,91
-0022000403,2021-02-12,LAL,MEM,42.15,4,5,51,LAL,LAL,timeout,7,False,False,LAKERS Timeout: Coach Challenge (Full 5 Short 0),,104-91,104,91
 0022000403,2021-02-12,LAL,MEM,42.47,4,5,32,LAL,LAL,fg_make,44,False,False,Davis 2' Reverse Layup (33 PTS) (Caldwell-Pope 2 AST),,106-91,106,91
 0022000403,2021-02-12,LAL,MEM,42.72,4,5,17,MEM,MEM,fg_miss,101,False,False,,MISS Morant 3' Driving Floating Jump Shot,106-91,106,91
 0022000403,2021-02-12,LAL,MEM,42.73,4,5,16,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,106-91,106,91
@@ -431,11 +431,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000403,2021-02-12,LAL,MEM,47.22,4,0,47,MEM,MEM,fg3_miss,1,False,False,,MISS Allen 27' 3PT Jump Shot,113-103,113,103
 0022000403,2021-02-12,LAL,MEM,47.27,4,0,44,MEM,MEM,reb,0,False,False,,Dieng REBOUND (Off:1 Def:2),113-103,113,103
 0022000403,2021-02-12,LAL,MEM,47.4,4,0,36,MEM,LAL,foul,1,False,False,Gasol P.FOUL (P3.PN) (L.Richardson),,113-103,113,103
-0022000403,2021-02-12,LAL,MEM,47.4,4,0,36,MEM,LAL,foul,18,False,False,LAKERS Delay,,113-103,113,103
 0022000403,2021-02-12,LAL,MEM,47.4,4,0,36,MEM,MEM,ft_make,16,False,False,,Allen Free Throw Technical (23 PTS),113-104,113,104
 0022000403,2021-02-12,LAL,MEM,47.4,4,0,36,MEM,MEM,ft_miss,11,False,False,,MISS Dieng Free Throw 1 of 2,113-104,113,104
 0022000403,2021-02-12,LAL,MEM,47.4,4,0,36,MEM,MEM,reb,1,False,False,,Grizzlies Rebound,113-104,113,104
 0022000403,2021-02-12,LAL,MEM,47.4,4,0,36,MEM,MEM,ft_make,12,False,False,,Dieng Free Throw 2 of 2 (3 PTS),113-105,113,105
+0022000403,2021-02-12,LAL,MEM,47.4,4,0,36,MEM,LAL,foul,18,False,False,LAKERS Delay,,113-103,113,103
 0022000403,2021-02-12,LAL,MEM,47.62,4,0,23,LAL,LAL,fg_make,52,False,False,McKinnie 1' Alley Oop Dunk (2 PTS) (Cook 1 AST),,115-105,115,105
 0022000403,2021-02-12,LAL,MEM,47.72,4,0,17,MEM,MEM,fg3_miss,1,False,False,,MISS Allen 3PT Jump Shot,115-105,115,105
 0022000403,2021-02-12,LAL,MEM,47.77,4,0,14,LAL,LAL,reb,0,False,False,McKinnie REBOUND (Off:0 Def:1),,115-105,115,105

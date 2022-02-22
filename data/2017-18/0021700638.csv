@@ -36,9 +36,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700638,2018-01-15,DET,CHA,5.15,1,6,51,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.1 Short 0),17-9,17,9
 0021700638,2018-01-15,DET,CHA,5.32,1,6,41,CHA,CHA,fg3_make,1,False,False,,Williams 3PT Jump Shot (6 PTS) (Walker 2 AST),17-12,17,12
 0021700638,2018-01-15,DET,CHA,5.62,1,6,23,DET,DET,fg_miss,5,True,False,MISS Bradley 5' Layup,,17-12,17,12
+0021700638,2018-01-15,DET,CHA,5.62,1,6,23,DET,CHA,block,5,True,False,block,block,17-12,17,12
 0021700638,2018-01-15,DET,CHA,5.62,1,6,23,DET,DET,reb,0,False,False,Drummond REBOUND (Off:1 Def:0),,17-12,17,12
 0021700638,2018-01-15,DET,CHA,5.62,1,6,23,DET,CHA,foul,2,False,False,,Kidd-Gilchrist S.FOUL (P1.T2) (T.Ford),17-12,17,12
-0021700638,2018-01-15,DET,CHA,5.62,1,6,23,DET,CHA,block,5,True,False,block,block,17-12,17,12
 0021700638,2018-01-15,DET,CHA,5.62,1,6,23,DET,DET,ft_make,11,False,False,Drummond Free Throw 1 of 2 (3 PTS),,18-12,18,12
 0021700638,2018-01-15,DET,CHA,5.62,1,6,23,DET,DET,ft_miss,12,False,False,MISS Drummond Free Throw 2 of 2,,18-12,18,12
 0021700638,2018-01-15,DET,CHA,5.67,1,6,20,CHA,CHA,reb,0,False,False,,Howard REBOUND (Off:0 Def:2),18-12,18,12
@@ -133,8 +133,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700638,2018-01-15,DET,CHA,16.85,2,7,9,DET,DET,timeout,1,False,False,PISTONS Timeout: Regular (Full 2 Short 0),,35-36,35,36
 0021700638,2018-01-15,DET,CHA,16.97,2,7,2,DET,DET,fg3_make,1,False,False,Tolliver 25' 3PT Jump Shot (6 PTS) (Smith 4 AST),,38-36,38,36
 0021700638,2018-01-15,DET,CHA,17.37,2,6,38,CHA,CHA,fg_miss,1,True,False,,MISS Kaminsky 4' Jump Shot,38-36,38,36
-0021700638,2018-01-15,DET,CHA,17.37,2,6,38,CHA,CHA,reb,0,False,False,,Hornets Rebound,38-36,38,36
 0021700638,2018-01-15,DET,CHA,17.37,2,6,38,CHA,DET,block,1,True,False,block,block,38-36,38,36
+0021700638,2018-01-15,DET,CHA,17.37,2,6,38,CHA,CHA,reb,0,False,False,,Hornets Rebound,38-36,38,36
 0021700638,2018-01-15,DET,CHA,17.38,2,6,37,CHA,CHA,fg3_miss,1,False,False,,MISS Batum 25' 3PT Jump Shot,38-36,38,36
 0021700638,2018-01-15,DET,CHA,17.38,2,6,37,DET,DET,reb,0,False,False,Bullock REBOUND (Off:0 Def:2),,38-36,38,36
 0021700638,2018-01-15,DET,CHA,17.62,2,6,23,DET,DET,fg3_make,1,False,False,Tolliver 24' 3PT Jump Shot (9 PTS) (Drummond 2 AST),,41-36,41,36
@@ -222,11 +222,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700638,2018-01-15,DET,CHA,27.25,3,8,45,DET,DET,fg_miss,1,False,False,MISS Smith 18' Jump Shot,,63-59,63,59
 0021700638,2018-01-15,DET,CHA,27.33,3,8,40,CHA,CHA,reb,0,False,False,,Kidd-Gilchrist REBOUND (Off:0 Def:2),63-59,63,59
 0021700638,2018-01-15,DET,CHA,27.33,3,8,40,CHA,DET,foul,2,False,False,Bullock S.FOUL (P2.T1) (L.Holtkamp),,63-59,63,59
-0021700638,2018-01-15,DET,CHA,27.33,3,8,40,CHA,CHA,ft_make,12,False,False,,Kidd-Gilchrist Free Throw 2 of 2 (3 PTS),63-60,63,60
 0021700638,2018-01-15,DET,CHA,27.33,3,8,40,CHA,CHA,ft_make,11,False,False,,Kidd-Gilchrist Free Throw 1 of 2 (4 PTS),63-61,63,61
+0021700638,2018-01-15,DET,CHA,27.33,3,8,40,CHA,CHA,ft_make,12,False,False,,Kidd-Gilchrist Free Throw 2 of 2 (3 PTS),63-60,63,60
 0021700638,2018-01-15,DET,CHA,27.73,3,8,16,DET,DET,fg_miss,1,True,False,MISS Drummond 12' Jump Shot,,63-61,63,61
-0021700638,2018-01-15,DET,CHA,27.73,3,8,16,DET,DET,reb,0,False,False,Smith REBOUND (Off:1 Def:1),,63-61,63,61
 0021700638,2018-01-15,DET,CHA,27.73,3,8,16,DET,CHA,block,1,True,False,block,block,63-61,63,61
+0021700638,2018-01-15,DET,CHA,27.73,3,8,16,DET,DET,reb,0,False,False,Smith REBOUND (Off:1 Def:1),,63-61,63,61
 0021700638,2018-01-15,DET,CHA,27.75,3,8,15,DET,DET,fg_make,5,False,False,Smith 1' Layup (12 PTS),,65-61,65,61
 0021700638,2018-01-15,DET,CHA,28.03,3,7,58,CHA,CHA,fg_make,5,False,False,,Walker 3' Layup (9 PTS),65-63,65,63
 0021700638,2018-01-15,DET,CHA,28.35,3,7,39,DET,DET,fg_miss,5,False,False,MISS Bradley 7' Layup,,65-63,65,63
@@ -321,13 +321,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700638,2018-01-15,DET,CHA,38.05,4,9,57,DET,DET,reb,0,False,False,Bullock REBOUND (Off:0 Def:4),,82-90,82,90
 0021700638,2018-01-15,DET,CHA,38.38,4,9,37,DET,DET,fg_miss,80,False,False,MISS Buycks 21' Step Back Jump Shot,,82-90,82,90
 0021700638,2018-01-15,DET,CHA,38.42,4,9,35,CHA,CHA,reb,0,False,False,,Graham REBOUND (Off:0 Def:1),82-90,82,90
-0021700638,2018-01-15,DET,CHA,38.57,4,9,26,CHA,DET,foul,17,False,False,PISTONS T.Foul (Def. 3 Sec Harris ) (L.Holtkamp),,82-90,82,90
 0021700638,2018-01-15,DET,CHA,38.57,4,9,26,CHA,CHA,ft_make,16,False,False,,Lamb Free Throw Technical (8 PTS),82-91,82,91
+0021700638,2018-01-15,DET,CHA,38.57,4,9,26,CHA,DET,foul,17,False,False,PISTONS T.Foul (Def. 3 Sec Harris ) (L.Holtkamp),,82-90,82,90
 0021700638,2018-01-15,DET,CHA,38.72,4,9,17,CHA,CHA,tov,4,False,False,,Carter-Williams Traveling Turnover (P2.T12),82-91,82,91
 0021700638,2018-01-15,DET,CHA,38.92,4,9,5,DET,DET,fg_make,1,False,False,Kennard 22' Jump Shot (5 PTS) (Smith 7 AST),,84-91,84,91
 0021700638,2018-01-15,DET,CHA,39.22,4,8,47,CHA,CHA,fg_miss,1,True,False,,MISS Carter-Williams 5' Jump Shot,84-91,84,91
-0021700638,2018-01-15,DET,CHA,39.22,4,8,47,CHA,CHA,reb,0,False,False,,Kaminsky REBOUND (Off:1 Def:3),84-91,84,91
 0021700638,2018-01-15,DET,CHA,39.22,4,8,47,CHA,DET,block,1,True,False,block,block,84-91,84,91
+0021700638,2018-01-15,DET,CHA,39.22,4,8,47,CHA,CHA,reb,0,False,False,,Kaminsky REBOUND (Off:1 Def:3),84-91,84,91
 0021700638,2018-01-15,DET,CHA,39.3,4,8,42,CHA,CHA,fg_miss,1,False,False,,MISS Graham 15' Jump Shot,84-91,84,91
 0021700638,2018-01-15,DET,CHA,39.3,4,8,42,DET,DET,reb,0,False,False,Kennard REBOUND (Off:0 Def:4),,84-91,84,91
 0021700638,2018-01-15,DET,CHA,39.38,4,8,37,DET,CHA,foul,1,False,False,,Graham P.FOUL (P1.T1) (L.Holtkamp),84-91,84,91

@@ -57,8 +57,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700134,2017-11-04,MIN,DAL,6.38,1,5,37,MIN,MIN,ft_make,12,False,False,Wiggins Free Throw 2 of 2 (9 PTS),,13-8,13,8
 0021700134,2017-11-04,MIN,DAL,6.57,1,5,26,DAL,DAL,fg_make,52,False,False,,Noel Alley Oop Dunk (2 PTS) (Barea 1 AST),13-10,13,10
 0021700134,2017-11-04,MIN,DAL,6.87,1,5,8,MIN,MIN,fg_miss,47,True,False,MISS Gibson 5' Turnaround Jump Shot,,13-10,13,10
-0021700134,2017-11-04,MIN,DAL,6.87,1,5,8,DAL,DAL,reb,0,False,False,,Barea REBOUND (Off:0 Def:1),13-10,13,10
 0021700134,2017-11-04,MIN,DAL,6.87,1,5,8,MIN,DAL,block,47,True,False,block,block,13-10,13,10
+0021700134,2017-11-04,MIN,DAL,6.87,1,5,8,DAL,DAL,reb,0,False,False,,Barea REBOUND (Off:0 Def:1),13-10,13,10
 0021700134,2017-11-04,MIN,DAL,7.1,1,4,54,DAL,DAL,fg3_make,1,False,False,,Harris 26' 3PT Jump Shot (3 PTS) (Barea 2 AST),13-13,13,13
 0021700134,2017-11-04,MIN,DAL,7.42,1,4,35,MIN,MIN,fg_make,5,False,False,Towns 2' Layup (4 PTS) (Butler 2 AST),,15-13,15,13
 0021700134,2017-11-04,MIN,DAL,7.42,1,4,35,MIN,DAL,violation,2,False,False,,Noel Violation:Defensive Goaltending (C.Blair),15-13,15,13
@@ -163,8 +163,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700134,2017-11-04,MIN,DAL,19.83,2,4,10,DAL,DAL,fg3_make,1,False,False,,Barnes 25' 3PT Jump Shot (15 PTS) (Harris 1 AST),50-40,50,40
 0021700134,2017-11-04,MIN,DAL,20.17,2,3,50,MIN,MIN,fg_make,1,False,False,Butler 18' Jump Shot (2 PTS),,52-40,52,40
 0021700134,2017-11-04,MIN,DAL,20.33,2,3,40,DAL,MIN,foul,2,False,False,Teague S.FOUL (P2.T3) (K.Cutler),,52-40,52,40
-0021700134,2017-11-04,MIN,DAL,20.33,2,3,40,DAL,DAL,ft_make,12,False,False,,Barea Free Throw 2 of 2 (8 PTS),52-41,52,41
 0021700134,2017-11-04,MIN,DAL,20.33,2,3,40,DAL,DAL,ft_make,11,False,False,,Barea Free Throw 1 of 2 (9 PTS),52-42,52,42
+0021700134,2017-11-04,MIN,DAL,20.33,2,3,40,DAL,DAL,ft_make,12,False,False,,Barea Free Throw 2 of 2 (8 PTS),52-41,52,41
 0021700134,2017-11-04,MIN,DAL,20.62,2,3,23,MIN,MIN,fg_miss,78,False,False,MISS Teague 9' Floating Jump Shot,,52-42,52,42
 0021700134,2017-11-04,MIN,DAL,20.73,2,3,16,DAL,DAL,reb,0,False,False,,Barnes REBOUND (Off:0 Def:3),52-42,52,42
 0021700134,2017-11-04,MIN,DAL,20.8,2,3,12,DAL,DAL,tov,45,False,False,,Barea Out of Bounds - Bad Pass Turnover Turnover (P2.T5),52-42,52,42
@@ -184,8 +184,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700134,2017-11-04,MIN,DAL,22.28,2,1,43,DAL,DAL,reb,0,False,False,,Barnes REBOUND (Off:1 Def:3),54-46,54,46
 0021700134,2017-11-04,MIN,DAL,22.28,2,1,43,MIN,DAL,foul,1,False,False,,Harris P.FOUL (P2.T2) (C.Blair),54-46,54,46
 0021700134,2017-11-04,MIN,DAL,22.3,2,1,42,DAL,DAL,fg_miss,5,True,False,,MISS Barnes 1' Layup,54-46,54,46
-0021700134,2017-11-04,MIN,DAL,22.3,2,1,42,MIN,MIN,reb,0,False,False,Gibson REBOUND (Off:2 Def:1),,54-46,54,46
 0021700134,2017-11-04,MIN,DAL,22.3,2,1,42,DAL,MIN,block,5,True,False,block,block,54-46,54,46
+0021700134,2017-11-04,MIN,DAL,22.3,2,1,42,MIN,MIN,reb,0,False,False,Gibson REBOUND (Off:2 Def:1),,54-46,54,46
 0021700134,2017-11-04,MIN,DAL,22.48,2,1,31,MIN,MIN,fg_make,52,False,False,Wiggins 1' Alley Oop Dunk (15 PTS) (Teague 5 AST),,56-46,56,46
 0021700134,2017-11-04,MIN,DAL,22.82,2,1,11,DAL,DAL,fg_miss,66,True,False,,MISS Barnes 7' Jump Bank Shot,56-46,56,46
 0021700134,2017-11-04,MIN,DAL,22.82,2,1,11,DAL,MIN,block,66,True,False,block,block,56-46,56,46
@@ -379,8 +379,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700134,2017-11-04,MIN,DAL,45.55,4,2,27,MIN,MIN,fg_miss,47,False,False,MISS Wiggins 18' Turnaround Jump Shot,,106-92,106,92
 0021700134,2017-11-04,MIN,DAL,45.65,4,2,21,DAL,DAL,reb,0,False,False,,Powell REBOUND (Off:0 Def:1),106-92,106,92
 0021700134,2017-11-04,MIN,DAL,45.78,4,2,13,DAL,DAL,tov,2,False,True,,Smith Jr. Lost Ball Turnover (P3.T15),106-92,106,92
-0021700134,2017-11-04,MIN,DAL,45.78,4,2,13,MIN,DAL,foul,1,False,False,,Kleber P.FOUL (P1.T4) (K.Cutler),106-92,106,92
 0021700134,2017-11-04,MIN,DAL,45.78,4,2,13,DAL,MIN,steal,2,False,True,steal,steal,106-92,106,92
+0021700134,2017-11-04,MIN,DAL,45.78,4,2,13,MIN,DAL,foul,1,False,False,,Kleber P.FOUL (P1.T4) (K.Cutler),106-92,106,92
 0021700134,2017-11-04,MIN,DAL,45.95,4,2,3,MIN,DAL,foul,1,False,False,,Kleber P.FOUL (P2.PN) (S.Foster),106-92,106,92
 0021700134,2017-11-04,MIN,DAL,45.95,4,2,3,MIN,MIN,ft_make,11,False,False,Towns Free Throw 1 of 2 (30 PTS),,107-92,107,92
 0021700134,2017-11-04,MIN,DAL,45.95,4,2,3,MIN,MIN,ft_make,12,False,False,Towns Free Throw 2 of 2 (31 PTS),,108-92,108,92

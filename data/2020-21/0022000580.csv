@@ -141,8 +141,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000580,2021-03-12,MEM,DEN,16.3,2,7,42,MEM,MEM,reb,0,False,False,Bane REBOUND (Off:1 Def:1),,37-35,37,35
 0022000580,2021-03-12,MEM,DEN,16.38,2,7,37,MEM,MEM,fg_make,72,False,False,Bane 1' Putback Layup (7 PTS),,39-35,39,35
 0022000580,2021-03-12,MEM,DEN,16.57,2,7,26,DEN,DEN,fg_miss,73,True,False,,MISS Murray Driving Reverse Layup,39-35,39,35
-0022000580,2021-03-12,MEM,DEN,16.57,2,7,26,DEN,DEN,reb,0,False,False,,Nuggets Rebound,39-35,39,35
 0022000580,2021-03-12,MEM,DEN,16.57,2,7,26,DEN,MEM,block,73,True,False,block,block,39-35,39,35
+0022000580,2021-03-12,MEM,DEN,16.57,2,7,26,DEN,DEN,reb,0,False,False,,Nuggets Rebound,39-35,39,35
 0022000580,2021-03-12,MEM,DEN,16.78,2,7,13,DEN,DEN,tov,11,False,False,,Nuggets Turnover: Shot Clock (T#6),39-35,39,35
 0022000580,2021-03-12,MEM,DEN,17.1,2,6,54,MEM,MEM,tov,40,False,False,Morant Out of Bounds Lost Ball Turnover (P2.T6),,39-35,39,35
 0022000580,2021-03-12,MEM,DEN,17.27,2,6,44,DEN,DEN,fg3_miss,79,False,False,,MISS Morris 27' 3PT Pullup Jump Shot,39-35,39,35
@@ -198,8 +198,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000580,2021-03-12,MEM,DEN,22.3,2,1,42,DEN,DEN,fg_make,5,False,False,,Jokic Layup (13 PTS) (Barton 1 AST),51-49,51,49
 0022000580,2021-03-12,MEM,DEN,22.58,2,1,25,MEM,MEM,fg_make,101,False,False,Clarke 11' Driving Floating Jump Shot (14 PTS) (Morant 3 AST),,53-49,53,49
 0022000580,2021-03-12,MEM,DEN,22.9,2,1,6,DEN,DEN,fg3_miss,1,False,False,,MISS Barton 27' 3PT Jump Shot,53-49,53,49
-0022000580,2021-03-12,MEM,DEN,22.95,2,1,3,DEN,DEN,fg_make,97,False,False,,Jokic Tip Layup Shot (15 PTS),53-51,53,51
 0022000580,2021-03-12,MEM,DEN,22.95,2,1,3,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:1 Def:6),53-51,53,51
+0022000580,2021-03-12,MEM,DEN,22.95,2,1,3,DEN,DEN,fg_make,97,False,False,,Jokic Tip Layup Shot (15 PTS),53-51,53,51
 0022000580,2021-03-12,MEM,DEN,23.18,2,0,49,MEM,MEM,fg_make,78,False,False,Clarke 7' Floating Jump Shot (16 PTS) (Winslow 2 AST),,55-51,55,51
 0022000580,2021-03-12,MEM,DEN,23.52,2,0,29,DEN,DEN,fg_make,99,False,False,,Jokic Cutting Finger Roll Layup Shot (17 PTS) (Murray 3 AST),55-53,55,53
 0022000580,2021-03-12,MEM,DEN,23.85,2,0,9,MEM,MEM,fg3_miss,1,False,False,MISS Winslow 24' 3PT Jump Shot,,55-53,55,53
@@ -232,8 +232,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000580,2021-03-12,MEM,DEN,27.07,3,8,56,MEM,MEM,fg3_miss,1,False,False,MISS Anderson 24' 3PT Jump Shot,,60-63,60,63
 0022000580,2021-03-12,MEM,DEN,27.12,3,8,53,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:1 Def:9),60-63,60,63
 0022000580,2021-03-12,MEM,DEN,27.38,3,8,37,DEN,DEN,fg_miss,101,False,False,,MISS Murray 10' Driving Floating Jump Shot,60-63,60,63
-0022000580,2021-03-12,MEM,DEN,27.48,3,8,31,DEN,DEN,fg_miss,72,False,False,,MISS Jokic Putback Layup,60-63,60,63
 0022000580,2021-03-12,MEM,DEN,27.48,3,8,31,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:2 Def:9),60-63,60,63
+0022000580,2021-03-12,MEM,DEN,27.48,3,8,31,DEN,DEN,fg_miss,72,False,False,,MISS Jokic Putback Layup,60-63,60,63
 0022000580,2021-03-12,MEM,DEN,27.48,3,8,31,MEM,MEM,reb,0,False,False,Valanciunas REBOUND (Off:2 Def:7),,60-63,60,63
 0022000580,2021-03-12,MEM,DEN,27.52,3,8,29,MEM,MEM,tov,1,False,True,Brooks Bad Pass Turnover (P2.T9),,60-63,60,63
 0022000580,2021-03-12,MEM,DEN,27.52,3,8,29,MEM,DEN,steal,1,False,True,steal,steal,60-63,60,63
@@ -342,9 +342,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000580,2021-03-12,MEM,DEN,38.73,4,9,16,DEN,DEN,fg_miss,86,False,False,,MISS Murray 13' Turnaround Fadeaway Shot,80-81,80,81
 0022000580,2021-03-12,MEM,DEN,38.75,4,9,15,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,80-81,80,81
 0022000580,2021-03-12,MEM,DEN,39.15,4,8,51,MEM,MEM,fg_miss,6,True,False,MISS Clarke 5' Driving Layup,,80-81,80,81
+0022000580,2021-03-12,MEM,DEN,39.15,4,8,51,MEM,DEN,block,6,True,False,block,block,80-81,80,81
 0022000580,2021-03-12,MEM,DEN,39.15,4,8,51,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,80-81,80,81
 0022000580,2021-03-12,MEM,DEN,39.15,4,8,51,MEM,MEM,tov,11,False,False,GRIZZLIES Turnover: Shot Clock (T#16),,80-81,80,81
-0022000580,2021-03-12,MEM,DEN,39.15,4,8,51,MEM,DEN,block,6,True,False,block,block,80-81,80,81
 0022000580,2021-03-12,MEM,DEN,39.32,4,8,41,DEN,DEN,fg3_miss,1,False,False,,MISS Campazzo 24' 3PT Jump Shot,80-81,80,81
 0022000580,2021-03-12,MEM,DEN,39.32,4,8,41,DEN,DEN,reb,0,False,False,,Hartenstein REBOUND (Off:1 Def:1),80-81,80,81
 0022000580,2021-03-12,MEM,DEN,39.48,4,8,31,DEN,DEN,fg_make,98,False,False,,Millsap 3' Cutting Layup Shot (11 PTS) (Campazzo 3 AST),80-83,80,83

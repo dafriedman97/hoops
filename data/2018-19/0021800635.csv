@@ -2,8 +2,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800635,2019-01-12,PHX,DEN,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
 0021800635,2019-01-12,PHX,DEN,0.0,1,12,0,,PHX,jump_ball,0,False,False,Jump Ball Ayton vs. Jokic: Tip to Warren,,0-0,0,0
 0021800635,2019-01-12,PHX,DEN,0.32,1,11,41,PHX,PHX,fg_miss,47,True,False,MISS Ayton 9' Turnaround Jump Shot,,0-0,0,0
-0021800635,2019-01-12,PHX,DEN,0.32,1,11,41,PHX,PHX,reb,0,False,False,SUNS Rebound,,0-0,0,0
 0021800635,2019-01-12,PHX,DEN,0.32,1,11,41,PHX,DEN,block,47,True,False,block,block,0-0,0,0
+0021800635,2019-01-12,PHX,DEN,0.32,1,11,41,PHX,PHX,reb,0,False,False,SUNS Rebound,,0-0,0,0
 0021800635,2019-01-12,PHX,DEN,0.38,1,11,37,,PHX,jump_ball,0,False,False,Jump Ball Ayton vs. Jokic: Tip to Warren,,0-0,0,0
 0021800635,2019-01-12,PHX,DEN,0.45,1,11,33,PHX,PHX,fg3_miss,79,False,False,MISS Melton 25' 3PT Pullup Jump Shot,,0-0,0,0
 0021800635,2019-01-12,PHX,DEN,0.5,1,11,30,DEN,DEN,reb,0,False,False,,Murray REBOUND (Off:0 Def:1),0-0,0,0
@@ -165,8 +165,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800635,2019-01-12,PHX,DEN,16.62,2,7,23,PHX,PHX,fg_make,6,False,False,Jackson Driving Layup (8 PTS),,48-33,48,33
 0021800635,2019-01-12,PHX,DEN,16.62,2,7,23,DEN,DEN,timeout,1,False,False,,Nuggets Timeout: Regular (Reg.3 Short 0),48-33,48,33
 0021800635,2019-01-12,PHX,DEN,16.92,2,7,5,DEN,DEN,fg_miss,5,True,False,,MISS Millsap 1' Layup,48-33,48,33
-0021800635,2019-01-12,PHX,DEN,16.92,2,7,5,PHX,PHX,reb,0,False,False,SUNS Rebound,,48-33,48,33
 0021800635,2019-01-12,PHX,DEN,16.92,2,7,5,DEN,PHX,block,5,True,False,block,block,48-33,48,33
+0021800635,2019-01-12,PHX,DEN,16.92,2,7,5,PHX,PHX,reb,0,False,False,SUNS Rebound,,48-33,48,33
 0021800635,2019-01-12,PHX,DEN,16.98,2,7,1,,PHX,jump_ball,0,False,False,Jump Ball Oubre Jr. vs. Millsap: Tip to Jackson,,48-33,48,33
 0021800635,2019-01-12,PHX,DEN,17.25,2,6,45,PHX,PHX,fg_miss,3,False,False,MISS Ayton 7' Hook Shot,,48-33,48,33
 0021800635,2019-01-12,PHX,DEN,17.28,2,6,43,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:1 Def:5),48-33,48,33
@@ -197,8 +197,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800635,2019-01-12,PHX,DEN,19.92,2,4,5,PHX,PHX,reb,0,False,False,Oubre Jr. REBOUND (Off:1 Def:4),,52-39,52,39
 0021800635,2019-01-12,PHX,DEN,20.08,2,3,55,PHX,PHX,fg3_make,1,False,False,Oubre Jr. 26' 3PT Jump Shot (15 PTS) (Warren 3 AST),,55-39,55,39
 0021800635,2019-01-12,PHX,DEN,20.42,2,3,35,DEN,DEN,fg_miss,5,True,False,,MISS Murray 2' Layup,55-39,55,39
-0021800635,2019-01-12,PHX,DEN,20.42,2,3,35,DEN,DEN,reb,0,False,False,,Nuggets Rebound,55-39,55,39
 0021800635,2019-01-12,PHX,DEN,20.42,2,3,35,DEN,PHX,block,5,True,False,block,block,55-39,55,39
+0021800635,2019-01-12,PHX,DEN,20.42,2,3,35,DEN,DEN,reb,0,False,False,,Nuggets Rebound,55-39,55,39
 0021800635,2019-01-12,PHX,DEN,20.48,2,3,31,DEN,DEN,fg_miss,6,False,False,,MISS Jokic 6' Driving Layup,55-39,55,39
 0021800635,2019-01-12,PHX,DEN,20.52,2,3,29,DEN,DEN,reb,0,False,False,,Murray REBOUND (Off:1 Def:2),55-39,55,39
 0021800635,2019-01-12,PHX,DEN,20.53,2,3,28,DEN,DEN,fg3_miss,79,False,False,,MISS Murray 32' 3PT Pullup Jump Shot,55-39,55,39
@@ -248,8 +248,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800635,2019-01-12,PHX,DEN,24.88,3,11,7,DEN,DEN,tov,1,False,True,,Beasley Bad Pass Turnover (P2.T13),62-49,62,49
 0021800635,2019-01-12,PHX,DEN,24.88,3,11,7,DEN,PHX,steal,1,False,True,steal,steal,62-49,62,49
 0021800635,2019-01-12,PHX,DEN,24.92,3,11,5,PHX,PHX,fg_miss,76,False,False,MISS Melton 1' Running Finger Roll Layup,,62-49,62,49
-0021800635,2019-01-12,PHX,DEN,24.93,3,11,4,PHX,PHX,fg_miss,97,False,False,MISS Jackson 1' Tip Layup Shot,,62-49,62,49
 0021800635,2019-01-12,PHX,DEN,24.93,3,11,4,PHX,PHX,reb,0,False,False,Jackson REBOUND (Off:2 Def:0),,62-49,62,49
+0021800635,2019-01-12,PHX,DEN,24.93,3,11,4,PHX,PHX,fg_miss,97,False,False,MISS Jackson 1' Tip Layup Shot,,62-49,62,49
 0021800635,2019-01-12,PHX,DEN,24.95,3,11,3,PHX,PHX,reb,0,False,False,Melton REBOUND (Off:1 Def:1),,62-49,62,49
 0021800635,2019-01-12,PHX,DEN,25.0,3,11,0,PHX,PHX,fg_make,7,False,False,Ayton 1' Dunk (13 PTS) (Melton 5 AST),,64-49,64,49
 0021800635,2019-01-12,PHX,DEN,25.0,3,11,0,DEN,DEN,timeout,1,False,False,,Nuggets Timeout: Regular (Reg.4 Short 0),64-49,64,49
@@ -378,16 +378,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800635,2019-01-12,PHX,DEN,38.17,4,9,50,PHX,PHX,ft_make,10,False,False,Ayton Free Throw 1 of 1 (18 PTS),,86-71,86,71
 0021800635,2019-01-12,PHX,DEN,38.52,4,9,29,DEN,DEN,fg_make,57,False,False,,Plumlee 7' Driving Hook Shot (6 PTS) (Craig 2 AST),86-73,86,73
 0021800635,2019-01-12,PHX,DEN,38.83,4,9,10,PHX,PHX,fg_miss,6,True,False,MISS Okobo 2' Driving Layup,,86-73,86,73
-0021800635,2019-01-12,PHX,DEN,38.83,4,9,10,DEN,DEN,reb,0,False,False,,Nuggets Rebound,86-73,86,73
 0021800635,2019-01-12,PHX,DEN,38.83,4,9,10,PHX,DEN,block,6,True,False,block,block,86-73,86,73
+0021800635,2019-01-12,PHX,DEN,38.83,4,9,10,DEN,DEN,reb,0,False,False,,Nuggets Rebound,86-73,86,73
 0021800635,2019-01-12,PHX,DEN,39.0,4,9,0,DEN,DEN,fg_miss,79,False,False,,MISS Barton 8' Pullup Jump Shot,86-73,86,73
 0021800635,2019-01-12,PHX,DEN,39.03,4,8,58,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:3 Def:9),,86-73,86,73
 0021800635,2019-01-12,PHX,DEN,39.13,4,8,52,PHX,PHX,fg3_miss,80,False,False,MISS Daniels 27' 3PT Step Back Jump Shot,,86-73,86,73
 0021800635,2019-01-12,PHX,DEN,39.2,4,8,48,DEN,DEN,reb,0,False,False,,Barton REBOUND (Off:1 Def:4),86-73,86,73
 0021800635,2019-01-12,PHX,DEN,39.25,4,8,45,DEN,DEN,fg_miss,41,True,False,,MISS Barton 1' Running Layup,86-73,86,73
+0021800635,2019-01-12,PHX,DEN,39.25,4,8,45,DEN,PHX,block,41,True,False,block,block,86-73,86,73
 0021800635,2019-01-12,PHX,DEN,39.25,4,8,45,PHX,PHX,reb,0,False,False,SUNS Rebound,,86-73,86,73
 0021800635,2019-01-12,PHX,DEN,39.25,4,8,45,PHX,PHX,timeout,1,False,False,SUNS Timeout: Regular (Full 4 Short 0),,86-73,86,73
-0021800635,2019-01-12,PHX,DEN,39.25,4,8,45,DEN,PHX,block,41,True,False,block,block,86-73,86,73
 0021800635,2019-01-12,PHX,DEN,39.63,4,8,22,PHX,PHX,fg_miss,101,False,False,MISS Melton 5' Driving Floating Jump Shot,,86-73,86,73
 0021800635,2019-01-12,PHX,DEN,39.63,4,8,22,DEN,DEN,reb,0,False,False,,Nuggets Rebound,86-73,86,73
 0021800635,2019-01-12,PHX,DEN,39.63,4,8,22,DEN,PHX,foul,3,False,False,Ayton L.B.FOUL (P2.T2) (B.Nansel),,86-73,86,73

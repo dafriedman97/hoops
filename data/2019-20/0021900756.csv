@@ -132,8 +132,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900756,2020-02-05,BOS,ORL,15.22,2,8,47,ORL,BOS,block,7,True,False,block,block,40-33,40,33
 0021900756,2020-02-05,BOS,ORL,15.27,2,8,44,BOS,BOS,reb,0,False,False,Wanamaker REBOUND (Off:0 Def:1),,40-33,40,33
 0021900756,2020-02-05,BOS,ORL,15.3,2,8,42,BOS,BOS,fg_miss,76,True,False,MISS Wanamaker 5' Running Finger Roll Layup,,40-33,40,33
-0021900756,2020-02-05,BOS,ORL,15.3,2,8,42,ORL,ORL,reb,0,False,False,,Fournier REBOUND (Off:0 Def:1),40-33,40,33
 0021900756,2020-02-05,BOS,ORL,15.3,2,8,42,BOS,ORL,block,76,True,False,block,block,40-33,40,33
+0021900756,2020-02-05,BOS,ORL,15.3,2,8,42,ORL,ORL,reb,0,False,False,,Fournier REBOUND (Off:0 Def:1),40-33,40,33
 0021900756,2020-02-05,BOS,ORL,15.4,2,8,36,ORL,ORL,fg3_make,103,False,False,,Fournier 26' 3PT Running Pull-Up Jump Shot (9 PTS),40-36,40,36
 0021900756,2020-02-05,BOS,ORL,15.78,2,8,13,BOS,BOS,fg_make,75,False,False,Tatum 2' Driving Finger Roll Layup (13 PTS),,42-36,42,36
 0021900756,2020-02-05,BOS,ORL,16.2,2,7,48,ORL,ORL,fg_miss,101,False,False,,MISS Fournier 7' Driving Floating Jump Shot,42-36,42,36
@@ -273,8 +273,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900756,2020-02-05,BOS,ORL,32.75,3,3,15,BOS,BOS,fg_miss,78,False,False,MISS Hayward 6' Floating Jump Shot,,72-72,72,72
 0021900756,2020-02-05,BOS,ORL,32.8,3,3,12,ORL,ORL,reb,0,False,False,,Clark REBOUND (Off:0 Def:2),72-72,72,72
 0021900756,2020-02-05,BOS,ORL,32.93,3,3,4,ORL,ORL,fg_miss,79,False,False,,MISS Ross 15' Pullup Jump Shot,72-72,72,72
-0021900756,2020-02-05,BOS,ORL,33.08,3,2,55,ORL,ORL,fg_miss,97,False,False,,MISS Vucevic 1' Tip Layup Shot,72-72,72,72
 0021900756,2020-02-05,BOS,ORL,33.08,3,2,55,ORL,ORL,reb,0,False,False,,Vucevic REBOUND (Off:1 Def:6),72-72,72,72
+0021900756,2020-02-05,BOS,ORL,33.08,3,2,55,ORL,ORL,fg_miss,97,False,False,,MISS Vucevic 1' Tip Layup Shot,72-72,72,72
 0021900756,2020-02-05,BOS,ORL,33.13,3,2,52,ORL,ORL,reb,0,False,False,,Vucevic REBOUND (Off:2 Def:6),72-72,72,72
 0021900756,2020-02-05,BOS,ORL,33.15,3,2,51,ORL,ORL,tov,1,False,True,,Vucevic Bad Pass Turnover (P4.T12),72-72,72,72
 0021900756,2020-02-05,BOS,ORL,33.15,3,2,51,ORL,BOS,steal,1,False,True,steal,steal,72-72,72,72
@@ -288,8 +288,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900756,2020-02-05,BOS,ORL,33.4,3,2,36,ORL,ORL,tov,2,False,True,,Carter-Williams Lost Ball Turnover (P3.T13),72-72,72,72
 0021900756,2020-02-05,BOS,ORL,33.4,3,2,36,ORL,BOS,steal,2,False,True,steal,steal,72-72,72,72
 0021900756,2020-02-05,BOS,ORL,33.47,3,2,32,BOS,BOS,fg_make,98,False,False,Poirier 4' Cutting Layup Shot (2 PTS) (Hayward 7 AST),,74-72,74,72
-0021900756,2020-02-05,BOS,ORL,33.47,3,2,32,BOS,ORL,foul,1,False,False,,Vucevic P.FOUL (P3.T4) (L.Wood),74-72,74,72
 0021900756,2020-02-05,BOS,ORL,33.47,3,2,32,ORL,ORL,timeout,1,False,False,,Magic Timeout: Regular (Reg.3 Short 0),74-72,74,72
+0021900756,2020-02-05,BOS,ORL,33.47,3,2,32,BOS,ORL,foul,1,False,False,,Vucevic P.FOUL (P3.T4) (L.Wood),74-72,74,72
 0021900756,2020-02-05,BOS,ORL,33.47,3,2,32,ORL,BOS,ft_make,10,False,False,Poirier Free Throw 1 of 1 (3 PTS),,75-72,75,72
 0021900756,2020-02-05,BOS,ORL,33.67,3,2,20,ORL,ORL,fg_miss,1,False,False,,MISS Ross 15' Jump Shot,75-72,75,72
 0021900756,2020-02-05,BOS,ORL,33.75,3,2,15,BOS,BOS,reb,0,False,False,Hayward REBOUND (Off:0 Def:5),,75-72,75,72
@@ -364,8 +364,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900756,2020-02-05,BOS,ORL,42.07,4,5,56,ORL,ORL,fg3_miss,2,False,False,,MISS Ross 25' 3PT Running Jump Shot,101-91,101,91
 0021900756,2020-02-05,BOS,ORL,42.13,4,5,52,ORL,ORL,reb,0,False,False,,Gordon REBOUND (Off:1 Def:7),101-91,101,91
 0021900756,2020-02-05,BOS,ORL,42.27,4,5,44,ORL,ORL,fg_miss,6,True,False,,MISS Gordon 7' Driving Layup,101-91,101,91
-0021900756,2020-02-05,BOS,ORL,42.27,4,5,44,ORL,ORL,reb,0,False,False,,Magic Rebound,101-91,101,91
 0021900756,2020-02-05,BOS,ORL,42.27,4,5,44,ORL,BOS,block,6,True,False,block,block,101-91,101,91
+0021900756,2020-02-05,BOS,ORL,42.27,4,5,44,ORL,ORL,reb,0,False,False,,Magic Rebound,101-91,101,91
 0021900756,2020-02-05,BOS,ORL,42.32,4,5,41,ORL,ORL,fg3_make,1,False,False,,Fournier 25' 3PT Jump Shot (24 PTS) (Vucevic 2 AST),101-94,101,94
 0021900756,2020-02-05,BOS,ORL,42.6,4,5,24,BOS,BOS,fg_miss,1,False,False,MISS Brown 14' Jump Shot,,101-94,101,94
 0021900756,2020-02-05,BOS,ORL,42.65,4,5,21,ORL,ORL,reb,0,False,False,,Gordon REBOUND (Off:1 Def:8),101-94,101,94

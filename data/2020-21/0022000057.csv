@@ -207,8 +207,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000057,2020-12-30,BKN,ATL,22.28,2,1,43,ATL,ATL,fg_miss,101,False,False,,MISS Young 7' Driving Floating Jump Shot,67-68,67,68
 0022000057,2020-12-30,BKN,ATL,22.32,2,1,41,BKN,BKN,reb,0,False,False,Irving REBOUND (Off:0 Def:1),,67-68,67,68
 0022000057,2020-12-30,BKN,ATL,22.38,2,1,37,BKN,BKN,fg_miss,6,True,False,MISS Durant 2' Driving Layup,,67-68,67,68
-0022000057,2020-12-30,BKN,ATL,22.38,2,1,37,BKN,BKN,reb,0,False,False,NETS Rebound,,67-68,67,68
 0022000057,2020-12-30,BKN,ATL,22.38,2,1,37,BKN,ATL,block,6,True,False,block,block,67-68,67,68
+0022000057,2020-12-30,BKN,ATL,22.38,2,1,37,BKN,BKN,reb,0,False,False,NETS Rebound,,67-68,67,68
 0022000057,2020-12-30,BKN,ATL,22.48,2,1,31,BKN,BKN,fg3_miss,1,False,False,MISS LeVert 26' 3PT Jump Shot,,67-68,67,68
 0022000057,2020-12-30,BKN,ATL,22.57,2,1,26,ATL,ATL,reb,0,False,False,,S. Hill REBOUND (Off:0 Def:1),67-68,67,68
 0022000057,2020-12-30,BKN,ATL,22.83,2,1,10,ATL,ATL,fg3_miss,1,False,False,,MISS Hunter 25' 3PT Jump Shot,67-68,67,68
@@ -281,8 +281,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000057,2020-12-30,BKN,ATL,29.28,3,6,43,BKN,BKN,fg_make,6,False,False,Irving 6' Driving Layup (8 PTS),,81-84,81,84
 0022000057,2020-12-30,BKN,ATL,29.48,3,6,31,ATL,ATL,fg_make,52,False,False,,Collins Alley Oop Dunk (21 PTS) (Young 9 AST),81-86,81,86
 0022000057,2020-12-30,BKN,ATL,29.75,3,6,15,BKN,BKN,fg_miss,6,False,False,MISS Irving Driving Layup,,81-86,81,86
-0022000057,2020-12-30,BKN,ATL,29.75,3,6,15,BKN,ATL,foul,1,False,False,,Hunter P.FOUL (P2.T1) (J.Capers),81-86,81,86
 0022000057,2020-12-30,BKN,ATL,29.75,3,6,15,BKN,BKN,reb,0,False,False,Allen REBOUND (Off:3 Def:3),,81-86,81,86
+0022000057,2020-12-30,BKN,ATL,29.75,3,6,15,BKN,ATL,foul,1,False,False,,Hunter P.FOUL (P2.T1) (J.Capers),81-86,81,86
 0022000057,2020-12-30,BKN,ATL,29.9,3,6,6,BKN,BKN,fg_make,52,False,False,Allen 1' Alley Oop Dunk (9 PTS) (Durant 7 AST),,83-86,83,86
 0022000057,2020-12-30,BKN,ATL,30.17,3,5,50,ATL,BKN,foul,2,False,False,Harris S.FOUL (P3.T4) (J.Goldenberg),,83-86,83,86
 0022000057,2020-12-30,BKN,ATL,30.17,3,5,50,ATL,ATL,ft_make,11,False,False,,Young Free Throw 1 of 2 (19 PTS),83-87,83,87
@@ -430,9 +430,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000057,2020-12-30,BKN,ATL,44.47,4,3,32,ATL,ATL,fg_make,73,False,False,,Reddish Driving Reverse Layup (20 PTS) (Hunter 3 AST),132-130,132,130
 0022000057,2020-12-30,BKN,ATL,44.58,4,3,25,BKN,ATL,foul,1,False,False,,Hunter P.FOUL (P4.T4) (J.Capers),132-130,132,130
 0022000057,2020-12-30,BKN,ATL,44.65,4,3,21,BKN,ATL,foul,1,False,False,,Hunter P.FOUL (P5.PN) (S.Wall),132-130,132,130
-0022000057,2020-12-30,BKN,ATL,44.65,4,3,21,BKN,,foul,16,False,False,,,132-130,132,130
 0022000057,2020-12-30,BKN,ATL,44.65,4,3,21,BKN,BKN,ft_make,11,False,False,Durant Free Throw 1 of 2 (26 PTS),,133-130,133,130
 0022000057,2020-12-30,BKN,ATL,44.65,4,3,21,BKN,BKN,ft_make,12,False,False,Durant Free Throw 2 of 2 (27 PTS),,134-130,134,130
+0022000057,2020-12-30,BKN,ATL,44.65,4,3,21,BKN,,foul,16,False,False,,,132-130,132,130
 0022000057,2020-12-30,BKN,ATL,44.83,4,3,10,ATL,ATL,fg3_miss,1,False,False,,MISS Young 3PT Jump Shot,134-130,134,130
 0022000057,2020-12-30,BKN,ATL,44.93,4,3,4,ATL,ATL,reb,0,False,False,,Hunter REBOUND (Off:2 Def:6),134-130,134,130
 0022000057,2020-12-30,BKN,ATL,44.93,4,3,4,ATL,ATL,fg_miss,97,False,False,,MISS Hunter Tip Layup Shot,134-130,134,130

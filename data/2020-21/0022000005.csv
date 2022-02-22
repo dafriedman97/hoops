@@ -322,10 +322,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000005,2020-12-25,MIA,NOP,37.18,4,10,49,NOP,NOP,fg3_make,1,False,False,,Hart 24' 3PT Jump Shot (12 PTS) (Williamson 1 AST),90-82,90,82
 0022000005,2020-12-25,MIA,NOP,37.4,4,10,36,MIA,MIA,tov,45,False,False,Dragic Out of Bounds - Bad Pass Turnover Turnover (P3.T14),,90-82,90,82
 0022000005,2020-12-25,MIA,NOP,37.57,4,10,26,NOP,NOP,tov,1,False,True,,Bledsoe Bad Pass Turnover (P3.T14),90-82,90,82
+0022000005,2020-12-25,MIA,NOP,37.57,4,10,26,NOP,MIA,steal,1,False,True,steal,steal,90-82,90,82
 0022000005,2020-12-25,MIA,NOP,37.57,4,10,26,MIA,NOP,foul,14,False,False,,Bledsoe FLAGRANT.FOUL.TYPE1 (P2.T2) (B.Barnaky),90-82,90,82
 0022000005,2020-12-25,MIA,NOP,37.57,4,10,26,MIA,MIA,ft_miss,18,False,False,MISS Adebayo Free Throw Flagrant 1 of 2,,90-82,90,82
 0022000005,2020-12-25,MIA,NOP,37.57,4,10,26,MIA,MIA,reb,1,False,False,HEAT Rebound,,90-82,90,82
-0022000005,2020-12-25,MIA,NOP,37.57,4,10,26,NOP,MIA,steal,1,False,True,steal,steal,90-82,90,82
 0022000005,2020-12-25,MIA,NOP,37.57,4,10,26,MIA,MIA,ft_make,19,False,False,Adebayo Free Throw Flagrant 2 of 2 (17 PTS),,91-82,91,82
 0022000005,2020-12-25,MIA,NOP,37.78,4,10,13,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 3PT Jump Shot,,91-82,91,82
 0022000005,2020-12-25,MIA,NOP,37.82,4,10,11,NOP,NOP,reb,0,False,False,,Redick REBOUND (Off:0 Def:1),91-82,91,82
@@ -373,8 +373,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000005,2020-12-25,MIA,NOP,42.17,4,5,50,NOP,NOP,ft_make,12,False,False,,Redick Free Throw 2 of 2 (8 PTS),96-87,96,87
 0022000005,2020-12-25,MIA,NOP,42.47,4,5,32,MIA,MIA,fg3_make,80,False,False,Herro 25' 3PT Step Back Jump Shot (11 PTS) (Dragic 9 AST),,99-87,99,87
 0022000005,2020-12-25,MIA,NOP,42.63,4,5,22,NOP,NOP,fg_miss,6,True,False,,MISS Williamson 5' Driving Layup,99-87,99,87
-0022000005,2020-12-25,MIA,NOP,42.63,4,5,22,NOP,NOP,reb,0,False,False,,Pelicans Rebound,99-87,99,87
 0022000005,2020-12-25,MIA,NOP,42.63,4,5,22,NOP,MIA,block,6,True,False,block,block,99-87,99,87
+0022000005,2020-12-25,MIA,NOP,42.63,4,5,22,NOP,NOP,reb,0,False,False,,Pelicans Rebound,99-87,99,87
 0022000005,2020-12-25,MIA,NOP,42.85,4,5,9,NOP,NOP,fg_miss,79,False,False,,MISS Ingram 10' Pullup Jump Shot,99-87,99,87
 0022000005,2020-12-25,MIA,NOP,42.9,4,5,6,MIA,MIA,reb,0,False,False,Iguodala REBOUND (Off:0 Def:4),,99-87,99,87
 0022000005,2020-12-25,MIA,NOP,42.97,4,5,2,MIA,MIA,tov,39,False,False,Herro Step Out of Bounds Turnover (P3.T16),,99-87,99,87
@@ -406,8 +406,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000005,2020-12-25,MIA,NOP,45.42,4,2,35,NOP,NOP,reb,0,False,False,,Williamson REBOUND (Off:4 Def:10),107-88,107,88
 0022000005,2020-12-25,MIA,NOP,45.43,4,2,34,NOP,NOP,fg_make,72,False,False,,Williamson 1' Putback Layup (27 PTS),107-90,107,90
 0022000005,2020-12-25,MIA,NOP,45.73,4,2,16,MIA,MIA,fg3_miss,80,False,False,MISS Dragic 27' 3PT Step Back Jump Shot,,107-90,107,90
-0022000005,2020-12-25,MIA,NOP,45.82,4,2,11,MIA,MIA,fg_make,72,False,False,Achiuwa 2' Putback Layup (11 PTS),,109-90,109,90
 0022000005,2020-12-25,MIA,NOP,45.82,4,2,11,MIA,MIA,reb,0,False,False,Achiuwa REBOUND (Off:1 Def:2),,109-90,109,90
+0022000005,2020-12-25,MIA,NOP,45.82,4,2,11,MIA,MIA,fg_make,72,False,False,Achiuwa 2' Putback Layup (11 PTS),,109-90,109,90
 0022000005,2020-12-25,MIA,NOP,46.02,4,1,59,NOP,NOP,fg_make,6,False,False,,Williamson 3' Driving Layup (29 PTS),109-92,109,92
 0022000005,2020-12-25,MIA,NOP,46.32,4,1,41,MIA,MIA,tov,1,False,True,Iguodala Bad Pass Turnover (P2.T17),,109-92,109,92
 0022000005,2020-12-25,MIA,NOP,46.32,4,1,41,MIA,NOP,steal,1,False,True,steal,steal,109-92,109,92

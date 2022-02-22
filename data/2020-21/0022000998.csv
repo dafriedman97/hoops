@@ -137,9 +137,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000998,2021-05-06,DAL,BKN,15.07,2,8,56,BKN,BKN,fg_miss,102,False,False,,MISS Harris 5' Driving Floating Bank Jump Shot,41-35,41,35
 0022000998,2021-05-06,DAL,BKN,15.08,2,8,55,DAL,DAL,reb,0,False,False,Brunson REBOUND (Off:0 Def:1),,41-35,41,35
 0022000998,2021-05-06,DAL,BKN,15.15,2,8,51,DAL,DAL,fg3_miss,1,False,False,MISS Melli 25' 3PT Jump Shot,,41-35,41,35
+0022000998,2021-05-06,DAL,BKN,15.25,2,8,45,DAL,DAL,reb,0,False,False,Cauley-Stein REBOUND (Off:2 Def:2),,41-35,41,35
 0022000998,2021-05-06,DAL,BKN,15.25,2,8,45,DAL,DAL,fg_miss,97,False,False,MISS Cauley-Stein Tip Layup Shot,,41-35,41,35
 0022000998,2021-05-06,DAL,BKN,15.25,2,8,45,DAL,DAL,reb,0,False,False,Cauley-Stein REBOUND (Off:1 Def:2),,41-35,41,35
-0022000998,2021-05-06,DAL,BKN,15.25,2,8,45,DAL,DAL,reb,0,False,False,Cauley-Stein REBOUND (Off:2 Def:2),,41-35,41,35
 0022000998,2021-05-06,DAL,BKN,15.27,2,8,44,DAL,DAL,fg_miss,97,False,False,MISS Cauley-Stein Tip Layup Shot,,41-35,41,35
 0022000998,2021-05-06,DAL,BKN,15.28,2,8,43,BKN,BKN,reb,0,False,False,,Griffin REBOUND (Off:2 Def:2),41-35,41,35
 0022000998,2021-05-06,DAL,BKN,15.47,2,8,32,BKN,BKN,fg3_miss,79,False,False,,MISS James 25' 3PT Pullup Jump Shot,41-35,41,35
@@ -266,8 +266,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000998,2021-05-06,DAL,BKN,27.55,3,8,27,DAL,DAL,fg_miss,96,False,False,MISS Hardaway Jr. 8' Turnaround Bank Hook Shot,,63-65,63,65
 0022000998,2021-05-06,DAL,BKN,27.58,3,8,25,BKN,BKN,reb,0,False,False,,Griffin REBOUND (Off:3 Def:7),63-65,63,65
 0022000998,2021-05-06,DAL,BKN,27.67,3,8,20,BKN,BKN,fg_miss,6,True,False,,MISS Irving 2' Driving Layup,63-65,63,65
-0022000998,2021-05-06,DAL,BKN,27.67,3,8,20,BKN,BKN,reb,0,False,False,,Nets Rebound,63-65,63,65
 0022000998,2021-05-06,DAL,BKN,27.67,3,8,20,BKN,DAL,block,6,True,False,block,block,63-65,63,65
+0022000998,2021-05-06,DAL,BKN,27.67,3,8,20,BKN,BKN,reb,0,False,False,,Nets Rebound,63-65,63,65
 0022000998,2021-05-06,DAL,BKN,27.75,3,8,15,BKN,BKN,fg3_make,1,False,False,,Harris 25' 3PT Jump Shot (6 PTS) (Griffin 3 AST),63-68,63,68
 0022000998,2021-05-06,DAL,BKN,28.2,3,7,48,DAL,DAL,fg_miss,79,True,False,MISS Richardson 7' Pullup Jump Shot,,63-68,63,68
 0022000998,2021-05-06,DAL,BKN,28.2,3,7,48,DAL,BKN,block,79,True,False,block,block,63-68,63,68
@@ -344,8 +344,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000998,2021-05-06,DAL,BKN,37.25,4,10,45,BKN,BKN,fg_make,97,False,False,,Brown Tip Layup Shot (10 PTS),84-88,84,88
 0022000998,2021-05-06,DAL,BKN,37.42,4,10,35,DAL,DAL,fg_make,73,False,False,Brunson 1' Driving Reverse Layup (9 PTS),,86-88,86,88
 0022000998,2021-05-06,DAL,BKN,37.67,4,10,20,BKN,BKN,tov,2,False,True,,James Lost Ball Turnover (P3.T12),86-88,86,88
-0022000998,2021-05-06,DAL,BKN,37.67,4,10,20,DAL,BKN,foul,28,False,False,,Green Personal Take Foul (P2.T1) (B.Forte),86-88,86,88
 0022000998,2021-05-06,DAL,BKN,37.67,4,10,20,BKN,DAL,steal,2,False,True,steal,steal,86-88,86,88
+0022000998,2021-05-06,DAL,BKN,37.67,4,10,20,DAL,BKN,foul,28,False,False,,Green Personal Take Foul (P2.T1) (B.Forte),86-88,86,88
 0022000998,2021-05-06,DAL,BKN,37.97,4,10,2,DAL,DAL,tov,2,False,True,Cauley-Stein Lost Ball Turnover (P1.T10),,86-88,86,88
 0022000998,2021-05-06,DAL,BKN,37.97,4,10,2,DAL,BKN,steal,2,False,True,steal,steal,86-88,86,88
 0022000998,2021-05-06,DAL,BKN,38.15,4,9,51,BKN,DAL,foul,2,False,False,Cauley-Stein S.FOUL (P2.T2) (E.Malloy),,86-88,86,88

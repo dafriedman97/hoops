@@ -55,11 +55,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900496,2019-12-30,POR,PHX,6.48,1,5,31,POR,POR,fg_make,99,False,False,McCollum 1' Cutting Finger Roll Layup Shot (5 PTS) (Whiteside 1 AST),,20-11,20,11
 0021900496,2019-12-30,POR,PHX,6.7,1,5,18,PHX,PHX,tov,39,False,False,,Bridges Step Out of Bounds Turnover (P1.T3),20-11,20,11
 0021900496,2019-12-30,POR,PHX,7.1,1,4,54,POR,POR,fg_miss,6,True,False,MISS Anthony 3' Driving Layup,,20-11,20,11
+0021900496,2019-12-30,POR,PHX,7.1,1,4,54,POR,PHX,block,6,True,False,block,block,20-11,20,11
 0021900496,2019-12-30,POR,PHX,7.1,1,4,54,POR,POR,reb,0,False,False,Whiteside REBOUND (Off:3 Def:3),,20-11,20,11
+0021900496,2019-12-30,POR,PHX,7.1,1,4,54,POR,POR,tov,11,False,False,TRAIL BLAZERS Turnover: Shot Clock (T#3),,20-11,20,11
 0021900496,2019-12-30,POR,PHX,7.1,1,4,54,POR,POR,fg_miss,72,False,False,MISS Whiteside 2' Putback Layup,,20-11,20,11
 0021900496,2019-12-30,POR,PHX,7.1,1,4,54,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,20-11,20,11
-0021900496,2019-12-30,POR,PHX,7.1,1,4,54,POR,POR,tov,11,False,False,TRAIL BLAZERS Turnover: Shot Clock (T#3),,20-11,20,11
-0021900496,2019-12-30,POR,PHX,7.1,1,4,54,POR,PHX,block,6,True,False,block,block,20-11,20,11
 0021900496,2019-12-30,POR,PHX,7.22,1,4,47,PHX,POR,foul,2,False,False,McCollum S.FOUL (P2.T4) (J.Capers),,20-11,20,11
 0021900496,2019-12-30,POR,PHX,7.22,1,4,47,PHX,PHX,ft_make,11,False,False,,Booker Free Throw 1 of 2 (5 PTS),20-12,20,12
 0021900496,2019-12-30,POR,PHX,7.22,1,4,47,PHX,PHX,ft_make,12,False,False,,Booker Free Throw 2 of 2 (6 PTS),20-13,20,13
@@ -183,8 +183,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900496,2019-12-30,POR,PHX,20.35,2,3,39,PHX,PHX,tov,1,False,True,,Saric Bad Pass Turnover (P1.T8),55-41,55,41
 0021900496,2019-12-30,POR,PHX,20.35,2,3,39,PHX,POR,steal,1,False,True,steal,steal,55-41,55,41
 0021900496,2019-12-30,POR,PHX,20.38,2,3,37,POR,POR,fg_miss,41,True,False,MISS Trent Jr. 1' Running Layup,,55-41,55,41
-0021900496,2019-12-30,POR,PHX,20.38,2,3,37,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,55-41,55,41
 0021900496,2019-12-30,POR,PHX,20.38,2,3,37,POR,PHX,block,41,True,False,block,block,55-41,55,41
+0021900496,2019-12-30,POR,PHX,20.38,2,3,37,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,55-41,55,41
 0021900496,2019-12-30,POR,PHX,20.5,2,3,30,POR,PHX,foul,1,False,False,,Ayton P.FOUL (P3.PN) (E.Scott),55-41,55,41
 0021900496,2019-12-30,POR,PHX,20.5,2,3,30,POR,POR,ft_make,11,False,False,Lillard Free Throw 1 of 2 (17 PTS),,56-41,56,41
 0021900496,2019-12-30,POR,PHX,20.5,2,3,30,POR,POR,ft_miss,12,False,False,MISS Lillard Free Throw 2 of 2,,56-41,56,41
@@ -279,9 +279,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900496,2019-12-30,POR,PHX,29.58,3,6,25,POR,POR,timeout,1,False,False,TRAIL BLAZERS Timeout: Regular (Full 3 Short 0),,75-71,75,71
 0021900496,2019-12-30,POR,PHX,29.87,3,6,8,POR,POR,fg_make,3,False,False,Whiteside 3' Hook Shot (10 PTS) (Lillard 5 AST),,77-71,77,71
 0021900496,2019-12-30,POR,PHX,30.3,3,5,42,PHX,PHX,fg3_miss,1,True,False,,MISS Ayton 24' 3PT Jump Shot,77-71,77,71
+0021900496,2019-12-30,POR,PHX,30.3,3,5,42,PHX,POR,block,1,True,False,block,block,77-71,77,71
 0021900496,2019-12-30,POR,PHX,30.3,3,5,42,PHX,PHX,reb,0,False,False,,Suns Rebound,77-71,77,71
 0021900496,2019-12-30,POR,PHX,30.3,3,5,42,PHX,PHX,tov,11,False,False,,Suns Turnover: Shot Clock (T#9),77-71,77,71
-0021900496,2019-12-30,POR,PHX,30.3,3,5,42,PHX,POR,block,1,True,False,block,block,77-71,77,71
 0021900496,2019-12-30,POR,PHX,30.6,3,5,24,POR,POR,fg_make,79,False,False,McCollum 7' Pullup Jump Shot (17 PTS),,79-71,79,71
 0021900496,2019-12-30,POR,PHX,30.9,3,5,6,PHX,PHX,fg3_miss,1,False,False,,MISS Saric 24' 3PT Jump Shot,79-71,79,71
 0021900496,2019-12-30,POR,PHX,30.93,3,5,4,POR,POR,reb,0,False,False,Bazemore REBOUND (Off:0 Def:4),,79-71,79,71
@@ -384,8 +384,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900496,2019-12-30,POR,PHX,43.45,4,4,33,POR,PHX,block,79,True,False,block,block,106-104,106,104
 0021900496,2019-12-30,POR,PHX,43.48,4,4,31,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:1 Def:7),106-104,106,104
 0021900496,2019-12-30,POR,PHX,43.65,4,4,21,PHX,PHX,fg_miss,6,True,False,,MISS Bridges 4' Driving Layup,106-104,106,104
-0021900496,2019-12-30,POR,PHX,43.65,4,4,21,PHX,PHX,reb,0,False,False,,Suns Rebound,106-104,106,104
 0021900496,2019-12-30,POR,PHX,43.65,4,4,21,PHX,POR,block,6,True,False,block,block,106-104,106,104
+0021900496,2019-12-30,POR,PHX,43.65,4,4,21,PHX,PHX,reb,0,False,False,,Suns Rebound,106-104,106,104
 0021900496,2019-12-30,POR,PHX,43.8,4,4,12,PHX,PHX,tov,11,False,False,,Suns Turnover: Shot Clock (T#11),106-104,106,104
 0021900496,2019-12-30,POR,PHX,44.13,4,3,52,POR,POR,fg_make,78,False,False,Whiteside 10' Floating Jump Shot (14 PTS) (McCollum 6 AST),,108-104,108,104
 0021900496,2019-12-30,POR,PHX,44.35,4,3,39,PHX,PHX,fg_miss,79,False,False,,MISS Booker 19' Pullup Jump Shot,108-104,108,104

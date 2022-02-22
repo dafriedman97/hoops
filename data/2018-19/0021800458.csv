@@ -47,8 +47,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800458,2018-12-19,BOS,PHX,5.03,1,6,58,BOS,BOS,reb,0,False,False,Williams III REBOUND (Off:1 Def:0),,13-9,13,9
 0021800458,2018-12-19,BOS,PHX,5.15,1,6,51,BOS,BOS,fg3_make,1,False,False,Smart 25' 3PT Jump Shot (3 PTS) (Irving 4 AST),,16-9,16,9
 0021800458,2018-12-19,BOS,PHX,5.48,1,6,31,PHX,PHX,fg_miss,6,True,False,,MISS Booker 5' Driving Layup,16-9,16,9
-0021800458,2018-12-19,BOS,PHX,5.48,1,6,31,PHX,PHX,reb,0,False,False,,Suns Rebound,16-9,16,9
 0021800458,2018-12-19,BOS,PHX,5.48,1,6,31,PHX,BOS,block,6,True,False,block,block,16-9,16,9
+0021800458,2018-12-19,BOS,PHX,5.48,1,6,31,PHX,PHX,reb,0,False,False,,Suns Rebound,16-9,16,9
 0021800458,2018-12-19,BOS,PHX,5.63,1,6,22,PHX,PHX,fg_miss,1,False,False,,MISS Warren 21' Jump Shot,16-9,16,9
 0021800458,2018-12-19,BOS,PHX,5.68,1,6,19,PHX,PHX,reb,0,False,False,,Bridges REBOUND (Off:2 Def:0),16-9,16,9
 0021800458,2018-12-19,BOS,PHX,5.75,1,6,15,PHX,BOS,foul,2,False,False,Hayward S.FOUL (P1.T1) (D.Collins),,16-9,16,9
@@ -60,8 +60,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800458,2018-12-19,BOS,PHX,6.3,1,5,42,BOS,BOS,reb,0,False,False,Tatum REBOUND (Off:0 Def:1),,18-11,18,11
 0021800458,2018-12-19,BOS,PHX,6.48,1,5,31,BOS,BOS,fg_make,52,False,False,Williams III 1' Alley Oop Dunk (2 PTS) (Irving 5 AST),,20-11,20,11
 0021800458,2018-12-19,BOS,PHX,6.83,1,5,10,PHX,PHX,fg_miss,6,True,False,,MISS Bridges 6' Driving Layup,20-11,20,11
-0021800458,2018-12-19,BOS,PHX,6.83,1,5,10,PHX,PHX,reb,0,False,False,,Suns Rebound,20-11,20,11
 0021800458,2018-12-19,BOS,PHX,6.83,1,5,10,PHX,BOS,block,6,True,False,block,block,20-11,20,11
+0021800458,2018-12-19,BOS,PHX,6.83,1,5,10,PHX,PHX,reb,0,False,False,,Suns Rebound,20-11,20,11
 0021800458,2018-12-19,BOS,PHX,6.87,1,5,8,PHX,PHX,fg_miss,63,False,False,,MISS Warren 11' Fadeaway Jumper,20-11,20,11
 0021800458,2018-12-19,BOS,PHX,6.92,1,5,5,BOS,BOS,reb,0,False,False,Hayward REBOUND (Off:0 Def:1),,20-11,20,11
 0021800458,2018-12-19,BOS,PHX,7.02,1,4,59,BOS,BOS,tov,45,False,False,Irving Out of Bounds - Bad Pass Turnover Turnover (P2.T2),,20-11,20,11
@@ -129,8 +129,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800458,2018-12-19,BOS,PHX,14.38,2,9,37,PHX,PHX,reb,0,False,False,,Holmes REBOUND (Off:1 Def:2),42-32,42,32
 0021800458,2018-12-19,BOS,PHX,14.38,2,9,37,PHX,PHX,fg_make,97,False,False,,Holmes 1' Tip Layup Shot (6 PTS),42-34,42,34
 0021800458,2018-12-19,BOS,PHX,14.72,2,9,17,BOS,BOS,fg_miss,6,True,False,MISS Brown 2' Driving Layup,,42-34,42,34
-0021800458,2018-12-19,BOS,PHX,14.72,2,9,17,BOS,BOS,reb,0,False,False,Ojeleye REBOUND (Off:1 Def:0),,42-34,42,34
 0021800458,2018-12-19,BOS,PHX,14.72,2,9,17,BOS,PHX,block,6,True,False,block,block,42-34,42,34
+0021800458,2018-12-19,BOS,PHX,14.72,2,9,17,BOS,BOS,reb,0,False,False,Ojeleye REBOUND (Off:1 Def:0),,42-34,42,34
 0021800458,2018-12-19,BOS,PHX,14.77,2,9,14,BOS,BOS,fg3_make,1,False,False,Rozier 26' 3PT Jump Shot (6 PTS) (Ojeleye 1 AST),,45-34,45,34
 0021800458,2018-12-19,BOS,PHX,15.05,2,8,57,PHX,BOS,foul,2,False,False,Rozier S.FOUL (P2.T2) (D.Collins),,45-34,45,34
 0021800458,2018-12-19,BOS,PHX,15.05,2,8,57,PHX,PHX,ft_make,11,False,False,,Oubre Jr. Free Throw 1 of 2 (1 PTS),45-35,45,35
@@ -425,8 +425,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800458,2018-12-19,BOS,PHX,43.98,4,4,1,BOS,BOS,ft_make,15,False,False,Smart Free Throw 3 of 3 (9 PTS),,95-101,95,101
 0021800458,2018-12-19,BOS,PHX,44.13,4,3,52,PHX,BOS,foul,1,False,False,Tatum P.FOUL (P2.T3) (D.Guthrie),,95-101,95,101
 0021800458,2018-12-19,BOS,PHX,44.23,4,3,46,PHX,PHX,fg3_miss,1,True,False,,MISS Jackson 3PT Jump Shot,95-101,95,101
-0021800458,2018-12-19,BOS,PHX,44.23,4,3,46,PHX,PHX,reb,0,False,False,,Suns Rebound,95-101,95,101
 0021800458,2018-12-19,BOS,PHX,44.23,4,3,46,PHX,BOS,block,1,True,False,block,block,95-101,95,101
+0021800458,2018-12-19,BOS,PHX,44.23,4,3,46,PHX,PHX,reb,0,False,False,,Suns Rebound,95-101,95,101
 0021800458,2018-12-19,BOS,PHX,44.27,4,3,44,PHX,PHX,fg3_miss,1,False,False,,MISS Oubre Jr. 27' 3PT Jump Shot,95-101,95,101
 0021800458,2018-12-19,BOS,PHX,44.3,4,3,42,BOS,BOS,reb,0,False,False,Hayward REBOUND (Off:0 Def:5),,95-101,95,101
 0021800458,2018-12-19,BOS,PHX,44.47,4,3,32,BOS,PHX,foul,2,False,False,,Warren S.FOUL (P4.PN) (D.Collins),95-101,95,101

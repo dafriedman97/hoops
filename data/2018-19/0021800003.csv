@@ -24,8 +24,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800003,2018-10-17,CHA,MIL,2.87,1,9,8,CHA,CHA,reb,0,False,False,Williams REBOUND (Off:0 Def:1),,8-14,8,14
 0021800003,2018-10-17,CHA,MIL,3.08,1,8,55,CHA,CHA,fg3_make,1,False,False,Zeller 26' 3PT Jump Shot (3 PTS) (Walker 1 AST),,11-14,11,14
 0021800003,2018-10-17,CHA,MIL,3.42,1,8,35,MIL,MIL,fg_miss,5,True,False,,MISS Antetokounmpo 3' Layup,11-14,11,14
-0021800003,2018-10-17,CHA,MIL,3.42,1,8,35,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:0),11-14,11,14
 0021800003,2018-10-17,CHA,MIL,3.42,1,8,35,MIL,CHA,block,5,True,False,block,block,11-14,11,14
+0021800003,2018-10-17,CHA,MIL,3.42,1,8,35,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:0),11-14,11,14
 0021800003,2018-10-17,CHA,MIL,3.43,1,8,34,MIL,CHA,foul,2,False,False,Batum S.FOUL (P1.T3) (S.Corbin),,11-14,11,14
 0021800003,2018-10-17,CHA,MIL,3.43,1,8,34,MIL,MIL,ft_miss,11,False,False,,MISS Antetokounmpo Free Throw 1 of 2,11-14,11,14
 0021800003,2018-10-17,CHA,MIL,3.43,1,8,34,MIL,MIL,reb,1,False,False,,Bucks Rebound,11-14,11,14
@@ -157,11 +157,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800003,2018-10-17,CHA,MIL,17.28,2,6,43,MIL,MIL,fg3_miss,1,False,False,,MISS Middleton 26' 3PT Jump Shot,37-51,37,51
 0021800003,2018-10-17,CHA,MIL,17.35,2,6,39,CHA,CHA,reb,0,False,False,Williams REBOUND (Off:0 Def:4),,37-51,37,51
 0021800003,2018-10-17,CHA,MIL,17.45,2,6,33,CHA,CHA,fg_miss,5,True,False,MISS Walker 2' Layup,,37-51,37,51
+0021800003,2018-10-17,CHA,MIL,17.45,2,6,33,CHA,MIL,block,5,True,False,block,block,37-51,37,51
 0021800003,2018-10-17,CHA,MIL,17.45,2,6,33,CHA,CHA,reb,0,False,False,Kidd-Gilchrist REBOUND (Off:2 Def:0),,37-51,37,51
 0021800003,2018-10-17,CHA,MIL,17.45,2,6,33,CHA,MIL,foul,2,False,False,,Ilyasova S.FOUL (P2.T3) (S.Corbin),37-51,37,51
 0021800003,2018-10-17,CHA,MIL,17.45,2,6,33,CHA,CHA,ft_miss,11,False,False,MISS Kidd-Gilchrist Free Throw 1 of 2,,37-51,37,51
 0021800003,2018-10-17,CHA,MIL,17.45,2,6,33,CHA,CHA,reb,1,False,False,HORNETS Rebound,,37-51,37,51
-0021800003,2018-10-17,CHA,MIL,17.45,2,6,33,CHA,MIL,block,5,True,False,block,block,37-51,37,51
 0021800003,2018-10-17,CHA,MIL,17.45,2,6,33,CHA,CHA,ft_make,12,False,False,Kidd-Gilchrist Free Throw 2 of 2 (3 PTS),,38-51,38,51
 0021800003,2018-10-17,CHA,MIL,17.57,2,6,26,MIL,CHA,foul,1,False,False,Kidd-Gilchrist P.FOUL (P1.T2) (S.Corbin),,38-51,38,51
 0021800003,2018-10-17,CHA,MIL,17.73,2,6,16,MIL,MIL,fg_make,47,False,False,,Ilyasova 9' Turnaround Jump Shot (5 PTS) (Middleton 4 AST),38-53,38,53
@@ -315,8 +315,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800003,2018-10-17,CHA,MIL,34.77,3,1,14,CHA,CHA,tov,45,False,False,Parker Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,78-89,78,89
 0021800003,2018-10-17,CHA,MIL,35.05,3,0,57,MIL,MIL,fg_make,7,False,False,,Antetokounmpo 1' Dunk (16 PTS),78-91,78,91
 0021800003,2018-10-17,CHA,MIL,35.28,3,0,43,CHA,CHA,tov,2,False,True,Walker Lost Ball Turnover (P2.T8),,78-91,78,91
-0021800003,2018-10-17,CHA,MIL,35.28,3,0,43,MIL,CHA,foul,1,False,False,Bridges P.FOUL (P2.T4) (S.Foster),,78-91,78,91
 0021800003,2018-10-17,CHA,MIL,35.28,3,0,43,CHA,MIL,steal,2,False,True,steal,steal,78-91,78,91
+0021800003,2018-10-17,CHA,MIL,35.28,3,0,43,MIL,CHA,foul,1,False,False,Bridges P.FOUL (P2.T4) (S.Foster),,78-91,78,91
 0021800003,2018-10-17,CHA,MIL,35.4,3,0,36,MIL,CHA,foul,1,False,False,Kidd-Gilchrist P.FOUL (P3.PN) (S.Corbin),,78-91,78,91
 0021800003,2018-10-17,CHA,MIL,35.4,3,0,36,MIL,MIL,ft_make,11,False,False,,Henson Free Throw 1 of 2 (3 PTS),78-92,78,92
 0021800003,2018-10-17,CHA,MIL,35.4,3,0,36,MIL,MIL,ft_make,12,False,False,,Henson Free Throw 2 of 2 (4 PTS),78-93,78,93
@@ -335,8 +335,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800003,2018-10-17,CHA,MIL,36.75,4,11,15,CHA,CHA,fg3_miss,1,False,False,MISS Monk 25' 3PT Jump Shot,,83-95,83,95
 0021800003,2018-10-17,CHA,MIL,36.78,4,11,13,MIL,MIL,reb,0,False,False,,Ilyasova REBOUND (Off:1 Def:6),83-95,83,95
 0021800003,2018-10-17,CHA,MIL,36.83,4,11,10,MIL,MIL,fg_miss,41,True,False,,MISS DiVincenzo 1' Running Layup,83-95,83,95
-0021800003,2018-10-17,CHA,MIL,36.83,4,11,10,CHA,CHA,reb,0,False,False,Kidd-Gilchrist REBOUND (Off:2 Def:2),,83-95,83,95
 0021800003,2018-10-17,CHA,MIL,36.83,4,11,10,MIL,CHA,block,41,True,False,block,block,83-95,83,95
+0021800003,2018-10-17,CHA,MIL,36.83,4,11,10,CHA,CHA,reb,0,False,False,Kidd-Gilchrist REBOUND (Off:2 Def:2),,83-95,83,95
 0021800003,2018-10-17,CHA,MIL,36.88,4,11,7,CHA,MIL,foul,2,False,False,,Brogdon S.FOUL (P3.T1) (L.Richardson),83-95,83,95
 0021800003,2018-10-17,CHA,MIL,36.88,4,11,7,CHA,CHA,ft_make,11,False,False,Kidd-Gilchrist Free Throw 1 of 2 (4 PTS),,84-95,84,95
 0021800003,2018-10-17,CHA,MIL,36.88,4,11,7,CHA,CHA,ft_miss,12,False,False,MISS Kidd-Gilchrist Free Throw 2 of 2,,84-95,84,95
@@ -381,8 +381,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800003,2018-10-17,CHA,MIL,41.62,4,6,23,CHA,CHA,fg3_make,79,False,False,Walker 26' 3PT Pullup Jump Shot (36 PTS),,101-101,101,101
 0021800003,2018-10-17,CHA,MIL,41.65,4,6,21,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.5 Short 0),101-101,101,101
 0021800003,2018-10-17,CHA,MIL,41.83,4,6,10,MIL,MIL,fg_miss,5,True,False,,MISS Antetokounmpo 6' Layup,101-101,101,101
-0021800003,2018-10-17,CHA,MIL,41.83,4,6,10,MIL,MIL,reb,0,False,False,,Bucks Rebound,101-101,101,101
 0021800003,2018-10-17,CHA,MIL,41.83,4,6,10,MIL,CHA,block,5,True,False,block,block,101-101,101,101
+0021800003,2018-10-17,CHA,MIL,41.83,4,6,10,MIL,MIL,reb,0,False,False,,Bucks Rebound,101-101,101,101
 0021800003,2018-10-17,CHA,MIL,42.02,4,5,59,MIL,MIL,fg3_make,1,False,False,,Middleton 3PT Jump Shot (17 PTS) (Ilyasova 2 AST),101-104,101,104
 0021800003,2018-10-17,CHA,MIL,42.22,4,5,47,CHA,MIL,foul,1,False,False,,Bledsoe P.FOUL (P4.PN) (S.Corbin),101-104,101,104
 0021800003,2018-10-17,CHA,MIL,42.32,4,5,41,CHA,CHA,fg3_make,1,False,False,Walker 26' 3PT Jump Shot (39 PTS) (Batum 3 AST),,104-104,104,104

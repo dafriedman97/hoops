@@ -50,8 +50,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900782,2020-02-08,MIN,LAC,5.6,1,6,24,MIN,MIN,ft_make,11,False,False,Okogie Free Throw 1 of 2 (3 PTS),,17-13,17,13
 0021900782,2020-02-08,MIN,LAC,5.6,1,6,24,MIN,MIN,ft_make,12,False,False,Okogie Free Throw 2 of 2 (4 PTS),,18-13,18,13
 0021900782,2020-02-08,MIN,LAC,5.8,1,6,12,LAC,LAC,fg_miss,6,False,False,,MISS Leonard 2' Driving Layup,18-13,18,13
-0021900782,2020-02-08,MIN,LAC,5.88,1,6,7,LAC,LAC,fg_make,107,False,False,,Zubac 1' Tip Dunk Shot (2 PTS),18-15,18,15
 0021900782,2020-02-08,MIN,LAC,5.88,1,6,7,LAC,LAC,reb,0,False,False,,Zubac REBOUND (Off:1 Def:2),18-15,18,15
+0021900782,2020-02-08,MIN,LAC,5.88,1,6,7,LAC,LAC,fg_make,107,False,False,,Zubac 1' Tip Dunk Shot (2 PTS),18-15,18,15
 0021900782,2020-02-08,MIN,LAC,6.2,1,5,48,MIN,MIN,fg_miss,78,False,False,MISS Beasley 13' Floating Jump Shot,,18-15,18,15
 0021900782,2020-02-08,MIN,LAC,6.25,1,5,45,LAC,LAC,reb,0,False,False,,Leonard REBOUND (Off:0 Def:2),18-15,18,15
 0021900782,2020-02-08,MIN,LAC,6.25,1,5,45,LAC,MIN,foul,1,False,False,Beasley P.FOUL (P1.T2) (J.Sterling),,18-15,18,15
@@ -217,9 +217,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900782,2020-02-08,MIN,LAC,23.95,2,0,3,MIN,MIN,ft_miss,10,False,False,MISS Towns Free Throw 1 of 1,,81-59,81,59
 0021900782,2020-02-08,MIN,LAC,23.98,2,0,1,LAC,LAC,reb,0,False,False,,Leonard REBOUND (Off:0 Def:3),81-59,81,59
 0021900782,2020-02-08,MIN,LAC,24.0,2,0,0,LAC,LAC,tov,2,False,True,,Leonard Lost Ball Turnover (P1.T10),81-59,81,59
+0021900782,2020-02-08,MIN,LAC,24.0,2,0,0,LAC,MIN,steal,2,False,True,steal,steal,81-59,81,59
 0021900782,2020-02-08,MIN,LAC,24.0,2,0,0,LAC,,period_end,0,False,False,,,81-59,81,59
 0021900782,2020-02-08,MIN,LAC,24.0,3,12,0,LAC,,period_start,0,False,False,,,81-59,81,59
-0021900782,2020-02-08,MIN,LAC,24.0,2,0,0,LAC,MIN,steal,2,False,True,steal,steal,81-59,81,59
 0021900782,2020-02-08,MIN,LAC,24.37,3,11,38,LAC,LAC,fg3_miss,1,False,False,,MISS George 3PT Jump Shot,81-59,81,59
 0021900782,2020-02-08,MIN,LAC,24.43,3,11,34,MIN,MIN,reb,0,False,False,Beasley REBOUND (Off:1 Def:4),,81-59,81,59
 0021900782,2020-02-08,MIN,LAC,24.73,3,11,16,MIN,MIN,fg3_miss,1,False,False,MISS Beasley 25' 3PT Jump Shot,,81-59,81,59
@@ -227,11 +227,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900782,2020-02-08,MIN,LAC,24.87,3,11,8,LAC,LAC,tov,1,False,True,,George Bad Pass Turnover (P3.T11),81-59,81,59
 0021900782,2020-02-08,MIN,LAC,24.87,3,11,8,LAC,MIN,steal,1,False,True,steal,steal,81-59,81,59
 0021900782,2020-02-08,MIN,LAC,25.2,3,10,48,MIN,MIN,fg_miss,98,True,False,MISS Towns 3' Cutting Layup Shot,,81-59,81,59
+0021900782,2020-02-08,MIN,LAC,25.2,3,10,48,MIN,LAC,block,98,True,False,block,block,81-59,81,59
 0021900782,2020-02-08,MIN,LAC,25.2,3,10,48,MIN,MIN,reb,0,False,False,Towns REBOUND (Off:3 Def:4),,81-59,81,59
 0021900782,2020-02-08,MIN,LAC,25.2,3,10,48,MIN,LAC,foul,2,False,False,,Zubac S.FOUL (P3.T1) (D.Collins),81-59,81,59
 0021900782,2020-02-08,MIN,LAC,25.2,3,10,48,MIN,MIN,ft_miss,11,False,False,MISS Towns Free Throw 1 of 2,,81-59,81,59
 0021900782,2020-02-08,MIN,LAC,25.2,3,10,48,MIN,MIN,reb,1,False,False,TIMBERWOLVES Rebound,,81-59,81,59
-0021900782,2020-02-08,MIN,LAC,25.2,3,10,48,MIN,LAC,block,98,True,False,block,block,81-59,81,59
 0021900782,2020-02-08,MIN,LAC,25.2,3,10,48,MIN,MIN,ft_make,12,False,False,Towns Free Throw 2 of 2 (17 PTS),,82-59,82,59
 0021900782,2020-02-08,MIN,LAC,25.53,3,10,28,LAC,LAC,fg_miss,86,False,False,,MISS George 13' Turnaround Fadeaway Shot,82-59,82,59
 0021900782,2020-02-08,MIN,LAC,25.6,3,10,24,MIN,MIN,reb,0,False,False,Hernangomez REBOUND (Off:0 Def:1),,82-59,82,59

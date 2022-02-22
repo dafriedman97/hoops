@@ -147,8 +147,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700193,2017-11-13,NYK,CLE,16.78,2,7,13,CLE,CLE,fg3_miss,1,False,False,,MISS Korver 28' 3PT Jump Shot,29-27,29,27
 0021700193,2017-11-13,NYK,CLE,16.85,2,7,9,CLE,CLE,reb,0,False,False,,Smith REBOUND (Off:1 Def:1),29-27,29,27
 0021700193,2017-11-13,NYK,CLE,16.98,2,7,1,CLE,CLE,tov,2,False,True,,Smith Lost Ball Turnover (P1.T6),29-27,29,27
-0021700193,2017-11-13,NYK,CLE,16.98,2,7,1,NYK,CLE,foul,1,False,False,,Frye P.FOUL (P2.T2) (T.Brothers),29-27,29,27
 0021700193,2017-11-13,NYK,CLE,16.98,2,7,1,CLE,NYK,steal,2,False,True,steal,steal,29-27,29,27
+0021700193,2017-11-13,NYK,CLE,16.98,2,7,1,NYK,CLE,foul,1,False,False,,Frye P.FOUL (P2.T2) (T.Brothers),29-27,29,27
 0021700193,2017-11-13,NYK,CLE,17.27,2,6,44,NYK,NYK,fg3_miss,1,False,False,MISS McDermott 3PT Jump Shot,,29-27,29,27
 0021700193,2017-11-13,NYK,CLE,17.32,2,6,41,CLE,CLE,reb,0,False,False,,Smith REBOUND (Off:1 Def:2),29-27,29,27
 0021700193,2017-11-13,NYK,CLE,17.57,2,6,26,CLE,CLE,fg_make,73,False,False,,Wade 2' Driving Reverse Layup (4 PTS),29-29,29,29
@@ -156,10 +156,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700193,2017-11-13,NYK,CLE,17.75,2,6,15,NYK,CLE,block,5,True,False,block,block,29-29,29,29
 0021700193,2017-11-13,NYK,CLE,17.78,2,6,13,CLE,CLE,reb,0,False,False,,Green REBOUND (Off:0 Def:2),29-29,29,29
 0021700193,2017-11-13,NYK,CLE,17.83,2,6,10,CLE,CLE,fg_miss,5,True,False,,MISS Green 1' Layup,29-29,29,29
+0021700193,2017-11-13,NYK,CLE,17.83,2,6,10,CLE,NYK,block,5,True,False,block,block,29-29,29,29
 0021700193,2017-11-13,NYK,CLE,17.83,2,6,10,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,29-29,29,29
 0021700193,2017-11-13,NYK,CLE,17.83,2,6,10,NYK,NYK,timeout,1,False,False,KNICKS Timeout: Regular (Full 2 Short 0),,29-29,29,29
 0021700193,2017-11-13,NYK,CLE,17.83,2,6,10,NYK,CLE,foul,11,False,False,,Cavaliers T.FOUL,29-29,29,29
-0021700193,2017-11-13,NYK,CLE,17.83,2,6,10,CLE,NYK,block,5,True,False,block,block,29-29,29,29
 0021700193,2017-11-13,NYK,CLE,17.83,2,6,10,NYK,NYK,ft_make,16,False,False,Porzingis Free Throw Technical (8 PTS),,30-29,30,29
 0021700193,2017-11-13,NYK,CLE,17.95,2,6,3,CLE,CLE,tov,1,False,True,,Wade Bad Pass Turnover (P1.T7),30-29,30,29
 0021700193,2017-11-13,NYK,CLE,17.95,2,6,3,CLE,NYK,steal,1,False,True,steal,steal,30-29,30,29
@@ -225,8 +225,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700193,2017-11-13,NYK,CLE,23.82,2,0,11,CLE,NYK,foul,2,False,False,Thomas S.FOUL (P2.PN) (B.Barnaky),,51-37,51,37
 0021700193,2017-11-13,NYK,CLE,23.82,2,0,11,CLE,CLE,ft_make,10,False,False,,James Free Throw 1 of 1 (13 PTS),51-38,51,38
 0021700193,2017-11-13,NYK,CLE,23.98,2,0,1,NYK,NYK,fg_miss,47,True,False,MISS Porzingis 15' Turnaround Jump Shot,,51-38,51,38
-0021700193,2017-11-13,NYK,CLE,23.98,2,0,1,CLE,CLE,reb,0,False,False,,Wade REBOUND (Off:2 Def:2),51-38,51,38
 0021700193,2017-11-13,NYK,CLE,23.98,2,0,1,NYK,CLE,block,47,True,False,block,block,51-38,51,38
+0021700193,2017-11-13,NYK,CLE,23.98,2,0,1,CLE,CLE,reb,0,False,False,,Wade REBOUND (Off:2 Def:2),51-38,51,38
 0021700193,2017-11-13,NYK,CLE,24.0,2,0,0,CLE,,period_end,0,False,False,,,51-38,51,38
 0021700193,2017-11-13,NYK,CLE,24.0,3,12,0,CLE,,period_start,0,False,False,,,51-38,51,38
 0021700193,2017-11-13,NYK,CLE,24.43,3,11,34,CLE,CLE,fg3_make,1,False,False,,Crowder 25' 3PT Jump Shot (10 PTS) (James 4 AST),51-41,51,41
@@ -248,8 +248,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700193,2017-11-13,NYK,CLE,26.52,3,9,29,NYK,NYK,fg_miss,1,False,False,MISS Jack 21' Jump Shot,,51-41,51,41
 0021700193,2017-11-13,NYK,CLE,26.62,3,9,23,NYK,NYK,reb,0,False,False,Kanter REBOUND (Off:2 Def:7),,51-41,51,41
 0021700193,2017-11-13,NYK,CLE,26.63,3,9,22,NYK,NYK,fg_miss,5,True,False,MISS Kanter 2' Layup,,51-41,51,41
-0021700193,2017-11-13,NYK,CLE,26.63,3,9,22,CLE,CLE,reb,0,False,False,,Shumpert REBOUND (Off:0 Def:4),51-41,51,41
 0021700193,2017-11-13,NYK,CLE,26.63,3,9,22,NYK,CLE,block,5,True,False,block,block,51-41,51,41
+0021700193,2017-11-13,NYK,CLE,26.63,3,9,22,CLE,CLE,reb,0,False,False,,Shumpert REBOUND (Off:0 Def:4),51-41,51,41
 0021700193,2017-11-13,NYK,CLE,26.75,3,9,15,CLE,CLE,fg3_miss,1,False,False,,MISS Crowder 3PT Jump Shot,51-41,51,41
 0021700193,2017-11-13,NYK,CLE,26.8,3,9,12,NYK,NYK,reb,0,False,False,Jack REBOUND (Off:0 Def:1),,51-41,51,41
 0021700193,2017-11-13,NYK,CLE,26.8,3,9,12,NYK,NYK,tov,4,False,False,Kanter Traveling Turnover (P1.T9),,51-41,51,41
@@ -301,8 +301,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700193,2017-11-13,NYK,CLE,32.73,3,3,16,CLE,CLE,fg_miss,1,False,False,,MISS Green 19' Jump Shot,69-49,69,49
 0021700193,2017-11-13,NYK,CLE,32.77,3,3,14,NYK,NYK,reb,0,False,False,Hardaway Jr. REBOUND (Off:1 Def:9),,69-49,69,49
 0021700193,2017-11-13,NYK,CLE,32.9,3,3,6,NYK,NYK,tov,1,False,True,Hardaway Jr. Bad Pass Turnover (P2.T11),,69-49,69,49
-0021700193,2017-11-13,NYK,CLE,32.9,3,3,6,CLE,NYK,foul,1,False,False,Porzingis P.FOUL (P3.T1) (T.Maddox),,69-49,69,49
 0021700193,2017-11-13,NYK,CLE,32.9,3,3,6,NYK,CLE,steal,1,False,True,steal,steal,69-49,69,49
+0021700193,2017-11-13,NYK,CLE,32.9,3,3,6,CLE,NYK,foul,1,False,False,Porzingis P.FOUL (P3.T1) (T.Maddox),,69-49,69,49
 0021700193,2017-11-13,NYK,CLE,33.08,3,2,55,CLE,CLE,tov,45,False,False,,Frye Out of Bounds - Bad Pass Turnover Turnover (P1.T17),69-49,69,49
 0021700193,2017-11-13,NYK,CLE,33.42,3,2,35,NYK,NYK,fg_make,6,False,False,Kanter 2' Driving Layup (20 PTS),,71-49,71,49
 0021700193,2017-11-13,NYK,CLE,33.43,3,2,34,CLE,NYK,foul,2,False,False,Kanter S.FOUL (P2.T2) (T.Maddox),,71-49,71,49
@@ -330,12 +330,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700193,2017-11-13,NYK,CLE,35.08,3,0,55,CLE,CLE,reb,0,False,False,,Green REBOUND (Off:0 Def:4),76-56,76,56
 0021700193,2017-11-13,NYK,CLE,35.27,3,0,44,CLE,CLE,fg3_make,1,False,False,,Green 26' 3PT Jump Shot (4 PTS) (Wade 2 AST),76-59,76,59
 0021700193,2017-11-13,NYK,CLE,35.53,3,0,28,NYK,NYK,tov,1,False,True,Ntilikina Bad Pass Turnover (P2.T12),,76-59,76,59
-0021700193,2017-11-13,NYK,CLE,35.53,3,0,28,CLE,CLE,tov,40,False,False,,Wade Out of Bounds Lost Ball Turnover (P3.T19),76-59,76,59
 0021700193,2017-11-13,NYK,CLE,35.53,3,0,28,NYK,CLE,steal,1,False,True,steal,steal,76-59,76,59
+0021700193,2017-11-13,NYK,CLE,35.53,3,0,28,CLE,CLE,tov,40,False,False,,Wade Out of Bounds Lost Ball Turnover (P3.T19),76-59,76,59
 0021700193,2017-11-13,NYK,CLE,35.82,3,0,11,NYK,NYK,tov,4,False,False,Thomas Traveling Turnover (P2.T13),,76-59,76,59
 0021700193,2017-11-13,NYK,CLE,35.88,3,0,7,CLE,NYK,foul,1,False,False,McDermott P.FOUL (P1.PN) (T.Brothers),,76-59,76,59
-0021700193,2017-11-13,NYK,CLE,35.88,3,0,7,CLE,CLE,ft_make,12,False,False,,Korver Free Throw 2 of 2 (1 PTS),76-60,76,60
 0021700193,2017-11-13,NYK,CLE,35.88,3,0,7,CLE,CLE,ft_make,11,False,False,,Korver Free Throw 1 of 2 (2 PTS),76-61,76,61
+0021700193,2017-11-13,NYK,CLE,35.88,3,0,7,CLE,CLE,ft_make,12,False,False,,Korver Free Throw 2 of 2 (1 PTS),76-60,76,60
 0021700193,2017-11-13,NYK,CLE,36.0,3,0,0,CLE,,period_end,0,False,False,,,76-61,76,61
 0021700193,2017-11-13,NYK,CLE,36.0,4,12,0,CLE,,period_start,0,False,False,,,76-61,76,61
 0021700193,2017-11-13,NYK,CLE,36.22,4,11,47,NYK,NYK,fg_miss,1,False,False,MISS Ntilikina 23' Jump Shot,,76-61,76,61

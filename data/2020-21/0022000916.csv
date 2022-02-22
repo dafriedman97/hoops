@@ -28,8 +28,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000916,2021-04-26,DET,ATL,2.98,1,9,1,ATL,ATL,fg_miss,79,False,False,,MISS Bogdanovic 9' Pullup Jump Shot,6-4,6,4
 0022000916,2021-04-26,DET,ATL,3.03,1,8,58,ATL,ATL,reb,0,False,False,,Capela REBOUND (Off:2 Def:1),6-4,6,4
 0022000916,2021-04-26,DET,ATL,3.05,1,8,57,ATL,ATL,fg_miss,72,True,False,,MISS Capela 3' Putback Layup,6-4,6,4
-0022000916,2021-04-26,DET,ATL,3.05,1,8,57,DET,DET,reb,0,False,False,Bey REBOUND (Off:0 Def:2),,6-4,6,4
 0022000916,2021-04-26,DET,ATL,3.05,1,8,57,ATL,DET,block,72,True,False,block,block,6-4,6,4
+0022000916,2021-04-26,DET,ATL,3.05,1,8,57,DET,DET,reb,0,False,False,Bey REBOUND (Off:0 Def:2),,6-4,6,4
 0022000916,2021-04-26,DET,ATL,3.27,1,8,44,DET,DET,fg_miss,3,False,False,MISS Plumlee 8' Hook Shot,,6-4,6,4
 0022000916,2021-04-26,DET,ATL,3.33,1,8,40,ATL,ATL,reb,0,False,False,,Capela REBOUND (Off:2 Def:2),6-4,6,4
 0022000916,2021-04-26,DET,ATL,3.47,1,8,32,ATL,ATL,fg_make,101,False,False,,Huerter 4' Driving Floating Jump Shot (4 PTS) (Goodwin 1 AST),6-6,6,6
@@ -122,8 +122,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000916,2021-04-26,DET,ATL,14.72,2,9,17,ATL,ATL,ft_make,11,False,False,,Huerter Free Throw 1 of 2 (5 PTS),31-25,31,25
 0022000916,2021-04-26,DET,ATL,14.72,2,9,17,ATL,ATL,ft_make,12,False,False,,Huerter Free Throw 2 of 2 (6 PTS),31-26,31,26
 0022000916,2021-04-26,DET,ATL,14.93,2,9,4,DET,DET,fg_miss,101,True,False,MISS Hayes 15' Driving Floating Jump Shot,,31-26,31,26
-0022000916,2021-04-26,DET,ATL,14.93,2,9,4,ATL,ATL,reb,0,False,False,,Capela REBOUND (Off:3 Def:6),31-26,31,26
 0022000916,2021-04-26,DET,ATL,14.93,2,9,4,DET,ATL,block,101,True,False,block,block,31-26,31,26
+0022000916,2021-04-26,DET,ATL,14.93,2,9,4,ATL,ATL,reb,0,False,False,,Capela REBOUND (Off:3 Def:6),31-26,31,26
 0022000916,2021-04-26,DET,ATL,15.05,2,8,57,ATL,ATL,fg_make,41,False,False,,Huerter 5' Running Layup (8 PTS) (Capela 1 AST),31-28,31,28
 0022000916,2021-04-26,DET,ATL,15.13,2,8,52,DET,DET,fg_make,6,False,False,Jackson 5' Driving Layup (2 PTS) (Doumbouya 1 AST),,33-28,33,28
 0022000916,2021-04-26,DET,ATL,15.13,2,8,52,DET,ATL,foul,2,False,False,,Huerter S.FOUL (P3.T4) (B.Nansel),33-28,33,28
@@ -320,9 +320,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000916,2021-04-26,DET,ATL,35.53,3,0,28,ATL,ATL,reb,0,False,False,,S. Hill REBOUND (Off:0 Def:4),74-64,74,64
 0022000916,2021-04-26,DET,ATL,35.82,3,0,11,ATL,ATL,fg3_make,80,False,False,,Huerter 28' 3PT Step Back Jump Shot (15 PTS),74-67,74,67
 0022000916,2021-04-26,DET,ATL,35.98,3,0,1,DET,DET,tov,1,False,True,Hayes Bad Pass Turnover (P2.T11),,74-67,74,67
+0022000916,2021-04-26,DET,ATL,35.98,3,0,1,DET,ATL,steal,1,False,True,steal,steal,74-67,74,67
 0022000916,2021-04-26,DET,ATL,35.98,3,0,1,ATL,ATL,fg3_miss,103,False,False,,MISS Huerter 58' 3PT Running Pull-Up Jump Shot,74-67,74,67
 0022000916,2021-04-26,DET,ATL,35.98,3,0,1,ATL,ATL,reb,0,False,False,,Hawks Rebound,74-67,74,67
-0022000916,2021-04-26,DET,ATL,35.98,3,0,1,DET,ATL,steal,1,False,True,steal,steal,74-67,74,67
 0022000916,2021-04-26,DET,ATL,36.0,3,0,0,ATL,,period_end,0,False,False,,,74-67,74,67
 0022000916,2021-04-26,DET,ATL,36.0,4,12,0,ATL,,period_start,0,False,False,,,74-67,74,67
 0022000916,2021-04-26,DET,ATL,36.3,4,11,42,DET,DET,fg3_make,1,False,False,Diallo 29' 3PT Jump Shot (7 PTS) (Jackson 1 AST),,77-67,77,67

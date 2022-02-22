@@ -92,9 +92,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800726,2019-01-25,DAL,DET,11.68,1,0,19,DET,DET,fg_make,75,False,False,,Griffin Driving Finger Roll Layup (7 PTS),23-28,23,28
 0021800726,2019-01-25,DAL,DET,11.92,1,0,5,DAL,DET,foul,28,False,False,,Pachulia Personal Take Foul (P1.T3) (D.Guthrie),23-28,23,28
 0021800726,2019-01-25,DAL,DET,12.0,1,0,0,DAL,DAL,tov,1,False,True,Smith Jr. Bad Pass Turnover (P1.T2),,23-28,23,28
+0021800726,2019-01-25,DAL,DET,12.0,1,0,0,DAL,DET,steal,1,False,True,steal,steal,23-28,23,28
 0021800726,2019-01-25,DAL,DET,12.0,1,0,0,DAL,,period_end,0,False,False,,,23-28,23,28
 0021800726,2019-01-25,DAL,DET,12.0,2,12,0,DAL,,period_start,0,False,False,,,23-28,23,28
-0021800726,2019-01-25,DAL,DET,12.0,1,0,0,DAL,DET,steal,1,False,True,steal,steal,23-28,23,28
 0021800726,2019-01-25,DAL,DET,12.37,2,11,38,DAL,DAL,fg_miss,1,False,False,MISS Nowitzki 17' Jump Shot,,23-28,23,28
 0021800726,2019-01-25,DAL,DET,12.38,2,11,37,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,23-28,23,28
 0021800726,2019-01-25,DAL,DET,12.38,2,11,37,DAL,DET,foul,1,False,False,,Kennard P.FOUL (P1.T1) (M.Boland),23-28,23,28
@@ -159,10 +159,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800726,2019-01-25,DAL,DET,17.88,2,6,7,DAL,DAL,fg3_make,1,False,False,Kleber 26' 3PT Jump Shot (6 PTS) (Harris 2 AST),,46-37,46,37
 0021800726,2019-01-25,DAL,DET,17.98,2,6,1,DET,DET,tov,45,False,False,,Jackson Out of Bounds - Bad Pass Turnover Turnover (P1.T2),46-37,46,37
 0021800726,2019-01-25,DAL,DET,18.32,2,5,41,DAL,DAL,fg_miss,86,False,False,MISS Barnes 7' Turnaround Fadeaway Shot,,46-37,46,37
-0021800726,2019-01-25,DAL,DET,18.38,2,5,37,DAL,DAL,fg_miss,97,False,False,MISS Jordan 1' Tip Layup Shot,,46-37,46,37
-0021800726,2019-01-25,DAL,DET,18.38,2,5,37,DAL,DAL,reb,0,False,False,Jordan REBOUND (Off:1 Def:3),,46-37,46,37
 0021800726,2019-01-25,DAL,DET,18.38,2,5,37,DAL,DAL,reb,0,False,False,Jordan REBOUND (Off:2 Def:3),,46-37,46,37
 0021800726,2019-01-25,DAL,DET,18.38,2,5,37,DAL,DAL,fg_miss,97,False,False,MISS Jordan 1' Tip Layup Shot,,46-37,46,37
+0021800726,2019-01-25,DAL,DET,18.38,2,5,37,DAL,DAL,fg_miss,97,False,False,MISS Jordan 1' Tip Layup Shot,,46-37,46,37
+0021800726,2019-01-25,DAL,DET,18.38,2,5,37,DAL,DAL,reb,0,False,False,Jordan REBOUND (Off:1 Def:3),,46-37,46,37
 0021800726,2019-01-25,DAL,DET,18.4,2,5,36,DET,DET,reb,0,False,False,,Griffin REBOUND (Off:2 Def:4),46-37,46,37
 0021800726,2019-01-25,DAL,DET,18.58,2,5,25,DET,DAL,foul,1,False,False,Kleber P.FOUL (P1.T4) (D.Guthrie),,46-37,46,37
 0021800726,2019-01-25,DAL,DET,18.67,2,5,20,DET,DET,fg_make,6,False,False,,Griffin 2' Driving Layup (9 PTS) (Johnson 1 AST),46-39,46,39
@@ -173,8 +173,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800726,2019-01-25,DAL,DET,19.42,2,4,35,DAL,DAL,fg_miss,47,False,False,MISS Barnes 8' Turnaround Jump Shot,,49-41,49,41
 0021800726,2019-01-25,DAL,DET,19.47,2,4,32,DET,DET,reb,0,False,False,,Johnson REBOUND (Off:0 Def:1),49-41,49,41
 0021800726,2019-01-25,DAL,DET,19.7,2,4,18,DET,DET,fg_miss,6,True,False,,MISS Griffin 2' Driving Layup,49-41,49,41
-0021800726,2019-01-25,DAL,DET,19.7,2,4,18,DET,DET,reb,0,False,False,,Pistons Rebound,49-41,49,41
 0021800726,2019-01-25,DAL,DET,19.7,2,4,18,DET,DAL,block,6,True,False,block,block,49-41,49,41
+0021800726,2019-01-25,DAL,DET,19.7,2,4,18,DET,DET,reb,0,False,False,,Pistons Rebound,49-41,49,41
 0021800726,2019-01-25,DAL,DET,19.83,2,4,10,DET,DET,tov,2,False,True,,Bullock Lost Ball Turnover (P1.T3),49-41,49,41
 0021800726,2019-01-25,DAL,DET,19.83,2,4,10,DET,DAL,steal,2,False,True,steal,steal,49-41,49,41
 0021800726,2019-01-25,DAL,DET,19.88,2,4,7,DAL,DAL,fg_make,52,False,False,Jordan 1' Alley Oop Dunk (2 PTS) (Smith Jr. 4 AST),,51-41,51,41
@@ -363,8 +363,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800726,2019-01-25,DAL,DET,39.4,4,8,36,DET,DET,fg3_miss,1,False,False,,MISS Galloway 25' 3PT Jump Shot,92-89,92,89
 0021800726,2019-01-25,DAL,DET,39.43,4,8,34,DET,DET,reb,0,False,False,,Pachulia REBOUND (Off:2 Def:0),92-89,92,89
 0021800726,2019-01-25,DAL,DET,39.45,4,8,33,DET,DET,fg_miss,72,True,False,,MISS Pachulia 1' Putback Layup,92-89,92,89
-0021800726,2019-01-25,DAL,DET,39.45,4,8,33,DAL,DAL,reb,0,False,False,Nowitzki REBOUND (Off:0 Def:1),,92-89,92,89
 0021800726,2019-01-25,DAL,DET,39.45,4,8,33,DET,DAL,block,72,True,False,block,block,92-89,92,89
+0021800726,2019-01-25,DAL,DET,39.45,4,8,33,DAL,DAL,reb,0,False,False,Nowitzki REBOUND (Off:0 Def:1),,92-89,92,89
 0021800726,2019-01-25,DAL,DET,39.6,4,8,24,DAL,DAL,fg3_miss,1,False,False,MISS Doncic 24' 3PT Jump Shot,,92-89,92,89
 0021800726,2019-01-25,DAL,DET,39.67,4,8,20,DET,DET,reb,0,False,False,,Kennard REBOUND (Off:0 Def:5),92-89,92,89
 0021800726,2019-01-25,DAL,DET,39.77,4,8,14,DET,DET,fg3_make,1,False,False,,Kennard 25' 3PT Jump Shot (3 PTS) (Galloway 1 AST),92-92,92,92

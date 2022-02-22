@@ -58,8 +58,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800334,2018-12-01,HOU,CHI,6.95,1,5,3,CHI,CHI,reb,0,False,False,,LaVine REBOUND (Off:0 Def:2),20-13,20,13
 0021800334,2018-12-01,HOU,CHI,7.17,1,4,50,CHI,CHI,fg_make,73,False,False,,Carter Jr. 1' Driving Reverse Layup (4 PTS),20-15,20,15
 0021800334,2018-12-01,HOU,CHI,7.47,1,4,32,HOU,HOU,fg_miss,5,True,False,MISS Gordon 4' Layup,,20-15,20,15
-0021800334,2018-12-01,HOU,CHI,7.47,1,4,32,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,20-15,20,15
 0021800334,2018-12-01,HOU,CHI,7.47,1,4,32,HOU,CHI,block,5,True,False,block,block,20-15,20,15
+0021800334,2018-12-01,HOU,CHI,7.47,1,4,32,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,20-15,20,15
 0021800334,2018-12-01,HOU,CHI,7.55,1,4,27,HOU,CHI,foul,2,False,False,,Holiday S.FOUL (P1.T3) (D.Richardson),20-15,20,15
 0021800334,2018-12-01,HOU,CHI,7.55,1,4,27,HOU,HOU,ft_make,13,False,False,Harden Free Throw 1 of 3 (10 PTS),,21-15,21,15
 0021800334,2018-12-01,HOU,CHI,7.55,1,4,27,HOU,HOU,ft_make,14,False,False,Harden Free Throw 2 of 3 (11 PTS),,22-15,22,15
@@ -141,8 +141,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800334,2018-12-01,HOU,CHI,16.5,2,7,30,HOU,HOU,fg3_make,80,False,False,Harden 26' 3PT Step Back Jump Shot (18 PTS),,48-32,48,32
 0021800334,2018-12-01,HOU,CHI,16.8,2,7,12,CHI,CHI,tov,45,False,False,,Parker Out of Bounds - Bad Pass Turnover Turnover (P2.T5),48-32,48,32
 0021800334,2018-12-01,HOU,CHI,16.92,2,7,5,HOU,HOU,fg_miss,5,True,False,MISS Capela 5' Layup,,48-32,48,32
-0021800334,2018-12-01,HOU,CHI,16.92,2,7,5,CHI,CHI,reb,0,False,False,,Carter Jr. REBOUND (Off:1 Def:1),48-32,48,32
 0021800334,2018-12-01,HOU,CHI,16.92,2,7,5,HOU,CHI,block,5,True,False,block,block,48-32,48,32
+0021800334,2018-12-01,HOU,CHI,16.92,2,7,5,CHI,CHI,reb,0,False,False,,Carter Jr. REBOUND (Off:1 Def:1),48-32,48,32
 0021800334,2018-12-01,HOU,CHI,17.05,2,6,57,CHI,CHI,fg_miss,73,True,False,,MISS LaVine 1' Driving Reverse Layup,48-32,48,32
 0021800334,2018-12-01,HOU,CHI,17.05,2,6,57,CHI,HOU,block,73,True,False,block,block,48-32,48,32
 0021800334,2018-12-01,HOU,CHI,17.1,2,6,54,CHI,CHI,reb,0,False,False,,Hutchison REBOUND (Off:1 Def:3),48-32,48,32
@@ -150,8 +150,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800334,2018-12-01,HOU,CHI,17.62,2,6,23,HOU,HOU,tov,1,False,True,Paul Bad Pass Turnover (P2.T5),,48-35,48,35
 0021800334,2018-12-01,HOU,CHI,17.62,2,6,23,HOU,CHI,steal,1,False,True,steal,steal,48-35,48,35
 0021800334,2018-12-01,HOU,CHI,17.65,2,6,21,CHI,CHI,fg_miss,73,False,False,,MISS Payne 2' Driving Reverse Layup,48-35,48,35
-0021800334,2018-12-01,HOU,CHI,17.67,2,6,20,CHI,CHI,fg_miss,97,True,False,,MISS Hutchison 2' Tip Layup Shot,48-35,48,35
 0021800334,2018-12-01,HOU,CHI,17.67,2,6,20,CHI,CHI,reb,0,False,False,,Hutchison REBOUND (Off:2 Def:3),48-35,48,35
+0021800334,2018-12-01,HOU,CHI,17.67,2,6,20,CHI,CHI,fg_miss,97,True,False,,MISS Hutchison 2' Tip Layup Shot,48-35,48,35
 0021800334,2018-12-01,HOU,CHI,17.67,2,6,20,CHI,HOU,block,97,True,False,block,block,48-35,48,35
 0021800334,2018-12-01,HOU,CHI,17.7,2,6,18,CHI,CHI,reb,0,False,False,,LaVine REBOUND (Off:1 Def:2),48-35,48,35
 0021800334,2018-12-01,HOU,CHI,17.77,2,6,14,CHI,CHI,fg_make,5,False,False,,LaVine 2' Layup (9 PTS),48-37,48,37
@@ -163,9 +163,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800334,2018-12-01,HOU,CHI,18.7,2,5,18,CHI,CHI,fg3_miss,1,False,False,,MISS Markkanen 30' 3PT Jump Shot,48-37,48,37
 0021800334,2018-12-01,HOU,CHI,18.75,2,5,15,HOU,HOU,reb,0,False,False,Tucker REBOUND (Off:0 Def:3),,48-37,48,37
 0021800334,2018-12-01,HOU,CHI,19.0,2,5,0,HOU,HOU,fg_miss,6,True,False,MISS Harden 8' Driving Layup,,48-37,48,37
+0021800334,2018-12-01,HOU,CHI,19.0,2,5,0,HOU,CHI,block,6,True,False,block,block,48-37,48,37
 0021800334,2018-12-01,HOU,CHI,19.0,2,5,0,CHI,CHI,reb,0,False,False,,Parker REBOUND (Off:1 Def:3),48-37,48,37
 0021800334,2018-12-01,HOU,CHI,19.0,2,5,0,CHI,HOU,foul,28,False,False,Tucker Personal Take Foul (P2.T3) (J.Tiven),,48-37,48,37
-0021800334,2018-12-01,HOU,CHI,19.0,2,5,0,HOU,CHI,block,6,True,False,block,block,48-37,48,37
 0021800334,2018-12-01,HOU,CHI,19.17,2,4,50,CHI,CHI,tov,45,False,False,,LaVine Out of Bounds - Bad Pass Turnover Turnover (P1.T6),48-37,48,37
 0021800334,2018-12-01,HOU,CHI,19.55,2,4,27,HOU,HOU,fg3_make,80,False,False,Harden 27' 3PT Step Back Jump Shot (21 PTS),,51-37,51,37
 0021800334,2018-12-01,HOU,CHI,19.98,2,4,1,CHI,CHI,fg_miss,78,False,False,,MISS Markkanen 15' Floating Jump Shot,51-37,51,37
@@ -263,8 +263,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800334,2018-12-01,HOU,CHI,28.7,3,7,18,HOU,HOU,ft_miss,12,False,False,MISS Ennis III Free Throw 2 of 2,,64-58,64,58
 0021800334,2018-12-01,HOU,CHI,28.7,3,7,18,CHI,CHI,reb,0,False,False,,Parker REBOUND (Off:1 Def:8),64-58,64,58
 0021800334,2018-12-01,HOU,CHI,28.98,3,7,1,CHI,CHI,tov,1,False,True,,Holiday Bad Pass Turnover (P3.T9),64-58,64,58
-0021800334,2018-12-01,HOU,CHI,28.98,3,7,1,HOU,CHI,foul,1,False,False,,Holiday P.FOUL (P3.T4) (D.Richardson),64-58,64,58
 0021800334,2018-12-01,HOU,CHI,28.98,3,7,1,CHI,HOU,steal,1,False,True,steal,steal,64-58,64,58
+0021800334,2018-12-01,HOU,CHI,28.98,3,7,1,HOU,CHI,foul,1,False,False,,Holiday P.FOUL (P3.T4) (D.Richardson),64-58,64,58
 0021800334,2018-12-01,HOU,CHI,29.13,3,6,52,HOU,HOU,fg3_make,1,False,False,Ennis III 3PT Jump Shot (10 PTS) (Paul 7 AST),,67-58,67,58
 0021800334,2018-12-01,HOU,CHI,29.15,3,6,51,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.3 Short 0),67-58,67,58
 0021800334,2018-12-01,HOU,CHI,29.37,3,6,38,CHI,CHI,fg_make,6,False,False,,Markkanen 2' Driving Layup (5 PTS) (LaVine 2 AST),67-60,67,60
@@ -328,12 +328,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800334,2018-12-01,HOU,CHI,37.03,4,10,58,CHI,CHI,tov,1,False,True,,Parker Bad Pass Turnover (P3.T11),89-77,89,77
 0021800334,2018-12-01,HOU,CHI,37.03,4,10,58,CHI,HOU,steal,1,False,True,steal,steal,89-77,89,77
 0021800334,2018-12-01,HOU,CHI,37.05,4,10,57,HOU,HOU,tov,2,False,True,Gordon Lost Ball Turnover (P3.T13),,89-77,89,77
+0021800334,2018-12-01,HOU,CHI,37.05,4,10,57,HOU,CHI,steal,2,False,True,steal,steal,89-77,89,77
 0021800334,2018-12-01,HOU,CHI,37.05,4,10,57,CHI,HOU,foul,2,False,False,Gordon S.FOUL (P3.T1) (D.Richardson),,89-77,89,77
 0021800334,2018-12-01,HOU,CHI,37.05,4,10,57,CHI,CHI,ft_miss,11,False,False,,MISS Payne Free Throw 1 of 2,89-77,89,77
 0021800334,2018-12-01,HOU,CHI,37.05,4,10,57,CHI,CHI,reb,1,False,False,,Bulls Rebound,89-77,89,77
 0021800334,2018-12-01,HOU,CHI,37.05,4,10,57,CHI,CHI,ft_miss,12,False,False,,MISS Payne Free Throw 2 of 2,89-77,89,77
 0021800334,2018-12-01,HOU,CHI,37.05,4,10,57,HOU,HOU,reb,0,False,False,Nene REBOUND (Off:0 Def:2),,89-77,89,77
-0021800334,2018-12-01,HOU,CHI,37.05,4,10,57,HOU,CHI,steal,2,False,True,steal,steal,89-77,89,77
 0021800334,2018-12-01,HOU,CHI,37.42,4,10,35,HOU,HOU,fg_miss,79,False,False,MISS Paul 16' Pullup Jump Shot,,89-77,89,77
 0021800334,2018-12-01,HOU,CHI,37.45,4,10,33,CHI,CHI,reb,0,False,False,,Parker REBOUND (Off:2 Def:9),89-77,89,77
 0021800334,2018-12-01,HOU,CHI,37.53,4,10,28,CHI,CHI,fg3_miss,1,False,False,,MISS Payne 26' 3PT Jump Shot,89-77,89,77
@@ -399,8 +399,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800334,2018-12-01,HOU,CHI,43.52,4,4,29,HOU,HOU,ft_miss,12,False,False,MISS Capela Free Throw 2 of 2,,108-91,108,91
 0021800334,2018-12-01,HOU,CHI,43.52,4,4,29,CHI,CHI,reb,0,False,False,,Markkanen REBOUND (Off:0 Def:3),108-91,108,91
 0021800334,2018-12-01,HOU,CHI,43.82,4,4,11,CHI,CHI,fg_miss,6,True,False,,MISS LaVine 7' Driving Layup,108-91,108,91
-0021800334,2018-12-01,HOU,CHI,43.82,4,4,11,CHI,CHI,reb,0,False,False,,Bulls Rebound,108-91,108,91
 0021800334,2018-12-01,HOU,CHI,43.82,4,4,11,CHI,HOU,block,6,True,False,block,block,108-91,108,91
+0021800334,2018-12-01,HOU,CHI,43.82,4,4,11,CHI,CHI,reb,0,False,False,,Bulls Rebound,108-91,108,91
 0021800334,2018-12-01,HOU,CHI,43.85,4,4,9,CHI,CHI,fg3_miss,1,False,False,,MISS Markkanen 3PT Jump Shot,108-91,108,91
 0021800334,2018-12-01,HOU,CHI,43.92,4,4,5,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:2 Def:12),,108-91,108,91
 0021800334,2018-12-01,HOU,CHI,44.02,4,3,59,HOU,HOU,fg3_make,1,False,False,Paul 25' 3PT Jump Shot (12 PTS),,111-91,111,91
@@ -413,8 +413,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800334,2018-12-01,HOU,CHI,45.07,4,2,56,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,113-93,113,93
 0021800334,2018-12-01,HOU,CHI,45.17,4,2,50,HOU,CHI,foul,1,False,False,,Felicio P.FOUL (P1.PN) (K.Lane),113-93,113,93
 0021800334,2018-12-01,HOU,CHI,45.17,4,2,50,HOU,HOU,ft_miss,11,False,False,MISS Carter-Williams Free Throw 1 of 2,,113-93,113,93
-0021800334,2018-12-01,HOU,CHI,45.17,4,2,50,HOU,HOU,reb,1,False,False,ROCKETS Rebound,,113-93,113,93
 0021800334,2018-12-01,HOU,CHI,45.17,4,2,50,HOU,HOU,ft_make,12,False,False,Carter-Williams Free Throw 2 of 2 (1 PTS),,114-93,114,93
+0021800334,2018-12-01,HOU,CHI,45.17,4,2,50,HOU,HOU,reb,1,False,False,ROCKETS Rebound,,113-93,113,93
 0021800334,2018-12-01,HOU,CHI,45.32,4,2,41,CHI,HOU,foul,1,False,False,House Jr. P.FOUL (P3.PN) (K.Lane),,114-93,114,93
 0021800334,2018-12-01,HOU,CHI,45.32,4,2,41,CHI,CHI,ft_make,11,False,False,,Felicio Free Throw 1 of 2 (1 PTS),114-94,114,94
 0021800334,2018-12-01,HOU,CHI,45.32,4,2,41,CHI,CHI,ft_make,12,False,False,,Felicio Free Throw 2 of 2 (2 PTS),114-95,114,95

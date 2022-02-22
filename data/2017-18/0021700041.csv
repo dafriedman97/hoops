@@ -65,8 +65,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700041,2017-10-23,DET,PHI,8.32,1,3,41,DET,DET,reb,0,False,False,Drummond REBOUND (Off:3 Def:5),,12-20,12,20
 0021700041,2017-10-23,DET,PHI,8.32,1,3,41,DET,DET,fg_make,97,False,False,Drummond 1' Tip Layup Shot (5 PTS),,14-20,14,20
 0021700041,2017-10-23,DET,PHI,8.4,1,3,36,PHI,PHI,fg_miss,5,True,False,,MISS McConnell 4' Layup,14-20,14,20
-0021700041,2017-10-23,DET,PHI,8.4,1,3,36,PHI,PHI,timeout,1,False,False,,76ers Timeout: Regular (Reg.1 Short 0),14-20,14,20
 0021700041,2017-10-23,DET,PHI,8.4,1,3,36,PHI,DET,block,5,True,False,block,block,14-20,14,20
+0021700041,2017-10-23,DET,PHI,8.4,1,3,36,PHI,PHI,timeout,1,False,False,,76ers Timeout: Regular (Reg.1 Short 0),14-20,14,20
 0021700041,2017-10-23,DET,PHI,8.42,1,3,35,PHI,PHI,reb,0,False,False,,76ers Rebound,14-20,14,20
 0021700041,2017-10-23,DET,PHI,8.48,1,3,31,PHI,PHI,fg_make,5,False,False,,McConnell 2' Layup (2 PTS) (Luwawu-Cabarrot 1 AST),14-22,14,22
 0021700041,2017-10-23,DET,PHI,8.73,1,3,16,DET,DET,fg_miss,1,False,False,MISS Bradley 20' Jump Shot,,14-22,14,22
@@ -98,9 +98,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700041,2017-10-23,DET,PHI,10.93,1,1,4,PHI,PHI,ft_make,11,False,False,,Simmons Free Throw 1 of 2 (7 PTS),19-25,19,25
 0021700041,2017-10-23,DET,PHI,10.93,1,1,4,PHI,PHI,ft_make,12,False,False,,Simmons Free Throw 2 of 2 (8 PTS),19-26,19,26
 0021700041,2017-10-23,DET,PHI,11.1,1,0,54,DET,PHI,foul,1,False,False,,Luwawu-Cabarrot P.FOUL (P1.PN) (T.Ford),19-26,19,26
+0021700041,2017-10-23,DET,PHI,11.1,1,0,54,PHI,DET,ft_make,11,False,False,Kennard Free Throw 1 of 2 (1 PTS),,20-26,20,26
 0021700041,2017-10-23,DET,PHI,11.1,1,0,54,DET,DET,ft_miss,12,False,False,MISS Kennard Free Throw 2 of 2,,19-26,19,26
 0021700041,2017-10-23,DET,PHI,11.1,1,0,54,PHI,PHI,reb,0,False,False,,Bayless REBOUND (Off:0 Def:2),19-26,19,26
-0021700041,2017-10-23,DET,PHI,11.1,1,0,54,PHI,DET,ft_make,11,False,False,Kennard Free Throw 1 of 2 (1 PTS),,20-26,20,26
 0021700041,2017-10-23,DET,PHI,11.38,1,0,37,PHI,PHI,fg_make,3,False,False,,Simmons 5' Hook Shot (10 PTS),20-28,20,28
 0021700041,2017-10-23,DET,PHI,11.63,1,0,22,DET,DET,fg_make,2,False,False,Kennard 15' Running Jump Shot (3 PTS),,22-28,22,28
 0021700041,2017-10-23,DET,PHI,11.95,1,0,3,PHI,PHI,fg3_make,1,False,False,,Embiid 25' 3PT Jump Shot (9 PTS) (Simmons 3 AST),22-31,22,31
@@ -239,8 +239,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700041,2017-10-23,DET,PHI,27.97,3,8,2,DET,DET,fg_miss,3,False,False,MISS Drummond 6' Hook Shot,,46-63,46,63
 0021700041,2017-10-23,DET,PHI,28.0,3,8,0,PHI,PHI,reb,0,False,False,,Fultz REBOUND (Off:0 Def:1),46-63,46,63
 0021700041,2017-10-23,DET,PHI,28.27,3,7,44,PHI,PHI,tov,2,False,True,,Embiid Lost Ball Turnover (P4.T9),46-63,46,63
-0021700041,2017-10-23,DET,PHI,28.27,3,7,44,DET,PHI,foul,1,False,False,,Embiid P.FOUL (P2.T2) (J.Orr),46-63,46,63
 0021700041,2017-10-23,DET,PHI,28.27,3,7,44,PHI,DET,steal,2,False,True,steal,steal,46-63,46,63
+0021700041,2017-10-23,DET,PHI,28.27,3,7,44,DET,PHI,foul,1,False,False,,Embiid P.FOUL (P2.T2) (J.Orr),46-63,46,63
 0021700041,2017-10-23,DET,PHI,28.4,3,7,36,DET,DET,fg_make,6,False,False,Bradley 6' Driving Layup (11 PTS) (Jackson 5 AST),,48-63,48,63
 0021700041,2017-10-23,DET,PHI,28.68,3,7,19,PHI,PHI,fg_miss,1,False,False,,MISS Redick 18' Jump Shot,48-63,48,63
 0021700041,2017-10-23,DET,PHI,28.68,3,7,19,DET,DET,reb,0,False,False,Drummond REBOUND (Off:3 Def:7),,48-63,48,63

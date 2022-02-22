@@ -43,8 +43,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000666,2021-03-23,POR,BKN,3.87,1,8,8,POR,POR,ft_make,12,False,False,Kanter Free Throw 2 of 2 (3 PTS),,8-8,8,8
 0022000666,2021-03-23,POR,BKN,4.0,1,8,0,BKN,BKN,fg_make,6,False,False,,Green 2' Driving Layup (2 PTS) (Luwawu-Cabarrot 1 AST),8-10,8,10
 0022000666,2021-03-23,POR,BKN,4.18,1,7,49,POR,POR,fg_miss,101,False,False,MISS McCollum 12' Driving Floating Jump Shot,,8-10,8,10
-0022000666,2021-03-23,POR,BKN,4.27,1,7,44,POR,POR,fg_make,72,False,False,Kanter Putback Layup (5 PTS),,10-10,10,10
 0022000666,2021-03-23,POR,BKN,4.27,1,7,44,POR,POR,reb,0,False,False,Kanter REBOUND (Off:2 Def:1),,10-10,10,10
+0022000666,2021-03-23,POR,BKN,4.27,1,7,44,POR,POR,fg_make,72,False,False,Kanter Putback Layup (5 PTS),,10-10,10,10
 0022000666,2021-03-23,POR,BKN,4.42,1,7,35,BKN,BKN,tov,2,False,True,,Harden Lost Ball Turnover (P3.T3),10-10,10,10
 0022000666,2021-03-23,POR,BKN,4.42,1,7,35,BKN,POR,steal,2,False,True,steal,steal,10-10,10,10
 0022000666,2021-03-23,POR,BKN,4.57,1,7,26,POR,POR,fg3_make,1,False,False,McCollum 25' 3PT Jump Shot (3 PTS) (Lillard 1 AST),,13-10,13,10
@@ -204,8 +204,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000666,2021-03-23,POR,BKN,23.37,2,0,38,POR,POR,ft_make,11,False,False,Lillard Free Throw 1 of 2 (16 PTS),,65-63,65,63
 0022000666,2021-03-23,POR,BKN,23.37,2,0,38,POR,POR,ft_make,12,False,False,Lillard Free Throw 2 of 2 (17 PTS),,66-63,66,63
 0022000666,2021-03-23,POR,BKN,23.52,2,0,29,BKN,BKN,fg_miss,6,True,False,,MISS Harden 2' Driving Layup,66-63,66,63
-0022000666,2021-03-23,POR,BKN,23.52,2,0,29,BKN,BKN,reb,0,False,False,,Nets Rebound,66-63,66,63
 0022000666,2021-03-23,POR,BKN,23.52,2,0,29,BKN,POR,block,6,True,False,block,block,66-63,66,63
+0022000666,2021-03-23,POR,BKN,23.52,2,0,29,BKN,BKN,reb,0,False,False,,Nets Rebound,66-63,66,63
 0022000666,2021-03-23,POR,BKN,23.75,2,0,15,BKN,BKN,fg_make,78,False,False,,Brown 6' Floating Jump Shot (4 PTS) (Harden 7 AST),66-65,66,65
 0022000666,2021-03-23,POR,BKN,23.93,2,0,4,POR,POR,fg3_miss,79,False,False,MISS Lillard 27' 3PT Pullup Jump Shot,,66-65,66,65
 0022000666,2021-03-23,POR,BKN,24.0,2,0,0,BKN,BKN,reb,0,False,False,,Harden REBOUND (Off:0 Def:4),66-65,66,65
@@ -231,8 +231,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000666,2021-03-23,POR,BKN,26.2,3,9,48,BKN,BKN,ft_make,12,False,False,,Harden Free Throw 2 of 2 (18 PTS),71-70,71,70
 0022000666,2021-03-23,POR,BKN,26.45,3,9,33,POR,POR,fg3_make,1,False,False,Covington 25' 3PT Jump Shot (6 PTS) (Kanter 6 AST),,74-70,74,70
 0022000666,2021-03-23,POR,BKN,26.77,3,9,14,BKN,BKN,fg_miss,78,False,False,,MISS Brown 4' Floating Jump Shot,74-70,74,70
-0022000666,2021-03-23,POR,BKN,26.92,3,9,5,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,74-70,74,70
 0022000666,2021-03-23,POR,BKN,26.92,3,9,5,,POR,jump_ball,0,False,False,Jump Ball Jones Jr. vs. Brown: Tip to McCollum,,74-70,74,70
+0022000666,2021-03-23,POR,BKN,26.92,3,9,5,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,74-70,74,70
 0022000666,2021-03-23,POR,BKN,27.05,3,8,57,POR,POR,tov,45,False,False,McCollum Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,74-70,74,70
 0022000666,2021-03-23,POR,BKN,27.27,3,8,44,BKN,BKN,fg3_miss,1,False,False,,MISS Green 26' 3PT Jump Shot,74-70,74,70
 0022000666,2021-03-23,POR,BKN,27.32,3,8,41,POR,POR,reb,0,False,False,Kanter REBOUND (Off:6 Def:5),,74-70,74,70
@@ -254,8 +254,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000666,2021-03-23,POR,BKN,29.12,3,6,53,BKN,BKN,fg_miss,78,False,False,,MISS Brown 8' Floating Jump Shot,79-75,79,75
 0022000666,2021-03-23,POR,BKN,29.15,3,6,51,BKN,BKN,reb,0,False,False,,Brown REBOUND (Off:1 Def:2),79-75,79,75
 0022000666,2021-03-23,POR,BKN,29.17,3,6,50,BKN,BKN,fg_miss,72,True,False,,MISS Brown 4' Putback Layup,79-75,79,75
-0022000666,2021-03-23,POR,BKN,29.17,3,6,50,POR,POR,reb,0,False,False,Lillard REBOUND (Off:0 Def:1),,79-75,79,75
 0022000666,2021-03-23,POR,BKN,29.17,3,6,50,BKN,POR,block,72,True,False,block,block,79-75,79,75
+0022000666,2021-03-23,POR,BKN,29.17,3,6,50,POR,POR,reb,0,False,False,Lillard REBOUND (Off:0 Def:1),,79-75,79,75
 0022000666,2021-03-23,POR,BKN,29.28,3,6,43,POR,POR,fg3_miss,103,False,False,MISS Lillard 31' 3PT Running Pull-Up Jump Shot,,79-75,79,75
 0022000666,2021-03-23,POR,BKN,29.32,3,6,41,BKN,BKN,reb,0,False,False,,Brown REBOUND (Off:1 Def:3),79-75,79,75
 0022000666,2021-03-23,POR,BKN,29.38,3,6,37,BKN,BKN,fg_make,41,False,False,,Brown 1' Running Layup (8 PTS),79-77,79,77
@@ -336,8 +336,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000666,2021-03-23,POR,BKN,37.27,4,10,44,POR,POR,fg_miss,79,False,False,MISS Anthony 18' Pullup Jump Shot,,93-96,93,96
 0022000666,2021-03-23,POR,BKN,37.32,4,10,41,BKN,BKN,reb,0,False,False,,Griffin REBOUND (Off:1 Def:4),93-96,93,96
 0022000666,2021-03-23,POR,BKN,37.48,4,10,31,BKN,BKN,fg_miss,47,False,False,,MISS Claxton 5' Turnaround Jump Shot,93-96,93,96
-0022000666,2021-03-23,POR,BKN,37.53,4,10,28,BKN,BKN,fg_make,97,False,False,,Claxton Tip Layup Shot (12 PTS),93-98,93,98
 0022000666,2021-03-23,POR,BKN,37.53,4,10,28,BKN,BKN,reb,0,False,False,,Claxton REBOUND (Off:4 Def:5),93-98,93,98
+0022000666,2021-03-23,POR,BKN,37.53,4,10,28,BKN,BKN,fg_make,97,False,False,,Claxton Tip Layup Shot (12 PTS),93-98,93,98
 0022000666,2021-03-23,POR,BKN,37.85,4,10,9,POR,POR,fg_miss,79,False,False,MISS McCollum 20' Pullup Jump Shot,,93-98,93,98
 0022000666,2021-03-23,POR,BKN,37.88,4,10,7,BKN,BKN,reb,0,False,False,,Luwawu-Cabarrot REBOUND (Off:0 Def:3),93-98,93,98
 0022000666,2021-03-23,POR,BKN,37.95,4,10,3,BKN,BKN,fg_make,41,False,False,,Claxton 1' Running Layup (14 PTS) (Johnson 2 AST),93-100,93,100
@@ -413,8 +413,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000666,2021-03-23,POR,BKN,47.42,4,0,35,POR,POR,fg3_miss,1,False,False,MISS Covington 27' 3PT Jump Shot,,111-114,111,114
 0022000666,2021-03-23,POR,BKN,47.45,4,0,33,BKN,BKN,reb,0,False,False,,Harris REBOUND (Off:0 Def:1),111-114,111,114
 0022000666,2021-03-23,POR,BKN,47.73,4,0,16,POR,POR,timeout,7,False,False,TRAIL BLAZERS Timeout: Coach Challenge (Full 4 Short 0),,111-114,111,114
-0022000666,2021-03-23,POR,BKN,47.77,4,0,14,BKN,BKN,tov,2,False,False,,Harden Lost Ball Turnover (P4.T11),111-114,111,114
 0022000666,2021-03-23,POR,BKN,47.77,4,0,14,,POR,jump_ball,1,False,False,Jump Ball (CC) Jones Jr. vs. Claxton: Tip to Lillard,,111-114,111,114
+0022000666,2021-03-23,POR,BKN,47.77,4,0,14,BKN,BKN,tov,2,False,False,,Harden Lost Ball Turnover (P4.T11),111-114,111,114
 0022000666,2021-03-23,POR,BKN,47.88,4,0,7,POR,BKN,foul,28,False,False,,Harden Personal Take Foul (P2.PN) (T.Washington),111-114,111,114
 0022000666,2021-03-23,POR,BKN,47.88,4,0,7,POR,POR,ft_miss,11,False,False,MISS Covington Free Throw 1 of 2,,111-114,111,114
 0022000666,2021-03-23,POR,BKN,47.88,4,0,7,POR,POR,reb,1,False,False,TRAIL BLAZERS Rebound,,111-114,111,114

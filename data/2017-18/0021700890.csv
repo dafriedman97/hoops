@@ -95,8 +95,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700890,2018-02-24,UTA,DAL,10.95,1,1,3,UTA,UTA,fg3_miss,1,False,False,MISS Crowder 3PT Jump Shot,,33-20,33,20
 0021700890,2018-02-24,UTA,DAL,11.02,1,0,59,DAL,DAL,reb,0,False,False,,Collinsworth REBOUND (Off:0 Def:1),33-20,33,20
 0021700890,2018-02-24,UTA,DAL,11.17,1,0,50,DAL,DAL,tov,2,False,True,,Mejri Lost Ball Turnover (P1.T4),33-20,33,20
-0021700890,2018-02-24,UTA,DAL,11.17,1,0,50,UTA,DAL,foul,1,False,False,,Mejri P.FOUL (P1.PN) (C.Kirkland),33-20,33,20
 0021700890,2018-02-24,UTA,DAL,11.17,1,0,50,DAL,UTA,steal,2,False,True,steal,steal,33-20,33,20
+0021700890,2018-02-24,UTA,DAL,11.17,1,0,50,UTA,DAL,foul,1,False,False,,Mejri P.FOUL (P1.PN) (C.Kirkland),33-20,33,20
 0021700890,2018-02-24,UTA,DAL,11.17,1,0,50,UTA,UTA,ft_make,11,False,False,Ingles Free Throw 1 of 2 (4 PTS),,34-20,34,20
 0021700890,2018-02-24,UTA,DAL,11.17,1,0,50,UTA,UTA,ft_make,12,False,False,Ingles Free Throw 2 of 2 (5 PTS),,35-20,35,20
 0021700890,2018-02-24,UTA,DAL,11.4,1,0,36,DAL,DAL,fg3_make,1,False,False,,Nowitzki 25' 3PT Jump Shot (6 PTS) (Barea 2 AST),35-23,35,23
@@ -179,8 +179,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700890,2018-02-24,UTA,DAL,20.03,2,3,58,UTA,UTA,fg_miss,79,False,False,MISS Burks 20' Pullup Jump Shot,,42-47,42,47
 0021700890,2018-02-24,UTA,DAL,20.1,2,3,54,DAL,DAL,reb,0,False,False,,Ferrell REBOUND (Off:0 Def:2),42-47,42,47
 0021700890,2018-02-24,UTA,DAL,20.25,2,3,45,DAL,DAL,fg3_miss,1,True,False,,MISS McDermott 3PT Jump Shot,42-47,42,47
-0021700890,2018-02-24,UTA,DAL,20.25,2,3,45,DAL,DAL,reb,0,False,False,,Mavericks Rebound,42-47,42,47
 0021700890,2018-02-24,UTA,DAL,20.25,2,3,45,DAL,UTA,block,1,True,False,block,block,42-47,42,47
+0021700890,2018-02-24,UTA,DAL,20.25,2,3,45,DAL,DAL,reb,0,False,False,,Mavericks Rebound,42-47,42,47
 0021700890,2018-02-24,UTA,DAL,20.42,2,3,35,DAL,DAL,fg_make,3,False,False,,Powell 3' Hook Shot (8 PTS) (Barea 8 AST),42-49,42,49
 0021700890,2018-02-24,UTA,DAL,20.67,2,3,20,UTA,UTA,fg3_miss,1,False,False,MISS Crowder 25' 3PT Jump Shot,,42-49,42,49
 0021700890,2018-02-24,UTA,DAL,20.72,2,3,17,DAL,DAL,reb,0,False,False,,Nowitzki REBOUND (Off:0 Def:6),42-49,42,49
@@ -299,9 +299,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700890,2018-02-24,UTA,DAL,33.53,3,2,28,UTA,UTA,tov,1,False,True,Mitchell Bad Pass Turnover (P2.T9),,70-65,70,65
 0021700890,2018-02-24,UTA,DAL,33.53,3,2,28,UTA,DAL,steal,1,False,True,steal,steal,70-65,70,65
 0021700890,2018-02-24,UTA,DAL,33.63,3,2,22,DAL,DAL,fg_miss,5,True,False,,MISS Smith Jr. 3' Layup,70-65,70,65
+0021700890,2018-02-24,UTA,DAL,33.63,3,2,22,DAL,UTA,block,5,True,False,block,block,70-65,70,65
 0021700890,2018-02-24,UTA,DAL,33.63,3,2,22,DAL,DAL,reb,0,False,False,,Mavericks Rebound,70-65,70,65
 0021700890,2018-02-24,UTA,DAL,33.63,3,2,22,DAL,DAL,tov,45,False,False,,Ferrell Out of Bounds - Bad Pass Turnover Turnover (P2.T11),70-65,70,65
-0021700890,2018-02-24,UTA,DAL,33.63,3,2,22,DAL,UTA,block,5,True,False,block,block,70-65,70,65
 0021700890,2018-02-24,UTA,DAL,33.9,3,2,6,UTA,UTA,fg_miss,79,False,False,MISS Burks 16' Pullup Jump Shot,,70-65,70,65
 0021700890,2018-02-24,UTA,DAL,33.95,3,2,3,DAL,DAL,reb,0,False,False,,Barnes REBOUND (Off:0 Def:4),70-65,70,65
 0021700890,2018-02-24,UTA,DAL,34.03,3,1,58,DAL,UTA,foul,1,False,False,Mitchell P.FOUL (P2.PN) (C.Kirkland),,70-65,70,65
@@ -335,8 +335,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700890,2018-02-24,UTA,DAL,37.45,4,10,33,DAL,DAL,fg3_miss,1,False,False,,MISS Ferrell 27' 3PT Jump Shot,76-71,76,71
 0021700890,2018-02-24,UTA,DAL,37.48,4,10,31,UTA,UTA,reb,0,False,False,Favors REBOUND (Off:1 Def:4),,76-71,76,71
 0021700890,2018-02-24,UTA,DAL,37.62,4,10,23,UTA,UTA,fg_miss,5,True,False,MISS Ingles 2' Layup,,76-71,76,71
-0021700890,2018-02-24,UTA,DAL,37.62,4,10,23,DAL,DAL,reb,0,False,False,,Mavericks Rebound,76-71,76,71
 0021700890,2018-02-24,UTA,DAL,37.62,4,10,23,UTA,DAL,block,5,True,False,block,block,76-71,76,71
+0021700890,2018-02-24,UTA,DAL,37.62,4,10,23,DAL,DAL,reb,0,False,False,,Mavericks Rebound,76-71,76,71
 0021700890,2018-02-24,UTA,DAL,37.93,4,10,4,DAL,DAL,fg3_make,1,False,False,,Barea 3PT Jump Shot (15 PTS) (Ferrell 3 AST),76-74,76,74
 0021700890,2018-02-24,UTA,DAL,38.32,4,9,41,UTA,DAL,foul,2,False,False,,Nowitzki S.FOUL (P4.T1) (J.Sterling),76-74,76,74
 0021700890,2018-02-24,UTA,DAL,38.32,4,9,41,UTA,UTA,ft_make,11,False,False,Jerebko Free Throw 1 of 2 (1 PTS),,77-74,77,74
@@ -379,8 +379,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700890,2018-02-24,UTA,DAL,43.37,4,4,38,UTA,UTA,fg3_miss,1,False,False,MISS Rubio 25' 3PT Jump Shot,,85-87,85,87
 0021700890,2018-02-24,UTA,DAL,43.4,4,4,36,UTA,UTA,reb,0,False,False,Crowder REBOUND (Off:1 Def:2),,85-87,85,87
 0021700890,2018-02-24,UTA,DAL,43.48,4,4,31,UTA,UTA,fg_miss,6,True,False,MISS Crowder 7' Driving Layup,,85-87,85,87
-0021700890,2018-02-24,UTA,DAL,43.48,4,4,31,UTA,UTA,reb,0,False,False,JAZZ Rebound,,85-87,85,87
 0021700890,2018-02-24,UTA,DAL,43.48,4,4,31,UTA,DAL,block,6,True,False,block,block,85-87,85,87
+0021700890,2018-02-24,UTA,DAL,43.48,4,4,31,UTA,UTA,reb,0,False,False,JAZZ Rebound,,85-87,85,87
 0021700890,2018-02-24,UTA,DAL,43.67,4,4,20,UTA,UTA,fg_make,6,False,False,Mitchell 2' Driving Layup (23 PTS),,87-87,87,87
 0021700890,2018-02-24,UTA,DAL,43.92,4,4,5,DAL,DAL,fg_miss,78,False,False,,MISS Barea 5' Floating Jump Shot,87-87,87,87
 0021700890,2018-02-24,UTA,DAL,43.93,4,4,4,UTA,UTA,reb,0,False,False,JAZZ Rebound,,87-87,87,87
@@ -410,9 +410,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700890,2018-02-24,UTA,DAL,46.85,4,1,9,UTA,DAL,steal,2,False,True,steal,steal,93-90,93,90
 0021700890,2018-02-24,UTA,DAL,46.93,4,1,4,DAL,DAL,tov,40,False,False,,Smith Jr. Out of Bounds Lost Ball Turnover (P5.T15),93-90,93,90
 0021700890,2018-02-24,UTA,DAL,47.18,4,0,49,UTA,UTA,fg_miss,1,True,False,MISS Mitchell 10' Jump Shot,,93-90,93,90
+0021700890,2018-02-24,UTA,DAL,47.18,4,0,49,UTA,DAL,block,1,True,False,block,block,93-90,93,90
 0021700890,2018-02-24,UTA,DAL,47.18,4,0,49,DAL,DAL,reb,0,False,False,,Powell REBOUND (Off:2 Def:4),93-90,93,90
 0021700890,2018-02-24,UTA,DAL,47.18,4,0,49,DAL,DAL,timeout,1,False,False,,Mavericks Timeout: Regular (Reg.6 Short 0),93-90,93,90
-0021700890,2018-02-24,UTA,DAL,47.18,4,0,49,UTA,DAL,block,1,True,False,block,block,93-90,93,90
 0021700890,2018-02-24,UTA,DAL,47.35,4,0,39,DAL,DAL,tov,45,False,False,,Barnes Out of Bounds - Bad Pass Turnover Turnover (P2.T16),93-90,93,90
 0021700890,2018-02-24,UTA,DAL,47.6,4,0,24,UTA,UTA,fg_miss,79,False,False,MISS Mitchell 16' Pullup Jump Shot,,93-90,93,90
 0021700890,2018-02-24,UTA,DAL,47.65,4,0,21,DAL,DAL,reb,0,False,False,,Powell REBOUND (Off:2 Def:5),93-90,93,90

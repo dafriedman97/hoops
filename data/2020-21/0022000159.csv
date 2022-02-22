@@ -42,9 +42,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000159,2021-01-12,CLE,UTA,6.68,1,5,19,UTA,UTA,reb,0,False,False,,Favors REBOUND (Off:0 Def:1),12-11,12,11
 0022000159,2021-01-12,CLE,UTA,7.0,1,5,0,UTA,UTA,tov,45,False,False,,Clarkson Out of Bounds - Bad Pass Turnover Turnover (P1.T3),12-11,12,11
 0022000159,2021-01-12,CLE,UTA,7.42,1,4,35,CLE,CLE,fg_miss,101,True,False,MISS Ferrell 6' Driving Floating Jump Shot,,12-11,12,11
+0022000159,2021-01-12,CLE,UTA,7.42,1,4,35,CLE,UTA,block,101,True,False,block,block,12-11,12,11
 0022000159,2021-01-12,CLE,UTA,7.42,1,4,35,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,12-11,12,11
 0022000159,2021-01-12,CLE,UTA,7.42,1,4,35,CLE,CLE,tov,11,False,False,CAVALIERS Turnover: Shot Clock (T#4),,12-11,12,11
-0022000159,2021-01-12,CLE,UTA,7.42,1,4,35,CLE,UTA,block,101,True,False,block,block,12-11,12,11
 0022000159,2021-01-12,CLE,UTA,7.6,1,4,24,UTA,UTA,fg3_miss,1,False,False,,MISS Mitchell 28' 3PT Jump Shot,12-11,12,11
 0022000159,2021-01-12,CLE,UTA,7.65,1,4,21,UTA,UTA,reb,0,False,False,,O'Neale REBOUND (Off:1 Def:0),12-11,12,11
 0022000159,2021-01-12,CLE,UTA,7.68,1,4,19,UTA,UTA,fg_miss,80,False,False,,MISS Bogdanovic 18' Step Back Jump Shot,12-11,12,11
@@ -168,8 +168,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000159,2021-01-12,CLE,UTA,21.6,2,2,24,CLE,CLE,fg3_miss,1,False,False,MISS Okoro 3PT Jump Shot,,31-44,31,44
 0022000159,2021-01-12,CLE,UTA,21.65,2,2,21,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:0 Def:1),31-44,31,44
 0022000159,2021-01-12,CLE,UTA,21.77,2,2,14,UTA,UTA,fg_miss,98,True,False,,MISS Gobert 2' Cutting Layup Shot,31-44,31,44
-0022000159,2021-01-12,CLE,UTA,21.77,2,2,14,UTA,UTA,reb,0,False,False,,Jazz Rebound,31-44,31,44
 0022000159,2021-01-12,CLE,UTA,21.77,2,2,14,UTA,CLE,block,98,True,False,block,block,31-44,31,44
+0022000159,2021-01-12,CLE,UTA,21.77,2,2,14,UTA,UTA,reb,0,False,False,,Jazz Rebound,31-44,31,44
 0022000159,2021-01-12,CLE,UTA,21.8,2,2,12,UTA,UTA,fg_miss,1,False,False,,MISS Gobert 17' Jump Shot,31-44,31,44
 0022000159,2021-01-12,CLE,UTA,21.83,2,2,10,CLE,CLE,reb,0,False,False,McGee REBOUND (Off:2 Def:6),,31-44,31,44
 0022000159,2021-01-12,CLE,UTA,22.23,2,1,46,CLE,CLE,fg3_miss,1,False,False,MISS Nance Jr. 32' 3PT Jump Shot,,31-44,31,44
@@ -312,10 +312,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000159,2021-01-12,CLE,UTA,35.92,3,0,5,UTA,UTA,ft_miss,12,False,False,,MISS Gobert Free Throw 2 of 2,59-87,59,87
 0022000159,2021-01-12,CLE,UTA,35.95,3,0,3,CLE,CLE,reb,0,False,False,Nance Jr. REBOUND (Off:3 Def:4),,59-87,59,87
 0022000159,2021-01-12,CLE,UTA,36.0,3,0,0,CLE,CLE,fg3_miss,79,True,False,MISS Osman 29' 3PT Pullup Jump Shot,,59-87,59,87
+0022000159,2021-01-12,CLE,UTA,36.0,3,0,0,CLE,UTA,block,79,True,False,block,block,59-87,59,87
 0022000159,2021-01-12,CLE,UTA,36.0,3,0,0,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,59-87,59,87
 0022000159,2021-01-12,CLE,UTA,36.0,3,0,0,CLE,,period_end,0,False,False,,,59-87,59,87
 0022000159,2021-01-12,CLE,UTA,36.0,4,12,0,CLE,,period_start,0,False,False,,,59-87,59,87
-0022000159,2021-01-12,CLE,UTA,36.0,3,0,0,CLE,UTA,block,79,True,False,block,block,59-87,59,87
 0022000159,2021-01-12,CLE,UTA,36.38,4,11,37,CLE,CLE,fg_miss,1,False,False,MISS Stevens 14' Jump Shot,,59-87,59,87
 0022000159,2021-01-12,CLE,UTA,36.43,4,11,34,UTA,UTA,reb,0,False,False,,Niang REBOUND (Off:0 Def:4),59-87,59,87
 0022000159,2021-01-12,CLE,UTA,36.67,4,11,20,UTA,UTA,fg_make,101,False,False,,Clarkson 9' Driving Floating Jump Shot (18 PTS) (Conley 5 AST),59-89,59,89
@@ -358,8 +358,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000159,2021-01-12,CLE,UTA,42.62,4,5,23,UTA,UTA,fg_miss,86,False,False,,MISS Niang 13' Turnaround Fadeaway Shot,75-106,75,106
 0022000159,2021-01-12,CLE,UTA,42.65,4,5,21,UTA,UTA,reb,0,False,False,,Brantley REBOUND (Off:1 Def:0),75-106,75,106
 0022000159,2021-01-12,CLE,UTA,42.73,4,5,16,UTA,UTA,fg_miss,6,True,False,,MISS Harrison 2' Driving Layup,75-106,75,106
-0022000159,2021-01-12,CLE,UTA,42.73,4,5,16,UTA,UTA,reb,0,False,False,,Jazz Rebound,75-106,75,106
 0022000159,2021-01-12,CLE,UTA,42.73,4,5,16,UTA,CLE,block,6,True,False,block,block,75-106,75,106
+0022000159,2021-01-12,CLE,UTA,42.73,4,5,16,UTA,UTA,reb,0,False,False,,Jazz Rebound,75-106,75,106
 0022000159,2021-01-12,CLE,UTA,42.8,4,5,12,UTA,UTA,fg_make,1,False,False,,Niang 21' Jump Shot (14 PTS) (Harrison 1 AST),75-108,75,108
 0022000159,2021-01-12,CLE,UTA,43.12,4,4,53,CLE,UTA,foul,1,False,False,,Harrison P.FOUL (P1.T2) (Z.Zarba),75-108,75,108
 0022000159,2021-01-12,CLE,UTA,43.33,4,4,40,CLE,CLE,tov,2,False,True,Bolden Lost Ball Turnover (P1.T13),,75-108,75,108

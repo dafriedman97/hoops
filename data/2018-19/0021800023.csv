@@ -11,10 +11,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800023,2018-10-19,MIL,IND,1.02,1,10,59,MIL,MIL,fg3_miss,1,False,False,MISS Lopez 26' 3PT Jump Shot,,0-2,0,2
 0021800023,2018-10-19,MIL,IND,1.07,1,10,56,IND,IND,reb,0,False,False,,Collison REBOUND (Off:0 Def:1),0-2,0,2
 0021800023,2018-10-19,MIL,IND,1.12,1,10,53,IND,IND,fg_make,79,False,False,,Collison 14' Pullup Jump Shot (2 PTS),0-4,0,4
-0021800023,2018-10-19,MIL,IND,1.58,1,10,25,MIL,MIL,fg_miss,1,True,False,MISS Antetokounmpo 7' Jump Shot,,0-4,0,4
-0021800023,2018-10-19,MIL,IND,1.58,1,10,25,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:1 Def:0),,0-4,0,4
 0021800023,2018-10-19,MIL,IND,1.58,1,10,25,MIL,MIL,fg_miss,1,False,False,MISS Antetokounmpo 18' Jump Shot,,0-4,0,4
+0021800023,2018-10-19,MIL,IND,1.58,1,10,25,MIL,MIL,fg_miss,1,True,False,MISS Antetokounmpo 7' Jump Shot,,0-4,0,4
 0021800023,2018-10-19,MIL,IND,1.58,1,10,25,MIL,IND,block,1,True,False,block,block,0-4,0,4
+0021800023,2018-10-19,MIL,IND,1.58,1,10,25,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:1 Def:0),,0-4,0,4
 0021800023,2018-10-19,MIL,IND,1.63,1,10,22,IND,IND,reb,0,False,False,,Oladipo REBOUND (Off:0 Def:2),0-4,0,4
 0021800023,2018-10-19,MIL,IND,1.68,1,10,19,IND,IND,fg_make,41,False,False,,Oladipo 1' Running Layup (2 PTS),0-6,0,6
 0021800023,2018-10-19,MIL,IND,2.0,1,10,0,MIL,MIL,fg_miss,79,False,False,MISS Brogdon 4' Pullup Jump Shot,,0-6,0,6
@@ -129,8 +129,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800023,2018-10-19,MIL,IND,13.72,2,10,17,MIL,IND,foul,4,False,False,,Sabonis OFF.Foul (P1) (R.Mott),38-27,38,27
 0021800023,2018-10-19,MIL,IND,13.72,2,10,17,IND,IND,tov,37,False,False,,Sabonis Offensive Foul Turnover (P1.T8),38-27,38,27
 0021800023,2018-10-19,MIL,IND,13.95,2,10,3,MIL,MIL,tov,1,False,True,Brogdon Bad Pass Turnover (P1.T4),,38-27,38,27
-0021800023,2018-10-19,MIL,IND,13.95,2,10,3,IND,MIL,foul,1,False,False,Antetokounmpo P.FOUL (P1.T2) (R.Mott),,38-27,38,27
 0021800023,2018-10-19,MIL,IND,13.95,2,10,3,MIL,IND,steal,1,False,True,steal,steal,38-27,38,27
+0021800023,2018-10-19,MIL,IND,13.95,2,10,3,IND,MIL,foul,1,False,False,Antetokounmpo P.FOUL (P1.T2) (R.Mott),,38-27,38,27
 0021800023,2018-10-19,MIL,IND,14.15,2,9,51,IND,IND,fg_make,7,False,False,,Sabonis 2' Dunk (5 PTS) (Evans 2 AST),38-29,38,29
 0021800023,2018-10-19,MIL,IND,14.15,2,9,51,IND,MIL,foul,2,False,False,Lopez S.FOUL (P2.T3) (R.Acosta),,38-29,38,29
 0021800023,2018-10-19,MIL,IND,14.15,2,9,51,IND,IND,ft_make,10,False,False,,Sabonis Free Throw 1 of 1 (6 PTS),38-30,38,30
@@ -173,8 +173,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800023,2018-10-19,MIL,IND,18.37,2,5,38,IND,IND,reb,0,False,False,,Pacers Rebound,46-42,46,42
 0021800023,2018-10-19,MIL,IND,18.38,2,5,37,IND,MIL,foul,3,False,False,Henson L.B.FOUL (P1.PN) (R.Mott),,46-42,46,42
 0021800023,2018-10-19,MIL,IND,18.62,2,5,23,IND,IND,fg_miss,79,True,False,,MISS Oladipo 16' Pullup Jump Shot,46-42,46,42
-0021800023,2018-10-19,MIL,IND,18.62,2,5,23,IND,IND,reb,0,False,False,,Pacers Rebound,46-42,46,42
 0021800023,2018-10-19,MIL,IND,18.62,2,5,23,IND,MIL,block,79,True,False,block,block,46-42,46,42
+0021800023,2018-10-19,MIL,IND,18.62,2,5,23,IND,IND,reb,0,False,False,,Pacers Rebound,46-42,46,42
 0021800023,2018-10-19,MIL,IND,18.67,2,5,20,IND,IND,fg_miss,1,True,False,,MISS McDermott 18' Jump Shot,46-42,46,42
 0021800023,2018-10-19,MIL,IND,18.67,2,5,20,IND,MIL,block,1,True,False,block,block,46-42,46,42
 0021800023,2018-10-19,MIL,IND,18.75,2,5,15,MIL,MIL,reb,0,False,False,Ilyasova REBOUND (Off:0 Def:2),,46-42,46,42
@@ -346,8 +346,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800023,2018-10-19,MIL,IND,35.37,3,0,38,MIL,MIL,reb,1,False,False,BUCKS Rebound,,89-76,89,76
 0021800023,2018-10-19,MIL,IND,35.37,3,0,38,MIL,MIL,ft_make,12,False,False,Henson Free Throw 2 of 2 (7 PTS),,90-76,90,76
 0021800023,2018-10-19,MIL,IND,35.7,3,0,18,IND,IND,fg_miss,5,True,False,,MISS Bogdanovic 3' Layup,90-76,90,76
-0021800023,2018-10-19,MIL,IND,35.7,3,0,18,MIL,MIL,reb,0,False,False,Brogdon REBOUND (Off:0 Def:4),,90-76,90,76
 0021800023,2018-10-19,MIL,IND,35.7,3,0,18,IND,MIL,block,5,True,False,block,block,90-76,90,76
+0021800023,2018-10-19,MIL,IND,35.7,3,0,18,MIL,MIL,reb,0,False,False,Brogdon REBOUND (Off:0 Def:4),,90-76,90,76
 0021800023,2018-10-19,MIL,IND,36.0,3,0,0,MIL,MIL,fg3_make,1,False,False,Henson 26' 3PT Jump Shot (10 PTS) (Brogdon 6 AST),,93-76,93,76
 0021800023,2018-10-19,MIL,IND,36.0,3,0,0,MIL,,period_end,0,False,False,,,93-76,93,76
 0021800023,2018-10-19,MIL,IND,36.0,4,12,0,MIL,,period_start,0,False,False,,,93-76,93,76
@@ -379,8 +379,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800023,2018-10-19,MIL,IND,39.23,4,8,46,MIL,MIL,reb,0,False,False,Henson REBOUND (Off:3 Def:3),,100-82,100,82
 0021800023,2018-10-19,MIL,IND,39.37,4,8,38,MIL,MIL,timeout,1,False,False,BUCKS Timeout: Regular (Full 4 Short 0),,100-82,100,82
 0021800023,2018-10-19,MIL,IND,39.47,4,8,32,MIL,MIL,fg_miss,5,True,False,MISS Antetokounmpo 6' Layup,,100-82,100,82
-0021800023,2018-10-19,MIL,IND,39.47,4,8,32,MIL,MIL,reb,0,False,False,BUCKS Rebound,,100-82,100,82
 0021800023,2018-10-19,MIL,IND,39.47,4,8,32,MIL,IND,block,5,True,False,block,block,100-82,100,82
+0021800023,2018-10-19,MIL,IND,39.47,4,8,32,MIL,MIL,reb,0,False,False,BUCKS Rebound,,100-82,100,82
 0021800023,2018-10-19,MIL,IND,39.55,4,8,27,,MIL,jump_ball,0,False,False,Jump Ball Antetokounmpo vs. Oladipo: Tip to Bledsoe,,100-82,100,82
 0021800023,2018-10-19,MIL,IND,39.6,4,8,24,MIL,MIL,fg_make,3,False,False,Lopez 4' Hook Shot (8 PTS) (Bledsoe 4 AST),,102-82,102,82
 0021800023,2018-10-19,MIL,IND,39.88,4,8,7,IND,IND,fg_miss,6,False,False,,MISS Evans 3' Driving Layup,102-82,102,82
@@ -427,8 +427,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800023,2018-10-19,MIL,IND,43.43,4,4,34,MIL,MIL,fg_miss,5,False,False,MISS Middleton 1' Layup,,111-89,111,89
 0021800023,2018-10-19,MIL,IND,43.47,4,4,32,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:6 Def:7),111-89,111,89
 0021800023,2018-10-19,MIL,IND,43.5,4,4,30,IND,IND,fg_miss,41,True,False,,MISS Young 2' Running Layup,111-89,111,89
-0021800023,2018-10-19,MIL,IND,43.5,4,4,30,IND,IND,reb,0,False,False,,Pacers Rebound,111-89,111,89
 0021800023,2018-10-19,MIL,IND,43.5,4,4,30,IND,MIL,block,41,True,False,block,block,111-89,111,89
+0021800023,2018-10-19,MIL,IND,43.5,4,4,30,IND,IND,reb,0,False,False,,Pacers Rebound,111-89,111,89
 0021800023,2018-10-19,MIL,IND,43.68,4,4,19,IND,IND,fg_miss,78,False,False,,MISS Oladipo 9' Floating Jump Shot,111-89,111,89
 0021800023,2018-10-19,MIL,IND,43.72,4,4,17,MIL,MIL,reb,0,False,False,Lopez REBOUND (Off:1 Def:2),,111-89,111,89
 0021800023,2018-10-19,MIL,IND,43.77,4,4,14,MIL,MIL,fg_make,78,False,False,Middleton 9' Floating Jump Shot (23 PTS) (Brogdon 7 AST),,113-89,113,89

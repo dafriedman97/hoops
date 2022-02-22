@@ -104,9 +104,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800333,2018-12-01,WAS,BKN,12.62,2,11,23,BKN,BKN,fg_make,2,False,False,,Russell 16' Running Jump Shot (7 PTS),24-21,24,21
 0021800333,2018-12-01,WAS,BKN,12.88,2,11,7,WAS,WAS,fg_make,79,False,False,Beal 20' Pullup Jump Shot (6 PTS),,26-21,26,21
 0021800333,2018-12-01,WAS,BKN,13.2,2,10,48,BKN,BKN,fg_miss,6,True,False,,MISS Dudley 3' Driving Layup,26-21,26,21
+0021800333,2018-12-01,WAS,BKN,13.2,2,10,48,BKN,WAS,block,6,True,False,block,block,26-21,26,21
 0021800333,2018-12-01,WAS,BKN,13.2,2,10,48,BKN,BKN,reb,0,False,False,,Nets Rebound,26-21,26,21
 0021800333,2018-12-01,WAS,BKN,13.2,2,10,48,BKN,BKN,tov,45,False,False,,Carroll Out of Bounds - Bad Pass Turnover Turnover (P1.T5),26-21,26,21
-0021800333,2018-12-01,WAS,BKN,13.2,2,10,48,BKN,WAS,block,6,True,False,block,block,26-21,26,21
 0021800333,2018-12-01,WAS,BKN,13.4,2,10,36,WAS,WAS,fg_miss,79,False,False,MISS Beal 20' Pullup Jump Shot,,26-21,26,21
 0021800333,2018-12-01,WAS,BKN,13.45,2,10,33,BKN,BKN,reb,0,False,False,,Davis REBOUND (Off:2 Def:2),26-21,26,21
 0021800333,2018-12-01,WAS,BKN,13.5,2,10,30,BKN,BKN,fg3_miss,1,False,False,,MISS Dudley 25' 3PT Jump Shot,26-21,26,21
@@ -297,8 +297,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800333,2018-12-01,WAS,BKN,33.77,3,2,14,WAS,WAS,ft_make,12,False,False,Wall Free Throw 2 of 2 (24 PTS),,66-56,66,56
 0021800333,2018-12-01,WAS,BKN,33.92,3,2,5,BKN,WAS,violation,5,False,False,Morris Violation:Kicked Ball (R.Garretson),,66-56,66,56
 0021800333,2018-12-01,WAS,BKN,34.15,3,1,51,BKN,BKN,fg_miss,73,True,False,,MISS Hollis-Jefferson 5' Driving Reverse Layup,66-56,66,56
-0021800333,2018-12-01,WAS,BKN,34.15,3,1,51,BKN,BKN,reb,0,False,False,,Nets Rebound,66-56,66,56
 0021800333,2018-12-01,WAS,BKN,34.15,3,1,51,BKN,WAS,block,73,True,False,block,block,66-56,66,56
+0021800333,2018-12-01,WAS,BKN,34.15,3,1,51,BKN,BKN,reb,0,False,False,,Nets Rebound,66-56,66,56
 0021800333,2018-12-01,WAS,BKN,34.17,3,1,50,BKN,BKN,tov,11,False,False,,Nets Turnover: Shot Clock (T#14),66-56,66,56
 0021800333,2018-12-01,WAS,BKN,34.33,3,1,40,WAS,BKN,foul,2,False,False,,Hollis-Jefferson S.FOUL (P1.PN) (E.Malloy),66-56,66,56
 0021800333,2018-12-01,WAS,BKN,34.33,3,1,40,WAS,WAS,ft_make,11,False,False,Rivers Free Throw 1 of 2 (4 PTS),,67-56,67,56

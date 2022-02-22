@@ -112,11 +112,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700845,2018-02-12,UTA,SAS,12.35,2,11,39,UTA,UTA,ft_make,11,False,False,Favors Free Throw 1 of 2 (6 PTS),,26-22,26,22
 0021700845,2018-02-12,UTA,SAS,12.35,2,11,39,UTA,UTA,ft_make,12,False,False,Favors Free Throw 2 of 2 (7 PTS),,27-22,27,22
 0021700845,2018-02-12,UTA,SAS,12.5,2,11,30,SAS,SAS,fg_miss,57,True,False,,MISS Murray 5' Driving Hook Shot,27-22,27,22
+0021700845,2018-02-12,UTA,SAS,12.5,2,11,30,SAS,UTA,block,57,True,False,block,block,27-22,27,22
 0021700845,2018-02-12,UTA,SAS,12.5,2,11,30,SAS,SAS,reb,0,False,False,,Spurs Rebound,27-22,27,22
 0021700845,2018-02-12,UTA,SAS,12.5,2,11,30,SAS,UTA,foul,5,False,False,Jerebko IN.FOUL (P1.T1) (R.Mott),,27-22,27,22
 0021700845,2018-02-12,UTA,SAS,12.5,2,11,30,SAS,SAS,ft_miss,10,False,False,,MISS Mills Free Throw 1 of 1,27-22,27,22
 0021700845,2018-02-12,UTA,SAS,12.5,2,11,30,SAS,SAS,reb,0,False,False,,Spurs Rebound,27-22,27,22
-0021700845,2018-02-12,UTA,SAS,12.5,2,11,30,SAS,UTA,block,57,True,False,block,block,27-22,27,22
 0021700845,2018-02-12,UTA,SAS,12.53,2,11,28,SAS,SAS,fg3_miss,1,False,False,,MISS Mills 24' 3PT Jump Shot,27-22,27,22
 0021700845,2018-02-12,UTA,SAS,12.55,2,11,27,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:1 Def:0),27-22,27,22
 0021700845,2018-02-12,UTA,SAS,12.57,2,11,26,SAS,SAS,fg_miss,97,False,False,,MISS Murray 1' Tip Layup Shot,27-22,27,22
@@ -239,9 +239,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700845,2018-02-12,UTA,SAS,28.45,3,7,33,SAS,SAS,fg_miss,79,False,False,,MISS Green 20' Pullup Jump Shot,60-57,60,57
 0021700845,2018-02-12,UTA,SAS,28.48,3,7,31,UTA,UTA,reb,0,False,False,Mitchell REBOUND (Off:0 Def:4),,60-57,60,57
 0021700845,2018-02-12,UTA,SAS,28.67,3,7,20,UTA,UTA,fg_miss,78,False,False,MISS Ingles 11' Floating Jump Shot,,60-57,60,57
+0021700845,2018-02-12,UTA,SAS,28.75,3,7,15,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:4 Def:6),,60-57,60,57
 0021700845,2018-02-12,UTA,SAS,28.75,3,7,15,UTA,UTA,fg_miss,97,False,False,MISS Gobert 1' Tip Layup Shot,,60-57,60,57
 0021700845,2018-02-12,UTA,SAS,28.75,3,7,15,SAS,SAS,reb,0,False,False,,Green REBOUND (Off:1 Def:3),60-57,60,57
-0021700845,2018-02-12,UTA,SAS,28.75,3,7,15,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:4 Def:6),,60-57,60,57
 0021700845,2018-02-12,UTA,SAS,28.8,3,7,12,SAS,SAS,fg_make,6,False,False,,Green 3' Driving Layup (5 PTS),60-59,60,59
 0021700845,2018-02-12,UTA,SAS,28.8,3,7,12,SAS,UTA,violation,2,False,False,Mitchell Violation:Defensive Goaltending (T.Brown),,60-59,60,59
 0021700845,2018-02-12,UTA,SAS,28.87,3,7,8,UTA,UTA,timeout,1,False,False,JAZZ Timeout: Regular (Full 3 Short 0),,60-59,60,59
@@ -323,9 +323,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700845,2018-02-12,UTA,SAS,35.45,3,0,33,SAS,SAS,reb,0,False,False,,Spurs Rebound,69-72,69,72
 0021700845,2018-02-12,UTA,SAS,35.75,3,0,15,SAS,SAS,fg3_make,1,False,False,,Green 3PT Jump Shot (8 PTS) (Lauvergne 2 AST),69-75,69,75
 0021700845,2018-02-12,UTA,SAS,35.97,3,0,2,UTA,UTA,fg_miss,6,True,False,MISS Mitchell 6' Driving Layup,,69-75,69,75
+0021700845,2018-02-12,UTA,SAS,35.97,3,0,2,UTA,SAS,block,6,True,False,block,block,69-75,69,75
 0021700845,2018-02-12,UTA,SAS,35.97,3,0,2,SAS,SAS,reb,0,False,False,,Lauvergne REBOUND (Off:1 Def:3),69-75,69,75
 0021700845,2018-02-12,UTA,SAS,35.97,3,0,2,SAS,UTA,foul,1,False,False,Favors P.FOUL (P1.PN) (T.Brown),,69-75,69,75
-0021700845,2018-02-12,UTA,SAS,35.97,3,0,2,UTA,SAS,block,6,True,False,block,block,69-75,69,75
 0021700845,2018-02-12,UTA,SAS,35.97,3,0,2,SAS,SAS,ft_make,11,False,False,,Lauvergne Free Throw 1 of 2 (9 PTS),69-76,69,76
 0021700845,2018-02-12,UTA,SAS,35.97,3,0,2,SAS,SAS,ft_make,12,False,False,,Lauvergne Free Throw 2 of 2 (10 PTS),69-77,69,77
 0021700845,2018-02-12,UTA,SAS,36.0,3,0,0,UTA,UTA,fg3_miss,1,False,False,MISS Neto 60' 3PT Jump Shot,,69-77,69,77
@@ -359,8 +359,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700845,2018-02-12,UTA,SAS,38.3,4,9,42,SAS,SAS,reb,0,False,False,,Ginobili REBOUND (Off:0 Def:3),70-81,70,81
 0021700845,2018-02-12,UTA,SAS,38.52,4,9,29,SAS,SAS,fg_make,79,False,False,,Forbes 19' Pullup Jump Shot (6 PTS),70-83,70,83
 0021700845,2018-02-12,UTA,SAS,38.92,4,9,5,UTA,UTA,fg_miss,5,True,False,MISS Gobert 2' Layup,,70-83,70,83
-0021700845,2018-02-12,UTA,SAS,38.92,4,9,5,UTA,UTA,reb,0,False,False,O'Neale REBOUND (Off:1 Def:2),,70-83,70,83
 0021700845,2018-02-12,UTA,SAS,38.92,4,9,5,UTA,SAS,block,5,True,False,block,block,70-83,70,83
+0021700845,2018-02-12,UTA,SAS,38.92,4,9,5,UTA,UTA,reb,0,False,False,O'Neale REBOUND (Off:1 Def:2),,70-83,70,83
 0021700845,2018-02-12,UTA,SAS,38.92,4,9,5,UTA,UTA,fg_make,5,False,False,O'Neale 2' Layup (7 PTS),,72-83,72,83
 0021700845,2018-02-12,UTA,SAS,38.92,4,9,5,UTA,SAS,foul,2,False,False,,Murray S.FOUL (P2.T4) (T.Brown),72-83,72,83
 0021700845,2018-02-12,UTA,SAS,38.92,4,9,5,UTA,UTA,ft_make,10,False,False,O'Neale Free Throw 1 of 1 (8 PTS),,73-83,73,83
@@ -377,8 +377,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700845,2018-02-12,UTA,SAS,40.67,4,7,20,SAS,SAS,fg_miss,98,False,False,,MISS Bertans 2' Cutting Layup Shot,77-85,77,85
 0021700845,2018-02-12,UTA,SAS,40.68,4,7,19,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:4 Def:8),,77-85,77,85
 0021700845,2018-02-12,UTA,SAS,40.8,4,7,12,UTA,UTA,fg_miss,6,True,False,MISS Mitchell 5' Driving Layup,,77-85,77,85
-0021700845,2018-02-12,UTA,SAS,40.8,4,7,12,UTA,UTA,reb,0,False,False,JAZZ Rebound,,77-85,77,85
 0021700845,2018-02-12,UTA,SAS,40.8,4,7,12,UTA,SAS,block,6,True,False,block,block,77-85,77,85
+0021700845,2018-02-12,UTA,SAS,40.8,4,7,12,UTA,UTA,reb,0,False,False,JAZZ Rebound,,77-85,77,85
 0021700845,2018-02-12,UTA,SAS,40.92,4,7,5,UTA,UTA,fg_make,1,False,False,Gobert 21' Jump Shot (10 PTS) (Ingles 3 AST),,79-85,79,85
 0021700845,2018-02-12,UTA,SAS,41.18,4,6,49,SAS,SAS,fg3_miss,1,False,False,,MISS Mills 25' 3PT Jump Shot,79-85,79,85
 0021700845,2018-02-12,UTA,SAS,41.22,4,6,47,UTA,UTA,reb,0,False,False,Mitchell REBOUND (Off:0 Def:7),,79-85,79,85
@@ -440,9 +440,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700845,2018-02-12,UTA,SAS,46.98,4,1,1,SAS,UTA,steal,2,False,True,steal,steal,96-97,96,97
 0021700845,2018-02-12,UTA,SAS,47.02,4,0,59,UTA,UTA,fg_make,5,False,False,Mitchell 1' Layup (22 PTS),,98-97,98,97
 0021700845,2018-02-12,UTA,SAS,47.22,4,0,47,SAS,SAS,fg_miss,1,True,False,,MISS Anderson 11' Jump Shot,98-97,98,97
+0021700845,2018-02-12,UTA,SAS,47.22,4,0,47,SAS,UTA,block,1,True,False,block,block,98-97,98,97
 0021700845,2018-02-12,UTA,SAS,47.22,4,0,47,SAS,SAS,reb,0,False,False,,Anderson REBOUND (Off:1 Def:4),98-97,98,97
 0021700845,2018-02-12,UTA,SAS,47.22,4,0,47,SAS,UTA,foul,1,False,False,Ingles P.FOUL (P4.PN) (T.Brown),,98-97,98,97
-0021700845,2018-02-12,UTA,SAS,47.22,4,0,47,SAS,UTA,block,1,True,False,block,block,98-97,98,97
 0021700845,2018-02-12,UTA,SAS,47.22,4,0,47,SAS,SAS,ft_make,11,False,False,,Anderson Free Throw 1 of 2 (15 PTS),98-98,98,98
 0021700845,2018-02-12,UTA,SAS,47.22,4,0,47,SAS,SAS,ft_make,12,False,False,,Anderson Free Throw 2 of 2 (16 PTS),98-99,98,99
 0021700845,2018-02-12,UTA,SAS,47.35,4,0,39,UTA,UTA,fg_make,79,False,False,Mitchell 18' Pullup Jump Shot (24 PTS),,100-99,100,99

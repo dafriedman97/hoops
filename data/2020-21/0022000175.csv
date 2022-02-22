@@ -113,9 +113,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000175,2021-01-14,TOR,CHA,12.42,2,11,35,CHA,CHA,fg_make,6,False,False,,Rozier 3' Driving Layup (6 PTS),35-36,35,36
 0022000175,2021-01-14,TOR,CHA,12.6,2,11,24,TOR,TOR,fg3_make,1,False,False,Powell 3PT Jump Shot (3 PTS) (Johnson 1 AST),,38-36,38,36
 0022000175,2021-01-14,TOR,CHA,12.88,2,11,7,CHA,CHA,fg_miss,1,True,False,,MISS Graham 5' Jump Shot,38-36,38,36
+0022000175,2021-01-14,TOR,CHA,12.88,2,11,7,CHA,TOR,block,1,True,False,block,block,38-36,38,36
 0022000175,2021-01-14,TOR,CHA,12.88,2,11,7,CHA,CHA,reb,0,False,False,,Biyombo REBOUND (Off:3 Def:0),38-36,38,36
 0022000175,2021-01-14,TOR,CHA,12.88,2,11,7,CHA,CHA,tov,4,False,False,,Biyombo Traveling Turnover (P1.T7),38-36,38,36
-0022000175,2021-01-14,TOR,CHA,12.88,2,11,7,CHA,TOR,block,1,True,False,block,block,38-36,38,36
 0022000175,2021-01-14,TOR,CHA,13.07,2,10,56,TOR,TOR,fg_make,6,False,False,Powell 5' Driving Layup (5 PTS),,40-36,40,36
 0022000175,2021-01-14,TOR,CHA,13.47,2,10,32,CHA,CHA,fg_miss,3,False,False,,MISS Biyombo 3' Hook Shot,40-36,40,36
 0022000175,2021-01-14,TOR,CHA,13.5,2,10,30,TOR,TOR,reb,0,False,False,Watanabe REBOUND (Off:0 Def:1),,40-36,40,36
@@ -231,8 +231,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000175,2021-01-14,TOR,CHA,26.43,3,9,34,CHA,CHA,fg_make,72,False,False,,Biyombo 5' Putback Layup (8 PTS),76-69,76,69
 0022000175,2021-01-14,TOR,CHA,26.72,3,9,17,TOR,TOR,fg_make,105,False,False,Boucher 7' Turnaround Fadeaway Bank Jump Shot (18 PTS) (VanVleet 5 AST),,78-69,78,69
 0022000175,2021-01-14,TOR,CHA,26.97,3,9,2,CHA,CHA,fg_miss,6,True,False,,MISS Washington 8' Driving Layup,78-69,78,69
-0022000175,2021-01-14,TOR,CHA,26.97,3,9,2,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,78-69,78,69
 0022000175,2021-01-14,TOR,CHA,26.97,3,9,2,CHA,TOR,block,6,True,False,block,block,78-69,78,69
+0022000175,2021-01-14,TOR,CHA,26.97,3,9,2,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,78-69,78,69
 0022000175,2021-01-14,TOR,CHA,27.1,3,8,54,TOR,TOR,fg3_miss,1,False,False,MISS Anunoby 3PT Jump Shot,,78-69,78,69
 0022000175,2021-01-14,TOR,CHA,27.17,3,8,50,CHA,CHA,reb,0,False,False,,Rozier REBOUND (Off:0 Def:2),78-69,78,69
 0022000175,2021-01-14,TOR,CHA,27.45,3,8,33,CHA,CHA,fg3_make,1,False,False,,Rozier 3PT Jump Shot (16 PTS) (Washington 1 AST),78-72,78,72
@@ -330,8 +330,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000175,2021-01-14,TOR,CHA,39.15,4,8,51,TOR,TOR,fg3_miss,1,False,False,MISS Siakam 27' 3PT Jump Shot,,99-93,99,93
 0022000175,2021-01-14,TOR,CHA,39.25,4,8,45,CHA,CHA,reb,0,False,False,,Biyombo REBOUND (Off:4 Def:4),99-93,99,93
 0022000175,2021-01-14,TOR,CHA,39.37,4,8,38,CHA,CHA,fg_miss,79,False,False,,MISS Rozier 4' Pullup Jump Shot,99-93,99,93
-0022000175,2021-01-14,TOR,CHA,39.47,4,8,32,CHA,CHA,fg_miss,97,False,False,,MISS Martin Tip Layup Shot,99-93,99,93
 0022000175,2021-01-14,TOR,CHA,39.47,4,8,32,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:2 Def:3),99-93,99,93
+0022000175,2021-01-14,TOR,CHA,39.47,4,8,32,CHA,CHA,fg_miss,97,False,False,,MISS Martin Tip Layup Shot,99-93,99,93
 0022000175,2021-01-14,TOR,CHA,39.47,4,8,32,TOR,TOR,reb,0,False,False,Anunoby REBOUND (Off:1 Def:2),,99-93,99,93
 0022000175,2021-01-14,TOR,CHA,39.52,4,8,29,TOR,TOR,fg_miss,1,False,False,MISS Lowry 3' Jump Shot,,99-93,99,93
 0022000175,2021-01-14,TOR,CHA,39.52,4,8,29,TOR,TOR,reb,0,False,False,Boucher REBOUND (Off:1 Def:3),,99-93,99,93
@@ -389,8 +389,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000175,2021-01-14,TOR,CHA,44.37,4,3,38,TOR,TOR,fg_make,97,False,False,Boucher Tip Layup Shot (21 PTS),,107-99,107,99
 0022000175,2021-01-14,TOR,CHA,44.37,4,3,38,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.4 Short 0),107-99,107,99
 0022000175,2021-01-14,TOR,CHA,44.65,4,3,21,CHA,CHA,fg_miss,6,True,False,,MISS Ball 6' Driving Layup,107-99,107,99
-0022000175,2021-01-14,TOR,CHA,44.65,4,3,21,CHA,CHA,reb,0,False,False,,Hornets Rebound,107-99,107,99
 0022000175,2021-01-14,TOR,CHA,44.65,4,3,21,CHA,TOR,block,6,True,False,block,block,107-99,107,99
+0022000175,2021-01-14,TOR,CHA,44.65,4,3,21,CHA,CHA,reb,0,False,False,,Hornets Rebound,107-99,107,99
 0022000175,2021-01-14,TOR,CHA,44.78,4,3,13,CHA,CHA,fg3_miss,1,False,False,,MISS Rozier 37' 3PT Jump Shot,107-99,107,99
 0022000175,2021-01-14,TOR,CHA,44.85,4,3,9,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:3 Def:8),107-99,107,99
 0022000175,2021-01-14,TOR,CHA,44.87,4,3,8,CHA,CHA,fg_make,5,False,False,,Washington 3' Layup (20 PTS),107-101,107,101

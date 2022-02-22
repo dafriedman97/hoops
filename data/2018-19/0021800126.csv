@@ -195,9 +195,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800126,2018-11-03,CHA,CLE,23.6,2,0,24,CHA,CHA,fg_make,80,False,False,Walker 19' Step Back Jump Shot (7 PTS),,59-49,59,49
 0021800126,2018-11-03,CHA,CLE,23.92,2,0,5,CLE,CLE,fg3_make,1,False,False,,Korver 26' 3PT Jump Shot (9 PTS) (Osman 2 AST),59-52,59,52
 0021800126,2018-11-03,CHA,CLE,24.0,2,0,0,CHA,CHA,tov,2,False,True,Walker Lost Ball Turnover (P2.T7),,59-52,59,52
+0021800126,2018-11-03,CHA,CLE,24.0,2,0,0,CHA,CLE,steal,2,False,True,steal,steal,59-52,59,52
 0021800126,2018-11-03,CHA,CLE,24.0,2,0,0,CHA,,period_end,0,False,False,,,59-52,59,52
 0021800126,2018-11-03,CHA,CLE,24.0,3,12,0,CHA,,period_start,0,False,False,,,59-52,59,52
-0021800126,2018-11-03,CHA,CLE,24.0,2,0,0,CHA,CLE,steal,2,False,True,steal,steal,59-52,59,52
 0021800126,2018-11-03,CHA,CLE,24.33,3,11,40,CLE,CLE,fg_make,1,False,False,,G. Hill 18' Jump Shot (3 PTS),59-54,59,54
 0021800126,2018-11-03,CHA,CLE,24.63,3,11,22,CHA,CHA,fg_make,1,False,False,Walker 23' Jump Shot (9 PTS) (Batum 5 AST),,61-54,61,54
 0021800126,2018-11-03,CHA,CLE,25.1,3,10,54,CLE,CLE,fg_make,5,False,False,,Thompson 3' Layup (6 PTS) (Hood 3 AST),61-56,61,56
@@ -307,8 +307,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800126,2018-11-03,CHA,CLE,38.45,4,9,33,CHA,CHA,fg_miss,1,False,False,MISS Parker 15' Jump Shot,,98-77,98,77
 0021800126,2018-11-03,CHA,CLE,38.48,4,9,31,CHA,CHA,reb,0,False,False,Parker REBOUND (Off:1 Def:3),,98-77,98,77
 0021800126,2018-11-03,CHA,CLE,38.5,4,9,30,CHA,CHA,fg_miss,1,True,False,MISS Parker 4' Jump Shot,,98-77,98,77
-0021800126,2018-11-03,CHA,CLE,38.5,4,9,30,CHA,CHA,reb,0,False,False,HORNETS Rebound,,98-77,98,77
 0021800126,2018-11-03,CHA,CLE,38.5,4,9,30,CHA,CLE,block,1,True,False,block,block,98-77,98,77
+0021800126,2018-11-03,CHA,CLE,38.5,4,9,30,CHA,CHA,reb,0,False,False,HORNETS Rebound,,98-77,98,77
 0021800126,2018-11-03,CHA,CLE,38.63,4,9,22,CHA,CHA,fg3_make,1,False,False,Bridges 27' 3PT Jump Shot (7 PTS) (Parker 4 AST),,101-77,101,77
 0021800126,2018-11-03,CHA,CLE,38.87,4,9,8,CLE,CLE,fg_miss,1,False,False,,MISS Sexton 12' Jump Shot,101-77,101,77
 0021800126,2018-11-03,CHA,CLE,38.9,4,9,6,CHA,CHA,reb,0,False,False,Kidd-Gilchrist REBOUND (Off:1 Def:3),,101-77,101,77
@@ -364,11 +364,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800126,2018-11-03,CHA,CLE,44.38,4,3,37,CHA,CHA,fg3_make,1,False,False,Bridges 25' 3PT Jump Shot (12 PTS) (Bacon 1 AST),,118-86,118,86
 0021800126,2018-11-03,CHA,CLE,44.67,4,3,20,CLE,CLE,fg3_make,1,False,False,,Smith 27' 3PT Jump Shot (14 PTS),118-89,118,89
 0021800126,2018-11-03,CHA,CLE,44.88,4,3,7,CHA,CHA,tov,1,False,True,Monk Bad Pass Turnover (P2.T15),,118-89,118,89
+0021800126,2018-11-03,CHA,CLE,44.88,4,3,7,CHA,CLE,steal,1,False,True,steal,steal,118-89,118,89
 0021800126,2018-11-03,CHA,CLE,44.88,4,3,7,CLE,CHA,foul,1,False,False,Bridges P.FOUL (P3.PN) (M.Ayotte),,118-89,118,89
 0021800126,2018-11-03,CHA,CLE,44.88,4,3,7,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 4 Short 0),,118-89,118,89
 0021800126,2018-11-03,CHA,CLE,44.88,4,3,7,CLE,CLE,ft_miss,11,False,False,,MISS Nwaba Free Throw 1 of 2,118-89,118,89
 0021800126,2018-11-03,CHA,CLE,44.88,4,3,7,CLE,CLE,reb,1,False,False,,Cavaliers Rebound,118-89,118,89
-0021800126,2018-11-03,CHA,CLE,44.88,4,3,7,CHA,CLE,steal,1,False,True,steal,steal,118-89,118,89
 0021800126,2018-11-03,CHA,CLE,44.88,4,3,7,CLE,CLE,ft_make,12,False,False,,Nwaba Free Throw 2 of 2 (3 PTS),118-90,118,90
 0021800126,2018-11-03,CHA,CLE,45.17,4,2,50,CHA,CLE,foul,2,False,False,,Zizic S.FOUL (P1.PN) (M.Ayotte),118-90,118,90
 0021800126,2018-11-03,CHA,CLE,45.17,4,2,50,CHA,CHA,ft_make,11,False,False,Bacon Free Throw 1 of 2 (1 PTS),,119-90,119,90

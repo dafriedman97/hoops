@@ -32,11 +32,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701143,2018-04-01,CHA,PHI,3.38,1,8,37,CHA,CHA,fg3_miss,1,False,False,MISS Walker 26' 3PT Jump Shot,,5-9,5,9
 0021701143,2018-04-01,CHA,PHI,3.45,1,8,33,PHI,PHI,reb,0,False,False,,Simmons REBOUND (Off:0 Def:2),5-9,5,9
 0021701143,2018-04-01,CHA,PHI,3.48,1,8,31,PHI,PHI,fg_miss,5,True,False,,MISS Johnson 2' Layup,5-9,5,9
-0021701143,2018-04-01,CHA,PHI,3.48,1,8,31,CHA,CHA,reb,0,False,False,HORNETS Rebound,,5-9,5,9
 0021701143,2018-04-01,CHA,PHI,3.48,1,8,31,PHI,CHA,block,5,True,False,block,block,5-9,5,9
+0021701143,2018-04-01,CHA,PHI,3.48,1,8,31,CHA,CHA,reb,0,False,False,HORNETS Rebound,,5-9,5,9
 0021701143,2018-04-01,CHA,PHI,3.63,1,8,22,CHA,CHA,fg_miss,5,True,False,MISS Walker 5' Layup,,5-9,5,9
-0021701143,2018-04-01,CHA,PHI,3.63,1,8,22,CHA,CHA,reb,0,False,False,HORNETS Rebound,,5-9,5,9
 0021701143,2018-04-01,CHA,PHI,3.63,1,8,22,CHA,PHI,block,5,True,False,block,block,5-9,5,9
+0021701143,2018-04-01,CHA,PHI,3.63,1,8,22,CHA,CHA,reb,0,False,False,HORNETS Rebound,,5-9,5,9
 0021701143,2018-04-01,CHA,PHI,3.65,1,8,21,CHA,PHI,violation,4,False,False,,Ilyasova Violation:Jump Ball (S.Foster),5-9,5,9
 0021701143,2018-04-01,CHA,PHI,3.85,1,8,9,CHA,CHA,fg3_miss,1,False,False,MISS Batum 3PT Jump Shot,,5-9,5,9
 0021701143,2018-04-01,CHA,PHI,3.87,1,8,8,CHA,CHA,reb,0,False,False,HORNETS Rebound,,5-9,5,9
@@ -125,10 +125,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701143,2018-04-01,CHA,PHI,13.0,2,11,0,PHI,PHI,fg3_make,1,False,False,,Ilyasova 26' 3PT Jump Shot (5 PTS) (Redick 2 AST),33-31,33,31
 0021701143,2018-04-01,CHA,PHI,13.47,2,10,32,CHA,CHA,fg3_miss,1,False,False,MISS Lamb 25' 3PT Jump Shot,,33-31,33,31
 0021701143,2018-04-01,CHA,PHI,13.52,2,10,29,PHI,PHI,reb,0,False,False,,Redick REBOUND (Off:0 Def:1),33-31,33,31
-0021701143,2018-04-01,CHA,PHI,13.58,2,10,25,PHI,PHI,fg_miss,5,True,False,,MISS Fultz 4' Layup,33-31,33,31
-0021701143,2018-04-01,CHA,PHI,13.58,2,10,25,CHA,CHA,reb,0,False,False,Monk REBOUND (Off:0 Def:1),,33-31,33,31
 0021701143,2018-04-01,CHA,PHI,13.58,2,10,25,CHA,CHA,tov,39,False,False,Monk Step Out of Bounds Turnover (P2.T6),,33-31,33,31
+0021701143,2018-04-01,CHA,PHI,13.58,2,10,25,PHI,PHI,fg_miss,5,True,False,,MISS Fultz 4' Layup,33-31,33,31
 0021701143,2018-04-01,CHA,PHI,13.58,2,10,25,PHI,CHA,block,5,True,False,block,block,33-31,33,31
+0021701143,2018-04-01,CHA,PHI,13.58,2,10,25,CHA,CHA,reb,0,False,False,Monk REBOUND (Off:0 Def:1),,33-31,33,31
 0021701143,2018-04-01,CHA,PHI,13.72,2,10,17,PHI,PHI,tov,45,False,False,,Covington Out of Bounds - Bad Pass Turnover Turnover (P1.T6),33-31,33,31
 0021701143,2018-04-01,CHA,PHI,13.93,2,10,4,CHA,CHA,tov,2,False,True,Monk Lost Ball Turnover (P3.T7),,33-31,33,31
 0021701143,2018-04-01,CHA,PHI,13.93,2,10,4,CHA,PHI,steal,2,False,True,steal,steal,33-31,33,31
@@ -152,8 +152,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701143,2018-04-01,CHA,PHI,15.43,2,8,34,PHI,CHA,block,50,True,False,block,block,34-33,34,33
 0021701143,2018-04-01,CHA,PHI,15.48,2,8,31,CHA,CHA,reb,0,False,False,Hernangomez REBOUND (Off:1 Def:2),,34-33,34,33
 0021701143,2018-04-01,CHA,PHI,15.53,2,8,28,CHA,CHA,fg_miss,5,True,False,MISS Lamb 3' Layup,,34-33,34,33
-0021701143,2018-04-01,CHA,PHI,15.53,2,8,28,PHI,PHI,reb,0,False,False,,Fultz REBOUND (Off:0 Def:1),34-33,34,33
 0021701143,2018-04-01,CHA,PHI,15.53,2,8,28,CHA,PHI,block,5,True,False,block,block,34-33,34,33
+0021701143,2018-04-01,CHA,PHI,15.53,2,8,28,PHI,PHI,reb,0,False,False,,Fultz REBOUND (Off:0 Def:1),34-33,34,33
 0021701143,2018-04-01,CHA,PHI,15.73,2,8,16,PHI,PHI,fg3_miss,1,False,False,,MISS Covington 3PT Jump Shot,34-33,34,33
 0021701143,2018-04-01,CHA,PHI,15.78,2,8,13,PHI,PHI,reb,0,False,False,,Covington REBOUND (Off:2 Def:3),34-33,34,33
 0021701143,2018-04-01,CHA,PHI,15.95,2,8,3,PHI,PHI,fg3_make,1,False,False,,Ilyasova 26' 3PT Jump Shot (8 PTS) (Fultz 2 AST),34-36,34,36
@@ -196,8 +196,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701143,2018-04-01,CHA,PHI,20.27,2,3,44,PHI,PHI,fg3_miss,1,False,False,,MISS Redick 29' 3PT Jump Shot,46-50,46,50
 0021701143,2018-04-01,CHA,PHI,20.32,2,3,41,CHA,CHA,reb,0,False,False,Kidd-Gilchrist REBOUND (Off:0 Def:3),,46-50,46,50
 0021701143,2018-04-01,CHA,PHI,20.48,2,3,31,CHA,CHA,fg_miss,1,True,False,MISS Kidd-Gilchrist 9' Jump Shot,,46-50,46,50
-0021701143,2018-04-01,CHA,PHI,20.48,2,3,31,PHI,PHI,reb,0,False,False,,76ers Rebound,46-50,46,50
 0021701143,2018-04-01,CHA,PHI,20.48,2,3,31,CHA,PHI,block,1,True,False,block,block,46-50,46,50
+0021701143,2018-04-01,CHA,PHI,20.48,2,3,31,PHI,PHI,reb,0,False,False,,76ers Rebound,46-50,46,50
 0021701143,2018-04-01,CHA,PHI,20.78,2,3,13,PHI,PHI,fg_miss,63,False,False,,MISS Simmons 7' Fadeaway Jumper,46-50,46,50
 0021701143,2018-04-01,CHA,PHI,20.82,2,3,11,CHA,CHA,reb,0,False,False,Howard REBOUND (Off:1 Def:5),,46-50,46,50
 0021701143,2018-04-01,CHA,PHI,21.12,2,2,53,CHA,CHA,fg_miss,1,False,False,MISS Batum 14' Jump Shot,,46-50,46,50
@@ -309,9 +309,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701143,2018-04-01,CHA,PHI,33.03,3,2,58,CHA,CHA,tov,2,False,True,Walker Lost Ball Turnover (P4.T14),,71-82,71,82
 0021701143,2018-04-01,CHA,PHI,33.03,3,2,58,CHA,PHI,steal,2,False,True,steal,steal,71-82,71,82
 0021701143,2018-04-01,CHA,PHI,33.1,3,2,54,PHI,PHI,fg_miss,5,True,False,,MISS Covington 4' Layup,71-82,71,82
+0021701143,2018-04-01,CHA,PHI,33.1,3,2,54,PHI,CHA,block,5,True,False,block,block,71-82,71,82
 0021701143,2018-04-01,CHA,PHI,33.1,3,2,54,PHI,PHI,reb,0,False,False,,76ers Rebound,71-82,71,82
 0021701143,2018-04-01,CHA,PHI,33.1,3,2,54,PHI,PHI,timeout,1,False,False,,76ers Timeout: Regular (Reg.3 Short 0),71-82,71,82
-0021701143,2018-04-01,CHA,PHI,33.1,3,2,54,PHI,CHA,block,5,True,False,block,block,71-82,71,82
 0021701143,2018-04-01,CHA,PHI,33.15,3,2,51,PHI,PHI,fg_make,52,False,False,,Covington 1' Alley Oop Dunk (12 PTS) (Simmons 12 AST),71-84,71,84
 0021701143,2018-04-01,CHA,PHI,33.48,3,2,31,CHA,CHA,fg_miss,5,True,False,MISS Kidd-Gilchrist 2' Layup,,71-84,71,84
 0021701143,2018-04-01,CHA,PHI,33.48,3,2,31,CHA,PHI,block,5,True,False,block,block,71-84,71,84

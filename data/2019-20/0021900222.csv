@@ -23,8 +23,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900222,2019-11-22,DEN,BOS,2.33,1,9,40,DEN,DEN,fg_miss,101,False,False,MISS Barton 8' Driving Floating Jump Shot,,2-0,2,0
 0021900222,2019-11-22,DEN,BOS,2.38,1,9,37,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:0 Def:1),2-0,2,0
 0021900222,2019-11-22,DEN,BOS,2.47,1,9,32,BOS,BOS,fg_miss,41,True,False,,MISS Brown 5' Running Layup,2-0,2,0
-0021900222,2019-11-22,DEN,BOS,2.47,1,9,32,BOS,BOS,reb,0,False,False,,Celtics Rebound,2-0,2,0
 0021900222,2019-11-22,DEN,BOS,2.47,1,9,32,BOS,DEN,block,41,True,False,block,block,2-0,2,0
+0021900222,2019-11-22,DEN,BOS,2.47,1,9,32,BOS,BOS,reb,0,False,False,,Celtics Rebound,2-0,2,0
 0021900222,2019-11-22,DEN,BOS,2.62,1,9,23,BOS,BOS,fg_make,101,False,False,,Smart 12' Driving Floating Jump Shot (2 PTS),2-2,2,2
 0021900222,2019-11-22,DEN,BOS,3.08,1,8,55,DEN,DEN,fg_miss,63,False,False,MISS Jokic 13' Fadeaway Jumper,,2-2,2,2
 0021900222,2019-11-22,DEN,BOS,3.13,1,8,52,DEN,DEN,reb,0,False,False,Millsap REBOUND (Off:2 Def:1),,2-2,2,2
@@ -129,9 +129,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900222,2019-11-22,DEN,BOS,16.38,2,7,37,DEN,DEN,reb,0,False,False,Porter Jr. REBOUND (Off:0 Def:4),,33-19,33,19
 0021900222,2019-11-22,DEN,BOS,16.52,2,7,29,DEN,DEN,fg3_make,1,False,False,Grant 26' 3PT Jump Shot (5 PTS) (Plumlee 1 AST),,36-19,36,19
 0021900222,2019-11-22,DEN,BOS,16.8,2,7,12,BOS,BOS,fg_miss,6,True,False,,MISS Brown 6' Driving Layup,36-19,36,19
+0021900222,2019-11-22,DEN,BOS,16.8,2,7,12,BOS,DEN,block,6,True,False,block,block,36-19,36,19
 0021900222,2019-11-22,DEN,BOS,16.8,2,7,12,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,36-19,36,19
 0021900222,2019-11-22,DEN,BOS,16.8,2,7,12,,DEN,jump_ball,0,False,False,Jump Ball Porter Jr. vs. Brown: Tip to Plumlee,,36-19,36,19
-0021900222,2019-11-22,DEN,BOS,16.8,2,7,12,BOS,DEN,block,6,True,False,block,block,36-19,36,19
 0021900222,2019-11-22,DEN,BOS,16.9,2,7,6,DEN,DEN,tov,45,False,False,Plumlee Out of Bounds - Bad Pass Turnover Turnover (P1.T8),,36-19,36,19
 0021900222,2019-11-22,DEN,BOS,17.15,2,6,51,BOS,BOS,fg3_miss,1,False,False,,MISS Ojeleye 25' 3PT Jump Shot,36-19,36,19
 0021900222,2019-11-22,DEN,BOS,17.17,2,6,50,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,36-19,36,19
@@ -295,8 +295,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900222,2019-11-22,DEN,BOS,34.1,3,1,54,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:1 Def:5),66-47,66,47
 0021900222,2019-11-22,DEN,BOS,34.22,3,1,47,BOS,BOS,fg3_make,1,False,False,,Brown 26' 3PT Jump Shot (12 PTS) (Kanter 1 AST),66-50,66,50
 0021900222,2019-11-22,DEN,BOS,34.45,3,1,33,DEN,DEN,fg_miss,6,True,False,MISS Murray 5' Driving Layup,,66-50,66,50
-0021900222,2019-11-22,DEN,BOS,34.45,3,1,33,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,66-50,66,50
 0021900222,2019-11-22,DEN,BOS,34.45,3,1,33,DEN,BOS,block,6,True,False,block,block,66-50,66,50
+0021900222,2019-11-22,DEN,BOS,34.45,3,1,33,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,66-50,66,50
 0021900222,2019-11-22,DEN,BOS,34.53,3,1,28,DEN,DEN,fg_miss,5,False,False,MISS Hernangomez 3' Layup,,66-50,66,50
 0021900222,2019-11-22,DEN,BOS,34.58,3,1,25,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:1 Def:6),66-50,66,50
 0021900222,2019-11-22,DEN,BOS,34.67,3,1,20,BOS,BOS,fg_make,5,False,False,,Wanamaker 2' Layup (4 PTS) (Brown 4 AST),66-52,66,52
@@ -432,5 +432,5 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900222,2019-11-22,DEN,BOS,47.98,4,0,1,DEN,DEN,ft_make,11,False,False,Murray Free Throw 1 of 2 (21 PTS),,95-92,95,92
 0021900222,2019-11-22,DEN,BOS,47.98,4,0,1,DEN,DEN,ft_make,12,False,False,Murray Free Throw 2 of 2 (22 PTS),,96-92,96,92
 0021900222,2019-11-22,DEN,BOS,48.0,4,0,0,BOS,BOS,tov,1,False,True,,Smart Bad Pass Turnover (P4.T13),96-92,96,92
-0021900222,2019-11-22,DEN,BOS,48.0,4,0,0,BOS,,period_end,0,False,False,,,96-92,96,92
 0021900222,2019-11-22,DEN,BOS,48.0,4,0,0,BOS,DEN,steal,1,False,True,steal,steal,96-92,96,92
+0021900222,2019-11-22,DEN,BOS,48.0,4,0,0,BOS,,period_end,0,False,False,,,96-92,96,92

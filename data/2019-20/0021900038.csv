@@ -48,9 +48,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900038,2019-10-27,DAL,POR,5.65,1,6,21,DAL,DAL,ft_make,12,False,False,Doncic Free Throw 2 of 2 (6 PTS),,19-15,19,15
 0021900038,2019-10-27,DAL,POR,5.97,1,6,2,,DAL,jump_ball,0,False,False,Jump Ball Finney-Smith vs. Whiteside: Tip to Collins,,19-15,19,15
 0021900038,2019-10-27,DAL,POR,5.98,1,6,1,POR,POR,fg_miss,47,True,False,,MISS Collins 4' Turnaround Jump Shot,19-15,19,15
+0021900038,2019-10-27,DAL,POR,5.98,1,6,1,POR,DAL,block,47,True,False,block,block,19-15,19,15
 0021900038,2019-10-27,DAL,POR,5.98,1,6,1,POR,POR,reb,0,False,False,,Trail Blazers Rebound,19-15,19,15
 0021900038,2019-10-27,DAL,POR,5.98,1,6,1,POR,DAL,foul,3,False,False,Finney-Smith L.B.FOUL (P1.T1) (B.Barnaky),,19-15,19,15
-0021900038,2019-10-27,DAL,POR,5.98,1,6,1,POR,DAL,block,47,True,False,block,block,19-15,19,15
 0021900038,2019-10-27,DAL,POR,6.12,1,5,53,POR,POR,fg_make,86,False,False,,Hood 7' Turnaround Fadeaway (8 PTS),19-17,19,17
 0021900038,2019-10-27,DAL,POR,6.35,1,5,39,DAL,DAL,fg3_miss,1,False,False,MISS Curry 25' 3PT Jump Shot,,19-17,19,17
 0021900038,2019-10-27,DAL,POR,6.38,1,5,37,POR,POR,reb,0,False,False,,McCollum REBOUND (Off:0 Def:2),19-17,19,17
@@ -243,8 +243,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900038,2019-10-27,DAL,POR,26.32,3,9,41,POR,POR,ft_make,14,False,False,,Lillard Free Throw 2 of 3 (9 PTS),74-66,74,66
 0021900038,2019-10-27,DAL,POR,26.32,3,9,41,POR,POR,ft_make,15,False,False,,Lillard Free Throw 3 of 3 (10 PTS),74-67,74,67
 0021900038,2019-10-27,DAL,POR,26.5,3,9,30,DAL,DAL,fg_miss,6,True,False,MISS Porzingis 5' Driving Layup,,74-67,74,67
-0021900038,2019-10-27,DAL,POR,26.5,3,9,30,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,74-67,74,67
 0021900038,2019-10-27,DAL,POR,26.5,3,9,30,DAL,POR,block,6,True,False,block,block,74-67,74,67
+0021900038,2019-10-27,DAL,POR,26.5,3,9,30,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,74-67,74,67
 0021900038,2019-10-27,DAL,POR,26.53,3,9,28,DAL,DAL,fg_make,1,False,False,Porzingis 16' Jump Shot (20 PTS) (Doncic 7 AST),,76-67,76,67
 0021900038,2019-10-27,DAL,POR,26.7,3,9,18,POR,POR,fg_make,75,False,False,,Lillard 3' Driving Finger Roll Layup (12 PTS),76-69,76,69
 0021900038,2019-10-27,DAL,POR,27.07,3,8,56,DAL,POR,foul,2,False,False,,Collins S.FOUL (P3.T1) (B.Barnaky),76-69,76,69
@@ -473,8 +473,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900038,2019-10-27,DAL,POR,47.8,4,0,12,DAL,DAL,fg3_miss,80,False,False,MISS Doncic 25' 3PT Step Back Jump Shot,,119-120,119,120
 0021900038,2019-10-27,DAL,POR,47.83,4,0,10,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:4 Def:5),,119-120,119,120
 0021900038,2019-10-27,DAL,POR,47.85,4,0,9,DAL,DAL,fg_miss,5,True,False,MISS Finney-Smith 3' Layup,,119-120,119,120
-0021900038,2019-10-27,DAL,POR,47.85,4,0,9,POR,POR,reb,0,False,False,,Trail Blazers Rebound,119-120,119,120
 0021900038,2019-10-27,DAL,POR,47.85,4,0,9,DAL,POR,block,5,True,False,block,block,119-120,119,120
+0021900038,2019-10-27,DAL,POR,47.85,4,0,9,POR,POR,reb,0,False,False,,Trail Blazers Rebound,119-120,119,120
 0021900038,2019-10-27,DAL,POR,47.92,4,0,5,,DAL,jump_ball,1,False,False,Jump Ball (CC) Porzingis vs. Hood: Tip to Bazemore,,119-120,119,120
 0021900038,2019-10-27,DAL,POR,47.92,4,0,5,POR,DAL,foul,28,False,False,Brunson Personal Take Foul (P2.PN) (D.Richardson),,119-120,119,120
 0021900038,2019-10-27,DAL,POR,47.92,4,0,5,POR,POR,ft_make,11,False,False,,Bazemore Free Throw 1 of 2 (11 PTS),119-121,119,121

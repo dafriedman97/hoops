@@ -14,8 +14,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901249,2020-08-02,PHX,DAL,1.18,1,10,49,PHX,PHX,fg3_miss,79,False,False,MISS Booker 27' 3PT Pullup Jump Shot,,3-0,3,0
 0021901249,2020-08-02,PHX,DAL,1.23,1,10,46,DAL,DAL,reb,0,False,False,,Finney-Smith REBOUND (Off:0 Def:1),3-0,3,0
 0021901249,2020-08-02,PHX,DAL,1.33,1,10,40,DAL,DAL,fg_miss,5,False,False,,MISS Finney-Smith 2' Layup,3-0,3,0
-0021901249,2020-08-02,PHX,DAL,1.38,1,10,37,DAL,DAL,fg_miss,97,False,False,,MISS Finney-Smith 1' Tip Layup Shot,3-0,3,0
 0021901249,2020-08-02,PHX,DAL,1.38,1,10,37,DAL,DAL,reb,0,False,False,,Finney-Smith REBOUND (Off:1 Def:1),3-0,3,0
+0021901249,2020-08-02,PHX,DAL,1.38,1,10,37,DAL,DAL,fg_miss,97,False,False,,MISS Finney-Smith 1' Tip Layup Shot,3-0,3,0
 0021901249,2020-08-02,PHX,DAL,1.38,1,10,37,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:0 Def:2),,3-0,3,0
 0021901249,2020-08-02,PHX,DAL,1.5,1,10,30,PHX,PHX,fg3_make,79,False,False,Rubio 25' 3PT Pullup Jump Shot (3 PTS) (Bridges 1 AST),,6-0,6,0
 0021901249,2020-08-02,PHX,DAL,1.68,1,10,19,DAL,DAL,fg3_make,1,False,False,,Porzingis 25' 3PT Jump Shot (3 PTS) (Hardaway Jr. 1 AST),6-3,6,3
@@ -102,8 +102,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901249,2020-08-02,PHX,DAL,10.67,1,1,20,PHX,PHX,fg3_miss,1,False,False,MISS Bridges 25' 3PT Jump Shot,,23-31,23,31
 0021901249,2020-08-02,PHX,DAL,10.72,1,1,17,DAL,DAL,reb,0,False,False,,Finney-Smith REBOUND (Off:1 Def:3),23-31,23,31
 0021901249,2020-08-02,PHX,DAL,10.93,1,1,4,DAL,DAL,tov,2,False,True,,Doncic Lost Ball Turnover (P1.T1),23-31,23,31
-0021901249,2020-08-02,PHX,DAL,10.93,1,1,4,PHX,DAL,foul,28,False,False,,Marjanovic Personal Take Foul (P1.T3) (B.Barnaky),23-31,23,31
 0021901249,2020-08-02,PHX,DAL,10.93,1,1,4,DAL,PHX,steal,2,False,True,steal,steal,23-31,23,31
+0021901249,2020-08-02,PHX,DAL,10.93,1,1,4,PHX,DAL,foul,28,False,False,,Marjanovic Personal Take Foul (P1.T3) (B.Barnaky),23-31,23,31
 0021901249,2020-08-02,PHX,DAL,11.12,1,0,53,PHX,PHX,fg3_miss,80,False,False,MISS Saric 25' 3PT Step Back Jump Shot,,23-31,23,31
 0021901249,2020-08-02,PHX,DAL,11.15,1,0,51,DAL,DAL,reb,0,False,False,,Wright REBOUND (Off:0 Def:2),23-31,23,31
 0021901249,2020-08-02,PHX,DAL,11.23,1,0,46,DAL,PHX,foul,2,False,False,Saric S.FOUL (P2.PN) (B.Barnaky),,23-31,23,31
@@ -117,16 +117,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901249,2020-08-02,PHX,DAL,11.85,1,0,9,PHX,PHX,fg_miss,79,False,False,MISS Rubio 17' Pullup Jump Shot,,23-35,23,35
 0021901249,2020-08-02,PHX,DAL,11.88,1,0,7,DAL,DAL,reb,0,False,False,,Doncic REBOUND (Off:0 Def:3),23-35,23,35
 0021901249,2020-08-02,PHX,DAL,12.0,1,0,0,DAL,DAL,tov,1,False,True,,Doncic Bad Pass Turnover (P2.T2),23-35,23,35
+0021901249,2020-08-02,PHX,DAL,12.0,1,0,0,DAL,PHX,steal,1,False,True,steal,steal,23-35,23,35
 0021901249,2020-08-02,PHX,DAL,12.0,1,0,0,DAL,,period_end,0,False,False,,,23-35,23,35
 0021901249,2020-08-02,PHX,DAL,12.0,2,12,0,DAL,,period_start,0,False,False,,,23-35,23,35
-0021901249,2020-08-02,PHX,DAL,12.0,1,0,0,DAL,PHX,steal,1,False,True,steal,steal,23-35,23,35
 0021901249,2020-08-02,PHX,DAL,12.28,2,11,43,PHX,PHX,fg_miss,6,False,False,MISS Carter 4' Driving Layup,,23-35,23,35
 0021901249,2020-08-02,PHX,DAL,12.37,2,11,38,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:2 Def:2),,23-35,23,35
 0021901249,2020-08-02,PHX,DAL,12.37,2,11,38,PHX,PHX,fg_make,87,False,False,Ayton 1' Putback Dunk (4 PTS),,25-35,25,35
 0021901249,2020-08-02,PHX,DAL,12.53,2,11,28,DAL,PHX,foul,1,False,False,Rubio P.FOUL (P2.T1) (K.Scott),,25-35,25,35
 0021901249,2020-08-02,PHX,DAL,12.65,2,11,21,DAL,DAL,fg_miss,5,False,False,,MISS Marjanovic 2' Layup,25-35,25,35
-0021901249,2020-08-02,PHX,DAL,12.73,2,11,16,DAL,DAL,fg_make,72,False,False,,Marjanovic 1' Putback Layup (6 PTS),25-37,25,37
 0021901249,2020-08-02,PHX,DAL,12.73,2,11,16,DAL,DAL,reb,0,False,False,,Marjanovic REBOUND (Off:2 Def:0),25-37,25,37
+0021901249,2020-08-02,PHX,DAL,12.73,2,11,16,DAL,DAL,fg_make,72,False,False,,Marjanovic 1' Putback Layup (6 PTS),25-37,25,37
 0021901249,2020-08-02,PHX,DAL,12.93,2,11,4,PHX,PHX,fg_miss,47,False,False,MISS Bridges 9' Turnaround Jump Shot,,25-37,25,37
 0021901249,2020-08-02,PHX,DAL,12.98,2,11,1,DAL,DAL,reb,0,False,False,,Marjanovic REBOUND (Off:2 Def:1),25-37,25,37
 0021901249,2020-08-02,PHX,DAL,13.18,2,10,49,DAL,DAL,fg_miss,44,False,False,,MISS Burke 2' Reverse Layup,25-37,25,37
@@ -154,8 +154,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901249,2020-08-02,PHX,DAL,15.05,2,8,57,DAL,DAL,fg3_miss,1,False,False,,MISS Kleber 26' 3PT Jump Shot,32-41,32,41
 0021901249,2020-08-02,PHX,DAL,15.13,2,8,52,PHX,PHX,reb,0,False,False,Booker REBOUND (Off:0 Def:2),,32-41,32,41
 0021901249,2020-08-02,PHX,DAL,15.15,2,8,51,PHX,PHX,fg_make,5,False,False,Johnson 2' Layup (10 PTS),,34-41,34,41
-0021901249,2020-08-02,PHX,DAL,15.15,2,8,51,PHX,DAL,violation,2,False,False,,Kleber Violation:Defensive Goaltending (K.Scott),34-41,34,41
 0021901249,2020-08-02,PHX,DAL,15.15,2,8,51,PHX,DAL,foul,2,False,False,,Burke S.FOUL (P1.T2) (K.Scott),34-41,34,41
+0021901249,2020-08-02,PHX,DAL,15.15,2,8,51,PHX,DAL,violation,2,False,False,,Kleber Violation:Defensive Goaltending (K.Scott),34-41,34,41
 0021901249,2020-08-02,PHX,DAL,15.15,2,8,51,PHX,PHX,ft_make,10,False,False,Johnson Free Throw 1 of 1 (11 PTS),,35-41,35,41
 0021901249,2020-08-02,PHX,DAL,15.25,2,8,45,DAL,PHX,foul,2,False,False,Bridges S.FOUL (P1.T4) (K.Scott),,35-41,35,41
 0021901249,2020-08-02,PHX,DAL,15.25,2,8,45,DAL,DAL,ft_make,11,False,False,,Doncic Free Throw 1 of 2 (14 PTS),35-42,35,42
@@ -310,8 +310,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901249,2020-08-02,PHX,DAL,30.12,3,5,53,DAL,DAL,fg3_miss,1,False,False,,MISS Wright 3PT Jump Shot,78-81,78,81
 0021901249,2020-08-02,PHX,DAL,30.15,3,5,51,PHX,PHX,reb,0,False,False,Carter REBOUND (Off:0 Def:2),,78-81,78,81
 0021901249,2020-08-02,PHX,DAL,30.33,3,5,40,PHX,PHX,fg_miss,6,True,False,MISS Rubio 5' Driving Layup,,78-81,78,81
-0021901249,2020-08-02,PHX,DAL,30.33,3,5,40,PHX,PHX,reb,0,False,False,SUNS Rebound,,78-81,78,81
 0021901249,2020-08-02,PHX,DAL,30.33,3,5,40,PHX,DAL,block,6,True,False,block,block,78-81,78,81
+0021901249,2020-08-02,PHX,DAL,30.33,3,5,40,PHX,PHX,reb,0,False,False,SUNS Rebound,,78-81,78,81
 0021901249,2020-08-02,PHX,DAL,30.37,3,5,38,PHX,PHX,fg3_miss,1,False,False,MISS Kaminsky 25' 3PT Jump Shot,,78-81,78,81
 0021901249,2020-08-02,PHX,DAL,30.4,3,5,36,PHX,PHX,reb,0,False,False,Rubio REBOUND (Off:1 Def:4),,78-81,78,81
 0021901249,2020-08-02,PHX,DAL,30.45,3,5,33,PHX,PHX,fg_make,72,False,False,Rubio 2' Putback Layup (18 PTS),,80-81,80,81
@@ -320,8 +320,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901249,2020-08-02,PHX,DAL,30.58,3,5,25,DAL,DAL,reb,1,False,False,,Mavericks Rebound,80-81,80,81
 0021901249,2020-08-02,PHX,DAL,30.58,3,5,25,DAL,DAL,ft_make,12,False,False,,Porzingis Free Throw 2 of 2 (21 PTS),80-82,80,82
 0021901249,2020-08-02,PHX,DAL,30.77,3,5,14,PHX,PHX,fg_miss,6,False,False,MISS Rubio 4' Driving Layup,,80-82,80,82
-0021901249,2020-08-02,PHX,DAL,30.85,3,5,9,PHX,PHX,fg_make,97,False,False,Kaminsky 1' Tip Layup Shot (6 PTS),,82-82,82,82
 0021901249,2020-08-02,PHX,DAL,30.85,3,5,9,PHX,PHX,reb,0,False,False,Kaminsky REBOUND (Off:1 Def:1),,82-82,82,82
+0021901249,2020-08-02,PHX,DAL,30.85,3,5,9,PHX,PHX,fg_make,97,False,False,Kaminsky 1' Tip Layup Shot (6 PTS),,82-82,82,82
 0021901249,2020-08-02,PHX,DAL,31.08,3,4,55,DAL,DAL,fg3_miss,1,False,False,,MISS Wright 26' 3PT Jump Shot,82-82,82,82
 0021901249,2020-08-02,PHX,DAL,31.13,3,4,52,PHX,PHX,reb,0,False,False,Payne REBOUND (Off:0 Def:3),,82-82,82,82
 0021901249,2020-08-02,PHX,DAL,31.27,3,4,44,PHX,DAL,foul,2,False,False,,Wright S.FOUL (P1.T1) (B.Barnaky),82-82,82,82
@@ -341,9 +341,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901249,2020-08-02,PHX,DAL,33.0,3,3,0,DAL,DAL,fg_miss,47,False,False,,MISS Porzingis 11' Turnaround Jump Shot,87-88,87,88
 0021901249,2020-08-02,PHX,DAL,33.05,3,2,57,DAL,DAL,reb,0,False,False,,Kleber REBOUND (Off:3 Def:2),87-88,87,88
 0021901249,2020-08-02,PHX,DAL,33.25,3,2,45,DAL,DAL,fg_miss,101,False,False,,MISS Doncic 12' Driving Floating Jump Shot,87-88,87,88
+0021901249,2020-08-02,PHX,DAL,33.33,3,2,40,DAL,DAL,reb,0,False,False,,Porzingis REBOUND (Off:3 Def:3),87-88,87,88
 0021901249,2020-08-02,PHX,DAL,33.33,3,2,40,DAL,DAL,fg_miss,97,False,False,,MISS Porzingis 1' Tip Layup Shot,87-88,87,88
 0021901249,2020-08-02,PHX,DAL,33.33,3,2,40,PHX,PHX,reb,0,False,False,Johnson REBOUND (Off:0 Def:11),,87-88,87,88
-0021901249,2020-08-02,PHX,DAL,33.33,3,2,40,DAL,DAL,reb,0,False,False,,Porzingis REBOUND (Off:3 Def:3),87-88,87,88
 0021901249,2020-08-02,PHX,DAL,33.42,3,2,35,PHX,PHX,fg_miss,6,True,False,MISS Payne 3' Driving Layup,,87-88,87,88
 0021901249,2020-08-02,PHX,DAL,33.42,3,2,35,PHX,DAL,block,6,True,False,block,block,87-88,87,88
 0021901249,2020-08-02,PHX,DAL,33.48,3,2,31,DAL,DAL,reb,0,False,False,,Wright REBOUND (Off:0 Def:3),87-88,87,88
@@ -419,8 +419,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901249,2020-08-02,PHX,DAL,42.42,4,5,35,DAL,DAL,reb,0,False,False,,Doncic REBOUND (Off:0 Def:7),109-103,109,103
 0021901249,2020-08-02,PHX,DAL,42.58,4,5,25,DAL,PHX,foul,1,False,False,Bridges P.FOUL (P5.T2) (B.Barnaky),,109-103,109,103
 0021901249,2020-08-02,PHX,DAL,42.73,4,5,16,DAL,DAL,tov,2,False,True,,Doncic Lost Ball Turnover (P5.T7),109-103,109,103
-0021901249,2020-08-02,PHX,DAL,42.73,4,5,16,PHX,DAL,foul,28,False,False,,Porzingis Personal Take Foul (P3.T2) (P.Fraher),109-103,109,103
 0021901249,2020-08-02,PHX,DAL,42.73,4,5,16,DAL,PHX,steal,2,False,True,steal,steal,109-103,109,103
+0021901249,2020-08-02,PHX,DAL,42.73,4,5,16,PHX,DAL,foul,28,False,False,,Porzingis Personal Take Foul (P3.T2) (P.Fraher),109-103,109,103
 0021901249,2020-08-02,PHX,DAL,42.97,4,5,2,PHX,PHX,fg3_miss,1,False,False,MISS Bridges 3PT Jump Shot,,109-103,109,103
 0021901249,2020-08-02,PHX,DAL,43.05,4,4,57,DAL,DAL,reb,0,False,False,,Finney-Smith REBOUND (Off:2 Def:7),109-103,109,103
 0021901249,2020-08-02,PHX,DAL,43.1,4,4,54,DAL,DAL,fg3_make,79,False,False,,Finney-Smith 25' 3PT Pullup Jump Shot (5 PTS),109-106,109,106

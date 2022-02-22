@@ -65,9 +65,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000967,2021-05-02,MIL,BKN,7.78,1,4,13,MIL,MIL,fg3_miss,1,False,False,MISS Holiday 24' 3PT Jump Shot,,20-26,20,26
 0022000967,2021-05-02,MIL,BKN,7.83,1,4,10,BKN,BKN,reb,0,False,False,,Durant REBOUND (Off:1 Def:1),20-26,20,26
 0022000967,2021-05-02,MIL,BKN,8.0,1,4,0,BKN,BKN,fg_miss,6,True,False,,MISS Irving 5' Driving Layup,20-26,20,26
+0022000967,2021-05-02,MIL,BKN,8.0,1,4,0,BKN,MIL,block,6,True,False,block,block,20-26,20,26
 0022000967,2021-05-02,MIL,BKN,8.0,1,4,0,MIL,MIL,reb,0,False,False,Holiday REBOUND (Off:1 Def:1),,20-26,20,26
 0022000967,2021-05-02,MIL,BKN,8.0,1,4,0,MIL,MIL,tov,40,False,False,Holiday Out of Bounds Lost Ball Turnover (P1.T2),,20-26,20,26
-0022000967,2021-05-02,MIL,BKN,8.0,1,4,0,BKN,MIL,block,6,True,False,block,block,20-26,20,26
 0022000967,2021-05-02,MIL,BKN,8.08,1,3,55,BKN,BKN,tov,40,False,False,,Durant Out of Bounds Lost Ball Turnover (P3.T3),20-26,20,26
 0022000967,2021-05-02,MIL,BKN,8.33,1,3,40,MIL,BKN,foul,2,False,False,,Durant S.FOUL (P1.T2) (S.Corbin),20-26,20,26
 0022000967,2021-05-02,MIL,BKN,8.33,1,3,40,MIL,MIL,ft_miss,11,False,False,MISS Holiday Free Throw 1 of 2,,20-26,20,26
@@ -108,10 +108,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000967,2021-05-02,MIL,BKN,11.67,1,0,20,MIL,MIL,reb,0,False,False,Connaughton REBOUND (Off:0 Def:1),,25-37,25,37
 0022000967,2021-05-02,MIL,BKN,11.95,1,0,3,MIL,MIL,fg3_make,79,False,False,Middleton 27' 3PT Pullup Jump Shot (12 PTS),,28-37,28,37
 0022000967,2021-05-02,MIL,BKN,12.0,1,0,0,BKN,BKN,fg_miss,101,True,False,,MISS Johnson 14' Driving Floating Jump Shot,28-37,28,37
+0022000967,2021-05-02,MIL,BKN,12.0,1,0,0,BKN,MIL,block,101,True,False,block,block,28-37,28,37
 0022000967,2021-05-02,MIL,BKN,12.0,1,0,0,BKN,BKN,reb,0,False,False,,Nets Rebound,28-37,28,37
 0022000967,2021-05-02,MIL,BKN,12.0,1,0,0,BKN,,period_end,0,False,False,,,28-37,28,37
 0022000967,2021-05-02,MIL,BKN,12.0,2,12,0,BKN,,period_start,0,False,False,,,28-37,28,37
-0022000967,2021-05-02,MIL,BKN,12.0,1,0,0,BKN,MIL,block,101,True,False,block,block,28-37,28,37
 0022000967,2021-05-02,MIL,BKN,12.23,2,11,46,BKN,MIL,foul,1,False,False,Middleton P.FOUL (P2.T1) (J.Goble),,28-37,28,37
 0022000967,2021-05-02,MIL,BKN,12.43,2,11,34,BKN,BKN,fg_miss,6,False,False,,MISS James 4' Driving Layup,28-37,28,37
 0022000967,2021-05-02,MIL,BKN,12.48,2,11,31,BKN,BKN,reb,0,False,False,,Jordan REBOUND (Off:3 Def:1),28-37,28,37
@@ -131,8 +131,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000967,2021-05-02,MIL,BKN,14.12,2,9,53,MIL,BKN,foul,1,False,False,,Griffin P.FOUL (P2.T1) (S.Corbin),30-37,30,37
 0022000967,2021-05-02,MIL,BKN,14.2,2,9,48,MIL,MIL,fg3_make,1,False,False,Antetokounmpo 27' 3PT Jump Shot (11 PTS) (Middleton 2 AST),,33-37,33,37
 0022000967,2021-05-02,MIL,BKN,14.42,2,9,35,BKN,BKN,fg_miss,98,True,False,,MISS Jordan 5' Cutting Layup Shot,33-37,33,37
-0022000967,2021-05-02,MIL,BKN,14.42,2,9,35,BKN,BKN,reb,0,False,False,,Nets Rebound,33-37,33,37
 0022000967,2021-05-02,MIL,BKN,14.42,2,9,35,BKN,MIL,block,98,True,False,block,block,33-37,33,37
+0022000967,2021-05-02,MIL,BKN,14.42,2,9,35,BKN,BKN,reb,0,False,False,,Nets Rebound,33-37,33,37
 0022000967,2021-05-02,MIL,BKN,14.47,2,9,32,BKN,BKN,fg_miss,79,False,False,,MISS Durant 14' Pullup Jump Shot,33-37,33,37
 0022000967,2021-05-02,MIL,BKN,14.5,2,9,30,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:1 Def:2),,33-37,33,37
 0022000967,2021-05-02,MIL,BKN,14.57,2,9,26,MIL,BKN,foul,2,False,False,,Jordan S.FOUL (P1.T2) (D.Richardson),33-37,33,37
@@ -245,8 +245,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000967,2021-05-02,MIL,BKN,26.83,3,9,10,BKN,BKN,fg3_miss,79,False,False,,MISS Irving 29' 3PT Pullup Jump Shot,72-67,72,67
 0022000967,2021-05-02,MIL,BKN,26.9,3,9,6,MIL,MIL,reb,0,False,False,DiVincenzo REBOUND (Off:0 Def:7),,72-67,72,67
 0022000967,2021-05-02,MIL,BKN,27.0,3,9,0,MIL,MIL,fg_miss,6,True,False,MISS Antetokounmpo 7' Driving Layup,,72-67,72,67
-0022000967,2021-05-02,MIL,BKN,27.0,3,9,0,MIL,MIL,reb,0,False,False,BUCKS Rebound,,72-67,72,67
 0022000967,2021-05-02,MIL,BKN,27.0,3,9,0,MIL,BKN,block,6,True,False,block,block,72-67,72,67
+0022000967,2021-05-02,MIL,BKN,27.0,3,9,0,MIL,MIL,reb,0,False,False,BUCKS Rebound,,72-67,72,67
 0022000967,2021-05-02,MIL,BKN,27.07,3,8,56,MIL,MIL,fg3_miss,1,False,False,MISS Lopez 3PT Jump Shot,,72-67,72,67
 0022000967,2021-05-02,MIL,BKN,27.13,3,8,52,BKN,BKN,reb,0,False,False,,Jordan REBOUND (Off:4 Def:6),72-67,72,67
 0022000967,2021-05-02,MIL,BKN,27.22,3,8,47,BKN,BKN,fg3_miss,103,False,False,,MISS Harris 26' 3PT Running Pull-Up Jump Shot,72-67,72,67
@@ -274,8 +274,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000967,2021-05-02,MIL,BKN,30.07,3,5,56,BKN,MIL,steal,2,False,True,steal,steal,78-74,78,74
 0022000967,2021-05-02,MIL,BKN,30.18,3,5,49,MIL,MIL,fg3_make,2,False,False,Forbes 3PT Running Jump Shot (9 PTS) (Antetokounmpo 2 AST),,81-74,81,74
 0022000967,2021-05-02,MIL,BKN,30.42,3,5,35,BKN,BKN,fg_miss,6,True,False,,MISS Shamet 3' Driving Layup,81-74,81,74
-0022000967,2021-05-02,MIL,BKN,30.42,3,5,35,MIL,MIL,reb,0,False,False,BUCKS Rebound,,81-74,81,74
 0022000967,2021-05-02,MIL,BKN,30.42,3,5,35,BKN,MIL,block,6,True,False,block,block,81-74,81,74
+0022000967,2021-05-02,MIL,BKN,30.42,3,5,35,MIL,MIL,reb,0,False,False,BUCKS Rebound,,81-74,81,74
 0022000967,2021-05-02,MIL,BKN,30.43,3,5,34,,MIL,jump_ball,0,False,False,Jump Ball Antetokounmpo vs. Shamet: Tip to Connaughton,,81-74,81,74
 0022000967,2021-05-02,MIL,BKN,30.6,3,5,24,MIL,MIL,fg3_miss,1,False,False,MISS Antetokounmpo 28' 3PT Jump Shot,,81-74,81,74
 0022000967,2021-05-02,MIL,BKN,30.63,3,5,22,BKN,BKN,reb,0,False,False,,Durant REBOUND (Off:2 Def:4),81-74,81,74
@@ -297,8 +297,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000967,2021-05-02,MIL,BKN,32.73,3,3,16,MIL,MIL,reb,0,False,False,Teague REBOUND (Off:0 Def:1),,84-81,84,81
 0022000967,2021-05-02,MIL,BKN,32.92,3,3,5,MIL,MIL,fg_make,43,False,False,Lopez 3' Alley Oop Layup (4 PTS) (Holiday 3 AST),,86-81,86,81
 0022000967,2021-05-02,MIL,BKN,33.05,3,2,57,BKN,BKN,fg_miss,6,True,False,,MISS Irving 4' Driving Layup,86-81,86,81
-0022000967,2021-05-02,MIL,BKN,33.05,3,2,57,MIL,MIL,reb,0,False,False,Lopez REBOUND (Off:1 Def:3),,86-81,86,81
 0022000967,2021-05-02,MIL,BKN,33.05,3,2,57,BKN,MIL,block,6,True,False,block,block,86-81,86,81
+0022000967,2021-05-02,MIL,BKN,33.05,3,2,57,MIL,MIL,reb,0,False,False,Lopez REBOUND (Off:1 Def:3),,86-81,86,81
 0022000967,2021-05-02,MIL,BKN,33.33,3,2,40,MIL,MIL,fg3_miss,80,False,False,MISS Holiday 25' 3PT Step Back Jump Shot,,86-81,86,81
 0022000967,2021-05-02,MIL,BKN,33.38,3,2,37,BKN,BKN,reb,0,False,False,,Irving REBOUND (Off:1 Def:3),86-81,86,81
 0022000967,2021-05-02,MIL,BKN,33.52,3,2,29,BKN,BKN,fg_make,6,False,False,,Shamet 2' Driving Layup (10 PTS),86-83,86,83

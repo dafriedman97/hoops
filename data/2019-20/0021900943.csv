@@ -7,8 +7,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900943,2020-03-07,MEM,ATL,0.9,1,11,6,ATL,ATL,reb,0,False,False,,Collins REBOUND (Off:0 Def:1),2-3,2,3
 0021900943,2020-03-07,MEM,ATL,1.0,1,11,0,ATL,ATL,fg_make,75,False,False,,Collins 2' Driving Finger Roll Layup (2 PTS) (Young 1 AST),2-5,2,5
 0021900943,2020-03-07,MEM,ATL,1.2,1,10,48,MEM,MEM,fg_miss,102,False,False,MISS Morant 1' Driving Floating Bank Jump Shot,,2-5,2,5
-0021900943,2020-03-07,MEM,ATL,1.28,1,10,43,MEM,MEM,fg_make,107,False,False,Valanciunas 1' Tip Dunk Shot (4 PTS),,4-5,4,5
 0021900943,2020-03-07,MEM,ATL,1.28,1,10,43,MEM,MEM,reb,0,False,False,Valanciunas REBOUND (Off:1 Def:0),,4-5,4,5
+0021900943,2020-03-07,MEM,ATL,1.28,1,10,43,MEM,MEM,fg_make,107,False,False,Valanciunas 1' Tip Dunk Shot (4 PTS),,4-5,4,5
 0021900943,2020-03-07,MEM,ATL,1.35,1,10,39,ATL,ATL,tov,2,False,True,,Young Lost Ball Turnover (P1.T1),4-5,4,5
 0021900943,2020-03-07,MEM,ATL,1.35,1,10,39,ATL,MEM,steal,2,False,True,steal,steal,4-5,4,5
 0021900943,2020-03-07,MEM,ATL,1.48,1,10,31,MEM,MEM,fg_make,78,False,False,Valanciunas 1' Floating Jump Shot (6 PTS) (Morant 1 AST),,6-5,6,5
@@ -133,8 +133,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900943,2020-03-07,MEM,ATL,13.42,2,10,35,ATL,ATL,fg_miss,80,False,False,,MISS Reddish 22' Step Back Jump Shot,39-20,39,20
 0021900943,2020-03-07,MEM,ATL,13.48,2,10,31,MEM,MEM,reb,0,False,False,Jackson REBOUND (Off:0 Def:2),,39-20,39,20
 0021900943,2020-03-07,MEM,ATL,13.63,2,10,22,MEM,MEM,fg_miss,58,True,False,MISS Jackson 6' Turnaround Hook Shot,,39-20,39,20
-0021900943,2020-03-07,MEM,ATL,13.63,2,10,22,MEM,MEM,reb,0,False,False,Konchar REBOUND (Off:2 Def:3),,39-20,39,20
 0021900943,2020-03-07,MEM,ATL,13.63,2,10,22,MEM,ATL,block,58,True,False,block,block,39-20,39,20
+0021900943,2020-03-07,MEM,ATL,13.63,2,10,22,MEM,MEM,reb,0,False,False,Konchar REBOUND (Off:2 Def:3),,39-20,39,20
 0021900943,2020-03-07,MEM,ATL,13.72,2,10,17,MEM,ATL,foul,1,False,False,,Carter P.FOUL (P1.T2) (K.Scott),39-20,39,20
 0021900943,2020-03-07,MEM,ATL,13.92,2,10,5,MEM,MEM,tov,4,False,False,Morant Traveling Turnover (P2.T4),,39-20,39,20
 0021900943,2020-03-07,MEM,ATL,14.13,2,9,52,ATL,ATL,fg_miss,79,False,False,,MISS Huerter 17' Pullup Jump Shot,39-20,39,20
@@ -324,14 +324,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900943,2020-03-07,MEM,ATL,32.03,3,3,58,ATL,ATL,fg3_miss,2,False,False,,MISS Carter 26' 3PT Running Jump Shot,89-67,89,67
 0021900943,2020-03-07,MEM,ATL,32.1,3,3,54,MEM,MEM,reb,0,False,False,Dieng REBOUND (Off:1 Def:3),,89-67,89,67
 0021900943,2020-03-07,MEM,ATL,32.23,3,3,46,MEM,MEM,fg_miss,98,True,False,MISS Jackson 1' Cutting Layup Shot,,89-67,89,67
+0021900943,2020-03-07,MEM,ATL,32.23,3,3,46,MEM,ATL,block,98,True,False,block,block,89-67,89,67
 0021900943,2020-03-07,MEM,ATL,32.23,3,3,46,ATL,ATL,reb,0,False,False,,Fernando REBOUND (Off:0 Def:3),89-67,89,67
 0021900943,2020-03-07,MEM,ATL,32.23,3,3,46,ATL,MEM,foul,11,False,False,Jackson T.FOUL (P0.T4) (R.Mott),,89-67,89,67
-0021900943,2020-03-07,MEM,ATL,32.23,3,3,46,MEM,ATL,block,98,True,False,block,block,89-67,89,67
 0021900943,2020-03-07,MEM,ATL,32.23,3,3,46,ATL,ATL,ft_make,16,False,False,,Collins Free Throw Technical (18 PTS),89-68,89,68
 0021900943,2020-03-07,MEM,ATL,32.53,3,3,28,ATL,ATL,fg_miss,5,True,False,,MISS Collins 7' Layup,89-68,89,68
 0021900943,2020-03-07,MEM,ATL,32.53,3,3,28,ATL,MEM,block,5,True,False,block,block,89-68,89,68
-0021900943,2020-03-07,MEM,ATL,32.57,3,3,26,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,89-68,89,68
 0021900943,2020-03-07,MEM,ATL,32.57,3,3,26,,MEM,jump_ball,0,False,False,Jump Ball Valanciunas vs. Collins: Tip to Jones,,89-68,89,68
+0021900943,2020-03-07,MEM,ATL,32.57,3,3,26,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,89-68,89,68
 0021900943,2020-03-07,MEM,ATL,32.92,3,3,5,MEM,MEM,fg3_miss,80,False,False,MISS Jackson 26' 3PT Step Back Jump Shot,,89-68,89,68
 0021900943,2020-03-07,MEM,ATL,32.98,3,3,1,ATL,ATL,reb,0,False,False,,Teague REBOUND (Off:0 Def:2),89-68,89,68
 0021900943,2020-03-07,MEM,ATL,33.05,3,2,57,ATL,ATL,fg3_miss,2,False,False,,MISS Goodwin 25' 3PT Running Jump Shot,89-68,89,68
@@ -370,8 +370,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900943,2020-03-07,MEM,ATL,36.6,4,11,24,MEM,MEM,fg_make,101,False,False,Jones 13' Driving Floating Jump Shot (6 PTS),,97-78,97,78
 0021900943,2020-03-07,MEM,ATL,36.77,4,11,14,ATL,ATL,tov,45,False,False,,Young Out of Bounds - Bad Pass Turnover Turnover (P5.T11),97-78,97,78
 0021900943,2020-03-07,MEM,ATL,37.13,4,10,52,MEM,MEM,fg_miss,80,False,False,MISS Jackson 10' Step Back Jump Shot,,97-78,97,78
-0021900943,2020-03-07,MEM,ATL,37.2,4,10,48,MEM,MEM,fg_miss,97,False,False,MISS Konchar 1' Tip Layup Shot,,97-78,97,78
 0021900943,2020-03-07,MEM,ATL,37.2,4,10,48,MEM,MEM,reb,0,False,False,Konchar REBOUND (Off:3 Def:6),,97-78,97,78
+0021900943,2020-03-07,MEM,ATL,37.2,4,10,48,MEM,MEM,fg_miss,97,False,False,MISS Konchar 1' Tip Layup Shot,,97-78,97,78
 0021900943,2020-03-07,MEM,ATL,37.22,4,10,47,ATL,ATL,reb,0,False,False,,Hunter REBOUND (Off:2 Def:2),97-78,97,78
 0021900943,2020-03-07,MEM,ATL,37.4,4,10,36,ATL,MEM,foul,1,False,False,Jones P.FOUL (P2.T1) (K.Scott),,97-78,97,78
 0021900943,2020-03-07,MEM,ATL,37.53,4,10,28,ATL,ATL,fg_miss,79,False,False,,MISS Hunter 12' Pullup Jump Shot,97-78,97,78

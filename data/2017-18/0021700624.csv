@@ -15,8 +15,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700624,2018-01-12,NOP,POR,1.18,1,10,49,POR,POR,fg3_miss,1,False,False,,MISS Lillard 25' 3PT Jump Shot,2-0,2,0
 0021700624,2018-01-12,NOP,POR,1.23,1,10,46,NOP,NOP,reb,0,False,False,Cousins REBOUND (Off:1 Def:1),,2-0,2,0
 0021700624,2018-01-12,NOP,POR,1.3,1,10,42,NOP,NOP,fg_miss,5,True,False,MISS Rondo 2' Layup,,2-0,2,0
-0021700624,2018-01-12,NOP,POR,1.3,1,10,42,NOP,NOP,reb,0,False,False,PELICANS Rebound,,2-0,2,0
 0021700624,2018-01-12,NOP,POR,1.3,1,10,42,NOP,POR,block,5,True,False,block,block,2-0,2,0
+0021700624,2018-01-12,NOP,POR,1.3,1,10,42,NOP,NOP,reb,0,False,False,PELICANS Rebound,,2-0,2,0
 0021700624,2018-01-12,NOP,POR,1.35,1,10,39,NOP,NOP,fg3_make,1,False,False,Cousins 25' 3PT Jump Shot (3 PTS) (Rondo 1 AST),,5-0,5,0
 0021700624,2018-01-12,NOP,POR,1.77,1,10,14,POR,POR,fg3_make,1,False,False,,Aminu 27' 3PT Jump Shot (3 PTS) (McCollum 1 AST),5-3,5,3
 0021700624,2018-01-12,NOP,POR,1.92,1,10,5,NOP,NOP,fg_miss,5,False,False,MISS Davis 1' Layup,,5-3,5,3
@@ -98,8 +98,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700624,2018-01-12,NOP,POR,11.0,1,1,0,POR,POR,fg_make,5,False,False,,Davis 5' Layup (2 PTS) (Harkless 1 AST),27-23,27,23
 0021700624,2018-01-12,NOP,POR,11.17,1,0,50,NOP,NOP,fg_make,79,False,False,Miller 22' Pullup Jump Shot (5 PTS) (Holiday 2 AST),,29-23,29,23
 0021700624,2018-01-12,NOP,POR,11.42,1,0,35,POR,POR,fg_miss,6,True,False,,MISS McCollum 3' Driving Layup,29-23,29,23
-0021700624,2018-01-12,NOP,POR,11.42,1,0,35,POR,POR,reb,0,False,False,,Trail Blazers Rebound,29-23,29,23
 0021700624,2018-01-12,NOP,POR,11.42,1,0,35,POR,NOP,block,6,True,False,block,block,29-23,29,23
+0021700624,2018-01-12,NOP,POR,11.42,1,0,35,POR,POR,reb,0,False,False,,Trail Blazers Rebound,29-23,29,23
 0021700624,2018-01-12,NOP,POR,11.52,1,0,29,POR,POR,fg_make,73,False,False,,McCollum 2' Driving Reverse Layup (4 PTS),29-25,29,25
 0021700624,2018-01-12,NOP,POR,11.85,1,0,9,NOP,NOP,fg_make,98,False,False,Clark 2' Cutting Layup Shot (2 PTS) (Davis 1 AST),,31-25,31,25
 0021700624,2018-01-12,NOP,POR,12.0,1,0,0,NOP,,period_end,0,False,False,,,31-25,31,25
@@ -216,8 +216,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700624,2018-01-12,NOP,POR,25.35,3,10,39,NOP,NOP,reb,0,False,False,PELICANS Rebound,,63-67,63,67
 0021700624,2018-01-12,NOP,POR,25.35,3,10,39,NOP,POR,foul,3,False,False,,McCollum L.B.FOUL (P1.T1) (M.Ervin),63-67,63,67
 0021700624,2018-01-12,NOP,POR,25.58,3,10,25,NOP,NOP,fg_miss,6,True,False,MISS Cousins 1' Driving Layup,,63-67,63,67
-0021700624,2018-01-12,NOP,POR,25.58,3,10,25,POR,POR,reb,0,False,False,,Trail Blazers Rebound,63-67,63,67
 0021700624,2018-01-12,NOP,POR,25.58,3,10,25,NOP,POR,block,6,True,False,block,block,63-67,63,67
+0021700624,2018-01-12,NOP,POR,25.58,3,10,25,POR,POR,reb,0,False,False,,Trail Blazers Rebound,63-67,63,67
 0021700624,2018-01-12,NOP,POR,25.78,3,10,13,POR,POR,fg3_miss,1,False,False,,MISS McCollum 26' 3PT Jump Shot,63-67,63,67
 0021700624,2018-01-12,NOP,POR,25.83,3,10,10,POR,POR,reb,0,False,False,,Napier REBOUND (Off:1 Def:2),63-67,63,67
 0021700624,2018-01-12,NOP,POR,25.87,3,10,8,POR,POR,fg3_miss,1,False,False,,MISS Lillard 25' 3PT Jump Shot,63-67,63,67
@@ -343,8 +343,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700624,2018-01-12,NOP,POR,38.52,4,9,29,NOP,NOP,reb,0,False,False,Davis REBOUND (Off:4 Def:3),,94-90,94,90
 0021700624,2018-01-12,NOP,POR,38.52,4,9,29,NOP,NOP,fg_make,72,False,False,Davis 1' Putback Layup (25 PTS),,96-90,96,90
 0021700624,2018-01-12,NOP,POR,38.9,4,9,6,POR,POR,fg3_miss,1,True,False,,MISS McCollum 24' 3PT Jump Shot,96-90,96,90
-0021700624,2018-01-12,NOP,POR,38.9,4,9,6,NOP,NOP,reb,0,False,False,Davis REBOUND (Off:4 Def:4),,96-90,96,90
 0021700624,2018-01-12,NOP,POR,38.9,4,9,6,POR,NOP,block,1,True,False,block,block,96-90,96,90
+0021700624,2018-01-12,NOP,POR,38.9,4,9,6,NOP,NOP,reb,0,False,False,Davis REBOUND (Off:4 Def:4),,96-90,96,90
 0021700624,2018-01-12,NOP,POR,39.15,4,8,51,NOP,NOP,fg_miss,103,False,False,MISS Clark 8' Running Pull-Up Jump Shot,,96-90,96,90
 0021700624,2018-01-12,NOP,POR,39.15,4,8,51,POR,POR,reb,0,False,False,,Harkless REBOUND (Off:1 Def:2),96-90,96,90
 0021700624,2018-01-12,NOP,POR,39.42,4,8,35,POR,POR,fg3_make,1,False,False,,Napier 3PT Jump Shot (13 PTS) (Davis 1 AST),96-93,96,93

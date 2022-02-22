@@ -54,8 +54,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900660,2020-01-22,TOR,PHI,6.75,1,5,15,PHI,PHI,fg3_miss,2,False,False,,MISS Harris 26' 3PT Running Jump Shot,15-21,15,21
 0021900660,2020-01-22,TOR,PHI,6.8,1,5,12,TOR,TOR,reb,0,False,False,Siakam REBOUND (Off:0 Def:2),,15-21,15,21
 0021900660,2020-01-22,TOR,PHI,6.93,1,5,4,TOR,TOR,tov,1,False,True,VanVleet Bad Pass Turnover (P2.T2),,15-21,15,21
-0021900660,2020-01-22,TOR,PHI,6.93,1,5,4,PHI,TOR,foul,1,False,False,VanVleet P.FOUL (P1.T1) (M.Lindsay),,15-21,15,21
 0021900660,2020-01-22,TOR,PHI,6.93,1,5,4,TOR,PHI,steal,1,False,True,steal,steal,15-21,15,21
+0021900660,2020-01-22,TOR,PHI,6.93,1,5,4,PHI,TOR,foul,1,False,False,VanVleet P.FOUL (P1.T1) (M.Lindsay),,15-21,15,21
 0021900660,2020-01-22,TOR,PHI,7.32,1,4,41,PHI,PHI,fg3_make,1,False,False,,Korkmaz 27' 3PT Jump Shot (6 PTS) (Milton 1 AST),15-24,15,24
 0021900660,2020-01-22,TOR,PHI,7.45,1,4,33,TOR,TOR,timeout,1,False,False,RAPTORS Timeout: Regular (Full 1 Short 0),,15-24,15,24
 0021900660,2020-01-22,TOR,PHI,7.6,1,4,24,TOR,TOR,fg_miss,1,True,False,MISS Ibaka 17' Jump Shot,,15-24,15,24
@@ -119,8 +119,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900660,2020-01-22,TOR,PHI,12.82,2,11,11,PHI,PHI,fg_miss,101,False,False,,MISS Milton 10' Driving Floating Jump Shot,28-35,28,35
 0021900660,2020-01-22,TOR,PHI,12.85,2,11,9,PHI,PHI,reb,0,False,False,,Milton REBOUND (Off:1 Def:1),28-35,28,35
 0021900660,2020-01-22,TOR,PHI,12.88,2,11,7,PHI,PHI,fg3_miss,1,False,False,,MISS Ennis III 3PT Jump Shot,28-35,28,35
-0021900660,2020-01-22,TOR,PHI,12.88,2,11,7,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,28-35,28,35
 0021900660,2020-01-22,TOR,PHI,12.88,2,11,7,TOR,TOR,timeout,1,False,False,RAPTORS Timeout: Regular (Full 2 Short 0),,28-35,28,35
+0021900660,2020-01-22,TOR,PHI,12.88,2,11,7,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,28-35,28,35
 0021900660,2020-01-22,TOR,PHI,12.93,2,11,4,,TOR,jump_ball,0,False,False,Jump Ball Ibaka vs. Pelle: Tip to Hollis-Jefferson,,28-35,28,35
 0021900660,2020-01-22,TOR,PHI,13.18,2,10,49,TOR,TOR,fg_make,58,False,False,Ibaka 6' Turnaround Hook Shot (5 PTS) (VanVleet 3 AST),,30-35,30,35
 0021900660,2020-01-22,TOR,PHI,13.55,2,10,27,PHI,PHI,fg_miss,57,False,False,,MISS Scott 11' Driving Hook Shot,30-35,30,35
@@ -154,8 +154,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900660,2020-01-22,TOR,PHI,17.08,2,6,55,PHI,PHI,fg_miss,3,False,False,,MISS Simmons 4' Hook Shot,35-42,35,42
 0021900660,2020-01-22,TOR,PHI,17.12,2,6,53,TOR,TOR,reb,0,False,False,Davis REBOUND (Off:0 Def:3),,35-42,35,42
 0021900660,2020-01-22,TOR,PHI,17.17,2,6,50,TOR,TOR,fg_miss,41,True,False,MISS Davis 4' Running Layup,,35-42,35,42
-0021900660,2020-01-22,TOR,PHI,17.17,2,6,50,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,35-42,35,42
 0021900660,2020-01-22,TOR,PHI,17.17,2,6,50,TOR,PHI,block,41,True,False,block,block,35-42,35,42
+0021900660,2020-01-22,TOR,PHI,17.17,2,6,50,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,35-42,35,42
 0021900660,2020-01-22,TOR,PHI,17.32,2,6,41,TOR,TOR,fg_make,9,False,False,Powell Driving Dunk (4 PTS),,37-42,37,42
 0021900660,2020-01-22,TOR,PHI,17.65,2,6,21,PHI,PHI,fg3_miss,1,False,False,,MISS Korkmaz 27' 3PT Jump Shot,37-42,37,42
 0021900660,2020-01-22,TOR,PHI,17.68,2,6,19,TOR,TOR,reb,0,False,False,Siakam REBOUND (Off:0 Def:4),,37-42,37,42
@@ -348,8 +348,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900660,2020-01-22,TOR,PHI,38.3,4,9,42,PHI,PHI,reb,0,False,False,,Pelle REBOUND (Off:1 Def:3),81-75,81,75
 0021900660,2020-01-22,TOR,PHI,38.35,4,9,39,PHI,PHI,fg3_make,2,False,False,,Scott 24' 3PT Running Jump Shot (6 PTS) (Neto 2 AST),81-78,81,78
 0021900660,2020-01-22,TOR,PHI,38.65,4,9,21,TOR,TOR,fg_miss,5,True,False,MISS Hollis-Jefferson 2' Layup,,81-78,81,78
-0021900660,2020-01-22,TOR,PHI,38.65,4,9,21,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,81-78,81,78
 0021900660,2020-01-22,TOR,PHI,38.65,4,9,21,TOR,PHI,block,5,True,False,block,block,81-78,81,78
+0021900660,2020-01-22,TOR,PHI,38.65,4,9,21,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,81-78,81,78
 0021900660,2020-01-22,TOR,PHI,38.72,4,9,17,TOR,TOR,fg3_make,1,False,False,VanVleet 25' 3PT Jump Shot (16 PTS) (Davis 3 AST),,84-78,84,78
 0021900660,2020-01-22,TOR,PHI,39.2,4,8,48,PHI,PHI,fg_miss,47,False,False,,MISS Milton 9' Turnaround Jump Shot,84-78,84,78
 0021900660,2020-01-22,TOR,PHI,39.25,4,8,45,TOR,TOR,reb,0,False,False,VanVleet REBOUND (Off:2 Def:3),,84-78,84,78

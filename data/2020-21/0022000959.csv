@@ -4,8 +4,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000959,2021-05-01,ATL,CHI,0.25,1,11,45,ATL,ATL,fg3_miss,1,False,False,MISS Bogdanovic 26' 3PT Jump Shot,,0-0,0,0
 0022000959,2021-05-01,ATL,CHI,0.32,1,11,41,CHI,CHI,reb,0,False,False,,Theis REBOUND (Off:0 Def:1),0-0,0,0
 0022000959,2021-05-01,ATL,CHI,0.52,1,11,29,CHI,CHI,fg_miss,6,True,False,,MISS Williams 5' Driving Layup,0-0,0,0
-0022000959,2021-05-01,ATL,CHI,0.52,1,11,29,CHI,CHI,reb,0,False,False,,Bulls Rebound,0-0,0,0
 0022000959,2021-05-01,ATL,CHI,0.52,1,11,29,CHI,ATL,block,6,True,False,block,block,0-0,0,0
+0022000959,2021-05-01,ATL,CHI,0.52,1,11,29,CHI,CHI,reb,0,False,False,,Bulls Rebound,0-0,0,0
 0022000959,2021-05-01,ATL,CHI,0.55,1,11,27,CHI,CHI,fg_make,6,False,False,,White 1' Driving Layup (2 PTS) (Temple 1 AST),0-2,0,2
 0022000959,2021-05-01,ATL,CHI,0.55,1,11,27,CHI,ATL,foul,2,False,False,Young S.FOUL (P1.T1) (K.Fitzgerald),,0-2,0,2
 0022000959,2021-05-01,ATL,CHI,0.55,1,11,27,CHI,CHI,ft_make,10,False,False,,White Free Throw 1 of 1 (3 PTS),0-3,0,3
@@ -196,8 +196,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000959,2021-05-01,ATL,CHI,21.93,2,2,4,CHI,CHI,ft_miss,12,False,False,,MISS Temple Free Throw 2 of 2,52-55,52,55
 0022000959,2021-05-01,ATL,CHI,21.97,2,2,2,ATL,ATL,reb,0,False,False,Huerter REBOUND (Off:0 Def:2),,52-55,52,55
 0022000959,2021-05-01,ATL,CHI,22.15,2,1,51,ATL,ATL,fg3_miss,1,False,False,MISS Huerter 25' 3PT Jump Shot,,52-55,52,55
-0022000959,2021-05-01,ATL,CHI,22.27,2,1,44,ATL,ATL,fg_make,72,False,False,Okongwu Putback Layup (4 PTS),,54-55,54,55
 0022000959,2021-05-01,ATL,CHI,22.27,2,1,44,ATL,ATL,reb,0,False,False,Okongwu REBOUND (Off:1 Def:1),,54-55,54,55
+0022000959,2021-05-01,ATL,CHI,22.27,2,1,44,ATL,ATL,fg_make,72,False,False,Okongwu Putback Layup (4 PTS),,54-55,54,55
 0022000959,2021-05-01,ATL,CHI,22.53,2,1,28,CHI,CHI,fg_make,108,False,False,,Theis 1' Cutting Dunk Shot (5 PTS) (Young 5 AST),54-57,54,57
 0022000959,2021-05-01,ATL,CHI,22.92,2,1,5,ATL,ATL,fg_miss,80,False,False,MISS Bogdanovic 15' Step Back Jump Shot,,54-57,54,57
 0022000959,2021-05-01,ATL,CHI,22.97,2,1,2,CHI,CHI,reb,0,False,False,,Young REBOUND (Off:2 Def:2),54-57,54,57
@@ -341,8 +341,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000959,2021-05-01,ATL,CHI,38.67,4,9,20,CHI,CHI,tov,1,False,True,,Arcidiacono Bad Pass Turnover (P1.T11),88-79,88,79
 0022000959,2021-05-01,ATL,CHI,38.67,4,9,20,CHI,ATL,steal,1,False,True,steal,steal,88-79,88,79
 0022000959,2021-05-01,ATL,CHI,38.97,4,9,2,ATL,ATL,tov,2,False,True,Huerter Lost Ball Turnover (P1.T13),,88-79,88,79
-0022000959,2021-05-01,ATL,CHI,38.97,4,9,2,CHI,ATL,foul,1,False,False,Huerter P.FOUL (P3.T2) (D.Mosher),,88-79,88,79
 0022000959,2021-05-01,ATL,CHI,38.97,4,9,2,ATL,CHI,steal,2,False,True,steal,steal,88-79,88,79
+0022000959,2021-05-01,ATL,CHI,38.97,4,9,2,CHI,ATL,foul,1,False,False,Huerter P.FOUL (P3.T2) (D.Mosher),,88-79,88,79
 0022000959,2021-05-01,ATL,CHI,39.18,4,8,49,CHI,CHI,fg_make,79,False,False,,Williams 18' Pullup Jump Shot (17 PTS) (Young 7 AST),88-81,88,81
 0022000959,2021-05-01,ATL,CHI,39.38,4,8,37,ATL,CHI,foul,1,False,False,,Satoransky P.FOUL (P3.T1) (K.Fitzgerald),88-81,88,81
 0022000959,2021-05-01,ATL,CHI,39.55,4,8,27,ATL,ATL,fg_make,98,False,False,Capela 1' Cutting Layup Shot (18 PTS) (Bogdanovic 5 AST),,90-81,90,81
@@ -395,10 +395,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000959,2021-05-01,ATL,CHI,46.48,4,1,31,ATL,ATL,fg3_miss,1,False,False,MISS Young 30' 3PT Jump Shot,,105-95,105,95
 0022000959,2021-05-01,ATL,CHI,46.58,4,1,25,CHI,CHI,reb,0,False,False,,Temple REBOUND (Off:0 Def:1),105-95,105,95
 0022000959,2021-05-01,ATL,CHI,46.58,4,1,25,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.6 Short 0),105-95,105,95
-0022000959,2021-05-01,ATL,CHI,46.65,4,1,21,CHI,CHI,fg_miss,6,True,False,,MISS White 2' Driving Layup,105-95,105,95
-0022000959,2021-05-01,ATL,CHI,46.65,4,1,21,CHI,CHI,reb,0,False,False,,Bulls Rebound,105-95,105,95
 0022000959,2021-05-01,ATL,CHI,46.65,4,1,21,ATL,ATL,timeout,7,False,False,HAWKS Timeout: Coach Challenge (Full 5 Short 0),,105-95,105,95
+0022000959,2021-05-01,ATL,CHI,46.65,4,1,21,CHI,CHI,fg_miss,6,True,False,,MISS White 2' Driving Layup,105-95,105,95
 0022000959,2021-05-01,ATL,CHI,46.65,4,1,21,CHI,ATL,block,6,True,False,block,block,105-95,105,95
+0022000959,2021-05-01,ATL,CHI,46.65,4,1,21,CHI,CHI,reb,0,False,False,,Bulls Rebound,105-95,105,95
 0022000959,2021-05-01,ATL,CHI,46.77,4,1,14,,ATL,jump_ball,0,False,False,Jump Ball Collins vs. Theis: Tip to Young,,105-95,105,95
 0022000959,2021-05-01,ATL,CHI,46.85,4,1,9,CHI,CHI,fg_miss,6,False,False,,MISS White 2' Driving Layup,105-95,105,95
 0022000959,2021-05-01,ATL,CHI,46.95,4,1,3,ATL,ATL,reb,0,False,False,Gallinari REBOUND (Off:0 Def:4),,105-95,105,95

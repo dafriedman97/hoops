@@ -145,8 +145,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000615,2021-03-16,LAL,MIN,16.22,2,7,47,LAL,LAL,ft_make,10,False,False,Horton-Tucker Free Throw 1 of 1 (7 PTS),,46-41,46,41
 0022000615,2021-03-16,LAL,MIN,16.5,2,7,30,MIN,MIN,fg_make,79,False,False,,Nowell 10' Pullup Jump Shot (7 PTS) (Towns 2 AST),46-43,46,43
 0022000615,2021-03-16,LAL,MIN,16.6,2,7,24,LAL,LAL,fg_miss,5,True,False,MISS Kuzma 3' Layup,,46-43,46,43
-0022000615,2021-03-16,LAL,MIN,16.6,2,7,24,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,46-43,46,43
 0022000615,2021-03-16,LAL,MIN,16.6,2,7,24,LAL,MIN,block,5,True,False,block,block,46-43,46,43
+0022000615,2021-03-16,LAL,MIN,16.6,2,7,24,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,46-43,46,43
 0022000615,2021-03-16,LAL,MIN,16.8,2,7,12,MIN,MIN,fg_make,101,False,False,,Edwards 3' Driving Floating Jump Shot (8 PTS),46-45,46,45
 0022000615,2021-03-16,LAL,MIN,17.22,2,6,47,LAL,LAL,fg_miss,86,False,False,MISS Kuzma 18' Turnaround Fadeaway Shot,,46-45,46,45
 0022000615,2021-03-16,LAL,MIN,17.27,2,6,44,MIN,MIN,reb,0,False,False,,Hernangomez REBOUND (Off:0 Def:1),46-45,46,45
@@ -245,18 +245,18 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000615,2021-03-16,LAL,MIN,27.73,3,8,16,MIN,MIN,fg_miss,6,False,False,,MISS Vanderbilt 3' Driving Layup,79-82,79,82
 0022000615,2021-03-16,LAL,MIN,27.75,3,8,15,LAL,LAL,reb,0,False,False,Caldwell-Pope REBOUND (Off:0 Def:1),,79-82,79,82
 0022000615,2021-03-16,LAL,MIN,27.83,3,8,10,LAL,LAL,fg_miss,41,True,False,MISS James 3' Running Layup,,79-82,79,82
-0022000615,2021-03-16,LAL,MIN,27.83,3,8,10,LAL,LAL,reb,0,False,False,LAKERS Rebound,,79-82,79,82
 0022000615,2021-03-16,LAL,MIN,27.83,3,8,10,LAL,MIN,block,41,True,False,block,block,79-82,79,82
+0022000615,2021-03-16,LAL,MIN,27.83,3,8,10,LAL,LAL,reb,0,False,False,LAKERS Rebound,,79-82,79,82
 0022000615,2021-03-16,LAL,MIN,27.92,3,8,5,LAL,LAL,fg_miss,5,True,False,MISS Morris 4' Layup,,79-82,79,82
-0022000615,2021-03-16,LAL,MIN,27.92,3,8,5,MIN,MIN,reb,0,False,False,,Layman REBOUND (Off:0 Def:1),79-82,79,82
 0022000615,2021-03-16,LAL,MIN,27.92,3,8,5,LAL,MIN,block,5,True,False,block,block,79-82,79,82
+0022000615,2021-03-16,LAL,MIN,27.92,3,8,5,MIN,MIN,reb,0,False,False,,Layman REBOUND (Off:0 Def:1),79-82,79,82
 0022000615,2021-03-16,LAL,MIN,27.98,3,8,1,MIN,MIN,fg_make,41,False,False,,Layman 3' Running Layup (4 PTS),79-84,79,84
 0022000615,2021-03-16,LAL,MIN,27.98,3,8,1,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 3 Short 0),,79-84,79,84
 0022000615,2021-03-16,LAL,MIN,28.38,3,7,37,LAL,LAL,fg_miss,79,False,False,MISS Morris 14' Pullup Jump Shot,,79-84,79,84
 0022000615,2021-03-16,LAL,MIN,28.43,3,7,34,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:1 Def:4),79-84,79,84
 0022000615,2021-03-16,LAL,MIN,28.58,3,7,25,MIN,MIN,fg_miss,108,True,False,,MISS Layman 4' Cutting Dunk Shot,79-84,79,84
-0022000615,2021-03-16,LAL,MIN,28.58,3,7,25,LAL,LAL,reb,0,False,False,LAKERS Rebound,,79-84,79,84
 0022000615,2021-03-16,LAL,MIN,28.58,3,7,25,MIN,LAL,block,108,True,False,block,block,79-84,79,84
+0022000615,2021-03-16,LAL,MIN,28.58,3,7,25,LAL,LAL,reb,0,False,False,LAKERS Rebound,,79-84,79,84
 0022000615,2021-03-16,LAL,MIN,28.8,3,7,12,LAL,LAL,fg3_make,1,False,False,James 27' 3PT Jump Shot (16 PTS) (Caldwell-Pope 4 AST),,82-84,82,84
 0022000615,2021-03-16,LAL,MIN,29.0,3,7,0,MIN,LAL,violation,5,False,False,James Violation:Kicked Ball (E.Lewis),,82-84,82,84
 0022000615,2021-03-16,LAL,MIN,29.07,3,6,56,MIN,LAL,foul,1,False,False,Jones P.FOUL (P3.T1) (E.Lewis),,82-84,82,84
@@ -301,8 +301,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000615,2021-03-16,LAL,MIN,33.53,3,2,28,LAL,LAL,fg_miss,1,False,False,MISS Harrell 14' Jump Shot,,94-87,94,87
 0022000615,2021-03-16,LAL,MIN,33.6,3,2,24,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:1 Def:1),,94-87,94,87
 0022000615,2021-03-16,LAL,MIN,33.62,3,2,23,LAL,LAL,fg_miss,72,True,False,MISS Kuzma 3' Putback Layup,,94-87,94,87
-0022000615,2021-03-16,LAL,MIN,33.62,3,2,23,MIN,MIN,reb,0,False,False,,Okogie REBOUND (Off:0 Def:2),94-87,94,87
 0022000615,2021-03-16,LAL,MIN,33.62,3,2,23,LAL,MIN,block,72,True,False,block,block,94-87,94,87
+0022000615,2021-03-16,LAL,MIN,33.62,3,2,23,MIN,MIN,reb,0,False,False,,Okogie REBOUND (Off:0 Def:2),94-87,94,87
 0022000615,2021-03-16,LAL,MIN,33.77,3,2,14,MIN,LAL,foul,1,False,False,Matthews P.FOUL (P2.PN) (J.Butler),,94-87,94,87
 0022000615,2021-03-16,LAL,MIN,33.77,3,2,14,MIN,MIN,ft_make,11,False,False,,Towns Free Throw 1 of 2 (21 PTS),94-88,94,88
 0022000615,2021-03-16,LAL,MIN,33.77,3,2,14,MIN,MIN,ft_make,12,False,False,,Towns Free Throw 2 of 2 (22 PTS),94-89,94,89
@@ -334,8 +334,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000615,2021-03-16,LAL,MIN,36.23,4,11,46,LAL,MIN,foul,2,False,False,,Reid S.FOUL (P2.T1) (J.Butler),104-94,104,94
 0022000615,2021-03-16,LAL,MIN,36.23,4,11,46,LAL,LAL,ft_make,10,False,False,Horton-Tucker Free Throw 1 of 1 (14 PTS),,105-94,105,94
 0022000615,2021-03-16,LAL,MIN,36.48,4,11,31,MIN,MIN,fg_miss,98,True,False,,MISS Reid 4' Cutting Layup Shot,105-94,105,94
-0022000615,2021-03-16,LAL,MIN,36.48,4,11,31,LAL,LAL,reb,0,False,False,LAKERS Rebound,,105-94,105,94
 0022000615,2021-03-16,LAL,MIN,36.48,4,11,31,MIN,LAL,block,98,True,False,block,block,105-94,105,94
+0022000615,2021-03-16,LAL,MIN,36.48,4,11,31,LAL,LAL,reb,0,False,False,LAKERS Rebound,,105-94,105,94
 0022000615,2021-03-16,LAL,MIN,36.88,4,11,7,LAL,LAL,tov,11,False,False,LAKERS Turnover: Shot Clock (T#12),,105-94,105,94
 0022000615,2021-03-16,LAL,MIN,37.22,4,10,47,MIN,MIN,fg_miss,6,False,False,,MISS Edwards 4' Driving Layup,105-94,105,94
 0022000615,2021-03-16,LAL,MIN,37.32,4,10,41,MIN,MIN,reb,0,False,False,,Reid REBOUND (Off:2 Def:1),105-94,105,94

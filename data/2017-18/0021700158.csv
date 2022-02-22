@@ -50,8 +50,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700158,2017-11-07,SAC,OKC,5.25,1,6,45,SAC,SAC,fg3_miss,1,False,False,MISS Bogdanovic 25' 3PT Jump Shot,,0-10,0,10
 0021700158,2017-11-07,SAC,OKC,5.28,1,6,43,OKC,OKC,reb,0,False,False,,Thunder Rebound,0-10,0,10
 0021700158,2017-11-07,SAC,OKC,5.47,1,6,32,OKC,OKC,fg_miss,5,True,False,,MISS Roberson 1' Layup,0-10,0,10
-0021700158,2017-11-07,SAC,OKC,5.47,1,6,32,SAC,SAC,reb,0,False,False,Randolph REBOUND (Off:0 Def:2),,0-10,0,10
 0021700158,2017-11-07,SAC,OKC,5.47,1,6,32,OKC,SAC,block,5,True,False,block,block,0-10,0,10
+0021700158,2017-11-07,SAC,OKC,5.47,1,6,32,SAC,SAC,reb,0,False,False,Randolph REBOUND (Off:0 Def:2),,0-10,0,10
 0021700158,2017-11-07,SAC,OKC,5.63,1,6,22,SAC,SAC,fg3_make,1,False,False,Jackson 26' 3PT Jump Shot (3 PTS) (Temple 1 AST),,3-10,3,10
 0021700158,2017-11-07,SAC,OKC,5.77,1,6,14,OKC,OKC,tov,45,False,False,,Westbrook Out of Bounds - Bad Pass Turnover Turnover (P2.T3),3-10,3,10
 0021700158,2017-11-07,SAC,OKC,5.98,1,6,1,SAC,SAC,tov,1,False,True,Randolph Bad Pass Turnover (P2.T3),,3-10,3,10
@@ -218,8 +218,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700158,2017-11-07,SAC,OKC,23.48,2,0,31,SAC,SAC,reb,0,False,False,Bogdanovic REBOUND (Off:0 Def:1),,39-41,39,41
 0021700158,2017-11-07,SAC,OKC,23.53,2,0,28,SAC,SAC,fg3_make,1,False,False,Temple 3PT Jump Shot (6 PTS) (G. Hill 2 AST),,42-41,42,41
 0021700158,2017-11-07,SAC,OKC,23.93,2,0,4,OKC,OKC,fg_miss,5,True,False,,MISS Roberson 5' Layup,42-41,42,41
-0021700158,2017-11-07,SAC,OKC,23.93,2,0,4,OKC,OKC,reb,0,False,False,,Roberson REBOUND (Off:1 Def:1),42-41,42,41
 0021700158,2017-11-07,SAC,OKC,23.93,2,0,4,OKC,SAC,block,5,True,False,block,block,42-41,42,41
+0021700158,2017-11-07,SAC,OKC,23.93,2,0,4,OKC,OKC,reb,0,False,False,,Roberson REBOUND (Off:1 Def:1),42-41,42,41
 0021700158,2017-11-07,SAC,OKC,24.0,2,0,0,OKC,OKC,fg3_miss,1,False,False,,MISS George 26' 3PT Jump Shot,42-41,42,41
 0021700158,2017-11-07,SAC,OKC,24.0,2,0,0,SAC,SAC,reb,0,False,False,G. Hill REBOUND (Off:0 Def:3),,42-41,42,41
 0021700158,2017-11-07,SAC,OKC,24.0,2,0,0,SAC,,period_end,0,False,False,,,42-41,42,41
@@ -244,8 +244,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700158,2017-11-07,SAC,OKC,26.23,3,9,46,OKC,OKC,fg3_miss,1,False,False,,MISS George 25' 3PT Jump Shot,46-44,46,44
 0021700158,2017-11-07,SAC,OKC,26.32,3,9,41,SAC,SAC,reb,0,False,False,Temple REBOUND (Off:0 Def:2),,46-44,46,44
 0021700158,2017-11-07,SAC,OKC,26.43,3,9,34,SAC,SAC,tov,1,False,True,Cauley-Stein Bad Pass Turnover (P2.T12),,46-44,46,44
-0021700158,2017-11-07,SAC,OKC,26.43,3,9,34,OKC,SAC,foul,1,False,False,G. Hill P.FOUL (P2.T2) (J.Capers),,46-44,46,44
 0021700158,2017-11-07,SAC,OKC,26.43,3,9,34,SAC,OKC,steal,1,False,True,steal,steal,46-44,46,44
+0021700158,2017-11-07,SAC,OKC,26.43,3,9,34,OKC,SAC,foul,1,False,False,G. Hill P.FOUL (P2.T2) (J.Capers),,46-44,46,44
 0021700158,2017-11-07,SAC,OKC,26.6,3,9,24,OKC,OKC,fg3_make,1,False,False,,Anthony 26' 3PT Jump Shot (11 PTS),46-47,46,47
 0021700158,2017-11-07,SAC,OKC,26.95,3,9,3,SAC,SAC,tov,1,False,True,Bogdanovic Bad Pass Turnover (P2.T13),,46-47,46,47
 0021700158,2017-11-07,SAC,OKC,26.95,3,9,3,SAC,OKC,steal,1,False,True,steal,steal,46-47,46,47
@@ -294,8 +294,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700158,2017-11-07,SAC,OKC,31.47,3,4,32,SAC,SAC,fg3_miss,1,False,False,MISS Jackson 25' 3PT Jump Shot,,55-51,55,51
 0021700158,2017-11-07,SAC,OKC,31.5,3,4,30,OKC,OKC,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:11),55-51,55,51
 0021700158,2017-11-07,SAC,OKC,31.53,3,4,28,SAC,OKC,foul,14,False,False,,Westbrook FLAGRANT.FOUL.TYPE1 (P2.T3) (K.Cutler),55-51,55,51
-0021700158,2017-11-07,SAC,OKC,31.53,3,4,28,SAC,SAC,ft_make,12,False,False,Bogdanovic Free Throw 2 of 2 (6 PTS),,56-51,56,51
 0021700158,2017-11-07,SAC,OKC,31.53,3,4,28,SAC,SAC,ft_make,11,False,False,Bogdanovic Free Throw 1 of 2 (7 PTS),,57-51,57,51
+0021700158,2017-11-07,SAC,OKC,31.53,3,4,28,SAC,SAC,ft_make,12,False,False,Bogdanovic Free Throw 2 of 2 (6 PTS),,56-51,56,51
 0021700158,2017-11-07,SAC,OKC,31.82,3,4,11,SAC,SAC,fg_make,6,False,False,Randolph 3' Driving Layup (10 PTS),,59-51,59,51
 0021700158,2017-11-07,SAC,OKC,31.98,3,4,1,OKC,OKC,fg_miss,1,False,False,,MISS George 15' Jump Shot,59-51,59,51
 0021700158,2017-11-07,SAC,OKC,32.07,3,3,56,OKC,OKC,reb,0,False,False,,Roberson REBOUND (Off:2 Def:1),59-51,59,51
@@ -427,10 +427,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700158,2017-11-07,SAC,OKC,47.73,4,0,16,OKC,OKC,fg3_make,1,False,False,,Westbrook 26' 3PT Jump Shot (20 PTS) (Roberson 2 AST),89-86,89,86
 0021700158,2017-11-07,SAC,OKC,47.73,4,0,16,SAC,SAC,timeout,1,False,False,KINGS Timeout: Regular (Full 6 Short 0),,89-86,89,86
 0021700158,2017-11-07,SAC,OKC,47.77,4,0,14,SAC,OKC,foul,1,False,False,,Adams P.FOUL (P4.PN) (J.Capers),89-86,89,86
+0021700158,2017-11-07,SAC,OKC,47.77,4,0,14,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.7 Short 0),90-86,90,86
+0021700158,2017-11-07,SAC,OKC,47.77,4,0,14,OKC,SAC,ft_make,11,False,False,G. Hill Free Throw 1 of 2 (1 PTS),,90-86,90,86
 0021700158,2017-11-07,SAC,OKC,47.77,4,0,14,SAC,SAC,ft_miss,12,False,False,MISS G. Hill Free Throw 2 of 2,,89-86,89,86
 0021700158,2017-11-07,SAC,OKC,47.77,4,0,14,OKC,OKC,reb,0,False,False,,Grant REBOUND (Off:2 Def:4),89-86,89,86
-0021700158,2017-11-07,SAC,OKC,47.77,4,0,14,OKC,SAC,ft_make,11,False,False,G. Hill Free Throw 1 of 2 (1 PTS),,90-86,90,86
-0021700158,2017-11-07,SAC,OKC,47.77,4,0,14,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.7 Short 0),90-86,90,86
 0021700158,2017-11-07,SAC,OKC,47.82,4,0,11,OKC,OKC,fg3_miss,1,False,False,,MISS George 25' 3PT Jump Shot,90-86,90,86
 0021700158,2017-11-07,SAC,OKC,47.85,4,0,9,SAC,SAC,reb,0,False,False,Hield REBOUND (Off:0 Def:7),,90-86,90,86
 0021700158,2017-11-07,SAC,OKC,47.85,4,0,9,SAC,OKC,foul,1,False,False,,Abrines P.FOUL (P1.PN) (K.Cutler),90-86,90,86

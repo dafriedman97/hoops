@@ -69,9 +69,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900442,2019-12-22,OKC,LAC,7.12,1,4,53,OKC,LAC,foul,4,False,False,,Zubac OFF.Foul (P1) (J.Van Duyne),19-25,19,25
 0021900442,2019-12-22,OKC,LAC,7.12,1,4,53,LAC,LAC,tov,37,False,False,,Zubac Offensive Foul Turnover (P2.T3),19-25,19,25
 0021900442,2019-12-22,OKC,LAC,7.33,1,4,40,OKC,OKC,fg_make,6,False,False,Gilgeous-Alexander 2' Driving Layup (5 PTS),,21-25,21,25
+0021900442,2019-12-22,OKC,LAC,7.43,1,4,34,LAC,OKC,foul,1,False,False,Ferguson P.FOUL (P1.T3) (J.Van Duyne),,21-25,21,25
 0021900442,2019-12-22,OKC,LAC,7.43,1,4,34,LAC,LAC,fg3_miss,1,False,False,,MISS George 25' 3PT Jump Shot,21-25,21,25
 0021900442,2019-12-22,OKC,LAC,7.43,1,4,34,LAC,LAC,reb,0,False,False,,Patterson REBOUND (Off:1 Def:0),21-25,21,25
-0021900442,2019-12-22,OKC,LAC,7.43,1,4,34,LAC,OKC,foul,1,False,False,Ferguson P.FOUL (P1.T3) (J.Van Duyne),,21-25,21,25
 0021900442,2019-12-22,OKC,LAC,7.72,1,4,17,LAC,LAC,fg3_miss,1,False,False,,MISS Patterson 3PT Jump Shot,21-25,21,25
 0021900442,2019-12-22,OKC,LAC,7.77,1,4,14,LAC,LAC,reb,0,False,False,,Patterson REBOUND (Off:2 Def:0),21-25,21,25
 0021900442,2019-12-22,OKC,LAC,7.78,1,4,13,LAC,LAC,fg_make,7,False,False,,Patterson 2' Dunk (7 PTS),21-27,21,27
@@ -295,8 +295,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900442,2019-12-22,OKC,LAC,31.47,3,4,32,OKC,OKC,ft_make,11,False,False,Schroder Free Throw 1 of 2 (9 PTS),,73-75,73,75
 0021900442,2019-12-22,OKC,LAC,31.47,3,4,32,OKC,OKC,ft_make,12,False,False,Schroder Free Throw 2 of 2 (10 PTS),,74-75,74,75
 0021900442,2019-12-22,OKC,LAC,31.7,3,4,18,LAC,LAC,fg_miss,63,False,False,,MISS Williams 12' Fadeaway Jumper,74-75,74,75
-0021900442,2019-12-22,OKC,LAC,31.82,3,4,11,LAC,LAC,fg_miss,97,False,False,,MISS Harrell 1' Tip Layup Shot,74-75,74,75
 0021900442,2019-12-22,OKC,LAC,31.82,3,4,11,LAC,LAC,reb,0,False,False,,Harrell REBOUND (Off:1 Def:4),74-75,74,75
+0021900442,2019-12-22,OKC,LAC,31.82,3,4,11,LAC,LAC,fg_miss,97,False,False,,MISS Harrell 1' Tip Layup Shot,74-75,74,75
 0021900442,2019-12-22,OKC,LAC,31.85,3,4,9,OKC,OKC,reb,0,False,False,Schroder REBOUND (Off:0 Def:4),,74-75,74,75
 0021900442,2019-12-22,OKC,LAC,31.88,3,4,7,OKC,OKC,fg_miss,5,False,False,MISS Gilgeous-Alexander 9' Layup,,74-75,74,75
 0021900442,2019-12-22,OKC,LAC,31.92,3,4,5,LAC,LAC,reb,0,False,False,,Shamet REBOUND (Off:0 Def:3),74-75,74,75
@@ -339,16 +339,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900442,2019-12-22,OKC,LAC,36.5,4,11,30,LAC,LAC,ft_make,14,False,False,,Shamet Free Throw 2 of 3 (11 PTS),88-91,88,91
 0021900442,2019-12-22,OKC,LAC,36.5,4,11,30,LAC,LAC,ft_make,15,False,False,,Shamet Free Throw 3 of 3 (12 PTS),88-92,88,92
 0021900442,2019-12-22,OKC,LAC,36.62,4,11,23,OKC,OKC,fg_miss,5,True,False,MISS Schroder 4' Layup,,88-92,88,92
+0021900442,2019-12-22,OKC,LAC,36.62,4,11,23,OKC,LAC,block,5,True,False,block,block,88-92,88,92
 0021900442,2019-12-22,OKC,LAC,36.62,4,11,23,LAC,LAC,reb,0,False,False,,Clippers Rebound,88-92,88,92
 0021900442,2019-12-22,OKC,LAC,36.62,4,11,23,LAC,OKC,foul,3,False,False,Schroder L.B.FOUL (P2.T2) (S.Twardoski),,88-92,88,92
-0021900442,2019-12-22,OKC,LAC,36.62,4,11,23,OKC,LAC,block,5,True,False,block,block,88-92,88,92
 0021900442,2019-12-22,OKC,LAC,37.0,4,11,0,LAC,LAC,fg_miss,75,True,False,,MISS Williams 6' Driving Finger Roll Layup,88-92,88,92
-0021900442,2019-12-22,OKC,LAC,37.0,4,11,0,LAC,LAC,reb,0,False,False,,Clippers Rebound,88-92,88,92
 0021900442,2019-12-22,OKC,LAC,37.0,4,11,0,LAC,OKC,block,75,True,False,block,block,88-92,88,92
+0021900442,2019-12-22,OKC,LAC,37.0,4,11,0,LAC,LAC,reb,0,False,False,,Clippers Rebound,88-92,88,92
 0021900442,2019-12-22,OKC,LAC,37.03,4,10,58,LAC,LAC,fg_miss,5,True,False,,MISS Green 4' Layup,88-92,88,92
+0021900442,2019-12-22,OKC,LAC,37.03,4,10,58,LAC,OKC,block,5,True,False,block,block,88-92,88,92
 0021900442,2019-12-22,OKC,LAC,37.03,4,10,58,LAC,LAC,reb,0,False,False,,Green REBOUND (Off:1 Def:4),88-92,88,92
 0021900442,2019-12-22,OKC,LAC,37.03,4,10,58,LAC,LAC,tov,11,False,False,,Clippers Turnover: Shot Clock (T#12),88-92,88,92
-0021900442,2019-12-22,OKC,LAC,37.03,4,10,58,LAC,OKC,block,5,True,False,block,block,88-92,88,92
 0021900442,2019-12-22,OKC,LAC,37.13,4,10,52,OKC,OKC,fg3_miss,1,False,False,MISS Paul 25' 3PT Jump Shot,,88-92,88,92
 0021900442,2019-12-22,OKC,LAC,37.22,4,10,47,LAC,LAC,reb,0,False,False,,Harrell REBOUND (Off:1 Def:6),88-92,88,92
 0021900442,2019-12-22,OKC,LAC,37.28,4,10,43,LAC,OKC,violation,5,False,False,Nader Violation:Kicked Ball (J.Van Duyne),,88-92,88,92
@@ -399,9 +399,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900442,2019-12-22,OKC,LAC,42.15,4,5,51,LAC,LAC,tov,1,False,True,,Williams Bad Pass Turnover (P2.T13),92-98,92,98
 0021900442,2019-12-22,OKC,LAC,42.15,4,5,51,LAC,OKC,steal,1,False,True,steal,steal,92-98,92,98
 0021900442,2019-12-22,OKC,LAC,42.28,4,5,43,OKC,OKC,fg_make,1,False,False,Schroder 21' Jump Shot (14 PTS) (Gilgeous-Alexander 4 AST),,94-98,94,98
+0021900442,2019-12-22,OKC,LAC,42.42,4,5,35,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 6 Short 0),,94-98,94,98
 0021900442,2019-12-22,OKC,LAC,42.42,4,5,35,OKC,LAC,foul,4,False,False,,Harrell OFF.Foul (P2) (M.Ayotte),94-98,94,98
 0021900442,2019-12-22,OKC,LAC,42.42,4,5,35,LAC,LAC,tov,37,False,False,,Harrell Offensive Foul Turnover (P1.T14),94-98,94,98
-0021900442,2019-12-22,OKC,LAC,42.42,4,5,35,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 6 Short 0),,94-98,94,98
 0021900442,2019-12-22,OKC,LAC,42.7,4,5,18,OKC,OKC,fg_make,79,False,False,Gilgeous-Alexander 14' Pullup Jump Shot (28 PTS),,96-98,96,98
 0021900442,2019-12-22,OKC,LAC,43.08,4,4,55,LAC,LAC,fg_make,79,False,False,,George 13' Pullup Jump Shot (18 PTS),96-100,96,100
 0021900442,2019-12-22,OKC,LAC,43.32,4,4,41,OKC,OKC,fg_make,102,False,False,Gilgeous-Alexander 4' Driving Floating Bank Jump Shot (30 PTS),,98-100,98,100

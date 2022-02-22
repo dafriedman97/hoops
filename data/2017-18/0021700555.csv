@@ -17,9 +17,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700555,2018-01-03,PHI,SAS,1.85,1,10,9,SAS,PHI,steal,1,False,True,steal,steal,5-4,5,4
 0021700555,2018-01-03,PHI,SAS,2.03,1,9,58,PHI,PHI,fg_make,41,False,False,Simmons 4' Running Layup (2 PTS),,7-4,7,4
 0021700555,2018-01-03,PHI,SAS,2.13,1,9,52,SAS,SAS,fg_miss,58,True,False,,MISS Aldridge 7' Turnaround Hook Shot,7-4,7,4
+0021700555,2018-01-03,PHI,SAS,2.13,1,9,52,SAS,PHI,block,58,True,False,block,block,7-4,7,4
 0021700555,2018-01-03,PHI,SAS,2.13,1,9,52,SAS,SAS,reb,0,False,False,,Spurs Rebound,7-4,7,4
 0021700555,2018-01-03,PHI,SAS,2.13,1,9,52,SAS,PHI,foul,3,False,False,Covington L.B.FOUL (P1.T1) (M.Davis),,7-4,7,4
-0021700555,2018-01-03,PHI,SAS,2.13,1,9,52,SAS,PHI,block,58,True,False,block,block,7-4,7,4
 0021700555,2018-01-03,PHI,SAS,2.37,1,9,38,SAS,SAS,fg_miss,1,False,False,,MISS Murray 14' Jump Shot,7-4,7,4
 0021700555,2018-01-03,PHI,SAS,2.37,1,9,38,SAS,SAS,reb,0,False,False,,Spurs Rebound,7-4,7,4
 0021700555,2018-01-03,PHI,SAS,2.37,1,9,38,SAS,SAS,tov,11,False,False,,Spurs Turnover: Shot Clock (T#2),7-4,7,4
@@ -41,14 +41,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700555,2018-01-03,PHI,SAS,4.38,1,7,37,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:2),,11-6,11,6
 0021700555,2018-01-03,PHI,SAS,4.48,1,7,31,PHI,PHI,fg_make,1,False,False,Embiid 16' Jump Shot (4 PTS),,13-6,13,6
 0021700555,2018-01-03,PHI,SAS,4.72,1,7,17,SAS,SAS,fg_miss,1,True,False,,MISS Murray 16' Jump Shot,13-6,13,6
-0021700555,2018-01-03,PHI,SAS,4.72,1,7,17,PHI,PHI,reb,0,False,False,Covington REBOUND (Off:0 Def:3),,13-6,13,6
 0021700555,2018-01-03,PHI,SAS,4.72,1,7,17,SAS,PHI,block,1,True,False,block,block,13-6,13,6
+0021700555,2018-01-03,PHI,SAS,4.72,1,7,17,PHI,PHI,reb,0,False,False,Covington REBOUND (Off:0 Def:3),,13-6,13,6
 0021700555,2018-01-03,PHI,SAS,4.85,1,7,9,PHI,PHI,fg_make,41,False,False,Saric 5' Running Layup (2 PTS) (Simmons 2 AST),,15-6,15,6
 0021700555,2018-01-03,PHI,SAS,5.17,1,6,50,SAS,SAS,fg_miss,1,False,False,,MISS Gasol 9' Jump Shot,15-6,15,6
 0021700555,2018-01-03,PHI,SAS,5.17,1,6,50,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:3),,15-6,15,6
 0021700555,2018-01-03,PHI,SAS,5.32,1,6,41,PHI,PHI,fg_miss,6,True,False,MISS Simmons 2' Driving Layup,,15-6,15,6
-0021700555,2018-01-03,PHI,SAS,5.32,1,6,41,SAS,SAS,reb,0,False,False,,Gasol REBOUND (Off:0 Def:2),15-6,15,6
 0021700555,2018-01-03,PHI,SAS,5.32,1,6,41,PHI,SAS,block,6,True,False,block,block,15-6,15,6
+0021700555,2018-01-03,PHI,SAS,5.32,1,6,41,SAS,SAS,reb,0,False,False,,Gasol REBOUND (Off:0 Def:2),15-6,15,6
 0021700555,2018-01-03,PHI,SAS,5.7,1,6,18,SAS,SAS,fg_make,101,False,False,,Forbes 10' Driving Floating Jump Shot (4 PTS) (Gasol 3 AST),15-8,15,8
 0021700555,2018-01-03,PHI,SAS,6.0,1,6,0,PHI,PHI,fg_make,108,False,False,Covington 1' Cutting Dunk Shot (5 PTS) (Embiid 2 AST),,17-8,17,8
 0021700555,2018-01-03,PHI,SAS,6.33,1,5,40,SAS,SAS,fg_make,6,False,False,,Anderson 2' Driving Layup (2 PTS),17-10,17,10
@@ -335,8 +335,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700555,2018-01-03,PHI,SAS,36.25,4,11,45,SAS,SAS,fg3_miss,1,False,False,,MISS Mills 25' 3PT Jump Shot,88-84,88,84
 0021700555,2018-01-03,PHI,SAS,36.33,4,11,40,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:9),,88-84,88,84
 0021700555,2018-01-03,PHI,SAS,36.67,4,11,20,PHI,PHI,fg_miss,5,True,False,MISS Holmes 4' Layup,,88-84,88,84
-0021700555,2018-01-03,PHI,SAS,36.67,4,11,20,PHI,PHI,reb,0,False,False,76ERS Rebound,,88-84,88,84
 0021700555,2018-01-03,PHI,SAS,36.67,4,11,20,PHI,SAS,block,5,True,False,block,block,88-84,88,84
+0021700555,2018-01-03,PHI,SAS,36.67,4,11,20,PHI,PHI,reb,0,False,False,76ERS Rebound,,88-84,88,84
 0021700555,2018-01-03,PHI,SAS,36.7,4,11,18,PHI,PHI,fg3_miss,1,False,False,MISS Embiid 27' 3PT Jump Shot,,88-84,88,84
 0021700555,2018-01-03,PHI,SAS,36.77,4,11,14,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:0 Def:1),88-84,88,84
 0021700555,2018-01-03,PHI,SAS,36.92,4,11,5,SAS,SAS,fg_miss,75,False,False,,MISS Mills 1' Driving Finger Roll Layup,88-84,88,84
@@ -395,8 +395,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700555,2018-01-03,PHI,SAS,42.8,4,5,12,SAS,SAS,reb,0,False,False,,Anderson REBOUND (Off:0 Def:6),96-94,96,94
 0021700555,2018-01-03,PHI,SAS,43.1,4,4,54,SAS,SAS,fg_make,86,False,False,,Aldridge 8' Turnaround Fadeaway (19 PTS),96-96,96,96
 0021700555,2018-01-03,PHI,SAS,43.38,4,4,37,PHI,PHI,fg_miss,63,True,False,MISS Embiid 14' Fadeaway Jumper,,96-96,96,96
-0021700555,2018-01-03,PHI,SAS,43.38,4,4,37,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:2 Def:9),,96-96,96,96
 0021700555,2018-01-03,PHI,SAS,43.38,4,4,37,PHI,SAS,block,63,True,False,block,block,96-96,96,96
+0021700555,2018-01-03,PHI,SAS,43.38,4,4,37,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:2 Def:9),,96-96,96,96
 0021700555,2018-01-03,PHI,SAS,43.4,4,4,36,PHI,PHI,fg_make,63,False,False,Embiid 18' Fadeaway Jumper (21 PTS),,98-96,98,96
 0021700555,2018-01-03,PHI,SAS,43.78,4,4,13,SAS,SAS,fg_miss,86,False,False,,MISS Aldridge 15' Turnaround Fadeaway Shot,98-96,98,96
 0021700555,2018-01-03,PHI,SAS,43.85,4,4,9,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:1 Def:4),,98-96,98,96
@@ -428,8 +428,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700555,2018-01-03,PHI,SAS,46.1,4,1,54,SAS,SAS,fg_miss,47,False,False,,MISS Aldridge 13' Turnaround Jump Shot,103-103,103,103
 0021700555,2018-01-03,PHI,SAS,46.13,4,1,52,PHI,PHI,reb,0,False,False,Saric REBOUND (Off:5 Def:2),,103-103,103,103
 0021700555,2018-01-03,PHI,SAS,46.32,4,1,41,PHI,PHI,fg_make,5,False,False,Simmons 2' Layup (23 PTS) (Redick 4 AST),,105-103,105,103
-0021700555,2018-01-03,PHI,SAS,46.32,4,1,41,PHI,SAS,violation,2,False,False,,Defensive Goaltending,105-103,105,103
 0021700555,2018-01-03,PHI,SAS,46.32,4,1,41,PHI,SAS,foul,2,False,False,,Forbes S.FOUL (P3.PN) (B.Nansel),105-103,105,103
+0021700555,2018-01-03,PHI,SAS,46.32,4,1,41,PHI,SAS,violation,2,False,False,,Defensive Goaltending,105-103,105,103
 0021700555,2018-01-03,PHI,SAS,46.32,4,1,41,PHI,PHI,ft_make,10,False,False,Simmons Free Throw 1 of 1 (24 PTS),,106-103,106,103
 0021700555,2018-01-03,PHI,SAS,46.47,4,1,32,SAS,SAS,fg3_miss,79,False,False,,MISS Mills 27' 3PT Pullup Jump Shot,106-103,106,103
 0021700555,2018-01-03,PHI,SAS,46.52,4,1,29,PHI,PHI,reb,0,False,False,Redick REBOUND (Off:0 Def:2),,106-103,106,103

@@ -59,9 +59,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000098,2021-01-04,HOU,DAL,5.97,1,6,2,HOU,HOU,fg3_miss,79,False,False,MISS Gordon 29' 3PT Pullup Jump Shot,,10-16,10,16
 0022000098,2021-01-04,HOU,DAL,6.0,1,6,0,DAL,DAL,reb,0,False,False,,Kleber REBOUND (Off:1 Def:4),10-16,10,16
 0022000098,2021-01-04,HOU,DAL,6.23,1,5,46,DAL,DAL,fg_miss,5,True,False,,MISS Finney-Smith 4' Layup,10-16,10,16
+0022000098,2021-01-04,HOU,DAL,6.23,1,5,46,DAL,HOU,block,5,True,False,block,block,10-16,10,16
 0022000098,2021-01-04,HOU,DAL,6.23,1,5,46,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,10-16,10,16
 0022000098,2021-01-04,HOU,DAL,6.23,1,5,46,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 1 Short 0),,10-16,10,16
-0022000098,2021-01-04,HOU,DAL,6.23,1,5,46,DAL,HOU,block,5,True,False,block,block,10-16,10,16
 0022000098,2021-01-04,HOU,DAL,6.47,1,5,32,HOU,HOU,tov,4,False,False,Wood Traveling Turnover (P1.T4),,10-16,10,16
 0022000098,2021-01-04,HOU,DAL,6.67,1,5,20,DAL,DAL,fg_miss,101,False,False,,MISS Doncic 14' Driving Floating Jump Shot,10-16,10,16
 0022000098,2021-01-04,HOU,DAL,6.68,1,5,19,HOU,HOU,reb,0,False,False,Wood REBOUND (Off:0 Def:2),,10-16,10,16
@@ -276,8 +276,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000098,2021-01-04,HOU,DAL,28.07,3,7,56,DAL,DAL,reb,0,False,False,,Doncic REBOUND (Off:1 Def:10),56-69,56,69
 0022000098,2021-01-04,HOU,DAL,28.18,3,7,49,DAL,DAL,fg_make,6,False,False,,Doncic 3' Driving Layup (22 PTS),56-71,56,71
 0022000098,2021-01-04,HOU,DAL,28.18,3,7,49,DAL,HOU,foul,2,False,False,Wood S.FOUL (P3.T2) (J.Goble),,56-71,56,71
-0022000098,2021-01-04,HOU,DAL,28.18,3,7,49,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 3 Short 0),,56-71,56,71
 0022000098,2021-01-04,HOU,DAL,28.18,3,7,49,HOU,DAL,ft_make,10,False,False,,Doncic Free Throw 1 of 1 (23 PTS),56-72,56,72
+0022000098,2021-01-04,HOU,DAL,28.18,3,7,49,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 3 Short 0),,56-71,56,71
 0022000098,2021-01-04,HOU,DAL,28.47,3,7,32,HOU,HOU,fg_make,6,False,False,Nwaba 2' Driving Layup (5 PTS) (Wall 2 AST),,58-72,58,72
 0022000098,2021-01-04,HOU,DAL,28.8,3,7,12,DAL,DAL,fg3_miss,1,False,False,,MISS Johnson 26' 3PT Jump Shot,58-72,58,72
 0022000098,2021-01-04,HOU,DAL,28.83,3,7,10,DAL,DAL,reb,0,False,False,,Richardson REBOUND (Off:1 Def:0),58-72,58,72
@@ -304,8 +304,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000098,2021-01-04,HOU,DAL,31.13,3,4,52,DAL,DAL,fg_miss,101,False,False,,MISS Richardson 7' Driving Floating Jump Shot,64-72,64,72
 0022000098,2021-01-04,HOU,DAL,31.15,3,4,51,HOU,HOU,reb,0,False,False,Nwaba REBOUND (Off:0 Def:2),,64-72,64,72
 0022000098,2021-01-04,HOU,DAL,31.27,3,4,44,HOU,HOU,fg_miss,101,True,False,MISS Harden 8' Driving Floating Jump Shot,,64-72,64,72
-0022000098,2021-01-04,HOU,DAL,31.27,3,4,44,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,64-72,64,72
 0022000098,2021-01-04,HOU,DAL,31.27,3,4,44,HOU,DAL,block,101,True,False,block,block,64-72,64,72
+0022000098,2021-01-04,HOU,DAL,31.27,3,4,44,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,64-72,64,72
 0022000098,2021-01-04,HOU,DAL,31.32,3,4,41,HOU,HOU,tov,2,False,True,Harden Lost Ball Turnover (P2.T9),,64-72,64,72
 0022000098,2021-01-04,HOU,DAL,31.32,3,4,41,HOU,DAL,steal,2,False,True,steal,steal,64-72,64,72
 0022000098,2021-01-04,HOU,DAL,31.48,3,4,31,HOU,DAL,foul,26,False,False,,Doncic Offensive Charge Foul (P2.T4) (J.Goble),64-72,64,72

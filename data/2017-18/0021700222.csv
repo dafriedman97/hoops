@@ -103,8 +103,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700222,2017-11-17,CHI,CHA,12.0,1,0,0,CHI,,period_end,0,False,False,,,26-27,26,27
 0021700222,2017-11-17,CHI,CHA,12.0,2,12,0,CHI,,period_start,0,False,False,,,26-27,26,27
 0021700222,2017-11-17,CHI,CHA,12.2,2,11,48,CHA,CHA,tov,2,False,True,,Monk Lost Ball Turnover (P1.T3),26-27,26,27
-0021700222,2017-11-17,CHI,CHA,12.2,2,11,48,CHA,,violation,1,False,False,,,26-27,26,27
 0021700222,2017-11-17,CHI,CHA,12.2,2,11,48,CHA,CHI,steal,2,False,True,steal,steal,26-27,26,27
+0021700222,2017-11-17,CHI,CHA,12.2,2,11,48,CHA,,violation,1,False,False,,,26-27,26,27
 0021700222,2017-11-17,CHI,CHA,12.28,2,11,43,CHI,CHI,fg_make,5,False,False,Dunn 1' Layup (2 PTS),,28-27,28,27
 0021700222,2017-11-17,CHI,CHA,12.38,2,11,37,CHA,CHA,tov,2,False,True,,Bacon Lost Ball Turnover (P1.T4),28-27,28,27
 0021700222,2017-11-17,CHI,CHA,12.38,2,11,37,CHA,CHI,steal,2,False,True,steal,steal,28-27,28,27
@@ -120,8 +120,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700222,2017-11-17,CHI,CHA,13.8,2,10,12,CHA,CHA,fg_miss,5,False,False,,MISS Lamb 2' Layup,32-32,32,32
 0021700222,2017-11-17,CHI,CHA,13.8,2,10,12,CHI,CHI,reb,0,False,False,Portis REBOUND (Off:1 Def:1),,32-32,32,32
 0021700222,2017-11-17,CHI,CHA,13.9,2,10,6,CHI,CHI,tov,2,False,True,Dunn Lost Ball Turnover (P1.T4),,32-32,32,32
-0021700222,2017-11-17,CHI,CHA,13.9,2,10,6,CHA,CHI,foul,1,False,False,Dunn P.FOUL (P2.T3) (B.Forte),,32-32,32,32
 0021700222,2017-11-17,CHI,CHA,13.9,2,10,6,CHI,CHA,steal,2,False,True,steal,steal,32-32,32,32
+0021700222,2017-11-17,CHI,CHA,13.9,2,10,6,CHA,CHI,foul,1,False,False,Dunn P.FOUL (P2.T3) (B.Forte),,32-32,32,32
 0021700222,2017-11-17,CHI,CHA,14.12,2,9,53,CHA,CHA,fg3_make,1,False,False,,Kaminsky 26' 3PT Jump Shot (7 PTS) (Lamb 2 AST),32-35,32,35
 0021700222,2017-11-17,CHI,CHA,14.43,2,9,34,CHI,CHI,fg_make,5,False,False,Felicio 1' Layup (2 PTS) (Blakeney 1 AST),,34-35,34,35
 0021700222,2017-11-17,CHI,CHA,14.73,2,9,16,CHA,CHA,fg_make,5,False,False,,Zeller 1' Layup (2 PTS) (Lamb 3 AST),34-37,34,37
@@ -245,8 +245,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700222,2017-11-17,CHI,CHA,28.07,3,7,56,CHA,CHA,fg_miss,1,False,False,,MISS Walker 21' Jump Shot,66-66,66,66
 0021700222,2017-11-17,CHI,CHA,28.17,3,7,50,CHA,CHA,reb,0,False,False,,Williams REBOUND (Off:1 Def:3),66-66,66,66
 0021700222,2017-11-17,CHI,CHA,28.17,3,7,50,CHA,CHA,fg_miss,5,True,False,,MISS Williams 2' Layup,66-66,66,66
-0021700222,2017-11-17,CHI,CHA,28.17,3,7,50,CHI,CHI,reb,0,False,False,Grant REBOUND (Off:0 Def:4),,66-66,66,66
 0021700222,2017-11-17,CHI,CHA,28.17,3,7,50,CHA,CHI,block,5,True,False,block,block,66-66,66,66
+0021700222,2017-11-17,CHI,CHA,28.17,3,7,50,CHI,CHI,reb,0,False,False,Grant REBOUND (Off:0 Def:4),,66-66,66,66
 0021700222,2017-11-17,CHI,CHA,28.33,3,7,40,CHA,CHI,foul,26,False,False,Markkanen Offensive Charge Foul (P1.T1) (M.Davis),,66-66,66,66
 0021700222,2017-11-17,CHI,CHA,28.33,3,7,40,CHI,CHI,tov,37,False,False,Markkanen Offensive Foul Turnover (P1.T9),,66-66,66,66
 0021700222,2017-11-17,CHI,CHA,28.6,3,7,24,CHA,CHA,fg_make,98,False,False,,Williams 1' Cutting Layup Shot (7 PTS) (Batum 2 AST),66-68,66,68

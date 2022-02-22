@@ -2,8 +2,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800191,2018-11-12,MIA,PHI,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
 0021800191,2018-11-12,MIA,PHI,0.0,1,12,0,,MIA,jump_ball,0,False,False,Jump Ball Whiteside vs. Embiid: Tip to Dragic,,0-0,0,0
 0021800191,2018-11-12,MIA,PHI,0.2,1,11,48,MIA,MIA,fg_miss,78,False,False,MISS McGruder 6' Floating Jump Shot,,0-0,0,0
-0021800191,2018-11-12,MIA,PHI,0.23,1,11,46,MIA,MIA,fg_miss,97,False,False,MISS McGruder 3' Tip Layup Shot,,0-0,0,0
 0021800191,2018-11-12,MIA,PHI,0.23,1,11,46,MIA,MIA,reb,0,False,False,McGruder REBOUND (Off:1 Def:0),,0-0,0,0
+0021800191,2018-11-12,MIA,PHI,0.23,1,11,46,MIA,MIA,fg_miss,97,False,False,MISS McGruder 3' Tip Layup Shot,,0-0,0,0
 0021800191,2018-11-12,MIA,PHI,0.25,1,11,45,PHI,PHI,reb,0,False,False,,Embiid REBOUND (Off:0 Def:1),0-0,0,0
 0021800191,2018-11-12,MIA,PHI,0.52,1,11,29,PHI,PHI,fg_make,79,False,False,,Redick 23' Pullup Jump Shot (2 PTS),0-2,0,2
 0021800191,2018-11-12,MIA,PHI,0.82,1,11,11,MIA,MIA,fg3_miss,1,False,False,MISS Richardson 28' 3PT Jump Shot,,0-2,0,2
@@ -294,8 +294,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800191,2018-11-12,MIA,PHI,32.27,3,3,44,PHI,PHI,fg_miss,1,False,False,,MISS Muscala 19' Jump Shot,81-87,81,87
 0021800191,2018-11-12,MIA,PHI,32.3,3,3,42,MIA,MIA,reb,0,False,False,Dragic REBOUND (Off:0 Def:2),,81-87,81,87
 0021800191,2018-11-12,MIA,PHI,32.42,3,3,35,MIA,MIA,tov,1,False,True,Dragic Bad Pass Turnover (P2.T8),,81-87,81,87
-0021800191,2018-11-12,MIA,PHI,32.42,3,3,35,PHI,MIA,foul,1,False,False,Johnson P.FOUL (P2.PN) (J.Tiven),,81-87,81,87
 0021800191,2018-11-12,MIA,PHI,32.42,3,3,35,MIA,PHI,steal,1,False,True,steal,steal,81-87,81,87
+0021800191,2018-11-12,MIA,PHI,32.42,3,3,35,PHI,MIA,foul,1,False,False,Johnson P.FOUL (P2.PN) (J.Tiven),,81-87,81,87
 0021800191,2018-11-12,MIA,PHI,32.42,3,3,35,PHI,PHI,ft_make,11,False,False,,McConnell Free Throw 1 of 2 (1 PTS),81-88,81,88
 0021800191,2018-11-12,MIA,PHI,32.42,3,3,35,PHI,PHI,ft_make,12,False,False,,McConnell Free Throw 2 of 2 (2 PTS),81-89,81,89
 0021800191,2018-11-12,MIA,PHI,32.58,3,3,25,MIA,MIA,fg_make,52,False,False,Adebayo 1' Alley Oop Dunk (8 PTS) (Dragic 5 AST),,83-89,83,89
@@ -345,10 +345,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800191,2018-11-12,MIA,PHI,35.85,3,0,9,MIA,MIA,reb,0,False,False,Jones Jr. REBOUND (Off:1 Def:0),,88-96,88,96
 0021800191,2018-11-12,MIA,PHI,35.87,3,0,8,MIA,MIA,fg_make,66,False,False,Jones Jr. 4' Jump Bank Shot (2 PTS),,90-96,90,96
 0021800191,2018-11-12,MIA,PHI,36.0,3,0,0,PHI,PHI,fg_miss,6,True,False,,MISS Fultz 2' Driving Layup,90-96,90,96
-0021800191,2018-11-12,MIA,PHI,36.0,3,0,0,MIA,MIA,reb,0,False,False,Richardson REBOUND (Off:0 Def:1),,90-96,90,96
-0021800191,2018-11-12,MIA,PHI,36.0,3,0,0,MIA,,period_end,0,False,False,,,90-96,90,96
-0021800191,2018-11-12,MIA,PHI,36.0,4,12,0,MIA,,period_start,0,False,False,,,90-96,90,96
 0021800191,2018-11-12,MIA,PHI,36.0,3,0,0,PHI,MIA,block,6,True,False,block,block,90-96,90,96
+0021800191,2018-11-12,MIA,PHI,36.0,3,0,0,MIA,,period_end,0,False,False,,,90-96,90,96
+0021800191,2018-11-12,MIA,PHI,36.0,3,0,0,MIA,MIA,reb,0,False,False,Richardson REBOUND (Off:0 Def:1),,90-96,90,96
+0021800191,2018-11-12,MIA,PHI,36.0,4,12,0,MIA,,period_start,0,False,False,,,90-96,90,96
 0021800191,2018-11-12,MIA,PHI,36.2,4,11,48,MIA,MIA,fg_make,52,False,False,Jones Jr. 1' Alley Oop Dunk (4 PTS) (Johnson 2 AST),,92-96,92,96
 0021800191,2018-11-12,MIA,PHI,36.55,4,11,27,PHI,PHI,fg_make,1,False,False,,Embiid 17' Jump Shot (31 PTS) (Shamet 1 AST),92-98,92,98
 0021800191,2018-11-12,MIA,PHI,36.77,4,11,14,MIA,MIA,fg3_make,1,False,False,Johnson 25' 3PT Jump Shot (8 PTS) (Jones Jr. 1 AST),,95-98,95,98
@@ -361,11 +361,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800191,2018-11-12,MIA,PHI,38.05,4,9,57,MIA,MIA,fg3_miss,1,False,False,MISS Johnson 25' 3PT Jump Shot,,98-101,98,101
 0021800191,2018-11-12,MIA,PHI,38.08,4,9,55,PHI,PHI,reb,0,False,False,,Embiid REBOUND (Off:4 Def:10),98-101,98,101
 0021800191,2018-11-12,MIA,PHI,38.37,4,9,38,PHI,PHI,fg_miss,1,True,False,,MISS Embiid 17' Jump Shot,98-101,98,101
+0021800191,2018-11-12,MIA,PHI,38.37,4,9,38,PHI,MIA,block,1,True,False,block,block,98-101,98,101
 0021800191,2018-11-12,MIA,PHI,38.37,4,9,38,PHI,PHI,reb,0,False,False,,Embiid REBOUND (Off:5 Def:10),98-101,98,101
 0021800191,2018-11-12,MIA,PHI,38.37,4,9,38,PHI,MIA,foul,2,False,False,Johnson S.FOUL (P4.T1) (B.Taylor),,98-101,98,101
 0021800191,2018-11-12,MIA,PHI,38.37,4,9,38,PHI,PHI,ft_miss,11,False,False,,MISS Embiid Free Throw 1 of 2,98-101,98,101
 0021800191,2018-11-12,MIA,PHI,38.37,4,9,38,PHI,PHI,reb,1,False,False,,76ers Rebound,98-101,98,101
-0021800191,2018-11-12,MIA,PHI,38.37,4,9,38,PHI,MIA,block,1,True,False,block,block,98-101,98,101
 0021800191,2018-11-12,MIA,PHI,38.37,4,9,38,PHI,PHI,ft_make,12,False,False,,Embiid Free Throw 2 of 2 (32 PTS),98-102,98,102
 0021800191,2018-11-12,MIA,PHI,38.53,4,9,28,MIA,MIA,tov,1,False,True,Richardson Bad Pass Turnover (P2.T10),,98-102,98,102
 0021800191,2018-11-12,MIA,PHI,38.53,4,9,28,MIA,MIA,tov,1,False,True,Richardson Bad Pass Turnover (P2.T10),,98-102,98,102

@@ -96,10 +96,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000060,2020-12-30,SAS,LAL,11.93,1,0,4,SAS,SAS,ft_make,11,False,False,DeRozan Free Throw 1 of 2 (5 PTS),,26-35,26,35
 0022000060,2020-12-30,SAS,LAL,11.93,1,0,4,SAS,SAS,ft_make,12,False,False,DeRozan Free Throw 2 of 2 (6 PTS),,27-35,27,35
 0022000060,2020-12-30,SAS,LAL,12.0,1,0,0,LAL,LAL,fg_miss,6,True,False,,MISS James 2' Driving Layup,27-35,27,35
+0022000060,2020-12-30,SAS,LAL,12.0,1,0,0,LAL,SAS,block,6,True,False,block,block,27-35,27,35
 0022000060,2020-12-30,SAS,LAL,12.0,1,0,0,SAS,SAS,reb,0,False,False,DeRozan REBOUND (Off:0 Def:3),,27-35,27,35
 0022000060,2020-12-30,SAS,LAL,12.0,1,0,0,SAS,,period_end,0,False,False,,,27-35,27,35
 0022000060,2020-12-30,SAS,LAL,12.0,2,12,0,SAS,,period_start,0,False,False,,,27-35,27,35
-0022000060,2020-12-30,SAS,LAL,12.0,1,0,0,LAL,SAS,block,6,True,False,block,block,27-35,27,35
 0022000060,2020-12-30,SAS,LAL,12.32,2,11,41,LAL,LAL,tov,2,False,True,,Kuzma Lost Ball Turnover (P1.T3),27-35,27,35
 0022000060,2020-12-30,SAS,LAL,12.32,2,11,41,LAL,SAS,steal,2,False,True,steal,steal,27-35,27,35
 0022000060,2020-12-30,SAS,LAL,12.48,2,11,31,SAS,SAS,fg_miss,79,False,False,MISS Murray 5' Pullup Jump Shot,,27-35,27,35
@@ -255,8 +255,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000060,2020-12-30,SAS,LAL,28.0,3,8,0,LAL,LAL,fg_make,44,False,False,,Davis 1' Reverse Layup (16 PTS) (James 6 AST),62-73,62,73
 0022000060,2020-12-30,SAS,LAL,28.32,3,7,41,SAS,SAS,fg_miss,5,True,False,MISS Johnson 11' Layup,,62-73,62,73
 0022000060,2020-12-30,SAS,LAL,28.32,3,7,41,SAS,LAL,block,5,True,False,block,block,62-73,62,73
-0022000060,2020-12-30,SAS,LAL,28.37,3,7,38,LAL,LAL,reb,0,False,False,,Gasol REBOUND (Off:1 Def:4),62-73,62,73
 0022000060,2020-12-30,SAS,LAL,28.37,3,7,38,,SAS,jump_ball,0,False,False,Jump Ball Johnson vs. James: Tip to Gasol,,62-73,62,73
+0022000060,2020-12-30,SAS,LAL,28.37,3,7,38,LAL,LAL,reb,0,False,False,,Gasol REBOUND (Off:1 Def:4),62-73,62,73
 0022000060,2020-12-30,SAS,LAL,28.4,3,7,36,LAL,LAL,fg_make,41,False,False,,Caldwell-Pope 1' Running Layup (10 PTS) (Gasol 2 AST),62-75,62,75
 0022000060,2020-12-30,SAS,LAL,28.43,3,7,34,SAS,LAL,violation,1,False,False,,Lakers Violation: Delay of game Violation,62-75,62,75
 0022000060,2020-12-30,SAS,LAL,28.83,3,7,10,SAS,SAS,tov,11,False,False,SPURS Turnover: Shot Clock (T#6),,62-75,62,75
@@ -367,8 +367,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000060,2020-12-30,SAS,LAL,42.13,4,5,52,SAS,SAS,fg_make,79,False,False,Murray 18' Pullup Jump Shot (27 PTS),,95-106,95,106
 0022000060,2020-12-30,SAS,LAL,42.13,4,5,52,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.4 Short 0),95-106,95,106
 0022000060,2020-12-30,SAS,LAL,42.3,4,5,42,LAL,LAL,fg_miss,75,False,False,,MISS Schroder Driving Finger Roll Layup,95-106,95,106
-0022000060,2020-12-30,SAS,LAL,42.37,4,5,38,LAL,LAL,fg_make,87,False,False,,Harrell Putback Dunk (8 PTS),95-108,95,108
 0022000060,2020-12-30,SAS,LAL,42.37,4,5,38,LAL,LAL,reb,0,False,False,,Harrell REBOUND (Off:3 Def:5),95-108,95,108
+0022000060,2020-12-30,SAS,LAL,42.37,4,5,38,LAL,LAL,fg_make,87,False,False,,Harrell Putback Dunk (8 PTS),95-108,95,108
 0022000060,2020-12-30,SAS,LAL,42.63,4,5,22,SAS,LAL,foul,1,False,False,,Davis P.FOUL (P2.T4) (C.Blair),95-108,95,108
 0022000060,2020-12-30,SAS,LAL,42.83,4,5,10,SAS,SAS,fg_miss,79,False,False,MISS Walker IV 1' Pullup Jump Shot,,95-108,95,108
 0022000060,2020-12-30,SAS,LAL,42.92,4,5,5,SAS,SAS,reb,0,False,False,Poeltl REBOUND (Off:2 Def:2),,95-108,95,108

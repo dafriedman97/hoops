@@ -40,9 +40,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700281,2017-11-25,IND,BOS,6.03,1,5,58,IND,IND,fg3_miss,1,False,False,MISS Stephenson 27' 3PT Jump Shot,,18-16,18,16
 0021700281,2017-11-25,IND,BOS,6.07,1,5,56,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:0 Def:1),18-16,18,16
 0021700281,2017-11-25,IND,BOS,6.28,1,5,43,BOS,BOS,tov,2,False,True,,Theis Lost Ball Turnover (P1.T2),18-16,18,16
+0021700281,2017-11-25,IND,BOS,6.28,1,5,43,BOS,IND,steal,2,False,True,steal,steal,18-16,18,16
 0021700281,2017-11-25,IND,BOS,6.28,1,5,43,IND,IND,tov,40,False,False,Collison Out of Bounds Lost Ball Turnover (P1.T4),,18-16,18,16
 0021700281,2017-11-25,IND,BOS,6.28,1,5,43,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 1 Short 0),,18-16,18,16
-0021700281,2017-11-25,IND,BOS,6.28,1,5,43,BOS,IND,steal,2,False,True,steal,steal,18-16,18,16
 0021700281,2017-11-25,IND,BOS,6.48,1,5,31,BOS,BOS,fg_miss,105,False,False,,MISS Irving 13' Turnaround Fadeaway Bank Jump Shot,18-16,18,16
 0021700281,2017-11-25,IND,BOS,6.53,1,5,28,IND,IND,reb,0,False,False,Turner REBOUND (Off:0 Def:1),,18-16,18,16
 0021700281,2017-11-25,IND,BOS,6.88,1,5,7,IND,IND,fg3_make,1,False,False,Turner 28' 3PT Jump Shot (5 PTS) (Collison 2 AST),,21-16,21,16
@@ -181,9 +181,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700281,2017-11-25,IND,BOS,23.65,2,0,21,BOS,BOS,reb,0,False,False,,Baynes REBOUND (Off:0 Def:2),54-43,54,43
 0021700281,2017-11-25,IND,BOS,23.98,2,0,1,BOS,BOS,fg_make,102,False,False,,Irving 11' Driving Floating Bank Jump Shot (15 PTS),54-45,54,45
 0021700281,2017-11-25,IND,BOS,24.0,2,0,0,IND,IND,tov,2,False,True,Bogdanovic Lost Ball Turnover (P1.T12),,54-45,54,45
+0021700281,2017-11-25,IND,BOS,24.0,2,0,0,IND,BOS,steal,2,False,True,steal,steal,54-45,54,45
 0021700281,2017-11-25,IND,BOS,24.0,2,0,0,IND,,period_end,0,False,False,,,54-45,54,45
 0021700281,2017-11-25,IND,BOS,24.0,3,12,0,IND,,period_start,0,False,False,,,54-45,54,45
-0021700281,2017-11-25,IND,BOS,24.0,2,0,0,IND,BOS,steal,2,False,True,steal,steal,54-45,54,45
 0021700281,2017-11-25,IND,BOS,24.3,3,11,42,BOS,BOS,fg_make,71,False,False,,Horford 1' Finger Roll Layup (9 PTS),54-47,54,47
 0021700281,2017-11-25,IND,BOS,24.68,3,11,19,IND,IND,fg_make,47,False,False,Bogdanovic 8' Turnaround Jump Shot (8 PTS) (Young 3 AST),,56-47,56,47
 0021700281,2017-11-25,IND,BOS,24.97,3,11,2,BOS,BOS,fg3_make,1,False,False,,Horford 29' 3PT Jump Shot (12 PTS) (Irving 3 AST),56-50,56,50
@@ -330,9 +330,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700281,2017-11-25,IND,BOS,43.65,4,4,21,BOS,IND,foul,3,False,False,Joseph L.B.FOUL (P1.T1) (M.Ervin),,90-100,90,100
 0021700281,2017-11-25,IND,BOS,43.85,4,4,9,BOS,BOS,tov,8,False,False,,Smart 3 Second Violation Turnover (P3.T14),90-100,90,100
 0021700281,2017-11-25,IND,BOS,44.25,4,3,45,IND,IND,fg3_miss,1,True,False,MISS Turner 30' 3PT Jump Shot,,90-100,90,100
+0021700281,2017-11-25,IND,BOS,44.25,4,3,45,IND,BOS,block,1,True,False,block,block,90-100,90,100
 0021700281,2017-11-25,IND,BOS,44.25,4,3,45,IND,IND,reb,0,False,False,PACERS Rebound,,90-100,90,100
 0021700281,2017-11-25,IND,BOS,44.25,4,3,45,IND,IND,tov,11,False,False,PACERS Turnover: Shot Clock (T#18),,90-100,90,100
-0021700281,2017-11-25,IND,BOS,44.25,4,3,45,IND,BOS,block,1,True,False,block,block,90-100,90,100
 0021700281,2017-11-25,IND,BOS,44.5,4,3,30,BOS,BOS,fg_make,75,False,False,,Irving 1' Driving Finger Roll Layup (21 PTS),90-102,90,102
 0021700281,2017-11-25,IND,BOS,44.5,4,3,30,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 6 Short 0),,90-102,90,102
 0021700281,2017-11-25,IND,BOS,44.63,4,3,22,IND,BOS,foul,1,False,False,,Horford P.FOUL (P1.T4) (K.Lane),90-102,90,102

@@ -4,8 +4,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700259,2017-11-22,HOU,DEN,0.22,1,11,47,HOU,HOU,fg_miss,101,False,False,MISS Harden 6' Driving Floating Jump Shot,,0-0,0,0
 0021700259,2017-11-22,HOU,DEN,0.25,1,11,45,DEN,DEN,reb,0,False,False,,Murray REBOUND (Off:0 Def:1),0-0,0,0
 0021700259,2017-11-22,HOU,DEN,0.32,1,11,41,DEN,DEN,fg_miss,6,True,False,,MISS Barton 7' Driving Layup,0-0,0,0
-0021700259,2017-11-22,HOU,DEN,0.32,1,11,41,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:0 Def:1),,0-0,0,0
 0021700259,2017-11-22,HOU,DEN,0.32,1,11,41,DEN,HOU,block,6,True,False,block,block,0-0,0,0
+0021700259,2017-11-22,HOU,DEN,0.32,1,11,41,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:0 Def:1),,0-0,0,0
 0021700259,2017-11-22,HOU,DEN,0.65,1,11,21,HOU,DEN,foul,1,False,False,,Chandler P.FOUL (P1.T1) (H.Workman),0-0,0,0
 0021700259,2017-11-22,HOU,DEN,0.73,1,11,16,HOU,DEN,foul,2,False,False,,Jokic S.FOUL (P1.T2) (B.Forte),0-0,0,0
 0021700259,2017-11-22,HOU,DEN,0.73,1,11,16,HOU,HOU,ft_miss,11,False,False,MISS Capela Free Throw 1 of 2,,0-0,0,0
@@ -193,8 +193,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700259,2017-11-22,HOU,DEN,20.17,2,3,50,DEN,DEN,fg_make,58,False,False,,Jokic 6' Turnaround Hook Shot (12 PTS),63-33,63,33
 0021700259,2017-11-22,HOU,DEN,20.43,2,3,34,HOU,HOU,fg_make,1,False,False,Nene 17' Jump Shot (10 PTS) (Harden 6 AST),,65-33,65,33
 0021700259,2017-11-22,HOU,DEN,20.7,2,3,18,DEN,DEN,fg_miss,63,True,False,,MISS Chandler 7' Fadeaway Jumper,65-33,65,33
-0021700259,2017-11-22,HOU,DEN,20.7,2,3,18,DEN,DEN,reb,0,False,False,,Nuggets Rebound,65-33,65,33
 0021700259,2017-11-22,HOU,DEN,20.7,2,3,18,DEN,HOU,block,63,True,False,block,block,65-33,65,33
+0021700259,2017-11-22,HOU,DEN,20.7,2,3,18,DEN,DEN,reb,0,False,False,,Nuggets Rebound,65-33,65,33
 0021700259,2017-11-22,HOU,DEN,20.75,2,3,15,DEN,HOU,foul,1,False,False,Nene P.FOUL (P1.T2) (H.Workman),,65-33,65,33
 0021700259,2017-11-22,HOU,DEN,20.97,2,3,2,DEN,DEN,fg3_miss,1,False,False,,MISS Barton 25' 3PT Jump Shot,65-33,65,33
 0021700259,2017-11-22,HOU,DEN,21.07,2,2,56,DEN,DEN,reb,0,False,False,,Chandler REBOUND (Off:2 Def:1),65-33,65,33
@@ -231,10 +231,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700259,2017-11-22,HOU,DEN,23.97,2,0,2,HOU,HOU,fg3_miss,80,False,False,MISS Harden 28' 3PT Step Back Jump Shot,,75-40,75,40
 0021700259,2017-11-22,HOU,DEN,23.98,2,0,1,HOU,HOU,reb,0,False,False,Zhou REBOUND (Off:1 Def:0),,75-40,75,40
 0021700259,2017-11-22,HOU,DEN,24.0,2,0,0,HOU,HOU,fg_miss,1,True,False,MISS Zhou 6' Jump Shot,,75-40,75,40
+0021700259,2017-11-22,HOU,DEN,24.0,2,0,0,HOU,DEN,block,1,True,False,block,block,75-40,75,40
 0021700259,2017-11-22,HOU,DEN,24.0,2,0,0,DEN,DEN,reb,0,False,False,,Harris REBOUND (Off:0 Def:1),75-40,75,40
 0021700259,2017-11-22,HOU,DEN,24.0,2,0,0,DEN,,period_end,0,False,False,,,75-40,75,40
 0021700259,2017-11-22,HOU,DEN,24.0,3,12,0,DEN,,period_start,0,False,False,,,75-40,75,40
-0021700259,2017-11-22,HOU,DEN,24.0,2,0,0,HOU,DEN,block,1,True,False,block,block,75-40,75,40
 0021700259,2017-11-22,HOU,DEN,24.28,3,11,43,DEN,HOU,foul,1,False,False,Capela P.FOUL (P3.T1) (S.Wall),,75-40,75,40
 0021700259,2017-11-22,HOU,DEN,24.5,3,11,30,DEN,DEN,fg3_make,1,False,False,,Jokic 26' 3PT Jump Shot (17 PTS) (Barton 3 AST),75-43,75,43
 0021700259,2017-11-22,HOU,DEN,24.88,3,11,7,DEN,HOU,foul,4,False,False,Paul OFF.Foul (P1) (H.Workman),,75-43,75,43
@@ -289,8 +289,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700259,2017-11-22,HOU,DEN,30.98,3,5,1,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:1 Def:6),,84-60,84,60
 0021700259,2017-11-22,HOU,DEN,31.05,3,4,57,HOU,HOU,fg_miss,6,True,False,MISS Nene 1' Driving Layup,,84-60,84,60
 0021700259,2017-11-22,HOU,DEN,31.05,3,4,57,HOU,DEN,block,6,True,False,block,block,84-60,84,60
-0021700259,2017-11-22,HOU,DEN,31.08,3,4,55,DEN,DEN,reb,0,False,False,,Barton REBOUND (Off:0 Def:4),84-60,84,60
 0021700259,2017-11-22,HOU,DEN,31.08,3,4,55,DEN,HOU,foul,1,False,False,Mbah a Moute P.FOUL (P3.PN) (H.Workman),,84-60,84,60
+0021700259,2017-11-22,HOU,DEN,31.08,3,4,55,DEN,DEN,reb,0,False,False,,Barton REBOUND (Off:0 Def:4),84-60,84,60
 0021700259,2017-11-22,HOU,DEN,31.08,3,4,55,DEN,DEN,ft_make,11,False,False,,Barton Free Throw 1 of 2 (17 PTS),84-61,84,61
 0021700259,2017-11-22,HOU,DEN,31.08,3,4,55,DEN,DEN,ft_make,12,False,False,,Barton Free Throw 2 of 2 (18 PTS),84-62,84,62
 0021700259,2017-11-22,HOU,DEN,31.33,3,4,40,HOU,DEN,violation,5,False,False,,Barton Violation:Kicked Ball (S.Wall),84-62,84,62
@@ -323,9 +323,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700259,2017-11-22,HOU,DEN,34.27,3,1,44,HOU,HOU,fg3_miss,1,False,False,MISS Harden 25' 3PT Jump Shot,,96-67,96,67
 0021700259,2017-11-22,HOU,DEN,34.32,3,1,41,DEN,DEN,reb,0,False,False,,Murray REBOUND (Off:1 Def:5),96-67,96,67
 0021700259,2017-11-22,HOU,DEN,34.7,3,1,18,DEN,DEN,fg_miss,63,True,False,,MISS Harris 17' Fadeaway Jumper,96-67,96,67
+0021700259,2017-11-22,HOU,DEN,34.7,3,1,18,DEN,HOU,block,63,True,False,block,block,96-67,96,67
 0021700259,2017-11-22,HOU,DEN,34.7,3,1,18,DEN,DEN,reb,0,False,False,,Barton REBOUND (Off:1 Def:4),96-67,96,67
 0021700259,2017-11-22,HOU,DEN,34.7,3,1,18,DEN,DEN,tov,11,False,False,,Nuggets Turnover: Shot Clock (T#14),96-67,96,67
-0021700259,2017-11-22,HOU,DEN,34.7,3,1,18,DEN,HOU,block,63,True,False,block,block,96-67,96,67
 0021700259,2017-11-22,HOU,DEN,34.87,3,1,8,HOU,HOU,fg3_make,1,False,False,Tucker 24' 3PT Jump Shot (7 PTS) (Paul 8 AST),,99-67,99,67
 0021700259,2017-11-22,HOU,DEN,35.12,3,0,53,DEN,DEN,tov,2,False,True,,Plumlee Lost Ball Turnover (P2.T15),99-67,99,67
 0021700259,2017-11-22,HOU,DEN,35.12,3,0,53,DEN,HOU,steal,2,False,True,steal,steal,99-67,99,67
@@ -340,10 +340,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700259,2017-11-22,HOU,DEN,35.93,3,0,4,DEN,DEN,fg_miss,5,False,False,,MISS Murray 1' Layup,101-67,101,67
 0021700259,2017-11-22,HOU,DEN,35.93,3,0,4,HOU,HOU,reb,0,False,False,Nene REBOUND (Off:1 Def:3),,101-67,101,67
 0021700259,2017-11-22,HOU,DEN,36.0,3,0,0,HOU,HOU,fg_miss,41,True,False,MISS Harden Running Layup,,101-67,101,67
+0021700259,2017-11-22,HOU,DEN,36.0,3,0,0,HOU,DEN,block,41,True,False,block,block,101-67,101,67
 0021700259,2017-11-22,HOU,DEN,36.0,3,0,0,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,101-67,101,67
 0021700259,2017-11-22,HOU,DEN,36.0,3,0,0,HOU,,period_end,0,False,False,,,101-67,101,67
 0021700259,2017-11-22,HOU,DEN,36.0,4,12,0,HOU,,period_start,0,False,False,,,101-67,101,67
-0021700259,2017-11-22,HOU,DEN,36.0,3,0,0,HOU,DEN,block,41,True,False,block,block,101-67,101,67
 0021700259,2017-11-22,HOU,DEN,36.22,4,11,47,HOU,HOU,fg_make,7,False,False,Black 1' Dunk (2 PTS) (Paul 9 AST),,103-67,103,67
 0021700259,2017-11-22,HOU,DEN,36.55,4,11,27,DEN,DEN,fg3_miss,1,False,False,,MISS Mudiay 27' 3PT Jump Shot,103-67,103,67
 0021700259,2017-11-22,HOU,DEN,36.67,4,11,20,DEN,DEN,reb,0,False,False,,Plumlee REBOUND (Off:3 Def:1),103-67,103,67
@@ -397,8 +397,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700259,2017-11-22,HOU,DEN,41.9,4,6,6,HOU,HOU,fg3_miss,1,False,False,MISS Williams 28' 3PT Jump Shot,,115-69,115,69
 0021700259,2017-11-22,HOU,DEN,41.95,4,6,3,HOU,HOU,reb,0,False,False,Black REBOUND (Off:1 Def:1),,115-69,115,69
 0021700259,2017-11-22,HOU,DEN,41.98,4,6,1,HOU,HOU,fg_miss,5,True,False,MISS Black Layup,,115-69,115,69
-0021700259,2017-11-22,HOU,DEN,41.98,4,6,1,HOU,HOU,reb,0,False,False,Black REBOUND (Off:2 Def:1),,115-69,115,69
 0021700259,2017-11-22,HOU,DEN,41.98,4,6,1,HOU,DEN,block,5,True,False,block,block,115-69,115,69
+0021700259,2017-11-22,HOU,DEN,41.98,4,6,1,HOU,HOU,reb,0,False,False,Black REBOUND (Off:2 Def:1),,115-69,115,69
 0021700259,2017-11-22,HOU,DEN,42.07,4,5,56,HOU,HOU,fg_make,72,False,False,Black 1' Putback Layup (6 PTS),,117-69,117,69
 0021700259,2017-11-22,HOU,DEN,42.28,4,5,43,DEN,DEN,fg3_miss,1,False,False,,MISS Hernangomez 24' 3PT Jump Shot,117-69,117,69
 0021700259,2017-11-22,HOU,DEN,42.28,4,5,43,DEN,DEN,reb,0,False,False,,Lyles REBOUND (Off:1 Def:0),117-69,117,69

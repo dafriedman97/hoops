@@ -53,8 +53,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800502,2018-12-26,DET,WAS,6.02,1,5,59,WAS,WAS,ft_make,12,False,False,,Green Free Throw 2 of 2 (2 PTS),12-13,12,13
 0021800502,2018-12-26,DET,WAS,6.23,1,5,46,DET,DET,fg3_make,1,False,False,Griffin 3PT Jump Shot (3 PTS) (Bullock 1 AST),,15-13,15,13
 0021800502,2018-12-26,DET,WAS,6.6,1,5,24,WAS,WAS,fg_miss,44,True,False,,MISS Morris 1' Reverse Layup,15-13,15,13
-0021800502,2018-12-26,DET,WAS,6.6,1,5,24,WAS,WAS,reb,0,False,False,,Morris REBOUND (Off:1 Def:0),15-13,15,13
 0021800502,2018-12-26,DET,WAS,6.6,1,5,24,WAS,DET,block,44,True,False,block,block,15-13,15,13
+0021800502,2018-12-26,DET,WAS,6.6,1,5,24,WAS,WAS,reb,0,False,False,,Morris REBOUND (Off:1 Def:0),15-13,15,13
 0021800502,2018-12-26,DET,WAS,6.62,1,5,23,WAS,DET,foul,6,False,False,Calderon AWAY.FROM.PLAY.FOUL (P1.T3) (M.Kogut),,15-13,15,13
 0021800502,2018-12-26,DET,WAS,6.62,1,5,23,WAS,WAS,ft_make,10,False,False,,Ariza Free Throw 1 of 1 (1 PTS),15-14,15,14
 0021800502,2018-12-26,DET,WAS,6.82,1,5,11,WAS,WAS,fg3_make,1,False,False,,Morris 25' 3PT Jump Shot (3 PTS) (Wall 1 AST),15-17,15,17
@@ -156,8 +156,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800502,2018-12-26,DET,WAS,17.98,2,6,1,WAS,WAS,ft_miss,10,False,False,,MISS Mahinmi Free Throw 1 of 1,44-42,44,42
 0021800502,2018-12-26,DET,WAS,17.98,2,6,1,DET,DET,reb,0,False,False,PISTONS Rebound,,44-42,44,42
 0021800502,2018-12-26,DET,WAS,18.17,2,5,50,DET,DET,fg_miss,9,False,False,MISS Jackson 1' Driving Dunk,,44-42,44,42
-0021800502,2018-12-26,DET,WAS,18.17,2,5,50,DET,DET,tov,20,False,False,Jackson Illegal Assist Turnover (P3.T7),,44-42,44,42
 0021800502,2018-12-26,DET,WAS,18.17,2,5,50,DET,DET,reb,0,False,False,PISTONS Rebound,,44-42,44,42
+0021800502,2018-12-26,DET,WAS,18.17,2,5,50,DET,DET,tov,20,False,False,Jackson Illegal Assist Turnover (P3.T7),,44-42,44,42
 0021800502,2018-12-26,DET,WAS,18.52,2,5,29,WAS,WAS,fg_make,5,False,False,,Mahinmi 2' Layup (8 PTS) (Wall 2 AST),44-44,44,44
 0021800502,2018-12-26,DET,WAS,18.78,2,5,13,DET,DET,fg3_miss,1,False,False,MISS Griffin 26' 3PT Jump Shot,,44-44,44,44
 0021800502,2018-12-26,DET,WAS,18.85,2,5,9,WAS,WAS,reb,0,False,False,,Wall REBOUND (Off:0 Def:3),44-44,44,44
@@ -267,10 +267,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800502,2018-12-26,DET,WAS,30.58,3,5,25,WAS,WAS,fg_make,6,False,False,,Beal 1' Driving Layup (8 PTS),79-61,79,61
 0021800502,2018-12-26,DET,WAS,30.67,3,5,20,DET,DET,timeout,1,False,False,PISTONS Timeout: Regular (Full 3 Short 0),,79-61,79,61
 0021800502,2018-12-26,DET,WAS,30.92,3,5,5,DET,DET,fg3_miss,1,True,False,MISS Brown 3PT Jump Shot,,79-61,79,61
+0021800502,2018-12-26,DET,WAS,30.92,3,5,5,DET,WAS,block,1,True,False,block,block,79-61,79,61
 0021800502,2018-12-26,DET,WAS,30.92,3,5,5,DET,DET,reb,0,False,False,PISTONS Rebound,,79-61,79,61
 0021800502,2018-12-26,DET,WAS,30.92,3,5,5,DET,,foul,16,False,False,,,79-61,79,61
 0021800502,2018-12-26,DET,WAS,30.92,3,5,5,DET,WAS,foul,11,False,False,,Wall T.FOUL (P0.T3) (S.Wright),79-61,79,61
-0021800502,2018-12-26,DET,WAS,30.92,3,5,5,DET,WAS,block,1,True,False,block,block,79-61,79,61
 0021800502,2018-12-26,DET,WAS,30.92,3,5,5,DET,DET,ft_make,16,False,False,Bullock Free Throw Technical (5 PTS),,80-61,80,61
 0021800502,2018-12-26,DET,WAS,31.15,3,4,51,DET,DET,fg3_miss,1,True,False,MISS Brown 27' 3PT Jump Shot,,80-61,80,61
 0021800502,2018-12-26,DET,WAS,31.15,3,4,51,DET,WAS,block,1,True,False,block,block,80-61,80,61
@@ -296,8 +296,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800502,2018-12-26,DET,WAS,33.78,3,2,13,WAS,WAS,reb,0,False,False,,Wizards Rebound,85-69,85,69
 0021800502,2018-12-26,DET,WAS,33.78,3,2,13,WAS,DET,foul,3,False,False,Drummond L.B.FOUL (P3.T4) (B.Nansel),,85-69,85,69
 0021800502,2018-12-26,DET,WAS,33.97,3,2,2,WAS,WAS,fg_miss,5,True,False,,MISS Beal 1' Layup,85-69,85,69
-0021800502,2018-12-26,DET,WAS,33.97,3,2,2,WAS,WAS,reb,0,False,False,,Wizards Rebound,85-69,85,69
 0021800502,2018-12-26,DET,WAS,33.97,3,2,2,WAS,DET,block,5,True,False,block,block,85-69,85,69
+0021800502,2018-12-26,DET,WAS,33.97,3,2,2,WAS,WAS,reb,0,False,False,,Wizards Rebound,85-69,85,69
 0021800502,2018-12-26,DET,WAS,34.1,3,1,54,WAS,WAS,fg_miss,6,False,False,,MISS Ariza Driving Layup,85-69,85,69
 0021800502,2018-12-26,DET,WAS,34.22,3,1,47,DET,DET,reb,0,False,False,Johnson REBOUND (Off:0 Def:1),,85-69,85,69
 0021800502,2018-12-26,DET,WAS,34.32,3,1,41,DET,DET,fg3_miss,1,False,False,MISS Galloway 27' 3PT Jump Shot,,85-69,85,69

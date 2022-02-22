@@ -12,8 +12,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900206,2019-11-20,MIA,CLE,1.27,1,10,44,MIA,MIA,tov,1,False,True,Nunn Bad Pass Turnover (P2.T2),,2-4,2,4
 0021900206,2019-11-20,MIA,CLE,1.27,1,10,44,MIA,CLE,steal,1,False,True,steal,steal,2-4,2,4
 0021900206,2019-11-20,MIA,CLE,1.33,1,10,40,CLE,CLE,fg_miss,41,True,False,,MISS Sexton 2' Running Layup,2-4,2,4
-0021900206,2019-11-20,MIA,CLE,1.33,1,10,40,MIA,MIA,reb,0,False,False,HEAT Rebound,,2-4,2,4
 0021900206,2019-11-20,MIA,CLE,1.33,1,10,40,CLE,MIA,block,41,True,False,block,block,2-4,2,4
+0021900206,2019-11-20,MIA,CLE,1.33,1,10,40,MIA,MIA,reb,0,False,False,HEAT Rebound,,2-4,2,4
 0021900206,2019-11-20,MIA,CLE,1.58,1,10,25,MIA,MIA,fg_make,1,False,False,Adebayo 14' Jump Shot (4 PTS) (Nunn 2 AST),,4-4,4,4
 0021900206,2019-11-20,MIA,CLE,1.78,1,10,13,CLE,CLE,fg_miss,86,False,False,,MISS Nance Jr. 14' Turnaround Fadeaway Shot,4-4,4,4
 0021900206,2019-11-20,MIA,CLE,1.85,1,10,9,MIA,MIA,reb,0,False,False,Robinson REBOUND (Off:0 Def:1),,4-4,4,4
@@ -130,8 +130,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900206,2019-11-20,MIA,CLE,15.28,2,8,43,CLE,CLE,fg_make,1,False,False,,Love 18' Jump Shot (4 PTS),46-27,46,27
 0021900206,2019-11-20,MIA,CLE,15.52,2,8,29,MIA,MIA,fg_make,80,False,False,Herro 14' Step Back Jump Shot (7 PTS),,48-27,48,27
 0021900206,2019-11-20,MIA,CLE,15.75,2,8,15,CLE,CLE,fg_miss,6,True,False,,MISS Garland 9' Driving Layup,48-27,48,27
-0021900206,2019-11-20,MIA,CLE,15.75,2,8,15,MIA,MIA,reb,0,False,False,Dragic REBOUND (Off:0 Def:2),,48-27,48,27
 0021900206,2019-11-20,MIA,CLE,15.75,2,8,15,CLE,MIA,block,6,True,False,block,block,48-27,48,27
+0021900206,2019-11-20,MIA,CLE,15.75,2,8,15,MIA,MIA,reb,0,False,False,Dragic REBOUND (Off:0 Def:2),,48-27,48,27
 0021900206,2019-11-20,MIA,CLE,15.87,2,8,8,MIA,MIA,fg3_make,1,False,False,Robinson 3PT Jump Shot (12 PTS) (Dragic 5 AST),,51-27,51,27
 0021900206,2019-11-20,MIA,CLE,16.13,2,7,52,CLE,CLE,fg3_miss,1,False,False,,MISS Garland 3PT Jump Shot,51-27,51,27
 0021900206,2019-11-20,MIA,CLE,16.13,2,7,52,CLE,CLE,reb,0,False,False,,Love REBOUND (Off:1 Def:2),51-27,51,27
@@ -223,10 +223,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900206,2019-11-20,MIA,CLE,25.2,3,10,48,CLE,CLE,tov,45,False,False,,Love Out of Bounds - Bad Pass Turnover Turnover (P4.T12),75-48,75,48
 0021900206,2019-11-20,MIA,CLE,25.55,3,10,27,,MIA,jump_ball,0,False,False,Jump Ball Leonard vs. Nance Jr.: Tip to Clarkson,,75-48,75,48
 0021900206,2019-11-20,MIA,CLE,25.55,3,10,27,MIA,MIA,tov,2,False,True,Leonard Lost Ball Turnover (P2.T14),,75-48,75,48
-0021900206,2019-11-20,MIA,CLE,25.55,3,10,27,CLE,CLE,fg_miss,41,True,False,,MISS Clarkson 1' Running Layup,75-48,75,48
-0021900206,2019-11-20,MIA,CLE,25.55,3,10,27,MIA,MIA,reb,0,False,False,HEAT Rebound,,75-48,75,48
-0021900206,2019-11-20,MIA,CLE,25.55,3,10,27,CLE,MIA,block,41,True,False,block,block,75-48,75,48
 0021900206,2019-11-20,MIA,CLE,25.55,3,10,27,MIA,CLE,steal,2,False,True,steal,steal,75-48,75,48
+0021900206,2019-11-20,MIA,CLE,25.55,3,10,27,CLE,CLE,fg_miss,41,True,False,,MISS Clarkson 1' Running Layup,75-48,75,48
+0021900206,2019-11-20,MIA,CLE,25.55,3,10,27,CLE,MIA,block,41,True,False,block,block,75-48,75,48
+0021900206,2019-11-20,MIA,CLE,25.55,3,10,27,MIA,MIA,reb,0,False,False,HEAT Rebound,,75-48,75,48
 0021900206,2019-11-20,MIA,CLE,25.75,3,10,15,MIA,CLE,foul,2,False,False,,Porter Jr. S.FOUL (P3.T2) (T.Washington),75-48,75,48
 0021900206,2019-11-20,MIA,CLE,25.75,3,10,15,MIA,MIA,ft_make,11,False,False,Butler Free Throw 1 of 2 (7 PTS),,76-48,76,48
 0021900206,2019-11-20,MIA,CLE,25.75,3,10,15,MIA,MIA,ft_make,12,False,False,Butler Free Throw 2 of 2 (8 PTS),,77-48,77,48
@@ -291,12 +291,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900206,2019-11-20,MIA,CLE,31.18,3,4,49,MIA,MIA,fg_miss,79,False,False,MISS Dragic 16' Pullup Jump Shot,,85-60,85,60
 0021900206,2019-11-20,MIA,CLE,31.22,3,4,47,MIA,MIA,reb,0,False,False,Silva REBOUND (Off:2 Def:2),,85-60,85,60
 0021900206,2019-11-20,MIA,CLE,31.22,3,4,47,MIA,MIA,fg_miss,5,True,False,MISS Silva 2' Layup,,85-60,85,60
+0021900206,2019-11-20,MIA,CLE,31.22,3,4,47,MIA,CLE,block,5,True,False,block,block,85-60,85,60
 0021900206,2019-11-20,MIA,CLE,31.22,3,4,47,MIA,MIA,reb,0,False,False,Silva REBOUND (Off:3 Def:2),,85-60,85,60
 0021900206,2019-11-20,MIA,CLE,31.22,3,4,47,MIA,CLE,foul,2,False,False,,McKinnie S.FOUL (P1.PN) (H.Workman),85-60,85,60
 0021900206,2019-11-20,MIA,CLE,31.22,3,4,47,MIA,MIA,ft_miss,11,False,False,MISS Silva Free Throw 1 of 2,,85-60,85,60
 0021900206,2019-11-20,MIA,CLE,31.22,3,4,47,MIA,MIA,reb,1,False,False,HEAT Rebound,,85-60,85,60
 0021900206,2019-11-20,MIA,CLE,31.22,3,4,47,MIA,MIA,ft_miss,12,False,False,MISS Silva Free Throw 2 of 2,,85-60,85,60
-0021900206,2019-11-20,MIA,CLE,31.22,3,4,47,MIA,CLE,block,5,True,False,block,block,85-60,85,60
 0021900206,2019-11-20,MIA,CLE,31.27,3,4,44,CLE,CLE,reb,0,False,False,,Nance Jr. REBOUND (Off:3 Def:3),85-60,85,60
 0021900206,2019-11-20,MIA,CLE,31.32,3,4,41,CLE,MIA,foul,1,False,False,Nunn P.FOUL (P2.T4) (H.Workman),,85-60,85,60
 0021900206,2019-11-20,MIA,CLE,31.4,3,4,36,CLE,MIA,foul,2,False,False,Silva S.FOUL (P4.PN) (T.Washington),,85-60,85,60

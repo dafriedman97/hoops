@@ -2,8 +2,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000838,2021-04-14,DEN,MIA,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
 0022000838,2021-04-14,DEN,MIA,0.0,1,12,0,,DEN,jump_ball,0,False,False,Jump Ball Jokic vs. Adebayo: Tip to Butler,,0-0,0,0
 0022000838,2021-04-14,DEN,MIA,0.35,1,11,39,MIA,MIA,fg_miss,71,True,False,,MISS Adebayo 3' Finger Roll Layup,0-0,0,0
-0022000838,2021-04-14,DEN,MIA,0.35,1,11,39,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,0-0,0,0
 0022000838,2021-04-14,DEN,MIA,0.35,1,11,39,MIA,DEN,block,71,True,False,block,block,0-0,0,0
+0022000838,2021-04-14,DEN,MIA,0.35,1,11,39,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,0-0,0,0
 0022000838,2021-04-14,DEN,MIA,0.72,1,11,17,DEN,DEN,fg_make,58,False,False,Jokic 6' Turnaround Hook Shot (2 PTS),,2-0,2,0
 0022000838,2021-04-14,DEN,MIA,0.97,1,11,2,MIA,MIA,fg_make,1,False,False,,Adebayo 13' Jump Shot (2 PTS) (Ariza 1 AST),2-2,2,2
 0022000838,2021-04-14,DEN,MIA,1.2,1,10,48,DEN,DEN,fg3_make,1,False,False,Jokic 27' 3PT Jump Shot (5 PTS) (Morris 1 AST),,5-2,5,2
@@ -54,8 +54,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000838,2021-04-14,DEN,MIA,7.5,1,4,30,DEN,DEN,reb,0,False,False,Porter Jr. REBOUND (Off:0 Def:4),,18-19,18,19
 0022000838,2021-04-14,DEN,MIA,7.6,1,4,24,DEN,DEN,tov,45,False,False,Porter Jr. Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,18-19,18,19
 0022000838,2021-04-14,DEN,MIA,7.9,1,4,6,MIA,MIA,fg_miss,73,True,False,,MISS Adebayo 1' Driving Reverse Layup,18-19,18,19
-0022000838,2021-04-14,DEN,MIA,7.9,1,4,6,DEN,DEN,reb,0,False,False,Porter Jr. REBOUND (Off:0 Def:5),,18-19,18,19
 0022000838,2021-04-14,DEN,MIA,7.9,1,4,6,MIA,DEN,block,73,True,False,block,block,18-19,18,19
+0022000838,2021-04-14,DEN,MIA,7.9,1,4,6,DEN,DEN,reb,0,False,False,Porter Jr. REBOUND (Off:0 Def:5),,18-19,18,19
 0022000838,2021-04-14,DEN,MIA,8.05,1,3,57,DEN,MIA,foul,1,False,False,,Robinson P.FOUL (P1.T2) (M.Myers),18-19,18,19
 0022000838,2021-04-14,DEN,MIA,8.22,1,3,47,DEN,DEN,fg3_miss,1,False,False,MISS Porter Jr. 26' 3PT Jump Shot,,18-19,18,19
 0022000838,2021-04-14,DEN,MIA,8.28,1,3,43,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:0 Def:1),18-19,18,19
@@ -145,8 +145,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000838,2021-04-14,DEN,MIA,19.48,2,4,31,MIA,MIA,fg3_miss,1,False,False,,MISS Nunn 26' 3PT Jump Shot,48-41,48,41
 0022000838,2021-04-14,DEN,MIA,19.53,2,4,28,DEN,DEN,reb,0,False,False,Dozier REBOUND (Off:0 Def:2),,48-41,48,41
 0022000838,2021-04-14,DEN,MIA,19.65,2,4,21,DEN,DEN,fg3_miss,1,False,False,MISS Dozier 3PT Jump Shot,,48-41,48,41
-0022000838,2021-04-14,DEN,MIA,19.8,2,4,12,DEN,DEN,fg_miss,97,False,False,MISS Gordon Tip Layup Shot,,48-41,48,41
 0022000838,2021-04-14,DEN,MIA,19.8,2,4,12,DEN,DEN,reb,0,False,False,Gordon REBOUND (Off:2 Def:0),,48-41,48,41
+0022000838,2021-04-14,DEN,MIA,19.8,2,4,12,DEN,DEN,fg_miss,97,False,False,MISS Gordon Tip Layup Shot,,48-41,48,41
 0022000838,2021-04-14,DEN,MIA,19.82,2,4,11,MIA,MIA,reb,0,False,False,,Ariza REBOUND (Off:0 Def:1),48-41,48,41
 0022000838,2021-04-14,DEN,MIA,19.85,2,4,9,MIA,MIA,fg3_miss,79,False,False,,MISS Robinson 25' 3PT Pullup Jump Shot,48-41,48,41
 0022000838,2021-04-14,DEN,MIA,19.9,2,4,6,DEN,DEN,reb,0,False,False,Morris REBOUND (Off:0 Def:1),,48-41,48,41
@@ -161,14 +161,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000838,2021-04-14,DEN,MIA,20.8,2,3,12,MIA,MIA,reb,0,False,False,,Herro REBOUND (Off:1 Def:2),52-41,52,41
 0022000838,2021-04-14,DEN,MIA,20.82,2,3,11,MIA,MIA,fg3_make,1,False,False,,Ariza 25' 3PT Jump Shot (10 PTS) (Herro 5 AST),52-44,52,44
 0022000838,2021-04-14,DEN,MIA,21.07,2,2,56,DEN,DEN,fg_miss,5,True,False,MISS Jokic 3' Layup,,52-44,52,44
-0022000838,2021-04-14,DEN,MIA,21.07,2,2,56,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,52-44,52,44
 0022000838,2021-04-14,DEN,MIA,21.07,2,2,56,DEN,MIA,block,5,True,False,block,block,52-44,52,44
+0022000838,2021-04-14,DEN,MIA,21.07,2,2,56,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,52-44,52,44
 0022000838,2021-04-14,DEN,MIA,21.15,2,2,51,DEN,DEN,fg_make,108,False,False,Porter Jr. 1' Cutting Dunk Shot (17 PTS) (Gordon 2 AST),,54-44,54,44
 0022000838,2021-04-14,DEN,MIA,21.48,2,2,31,MIA,MIA,fg3_miss,1,False,False,,MISS Nunn 3PT Jump Shot,54-44,54,44
 0022000838,2021-04-14,DEN,MIA,21.53,2,2,28,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:1 Def:1),,54-44,54,44
 0022000838,2021-04-14,DEN,MIA,21.58,2,2,25,DEN,DEN,fg_miss,76,True,False,MISS Morris 5' Running Finger Roll Layup,,54-44,54,44
-0022000838,2021-04-14,DEN,MIA,21.58,2,2,25,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,54-44,54,44
 0022000838,2021-04-14,DEN,MIA,21.58,2,2,25,DEN,MIA,block,76,True,False,block,block,54-44,54,44
+0022000838,2021-04-14,DEN,MIA,21.58,2,2,25,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,54-44,54,44
 0022000838,2021-04-14,DEN,MIA,21.78,2,2,13,DEN,DEN,fg_make,6,False,False,Morris 3' Driving Layup (4 PTS) (Jokic 6 AST),,56-44,56,44
 0022000838,2021-04-14,DEN,MIA,21.95,2,2,3,MIA,MIA,fg_miss,101,False,False,,MISS Adebayo 6' Driving Floating Jump Shot,56-44,56,44
 0022000838,2021-04-14,DEN,MIA,22.02,2,1,59,DEN,DEN,reb,0,False,False,Gordon REBOUND (Off:2 Def:1),,56-44,56,44
@@ -208,8 +208,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000838,2021-04-14,DEN,MIA,27.35,3,8,39,MIA,MIA,ft_make,11,False,False,,Adebayo Free Throw 1 of 2 (15 PTS),71-63,71,63
 0022000838,2021-04-14,DEN,MIA,27.35,3,8,39,MIA,MIA,ft_make,12,False,False,,Adebayo Free Throw 2 of 2 (16 PTS),71-64,71,64
 0022000838,2021-04-14,DEN,MIA,27.68,3,8,19,DEN,DEN,fg_miss,44,False,False,MISS Porter Jr. 2' Reverse Layup,,71-64,71,64
-0022000838,2021-04-14,DEN,MIA,27.75,3,8,15,DEN,DEN,fg_make,107,False,False,Gordon Tip Dunk Shot (9 PTS),,73-64,73,64
 0022000838,2021-04-14,DEN,MIA,27.75,3,8,15,DEN,DEN,reb,0,False,False,Gordon REBOUND (Off:3 Def:1),,73-64,73,64
+0022000838,2021-04-14,DEN,MIA,27.75,3,8,15,DEN,DEN,fg_make,107,False,False,Gordon Tip Dunk Shot (9 PTS),,73-64,73,64
 0022000838,2021-04-14,DEN,MIA,27.93,3,8,4,MIA,MIA,tov,2,False,True,,Adebayo Lost Ball Turnover (P4.T4),73-64,73,64
 0022000838,2021-04-14,DEN,MIA,27.93,3,8,4,MIA,DEN,steal,2,False,True,steal,steal,73-64,73,64
 0022000838,2021-04-14,DEN,MIA,28.2,3,7,48,DEN,DEN,tov,1,False,True,Gordon Bad Pass Turnover (P1.T10),,73-64,73,64
@@ -283,8 +283,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000838,2021-04-14,DEN,MIA,36.95,4,11,3,MIA,MIA,fg3_miss,1,False,False,,MISS Iguodala 3PT Jump Shot,99-82,99,82
 0022000838,2021-04-14,DEN,MIA,37.02,4,10,59,DEN,DEN,reb,0,False,False,Campazzo REBOUND (Off:0 Def:2),,99-82,99,82
 0022000838,2021-04-14,DEN,MIA,37.1,4,10,54,DEN,DEN,fg_miss,6,True,False,MISS Millsap 10' Driving Layup,,99-82,99,82
-0022000838,2021-04-14,DEN,MIA,37.1,4,10,54,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,99-82,99,82
 0022000838,2021-04-14,DEN,MIA,37.1,4,10,54,DEN,MIA,block,6,True,False,block,block,99-82,99,82
+0022000838,2021-04-14,DEN,MIA,37.1,4,10,54,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,99-82,99,82
 0022000838,2021-04-14,DEN,MIA,37.13,4,10,52,DEN,DEN,fg3_miss,1,False,False,MISS Porter Jr. 25' 3PT Jump Shot,,99-82,99,82
 0022000838,2021-04-14,DEN,MIA,37.2,4,10,48,MIA,MIA,reb,0,False,False,,Strus REBOUND (Off:0 Def:1),99-82,99,82
 0022000838,2021-04-14,DEN,MIA,37.28,4,10,43,MIA,MIA,tov,2,False,True,,Adebayo Lost Ball Turnover (P5.T7),99-82,99,82
@@ -353,10 +353,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000838,2021-04-14,DEN,MIA,44.78,4,3,13,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:3 Def:6),,117-98,117,98
 0022000838,2021-04-14,DEN,MIA,44.78,4,3,13,DEN,DEN,fg_miss,97,True,False,MISS Jokic Tip Layup Shot,,117-98,117,98
 0022000838,2021-04-14,DEN,MIA,44.78,4,3,13,DEN,MIA,block,97,True,False,block,block,117-98,117,98
-0022000838,2021-04-14,DEN,MIA,44.82,4,3,11,DEN,DEN,fg_miss,72,True,False,MISS Jokic Putback Layup,,117-98,117,98
-0022000838,2021-04-14,DEN,MIA,44.82,4,3,11,MIA,MIA,reb,0,False,False,,Vincent REBOUND (Off:0 Def:1),117-98,117,98
 0022000838,2021-04-14,DEN,MIA,44.82,4,3,11,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:4 Def:6),,117-98,117,98
+0022000838,2021-04-14,DEN,MIA,44.82,4,3,11,DEN,DEN,fg_miss,72,True,False,MISS Jokic Putback Layup,,117-98,117,98
 0022000838,2021-04-14,DEN,MIA,44.82,4,3,11,DEN,MIA,block,72,True,False,block,block,117-98,117,98
+0022000838,2021-04-14,DEN,MIA,44.82,4,3,11,MIA,MIA,reb,0,False,False,,Vincent REBOUND (Off:0 Def:1),117-98,117,98
 0022000838,2021-04-14,DEN,MIA,44.95,4,3,3,MIA,MIA,fg3_miss,1,False,False,,MISS Dedmon 27' 3PT Jump Shot,117-98,117,98
 0022000838,2021-04-14,DEN,MIA,45.0,4,3,0,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,117-98,117,98
 0022000838,2021-04-14,DEN,MIA,45.25,4,2,45,DEN,DEN,fg3_miss,1,False,False,MISS Barton 26' 3PT Jump Shot,,117-98,117,98

@@ -21,8 +21,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700121,2017-11-03,PHI,IND,2.57,1,9,26,PHI,PHI,reb,0,False,False,Saric REBOUND (Off:1 Def:0),,8-6,8,6
 0021700121,2017-11-03,PHI,IND,2.67,1,9,20,PHI,PHI,fg_make,97,False,False,Saric 1' Tip Layup Shot (4 PTS),,10-6,10,6
 0021700121,2017-11-03,PHI,IND,2.83,1,9,10,IND,IND,fg_miss,73,True,False,,MISS Collison 1' Driving Reverse Layup,10-6,10,6
-0021700121,2017-11-03,PHI,IND,2.83,1,9,10,IND,IND,reb,0,False,False,,Pacers Rebound,10-6,10,6
 0021700121,2017-11-03,PHI,IND,2.83,1,9,10,IND,PHI,block,73,True,False,block,block,10-6,10,6
+0021700121,2017-11-03,PHI,IND,2.83,1,9,10,IND,IND,reb,0,False,False,,Pacers Rebound,10-6,10,6
 0021700121,2017-11-03,PHI,IND,2.87,1,9,8,IND,IND,fg_make,80,False,False,,Bogdanovic 11' Step Back Jump Shot (4 PTS) (Oladipo 3 AST),10-8,10,8
 0021700121,2017-11-03,PHI,IND,3.08,1,8,55,PHI,PHI,fg3_miss,1,False,False,MISS Redick 26' 3PT Jump Shot,,10-8,10,8
 0021700121,2017-11-03,PHI,IND,3.15,1,8,51,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:0),,10-8,10,8
@@ -97,9 +97,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700121,2017-11-03,PHI,IND,9.43,1,2,34,PHI,IND,block,1,True,False,block,block,27-19,27,19
 0021700121,2017-11-03,PHI,IND,9.5,1,2,30,IND,IND,reb,0,False,False,,Leaf REBOUND (Off:0 Def:1),27-19,27,19
 0021700121,2017-11-03,PHI,IND,9.53,1,2,28,IND,IND,fg_miss,41,True,False,,MISS Turner 3' Running Layup,27-19,27,19
+0021700121,2017-11-03,PHI,IND,9.53,1,2,28,IND,PHI,block,41,True,False,block,block,27-19,27,19
 0021700121,2017-11-03,PHI,IND,9.53,1,2,28,IND,IND,reb,0,False,False,,Pacers Rebound,27-19,27,19
 0021700121,2017-11-03,PHI,IND,9.53,1,2,28,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 1 Short 0),,27-19,27,19
-0021700121,2017-11-03,PHI,IND,9.53,1,2,28,IND,PHI,block,41,True,False,block,block,27-19,27,19
 0021700121,2017-11-03,PHI,IND,9.72,1,2,17,IND,IND,fg_miss,1,False,False,,MISS Turner 19' Jump Shot,27-19,27,19
 0021700121,2017-11-03,PHI,IND,9.78,1,2,13,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:2),,27-19,27,19
 0021700121,2017-11-03,PHI,IND,10.02,1,1,59,PHI,PHI,fg_miss,80,False,False,MISS Embiid 11' Step Back Jump Shot,,27-19,27,19
@@ -124,8 +124,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700121,2017-11-03,PHI,IND,11.92,1,0,5,PHI,IND,steal,1,False,True,steal,steal,30-25,30,25
 0021700121,2017-11-03,PHI,IND,11.98,1,0,1,IND,IND,fg_make,41,False,False,,Young 2' Running Layup (2 PTS),30-27,30,27
 0021700121,2017-11-03,PHI,IND,11.98,1,0,1,IND,PHI,foul,14,False,False,Embiid FLAGRANT.FOUL.TYPE1 (P1.T3) (T.Brown),,30-27,30,27
-0021700121,2017-11-03,PHI,IND,11.98,1,0,1,PHI,PHI,tov,0,False,False,Embiid No Turnover (P2.T5),,30-27,30,27
 0021700121,2017-11-03,PHI,IND,11.98,1,0,1,PHI,IND,ft_make,20,False,False,,Young Free Throw Flagrant 1 of 1 (3 PTS),30-28,30,28
+0021700121,2017-11-03,PHI,IND,11.98,1,0,1,PHI,PHI,tov,0,False,False,Embiid No Turnover (P2.T5),,30-27,30,27
 0021700121,2017-11-03,PHI,IND,12.0,1,0,0,IND,IND,fg_miss,86,False,False,,MISS Joseph 12' Turnaround Fadeaway Shot,30-28,30,28
 0021700121,2017-11-03,PHI,IND,12.0,1,0,0,IND,IND,reb,0,False,False,,Pacers Rebound,30-28,30,28
 0021700121,2017-11-03,PHI,IND,12.0,1,0,0,IND,,period_end,0,False,False,,,30-28,30,28
@@ -248,8 +248,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700121,2017-11-03,PHI,IND,24.25,3,11,45,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:5),,56-63,56,63
 0021700121,2017-11-03,PHI,IND,24.35,3,11,39,PHI,PHI,tov,45,False,False,Embiid Out of Bounds - Bad Pass Turnover Turnover (P6.T12),,56-63,56,63
 0021700121,2017-11-03,PHI,IND,24.63,3,11,22,IND,IND,fg_miss,1,True,False,,MISS Young 9' Jump Shot,56-63,56,63
-0021700121,2017-11-03,PHI,IND,24.63,3,11,22,IND,IND,reb,0,False,False,,Pacers Rebound,56-63,56,63
 0021700121,2017-11-03,PHI,IND,24.63,3,11,22,IND,PHI,block,1,True,False,block,block,56-63,56,63
+0021700121,2017-11-03,PHI,IND,24.63,3,11,22,IND,IND,reb,0,False,False,,Pacers Rebound,56-63,56,63
 0021700121,2017-11-03,PHI,IND,24.75,3,11,15,IND,IND,fg_make,47,False,False,,Oladipo 20' Turnaround Jump Shot (10 PTS) (Collison 5 AST),56-65,56,65
 0021700121,2017-11-03,PHI,IND,25.02,3,10,59,PHI,PHI,fg_make,105,False,False,Embiid 9' Turnaround Fadeaway Bank Jump Shot (9 PTS),,58-65,58,65
 0021700121,2017-11-03,PHI,IND,25.02,3,10,59,PHI,IND,foul,2,False,False,,Young S.FOUL (P2.T1) (G.Zielinski),58-65,58,65
@@ -411,8 +411,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700121,2017-11-03,PHI,IND,42.67,4,5,20,IND,IND,fg_make,50,False,False,,Oladipo 5' Running Dunk (26 PTS) (Bogdanovic 2 AST),105-103,105,103
 0021700121,2017-11-03,PHI,IND,43.0,4,5,0,PHI,PHI,tov,4,False,False,Covington Traveling Turnover (P2.T19),,105-103,105,103
 0021700121,2017-11-03,PHI,IND,43.2,4,4,48,IND,IND,fg_miss,6,True,False,,MISS Sabonis 5' Driving Layup,105-103,105,103
-0021700121,2017-11-03,PHI,IND,43.2,4,4,48,IND,IND,reb,0,False,False,,Pacers Rebound,105-103,105,103
 0021700121,2017-11-03,PHI,IND,43.2,4,4,48,IND,PHI,block,6,True,False,block,block,105-103,105,103
+0021700121,2017-11-03,PHI,IND,43.2,4,4,48,IND,IND,reb,0,False,False,,Pacers Rebound,105-103,105,103
 0021700121,2017-11-03,PHI,IND,43.35,4,4,39,IND,IND,fg3_make,1,False,False,,Oladipo 27' 3PT Jump Shot (29 PTS),105-106,105,106
 0021700121,2017-11-03,PHI,IND,43.35,4,4,39,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 5 Short 0),,105-106,105,106
 0021700121,2017-11-03,PHI,IND,43.62,4,4,23,PHI,PHI,fg3_miss,1,False,False,MISS Redick 26' 3PT Jump Shot,,105-106,105,106

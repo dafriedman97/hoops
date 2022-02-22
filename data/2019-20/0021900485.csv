@@ -192,9 +192,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900485,2019-12-28,LAC,UTA,21.65,2,2,21,LAC,LAC,fg3_miss,1,False,False,MISS George 26' 3PT Jump Shot,,56-52,56,52
 0021900485,2019-12-28,LAC,UTA,21.68,2,2,19,UTA,UTA,reb,0,False,False,,Ingles REBOUND (Off:0 Def:2),56-52,56,52
 0021900485,2019-12-28,LAC,UTA,21.73,2,2,16,UTA,UTA,fg_miss,41,True,False,,MISS Bogdanovic 2' Running Layup,56-52,56,52
+0021900485,2019-12-28,LAC,UTA,21.73,2,2,16,UTA,LAC,block,41,True,False,block,block,56-52,56,52
 0021900485,2019-12-28,LAC,UTA,21.73,2,2,16,UTA,UTA,reb,0,False,False,,Jazz Rebound,56-52,56,52
 0021900485,2019-12-28,LAC,UTA,21.73,2,2,16,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 2 Short 0),,56-52,56,52
-0021900485,2019-12-28,LAC,UTA,21.73,2,2,16,UTA,LAC,block,41,True,False,block,block,56-52,56,52
 0021900485,2019-12-28,LAC,UTA,21.93,2,2,4,UTA,UTA,fg3_make,1,False,False,,O'Neale 28' 3PT Jump Shot (8 PTS) (Mitchell 8 AST),56-55,56,55
 0021900485,2019-12-28,LAC,UTA,22.25,2,1,45,LAC,LAC,fg_make,98,False,False,Green 2' Cutting Layup Shot (4 PTS) (Leonard 3 AST),,58-55,58,55
 0021900485,2019-12-28,LAC,UTA,22.55,2,1,27,UTA,UTA,fg_miss,78,False,False,,MISS Bogdanovic 10' Floating Jump Shot,58-55,58,55
@@ -240,8 +240,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900485,2019-12-28,LAC,UTA,26.55,3,9,27,UTA,UTA,fg3_make,80,False,False,,Ingles 26' 3PT Step Back Jump Shot (12 PTS),66-72,66,72
 0021900485,2019-12-28,LAC,UTA,27.0,3,9,0,LAC,LAC,fg3_make,1,False,False,Leonard 3PT Jump Shot (17 PTS) (Williams 6 AST),,69-72,69,72
 0021900485,2019-12-28,LAC,UTA,27.38,3,8,37,UTA,UTA,tov,1,False,True,,Mitchell Bad Pass Turnover (P3.T6),69-72,69,72
-0021900485,2019-12-28,LAC,UTA,27.38,3,8,37,LAC,UTA,foul,28,False,False,,O'Neale Personal Take Foul (P2.T1) (C.Blair),69-72,69,72
 0021900485,2019-12-28,LAC,UTA,27.38,3,8,37,UTA,LAC,steal,1,False,True,steal,steal,69-72,69,72
+0021900485,2019-12-28,LAC,UTA,27.38,3,8,37,LAC,UTA,foul,28,False,False,,O'Neale Personal Take Foul (P2.T1) (C.Blair),69-72,69,72
 0021900485,2019-12-28,LAC,UTA,27.52,3,8,29,LAC,LAC,fg_make,79,False,False,Williams 16' Pullup Jump Shot (4 PTS),,71-72,71,72
 0021900485,2019-12-28,LAC,UTA,27.93,3,8,4,UTA,UTA,fg3_miss,1,False,False,,MISS Bogdanovic 27' 3PT Jump Shot,71-72,71,72
 0021900485,2019-12-28,LAC,UTA,27.97,3,8,2,LAC,LAC,reb,0,False,False,Harkless REBOUND (Off:0 Def:4),,71-72,71,72
@@ -328,8 +328,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900485,2019-12-28,LAC,UTA,37.32,4,10,41,UTA,UTA,reb,0,False,False,,Niang REBOUND (Off:1 Def:1),96-93,96,93
 0021900485,2019-12-28,LAC,UTA,37.32,4,10,41,UTA,LAC,foul,1,False,False,Green P.FOUL (P3.T1) (P.Ransom),,96-93,96,93
 0021900485,2019-12-28,LAC,UTA,37.6,4,10,24,UTA,UTA,fg_miss,6,True,False,,MISS Niang 6' Driving Layup,96-93,96,93
-0021900485,2019-12-28,LAC,UTA,37.6,4,10,24,UTA,UTA,reb,0,False,False,,Jazz Rebound,96-93,96,93
 0021900485,2019-12-28,LAC,UTA,37.6,4,10,24,UTA,LAC,block,6,True,False,block,block,96-93,96,93
+0021900485,2019-12-28,LAC,UTA,37.6,4,10,24,UTA,UTA,reb,0,False,False,,Jazz Rebound,96-93,96,93
 0021900485,2019-12-28,LAC,UTA,37.62,4,10,23,UTA,LAC,foul,2,False,False,Shamet S.FOUL (P1.T2) (J.Capers),,96-93,96,93
 0021900485,2019-12-28,LAC,UTA,37.62,4,10,23,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 4 Short 0),,96-93,96,93
 0021900485,2019-12-28,LAC,UTA,37.62,4,10,23,UTA,UTA,ft_miss,13,False,False,,MISS Clarkson Free Throw 1 of 3,96-93,96,93
@@ -395,8 +395,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900485,2019-12-28,LAC,UTA,43.35,4,4,39,LAC,LAC,reb,0,False,False,Zubac REBOUND (Off:8 Def:3),,102-109,102,109
 0021900485,2019-12-28,LAC,UTA,43.38,4,4,37,LAC,LAC,fg3_make,1,False,False,Williams 3PT Jump Shot (16 PTS) (Zubac 2 AST),,105-109,105,109
 0021900485,2019-12-28,LAC,UTA,43.62,4,4,23,UTA,UTA,fg_miss,6,False,False,,MISS Ingles 6' Driving Layup,105-109,105,109
-0021900485,2019-12-28,LAC,UTA,43.65,4,4,21,UTA,UTA,reb,0,False,False,,Jazz Rebound,105-109,105,109
 0021900485,2019-12-28,LAC,UTA,43.65,4,4,21,UTA,UTA,tov,4,False,False,,Ingles Traveling Turnover (P1.T11),105-109,105,109
+0021900485,2019-12-28,LAC,UTA,43.65,4,4,21,UTA,UTA,reb,0,False,False,,Jazz Rebound,105-109,105,109
 0021900485,2019-12-28,LAC,UTA,43.83,4,4,10,LAC,LAC,fg_miss,1,False,False,MISS George 16' Jump Shot,,105-109,105,109
 0021900485,2019-12-28,LAC,UTA,43.92,4,4,5,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:1 Def:6),105-109,105,109
 0021900485,2019-12-28,LAC,UTA,44.2,4,3,48,UTA,UTA,fg_miss,79,False,False,,MISS Mitchell 18' Pullup Jump Shot,105-109,105,109

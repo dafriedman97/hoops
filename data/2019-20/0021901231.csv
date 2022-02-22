@@ -43,8 +43,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901231,2020-07-30,NOP,UTA,3.67,1,8,20,UTA,UTA,ft_make,11,False,False,,Ingles Free Throw 1 of 2 (5 PTS),8-13,8,13
 0021901231,2020-07-30,NOP,UTA,3.67,1,8,20,UTA,UTA,ft_make,12,False,False,,Ingles Free Throw 2 of 2 (6 PTS),8-14,8,14
 0021901231,2020-07-30,NOP,UTA,4.07,1,7,56,NOP,NOP,fg_miss,6,True,False,MISS Ball 3' Driving Layup,,8-14,8,14
-0021901231,2020-07-30,NOP,UTA,4.07,1,7,56,UTA,UTA,reb,0,False,False,,Jazz Rebound,8-14,8,14
 0021901231,2020-07-30,NOP,UTA,4.07,1,7,56,NOP,UTA,block,6,True,False,block,block,8-14,8,14
+0021901231,2020-07-30,NOP,UTA,4.07,1,7,56,UTA,UTA,reb,0,False,False,,Jazz Rebound,8-14,8,14
 0021901231,2020-07-30,NOP,UTA,4.18,1,7,49,NOP,UTA,foul,4,False,False,,Ingles OFF.Foul (P1) (M.Smith),8-14,8,14
 0021901231,2020-07-30,NOP,UTA,4.18,1,7,49,UTA,UTA,tov,37,False,False,,Ingles Offensive Foul Turnover (P1.T1),8-14,8,14
 0021901231,2020-07-30,NOP,UTA,4.33,1,7,40,NOP,NOP,tov,45,False,False,Holiday Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,8-14,8,14
@@ -122,9 +122,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901231,2020-07-30,NOP,UTA,11.6,1,0,24,NOP,UTA,foul,26,False,False,,Bradley Offensive Charge Foul (P1.PN) (M.Smith),26-23,26,23
 0021901231,2020-07-30,NOP,UTA,11.6,1,0,24,UTA,UTA,tov,37,False,False,,Bradley Offensive Foul Turnover (P1.T7),26-23,26,23
 0021901231,2020-07-30,NOP,UTA,12.0,1,0,0,NOP,NOP,tov,2,False,True,Holiday Lost Ball Turnover (P2.T6),,26-23,26,23
+0021901231,2020-07-30,NOP,UTA,12.0,1,0,0,NOP,UTA,steal,2,False,True,steal,steal,26-23,26,23
 0021901231,2020-07-30,NOP,UTA,12.0,1,0,0,NOP,,period_end,0,False,False,,,26-23,26,23
 0021901231,2020-07-30,NOP,UTA,12.0,2,12,0,NOP,,period_start,0,False,False,,,26-23,26,23
-0021901231,2020-07-30,NOP,UTA,12.0,1,0,0,NOP,UTA,steal,2,False,True,steal,steal,26-23,26,23
 0021901231,2020-07-30,NOP,UTA,12.32,2,11,41,NOP,NOP,fg_make,105,False,False,Williamson 7' Turnaround Fadeaway Bank Jump Shot (7 PTS) (Redick 2 AST),,28-23,28,23
 0021901231,2020-07-30,NOP,UTA,12.67,2,11,20,UTA,UTA,fg_miss,6,False,False,,MISS Niang 3' Driving Layup,28-23,28,23
 0021901231,2020-07-30,NOP,UTA,12.68,2,11,19,UTA,UTA,reb,0,False,False,,Bradley REBOUND (Off:1 Def:1),28-23,28,23
@@ -192,8 +192,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901231,2020-07-30,NOP,UTA,18.58,2,5,25,UTA,UTA,fg_miss,80,False,False,,MISS Mitchell 24' Step Back Jump Shot,47-38,47,38
 0021901231,2020-07-30,NOP,UTA,18.63,2,5,22,NOP,NOP,reb,0,False,False,Favors REBOUND (Off:0 Def:2),,47-38,47,38
 0021901231,2020-07-30,NOP,UTA,18.75,2,5,15,NOP,NOP,fg_miss,5,True,False,MISS Favors 2' Layup,,47-38,47,38
-0021901231,2020-07-30,NOP,UTA,18.75,2,5,15,NOP,NOP,reb,0,False,False,PELICANS Rebound,,47-38,47,38
 0021901231,2020-07-30,NOP,UTA,18.75,2,5,15,NOP,UTA,block,5,True,False,block,block,47-38,47,38
+0021901231,2020-07-30,NOP,UTA,18.75,2,5,15,NOP,NOP,reb,0,False,False,PELICANS Rebound,,47-38,47,38
 0021901231,2020-07-30,NOP,UTA,18.93,2,5,4,NOP,NOP,fg_make,66,False,False,Moore 16' Jump Bank Shot (2 PTS),,49-38,49,38
 0021901231,2020-07-30,NOP,UTA,19.12,2,4,53,UTA,UTA,fg_make,6,False,False,,O'Neale 3' Driving Layup (5 PTS),49-40,49,40
 0021901231,2020-07-30,NOP,UTA,19.42,2,4,35,NOP,NOP,fg_miss,6,False,False,MISS Ball 3' Driving Layup,,49-40,49,40
@@ -257,9 +257,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901231,2020-07-30,NOP,UTA,24.95,3,11,3,UTA,UTA,reb,0,False,False,,Ingles REBOUND (Off:1 Def:1),60-48,60,48
 0021901231,2020-07-30,NOP,UTA,24.98,3,11,1,UTA,UTA,fg_make,44,False,False,,O'Neale 3' Reverse Layup (7 PTS) (Mitchell 2 AST),60-50,60,50
 0021901231,2020-07-30,NOP,UTA,25.08,3,10,55,NOP,NOP,tov,1,False,True,Ball Bad Pass Turnover (P2.T12),,60-50,60,50
+0021901231,2020-07-30,NOP,UTA,25.08,3,10,55,NOP,UTA,steal,1,False,True,steal,steal,60-50,60,50
 0021901231,2020-07-30,NOP,UTA,25.08,3,10,55,NOP,UTA,foul,4,False,False,,Ingles OFF.Foul (P3) (J.Williams),60-50,60,50
 0021901231,2020-07-30,NOP,UTA,25.08,3,10,55,UTA,UTA,tov,37,False,False,,Ingles Offensive Foul Turnover (P3.T12),60-50,60,50
-0021901231,2020-07-30,NOP,UTA,25.08,3,10,55,NOP,UTA,steal,1,False,True,steal,steal,60-50,60,50
 0021901231,2020-07-30,NOP,UTA,25.23,3,10,46,NOP,NOP,fg_miss,47,False,False,MISS Holiday 10' Turnaround Jump Shot,,60-50,60,50
 0021901231,2020-07-30,NOP,UTA,25.28,3,10,43,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:2 Def:6),60-50,60,50
 0021901231,2020-07-30,NOP,UTA,25.4,3,10,36,UTA,UTA,fg3_make,1,False,False,,Ingles 24' 3PT Jump Shot (9 PTS) (Conley 2 AST),60-53,60,53

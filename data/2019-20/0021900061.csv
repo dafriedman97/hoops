@@ -140,9 +140,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900061,2019-10-30,WAS,HOU,14.03,2,9,58,WAS,WAS,fg_miss,67,False,False,MISS Hachimura 5' Hook Bank Shot,,36-43,36,43
 0021900061,2019-10-30,WAS,HOU,14.05,2,9,57,WAS,WAS,reb,0,False,False,Wagner REBOUND (Off:1 Def:0),,36-43,36,43
 0021900061,2019-10-30,WAS,HOU,14.05,2,9,57,WAS,WAS,fg_miss,72,True,False,MISS Wagner 9' Putback Layup,,36-43,36,43
+0021900061,2019-10-30,WAS,HOU,14.05,2,9,57,WAS,HOU,block,72,True,False,block,block,36-43,36,43
 0021900061,2019-10-30,WAS,HOU,14.05,2,9,57,WAS,WAS,reb,0,False,False,Hachimura REBOUND (Off:2 Def:0),,36-43,36,43
 0021900061,2019-10-30,WAS,HOU,14.05,2,9,57,WAS,HOU,foul,1,False,False,,Sefolosha P.FOUL (P1.T1) (K.Scott),36-43,36,43
-0021900061,2019-10-30,WAS,HOU,14.05,2,9,57,WAS,HOU,block,72,True,False,block,block,36-43,36,43
 0021900061,2019-10-30,WAS,HOU,14.15,2,9,51,WAS,WAS,tov,1,False,True,Wagner Bad Pass Turnover (P3.T8),,36-43,36,43
 0021900061,2019-10-30,WAS,HOU,14.15,2,9,51,WAS,HOU,steal,1,False,True,steal,steal,36-43,36,43
 0021900061,2019-10-30,WAS,HOU,14.2,2,9,48,HOU,WAS,foul,2,False,False,Bertans S.FOUL (P1.T1) (J.Goldenberg),,36-43,36,43
@@ -255,8 +255,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900061,2019-10-30,WAS,HOU,26.03,3,9,58,WAS,WAS,fg_miss,79,False,False,MISS Hachimura 21' Pullup Jump Shot,,80-81,80,81
 0021900061,2019-10-30,WAS,HOU,26.1,3,9,54,HOU,HOU,reb,0,False,False,,Capela REBOUND (Off:3 Def:7),80-81,80,81
 0021900061,2019-10-30,WAS,HOU,26.18,3,9,49,HOU,HOU,fg_miss,3,True,False,,MISS Capela 5' Hook Shot,80-81,80,81
-0021900061,2019-10-30,WAS,HOU,26.18,3,9,49,HOU,HOU,reb,0,False,False,,Capela REBOUND (Off:4 Def:7),80-81,80,81
 0021900061,2019-10-30,WAS,HOU,26.18,3,9,49,HOU,WAS,block,3,True,False,block,block,80-81,80,81
+0021900061,2019-10-30,WAS,HOU,26.18,3,9,49,HOU,HOU,reb,0,False,False,,Capela REBOUND (Off:4 Def:7),80-81,80,81
 0021900061,2019-10-30,WAS,HOU,26.23,3,9,46,HOU,HOU,fg3_make,1,False,False,,Harden 30' 3PT Jump Shot (27 PTS) (Capela 2 AST),80-84,80,84
 0021900061,2019-10-30,WAS,HOU,26.47,3,9,32,WAS,WAS,fg3_make,79,False,False,Beal 26' 3PT Pullup Jump Shot (26 PTS),,83-84,83,84
 0021900061,2019-10-30,WAS,HOU,26.68,3,9,19,HOU,HOU,tov,45,False,False,,Westbrook Out of Bounds - Bad Pass Turnover Turnover (P3.T8),83-84,83,84
@@ -312,8 +312,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900061,2019-10-30,WAS,HOU,33.53,3,2,28,HOU,HOU,fg3_miss,1,False,False,,MISS Gordon 26' 3PT Jump Shot,110-104,110,104
 0021900061,2019-10-30,WAS,HOU,33.53,3,2,28,WAS,WAS,reb,0,False,False,Bertans REBOUND (Off:0 Def:2),,110-104,110,104
 0021900061,2019-10-30,WAS,HOU,33.73,3,2,16,WAS,WAS,fg_miss,5,False,False,MISS Beal 6' Layup,,110-104,110,104
-0021900061,2019-10-30,WAS,HOU,33.8,3,2,12,WAS,WAS,fg_make,97,False,False,Wagner 1' Tip Layup Shot (10 PTS),,112-104,112,104
 0021900061,2019-10-30,WAS,HOU,33.8,3,2,12,WAS,WAS,reb,0,False,False,Wagner REBOUND (Off:2 Def:0),,112-104,112,104
+0021900061,2019-10-30,WAS,HOU,33.8,3,2,12,WAS,WAS,fg_make,97,False,False,Wagner 1' Tip Layup Shot (10 PTS),,112-104,112,104
 0021900061,2019-10-30,WAS,HOU,33.98,3,2,1,HOU,HOU,fg3_make,1,False,False,,House Jr. 24' 3PT Jump Shot (14 PTS) (Gordon 1 AST),112-107,112,107
 0021900061,2019-10-30,WAS,HOU,34.27,3,1,44,WAS,WAS,fg_make,73,False,False,Brown Jr. 1' Driving Reverse Layup (8 PTS),,114-107,114,107
 0021900061,2019-10-30,WAS,HOU,34.35,3,1,39,WAS,HOU,foul,26,False,False,,Westbrook Offensive Charge Foul (P2.T4) (J.Capers),114-107,114,107
@@ -378,8 +378,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900061,2019-10-30,WAS,HOU,39.03,4,8,58,HOU,HOU,fg3_miss,1,False,False,,MISS House Jr. 3PT Jump Shot,129-120,129,120
 0021900061,2019-10-30,WAS,HOU,39.1,4,8,54,HOU,HOU,reb,0,False,False,,House Jr. REBOUND (Off:3 Def:2),129-120,129,120
 0021900061,2019-10-30,WAS,HOU,39.13,4,8,52,HOU,HOU,tov,2,False,True,,House Jr. Lost Ball Turnover (P1.T11),129-120,129,120
-0021900061,2019-10-30,WAS,HOU,39.13,4,8,52,WAS,HOU,foul,1,False,False,,House Jr. P.FOUL (P1.T1) (J.Capers),129-120,129,120
 0021900061,2019-10-30,WAS,HOU,39.13,4,8,52,HOU,WAS,steal,2,False,True,steal,steal,129-120,129,120
+0021900061,2019-10-30,WAS,HOU,39.13,4,8,52,WAS,HOU,foul,1,False,False,,House Jr. P.FOUL (P1.T1) (J.Capers),129-120,129,120
 0021900061,2019-10-30,WAS,HOU,39.35,4,8,39,WAS,WAS,fg_miss,98,False,False,MISS Wagner 3' Cutting Layup Shot,,129-120,129,120
 0021900061,2019-10-30,WAS,HOU,39.37,4,8,38,HOU,HOU,reb,0,False,False,,House Jr. REBOUND (Off:3 Def:3),129-120,129,120
 0021900061,2019-10-30,WAS,HOU,39.48,4,8,31,HOU,HOU,tov,2,False,True,,Harden Lost Ball Turnover (P3.T12),129-120,129,120

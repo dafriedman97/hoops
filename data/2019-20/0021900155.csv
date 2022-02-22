@@ -98,10 +98,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900155,2019-11-13,ORL,PHI,11.75,1,0,15,ORL,ORL,fg_miss,97,False,False,MISS Augustin 1' Tip Layup Shot,,31-28,31,28
 0021900155,2019-11-13,ORL,PHI,11.78,1,0,13,PHI,PHI,reb,0,False,False,,Richardson REBOUND (Off:0 Def:2),31-28,31,28
 0021900155,2019-11-13,ORL,PHI,11.97,1,0,2,PHI,PHI,fg_make,3,False,False,,Horford 1' Hook Shot (4 PTS),31-30,31,30
-0021900155,2019-11-13,ORL,PHI,12.0,1,0,0,ORL,ORL,fg3_miss,2,False,False,MISS Augustin 27' 3PT Running Jump Shot,,31-30,31,30
-0021900155,2019-11-13,ORL,PHI,12.0,1,0,0,ORL,ORL,reb,0,False,False,MAGIC Rebound,,31-30,31,30
 0021900155,2019-11-13,ORL,PHI,12.0,1,0,0,ORL,,period_end,0,False,False,,,31-30,31,30
 0021900155,2019-11-13,ORL,PHI,12.0,2,12,0,ORL,,period_start,0,False,False,,,31-30,31,30
+0021900155,2019-11-13,ORL,PHI,12.0,1,0,0,ORL,ORL,fg3_miss,2,False,False,MISS Augustin 27' 3PT Running Jump Shot,,31-30,31,30
+0021900155,2019-11-13,ORL,PHI,12.0,1,0,0,ORL,ORL,reb,0,False,False,MAGIC Rebound,,31-30,31,30
 0021900155,2019-11-13,ORL,PHI,12.23,2,11,46,ORL,ORL,tov,1,False,True,Augustin Bad Pass Turnover (P1.T5),,31-30,31,30
 0021900155,2019-11-13,ORL,PHI,12.23,2,11,46,ORL,PHI,steal,1,False,True,steal,steal,31-30,31,30
 0021900155,2019-11-13,ORL,PHI,12.53,2,11,28,PHI,PHI,tov,2,False,True,,Neto Lost Ball Turnover (P1.T4),31-30,31,30
@@ -145,9 +145,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900155,2019-11-13,ORL,PHI,17.02,2,6,59,PHI,PHI,fg_miss,101,False,False,,MISS Harris 8' Driving Floating Jump Shot,41-38,41,38
 0021900155,2019-11-13,ORL,PHI,17.05,2,6,57,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:0 Def:5),,41-38,41,38
 0021900155,2019-11-13,ORL,PHI,17.13,2,6,52,ORL,ORL,fg_miss,6,True,False,MISS Fournier 5' Driving Layup,,41-38,41,38
+0021900155,2019-11-13,ORL,PHI,17.13,2,6,52,ORL,PHI,block,6,True,False,block,block,41-38,41,38
 0021900155,2019-11-13,ORL,PHI,17.13,2,6,52,ORL,ORL,reb,0,False,False,MAGIC Rebound,,41-38,41,38
 0021900155,2019-11-13,ORL,PHI,17.13,2,6,52,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 2 Short 0),,41-38,41,38
-0021900155,2019-11-13,ORL,PHI,17.13,2,6,52,ORL,PHI,block,6,True,False,block,block,41-38,41,38
 0021900155,2019-11-13,ORL,PHI,17.17,2,6,50,ORL,PHI,foul,1,False,False,,Harris P.FOUL (P2.T3) (D.Taylor),41-38,41,38
 0021900155,2019-11-13,ORL,PHI,17.43,2,6,34,ORL,ORL,fg_miss,58,False,False,MISS Vucevic 8' Turnaround Hook Shot,,41-38,41,38
 0021900155,2019-11-13,ORL,PHI,17.47,2,6,32,PHI,PHI,reb,0,False,False,,Harris REBOUND (Off:1 Def:4),41-38,41,38
@@ -334,8 +334,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900155,2019-11-13,ORL,PHI,35.15,3,0,51,PHI,PHI,fg_miss,78,False,False,,MISS Richardson 12' Floating Jump Shot,76-80,76,80
 0021900155,2019-11-13,ORL,PHI,35.18,3,0,49,ORL,ORL,reb,0,False,False,Isaac REBOUND (Off:1 Def:3),,76-80,76,80
 0021900155,2019-11-13,ORL,PHI,35.32,3,0,41,ORL,ORL,tov,2,False,True,Augustin Lost Ball Turnover (P2.T13),,76-80,76,80
-0021900155,2019-11-13,ORL,PHI,35.32,3,0,41,PHI,ORL,foul,1,False,False,Augustin P.FOUL (P1.PN) (D.Taylor),,76-80,76,80
 0021900155,2019-11-13,ORL,PHI,35.32,3,0,41,ORL,PHI,steal,2,False,True,steal,steal,76-80,76,80
+0021900155,2019-11-13,ORL,PHI,35.32,3,0,41,PHI,ORL,foul,1,False,False,Augustin P.FOUL (P1.PN) (D.Taylor),,76-80,76,80
 0021900155,2019-11-13,ORL,PHI,35.32,3,0,41,PHI,PHI,ft_make,11,False,False,,Neto Free Throw 1 of 2 (5 PTS),76-81,76,81
 0021900155,2019-11-13,ORL,PHI,35.32,3,0,41,PHI,PHI,ft_make,12,False,False,,Neto Free Throw 2 of 2 (6 PTS),76-82,76,82
 0021900155,2019-11-13,ORL,PHI,35.53,3,0,28,ORL,ORL,fg_make,1,False,False,Ross 14' Jump Shot (10 PTS) (Carter-Williams 1 AST),,78-82,78,82
@@ -439,8 +439,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900155,2019-11-13,ORL,PHI,46.43,4,1,34,ORL,ORL,reb,0,False,False,Gordon REBOUND (Off:1 Def:12),,106-94,106,94
 0021900155,2019-11-13,ORL,PHI,46.52,4,1,29,ORL,PHI,foul,1,False,False,,Richardson P.FOUL (P4.PN) (N.Buchert),106-94,106,94
 0021900155,2019-11-13,ORL,PHI,46.68,4,1,19,ORL,ORL,fg3_miss,1,False,False,MISS Augustin 25' 3PT Jump Shot,,106-94,106,94
-0021900155,2019-11-13,ORL,PHI,46.7,4,1,18,ORL,ORL,reb,0,False,False,Isaac REBOUND (Off:2 Def:3),,106-94,106,94
 0021900155,2019-11-13,ORL,PHI,46.7,4,1,18,ORL,ORL,fg_make,107,False,False,Isaac 2' Tip Dunk Shot (12 PTS),,108-94,108,94
+0021900155,2019-11-13,ORL,PHI,46.7,4,1,18,ORL,ORL,reb,0,False,False,Isaac REBOUND (Off:2 Def:3),,106-94,106,94
 0021900155,2019-11-13,ORL,PHI,46.75,4,1,15,PHI,PHI,tov,1,False,True,,Simmons Bad Pass Turnover (P2.T15),108-94,108,94
 0021900155,2019-11-13,ORL,PHI,46.75,4,1,15,PHI,ORL,steal,1,False,True,steal,steal,108-94,108,94
 0021900155,2019-11-13,ORL,PHI,46.82,4,1,11,ORL,PHI,foul,28,False,False,,Korkmaz Personal Take Foul (P2.PN) (K.Scott),108-94,108,94

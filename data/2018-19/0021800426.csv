@@ -35,8 +35,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800426,2018-12-14,DEN,OKC,4.05,1,7,57,OKC,OKC,fg3_miss,1,False,False,,MISS Ferguson 3PT Jump Shot,15-10,15,10
 0021800426,2018-12-14,DEN,OKC,4.12,1,7,53,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:2 Def:0),15-10,15,10
 0021800426,2018-12-14,DEN,OKC,4.12,1,7,53,OKC,OKC,fg_miss,72,True,False,,MISS Adams 2' Putback Layup,15-10,15,10
-0021800426,2018-12-14,DEN,OKC,4.12,1,7,53,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:3 Def:0),15-10,15,10
 0021800426,2018-12-14,DEN,OKC,4.12,1,7,53,OKC,DEN,block,72,True,False,block,block,15-10,15,10
+0021800426,2018-12-14,DEN,OKC,4.12,1,7,53,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:3 Def:0),15-10,15,10
 0021800426,2018-12-14,DEN,OKC,4.15,1,7,51,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.1 Short 0),15-10,15,10
 0021800426,2018-12-14,DEN,OKC,4.28,1,7,43,OKC,OKC,fg_miss,79,False,False,,MISS Westbrook 21' Pullup Jump Shot,15-10,15,10
 0021800426,2018-12-14,DEN,OKC,4.32,1,7,41,DEN,DEN,reb,0,False,False,Hernangomez REBOUND (Off:0 Def:1),,15-10,15,10
@@ -221,9 +221,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800426,2018-12-14,DEN,OKC,23.68,2,0,19,DEN,DEN,fg3_miss,1,False,False,MISS Hernangomez 25' 3PT Jump Shot,,60-52,60,52
 0021800426,2018-12-14,DEN,OKC,23.77,2,0,14,OKC,OKC,reb,0,False,False,,Westbrook REBOUND (Off:1 Def:6),60-52,60,52
 0021800426,2018-12-14,DEN,OKC,24.0,2,0,0,OKC,OKC,tov,1,False,True,,George Bad Pass Turnover (P1.T6),60-52,60,52
+0021800426,2018-12-14,DEN,OKC,24.0,2,0,0,OKC,DEN,steal,1,False,True,steal,steal,60-52,60,52
 0021800426,2018-12-14,DEN,OKC,24.0,2,0,0,OKC,,period_end,0,False,False,,,60-52,60,52
 0021800426,2018-12-14,DEN,OKC,24.0,3,12,0,OKC,,period_start,0,False,False,,,60-52,60,52
-0021800426,2018-12-14,DEN,OKC,24.0,2,0,0,OKC,DEN,steal,1,False,True,steal,steal,60-52,60,52
 0021800426,2018-12-14,DEN,OKC,24.32,3,11,41,OKC,OKC,fg_miss,6,False,False,,MISS Grant 2' Driving Layup,60-52,60,52
 0021800426,2018-12-14,DEN,OKC,24.33,3,11,40,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:1 Def:5),,60-52,60,52
 0021800426,2018-12-14,DEN,OKC,24.33,3,11,40,DEN,DEN,tov,40,False,False,Jokic Out of Bounds Lost Ball Turnover (P3.T11),,60-52,60,52
@@ -276,8 +276,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800426,2018-12-14,DEN,OKC,28.72,3,7,17,DEN,DEN,ft_make,11,False,False,Jokic Free Throw 1 of 2 (17 PTS),,63-59,63,59
 0021800426,2018-12-14,DEN,OKC,28.72,3,7,17,DEN,DEN,ft_make,12,False,False,Jokic Free Throw 2 of 2 (18 PTS),,64-59,64,59
 0021800426,2018-12-14,DEN,OKC,28.9,3,7,6,OKC,OKC,fg_miss,6,True,False,,MISS Grant 4' Driving Layup,64-59,64,59
-0021800426,2018-12-14,DEN,OKC,28.9,3,7,6,OKC,OKC,reb,0,False,False,,Grant REBOUND (Off:1 Def:0),64-59,64,59
 0021800426,2018-12-14,DEN,OKC,28.9,3,7,6,OKC,DEN,block,6,True,False,block,block,64-59,64,59
+0021800426,2018-12-14,DEN,OKC,28.9,3,7,6,OKC,OKC,reb,0,False,False,,Grant REBOUND (Off:1 Def:0),64-59,64,59
 0021800426,2018-12-14,DEN,OKC,28.97,3,7,2,OKC,OKC,fg_make,7,False,False,,Grant 3' Dunk (13 PTS),64-61,64,61
 0021800426,2018-12-14,DEN,OKC,29.2,3,6,48,DEN,DEN,fg3_miss,1,False,False,MISS Lyles 24' 3PT Jump Shot,,64-61,64,61
 0021800426,2018-12-14,DEN,OKC,29.23,3,6,46,OKC,OKC,reb,0,False,False,,Westbrook REBOUND (Off:1 Def:9),64-61,64,61
@@ -345,8 +345,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800426,2018-12-14,DEN,OKC,36.0,3,0,0,OKC,,period_end,0,False,False,,,82-76,82,76
 0021800426,2018-12-14,DEN,OKC,36.0,4,12,0,OKC,,period_start,0,False,False,,,82-76,82,76
 0021800426,2018-12-14,DEN,OKC,36.18,4,11,49,DEN,DEN,fg_miss,98,True,False,MISS Plumlee 2' Cutting Layup Shot,,82-76,82,76
-0021800426,2018-12-14,DEN,OKC,36.18,4,11,49,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,82-76,82,76
 0021800426,2018-12-14,DEN,OKC,36.18,4,11,49,DEN,OKC,block,98,True,False,block,block,82-76,82,76
+0021800426,2018-12-14,DEN,OKC,36.18,4,11,49,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,82-76,82,76
 0021800426,2018-12-14,DEN,OKC,36.22,4,11,47,DEN,DEN,fg3_miss,1,False,False,MISS Beasley 25' 3PT Jump Shot,,82-76,82,76
 0021800426,2018-12-14,DEN,OKC,36.27,4,11,44,OKC,OKC,reb,0,False,False,,Noel REBOUND (Off:0 Def:5),82-76,82,76
 0021800426,2018-12-14,DEN,OKC,36.57,4,11,26,OKC,OKC,fg_make,6,False,False,,George 3' Driving Layup (24 PTS),82-78,82,78

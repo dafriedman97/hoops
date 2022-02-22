@@ -21,8 +21,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900170,2019-11-15,MEM,UTA,2.57,1,9,26,UTA,UTA,fg_miss,79,False,False,,MISS Conley 19' Pullup Jump Shot,3-5,3,5
 0021900170,2019-11-15,MEM,UTA,2.58,1,9,25,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,3-5,3,5
 0021900170,2019-11-15,MEM,UTA,2.88,1,9,7,MEM,MEM,fg3_miss,1,False,False,MISS Jackson Jr. 27' 3PT Jump Shot,,3-5,3,5
-0021900170,2019-11-15,MEM,UTA,2.98,1,9,1,MEM,MEM,fg_make,72,False,False,Valanciunas 1' Putback Layup (2 PTS),,5-5,5,5
 0021900170,2019-11-15,MEM,UTA,2.98,1,9,1,MEM,MEM,reb,0,False,False,Valanciunas REBOUND (Off:1 Def:1),,5-5,5,5
+0021900170,2019-11-15,MEM,UTA,2.98,1,9,1,MEM,MEM,fg_make,72,False,False,Valanciunas 1' Putback Layup (2 PTS),,5-5,5,5
 0021900170,2019-11-15,MEM,UTA,3.18,1,8,49,UTA,UTA,tov,1,False,True,,Mitchell Bad Pass Turnover (P1.T1),5-5,5,5
 0021900170,2019-11-15,MEM,UTA,3.18,1,8,49,UTA,MEM,steal,1,False,True,steal,steal,5-5,5,5
 0021900170,2019-11-15,MEM,UTA,3.27,1,8,44,MEM,MEM,fg3_miss,2,False,False,MISS Brooks 25' 3PT Running Jump Shot,,5-5,5,5
@@ -71,12 +71,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900170,2019-11-15,MEM,UTA,8.38,1,3,37,MEM,MEM,fg3_miss,1,False,False,MISS Guduric 25' 3PT Jump Shot,,15-18,15,18
 0021900170,2019-11-15,MEM,UTA,8.42,1,3,35,UTA,UTA,reb,0,False,False,,Green REBOUND (Off:0 Def:1),15-18,15,18
 0021900170,2019-11-15,MEM,UTA,8.58,1,3,25,UTA,UTA,fg_miss,6,True,False,,MISS O'Neale 3' Driving Layup,15-18,15,18
-0021900170,2019-11-15,MEM,UTA,8.58,1,3,25,UTA,UTA,reb,0,False,False,,Jazz Rebound,15-18,15,18
 0021900170,2019-11-15,MEM,UTA,8.58,1,3,25,UTA,MEM,block,6,True,False,block,block,15-18,15,18
+0021900170,2019-11-15,MEM,UTA,8.58,1,3,25,UTA,UTA,reb,0,False,False,,Jazz Rebound,15-18,15,18
 0021900170,2019-11-15,MEM,UTA,8.72,1,3,17,UTA,UTA,fg3_make,1,False,False,,Mudiay 3PT Jump Shot (5 PTS) (O'Neale 1 AST),15-21,15,21
 0021900170,2019-11-15,MEM,UTA,9.0,1,3,0,MEM,MEM,fg_miss,57,True,False,MISS Jackson Jr. 4' Driving Hook Shot,,15-21,15,21
-0021900170,2019-11-15,MEM,UTA,9.0,1,3,0,UTA,UTA,reb,0,False,False,,Jazz Rebound,15-21,15,21
 0021900170,2019-11-15,MEM,UTA,9.0,1,3,0,MEM,UTA,block,57,True,False,block,block,15-21,15,21
+0021900170,2019-11-15,MEM,UTA,9.0,1,3,0,UTA,UTA,reb,0,False,False,,Jazz Rebound,15-21,15,21
 0021900170,2019-11-15,MEM,UTA,9.17,1,2,50,UTA,UTA,fg3_make,1,False,False,,Ingles 25' 3PT Jump Shot (3 PTS) (Green 1 AST),15-24,15,24
 0021900170,2019-11-15,MEM,UTA,9.18,1,2,49,MEM,MEM,timeout,1,False,False,GRIZZLIES Timeout: Regular (Full 2 Short 0),,15-24,15,24
 0021900170,2019-11-15,MEM,UTA,9.45,1,2,33,MEM,MEM,fg_make,101,False,False,Jones 12' Driving Floating Jump Shot (2 PTS),,17-24,17,24
@@ -219,8 +219,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900170,2019-11-15,MEM,UTA,24.67,3,11,20,UTA,UTA,fg3_miss,1,False,False,,MISS O'Neale 24' 3PT Jump Shot,55-48,55,48
 0021900170,2019-11-15,MEM,UTA,24.73,3,11,16,UTA,UTA,reb,0,False,False,,Bogdanovic REBOUND (Off:1 Def:0),55-48,55,48
 0021900170,2019-11-15,MEM,UTA,24.75,3,11,15,UTA,UTA,fg_miss,72,True,False,,MISS Bogdanovic Putback Layup,55-48,55,48
-0021900170,2019-11-15,MEM,UTA,24.75,3,11,15,MEM,MEM,reb,0,False,False,Morant REBOUND (Off:0 Def:2),,55-48,55,48
 0021900170,2019-11-15,MEM,UTA,24.75,3,11,15,UTA,MEM,block,72,True,False,block,block,55-48,55,48
+0021900170,2019-11-15,MEM,UTA,24.75,3,11,15,MEM,MEM,reb,0,False,False,Morant REBOUND (Off:0 Def:2),,55-48,55,48
 0021900170,2019-11-15,MEM,UTA,24.85,3,11,9,MEM,MEM,fg3_miss,1,False,False,MISS Valanciunas 25' 3PT Jump Shot,,55-48,55,48
 0021900170,2019-11-15,MEM,UTA,24.9,3,11,6,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:3 Def:5),55-48,55,48
 0021900170,2019-11-15,MEM,UTA,25.07,3,10,56,UTA,UTA,fg3_miss,1,False,False,,MISS Conley 3PT Jump Shot,55-48,55,48
@@ -230,9 +230,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900170,2019-11-15,MEM,UTA,25.1,3,10,54,UTA,UTA,ft_make,10,False,False,,Gobert Free Throw 1 of 1 (11 PTS),55-51,55,51
 0021900170,2019-11-15,MEM,UTA,25.32,3,10,41,MEM,MEM,fg_miss,101,True,False,MISS Brooks 11' Driving Floating Jump Shot,,55-51,55,51
 0021900170,2019-11-15,MEM,UTA,25.32,3,10,41,MEM,MEM,fg_miss,101,True,False,MISS Brooks 11' Driving Floating Jump Shot,,55-51,55,51
+0021900170,2019-11-15,MEM,UTA,25.32,3,10,41,MEM,UTA,block,101,True,False,block,block,55-51,55,51
+0021900170,2019-11-15,MEM,UTA,25.32,3,10,41,MEM,UTA,block,101,True,False,block,block,55-51,55,51
 0021900170,2019-11-15,MEM,UTA,25.32,3,10,41,UTA,UTA,reb,0,False,False,,Jazz Rebound,55-51,55,51
-0021900170,2019-11-15,MEM,UTA,25.32,3,10,41,MEM,UTA,block,101,True,False,block,block,55-51,55,51
-0021900170,2019-11-15,MEM,UTA,25.32,3,10,41,MEM,UTA,block,101,True,False,block,block,55-51,55,51
 0021900170,2019-11-15,MEM,UTA,25.57,3,10,26,UTA,UTA,fg3_miss,1,False,False,,MISS Mitchell 3PT Jump Shot,55-51,55,51
 0021900170,2019-11-15,MEM,UTA,25.58,3,10,25,UTA,UTA,reb,0,False,False,,Jazz Rebound,55-51,55,51
 0021900170,2019-11-15,MEM,UTA,25.65,3,10,21,UTA,UTA,fg3_miss,1,False,False,,MISS Conley 3PT Jump Shot,55-51,55,51
@@ -307,9 +307,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900170,2019-11-15,MEM,UTA,32.65,3,3,21,UTA,UTA,reb,1,False,False,,Jazz Rebound,69-68,69,68
 0021900170,2019-11-15,MEM,UTA,32.65,3,3,21,UTA,UTA,ft_make,14,False,False,,Conley Free Throw 2 of 3 (8 PTS),69-69,69,69
 0021900170,2019-11-15,MEM,UTA,32.65,3,3,21,UTA,UTA,ft_make,15,False,False,,Conley Free Throw 3 of 3 (9 PTS),69-70,69,70
+0021900170,2019-11-15,MEM,UTA,32.87,3,3,8,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.3 Short 0),69-70,69,70
 0021900170,2019-11-15,MEM,UTA,32.87,3,3,8,MEM,MEM,fg_miss,6,False,False,MISS Guduric 1' Driving Layup,,69-70,69,70
 0021900170,2019-11-15,MEM,UTA,32.87,3,3,8,UTA,UTA,reb,0,False,False,,Jazz Rebound,69-70,69,70
-0021900170,2019-11-15,MEM,UTA,32.87,3,3,8,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.3 Short 0),69-70,69,70
 0021900170,2019-11-15,MEM,UTA,33.07,3,2,56,UTA,MEM,foul,2,False,False,Guduric S.FOUL (P1.PN) (M.Lindsay),,69-70,69,70
 0021900170,2019-11-15,MEM,UTA,33.07,3,2,56,UTA,UTA,ft_make,11,False,False,,Mitchell Free Throw 1 of 2 (16 PTS),69-71,69,71
 0021900170,2019-11-15,MEM,UTA,33.07,3,2,56,UTA,UTA,ft_make,12,False,False,,Mitchell Free Throw 2 of 2 (17 PTS),69-72,69,72
@@ -331,9 +331,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900170,2019-11-15,MEM,UTA,35.58,3,0,25,MEM,MEM,fg_make,101,False,False,Morant 2' Driving Floating Jump Shot (16 PTS),,77-79,77,79
 0021900170,2019-11-15,MEM,UTA,36.0,3,0,0,UTA,UTA,tov,11,False,False,,Jazz Turnover: Shot Clock (T#12),77-79,77,79
 0021900170,2019-11-15,MEM,UTA,36.0,3,0,0,MEM,MEM,tov,1,False,True,Anderson Bad Pass Turnover (P1.T11),,77-79,77,79
+0021900170,2019-11-15,MEM,UTA,36.0,3,0,0,MEM,UTA,steal,1,False,True,steal,steal,77-79,77,79
 0021900170,2019-11-15,MEM,UTA,36.0,3,0,0,MEM,,period_end,0,False,False,,,77-79,77,79
 0021900170,2019-11-15,MEM,UTA,36.0,4,12,0,MEM,,period_start,0,False,False,,,77-79,77,79
-0021900170,2019-11-15,MEM,UTA,36.0,3,0,0,MEM,UTA,steal,1,False,True,steal,steal,77-79,77,79
 0021900170,2019-11-15,MEM,UTA,36.23,4,11,46,MEM,MEM,fg3_miss,1,False,False,MISS S. Hill 25' 3PT Jump Shot,,77-79,77,79
 0021900170,2019-11-15,MEM,UTA,36.3,4,11,42,UTA,UTA,reb,0,False,False,,Bradley REBOUND (Off:0 Def:2),77-79,77,79
 0021900170,2019-11-15,MEM,UTA,36.4,4,11,36,UTA,MEM,foul,2,False,False,Anderson S.FOUL (P1.T1) (J.Capers),,77-79,77,79
@@ -392,8 +392,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900170,2019-11-15,MEM,UTA,42.38,4,5,37,UTA,UTA,tov,1,False,True,,Conley Bad Pass Turnover (P1.T14),95-95,95,95
 0021900170,2019-11-15,MEM,UTA,42.38,4,5,37,UTA,MEM,steal,1,False,True,steal,steal,95-95,95,95
 0021900170,2019-11-15,MEM,UTA,42.45,4,5,33,MEM,MEM,fg_miss,5,False,False,MISS Clarke 1' Layup,,95-95,95,95
-0021900170,2019-11-15,MEM,UTA,42.53,4,5,28,MEM,MEM,fg_make,97,False,False,Jackson Jr. 1' Tip Layup Shot (7 PTS),,97-95,97,95
 0021900170,2019-11-15,MEM,UTA,42.53,4,5,28,MEM,MEM,reb,0,False,False,Jackson Jr. REBOUND (Off:3 Def:3),,97-95,97,95
+0021900170,2019-11-15,MEM,UTA,42.53,4,5,28,MEM,MEM,fg_make,97,False,False,Jackson Jr. 1' Tip Layup Shot (7 PTS),,97-95,97,95
 0021900170,2019-11-15,MEM,UTA,42.83,4,5,10,UTA,UTA,fg_miss,101,False,False,,MISS Conley 6' Driving Floating Jump Shot,97-95,97,95
 0021900170,2019-11-15,MEM,UTA,42.88,4,5,7,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:7 Def:7),97-95,97,95
 0021900170,2019-11-15,MEM,UTA,42.88,4,5,7,UTA,UTA,fg_make,97,False,False,,Gobert 1' Tip Layup Shot (20 PTS),97-97,97,97
@@ -447,6 +447,6 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900170,2019-11-15,MEM,UTA,47.97,4,0,2,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.6 Short 0),107-106,107,106
 0021900170,2019-11-15,MEM,UTA,47.97,4,0,2,UTA,UTA,tov,2,False,True,,Mitchell Lost Ball Turnover (P2.T15),107-106,107,106
 0021900170,2019-11-15,MEM,UTA,47.97,4,0,2,UTA,MEM,steal,2,False,True,steal,steal,107-106,107,106
+0021900170,2019-11-15,MEM,UTA,48.0,4,0,0,MEM,,period_end,0,False,False,,,107-106,107,106
 0021900170,2019-11-15,MEM,UTA,48.0,4,0,0,MEM,MEM,fg3_miss,1,False,False,MISS Anderson 64' 3PT Jump Shot,,107-106,107,106
 0021900170,2019-11-15,MEM,UTA,48.0,4,0,0,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,107-106,107,106
-0021900170,2019-11-15,MEM,UTA,48.0,4,0,0,MEM,,period_end,0,False,False,,,107-106,107,106

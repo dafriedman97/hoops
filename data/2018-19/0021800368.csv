@@ -33,8 +33,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800368,2018-12-07,CHA,DEN,3.2,1,8,48,DEN,DEN,ft_make,11,False,False,,Millsap Free Throw 1 of 2 (5 PTS),4-7,4,7
 0021800368,2018-12-07,CHA,DEN,3.2,1,8,48,DEN,DEN,ft_make,12,False,False,,Millsap Free Throw 2 of 2 (6 PTS),4-8,4,8
 0021800368,2018-12-07,CHA,DEN,3.62,1,8,23,CHA,CHA,fg_miss,80,False,False,MISS Bridges 19' Step Back Jump Shot,,4-8,4,8
-0021800368,2018-12-07,CHA,DEN,3.62,1,8,23,CHA,CHA,reb,0,False,False,HORNETS Rebound,,4-8,4,8
 0021800368,2018-12-07,CHA,DEN,3.62,1,8,23,CHA,CHA,tov,11,False,False,HORNETS Turnover: Shot Clock (T#2),,4-8,4,8
+0021800368,2018-12-07,CHA,DEN,3.62,1,8,23,CHA,CHA,reb,0,False,False,HORNETS Rebound,,4-8,4,8
 0021800368,2018-12-07,CHA,DEN,3.93,1,8,4,DEN,DEN,fg_miss,47,False,False,,MISS Millsap 8' Turnaround Jump Shot,4-8,4,8
 0021800368,2018-12-07,CHA,DEN,3.95,1,8,3,CHA,CHA,reb,0,False,False,HORNETS Rebound,,4-8,4,8
 0021800368,2018-12-07,CHA,DEN,3.95,1,8,3,CHA,DEN,foul,3,False,False,,Craig L.B.FOUL (P1.T2) (M.Kogut),4-8,4,8
@@ -107,10 +107,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800368,2018-12-07,CHA,DEN,11.62,1,0,23,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:0 Def:1),,21-25,21,25
 0021800368,2018-12-07,CHA,DEN,11.95,1,0,3,CHA,CHA,fg3_make,1,False,False,Parker 3PT Jump Shot (3 PTS) (Kaminsky 1 AST),,24-25,24,25
 0021800368,2018-12-07,CHA,DEN,12.0,1,0,0,DEN,DEN,fg3_miss,1,True,False,,MISS Morris 30' 3PT Jump Shot,24-25,24,25
+0021800368,2018-12-07,CHA,DEN,12.0,1,0,0,DEN,CHA,block,1,True,False,block,block,24-25,24,25
 0021800368,2018-12-07,CHA,DEN,12.0,1,0,0,DEN,DEN,reb,0,False,False,,Nuggets Rebound,24-25,24,25
 0021800368,2018-12-07,CHA,DEN,12.0,1,0,0,DEN,,period_end,0,False,False,,,24-25,24,25
 0021800368,2018-12-07,CHA,DEN,12.0,2,12,0,DEN,,period_start,0,False,False,,,24-25,24,25
-0021800368,2018-12-07,CHA,DEN,12.0,1,0,0,DEN,CHA,block,1,True,False,block,block,24-25,24,25
 0021800368,2018-12-07,CHA,DEN,12.28,2,11,43,DEN,DEN,fg_make,7,False,False,,Plumlee 1' Dunk (2 PTS) (Lyles 1 AST),24-27,24,27
 0021800368,2018-12-07,CHA,DEN,12.58,2,11,25,CHA,CHA,fg3_make,1,False,False,Williams 3PT Jump Shot (7 PTS) (Parker 1 AST),,27-27,27,27
 0021800368,2018-12-07,CHA,DEN,12.78,2,11,13,DEN,DEN,fg3_miss,1,False,False,,MISS Lyles 26' 3PT Jump Shot,27-27,27,27
@@ -282,13 +282,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800368,2018-12-07,CHA,DEN,30.32,3,5,41,DEN,DEN,reb,0,False,False,,Nuggets Rebound,74-68,74,68
 0021800368,2018-12-07,CHA,DEN,30.55,3,5,27,DEN,DEN,fg_make,98,False,False,,Lyles 2' Cutting Layup Shot (5 PTS) (Jokic 6 AST),74-70,74,70
 0021800368,2018-12-07,CHA,DEN,30.8,3,5,12,CHA,CHA,fg_make,86,False,False,Zeller 10' Turnaround Fadeaway (6 PTS) (Walker 6 AST),,76-70,76,70
-0021800368,2018-12-07,CHA,DEN,30.98,3,5,1,DEN,DEN,fg_miss,1,True,False,,MISS Morris 9' Jump Shot,76-70,76,70
-0021800368,2018-12-07,CHA,DEN,30.98,3,5,1,DEN,DEN,reb,0,False,False,,Hernangomez REBOUND (Off:1 Def:6),76-70,76,70
 0021800368,2018-12-07,CHA,DEN,30.98,3,5,1,DEN,CHA,foul,2,False,False,Kidd-Gilchrist S.FOUL (P3.PN) (L.Richardson),,76-70,76,70
 0021800368,2018-12-07,CHA,DEN,30.98,3,5,1,DEN,DEN,ft_miss,11,False,False,,MISS Hernangomez Free Throw 1 of 2,76-70,76,70
 0021800368,2018-12-07,CHA,DEN,30.98,3,5,1,DEN,DEN,reb,1,False,False,,Nuggets Rebound,76-70,76,70
-0021800368,2018-12-07,CHA,DEN,30.98,3,5,1,DEN,CHA,block,1,True,False,block,block,76-70,76,70
 0021800368,2018-12-07,CHA,DEN,30.98,3,5,1,DEN,DEN,ft_make,12,False,False,,Hernangomez Free Throw 2 of 2 (13 PTS),76-71,76,71
+0021800368,2018-12-07,CHA,DEN,30.98,3,5,1,DEN,DEN,fg_miss,1,True,False,,MISS Morris 9' Jump Shot,76-70,76,70
+0021800368,2018-12-07,CHA,DEN,30.98,3,5,1,DEN,CHA,block,1,True,False,block,block,76-70,76,70
+0021800368,2018-12-07,CHA,DEN,30.98,3,5,1,DEN,DEN,reb,0,False,False,,Hernangomez REBOUND (Off:1 Def:6),76-70,76,70
 0021800368,2018-12-07,CHA,DEN,31.28,3,4,43,CHA,CHA,fg_miss,6,True,False,MISS Parker 2' Driving Layup,,76-71,76,71
 0021800368,2018-12-07,CHA,DEN,31.28,3,4,43,CHA,DEN,block,6,True,False,block,block,76-71,76,71
 0021800368,2018-12-07,CHA,DEN,31.32,3,4,41,DEN,DEN,reb,0,False,False,,Hernangomez REBOUND (Off:1 Def:7),76-71,76,71
@@ -320,10 +320,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800368,2018-12-07,CHA,DEN,33.95,3,2,3,DEN,DEN,fg_miss,5,True,False,,MISS Lyles 2' Layup,78-77,78,77
 0021800368,2018-12-07,CHA,DEN,33.95,3,2,3,DEN,CHA,block,5,True,False,block,block,78-77,78,77
 0021800368,2018-12-07,CHA,DEN,34.0,3,2,0,CHA,CHA,reb,0,False,False,Parker REBOUND (Off:2 Def:1),,78-77,78,77
-0021800368,2018-12-07,CHA,DEN,34.0,3,2,0,CHA,CHA,fg_miss,6,True,False,MISS Parker 4' Driving Layup,,78-77,78,77
-0021800368,2018-12-07,CHA,DEN,34.0,3,2,0,CHA,CHA,reb,0,False,False,HORNETS Rebound,,78-77,78,77
 0021800368,2018-12-07,CHA,DEN,34.0,3,2,0,DEN,DEN,timeout,1,False,False,,Nuggets Timeout: Regular (Reg.4 Short 0),78-77,78,77
+0021800368,2018-12-07,CHA,DEN,34.0,3,2,0,CHA,CHA,fg_miss,6,True,False,MISS Parker 4' Driving Layup,,78-77,78,77
 0021800368,2018-12-07,CHA,DEN,34.0,3,2,0,CHA,DEN,block,6,True,False,block,block,78-77,78,77
+0021800368,2018-12-07,CHA,DEN,34.0,3,2,0,CHA,CHA,reb,0,False,False,HORNETS Rebound,,78-77,78,77
 0021800368,2018-12-07,CHA,DEN,34.2,3,1,48,CHA,CHA,fg3_make,1,False,False,Kaminsky 25' 3PT Jump Shot (11 PTS) (Batum 1 AST),,81-77,81,77
 0021800368,2018-12-07,CHA,DEN,34.43,3,1,34,DEN,DEN,fg3_miss,1,False,False,,MISS Lyles 27' 3PT Jump Shot,81-77,81,77
 0021800368,2018-12-07,CHA,DEN,34.48,3,1,31,CHA,CHA,reb,0,False,False,Kaminsky REBOUND (Off:0 Def:4),,81-77,81,77
@@ -382,8 +382,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800368,2018-12-07,CHA,DEN,38.95,4,9,3,CHA,DEN,foul,1,False,False,,Plumlee P.FOUL (P4.T2) (K.Mauer),89-84,89,84
 0021800368,2018-12-07,CHA,DEN,38.95,4,9,3,DEN,DEN,timeout,1,False,False,,Nuggets Timeout: Regular (Reg.5 Short 0),89-84,89,84
 0021800368,2018-12-07,CHA,DEN,39.1,4,8,54,CHA,CHA,fg_miss,6,True,False,MISS Kidd-Gilchrist 2' Driving Layup,,89-84,89,84
-0021800368,2018-12-07,CHA,DEN,39.1,4,8,54,CHA,CHA,reb,0,False,False,HORNETS Rebound,,89-84,89,84
 0021800368,2018-12-07,CHA,DEN,39.1,4,8,54,CHA,DEN,block,6,True,False,block,block,89-84,89,84
+0021800368,2018-12-07,CHA,DEN,39.1,4,8,54,CHA,CHA,reb,0,False,False,HORNETS Rebound,,89-84,89,84
 0021800368,2018-12-07,CHA,DEN,39.22,4,8,47,CHA,CHA,fg3_make,1,False,False,Monk 25' 3PT Jump Shot (16 PTS) (Walker 8 AST),,92-84,92,84
 0021800368,2018-12-07,CHA,DEN,39.52,4,8,29,DEN,DEN,fg_miss,5,True,False,,MISS Lyles 4' Layup,92-84,92,84
 0021800368,2018-12-07,CHA,DEN,39.52,4,8,29,DEN,CHA,block,5,True,False,block,block,92-84,92,84
@@ -404,13 +404,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800368,2018-12-07,CHA,DEN,40.87,4,7,8,CHA,CHA,fg_make,79,False,False,Kidd-Gilchrist 15' Pullup Jump Shot (6 PTS) (Monk 1 AST),,96-86,96,86
 0021800368,2018-12-07,CHA,DEN,41.13,4,6,52,DEN,DEN,fg_miss,5,False,False,,MISS Craig 5' Layup,96-86,96,86
 0021800368,2018-12-07,CHA,DEN,41.18,4,6,49,DEN,DEN,reb,0,False,False,,Craig REBOUND (Off:2 Def:2),96-86,96,86
+0021800368,2018-12-07,CHA,DEN,41.2,4,6,48,DEN,DEN,fg_miss,5,True,False,,MISS Plumlee 2' Layup,96-86,96,86
+0021800368,2018-12-07,CHA,DEN,41.2,4,6,48,DEN,CHA,block,5,True,False,block,block,96-86,96,86
+0021800368,2018-12-07,CHA,DEN,41.2,4,6,48,CHA,CHA,reb,0,False,False,Batum REBOUND (Off:2 Def:5),,96-86,96,86
 0021800368,2018-12-07,CHA,DEN,41.2,4,6,48,DEN,DEN,fg_miss,97,False,False,,MISS Craig 4' Tip Layup Shot,96-86,96,86
 0021800368,2018-12-07,CHA,DEN,41.2,4,6,48,DEN,DEN,reb,0,False,False,,Craig REBOUND (Off:1 Def:2),96-86,96,86
 0021800368,2018-12-07,CHA,DEN,41.2,4,6,48,DEN,DEN,fg_miss,97,False,False,,MISS Craig 4' Tip Layup Shot,96-86,96,86
 0021800368,2018-12-07,CHA,DEN,41.2,4,6,48,DEN,DEN,reb,0,False,False,,Plumlee REBOUND (Off:3 Def:3),96-86,96,86
-0021800368,2018-12-07,CHA,DEN,41.2,4,6,48,DEN,DEN,fg_miss,5,True,False,,MISS Plumlee 2' Layup,96-86,96,86
-0021800368,2018-12-07,CHA,DEN,41.2,4,6,48,CHA,CHA,reb,0,False,False,Batum REBOUND (Off:2 Def:5),,96-86,96,86
-0021800368,2018-12-07,CHA,DEN,41.2,4,6,48,DEN,CHA,block,5,True,False,block,block,96-86,96,86
 0021800368,2018-12-07,CHA,DEN,41.45,4,6,33,CHA,CHA,fg_miss,79,False,False,MISS Batum 17' Pullup Jump Shot,,96-86,96,86
 0021800368,2018-12-07,CHA,DEN,41.5,4,6,30,DEN,DEN,reb,0,False,False,,Plumlee REBOUND (Off:3 Def:4),96-86,96,86
 0021800368,2018-12-07,CHA,DEN,41.58,4,6,25,DEN,CHA,foul,1,False,False,Zeller P.FOUL (P4.T3) (M.Kogut),,96-86,96,86
@@ -420,8 +420,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800368,2018-12-07,CHA,DEN,42.22,4,5,47,DEN,DEN,fg_miss,6,False,False,,MISS Murray 3' Driving Layup,99-86,99,86
 0021800368,2018-12-07,CHA,DEN,42.25,4,5,45,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:2 Def:4),99-86,99,86
 0021800368,2018-12-07,CHA,DEN,42.25,4,5,45,DEN,DEN,fg_miss,5,True,False,,MISS Jokic 5' Layup,99-86,99,86
-0021800368,2018-12-07,CHA,DEN,42.25,4,5,45,CHA,CHA,reb,0,False,False,HORNETS Rebound,,99-86,99,86
 0021800368,2018-12-07,CHA,DEN,42.25,4,5,45,DEN,CHA,block,5,True,False,block,block,99-86,99,86
+0021800368,2018-12-07,CHA,DEN,42.25,4,5,45,CHA,CHA,reb,0,False,False,HORNETS Rebound,,99-86,99,86
 0021800368,2018-12-07,CHA,DEN,42.33,4,5,40,,CHA,jump_ball,0,False,False,Jump Ball Kidd-Gilchrist vs. Jokic: Tip to Lamb,,99-86,99,86
 0021800368,2018-12-07,CHA,DEN,42.53,4,5,28,CHA,CHA,fg3_miss,1,False,False,MISS Monk 25' 3PT Jump Shot,,99-86,99,86
 0021800368,2018-12-07,CHA,DEN,42.58,4,5,25,CHA,CHA,reb,0,False,False,Kidd-Gilchrist REBOUND (Off:2 Def:1),,99-86,99,86

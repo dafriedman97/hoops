@@ -2,8 +2,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900090,2019-11-03,LAC,UTA,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
 0021900090,2019-11-03,LAC,UTA,0.0,1,12,0,,LAC,jump_ball,0,False,False,Jump Ball Zubac vs. Gobert: Tip to Bogdanovic,,0-0,0,0
 0021900090,2019-11-03,LAC,UTA,0.23,1,11,46,UTA,UTA,fg_miss,6,True,False,,MISS Bogdanovic 5' Driving Layup,0-0,0,0
-0021900090,2019-11-03,LAC,UTA,0.23,1,11,46,UTA,UTA,reb,0,False,False,,Jazz Rebound,0-0,0,0
 0021900090,2019-11-03,LAC,UTA,0.23,1,11,46,UTA,LAC,block,6,True,False,block,block,0-0,0,0
+0021900090,2019-11-03,LAC,UTA,0.23,1,11,46,UTA,UTA,reb,0,False,False,,Jazz Rebound,0-0,0,0
 0021900090,2019-11-03,LAC,UTA,0.27,1,11,44,UTA,UTA,fg3_miss,1,False,False,,MISS Bogdanovic 25' 3PT Jump Shot,0-0,0,0
 0021900090,2019-11-03,LAC,UTA,0.33,1,11,40,LAC,LAC,reb,0,False,False,Beverley REBOUND (Off:0 Def:1),,0-0,0,0
 0021900090,2019-11-03,LAC,UTA,0.58,1,11,25,LAC,LAC,fg3_miss,1,False,False,MISS Patterson 25' 3PT Jump Shot,,0-0,0,0
@@ -78,8 +78,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900090,2019-11-03,LAC,UTA,8.48,1,3,31,UTA,UTA,fg3_miss,1,False,False,,MISS Ingles 27' 3PT Jump Shot,12-13,12,13
 0021900090,2019-11-03,LAC,UTA,8.57,1,3,26,UTA,UTA,reb,0,False,False,,O'Neale REBOUND (Off:1 Def:0),12-13,12,13
 0021900090,2019-11-03,LAC,UTA,8.68,1,3,19,UTA,UTA,fg_miss,101,False,False,,MISS Conley 13' Driving Floating Jump Shot,12-13,12,13
-0021900090,2019-11-03,LAC,UTA,8.83,1,3,10,UTA,UTA,fg_miss,97,False,False,,MISS Gobert 1' Tip Layup Shot,12-13,12,13
 0021900090,2019-11-03,LAC,UTA,8.83,1,3,10,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:1 Def:6),12-13,12,13
+0021900090,2019-11-03,LAC,UTA,8.83,1,3,10,UTA,UTA,fg_miss,97,False,False,,MISS Gobert 1' Tip Layup Shot,12-13,12,13
 0021900090,2019-11-03,LAC,UTA,8.85,1,3,9,LAC,LAC,reb,0,False,False,Zubac REBOUND (Off:2 Def:3),,12-13,12,13
 0021900090,2019-11-03,LAC,UTA,8.98,1,3,1,LAC,LAC,fg_miss,79,True,False,MISS Williams 19' Pullup Jump Shot,,12-13,12,13
 0021900090,2019-11-03,LAC,UTA,8.98,1,3,1,LAC,UTA,block,79,True,False,block,block,12-13,12,13
@@ -117,10 +117,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900090,2019-11-03,LAC,UTA,11.98,1,0,1,UTA,LAC,block,98,True,False,block,block,16-20,16,20
 0021900090,2019-11-03,LAC,UTA,12.0,1,0,0,UTA,UTA,reb,0,False,False,,Bradley REBOUND (Off:1 Def:2),16-20,16,20
 0021900090,2019-11-03,LAC,UTA,12.0,1,0,0,UTA,UTA,fg_miss,72,True,False,,MISS Bradley 1' Putback Layup,16-20,16,20
+0021900090,2019-11-03,LAC,UTA,12.0,1,0,0,UTA,LAC,block,72,True,False,block,block,16-20,16,20
 0021900090,2019-11-03,LAC,UTA,12.0,1,0,0,UTA,UTA,reb,0,False,False,,Jazz Rebound,16-20,16,20
 0021900090,2019-11-03,LAC,UTA,12.0,1,0,0,UTA,,period_end,0,False,False,,,16-20,16,20
 0021900090,2019-11-03,LAC,UTA,12.0,2,12,0,UTA,,period_start,0,False,False,,,16-20,16,20
-0021900090,2019-11-03,LAC,UTA,12.0,1,0,0,UTA,LAC,block,72,True,False,block,block,16-20,16,20
 0021900090,2019-11-03,LAC,UTA,12.18,2,11,49,LAC,LAC,fg_miss,6,False,False,MISS Harkless 2' Driving Layup,,16-20,16,20
 0021900090,2019-11-03,LAC,UTA,12.23,2,11,46,UTA,UTA,reb,0,False,False,,Green REBOUND (Off:0 Def:1),16-20,16,20
 0021900090,2019-11-03,LAC,UTA,12.37,2,11,38,UTA,LAC,foul,2,False,False,Harkless S.FOUL (P2.T1) (R.Mott),,16-20,16,20
@@ -180,8 +180,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900090,2019-11-03,LAC,UTA,17.72,2,6,17,LAC,LAC,reb,0,False,False,Beverley REBOUND (Off:0 Def:5),,29-24,29,24
 0021900090,2019-11-03,LAC,UTA,18.02,2,5,59,LAC,LAC,fg_make,6,False,False,Shamet 3' Driving Layup (2 PTS) (Green 1 AST),,31-24,31,24
 0021900090,2019-11-03,LAC,UTA,18.4,2,5,36,UTA,UTA,fg_miss,6,True,False,,MISS Bogdanovic 3' Driving Layup,31-24,31,24
-0021900090,2019-11-03,LAC,UTA,18.4,2,5,36,UTA,UTA,reb,0,False,False,,Jazz Rebound,31-24,31,24
 0021900090,2019-11-03,LAC,UTA,18.4,2,5,36,UTA,LAC,block,6,True,False,block,block,31-24,31,24
+0021900090,2019-11-03,LAC,UTA,18.4,2,5,36,UTA,UTA,reb,0,False,False,,Jazz Rebound,31-24,31,24
 0021900090,2019-11-03,LAC,UTA,18.47,2,5,32,UTA,UTA,tov,1,False,True,,Conley Bad Pass Turnover (P2.T6),31-24,31,24
 0021900090,2019-11-03,LAC,UTA,18.47,2,5,32,UTA,LAC,steal,1,False,True,steal,steal,31-24,31,24
 0021900090,2019-11-03,LAC,UTA,18.55,2,5,27,LAC,LAC,fg_miss,108,True,False,MISS Leonard 2' Cutting Dunk Shot,,31-24,31,24
@@ -267,9 +267,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900090,2019-11-03,LAC,UTA,29.02,3,6,59,LAC,LAC,fg_miss,78,False,False,MISS Williams 15' Floating Jump Shot,,49-56,49,56
 0021900090,2019-11-03,LAC,UTA,29.05,3,6,57,LAC,LAC,reb,0,False,False,Zubac REBOUND (Off:3 Def:6),,49-56,49,56
 0021900090,2019-11-03,LAC,UTA,29.05,3,6,57,LAC,LAC,fg_miss,72,True,False,MISS Zubac 1' Putback Layup,,49-56,49,56
+0021900090,2019-11-03,LAC,UTA,29.05,3,6,57,LAC,UTA,block,72,True,False,block,block,49-56,49,56
 0021900090,2019-11-03,LAC,UTA,29.05,3,6,57,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,49-56,49,56
 0021900090,2019-11-03,LAC,UTA,29.05,3,6,57,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 3 Short 0),,49-56,49,56
-0021900090,2019-11-03,LAC,UTA,29.05,3,6,57,LAC,UTA,block,72,True,False,block,block,49-56,49,56
 0021900090,2019-11-03,LAC,UTA,29.1,3,6,54,LAC,LAC,fg3_miss,1,False,False,MISS Shamet 3PT Jump Shot,,49-56,49,56
 0021900090,2019-11-03,LAC,UTA,29.17,3,6,50,UTA,UTA,reb,0,False,False,,O'Neale REBOUND (Off:1 Def:3),49-56,49,56
 0021900090,2019-11-03,LAC,UTA,29.2,3,6,48,UTA,UTA,fg3_miss,103,False,False,,MISS Bogdanovic 26' 3PT Running Pull-Up Jump Shot,49-56,49,56
@@ -313,8 +313,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900090,2019-11-03,LAC,UTA,33.73,3,2,16,LAC,LAC,fg_make,7,False,False,Harrell 1' Dunk (8 PTS) (Williams 2 AST),,60-65,60,65
 0021900090,2019-11-03,LAC,UTA,34.1,3,1,54,UTA,UTA,fg_make,86,False,False,,Green 9' Turnaround Fadeaway (2 PTS),60-67,60,67
 0021900090,2019-11-03,LAC,UTA,34.22,3,1,47,LAC,LAC,fg_miss,5,True,False,MISS Harrell 2' Layup,,60-67,60,67
-0021900090,2019-11-03,LAC,UTA,34.22,3,1,47,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,60-67,60,67
 0021900090,2019-11-03,LAC,UTA,34.22,3,1,47,LAC,UTA,block,5,True,False,block,block,60-67,60,67
+0021900090,2019-11-03,LAC,UTA,34.22,3,1,47,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,60-67,60,67
 0021900090,2019-11-03,LAC,UTA,34.33,3,1,40,LAC,LAC,fg_miss,63,False,False,MISS Williams 15' Fadeaway Jumper,,60-67,60,67
 0021900090,2019-11-03,LAC,UTA,34.33,3,1,40,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,60-67,60,67
 0021900090,2019-11-03,LAC,UTA,34.33,3,1,40,LAC,UTA,foul,3,False,False,,Bradley L.B.FOUL (P2.PN) (E.Lewis),60-67,60,67
@@ -362,8 +362,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900090,2019-11-03,LAC,UTA,37.22,4,10,47,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:2 Def:2),,68-72,68,72
 0021900090,2019-11-03,LAC,UTA,37.47,4,10,32,LAC,LAC,fg_make,1,False,False,Leonard 12' Jump Shot (14 PTS),,70-72,70,72
 0021900090,2019-11-03,LAC,UTA,37.68,4,10,19,UTA,UTA,tov,1,False,True,,Mitchell Bad Pass Turnover (P1.T10),70-72,70,72
-0021900090,2019-11-03,LAC,UTA,37.68,4,10,19,LAC,UTA,foul,28,False,False,,Ingles Personal Take Foul (P4.T2) (A.Smith),70-72,70,72
 0021900090,2019-11-03,LAC,UTA,37.68,4,10,19,UTA,LAC,steal,1,False,True,steal,steal,70-72,70,72
+0021900090,2019-11-03,LAC,UTA,37.68,4,10,19,LAC,UTA,foul,28,False,False,,Ingles Personal Take Foul (P4.T2) (A.Smith),70-72,70,72
 0021900090,2019-11-03,LAC,UTA,37.97,4,10,2,LAC,LAC,fg3_miss,80,False,False,MISS Leonard 25' 3PT Step Back Jump Shot,,70-72,70,72
 0021900090,2019-11-03,LAC,UTA,38.02,4,9,59,UTA,UTA,reb,0,False,False,,Ingles REBOUND (Off:0 Def:5),70-72,70,72
 0021900090,2019-11-03,LAC,UTA,38.18,4,9,49,UTA,UTA,fg3_miss,1,False,False,,MISS Ingles 25' 3PT Jump Shot,70-72,70,72
@@ -380,8 +380,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900090,2019-11-03,LAC,UTA,39.83,4,8,10,LAC,UTA,foul,26,False,False,,O'Neale Offensive Charge Foul (P4.T3) (A.Smith),77-76,77,76
 0021900090,2019-11-03,LAC,UTA,39.83,4,8,10,UTA,UTA,tov,37,False,False,,O'Neale Offensive Foul Turnover (P1.T11),77-76,77,76
 0021900090,2019-11-03,LAC,UTA,40.12,4,7,53,LAC,LAC,fg_miss,80,False,False,MISS Leonard 16' Step Back Jump Shot,,77-76,77,76
-0021900090,2019-11-03,LAC,UTA,40.22,4,7,47,LAC,LAC,fg_make,97,False,False,Green 1' Tip Layup Shot (7 PTS),,79-76,79,76
 0021900090,2019-11-03,LAC,UTA,40.22,4,7,47,LAC,LAC,reb,0,False,False,Green REBOUND (Off:3 Def:1),,79-76,79,76
+0021900090,2019-11-03,LAC,UTA,40.22,4,7,47,LAC,LAC,fg_make,97,False,False,Green 1' Tip Layup Shot (7 PTS),,79-76,79,76
 0021900090,2019-11-03,LAC,UTA,40.42,4,7,35,UTA,UTA,fg_miss,6,False,False,,MISS Conley 3' Driving Layup,79-76,79,76
 0021900090,2019-11-03,LAC,UTA,40.45,4,7,33,LAC,LAC,reb,0,False,False,Leonard REBOUND (Off:2 Def:4),,79-76,79,76
 0021900090,2019-11-03,LAC,UTA,40.52,4,7,29,LAC,LAC,fg3_make,103,False,False,Leonard 25' 3PT Running Pull-Up Jump Shot (20 PTS),,82-76,82,76
@@ -445,10 +445,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900090,2019-11-03,LAC,UTA,46.12,4,1,53,LAC,LAC,ft_make,11,False,False,Leonard Free Throw 1 of 2 (27 PTS),,97-90,97,90
 0021900090,2019-11-03,LAC,UTA,46.12,4,1,53,LAC,LAC,ft_make,12,False,False,Leonard Free Throw 2 of 2 (28 PTS),,98-90,98,90
 0021900090,2019-11-03,LAC,UTA,46.37,4,1,38,UTA,UTA,tov,2,False,True,,Mitchell Lost Ball Turnover (P2.T13),98-90,98,90
+0021900090,2019-11-03,LAC,UTA,46.37,4,1,38,UTA,LAC,steal,2,False,True,steal,steal,98-90,98,90
 0021900090,2019-11-03,LAC,UTA,46.37,4,1,38,LAC,UTA,foul,1,False,False,,Mitchell P.FOUL (P4.PN) (A.Smith),98-90,98,90
 0021900090,2019-11-03,LAC,UTA,46.37,4,1,38,LAC,LAC,ft_miss,11,False,False,MISS Harrell Free Throw 1 of 2,,98-90,98,90
 0021900090,2019-11-03,LAC,UTA,46.37,4,1,38,LAC,LAC,reb,1,False,False,CLIPPERS Rebound,,98-90,98,90
-0021900090,2019-11-03,LAC,UTA,46.37,4,1,38,UTA,LAC,steal,2,False,True,steal,steal,98-90,98,90
 0021900090,2019-11-03,LAC,UTA,46.37,4,1,38,LAC,LAC,ft_make,12,False,False,Harrell Free Throw 2 of 2 (17 PTS),,99-90,99,90
 0021900090,2019-11-03,LAC,UTA,46.62,4,1,23,UTA,UTA,fg_make,102,False,False,,Bogdanovic 3' Driving Floating Bank Jump Shot (19 PTS) (Mitchell 6 AST),99-92,99,92
 0021900090,2019-11-03,LAC,UTA,46.62,4,1,23,UTA,LAC,foul,2,False,False,Harkless S.FOUL (P5.PN) (E.Lewis),,99-92,99,92

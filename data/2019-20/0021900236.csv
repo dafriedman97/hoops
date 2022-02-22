@@ -103,10 +103,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900236,2019-11-24,NYK,BKN,11.62,1,0,23,NYK,NYK,fg_make,87,False,False,Robinson 1' Putback Dunk (4 PTS),,22-29,22,29
 0021900236,2019-11-24,NYK,BKN,11.92,1,0,5,BKN,NYK,foul,1,False,False,Dotson P.FOUL (P1.T3) (B.Taylor),,22-29,22,29
 0021900236,2019-11-24,NYK,BKN,12.0,1,0,0,BKN,BKN,fg_miss,6,True,False,,MISS Dinwiddie 1' Driving Layup,22-29,22,29
+0021900236,2019-11-24,NYK,BKN,12.0,1,0,0,BKN,NYK,block,6,True,False,block,block,22-29,22,29
 0021900236,2019-11-24,NYK,BKN,12.0,1,0,0,NYK,NYK,reb,0,False,False,Dotson REBOUND (Off:0 Def:3),,22-29,22,29
 0021900236,2019-11-24,NYK,BKN,12.0,1,0,0,NYK,,period_end,0,False,False,,,22-29,22,29
 0021900236,2019-11-24,NYK,BKN,12.0,2,12,0,NYK,,period_start,0,False,False,,,22-29,22,29
-0021900236,2019-11-24,NYK,BKN,12.0,1,0,0,BKN,NYK,block,6,True,False,block,block,22-29,22,29
 0021900236,2019-11-24,NYK,BKN,12.3,2,11,42,NYK,NYK,tov,2,False,True,Portis Lost Ball Turnover (P1.T4),,22-29,22,29
 0021900236,2019-11-24,NYK,BKN,12.3,2,11,42,NYK,BKN,steal,2,False,True,steal,steal,22-29,22,29
 0021900236,2019-11-24,NYK,BKN,12.43,2,11,34,BKN,BKN,tov,1,False,True,,Jordan Bad Pass Turnover (P1.T3),22-29,22,29
@@ -333,8 +333,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900236,2019-11-24,NYK,BKN,39.45,4,8,33,NYK,NYK,fg_miss,5,False,False,MISS Morris Sr. Layup,,79-88,79,88
 0021900236,2019-11-24,NYK,BKN,39.47,4,8,32,NYK,NYK,reb,0,False,False,Morris Sr. REBOUND (Off:1 Def:1),,79-88,79,88
 0021900236,2019-11-24,NYK,BKN,39.48,4,8,31,NYK,NYK,fg_miss,97,False,False,MISS Morris Sr. Tip Layup Shot,,79-88,79,88
-0021900236,2019-11-24,NYK,BKN,39.5,4,8,30,NYK,NYK,reb,0,False,False,Morris Sr. REBOUND (Off:2 Def:1),,79-88,79,88
 0021900236,2019-11-24,NYK,BKN,39.5,4,8,30,NYK,NYK,tov,4,False,False,Morris Sr. Traveling Turnover (P3.T18),,79-88,79,88
+0021900236,2019-11-24,NYK,BKN,39.5,4,8,30,NYK,NYK,reb,0,False,False,Morris Sr. REBOUND (Off:2 Def:1),,79-88,79,88
 0021900236,2019-11-24,NYK,BKN,39.92,4,8,5,BKN,BKN,fg_miss,6,False,False,,MISS Pinson 9' Driving Layup,79-88,79,88
 0021900236,2019-11-24,NYK,BKN,39.95,4,8,3,NYK,NYK,reb,0,False,False,Ntilikina REBOUND (Off:0 Def:2),,79-88,79,88
 0021900236,2019-11-24,NYK,BKN,40.02,4,7,59,NYK,BKN,foul,2,False,False,,Temple S.FOUL (P2.T2) (B.Taylor),79-88,79,88
@@ -354,8 +354,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900236,2019-11-24,NYK,BKN,40.82,4,7,11,BKN,BKN,fg3_make,1,False,False,,Harris 25' 3PT Jump Shot (9 PTS) (Dinwiddie 4 AST),80-91,80,91
 0021900236,2019-11-24,NYK,BKN,41.23,4,6,46,NYK,NYK,fg_make,6,False,False,Randle 2' Driving Layup (11 PTS),,82-91,82,91
 0021900236,2019-11-24,NYK,BKN,41.67,4,6,20,BKN,BKN,tov,2,False,True,,Prince Lost Ball Turnover (P2.T10),82-91,82,91
-0021900236,2019-11-24,NYK,BKN,41.67,4,6,20,NYK,BKN,foul,1,False,False,,Harris P.FOUL (P3.T3) (N.Sago),82-91,82,91
 0021900236,2019-11-24,NYK,BKN,41.67,4,6,20,BKN,NYK,steal,2,False,True,steal,steal,82-91,82,91
+0021900236,2019-11-24,NYK,BKN,41.67,4,6,20,NYK,BKN,foul,1,False,False,,Harris P.FOUL (P3.T3) (N.Sago),82-91,82,91
 0021900236,2019-11-24,NYK,BKN,41.85,4,6,9,NYK,NYK,fg_miss,1,False,False,MISS Morris Sr. 20' Jump Shot,,82-91,82,91
 0021900236,2019-11-24,NYK,BKN,41.88,4,6,7,BKN,BKN,reb,0,False,False,,Prince REBOUND (Off:1 Def:9),82-91,82,91
 0021900236,2019-11-24,NYK,BKN,42.18,4,5,49,BKN,BKN,fg3_miss,1,False,False,,MISS Prince 3PT Jump Shot,82-91,82,91
@@ -372,8 +372,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900236,2019-11-24,NYK,BKN,43.07,4,4,56,BKN,BKN,reb,0,False,False,,Allen REBOUND (Off:4 Def:6),87-91,87,91
 0021900236,2019-11-24,NYK,BKN,43.08,4,4,55,BKN,BKN,fg_miss,5,True,False,,MISS Allen 1' Layup,87-91,87,91
 0021900236,2019-11-24,NYK,BKN,43.08,4,4,55,BKN,NYK,block,5,True,False,block,block,87-91,87,91
-0021900236,2019-11-24,NYK,BKN,43.1,4,4,54,BKN,BKN,reb,0,False,False,,Nets Rebound,87-91,87,91
 0021900236,2019-11-24,NYK,BKN,43.1,4,4,54,NYK,NYK,timeout,1,False,False,KNICKS Timeout: Regular (Full 4 Short 0),,87-91,87,91
+0021900236,2019-11-24,NYK,BKN,43.1,4,4,54,BKN,BKN,reb,0,False,False,,Nets Rebound,87-91,87,91
 0021900236,2019-11-24,NYK,BKN,43.15,4,4,51,,NYK,jump_ball,1,False,False,Jump Ball (CC) Robinson vs. Allen: Tip to Allen,,87-91,87,91
 0021900236,2019-11-24,NYK,BKN,43.37,4,4,38,BKN,BKN,fg_make,6,False,False,,Dinwiddie 1' Driving Layup (26 PTS),87-93,87,93
 0021900236,2019-11-24,NYK,BKN,43.6,4,4,24,NYK,BKN,foul,1,False,False,,Dinwiddie P.FOUL (P2.PN) (M.Lindsay),87-93,87,93

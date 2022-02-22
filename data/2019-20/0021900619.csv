@@ -13,8 +13,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900619,2020-01-17,IND,MIN,1.2,1,10,48,IND,IND,ft_miss,10,False,False,MISS Sabonis Free Throw 1 of 1,,4-0,4,0
 0021900619,2020-01-17,IND,MIN,1.22,1,10,47,MIN,MIN,reb,0,False,False,,Covington REBOUND (Off:0 Def:1),4-0,4,0
 0021900619,2020-01-17,IND,MIN,1.37,1,10,38,MIN,MIN,fg_miss,6,True,False,,MISS Wiggins 3' Driving Layup,4-0,4,0
-0021900619,2020-01-17,IND,MIN,1.37,1,10,38,IND,IND,reb,0,False,False,PACERS Rebound,,4-0,4,0
 0021900619,2020-01-17,IND,MIN,1.37,1,10,38,MIN,IND,block,6,True,False,block,block,4-0,4,0
+0021900619,2020-01-17,IND,MIN,1.37,1,10,38,IND,IND,reb,0,False,False,PACERS Rebound,,4-0,4,0
 0021900619,2020-01-17,IND,MIN,1.62,1,10,23,IND,IND,fg_miss,3,False,False,MISS Sabonis 5' Hook Shot,,4-0,4,0
 0021900619,2020-01-17,IND,MIN,1.65,1,10,21,MIN,MIN,reb,0,False,False,,Covington REBOUND (Off:0 Def:2),4-0,4,0
 0021900619,2020-01-17,IND,MIN,1.85,1,10,9,MIN,MIN,fg3_miss,1,False,False,,MISS Napier 3PT Jump Shot,4-0,4,0
@@ -92,8 +92,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900619,2020-01-17,IND,MIN,10.6,1,1,24,IND,IND,reb,0,False,False,Holiday REBOUND (Off:0 Def:1),,26-25,26,25
 0021900619,2020-01-17,IND,MIN,10.77,1,1,14,IND,IND,fg_make,108,False,False,Bitadze 2' Cutting Dunk Shot (2 PTS) (Holiday 1 AST),,28-25,28,25
 0021900619,2020-01-17,IND,MIN,11.03,1,0,58,MIN,MIN,fg_miss,6,True,False,,MISS McLaughlin 2' Driving Layup,28-25,28,25
-0021900619,2020-01-17,IND,MIN,11.03,1,0,58,IND,IND,reb,0,False,False,PACERS Rebound,,28-25,28,25
 0021900619,2020-01-17,IND,MIN,11.03,1,0,58,MIN,IND,block,6,True,False,block,block,28-25,28,25
+0021900619,2020-01-17,IND,MIN,11.03,1,0,58,IND,IND,reb,0,False,False,PACERS Rebound,,28-25,28,25
 0021900619,2020-01-17,IND,MIN,11.2,1,0,48,IND,IND,fg_make,75,False,False,Holiday 1' Driving Finger Roll Layup (2 PTS),,30-25,30,25
 0021900619,2020-01-17,IND,MIN,11.47,1,0,32,MIN,IND,foul,2,False,False,Bitadze S.FOUL (P1.PN) (C.Kirkland),,30-25,30,25
 0021900619,2020-01-17,IND,MIN,11.47,1,0,32,MIN,MIN,ft_make,11,False,False,,Culver Free Throw 1 of 2 (5 PTS),30-26,30,26
@@ -328,8 +328,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900619,2020-01-17,IND,MIN,38.75,4,9,15,MIN,MIN,fg_make,5,False,False,,Okogie 1' Layup (15 PTS),103-96,103,96
 0021900619,2020-01-17,IND,MIN,39.0,4,9,0,IND,IND,fg_make,101,False,False,McDermott 10' Driving Floating Jump Shot (13 PTS) (Sabonis 4 AST),,105-96,105,96
 0021900619,2020-01-17,IND,MIN,39.22,4,8,47,MIN,MIN,fg_miss,6,True,False,,MISS Okogie 4' Driving Layup,105-96,105,96
-0021900619,2020-01-17,IND,MIN,39.22,4,8,47,IND,IND,reb,0,False,False,PACERS Rebound,,105-96,105,96
 0021900619,2020-01-17,IND,MIN,39.22,4,8,47,MIN,IND,block,6,True,False,block,block,105-96,105,96
+0021900619,2020-01-17,IND,MIN,39.22,4,8,47,IND,IND,reb,0,False,False,PACERS Rebound,,105-96,105,96
 0021900619,2020-01-17,IND,MIN,39.37,4,8,38,IND,IND,fg_miss,79,False,False,MISS McConnell 12' Pullup Jump Shot,,105-96,105,96
 0021900619,2020-01-17,IND,MIN,39.43,4,8,34,MIN,MIN,reb,0,False,False,,McLaughlin REBOUND (Off:1 Def:3),105-96,105,96
 0021900619,2020-01-17,IND,MIN,39.58,4,8,25,MIN,MIN,fg_miss,79,True,False,,MISS Culver 16' Pullup Jump Shot,105-96,105,96
@@ -379,9 +379,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900619,2020-01-17,IND,MIN,44.53,4,3,28,IND,IND,reb,1,False,False,PACERS Rebound,,113-107,113,107
 0021900619,2020-01-17,IND,MIN,44.53,4,3,28,IND,IND,ft_make,12,False,False,Turner Free Throw 2 of 2 (8 PTS),,114-107,114,107
 0021900619,2020-01-17,IND,MIN,44.85,4,3,9,MIN,MIN,fg3_make,1,False,False,,Covington 28' 3PT Jump Shot (9 PTS) (Napier 9 AST),114-110,114,110
+0021900619,2020-01-17,IND,MIN,45.25,4,2,45,MIN,IND,foul,3,False,False,Sabonis L.B.FOUL (P5.T4) (C.Kirkland),,114-110,114,110
 0021900619,2020-01-17,IND,MIN,45.25,4,2,45,IND,IND,fg_miss,102,False,False,MISS Warren 7' Driving Floating Bank Jump Shot,,114-110,114,110
 0021900619,2020-01-17,IND,MIN,45.25,4,2,45,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,114-110,114,110
-0021900619,2020-01-17,IND,MIN,45.25,4,2,45,MIN,IND,foul,3,False,False,Sabonis L.B.FOUL (P5.T4) (C.Kirkland),,114-110,114,110
 0021900619,2020-01-17,IND,MIN,45.6,4,2,24,MIN,MIN,fg_miss,47,False,False,,MISS Towns 5' Turnaround Jump Shot,114-110,114,110
 0021900619,2020-01-17,IND,MIN,45.62,4,2,23,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,114-110,114,110
 0021900619,2020-01-17,IND,MIN,45.62,4,2,23,MIN,IND,foul,3,False,False,Lamb L.B.FOUL (P2.PN) (T.Ford),,114-110,114,110
@@ -394,8 +394,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900619,2020-01-17,IND,MIN,46.42,4,1,35,IND,IND,fg3_miss,1,False,False,MISS Lamb 26' 3PT Jump Shot,,114-114,114,114
 0021900619,2020-01-17,IND,MIN,46.47,4,1,32,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:3 Def:2),114-114,114,114
 0021900619,2020-01-17,IND,MIN,46.72,4,1,17,MIN,MIN,fg_miss,6,True,False,,MISS Wiggins 1' Driving Layup,114-114,114,114
-0021900619,2020-01-17,IND,MIN,46.72,4,1,17,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,114-114,114,114
 0021900619,2020-01-17,IND,MIN,46.72,4,1,17,MIN,IND,block,6,True,False,block,block,114-114,114,114
+0021900619,2020-01-17,IND,MIN,46.72,4,1,17,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,114-114,114,114
 0021900619,2020-01-17,IND,MIN,46.73,4,1,16,MIN,MIN,tov,39,False,False,,Towns Step Out of Bounds Turnover (P3.T12),114-114,114,114
 0021900619,2020-01-17,IND,MIN,47.02,4,0,59,IND,IND,tov,2,False,True,Brogdon Lost Ball Turnover (P4.T12),,114-114,114,114
 0021900619,2020-01-17,IND,MIN,47.02,4,0,59,IND,MIN,steal,2,False,True,steal,steal,114-114,114,114

@@ -204,9 +204,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900880,2020-02-28,MIA,DAL,23.9,2,0,6,DAL,DAL,ft_make,12,False,False,,Doncic Free Throw 2 of 2 (8 PTS),60-55,60,55
 0021900880,2020-02-28,MIA,DAL,23.97,2,0,2,MIA,MIA,fg3_make,79,False,False,Dragic 26' 3PT Pullup Jump Shot (9 PTS),,63-55,63,55
 0021900880,2020-02-28,MIA,DAL,24.0,2,0,0,DAL,DAL,tov,1,False,True,,Doncic Bad Pass Turnover (P3.T6),63-55,63,55
+0021900880,2020-02-28,MIA,DAL,24.0,2,0,0,DAL,MIA,steal,1,False,True,steal,steal,63-55,63,55
 0021900880,2020-02-28,MIA,DAL,24.0,2,0,0,DAL,,period_end,0,False,False,,,63-55,63,55
 0021900880,2020-02-28,MIA,DAL,24.0,3,12,0,DAL,,period_start,0,False,False,,,63-55,63,55
-0021900880,2020-02-28,MIA,DAL,24.0,2,0,0,DAL,MIA,steal,1,False,True,steal,steal,63-55,63,55
 0021900880,2020-02-28,MIA,DAL,24.37,3,11,38,DAL,DAL,fg3_miss,1,False,False,,MISS Porzingis 26' 3PT Jump Shot,63-55,63,55
 0021900880,2020-02-28,MIA,DAL,24.45,3,11,33,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:0 Def:3),,63-55,63,55
 0021900880,2020-02-28,MIA,DAL,24.55,3,11,27,MIA,DAL,foul,2,False,False,,Porzingis S.FOUL (P2.T1) (K.Fitzgerald),63-55,63,55
@@ -319,8 +319,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900880,2020-02-28,MIA,DAL,37.22,4,10,47,DAL,DAL,fg3_miss,1,False,False,,MISS Finney-Smith 3PT Jump Shot,93-93,93,93
 0021900880,2020-02-28,MIA,DAL,37.25,4,10,45,MIA,MIA,reb,0,False,False,Iguodala REBOUND (Off:1 Def:1),,93-93,93,93
 0021900880,2020-02-28,MIA,DAL,37.48,4,10,31,MIA,MIA,fg_miss,3,True,False,MISS Olynyk 3' Hook Shot,,93-93,93,93
-0021900880,2020-02-28,MIA,DAL,37.48,4,10,31,MIA,MIA,reb,0,False,False,HEAT Rebound,,93-93,93,93
 0021900880,2020-02-28,MIA,DAL,37.48,4,10,31,MIA,DAL,block,3,True,False,block,block,93-93,93,93
+0021900880,2020-02-28,MIA,DAL,37.48,4,10,31,MIA,MIA,reb,0,False,False,HEAT Rebound,,93-93,93,93
 0021900880,2020-02-28,MIA,DAL,37.53,4,10,28,MIA,MIA,fg3_make,1,False,False,Olynyk 27' 3PT Jump Shot (11 PTS) (Dragic 4 AST),,96-93,96,93
 0021900880,2020-02-28,MIA,DAL,37.97,4,10,2,DAL,DAL,fg_miss,66,False,False,,MISS Barea 6' Jump Bank Shot,96-93,96,93
 0021900880,2020-02-28,MIA,DAL,38.02,4,9,59,MIA,MIA,reb,0,False,False,Dragic REBOUND (Off:0 Def:3),,96-93,96,93

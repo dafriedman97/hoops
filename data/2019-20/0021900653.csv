@@ -9,8 +9,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900653,2020-01-21,DAL,LAC,0.97,1,11,2,DAL,DAL,fg_miss,1,False,False,MISS Porzingis 14' Jump Shot,,0-0,0,0
 0021900653,2020-01-21,DAL,LAC,1.0,1,11,0,LAC,LAC,reb,0,False,False,,Zubac REBOUND (Off:0 Def:1),0-0,0,0
 0021900653,2020-01-21,DAL,LAC,1.12,1,10,53,LAC,LAC,fg_miss,6,True,False,,MISS Beverley 2' Driving Layup,0-0,0,0
-0021900653,2020-01-21,DAL,LAC,1.12,1,10,53,LAC,LAC,reb,0,False,False,,Clippers Rebound,0-0,0,0
 0021900653,2020-01-21,DAL,LAC,1.12,1,10,53,LAC,DAL,block,6,True,False,block,block,0-0,0,0
+0021900653,2020-01-21,DAL,LAC,1.12,1,10,53,LAC,LAC,reb,0,False,False,,Clippers Rebound,0-0,0,0
 0021900653,2020-01-21,DAL,LAC,1.42,1,10,35,LAC,LAC,fg_miss,96,False,False,,MISS Zubac 1' Turnaround Bank Hook Shot,0-0,0,0
 0021900653,2020-01-21,DAL,LAC,1.47,1,10,32,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:0 Def:1),,0-0,0,0
 0021900653,2020-01-21,DAL,LAC,1.75,1,10,15,DAL,DAL,fg_miss,101,False,False,MISS Doncic 8' Driving Floating Jump Shot,,0-0,0,0
@@ -104,8 +104,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900653,2020-01-21,DAL,LAC,10.05,1,1,57,LAC,LAC,fg_miss,101,False,False,,MISS Harrell 10' Driving Floating Jump Shot,20-17,20,17
 0021900653,2020-01-21,DAL,LAC,10.07,1,1,56,LAC,LAC,reb,0,False,False,,Clippers Rebound,20-17,20,17
 0021900653,2020-01-21,DAL,LAC,10.13,1,1,52,LAC,LAC,fg_miss,6,True,False,,MISS Harrell 3' Driving Layup,20-17,20,17
-0021900653,2020-01-21,DAL,LAC,10.13,1,1,52,LAC,LAC,reb,0,False,False,,Clippers Rebound,20-17,20,17
 0021900653,2020-01-21,DAL,LAC,10.13,1,1,52,LAC,DAL,block,6,True,False,block,block,20-17,20,17
+0021900653,2020-01-21,DAL,LAC,10.13,1,1,52,LAC,LAC,reb,0,False,False,,Clippers Rebound,20-17,20,17
 0021900653,2020-01-21,DAL,LAC,10.18,1,1,49,LAC,LAC,fg_make,63,False,False,,Williams 15' Fadeaway Jumper (2 PTS) (Robinson 1 AST),20-19,20,19
 0021900653,2020-01-21,DAL,LAC,10.38,1,1,37,DAL,LAC,foul,2,False,False,,Harrell S.FOUL (P1.PN) (S.Corbin),20-19,20,19
 0021900653,2020-01-21,DAL,LAC,10.38,1,1,37,DAL,DAL,ft_make,11,False,False,Marjanovic Free Throw 1 of 2 (1 PTS),,21-19,21,19
@@ -116,8 +116,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900653,2020-01-21,DAL,LAC,11.2,1,0,48,LAC,LAC,fg_miss,58,False,False,,MISS Green 6' Turnaround Hook Shot,24-19,24,19
 0021900653,2020-01-21,DAL,LAC,11.23,1,0,46,DAL,DAL,reb,0,False,False,Brunson REBOUND (Off:0 Def:1),,24-19,24,19
 0021900653,2020-01-21,DAL,LAC,11.45,1,0,33,DAL,DAL,tov,2,False,True,Brunson Lost Ball Turnover (P1.T3),,24-19,24,19
-0021900653,2020-01-21,DAL,LAC,11.45,1,0,33,LAC,DAL,foul,1,False,False,Brunson P.FOUL (P1.T4) (S.Corbin),,24-19,24,19
 0021900653,2020-01-21,DAL,LAC,11.45,1,0,33,DAL,LAC,steal,2,False,True,steal,steal,24-19,24,19
+0021900653,2020-01-21,DAL,LAC,11.45,1,0,33,LAC,DAL,foul,1,False,False,Brunson P.FOUL (P1.T4) (S.Corbin),,24-19,24,19
 0021900653,2020-01-21,DAL,LAC,11.48,1,0,31,LAC,LAC,fg3_make,79,False,False,,Williams 30' 3PT Pullup Jump Shot (5 PTS),24-22,24,22
 0021900653,2020-01-21,DAL,LAC,11.83,1,0,10,DAL,DAL,fg_miss,1,False,False,MISS Marjanovic 18' Jump Shot,,24-22,24,22
 0021900653,2020-01-21,DAL,LAC,11.87,1,0,8,LAC,LAC,reb,0,False,False,,McGruder REBOUND (Off:0 Def:1),24-22,24,22
@@ -130,8 +130,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900653,2020-01-21,DAL,LAC,12.18,2,11,49,DAL,DAL,reb,0,False,False,Kleber REBOUND (Off:0 Def:1),,24-24,24,24
 0021900653,2020-01-21,DAL,LAC,12.43,2,11,34,DAL,DAL,fg_make,79,False,False,Curry 19' Pullup Jump Shot (2 PTS),,26-24,26,24
 0021900653,2020-01-21,DAL,LAC,12.63,2,11,22,LAC,LAC,fg_miss,101,True,False,,MISS Williams 8' Driving Floating Jump Shot,26-24,26,24
-0021900653,2020-01-21,DAL,LAC,12.63,2,11,22,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,26-24,26,24
 0021900653,2020-01-21,DAL,LAC,12.63,2,11,22,LAC,DAL,block,101,True,False,block,block,26-24,26,24
+0021900653,2020-01-21,DAL,LAC,12.63,2,11,22,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,26-24,26,24
 0021900653,2020-01-21,DAL,LAC,12.9,2,11,6,DAL,DAL,fg_make,79,False,False,Brunson 7' Pullup Jump Shot (2 PTS),,28-24,28,24
 0021900653,2020-01-21,DAL,LAC,13.22,2,10,47,LAC,LAC,fg_make,58,False,False,,Green 6' Turnaround Hook Shot (2 PTS) (Robinson 2 AST),28-26,28,26
 0021900653,2020-01-21,DAL,LAC,13.63,2,10,22,DAL,DAL,fg_make,47,False,False,Marjanovic 13' Turnaround Jump Shot (6 PTS),,30-26,30,26
@@ -246,8 +246,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900653,2020-01-21,DAL,LAC,23.2,2,0,48,LAC,LAC,ft_make,10,False,False,,Leonard Free Throw 1 of 1 (14 PTS),45-58,45,58
 0021900653,2020-01-21,DAL,LAC,23.4,2,0,36,DAL,DAL,fg3_make,1,False,False,Hardaway Jr. 3PT Jump Shot (6 PTS) (Doncic 4 AST),,48-58,48,58
 0021900653,2020-01-21,DAL,LAC,23.5,2,0,30,LAC,LAC,tov,2,False,True,,Beverley Lost Ball Turnover (P2.T8),48-58,48,58
-0021900653,2020-01-21,DAL,LAC,23.5,2,0,30,DAL,LAC,foul,1,False,False,,Beverley P.FOUL (P2.PN) (J.Williams),48-58,48,58
 0021900653,2020-01-21,DAL,LAC,23.5,2,0,30,LAC,DAL,steal,2,False,True,steal,steal,48-58,48,58
+0021900653,2020-01-21,DAL,LAC,23.5,2,0,30,DAL,LAC,foul,1,False,False,,Beverley P.FOUL (P2.PN) (J.Williams),48-58,48,58
 0021900653,2020-01-21,DAL,LAC,23.5,2,0,30,DAL,DAL,ft_make,11,False,False,Hardaway Jr. Free Throw 1 of 2 (7 PTS),,49-58,49,58
 0021900653,2020-01-21,DAL,LAC,23.5,2,0,30,DAL,DAL,ft_miss,12,False,False,MISS Hardaway Jr. Free Throw 2 of 2,,49-58,49,58
 0021900653,2020-01-21,DAL,LAC,23.55,2,0,27,LAC,LAC,reb,0,False,False,,Beverley REBOUND (Off:0 Def:4),49-58,49,58
@@ -270,8 +270,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900653,2020-01-21,DAL,LAC,24.85,3,11,9,DAL,DAL,fg_make,102,False,False,Doncic 4' Driving Floating Bank Jump Shot (14 PTS),,51-62,51,62
 0021900653,2020-01-21,DAL,LAC,25.07,3,10,56,LAC,LAC,fg_make,79,False,False,,Leonard 13' Pullup Jump Shot (18 PTS),51-64,51,64
 0021900653,2020-01-21,DAL,LAC,25.25,3,10,45,DAL,DAL,fg_miss,101,False,False,MISS Porzingis 2' Driving Floating Jump Shot,,51-64,51,64
-0021900653,2020-01-21,DAL,LAC,25.32,3,10,41,DAL,DAL,fg_miss,97,False,False,MISS Porzingis 1' Tip Layup Shot,,51-64,51,64
 0021900653,2020-01-21,DAL,LAC,25.32,3,10,41,DAL,DAL,reb,0,False,False,Porzingis REBOUND (Off:3 Def:3),,51-64,51,64
+0021900653,2020-01-21,DAL,LAC,25.32,3,10,41,DAL,DAL,fg_miss,97,False,False,MISS Porzingis 1' Tip Layup Shot,,51-64,51,64
 0021900653,2020-01-21,DAL,LAC,25.33,3,10,40,LAC,LAC,reb,0,False,False,,Williams REBOUND (Off:0 Def:2),51-64,51,64
 0021900653,2020-01-21,DAL,LAC,25.42,3,10,35,LAC,DAL,foul,2,False,False,Finney-Smith S.FOUL (P3.T1) (S.Corbin),,51-64,51,64
 0021900653,2020-01-21,DAL,LAC,25.42,3,10,35,LAC,LAC,ft_miss,11,False,False,,MISS Leonard Free Throw 1 of 2,51-64,51,64
@@ -318,8 +318,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900653,2020-01-21,DAL,LAC,30.93,3,5,4,LAC,LAC,fg_miss,102,False,False,,MISS Harrell 3' Driving Floating Bank Jump Shot,66-73,66,73
 0021900653,2020-01-21,DAL,LAC,31.0,3,5,0,DAL,DAL,reb,0,False,False,Barea REBOUND (Off:0 Def:2),,66-73,66,73
 0021900653,2020-01-21,DAL,LAC,31.02,3,4,59,DAL,DAL,fg_miss,41,True,False,MISS Hardaway Jr. 6' Running Layup,,66-73,66,73
-0021900653,2020-01-21,DAL,LAC,31.02,3,4,59,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,66-73,66,73
 0021900653,2020-01-21,DAL,LAC,31.02,3,4,59,DAL,LAC,block,41,True,False,block,block,66-73,66,73
+0021900653,2020-01-21,DAL,LAC,31.02,3,4,59,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,66-73,66,73
 0021900653,2020-01-21,DAL,LAC,31.08,3,4,55,DAL,LAC,foul,1,False,False,,Williams P.FOUL (P1.T3) (J.Williams),66-73,66,73
 0021900653,2020-01-21,DAL,LAC,31.25,3,4,45,DAL,DAL,tov,1,False,True,Doncic Bad Pass Turnover (P4.T10),,66-73,66,73
 0021900653,2020-01-21,DAL,LAC,31.25,3,4,45,DAL,LAC,steal,1,False,True,steal,steal,66-73,66,73
@@ -328,8 +328,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900653,2020-01-21,DAL,LAC,31.42,3,4,35,LAC,LAC,fg3_miss,1,False,False,,MISS Leonard 26' 3PT Jump Shot,66-73,66,73
 0021900653,2020-01-21,DAL,LAC,31.47,3,4,32,LAC,LAC,reb,0,False,False,,McGruder REBOUND (Off:3 Def:1),66-73,66,73
 0021900653,2020-01-21,DAL,LAC,31.55,3,4,27,LAC,LAC,fg_miss,75,False,False,,MISS Williams 1' Driving Finger Roll Layup,66-73,66,73
-0021900653,2020-01-21,DAL,LAC,31.6,3,4,24,LAC,LAC,fg_miss,97,False,False,,MISS Harrell 1' Tip Layup Shot,66-73,66,73
 0021900653,2020-01-21,DAL,LAC,31.6,3,4,24,LAC,LAC,reb,0,False,False,,Harrell REBOUND (Off:1 Def:1),66-73,66,73
+0021900653,2020-01-21,DAL,LAC,31.6,3,4,24,LAC,LAC,fg_miss,97,False,False,,MISS Harrell 1' Tip Layup Shot,66-73,66,73
 0021900653,2020-01-21,DAL,LAC,31.63,3,4,22,LAC,LAC,reb,0,False,False,,Harrell REBOUND (Off:2 Def:1),66-73,66,73
 0021900653,2020-01-21,DAL,LAC,31.63,3,4,22,LAC,LAC,fg_make,97,False,False,,Harrell 1' Tip Layup Shot (6 PTS),66-75,66,75
 0021900653,2020-01-21,DAL,LAC,31.82,3,4,11,DAL,DAL,fg3_miss,79,False,False,MISS Barea 24' 3PT Pullup Jump Shot,,66-75,66,75
@@ -399,8 +399,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900653,2020-01-21,DAL,LAC,38.02,4,9,59,DAL,DAL,ft_make,11,False,False,Brunson Free Throw 1 of 2 (5 PTS),,81-85,81,85
 0021900653,2020-01-21,DAL,LAC,38.02,4,9,59,DAL,DAL,ft_make,12,False,False,Brunson Free Throw 2 of 2 (6 PTS),,82-85,82,85
 0021900653,2020-01-21,DAL,LAC,38.4,4,9,36,LAC,LAC,fg_miss,101,False,False,,MISS Williams 3' Driving Floating Jump Shot,82-85,82,85
-0021900653,2020-01-21,DAL,LAC,38.47,4,9,32,LAC,LAC,fg_make,97,False,False,,Harrell 1' Tip Layup Shot (10 PTS),82-87,82,87
 0021900653,2020-01-21,DAL,LAC,38.47,4,9,32,LAC,LAC,reb,0,False,False,,Harrell REBOUND (Off:6 Def:2),82-87,82,87
+0021900653,2020-01-21,DAL,LAC,38.47,4,9,32,LAC,LAC,fg_make,97,False,False,,Harrell 1' Tip Layup Shot (10 PTS),82-87,82,87
 0021900653,2020-01-21,DAL,LAC,38.67,4,9,20,LAC,DAL,foul,26,False,False,Porzingis Offensive Charge Foul (P4.T2) (C.Washington),,82-87,82,87
 0021900653,2020-01-21,DAL,LAC,38.67,4,9,20,DAL,DAL,tov,37,False,False,Porzingis Offensive Foul Turnover (P2.T13),,82-87,82,87
 0021900653,2020-01-21,DAL,LAC,38.87,4,9,8,LAC,LAC,fg3_make,1,False,False,,Williams 25' 3PT Jump Shot (15 PTS) (Harrell 1 AST),82-90,82,90

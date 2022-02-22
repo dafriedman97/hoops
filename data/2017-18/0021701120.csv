@@ -43,8 +43,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701120,2018-03-28,MIN,ATL,5.9,1,6,6,MIN,MIN,fg3_miss,1,False,False,MISS Bjelica 3PT Jump Shot,,15-18,15,18
 0021701120,2018-03-28,MIN,ATL,5.95,1,6,3,MIN,MIN,reb,0,False,False,Towns REBOUND (Off:1 Def:1),,15-18,15,18
 0021701120,2018-03-28,MIN,ATL,5.98,1,6,1,MIN,MIN,fg_miss,5,True,False,MISS Towns 4' Layup,,15-18,15,18
-0021701120,2018-03-28,MIN,ATL,5.98,1,6,1,ATL,ATL,reb,0,False,False,,Prince REBOUND (Off:0 Def:1),15-18,15,18
 0021701120,2018-03-28,MIN,ATL,5.98,1,6,1,MIN,ATL,block,5,True,False,block,block,15-18,15,18
+0021701120,2018-03-28,MIN,ATL,5.98,1,6,1,ATL,ATL,reb,0,False,False,,Prince REBOUND (Off:0 Def:1),15-18,15,18
 0021701120,2018-03-28,MIN,ATL,6.18,1,5,49,ATL,ATL,fg_miss,78,False,False,,MISS Taylor 14' Floating Jump Shot,15-18,15,18
 0021701120,2018-03-28,MIN,ATL,6.23,1,5,46,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,15-18,15,18
 0021701120,2018-03-28,MIN,ATL,6.52,1,5,29,MIN,MIN,fg_miss,5,False,False,MISS Gibson 5' Layup,,15-18,15,18
@@ -93,9 +93,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701120,2018-03-28,MIN,ATL,11.55,1,0,27,MIN,MIN,fg_make,5,False,False,Dieng 1' Layup (2 PTS) (Crawford 2 AST),,34-32,34,32
 0021701120,2018-03-28,MIN,ATL,11.9,1,0,6,ATL,ATL,tov,4,False,False,,Dorsey Traveling Turnover (P1.T5),34-32,34,32
 0021701120,2018-03-28,MIN,ATL,12.0,1,0,0,MIN,MIN,tov,2,False,True,Crawford Lost Ball Turnover (P1.T3),,34-32,34,32
+0021701120,2018-03-28,MIN,ATL,12.0,1,0,0,MIN,ATL,steal,2,False,True,steal,steal,34-32,34,32
 0021701120,2018-03-28,MIN,ATL,12.0,1,0,0,MIN,,period_end,0,False,False,,,34-32,34,32
 0021701120,2018-03-28,MIN,ATL,12.0,2,12,0,MIN,,period_start,0,False,False,,,34-32,34,32
-0021701120,2018-03-28,MIN,ATL,12.0,1,0,0,MIN,ATL,steal,2,False,True,steal,steal,34-32,34,32
 0021701120,2018-03-28,MIN,ATL,12.38,2,11,37,MIN,MIN,fg3_miss,1,False,False,MISS Crawford 3PT Jump Shot,,34-32,34,32
 0021701120,2018-03-28,MIN,ATL,12.43,2,11,34,ATL,ATL,reb,0,False,False,,Dedmon REBOUND (Off:0 Def:2),34-32,34,32
 0021701120,2018-03-28,MIN,ATL,12.5,2,11,30,ATL,ATL,tov,1,False,True,,Taylor Bad Pass Turnover (P2.T6),34-32,34,32

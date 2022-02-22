@@ -11,8 +11,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000400,2021-02-12,CHI,LAC,1.13,1,10,52,CHI,CHI,fg3_make,1,False,False,White 28' 3PT Jump Shot (6 PTS) (Temple 1 AST),,6-0,6,0
 0022000400,2021-02-12,CHI,LAC,1.53,1,10,28,LAC,LAC,fg_make,6,False,False,,Leonard 1' Driving Layup (2 PTS),6-2,6,2
 0022000400,2021-02-12,CHI,LAC,1.83,1,10,10,CHI,CHI,fg_miss,1,True,False,MISS Gafford 11' Jump Shot,,6-2,6,2
-0022000400,2021-02-12,CHI,LAC,1.83,1,10,10,LAC,LAC,reb,0,False,False,,Clippers Rebound,6-2,6,2
 0022000400,2021-02-12,CHI,LAC,1.83,1,10,10,CHI,LAC,block,1,True,False,block,block,6-2,6,2
+0022000400,2021-02-12,CHI,LAC,1.83,1,10,10,LAC,LAC,reb,0,False,False,,Clippers Rebound,6-2,6,2
 0022000400,2021-02-12,CHI,LAC,2.15,1,9,51,LAC,LAC,fg_make,101,False,False,,Beverley 4' Driving Floating Jump Shot (2 PTS),6-4,6,4
 0022000400,2021-02-12,CHI,LAC,2.3,1,9,42,LAC,CHI,foul,4,False,False,Gafford OFF.Foul (P1) (N.Buchert),,6-4,6,4
 0022000400,2021-02-12,CHI,LAC,2.3,1,9,42,CHI,CHI,tov,37,False,False,Gafford Offensive Foul Turnover (P1.T1),,6-4,6,4
@@ -55,8 +55,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000400,2021-02-12,CHI,LAC,6.4,1,5,36,LAC,LAC,fg3_miss,1,False,False,,MISS Leonard 25' 3PT Jump Shot,10-14,10,14
 0022000400,2021-02-12,CHI,LAC,6.43,1,5,34,CHI,CHI,reb,0,False,False,LaVine REBOUND (Off:0 Def:2),,10-14,10,14
 0022000400,2021-02-12,CHI,LAC,6.72,1,5,17,CHI,CHI,fg_miss,6,False,False,MISS LaVine 2' Driving Layup,,10-14,10,14
-0022000400,2021-02-12,CHI,LAC,6.78,1,5,13,CHI,CHI,fg_make,97,False,False,LaVine Tip Layup Shot (4 PTS),,12-14,12,14
 0022000400,2021-02-12,CHI,LAC,6.78,1,5,13,CHI,CHI,reb,0,False,False,LaVine REBOUND (Off:1 Def:2),,12-14,12,14
+0022000400,2021-02-12,CHI,LAC,6.78,1,5,13,CHI,CHI,fg_make,97,False,False,LaVine Tip Layup Shot (4 PTS),,12-14,12,14
 0022000400,2021-02-12,CHI,LAC,6.93,1,5,4,LAC,LAC,fg_make,63,False,False,,Mann 10' Fadeaway Jumper (5 PTS),12-16,12,16
 0022000400,2021-02-12,CHI,LAC,7.25,1,4,45,CHI,CHI,tov,1,False,True,Young Bad Pass Turnover (P1.T5),,12-16,12,16
 0022000400,2021-02-12,CHI,LAC,7.25,1,4,45,CHI,LAC,steal,1,False,True,steal,steal,12-16,12,16
@@ -206,8 +206,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000400,2021-02-12,CHI,LAC,25.67,3,10,20,CHI,CHI,reb,0,False,False,Gafford REBOUND (Off:1 Def:0),,58-62,58,62
 0022000400,2021-02-12,CHI,LAC,25.68,3,10,19,CHI,CHI,fg3_make,1,False,False,White 3PT Jump Shot (13 PTS) (LaVine 4 AST),,61-62,61,62
 0022000400,2021-02-12,CHI,LAC,25.88,3,10,7,LAC,LAC,fg_miss,6,True,False,,MISS Leonard 2' Driving Layup,61-62,61,62
-0022000400,2021-02-12,CHI,LAC,25.88,3,10,7,LAC,LAC,reb,0,False,False,,Clippers Rebound,61-62,61,62
 0022000400,2021-02-12,CHI,LAC,25.88,3,10,7,LAC,CHI,block,6,True,False,block,block,61-62,61,62
+0022000400,2021-02-12,CHI,LAC,25.88,3,10,7,LAC,LAC,reb,0,False,False,,Clippers Rebound,61-62,61,62
 0022000400,2021-02-12,CHI,LAC,25.92,3,10,5,LAC,LAC,fg3_make,1,False,False,,Batum 24' 3PT Jump Shot (5 PTS) (Jackson 4 AST),61-65,61,65
 0022000400,2021-02-12,CHI,LAC,26.22,3,9,47,CHI,CHI,tov,1,False,True,White Bad Pass Turnover (P1.T10),,61-65,61,65
 0022000400,2021-02-12,CHI,LAC,26.22,3,9,47,CHI,LAC,steal,1,False,True,steal,steal,61-65,61,65
@@ -230,8 +230,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000400,2021-02-12,CHI,LAC,28.43,3,7,34,LAC,LAC,fg3_miss,1,False,False,,MISS Jackson 25' 3PT Jump Shot,65-72,65,72
 0022000400,2021-02-12,CHI,LAC,28.45,3,7,33,CHI,CHI,reb,0,False,False,White REBOUND (Off:0 Def:3),,65-72,65,72
 0022000400,2021-02-12,CHI,LAC,28.7,3,7,18,CHI,CHI,fg_miss,6,True,False,MISS White 2' Driving Layup,,65-72,65,72
-0022000400,2021-02-12,CHI,LAC,28.7,3,7,18,CHI,CHI,reb,0,False,False,BULLS Rebound,,65-72,65,72
 0022000400,2021-02-12,CHI,LAC,28.7,3,7,18,CHI,LAC,block,6,True,False,block,block,65-72,65,72
+0022000400,2021-02-12,CHI,LAC,28.7,3,7,18,CHI,CHI,reb,0,False,False,BULLS Rebound,,65-72,65,72
 0022000400,2021-02-12,CHI,LAC,28.77,3,7,14,CHI,LAC,foul,2,False,False,,Mann S.FOUL (P1.T2) (R.Mott),65-72,65,72
 0022000400,2021-02-12,CHI,LAC,28.77,3,7,14,CHI,CHI,ft_make,11,False,False,Young Free Throw 1 of 2 (9 PTS),,66-72,66,72
 0022000400,2021-02-12,CHI,LAC,28.77,3,7,14,CHI,CHI,ft_make,12,False,False,Young Free Throw 2 of 2 (10 PTS),,67-72,67,72
@@ -267,8 +267,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000400,2021-02-12,CHI,LAC,33.35,3,2,39,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 4 Short 0),,76-84,76,84
 0022000400,2021-02-12,CHI,LAC,33.6,3,2,24,CHI,CHI,fg_miss,6,True,False,MISS LaVine 2' Driving Layup,,76-84,76,84
 0022000400,2021-02-12,CHI,LAC,33.6,3,2,24,CHI,LAC,block,6,True,False,block,block,76-84,76,84
-0022000400,2021-02-12,CHI,LAC,33.68,3,2,19,CHI,CHI,fg_make,97,False,False,Young Tip Layup Shot (14 PTS),,78-84,78,84
 0022000400,2021-02-12,CHI,LAC,33.68,3,2,19,CHI,CHI,reb,0,False,False,Young REBOUND (Off:1 Def:3),,78-84,78,84
+0022000400,2021-02-12,CHI,LAC,33.68,3,2,19,CHI,CHI,fg_make,97,False,False,Young Tip Layup Shot (14 PTS),,78-84,78,84
 0022000400,2021-02-12,CHI,LAC,33.83,3,2,10,LAC,CHI,foul,2,False,False,Young S.FOUL (P1.T3) (J.Conley),,78-84,78,84
 0022000400,2021-02-12,CHI,LAC,33.83,3,2,10,LAC,LAC,ft_make,11,False,False,,Zubac Free Throw 1 of 2 (9 PTS),78-85,78,85
 0022000400,2021-02-12,CHI,LAC,33.83,3,2,10,LAC,LAC,ft_make,12,False,False,,Zubac Free Throw 2 of 2 (10 PTS),78-86,78,86
@@ -332,8 +332,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000400,2021-02-12,CHI,LAC,41.37,4,6,38,CHI,CHI,fg_make,72,False,False,LaVine Putback Layup (19 PTS),,92-109,92,109
 0022000400,2021-02-12,CHI,LAC,41.53,4,6,28,LAC,CHI,foul,1,False,False,Arcidiacono P.FOUL (P1.T1) (R.Mott),,92-109,92,109
 0022000400,2021-02-12,CHI,LAC,41.77,4,6,14,LAC,LAC,fg3_miss,1,False,False,,MISS Batum 3PT Jump Shot,92-109,92,109
-0022000400,2021-02-12,CHI,LAC,41.88,4,6,7,LAC,LAC,fg_miss,97,False,False,,MISS Morris Sr. Tip Layup Shot,92-109,92,109
 0022000400,2021-02-12,CHI,LAC,41.88,4,6,7,LAC,LAC,reb,0,False,False,,Morris Sr. REBOUND (Off:2 Def:3),92-109,92,109
+0022000400,2021-02-12,CHI,LAC,41.88,4,6,7,LAC,LAC,fg_miss,97,False,False,,MISS Morris Sr. Tip Layup Shot,92-109,92,109
 0022000400,2021-02-12,CHI,LAC,41.9,4,6,6,CHI,CHI,reb,0,False,False,Temple REBOUND (Off:0 Def:4),,92-109,92,109
 0022000400,2021-02-12,CHI,LAC,42.05,4,5,57,CHI,CHI,fg_make,6,False,False,LaVine 1' Driving Layup (21 PTS),,94-109,94,109
 0022000400,2021-02-12,CHI,LAC,42.05,4,5,57,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.3 Short 0),94-109,94,109
@@ -350,8 +350,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000400,2021-02-12,CHI,LAC,44.02,4,3,59,CHI,CHI,fg3_miss,1,False,False,MISS LaVine 25' 3PT Jump Shot,,97-117,97,117
 0022000400,2021-02-12,CHI,LAC,44.07,4,3,56,LAC,LAC,reb,0,False,False,,Batum REBOUND (Off:0 Def:6),97-117,97,117
 0022000400,2021-02-12,CHI,LAC,44.2,4,3,48,LAC,LAC,fg_miss,101,True,False,,MISS Williams 12' Driving Floating Jump Shot,97-117,97,117
-0022000400,2021-02-12,CHI,LAC,44.2,4,3,48,CHI,CHI,reb,0,False,False,Temple REBOUND (Off:0 Def:5),,97-117,97,117
 0022000400,2021-02-12,CHI,LAC,44.2,4,3,48,LAC,CHI,block,101,True,False,block,block,97-117,97,117
+0022000400,2021-02-12,CHI,LAC,44.2,4,3,48,CHI,CHI,reb,0,False,False,Temple REBOUND (Off:0 Def:5),,97-117,97,117
 0022000400,2021-02-12,CHI,LAC,44.22,4,3,47,CHI,LAC,foul,28,False,False,,Morris Sr. Personal Take Foul (P1.T4) (J.Conley),97-117,97,117
 0022000400,2021-02-12,CHI,LAC,44.42,4,3,35,CHI,CHI,fg3_miss,1,False,False,MISS White 26' 3PT Jump Shot,,97-117,97,117
 0022000400,2021-02-12,CHI,LAC,44.48,4,3,31,CHI,CHI,reb,0,False,False,Young REBOUND (Off:3 Def:3),,97-117,97,117

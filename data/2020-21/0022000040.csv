@@ -52,8 +52,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000040,2020-12-27,LAL,MIN,6.17,1,5,50,LAL,MIN,violation,5,False,False,,Russell Violation:Kicked Ball (K.Cutler),23-12,23,12
 0022000040,2020-12-27,LAL,MIN,6.27,1,5,44,LAL,LAL,fg_make,98,False,False,Kuzma Cutting Layup Shot (14 PTS) (Gasol 3 AST),,25-12,25,12
 0022000040,2020-12-27,LAL,MIN,6.42,1,5,35,MIN,MIN,fg_miss,5,True,False,,MISS Reid 4' Layup,25-12,25,12
-0022000040,2020-12-27,LAL,MIN,6.42,1,5,35,LAL,LAL,reb,0,False,False,Matthews REBOUND (Off:0 Def:1),,25-12,25,12
 0022000040,2020-12-27,LAL,MIN,6.42,1,5,35,MIN,LAL,block,5,True,False,block,block,25-12,25,12
+0022000040,2020-12-27,LAL,MIN,6.42,1,5,35,LAL,LAL,reb,0,False,False,Matthews REBOUND (Off:0 Def:1),,25-12,25,12
 0022000040,2020-12-27,LAL,MIN,6.72,1,5,17,LAL,LAL,fg3_miss,80,False,False,MISS Kuzma 28' 3PT Step Back Jump Shot,,25-12,25,12
 0022000040,2020-12-27,LAL,MIN,6.8,1,5,12,MIN,MIN,reb,0,False,False,,Culver REBOUND (Off:0 Def:1),25-12,25,12
 0022000040,2020-12-27,LAL,MIN,6.9,1,5,6,MIN,MIN,fg_miss,6,False,False,,MISS Culver 2' Driving Layup,25-12,25,12
@@ -88,8 +88,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000040,2020-12-27,LAL,MIN,9.77,1,2,14,MIN,MIN,fg3_miss,79,False,False,,MISS Edwards 25' 3PT Pullup Jump Shot,36-16,36,16
 0022000040,2020-12-27,LAL,MIN,9.8,1,2,12,LAL,LAL,reb,0,False,False,Morris REBOUND (Off:0 Def:1),,36-16,36,16
 0022000040,2020-12-27,LAL,MIN,9.88,1,2,7,LAL,LAL,tov,1,False,True,Matthews Bad Pass Turnover (P1.T6),,36-16,36,16
-0022000040,2020-12-27,LAL,MIN,9.88,1,2,7,MIN,LAL,foul,28,False,False,Morris Personal Take Foul (P1.T1) (K.Cutler),,36-16,36,16
 0022000040,2020-12-27,LAL,MIN,9.88,1,2,7,LAL,MIN,steal,1,False,True,steal,steal,36-16,36,16
+0022000040,2020-12-27,LAL,MIN,9.88,1,2,7,MIN,LAL,foul,28,False,False,Morris Personal Take Foul (P1.T1) (K.Cutler),,36-16,36,16
 0022000040,2020-12-27,LAL,MIN,10.02,1,1,59,MIN,LAL,foul,1,False,False,Morris P.FOUL (P2.T2) (M.Dagher),,36-16,36,16
 0022000040,2020-12-27,LAL,MIN,10.1,1,1,54,MIN,MIN,fg3_miss,1,False,False,,MISS Rubio 26' 3PT Jump Shot,36-16,36,16
 0022000040,2020-12-27,LAL,MIN,10.17,1,1,50,MIN,MIN,reb,0,False,False,,Davis REBOUND (Off:1 Def:0),36-16,36,16
@@ -125,9 +125,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000040,2020-12-27,LAL,MIN,12.0,1,0,0,MIN,,period_end,0,False,False,,,40-23,40,23
 0022000040,2020-12-27,LAL,MIN,12.0,2,12,0,MIN,,period_start,0,False,False,,,40-23,40,23
 0022000040,2020-12-27,LAL,MIN,12.22,2,11,47,MIN,MIN,fg_miss,101,True,False,,MISS Edwards 6' Driving Floating Jump Shot,40-23,40,23
+0022000040,2020-12-27,LAL,MIN,12.22,2,11,47,MIN,LAL,block,101,True,False,block,block,40-23,40,23
 0022000040,2020-12-27,LAL,MIN,12.22,2,11,47,MIN,MIN,reb,0,False,False,,Davis REBOUND (Off:4 Def:0),40-23,40,23
 0022000040,2020-12-27,LAL,MIN,12.22,2,11,47,MIN,LAL,foul,1,False,False,Matthews P.FOUL (P1.T1) (K.Cutler),,40-23,40,23
-0022000040,2020-12-27,LAL,MIN,12.22,2,11,47,MIN,LAL,block,101,True,False,block,block,40-23,40,23
 0022000040,2020-12-27,LAL,MIN,12.3,2,11,42,MIN,MIN,fg3_miss,1,False,False,,MISS Hernangomez 25' 3PT Jump Shot,40-23,40,23
 0022000040,2020-12-27,LAL,MIN,12.32,2,11,41,LAL,LAL,reb,0,False,False,LAKERS Rebound,,40-23,40,23
 0022000040,2020-12-27,LAL,MIN,12.48,2,11,31,LAL,LAL,fg3_make,1,False,False,Morris 3PT Jump Shot (3 PTS) (James 1 AST),,43-23,43,23
@@ -137,9 +137,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000040,2020-12-27,LAL,MIN,13.15,2,10,51,MIN,MIN,fg_miss,5,False,False,,MISS Beasley 3' Layup,43-25,43,25
 0022000040,2020-12-27,LAL,MIN,13.2,2,10,48,MIN,MIN,reb,0,False,False,,Hernangomez REBOUND (Off:1 Def:0),43-25,43,25
 0022000040,2020-12-27,LAL,MIN,13.22,2,10,47,MIN,MIN,fg_miss,5,True,False,,MISS Hernangomez 3' Layup,43-25,43,25
+0022000040,2020-12-27,LAL,MIN,13.22,2,10,47,MIN,LAL,block,5,True,False,block,block,43-25,43,25
 0022000040,2020-12-27,LAL,MIN,13.22,2,10,47,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:6),,43-25,43,25
 0022000040,2020-12-27,LAL,MIN,13.22,2,10,47,LAL,MIN,foul,28,False,False,,Rubio Personal Take Foul (P1.T1) (M.Dagher),43-25,43,25
-0022000040,2020-12-27,LAL,MIN,13.22,2,10,47,MIN,LAL,block,5,True,False,block,block,43-25,43,25
 0022000040,2020-12-27,LAL,MIN,13.4,2,10,36,LAL,LAL,fg3_make,80,False,False,Caruso 25' 3PT Step Back Jump Shot (3 PTS) (James 2 AST),,46-25,46,25
 0022000040,2020-12-27,LAL,MIN,13.67,2,10,20,MIN,MIN,fg_make,98,False,False,,Hernangomez 3' Cutting Layup Shot (2 PTS) (Rubio 1 AST),46-27,46,27
 0022000040,2020-12-27,LAL,MIN,13.67,2,10,20,MIN,LAL,foul,2,False,False,Harrell S.FOUL (P2.T2) (S.Foster),,46-27,46,27
@@ -147,8 +147,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000040,2020-12-27,LAL,MIN,13.72,2,10,17,LAL,LAL,reb,0,False,False,Morris REBOUND (Off:0 Def:2),,46-27,46,27
 0022000040,2020-12-27,LAL,MIN,13.87,2,10,8,LAL,LAL,fg_miss,5,True,False,MISS Harrell 4' Layup,,46-27,46,27
 0022000040,2020-12-27,LAL,MIN,13.87,2,10,8,LAL,MIN,block,5,True,False,block,block,46-27,46,27
-0022000040,2020-12-27,LAL,MIN,13.93,2,10,4,LAL,LAL,reb,0,False,False,LAKERS Rebound,,46-27,46,27
 0022000040,2020-12-27,LAL,MIN,13.93,2,10,4,,LAL,jump_ball,0,False,False,Jump Ball Harrell vs. Davis: Tip to Caruso,,46-27,46,27
+0022000040,2020-12-27,LAL,MIN,13.93,2,10,4,LAL,LAL,reb,0,False,False,LAKERS Rebound,,46-27,46,27
 0022000040,2020-12-27,LAL,MIN,14.03,2,9,58,LAL,LAL,fg_make,57,False,False,Caruso 6' Driving Hook Shot (5 PTS),,48-27,48,27
 0022000040,2020-12-27,LAL,MIN,14.22,2,9,47,LAL,MIN,foul,4,False,False,,Davis OFF.Foul (P3) (M.Dagher),48-27,48,27
 0022000040,2020-12-27,LAL,MIN,14.22,2,9,47,MIN,MIN,tov,37,False,False,,Davis Offensive Foul Turnover (P2.T4),48-27,48,27
@@ -174,13 +174,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000040,2020-12-27,LAL,MIN,16.4,2,7,36,MIN,MIN,fg3_make,1,False,False,,Hernangomez 26' 3PT Jump Shot (5 PTS) (Rubio 2 AST),50-35,50,35
 0022000040,2020-12-27,LAL,MIN,16.45,2,7,33,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 2 Short 0),,50-35,50,35
 0022000040,2020-12-27,LAL,MIN,16.72,2,7,17,LAL,LAL,fg_miss,98,True,False,MISS Morris 1' Cutting Layup Shot,,50-35,50,35
-0022000040,2020-12-27,LAL,MIN,16.72,2,7,17,LAL,LAL,reb,0,False,False,LAKERS Rebound,,50-35,50,35
 0022000040,2020-12-27,LAL,MIN,16.72,2,7,17,LAL,MIN,block,98,True,False,block,block,50-35,50,35
+0022000040,2020-12-27,LAL,MIN,16.72,2,7,17,LAL,LAL,reb,0,False,False,LAKERS Rebound,,50-35,50,35
 0022000040,2020-12-27,LAL,MIN,16.77,2,7,14,LAL,LAL,fg_make,99,False,False,Caruso 2' Cutting Finger Roll Layup Shot (7 PTS) (Horton-Tucker 1 AST),,52-35,52,35
 0022000040,2020-12-27,LAL,MIN,17.07,2,6,56,MIN,MIN,tov,4,False,False,,Reid Traveling Turnover (P1.T5),52-35,52,35
 0022000040,2020-12-27,LAL,MIN,17.25,2,6,45,LAL,LAL,fg_miss,6,False,False,MISS Horton-Tucker 4' Driving Layup,,52-35,52,35
-0022000040,2020-12-27,LAL,MIN,17.35,2,6,39,LAL,LAL,fg_make,72,False,False,Morris Putback Layup (7 PTS),,54-35,54,35
 0022000040,2020-12-27,LAL,MIN,17.35,2,6,39,LAL,LAL,reb,0,False,False,Morris REBOUND (Off:1 Def:3),,54-35,54,35
+0022000040,2020-12-27,LAL,MIN,17.35,2,6,39,LAL,LAL,fg_make,72,False,False,Morris Putback Layup (7 PTS),,54-35,54,35
 0022000040,2020-12-27,LAL,MIN,17.48,2,6,31,MIN,MIN,fg3_miss,79,False,False,,MISS Okogie 25' 3PT Pullup Jump Shot,54-35,54,35
 0022000040,2020-12-27,LAL,MIN,17.55,2,6,27,LAL,LAL,reb,0,False,False,Horton-Tucker REBOUND (Off:0 Def:1),,54-35,54,35
 0022000040,2020-12-27,LAL,MIN,17.68,2,6,19,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 25' 3PT Jump Shot,,54-35,54,35
@@ -286,9 +286,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000040,2020-12-27,LAL,MIN,27.48,3,8,31,LAL,MIN,foul,2,False,False,,Reid S.FOUL (P4.T3) (S.Foster),76-49,76,49
 0022000040,2020-12-27,LAL,MIN,27.48,3,8,31,LAL,LAL,ft_make,10,False,False,James Free Throw 1 of 1 (12 PTS),,77-49,77,49
 0022000040,2020-12-27,LAL,MIN,27.75,3,8,15,MIN,MIN,fg_miss,58,True,False,,MISS Reid 2' Turnaround Hook Shot,77-49,77,49
+0022000040,2020-12-27,LAL,MIN,27.75,3,8,15,MIN,LAL,block,58,True,False,block,block,77-49,77,49
 0022000040,2020-12-27,LAL,MIN,27.75,3,8,15,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,77-49,77,49
 0022000040,2020-12-27,LAL,MIN,27.75,3,8,15,MIN,LAL,violation,1,False,False,LAKERS Violation: Delay of game Violation,,77-49,77,49
-0022000040,2020-12-27,LAL,MIN,27.75,3,8,15,MIN,LAL,block,58,True,False,block,block,77-49,77,49
 0022000040,2020-12-27,LAL,MIN,27.83,3,8,10,LAL,MIN,foul,4,False,False,,Russell OFF.Foul (P4) (S.Foster),77-49,77,49
 0022000040,2020-12-27,LAL,MIN,27.83,3,8,10,MIN,MIN,tov,37,False,False,,Russell Offensive Foul Turnover (P7.T13),77-49,77,49
 0022000040,2020-12-27,LAL,MIN,27.98,3,8,1,MIN,LAL,foul,4,False,False,Schroder OFF.Foul (P2) (S.Foster),,77-49,77,49
@@ -303,8 +303,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000040,2020-12-27,LAL,MIN,29.57,3,6,26,LAL,LAL,fg_miss,80,False,False,MISS James 23' Step Back Jump Shot,,82-53,82,53
 0022000040,2020-12-27,LAL,MIN,29.6,3,6,24,MIN,MIN,reb,0,False,False,,Beasley REBOUND (Off:0 Def:5),82-53,82,53
 0022000040,2020-12-27,LAL,MIN,29.65,3,6,21,MIN,MIN,fg_miss,41,False,False,,MISS Beasley 2' Running Layup,82-53,82,53
-0022000040,2020-12-27,LAL,MIN,29.72,3,6,17,MIN,MIN,fg_make,97,False,False,,Culver Tip Layup Shot (6 PTS),82-55,82,55
 0022000040,2020-12-27,LAL,MIN,29.72,3,6,17,MIN,MIN,reb,0,False,False,,Culver REBOUND (Off:2 Def:1),82-55,82,55
+0022000040,2020-12-27,LAL,MIN,29.72,3,6,17,MIN,MIN,fg_make,97,False,False,,Culver Tip Layup Shot (6 PTS),82-55,82,55
 0022000040,2020-12-27,LAL,MIN,29.9,3,6,6,LAL,LAL,fg_make,108,False,False,James 2' Cutting Dunk Shot (14 PTS) (Gasol 7 AST),,84-55,84,55
 0022000040,2020-12-27,LAL,MIN,30.18,3,5,49,MIN,MIN,fg_make,79,False,False,,Edwards 17' Pullup Jump Shot (7 PTS) (Beasley 2 AST),84-57,84,57
 0022000040,2020-12-27,LAL,MIN,30.5,3,5,30,LAL,LAL,fg_make,57,False,False,Gasol 8' Driving Hook Shot (8 PTS),,86-57,86,57
@@ -352,9 +352,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000040,2020-12-27,LAL,MIN,35.43,3,0,34,MIN,LAL,block,6,True,False,block,block,99-67,99,67
 0022000040,2020-12-27,LAL,MIN,35.47,3,0,32,MIN,MIN,reb,0,False,False,,Davis REBOUND (Off:7 Def:0),99-67,99,67
 0022000040,2020-12-27,LAL,MIN,35.47,3,0,32,MIN,MIN,fg_miss,72,True,False,,MISS Davis 2' Putback Layup,99-67,99,67
+0022000040,2020-12-27,LAL,MIN,35.47,3,0,32,MIN,LAL,block,72,True,False,block,block,99-67,99,67
 0022000040,2020-12-27,LAL,MIN,35.47,3,0,32,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,99-67,99,67
 0022000040,2020-12-27,LAL,MIN,35.47,3,0,32,MIN,MIN,tov,11,False,False,,Timberwolves Turnover: Shot Clock (T#14),99-67,99,67
-0022000040,2020-12-27,LAL,MIN,35.47,3,0,32,MIN,LAL,block,72,True,False,block,block,99-67,99,67
 0022000040,2020-12-27,LAL,MIN,35.77,3,0,14,LAL,LAL,fg_make,6,False,False,Matthews 2' Driving Layup (4 PTS) (Harrell 1 AST),,101-67,101,67
 0022000040,2020-12-27,LAL,MIN,35.95,3,0,3,MIN,MIN,fg_miss,101,False,False,,MISS McLaughlin 9' Driving Floating Jump Shot,101-67,101,67
 0022000040,2020-12-27,LAL,MIN,35.95,3,0,3,LAL,LAL,reb,0,False,False,LAKERS Rebound,,101-67,101,67
@@ -398,8 +398,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000040,2020-12-27,LAL,MIN,39.9,4,8,6,MIN,MIN,fg_make,75,False,False,,Layman 2' Driving Finger Roll Layup (10 PTS) (Reid 4 AST),107-73,107,73
 0022000040,2020-12-27,LAL,MIN,40.12,4,7,53,LAL,LAL,fg_make,80,False,False,Cook 21' Step Back Jump Shot (2 PTS) (Harrell 2 AST),,109-73,109,73
 0022000040,2020-12-27,LAL,MIN,40.33,4,7,40,MIN,MIN,fg_miss,98,True,False,,MISS Layman 4' Cutting Layup Shot,109-73,109,73
-0022000040,2020-12-27,LAL,MIN,40.33,4,7,40,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,109-73,109,73
 0022000040,2020-12-27,LAL,MIN,40.33,4,7,40,MIN,LAL,block,98,True,False,block,block,109-73,109,73
+0022000040,2020-12-27,LAL,MIN,40.33,4,7,40,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,109-73,109,73
 0022000040,2020-12-27,LAL,MIN,40.42,4,7,35,MIN,MIN,fg3_miss,1,False,False,,MISS McLaughlin 25' 3PT Jump Shot,109-73,109,73
 0022000040,2020-12-27,LAL,MIN,40.47,4,7,32,LAL,LAL,reb,0,False,False,Dudley REBOUND (Off:0 Def:1),,109-73,109,73
 0022000040,2020-12-27,LAL,MIN,40.65,4,7,21,LAL,LAL,tov,1,False,True,McKinnie Bad Pass Turnover (P1.T15),,109-73,109,73
@@ -433,8 +433,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000040,2020-12-27,LAL,MIN,43.27,4,4,44,LAL,LAL,reb,0,False,False,Antetokounmpo REBOUND (Off:0 Def:3),,115-75,115,75
 0022000040,2020-12-27,LAL,MIN,43.45,4,4,33,LAL,MIN,foul,1,False,False,,Culver P.FOUL (P4.T3) (M.Dagher),115-75,115,75
 0022000040,2020-12-27,LAL,MIN,43.57,4,4,26,LAL,LAL,fg_miss,9,True,False,MISS Antetokounmpo 2' Driving Dunk,,115-75,115,75
-0022000040,2020-12-27,LAL,MIN,43.57,4,4,26,LAL,LAL,reb,0,False,False,LAKERS Rebound,,115-75,115,75
 0022000040,2020-12-27,LAL,MIN,43.57,4,4,26,LAL,MIN,block,9,True,False,block,block,115-75,115,75
+0022000040,2020-12-27,LAL,MIN,43.57,4,4,26,LAL,LAL,reb,0,False,False,LAKERS Rebound,,115-75,115,75
 0022000040,2020-12-27,LAL,MIN,43.67,4,4,20,LAL,LAL,fg_miss,80,False,False,MISS Horton-Tucker 17' Step Back Jump Shot,,115-75,115,75
 0022000040,2020-12-27,LAL,MIN,43.72,4,4,17,MIN,MIN,reb,0,False,False,,McLaughlin REBOUND (Off:0 Def:3),115-75,115,75
 0022000040,2020-12-27,LAL,MIN,43.82,4,4,11,MIN,MIN,fg_miss,5,False,False,,MISS Vanderbilt 1' Layup,115-75,115,75

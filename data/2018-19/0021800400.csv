@@ -48,9 +48,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800400,2018-12-10,GSW,MIN,5.75,1,6,15,MIN,MIN,fg_make,72,False,False,,Wiggins 3' Putback Layup (4 PTS),12-8,12,8
 0021800400,2018-12-10,GSW,MIN,5.88,1,6,7,GSW,GSW,fg3_make,79,False,False,Green 25' 3PT Pullup Jump Shot (3 PTS) (Curry 2 AST),,15-8,15,8
 0021800400,2018-12-10,GSW,MIN,6.22,1,5,47,MIN,MIN,fg_miss,5,True,False,,MISS Gibson 4' Layup,15-8,15,8
+0021800400,2018-12-10,GSW,MIN,6.22,1,5,47,MIN,GSW,block,5,True,False,block,block,15-8,15,8
 0021800400,2018-12-10,GSW,MIN,6.22,1,5,47,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,15-8,15,8
 0021800400,2018-12-10,GSW,MIN,6.22,1,5,47,GSW,MIN,foul,3,False,False,,Gibson L.B.FOUL (P1.T3) (T.Washington),15-8,15,8
-0021800400,2018-12-10,GSW,MIN,6.22,1,5,47,MIN,GSW,block,5,True,False,block,block,15-8,15,8
 0021800400,2018-12-10,GSW,MIN,6.43,1,5,34,GSW,GSW,fg_make,1,False,False,Durant 14' Jump Shot (7 PTS) (Curry 3 AST),,17-8,17,8
 0021800400,2018-12-10,GSW,MIN,6.68,1,5,19,MIN,MIN,fg_make,57,False,False,,Towns 9' Driving Hook Shot (4 PTS),17-10,17,10
 0021800400,2018-12-10,GSW,MIN,6.83,1,5,10,GSW,GSW,fg_miss,47,False,False,MISS Thompson 5' Turnaround Jump Shot,,17-10,17,10
@@ -115,8 +115,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800400,2018-12-10,GSW,MIN,11.9,1,0,6,MIN,MIN,ft_make,11,False,False,,Dieng Free Throw 1 of 2 (3 PTS),30-23,30,23
 0021800400,2018-12-10,GSW,MIN,11.9,1,0,6,MIN,MIN,ft_make,12,False,False,,Dieng Free Throw 2 of 2 (4 PTS),30-24,30,24
 0021800400,2018-12-10,GSW,MIN,11.98,1,0,1,GSW,GSW,fg_miss,101,False,False,MISS Curry 17' Driving Floating Jump Shot,,30-24,30,24
-0021800400,2018-12-10,GSW,MIN,12.0,1,0,0,MIN,MIN,reb,0,False,False,,Dieng REBOUND (Off:0 Def:2),30-24,30,24
 0021800400,2018-12-10,GSW,MIN,12.0,1,0,0,MIN,,period_end,0,False,False,,,30-24,30,24
+0021800400,2018-12-10,GSW,MIN,12.0,1,0,0,MIN,MIN,reb,0,False,False,,Dieng REBOUND (Off:0 Def:2),30-24,30,24
 0021800400,2018-12-10,GSW,MIN,12.0,2,12,0,MIN,,period_start,0,False,False,,,30-24,30,24
 0021800400,2018-12-10,GSW,MIN,12.17,2,11,50,MIN,MIN,fg_make,101,False,False,,Rose 11' Driving Floating Jump Shot (4 PTS) (Jones 2 AST),30-26,30,26
 0021800400,2018-12-10,GSW,MIN,12.4,2,11,36,GSW,GSW,fg_miss,79,False,False,MISS Thompson 19' Pullup Jump Shot,,30-26,30,26
@@ -295,8 +295,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800400,2018-12-10,GSW,MIN,31.35,3,4,39,GSW,GSW,reb,0,False,False,Bell REBOUND (Off:1 Def:0),,75-71,75,71
 0021800400,2018-12-10,GSW,MIN,31.43,3,4,34,GSW,GSW,fg3_make,1,False,False,Durant 26' 3PT Jump Shot (20 PTS) (Jerebko 3 AST),,78-71,78,71
 0021800400,2018-12-10,GSW,MIN,31.73,3,4,16,MIN,MIN,fg_miss,5,True,False,,MISS Teague 4' Layup,78-71,78,71
-0021800400,2018-12-10,GSW,MIN,31.73,3,4,16,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,78-71,78,71
 0021800400,2018-12-10,GSW,MIN,31.73,3,4,16,MIN,GSW,block,5,True,False,block,block,78-71,78,71
+0021800400,2018-12-10,GSW,MIN,31.73,3,4,16,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,78-71,78,71
 0021800400,2018-12-10,GSW,MIN,31.82,3,4,11,MIN,MIN,fg_miss,1,False,False,,MISS Wiggins 17' Jump Shot,78-71,78,71
 0021800400,2018-12-10,GSW,MIN,31.83,3,4,10,GSW,GSW,reb,0,False,False,Jerebko REBOUND (Off:1 Def:4),,78-71,78,71
 0021800400,2018-12-10,GSW,MIN,32.0,3,4,0,GSW,GSW,fg3_miss,1,False,False,MISS Curry 25' 3PT Jump Shot,,78-71,78,71

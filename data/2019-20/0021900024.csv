@@ -116,8 +116,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900024,2019-10-25,SAC,POR,12.35,2,11,39,SAC,SAC,fg3_miss,1,False,False,MISS Ariza 26' 3PT Jump Shot,,27-25,27,25
 0021900024,2019-10-25,SAC,POR,12.42,2,11,35,POR,POR,reb,0,False,False,,Bazemore REBOUND (Off:0 Def:2),27-25,27,25
 0021900024,2019-10-25,SAC,POR,12.53,2,11,28,POR,POR,fg_miss,5,True,False,,MISS Whiteside 4' Layup,27-25,27,25
-0021900024,2019-10-25,SAC,POR,12.53,2,11,28,SAC,SAC,reb,0,False,False,Barnes REBOUND (Off:1 Def:2),,27-25,27,25
 0021900024,2019-10-25,SAC,POR,12.53,2,11,28,POR,SAC,block,5,True,False,block,block,27-25,27,25
+0021900024,2019-10-25,SAC,POR,12.53,2,11,28,SAC,SAC,reb,0,False,False,Barnes REBOUND (Off:1 Def:2),,27-25,27,25
 0021900024,2019-10-25,SAC,POR,12.7,2,11,18,SAC,SAC,fg_miss,79,False,False,MISS Bogdanovic 20' Pullup Jump Shot,,27-25,27,25
 0021900024,2019-10-25,SAC,POR,12.77,2,11,14,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:0 Def:5),27-25,27,25
 0021900024,2019-10-25,SAC,POR,12.92,2,11,5,POR,POR,fg_make,79,False,False,,Simons 17' Pullup Jump Shot (4 PTS),27-27,27,27
@@ -304,8 +304,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900024,2019-10-25,SAC,POR,33.47,3,2,32,POR,POR,reb,0,False,False,,Bazemore REBOUND (Off:0 Def:4),76-83,76,83
 0021900024,2019-10-25,SAC,POR,33.52,3,2,29,POR,POR,fg_miss,41,True,False,,MISS Bazemore 2' Running Layup,76-83,76,83
 0021900024,2019-10-25,SAC,POR,33.52,3,2,29,POR,SAC,block,41,True,False,block,block,76-83,76,83
-0021900024,2019-10-25,SAC,POR,33.63,3,2,22,POR,POR,fg_make,97,False,False,,Whiteside 1' Tip Layup Shot (18 PTS),76-85,76,85
 0021900024,2019-10-25,SAC,POR,33.63,3,2,22,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:2 Def:7),76-85,76,85
+0021900024,2019-10-25,SAC,POR,33.63,3,2,22,POR,POR,fg_make,97,False,False,,Whiteside 1' Tip Layup Shot (18 PTS),76-85,76,85
 0021900024,2019-10-25,SAC,POR,33.73,3,2,16,SAC,SAC,fg_miss,79,False,False,MISS Fox 7' Pullup Jump Shot,,76-85,76,85
 0021900024,2019-10-25,SAC,POR,33.73,3,2,16,POR,POR,reb,0,False,False,,Trail Blazers Rebound,76-85,76,85
 0021900024,2019-10-25,SAC,POR,33.73,3,2,16,POR,SAC,foul,3,False,False,Holmes L.B.FOUL (P5.PN) (M.Dagher),,76-85,76,85
@@ -353,8 +353,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900024,2019-10-25,SAC,POR,38.07,4,9,56,SAC,SAC,fg_make,5,False,False,Bjelica 3' Layup (9 PTS) (Bogdanovic 2 AST),,88-96,88,96
 0021900024,2019-10-25,SAC,POR,38.3,4,9,42,POR,SAC,foul,1,False,False,Ariza P.FOUL (P1.T1) (M.Ayotte),,88-96,88,96
 0021900024,2019-10-25,SAC,POR,38.45,4,9,33,POR,POR,tov,2,False,True,,Hezonja Lost Ball Turnover (P2.T12),88-96,88,96
-0021900024,2019-10-25,SAC,POR,38.45,4,9,33,SAC,POR,foul,1,False,False,,Hezonja P.FOUL (P1.T3) (M.Ayotte),88-96,88,96
 0021900024,2019-10-25,SAC,POR,38.45,4,9,33,POR,SAC,steal,2,False,True,steal,steal,88-96,88,96
+0021900024,2019-10-25,SAC,POR,38.45,4,9,33,SAC,POR,foul,1,False,False,,Hezonja P.FOUL (P1.T3) (M.Ayotte),88-96,88,96
 0021900024,2019-10-25,SAC,POR,38.65,4,9,21,SAC,SAC,fg3_make,1,False,False,Joseph 3PT Jump Shot (5 PTS) (Bogdanovic 3 AST),,91-96,91,96
 0021900024,2019-10-25,SAC,POR,38.68,4,9,19,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.4 Short 0),91-96,91,96
 0021900024,2019-10-25,SAC,POR,38.88,4,9,7,POR,POR,fg_make,6,False,False,,Hezonja 3' Driving Layup (5 PTS) (Bazemore 4 AST),91-98,91,98
@@ -416,9 +416,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900024,2019-10-25,SAC,POR,44.4,4,3,36,SAC,SAC,tov,1,False,True,Bjelica Bad Pass Turnover (P2.T16),,104-116,104,116
 0021900024,2019-10-25,SAC,POR,44.4,4,3,36,SAC,POR,steal,1,False,True,steal,steal,104-116,104,116
 0021900024,2019-10-25,SAC,POR,44.55,4,3,27,POR,POR,fg3_make,1,False,False,,McCollum 25' 3PT Jump Shot (19 PTS) (Bazemore 5 AST),104-119,104,119
+0021900024,2019-10-25,SAC,POR,44.68,4,3,19,POR,POR,timeout,7,False,False,,Trail Blazers Timeout: Coach Challenge (Reg.4 Short 0),104-119,104,119
 0021900024,2019-10-25,SAC,POR,44.68,4,3,19,SAC,SAC,fg_miss,5,False,False,MISS Fox 3' Layup,,104-119,104,119
 0021900024,2019-10-25,SAC,POR,44.68,4,3,19,POR,POR,reb,0,False,False,,Bazemore REBOUND (Off:0 Def:7),104-119,104,119
-0021900024,2019-10-25,SAC,POR,44.68,4,3,19,POR,POR,timeout,7,False,False,,Trail Blazers Timeout: Coach Challenge (Reg.4 Short 0),104-119,104,119
 0021900024,2019-10-25,SAC,POR,44.77,4,3,14,POR,POR,tov,2,False,True,,Bazemore Lost Ball Turnover (P1.T13),104-119,104,119
 0021900024,2019-10-25,SAC,POR,44.77,4,3,14,POR,SAC,steal,2,False,True,steal,steal,104-119,104,119
 0021900024,2019-10-25,SAC,POR,44.83,4,3,10,SAC,SAC,fg3_miss,1,False,False,MISS Hield 26' 3PT Jump Shot,,104-119,104,119

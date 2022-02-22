@@ -48,8 +48,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900739,2020-02-02,MIL,PHX,4.67,1,7,20,MIL,MIL,timeout,1,False,False,BUCKS Timeout: Regular (Full 1 Short 0),,13-10,13,10
 0021900739,2020-02-02,MIL,PHX,4.92,1,7,5,MIL,MIL,tov,45,False,False,Matthews Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,13-10,13,10
 0021900739,2020-02-02,MIL,PHX,5.13,1,6,52,PHX,PHX,fg_miss,101,True,False,,MISS Oubre Jr. 5' Driving Floating Jump Shot,13-10,13,10
-0021900739,2020-02-02,MIL,PHX,5.13,1,6,52,PHX,PHX,reb,0,False,False,,Suns Rebound,13-10,13,10
 0021900739,2020-02-02,MIL,PHX,5.13,1,6,52,PHX,MIL,block,101,True,False,block,block,13-10,13,10
+0021900739,2020-02-02,MIL,PHX,5.13,1,6,52,PHX,PHX,reb,0,False,False,,Suns Rebound,13-10,13,10
 0021900739,2020-02-02,MIL,PHX,5.25,1,6,45,PHX,PHX,fg_miss,101,False,False,,MISS Okobo 14' Driving Floating Jump Shot,13-10,13,10
 0021900739,2020-02-02,MIL,PHX,5.3,1,6,42,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:2 Def:4),,13-10,13,10
 0021900739,2020-02-02,MIL,PHX,5.45,1,6,33,MIL,PHX,foul,2,False,False,,Bridges S.FOUL (P1.T2) (M.Lindsay),13-10,13,10
@@ -143,8 +143,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900739,2020-02-02,MIL,PHX,13.98,2,10,1,MIL,MIL,reb,0,False,False,Middleton REBOUND (Off:1 Def:4),,39-32,39,32
 0021900739,2020-02-02,MIL,PHX,14.1,2,9,54,MIL,MIL,tov,8,False,False,Antetokounmpo 3 Second Violation Turnover (P1.T4),,39-32,39,32
 0021900739,2020-02-02,MIL,PHX,14.3,2,9,42,PHX,PHX,fg_miss,6,True,False,,MISS Diallo 3' Driving Layup,39-32,39,32
-0021900739,2020-02-02,MIL,PHX,14.3,2,9,42,PHX,PHX,reb,0,False,False,,Suns Rebound,39-32,39,32
 0021900739,2020-02-02,MIL,PHX,14.3,2,9,42,PHX,MIL,block,6,True,False,block,block,39-32,39,32
+0021900739,2020-02-02,MIL,PHX,14.3,2,9,42,PHX,PHX,reb,0,False,False,,Suns Rebound,39-32,39,32
 0021900739,2020-02-02,MIL,PHX,14.37,2,9,38,PHX,MIL,foul,1,False,False,Middleton P.FOUL (P1.T1) (J.Goldenberg),,39-32,39,32
 0021900739,2020-02-02,MIL,PHX,14.58,2,9,25,PHX,PHX,fg_miss,101,True,False,,MISS Oubre Jr. 10' Driving Floating Jump Shot,39-32,39,32
 0021900739,2020-02-02,MIL,PHX,14.58,2,9,25,PHX,MIL,block,101,True,False,block,block,39-32,39,32
@@ -183,9 +183,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900739,2020-02-02,MIL,PHX,17.52,2,6,29,MIL,PHX,violation,2,False,False,,Okobo Violation:Defensive Goaltending (M.Lindsay),48-38,48,38
 0021900739,2020-02-02,MIL,PHX,17.75,2,6,15,PHX,PHX,fg_make,3,False,False,,Ayton 3' Hook Shot (6 PTS) (Okobo 3 AST),48-40,48,40
 0021900739,2020-02-02,MIL,PHX,17.93,2,6,4,MIL,MIL,fg3_miss,1,False,False,MISS Lopez 3PT Jump Shot,,48-40,48,40
+0021900739,2020-02-02,MIL,PHX,18.02,2,5,59,MIL,MIL,reb,0,False,False,Ilyasova REBOUND (Off:2 Def:2),,48-40,48,40
 0021900739,2020-02-02,MIL,PHX,18.02,2,5,59,MIL,MIL,fg_miss,97,False,False,MISS Ilyasova 1' Tip Layup Shot,,48-40,48,40
 0021900739,2020-02-02,MIL,PHX,18.02,2,5,59,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:3 Def:4),48-40,48,40
-0021900739,2020-02-02,MIL,PHX,18.02,2,5,59,MIL,MIL,reb,0,False,False,Ilyasova REBOUND (Off:2 Def:2),,48-40,48,40
 0021900739,2020-02-02,MIL,PHX,18.18,2,5,49,PHX,PHX,fg_make,76,False,False,,Bridges 2' Running Finger Roll Layup (5 PTS) (Booker 3 AST),48-42,48,42
 0021900739,2020-02-02,MIL,PHX,18.48,2,5,31,MIL,MIL,fg3_miss,1,False,False,MISS Matthews 26' 3PT Jump Shot,,48-42,48,42
 0021900739,2020-02-02,MIL,PHX,18.55,2,5,27,PHX,PHX,reb,0,False,False,,Booker REBOUND (Off:0 Def:2),48-42,48,42
@@ -267,8 +267,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900739,2020-02-02,MIL,PHX,25.18,3,10,49,PHX,PHX,reb,0,False,False,,Oubre Jr. REBOUND (Off:4 Def:4),71-54,71,54
 0021900739,2020-02-02,MIL,PHX,25.22,3,10,47,PHX,PHX,fg_make,1,False,False,,Oubre Jr. 23' Jump Shot (8 PTS),71-56,71,56
 0021900739,2020-02-02,MIL,PHX,25.38,3,10,37,MIL,MIL,fg_miss,6,True,False,MISS Antetokounmpo 6' Driving Layup,,71-56,71,56
-0021900739,2020-02-02,MIL,PHX,25.38,3,10,37,PHX,PHX,reb,0,False,False,,Suns Rebound,71-56,71,56
 0021900739,2020-02-02,MIL,PHX,25.38,3,10,37,MIL,PHX,block,6,True,False,block,block,71-56,71,56
+0021900739,2020-02-02,MIL,PHX,25.38,3,10,37,PHX,PHX,reb,0,False,False,,Suns Rebound,71-56,71,56
 0021900739,2020-02-02,MIL,PHX,25.57,3,10,26,PHX,PHX,fg_miss,1,False,False,,MISS Booker 15' Jump Shot,71-56,71,56
 0021900739,2020-02-02,MIL,PHX,25.6,3,10,24,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:4 Def:6),,71-56,71,56
 0021900739,2020-02-02,MIL,PHX,25.78,3,10,13,MIL,MIL,fg3_miss,1,False,False,MISS Bledsoe 3PT Jump Shot,,71-56,71,56
@@ -312,8 +312,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900739,2020-02-02,MIL,PHX,28.58,3,7,25,MIL,PHX,foul,1,False,False,,Okobo P.FOUL (P4.T4) (S.Wright),77-65,77,65
 0021900739,2020-02-02,MIL,PHX,28.65,3,7,21,MIL,MIL,fg_make,108,False,False,Antetokounmpo 1' Cutting Dunk Shot (25 PTS) (Middleton 5 AST),,79-65,79,65
 0021900739,2020-02-02,MIL,PHX,28.98,3,7,1,PHX,PHX,fg_miss,98,True,False,,MISS Ayton 5' Cutting Layup Shot,79-65,79,65
-0021900739,2020-02-02,MIL,PHX,28.98,3,7,1,PHX,PHX,reb,0,False,False,,Suns Rebound,79-65,79,65
 0021900739,2020-02-02,MIL,PHX,28.98,3,7,1,PHX,MIL,block,98,True,False,block,block,79-65,79,65
+0021900739,2020-02-02,MIL,PHX,28.98,3,7,1,PHX,PHX,reb,0,False,False,,Suns Rebound,79-65,79,65
 0021900739,2020-02-02,MIL,PHX,29.07,3,6,56,PHX,PHX,fg3_make,1,False,False,,Carter 26' 3PT Jump Shot (6 PTS) (Ayton 2 AST),79-68,79,68
 0021900739,2020-02-02,MIL,PHX,29.32,3,6,41,MIL,MIL,fg3_miss,1,False,False,MISS Antetokounmpo 28' 3PT Jump Shot,,79-68,79,68
 0021900739,2020-02-02,MIL,PHX,29.37,3,6,38,PHX,PHX,reb,0,False,False,,Carter REBOUND (Off:0 Def:2),79-68,79,68

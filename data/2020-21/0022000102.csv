@@ -152,8 +152,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000102,2021-01-05,BKN,UTA,17.6,2,6,24,BKN,BKN,reb,1,False,False,NETS Rebound,,50-27,50,27
 0022000102,2021-01-05,BKN,UTA,17.6,2,6,24,BKN,BKN,ft_make,12,False,False,Allen Free Throw 2 of 2 (7 PTS),,51-27,51,27
 0022000102,2021-01-05,BKN,UTA,17.77,2,6,14,UTA,UTA,tov,1,False,True,,Mitchell Bad Pass Turnover (P1.T5),51-27,51,27
-0022000102,2021-01-05,BKN,UTA,17.77,2,6,14,BKN,UTA,foul,28,False,False,,Mitchell Personal Take Foul (P1.T2) (E.Scott),51-27,51,27
 0022000102,2021-01-05,BKN,UTA,17.77,2,6,14,UTA,BKN,steal,1,False,True,steal,steal,51-27,51,27
+0022000102,2021-01-05,BKN,UTA,17.77,2,6,14,BKN,UTA,foul,28,False,False,,Mitchell Personal Take Foul (P1.T2) (E.Scott),51-27,51,27
 0022000102,2021-01-05,BKN,UTA,17.98,2,6,1,BKN,BKN,fg_make,86,False,False,LeVert 9' Turnaround Fadeaway (8 PTS),,53-27,53,27
 0022000102,2021-01-05,BKN,UTA,18.28,2,5,43,UTA,BKN,foul,1,False,False,Irving P.FOUL (P2.T4) (L.Wood),,53-27,53,27
 0022000102,2021-01-05,BKN,UTA,18.42,2,5,35,UTA,UTA,fg_make,101,False,False,,Mitchell 10' Driving Floating Jump Shot (7 PTS),53-29,53,29
@@ -173,8 +173,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000102,2021-01-05,BKN,UTA,20.02,2,3,59,BKN,BKN,fg_make,79,False,False,Irving 7' Pullup Jump Shot (22 PTS) (Prince 1 AST),,57-31,57,31
 0022000102,2021-01-05,BKN,UTA,20.27,2,3,44,UTA,UTA,fg3_make,1,False,False,,O'Neale 27' 3PT Jump Shot (7 PTS) (Mitchell 2 AST),57-34,57,34
 0022000102,2021-01-05,BKN,UTA,20.62,2,3,23,BKN,BKN,fg_miss,101,True,False,MISS Irving 10' Driving Floating Jump Shot,,57-34,57,34
-0022000102,2021-01-05,BKN,UTA,20.62,2,3,23,BKN,BKN,reb,0,False,False,NETS Rebound,,57-34,57,34
 0022000102,2021-01-05,BKN,UTA,20.62,2,3,23,BKN,UTA,block,101,True,False,block,block,57-34,57,34
+0022000102,2021-01-05,BKN,UTA,20.62,2,3,23,BKN,BKN,reb,0,False,False,NETS Rebound,,57-34,57,34
 0022000102,2021-01-05,BKN,UTA,20.65,2,3,21,BKN,BKN,fg3_miss,1,False,False,MISS Irving 34' 3PT Jump Shot,,57-34,57,34
 0022000102,2021-01-05,BKN,UTA,20.75,2,3,15,UTA,UTA,reb,0,False,False,,Mitchell REBOUND (Off:0 Def:2),57-34,57,34
 0022000102,2021-01-05,BKN,UTA,20.92,2,3,5,UTA,UTA,fg3_miss,79,False,False,,MISS Mitchell 27' 3PT Pullup Jump Shot,57-34,57,34
@@ -197,8 +197,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000102,2021-01-05,BKN,UTA,22.8,2,1,12,UTA,UTA,ft_miss,12,False,False,,MISS Conley Free Throw 2 of 2,61-39,61,39
 0022000102,2021-01-05,BKN,UTA,22.85,2,1,9,BKN,BKN,reb,0,False,False,Allen REBOUND (Off:1 Def:6),,61-39,61,39
 0022000102,2021-01-05,BKN,UTA,23.2,2,0,48,BKN,BKN,fg_miss,6,True,False,MISS Prince 5' Driving Layup,,61-39,61,39
-0022000102,2021-01-05,BKN,UTA,23.2,2,0,48,BKN,BKN,reb,0,False,False,Allen REBOUND (Off:2 Def:6),,61-39,61,39
 0022000102,2021-01-05,BKN,UTA,23.2,2,0,48,BKN,UTA,block,6,True,False,block,block,61-39,61,39
+0022000102,2021-01-05,BKN,UTA,23.2,2,0,48,BKN,BKN,reb,0,False,False,Allen REBOUND (Off:2 Def:6),,61-39,61,39
 0022000102,2021-01-05,BKN,UTA,23.22,2,0,47,BKN,BKN,tov,11,False,False,NETS Turnover: Shot Clock (T#6),,61-39,61,39
 0022000102,2021-01-05,BKN,UTA,23.43,2,0,34,UTA,BKN,foul,1,False,False,Prince P.FOUL (P1.PN) (T.Brown),,61-39,61,39
 0022000102,2021-01-05,BKN,UTA,23.43,2,0,34,UTA,UTA,ft_make,11,False,False,,Mitchell Free Throw 1 of 2 (10 PTS),61-40,61,40
@@ -212,9 +212,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000102,2021-01-05,BKN,UTA,23.97,2,0,2,UTA,BKN,foul,2,False,False,Irving S.FOUL (P3.PN) (E.Scott),,63-43,63,43
 0022000102,2021-01-05,BKN,UTA,23.97,2,0,2,UTA,UTA,ft_make,10,False,False,,Mitchell Free Throw 1 of 1 (14 PTS),63-44,63,44
 0022000102,2021-01-05,BKN,UTA,24.0,2,0,0,BKN,BKN,tov,1,False,True,Irving Bad Pass Turnover (P1.T7),,63-44,63,44
+0022000102,2021-01-05,BKN,UTA,24.0,2,0,0,BKN,UTA,steal,1,False,True,steal,steal,63-44,63,44
 0022000102,2021-01-05,BKN,UTA,24.0,2,0,0,BKN,,period_end,0,False,False,,,63-44,63,44
 0022000102,2021-01-05,BKN,UTA,24.0,3,12,0,BKN,,period_start,0,False,False,,,63-44,63,44
-0022000102,2021-01-05,BKN,UTA,24.0,2,0,0,BKN,UTA,steal,1,False,True,steal,steal,63-44,63,44
 0022000102,2021-01-05,BKN,UTA,24.13,3,11,52,BKN,UTA,foul,1,False,False,,O'Neale P.FOUL (P1.T1) (T.Brown),63-44,63,44
 0022000102,2021-01-05,BKN,UTA,24.28,3,11,43,BKN,BKN,fg_miss,1,False,False,MISS Green 15' Jump Shot,,63-44,63,44
 0022000102,2021-01-05,BKN,UTA,24.35,3,11,39,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:3 Def:3),63-44,63,44
@@ -342,8 +342,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000102,2021-01-05,BKN,UTA,36.75,4,11,15,UTA,UTA,fg_miss,6,False,False,,MISS Clarkson 4' Driving Layup,100-73,100,73
 0022000102,2021-01-05,BKN,UTA,36.82,4,11,11,UTA,UTA,reb,0,False,False,,Clarkson REBOUND (Off:1 Def:1),100-73,100,73
 0022000102,2021-01-05,BKN,UTA,36.87,4,11,8,UTA,UTA,tov,1,False,True,,Clarkson Bad Pass Turnover (P4.T11),100-73,100,73
-0022000102,2021-01-05,BKN,UTA,36.87,4,11,8,BKN,UTA,foul,1,False,False,,Conley P.FOUL (P1.T1) (T.Brown),100-73,100,73
 0022000102,2021-01-05,BKN,UTA,36.87,4,11,8,UTA,BKN,steal,1,False,True,steal,steal,100-73,100,73
+0022000102,2021-01-05,BKN,UTA,36.87,4,11,8,BKN,UTA,foul,1,False,False,,Conley P.FOUL (P1.T1) (T.Brown),100-73,100,73
 0022000102,2021-01-05,BKN,UTA,37.05,4,10,57,BKN,BKN,fg3_make,1,False,False,Luwawu-Cabarrot 25' 3PT Jump Shot (5 PTS) (LeVert 4 AST),,103-73,103,73
 0022000102,2021-01-05,BKN,UTA,37.47,4,10,32,UTA,UTA,fg3_make,79,False,False,,Mitchell 25' 3PT Pullup Jump Shot (27 PTS),103-76,103,76
 0022000102,2021-01-05,BKN,UTA,37.8,4,10,12,BKN,BKN,fg3_miss,1,False,False,MISS Luwawu-Cabarrot 3PT Jump Shot,,103-76,103,76

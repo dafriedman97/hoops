@@ -55,8 +55,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700933,2018-03-02,PHX,OKC,5.6,1,6,24,OKC,PHX,foul,1,False,False,Bender P.FOUL (P1.T3) (K.Mauer),,15-11,15,11
 0021700933,2018-03-02,PHX,OKC,5.7,1,6,18,OKC,OKC,fg_make,75,False,False,,Westbrook 1' Driving Finger Roll Layup (4 PTS),15-13,15,13
 0021700933,2018-03-02,PHX,OKC,5.93,1,6,4,PHX,PHX,fg_miss,6,True,False,MISS Payton 1' Driving Layup,,15-13,15,13
-0021700933,2018-03-02,PHX,OKC,5.93,1,6,4,PHX,PHX,reb,0,False,False,SUNS Rebound,,15-13,15,13
 0021700933,2018-03-02,PHX,OKC,5.93,1,6,4,PHX,OKC,block,6,True,False,block,block,15-13,15,13
+0021700933,2018-03-02,PHX,OKC,5.93,1,6,4,PHX,PHX,reb,0,False,False,SUNS Rebound,,15-13,15,13
 0021700933,2018-03-02,PHX,OKC,5.97,1,6,2,PHX,PHX,fg3_make,1,False,False,Booker 26' 3PT Jump Shot (10 PTS) (Payton 1 AST),,18-13,18,13
 0021700933,2018-03-02,PHX,OKC,6.15,1,5,51,OKC,OKC,fg_miss,79,False,False,,MISS Westbrook 13' Pullup Jump Shot,18-13,18,13
 0021700933,2018-03-02,PHX,OKC,6.15,1,5,51,PHX,PHX,reb,0,False,False,Booker REBOUND (Off:1 Def:1),,18-13,18,13
@@ -214,8 +214,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700933,2018-03-02,PHX,OKC,23.35,2,0,39,PHX,PHX,fg_miss,6,False,False,MISS Payton 3' Driving Layup,,67-60,67,60
 0021700933,2018-03-02,PHX,OKC,23.38,2,0,37,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:0 Def:3),67-60,67,60
 0021700933,2018-03-02,PHX,OKC,23.47,2,0,32,OKC,OKC,fg_miss,41,True,False,,MISS George 1' Running Layup,67-60,67,60
-0021700933,2018-03-02,PHX,OKC,23.47,2,0,32,OKC,OKC,reb,0,False,False,,Thunder Rebound,67-60,67,60
 0021700933,2018-03-02,PHX,OKC,23.47,2,0,32,OKC,PHX,block,41,True,False,block,block,67-60,67,60
+0021700933,2018-03-02,PHX,OKC,23.47,2,0,32,OKC,OKC,reb,0,False,False,,Thunder Rebound,67-60,67,60
 0021700933,2018-03-02,PHX,OKC,23.53,2,0,28,OKC,OKC,fg_miss,47,False,False,,MISS Adams 2' Turnaround Jump Shot,67-60,67,60
 0021700933,2018-03-02,PHX,OKC,23.55,2,0,27,PHX,PHX,reb,0,False,False,Payton REBOUND (Off:0 Def:4),,67-60,67,60
 0021700933,2018-03-02,PHX,OKC,24.0,2,0,0,PHX,PHX,fg_miss,6,False,False,MISS Warren 1' Driving Layup,,67-60,67,60
@@ -295,15 +295,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700933,2018-03-02,PHX,OKC,31.28,3,4,43,OKC,OKC,fg_miss,79,False,False,,MISS Westbrook 18' Pullup Jump Shot,90-83,90,83
 0021700933,2018-03-02,PHX,OKC,31.35,3,4,39,OKC,OKC,reb,0,False,False,,Anthony REBOUND (Off:2 Def:3),90-83,90,83
 0021700933,2018-03-02,PHX,OKC,31.37,3,4,38,OKC,OKC,fg_miss,72,True,False,,MISS Anthony 1' Putback Layup,90-83,90,83
-0021700933,2018-03-02,PHX,OKC,31.37,3,4,38,OKC,OKC,reb,0,False,False,,Thunder Rebound,90-83,90,83
 0021700933,2018-03-02,PHX,OKC,31.37,3,4,38,OKC,PHX,block,72,True,False,block,block,90-83,90,83
+0021700933,2018-03-02,PHX,OKC,31.37,3,4,38,OKC,OKC,reb,0,False,False,,Thunder Rebound,90-83,90,83
 0021700933,2018-03-02,PHX,OKC,31.42,3,4,35,,PHX,jump_ball,0,False,False,Jump Ball Len vs. Anthony: Tip to George,,90-83,90,83
 0021700933,2018-03-02,PHX,OKC,31.5,3,4,30,OKC,OKC,fg3_make,79,False,False,,George 25' 3PT Pullup Jump Shot (20 PTS),90-86,90,86
 0021700933,2018-03-02,PHX,OKC,31.52,3,4,29,PHX,PHX,timeout,1,False,False,SUNS Timeout: Regular (Full 3 Short 0),,90-86,90,86
 0021700933,2018-03-02,PHX,OKC,31.78,3,4,13,PHX,PHX,fg_make,101,False,False,Warren 14' Driving Floating Jump Shot (16 PTS),,92-86,92,86
 0021700933,2018-03-02,PHX,OKC,32.02,3,3,59,OKC,OKC,fg_miss,79,False,False,,MISS George 18' Pullup Jump Shot,92-86,92,86
-0021700933,2018-03-02,PHX,OKC,32.02,3,3,59,PHX,PHX,reb,0,False,False,SUNS Rebound,,92-86,92,86
 0021700933,2018-03-02,PHX,OKC,32.02,3,3,59,PHX,OKC,foul,3,False,False,,Westbrook L.B.FOUL (P2.T4) (S.Wall),92-86,92,86
+0021700933,2018-03-02,PHX,OKC,32.02,3,3,59,PHX,PHX,reb,0,False,False,SUNS Rebound,,92-86,92,86
 0021700933,2018-03-02,PHX,OKC,32.15,3,3,51,PHX,PHX,fg_miss,6,True,False,MISS Bender 2' Driving Layup,,92-86,92,86
 0021700933,2018-03-02,PHX,OKC,32.15,3,3,51,PHX,OKC,block,6,True,False,block,block,92-86,92,86
 0021700933,2018-03-02,PHX,OKC,32.18,3,3,49,OKC,OKC,reb,0,False,False,,George REBOUND (Off:0 Def:3),92-86,92,86
@@ -339,8 +339,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700933,2018-03-02,PHX,OKC,35.5,3,0,30,OKC,OKC,fg3_miss,79,False,False,,MISS Westbrook 26' 3PT Pullup Jump Shot,99-97,99,97
 0021700933,2018-03-02,PHX,OKC,35.55,3,0,27,PHX,PHX,reb,0,False,False,Jackson REBOUND (Off:1 Def:1),,99-97,99,97
 0021700933,2018-03-02,PHX,OKC,35.88,3,0,7,PHX,PHX,fg_miss,75,True,False,MISS Booker 4' Driving Finger Roll Layup,,99-97,99,97
-0021700933,2018-03-02,PHX,OKC,35.88,3,0,7,PHX,PHX,reb,0,False,False,SUNS Rebound,,99-97,99,97
 0021700933,2018-03-02,PHX,OKC,35.88,3,0,7,PHX,OKC,block,75,True,False,block,block,99-97,99,97
+0021700933,2018-03-02,PHX,OKC,35.88,3,0,7,PHX,PHX,reb,0,False,False,SUNS Rebound,,99-97,99,97
 0021700933,2018-03-02,PHX,OKC,35.93,3,0,4,PHX,PHX,fg3_miss,1,False,False,MISS Jackson 32' 3PT Jump Shot,,99-97,99,97
 0021700933,2018-03-02,PHX,OKC,35.95,3,0,3,PHX,PHX,reb,0,False,False,SUNS Rebound,,99-97,99,97
 0021700933,2018-03-02,PHX,OKC,35.95,3,0,3,PHX,PHX,tov,11,False,False,SUNS Turnover: Shot Clock (T#11),,99-97,99,97
@@ -394,8 +394,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700933,2018-03-02,PHX,OKC,41.48,4,6,31,PHX,OKC,block,79,True,False,block,block,104-110,104,110
 0021700933,2018-03-02,PHX,OKC,41.52,4,6,29,PHX,PHX,reb,0,False,False,Jackson REBOUND (Off:2 Def:2),,104-110,104,110
 0021700933,2018-03-02,PHX,OKC,41.53,4,6,28,PHX,PHX,fg_miss,72,True,False,MISS Jackson 1' Putback Layup,,104-110,104,110
-0021700933,2018-03-02,PHX,OKC,41.53,4,6,28,PHX,PHX,reb,0,False,False,Payton REBOUND (Off:1 Def:6),,104-110,104,110
 0021700933,2018-03-02,PHX,OKC,41.53,4,6,28,PHX,OKC,block,72,True,False,block,block,104-110,104,110
+0021700933,2018-03-02,PHX,OKC,41.53,4,6,28,PHX,PHX,reb,0,False,False,Payton REBOUND (Off:1 Def:6),,104-110,104,110
 0021700933,2018-03-02,PHX,OKC,41.55,4,6,27,OKC,PHX,foul,3,False,False,Jackson L.B.FOUL (P5.T2) (S.Wall),,104-110,104,110
 0021700933,2018-03-02,PHX,OKC,41.55,4,6,27,PHX,PHX,tov,0,False,False,Jackson No Turnover (P1.T14),,104-110,104,110
 0021700933,2018-03-02,PHX,OKC,41.88,4,6,7,OKC,OKC,fg_miss,6,False,False,,MISS Grant 1' Driving Layup,104-110,104,110
@@ -410,8 +410,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700933,2018-03-02,PHX,OKC,42.77,4,5,14,OKC,OKC,fg3_miss,1,False,False,,MISS George 26' 3PT Jump Shot,108-110,108,110
 0021700933,2018-03-02,PHX,OKC,42.77,4,5,14,PHX,PHX,reb,0,False,False,Payton REBOUND (Off:1 Def:7),,108-110,108,110
 0021700933,2018-03-02,PHX,OKC,43.17,4,4,50,PHX,PHX,fg_miss,5,True,False,MISS Warren 1' Layup,,108-110,108,110
-0021700933,2018-03-02,PHX,OKC,43.17,4,4,50,PHX,PHX,reb,0,False,False,SUNS Rebound,,108-110,108,110
 0021700933,2018-03-02,PHX,OKC,43.17,4,4,50,PHX,OKC,block,5,True,False,block,block,108-110,108,110
+0021700933,2018-03-02,PHX,OKC,43.17,4,4,50,PHX,PHX,reb,0,False,False,SUNS Rebound,,108-110,108,110
 0021700933,2018-03-02,PHX,OKC,43.2,4,4,48,PHX,PHX,fg_make,1,False,False,Booker 14' Jump Shot (37 PTS) (Payton 7 AST),,110-110,110,110
 0021700933,2018-03-02,PHX,OKC,43.57,4,4,26,OKC,OKC,fg_miss,6,False,False,,MISS Anthony 1' Driving Layup,110-110,110,110
 0021700933,2018-03-02,PHX,OKC,43.6,4,4,24,OKC,OKC,reb,0,False,False,,Anthony REBOUND (Off:3 Def:3),110-110,110,110
@@ -432,8 +432,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700933,2018-03-02,PHX,OKC,45.0,4,3,0,OKC,PHX,block,5,True,False,block,block,113-114,113,114
 0021700933,2018-03-02,PHX,OKC,45.03,4,2,58,OKC,OKC,reb,0,False,False,,Anthony REBOUND (Off:4 Def:3),113-114,113,114
 0021700933,2018-03-02,PHX,OKC,45.05,4,2,57,OKC,OKC,fg_miss,72,True,False,,MISS Anthony 1' Putback Layup,113-114,113,114
-0021700933,2018-03-02,PHX,OKC,45.05,4,2,57,PHX,PHX,reb,0,False,False,Len REBOUND (Off:3 Def:5),,113-114,113,114
 0021700933,2018-03-02,PHX,OKC,45.05,4,2,57,OKC,PHX,block,72,True,False,block,block,113-114,113,114
+0021700933,2018-03-02,PHX,OKC,45.05,4,2,57,PHX,PHX,reb,0,False,False,Len REBOUND (Off:3 Def:5),,113-114,113,114
 0021700933,2018-03-02,PHX,OKC,45.38,4,2,37,PHX,PHX,fg_make,63,False,False,Booker 12' Fadeaway Jumper (39 PTS) (Payton 8 AST),,115-114,115,114
 0021700933,2018-03-02,PHX,OKC,45.78,4,2,13,OKC,OKC,fg_miss,6,True,False,,MISS Grant 2' Driving Layup,115-114,115,114
 0021700933,2018-03-02,PHX,OKC,45.78,4,2,13,OKC,PHX,block,6,True,False,block,block,115-114,115,114
@@ -441,15 +441,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700933,2018-03-02,PHX,OKC,45.88,4,2,7,PHX,PHX,fg_miss,41,False,False,MISS Warren 1' Running Layup,,115-114,115,114
 0021700933,2018-03-02,PHX,OKC,45.93,4,2,4,PHX,PHX,reb,0,False,False,Payton REBOUND (Off:2 Def:8),,115-114,115,114
 0021700933,2018-03-02,PHX,OKC,45.97,4,2,2,PHX,PHX,fg_miss,101,True,False,MISS Booker 5' Driving Floating Jump Shot,,115-114,115,114
-0021700933,2018-03-02,PHX,OKC,45.97,4,2,2,OKC,OKC,reb,0,False,False,,George REBOUND (Off:0 Def:5),115-114,115,114
 0021700933,2018-03-02,PHX,OKC,45.97,4,2,2,PHX,OKC,block,101,True,False,block,block,115-114,115,114
+0021700933,2018-03-02,PHX,OKC,45.97,4,2,2,OKC,OKC,reb,0,False,False,,George REBOUND (Off:0 Def:5),115-114,115,114
 0021700933,2018-03-02,PHX,OKC,46.13,4,1,52,OKC,OKC,fg_miss,41,True,False,,MISS George 3' Running Layup,115-114,115,114
-0021700933,2018-03-02,PHX,OKC,46.13,4,1,52,PHX,PHX,reb,0,False,False,SUNS Rebound,,115-114,115,114
 0021700933,2018-03-02,PHX,OKC,46.13,4,1,52,OKC,PHX,block,41,True,False,block,block,115-114,115,114
+0021700933,2018-03-02,PHX,OKC,46.13,4,1,52,PHX,PHX,reb,0,False,False,SUNS Rebound,,115-114,115,114
 0021700933,2018-03-02,PHX,OKC,46.33,4,1,40,PHX,OKC,foul,1,False,False,,Adams P.FOUL (P2.PN) (T.Ford),115-114,115,114
 0021700933,2018-03-02,PHX,OKC,46.33,4,1,40,PHX,PHX,ft_miss,11,False,False,MISS Len Free Throw 1 of 2,,115-114,115,114
-0021700933,2018-03-02,PHX,OKC,46.33,4,1,40,PHX,PHX,reb,1,False,False,SUNS Rebound,,115-114,115,114
 0021700933,2018-03-02,PHX,OKC,46.33,4,1,40,PHX,PHX,ft_make,12,False,False,Len Free Throw 2 of 2 (7 PTS),,116-114,116,114
+0021700933,2018-03-02,PHX,OKC,46.33,4,1,40,PHX,PHX,reb,1,False,False,SUNS Rebound,,115-114,115,114
 0021700933,2018-03-02,PHX,OKC,46.47,4,1,32,OKC,OKC,fg_make,6,False,False,,Westbrook 1' Driving Layup (37 PTS),116-116,116,116
 0021700933,2018-03-02,PHX,OKC,46.8,4,1,12,PHX,PHX,fg3_miss,1,False,False,MISS Payton 25' 3PT Jump Shot,,116-116,116,116
 0021700933,2018-03-02,PHX,OKC,46.87,4,1,8,OKC,OKC,reb,0,False,False,,Westbrook REBOUND (Off:5 Def:7),116-116,116,116

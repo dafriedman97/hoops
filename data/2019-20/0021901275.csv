@@ -63,8 +63,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901275,2020-08-07,MEM,OKC,8.1,1,3,54,MEM,MEM,tov,4,False,False,Dieng Traveling Turnover (P1.T5),,15-27,15,27
 0021901275,2020-08-07,MEM,OKC,8.3,1,3,42,OKC,OKC,fg_make,108,False,False,,Bazley Cutting Dunk Shot (2 PTS) (Gilgeous-Alexander 2 AST),15-29,15,29
 0021901275,2020-08-07,MEM,OKC,8.48,1,3,31,MEM,MEM,fg_miss,6,True,False,MISS Morant 1' Driving Layup,,15-29,15,29
-0021901275,2020-08-07,MEM,OKC,8.48,1,3,31,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,15-29,15,29
 0021901275,2020-08-07,MEM,OKC,8.48,1,3,31,MEM,OKC,block,6,True,False,block,block,15-29,15,29
+0021901275,2020-08-07,MEM,OKC,8.48,1,3,31,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,15-29,15,29
 0021901275,2020-08-07,MEM,OKC,8.58,1,3,25,MEM,MEM,fg_make,78,False,False,Clarke 10' Floating Jump Shot (2 PTS) (Morant 1 AST),,17-29,17,29
 0021901275,2020-08-07,MEM,OKC,8.93,1,3,4,OKC,OKC,fg3_make,1,False,False,,Diallo 27' 3PT Jump Shot (5 PTS) (Bazley 1 AST),17-32,17,32
 0021901275,2020-08-07,MEM,OKC,9.22,1,2,47,MEM,MEM,tov,2,False,True,Morant Lost Ball Turnover (P2.T6),,17-32,17,32
@@ -144,9 +144,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901275,2020-08-07,MEM,OKC,17.38,2,6,37,OKC,MEM,foul,11,False,False,Valanciunas T.FOUL (P3.T1) (T.Brothers),,38-39,38,39
 0021901275,2020-08-07,MEM,OKC,17.38,2,6,37,OKC,OKC,ft_make,16,False,False,,Paul Free Throw Technical (6 PTS),38-40,38,40
 0021901275,2020-08-07,MEM,OKC,17.73,2,6,16,OKC,OKC,fg_miss,101,False,False,,MISS Roberson 6' Driving Floating Jump Shot,38-40,38,40
-0021901275,2020-08-07,MEM,OKC,17.77,2,6,14,OKC,OKC,reb,0,False,False,,Roberson REBOUND (Off:1 Def:0),38-40,38,40
 0021901275,2020-08-07,MEM,OKC,17.77,2,6,14,OKC,OKC,fg_miss,97,True,False,,MISS Roberson 2' Tip Layup Shot,38-40,38,40
 0021901275,2020-08-07,MEM,OKC,17.77,2,6,14,OKC,MEM,block,97,True,False,block,block,38-40,38,40
+0021901275,2020-08-07,MEM,OKC,17.77,2,6,14,OKC,OKC,reb,0,False,False,,Roberson REBOUND (Off:1 Def:0),38-40,38,40
 0021901275,2020-08-07,MEM,OKC,17.78,2,6,13,MEM,MEM,reb,0,False,False,Dieng REBOUND (Off:0 Def:2),,38-40,38,40
 0021901275,2020-08-07,MEM,OKC,17.9,2,6,6,MEM,MEM,fg3_miss,1,False,False,MISS Brooks 25' 3PT Jump Shot,,38-40,38,40
 0021901275,2020-08-07,MEM,OKC,18.0,2,6,0,OKC,OKC,reb,0,False,False,,Bazley REBOUND (Off:0 Def:1),38-40,38,40
@@ -198,12 +198,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901275,2020-08-07,MEM,OKC,22.37,2,1,38,OKC,OKC,ft_make,11,False,False,,Gilgeous-Alexander Free Throw 1 of 2 (4 PTS),58-53,58,53
 0021901275,2020-08-07,MEM,OKC,22.37,2,1,38,OKC,OKC,ft_make,12,False,False,,Gilgeous-Alexander Free Throw 2 of 2 (5 PTS),58-54,58,54
 0021901275,2020-08-07,MEM,OKC,22.72,2,1,17,MEM,MEM,tov,1,False,True,Brooks Bad Pass Turnover (P1.T9),,58-54,58,54
+0021901275,2020-08-07,MEM,OKC,22.72,2,1,17,MEM,OKC,steal,1,False,True,steal,steal,58-54,58,54
 0021901275,2020-08-07,MEM,OKC,22.72,2,1,17,OKC,MEM,foul,14,False,False,Brooks FLAGRANT.FOUL.TYPE1 (P2.PN) (B.Barnaky),,58-54,58,54
 0021901275,2020-08-07,MEM,OKC,22.72,2,1,17,OKC,OKC,ft_miss,18,False,False,,MISS Dort Free Throw Flagrant 1 of 2,58-54,58,54
 0021901275,2020-08-07,MEM,OKC,22.72,2,1,17,OKC,OKC,reb,1,False,False,,Thunder Rebound,58-54,58,54
 0021901275,2020-08-07,MEM,OKC,22.72,2,1,17,OKC,OKC,ft_miss,19,False,False,,MISS Dort Free Throw Flagrant 2 of 2,58-54,58,54
 0021901275,2020-08-07,MEM,OKC,22.72,2,1,17,OKC,OKC,reb,0,False,False,,Thunder Rebound,58-54,58,54
-0021901275,2020-08-07,MEM,OKC,22.72,2,1,17,MEM,OKC,steal,1,False,True,steal,steal,58-54,58,54
 0021901275,2020-08-07,MEM,OKC,22.85,2,1,9,OKC,OKC,fg_miss,79,False,False,,MISS Bazley 22' Pullup Jump Shot,58-54,58,54
 0021901275,2020-08-07,MEM,OKC,22.92,2,1,5,OKC,OKC,reb,0,False,False,,Paul REBOUND (Off:2 Def:0),58-54,58,54
 0021901275,2020-08-07,MEM,OKC,23.08,2,0,55,OKC,OKC,fg3_miss,1,False,False,,MISS Gilgeous-Alexander 3PT Jump Shot,58-54,58,54
@@ -253,8 +253,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901275,2020-08-07,MEM,OKC,28.12,3,7,53,MEM,MEM,fg_miss,47,False,False,MISS Valanciunas 6' Turnaround Jump Shot,,76-68,76,68
 0021901275,2020-08-07,MEM,OKC,28.13,3,7,52,OKC,OKC,reb,0,False,False,,Noel REBOUND (Off:1 Def:3),76-68,76,68
 0021901275,2020-08-07,MEM,OKC,28.35,3,7,39,OKC,OKC,tov,1,False,True,,Gallinari Bad Pass Turnover (P2.T5),76-68,76,68
-0021901275,2020-08-07,MEM,OKC,28.35,3,7,39,MEM,OKC,foul,1,False,False,,Paul P.FOUL (P1.T1) (T.Brothers),76-68,76,68
 0021901275,2020-08-07,MEM,OKC,28.35,3,7,39,OKC,MEM,steal,1,False,True,steal,steal,76-68,76,68
+0021901275,2020-08-07,MEM,OKC,28.35,3,7,39,MEM,OKC,foul,1,False,False,,Paul P.FOUL (P1.T1) (T.Brothers),76-68,76,68
 0021901275,2020-08-07,MEM,OKC,28.62,3,7,23,MEM,MEM,tov,2,False,True,Morant Lost Ball Turnover (P3.T12),,76-68,76,68
 0021901275,2020-08-07,MEM,OKC,28.62,3,7,23,MEM,OKC,steal,2,False,True,steal,steal,76-68,76,68
 0021901275,2020-08-07,MEM,OKC,28.72,3,7,17,OKC,OKC,fg_miss,41,False,False,,MISS Dort 1' Running Layup,76-68,76,68
@@ -346,8 +346,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901275,2020-08-07,MEM,OKC,37.62,4,10,23,MEM,MEM,tov,2,False,True,Valanciunas Lost Ball Turnover (P3.T15),,97-78,97,78
 0021901275,2020-08-07,MEM,OKC,37.62,4,10,23,MEM,OKC,steal,2,False,True,steal,steal,97-78,97,78
 0021901275,2020-08-07,MEM,OKC,37.72,4,10,17,OKC,MEM,foul,1,False,False,Melton P.FOUL (P1.T1) (B.Barnaky),,97-78,97,78
-0021901275,2020-08-07,MEM,OKC,37.85,4,10,9,OKC,OKC,tov,1,False,False,,Paul Bad Pass Turnover (P2.T7),97-78,97,78
 0021901275,2020-08-07,MEM,OKC,37.85,4,10,9,MEM,OKC,foul,3,False,False,,Paul L.B.FOUL (P2.T1) (M.Kogut),97-78,97,78
+0021901275,2020-08-07,MEM,OKC,37.85,4,10,9,OKC,OKC,tov,1,False,False,,Paul Bad Pass Turnover (P2.T7),97-78,97,78
 0021901275,2020-08-07,MEM,OKC,38.17,4,9,50,MEM,MEM,fg_miss,86,False,False,MISS Valanciunas 9' Turnaround Fadeaway Shot,,97-78,97,78
 0021901275,2020-08-07,MEM,OKC,38.18,4,9,49,OKC,OKC,reb,0,False,False,,Paul REBOUND (Off:2 Def:3),97-78,97,78
 0021901275,2020-08-07,MEM,OKC,38.18,4,9,49,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.4 Short 0),97-78,97,78

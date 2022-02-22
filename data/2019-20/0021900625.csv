@@ -42,9 +42,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900625,2020-01-17,DAL,POR,4.98,1,7,1,DAL,POR,block,101,True,False,block,block,9-17,9,17
 0021900625,2020-01-17,DAL,POR,5.02,1,6,59,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:1 Def:2),,9-17,9,17
 0021900625,2020-01-17,DAL,POR,5.03,1,6,58,DAL,DAL,fg_make,72,False,False,Finney-Smith 7' Putback Layup (5 PTS),,11-17,11,17
-0021900625,2020-01-17,DAL,POR,5.03,1,6,58,DAL,POR,violation,2,False,False,,Defensive Goaltending,11-17,11,17
 0021900625,2020-01-17,DAL,POR,5.03,1,6,58,DAL,POR,foul,2,False,False,,Lillard S.FOUL (P1.T4) (M.Smith),11-17,11,17
 0021900625,2020-01-17,DAL,POR,5.03,1,6,58,DAL,DAL,ft_make,10,False,False,Finney-Smith Free Throw 1 of 1 (6 PTS),,12-17,12,17
+0021900625,2020-01-17,DAL,POR,5.03,1,6,58,DAL,POR,violation,2,False,False,,Defensive Goaltending,11-17,11,17
 0021900625,2020-01-17,DAL,POR,5.37,1,6,38,POR,DAL,foul,2,False,False,Finney-Smith S.FOUL (P1.T1) (M.Smith),,12-17,12,17
 0021900625,2020-01-17,DAL,POR,5.37,1,6,38,POR,POR,ft_make,11,False,False,,Anthony Free Throw 1 of 2 (6 PTS),12-18,12,18
 0021900625,2020-01-17,DAL,POR,5.37,1,6,38,POR,POR,ft_make,12,False,False,,Anthony Free Throw 2 of 2 (7 PTS),12-19,12,19
@@ -301,8 +301,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900625,2020-01-17,DAL,POR,30.98,3,5,1,DAL,DAL,fg3_miss,1,False,False,MISS Finney-Smith 25' 3PT Jump Shot,,85-74,85,74
 0021900625,2020-01-17,DAL,POR,31.03,3,4,58,DAL,DAL,reb,0,False,False,Jackson REBOUND (Off:2 Def:0),,85-74,85,74
 0021900625,2020-01-17,DAL,POR,31.05,3,4,57,DAL,DAL,fg3_make,1,False,False,Hardaway Jr. 26' 3PT Jump Shot (22 PTS) (Jackson 1 AST),,88-74,88,74
-0021900625,2020-01-17,DAL,POR,31.33,3,4,40,POR,POR,tov,1,False,False,,Lillard Bad Pass Turnover (P3.T8),88-74,88,74
 0021900625,2020-01-17,DAL,POR,31.33,3,4,40,DAL,POR,foul,3,False,False,,Anthony L.B.FOUL (P2.T4) (T.Brothers),88-74,88,74
+0021900625,2020-01-17,DAL,POR,31.33,3,4,40,POR,POR,tov,1,False,False,,Lillard Bad Pass Turnover (P3.T8),88-74,88,74
 0021900625,2020-01-17,DAL,POR,31.55,3,4,27,DAL,DAL,fg3_make,1,False,False,Curry 3PT Jump Shot (9 PTS) (Doncic 7 AST),,91-74,91,74
 0021900625,2020-01-17,DAL,POR,31.98,3,4,1,POR,POR,fg_miss,6,False,False,,MISS Anthony 3' Driving Layup,91-74,91,74
 0021900625,2020-01-17,DAL,POR,32.05,3,3,57,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:0 Def:4),,91-74,91,74
@@ -407,8 +407,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900625,2020-01-17,DAL,POR,44.78,4,3,13,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:1 Def:4),,115-109,115,109
 0021900625,2020-01-17,DAL,POR,44.85,4,3,9,POR,POR,timeout,7,False,False,,Trail Blazers Timeout: Coach Challenge (Reg.5 Short 0),115-109,115,109
 0021900625,2020-01-17,DAL,POR,44.85,4,3,9,DAL,DAL,fg_miss,101,True,False,MISS Hardaway Jr. 2' Driving Floating Jump Shot,,115-109,115,109
-0021900625,2020-01-17,DAL,POR,44.85,4,3,9,POR,POR,reb,0,False,False,,Trail Blazers Rebound,115-109,115,109
 0021900625,2020-01-17,DAL,POR,44.85,4,3,9,DAL,POR,block,101,True,False,block,block,115-109,115,109
+0021900625,2020-01-17,DAL,POR,44.85,4,3,9,POR,POR,reb,0,False,False,,Trail Blazers Rebound,115-109,115,109
 0021900625,2020-01-17,DAL,POR,44.9,4,3,6,,DAL,jump_ball,0,False,False,Jump Ball Kleber vs. Whiteside: Tip to Tolliver,,115-109,115,109
 0021900625,2020-01-17,DAL,POR,45.18,4,2,49,POR,POR,fg_miss,5,False,False,,MISS Lillard 1' Layup,115-109,115,109
 0021900625,2020-01-17,DAL,POR,45.2,4,2,48,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:1 Def:5),,115-109,115,109
@@ -428,8 +428,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900625,2020-01-17,DAL,POR,46.6,4,1,24,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:2 Def:6),,115-109,115,109
 0021900625,2020-01-17,DAL,POR,46.83,4,1,10,DAL,DAL,fg_make,5,False,False,Doncic 1' Layup (32 PTS),,117-109,117,109
 0021900625,2020-01-17,DAL,POR,46.97,4,1,2,POR,POR,fg_miss,5,True,False,,MISS Simons 2' Layup,117-109,117,109
-0021900625,2020-01-17,DAL,POR,46.97,4,1,2,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:1 Def:4),,117-109,117,109
 0021900625,2020-01-17,DAL,POR,46.97,4,1,2,POR,DAL,block,5,True,False,block,block,117-109,117,109
+0021900625,2020-01-17,DAL,POR,46.97,4,1,2,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:1 Def:4),,117-109,117,109
 0021900625,2020-01-17,DAL,POR,47.23,4,0,46,DAL,DAL,fg3_make,1,False,False,Doncic 26' 3PT Jump Shot (35 PTS),,120-109,120,109
 0021900625,2020-01-17,DAL,POR,47.25,4,0,45,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.6 Short 0),120-109,120,109
 0021900625,2020-01-17,DAL,POR,47.3,4,0,42,POR,POR,fg3_miss,1,False,False,,MISS Lillard 28' 3PT Jump Shot,120-109,120,109

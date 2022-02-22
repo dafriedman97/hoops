@@ -18,8 +18,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700714,2018-01-26,CHA,ATL,1.92,1,10,5,ATL,ATL,fg_make,1,False,False,,Schroder 15' Jump Shot (2 PTS),8-7,8,7
 0021700714,2018-01-26,CHA,ATL,2.27,1,9,44,CHA,CHA,fg3_make,1,False,False,Walker 25' 3PT Jump Shot (3 PTS) (Batum 3 AST),,11-7,11,7
 0021700714,2018-01-26,CHA,ATL,2.52,1,9,29,ATL,ATL,fg_miss,6,True,False,,MISS Prince 2' Driving Layup,11-7,11,7
-0021700714,2018-01-26,CHA,ATL,2.52,1,9,29,ATL,ATL,reb,0,False,False,,Hawks Rebound,11-7,11,7
 0021700714,2018-01-26,CHA,ATL,2.52,1,9,29,ATL,CHA,block,6,True,False,block,block,11-7,11,7
+0021700714,2018-01-26,CHA,ATL,2.52,1,9,29,ATL,ATL,reb,0,False,False,,Hawks Rebound,11-7,11,7
 0021700714,2018-01-26,CHA,ATL,2.6,1,9,24,ATL,ATL,fg_make,98,False,False,,Prince 2' Cutting Layup Shot (4 PTS) (Bazemore 1 AST),11-9,11,9
 0021700714,2018-01-26,CHA,ATL,2.9,1,9,6,CHA,ATL,foul,1,False,False,,Plumlee P.FOUL (P1.T1) (K.Lane),11-9,11,9
 0021700714,2018-01-26,CHA,ATL,3.1,1,8,54,CHA,CHA,fg_miss,80,False,False,MISS Walker 18' Step Back Jump Shot,,11-9,11,9
@@ -200,9 +200,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700714,2018-01-26,CHA,ATL,21.3,2,2,42,CHA,CHA,fg_make,43,False,False,Howard 1' Alley Oop Layup (8 PTS) (Kidd-Gilchrist 2 AST),,55-49,55,49
 0021700714,2018-01-26,CHA,ATL,21.38,2,2,37,ATL,ATL,timeout,1,False,False,,Hawks Timeout: Regular (Reg.2 Short 0),55-49,55,49
 0021700714,2018-01-26,CHA,ATL,21.52,2,2,29,ATL,ATL,fg_miss,6,True,False,,MISS Schroder 3' Driving Layup,55-49,55,49
+0021700714,2018-01-26,CHA,ATL,21.52,2,2,29,ATL,CHA,block,6,True,False,block,block,55-49,55,49
 0021700714,2018-01-26,CHA,ATL,21.52,2,2,29,CHA,CHA,reb,0,False,False,Howard REBOUND (Off:2 Def:3),,55-49,55,49
 0021700714,2018-01-26,CHA,ATL,21.52,2,2,29,CHA,ATL,foul,1,False,False,,Schroder P.FOUL (P2.PN) (J.Phillips),55-49,55,49
-0021700714,2018-01-26,CHA,ATL,21.52,2,2,29,ATL,CHA,block,6,True,False,block,block,55-49,55,49
 0021700714,2018-01-26,CHA,ATL,21.52,2,2,29,CHA,CHA,ft_make,11,False,False,Howard Free Throw 1 of 2 (9 PTS),,56-49,56,49
 0021700714,2018-01-26,CHA,ATL,21.52,2,2,29,CHA,CHA,ft_make,12,False,False,Howard Free Throw 2 of 2 (10 PTS),,57-49,57,49
 0021700714,2018-01-26,CHA,ATL,21.87,2,2,8,ATL,ATL,fg_miss,5,False,False,,MISS Belinelli 6' Layup,57-49,57,49
@@ -217,8 +217,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700714,2018-01-26,CHA,ATL,22.33,2,1,40,CHA,CHA,ft_make,11,False,False,Kidd-Gilchrist Free Throw 1 of 2 (11 PTS),,58-49,58,49
 0021700714,2018-01-26,CHA,ATL,22.33,2,1,40,CHA,CHA,ft_make,12,False,False,Kidd-Gilchrist Free Throw 2 of 2 (12 PTS),,59-49,59,49
 0021700714,2018-01-26,CHA,ATL,22.73,2,1,16,ATL,ATL,fg_miss,73,True,False,,MISS Belinelli 2' Driving Reverse Layup,59-49,59,49
-0021700714,2018-01-26,CHA,ATL,22.73,2,1,16,ATL,ATL,reb,0,False,False,,Hawks Rebound,59-49,59,49
 0021700714,2018-01-26,CHA,ATL,22.73,2,1,16,ATL,CHA,block,73,True,False,block,block,59-49,59,49
+0021700714,2018-01-26,CHA,ATL,22.73,2,1,16,ATL,ATL,reb,0,False,False,,Hawks Rebound,59-49,59,49
 0021700714,2018-01-26,CHA,ATL,22.77,2,1,14,,CHA,jump_ball,0,False,False,Jump Ball Kidd-Gilchrist vs. Collins: Tip to Dedmon,,59-49,59,49
 0021700714,2018-01-26,CHA,ATL,22.77,2,1,14,ATL,ATL,tov,11,False,False,,Hawks Turnover: Shot Clock (T#10),59-49,59,49
 0021700714,2018-01-26,CHA,ATL,23.07,2,0,56,ATL,CHA,foul,4,False,False,Howard OFF.Foul (P2) (R.Acosta),,59-49,59,49
@@ -232,9 +232,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700714,2018-01-26,CHA,ATL,23.87,2,0,8,CHA,CHA,ft_make,11,False,False,Walker Free Throw 1 of 2 (11 PTS),,60-52,60,52
 0021700714,2018-01-26,CHA,ATL,23.87,2,0,8,CHA,CHA,ft_make,12,False,False,Walker Free Throw 2 of 2 (12 PTS),,61-52,61,52
 0021700714,2018-01-26,CHA,ATL,24.0,2,0,0,ATL,ATL,tov,2,False,True,,Collins Lost Ball Turnover (P1.T11),61-52,61,52
+0021700714,2018-01-26,CHA,ATL,24.0,2,0,0,ATL,CHA,steal,2,False,True,steal,steal,61-52,61,52
 0021700714,2018-01-26,CHA,ATL,24.0,2,0,0,ATL,,period_end,0,False,False,,,61-52,61,52
 0021700714,2018-01-26,CHA,ATL,24.0,3,12,0,ATL,,period_start,0,False,False,,,61-52,61,52
-0021700714,2018-01-26,CHA,ATL,24.0,2,0,0,ATL,CHA,steal,2,False,True,steal,steal,61-52,61,52
 0021700714,2018-01-26,CHA,ATL,24.28,3,11,43,CHA,CHA,fg_make,79,False,False,Walker 22' Pullup Jump Shot (14 PTS),,63-52,63,52
 0021700714,2018-01-26,CHA,ATL,24.58,3,11,25,ATL,ATL,fg3_make,1,False,False,,Prince 3PT Jump Shot (13 PTS) (Ilyasova 2 AST),63-55,63,55
 0021700714,2018-01-26,CHA,ATL,24.78,3,11,13,CHA,ATL,foul,1,False,False,,Schroder P.FOUL (P4.T1) (K.Lane),63-55,63,55
@@ -399,11 +399,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700714,2018-01-26,CHA,ATL,41.47,4,6,32,CHA,CHA,ft_make,11,False,False,Batum Free Throw 1 of 2 (15 PTS),,97-101,97,101
 0021700714,2018-01-26,CHA,ATL,41.47,4,6,32,CHA,CHA,ft_make,12,False,False,Batum Free Throw 2 of 2 (16 PTS),,98-101,98,101
 0021700714,2018-01-26,CHA,ATL,41.7,4,6,18,ATL,ATL,fg_miss,5,True,False,,MISS Ilyasova 2' Layup,98-101,98,101
+0021700714,2018-01-26,CHA,ATL,41.7,4,6,18,ATL,CHA,block,5,True,False,block,block,98-101,98,101
 0021700714,2018-01-26,CHA,ATL,41.7,4,6,18,CHA,CHA,reb,0,False,False,Howard REBOUND (Off:4 Def:8),,98-101,98,101
 0021700714,2018-01-26,CHA,ATL,41.7,4,6,18,CHA,ATL,foul,1,False,False,,Muscala P.FOUL (P5.PN) (K.Lane),98-101,98,101
 0021700714,2018-01-26,CHA,ATL,41.7,4,6,18,CHA,CHA,ft_miss,11,False,False,MISS Howard Free Throw 1 of 2,,98-101,98,101
 0021700714,2018-01-26,CHA,ATL,41.7,4,6,18,CHA,CHA,reb,1,False,False,HORNETS Rebound,,98-101,98,101
-0021700714,2018-01-26,CHA,ATL,41.7,4,6,18,ATL,CHA,block,5,True,False,block,block,98-101,98,101
 0021700714,2018-01-26,CHA,ATL,41.7,4,6,18,CHA,CHA,ft_make,12,False,False,Howard Free Throw 2 of 2 (14 PTS),,99-101,99,101
 0021700714,2018-01-26,CHA,ATL,42.1,4,5,54,ATL,ATL,fg3_miss,80,False,False,,MISS Bazemore 25' 3PT Step Back Jump Shot,99-101,99,101
 0021700714,2018-01-26,CHA,ATL,42.17,4,5,50,CHA,CHA,reb,0,False,False,Howard REBOUND (Off:4 Def:9),,99-101,99,101

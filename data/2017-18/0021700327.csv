@@ -36,8 +36,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700327,2017-12-02,DAL,LAC,3.67,1,8,20,DAL,DAL,fg3_miss,1,False,False,MISS Matthews 26' 3PT Jump Shot,,10-2,10,2
 0021700327,2017-12-02,DAL,LAC,3.67,1,8,20,LAC,LAC,reb,0,False,False,,Harrell REBOUND (Off:1 Def:1),10-2,10,2
 0021700327,2017-12-02,DAL,LAC,3.92,1,8,5,LAC,LAC,fg_miss,6,True,False,,MISS Williams 2' Driving Layup,10-2,10,2
-0021700327,2017-12-02,DAL,LAC,3.92,1,8,5,LAC,LAC,reb,0,False,False,,Clippers Rebound,10-2,10,2
 0021700327,2017-12-02,DAL,LAC,3.92,1,8,5,LAC,DAL,block,6,True,False,block,block,10-2,10,2
+0021700327,2017-12-02,DAL,LAC,3.92,1,8,5,LAC,LAC,reb,0,False,False,,Clippers Rebound,10-2,10,2
 0021700327,2017-12-02,DAL,LAC,4.05,1,7,57,LAC,LAC,fg_make,79,False,False,,W. Johnson 20' Pullup Jump Shot (2 PTS),10-4,10,4
 0021700327,2017-12-02,DAL,LAC,4.4,1,7,36,DAL,DAL,fg3_miss,79,False,False,MISS Smith Jr. 26' 3PT Pullup Jump Shot,,10-4,10,4
 0021700327,2017-12-02,DAL,LAC,4.47,1,7,32,LAC,LAC,reb,0,False,False,,Jordan REBOUND (Off:0 Def:2),10-4,10,4
@@ -64,9 +64,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700327,2017-12-02,DAL,LAC,6.28,1,5,43,LAC,LAC,fg_miss,79,False,False,,MISS Williams 16' Pullup Jump Shot,12-8,12,8
 0021700327,2017-12-02,DAL,LAC,6.33,1,5,40,DAL,DAL,reb,0,False,False,Barnes REBOUND (Off:1 Def:2),,12-8,12,8
 0021700327,2017-12-02,DAL,LAC,6.37,1,5,38,DAL,LAC,foul,2,False,False,,Dekker S.FOUL (P1.T3) (K.Fitzgerald),12-8,12,8
+0021700327,2017-12-02,DAL,LAC,6.37,1,5,38,LAC,DAL,ft_make,11,False,False,Kleber Free Throw 1 of 2 (1 PTS),,13-8,13,8
 0021700327,2017-12-02,DAL,LAC,6.37,1,5,38,DAL,DAL,ft_miss,12,False,False,MISS Kleber Free Throw 2 of 2,,12-8,12,8
 0021700327,2017-12-02,DAL,LAC,6.37,1,5,38,LAC,LAC,reb,0,False,False,,Jordan REBOUND (Off:2 Def:4),12-8,12,8
-0021700327,2017-12-02,DAL,LAC,6.37,1,5,38,LAC,DAL,ft_make,11,False,False,Kleber Free Throw 1 of 2 (1 PTS),,13-8,13,8
 0021700327,2017-12-02,DAL,LAC,6.67,1,5,20,LAC,LAC,tov,15,False,False,,Dekker Offensive Goaltending Turnover (P1.T3),13-8,13,8
 0021700327,2017-12-02,DAL,LAC,6.83,1,5,10,DAL,LAC,foul,1,False,False,,W. Johnson P.FOUL (P1.T4) (T.Brown),13-8,13,8
 0021700327,2017-12-02,DAL,LAC,7.08,1,4,55,DAL,DAL,fg_miss,1,False,False,MISS Barnes 23' Jump Shot,,13-8,13,8
@@ -90,8 +90,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700327,2017-12-02,DAL,LAC,8.73,1,3,16,DAL,DAL,reb,0,False,False,Barea REBOUND (Off:0 Def:1),,13-12,13,12
 0021700327,2017-12-02,DAL,LAC,8.8,1,3,12,DAL,LAC,foul,2,False,False,,W. Johnson S.FOUL (P2.PN) (T.Brown),13-12,13,12
 0021700327,2017-12-02,DAL,LAC,8.8,1,3,12,DAL,DAL,ft_make,11,False,False,Harris Free Throw 1 of 2 (1 PTS),,14-12,14,12
-0021700327,2017-12-02,DAL,LAC,8.8,1,3,12,DAL,DAL,ft_make,12,False,False,Harris Free Throw 2 of 2 (2 PTS),,15-12,15,12
 0021700327,2017-12-02,DAL,LAC,8.8,1,3,12,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.1 Short 0),15-12,15,12
+0021700327,2017-12-02,DAL,LAC,8.8,1,3,12,DAL,DAL,ft_make,12,False,False,Harris Free Throw 2 of 2 (2 PTS),,15-12,15,12
 0021700327,2017-12-02,DAL,LAC,9.08,1,2,55,LAC,LAC,fg_miss,78,False,False,,MISS Rivers 7' Floating Jump Shot,15-12,15,12
 0021700327,2017-12-02,DAL,LAC,9.12,1,2,53,DAL,DAL,reb,0,False,False,Harris REBOUND (Off:0 Def:1),,15-12,15,12
 0021700327,2017-12-02,DAL,LAC,9.33,1,2,40,DAL,DAL,fg_make,98,False,False,Powell 2' Cutting Layup Shot (2 PTS) (Barea 1 AST),,17-12,17,12
@@ -144,12 +144,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700327,2017-12-02,DAL,LAC,15.35,2,8,39,DAL,DAL,fg3_miss,1,False,False,MISS Harris 26' 3PT Jump Shot,,34-19,34,19
 0021700327,2017-12-02,DAL,LAC,15.35,2,8,39,DAL,DAL,reb,0,False,False,Powell REBOUND (Off:1 Def:0),,34-19,34,19
 0021700327,2017-12-02,DAL,LAC,15.47,2,8,32,DAL,DAL,fg_miss,6,True,False,MISS Barea 3' Driving Layup,,34-19,34,19
+0021700327,2017-12-02,DAL,LAC,15.47,2,8,32,DAL,LAC,block,6,True,False,block,block,34-19,34,19
 0021700327,2017-12-02,DAL,LAC,15.47,2,8,32,DAL,DAL,reb,0,False,False,Smith Jr. REBOUND (Off:1 Def:1),,34-19,34,19
 0021700327,2017-12-02,DAL,LAC,15.47,2,8,32,DAL,LAC,foul,2,False,False,,Williams S.FOUL (P1.T2) (A.Smith),34-19,34,19
 0021700327,2017-12-02,DAL,LAC,15.47,2,8,32,DAL,DAL,ft_miss,11,False,False,MISS Smith Jr. Free Throw 1 of 2,,34-19,34,19
 0021700327,2017-12-02,DAL,LAC,15.47,2,8,32,DAL,DAL,reb,1,False,False,MAVERICKS Rebound,,34-19,34,19
 0021700327,2017-12-02,DAL,LAC,15.47,2,8,32,DAL,DAL,ft_miss,12,False,False,MISS Smith Jr. Free Throw 2 of 2,,34-19,34,19
-0021700327,2017-12-02,DAL,LAC,15.47,2,8,32,DAL,LAC,block,6,True,False,block,block,34-19,34,19
 0021700327,2017-12-02,DAL,LAC,15.5,2,8,30,DAL,DAL,reb,0,False,False,Powell REBOUND (Off:2 Def:0),,34-19,34,19
 0021700327,2017-12-02,DAL,LAC,15.58,2,8,25,DAL,DAL,fg3_make,1,False,False,Nowitzki 27' 3PT Jump Shot (6 PTS) (Powell 1 AST),,37-19,37,19
 0021700327,2017-12-02,DAL,LAC,15.83,2,8,10,LAC,LAC,fg_miss,79,False,False,,MISS W. Johnson 16' Pullup Jump Shot,37-19,37,19
@@ -201,8 +201,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700327,2017-12-02,DAL,LAC,21.22,2,2,47,DAL,LAC,block,6,True,False,block,block,48-30,48,30
 0021700327,2017-12-02,DAL,LAC,21.25,2,2,45,LAC,LAC,reb,0,False,False,,Jordan REBOUND (Off:3 Def:6),48-30,48,30
 0021700327,2017-12-02,DAL,LAC,21.43,2,2,34,LAC,LAC,fg_miss,101,True,False,,MISS Rivers 13' Driving Floating Jump Shot,48-30,48,30
-0021700327,2017-12-02,DAL,LAC,21.43,2,2,34,LAC,LAC,reb,0,False,False,,Jordan REBOUND (Off:4 Def:6),48-30,48,30
 0021700327,2017-12-02,DAL,LAC,21.43,2,2,34,LAC,DAL,block,101,True,False,block,block,48-30,48,30
+0021700327,2017-12-02,DAL,LAC,21.43,2,2,34,LAC,LAC,reb,0,False,False,,Jordan REBOUND (Off:4 Def:6),48-30,48,30
 0021700327,2017-12-02,DAL,LAC,21.5,2,2,30,LAC,LAC,fg_make,72,False,False,,Jordan 1' Putback Layup (8 PTS),48-32,48,32
 0021700327,2017-12-02,DAL,LAC,21.5,2,2,30,DAL,DAL,timeout,1,False,False,MAVERICKS Timeout: Regular (Full 2 Short 0),,48-32,48,32
 0021700327,2017-12-02,DAL,LAC,21.82,2,2,11,DAL,DAL,fg3_make,1,False,False,Barnes 3PT Jump Shot (8 PTS) (Barea 6 AST),,51-32,51,32
@@ -273,8 +273,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700327,2017-12-02,DAL,LAC,28.78,3,7,13,DAL,DAL,timeout,1,False,False,MAVERICKS Timeout: Regular (Full 3 Short 0),,68-48,68,48
 0021700327,2017-12-02,DAL,LAC,28.95,3,7,3,DAL,DAL,fg3_make,1,False,False,Matthews 25' 3PT Jump Shot (10 PTS) (Smith Jr. 2 AST),,71-48,71,48
 0021700327,2017-12-02,DAL,LAC,29.3,3,6,42,LAC,LAC,fg_miss,75,True,False,,MISS Rivers 2' Driving Finger Roll Layup,71-48,71,48
-0021700327,2017-12-02,DAL,LAC,29.3,3,6,42,LAC,LAC,reb,0,False,False,,Clippers Rebound,71-48,71,48
 0021700327,2017-12-02,DAL,LAC,29.3,3,6,42,LAC,DAL,block,75,True,False,block,block,71-48,71,48
+0021700327,2017-12-02,DAL,LAC,29.3,3,6,42,LAC,LAC,reb,0,False,False,,Clippers Rebound,71-48,71,48
 0021700327,2017-12-02,DAL,LAC,29.33,3,6,40,LAC,LAC,fg3_make,1,False,False,,Wilson 26' 3PT Jump Shot (3 PTS) (Rivers 2 AST),71-51,71,51
 0021700327,2017-12-02,DAL,LAC,29.7,3,6,18,DAL,DAL,fg_make,6,False,False,Smith Jr. 1' Driving Layup (10 PTS),,73-51,73,51
 0021700327,2017-12-02,DAL,LAC,29.7,3,6,18,DAL,LAC,foul,2,False,False,,Wilson S.FOUL (P1.T3) (T.Brown),73-51,73,51
@@ -336,8 +336,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700327,2017-12-02,DAL,LAC,36.85,4,11,9,DAL,DAL,reb,0,False,False,Nowitzki REBOUND (Off:0 Def:3),,86-66,86,66
 0021700327,2017-12-02,DAL,LAC,36.97,4,11,2,DAL,DAL,tov,45,False,False,Barea Out of Bounds - Bad Pass Turnover Turnover (P3.T9),,86-66,86,66
 0021700327,2017-12-02,DAL,LAC,37.17,4,10,50,LAC,LAC,fg_miss,6,True,False,,MISS Rivers 2' Driving Layup,86-66,86,66
-0021700327,2017-12-02,DAL,LAC,37.17,4,10,50,LAC,LAC,reb,0,False,False,,Clippers Rebound,86-66,86,66
 0021700327,2017-12-02,DAL,LAC,37.17,4,10,50,LAC,DAL,block,6,True,False,block,block,86-66,86,66
+0021700327,2017-12-02,DAL,LAC,37.17,4,10,50,LAC,LAC,reb,0,False,False,,Clippers Rebound,86-66,86,66
 0021700327,2017-12-02,DAL,LAC,37.23,4,10,46,LAC,LAC,tov,45,False,False,,Williams Out of Bounds - Bad Pass Turnover Turnover (P1.T9),86-66,86,66
 0021700327,2017-12-02,DAL,LAC,37.4,4,10,36,DAL,DAL,fg3_make,79,False,False,Barea 26' 3PT Pullup Jump Shot (21 PTS),,89-66,89,66
 0021700327,2017-12-02,DAL,LAC,37.88,4,10,7,LAC,LAC,fg_miss,1,False,False,,MISS Dekker 20' Jump Shot,89-66,89,66

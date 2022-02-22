@@ -74,8 +74,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000732,2021-04-01,BKN,CHA,8.42,1,3,35,CHA,CHA,fg3_miss,80,False,False,,MISS Washington 24' 3PT Step Back Jump Shot,19-9,19,9
 0022000732,2021-04-01,BKN,CHA,8.47,1,3,32,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:0 Def:2),,19-9,19,9
 0022000732,2021-04-01,BKN,CHA,8.57,1,3,26,BKN,BKN,fg_miss,41,False,False,MISS Brown 1' Running Layup,,19-9,19,9
-0022000732,2021-04-01,BKN,CHA,8.62,1,3,23,BKN,BKN,fg_make,97,False,False,Irving Tip Layup Shot (4 PTS),,21-9,21,9
 0022000732,2021-04-01,BKN,CHA,8.62,1,3,23,BKN,BKN,reb,0,False,False,Irving REBOUND (Off:2 Def:1),,21-9,21,9
+0022000732,2021-04-01,BKN,CHA,8.62,1,3,23,BKN,BKN,fg_make,97,False,False,Irving Tip Layup Shot (4 PTS),,21-9,21,9
 0022000732,2021-04-01,BKN,CHA,8.85,1,3,9,CHA,CHA,fg3_miss,79,False,False,,MISS Hayward 25' 3PT Pullup Jump Shot,21-9,21,9
 0022000732,2021-04-01,BKN,CHA,8.9,1,3,6,BKN,BKN,reb,0,False,False,Aldridge REBOUND (Off:0 Def:4),,21-9,21,9
 0022000732,2021-04-01,BKN,CHA,9.0,1,3,0,BKN,BKN,fg3_make,1,False,False,Shamet 26' 3PT Jump Shot (3 PTS) (Irving 4 AST),,24-9,24,9
@@ -154,9 +154,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000732,2021-04-01,BKN,CHA,18.77,2,5,14,CHA,CHA,fg_make,79,False,False,,Graham 16' Pullup Jump Shot (10 PTS),52-26,52,26
 0022000732,2021-04-01,BKN,CHA,18.97,2,5,2,BKN,BKN,fg_make,101,False,False,Irving 8' Driving Floating Jump Shot (6 PTS),,54-26,54,26
 0022000732,2021-04-01,BKN,CHA,19.2,2,4,48,CHA,CHA,fg_miss,6,True,False,,MISS Washington 7' Driving Layup,54-26,54,26
+0022000732,2021-04-01,BKN,CHA,19.2,2,4,48,CHA,BKN,block,6,True,False,block,block,54-26,54,26
 0022000732,2021-04-01,BKN,CHA,19.2,2,4,48,CHA,CHA,reb,0,False,False,,Hornets Rebound,54-26,54,26
 0022000732,2021-04-01,BKN,CHA,19.2,2,4,48,CHA,BKN,foul,3,False,False,Irving L.B.FOUL (P2.T3) (B.Forte),,54-26,54,26
-0022000732,2021-04-01,BKN,CHA,19.2,2,4,48,CHA,BKN,block,6,True,False,block,block,54-26,54,26
 0022000732,2021-04-01,BKN,CHA,19.37,2,4,38,CHA,CHA,fg3_make,1,False,False,,Monk 25' 3PT Jump Shot (6 PTS) (Bridges 2 AST),54-29,54,29
 0022000732,2021-04-01,BKN,CHA,19.72,2,4,17,BKN,BKN,fg_miss,47,False,False,MISS Aldridge 11' Turnaround Jump Shot,,54-29,54,29
 0022000732,2021-04-01,BKN,CHA,19.77,2,4,14,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:1 Def:2),,54-29,54,29
@@ -198,10 +198,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000732,2021-04-01,BKN,CHA,23.97,2,0,2,BKN,BKN,tov,1,False,True,Irving Bad Pass Turnover (P2.T4),,68-48,68,48
 0022000732,2021-04-01,BKN,CHA,23.97,2,0,2,BKN,CHA,steal,1,False,True,steal,steal,68-48,68,48
 0022000732,2021-04-01,BKN,CHA,24.0,2,0,0,CHA,CHA,tov,1,False,True,,Washington Bad Pass Turnover (P1.T6),68-48,68,48
-0022000732,2021-04-01,BKN,CHA,24.0,2,0,0,BKN,BKN,tov,40,False,False,Green Out of Bounds Lost Ball Turnover (P1.T5),,68-48,68,48
-0022000732,2021-04-01,BKN,CHA,24.0,2,0,0,BKN,,period_end,0,False,False,,,68-48,68,48
-0022000732,2021-04-01,BKN,CHA,24.0,3,12,0,BKN,,period_start,0,False,False,,,68-48,68,48
 0022000732,2021-04-01,BKN,CHA,24.0,2,0,0,CHA,BKN,steal,1,False,True,steal,steal,68-48,68,48
+0022000732,2021-04-01,BKN,CHA,24.0,2,0,0,BKN,,period_end,0,False,False,,,68-48,68,48
+0022000732,2021-04-01,BKN,CHA,24.0,2,0,0,BKN,BKN,tov,40,False,False,Green Out of Bounds Lost Ball Turnover (P1.T5),,68-48,68,48
+0022000732,2021-04-01,BKN,CHA,24.0,3,12,0,BKN,,period_start,0,False,False,,,68-48,68,48
 0022000732,2021-04-01,BKN,CHA,24.28,3,11,43,BKN,BKN,fg3_miss,1,False,False,MISS Irving 26' 3PT Jump Shot,,68-48,68,48
 0022000732,2021-04-01,BKN,CHA,24.35,3,11,39,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:0 Def:6),68-48,68,48
 0022000732,2021-04-01,BKN,CHA,24.48,3,11,31,CHA,CHA,fg3_miss,1,False,False,,MISS Hayward 26' 3PT Jump Shot,68-48,68,48
@@ -277,9 +277,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000732,2021-04-01,BKN,CHA,32.93,3,3,4,BKN,CHA,block,98,True,False,block,block,87-59,87,59
 0022000732,2021-04-01,BKN,CHA,32.98,3,3,1,CHA,CHA,reb,0,False,False,,Rozier REBOUND (Off:0 Def:5),87-59,87,59
 0022000732,2021-04-01,BKN,CHA,33.03,3,2,58,CHA,CHA,tov,1,False,True,,Monk Bad Pass Turnover (P1.T10),87-59,87,59
+0022000732,2021-04-01,BKN,CHA,33.03,3,2,58,CHA,BKN,steal,1,False,True,steal,steal,87-59,87,59
 0022000732,2021-04-01,BKN,CHA,33.03,3,2,58,BKN,CHA,foul,1,False,False,,Hayward P.FOUL (P1.T1) (B.Forte),87-59,87,59
 0022000732,2021-04-01,BKN,CHA,33.03,3,2,58,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 3 Short 0),,87-59,87,59
-0022000732,2021-04-01,BKN,CHA,33.03,3,2,58,CHA,BKN,steal,1,False,True,steal,steal,87-59,87,59
 0022000732,2021-04-01,BKN,CHA,33.4,3,2,36,BKN,BKN,fg_miss,79,False,False,MISS Shamet 22' Pullup Jump Shot,,87-59,87,59
 0022000732,2021-04-01,BKN,CHA,33.43,3,2,34,CHA,CHA,reb,0,False,False,,Monk REBOUND (Off:0 Def:2),87-59,87,59
 0022000732,2021-04-01,BKN,CHA,33.47,3,2,32,CHA,BKN,foul,2,False,False,Shamet S.FOUL (P2.T3) (R.Mott),,87-59,87,59
@@ -369,8 +369,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000732,2021-04-01,BKN,CHA,43.57,4,4,26,BKN,BKN,fg3_make,1,False,False,Shamet 25' 3PT Jump Shot (17 PTS) (Irving 8 AST),,103-82,103,82
 0022000732,2021-04-01,BKN,CHA,43.75,4,4,15,CHA,BKN,foul,1,False,False,Green P.FOUL (P1.T3) (M.Myers),,103-82,103,82
 0022000732,2021-04-01,BKN,CHA,43.98,4,4,1,CHA,CHA,fg_miss,6,True,False,,MISS Martin 3' Driving Layup,103-82,103,82
-0022000732,2021-04-01,BKN,CHA,43.98,4,4,1,BKN,BKN,reb,0,False,False,NETS Rebound,,103-82,103,82
 0022000732,2021-04-01,BKN,CHA,43.98,4,4,1,CHA,BKN,block,6,True,False,block,block,103-82,103,82
+0022000732,2021-04-01,BKN,CHA,43.98,4,4,1,BKN,BKN,reb,0,False,False,NETS Rebound,,103-82,103,82
 0022000732,2021-04-01,BKN,CHA,44.35,4,3,39,BKN,BKN,fg_make,58,False,False,Perry 12' Turnaround Hook Shot (2 PTS),,105-82,105,82
 0022000732,2021-04-01,BKN,CHA,44.52,4,3,29,CHA,CHA,fg_make,6,False,False,,McDaniels 2' Driving Layup (2 PTS),105-84,105,84
 0022000732,2021-04-01,BKN,CHA,44.7,4,3,18,BKN,BKN,tov,1,False,True,Chiozza Bad Pass Turnover (P1.T13),,105-84,105,84

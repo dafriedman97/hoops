@@ -54,8 +54,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900528,2020-01-04,WAS,DEN,5.57,1,6,26,WAS,WAS,fg_miss,80,False,False,MISS McRae 14' Step Back Jump Shot,,7-11,7,11
 0021900528,2020-01-04,WAS,DEN,5.65,1,6,21,WAS,WAS,reb,0,False,False,McRae REBOUND (Off:1 Def:1),,7-11,7,11
 0021900528,2020-01-04,WAS,DEN,5.7,1,6,18,WAS,WAS,fg_miss,101,False,False,MISS Thomas 6' Driving Floating Jump Shot,,7-11,7,11
-0021900528,2020-01-04,WAS,DEN,5.73,1,6,16,WAS,WAS,reb,0,False,False,Williams REBOUND (Off:1 Def:1),,7-11,7,11
 0021900528,2020-01-04,WAS,DEN,5.73,1,6,16,WAS,WAS,fg_make,107,False,False,Williams 1' Tip Dunk Shot (2 PTS),,9-11,9,11
+0021900528,2020-01-04,WAS,DEN,5.73,1,6,16,WAS,WAS,reb,0,False,False,Williams REBOUND (Off:1 Def:1),,7-11,7,11
 0021900528,2020-01-04,WAS,DEN,5.92,1,6,5,DEN,DEN,fg3_miss,1,False,False,,MISS Harris 25' 3PT Jump Shot,9-11,9,11
 0021900528,2020-01-04,WAS,DEN,6.0,1,6,0,WAS,WAS,reb,0,False,False,Williams REBOUND (Off:1 Def:2),,9-11,9,11
 0021900528,2020-01-04,WAS,DEN,6.07,1,5,56,WAS,WAS,fg_miss,101,False,False,MISS Thomas 12' Driving Floating Jump Shot,,9-11,9,11
@@ -75,8 +75,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900528,2020-01-04,WAS,DEN,6.88,1,5,7,WAS,DEN,foul,26,False,False,,Porter Jr. Offensive Charge Foul (P1.T3) (S.Wright),9-13,9,13
 0021900528,2020-01-04,WAS,DEN,6.88,1,5,7,DEN,DEN,tov,37,False,False,,Porter Jr. Offensive Foul Turnover (P1.T1),9-13,9,13
 0021900528,2020-01-04,WAS,DEN,7.1,1,4,54,WAS,WAS,fg_miss,6,False,False,MISS McRae 5' Driving Layup,,9-13,9,13
-0021900528,2020-01-04,WAS,DEN,7.22,1,4,47,WAS,WAS,fg_make,107,False,False,Pasecniks 1' Tip Dunk Shot (2 PTS),,11-13,11,13
 0021900528,2020-01-04,WAS,DEN,7.22,1,4,47,WAS,WAS,reb,0,False,False,Pasecniks REBOUND (Off:1 Def:1),,11-13,11,13
+0021900528,2020-01-04,WAS,DEN,7.22,1,4,47,WAS,WAS,fg_make,107,False,False,Pasecniks 1' Tip Dunk Shot (2 PTS),,11-13,11,13
 0021900528,2020-01-04,WAS,DEN,7.32,1,4,41,DEN,DEN,fg3_miss,79,False,False,,MISS Murray 25' 3PT Pullup Jump Shot,11-13,11,13
 0021900528,2020-01-04,WAS,DEN,7.38,1,4,37,WAS,WAS,reb,0,False,False,Pasecniks REBOUND (Off:1 Def:2),,11-13,11,13
 0021900528,2020-01-04,WAS,DEN,7.6,1,4,24,WAS,WAS,fg_make,6,False,False,Brown Jr. 10' Driving Layup (2 PTS) (Thomas 1 AST),,13-13,13,13
@@ -200,8 +200,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900528,2020-01-04,WAS,DEN,20.22,2,3,47,WAS,WAS,fg_miss,63,False,False,MISS Mahinmi 15' Fadeaway Jumper,,57-45,57,45
 0021900528,2020-01-04,WAS,DEN,20.27,2,3,44,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:1 Def:4),57-45,57,45
 0021900528,2020-01-04,WAS,DEN,20.3,2,3,42,DEN,DEN,fg_miss,6,True,False,,MISS Harris 6' Driving Layup,57-45,57,45
-0021900528,2020-01-04,WAS,DEN,20.3,2,3,42,DEN,DEN,reb,0,False,False,,Nuggets Rebound,57-45,57,45
 0021900528,2020-01-04,WAS,DEN,20.3,2,3,42,DEN,WAS,block,6,True,False,block,block,57-45,57,45
+0021900528,2020-01-04,WAS,DEN,20.3,2,3,42,DEN,DEN,reb,0,False,False,,Nuggets Rebound,57-45,57,45
 0021900528,2020-01-04,WAS,DEN,20.55,2,3,27,DEN,DEN,fg_make,78,False,False,,Jokic 8' Floating Jump Shot (11 PTS) (Barton 1 AST),57-47,57,47
 0021900528,2020-01-04,WAS,DEN,20.8,2,3,12,WAS,WAS,tov,1,False,True,Thomas Bad Pass Turnover (P1.T6),,57-47,57,47
 0021900528,2020-01-04,WAS,DEN,20.8,2,3,12,WAS,DEN,steal,1,False,True,steal,steal,57-47,57,47
@@ -293,8 +293,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900528,2020-01-04,WAS,DEN,29.92,3,6,5,DEN,DEN,fg3_miss,1,False,False,,MISS Barton 26' 3PT Jump Shot,72-72,72,72
 0021900528,2020-01-04,WAS,DEN,30.0,3,6,0,DEN,DEN,reb,0,False,False,,Barton REBOUND (Off:1 Def:1),72-72,72,72
 0021900528,2020-01-04,WAS,DEN,30.05,3,5,57,DEN,DEN,fg_miss,5,True,False,,MISS Barton 2' Layup,72-72,72,72
-0021900528,2020-01-04,WAS,DEN,30.05,3,5,57,WAS,WAS,reb,0,False,False,Williams REBOUND (Off:1 Def:4),,72-72,72,72
 0021900528,2020-01-04,WAS,DEN,30.05,3,5,57,DEN,WAS,block,5,True,False,block,block,72-72,72,72
+0021900528,2020-01-04,WAS,DEN,30.05,3,5,57,WAS,WAS,reb,0,False,False,Williams REBOUND (Off:1 Def:4),,72-72,72,72
 0021900528,2020-01-04,WAS,DEN,30.22,3,5,47,WAS,WAS,fg_make,79,False,False,Smith 14' Pullup Jump Shot (13 PTS),,74-72,74,72
 0021900528,2020-01-04,WAS,DEN,30.45,3,5,33,DEN,WAS,foul,2,False,False,Williams S.FOUL (P1.PN) (J.Schroeder),,74-72,74,72
 0021900528,2020-01-04,WAS,DEN,30.45,3,5,33,DEN,DEN,ft_make,11,False,False,,Murray Free Throw 1 of 2 (23 PTS),74-73,74,73
@@ -425,8 +425,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900528,2020-01-04,WAS,DEN,44.32,4,3,41,DEN,WAS,block,47,True,False,block,block,118-105,118,105
 0021900528,2020-01-04,WAS,DEN,44.42,4,3,35,WAS,WAS,reb,0,False,False,Brown Jr. REBOUND (Off:2 Def:11),,118-105,118,105
 0021900528,2020-01-04,WAS,DEN,44.63,4,3,22,WAS,WAS,fg_make,6,False,False,Bonga 2' Driving Layup (13 PTS),,120-105,120,105
-0021900528,2020-01-04,WAS,DEN,44.9,4,3,6,DEN,DEN,tov,2,False,True,,Jokic Lost Ball Turnover (P2.T12),120-105,120,105
 0021900528,2020-01-04,WAS,DEN,44.9,4,3,6,WAS,WAS,timeout,1,False,False,WIZARDS Timeout: Regular (Full 5 Short 0),,120-105,120,105
+0021900528,2020-01-04,WAS,DEN,44.9,4,3,6,DEN,DEN,tov,2,False,True,,Jokic Lost Ball Turnover (P2.T12),120-105,120,105
 0021900528,2020-01-04,WAS,DEN,44.9,4,3,6,DEN,WAS,steal,2,False,True,steal,steal,120-105,120,105
 0021900528,2020-01-04,WAS,DEN,45.2,4,2,48,WAS,WAS,fg_miss,79,False,False,MISS Smith 18' Pullup Jump Shot,,120-105,120,105
 0021900528,2020-01-04,WAS,DEN,45.3,4,2,42,WAS,WAS,reb,0,False,False,Williams REBOUND (Off:2 Def:5),,120-105,120,105

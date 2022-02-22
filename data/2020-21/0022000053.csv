@@ -3,8 +3,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000053,2020-12-29,PHX,NOP,0.0,1,12,0,,PHX,jump_ball,0,False,False,Jump Ball Ayton vs. Adams: Tip to Ball,,0-0,0,0
 0022000053,2020-12-29,PHX,NOP,0.35,1,11,39,NOP,NOP,fg_make,66,False,False,,Adams 4' Jump Bank Shot (2 PTS),0-2,0,2
 0022000053,2020-12-29,PHX,NOP,0.6,1,11,24,PHX,PHX,fg_miss,98,True,False,MISS Ayton 2' Cutting Layup Shot,,0-2,0,2
-0022000053,2020-12-29,PHX,NOP,0.6,1,11,24,NOP,NOP,reb,0,False,False,,Adams REBOUND (Off:0 Def:1),0-2,0,2
 0022000053,2020-12-29,PHX,NOP,0.6,1,11,24,PHX,NOP,block,98,True,False,block,block,0-2,0,2
+0022000053,2020-12-29,PHX,NOP,0.6,1,11,24,NOP,NOP,reb,0,False,False,,Adams REBOUND (Off:0 Def:1),0-2,0,2
 0022000053,2020-12-29,PHX,NOP,0.73,1,11,16,NOP,PHX,foul,1,False,False,Bridges P.FOUL (P1.T1) (M.Ayotte),,0-2,0,2
 0022000053,2020-12-29,PHX,NOP,0.77,1,11,14,NOP,NOP,fg3_miss,1,False,False,,MISS Ball 26' 3PT Jump Shot,0-2,0,2
 0022000053,2020-12-29,PHX,NOP,0.83,1,11,10,NOP,NOP,reb,0,False,False,,Williamson REBOUND (Off:1 Def:0),0-2,0,2
@@ -178,9 +178,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000053,2020-12-29,PHX,NOP,22.87,2,1,8,NOP,NOP,reb,0,False,False,,Adams REBOUND (Off:1 Def:1),62-40,62,40
 0022000053,2020-12-29,PHX,NOP,22.87,2,1,8,NOP,NOP,fg_make,72,False,False,,Adams Putback Layup (8 PTS),62-42,62,42
 0022000053,2020-12-29,PHX,NOP,22.97,2,1,2,PHX,NOP,foul,2,False,False,,Alexander-Walker S.FOUL (P3.PN) (M.Ayotte),62-42,62,42
+0022000053,2020-12-29,PHX,NOP,22.97,2,1,2,PHX,PHX,timeout,7,False,False,SUNS Timeout: Coach Challenge (Full 2 Short 0),,64-42,64,42
 0022000053,2020-12-29,PHX,NOP,22.97,2,1,2,PHX,PHX,ft_make,11,False,False,Bridges Free Throw 1 of 2 (10 PTS),,63-42,63,42
 0022000053,2020-12-29,PHX,NOP,22.97,2,1,2,PHX,PHX,ft_make,12,False,False,Bridges Free Throw 2 of 2 (11 PTS),,64-42,64,42
-0022000053,2020-12-29,PHX,NOP,22.97,2,1,2,PHX,PHX,timeout,7,False,False,SUNS Timeout: Coach Challenge (Full 2 Short 0),,64-42,64,42
 0022000053,2020-12-29,PHX,NOP,23.17,2,0,50,NOP,NOP,fg_miss,101,False,False,,MISS Ball 3' Driving Floating Jump Shot,64-42,64,42
 0022000053,2020-12-29,PHX,NOP,23.2,2,0,48,NOP,NOP,reb,0,False,False,,Adams REBOUND (Off:2 Def:1),64-42,64,42
 0022000053,2020-12-29,PHX,NOP,23.2,2,0,48,NOP,NOP,fg_make,72,False,False,,Adams 1' Putback Layup (10 PTS),64-44,64,44
@@ -194,10 +194,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000053,2020-12-29,PHX,NOP,23.93,2,0,4,PHX,PHX,fg3_miss,1,False,False,MISS Johnson 27' 3PT Jump Shot,,66-44,66,44
 0022000053,2020-12-29,PHX,NOP,23.98,2,0,1,NOP,NOP,reb,0,False,False,,Ingram REBOUND (Off:0 Def:3),66-44,66,44
 0022000053,2020-12-29,PHX,NOP,24.0,2,0,0,NOP,NOP,fg3_miss,1,True,False,,MISS Ball 31' 3PT Jump Shot,66-44,66,44
+0022000053,2020-12-29,PHX,NOP,24.0,2,0,0,NOP,PHX,block,1,True,False,block,block,66-44,66,44
 0022000053,2020-12-29,PHX,NOP,24.0,2,0,0,NOP,NOP,reb,0,False,False,,Pelicans Rebound,66-44,66,44
 0022000053,2020-12-29,PHX,NOP,24.0,2,0,0,NOP,,period_end,0,False,False,,,66-44,66,44
 0022000053,2020-12-29,PHX,NOP,24.0,3,12,0,NOP,,period_start,0,False,False,,,66-44,66,44
-0022000053,2020-12-29,PHX,NOP,24.0,2,0,0,NOP,PHX,block,1,True,False,block,block,66-44,66,44
 0022000053,2020-12-29,PHX,NOP,24.25,3,11,45,PHX,PHX,fg3_miss,79,False,False,MISS Crowder 3PT Pullup Jump Shot,,66-44,66,44
 0022000053,2020-12-29,PHX,NOP,24.32,3,11,41,PHX,PHX,reb,0,False,False,Bridges REBOUND (Off:1 Def:1),,66-44,66,44
 0022000053,2020-12-29,PHX,NOP,24.38,3,11,37,PHX,PHX,fg3_miss,1,False,False,MISS Crowder 25' 3PT Jump Shot,,66-44,66,44
@@ -360,8 +360,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000053,2020-12-29,PHX,NOP,44.1,4,3,54,PHX,PHX,reb,1,False,False,SUNS Rebound,,108-78,108,78
 0022000053,2020-12-29,PHX,NOP,44.1,4,3,54,PHX,PHX,ft_make,12,False,False,Kaminsky Free Throw 2 of 2 (1 PTS),,109-78,109,78
 0022000053,2020-12-29,PHX,NOP,44.3,4,3,42,NOP,NOP,fg_miss,6,True,False,,MISS Lewis Jr. 3' Driving Layup,109-78,109,78
-0022000053,2020-12-29,PHX,NOP,44.3,4,3,42,NOP,NOP,reb,0,False,False,,Pelicans Rebound,109-78,109,78
 0022000053,2020-12-29,PHX,NOP,44.3,4,3,42,NOP,PHX,block,6,True,False,block,block,109-78,109,78
+0022000053,2020-12-29,PHX,NOP,44.3,4,3,42,NOP,NOP,reb,0,False,False,,Pelicans Rebound,109-78,109,78
 0022000053,2020-12-29,PHX,NOP,44.42,4,3,35,NOP,NOP,fg3_make,1,False,False,,Melli 27' 3PT Jump Shot (5 PTS) (Lewis Jr. 1 AST),109-81,109,81
 0022000053,2020-12-29,PHX,NOP,44.85,4,3,9,PHX,PHX,fg_miss,1,False,False,MISS Carter 22' Jump Shot,,109-81,109,81
 0022000053,2020-12-29,PHX,NOP,44.9,4,3,6,PHX,PHX,reb,0,False,False,Jones REBOUND (Off:1 Def:0),,109-81,109,81

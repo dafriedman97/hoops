@@ -38,8 +38,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900565,2020-01-09,MIN,POR,3.88,1,8,7,POR,POR,reb,0,False,False,,Trail Blazers Rebound,10-5,10,5
 0021900565,2020-01-09,MIN,POR,4.0,1,8,0,POR,POR,fg3_make,1,False,False,,Whiteside 26' 3PT Jump Shot (3 PTS) (Lillard 2 AST),10-8,10,8
 0021900565,2020-01-09,MIN,POR,4.28,1,7,43,MIN,MIN,fg_miss,47,False,False,MISS Wiggins 14' Turnaround Jump Shot,,10-8,10,8
-0021900565,2020-01-09,MIN,POR,4.32,1,7,41,MIN,MIN,fg_miss,97,False,False,MISS Dieng 2' Tip Layup Shot,,10-8,10,8
 0021900565,2020-01-09,MIN,POR,4.32,1,7,41,MIN,MIN,reb,0,False,False,Dieng REBOUND (Off:2 Def:2),,10-8,10,8
+0021900565,2020-01-09,MIN,POR,4.32,1,7,41,MIN,MIN,fg_miss,97,False,False,MISS Dieng 2' Tip Layup Shot,,10-8,10,8
 0021900565,2020-01-09,MIN,POR,4.33,1,7,40,MIN,MIN,reb,0,False,False,Dieng REBOUND (Off:2 Def:2),,10-8,10,8
 0021900565,2020-01-09,MIN,POR,4.35,1,7,39,MIN,MIN,fg_miss,72,True,False,MISS Dieng 1' Putback Layup,,10-8,10,8
 0021900565,2020-01-09,MIN,POR,4.35,1,7,39,MIN,POR,block,72,True,False,block,block,10-8,10,8
@@ -116,9 +116,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900565,2020-01-09,MIN,POR,10.22,1,1,47,MIN,MIN,tov,2,False,True,Vonleh Lost Ball Turnover (P1.T2),,21-29,21,29
 0021900565,2020-01-09,MIN,POR,10.22,1,1,47,MIN,POR,steal,2,False,True,steal,steal,21-29,21,29
 0021900565,2020-01-09,MIN,POR,10.32,1,1,41,POR,POR,fg_miss,41,True,False,,MISS Hezonja 4' Running Layup,21-29,21,29
+0021900565,2020-01-09,MIN,POR,10.32,1,1,41,POR,MIN,block,41,True,False,block,block,21-29,21,29
 0021900565,2020-01-09,MIN,POR,10.32,1,1,41,MIN,MIN,reb,0,False,False,Bates-Diop REBOUND (Off:0 Def:1),,21-29,21,29
 0021900565,2020-01-09,MIN,POR,10.32,1,1,41,MIN,POR,foul,1,False,False,,Trent Jr. P.FOUL (P1.T4) (B.Taylor),21-29,21,29
-0021900565,2020-01-09,MIN,POR,10.32,1,1,41,POR,MIN,block,41,True,False,block,block,21-29,21,29
 0021900565,2020-01-09,MIN,POR,10.57,1,1,26,MIN,MIN,fg_make,6,False,False,Teague 1' Driving Layup (4 PTS),,23-29,23,29
 0021900565,2020-01-09,MIN,POR,10.98,1,1,1,POR,POR,fg_make,47,False,False,,Anthony 13' Turnaround Jump Shot (6 PTS),23-31,23,31
 0021900565,2020-01-09,MIN,POR,11.38,1,0,37,MIN,MIN,fg3_make,1,False,False,Okogie 25' 3PT Jump Shot (6 PTS) (Teague 1 AST),,26-31,26,31
@@ -301,8 +301,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900565,2020-01-09,MIN,POR,32.17,3,3,50,POR,POR,fg_make,1,False,False,,Whiteside 15' Jump Shot (8 PTS) (Lillard 6 AST),88-63,88,63
 0021900565,2020-01-09,MIN,POR,32.4,3,3,36,MIN,MIN,fg_make,79,False,False,Wiggins 18' Pullup Jump Shot (23 PTS),,90-63,90,63
 0021900565,2020-01-09,MIN,POR,32.6,3,3,24,POR,POR,fg_miss,6,True,False,,MISS Lillard 3' Driving Layup,90-63,90,63
-0021900565,2020-01-09,MIN,POR,32.6,3,3,24,POR,POR,reb,0,False,False,,Trail Blazers Rebound,90-63,90,63
 0021900565,2020-01-09,MIN,POR,32.6,3,3,24,POR,MIN,block,6,True,False,block,block,90-63,90,63
+0021900565,2020-01-09,MIN,POR,32.6,3,3,24,POR,POR,reb,0,False,False,,Trail Blazers Rebound,90-63,90,63
 0021900565,2020-01-09,MIN,POR,32.65,3,3,21,POR,POR,fg_make,1,False,False,,Whiteside 19' Jump Shot (10 PTS) (Lillard 7 AST),90-65,90,65
 0021900565,2020-01-09,MIN,POR,32.88,3,3,7,MIN,MIN,tov,1,False,True,Wiggins Bad Pass Turnover (P1.T5),,90-65,90,65
 0021900565,2020-01-09,MIN,POR,32.88,3,3,7,MIN,POR,steal,1,False,True,steal,steal,90-65,90,65
@@ -352,16 +352,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900565,2020-01-09,MIN,POR,35.57,3,0,26,POR,POR,ft_miss,12,False,False,,MISS Simons Free Throw 2 of 2,100-74,100,74
 0021900565,2020-01-09,MIN,POR,35.6,3,0,24,MIN,MIN,reb,0,False,False,Vonleh REBOUND (Off:3 Def:3),,100-74,100,74
 0021900565,2020-01-09,MIN,POR,35.9,3,0,6,MIN,MIN,fg3_miss,1,False,False,MISS Covington 26' 3PT Jump Shot,,100-74,100,74
-0021900565,2020-01-09,MIN,POR,35.97,3,0,2,POR,POR,reb,0,False,False,,Trail Blazers Rebound,100-74,100,74
 0021900565,2020-01-09,MIN,POR,35.97,3,0,2,,MIN,jump_ball,0,False,False,Jump Ball Okogie vs. Whiteside: Tip to Lillard,,100-74,100,74
+0021900565,2020-01-09,MIN,POR,35.97,3,0,2,POR,POR,reb,0,False,False,,Trail Blazers Rebound,100-74,100,74
 0021900565,2020-01-09,MIN,POR,36.0,3,0,0,POR,POR,fg_miss,6,True,False,,MISS Simons 2' Driving Layup,100-74,100,74
+0021900565,2020-01-09,MIN,POR,36.0,3,0,0,POR,MIN,block,6,True,False,block,block,100-74,100,74
 0021900565,2020-01-09,MIN,POR,36.0,3,0,0,POR,POR,reb,0,False,False,,Trail Blazers Rebound,100-74,100,74
 0021900565,2020-01-09,MIN,POR,36.0,3,0,0,POR,,period_end,0,False,False,,,100-74,100,74
 0021900565,2020-01-09,MIN,POR,36.0,4,12,0,POR,,period_start,0,False,False,,,100-74,100,74
-0021900565,2020-01-09,MIN,POR,36.0,3,0,0,POR,MIN,block,6,True,False,block,block,100-74,100,74
 0021900565,2020-01-09,MIN,POR,36.23,4,11,46,POR,POR,fg_miss,5,True,False,,MISS Tolliver 2' Layup,100-74,100,74
-0021900565,2020-01-09,MIN,POR,36.23,4,11,46,POR,POR,reb,0,False,False,,Trail Blazers Rebound,100-74,100,74
 0021900565,2020-01-09,MIN,POR,36.23,4,11,46,POR,MIN,block,5,True,False,block,block,100-74,100,74
+0021900565,2020-01-09,MIN,POR,36.23,4,11,46,POR,POR,reb,0,False,False,,Trail Blazers Rebound,100-74,100,74
 0021900565,2020-01-09,MIN,POR,36.42,4,11,35,POR,POR,fg3_miss,1,False,False,,MISS Hoard 25' 3PT Jump Shot,100-74,100,74
 0021900565,2020-01-09,MIN,POR,36.47,4,11,32,POR,POR,reb,0,False,False,,Tolliver REBOUND (Off:1 Def:1),100-74,100,74
 0021900565,2020-01-09,MIN,POR,36.53,4,11,28,POR,POR,fg_miss,5,False,False,,MISS Bazemore 1' Layup,100-74,100,74

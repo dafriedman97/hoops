@@ -181,8 +181,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800302,2018-11-27,MIA,ATL,17.93,2,6,4,MIA,ATL,block,41,True,False,block,block,48-51,48,51
 0021800302,2018-11-27,MIA,ATL,18.0,2,6,0,ATL,ATL,reb,0,False,False,,Lin REBOUND (Off:0 Def:2),48-51,48,51
 0021800302,2018-11-27,MIA,ATL,18.27,2,5,44,ATL,ATL,tov,2,False,True,,Lin Lost Ball Turnover (P2.T10),48-51,48,51
-0021800302,2018-11-27,MIA,ATL,18.27,2,5,44,MIA,ATL,foul,1,False,False,,Prince P.FOUL (P2.T2) (T.Ford),48-51,48,51
 0021800302,2018-11-27,MIA,ATL,18.27,2,5,44,ATL,MIA,steal,2,False,True,steal,steal,48-51,48,51
+0021800302,2018-11-27,MIA,ATL,18.27,2,5,44,MIA,ATL,foul,1,False,False,,Prince P.FOUL (P2.T2) (T.Ford),48-51,48,51
 0021800302,2018-11-27,MIA,ATL,18.48,2,5,31,MIA,MIA,fg3_miss,1,False,False,MISS Ellington 3PT Jump Shot,,48-51,48,51
 0021800302,2018-11-27,MIA,ATL,18.58,2,5,25,ATL,ATL,reb,0,False,False,,Dedmon REBOUND (Off:0 Def:2),48-51,48,51
 0021800302,2018-11-27,MIA,ATL,18.83,2,5,10,ATL,ATL,fg3_miss,1,False,False,,MISS Bazemore 24' 3PT Jump Shot,48-51,48,51
@@ -228,9 +228,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800302,2018-11-27,MIA,ATL,22.88,2,1,7,MIA,ATL,block,41,True,False,block,block,52-61,52,61
 0021800302,2018-11-27,MIA,ATL,22.95,2,1,3,ATL,ATL,reb,0,False,False,,Lin REBOUND (Off:0 Def:3),52-61,52,61
 0021800302,2018-11-27,MIA,ATL,22.98,2,1,1,ATL,ATL,fg_miss,98,True,False,,MISS Anderson 1' Cutting Layup Shot,52-61,52,61
+0021800302,2018-11-27,MIA,ATL,22.98,2,1,1,ATL,MIA,block,98,True,False,block,block,52-61,52,61
 0021800302,2018-11-27,MIA,ATL,22.98,2,1,1,ATL,ATL,reb,0,False,False,,Hawks Rebound,52-61,52,61
 0021800302,2018-11-27,MIA,ATL,22.98,2,1,1,ATL,,foul,11,False,False,,,52-61,52,61
-0021800302,2018-11-27,MIA,ATL,22.98,2,1,1,ATL,MIA,block,98,True,False,block,block,52-61,52,61
 0021800302,2018-11-27,MIA,ATL,22.98,2,1,1,ATL,ATL,ft_make,16,False,False,,Lin Free Throw Technical (6 PTS),52-62,52,62
 0021800302,2018-11-27,MIA,ATL,23.12,2,0,53,ATL,MIA,foul,1,False,False,Richardson P.FOUL (P2.PN) (T.Ford),,52-62,52,62
 0021800302,2018-11-27,MIA,ATL,23.12,2,0,53,ATL,ATL,ft_make,11,False,False,,Lin Free Throw 1 of 2 (7 PTS),52-63,52,63
@@ -423,8 +423,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800302,2018-11-27,MIA,ATL,41.57,4,6,26,MIA,MIA,reb,0,False,False,Ellington REBOUND (Off:0 Def:3),,104-107,104,107
 0021800302,2018-11-27,MIA,ATL,41.63,4,6,22,MIA,MIA,fg_make,6,False,False,Winslow 2' Driving Layup (11 PTS),,106-107,106,107
 0021800302,2018-11-27,MIA,ATL,41.88,4,6,7,ATL,ATL,tov,2,False,True,,Bazemore Lost Ball Turnover (P5.T21),106-107,106,107
-0021800302,2018-11-27,MIA,ATL,41.88,4,6,7,MIA,ATL,foul,1,False,False,,Spellman P.FOUL (P1.T3) (T.Washington),106-107,106,107
 0021800302,2018-11-27,MIA,ATL,41.88,4,6,7,ATL,MIA,steal,2,False,True,steal,steal,106-107,106,107
+0021800302,2018-11-27,MIA,ATL,41.88,4,6,7,MIA,ATL,foul,1,False,False,,Spellman P.FOUL (P1.T3) (T.Washington),106-107,106,107
 0021800302,2018-11-27,MIA,ATL,42.12,4,5,53,MIA,MIA,tov,40,False,False,Winslow Out of Bounds Lost Ball Turnover (P5.T17),,106-107,106,107
 0021800302,2018-11-27,MIA,ATL,42.35,4,5,39,ATL,ATL,fg_miss,6,False,False,,MISS Bembry 1' Driving Layup,106-107,106,107
 0021800302,2018-11-27,MIA,ATL,42.38,4,5,37,MIA,MIA,reb,0,False,False,Winslow REBOUND (Off:0 Def:3),,106-107,106,107
@@ -461,8 +461,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800302,2018-11-27,MIA,ATL,45.77,4,2,14,ATL,ATL,tov,2,False,True,,Collins Lost Ball Turnover (P2.T24),108-111,108,111
 0021800302,2018-11-27,MIA,ATL,45.77,4,2,14,ATL,MIA,steal,2,False,True,steal,steal,108-111,108,111
 0021800302,2018-11-27,MIA,ATL,45.95,4,2,3,MIA,MIA,tov,2,False,True,Richardson Lost Ball Turnover (P4.T19),,108-111,108,111
-0021800302,2018-11-27,MIA,ATL,45.95,4,2,3,ATL,MIA,foul,2,False,False,Wade S.FOUL (P1.PN) (T.Washington),,108-111,108,111
 0021800302,2018-11-27,MIA,ATL,45.95,4,2,3,MIA,ATL,steal,2,False,True,steal,steal,108-111,108,111
+0021800302,2018-11-27,MIA,ATL,45.95,4,2,3,ATL,MIA,foul,2,False,False,Wade S.FOUL (P1.PN) (T.Washington),,108-111,108,111
 0021800302,2018-11-27,MIA,ATL,45.95,4,2,3,ATL,ATL,ft_make,11,False,False,,Young Free Throw 1 of 2 (17 PTS),108-112,108,112
 0021800302,2018-11-27,MIA,ATL,45.95,4,2,3,ATL,ATL,ft_miss,12,False,False,,MISS Young Free Throw 2 of 2,108-112,108,112
 0021800302,2018-11-27,MIA,ATL,45.95,4,2,3,MIA,MIA,reb,0,False,False,Ellington REBOUND (Off:0 Def:4),,108-112,108,112

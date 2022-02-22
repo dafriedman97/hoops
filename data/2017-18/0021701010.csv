@@ -91,11 +91,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701010,2018-03-13,CHI,LAC,11.35,1,0,39,LAC,LAC,reb,0,False,False,,Jordan REBOUND (Off:2 Def:6),27-28,27,28
 0021701010,2018-03-13,CHI,LAC,11.47,1,0,32,LAC,LAC,fg3_make,1,False,False,,Harris 26' 3PT Jump Shot (10 PTS) (Teodosic 2 AST),27-31,27,31
 0021701010,2018-03-13,CHI,LAC,11.8,1,0,12,CHI,CHI,fg_miss,6,True,False,MISS Portis 4' Driving Layup,,27-31,27,31
+0021701010,2018-03-13,CHI,LAC,11.8,1,0,12,CHI,LAC,block,6,True,False,block,block,27-31,27,31
 0021701010,2018-03-13,CHI,LAC,11.8,1,0,12,CHI,CHI,reb,0,False,False,BULLS Rebound,,27-31,27,31
 0021701010,2018-03-13,CHI,LAC,11.8,1,0,12,CHI,LAC,foul,5,False,False,,Thornwell IN.FOUL (P2.T3) (E.Lewis),27-31,27,31
 0021701010,2018-03-13,CHI,LAC,11.8,1,0,12,CHI,CHI,ft_miss,10,False,False,MISS Valentine Free Throw 1 of 1,,27-31,27,31
 0021701010,2018-03-13,CHI,LAC,11.8,1,0,12,CHI,CHI,reb,0,False,False,BULLS Rebound,,27-31,27,31
-0021701010,2018-03-13,CHI,LAC,11.8,1,0,12,CHI,LAC,block,6,True,False,block,block,27-31,27,31
 0021701010,2018-03-13,CHI,LAC,12.0,1,0,0,CHI,CHI,fg_miss,1,False,False,MISS Blakeney 17' Jump Shot,,27-31,27,31
 0021701010,2018-03-13,CHI,LAC,12.0,1,0,0,CHI,CHI,reb,0,False,False,BULLS Rebound,,27-31,27,31
 0021701010,2018-03-13,CHI,LAC,12.0,1,0,0,CHI,,period_end,0,False,False,,,27-31,27,31
@@ -305,8 +305,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701010,2018-03-13,CHI,LAC,34.37,3,1,38,CHI,CHI,fg_miss,5,False,False,MISS Payne 1' Layup,,76-87,76,87
 0021701010,2018-03-13,CHI,LAC,34.38,3,1,37,CHI,CHI,reb,0,False,False,Vonleh REBOUND (Off:3 Def:4),,76-87,76,87
 0021701010,2018-03-13,CHI,LAC,34.38,3,1,37,CHI,CHI,fg_miss,6,True,False,MISS Vonleh 3' Driving Layup,,76-87,76,87
-0021701010,2018-03-13,CHI,LAC,34.38,3,1,37,CHI,CHI,reb,0,False,False,BULLS Rebound,,76-87,76,87
 0021701010,2018-03-13,CHI,LAC,34.38,3,1,37,CHI,LAC,block,6,True,False,block,block,76-87,76,87
+0021701010,2018-03-13,CHI,LAC,34.38,3,1,37,CHI,CHI,reb,0,False,False,BULLS Rebound,,76-87,76,87
 0021701010,2018-03-13,CHI,LAC,34.48,3,1,31,CHI,CHI,fg3_miss,1,False,False,MISS Portis 27' 3PT Jump Shot,,76-87,76,87
 0021701010,2018-03-13,CHI,LAC,34.48,3,1,31,LAC,LAC,reb,0,False,False,,Jordan REBOUND (Off:2 Def:12),76-87,76,87
 0021701010,2018-03-13,CHI,LAC,34.78,3,1,13,LAC,LAC,fg_miss,1,False,False,,MISS Harris 20' Jump Shot,76-87,76,87
@@ -392,8 +392,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701010,2018-03-13,CHI,LAC,43.62,4,4,23,LAC,CHI,foul,2,False,False,LaVine S.FOUL (P2.PN) (E.Lewis),,96-106,96,106
 0021701010,2018-03-13,CHI,LAC,43.62,4,4,23,LAC,LAC,ft_make,10,False,False,,Williams Free Throw 1 of 1 (26 PTS),96-107,96,107
 0021701010,2018-03-13,CHI,LAC,43.82,4,4,11,CHI,CHI,fg_miss,6,True,False,MISS LaVine 3' Driving Layup,,96-107,96,107
-0021701010,2018-03-13,CHI,LAC,43.82,4,4,11,CHI,CHI,reb,0,False,False,BULLS Rebound,,96-107,96,107
 0021701010,2018-03-13,CHI,LAC,43.82,4,4,11,CHI,LAC,block,6,True,False,block,block,96-107,96,107
+0021701010,2018-03-13,CHI,LAC,43.82,4,4,11,CHI,CHI,reb,0,False,False,BULLS Rebound,,96-107,96,107
 0021701010,2018-03-13,CHI,LAC,43.82,4,4,11,CHI,CHI,fg_make,43,False,False,LaVine 2' Alley Oop Layup (6 PTS) (Dunn 6 AST),,98-107,98,107
 0021701010,2018-03-13,CHI,LAC,43.82,4,4,11,CHI,LAC,foul,2,False,False,,Thornwell S.FOUL (P3.T4) (E.Lewis),98-107,98,107
 0021701010,2018-03-13,CHI,LAC,43.82,4,4,11,CHI,CHI,ft_make,10,False,False,LaVine Free Throw 1 of 1 (7 PTS),,99-107,99,107
@@ -403,13 +403,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701010,2018-03-13,CHI,LAC,44.0,4,4,0,LAC,LAC,ft_miss,12,False,False,,MISS Jordan Free Throw 2 of 2,99-107,99,107
 0021701010,2018-03-13,CHI,LAC,44.03,4,3,58,LAC,LAC,reb,0,False,False,,Clippers Rebound,99-107,99,107
 0021701010,2018-03-13,CHI,LAC,44.37,4,3,38,LAC,LAC,fg3_miss,1,True,False,,MISS Williams 3PT Jump Shot,99-107,99,107
+0021701010,2018-03-13,CHI,LAC,44.37,4,3,38,LAC,CHI,block,1,True,False,block,block,99-107,99,107
 0021701010,2018-03-13,CHI,LAC,44.37,4,3,38,LAC,LAC,reb,0,False,False,,Clippers Rebound,99-107,99,107
 0021701010,2018-03-13,CHI,LAC,44.37,4,3,38,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.4 Short 0),99-107,99,107
-0021701010,2018-03-13,CHI,LAC,44.37,4,3,38,LAC,CHI,block,1,True,False,block,block,99-107,99,107
 0021701010,2018-03-13,CHI,LAC,44.42,4,3,35,LAC,LAC,fg_miss,1,True,False,,MISS Rivers 16' Jump Shot,99-107,99,107
+0021701010,2018-03-13,CHI,LAC,44.42,4,3,35,LAC,CHI,block,1,True,False,block,block,99-107,99,107
 0021701010,2018-03-13,CHI,LAC,44.42,4,3,35,CHI,CHI,reb,0,False,False,Dunn REBOUND (Off:0 Def:1),,99-107,99,107
 0021701010,2018-03-13,CHI,LAC,44.42,4,3,35,CHI,CHI,tov,39,False,False,Dunn Step Out of Bounds Turnover (P2.T9),,99-107,99,107
-0021701010,2018-03-13,CHI,LAC,44.42,4,3,35,LAC,CHI,block,1,True,False,block,block,99-107,99,107
 0021701010,2018-03-13,CHI,LAC,44.77,4,3,14,LAC,LAC,fg_make,7,False,False,,Jordan 1' Dunk (26 PTS) (Williams 5 AST),99-109,99,109
 0021701010,2018-03-13,CHI,LAC,45.07,4,2,56,CHI,CHI,fg3_miss,1,False,False,MISS LaVine 26' 3PT Jump Shot,,99-109,99,109
 0021701010,2018-03-13,CHI,LAC,45.12,4,2,53,LAC,LAC,reb,0,False,False,,Jordan REBOUND (Off:3 Def:14),99-109,99,109

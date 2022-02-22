@@ -116,8 +116,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000311,2021-01-31,MIN,CLE,12.0,2,12,0,CLE,,period_start,0,False,False,,,30-35,30,35
 0022000311,2021-01-31,MIN,CLE,12.23,2,11,46,MIN,MIN,fg_make,101,False,False,Nowell 8' Driving Floating Jump Shot (5 PTS) (Rubio 2 AST),,32-35,32,35
 0022000311,2021-01-31,MIN,CLE,12.65,2,11,21,CLE,CLE,tov,2,False,True,,Windler Lost Ball Turnover (P2.T8),32-35,32,35
-0022000311,2021-01-31,MIN,CLE,12.65,2,11,21,MIN,MIN,tov,4,False,False,Rubio Traveling Turnover (P1.T2),,32-35,32,35
 0022000311,2021-01-31,MIN,CLE,12.65,2,11,21,CLE,MIN,steal,2,False,True,steal,steal,32-35,32,35
+0022000311,2021-01-31,MIN,CLE,12.65,2,11,21,MIN,MIN,tov,4,False,False,Rubio Traveling Turnover (P1.T2),,32-35,32,35
 0022000311,2021-01-31,MIN,CLE,12.83,2,11,10,CLE,CLE,fg_miss,78,False,False,,MISS Prince 7' Floating Jump Shot,32-35,32,35
 0022000311,2021-01-31,MIN,CLE,12.92,2,11,5,MIN,MIN,reb,0,False,False,Rubio REBOUND (Off:0 Def:1),,32-35,32,35
 0022000311,2021-01-31,MIN,CLE,13.0,2,11,0,MIN,MIN,fg_make,50,False,False,Layman 2' Running Dunk (2 PTS) (Rubio 3 AST),,34-35,34,35
@@ -157,9 +157,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000311,2021-01-31,MIN,CLE,17.12,2,6,53,MIN,MIN,fg3_miss,1,False,False,MISS Nowell 25' 3PT Jump Shot,,42-45,42,45
 0022000311,2021-01-31,MIN,CLE,17.17,2,6,50,CLE,CLE,reb,0,False,False,,Dotson REBOUND (Off:0 Def:2),42-45,42,45
 0022000311,2021-01-31,MIN,CLE,17.28,2,6,43,CLE,CLE,fg_miss,6,True,False,,MISS Sexton 10' Driving Layup,42-45,42,45
+0022000311,2021-01-31,MIN,CLE,17.28,2,6,43,CLE,MIN,block,6,True,False,block,block,42-45,42,45
 0022000311,2021-01-31,MIN,CLE,17.28,2,6,43,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,42-45,42,45
 0022000311,2021-01-31,MIN,CLE,17.28,2,6,43,MIN,MIN,timeout,1,False,False,TIMBERWOLVES Timeout: Regular (Full 2 Short 0),,42-45,42,45
-0022000311,2021-01-31,MIN,CLE,17.28,2,6,43,CLE,MIN,block,6,True,False,block,block,42-45,42,45
 0022000311,2021-01-31,MIN,CLE,17.32,2,6,41,CLE,MIN,foul,1,False,False,Nowell P.FOUL (P1.T3) (C.Blair),,42-45,42,45
 0022000311,2021-01-31,MIN,CLE,17.38,2,6,37,CLE,MIN,foul,1,False,False,Davis P.FOUL (P2.T4) (R.Mott),,42-45,42,45
 0022000311,2021-01-31,MIN,CLE,17.58,2,6,25,CLE,CLE,fg_miss,79,False,False,,MISS Sexton 19' Pullup Jump Shot,42-45,42,45
@@ -220,8 +220,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000311,2021-01-31,MIN,CLE,23.22,2,0,47,CLE,CLE,tov,45,False,False,,Sexton Out of Bounds - Bad Pass Turnover Turnover (P4.T13),49-59,49,59
 0022000311,2021-01-31,MIN,CLE,23.33,2,0,40,MIN,MIN,fg3_make,79,False,False,Russell 26' 3PT Pullup Jump Shot (7 PTS),,52-59,52,59
 0022000311,2021-01-31,MIN,CLE,23.45,2,0,33,CLE,CLE,fg3_miss,1,False,False,,MISS Prince 3PT Jump Shot,52-59,52,59
-0022000311,2021-01-31,MIN,CLE,23.5,2,0,30,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,52-59,52,59
 0022000311,2021-01-31,MIN,CLE,23.5,2,0,30,,MIN,jump_ball,0,False,False,Jump Ball Davis vs. Drummond: Tip to Sexton,,52-59,52,59
+0022000311,2021-01-31,MIN,CLE,23.5,2,0,30,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,52-59,52,59
 0022000311,2021-01-31,MIN,CLE,23.83,2,0,10,CLE,CLE,fg_make,6,False,False,,Sexton 2' Driving Layup (12 PTS),52-61,52,61
 0022000311,2021-01-31,MIN,CLE,23.98,2,0,1,MIN,MIN,fg3_make,80,False,False,Beasley 24' 3PT Step Back Jump Shot (16 PTS) (Okogie 2 AST),,55-61,55,61
 0022000311,2021-01-31,MIN,CLE,24.0,2,0,0,MIN,,period_end,0,False,False,,,55-61,55,61
@@ -255,8 +255,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000311,2021-01-31,MIN,CLE,26.8,3,9,12,MIN,MIN,fg3_make,80,False,False,Russell 26' 3PT Step Back Jump Shot (10 PTS) (Edwards 3 AST),,66-65,66,65
 0022000311,2021-01-31,MIN,CLE,27.1,3,8,54,CLE,CLE,fg_miss,6,True,False,,MISS Drummond 3' Driving Layup,66-65,66,65
 0022000311,2021-01-31,MIN,CLE,27.1,3,8,54,CLE,MIN,block,6,True,False,block,block,66-65,66,65
-0022000311,2021-01-31,MIN,CLE,27.15,3,8,51,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,66-65,66,65
 0022000311,2021-01-31,MIN,CLE,27.15,3,8,51,,MIN,jump_ball,0,False,False,Jump Ball Davis vs. Drummond: Tip to Nance Jr.,,66-65,66,65
+0022000311,2021-01-31,MIN,CLE,27.15,3,8,51,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,66-65,66,65
 0022000311,2021-01-31,MIN,CLE,27.23,3,8,46,CLE,CLE,fg_make,73,False,False,,Nance Jr. 1' Driving Reverse Layup (2 PTS) (Okoro 3 AST),66-67,66,67
 0022000311,2021-01-31,MIN,CLE,27.62,3,8,23,MIN,MIN,fg3_make,1,False,False,Edwards 25' 3PT Jump Shot (14 PTS) (Russell 4 AST),,69-67,69,67
 0022000311,2021-01-31,MIN,CLE,27.78,3,8,13,CLE,MIN,foul,1,False,False,Davis P.FOUL (P4.T4) (J.Butler),,69-67,69,67

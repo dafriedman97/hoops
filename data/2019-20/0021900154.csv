@@ -52,8 +52,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900154,2019-11-13,CHA,MEM,6.02,1,5,59,CHA,CHA,reb,0,False,False,Monk REBOUND (Off:0 Def:1),,13-17,13,17
 0021900154,2019-11-13,CHA,MEM,6.13,1,5,52,CHA,CHA,fg3_make,1,False,False,Rozier 25' 3PT Jump Shot (3 PTS) (Bridges 1 AST),,16-17,16,17
 0021900154,2019-11-13,CHA,MEM,6.4,1,5,36,MEM,MEM,fg_miss,1,True,False,,MISS Jackson Jr. 8' Jump Shot,16-17,16,17
-0021900154,2019-11-13,CHA,MEM,6.4,1,5,36,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,16-17,16,17
 0021900154,2019-11-13,CHA,MEM,6.4,1,5,36,MEM,CHA,block,1,True,False,block,block,16-17,16,17
+0021900154,2019-11-13,CHA,MEM,6.4,1,5,36,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,16-17,16,17
 0021900154,2019-11-13,CHA,MEM,6.55,1,5,27,MEM,MEM,fg_make,1,False,False,,Clarke 3' Jump Shot (2 PTS) (Crowder 1 AST),16-19,16,19
 0021900154,2019-11-13,CHA,MEM,6.75,1,5,15,CHA,CHA,tov,45,False,False,Monk Out of Bounds - Bad Pass Turnover Turnover (P1.T6),,16-19,16,19
 0021900154,2019-11-13,CHA,MEM,7.08,1,4,55,MEM,MEM,fg3_miss,1,False,False,,MISS Jackson Jr. 26' 3PT Jump Shot,16-19,16,19
@@ -140,8 +140,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900154,2019-11-13,CHA,MEM,15.23,2,8,46,MEM,MEM,reb,0,False,False,,Brooks REBOUND (Off:0 Def:1),38-39,38,39
 0021900154,2019-11-13,CHA,MEM,15.32,2,8,41,MEM,MEM,fg3_make,1,False,False,,Jackson Jr. 26' 3PT Jump Shot (5 PTS) (Morant 5 AST),38-42,38,42
 0021900154,2019-11-13,CHA,MEM,15.55,2,8,27,CHA,CHA,tov,1,False,True,Graham Bad Pass Turnover (P3.T7),,38-42,38,42
-0021900154,2019-11-13,CHA,MEM,15.55,2,8,27,MEM,CHA,foul,1,False,False,Graham P.FOUL (P1.T2) (J.Goldenberg),,38-42,38,42
 0021900154,2019-11-13,CHA,MEM,15.55,2,8,27,CHA,MEM,steal,1,False,True,steal,steal,38-42,38,42
+0021900154,2019-11-13,CHA,MEM,15.55,2,8,27,MEM,CHA,foul,1,False,False,Graham P.FOUL (P1.T2) (J.Goldenberg),,38-42,38,42
 0021900154,2019-11-13,CHA,MEM,15.75,2,8,15,MEM,MEM,fg3_miss,1,False,False,,MISS Crowder 3PT Jump Shot,38-42,38,42
 0021900154,2019-11-13,CHA,MEM,15.8,2,8,12,CHA,CHA,reb,0,False,False,Rozier REBOUND (Off:0 Def:2),,38-42,38,42
 0021900154,2019-11-13,CHA,MEM,15.98,2,8,1,CHA,CHA,fg_miss,6,False,False,MISS Bridges 3' Driving Layup,,38-42,38,42
@@ -327,8 +327,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900154,2019-11-13,CHA,MEM,37.25,4,10,45,MEM,MEM,fg_miss,1,False,False,,MISS Valanciunas 16' Jump Shot,96-99,96,99
 0021900154,2019-11-13,CHA,MEM,37.32,4,10,41,CHA,CHA,reb,0,False,False,Monk REBOUND (Off:1 Def:5),,96-99,96,99
 0021900154,2019-11-13,CHA,MEM,37.35,4,10,39,CHA,CHA,fg_miss,5,True,False,MISS Monk 5' Layup,,96-99,96,99
-0021900154,2019-11-13,CHA,MEM,37.35,4,10,39,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,96-99,96,99
 0021900154,2019-11-13,CHA,MEM,37.35,4,10,39,CHA,MEM,block,5,True,False,block,block,96-99,96,99
+0021900154,2019-11-13,CHA,MEM,37.35,4,10,39,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,96-99,96,99
 0021900154,2019-11-13,CHA,MEM,37.62,4,10,23,MEM,MEM,fg3_miss,1,False,False,,MISS Anderson 3PT Jump Shot,96-99,96,99
 0021900154,2019-11-13,CHA,MEM,37.68,4,10,19,CHA,CHA,reb,0,False,False,Monk REBOUND (Off:1 Def:6),,96-99,96,99
 0021900154,2019-11-13,CHA,MEM,37.77,4,10,14,CHA,CHA,fg3_miss,1,False,False,MISS Martin 3PT Jump Shot,,96-99,96,99
@@ -375,16 +375,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900154,2019-11-13,CHA,MEM,43.15,4,4,51,CHA,CHA,fg3_miss,79,False,False,MISS Rozier 26' 3PT Pullup Jump Shot,,102-109,102,109
 0021900154,2019-11-13,CHA,MEM,43.18,4,4,49,MEM,MEM,reb,0,False,False,,Clarke REBOUND (Off:2 Def:3),102-109,102,109
 0021900154,2019-11-13,CHA,MEM,43.6,4,4,24,MEM,MEM,fg_miss,1,True,False,,MISS Jackson Jr. 21' Jump Shot,102-109,102,109
+0021900154,2019-11-13,CHA,MEM,43.6,4,4,24,MEM,CHA,block,1,True,False,block,block,102-109,102,109
 0021900154,2019-11-13,CHA,MEM,43.6,4,4,24,MEM,MEM,reb,0,False,False,,Jackson Jr. REBOUND (Off:1 Def:4),102-109,102,109
 0021900154,2019-11-13,CHA,MEM,43.6,4,4,24,MEM,MEM,tov,11,False,False,,Grizzlies Turnover: Shot Clock (T#23),102-109,102,109
-0021900154,2019-11-13,CHA,MEM,43.6,4,4,24,MEM,CHA,block,1,True,False,block,block,102-109,102,109
 0021900154,2019-11-13,CHA,MEM,43.95,4,4,3,CHA,CHA,fg_miss,78,False,False,MISS Bridges 7' Floating Jump Shot,,102-109,102,109
 0021900154,2019-11-13,CHA,MEM,43.98,4,4,1,MEM,MEM,reb,0,False,False,,Clarke REBOUND (Off:2 Def:4),102-109,102,109
 0021900154,2019-11-13,CHA,MEM,44.33,4,3,40,MEM,MEM,fg_miss,5,False,False,,MISS Morant 9' Layup,102-109,102,109
 0021900154,2019-11-13,CHA,MEM,44.37,4,3,38,CHA,CHA,reb,0,False,False,Monk REBOUND (Off:1 Def:7),,102-109,102,109
 0021900154,2019-11-13,CHA,MEM,44.42,4,3,35,CHA,CHA,fg_miss,5,True,False,MISS Bridges 3' Layup,,102-109,102,109
-0021900154,2019-11-13,CHA,MEM,44.42,4,3,35,MEM,MEM,reb,0,False,False,,Brooks REBOUND (Off:1 Def:2),102-109,102,109
 0021900154,2019-11-13,CHA,MEM,44.42,4,3,35,CHA,MEM,block,5,True,False,block,block,102-109,102,109
+0021900154,2019-11-13,CHA,MEM,44.42,4,3,35,MEM,MEM,reb,0,False,False,,Brooks REBOUND (Off:1 Def:2),102-109,102,109
 0021900154,2019-11-13,CHA,MEM,44.65,4,3,21,MEM,MEM,fg3_make,1,False,False,,Clarke 24' 3PT Jump Shot (13 PTS) (Brooks 4 AST),102-112,102,112
 0021900154,2019-11-13,CHA,MEM,44.65,4,3,21,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 5 Short 0),,102-112,102,112
 0021900154,2019-11-13,CHA,MEM,44.88,4,3,7,CHA,CHA,fg_miss,63,True,False,MISS Graham 3' Fadeaway Jumper,,102-112,102,112

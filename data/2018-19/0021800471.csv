@@ -5,8 +5,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800471,2018-12-21,BKN,IND,0.68,1,11,19,IND,IND,fg_make,98,False,False,,Young 3' Cutting Layup Shot (2 PTS) (Bogdanovic 1 AST),3-2,3,2
 0021800471,2018-12-21,BKN,IND,0.87,1,11,8,BKN,BKN,fg_make,44,False,False,Kurucs 3' Reverse Layup (5 PTS) (Russell 2 AST),,5-2,5,2
 0021800471,2018-12-21,BKN,IND,1.12,1,10,53,IND,IND,fg_miss,9,True,False,,MISS Turner 2' Driving Dunk,5-2,5,2
-0021800471,2018-12-21,BKN,IND,1.12,1,10,53,IND,IND,reb,0,False,False,,Oladipo REBOUND (Off:1 Def:0),5-2,5,2
 0021800471,2018-12-21,BKN,IND,1.12,1,10,53,IND,BKN,block,9,True,False,block,block,5-2,5,2
+0021800471,2018-12-21,BKN,IND,1.12,1,10,53,IND,IND,reb,0,False,False,,Oladipo REBOUND (Off:1 Def:0),5-2,5,2
 0021800471,2018-12-21,BKN,IND,1.18,1,10,49,IND,IND,fg_make,75,False,False,,Young 3' Driving Finger Roll Layup (4 PTS) (Oladipo 1 AST),5-4,5,4
 0021800471,2018-12-21,BKN,IND,1.35,1,10,39,BKN,BKN,fg_make,75,False,False,Allen 4' Driving Finger Roll Layup (2 PTS) (Russell 3 AST),,7-4,7,4
 0021800471,2018-12-21,BKN,IND,1.72,1,10,17,IND,IND,fg_miss,3,False,False,,MISS Young 8' Hook Shot,7-4,7,4
@@ -190,8 +190,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800471,2018-12-21,BKN,IND,22.08,2,1,55,IND,IND,fg3_miss,1,False,False,,MISS Turner 25' 3PT Jump Shot,45-53,45,53
 0021800471,2018-12-21,BKN,IND,22.15,2,1,51,BKN,BKN,reb,0,False,False,Kurucs REBOUND (Off:0 Def:2),,45-53,45,53
 0021800471,2018-12-21,BKN,IND,22.37,2,1,38,BKN,BKN,fg_miss,98,True,False,MISS Hollis-Jefferson 6' Cutting Layup Shot,,45-53,45,53
-0021800471,2018-12-21,BKN,IND,22.37,2,1,38,BKN,BKN,reb,0,False,False,NETS Rebound,,45-53,45,53
 0021800471,2018-12-21,BKN,IND,22.37,2,1,38,BKN,IND,block,98,True,False,block,block,45-53,45,53
+0021800471,2018-12-21,BKN,IND,22.37,2,1,38,BKN,BKN,reb,0,False,False,NETS Rebound,,45-53,45,53
 0021800471,2018-12-21,BKN,IND,22.4,2,1,36,BKN,BKN,fg_miss,5,False,False,MISS Hollis-Jefferson 3' Layup,,45-53,45,53
 0021800471,2018-12-21,BKN,IND,22.43,2,1,34,IND,IND,reb,0,False,False,,Oladipo REBOUND (Off:1 Def:5),45-53,45,53
 0021800471,2018-12-21,BKN,IND,22.43,2,1,34,IND,BKN,foul,11,False,False,Hollis-Jefferson T.FOUL (P1.T3) (M.Boland),,45-53,45,53
@@ -302,8 +302,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800471,2018-12-21,BKN,IND,34.68,3,1,19,IND,IND,tov,37,False,False,,Sabonis Offensive Foul Turnover (P2.T7),80-80,80,80
 0021800471,2018-12-21,BKN,IND,35.0,3,1,0,BKN,IND,foul,1,False,False,,Sabonis P.FOUL (P4.T4) (T.Brothers),80-80,80,80
 0021800471,2018-12-21,BKN,IND,35.22,3,0,47,BKN,BKN,fg_miss,6,False,False,MISS Dinwiddie 5' Driving Layup,,80-80,80,80
-0021800471,2018-12-21,BKN,IND,35.23,3,0,46,BKN,BKN,reb,0,False,False,Davis REBOUND (Off:4 Def:2),,80-80,80,80
 0021800471,2018-12-21,BKN,IND,35.23,3,0,46,BKN,BKN,tov,11,False,False,NETS Turnover: Shot Clock (T#18),,80-80,80,80
+0021800471,2018-12-21,BKN,IND,35.23,3,0,46,BKN,BKN,reb,0,False,False,Davis REBOUND (Off:4 Def:2),,80-80,80,80
 0021800471,2018-12-21,BKN,IND,35.48,3,0,31,IND,IND,fg_make,75,False,False,,Joseph 4' Driving Finger Roll Layup (6 PTS),80-82,80,82
 0021800471,2018-12-21,BKN,IND,35.58,3,0,25,BKN,BKN,fg_miss,101,False,False,MISS Dinwiddie 5' Driving Floating Jump Shot,,80-82,80,82
 0021800471,2018-12-21,BKN,IND,35.58,3,0,25,IND,IND,reb,0,False,False,,Turner REBOUND (Off:2 Def:7),80-82,80,82
@@ -338,9 +338,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800471,2018-12-21,BKN,IND,39.23,4,8,46,IND,IND,fg3_miss,1,False,False,,MISS Turner 26' 3PT Jump Shot,89-91,89,91
 0021800471,2018-12-21,BKN,IND,39.27,4,8,44,BKN,BKN,reb,0,False,False,Dudley REBOUND (Off:1 Def:4),,89-91,89,91
 0021800471,2018-12-21,BKN,IND,39.58,4,8,25,BKN,BKN,fg_miss,6,True,False,MISS Carroll 7' Driving Layup,,89-91,89,91
+0021800471,2018-12-21,BKN,IND,39.58,4,8,25,BKN,IND,block,6,True,False,block,block,89-91,89,91
 0021800471,2018-12-21,BKN,IND,39.58,4,8,25,IND,IND,reb,0,False,False,,Pacers Rebound,89-91,89,91
 0021800471,2018-12-21,BKN,IND,39.58,4,8,25,IND,BKN,foul,3,False,False,Kurucs L.B.FOUL (P2.T2) (M.Boland),,89-91,89,91
-0021800471,2018-12-21,BKN,IND,39.58,4,8,25,BKN,IND,block,6,True,False,block,block,89-91,89,91
 0021800471,2018-12-21,BKN,IND,39.75,4,8,15,IND,IND,fg_miss,79,False,False,,MISS Joseph 15' Pullup Jump Shot,89-91,89,91
 0021800471,2018-12-21,BKN,IND,39.82,4,8,11,IND,IND,reb,0,False,False,,Turner REBOUND (Off:3 Def:7),89-91,89,91
 0021800471,2018-12-21,BKN,IND,39.83,4,8,10,IND,IND,fg_make,72,False,False,,Turner 3' Putback Layup (15 PTS),89-93,89,93

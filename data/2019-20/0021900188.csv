@@ -51,8 +51,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900188,2019-11-17,LAL,ATL,5.9,1,6,6,LAL,ATL,foul,1,False,False,,Len P.FOUL (P1.T1) (M.Smith),21-5,21,5
 0021900188,2019-11-17,LAL,ATL,5.98,1,6,1,LAL,LAL,fg3_make,79,False,False,James 28' 3PT Pullup Jump Shot (9 PTS),,24-5,24,5
 0021900188,2019-11-17,LAL,ATL,6.3,1,5,42,ATL,ATL,fg_miss,5,True,False,,MISS Parker 7' Layup,24-5,24,5
-0021900188,2019-11-17,LAL,ATL,6.3,1,5,42,ATL,ATL,reb,0,False,False,,Hawks Rebound,24-5,24,5
 0021900188,2019-11-17,LAL,ATL,6.3,1,5,42,ATL,LAL,block,5,True,False,block,block,24-5,24,5
+0021900188,2019-11-17,LAL,ATL,6.3,1,5,42,ATL,ATL,reb,0,False,False,,Hawks Rebound,24-5,24,5
 0021900188,2019-11-17,LAL,ATL,6.33,1,5,40,ATL,ATL,fg3_miss,1,False,False,,MISS Hunter 27' 3PT Jump Shot,24-5,24,5
 0021900188,2019-11-17,LAL,ATL,6.37,1,5,38,LAL,LAL,reb,0,False,False,Green REBOUND (Off:0 Def:2),,24-5,24,5
 0021900188,2019-11-17,LAL,ATL,6.55,1,5,27,LAL,ATL,foul,1,False,False,,Parker P.FOUL (P1.T2) (D.Guthrie),24-5,24,5
@@ -114,8 +114,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900188,2019-11-17,LAL,ATL,11.08,1,0,55,LAL,ATL,block,1,True,False,block,block,34-20,34,20
 0021900188,2019-11-17,LAL,ATL,11.15,1,0,51,ATL,ATL,reb,0,False,False,,Hunter REBOUND (Off:0 Def:1),34-20,34,20
 0021900188,2019-11-17,LAL,ATL,11.18,1,0,49,ATL,ATL,fg_miss,108,True,False,,MISS Parker 3' Cutting Dunk Shot,34-20,34,20
-0021900188,2019-11-17,LAL,ATL,11.18,1,0,49,ATL,ATL,reb,0,False,False,,Hawks Rebound,34-20,34,20
 0021900188,2019-11-17,LAL,ATL,11.18,1,0,49,ATL,LAL,block,108,True,False,block,block,34-20,34,20
+0021900188,2019-11-17,LAL,ATL,11.18,1,0,49,ATL,ATL,reb,0,False,False,,Hawks Rebound,34-20,34,20
 0021900188,2019-11-17,LAL,ATL,11.2,1,0,48,ATL,ATL,fg_make,98,False,False,,Fernando 3' Cutting Layup Shot (4 PTS) (Hunter 2 AST),34-22,34,22
 0021900188,2019-11-17,LAL,ATL,11.43,1,0,34,LAL,LAL,fg_make,80,False,False,Daniels 19' Step Back Jump Shot (2 PTS) (Davis 5 AST),,36-22,36,22
 0021900188,2019-11-17,LAL,ATL,11.53,1,0,28,ATL,ATL,fg_make,6,False,False,,Young 3' Driving Layup (7 PTS),36-24,36,24
@@ -257,8 +257,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900188,2019-11-17,LAL,ATL,27.32,3,8,41,LAL,ATL,steal,2,False,True,steal,steal,77-49,77,49
 0021900188,2019-11-17,LAL,ATL,27.38,3,8,37,ATL,ATL,fg_miss,41,True,False,,MISS Young 2' Running Layup,77-49,77,49
 0021900188,2019-11-17,LAL,ATL,27.38,3,8,37,ATL,LAL,block,41,True,False,block,block,77-49,77,49
-0021900188,2019-11-17,LAL,ATL,27.47,3,8,32,ATL,ATL,fg_make,7,False,False,,Parker 1' Dunk (7 PTS),77-51,77,51
 0021900188,2019-11-17,LAL,ATL,27.47,3,8,32,ATL,ATL,reb,0,False,False,,Parker REBOUND (Off:2 Def:1),77-51,77,51
+0021900188,2019-11-17,LAL,ATL,27.47,3,8,32,ATL,ATL,fg_make,7,False,False,,Parker 1' Dunk (7 PTS),77-51,77,51
 0021900188,2019-11-17,LAL,ATL,27.72,3,8,17,LAL,LAL,tov,1,False,True,Caldwell-Pope Bad Pass Turnover (P3.T10),,77-51,77,51
 0021900188,2019-11-17,LAL,ATL,27.72,3,8,17,LAL,ATL,steal,1,False,True,steal,steal,77-51,77,51
 0021900188,2019-11-17,LAL,ATL,27.78,3,8,13,ATL,ATL,fg_make,41,False,False,,Parker 2' Running Layup (9 PTS),77-53,77,53
@@ -411,8 +411,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900188,2019-11-17,LAL,ATL,43.38,4,4,37,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 28' 3PT Jump Shot,,117-95,117,95
 0021900188,2019-11-17,LAL,ATL,43.43,4,4,34,ATL,ATL,reb,0,False,False,,Len REBOUND (Off:0 Def:3),117-95,117,95
 0021900188,2019-11-17,LAL,ATL,43.63,4,4,22,ATL,ATL,fg_miss,1,True,False,,MISS Bembry 10' Jump Shot,117-95,117,95
-0021900188,2019-11-17,LAL,ATL,43.63,4,4,22,ATL,ATL,reb,0,False,False,,Hawks Rebound,117-95,117,95
 0021900188,2019-11-17,LAL,ATL,43.63,4,4,22,ATL,LAL,block,1,True,False,block,block,117-95,117,95
+0021900188,2019-11-17,LAL,ATL,43.63,4,4,22,ATL,ATL,reb,0,False,False,,Hawks Rebound,117-95,117,95
 0021900188,2019-11-17,LAL,ATL,43.73,4,4,16,ATL,ATL,fg_miss,71,False,False,,MISS Len 1' Finger Roll Layup,117-95,117,95
 0021900188,2019-11-17,LAL,ATL,43.9,4,4,6,ATL,ATL,reb,0,False,False,,Len REBOUND (Off:1 Def:3),117-95,117,95
 0021900188,2019-11-17,LAL,ATL,43.9,4,4,6,ATL,ATL,fg_make,107,False,False,,Len 1' Tip Dunk Shot (3 PTS),117-97,117,97

@@ -160,8 +160,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800788,2019-02-03,BOS,OKC,17.32,2,6,41,OKC,OKC,ft_miss,12,False,False,,MISS Westbrook Free Throw 2 of 2,41-42,41,42
 0021800788,2019-02-03,BOS,OKC,17.35,2,6,39,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:2 Def:2),41-42,41,42
 0021800788,2019-02-03,BOS,OKC,17.48,2,6,31,OKC,OKC,fg_miss,6,True,False,,MISS Westbrook 7' Driving Layup,41-42,41,42
-0021800788,2019-02-03,BOS,OKC,17.48,2,6,31,BOS,BOS,reb,0,False,False,CELTICS Rebound,,41-42,41,42
 0021800788,2019-02-03,BOS,OKC,17.48,2,6,31,OKC,BOS,block,6,True,False,block,block,41-42,41,42
+0021800788,2019-02-03,BOS,OKC,17.48,2,6,31,BOS,BOS,reb,0,False,False,CELTICS Rebound,,41-42,41,42
 0021800788,2019-02-03,BOS,OKC,17.5,2,6,30,,BOS,jump_ball,0,False,False,Jump Ball Theis vs. Westbrook: Tip to Irving,,41-42,41,42
 0021800788,2019-02-03,BOS,OKC,17.57,2,6,26,BOS,BOS,fg_make,50,False,False,Tatum 1' Running Dunk (2 PTS) (Irving 3 AST),,43-42,43,42
 0021800788,2019-02-03,BOS,OKC,17.85,2,6,9,BOS,OKC,foul,4,False,False,,Diallo OFF.Foul (P1) (S.Wall),43-42,43,42
@@ -448,6 +448,6 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800788,2019-02-03,BOS,OKC,47.97,4,0,2,BOS,BOS,ft_make,11,False,False,Smart Free Throw 1 of 2 (17 PTS),,133-129,133,129
 0021800788,2019-02-03,BOS,OKC,47.97,4,0,2,BOS,BOS,ft_make,12,False,False,Smart Free Throw 2 of 2 (18 PTS),,134-129,134,129
 0021800788,2019-02-03,BOS,OKC,48.0,4,0,0,OKC,OKC,fg3_miss,1,True,False,,MISS George 29' 3PT Jump Shot,134-129,134,129
+0021800788,2019-02-03,BOS,OKC,48.0,4,0,0,OKC,BOS,block,1,True,False,block,block,134-129,134,129
 0021800788,2019-02-03,BOS,OKC,48.0,4,0,0,OKC,OKC,reb,0,False,False,,Thunder Rebound,134-129,134,129
 0021800788,2019-02-03,BOS,OKC,48.0,4,0,0,OKC,,period_end,0,False,False,,,134-129,134,129
-0021800788,2019-02-03,BOS,OKC,48.0,4,0,0,OKC,BOS,block,1,True,False,block,block,134-129,134,129

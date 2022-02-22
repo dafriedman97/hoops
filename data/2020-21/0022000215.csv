@@ -156,9 +156,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000215,2021-02-07,CHA,WAS,16.65,2,7,21,CHA,CHA,reb,1,False,False,HORNETS Rebound,,45-39,45,39
 0022000215,2021-02-07,CHA,WAS,16.65,2,7,21,CHA,CHA,ft_make,12,False,False,Zeller Free Throw 2 of 2 (14 PTS),,46-39,46,39
 0022000215,2021-02-07,CHA,WAS,16.93,2,7,4,WAS,WAS,fg_miss,71,False,False,,MISS Avdija 2' Finger Roll Layup,46-39,46,39
+0022000215,2021-02-07,CHA,WAS,16.97,2,7,2,WAS,WAS,reb,0,False,False,,Lopez REBOUND (Off:2 Def:1),46-39,46,39
 0022000215,2021-02-07,CHA,WAS,16.97,2,7,2,WAS,WAS,fg_miss,97,False,False,,MISS Lopez 4' Tip Layup Shot,46-39,46,39
 0022000215,2021-02-07,CHA,WAS,16.97,2,7,2,WAS,WAS,reb,0,False,False,,Beal REBOUND (Off:1 Def:3),46-39,46,39
-0022000215,2021-02-07,CHA,WAS,16.97,2,7,2,WAS,WAS,reb,0,False,False,,Lopez REBOUND (Off:2 Def:1),46-39,46,39
 0022000215,2021-02-07,CHA,WAS,16.98,2,7,1,WAS,WAS,fg_miss,5,False,False,,MISS Beal 1' Layup,46-39,46,39
 0022000215,2021-02-07,CHA,WAS,17.02,2,6,59,CHA,CHA,reb,0,False,False,Zeller REBOUND (Off:4 Def:2),,46-39,46,39
 0022000215,2021-02-07,CHA,WAS,17.05,2,6,57,CHA,WAS,foul,1,False,False,,Smith P.FOUL (P2.T2) (J.Tiven),46-39,46,39
@@ -177,8 +177,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000215,2021-02-07,CHA,WAS,18.3,2,5,42,CHA,CHA,fg_make,80,False,False,Monk 22' Step Back Jump Shot (5 PTS),,51-41,51,41
 0022000215,2021-02-07,CHA,WAS,18.32,2,5,41,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.4 Short 0),51-41,51,41
 0022000215,2021-02-07,CHA,WAS,18.6,2,5,24,WAS,WAS,fg_miss,5,True,False,,MISS Hachimura 2' Layup,51-41,51,41
-0022000215,2021-02-07,CHA,WAS,18.6,2,5,24,WAS,WAS,reb,0,False,False,,Wizards Rebound,51-41,51,41
 0022000215,2021-02-07,CHA,WAS,18.6,2,5,24,WAS,CHA,block,5,True,False,block,block,51-41,51,41
+0022000215,2021-02-07,CHA,WAS,18.6,2,5,24,WAS,WAS,reb,0,False,False,,Wizards Rebound,51-41,51,41
 0022000215,2021-02-07,CHA,WAS,18.7,2,5,18,WAS,WAS,fg_miss,1,False,False,,MISS Beal 20' Jump Shot,51-41,51,41
 0022000215,2021-02-07,CHA,WAS,18.73,2,5,16,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:2 Def:1),,51-41,51,41
 0022000215,2021-02-07,CHA,WAS,18.85,2,5,9,CHA,CHA,fg_make,75,False,False,Rozier 1' Driving Finger Roll Layup (9 PTS),,53-41,53,41
@@ -239,8 +239,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000215,2021-02-07,CHA,WAS,23.43,2,0,34,CHA,CHA,fg3_miss,1,False,False,MISS Ball 27' 3PT Jump Shot,,67-52,67,52
 0022000215,2021-02-07,CHA,WAS,23.47,2,0,32,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:2 Def:5),67-52,67,52
 0022000215,2021-02-07,CHA,WAS,23.57,2,0,26,WAS,WAS,fg_miss,5,True,False,,MISS Westbrook 2' Layup,67-52,67,52
-0022000215,2021-02-07,CHA,WAS,23.57,2,0,26,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:3 Def:4),,67-52,67,52
 0022000215,2021-02-07,CHA,WAS,23.57,2,0,26,WAS,CHA,block,5,True,False,block,block,67-52,67,52
+0022000215,2021-02-07,CHA,WAS,23.57,2,0,26,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:3 Def:4),,67-52,67,52
 0022000215,2021-02-07,CHA,WAS,23.67,2,0,20,CHA,WAS,foul,2,False,False,,Beal S.FOUL (P1.PN) (D.Mosher),67-52,67,52
 0022000215,2021-02-07,CHA,WAS,23.67,2,0,20,CHA,CHA,ft_make,11,False,False,Hayward Free Throw 1 of 2 (13 PTS),,68-52,68,52
 0022000215,2021-02-07,CHA,WAS,23.67,2,0,20,CHA,CHA,ft_make,12,False,False,Hayward Free Throw 2 of 2 (14 PTS),,69-52,69,52
@@ -299,8 +299,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000215,2021-02-07,CHA,WAS,28.52,3,7,29,CHA,CHA,tov,37,False,False,Hayward Offensive Foul Turnover (P2.T6),,79-60,79,60
 0022000215,2021-02-07,CHA,WAS,28.68,3,7,19,WAS,WAS,tov,39,False,False,,Wagner Step Out of Bounds Turnover (P1.T10),79-60,79,60
 0022000215,2021-02-07,CHA,WAS,28.95,3,7,3,CHA,CHA,fg_miss,5,True,False,MISS Washington 4' Layup,,79-60,79,60
-0022000215,2021-02-07,CHA,WAS,28.95,3,7,3,WAS,WAS,reb,0,False,False,,Wizards Rebound,79-60,79,60
 0022000215,2021-02-07,CHA,WAS,28.95,3,7,3,CHA,WAS,block,5,True,False,block,block,79-60,79,60
+0022000215,2021-02-07,CHA,WAS,28.95,3,7,3,WAS,WAS,reb,0,False,False,,Wizards Rebound,79-60,79,60
 0022000215,2021-02-07,CHA,WAS,29.13,3,6,52,WAS,WAS,fg3_miss,1,False,False,,MISS Wagner 26' 3PT Jump Shot,79-60,79,60
 0022000215,2021-02-07,CHA,WAS,29.15,3,6,51,CHA,CHA,reb,0,False,False,Washington REBOUND (Off:1 Def:3),,79-60,79,60
 0022000215,2021-02-07,CHA,WAS,29.27,3,6,44,CHA,CHA,fg3_make,1,False,False,Rozier 3PT Jump Shot (21 PTS) (Hayward 2 AST),,82-60,82,60
@@ -316,8 +316,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000215,2021-02-07,CHA,WAS,30.33,3,5,40,CHA,CHA,fg_make,101,False,False,Bridges 2' Driving Floating Jump Shot (8 PTS),,87-62,87,62
 0022000215,2021-02-07,CHA,WAS,30.6,3,5,24,WAS,WAS,fg_miss,5,True,False,,MISS Wagner 5' Layup,87-62,87,62
 0022000215,2021-02-07,CHA,WAS,30.6,3,5,24,WAS,CHA,block,5,True,False,block,block,87-62,87,62
-0022000215,2021-02-07,CHA,WAS,30.62,3,5,23,WAS,WAS,reb,0,False,False,,Wizards Rebound,87-62,87,62
 0022000215,2021-02-07,CHA,WAS,30.62,3,5,23,,CHA,jump_ball,0,False,False,Jump Ball Bridges vs. Wagner: Tip to Beal,,87-62,87,62
+0022000215,2021-02-07,CHA,WAS,30.62,3,5,23,WAS,WAS,reb,0,False,False,,Wizards Rebound,87-62,87,62
 0022000215,2021-02-07,CHA,WAS,30.72,3,5,17,WAS,WAS,fg_make,6,False,False,,Beal 4' Driving Layup (26 PTS),87-64,87,64
 0022000215,2021-02-07,CHA,WAS,30.72,3,5,17,WAS,CHA,foul,2,False,False,Monk S.FOUL (P2.PN) (T.Washington),,87-64,87,64
 0022000215,2021-02-07,CHA,WAS,30.72,3,5,17,WAS,WAS,ft_make,10,False,False,,Beal Free Throw 1 of 1 (27 PTS),87-65,87,65
@@ -462,8 +462,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000215,2021-02-07,CHA,WAS,45.63,4,2,22,CHA,CHA,tov,37,False,False,Bridges Offensive Foul Turnover (P2.T10),,116-93,116,93
 0022000215,2021-02-07,CHA,WAS,45.63,4,2,22,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.8 Short 0),116-93,116,93
 0022000215,2021-02-07,CHA,WAS,45.63,4,2,22,CHA,WAS,foul,25,False,False,,Wizards Excess Timeout Technical,116-93,116,93
-0022000215,2021-02-07,CHA,WAS,45.63,4,2,22,CHA,,tov,42,False,False,,,116-93,116,93
 0022000215,2021-02-07,CHA,WAS,45.63,4,2,22,CHA,CHA,ft_make,16,False,False,Monk Free Throw Technical (11 PTS),,117-93,117,93
+0022000215,2021-02-07,CHA,WAS,45.63,4,2,22,CHA,,tov,42,False,False,,,116-93,116,93
 0022000215,2021-02-07,CHA,WAS,45.82,4,2,11,CHA,CHA,tov,4,False,False,Richards Traveling Turnover (P1.T11),,117-93,117,93
 0022000215,2021-02-07,CHA,WAS,46.1,4,1,54,WAS,CHA,foul,2,False,False,Bridges S.FOUL (P3.PN) (J.Tiven),,117-93,117,93
 0022000215,2021-02-07,CHA,WAS,46.1,4,1,54,WAS,WAS,ft_make,11,False,False,,Brown Jr. Free Throw 1 of 2 (1 PTS),117-94,117,94

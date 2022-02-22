@@ -35,8 +35,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700799,2018-02-06,ATL,MEM,3.92,1,8,5,ATL,ATL,tov,2,False,True,Plumlee Lost Ball Turnover (P1.T1),,6-6,6,6
 0021700799,2018-02-06,ATL,MEM,3.92,1,8,5,ATL,MEM,steal,2,False,True,steal,steal,6-6,6,6
 0021700799,2018-02-06,ATL,MEM,3.95,1,8,3,MEM,MEM,tov,2,False,True,,Selden Lost Ball Turnover (P1.T4),6-6,6,6
-0021700799,2018-02-06,ATL,MEM,3.95,1,8,3,ATL,ATL,tov,4,False,False,Plumlee Traveling Turnover (P2.T2),,6-6,6,6
 0021700799,2018-02-06,ATL,MEM,3.95,1,8,3,MEM,ATL,steal,2,False,True,steal,steal,6-6,6,6
+0021700799,2018-02-06,ATL,MEM,3.95,1,8,3,ATL,ATL,tov,4,False,False,Plumlee Traveling Turnover (P2.T2),,6-6,6,6
 0021700799,2018-02-06,ATL,MEM,4.12,1,7,53,MEM,ATL,foul,1,False,False,Plumlee P.FOUL (P1.T1) (S.Corbin),,6-6,6,6
 0021700799,2018-02-06,ATL,MEM,4.3,1,7,42,MEM,MEM,fg3_miss,1,False,False,,MISS Gasol 24' 3PT Jump Shot,6-6,6,6
 0021700799,2018-02-06,ATL,MEM,4.37,1,7,38,MEM,MEM,reb,0,False,False,,Selden REBOUND (Off:1 Def:0),6-6,6,6
@@ -60,8 +60,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700799,2018-02-06,ATL,MEM,6.35,1,5,39,MEM,ATL,steal,1,False,True,steal,steal,10-6,10,6
 0021700799,2018-02-06,ATL,MEM,6.42,1,5,35,ATL,ATL,fg_make,106,False,False,Dorsey 2' Running Alley Oop Dunk Shot (2 PTS) (Schroder 2 AST),,12-6,12,6
 0021700799,2018-02-06,ATL,MEM,6.62,1,5,23,MEM,MEM,fg_miss,6,True,False,,MISS Chalmers 2' Driving Layup,12-6,12,6
-0021700799,2018-02-06,ATL,MEM,6.62,1,5,23,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,12-6,12,6
 0021700799,2018-02-06,ATL,MEM,6.62,1,5,23,MEM,ATL,block,6,True,False,block,block,12-6,12,6
+0021700799,2018-02-06,ATL,MEM,6.62,1,5,23,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,12-6,12,6
 0021700799,2018-02-06,ATL,MEM,6.67,1,5,20,MEM,MEM,fg_miss,58,False,False,,MISS Rabb 3' Turnaround Hook Shot,12-6,12,6
 0021700799,2018-02-06,ATL,MEM,6.72,1,5,17,ATL,ATL,reb,0,False,False,Collins REBOUND (Off:0 Def:1),,12-6,12,6
 0021700799,2018-02-06,ATL,MEM,6.93,1,5,4,ATL,ATL,fg_miss,79,False,False,MISS Dorsey 14' Pullup Jump Shot,,12-6,12,6
@@ -111,8 +111,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700799,2018-02-06,ATL,MEM,11.6,1,0,24,ATL,ATL,ft_make,11,False,False,Collins Free Throw 1 of 2 (1 PTS),,21-15,21,15
 0021700799,2018-02-06,ATL,MEM,11.6,1,0,24,ATL,ATL,ft_make,12,False,False,Collins Free Throw 2 of 2 (2 PTS),,22-15,22,15
 0021700799,2018-02-06,ATL,MEM,11.98,1,0,1,MEM,MEM,fg_miss,6,True,False,,MISS Martin 8' Driving Layup,22-15,22,15
-0021700799,2018-02-06,ATL,MEM,11.98,1,0,1,ATL,ATL,reb,0,False,False,Collins REBOUND (Off:1 Def:3),,22-15,22,15
 0021700799,2018-02-06,ATL,MEM,11.98,1,0,1,MEM,ATL,block,6,True,False,block,block,22-15,22,15
+0021700799,2018-02-06,ATL,MEM,11.98,1,0,1,ATL,ATL,reb,0,False,False,Collins REBOUND (Off:1 Def:3),,22-15,22,15
 0021700799,2018-02-06,ATL,MEM,12.0,1,0,0,ATL,,period_end,0,False,False,,,22-15,22,15
 0021700799,2018-02-06,ATL,MEM,12.0,2,12,0,ATL,,period_start,0,False,False,,,22-15,22,15
 0021700799,2018-02-06,ATL,MEM,12.23,2,11,46,ATL,ATL,fg_miss,5,False,False,MISS Collins 2' Layup,,22-15,22,15
@@ -123,10 +123,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700799,2018-02-06,ATL,MEM,13.15,2,10,51,MEM,MEM,fg_miss,101,False,False,,MISS Selden 8' Driving Floating Jump Shot,22-17,22,17
 0021700799,2018-02-06,ATL,MEM,13.18,2,10,49,ATL,ATL,reb,0,False,False,Collins REBOUND (Off:1 Def:4),,22-17,22,17
 0021700799,2018-02-06,ATL,MEM,13.2,2,10,48,ATL,ATL,tov,1,False,True,Collins Bad Pass Turnover (P2.T6),,22-17,22,17
-0021700799,2018-02-06,ATL,MEM,13.2,2,10,48,MEM,MEM,fg_miss,6,True,False,,MISS McLemore 6' Driving Layup,22-17,22,17
-0021700799,2018-02-06,ATL,MEM,13.2,2,10,48,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,22-17,22,17
-0021700799,2018-02-06,ATL,MEM,13.2,2,10,48,MEM,ATL,block,6,True,False,block,block,22-17,22,17
 0021700799,2018-02-06,ATL,MEM,13.2,2,10,48,ATL,MEM,steal,1,False,True,steal,steal,22-17,22,17
+0021700799,2018-02-06,ATL,MEM,13.2,2,10,48,MEM,MEM,fg_miss,6,True,False,,MISS McLemore 6' Driving Layup,22-17,22,17
+0021700799,2018-02-06,ATL,MEM,13.2,2,10,48,MEM,ATL,block,6,True,False,block,block,22-17,22,17
+0021700799,2018-02-06,ATL,MEM,13.2,2,10,48,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,22-17,22,17
 0021700799,2018-02-06,ATL,MEM,13.27,2,10,44,MEM,MEM,tov,45,False,False,,McLemore Out of Bounds - Bad Pass Turnover Turnover (P1.T9),22-17,22,17
 0021700799,2018-02-06,ATL,MEM,13.43,2,10,34,ATL,ATL,fg_make,79,False,False,Taylor 21' Pullup Jump Shot (2 PTS) (Prince 1 AST),,24-17,24,17
 0021700799,2018-02-06,ATL,MEM,13.85,2,10,9,MEM,MEM,fg_make,47,False,False,,Gasol 17' Turnaround Jump Shot (6 PTS),24-19,24,19
@@ -170,8 +170,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700799,2018-02-06,ATL,MEM,18.3,2,5,42,ATL,ATL,reb,0,False,False,Muscala REBOUND (Off:2 Def:0),,37-29,37,29
 0021700799,2018-02-06,ATL,MEM,18.3,2,5,42,ATL,ATL,fg_make,72,False,False,Muscala 1' Putback Layup (4 PTS),,39-29,39,29
 0021700799,2018-02-06,ATL,MEM,18.53,2,5,28,MEM,MEM,fg_miss,5,True,False,,MISS Brooks 2' Layup,39-29,39,29
-0021700799,2018-02-06,ATL,MEM,18.53,2,5,28,MEM,MEM,reb,0,False,False,,Wright REBOUND (Off:1 Def:0),39-29,39,29
 0021700799,2018-02-06,ATL,MEM,18.53,2,5,28,MEM,ATL,block,5,True,False,block,block,39-29,39,29
+0021700799,2018-02-06,ATL,MEM,18.53,2,5,28,MEM,MEM,reb,0,False,False,,Wright REBOUND (Off:1 Def:0),39-29,39,29
 0021700799,2018-02-06,ATL,MEM,18.53,2,5,28,MEM,MEM,fg_make,72,False,False,,Wright 2' Putback Layup (2 PTS),39-31,39,31
 0021700799,2018-02-06,ATL,MEM,18.95,2,5,3,ATL,ATL,fg_miss,79,True,False,MISS Dorsey 3' Pullup Jump Shot,,39-31,39,31
 0021700799,2018-02-06,ATL,MEM,18.95,2,5,3,ATL,MEM,block,79,True,False,block,block,39-31,39,31
@@ -374,9 +374,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700799,2018-02-06,ATL,MEM,41.58,4,6,25,MEM,MEM,reb,0,False,False,,Rabb REBOUND (Off:3 Def:6),94-62,94,62
 0021700799,2018-02-06,ATL,MEM,41.7,4,6,18,MEM,MEM,fg_make,47,False,False,,Rabb 18' Turnaround Jump Shot (8 PTS) (McLemore 1 AST),94-64,94,64
 0021700799,2018-02-06,ATL,MEM,42.17,4,5,50,ATL,ATL,fg_miss,101,True,False,MISS Dorsey 9' Driving Floating Jump Shot,,94-64,94,64
+0021700799,2018-02-06,ATL,MEM,42.17,4,5,50,ATL,MEM,block,101,True,False,block,block,94-64,94,64
 0021700799,2018-02-06,ATL,MEM,42.17,4,5,50,ATL,ATL,reb,0,False,False,HAWKS Rebound,,94-64,94,64
 0021700799,2018-02-06,ATL,MEM,42.17,4,5,50,ATL,ATL,tov,11,False,False,HAWKS Turnover: Shot Clock (T#11),,94-64,94,64
-0021700799,2018-02-06,ATL,MEM,42.17,4,5,50,ATL,MEM,block,101,True,False,block,block,94-64,94,64
 0021700799,2018-02-06,ATL,MEM,42.38,4,5,37,MEM,MEM,fg_miss,1,False,False,,MISS Rabb 20' Jump Shot,94-64,94,64
 0021700799,2018-02-06,ATL,MEM,42.43,4,5,34,ATL,ATL,reb,0,False,False,Collins REBOUND (Off:3 Def:6),,94-64,94,64
 0021700799,2018-02-06,ATL,MEM,42.65,4,5,21,ATL,ATL,fg3_make,1,False,False,Babbitt 27' 3PT Jump Shot (3 PTS) (Taylor 3 AST),,97-64,97,64

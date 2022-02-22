@@ -48,8 +48,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700135,2017-11-04,DEN,GSW,5.18,1,6,49,GSW,GSW,fg_make,7,False,False,,Durant 2' Dunk (7 PTS),7-17,7,17
 0021700135,2017-11-04,DEN,GSW,5.5,1,6,30,DEN,DEN,fg_make,6,False,False,Chandler 7' Driving Layup (2 PTS),,9-17,9,17
 0021700135,2017-11-04,DEN,GSW,5.92,1,6,5,GSW,GSW,fg_miss,1,True,False,,MISS Thompson 19' Jump Shot,9-17,9,17
-0021700135,2017-11-04,DEN,GSW,5.92,1,6,5,DEN,DEN,reb,0,False,False,Harris REBOUND (Off:0 Def:1),,9-17,9,17
 0021700135,2017-11-04,DEN,GSW,5.92,1,6,5,GSW,DEN,block,1,True,False,block,block,9-17,9,17
+0021700135,2017-11-04,DEN,GSW,5.92,1,6,5,DEN,DEN,reb,0,False,False,Harris REBOUND (Off:0 Def:1),,9-17,9,17
 0021700135,2017-11-04,DEN,GSW,6.07,1,5,56,DEN,DEN,fg_make,5,False,False,Millsap 5' Layup (4 PTS) (Chandler 1 AST),,11-17,11,17
 0021700135,2017-11-04,DEN,GSW,6.23,1,5,46,GSW,GSW,fg_make,44,False,False,,Thompson 2' Reverse Layup (7 PTS) (Curry 3 AST),11-19,11,19
 0021700135,2017-11-04,DEN,GSW,6.57,1,5,26,DEN,DEN,fg_miss,5,True,False,MISS Millsap 4' Layup,,11-19,11,19
@@ -145,8 +145,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700135,2017-11-04,DEN,GSW,16.72,2,7,17,DEN,DEN,fg3_make,1,False,False,Barton 25' 3PT Jump Shot (10 PTS) (Beasley 2 AST),,38-36,38,36
 0021700135,2017-11-04,DEN,GSW,16.97,2,7,2,GSW,GSW,fg3_make,1,False,False,,Durant 24' 3PT Jump Shot (10 PTS) (McCaw 1 AST),38-39,38,39
 0021700135,2017-11-04,DEN,GSW,17.32,2,6,41,DEN,DEN,fg_miss,5,True,False,MISS Faried 4' Layup,,38-39,38,39
-0021700135,2017-11-04,DEN,GSW,17.32,2,6,41,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,38-39,38,39
 0021700135,2017-11-04,DEN,GSW,17.32,2,6,41,DEN,GSW,block,5,True,False,block,block,38-39,38,39
+0021700135,2017-11-04,DEN,GSW,17.32,2,6,41,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,38-39,38,39
 0021700135,2017-11-04,DEN,GSW,17.48,2,6,31,DEN,DEN,fg3_miss,63,False,False,MISS Barton 26' 3PT Fadeaway Jumper,,38-39,38,39
 0021700135,2017-11-04,DEN,GSW,17.53,2,6,28,GSW,GSW,reb,0,False,False,,Thompson REBOUND (Off:0 Def:1),38-39,38,39
 0021700135,2017-11-04,DEN,GSW,17.58,2,6,25,DEN,GSW,foul,26,False,False,,Durant Offensive Charge Foul (P1.T4) (L.Wood),38-39,38,39
@@ -155,9 +155,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700135,2017-11-04,DEN,GSW,17.78,2,6,13,DEN,GSW,foul,2,False,False,,Bell S.FOUL (P1.PN) (L.Holtkamp),40-39,40,39
 0021700135,2017-11-04,DEN,GSW,17.78,2,6,13,DEN,DEN,ft_make,10,False,False,Mudiay Free Throw 1 of 1 (7 PTS),,41-39,41,39
 0021700135,2017-11-04,DEN,GSW,18.18,2,5,49,GSW,GSW,fg_miss,7,True,False,,MISS Bell 5' Dunk,41-39,41,39
+0021700135,2017-11-04,DEN,GSW,18.18,2,5,49,GSW,DEN,block,7,True,False,block,block,41-39,41,39
 0021700135,2017-11-04,DEN,GSW,18.18,2,5,49,GSW,GSW,reb,0,False,False,,Warriors Rebound,41-39,41,39
 0021700135,2017-11-04,DEN,GSW,18.18,2,5,49,GSW,GSW,tov,11,False,False,,Warriors Turnover: Shot Clock (T#6),41-39,41,39
-0021700135,2017-11-04,DEN,GSW,18.18,2,5,49,GSW,DEN,block,7,True,False,block,block,41-39,41,39
 0021700135,2017-11-04,DEN,GSW,18.33,2,5,40,DEN,GSW,foul,2,False,False,,Bell S.FOUL (P2.PN) (D.Guthrie),41-39,41,39
 0021700135,2017-11-04,DEN,GSW,18.33,2,5,40,DEN,DEN,ft_make,11,False,False,Mudiay Free Throw 1 of 2 (8 PTS),,42-39,42,39
 0021700135,2017-11-04,DEN,GSW,18.33,2,5,40,DEN,DEN,ft_miss,12,False,False,MISS Mudiay Free Throw 2 of 2,,42-39,42,39
@@ -267,10 +267,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700135,2017-11-04,DEN,GSW,29.62,3,6,23,DEN,DEN,fg3_miss,1,False,False,MISS Barton 27' 3PT Jump Shot,,59-81,59,81
 0021700135,2017-11-04,DEN,GSW,29.65,3,6,21,DEN,DEN,reb,0,False,False,Plumlee REBOUND (Off:1 Def:2),,59-81,59,81
 0021700135,2017-11-04,DEN,GSW,29.65,3,6,21,DEN,GSW,foul,2,False,False,,Green S.FOUL (P1.T1) (L.Wood),59-81,59,81
-0021700135,2017-11-04,DEN,GSW,29.65,3,6,21,DEN,DEN,ft_miss,12,False,False,MISS Plumlee Free Throw 2 of 2,,59-81,59,81
-0021700135,2017-11-04,DEN,GSW,29.65,3,6,21,GSW,GSW,reb,0,False,False,,Warriors Rebound,59-81,59,81
 0021700135,2017-11-04,DEN,GSW,29.65,3,6,21,DEN,DEN,ft_miss,11,False,False,MISS Plumlee Free Throw 1 of 2,,59-81,59,81
 0021700135,2017-11-04,DEN,GSW,29.65,3,6,21,DEN,DEN,reb,1,False,False,NUGGETS Rebound,,59-81,59,81
+0021700135,2017-11-04,DEN,GSW,29.65,3,6,21,DEN,DEN,ft_miss,12,False,False,MISS Plumlee Free Throw 2 of 2,,59-81,59,81
+0021700135,2017-11-04,DEN,GSW,29.65,3,6,21,GSW,GSW,reb,0,False,False,,Warriors Rebound,59-81,59,81
 0021700135,2017-11-04,DEN,GSW,29.78,3,6,13,GSW,GSW,fg3_make,79,False,False,,Curry 25' 3PT Pullup Jump Shot (16 PTS) (Green 7 AST),59-84,59,84
 0021700135,2017-11-04,DEN,GSW,29.8,3,6,12,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 5 Short 0),,59-84,59,84
 0021700135,2017-11-04,DEN,GSW,30.13,3,5,52,DEN,DEN,fg_make,3,False,False,Faried 5' Hook Shot (9 PTS) (Barton 2 AST),,61-84,61,84
@@ -433,8 +433,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700135,2017-11-04,DEN,GSW,45.6,4,2,24,DEN,DEN,fg_miss,6,False,False,MISS Beasley 3' Driving Layup,,101-125,101,125
 0021700135,2017-11-04,DEN,GSW,45.63,4,2,22,GSW,GSW,reb,0,False,False,,Casspi REBOUND (Off:0 Def:7),101-125,101,125
 0021700135,2017-11-04,DEN,GSW,45.9,4,2,6,GSW,GSW,fg_miss,44,True,False,,MISS Casspi 4' Reverse Layup,101-125,101,125
-0021700135,2017-11-04,DEN,GSW,45.9,4,2,6,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,101-125,101,125
 0021700135,2017-11-04,DEN,GSW,45.9,4,2,6,GSW,DEN,block,44,True,False,block,block,101-125,101,125
+0021700135,2017-11-04,DEN,GSW,45.9,4,2,6,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,101-125,101,125
 0021700135,2017-11-04,DEN,GSW,46.0,4,2,0,GSW,GSW,tov,11,False,False,,Warriors Turnover: Shot Clock (T#14),101-125,101,125
 0021700135,2017-11-04,DEN,GSW,46.15,4,1,51,DEN,DEN,fg_make,47,False,False,Lyles 7' Turnaround Jump Shot (11 PTS),,103-125,103,125
 0021700135,2017-11-04,DEN,GSW,46.47,4,1,32,GSW,GSW,tov,39,False,False,,Looney Step Out of Bounds Turnover (P2.T15),103-125,103,125

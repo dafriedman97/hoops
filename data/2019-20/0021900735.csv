@@ -74,8 +74,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900735,2020-02-01,POR,UTA,8.93,1,3,4,POR,POR,fg_miss,79,False,False,MISS Trent Jr. 19' Pullup Jump Shot,,21-32,21,32
 0021900735,2020-02-01,POR,UTA,8.98,1,3,1,UTA,UTA,reb,0,False,False,,O'Neale REBOUND (Off:0 Def:2),21-32,21,32
 0021900735,2020-02-01,POR,UTA,9.1,1,2,54,UTA,UTA,fg_miss,6,False,False,,MISS Mitchell 2' Driving Layup,21-32,21,32
-0021900735,2020-02-01,POR,UTA,9.15,1,2,51,UTA,UTA,fg_make,97,False,False,,Davis 1' Tip Layup Shot (2 PTS),21-34,21,34
 0021900735,2020-02-01,POR,UTA,9.15,1,2,51,UTA,UTA,reb,0,False,False,,Davis REBOUND (Off:1 Def:0),21-34,21,34
+0021900735,2020-02-01,POR,UTA,9.15,1,2,51,UTA,UTA,fg_make,97,False,False,,Davis 1' Tip Layup Shot (2 PTS),21-34,21,34
 0021900735,2020-02-01,POR,UTA,9.42,1,2,35,POR,POR,fg_make,79,False,False,Trent Jr. 20' Pullup Jump Shot (2 PTS),,23-34,23,34
 0021900735,2020-02-01,POR,UTA,9.75,1,2,15,UTA,UTA,fg_miss,79,False,False,,MISS Clarkson 15' Pullup Jump Shot,23-34,23,34
 0021900735,2020-02-01,POR,UTA,9.78,1,2,13,POR,POR,reb,0,False,False,Whiteside REBOUND (Off:0 Def:2),,23-34,23,34
@@ -336,8 +336,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900735,2020-02-01,POR,UTA,40.3,4,7,42,UTA,UTA,fg3_miss,1,False,False,,MISS Niang 25' 3PT Jump Shot,105-92,105,92
 0021900735,2020-02-01,POR,UTA,40.33,4,7,40,POR,POR,reb,0,False,False,Whiteside REBOUND (Off:5 Def:13),,105-92,105,92
 0021900735,2020-02-01,POR,UTA,40.47,4,7,32,POR,POR,fg_miss,73,True,False,MISS Lillard 2' Driving Reverse Layup,,105-92,105,92
-0021900735,2020-02-01,POR,UTA,40.47,4,7,32,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,105-92,105,92
 0021900735,2020-02-01,POR,UTA,40.47,4,7,32,POR,UTA,block,73,True,False,block,block,105-92,105,92
+0021900735,2020-02-01,POR,UTA,40.47,4,7,32,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,105-92,105,92
 0021900735,2020-02-01,POR,UTA,40.55,4,7,27,POR,UTA,foul,2,False,False,,Bogdanovic S.FOUL (P3.T4) (J.Butler),105-92,105,92
 0021900735,2020-02-01,POR,UTA,40.55,4,7,27,POR,POR,ft_make,11,False,False,Anthony Free Throw 1 of 2 (14 PTS),,106-92,106,92
 0021900735,2020-02-01,POR,UTA,40.55,4,7,27,POR,POR,ft_make,12,False,False,Anthony Free Throw 2 of 2 (15 PTS),,107-92,107,92
@@ -353,8 +353,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900735,2020-02-01,POR,UTA,41.65,4,6,21,UTA,POR,steal,1,False,True,steal,steal,107-92,107,92
 0021900735,2020-02-01,POR,UTA,41.72,4,6,17,POR,POR,fg3_make,1,False,False,Lillard 27' 3PT Jump Shot (42 PTS) (McCollum 2 AST),,110-92,110,92
 0021900735,2020-02-01,POR,UTA,41.97,4,6,2,UTA,UTA,fg_miss,6,False,False,,MISS Conley 1' Driving Layup,110-92,110,92
-0021900735,2020-02-01,POR,UTA,42.02,4,5,59,UTA,UTA,fg_make,97,False,False,,Gobert 1' Tip Layup Shot (6 PTS),110-94,110,94
 0021900735,2020-02-01,POR,UTA,42.02,4,5,59,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:4 Def:7),110-94,110,94
+0021900735,2020-02-01,POR,UTA,42.02,4,5,59,UTA,UTA,fg_make,97,False,False,,Gobert 1' Tip Layup Shot (6 PTS),110-94,110,94
 0021900735,2020-02-01,POR,UTA,42.27,4,5,44,POR,POR,fg_make,73,False,False,Lillard 1' Driving Reverse Layup (44 PTS),,112-94,112,94
 0021900735,2020-02-01,POR,UTA,42.57,4,5,26,UTA,UTA,fg_miss,101,False,False,,MISS Conley 13' Driving Floating Jump Shot,112-94,112,94
 0021900735,2020-02-01,POR,UTA,42.62,4,5,23,POR,POR,reb,0,False,False,McCollum REBOUND (Off:0 Def:3),,112-94,112,94
@@ -404,8 +404,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900735,2020-02-01,POR,UTA,46.48,4,1,31,UTA,POR,foul,4,False,False,Gabriel OFF.Foul (P1) (K.Cutler),,122-101,122,101
 0021900735,2020-02-01,POR,UTA,46.48,4,1,31,POR,POR,tov,37,False,False,Gabriel Offensive Foul Turnover (P1.T12),,122-101,122,101
 0021900735,2020-02-01,POR,UTA,46.73,4,1,16,UTA,UTA,fg_miss,6,True,False,,MISS Niang 3' Driving Layup,122-101,122,101
-0021900735,2020-02-01,POR,UTA,46.73,4,1,16,UTA,UTA,reb,0,False,False,,Niang REBOUND (Off:1 Def:2),122-101,122,101
 0021900735,2020-02-01,POR,UTA,46.73,4,1,16,UTA,POR,block,6,True,False,block,block,122-101,122,101
+0021900735,2020-02-01,POR,UTA,46.73,4,1,16,UTA,UTA,reb,0,False,False,,Niang REBOUND (Off:1 Def:2),122-101,122,101
 0021900735,2020-02-01,POR,UTA,46.75,4,1,15,UTA,UTA,fg_make,3,False,False,,Niang 2' Hook Shot (4 PTS),122-103,122,103
 0021900735,2020-02-01,POR,UTA,47.05,4,0,57,POR,POR,fg_make,86,False,False,Trent Jr. 12' Turnaround Fadeaway (7 PTS),,124-103,124,103
 0021900735,2020-02-01,POR,UTA,47.15,4,0,51,UTA,POR,foul,1,False,False,Swanigan P.FOUL (P2.T4) (J.Butler),,124-103,124,103

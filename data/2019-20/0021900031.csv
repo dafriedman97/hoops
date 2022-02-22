@@ -78,8 +78,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900031,2019-10-26,CHI,TOR,7.48,1,4,31,TOR,TOR,tov,4,False,False,,Powell Traveling Turnover (P1.T3),15-18,15,18
 0021900031,2019-10-26,CHI,TOR,7.7,1,4,18,CHI,CHI,fg_make,57,False,False,Young 3' Driving Hook Shot (5 PTS) (Dunn 1 AST),,17-18,17,18
 0021900031,2019-10-26,CHI,TOR,8.12,1,3,53,TOR,TOR,fg_miss,5,False,False,,MISS Ibaka 2' Layup,17-18,17,18
-0021900031,2019-10-26,CHI,TOR,8.17,1,3,50,TOR,TOR,fg_make,87,False,False,,Ibaka 1' Putback Dunk (5 PTS),17-20,17,20
 0021900031,2019-10-26,CHI,TOR,8.17,1,3,50,TOR,TOR,reb,0,False,False,,Ibaka REBOUND (Off:1 Def:0),17-20,17,20
+0021900031,2019-10-26,CHI,TOR,8.17,1,3,50,TOR,TOR,fg_make,87,False,False,,Ibaka 1' Putback Dunk (5 PTS),17-20,17,20
 0021900031,2019-10-26,CHI,TOR,8.35,1,3,39,CHI,CHI,fg3_miss,1,False,False,MISS Young 3PT Jump Shot,,17-20,17,20
 0021900031,2019-10-26,CHI,TOR,8.38,1,3,37,TOR,TOR,reb,0,False,False,,Ibaka REBOUND (Off:1 Def:1),17-20,17,20
 0021900031,2019-10-26,CHI,TOR,8.48,1,3,31,CHI,TOR,foul,4,False,False,,VanVleet OFF.Foul (P1) (B.Nansel),17-20,17,20
@@ -157,8 +157,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900031,2019-10-26,CHI,TOR,16.22,2,7,47,TOR,TOR,fg3_make,1,False,False,,Thomas 27' 3PT Jump Shot (3 PTS) (Lowry 5 AST),31-31,31,31
 0021900031,2019-10-26,CHI,TOR,16.25,2,7,45,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 2 Short 0),,31-31,31,31
 0021900031,2019-10-26,CHI,TOR,16.53,2,7,28,CHI,CHI,fg_miss,6,True,False,MISS Satoransky 2' Driving Layup,,31-31,31,31
-0021900031,2019-10-26,CHI,TOR,16.53,2,7,28,CHI,CHI,reb,0,False,False,BULLS Rebound,,31-31,31,31
 0021900031,2019-10-26,CHI,TOR,16.53,2,7,28,CHI,TOR,block,6,True,False,block,block,31-31,31,31
+0021900031,2019-10-26,CHI,TOR,16.53,2,7,28,CHI,CHI,reb,0,False,False,BULLS Rebound,,31-31,31,31
 0021900031,2019-10-26,CHI,TOR,16.57,2,7,26,CHI,CHI,fg3_make,1,False,False,LaVine 3PT Jump Shot (6 PTS) (Satoransky 2 AST),,34-31,34,31
 0021900031,2019-10-26,CHI,TOR,17.0,2,7,0,TOR,TOR,fg3_miss,1,False,False,,MISS Siakam 3PT Jump Shot,34-31,34,31
 0021900031,2019-10-26,CHI,TOR,17.03,2,6,58,CHI,CHI,reb,0,False,False,White REBOUND (Off:0 Def:2),,34-31,34,31
@@ -210,8 +210,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900031,2019-10-26,CHI,TOR,22.35,2,1,39,TOR,CHI,block,1,True,False,block,block,38-45,38,45
 0021900031,2019-10-26,CHI,TOR,22.42,2,1,35,CHI,CHI,reb,0,False,False,Harrison REBOUND (Off:0 Def:1),,38-45,38,45
 0021900031,2019-10-26,CHI,TOR,22.42,2,1,35,CHI,CHI,fg_miss,5,True,False,MISS Harrison 2' Layup,,38-45,38,45
-0021900031,2019-10-26,CHI,TOR,22.42,2,1,35,CHI,CHI,reb,0,False,False,BULLS Rebound,,38-45,38,45
 0021900031,2019-10-26,CHI,TOR,22.42,2,1,35,CHI,TOR,block,5,True,False,block,block,38-45,38,45
+0021900031,2019-10-26,CHI,TOR,22.42,2,1,35,CHI,CHI,reb,0,False,False,BULLS Rebound,,38-45,38,45
 0021900031,2019-10-26,CHI,TOR,22.5,2,1,30,CHI,TOR,foul,1,False,False,,VanVleet P.FOUL (P2.T4) (K.Lane),38-45,38,45
 0021900031,2019-10-26,CHI,TOR,22.67,2,1,20,CHI,CHI,fg_miss,1,False,False,MISS Carter Jr. 20' Jump Shot,,38-45,38,45
 0021900031,2019-10-26,CHI,TOR,22.7,2,1,18,TOR,TOR,reb,0,False,False,,Thomas REBOUND (Off:0 Def:2),38-45,38,45
@@ -328,18 +328,18 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900031,2019-10-26,CHI,TOR,35.33,3,0,40,TOR,TOR,fg3_miss,1,False,False,,MISS Powell 24' 3PT Jump Shot,62-84,62,84
 0021900031,2019-10-26,CHI,TOR,35.38,3,0,37,CHI,CHI,reb,0,False,False,White REBOUND (Off:0 Def:4),,62-84,62,84
 0021900031,2019-10-26,CHI,TOR,35.43,3,0,34,CHI,CHI,fg_miss,41,True,False,MISS White 2' Running Layup,,62-84,62,84
-0021900031,2019-10-26,CHI,TOR,35.43,3,0,34,CHI,CHI,reb,0,False,False,BULLS Rebound,,62-84,62,84
 0021900031,2019-10-26,CHI,TOR,35.43,3,0,34,CHI,TOR,block,41,True,False,block,block,62-84,62,84
+0021900031,2019-10-26,CHI,TOR,35.43,3,0,34,CHI,CHI,reb,0,False,False,BULLS Rebound,,62-84,62,84
 0021900031,2019-10-26,CHI,TOR,35.45,3,0,33,CHI,CHI,fg3_miss,1,False,False,MISS Kornet 3PT Jump Shot,,62-84,62,84
 0021900031,2019-10-26,CHI,TOR,35.5,3,0,30,TOR,TOR,reb,0,False,False,,Powell REBOUND (Off:0 Def:4),62-84,62,84
 0021900031,2019-10-26,CHI,TOR,35.8,3,0,12,TOR,TOR,fg3_miss,1,False,False,,MISS VanVleet 26' 3PT Jump Shot,62-84,62,84
 0021900031,2019-10-26,CHI,TOR,35.83,3,0,10,CHI,CHI,reb,0,False,False,White REBOUND (Off:0 Def:5),,62-84,62,84
 0021900031,2019-10-26,CHI,TOR,35.92,3,0,5,CHI,TOR,foul,28,False,False,,Powell Personal Take Foul (P1.T4) (M.Davis),62-84,62,84
 0021900031,2019-10-26,CHI,TOR,36.0,3,0,0,CHI,CHI,fg_miss,5,True,False,MISS White 2' Layup,,62-84,62,84
+0021900031,2019-10-26,CHI,TOR,36.0,3,0,0,CHI,TOR,block,5,True,False,block,block,62-84,62,84
 0021900031,2019-10-26,CHI,TOR,36.0,3,0,0,TOR,TOR,reb,0,False,False,,Ibaka REBOUND (Off:2 Def:3),62-84,62,84
 0021900031,2019-10-26,CHI,TOR,36.0,3,0,0,TOR,,period_end,0,False,False,,,62-84,62,84
 0021900031,2019-10-26,CHI,TOR,36.0,4,12,0,TOR,,period_start,0,False,False,,,62-84,62,84
-0021900031,2019-10-26,CHI,TOR,36.0,3,0,0,CHI,TOR,block,5,True,False,block,block,62-84,62,84
 0021900031,2019-10-26,CHI,TOR,36.32,4,11,41,CHI,TOR,foul,1,False,False,,Ibaka P.FOUL (P1.T1) (B.Nansel),62-84,62,84
 0021900031,2019-10-26,CHI,TOR,36.47,4,11,32,CHI,CHI,fg_make,78,False,False,Carter Jr. 6' Floating Jump Shot (12 PTS) (Satoransky 4 AST),,64-84,64,84
 0021900031,2019-10-26,CHI,TOR,36.9,4,11,6,TOR,TOR,fg3_miss,1,False,False,,MISS Powell 3PT Jump Shot,64-84,64,84
@@ -355,9 +355,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900031,2019-10-26,CHI,TOR,37.7,4,10,18,TOR,TOR,fg_make,108,False,False,,Ibaka 1' Cutting Dunk Shot (11 PTS) (Lowry 7 AST),64-89,64,89
 0021900031,2019-10-26,CHI,TOR,37.83,4,10,10,CHI,CHI,fg_miss,5,True,False,MISS Markkanen 2' Layup,,64-89,64,89
 0021900031,2019-10-26,CHI,TOR,37.83,4,10,10,CHI,CHI,fg_miss,5,True,False,MISS Markkanen 2' Layup,,64-89,64,89
+0021900031,2019-10-26,CHI,TOR,37.83,4,10,10,CHI,TOR,block,5,True,False,block,block,64-89,64,89
+0021900031,2019-10-26,CHI,TOR,37.83,4,10,10,CHI,TOR,block,5,True,False,block,block,64-89,64,89
 0021900031,2019-10-26,CHI,TOR,37.83,4,10,10,CHI,CHI,reb,0,False,False,Markkanen REBOUND (Off:1 Def:5),,64-89,64,89
-0021900031,2019-10-26,CHI,TOR,37.83,4,10,10,CHI,TOR,block,5,True,False,block,block,64-89,64,89
-0021900031,2019-10-26,CHI,TOR,37.83,4,10,10,CHI,TOR,block,5,True,False,block,block,64-89,64,89
 0021900031,2019-10-26,CHI,TOR,37.87,4,10,8,CHI,TOR,foul,2,False,False,,Ibaka S.FOUL (P2.T3) (M.Davis),64-89,64,89
 0021900031,2019-10-26,CHI,TOR,37.87,4,10,8,CHI,CHI,ft_make,11,False,False,Markkanen Free Throw 1 of 2 (8 PTS),,65-89,65,89
 0021900031,2019-10-26,CHI,TOR,37.87,4,10,8,CHI,CHI,ft_make,12,False,False,Markkanen Free Throw 2 of 2 (9 PTS),,66-89,66,89
@@ -399,8 +399,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900031,2019-10-26,CHI,TOR,41.42,4,6,35,CHI,CHI,fg_miss,5,False,False,MISS Kornet 2' Layup,,74-96,74,96
 0021900031,2019-10-26,CHI,TOR,41.45,4,6,33,CHI,CHI,reb,0,False,False,Kornet REBOUND (Off:1 Def:0),,74-96,74,96
 0021900031,2019-10-26,CHI,TOR,41.47,4,6,32,CHI,CHI,fg_miss,72,True,False,MISS Kornet 1' Putback Layup,,74-96,74,96
-0021900031,2019-10-26,CHI,TOR,41.47,4,6,32,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:0 Def:4),74-96,74,96
 0021900031,2019-10-26,CHI,TOR,41.47,4,6,32,CHI,TOR,block,72,True,False,block,block,74-96,74,96
+0021900031,2019-10-26,CHI,TOR,41.47,4,6,32,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:0 Def:4),74-96,74,96
 0021900031,2019-10-26,CHI,TOR,41.63,4,6,22,TOR,TOR,fg3_miss,1,False,False,,MISS Lowry 26' 3PT Jump Shot,74-96,74,96
 0021900031,2019-10-26,CHI,TOR,41.68,4,6,19,CHI,CHI,reb,0,False,False,Dunn REBOUND (Off:0 Def:5),,74-96,74,96
 0021900031,2019-10-26,CHI,TOR,41.85,4,6,9,CHI,CHI,fg_miss,5,False,False,MISS Dunn 3' Layup,,74-96,74,96
@@ -419,15 +419,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900031,2019-10-26,CHI,TOR,43.03,4,4,58,TOR,TOR,fg_miss,86,False,False,,MISS Siakam 12' Turnaround Fadeaway Shot,76-96,76,96
 0021900031,2019-10-26,CHI,TOR,43.07,4,4,56,CHI,CHI,reb,0,False,False,White REBOUND (Off:0 Def:6),,76-96,76,96
 0021900031,2019-10-26,CHI,TOR,43.12,4,4,53,CHI,CHI,fg_miss,6,True,False,MISS White 2' Driving Layup,,76-96,76,96
-0021900031,2019-10-26,CHI,TOR,43.12,4,4,53,CHI,CHI,reb,0,False,False,BULLS Rebound,,76-96,76,96
 0021900031,2019-10-26,CHI,TOR,43.12,4,4,53,CHI,TOR,block,6,True,False,block,block,76-96,76,96
+0021900031,2019-10-26,CHI,TOR,43.12,4,4,53,CHI,CHI,reb,0,False,False,BULLS Rebound,,76-96,76,96
 0021900031,2019-10-26,CHI,TOR,43.27,4,4,44,CHI,CHI,fg3_miss,1,False,False,MISS Dunn 25' 3PT Jump Shot,,76-96,76,96
 0021900031,2019-10-26,CHI,TOR,43.32,4,4,41,TOR,TOR,reb,0,False,False,,Davis REBOUND (Off:0 Def:1),76-96,76,96
 0021900031,2019-10-26,CHI,TOR,43.43,4,4,34,TOR,CHI,foul,1,False,False,Harrison P.FOUL (P1.PN) (B.Nansel),,76-96,76,96
 0021900031,2019-10-26,CHI,TOR,43.43,4,4,34,TOR,TOR,ft_make,11,False,False,,Davis Free Throw 1 of 2 (1 PTS),76-97,76,97
 0021900031,2019-10-26,CHI,TOR,43.43,4,4,34,TOR,TOR,ft_make,12,False,False,,Davis Free Throw 2 of 2 (2 PTS),76-98,76,98
-0021900031,2019-10-26,CHI,TOR,43.43,4,4,34,TOR,,violation,1,False,False,,,76-98,76,98
 0021900031,2019-10-26,CHI,TOR,43.43,4,4,34,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 6 Short 0),,76-98,76,98
+0021900031,2019-10-26,CHI,TOR,43.43,4,4,34,TOR,,violation,1,False,False,,,76-98,76,98
 0021900031,2019-10-26,CHI,TOR,43.58,4,4,25,CHI,CHI,fg_miss,6,True,False,MISS Harrison 2' Driving Layup,,76-98,76,98
 0021900031,2019-10-26,CHI,TOR,43.58,4,4,25,CHI,TOR,block,6,True,False,block,block,76-98,76,98
 0021900031,2019-10-26,CHI,TOR,43.63,4,4,22,TOR,TOR,reb,0,False,False,,Davis REBOUND (Off:0 Def:2),76-98,76,98
@@ -437,8 +437,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900031,2019-10-26,CHI,TOR,44.02,4,3,59,CHI,CHI,ft_make,12,False,False,Kornet Free Throw 2 of 2 (7 PTS),,78-100,78,100
 0021900031,2019-10-26,CHI,TOR,44.17,4,3,50,TOR,TOR,tov,4,False,False,,Powell Traveling Turnover (P3.T21),78-100,78,100
 0021900031,2019-10-26,CHI,TOR,44.43,4,3,34,CHI,CHI,fg_miss,6,True,False,MISS White 1' Driving Layup,,78-100,78,100
-0021900031,2019-10-26,CHI,TOR,44.43,4,3,34,TOR,TOR,reb,0,False,False,,Raptors Rebound,78-100,78,100
 0021900031,2019-10-26,CHI,TOR,44.43,4,3,34,CHI,TOR,block,6,True,False,block,block,78-100,78,100
+0021900031,2019-10-26,CHI,TOR,44.43,4,3,34,TOR,TOR,reb,0,False,False,,Raptors Rebound,78-100,78,100
 0021900031,2019-10-26,CHI,TOR,44.7,4,3,18,TOR,CHI,foul,2,False,False,Arcidiacono S.FOUL (P1.PN) (K.Lane),,78-100,78,100
 0021900031,2019-10-26,CHI,TOR,44.7,4,3,18,TOR,TOR,ft_make,11,False,False,,Boucher Free Throw 1 of 2 (1 PTS),78-101,78,101
 0021900031,2019-10-26,CHI,TOR,44.7,4,3,18,TOR,TOR,ft_make,12,False,False,,Boucher Free Throw 2 of 2 (2 PTS),78-102,78,102
@@ -452,8 +452,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900031,2019-10-26,CHI,TOR,45.7,4,2,18,TOR,TOR,fg3_miss,1,False,False,,MISS Miller 26' 3PT Jump Shot,81-102,81,102
 0021900031,2019-10-26,CHI,TOR,45.75,4,2,15,CHI,CHI,reb,0,False,False,Kornet REBOUND (Off:1 Def:1),,81-102,81,102
 0021900031,2019-10-26,CHI,TOR,45.88,4,2,7,CHI,CHI,fg_miss,6,True,False,MISS Kornet 2' Driving Layup,,81-102,81,102
-0021900031,2019-10-26,CHI,TOR,45.88,4,2,7,TOR,TOR,reb,0,False,False,,Miller REBOUND (Off:0 Def:2),81-102,81,102
 0021900031,2019-10-26,CHI,TOR,45.88,4,2,7,CHI,TOR,block,6,True,False,block,block,81-102,81,102
+0021900031,2019-10-26,CHI,TOR,45.88,4,2,7,TOR,TOR,reb,0,False,False,,Miller REBOUND (Off:0 Def:2),81-102,81,102
 0021900031,2019-10-26,CHI,TOR,45.95,4,2,3,TOR,TOR,tov,39,False,False,,Davis Step Out of Bounds Turnover (P1.T23),81-102,81,102
 0021900031,2019-10-26,CHI,TOR,46.15,4,1,51,CHI,CHI,fg_miss,79,False,False,MISS White 18' Pullup Jump Shot,,81-102,81,102
 0021900031,2019-10-26,CHI,TOR,46.23,4,1,46,TOR,TOR,reb,0,False,False,,Miller REBOUND (Off:0 Def:3),81-102,81,102
@@ -465,8 +465,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900031,2019-10-26,CHI,TOR,46.58,4,1,25,TOR,TOR,reb,0,False,False,,Boucher REBOUND (Off:1 Def:1),81-103,81,103
 0021900031,2019-10-26,CHI,TOR,46.68,4,1,19,TOR,TOR,fg3_make,1,False,False,,Powell 25' 3PT Jump Shot (7 PTS) (Davis 2 AST),81-106,81,106
 0021900031,2019-10-26,CHI,TOR,46.85,4,1,9,CHI,CHI,fg_miss,101,False,False,MISS Valentine 6' Driving Floating Jump Shot,,81-106,81,106
-0021900031,2019-10-26,CHI,TOR,46.93,4,1,4,CHI,CHI,fg_miss,97,False,False,MISS Valentine 1' Tip Layup Shot,,81-106,81,106
 0021900031,2019-10-26,CHI,TOR,46.93,4,1,4,CHI,CHI,reb,0,False,False,Valentine REBOUND (Off:1 Def:0),,81-106,81,106
+0021900031,2019-10-26,CHI,TOR,46.93,4,1,4,CHI,CHI,fg_miss,97,False,False,MISS Valentine 1' Tip Layup Shot,,81-106,81,106
 0021900031,2019-10-26,CHI,TOR,46.95,4,1,3,TOR,TOR,reb,0,False,False,,Davis REBOUND (Off:0 Def:3),81-106,81,106
 0021900031,2019-10-26,CHI,TOR,46.97,4,1,2,TOR,TOR,fg_miss,50,False,False,,MISS Davis 1' Running Dunk,81-106,81,106
 0021900031,2019-10-26,CHI,TOR,47.07,4,0,56,TOR,TOR,reb,0,False,False,,Powell REBOUND (Off:1 Def:4),81-106,81,106

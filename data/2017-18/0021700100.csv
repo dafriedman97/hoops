@@ -87,9 +87,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700100,2017-10-30,LAC,GSW,9.47,1,2,32,LAC,LAC,fg_miss,96,False,False,MISS Griffin 8' Turnaround Bank Hook Shot,,20-24,20,24
 0021700100,2017-10-30,LAC,GSW,9.55,1,2,27,LAC,LAC,reb,0,False,False,Reed REBOUND (Off:3 Def:0),,20-24,20,24
 0021700100,2017-10-30,LAC,GSW,9.55,1,2,27,LAC,LAC,fg_miss,97,True,False,MISS Reed 1' Tip Layup Shot,,20-24,20,24
+0021700100,2017-10-30,LAC,GSW,9.55,1,2,27,LAC,GSW,block,97,True,False,block,block,20-24,20,24
 0021700100,2017-10-30,LAC,GSW,9.55,1,2,27,GSW,GSW,reb,0,False,False,,Livingston REBOUND (Off:1 Def:1),20-24,20,24
 0021700100,2017-10-30,LAC,GSW,9.55,1,2,27,GSW,LAC,violation,5,False,False,Rivers Violation:Kicked Ball (M.Kogut),,20-24,20,24
-0021700100,2017-10-30,LAC,GSW,9.55,1,2,27,LAC,GSW,block,97,True,False,block,block,20-24,20,24
 0021700100,2017-10-30,LAC,GSW,9.7,1,2,18,GSW,GSW,fg3_miss,1,False,False,,MISS Curry 3PT Jump Shot,20-24,20,24
 0021700100,2017-10-30,LAC,GSW,9.73,1,2,16,GSW,GSW,reb,0,False,False,,Curry REBOUND (Off:1 Def:0),20-24,20,24
 0021700100,2017-10-30,LAC,GSW,9.73,1,2,16,GSW,LAC,foul,2,False,False,W. Johnson S.FOUL (P1.PN) (J.Goble),,20-24,20,24
@@ -127,8 +127,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700100,2017-10-30,LAC,GSW,13.55,2,10,27,GSW,GSW,fg_miss,80,False,False,,MISS Thompson 14' Step Back Jump Shot,30-36,30,36
 0021700100,2017-10-30,LAC,GSW,13.6,2,10,24,LAC,LAC,reb,0,False,False,Jordan REBOUND (Off:0 Def:3),,30-36,30,36
 0021700100,2017-10-30,LAC,GSW,13.68,2,10,19,LAC,LAC,fg_miss,5,True,False,MISS Thornwell 4' Layup,,30-36,30,36
-0021700100,2017-10-30,LAC,GSW,13.68,2,10,19,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,30-36,30,36
 0021700100,2017-10-30,LAC,GSW,13.68,2,10,19,LAC,GSW,block,5,True,False,block,block,30-36,30,36
+0021700100,2017-10-30,LAC,GSW,13.68,2,10,19,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,30-36,30,36
 0021700100,2017-10-30,LAC,GSW,13.73,2,10,16,LAC,LAC,fg_miss,47,False,False,MISS W. Johnson 20' Turnaround Jump Shot,,30-36,30,36
 0021700100,2017-10-30,LAC,GSW,13.77,2,10,14,GSW,GSW,reb,0,False,False,,Thompson REBOUND (Off:0 Def:1),30-36,30,36
 0021700100,2017-10-30,LAC,GSW,13.9,2,10,6,GSW,GSW,fg_make,75,False,False,,Green 2' Driving Finger Roll Layup (3 PTS),30-38,30,38
@@ -140,8 +140,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700100,2017-10-30,LAC,GSW,14.63,2,9,22,LAC,LAC,fg_make,80,False,False,Gallinari 20' Step Back Jump Shot (9 PTS),,34-38,34,38
 0021700100,2017-10-30,LAC,GSW,14.88,2,9,7,GSW,GSW,fg_make,5,False,False,,Green 2' Layup (5 PTS) (Iguodala 3 AST),34-40,34,40
 0021700100,2017-10-30,LAC,GSW,15.05,2,8,57,LAC,LAC,fg_miss,6,True,False,MISS Williams 2' Driving Layup,,34-40,34,40
-0021700100,2017-10-30,LAC,GSW,15.05,2,8,57,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,34-40,34,40
 0021700100,2017-10-30,LAC,GSW,15.05,2,8,57,LAC,GSW,block,6,True,False,block,block,34-40,34,40
+0021700100,2017-10-30,LAC,GSW,15.05,2,8,57,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,34-40,34,40
 0021700100,2017-10-30,LAC,GSW,15.22,2,8,47,LAC,LAC,fg_make,102,False,False,W. Johnson 5' Driving Floating Bank Jump Shot (6 PTS) (Gallinari 1 AST),,36-40,36,40
 0021700100,2017-10-30,LAC,GSW,15.35,2,8,39,GSW,LAC,foul,1,False,False,W. Johnson P.FOUL (P2.T1) (J.Goble),,36-40,36,40
 0021700100,2017-10-30,LAC,GSW,15.42,2,8,35,LAC,GSW,foul,4,False,False,,Thompson OFF.Foul (P2) (J.Goble),36-40,36,40
@@ -195,8 +195,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700100,2017-10-30,LAC,GSW,20.97,2,3,2,LAC,GSW,steal,1,False,True,steal,steal,48-59,48,59
 0021700100,2017-10-30,LAC,GSW,21.07,2,2,56,GSW,GSW,fg_make,41,False,False,,Thompson 2' Running Layup (8 PTS) (Curry 3 AST),48-61,48,61
 0021700100,2017-10-30,LAC,GSW,21.22,2,2,47,LAC,GSW,foul,2,False,False,,Bell S.FOUL (P1.T3) (J.Goble),48-61,48,61
-0021700100,2017-10-30,LAC,GSW,21.22,2,2,47,LAC,LAC,ft_make,12,False,False,Williams Free Throw 2 of 2 (5 PTS),,49-61,49,61
 0021700100,2017-10-30,LAC,GSW,21.22,2,2,47,LAC,LAC,ft_make,11,False,False,Williams Free Throw 1 of 2 (6 PTS),,50-61,50,61
+0021700100,2017-10-30,LAC,GSW,21.22,2,2,47,LAC,LAC,ft_make,12,False,False,Williams Free Throw 2 of 2 (5 PTS),,49-61,49,61
 0021700100,2017-10-30,LAC,GSW,21.47,2,2,32,GSW,LAC,foul,1,False,False,Rivers P.FOUL (P2.PN) (M.Kogut),,50-61,50,61
 0021700100,2017-10-30,LAC,GSW,21.47,2,2,32,GSW,GSW,ft_make,11,False,False,,Curry Free Throw 1 of 2 (10 PTS),50-62,50,62
 0021700100,2017-10-30,LAC,GSW,21.47,2,2,32,GSW,GSW,ft_make,12,False,False,,Curry Free Throw 2 of 2 (11 PTS),50-63,50,63

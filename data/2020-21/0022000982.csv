@@ -65,8 +65,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000982,2021-05-03,LAL,DEN,8.22,1,3,47,DEN,LAL,block,63,True,False,block,block,16-17,16,17
 0022000982,2021-05-03,LAL,DEN,8.27,1,3,44,LAL,LAL,reb,0,False,False,Harrell REBOUND (Off:0 Def:1),,16-17,16,17
 0022000982,2021-05-03,LAL,DEN,8.43,1,3,34,LAL,LAL,fg_miss,7,True,False,MISS Davis 3' Dunk,,16-17,16,17
-0022000982,2021-05-03,LAL,DEN,8.43,1,3,34,LAL,LAL,reb,0,False,False,LAKERS Rebound,,16-17,16,17
 0022000982,2021-05-03,LAL,DEN,8.43,1,3,34,LAL,DEN,block,7,True,False,block,block,16-17,16,17
+0022000982,2021-05-03,LAL,DEN,8.43,1,3,34,LAL,LAL,reb,0,False,False,LAKERS Rebound,,16-17,16,17
 0022000982,2021-05-03,LAL,DEN,8.55,1,3,27,LAL,DEN,foul,1,False,False,,Green P.FOUL (P1.T4) (J.Goldenberg),16-17,16,17
 0022000982,2021-05-03,LAL,DEN,8.68,1,3,19,LAL,LAL,tov,4,False,False,Horton-Tucker Traveling Turnover (P1.T5),,16-17,16,17
 0022000982,2021-05-03,LAL,DEN,8.98,1,3,1,DEN,DEN,fg3_make,1,False,False,,Harrison 24' 3PT Jump Shot (3 PTS) (Jokic 1 AST),16-20,16,20
@@ -129,11 +129,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000982,2021-05-03,LAL,DEN,15.32,2,8,41,DEN,LAL,foul,4,False,False,Matthews OFF.Foul (P1) (M.Ayotte),,26-30,26,30
 0022000982,2021-05-03,LAL,DEN,15.32,2,8,41,LAL,LAL,tov,37,False,False,Matthews Offensive Foul Turnover (P1.T7),,26-30,26,30
 0022000982,2021-05-03,LAL,DEN,15.53,2,8,28,DEN,DEN,fg_miss,5,True,False,,MISS Dozier 5' Layup,26-30,26,30
-0022000982,2021-05-03,LAL,DEN,15.53,2,8,28,DEN,DEN,reb,0,False,False,,Nuggets Rebound,26-30,26,30
 0022000982,2021-05-03,LAL,DEN,15.53,2,8,28,DEN,LAL,block,5,True,False,block,block,26-30,26,30
+0022000982,2021-05-03,LAL,DEN,15.53,2,8,28,DEN,DEN,reb,0,False,False,,Nuggets Rebound,26-30,26,30
 0022000982,2021-05-03,LAL,DEN,15.62,2,8,23,DEN,DEN,tov,2,False,True,,McGee Lost Ball Turnover (P1.T4),26-30,26,30
-0022000982,2021-05-03,LAL,DEN,15.62,2,8,23,LAL,LAL,tov,45,False,False,Horton-Tucker Out of Bounds - Bad Pass Turnover Turnover (P2.T8),,26-30,26,30
 0022000982,2021-05-03,LAL,DEN,15.62,2,8,23,DEN,LAL,steal,2,False,True,steal,steal,26-30,26,30
+0022000982,2021-05-03,LAL,DEN,15.62,2,8,23,LAL,LAL,tov,45,False,False,Horton-Tucker Out of Bounds - Bad Pass Turnover Turnover (P2.T8),,26-30,26,30
 0022000982,2021-05-03,LAL,DEN,15.83,2,8,10,DEN,DEN,fg_make,78,False,False,,McGee 6' Floating Jump Shot (8 PTS) (Rivers 3 AST),26-32,26,32
 0022000982,2021-05-03,LAL,DEN,16.18,2,7,49,LAL,LAL,fg3_miss,1,False,False,MISS McLemore 24' 3PT Jump Shot,,26-32,26,32
 0022000982,2021-05-03,LAL,DEN,16.25,2,7,45,DEN,DEN,reb,0,False,False,,McGee REBOUND (Off:1 Def:2),26-32,26,32
@@ -168,10 +168,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000982,2021-05-03,LAL,DEN,20.3,2,3,42,LAL,LAL,reb,1,False,False,LAKERS Rebound,,33-37,33,37
 0022000982,2021-05-03,LAL,DEN,20.3,2,3,42,LAL,LAL,ft_make,12,False,False,Davis Free Throw 2 of 2 (14 PTS),,34-37,34,37
 0022000982,2021-05-03,LAL,DEN,20.6,2,3,24,LAL,LAL,timeout,7,False,False,LAKERS Timeout: Coach Challenge (Full 2 Short 0),,34-37,34,37
-0022000982,2021-05-03,LAL,DEN,20.6,2,3,24,DEN,DEN,fg_miss,1,True,False,,MISS Jokic 5' Jump Shot,34-37,34,37
-0022000982,2021-05-03,LAL,DEN,20.6,2,3,24,DEN,DEN,reb,0,False,False,,Nuggets Rebound,34-37,34,37
 0022000982,2021-05-03,LAL,DEN,20.6,2,3,24,,LAL,jump_ball,0,False,False,,,34-37,34,37
+0022000982,2021-05-03,LAL,DEN,20.6,2,3,24,DEN,DEN,fg_miss,1,True,False,,MISS Jokic 5' Jump Shot,34-37,34,37
 0022000982,2021-05-03,LAL,DEN,20.6,2,3,24,DEN,LAL,block,1,True,False,block,block,34-37,34,37
+0022000982,2021-05-03,LAL,DEN,20.6,2,3,24,DEN,DEN,reb,0,False,False,,Nuggets Rebound,34-37,34,37
 0022000982,2021-05-03,LAL,DEN,20.62,2,3,23,DEN,LAL,foul,3,False,False,Drummond L.B.FOUL (P3.T3) (J.Goldenberg),,34-37,34,37
 0022000982,2021-05-03,LAL,DEN,20.67,2,3,20,DEN,DEN,fg_miss,5,True,False,,MISS Jokic 7' Layup,34-37,34,37
 0022000982,2021-05-03,LAL,DEN,20.67,2,3,20,DEN,LAL,block,5,True,False,block,block,34-37,34,37
@@ -247,8 +247,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000982,2021-05-03,LAL,DEN,27.57,3,8,26,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 3 Short 0),,48-52,48,52
 0022000982,2021-05-03,LAL,DEN,27.88,3,8,7,LAL,LAL,fg3_make,1,False,False,Caruso 26' 3PT Jump Shot (8 PTS) (Davis 1 AST),,51-52,51,52
 0022000982,2021-05-03,LAL,DEN,28.15,3,7,51,DEN,DEN,fg3_miss,1,False,False,,MISS Porter Jr. 28' 3PT Jump Shot,51-52,51,52
-0022000982,2021-05-03,LAL,DEN,28.25,3,7,45,DEN,DEN,fg_make,107,False,False,,Jokic Tip Dunk Shot (17 PTS),51-54,51,54
 0022000982,2021-05-03,LAL,DEN,28.25,3,7,45,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:3 Def:2),51-54,51,54
+0022000982,2021-05-03,LAL,DEN,28.25,3,7,45,DEN,DEN,fg_make,107,False,False,,Jokic Tip Dunk Shot (17 PTS),51-54,51,54
 0022000982,2021-05-03,LAL,DEN,28.37,3,7,38,LAL,DEN,foul,2,False,False,,Jokic S.FOUL (P2.T2) (M.Ayotte),51-54,51,54
 0022000982,2021-05-03,LAL,DEN,28.37,3,7,38,LAL,LAL,ft_make,11,False,False,Caruso Free Throw 1 of 2 (9 PTS),,52-54,52,54
 0022000982,2021-05-03,LAL,DEN,28.37,3,7,38,LAL,LAL,ft_miss,12,False,False,MISS Caruso Free Throw 2 of 2,,52-54,52,54
@@ -308,8 +308,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000982,2021-05-03,LAL,DEN,33.7,3,2,18,DEN,DEN,fg3_miss,80,False,False,,MISS Porter Jr. 24' 3PT Step Back Jump Shot,64-62,64,62
 0022000982,2021-05-03,LAL,DEN,33.77,3,2,14,LAL,LAL,reb,0,False,False,Morris REBOUND (Off:1 Def:3),,64-62,64,62
 0022000982,2021-05-03,LAL,DEN,33.9,3,2,6,LAL,LAL,tov,2,False,True,Horton-Tucker Lost Ball Turnover (P3.T16),,64-62,64,62
-0022000982,2021-05-03,LAL,DEN,33.9,3,2,6,DEN,LAL,foul,28,False,False,Caldwell-Pope Personal Take Foul (P3.T4) (J.Goldenberg),,64-62,64,62
 0022000982,2021-05-03,LAL,DEN,33.9,3,2,6,LAL,DEN,steal,2,False,True,steal,steal,64-62,64,62
+0022000982,2021-05-03,LAL,DEN,33.9,3,2,6,DEN,LAL,foul,28,False,False,Caldwell-Pope Personal Take Foul (P3.T4) (J.Goldenberg),,64-62,64,62
 0022000982,2021-05-03,LAL,DEN,34.17,3,1,50,DEN,LAL,foul,2,False,False,Gasol S.FOUL (P2.PN) (M.Ayotte),,64-62,64,62
 0022000982,2021-05-03,LAL,DEN,34.17,3,1,50,DEN,DEN,ft_miss,11,False,False,,MISS Rivers Free Throw 1 of 2,64-62,64,62
 0022000982,2021-05-03,LAL,DEN,34.17,3,1,50,DEN,DEN,reb,1,False,False,,Nuggets Rebound,64-62,64,62
@@ -320,8 +320,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000982,2021-05-03,LAL,DEN,34.5,3,1,30,DEN,DEN,reb,0,False,False,,Rivers REBOUND (Off:0 Def:2),65-63,65,63
 0022000982,2021-05-03,LAL,DEN,34.7,3,1,18,DEN,DEN,tov,39,False,False,,Green Step Out of Bounds Turnover (P1.T12),65-63,65,63
 0022000982,2021-05-03,LAL,DEN,35.02,3,0,59,LAL,LAL,fg_miss,6,True,False,MISS McLemore 5' Driving Layup,,65-63,65,63
-0022000982,2021-05-03,LAL,DEN,35.02,3,0,59,LAL,LAL,reb,0,False,False,LAKERS Rebound,,65-63,65,63
 0022000982,2021-05-03,LAL,DEN,35.02,3,0,59,LAL,DEN,block,6,True,False,block,block,65-63,65,63
+0022000982,2021-05-03,LAL,DEN,35.02,3,0,59,LAL,LAL,reb,0,False,False,LAKERS Rebound,,65-63,65,63
 0022000982,2021-05-03,LAL,DEN,35.1,3,0,54,LAL,LAL,fg_make,75,False,False,Horton-Tucker 3' Driving Finger Roll Layup (2 PTS) (Gasol 1 AST),,67-63,67,63
 0022000982,2021-05-03,LAL,DEN,35.37,3,0,38,DEN,DEN,fg_make,101,False,False,,McGee 15' Driving Floating Jump Shot (10 PTS) (Rivers 4 AST),67-65,67,65
 0022000982,2021-05-03,LAL,DEN,35.65,3,0,21,LAL,LAL,fg3_make,1,False,False,Gasol 3PT Jump Shot (7 PTS) (Horton-Tucker 1 AST),,70-65,70,65

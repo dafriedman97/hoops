@@ -143,14 +143,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000707,2021-03-29,WAS,IND,14.4,2,9,36,IND,IND,fg_make,50,False,False,,Bitadze 8' Running Dunk (4 PTS) (McConnell 3 AST),32-36,32,36
 0022000707,2021-03-29,WAS,IND,14.42,2,9,35,WAS,WAS,timeout,1,False,False,WIZARDS Timeout: Regular (Full 2 Short 0),,32-36,32,36
 0022000707,2021-03-29,WAS,IND,14.72,2,9,17,WAS,WAS,fg_miss,98,False,False,MISS Gafford 7' Cutting Layup Shot,,32-36,32,36
-0022000707,2021-03-29,WAS,IND,14.78,2,9,13,WAS,WAS,fg_make,107,False,False,Gafford Tip Dunk Shot (8 PTS),,34-36,34,36
 0022000707,2021-03-29,WAS,IND,14.78,2,9,13,WAS,WAS,reb,0,False,False,Gafford REBOUND (Off:3 Def:1),,34-36,34,36
+0022000707,2021-03-29,WAS,IND,14.78,2,9,13,WAS,WAS,fg_make,107,False,False,Gafford Tip Dunk Shot (8 PTS),,34-36,34,36
 0022000707,2021-03-29,WAS,IND,14.92,2,9,5,IND,IND,tov,1,False,True,,McConnell Bad Pass Turnover (P1.T6),34-36,34,36
 0022000707,2021-03-29,WAS,IND,14.92,2,9,5,IND,WAS,steal,1,False,True,steal,steal,34-36,34,36
 0022000707,2021-03-29,WAS,IND,15.0,2,9,0,WAS,WAS,fg_make,41,False,False,Westbrook 5' Running Layup (8 PTS) (Robinson 2 AST),,36-36,36,36
 0022000707,2021-03-29,WAS,IND,15.2,2,8,48,IND,IND,fg_miss,6,False,False,,MISS Lamb 4' Driving Layup,36-36,36,36
-0022000707,2021-03-29,WAS,IND,15.28,2,8,43,IND,IND,fg_make,97,False,False,,Sabonis Tip Layup Shot (7 PTS),36-38,36,38
 0022000707,2021-03-29,WAS,IND,15.28,2,8,43,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:1 Def:3),36-38,36,38
+0022000707,2021-03-29,WAS,IND,15.28,2,8,43,IND,IND,fg_make,97,False,False,,Sabonis Tip Layup Shot (7 PTS),36-38,36,38
 0022000707,2021-03-29,WAS,IND,15.6,2,8,24,WAS,WAS,fg3_make,1,False,False,Hutchison 3PT Jump Shot (5 PTS) (Westbrook 6 AST),,39-38,39,38
 0022000707,2021-03-29,WAS,IND,15.88,2,8,7,IND,IND,fg_make,75,False,False,,Holiday 6' Driving Finger Roll Layup (4 PTS) (Sabonis 1 AST),39-40,39,40
 0022000707,2021-03-29,WAS,IND,16.08,2,7,55,,WAS,jump_ball,0,False,False,Jump Ball Hutchison vs. McConnell: Tip to Mathews,,39-40,39,40
@@ -186,8 +186,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000707,2021-03-29,WAS,IND,18.87,2,5,8,IND,IND,tov,45,False,False,,LeVert Out of Bounds - Bad Pass Turnover Turnover (P1.T8),49-46,49,46
 0022000707,2021-03-29,WAS,IND,19.15,2,4,51,WAS,WAS,tov,4,False,False,Lopez Traveling Turnover (P1.T8),,49-46,49,46
 0022000707,2021-03-29,WAS,IND,19.37,2,4,38,IND,IND,fg_miss,73,True,False,,MISS LeVert 6' Driving Reverse Layup,49-46,49,46
-0022000707,2021-03-29,WAS,IND,19.37,2,4,38,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,49-46,49,46
 0022000707,2021-03-29,WAS,IND,19.37,2,4,38,IND,WAS,block,73,True,False,block,block,49-46,49,46
+0022000707,2021-03-29,WAS,IND,19.37,2,4,38,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,49-46,49,46
 0022000707,2021-03-29,WAS,IND,19.58,2,4,25,WAS,WAS,fg_miss,78,False,False,MISS Hachimura 6' Floating Jump Shot,,49-46,49,46
 0022000707,2021-03-29,WAS,IND,19.6,2,4,24,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:1 Def:6),49-46,49,46
 0022000707,2021-03-29,WAS,IND,19.67,2,4,20,WAS,IND,foul,26,False,False,,Sabonis Offensive Charge Foul (P2.T4) (P.Fraher),49-46,49,46
@@ -338,11 +338,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000707,2021-03-29,WAS,IND,34.22,3,1,47,WAS,WAS,reb,0,False,False,Westbrook REBOUND (Off:1 Def:8),,84-88,84,88
 0022000707,2021-03-29,WAS,IND,34.28,3,1,43,WAS,WAS,fg_make,6,False,False,Neto 3' Driving Layup (10 PTS),,86-88,86,88
 0022000707,2021-03-29,WAS,IND,34.3,3,1,42,IND,IND,tov,1,False,True,,Bitadze Bad Pass Turnover (P1.T13),86-88,86,88
+0022000707,2021-03-29,WAS,IND,34.3,3,1,42,IND,WAS,steal,1,False,True,steal,steal,86-88,86,88
 0022000707,2021-03-29,WAS,IND,34.3,3,1,42,WAS,IND,foul,2,False,False,,Bitadze S.FOUL (P3.T3) (P.Fraher),86-88,86,88
 0022000707,2021-03-29,WAS,IND,34.3,3,1,42,WAS,WAS,ft_miss,11,False,False,MISS Westbrook Free Throw 1 of 2,,86-88,86,88
 0022000707,2021-03-29,WAS,IND,34.3,3,1,42,WAS,WAS,reb,1,False,False,WIZARDS Rebound,,86-88,86,88
 0022000707,2021-03-29,WAS,IND,34.3,3,1,42,WAS,WAS,ft_miss,12,False,False,MISS Westbrook Free Throw 2 of 2,,86-88,86,88
-0022000707,2021-03-29,WAS,IND,34.3,3,1,42,IND,WAS,steal,1,False,True,steal,steal,86-88,86,88
 0022000707,2021-03-29,WAS,IND,34.35,3,1,39,IND,IND,reb,0,False,False,,Lamb REBOUND (Off:1 Def:3),86-88,86,88
 0022000707,2021-03-29,WAS,IND,34.58,3,1,25,IND,IND,fg3_make,1,False,False,,Bitadze 28' 3PT Jump Shot (7 PTS) (McConnell 6 AST),86-91,86,91
 0022000707,2021-03-29,WAS,IND,34.83,3,1,10,WAS,WAS,fg_make,75,False,False,Neto 4' Driving Finger Roll Layup (12 PTS),,88-91,88,91
@@ -403,8 +403,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000707,2021-03-29,WAS,IND,39.88,4,8,7,IND,IND,ft_make,12,False,False,,McConnell Free Throw 2 of 2 (8 PTS),110-108,110,108
 0022000707,2021-03-29,WAS,IND,40.03,4,7,58,WAS,IND,foul,1,False,False,,McConnell P.FOUL (P1.T3) (G.Petraitis),110-108,110,108
 0022000707,2021-03-29,WAS,IND,40.2,4,7,48,WAS,WAS,fg_miss,73,True,False,MISS Robinson 4' Driving Reverse Layup,,110-108,110,108
-0022000707,2021-03-29,WAS,IND,40.2,4,7,48,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,110-108,110,108
 0022000707,2021-03-29,WAS,IND,40.2,4,7,48,WAS,IND,block,73,True,False,block,block,110-108,110,108
+0022000707,2021-03-29,WAS,IND,40.2,4,7,48,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,110-108,110,108
 0022000707,2021-03-29,WAS,IND,40.32,4,7,41,WAS,WAS,fg_miss,67,False,False,MISS Lopez 4' Hook Bank Shot,,110-108,110,108
 0022000707,2021-03-29,WAS,IND,40.37,4,7,38,IND,IND,reb,0,False,False,,Turner REBOUND (Off:2 Def:3),110-108,110,108
 0022000707,2021-03-29,WAS,IND,40.4,4,7,36,IND,WAS,foul,2,False,False,Neto S.FOUL (P2.PN) (L.Holtkamp),,110-108,110,108
@@ -448,8 +448,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000707,2021-03-29,WAS,IND,44.1,4,3,54,IND,WAS,violation,5,False,False,Len Violation:Kicked Ball (P.Fraher),,119-116,119,116
 0022000707,2021-03-29,WAS,IND,44.25,4,3,45,IND,IND,fg3_miss,1,False,False,,MISS Brogdon 27' 3PT Jump Shot,119-116,119,116
 0022000707,2021-03-29,WAS,IND,44.28,4,3,43,WAS,WAS,reb,0,False,False,Avdija REBOUND (Off:0 Def:7),,119-116,119,116
-0022000707,2021-03-29,WAS,IND,44.43,4,3,34,WAS,WAS,tov,40,False,False,Len Out of Bounds Lost Ball Turnover (P1.T18),,119-116,119,116
 0022000707,2021-03-29,WAS,IND,44.43,4,3,34,IND,IND,timeout,7,False,False,,Pacers Timeout: Coach Challenge (Reg.5 Short 0),119-116,119,116
+0022000707,2021-03-29,WAS,IND,44.43,4,3,34,WAS,WAS,tov,40,False,False,Len Out of Bounds Lost Ball Turnover (P1.T18),,119-116,119,116
 0022000707,2021-03-29,WAS,IND,44.63,4,3,22,IND,IND,tov,40,False,False,,Sabonis Out of Bounds Lost Ball Turnover (P5.T14),119-116,119,116
 0022000707,2021-03-29,WAS,IND,45.07,4,2,56,WAS,WAS,tov,2,False,True,Westbrook Lost Ball Turnover (P4.T19),,119-116,119,116
 0022000707,2021-03-29,WAS,IND,45.07,4,2,56,WAS,IND,steal,2,False,True,steal,steal,119-116,119,116

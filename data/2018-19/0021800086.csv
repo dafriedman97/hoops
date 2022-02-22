@@ -20,8 +20,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800086,2018-10-28,LAC,WAS,2.68,1,9,19,LAC,LAC,fg3_miss,1,False,False,MISS Gallinari 26' 3PT Jump Shot,,7-2,7,2
 0021800086,2018-10-28,LAC,WAS,2.75,1,9,15,WAS,WAS,reb,0,False,False,,Porter Jr. REBOUND (Off:0 Def:1),7-2,7,2
 0021800086,2018-10-28,LAC,WAS,2.83,1,9,10,WAS,WAS,fg_miss,73,True,False,,MISS Wall 3' Driving Reverse Layup,7-2,7,2
-0021800086,2018-10-28,LAC,WAS,2.83,1,9,10,WAS,WAS,reb,0,False,False,,Wizards Rebound,7-2,7,2
 0021800086,2018-10-28,LAC,WAS,2.83,1,9,10,WAS,LAC,block,73,True,False,block,block,7-2,7,2
+0021800086,2018-10-28,LAC,WAS,2.83,1,9,10,WAS,WAS,reb,0,False,False,,Wizards Rebound,7-2,7,2
 0021800086,2018-10-28,LAC,WAS,2.9,1,9,6,WAS,WAS,fg_miss,86,False,False,,MISS Porter Jr. 9' Turnaround Fadeaway Shot,7-2,7,2
 0021800086,2018-10-28,LAC,WAS,2.98,1,9,1,WAS,WAS,reb,0,False,False,,Mahinmi REBOUND (Off:1 Def:1),7-2,7,2
 0021800086,2018-10-28,LAC,WAS,2.98,1,9,1,WAS,WAS,fg_make,97,False,False,,Mahinmi 1' Tip Layup Shot (2 PTS),7-4,7,4
@@ -79,9 +79,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800086,2018-10-28,LAC,WAS,9.28,1,2,43,WAS,WAS,fg3_miss,1,False,False,,MISS Morris 3PT Jump Shot,19-16,19,16
 0021800086,2018-10-28,LAC,WAS,9.37,1,2,38,WAS,WAS,reb,0,False,False,,Green REBOUND (Off:1 Def:0),19-16,19,16
 0021800086,2018-10-28,LAC,WAS,9.37,1,2,38,WAS,WAS,fg_miss,5,True,False,,MISS Wall 2' Layup,19-16,19,16
+0021800086,2018-10-28,LAC,WAS,9.37,1,2,38,WAS,LAC,block,5,True,False,block,block,19-16,19,16
 0021800086,2018-10-28,LAC,WAS,9.37,1,2,38,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,19-16,19,16
 0021800086,2018-10-28,LAC,WAS,9.37,1,2,38,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.1 Short 0),19-16,19,16
-0021800086,2018-10-28,LAC,WAS,9.37,1,2,38,WAS,LAC,block,5,True,False,block,block,19-16,19,16
 0021800086,2018-10-28,LAC,WAS,9.67,1,2,20,LAC,LAC,fg3_miss,79,False,False,MISS Harris 25' 3PT Pullup Jump Shot,,19-16,19,16
 0021800086,2018-10-28,LAC,WAS,9.73,1,2,16,LAC,LAC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:1 Def:0),,19-16,19,16
 0021800086,2018-10-28,LAC,WAS,9.78,1,2,13,LAC,LAC,fg_make,98,False,False,Harrell Cutting Layup Shot (2 PTS) (Bradley 1 AST),,21-16,21,16
@@ -192,8 +192,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800086,2018-10-28,LAC,WAS,19.97,2,4,2,WAS,WAS,ft_miss,12,False,False,,MISS Wall Free Throw 2 of 2,56-46,56,46
 0021800086,2018-10-28,LAC,WAS,20.02,2,3,59,LAC,LAC,reb,0,False,False,Gortat REBOUND (Off:0 Def:4),,56-46,56,46
 0021800086,2018-10-28,LAC,WAS,20.27,2,3,44,LAC,LAC,fg_miss,5,True,False,MISS Gallinari 2' Layup,,56-46,56,46
-0021800086,2018-10-28,LAC,WAS,20.27,2,3,44,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,56-46,56,46
 0021800086,2018-10-28,LAC,WAS,20.27,2,3,44,LAC,WAS,block,5,True,False,block,block,56-46,56,46
+0021800086,2018-10-28,LAC,WAS,20.27,2,3,44,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,56-46,56,46
 0021800086,2018-10-28,LAC,WAS,20.38,2,3,37,LAC,LAC,fg_miss,63,False,False,MISS Gallinari 11' Fadeaway Jumper,,56-46,56,46
 0021800086,2018-10-28,LAC,WAS,20.48,2,3,31,WAS,WAS,reb,0,False,False,,Beal REBOUND (Off:0 Def:4),56-46,56,46
 0021800086,2018-10-28,LAC,WAS,20.57,2,3,26,WAS,WAS,fg_make,41,False,False,,Wall 1' Running Layup (14 PTS),56-48,56,48
@@ -225,8 +225,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800086,2018-10-28,LAC,WAS,23.33,2,0,40,WAS,WAS,fg3_miss,80,False,False,,MISS Wall 25' 3PT Step Back Jump Shot,69-54,69,54
 0021800086,2018-10-28,LAC,WAS,23.42,2,0,35,WAS,WAS,reb,0,False,False,,Mahinmi REBOUND (Off:3 Def:3),69-54,69,54
 0021800086,2018-10-28,LAC,WAS,23.43,2,0,34,WAS,WAS,fg_miss,44,True,False,,MISS Mahinmi 4' Reverse Layup,69-54,69,54
-0021800086,2018-10-28,LAC,WAS,23.43,2,0,34,LAC,LAC,reb,0,False,False,Gallinari REBOUND (Off:1 Def:3),,69-54,69,54
 0021800086,2018-10-28,LAC,WAS,23.43,2,0,34,WAS,LAC,block,44,True,False,block,block,69-54,69,54
+0021800086,2018-10-28,LAC,WAS,23.43,2,0,34,LAC,LAC,reb,0,False,False,Gallinari REBOUND (Off:1 Def:3),,69-54,69,54
 0021800086,2018-10-28,LAC,WAS,23.77,2,0,14,LAC,LAC,fg3_miss,1,False,False,MISS Bradley 24' 3PT Jump Shot,,69-54,69,54
 0021800086,2018-10-28,LAC,WAS,23.83,2,0,10,LAC,LAC,reb,0,False,False,Beverley REBOUND (Off:1 Def:1),,69-54,69,54
 0021800086,2018-10-28,LAC,WAS,23.98,2,0,1,LAC,LAC,fg_miss,80,False,False,MISS Beverley 21' Step Back Jump Shot,,69-54,69,54
@@ -316,8 +316,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800086,2018-10-28,LAC,WAS,32.33,3,3,40,WAS,WAS,tov,45,False,False,,Green Out of Bounds - Bad Pass Turnover Turnover (P1.T8),87-71,87,71
 0021800086,2018-10-28,LAC,WAS,32.53,3,3,28,LAC,LAC,fg3_make,1,False,False,Beverley 26' 3PT Jump Shot (8 PTS),,90-71,90,71
 0021800086,2018-10-28,LAC,WAS,32.83,3,3,10,WAS,WAS,fg_miss,101,True,False,,MISS Wall 4' Driving Floating Jump Shot,90-71,90,71
-0021800086,2018-10-28,LAC,WAS,32.83,3,3,10,LAC,LAC,reb,0,False,False,Harris REBOUND (Off:3 Def:7),,90-71,90,71
 0021800086,2018-10-28,LAC,WAS,32.83,3,3,10,WAS,LAC,block,101,True,False,block,block,90-71,90,71
+0021800086,2018-10-28,LAC,WAS,32.83,3,3,10,LAC,LAC,reb,0,False,False,Harris REBOUND (Off:3 Def:7),,90-71,90,71
 0021800086,2018-10-28,LAC,WAS,32.9,3,3,6,LAC,LAC,fg_make,41,False,False,Harris 1' Running Layup (22 PTS),,92-71,92,71
 0021800086,2018-10-28,LAC,WAS,32.9,3,3,6,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.6 Short 0),92-71,92,71
 0021800086,2018-10-28,LAC,WAS,33.07,3,2,56,WAS,WAS,fg3_miss,1,False,False,,MISS Beal 25' 3PT Jump Shot,92-71,92,71
@@ -343,8 +343,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800086,2018-10-28,LAC,WAS,35.25,3,0,45,LAC,LAC,fg_miss,1,False,False,MISS Williams 9' Jump Shot,,97-75,97,75
 0021800086,2018-10-28,LAC,WAS,35.28,3,0,43,WAS,WAS,reb,0,False,False,,Oubre Jr. REBOUND (Off:0 Def:3),97-75,97,75
 0021800086,2018-10-28,LAC,WAS,35.38,3,0,37,WAS,WAS,fg_miss,6,True,False,,MISS Oubre Jr. 2' Driving Layup,97-75,97,75
-0021800086,2018-10-28,LAC,WAS,35.38,3,0,37,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:1 Def:5),,97-75,97,75
 0021800086,2018-10-28,LAC,WAS,35.38,3,0,37,WAS,LAC,block,6,True,False,block,block,97-75,97,75
+0021800086,2018-10-28,LAC,WAS,35.38,3,0,37,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:1 Def:5),,97-75,97,75
 0021800086,2018-10-28,LAC,WAS,35.53,3,0,28,LAC,LAC,fg_miss,41,False,False,MISS Williams 2' Running Layup,,97-75,97,75
 0021800086,2018-10-28,LAC,WAS,35.53,3,0,28,WAS,WAS,reb,0,False,False,,Wizards Rebound,97-75,97,75
 0021800086,2018-10-28,LAC,WAS,35.53,3,0,28,WAS,LAC,foul,3,False,False,Harrell L.B.FOUL (P2.PN) (K.Cutler),,97-75,97,75

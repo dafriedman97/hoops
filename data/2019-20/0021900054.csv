@@ -7,8 +7,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900054,2019-10-29,LAL,MEM,0.5,1,11,30,LAL,LAL,fg_miss,43,False,False,MISS McGee 2' Alley Oop Layup,,0-2,0,2
 0021900054,2019-10-29,LAL,MEM,0.57,1,11,26,MEM,MEM,reb,0,False,False,,Morant REBOUND (Off:0 Def:1),0-2,0,2
 0021900054,2019-10-29,LAL,MEM,0.63,1,11,22,MEM,MEM,fg_miss,41,True,False,,MISS Morant 4' Running Layup,0-2,0,2
-0021900054,2019-10-29,LAL,MEM,0.63,1,11,22,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,0-2,0,2
 0021900054,2019-10-29,LAL,MEM,0.63,1,11,22,MEM,LAL,block,41,True,False,block,block,0-2,0,2
+0021900054,2019-10-29,LAL,MEM,0.63,1,11,22,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,0-2,0,2
 0021900054,2019-10-29,LAL,MEM,0.68,1,11,19,MEM,MEM,fg_make,47,False,False,,Brooks 9' Turnaround Jump Shot (2 PTS) (Crowder 1 AST),0-4,0,4
 0021900054,2019-10-29,LAL,MEM,0.88,1,11,7,LAL,LAL,tov,45,False,False,James Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,0-4,0,4
 0021900054,2019-10-29,LAL,MEM,1.13,1,10,52,MEM,MEM,fg_miss,80,False,False,,MISS Brooks 19' Step Back Jump Shot,0-4,0,4
@@ -103,8 +103,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900054,2019-10-29,LAL,MEM,10.0,1,2,0,LAL,LAL,fg3_miss,1,False,False,MISS Cook 3PT Jump Shot,,23-25,23,25
 0021900054,2019-10-29,LAL,MEM,10.07,1,1,56,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:3 Def:4),,23-25,23,25
 0021900054,2019-10-29,LAL,MEM,10.07,1,1,56,LAL,LAL,fg_miss,97,False,False,MISS Davis 1' Tip Layup Shot,,23-25,23,25
-0021900054,2019-10-29,LAL,MEM,10.1,1,1,54,LAL,LAL,fg_miss,97,False,False,MISS Davis 1' Tip Layup Shot,,23-25,23,25
 0021900054,2019-10-29,LAL,MEM,10.1,1,1,54,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:4 Def:4),,23-25,23,25
+0021900054,2019-10-29,LAL,MEM,10.1,1,1,54,LAL,LAL,fg_miss,97,False,False,MISS Davis 1' Tip Layup Shot,,23-25,23,25
 0021900054,2019-10-29,LAL,MEM,10.12,1,1,53,MEM,MEM,reb,0,False,False,,Guduric REBOUND (Off:0 Def:1),23-25,23,25
 0021900054,2019-10-29,LAL,MEM,10.15,1,1,51,MEM,MEM,fg_make,41,False,False,,Jones 1' Running Layup (4 PTS) (Guduric 1 AST),23-27,23,27
 0021900054,2019-10-29,LAL,MEM,10.17,1,1,50,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 2 Short 0),,23-27,23,27
@@ -142,8 +142,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900054,2019-10-29,LAL,MEM,14.13,2,9,52,LAL,LAL,fg_miss,79,False,False,MISS Cook 18' Pullup Jump Shot,,31-34,31,34
 0021900054,2019-10-29,LAL,MEM,14.18,2,9,49,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:1 Def:3),31-34,31,34
 0021900054,2019-10-29,LAL,MEM,14.32,2,9,41,MEM,MEM,fg_miss,101,False,False,,MISS Morant 9' Driving Floating Jump Shot,31-34,31,34
-0021900054,2019-10-29,LAL,MEM,14.43,2,9,34,MEM,MEM,fg_make,72,False,False,,Valanciunas 1' Putback Layup (6 PTS),31-36,31,36
 0021900054,2019-10-29,LAL,MEM,14.43,2,9,34,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:2 Def:3),31-36,31,36
+0021900054,2019-10-29,LAL,MEM,14.43,2,9,34,MEM,MEM,fg_make,72,False,False,,Valanciunas 1' Putback Layup (6 PTS),31-36,31,36
 0021900054,2019-10-29,LAL,MEM,14.58,2,9,25,LAL,LAL,fg3_miss,1,False,False,MISS Daniels 26' 3PT Jump Shot,,31-36,31,36
 0021900054,2019-10-29,LAL,MEM,14.63,2,9,22,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:2 Def:4),31-36,31,36
 0021900054,2019-10-29,LAL,MEM,14.8,2,9,12,LAL,MEM,foul,26,False,False,,S. Hill Offensive Charge Foul (P1.T1) (J.Sterling),31-36,31,36
@@ -370,16 +370,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900054,2019-10-29,LAL,MEM,35.83,3,0,10,LAL,LAL,ft_make,11,False,False,Davis Free Throw 1 of 2 (39 PTS),,87-67,87,67
 0021900054,2019-10-29,LAL,MEM,35.83,3,0,10,LAL,LAL,ft_make,12,False,False,Davis Free Throw 2 of 2 (40 PTS),,88-67,88,67
 0021900054,2019-10-29,LAL,MEM,36.0,3,0,0,MEM,MEM,fg_miss,79,True,False,,MISS Allen 7' Pullup Jump Shot,88-67,88,67
+0021900054,2019-10-29,LAL,MEM,36.0,3,0,0,MEM,LAL,block,79,True,False,block,block,88-67,88,67
 0021900054,2019-10-29,LAL,MEM,36.0,3,0,0,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,88-67,88,67
 0021900054,2019-10-29,LAL,MEM,36.0,3,0,0,MEM,,period_end,0,False,False,,,88-67,88,67
 0021900054,2019-10-29,LAL,MEM,36.0,4,12,0,MEM,,period_start,0,False,False,,,88-67,88,67
-0021900054,2019-10-29,LAL,MEM,36.0,3,0,0,MEM,LAL,block,79,True,False,block,block,88-67,88,67
 0021900054,2019-10-29,LAL,MEM,36.12,4,11,53,MEM,MEM,tov,4,False,False,,Guduric Traveling Turnover (P1.T17),88-67,88,67
 0021900054,2019-10-29,LAL,MEM,36.37,4,11,38,LAL,LAL,fg3_miss,1,False,False,MISS Daniels 27' 3PT Jump Shot,,88-67,88,67
 0021900054,2019-10-29,LAL,MEM,36.43,4,11,34,MEM,MEM,reb,0,False,False,,S. Hill REBOUND (Off:0 Def:1),88-67,88,67
 0021900054,2019-10-29,LAL,MEM,36.57,4,11,26,MEM,MEM,fg_miss,6,True,False,,MISS Guduric 4' Driving Layup,88-67,88,67
-0021900054,2019-10-29,LAL,MEM,36.57,4,11,26,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,88-67,88,67
 0021900054,2019-10-29,LAL,MEM,36.57,4,11,26,MEM,LAL,block,6,True,False,block,block,88-67,88,67
+0021900054,2019-10-29,LAL,MEM,36.57,4,11,26,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,88-67,88,67
 0021900054,2019-10-29,LAL,MEM,36.82,4,11,11,MEM,MEM,fg_make,75,False,False,,Morant 5' Driving Finger Roll Layup (10 PTS),88-69,88,69
 0021900054,2019-10-29,LAL,MEM,37.05,4,10,57,LAL,MEM,foul,1,False,False,,Caboclo P.FOUL (P2.T1) (J.Sterling),88-69,88,69
 0021900054,2019-10-29,LAL,MEM,37.17,4,10,50,LAL,LAL,tov,2,False,True,James Lost Ball Turnover (P4.T12),,88-69,88,69
@@ -484,8 +484,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900054,2019-10-29,LAL,MEM,46.82,4,1,11,MEM,MEM,fg_miss,97,False,False,,MISS Allen 1' Tip Layup Shot,118-91,118,91
 0021900054,2019-10-29,LAL,MEM,46.85,4,1,9,MEM,MEM,reb,0,False,False,,Melton REBOUND (Off:1 Def:0),118-91,118,91
 0021900054,2019-10-29,LAL,MEM,46.85,4,1,9,MEM,MEM,fg_miss,5,True,False,,MISS Clarke 6' Layup,118-91,118,91
-0021900054,2019-10-29,LAL,MEM,46.85,4,1,9,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,118-91,118,91
 0021900054,2019-10-29,LAL,MEM,46.85,4,1,9,MEM,LAL,block,5,True,False,block,block,118-91,118,91
+0021900054,2019-10-29,LAL,MEM,46.85,4,1,9,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,118-91,118,91
 0021900054,2019-10-29,LAL,MEM,46.97,4,1,2,MEM,MEM,fg3_miss,1,False,False,,MISS Allen 25' 3PT Jump Shot,118-91,118,91
 0021900054,2019-10-29,LAL,MEM,47.0,4,1,0,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:0 Def:7),,118-91,118,91
 0021900054,2019-10-29,LAL,MEM,47.33,4,0,40,LAL,LAL,fg3_miss,1,False,False,MISS Cook 26' 3PT Jump Shot,,118-91,118,91

@@ -17,8 +17,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900414,2019-12-18,DEN,ORL,1.9,1,10,6,DEN,DEN,fg_make,98,False,False,Murray 1' Cutting Layup Shot (4 PTS) (Jokic 2 AST),,6-4,6,4
 0021900414,2019-12-18,DEN,ORL,2.23,1,9,46,ORL,ORL,fg_make,86,False,False,,Isaac 8' Turnaround Fadeaway (2 PTS) (Gordon 1 AST),6-6,6,6
 0021900414,2019-12-18,DEN,ORL,2.48,1,9,31,DEN,DEN,fg_miss,6,False,False,MISS Barton 1' Driving Layup,,6-6,6,6
-0021900414,2019-12-18,DEN,ORL,2.55,1,9,27,DEN,DEN,fg_make,97,False,False,Jokic 1' Tip Layup Shot (4 PTS),,8-6,8,6
 0021900414,2019-12-18,DEN,ORL,2.55,1,9,27,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:1 Def:1),,8-6,8,6
+0021900414,2019-12-18,DEN,ORL,2.55,1,9,27,DEN,DEN,fg_make,97,False,False,Jokic 1' Tip Layup Shot (4 PTS),,8-6,8,6
 0021900414,2019-12-18,DEN,ORL,2.68,1,9,19,ORL,ORL,fg3_miss,1,False,False,,MISS Gordon 25' 3PT Jump Shot,8-6,8,6
 0021900414,2019-12-18,DEN,ORL,2.7,1,9,18,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,8-6,8,6
 0021900414,2019-12-18,DEN,ORL,2.9,1,9,6,DEN,DEN,fg_make,108,False,False,Barton 1' Cutting Dunk Shot (2 PTS) (Jokic 3 AST),,10-6,10,6
@@ -311,8 +311,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900414,2019-12-18,DEN,ORL,32.45,3,3,33,DEN,DEN,ft_make,11,False,False,Murray Free Throw 1 of 2 (16 PTS),,73-69,73,69
 0021900414,2019-12-18,DEN,ORL,32.45,3,3,33,DEN,DEN,ft_make,12,False,False,Murray Free Throw 2 of 2 (17 PTS),,74-69,74,69
 0021900414,2019-12-18,DEN,ORL,32.78,3,3,13,ORL,ORL,fg_miss,86,False,False,,MISS Gordon 12' Turnaround Fadeaway Shot,74-69,74,69
-0021900414,2019-12-18,DEN,ORL,32.9,3,3,6,ORL,ORL,fg_make,107,False,False,,Bamba 1' Tip Dunk Shot (4 PTS),74-71,74,71
 0021900414,2019-12-18,DEN,ORL,32.9,3,3,6,ORL,ORL,reb,0,False,False,,Bamba REBOUND (Off:2 Def:1),74-71,74,71
+0021900414,2019-12-18,DEN,ORL,32.9,3,3,6,ORL,ORL,fg_make,107,False,False,,Bamba 1' Tip Dunk Shot (4 PTS),74-71,74,71
 0021900414,2019-12-18,DEN,ORL,33.13,3,2,52,DEN,DEN,fg3_make,80,False,False,Murray 25' 3PT Step Back Jump Shot (20 PTS),,77-71,77,71
 0021900414,2019-12-18,DEN,ORL,33.47,3,2,32,ORL,ORL,fg3_miss,1,False,False,,MISS Gordon 25' 3PT Jump Shot,77-71,77,71
 0021900414,2019-12-18,DEN,ORL,33.5,3,2,30,DEN,DEN,reb,0,False,False,Grant REBOUND (Off:0 Def:1),,77-71,77,71
@@ -351,8 +351,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900414,2019-12-18,DEN,ORL,36.83,4,11,10,ORL,ORL,fg3_make,80,False,False,,Fournier 25' 3PT Step Back Jump Shot (8 PTS) (Ross 1 AST),87-81,87,81
 0021900414,2019-12-18,DEN,ORL,37.17,4,10,50,DEN,DEN,fg_make,6,False,False,Grant 2' Driving Layup (8 PTS) (Morris 4 AST),,89-81,89,81
 0021900414,2019-12-18,DEN,ORL,37.42,4,10,35,ORL,ORL,tov,1,False,True,,Fournier Bad Pass Turnover (P3.T12),89-81,89,81
-0021900414,2019-12-18,DEN,ORL,37.42,4,10,35,DEN,ORL,foul,1,False,False,,Fournier P.FOUL (P2.T1) (M.Smith),89-81,89,81
 0021900414,2019-12-18,DEN,ORL,37.42,4,10,35,ORL,DEN,steal,1,False,True,steal,steal,89-81,89,81
+0021900414,2019-12-18,DEN,ORL,37.42,4,10,35,DEN,ORL,foul,1,False,False,,Fournier P.FOUL (P2.T1) (M.Smith),89-81,89,81
 0021900414,2019-12-18,DEN,ORL,37.62,4,10,23,DEN,DEN,fg_make,51,False,False,Plumlee 1' Reverse Dunk (5 PTS) (Barton 3 AST),,91-81,91,81
 0021900414,2019-12-18,DEN,ORL,37.93,4,10,4,ORL,ORL,fg3_make,1,False,False,,Bamba 3PT Jump Shot (9 PTS) (Augustin 6 AST),91-84,91,84
 0021900414,2019-12-18,DEN,ORL,38.25,4,9,45,DEN,DEN,fg_miss,57,False,False,MISS Plumlee 4' Driving Hook Shot,,91-84,91,84

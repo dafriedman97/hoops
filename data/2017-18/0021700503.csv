@@ -34,8 +34,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700503,2017-12-26,DEN,UTA,3.95,1,8,3,DEN,DEN,reb,0,False,False,Plumlee REBOUND (Off:0 Def:2),,3-6,3,6
 0021700503,2017-12-26,DEN,UTA,4.12,1,7,53,DEN,DEN,fg3_make,80,False,False,Harris 25' 3PT Step Back Jump Shot (3 PTS) (Plumlee 1 AST),,6-6,6,6
 0021700503,2017-12-26,DEN,UTA,4.47,1,7,32,UTA,UTA,fg_miss,5,True,False,,MISS Favors 4' Layup,6-6,6,6
-0021700503,2017-12-26,DEN,UTA,4.47,1,7,32,DEN,DEN,reb,0,False,False,Chandler REBOUND (Off:0 Def:1),,6-6,6,6
 0021700503,2017-12-26,DEN,UTA,4.47,1,7,32,UTA,DEN,block,5,True,False,block,block,6-6,6,6
+0021700503,2017-12-26,DEN,UTA,4.47,1,7,32,DEN,DEN,reb,0,False,False,Chandler REBOUND (Off:0 Def:1),,6-6,6,6
 0021700503,2017-12-26,DEN,UTA,4.6,1,7,24,DEN,UTA,foul,1,False,False,,Jerebko P.FOUL (P1.T1) (M.Davis),6-6,6,6
 0021700503,2017-12-26,DEN,UTA,4.63,1,7,22,DEN,DEN,fg_make,9,False,False,Plumlee 1' Driving Dunk (2 PTS) (Harris 1 AST),,8-6,8,6
 0021700503,2017-12-26,DEN,UTA,4.63,1,7,22,DEN,UTA,foul,2,False,False,,Mitchell S.FOUL (P1.T2) (M.Ervin),8-6,8,6
@@ -213,8 +213,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700503,2017-12-26,DEN,UTA,25.22,3,10,47,UTA,UTA,fg_make,98,False,False,,Favors 2' Cutting Layup Shot (14 PTS) (Mitchell 3 AST),54-39,54,39
 0021700503,2017-12-26,DEN,UTA,25.45,3,10,33,DEN,DEN,fg_make,80,False,False,Harris 16' Step Back Jump Shot (8 PTS),,56-39,56,39
 0021700503,2017-12-26,DEN,UTA,25.67,3,10,20,UTA,UTA,tov,1,False,True,,Rubio Bad Pass Turnover (P1.T4),56-39,56,39
-0021700503,2017-12-26,DEN,UTA,25.67,3,10,20,DEN,UTA,foul,1,False,False,,Mitchell P.FOUL (P3.T1) (M.Davis),56-39,56,39
 0021700503,2017-12-26,DEN,UTA,25.67,3,10,20,UTA,DEN,steal,1,False,True,steal,steal,56-39,56,39
+0021700503,2017-12-26,DEN,UTA,25.67,3,10,20,DEN,UTA,foul,1,False,False,,Mitchell P.FOUL (P3.T1) (M.Davis),56-39,56,39
 0021700503,2017-12-26,DEN,UTA,25.9,3,10,6,DEN,UTA,foul,1,False,False,,Rubio P.FOUL (P1.T2) (M.Ervin),56-39,56,39
 0021700503,2017-12-26,DEN,UTA,25.97,3,10,2,DEN,UTA,foul,1,False,False,,Jerebko P.FOUL (P3.T3) (M.Davis),56-39,56,39
 0021700503,2017-12-26,DEN,UTA,26.17,3,9,50,DEN,DEN,fg_make,79,False,False,Chandler 18' Pullup Jump Shot (6 PTS),,58-39,58,39
@@ -320,11 +320,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700503,2017-12-26,DEN,UTA,38.13,4,9,52,UTA,UTA,reb,0,False,False,,Ingles REBOUND (Off:1 Def:5),79-63,79,63
 0021700503,2017-12-26,DEN,UTA,38.17,4,9,50,UTA,UTA,fg3_miss,1,False,False,,MISS Hood 26' 3PT Jump Shot,79-63,79,63
 0021700503,2017-12-26,DEN,UTA,38.22,4,9,47,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:2 Def:5),,79-63,79,63
+0021700503,2017-12-26,DEN,UTA,38.28,4,9,43,DEN,DEN,ejection,4,False,False,Jokic Ejection:Other,,79-63,79,63
+0021700503,2017-12-26,DEN,UTA,38.28,4,9,43,DEN,UTA,ft_make,18,False,False,,Jerebko Free Throw Flagrant 1 of 2 (13 PTS),79-65,79,65
+0021700503,2017-12-26,DEN,UTA,38.28,4,9,43,DEN,UTA,ft_make,19,False,False,,Jerebko Free Throw Flagrant 2 of 2 (12 PTS),79-64,79,64
 0021700503,2017-12-26,DEN,UTA,38.28,4,9,43,UTA,DEN,foul,15,False,False,Jokic FLAGRANT.FOUL.TYPE2 (P5.T2) (M.Ervin),,79-63,79,63
 0021700503,2017-12-26,DEN,UTA,38.28,4,9,43,DEN,DEN,tov,0,False,False,Jokic No Turnover (P1.T9),,79-63,79,63
-0021700503,2017-12-26,DEN,UTA,38.28,4,9,43,DEN,DEN,ejection,4,False,False,Jokic Ejection:Other,,79-63,79,63
-0021700503,2017-12-26,DEN,UTA,38.28,4,9,43,DEN,UTA,ft_make,19,False,False,,Jerebko Free Throw Flagrant 2 of 2 (12 PTS),79-64,79,64
-0021700503,2017-12-26,DEN,UTA,38.28,4,9,43,DEN,UTA,ft_make,18,False,False,,Jerebko Free Throw Flagrant 1 of 2 (13 PTS),79-65,79,65
 0021700503,2017-12-26,DEN,UTA,38.63,4,9,22,UTA,UTA,fg3_miss,1,False,False,,MISS Hood 26' 3PT Jump Shot,79-65,79,65
 0021700503,2017-12-26,DEN,UTA,38.7,4,9,18,UTA,UTA,reb,0,False,False,,Rubio REBOUND (Off:1 Def:4),79-65,79,65
 0021700503,2017-12-26,DEN,UTA,38.75,4,9,15,UTA,UTA,fg3_miss,1,False,False,,MISS O'Neale 24' 3PT Jump Shot,79-65,79,65

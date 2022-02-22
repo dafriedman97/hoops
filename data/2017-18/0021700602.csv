@@ -20,8 +20,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700602,2018-01-09,LAL,SAC,1.85,1,10,9,SAC,SAC,fg3_make,1,False,False,,Fox 26' 3PT Jump Shot (5 PTS) (Randolph 1 AST),5-6,5,6
 0021700602,2018-01-09,LAL,SAC,2.1,1,9,54,LAL,LAL,fg_make,58,False,False,Lopez 10' Turnaround Hook Shot (2 PTS),,7-6,7,6
 0021700602,2018-01-09,LAL,SAC,2.47,1,9,32,SAC,SAC,fg_miss,1,True,False,,MISS Richardson 15' Jump Shot,7-6,7,6
-0021700602,2018-01-09,LAL,SAC,2.47,1,9,32,SAC,SAC,reb,0,False,False,,Kings Rebound,7-6,7,6
 0021700602,2018-01-09,LAL,SAC,2.47,1,9,32,SAC,LAL,block,1,True,False,block,block,7-6,7,6
+0021700602,2018-01-09,LAL,SAC,2.47,1,9,32,SAC,SAC,reb,0,False,False,,Kings Rebound,7-6,7,6
 0021700602,2018-01-09,LAL,SAC,2.5,1,9,30,SAC,SAC,fg_miss,1,False,False,,MISS Randolph 18' Jump Shot,7-6,7,6
 0021700602,2018-01-09,LAL,SAC,2.57,1,9,26,LAL,LAL,reb,0,False,False,Ball REBOUND (Off:0 Def:2),,7-6,7,6
 0021700602,2018-01-09,LAL,SAC,2.72,1,9,17,LAL,LAL,fg3_make,1,False,False,Randle 24' 3PT Jump Shot (3 PTS) (Caldwell-Pope 1 AST),,10-6,10,6
@@ -157,9 +157,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700602,2018-01-09,LAL,SAC,15.82,2,8,11,SAC,SAC,fg3_miss,1,False,False,,MISS Carter 26' 3PT Jump Shot,35-34,35,34
 0021700602,2018-01-09,LAL,SAC,15.9,2,8,6,LAL,LAL,reb,0,False,False,Ingram REBOUND (Off:0 Def:2),,35-34,35,34
 0021700602,2018-01-09,LAL,SAC,15.97,2,8,2,LAL,LAL,fg_miss,1,True,False,MISS Nance Jr. 2' Jump Shot,,35-34,35,34
+0021700602,2018-01-09,LAL,SAC,15.97,2,8,2,LAL,SAC,block,1,True,False,block,block,35-34,35,34
 0021700602,2018-01-09,LAL,SAC,15.97,2,8,2,LAL,LAL,reb,0,False,False,Nance Jr. REBOUND (Off:2 Def:2),,35-34,35,34
 0021700602,2018-01-09,LAL,SAC,15.97,2,8,2,LAL,SAC,foul,1,False,False,,Labissiere P.FOUL (P2.T3) (H.Workman),35-34,35,34
-0021700602,2018-01-09,LAL,SAC,15.97,2,8,2,LAL,SAC,block,1,True,False,block,block,35-34,35,34
 0021700602,2018-01-09,LAL,SAC,16.07,2,7,56,LAL,LAL,tov,2,False,True,Ingram Lost Ball Turnover (P2.T6),,35-34,35,34
 0021700602,2018-01-09,LAL,SAC,16.07,2,7,56,LAL,SAC,steal,2,False,True,steal,steal,35-34,35,34
 0021700602,2018-01-09,LAL,SAC,16.15,2,7,51,SAC,SAC,fg_make,76,False,False,,Bogdanovic 2' Running Finger Roll Layup (12 PTS),35-36,35,36
@@ -244,8 +244,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700602,2018-01-09,LAL,SAC,23.42,2,0,35,SAC,SAC,fg3_make,1,False,False,,Hield 26' 3PT Jump Shot (5 PTS) (Fox 1 AST),50-49,50,49
 0021700602,2018-01-09,LAL,SAC,23.52,2,0,29,LAL,LAL,fg3_make,1,False,False,Lopez 26' 3PT Jump Shot (8 PTS) (Ball 7 AST),,53-49,53,49
 0021700602,2018-01-09,LAL,SAC,23.88,2,0,7,SAC,SAC,fg_miss,101,True,False,,MISS Fox 4' Driving Floating Jump Shot,53-49,53,49
-0021700602,2018-01-09,LAL,SAC,23.88,2,0,7,SAC,SAC,reb,0,False,False,,Kings Rebound,53-49,53,49
 0021700602,2018-01-09,LAL,SAC,23.88,2,0,7,SAC,LAL,block,101,True,False,block,block,53-49,53,49
+0021700602,2018-01-09,LAL,SAC,23.88,2,0,7,SAC,SAC,reb,0,False,False,,Kings Rebound,53-49,53,49
 0021700602,2018-01-09,LAL,SAC,23.93,2,0,4,SAC,SAC,fg3_make,1,False,False,,Hield 3PT Jump Shot (8 PTS) (Cauley-Stein 1 AST),53-52,53,52
 0021700602,2018-01-09,LAL,SAC,23.98,2,0,1,LAL,LAL,fg3_miss,103,False,False,MISS Kuzma 29' 3PT Running Pull-Up Jump Shot,,53-52,53,52
 0021700602,2018-01-09,LAL,SAC,23.98,2,0,1,LAL,LAL,reb,0,False,False,LAKERS Rebound,,53-52,53,52
@@ -408,10 +408,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700602,2018-01-09,LAL,SAC,41.3,4,6,42,LAL,SAC,foul,2,False,False,,Hield S.FOUL (P2.T1) (K.Fitzgerald),92-83,92,83
 0021700602,2018-01-09,LAL,SAC,41.3,4,6,42,LAL,LAL,ft_miss,10,False,False,MISS Nance Jr. Free Throw 1 of 1,,92-83,92,83
 0021700602,2018-01-09,LAL,SAC,41.35,4,6,39,SAC,SAC,reb,0,False,False,,Temple REBOUND (Off:0 Def:1),92-83,92,83
-0021700602,2018-01-09,LAL,SAC,41.52,4,6,29,SAC,SAC,tov,1,False,True,,Fox Bad Pass Turnover (P3.T15),92-83,92,83
 0021700602,2018-01-09,LAL,SAC,41.52,4,6,29,LAL,LAL,tov,2,False,True,Ingram Lost Ball Turnover (P5.T19),,92-83,92,83
-0021700602,2018-01-09,LAL,SAC,41.52,4,6,29,SAC,LAL,steal,1,False,True,steal,steal,92-83,92,83
 0021700602,2018-01-09,LAL,SAC,41.52,4,6,29,LAL,SAC,steal,2,False,True,steal,steal,92-83,92,83
+0021700602,2018-01-09,LAL,SAC,41.52,4,6,29,SAC,SAC,tov,1,False,True,,Fox Bad Pass Turnover (P3.T15),92-83,92,83
+0021700602,2018-01-09,LAL,SAC,41.52,4,6,29,SAC,LAL,steal,1,False,True,steal,steal,92-83,92,83
 0021700602,2018-01-09,LAL,SAC,41.6,4,6,24,SAC,LAL,foul,2,False,False,Caldwell-Pope S.FOUL (P1.T2) (H.Workman),,92-83,92,83
 0021700602,2018-01-09,LAL,SAC,41.6,4,6,24,SAC,SAC,ft_miss,11,False,False,,MISS Bogdanovic Free Throw 1 of 2,92-83,92,83
 0021700602,2018-01-09,LAL,SAC,41.6,4,6,24,SAC,SAC,reb,1,False,False,,Kings Rebound,92-83,92,83
@@ -425,9 +425,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700602,2018-01-09,LAL,SAC,42.75,4,5,15,SAC,SAC,fg3_miss,1,False,False,,MISS Fox 3PT Jump Shot,95-84,95,84
 0021700602,2018-01-09,LAL,SAC,42.82,4,5,11,LAL,LAL,reb,0,False,False,Caldwell-Pope REBOUND (Off:0 Def:4),,95-84,95,84
 0021700602,2018-01-09,LAL,SAC,42.98,4,5,1,LAL,LAL,tov,1,False,True,Randle Bad Pass Turnover (P5.T21),,95-84,95,84
+0021700602,2018-01-09,LAL,SAC,42.98,4,5,1,LAL,SAC,steal,1,False,True,steal,steal,95-84,95,84
 0021700602,2018-01-09,LAL,SAC,42.98,4,5,1,SAC,LAL,foul,28,False,False,Ball Personal Take Foul (P1.T3) (T.Ford),,95-84,95,84
 0021700602,2018-01-09,LAL,SAC,42.98,4,5,1,SAC,SAC,timeout,1,False,False,,Kings Timeout: Regular (Reg.6 Short 0),95-84,95,84
-0021700602,2018-01-09,LAL,SAC,42.98,4,5,1,LAL,SAC,steal,1,False,True,steal,steal,95-84,95,84
 0021700602,2018-01-09,LAL,SAC,43.22,4,4,47,SAC,SAC,fg3_miss,1,False,False,,MISS Cauley-Stein 26' 3PT Jump Shot,95-84,95,84
 0021700602,2018-01-09,LAL,SAC,43.27,4,4,44,LAL,LAL,reb,0,False,False,Ball REBOUND (Off:2 Def:9),,95-84,95,84
 0021700602,2018-01-09,LAL,SAC,43.47,4,4,32,LAL,LAL,fg3_miss,79,False,False,MISS Caldwell-Pope 25' 3PT Pullup Jump Shot,,95-84,95,84
@@ -463,8 +463,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700602,2018-01-09,LAL,SAC,47.0,4,1,0,LAL,LAL,tov,2,False,True,Kuzma Lost Ball Turnover (P3.T25),,97-86,97,86
 0021700602,2018-01-09,LAL,SAC,47.0,4,1,0,LAL,SAC,steal,2,False,True,steal,steal,97-86,97,86
 0021700602,2018-01-09,LAL,SAC,47.07,4,0,56,SAC,SAC,fg_miss,41,True,False,,MISS Hield 2' Running Layup,97-86,97,86
-0021700602,2018-01-09,LAL,SAC,47.07,4,0,56,SAC,SAC,reb,0,False,False,,Kings Rebound,97-86,97,86
 0021700602,2018-01-09,LAL,SAC,47.07,4,0,56,SAC,LAL,block,41,True,False,block,block,97-86,97,86
+0021700602,2018-01-09,LAL,SAC,47.07,4,0,56,SAC,SAC,reb,0,False,False,,Kings Rebound,97-86,97,86
 0021700602,2018-01-09,LAL,SAC,47.27,4,0,44,SAC,SAC,tov,1,False,True,,Hield Bad Pass Turnover (P2.T16),97-86,97,86
 0021700602,2018-01-09,LAL,SAC,47.27,4,0,44,SAC,LAL,steal,1,False,True,steal,steal,97-86,97,86
 0021700602,2018-01-09,LAL,SAC,47.3,4,0,42,LAL,LAL,fg_make,5,False,False,Ingram 2' Layup (15 PTS) (Ball 11 AST),,99-86,99,86

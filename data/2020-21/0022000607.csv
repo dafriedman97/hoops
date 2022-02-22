@@ -38,8 +38,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000607,2021-03-15,PHX,MEM,4.97,1,7,2,PHX,PHX,fg_make,5,False,False,Ayton Layup (2 PTS) (Bridges 1 AST),,10-12,10,12
 0022000607,2021-03-15,PHX,MEM,5.3,1,6,42,MEM,MEM,fg_miss,102,False,False,,MISS Morant 5' Driving Floating Bank Jump Shot,10-12,10,12
 0022000607,2021-03-15,PHX,MEM,5.33,1,6,40,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:2 Def:3),10-12,10,12
-0022000607,2021-03-15,PHX,MEM,5.37,1,6,38,MEM,PHX,foul,2,False,False,Bridges S.FOUL (P1.T1) (G.Petraitis),,10-12,10,12
 0022000607,2021-03-15,PHX,MEM,5.37,1,6,38,PHX,PHX,timeout,1,False,False,SUNS Timeout: Regular (Full 1 Short 0),,10-12,10,12
+0022000607,2021-03-15,PHX,MEM,5.37,1,6,38,MEM,PHX,foul,2,False,False,Bridges S.FOUL (P1.T1) (G.Petraitis),,10-12,10,12
 0022000607,2021-03-15,PHX,MEM,5.37,1,6,38,MEM,MEM,ft_miss,11,False,False,,MISS Valanciunas Free Throw 1 of 2,10-12,10,12
 0022000607,2021-03-15,PHX,MEM,5.37,1,6,38,MEM,MEM,reb,1,False,False,,Grizzlies Rebound,10-12,10,12
 0022000607,2021-03-15,PHX,MEM,5.37,1,6,38,MEM,MEM,ft_make,12,False,False,,Valanciunas Free Throw 2 of 2 (5 PTS),10-13,10,13
@@ -57,8 +57,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000607,2021-03-15,PHX,MEM,7.48,1,4,31,PHX,PHX,fg_miss,1,False,False,MISS Ayton 17' Jump Shot,,14-15,14,15
 0022000607,2021-03-15,PHX,MEM,7.52,1,4,29,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:2 Def:4),14-15,14,15
 0022000607,2021-03-15,PHX,MEM,7.7,1,4,18,MEM,MEM,fg_miss,78,False,False,,MISS Morant 11' Floating Jump Shot,14-15,14,15
-0022000607,2021-03-15,PHX,MEM,7.78,1,4,13,MEM,MEM,fg_make,97,False,False,,Valanciunas Tip Layup Shot (9 PTS),14-17,14,17
 0022000607,2021-03-15,PHX,MEM,7.78,1,4,13,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:3 Def:4),14-17,14,17
+0022000607,2021-03-15,PHX,MEM,7.78,1,4,13,MEM,MEM,fg_make,97,False,False,,Valanciunas Tip Layup Shot (9 PTS),14-17,14,17
 0022000607,2021-03-15,PHX,MEM,8.07,1,3,56,PHX,MEM,foul,1,False,False,,Brooks P.FOUL (P1.T3) (G.Petraitis),14-17,14,17
 0022000607,2021-03-15,PHX,MEM,8.25,1,3,45,PHX,PHX,fg_miss,1,False,False,MISS Booker 20' Jump Shot,,14-17,14,17
 0022000607,2021-03-15,PHX,MEM,8.28,1,3,43,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:3 Def:5),14-17,14,17
@@ -131,8 +131,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000607,2021-03-15,PHX,MEM,15.88,2,8,7,PHX,MEM,foul,3,False,False,,Jones L.B.FOUL (P1.T2) (G.Petraitis),35-37,35,37
 0022000607,2021-03-15,PHX,MEM,16.07,2,7,56,PHX,PHX,fg_make,6,False,False,Paul 2' Driving Layup (2 PTS),,37-37,37,37
 0022000607,2021-03-15,PHX,MEM,16.28,2,7,43,MEM,MEM,fg_miss,98,True,False,,MISS Tillman 5' Cutting Layup Shot,37-37,37,37
-0022000607,2021-03-15,PHX,MEM,16.28,2,7,43,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,37-37,37,37
 0022000607,2021-03-15,PHX,MEM,16.28,2,7,43,MEM,PHX,block,98,True,False,block,block,37-37,37,37
+0022000607,2021-03-15,PHX,MEM,16.28,2,7,43,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,37-37,37,37
 0022000607,2021-03-15,PHX,MEM,16.35,2,7,39,MEM,MEM,fg_miss,5,False,False,,MISS Brooks 3' Layup,37-37,37,37
 0022000607,2021-03-15,PHX,MEM,16.4,2,7,36,PHX,PHX,reb,0,False,False,Crowder REBOUND (Off:0 Def:3),,37-37,37,37
 0022000607,2021-03-15,PHX,MEM,16.77,2,7,14,PHX,PHX,fg3_make,1,False,False,Crowder 3PT Jump Shot (5 PTS) (Bridges 3 AST),,40-37,40,37
@@ -340,8 +340,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000607,2021-03-15,PHX,MEM,39.73,4,8,16,PHX,PHX,ft_make,11,False,False,Ayton Free Throw 1 of 2 (11 PTS),,103-83,103,83
 0022000607,2021-03-15,PHX,MEM,39.73,4,8,16,PHX,PHX,ft_make,12,False,False,Ayton Free Throw 2 of 2 (12 PTS),,104-83,104,83
 0022000607,2021-03-15,PHX,MEM,39.95,4,8,3,MEM,MEM,fg_miss,5,True,False,,MISS Valanciunas 7' Layup,104-83,104,83
-0022000607,2021-03-15,PHX,MEM,39.95,4,8,3,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:7 Def:9),104-83,104,83
 0022000607,2021-03-15,PHX,MEM,39.95,4,8,3,MEM,PHX,block,5,True,False,block,block,104-83,104,83
+0022000607,2021-03-15,PHX,MEM,39.95,4,8,3,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:7 Def:9),104-83,104,83
 0022000607,2021-03-15,PHX,MEM,40.12,4,7,53,MEM,MEM,fg_miss,101,False,False,,MISS Anderson 6' Driving Floating Jump Shot,104-83,104,83
 0022000607,2021-03-15,PHX,MEM,40.13,4,7,52,PHX,PHX,reb,0,False,False,Paul REBOUND (Off:0 Def:3),,104-83,104,83
 0022000607,2021-03-15,PHX,MEM,40.23,4,7,46,PHX,PHX,fg3_miss,2,False,False,MISS Galloway 27' 3PT Running Jump Shot,,104-83,104,83
@@ -352,8 +352,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000607,2021-03-15,PHX,MEM,40.77,4,7,14,PHX,PHX,ft_make,10,False,False,Ayton Free Throw 1 of 1 (15 PTS),,107-85,107,85
 0022000607,2021-03-15,PHX,MEM,41.03,4,6,58,MEM,MEM,fg_miss,6,True,False,,MISS Brooks 5' Driving Layup,107-85,107,85
 0022000607,2021-03-15,PHX,MEM,41.03,4,6,58,MEM,PHX,block,6,True,False,block,block,107-85,107,85
-0022000607,2021-03-15,PHX,MEM,41.13,4,6,52,MEM,MEM,fg_make,72,False,False,,Valanciunas Putback Layup (24 PTS),107-87,107,87
 0022000607,2021-03-15,PHX,MEM,41.13,4,6,52,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:8 Def:9),107-87,107,87
+0022000607,2021-03-15,PHX,MEM,41.13,4,6,52,MEM,MEM,fg_make,72,False,False,,Valanciunas Putback Layup (24 PTS),107-87,107,87
 0022000607,2021-03-15,PHX,MEM,41.3,4,6,42,PHX,PHX,fg_make,80,False,False,Paul 15' Step Back Jump Shot (18 PTS),,109-87,109,87
 0022000607,2021-03-15,PHX,MEM,41.72,4,6,17,MEM,MEM,fg3_miss,1,False,False,,MISS Anderson 27' 3PT Jump Shot,109-87,109,87
 0022000607,2021-03-15,PHX,MEM,41.77,4,6,14,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:3 Def:6),,109-87,109,87

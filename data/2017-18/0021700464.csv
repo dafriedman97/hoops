@@ -83,8 +83,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700464,2017-12-20,GSW,MEM,9.63,1,2,22,GSW,GSW,ft_make,11,False,False,Durant Free Throw 1 of 2 (5 PTS),,17-26,17,26
 0021700464,2017-12-20,GSW,MEM,9.63,1,2,22,GSW,GSW,ft_make,12,False,False,Durant Free Throw 2 of 2 (6 PTS),,18-26,18,26
 0021700464,2017-12-20,GSW,MEM,9.93,1,2,4,MEM,MEM,fg_miss,5,True,False,,MISS Chalmers 4' Layup,18-26,18,26
-0021700464,2017-12-20,GSW,MEM,9.93,1,2,4,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,18-26,18,26
 0021700464,2017-12-20,GSW,MEM,9.93,1,2,4,MEM,GSW,block,5,True,False,block,block,18-26,18,26
+0021700464,2017-12-20,GSW,MEM,9.93,1,2,4,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,18-26,18,26
 0021700464,2017-12-20,GSW,MEM,10.02,1,1,59,MEM,MEM,fg_miss,1,False,False,,MISS McLemore 18' Jump Shot,18-26,18,26
 0021700464,2017-12-20,GSW,MEM,10.12,1,1,53,MEM,MEM,reb,0,False,False,,Davis REBOUND (Off:1 Def:0),18-26,18,26
 0021700464,2017-12-20,GSW,MEM,10.33,1,1,40,MEM,MEM,fg_make,108,False,False,,Davis Cutting Dunk Shot (2 PTS) (McLemore 1 AST),18-28,18,28
@@ -156,8 +156,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700464,2017-12-20,GSW,MEM,18.43,2,5,34,MEM,MEM,tov,2,False,True,,Gasol Lost Ball Turnover (P1.T8),45-38,45,38
 0021700464,2017-12-20,GSW,MEM,18.43,2,5,34,MEM,GSW,steal,2,False,True,steal,steal,45-38,45,38
 0021700464,2017-12-20,GSW,MEM,18.65,2,5,21,GSW,GSW,fg_miss,5,True,False,MISS Casspi 5' Layup,,45-38,45,38
-0021700464,2017-12-20,GSW,MEM,18.65,2,5,21,MEM,MEM,reb,0,False,False,,Harrison REBOUND (Off:0 Def:1),45-38,45,38
 0021700464,2017-12-20,GSW,MEM,18.65,2,5,21,GSW,MEM,block,5,True,False,block,block,45-38,45,38
+0021700464,2017-12-20,GSW,MEM,18.65,2,5,21,MEM,MEM,reb,0,False,False,,Harrison REBOUND (Off:0 Def:1),45-38,45,38
 0021700464,2017-12-20,GSW,MEM,18.7,2,5,18,MEM,GSW,foul,1,False,False,West P.FOUL (P1.T3) (K.Fitzgerald),,45-38,45,38
 0021700464,2017-12-20,GSW,MEM,18.92,2,5,5,MEM,MEM,fg_make,1,False,False,,Gasol 16' Jump Shot (10 PTS) (Evans 4 AST),45-40,45,40
 0021700464,2017-12-20,GSW,MEM,19.15,2,4,51,GSW,GSW,fg3_make,1,False,False,Durant 26' 3PT Jump Shot (11 PTS) (Cook 2 AST),,48-40,48,40
@@ -219,8 +219,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700464,2017-12-20,GSW,MEM,26.58,3,9,25,GSW,GSW,ft_make,11,False,False,Thompson Free Throw 1 of 2 (28 PTS),,59-51,59,51
 0021700464,2017-12-20,GSW,MEM,26.58,3,9,25,GSW,GSW,ft_make,12,False,False,Thompson Free Throw 2 of 2 (29 PTS),,60-51,60,51
 0021700464,2017-12-20,GSW,MEM,26.92,3,9,5,MEM,MEM,tov,2,False,True,,Gasol Lost Ball Turnover (P2.T11),60-51,60,51
-0021700464,2017-12-20,GSW,MEM,26.92,3,9,5,GSW,MEM,foul,1,False,False,,Evans P.FOUL (P1.T2) (M.Ayotte),60-51,60,51
 0021700464,2017-12-20,GSW,MEM,26.92,3,9,5,MEM,GSW,steal,2,False,True,steal,steal,60-51,60,51
+0021700464,2017-12-20,GSW,MEM,26.92,3,9,5,GSW,MEM,foul,1,False,False,,Evans P.FOUL (P1.T2) (M.Ayotte),60-51,60,51
 0021700464,2017-12-20,GSW,MEM,27.12,3,8,53,GSW,GSW,tov,40,False,False,Bell Out of Bounds Lost Ball Turnover (P3.T10),,60-51,60,51
 0021700464,2017-12-20,GSW,MEM,27.52,3,8,29,MEM,MEM,fg_miss,86,False,False,,MISS Gasol 17' Turnaround Fadeaway Shot,60-51,60,51
 0021700464,2017-12-20,GSW,MEM,27.58,3,8,25,GSW,GSW,reb,0,False,False,Cook REBOUND (Off:1 Def:1),,60-51,60,51
@@ -320,8 +320,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700464,2017-12-20,GSW,MEM,36.95,4,11,3,GSW,GSW,fg3_miss,1,False,False,MISS Young 3PT Jump Shot,,74-65,74,65
 0021700464,2017-12-20,GSW,MEM,37.0,4,11,0,MEM,MEM,reb,0,False,False,,Martin REBOUND (Off:1 Def:2),74-65,74,65
 0021700464,2017-12-20,GSW,MEM,37.22,4,10,47,MEM,MEM,fg_miss,1,True,False,,MISS Evans 8' Jump Shot,74-65,74,65
-0021700464,2017-12-20,GSW,MEM,37.22,4,10,47,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,74-65,74,65
 0021700464,2017-12-20,GSW,MEM,37.22,4,10,47,MEM,GSW,block,1,True,False,block,block,74-65,74,65
+0021700464,2017-12-20,GSW,MEM,37.22,4,10,47,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,74-65,74,65
 0021700464,2017-12-20,GSW,MEM,37.25,4,10,45,MEM,MEM,fg_make,79,False,False,,Evans 19' Pullup Jump Shot (6 PTS) (Chalmers 3 AST),74-67,74,67
 0021700464,2017-12-20,GSW,MEM,37.62,4,10,23,GSW,GSW,fg_miss,1,False,False,MISS Thompson 20' Jump Shot,,74-67,74,67
 0021700464,2017-12-20,GSW,MEM,37.63,4,10,22,GSW,GSW,reb,0,False,False,Young REBOUND (Off:1 Def:1),,74-67,74,67
@@ -382,9 +382,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700464,2017-12-20,GSW,MEM,42.97,4,5,2,MEM,MEM,fg_miss,6,False,False,,MISS Evans 2' Driving Layup,84-75,84,75
 0021700464,2017-12-20,GSW,MEM,43.03,4,4,58,MEM,MEM,reb,0,False,False,,Green REBOUND (Off:3 Def:0),84-75,84,75
 0021700464,2017-12-20,GSW,MEM,43.03,4,4,58,MEM,MEM,fg_miss,5,True,False,,MISS Green 2' Layup,84-75,84,75
+0021700464,2017-12-20,GSW,MEM,43.03,4,4,58,MEM,GSW,block,5,True,False,block,block,84-75,84,75
 0021700464,2017-12-20,GSW,MEM,43.03,4,4,58,GSW,GSW,reb,0,False,False,Young REBOUND (Off:1 Def:4),,84-75,84,75
 0021700464,2017-12-20,GSW,MEM,43.03,4,4,58,GSW,MEM,foul,1,False,False,,Harrison P.FOUL (P4.T3) (M.Ayotte),84-75,84,75
-0021700464,2017-12-20,GSW,MEM,43.03,4,4,58,MEM,GSW,block,5,True,False,block,block,84-75,84,75
 0021700464,2017-12-20,GSW,MEM,43.15,4,4,51,GSW,,foul,11,False,False,,,84-75,84,75
 0021700464,2017-12-20,GSW,MEM,43.15,4,4,51,GSW,GSW,ft_make,16,False,False,Durant Free Throw Technical (17 PTS),,85-75,85,75
 0021700464,2017-12-20,GSW,MEM,43.33,4,4,40,GSW,GSW,fg_miss,1,True,False,MISS Young 15' Jump Shot,,85-75,85,75
@@ -429,8 +429,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700464,2017-12-20,GSW,MEM,47.43,4,0,34,GSW,GSW,fg_miss,1,False,False,MISS Cook 13' Jump Shot,,97-84,97,84
 0021700464,2017-12-20,GSW,MEM,47.5,4,0,30,GSW,GSW,reb,0,False,False,Jones REBOUND (Off:1 Def:0),,97-84,97,84
 0021700464,2017-12-20,GSW,MEM,47.55,4,0,27,GSW,GSW,fg_miss,5,True,False,MISS Cook 3' Layup,,97-84,97,84
-0021700464,2017-12-20,GSW,MEM,47.55,4,0,27,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,97-84,97,84
 0021700464,2017-12-20,GSW,MEM,47.55,4,0,27,GSW,MEM,block,5,True,False,block,block,97-84,97,84
+0021700464,2017-12-20,GSW,MEM,47.55,4,0,27,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,97-84,97,84
 0021700464,2017-12-20,GSW,MEM,47.8,4,0,12,MEM,MEM,fg_miss,80,False,False,,MISS Rabb 17' Step Back Jump Shot,97-84,97,84
 0021700464,2017-12-20,GSW,MEM,47.88,4,0,7,GSW,GSW,reb,0,False,False,Casspi REBOUND (Off:3 Def:3),,97-84,97,84
 0021700464,2017-12-20,GSW,MEM,48.0,4,0,0,GSW,,period_end,0,False,False,,,97-84,97,84

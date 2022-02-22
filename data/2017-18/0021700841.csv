@@ -75,8 +75,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700841,2018-02-12,DET,NOP,7.38,1,4,37,DET,DET,reb,0,False,False,Drummond REBOUND (Off:2 Def:3),,18-18,18,18
 0021700841,2018-02-12,DET,NOP,7.38,1,4,37,DET,DET,fg_make,87,False,False,Drummond 1' Putback Dunk (3 PTS),,20-18,20,18
 0021700841,2018-02-12,DET,NOP,7.47,1,4,32,NOP,NOP,fg_miss,6,True,False,,MISS Holiday 1' Driving Layup,20-18,20,18
-0021700841,2018-02-12,DET,NOP,7.47,1,4,32,DET,DET,reb,0,False,False,Smith REBOUND (Off:0 Def:1),,20-18,20,18
 0021700841,2018-02-12,DET,NOP,7.47,1,4,32,NOP,DET,block,6,True,False,block,block,20-18,20,18
+0021700841,2018-02-12,DET,NOP,7.47,1,4,32,DET,DET,reb,0,False,False,Smith REBOUND (Off:0 Def:1),,20-18,20,18
 0021700841,2018-02-12,DET,NOP,7.57,1,4,26,DET,DET,fg3_miss,1,False,False,MISS Tolliver 3PT Jump Shot,,20-18,20,18
 0021700841,2018-02-12,DET,NOP,7.62,1,4,23,DET,DET,reb,0,False,False,Drummond REBOUND (Off:3 Def:3),,20-18,20,18
 0021700841,2018-02-12,DET,NOP,7.63,1,4,22,DET,DET,fg_make,5,False,False,Drummond 2' Layup (5 PTS),,22-18,22,18
@@ -154,8 +154,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700841,2018-02-12,DET,NOP,15.95,2,8,3,DET,NOP,foul,2,False,False,,Moore S.FOUL (P3.T3) (R.Acosta),39-44,39,44
 0021700841,2018-02-12,DET,NOP,15.95,2,8,3,DET,DET,ft_make,10,False,False,Nelson Free Throw 1 of 1 (6 PTS),,40-44,40,44
 0021700841,2018-02-12,DET,NOP,16.33,2,7,40,NOP,NOP,fg_miss,3,False,False,,MISS Moore 7' Hook Shot,40-44,40,44
-0021700841,2018-02-12,DET,NOP,16.35,2,7,39,NOP,NOP,fg_miss,97,False,False,,MISS Moore 2' Tip Layup Shot,40-44,40,44
 0021700841,2018-02-12,DET,NOP,16.35,2,7,39,NOP,NOP,reb,0,False,False,,Moore REBOUND (Off:1 Def:1),40-44,40,44
+0021700841,2018-02-12,DET,NOP,16.35,2,7,39,NOP,NOP,fg_miss,97,False,False,,MISS Moore 2' Tip Layup Shot,40-44,40,44
 0021700841,2018-02-12,DET,NOP,16.37,2,7,38,DET,DET,reb,0,False,False,Moreland REBOUND (Off:1 Def:2),,40-44,40,44
 0021700841,2018-02-12,DET,NOP,16.53,2,7,28,DET,DET,tov,45,False,False,Griffin Out of Bounds - Bad Pass Turnover Turnover (P4.T6),,40-44,40,44
 0021700841,2018-02-12,DET,NOP,16.67,2,7,20,NOP,NOP,fg_miss,1,False,False,,MISS Mirotic 19' Jump Shot,40-44,40,44
@@ -243,9 +243,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700841,2018-02-12,DET,NOP,24.33,3,11,40,NOP,NOP,reb,0,False,False,,Okafor REBOUND (Off:2 Def:0),52-60,52,60
 0021700841,2018-02-12,DET,NOP,24.35,3,11,39,NOP,NOP,fg_miss,5,False,False,,MISS Davis 6' Layup,52-60,52,60
 0021700841,2018-02-12,DET,NOP,24.35,3,11,39,NOP,NOP,reb,0,False,False,,Okafor REBOUND (Off:4 Def:0),52-60,52,60
+0021700841,2018-02-12,DET,NOP,24.47,3,11,32,NOP,NOP,fg_make,72,False,False,,Okafor 1' Putback Layup (6 PTS),52-62,52,62
 0021700841,2018-02-12,DET,NOP,24.47,3,11,32,NOP,NOP,fg_miss,63,False,False,,MISS Davis 6' Fadeaway Jumper,52-60,52,60
 0021700841,2018-02-12,DET,NOP,24.47,3,11,32,NOP,NOP,reb,0,False,False,,Okafor REBOUND (Off:3 Def:0),52-60,52,60
-0021700841,2018-02-12,DET,NOP,24.47,3,11,32,NOP,NOP,fg_make,72,False,False,,Okafor 1' Putback Layup (6 PTS),52-62,52,62
 0021700841,2018-02-12,DET,NOP,24.58,3,11,25,DET,DET,fg_miss,43,False,False,MISS Drummond 1' Alley Oop Layup,,52-62,52,62
 0021700841,2018-02-12,DET,NOP,24.62,3,11,23,NOP,NOP,reb,0,False,False,,Rondo REBOUND (Off:0 Def:3),52-62,52,62
 0021700841,2018-02-12,DET,NOP,24.73,3,11,16,NOP,NOP,fg_miss,43,False,False,,MISS Okafor 4' Alley Oop Layup,52-62,52,62
@@ -256,8 +256,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700841,2018-02-12,DET,NOP,25.33,3,10,40,DET,NOP,block,6,True,False,block,block,52-64,52,64
 0021700841,2018-02-12,DET,NOP,25.37,3,10,38,NOP,NOP,reb,0,False,False,,Davis REBOUND (Off:1 Def:6),52-64,52,64
 0021700841,2018-02-12,DET,NOP,25.75,3,10,15,NOP,NOP,fg3_miss,1,False,False,,MISS Rondo 26' 3PT Jump Shot,52-64,52,64
-0021700841,2018-02-12,DET,NOP,25.75,3,10,15,NOP,NOP,reb,0,False,False,,Pelicans Rebound,52-64,52,64
 0021700841,2018-02-12,DET,NOP,25.75,3,10,15,NOP,NOP,tov,11,False,False,,Pelicans Turnover: Shot Clock (T#8),52-64,52,64
+0021700841,2018-02-12,DET,NOP,25.75,3,10,15,NOP,NOP,reb,0,False,False,,Pelicans Rebound,52-64,52,64
 0021700841,2018-02-12,DET,NOP,25.95,3,10,3,DET,DET,fg_make,6,False,False,Smith 3' Driving Layup (9 PTS) (Griffin 2 AST),,54-64,54,64
 0021700841,2018-02-12,DET,NOP,26.22,3,9,47,NOP,NOP,fg3_miss,1,False,False,,MISS Moore 26' 3PT Jump Shot,54-64,54,64
 0021700841,2018-02-12,DET,NOP,26.27,3,9,44,DET,DET,reb,0,False,False,Drummond REBOUND (Off:5 Def:5),,54-64,54,64
@@ -459,8 +459,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700841,2018-02-12,DET,NOP,45.55,4,2,27,NOP,NOP,ft_make,10,False,False,,Davis Free Throw 1 of 1 (38 PTS),101-118,101,118
 0021700841,2018-02-12,DET,NOP,45.6,4,2,24,DET,NOP,foul,1,False,False,,Holiday P.FOUL (P2.T4) (D.Stafford),101-118,101,118
 0021700841,2018-02-12,DET,NOP,45.75,4,2,15,DET,DET,fg_miss,5,True,False,MISS Buycks 3' Layup,,101-118,101,118
-0021700841,2018-02-12,DET,NOP,45.75,4,2,15,DET,DET,reb,0,False,False,PISTONS Rebound,,101-118,101,118
 0021700841,2018-02-12,DET,NOP,45.75,4,2,15,DET,NOP,block,5,True,False,block,block,101-118,101,118
+0021700841,2018-02-12,DET,NOP,45.75,4,2,15,DET,DET,reb,0,False,False,PISTONS Rebound,,101-118,101,118
 0021700841,2018-02-12,DET,NOP,45.78,4,2,13,DET,DET,fg3_miss,1,False,False,MISS Ellenson 26' 3PT Jump Shot,,101-118,101,118
 0021700841,2018-02-12,DET,NOP,45.85,4,2,9,NOP,NOP,reb,0,False,False,,Clark REBOUND (Off:0 Def:6),101-118,101,118
 0021700841,2018-02-12,DET,NOP,46.12,4,1,53,NOP,NOP,fg_miss,58,False,False,,MISS Okafor 9' Turnaround Hook Shot,101-118,101,118

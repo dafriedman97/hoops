@@ -60,17 +60,17 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701230,2018-04-11,SAC,HOU,6.98,1,5,1,SAC,SAC,fg3_make,1,False,False,Fox 24' 3PT Jump Shot (3 PTS) (Jackson 1 AST),,15-13,15,13
 0021701230,2018-04-11,SAC,HOU,7.25,1,4,45,HOU,HOU,fg_make,66,False,False,,Zhou 6' Jump Bank Shot (2 PTS) (Tucker 1 AST),15-15,15,15
 0021701230,2018-04-11,SAC,HOU,7.53,1,4,28,SAC,SAC,fg_miss,3,True,False,MISS Sampson 8' Hook Shot,,15-15,15,15
-0021701230,2018-04-11,SAC,HOU,7.53,1,4,28,SAC,SAC,reb,0,False,False,KINGS Rebound,,15-15,15,15
 0021701230,2018-04-11,SAC,HOU,7.53,1,4,28,SAC,HOU,block,3,True,False,block,block,15-15,15,15
+0021701230,2018-04-11,SAC,HOU,7.53,1,4,28,SAC,SAC,reb,0,False,False,KINGS Rebound,,15-15,15,15
 0021701230,2018-04-11,SAC,HOU,7.58,1,4,25,SAC,SAC,fg_make,1,False,False,Hayes 18' Jump Shot (2 PTS) (Hield 1 AST),,17-15,17,15
 0021701230,2018-04-11,SAC,HOU,7.92,1,4,5,HOU,HOU,fg_miss,98,True,False,,MISS Jackson 5' Cutting Layup Shot,17-15,17,15
-0021701230,2018-04-11,SAC,HOU,7.92,1,4,5,HOU,HOU,reb,0,False,False,,Rockets Rebound,17-15,17,15
 0021701230,2018-04-11,SAC,HOU,7.92,1,4,5,HOU,SAC,block,98,True,False,block,block,17-15,17,15
+0021701230,2018-04-11,SAC,HOU,7.92,1,4,5,HOU,HOU,reb,0,False,False,,Rockets Rebound,17-15,17,15
 0021701230,2018-04-11,SAC,HOU,8.02,1,3,59,HOU,HOU,fg_make,86,False,False,,Green 10' Turnaround Fadeaway (7 PTS),17-17,17,17
 0021701230,2018-04-11,SAC,HOU,8.08,1,3,55,SAC,SAC,tov,40,False,False,Fox Out of Bounds Lost Ball Turnover (P1.T3),,17-17,17,17
 0021701230,2018-04-11,SAC,HOU,8.27,1,3,44,HOU,HOU,fg_miss,5,True,False,,MISS Zhou 3' Layup,17-17,17,17
-0021701230,2018-04-11,SAC,HOU,8.27,1,3,44,HOU,HOU,reb,0,False,False,,Rockets Rebound,17-17,17,17
 0021701230,2018-04-11,SAC,HOU,8.27,1,3,44,HOU,SAC,block,5,True,False,block,block,17-17,17,17
+0021701230,2018-04-11,SAC,HOU,8.27,1,3,44,HOU,HOU,reb,0,False,False,,Rockets Rebound,17-17,17,17
 0021701230,2018-04-11,SAC,HOU,8.35,1,3,39,,SAC,jump_ball,0,False,False,Jump Ball Jackson vs. Zhou: Tip to Green,,17-17,17,17
 0021701230,2018-04-11,SAC,HOU,8.42,1,3,35,HOU,HOU,fg_make,1,False,False,,Green 19' Jump Shot (9 PTS),17-19,17,19
 0021701230,2018-04-11,SAC,HOU,8.78,1,3,13,SAC,SAC,fg3_miss,1,False,False,MISS Jackson 3PT Jump Shot,,17-19,17,19
@@ -286,9 +286,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701230,2018-04-11,SAC,HOU,35.5,3,0,30,SAC,SAC,fg3_miss,1,False,False,MISS Bogdanovic 25' 3PT Jump Shot,,77-63,77,63
 0021701230,2018-04-11,SAC,HOU,35.53,3,0,28,SAC,SAC,reb,0,False,False,Hield REBOUND (Off:1 Def:2),,77-63,77,63
 0021701230,2018-04-11,SAC,HOU,35.53,3,0,28,SAC,SAC,fg_miss,5,True,False,MISS Hield 2' Layup,,77-63,77,63
+0021701230,2018-04-11,SAC,HOU,35.53,3,0,28,SAC,HOU,block,5,True,False,block,block,77-63,77,63
 0021701230,2018-04-11,SAC,HOU,35.53,3,0,28,SAC,SAC,reb,0,False,False,KINGS Rebound,,77-63,77,63
 0021701230,2018-04-11,SAC,HOU,35.53,3,0,28,SAC,HOU,foul,3,False,False,,Onuaku L.B.FOUL (P3.PN) (J.Orr),77-63,77,63
-0021701230,2018-04-11,SAC,HOU,35.53,3,0,28,SAC,HOU,block,5,True,False,block,block,77-63,77,63
 0021701230,2018-04-11,SAC,HOU,35.53,3,0,28,SAC,SAC,ft_make,11,False,False,Cooley Free Throw 1 of 2 (5 PTS),,78-63,78,63
 0021701230,2018-04-11,SAC,HOU,35.53,3,0,28,SAC,SAC,ft_make,12,False,False,Cooley Free Throw 2 of 2 (6 PTS),,79-63,79,63
 0021701230,2018-04-11,SAC,HOU,35.88,3,0,7,HOU,HOU,fg_miss,63,False,False,,MISS Johnson 23' Fadeaway Jumper,79-63,79,63
@@ -325,8 +325,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701230,2018-04-11,SAC,HOU,39.5,4,8,30,SAC,SAC,fg_miss,98,False,False,MISS Cooley 4' Cutting Layup Shot,,88-70,88,70
 0021701230,2018-04-11,SAC,HOU,39.53,4,8,28,SAC,SAC,reb,0,False,False,Cooley REBOUND (Off:1 Def:1),,88-70,88,70
 0021701230,2018-04-11,SAC,HOU,39.55,4,8,27,SAC,SAC,fg_miss,5,True,False,MISS Cooley 3' Layup,,88-70,88,70
-0021701230,2018-04-11,SAC,HOU,39.55,4,8,27,SAC,SAC,reb,0,False,False,Hayes REBOUND (Off:1 Def:3),,88-70,88,70
 0021701230,2018-04-11,SAC,HOU,39.55,4,8,27,SAC,HOU,block,5,True,False,block,block,88-70,88,70
+0021701230,2018-04-11,SAC,HOU,39.55,4,8,27,SAC,SAC,reb,0,False,False,Hayes REBOUND (Off:1 Def:3),,88-70,88,70
 0021701230,2018-04-11,SAC,HOU,39.67,4,8,20,SAC,SAC,fg3_miss,1,False,False,MISS Bogdanovic 26' 3PT Jump Shot,,88-70,88,70
 0021701230,2018-04-11,SAC,HOU,39.7,4,8,18,HOU,HOU,reb,0,False,False,,Hunter REBOUND (Off:0 Def:2),88-70,88,70
 0021701230,2018-04-11,SAC,HOU,39.75,4,8,15,HOU,SAC,foul,1,False,False,Hield P.FOUL (P2.T3) (S.Foster),,88-70,88,70
@@ -341,8 +341,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701230,2018-04-11,SAC,HOU,41.03,4,6,58,HOU,HOU,fg_miss,5,False,False,,MISS Onuaku 3' Layup,90-70,90,70
 0021701230,2018-04-11,SAC,HOU,41.1,4,6,54,SAC,SAC,reb,0,False,False,Cauley-Stein REBOUND (Off:1 Def:9),,90-70,90,70
 0021701230,2018-04-11,SAC,HOU,41.22,4,6,47,SAC,SAC,fg_miss,5,True,False,MISS Hield 3' Layup,,90-70,90,70
-0021701230,2018-04-11,SAC,HOU,41.22,4,6,47,SAC,SAC,reb,0,False,False,KINGS Rebound,,90-70,90,70
 0021701230,2018-04-11,SAC,HOU,41.22,4,6,47,SAC,HOU,block,5,True,False,block,block,90-70,90,70
+0021701230,2018-04-11,SAC,HOU,41.22,4,6,47,SAC,SAC,reb,0,False,False,KINGS Rebound,,90-70,90,70
 0021701230,2018-04-11,SAC,HOU,41.38,4,6,37,SAC,SAC,fg3_miss,1,False,False,MISS Hield 26' 3PT Jump Shot,,90-70,90,70
 0021701230,2018-04-11,SAC,HOU,41.43,4,6,34,HOU,HOU,reb,0,False,False,,Zhou REBOUND (Off:0 Def:3),90-70,90,70
 0021701230,2018-04-11,SAC,HOU,41.72,4,6,17,HOU,HOU,fg3_make,1,False,False,,Hunter 25' 3PT Jump Shot (11 PTS),90-73,90,73

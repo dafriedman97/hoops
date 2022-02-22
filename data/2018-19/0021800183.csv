@@ -46,8 +46,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800183,2018-11-10,SAC,LAL,4.43,1,7,34,LAL,LAL,fg3_miss,1,False,False,,MISS Ball 25' 3PT Jump Shot,7-12,7,12
 0021800183,2018-11-10,SAC,LAL,4.48,1,7,31,SAC,SAC,reb,0,False,False,Hield REBOUND (Off:1 Def:1),,7-12,7,12
 0021800183,2018-11-10,SAC,LAL,4.68,1,7,19,SAC,SAC,fg_miss,108,True,False,MISS Cauley-Stein 5' Cutting Dunk Shot,,7-12,7,12
-0021800183,2018-11-10,SAC,LAL,4.68,1,7,19,LAL,LAL,reb,0,False,False,,Lakers Rebound,7-12,7,12
 0021800183,2018-11-10,SAC,LAL,4.68,1,7,19,SAC,LAL,block,108,True,False,block,block,7-12,7,12
+0021800183,2018-11-10,SAC,LAL,4.68,1,7,19,LAL,LAL,reb,0,False,False,,Lakers Rebound,7-12,7,12
 0021800183,2018-11-10,SAC,LAL,4.8,1,7,12,LAL,LAL,fg_make,6,False,False,,James 2' Driving Layup (4 PTS),7-14,7,14
 0021800183,2018-11-10,SAC,LAL,4.88,1,7,7,SAC,SAC,fg_make,63,False,False,Fox 15' Fadeaway Jumper (5 PTS),,9-14,9,14
 0021800183,2018-11-10,SAC,LAL,4.88,1,7,7,SAC,LAL,foul,2,False,False,,Ingram S.FOUL (P1.T3) (J.Goble),9-14,9,14
@@ -70,8 +70,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800183,2018-11-10,SAC,LAL,6.78,1,5,13,SAC,SAC,fg_miss,1,False,False,MISS Bogdanovic 23' Jump Shot,,10-19,10,19
 0021800183,2018-11-10,SAC,LAL,6.82,1,5,11,LAL,LAL,reb,0,False,False,,Ingram REBOUND (Off:0 Def:2),10-19,10,19
 0021800183,2018-11-10,SAC,LAL,6.88,1,5,7,LAL,LAL,fg_miss,41,True,False,,MISS Ingram 2' Running Layup,10-19,10,19
-0021800183,2018-11-10,SAC,LAL,6.88,1,5,7,LAL,LAL,reb,0,False,False,,Chandler REBOUND (Off:2 Def:3),10-19,10,19
 0021800183,2018-11-10,SAC,LAL,6.88,1,5,7,LAL,SAC,block,41,True,False,block,block,10-19,10,19
+0021800183,2018-11-10,SAC,LAL,6.88,1,5,7,LAL,LAL,reb,0,False,False,,Chandler REBOUND (Off:2 Def:3),10-19,10,19
 0021800183,2018-11-10,SAC,LAL,6.97,1,5,2,LAL,LAL,fg3_miss,1,False,False,,MISS Ball 26' 3PT Jump Shot,10-19,10,19
 0021800183,2018-11-10,SAC,LAL,6.97,1,5,2,SAC,SAC,reb,0,False,False,Bogdanovic REBOUND (Off:0 Def:1),,10-19,10,19
 0021800183,2018-11-10,SAC,LAL,7.02,1,4,59,SAC,LAL,foul,1,False,False,,Ball P.FOUL (P2.T4) (T.Ford),10-19,10,19
@@ -245,9 +245,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800183,2018-11-10,SAC,LAL,25.93,3,10,4,SAC,SAC,reb,0,False,False,Bjelica REBOUND (Off:2 Def:1),,47-53,47,53
 0021800183,2018-11-10,SAC,LAL,25.93,3,10,4,SAC,SAC,fg_make,72,False,False,Bjelica 2' Putback Layup (2 PTS),,49-53,49,53
 0021800183,2018-11-10,SAC,LAL,26.2,3,9,48,LAL,LAL,fg_miss,6,False,False,,MISS Ingram 6' Driving Layup,49-53,49,53
+0021800183,2018-11-10,SAC,LAL,26.25,3,9,45,LAL,LAL,reb,0,False,False,,Ingram REBOUND (Off:2 Def:3),49-53,49,53
 0021800183,2018-11-10,SAC,LAL,26.25,3,9,45,LAL,LAL,fg_miss,97,False,False,,MISS Ingram 2' Tip Layup Shot,49-53,49,53
 0021800183,2018-11-10,SAC,LAL,26.25,3,9,45,LAL,LAL,reb,0,False,False,,Ingram REBOUND (Off:1 Def:3),49-53,49,53
-0021800183,2018-11-10,SAC,LAL,26.25,3,9,45,LAL,LAL,reb,0,False,False,,Ingram REBOUND (Off:2 Def:3),49-53,49,53
 0021800183,2018-11-10,SAC,LAL,26.27,3,9,44,LAL,LAL,fg_miss,5,False,False,,MISS Ingram 3' Layup,49-53,49,53
 0021800183,2018-11-10,SAC,LAL,26.3,3,9,42,SAC,SAC,reb,0,False,False,Fox REBOUND (Off:0 Def:4),,49-53,49,53
 0021800183,2018-11-10,SAC,LAL,26.38,3,9,37,SAC,SAC,fg3_miss,1,False,False,MISS Hield 3PT Jump Shot,,49-53,49,53
@@ -262,8 +262,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800183,2018-11-10,SAC,LAL,27.63,3,8,22,SAC,SAC,fg_miss,101,False,False,MISS Bjelica 11' Driving Floating Jump Shot,,51-53,51,53
 0021800183,2018-11-10,SAC,LAL,27.68,3,8,19,SAC,SAC,reb,0,False,False,Bjelica REBOUND (Off:3 Def:2),,51-53,51,53
 0021800183,2018-11-10,SAC,LAL,27.7,3,8,18,SAC,SAC,fg_miss,3,True,False,MISS Bjelica 4' Hook Shot,,51-53,51,53
-0021800183,2018-11-10,SAC,LAL,27.7,3,8,18,LAL,LAL,reb,0,False,False,,James REBOUND (Off:1 Def:4),51-53,51,53
 0021800183,2018-11-10,SAC,LAL,27.7,3,8,18,SAC,LAL,block,3,True,False,block,block,51-53,51,53
+0021800183,2018-11-10,SAC,LAL,27.7,3,8,18,LAL,LAL,reb,0,False,False,,James REBOUND (Off:1 Def:4),51-53,51,53
 0021800183,2018-11-10,SAC,LAL,27.8,3,8,12,LAL,LAL,fg_make,41,False,False,,Caldwell-Pope 1' Running Layup (8 PTS) (James 1 AST),51-55,51,55
 0021800183,2018-11-10,SAC,LAL,27.85,3,8,9,SAC,SAC,tov,1,False,True,Fox Bad Pass Turnover (P2.T13),,51-55,51,55
 0021800183,2018-11-10,SAC,LAL,27.85,3,8,9,SAC,LAL,steal,1,False,True,steal,steal,51-55,51,55
@@ -328,9 +328,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800183,2018-11-10,SAC,LAL,34.63,3,1,22,SAC,SAC,fg_miss,101,False,False,MISS Bogdanovic 16' Driving Floating Jump Shot,,60-70,60,70
 0021800183,2018-11-10,SAC,LAL,34.68,3,1,19,LAL,LAL,reb,0,False,False,,Ingram REBOUND (Off:2 Def:5),60-70,60,70
 0021800183,2018-11-10,SAC,LAL,34.73,3,1,16,LAL,LAL,fg_miss,6,True,False,,MISS Ingram 8' Driving Layup,60-70,60,70
+0021800183,2018-11-10,SAC,LAL,34.73,3,1,16,LAL,SAC,block,6,True,False,block,block,60-70,60,70
 0021800183,2018-11-10,SAC,LAL,34.73,3,1,16,LAL,LAL,reb,0,False,False,,Lakers Rebound,60-70,60,70
 0021800183,2018-11-10,SAC,LAL,34.73,3,1,16,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.3 Short 0),60-70,60,70
-0021800183,2018-11-10,SAC,LAL,34.73,3,1,16,LAL,SAC,block,6,True,False,block,block,60-70,60,70
 0021800183,2018-11-10,SAC,LAL,34.92,3,1,5,LAL,SAC,foul,2,False,False,Williams S.FOUL (P2.PN) (T.Ford),,60-70,60,70
 0021800183,2018-11-10,SAC,LAL,34.92,3,1,5,LAL,LAL,ft_make,11,False,False,,Ingram Free Throw 1 of 2 (7 PTS),60-71,60,71
 0021800183,2018-11-10,SAC,LAL,34.92,3,1,5,LAL,LAL,ft_make,12,False,False,,Ingram Free Throw 2 of 2 (8 PTS),60-72,60,72
@@ -350,13 +350,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800183,2018-11-10,SAC,LAL,36.0,4,12,0,LAL,,period_start,0,False,False,,,65-76,65,76
 0021800183,2018-11-10,SAC,LAL,36.35,4,11,39,LAL,LAL,fg3_make,1,False,False,,Stephenson 3PT Jump Shot (5 PTS) (Rondo 5 AST),65-79,65,79
 0021800183,2018-11-10,SAC,LAL,36.6,4,11,24,SAC,SAC,fg_miss,6,False,False,MISS Bagley III 4' Driving Layup,,65-79,65,79
-0021800183,2018-11-10,SAC,LAL,36.6,4,11,24,SAC,SAC,fg_miss,97,False,False,MISS Bagley III 3' Tip Layup Shot,,65-79,65,79
-0021800183,2018-11-10,SAC,LAL,36.6,4,11,24,SAC,SAC,reb,0,False,False,Bagley III REBOUND (Off:1 Def:0),,65-79,65,79
 0021800183,2018-11-10,SAC,LAL,36.6,4,11,24,SAC,SAC,reb,0,False,False,Bagley III REBOUND (Off:2 Def:0),,65-79,65,79
 0021800183,2018-11-10,SAC,LAL,36.6,4,11,24,SAC,LAL,foul,2,False,False,,Stephenson S.FOUL (P1.T1) (L.Wood),65-79,65,79
 0021800183,2018-11-10,SAC,LAL,36.6,4,11,24,SAC,SAC,ft_miss,11,False,False,MISS Bagley III Free Throw 1 of 2,,65-79,65,79
 0021800183,2018-11-10,SAC,LAL,36.6,4,11,24,SAC,SAC,reb,1,False,False,KINGS Rebound,,65-79,65,79
 0021800183,2018-11-10,SAC,LAL,36.6,4,11,24,SAC,SAC,ft_miss,12,False,False,MISS Bagley III Free Throw 2 of 2,,65-79,65,79
+0021800183,2018-11-10,SAC,LAL,36.6,4,11,24,SAC,SAC,fg_miss,97,False,False,MISS Bagley III 3' Tip Layup Shot,,65-79,65,79
+0021800183,2018-11-10,SAC,LAL,36.6,4,11,24,SAC,SAC,reb,0,False,False,Bagley III REBOUND (Off:1 Def:0),,65-79,65,79
 0021800183,2018-11-10,SAC,LAL,36.65,4,11,21,LAL,LAL,reb,0,False,False,,Hart REBOUND (Off:0 Def:4),65-79,65,79
 0021800183,2018-11-10,SAC,LAL,36.8,4,11,12,LAL,LAL,fg_miss,57,False,False,,MISS Rondo 12' Driving Hook Shot,65-79,65,79
 0021800183,2018-11-10,SAC,LAL,36.8,4,11,12,SAC,SAC,reb,0,False,False,KINGS Rebound,,65-79,65,79
@@ -397,12 +397,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800183,2018-11-10,SAC,LAL,40.45,4,7,33,SAC,SAC,fg_miss,1,False,False,MISS Bagley III 16' Jump Shot,,68-88,68,88
 0021800183,2018-11-10,SAC,LAL,40.5,4,7,30,LAL,LAL,reb,0,False,False,,Caldwell-Pope REBOUND (Off:0 Def:2),68-88,68,88
 0021800183,2018-11-10,SAC,LAL,40.83,4,7,10,LAL,LAL,fg_miss,6,True,False,,MISS Rondo 5' Driving Layup,68-88,68,88
+0021800183,2018-11-10,SAC,LAL,40.83,4,7,10,LAL,SAC,block,6,True,False,block,block,68-88,68,88
 0021800183,2018-11-10,SAC,LAL,40.83,4,7,10,LAL,LAL,reb,0,False,False,,Chandler REBOUND (Off:5 Def:6),68-88,68,88
 0021800183,2018-11-10,SAC,LAL,40.83,4,7,10,LAL,SAC,foul,2,False,False,Shumpert S.FOUL (P1.T2) (L.Wood),,68-88,68,88
 0021800183,2018-11-10,SAC,LAL,40.83,4,7,10,LAL,LAL,ft_miss,11,False,False,,MISS Chandler Free Throw 1 of 2,68-88,68,88
 0021800183,2018-11-10,SAC,LAL,40.83,4,7,10,LAL,LAL,reb,1,False,False,,Lakers Rebound,68-88,68,88
 0021800183,2018-11-10,SAC,LAL,40.83,4,7,10,LAL,LAL,ft_miss,12,False,False,,MISS Chandler Free Throw 2 of 2,68-88,68,88
-0021800183,2018-11-10,SAC,LAL,40.83,4,7,10,LAL,SAC,block,6,True,False,block,block,68-88,68,88
 0021800183,2018-11-10,SAC,LAL,40.92,4,7,5,SAC,SAC,reb,0,False,False,Shumpert REBOUND (Off:0 Def:1),,68-88,68,88
 0021800183,2018-11-10,SAC,LAL,41.13,4,6,52,SAC,SAC,fg_miss,6,False,False,MISS Hield 3' Driving Layup,,68-88,68,88
 0021800183,2018-11-10,SAC,LAL,41.2,4,6,48,LAL,LAL,reb,0,False,False,,Chandler REBOUND (Off:5 Def:7),68-88,68,88
@@ -412,10 +412,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800183,2018-11-10,SAC,LAL,41.37,4,6,38,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.4 Short 0),70-88,70,88
 0021800183,2018-11-10,SAC,LAL,41.75,4,6,15,LAL,LAL,fg_miss,80,False,False,,MISS James 15' Step Back Jump Shot,70-88,70,88
 0021800183,2018-11-10,SAC,LAL,41.77,4,6,14,LAL,LAL,reb,0,False,False,,Kuzma REBOUND (Off:1 Def:1),70-88,70,88
-0021800183,2018-11-10,SAC,LAL,41.77,4,6,14,LAL,LAL,fg_miss,72,True,False,,MISS Kuzma 3' Putback Layup,70-88,70,88
-0021800183,2018-11-10,SAC,LAL,41.77,4,6,14,LAL,LAL,reb,0,False,False,,Lakers Rebound,70-88,70,88
 0021800183,2018-11-10,SAC,LAL,41.77,4,6,14,LAL,LAL,tov,11,False,False,,Lakers Turnover: Shot Clock (T#15),70-88,70,88
+0021800183,2018-11-10,SAC,LAL,41.77,4,6,14,LAL,LAL,fg_miss,72,True,False,,MISS Kuzma 3' Putback Layup,70-88,70,88
 0021800183,2018-11-10,SAC,LAL,41.77,4,6,14,LAL,SAC,block,72,True,False,block,block,70-88,70,88
+0021800183,2018-11-10,SAC,LAL,41.77,4,6,14,LAL,LAL,reb,0,False,False,,Lakers Rebound,70-88,70,88
 0021800183,2018-11-10,SAC,LAL,41.95,4,6,3,SAC,SAC,fg_make,58,False,False,Bagley III 6' Turnaround Hook Shot (9 PTS),,72-88,72,88
 0021800183,2018-11-10,SAC,LAL,42.28,4,5,43,LAL,SAC,violation,5,False,False,Kicked Ball,,72-88,72,88
 0021800183,2018-11-10,SAC,LAL,42.4,4,5,36,LAL,SAC,foul,2,False,False,Hield S.FOUL (P2.T3) (T.Ford),,72-88,72,88

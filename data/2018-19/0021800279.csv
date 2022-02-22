@@ -276,12 +276,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800279,2018-11-24,CLE,HOU,30.58,3,5,25,CLE,CLE,fg3_miss,1,False,False,MISS Hood 27' 3PT Jump Shot,,77-71,77,71
 0021800279,2018-11-24,CLE,HOU,30.62,3,5,23,HOU,HOU,reb,0,False,False,,Rockets Rebound,77-71,77,71
 0021800279,2018-11-24,CLE,HOU,30.88,3,5,7,HOU,CLE,foul,2,False,False,Thompson S.FOUL (P1.T3) (J.Goldenberg),,77-71,77,71
+0021800279,2018-11-24,CLE,HOU,30.88,3,5,7,CLE,HOU,violation,3,False,False,,Lane,77-71,77,71
+0021800279,2018-11-24,CLE,HOU,30.88,3,5,7,CLE,HOU,violation,3,False,False,,Lane,77-71,77,71
 0021800279,2018-11-24,CLE,HOU,30.88,3,5,7,HOU,HOU,ft_miss,11,False,False,,MISS Harden Free Throw 1 of 2,77-71,77,71
 0021800279,2018-11-24,CLE,HOU,30.88,3,5,7,HOU,HOU,reb,1,False,False,,Rockets Rebound,77-71,77,71
 0021800279,2018-11-24,CLE,HOU,30.88,3,5,7,HOU,HOU,ft_miss,12,False,False,,MISS Harden Free Throw 2 of 2,77-71,77,71
 0021800279,2018-11-24,CLE,HOU,30.88,3,5,7,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,77-71,77,71
-0021800279,2018-11-24,CLE,HOU,30.88,3,5,7,CLE,HOU,violation,3,False,False,,Lane,77-71,77,71
-0021800279,2018-11-24,CLE,HOU,30.88,3,5,7,CLE,HOU,violation,3,False,False,,Lane,77-71,77,71
 0021800279,2018-11-24,CLE,HOU,31.22,3,4,47,CLE,CLE,fg_miss,5,False,False,MISS Osman 3' Layup,,77-71,77,71
 0021800279,2018-11-24,CLE,HOU,31.33,3,4,40,CLE,CLE,reb,0,False,False,Thompson REBOUND (Off:6 Def:7),,77-71,77,71
 0021800279,2018-11-24,CLE,HOU,31.33,3,4,40,CLE,CLE,fg_make,97,False,False,Thompson 1' Tip Layup Shot (16 PTS),,79-71,79,71
@@ -319,13 +319,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800279,2018-11-24,CLE,HOU,34.93,3,1,4,HOU,CLE,foul,2,False,False,Nance Jr. S.FOUL (P4.PN) (M.Kogut),,91-80,91,80
 0021800279,2018-11-24,CLE,HOU,34.93,3,1,4,HOU,HOU,ft_make,10,False,False,,Harden Free Throw 1 of 1 (29 PTS),91-81,91,81
 0021800279,2018-11-24,CLE,HOU,35.07,3,0,56,CLE,CLE,fg_miss,6,False,False,MISS Sexton 3' Driving Layup,,91-81,91,81
-0021800279,2018-11-24,CLE,HOU,35.08,3,0,55,CLE,CLE,fg_miss,97,False,False,MISS Thompson 2' Tip Layup Shot,,91-81,91,81
 0021800279,2018-11-24,CLE,HOU,35.08,3,0,55,CLE,CLE,reb,0,False,False,Thompson REBOUND (Off:7 Def:8),,91-81,91,81
-0021800279,2018-11-24,CLE,HOU,35.1,3,0,54,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,91-81,91,81
+0021800279,2018-11-24,CLE,HOU,35.08,3,0,55,CLE,CLE,fg_miss,97,False,False,MISS Thompson 2' Tip Layup Shot,,91-81,91,81
 0021800279,2018-11-24,CLE,HOU,35.1,3,0,54,CLE,HOU,foul,2,False,False,,Ennis III S.FOUL (P4.PN) (J.Goble),91-81,91,81
 0021800279,2018-11-24,CLE,HOU,35.1,3,0,54,CLE,CLE,ft_miss,11,False,False,MISS Thompson Free Throw 1 of 2,,91-81,91,81
 0021800279,2018-11-24,CLE,HOU,35.1,3,0,54,CLE,CLE,reb,1,False,False,CAVALIERS Rebound,,91-81,91,81
 0021800279,2018-11-24,CLE,HOU,35.1,3,0,54,CLE,CLE,ft_miss,12,False,False,MISS Thompson Free Throw 2 of 2,,91-81,91,81
+0021800279,2018-11-24,CLE,HOU,35.1,3,0,54,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,91-81,91,81
 0021800279,2018-11-24,CLE,HOU,35.15,3,0,51,HOU,HOU,reb,0,False,False,,Clark REBOUND (Off:0 Def:2),91-81,91,81
 0021800279,2018-11-24,CLE,HOU,35.27,3,0,44,HOU,HOU,fg_make,43,False,False,,Clark 1' Alley Oop Layup (5 PTS) (Harden 8 AST),91-83,91,83
 0021800279,2018-11-24,CLE,HOU,35.5,3,0,30,CLE,CLE,tov,4,False,False,Sexton Traveling Turnover (P3.T13),,91-83,91,83
@@ -351,8 +351,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800279,2018-11-24,CLE,HOU,37.35,4,10,39,HOU,HOU,fg_miss,66,False,False,,MISS Tucker 5' Jump Bank Shot,95-88,95,88
 0021800279,2018-11-24,CLE,HOU,37.45,4,10,33,CLE,CLE,reb,0,False,False,Korver REBOUND (Off:0 Def:4),,95-88,95,88
 0021800279,2018-11-24,CLE,HOU,37.75,4,10,15,CLE,CLE,fg_miss,6,True,False,MISS Clarkson 1' Driving Layup,,95-88,95,88
-0021800279,2018-11-24,CLE,HOU,37.75,4,10,15,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,95-88,95,88
 0021800279,2018-11-24,CLE,HOU,37.75,4,10,15,CLE,HOU,block,6,True,False,block,block,95-88,95,88
+0021800279,2018-11-24,CLE,HOU,37.75,4,10,15,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,95-88,95,88
 0021800279,2018-11-24,CLE,HOU,37.78,4,10,13,CLE,CLE,fg_miss,43,False,False,MISS Clarkson 5' Alley Oop Layup,,95-88,95,88
 0021800279,2018-11-24,CLE,HOU,37.82,4,10,11,CLE,CLE,reb,0,False,False,Clarkson REBOUND (Off:4 Def:0),,95-88,95,88
 0021800279,2018-11-24,CLE,HOU,37.85,4,10,9,CLE,CLE,fg_make,72,False,False,Clarkson 2' Putback Layup (10 PTS),,97-88,97,88

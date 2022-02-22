@@ -25,9 +25,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000969,2021-05-02,CHA,MIA,3.08,1,8,55,MIA,MIA,tov,1,False,True,,Adebayo Bad Pass Turnover (P1.T1),4-6,4,6
 0022000969,2021-05-02,CHA,MIA,3.08,1,8,55,MIA,CHA,steal,1,False,True,steal,steal,4-6,4,6
 0022000969,2021-05-02,CHA,MIA,3.2,1,8,48,CHA,CHA,fg_make,44,False,False,Washington 3' Reverse Layup (4 PTS) (Martin 1 AST),,6-6,6,6
-0022000969,2021-05-02,CHA,MIA,3.43,1,8,34,MIA,MIA,fg_make,6,False,False,,Adebayo 7' Driving Layup (6 PTS),6-8,6,8
 0022000969,2021-05-02,CHA,MIA,3.43,1,8,34,MIA,CHA,foul,2,False,False,Martin S.FOUL (P1.T1) (S.Twardoski),,6-8,6,8
 0022000969,2021-05-02,CHA,MIA,3.43,1,8,34,MIA,MIA,ft_miss,10,False,False,,MISS Adebayo Free Throw 1 of 1,6-8,6,8
+0022000969,2021-05-02,CHA,MIA,3.43,1,8,34,MIA,MIA,fg_make,6,False,False,,Adebayo 7' Driving Layup (6 PTS),6-8,6,8
 0022000969,2021-05-02,CHA,MIA,3.45,1,8,33,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:0 Def:1),,6-8,6,8
 0022000969,2021-05-02,CHA,MIA,3.58,1,8,25,CHA,CHA,fg_make,6,False,False,Rozier 3' Driving Layup (2 PTS) (Ball 2 AST),,8-8,8,8
 0022000969,2021-05-02,CHA,MIA,3.8,1,8,12,MIA,MIA,fg_make,98,False,False,,Ariza 1' Cutting Layup Shot (4 PTS) (Adebayo 2 AST),8-10,8,10
@@ -68,8 +68,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000969,2021-05-02,CHA,MIA,8.13,1,3,52,CHA,MIA,foul,1,False,False,,Ariza P.FOUL (P1.T3) (P.Ransom),19-24,19,24
 0022000969,2021-05-02,CHA,MIA,8.28,1,3,43,CHA,CHA,fg_make,63,False,False,Graham 11' Fadeaway Jumper (2 PTS) (Biyombo 2 AST),,21-24,21,24
 0022000969,2021-05-02,CHA,MIA,8.67,1,3,20,MIA,MIA,fg_miss,66,False,False,,MISS Dedmon 8' Jump Bank Shot,21-24,21,24
-0022000969,2021-05-02,CHA,MIA,8.73,1,3,16,MIA,MIA,fg_make,97,False,False,,Butler Tip Layup Shot (4 PTS),21-26,21,26
 0022000969,2021-05-02,CHA,MIA,8.73,1,3,16,MIA,MIA,reb,0,False,False,,Butler REBOUND (Off:1 Def:2),21-26,21,26
+0022000969,2021-05-02,CHA,MIA,8.73,1,3,16,MIA,MIA,fg_make,97,False,False,,Butler Tip Layup Shot (4 PTS),21-26,21,26
 0022000969,2021-05-02,CHA,MIA,8.98,1,3,1,CHA,CHA,fg_make,3,False,False,Biyombo 4' Hook Shot (5 PTS),,23-26,23,26
 0022000969,2021-05-02,CHA,MIA,9.22,1,2,47,MIA,MIA,fg_miss,5,False,False,,MISS Dragic 4' Layup,23-26,23,26
 0022000969,2021-05-02,CHA,MIA,9.25,1,2,45,CHA,CHA,reb,0,False,False,Biyombo REBOUND (Off:1 Def:1),,23-26,23,26
@@ -77,8 +77,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000969,2021-05-02,CHA,MIA,9.45,1,2,33,MIA,MIA,reb,0,False,False,,Strus REBOUND (Off:0 Def:1),23-26,23,26
 0022000969,2021-05-02,CHA,MIA,9.6,1,2,24,MIA,MIA,fg_make,1,False,False,,Dedmon 12' Jump Shot (2 PTS) (Butler 5 AST),23-28,23,28
 0022000969,2021-05-02,CHA,MIA,10.02,1,1,59,CHA,CHA,fg3_miss,1,True,False,MISS Graham 28' 3PT Jump Shot,,23-28,23,28
-0022000969,2021-05-02,CHA,MIA,10.02,1,1,59,CHA,CHA,reb,0,False,False,HORNETS Rebound,,23-28,23,28
 0022000969,2021-05-02,CHA,MIA,10.02,1,1,59,CHA,MIA,block,1,True,False,block,block,23-28,23,28
+0022000969,2021-05-02,CHA,MIA,10.02,1,1,59,CHA,CHA,reb,0,False,False,HORNETS Rebound,,23-28,23,28
 0022000969,2021-05-02,CHA,MIA,10.03,1,1,58,CHA,CHA,tov,11,False,False,HORNETS Turnover: Shot Clock (T#3),,23-28,23,28
 0022000969,2021-05-02,CHA,MIA,10.03,1,1,58,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.1 Short 0),23-28,23,28
 0022000969,2021-05-02,CHA,MIA,10.22,1,1,47,MIA,MIA,fg_make,1,False,False,,Dragic 13' Jump Shot (2 PTS) (Strus 1 AST),23-30,23,30
@@ -100,10 +100,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000969,2021-05-02,CHA,MIA,11.97,1,0,2,MIA,CHA,foul,2,False,False,Monk S.FOUL (P1.T3) (S.Twardoski),,32-34,32,34
 0022000969,2021-05-02,CHA,MIA,11.97,1,0,2,MIA,MIA,ft_make,10,False,False,,Dragic Free Throw 1 of 1 (5 PTS),32-35,32,35
 0022000969,2021-05-02,CHA,MIA,12.0,1,0,0,CHA,CHA,fg3_miss,1,True,False,MISS Monk 34' 3PT Jump Shot,,32-35,32,35
+0022000969,2021-05-02,CHA,MIA,12.0,1,0,0,CHA,MIA,block,1,True,False,block,block,32-35,32,35
 0022000969,2021-05-02,CHA,MIA,12.0,1,0,0,CHA,CHA,reb,0,False,False,HORNETS Rebound,,32-35,32,35
 0022000969,2021-05-02,CHA,MIA,12.0,1,0,0,CHA,,period_end,0,False,False,,,32-35,32,35
 0022000969,2021-05-02,CHA,MIA,12.0,2,12,0,CHA,,period_start,0,False,False,,,32-35,32,35
-0022000969,2021-05-02,CHA,MIA,12.0,1,0,0,CHA,MIA,block,1,True,False,block,block,32-35,32,35
 0022000969,2021-05-02,CHA,MIA,12.17,2,11,50,CHA,CHA,tov,45,False,False,Ball Out of Bounds - Bad Pass Turnover Turnover (P2.T4),,32-35,32,35
 0022000969,2021-05-02,CHA,MIA,12.42,2,11,35,MIA,MIA,fg_miss,1,False,False,,MISS Iguodala 14' Jump Shot,32-35,32,35
 0022000969,2021-05-02,CHA,MIA,12.42,2,11,35,MIA,MIA,reb,0,False,False,,Heat Rebound,32-35,32,35
@@ -139,8 +139,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000969,2021-05-02,CHA,MIA,15.32,2,8,41,MIA,MIA,fg_make,50,False,False,,Nunn Running Dunk (8 PTS),38-42,38,42
 0022000969,2021-05-02,CHA,MIA,15.52,2,8,29,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 2 Short 0),,38-42,38,42
 0022000969,2021-05-02,CHA,MIA,15.67,2,8,20,CHA,CHA,fg_miss,5,False,False,MISS Washington 6' Layup,,38-42,38,42
-0022000969,2021-05-02,CHA,MIA,15.77,2,8,14,CHA,CHA,fg_miss,107,False,False,MISS Bridges Tip Dunk Shot,,38-42,38,42
 0022000969,2021-05-02,CHA,MIA,15.77,2,8,14,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:1 Def:1),,38-42,38,42
+0022000969,2021-05-02,CHA,MIA,15.77,2,8,14,CHA,CHA,fg_miss,107,False,False,MISS Bridges Tip Dunk Shot,,38-42,38,42
 0022000969,2021-05-02,CHA,MIA,15.78,2,8,13,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:1 Def:3),38-42,38,42
 0022000969,2021-05-02,CHA,MIA,15.85,2,8,9,MIA,MIA,fg_make,52,False,False,,Adebayo 1' Alley Oop Dunk (10 PTS) (Dragic 1 AST),38-44,38,44
 0022000969,2021-05-02,CHA,MIA,16.07,2,7,56,CHA,CHA,fg_make,5,False,False,Ball 1' Layup (11 PTS),,40-44,40,44
@@ -164,9 +164,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000969,2021-05-02,CHA,MIA,18.67,2,5,20,MIA,MIA,ft_make,11,False,False,,Butler Free Throw 1 of 2 (5 PTS),45-50,45,50
 0022000969,2021-05-02,CHA,MIA,18.67,2,5,20,MIA,MIA,ft_make,12,False,False,,Butler Free Throw 2 of 2 (6 PTS),45-51,45,51
 0022000969,2021-05-02,CHA,MIA,18.87,2,5,8,CHA,CHA,fg_miss,1,True,False,MISS Rozier 10' Jump Shot,,45-51,45,51
+0022000969,2021-05-02,CHA,MIA,18.87,2,5,8,CHA,MIA,block,1,True,False,block,block,45-51,45,51
 0022000969,2021-05-02,CHA,MIA,18.87,2,5,8,CHA,CHA,reb,0,False,False,Rozier REBOUND (Off:1 Def:1),,45-51,45,51
 0022000969,2021-05-02,CHA,MIA,18.87,2,5,8,CHA,MIA,foul,2,False,False,,Butler S.FOUL (P1.T4) (S.Twardoski),45-51,45,51
-0022000969,2021-05-02,CHA,MIA,18.87,2,5,8,CHA,MIA,block,1,True,False,block,block,45-51,45,51
 0022000969,2021-05-02,CHA,MIA,18.87,2,5,8,CHA,CHA,ft_make,11,False,False,Rozier Free Throw 1 of 2 (6 PTS),,46-51,46,51
 0022000969,2021-05-02,CHA,MIA,18.87,2,5,8,CHA,CHA,ft_make,12,False,False,Rozier Free Throw 2 of 2 (7 PTS),,47-51,47,51
 0022000969,2021-05-02,CHA,MIA,19.15,2,4,51,MIA,MIA,fg3_miss,79,False,False,,MISS Nunn 29' 3PT Pullup Jump Shot,47-51,47,51
@@ -251,8 +251,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000969,2021-05-02,CHA,MIA,27.85,3,8,9,CHA,CHA,fg3_miss,79,False,False,MISS Graham 29' 3PT Pullup Jump Shot,,68-76,68,76
 0022000969,2021-05-02,CHA,MIA,27.9,3,8,6,MIA,MIA,reb,0,False,False,,Nunn REBOUND (Off:0 Def:1),68-76,68,76
 0022000969,2021-05-02,CHA,MIA,28.0,3,8,0,MIA,MIA,tov,1,False,True,,Nunn Bad Pass Turnover (P1.T6),68-76,68,76
-0022000969,2021-05-02,CHA,MIA,28.0,3,8,0,CHA,MIA,foul,1,False,False,,Nunn P.FOUL (P2.T3) (E.Malloy),68-76,68,76
 0022000969,2021-05-02,CHA,MIA,28.0,3,8,0,MIA,CHA,steal,1,False,True,steal,steal,68-76,68,76
+0022000969,2021-05-02,CHA,MIA,28.0,3,8,0,CHA,MIA,foul,1,False,False,,Nunn P.FOUL (P2.T3) (E.Malloy),68-76,68,76
 0022000969,2021-05-02,CHA,MIA,28.3,3,7,42,CHA,CHA,fg_miss,1,False,False,MISS Ball 10' Jump Shot,,68-76,68,76
 0022000969,2021-05-02,CHA,MIA,28.32,3,7,41,MIA,MIA,reb,0,False,False,,Butler REBOUND (Off:2 Def:5),68-76,68,76
 0022000969,2021-05-02,CHA,MIA,28.38,3,7,37,MIA,MIA,fg3_make,2,False,False,,Robinson 26' 3PT Running Jump Shot (6 PTS) (Adebayo 6 AST),68-79,68,79
@@ -413,8 +413,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000969,2021-05-02,CHA,MIA,45.78,4,2,13,CHA,CHA,reb,0,False,False,McDaniels REBOUND (Off:3 Def:6),,101-118,101,118
 0022000969,2021-05-02,CHA,MIA,45.97,4,2,2,CHA,CHA,fg_make,7,False,False,Carey Jr. 1' Dunk (2 PTS) (Martin 1 AST),,103-118,103,118
 0022000969,2021-05-02,CHA,MIA,46.32,4,1,41,MIA,MIA,tov,1,False,True,,Adebayo Bad Pass Turnover (P3.T11),103-118,103,118
-0022000969,2021-05-02,CHA,MIA,46.32,4,1,41,CHA,MIA,foul,28,False,False,,Dragic Personal Take Foul (P3.T3) (P.Ransom),103-118,103,118
 0022000969,2021-05-02,CHA,MIA,46.32,4,1,41,MIA,CHA,steal,1,False,True,steal,steal,103-118,103,118
+0022000969,2021-05-02,CHA,MIA,46.32,4,1,41,CHA,MIA,foul,28,False,False,,Dragic Personal Take Foul (P3.T3) (P.Ransom),103-118,103,118
 0022000969,2021-05-02,CHA,MIA,46.58,4,1,25,CHA,CHA,fg_make,1,False,False,Carey Jr. 6' Jump Shot (4 PTS) (Monk 4 AST),,105-118,105,118
 0022000969,2021-05-02,CHA,MIA,46.85,4,1,9,MIA,CHA,foul,1,False,False,Martin P.FOUL (P1.T2) (P.Ransom),,105-118,105,118
 0022000969,2021-05-02,CHA,MIA,47.03,4,0,58,MIA,MIA,fg_miss,5,False,False,,MISS Achiuwa 6' Layup,105-118,105,118

@@ -29,8 +29,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700856,2018-02-14,BKN,IND,3.07,1,8,56,BKN,BKN,fg3_miss,1,False,False,MISS Dinwiddie 25' 3PT Jump Shot,,3-2,3,2
 0021700856,2018-02-14,BKN,IND,3.1,1,8,54,IND,IND,reb,0,False,False,,Joseph REBOUND (Off:1 Def:1),3-2,3,2
 0021700856,2018-02-14,BKN,IND,3.15,1,8,51,IND,IND,fg_miss,5,True,False,,MISS Joseph 3' Layup,3-2,3,2
-0021700856,2018-02-14,BKN,IND,3.15,1,8,51,BKN,BKN,reb,0,False,False,NETS Rebound,,3-2,3,2
 0021700856,2018-02-14,BKN,IND,3.15,1,8,51,IND,BKN,block,5,True,False,block,block,3-2,3,2
+0021700856,2018-02-14,BKN,IND,3.15,1,8,51,BKN,BKN,reb,0,False,False,NETS Rebound,,3-2,3,2
 0021700856,2018-02-14,BKN,IND,3.22,1,8,47,,BKN,jump_ball,0,False,False,Jump Ball Dinwiddie vs. Joseph: Tip to Allen,,3-2,3,2
 0021700856,2018-02-14,BKN,IND,3.48,1,8,31,BKN,BKN,fg_make,6,False,False,Crabbe 4' Driving Layup (5 PTS),,5-2,5,2
 0021700856,2018-02-14,BKN,IND,3.75,1,8,15,IND,IND,fg_miss,1,False,False,,MISS Oladipo 14' Jump Shot,5-2,5,2
@@ -117,8 +117,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700856,2018-02-14,BKN,IND,13.98,2,10,1,BKN,BKN,fg_make,102,False,False,Harris 2' Driving Floating Bank Jump Shot (2 PTS),,29-28,29,28
 0021700856,2018-02-14,BKN,IND,14.18,2,9,49,IND,IND,fg_make,105,False,False,,Bogdanovic 9' Turnaround Fadeaway Bank Jump Shot (4 PTS),29-30,29,30
 0021700856,2018-02-14,BKN,IND,14.35,2,9,39,BKN,BKN,fg_miss,101,True,False,MISS Allen 6' Driving Floating Jump Shot,,29-30,29,30
-0021700856,2018-02-14,BKN,IND,14.35,2,9,39,BKN,BKN,reb,0,False,False,NETS Rebound,,29-30,29,30
 0021700856,2018-02-14,BKN,IND,14.35,2,9,39,BKN,IND,block,101,True,False,block,block,29-30,29,30
+0021700856,2018-02-14,BKN,IND,14.35,2,9,39,BKN,BKN,reb,0,False,False,NETS Rebound,,29-30,29,30
 0021700856,2018-02-14,BKN,IND,14.38,2,9,37,BKN,BKN,fg_make,44,False,False,Harris 3' Reverse Layup (4 PTS) (Russell 3 AST),,31-30,31,30
 0021700856,2018-02-14,BKN,IND,14.57,2,9,26,IND,IND,tov,1,False,True,,Bogdanovic Bad Pass Turnover (P1.T3),31-30,31,30
 0021700856,2018-02-14,BKN,IND,14.57,2,9,26,IND,BKN,steal,1,False,True,steal,steal,31-30,31,30
@@ -190,14 +190,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700856,2018-02-14,BKN,IND,22.9,2,1,6,IND,IND,reb,0,False,False,,Oladipo REBOUND (Off:0 Def:1),48-47,48,47
 0021700856,2018-02-14,BKN,IND,22.97,2,1,2,IND,IND,fg_miss,6,False,False,,MISS Oladipo 3' Driving Layup,48-47,48,47
 0021700856,2018-02-14,BKN,IND,23.02,2,0,59,IND,IND,reb,0,False,False,,Turner REBOUND (Off:4 Def:4),48-47,48,47
-0021700856,2018-02-14,BKN,IND,23.02,2,0,59,IND,IND,fg_miss,97,False,False,,MISS Turner 3' Tip Layup Shot,48-47,48,47
-0021700856,2018-02-14,BKN,IND,23.02,2,0,59,IND,IND,reb,0,False,False,,Turner REBOUND (Off:3 Def:4),48-47,48,47
 0021700856,2018-02-14,BKN,IND,23.02,2,0,59,IND,IND,fg_miss,97,False,False,,MISS Turner 1' Tip Layup Shot,48-47,48,47
 0021700856,2018-02-14,BKN,IND,23.02,2,0,59,IND,IND,reb,0,False,False,,Joseph REBOUND (Off:2 Def:3),48-47,48,47
 0021700856,2018-02-14,BKN,IND,23.02,2,0,59,IND,IND,fg_make,72,False,False,,Joseph 1' Putback Layup (7 PTS),48-49,48,49
 0021700856,2018-02-14,BKN,IND,23.02,2,0,59,IND,BKN,violation,2,False,False,Crabbe Violation:Defensive Goaltending (J.DeRosa),,48-49,48,49
 0021700856,2018-02-14,BKN,IND,23.02,2,0,59,IND,BKN,foul,2,False,False,Crabbe S.FOUL (P1.T3) (J.DeRosa),,48-49,48,49
 0021700856,2018-02-14,BKN,IND,23.02,2,0,59,IND,IND,ft_miss,10,False,False,,MISS Joseph Free Throw 1 of 1,48-49,48,49
+0021700856,2018-02-14,BKN,IND,23.02,2,0,59,IND,IND,fg_miss,97,False,False,,MISS Turner 3' Tip Layup Shot,48-47,48,47
+0021700856,2018-02-14,BKN,IND,23.02,2,0,59,IND,IND,reb,0,False,False,,Turner REBOUND (Off:3 Def:4),48-47,48,47
 0021700856,2018-02-14,BKN,IND,23.07,2,0,56,BKN,BKN,reb,0,False,False,Carroll REBOUND (Off:0 Def:3),,48-49,48,49
 0021700856,2018-02-14,BKN,IND,23.23,2,0,46,BKN,BKN,fg3_make,1,False,False,Carroll 26' 3PT Jump Shot (5 PTS) (Acy 2 AST),,51-49,51,49
 0021700856,2018-02-14,BKN,IND,23.43,2,0,34,IND,IND,fg_make,1,False,False,,Joseph 20' Jump Shot (9 PTS),51-51,51,51
@@ -249,8 +249,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700856,2018-02-14,BKN,IND,28.85,3,7,9,IND,IND,tov,45,False,False,,Bogdanovic Out of Bounds - Bad Pass Turnover Turnover (P2.T6),61-62,61,62
 0021700856,2018-02-14,BKN,IND,28.85,3,7,9,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 3 Short 0),,61-62,61,62
 0021700856,2018-02-14,BKN,IND,29.17,3,6,50,BKN,BKN,fg_miss,6,True,False,MISS Cunningham 2' Driving Layup,,61-62,61,62
-0021700856,2018-02-14,BKN,IND,29.17,3,6,50,IND,IND,reb,0,False,False,,Oladipo REBOUND (Off:1 Def:2),61-62,61,62
 0021700856,2018-02-14,BKN,IND,29.17,3,6,50,BKN,IND,block,6,True,False,block,block,61-62,61,62
+0021700856,2018-02-14,BKN,IND,29.17,3,6,50,IND,IND,reb,0,False,False,,Oladipo REBOUND (Off:1 Def:2),61-62,61,62
 0021700856,2018-02-14,BKN,IND,29.27,3,6,44,IND,IND,fg3_make,1,False,False,,Oladipo 25' 3PT Jump Shot (17 PTS),61-65,61,65
 0021700856,2018-02-14,BKN,IND,29.53,3,6,28,BKN,BKN,tov,1,False,True,Crabbe Bad Pass Turnover (P2.T6),,61-65,61,65
 0021700856,2018-02-14,BKN,IND,29.53,3,6,28,BKN,IND,steal,1,False,True,steal,steal,61-65,61,65

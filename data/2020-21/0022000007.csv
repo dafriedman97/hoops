@@ -68,9 +68,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000007,2020-12-25,BOS,BKN,7.22,1,4,47,BKN,BKN,fg_miss,3,False,False,,MISS Allen 6' Hook Shot,12-15,12,15
 0022000007,2020-12-25,BOS,BKN,7.25,1,4,45,BOS,BOS,reb,0,False,False,Theis REBOUND (Off:0 Def:2),,12-15,12,15
 0022000007,2020-12-25,BOS,BKN,7.47,1,4,32,BOS,BOS,fg_miss,75,True,False,MISS Smart 3' Driving Finger Roll Layup,,12-15,12,15
+0022000007,2020-12-25,BOS,BKN,7.47,1,4,32,BOS,BKN,block,75,True,False,block,block,12-15,12,15
 0022000007,2020-12-25,BOS,BKN,7.47,1,4,32,BOS,BOS,reb,0,False,False,CELTICS Rebound,,12-15,12,15
 0022000007,2020-12-25,BOS,BKN,7.47,1,4,32,BOS,BOS,timeout,1,False,False,CELTICS Timeout: Regular (Full 1 Short 0),,12-15,12,15
-0022000007,2020-12-25,BOS,BKN,7.47,1,4,32,BOS,BKN,block,75,True,False,block,block,12-15,12,15
 0022000007,2020-12-25,BOS,BKN,7.52,1,4,29,BOS,BOS,fg_make,108,False,False,Theis 2' Cutting Dunk Shot (2 PTS) (Williams 1 AST),,14-15,14,15
 0022000007,2020-12-25,BOS,BKN,7.78,1,4,13,BKN,BKN,fg3_make,1,False,False,,Durant 25' 3PT Jump Shot (6 PTS) (Irving 4 AST),14-18,14,18
 0022000007,2020-12-25,BOS,BKN,7.78,1,4,13,BKN,BKN,fg3_make,1,False,False,,Durant 25' 3PT Jump Shot (6 PTS) (Irving 4 AST),14-18,14,18
@@ -107,8 +107,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000007,2020-12-25,BOS,BKN,10.8,1,1,12,BKN,BOS,foul,4,False,False,Thompson OFF.Foul (P3) (J.Tiven),,19-22,19,22
 0022000007,2020-12-25,BOS,BKN,10.8,1,1,12,BOS,BOS,tov,37,False,False,Thompson Offensive Foul Turnover (P1.T5),,19-22,19,22
 0022000007,2020-12-25,BOS,BKN,10.97,1,1,2,BKN,BKN,fg_miss,6,True,False,,MISS Green 6' Driving Layup,19-22,19,22
-0022000007,2020-12-25,BOS,BKN,10.97,1,1,2,BOS,BOS,reb,0,False,False,CELTICS Rebound,,19-22,19,22
 0022000007,2020-12-25,BOS,BKN,10.97,1,1,2,BKN,BOS,block,6,True,False,block,block,19-22,19,22
+0022000007,2020-12-25,BOS,BKN,10.97,1,1,2,BOS,BOS,reb,0,False,False,CELTICS Rebound,,19-22,19,22
 0022000007,2020-12-25,BOS,BKN,11.22,1,0,47,BOS,BKN,foul,1,False,False,,Prince P.FOUL (P2.PN) (J.Tiven),19-22,19,22
 0022000007,2020-12-25,BOS,BKN,11.22,1,0,47,BOS,BOS,ft_miss,11,False,False,MISS Ojeleye Free Throw 1 of 2,,19-22,19,22
 0022000007,2020-12-25,BOS,BKN,11.22,1,0,47,BOS,BOS,reb,1,False,False,CELTICS Rebound,,19-22,19,22
@@ -216,10 +216,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000007,2020-12-25,BOS,BKN,21.0,2,3,0,BKN,BKN,tov,1,False,True,,Durant Bad Pass Turnover (P1.T11),43-45,43,45
 0022000007,2020-12-25,BOS,BKN,21.0,2,3,0,BKN,BOS,steal,1,False,True,steal,steal,43-45,43,45
 0022000007,2020-12-25,BOS,BKN,21.07,2,2,56,BOS,BKN,foul,2,False,False,,Green S.FOUL (P1.T4) (J.Tiven),43-45,43,45
-0022000007,2020-12-25,BOS,BKN,21.07,2,2,56,BKN,BKN,timeout,1,False,False,,Nets Timeout: Regular (Reg.2 Short 0),43-45,43,45
 0022000007,2020-12-25,BOS,BKN,21.07,2,2,56,BOS,BOS,ft_miss,11,False,False,MISS Brown Free Throw 1 of 2,,43-45,43,45
 0022000007,2020-12-25,BOS,BKN,21.07,2,2,56,BOS,BOS,reb,1,False,False,CELTICS Rebound,,43-45,43,45
 0022000007,2020-12-25,BOS,BKN,21.07,2,2,56,BOS,BOS,ft_make,12,False,False,Brown Free Throw 2 of 2 (9 PTS),,44-45,44,45
+0022000007,2020-12-25,BOS,BKN,21.07,2,2,56,BKN,BKN,timeout,1,False,False,,Nets Timeout: Regular (Reg.2 Short 0),43-45,43,45
 0022000007,2020-12-25,BOS,BKN,21.22,2,2,47,BKN,BKN,fg3_miss,1,False,False,,MISS Durant 27' 3PT Jump Shot,44-45,44,45
 0022000007,2020-12-25,BOS,BKN,21.28,2,2,43,BOS,BOS,reb,0,False,False,Brown REBOUND (Off:3 Def:1),,44-45,44,45
 0022000007,2020-12-25,BOS,BKN,21.67,2,2,20,BOS,BOS,fg3_make,47,False,False,Tatum 27' 3PT Turnaround Jump Shot (9 PTS),,47-45,47,45
@@ -248,10 +248,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000007,2020-12-25,BOS,BKN,23.95,2,0,3,BOS,BOS,fg3_miss,1,False,False,MISS Pritchard 26' 3PT Jump Shot,,54-51,54,51
 0022000007,2020-12-25,BOS,BKN,23.95,2,0,3,BOS,BOS,reb,0,False,False,Tatum REBOUND (Off:1 Def:7),,54-51,54,51
 0022000007,2020-12-25,BOS,BKN,24.0,2,0,0,BOS,BOS,fg_miss,72,True,False,MISS Tatum 5' Putback Layup,,54-51,54,51
+0022000007,2020-12-25,BOS,BKN,24.0,2,0,0,BOS,BKN,block,72,True,False,block,block,54-51,54,51
 0022000007,2020-12-25,BOS,BKN,24.0,2,0,0,BKN,BKN,reb,0,False,False,,Green REBOUND (Off:1 Def:2),54-51,54,51
 0022000007,2020-12-25,BOS,BKN,24.0,2,0,0,BKN,,period_end,0,False,False,,,54-51,54,51
 0022000007,2020-12-25,BOS,BKN,24.0,3,12,0,BKN,,period_start,0,False,False,,,54-51,54,51
-0022000007,2020-12-25,BOS,BKN,24.0,2,0,0,BOS,BKN,block,72,True,False,block,block,54-51,54,51
 0022000007,2020-12-25,BOS,BKN,24.2,3,11,48,BOS,BOS,fg_miss,1,False,False,MISS Brown 15' Jump Shot,,54-51,54,51
 0022000007,2020-12-25,BOS,BKN,24.25,3,11,45,BKN,BKN,reb,0,False,False,,Irving REBOUND (Off:1 Def:1),54-51,54,51
 0022000007,2020-12-25,BOS,BKN,24.35,3,11,39,BKN,BKN,fg3_make,103,False,False,,Harris 27' 3PT Running Pull-Up Jump Shot (8 PTS) (Irving 6 AST),54-54,54,54
@@ -425,12 +425,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000007,2020-12-25,BOS,BKN,43.98,4,4,1,BOS,BOS,fg_make,76,False,False,Brown 3' Running Finger Roll Layup (27 PTS) (Smart 6 AST),,90-108,90,108
 0022000007,2020-12-25,BOS,BKN,44.27,4,3,44,BKN,BKN,fg3_make,1,False,False,,Irving 34' 3PT Jump Shot (34 PTS),90-111,90,111
 0022000007,2020-12-25,BOS,BKN,44.52,4,3,29,BOS,BOS,fg_miss,6,True,False,MISS Tatum 4' Driving Layup,,90-111,90,111
+0022000007,2020-12-25,BOS,BKN,44.52,4,3,29,BOS,BKN,block,6,True,False,block,block,90-111,90,111
 0022000007,2020-12-25,BOS,BKN,44.52,4,3,29,BOS,BOS,reb,0,False,False,CELTICS Rebound,,90-111,90,111
 0022000007,2020-12-25,BOS,BKN,44.52,4,3,29,BKN,BKN,timeout,1,False,False,,Nets Timeout: Regular (Reg.3 Short 0),90-111,90,111
-0022000007,2020-12-25,BOS,BKN,44.52,4,3,29,BOS,BKN,block,6,True,False,block,block,90-111,90,111
 0022000007,2020-12-25,BOS,BKN,44.57,4,3,26,BOS,BOS,fg_miss,6,True,False,MISS Brown 6' Driving Layup,,90-111,90,111
-0022000007,2020-12-25,BOS,BKN,44.57,4,3,26,BOS,BOS,reb,0,False,False,CELTICS Rebound,,90-111,90,111
 0022000007,2020-12-25,BOS,BKN,44.57,4,3,26,BOS,BKN,block,6,True,False,block,block,90-111,90,111
+0022000007,2020-12-25,BOS,BKN,44.57,4,3,26,BOS,BOS,reb,0,False,False,CELTICS Rebound,,90-111,90,111
 0022000007,2020-12-25,BOS,BKN,44.7,4,3,18,BOS,BOS,fg3_miss,1,False,False,MISS Brown 25' 3PT Jump Shot,,90-111,90,111
 0022000007,2020-12-25,BOS,BKN,44.75,4,3,15,BKN,BKN,reb,0,False,False,,Irving REBOUND (Off:1 Def:5),90-111,90,111
 0022000007,2020-12-25,BOS,BKN,44.83,4,3,10,BKN,BKN,fg_make,50,False,False,,Dinwiddie 4' Running Dunk (6 PTS) (Irving 8 AST),90-113,90,113

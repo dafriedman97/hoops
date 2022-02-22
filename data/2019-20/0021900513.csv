@@ -46,8 +46,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900513,2020-01-02,DAL,BKN,4.85,1,7,9,DAL,DAL,reb,0,False,False,Barea REBOUND (Off:0 Def:1),,7-16,7,16
 0021900513,2020-01-02,DAL,BKN,5.08,1,6,55,DAL,DAL,fg3_make,80,False,False,Doncic 30' 3PT Step Back Jump Shot (6 PTS),,10-16,10,16
 0021900513,2020-01-02,DAL,BKN,5.35,1,6,39,BKN,BKN,fg_miss,101,True,False,,MISS Harris 7' Driving Floating Jump Shot,10-16,10,16
-0021900513,2020-01-02,DAL,BKN,5.35,1,6,39,BKN,BKN,reb,0,False,False,,Harris REBOUND (Off:1 Def:1),10-16,10,16
 0021900513,2020-01-02,DAL,BKN,5.35,1,6,39,BKN,DAL,block,101,True,False,block,block,10-16,10,16
+0021900513,2020-01-02,DAL,BKN,5.35,1,6,39,BKN,BKN,reb,0,False,False,,Harris REBOUND (Off:1 Def:1),10-16,10,16
 0021900513,2020-01-02,DAL,BKN,5.5,1,6,30,BKN,DAL,foul,2,False,False,Kleber S.FOUL (P1.T2) (S.Mehta),,10-16,10,16
 0021900513,2020-01-02,DAL,BKN,5.5,1,6,30,BKN,BKN,ft_make,11,False,False,,Jordan Free Throw 1 of 2 (3 PTS),10-17,10,17
 0021900513,2020-01-02,DAL,BKN,5.5,1,6,30,BKN,BKN,ft_make,12,False,False,,Jordan Free Throw 2 of 2 (4 PTS),10-18,10,18
@@ -197,8 +197,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900513,2020-01-02,DAL,BKN,21.62,2,2,23,BKN,BKN,tov,11,False,False,,Nets Turnover: Shot Clock (T#8),53-58,53,58
 0021900513,2020-01-02,DAL,BKN,21.87,2,2,8,DAL,DAL,tov,45,False,False,Doncic Out of Bounds - Bad Pass Turnover Turnover (P2.T6),,53-58,53,58
 0021900513,2020-01-02,DAL,BKN,22.05,2,1,57,BKN,BKN,fg_miss,6,False,False,,MISS Prince 2' Driving Layup,53-58,53,58
-0021900513,2020-01-02,DAL,BKN,22.12,2,1,53,BKN,BKN,fg_make,107,False,False,,Allen 1' Tip Dunk Shot (4 PTS),53-60,53,60
 0021900513,2020-01-02,DAL,BKN,22.12,2,1,53,BKN,BKN,reb,0,False,False,,Allen REBOUND (Off:1 Def:2),53-60,53,60
+0021900513,2020-01-02,DAL,BKN,22.12,2,1,53,BKN,BKN,fg_make,107,False,False,,Allen 1' Tip Dunk Shot (4 PTS),53-60,53,60
 0021900513,2020-01-02,DAL,BKN,22.5,2,1,30,DAL,DAL,fg3_miss,1,False,False,MISS Finney-Smith 3PT Jump Shot,,53-60,53,60
 0021900513,2020-01-02,DAL,BKN,22.53,2,1,28,BKN,BKN,reb,0,False,False,,Prince REBOUND (Off:1 Def:4),53-60,53,60
 0021900513,2020-01-02,DAL,BKN,22.65,2,1,21,BKN,BKN,fg_make,5,False,False,,Allen 2' Layup (6 PTS) (Harris 4 AST),53-62,53,62
@@ -246,8 +246,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900513,2020-01-02,DAL,BKN,26.92,3,9,5,BKN,BKN,fg3_miss,1,False,False,,MISS Pinson 26' 3PT Jump Shot,70-69,70,69
 0021900513,2020-01-02,DAL,BKN,26.95,3,9,3,BKN,BKN,reb,0,False,False,,Kurucs REBOUND (Off:1 Def:1),70-69,70,69
 0021900513,2020-01-02,DAL,BKN,27.02,3,8,59,BKN,BKN,fg_miss,6,True,False,,MISS Pinson 2' Driving Layup,70-69,70,69
-0021900513,2020-01-02,DAL,BKN,27.02,3,8,59,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:3 Def:1),,70-69,70,69
 0021900513,2020-01-02,DAL,BKN,27.02,3,8,59,BKN,DAL,block,6,True,False,block,block,70-69,70,69
+0021900513,2020-01-02,DAL,BKN,27.02,3,8,59,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:3 Def:1),,70-69,70,69
 0021900513,2020-01-02,DAL,BKN,27.13,3,8,52,DAL,DAL,fg3_make,1,False,False,Finney-Smith 26' 3PT Jump Shot (5 PTS) (Barea 4 AST),,73-69,73,69
 0021900513,2020-01-02,DAL,BKN,27.15,3,8,51,BKN,BKN,timeout,1,False,False,,Nets Timeout: Regular (Reg.4 Short 0),73-69,73,69
 0021900513,2020-01-02,DAL,BKN,27.33,3,8,40,BKN,BKN,fg_make,9,False,False,,Kurucs 1' Driving Dunk (8 PTS) (Prince 2 AST),73-71,73,71
@@ -375,8 +375,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900513,2020-01-02,DAL,BKN,41.9,4,6,6,BKN,BKN,reb,0,False,False,,Harris REBOUND (Off:3 Def:1),108-104,108,104
 0021900513,2020-01-02,DAL,BKN,41.9,4,6,6,BKN,BKN,timeout,1,False,False,,Nets Timeout: Regular (Reg.5 Short 0),108-104,108,104
 0021900513,2020-01-02,DAL,BKN,41.98,4,6,1,BKN,BKN,fg_miss,5,False,False,,MISS Harris 1' Layup,108-104,108,104
-0021900513,2020-01-02,DAL,BKN,42.05,4,5,57,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,108-104,108,104
 0021900513,2020-01-02,DAL,BKN,42.05,4,5,57,,DAL,jump_ball,0,False,False,Jump Ball Powell vs. Allen: Tip to Curry,,108-104,108,104
+0021900513,2020-01-02,DAL,BKN,42.05,4,5,57,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,108-104,108,104
 0021900513,2020-01-02,DAL,BKN,42.2,4,5,48,DAL,BKN,foul,1,False,False,,Chandler P.FOUL (P1.T3) (S.Wright),108-104,108,104
 0021900513,2020-01-02,DAL,BKN,42.33,4,5,40,DAL,DAL,fg3_make,80,False,False,Doncic 25' 3PT Step Back Jump Shot (24 PTS),,111-104,111,104
 0021900513,2020-01-02,DAL,BKN,42.52,4,5,29,BKN,BKN,tov,2,False,True,,Dinwiddie Lost Ball Turnover (P4.T12),111-104,111,104

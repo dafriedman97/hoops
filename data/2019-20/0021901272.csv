@@ -88,8 +88,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901272,2020-08-06,DEN,POR,10.52,1,1,29,POR,POR,reb,0,False,False,,Anthony REBOUND (Off:0 Def:2),22-26,22,26
 0021901272,2020-08-06,DEN,POR,10.62,1,1,23,POR,DEN,foul,1,False,False,Dozier P.FOUL (P1.T1) (J.Tiven),,22-26,22,26
 0021901272,2020-08-06,DEN,POR,10.83,1,1,10,POR,POR,fg_miss,5,True,False,,MISS Whiteside 3' Layup,22-26,22,26
-0021901272,2020-08-06,DEN,POR,10.83,1,1,10,POR,POR,reb,0,False,False,,Trail Blazers Rebound,22-26,22,26
 0021901272,2020-08-06,DEN,POR,10.83,1,1,10,POR,DEN,block,5,True,False,block,block,22-26,22,26
+0021901272,2020-08-06,DEN,POR,10.83,1,1,10,POR,POR,reb,0,False,False,,Trail Blazers Rebound,22-26,22,26
 0021901272,2020-08-06,DEN,POR,10.87,1,1,8,POR,POR,tov,1,False,True,,Lillard Bad Pass Turnover (P1.T3),22-26,22,26
 0021901272,2020-08-06,DEN,POR,10.87,1,1,8,POR,DEN,steal,1,False,True,steal,steal,22-26,22,26
 0021901272,2020-08-06,DEN,POR,10.97,1,1,2,DEN,DEN,fg_make,76,False,False,Dozier 2' Running Finger Roll Layup (2 PTS),,24-26,24,26
@@ -231,8 +231,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901272,2020-08-06,DEN,POR,27.35,3,8,39,POR,POR,tov,37,False,False,,Collins Offensive Foul Turnover (P1.T5),59-70,59,70
 0021901272,2020-08-06,DEN,POR,27.42,3,8,35,DEN,POR,foul,1,False,False,,Lillard P.FOUL (P2.T3) (J.Tiven),59-70,59,70
 0021901272,2020-08-06,DEN,POR,27.62,3,8,23,DEN,DEN,tov,1,False,True,Jokic Bad Pass Turnover (P5.T7),,59-70,59,70
-0021901272,2020-08-06,DEN,POR,27.62,3,8,23,POR,DEN,foul,1,False,False,Porter Jr. P.FOUL (P2.T2) (B.Kennedy),,59-70,59,70
 0021901272,2020-08-06,DEN,POR,27.62,3,8,23,DEN,POR,steal,1,False,True,steal,steal,59-70,59,70
+0021901272,2020-08-06,DEN,POR,27.62,3,8,23,POR,DEN,foul,1,False,False,Porter Jr. P.FOUL (P2.T2) (B.Kennedy),,59-70,59,70
 0021901272,2020-08-06,DEN,POR,27.72,3,8,17,POR,DEN,foul,1,False,False,Porter Jr. P.FOUL (P3.T3) (B.Kennedy),,59-70,59,70
 0021901272,2020-08-06,DEN,POR,27.8,3,8,12,POR,DEN,foul,2,False,False,Craig S.FOUL (P2.T4) (B.Kennedy),,59-70,59,70
 0021901272,2020-08-06,DEN,POR,27.8,3,8,12,POR,POR,ft_make,13,False,False,,Lillard Free Throw 1 of 3 (21 PTS),59-71,59,71
@@ -263,8 +263,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901272,2020-08-06,DEN,POR,30.5,3,5,30,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:2 Def:2),,70-78,70,78
 0021901272,2020-08-06,DEN,POR,30.57,3,5,26,DEN,DEN,fg_miss,7,True,False,MISS Porter Jr. 1' Dunk,,70-78,70,78
 0021901272,2020-08-06,DEN,POR,30.57,3,5,26,DEN,POR,block,7,True,False,block,block,70-78,70,78
-0021901272,2020-08-06,DEN,POR,30.63,3,5,22,POR,POR,reb,0,False,False,,Trail Blazers Rebound,70-78,70,78
 0021901272,2020-08-06,DEN,POR,30.63,3,5,22,,DEN,jump_ball,0,False,False,Jump Ball Porter Jr. vs. Collins: Tip to Trent Jr.,,70-78,70,78
+0021901272,2020-08-06,DEN,POR,30.63,3,5,22,POR,POR,reb,0,False,False,,Trail Blazers Rebound,70-78,70,78
 0021901272,2020-08-06,DEN,POR,30.78,3,5,13,POR,POR,fg_make,7,False,False,,Nurkic 2' Dunk (13 PTS) (Lillard 6 AST),70-80,70,80
 0021901272,2020-08-06,DEN,POR,31.0,3,5,0,DEN,DEN,fg_miss,5,False,False,MISS Jokic 2' Layup,,70-80,70,80
 0021901272,2020-08-06,DEN,POR,31.02,3,4,59,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:3 Def:2),,70-80,70,80
@@ -322,10 +322,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901272,2020-08-06,DEN,POR,36.0,4,12,0,DEN,,period_start,0,False,False,,,87-92,87,92
 0021901272,2020-08-06,DEN,POR,36.27,4,11,44,POR,POR,fg_miss,79,False,False,,MISS McCollum 18' Pullup Jump Shot,87-92,87,92
 0021901272,2020-08-06,DEN,POR,36.3,4,11,42,POR,POR,reb,0,False,False,,McCollum REBOUND (Off:1 Def:4),87-92,87,92
-0021901272,2020-08-06,DEN,POR,36.45,4,11,33,POR,POR,fg_miss,5,True,False,,MISS Whiteside 2' Layup,87-92,87,92
-0021901272,2020-08-06,DEN,POR,36.45,4,11,33,DEN,DEN,reb,0,False,False,Bol REBOUND (Off:1 Def:3),,87-92,87,92
 0021901272,2020-08-06,DEN,POR,36.45,4,11,33,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 6 Short 0),,87-92,87,92
+0021901272,2020-08-06,DEN,POR,36.45,4,11,33,POR,POR,fg_miss,5,True,False,,MISS Whiteside 2' Layup,87-92,87,92
 0021901272,2020-08-06,DEN,POR,36.45,4,11,33,POR,DEN,block,5,True,False,block,block,87-92,87,92
+0021901272,2020-08-06,DEN,POR,36.45,4,11,33,DEN,DEN,reb,0,False,False,Bol REBOUND (Off:1 Def:3),,87-92,87,92
 0021901272,2020-08-06,DEN,POR,36.65,4,11,21,DEN,DEN,fg_make,99,False,False,Plumlee 2' Cutting Finger Roll Layup Shot (8 PTS) (Dozier 3 AST),,89-92,89,92
 0021901272,2020-08-06,DEN,POR,36.65,4,11,21,DEN,POR,foul,2,False,False,,Whiteside S.FOUL (P3.T1) (M.Boland),89-92,89,92
 0021901272,2020-08-06,DEN,POR,36.65,4,11,21,DEN,POR,violation,3,False,False,,Lane,89-92,89,92
@@ -406,8 +406,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901272,2020-08-06,DEN,POR,45.87,4,2,8,POR,POR,fg3_miss,1,False,False,,MISS Lillard 26' 3PT Jump Shot,111-118,111,118
 0021901272,2020-08-06,DEN,POR,45.9,4,2,6,POR,POR,reb,0,False,False,,Trent Jr. REBOUND (Off:2 Def:1),111-118,111,118
 0021901272,2020-08-06,DEN,POR,45.95,4,2,3,POR,POR,tov,1,False,True,,Trent Jr. Bad Pass Turnover (P1.T9),111-118,111,118
-0021901272,2020-08-06,DEN,POR,45.95,4,2,3,DEN,POR,foul,1,False,False,,Collins P.FOUL (P3.T4) (B.Kennedy),111-118,111,118
 0021901272,2020-08-06,DEN,POR,45.95,4,2,3,POR,DEN,steal,1,False,True,steal,steal,111-118,111,118
+0021901272,2020-08-06,DEN,POR,45.95,4,2,3,DEN,POR,foul,1,False,False,,Collins P.FOUL (P3.T4) (B.Kennedy),111-118,111,118
 0021901272,2020-08-06,DEN,POR,46.13,4,1,52,DEN,DEN,fg_miss,78,False,False,MISS Plumlee 16' Floating Jump Shot,,111-118,111,118
 0021901272,2020-08-06,DEN,POR,46.17,4,1,50,DEN,DEN,reb,0,False,False,Plumlee REBOUND (Off:1 Def:6),,111-118,111,118
 0021901272,2020-08-06,DEN,POR,46.18,4,1,49,DEN,POR,foul,2,False,False,,Collins S.FOUL (P4.PN) (M.Boland),111-118,111,118

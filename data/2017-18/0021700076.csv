@@ -83,9 +83,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700076,2017-10-27,LAL,TOR,10.83,1,1,10,LAL,LAL,ft_make,12,False,False,Randle Free Throw 2 of 2 (4 PTS),,24-16,24,16
 0021700076,2017-10-27,LAL,TOR,10.98,1,1,1,TOR,LAL,foul,1,False,False,Kuzma P.FOUL (P1.T2) (S.Wall),,24-16,24,16
 0021700076,2017-10-27,LAL,TOR,11.05,1,0,57,TOR,LAL,foul,1,False,False,Brewer P.FOUL (P1.PN) (B.Taylor),,24-16,24,16
+0021700076,2017-10-27,LAL,TOR,11.05,1,0,57,TOR,TOR,ft_make,11,False,False,,Miles Free Throw 1 of 2 (1 PTS),24-17,24,17
 0021700076,2017-10-27,LAL,TOR,11.05,1,0,57,TOR,TOR,ft_miss,12,False,False,,MISS Miles Free Throw 2 of 2,24-16,24,16
 0021700076,2017-10-27,LAL,TOR,11.05,1,0,57,TOR,TOR,reb,0,False,False,,Poeltl REBOUND (Off:1 Def:1),24-16,24,16
-0021700076,2017-10-27,LAL,TOR,11.05,1,0,57,TOR,TOR,ft_make,11,False,False,,Miles Free Throw 1 of 2 (1 PTS),24-17,24,17
 0021700076,2017-10-27,LAL,TOR,11.35,1,0,39,TOR,TOR,fg3_miss,1,False,False,,MISS Wright 26' 3PT Jump Shot,24-17,24,17
 0021700076,2017-10-27,LAL,TOR,11.37,1,0,38,LAL,LAL,reb,0,False,False,Clarkson REBOUND (Off:0 Def:1),,24-17,24,17
 0021700076,2017-10-27,LAL,TOR,11.42,1,0,35,LAL,LAL,fg_miss,79,False,False,MISS Clarkson 13' Pullup Jump Shot,,24-17,24,17
@@ -107,11 +107,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700076,2017-10-27,LAL,TOR,13.57,2,10,26,LAL,LAL,fg3_miss,1,False,False,MISS Clarkson 26' 3PT Jump Shot,,31-21,31,21
 0021700076,2017-10-27,LAL,TOR,13.63,2,10,22,LAL,LAL,reb,0,False,False,Brewer REBOUND (Off:1 Def:0),,31-21,31,21
 0021700076,2017-10-27,LAL,TOR,13.67,2,10,20,LAL,LAL,fg_miss,5,True,False,MISS Brewer 3' Layup,,31-21,31,21
-0021700076,2017-10-27,LAL,TOR,13.67,2,10,20,TOR,TOR,reb,0,False,False,,Wright REBOUND (Off:0 Def:1),31-21,31,21
 0021700076,2017-10-27,LAL,TOR,13.67,2,10,20,LAL,TOR,block,5,True,False,block,block,31-21,31,21
+0021700076,2017-10-27,LAL,TOR,13.67,2,10,20,TOR,TOR,reb,0,False,False,,Wright REBOUND (Off:0 Def:1),31-21,31,21
 0021700076,2017-10-27,LAL,TOR,13.78,2,10,13,TOR,TOR,fg_miss,78,True,False,,MISS Miles 4' Floating Jump Shot,31-21,31,21
-0021700076,2017-10-27,LAL,TOR,13.78,2,10,13,LAL,LAL,reb,0,False,False,Randle REBOUND (Off:0 Def:2),,31-21,31,21
 0021700076,2017-10-27,LAL,TOR,13.78,2,10,13,TOR,LAL,block,78,True,False,block,block,31-21,31,21
+0021700076,2017-10-27,LAL,TOR,13.78,2,10,13,LAL,LAL,reb,0,False,False,Randle REBOUND (Off:0 Def:2),,31-21,31,21
 0021700076,2017-10-27,LAL,TOR,13.95,2,10,3,LAL,TOR,foul,2,False,False,,Poeltl S.FOUL (P1.T1) (D.Stafford),31-21,31,21
 0021700076,2017-10-27,LAL,TOR,13.95,2,10,3,LAL,LAL,ft_make,11,False,False,Randle Free Throw 1 of 2 (5 PTS),,32-21,32,21
 0021700076,2017-10-27,LAL,TOR,13.95,2,10,3,LAL,LAL,ft_miss,12,False,False,MISS Randle Free Throw 2 of 2,,32-21,32,21
@@ -119,8 +119,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700076,2017-10-27,LAL,TOR,14.15,2,9,51,LAL,TOR,foul,4,False,False,,VanVleet OFF.Foul (P1) (B.Taylor),32-21,32,21
 0021700076,2017-10-27,LAL,TOR,14.15,2,9,51,TOR,TOR,tov,37,False,False,,VanVleet Offensive Foul Turnover (P2.T4),32-21,32,21
 0021700076,2017-10-27,LAL,TOR,14.32,2,9,41,LAL,LAL,tov,2,False,True,Clarkson Lost Ball Turnover (P3.T5),,32-21,32,21
-0021700076,2017-10-27,LAL,TOR,14.32,2,9,41,TOR,LAL,foul,3,False,False,Clarkson L.B.FOUL (P1.T1) (B.Taylor),,32-21,32,21
 0021700076,2017-10-27,LAL,TOR,14.32,2,9,41,LAL,TOR,steal,2,False,True,steal,steal,32-21,32,21
+0021700076,2017-10-27,LAL,TOR,14.32,2,9,41,TOR,LAL,foul,3,False,False,Clarkson L.B.FOUL (P1.T1) (B.Taylor),,32-21,32,21
 0021700076,2017-10-27,LAL,TOR,14.6,2,9,24,TOR,TOR,fg_miss,6,False,False,,MISS VanVleet 4' Driving Layup,32-21,32,21
 0021700076,2017-10-27,LAL,TOR,14.63,2,9,22,LAL,LAL,reb,0,False,False,Randle REBOUND (Off:0 Def:3),,32-21,32,21
 0021700076,2017-10-27,LAL,TOR,14.68,2,9,19,LAL,LAL,tov,2,False,True,Randle Lost Ball Turnover (P1.T6),,32-21,32,21
@@ -186,8 +186,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700076,2017-10-27,LAL,TOR,21.23,2,2,46,LAL,LAL,tov,1,False,True,Ball Bad Pass Turnover (P3.T10),,47-38,47,38
 0021700076,2017-10-27,LAL,TOR,21.23,2,2,46,LAL,TOR,steal,1,False,True,steal,steal,47-38,47,38
 0021700076,2017-10-27,LAL,TOR,21.62,2,2,23,TOR,TOR,fg_miss,6,True,False,,MISS Lowry 3' Driving Layup,47-38,47,38
-0021700076,2017-10-27,LAL,TOR,21.62,2,2,23,TOR,TOR,reb,0,False,False,,Raptors Rebound,47-38,47,38
 0021700076,2017-10-27,LAL,TOR,21.62,2,2,23,TOR,LAL,block,6,True,False,block,block,47-38,47,38
+0021700076,2017-10-27,LAL,TOR,21.62,2,2,23,TOR,TOR,reb,0,False,False,,Raptors Rebound,47-38,47,38
 0021700076,2017-10-27,LAL,TOR,21.63,2,2,22,TOR,TOR,tov,11,False,False,,Raptors Turnover: Shot Clock (T#6),47-38,47,38
 0021700076,2017-10-27,LAL,TOR,21.72,2,2,17,LAL,TOR,foul,2,False,False,,Anunoby S.FOUL (P1.PN) (D.Stafford),47-38,47,38
 0021700076,2017-10-27,LAL,TOR,21.72,2,2,17,LAL,LAL,ft_miss,11,False,False,MISS Lopez Free Throw 1 of 2,,47-38,47,38
@@ -215,12 +215,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700076,2017-10-27,LAL,TOR,23.75,2,0,15,TOR,TOR,reb,0,False,False,,Raptors Rebound,51-45,51,45
 0021700076,2017-10-27,LAL,TOR,23.95,2,0,3,TOR,TOR,fg3_miss,1,False,False,,MISS Lowry 28' 3PT Jump Shot,51-45,51,45
 0021700076,2017-10-27,LAL,TOR,23.95,2,0,3,LAL,LAL,reb,0,False,False,Ball REBOUND (Off:0 Def:4),,51-45,51,45
+0021700076,2017-10-27,LAL,TOR,24.0,2,0,0,LAL,LAL,tov,1,False,True,Ball Bad Pass Turnover (P4.T11),,51-45,51,45
+0021700076,2017-10-27,LAL,TOR,24.0,2,0,0,LAL,TOR,steal,1,False,True,steal,steal,51-45,51,45
+0021700076,2017-10-27,LAL,TOR,24.0,2,0,0,LAL,,period_end,0,False,False,,,51-45,51,45
 0021700076,2017-10-27,LAL,TOR,24.0,2,0,0,TOR,TOR,fg3_miss,1,False,False,,MISS DeRozan 36' 3PT Jump Shot,51-45,51,45
 0021700076,2017-10-27,LAL,TOR,24.0,2,0,0,TOR,TOR,reb,0,False,False,,Raptors Rebound,51-45,51,45
-0021700076,2017-10-27,LAL,TOR,24.0,2,0,0,LAL,LAL,tov,1,False,True,Ball Bad Pass Turnover (P4.T11),,51-45,51,45
-0021700076,2017-10-27,LAL,TOR,24.0,2,0,0,LAL,,period_end,0,False,False,,,51-45,51,45
 0021700076,2017-10-27,LAL,TOR,24.0,3,12,0,LAL,,period_start,0,False,False,,,51-45,51,45
-0021700076,2017-10-27,LAL,TOR,24.0,2,0,0,LAL,TOR,steal,1,False,True,steal,steal,51-45,51,45
 0021700076,2017-10-27,LAL,TOR,24.3,3,11,42,LAL,TOR,foul,26,False,False,,Powell Offensive Charge Foul (P2.T1) (B.Taylor),51-45,51,45
 0021700076,2017-10-27,LAL,TOR,24.3,3,11,42,TOR,TOR,tov,37,False,False,,Powell Offensive Foul Turnover (P1.T7),51-45,51,45
 0021700076,2017-10-27,LAL,TOR,24.43,3,11,34,LAL,LAL,tov,1,False,True,Ingram Bad Pass Turnover (P2.T12),,51-45,51,45
@@ -234,8 +234,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700076,2017-10-27,LAL,TOR,25.33,3,10,40,LAL,LAL,ft_make,11,False,False,Ingram Free Throw 1 of 2 (8 PTS),,52-47,52,47
 0021700076,2017-10-27,LAL,TOR,25.33,3,10,40,LAL,LAL,ft_make,12,False,False,Ingram Free Throw 2 of 2 (9 PTS),,53-47,53,47
 0021700076,2017-10-27,LAL,TOR,25.7,3,10,18,TOR,TOR,tov,2,False,True,,Powell Lost Ball Turnover (P2.T8),53-47,53,47
-0021700076,2017-10-27,LAL,TOR,25.7,3,10,18,LAL,TOR,foul,1,False,False,,Powell P.FOUL (P3.T3) (D.Stafford),53-47,53,47
 0021700076,2017-10-27,LAL,TOR,25.7,3,10,18,TOR,LAL,steal,2,False,True,steal,steal,53-47,53,47
+0021700076,2017-10-27,LAL,TOR,25.7,3,10,18,LAL,TOR,foul,1,False,False,,Powell P.FOUL (P3.T3) (D.Stafford),53-47,53,47
 0021700076,2017-10-27,LAL,TOR,25.93,3,10,4,LAL,LAL,fg_miss,79,False,False,MISS Caldwell-Pope 13' Pullup Jump Shot,,53-47,53,47
 0021700076,2017-10-27,LAL,TOR,26.0,3,10,0,TOR,TOR,reb,0,False,False,,Ibaka REBOUND (Off:1 Def:2),53-47,53,47
 0021700076,2017-10-27,LAL,TOR,26.13,3,9,52,TOR,TOR,fg_miss,6,False,False,,MISS Lowry 2' Driving Layup,53-47,53,47
@@ -321,9 +321,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700076,2017-10-27,LAL,TOR,35.65,3,0,21,TOR,TOR,reb,0,False,False,,Raptors Rebound,71-72,71,72
 0021700076,2017-10-27,LAL,TOR,35.9,3,0,6,TOR,LAL,foul,1,False,False,Brewer P.FOUL (P2.T4) (S.Wall),,71-72,71,72
 0021700076,2017-10-27,LAL,TOR,35.95,3,0,3,TOR,TOR,fg3_miss,1,False,False,,MISS Miles 32' 3PT Jump Shot,71-72,71,72
+0021700076,2017-10-27,LAL,TOR,36.0,3,0,0,LAL,LAL,reb,0,False,False,Ennis REBOUND (Off:0 Def:2),,71-72,71,72
 0021700076,2017-10-27,LAL,TOR,36.0,3,0,0,LAL,LAL,fg3_miss,2,False,False,MISS Ennis 53' 3PT Running Jump Shot,,71-72,71,72
 0021700076,2017-10-27,LAL,TOR,36.0,3,0,0,LAL,LAL,reb,0,False,False,LAKERS Rebound,,71-72,71,72
-0021700076,2017-10-27,LAL,TOR,36.0,3,0,0,LAL,LAL,reb,0,False,False,Ennis REBOUND (Off:0 Def:2),,71-72,71,72
 0021700076,2017-10-27,LAL,TOR,36.0,3,0,0,LAL,,period_end,0,False,False,,,71-72,71,72
 0021700076,2017-10-27,LAL,TOR,36.0,4,12,0,LAL,,period_start,0,False,False,,,71-72,71,72
 0021700076,2017-10-27,LAL,TOR,36.3,4,11,42,LAL,LAL,fg_make,101,False,False,Kuzma 4' Driving Floating Jump Shot (11 PTS) (Brewer 2 AST),,73-72,73,72
@@ -344,8 +344,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700076,2017-10-27,LAL,TOR,37.95,4,10,3,TOR,LAL,block,1,True,False,block,block,76-76,76,76
 0021700076,2017-10-27,LAL,TOR,38.02,4,9,59,LAL,LAL,reb,0,False,False,Hart REBOUND (Off:0 Def:2),,76-76,76,76
 0021700076,2017-10-27,LAL,TOR,38.02,4,9,59,LAL,LAL,tov,1,False,True,Ennis Bad Pass Turnover (P1.T18),,76-76,76,76
-0021700076,2017-10-27,LAL,TOR,38.02,4,9,59,TOR,LAL,foul,2,False,False,Randle S.FOUL (P1.T1) (B.Taylor),,76-76,76,76
 0021700076,2017-10-27,LAL,TOR,38.02,4,9,59,LAL,TOR,steal,1,False,True,steal,steal,76-76,76,76
+0021700076,2017-10-27,LAL,TOR,38.02,4,9,59,TOR,LAL,foul,2,False,False,Randle S.FOUL (P1.T1) (B.Taylor),,76-76,76,76
 0021700076,2017-10-27,LAL,TOR,38.02,4,9,59,TOR,TOR,ft_make,11,False,False,,Anunoby Free Throw 1 of 2 (4 PTS),76-77,76,77
 0021700076,2017-10-27,LAL,TOR,38.02,4,9,59,TOR,TOR,ft_miss,12,False,False,,MISS Anunoby Free Throw 2 of 2,76-77,76,77
 0021700076,2017-10-27,LAL,TOR,38.05,4,9,57,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:2 Def:8),,76-77,76,77
@@ -423,9 +423,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700076,2017-10-27,LAL,TOR,46.0,4,2,0,LAL,LAL,reb,1,False,False,LAKERS Rebound,,85-94,85,94
 0021700076,2017-10-27,LAL,TOR,46.0,4,2,0,LAL,LAL,ft_make,12,False,False,Hart Free Throw 2 of 2 (9 PTS),,86-94,86,94
 0021700076,2017-10-27,LAL,TOR,46.4,4,1,36,TOR,TOR,fg_miss,44,True,False,,MISS Lowry 3' Reverse Layup,86-94,86,94
+0021700076,2017-10-27,LAL,TOR,46.4,4,1,36,TOR,LAL,block,44,True,False,block,block,86-94,86,94
 0021700076,2017-10-27,LAL,TOR,46.4,4,1,36,TOR,TOR,reb,0,False,False,,Raptors Rebound,86-94,86,94
 0021700076,2017-10-27,LAL,TOR,46.4,4,1,36,TOR,TOR,tov,11,False,False,,Raptors Turnover: Shot Clock (T#14),86-94,86,94
-0021700076,2017-10-27,LAL,TOR,46.4,4,1,36,TOR,LAL,block,44,True,False,block,block,86-94,86,94
 0021700076,2017-10-27,LAL,TOR,46.57,4,1,26,LAL,LAL,fg_miss,6,False,False,MISS Clarkson 2' Driving Layup,,86-94,86,94
 0021700076,2017-10-27,LAL,TOR,46.57,4,1,26,LAL,LAL,reb,0,False,False,Randle REBOUND (Off:1 Def:4),,86-94,86,94
 0021700076,2017-10-27,LAL,TOR,46.57,4,1,26,LAL,LAL,fg_make,97,False,False,Randle 1' Tip Layup Shot (18 PTS),,88-94,88,94

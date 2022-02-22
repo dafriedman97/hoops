@@ -25,8 +25,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900638,2020-01-19,DEN,IND,3.0,1,9,0,DEN,DEN,fg3_miss,1,False,False,MISS Craig 3PT Jump Shot,,5-0,5,0
 0021900638,2020-01-19,DEN,IND,3.05,1,8,57,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:0 Def:2),5-0,5,0
 0021900638,2020-01-19,DEN,IND,3.13,1,8,52,IND,IND,fg_miss,1,True,False,,MISS Brogdon 6' Jump Shot,5-0,5,0
-0021900638,2020-01-19,DEN,IND,3.13,1,8,52,IND,IND,reb,0,False,False,,Pacers Rebound,5-0,5,0
 0021900638,2020-01-19,DEN,IND,3.13,1,8,52,IND,DEN,block,1,True,False,block,block,5-0,5,0
+0021900638,2020-01-19,DEN,IND,3.13,1,8,52,IND,IND,reb,0,False,False,,Pacers Rebound,5-0,5,0
 0021900638,2020-01-19,DEN,IND,3.22,1,8,47,IND,IND,tov,1,False,True,,Lamb Bad Pass Turnover (P1.T3),5-0,5,0
 0021900638,2020-01-19,DEN,IND,3.22,1,8,47,IND,DEN,steal,1,False,True,steal,steal,5-0,5,0
 0021900638,2020-01-19,DEN,IND,3.3,1,8,42,DEN,DEN,fg_miss,5,False,False,MISS Barton 4' Layup,,5-0,5,0
@@ -62,9 +62,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900638,2020-01-19,DEN,IND,6.02,1,5,59,IND,IND,fg_miss,1,False,False,,MISS Sabonis 20' Jump Shot,9-5,9,5
 0021900638,2020-01-19,DEN,IND,6.08,1,5,55,DEN,DEN,reb,0,False,False,Barton REBOUND (Off:0 Def:2),,9-5,9,5
 0021900638,2020-01-19,DEN,IND,6.18,1,5,49,DEN,DEN,fg_miss,78,True,False,MISS Barton 7' Floating Jump Shot,,9-5,9,5
+0021900638,2020-01-19,DEN,IND,6.18,1,5,49,DEN,IND,block,78,True,False,block,block,9-5,9,5
 0021900638,2020-01-19,DEN,IND,6.18,1,5,49,DEN,DEN,reb,0,False,False,Barton REBOUND (Off:1 Def:2),,9-5,9,5
 0021900638,2020-01-19,DEN,IND,6.18,1,5,49,DEN,DEN,tov,4,False,False,Barton Traveling Turnover (P1.T1),,9-5,9,5
-0021900638,2020-01-19,DEN,IND,6.18,1,5,49,DEN,IND,block,78,True,False,block,block,9-5,9,5
 0021900638,2020-01-19,DEN,IND,6.33,1,5,40,IND,DEN,foul,1,False,False,Porter Jr. P.FOUL (P1.T2) (D.Guthrie),,9-5,9,5
 0021900638,2020-01-19,DEN,IND,6.47,1,5,32,IND,IND,fg_make,1,False,False,,Brogdon 16' Jump Shot (2 PTS) (Turner 1 AST),9-7,9,7
 0021900638,2020-01-19,DEN,IND,6.68,1,5,19,DEN,DEN,fg_make,5,False,False,Grant 3' Layup (2 PTS) (Morris 3 AST),,11-7,11,7
@@ -88,9 +88,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900638,2020-01-19,DEN,IND,8.83,1,3,10,DEN,DEN,tov,37,False,False,Dozier Offensive Foul Turnover (P1.T2),,15-11,15,11
 0021900638,2020-01-19,DEN,IND,9.02,1,2,59,IND,IND,fg_make,1,False,False,,Warren 14' Jump Shot (9 PTS) (Brogdon 4 AST),15-13,15,13
 0021900638,2020-01-19,DEN,IND,9.25,1,2,45,DEN,DEN,fg_miss,6,True,False,MISS Porter Jr. 4' Driving Layup,,15-13,15,13
+0021900638,2020-01-19,DEN,IND,9.25,1,2,45,DEN,IND,block,6,True,False,block,block,15-13,15,13
 0021900638,2020-01-19,DEN,IND,9.25,1,2,45,IND,IND,reb,0,False,False,,Pacers Rebound,15-13,15,13
 0021900638,2020-01-19,DEN,IND,9.25,1,2,45,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 1 Short 0),,15-13,15,13
-0021900638,2020-01-19,DEN,IND,9.25,1,2,45,DEN,IND,block,6,True,False,block,block,15-13,15,13
 0021900638,2020-01-19,DEN,IND,9.48,1,2,31,IND,IND,fg_miss,79,False,False,,MISS Warren 16' Pullup Jump Shot,15-13,15,13
 0021900638,2020-01-19,DEN,IND,9.53,1,2,28,DEN,DEN,reb,0,False,False,Hernangomez REBOUND (Off:0 Def:1),,15-13,15,13
 0021900638,2020-01-19,DEN,IND,9.82,1,2,11,DEN,DEN,fg_make,6,False,False,Barton 5' Driving Layup (7 PTS),,17-13,17,13
@@ -125,8 +125,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900638,2020-01-19,DEN,IND,13.0,2,11,0,IND,DEN,foul,1,False,False,Plumlee P.FOUL (P1.T1) (D.Guthrie),,23-15,23,15
 0021900638,2020-01-19,DEN,IND,13.15,2,10,51,IND,IND,fg3_make,1,False,False,,McDermott 26' 3PT Jump Shot (3 PTS) (Sabonis 1 AST),23-18,23,18
 0021900638,2020-01-19,DEN,IND,13.45,2,10,33,DEN,DEN,fg_miss,6,True,False,MISS Beasley 6' Driving Layup,,23-18,23,18
-0021900638,2020-01-19,DEN,IND,13.45,2,10,33,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,23-18,23,18
 0021900638,2020-01-19,DEN,IND,13.45,2,10,33,DEN,IND,block,6,True,False,block,block,23-18,23,18
+0021900638,2020-01-19,DEN,IND,13.45,2,10,33,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,23-18,23,18
 0021900638,2020-01-19,DEN,IND,13.48,2,10,31,DEN,IND,foul,2,False,False,,McConnell S.FOUL (P1.T2) (D.Guthrie),23-18,23,18
 0021900638,2020-01-19,DEN,IND,13.48,2,10,31,DEN,DEN,ft_make,11,False,False,Porter Jr. Free Throw 1 of 2 (1 PTS),,24-18,24,18
 0021900638,2020-01-19,DEN,IND,13.48,2,10,31,DEN,DEN,ft_make,12,False,False,Porter Jr. Free Throw 2 of 2 (2 PTS),,25-18,25,18
@@ -138,8 +138,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900638,2020-01-19,DEN,IND,14.37,2,9,38,DEN,IND,foul,26,False,False,,Sabonis Offensive Charge Foul (P1.T4) (S.Twardoski),27-18,27,18
 0021900638,2020-01-19,DEN,IND,14.37,2,9,38,IND,IND,tov,37,False,False,,Sabonis Offensive Foul Turnover (P2.T5),27-18,27,18
 0021900638,2020-01-19,DEN,IND,14.62,2,9,23,DEN,DEN,fg_miss,5,True,False,MISS Porter Jr. 4' Layup,,27-18,27,18
-0021900638,2020-01-19,DEN,IND,14.62,2,9,23,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,27-18,27,18
 0021900638,2020-01-19,DEN,IND,14.62,2,9,23,DEN,IND,block,5,True,False,block,block,27-18,27,18
+0021900638,2020-01-19,DEN,IND,14.62,2,9,23,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,27-18,27,18
 0021900638,2020-01-19,DEN,IND,14.67,2,9,20,,DEN,jump_ball,0,False,False,Jump Ball Porter Jr. vs. Holiday: Tip to Beasley,,27-18,27,18
 0021900638,2020-01-19,DEN,IND,14.7,2,9,18,DEN,DEN,fg3_miss,1,False,False,MISS Hernangomez 27' 3PT Jump Shot,,27-18,27,18
 0021900638,2020-01-19,DEN,IND,14.77,2,9,14,IND,IND,reb,0,False,False,,McConnell REBOUND (Off:0 Def:2),27-18,27,18
@@ -179,8 +179,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900638,2020-01-19,DEN,IND,18.6,2,5,24,IND,IND,fg_make,6,False,False,,Brogdon 2' Driving Layup (4 PTS),37-32,37,32
 0021900638,2020-01-19,DEN,IND,18.78,2,5,13,DEN,DEN,tov,4,False,False,Grant Traveling Turnover (P1.T3),,37-32,37,32
 0021900638,2020-01-19,DEN,IND,19.17,2,4,50,IND,IND,fg_miss,5,True,False,,MISS Brogdon 4' Layup,37-32,37,32
-0021900638,2020-01-19,DEN,IND,19.17,2,4,50,IND,IND,reb,0,False,False,,Pacers Rebound,37-32,37,32
 0021900638,2020-01-19,DEN,IND,19.17,2,4,50,IND,DEN,block,5,True,False,block,block,37-32,37,32
+0021900638,2020-01-19,DEN,IND,19.17,2,4,50,IND,IND,reb,0,False,False,,Pacers Rebound,37-32,37,32
 0021900638,2020-01-19,DEN,IND,19.2,2,4,48,IND,IND,fg_miss,63,False,False,,MISS Brogdon 16' Fadeaway Jumper,37-32,37,32
 0021900638,2020-01-19,DEN,IND,19.27,2,4,44,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:1 Def:6),,37-32,37,32
 0021900638,2020-01-19,DEN,IND,19.4,2,4,36,DEN,DEN,fg3_miss,1,False,False,MISS Grant 27' 3PT Jump Shot,,37-32,37,32
@@ -240,8 +240,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900638,2020-01-19,DEN,IND,25.83,3,10,10,IND,IND,tov,1,False,True,,Sabonis Bad Pass Turnover (P3.T7),57-47,57,47
 0021900638,2020-01-19,DEN,IND,25.83,3,10,10,IND,DEN,steal,1,False,True,steal,steal,57-47,57,47
 0021900638,2020-01-19,DEN,IND,26.07,3,9,56,DEN,DEN,tov,1,False,True,Jokic Bad Pass Turnover (P1.T5),,57-47,57,47
-0021900638,2020-01-19,DEN,IND,26.07,3,9,56,IND,DEN,foul,28,False,False,Jokic Personal Take Foul (P1.T2) (S.Twardoski),,57-47,57,47
 0021900638,2020-01-19,DEN,IND,26.07,3,9,56,DEN,IND,steal,1,False,True,steal,steal,57-47,57,47
+0021900638,2020-01-19,DEN,IND,26.07,3,9,56,IND,DEN,foul,28,False,False,Jokic Personal Take Foul (P1.T2) (S.Twardoski),,57-47,57,47
 0021900638,2020-01-19,DEN,IND,26.25,3,9,45,DEN,IND,foul,4,False,False,,Turner OFF.Foul (P3) (S.Twardoski),57-47,57,47
 0021900638,2020-01-19,DEN,IND,26.25,3,9,45,IND,IND,tov,37,False,False,,Turner Offensive Foul Turnover (P2.T8),57-47,57,47
 0021900638,2020-01-19,DEN,IND,26.48,3,9,31,DEN,DEN,fg_miss,86,False,False,MISS Grant 4' Turnaround Fadeaway Shot,,57-47,57,47

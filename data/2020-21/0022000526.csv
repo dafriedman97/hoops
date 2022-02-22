@@ -5,8 +5,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000526,2021-02-28,MIN,PHX,0.28,1,11,43,MIN,MIN,reb,0,False,False,Vanderbilt REBOUND (Off:0 Def:1),,0-0,0,0
 0022000526,2021-02-28,MIN,PHX,0.47,1,11,32,MIN,MIN,fg3_make,1,False,False,Towns 26' 3PT Jump Shot (3 PTS) (Rubio 1 AST),,3-0,3,0
 0022000526,2021-02-28,MIN,PHX,0.73,1,11,16,PHX,PHX,fg_miss,5,True,False,,MISS Kaminsky 2' Layup,3-0,3,0
-0022000526,2021-02-28,MIN,PHX,0.73,1,11,16,PHX,PHX,reb,0,False,False,,Suns Rebound,3-0,3,0
 0022000526,2021-02-28,MIN,PHX,0.73,1,11,16,PHX,MIN,block,5,True,False,block,block,3-0,3,0
+0022000526,2021-02-28,MIN,PHX,0.73,1,11,16,PHX,PHX,reb,0,False,False,,Suns Rebound,3-0,3,0
 0022000526,2021-02-28,MIN,PHX,0.75,1,11,15,PHX,PHX,fg3_miss,1,False,False,,MISS Booker 25' 3PT Jump Shot,3-0,3,0
 0022000526,2021-02-28,MIN,PHX,0.78,1,11,13,MIN,MIN,reb,0,False,False,Vanderbilt REBOUND (Off:0 Def:2),,3-0,3,0
 0022000526,2021-02-28,MIN,PHX,0.9,1,11,6,MIN,MIN,tov,1,False,True,Edwards Bad Pass Turnover (P1.T1),,3-0,3,0
@@ -149,9 +149,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000526,2021-02-28,MIN,PHX,14.08,2,9,55,PHX,PHX,tov,1,False,True,,Crowder Bad Pass Turnover (P1.T4),31-33,31,33
 0022000526,2021-02-28,MIN,PHX,14.08,2,9,55,PHX,MIN,steal,1,False,True,steal,steal,31-33,31,33
 0022000526,2021-02-28,MIN,PHX,14.17,2,9,50,MIN,MIN,fg3_make,79,False,False,McLaughlin 25' 3PT Pullup Jump Shot (6 PTS) (Culver 1 AST),,34-33,34,33
+0022000526,2021-02-28,MIN,PHX,14.5,2,9,30,PHX,PHX,tov,4,False,False,,Johnson Traveling Turnover (P1.T5),34-33,34,33
 0022000526,2021-02-28,MIN,PHX,14.5,2,9,30,PHX,PHX,fg_miss,47,False,False,,MISS Johnson 4' Turnaround Jump Shot,34-33,34,33
 0022000526,2021-02-28,MIN,PHX,14.5,2,9,30,PHX,PHX,reb,0,False,False,,Suns Rebound,34-33,34,33
-0022000526,2021-02-28,MIN,PHX,14.5,2,9,30,PHX,PHX,tov,4,False,False,,Johnson Traveling Turnover (P1.T5),34-33,34,33
 0022000526,2021-02-28,MIN,PHX,14.78,2,9,13,MIN,MIN,fg_miss,78,False,False,MISS Nowell 6' Floating Jump Shot,,34-33,34,33
 0022000526,2021-02-28,MIN,PHX,14.83,2,9,10,PHX,PHX,reb,0,False,False,,Kaminsky REBOUND (Off:1 Def:1),34-33,34,33
 0022000526,2021-02-28,MIN,PHX,14.98,2,9,1,PHX,PHX,fg_miss,5,False,False,,MISS Bridges 5' Layup,34-33,34,33
@@ -233,8 +233,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000526,2021-02-28,MIN,PHX,24.37,3,11,38,MIN,MIN,tov,13,False,False,Vanderbilt Backcourt Turnover (P2.T11),,48-53,48,53
 0022000526,2021-02-28,MIN,PHX,24.58,3,11,25,PHX,PHX,fg_make,47,False,False,,Ayton 15' Turnaround Jump Shot (10 PTS) (Bridges 1 AST),48-55,48,55
 0022000526,2021-02-28,MIN,PHX,24.58,3,11,25,MIN,MIN,fg_miss,1,True,False,MISS Towns 3' Jump Shot,,48-55,48,55
-0022000526,2021-02-28,MIN,PHX,24.58,3,11,25,MIN,MIN,reb,0,False,False,Vanderbilt REBOUND (Off:3 Def:2),,48-55,48,55
 0022000526,2021-02-28,MIN,PHX,24.58,3,11,25,MIN,PHX,block,1,True,False,block,block,48-55,48,55
+0022000526,2021-02-28,MIN,PHX,24.58,3,11,25,MIN,MIN,reb,0,False,False,Vanderbilt REBOUND (Off:3 Def:2),,48-55,48,55
 0022000526,2021-02-28,MIN,PHX,24.98,3,11,1,MIN,MIN,fg_miss,98,True,False,MISS Okogie 3' Cutting Layup Shot,,48-55,48,55
 0022000526,2021-02-28,MIN,PHX,24.98,3,11,1,MIN,PHX,block,98,True,False,block,block,48-55,48,55
 0022000526,2021-02-28,MIN,PHX,25.0,3,11,0,MIN,MIN,reb,0,False,False,Okogie REBOUND (Off:1 Def:2),,48-55,48,55
@@ -291,8 +291,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000526,2021-02-28,MIN,PHX,30.77,3,5,14,PHX,PHX,ft_make,10,False,False,,Bridges Free Throw 1 of 1 (9 PTS),65-70,65,70
 0022000526,2021-02-28,MIN,PHX,30.97,3,5,2,MIN,PHX,foul,1,False,False,,Saric P.FOUL (P2.T4) (B.Adair),65-70,65,70
 0022000526,2021-02-28,MIN,PHX,31.08,3,4,55,MIN,MIN,fg_miss,6,True,False,MISS Edwards 4' Driving Layup,,65-70,65,70
-0022000526,2021-02-28,MIN,PHX,31.08,3,4,55,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,65-70,65,70
 0022000526,2021-02-28,MIN,PHX,31.08,3,4,55,MIN,PHX,block,6,True,False,block,block,65-70,65,70
+0022000526,2021-02-28,MIN,PHX,31.08,3,4,55,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,65-70,65,70
 0022000526,2021-02-28,MIN,PHX,31.18,3,4,49,MIN,MIN,fg3_miss,80,False,False,MISS Edwards 3PT Step Back Jump Shot,,65-70,65,70
 0022000526,2021-02-28,MIN,PHX,31.25,3,4,45,PHX,PHX,reb,0,False,False,,Booker REBOUND (Off:0 Def:4),65-70,65,70
 0022000526,2021-02-28,MIN,PHX,31.33,3,4,40,PHX,PHX,tov,1,False,True,,Crowder Bad Pass Turnover (P3.T15),65-70,65,70
@@ -306,8 +306,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000526,2021-02-28,MIN,PHX,31.9,3,4,6,PHX,PHX,fg_miss,6,False,False,,MISS Booker 1' Driving Layup,67-72,67,72
 0022000526,2021-02-28,MIN,PHX,31.93,3,4,4,MIN,MIN,reb,0,False,False,Layman REBOUND (Off:1 Def:1),,67-72,67,72
 0022000526,2021-02-28,MIN,PHX,32.0,3,4,0,MIN,MIN,fg_miss,2,False,False,MISS Rubio 13' Running Jump Shot,,67-72,67,72
-0022000526,2021-02-28,MIN,PHX,32.08,3,3,55,MIN,MIN,fg_make,87,False,False,Towns Putback Dunk (17 PTS),,69-72,69,72
 0022000526,2021-02-28,MIN,PHX,32.08,3,3,55,MIN,MIN,reb,0,False,False,Towns REBOUND (Off:2 Def:6),,69-72,69,72
+0022000526,2021-02-28,MIN,PHX,32.08,3,3,55,MIN,MIN,fg_make,87,False,False,Towns Putback Dunk (17 PTS),,69-72,69,72
 0022000526,2021-02-28,MIN,PHX,32.17,3,3,50,PHX,MIN,foul,1,False,False,Layman P.FOUL (P1.PN) (B.Taylor),,69-72,69,72
 0022000526,2021-02-28,MIN,PHX,32.17,3,3,50,MIN,MIN,timeout,1,False,False,TIMBERWOLVES Timeout: Regular (Full 3 Short 0),,69-72,69,72
 0022000526,2021-02-28,MIN,PHX,32.17,3,3,50,MIN,PHX,ft_make,11,False,False,,Booker Free Throw 1 of 2 (31 PTS),69-73,69,73
@@ -331,9 +331,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000526,2021-02-28,MIN,PHX,34.57,3,1,26,MIN,MIN,tov,11,False,False,TIMBERWOLVES Turnover: Shot Clock (T#12),,74-79,74,79
 0022000526,2021-02-28,MIN,PHX,34.72,3,1,17,PHX,PHX,fg_make,1,False,False,,Booker 17' Jump Shot (36 PTS),74-81,74,81
 0022000526,2021-02-28,MIN,PHX,34.92,3,1,5,MIN,MIN,fg_miss,1,True,False,MISS Edwards 4' Jump Shot,,74-81,74,81
+0022000526,2021-02-28,MIN,PHX,34.92,3,1,5,MIN,PHX,block,1,True,False,block,block,74-81,74,81
 0022000526,2021-02-28,MIN,PHX,34.92,3,1,5,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,74-81,74,81
 0022000526,2021-02-28,MIN,PHX,34.92,3,1,5,PHX,PHX,timeout,1,False,False,,Suns Timeout: Regular (Reg.5 Short 0),74-81,74,81
-0022000526,2021-02-28,MIN,PHX,34.92,3,1,5,MIN,PHX,block,1,True,False,block,block,74-81,74,81
 0022000526,2021-02-28,MIN,PHX,34.98,3,1,1,MIN,MIN,fg_miss,79,False,False,MISS Edwards 10' Pullup Jump Shot,,74-81,74,81
 0022000526,2021-02-28,MIN,PHX,35.03,3,0,58,PHX,PHX,reb,0,False,False,,Saric REBOUND (Off:0 Def:1),74-81,74,81
 0022000526,2021-02-28,MIN,PHX,35.2,3,0,48,PHX,PHX,fg3_miss,1,False,False,,MISS Johnson 3PT Jump Shot,74-81,74,81

@@ -151,8 +151,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900599,2020-01-14,BKN,UTA,18.73,2,5,16,UTA,UTA,fg_make,101,False,False,,Clarkson 6' Driving Floating Jump Shot (11 PTS),41-45,41,45
 0021900599,2020-01-14,BKN,UTA,19.03,2,4,58,BKN,BKN,fg_make,6,False,False,Prince 1' Driving Layup (4 PTS) (Allen 1 AST),,43-45,43,45
 0021900599,2020-01-14,BKN,UTA,19.25,2,4,45,UTA,UTA,fg_miss,6,True,False,,MISS Mudiay 1' Driving Layup,43-45,43,45
-0021900599,2020-01-14,BKN,UTA,19.25,2,4,45,UTA,UTA,reb,0,False,False,,Jazz Rebound,43-45,43,45
 0021900599,2020-01-14,BKN,UTA,19.25,2,4,45,UTA,BKN,block,6,True,False,block,block,43-45,43,45
+0021900599,2020-01-14,BKN,UTA,19.25,2,4,45,UTA,UTA,reb,0,False,False,,Jazz Rebound,43-45,43,45
 0021900599,2020-01-14,BKN,UTA,19.4,2,4,36,UTA,UTA,fg_miss,63,False,False,,MISS Mitchell 11' Fadeaway Jumper,43-45,43,45
 0021900599,2020-01-14,BKN,UTA,19.45,2,4,33,BKN,BKN,reb,0,False,False,Luwawu-Cabarrot REBOUND (Off:0 Def:2),,43-45,43,45
 0021900599,2020-01-14,BKN,UTA,19.57,2,4,26,BKN,UTA,foul,2,False,False,,O'Neale S.FOUL (P2.T2) (K.Lane),43-45,43,45
@@ -176,8 +176,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900599,2020-01-14,BKN,UTA,21.43,2,2,34,UTA,UTA,fg_miss,63,False,False,,MISS Mitchell 8' Fadeaway Jumper,45-51,45,51
 0021900599,2020-01-14,BKN,UTA,21.47,2,2,32,BKN,BKN,reb,0,False,False,Prince REBOUND (Off:0 Def:4),,45-51,45,51
 0021900599,2020-01-14,BKN,UTA,21.55,2,2,27,BKN,BKN,fg_miss,101,True,False,MISS Dinwiddie 7' Driving Floating Jump Shot,,45-51,45,51
-0021900599,2020-01-14,BKN,UTA,21.55,2,2,27,BKN,BKN,reb,0,False,False,NETS Rebound,,45-51,45,51
 0021900599,2020-01-14,BKN,UTA,21.55,2,2,27,BKN,UTA,block,101,True,False,block,block,45-51,45,51
+0021900599,2020-01-14,BKN,UTA,21.55,2,2,27,BKN,BKN,reb,0,False,False,NETS Rebound,,45-51,45,51
 0021900599,2020-01-14,BKN,UTA,21.57,2,2,26,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 3 Short 0),,45-51,45,51
 0021900599,2020-01-14,BKN,UTA,21.63,2,2,22,BKN,BKN,fg3_miss,1,False,False,MISS Harris 25' 3PT Jump Shot,,45-51,45,51
 0021900599,2020-01-14,BKN,UTA,21.68,2,2,19,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:2 Def:6),45-51,45,51
@@ -290,8 +290,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900599,2020-01-14,BKN,UTA,34.23,3,1,46,BKN,BKN,fg3_miss,1,False,False,MISS Luwawu-Cabarrot 25' 3PT Jump Shot,,72-86,72,86
 0021900599,2020-01-14,BKN,UTA,34.28,3,1,43,UTA,UTA,reb,0,False,False,,Bradley REBOUND (Off:1 Def:3),72-86,72,86
 0021900599,2020-01-14,BKN,UTA,34.55,3,1,27,UTA,UTA,fg_miss,47,False,False,,MISS Clarkson 10' Turnaround Jump Shot,72-86,72,86
-0021900599,2020-01-14,BKN,UTA,34.65,3,1,21,UTA,UTA,fg_make,3,False,False,,Niang 1' Hook Shot (2 PTS),72-88,72,88
 0021900599,2020-01-14,BKN,UTA,34.65,3,1,21,UTA,UTA,reb,0,False,False,,Niang REBOUND (Off:1 Def:1),72-88,72,88
+0021900599,2020-01-14,BKN,UTA,34.65,3,1,21,UTA,UTA,fg_make,3,False,False,,Niang 1' Hook Shot (2 PTS),72-88,72,88
 0021900599,2020-01-14,BKN,UTA,35.05,3,0,57,BKN,BKN,fg_miss,102,False,False,MISS Dinwiddie 5' Driving Floating Bank Jump Shot,,72-88,72,88
 0021900599,2020-01-14,BKN,UTA,35.08,3,0,55,UTA,UTA,reb,0,False,False,,Bradley REBOUND (Off:1 Def:4),72-88,72,88
 0021900599,2020-01-14,BKN,UTA,35.17,3,0,50,UTA,UTA,fg_miss,9,False,False,,MISS Mitchell 1' Driving Dunk,72-88,72,88
@@ -336,9 +336,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900599,2020-01-14,BKN,UTA,40.25,4,7,45,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 5 Short 0),,85-99,85,99
 0021900599,2020-01-14,BKN,UTA,40.48,4,7,31,BKN,BKN,fg3_make,1,False,False,Harris 26' 3PT Jump Shot (9 PTS) (Irving 9 AST),,88-99,88,99
 0021900599,2020-01-14,BKN,UTA,40.93,4,7,4,UTA,UTA,fg_miss,6,True,False,,MISS Bogdanovic 8' Driving Layup,88-99,88,99
+0021900599,2020-01-14,BKN,UTA,40.93,4,7,4,UTA,BKN,block,6,True,False,block,block,88-99,88,99
 0021900599,2020-01-14,BKN,UTA,40.93,4,7,4,UTA,UTA,reb,0,False,False,,Jazz Rebound,88-99,88,99
 0021900599,2020-01-14,BKN,UTA,40.93,4,7,4,BKN,UTA,foul,11,False,False,,Bogdanovic T.FOUL (P1.T2) (K.Lane),88-99,88,99
-0021900599,2020-01-14,BKN,UTA,40.93,4,7,4,UTA,BKN,block,6,True,False,block,block,88-99,88,99
 0021900599,2020-01-14,BKN,UTA,40.93,4,7,4,BKN,BKN,ft_make,16,False,False,Irving Free Throw Technical (25 PTS),,89-99,89,99
 0021900599,2020-01-14,BKN,UTA,40.97,4,7,2,UTA,UTA,fg_miss,1,False,False,,MISS Gobert 10' Jump Shot,89-99,89,99
 0021900599,2020-01-14,BKN,UTA,41.03,4,6,58,BKN,BKN,reb,0,False,False,Jordan REBOUND (Off:3 Def:11),,89-99,89,99

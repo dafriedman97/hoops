@@ -112,10 +112,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000944,2021-04-29,IND,BKN,11.67,1,0,20,BKN,BKN,ft_make,11,False,False,,Johnson Free Throw 1 of 2 (7 PTS),28-34,28,34
 0022000944,2021-04-29,IND,BKN,11.67,1,0,20,BKN,BKN,ft_make,12,False,False,,Johnson Free Throw 2 of 2 (8 PTS),28-35,28,35
 0022000944,2021-04-29,IND,BKN,12.0,1,0,0,IND,IND,fg_miss,1,True,False,MISS Sampson 14' Jump Shot,,28-35,28,35
+0022000944,2021-04-29,IND,BKN,12.0,1,0,0,IND,BKN,block,1,True,False,block,block,28-35,28,35
 0022000944,2021-04-29,IND,BKN,12.0,1,0,0,IND,IND,reb,0,False,False,PACERS Rebound,,28-35,28,35
 0022000944,2021-04-29,IND,BKN,12.0,1,0,0,IND,,period_end,0,False,False,,,28-35,28,35
 0022000944,2021-04-29,IND,BKN,12.0,2,12,0,IND,,period_start,0,False,False,,,28-35,28,35
-0022000944,2021-04-29,IND,BKN,12.0,1,0,0,IND,BKN,block,1,True,False,block,block,28-35,28,35
 0022000944,2021-04-29,IND,BKN,12.17,2,11,50,IND,IND,fg_make,108,False,False,Sampson 2' Cutting Dunk Shot (6 PTS) (McConnell 2 AST),,30-35,30,35
 0022000944,2021-04-29,IND,BKN,12.55,2,11,27,BKN,BKN,fg3_make,1,False,False,,Harris 26' 3PT Jump Shot (5 PTS) (James 1 AST),30-38,30,38
 0022000944,2021-04-29,IND,BKN,12.67,2,11,20,IND,IND,tov,4,False,False,Holiday Traveling Turnover (P1.T3),,30-38,30,38
@@ -165,8 +165,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000944,2021-04-29,IND,BKN,16.9,2,7,6,BKN,IND,block,1,True,False,block,block,36-51,36,51
 0022000944,2021-04-29,IND,BKN,16.93,2,7,4,BKN,BKN,reb,0,False,False,,Griffin REBOUND (Off:1 Def:2),36-51,36,51
 0022000944,2021-04-29,IND,BKN,16.93,2,7,4,BKN,BKN,tov,1,False,True,,Griffin Bad Pass Turnover (P1.T3),36-51,36,51
-0022000944,2021-04-29,IND,BKN,16.93,2,7,4,IND,BKN,foul,28,False,False,,Durant Personal Take Foul (P1.T3) (C.Blair),36-51,36,51
 0022000944,2021-04-29,IND,BKN,16.93,2,7,4,BKN,IND,steal,1,False,True,steal,steal,36-51,36,51
+0022000944,2021-04-29,IND,BKN,16.93,2,7,4,IND,BKN,foul,28,False,False,,Durant Personal Take Foul (P1.T3) (C.Blair),36-51,36,51
 0022000944,2021-04-29,IND,BKN,17.2,2,6,48,IND,IND,fg3_miss,1,False,False,MISS McConnell 25' 3PT Jump Shot,,36-51,36,51
 0022000944,2021-04-29,IND,BKN,17.27,2,6,44,BKN,BKN,reb,0,False,False,,Durant REBOUND (Off:0 Def:3),36-51,36,51
 0022000944,2021-04-29,IND,BKN,17.37,2,6,38,BKN,BKN,fg_make,44,False,False,,Luwawu-Cabarrot 2' Reverse Layup (7 PTS) (Durant 6 AST),36-53,36,53

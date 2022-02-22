@@ -41,9 +41,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800364,2018-12-05,LAL,SAS,3.92,1,8,5,SAS,SAS,reb,0,False,False,,Spurs Rebound,9-8,9,8
 0021800364,2018-12-05,LAL,SAS,3.92,1,8,5,SAS,LAL,foul,3,False,False,Kuzma L.B.FOUL (P1.T2) (E.Lewis),,9-8,9,8
 0021800364,2018-12-05,LAL,SAS,4.15,1,7,51,SAS,SAS,fg_miss,5,True,False,,MISS DeRozan 3' Layup,9-8,9,8
+0021800364,2018-12-05,LAL,SAS,4.15,1,7,51,SAS,LAL,block,5,True,False,block,block,9-8,9,8
 0021800364,2018-12-05,LAL,SAS,4.15,1,7,51,SAS,SAS,reb,0,False,False,,DeRozan REBOUND (Off:1 Def:0),9-8,9,8
 0021800364,2018-12-05,LAL,SAS,4.15,1,7,51,SAS,SAS,tov,11,False,False,,Spurs Turnover: Shot Clock (T#2),9-8,9,8
-0021800364,2018-12-05,LAL,SAS,4.15,1,7,51,SAS,LAL,block,5,True,False,block,block,9-8,9,8
 0021800364,2018-12-05,LAL,SAS,4.47,1,7,32,LAL,LAL,fg_make,44,False,False,Kuzma 3' Reverse Layup (5 PTS) (Ball 3 AST),,11-8,11,8
 0021800364,2018-12-05,LAL,SAS,4.47,1,7,32,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.1 Short 0),11-8,11,8
 0021800364,2018-12-05,LAL,SAS,4.85,1,7,9,SAS,SAS,fg_miss,98,False,False,,MISS Cunningham 2' Cutting Layup Shot,11-8,11,8
@@ -277,8 +277,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800364,2018-12-05,LAL,SAS,30.93,3,5,4,LAL,LAL,tov,2,False,True,Mykhailiuk Lost Ball Turnover (P2.T11),,60-69,60,69
 0021800364,2018-12-05,LAL,SAS,30.93,3,5,4,LAL,SAS,steal,2,False,True,steal,steal,60-69,60,69
 0021800364,2018-12-05,LAL,SAS,31.08,3,4,55,SAS,SAS,tov,1,False,True,,Gay Bad Pass Turnover (P2.T8),60-69,60,69
-0021800364,2018-12-05,LAL,SAS,31.08,3,4,55,LAL,SAS,foul,28,False,False,,Gay Personal Take Foul (P2.T4) (J.Tiven),60-69,60,69
 0021800364,2018-12-05,LAL,SAS,31.08,3,4,55,SAS,LAL,steal,1,False,True,steal,steal,60-69,60,69
+0021800364,2018-12-05,LAL,SAS,31.08,3,4,55,LAL,SAS,foul,28,False,False,,Gay Personal Take Foul (P2.T4) (J.Tiven),60-69,60,69
 0021800364,2018-12-05,LAL,SAS,31.17,3,4,50,LAL,LAL,fg_miss,1,False,False,MISS Caldwell-Pope 16' Jump Shot,,60-69,60,69
 0021800364,2018-12-05,LAL,SAS,31.23,3,4,46,SAS,SAS,reb,0,False,False,,Aldridge REBOUND (Off:2 Def:4),60-69,60,69
 0021800364,2018-12-05,LAL,SAS,31.37,3,4,38,SAS,SAS,fg3_miss,1,False,False,,MISS Gay 25' 3PT Jump Shot,60-69,60,69
@@ -351,8 +351,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800364,2018-12-05,LAL,SAS,37.8,4,10,12,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 5 Short 0),,83-91,83,91
 0021800364,2018-12-05,LAL,SAS,38.02,4,9,59,LAL,LAL,fg_make,52,False,False,McGee 2' Alley Oop Dunk (8 PTS) (James 4 AST),,85-91,85,91
 0021800364,2018-12-05,LAL,SAS,38.23,4,9,46,SAS,SAS,tov,1,False,True,,Gay Bad Pass Turnover (P3.T10),85-91,85,91
-0021800364,2018-12-05,LAL,SAS,38.23,4,9,46,LAL,SAS,foul,28,False,False,,Gay Personal Take Foul (P3.T2) (J.Tiven),85-91,85,91
 0021800364,2018-12-05,LAL,SAS,38.23,4,9,46,SAS,LAL,steal,1,False,True,steal,steal,85-91,85,91
+0021800364,2018-12-05,LAL,SAS,38.23,4,9,46,LAL,SAS,foul,28,False,False,,Gay Personal Take Foul (P3.T2) (J.Tiven),85-91,85,91
 0021800364,2018-12-05,LAL,SAS,38.57,4,9,26,LAL,LAL,fg_make,6,False,False,James 2' Driving Layup (24 PTS),,87-91,87,91
 0021800364,2018-12-05,LAL,SAS,38.78,4,9,13,SAS,SAS,fg_make,1,False,False,,DeRozan 17' Jump Shot (24 PTS),87-93,87,93
 0021800364,2018-12-05,LAL,SAS,39.13,4,8,52,LAL,LAL,fg_miss,6,False,False,MISS James 5' Driving Layup,,87-93,87,93
@@ -399,9 +399,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800364,2018-12-05,LAL,SAS,43.12,4,4,53,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 3PT Jump Shot,,99-97,99,97
 0021800364,2018-12-05,LAL,SAS,43.22,4,4,47,SAS,SAS,reb,0,False,False,,Forbes REBOUND (Off:0 Def:3),99-97,99,97
 0021800364,2018-12-05,LAL,SAS,43.52,4,4,29,SAS,SAS,fg_miss,47,False,False,,MISS Gay 10' Turnaround Jump Shot,99-97,99,97
-0021800364,2018-12-05,LAL,SAS,43.53,4,4,28,SAS,SAS,reb,0,False,False,,Aldridge REBOUND (Off:3 Def:6),99-97,99,97
 0021800364,2018-12-05,LAL,SAS,43.53,4,4,28,SAS,SAS,fg_make,58,False,False,,Aldridge Turnaround Hook Shot (16 PTS),99-99,99,99
 0021800364,2018-12-05,LAL,SAS,43.53,4,4,28,SAS,LAL,foul,2,False,False,Chandler S.FOUL (P1.T4) (E.Lewis),,99-99,99,99
+0021800364,2018-12-05,LAL,SAS,43.53,4,4,28,SAS,SAS,reb,0,False,False,,Aldridge REBOUND (Off:3 Def:6),99-97,99,97
 0021800364,2018-12-05,LAL,SAS,43.53,4,4,28,SAS,SAS,ft_make,10,False,False,,Aldridge Free Throw 1 of 1 (17 PTS),99-100,99,100
 0021800364,2018-12-05,LAL,SAS,43.73,4,4,16,LAL,SAS,foul,2,False,False,,Gay S.FOUL (P5.PN) (J.Tiven),99-100,99,100
 0021800364,2018-12-05,LAL,SAS,43.73,4,4,16,LAL,LAL,ft_make,11,False,False,Kuzma Free Throw 1 of 2 (19 PTS),,100-100,100,100

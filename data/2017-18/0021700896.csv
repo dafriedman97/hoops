@@ -30,9 +30,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700896,2018-02-25,DEN,HOU,3.25,1,8,45,DEN,DEN,fg3_miss,1,False,False,MISS Chandler 25' 3PT Jump Shot,,5-10,5,10
 0021700896,2018-02-25,DEN,HOU,3.32,1,8,41,HOU,HOU,reb,0,False,False,,Capela REBOUND (Off:0 Def:1),5-10,5,10
 0021700896,2018-02-25,DEN,HOU,3.68,1,8,19,HOU,HOU,fg_miss,79,True,False,,MISS Paul 7' Pullup Jump Shot,5-10,5,10
+0021700896,2018-02-25,DEN,HOU,3.68,1,8,19,HOU,DEN,block,79,True,False,block,block,5-10,5,10
 0021700896,2018-02-25,DEN,HOU,3.68,1,8,19,HOU,HOU,reb,0,False,False,,Rockets Rebound,5-10,5,10
 0021700896,2018-02-25,DEN,HOU,3.68,1,8,19,HOU,HOU,tov,11,False,False,,Rockets Turnover: Shot Clock (T#2),5-10,5,10
-0021700896,2018-02-25,DEN,HOU,3.68,1,8,19,HOU,DEN,block,79,True,False,block,block,5-10,5,10
 0021700896,2018-02-25,DEN,HOU,3.83,1,8,10,DEN,DEN,fg_miss,1,False,False,MISS Jokic 18' Jump Shot,,5-10,5,10
 0021700896,2018-02-25,DEN,HOU,3.88,1,8,7,HOU,HOU,reb,0,False,False,,Harden REBOUND (Off:0 Def:1),5-10,5,10
 0021700896,2018-02-25,DEN,HOU,3.92,1,8,5,HOU,HOU,fg_make,50,False,False,,Ariza Running Dunk (2 PTS) (Harden 2 AST),5-12,5,12
@@ -41,8 +41,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700896,2018-02-25,DEN,HOU,4.23,1,7,46,DEN,HOU,foul,26,False,False,,Harden Offensive Charge Foul (P1.T2) (M.Davis),5-12,5,12
 0021700896,2018-02-25,DEN,HOU,4.23,1,7,46,HOU,HOU,tov,37,False,False,,Harden Offensive Foul Turnover (P1.T3),5-12,5,12
 0021700896,2018-02-25,DEN,HOU,4.55,1,7,27,DEN,DEN,tov,1,False,True,Chandler Bad Pass Turnover (P1.T2),,5-12,5,12
-0021700896,2018-02-25,DEN,HOU,4.55,1,7,27,HOU,DEN,foul,1,False,False,Jokic P.FOUL (P1.T1) (M.Davis),,5-12,5,12
 0021700896,2018-02-25,DEN,HOU,4.55,1,7,27,DEN,HOU,steal,1,False,True,steal,steal,5-12,5,12
+0021700896,2018-02-25,DEN,HOU,4.55,1,7,27,HOU,DEN,foul,1,False,False,Jokic P.FOUL (P1.T1) (M.Davis),,5-12,5,12
 0021700896,2018-02-25,DEN,HOU,4.82,1,7,11,HOU,HOU,fg3_make,1,False,False,,Harden 25' 3PT Jump Shot (3 PTS) (Paul 3 AST),5-15,5,15
 0021700896,2018-02-25,DEN,HOU,4.85,1,7,9,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 1 Short 0),,5-15,5,15
 0021700896,2018-02-25,DEN,HOU,5.1,1,6,54,DEN,DEN,tov,40,False,False,Murray Out of Bounds Lost Ball Turnover (P1.T3),,5-15,5,15
@@ -181,8 +181,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700896,2018-02-25,DEN,HOU,19.38,2,4,37,DEN,DEN,reb,0,False,False,Barton REBOUND (Off:1 Def:5),,42-52,42,52
 0021700896,2018-02-25,DEN,HOU,19.43,2,4,34,DEN,HOU,foul,2,False,False,,Mbah a Moute S.FOUL (P2.T2) (D.Taylor),42-52,42,52
 0021700896,2018-02-25,DEN,HOU,19.43,2,4,34,DEN,DEN,ft_miss,11,False,False,MISS Beasley Free Throw 1 of 2,,42-52,42,52
-0021700896,2018-02-25,DEN,HOU,19.43,2,4,34,DEN,DEN,reb,1,False,False,NUGGETS Rebound,,42-52,42,52
 0021700896,2018-02-25,DEN,HOU,19.43,2,4,34,DEN,DEN,ft_make,12,False,False,Beasley Free Throw 2 of 2 (6 PTS),,43-52,43,52
+0021700896,2018-02-25,DEN,HOU,19.43,2,4,34,DEN,DEN,reb,1,False,False,NUGGETS Rebound,,42-52,42,52
 0021700896,2018-02-25,DEN,HOU,19.75,2,4,15,HOU,DEN,foul,2,False,False,Harris S.FOUL (P1.PN) (D.Taylor),,43-52,43,52
 0021700896,2018-02-25,DEN,HOU,19.75,2,4,15,HOU,HOU,ft_make,11,False,False,,Harden Free Throw 1 of 2 (23 PTS),43-53,43,53
 0021700896,2018-02-25,DEN,HOU,19.75,2,4,15,HOU,HOU,ft_make,12,False,False,,Harden Free Throw 2 of 2 (24 PTS),43-54,43,54
@@ -271,13 +271,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700896,2018-02-25,DEN,HOU,28.32,3,7,41,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 3 Short 0),,65-77,65,77
 0021700896,2018-02-25,DEN,HOU,28.58,3,7,25,DEN,DEN,fg_make,73,False,False,Harris 2' Driving Reverse Layup (3 PTS) (Jokic 5 AST),,67-77,67,77
 0021700896,2018-02-25,DEN,HOU,28.72,3,7,17,HOU,HOU,fg_miss,6,True,False,,MISS Harden 6' Driving Layup,67-77,67,77
-0021700896,2018-02-25,DEN,HOU,28.72,3,7,17,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,67-77,67,77
 0021700896,2018-02-25,DEN,HOU,28.72,3,7,17,HOU,DEN,block,6,True,False,block,block,67-77,67,77
+0021700896,2018-02-25,DEN,HOU,28.72,3,7,17,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,67-77,67,77
 0021700896,2018-02-25,DEN,HOU,29.0,3,7,0,DEN,DEN,fg_miss,58,False,False,MISS Jokic 3' Turnaround Hook Shot,,67-77,67,77
 0021700896,2018-02-25,DEN,HOU,29.03,3,6,58,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:5 Def:5),,67-77,67,77
 0021700896,2018-02-25,DEN,HOU,29.07,3,6,56,DEN,DEN,fg_miss,5,True,False,MISS Jokic 2' Layup,,67-77,67,77
-0021700896,2018-02-25,DEN,HOU,29.07,3,6,56,HOU,HOU,reb,0,False,False,,Paul REBOUND (Off:1 Def:2),67-77,67,77
 0021700896,2018-02-25,DEN,HOU,29.07,3,6,56,DEN,HOU,block,5,True,False,block,block,67-77,67,77
+0021700896,2018-02-25,DEN,HOU,29.07,3,6,56,HOU,HOU,reb,0,False,False,,Paul REBOUND (Off:1 Def:2),67-77,67,77
 0021700896,2018-02-25,DEN,HOU,29.3,3,6,42,HOU,HOU,fg3_miss,80,False,False,,MISS Paul 25' 3PT Step Back Jump Shot,67-77,67,77
 0021700896,2018-02-25,DEN,HOU,29.37,3,6,38,HOU,HOU,reb,0,False,False,,Paul REBOUND (Off:2 Def:2),67-77,67,77
 0021700896,2018-02-25,DEN,HOU,29.73,3,6,16,HOU,HOU,fg3_miss,63,False,False,,MISS Harden 3PT Fadeaway Jumper,67-77,67,77

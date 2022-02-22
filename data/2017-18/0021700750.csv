@@ -69,8 +69,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700750,2018-01-30,SAS,DEN,9.55,1,2,27,DEN,DEN,fg3_miss,79,False,False,,MISS Murray 24' 3PT Pullup Jump Shot,28-23,28,23
 0021700750,2018-01-30,SAS,DEN,9.6,1,2,24,SAS,SAS,reb,0,False,False,Bertans REBOUND (Off:0 Def:3),,28-23,28,23
 0021700750,2018-01-30,SAS,DEN,9.75,1,2,15,SAS,SAS,fg_miss,75,False,False,MISS Parker 1' Driving Finger Roll Layup,,28-23,28,23
-0021700750,2018-01-30,SAS,DEN,9.77,1,2,14,SAS,SAS,fg_miss,97,False,False,MISS Gasol 2' Tip Layup Shot,,28-23,28,23
 0021700750,2018-01-30,SAS,DEN,9.77,1,2,14,SAS,SAS,reb,0,False,False,Gasol REBOUND (Off:3 Def:1),,28-23,28,23
+0021700750,2018-01-30,SAS,DEN,9.77,1,2,14,SAS,SAS,fg_miss,97,False,False,MISS Gasol 2' Tip Layup Shot,,28-23,28,23
 0021700750,2018-01-30,SAS,DEN,9.78,1,2,13,SAS,SAS,reb,0,False,False,Gasol REBOUND (Off:1 Def:1),,28-23,28,23
 0021700750,2018-01-30,SAS,DEN,9.8,1,2,12,SAS,SAS,fg_miss,97,False,False,MISS Gasol 3' Tip Layup Shot,,28-23,28,23
 0021700750,2018-01-30,SAS,DEN,9.83,1,2,10,SAS,SAS,reb,0,False,False,Gasol REBOUND (Off:3 Def:1),,28-23,28,23
@@ -100,14 +100,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700750,2018-01-30,SAS,DEN,11.97,1,0,2,SAS,DEN,steal,1,False,True,steal,steal,30-30,30,30
 0021700750,2018-01-30,SAS,DEN,12.0,1,0,0,DEN,DEN,tov,4,False,False,,Barton Traveling Turnover (P1.T4),30-30,30,30
 0021700750,2018-01-30,SAS,DEN,12.0,1,0,0,SAS,SAS,fg3_miss,1,True,False,MISS Ginobili 3PT Jump Shot,,30-30,30,30
+0021700750,2018-01-30,SAS,DEN,12.0,1,0,0,SAS,DEN,block,1,True,False,block,block,30-30,30,30
 0021700750,2018-01-30,SAS,DEN,12.0,1,0,0,SAS,SAS,reb,0,False,False,SPURS Rebound,,30-30,30,30
 0021700750,2018-01-30,SAS,DEN,12.0,1,0,0,SAS,,period_end,0,False,False,,,30-30,30,30
 0021700750,2018-01-30,SAS,DEN,12.0,2,12,0,SAS,,period_start,0,False,False,,,30-30,30,30
-0021700750,2018-01-30,SAS,DEN,12.0,1,0,0,SAS,DEN,block,1,True,False,block,block,30-30,30,30
-0021700750,2018-01-30,SAS,DEN,12.47,2,11,32,DEN,DEN,tov,40,False,False,,Beasley Out of Bounds Lost Ball Turnover (P1.T5),30-30,30,30
 0021700750,2018-01-30,SAS,DEN,12.47,2,11,32,SAS,DEN,foul,2,False,False,,Lyles S.FOUL (P1.T1) (L.Richardson),30-30,30,30
 0021700750,2018-01-30,SAS,DEN,12.47,2,11,32,SAS,SAS,ft_make,11,False,False,Gasol Free Throw 1 of 2 (11 PTS),,31-30,31,30
 0021700750,2018-01-30,SAS,DEN,12.47,2,11,32,SAS,SAS,ft_make,12,False,False,Gasol Free Throw 2 of 2 (12 PTS),,32-30,32,30
+0021700750,2018-01-30,SAS,DEN,12.47,2,11,32,DEN,DEN,tov,40,False,False,,Beasley Out of Bounds Lost Ball Turnover (P1.T5),30-30,30,30
 0021700750,2018-01-30,SAS,DEN,12.67,2,11,20,DEN,DEN,fg_make,6,False,False,,Mudiay 3' Driving Layup (2 PTS),32-32,32,32
 0021700750,2018-01-30,SAS,DEN,13.03,2,10,58,SAS,SAS,fg_make,78,False,False,Bertans 4' Floating Jump Shot (4 PTS) (Ginobili 2 AST),,34-32,34,32
 0021700750,2018-01-30,SAS,DEN,13.13,2,10,52,DEN,DEN,fg_make,79,False,False,,Mudiay 18' Pullup Jump Shot (4 PTS),34-34,34,34
@@ -116,8 +116,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700750,2018-01-30,SAS,DEN,13.88,2,10,7,SAS,SAS,fg3_miss,1,False,False,MISS Parker 3PT Jump Shot,,36-36,36,36
 0021700750,2018-01-30,SAS,DEN,13.88,2,10,7,SAS,SAS,reb,0,False,False,Gasol REBOUND (Off:5 Def:1),,36-36,36,36
 0021700750,2018-01-30,SAS,DEN,14.03,2,9,58,SAS,SAS,fg_miss,99,True,False,MISS Mills 2' Cutting Finger Roll Layup Shot,,36-36,36,36
-0021700750,2018-01-30,SAS,DEN,14.03,2,9,58,DEN,DEN,reb,0,False,False,,Mudiay REBOUND (Off:0 Def:1),36-36,36,36
 0021700750,2018-01-30,SAS,DEN,14.03,2,9,58,SAS,DEN,block,99,True,False,block,block,36-36,36,36
+0021700750,2018-01-30,SAS,DEN,14.03,2,9,58,DEN,DEN,reb,0,False,False,,Mudiay REBOUND (Off:0 Def:1),36-36,36,36
 0021700750,2018-01-30,SAS,DEN,14.13,2,9,52,DEN,DEN,fg3_make,1,False,False,,Barton 25' 3PT Jump Shot (7 PTS) (Mudiay 3 AST),36-39,36,39
 0021700750,2018-01-30,SAS,DEN,14.43,2,9,34,SAS,SAS,fg3_make,1,False,False,Parker 3PT Jump Shot (3 PTS) (Ginobili 3 AST),,39-39,39,39
 0021700750,2018-01-30,SAS,DEN,14.67,2,9,20,DEN,DEN,fg3_make,1,False,False,,Lyles 25' 3PT Jump Shot (5 PTS) (Mudiay 4 AST),39-42,39,42
@@ -139,26 +139,26 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700750,2018-01-30,SAS,DEN,16.67,2,7,20,SAS,SAS,fg3_miss,79,False,False,MISS Green 27' 3PT Pullup Jump Shot,,43-44,43,44
 0021700750,2018-01-30,SAS,DEN,16.67,2,7,20,DEN,DEN,reb,0,False,False,,Lyles REBOUND (Off:1 Def:3),43-44,43,44
 0021700750,2018-01-30,SAS,DEN,16.82,2,7,11,DEN,DEN,fg_miss,6,True,False,,MISS Barton 5' Driving Layup,43-44,43,44
-0021700750,2018-01-30,SAS,DEN,16.82,2,7,11,DEN,DEN,reb,0,False,False,,Mudiay REBOUND (Off:1 Def:1),43-44,43,44
 0021700750,2018-01-30,SAS,DEN,16.82,2,7,11,DEN,SAS,block,6,True,False,block,block,43-44,43,44
+0021700750,2018-01-30,SAS,DEN,16.82,2,7,11,DEN,DEN,reb,0,False,False,,Mudiay REBOUND (Off:1 Def:1),43-44,43,44
 0021700750,2018-01-30,SAS,DEN,17.05,2,6,57,DEN,DEN,fg_miss,6,True,False,,MISS Lyles 2' Driving Layup,43-44,43,44
+0021700750,2018-01-30,SAS,DEN,17.05,2,6,57,DEN,SAS,block,6,True,False,block,block,43-44,43,44
 0021700750,2018-01-30,SAS,DEN,17.05,2,6,57,DEN,DEN,reb,0,False,False,,Craig REBOUND (Off:2 Def:0),43-44,43,44
 0021700750,2018-01-30,SAS,DEN,17.05,2,6,57,DEN,SAS,foul,1,False,False,Forbes P.FOUL (P1.T1) (P.Fraher),,43-44,43,44
-0021700750,2018-01-30,SAS,DEN,17.05,2,6,57,DEN,SAS,block,6,True,False,block,block,43-44,43,44
 0021700750,2018-01-30,SAS,DEN,17.15,2,6,51,DEN,DEN,fg3_miss,79,False,False,,MISS Mudiay 25' 3PT Pullup Jump Shot,43-44,43,44
 0021700750,2018-01-30,SAS,DEN,17.15,2,6,51,SAS,SAS,reb,0,False,False,Murray REBOUND (Off:2 Def:2),,43-44,43,44
 0021700750,2018-01-30,SAS,DEN,17.45,2,6,33,SAS,SAS,fg_miss,47,False,False,MISS Aldridge 13' Turnaround Jump Shot,,43-44,43,44
 0021700750,2018-01-30,SAS,DEN,17.45,2,6,33,DEN,DEN,reb,0,False,False,,Arthur REBOUND (Off:0 Def:3),43-44,43,44
 0021700750,2018-01-30,SAS,DEN,17.65,2,6,21,DEN,DEN,fg_miss,6,True,False,,MISS Craig 3' Driving Layup,43-44,43,44
-0021700750,2018-01-30,SAS,DEN,17.65,2,6,21,DEN,DEN,reb,0,False,False,,Nuggets Rebound,43-44,43,44
 0021700750,2018-01-30,SAS,DEN,17.65,2,6,21,DEN,SAS,block,6,True,False,block,block,43-44,43,44
+0021700750,2018-01-30,SAS,DEN,17.65,2,6,21,DEN,DEN,reb,0,False,False,,Nuggets Rebound,43-44,43,44
 0021700750,2018-01-30,SAS,DEN,17.72,2,6,17,DEN,SAS,foul,2,False,False,Aldridge S.FOUL (P2.T2) (L.Richardson),,43-44,43,44
 0021700750,2018-01-30,SAS,DEN,17.72,2,6,17,DEN,DEN,ft_make,11,False,False,,Harris Free Throw 1 of 2 (10 PTS),43-45,43,45
 0021700750,2018-01-30,SAS,DEN,17.72,2,6,17,DEN,DEN,ft_make,12,False,False,,Harris Free Throw 2 of 2 (11 PTS),43-46,43,46
 0021700750,2018-01-30,SAS,DEN,18.0,2,6,0,SAS,SAS,fg_make,79,False,False,Green 15' Pullup Jump Shot (4 PTS) (Murray 4 AST),,45-46,45,46
 0021700750,2018-01-30,SAS,DEN,18.3,2,5,42,DEN,DEN,fg_miss,75,True,False,,MISS Harris 2' Driving Finger Roll Layup,45-46,45,46
-0021700750,2018-01-30,SAS,DEN,18.3,2,5,42,SAS,SAS,reb,0,False,False,Anderson REBOUND (Off:1 Def:1),,45-46,45,46
 0021700750,2018-01-30,SAS,DEN,18.3,2,5,42,DEN,SAS,block,75,True,False,block,block,45-46,45,46
+0021700750,2018-01-30,SAS,DEN,18.3,2,5,42,SAS,SAS,reb,0,False,False,Anderson REBOUND (Off:1 Def:1),,45-46,45,46
 0021700750,2018-01-30,SAS,DEN,18.4,2,5,36,SAS,SAS,fg3_miss,79,False,False,MISS Green 26' 3PT Pullup Jump Shot,,45-46,45,46
 0021700750,2018-01-30,SAS,DEN,18.4,2,5,36,SAS,SAS,reb,0,False,False,Green REBOUND (Off:1 Def:1),,45-46,45,46
 0021700750,2018-01-30,SAS,DEN,18.68,2,5,19,SAS,SAS,fg_make,57,False,False,Aldridge 9' Driving Hook Shot (14 PTS),,47-46,47,46
@@ -225,8 +225,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700750,2018-01-30,SAS,DEN,26.12,3,9,53,SAS,SAS,fg_miss,75,False,False,MISS Green 2' Driving Finger Roll Layup,,62-59,62,59
 0021700750,2018-01-30,SAS,DEN,26.12,3,9,53,SAS,SAS,reb,0,False,False,Aldridge REBOUND (Off:1 Def:1),,62-59,62,59
 0021700750,2018-01-30,SAS,DEN,26.12,3,9,53,SAS,SAS,fg_miss,72,True,False,MISS Aldridge 1' Putback Layup,,62-59,62,59
-0021700750,2018-01-30,SAS,DEN,26.12,3,9,53,SAS,SAS,reb,0,False,False,SPURS Rebound,,62-59,62,59
 0021700750,2018-01-30,SAS,DEN,26.12,3,9,53,SAS,DEN,block,72,True,False,block,block,62-59,62,59
+0021700750,2018-01-30,SAS,DEN,26.12,3,9,53,SAS,SAS,reb,0,False,False,SPURS Rebound,,62-59,62,59
 0021700750,2018-01-30,SAS,DEN,26.32,3,9,41,SAS,SAS,fg_make,98,False,False,Anderson 2' Cutting Layup Shot (8 PTS) (Gasol 2 AST),,64-59,64,59
 0021700750,2018-01-30,SAS,DEN,26.5,3,9,30,DEN,DEN,tov,45,False,False,,Arthur Out of Bounds - Bad Pass Turnover Turnover (P1.T10),64-59,64,59
 0021700750,2018-01-30,SAS,DEN,26.63,3,9,22,DEN,SAS,foul,4,False,False,Gasol OFF.Foul (P1) (L.Richardson),,64-59,64,59
@@ -326,8 +326,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700750,2018-01-30,SAS,DEN,37.98,4,10,1,SAS,SAS,fg_make,98,False,False,Gasol 1' Cutting Layup Shot (18 PTS) (Murray 6 AST),,86-85,86,85
 0021700750,2018-01-30,SAS,DEN,38.18,4,9,49,DEN,DEN,fg_make,79,False,False,,Mudiay 15' Pullup Jump Shot (12 PTS),86-87,86,87
 0021700750,2018-01-30,SAS,DEN,38.47,4,9,32,SAS,SAS,tov,1,False,True,Murray Bad Pass Turnover (P2.T15),,86-87,86,87
-0021700750,2018-01-30,SAS,DEN,38.47,4,9,32,DEN,SAS,foul,1,False,False,Ginobili P.FOUL (P1.T1) (L.Richardson),,86-87,86,87
 0021700750,2018-01-30,SAS,DEN,38.47,4,9,32,SAS,DEN,steal,1,False,True,steal,steal,86-87,86,87
+0021700750,2018-01-30,SAS,DEN,38.47,4,9,32,DEN,SAS,foul,1,False,False,Ginobili P.FOUL (P1.T1) (L.Richardson),,86-87,86,87
 0021700750,2018-01-30,SAS,DEN,38.6,4,9,24,DEN,DEN,fg_miss,6,False,False,,MISS Mudiay 2' Driving Layup,86-87,86,87
 0021700750,2018-01-30,SAS,DEN,38.63,4,9,22,SAS,SAS,reb,0,False,False,Murray REBOUND (Off:2 Def:8),,86-87,86,87
 0021700750,2018-01-30,SAS,DEN,38.72,4,9,17,SAS,SAS,fg3_miss,1,False,False,MISS Forbes 25' 3PT Jump Shot,,86-87,86,87
@@ -353,8 +353,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700750,2018-01-30,SAS,DEN,41.18,4,6,49,SAS,SAS,fg_miss,79,False,False,MISS Anderson 8' Pullup Jump Shot,,92-91,92,91
 0021700750,2018-01-30,SAS,DEN,41.2,4,6,48,SAS,SAS,reb,0,False,False,Aldridge REBOUND (Off:3 Def:2),,92-91,92,91
 0021700750,2018-01-30,SAS,DEN,41.22,4,6,47,SAS,SAS,fg_miss,72,True,False,MISS Aldridge 1' Putback Layup,,92-91,92,91
-0021700750,2018-01-30,SAS,DEN,41.22,4,6,47,DEN,DEN,reb,0,False,False,,Jefferson REBOUND (Off:0 Def:1),92-91,92,91
 0021700750,2018-01-30,SAS,DEN,41.22,4,6,47,SAS,DEN,block,72,True,False,block,block,92-91,92,91
+0021700750,2018-01-30,SAS,DEN,41.22,4,6,47,DEN,DEN,reb,0,False,False,,Jefferson REBOUND (Off:0 Def:1),92-91,92,91
 0021700750,2018-01-30,SAS,DEN,41.47,4,6,32,DEN,DEN,fg_miss,80,False,False,,MISS Mudiay 12' Step Back Jump Shot,92-91,92,91
 0021700750,2018-01-30,SAS,DEN,41.5,4,6,30,SAS,SAS,reb,0,False,False,Murray REBOUND (Off:3 Def:10),,92-91,92,91
 0021700750,2018-01-30,SAS,DEN,41.73,4,6,16,SAS,SAS,tov,1,False,True,Green Bad Pass Turnover (P2.T16),,92-91,92,91

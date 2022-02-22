@@ -14,8 +14,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900297,2019-12-02,MIL,NYK,1.82,1,10,11,MIL,MIL,fg_miss,63,False,False,MISS Antetokounmpo 14' Fadeaway Jumper,,7-2,7,2
 0021900297,2019-12-02,MIL,NYK,1.85,1,10,9,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:1 Def:0),,7-2,7,2
 0021900297,2019-12-02,MIL,NYK,1.87,1,10,8,MIL,MIL,fg_miss,1,True,False,MISS Antetokounmpo 6' Jump Shot,,7-2,7,2
-0021900297,2019-12-02,MIL,NYK,1.87,1,10,8,NYK,NYK,reb,0,False,False,,Knicks Rebound,7-2,7,2
 0021900297,2019-12-02,MIL,NYK,1.87,1,10,8,MIL,NYK,block,1,True,False,block,block,7-2,7,2
+0021900297,2019-12-02,MIL,NYK,1.87,1,10,8,NYK,NYK,reb,0,False,False,,Knicks Rebound,7-2,7,2
 0021900297,2019-12-02,MIL,NYK,2.2,1,9,48,NYK,NYK,fg_miss,63,False,False,,MISS Randle 11' Fadeaway Jumper,7-2,7,2
 0021900297,2019-12-02,MIL,NYK,2.25,1,9,45,MIL,MIL,reb,0,False,False,Middleton REBOUND (Off:0 Def:1),,7-2,7,2
 0021900297,2019-12-02,MIL,NYK,2.25,1,9,45,MIL,NYK,foul,1,False,False,,Knox II P.FOUL (P2.T2) (R.Acosta),7-2,7,2
@@ -141,11 +141,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900297,2019-12-02,MIL,NYK,13.13,2,10,52,MIL,NYK,foul,2,False,False,,Portis S.FOUL (P1.T2) (B.Forte),38-20,38,20
 0021900297,2019-12-02,MIL,NYK,13.13,2,10,52,MIL,MIL,ft_make,10,False,False,G. Hill Free Throw 1 of 1 (9 PTS),,39-20,39,20
 0021900297,2019-12-02,MIL,NYK,13.4,2,10,36,NYK,NYK,fg_miss,5,True,False,,MISS Randle 6' Layup,39-20,39,20
+0021900297,2019-12-02,MIL,NYK,13.4,2,10,36,NYK,MIL,block,5,True,False,block,block,39-20,39,20
 0021900297,2019-12-02,MIL,NYK,13.4,2,10,36,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:1 Def:2),39-20,39,20
 0021900297,2019-12-02,MIL,NYK,13.4,2,10,36,NYK,MIL,foul,2,False,False,Wilson S.FOUL (P1.T2) (R.Acosta),,39-20,39,20
 0021900297,2019-12-02,MIL,NYK,13.4,2,10,36,NYK,NYK,ft_miss,11,False,False,,MISS Randle Free Throw 1 of 2,39-20,39,20
 0021900297,2019-12-02,MIL,NYK,13.4,2,10,36,NYK,NYK,reb,1,False,False,,Knicks Rebound,39-20,39,20
-0021900297,2019-12-02,MIL,NYK,13.4,2,10,36,NYK,MIL,block,5,True,False,block,block,39-20,39,20
 0021900297,2019-12-02,MIL,NYK,13.4,2,10,36,NYK,NYK,ft_make,12,False,False,,Randle Free Throw 2 of 2 (8 PTS),39-21,39,21
 0021900297,2019-12-02,MIL,NYK,13.73,2,10,16,MIL,MIL,fg3_make,1,False,False,Wilson 26' 3PT Jump Shot (3 PTS) (Korver 1 AST),,42-21,42,21
 0021900297,2019-12-02,MIL,NYK,13.98,2,10,1,NYK,NYK,fg3_make,1,False,False,,Trier 27' 3PT Jump Shot (3 PTS) (Gibson 1 AST),42-24,42,24
@@ -164,9 +164,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900297,2019-12-02,MIL,NYK,15.52,2,8,29,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:1 Def:7),,46-24,46,24
 0021900297,2019-12-02,MIL,NYK,15.65,2,8,21,MIL,MIL,fg3_make,1,False,False,Antetokounmpo 30' 3PT Jump Shot (13 PTS) (Korver 3 AST),,49-24,49,24
 0021900297,2019-12-02,MIL,NYK,16.07,2,7,56,NYK,NYK,fg_miss,6,False,False,,MISS Knox II 4' Driving Layup,49-24,49,24
+0021900297,2019-12-02,MIL,NYK,16.17,2,7,50,NYK,NYK,reb,0,False,False,,Knox II REBOUND (Off:1 Def:0),49-24,49,24
 0021900297,2019-12-02,MIL,NYK,16.17,2,7,50,NYK,NYK,fg_miss,97,False,False,,MISS Knox II 1' Tip Layup Shot,49-24,49,24
 0021900297,2019-12-02,MIL,NYK,16.17,2,7,50,NYK,NYK,reb,0,False,False,,Gibson REBOUND (Off:1 Def:2),49-24,49,24
-0021900297,2019-12-02,MIL,NYK,16.17,2,7,50,NYK,NYK,reb,0,False,False,,Knox II REBOUND (Off:1 Def:0),49-24,49,24
 0021900297,2019-12-02,MIL,NYK,16.18,2,7,49,NYK,NYK,fg_miss,97,False,False,,MISS Gibson 2' Tip Layup Shot,49-24,49,24
 0021900297,2019-12-02,MIL,NYK,16.18,2,7,49,NYK,NYK,reb,0,False,False,,Gibson REBOUND (Off:2 Def:2),49-24,49,24
 0021900297,2019-12-02,MIL,NYK,16.23,2,7,46,NYK,NYK,fg_miss,97,False,False,,MISS Gibson 1' Tip Layup Shot,49-24,49,24
@@ -292,8 +292,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900297,2019-12-02,MIL,NYK,28.25,3,7,45,NYK,NYK,fg_miss,75,False,False,,MISS Knox II 2' Driving Finger Roll Layup,84-52,84,52
 0021900297,2019-12-02,MIL,NYK,28.32,3,7,41,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:1 Def:13),,84-52,84,52
 0021900297,2019-12-02,MIL,NYK,28.4,3,7,36,MIL,MIL,fg3_miss,1,False,False,MISS Middleton 3PT Jump Shot,,84-52,84,52
-0021900297,2019-12-02,MIL,NYK,28.42,3,7,35,NYK,NYK,reb,0,False,False,,Knicks Rebound,84-52,84,52
 0021900297,2019-12-02,MIL,NYK,28.42,3,7,35,NYK,NYK,timeout,1,False,False,,Knicks Timeout: Regular (Reg.3 Short 0),84-52,84,52
+0021900297,2019-12-02,MIL,NYK,28.42,3,7,35,NYK,NYK,reb,0,False,False,,Knicks Rebound,84-52,84,52
 0021900297,2019-12-02,MIL,NYK,28.5,3,7,30,,MIL,jump_ball,1,False,False,Jump Ball (CC) Antetokounmpo vs. Gibson: Tip to Smith Jr.,,84-52,84,52
 0021900297,2019-12-02,MIL,NYK,28.7,3,7,18,NYK,NYK,fg3_miss,1,False,False,,MISS Barrett 26' 3PT Jump Shot,84-52,84,52
 0021900297,2019-12-02,MIL,NYK,28.77,3,7,14,MIL,MIL,reb,0,False,False,Bledsoe REBOUND (Off:0 Def:5),,84-52,84,52
@@ -303,17 +303,17 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900297,2019-12-02,MIL,NYK,29.17,3,6,50,NYK,NYK,fg_miss,52,False,False,,MISS Barrett 2' Alley Oop Dunk,86-52,86,52
 0021900297,2019-12-02,MIL,NYK,29.2,3,6,48,MIL,MIL,reb,0,False,False,Bledsoe REBOUND (Off:0 Def:6),,86-52,86,52
 0021900297,2019-12-02,MIL,NYK,29.35,3,6,39,MIL,MIL,fg_miss,5,True,False,MISS Bledsoe 4' Layup,,86-52,86,52
-0021900297,2019-12-02,MIL,NYK,29.35,3,6,39,MIL,MIL,reb,0,False,False,BUCKS Rebound,,86-52,86,52
 0021900297,2019-12-02,MIL,NYK,29.35,3,6,39,MIL,NYK,block,5,True,False,block,block,86-52,86,52
+0021900297,2019-12-02,MIL,NYK,29.35,3,6,39,MIL,MIL,reb,0,False,False,BUCKS Rebound,,86-52,86,52
 0021900297,2019-12-02,MIL,NYK,29.47,3,6,32,MIL,MIL,fg_miss,63,False,False,MISS Matthews 8' Fadeaway Jumper,,86-52,86,52
 0021900297,2019-12-02,MIL,NYK,29.5,3,6,30,NYK,NYK,reb,0,False,False,,Knox II REBOUND (Off:1 Def:1),86-52,86,52
 0021900297,2019-12-02,MIL,NYK,29.65,3,6,21,NYK,NYK,fg3_miss,1,False,False,,MISS Knox II 26' 3PT Jump Shot,86-52,86,52
 0021900297,2019-12-02,MIL,NYK,29.72,3,6,17,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:1 Def:14),,86-52,86,52
 0021900297,2019-12-02,MIL,NYK,29.75,3,6,15,MIL,NYK,foul,2,False,False,,Randle S.FOUL (P3.T4) (E.Lewis),86-52,86,52
-0021900297,2019-12-02,MIL,NYK,29.75,3,6,15,MIL,MIL,fg_make,41,False,False,Antetokounmpo 1' Running Layup (26 PTS),,88-52,88,52
 0021900297,2019-12-02,MIL,NYK,29.75,3,6,15,MIL,NYK,foul,13,False,False,,Smith Jr. HANGING.TECH.FOUL (P1.T4) (E.Lewis),88-52,88,52
 0021900297,2019-12-02,MIL,NYK,29.75,3,6,15,MIL,MIL,ft_make,16,False,False,Matthews Free Throw Technical (6 PTS),,89-52,89,52
 0021900297,2019-12-02,MIL,NYK,29.75,3,6,15,MIL,MIL,ft_make,10,False,False,Antetokounmpo Free Throw 1 of 1 (27 PTS),,90-52,90,52
+0021900297,2019-12-02,MIL,NYK,29.75,3,6,15,MIL,MIL,fg_make,41,False,False,Antetokounmpo 1' Running Layup (26 PTS),,88-52,88,52
 0021900297,2019-12-02,MIL,NYK,29.98,3,6,1,NYK,MIL,foul,1,False,False,Antetokounmpo P.FOUL (P3.PN) (E.Lewis),,90-52,90,52
 0021900297,2019-12-02,MIL,NYK,29.98,3,6,1,NYK,NYK,ft_make,11,False,False,,Smith Jr. Free Throw 1 of 2 (3 PTS),90-53,90,53
 0021900297,2019-12-02,MIL,NYK,29.98,3,6,1,NYK,NYK,ft_make,12,False,False,,Smith Jr. Free Throw 2 of 2 (4 PTS),90-54,90,54
@@ -331,8 +331,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900297,2019-12-02,MIL,NYK,31.02,3,4,59,NYK,NYK,fg_miss,1,False,False,,MISS Brazdeikis 20' Jump Shot,93-55,93,55
 0021900297,2019-12-02,MIL,NYK,31.07,3,4,56,MIL,MIL,reb,0,False,False,Ilyasova REBOUND (Off:3 Def:3),,93-55,93,55
 0021900297,2019-12-02,MIL,NYK,31.1,3,4,54,MIL,MIL,fg_miss,5,True,False,MISS DiVincenzo 2' Layup,,93-55,93,55
-0021900297,2019-12-02,MIL,NYK,31.1,3,4,54,MIL,MIL,reb,0,False,False,BUCKS Rebound,,93-55,93,55
 0021900297,2019-12-02,MIL,NYK,31.1,3,4,54,MIL,NYK,block,5,True,False,block,block,93-55,93,55
+0021900297,2019-12-02,MIL,NYK,31.1,3,4,54,MIL,MIL,reb,0,False,False,BUCKS Rebound,,93-55,93,55
 0021900297,2019-12-02,MIL,NYK,31.17,3,4,50,MIL,MIL,fg_miss,58,False,False,MISS Connaughton 4' Turnaround Hook Shot,,93-55,93,55
 0021900297,2019-12-02,MIL,NYK,31.22,3,4,47,NYK,NYK,reb,0,False,False,,Robinson REBOUND (Off:2 Def:4),93-55,93,55
 0021900297,2019-12-02,MIL,NYK,31.3,3,4,42,NYK,NYK,fg3_miss,1,False,False,,MISS Dotson 26' 3PT Jump Shot,93-55,93,55
@@ -350,8 +350,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900297,2019-12-02,MIL,NYK,33.45,3,2,33,NYK,NYK,fg3_miss,1,False,False,,MISS Portis 26' 3PT Jump Shot,98-59,98,59
 0021900297,2019-12-02,MIL,NYK,33.5,3,2,30,MIL,MIL,reb,0,False,False,Ilyasova REBOUND (Off:3 Def:4),,98-59,98,59
 0021900297,2019-12-02,MIL,NYK,33.65,3,2,21,MIL,MIL,fg3_miss,1,True,False,MISS DiVincenzo 24' 3PT Jump Shot,,98-59,98,59
-0021900297,2019-12-02,MIL,NYK,33.65,3,2,21,MIL,MIL,reb,0,False,False,BUCKS Rebound,,98-59,98,59
 0021900297,2019-12-02,MIL,NYK,33.65,3,2,21,MIL,NYK,block,1,True,False,block,block,98-59,98,59
+0021900297,2019-12-02,MIL,NYK,33.65,3,2,21,MIL,MIL,reb,0,False,False,BUCKS Rebound,,98-59,98,59
 0021900297,2019-12-02,MIL,NYK,33.75,3,2,15,MIL,MIL,tov,1,False,True,G. Hill Bad Pass Turnover (P1.T8),,98-59,98,59
 0021900297,2019-12-02,MIL,NYK,33.75,3,2,15,MIL,NYK,steal,1,False,True,steal,steal,98-59,98,59
 0021900297,2019-12-02,MIL,NYK,33.85,3,2,9,NYK,NYK,fg3_miss,1,False,False,,MISS Dotson 24' 3PT Jump Shot,98-59,98,59
@@ -390,8 +390,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900297,2019-12-02,MIL,NYK,37.15,4,10,51,NYK,NYK,ft_make,12,False,False,,Brazdeikis Free Throw 2 of 2 (1 PTS),100-65,100,65
 0021900297,2019-12-02,MIL,NYK,37.52,4,10,29,MIL,MIL,tov,45,False,False,Korver Out of Bounds - Bad Pass Turnover Turnover (P1.T11),,100-65,100,65
 0021900297,2019-12-02,MIL,NYK,37.68,4,10,19,NYK,NYK,fg_miss,101,False,False,,MISS Allen 11' Driving Floating Jump Shot,100-65,100,65
-0021900297,2019-12-02,MIL,NYK,37.78,4,10,13,NYK,NYK,fg_miss,97,False,False,,MISS Robinson 1' Tip Layup Shot,100-65,100,65
 0021900297,2019-12-02,MIL,NYK,37.78,4,10,13,NYK,NYK,reb,0,False,False,,Robinson REBOUND (Off:4 Def:8),100-65,100,65
+0021900297,2019-12-02,MIL,NYK,37.78,4,10,13,NYK,NYK,fg_miss,97,False,False,,MISS Robinson 1' Tip Layup Shot,100-65,100,65
 0021900297,2019-12-02,MIL,NYK,37.82,4,10,11,NYK,NYK,reb,0,False,False,,Robinson REBOUND (Off:5 Def:8),100-65,100,65
 0021900297,2019-12-02,MIL,NYK,37.82,4,10,11,NYK,NYK,fg_miss,97,False,False,,MISS Robinson 1' Tip Layup Shot,100-65,100,65
 0021900297,2019-12-02,MIL,NYK,37.82,4,10,11,MIL,MIL,reb,0,False,False,Bender REBOUND (Off:0 Def:1),,100-65,100,65
@@ -461,11 +461,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900297,2019-12-02,MIL,NYK,46.4,4,1,36,NYK,MIL,steal,1,False,True,steal,steal,125-85,125,85
 0021900297,2019-12-02,MIL,NYK,46.5,4,1,30,MIL,MIL,fg_make,41,False,False,Connaughton 2' Running Layup (5 PTS) (Korver 5 AST),,127-85,127,85
 0021900297,2019-12-02,MIL,NYK,46.5,4,1,30,MIL,NYK,foul,14,False,False,,Dotson FLAGRANT.FOUL.TYPE1 (P3.PN) (R.Acosta),127-85,127,85
-0021900297,2019-12-02,MIL,NYK,46.5,4,1,30,NYK,NYK,tov,0,False,False,,Dotson No Turnover (P2.T10),127-85,127,85
 0021900297,2019-12-02,MIL,NYK,46.5,4,1,30,MIL,MIL,ft_miss,18,False,False,MISS Connaughton Free Throw Flagrant 1 of 2,,127-85,127,85
 0021900297,2019-12-02,MIL,NYK,46.5,4,1,30,MIL,MIL,reb,1,False,False,BUCKS Rebound,,127-85,127,85
 0021900297,2019-12-02,MIL,NYK,46.5,4,1,30,MIL,MIL,ft_miss,19,False,False,MISS Connaughton Free Throw Flagrant 2 of 2,,127-85,127,85
 0021900297,2019-12-02,MIL,NYK,46.5,4,1,30,MIL,MIL,reb,0,False,False,BUCKS Rebound,,127-85,127,85
+0021900297,2019-12-02,MIL,NYK,46.5,4,1,30,NYK,NYK,tov,0,False,False,,Dotson No Turnover (P2.T10),127-85,127,85
 0021900297,2019-12-02,MIL,NYK,46.75,4,1,15,MIL,MIL,fg3_miss,1,False,False,MISS Korver 27' 3PT Jump Shot,,127-85,127,85
 0021900297,2019-12-02,MIL,NYK,46.83,4,1,10,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:1 Def:0),,127-85,127,85
 0021900297,2019-12-02,MIL,NYK,46.83,4,1,10,MIL,MIL,fg_make,97,False,False,Antetokounmpo 1' Tip Layup Shot (10 PTS),,129-85,129,85

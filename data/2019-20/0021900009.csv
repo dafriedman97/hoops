@@ -126,8 +126,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900009,2019-10-23,DAL,WAS,13.13,2,10,52,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:0 Def:2),,26-27,26,27
 0021900009,2019-10-23,DAL,WAS,13.23,2,10,46,DAL,DAL,fg_make,76,False,False,Jackson 3' Running Finger Roll Layup (4 PTS) (Brunson 2 AST),,28-27,28,27
 0021900009,2019-10-23,DAL,WAS,13.4,2,10,36,WAS,WAS,tov,1,False,True,,Chiozza Bad Pass Turnover (P1.T7),28-27,28,27
-0021900009,2019-10-23,DAL,WAS,13.4,2,10,36,DAL,WAS,foul,1,False,False,,Chiozza P.FOUL (P2.T2) (K.Mauer),28-27,28,27
 0021900009,2019-10-23,DAL,WAS,13.4,2,10,36,WAS,DAL,steal,1,False,True,steal,steal,28-27,28,27
+0021900009,2019-10-23,DAL,WAS,13.4,2,10,36,DAL,WAS,foul,1,False,False,,Chiozza P.FOUL (P2.T2) (K.Mauer),28-27,28,27
 0021900009,2019-10-23,DAL,WAS,13.62,2,10,23,DAL,DAL,fg_make,75,False,False,Brunson 4' Driving Finger Roll Layup (3 PTS),,30-27,30,27
 0021900009,2019-10-23,DAL,WAS,13.88,2,10,7,WAS,WAS,fg3_miss,1,False,False,,MISS Schofield 25' 3PT Jump Shot,30-27,30,27
 0021900009,2019-10-23,DAL,WAS,13.92,2,10,5,DAL,DAL,reb,0,False,False,Curry REBOUND (Off:0 Def:2),,30-27,30,27
@@ -210,8 +210,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900009,2019-10-23,DAL,WAS,22.13,2,1,52,WAS,WAS,fg_make,99,False,False,,Bonga 1' Cutting Finger Roll Layup Shot (5 PTS) (Smith 2 AST),52-44,52,44
 0021900009,2019-10-23,DAL,WAS,22.15,2,1,51,DAL,DAL,timeout,1,False,False,MAVERICKS Timeout: Regular (Full 3 Short 0),,52-44,52,44
 0021900009,2019-10-23,DAL,WAS,22.3,2,1,42,DAL,DAL,fg_miss,101,False,False,MISS Porzingis 7' Driving Floating Jump Shot,,52-44,52,44
-0021900009,2019-10-23,DAL,WAS,22.37,2,1,38,DAL,DAL,fg_make,97,False,False,Doncic 1' Tip Layup Shot (15 PTS),,54-44,54,44
 0021900009,2019-10-23,DAL,WAS,22.37,2,1,38,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:1 Def:3),,54-44,54,44
+0021900009,2019-10-23,DAL,WAS,22.37,2,1,38,DAL,DAL,fg_make,97,False,False,Doncic 1' Tip Layup Shot (15 PTS),,54-44,54,44
 0021900009,2019-10-23,DAL,WAS,22.72,2,1,17,WAS,WAS,fg_make,1,False,False,,Bryant 14' Jump Shot (10 PTS) (Beal 7 AST),54-46,54,46
 0021900009,2019-10-23,DAL,WAS,23.0,2,1,0,DAL,DAL,fg3_make,1,False,False,Finney-Smith 3PT Jump Shot (5 PTS) (Hardaway Jr. 1 AST),,57-46,57,46
 0021900009,2019-10-23,DAL,WAS,23.18,2,0,49,WAS,DAL,foul,1,False,False,Hardaway Jr. P.FOUL (P3.PN) (N.Buchert),,57-46,57,46
@@ -227,8 +227,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900009,2019-10-23,DAL,WAS,23.97,2,0,2,DAL,WAS,foul,2,False,False,,Bertans S.FOUL (P3.PN) (K.Mauer),61-48,61,48
 0021900009,2019-10-23,DAL,WAS,23.97,2,0,2,DAL,DAL,ft_make,10,False,False,Doncic Free Throw 1 of 1 (20 PTS),,62-48,62,48
 0021900009,2019-10-23,DAL,WAS,24.0,2,0,0,WAS,WAS,fg3_miss,1,False,False,,MISS Beal 58' 3PT Jump Shot,62-48,62,48
-0021900009,2019-10-23,DAL,WAS,24.0,2,0,0,WAS,WAS,reb,0,False,False,,Wizards Rebound,62-48,62,48
 0021900009,2019-10-23,DAL,WAS,24.0,2,0,0,WAS,,period_end,0,False,False,,,62-48,62,48
+0021900009,2019-10-23,DAL,WAS,24.0,2,0,0,WAS,WAS,reb,0,False,False,,Wizards Rebound,62-48,62,48
 0021900009,2019-10-23,DAL,WAS,24.0,3,12,0,WAS,,period_start,0,False,False,,,62-48,62,48
 0021900009,2019-10-23,DAL,WAS,24.22,3,11,47,WAS,WAS,fg3_miss,1,False,False,,MISS Smith 25' 3PT Jump Shot,62-48,62,48
 0021900009,2019-10-23,DAL,WAS,24.27,3,11,44,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:1 Def:5),,62-48,62,48
@@ -338,10 +338,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900009,2019-10-23,DAL,WAS,35.55,3,0,27,DAL,WAS,foul,2,False,False,,Wagner S.FOUL (P5.PN) (J.Sterling),88-68,88,68
 0021900009,2019-10-23,DAL,WAS,35.55,3,0,27,DAL,DAL,ft_make,11,False,False,Finney-Smith Free Throw 1 of 2 (9 PTS),,89-68,89,68
 0021900009,2019-10-23,DAL,WAS,35.55,3,0,27,DAL,DAL,ft_make,12,False,False,Finney-Smith Free Throw 2 of 2 (10 PTS),,90-68,90,68
-0021900009,2019-10-23,DAL,WAS,35.72,3,0,17,WAS,WAS,tov,2,False,False,,Chiozza Lost Ball Turnover (P2.T14),90-68,90,68
 0021900009,2019-10-23,DAL,WAS,35.72,3,0,17,DAL,WAS,foul,3,False,False,,Chiozza L.B.FOUL (P3.PN) (K.Mauer),90-68,90,68
 0021900009,2019-10-23,DAL,WAS,35.72,3,0,17,DAL,DAL,ft_make,11,False,False,Brunson Free Throw 1 of 2 (6 PTS),,91-68,91,68
 0021900009,2019-10-23,DAL,WAS,35.72,3,0,17,DAL,DAL,ft_miss,12,False,False,MISS Brunson Free Throw 2 of 2,,91-68,91,68
+0021900009,2019-10-23,DAL,WAS,35.72,3,0,17,WAS,WAS,tov,2,False,False,,Chiozza Lost Ball Turnover (P2.T14),90-68,90,68
 0021900009,2019-10-23,DAL,WAS,35.75,3,0,15,WAS,WAS,reb,0,False,False,,Wagner REBOUND (Off:1 Def:1),91-68,91,68
 0021900009,2019-10-23,DAL,WAS,35.9,3,0,6,WAS,DAL,foul,28,False,False,Brunson Personal Take Foul (P2.T4) (J.Sterling),,91-68,91,68
 0021900009,2019-10-23,DAL,WAS,36.0,3,0,0,WAS,WAS,fg3_miss,1,False,False,,MISS Schofield 3PT Jump Shot,91-68,91,68
@@ -399,8 +399,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900009,2019-10-23,DAL,WAS,42.42,4,5,35,DAL,DAL,fg3_miss,1,False,False,MISS Curry 25' 3PT Jump Shot,,101-87,101,87
 0021900009,2019-10-23,DAL,WAS,42.47,4,5,32,WAS,WAS,reb,0,False,False,,Chiozza REBOUND (Off:0 Def:2),101-87,101,87
 0021900009,2019-10-23,DAL,WAS,42.55,4,5,27,WAS,WAS,fg_miss,101,True,False,,MISS Chiozza 4' Driving Floating Jump Shot,101-87,101,87
-0021900009,2019-10-23,DAL,WAS,42.55,4,5,27,WAS,WAS,reb,0,False,False,,Wizards Rebound,101-87,101,87
 0021900009,2019-10-23,DAL,WAS,42.55,4,5,27,WAS,DAL,block,101,True,False,block,block,101-87,101,87
+0021900009,2019-10-23,DAL,WAS,42.55,4,5,27,WAS,WAS,reb,0,False,False,,Wizards Rebound,101-87,101,87
 0021900009,2019-10-23,DAL,WAS,42.63,4,5,22,WAS,WAS,fg_make,73,False,False,,Beal 1' Driving Reverse Layup (16 PTS),101-89,101,89
 0021900009,2019-10-23,DAL,WAS,42.85,4,5,9,DAL,WAS,foul,1,False,False,,Beal P.FOUL (P3.T4) (J.Sterling),101-89,101,89
 0021900009,2019-10-23,DAL,WAS,42.97,4,5,2,DAL,DAL,fg3_make,1,False,False,Brunson 27' 3PT Jump Shot (9 PTS) (Doncic 3 AST),,104-89,104,89
@@ -432,11 +432,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900009,2019-10-23,DAL,WAS,45.88,4,2,7,WAS,WAS,fg3_miss,1,False,False,,MISS Beal 26' 3PT Jump Shot,104-95,104,95
 0021900009,2019-10-23,DAL,WAS,45.93,4,2,4,WAS,WAS,reb,0,False,False,,Bryant REBOUND (Off:4 Def:7),104-95,104,95
 0021900009,2019-10-23,DAL,WAS,45.95,4,2,3,WAS,WAS,fg_miss,72,True,False,,MISS Bryant 2' Putback Layup,104-95,104,95
+0021900009,2019-10-23,DAL,WAS,45.95,4,2,3,WAS,DAL,block,72,True,False,block,block,104-95,104,95
 0021900009,2019-10-23,DAL,WAS,45.95,4,2,3,DAL,DAL,reb,0,False,False,Brunson REBOUND (Off:1 Def:3),,104-95,104,95
 0021900009,2019-10-23,DAL,WAS,45.95,4,2,3,DAL,WAS,foul,11,False,False,,Bryant T.FOUL (P0.T4) (J.Sterling),104-95,104,95
 0021900009,2019-10-23,DAL,WAS,45.95,4,2,3,DAL,DAL,ft_miss,16,False,False,MISS Porzingis Free Throw Technical,,104-95,104,95
 0021900009,2019-10-23,DAL,WAS,45.95,4,2,3,DAL,DAL,reb,1,False,False,MAVERICKS Rebound,,104-95,104,95
-0021900009,2019-10-23,DAL,WAS,45.95,4,2,3,WAS,DAL,block,72,True,False,block,block,104-95,104,95
 0021900009,2019-10-23,DAL,WAS,46.18,4,1,49,DAL,DAL,tov,1,False,True,Brunson Bad Pass Turnover (P4.T18),,104-95,104,95
 0021900009,2019-10-23,DAL,WAS,46.18,4,1,49,DAL,WAS,steal,1,False,True,steal,steal,104-95,104,95
 0021900009,2019-10-23,DAL,WAS,46.27,4,1,44,WAS,WAS,fg3_miss,1,False,False,,MISS Hachimura 26' 3PT Jump Shot,104-95,104,95

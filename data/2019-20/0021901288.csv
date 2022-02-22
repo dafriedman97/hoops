@@ -127,8 +127,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901288,2020-08-09,BOS,ORL,13.43,2,10,34,ORL,ORL,fg3_miss,1,False,False,,MISS Ross 25' 3PT Jump Shot,32-31,32,31
 0021901288,2020-08-09,BOS,ORL,13.5,2,10,30,BOS,BOS,reb,0,False,False,Kanter REBOUND (Off:2 Def:2),,32-31,32,31
 0021901288,2020-08-09,BOS,ORL,13.65,2,10,21,BOS,BOS,tov,1,False,True,Smart Bad Pass Turnover (P1.T4),,32-31,32,31
-0021901288,2020-08-09,BOS,ORL,13.65,2,10,21,ORL,BOS,foul,28,False,False,Hayward Personal Take Foul (P1.T2) (M.Boland),,32-31,32,31
 0021901288,2020-08-09,BOS,ORL,13.65,2,10,21,BOS,ORL,steal,1,False,True,steal,steal,32-31,32,31
+0021901288,2020-08-09,BOS,ORL,13.65,2,10,21,ORL,BOS,foul,28,False,False,Hayward Personal Take Foul (P1.T2) (M.Boland),,32-31,32,31
 0021901288,2020-08-09,BOS,ORL,13.9,2,10,6,ORL,ORL,fg_make,44,False,False,,Frazier Jr. 1' Reverse Layup (5 PTS) (Fultz 4 AST),32-33,32,33
 0021901288,2020-08-09,BOS,ORL,14.2,2,9,48,BOS,BOS,fg_make,79,False,False,Hayward 22' Pullup Jump Shot (13 PTS),,34-33,34,33
 0021901288,2020-08-09,BOS,ORL,14.55,2,9,27,ORL,ORL,fg_miss,79,False,False,,MISS Ross 15' Pullup Jump Shot,34-33,34,33
@@ -251,8 +251,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901288,2020-08-09,BOS,ORL,27.63,3,8,22,BOS,BOS,fg3_miss,1,False,False,MISS Tatum 26' 3PT Jump Shot,,60-60,60,60
 0021901288,2020-08-09,BOS,ORL,27.7,3,8,18,ORL,ORL,reb,0,False,False,,Vucevic REBOUND (Off:0 Def:5),60-60,60,60
 0021901288,2020-08-09,BOS,ORL,27.77,3,8,14,ORL,ORL,tov,1,False,True,,Augustin Bad Pass Turnover (P3.T7),60-60,60,60
-0021901288,2020-08-09,BOS,ORL,27.77,3,8,14,BOS,ORL,foul,1,False,False,,Iwundu P.FOUL (P3.T2) (B.Taylor),60-60,60,60
 0021901288,2020-08-09,BOS,ORL,27.77,3,8,14,ORL,BOS,steal,1,False,True,steal,steal,60-60,60,60
+0021901288,2020-08-09,BOS,ORL,27.77,3,8,14,BOS,ORL,foul,1,False,False,,Iwundu P.FOUL (P3.T2) (B.Taylor),60-60,60,60
 0021901288,2020-08-09,BOS,ORL,27.97,3,8,2,BOS,BOS,fg_make,108,False,False,Theis 1' Cutting Dunk Shot (2 PTS) (Walker 4 AST),,62-60,62,60
 0021901288,2020-08-09,BOS,ORL,28.37,3,7,38,ORL,ORL,fg_miss,80,False,False,,MISS Vucevic 14' Step Back Jump Shot,62-60,62,60
 0021901288,2020-08-09,BOS,ORL,28.42,3,7,35,BOS,BOS,reb,0,False,False,Brown REBOUND (Off:1 Def:7),,62-60,62,60
@@ -446,9 +446,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901288,2020-08-09,BOS,ORL,47.97,4,0,2,ORL,ORL,fg3_miss,1,True,False,,MISS Ross 26' 3PT Jump Shot,112-112,112,112
 0021901288,2020-08-09,BOS,ORL,47.97,4,0,2,ORL,BOS,block,1,True,False,block,block,112-112,112,112
 0021901288,2020-08-09,BOS,ORL,47.98,4,0,1,BOS,BOS,reb,0,False,False,Hayward REBOUND (Off:2 Def:7),,112-112,112,112
+0021901288,2020-08-09,BOS,ORL,48.0,4,0,0,BOS,,period_end,0,False,False,,,112-112,112,112
 0021901288,2020-08-09,BOS,ORL,48.0,4,0,0,BOS,BOS,fg3_miss,1,False,False,MISS Hayward 60' 3PT Jump Shot,,112-112,112,112
 0021901288,2020-08-09,BOS,ORL,48.0,4,0,0,BOS,BOS,reb,0,False,False,CELTICS Rebound,,112-112,112,112
-0021901288,2020-08-09,BOS,ORL,48.0,4,0,0,BOS,,period_end,0,False,False,,,112-112,112,112
 0021901288,2020-08-09,BOS,ORL,48.0,5,5,0,BOS,,period_start,0,False,False,,,112-112,112,112
 0021901288,2020-08-09,BOS,ORL,48.0,5,5,0,,BOS,jump_ball,0,False,False,Jump Ball Theis vs. Vucevic: Tip to Fultz,,112-112,112,112
 0021901288,2020-08-09,BOS,ORL,48.3,5,4,42,ORL,ORL,tov,1,False,True,,Ross Bad Pass Turnover (P2.T12),112-112,112,112
@@ -469,8 +469,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901288,2020-08-09,BOS,ORL,50.02,5,2,59,BOS,BOS,reb,0,False,False,Brown REBOUND (Off:1 Def:10),,112-114,112,114
 0021901288,2020-08-09,BOS,ORL,50.28,5,2,43,BOS,BOS,fg_miss,105,False,False,MISS Smart 7' Turnaround Fadeaway Bank Jump Shot,,112-114,112,114
 0021901288,2020-08-09,BOS,ORL,50.32,5,2,41,ORL,ORL,reb,0,False,False,,Vucevic REBOUND (Off:2 Def:9),112-114,112,114
-0021901288,2020-08-09,BOS,ORL,50.32,5,2,41,ORL,ORL,tov,2,False,True,,Vucevic Lost Ball Turnover (P2.T14),112-114,112,114
 0021901288,2020-08-09,BOS,ORL,50.32,5,2,41,BOS,ORL,foul,1,False,False,,Vucevic P.FOUL (P1.T1) (B.Taylor),112-114,112,114
+0021901288,2020-08-09,BOS,ORL,50.32,5,2,41,ORL,ORL,tov,2,False,True,,Vucevic Lost Ball Turnover (P2.T14),112-114,112,114
 0021901288,2020-08-09,BOS,ORL,50.32,5,2,41,ORL,BOS,steal,2,False,True,steal,steal,112-114,112,114
 0021901288,2020-08-09,BOS,ORL,50.52,5,2,29,BOS,ORL,foul,2,False,False,,Vucevic S.FOUL (P2.T2) (M.Boland),112-114,112,114
 0021901288,2020-08-09,BOS,ORL,50.52,5,2,29,BOS,BOS,ft_make,13,False,False,Hayward Free Throw 1 of 3 (29 PTS),,113-114,113,114

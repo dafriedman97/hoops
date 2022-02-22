@@ -79,9 +79,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000775,2021-04-06,LAC,POR,9.48,1,2,31,POR,POR,fg3_miss,1,False,False,,MISS Anthony 27' 3PT Jump Shot,38-30,38,30
 0022000775,2021-04-06,LAC,POR,9.52,1,2,29,LAC,LAC,reb,0,False,False,Patterson REBOUND (Off:0 Def:1),,38-30,38,30
 0022000775,2021-04-06,LAC,POR,9.53,1,2,28,LAC,LAC,fg_miss,6,True,False,MISS Rondo 5' Driving Layup,,38-30,38,30
+0022000775,2021-04-06,LAC,POR,9.53,1,2,28,LAC,POR,block,6,True,False,block,block,38-30,38,30
 0022000775,2021-04-06,LAC,POR,9.53,1,2,28,LAC,LAC,reb,0,False,False,Rondo REBOUND (Off:1 Def:0),,38-30,38,30
 0022000775,2021-04-06,LAC,POR,9.53,1,2,28,LAC,LAC,tov,40,False,False,Rondo Out of Bounds Lost Ball Turnover (P1.T1),,38-30,38,30
-0022000775,2021-04-06,LAC,POR,9.53,1,2,28,LAC,POR,block,6,True,False,block,block,38-30,38,30
 0022000775,2021-04-06,LAC,POR,9.75,1,2,15,POR,POR,fg_miss,1,False,False,,MISS Anthony 15' Jump Shot,38-30,38,30
 0022000775,2021-04-06,LAC,POR,9.8,1,2,12,LAC,LAC,reb,0,False,False,Patterson REBOUND (Off:0 Def:2),,38-30,38,30
 0022000775,2021-04-06,LAC,POR,9.93,1,2,4,LAC,POR,foul,2,False,False,,Jones Jr. S.FOUL (P1.T2) (J.Williams),38-30,38,30
@@ -116,8 +116,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000775,2021-04-06,LAC,POR,12.32,2,11,41,POR,POR,reb,1,False,False,,Trail Blazers Rebound,47-32,47,32
 0022000775,2021-04-06,LAC,POR,12.32,2,11,41,POR,POR,ft_make,12,False,False,,Covington Free Throw 2 of 2 (3 PTS),47-33,47,33
 0022000775,2021-04-06,LAC,POR,12.68,2,11,19,LAC,LAC,fg_miss,6,True,False,MISS Jackson 4' Driving Layup,,47-33,47,33
-0022000775,2021-04-06,LAC,POR,12.68,2,11,19,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,47-33,47,33
 0022000775,2021-04-06,LAC,POR,12.68,2,11,19,LAC,POR,block,6,True,False,block,block,47-33,47,33
+0022000775,2021-04-06,LAC,POR,12.68,2,11,19,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,47-33,47,33
 0022000775,2021-04-06,LAC,POR,12.72,2,11,17,LAC,LAC,fg3_miss,1,False,False,MISS Leonard 26' 3PT Jump Shot,,47-33,47,33
 0022000775,2021-04-06,LAC,POR,12.72,2,11,17,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,47-33,47,33
 0022000775,2021-04-06,LAC,POR,12.72,2,11,17,LAC,LAC,tov,11,False,False,CLIPPERS Turnover: Shot Clock (T#2),,47-33,47,33
@@ -149,8 +149,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000775,2021-04-06,LAC,POR,15.77,2,8,14,POR,POR,fg3_miss,80,False,False,,MISS Covington 25' 3PT Step Back Jump Shot,62-36,62,36
 0022000775,2021-04-06,LAC,POR,15.88,2,8,7,POR,POR,reb,0,False,False,,Covington REBOUND (Off:2 Def:0),62-36,62,36
 0022000775,2021-04-06,LAC,POR,15.88,2,8,7,POR,POR,fg_miss,72,True,False,,MISS Covington Putback Layup,62-36,62,36
-0022000775,2021-04-06,LAC,POR,15.88,2,8,7,POR,POR,reb,0,False,False,,Powell REBOUND (Off:2 Def:0),62-36,62,36
 0022000775,2021-04-06,LAC,POR,15.88,2,8,7,POR,LAC,block,72,True,False,block,block,62-36,62,36
+0022000775,2021-04-06,LAC,POR,15.88,2,8,7,POR,POR,reb,0,False,False,,Powell REBOUND (Off:2 Def:0),62-36,62,36
 0022000775,2021-04-06,LAC,POR,15.97,2,8,2,POR,POR,fg3_make,79,False,False,,Powell 26' 3PT Pullup Jump Shot (7 PTS),62-39,62,39
 0022000775,2021-04-06,LAC,POR,16.15,2,7,51,LAC,LAC,fg_make,79,False,False,Leonard 14' Pullup Jump Shot (9 PTS) (Cousins 2 AST),,64-39,64,39
 0022000775,2021-04-06,LAC,POR,16.32,2,7,41,POR,LAC,foul,2,False,False,Batum S.FOUL (P1.T4) (B.Adams),,64-39,64,39
@@ -268,8 +268,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000775,2021-04-06,LAC,POR,28.13,3,7,52,POR,POR,reb,0,False,False,,Trail Blazers Rebound,84-70,84,70
 0022000775,2021-04-06,LAC,POR,28.35,3,7,39,POR,LAC,foul,1,False,False,Beverley P.FOUL (P2.T1) (M.Smith),,84-70,84,70
 0022000775,2021-04-06,LAC,POR,28.45,3,7,33,POR,POR,fg_miss,101,False,False,,MISS McCollum 16' Driving Floating Jump Shot,84-70,84,70
-0022000775,2021-04-06,LAC,POR,28.57,3,7,26,POR,POR,fg_make,72,False,False,,Lillard Putback Layup (9 PTS),84-72,84,72
 0022000775,2021-04-06,LAC,POR,28.57,3,7,26,POR,POR,reb,0,False,False,,Lillard REBOUND (Off:2 Def:2),84-72,84,72
+0022000775,2021-04-06,LAC,POR,28.57,3,7,26,POR,POR,fg_make,72,False,False,,Lillard Putback Layup (9 PTS),84-72,84,72
 0022000775,2021-04-06,LAC,POR,28.78,3,7,13,LAC,LAC,fg_miss,86,False,False,MISS Leonard 10' Turnaround Fadeaway Shot,,84-72,84,72
 0022000775,2021-04-06,LAC,POR,28.83,3,7,10,POR,POR,reb,0,False,False,,Kanter REBOUND (Off:5 Def:8),84-72,84,72
 0022000775,2021-04-06,LAC,POR,29.03,3,6,58,POR,POR,fg3_make,80,False,False,,Powell 3PT Step Back Jump Shot (20 PTS) (McCollum 4 AST),84-75,84,75
@@ -307,8 +307,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000775,2021-04-06,LAC,POR,32.63,3,3,22,POR,POR,reb,0,False,False,,Covington REBOUND (Off:2 Def:4),89-84,89,84
 0022000775,2021-04-06,LAC,POR,32.75,3,3,15,POR,LAC,foul,1,False,False,Rondo P.FOUL (P2.T4) (B.Adams),,89-84,89,84
 0022000775,2021-04-06,LAC,POR,33.07,3,2,56,POR,POR,fg_miss,79,True,False,,MISS Lillard 5' Pullup Jump Shot,89-84,89,84
-0022000775,2021-04-06,LAC,POR,33.07,3,2,56,LAC,LAC,reb,0,False,False,Batum REBOUND (Off:0 Def:4),,89-84,89,84
 0022000775,2021-04-06,LAC,POR,33.07,3,2,56,POR,LAC,block,79,True,False,block,block,89-84,89,84
+0022000775,2021-04-06,LAC,POR,33.07,3,2,56,LAC,LAC,reb,0,False,False,Batum REBOUND (Off:0 Def:4),,89-84,89,84
 0022000775,2021-04-06,LAC,POR,33.17,3,2,50,LAC,LAC,fg3_make,1,False,False,Jackson 3PT Jump Shot (15 PTS) (Batum 1 AST),,92-84,92,84
 0022000775,2021-04-06,LAC,POR,33.17,3,2,50,LAC,POR,foul,11,False,False,,Lillard T.FOUL (P2.T2) (M.Smith),92-84,92,84
 0022000775,2021-04-06,LAC,POR,33.17,3,2,50,LAC,LAC,ft_make,16,False,False,Leonard Free Throw Technical (16 PTS),,93-84,93,84

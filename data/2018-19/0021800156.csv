@@ -48,8 +48,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800156,2018-11-07,MIA,SAS,4.18,1,7,49,MIA,MIA,fg_make,3,False,False,Whiteside 2' Hook Shot (4 PTS) (McGruder 3 AST),,15-4,15,4
 0021800156,2018-11-07,MIA,SAS,4.37,1,7,38,SAS,MIA,foul,1,False,False,Whiteside P.FOUL (P1.T2) (J.Van Duyne),,15-4,15,4
 0021800156,2018-11-07,MIA,SAS,4.5,1,7,30,SAS,SAS,fg_miss,5,True,False,,MISS Poeltl 1' Layup,15-4,15,4
-0021800156,2018-11-07,MIA,SAS,4.5,1,7,30,SAS,SAS,reb,0,False,False,,Spurs Rebound,15-4,15,4
 0021800156,2018-11-07,MIA,SAS,4.5,1,7,30,SAS,MIA,block,5,True,False,block,block,15-4,15,4
+0021800156,2018-11-07,MIA,SAS,4.5,1,7,30,SAS,SAS,reb,0,False,False,,Spurs Rebound,15-4,15,4
 0021800156,2018-11-07,MIA,SAS,4.62,1,7,23,SAS,SAS,fg_miss,1,False,False,,MISS Belinelli 21' Jump Shot,15-4,15,4
 0021800156,2018-11-07,MIA,SAS,4.65,1,7,21,MIA,MIA,reb,0,False,False,Whiteside REBOUND (Off:2 Def:2),,15-4,15,4
 0021800156,2018-11-07,MIA,SAS,4.97,1,7,2,MIA,MIA,fg_make,58,False,False,Whiteside 9' Turnaround Hook Shot (6 PTS),,17-4,17,4
@@ -194,8 +194,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800156,2018-11-07,MIA,SAS,19.45,2,4,33,MIA,MIA,reb,0,False,False,Whiteside REBOUND (Off:3 Def:8),,36-30,36,30
 0021800156,2018-11-07,MIA,SAS,19.62,2,4,23,MIA,MIA,fg_make,98,False,False,Whiteside 2' Cutting Layup Shot (16 PTS) (Ellington 1 AST),,38-30,38,30
 0021800156,2018-11-07,MIA,SAS,19.83,2,4,10,SAS,SAS,fg_miss,1,True,False,,MISS Poeltl 15' Jump Shot,38-30,38,30
-0021800156,2018-11-07,MIA,SAS,19.83,2,4,10,SAS,SAS,reb,0,False,False,,Spurs Rebound,38-30,38,30
 0021800156,2018-11-07,MIA,SAS,19.83,2,4,10,SAS,MIA,block,1,True,False,block,block,38-30,38,30
+0021800156,2018-11-07,MIA,SAS,19.83,2,4,10,SAS,SAS,reb,0,False,False,,Spurs Rebound,38-30,38,30
 0021800156,2018-11-07,MIA,SAS,19.9,2,4,6,SAS,SAS,fg3_make,1,False,False,,Bertans 3PT Jump Shot (6 PTS) (Belinelli 2 AST),38-33,38,33
 0021800156,2018-11-07,MIA,SAS,19.9,2,4,6,SAS,MIA,foul,2,False,False,Winslow S.FOUL (P2.T2) (R.Garretson),,38-33,38,33
 0021800156,2018-11-07,MIA,SAS,19.9,2,4,6,SAS,SAS,ft_make,10,False,False,,Bertans Free Throw 1 of 1 (7 PTS),38-34,38,34
@@ -216,8 +216,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800156,2018-11-07,MIA,SAS,21.95,2,2,3,MIA,SAS,foul,1,False,False,,DeRozan P.FOUL (P1.T1) (R.Garretson),42-39,42,39
 0021800156,2018-11-07,MIA,SAS,22.17,2,1,50,MIA,MIA,fg_make,79,False,False,Ellington 16' Pullup Jump Shot (11 PTS) (Richardson 3 AST),,44-39,44,39
 0021800156,2018-11-07,MIA,SAS,22.42,2,1,35,SAS,SAS,fg_miss,5,True,False,,MISS Mills 2' Layup,44-39,44,39
-0021800156,2018-11-07,MIA,SAS,22.42,2,1,35,MIA,MIA,reb,0,False,False,McGruder REBOUND (Off:0 Def:5),,44-39,44,39
 0021800156,2018-11-07,MIA,SAS,22.42,2,1,35,SAS,MIA,block,5,True,False,block,block,44-39,44,39
+0021800156,2018-11-07,MIA,SAS,22.42,2,1,35,MIA,MIA,reb,0,False,False,McGruder REBOUND (Off:0 Def:5),,44-39,44,39
 0021800156,2018-11-07,MIA,SAS,22.58,2,1,25,MIA,MIA,fg_make,98,False,False,Whiteside 3' Cutting Layup Shot (18 PTS) (Johnson 1 AST),,46-39,46,39
 0021800156,2018-11-07,MIA,SAS,22.8,2,1,12,SAS,SAS,fg3_miss,1,False,False,,MISS Mills 26' 3PT Jump Shot,46-39,46,39
 0021800156,2018-11-07,MIA,SAS,22.8,2,1,12,MIA,MIA,reb,0,False,False,Whiteside REBOUND (Off:4 Def:10),,46-39,46,39
@@ -414,8 +414,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800156,2018-11-07,MIA,SAS,43.17,4,4,50,MIA,MIA,fg3_miss,1,False,False,MISS Winslow 29' 3PT Jump Shot,,89-77,89,77
 0021800156,2018-11-07,MIA,SAS,43.23,4,4,46,SAS,SAS,reb,0,False,False,,Aldridge REBOUND (Off:4 Def:11),89-77,89,77
 0021800156,2018-11-07,MIA,SAS,43.35,4,4,39,SAS,SAS,tov,2,False,True,,White Lost Ball Turnover (P2.T12),89-77,89,77
-0021800156,2018-11-07,MIA,SAS,43.35,4,4,39,MIA,SAS,foul,1,False,False,,Bertans P.FOUL (P3.T3) (J.Van Duyne),89-77,89,77
 0021800156,2018-11-07,MIA,SAS,43.35,4,4,39,SAS,MIA,steal,2,False,True,steal,steal,89-77,89,77
+0021800156,2018-11-07,MIA,SAS,43.35,4,4,39,MIA,SAS,foul,1,False,False,,Bertans P.FOUL (P3.T3) (J.Van Duyne),89-77,89,77
 0021800156,2018-11-07,MIA,SAS,43.78,4,4,13,MIA,MIA,fg_make,105,False,False,McGruder 11' Turnaround Fadeaway Bank Jump Shot (4 PTS),,91-77,91,77
 0021800156,2018-11-07,MIA,SAS,43.9,4,4,6,SAS,MIA,foul,2,False,False,Whiteside S.FOUL (P2.T4) (R.Garretson),,91-77,91,77
 0021800156,2018-11-07,MIA,SAS,43.9,4,4,6,SAS,SAS,ft_make,11,False,False,,DeRozan Free Throw 1 of 2 (15 PTS),91-78,91,78

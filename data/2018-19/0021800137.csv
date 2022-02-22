@@ -152,9 +152,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800137,2018-11-04,SAS,ORL,17.57,2,6,26,SAS,SAS,reb,0,False,False,SPURS Rebound,,36-45,36,45
 0021800137,2018-11-04,SAS,ORL,17.87,2,6,8,SAS,SAS,fg_make,80,False,False,DeRozan 10' Step Back Jump Shot (15 PTS),,38-45,38,45
 0021800137,2018-11-04,SAS,ORL,18.17,2,5,50,ORL,ORL,fg_miss,3,True,False,,MISS Vucevic 9' Hook Shot,38-45,38,45
+0021800137,2018-11-04,SAS,ORL,18.17,2,5,50,ORL,SAS,block,3,True,False,block,block,38-45,38,45
 0021800137,2018-11-04,SAS,ORL,18.17,2,5,50,ORL,ORL,reb,0,False,False,,Magic Rebound,38-45,38,45
 0021800137,2018-11-04,SAS,ORL,18.17,2,5,50,,SAS,jump_ball,0,False,False,Jump Ball Poeltl vs. Vucevic: Tip to Fournier,,38-45,38,45
-0021800137,2018-11-04,SAS,ORL,18.17,2,5,50,ORL,SAS,block,3,True,False,block,block,38-45,38,45
 0021800137,2018-11-04,SAS,ORL,18.28,2,5,43,ORL,ORL,fg3_miss,1,False,False,,MISS Vucevic 24' 3PT Jump Shot,38-45,38,45
 0021800137,2018-11-04,SAS,ORL,18.3,2,5,42,ORL,ORL,reb,0,False,False,,Simmons REBOUND (Off:1 Def:0),38-45,38,45
 0021800137,2018-11-04,SAS,ORL,18.43,2,5,34,ORL,ORL,fg3_miss,1,False,False,,MISS Fournier 29' 3PT Jump Shot,38-45,38,45
@@ -250,8 +250,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800137,2018-11-04,SAS,ORL,28.75,3,7,15,SAS,SAS,fg_make,5,False,False,DeRozan 1' Layup (23 PTS) (Cunningham 1 AST),,63-77,63,77
 0021800137,2018-11-04,SAS,ORL,28.97,3,7,2,ORL,ORL,fg3_make,1,False,False,,Gordon 24' 3PT Jump Shot (19 PTS) (Vucevic 2 AST),63-80,63,80
 0021800137,2018-11-04,SAS,ORL,29.22,3,6,47,SAS,SAS,fg_miss,5,True,False,MISS Bertans 9' Layup,,63-80,63,80
-0021800137,2018-11-04,SAS,ORL,29.22,3,6,47,ORL,ORL,reb,0,False,False,,Magic Rebound,63-80,63,80
 0021800137,2018-11-04,SAS,ORL,29.22,3,6,47,SAS,ORL,block,5,True,False,block,block,63-80,63,80
+0021800137,2018-11-04,SAS,ORL,29.22,3,6,47,ORL,ORL,reb,0,False,False,,Magic Rebound,63-80,63,80
 0021800137,2018-11-04,SAS,ORL,29.55,3,6,27,ORL,ORL,tov,45,False,False,,Iwundu Out of Bounds - Bad Pass Turnover Turnover (P1.T7),63-80,63,80
 0021800137,2018-11-04,SAS,ORL,29.8,3,6,12,SAS,SAS,fg3_miss,1,False,False,MISS Bertans 25' 3PT Jump Shot,,63-80,63,80
 0021800137,2018-11-04,SAS,ORL,29.87,3,6,8,ORL,ORL,reb,0,False,False,,Gordon REBOUND (Off:1 Def:5),63-80,63,80
@@ -274,8 +274,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800137,2018-11-04,SAS,ORL,31.65,3,4,21,ORL,ORL,fg_miss,75,False,False,,MISS Iwundu 2' Driving Finger Roll Layup,66-82,66,82
 0021800137,2018-11-04,SAS,ORL,31.65,3,4,21,SAS,SAS,reb,0,False,False,Mills REBOUND (Off:0 Def:2),,66-82,66,82
 0021800137,2018-11-04,SAS,ORL,31.85,3,4,9,SAS,SAS,fg_miss,6,True,False,MISS Aldridge 7' Driving Layup,,66-82,66,82
-0021800137,2018-11-04,SAS,ORL,31.85,3,4,9,SAS,SAS,reb,0,False,False,SPURS Rebound,,66-82,66,82
 0021800137,2018-11-04,SAS,ORL,31.85,3,4,9,SAS,ORL,block,6,True,False,block,block,66-82,66,82
+0021800137,2018-11-04,SAS,ORL,31.85,3,4,9,SAS,SAS,reb,0,False,False,SPURS Rebound,,66-82,66,82
 0021800137,2018-11-04,SAS,ORL,31.88,3,4,7,SAS,SAS,fg_make,1,False,False,Belinelli 19' Jump Shot (10 PTS) (Mills 2 AST),,68-82,68,82
 0021800137,2018-11-04,SAS,ORL,32.33,3,3,40,ORL,ORL,fg3_make,1,False,False,,Ross 25' 3PT Jump Shot (11 PTS) (Fournier 5 AST),68-85,68,85
 0021800137,2018-11-04,SAS,ORL,32.67,3,3,20,SAS,SAS,fg3_miss,1,False,False,MISS Bertans 26' 3PT Jump Shot,,68-85,68,85
@@ -389,8 +389,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800137,2018-11-04,SAS,ORL,44.85,4,3,9,SAS,SAS,fg3_make,80,False,False,Forbes 25' 3PT Step Back Jump Shot (13 PTS),,104-111,104,111
 0021800137,2018-11-04,SAS,ORL,45.0,4,3,0,ORL,ORL,timeout,1,False,False,,Magic Timeout: Regular (Reg.5 Short 0),104-111,104,111
 0021800137,2018-11-04,SAS,ORL,45.17,4,2,50,ORL,ORL,fg_miss,44,True,False,,MISS Augustin 4' Reverse Layup,104-111,104,111
-0021800137,2018-11-04,SAS,ORL,45.17,4,2,50,ORL,ORL,reb,0,False,False,,Augustin REBOUND (Off:2 Def:2),104-111,104,111
 0021800137,2018-11-04,SAS,ORL,45.17,4,2,50,ORL,SAS,block,44,True,False,block,block,104-111,104,111
+0021800137,2018-11-04,SAS,ORL,45.17,4,2,50,ORL,ORL,reb,0,False,False,,Augustin REBOUND (Off:2 Def:2),104-111,104,111
 0021800137,2018-11-04,SAS,ORL,45.23,4,2,46,ORL,ORL,fg3_miss,1,False,False,,MISS Fournier 25' 3PT Jump Shot,104-111,104,111
 0021800137,2018-11-04,SAS,ORL,45.25,4,2,45,SAS,SAS,reb,0,False,False,Gasol REBOUND (Off:1 Def:6),,104-111,104,111
 0021800137,2018-11-04,SAS,ORL,45.5,4,2,30,SAS,SAS,fg3_miss,1,False,False,MISS Forbes 25' 3PT Jump Shot,,104-111,104,111

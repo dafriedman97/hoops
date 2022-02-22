@@ -48,8 +48,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000414,2021-02-14,CHA,SAS,5.35,1,6,39,SAS,SAS,reb,1,False,False,,Spurs Rebound,16-10,16,10
 0022000414,2021-02-14,CHA,SAS,5.35,1,6,39,SAS,SAS,ft_make,12,False,False,,White Free Throw 2 of 2 (5 PTS),16-11,16,11
 0022000414,2021-02-14,CHA,SAS,5.58,1,6,25,CHA,CHA,fg_miss,75,True,False,MISS Rozier 1' Driving Finger Roll Layup,,16-11,16,11
-0022000414,2021-02-14,CHA,SAS,5.58,1,6,25,CHA,CHA,reb,0,False,False,HORNETS Rebound,,16-11,16,11
 0022000414,2021-02-14,CHA,SAS,5.58,1,6,25,CHA,SAS,block,75,True,False,block,block,16-11,16,11
+0022000414,2021-02-14,CHA,SAS,5.58,1,6,25,CHA,CHA,reb,0,False,False,HORNETS Rebound,,16-11,16,11
 0022000414,2021-02-14,CHA,SAS,5.63,1,6,22,CHA,CHA,fg_miss,1,False,False,MISS Rozier 21' Jump Shot,,16-11,16,11
 0022000414,2021-02-14,CHA,SAS,5.68,1,6,19,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:0 Def:1),16-11,16,11
 0022000414,2021-02-14,CHA,SAS,5.82,1,6,11,SAS,SAS,fg3_miss,1,False,False,,MISS Mills 25' 3PT Jump Shot,16-11,16,11
@@ -73,8 +73,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000414,2021-02-14,CHA,SAS,8.15,1,3,51,SAS,SAS,reb,0,False,False,,Vassell REBOUND (Off:0 Def:1),20-15,20,15
 0022000414,2021-02-14,CHA,SAS,8.17,1,3,50,SAS,SAS,fg_make,76,False,False,,Mills 2' Running Finger Roll Layup (2 PTS) (Vassell 1 AST),20-17,20,17
 0022000414,2021-02-14,CHA,SAS,8.33,1,3,40,CHA,CHA,fg_miss,75,True,False,MISS Rozier 2' Driving Finger Roll Layup,,20-17,20,17
-0022000414,2021-02-14,CHA,SAS,8.33,1,3,40,CHA,CHA,reb,0,False,False,HORNETS Rebound,,20-17,20,17
 0022000414,2021-02-14,CHA,SAS,8.33,1,3,40,CHA,SAS,block,75,True,False,block,block,20-17,20,17
+0022000414,2021-02-14,CHA,SAS,8.33,1,3,40,CHA,CHA,reb,0,False,False,HORNETS Rebound,,20-17,20,17
 0022000414,2021-02-14,CHA,SAS,8.57,1,3,26,CHA,CHA,fg_make,66,False,False,McDaniels 3' Jump Bank Shot (2 PTS),,22-17,22,17
 0022000414,2021-02-14,CHA,SAS,8.8,1,3,12,SAS,SAS,tov,1,False,True,,Mills Bad Pass Turnover (P1.T1),22-17,22,17
 0022000414,2021-02-14,CHA,SAS,8.8,1,3,12,SAS,CHA,steal,1,False,True,steal,steal,22-17,22,17
@@ -134,8 +134,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000414,2021-02-14,CHA,SAS,16.5,2,7,30,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.2 Short 0),47-37,47,37
 0022000414,2021-02-14,CHA,SAS,16.92,2,7,5,SAS,SAS,fg_make,79,False,False,,Gay 15' Pullup Jump Shot (8 PTS) (White 3 AST),47-39,47,39
 0022000414,2021-02-14,CHA,SAS,17.22,2,6,47,CHA,CHA,fg_miss,6,False,False,MISS McDaniels 4' Driving Layup,,47-39,47,39
-0022000414,2021-02-14,CHA,SAS,17.28,2,6,43,CHA,CHA,fg_make,97,False,False,McDaniels Tip Layup Shot (4 PTS),,49-39,49,39
 0022000414,2021-02-14,CHA,SAS,17.28,2,6,43,CHA,CHA,reb,0,False,False,McDaniels REBOUND (Off:1 Def:0),,49-39,49,39
+0022000414,2021-02-14,CHA,SAS,17.28,2,6,43,CHA,CHA,fg_make,97,False,False,McDaniels Tip Layup Shot (4 PTS),,49-39,49,39
 0022000414,2021-02-14,CHA,SAS,17.47,2,6,32,SAS,SAS,fg3_make,1,False,False,,White 3PT Jump Shot (10 PTS) (DeRozan 3 AST),49-42,49,42
 0022000414,2021-02-14,CHA,SAS,17.7,2,6,18,CHA,CHA,tov,40,False,False,Ball Out of Bounds Lost Ball Turnover (P1.T3),,49-42,49,42
 0022000414,2021-02-14,CHA,SAS,18.0,2,6,0,SAS,SAS,fg_make,6,False,False,,Murray 2' Driving Layup (10 PTS),49-44,49,44
@@ -265,16 +265,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000414,2021-02-14,CHA,SAS,32.03,3,3,58,CHA,SAS,foul,2,False,False,,Poeltl S.FOUL (P3.T2) (B.Adair),81-80,81,80
 0022000414,2021-02-14,CHA,SAS,32.03,3,3,58,CHA,CHA,ft_make,10,False,False,Bridges Free Throw 1 of 1 (3 PTS),,82-80,82,80
 0022000414,2021-02-14,CHA,SAS,32.28,3,3,43,SAS,SAS,fg_miss,5,True,False,,MISS Johnson 3' Layup,82-80,82,80
-0022000414,2021-02-14,CHA,SAS,32.28,3,3,43,CHA,CHA,reb,0,False,False,HORNETS Rebound,,82-80,82,80
 0022000414,2021-02-14,CHA,SAS,32.28,3,3,43,SAS,CHA,block,5,True,False,block,block,82-80,82,80
+0022000414,2021-02-14,CHA,SAS,32.28,3,3,43,CHA,CHA,reb,0,False,False,HORNETS Rebound,,82-80,82,80
 0022000414,2021-02-14,CHA,SAS,32.67,3,3,20,CHA,CHA,fg_miss,6,False,False,MISS Rozier 4' Driving Layup,,82-80,82,80
 0022000414,2021-02-14,CHA,SAS,32.72,3,3,17,CHA,CHA,reb,0,False,False,Rozier REBOUND (Off:2 Def:3),,82-80,82,80
 0022000414,2021-02-14,CHA,SAS,32.83,3,3,10,CHA,CHA,fg_miss,101,False,False,MISS Rozier 2' Driving Floating Jump Shot,,82-80,82,80
 0022000414,2021-02-14,CHA,SAS,32.85,3,3,9,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:4 Def:3),82-80,82,80
 0022000414,2021-02-14,CHA,SAS,32.95,3,3,3,SAS,SAS,fg_make,41,False,False,,Walker IV 2' Running Layup (8 PTS),82-82,82,82
 0022000414,2021-02-14,CHA,SAS,33.15,3,2,51,CHA,CHA,tov,2,False,True,McDaniels Lost Ball Turnover (P1.T9),,82-82,82,82
-0022000414,2021-02-14,CHA,SAS,33.15,3,2,51,SAS,CHA,foul,28,False,False,Ball Personal Take Foul (P2.T4) (S.Wright),,82-82,82,82
 0022000414,2021-02-14,CHA,SAS,33.15,3,2,51,CHA,SAS,steal,2,False,True,steal,steal,82-82,82,82
+0022000414,2021-02-14,CHA,SAS,33.15,3,2,51,SAS,CHA,foul,28,False,False,Ball Personal Take Foul (P2.T4) (S.Wright),,82-82,82,82
 0022000414,2021-02-14,CHA,SAS,33.38,3,2,37,SAS,SAS,fg3_miss,1,False,False,,MISS Gay 24' 3PT Jump Shot,82-82,82,82
 0022000414,2021-02-14,CHA,SAS,33.43,3,2,34,CHA,CHA,reb,0,False,False,Rozier REBOUND (Off:2 Def:4),,82-82,82,82
 0022000414,2021-02-14,CHA,SAS,33.57,3,2,26,CHA,CHA,fg_make,79,False,False,Rozier 12' Pullup Jump Shot (26 PTS),,84-82,84,82
@@ -312,8 +312,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000414,2021-02-14,CHA,SAS,37.88,4,10,7,SAS,CHA,block,1,True,False,block,block,93-92,93,92
 0022000414,2021-02-14,CHA,SAS,37.95,4,10,3,CHA,CHA,reb,0,False,False,Ball REBOUND (Off:2 Def:5),,93-92,93,92
 0022000414,2021-02-14,CHA,SAS,37.97,4,10,2,CHA,CHA,tov,2,False,True,Ball Lost Ball Turnover (P4.T11),,93-92,93,92
-0022000414,2021-02-14,CHA,SAS,37.97,4,10,2,SAS,CHA,foul,28,False,False,Bridges Personal Take Foul (P3.T1) (S.Wright),,93-92,93,92
 0022000414,2021-02-14,CHA,SAS,37.97,4,10,2,CHA,SAS,steal,2,False,True,steal,steal,93-92,93,92
+0022000414,2021-02-14,CHA,SAS,37.97,4,10,2,SAS,CHA,foul,28,False,False,Bridges Personal Take Foul (P3.T1) (S.Wright),,93-92,93,92
 0022000414,2021-02-14,CHA,SAS,38.12,4,9,53,SAS,SAS,fg3_miss,79,False,False,,MISS Mills 26' 3PT Pullup Jump Shot,93-92,93,92
 0022000414,2021-02-14,CHA,SAS,38.18,4,9,49,CHA,CHA,reb,0,False,False,Monk REBOUND (Off:0 Def:4),,93-92,93,92
 0022000414,2021-02-14,CHA,SAS,38.35,4,9,39,CHA,CHA,fg3_miss,79,False,False,MISS Ball 27' 3PT Pullup Jump Shot,,93-92,93,92
@@ -329,8 +329,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000414,2021-02-14,CHA,SAS,39.27,4,8,44,SAS,SAS,fg_miss,79,False,False,,MISS Murray 17' Pullup Jump Shot,93-94,93,94
 0022000414,2021-02-14,CHA,SAS,39.32,4,8,41,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:5 Def:3),93-94,93,94
 0022000414,2021-02-14,CHA,SAS,39.38,4,8,37,SAS,SAS,fg_miss,5,True,False,,MISS Gay 1' Layup,93-94,93,94
-0022000414,2021-02-14,CHA,SAS,39.38,4,8,37,SAS,SAS,reb,0,False,False,,Spurs Rebound,93-94,93,94
 0022000414,2021-02-14,CHA,SAS,39.38,4,8,37,SAS,CHA,block,5,True,False,block,block,93-94,93,94
+0022000414,2021-02-14,CHA,SAS,39.38,4,8,37,SAS,SAS,reb,0,False,False,,Spurs Rebound,93-94,93,94
 0022000414,2021-02-14,CHA,SAS,39.57,4,8,26,SAS,SAS,fg_miss,47,False,False,,MISS Poeltl 6' Turnaround Jump Shot,93-94,93,94
 0022000414,2021-02-14,CHA,SAS,39.58,4,8,25,CHA,CHA,reb,0,False,False,Zeller REBOUND (Off:2 Def:9),,93-94,93,94
 0022000414,2021-02-14,CHA,SAS,39.78,4,8,13,CHA,CHA,fg_miss,86,False,False,MISS Monk 7' Turnaround Fadeaway Shot,,93-94,93,94
@@ -341,9 +341,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000414,2021-02-14,CHA,SAS,40.3,4,7,42,CHA,CHA,reb,0,False,False,HORNETS Rebound,,93-96,93,96
 0022000414,2021-02-14,CHA,SAS,40.3,4,7,42,CHA,CHA,tov,11,False,False,HORNETS Turnover: Shot Clock (T#13),,93-96,93,96
 0022000414,2021-02-14,CHA,SAS,40.43,4,7,34,SAS,SAS,fg_miss,6,True,False,,MISS White 3' Driving Layup,93-96,93,96
+0022000414,2021-02-14,CHA,SAS,40.43,4,7,34,SAS,CHA,block,6,True,False,block,block,93-96,93,96
 0022000414,2021-02-14,CHA,SAS,40.43,4,7,34,SAS,SAS,reb,0,False,False,,Spurs Rebound,93-96,93,96
 0022000414,2021-02-14,CHA,SAS,40.43,4,7,34,SAS,CHA,violation,1,False,False,HORNETS Violation: Delay of game Violation,,93-96,93,96
-0022000414,2021-02-14,CHA,SAS,40.43,4,7,34,SAS,CHA,block,6,True,False,block,block,93-96,93,96
 0022000414,2021-02-14,CHA,SAS,40.5,4,7,30,SAS,SAS,fg3_make,1,False,False,,White 25' 3PT Jump Shot (16 PTS) (Murray 5 AST),93-99,93,99
 0022000414,2021-02-14,CHA,SAS,40.7,4,7,18,CHA,CHA,fg_make,108,False,False,Zeller 2' Cutting Dunk Shot (8 PTS) (Ball 6 AST),,95-99,95,99
 0022000414,2021-02-14,CHA,SAS,41.03,4,6,58,SAS,SAS,fg_make,66,False,False,,Gay 14' Jump Bank Shot (12 PTS),95-101,95,101
@@ -355,11 +355,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000414,2021-02-14,CHA,SAS,41.47,4,6,32,CHA,SAS,steal,2,False,True,steal,steal,95-101,95,101
 0022000414,2021-02-14,CHA,SAS,41.52,4,6,29,SAS,SAS,tov,2,False,True,,Gay Lost Ball Turnover (P2.T7),95-101,95,101
 0022000414,2021-02-14,CHA,SAS,41.52,4,6,29,SAS,CHA,steal,2,False,True,steal,steal,95-101,95,101
-0022000414,2021-02-14,CHA,SAS,41.55,4,6,27,CHA,CHA,tov,2,False,True,Bridges Lost Ball Turnover (P3.T15),,95-101,95,101
-0022000414,2021-02-14,CHA,SAS,41.55,4,6,27,CHA,SAS,steal,2,False,True,steal,steal,95-101,95,101
 0022000414,2021-02-14,CHA,SAS,41.55,4,6,27,SAS,SAS,fg_make,1,False,False,,White 13' Jump Shot (18 PTS),95-103,95,103
 0022000414,2021-02-14,CHA,SAS,41.55,4,6,27,SAS,CHA,foul,2,False,False,Bridges S.FOUL (P5.T2) (S.Wright),,95-103,95,103
 0022000414,2021-02-14,CHA,SAS,41.55,4,6,27,SAS,SAS,ft_miss,10,False,False,,MISS White Free Throw 1 of 1,95-103,95,103
+0022000414,2021-02-14,CHA,SAS,41.55,4,6,27,CHA,CHA,tov,2,False,True,Bridges Lost Ball Turnover (P3.T15),,95-101,95,101
+0022000414,2021-02-14,CHA,SAS,41.55,4,6,27,CHA,SAS,steal,2,False,True,steal,steal,95-101,95,101
 0022000414,2021-02-14,CHA,SAS,41.57,4,6,26,CHA,CHA,reb,0,False,False,Zeller REBOUND (Off:2 Def:10),,95-103,95,103
 0022000414,2021-02-14,CHA,SAS,41.93,4,6,4,CHA,CHA,fg_make,44,False,False,Monk 2' Reverse Layup (20 PTS),,97-103,97,103
 0022000414,2021-02-14,CHA,SAS,42.15,4,5,51,SAS,SAS,fg_make,5,False,False,,White 3' Layup (20 PTS),97-105,97,105
@@ -384,8 +384,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000414,2021-02-14,CHA,SAS,44.33,4,3,40,SAS,CHA,block,5,True,False,block,block,99-110,99,110
 0022000414,2021-02-14,CHA,SAS,44.38,4,3,37,CHA,CHA,reb,0,False,False,Ball REBOUND (Off:2 Def:8),,99-110,99,110
 0022000414,2021-02-14,CHA,SAS,44.38,4,3,37,CHA,CHA,tov,1,False,True,Ball Bad Pass Turnover (P5.T16),,99-110,99,110
-0022000414,2021-02-14,CHA,SAS,44.38,4,3,37,SAS,CHA,foul,1,False,False,Rozier P.FOUL (P1.T4) (R.Hussey),,99-110,99,110
 0022000414,2021-02-14,CHA,SAS,44.38,4,3,37,CHA,SAS,steal,1,False,True,steal,steal,99-110,99,110
+0022000414,2021-02-14,CHA,SAS,44.38,4,3,37,SAS,CHA,foul,1,False,False,Rozier P.FOUL (P1.T4) (R.Hussey),,99-110,99,110
 0022000414,2021-02-14,CHA,SAS,44.4,4,3,36,SAS,CHA,foul,1,False,False,Biyombo P.FOUL (P2.PN) (S.Wright),,99-110,99,110
 0022000414,2021-02-14,CHA,SAS,44.4,4,3,36,SAS,SAS,ft_make,11,False,False,,Poeltl Free Throw 1 of 2 (7 PTS),99-111,99,111
 0022000414,2021-02-14,CHA,SAS,44.4,4,3,36,SAS,SAS,ft_make,12,False,False,,Poeltl Free Throw 2 of 2 (8 PTS),99-112,99,112

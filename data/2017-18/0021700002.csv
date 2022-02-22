@@ -77,8 +77,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700002,2017-10-17,GSW,HOU,7.57,1,4,26,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 1 Short 0),,24-18,24,18
 0021700002,2017-10-17,GSW,HOU,7.7,1,4,18,GSW,GSW,tov,40,False,False,Durant Out of Bounds Lost Ball Turnover (P2.T4),,24-18,24,18
 0021700002,2017-10-17,GSW,HOU,7.97,1,4,2,HOU,HOU,fg_miss,1,True,False,,MISS Gordon 8' Jump Shot,24-18,24,18
-0021700002,2017-10-17,GSW,HOU,7.97,1,4,2,HOU,HOU,reb,0,False,False,,Rockets Rebound,24-18,24,18
 0021700002,2017-10-17,GSW,HOU,7.97,1,4,2,HOU,GSW,block,1,True,False,block,block,24-18,24,18
+0021700002,2017-10-17,GSW,HOU,7.97,1,4,2,HOU,HOU,reb,0,False,False,,Rockets Rebound,24-18,24,18
 0021700002,2017-10-17,GSW,HOU,8.02,1,3,59,HOU,HOU,fg3_miss,1,False,False,,MISS Gordon 26' 3PT Jump Shot,24-18,24,18
 0021700002,2017-10-17,GSW,HOU,8.02,1,3,59,HOU,HOU,reb,0,False,False,,Rockets Rebound,24-18,24,18
 0021700002,2017-10-17,GSW,HOU,8.02,1,3,59,HOU,GSW,foul,3,False,False,Green L.B.FOUL (P2.PN) (T.Maddox),,24-18,24,18
@@ -210,8 +210,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700002,2017-10-17,GSW,HOU,22.38,2,1,37,HOU,GSW,foul,3,False,False,Durant L.B.FOUL (P3.PN) (S.Foster),,67-56,67,56
 0021700002,2017-10-17,GSW,HOU,22.38,2,1,37,HOU,HOU,ft_miss,11,False,False,,MISS Tucker Free Throw 1 of 2,67-56,67,56
 0021700002,2017-10-17,GSW,HOU,22.38,2,1,37,HOU,HOU,reb,1,False,False,,Rockets Rebound,67-56,67,56
-0021700002,2017-10-17,GSW,HOU,22.38,2,1,37,HOU,,violation,1,False,False,,,67-56,67,56
 0021700002,2017-10-17,GSW,HOU,22.38,2,1,37,HOU,HOU,ft_miss,12,False,False,,MISS Tucker Free Throw 2 of 2,67-56,67,56
+0021700002,2017-10-17,GSW,HOU,22.38,2,1,37,HOU,,violation,1,False,False,,,67-56,67,56
 0021700002,2017-10-17,GSW,HOU,22.43,2,1,34,GSW,GSW,reb,0,False,False,Green REBOUND (Off:0 Def:4),,67-56,67,56
 0021700002,2017-10-17,GSW,HOU,22.63,2,1,22,GSW,GSW,tov,4,False,False,Livingston Traveling Turnover (P1.T7),,67-56,67,56
 0021700002,2017-10-17,GSW,HOU,22.87,2,1,8,HOU,HOU,fg3_make,79,False,False,,Tucker 25' 3PT Pullup Jump Shot (12 PTS) (Harden 5 AST),67-59,67,59
@@ -265,8 +265,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700002,2017-10-17,GSW,HOU,28.68,3,7,19,GSW,GSW,reb,0,False,False,Thompson REBOUND (Off:0 Def:5),,84-75,84,75
 0021700002,2017-10-17,GSW,HOU,28.75,3,7,15,GSW,GSW,fg_make,1,False,False,Curry 13' Jump Shot (13 PTS) (Thompson 2 AST),,86-75,86,75
 0021700002,2017-10-17,GSW,HOU,29.0,3,7,0,HOU,HOU,fg_miss,5,True,False,,MISS Capela 2' Layup,86-75,86,75
-0021700002,2017-10-17,GSW,HOU,29.0,3,7,0,HOU,HOU,reb,0,False,False,,Rockets Rebound,86-75,86,75
 0021700002,2017-10-17,GSW,HOU,29.0,3,7,0,HOU,GSW,block,5,True,False,block,block,86-75,86,75
+0021700002,2017-10-17,GSW,HOU,29.0,3,7,0,HOU,HOU,reb,0,False,False,,Rockets Rebound,86-75,86,75
 0021700002,2017-10-17,GSW,HOU,29.17,3,6,50,HOU,HOU,fg3_miss,1,False,False,,MISS Anderson 3PT Jump Shot,86-75,86,75
 0021700002,2017-10-17,GSW,HOU,29.23,3,6,46,GSW,GSW,reb,0,False,False,Bell REBOUND (Off:0 Def:1),,86-75,86,75
 0021700002,2017-10-17,GSW,HOU,29.42,3,6,35,GSW,GSW,fg_make,99,False,False,Bell 2' Cutting Finger Roll Layup Shot (4 PTS) (Durant 5 AST),,88-75,88,75
@@ -316,8 +316,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700002,2017-10-17,GSW,HOU,34.58,3,1,25,HOU,HOU,fg3_miss,1,False,False,,MISS Ariza 27' 3PT Jump Shot,97-84,97,84
 0021700002,2017-10-17,GSW,HOU,34.68,3,1,19,GSW,GSW,reb,0,False,False,McCaw REBOUND (Off:1 Def:2),,97-84,97,84
 0021700002,2017-10-17,GSW,HOU,34.97,3,1,2,GSW,GSW,fg_miss,6,False,False,MISS McCaw 2' Driving Layup,,97-84,97,84
-0021700002,2017-10-17,GSW,HOU,35.05,3,0,57,HOU,HOU,tov,39,False,False,,Gordon Step Out of Bounds Turnover (P2.T12),97-84,97,84
 0021700002,2017-10-17,GSW,HOU,35.05,3,0,57,HOU,HOU,reb,0,False,False,,Tucker REBOUND (Off:1 Def:2),97-84,97,84
+0021700002,2017-10-17,GSW,HOU,35.05,3,0,57,HOU,HOU,tov,39,False,False,,Gordon Step Out of Bounds Turnover (P2.T12),97-84,97,84
 0021700002,2017-10-17,GSW,HOU,35.12,3,0,53,GSW,GSW,fg_make,108,False,False,Bell 2' Cutting Dunk Shot (8 PTS) (Green 13 AST),,99-84,99,84
 0021700002,2017-10-17,GSW,HOU,35.25,3,0,45,HOU,HOU,fg_make,75,False,False,,Gordon 2' Driving Finger Roll Layup (15 PTS),99-86,99,86
 0021700002,2017-10-17,GSW,HOU,35.25,3,0,45,HOU,GSW,foul,2,False,False,McCaw S.FOUL (P1.PN) (S.Foster),,99-86,99,86
@@ -418,8 +418,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700002,2017-10-17,GSW,HOU,46.28,4,1,43,GSW,GSW,fg_make,1,False,False,McCaw 20' Jump Shot (4 PTS) (Durant 7 AST),,121-118,121,118
 0021700002,2017-10-17,GSW,HOU,46.47,4,1,32,HOU,HOU,fg_make,6,False,False,,Harden 1' Driving Layup (27 PTS),121-120,121,120
 0021700002,2017-10-17,GSW,HOU,46.82,4,1,11,GSW,GSW,fg_miss,1,True,False,MISS Durant 9' Jump Shot,,121-120,121,120
-0021700002,2017-10-17,GSW,HOU,46.82,4,1,11,HOU,HOU,reb,0,False,False,,Mbah a Moute REBOUND (Off:1 Def:2),121-120,121,120
 0021700002,2017-10-17,GSW,HOU,46.82,4,1,11,GSW,HOU,block,1,True,False,block,block,121-120,121,120
+0021700002,2017-10-17,GSW,HOU,46.82,4,1,11,HOU,HOU,reb,0,False,False,,Mbah a Moute REBOUND (Off:1 Def:2),121-120,121,120
 0021700002,2017-10-17,GSW,HOU,47.13,4,0,52,HOU,HOU,fg_miss,1,False,False,,MISS Harden 11' Jump Shot,121-120,121,120
 0021700002,2017-10-17,GSW,HOU,47.22,4,0,47,HOU,HOU,reb,0,False,False,,Mbah a Moute REBOUND (Off:2 Def:2),121-120,121,120
 0021700002,2017-10-17,GSW,HOU,47.23,4,0,46,HOU,HOU,fg3_miss,1,False,False,,MISS Gordon 28' 3PT Jump Shot,121-120,121,120

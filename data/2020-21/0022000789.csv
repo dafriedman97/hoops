@@ -67,9 +67,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000789,2021-04-08,SAC,DET,8.52,1,3,29,DET,DET,fg_miss,5,False,False,,MISS Okafor 3' Layup,13-18,13,18
 0022000789,2021-04-08,SAC,DET,8.6,1,3,24,DET,DET,reb,0,False,False,,Diallo REBOUND (Off:1 Def:0),13-18,13,18
 0022000789,2021-04-08,SAC,DET,8.62,1,3,23,DET,DET,fg_miss,5,True,False,,MISS Diallo 3' Layup,13-18,13,18
+0022000789,2021-04-08,SAC,DET,8.62,1,3,23,DET,SAC,block,5,True,False,block,block,13-18,13,18
 0022000789,2021-04-08,SAC,DET,8.62,1,3,23,SAC,SAC,reb,0,False,False,Whiteside REBOUND (Off:0 Def:1),,13-18,13,18
 0022000789,2021-04-08,SAC,DET,8.62,1,3,23,SAC,DET,foul,28,False,False,,Hayes Personal Take Foul (P1.T2) (N.Buchert),13-18,13,18
-0022000789,2021-04-08,SAC,DET,8.62,1,3,23,DET,SAC,block,5,True,False,block,block,13-18,13,18
 0022000789,2021-04-08,SAC,DET,8.7,1,3,18,SAC,DET,foul,2,False,False,,Okafor S.FOUL (P1.T3) (C.Kirkland),13-18,13,18
 0022000789,2021-04-08,SAC,DET,8.7,1,3,18,SAC,SAC,ft_miss,11,False,False,MISS Whiteside Free Throw 1 of 2,,13-18,13,18
 0022000789,2021-04-08,SAC,DET,8.7,1,3,18,SAC,SAC,reb,1,False,False,KINGS Rebound,,13-18,13,18
@@ -169,8 +169,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000789,2021-04-08,SAC,DET,20.2,2,3,48,SAC,SAC,fg_miss,1,False,False,MISS Holmes 15' Jump Shot,,40-52,40,52
 0022000789,2021-04-08,SAC,DET,20.27,2,3,44,DET,DET,reb,0,False,False,,Jackson REBOUND (Off:0 Def:2),40-52,40,52
 0022000789,2021-04-08,SAC,DET,20.35,2,3,39,DET,DET,fg_miss,6,False,False,,MISS Jackson 2' Driving Layup,40-52,40,52
-0022000789,2021-04-08,SAC,DET,20.42,2,3,35,DET,DET,fg_make,97,False,False,,Stewart Tip Layup Shot (4 PTS),40-54,40,54
 0022000789,2021-04-08,SAC,DET,20.42,2,3,35,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:2 Def:4),40-54,40,54
+0022000789,2021-04-08,SAC,DET,20.42,2,3,35,DET,DET,fg_make,97,False,False,,Stewart Tip Layup Shot (4 PTS),40-54,40,54
 0022000789,2021-04-08,SAC,DET,20.55,2,3,27,SAC,SAC,tov,40,False,False,Hield Out of Bounds Lost Ball Turnover (P2.T6),,40-54,40,54
 0022000789,2021-04-08,SAC,DET,20.72,2,3,17,DET,DET,fg_make,6,False,False,,Joseph 3' Driving Layup (10 PTS),40-56,40,56
 0022000789,2021-04-08,SAC,DET,20.72,2,3,17,DET,SAC,foul,2,False,False,Hield S.FOUL (P3.PN) (B.Adams),,40-56,40,56
@@ -329,15 +329,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000789,2021-04-08,SAC,DET,36.73,4,11,16,SAC,SAC,fg_miss,80,False,False,MISS Fox 17' Step Back Jump Shot,,76-89,76,89
 0022000789,2021-04-08,SAC,DET,36.8,4,11,12,DET,DET,reb,0,False,False,,Okafor REBOUND (Off:0 Def:3),76-89,76,89
 0022000789,2021-04-08,SAC,DET,37.17,4,10,50,DET,DET,fg_miss,6,True,False,,MISS Okafor 3' Driving Layup,76-89,76,89
+0022000789,2021-04-08,SAC,DET,37.17,4,10,50,DET,SAC,block,6,True,False,block,block,76-89,76,89
 0022000789,2021-04-08,SAC,DET,37.17,4,10,50,DET,DET,reb,0,False,False,,Pistons Rebound,76-89,76,89
 0022000789,2021-04-08,SAC,DET,37.17,4,10,50,DET,SAC,foul,2,False,False,Holmes S.FOUL (P3.T1) (C.Kirkland),,76-89,76,89
-0022000789,2021-04-08,SAC,DET,37.17,4,10,50,DET,SAC,block,6,True,False,block,block,76-89,76,89
 0022000789,2021-04-08,SAC,DET,37.17,4,10,50,DET,DET,ft_make,11,False,False,,Okafor Free Throw 1 of 2 (10 PTS),76-90,76,90
 0022000789,2021-04-08,SAC,DET,37.17,4,10,50,DET,DET,ft_make,12,False,False,,Okafor Free Throw 2 of 2 (11 PTS),76-91,76,91
 0022000789,2021-04-08,SAC,DET,37.35,4,10,39,SAC,SAC,fg_miss,6,True,False,MISS Haliburton 4' Driving Layup,,76-91,76,91
+0022000789,2021-04-08,SAC,DET,37.35,4,10,39,SAC,DET,block,6,True,False,block,block,76-91,76,91
 0022000789,2021-04-08,SAC,DET,37.35,4,10,39,SAC,SAC,reb,0,False,False,KINGS Rebound,,76-91,76,91
 0022000789,2021-04-08,SAC,DET,37.35,4,10,39,SAC,SAC,tov,45,False,False,Haliburton Out of Bounds - Bad Pass Turnover Turnover (P3.T10),,76-91,76,91
-0022000789,2021-04-08,SAC,DET,37.35,4,10,39,SAC,DET,block,6,True,False,block,block,76-91,76,91
 0022000789,2021-04-08,SAC,DET,37.58,4,10,25,DET,DET,fg3_make,80,False,False,,Hayes 25' 3PT Step Back Jump Shot (11 PTS),76-94,76,94
 0022000789,2021-04-08,SAC,DET,37.75,4,10,15,SAC,SAC,fg_make,73,False,False,Barnes 2' Driving Reverse Layup (8 PTS) (Fox 6 AST),,78-94,78,94
 0022000789,2021-04-08,SAC,DET,37.87,4,10,8,DET,DET,fg_miss,5,False,False,,MISS Doumbouya 2' Layup,78-94,78,94
@@ -393,8 +393,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000789,2021-04-08,SAC,DET,43.43,4,4,34,SAC,SAC,fg3_miss,2,False,False,MISS Hield 25' 3PT Running Jump Shot,,91-103,91,103
 0022000789,2021-04-08,SAC,DET,43.5,4,4,30,SAC,SAC,reb,0,False,False,Fox REBOUND (Off:1 Def:7),,91-103,91,103
 0022000789,2021-04-08,SAC,DET,43.62,4,4,23,SAC,SAC,fg_miss,6,True,False,MISS Fox 3' Driving Layup,,91-103,91,103
-0022000789,2021-04-08,SAC,DET,43.62,4,4,23,DET,DET,reb,0,False,False,,Pistons Rebound,91-103,91,103
 0022000789,2021-04-08,SAC,DET,43.62,4,4,23,SAC,DET,block,6,True,False,block,block,91-103,91,103
+0022000789,2021-04-08,SAC,DET,43.62,4,4,23,DET,DET,reb,0,False,False,,Pistons Rebound,91-103,91,103
 0022000789,2021-04-08,SAC,DET,43.83,4,4,10,DET,DET,tov,45,False,False,,Joseph Out of Bounds - Bad Pass Turnover Turnover (P2.T13),91-103,91,103
 0022000789,2021-04-08,SAC,DET,44.05,4,3,57,SAC,DET,foul,2,False,False,,Jackson S.FOUL (P2.PN) (C.Kirkland),91-103,91,103
 0022000789,2021-04-08,SAC,DET,44.05,4,3,57,SAC,SAC,ft_miss,11,False,False,MISS Haliburton Free Throw 1 of 2,,91-103,91,103

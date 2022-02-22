@@ -39,8 +39,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800263,2018-11-21,UTA,SAC,3.45,1,8,33,UTA,UTA,fg_miss,73,False,False,MISS Rubio 2' Driving Reverse Layup,,6-13,6,13
 0021800263,2018-11-21,UTA,SAC,3.48,1,8,31,SAC,SAC,reb,0,False,False,,Hield REBOUND (Off:0 Def:2),6-13,6,13
 0021800263,2018-11-21,UTA,SAC,3.53,1,8,28,SAC,SAC,fg_miss,6,True,False,,MISS Hield 2' Driving Layup,6-13,6,13
-0021800263,2018-11-21,UTA,SAC,3.53,1,8,28,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:0 Def:1),,6-13,6,13
 0021800263,2018-11-21,UTA,SAC,3.53,1,8,28,SAC,UTA,block,6,True,False,block,block,6-13,6,13
+0021800263,2018-11-21,UTA,SAC,3.53,1,8,28,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:0 Def:1),,6-13,6,13
 0021800263,2018-11-21,UTA,SAC,3.72,1,8,17,UTA,UTA,fg3_make,1,False,False,Crowder 3PT Jump Shot (3 PTS) (Ingles 2 AST),,9-13,9,13
 0021800263,2018-11-21,UTA,SAC,3.97,1,8,2,SAC,SAC,fg_make,58,False,False,,Cauley-Stein 2' Turnaround Hook Shot (4 PTS) (Fox 4 AST),9-15,9,15
 0021800263,2018-11-21,UTA,SAC,4.12,1,7,53,UTA,SAC,foul,1,False,False,,Shumpert P.FOUL (P1.T2) (K.Mauer),9-15,9,15
@@ -128,8 +128,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800263,2018-11-21,UTA,SAC,12.9,2,11,6,SAC,SAC,fg_make,63,False,False,,Bogdanovic 8' Fadeaway Jumper (4 PTS),23-38,23,38
 0021800263,2018-11-21,UTA,SAC,13.08,2,10,55,UTA,UTA,fg_make,79,False,False,Mitchell 18' Pullup Jump Shot (8 PTS),,25-38,25,38
 0021800263,2018-11-21,UTA,SAC,13.55,2,10,27,SAC,SAC,fg_miss,6,True,False,,MISS Bogdanovic 9' Driving Layup,25-38,25,38
-0021800263,2018-11-21,UTA,SAC,13.55,2,10,27,UTA,UTA,reb,0,False,False,Crowder REBOUND (Off:0 Def:2),,25-38,25,38
 0021800263,2018-11-21,UTA,SAC,13.55,2,10,27,SAC,UTA,block,6,True,False,block,block,25-38,25,38
+0021800263,2018-11-21,UTA,SAC,13.55,2,10,27,UTA,UTA,reb,0,False,False,Crowder REBOUND (Off:0 Def:2),,25-38,25,38
 0021800263,2018-11-21,UTA,SAC,13.62,2,10,23,UTA,SAC,foul,1,False,False,,Bogdanovic P.FOUL (P2.T1) (K.Mauer),25-38,25,38
 0021800263,2018-11-21,UTA,SAC,13.73,2,10,16,UTA,UTA,fg_miss,6,False,False,MISS Mitchell 2' Driving Layup,,25-38,25,38
 0021800263,2018-11-21,UTA,SAC,13.82,2,10,11,UTA,UTA,reb,0,False,False,Favors REBOUND (Off:3 Def:1),,25-38,25,38
@@ -250,8 +250,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800263,2018-11-21,UTA,SAC,26.33,3,9,40,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:4 Def:8),,54-62,54,62
 0021800263,2018-11-21,UTA,SAC,26.6,3,9,24,UTA,UTA,fg_make,6,False,False,Crowder 2' Driving Layup (12 PTS) (Ingles 5 AST),,56-62,56,62
 0021800263,2018-11-21,UTA,SAC,26.68,3,9,19,SAC,SAC,fg_miss,6,True,False,,MISS Fox 8' Driving Layup,56-62,56,62
-0021800263,2018-11-21,UTA,SAC,26.68,3,9,19,SAC,SAC,reb,0,False,False,,Kings Rebound,56-62,56,62
 0021800263,2018-11-21,UTA,SAC,26.68,3,9,19,SAC,UTA,block,6,True,False,block,block,56-62,56,62
+0021800263,2018-11-21,UTA,SAC,26.68,3,9,19,SAC,SAC,reb,0,False,False,,Kings Rebound,56-62,56,62
 0021800263,2018-11-21,UTA,SAC,26.83,3,9,10,SAC,UTA,foul,2,False,False,Crowder S.FOUL (P1.T1) (K.Mauer),,56-62,56,62
 0021800263,2018-11-21,UTA,SAC,26.83,3,9,10,SAC,SAC,ft_make,11,False,False,,Cauley-Stein Free Throw 1 of 2 (13 PTS),56-63,56,63
 0021800263,2018-11-21,UTA,SAC,26.83,3,9,10,SAC,SAC,ft_miss,12,False,False,,MISS Cauley-Stein Free Throw 2 of 2,56-63,56,63
@@ -297,8 +297,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800263,2018-11-21,UTA,SAC,32.47,3,3,32,SAC,SAC,fg_miss,43,False,False,,MISS Cauley-Stein 2' Alley Oop Layup,77-78,77,78
 0021800263,2018-11-21,UTA,SAC,32.5,3,3,30,UTA,UTA,reb,0,False,False,Ingles REBOUND (Off:0 Def:3),,77-78,77,78
 0021800263,2018-11-21,UTA,SAC,32.75,3,3,15,UTA,UTA,fg_miss,6,True,False,MISS Ingles 4' Driving Layup,,77-78,77,78
-0021800263,2018-11-21,UTA,SAC,32.75,3,3,15,UTA,UTA,reb,0,False,False,JAZZ Rebound,,77-78,77,78
 0021800263,2018-11-21,UTA,SAC,32.75,3,3,15,UTA,SAC,block,6,True,False,block,block,77-78,77,78
+0021800263,2018-11-21,UTA,SAC,32.75,3,3,15,UTA,UTA,reb,0,False,False,JAZZ Rebound,,77-78,77,78
 0021800263,2018-11-21,UTA,SAC,32.88,3,3,7,UTA,UTA,fg3_miss,78,False,False,MISS Ingles 25' 3PT Floating Jump Shot,,77-78,77,78
 0021800263,2018-11-21,UTA,SAC,32.93,3,3,4,SAC,SAC,reb,0,False,False,,Bagley III REBOUND (Off:0 Def:5),77-78,77,78
 0021800263,2018-11-21,UTA,SAC,32.98,3,3,1,SAC,UTA,foul,2,False,False,Ingles S.FOUL (P3.T3) (E.Dalen),,77-78,77,78
@@ -447,6 +447,6 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800263,2018-11-21,UTA,SAC,47.87,4,0,8,UTA,UTA,ft_miss,10,False,False,MISS Rubio Free Throw 1 of 1,,110-119,110,119
 0021800263,2018-11-21,UTA,SAC,47.87,4,0,8,UTA,UTA,reb,0,False,False,JAZZ Rebound,,110-119,110,119
 0021800263,2018-11-21,UTA,SAC,47.97,4,0,2,UTA,UTA,fg3_miss,79,True,False,MISS Mitchell 26' 3PT Pullup Jump Shot,,110-119,110,119
-0021800263,2018-11-21,UTA,SAC,47.97,4,0,2,SAC,SAC,reb,0,False,False,,Bogdanovic REBOUND (Off:1 Def:4),110-119,110,119
 0021800263,2018-11-21,UTA,SAC,47.97,4,0,2,UTA,SAC,block,79,True,False,block,block,110-119,110,119
+0021800263,2018-11-21,UTA,SAC,47.97,4,0,2,SAC,SAC,reb,0,False,False,,Bogdanovic REBOUND (Off:1 Def:4),110-119,110,119
 0021800263,2018-11-21,UTA,SAC,48.0,4,0,0,SAC,,period_end,0,False,False,,,110-119,110,119

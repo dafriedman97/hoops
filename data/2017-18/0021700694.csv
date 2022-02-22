@@ -79,8 +79,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700694,2018-01-22,DEN,POR,8.55,1,3,27,DEN,DEN,fg_miss,78,False,False,MISS Harris 8' Floating Jump Shot,,17-15,17,15
 0021700694,2018-01-22,DEN,POR,8.6,1,3,24,DEN,DEN,reb,0,False,False,Harris REBOUND (Off:1 Def:1),,17-15,17,15
 0021700694,2018-01-22,DEN,POR,8.9,1,3,6,DEN,DEN,fg_miss,6,True,False,MISS Murray 4' Driving Layup,,17-15,17,15
-0021700694,2018-01-22,DEN,POR,8.9,1,3,6,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,17-15,17,15
 0021700694,2018-01-22,DEN,POR,8.9,1,3,6,DEN,POR,block,6,True,False,block,block,17-15,17,15
+0021700694,2018-01-22,DEN,POR,8.9,1,3,6,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,17-15,17,15
 0021700694,2018-01-22,DEN,POR,9.05,1,2,57,DEN,DEN,tov,2,False,True,Murray Lost Ball Turnover (P1.T3),,17-15,17,15
 0021700694,2018-01-22,DEN,POR,9.05,1,2,57,DEN,POR,steal,2,False,True,steal,steal,17-15,17,15
 0021700694,2018-01-22,DEN,POR,9.25,1,2,45,POR,DEN,foul,2,False,False,Murray S.FOUL (P1.T3) (M.Davis),,17-15,17,15
@@ -186,8 +186,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700694,2018-01-22,DEN,POR,20.1,2,3,54,DEN,DEN,fg3_miss,1,False,False,MISS Harris 24' 3PT Jump Shot,,37-37,37,37
 0021700694,2018-01-22,DEN,POR,20.18,2,3,49,POR,POR,reb,0,False,False,,Lillard REBOUND (Off:0 Def:2),37-37,37,37
 0021700694,2018-01-22,DEN,POR,20.37,2,3,38,POR,POR,tov,1,False,True,,Nurkic Bad Pass Turnover (P1.T3),37-37,37,37
-0021700694,2018-01-22,DEN,POR,20.37,2,3,38,DEN,DEN,tov,4,False,False,Chandler Traveling Turnover (P1.T9),,37-37,37,37
 0021700694,2018-01-22,DEN,POR,20.37,2,3,38,POR,DEN,steal,1,False,True,steal,steal,37-37,37,37
+0021700694,2018-01-22,DEN,POR,20.37,2,3,38,DEN,DEN,tov,4,False,False,Chandler Traveling Turnover (P1.T9),,37-37,37,37
 0021700694,2018-01-22,DEN,POR,20.55,2,3,27,POR,POR,fg_miss,3,False,False,,MISS Nurkic 6' Hook Shot,37-37,37,37
 0021700694,2018-01-22,DEN,POR,20.62,2,3,23,DEN,DEN,reb,0,False,False,Plumlee REBOUND (Off:1 Def:1),,37-37,37,37
 0021700694,2018-01-22,DEN,POR,20.72,2,3,17,DEN,DEN,fg_make,79,False,False,Murray 19' Pullup Jump Shot (15 PTS) (Plumlee 2 AST),,39-37,39,37
@@ -212,9 +212,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700694,2018-01-22,DEN,POR,23.92,2,0,5,DEN,DEN,fg_make,78,False,False,Murray 12' Floating Jump Shot (17 PTS),,45-49,45,49
 0021700694,2018-01-22,DEN,POR,23.98,2,0,1,POR,POR,tov,39,False,False,,McCollum Step Out of Bounds Turnover (P1.T5),45-49,45,49
 0021700694,2018-01-22,DEN,POR,24.0,2,0,0,DEN,DEN,tov,1,False,True,Jokic Bad Pass Turnover (P1.T11),,45-49,45,49
+0021700694,2018-01-22,DEN,POR,24.0,2,0,0,DEN,POR,steal,1,False,True,steal,steal,45-49,45,49
 0021700694,2018-01-22,DEN,POR,24.0,2,0,0,DEN,,period_end,0,False,False,,,45-49,45,49
 0021700694,2018-01-22,DEN,POR,24.0,3,12,0,DEN,,period_start,0,False,False,,,45-49,45,49
-0021700694,2018-01-22,DEN,POR,24.0,2,0,0,DEN,POR,steal,1,False,True,steal,steal,45-49,45,49
 0021700694,2018-01-22,DEN,POR,24.17,3,11,50,POR,POR,tov,4,False,False,,Lillard Traveling Turnover (P1.T6),45-49,45,49
 0021700694,2018-01-22,DEN,POR,24.42,3,11,35,DEN,DEN,fg_make,52,False,False,Plumlee 2' Alley Oop Dunk (4 PTS) (Murray 4 AST),,47-49,47,49
 0021700694,2018-01-22,DEN,POR,24.75,3,11,15,POR,POR,fg_miss,79,False,False,,MISS Aminu 19' Pullup Jump Shot,47-49,47,49
@@ -375,8 +375,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700694,2018-01-22,DEN,POR,40.23,4,7,46,DEN,DEN,fg3_miss,1,False,False,MISS Harris 3PT Jump Shot,,82-88,82,88
 0021700694,2018-01-22,DEN,POR,40.27,4,7,44,POR,POR,reb,0,False,False,,Davis REBOUND (Off:2 Def:8),82-88,82,88
 0021700694,2018-01-22,DEN,POR,40.6,4,7,24,POR,POR,fg_miss,79,True,False,,MISS Napier 4' Pullup Jump Shot,82-88,82,88
-0021700694,2018-01-22,DEN,POR,40.6,4,7,24,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,82-88,82,88
 0021700694,2018-01-22,DEN,POR,40.6,4,7,24,POR,DEN,block,79,True,False,block,block,82-88,82,88
+0021700694,2018-01-22,DEN,POR,40.6,4,7,24,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,82-88,82,88
 0021700694,2018-01-22,DEN,POR,40.83,4,7,10,DEN,DEN,fg_miss,75,False,False,MISS Harris 3' Driving Finger Roll Layup,,82-88,82,88
 0021700694,2018-01-22,DEN,POR,40.85,4,7,9,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:4 Def:7),,82-88,82,88
 0021700694,2018-01-22,DEN,POR,40.93,4,7,4,DEN,DEN,fg_miss,44,True,False,MISS Lyles 3' Reverse Layup,,82-88,82,88
@@ -393,8 +393,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700694,2018-01-22,DEN,POR,42.05,4,5,57,POR,POR,ft_make,11,False,False,,Aminu Free Throw 1 of 2 (7 PTS),84-89,84,89
 0021700694,2018-01-22,DEN,POR,42.05,4,5,57,POR,POR,ft_make,12,False,False,,Aminu Free Throw 2 of 2 (8 PTS),84-90,84,90
 0021700694,2018-01-22,DEN,POR,42.28,4,5,43,DEN,DEN,fg_miss,3,True,False,MISS Jokic 5' Hook Shot,,84-90,84,90
-0021700694,2018-01-22,DEN,POR,42.28,4,5,43,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,84-90,84,90
 0021700694,2018-01-22,DEN,POR,42.28,4,5,43,DEN,POR,block,3,True,False,block,block,84-90,84,90
+0021700694,2018-01-22,DEN,POR,42.28,4,5,43,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,84-90,84,90
 0021700694,2018-01-22,DEN,POR,42.45,4,5,33,DEN,DEN,fg_miss,1,False,False,MISS Jokic 13' Jump Shot,,84-90,84,90
 0021700694,2018-01-22,DEN,POR,42.5,4,5,30,POR,POR,reb,0,False,False,,McCollum REBOUND (Off:0 Def:2),84-90,84,90
 0021700694,2018-01-22,DEN,POR,42.72,4,5,17,POR,POR,fg_miss,78,False,False,,MISS Aminu 9' Floating Jump Shot,84-90,84,90
@@ -449,8 +449,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700694,2018-01-22,DEN,POR,47.75,4,0,15,POR,POR,fg_miss,47,False,False,,MISS Turner 8' Turnaround Jump Shot,100-99,100,99
 0021700694,2018-01-22,DEN,POR,47.8,4,0,12,POR,POR,reb,0,False,False,,Turner REBOUND (Off:1 Def:2),100-99,100,99
 0021700694,2018-01-22,DEN,POR,47.85,4,0,9,POR,POR,fg_miss,6,True,False,,MISS Lillard 6' Driving Layup,100-99,100,99
-0021700694,2018-01-22,DEN,POR,47.85,4,0,9,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,100-99,100,99
 0021700694,2018-01-22,DEN,POR,47.85,4,0,9,POR,DEN,block,6,True,False,block,block,100-99,100,99
+0021700694,2018-01-22,DEN,POR,47.85,4,0,9,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,100-99,100,99
 0021700694,2018-01-22,DEN,POR,47.88,4,0,7,DEN,POR,foul,1,False,False,,Lillard P.FOUL (P1.PN) (S.Wall),100-99,100,99
 0021700694,2018-01-22,DEN,POR,47.88,4,0,7,DEN,DEN,ft_make,11,False,False,Barton Free Throw 1 of 2 (4 PTS),,101-99,101,99
 0021700694,2018-01-22,DEN,POR,47.88,4,0,7,DEN,DEN,ft_make,12,False,False,Barton Free Throw 2 of 2 (5 PTS),,102-99,102,99

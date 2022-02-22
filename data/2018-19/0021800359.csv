@@ -190,9 +190,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800359,2018-12-05,TOR,PHI,19.68,2,4,19,PHI,PHI,fg3_miss,79,False,False,,MISS Chandler 27' 3PT Pullup Jump Shot,40-42,40,42
 0021800359,2018-12-05,TOR,PHI,19.7,2,4,18,PHI,PHI,reb,0,False,False,,Butler REBOUND (Off:1 Def:5),40-42,40,42
 0021800359,2018-12-05,TOR,PHI,19.72,2,4,17,PHI,PHI,fg_miss,72,True,False,,MISS Butler 1' Putback Layup,40-42,40,42
+0021800359,2018-12-05,TOR,PHI,19.72,2,4,17,PHI,TOR,block,72,True,False,block,block,40-42,40,42
 0021800359,2018-12-05,TOR,PHI,19.72,2,4,17,PHI,PHI,reb,0,False,False,,76ers Rebound,40-42,40,42
 0021800359,2018-12-05,TOR,PHI,19.72,2,4,17,PHI,TOR,foul,6,False,False,Siakam AWAY.FROM.PLAY.FOUL (P3.T4) (E.Dalen),,40-42,40,42
-0021800359,2018-12-05,TOR,PHI,19.72,2,4,17,PHI,TOR,block,72,True,False,block,block,40-42,40,42
 0021800359,2018-12-05,TOR,PHI,19.72,2,4,17,PHI,PHI,ft_make,10,False,False,,Butler Free Throw 1 of 1 (13 PTS),40-43,40,43
 0021800359,2018-12-05,TOR,PHI,19.77,2,4,14,PHI,PHI,fg_miss,1,False,False,,MISS Embiid 24' Jump Shot,40-43,40,43
 0021800359,2018-12-05,TOR,PHI,19.8,2,4,12,PHI,PHI,reb,0,False,False,,Simmons REBOUND (Off:1 Def:2),40-43,40,43
@@ -241,9 +241,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800359,2018-12-05,TOR,PHI,23.87,2,0,8,TOR,TOR,fg_miss,79,False,False,MISS Leonard 13' Pullup Jump Shot,,53-49,53,49
 0021800359,2018-12-05,TOR,PHI,23.9,2,0,6,PHI,PHI,reb,0,False,False,,76ers Rebound,53-49,53,49
 0021800359,2018-12-05,TOR,PHI,24.0,2,0,0,PHI,PHI,tov,2,False,True,,McConnell Lost Ball Turnover (P5.T14),53-49,53,49
+0021800359,2018-12-05,TOR,PHI,24.0,2,0,0,PHI,TOR,steal,2,False,True,steal,steal,53-49,53,49
 0021800359,2018-12-05,TOR,PHI,24.0,2,0,0,PHI,,period_end,0,False,False,,,53-49,53,49
 0021800359,2018-12-05,TOR,PHI,24.0,3,12,0,PHI,,period_start,0,False,False,,,53-49,53,49
-0021800359,2018-12-05,TOR,PHI,24.0,2,0,0,PHI,TOR,steal,2,False,True,steal,steal,53-49,53,49
 0021800359,2018-12-05,TOR,PHI,24.35,3,11,39,TOR,TOR,tov,1,False,True,Leonard Bad Pass Turnover (P1.T8),,53-49,53,49
 0021800359,2018-12-05,TOR,PHI,24.35,3,11,39,TOR,PHI,steal,1,False,True,steal,steal,53-49,53,49
 0021800359,2018-12-05,TOR,PHI,24.42,3,11,35,PHI,PHI,tov,1,False,True,,Redick Bad Pass Turnover (P3.T15),53-49,53,49
@@ -363,8 +363,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800359,2018-12-05,TOR,PHI,36.7,4,11,18,TOR,TOR,ft_make,10,False,False,Valanciunas Free Throw 1 of 1 (11 PTS),,81-79,81,79
 0021800359,2018-12-05,TOR,PHI,36.92,4,11,5,PHI,PHI,fg_make,57,False,False,,McConnell 2' Driving Hook Shot (4 PTS),81-81,81,81
 0021800359,2018-12-05,TOR,PHI,37.1,4,10,54,TOR,TOR,fg_miss,57,True,False,MISS Valanciunas 2' Driving Hook Shot,,81-81,81,81
-0021800359,2018-12-05,TOR,PHI,37.1,4,10,54,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,81-81,81,81
 0021800359,2018-12-05,TOR,PHI,37.1,4,10,54,TOR,PHI,block,57,True,False,block,block,81-81,81,81
+0021800359,2018-12-05,TOR,PHI,37.1,4,10,54,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,81-81,81,81
 0021800359,2018-12-05,TOR,PHI,37.25,4,10,45,TOR,TOR,fg3_make,1,False,False,VanVleet 27' 3PT Jump Shot (3 PTS) (Wright 2 AST),,84-81,84,81
 0021800359,2018-12-05,TOR,PHI,37.48,4,10,31,PHI,PHI,fg3_miss,66,False,False,,MISS Redick 27' 3PT Jump Bank Shot,84-81,84,81
 0021800359,2018-12-05,TOR,PHI,37.52,4,10,29,TOR,TOR,reb,0,False,False,VanVleet REBOUND (Off:0 Def:1),,84-81,84,81

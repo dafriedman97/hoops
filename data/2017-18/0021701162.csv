@@ -34,8 +34,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701162,2018-04-03,MIL,BOS,4.8,1,7,12,MIL,BOS,steal,1,False,True,steal,steal,9-16,9,16
 0021701162,2018-04-03,MIL,BOS,4.83,1,7,10,BOS,MIL,foul,2,False,False,Bledsoe S.FOUL (P1.T3) (J.Goble),,9-16,9,16
 0021701162,2018-04-03,MIL,BOS,4.83,1,7,10,BOS,BOS,ft_make,11,False,False,,Tatum Free Throw 1 of 2 (4 PTS),9-17,9,17
-0021701162,2018-04-03,MIL,BOS,4.83,1,7,10,BOS,BOS,ft_make,12,False,False,,Tatum Free Throw 2 of 2 (5 PTS),9-18,9,18
 0021701162,2018-04-03,MIL,BOS,4.83,1,7,10,MIL,MIL,timeout,1,False,False,BUCKS Timeout: Regular (Full 1 Short 0),,9-18,9,18
+0021701162,2018-04-03,MIL,BOS,4.83,1,7,10,BOS,BOS,ft_make,12,False,False,,Tatum Free Throw 2 of 2 (5 PTS),9-18,9,18
 0021701162,2018-04-03,MIL,BOS,5.15,1,6,51,MIL,MIL,fg_make,1,False,False,Middleton 16' Jump Shot (4 PTS) (Bledsoe 2 AST),,11-18,11,18
 0021701162,2018-04-03,MIL,BOS,5.47,1,6,32,BOS,BOS,tov,45,False,False,,Tatum Out of Bounds - Bad Pass Turnover Turnover (P1.T1),11-18,11,18
 0021701162,2018-04-03,MIL,BOS,5.77,1,6,14,MIL,MIL,fg_make,9,False,False,Henson 1' Driving Dunk (4 PTS) (Middleton 2 AST),,13-18,13,18
@@ -84,9 +84,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701162,2018-04-03,MIL,BOS,11.68,1,0,19,BOS,BOS,ft_miss,10,False,False,,MISS Brown Free Throw 1 of 1,26-31,26,31
 0021701162,2018-04-03,MIL,BOS,11.68,1,0,19,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:0 Def:3),,26-31,26,31
 0021701162,2018-04-03,MIL,BOS,12.0,1,0,0,MIL,MIL,tov,1,False,True,Antetokounmpo Bad Pass Turnover (P3.T5),,26-31,26,31
+0021701162,2018-04-03,MIL,BOS,12.0,1,0,0,MIL,BOS,steal,1,False,True,steal,steal,26-31,26,31
 0021701162,2018-04-03,MIL,BOS,12.0,1,0,0,MIL,,period_end,0,False,False,,,26-31,26,31
 0021701162,2018-04-03,MIL,BOS,12.0,2,12,0,MIL,,period_start,0,False,False,,,26-31,26,31
-0021701162,2018-04-03,MIL,BOS,12.0,1,0,0,MIL,BOS,steal,1,False,True,steal,steal,26-31,26,31
 0021701162,2018-04-03,MIL,BOS,12.2,2,11,48,MIL,MIL,fg3_make,1,False,False,Terry 3PT Jump Shot (6 PTS) (Brown 1 AST),,29-31,29,31
 0021701162,2018-04-03,MIL,BOS,12.5,2,11,30,BOS,BOS,fg3_miss,1,False,False,,MISS Morris Sr. 27' 3PT Jump Shot,29-31,29,31
 0021701162,2018-04-03,MIL,BOS,12.53,2,11,28,MIL,MIL,reb,0,False,False,Brown REBOUND (Off:0 Def:2),,29-31,29,31
@@ -176,8 +176,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701162,2018-04-03,MIL,BOS,23.28,2,0,43,MIL,MIL,fg_make,79,False,False,Antetokounmpo 17' Pullup Jump Shot (15 PTS) (Snell 2 AST),,58-51,58,51
 0021701162,2018-04-03,MIL,BOS,23.58,2,0,25,BOS,BOS,fg_make,3,False,False,,Monroe 2' Hook Shot (8 PTS),58-53,58,53
 0021701162,2018-04-03,MIL,BOS,23.97,2,0,2,MIL,MIL,fg_miss,79,True,False,MISS Antetokounmpo 10' Pullup Jump Shot,,58-53,58,53
-0021701162,2018-04-03,MIL,BOS,23.97,2,0,2,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:1),58-53,58,53
 0021701162,2018-04-03,MIL,BOS,23.97,2,0,2,MIL,BOS,block,79,True,False,block,block,58-53,58,53
+0021701162,2018-04-03,MIL,BOS,23.97,2,0,2,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:1),58-53,58,53
 0021701162,2018-04-03,MIL,BOS,24.0,2,0,0,BOS,BOS,fg3_make,1,False,False,,Tatum 27' 3PT Jump Shot (11 PTS),58-56,58,56
 0021701162,2018-04-03,MIL,BOS,24.0,2,0,0,BOS,,period_end,0,False,False,,,58-56,58,56
 0021701162,2018-04-03,MIL,BOS,24.0,3,12,0,BOS,,period_start,0,False,False,,,58-56,58,56
@@ -213,15 +213,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701162,2018-04-03,MIL,BOS,27.57,3,8,26,BOS,BOS,fg3_make,1,False,False,,Brown 27' 3PT Jump Shot (13 PTS) (Horford 4 AST),62-63,62,63
 0021701162,2018-04-03,MIL,BOS,27.85,3,8,9,MIL,MIL,tov,39,False,False,Henson Step Out of Bounds Turnover (P2.T10),,62-63,62,63
 0021701162,2018-04-03,MIL,BOS,28.2,3,7,48,BOS,BOS,fg_miss,5,True,False,,MISS Allen 5' Layup,62-63,62,63
-0021701162,2018-04-03,MIL,BOS,28.2,3,7,48,BOS,BOS,reb,0,False,False,,Celtics Rebound,62-63,62,63
 0021701162,2018-04-03,MIL,BOS,28.2,3,7,48,BOS,MIL,block,5,True,False,block,block,62-63,62,63
+0021701162,2018-04-03,MIL,BOS,28.2,3,7,48,BOS,BOS,reb,0,False,False,,Celtics Rebound,62-63,62,63
 0021701162,2018-04-03,MIL,BOS,28.28,3,7,43,BOS,BOS,fg_miss,78,False,False,,MISS Tatum 17' Floating Jump Shot,62-63,62,63
 0021701162,2018-04-03,MIL,BOS,28.32,3,7,41,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:1 Def:7),,62-63,62,63
 0021701162,2018-04-03,MIL,BOS,28.43,3,7,34,MIL,MIL,fg3_miss,1,False,False,MISS Snell 27' 3PT Jump Shot,,62-63,62,63
 0021701162,2018-04-03,MIL,BOS,28.48,3,7,31,BOS,BOS,reb,0,False,False,,Horford REBOUND (Off:1 Def:3),62-63,62,63
 0021701162,2018-04-03,MIL,BOS,28.82,3,7,11,BOS,BOS,fg_miss,5,True,False,,MISS Baynes 3' Layup,62-63,62,63
-0021701162,2018-04-03,MIL,BOS,28.82,3,7,11,BOS,BOS,reb,0,False,False,,Celtics Rebound,62-63,62,63
 0021701162,2018-04-03,MIL,BOS,28.82,3,7,11,BOS,MIL,block,5,True,False,block,block,62-63,62,63
+0021701162,2018-04-03,MIL,BOS,28.82,3,7,11,BOS,BOS,reb,0,False,False,,Celtics Rebound,62-63,62,63
 0021701162,2018-04-03,MIL,BOS,28.9,3,7,6,BOS,BOS,tov,1,False,True,,Allen Bad Pass Turnover (P1.T9),62-63,62,63
 0021701162,2018-04-03,MIL,BOS,28.9,3,7,6,BOS,MIL,steal,1,False,True,steal,steal,62-63,62,63
 0021701162,2018-04-03,MIL,BOS,28.98,3,7,1,MIL,BOS,foul,2,False,False,,Allen S.FOUL (P2.T1) (L.Wood),62-63,62,63
@@ -397,8 +397,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701162,2018-04-03,MIL,BOS,47.05,4,0,57,MIL,BOS,block,1,True,False,block,block,101-96,101,96
 0021701162,2018-04-03,MIL,BOS,47.1,4,0,54,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:1 Def:3),101-96,101,96
 0021701162,2018-04-03,MIL,BOS,47.12,4,0,53,BOS,BOS,fg_miss,41,True,False,,MISS Brown Running Layup,101-96,101,96
-0021701162,2018-04-03,MIL,BOS,47.12,4,0,53,MIL,MIL,reb,0,False,False,BUCKS Rebound,,101-96,101,96
 0021701162,2018-04-03,MIL,BOS,47.12,4,0,53,BOS,MIL,block,41,True,False,block,block,101-96,101,96
+0021701162,2018-04-03,MIL,BOS,47.12,4,0,53,MIL,MIL,reb,0,False,False,BUCKS Rebound,,101-96,101,96
 0021701162,2018-04-03,MIL,BOS,47.4,4,0,36,MIL,MIL,fg_make,75,False,False,Bledsoe 1' Driving Finger Roll Layup (18 PTS),,103-96,103,96
 0021701162,2018-04-03,MIL,BOS,47.48,4,0,31,BOS,MIL,foul,2,False,False,Henson S.FOUL (P3.PN) (J.Goble),,103-96,103,96
 0021701162,2018-04-03,MIL,BOS,47.48,4,0,31,BOS,BOS,ft_make,11,False,False,,Tatum Free Throw 1 of 2 (17 PTS),103-97,103,97

@@ -95,10 +95,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800336,2018-12-01,SAC,IND,11.7,1,0,18,IND,IND,fg3_miss,1,False,False,,MISS Holiday 3PT Jump Shot,26-30,26,30
 0021800336,2018-12-01,SAC,IND,11.75,1,0,15,SAC,SAC,reb,0,False,False,Jackson REBOUND (Off:0 Def:1),,26-30,26,30
 0021800336,2018-12-01,SAC,IND,12.0,1,0,0,SAC,SAC,fg_miss,1,True,False,MISS Bogdanovic 7' Jump Shot,,26-30,26,30
+0021800336,2018-12-01,SAC,IND,12.0,1,0,0,SAC,IND,block,1,True,False,block,block,26-30,26,30
 0021800336,2018-12-01,SAC,IND,12.0,1,0,0,SAC,SAC,reb,0,False,False,KINGS Rebound,,26-30,26,30
 0021800336,2018-12-01,SAC,IND,12.0,1,0,0,SAC,,period_end,0,False,False,,,26-30,26,30
 0021800336,2018-12-01,SAC,IND,12.0,2,12,0,SAC,,period_start,0,False,False,,,26-30,26,30
-0021800336,2018-12-01,SAC,IND,12.0,1,0,0,SAC,IND,block,1,True,False,block,block,26-30,26,30
 0021800336,2018-12-01,SAC,IND,12.42,2,11,35,IND,IND,fg_miss,3,False,False,,MISS Sabonis 4' Hook Shot,26-30,26,30
 0021800336,2018-12-01,SAC,IND,12.47,2,11,32,SAC,SAC,reb,0,False,False,Koufos REBOUND (Off:0 Def:1),,26-30,26,30
 0021800336,2018-12-01,SAC,IND,12.67,2,11,20,SAC,SAC,fg3_make,1,False,False,Hield 25' 3PT Jump Shot (6 PTS) (Bogdanovic 1 AST),,29-30,29,30
@@ -108,8 +108,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800336,2018-12-01,SAC,IND,13.25,2,10,45,IND,IND,reb,0,False,False,,Joseph REBOUND (Off:0 Def:1),29-30,29,30
 0021800336,2018-12-01,SAC,IND,13.35,2,10,39,IND,IND,fg_make,79,False,False,,Holiday 18' Pullup Jump Shot (2 PTS) (Young 1 AST),29-32,29,32
 0021800336,2018-12-01,SAC,IND,13.65,2,10,21,SAC,SAC,fg_miss,6,True,False,MISS Williams 3' Driving Layup,,29-32,29,32
-0021800336,2018-12-01,SAC,IND,13.65,2,10,21,IND,IND,reb,0,False,False,,Holiday REBOUND (Off:0 Def:1),29-32,29,32
 0021800336,2018-12-01,SAC,IND,13.65,2,10,21,SAC,IND,block,6,True,False,block,block,29-32,29,32
+0021800336,2018-12-01,SAC,IND,13.65,2,10,21,IND,IND,reb,0,False,False,,Holiday REBOUND (Off:0 Def:1),29-32,29,32
 0021800336,2018-12-01,SAC,IND,13.77,2,10,14,IND,IND,fg_make,98,False,False,,Young 2' Cutting Layup Shot (2 PTS) (Holiday 1 AST),29-34,29,34
 0021800336,2018-12-01,SAC,IND,13.93,2,10,4,SAC,SAC,fg3_make,1,False,False,Jackson 26' 3PT Jump Shot (5 PTS) (Bogdanovic 2 AST),,32-34,32,34
 0021800336,2018-12-01,SAC,IND,14.12,2,9,53,IND,IND,fg_miss,1,False,False,,MISS Sabonis 18' Jump Shot,32-34,32,34
@@ -194,8 +194,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800336,2018-12-01,SAC,IND,22.05,2,1,57,IND,IND,ft_miss,10,False,False,,MISS Young Free Throw 1 of 1,56-57,56,57
 0021800336,2018-12-01,SAC,IND,22.1,2,1,54,SAC,SAC,reb,0,False,False,Cauley-Stein REBOUND (Off:2 Def:2),,56-57,56,57
 0021800336,2018-12-01,SAC,IND,22.22,2,1,47,SAC,SAC,fg_miss,5,True,False,MISS Fox 3' Layup,,56-57,56,57
-0021800336,2018-12-01,SAC,IND,22.22,2,1,47,SAC,SAC,reb,0,False,False,Cauley-Stein REBOUND (Off:3 Def:2),,56-57,56,57
 0021800336,2018-12-01,SAC,IND,22.22,2,1,47,SAC,IND,block,5,True,False,block,block,56-57,56,57
+0021800336,2018-12-01,SAC,IND,22.22,2,1,47,SAC,SAC,reb,0,False,False,Cauley-Stein REBOUND (Off:3 Def:2),,56-57,56,57
 0021800336,2018-12-01,SAC,IND,22.3,2,1,42,SAC,SAC,fg_make,5,False,False,Cauley-Stein 1' Layup (10 PTS),,58-57,58,57
 0021800336,2018-12-01,SAC,IND,22.52,2,1,29,IND,IND,fg3_make,1,False,False,,Evans 24' 3PT Jump Shot (10 PTS) (Collison 8 AST),58-60,58,60
 0021800336,2018-12-01,SAC,IND,22.78,2,1,13,SAC,SAC,tov,1,False,True,Fox Bad Pass Turnover (P4.T8),,58-60,58,60
@@ -300,8 +300,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800336,2018-12-01,SAC,IND,31.82,3,4,11,SAC,IND,foul,2,False,False,,Joseph S.FOUL (P2.T4) (B.Taylor),78-82,78,82
 0021800336,2018-12-01,SAC,IND,31.82,3,4,11,SAC,SAC,ft_make,10,False,False,Bogdanovic Free Throw 1 of 1 (12 PTS),,79-82,79,82
 0021800336,2018-12-01,SAC,IND,32.12,3,3,53,IND,IND,fg_miss,6,False,False,,MISS Evans 4' Driving Layup,79-82,79,82
-0021800336,2018-12-01,SAC,IND,32.13,3,3,52,SAC,SAC,tov,40,False,False,Koufos Out of Bounds Lost Ball Turnover (P1.T16),,79-82,79,82
 0021800336,2018-12-01,SAC,IND,32.13,3,3,52,SAC,SAC,reb,0,False,False,Koufos REBOUND (Off:0 Def:3),,79-82,79,82
+0021800336,2018-12-01,SAC,IND,32.13,3,3,52,SAC,SAC,tov,40,False,False,Koufos Out of Bounds Lost Ball Turnover (P1.T16),,79-82,79,82
 0021800336,2018-12-01,SAC,IND,32.37,3,3,38,IND,IND,fg3_miss,1,False,False,,MISS Evans 25' 3PT Jump Shot,79-82,79,82
 0021800336,2018-12-01,SAC,IND,32.45,3,3,33,SAC,SAC,reb,0,False,False,Bogdanovic REBOUND (Off:0 Def:1),,79-82,79,82
 0021800336,2018-12-01,SAC,IND,32.5,3,3,30,SAC,SAC,fg3_make,1,False,False,Bogdanovic 25' 3PT Jump Shot (15 PTS),,82-82,82,82
@@ -453,6 +453,6 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800336,2018-12-01,SAC,IND,47.73,4,0,16,IND,IND,timeout,1,False,False,,Pacers Timeout: Regular (Reg.7 Short 0),111-110,111,110
 0021800336,2018-12-01,SAC,IND,47.93,4,0,4,IND,IND,fg_miss,1,False,False,,MISS Bogdanovic 17' Jump Shot,111-110,111,110
 0021800336,2018-12-01,SAC,IND,47.93,4,0,4,IND,IND,reb,0,False,False,,Pacers Rebound,111-110,111,110
-0021800336,2018-12-01,SAC,IND,47.98,4,0,1,IND,IND,tov,18,False,False,,Collison Jump Ball Violation Turnover (P6.T25),111-110,111,110
 0021800336,2018-12-01,SAC,IND,47.98,4,0,1,,SAC,jump_ball,0,False,False,Jump Ball Hield vs. Collison: Tip to Collison,,111-110,111,110
+0021800336,2018-12-01,SAC,IND,47.98,4,0,1,IND,IND,tov,18,False,False,,Collison Jump Ball Violation Turnover (P6.T25),111-110,111,110
 0021800336,2018-12-01,SAC,IND,48.0,4,0,0,,,period_end,0,False,False,,,111-110,111,110

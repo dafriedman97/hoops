@@ -175,9 +175,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000188,2021-01-15,SAC,LAC,20.75,2,3,15,LAC,LAC,fg3_make,1,False,False,,Morris Sr. 25' 3PT Jump Shot (8 PTS) (Jackson 2 AST),53-58,53,58
 0022000188,2021-01-15,SAC,LAC,20.92,2,3,5,SAC,LAC,violation,5,False,False,,Jackson Violation:Kicked Ball (S.Jelks),53-58,53,58
 0022000188,2021-01-15,SAC,LAC,21.05,2,2,57,SAC,SAC,fg_miss,6,True,False,MISS Barnes 4' Driving Layup,,53-58,53,58
+0022000188,2021-01-15,SAC,LAC,21.05,2,2,57,SAC,LAC,block,6,True,False,block,block,53-58,53,58
 0022000188,2021-01-15,SAC,LAC,21.05,2,2,57,SAC,SAC,reb,0,False,False,KINGS Rebound,,53-58,53,58
 0022000188,2021-01-15,SAC,LAC,21.05,2,2,57,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.2 Short 0),53-58,53,58
-0022000188,2021-01-15,SAC,LAC,21.05,2,2,57,SAC,LAC,block,6,True,False,block,block,53-58,53,58
 0022000188,2021-01-15,SAC,LAC,21.12,2,2,53,SAC,SAC,fg3_miss,1,False,False,MISS Hield 25' 3PT Jump Shot,,53-58,53,58
 0022000188,2021-01-15,SAC,LAC,21.15,2,2,51,LAC,LAC,reb,0,False,False,,Kennard REBOUND (Off:0 Def:2),53-58,53,58
 0022000188,2021-01-15,SAC,LAC,21.27,2,2,44,LAC,LAC,fg3_miss,1,False,False,,MISS Morris Sr. 25' 3PT Jump Shot,53-58,53,58
@@ -246,8 +246,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000188,2021-01-15,SAC,LAC,28.37,3,7,38,LAC,LAC,reb,0,False,False,,Jackson REBOUND (Off:0 Def:4),67-81,67,81
 0022000188,2021-01-15,SAC,LAC,28.43,3,7,34,LAC,SAC,foul,2,False,False,Hield S.FOUL (P3.T3) (S.Jelks),,67-81,67,81
 0022000188,2021-01-15,SAC,LAC,28.43,3,7,34,LAC,LAC,ft_make,11,False,False,,Batum Free Throw 1 of 2 (3 PTS),67-82,67,82
-0022000188,2021-01-15,SAC,LAC,28.43,3,7,34,LAC,LAC,ft_miss,12,False,False,,MISS Batum Free Throw 2 of 2,67-82,67,82
 0022000188,2021-01-15,SAC,LAC,28.43,3,7,34,SAC,SAC,timeout,1,False,False,KINGS Timeout: Regular (Full 3 Short 0),,67-82,67,82
+0022000188,2021-01-15,SAC,LAC,28.43,3,7,34,LAC,LAC,ft_miss,12,False,False,,MISS Batum Free Throw 2 of 2,67-82,67,82
 0022000188,2021-01-15,SAC,LAC,28.5,3,7,30,SAC,SAC,reb,0,False,False,Holmes REBOUND (Off:0 Def:3),,67-82,67,82
 0022000188,2021-01-15,SAC,LAC,28.8,3,7,12,SAC,SAC,fg3_miss,1,False,False,MISS Haliburton 27' 3PT Jump Shot,,67-82,67,82
 0022000188,2021-01-15,SAC,LAC,28.88,3,7,7,LAC,LAC,reb,0,False,False,,Batum REBOUND (Off:2 Def:1),67-82,67,82
@@ -257,8 +257,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000188,2021-01-15,SAC,LAC,29.5,3,6,30,LAC,SAC,foul,1,False,False,Haliburton P.FOUL (P1.T4) (L.Wood),,67-84,67,84
 0022000188,2021-01-15,SAC,LAC,29.57,3,6,26,LAC,LAC,fg3_make,1,False,False,,Batum 25' 3PT Jump Shot (6 PTS) (Ibaka 3 AST),67-87,67,87
 0022000188,2021-01-15,SAC,LAC,29.8,3,6,12,SAC,SAC,fg_miss,6,False,False,MISS Barnes 3' Driving Layup,,67-87,67,87
-0022000188,2021-01-15,SAC,LAC,29.9,3,6,6,SAC,SAC,fg_make,107,False,False,Holmes Tip Dunk Shot (15 PTS),,69-87,69,87
 0022000188,2021-01-15,SAC,LAC,29.9,3,6,6,SAC,SAC,reb,0,False,False,Holmes REBOUND (Off:1 Def:3),,69-87,69,87
+0022000188,2021-01-15,SAC,LAC,29.9,3,6,6,SAC,SAC,fg_make,107,False,False,Holmes Tip Dunk Shot (15 PTS),,69-87,69,87
 0022000188,2021-01-15,SAC,LAC,29.98,3,6,1,LAC,LAC,fg_make,73,False,False,,George 1' Driving Reverse Layup (22 PTS),69-89,69,89
 0022000188,2021-01-15,SAC,LAC,30.18,3,5,49,SAC,SAC,fg_miss,78,False,False,MISS Hield 12' Floating Jump Shot,,69-89,69,89
 0022000188,2021-01-15,SAC,LAC,30.25,3,5,45,LAC,LAC,reb,0,False,False,,Leonard REBOUND (Off:0 Def:3),69-89,69,89

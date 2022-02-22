@@ -111,10 +111,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700387,2017-12-10,IND,DEN,11.45,1,0,33,IND,IND,ft_make,12,False,False,Oladipo Free Throw 2 of 2 (10 PTS),,22-32,22,32
 0021700387,2017-12-10,IND,DEN,11.72,1,0,17,DEN,DEN,fg3_make,1,False,False,,Harris 3PT Jump Shot (9 PTS) (Mudiay 1 AST),22-35,22,35
 0021700387,2017-12-10,IND,DEN,12.0,1,0,0,IND,IND,fg_miss,73,True,False,MISS Oladipo 1' Driving Reverse Layup,,22-35,22,35
+0021700387,2017-12-10,IND,DEN,12.0,1,0,0,IND,DEN,block,73,True,False,block,block,22-35,22,35
 0021700387,2017-12-10,IND,DEN,12.0,1,0,0,IND,IND,reb,0,False,False,PACERS Rebound,,22-35,22,35
 0021700387,2017-12-10,IND,DEN,12.0,1,0,0,IND,,period_end,0,False,False,,,22-35,22,35
 0021700387,2017-12-10,IND,DEN,12.0,2,12,0,IND,,period_start,0,False,False,,,22-35,22,35
-0021700387,2017-12-10,IND,DEN,12.0,1,0,0,IND,DEN,block,73,True,False,block,block,22-35,22,35
 0021700387,2017-12-10,IND,DEN,12.28,2,11,43,IND,IND,fg_make,75,False,False,Stephenson Driving Finger Roll Layup (2 PTS),,24-35,24,35
 0021700387,2017-12-10,IND,DEN,12.52,2,11,29,DEN,DEN,tov,45,False,False,,Mudiay Out of Bounds - Bad Pass Turnover Turnover (P1.T6),24-35,24,35
 0021700387,2017-12-10,IND,DEN,12.85,2,11,9,IND,IND,fg_make,3,False,False,Sabonis 5' Hook Shot (8 PTS),,26-35,26,35
@@ -232,8 +232,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700387,2017-12-10,IND,DEN,26.47,3,9,32,IND,IND,fg_miss,6,False,False,MISS Young 1' Driving Layup,,63-68,63,68
 0021700387,2017-12-10,IND,DEN,26.5,3,9,30,IND,IND,reb,0,False,False,Oladipo REBOUND (Off:1 Def:3),,63-68,63,68
 0021700387,2017-12-10,IND,DEN,26.5,3,9,30,IND,IND,fg_miss,5,True,False,MISS Oladipo 2' Layup,,63-68,63,68
-0021700387,2017-12-10,IND,DEN,26.5,3,9,30,IND,IND,reb,0,False,False,Turner REBOUND (Off:1 Def:5),,63-68,63,68
 0021700387,2017-12-10,IND,DEN,26.5,3,9,30,IND,DEN,block,5,True,False,block,block,63-68,63,68
+0021700387,2017-12-10,IND,DEN,26.5,3,9,30,IND,IND,reb,0,False,False,Turner REBOUND (Off:1 Def:5),,63-68,63,68
 0021700387,2017-12-10,IND,DEN,26.57,3,9,26,IND,IND,fg_miss,66,False,False,MISS Bogdanovic 18' Jump Bank Shot,,63-68,63,68
 0021700387,2017-12-10,IND,DEN,26.62,3,9,23,DEN,DEN,reb,0,False,False,,Chandler REBOUND (Off:2 Def:4),63-68,63,68
 0021700387,2017-12-10,IND,DEN,26.93,3,9,4,DEN,IND,foul,2,False,False,Joseph S.FOUL (P1.T1) (D.Taylor),,63-68,63,68
@@ -287,8 +287,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700387,2017-12-10,IND,DEN,34.37,3,1,38,IND,IND,fg_miss,80,False,False,MISS Oladipo 18' Step Back Jump Shot,,84-85,84,85
 0021700387,2017-12-10,IND,DEN,34.42,3,1,35,IND,IND,reb,0,False,False,Stephenson REBOUND (Off:2 Def:2),,84-85,84,85
 0021700387,2017-12-10,IND,DEN,34.48,3,1,31,IND,IND,tov,1,False,True,Stephenson Bad Pass Turnover (P2.T8),,84-85,84,85
-0021700387,2017-12-10,IND,DEN,34.48,3,1,31,DEN,DEN,tov,39,False,False,,Faried Step Out of Bounds Turnover (P2.T12),84-85,84,85
 0021700387,2017-12-10,IND,DEN,34.48,3,1,31,IND,DEN,steal,1,False,True,steal,steal,84-85,84,85
+0021700387,2017-12-10,IND,DEN,34.48,3,1,31,DEN,DEN,tov,39,False,False,,Faried Step Out of Bounds Turnover (P2.T12),84-85,84,85
 0021700387,2017-12-10,IND,DEN,34.63,3,1,22,IND,IND,fg3_miss,1,False,False,MISS Oladipo 29' 3PT Jump Shot,,84-85,84,85
 0021700387,2017-12-10,IND,DEN,34.7,3,1,18,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:2 Def:1),,84-85,84,85
 0021700387,2017-12-10,IND,DEN,34.72,3,1,17,IND,IND,fg_make,5,False,False,Young 2' Layup (2 PTS) (Sabonis 2 AST),,86-85,86,85
@@ -304,10 +304,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700387,2017-12-10,IND,DEN,35.92,3,0,5,IND,IND,fg3_miss,1,False,False,MISS Stephenson 27' 3PT Jump Shot,,90-88,90,88
 0021700387,2017-12-10,IND,DEN,36.0,3,0,0,DEN,DEN,reb,0,False,False,,Nuggets Rebound,90-88,90,88
 0021700387,2017-12-10,IND,DEN,36.0,3,0,0,DEN,DEN,fg3_miss,1,True,False,,MISS Harris 79' 3PT Jump Shot,90-88,90,88
+0021700387,2017-12-10,IND,DEN,36.0,3,0,0,DEN,IND,block,1,True,False,block,block,90-88,90,88
 0021700387,2017-12-10,IND,DEN,36.0,3,0,0,DEN,DEN,reb,0,False,False,,Nuggets Rebound,90-88,90,88
 0021700387,2017-12-10,IND,DEN,36.0,3,0,0,DEN,,period_end,0,False,False,,,90-88,90,88
 0021700387,2017-12-10,IND,DEN,36.0,4,12,0,DEN,,period_start,0,False,False,,,90-88,90,88
-0021700387,2017-12-10,IND,DEN,36.0,3,0,0,DEN,IND,block,1,True,False,block,block,90-88,90,88
 0021700387,2017-12-10,IND,DEN,36.18,4,11,49,DEN,DEN,tov,4,False,False,,Mudiay Traveling Turnover (P4.T14),90-88,90,88
 0021700387,2017-12-10,IND,DEN,36.32,4,11,41,IND,IND,fg_make,79,False,False,Stephenson 18' Pullup Jump Shot (10 PTS),,92-88,92,88
 0021700387,2017-12-10,IND,DEN,36.77,4,11,14,DEN,DEN,fg3_miss,1,False,False,,MISS Beasley 3PT Jump Shot,92-88,92,88

@@ -252,8 +252,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700541,2017-12-31,OKC,DAL,29.57,3,6,26,DAL,DAL,tov,1,False,True,,Smith Jr. Bad Pass Turnover (P3.T7),73-70,73,70
 0021700541,2017-12-31,OKC,DAL,29.57,3,6,26,DAL,OKC,steal,1,False,True,steal,steal,73-70,73,70
 0021700541,2017-12-31,OKC,DAL,29.63,3,6,22,OKC,OKC,fg_miss,5,True,False,MISS Westbrook 3' Layup,,73-70,73,70
-0021700541,2017-12-31,OKC,DAL,29.63,3,6,22,OKC,OKC,reb,0,False,False,THUNDER Rebound,,73-70,73,70
 0021700541,2017-12-31,OKC,DAL,29.63,3,6,22,OKC,DAL,block,5,True,False,block,block,73-70,73,70
+0021700541,2017-12-31,OKC,DAL,29.63,3,6,22,OKC,OKC,reb,0,False,False,THUNDER Rebound,,73-70,73,70
 0021700541,2017-12-31,OKC,DAL,29.75,3,6,15,OKC,DAL,foul,2,False,False,,Mejri S.FOUL (P3.T2) (D.Taylor),73-70,73,70
 0021700541,2017-12-31,OKC,DAL,29.75,3,6,15,OKC,OKC,ft_make,11,False,False,Westbrook Free Throw 1 of 2 (21 PTS),,74-70,74,70
 0021700541,2017-12-31,OKC,DAL,29.75,3,6,15,OKC,OKC,ft_make,12,False,False,Westbrook Free Throw 2 of 2 (22 PTS),,75-70,75,70
@@ -354,8 +354,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700541,2017-12-31,OKC,DAL,41.67,4,6,20,OKC,OKC,reb,0,False,False,Westbrook REBOUND (Off:1 Def:12),,94-93,94,93
 0021700541,2017-12-31,OKC,DAL,41.77,4,6,14,OKC,OKC,fg_make,80,False,False,Westbrook 10' Step Back Jump Shot (30 PTS),,96-93,96,93
 0021700541,2017-12-31,OKC,DAL,42.05,4,5,57,DAL,DAL,fg_miss,6,True,False,,MISS Smith Jr. 2' Driving Layup,96-93,96,93
-0021700541,2017-12-31,OKC,DAL,42.05,4,5,57,DAL,DAL,reb,0,False,False,,Mavericks Rebound,96-93,96,93
 0021700541,2017-12-31,OKC,DAL,42.05,4,5,57,DAL,OKC,block,6,True,False,block,block,96-93,96,93
+0021700541,2017-12-31,OKC,DAL,42.05,4,5,57,DAL,DAL,reb,0,False,False,,Mavericks Rebound,96-93,96,93
 0021700541,2017-12-31,OKC,DAL,42.18,4,5,49,DAL,DAL,fg_make,63,False,False,,Barnes 9' Fadeaway Jumper (21 PTS),96-95,96,95
 0021700541,2017-12-31,OKC,DAL,42.48,4,5,31,OKC,OKC,fg_miss,1,False,False,MISS Anthony 11' Jump Shot,,96-95,96,95
 0021700541,2017-12-31,OKC,DAL,42.53,4,5,28,DAL,DAL,reb,0,False,False,,Barea REBOUND (Off:0 Def:7),96-95,96,95
@@ -401,11 +401,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700541,2017-12-31,OKC,DAL,47.75,4,0,15,DAL,DAL,ft_make,11,False,False,,Smith Jr. Free Throw 1 of 2 (17 PTS),110-114,110,114
 0021700541,2017-12-31,OKC,DAL,47.75,4,0,15,DAL,DAL,ft_make,12,False,False,,Smith Jr. Free Throw 2 of 2 (18 PTS),110-115,110,115
 0021700541,2017-12-31,OKC,DAL,47.75,4,0,15,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 7 Short 0),,110-115,110,115
-0021700541,2017-12-31,OKC,DAL,47.8,4,0,12,OKC,DAL,foul,2,False,False,,Powell S.FOUL (P1.PN) (M.Davis),110-115,110,115
 0021700541,2017-12-31,OKC,DAL,47.8,4,0,12,OKC,OKC,ft_make,13,False,False,George Free Throw 1 of 3 (23 PTS),,111-115,111,115
 0021700541,2017-12-31,OKC,DAL,47.8,4,0,12,OKC,OKC,ft_make,14,False,False,George Free Throw 2 of 3 (24 PTS),,112-115,112,115
 0021700541,2017-12-31,OKC,DAL,47.8,4,0,12,OKC,OKC,ft_make,15,False,False,George Free Throw 3 of 3 (25 PTS),,113-115,113,115
 0021700541,2017-12-31,OKC,DAL,47.8,4,0,12,DAL,DAL,timeout,1,False,False,,Mavericks Timeout: Regular (Reg.7 Short 0),113-115,113,115
+0021700541,2017-12-31,OKC,DAL,47.8,4,0,12,OKC,DAL,foul,2,False,False,,Powell S.FOUL (P1.PN) (M.Davis),110-115,110,115
 0021700541,2017-12-31,OKC,DAL,47.82,4,0,11,DAL,OKC,foul,28,False,False,George Personal Take Foul (P4.PN) (J.Tiven),,113-115,113,115
 0021700541,2017-12-31,OKC,DAL,47.82,4,0,11,DAL,DAL,ft_make,11,False,False,,Smith Jr. Free Throw 1 of 2 (19 PTS),113-116,113,116
 0021700541,2017-12-31,OKC,DAL,47.82,4,0,11,DAL,DAL,ft_miss,12,False,False,,MISS Smith Jr. Free Throw 2 of 2,113-116,113,116

@@ -126,8 +126,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000702,2021-03-27,SAC,CLE,17.4,2,6,36,SAC,SAC,fg3_miss,79,False,False,MISS Fox 25' 3PT Pullup Jump Shot,,36-39,36,39
 0022000702,2021-03-27,SAC,CLE,17.45,2,6,33,CLE,CLE,reb,0,False,False,,Dotson REBOUND (Off:0 Def:3),36-39,36,39
 0022000702,2021-03-27,SAC,CLE,17.68,2,6,19,CLE,CLE,fg_miss,5,True,False,,MISS Garland 1' Layup,36-39,36,39
-0022000702,2021-03-27,SAC,CLE,17.68,2,6,19,SAC,SAC,reb,0,False,False,Hield REBOUND (Off:0 Def:1),,36-39,36,39
 0022000702,2021-03-27,SAC,CLE,17.68,2,6,19,CLE,SAC,block,5,True,False,block,block,36-39,36,39
+0022000702,2021-03-27,SAC,CLE,17.68,2,6,19,SAC,SAC,reb,0,False,False,Hield REBOUND (Off:0 Def:1),,36-39,36,39
 0022000702,2021-03-27,SAC,CLE,17.82,2,6,11,SAC,SAC,fg_make,9,False,False,Holmes 1' Driving Dunk (6 PTS) (Hield 1 AST),,38-39,38,39
 0022000702,2021-03-27,SAC,CLE,18.22,2,5,47,CLE,CLE,fg3_miss,1,False,False,,MISS Nance Jr. 25' 3PT Jump Shot,38-39,38,39
 0022000702,2021-03-27,SAC,CLE,18.23,2,5,46,SAC,SAC,reb,0,False,False,KINGS Rebound,,38-39,38,39
@@ -253,9 +253,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000702,2021-03-27,SAC,CLE,30.77,3,5,14,CLE,CLE,fg_make,79,False,False,,Sexton 13' Pullup Jump Shot (21 PTS),62-62,62,62
 0022000702,2021-03-27,SAC,CLE,31.12,3,4,53,SAC,SAC,fg_make,6,False,False,Barnes 3' Driving Layup (10 PTS) (Fox 5 AST),,64-62,64,62
 0022000702,2021-03-27,SAC,CLE,31.55,3,4,27,CLE,CLE,fg_miss,5,True,False,,MISS Nance Jr. 3' Layup,64-62,64,62
+0022000702,2021-03-27,SAC,CLE,31.55,3,4,27,CLE,SAC,block,5,True,False,block,block,64-62,64,62
 0022000702,2021-03-27,SAC,CLE,31.55,3,4,27,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,64-62,64,62
 0022000702,2021-03-27,SAC,CLE,31.55,3,4,27,CLE,CLE,tov,11,False,False,,Cavaliers Turnover: Shot Clock (T#6),64-62,64,62
-0022000702,2021-03-27,SAC,CLE,31.55,3,4,27,CLE,SAC,block,5,True,False,block,block,64-62,64,62
 0022000702,2021-03-27,SAC,CLE,31.72,3,4,17,SAC,SAC,fg3_miss,1,False,False,MISS Barnes 25' 3PT Jump Shot,,64-62,64,62
 0022000702,2021-03-27,SAC,CLE,31.77,3,4,14,CLE,CLE,reb,0,False,False,,Garland REBOUND (Off:1 Def:1),64-62,64,62
 0022000702,2021-03-27,SAC,CLE,31.93,3,4,4,CLE,CLE,fg_make,98,False,False,,Wade 2' Cutting Layup Shot (4 PTS) (Nance Jr. 5 AST),64-64,64,64
@@ -405,6 +405,6 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000702,2021-03-27,SAC,CLE,47.9,4,0,6,SAC,CLE,foul,2,False,False,,Sexton S.FOUL (P4.PN) (B.Kennedy),96-96,96,96
 0022000702,2021-03-27,SAC,CLE,47.9,4,0,6,SAC,SAC,ft_make,10,False,False,Fox Free Throw 1 of 1 (36 PTS),,97-96,97,96
 0022000702,2021-03-27,SAC,CLE,48.0,4,0,0,CLE,CLE,fg_make,6,False,False,,Sexton 2' Driving Layup (26 PTS),97-98,97,98
-0022000702,2021-03-27,SAC,CLE,48.0,4,0,0,CLE,SAC,violation,2,False,False,Defensive Goaltending,,97-98,97,98
 0022000702,2021-03-27,SAC,CLE,48.0,4,0,0,SAC,SAC,fg3_make,47,False,False,Barnes 26' 3PT Turnaround Jump Shot (16 PTS) (Fox 6 AST),,100-98,100,98
 0022000702,2021-03-27,SAC,CLE,48.0,4,0,0,SAC,,period_end,0,False,False,,,100-98,100,98
+0022000702,2021-03-27,SAC,CLE,48.0,4,0,0,CLE,SAC,violation,2,False,False,Defensive Goaltending,,97-98,97,98

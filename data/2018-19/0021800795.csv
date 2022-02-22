@@ -129,8 +129,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800795,2019-02-04,SAC,SAS,14.4,2,9,36,SAC,SAC,reb,0,False,False,Giles III REBOUND (Off:0 Def:3),,41-32,41,32
 0021800795,2019-02-04,SAC,SAS,14.45,2,9,33,SAC,SAS,foul,2,False,False,,Mills S.FOUL (P2.T1) (T.Ford),41-32,41,32
 0021800795,2019-02-04,SAC,SAS,14.45,2,9,33,SAC,SAC,ft_miss,11,False,False,MISS Ferrell Free Throw 1 of 2,,41-32,41,32
-0021800795,2019-02-04,SAC,SAS,14.45,2,9,33,SAC,SAC,reb,1,False,False,KINGS Rebound,,41-32,41,32
 0021800795,2019-02-04,SAC,SAS,14.45,2,9,33,SAC,SAC,ft_make,12,False,False,Ferrell Free Throw 2 of 2 (4 PTS),,42-32,42,32
+0021800795,2019-02-04,SAC,SAS,14.45,2,9,33,SAC,SAC,reb,1,False,False,KINGS Rebound,,41-32,41,32
 0021800795,2019-02-04,SAC,SAS,14.85,2,9,9,SAS,SAC,foul,2,False,False,Giles III S.FOUL (P1.T1) (M.Ervin),,42-32,42,32
 0021800795,2019-02-04,SAC,SAS,14.85,2,9,9,SAS,SAS,ft_make,11,False,False,,Gasol Free Throw 1 of 2 (1 PTS),42-33,42,33
 0021800795,2019-02-04,SAC,SAS,14.85,2,9,9,SAS,SAS,ft_make,12,False,False,,Gasol Free Throw 2 of 2 (2 PTS),42-34,42,34
@@ -140,8 +140,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800795,2019-02-04,SAC,SAS,15.38,2,8,37,SAS,SAC,block,1,True,False,block,block,42-34,42,34
 0021800795,2019-02-04,SAC,SAS,15.4,2,8,36,SAS,SAS,reb,0,False,False,,Gay REBOUND (Off:1 Def:2),42-34,42,34
 0021800795,2019-02-04,SAC,SAS,15.43,2,8,34,SAS,SAS,fg_miss,1,True,False,,MISS Gay 3' Jump Shot,42-34,42,34
-0021800795,2019-02-04,SAC,SAS,15.43,2,8,34,SAS,SAS,reb,0,False,False,,DeRozan REBOUND (Off:1 Def:0),42-34,42,34
 0021800795,2019-02-04,SAC,SAS,15.43,2,8,34,SAS,SAC,block,1,True,False,block,block,42-34,42,34
+0021800795,2019-02-04,SAC,SAS,15.43,2,8,34,SAS,SAS,reb,0,False,False,,DeRozan REBOUND (Off:1 Def:0),42-34,42,34
 0021800795,2019-02-04,SAC,SAS,15.45,2,8,33,SAS,SAS,tov,11,False,False,,Spurs Turnover: Shot Clock (T#4),42-34,42,34
 0021800795,2019-02-04,SAC,SAS,15.6,2,8,24,SAC,SAS,foul,1,False,False,,Gasol P.FOUL (P1.T2) (T.Ford),42-34,42,34
 0021800795,2019-02-04,SAC,SAS,15.7,2,8,18,SAC,SAC,fg3_make,1,False,False,Ferrell 26' 3PT Jump Shot (7 PTS),,45-34,45,34
@@ -189,8 +189,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800795,2019-02-04,SAC,SAS,20.78,2,3,13,SAC,SAC,fg_miss,79,False,False,MISS Hield 20' Pullup Jump Shot,,53-50,53,50
 0021800795,2019-02-04,SAC,SAS,20.82,2,3,11,SAC,SAC,reb,0,False,False,Fox REBOUND (Off:1 Def:2),,53-50,53,50
 0021800795,2019-02-04,SAC,SAS,21.05,2,2,57,SAC,SAC,tov,1,False,True,Bjelica Bad Pass Turnover (P2.T4),,53-50,53,50
-0021800795,2019-02-04,SAC,SAS,21.05,2,2,57,SAS,SAC,violation,5,False,False,Shumpert Violation:Kicked Ball (T.Washington),,53-50,53,50
 0021800795,2019-02-04,SAC,SAS,21.05,2,2,57,SAC,SAS,steal,1,False,True,steal,steal,53-50,53,50
+0021800795,2019-02-04,SAC,SAS,21.05,2,2,57,SAS,SAC,violation,5,False,False,Shumpert Violation:Kicked Ball (T.Washington),,53-50,53,50
 0021800795,2019-02-04,SAC,SAS,21.33,2,2,40,SAS,SAC,foul,2,False,False,Cauley-Stein S.FOUL (P1.T3) (T.Washington),,53-50,53,50
 0021800795,2019-02-04,SAC,SAS,21.33,2,2,40,SAS,SAS,ft_make,11,False,False,,Aldridge Free Throw 1 of 2 (12 PTS),53-51,53,51
 0021800795,2019-02-04,SAC,SAS,21.33,2,2,40,SAS,SAS,ft_make,12,False,False,,Aldridge Free Throw 2 of 2 (13 PTS),53-52,53,52
@@ -382,8 +382,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800795,2019-02-04,SAC,SAS,42.63,4,5,22,SAC,SAC,reb,0,False,False,Shumpert REBOUND (Off:0 Def:6),,113-101,113,101
 0021800795,2019-02-04,SAC,SAS,42.83,4,5,10,SAC,SAC,fg3_make,1,False,False,Ferrell 3PT Jump Shot (17 PTS) (Bagley III 3 AST),,116-101,116,101
 0021800795,2019-02-04,SAC,SAS,43.03,4,4,58,SAS,SAS,tov,2,False,True,,Mills Lost Ball Turnover (P1.T8),116-101,116,101
-0021800795,2019-02-04,SAC,SAS,43.03,4,4,58,SAC,SAS,foul,28,False,False,,Mills Personal Take Foul (P4.T1) (T.Washington),116-101,116,101
 0021800795,2019-02-04,SAC,SAS,43.03,4,4,58,SAS,SAC,steal,2,False,True,steal,steal,116-101,116,101
+0021800795,2019-02-04,SAC,SAS,43.03,4,4,58,SAC,SAS,foul,28,False,False,,Mills Personal Take Foul (P4.T1) (T.Washington),116-101,116,101
 0021800795,2019-02-04,SAC,SAS,43.28,4,4,43,SAC,SAC,fg_make,1,False,False,Ferrell 13' Jump Shot (19 PTS),,118-101,118,101
 0021800795,2019-02-04,SAC,SAS,43.52,4,4,29,SAS,SAS,fg_make,1,False,False,,Forbes 18' Jump Shot (12 PTS) (DeRozan 2 AST),118-103,118,103
 0021800795,2019-02-04,SAC,SAS,43.88,4,4,7,SAC,SAS,foul,2,False,False,,Bertans S.FOUL (P2.T2) (M.Ervin),118-103,118,103

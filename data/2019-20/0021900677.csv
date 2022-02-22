@@ -11,8 +11,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900677,2020-01-24,OKC,ATL,0.98,1,11,1,ATL,ATL,fg_make,52,False,False,,Collins 2' Alley Oop Dunk (2 PTS) (Young 1 AST),2-2,2,2
 0021900677,2020-01-24,OKC,ATL,1.42,1,10,35,OKC,OKC,fg_make,98,False,False,Dort 2' Cutting Layup Shot (2 PTS) (Paul 1 AST),,4-2,4,2
 0021900677,2020-01-24,OKC,ATL,1.7,1,10,18,ATL,ATL,tov,2,False,True,,Collins Lost Ball Turnover (P1.T1),4-2,4,2
-0021900677,2020-01-24,OKC,ATL,1.7,1,10,18,OKC,ATL,foul,9,False,False,,Collins C.P.FOUL (P1.T2) (J.Capers),4-2,4,2
 0021900677,2020-01-24,OKC,ATL,1.7,1,10,18,ATL,OKC,steal,2,False,True,steal,steal,4-2,4,2
+0021900677,2020-01-24,OKC,ATL,1.7,1,10,18,OKC,ATL,foul,9,False,False,,Collins C.P.FOUL (P1.T2) (J.Capers),4-2,4,2
 0021900677,2020-01-24,OKC,ATL,1.7,1,10,18,OKC,OKC,ft_make,25,False,False,Paul Free Throw Clear Path 1 of 2 (1 PTS),,5-2,5,2
 0021900677,2020-01-24,OKC,ATL,1.7,1,10,18,OKC,OKC,ft_make,26,False,False,Paul Free Throw Clear Path 2 of 2 (2 PTS),,6-2,6,2
 0021900677,2020-01-24,OKC,ATL,1.85,1,10,9,OKC,OKC,fg_make,102,False,False,Gilgeous-Alexander 3' Driving Floating Bank Jump Shot (2 PTS),,8-2,8,2
@@ -82,8 +82,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900677,2020-01-24,OKC,ATL,10.05,1,1,57,ATL,OKC,block,79,True,False,block,block,24-22,24,22
 0021900677,2020-01-24,OKC,ATL,10.1,1,1,54,OKC,OKC,reb,0,False,False,Muscala REBOUND (Off:0 Def:1),,24-22,24,22
 0021900677,2020-01-24,OKC,ATL,10.12,1,1,53,OKC,OKC,fg_miss,41,True,False,MISS Schroder 4' Running Layup,,24-22,24,22
-0021900677,2020-01-24,OKC,ATL,10.12,1,1,53,OKC,OKC,reb,0,False,False,THUNDER Rebound,,24-22,24,22
 0021900677,2020-01-24,OKC,ATL,10.12,1,1,53,OKC,ATL,block,41,True,False,block,block,24-22,24,22
+0021900677,2020-01-24,OKC,ATL,10.12,1,1,53,OKC,OKC,reb,0,False,False,THUNDER Rebound,,24-22,24,22
 0021900677,2020-01-24,OKC,ATL,10.15,1,1,51,OKC,OKC,fg_make,1,False,False,Schroder 15' Jump Shot (2 PTS) (Paul 4 AST),,26-22,26,22
 0021900677,2020-01-24,OKC,ATL,10.53,1,1,28,ATL,ATL,fg_make,79,False,False,,Hunter 17' Pullup Jump Shot (6 PTS) (Teague 1 AST),26-24,26,24
 0021900677,2020-01-24,OKC,ATL,10.72,1,1,17,OKC,OKC,fg3_miss,1,False,False,MISS Muscala 25' 3PT Jump Shot,,26-24,26,24
@@ -152,8 +152,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900677,2020-01-24,OKC,ATL,18.45,2,5,33,ATL,ATL,ft_make,14,False,False,,Young Free Throw 2 of 3 (1 PTS),50-40,50,40
 0021900677,2020-01-24,OKC,ATL,18.45,2,5,33,ATL,ATL,ft_make,15,False,False,,Young Free Throw 3 of 3 (2 PTS),50-41,50,41
 0021900677,2020-01-24,OKC,ATL,18.7,2,5,18,OKC,OKC,fg_miss,6,True,False,MISS Schroder 4' Driving Layup,,50-41,50,41
-0021900677,2020-01-24,OKC,ATL,18.7,2,5,18,OKC,OKC,reb,0,False,False,THUNDER Rebound,,50-41,50,41
 0021900677,2020-01-24,OKC,ATL,18.7,2,5,18,OKC,ATL,block,6,True,False,block,block,50-41,50,41
+0021900677,2020-01-24,OKC,ATL,18.7,2,5,18,OKC,OKC,reb,0,False,False,THUNDER Rebound,,50-41,50,41
 0021900677,2020-01-24,OKC,ATL,18.83,2,5,10,OKC,OKC,fg_miss,79,False,False,MISS Gilgeous-Alexander 8' Pullup Jump Shot,,50-41,50,41
 0021900677,2020-01-24,OKC,ATL,18.87,2,5,8,ATL,ATL,reb,0,False,False,,Reddish REBOUND (Off:0 Def:4),50-41,50,41
 0021900677,2020-01-24,OKC,ATL,18.95,2,5,3,ATL,OKC,foul,2,False,False,Gallinari S.FOUL (P1.T4) (M.Ervin),,50-41,50,41
@@ -253,8 +253,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900677,2020-01-24,OKC,ATL,29.18,3,6,49,ATL,ATL,fg3_miss,1,False,False,,MISS Young 29' 3PT Jump Shot,77-72,77,72
 0021900677,2020-01-24,OKC,ATL,29.23,3,6,46,OKC,OKC,reb,0,False,False,Noel REBOUND (Off:0 Def:8),,77-72,77,72
 0021900677,2020-01-24,OKC,ATL,29.37,3,6,38,OKC,OKC,tov,1,False,True,Paul Bad Pass Turnover (P3.T9),,77-72,77,72
-0021900677,2020-01-24,OKC,ATL,29.37,3,6,38,ATL,OKC,foul,28,False,False,Paul Personal Take Foul (P2.T3) (J.Goble),,77-72,77,72
 0021900677,2020-01-24,OKC,ATL,29.37,3,6,38,OKC,ATL,steal,1,False,True,steal,steal,77-72,77,72
+0021900677,2020-01-24,OKC,ATL,29.37,3,6,38,ATL,OKC,foul,28,False,False,Paul Personal Take Foul (P2.T3) (J.Goble),,77-72,77,72
 0021900677,2020-01-24,OKC,ATL,29.5,3,6,30,ATL,ATL,fg_make,6,False,False,,Hunter 3' Driving Layup (8 PTS),77-74,77,74
 0021900677,2020-01-24,OKC,ATL,29.67,3,6,20,OKC,OKC,fg_miss,79,False,False,MISS Paul 14' Pullup Jump Shot,,77-74,77,74
 0021900677,2020-01-24,OKC,ATL,29.7,3,6,18,ATL,ATL,reb,0,False,False,,Hunter REBOUND (Off:1 Def:1),77-74,77,74
@@ -315,15 +315,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900677,2020-01-24,OKC,ATL,35.88,3,0,7,ATL,ATL,fg_miss,79,False,False,,MISS Huerter 21' Pullup Jump Shot,104-90,104,90
 0021900677,2020-01-24,OKC,ATL,35.93,3,0,4,OKC,OKC,reb,0,False,False,Diallo REBOUND (Off:1 Def:3),,104-90,104,90
 0021900677,2020-01-24,OKC,ATL,36.0,3,0,0,OKC,OKC,fg_miss,2,True,False,MISS Schroder 20' Running Jump Shot,,104-90,104,90
+0021900677,2020-01-24,OKC,ATL,36.0,3,0,0,OKC,ATL,block,2,True,False,block,block,104-90,104,90
 0021900677,2020-01-24,OKC,ATL,36.0,3,0,0,ATL,ATL,reb,0,False,False,,Teague REBOUND (Off:1 Def:1),104-90,104,90
 0021900677,2020-01-24,OKC,ATL,36.0,3,0,0,ATL,,period_end,0,False,False,,,104-90,104,90
 0021900677,2020-01-24,OKC,ATL,36.0,4,12,0,ATL,,period_start,0,False,False,,,104-90,104,90
-0021900677,2020-01-24,OKC,ATL,36.0,3,0,0,OKC,ATL,block,2,True,False,block,block,104-90,104,90
 0021900677,2020-01-24,OKC,ATL,36.28,4,11,43,OKC,OKC,fg_make,101,False,False,Bazley 7' Driving Floating Jump Shot (6 PTS) (Paul 5 AST),,106-90,106,90
 0021900677,2020-01-24,OKC,ATL,36.52,4,11,29,ATL,ATL,fg_make,52,False,False,,Collins 1' Alley Oop Dunk (26 PTS) (Young 15 AST),106-92,106,92
 0021900677,2020-01-24,OKC,ATL,36.72,4,11,17,OKC,OKC,fg_miss,6,True,False,MISS Gilgeous-Alexander 3' Driving Layup,,106-92,106,92
-0021900677,2020-01-24,OKC,ATL,36.72,4,11,17,OKC,OKC,reb,0,False,False,THUNDER Rebound,,106-92,106,92
 0021900677,2020-01-24,OKC,ATL,36.72,4,11,17,OKC,ATL,block,6,True,False,block,block,106-92,106,92
+0021900677,2020-01-24,OKC,ATL,36.72,4,11,17,OKC,OKC,reb,0,False,False,THUNDER Rebound,,106-92,106,92
 0021900677,2020-01-24,OKC,ATL,36.88,4,11,7,OKC,OKC,fg3_make,80,False,False,Paul 24' 3PT Step Back Jump Shot (16 PTS),,109-92,109,92
 0021900677,2020-01-24,OKC,ATL,37.08,4,10,55,ATL,ATL,fg3_miss,1,False,False,,MISS Hunter 3PT Jump Shot,109-92,109,92
 0021900677,2020-01-24,OKC,ATL,37.12,4,10,53,ATL,ATL,reb,0,False,False,,Huerter REBOUND (Off:1 Def:4),109-92,109,92
@@ -371,8 +371,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900677,2020-01-24,OKC,ATL,41.13,4,6,52,OKC,OKC,ft_make,10,False,False,Schroder Free Throw 1 of 1 (19 PTS),,123-102,123,102
 0021900677,2020-01-24,OKC,ATL,41.28,4,6,43,ATL,OKC,foul,1,False,False,Gilgeous-Alexander P.FOUL (P1.T3) (M.Ervin),,123-102,123,102
 0021900677,2020-01-24,OKC,ATL,41.42,4,6,35,OKC,ATL,foul,26,False,False,,Hunter Offensive Charge Foul (P4.T3) (J.Goble),123-102,123,102
-0021900677,2020-01-24,OKC,ATL,41.42,4,6,35,ATL,ATL,tov,37,False,False,,Hunter Offensive Foul Turnover (P1.T9),123-102,123,102
 0021900677,2020-01-24,OKC,ATL,41.42,4,6,35,OKC,OKC,timeout,7,False,False,THUNDER Timeout: Coach Challenge (Full 4 Short 0),,123-102,123,102
+0021900677,2020-01-24,OKC,ATL,41.42,4,6,35,ATL,ATL,tov,37,False,False,,Hunter Offensive Foul Turnover (P1.T9),123-102,123,102
 0021900677,2020-01-24,OKC,ATL,41.75,4,6,15,OKC,OKC,fg_miss,6,False,False,MISS Gilgeous-Alexander 2' Driving Layup,,123-102,123,102
 0021900677,2020-01-24,OKC,ATL,41.78,4,6,13,ATL,ATL,reb,0,False,False,,Huerter REBOUND (Off:1 Def:5),123-102,123,102
 0021900677,2020-01-24,OKC,ATL,41.87,4,6,8,ATL,ATL,tov,2,False,True,,Hunter Lost Ball Turnover (P2.T10),123-102,123,102
@@ -396,8 +396,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900677,2020-01-24,OKC,ATL,43.4,4,4,36,OKC,ATL,steal,2,False,True,steal,steal,128-102,128,102
 0021900677,2020-01-24,OKC,ATL,43.47,4,4,32,ATL,ATL,fg_make,41,False,False,,Young 2' Running Layup (26 PTS),128-104,128,104
 0021900677,2020-01-24,OKC,ATL,43.72,4,4,17,OKC,OKC,fg_miss,101,True,False,MISS Gilgeous-Alexander 5' Driving Floating Jump Shot,,128-104,128,104
-0021900677,2020-01-24,OKC,ATL,43.72,4,4,17,OKC,OKC,reb,0,False,False,THUNDER Rebound,,128-104,128,104
 0021900677,2020-01-24,OKC,ATL,43.72,4,4,17,OKC,ATL,block,101,True,False,block,block,128-104,128,104
+0021900677,2020-01-24,OKC,ATL,43.72,4,4,17,OKC,OKC,reb,0,False,False,THUNDER Rebound,,128-104,128,104
 0021900677,2020-01-24,OKC,ATL,43.75,4,4,15,OKC,OKC,fg_make,1,False,False,Schroder 18' Jump Shot (21 PTS) (Gilgeous-Alexander 6 AST),,130-104,130,104
 0021900677,2020-01-24,OKC,ATL,43.8,4,4,12,ATL,ATL,timeout,1,False,False,,Hawks Timeout: Regular (Reg.6 Short 0),130-104,130,104
 0021900677,2020-01-24,OKC,ATL,43.8,4,4,12,ATL,OKC,violation,1,False,False,THUNDER Violation: Delay of game Violation,,130-104,130,104
@@ -419,8 +419,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900677,2020-01-24,OKC,ATL,45.7,4,2,18,OKC,OKC,tov,1,False,True,Bazley Bad Pass Turnover (P1.T14),,132-106,132,106
 0021900677,2020-01-24,OKC,ATL,45.7,4,2,18,OKC,ATL,steal,1,False,True,steal,steal,132-106,132,106
 0021900677,2020-01-24,OKC,ATL,45.82,4,2,11,ATL,ATL,tov,1,False,True,,Brown Jr. Bad Pass Turnover (P1.T11),132-106,132,106
-0021900677,2020-01-24,OKC,ATL,45.82,4,2,11,OKC,ATL,foul,28,False,False,,Carter Personal Take Foul (P1.PN) (M.Ervin),132-106,132,106
 0021900677,2020-01-24,OKC,ATL,45.82,4,2,11,ATL,OKC,steal,1,False,True,steal,steal,132-106,132,106
+0021900677,2020-01-24,OKC,ATL,45.82,4,2,11,OKC,ATL,foul,28,False,False,,Carter Personal Take Foul (P1.PN) (M.Ervin),132-106,132,106
 0021900677,2020-01-24,OKC,ATL,45.82,4,2,11,OKC,OKC,ft_make,11,False,False,Diallo Free Throw 1 of 2 (8 PTS),,133-106,133,106
 0021900677,2020-01-24,OKC,ATL,45.82,4,2,11,OKC,OKC,ft_make,12,False,False,Diallo Free Throw 2 of 2 (9 PTS),,134-106,134,106
 0021900677,2020-01-24,OKC,ATL,46.03,4,1,58,ATL,ATL,fg3_miss,1,False,False,,MISS Graham 27' 3PT Jump Shot,134-106,134,106

@@ -108,8 +108,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700620,2018-01-12,WAS,ORL,12.45,2,11,33,ORL,ORL,reb,0,False,False,,Afflalo REBOUND (Off:0 Def:1),34-33,34,33
 0021700620,2018-01-12,WAS,ORL,12.53,2,11,28,ORL,ORL,fg_make,41,False,False,,Hezonja 2' Running Layup (2 PTS) (Iwundu 1 AST),34-35,34,35
 0021700620,2018-01-12,WAS,ORL,12.8,2,11,12,WAS,WAS,tov,2,False,True,Satoransky Lost Ball Turnover (P2.T5),,34-35,34,35
-0021700620,2018-01-12,WAS,ORL,12.8,2,11,12,ORL,WAS,foul,1,False,False,Satoransky P.FOUL (P3.T1) (R.Garretson),,34-35,34,35
 0021700620,2018-01-12,WAS,ORL,12.8,2,11,12,WAS,ORL,steal,2,False,True,steal,steal,34-35,34,35
+0021700620,2018-01-12,WAS,ORL,12.8,2,11,12,ORL,WAS,foul,1,False,False,Satoransky P.FOUL (P3.T1) (R.Garretson),,34-35,34,35
 0021700620,2018-01-12,WAS,ORL,12.97,2,11,2,ORL,ORL,tov,1,False,True,,Speights Bad Pass Turnover (P2.T9),34-35,34,35
 0021700620,2018-01-12,WAS,ORL,12.97,2,11,2,ORL,WAS,steal,1,False,True,steal,steal,34-35,34,35
 0021700620,2018-01-12,WAS,ORL,13.03,2,10,58,WAS,WAS,fg_make,50,False,False,Satoransky 1' Running Dunk (2 PTS),,36-35,36,35
@@ -200,8 +200,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700620,2018-01-12,WAS,ORL,23.52,2,0,29,WAS,WAS,fg_miss,97,False,False,MISS Morris 1' Tip Layup Shot,,65-63,65,63
 0021700620,2018-01-12,WAS,ORL,23.52,2,0,29,ORL,ORL,reb,0,False,False,,Gordon REBOUND (Off:0 Def:3),65-63,65,63
 0021700620,2018-01-12,WAS,ORL,23.58,2,0,25,ORL,ORL,fg_miss,5,True,False,,MISS Fournier 2' Layup,65-63,65,63
-0021700620,2018-01-12,WAS,ORL,23.58,2,0,25,WAS,WAS,reb,0,False,False,Gortat REBOUND (Off:3 Def:1),,65-63,65,63
 0021700620,2018-01-12,WAS,ORL,23.58,2,0,25,ORL,WAS,block,5,True,False,block,block,65-63,65,63
+0021700620,2018-01-12,WAS,ORL,23.58,2,0,25,WAS,WAS,reb,0,False,False,Gortat REBOUND (Off:3 Def:1),,65-63,65,63
 0021700620,2018-01-12,WAS,ORL,23.98,2,0,1,WAS,WAS,fg_miss,79,False,False,MISS Beal 10' Pullup Jump Shot,,65-63,65,63
 0021700620,2018-01-12,WAS,ORL,23.98,2,0,1,WAS,WAS,reb,0,False,False,Gortat REBOUND (Off:4 Def:1),,65-63,65,63
 0021700620,2018-01-12,WAS,ORL,24.0,2,0,0,WAS,WAS,tov,11,False,False,WIZARDS Turnover: Shot Clock (T#6),,65-63,65,63
@@ -312,8 +312,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700620,2018-01-12,WAS,ORL,35.55,3,0,27,WAS,WAS,fg_make,5,False,False,Mahinmi 1' Layup (11 PTS),,98-98,98,98
 0021700620,2018-01-12,WAS,ORL,35.87,3,0,8,ORL,ORL,tov,6,False,False,,Speights Double Dribble Turnover (P3.T13),98-98,98,98
 0021700620,2018-01-12,WAS,ORL,35.98,3,0,1,WAS,WAS,fg_miss,1,True,False,MISS Satoransky 18' Jump Shot,,98-98,98,98
-0021700620,2018-01-12,WAS,ORL,35.98,3,0,1,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,98-98,98,98
 0021700620,2018-01-12,WAS,ORL,35.98,3,0,1,WAS,ORL,block,1,True,False,block,block,98-98,98,98
+0021700620,2018-01-12,WAS,ORL,35.98,3,0,1,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,98-98,98,98
 0021700620,2018-01-12,WAS,ORL,36.0,3,0,0,WAS,,period_end,0,False,False,,,98-98,98,98
 0021700620,2018-01-12,WAS,ORL,36.0,4,12,0,WAS,,period_start,0,False,False,,,98-98,98,98
 0021700620,2018-01-12,WAS,ORL,36.23,4,11,46,WAS,WAS,fg_make,1,False,False,Scott 17' Jump Shot (6 PTS),,100-98,100,98
@@ -409,8 +409,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700620,2018-01-12,WAS,ORL,46.65,4,1,21,WAS,WAS,fg3_miss,1,False,False,MISS Beal 27' 3PT Jump Shot,,121-116,121,116
 0021700620,2018-01-12,WAS,ORL,46.72,4,1,17,ORL,ORL,reb,0,False,False,,Gordon REBOUND (Off:3 Def:6),121-116,121,116
 0021700620,2018-01-12,WAS,ORL,46.77,4,1,14,ORL,ORL,fg_miss,6,True,False,,MISS Gordon 1' Driving Layup,121-116,121,116
-0021700620,2018-01-12,WAS,ORL,46.77,4,1,14,WAS,WAS,reb,0,False,False,Gortat REBOUND (Off:6 Def:5),,121-116,121,116
 0021700620,2018-01-12,WAS,ORL,46.77,4,1,14,ORL,WAS,block,6,True,False,block,block,121-116,121,116
+0021700620,2018-01-12,WAS,ORL,46.77,4,1,14,WAS,WAS,reb,0,False,False,Gortat REBOUND (Off:6 Def:5),,121-116,121,116
 0021700620,2018-01-12,WAS,ORL,47.08,4,0,55,WAS,WAS,fg_make,5,False,False,Wall 2' Layup (29 PTS),,123-116,123,116
 0021700620,2018-01-12,WAS,ORL,47.3,4,0,42,ORL,ORL,fg3_miss,1,False,False,,MISS Hezonja 27' 3PT Jump Shot,123-116,123,116
 0021700620,2018-01-12,WAS,ORL,47.3,4,0,42,WAS,WAS,reb,0,False,False,Wall REBOUND (Off:0 Def:2),,123-116,123,116

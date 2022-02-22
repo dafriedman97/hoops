@@ -2,8 +2,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000052,2020-12-29,OKC,ORL,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
 0022000052,2020-12-29,OKC,ORL,0.0,1,12,0,,OKC,jump_ball,0,False,False,Jump Ball Roby vs. Vucevic: Tip to Bazley,,0-0,0,0
 0022000052,2020-12-29,OKC,ORL,0.2,1,11,48,OKC,OKC,fg_miss,6,True,False,MISS Bazley 5' Driving Layup,,0-0,0,0
-0022000052,2020-12-29,OKC,ORL,0.2,1,11,48,OKC,OKC,reb,0,False,False,THUNDER Rebound,,0-0,0,0
 0022000052,2020-12-29,OKC,ORL,0.2,1,11,48,OKC,ORL,block,6,True,False,block,block,0-0,0,0
+0022000052,2020-12-29,OKC,ORL,0.2,1,11,48,OKC,OKC,reb,0,False,False,THUNDER Rebound,,0-0,0,0
 0022000052,2020-12-29,OKC,ORL,0.32,1,11,41,OKC,OKC,fg3_miss,1,False,False,MISS Jackson 27' 3PT Jump Shot,,0-0,0,0
 0022000052,2020-12-29,OKC,ORL,0.38,1,11,37,ORL,ORL,reb,0,False,False,,Gordon REBOUND (Off:0 Def:1),0-0,0,0
 0022000052,2020-12-29,OKC,ORL,0.47,1,11,32,ORL,ORL,fg_miss,41,False,False,,MISS Gordon 6' Running Layup,0-0,0,0
@@ -52,8 +52,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000052,2020-12-29,OKC,ORL,6.7,1,5,18,ORL,OKC,violation,2,False,False,Defensive Goaltending,,18-19,18,19
 0022000052,2020-12-29,OKC,ORL,6.87,1,5,8,OKC,OKC,fg_make,9,False,False,Gilgeous-Alexander 2' Driving Dunk (5 PTS),,20-19,20,19
 0022000052,2020-12-29,OKC,ORL,7.07,1,4,56,ORL,ORL,fg_miss,5,False,False,,MISS Fultz 6' Layup,20-19,20,19
-0022000052,2020-12-29,OKC,ORL,7.17,1,4,50,ORL,ORL,fg_make,97,False,False,,Fultz Tip Layup Shot (4 PTS),20-21,20,21
 0022000052,2020-12-29,OKC,ORL,7.17,1,4,50,ORL,ORL,reb,0,False,False,,Fultz REBOUND (Off:1 Def:0),20-21,20,21
+0022000052,2020-12-29,OKC,ORL,7.17,1,4,50,ORL,ORL,fg_make,97,False,False,,Fultz Tip Layup Shot (4 PTS),20-21,20,21
 0022000052,2020-12-29,OKC,ORL,7.38,1,4,37,OKC,OKC,fg_make,79,False,False,Roby 5' Pullup Jump Shot (9 PTS),,22-21,22,21
 0022000052,2020-12-29,OKC,ORL,7.57,1,4,26,ORL,ORL,fg3_make,79,False,False,,Fournier 25' 3PT Pullup Jump Shot (5 PTS),22-24,22,24
 0022000052,2020-12-29,OKC,ORL,7.57,1,4,26,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 1 Short 0),,22-24,22,24
@@ -169,8 +169,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000052,2020-12-29,OKC,ORL,20.37,2,3,38,OKC,OKC,tov,2,False,True,Gilgeous-Alexander Lost Ball Turnover (P1.T8),,43-51,43,51
 0022000052,2020-12-29,OKC,ORL,20.37,2,3,38,OKC,ORL,steal,2,False,True,steal,steal,43-51,43,51
 0022000052,2020-12-29,OKC,ORL,20.55,2,3,27,ORL,ORL,fg_miss,98,False,False,,MISS Okeke 2' Cutting Layup Shot,43-51,43,51
-0022000052,2020-12-29,OKC,ORL,20.68,2,3,19,ORL,ORL,fg_make,97,False,False,,Bacon Tip Layup Shot (6 PTS),43-53,43,53
 0022000052,2020-12-29,OKC,ORL,20.68,2,3,19,ORL,ORL,reb,0,False,False,,Bacon REBOUND (Off:1 Def:2),43-53,43,53
+0022000052,2020-12-29,OKC,ORL,20.68,2,3,19,ORL,ORL,fg_make,97,False,False,,Bacon Tip Layup Shot (6 PTS),43-53,43,53
 0022000052,2020-12-29,OKC,ORL,20.83,2,3,10,OKC,OKC,fg3_miss,1,False,False,MISS Dort 25' 3PT Jump Shot,,43-53,43,53
 0022000052,2020-12-29,OKC,ORL,20.87,2,3,8,OKC,OKC,reb,0,False,False,Dort REBOUND (Off:1 Def:2),,43-53,43,53
 0022000052,2020-12-29,OKC,ORL,20.9,2,3,6,OKC,OKC,fg3_make,1,False,False,Dort 24' 3PT Jump Shot (5 PTS),,46-53,46,53
@@ -237,8 +237,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000052,2020-12-29,OKC,ORL,27.07,3,8,56,ORL,ORL,tov,45,False,False,,Fournier Out of Bounds - Bad Pass Turnover Turnover (P3.T6),64-67,64,67
 0022000052,2020-12-29,OKC,ORL,27.22,3,8,47,OKC,ORL,foul,1,False,False,,Fultz P.FOUL (P2.T2) (T.Ford),64-67,64,67
 0022000052,2020-12-29,OKC,ORL,27.45,3,8,33,OKC,OKC,tov,1,False,True,Jackson Bad Pass Turnover (P4.T11),,64-67,64,67
-0022000052,2020-12-29,OKC,ORL,27.45,3,8,33,ORL,OKC,foul,1,False,False,Roby P.FOUL (P3.T2) (B.Forte),,64-67,64,67
 0022000052,2020-12-29,OKC,ORL,27.45,3,8,33,OKC,ORL,steal,1,False,True,steal,steal,64-67,64,67
+0022000052,2020-12-29,OKC,ORL,27.45,3,8,33,ORL,OKC,foul,1,False,False,Roby P.FOUL (P3.T2) (B.Forte),,64-67,64,67
 0022000052,2020-12-29,OKC,ORL,27.58,3,8,25,ORL,ORL,fg_make,1,False,False,,Vucevic 11' Jump Shot (20 PTS) (Fultz 8 AST),64-69,64,69
 0022000052,2020-12-29,OKC,ORL,27.8,3,8,12,OKC,OKC,fg3_make,1,False,False,Dort 3PT Jump Shot (15 PTS) (Gilgeous-Alexander 3 AST),,67-69,67,69
 0022000052,2020-12-29,OKC,ORL,28.07,3,7,56,OKC,ORL,foul,4,False,False,,Fournier OFF.Foul (P4) (J.Sterling),67-69,67,69
@@ -291,8 +291,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000052,2020-12-29,OKC,ORL,33.68,3,2,19,OKC,OKC,fg3_make,79,False,False,Gilgeous-Alexander 26' 3PT Pullup Jump Shot (17 PTS),,80-80,80,80
 0022000052,2020-12-29,OKC,ORL,34.0,3,2,0,ORL,ORL,fg_make,101,False,False,,Ross 8' Driving Floating Jump Shot (10 PTS),80-82,80,82
 0022000052,2020-12-29,OKC,ORL,34.23,3,1,46,OKC,OKC,tov,1,False,True,Gilgeous-Alexander Bad Pass Turnover (P4.T16),,80-82,80,82
-0022000052,2020-12-29,OKC,ORL,34.23,3,1,46,ORL,OKC,foul,28,False,False,Williams Personal Take Foul (P1.T4) (B.Forte),,80-82,80,82
 0022000052,2020-12-29,OKC,ORL,34.23,3,1,46,OKC,ORL,steal,1,False,True,steal,steal,80-82,80,82
+0022000052,2020-12-29,OKC,ORL,34.23,3,1,46,ORL,OKC,foul,28,False,False,Williams Personal Take Foul (P1.T4) (B.Forte),,80-82,80,82
 0022000052,2020-12-29,OKC,ORL,34.53,3,1,28,ORL,ORL,fg_miss,78,False,False,,MISS Carter-Williams 12' Floating Jump Shot,80-82,80,82
 0022000052,2020-12-29,OKC,ORL,34.58,3,1,25,ORL,ORL,reb,0,False,False,,Carter-Williams REBOUND (Off:1 Def:2),80-82,80,82
 0022000052,2020-12-29,OKC,ORL,34.58,3,1,25,OKC,ORL,foul,4,False,False,,Birch OFF.Foul (P1) (T.Ford),80-82,80,82

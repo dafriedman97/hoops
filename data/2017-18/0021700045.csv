@@ -62,8 +62,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700045,2017-10-23,DAL,GSW,7.07,1,4,56,DAL,GSW,steal,2,False,True,steal,steal,8-21,8,21
 0021700045,2017-10-23,DAL,GSW,7.12,1,4,53,GSW,DAL,foul,29,False,False,Ferrell Shooting Block Foul (P1.T3) (D.Collins),,8-21,8,21
 0021700045,2017-10-23,DAL,GSW,7.12,1,4,53,GSW,GSW,ft_make,11,False,False,,Curry Free Throw 1 of 2 (3 PTS),8-22,8,22
-0021700045,2017-10-23,DAL,GSW,7.12,1,4,53,DAL,GSW,violation,1,False,False,,Warriors Violation: Delay of game Violation,8-22,8,22
 0021700045,2017-10-23,DAL,GSW,7.12,1,4,53,DAL,GSW,ft_make,12,False,False,,Curry Free Throw 2 of 2 (4 PTS),8-23,8,23
+0021700045,2017-10-23,DAL,GSW,7.12,1,4,53,DAL,GSW,violation,1,False,False,,Warriors Violation: Delay of game Violation,8-22,8,22
 0021700045,2017-10-23,DAL,GSW,7.37,1,4,38,DAL,DAL,fg3_make,1,False,False,Ferrell 26' 3PT Jump Shot (3 PTS) (Barnes 2 AST),,11-23,11,23
 0021700045,2017-10-23,DAL,GSW,7.6,1,4,24,GSW,GSW,fg3_miss,1,False,False,,MISS Iguodala 26' 3PT Jump Shot,11-23,11,23
 0021700045,2017-10-23,DAL,GSW,7.65,1,4,21,DAL,DAL,reb,0,False,False,Barnes REBOUND (Off:0 Def:1),,11-23,11,23
@@ -123,9 +123,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700045,2017-10-23,DAL,GSW,11.73,1,0,16,GSW,GSW,reb,0,False,False,,Bell REBOUND (Off:1 Def:0),24-38,24,38
 0021700045,2017-10-23,DAL,GSW,11.9,1,0,6,GSW,GSW,fg_make,43,False,False,,Bell 3' Alley Oop Layup (4 PTS) (Green 5 AST),24-40,24,40
 0021700045,2017-10-23,DAL,GSW,12.0,1,0,0,DAL,DAL,tov,2,False,True,Barea Lost Ball Turnover (P3.T5),,24-40,24,40
+0021700045,2017-10-23,DAL,GSW,12.0,1,0,0,DAL,GSW,steal,2,False,True,steal,steal,24-40,24,40
 0021700045,2017-10-23,DAL,GSW,12.0,1,0,0,DAL,,period_end,0,False,False,,,24-40,24,40
 0021700045,2017-10-23,DAL,GSW,12.0,2,12,0,DAL,,period_start,0,False,False,,,24-40,24,40
-0021700045,2017-10-23,DAL,GSW,12.0,1,0,0,DAL,GSW,steal,2,False,True,steal,steal,24-40,24,40
 0021700045,2017-10-23,DAL,GSW,12.12,2,11,53,GSW,DAL,foul,4,False,False,Powell OFF.Foul (P1) (D.Collins),,24-40,24,40
 0021700045,2017-10-23,DAL,GSW,12.12,2,11,53,DAL,DAL,tov,37,False,False,Powell Offensive Foul Turnover (P1.T6),,24-40,24,40
 0021700045,2017-10-23,DAL,GSW,12.43,2,11,34,GSW,GSW,fg_miss,63,False,False,,MISS Livingston 12' Fadeaway Jumper,24-40,24,40
@@ -179,8 +179,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700045,2017-10-23,DAL,GSW,16.85,2,7,9,DAL,DAL,ft_make,12,False,False,Smith Jr. Free Throw 2 of 2 (7 PTS),,39-48,39,48
 0021700045,2017-10-23,DAL,GSW,17.02,2,6,59,GSW,GSW,fg3_make,1,False,False,,Curry 3PT Jump Shot (12 PTS) (Green 6 AST),39-51,39,51
 0021700045,2017-10-23,DAL,GSW,17.17,2,6,50,DAL,DAL,fg_miss,98,True,False,MISS Powell 4' Cutting Layup Shot,,39-51,39,51
-0021700045,2017-10-23,DAL,GSW,17.17,2,6,50,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,39-51,39,51
 0021700045,2017-10-23,DAL,GSW,17.17,2,6,50,DAL,GSW,block,98,True,False,block,block,39-51,39,51
+0021700045,2017-10-23,DAL,GSW,17.17,2,6,50,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,39-51,39,51
 0021700045,2017-10-23,DAL,GSW,17.25,2,6,45,DAL,GSW,foul,1,False,False,,Curry P.FOUL (P1.PN) (T.Brown),39-51,39,51
 0021700045,2017-10-23,DAL,GSW,17.25,2,6,45,DAL,DAL,ft_make,11,False,False,Ferrell Free Throw 1 of 2 (4 PTS),,40-51,40,51
 0021700045,2017-10-23,DAL,GSW,17.25,2,6,45,DAL,DAL,ft_make,12,False,False,Ferrell Free Throw 2 of 2 (5 PTS),,41-51,41,51
@@ -247,8 +247,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700045,2017-10-23,DAL,GSW,24.0,2,0,0,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,62-65,62,65
 0021700045,2017-10-23,DAL,GSW,24.0,2,0,0,DAL,,period_end,0,False,False,,,62-65,62,65
 0021700045,2017-10-23,DAL,GSW,24.0,3,12,0,DAL,,period_start,0,False,False,,,62-65,62,65
-0021700045,2017-10-23,DAL,GSW,24.0,3,12,0,GSW,DAL,foul,18,False,False,MAVERICKS Delay,,62-65,62,65
 0021700045,2017-10-23,DAL,GSW,24.0,3,12,0,GSW,GSW,ft_make,16,False,False,,Curry Free Throw Technical (18 PTS),62-66,62,66
+0021700045,2017-10-23,DAL,GSW,24.0,3,12,0,GSW,DAL,foul,18,False,False,MAVERICKS Delay,,62-65,62,65
 0021700045,2017-10-23,DAL,GSW,24.33,3,11,40,DAL,DAL,fg3_miss,1,False,False,MISS Matthews 3PT Jump Shot,,62-66,62,66
 0021700045,2017-10-23,DAL,GSW,24.4,3,11,36,DAL,DAL,reb,0,False,False,Barnes REBOUND (Off:2 Def:2),,62-66,62,66
 0021700045,2017-10-23,DAL,GSW,24.43,3,11,34,DAL,DAL,fg_make,72,False,False,Barnes Putback Layup (11 PTS),,64-66,64,66
@@ -334,8 +334,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700045,2017-10-23,DAL,GSW,33.28,3,2,43,GSW,GSW,fg_miss,1,False,False,,MISS Green 17' Jump Shot,79-91,79,91
 0021700045,2017-10-23,DAL,GSW,33.33,3,2,40,DAL,DAL,reb,0,False,False,Noel REBOUND (Off:3 Def:4),,79-91,79,91
 0021700045,2017-10-23,DAL,GSW,33.58,3,2,25,DAL,DAL,fg_miss,101,True,False,MISS Barea 5' Driving Floating Jump Shot,,79-91,79,91
-0021700045,2017-10-23,DAL,GSW,33.58,3,2,25,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,79-91,79,91
 0021700045,2017-10-23,DAL,GSW,33.58,3,2,25,DAL,GSW,block,101,True,False,block,block,79-91,79,91
+0021700045,2017-10-23,DAL,GSW,33.58,3,2,25,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,79-91,79,91
 0021700045,2017-10-23,DAL,GSW,33.62,3,2,23,DAL,DAL,fg_make,98,False,False,Matthews 2' Cutting Layup Shot (19 PTS) (Barea 6 AST),,81-91,81,91
 0021700045,2017-10-23,DAL,GSW,33.9,3,2,6,GSW,GSW,fg3_make,1,False,False,,Green 24' 3PT Jump Shot (10 PTS) (Curry 8 AST),81-94,81,94
 0021700045,2017-10-23,DAL,GSW,34.17,3,1,50,DAL,DAL,fg_make,1,False,False,Noel 14' Jump Shot (8 PTS) (Matthews 2 AST),,83-94,83,94
@@ -417,8 +417,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700045,2017-10-23,DAL,GSW,42.28,4,5,43,GSW,GSW,reb,0,False,False,,Young REBOUND (Off:0 Def:1),89-115,89,115
 0021700045,2017-10-23,DAL,GSW,42.48,4,5,31,GSW,GSW,fg_make,1,False,False,,West 18' Jump Shot (4 PTS) (Livingston 1 AST),89-117,89,117
 0021700045,2017-10-23,DAL,GSW,42.77,4,5,14,DAL,DAL,fg_miss,6,True,False,MISS Powell 3' Driving Layup,,89-117,89,117
-0021700045,2017-10-23,DAL,GSW,42.77,4,5,14,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,89-117,89,117
 0021700045,2017-10-23,DAL,GSW,42.77,4,5,14,DAL,GSW,block,6,True,False,block,block,89-117,89,117
+0021700045,2017-10-23,DAL,GSW,42.77,4,5,14,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,89-117,89,117
 0021700045,2017-10-23,DAL,GSW,42.9,4,5,6,DAL,DAL,tov,45,False,False,Withey Out of Bounds - Bad Pass Turnover Turnover (P1.T12),,89-117,89,117
 0021700045,2017-10-23,DAL,GSW,43.15,4,4,51,GSW,GSW,fg_make,109,False,False,,McGee 1' Driving Reverse Dunk Shot (4 PTS) (Bell 1 AST),89-119,89,119
 0021700045,2017-10-23,DAL,GSW,43.15,4,4,51,GSW,DAL,violation,2,False,False,Withey Violation:Defensive Goaltending (D.Collins),,89-119,89,119
@@ -443,8 +443,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700045,2017-10-23,DAL,GSW,45.12,4,2,53,GSW,GSW,tov,1,False,True,,McCaw Bad Pass Turnover (P1.T16),94-119,94,119
 0021700045,2017-10-23,DAL,GSW,45.12,4,2,53,GSW,DAL,steal,1,False,True,steal,steal,94-119,94,119
 0021700045,2017-10-23,DAL,GSW,45.23,4,2,46,DAL,DAL,fg3_miss,1,True,False,MISS Powell 25' 3PT Jump Shot,,94-119,94,119
-0021700045,2017-10-23,DAL,GSW,45.23,4,2,46,GSW,GSW,reb,0,False,False,,McGee REBOUND (Off:1 Def:2),94-119,94,119
 0021700045,2017-10-23,DAL,GSW,45.23,4,2,46,DAL,GSW,block,1,True,False,block,block,94-119,94,119
+0021700045,2017-10-23,DAL,GSW,45.23,4,2,46,GSW,GSW,reb,0,False,False,,McGee REBOUND (Off:1 Def:2),94-119,94,119
 0021700045,2017-10-23,DAL,GSW,45.28,4,2,43,GSW,GSW,fg_make,50,False,False,,Bell 3' Running Dunk (6 PTS) (McGee 2 AST),94-121,94,121
 0021700045,2017-10-23,DAL,GSW,45.28,4,2,43,GSW,DAL,foul,2,False,False,Clavell S.FOUL (P2.T4) (T.Brown),,94-121,94,121
 0021700045,2017-10-23,DAL,GSW,45.28,4,2,43,GSW,GSW,ft_miss,10,False,False,,MISS Bell Free Throw 1 of 1,94-121,94,121

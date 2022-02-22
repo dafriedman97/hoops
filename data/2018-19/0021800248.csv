@@ -9,8 +9,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800248,2018-11-20,ORL,TOR,0.95,1,11,3,TOR,TOR,fg_make,57,False,False,,Ibaka 6' Driving Hook Shot (2 PTS) (Lowry 2 AST),0-5,0,5
 0021800248,2018-11-20,ORL,TOR,1.2,1,10,48,ORL,ORL,fg_make,99,False,False,Fournier 2' Cutting Finger Roll Layup Shot (2 PTS) (Vucevic 1 AST),,2-5,2,5
 0021800248,2018-11-20,ORL,TOR,1.52,1,10,29,TOR,TOR,fg3_miss,1,True,False,,MISS Green 3PT Jump Shot,2-5,2,5
-0021800248,2018-11-20,ORL,TOR,1.52,1,10,29,TOR,TOR,reb,0,False,False,,Raptors Rebound,2-5,2,5
 0021800248,2018-11-20,ORL,TOR,1.52,1,10,29,TOR,ORL,block,1,True,False,block,block,2-5,2,5
+0021800248,2018-11-20,ORL,TOR,1.52,1,10,29,TOR,TOR,reb,0,False,False,,Raptors Rebound,2-5,2,5
 0021800248,2018-11-20,ORL,TOR,1.63,1,10,22,TOR,TOR,fg_miss,80,True,False,,MISS Leonard 17' Step Back Jump Shot,2-5,2,5
 0021800248,2018-11-20,ORL,TOR,1.63,1,10,22,TOR,ORL,block,80,True,False,block,block,2-5,2,5
 0021800248,2018-11-20,ORL,TOR,1.68,1,10,19,ORL,ORL,reb,0,False,False,Gordon REBOUND (Off:0 Def:1),,2-5,2,5
@@ -99,8 +99,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800248,2018-11-20,ORL,TOR,10.37,1,1,38,TOR,TOR,ft_make,11,False,False,,VanVleet Free Throw 1 of 2 (1 PTS),15-23,15,23
 0021800248,2018-11-20,ORL,TOR,10.37,1,1,38,TOR,TOR,ft_make,12,False,False,,VanVleet Free Throw 2 of 2 (2 PTS),15-24,15,24
 0021800248,2018-11-20,ORL,TOR,10.6,1,1,24,ORL,ORL,fg_miss,6,True,False,MISS Simmons 6' Driving Layup,,15-24,15,24
-0021800248,2018-11-20,ORL,TOR,10.6,1,1,24,TOR,TOR,reb,0,False,False,,Raptors Rebound,15-24,15,24
 0021800248,2018-11-20,ORL,TOR,10.6,1,1,24,ORL,TOR,block,6,True,False,block,block,15-24,15,24
+0021800248,2018-11-20,ORL,TOR,10.6,1,1,24,TOR,TOR,reb,0,False,False,,Raptors Rebound,15-24,15,24
 0021800248,2018-11-20,ORL,TOR,10.82,1,1,11,TOR,TOR,fg3_miss,1,False,False,,MISS Valanciunas 26' 3PT Jump Shot,15-24,15,24
 0021800248,2018-11-20,ORL,TOR,10.88,1,1,7,ORL,ORL,reb,0,False,False,Simmons REBOUND (Off:0 Def:2),,15-24,15,24
 0021800248,2018-11-20,ORL,TOR,11.15,1,0,51,ORL,ORL,fg_make,79,False,False,Isaac 19' Pullup Jump Shot (2 PTS) (Grant 1 AST),,17-24,17,24
@@ -154,8 +154,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800248,2018-11-20,ORL,TOR,18.2,2,5,48,ORL,ORL,fg3_miss,1,False,False,MISS Gordon 3PT Jump Shot,,25-40,25,40
 0021800248,2018-11-20,ORL,TOR,18.23,2,5,46,TOR,TOR,reb,0,False,False,,Valanciunas REBOUND (Off:0 Def:2),25-40,25,40
 0021800248,2018-11-20,ORL,TOR,18.28,2,5,43,TOR,TOR,fg_miss,5,True,False,,MISS Wright 3' Layup,25-40,25,40
-0021800248,2018-11-20,ORL,TOR,18.28,2,5,43,TOR,TOR,reb,0,False,False,,Raptors Rebound,25-40,25,40
 0021800248,2018-11-20,ORL,TOR,18.28,2,5,43,TOR,ORL,block,5,True,False,block,block,25-40,25,40
+0021800248,2018-11-20,ORL,TOR,18.28,2,5,43,TOR,TOR,reb,0,False,False,,Raptors Rebound,25-40,25,40
 0021800248,2018-11-20,ORL,TOR,18.57,2,5,26,TOR,TOR,fg_miss,44,False,False,,MISS Leonard 3' Reverse Layup,25-40,25,40
 0021800248,2018-11-20,ORL,TOR,18.6,2,5,24,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:1 Def:4),,25-40,25,40
 0021800248,2018-11-20,ORL,TOR,18.75,2,5,15,ORL,TOR,foul,1,False,False,,Lowry P.FOUL (P2.T2) (K.Fitzgerald),25-40,25,40
@@ -243,8 +243,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800248,2018-11-20,ORL,TOR,28.37,3,7,38,ORL,ORL,fg3_make,1,False,False,Fournier 26' 3PT Jump Shot (13 PTS) (Iwundu 2 AST),,54-55,54,55
 0021800248,2018-11-20,ORL,TOR,28.65,3,7,21,TOR,TOR,fg_make,47,False,False,,Siakam 5' Turnaround Jump Shot (10 PTS),54-57,54,57
 0021800248,2018-11-20,ORL,TOR,28.92,3,7,5,ORL,ORL,tov,1,False,True,Vucevic Bad Pass Turnover (P3.T10),,54-57,54,57
-0021800248,2018-11-20,ORL,TOR,28.92,3,7,5,TOR,TOR,fg3_miss,1,False,False,,MISS Green 26' 3PT Jump Shot,54-57,54,57
 0021800248,2018-11-20,ORL,TOR,28.92,3,7,5,ORL,TOR,steal,1,False,True,steal,steal,54-57,54,57
+0021800248,2018-11-20,ORL,TOR,28.92,3,7,5,TOR,TOR,fg3_miss,1,False,False,,MISS Green 26' 3PT Jump Shot,54-57,54,57
 0021800248,2018-11-20,ORL,TOR,29.12,3,6,53,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:2 Def:8),,54-57,54,57
 0021800248,2018-11-20,ORL,TOR,29.37,3,6,38,ORL,ORL,fg_make,58,False,False,Vucevic 6' Turnaround Hook Shot (8 PTS) (Iwundu 3 AST),,56-57,56,57
 0021800248,2018-11-20,ORL,TOR,29.6,3,6,24,TOR,ORL,foul,1,False,False,Vucevic P.FOUL (P2.T2) (K.Fitzgerald),,56-57,56,57
@@ -399,6 +399,6 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800248,2018-11-20,ORL,TOR,47.97,4,0,2,ORL,ORL,fg_make,9,False,False,Fournier 3' Driving Dunk (27 PTS),,91-91,91,91
 0021800248,2018-11-20,ORL,TOR,47.97,4,0,2,TOR,TOR,timeout,1,False,False,,Raptors Timeout: Regular (Reg.5 Short 0),91-91,91,91
 0021800248,2018-11-20,ORL,TOR,48.0,4,0,0,TOR,TOR,fg_make,1,False,False,,Green 6' Jump Shot (13 PTS) (Lowry 7 AST),91-93,91,93
+0021800248,2018-11-20,ORL,TOR,48.0,4,0,0,ORL,,period_end,0,False,False,,,91-93,91,93
 0021800248,2018-11-20,ORL,TOR,48.0,4,0,0,ORL,ORL,fg3_miss,1,False,False,MISS Vucevic 67' 3PT Jump Shot,,91-93,91,93
 0021800248,2018-11-20,ORL,TOR,48.0,4,0,0,ORL,ORL,reb,0,False,False,MAGIC Rebound,,91-93,91,93
-0021800248,2018-11-20,ORL,TOR,48.0,4,0,0,ORL,,period_end,0,False,False,,,91-93,91,93

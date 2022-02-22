@@ -98,8 +98,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900849,2020-02-24,CLE,MIA,10.48,1,1,31,CLE,MIA,block,108,True,False,block,block,15-24,15,24
 0021900849,2020-02-24,CLE,MIA,10.57,1,1,26,MIA,MIA,reb,0,False,False,,Iguodala REBOUND (Off:0 Def:1),15-24,15,24
 0021900849,2020-02-24,CLE,MIA,10.57,1,1,26,MIA,MIA,fg_miss,6,True,False,,MISS Iguodala 2' Driving Layup,15-24,15,24
-0021900849,2020-02-24,CLE,MIA,10.57,1,1,26,MIA,MIA,reb,0,False,False,,Heat Rebound,15-24,15,24
 0021900849,2020-02-24,CLE,MIA,10.57,1,1,26,MIA,CLE,block,6,True,False,block,block,15-24,15,24
+0021900849,2020-02-24,CLE,MIA,10.57,1,1,26,MIA,MIA,reb,0,False,False,,Heat Rebound,15-24,15,24
 0021900849,2020-02-24,CLE,MIA,10.67,1,1,20,MIA,MIA,fg3_make,1,False,False,,Dragic 3PT Jump Shot (3 PTS) (Silva 1 AST),15-27,15,27
 0021900849,2020-02-24,CLE,MIA,11.1,1,0,54,CLE,CLE,fg3_make,1,False,False,Thompson 26' 3PT Jump Shot (5 PTS) (Sexton 2 AST),,18-27,18,27
 0021900849,2020-02-24,CLE,MIA,11.3,1,0,42,MIA,MIA,fg_make,79,False,False,,Dragic 20' Pullup Jump Shot (5 PTS) (Silva 2 AST),18-29,18,29
@@ -210,9 +210,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900849,2020-02-24,CLE,MIA,22.38,2,1,37,CLE,CLE,fg_miss,58,False,False,MISS Drummond 7' Turnaround Hook Shot,,52-62,52,62
 0021900849,2020-02-24,CLE,MIA,22.42,2,1,35,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:0 Def:4),52-62,52,62
 0021900849,2020-02-24,CLE,MIA,22.53,2,1,28,MIA,MIA,fg_miss,6,True,False,,MISS Adebayo 1' Driving Layup,52-62,52,62
+0021900849,2020-02-24,CLE,MIA,22.53,2,1,28,MIA,CLE,block,6,True,False,block,block,52-62,52,62
 0021900849,2020-02-24,CLE,MIA,22.53,2,1,28,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:1 Def:4),52-62,52,62
 0021900849,2020-02-24,CLE,MIA,22.53,2,1,28,MIA,CLE,foul,2,False,False,Drummond S.FOUL (P2.PN) (J.Schroeder),,52-62,52,62
-0021900849,2020-02-24,CLE,MIA,22.53,2,1,28,MIA,CLE,block,6,True,False,block,block,52-62,52,62
 0021900849,2020-02-24,CLE,MIA,22.53,2,1,28,MIA,MIA,ft_make,11,False,False,,Adebayo Free Throw 1 of 2 (10 PTS),52-63,52,63
 0021900849,2020-02-24,CLE,MIA,22.53,2,1,28,MIA,MIA,ft_miss,12,False,False,,MISS Adebayo Free Throw 2 of 2,52-63,52,63
 0021900849,2020-02-24,CLE,MIA,22.58,2,1,25,CLE,CLE,reb,0,False,False,Drummond REBOUND (Off:0 Def:4),,52-63,52,63
@@ -236,9 +236,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900849,2020-02-24,CLE,MIA,23.83,2,0,10,CLE,CLE,ft_make,11,False,False,Porter Jr. Free Throw 1 of 2 (12 PTS),,55-68,55,68
 0021900849,2020-02-24,CLE,MIA,23.83,2,0,10,CLE,CLE,ft_make,12,False,False,Porter Jr. Free Throw 2 of 2 (13 PTS),,56-68,56,68
 0021900849,2020-02-24,CLE,MIA,23.98,2,0,1,MIA,MIA,tov,2,False,True,,Olynyk Lost Ball Turnover (P2.T6),56-68,56,68
+0021900849,2020-02-24,CLE,MIA,23.98,2,0,1,MIA,CLE,steal,2,False,True,steal,steal,56-68,56,68
 0021900849,2020-02-24,CLE,MIA,23.98,2,0,1,CLE,CLE,fg3_miss,47,False,False,MISS Love 34' 3PT Turnaround Jump Shot,,56-68,56,68
 0021900849,2020-02-24,CLE,MIA,23.98,2,0,1,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,56-68,56,68
-0021900849,2020-02-24,CLE,MIA,23.98,2,0,1,MIA,CLE,steal,2,False,True,steal,steal,56-68,56,68
 0021900849,2020-02-24,CLE,MIA,24.0,2,0,0,CLE,,period_end,0,False,False,,,56-68,56,68
 0021900849,2020-02-24,CLE,MIA,24.0,3,12,0,CLE,,period_start,0,False,False,,,56-68,56,68
 0021900849,2020-02-24,CLE,MIA,24.28,3,11,43,CLE,CLE,fg_miss,6,True,False,MISS Drummond 2' Driving Layup,,56-68,56,68

@@ -34,8 +34,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700568,2018-01-05,MIA,NYK,4.73,1,7,16,NYK,NYK,tov,1,False,True,,Lee Bad Pass Turnover (P1.T2),9-13,9,13
 0021700568,2018-01-05,MIA,NYK,4.73,1,7,16,NYK,MIA,steal,1,False,True,steal,steal,9-13,9,13
 0021700568,2018-01-05,MIA,NYK,4.82,1,7,11,MIA,MIA,fg_miss,6,True,False,MISS Richardson 1' Driving Layup,,9-13,9,13
-0021700568,2018-01-05,MIA,NYK,4.82,1,7,11,NYK,NYK,reb,0,False,False,,Knicks Rebound,9-13,9,13
 0021700568,2018-01-05,MIA,NYK,4.82,1,7,11,MIA,NYK,block,6,True,False,block,block,9-13,9,13
+0021700568,2018-01-05,MIA,NYK,4.82,1,7,11,NYK,NYK,reb,0,False,False,,Knicks Rebound,9-13,9,13
 0021700568,2018-01-05,MIA,NYK,5.1,1,6,54,NYK,NYK,fg_miss,101,False,False,,MISS Jack 2' Driving Floating Jump Shot,9-13,9,13
 0021700568,2018-01-05,MIA,NYK,5.23,1,6,46,MIA,MIA,reb,0,False,False,Johnson REBOUND (Off:0 Def:1),,9-13,9,13
 0021700568,2018-01-05,MIA,NYK,5.32,1,6,41,MIA,MIA,fg_make,80,False,False,Dragic 16' Step Back Jump Shot (6 PTS),,11-13,11,13
@@ -174,14 +174,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700568,2018-01-05,MIA,NYK,20.77,2,3,14,NYK,NYK,tov,2,False,True,,Lee Lost Ball Turnover (P2.T8),41-38,41,38
 0021700568,2018-01-05,MIA,NYK,20.77,2,3,14,NYK,MIA,steal,2,False,True,steal,steal,41-38,41,38
 0021700568,2018-01-05,MIA,NYK,20.85,2,3,9,MIA,MIA,fg_miss,6,True,False,MISS Olynyk 2' Driving Layup,,41-38,41,38
-0021700568,2018-01-05,MIA,NYK,20.85,2,3,9,NYK,NYK,reb,0,False,False,,Knicks Rebound,41-38,41,38
 0021700568,2018-01-05,MIA,NYK,20.85,2,3,9,MIA,NYK,block,6,True,False,block,block,41-38,41,38
+0021700568,2018-01-05,MIA,NYK,20.85,2,3,9,NYK,NYK,reb,0,False,False,,Knicks Rebound,41-38,41,38
 0021700568,2018-01-05,MIA,NYK,21.05,2,2,57,NYK,NYK,tov,1,False,True,,Lee Bad Pass Turnover (P3.T9),41-38,41,38
 0021700568,2018-01-05,MIA,NYK,21.05,2,2,57,NYK,MIA,steal,1,False,True,steal,steal,41-38,41,38
 0021700568,2018-01-05,MIA,NYK,21.1,2,2,54,MIA,MIA,fg_miss,41,True,False,MISS Johnson 2' Running Layup,,41-38,41,38
+0021700568,2018-01-05,MIA,NYK,21.1,2,2,54,MIA,NYK,block,41,True,False,block,block,41-38,41,38
 0021700568,2018-01-05,MIA,NYK,21.1,2,2,54,NYK,NYK,reb,0,False,False,,Knicks Rebound,41-38,41,38
 0021700568,2018-01-05,MIA,NYK,21.1,2,2,54,NYK,NYK,timeout,1,False,False,,Knicks Timeout: Regular (Reg.2 Short 0),41-38,41,38
-0021700568,2018-01-05,MIA,NYK,21.1,2,2,54,MIA,NYK,block,41,True,False,block,block,41-38,41,38
 0021700568,2018-01-05,MIA,NYK,21.37,2,2,38,NYK,NYK,fg_make,66,False,False,,Porzingis 12' Jump Bank Shot (4 PTS) (Lee 1 AST),41-40,41,40
 0021700568,2018-01-05,MIA,NYK,21.65,2,2,21,MIA,MIA,fg3_make,1,False,False,Johnson 27' 3PT Jump Shot (12 PTS) (Dragic 3 AST),,44-40,44,40
 0021700568,2018-01-05,MIA,NYK,21.93,2,2,4,NYK,MIA,foul,2,False,False,Olynyk S.FOUL (P2.T2) (M.Davis),,44-40,44,40
@@ -285,8 +285,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700568,2018-01-05,MIA,NYK,33.37,3,2,38,MIA,NYK,foul,1,False,False,,Ntilikina P.FOUL (P2.PN) (N.Buchert),71-67,71,67
 0021700568,2018-01-05,MIA,NYK,33.63,3,2,22,MIA,MIA,fg_make,102,False,False,Johnson 7' Driving Floating Bank Jump Shot (16 PTS),,73-67,73,67
 0021700568,2018-01-05,MIA,NYK,33.88,3,2,7,NYK,NYK,fg_miss,6,True,False,,MISS O'Quinn 1' Driving Layup,73-67,73,67
-0021700568,2018-01-05,MIA,NYK,33.88,3,2,7,NYK,NYK,reb,0,False,False,,Knicks Rebound,73-67,73,67
 0021700568,2018-01-05,MIA,NYK,33.88,3,2,7,NYK,MIA,block,6,True,False,block,block,73-67,73,67
+0021700568,2018-01-05,MIA,NYK,33.88,3,2,7,NYK,NYK,reb,0,False,False,,Knicks Rebound,73-67,73,67
 0021700568,2018-01-05,MIA,NYK,33.97,3,2,2,MIA,NYK,foul,4,False,False,,O'Quinn OFF.Foul (P3) (N.Buchert),73-67,73,67
 0021700568,2018-01-05,MIA,NYK,33.97,3,2,2,NYK,NYK,tov,37,False,False,,O'Quinn Offensive Foul Turnover (P1.T16),73-67,73,67
 0021700568,2018-01-05,MIA,NYK,34.23,3,1,46,MIA,MIA,fg_miss,6,True,False,MISS Johnson 2' Driving Layup,,73-67,73,67

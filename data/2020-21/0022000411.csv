@@ -96,9 +96,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000411,2021-02-14,DAL,POR,10.92,1,1,5,POR,POR,tov,37,False,False,,Anthony Offensive Foul Turnover (P1.T3),21-32,21,32
 0022000411,2021-02-14,DAL,POR,11.08,1,0,55,DAL,DAL,fg_make,79,False,False,Hardaway Jr. 19' Pullup Jump Shot (2 PTS),,23-32,23,32
 0022000411,2021-02-14,DAL,POR,11.47,1,0,32,POR,POR,fg_miss,6,True,False,,MISS Little 3' Driving Layup,23-32,23,32
+0022000411,2021-02-14,DAL,POR,11.47,1,0,32,POR,DAL,block,6,True,False,block,block,23-32,23,32
 0022000411,2021-02-14,DAL,POR,11.47,1,0,32,POR,POR,reb,0,False,False,,Trail Blazers Rebound,23-32,23,32
 0022000411,2021-02-14,DAL,POR,11.47,1,0,32,POR,POR,tov,45,False,False,,Lillard Out of Bounds - Bad Pass Turnover Turnover (P2.T4),23-32,23,32
-0022000411,2021-02-14,DAL,POR,11.47,1,0,32,POR,DAL,block,6,True,False,block,block,23-32,23,32
 0022000411,2021-02-14,DAL,POR,11.68,1,0,19,DAL,POR,foul,1,False,False,,Lillard P.FOUL (P2.PN) (S.Foster),23-32,23,32
 0022000411,2021-02-14,DAL,POR,11.68,1,0,19,DAL,DAL,ft_make,11,False,False,Doncic Free Throw 1 of 2 (12 PTS),,24-32,24,32
 0022000411,2021-02-14,DAL,POR,11.68,1,0,19,DAL,DAL,ft_make,12,False,False,Doncic Free Throw 2 of 2 (13 PTS),,25-32,25,32
@@ -143,8 +143,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000411,2021-02-14,DAL,POR,15.38,2,8,37,POR,POR,fg3_miss,1,False,False,,MISS Anthony 25' 3PT Jump Shot,33-36,33,36
 0022000411,2021-02-14,DAL,POR,15.45,2,8,33,POR,POR,reb,0,False,False,,Anthony REBOUND (Off:1 Def:1),33-36,33,36
 0022000411,2021-02-14,DAL,POR,15.47,2,8,32,POR,POR,fg_miss,72,True,False,,MISS Anthony 2' Putback Layup,33-36,33,36
-0022000411,2021-02-14,DAL,POR,15.47,2,8,32,POR,POR,reb,0,False,False,,Anthony REBOUND (Off:2 Def:1),33-36,33,36
 0022000411,2021-02-14,DAL,POR,15.47,2,8,32,POR,DAL,block,72,True,False,block,block,33-36,33,36
+0022000411,2021-02-14,DAL,POR,15.47,2,8,32,POR,POR,reb,0,False,False,,Anthony REBOUND (Off:2 Def:1),33-36,33,36
 0022000411,2021-02-14,DAL,POR,15.53,2,8,28,POR,POR,fg_make,72,False,False,,Anthony 1' Putback Layup (8 PTS),33-38,33,38
 0022000411,2021-02-14,DAL,POR,15.82,2,8,11,DAL,POR,foul,2,False,False,,Giles III S.FOUL (P1.T1) (J.Butler),33-38,33,38
 0022000411,2021-02-14,DAL,POR,15.82,2,8,11,DAL,DAL,ft_make,11,False,False,Porzingis Free Throw 1 of 2 (3 PTS),,34-38,34,38
@@ -177,8 +177,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000411,2021-02-14,DAL,POR,19.63,2,4,22,DAL,DAL,reb,0,False,False,Kleber REBOUND (Off:1 Def:2),,42-47,42,47
 0022000411,2021-02-14,DAL,POR,19.68,2,4,19,DAL,DAL,fg3_make,1,False,False,Finney-Smith 25' 3PT Jump Shot (5 PTS) (Kleber 1 AST),,45-47,45,47
 0022000411,2021-02-14,DAL,POR,19.97,2,4,2,POR,POR,fg_miss,101,True,False,,MISS Lillard 11' Driving Floating Jump Shot,45-47,45,47
-0022000411,2021-02-14,DAL,POR,19.97,2,4,2,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,45-47,45,47
 0022000411,2021-02-14,DAL,POR,19.97,2,4,2,POR,DAL,block,101,True,False,block,block,45-47,45,47
+0022000411,2021-02-14,DAL,POR,19.97,2,4,2,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,45-47,45,47
 0022000411,2021-02-14,DAL,POR,20.02,2,3,59,,DAL,jump_ball,0,False,False,Jump Ball Finney-Smith vs. Lillard: Tip to Hardaway Jr.,,45-47,45,47
 0022000411,2021-02-14,DAL,POR,20.35,2,3,39,DAL,DAL,fg_make,5,False,False,Richardson 2' Layup (6 PTS) (Doncic 4 AST),,47-47,47,47
 0022000411,2021-02-14,DAL,POR,20.65,2,3,21,POR,POR,fg_make,6,False,False,,Lillard 2' Driving Layup (11 PTS),47-49,47,49
@@ -189,8 +189,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000411,2021-02-14,DAL,POR,21.28,2,2,43,DAL,DAL,ft_make,11,False,False,Cauley-Stein Free Throw 1 of 2 (1 PTS),,48-49,48,49
 0022000411,2021-02-14,DAL,POR,21.28,2,2,43,DAL,DAL,ft_make,12,False,False,Cauley-Stein Free Throw 2 of 2 (2 PTS),,49-49,49,49
 0022000411,2021-02-14,DAL,POR,21.47,2,2,32,POR,POR,fg_miss,6,True,False,,MISS Lillard 1' Driving Layup,49-49,49,49
-0022000411,2021-02-14,DAL,POR,21.47,2,2,32,POR,POR,reb,0,False,False,,Trail Blazers Rebound,49-49,49,49
 0022000411,2021-02-14,DAL,POR,21.47,2,2,32,POR,DAL,block,6,True,False,block,block,49-49,49,49
+0022000411,2021-02-14,DAL,POR,21.47,2,2,32,POR,POR,reb,0,False,False,,Trail Blazers Rebound,49-49,49,49
 0022000411,2021-02-14,DAL,POR,21.55,2,2,27,POR,POR,fg_make,5,False,False,,Kanter 1' Layup (4 PTS),49-51,49,51
 0022000411,2021-02-14,DAL,POR,21.55,2,2,27,POR,DAL,foul,2,False,False,Porzingis S.FOUL (P2.T2) (S.Foster),,49-51,49,51
 0022000411,2021-02-14,DAL,POR,21.55,2,2,27,POR,POR,ft_make,10,False,False,,Kanter Free Throw 1 of 1 (5 PTS),49-52,49,52
@@ -268,8 +268,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000411,2021-02-14,DAL,POR,29.42,3,6,35,DAL,POR,steal,1,False,True,steal,steal,72-79,72,79
 0022000411,2021-02-14,DAL,POR,29.48,3,6,31,POR,POR,fg_make,50,False,False,,Trent Jr. Running Dunk (16 PTS),72-81,72,81
 0022000411,2021-02-14,DAL,POR,29.77,3,6,14,DAL,DAL,fg_miss,5,True,False,MISS Brunson 2' Layup,,72-81,72,81
-0022000411,2021-02-14,DAL,POR,29.77,3,6,14,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,72-81,72,81
 0022000411,2021-02-14,DAL,POR,29.77,3,6,14,DAL,POR,block,5,True,False,block,block,72-81,72,81
+0022000411,2021-02-14,DAL,POR,29.77,3,6,14,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,72-81,72,81
 0022000411,2021-02-14,DAL,POR,29.93,3,6,4,DAL,DAL,fg3_make,1,False,False,Hardaway Jr. 3PT Jump Shot (5 PTS) (Doncic 6 AST),,75-81,75,81
 0022000411,2021-02-14,DAL,POR,30.3,3,5,42,POR,POR,fg3_make,1,False,False,,Covington 27' 3PT Jump Shot (11 PTS) (Lillard 8 AST),75-84,75,84
 0022000411,2021-02-14,DAL,POR,30.48,3,5,31,DAL,DAL,fg3_make,79,False,False,Doncic 26' 3PT Pullup Jump Shot (31 PTS),,78-84,78,84
@@ -402,9 +402,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000411,2021-02-14,DAL,POR,46.08,4,1,55,DAL,DAL,ft_make,12,False,False,Doncic Free Throw 2 of 2 (42 PTS),,111-112,111,112
 0022000411,2021-02-14,DAL,POR,46.37,4,1,38,POR,POR,fg_make,75,False,False,,Lillard Driving Finger Roll Layup (29 PTS),111-114,111,114
 0022000411,2021-02-14,DAL,POR,46.63,4,1,22,DAL,POR,foul,2,False,False,,Covington S.FOUL (P3.PN) (S.Wall),111-114,111,114
-0022000411,2021-02-14,DAL,POR,46.63,4,1,22,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.6 Short 0),111-114,111,114
 0022000411,2021-02-14,DAL,POR,46.63,4,1,22,POR,DAL,ft_make,11,False,False,Porzingis Free Throw 1 of 2 (17 PTS),,112-114,112,114
 0022000411,2021-02-14,DAL,POR,46.63,4,1,22,POR,DAL,ft_make,12,False,False,Porzingis Free Throw 2 of 2 (18 PTS),,113-114,113,114
+0022000411,2021-02-14,DAL,POR,46.63,4,1,22,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.6 Short 0),111-114,111,114
 0022000411,2021-02-14,DAL,POR,46.9,4,1,6,POR,DAL,foul,1,False,False,Hardaway Jr. P.FOUL (P2.PN) (J.Butler),,113-114,113,114
 0022000411,2021-02-14,DAL,POR,46.9,4,1,6,POR,POR,ft_make,11,False,False,,Lillard Free Throw 1 of 2 (30 PTS),113-115,113,115
 0022000411,2021-02-14,DAL,POR,46.9,4,1,6,POR,POR,ft_make,12,False,False,,Lillard Free Throw 2 of 2 (31 PTS),113-116,113,116

@@ -28,8 +28,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700987,2018-03-10,CHA,PHX,4.1,1,7,54,CHA,CHA,tov,2,False,True,Howard Lost Ball Turnover (P1.T3),,7-4,7,4
 0021700987,2018-03-10,CHA,PHX,4.1,1,7,54,CHA,PHX,steal,2,False,True,steal,steal,7-4,7,4
 0021700987,2018-03-10,CHA,PHX,4.15,1,7,51,PHX,PHX,fg_miss,6,True,False,,MISS Harrison 2' Driving Layup,7-4,7,4
-0021700987,2018-03-10,CHA,PHX,4.15,1,7,51,PHX,PHX,reb,0,False,False,,Suns Rebound,7-4,7,4
 0021700987,2018-03-10,CHA,PHX,4.15,1,7,51,PHX,CHA,block,6,True,False,block,block,7-4,7,4
+0021700987,2018-03-10,CHA,PHX,4.15,1,7,51,PHX,PHX,reb,0,False,False,,Suns Rebound,7-4,7,4
 0021700987,2018-03-10,CHA,PHX,4.23,1,7,46,PHX,PHX,fg3_make,1,False,False,,Daniels 27' 3PT Jump Shot (3 PTS) (Bender 1 AST),7-7,7,7
 0021700987,2018-03-10,CHA,PHX,4.58,1,7,25,CHA,CHA,fg3_make,1,False,False,Williams 27' 3PT Jump Shot (6 PTS) (Walker 3 AST),,10-7,10,7
 0021700987,2018-03-10,CHA,PHX,4.78,1,7,13,PHX,PHX,fg_miss,6,False,False,,MISS Payton 1' Driving Layup,10-7,10,7
@@ -170,9 +170,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700987,2018-03-10,CHA,PHX,19.5,2,4,30,PHX,PHX,fg_miss,6,False,False,,MISS Payton 3' Driving Layup,43-39,43,39
 0021700987,2018-03-10,CHA,PHX,19.57,2,4,26,PHX,PHX,reb,0,False,False,,Chriss REBOUND (Off:1 Def:2),43-39,43,39
 0021700987,2018-03-10,CHA,PHX,19.57,2,4,26,PHX,PHX,fg_miss,5,True,False,,MISS Chriss 3' Layup,43-39,43,39
+0021700987,2018-03-10,CHA,PHX,19.57,2,4,26,PHX,CHA,block,5,True,False,block,block,43-39,43,39
 0021700987,2018-03-10,CHA,PHX,19.57,2,4,26,CHA,CHA,reb,0,False,False,Howard REBOUND (Off:0 Def:6),,43-39,43,39
 0021700987,2018-03-10,CHA,PHX,19.57,2,4,26,CHA,PHX,foul,1,False,False,,Payton P.FOUL (P2.PN) (D.Richardson),43-39,43,39
-0021700987,2018-03-10,CHA,PHX,19.57,2,4,26,PHX,CHA,block,5,True,False,block,block,43-39,43,39
 0021700987,2018-03-10,CHA,PHX,19.57,2,4,26,CHA,CHA,ft_make,11,False,False,Howard Free Throw 1 of 2 (13 PTS),,44-39,44,39
 0021700987,2018-03-10,CHA,PHX,19.57,2,4,26,CHA,CHA,ft_miss,12,False,False,MISS Howard Free Throw 2 of 2,,44-39,44,39
 0021700987,2018-03-10,CHA,PHX,19.6,2,4,24,PHX,PHX,reb,0,False,False,,Chriss REBOUND (Off:1 Def:3),44-39,44,39
@@ -187,8 +187,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700987,2018-03-10,CHA,PHX,20.48,2,3,31,PHX,PHX,tov,1,False,True,,Payton Bad Pass Turnover (P2.T9),46-39,46,39
 0021700987,2018-03-10,CHA,PHX,20.48,2,3,31,PHX,CHA,steal,1,False,True,steal,steal,46-39,46,39
 0021700987,2018-03-10,CHA,PHX,20.57,2,3,26,CHA,CHA,fg_miss,6,True,False,MISS Kidd-Gilchrist 2' Driving Layup,,46-39,46,39
-0021700987,2018-03-10,CHA,PHX,20.57,2,3,26,CHA,CHA,reb,0,False,False,HORNETS Rebound,,46-39,46,39
 0021700987,2018-03-10,CHA,PHX,20.57,2,3,26,CHA,PHX,block,6,True,False,block,block,46-39,46,39
+0021700987,2018-03-10,CHA,PHX,20.57,2,3,26,CHA,CHA,reb,0,False,False,HORNETS Rebound,,46-39,46,39
 0021700987,2018-03-10,CHA,PHX,20.62,2,3,23,CHA,CHA,fg3_make,1,False,False,Williams 25' 3PT Jump Shot (9 PTS) (Batum 4 AST),,49-39,49,39
 0021700987,2018-03-10,CHA,PHX,20.77,2,3,14,PHX,CHA,foul,2,False,False,Walker S.FOUL (P1.T2) (S.Foster),,49-39,49,39
 0021700987,2018-03-10,CHA,PHX,20.77,2,3,14,PHX,PHX,ft_make,11,False,False,,Chandler Free Throw 1 of 2 (7 PTS),49-40,49,40
@@ -293,8 +293,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700987,2018-03-10,CHA,PHX,32.95,3,3,3,CHA,CHA,ft_make,11,False,False,Howard Free Throw 1 of 2 (21 PTS),,88-70,88,70
 0021700987,2018-03-10,CHA,PHX,32.95,3,3,3,CHA,CHA,ft_make,12,False,False,Howard Free Throw 2 of 2 (22 PTS),,89-70,89,70
 0021700987,2018-03-10,CHA,PHX,33.27,3,2,44,PHX,PHX,fg_miss,6,True,False,,MISS Chriss 5' Driving Layup,89-70,89,70
-0021700987,2018-03-10,CHA,PHX,33.27,3,2,44,PHX,PHX,reb,0,False,False,,Suns Rebound,89-70,89,70
 0021700987,2018-03-10,CHA,PHX,33.27,3,2,44,PHX,CHA,block,6,True,False,block,block,89-70,89,70
+0021700987,2018-03-10,CHA,PHX,33.27,3,2,44,PHX,PHX,reb,0,False,False,,Suns Rebound,89-70,89,70
 0021700987,2018-03-10,CHA,PHX,33.33,3,2,40,PHX,PHX,fg_miss,79,False,False,,MISS Reed 21' Pullup Jump Shot,89-70,89,70
 0021700987,2018-03-10,CHA,PHX,33.38,3,2,37,CHA,CHA,reb,0,False,False,HORNETS Rebound,,89-70,89,70
 0021700987,2018-03-10,CHA,PHX,33.68,3,2,19,CHA,CHA,fg_miss,1,False,False,MISS Howard 22' Jump Shot,,89-70,89,70

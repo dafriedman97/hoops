@@ -67,8 +67,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700492,2017-12-23,SAC,SAS,10.85,1,1,9,SAC,SAC,fg_miss,6,False,False,MISS Mason 3' Driving Layup,,31-33,31,33
 0021700492,2017-12-23,SAC,SAS,10.88,1,1,7,SAC,SAC,reb,0,False,False,Koufos REBOUND (Off:1 Def:0),,31-33,31,33
 0021700492,2017-12-23,SAC,SAS,10.9,1,1,6,SAC,SAC,fg_miss,5,True,False,MISS Koufos 1' Layup,,31-33,31,33
-0021700492,2017-12-23,SAC,SAS,10.9,1,1,6,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:0 Def:1),31-33,31,33
 0021700492,2017-12-23,SAC,SAS,10.9,1,1,6,SAC,SAS,block,5,True,False,block,block,31-33,31,33
+0021700492,2017-12-23,SAC,SAS,10.9,1,1,6,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:0 Def:1),31-33,31,33
 0021700492,2017-12-23,SAC,SAS,11.05,1,0,57,SAS,SAS,fg_miss,6,False,False,,MISS Murray 6' Driving Layup,31-33,31,33
 0021700492,2017-12-23,SAC,SAS,11.08,1,0,55,SAC,SAC,reb,0,False,False,Koufos REBOUND (Off:1 Def:1),,31-33,31,33
 0021700492,2017-12-23,SAC,SAS,11.22,1,0,47,SAC,SAC,fg_make,79,False,False,Bogdanovic 22' Pullup Jump Shot (4 PTS),,33-33,33,33
@@ -170,18 +170,18 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700492,2017-12-23,SAC,SAS,23.47,2,0,32,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:1 Def:3),49-59,49,59
 0021700492,2017-12-23,SAC,SAS,23.53,2,0,28,SAS,SAS,fg_make,79,False,False,,Murray 10' Pullup Jump Shot (6 PTS),49-61,49,61
 0021700492,2017-12-23,SAC,SAS,23.82,2,0,11,SAC,SAC,tov,2,False,True,G. Hill Lost Ball Turnover (P1.T5),,49-61,49,61
-0021700492,2017-12-23,SAC,SAS,23.82,2,0,11,SAS,SAC,foul,1,False,False,Randolph P.FOUL (P2.PN) (E.Malloy),,49-61,49,61
 0021700492,2017-12-23,SAC,SAS,23.82,2,0,11,SAC,SAS,steal,2,False,True,steal,steal,49-61,49,61
+0021700492,2017-12-23,SAC,SAS,23.82,2,0,11,SAS,SAC,foul,1,False,False,Randolph P.FOUL (P2.PN) (E.Malloy),,49-61,49,61
 0021700492,2017-12-23,SAC,SAS,23.82,2,0,11,SAS,SAS,ft_make,11,False,False,,Gasol Free Throw 1 of 2 (11 PTS),49-62,49,62
 0021700492,2017-12-23,SAC,SAS,23.82,2,0,11,SAS,SAS,ft_miss,12,False,False,,MISS Gasol Free Throw 2 of 2,49-62,49,62
 0021700492,2017-12-23,SAC,SAS,23.92,2,0,5,SAC,SAC,reb,0,False,False,Cauley-Stein REBOUND (Off:0 Def:2),,49-62,49,62
 0021700492,2017-12-23,SAC,SAS,23.95,2,0,3,SAC,SAC,fg_miss,79,False,False,MISS G. Hill 19' Pullup Jump Shot,,49-62,49,62
 0021700492,2017-12-23,SAC,SAS,24.0,2,0,0,SAS,SAS,reb,0,False,False,,Ginobili REBOUND (Off:0 Def:2),49-62,49,62
 0021700492,2017-12-23,SAC,SAS,24.0,2,0,0,SAS,SAS,fg3_miss,1,True,False,,MISS Ginobili 59' 3PT Jump Shot,49-62,49,62
+0021700492,2017-12-23,SAC,SAS,24.0,2,0,0,SAS,SAC,block,1,True,False,block,block,49-62,49,62
 0021700492,2017-12-23,SAC,SAS,24.0,2,0,0,SAS,SAS,reb,0,False,False,,Spurs Rebound,49-62,49,62
 0021700492,2017-12-23,SAC,SAS,24.0,2,0,0,SAS,,period_end,0,False,False,,,49-62,49,62
 0021700492,2017-12-23,SAC,SAS,24.0,3,12,0,SAS,,period_start,0,False,False,,,49-62,49,62
-0021700492,2017-12-23,SAC,SAS,24.0,2,0,0,SAS,SAC,block,1,True,False,block,block,49-62,49,62
 0021700492,2017-12-23,SAC,SAS,24.33,3,11,40,SAC,SAC,fg_miss,6,False,False,MISS Temple 4' Driving Layup,,49-62,49,62
 0021700492,2017-12-23,SAC,SAS,24.37,3,11,38,SAS,SAS,reb,0,False,False,,Gasol REBOUND (Off:0 Def:5),49-62,49,62
 0021700492,2017-12-23,SAC,SAS,24.57,3,11,26,SAS,SAC,foul,1,False,False,Randolph P.FOUL (P3.T1) (E.Malloy),,49-62,49,62

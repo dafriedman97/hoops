@@ -117,7 +117,7 @@ def get_game_pbp(game_id, date, home, vis):
     overtime_time = 5*(pbp['period']-5) + (4-pbp['mins']) + (60-pbp['secs'])/60
     pbp['time'] = regulation_time*(pbp['period'] <= 4) + (pbp['period'] > 4)*(48+overtime_time)
     pbp['time'] = pbp['time'].round(2)
-    pbp = pbp.sort_values(['time', f'{home}_score', f'{vis}_score']).reset_index(drop=True)
+    pbp = pbp.sort_values(['time', 'eventnum']).reset_index(drop=True) 
 
     ## Final Touches
     pbp['home'] = home
@@ -132,6 +132,10 @@ def get_game_pbp(game_id, date, home, vis):
 
 if __name__ == "__main__":
     season = sys.argv[1]
+    if len(sys.argv) == 3 and sys.argv[2] == "overwrite":
+        overwrite=True
+    else:
+        overwrite=False
     os.makedirs(data_dir / season, exist_ok=True)
     completed_games = os.listdir(data_dir / season)
     games = leaguegamefinder.LeagueGameFinder(season_nullable=season, season_type_nullable="Regular Season", league_id_nullable='00')
@@ -141,7 +145,7 @@ if __name__ == "__main__":
     games = games[['GAME_ID', 'GAME_DATE', 'home', 'vis']].rename(columns={'GAME_ID':'game_id', 'GAME_DATE':'date'}).sort_values("game_id").reset_index(drop=True)
     for _, game in games.iterrows():
         filename = game['game_id'] + ".csv"
-        if filename in completed_games:
+        if filename in completed_games and not overwrite:
             continue
         try:
             pbp = get_game_pbp(game['game_id'], game['date'], game['home'], game['vis'])

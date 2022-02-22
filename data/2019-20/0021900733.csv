@@ -53,8 +53,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900733,2020-02-01,DAL,ATL,5.83,1,6,10,DAL,DAL,reb,0,False,False,Brunson REBOUND (Off:0 Def:1),,15-17,15,17
 0021900733,2020-02-01,DAL,ATL,5.88,1,6,7,DAL,DAL,fg_make,41,False,False,Finney-Smith 1' Running Layup (8 PTS) (Brunson 3 AST),,17-17,17,17
 0021900733,2020-02-01,DAL,ATL,6.17,1,5,50,ATL,ATL,fg_miss,6,True,False,,MISS Collins 5' Driving Layup,17-17,17,17
-0021900733,2020-02-01,DAL,ATL,6.17,1,5,50,ATL,ATL,reb,0,False,False,,Hawks Rebound,17-17,17,17
 0021900733,2020-02-01,DAL,ATL,6.17,1,5,50,ATL,DAL,block,6,True,False,block,block,17-17,17,17
+0021900733,2020-02-01,DAL,ATL,6.17,1,5,50,ATL,ATL,reb,0,False,False,,Hawks Rebound,17-17,17,17
 0021900733,2020-02-01,DAL,ATL,6.3,1,5,42,ATL,ATL,fg3_miss,1,False,False,,MISS Reddish 25' 3PT Jump Shot,17-17,17,17
 0021900733,2020-02-01,DAL,ATL,6.35,1,5,39,DAL,DAL,reb,0,False,False,Cauley-Stein REBOUND (Off:1 Def:2),,17-17,17,17
 0021900733,2020-02-01,DAL,ATL,6.45,1,5,33,DAL,DAL,fg_make,79,False,False,Brunson 15' Pullup Jump Shot (6 PTS),,19-17,19,17
@@ -175,8 +175,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900733,2020-02-01,DAL,ATL,19.4,2,4,36,ATL,ATL,timeout,1,False,False,,Hawks Timeout: Regular (Reg.3 Short 0),55-39,55,39
 0021900733,2020-02-01,DAL,ATL,19.72,2,4,17,ATL,ATL,fg_make,71,False,False,,Collins 3' Finger Roll Layup (9 PTS) (Huerter 2 AST),55-41,55,41
 0021900733,2020-02-01,DAL,ATL,20.08,2,3,55,DAL,DAL,fg3_miss,1,False,False,MISS Jackson 27' 3PT Jump Shot,,55-41,55,41
-0021900733,2020-02-01,DAL,ATL,20.18,2,3,49,DAL,DAL,fg_miss,97,False,False,MISS Cauley-Stein 5' Tip Layup Shot,,55-41,55,41
 0021900733,2020-02-01,DAL,ATL,20.18,2,3,49,DAL,DAL,reb,0,False,False,Cauley-Stein REBOUND (Off:2 Def:3),,55-41,55,41
+0021900733,2020-02-01,DAL,ATL,20.18,2,3,49,DAL,DAL,fg_miss,97,False,False,MISS Cauley-Stein 5' Tip Layup Shot,,55-41,55,41
 0021900733,2020-02-01,DAL,ATL,20.2,2,3,48,ATL,ATL,reb,0,False,False,,Collins REBOUND (Off:1 Def:4),55-41,55,41
 0021900733,2020-02-01,DAL,ATL,20.3,2,3,42,ATL,ATL,fg3_miss,1,False,False,,MISS Carter 27' 3PT Jump Shot,55-41,55,41
 0021900733,2020-02-01,DAL,ATL,20.37,2,3,38,DAL,DAL,reb,0,False,False,Wright REBOUND (Off:0 Def:2),,55-41,55,41
@@ -189,8 +189,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900733,2020-02-01,DAL,ATL,21.32,2,2,41,ATL,ATL,fg3_miss,1,False,False,,MISS Teague 24' 3PT Jump Shot,57-41,57,41
 0021900733,2020-02-01,DAL,ATL,21.35,2,2,39,DAL,DAL,reb,0,False,False,Jackson REBOUND (Off:1 Def:5),,57-41,57,41
 0021900733,2020-02-01,DAL,ATL,21.63,2,2,22,DAL,DAL,fg_miss,86,False,False,MISS Brunson 8' Turnaround Fadeaway Shot,,57-41,57,41
-0021900733,2020-02-01,DAL,ATL,21.73,2,2,16,DAL,DAL,fg_miss,97,False,False,MISS Cauley-Stein 1' Tip Layup Shot,,57-41,57,41
 0021900733,2020-02-01,DAL,ATL,21.73,2,2,16,DAL,DAL,reb,0,False,False,Cauley-Stein REBOUND (Off:3 Def:4),,57-41,57,41
+0021900733,2020-02-01,DAL,ATL,21.73,2,2,16,DAL,DAL,fg_miss,97,False,False,MISS Cauley-Stein 1' Tip Layup Shot,,57-41,57,41
 0021900733,2020-02-01,DAL,ATL,21.75,2,2,15,ATL,ATL,reb,0,False,False,,Teague REBOUND (Off:0 Def:1),57-41,57,41
 0021900733,2020-02-01,DAL,ATL,21.82,2,2,11,ATL,ATL,fg_make,76,False,False,,Teague 2' Running Finger Roll Layup (4 PTS),57-43,57,43
 0021900733,2020-02-01,DAL,ATL,22.25,2,1,45,DAL,DAL,tov,1,False,True,Cauley-Stein Bad Pass Turnover (P1.T3),,57-43,57,43
@@ -226,8 +226,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900733,2020-02-01,DAL,ATL,25.1,3,10,54,DAL,DAL,tov,2,False,True,Hardaway Jr. Lost Ball Turnover (P2.T4),,65-49,65,49
 0021900733,2020-02-01,DAL,ATL,25.1,3,10,54,DAL,ATL,steal,2,False,True,steal,steal,65-49,65,49
 0021900733,2020-02-01,DAL,ATL,25.37,3,10,38,ATL,ATL,fg_miss,101,False,False,,MISS Teague 13' Driving Floating Jump Shot,65-49,65,49
-0021900733,2020-02-01,DAL,ATL,25.45,3,10,33,ATL,ATL,fg_make,97,False,False,,Collins 1' Tip Layup Shot (15 PTS),65-51,65,51
 0021900733,2020-02-01,DAL,ATL,25.45,3,10,33,ATL,ATL,reb,0,False,False,,Collins REBOUND (Off:2 Def:4),65-51,65,51
+0021900733,2020-02-01,DAL,ATL,25.45,3,10,33,ATL,ATL,fg_make,97,False,False,,Collins 1' Tip Layup Shot (15 PTS),65-51,65,51
 0021900733,2020-02-01,DAL,ATL,25.63,3,10,22,DAL,DAL,fg3_make,1,False,False,Kleber 26' 3PT Jump Shot (13 PTS) (Brunson 4 AST),,68-51,68,51
 0021900733,2020-02-01,DAL,ATL,25.87,3,10,8,ATL,ATL,fg3_make,1,False,False,,Young 29' 3PT Jump Shot (10 PTS),68-54,68,54
 0021900733,2020-02-01,DAL,ATL,26.13,3,9,52,DAL,DAL,fg_miss,80,False,False,MISS Brunson 17' Step Back Jump Shot,,68-54,68,54
@@ -390,8 +390,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900733,2020-02-01,DAL,ATL,44.3,4,3,42,ATL,ATL,reb,0,False,False,,Graham REBOUND (Off:1 Def:3),112-96,112,96
 0021900733,2020-02-01,DAL,ATL,44.3,4,3,42,ATL,ATL,timeout,1,False,False,,Hawks Timeout: Regular (Reg.6 Short 0),112-96,112,96
 0021900733,2020-02-01,DAL,ATL,44.43,4,3,34,ATL,ATL,tov,1,False,True,,Huerter Bad Pass Turnover (P2.T11),112-96,112,96
-0021900733,2020-02-01,DAL,ATL,44.43,4,3,34,DAL,ATL,foul,1,False,False,,Goodwin P.FOUL (P1.PN) (J.Goble),112-96,112,96
 0021900733,2020-02-01,DAL,ATL,44.43,4,3,34,ATL,DAL,steal,1,False,True,steal,steal,112-96,112,96
+0021900733,2020-02-01,DAL,ATL,44.43,4,3,34,DAL,ATL,foul,1,False,False,,Goodwin P.FOUL (P1.PN) (J.Goble),112-96,112,96
 0021900733,2020-02-01,DAL,ATL,44.43,4,3,34,DAL,DAL,ft_make,11,False,False,Wright Free Throw 1 of 2 (6 PTS),,113-96,113,96
 0021900733,2020-02-01,DAL,ATL,44.43,4,3,34,DAL,DAL,ft_make,12,False,False,Wright Free Throw 2 of 2 (7 PTS),,114-96,114,96
 0021900733,2020-02-01,DAL,ATL,44.55,4,3,27,ATL,ATL,fg3_miss,1,False,False,,MISS Huerter 27' 3PT Jump Shot,114-96,114,96

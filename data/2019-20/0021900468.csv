@@ -78,9 +78,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900468,2019-12-27,ORL,PHI,9.07,1,2,56,PHI,PHI,reb,0,False,False,,Korkmaz REBOUND (Off:0 Def:1),17-15,17,15
 0021900468,2019-12-27,ORL,PHI,9.22,1,2,47,PHI,PHI,tov,4,False,False,,Richardson Traveling Turnover (P1.T4),17-15,17,15
 0021900468,2019-12-27,ORL,PHI,9.43,1,2,34,ORL,ORL,fg_miss,3,True,False,MISS Isaac 9' Hook Shot,,17-15,17,15
+0021900468,2019-12-27,ORL,PHI,9.43,1,2,34,ORL,PHI,block,3,True,False,block,block,17-15,17,15
 0021900468,2019-12-27,ORL,PHI,9.43,1,2,34,ORL,ORL,reb,0,False,False,MAGIC Rebound,,17-15,17,15
 0021900468,2019-12-27,ORL,PHI,9.43,1,2,34,ORL,ORL,tov,9,False,False,MAGIC Turnover: 5 Second Violation (T#2),,17-15,17,15
-0021900468,2019-12-27,ORL,PHI,9.43,1,2,34,ORL,PHI,block,3,True,False,block,block,17-15,17,15
 0021900468,2019-12-27,ORL,PHI,9.63,1,2,22,PHI,PHI,tov,1,False,False,,Scott Bad Pass Turnover (P1.T5),17-15,17,15
 0021900468,2019-12-27,ORL,PHI,9.63,1,2,22,ORL,PHI,foul,3,False,False,,Embiid L.B.FOUL (P1.T3) (J.Sterling),17-15,17,15
 0021900468,2019-12-27,ORL,PHI,9.95,1,2,3,ORL,ORL,fg_miss,79,False,False,MISS Iwundu 16' Pullup Jump Shot,,17-15,17,15
@@ -184,8 +184,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900468,2019-12-27,ORL,PHI,19.95,2,4,3,ORL,ORL,reb,0,False,False,MAGIC Rebound,,36-39,36,39
 0021900468,2019-12-27,ORL,PHI,20.1,2,3,54,ORL,ORL,fg3_make,1,False,False,Fultz 25' 3PT Jump Shot (10 PTS),,39-39,39,39
 0021900468,2019-12-27,ORL,PHI,20.35,2,3,39,PHI,PHI,fg_miss,6,True,False,,MISS Harris 9' Driving Layup,39-39,39,39
-0021900468,2019-12-27,ORL,PHI,20.35,2,3,39,PHI,PHI,reb,0,False,False,,76ers Rebound,39-39,39,39
 0021900468,2019-12-27,ORL,PHI,20.35,2,3,39,PHI,ORL,block,6,True,False,block,block,39-39,39,39
+0021900468,2019-12-27,ORL,PHI,20.35,2,3,39,PHI,PHI,reb,0,False,False,,76ers Rebound,39-39,39,39
 0021900468,2019-12-27,ORL,PHI,20.38,2,3,37,PHI,PHI,fg_miss,43,False,False,,MISS Korkmaz 2' Alley Oop Layup,39-39,39,39
 0021900468,2019-12-27,ORL,PHI,20.43,2,3,34,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:1 Def:5),,39-39,39,39
 0021900468,2019-12-27,ORL,PHI,20.62,2,3,23,ORL,ORL,fg_miss,79,False,False,MISS Isaac 17' Pullup Jump Shot,,39-39,39,39
@@ -256,9 +256,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900468,2019-12-27,ORL,PHI,27.52,3,8,29,ORL,ORL,fg_miss,1,False,False,MISS Fultz 20' Jump Shot,,50-57,50,57
 0021900468,2019-12-27,ORL,PHI,27.55,3,8,27,PHI,PHI,reb,0,False,False,,Harris REBOUND (Off:2 Def:5),50-57,50,57
 0021900468,2019-12-27,ORL,PHI,27.93,3,8,4,PHI,PHI,fg_miss,86,True,False,,MISS Simmons 14' Turnaround Fadeaway Shot,50-57,50,57
+0021900468,2019-12-27,ORL,PHI,27.93,3,8,4,PHI,ORL,block,86,True,False,block,block,50-57,50,57
 0021900468,2019-12-27,ORL,PHI,27.93,3,8,4,PHI,PHI,reb,0,False,False,,76ers Rebound,50-57,50,57
 0021900468,2019-12-27,ORL,PHI,27.93,3,8,4,PHI,PHI,tov,11,False,False,,76ers Turnover: Shot Clock (T#10),50-57,50,57
-0021900468,2019-12-27,ORL,PHI,27.93,3,8,4,PHI,ORL,block,86,True,False,block,block,50-57,50,57
 0021900468,2019-12-27,ORL,PHI,28.05,3,7,57,ORL,ORL,fg_make,7,False,False,Vucevic 1' Dunk (9 PTS) (Fultz 2 AST),,52-57,52,57
 0021900468,2019-12-27,ORL,PHI,28.3,3,7,42,PHI,PHI,fg_make,57,False,False,,Simmons 7' Driving Hook Shot (11 PTS),52-59,52,59
 0021900468,2019-12-27,ORL,PHI,28.55,3,7,27,ORL,ORL,fg_make,7,False,False,Gordon 1' Dunk (11 PTS) (Vucevic 5 AST),,54-59,54,59
@@ -358,9 +358,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900468,2019-12-27,ORL,PHI,41.0,4,7,0,ORL,ORL,fg3_miss,79,False,False,MISS Augustin 25' 3PT Pullup Jump Shot,,79-76,79,76
 0021900468,2019-12-27,ORL,PHI,41.05,4,6,57,ORL,ORL,reb,0,False,False,Augustin REBOUND (Off:1 Def:0),,79-76,79,76
 0021900468,2019-12-27,ORL,PHI,41.18,4,6,49,ORL,ORL,fg_miss,6,True,False,MISS Ross 10' Driving Layup,,79-76,79,76
+0021900468,2019-12-27,ORL,PHI,41.18,4,6,49,ORL,PHI,block,6,True,False,block,block,79-76,79,76
 0021900468,2019-12-27,ORL,PHI,41.18,4,6,49,ORL,ORL,reb,0,False,False,MAGIC Rebound,,79-76,79,76
 0021900468,2019-12-27,ORL,PHI,41.18,4,6,49,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 4 Short 0),,79-76,79,76
-0021900468,2019-12-27,ORL,PHI,41.18,4,6,49,ORL,PHI,block,6,True,False,block,block,79-76,79,76
 0021900468,2019-12-27,ORL,PHI,41.22,4,6,47,ORL,ORL,fg_make,102,False,False,Vucevic 9' Driving Floating Bank Jump Shot (13 PTS) (Fultz 5 AST),,81-76,81,76
 0021900468,2019-12-27,ORL,PHI,41.52,4,6,29,PHI,ORL,foul,2,False,False,Fournier S.FOUL (P2.T3) (B.Taylor),,81-76,81,76
 0021900468,2019-12-27,ORL,PHI,41.52,4,6,29,PHI,PHI,ft_make,11,False,False,,Harris Free Throw 1 of 2 (18 PTS),81-77,81,77
@@ -395,11 +395,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900468,2019-12-27,ORL,PHI,45.6,4,2,24,PHI,PHI,fg3_miss,1,False,False,,MISS Embiid 24' 3PT Jump Shot,91-80,91,80
 0021900468,2019-12-27,ORL,PHI,45.65,4,2,21,PHI,PHI,reb,0,False,False,,Richardson REBOUND (Off:1 Def:2),91-80,91,80
 0021900468,2019-12-27,ORL,PHI,45.77,4,2,14,PHI,PHI,fg_make,52,False,False,,Simmons 2' Alley Oop Dunk (13 PTS) (Richardson 5 AST),91-82,91,82
-0021900468,2019-12-27,ORL,PHI,46.03,4,1,58,ORL,ORL,tov,1,False,False,Gordon Bad Pass Turnover (P3.T14),,91-82,91,82
 0021900468,2019-12-27,ORL,PHI,46.03,4,1,58,PHI,ORL,foul,3,False,False,Fournier L.B.FOUL (P3.PN) (K.Lane),,91-82,91,82
 0021900468,2019-12-27,ORL,PHI,46.03,4,1,58,PHI,PHI,ft_miss,11,False,False,,MISS Simmons Free Throw 1 of 2,91-82,91,82
 0021900468,2019-12-27,ORL,PHI,46.03,4,1,58,PHI,PHI,reb,1,False,False,,76ers Rebound,91-82,91,82
 0021900468,2019-12-27,ORL,PHI,46.03,4,1,58,PHI,PHI,ft_miss,12,False,False,,MISS Simmons Free Throw 2 of 2,91-82,91,82
+0021900468,2019-12-27,ORL,PHI,46.03,4,1,58,ORL,ORL,tov,1,False,False,Gordon Bad Pass Turnover (P3.T14),,91-82,91,82
 0021900468,2019-12-27,ORL,PHI,46.07,4,1,56,ORL,ORL,reb,0,False,False,Isaac REBOUND (Off:2 Def:4),,91-82,91,82
 0021900468,2019-12-27,ORL,PHI,46.18,4,1,49,ORL,ORL,fg_make,106,False,False,Gordon 2' Running Alley Oop Dunk Shot (17 PTS) (Fournier 6 AST),,93-82,93,82
 0021900468,2019-12-27,ORL,PHI,46.18,4,1,49,PHI,PHI,timeout,1,False,False,,76ers Timeout: Regular (Reg.5 Short 0),93-82,93,82

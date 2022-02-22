@@ -2,8 +2,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900868,2020-02-26,MIA,MIN,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
 0021900868,2020-02-26,MIA,MIN,0.0,1,12,0,,MIA,jump_ball,0,False,False,Jump Ball Adebayo vs. Reid: Tip to Nunn,,0-0,0,0
 0021900868,2020-02-26,MIA,MIN,0.37,1,11,38,MIA,MIA,fg_miss,6,True,False,MISS Nunn 1' Driving Layup,,0-0,0,0
-0021900868,2020-02-26,MIA,MIN,0.37,1,11,38,MIA,MIA,reb,0,False,False,HEAT Rebound,,0-0,0,0
 0021900868,2020-02-26,MIA,MIN,0.37,1,11,38,MIA,MIN,block,6,True,False,block,block,0-0,0,0
+0021900868,2020-02-26,MIA,MIN,0.37,1,11,38,MIA,MIA,reb,0,False,False,HEAT Rebound,,0-0,0,0
 0021900868,2020-02-26,MIA,MIN,0.38,1,11,37,MIA,MIA,tov,39,False,False,Robinson Step Out of Bounds Turnover (P1.T1),,0-0,0,0
 0021900868,2020-02-26,MIA,MIN,0.6,1,11,24,MIN,MIN,fg_miss,79,False,False,,MISS Russell 18' Pullup Jump Shot,0-0,0,0
 0021900868,2020-02-26,MIA,MIN,0.63,1,11,22,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:0 Def:1),,0-0,0,0
@@ -83,8 +83,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900868,2020-02-26,MIA,MIN,8.35,1,3,39,MIA,MIA,reb,0,False,False,Olynyk REBOUND (Off:0 Def:5),,19-17,19,17
 0021900868,2020-02-26,MIA,MIN,8.48,1,3,31,MIA,MIA,tov,45,False,False,Adebayo Out of Bounds - Bad Pass Turnover Turnover (P2.T4),,19-17,19,17
 0021900868,2020-02-26,MIA,MIN,8.67,1,3,20,MIN,MIN,fg_miss,6,True,False,,MISS Culver 1' Driving Layup,19-17,19,17
-0021900868,2020-02-26,MIA,MIN,8.67,1,3,20,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,19-17,19,17
 0021900868,2020-02-26,MIA,MIN,8.67,1,3,20,MIN,MIA,block,6,True,False,block,block,19-17,19,17
+0021900868,2020-02-26,MIA,MIN,8.67,1,3,20,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,19-17,19,17
 0021900868,2020-02-26,MIA,MIN,8.8,1,3,12,MIN,MIN,fg3_make,1,False,False,,Culver 25' 3PT Jump Shot (3 PTS) (Martin 1 AST),19-20,19,20
 0021900868,2020-02-26,MIA,MIN,8.87,1,3,8,MIA,MIN,foul,1,False,False,,Layman P.FOUL (P2.PN) (S.Corbin),19-20,19,20
 0021900868,2020-02-26,MIA,MIN,8.87,1,3,8,MIA,MIA,ft_make,11,False,False,Butler Free Throw 1 of 2 (3 PTS),,20-20,20,20
@@ -154,8 +154,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900868,2020-02-26,MIA,MIN,16.27,2,7,44,MIN,MIN,fg3_miss,1,False,False,,MISS Reid 25' 3PT Jump Shot,32-39,32,39
 0021900868,2020-02-26,MIA,MIN,16.27,2,7,44,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,32-39,32,39
 0021900868,2020-02-26,MIA,MIN,16.38,2,7,37,MIN,MIN,fg_miss,75,True,False,,MISS Culver 3' Driving Finger Roll Layup,32-39,32,39
-0021900868,2020-02-26,MIA,MIN,16.38,2,7,37,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,32-39,32,39
 0021900868,2020-02-26,MIA,MIN,16.38,2,7,37,MIN,MIA,block,75,True,False,block,block,32-39,32,39
+0021900868,2020-02-26,MIA,MIN,16.38,2,7,37,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,32-39,32,39
 0021900868,2020-02-26,MIA,MIN,16.42,2,7,35,MIA,MIN,foul,4,False,False,,Martin OFF.Foul (P2) (S.Corbin),32-39,32,39
 0021900868,2020-02-26,MIA,MIN,16.42,2,7,35,MIN,MIN,tov,37,False,False,,Martin Offensive Foul Turnover (P1.T6),32-39,32,39
 0021900868,2020-02-26,MIA,MIN,16.57,2,7,26,MIA,MIN,foul,2,False,False,,Reid S.FOUL (P2.T4) (M.Ayotte),32-39,32,39
@@ -359,8 +359,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900868,2020-02-26,MIA,MIN,36.63,4,11,22,MIN,MIN,tov,1,False,True,,Johnson Bad Pass Turnover (P2.T12),96-95,96,95
 0021900868,2020-02-26,MIA,MIN,36.63,4,11,22,MIN,MIA,steal,1,False,True,steal,steal,96-95,96,95
 0021900868,2020-02-26,MIA,MIN,36.68,4,11,19,MIA,MIA,fg_miss,5,True,False,MISS Crowder Layup,,96-95,96,95
-0021900868,2020-02-26,MIA,MIN,36.68,4,11,19,MIA,MIA,reb,0,False,False,HEAT Rebound,,96-95,96,95
 0021900868,2020-02-26,MIA,MIN,36.68,4,11,19,MIA,MIN,block,5,True,False,block,block,96-95,96,95
+0021900868,2020-02-26,MIA,MIN,36.68,4,11,19,MIA,MIA,reb,0,False,False,HEAT Rebound,,96-95,96,95
 0021900868,2020-02-26,MIA,MIN,36.75,4,11,15,MIA,MIA,fg3_make,1,False,False,Robinson 24' 3PT Jump Shot (6 PTS) (Jones Jr. 1 AST),,99-95,99,95
 0021900868,2020-02-26,MIA,MIN,37.0,4,11,0,MIN,MIN,fg_make,108,False,False,,Culver 1' Cutting Dunk Shot (7 PTS) (Johnson 4 AST),99-97,99,97
 0021900868,2020-02-26,MIA,MIN,37.27,4,10,44,MIA,MIA,fg_miss,6,False,False,MISS Dragic 1' Driving Layup,,99-97,99,97
@@ -377,8 +377,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900868,2020-02-26,MIA,MIN,37.97,4,10,2,MIN,MIN,reb,0,False,False,,Martin REBOUND (Off:0 Def:1),102-97,102,97
 0021900868,2020-02-26,MIA,MIN,37.98,4,10,1,MIN,MIA,foul,1,False,False,Crowder P.FOUL (P1.T1) (M.Myers),,102-97,102,97
 0021900868,2020-02-26,MIA,MIN,38.13,4,9,52,MIN,MIN,fg_miss,5,True,False,,MISS Johnson 4' Layup,102-97,102,97
-0021900868,2020-02-26,MIA,MIN,38.13,4,9,52,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,102-97,102,97
 0021900868,2020-02-26,MIA,MIN,38.13,4,9,52,MIN,MIA,block,5,True,False,block,block,102-97,102,97
+0021900868,2020-02-26,MIA,MIN,38.13,4,9,52,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,102-97,102,97
 0021900868,2020-02-26,MIA,MIN,38.25,4,9,45,MIN,MIN,fg3_miss,79,True,False,,MISS Johnson 25' 3PT Pullup Jump Shot,102-97,102,97
 0021900868,2020-02-26,MIA,MIN,38.25,4,9,45,MIN,MIA,block,79,True,False,block,block,102-97,102,97
 0021900868,2020-02-26,MIA,MIN,38.28,4,9,43,MIN,MIN,reb,0,False,False,,Culver REBOUND (Off:2 Def:1),102-97,102,97
@@ -486,7 +486,7 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900868,2020-02-26,MIA,MIN,47.98,4,0,1,MIN,MIN,ft_make,11,False,False,,Layman Free Throw 1 of 2 (4 PTS),126-128,126,128
 0021900868,2020-02-26,MIA,MIN,47.98,4,0,1,MIN,MIN,ft_make,12,False,False,,Layman Free Throw 2 of 2 (5 PTS),126-129,126,129
 0021900868,2020-02-26,MIA,MIN,48.0,4,0,0,MIA,MIA,tov,1,False,True,Crowder Bad Pass Turnover (P1.T22),,126-129,126,129
+0021900868,2020-02-26,MIA,MIN,48.0,4,0,0,MIA,MIN,steal,1,False,True,steal,steal,126-129,126,129
 0021900868,2020-02-26,MIA,MIN,48.0,4,0,0,MIN,MIN,fg_miss,63,False,False,,MISS Hernangomez 18' Fadeaway Jumper,126-129,126,129
 0021900868,2020-02-26,MIA,MIN,48.0,4,0,0,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,126-129,126,129
 0021900868,2020-02-26,MIA,MIN,48.0,4,0,0,MIN,,period_end,0,False,False,,,126-129,126,129
-0021900868,2020-02-26,MIA,MIN,48.0,4,0,0,MIA,MIN,steal,1,False,True,steal,steal,126-129,126,129

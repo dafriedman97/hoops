@@ -291,10 +291,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000450,2021-02-19,PHI,CHI,30.55,3,5,27,CHI,CHI,fg3_make,79,False,False,,LaVine 27' 3PT Pullup Jump Shot (20 PTS),68-66,68,66
 0022000450,2021-02-19,PHI,CHI,30.97,3,5,2,PHI,PHI,fg_make,9,False,False,Harris Driving Dunk (11 PTS) (Embiid 2 AST),,70-66,70,66
 0022000450,2021-02-19,PHI,CHI,31.27,3,4,44,CHI,CHI,fg_miss,6,True,False,,MISS LaVine 3' Driving Layup,70-66,70,66
+0022000450,2021-02-19,PHI,CHI,31.27,3,4,44,CHI,PHI,block,6,True,False,block,block,70-66,70,66
 0022000450,2021-02-19,PHI,CHI,31.27,3,4,44,CHI,CHI,reb,0,False,False,,Bulls Rebound,70-66,70,66
 0022000450,2021-02-19,PHI,CHI,31.27,3,4,44,PHI,CHI,foul,4,False,False,,Williams OFF.Foul (P2) (J.DeRosa),70-66,70,66
 0022000450,2021-02-19,PHI,CHI,31.27,3,4,44,CHI,CHI,tov,37,False,False,,Williams Offensive Foul Turnover (P3.T7),70-66,70,66
-0022000450,2021-02-19,PHI,CHI,31.27,3,4,44,CHI,PHI,block,6,True,False,block,block,70-66,70,66
 0022000450,2021-02-19,PHI,CHI,31.42,3,4,35,PHI,CHI,foul,2,False,False,,Temple S.FOUL (P2.T3) (J.DeRosa),70-66,70,66
 0022000450,2021-02-19,PHI,CHI,31.42,3,4,35,PHI,PHI,ft_make,11,False,False,Harris Free Throw 1 of 2 (12 PTS),,71-66,71,66
 0022000450,2021-02-19,PHI,CHI,31.42,3,4,35,PHI,PHI,ft_make,12,False,False,Harris Free Throw 2 of 2 (13 PTS),,72-66,72,66
@@ -405,8 +405,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000450,2021-02-19,PHI,CHI,44.37,4,3,38,CHI,CHI,fg3_miss,79,False,False,,MISS LaVine 26' 3PT Pullup Jump Shot,101-96,101,96
 0022000450,2021-02-19,PHI,CHI,44.38,4,3,37,CHI,CHI,reb,0,False,False,,LaVine REBOUND (Off:1 Def:3),101-96,101,96
 0022000450,2021-02-19,PHI,CHI,44.45,4,3,33,CHI,CHI,fg_miss,5,True,False,,MISS LaVine 2' Layup,101-96,101,96
-0022000450,2021-02-19,PHI,CHI,44.45,4,3,33,CHI,CHI,reb,0,False,False,,Bulls Rebound,101-96,101,96
 0022000450,2021-02-19,PHI,CHI,44.45,4,3,33,CHI,PHI,block,5,True,False,block,block,101-96,101,96
+0022000450,2021-02-19,PHI,CHI,44.45,4,3,33,CHI,CHI,reb,0,False,False,,Bulls Rebound,101-96,101,96
 0022000450,2021-02-19,PHI,CHI,44.6,4,3,24,CHI,CHI,fg_make,6,False,False,,LaVine 3' Driving Layup (27 PTS),101-98,101,98
 0022000450,2021-02-19,PHI,CHI,44.62,4,3,23,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 4 Short 0),,101-98,101,98
 0022000450,2021-02-19,PHI,CHI,44.92,4,3,5,PHI,CHI,foul,1,False,False,,Young P.FOUL (P1.PN) (J.DeRosa),101-98,101,98

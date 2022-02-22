@@ -87,15 +87,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800118,2018-11-02,BKN,HOU,11.58,1,0,25,BKN,BKN,reb,0,False,False,Davis REBOUND (Off:2 Def:1),,30-25,30,25
 0021800118,2018-11-02,BKN,HOU,11.58,1,0,25,BKN,BKN,fg_make,87,False,False,Davis 1' Putback Dunk (4 PTS),,32-25,32,25
 0021800118,2018-11-02,BKN,HOU,11.83,1,0,10,HOU,HOU,fg_miss,6,True,False,,MISS Carter-Williams 5' Driving Layup,32-25,32,25
-0021800118,2018-11-02,BKN,HOU,11.83,1,0,10,HOU,HOU,reb,0,False,False,,Rockets Rebound,32-25,32,25
 0021800118,2018-11-02,BKN,HOU,11.83,1,0,10,HOU,BKN,block,6,True,False,block,block,32-25,32,25
+0021800118,2018-11-02,BKN,HOU,11.83,1,0,10,HOU,HOU,reb,0,False,False,,Rockets Rebound,32-25,32,25
 0021800118,2018-11-02,BKN,HOU,11.9,1,0,6,HOU,HOU,fg_miss,63,False,False,,MISS Paul 14' Fadeaway Jumper,32-25,32,25
 0021800118,2018-11-02,BKN,HOU,11.95,1,0,3,BKN,BKN,reb,0,False,False,Crabbe REBOUND (Off:0 Def:2),,32-25,32,25
 0021800118,2018-11-02,BKN,HOU,12.0,1,0,0,BKN,,period_end,0,False,False,,,32-25,32,25
 0021800118,2018-11-02,BKN,HOU,12.0,2,12,0,BKN,,period_start,0,False,False,,,32-25,32,25
 0021800118,2018-11-02,BKN,HOU,12.4,2,11,36,BKN,BKN,fg_miss,6,True,False,MISS Napier 6' Driving Layup,,32-25,32,25
-0021800118,2018-11-02,BKN,HOU,12.4,2,11,36,BKN,BKN,reb,0,False,False,NETS Rebound,,32-25,32,25
 0021800118,2018-11-02,BKN,HOU,12.4,2,11,36,BKN,HOU,block,6,True,False,block,block,32-25,32,25
+0021800118,2018-11-02,BKN,HOU,12.4,2,11,36,BKN,BKN,reb,0,False,False,NETS Rebound,,32-25,32,25
 0021800118,2018-11-02,BKN,HOU,12.42,2,11,35,BKN,BKN,tov,11,False,False,NETS Turnover: Shot Clock (T#5),,32-25,32,25
 0021800118,2018-11-02,BKN,HOU,12.65,2,11,21,HOU,HOU,fg_miss,6,False,False,,MISS Hartenstein 2' Driving Layup,32-25,32,25
 0021800118,2018-11-02,BKN,HOU,12.65,2,11,21,HOU,HOU,reb,0,False,False,,Paul REBOUND (Off:1 Def:0),32-25,32,25
@@ -106,8 +106,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800118,2018-11-02,BKN,HOU,13.9,2,10,6,BKN,BKN,fg_miss,6,False,False,MISS Dinwiddie 3' Driving Layup,,35-27,35,27
 0021800118,2018-11-02,BKN,HOU,13.95,2,10,3,HOU,HOU,reb,0,False,False,,Paul REBOUND (Off:1 Def:1),35-27,35,27
 0021800118,2018-11-02,BKN,HOU,13.97,2,10,2,HOU,HOU,tov,2,False,True,,Paul Lost Ball Turnover (P1.T2),35-27,35,27
-0021800118,2018-11-02,BKN,HOU,13.97,2,10,2,BKN,HOU,foul,1,False,False,,Paul P.FOUL (P2.T1) (B.Adair),35-27,35,27
 0021800118,2018-11-02,BKN,HOU,13.97,2,10,2,HOU,BKN,steal,2,False,True,steal,steal,35-27,35,27
+0021800118,2018-11-02,BKN,HOU,13.97,2,10,2,BKN,HOU,foul,1,False,False,,Paul P.FOUL (P2.T1) (B.Adair),35-27,35,27
 0021800118,2018-11-02,BKN,HOU,14.18,2,9,49,BKN,BKN,fg3_miss,1,False,False,MISS Crabbe 3PT Jump Shot,,35-27,35,27
 0021800118,2018-11-02,BKN,HOU,14.23,2,9,46,BKN,BKN,reb,0,False,False,Davis REBOUND (Off:3 Def:1),,35-27,35,27
 0021800118,2018-11-02,BKN,HOU,14.28,2,9,43,BKN,HOU,foul,2,False,False,,Tucker S.FOUL (P1.T2) (T.Maddox),35-27,35,27
@@ -140,8 +140,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800118,2018-11-02,BKN,HOU,17.98,2,6,1,HOU,HOU,reb,0,False,False,,Capela REBOUND (Off:2 Def:3),45-37,45,37
 0021800118,2018-11-02,BKN,HOU,18.0,2,6,0,HOU,HOU,fg_miss,72,True,False,,MISS Capela 3' Putback Layup,45-37,45,37
 0021800118,2018-11-02,BKN,HOU,18.0,2,6,0,HOU,BKN,block,72,True,False,block,block,45-37,45,37
-0021800118,2018-11-02,BKN,HOU,18.02,2,5,59,HOU,HOU,reb,0,False,False,,Rockets Rebound,45-37,45,37
 0021800118,2018-11-02,BKN,HOU,18.02,2,5,59,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 2 Short 0),,45-37,45,37
+0021800118,2018-11-02,BKN,HOU,18.02,2,5,59,HOU,HOU,reb,0,False,False,,Rockets Rebound,45-37,45,37
 0021800118,2018-11-02,BKN,HOU,18.15,2,5,51,HOU,HOU,fg3_miss,79,False,False,,MISS Gordon 3PT Pullup Jump Shot,45-37,45,37
 0021800118,2018-11-02,BKN,HOU,18.2,2,5,48,BKN,BKN,reb,0,False,False,Dudley REBOUND (Off:0 Def:1),,45-37,45,37
 0021800118,2018-11-02,BKN,HOU,18.37,2,5,38,BKN,HOU,foul,2,False,False,,Carter-Williams S.FOUL (P1.T3) (B.Adair),45-37,45,37
@@ -239,8 +239,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800118,2018-11-02,BKN,HOU,28.98,3,7,1,HOU,BKN,foul,2,False,False,Allen S.FOUL (P2.T3) (B.Adair),,69-73,69,73
 0021800118,2018-11-02,BKN,HOU,28.98,3,7,1,HOU,HOU,ft_make,10,False,False,,Capela Free Throw 1 of 1 (19 PTS),69-74,69,74
 0021800118,2018-11-02,BKN,HOU,29.25,3,6,45,BKN,BKN,fg_miss,6,True,False,MISS Allen 3' Driving Layup,,69-74,69,74
-0021800118,2018-11-02,BKN,HOU,29.25,3,6,45,BKN,BKN,reb,0,False,False,NETS Rebound,,69-74,69,74
 0021800118,2018-11-02,BKN,HOU,29.25,3,6,45,BKN,HOU,block,6,True,False,block,block,69-74,69,74
+0021800118,2018-11-02,BKN,HOU,29.25,3,6,45,BKN,BKN,reb,0,False,False,NETS Rebound,,69-74,69,74
 0021800118,2018-11-02,BKN,HOU,29.35,3,6,39,BKN,BKN,fg3_miss,79,False,False,MISS Russell 27' 3PT Pullup Jump Shot,,69-74,69,74
 0021800118,2018-11-02,BKN,HOU,29.4,3,6,36,HOU,HOU,reb,0,False,False,,Capela REBOUND (Off:2 Def:8),69-74,69,74
 0021800118,2018-11-02,BKN,HOU,29.68,3,6,19,HOU,HOU,fg_make,80,False,False,,Anthony 8' Step Back Jump Shot (20 PTS),69-76,69,76
@@ -328,9 +328,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800118,2018-11-02,BKN,HOU,39.7,4,8,18,HOU,HOU,fg3_miss,80,False,False,,MISS Gordon 3PT Step Back Jump Shot,94-98,94,98
 0021800118,2018-11-02,BKN,HOU,39.77,4,8,14,BKN,BKN,reb,0,False,False,Napier REBOUND (Off:1 Def:1),,94-98,94,98
 0021800118,2018-11-02,BKN,HOU,40.03,4,7,58,BKN,BKN,fg_miss,6,True,False,MISS Napier 8' Driving Layup,,94-98,94,98
+0021800118,2018-11-02,BKN,HOU,40.03,4,7,58,BKN,HOU,block,6,True,False,block,block,94-98,94,98
 0021800118,2018-11-02,BKN,HOU,40.03,4,7,58,BKN,BKN,reb,0,False,False,NETS Rebound,,94-98,94,98
 0021800118,2018-11-02,BKN,HOU,40.03,4,7,58,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 4 Short 0),,94-98,94,98
-0021800118,2018-11-02,BKN,HOU,40.03,4,7,58,BKN,HOU,block,6,True,False,block,block,94-98,94,98
 0021800118,2018-11-02,BKN,HOU,40.1,4,7,54,BKN,BKN,fg_make,98,False,False,Harris 1' Cutting Layup Shot (15 PTS) (Davis 2 AST),,96-98,96,98
 0021800118,2018-11-02,BKN,HOU,40.27,4,7,44,HOU,BKN,foul,1,False,False,Napier P.FOUL (P3.T4) (E.Malloy),,96-98,96,98
 0021800118,2018-11-02,BKN,HOU,40.38,4,7,37,HOU,HOU,fg_miss,3,True,False,,MISS Hartenstein 3' Hook Shot,96-98,96,98
@@ -401,9 +401,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800118,2018-11-02,BKN,HOU,46.48,4,1,31,HOU,HOU,fg_miss,101,False,False,,MISS Paul 6' Driving Floating Jump Shot,104-111,104,111
 0021800118,2018-11-02,BKN,HOU,46.53,4,1,28,BKN,BKN,reb,0,False,False,Hollis-Jefferson REBOUND (Off:1 Def:4),,104-111,104,111
 0021800118,2018-11-02,BKN,HOU,46.68,4,1,19,BKN,BKN,fg_miss,98,True,False,MISS LeVert 2' Cutting Layup Shot,,104-111,104,111
+0021800118,2018-11-02,BKN,HOU,46.68,4,1,19,BKN,HOU,block,98,True,False,block,block,104-111,104,111
 0021800118,2018-11-02,BKN,HOU,46.68,4,1,19,BKN,BKN,reb,0,False,False,NETS Rebound,,104-111,104,111
 0021800118,2018-11-02,BKN,HOU,46.68,4,1,19,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 5 Short 0),,104-111,104,111
-0021800118,2018-11-02,BKN,HOU,46.68,4,1,19,BKN,HOU,block,98,True,False,block,block,104-111,104,111
 0021800118,2018-11-02,BKN,HOU,46.9,4,1,6,BKN,BKN,fg3_miss,79,False,False,MISS Dinwiddie 25' 3PT Pullup Jump Shot,,104-111,104,111
 0021800118,2018-11-02,BKN,HOU,46.9,4,1,6,BKN,BKN,reb,0,False,False,NETS Rebound,,104-111,104,111
 0021800118,2018-11-02,BKN,HOU,46.9,4,1,6,BKN,BKN,tov,11,False,False,NETS Turnover: Shot Clock (T#12),,104-111,104,111

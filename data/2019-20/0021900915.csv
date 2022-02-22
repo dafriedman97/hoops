@@ -58,8 +58,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900915,2020-03-03,LAL,PHI,6.58,1,5,25,LAL,LAL,fg_miss,3,False,False,MISS McGee 4' Hook Shot,,14-16,14,16
 0021900915,2020-03-03,LAL,PHI,6.6,1,5,24,PHI,PHI,reb,0,False,False,,Horford REBOUND (Off:1 Def:2),14-16,14,16
 0021900915,2020-03-03,LAL,PHI,6.8,1,5,12,PHI,PHI,fg_miss,75,False,False,,MISS Korkmaz 2' Driving Finger Roll Layup,14-16,14,16
-0021900915,2020-03-03,LAL,PHI,6.87,1,5,8,PHI,PHI,fg_make,97,False,False,,Horford 1' Tip Layup Shot (2 PTS),14-18,14,18
 0021900915,2020-03-03,LAL,PHI,6.87,1,5,8,PHI,PHI,reb,0,False,False,,Horford REBOUND (Off:2 Def:2),14-18,14,18
+0021900915,2020-03-03,LAL,PHI,6.87,1,5,8,PHI,PHI,fg_make,97,False,False,,Horford 1' Tip Layup Shot (2 PTS),14-18,14,18
 0021900915,2020-03-03,LAL,PHI,7.18,1,4,49,LAL,LAL,fg3_miss,1,False,False,MISS Davis 27' 3PT Jump Shot,,14-18,14,18
 0021900915,2020-03-03,LAL,PHI,7.23,1,4,46,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:1 Def:3),,14-18,14,18
 0021900915,2020-03-03,LAL,PHI,7.25,1,4,45,LAL,LAL,tov,2,False,True,McGee Lost Ball Turnover (P1.T2),,14-18,14,18
@@ -122,8 +122,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900915,2020-03-03,LAL,PHI,12.77,2,11,14,LAL,LAL,fg_miss,63,False,False,MISS James 6' Fadeaway Jumper,,30-35,30,35
 0021900915,2020-03-03,LAL,PHI,12.8,2,11,12,PHI,PHI,reb,0,False,False,,Korkmaz REBOUND (Off:0 Def:1),30-35,30,35
 0021900915,2020-03-03,LAL,PHI,13.05,2,10,57,PHI,PHI,fg_miss,6,True,False,,MISS Neto 4' Driving Layup,30-35,30,35
-0021900915,2020-03-03,LAL,PHI,13.05,2,10,57,LAL,LAL,reb,0,False,False,LAKERS Rebound,,30-35,30,35
 0021900915,2020-03-03,LAL,PHI,13.05,2,10,57,PHI,LAL,block,6,True,False,block,block,30-35,30,35
+0021900915,2020-03-03,LAL,PHI,13.05,2,10,57,LAL,LAL,reb,0,False,False,LAKERS Rebound,,30-35,30,35
 0021900915,2020-03-03,LAL,PHI,13.37,2,10,38,LAL,LAL,fg_miss,79,False,False,MISS Caldwell-Pope 18' Pullup Jump Shot,,30-35,30,35
 0021900915,2020-03-03,LAL,PHI,13.42,2,10,35,PHI,PHI,reb,0,False,False,,Robinson III REBOUND (Off:1 Def:1),30-35,30,35
 0021900915,2020-03-03,LAL,PHI,13.52,2,10,29,PHI,PHI,fg_make,41,False,False,,Neto 1' Running Layup (7 PTS),30-37,30,37
@@ -164,8 +164,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900915,2020-03-03,LAL,PHI,17.02,2,6,59,LAL,PHI,foul,1,False,False,,Milton P.FOUL (P1.T2) (Z.Zarba),35-45,35,45
 0021900915,2020-03-03,LAL,PHI,17.12,2,6,53,LAL,LAL,fg3_make,1,False,False,Green 27' 3PT Jump Shot (5 PTS) (Rondo 2 AST),,38-45,38,45
 0021900915,2020-03-03,LAL,PHI,17.42,2,6,35,PHI,PHI,tov,1,False,True,,Harris Bad Pass Turnover (P1.T3),38-45,38,45
-0021900915,2020-03-03,LAL,PHI,17.42,2,6,35,LAL,PHI,foul,1,False,False,,Harris P.FOUL (P2.T3) (B.Forte),38-45,38,45
 0021900915,2020-03-03,LAL,PHI,17.42,2,6,35,PHI,LAL,steal,1,False,True,steal,steal,38-45,38,45
+0021900915,2020-03-03,LAL,PHI,17.42,2,6,35,LAL,PHI,foul,1,False,False,,Harris P.FOUL (P2.T3) (B.Forte),38-45,38,45
 0021900915,2020-03-03,LAL,PHI,17.7,2,6,18,LAL,PHI,foul,2,False,False,,Milton S.FOUL (P2.T4) (E.Dalen),38-45,38,45
 0021900915,2020-03-03,LAL,PHI,17.7,2,6,18,LAL,LAL,ft_make,11,False,False,Davis Free Throw 1 of 2 (11 PTS),,39-45,39,45
 0021900915,2020-03-03,LAL,PHI,17.7,2,6,18,LAL,LAL,ft_make,12,False,False,Davis Free Throw 2 of 2 (12 PTS),,40-45,40,45
@@ -213,10 +213,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900915,2020-03-03,LAL,PHI,23.85,2,0,9,PHI,LAL,steal,1,False,True,steal,steal,63-54,63,54
 0021900915,2020-03-03,LAL,PHI,23.9,2,0,6,LAL,LAL,fg_make,50,False,False,Davis 1' Running Dunk (26 PTS),,65-54,65,54
 0021900915,2020-03-03,LAL,PHI,24.0,2,0,0,PHI,PHI,fg_miss,63,True,False,,MISS Robinson III 10' Fadeaway Jumper,65-54,65,54
+0021900915,2020-03-03,LAL,PHI,24.0,2,0,0,PHI,LAL,block,63,True,False,block,block,65-54,65,54
 0021900915,2020-03-03,LAL,PHI,24.0,2,0,0,PHI,PHI,reb,0,False,False,,76ers Rebound,65-54,65,54
 0021900915,2020-03-03,LAL,PHI,24.0,2,0,0,PHI,,period_end,0,False,False,,,65-54,65,54
 0021900915,2020-03-03,LAL,PHI,24.0,3,12,0,PHI,,period_start,0,False,False,,,65-54,65,54
-0021900915,2020-03-03,LAL,PHI,24.0,2,0,0,PHI,LAL,block,63,True,False,block,block,65-54,65,54
 0021900915,2020-03-03,LAL,PHI,24.22,3,11,47,LAL,LAL,fg3_make,1,False,False,Davis 3PT Jump Shot (29 PTS) (Green 1 AST),,68-54,68,54
 0021900915,2020-03-03,LAL,PHI,24.58,3,11,25,PHI,PHI,fg3_miss,1,False,False,,MISS Horford 26' 3PT Jump Shot,68-54,68,54
 0021900915,2020-03-03,LAL,PHI,24.63,3,11,22,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:2 Def:6),,68-54,68,54
@@ -244,8 +244,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900915,2020-03-03,LAL,PHI,27.68,3,8,19,LAL,LAL,tov,2,False,True,James Lost Ball Turnover (P1.T5),,77-62,77,62
 0021900915,2020-03-03,LAL,PHI,27.68,3,8,19,LAL,PHI,steal,2,False,True,steal,steal,77-62,77,62
 0021900915,2020-03-03,LAL,PHI,27.77,3,8,14,PHI,PHI,tov,2,False,True,,Milton Lost Ball Turnover (P3.T9),77-62,77,62
-0021900915,2020-03-03,LAL,PHI,27.77,3,8,14,LAL,PHI,foul,1,False,False,,Milton P.FOUL (P4.T1) (B.Forte),77-62,77,62
 0021900915,2020-03-03,LAL,PHI,27.77,3,8,14,PHI,LAL,steal,2,False,True,steal,steal,77-62,77,62
+0021900915,2020-03-03,LAL,PHI,27.77,3,8,14,LAL,PHI,foul,1,False,False,,Milton P.FOUL (P4.T1) (B.Forte),77-62,77,62
 0021900915,2020-03-03,LAL,PHI,28.0,3,8,0,LAL,PHI,foul,2,False,False,,Horford S.FOUL (P2.T2) (B.Forte),77-62,77,62
 0021900915,2020-03-03,LAL,PHI,28.0,3,8,0,LAL,LAL,ft_miss,11,False,False,MISS Davis Free Throw 1 of 2,,77-62,77,62
 0021900915,2020-03-03,LAL,PHI,28.0,3,8,0,LAL,LAL,reb,1,False,False,LAKERS Rebound,,77-62,77,62

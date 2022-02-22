@@ -64,9 +64,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700411,2017-12-13,PHX,TOR,6.83,1,5,10,PHX,PHX,ft_make,11,False,False,Warren Free Throw 1 of 2 (4 PTS),,14-17,14,17
 0021700411,2017-12-13,PHX,TOR,6.83,1,5,10,PHX,PHX,ft_make,12,False,False,Warren Free Throw 2 of 2 (5 PTS),,15-17,15,17
 0021700411,2017-12-13,PHX,TOR,7.03,1,4,58,TOR,TOR,fg_make,79,False,False,,DeRozan 15' Pullup Jump Shot (4 PTS) (Lowry 3 AST),15-19,15,19
-0021700411,2017-12-13,PHX,TOR,7.03,1,4,58,TOR,PHX,violation,2,False,False,Defensive Goaltending,,15-19,15,19
 0021700411,2017-12-13,PHX,TOR,7.03,1,4,58,TOR,PHX,foul,2,False,False,Warren S.FOUL (P1.PN) (B.Adams),,15-19,15,19
 0021700411,2017-12-13,PHX,TOR,7.03,1,4,58,TOR,TOR,ft_make,10,False,False,,DeRozan Free Throw 1 of 1 (5 PTS),15-20,15,20
+0021700411,2017-12-13,PHX,TOR,7.03,1,4,58,TOR,PHX,violation,2,False,False,Defensive Goaltending,,15-19,15,19
 0021700411,2017-12-13,PHX,TOR,7.12,1,4,53,PHX,PHX,fg_make,103,False,False,Ulis 10' Running Pull-Up Jump Shot (6 PTS),,17-20,17,20
 0021700411,2017-12-13,PHX,TOR,7.38,1,4,37,TOR,TOR,fg3_make,1,False,False,,Valanciunas 25' 3PT Jump Shot (10 PTS) (Lowry 4 AST),17-23,17,23
 0021700411,2017-12-13,PHX,TOR,7.65,1,4,21,PHX,PHX,fg3_make,79,False,False,Daniels 26' 3PT Pullup Jump Shot (3 PTS) (Len 1 AST),,20-23,20,23
@@ -316,9 +316,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700411,2017-12-13,PHX,TOR,34.07,3,1,56,PHX,PHX,fg_make,47,False,False,James 7' Turnaround Jump Shot (5 PTS),,77-86,77,86
 0021700411,2017-12-13,PHX,TOR,34.47,3,1,32,TOR,TOR,fg_make,44,False,False,,Anunoby 1' Reverse Layup (9 PTS),77-88,77,88
 0021700411,2017-12-13,PHX,TOR,34.73,3,1,16,PHX,PHX,fg_miss,6,True,False,MISS Daniels 2' Driving Layup,,77-88,77,88
+0021700411,2017-12-13,PHX,TOR,34.73,3,1,16,PHX,TOR,block,6,True,False,block,block,77-88,77,88
 0021700411,2017-12-13,PHX,TOR,34.73,3,1,16,TOR,TOR,reb,0,False,False,,Raptors Rebound,77-88,77,88
 0021700411,2017-12-13,PHX,TOR,34.73,3,1,16,TOR,,violation,1,False,False,,,77-88,77,88
-0021700411,2017-12-13,PHX,TOR,34.73,3,1,16,PHX,TOR,block,6,True,False,block,block,77-88,77,88
 0021700411,2017-12-13,PHX,TOR,34.9,3,1,6,TOR,TOR,fg_make,47,False,False,,DeRozan 12' Turnaround Jump Shot (29 PTS),77-90,77,90
 0021700411,2017-12-13,PHX,TOR,35.1,3,0,54,TOR,PHX,foul,4,False,False,Len OFF.Foul (P2) (J.Goble),,77-90,77,90
 0021700411,2017-12-13,PHX,TOR,35.1,3,0,54,PHX,PHX,tov,37,False,False,Len Offensive Foul Turnover (P3.T10),,77-90,77,90
@@ -352,8 +352,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700411,2017-12-13,PHX,TOR,38.63,4,9,22,PHX,PHX,fg_make,6,False,False,Len 1' Driving Layup (9 PTS) (James 5 AST),,89-92,89,92
 0021700411,2017-12-13,PHX,TOR,38.63,4,9,22,TOR,TOR,timeout,1,False,False,,Raptors Timeout: Regular (Reg.4 Short 0),89-92,89,92
 0021700411,2017-12-13,PHX,TOR,38.83,4,9,10,TOR,TOR,fg_miss,101,True,False,,MISS VanVleet 6' Driving Floating Jump Shot,89-92,89,92
-0021700411,2017-12-13,PHX,TOR,38.83,4,9,10,TOR,TOR,reb,0,False,False,,Raptors Rebound,89-92,89,92
 0021700411,2017-12-13,PHX,TOR,38.83,4,9,10,TOR,PHX,block,101,True,False,block,block,89-92,89,92
+0021700411,2017-12-13,PHX,TOR,38.83,4,9,10,TOR,TOR,reb,0,False,False,,Raptors Rebound,89-92,89,92
 0021700411,2017-12-13,PHX,TOR,39.0,4,9,0,TOR,TOR,fg3_miss,79,False,False,,MISS VanVleet 26' 3PT Pullup Jump Shot,89-92,89,92
 0021700411,2017-12-13,PHX,TOR,39.08,4,8,55,TOR,TOR,reb,0,False,False,,Poeltl REBOUND (Off:3 Def:1),89-92,89,92
 0021700411,2017-12-13,PHX,TOR,39.12,4,8,53,TOR,TOR,fg3_make,1,False,False,,VanVleet 27' 3PT Jump Shot (5 PTS) (Poeltl 1 AST),89-95,89,95
@@ -416,8 +416,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700411,2017-12-13,PHX,TOR,44.83,4,3,10,TOR,TOR,reb,0,False,False,,DeRozan REBOUND (Off:2 Def:5),98-101,98,101
 0021700411,2017-12-13,PHX,TOR,44.83,4,3,10,TOR,PHX,foul,1,False,False,Chriss P.FOUL (P4.T3) (J.Goble),,98-101,98,101
 0021700411,2017-12-13,PHX,TOR,44.87,4,3,8,TOR,TOR,fg_miss,6,True,False,,MISS VanVleet 2' Driving Layup,98-101,98,101
-0021700411,2017-12-13,PHX,TOR,44.87,4,3,8,TOR,TOR,reb,0,False,False,,Raptors Rebound,98-101,98,101
 0021700411,2017-12-13,PHX,TOR,44.87,4,3,8,TOR,PHX,block,6,True,False,block,block,98-101,98,101
+0021700411,2017-12-13,PHX,TOR,44.87,4,3,8,TOR,TOR,reb,0,False,False,,Raptors Rebound,98-101,98,101
 0021700411,2017-12-13,PHX,TOR,45.0,4,3,0,TOR,TOR,fg3_make,79,False,False,,Lowry 26' 3PT Pullup Jump Shot (10 PTS),98-104,98,104
 0021700411,2017-12-13,PHX,TOR,45.27,4,2,44,PHX,TOR,foul,1,False,False,,VanVleet P.FOUL (P5.PN) (J.Goble),98-104,98,104
 0021700411,2017-12-13,PHX,TOR,45.27,4,2,44,PHX,PHX,ft_make,11,False,False,Ulis Free Throw 1 of 2 (15 PTS),,99-104,99,104

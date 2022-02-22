@@ -6,9 +6,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900062,2019-10-30,OKC,POR,0.58,1,11,25,OKC,OKC,fg_make,6,False,False,Gilgeous-Alexander 1' Driving Layup (2 PTS),,2-0,2,0
 0021900062,2019-10-30,OKC,POR,0.88,1,11,7,POR,POR,fg_make,79,False,False,,Hood 13' Pullup Jump Shot (2 PTS),2-2,2,2
 0021900062,2019-10-30,OKC,POR,1.35,1,10,39,OKC,OKC,fg_miss,6,True,False,MISS Gilgeous-Alexander 10' Driving Layup,,2-2,2,2
+0021900062,2019-10-30,OKC,POR,1.35,1,10,39,OKC,POR,block,6,True,False,block,block,2-2,2,2
 0021900062,2019-10-30,OKC,POR,1.35,1,10,39,OKC,OKC,reb,0,False,False,THUNDER Rebound,,2-2,2,2
 0021900062,2019-10-30,OKC,POR,1.35,1,10,39,OKC,OKC,tov,11,False,False,THUNDER Turnover: Shot Clock (T#1),,2-2,2,2
-0021900062,2019-10-30,OKC,POR,1.35,1,10,39,OKC,POR,block,6,True,False,block,block,2-2,2,2
 0021900062,2019-10-30,OKC,POR,1.58,1,10,25,POR,POR,fg3_miss,1,False,False,,MISS Hood 26' 3PT Jump Shot,2-2,2,2
 0021900062,2019-10-30,OKC,POR,1.62,1,10,23,OKC,OKC,reb,0,False,False,Gallinari REBOUND (Off:0 Def:1),,2-2,2,2
 0021900062,2019-10-30,OKC,POR,1.82,1,10,11,OKC,OKC,fg_miss,1,False,False,MISS Paul 10' Jump Shot,,2-2,2,2
@@ -143,8 +143,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900062,2019-10-30,OKC,POR,16.07,2,7,56,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:0 Def:1),,26-31,26,31
 0021900062,2019-10-30,OKC,POR,16.17,2,7,50,OKC,POR,foul,1,False,False,,Bazemore P.FOUL (P1.T2) (J.DeRosa),26-31,26,31
 0021900062,2019-10-30,OKC,POR,16.3,2,7,42,OKC,OKC,tov,1,False,True,Gallinari Bad Pass Turnover (P1.T7),,26-31,26,31
-0021900062,2019-10-30,OKC,POR,16.3,2,7,42,POR,POR,tov,40,False,False,,McCollum Out of Bounds Lost Ball Turnover (P5.T8),26-31,26,31
 0021900062,2019-10-30,OKC,POR,16.3,2,7,42,OKC,POR,steal,1,False,True,steal,steal,26-31,26,31
+0021900062,2019-10-30,OKC,POR,16.3,2,7,42,POR,POR,tov,40,False,False,,McCollum Out of Bounds Lost Ball Turnover (P5.T8),26-31,26,31
 0021900062,2019-10-30,OKC,POR,16.4,2,7,36,OKC,OKC,fg_miss,6,False,False,MISS Schroder 3' Driving Layup,,26-31,26,31
 0021900062,2019-10-30,OKC,POR,16.45,2,7,33,OKC,OKC,reb,0,False,False,Schroder REBOUND (Off:1 Def:0),,26-31,26,31
 0021900062,2019-10-30,OKC,POR,16.55,2,7,27,OKC,OKC,fg_miss,6,True,False,MISS Schroder 2' Driving Layup,,26-31,26,31
@@ -373,8 +373,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900062,2019-10-30,OKC,POR,37.55,4,10,27,POR,POR,ft_miss,12,False,False,,MISS Bazemore Free Throw 2 of 2,74-73,74,73
 0021900062,2019-10-30,OKC,POR,37.6,4,10,24,OKC,OKC,reb,0,False,False,Diallo REBOUND (Off:1 Def:5),,74-73,74,73
 0021900062,2019-10-30,OKC,POR,37.73,4,10,16,OKC,OKC,fg_miss,6,True,False,MISS Gilgeous-Alexander 3' Driving Layup,,74-73,74,73
-0021900062,2019-10-30,OKC,POR,37.73,4,10,16,OKC,OKC,reb,0,False,False,THUNDER Rebound,,74-73,74,73
 0021900062,2019-10-30,OKC,POR,37.73,4,10,16,OKC,POR,block,6,True,False,block,block,74-73,74,73
+0021900062,2019-10-30,OKC,POR,37.73,4,10,16,OKC,OKC,reb,0,False,False,THUNDER Rebound,,74-73,74,73
 0021900062,2019-10-30,OKC,POR,37.78,4,10,13,OKC,OKC,tov,4,False,False,Schroder Traveling Turnover (P2.T16),,74-73,74,73
 0021900062,2019-10-30,OKC,POR,37.92,4,10,5,OKC,POR,foul,4,False,False,,Labissiere OFF.Foul (P4) (S.Wall),74-73,74,73
 0021900062,2019-10-30,OKC,POR,37.92,4,10,5,POR,POR,tov,37,False,False,,Labissiere Offensive Foul Turnover (P3.T16),74-73,74,73
@@ -409,8 +409,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900062,2019-10-30,OKC,POR,40.4,4,7,36,OKC,POR,block,6,True,False,block,block,77-75,77,75
 0021900062,2019-10-30,OKC,POR,40.45,4,7,33,OKC,OKC,reb,0,False,False,Diallo REBOUND (Off:2 Def:5),,77-75,77,75
 0021900062,2019-10-30,OKC,POR,40.45,4,7,33,OKC,OKC,fg_miss,97,False,False,MISS Diallo 1' Tip Layup Shot,,77-75,77,75
-0021900062,2019-10-30,OKC,POR,40.53,4,7,28,OKC,OKC,fg_miss,97,False,False,MISS Diallo 1' Tip Layup Shot,,77-75,77,75
 0021900062,2019-10-30,OKC,POR,40.53,4,7,28,OKC,OKC,reb,0,False,False,Diallo REBOUND (Off:3 Def:5),,77-75,77,75
+0021900062,2019-10-30,OKC,POR,40.53,4,7,28,OKC,OKC,fg_miss,97,False,False,MISS Diallo 1' Tip Layup Shot,,77-75,77,75
 0021900062,2019-10-30,OKC,POR,40.57,4,7,26,OKC,OKC,reb,0,False,False,Diallo REBOUND (Off:4 Def:5),,77-75,77,75
 0021900062,2019-10-30,OKC,POR,40.57,4,7,26,OKC,OKC,fg_make,97,False,False,Diallo 1' Tip Layup Shot (10 PTS),,79-75,79,75
 0021900062,2019-10-30,OKC,POR,40.87,4,7,8,POR,OKC,foul,2,False,False,Schroder S.FOUL (P5.T3) (S.Wall),,79-75,79,75
@@ -420,8 +420,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900062,2019-10-30,OKC,POR,41.03,4,6,58,OKC,OKC,fg_make,98,False,False,Muscala 1' Cutting Layup Shot (4 PTS) (Paul 4 AST),,81-76,81,76
 0021900062,2019-10-30,OKC,POR,41.03,4,6,58,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.4 Short 0),81-76,81,76
 0021900062,2019-10-30,OKC,POR,41.27,4,6,44,POR,POR,fg_miss,102,False,False,,MISS McCollum 8' Driving Floating Bank Jump Shot,81-76,81,76
-0021900062,2019-10-30,OKC,POR,41.32,4,6,41,POR,POR,fg_make,72,False,False,,Whiteside 2' Putback Layup (8 PTS),81-78,81,78
 0021900062,2019-10-30,OKC,POR,41.32,4,6,41,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:5 Def:4),81-78,81,78
+0021900062,2019-10-30,OKC,POR,41.32,4,6,41,POR,POR,fg_make,72,False,False,,Whiteside 2' Putback Layup (8 PTS),81-78,81,78
 0021900062,2019-10-30,OKC,POR,41.57,4,6,26,OKC,POR,violation,5,False,False,,Hood Violation:Kicked Ball (J.DeRosa),81-78,81,78
 0021900062,2019-10-30,OKC,POR,41.82,4,6,11,OKC,OKC,fg3_miss,80,False,False,MISS Gallinari 25' 3PT Step Back Jump Shot,,81-78,81,78
 0021900062,2019-10-30,OKC,POR,41.87,4,6,8,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:5 Def:5),81-78,81,78

@@ -22,8 +22,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000678,2021-03-25,MIA,POR,2.3,1,9,42,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 1 Short 0),,2-10,2,10
 0022000678,2021-03-25,MIA,POR,2.5,1,9,30,MIA,MIA,fg_make,78,False,False,Adebayo 9' Floating Jump Shot (2 PTS) (Vincent 1 AST),,4-10,4,10
 0022000678,2021-03-25,MIA,POR,2.7,1,9,18,POR,POR,fg_miss,5,True,False,,MISS Jones Jr. 2' Layup,4-10,4,10
-0022000678,2021-03-25,MIA,POR,2.7,1,9,18,POR,POR,reb,0,False,False,,Trail Blazers Rebound,4-10,4,10
 0022000678,2021-03-25,MIA,POR,2.7,1,9,18,POR,MIA,block,5,True,False,block,block,4-10,4,10
+0022000678,2021-03-25,MIA,POR,2.7,1,9,18,POR,POR,reb,0,False,False,,Trail Blazers Rebound,4-10,4,10
 0022000678,2021-03-25,MIA,POR,2.75,1,9,15,POR,POR,fg_miss,1,False,False,,MISS Lillard 19' Jump Shot,4-10,4,10
 0022000678,2021-03-25,MIA,POR,2.82,1,9,11,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:0 Def:1),,4-10,4,10
 0022000678,2021-03-25,MIA,POR,2.92,1,9,5,MIA,MIA,fg3_make,79,False,False,Robinson 28' 3PT Pullup Jump Shot (3 PTS) (Adebayo 1 AST),,7-10,7,10
@@ -39,8 +39,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000678,2021-03-25,MIA,POR,4.2,1,7,48,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:0 Def:2),,9-13,9,13
 0022000678,2021-03-25,MIA,POR,4.23,1,7,46,MIA,MIA,tov,45,False,False,Adebayo Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,9-13,9,13
 0022000678,2021-03-25,MIA,POR,4.62,1,7,23,POR,POR,fg_miss,58,True,False,,MISS Kanter 9' Turnaround Hook Shot,9-13,9,13
-0022000678,2021-03-25,MIA,POR,4.62,1,7,23,MIA,MIA,reb,0,False,False,HEAT Rebound,,9-13,9,13
 0022000678,2021-03-25,MIA,POR,4.62,1,7,23,POR,MIA,block,58,True,False,block,block,9-13,9,13
+0022000678,2021-03-25,MIA,POR,4.62,1,7,23,MIA,MIA,reb,0,False,False,HEAT Rebound,,9-13,9,13
 0022000678,2021-03-25,MIA,POR,4.83,1,7,10,MIA,MIA,fg_make,43,False,False,Ariza 2' Alley Oop Layup (2 PTS) (Vincent 2 AST),,11-13,11,13
 0022000678,2021-03-25,MIA,POR,5.2,1,6,48,POR,POR,fg_make,1,False,False,,McCollum 16' Jump Shot (13 PTS),11-15,11,15
 0022000678,2021-03-25,MIA,POR,5.2,1,6,48,POR,MIA,foul,2,False,False,Nunn S.FOUL (P1.T1) (B.Kennedy),,11-15,11,15
@@ -53,8 +53,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000678,2021-03-25,MIA,POR,6.27,1,5,44,POR,POR,fg3_miss,1,False,False,,MISS Covington 3PT Jump Shot,16-19,16,19
 0022000678,2021-03-25,MIA,POR,6.3,1,5,42,MIA,MIA,reb,0,False,False,Nunn REBOUND (Off:0 Def:1),,16-19,16,19
 0022000678,2021-03-25,MIA,POR,6.35,1,5,39,MIA,MIA,fg_miss,41,True,False,MISS Nunn 5' Running Layup,,16-19,16,19
-0022000678,2021-03-25,MIA,POR,6.35,1,5,39,POR,POR,reb,0,False,False,,Trail Blazers Rebound,16-19,16,19
 0022000678,2021-03-25,MIA,POR,6.35,1,5,39,MIA,POR,block,41,True,False,block,block,16-19,16,19
+0022000678,2021-03-25,MIA,POR,6.35,1,5,39,POR,POR,reb,0,False,False,,Trail Blazers Rebound,16-19,16,19
 0022000678,2021-03-25,MIA,POR,6.6,1,5,24,POR,POR,fg_make,6,False,False,,McCollum 3' Driving Layup (16 PTS) (Lillard 3 AST),16-21,16,21
 0022000678,2021-03-25,MIA,POR,6.8,1,5,12,MIA,MIA,fg_miss,1,False,False,MISS Adebayo 11' Jump Shot,,16-21,16,21
 0022000678,2021-03-25,MIA,POR,6.8,1,5,12,POR,POR,reb,0,False,False,,Kanter REBOUND (Off:1 Def:2),16-21,16,21
@@ -169,8 +169,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000678,2021-03-25,MIA,POR,21.02,2,2,59,MIA,POR,block,1,True,False,block,block,49-50,49,50
 0022000678,2021-03-25,MIA,POR,21.03,2,2,58,POR,POR,reb,0,False,False,,Jones Jr. REBOUND (Off:0 Def:1),49-50,49,50
 0022000678,2021-03-25,MIA,POR,21.05,2,2,57,POR,POR,fg_miss,6,False,False,,MISS Jones Jr. 4' Driving Layup,49-50,49,50
-0022000678,2021-03-25,MIA,POR,21.08,2,2,55,POR,POR,reb,0,False,False,,Trail Blazers Rebound,49-50,49,50
 0022000678,2021-03-25,MIA,POR,21.08,2,2,55,POR,MIA,foul,3,False,False,Robinson L.B.FOUL (P2.T2) (N.Green),,49-50,49,50
+0022000678,2021-03-25,MIA,POR,21.08,2,2,55,POR,POR,reb,0,False,False,,Trail Blazers Rebound,49-50,49,50
 0022000678,2021-03-25,MIA,POR,21.22,2,2,47,POR,POR,fg3_miss,1,False,False,,MISS Jones Jr. 25' 3PT Jump Shot,49-50,49,50
 0022000678,2021-03-25,MIA,POR,21.28,2,2,43,POR,POR,reb,0,False,False,,Jones Jr. REBOUND (Off:1 Def:1),49-50,49,50
 0022000678,2021-03-25,MIA,POR,21.32,2,2,41,POR,POR,fg3_make,1,False,False,,McCollum 26' 3PT Jump Shot (27 PTS) (Lillard 6 AST),49-53,49,53
@@ -183,9 +183,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000678,2021-03-25,MIA,POR,22.35,2,1,39,POR,POR,fg3_make,1,False,False,,Lillard 25' 3PT Jump Shot (8 PTS) (McCollum 3 AST),54-57,54,57
 0022000678,2021-03-25,MIA,POR,22.77,2,1,14,MIA,MIA,fg_make,7,False,False,Adebayo 2' Dunk (13 PTS) (Herro 5 AST),,56-57,56,57
 0022000678,2021-03-25,MIA,POR,23.1,2,0,54,POR,POR,fg_miss,63,True,False,,MISS Lillard 7' Fadeaway Jumper,56-57,56,57
+0022000678,2021-03-25,MIA,POR,23.1,2,0,54,POR,MIA,block,63,True,False,block,block,56-57,56,57
 0022000678,2021-03-25,MIA,POR,23.1,2,0,54,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:2 Def:5),,56-57,56,57
 0022000678,2021-03-25,MIA,POR,23.1,2,0,54,MIA,POR,foul,28,False,False,,Lillard Personal Take Foul (P2.PN) (N.Green),56-57,56,57
-0022000678,2021-03-25,MIA,POR,23.1,2,0,54,POR,MIA,block,63,True,False,block,block,56-57,56,57
 0022000678,2021-03-25,MIA,POR,23.1,2,0,54,MIA,MIA,ft_make,11,False,False,Adebayo Free Throw 1 of 2 (14 PTS),,57-57,57,57
 0022000678,2021-03-25,MIA,POR,23.1,2,0,54,MIA,MIA,ft_make,12,False,False,Adebayo Free Throw 2 of 2 (15 PTS),,58-57,58,57
 0022000678,2021-03-25,MIA,POR,23.42,2,0,35,POR,POR,fg_make,101,False,False,,McCollum 7' Driving Floating Jump Shot (29 PTS),58-59,58,59
@@ -269,8 +269,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000678,2021-03-25,MIA,POR,33.83,3,2,10,POR,POR,reb,0,False,False,,Simons REBOUND (Off:0 Def:2),84-83,84,83
 0022000678,2021-03-25,MIA,POR,33.88,3,2,7,POR,POR,fg3_make,1,False,False,,Lillard 28' 3PT Jump Shot (13 PTS) (Simons 2 AST),84-86,84,86
 0022000678,2021-03-25,MIA,POR,34.2,3,1,48,MIA,MIA,fg3_miss,80,True,False,MISS Herro 26' 3PT Step Back Jump Shot,,84-86,84,86
-0022000678,2021-03-25,MIA,POR,34.2,3,1,48,MIA,MIA,reb,0,False,False,HEAT Rebound,,84-86,84,86
 0022000678,2021-03-25,MIA,POR,34.2,3,1,48,MIA,POR,block,80,True,False,block,block,84-86,84,86
+0022000678,2021-03-25,MIA,POR,34.2,3,1,48,MIA,MIA,reb,0,False,False,HEAT Rebound,,84-86,84,86
 0022000678,2021-03-25,MIA,POR,34.33,3,1,40,MIA,MIA,fg_make,79,False,False,Nunn 17' Pullup Jump Shot (20 PTS),,86-86,86,86
 0022000678,2021-03-25,MIA,POR,34.62,3,1,23,POR,POR,tov,1,False,True,,Lillard Bad Pass Turnover (P2.T9),86-86,86,86
 0022000678,2021-03-25,MIA,POR,34.62,3,1,23,POR,MIA,steal,1,False,True,steal,steal,86-86,86,86
@@ -321,9 +321,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000678,2021-03-25,MIA,POR,41.68,4,6,19,MIA,MIA,ft_make,12,False,False,Herro Free Throw 2 of 2 (27 PTS),,110-100,110,100
 0022000678,2021-03-25,MIA,POR,41.9,4,6,6,POR,POR,fg_miss,6,False,False,,MISS Lillard 7' Driving Layup,110-100,110,100
 0022000678,2021-03-25,MIA,POR,41.92,4,6,5,POR,POR,reb,0,False,False,,Kanter REBOUND (Off:6 Def:7),110-100,110,100
-0022000678,2021-03-25,MIA,POR,41.92,4,6,5,POR,POR,fg_make,72,False,False,,Kanter 6' Putback Layup (12 PTS),110-102,110,102
 0022000678,2021-03-25,MIA,POR,41.92,4,6,5,POR,MIA,foul,2,False,False,Iguodala S.FOUL (P2.T1) (B.Kennedy),,110-102,110,102
 0022000678,2021-03-25,MIA,POR,41.92,4,6,5,POR,POR,ft_make,10,False,False,,Kanter Free Throw 1 of 1 (13 PTS),110-103,110,103
+0022000678,2021-03-25,MIA,POR,41.92,4,6,5,POR,POR,fg_make,72,False,False,,Kanter 6' Putback Layup (12 PTS),110-102,110,102
 0022000678,2021-03-25,MIA,POR,42.15,4,5,51,MIA,MIA,fg_miss,79,False,False,MISS Herro 19' Pullup Jump Shot,,110-103,110,103
 0022000678,2021-03-25,MIA,POR,42.25,4,5,45,MIA,MIA,reb,0,False,False,Iguodala REBOUND (Off:1 Def:4),,110-103,110,103
 0022000678,2021-03-25,MIA,POR,42.27,4,5,44,MIA,MIA,fg3_miss,1,False,False,MISS Herro 3PT Jump Shot,,110-103,110,103
@@ -341,8 +341,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000678,2021-03-25,MIA,POR,42.95,4,5,3,POR,POR,ft_make,12,False,False,,Lillard Free Throw 2 of 2 (17 PTS),110-107,110,107
 0022000678,2021-03-25,MIA,POR,42.95,4,5,3,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 4 Short 0),,110-107,110,107
 0022000678,2021-03-25,MIA,POR,43.27,4,4,44,MIA,MIA,fg_miss,6,True,False,MISS Vincent 5' Driving Layup,,110-107,110,107
-0022000678,2021-03-25,MIA,POR,43.27,4,4,44,POR,POR,reb,0,False,False,,Trail Blazers Rebound,110-107,110,107
 0022000678,2021-03-25,MIA,POR,43.27,4,4,44,MIA,POR,block,6,True,False,block,block,110-107,110,107
+0022000678,2021-03-25,MIA,POR,43.27,4,4,44,POR,POR,reb,0,False,False,,Trail Blazers Rebound,110-107,110,107
 0022000678,2021-03-25,MIA,POR,43.5,4,4,30,POR,POR,fg3_miss,1,False,False,,MISS Anthony 26' 3PT Jump Shot,110-107,110,107
 0022000678,2021-03-25,MIA,POR,43.57,4,4,26,MIA,MIA,reb,0,False,False,Nunn REBOUND (Off:0 Def:5),,110-107,110,107
 0022000678,2021-03-25,MIA,POR,43.77,4,4,14,MIA,MIA,fg_miss,47,False,False,MISS Nunn 8' Turnaround Jump Shot,,110-107,110,107
@@ -368,8 +368,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000678,2021-03-25,MIA,POR,45.75,4,2,15,MIA,MIA,fg_miss,79,False,False,MISS Ariza 21' Pullup Jump Shot,,114-111,114,111
 0022000678,2021-03-25,MIA,POR,45.82,4,2,11,POR,POR,reb,0,False,False,,Anthony REBOUND (Off:0 Def:6),114-111,114,111
 0022000678,2021-03-25,MIA,POR,46.08,4,1,55,POR,POR,fg_miss,1,True,False,,MISS Anthony 7' Jump Shot,114-111,114,111
-0022000678,2021-03-25,MIA,POR,46.08,4,1,55,POR,POR,reb,0,False,False,,Kanter REBOUND (Off:7 Def:7),114-111,114,111
 0022000678,2021-03-25,MIA,POR,46.08,4,1,55,POR,MIA,block,1,True,False,block,block,114-111,114,111
+0022000678,2021-03-25,MIA,POR,46.08,4,1,55,POR,POR,reb,0,False,False,,Kanter REBOUND (Off:7 Def:7),114-111,114,111
 0022000678,2021-03-25,MIA,POR,46.08,4,1,55,POR,POR,fg_make,66,False,False,,Kanter 4' Jump Bank Shot (15 PTS),114-113,114,113
 0022000678,2021-03-25,MIA,POR,46.08,4,1,55,POR,MIA,foul,2,False,False,Robinson S.FOUL (P5.PN) (B.Kennedy),,114-113,114,113
 0022000678,2021-03-25,MIA,POR,46.08,4,1,55,POR,POR,ft_make,10,False,False,,Kanter Free Throw 1 of 1 (16 PTS),114-114,114,114

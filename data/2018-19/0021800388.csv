@@ -42,8 +42,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800388,2018-12-09,TOR,MIL,6.07,1,5,56,TOR,TOR,fg_miss,1,False,False,MISS Leonard 22' Jump Shot,,16-15,16,15
 0021800388,2018-12-09,TOR,MIL,6.12,1,5,53,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:0 Def:1),16-15,16,15
 0021800388,2018-12-09,TOR,MIL,6.23,1,5,46,MIL,MIL,fg_miss,6,True,False,,MISS Brogdon 3' Driving Layup,16-15,16,15
-0021800388,2018-12-09,TOR,MIL,6.23,1,5,46,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,16-15,16,15
 0021800388,2018-12-09,TOR,MIL,6.23,1,5,46,MIL,TOR,block,6,True,False,block,block,16-15,16,15
+0021800388,2018-12-09,TOR,MIL,6.23,1,5,46,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,16-15,16,15
 0021800388,2018-12-09,TOR,MIL,6.57,1,5,26,TOR,TOR,fg_miss,5,True,False,MISS Ibaka 5' Layup,,16-15,16,15
 0021800388,2018-12-09,TOR,MIL,6.57,1,5,26,TOR,MIL,block,5,True,False,block,block,16-15,16,15
 0021800388,2018-12-09,TOR,MIL,6.58,1,5,25,TOR,TOR,reb,0,False,False,Leonard REBOUND (Off:1 Def:0),,16-15,16,15
@@ -60,8 +60,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800388,2018-12-09,TOR,MIL,8.32,1,3,41,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,22-18,22,18
 0021800388,2018-12-09,TOR,MIL,8.52,1,3,29,TOR,TOR,fg3_make,1,False,False,VanVleet 3PT Jump Shot (3 PTS) (Leonard 1 AST),,25-18,25,18
 0021800388,2018-12-09,TOR,MIL,8.93,1,3,4,MIL,MIL,fg3_miss,1,False,False,,MISS Connaughton 3PT Jump Shot,25-18,25,18
-0021800388,2018-12-09,TOR,MIL,8.95,1,3,3,MIL,MIL,reb,0,False,False,,Bucks Rebound,25-18,25,18
 0021800388,2018-12-09,TOR,MIL,8.95,1,3,3,MIL,MIL,tov,11,False,False,,Bucks Turnover: Shot Clock (T#4),25-18,25,18
+0021800388,2018-12-09,TOR,MIL,8.95,1,3,3,MIL,MIL,reb,0,False,False,,Bucks Rebound,25-18,25,18
 0021800388,2018-12-09,TOR,MIL,9.2,1,2,48,TOR,TOR,timeout,1,False,False,RAPTORS Timeout: Regular (Full 1 Short 0),,25-18,25,18
 0021800388,2018-12-09,TOR,MIL,9.22,1,2,47,,TOR,jump_ball,0,False,False,Jump Ball Lowry vs. Ilyasova: Tip to Brogdon,,25-18,25,18
 0021800388,2018-12-09,TOR,MIL,9.23,1,2,46,TOR,TOR,tov,2,False,True,Ibaka Lost Ball Turnover (P1.T3),,25-18,25,18
@@ -77,9 +77,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800388,2018-12-09,TOR,MIL,9.8,1,2,12,TOR,TOR,reb,0,False,False,Green REBOUND (Off:1 Def:2),,25-20,25,20
 0021800388,2018-12-09,TOR,MIL,10.0,1,2,0,TOR,TOR,fg_make,102,False,False,Siakam 10' Driving Floating Bank Jump Shot (7 PTS),,27-20,27,20
 0021800388,2018-12-09,TOR,MIL,10.22,1,1,47,MIL,MIL,fg_miss,6,True,False,,MISS Ilyasova 7' Driving Layup,27-20,27,20
+0021800388,2018-12-09,TOR,MIL,10.22,1,1,47,MIL,TOR,block,6,True,False,block,block,27-20,27,20
 0021800388,2018-12-09,TOR,MIL,10.22,1,1,47,MIL,MIL,reb,0,False,False,,Bucks Rebound,27-20,27,20
 0021800388,2018-12-09,TOR,MIL,10.22,1,1,47,MIL,TOR,foul,2,False,False,Green S.FOUL (P1.T4) (Z.Zarba),,27-20,27,20
-0021800388,2018-12-09,TOR,MIL,10.22,1,1,47,MIL,TOR,block,6,True,False,block,block,27-20,27,20
 0021800388,2018-12-09,TOR,MIL,10.22,1,1,47,MIL,MIL,ft_make,11,False,False,,Ilyasova Free Throw 1 of 2 (1 PTS),27-21,27,21
 0021800388,2018-12-09,TOR,MIL,10.22,1,1,47,MIL,MIL,ft_make,12,False,False,,Ilyasova Free Throw 2 of 2 (2 PTS),27-22,27,22
 0021800388,2018-12-09,TOR,MIL,10.47,1,1,32,TOR,TOR,fg_miss,1,False,False,MISS Siakam 11' Jump Shot,,27-22,27,22
@@ -234,8 +234,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800388,2018-12-09,TOR,MIL,27.38,3,8,37,TOR,TOR,fg_miss,86,False,False,MISS Leonard 9' Turnaround Fadeaway Shot,,55-59,55,59
 0021800388,2018-12-09,TOR,MIL,27.4,3,8,36,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:2 Def:10),55-59,55,59
 0021800388,2018-12-09,TOR,MIL,27.48,3,8,31,MIL,MIL,fg_miss,41,True,False,,MISS Antetokounmpo 1' Running Layup,55-59,55,59
-0021800388,2018-12-09,TOR,MIL,27.48,3,8,31,MIL,MIL,reb,0,False,False,,Bucks Rebound,55-59,55,59
 0021800388,2018-12-09,TOR,MIL,27.48,3,8,31,MIL,TOR,block,41,True,False,block,block,55-59,55,59
+0021800388,2018-12-09,TOR,MIL,27.48,3,8,31,MIL,MIL,reb,0,False,False,,Bucks Rebound,55-59,55,59
 0021800388,2018-12-09,TOR,MIL,27.65,3,8,21,MIL,MIL,fg3_miss,1,False,False,,MISS Brogdon 3PT Jump Shot,55-59,55,59
 0021800388,2018-12-09,TOR,MIL,27.78,3,8,13,MIL,MIL,reb,0,False,False,,Bledsoe REBOUND (Off:2 Def:0),55-59,55,59
 0021800388,2018-12-09,TOR,MIL,27.78,3,8,13,MIL,MIL,fg_make,97,False,False,,Bledsoe 1' Tip Layup Shot (5 PTS),55-61,55,61
@@ -355,8 +355,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800388,2018-12-09,TOR,MIL,39.8,4,8,12,MIL,MIL,ft_make,11,False,False,,Antetokounmpo Free Throw 1 of 2 (16 PTS),81-86,81,86
 0021800388,2018-12-09,TOR,MIL,39.8,4,8,12,MIL,MIL,ft_make,12,False,False,,Antetokounmpo Free Throw 2 of 2 (17 PTS),81-87,81,87
 0021800388,2018-12-09,TOR,MIL,40.08,4,7,55,TOR,TOR,fg_miss,6,True,False,MISS Valanciunas 4' Driving Layup,,81-87,81,87
-0021800388,2018-12-09,TOR,MIL,40.08,4,7,55,MIL,MIL,reb,0,False,False,,Bucks Rebound,81-87,81,87
 0021800388,2018-12-09,TOR,MIL,40.08,4,7,55,TOR,MIL,block,6,True,False,block,block,81-87,81,87
+0021800388,2018-12-09,TOR,MIL,40.08,4,7,55,MIL,MIL,reb,0,False,False,,Bucks Rebound,81-87,81,87
 0021800388,2018-12-09,TOR,MIL,40.33,4,7,40,MIL,MIL,fg3_make,80,False,False,,Lopez 26' 3PT Step Back Jump Shot (19 PTS) (Bledsoe 5 AST),81-90,81,90
 0021800388,2018-12-09,TOR,MIL,40.62,4,7,23,TOR,TOR,fg_miss,101,False,False,MISS Leonard 11' Driving Floating Jump Shot,,81-90,81,90
 0021800388,2018-12-09,TOR,MIL,40.65,4,7,21,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:4 Def:14),81-90,81,90
@@ -375,9 +375,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800388,2018-12-09,TOR,MIL,41.33,4,6,40,TOR,TOR,fg_miss,97,False,False,MISS Leonard 1' Tip Layup Shot,,81-90,81,90
 0021800388,2018-12-09,TOR,MIL,41.35,4,6,39,MIL,MIL,reb,0,False,False,,Brown REBOUND (Off:2 Def:5),81-90,81,90
 0021800388,2018-12-09,TOR,MIL,41.4,4,6,36,MIL,MIL,fg_miss,5,True,False,,MISS Bledsoe 2' Layup,81-90,81,90
+0021800388,2018-12-09,TOR,MIL,41.4,4,6,36,MIL,TOR,block,5,True,False,block,block,81-90,81,90
 0021800388,2018-12-09,TOR,MIL,41.4,4,6,36,,TOR,jump_ball,0,False,False,Jump Ball Green vs. Bledsoe: Tip to Antetokounmpo,,81-90,81,90
 0021800388,2018-12-09,TOR,MIL,41.4,4,6,36,MIL,MIL,reb,0,False,False,,Bucks Rebound,81-90,81,90
-0021800388,2018-12-09,TOR,MIL,41.4,4,6,36,MIL,TOR,block,5,True,False,block,block,81-90,81,90
 0021800388,2018-12-09,TOR,MIL,41.62,4,6,23,MIL,MIL,fg3_miss,1,False,False,,MISS Lopez 3PT Jump Shot,81-90,81,90
 0021800388,2018-12-09,TOR,MIL,41.65,4,6,21,TOR,TOR,reb,0,False,False,Lowry REBOUND (Off:0 Def:4),,81-90,81,90
 0021800388,2018-12-09,TOR,MIL,41.97,4,6,2,TOR,TOR,fg3_make,1,False,False,Green 3PT Jump Shot (8 PTS) (Lowry 6 AST),,84-90,84,90
@@ -388,8 +388,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800388,2018-12-09,TOR,MIL,42.68,4,5,19,TOR,TOR,fg3_make,1,False,False,Ibaka 26' 3PT Jump Shot (22 PTS) (Leonard 4 AST),,87-90,87,90
 0021800388,2018-12-09,TOR,MIL,42.7,4,5,18,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.5 Short 0),87-90,87,90
 0021800388,2018-12-09,TOR,MIL,42.95,4,5,3,MIL,MIL,fg_miss,101,True,False,,MISS Middleton 1' Driving Floating Jump Shot,87-90,87,90
-0021800388,2018-12-09,TOR,MIL,42.95,4,5,3,MIL,MIL,reb,0,False,False,,Bucks Rebound,87-90,87,90
 0021800388,2018-12-09,TOR,MIL,42.95,4,5,3,MIL,TOR,block,101,True,False,block,block,87-90,87,90
+0021800388,2018-12-09,TOR,MIL,42.95,4,5,3,MIL,MIL,reb,0,False,False,,Bucks Rebound,87-90,87,90
 0021800388,2018-12-09,TOR,MIL,43.03,4,4,58,MIL,MIL,fg3_miss,1,False,False,,MISS Bledsoe 25' 3PT Jump Shot,87-90,87,90
 0021800388,2018-12-09,TOR,MIL,43.07,4,4,56,TOR,TOR,reb,0,False,False,Leonard REBOUND (Off:3 Def:5),,87-90,87,90
 0021800388,2018-12-09,TOR,MIL,43.18,4,4,49,TOR,TOR,fg_make,79,False,False,Leonard 17' Pullup Jump Shot (15 PTS),,89-90,89,90

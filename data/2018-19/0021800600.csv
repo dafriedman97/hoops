@@ -125,8 +125,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800600,2019-01-08,PHI,WAS,15.1,2,8,54,WAS,WAS,reb,0,False,False,,Mahinmi REBOUND (Off:1 Def:0),41-30,41,30
 0021800600,2019-01-08,PHI,WAS,15.12,2,8,53,WAS,WAS,fg_make,5,False,False,,Mahinmi 1' Layup (2 PTS),41-32,41,32
 0021800600,2019-01-08,PHI,WAS,15.3,2,8,42,PHI,PHI,fg_miss,98,True,False,MISS Shamet 1' Cutting Layup Shot,,41-32,41,32
-0021800600,2019-01-08,PHI,WAS,15.3,2,8,42,PHI,PHI,reb,0,False,False,McConnell REBOUND (Off:1 Def:2),,41-32,41,32
 0021800600,2019-01-08,PHI,WAS,15.3,2,8,42,PHI,WAS,block,98,True,False,block,block,41-32,41,32
+0021800600,2019-01-08,PHI,WAS,15.3,2,8,42,PHI,PHI,reb,0,False,False,McConnell REBOUND (Off:1 Def:2),,41-32,41,32
 0021800600,2019-01-08,PHI,WAS,15.47,2,8,32,PHI,WAS,foul,1,False,False,,Mahinmi P.FOUL (P1.T2) (B.Nansel),41-32,41,32
 0021800600,2019-01-08,PHI,WAS,15.5,2,8,30,PHI,PHI,tov,1,False,True,Butler Bad Pass Turnover (P3.T7),,41-32,41,32
 0021800600,2019-01-08,PHI,WAS,15.5,2,8,30,PHI,WAS,steal,1,False,True,steal,steal,41-32,41,32
@@ -156,8 +156,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800600,2019-01-08,PHI,WAS,19.32,2,4,41,WAS,WAS,fg_miss,101,False,False,,MISS Porter Jr. 15' Driving Floating Jump Shot,53-38,53,38
 0021800600,2019-01-08,PHI,WAS,19.37,2,4,38,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:0 Def:2),,53-38,53,38
 0021800600,2019-01-08,PHI,WAS,19.42,2,4,35,PHI,PHI,tov,2,False,True,Simmons Lost Ball Turnover (P1.T8),,53-38,53,38
-0021800600,2019-01-08,PHI,WAS,19.42,2,4,35,WAS,PHI,foul,1,False,False,Chandler P.FOUL (P1.T3) (B.Nansel),,53-38,53,38
 0021800600,2019-01-08,PHI,WAS,19.42,2,4,35,PHI,WAS,steal,2,False,True,steal,steal,53-38,53,38
+0021800600,2019-01-08,PHI,WAS,19.42,2,4,35,WAS,PHI,foul,1,False,False,Chandler P.FOUL (P1.T3) (B.Nansel),,53-38,53,38
 0021800600,2019-01-08,PHI,WAS,19.58,2,4,25,WAS,WAS,fg3_miss,1,False,False,,MISS Ariza 26' 3PT Jump Shot,53-38,53,38
 0021800600,2019-01-08,PHI,WAS,19.62,2,4,23,PHI,PHI,reb,0,False,False,Muscala REBOUND (Off:0 Def:2),,53-38,53,38
 0021800600,2019-01-08,PHI,WAS,19.65,2,4,21,PHI,PHI,fg3_miss,1,False,False,MISS Shamet 27' 3PT Jump Shot,,53-38,53,38
@@ -184,8 +184,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800600,2019-01-08,PHI,WAS,22.05,2,1,57,PHI,PHI,fg3_miss,79,False,False,MISS Embiid 27' 3PT Pullup Jump Shot,,64-41,64,41
 0021800600,2019-01-08,PHI,WAS,22.1,2,1,54,PHI,PHI,reb,0,False,False,Milton REBOUND (Off:1 Def:0),,64-41,64,41
 0021800600,2019-01-08,PHI,WAS,22.12,2,1,53,PHI,PHI,fg_miss,5,True,False,MISS Milton 2' Layup,,64-41,64,41
-0021800600,2019-01-08,PHI,WAS,22.12,2,1,53,WAS,WAS,reb,0,False,False,,Mahinmi REBOUND (Off:1 Def:2),64-41,64,41
 0021800600,2019-01-08,PHI,WAS,22.12,2,1,53,PHI,WAS,block,5,True,False,block,block,64-41,64,41
+0021800600,2019-01-08,PHI,WAS,22.12,2,1,53,WAS,WAS,reb,0,False,False,,Mahinmi REBOUND (Off:1 Def:2),64-41,64,41
 0021800600,2019-01-08,PHI,WAS,22.28,2,1,43,PHI,WAS,foul,11,False,False,,Ariza T.FOUL (P1.T4) (B.Barnaky),64-41,64,41
 0021800600,2019-01-08,PHI,WAS,22.28,2,1,43,PHI,PHI,ft_make,16,False,False,Korkmaz Free Throw Technical (6 PTS),,65-41,65,41
 0021800600,2019-01-08,PHI,WAS,22.48,2,1,31,WAS,WAS,fg_make,58,False,False,,Mahinmi 7' Turnaround Hook Shot (4 PTS),65-43,65,43
@@ -429,9 +429,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800600,2019-01-08,PHI,WAS,46.7,4,1,18,WAS,WAS,ft_make,11,False,False,,Brown Jr. Free Throw 1 of 2 (1 PTS),127-110,127,110
 0021800600,2019-01-08,PHI,WAS,46.7,4,1,18,WAS,WAS,ft_make,12,False,False,,Brown Jr. Free Throw 2 of 2 (2 PTS),127-111,127,111
 0021800600,2019-01-08,PHI,WAS,46.87,4,1,8,PHI,PHI,fg_miss,101,False,False,MISS Milton 7' Driving Floating Jump Shot,,127-111,127,111
+0021800600,2019-01-08,PHI,WAS,46.92,4,1,5,PHI,PHI,reb,0,False,False,Milton REBOUND (Off:3 Def:2),,127-111,127,111
 0021800600,2019-01-08,PHI,WAS,46.92,4,1,5,PHI,PHI,fg_miss,97,False,False,MISS Milton 3' Tip Layup Shot,,127-111,127,111
 0021800600,2019-01-08,PHI,WAS,46.92,4,1,5,PHI,PHI,reb,0,False,False,Johnson REBOUND (Off:1 Def:2),,127-111,127,111
-0021800600,2019-01-08,PHI,WAS,46.92,4,1,5,PHI,PHI,reb,0,False,False,Milton REBOUND (Off:3 Def:2),,127-111,127,111
 0021800600,2019-01-08,PHI,WAS,46.93,4,1,4,PHI,PHI,fg_make,72,False,False,Johnson 2' Putback Layup (2 PTS),,129-111,129,111
 0021800600,2019-01-08,PHI,WAS,47.08,4,0,55,WAS,WAS,fg_make,5,False,False,,Bryant 5' Layup (9 PTS) (Dekker 4 AST),129-113,129,113
 0021800600,2019-01-08,PHI,WAS,47.38,4,0,37,PHI,PHI,fg3_make,1,False,False,Johnson 27' 3PT Jump Shot (5 PTS) (Milton 3 AST),,132-113,132,113

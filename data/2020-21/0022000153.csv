@@ -71,8 +71,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000153,2021-01-11,ATL,PHI,7.47,1,4,32,PHI,PHI,reb,0,False,False,,Embiid REBOUND (Off:1 Def:4),15-16,15,16
 0022000153,2021-01-11,ATL,PHI,7.58,1,4,25,PHI,PHI,fg_make,6,False,False,,Maxey 1' Driving Layup (2 PTS),15-18,15,18
 0022000153,2021-01-11,ATL,PHI,7.77,1,4,14,ATL,ATL,fg_miss,6,False,False,MISS Young 6' Driving Layup,,15-18,15,18
-0022000153,2021-01-11,ATL,PHI,7.87,1,4,8,ATL,ATL,fg_make,97,False,False,Fernando Tip Layup Shot (2 PTS),,17-18,17,18
 0022000153,2021-01-11,ATL,PHI,7.87,1,4,8,ATL,ATL,reb,0,False,False,Fernando REBOUND (Off:1 Def:1),,17-18,17,18
+0022000153,2021-01-11,ATL,PHI,7.87,1,4,8,ATL,ATL,fg_make,97,False,False,Fernando Tip Layup Shot (2 PTS),,17-18,17,18
 0022000153,2021-01-11,ATL,PHI,8.03,1,3,58,PHI,PHI,fg3_make,1,False,False,,Embiid 26' 3PT Jump Shot (14 PTS) (Joe 1 AST),17-21,17,21
 0022000153,2021-01-11,ATL,PHI,8.2,1,3,48,ATL,ATL,fg_make,1,False,False,Young 22' Jump Shot (7 PTS),,19-21,19,21
 0022000153,2021-01-11,ATL,PHI,8.48,1,3,31,PHI,PHI,fg_miss,1,False,False,,MISS Maxey 20' Jump Shot,19-21,19,21
@@ -228,8 +228,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000153,2021-01-11,ATL,PHI,23.28,2,0,43,ATL,ATL,ft_make,10,False,False,Reddish Free Throw 1 of 1 (10 PTS),,65-46,65,46
 0022000153,2021-01-11,ATL,PHI,23.47,2,0,32,PHI,PHI,fg_make,6,False,False,,Maxey 1' Driving Layup (9 PTS),65-48,65,48
 0022000153,2021-01-11,ATL,PHI,23.57,2,0,26,ATL,ATL,fg_miss,6,True,False,MISS Young 2' Driving Layup,,65-48,65,48
-0022000153,2021-01-11,ATL,PHI,23.57,2,0,26,ATL,ATL,reb,0,False,False,HAWKS Rebound,,65-48,65,48
 0022000153,2021-01-11,ATL,PHI,23.57,2,0,26,ATL,PHI,block,6,True,False,block,block,65-48,65,48
+0022000153,2021-01-11,ATL,PHI,23.57,2,0,26,ATL,ATL,reb,0,False,False,HAWKS Rebound,,65-48,65,48
 0022000153,2021-01-11,ATL,PHI,23.58,2,0,25,ATL,ATL,fg3_miss,1,False,False,MISS S. Hill 3PT Jump Shot,,65-48,65,48
 0022000153,2021-01-11,ATL,PHI,23.65,2,0,21,ATL,ATL,reb,0,False,False,S. Hill REBOUND (Off:2 Def:1),,65-48,65,48
 0022000153,2021-01-11,ATL,PHI,23.68,2,0,19,ATL,ATL,fg3_miss,1,False,False,MISS Reddish 26' 3PT Jump Shot,,65-48,65,48
@@ -253,8 +253,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000153,2021-01-11,ATL,PHI,25.52,3,10,29,PHI,PHI,fg_miss,1,False,False,,MISS Mathias 20' Jump Shot,69-50,69,50
 0022000153,2021-01-11,ATL,PHI,25.57,3,10,26,ATL,ATL,reb,0,False,False,Hunter REBOUND (Off:2 Def:4),,69-50,69,50
 0022000153,2021-01-11,ATL,PHI,25.67,3,10,20,ATL,ATL,fg_miss,6,True,False,MISS Young 8' Driving Layup,,69-50,69,50
-0022000153,2021-01-11,ATL,PHI,25.67,3,10,20,ATL,ATL,reb,0,False,False,HAWKS Rebound,,69-50,69,50
 0022000153,2021-01-11,ATL,PHI,25.67,3,10,20,ATL,PHI,block,6,True,False,block,block,69-50,69,50
+0022000153,2021-01-11,ATL,PHI,25.67,3,10,20,ATL,ATL,reb,0,False,False,HAWKS Rebound,,69-50,69,50
 0022000153,2021-01-11,ATL,PHI,25.9,3,10,6,ATL,ATL,fg_miss,6,False,False,MISS Hunter 3' Driving Layup,,69-50,69,50
 0022000153,2021-01-11,ATL,PHI,25.93,3,10,4,PHI,PHI,reb,0,False,False,,Scott REBOUND (Off:0 Def:2),69-50,69,50
 0022000153,2021-01-11,ATL,PHI,26.1,3,9,54,PHI,PHI,tov,2,False,True,,Embiid Lost Ball Turnover (P3.T7),69-50,69,50
@@ -374,9 +374,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000153,2021-01-11,ATL,PHI,40.72,4,7,17,PHI,PHI,fg3_miss,1,False,False,,MISS Mathias 25' 3PT Jump Shot,106-78,106,78
 0022000153,2021-01-11,ATL,PHI,40.78,4,7,13,ATL,ATL,reb,0,False,False,Capela REBOUND (Off:3 Def:8),,106-78,106,78
 0022000153,2021-01-11,ATL,PHI,41.02,4,6,59,ATL,ATL,fg_miss,6,True,False,MISS Capela 3' Driving Layup,,106-78,106,78
+0022000153,2021-01-11,ATL,PHI,41.02,4,6,59,ATL,PHI,block,6,True,False,block,block,106-78,106,78
 0022000153,2021-01-11,ATL,PHI,41.02,4,6,59,ATL,ATL,reb,0,False,False,HAWKS Rebound,,106-78,106,78
 0022000153,2021-01-11,ATL,PHI,41.02,4,6,59,ATL,ATL,timeout,1,False,False,HAWKS Timeout: Regular (Full 3 Short 0),,106-78,106,78
-0022000153,2021-01-11,ATL,PHI,41.02,4,6,59,ATL,PHI,block,6,True,False,block,block,106-78,106,78
 0022000153,2021-01-11,ATL,PHI,41.1,4,6,54,ATL,ATL,fg3_miss,1,False,False,MISS Knight 25' 3PT Jump Shot,,106-78,106,78
 0022000153,2021-01-11,ATL,PHI,41.15,4,6,51,ATL,ATL,reb,0,False,False,HAWKS Rebound,,106-78,106,78
 0022000153,2021-01-11,ATL,PHI,41.23,4,6,46,ATL,ATL,fg3_miss,80,False,False,MISS Goodwin 26' 3PT Step Back Jump Shot,,106-78,106,78
@@ -387,8 +387,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000153,2021-01-11,ATL,PHI,41.68,4,6,19,ATL,ATL,fg3_miss,1,False,False,MISS Snell 3PT Jump Shot,,106-78,106,78
 0022000153,2021-01-11,ATL,PHI,41.75,4,6,15,ATL,ATL,reb,0,False,False,Knight REBOUND (Off:1 Def:0),,106-78,106,78
 0022000153,2021-01-11,ATL,PHI,41.77,4,6,14,ATL,ATL,fg_miss,5,True,False,MISS Knight 2' Layup,,106-78,106,78
-0022000153,2021-01-11,ATL,PHI,41.77,4,6,14,PHI,PHI,reb,0,False,False,,Howard REBOUND (Off:1 Def:8),106-78,106,78
 0022000153,2021-01-11,ATL,PHI,41.77,4,6,14,ATL,PHI,block,5,True,False,block,block,106-78,106,78
+0022000153,2021-01-11,ATL,PHI,41.77,4,6,14,PHI,PHI,reb,0,False,False,,Howard REBOUND (Off:1 Def:8),106-78,106,78
 0022000153,2021-01-11,ATL,PHI,41.98,4,6,1,PHI,PHI,fg3_miss,1,False,False,,MISS Howard 25' 3PT Jump Shot,106-78,106,78
 0022000153,2021-01-11,ATL,PHI,42.03,4,5,58,PHI,PHI,reb,0,False,False,,Bradley REBOUND (Off:2 Def:1),106-78,106,78
 0022000153,2021-01-11,ATL,PHI,42.03,4,5,58,PHI,ATL,foul,1,False,False,S. Hill P.FOUL (P2.T2) (J.Conley),,106-78,106,78
@@ -435,8 +435,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000153,2021-01-11,ATL,PHI,46.75,4,1,15,PHI,PHI,reb,0,False,False,,Joe REBOUND (Off:0 Def:2),109-87,109,87
 0022000153,2021-01-11,ATL,PHI,46.93,4,1,4,PHI,PHI,fg_make,1,False,False,,Reed 5' Jump Shot (6 PTS) (Bradley 1 AST),109-89,109,89
 0022000153,2021-01-11,ATL,PHI,47.18,4,0,49,ATL,ATL,fg_miss,6,True,False,MISS Mays 1' Driving Layup,,109-89,109,89
-0022000153,2021-01-11,ATL,PHI,47.18,4,0,49,ATL,ATL,reb,0,False,False,HAWKS Rebound,,109-89,109,89
 0022000153,2021-01-11,ATL,PHI,47.18,4,0,49,ATL,PHI,block,6,True,False,block,block,109-89,109,89
+0022000153,2021-01-11,ATL,PHI,47.18,4,0,49,ATL,ATL,reb,0,False,False,HAWKS Rebound,,109-89,109,89
 0022000153,2021-01-11,ATL,PHI,47.22,4,0,47,ATL,ATL,fg3_make,1,False,False,Goodwin 3PT Jump Shot (15 PTS) (Mays 1 AST),,112-89,112,89
 0022000153,2021-01-11,ATL,PHI,47.42,4,0,35,PHI,PHI,fg3_make,1,False,False,,Howard 26' 3PT Jump Shot (7 PTS) (Mathias 4 AST),112-92,112,92
 0022000153,2021-01-11,ATL,PHI,47.7,4,0,18,ATL,ATL,fg_miss,6,False,False,MISS Snell 5' Driving Layup,,112-92,112,92

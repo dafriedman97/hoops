@@ -117,8 +117,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700777,2018-02-03,IND,PHI,13.33,2,10,40,PHI,PHI,fg_miss,1,False,False,,MISS Embiid 7' Jump Shot,38-27,38,27
 0021700777,2018-02-03,IND,PHI,13.37,2,10,38,PHI,PHI,reb,0,False,False,,Booker REBOUND (Off:1 Def:0),38-27,38,27
 0021700777,2018-02-03,IND,PHI,13.38,2,10,37,PHI,PHI,fg_miss,5,True,False,,MISS Booker 1' Layup,38-27,38,27
-0021700777,2018-02-03,IND,PHI,13.38,2,10,37,IND,IND,reb,0,False,False,Stephenson REBOUND (Off:0 Def:1),,38-27,38,27
 0021700777,2018-02-03,IND,PHI,13.38,2,10,37,PHI,IND,block,5,True,False,block,block,38-27,38,27
+0021700777,2018-02-03,IND,PHI,13.38,2,10,37,IND,IND,reb,0,False,False,Stephenson REBOUND (Off:0 Def:1),,38-27,38,27
 0021700777,2018-02-03,IND,PHI,13.5,2,10,30,IND,IND,fg_make,108,False,False,Sabonis Cutting Dunk Shot (4 PTS) (Stephenson 1 AST),,40-27,40,27
 0021700777,2018-02-03,IND,PHI,13.52,2,10,29,PHI,PHI,timeout,1,False,False,,76ers Timeout: Regular (Reg.2 Short 0),40-27,40,27
 0021700777,2018-02-03,IND,PHI,13.72,2,10,17,PHI,PHI,fg_miss,1,False,False,,MISS Embiid 18' Jump Shot,40-27,40,27
@@ -237,8 +237,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700777,2018-02-03,IND,PHI,26.03,3,9,58,PHI,PHI,tov,1,False,True,,Embiid Bad Pass Turnover (P3.T8),64-59,64,59
 0021700777,2018-02-03,IND,PHI,26.03,3,9,58,PHI,IND,steal,1,False,True,steal,steal,64-59,64,59
 0021700777,2018-02-03,IND,PHI,26.07,3,9,56,IND,IND,fg_miss,41,True,False,MISS Bogdanovic 2' Running Layup,,64-59,64,59
-0021700777,2018-02-03,IND,PHI,26.07,3,9,56,IND,IND,reb,0,False,False,PACERS Rebound,,64-59,64,59
 0021700777,2018-02-03,IND,PHI,26.07,3,9,56,IND,PHI,block,41,True,False,block,block,64-59,64,59
+0021700777,2018-02-03,IND,PHI,26.07,3,9,56,IND,IND,reb,0,False,False,PACERS Rebound,,64-59,64,59
 0021700777,2018-02-03,IND,PHI,26.25,3,9,45,IND,IND,tov,40,False,False,Oladipo Out of Bounds Lost Ball Turnover (P2.T7),,64-59,64,59
 0021700777,2018-02-03,IND,PHI,26.47,3,9,32,PHI,PHI,fg_miss,51,True,False,,MISS Simmons 2' Reverse Dunk,64-59,64,59
 0021700777,2018-02-03,IND,PHI,26.47,3,9,32,PHI,IND,block,51,True,False,block,block,64-59,64,59
@@ -262,8 +262,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700777,2018-02-03,IND,PHI,28.03,3,7,58,IND,IND,reb,0,False,False,Collison REBOUND (Off:0 Def:1),,64-61,64,61
 0021700777,2018-02-03,IND,PHI,28.12,3,7,53,IND,IND,fg3_make,1,False,False,Bogdanovic 3PT Jump Shot (16 PTS) (Young 2 AST),,67-61,67,61
 0021700777,2018-02-03,IND,PHI,28.43,3,7,34,PHI,PHI,fg_miss,5,True,False,,MISS Embiid 5' Layup,67-61,67,61
-0021700777,2018-02-03,IND,PHI,28.43,3,7,34,PHI,PHI,reb,0,False,False,,76ers Rebound,67-61,67,61
 0021700777,2018-02-03,IND,PHI,28.43,3,7,34,PHI,IND,block,5,True,False,block,block,67-61,67,61
+0021700777,2018-02-03,IND,PHI,28.43,3,7,34,PHI,PHI,reb,0,False,False,,76ers Rebound,67-61,67,61
 0021700777,2018-02-03,IND,PHI,28.47,3,7,32,PHI,IND,foul,2,False,False,Oladipo S.FOUL (P2.T1) (G.Zielinski),,67-61,67,61
 0021700777,2018-02-03,IND,PHI,28.47,3,7,32,PHI,PHI,ft_make,11,False,False,,Saric Free Throw 1 of 2 (13 PTS),67-62,67,62
 0021700777,2018-02-03,IND,PHI,28.47,3,7,32,PHI,PHI,ft_make,12,False,False,,Saric Free Throw 2 of 2 (14 PTS),67-63,67,63
@@ -330,9 +330,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700777,2018-02-03,IND,PHI,34.68,3,1,19,IND,IND,tov,1,False,True,Joseph Bad Pass Turnover (P1.T9),,74-73,74,73
 0021700777,2018-02-03,IND,PHI,34.68,3,1,19,IND,PHI,steal,1,False,True,steal,steal,74-73,74,73
 0021700777,2018-02-03,IND,PHI,34.75,3,1,15,PHI,PHI,fg_miss,5,True,False,,MISS Booker 1' Layup,74-73,74,73
+0021700777,2018-02-03,IND,PHI,34.75,3,1,15,PHI,IND,block,5,True,False,block,block,74-73,74,73
 0021700777,2018-02-03,IND,PHI,34.75,3,1,15,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:1 Def:4),,74-73,74,73
 0021700777,2018-02-03,IND,PHI,34.75,3,1,15,IND,PHI,foul,3,False,False,,Embiid L.B.FOUL (P1.PN) (G.Zielinski),74-73,74,73
-0021700777,2018-02-03,IND,PHI,34.75,3,1,15,PHI,IND,block,5,True,False,block,block,74-73,74,73
 0021700777,2018-02-03,IND,PHI,34.75,3,1,15,IND,IND,ft_make,11,False,False,Sabonis Free Throw 1 of 2 (9 PTS),,75-73,75,73
 0021700777,2018-02-03,IND,PHI,34.75,3,1,15,IND,IND,ft_make,12,False,False,Sabonis Free Throw 2 of 2 (10 PTS),,76-73,76,73
 0021700777,2018-02-03,IND,PHI,34.98,3,1,1,PHI,PHI,tov,45,False,False,,Embiid Out of Bounds - Bad Pass Turnover Turnover (P5.T11),76-73,76,73

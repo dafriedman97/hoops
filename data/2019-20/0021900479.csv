@@ -237,8 +237,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900479,2019-12-28,MIN,CLE,24.7,3,11,18,MIN,MIN,fg3_miss,1,False,False,MISS Graham 3PT Jump Shot,,43-49,43,49
 0021900479,2019-12-28,MIN,CLE,24.75,3,11,15,MIN,MIN,reb,0,False,False,Dieng REBOUND (Off:2 Def:3),,43-49,43,49
 0021900479,2019-12-28,MIN,CLE,24.75,3,11,15,MIN,MIN,fg_miss,5,True,False,MISS Dieng 1' Layup,,43-49,43,49
-0021900479,2019-12-28,MIN,CLE,24.75,3,11,15,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,43-49,43,49
 0021900479,2019-12-28,MIN,CLE,24.75,3,11,15,MIN,CLE,block,5,True,False,block,block,43-49,43,49
+0021900479,2019-12-28,MIN,CLE,24.75,3,11,15,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,43-49,43,49
 0021900479,2019-12-28,MIN,CLE,24.78,3,11,13,MIN,MIN,fg3_make,1,False,False,Covington 24' 3PT Jump Shot (8 PTS) (Napier 1 AST),,46-49,46,49
 0021900479,2019-12-28,MIN,CLE,25.07,3,10,56,CLE,CLE,fg3_make,1,False,False,,Osman 28' 3PT Jump Shot (5 PTS) (Garland 2 AST),46-52,46,52
 0021900479,2019-12-28,MIN,CLE,25.27,3,10,44,MIN,MIN,fg3_miss,1,False,False,MISS Napier 25' 3PT Jump Shot,,46-52,46,52
@@ -254,9 +254,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900479,2019-12-28,MIN,CLE,26.42,3,9,35,MIN,MIN,fg3_miss,1,False,False,MISS Graham 3PT Jump Shot,,51-52,51,52
 0021900479,2019-12-28,MIN,CLE,26.47,3,9,32,CLE,CLE,reb,0,False,False,,Sexton REBOUND (Off:2 Def:4),51-52,51,52
 0021900479,2019-12-28,MIN,CLE,26.58,3,9,25,CLE,CLE,tov,2,False,True,,Sexton Lost Ball Turnover (P3.T19),51-52,51,52
+0021900479,2019-12-28,MIN,CLE,26.58,3,9,25,CLE,MIN,steal,2,False,True,steal,steal,51-52,51,52
 0021900479,2019-12-28,MIN,CLE,26.58,3,9,25,MIN,CLE,foul,1,False,False,,Sexton P.FOUL (P3.T1) (B.Forte),51-52,51,52
 0021900479,2019-12-28,MIN,CLE,26.58,3,9,25,CLE,CLE,timeout,1,False,False,,Cavaliers Timeout: Regular (Reg.3 Short 0),51-52,51,52
-0021900479,2019-12-28,MIN,CLE,26.58,3,9,25,CLE,MIN,steal,2,False,True,steal,steal,51-52,51,52
 0021900479,2019-12-28,MIN,CLE,26.87,3,9,8,MIN,MIN,tov,1,False,True,Culver Bad Pass Turnover (P2.T11),,51-52,51,52
 0021900479,2019-12-28,MIN,CLE,26.87,3,9,8,MIN,CLE,steal,1,False,True,steal,steal,51-52,51,52
 0021900479,2019-12-28,MIN,CLE,27.18,3,8,49,CLE,CLE,fg_make,6,False,False,,Sexton 2' Driving Layup (13 PTS),51-54,51,54
@@ -324,8 +324,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900479,2019-12-28,MIN,CLE,32.68,3,3,19,CLE,CLE,reb,0,False,False,,Dellavedova REBOUND (Off:1 Def:1),54-60,54,60
 0021900479,2019-12-28,MIN,CLE,32.78,3,3,13,CLE,CLE,fg_miss,5,True,False,,MISS Sexton 2' Layup,54-60,54,60
 0021900479,2019-12-28,MIN,CLE,32.78,3,3,13,CLE,MIN,block,5,True,False,block,block,54-60,54,60
-0021900479,2019-12-28,MIN,CLE,32.82,3,3,11,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,54-60,54,60
 0021900479,2019-12-28,MIN,CLE,32.82,3,3,11,,MIN,jump_ball,0,False,False,Jump Ball Okogie vs. Sexton: Tip to Nance Jr.,,54-60,54,60
+0021900479,2019-12-28,MIN,CLE,32.82,3,3,11,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,54-60,54,60
 0021900479,2019-12-28,MIN,CLE,32.88,3,3,7,CLE,CLE,tov,2,False,True,,Dellavedova Lost Ball Turnover (P1.T23),54-60,54,60
 0021900479,2019-12-28,MIN,CLE,32.88,3,3,7,CLE,MIN,steal,2,False,True,steal,steal,54-60,54,60
 0021900479,2019-12-28,MIN,CLE,33.0,3,3,0,MIN,MIN,tov,1,False,True,Okogie Bad Pass Turnover (P2.T13),,54-60,54,60

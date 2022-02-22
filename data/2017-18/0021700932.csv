@@ -79,9 +79,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700932,2018-03-02,MIL,IND,8.9,1,3,6,IND,IND,fg3_miss,1,False,False,,MISS Robinson III 28' 3PT Jump Shot,12-8,12,8
 0021700932,2018-03-02,MIL,IND,8.95,1,3,3,IND,IND,reb,0,False,False,,Turner REBOUND (Off:2 Def:0),12-8,12,8
 0021700932,2018-03-02,MIL,IND,9.07,1,2,56,IND,IND,fg_miss,6,True,False,,MISS Sabonis 4' Driving Layup,12-8,12,8
+0021700932,2018-03-02,MIL,IND,9.07,1,2,56,IND,MIL,block,6,True,False,block,block,12-8,12,8
 0021700932,2018-03-02,MIL,IND,9.07,1,2,56,IND,IND,reb,0,False,False,,Pacers Rebound,12-8,12,8
 0021700932,2018-03-02,MIL,IND,9.07,1,2,56,IND,IND,timeout,1,False,False,,Pacers Timeout: Regular (Reg.1 Short 0),12-8,12,8
-0021700932,2018-03-02,MIL,IND,9.07,1,2,56,IND,MIL,block,6,True,False,block,block,12-8,12,8
 0021700932,2018-03-02,MIL,IND,9.12,1,2,53,IND,IND,fg_make,1,False,False,,Young 14' Jump Shot (2 PTS) (Stephenson 1 AST),12-10,12,10
 0021700932,2018-03-02,MIL,IND,9.23,1,2,46,MIL,IND,foul,2,False,False,,Young S.FOUL (P1.T2) (J.Van Duyne),12-10,12,10
 0021700932,2018-03-02,MIL,IND,9.23,1,2,46,MIL,MIL,ft_miss,11,False,False,MISS Bledsoe Free Throw 1 of 2,,12-10,12,10
@@ -102,10 +102,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700932,2018-03-02,MIL,IND,10.45,1,1,33,IND,IND,ft_miss,11,False,False,,MISS Stephenson Free Throw 1 of 2,16-12,16,12
 0021700932,2018-03-02,MIL,IND,10.45,1,1,33,IND,IND,reb,1,False,False,,Pacers Rebound,16-12,16,12
 0021700932,2018-03-02,MIL,IND,10.45,1,1,33,IND,IND,ft_make,12,False,False,,Stephenson Free Throw 2 of 2 (3 PTS),16-13,16,13
-0021700932,2018-03-02,MIL,IND,10.67,1,1,20,MIL,IND,foul,17,False,False,,Pacers T.Foul (Def. 3 Sec Young ) (J.Capers),16-13,16,13
-0021700932,2018-03-02,MIL,IND,10.67,1,1,20,MIL,MIL,ft_make,16,False,False,Middleton Free Throw Technical (7 PTS),,17-13,17,13
 0021700932,2018-03-02,MIL,IND,10.67,1,1,20,IND,MIL,foul,11,False,False,Bledsoe T.FOUL (P2.T4) (J.Capers),,17-13,17,13
 0021700932,2018-03-02,MIL,IND,10.67,1,1,20,IND,IND,ft_make,16,False,False,,Young Free Throw Technical (3 PTS),17-14,17,14
+0021700932,2018-03-02,MIL,IND,10.67,1,1,20,MIL,MIL,ft_make,16,False,False,Middleton Free Throw Technical (7 PTS),,17-13,17,13
+0021700932,2018-03-02,MIL,IND,10.67,1,1,20,MIL,IND,foul,17,False,False,,Pacers T.Foul (Def. 3 Sec Young ) (J.Capers),16-13,16,13
 0021700932,2018-03-02,MIL,IND,10.87,1,1,8,MIL,MIL,fg_make,1,False,False,Middleton 13' Jump Shot (9 PTS),,19-14,19,14
 0021700932,2018-03-02,MIL,IND,11.08,1,0,55,IND,MIL,foul,1,False,False,Brown P.FOUL (P2.PN) (B.Adams),,19-14,19,14
 0021700932,2018-03-02,MIL,IND,11.08,1,0,55,IND,MIL,foul,11,False,False,Antetokounmpo T.FOUL (P0.PN) (B.Adams),,19-14,19,14
@@ -119,8 +119,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700932,2018-03-02,MIL,IND,11.88,1,0,7,MIL,IND,block,6,True,False,block,block,21-18,21,18
 0021700932,2018-03-02,MIL,IND,11.93,1,0,4,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:1 Def:2),21-18,21,18
 0021700932,2018-03-02,MIL,IND,11.98,1,0,1,IND,IND,fg_miss,1,True,False,,MISS Robinson III 5' Jump Shot,21-18,21,18
-0021700932,2018-03-02,MIL,IND,11.98,1,0,1,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:1 Def:1),,21-18,21,18
 0021700932,2018-03-02,MIL,IND,11.98,1,0,1,IND,MIL,block,1,True,False,block,block,21-18,21,18
+0021700932,2018-03-02,MIL,IND,11.98,1,0,1,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:1 Def:1),,21-18,21,18
 0021700932,2018-03-02,MIL,IND,12.0,1,0,0,MIL,,period_end,0,False,False,,,21-18,21,18
 0021700932,2018-03-02,MIL,IND,12.0,2,12,0,MIL,,period_start,0,False,False,,,21-18,21,18
 0021700932,2018-03-02,MIL,IND,12.42,2,11,35,IND,IND,fg_miss,6,False,False,,MISS Stephenson 4' Driving Layup,21-18,21,18
@@ -132,8 +132,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700932,2018-03-02,MIL,IND,13.0,2,11,0,IND,IND,fg_miss,5,False,False,,MISS Sabonis 2' Layup,21-20,21,20
 0021700932,2018-03-02,MIL,IND,13.03,2,10,58,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:2 Def:2),21-20,21,20
 0021700932,2018-03-02,MIL,IND,13.22,2,10,47,IND,IND,fg_miss,5,True,False,,MISS Sabonis 3' Layup,21-20,21,20
-0021700932,2018-03-02,MIL,IND,13.22,2,10,47,IND,IND,reb,0,False,False,,Pacers Rebound,21-20,21,20
 0021700932,2018-03-02,MIL,IND,13.22,2,10,47,IND,MIL,block,5,True,False,block,block,21-20,21,20
+0021700932,2018-03-02,MIL,IND,13.22,2,10,47,IND,IND,reb,0,False,False,,Pacers Rebound,21-20,21,20
 0021700932,2018-03-02,MIL,IND,13.35,2,10,39,IND,IND,fg_miss,1,False,False,,MISS Young 15' Jump Shot,21-20,21,20
 0021700932,2018-03-02,MIL,IND,13.38,2,10,37,MIL,MIL,reb,0,False,False,Terry REBOUND (Off:0 Def:1),,21-20,21,20
 0021700932,2018-03-02,MIL,IND,13.45,2,10,33,MIL,IND,foul,2,False,False,,Sabonis S.FOUL (P2.T2) (B.Adams),21-20,21,20
@@ -200,8 +200,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700932,2018-03-02,MIL,IND,18.65,2,5,21,IND,IND,fg3_make,1,False,False,,Joseph 3PT Jump Shot (5 PTS) (Oladipo 4 AST),34-36,34,36
 0021700932,2018-03-02,MIL,IND,19.03,2,4,58,MIL,MIL,fg3_make,1,False,False,Terry 3PT Jump Shot (3 PTS) (Middleton 2 AST),,37-36,37,36
 0021700932,2018-03-02,MIL,IND,19.33,2,4,40,IND,IND,fg_miss,6,True,False,,MISS Young 4' Driving Layup,37-36,37,36
-0021700932,2018-03-02,MIL,IND,19.33,2,4,40,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:1 Def:5),,37-36,37,36
 0021700932,2018-03-02,MIL,IND,19.33,2,4,40,IND,MIL,block,6,True,False,block,block,37-36,37,36
+0021700932,2018-03-02,MIL,IND,19.33,2,4,40,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:1 Def:5),,37-36,37,36
 0021700932,2018-03-02,MIL,IND,19.4,2,4,36,MIL,IND,foul,2,False,False,,Turner S.FOUL (P1.PN) (J.Capers),37-36,37,36
 0021700932,2018-03-02,MIL,IND,19.4,2,4,36,MIL,MIL,ft_make,11,False,False,Antetokounmpo Free Throw 1 of 2 (11 PTS),,38-36,38,36
 0021700932,2018-03-02,MIL,IND,19.4,2,4,36,MIL,MIL,ft_make,12,False,False,Antetokounmpo Free Throw 2 of 2 (12 PTS),,39-36,39,36
@@ -269,8 +269,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700932,2018-03-02,MIL,IND,26.43,3,9,34,IND,IND,fg3_miss,1,False,False,,MISS Oladipo 28' 3PT Jump Shot,51-49,51,49
 0021700932,2018-03-02,MIL,IND,26.48,3,9,31,MIL,MIL,reb,0,False,False,Middleton REBOUND (Off:0 Def:3),,51-49,51,49
 0021700932,2018-03-02,MIL,IND,26.53,3,9,28,MIL,MIL,fg_miss,41,True,False,MISS Middleton 3' Running Layup,,51-49,51,49
-0021700932,2018-03-02,MIL,IND,26.53,3,9,28,MIL,MIL,reb,0,False,False,BUCKS Rebound,,51-49,51,49
 0021700932,2018-03-02,MIL,IND,26.53,3,9,28,MIL,IND,block,41,True,False,block,block,51-49,51,49
+0021700932,2018-03-02,MIL,IND,26.53,3,9,28,MIL,MIL,reb,0,False,False,BUCKS Rebound,,51-49,51,49
 0021700932,2018-03-02,MIL,IND,26.67,3,9,20,MIL,IND,foul,2,False,False,,Young S.FOUL (P1.T1) (J.Van Duyne),51-49,51,49
 0021700932,2018-03-02,MIL,IND,26.67,3,9,20,MIL,MIL,ft_make,11,False,False,Antetokounmpo Free Throw 1 of 2 (13 PTS),,52-49,52,49
 0021700932,2018-03-02,MIL,IND,26.67,3,9,20,MIL,MIL,ft_make,12,False,False,Antetokounmpo Free Throw 2 of 2 (14 PTS),,53-49,53,49
@@ -370,8 +370,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700932,2018-03-02,MIL,IND,37.45,4,10,33,MIL,IND,foul,1,False,False,,Joseph P.FOUL (P2.T1) (J.Capers),69-83,69,83
 0021700932,2018-03-02,MIL,IND,37.6,4,10,24,MIL,MIL,fg_make,78,False,False,Parker 11' Floating Jump Shot (9 PTS),,71-83,71,83
 0021700932,2018-03-02,MIL,IND,37.77,4,10,14,IND,IND,fg_miss,5,True,False,,MISS Stephenson 2' Layup,71-83,71,83
-0021700932,2018-03-02,MIL,IND,37.77,4,10,14,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:1 Def:7),,71-83,71,83
 0021700932,2018-03-02,MIL,IND,37.77,4,10,14,IND,MIL,block,5,True,False,block,block,71-83,71,83
+0021700932,2018-03-02,MIL,IND,37.77,4,10,14,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:1 Def:7),,71-83,71,83
 0021700932,2018-03-02,MIL,IND,37.83,4,10,10,MIL,MIL,tov,2,False,True,Antetokounmpo Lost Ball Turnover (P3.T11),,71-83,71,83
 0021700932,2018-03-02,MIL,IND,37.83,4,10,10,MIL,IND,steal,2,False,True,steal,steal,71-83,71,83
 0021700932,2018-03-02,MIL,IND,38.08,4,9,55,IND,MIL,foul,1,False,False,Terry P.FOUL (P2.T1) (J.Capers),,71-83,71,83
@@ -425,8 +425,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700932,2018-03-02,MIL,IND,44.13,4,3,52,IND,MIL,block,1,True,False,block,block,88-93,88,93
 0021700932,2018-03-02,MIL,IND,44.2,4,3,48,MIL,MIL,reb,0,False,False,Middleton REBOUND (Off:1 Def:4),,88-93,88,93
 0021700932,2018-03-02,MIL,IND,44.32,4,3,41,MIL,MIL,tov,1,False,True,Bledsoe Bad Pass Turnover (P3.T13),,88-93,88,93
-0021700932,2018-03-02,MIL,IND,44.32,4,3,41,IND,MIL,foul,1,False,False,Antetokounmpo P.FOUL (P2.T4) (J.Capers),,88-93,88,93
 0021700932,2018-03-02,MIL,IND,44.32,4,3,41,MIL,IND,steal,1,False,True,steal,steal,88-93,88,93
+0021700932,2018-03-02,MIL,IND,44.32,4,3,41,IND,MIL,foul,1,False,False,Antetokounmpo P.FOUL (P2.T4) (J.Capers),,88-93,88,93
 0021700932,2018-03-02,MIL,IND,44.68,4,3,19,IND,IND,fg3_make,1,False,False,,Oladipo 28' 3PT Jump Shot (18 PTS) (Sabonis 2 AST),88-96,88,96
 0021700932,2018-03-02,MIL,IND,45.08,4,2,55,MIL,MIL,fg_miss,1,False,False,MISS Middleton 19' Jump Shot,,88-96,88,96
 0021700932,2018-03-02,MIL,IND,45.08,4,2,55,IND,IND,reb,0,False,False,,Pacers Rebound,88-96,88,96

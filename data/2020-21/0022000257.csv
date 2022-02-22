@@ -335,10 +335,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000257,2021-01-25,DET,PHI,35.92,3,0,5,DET,DET,ft_make,11,False,False,Lee Free Throw 1 of 2 (1 PTS),,88-75,88,75
 0022000257,2021-01-25,DET,PHI,35.92,3,0,5,DET,DET,ft_make,12,False,False,Lee Free Throw 2 of 2 (2 PTS),,89-75,89,75
 0022000257,2021-01-25,DET,PHI,36.0,3,0,0,PHI,PHI,fg_miss,41,True,False,,MISS Maxey 7' Running Layup,89-75,89,75
+0022000257,2021-01-25,DET,PHI,36.0,3,0,0,PHI,DET,block,41,True,False,block,block,89-75,89,75
 0022000257,2021-01-25,DET,PHI,36.0,3,0,0,PHI,PHI,reb,0,False,False,,76ers Rebound,89-75,89,75
 0022000257,2021-01-25,DET,PHI,36.0,3,0,0,PHI,,period_end,0,False,False,,,89-75,89,75
 0022000257,2021-01-25,DET,PHI,36.0,4,12,0,PHI,,period_start,0,False,False,,,89-75,89,75
-0022000257,2021-01-25,DET,PHI,36.0,3,0,0,PHI,DET,block,41,True,False,block,block,89-75,89,75
 0022000257,2021-01-25,DET,PHI,36.33,4,11,40,DET,DET,fg_miss,1,True,False,MISS Stewart 3' Jump Shot,,89-75,89,75
 0022000257,2021-01-25,DET,PHI,36.33,4,11,40,DET,PHI,block,1,True,False,block,block,89-75,89,75
 0022000257,2021-01-25,DET,PHI,36.35,4,11,39,PHI,PHI,reb,0,False,False,,Korkmaz REBOUND (Off:0 Def:2),89-75,89,75
@@ -385,13 +385,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000257,2021-01-25,DET,PHI,40.45,4,7,33,PHI,DET,foul,14,False,False,Jackson FLAGRANT.FOUL.TYPE1 (P1.T4) (A.Nagy),,99-85,99,85
 0022000257,2021-01-25,DET,PHI,40.45,4,7,33,DET,DET,tov,0,False,False,Jackson No Turnover (P1.T17),,99-85,99,85
 0022000257,2021-01-25,DET,PHI,40.45,4,7,33,PHI,DET,foul,11,False,False,Jackson T.FOUL (P1.T4) (R.Mott),,99-85,99,85
-0022000257,2021-01-25,DET,PHI,40.45,4,7,33,PHI,DET,ejection,4,False,False,Jackson Ejection:Other,,99-85,99,85
 0022000257,2021-01-25,DET,PHI,40.45,4,7,33,PHI,PHI,ft_miss,18,False,False,,MISS Simmons Free Throw Flagrant 1 of 2,99-85,99,85
+0022000257,2021-01-25,DET,PHI,40.45,4,7,33,PHI,PHI,reb,1,False,False,,76ers Rebound,99-85,99,85
+0022000257,2021-01-25,DET,PHI,40.45,4,7,33,PHI,PHI,ft_miss,16,False,False,,MISS Harris Free Throw Technical,99-85,99,85
 0022000257,2021-01-25,DET,PHI,40.45,4,7,33,PHI,PHI,reb,1,False,False,,76ers Rebound,99-85,99,85
 0022000257,2021-01-25,DET,PHI,40.45,4,7,33,PHI,PHI,ft_miss,19,False,False,,MISS Simmons Free Throw Flagrant 2 of 2,99-85,99,85
 0022000257,2021-01-25,DET,PHI,40.45,4,7,33,PHI,PHI,reb,0,False,False,,76ers Rebound,99-85,99,85
-0022000257,2021-01-25,DET,PHI,40.45,4,7,33,PHI,PHI,ft_miss,16,False,False,,MISS Harris Free Throw Technical,99-85,99,85
-0022000257,2021-01-25,DET,PHI,40.45,4,7,33,PHI,PHI,reb,1,False,False,,76ers Rebound,99-85,99,85
+0022000257,2021-01-25,DET,PHI,40.45,4,7,33,PHI,DET,ejection,4,False,False,Jackson Ejection:Other,,99-85,99,85
 0022000257,2021-01-25,DET,PHI,40.8,4,7,12,PHI,PHI,fg_miss,58,False,False,,MISS Simmons 10' Turnaround Hook Shot,99-85,99,85
 0022000257,2021-01-25,DET,PHI,40.83,4,7,10,PHI,PHI,reb,0,False,False,,Simmons REBOUND (Off:1 Def:2),99-85,99,85
 0022000257,2021-01-25,DET,PHI,40.9,4,7,6,PHI,PHI,fg3_make,1,False,False,,Harris 26' 3PT Jump Shot (21 PTS) (Simmons 4 AST),99-88,99,88

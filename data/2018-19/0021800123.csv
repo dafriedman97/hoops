@@ -174,8 +174,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800123,2018-11-02,PHX,TOR,19.35,2,4,39,PHX,PHX,fg_make,58,False,False,Ayton 10' Turnaround Hook Shot (6 PTS),,41-35,41,35
 0021800123,2018-11-02,PHX,TOR,19.62,2,4,23,TOR,TOR,fg_make,5,False,False,,Leonard 1' Layup (9 PTS),41-37,41,37
 0021800123,2018-11-02,PHX,TOR,19.83,2,4,10,PHX,PHX,fg_miss,6,True,False,MISS Ariza 3' Driving Layup,,41-37,41,37
-0021800123,2018-11-02,PHX,TOR,19.83,2,4,10,PHX,PHX,reb,0,False,False,SUNS Rebound,,41-37,41,37
 0021800123,2018-11-02,PHX,TOR,19.83,2,4,10,PHX,TOR,block,6,True,False,block,block,41-37,41,37
+0021800123,2018-11-02,PHX,TOR,19.83,2,4,10,PHX,PHX,reb,0,False,False,SUNS Rebound,,41-37,41,37
 0021800123,2018-11-02,PHX,TOR,19.92,2,4,5,PHX,TOR,foul,1,False,False,,Siakam P.FOUL (P1.PN) (D.Richardson),41-37,41,37
 0021800123,2018-11-02,PHX,TOR,19.92,2,4,5,PHX,PHX,ft_make,11,False,False,Warren Free Throw 1 of 2 (3 PTS),,42-37,42,37
 0021800123,2018-11-02,PHX,TOR,19.92,2,4,5,PHX,PHX,ft_make,12,False,False,Warren Free Throw 2 of 2 (4 PTS),,43-37,43,37
@@ -241,8 +241,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800123,2018-11-02,PHX,TOR,26.25,3,9,45,TOR,TOR,fg3_make,2,False,False,,Green 3PT Running Jump Shot (8 PTS) (Leonard 3 AST),54-61,54,61
 0021800123,2018-11-02,PHX,TOR,26.28,3,9,43,PHX,PHX,timeout,1,False,False,SUNS Timeout: Regular (Full 4 Short 0),,54-61,54,61
 0021800123,2018-11-02,PHX,TOR,26.57,3,9,26,PHX,PHX,fg_miss,98,True,False,MISS Ayton 4' Cutting Layup Shot,,54-61,54,61
-0021800123,2018-11-02,PHX,TOR,26.57,3,9,26,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:4 Def:7),,54-61,54,61
 0021800123,2018-11-02,PHX,TOR,26.57,3,9,26,PHX,TOR,block,98,True,False,block,block,54-61,54,61
+0021800123,2018-11-02,PHX,TOR,26.57,3,9,26,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:4 Def:7),,54-61,54,61
 0021800123,2018-11-02,PHX,TOR,26.68,3,9,19,PHX,PHX,fg_make,75,False,False,Booker 3' Driving Finger Roll Layup (10 PTS),,56-61,56,61
 0021800123,2018-11-02,PHX,TOR,26.72,3,9,17,PHX,,violation,1,False,False,,,56-61,56,61
 0021800123,2018-11-02,PHX,TOR,27.03,3,8,58,TOR,TOR,fg_miss,47,False,False,,MISS Leonard 11' Turnaround Jump Shot,56-61,56,61
@@ -271,8 +271,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800123,2018-11-02,PHX,TOR,28.67,3,7,20,TOR,TOR,ft_miss,12,False,False,,MISS Leonard Free Throw 2 of 2,61-63,61,63
 0021800123,2018-11-02,PHX,TOR,28.72,3,7,17,PHX,PHX,reb,0,False,False,Ariza REBOUND (Off:0 Def:3),,61-63,61,63
 0021800123,2018-11-02,PHX,TOR,29.05,3,6,57,PHX,PHX,fg_miss,6,True,False,MISS Canaan 4' Driving Layup,,61-63,61,63
-0021800123,2018-11-02,PHX,TOR,29.05,3,6,57,PHX,PHX,reb,0,False,False,SUNS Rebound,,61-63,61,63
 0021800123,2018-11-02,PHX,TOR,29.05,3,6,57,PHX,TOR,block,6,True,False,block,block,61-63,61,63
+0021800123,2018-11-02,PHX,TOR,29.05,3,6,57,PHX,PHX,reb,0,False,False,SUNS Rebound,,61-63,61,63
 0021800123,2018-11-02,PHX,TOR,29.08,3,6,55,PHX,PHX,fg_miss,5,False,False,MISS Canaan 2' Layup,,61-63,61,63
 0021800123,2018-11-02,PHX,TOR,29.13,3,6,52,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:0 Def:2),61-63,61,63
 0021800123,2018-11-02,PHX,TOR,29.18,3,6,49,TOR,PHX,foul,1,False,False,Anderson P.FOUL (P1.PN) (T.Brown),,61-63,61,63
@@ -380,12 +380,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800123,2018-11-02,PHX,TOR,42.63,4,5,22,PHX,PHX,fg3_miss,1,False,False,MISS Ariza 24' 3PT Jump Shot,,81-99,81,99
 0021800123,2018-11-02,PHX,TOR,42.68,4,5,19,TOR,TOR,reb,0,False,False,,Leonard REBOUND (Off:2 Def:4),81-99,81,99
 0021800123,2018-11-02,PHX,TOR,42.83,4,5,10,TOR,TOR,fg_miss,1,True,False,,MISS Leonard 12' Jump Shot,81-99,81,99
-0021800123,2018-11-02,PHX,TOR,42.83,4,5,10,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:5 Def:9),,81-99,81,99
 0021800123,2018-11-02,PHX,TOR,42.83,4,5,10,TOR,PHX,block,1,True,False,block,block,81-99,81,99
+0021800123,2018-11-02,PHX,TOR,42.83,4,5,10,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:5 Def:9),,81-99,81,99
 0021800123,2018-11-02,PHX,TOR,43.03,4,4,58,PHX,PHX,fg_make,52,False,False,Ayton 2' Alley Oop Dunk (14 PTS) (Booker 4 AST),,83-99,83,99
 0021800123,2018-11-02,PHX,TOR,43.33,4,4,40,TOR,TOR,fg_miss,47,True,False,,MISS Lowry 11' Turnaround Jump Shot,83-99,83,99
-0021800123,2018-11-02,PHX,TOR,43.33,4,4,40,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:5 Def:10),,83-99,83,99
 0021800123,2018-11-02,PHX,TOR,43.33,4,4,40,TOR,PHX,block,47,True,False,block,block,83-99,83,99
+0021800123,2018-11-02,PHX,TOR,43.33,4,4,40,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:5 Def:10),,83-99,83,99
 0021800123,2018-11-02,PHX,TOR,43.48,4,4,31,PHX,PHX,fg3_make,1,False,False,Canaan 26' 3PT Jump Shot (19 PTS) (Booker 5 AST),,86-99,86,99
 0021800123,2018-11-02,PHX,TOR,43.5,4,4,30,TOR,TOR,timeout,1,False,False,,Raptors Timeout: Regular (Reg.4 Short 0),86-99,86,99
 0021800123,2018-11-02,PHX,TOR,43.78,4,4,13,TOR,TOR,fg_make,98,False,False,,Valanciunas 3' Cutting Layup Shot (14 PTS) (Leonard 5 AST),86-101,86,101

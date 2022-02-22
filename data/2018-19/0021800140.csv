@@ -334,8 +334,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800140,2018-11-05,DET,MIA,30.52,3,5,29,MIA,MIA,fg3_make,1,False,False,,Winslow 27' 3PT Jump Shot (9 PTS) (Dragic 4 AST),65-71,65,71
 0021800140,2018-11-05,DET,MIA,30.77,3,5,14,DET,DET,fg_make,98,False,False,Galloway 2' Cutting Layup Shot (11 PTS) (Drummond 2 AST),,67-71,67,71
 0021800140,2018-11-05,DET,MIA,31.15,3,4,51,MIA,MIA,fg_miss,6,True,False,,MISS McGruder 4' Driving Layup,67-71,67,71
-0021800140,2018-11-05,DET,MIA,31.15,3,4,51,MIA,MIA,reb,0,False,False,,Heat Rebound,67-71,67,71
 0021800140,2018-11-05,DET,MIA,31.15,3,4,51,MIA,DET,block,6,True,False,block,block,67-71,67,71
+0021800140,2018-11-05,DET,MIA,31.15,3,4,51,MIA,MIA,reb,0,False,False,,Heat Rebound,67-71,67,71
 0021800140,2018-11-05,DET,MIA,31.23,3,4,46,MIA,MIA,fg3_miss,1,False,False,,MISS Olynyk 26' 3PT Jump Shot,67-71,67,71
 0021800140,2018-11-05,DET,MIA,31.3,3,4,42,DET,DET,reb,0,False,False,Griffin REBOUND (Off:2 Def:7),,67-71,67,71
 0021800140,2018-11-05,DET,MIA,31.33,3,4,40,DET,MIA,foul,1,False,False,,Winslow P.FOUL (P3.PN) (M.Callahan),67-71,67,71
@@ -349,8 +349,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800140,2018-11-05,DET,MIA,32.22,3,3,47,MIA,MIA,ft_make,12,False,False,,Olynyk Free Throw 2 of 2 (4 PTS),73-74,73,74
 0021800140,2018-11-05,DET,MIA,32.45,3,3,33,DET,DET,fg_make,79,False,False,Galloway 21' Pullup Jump Shot (19 PTS) (Griffin 6 AST),,75-74,75,74
 0021800140,2018-11-05,DET,MIA,32.78,3,3,13,MIA,MIA,fg3_miss,1,False,False,,MISS Dragic 3PT Jump Shot,75-74,75,74
-0021800140,2018-11-05,DET,MIA,32.8,3,3,12,MIA,MIA,reb,0,False,False,,Heat Rebound,75-74,75,74
 0021800140,2018-11-05,DET,MIA,32.8,3,3,12,MIA,DET,foul,1,False,False,Griffin P.FOUL (P3.PN) (M.Dagher),,75-74,75,74
+0021800140,2018-11-05,DET,MIA,32.8,3,3,12,MIA,MIA,reb,0,False,False,,Heat Rebound,75-74,75,74
 0021800140,2018-11-05,DET,MIA,32.8,3,3,12,MIA,MIA,ft_make,11,False,False,,Olynyk Free Throw 1 of 2 (5 PTS),75-75,75,75
 0021800140,2018-11-05,DET,MIA,32.8,3,3,12,MIA,MIA,ft_make,12,False,False,,Olynyk Free Throw 2 of 2 (6 PTS),75-76,75,76
 0021800140,2018-11-05,DET,MIA,32.98,3,3,1,DET,DET,fg_miss,5,True,False,MISS Galloway 4' Layup,,75-76,75,76
@@ -480,9 +480,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800140,2018-11-05,DET,MIA,47.13,4,0,52,MIA,MIA,fg3_miss,1,False,False,,MISS Dragic 24' 3PT Jump Shot,101-104,101,104
 0021800140,2018-11-05,DET,MIA,47.2,4,0,48,MIA,MIA,reb,0,False,False,,Heat Rebound,101-104,101,104
 0021800140,2018-11-05,DET,MIA,47.2,4,0,48,MIA,DET,foul,1,False,False,Griffin P.FOUL (P6.PN) (M.Dagher),,101-104,101,104
-0021800140,2018-11-05,DET,MIA,47.35,4,0,39,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.6 Short 0),101-104,101,104
 0021800140,2018-11-05,DET,MIA,47.35,4,0,39,MIA,MIA,fg_miss,6,False,False,,MISS Richardson 1' Driving Layup,101-104,101,104
 0021800140,2018-11-05,DET,MIA,47.35,4,0,39,MIA,MIA,reb,0,False,False,,Heat Rebound,101-104,101,104
+0021800140,2018-11-05,DET,MIA,47.35,4,0,39,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.6 Short 0),101-104,101,104
 0021800140,2018-11-05,DET,MIA,47.42,4,0,35,MIA,MIA,fg_miss,86,False,False,,MISS Wade 21' Turnaround Fadeaway Shot,101-104,101,104
 0021800140,2018-11-05,DET,MIA,47.5,4,0,30,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:2 Def:4),101-104,101,104
 0021800140,2018-11-05,DET,MIA,47.55,4,0,27,MIA,DET,foul,1,False,False,Galloway P.FOUL (P4.PN) (M.Callahan),,101-104,101,104
@@ -540,8 +540,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800140,2018-11-05,DET,MIA,52.35,5,0,39,MIA,MIA,fg_miss,5,False,False,,MISS Richardson 2' Layup,115-116,115,116
 0021800140,2018-11-05,DET,MIA,52.37,5,0,38,MIA,MIA,reb,0,False,False,,Wade REBOUND (Off:1 Def:0),115-116,115,116
 0021800140,2018-11-05,DET,MIA,52.42,5,0,35,MIA,MIA,fg_miss,6,True,False,,MISS Winslow 5' Driving Layup,115-116,115,116
-0021800140,2018-11-05,DET,MIA,52.42,5,0,35,MIA,MIA,reb,0,False,False,,Heat Rebound,115-116,115,116
 0021800140,2018-11-05,DET,MIA,52.42,5,0,35,MIA,DET,block,6,True,False,block,block,115-116,115,116
+0021800140,2018-11-05,DET,MIA,52.42,5,0,35,MIA,MIA,reb,0,False,False,,Heat Rebound,115-116,115,116
 0021800140,2018-11-05,DET,MIA,52.48,5,0,31,,DET,jump_ball,0,False,False,Jump Ball Galloway vs. Richardson: Tip to Winslow,,115-116,115,116
 0021800140,2018-11-05,DET,MIA,52.65,5,0,21,MIA,MIA,fg3_miss,1,False,False,,MISS Richardson 26' 3PT Jump Shot,115-116,115,116
 0021800140,2018-11-05,DET,MIA,52.72,5,0,17,DET,DET,reb,0,False,False,Robinson III REBOUND (Off:0 Def:2),,115-116,115,116

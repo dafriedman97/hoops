@@ -24,8 +24,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900285,2019-12-01,NYK,BOS,2.92,1,9,5,NYK,BOS,steal,1,False,True,steal,steal,7-4,7,4
 0021900285,2019-12-01,NYK,BOS,3.0,1,9,0,BOS,BOS,fg_make,41,False,False,,Tatum 2' Running Layup (2 PTS) (Walker 2 AST),7-6,7,6
 0021900285,2019-12-01,NYK,BOS,3.17,1,8,50,NYK,NYK,fg_miss,6,True,False,MISS Barrett 2' Driving Layup,,7-6,7,6
-0021900285,2019-12-01,NYK,BOS,3.17,1,8,50,NYK,NYK,reb,0,False,False,KNICKS Rebound,,7-6,7,6
 0021900285,2019-12-01,NYK,BOS,3.17,1,8,50,NYK,BOS,block,6,True,False,block,block,7-6,7,6
+0021900285,2019-12-01,NYK,BOS,3.17,1,8,50,NYK,NYK,reb,0,False,False,KNICKS Rebound,,7-6,7,6
 0021900285,2019-12-01,NYK,BOS,3.28,1,8,43,NYK,NYK,fg_make,86,False,False,Randle 12' Turnaround Fadeaway (4 PTS),,9-6,9,6
 0021900285,2019-12-01,NYK,BOS,3.52,1,8,29,BOS,BOS,fg3_make,1,False,False,,Tatum 27' 3PT Jump Shot (5 PTS) (Theis 1 AST),9-9,9,9
 0021900285,2019-12-01,NYK,BOS,3.87,1,8,8,NYK,NYK,fg_make,57,False,False,Randle 3' Driving Hook Shot (6 PTS),,11-9,11,9
@@ -171,8 +171,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900285,2019-12-01,NYK,BOS,18.1,2,5,54,NYK,NYK,fg3_miss,1,False,False,MISS Knox II 3PT Jump Shot,,44-43,44,43
 0021900285,2019-12-01,NYK,BOS,18.17,2,5,50,NYK,NYK,reb,0,False,False,Gibson REBOUND (Off:1 Def:1),,44-43,44,43
 0021900285,2019-12-01,NYK,BOS,18.17,2,5,50,NYK,NYK,fg_miss,72,True,False,MISS Gibson Putback Layup,,44-43,44,43
-0021900285,2019-12-01,NYK,BOS,18.17,2,5,50,BOS,BOS,reb,0,False,False,,Ojeleye REBOUND (Off:1 Def:2),44-43,44,43
 0021900285,2019-12-01,NYK,BOS,18.17,2,5,50,NYK,BOS,block,72,True,False,block,block,44-43,44,43
+0021900285,2019-12-01,NYK,BOS,18.17,2,5,50,BOS,BOS,reb,0,False,False,,Ojeleye REBOUND (Off:1 Def:2),44-43,44,43
 0021900285,2019-12-01,NYK,BOS,18.23,2,5,46,BOS,NYK,foul,1,False,False,Smith Jr. P.FOUL (P1.T2) (A.Moyer-Gleich),,44-43,44,43
 0021900285,2019-12-01,NYK,BOS,18.43,2,5,34,BOS,BOS,fg3_make,80,False,False,,Brown 24' 3PT Step Back Jump Shot (9 PTS) (Walker 3 AST),44-46,44,46
 0021900285,2019-12-01,NYK,BOS,18.45,2,5,33,NYK,NYK,timeout,1,False,False,KNICKS Timeout: Regular (Full 2 Short 0),,44-46,44,46
@@ -284,8 +284,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900285,2019-12-01,NYK,BOS,29.95,3,6,3,NYK,NYK,ft_miss,12,False,False,MISS Barrett Free Throw 2 of 2,,73-66,73,66
 0021900285,2019-12-01,NYK,BOS,29.97,3,6,2,BOS,BOS,reb,0,False,False,,Celtics Rebound,73-66,73,66
 0021900285,2019-12-01,NYK,BOS,30.1,3,5,54,BOS,BOS,fg_miss,6,True,False,,MISS Walker 3' Driving Layup,73-66,73,66
-0021900285,2019-12-01,NYK,BOS,30.1,3,5,54,BOS,BOS,reb,0,False,False,,Celtics Rebound,73-66,73,66
 0021900285,2019-12-01,NYK,BOS,30.1,3,5,54,BOS,NYK,block,6,True,False,block,block,73-66,73,66
+0021900285,2019-12-01,NYK,BOS,30.1,3,5,54,BOS,BOS,reb,0,False,False,,Celtics Rebound,73-66,73,66
 0021900285,2019-12-01,NYK,BOS,30.28,3,5,43,BOS,BOS,fg_miss,75,False,False,,MISS Edwards 2' Driving Finger Roll Layup,73-66,73,66
 0021900285,2019-12-01,NYK,BOS,30.32,3,5,41,BOS,BOS,reb,0,False,False,,Kanter REBOUND (Off:3 Def:3),73-66,73,66
 0021900285,2019-12-01,NYK,BOS,30.35,3,5,39,BOS,BOS,fg_make,72,False,False,,Kanter 1' Putback Layup (8 PTS),73-68,73,68
@@ -303,8 +303,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900285,2019-12-01,NYK,BOS,31.67,3,4,20,BOS,BOS,fg_miss,75,False,False,,MISS Brown 2' Driving Finger Roll Layup,76-71,76,71
 0021900285,2019-12-01,NYK,BOS,31.7,3,4,18,BOS,BOS,reb,0,False,False,,Kanter REBOUND (Off:4 Def:3),76-71,76,71
 0021900285,2019-12-01,NYK,BOS,31.7,3,4,18,BOS,BOS,fg_miss,72,True,False,,MISS Kanter 1' Putback Layup,76-71,76,71
-0021900285,2019-12-01,NYK,BOS,31.7,3,4,18,NYK,NYK,reb,0,False,False,Dotson REBOUND (Off:0 Def:3),,76-71,76,71
 0021900285,2019-12-01,NYK,BOS,31.7,3,4,18,BOS,NYK,block,72,True,False,block,block,76-71,76,71
+0021900285,2019-12-01,NYK,BOS,31.7,3,4,18,NYK,NYK,reb,0,False,False,Dotson REBOUND (Off:0 Def:3),,76-71,76,71
 0021900285,2019-12-01,NYK,BOS,31.88,3,4,7,NYK,BOS,foul,2,False,False,,Edwards S.FOUL (P3.PN) (J.Tiven),76-71,76,71
 0021900285,2019-12-01,NYK,BOS,31.88,3,4,7,NYK,NYK,ft_miss,11,False,False,MISS Barrett Free Throw 1 of 2,,76-71,76,71
 0021900285,2019-12-01,NYK,BOS,31.88,3,4,7,NYK,NYK,reb,1,False,False,KNICKS Rebound,,76-71,76,71
@@ -370,8 +370,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900285,2019-12-01,NYK,BOS,37.95,4,10,3,BOS,BOS,fg3_make,103,False,False,,Tatum 25' 3PT Running Pull-Up Jump Shot (24 PTS),87-86,87,86
 0021900285,2019-12-01,NYK,BOS,38.25,4,9,45,NYK,NYK,fg_make,86,False,False,Portis 10' Turnaround Fadeaway (7 PTS) (Dotson 3 AST),,89-86,89,86
 0021900285,2019-12-01,NYK,BOS,38.63,4,9,22,BOS,BOS,fg_miss,6,True,False,,MISS Williams 2' Driving Layup,89-86,89,86
-0021900285,2019-12-01,NYK,BOS,38.63,4,9,22,BOS,BOS,reb,0,False,False,,Celtics Rebound,89-86,89,86
 0021900285,2019-12-01,NYK,BOS,38.63,4,9,22,BOS,NYK,block,6,True,False,block,block,89-86,89,86
+0021900285,2019-12-01,NYK,BOS,38.63,4,9,22,BOS,BOS,reb,0,False,False,,Celtics Rebound,89-86,89,86
 0021900285,2019-12-01,NYK,BOS,38.67,4,9,20,BOS,BOS,fg3_miss,1,False,False,,MISS Tatum 26' 3PT Jump Shot,89-86,89,86
 0021900285,2019-12-01,NYK,BOS,38.73,4,9,16,NYK,NYK,reb,0,False,False,Robinson REBOUND (Off:1 Def:3),,89-86,89,86
 0021900285,2019-12-01,NYK,BOS,38.83,4,9,10,NYK,BOS,foul,2,False,False,,Tatum S.FOUL (P3.T1) (J.Tiven),89-86,89,86
@@ -449,11 +449,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900285,2019-12-01,NYK,BOS,46.85,4,1,9,BOS,BOS,timeout,7,False,False,,Celtics Timeout: Coach Challenge (Reg.3 Short 0),103-110,103,110
 0021900285,2019-12-01,NYK,BOS,47.05,4,0,57,BOS,BOS,fg_make,80,False,False,,Walker 13' Step Back Jump Shot (15 PTS),103-112,103,112
 0021900285,2019-12-01,NYK,BOS,47.3,4,0,42,NYK,NYK,fg_miss,6,True,False,MISS Barrett 2' Driving Layup,,103-112,103,112
+0021900285,2019-12-01,NYK,BOS,47.3,4,0,42,NYK,BOS,block,6,True,False,block,block,103-112,103,112
 0021900285,2019-12-01,NYK,BOS,47.3,4,0,42,NYK,NYK,reb,0,False,False,Randle REBOUND (Off:1 Def:4),,103-112,103,112
 0021900285,2019-12-01,NYK,BOS,47.3,4,0,42,NYK,BOS,foul,2,False,False,,Ojeleye S.FOUL (P2.PN) (M.Boland),103-112,103,112
 0021900285,2019-12-01,NYK,BOS,47.3,4,0,42,NYK,NYK,ft_miss,11,False,False,MISS Randle Free Throw 1 of 2,,103-112,103,112
 0021900285,2019-12-01,NYK,BOS,47.3,4,0,42,NYK,NYK,reb,1,False,False,KNICKS Rebound,,103-112,103,112
-0021900285,2019-12-01,NYK,BOS,47.3,4,0,42,NYK,BOS,block,6,True,False,block,block,103-112,103,112
 0021900285,2019-12-01,NYK,BOS,47.3,4,0,42,NYK,NYK,ft_make,12,False,False,Randle Free Throw 2 of 2 (26 PTS),,104-112,104,112
 0021900285,2019-12-01,NYK,BOS,47.7,4,0,18,BOS,BOS,fg_miss,101,False,False,,MISS Walker 11' Driving Floating Jump Shot,104-112,104,112
 0021900285,2019-12-01,NYK,BOS,47.75,4,0,15,BOS,BOS,reb,0,False,False,,Williams REBOUND (Off:1 Def:1),104-112,104,112

@@ -60,8 +60,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900123,2019-11-08,DEN,PHI,6.67,1,5,20,PHI,PHI,fg3_miss,1,False,False,,MISS Horford 25' 3PT Jump Shot,12-16,12,16
 0021900123,2019-11-08,DEN,PHI,6.72,1,5,17,DEN,DEN,reb,0,False,False,Millsap REBOUND (Off:0 Def:3),,12-16,12,16
 0021900123,2019-11-08,DEN,PHI,6.82,1,5,11,DEN,DEN,fg_miss,6,True,False,MISS Millsap 1' Driving Layup,,12-16,12,16
-0021900123,2019-11-08,DEN,PHI,6.82,1,5,11,PHI,PHI,reb,0,False,False,,76ers Rebound,12-16,12,16
 0021900123,2019-11-08,DEN,PHI,6.82,1,5,11,DEN,PHI,block,6,True,False,block,block,12-16,12,16
+0021900123,2019-11-08,DEN,PHI,6.82,1,5,11,PHI,PHI,reb,0,False,False,,76ers Rebound,12-16,12,16
 0021900123,2019-11-08,DEN,PHI,7.05,1,4,57,PHI,PHI,fg_miss,1,False,False,,MISS Horford 17' Jump Shot,12-16,12,16
 0021900123,2019-11-08,DEN,PHI,7.1,1,4,54,DEN,DEN,reb,0,False,False,Barton REBOUND (Off:0 Def:1),,12-16,12,16
 0021900123,2019-11-08,DEN,PHI,7.25,1,4,45,DEN,DEN,fg_miss,6,False,False,MISS Barton 4' Driving Layup,,12-16,12,16
@@ -84,8 +84,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900123,2019-11-08,DEN,PHI,8.4,1,3,36,PHI,PHI,fg_miss,1,False,False,,MISS Scott 6' Jump Shot,14-17,14,17
 0021900123,2019-11-08,DEN,PHI,8.43,1,3,34,PHI,PHI,reb,0,False,False,,Scott REBOUND (Off:1 Def:1),14-17,14,17
 0021900123,2019-11-08,DEN,PHI,8.45,1,3,33,PHI,PHI,fg_miss,72,True,False,,MISS Scott 2' Putback Layup,14-17,14,17
-0021900123,2019-11-08,DEN,PHI,8.45,1,3,33,DEN,DEN,reb,0,False,False,Barton REBOUND (Off:0 Def:3),,14-17,14,17
 0021900123,2019-11-08,DEN,PHI,8.45,1,3,33,PHI,DEN,block,72,True,False,block,block,14-17,14,17
+0021900123,2019-11-08,DEN,PHI,8.45,1,3,33,DEN,DEN,reb,0,False,False,Barton REBOUND (Off:0 Def:3),,14-17,14,17
 0021900123,2019-11-08,DEN,PHI,8.55,1,3,27,DEN,DEN,fg3_miss,79,False,False,MISS Barton 24' 3PT Pullup Jump Shot,,14-17,14,17
 0021900123,2019-11-08,DEN,PHI,8.6,1,3,24,PHI,PHI,reb,0,False,False,,Ennis III REBOUND (Off:0 Def:1),14-17,14,17
 0021900123,2019-11-08,DEN,PHI,8.72,1,3,17,PHI,PHI,fg_miss,75,True,False,,MISS Burke 2' Driving Finger Roll Layup,14-17,14,17
@@ -181,8 +181,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900123,2019-11-08,DEN,PHI,19.37,2,4,38,PHI,PHI,fg3_make,1,False,False,,Korkmaz 26' 3PT Jump Shot (6 PTS) (Neto 1 AST),34-50,34,50
 0021900123,2019-11-08,DEN,PHI,19.68,2,4,19,DEN,DEN,fg_make,99,False,False,Jokic 2' Cutting Finger Roll Layup Shot (8 PTS) (Murray 2 AST),,36-50,36,50
 0021900123,2019-11-08,DEN,PHI,19.97,2,4,2,PHI,PHI,tov,1,False,True,,O'Quinn Bad Pass Turnover (P1.T6),36-50,36,50
-0021900123,2019-11-08,DEN,PHI,19.97,2,4,2,DEN,PHI,foul,1,False,False,,O'Quinn P.FOUL (P3.T4) (B.Adair),36-50,36,50
 0021900123,2019-11-08,DEN,PHI,19.97,2,4,2,PHI,DEN,steal,1,False,True,steal,steal,36-50,36,50
+0021900123,2019-11-08,DEN,PHI,19.97,2,4,2,DEN,PHI,foul,1,False,False,,O'Quinn P.FOUL (P3.T4) (B.Adair),36-50,36,50
 0021900123,2019-11-08,DEN,PHI,20.13,2,3,52,DEN,DEN,fg_make,1,False,False,Murray 20' Jump Shot (9 PTS),,38-50,38,50
 0021900123,2019-11-08,DEN,PHI,20.17,2,3,50,PHI,PHI,timeout,1,False,False,,76ers Timeout: Regular (Reg.2 Short 0),38-50,38,50
 0021900123,2019-11-08,DEN,PHI,20.5,2,3,30,PHI,PHI,fg_miss,5,True,False,,MISS Embiid 3' Layup,38-50,38,50
@@ -230,8 +230,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900123,2019-11-08,DEN,PHI,25.1,3,10,54,DEN,DEN,fg3_miss,1,False,False,MISS Jokic 25' 3PT Jump Shot,,45-57,45,57
 0021900123,2019-11-08,DEN,PHI,25.15,3,10,51,PHI,PHI,reb,0,False,False,,Harris REBOUND (Off:1 Def:6),45-57,45,57
 0021900123,2019-11-08,DEN,PHI,25.37,3,10,38,PHI,PHI,tov,2,False,True,,Embiid Lost Ball Turnover (P4.T9),45-57,45,57
-0021900123,2019-11-08,DEN,PHI,25.37,3,10,38,DEN,PHI,foul,1,False,False,,Embiid P.FOUL (P3.T1) (B.Adair),45-57,45,57
 0021900123,2019-11-08,DEN,PHI,25.37,3,10,38,PHI,DEN,steal,2,False,True,steal,steal,45-57,45,57
+0021900123,2019-11-08,DEN,PHI,25.37,3,10,38,DEN,PHI,foul,1,False,False,,Embiid P.FOUL (P3.T1) (B.Adair),45-57,45,57
 0021900123,2019-11-08,DEN,PHI,25.63,3,10,22,DEN,DEN,fg_miss,101,False,False,MISS Harris 12' Driving Floating Jump Shot,,45-57,45,57
 0021900123,2019-11-08,DEN,PHI,25.72,3,10,17,PHI,PHI,reb,0,False,False,,Harris REBOUND (Off:1 Def:7),45-57,45,57
 0021900123,2019-11-08,DEN,PHI,25.87,3,10,8,PHI,PHI,fg3_miss,1,False,False,,MISS Embiid 24' 3PT Jump Shot,45-57,45,57
@@ -369,8 +369,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900123,2019-11-08,DEN,PHI,40.68,4,7,19,PHI,PHI,fg3_make,1,False,False,,Neto 25' 3PT Jump Shot (11 PTS) (Horford 4 AST),75-89,75,89
 0021900123,2019-11-08,DEN,PHI,40.98,4,7,1,DEN,DEN,fg_make,98,False,False,Harris 1' Cutting Layup Shot (5 PTS) (Murray 7 AST),,77-89,77,89
 0021900123,2019-11-08,DEN,PHI,41.25,4,6,45,PHI,PHI,fg_miss,6,True,False,,MISS Neto 3' Driving Layup,77-89,77,89
-0021900123,2019-11-08,DEN,PHI,41.25,4,6,45,PHI,PHI,reb,0,False,False,,76ers Rebound,77-89,77,89
 0021900123,2019-11-08,DEN,PHI,41.25,4,6,45,PHI,DEN,block,6,True,False,block,block,77-89,77,89
+0021900123,2019-11-08,DEN,PHI,41.25,4,6,45,PHI,PHI,reb,0,False,False,,76ers Rebound,77-89,77,89
 0021900123,2019-11-08,DEN,PHI,41.37,4,6,38,PHI,PHI,fg3_miss,1,False,False,,MISS Harris 25' 3PT Jump Shot,77-89,77,89
 0021900123,2019-11-08,DEN,PHI,41.43,4,6,34,DEN,DEN,reb,0,False,False,Barton REBOUND (Off:0 Def:7),,77-89,77,89
 0021900123,2019-11-08,DEN,PHI,41.48,4,6,31,DEN,PHI,foul,1,False,False,,Scott P.FOUL (P3.T1) (B.Adair),77-89,77,89
@@ -438,5 +438,5 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900123,2019-11-08,DEN,PHI,48.0,4,0,0,DEN,DEN,ft_make,11,False,False,Barton Free Throw 1 of 2 (19 PTS),,99-97,99,97
 0021900123,2019-11-08,DEN,PHI,48.0,4,0,0,DEN,DEN,ft_make,12,False,False,Barton Free Throw 2 of 2 (20 PTS),,100-97,100,97
 0021900123,2019-11-08,DEN,PHI,48.0,4,0,0,PHI,PHI,tov,1,False,True,,Richardson Bad Pass Turnover (P2.T18),100-97,100,97
-0021900123,2019-11-08,DEN,PHI,48.0,4,0,0,PHI,,period_end,0,False,False,,,100-97,100,97
 0021900123,2019-11-08,DEN,PHI,48.0,4,0,0,PHI,DEN,steal,1,False,True,steal,steal,100-97,100,97
+0021900123,2019-11-08,DEN,PHI,48.0,4,0,0,PHI,,period_end,0,False,False,,,100-97,100,97

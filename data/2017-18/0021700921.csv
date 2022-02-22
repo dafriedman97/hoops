@@ -12,9 +12,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700921,2018-02-28,LAC,HOU,1.63,1,10,22,HOU,HOU,reb,0,False,False,,Capela REBOUND (Off:0 Def:2),2-4,2,4
 0021700921,2018-02-28,LAC,HOU,1.73,1,10,16,HOU,HOU,fg_make,41,False,False,,Ariza 2' Running Layup (2 PTS) (Paul 1 AST),2-6,2,6
 0021700921,2018-02-28,LAC,HOU,2.18,1,9,49,LAC,LAC,fg_miss,1,True,False,MISS Harris 14' Jump Shot,,2-6,2,6
+0021700921,2018-02-28,LAC,HOU,2.18,1,9,49,LAC,HOU,block,1,True,False,block,block,2-6,2,6
 0021700921,2018-02-28,LAC,HOU,2.18,1,9,49,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,2-6,2,6
 0021700921,2018-02-28,LAC,HOU,2.18,1,9,49,LAC,LAC,tov,11,False,False,CLIPPERS Turnover: Shot Clock (T#1),,2-6,2,6
-0021700921,2018-02-28,LAC,HOU,2.18,1,9,49,LAC,HOU,block,1,True,False,block,block,2-6,2,6
 0021700921,2018-02-28,LAC,HOU,2.4,1,9,36,HOU,HOU,fg3_miss,1,False,False,,MISS Harden 27' 3PT Jump Shot,2-6,2,6
 0021700921,2018-02-28,LAC,HOU,2.43,1,9,34,LAC,LAC,reb,0,False,False,Jordan REBOUND (Off:1 Def:1),,2-6,2,6
 0021700921,2018-02-28,LAC,HOU,2.5,1,9,30,LAC,LAC,fg_make,6,False,False,Harris 2' Driving Layup (2 PTS) (Williams 1 AST),,4-6,4,6
@@ -37,8 +37,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700921,2018-02-28,LAC,HOU,4.32,1,7,41,LAC,LAC,fg_miss,75,False,False,MISS Rivers 3' Driving Finger Roll Layup,,5-10,5,10
 0021700921,2018-02-28,LAC,HOU,4.37,1,7,38,HOU,HOU,reb,0,False,False,,Capela REBOUND (Off:0 Def:3),5-10,5,10
 0021700921,2018-02-28,LAC,HOU,4.42,1,7,35,HOU,HOU,fg_miss,6,True,False,,MISS Tucker 2' Driving Layup,5-10,5,10
-0021700921,2018-02-28,LAC,HOU,4.42,1,7,35,HOU,HOU,reb,0,False,False,,Rockets Rebound,5-10,5,10
 0021700921,2018-02-28,LAC,HOU,4.42,1,7,35,HOU,LAC,block,6,True,False,block,block,5-10,5,10
+0021700921,2018-02-28,LAC,HOU,4.42,1,7,35,HOU,HOU,reb,0,False,False,,Rockets Rebound,5-10,5,10
 0021700921,2018-02-28,LAC,HOU,4.6,1,7,24,HOU,HOU,fg3_make,1,False,False,,Harden 24' 3PT Jump Shot (7 PTS),5-13,5,13
 0021700921,2018-02-28,LAC,HOU,4.88,1,7,7,LAC,LAC,fg_make,1,False,False,Teodosic 15' Jump Shot (2 PTS),,7-13,7,13
 0021700921,2018-02-28,LAC,HOU,5.1,1,6,54,HOU,HOU,fg_miss,5,False,False,,MISS Capela 2' Layup,7-13,7,13
@@ -255,8 +255,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700921,2018-02-28,LAC,HOU,30.18,3,5,49,HOU,HOU,tov,2,False,True,,Mbah a Moute Lost Ball Turnover (P1.T7),55-72,55,72
 0021700921,2018-02-28,LAC,HOU,30.18,3,5,49,HOU,LAC,steal,2,False,True,steal,steal,55-72,55,72
 0021700921,2018-02-28,LAC,HOU,30.28,3,5,43,LAC,LAC,fg_miss,5,True,False,MISS Williams Layup,,55-72,55,72
-0021700921,2018-02-28,LAC,HOU,30.28,3,5,43,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,55-72,55,72
 0021700921,2018-02-28,LAC,HOU,30.28,3,5,43,LAC,HOU,block,5,True,False,block,block,55-72,55,72
+0021700921,2018-02-28,LAC,HOU,30.28,3,5,43,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,55-72,55,72
 0021700921,2018-02-28,LAC,HOU,30.42,3,5,35,LAC,LAC,fg_miss,6,True,False,MISS Rivers 1' Driving Layup,,55-72,55,72
 0021700921,2018-02-28,LAC,HOU,30.42,3,5,35,LAC,HOU,block,6,True,False,block,block,55-72,55,72
 0021700921,2018-02-28,LAC,HOU,30.47,3,5,32,HOU,HOU,reb,0,False,False,,Ariza REBOUND (Off:1 Def:2),55-72,55,72
@@ -276,8 +276,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700921,2018-02-28,LAC,HOU,32.13,3,3,52,HOU,HOU,fg_miss,5,False,False,,MISS Nene 1' Layup,62-72,62,72
 0021700921,2018-02-28,LAC,HOU,32.18,3,3,49,LAC,LAC,reb,0,False,False,Thornwell REBOUND (Off:0 Def:1),,62-72,62,72
 0021700921,2018-02-28,LAC,HOU,32.3,3,3,42,LAC,LAC,fg_miss,5,False,False,MISS Rivers 9' Layup,,62-72,62,72
-0021700921,2018-02-28,LAC,HOU,32.3,3,3,42,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,62-72,62,72
 0021700921,2018-02-28,LAC,HOU,32.3,3,3,42,LAC,HOU,foul,3,False,False,,Harden L.B.FOUL (P2.PN) (S.Foster),62-72,62,72
+0021700921,2018-02-28,LAC,HOU,32.3,3,3,42,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,62-72,62,72
 0021700921,2018-02-28,LAC,HOU,32.3,3,3,42,LAC,LAC,ft_miss,11,False,False,MISS Harrell Free Throw 1 of 2,,62-72,62,72
 0021700921,2018-02-28,LAC,HOU,32.3,3,3,42,LAC,LAC,reb,1,False,False,CLIPPERS Rebound,,62-72,62,72
 0021700921,2018-02-28,LAC,HOU,32.3,3,3,42,LAC,LAC,ft_make,12,False,False,Harrell Free Throw 2 of 2 (13 PTS),,63-72,63,72
@@ -410,8 +410,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700921,2018-02-28,LAC,HOU,46.85,4,1,9,HOU,HOU,fg3_miss,1,False,False,,MISS Mbah a Moute 24' 3PT Jump Shot,87-105,87,105
 0021700921,2018-02-28,LAC,HOU,46.9,4,1,6,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:1 Def:2),,87-105,87,105
 0021700921,2018-02-28,LAC,HOU,47.02,4,0,59,LAC,LAC,fg_miss,5,True,False,MISS Harrell 1' Layup,,87-105,87,105
-0021700921,2018-02-28,LAC,HOU,47.02,4,0,59,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,87-105,87,105
 0021700921,2018-02-28,LAC,HOU,47.02,4,0,59,LAC,HOU,block,5,True,False,block,block,87-105,87,105
+0021700921,2018-02-28,LAC,HOU,47.02,4,0,59,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,87-105,87,105
 0021700921,2018-02-28,LAC,HOU,47.18,4,0,49,LAC,LAC,fg3_miss,1,False,False,MISS Williams 3PT Jump Shot,,87-105,87,105
 0021700921,2018-02-28,LAC,HOU,47.23,4,0,46,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:2 Def:2),,87-105,87,105
 0021700921,2018-02-28,LAC,HOU,47.27,4,0,44,LAC,LAC,fg_make,44,False,False,Williams 1' Reverse Layup (6 PTS) (Harrell 2 AST),,89-105,89,105

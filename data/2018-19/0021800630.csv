@@ -33,9 +33,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800630,2019-01-12,LAC,DET,4.48,1,7,31,DET,DET,ft_make,11,False,False,,Griffin Free Throw 1 of 2 (4 PTS),11-15,11,15
 0021800630,2019-01-12,LAC,DET,4.48,1,7,31,DET,DET,ft_make,12,False,False,,Griffin Free Throw 2 of 2 (5 PTS),11-16,11,16
 0021800630,2019-01-12,LAC,DET,4.73,1,7,16,LAC,LAC,fg_make,1,False,False,Gortat 11' Jump Shot (2 PTS) (Gilgeous-Alexander 2 AST),,13-16,13,16
-0021800630,2019-01-12,LAC,DET,5.03,1,6,58,DET,DET,tov,1,False,False,,Drummond Bad Pass Turnover (P1.T2),13-16,13,16
 0021800630,2019-01-12,LAC,DET,5.03,1,6,58,LAC,DET,foul,3,False,False,,Brown L.B.FOUL (P1.T2) (Z.Zarba),13-16,13,16
 0021800630,2019-01-12,LAC,DET,5.03,1,6,58,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 1 Short 0),,13-16,13,16
+0021800630,2019-01-12,LAC,DET,5.03,1,6,58,DET,DET,tov,1,False,False,,Drummond Bad Pass Turnover (P1.T2),13-16,13,16
 0021800630,2019-01-12,LAC,DET,5.18,1,6,49,LAC,LAC,fg_make,6,False,False,Gilgeous-Alexander 2' Driving Layup (4 PTS),,15-16,15,16
 0021800630,2019-01-12,LAC,DET,5.27,1,6,44,DET,LAC,foul,1,False,False,Gilgeous-Alexander P.FOUL (P1.T2) (Z.Zarba),,15-16,15,16
 0021800630,2019-01-12,LAC,DET,5.47,1,6,32,DET,DET,fg_make,71,False,False,,Griffin 1' Finger Roll Layup (7 PTS),15-18,15,18
@@ -93,11 +93,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800630,2019-01-12,LAC,DET,11.65,1,0,21,DET,DET,fg3_make,1,False,False,,Kennard 26' 3PT Jump Shot (6 PTS) (Johnson 1 AST),24-37,24,37
 0021800630,2019-01-12,LAC,DET,11.85,1,0,9,LAC,DET,foul,1,False,False,,Galloway P.FOUL (P1.T4) (Z.Zarba),24-37,24,37
 0021800630,2019-01-12,LAC,DET,12.0,1,0,0,LAC,LAC,tov,1,False,True,Wallace Bad Pass Turnover (P1.T5),,24-37,24,37
+0021800630,2019-01-12,LAC,DET,12.0,1,0,0,LAC,DET,steal,1,False,True,steal,steal,24-37,24,37
 0021800630,2019-01-12,LAC,DET,12.0,1,0,0,DET,DET,fg3_miss,1,False,False,,MISS Drummond 61' 3PT Jump Shot,24-37,24,37
 0021800630,2019-01-12,LAC,DET,12.0,1,0,0,DET,DET,reb,0,False,False,,Pistons Rebound,24-37,24,37
 0021800630,2019-01-12,LAC,DET,12.0,1,0,0,DET,,period_end,0,False,False,,,24-37,24,37
 0021800630,2019-01-12,LAC,DET,12.0,2,12,0,DET,,period_start,0,False,False,,,24-37,24,37
-0021800630,2019-01-12,LAC,DET,12.0,1,0,0,LAC,DET,steal,1,False,True,steal,steal,24-37,24,37
 0021800630,2019-01-12,LAC,DET,12.37,2,11,38,DET,DET,tov,4,False,False,,Johnson Traveling Turnover (P1.T4),24-37,24,37
 0021800630,2019-01-12,LAC,DET,12.53,2,11,28,LAC,LAC,fg_miss,79,False,False,MISS Williams 13' Pullup Jump Shot,,24-37,24,37
 0021800630,2019-01-12,LAC,DET,12.57,2,11,26,DET,DET,reb,0,False,False,,Kennard REBOUND (Off:0 Def:1),24-37,24,37
@@ -219,8 +219,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800630,2019-01-12,LAC,DET,24.0,2,0,0,DET,,period_end,0,False,False,,,54-65,54,65
 0021800630,2019-01-12,LAC,DET,24.0,3,12,0,DET,,period_start,0,False,False,,,54-65,54,65
 0021800630,2019-01-12,LAC,DET,24.3,3,11,42,DET,DET,fg_miss,6,True,False,,MISS Brown 3' Driving Layup,54-65,54,65
-0021800630,2019-01-12,LAC,DET,24.3,3,11,42,DET,DET,reb,0,False,False,,Pistons Rebound,54-65,54,65
 0021800630,2019-01-12,LAC,DET,24.3,3,11,42,DET,LAC,block,6,True,False,block,block,54-65,54,65
+0021800630,2019-01-12,LAC,DET,24.3,3,11,42,DET,DET,reb,0,False,False,,Pistons Rebound,54-65,54,65
 0021800630,2019-01-12,LAC,DET,24.38,3,11,37,DET,DET,fg3_make,1,False,False,,Griffin 26' 3PT Jump Shot (29 PTS),54-68,54,68
 0021800630,2019-01-12,LAC,DET,24.8,3,11,12,LAC,LAC,tov,2,False,True,Gallinari Lost Ball Turnover (P5.T11),,54-68,54,68
 0021800630,2019-01-12,LAC,DET,24.8,3,11,12,LAC,DET,steal,2,False,True,steal,steal,54-68,54,68
@@ -286,8 +286,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800630,2019-01-12,LAC,DET,31.47,3,4,32,LAC,LAC,ft_make,11,False,False,Harrell Free Throw 1 of 2 (13 PTS),,68-77,68,77
 0021800630,2019-01-12,LAC,DET,31.47,3,4,32,LAC,LAC,ft_make,12,False,False,Harrell Free Throw 2 of 2 (14 PTS),,69-77,69,77
 0021800630,2019-01-12,LAC,DET,31.85,3,4,9,DET,DET,fg3_miss,1,False,False,,MISS Griffin 26' 3PT Jump Shot,69-77,69,77
-0021800630,2019-01-12,LAC,DET,31.87,3,4,8,DET,DET,reb,0,False,False,,Pistons Rebound,69-77,69,77
 0021800630,2019-01-12,LAC,DET,31.87,3,4,8,DET,DET,tov,11,False,False,,Pistons Turnover: Shot Clock (T#12),69-77,69,77
+0021800630,2019-01-12,LAC,DET,31.87,3,4,8,DET,DET,reb,0,False,False,,Pistons Rebound,69-77,69,77
 0021800630,2019-01-12,LAC,DET,32.12,3,3,53,LAC,LAC,fg3_miss,1,False,False,MISS Gallinari 28' 3PT Jump Shot,,69-77,69,77
 0021800630,2019-01-12,LAC,DET,32.17,3,3,50,DET,DET,reb,0,False,False,,Griffin REBOUND (Off:0 Def:4),69-77,69,77
 0021800630,2019-01-12,LAC,DET,32.22,3,3,47,DET,LAC,foul,2,False,False,Gallinari S.FOUL (P2.T3) (C.Blair),,69-77,69,77
@@ -427,8 +427,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800630,2019-01-12,LAC,DET,47.45,4,0,33,LAC,LAC,reb,0,False,False,Gallinari REBOUND (Off:0 Def:6),,104-107,104,107
 0021800630,2019-01-12,LAC,DET,47.45,4,0,33,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 6 Short 0),,104-107,104,107
 0021800630,2019-01-12,LAC,DET,47.53,4,0,28,LAC,LAC,tov,1,False,True,Harrell Bad Pass Turnover (P2.T16),,104-107,104,107
-0021800630,2019-01-12,LAC,DET,47.53,4,0,28,DET,DET,tov,39,False,False,,Griffin Step Out of Bounds Turnover (P4.T18),104-107,104,107
 0021800630,2019-01-12,LAC,DET,47.53,4,0,28,LAC,DET,steal,1,False,True,steal,steal,104-107,104,107
+0021800630,2019-01-12,LAC,DET,47.53,4,0,28,DET,DET,tov,39,False,False,,Griffin Step Out of Bounds Turnover (P4.T18),104-107,104,107
 0021800630,2019-01-12,LAC,DET,47.65,4,0,21,LAC,LAC,tov,1,False,True,Williams Bad Pass Turnover (P4.T17),,104-107,104,107
 0021800630,2019-01-12,LAC,DET,47.65,4,0,21,LAC,DET,steal,1,False,True,steal,steal,104-107,104,107
 0021800630,2019-01-12,LAC,DET,47.67,4,0,20,DET,LAC,foul,28,False,False,Gallinari Personal Take Foul (P3.PN) (A.Smith),,104-107,104,107

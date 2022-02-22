@@ -60,9 +60,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700776,2018-02-03,DET,MIA,7.27,1,4,44,MIA,MIA,fg3_miss,1,False,False,,MISS Ellington 24' 3PT Jump Shot,15-11,15,11
 0021700776,2018-02-03,DET,MIA,7.27,1,4,44,DET,DET,reb,0,False,False,Smith REBOUND (Off:0 Def:3),,15-11,15,11
 0021700776,2018-02-03,DET,MIA,7.45,1,4,33,DET,DET,fg_miss,5,False,False,MISS Ellenson 3' Layup,,15-11,15,11
+0021700776,2018-02-03,DET,MIA,7.5,1,4,30,DET,DET,reb,0,False,False,Griffin REBOUND (Off:2 Def:1),,15-11,15,11
 0021700776,2018-02-03,DET,MIA,7.5,1,4,30,DET,DET,fg_miss,97,False,False,MISS Griffin 1' Tip Layup Shot,,15-11,15,11
 0021700776,2018-02-03,DET,MIA,7.5,1,4,30,DET,DET,reb,0,False,False,Griffin REBOUND (Off:1 Def:1),,15-11,15,11
-0021700776,2018-02-03,DET,MIA,7.5,1,4,30,DET,DET,reb,0,False,False,Griffin REBOUND (Off:2 Def:1),,15-11,15,11
 0021700776,2018-02-03,DET,MIA,7.52,1,4,29,DET,DET,fg_miss,97,False,False,MISS Griffin 2' Tip Layup Shot,,15-11,15,11
 0021700776,2018-02-03,DET,MIA,7.52,1,4,29,DET,DET,reb,0,False,False,Griffin REBOUND (Off:4 Def:1),,15-11,15,11
 0021700776,2018-02-03,DET,MIA,7.53,1,4,28,DET,DET,fg_miss,97,False,False,MISS Griffin 1' Tip Layup Shot,,15-11,15,11
@@ -132,8 +132,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700776,2018-02-03,DET,MIA,13.72,2,10,17,DET,DET,fg3_miss,1,False,False,MISS Bullock 26' 3PT Jump Shot,,27-32,27,32
 0021700776,2018-02-03,DET,MIA,13.77,2,10,14,DET,DET,reb,0,False,False,Drummond REBOUND (Off:2 Def:6),,27-32,27,32
 0021700776,2018-02-03,DET,MIA,13.77,2,10,14,DET,DET,tov,2,False,True,Drummond Lost Ball Turnover (P2.T5),,27-32,27,32
-0021700776,2018-02-03,DET,MIA,13.77,2,10,14,MIA,DET,foul,1,False,False,Drummond P.FOUL (P2.T2) (J.Goble),,27-32,27,32
 0021700776,2018-02-03,DET,MIA,13.77,2,10,14,DET,MIA,steal,2,False,True,steal,steal,27-32,27,32
+0021700776,2018-02-03,DET,MIA,13.77,2,10,14,MIA,DET,foul,1,False,False,Drummond P.FOUL (P2.T2) (J.Goble),,27-32,27,32
 0021700776,2018-02-03,DET,MIA,14.13,2,9,52,MIA,MIA,tov,2,False,True,,Olynyk Lost Ball Turnover (P1.T2),27-32,27,32
 0021700776,2018-02-03,DET,MIA,14.13,2,9,52,MIA,DET,steal,2,False,True,steal,steal,27-32,27,32
 0021700776,2018-02-03,DET,MIA,14.27,2,9,44,DET,DET,tov,2,False,True,Drummond Lost Ball Turnover (P3.T6),,27-32,27,32
@@ -318,8 +318,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700776,2018-02-03,DET,MIA,36.0,3,0,0,DET,,period_end,0,False,False,,,76-77,76,77
 0021700776,2018-02-03,DET,MIA,36.0,4,12,0,DET,,period_start,0,False,False,,,76-77,76,77
 0021700776,2018-02-03,DET,MIA,36.2,4,11,48,DET,DET,tov,1,False,True,Johnson Bad Pass Turnover (P3.T14),,76-77,76,77
-0021700776,2018-02-03,DET,MIA,36.2,4,11,48,MIA,MIA,tov,45,False,False,,Johnson Out of Bounds - Bad Pass Turnover Turnover (P2.T10),76-77,76,77
 0021700776,2018-02-03,DET,MIA,36.2,4,11,48,DET,MIA,steal,1,False,True,steal,steal,76-77,76,77
+0021700776,2018-02-03,DET,MIA,36.2,4,11,48,MIA,MIA,tov,45,False,False,,Johnson Out of Bounds - Bad Pass Turnover Turnover (P2.T10),76-77,76,77
 0021700776,2018-02-03,DET,MIA,36.33,4,11,40,DET,DET,fg_make,79,False,False,Galloway 15' Pullup Jump Shot (11 PTS) (Tolliver 1 AST),,78-77,78,77
 0021700776,2018-02-03,DET,MIA,36.62,4,11,23,MIA,MIA,tov,1,False,True,,Johnson Bad Pass Turnover (P3.T11),78-77,78,77
 0021700776,2018-02-03,DET,MIA,36.62,4,11,23,MIA,DET,steal,1,False,True,steal,steal,78-77,78,77

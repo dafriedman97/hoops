@@ -66,8 +66,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000111,2021-01-06,MIA,BOS,8.08,1,3,55,BOS,BOS,fg_make,98,False,False,,Theis 4' Cutting Layup Shot (5 PTS) (Brown 3 AST),19-28,19,28
 0022000111,2021-01-06,MIA,BOS,8.28,1,3,43,MIA,MIA,fg_miss,7,True,False,MISS Achiuwa 12' Dunk,,19-28,19,28
 0022000111,2021-01-06,MIA,BOS,8.28,1,3,43,MIA,BOS,block,7,True,False,block,block,19-28,19,28
-0022000111,2021-01-06,MIA,BOS,8.3,1,3,42,BOS,BOS,reb,0,False,False,,Celtics Rebound,19-28,19,28
 0022000111,2021-01-06,MIA,BOS,8.3,1,3,42,,MIA,jump_ball,0,False,False,Jump Ball Achiuwa vs. Theis: Tip to Ojeleye,,19-28,19,28
+0022000111,2021-01-06,MIA,BOS,8.3,1,3,42,BOS,BOS,reb,0,False,False,,Celtics Rebound,19-28,19,28
 0022000111,2021-01-06,MIA,BOS,8.45,1,3,33,BOS,BOS,fg_make,1,False,False,,Theis 5' Jump Shot (7 PTS) (Brown 4 AST),19-30,19,30
 0022000111,2021-01-06,MIA,BOS,8.63,1,3,22,MIA,MIA,fg3_miss,1,False,False,MISS Herro 25' 3PT Jump Shot,,19-30,19,30
 0022000111,2021-01-06,MIA,BOS,8.68,1,3,19,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:0 Def:3),19-30,19,30
@@ -126,9 +126,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000111,2021-01-06,MIA,BOS,15.3,2,8,42,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 2 Short 0),,28-43,28,43
 0022000111,2021-01-06,MIA,BOS,15.43,2,8,34,MIA,BOS,foul,1,False,False,,Williams P.FOUL (P1.T3) (G.Petraitis),28-43,28,43
 0022000111,2021-01-06,MIA,BOS,15.72,2,8,17,MIA,MIA,fg_miss,1,True,False,MISS Adebayo 18' Jump Shot,,28-43,28,43
+0022000111,2021-01-06,MIA,BOS,15.72,2,8,17,MIA,BOS,block,1,True,False,block,block,28-43,28,43
 0022000111,2021-01-06,MIA,BOS,15.72,2,8,17,MIA,MIA,reb,0,False,False,HEAT Rebound,,28-43,28,43
 0022000111,2021-01-06,MIA,BOS,15.72,2,8,17,MIA,MIA,tov,11,False,False,HEAT Turnover: Shot Clock (T#4),,28-43,28,43
-0022000111,2021-01-06,MIA,BOS,15.72,2,8,17,MIA,BOS,block,1,True,False,block,block,28-43,28,43
 0022000111,2021-01-06,MIA,BOS,15.97,2,8,2,BOS,MIA,foul,1,False,False,Adebayo P.FOUL (P2.T2) (B.Forte),,28-43,28,43
 0022000111,2021-01-06,MIA,BOS,16.18,2,7,49,BOS,BOS,fg3_miss,1,False,False,,MISS Ojeleye 27' 3PT Jump Shot,28-43,28,43
 0022000111,2021-01-06,MIA,BOS,16.23,2,7,46,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:0 Def:1),,28-43,28,43
@@ -247,10 +247,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000111,2021-01-06,MIA,BOS,28.35,3,7,39,BOS,BOS,fg3_miss,1,False,False,,MISS Williams 26' 3PT Jump Shot,60-59,60,59
 0022000111,2021-01-06,MIA,BOS,28.42,3,7,35,MIA,MIA,reb,0,False,False,Herro REBOUND (Off:0 Def:6),,60-59,60,59
 0022000111,2021-01-06,MIA,BOS,28.62,3,7,23,MIA,MIA,fg_make,6,False,False,Butler 3' Driving Layup (18 PTS),,62-59,62,59
-0022000111,2021-01-06,MIA,BOS,28.92,3,7,5,BOS,BOS,fg_miss,6,True,False,,MISS Brown 6' Driving Layup,62-59,62,59
-0022000111,2021-01-06,MIA,BOS,28.92,3,7,5,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:2 Def:4),,62-59,62,59
 0022000111,2021-01-06,MIA,BOS,28.92,3,7,5,MIA,BOS,foul,1,False,False,,Brown P.FOUL (P1.T2) (B.Adair),62-59,62,59
+0022000111,2021-01-06,MIA,BOS,28.92,3,7,5,BOS,BOS,fg_miss,6,True,False,,MISS Brown 6' Driving Layup,62-59,62,59
 0022000111,2021-01-06,MIA,BOS,28.92,3,7,5,BOS,MIA,block,6,True,False,block,block,62-59,62,59
+0022000111,2021-01-06,MIA,BOS,28.92,3,7,5,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:2 Def:4),,62-59,62,59
 0022000111,2021-01-06,MIA,BOS,29.08,3,6,55,MIA,MIA,fg_miss,6,True,False,MISS Butler 3' Driving Layup,,62-59,62,59
 0022000111,2021-01-06,MIA,BOS,29.08,3,6,55,MIA,BOS,block,6,True,False,block,block,62-59,62,59
 0022000111,2021-01-06,MIA,BOS,29.13,3,6,52,BOS,BOS,reb,0,False,False,,Thompson REBOUND (Off:1 Def:4),62-59,62,59
@@ -308,8 +308,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000111,2021-01-06,MIA,BOS,36.23,4,11,46,MIA,BOS,foul,1,False,False,,Brown P.FOUL (P3.T1) (B.Forte),80-80,80,80
 0022000111,2021-01-06,MIA,BOS,36.32,4,11,41,MIA,MIA,fg_make,6,False,False,Adebayo 3' Driving Layup (13 PTS) (Robinson 1 AST),,82-80,82,80
 0022000111,2021-01-06,MIA,BOS,36.5,4,11,30,BOS,BOS,fg_miss,6,True,False,,MISS Brown 4' Driving Layup,82-80,82,80
-0022000111,2021-01-06,MIA,BOS,36.5,4,11,30,BOS,BOS,reb,0,False,False,,Celtics Rebound,82-80,82,80
 0022000111,2021-01-06,MIA,BOS,36.5,4,11,30,BOS,MIA,block,6,True,False,block,block,82-80,82,80
+0022000111,2021-01-06,MIA,BOS,36.5,4,11,30,BOS,BOS,reb,0,False,False,,Celtics Rebound,82-80,82,80
 0022000111,2021-01-06,MIA,BOS,36.72,4,11,17,BOS,BOS,fg3_miss,1,False,False,,MISS Edwards 3PT Jump Shot,82-80,82,80
 0022000111,2021-01-06,MIA,BOS,36.77,4,11,14,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:0 Def:6),,82-80,82,80
 0022000111,2021-01-06,MIA,BOS,36.9,4,11,6,MIA,MIA,fg_make,1,False,False,Adebayo 13' Jump Shot (15 PTS) (Robinson 2 AST),,84-80,84,80
@@ -317,8 +317,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000111,2021-01-06,MIA,BOS,37.23,4,10,46,BOS,BOS,ft_make,11,False,False,,Williams III Free Throw 1 of 2 (7 PTS),84-81,84,81
 0022000111,2021-01-06,MIA,BOS,37.23,4,10,46,BOS,BOS,ft_make,12,False,False,,Williams III Free Throw 2 of 2 (8 PTS),84-82,84,82
 0022000111,2021-01-06,MIA,BOS,37.6,4,10,24,MIA,MIA,fg_miss,101,True,False,MISS Bradley 10' Driving Floating Jump Shot,,84-82,84,82
-0022000111,2021-01-06,MIA,BOS,37.6,4,10,24,MIA,MIA,reb,0,False,False,HEAT Rebound,,84-82,84,82
 0022000111,2021-01-06,MIA,BOS,37.6,4,10,24,MIA,BOS,block,101,True,False,block,block,84-82,84,82
+0022000111,2021-01-06,MIA,BOS,37.6,4,10,24,MIA,MIA,reb,0,False,False,HEAT Rebound,,84-82,84,82
 0022000111,2021-01-06,MIA,BOS,37.65,4,10,21,MIA,MIA,fg_miss,1,True,False,MISS Adebayo 16' Jump Shot,,84-82,84,82
 0022000111,2021-01-06,MIA,BOS,37.65,4,10,21,MIA,BOS,block,1,True,False,block,block,84-82,84,82
 0022000111,2021-01-06,MIA,BOS,37.7,4,10,18,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:1 Def:8),84-82,84,82
@@ -356,9 +356,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000111,2021-01-06,MIA,BOS,41.42,4,6,35,BOS,BOS,fg_miss,97,False,False,,MISS Pritchard Tip Layup Shot,91-90,91,90
 0022000111,2021-01-06,MIA,BOS,41.42,4,6,35,BOS,BOS,reb,0,False,False,,Pritchard REBOUND (Off:3 Def:2),91-90,91,90
 0022000111,2021-01-06,MIA,BOS,41.42,4,6,35,BOS,BOS,fg_miss,5,True,False,,MISS Pritchard 3' Layup,91-90,91,90
+0022000111,2021-01-06,MIA,BOS,41.42,4,6,35,BOS,MIA,block,5,True,False,block,block,91-90,91,90
 0022000111,2021-01-06,MIA,BOS,41.42,4,6,35,MIA,MIA,reb,0,False,False,HEAT Rebound,,91-90,91,90
 0022000111,2021-01-06,MIA,BOS,41.42,4,6,35,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 4 Short 0),,91-90,91,90
-0022000111,2021-01-06,MIA,BOS,41.42,4,6,35,BOS,MIA,block,5,True,False,block,block,91-90,91,90
 0022000111,2021-01-06,MIA,BOS,41.58,4,6,25,MIA,BOS,foul,2,False,False,,Tatum S.FOUL (P3.T3) (G.Petraitis),91-90,91,90
 0022000111,2021-01-06,MIA,BOS,41.58,4,6,25,MIA,MIA,ft_make,11,False,False,Butler Free Throw 1 of 2 (23 PTS),,92-90,92,90
 0022000111,2021-01-06,MIA,BOS,41.58,4,6,25,MIA,MIA,ft_make,12,False,False,Butler Free Throw 2 of 2 (24 PTS),,93-90,93,90
@@ -410,9 +410,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000111,2021-01-06,MIA,BOS,47.37,4,0,38,MIA,BOS,foul,2,False,False,,Tatum S.FOUL (P4.PN) (G.Petraitis),101-105,101,105
 0022000111,2021-01-06,MIA,BOS,47.37,4,0,38,MIA,MIA,ft_make,10,False,False,Robinson Free Throw 1 of 1 (16 PTS),,102-105,102,105
 0022000111,2021-01-06,MIA,BOS,47.5,4,0,30,BOS,BOS,fg_miss,73,True,False,,MISS Smart 2' Driving Reverse Layup,102-105,102,105
+0022000111,2021-01-06,MIA,BOS,47.5,4,0,30,BOS,MIA,block,73,True,False,block,block,102-105,102,105
 0022000111,2021-01-06,MIA,BOS,47.5,4,0,30,BOS,BOS,reb,0,False,False,,Celtics Rebound,102-105,102,105
 0022000111,2021-01-06,MIA,BOS,47.5,4,0,30,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.6 Short 0),102-105,102,105
-0022000111,2021-01-06,MIA,BOS,47.5,4,0,30,BOS,MIA,block,73,True,False,block,block,102-105,102,105
 0022000111,2021-01-06,MIA,BOS,47.58,4,0,25,BOS,BOS,fg_miss,98,False,False,,MISS Theis 3' Cutting Layup Shot,102-105,102,105
 0022000111,2021-01-06,MIA,BOS,47.67,4,0,20,MIA,MIA,reb,0,False,False,Herro REBOUND (Off:0 Def:7),,102-105,102,105
 0022000111,2021-01-06,MIA,BOS,47.73,4,0,16,MIA,MIA,fg3_miss,1,False,False,MISS Dragic 26' 3PT Jump Shot,,102-105,102,105

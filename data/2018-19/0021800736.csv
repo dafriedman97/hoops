@@ -147,8 +147,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800736,2019-01-27,LAC,SAC,16.15,2,7,51,LAC,LAC,fg_miss,76,False,False,MISS Williams 3' Running Finger Roll Layup,,51-28,51,28
 0021800736,2019-01-27,LAC,SAC,16.15,2,7,51,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:2 Def:0),,51-28,51,28
 0021800736,2019-01-27,LAC,SAC,16.35,2,7,39,LAC,LAC,tov,1,False,True,Scott Bad Pass Turnover (P2.T5),,51-28,51,28
-0021800736,2019-01-27,LAC,SAC,16.35,2,7,39,SAC,LAC,foul,28,False,False,Williams Personal Take Foul (P1.T3) (J.Goble),,51-28,51,28
 0021800736,2019-01-27,LAC,SAC,16.35,2,7,39,LAC,SAC,steal,1,False,True,steal,steal,51-28,51,28
+0021800736,2019-01-27,LAC,SAC,16.35,2,7,39,SAC,LAC,foul,28,False,False,Williams Personal Take Foul (P1.T3) (J.Goble),,51-28,51,28
 0021800736,2019-01-27,LAC,SAC,16.52,2,7,29,SAC,SAC,fg_miss,79,False,False,,MISS Bogdanovic 15' Pullup Jump Shot,51-28,51,28
 0021800736,2019-01-27,LAC,SAC,16.55,2,7,27,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:2 Def:1),,51-28,51,28
 0021800736,2019-01-27,LAC,SAC,16.73,2,7,16,LAC,LAC,fg_make,108,False,False,Gilgeous-Alexander 3' Cutting Dunk Shot (6 PTS) (Harrell 1 AST),,53-28,53,28
@@ -218,9 +218,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800736,2019-01-27,LAC,SAC,22.63,2,1,22,SAC,SAC,fg_miss,47,False,False,,MISS Hield 18' Turnaround Jump Shot,67-47,67,47
 0021800736,2019-01-27,LAC,SAC,22.68,2,1,19,LAC,LAC,reb,0,False,False,Beverley REBOUND (Off:0 Def:2),,67-47,67,47
 0021800736,2019-01-27,LAC,SAC,22.75,2,1,15,LAC,LAC,fg_miss,41,True,False,MISS Williams 2' Running Layup,,67-47,67,47
+0021800736,2019-01-27,LAC,SAC,22.75,2,1,15,LAC,SAC,block,41,True,False,block,block,67-47,67,47
 0021800736,2019-01-27,LAC,SAC,22.75,2,1,15,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,67-47,67,47
 0021800736,2019-01-27,LAC,SAC,22.75,2,1,15,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 3 Short 0),,67-47,67,47
-0021800736,2019-01-27,LAC,SAC,22.75,2,1,15,LAC,SAC,block,41,True,False,block,block,67-47,67,47
 0021800736,2019-01-27,LAC,SAC,22.82,2,1,11,LAC,LAC,fg3_miss,1,False,False,MISS Williams 25' 3PT Jump Shot,,67-47,67,47
 0021800736,2019-01-27,LAC,SAC,22.87,2,1,8,SAC,SAC,reb,0,False,False,,Jackson REBOUND (Off:0 Def:3),67-47,67,47
 0021800736,2019-01-27,LAC,SAC,23.1,2,0,54,SAC,SAC,tov,1,False,True,,Jackson Bad Pass Turnover (P2.T6),67-47,67,47
@@ -232,10 +232,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800736,2019-01-27,LAC,SAC,23.4,2,0,36,SAC,SAC,reb,0,False,False,,Cauley-Stein REBOUND (Off:1 Def:3),67-49,67,49
 0021800736,2019-01-27,LAC,SAC,23.6,2,0,24,SAC,SAC,fg_make,58,False,False,,Bagley III 5' Turnaround Hook Shot (6 PTS) (Fox 2 AST),67-51,67,51
 0021800736,2019-01-27,LAC,SAC,23.98,2,0,1,LAC,LAC,fg3_miss,1,False,False,MISS Williams 25' 3PT Jump Shot,,67-51,67,51
-0021800736,2019-01-27,LAC,SAC,24.0,2,0,0,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,67-51,67,51
-0021800736,2019-01-27,LAC,SAC,24.0,2,0,0,LAC,LAC,tov,11,False,False,CLIPPERS Turnover: Shot Clock (T#9),,67-51,67,51
 0021800736,2019-01-27,LAC,SAC,24.0,2,0,0,LAC,,period_end,0,False,False,,,67-51,67,51
 0021800736,2019-01-27,LAC,SAC,24.0,3,12,0,LAC,,period_start,0,False,False,,,67-51,67,51
+0021800736,2019-01-27,LAC,SAC,24.0,2,0,0,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,67-51,67,51
+0021800736,2019-01-27,LAC,SAC,24.0,2,0,0,LAC,LAC,tov,11,False,False,CLIPPERS Turnover: Shot Clock (T#9),,67-51,67,51
 0021800736,2019-01-27,LAC,SAC,24.32,3,11,41,SAC,SAC,fg3_make,1,False,False,,Fox 25' 3PT Jump Shot (14 PTS) (Cauley-Stein 1 AST),67-54,67,54
 0021800736,2019-01-27,LAC,SAC,24.68,3,11,19,LAC,LAC,fg3_miss,1,False,False,MISS Harris 27' 3PT Jump Shot,,67-54,67,54
 0021800736,2019-01-27,LAC,SAC,24.73,3,11,16,SAC,SAC,reb,0,False,False,,Cauley-Stein REBOUND (Off:1 Def:4),67-54,67,54
@@ -426,8 +426,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800736,2019-01-27,LAC,SAC,43.55,4,4,27,SAC,LAC,foul,2,False,False,Bradley S.FOUL (P4.PN) (K.Mauer),,108-96,108,96
 0021800736,2019-01-27,LAC,SAC,43.55,4,4,27,SAC,SAC,ft_make,10,False,False,,Bogdanovic Free Throw 1 of 1 (15 PTS),108-97,108,97
 0021800736,2019-01-27,LAC,SAC,43.77,4,4,14,LAC,LAC,fg_miss,6,True,False,MISS Harris 3' Driving Layup,,108-97,108,97
-0021800736,2019-01-27,LAC,SAC,43.77,4,4,14,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,108-97,108,97
 0021800736,2019-01-27,LAC,SAC,43.77,4,4,14,LAC,SAC,block,6,True,False,block,block,108-97,108,97
+0021800736,2019-01-27,LAC,SAC,43.77,4,4,14,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,108-97,108,97
 0021800736,2019-01-27,LAC,SAC,43.82,4,4,11,LAC,LAC,fg_make,108,False,False,Harrell 2' Cutting Dunk Shot (24 PTS) (Williams 10 AST),,110-97,110,97
 0021800736,2019-01-27,LAC,SAC,44.03,4,3,58,SAC,LAC,foul,2,False,False,Beverley S.FOUL (P4.PN) (K.Scott),,110-97,110,97
 0021800736,2019-01-27,LAC,SAC,44.03,4,3,58,SAC,SAC,ft_miss,11,False,False,,MISS Fox Free Throw 1 of 2,110-97,110,97

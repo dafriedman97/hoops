@@ -86,9 +86,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000495,2021-02-24,OKC,SAS,9.35,1,2,39,OKC,OKC,tov,1,False,True,Diallo Bad Pass Turnover (P1.T2),,22-14,22,14
 0022000495,2021-02-24,OKC,SAS,9.35,1,2,39,OKC,SAS,steal,1,False,True,steal,steal,22-14,22,14
 0022000495,2021-02-24,OKC,SAS,9.42,1,2,35,SAS,SAS,fg_miss,6,True,False,,MISS Eubanks 4' Driving Layup,22-14,22,14
+0022000495,2021-02-24,OKC,SAS,9.42,1,2,35,SAS,OKC,block,6,True,False,block,block,22-14,22,14
 0022000495,2021-02-24,OKC,SAS,9.42,1,2,35,SAS,SAS,reb,0,False,False,,Spurs Rebound,22-14,22,14
 0022000495,2021-02-24,OKC,SAS,9.42,1,2,35,SAS,SAS,tov,39,False,False,,Eubanks Step Out of Bounds Turnover (P1.T3),22-14,22,14
-0022000495,2021-02-24,OKC,SAS,9.42,1,2,35,SAS,OKC,block,6,True,False,block,block,22-14,22,14
 0022000495,2021-02-24,OKC,SAS,9.62,1,2,23,OKC,OKC,fg_miss,5,False,False,MISS Diallo 7' Layup,,22-14,22,14
 0022000495,2021-02-24,OKC,SAS,9.62,1,2,23,SAS,SAS,reb,0,False,False,,Bates-Diop REBOUND (Off:1 Def:1),22-14,22,14
 0022000495,2021-02-24,OKC,SAS,9.87,1,2,8,SAS,SAS,fg_make,79,False,False,,Mills 21' Pullup Jump Shot (2 PTS) (Eubanks 1 AST),22-16,22,16
@@ -267,8 +267,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000495,2021-02-24,OKC,SAS,30.35,3,5,39,SAS,SAS,fg3_make,1,False,False,,Lyles 25' 3PT Jump Shot (8 PTS) (Walker IV 1 AST),59-65,59,65
 0022000495,2021-02-24,OKC,SAS,30.78,3,5,13,OKC,OKC,fg3_make,1,False,False,Gilgeous-Alexander 27' 3PT Jump Shot (29 PTS) (Horford 5 AST),,62-65,62,65
 0022000495,2021-02-24,OKC,SAS,31.22,3,4,47,SAS,SAS,fg_miss,79,True,False,,MISS Walker IV 19' Pullup Jump Shot,62-65,62,65
-0022000495,2021-02-24,OKC,SAS,31.22,3,4,47,SAS,SAS,reb,0,False,False,,Spurs Rebound,62-65,62,65
 0022000495,2021-02-24,OKC,SAS,31.22,3,4,47,SAS,OKC,block,79,True,False,block,block,62-65,62,65
+0022000495,2021-02-24,OKC,SAS,31.22,3,4,47,SAS,SAS,reb,0,False,False,,Spurs Rebound,62-65,62,65
 0022000495,2021-02-24,OKC,SAS,31.27,3,4,44,SAS,SAS,tov,11,False,False,,Spurs Turnover: Shot Clock (T#7),62-65,62,65
 0022000495,2021-02-24,OKC,SAS,31.42,3,4,35,OKC,OKC,fg3_make,79,False,False,Gilgeous-Alexander 25' 3PT Pullup Jump Shot (32 PTS),,65-65,65,65
 0022000495,2021-02-24,OKC,SAS,31.62,3,4,23,SAS,SAS,fg3_miss,79,False,False,,MISS Mills 26' 3PT Pullup Jump Shot,65-65,65,65
@@ -331,8 +331,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000495,2021-02-24,OKC,SAS,36.98,4,11,1,OKC,OKC,fg_miss,41,False,False,MISS Williams 5' Running Layup,,76-75,76,75
 0022000495,2021-02-24,OKC,SAS,37.03,4,10,58,SAS,SAS,reb,0,False,False,,Bates-Diop REBOUND (Off:1 Def:2),76-75,76,75
 0022000495,2021-02-24,OKC,SAS,37.17,4,10,50,SAS,SAS,fg_miss,3,False,False,,MISS Eubanks 5' Hook Shot,76-75,76,75
-0022000495,2021-02-24,OKC,SAS,37.25,4,10,45,SAS,SAS,fg_make,97,False,False,,Bates-Diop Tip Layup Shot (7 PTS),76-77,76,77
 0022000495,2021-02-24,OKC,SAS,37.25,4,10,45,SAS,SAS,reb,0,False,False,,Bates-Diop REBOUND (Off:2 Def:2),76-77,76,77
+0022000495,2021-02-24,OKC,SAS,37.25,4,10,45,SAS,SAS,fg_make,97,False,False,,Bates-Diop Tip Layup Shot (7 PTS),76-77,76,77
 0022000495,2021-02-24,OKC,SAS,37.53,4,10,28,OKC,OKC,fg3_miss,1,False,False,MISS Roby 3PT Jump Shot,,76-77,76,77
 0022000495,2021-02-24,OKC,SAS,37.57,4,10,26,SAS,SAS,reb,0,False,False,,Aldridge REBOUND (Off:0 Def:6),76-77,76,77
 0022000495,2021-02-24,OKC,SAS,37.7,4,10,18,SAS,SAS,fg_make,98,False,False,,Eubanks 8' Cutting Layup Shot (2 PTS) (Murray 4 AST),76-79,76,79

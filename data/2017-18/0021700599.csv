@@ -71,8 +71,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700599,2018-01-09,TOR,MIA,8.03,1,3,58,MIA,TOR,block,6,True,False,block,block,17-14,17,14
 0021700599,2018-01-09,TOR,MIA,8.08,1,3,55,MIA,MIA,reb,0,False,False,,Whiteside REBOUND (Off:3 Def:5),17-14,17,14
 0021700599,2018-01-09,TOR,MIA,8.1,1,3,54,MIA,MIA,fg_miss,1,True,False,,MISS Whiteside 2' Jump Shot,17-14,17,14
-0021700599,2018-01-09,TOR,MIA,8.1,1,3,54,TOR,TOR,reb,0,False,False,Wright REBOUND (Off:0 Def:1),,17-14,17,14
 0021700599,2018-01-09,TOR,MIA,8.1,1,3,54,MIA,TOR,block,1,True,False,block,block,17-14,17,14
+0021700599,2018-01-09,TOR,MIA,8.1,1,3,54,TOR,TOR,reb,0,False,False,Wright REBOUND (Off:0 Def:1),,17-14,17,14
 0021700599,2018-01-09,TOR,MIA,8.27,1,3,44,TOR,TOR,fg_miss,101,False,False,MISS DeRozan 4' Driving Floating Jump Shot,,17-14,17,14
 0021700599,2018-01-09,TOR,MIA,8.27,1,3,44,MIA,MIA,reb,0,False,False,,Jones Jr. REBOUND (Off:0 Def:2),17-14,17,14
 0021700599,2018-01-09,TOR,MIA,8.37,1,3,38,MIA,MIA,fg3_make,1,False,False,,Ellington 25' 3PT Jump Shot (3 PTS) (Dragic 1 AST),17-17,17,17
@@ -250,8 +250,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700599,2018-01-09,TOR,MIA,25.98,3,10,1,MIA,TOR,steal,2,False,True,steal,steal,45-53,45,53
 0021700599,2018-01-09,TOR,MIA,26.12,3,9,53,TOR,TOR,fg_make,47,False,False,DeRozan 11' Turnaround Jump Shot (12 PTS),,47-53,47,53
 0021700599,2018-01-09,TOR,MIA,26.57,3,9,26,MIA,MIA,fg3_miss,1,False,False,,MISS Richardson 31' 3PT Jump Shot,47-53,47,53
-0021700599,2018-01-09,TOR,MIA,26.57,3,9,26,MIA,MIA,reb,0,False,False,,Heat Rebound,47-53,47,53
 0021700599,2018-01-09,TOR,MIA,26.57,3,9,26,MIA,MIA,tov,11,False,False,,Heat Turnover: Shot Clock (T#6),47-53,47,53
+0021700599,2018-01-09,TOR,MIA,26.57,3,9,26,MIA,MIA,reb,0,False,False,,Heat Rebound,47-53,47,53
 0021700599,2018-01-09,TOR,MIA,26.8,3,9,12,TOR,TOR,fg3_make,1,False,False,Ibaka 26' 3PT Jump Shot (11 PTS) (Wright 3 AST),,50-53,50,53
 0021700599,2018-01-09,TOR,MIA,26.82,3,9,11,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.3 Short 0),50-53,50,53
 0021700599,2018-01-09,TOR,MIA,27.08,3,8,55,TOR,MIA,foul,4,False,False,,Whiteside OFF.Foul (P2) (T.Brown),50-53,50,53
@@ -263,11 +263,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700599,2018-01-09,TOR,MIA,27.73,3,8,16,MIA,MIA,reb,0,False,False,,Heat Rebound,52-53,52,53
 0021700599,2018-01-09,TOR,MIA,27.97,3,8,2,MIA,MIA,fg_make,101,False,False,,Johnson 4' Driving Floating Jump Shot (4 PTS),52-55,52,55
 0021700599,2018-01-09,TOR,MIA,28.17,3,7,50,TOR,TOR,fg_miss,101,True,False,MISS Anunoby 12' Driving Floating Jump Shot,,52-55,52,55
+0021700599,2018-01-09,TOR,MIA,28.17,3,7,50,TOR,MIA,block,101,True,False,block,block,52-55,52,55
 0021700599,2018-01-09,TOR,MIA,28.17,3,7,50,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,52-55,52,55
 0021700599,2018-01-09,TOR,MIA,28.17,3,7,50,TOR,,foul,16,False,False,,,52-55,52,55
 0021700599,2018-01-09,TOR,MIA,28.17,3,7,50,TOR,MIA,ejection,4,False,False,,Johnson Ejection:Other,52-55,52,55
 0021700599,2018-01-09,TOR,MIA,28.17,3,7,50,TOR,TOR,ejection,4,False,False,Ibaka Ejection:Other,,52-55,52,55
-0021700599,2018-01-09,TOR,MIA,28.17,3,7,50,TOR,MIA,block,101,True,False,block,block,52-55,52,55
 0021700599,2018-01-09,TOR,MIA,28.33,3,7,40,TOR,TOR,fg_make,101,False,False,Wright 5' Driving Floating Jump Shot (8 PTS),,54-55,54,55
 0021700599,2018-01-09,TOR,MIA,28.73,3,7,16,MIA,MIA,fg_make,58,False,False,,Adebayo 4' Turnaround Hook Shot (8 PTS),54-57,54,57
 0021700599,2018-01-09,TOR,MIA,28.98,3,7,1,TOR,MIA,foul,1,False,False,,Whiteside P.FOUL (P3.T1) (T.Brown),54-57,54,57
@@ -311,8 +311,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700599,2018-01-09,TOR,MIA,33.25,3,2,45,MIA,TOR,foul,1,False,False,VanVleet P.FOUL (P2.T4) (S.Twardoski),,56-65,56,65
 0021700599,2018-01-09,TOR,MIA,33.45,3,2,33,MIA,MIA,fg_miss,101,True,False,,MISS Jones Jr. 5' Driving Floating Jump Shot,56-65,56,65
 0021700599,2018-01-09,TOR,MIA,33.45,3,2,33,MIA,TOR,block,101,True,False,block,block,56-65,56,65
-0021700599,2018-01-09,TOR,MIA,33.47,3,2,32,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,56-65,56,65
 0021700599,2018-01-09,TOR,MIA,33.47,3,2,32,TOR,MIA,foul,3,False,False,,Jones Jr. L.B.FOUL (P3.T3) (M.Boland),56-65,56,65
+0021700599,2018-01-09,TOR,MIA,33.47,3,2,32,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,56-65,56,65
 0021700599,2018-01-09,TOR,MIA,33.63,3,2,22,TOR,MIA,foul,2,False,False,,Adebayo S.FOUL (P2.T4) (S.Twardoski),56-65,56,65
 0021700599,2018-01-09,TOR,MIA,33.63,3,2,22,TOR,TOR,ft_make,11,False,False,DeRozan Free Throw 1 of 2 (15 PTS),,57-65,57,65
 0021700599,2018-01-09,TOR,MIA,33.63,3,2,22,TOR,TOR,ft_make,12,False,False,DeRozan Free Throw 2 of 2 (16 PTS),,58-65,58,65
@@ -320,8 +320,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700599,2018-01-09,TOR,MIA,34.03,3,1,58,MIA,TOR,foul,2,False,False,DeRozan S.FOUL (P3.PN) (T.Brown),,58-67,58,67
 0021700599,2018-01-09,TOR,MIA,34.03,3,1,58,MIA,MIA,ft_make,10,False,False,,Whiteside Free Throw 1 of 1 (9 PTS),58-68,58,68
 0021700599,2018-01-09,TOR,MIA,34.2,3,1,48,TOR,TOR,fg_miss,1,True,False,MISS Powell 18' Jump Shot,,58-68,58,68
-0021700599,2018-01-09,TOR,MIA,34.2,3,1,48,MIA,MIA,reb,0,False,False,,Whiteside REBOUND (Off:4 Def:6),58-68,58,68
 0021700599,2018-01-09,TOR,MIA,34.2,3,1,48,TOR,MIA,block,1,True,False,block,block,58-68,58,68
+0021700599,2018-01-09,TOR,MIA,34.2,3,1,48,MIA,MIA,reb,0,False,False,,Whiteside REBOUND (Off:4 Def:6),58-68,58,68
 0021700599,2018-01-09,TOR,MIA,34.53,3,1,28,MIA,MIA,fg_miss,6,False,False,,MISS Adebayo 3' Driving Layup,58-68,58,68
 0021700599,2018-01-09,TOR,MIA,34.53,3,1,28,MIA,MIA,reb,0,False,False,,Whiteside REBOUND (Off:5 Def:6),58-68,58,68
 0021700599,2018-01-09,TOR,MIA,34.63,3,1,22,MIA,MIA,fg_make,7,False,False,,Whiteside 1' Dunk (11 PTS),58-70,58,70
@@ -336,8 +336,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700599,2018-01-09,TOR,MIA,35.82,3,0,11,TOR,TOR,fg_miss,6,False,False,MISS DeRozan 2' Driving Layup,,64-72,64,72
 0021700599,2018-01-09,TOR,MIA,35.88,3,0,7,MIA,MIA,reb,0,False,False,,Whiteside REBOUND (Off:5 Def:7),64-72,64,72
 0021700599,2018-01-09,TOR,MIA,35.98,3,0,1,MIA,MIA,fg_miss,1,True,False,,MISS Ellington 2' Jump Shot,64-72,64,72
-0021700599,2018-01-09,TOR,MIA,35.98,3,0,1,MIA,MIA,reb,0,False,False,,Ellington REBOUND (Off:1 Def:2),64-72,64,72
 0021700599,2018-01-09,TOR,MIA,35.98,3,0,1,MIA,TOR,block,1,True,False,block,block,64-72,64,72
+0021700599,2018-01-09,TOR,MIA,35.98,3,0,1,MIA,MIA,reb,0,False,False,,Ellington REBOUND (Off:1 Def:2),64-72,64,72
 0021700599,2018-01-09,TOR,MIA,36.0,3,0,0,MIA,MIA,fg3_miss,1,False,False,,MISS Adebayo 28' 3PT Jump Shot,64-72,64,72
 0021700599,2018-01-09,TOR,MIA,36.0,3,0,0,MIA,MIA,reb,0,False,False,,Heat Rebound,64-72,64,72
 0021700599,2018-01-09,TOR,MIA,36.0,3,0,0,MIA,,period_end,0,False,False,,,64-72,64,72
@@ -380,9 +380,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700599,2018-01-09,TOR,MIA,40.0,4,8,0,MIA,MIA,reb,0,False,False,,Richardson REBOUND (Off:1 Def:4),73-76,73,76
 0021700599,2018-01-09,TOR,MIA,40.33,4,7,40,MIA,MIA,tov,40,False,False,,Dragic Out of Bounds Lost Ball Turnover (P1.T12),73-76,73,76
 0021700599,2018-01-09,TOR,MIA,40.58,4,7,25,TOR,TOR,fg3_miss,79,True,False,MISS VanVleet 27' 3PT Pullup Jump Shot,,73-76,73,76
+0021700599,2018-01-09,TOR,MIA,40.58,4,7,25,TOR,MIA,block,79,True,False,block,block,73-76,73,76
 0021700599,2018-01-09,TOR,MIA,40.58,4,7,25,MIA,MIA,reb,0,False,False,,Richardson REBOUND (Off:1 Def:5),73-76,73,76
 0021700599,2018-01-09,TOR,MIA,40.58,4,7,25,MIA,MIA,tov,45,False,False,,Richardson Out of Bounds - Bad Pass Turnover Turnover (P4.T13),73-76,73,76
-0021700599,2018-01-09,TOR,MIA,40.58,4,7,25,TOR,MIA,block,79,True,False,block,block,73-76,73,76
 0021700599,2018-01-09,TOR,MIA,40.73,4,7,16,TOR,TOR,tov,39,False,False,VanVleet Step Out of Bounds Turnover (P1.T4),,73-76,73,76
 0021700599,2018-01-09,TOR,MIA,41.0,4,7,0,MIA,MIA,fg_make,79,False,False,,Richardson 17' Pullup Jump Shot (4 PTS) (Adebayo 2 AST),73-78,73,78
 0021700599,2018-01-09,TOR,MIA,41.28,4,6,43,TOR,TOR,fg3_miss,1,False,False,MISS VanVleet 3PT Jump Shot,,73-78,73,78
@@ -422,9 +422,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700599,2018-01-09,TOR,MIA,46.22,4,1,47,MIA,MIA,fg_miss,47,False,False,,MISS Dragic 18' Turnaround Jump Shot,87-86,87,86
 0021700599,2018-01-09,TOR,MIA,46.22,4,1,47,MIA,MIA,reb,0,False,False,,Dragic REBOUND (Off:3 Def:9),87-86,87,86
 0021700599,2018-01-09,TOR,MIA,46.28,4,1,43,MIA,MIA,fg_miss,5,True,False,,MISS Dragic 4' Layup,87-86,87,86
+0021700599,2018-01-09,TOR,MIA,46.28,4,1,43,MIA,TOR,block,5,True,False,block,block,87-86,87,86
 0021700599,2018-01-09,TOR,MIA,46.28,4,1,43,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,87-86,87,86
 0021700599,2018-01-09,TOR,MIA,46.28,4,1,43,TOR,MIA,foul,1,False,False,,Dragic P.FOUL (P2.T4) (T.Brown),87-86,87,86
-0021700599,2018-01-09,TOR,MIA,46.28,4,1,43,MIA,TOR,block,5,True,False,block,block,87-86,87,86
 0021700599,2018-01-09,TOR,MIA,46.58,4,1,25,TOR,TOR,fg_miss,47,False,False,MISS DeRozan 15' Turnaround Jump Shot,,87-86,87,86
 0021700599,2018-01-09,TOR,MIA,46.58,4,1,25,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:5 Def:10),87-86,87,86
 0021700599,2018-01-09,TOR,MIA,46.93,4,1,4,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.6 Short 0),87-86,87,86

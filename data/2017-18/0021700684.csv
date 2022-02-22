@@ -20,8 +20,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700684,2018-01-21,LAL,NYK,2.0,1,10,0,LAL,LAL,fg3_make,1,False,False,Lopez 3PT Jump Shot (3 PTS) (Ingram 1 AST),,7-5,7,5
 0021700684,2018-01-21,LAL,NYK,2.32,1,9,41,NYK,NYK,fg_make,47,False,False,,Porzingis 21' Turnaround Jump Shot (2 PTS) (Jack 2 AST),7-7,7,7
 0021700684,2018-01-21,LAL,NYK,2.57,1,9,26,LAL,LAL,fg_miss,6,True,False,MISS Ingram 4' Driving Layup,,7-7,7,7
-0021700684,2018-01-21,LAL,NYK,2.57,1,9,26,NYK,NYK,reb,0,False,False,,Porzingis REBOUND (Off:0 Def:1),7-7,7,7
 0021700684,2018-01-21,LAL,NYK,2.57,1,9,26,LAL,NYK,block,6,True,False,block,block,7-7,7,7
+0021700684,2018-01-21,LAL,NYK,2.57,1,9,26,NYK,NYK,reb,0,False,False,,Porzingis REBOUND (Off:0 Def:1),7-7,7,7
 0021700684,2018-01-21,LAL,NYK,2.73,1,9,16,NYK,LAL,foul,1,False,False,Ingram P.FOUL (P1.T2) (B.Adams),,7-7,7,7
 0021700684,2018-01-21,LAL,NYK,2.85,1,9,9,NYK,NYK,fg3_miss,1,False,False,,MISS Lee 25' 3PT Jump Shot,7-7,7,7
 0021700684,2018-01-21,LAL,NYK,2.9,1,9,6,LAL,LAL,reb,0,False,False,Lopez REBOUND (Off:0 Def:2),,7-7,7,7
@@ -228,8 +228,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700684,2018-01-21,LAL,NYK,25.32,3,10,41,NYK,NYK,reb,0,False,False,,Hardaway Jr. REBOUND (Off:0 Def:2),69-67,69,67
 0021700684,2018-01-21,LAL,NYK,25.58,3,10,25,NYK,NYK,fg3_make,1,False,False,,Hardaway Jr. 28' 3PT Jump Shot (17 PTS) (Porzingis 1 AST),69-70,69,70
 0021700684,2018-01-21,LAL,NYK,25.82,3,10,11,LAL,LAL,fg_miss,6,True,False,MISS Ennis 3' Driving Layup,,69-70,69,70
-0021700684,2018-01-21,LAL,NYK,25.82,3,10,11,NYK,NYK,reb,0,False,False,,Knicks Rebound,69-70,69,70
 0021700684,2018-01-21,LAL,NYK,25.82,3,10,11,LAL,NYK,block,6,True,False,block,block,69-70,69,70
+0021700684,2018-01-21,LAL,NYK,25.82,3,10,11,NYK,NYK,reb,0,False,False,,Knicks Rebound,69-70,69,70
 0021700684,2018-01-21,LAL,NYK,26.03,3,9,58,NYK,NYK,fg3_make,1,False,False,,Lee 26' 3PT Jump Shot (11 PTS),69-73,69,73
 0021700684,2018-01-21,LAL,NYK,26.03,3,9,58,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 3 Short 0),,69-73,69,73
 0021700684,2018-01-21,LAL,NYK,26.3,3,9,42,LAL,LAL,fg_make,1,False,False,Nance Jr. 21' Jump Shot (7 PTS) (Clarkson 4 AST),,71-73,71,73
@@ -375,9 +375,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700684,2018-01-21,LAL,NYK,45.82,4,2,11,NYK,NYK,reb,0,False,False,,Jack REBOUND (Off:1 Def:2),120-103,120,103
 0021700684,2018-01-21,LAL,NYK,45.87,4,2,8,NYK,NYK,fg_miss,98,True,False,,MISS Porzingis 7' Cutting Layup Shot,120-103,120,103
 0021700684,2018-01-21,LAL,NYK,45.87,4,2,8,NYK,LAL,block,98,True,False,block,block,120-103,120,103
-0021700684,2018-01-21,LAL,NYK,45.9,4,2,6,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 6 Short 0),,120-103,120,103
 0021700684,2018-01-21,LAL,NYK,45.9,4,2,6,,LAL,jump_ball,0,False,False,Jump Ball Nance Jr. vs. Porzingis: Tip to McDermott,,120-103,120,103
 0021700684,2018-01-21,LAL,NYK,45.9,4,2,6,NYK,NYK,reb,0,False,False,,Knicks Rebound,120-103,120,103
+0021700684,2018-01-21,LAL,NYK,45.9,4,2,6,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 6 Short 0),,120-103,120,103
 0021700684,2018-01-21,LAL,NYK,46.1,4,1,54,NYK,NYK,fg_miss,73,False,False,,MISS Porzingis 3' Driving Reverse Layup,120-103,120,103
 0021700684,2018-01-21,LAL,NYK,46.17,4,1,50,NYK,NYK,reb,0,False,False,,Kanter REBOUND (Off:5 Def:9),120-103,120,103
 0021700684,2018-01-21,LAL,NYK,46.17,4,1,50,NYK,NYK,fg_make,97,False,False,,Kanter 1' Tip Layup Shot (12 PTS),120-105,120,105

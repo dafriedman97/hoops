@@ -52,9 +52,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700096,2017-10-30,MEM,CHA,5.37,1,6,38,CHA,CHA,fg_make,63,False,False,,Walker 20' Fadeaway Jumper (6 PTS),15-16,15,16
 0021700096,2017-10-30,MEM,CHA,5.6,1,6,24,MEM,MEM,fg_make,108,False,False,Gasol 1' Cutting Dunk Shot (5 PTS) (Conley 2 AST),,17-16,17,16
 0021700096,2017-10-30,MEM,CHA,6.0,1,6,0,CHA,CHA,fg_miss,7,True,False,,MISS Howard 1' Dunk,17-16,17,16
+0021700096,2017-10-30,MEM,CHA,6.0,1,6,0,CHA,MEM,block,7,True,False,block,block,17-16,17,16
 0021700096,2017-10-30,MEM,CHA,6.0,1,6,0,CHA,CHA,reb,0,False,False,,Hornets Rebound,17-16,17,16
 0021700096,2017-10-30,MEM,CHA,6.0,1,6,0,MEM,MEM,timeout,1,False,False,GRIZZLIES Timeout: Regular (Full 1 Short 0),,17-16,17,16
-0021700096,2017-10-30,MEM,CHA,6.0,1,6,0,CHA,MEM,block,7,True,False,block,block,17-16,17,16
 0021700096,2017-10-30,MEM,CHA,6.07,1,5,56,CHA,CHA,fg_make,63,False,False,,Lamb 17' Fadeaway Jumper (4 PTS) (Williams 2 AST),17-18,17,18
 0021700096,2017-10-30,MEM,CHA,6.38,1,5,37,MEM,MEM,fg_miss,101,False,False,MISS Conley 9' Driving Floating Jump Shot,,17-18,17,18
 0021700096,2017-10-30,MEM,CHA,6.43,1,5,34,CHA,CHA,reb,0,False,False,,Lamb REBOUND (Off:0 Def:1),17-18,17,18
@@ -63,8 +63,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700096,2017-10-30,MEM,CHA,6.6,1,5,24,MEM,MEM,fg3_make,2,False,False,Ennis III 27' 3PT Running Jump Shot (5 PTS) (Brooks 1 AST),,20-18,20,18
 0021700096,2017-10-30,MEM,CHA,7.0,1,5,0,CHA,CHA,fg_make,79,False,False,,Lamb 10' Pullup Jump Shot (6 PTS),20-20,20,20
 0021700096,2017-10-30,MEM,CHA,7.18,1,4,49,MEM,MEM,fg_miss,5,True,False,MISS Ennis III 1' Layup,,20-20,20,20
-0021700096,2017-10-30,MEM,CHA,7.18,1,4,49,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,20-20,20,20
 0021700096,2017-10-30,MEM,CHA,7.18,1,4,49,MEM,CHA,block,5,True,False,block,block,20-20,20,20
+0021700096,2017-10-30,MEM,CHA,7.18,1,4,49,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,20-20,20,20
 0021700096,2017-10-30,MEM,CHA,7.32,1,4,41,MEM,MEM,fg_miss,101,False,False,MISS Gasol 2' Driving Floating Jump Shot,,20-20,20,20
 0021700096,2017-10-30,MEM,CHA,7.35,1,4,39,CHA,CHA,reb,0,False,False,,Kaminsky REBOUND (Off:0 Def:1),20-20,20,20
 0021700096,2017-10-30,MEM,CHA,7.52,1,4,29,CHA,CHA,fg_make,80,False,False,,Lamb 20' Step Back Jump Shot (8 PTS),20-22,20,22
@@ -102,8 +102,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700096,2017-10-30,MEM,CHA,11.03,1,0,58,CHA,CHA,ft_make,12,False,False,,Zeller Free Throw 2 of 2 (4 PTS),29-29,29,29
 0021700096,2017-10-30,MEM,CHA,11.17,1,0,50,MEM,MEM,fg_make,6,False,False,Evans 1' Driving Layup (2 PTS),,31-29,31,29
 0021700096,2017-10-30,MEM,CHA,11.48,1,0,31,CHA,MEM,foul,1,False,False,Brooks P.FOUL (P1.PN) (K.Cutler),,31-29,31,29
-0021700096,2017-10-30,MEM,CHA,11.48,1,0,31,CHA,CHA,ft_make,12,False,False,,Graham Free Throw 2 of 2 (1 PTS),31-30,31,30
 0021700096,2017-10-30,MEM,CHA,11.48,1,0,31,CHA,CHA,ft_make,11,False,False,,Graham Free Throw 1 of 2 (2 PTS),31-31,31,31
+0021700096,2017-10-30,MEM,CHA,11.48,1,0,31,CHA,CHA,ft_make,12,False,False,,Graham Free Throw 2 of 2 (1 PTS),31-30,31,30
 0021700096,2017-10-30,MEM,CHA,11.78,1,0,13,MEM,MEM,fg_miss,6,True,False,MISS Evans 1' Driving Layup,,31-31,31,31
 0021700096,2017-10-30,MEM,CHA,11.78,1,0,13,MEM,CHA,block,6,True,False,block,block,31-31,31,31
 0021700096,2017-10-30,MEM,CHA,11.83,1,0,10,CHA,CHA,reb,0,False,False,,Kaminsky REBOUND (Off:0 Def:3),31-31,31,31
@@ -114,8 +114,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700096,2017-10-30,MEM,CHA,12.0,1,0,0,MEM,,period_end,0,False,False,,,31-31,31,31
 0021700096,2017-10-30,MEM,CHA,12.0,2,12,0,MEM,,period_start,0,False,False,,,31-31,31,31
 0021700096,2017-10-30,MEM,CHA,12.33,2,11,40,MEM,MEM,fg_miss,5,True,False,MISS Wright 2' Layup,,31-31,31,31
-0021700096,2017-10-30,MEM,CHA,12.33,2,11,40,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,31-31,31,31
 0021700096,2017-10-30,MEM,CHA,12.33,2,11,40,MEM,CHA,block,5,True,False,block,block,31-31,31,31
+0021700096,2017-10-30,MEM,CHA,12.33,2,11,40,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,31-31,31,31
 0021700096,2017-10-30,MEM,CHA,12.38,2,11,37,MEM,MEM,fg_miss,80,False,False,MISS Brooks 20' Step Back Jump Shot,,31-31,31,31
 0021700096,2017-10-30,MEM,CHA,12.43,2,11,34,CHA,CHA,reb,0,False,False,,Monk REBOUND (Off:0 Def:1),31-31,31,31
 0021700096,2017-10-30,MEM,CHA,12.52,2,11,29,CHA,CHA,fg_miss,2,False,False,,MISS Monk 19' Running Jump Shot,31-31,31,31
@@ -205,8 +205,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700096,2017-10-30,MEM,CHA,22.0,2,2,0,MEM,MEM,ft_miss,10,False,False,MISS Brooks Free Throw 1 of 1,,51-49,51,49
 0021700096,2017-10-30,MEM,CHA,22.05,2,1,57,CHA,CHA,reb,0,False,False,,Williams REBOUND (Off:0 Def:3),51-49,51,49
 0021700096,2017-10-30,MEM,CHA,22.3,2,1,42,CHA,CHA,fg_miss,44,True,False,,MISS Howard 1' Reverse Layup,51-49,51,49
-0021700096,2017-10-30,MEM,CHA,22.3,2,1,42,CHA,CHA,reb,0,False,False,,Kidd-Gilchrist REBOUND (Off:1 Def:2),51-49,51,49
 0021700096,2017-10-30,MEM,CHA,22.3,2,1,42,CHA,MEM,block,44,True,False,block,block,51-49,51,49
+0021700096,2017-10-30,MEM,CHA,22.3,2,1,42,CHA,CHA,reb,0,False,False,,Kidd-Gilchrist REBOUND (Off:1 Def:2),51-49,51,49
 0021700096,2017-10-30,MEM,CHA,22.37,2,1,38,CHA,CHA,fg_make,1,False,False,,Kidd-Gilchrist 16' Jump Shot (4 PTS),51-51,51,51
 0021700096,2017-10-30,MEM,CHA,22.58,2,1,25,MEM,MEM,fg_miss,78,False,False,MISS Conley 9' Floating Jump Shot,,51-51,51,51
 0021700096,2017-10-30,MEM,CHA,22.62,2,1,23,CHA,CHA,reb,0,False,False,,Lamb REBOUND (Off:0 Def:4),51-51,51,51
@@ -220,9 +220,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700096,2017-10-30,MEM,CHA,23.48,2,0,31,CHA,MEM,block,6,True,False,block,block,54-51,54,51
 0021700096,2017-10-30,MEM,CHA,23.53,2,0,28,MEM,MEM,reb,0,False,False,Martin REBOUND (Off:1 Def:2),,54-51,54,51
 0021700096,2017-10-30,MEM,CHA,23.68,2,0,19,MEM,MEM,fg_miss,6,True,False,MISS Conley 4' Driving Layup,,54-51,54,51
+0021700096,2017-10-30,MEM,CHA,23.68,2,0,19,MEM,CHA,block,6,True,False,block,block,54-51,54,51
 0021700096,2017-10-30,MEM,CHA,23.68,2,0,19,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,54-51,54,51
 0021700096,2017-10-30,MEM,CHA,23.68,2,0,19,MEM,MEM,timeout,1,False,False,GRIZZLIES Timeout: Regular (Full 3 Short 0),,54-51,54,51
-0021700096,2017-10-30,MEM,CHA,23.68,2,0,19,MEM,CHA,block,6,True,False,block,block,54-51,54,51
 0021700096,2017-10-30,MEM,CHA,23.7,2,0,18,MEM,MEM,fg_make,98,False,False,Conley 1' Cutting Layup Shot (12 PTS) (Brooks 2 AST),,56-51,56,51
 0021700096,2017-10-30,MEM,CHA,23.7,2,0,18,MEM,CHA,foul,2,False,False,,Monk S.FOUL (P2.PN) (M.Lindsay),56-51,56,51
 0021700096,2017-10-30,MEM,CHA,23.7,2,0,18,MEM,MEM,ft_make,10,False,False,Conley Free Throw 1 of 1 (13 PTS),,57-51,57,51
@@ -252,8 +252,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700096,2017-10-30,MEM,CHA,27.02,3,8,59,CHA,CHA,fg3_miss,79,False,False,,MISS Walker 25' 3PT Pullup Jump Shot,64-55,64,55
 0021700096,2017-10-30,MEM,CHA,27.07,3,8,56,CHA,CHA,reb,0,False,False,,Howard REBOUND (Off:2 Def:2),64-55,64,55
 0021700096,2017-10-30,MEM,CHA,27.07,3,8,56,CHA,CHA,fg_miss,98,True,False,,MISS Williams 1' Cutting Layup Shot,64-55,64,55
-0021700096,2017-10-30,MEM,CHA,27.07,3,8,56,CHA,CHA,reb,0,False,False,,Hornets Rebound,64-55,64,55
 0021700096,2017-10-30,MEM,CHA,27.07,3,8,56,CHA,MEM,block,98,True,False,block,block,64-55,64,55
+0021700096,2017-10-30,MEM,CHA,27.07,3,8,56,CHA,CHA,reb,0,False,False,,Hornets Rebound,64-55,64,55
 0021700096,2017-10-30,MEM,CHA,27.27,3,8,44,CHA,CHA,fg_miss,79,False,False,,MISS Lamb 14' Pullup Jump Shot,64-55,64,55
 0021700096,2017-10-30,MEM,CHA,27.27,3,8,44,MEM,MEM,reb,0,False,False,Ennis III REBOUND (Off:1 Def:1),,64-55,64,55
 0021700096,2017-10-30,MEM,CHA,27.6,3,8,24,MEM,MEM,fg3_miss,1,False,False,MISS Conley 25' 3PT Jump Shot,,64-55,64,55
@@ -343,10 +343,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700096,2017-10-30,MEM,CHA,35.67,3,0,20,MEM,MEM,ft_make,12,False,False,Evans Free Throw 2 of 2 (13 PTS),,82-73,82,73
 0021700096,2017-10-30,MEM,CHA,35.93,3,0,4,CHA,CHA,tov,40,False,False,,Zeller Out of Bounds Lost Ball Turnover (P1.T10),82-73,82,73
 0021700096,2017-10-30,MEM,CHA,36.0,3,0,0,MEM,MEM,fg_miss,101,True,False,MISS Chalmers 2' Driving Floating Jump Shot,,82-73,82,73
+0021700096,2017-10-30,MEM,CHA,36.0,3,0,0,MEM,CHA,block,101,True,False,block,block,82-73,82,73
 0021700096,2017-10-30,MEM,CHA,36.0,3,0,0,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,82-73,82,73
 0021700096,2017-10-30,MEM,CHA,36.0,3,0,0,MEM,,period_end,0,False,False,,,82-73,82,73
 0021700096,2017-10-30,MEM,CHA,36.0,4,12,0,MEM,,period_start,0,False,False,,,82-73,82,73
-0021700096,2017-10-30,MEM,CHA,36.0,3,0,0,MEM,CHA,block,101,True,False,block,block,82-73,82,73
 0021700096,2017-10-30,MEM,CHA,36.25,4,11,45,CHA,CHA,fg_make,57,False,False,,Kaminsky 7' Driving Hook Shot (9 PTS),82-75,82,75
 0021700096,2017-10-30,MEM,CHA,36.25,4,11,45,CHA,MEM,foul,2,False,False,Chalmers S.FOUL (P3.T1) (M.Lindsay),,82-75,82,75
 0021700096,2017-10-30,MEM,CHA,36.25,4,11,45,CHA,CHA,ft_miss,10,False,False,,MISS Kaminsky Free Throw 1 of 1,82-75,82,75

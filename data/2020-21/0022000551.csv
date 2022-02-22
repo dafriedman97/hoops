@@ -114,11 +114,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000551,2021-03-03,SAC,LAL,13.82,2,10,11,LAL,LAL,reb,0,False,False,,Matthews REBOUND (Off:1 Def:0),27-33,27,33
 0022000551,2021-03-03,SAC,LAL,13.82,2,10,11,LAL,LAL,fg_miss,73,False,False,,MISS Matthews 2' Driving Reverse Layup,27-33,27,33
 0022000551,2021-03-03,SAC,LAL,13.82,2,10,11,SAC,SAC,reb,0,False,False,Bjelica REBOUND (Off:1 Def:2),,27-33,27,33
-0022000551,2021-03-03,SAC,LAL,13.82,2,10,11,SAC,SAC,tov,2,False,True,Bjelica Lost Ball Turnover (P1.T5),,27-33,27,33
 0022000551,2021-03-03,SAC,LAL,13.82,2,10,11,LAL,SAC,foul,2,False,False,Bjelica S.FOUL (P1.T2) (C.Blair),,27-33,27,33
-0022000551,2021-03-03,SAC,LAL,13.82,2,10,11,SAC,LAL,steal,2,False,True,steal,steal,27-33,27,33
 0022000551,2021-03-03,SAC,LAL,13.82,2,10,11,LAL,LAL,ft_make,11,False,False,,McKinnie Free Throw 1 of 2 (1 PTS),27-34,27,34
 0022000551,2021-03-03,SAC,LAL,13.82,2,10,11,LAL,LAL,ft_make,12,False,False,,McKinnie Free Throw 2 of 2 (2 PTS),27-35,27,35
+0022000551,2021-03-03,SAC,LAL,13.82,2,10,11,SAC,SAC,tov,2,False,True,Bjelica Lost Ball Turnover (P1.T5),,27-33,27,33
+0022000551,2021-03-03,SAC,LAL,13.82,2,10,11,SAC,LAL,steal,2,False,True,steal,steal,27-33,27,33
 0022000551,2021-03-03,SAC,LAL,14.1,2,9,54,SAC,SAC,tov,2,False,True,Bjelica Lost Ball Turnover (P2.T6),,27-35,27,35
 0022000551,2021-03-03,SAC,LAL,14.1,2,9,54,SAC,LAL,steal,2,False,True,steal,steal,27-35,27,35
 0022000551,2021-03-03,SAC,LAL,14.17,2,9,50,LAL,LAL,fg_make,7,False,False,,Harrell 1' Dunk (8 PTS) (Matthews 1 AST),27-37,27,37
@@ -215,9 +215,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000551,2021-03-03,SAC,LAL,25.62,3,10,23,LAL,SAC,foul,1,False,False,Fox P.FOUL (P3.T2) (C.Blair),,69-61,69,61
 0022000551,2021-03-03,SAC,LAL,25.7,3,10,18,LAL,LAL,fg3_make,1,False,False,,Morris 3PT Jump Shot (8 PTS) (Kuzma 2 AST),69-64,69,64
 0022000551,2021-03-03,SAC,LAL,26.17,3,9,50,SAC,SAC,fg_miss,44,True,False,MISS Bagley III 3' Reverse Layup,,69-64,69,64
+0022000551,2021-03-03,SAC,LAL,26.17,3,9,50,SAC,LAL,block,44,True,False,block,block,69-64,69,64
 0022000551,2021-03-03,SAC,LAL,26.17,3,9,50,SAC,SAC,reb,0,False,False,KINGS Rebound,,69-64,69,64
 0022000551,2021-03-03,SAC,LAL,26.17,3,9,50,SAC,SAC,tov,11,False,False,KINGS Turnover: Shot Clock (T#8),,69-64,69,64
-0022000551,2021-03-03,SAC,LAL,26.17,3,9,50,SAC,LAL,block,44,True,False,block,block,69-64,69,64
 0022000551,2021-03-03,SAC,LAL,26.38,3,9,37,LAL,LAL,fg_make,6,False,False,,Schroder 2' Driving Layup (15 PTS),69-66,69,66
 0022000551,2021-03-03,SAC,LAL,26.6,3,9,24,SAC,SAC,fg_miss,79,False,False,MISS Holmes 13' Pullup Jump Shot,,69-66,69,66
 0022000551,2021-03-03,SAC,LAL,26.65,3,9,21,LAL,LAL,reb,0,False,False,,Kuzma REBOUND (Off:1 Def:5),69-66,69,66
@@ -266,8 +266,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000551,2021-03-03,SAC,LAL,32.43,3,3,34,SAC,SAC,reb,0,False,False,Holmes REBOUND (Off:1 Def:8),,77-80,77,80
 0022000551,2021-03-03,SAC,LAL,32.6,3,3,24,SAC,SAC,fg_make,5,False,False,Holmes 3' Layup (14 PTS) (Hield 5 AST),,79-80,79,80
 0022000551,2021-03-03,SAC,LAL,32.93,3,3,4,LAL,LAL,fg_miss,101,True,False,,MISS Kuzma 4' Driving Floating Jump Shot,79-80,79,80
-0022000551,2021-03-03,SAC,LAL,32.93,3,3,4,SAC,SAC,reb,0,False,False,KINGS Rebound,,79-80,79,80
 0022000551,2021-03-03,SAC,LAL,32.93,3,3,4,LAL,SAC,block,101,True,False,block,block,79-80,79,80
+0022000551,2021-03-03,SAC,LAL,32.93,3,3,4,SAC,SAC,reb,0,False,False,KINGS Rebound,,79-80,79,80
 0022000551,2021-03-03,SAC,LAL,33.27,3,2,44,SAC,SAC,fg3_miss,1,False,False,MISS Fox 24' 3PT Jump Shot,,79-80,79,80
 0022000551,2021-03-03,SAC,LAL,33.33,3,2,40,LAL,LAL,reb,0,False,False,,Kuzma REBOUND (Off:2 Def:7),79-80,79,80
 0022000551,2021-03-03,SAC,LAL,33.38,3,2,37,LAL,LAL,fg_make,41,False,False,,Kuzma 2' Running Layup (22 PTS),79-82,79,82
@@ -380,13 +380,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000551,2021-03-03,SAC,LAL,47.92,4,0,5,LAL,LAL,reb,0,False,False,,Harrell REBOUND (Off:6 Def:5),121-120,121,120
 0022000551,2021-03-03,SAC,LAL,47.92,4,0,5,LAL,LAL,fg_miss,97,False,False,,MISS Harrell 6' Tip Layup Shot,121-120,121,120
 0022000551,2021-03-03,SAC,LAL,47.92,4,0,5,LAL,LAL,reb,0,False,False,,Harrell REBOUND (Off:7 Def:5),121-120,121,120
-0022000551,2021-03-03,SAC,LAL,47.97,4,0,2,LAL,LAL,fg_miss,97,False,False,,MISS Harrell 6' Tip Layup Shot,121-120,121,120
-0022000551,2021-03-03,SAC,LAL,47.97,4,0,2,LAL,LAL,reb,0,False,False,,Kuzma REBOUND (Off:4 Def:8),121-120,121,120
 0022000551,2021-03-03,SAC,LAL,47.97,4,0,2,LAL,LAL,fg_miss,5,False,False,,MISS Harrell 1' Layup,121-120,121,120
 0022000551,2021-03-03,SAC,LAL,47.97,4,0,2,LAL,LAL,reb,0,False,False,,Kuzma REBOUND (Off:5 Def:8),121-120,121,120
-0022000551,2021-03-03,SAC,LAL,47.97,4,0,2,LAL,LAL,tov,39,False,False,,Kuzma Step Out of Bounds Turnover (P3.T12),121-120,121,120
 0022000551,2021-03-03,SAC,LAL,47.97,4,0,2,SAC,SAC,timeout,1,False,False,KINGS Timeout: Regular (Full 7 Short 0),,121-120,121,120
+0022000551,2021-03-03,SAC,LAL,47.97,4,0,2,LAL,LAL,tov,39,False,False,,Kuzma Step Out of Bounds Turnover (P3.T12),121-120,121,120
 0022000551,2021-03-03,SAC,LAL,47.97,4,0,2,SAC,LAL,foul,1,False,False,,Horton-Tucker P.FOUL (P3.T4) (M.Boland),121-120,121,120
+0022000551,2021-03-03,SAC,LAL,47.97,4,0,2,LAL,LAL,fg_miss,97,False,False,,MISS Harrell 6' Tip Layup Shot,121-120,121,120
+0022000551,2021-03-03,SAC,LAL,47.97,4,0,2,LAL,LAL,reb,0,False,False,,Kuzma REBOUND (Off:4 Def:8),121-120,121,120
 0022000551,2021-03-03,SAC,LAL,47.98,4,0,1,SAC,LAL,foul,28,False,False,,Kuzma Personal Take Foul (P5.PN) (C.Blair),121-120,121,120
 0022000551,2021-03-03,SAC,LAL,47.98,4,0,1,SAC,SAC,ft_make,11,False,False,Barnes Free Throw 1 of 2 (19 PTS),,122-120,122,120
 0022000551,2021-03-03,SAC,LAL,47.98,4,0,1,SAC,SAC,ft_make,12,False,False,Barnes Free Throw 2 of 2 (20 PTS),,123-120,123,120

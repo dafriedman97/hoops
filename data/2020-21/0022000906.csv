@@ -311,9 +311,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000906,2021-04-24,IND,DET,31.08,3,4,55,IND,IND,reb,0,False,False,LeVert REBOUND (Off:2 Def:2),,73-77,73,77
 0022000906,2021-04-24,IND,DET,31.23,3,4,46,IND,IND,fg_make,79,False,False,McDermott 7' Pullup Jump Shot (12 PTS) (LeVert 3 AST),,75-77,75,77
 0022000906,2021-04-24,IND,DET,31.57,3,4,26,DET,DET,fg_miss,5,True,False,,MISS Grant 5' Layup,75-77,75,77
+0022000906,2021-04-24,IND,DET,31.57,3,4,26,DET,IND,block,5,True,False,block,block,75-77,75,77
 0022000906,2021-04-24,IND,DET,31.57,3,4,26,DET,DET,reb,0,False,False,,Pistons Rebound,75-77,75,77
 0022000906,2021-04-24,IND,DET,31.57,3,4,26,DET,DET,tov,19,False,False,,Grant Kicked Ball Violation Turnover (P2.T12),75-77,75,77
-0022000906,2021-04-24,IND,DET,31.57,3,4,26,DET,IND,block,5,True,False,block,block,75-77,75,77
 0022000906,2021-04-24,IND,DET,31.68,3,4,19,IND,IND,fg_make,5,False,False,Brogdon 6' Layup (15 PTS),,77-77,77,77
 0022000906,2021-04-24,IND,DET,31.72,3,4,17,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.3 Short 0),77-77,77,77
 0022000906,2021-04-24,IND,DET,31.93,3,4,4,DET,DET,fg_miss,108,False,False,,MISS Jackson 1' Cutting Dunk Shot,77-77,77,77
@@ -344,8 +344,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000906,2021-04-24,IND,DET,34.55,3,1,27,IND,IND,fg_miss,6,False,False,MISS McConnell 5' Driving Layup,,79-80,79,80
 0022000906,2021-04-24,IND,DET,34.58,3,1,25,DET,DET,reb,0,False,False,,Diallo REBOUND (Off:2 Def:3),79-80,79,80
 0022000906,2021-04-24,IND,DET,34.73,3,1,16,DET,DET,fg_miss,6,True,False,,MISS Grant 4' Driving Layup,79-80,79,80
-0022000906,2021-04-24,IND,DET,34.73,3,1,16,IND,IND,reb,0,False,False,PACERS Rebound,,79-80,79,80
 0022000906,2021-04-24,IND,DET,34.73,3,1,16,DET,IND,block,6,True,False,block,block,79-80,79,80
+0022000906,2021-04-24,IND,DET,34.73,3,1,16,IND,IND,reb,0,False,False,PACERS Rebound,,79-80,79,80
 0022000906,2021-04-24,IND,DET,35.05,3,0,57,IND,DET,foul,1,False,False,,Joseph P.FOUL (P2.PN) (J.Williams),79-80,79,80
 0022000906,2021-04-24,IND,DET,35.05,3,0,57,IND,IND,ft_make,11,False,False,McConnell Free Throw 1 of 2 (1 PTS),,80-80,80,80
 0022000906,2021-04-24,IND,DET,35.05,3,0,57,IND,IND,ft_make,12,False,False,McConnell Free Throw 2 of 2 (2 PTS),,81-80,81,80
@@ -360,8 +360,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000906,2021-04-24,IND,DET,36.0,3,0,0,DET,,period_end,0,False,False,,,84-82,84,82
 0022000906,2021-04-24,IND,DET,36.0,4,12,0,DET,,period_start,0,False,False,,,84-82,84,82
 0022000906,2021-04-24,IND,DET,36.28,4,11,43,DET,DET,fg_miss,75,False,False,,MISS Diallo 3' Driving Finger Roll Layup,84-82,84,82
-0022000906,2021-04-24,IND,DET,36.37,4,11,38,DET,DET,fg_make,107,False,False,,Stewart Tip Dunk Shot (6 PTS),84-84,84,84
 0022000906,2021-04-24,IND,DET,36.37,4,11,38,DET,DET,reb,0,False,False,,Stewart REBOUND (Off:2 Def:2),84-84,84,84
+0022000906,2021-04-24,IND,DET,36.37,4,11,38,DET,DET,fg_make,107,False,False,,Stewart Tip Dunk Shot (6 PTS),84-84,84,84
 0022000906,2021-04-24,IND,DET,36.57,4,11,26,IND,IND,fg_miss,79,False,False,MISS McConnell 13' Pullup Jump Shot,,84-84,84,84
 0022000906,2021-04-24,IND,DET,36.6,4,11,24,DET,DET,reb,0,False,False,,Diallo REBOUND (Off:2 Def:5),84-84,84,84
 0022000906,2021-04-24,IND,DET,36.72,4,11,17,DET,DET,tov,1,False,True,,Diallo Bad Pass Turnover (P3.T14),84-84,84,84
@@ -504,7 +504,7 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000906,2021-04-24,IND,DET,47.98,4,0,1,IND,IND,ft_make,11,False,False,Brogdon Free Throw 1 of 2 (25 PTS),,114-109,114,109
 0022000906,2021-04-24,IND,DET,47.98,4,0,1,IND,IND,ft_make,12,False,False,Brogdon Free Throw 2 of 2 (26 PTS),,115-109,115,109
 0022000906,2021-04-24,IND,DET,47.98,4,0,1,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.7 Short 0),115-109,115,109
-0022000906,2021-04-24,IND,DET,48.0,4,0,0,DET,DET,fg3_miss,1,True,False,,MISS Grant 35' 3PT Jump Shot,115-109,115,109
-0022000906,2021-04-24,IND,DET,48.0,4,0,0,DET,DET,reb,0,False,False,,Pistons Rebound,115-109,115,109
 0022000906,2021-04-24,IND,DET,48.0,4,0,0,DET,,period_end,0,False,False,,,115-109,115,109
+0022000906,2021-04-24,IND,DET,48.0,4,0,0,DET,DET,fg3_miss,1,True,False,,MISS Grant 35' 3PT Jump Shot,115-109,115,109
 0022000906,2021-04-24,IND,DET,48.0,4,0,0,DET,IND,block,1,True,False,block,block,115-109,115,109
+0022000906,2021-04-24,IND,DET,48.0,4,0,0,DET,DET,reb,0,False,False,,Pistons Rebound,115-109,115,109

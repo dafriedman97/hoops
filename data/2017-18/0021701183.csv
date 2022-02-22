@@ -136,8 +136,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701183,2018-04-06,PHI,CLE,13.8,2,10,12,CLE,CLE,fg_miss,5,False,False,,MISS Clarkson 7' Layup,48-30,48,30
 0021701183,2018-04-06,PHI,CLE,13.83,2,10,10,CLE,CLE,reb,0,False,False,,Clarkson REBOUND (Off:1 Def:2),48-30,48,30
 0021701183,2018-04-06,PHI,CLE,13.85,2,10,9,CLE,CLE,fg_miss,79,True,False,,MISS Clarkson 5' Pullup Jump Shot,48-30,48,30
-0021701183,2018-04-06,PHI,CLE,13.85,2,10,9,PHI,PHI,reb,0,False,False,Fultz REBOUND (Off:0 Def:2),,48-30,48,30
 0021701183,2018-04-06,PHI,CLE,13.85,2,10,9,CLE,PHI,block,79,True,False,block,block,48-30,48,30
+0021701183,2018-04-06,PHI,CLE,13.85,2,10,9,PHI,PHI,reb,0,False,False,Fultz REBOUND (Off:0 Def:2),,48-30,48,30
 0021701183,2018-04-06,PHI,CLE,13.93,2,10,4,PHI,PHI,tov,2,False,True,Fultz Lost Ball Turnover (P1.T2),,48-30,48,30
 0021701183,2018-04-06,PHI,CLE,13.93,2,10,4,PHI,CLE,steal,2,False,True,steal,steal,48-30,48,30
 0021701183,2018-04-06,PHI,CLE,14.03,2,9,58,CLE,CLE,fg_make,6,False,False,,Clarkson 1' Driving Layup (4 PTS),48-32,48,32
@@ -211,9 +211,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701183,2018-04-06,PHI,CLE,22.28,2,1,43,PHI,PHI,fg_miss,63,False,False,MISS Belinelli 16' Fadeaway Jumper,,75-47,75,47
 0021701183,2018-04-06,PHI,CLE,22.32,2,1,41,CLE,CLE,reb,0,False,False,,James REBOUND (Off:1 Def:4),75-47,75,47
 0021701183,2018-04-06,PHI,CLE,22.43,2,1,34,CLE,CLE,fg_miss,5,True,False,,MISS James 3' Layup,75-47,75,47
+0021701183,2018-04-06,PHI,CLE,22.43,2,1,34,CLE,PHI,block,5,True,False,block,block,75-47,75,47
 0021701183,2018-04-06,PHI,CLE,22.43,2,1,34,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,75-47,75,47
 0021701183,2018-04-06,PHI,CLE,22.43,2,1,34,CLE,PHI,foul,2,False,False,Ilyasova S.FOUL (P2.T4) (T.Washington),,75-47,75,47
-0021701183,2018-04-06,PHI,CLE,22.43,2,1,34,CLE,PHI,block,5,True,False,block,block,75-47,75,47
 0021701183,2018-04-06,PHI,CLE,22.43,2,1,34,CLE,CLE,ft_make,11,False,False,,Osman Free Throw 1 of 2 (1 PTS),75-48,75,48
 0021701183,2018-04-06,PHI,CLE,22.43,2,1,34,CLE,CLE,ft_miss,12,False,False,,MISS Osman Free Throw 2 of 2,75-48,75,48
 0021701183,2018-04-06,PHI,CLE,22.48,2,1,31,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:2 Def:9),,75-48,75,48
@@ -248,8 +248,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701183,2018-04-06,PHI,CLE,25.62,3,10,23,PHI,PHI,ft_miss,10,False,False,MISS Simmons Free Throw 1 of 1,,82-64,82,64
 0021701183,2018-04-06,PHI,CLE,25.62,3,10,23,CLE,CLE,reb,0,False,False,,Green REBOUND (Off:1 Def:2),82-64,82,64
 0021701183,2018-04-06,PHI,CLE,25.88,3,10,7,CLE,CLE,fg_miss,5,True,False,,MISS James 3' Layup,82-64,82,64
-0021701183,2018-04-06,PHI,CLE,25.88,3,10,7,PHI,PHI,reb,0,False,False,76ERS Rebound,,82-64,82,64
 0021701183,2018-04-06,PHI,CLE,25.88,3,10,7,CLE,PHI,block,5,True,False,block,block,82-64,82,64
+0021701183,2018-04-06,PHI,CLE,25.88,3,10,7,PHI,PHI,reb,0,False,False,76ERS Rebound,,82-64,82,64
 0021701183,2018-04-06,PHI,CLE,25.97,3,10,2,PHI,PHI,fg_make,43,False,False,Johnson 3' Alley Oop Layup (6 PTS) (Simmons 9 AST),,84-64,84,64
 0021701183,2018-04-06,PHI,CLE,25.97,3,10,2,PHI,CLE,foul,2,False,False,,Green S.FOUL (P2.T4) (T.Washington),84-64,84,64
 0021701183,2018-04-06,PHI,CLE,25.97,3,10,2,PHI,PHI,ft_make,10,False,False,Johnson Free Throw 1 of 1 (7 PTS),,85-64,85,64
@@ -263,8 +263,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701183,2018-04-06,PHI,CLE,26.57,3,9,26,CLE,CLE,fg3_miss,1,False,False,,MISS Love 27' 3PT Jump Shot,85-66,85,66
 0021701183,2018-04-06,PHI,CLE,26.62,3,9,23,PHI,PHI,reb,0,False,False,Johnson REBOUND (Off:2 Def:1),,85-66,85,66
 0021701183,2018-04-06,PHI,CLE,26.72,3,9,17,PHI,PHI,fg_miss,6,True,False,MISS Redick 4' Driving Layup,,85-66,85,66
-0021701183,2018-04-06,PHI,CLE,26.72,3,9,17,PHI,PHI,reb,0,False,False,76ERS Rebound,,85-66,85,66
 0021701183,2018-04-06,PHI,CLE,26.72,3,9,17,PHI,CLE,block,6,True,False,block,block,85-66,85,66
+0021701183,2018-04-06,PHI,CLE,26.72,3,9,17,PHI,PHI,reb,0,False,False,76ERS Rebound,,85-66,85,66
 0021701183,2018-04-06,PHI,CLE,26.78,3,9,13,PHI,PHI,fg_miss,7,False,False,MISS Johnson 2' Dunk,,85-66,85,66
 0021701183,2018-04-06,PHI,CLE,26.82,3,9,11,CLE,CLE,reb,0,False,False,,Green REBOUND (Off:1 Def:3),85-66,85,66
 0021701183,2018-04-06,PHI,CLE,26.87,3,9,8,CLE,CLE,fg_make,9,False,False,,James 2' Driving Dunk (17 PTS),85-68,85,68
@@ -390,8 +390,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701183,2018-04-06,PHI,CLE,41.08,4,6,55,PHI,PHI,reb,0,False,False,Covington REBOUND (Off:1 Def:3),,113-109,113,109
 0021701183,2018-04-06,PHI,CLE,41.08,4,6,55,PHI,PHI,fg_make,72,False,False,Covington 1' Putback Layup (11 PTS),,115-109,115,109
 0021701183,2018-04-06,PHI,CLE,41.27,4,6,44,CLE,CLE,fg_miss,101,True,False,,MISS Clarkson 4' Driving Floating Jump Shot,115-109,115,109
-0021701183,2018-04-06,PHI,CLE,41.27,4,6,44,PHI,PHI,reb,0,False,False,76ERS Rebound,,115-109,115,109
 0021701183,2018-04-06,PHI,CLE,41.27,4,6,44,CLE,PHI,block,101,True,False,block,block,115-109,115,109
+0021701183,2018-04-06,PHI,CLE,41.27,4,6,44,PHI,PHI,reb,0,False,False,76ERS Rebound,,115-109,115,109
 0021701183,2018-04-06,PHI,CLE,41.4,4,6,36,PHI,PHI,fg_make,101,False,False,Holmes 11' Driving Floating Jump Shot (6 PTS) (Belinelli 1 AST),,117-109,117,109
 0021701183,2018-04-06,PHI,CLE,41.4,4,6,36,CLE,CLE,timeout,1,False,False,,Cavaliers Timeout: Regular (Reg.6 Short 0),117-109,117,109
 0021701183,2018-04-06,PHI,CLE,41.62,4,6,23,CLE,CLE,fg3_make,1,False,False,,Smith 25' 3PT Jump Shot (5 PTS) (Love 4 AST),117-112,117,112

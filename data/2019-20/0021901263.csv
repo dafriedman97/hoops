@@ -4,8 +4,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901263,2020-08-05,WAS,PHI,0.32,1,11,41,WAS,WAS,fg_miss,1,False,False,MISS Bryant 12' Jump Shot,,0-0,0,0
 0021901263,2020-08-05,WAS,PHI,0.37,1,11,38,PHI,PHI,reb,0,False,False,,Embiid REBOUND (Off:0 Def:1),0-0,0,0
 0021901263,2020-08-05,WAS,PHI,0.5,1,11,30,PHI,PHI,fg_miss,75,False,False,,MISS Simmons 2' Driving Finger Roll Layup,0-0,0,0
-0021901263,2020-08-05,WAS,PHI,0.57,1,11,26,PHI,PHI,fg_miss,97,False,False,,MISS Embiid 1' Tip Layup Shot,0-0,0,0
 0021901263,2020-08-05,WAS,PHI,0.57,1,11,26,PHI,PHI,reb,0,False,False,,Embiid REBOUND (Off:1 Def:1),0-0,0,0
+0021901263,2020-08-05,WAS,PHI,0.57,1,11,26,PHI,PHI,fg_miss,97,False,False,,MISS Embiid 1' Tip Layup Shot,0-0,0,0
 0021901263,2020-08-05,WAS,PHI,0.58,1,11,25,WAS,WAS,reb,0,False,False,Brown Jr. REBOUND (Off:0 Def:1),,0-0,0,0
 0021901263,2020-08-05,WAS,PHI,0.67,1,11,20,WAS,WAS,fg_miss,1,False,False,MISS Bryant 23' Jump Shot,,0-0,0,0
 0021901263,2020-08-05,WAS,PHI,0.7,1,11,18,PHI,PHI,reb,0,False,False,,Simmons REBOUND (Off:0 Def:1),0-0,0,0
@@ -287,8 +287,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901263,2020-08-05,WAS,PHI,31.58,3,4,25,WAS,PHI,foul,3,False,False,,Burks L.B.FOUL (P1.T3) (M.Kogut),66-63,66,63
 0021901263,2020-08-05,WAS,PHI,31.75,3,4,15,WAS,WAS,fg_make,63,False,False,Robinson 14' Fadeaway Jumper (13 PTS),,68-63,68,63
 0021901263,2020-08-05,WAS,PHI,32.02,3,3,59,PHI,PHI,fg_miss,6,True,False,,MISS Burks 5' Driving Layup,68-63,68,63
-0021901263,2020-08-05,WAS,PHI,32.02,3,3,59,PHI,PHI,reb,0,False,False,,76ers Rebound,68-63,68,63
 0021901263,2020-08-05,WAS,PHI,32.02,3,3,59,PHI,WAS,block,6,True,False,block,block,68-63,68,63
+0021901263,2020-08-05,WAS,PHI,32.02,3,3,59,PHI,PHI,reb,0,False,False,,76ers Rebound,68-63,68,63
 0021901263,2020-08-05,WAS,PHI,32.12,3,3,53,PHI,PHI,fg_make,5,False,False,,Burks 2' Layup (9 PTS) (Harris 2 AST),68-65,68,65
 0021901263,2020-08-05,WAS,PHI,32.3,3,3,42,WAS,WAS,fg_make,79,False,False,Smith 17' Pullup Jump Shot (12 PTS),,70-65,70,65
 0021901263,2020-08-05,WAS,PHI,32.58,3,3,25,PHI,WAS,foul,1,False,False,Bryant P.FOUL (P3.T4) (M.Kogut),,70-65,70,65
@@ -359,8 +359,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901263,2020-08-05,WAS,PHI,38.37,4,9,38,PHI,PHI,fg_miss,97,False,False,,MISS Thybulle 1' Tip Layup Shot,75-85,75,85
 0021901263,2020-08-05,WAS,PHI,38.37,4,9,38,WAS,WAS,reb,0,False,False,Robinson REBOUND (Off:0 Def:2),,75-85,75,85
 0021901263,2020-08-05,WAS,PHI,38.37,4,9,38,WAS,WAS,fg_miss,1,True,False,MISS Bonga 14' Jump Shot,,75-85,75,85
-0021901263,2020-08-05,WAS,PHI,38.37,4,9,38,PHI,PHI,reb,0,False,False,,76ers Rebound,75-85,75,85
 0021901263,2020-08-05,WAS,PHI,38.37,4,9,38,WAS,PHI,block,1,True,False,block,block,75-85,75,85
+0021901263,2020-08-05,WAS,PHI,38.37,4,9,38,PHI,PHI,reb,0,False,False,,76ers Rebound,75-85,75,85
 0021901263,2020-08-05,WAS,PHI,38.42,4,9,35,PHI,PHI,timeout,1,False,False,,76ers Timeout: Regular (Reg.4 Short 0),75-85,75,85
 0021901263,2020-08-05,WAS,PHI,38.48,4,9,31,,WAS,jump_ball,1,False,False,Jump Ball (CC) Hachimura vs. Embiid: Tip to Harris,,75-85,75,85
 0021901263,2020-08-05,WAS,PHI,38.58,4,9,25,PHI,PHI,fg_miss,1,False,False,,MISS Embiid 18' Jump Shot,75-85,75,85
@@ -434,11 +434,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901263,2020-08-05,WAS,PHI,46.33,4,1,40,WAS,WAS,fg_make,1,False,False,Bryant 14' Jump Shot (19 PTS) (Hachimura 2 AST),,98-102,98,102
 0021901263,2020-08-05,WAS,PHI,46.53,4,1,28,PHI,PHI,fg_miss,6,True,False,,MISS Milton 2' Driving Layup,98-102,98,102
 0021901263,2020-08-05,WAS,PHI,46.53,4,1,28,PHI,WAS,block,6,True,False,block,block,98-102,98,102
-0021901263,2020-08-05,WAS,PHI,46.58,4,1,25,PHI,PHI,reb,0,False,False,,76ers Rebound,98-102,98,102
 0021901263,2020-08-05,WAS,PHI,46.58,4,1,25,,WAS,jump_ball,0,False,False,Jump Ball Smith vs. Milton: Tip to Horford,,98-102,98,102
+0021901263,2020-08-05,WAS,PHI,46.58,4,1,25,PHI,PHI,reb,0,False,False,,76ers Rebound,98-102,98,102
 0021901263,2020-08-05,WAS,PHI,46.73,4,1,16,PHI,PHI,fg_miss,86,False,False,,MISS Embiid 12' Turnaround Fadeaway Shot,98-102,98,102
-0021901263,2020-08-05,WAS,PHI,46.82,4,1,11,PHI,PHI,fg_miss,97,False,False,,MISS Harris 1' Tip Layup Shot,98-102,98,102
 0021901263,2020-08-05,WAS,PHI,46.82,4,1,11,PHI,PHI,reb,0,False,False,,Harris REBOUND (Off:1 Def:4),98-102,98,102
+0021901263,2020-08-05,WAS,PHI,46.82,4,1,11,PHI,PHI,fg_miss,97,False,False,,MISS Harris 1' Tip Layup Shot,98-102,98,102
 0021901263,2020-08-05,WAS,PHI,46.83,4,1,10,WAS,WAS,reb,0,False,False,Smith REBOUND (Off:0 Def:5),,98-102,98,102
 0021901263,2020-08-05,WAS,PHI,46.93,4,1,4,WAS,WAS,fg_miss,73,True,False,MISS Smith 2' Driving Reverse Layup,,98-102,98,102
 0021901263,2020-08-05,WAS,PHI,46.93,4,1,4,WAS,PHI,block,73,True,False,block,block,98-102,98,102

@@ -87,8 +87,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700252,2017-11-21,LAL,CHI,10.8,1,1,12,CHI,CHI,fg_miss,5,False,False,,MISS Blakeney 2' Layup,23-25,23,25
 0021700252,2017-11-21,LAL,CHI,10.83,1,1,10,LAL,LAL,reb,0,False,False,Randle REBOUND (Off:0 Def:1),,23-25,23,25
 0021700252,2017-11-21,LAL,CHI,10.92,1,1,5,LAL,LAL,fg_miss,5,True,False,MISS Randle 2' Layup,,23-25,23,25
-0021700252,2017-11-21,LAL,CHI,10.92,1,1,5,CHI,CHI,reb,0,False,False,,Bulls Rebound,23-25,23,25
 0021700252,2017-11-21,LAL,CHI,10.92,1,1,5,LAL,CHI,block,5,True,False,block,block,23-25,23,25
+0021700252,2017-11-21,LAL,CHI,10.92,1,1,5,CHI,CHI,reb,0,False,False,,Bulls Rebound,23-25,23,25
 0021700252,2017-11-21,LAL,CHI,11.07,1,0,56,CHI,CHI,fg_miss,79,False,False,,MISS Grant 18' Pullup Jump Shot,23-25,23,25
 0021700252,2017-11-21,LAL,CHI,11.12,1,0,53,LAL,LAL,reb,0,False,False,Randle REBOUND (Off:0 Def:2),,23-25,23,25
 0021700252,2017-11-21,LAL,CHI,11.27,1,0,44,LAL,CHI,foul,1,False,False,,Blakeney P.FOUL (P1.T2) (B.Spooner),23-25,23,25
@@ -122,8 +122,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700252,2017-11-21,LAL,CHI,14.72,2,9,17,CHI,CHI,fg_miss,1,False,False,,MISS Blakeney 18' Jump Shot,26-36,26,36
 0021700252,2017-11-21,LAL,CHI,14.78,2,9,13,CHI,CHI,reb,0,False,False,,Portis REBOUND (Off:1 Def:3),26-36,26,36
 0021700252,2017-11-21,LAL,CHI,14.82,2,9,11,CHI,CHI,fg_miss,5,True,False,,MISS Portis 1' Layup,26-36,26,36
-0021700252,2017-11-21,LAL,CHI,14.82,2,9,11,LAL,LAL,reb,0,False,False,Brewer REBOUND (Off:0 Def:1),,26-36,26,36
 0021700252,2017-11-21,LAL,CHI,14.82,2,9,11,CHI,LAL,block,5,True,False,block,block,26-36,26,36
+0021700252,2017-11-21,LAL,CHI,14.82,2,9,11,LAL,LAL,reb,0,False,False,Brewer REBOUND (Off:0 Def:1),,26-36,26,36
 0021700252,2017-11-21,LAL,CHI,14.92,2,9,5,LAL,LAL,fg3_miss,1,False,False,MISS Hart 25' 3PT Jump Shot,,26-36,26,36
 0021700252,2017-11-21,LAL,CHI,14.97,2,9,2,CHI,CHI,reb,0,False,False,,Blakeney REBOUND (Off:0 Def:2),26-36,26,36
 0021700252,2017-11-21,LAL,CHI,15.05,2,8,57,CHI,CHI,fg3_make,1,False,False,,Grant 27' 3PT Jump Shot (3 PTS) (Blakeney 1 AST),26-39,26,39
@@ -210,8 +210,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700252,2017-11-21,LAL,CHI,24.33,3,11,40,CHI,CHI,fg3_miss,1,False,False,,MISS Holiday 27' 3PT Jump Shot,42-56,42,56
 0021700252,2017-11-21,LAL,CHI,24.37,3,11,38,CHI,CHI,reb,0,False,False,,Markkanen REBOUND (Off:2 Def:4),42-56,42,56
 0021700252,2017-11-21,LAL,CHI,24.4,3,11,36,CHI,CHI,fg_miss,72,True,False,,MISS Markkanen 3' Putback Layup,42-56,42,56
-0021700252,2017-11-21,LAL,CHI,24.4,3,11,36,CHI,CHI,reb,0,False,False,,Markkanen REBOUND (Off:3 Def:4),42-56,42,56
 0021700252,2017-11-21,LAL,CHI,24.4,3,11,36,CHI,LAL,block,72,True,False,block,block,42-56,42,56
+0021700252,2017-11-21,LAL,CHI,24.4,3,11,36,CHI,CHI,reb,0,False,False,,Markkanen REBOUND (Off:3 Def:4),42-56,42,56
 0021700252,2017-11-21,LAL,CHI,24.43,3,11,34,,LAL,jump_ball,0,False,False,Jump Ball Lopez vs. Markkanen: Tip to Dunn,,42-56,42,56
 0021700252,2017-11-21,LAL,CHI,24.52,3,11,29,CHI,CHI,fg3_make,1,False,False,,Holiday 26' 3PT Jump Shot (6 PTS) (Dunn 4 AST),42-59,42,59
 0021700252,2017-11-21,LAL,CHI,24.82,3,11,11,LAL,LAL,fg3_miss,1,False,False,MISS Ingram 25' 3PT Jump Shot,,42-59,42,59
@@ -426,8 +426,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700252,2017-11-21,LAL,CHI,45.78,4,2,13,LAL,LAL,fg3_miss,1,False,False,MISS Caldwell-Pope 25' 3PT Jump Shot,,94-92,94,92
 0021700252,2017-11-21,LAL,CHI,45.82,4,2,11,CHI,CHI,reb,0,False,False,,Holiday REBOUND (Off:2 Def:7),94-92,94,92
 0021700252,2017-11-21,LAL,CHI,46.18,4,1,49,CHI,CHI,fg_miss,5,True,False,,MISS Dunn 5' Layup,94-92,94,92
-0021700252,2017-11-21,LAL,CHI,46.18,4,1,49,CHI,CHI,reb,0,False,False,,Bulls Rebound,94-92,94,92
 0021700252,2017-11-21,LAL,CHI,46.18,4,1,49,CHI,LAL,block,5,True,False,block,block,94-92,94,92
+0021700252,2017-11-21,LAL,CHI,46.18,4,1,49,CHI,CHI,reb,0,False,False,,Bulls Rebound,94-92,94,92
 0021700252,2017-11-21,LAL,CHI,46.22,4,1,47,CHI,CHI,fg_miss,1,False,False,,MISS Valentine 15' Jump Shot,94-92,94,92
 0021700252,2017-11-21,LAL,CHI,46.27,4,1,44,LAL,LAL,reb,0,False,False,Ball REBOUND (Off:2 Def:10),,94-92,94,92
 0021700252,2017-11-21,LAL,CHI,46.3,4,1,42,LAL,LAL,fg3_make,79,False,False,Caldwell-Pope 26' 3PT Pullup Jump Shot (18 PTS) (Ball 4 AST),,97-92,97,92
@@ -456,7 +456,7 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700252,2017-11-21,LAL,CHI,47.97,4,0,2,LAL,CHI,foul,3,False,False,,Lopez L.B.FOUL (P5.PN) (B.Spooner),102-94,102,94
 0021700252,2017-11-21,LAL,CHI,47.97,4,0,2,LAL,LAL,ft_make,11,False,False,Caldwell-Pope Free Throw 1 of 2 (21 PTS),,103-94,103,94
 0021700252,2017-11-21,LAL,CHI,47.97,4,0,2,LAL,LAL,ft_miss,12,False,False,MISS Caldwell-Pope Free Throw 2 of 2,,103-94,103,94
-0021700252,2017-11-21,LAL,CHI,48.0,4,0,0,CHI,CHI,fg3_miss,1,False,False,,MISS Holiday 63' 3PT Jump Shot,103-94,103,94
 0021700252,2017-11-21,LAL,CHI,48.0,4,0,0,CHI,CHI,reb,0,False,False,,Holiday REBOUND (Off:2 Def:8),103-94,103,94
+0021700252,2017-11-21,LAL,CHI,48.0,4,0,0,CHI,CHI,fg3_miss,1,False,False,,MISS Holiday 63' 3PT Jump Shot,103-94,103,94
 0021700252,2017-11-21,LAL,CHI,48.0,4,0,0,CHI,CHI,reb,0,False,False,,Bulls Rebound,103-94,103,94
 0021700252,2017-11-21,LAL,CHI,48.0,4,0,0,CHI,,period_end,0,False,False,,,103-94,103,94

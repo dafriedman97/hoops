@@ -8,8 +8,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700978,2018-03-09,IND,ATL,1.25,1,10,45,ATL,ATL,fg3_miss,1,False,False,,MISS Collins 3PT Jump Shot,3-2,3,2
 0021700978,2018-03-09,IND,ATL,1.3,1,10,42,IND,IND,reb,0,False,False,Oladipo REBOUND (Off:0 Def:1),,3-2,3,2
 0021700978,2018-03-09,IND,ATL,1.45,1,10,33,IND,IND,fg_miss,6,True,False,MISS Bogdanovic 1' Driving Layup,,3-2,3,2
-0021700978,2018-03-09,IND,ATL,1.45,1,10,33,IND,IND,reb,0,False,False,PACERS Rebound,,3-2,3,2
 0021700978,2018-03-09,IND,ATL,1.45,1,10,33,IND,ATL,block,6,True,False,block,block,3-2,3,2
+0021700978,2018-03-09,IND,ATL,1.45,1,10,33,IND,IND,reb,0,False,False,PACERS Rebound,,3-2,3,2
 0021700978,2018-03-09,IND,ATL,1.58,1,10,25,IND,IND,fg3_miss,1,False,False,MISS Young 24' 3PT Jump Shot,,3-2,3,2
 0021700978,2018-03-09,IND,ATL,1.63,1,10,22,ATL,ATL,reb,0,False,False,,Dedmon REBOUND (Off:0 Def:1),3-2,3,2
 0021700978,2018-03-09,IND,ATL,1.73,1,10,16,ATL,ATL,fg_miss,79,False,False,,MISS Prince 12' Pullup Jump Shot,3-2,3,2
@@ -187,11 +187,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700978,2018-03-09,IND,ATL,23.9,2,0,6,ATL,IND,foul,28,False,False,Collison Personal Take Foul (P2.T3) (Z.Zarba),,53-34,53,34
 0021700978,2018-03-09,IND,ATL,23.97,2,0,2,ATL,ATL,fg3_make,1,False,False,,Schroder 28' 3PT Jump Shot (11 PTS) (Muscala 1 AST),53-37,53,37
 0021700978,2018-03-09,IND,ATL,24.0,2,0,0,IND,IND,tov,1,False,True,Young Bad Pass Turnover (P2.T9),,53-37,53,37
+0021700978,2018-03-09,IND,ATL,24.0,2,0,0,IND,ATL,steal,1,False,True,steal,steal,53-37,53,37
 0021700978,2018-03-09,IND,ATL,24.0,2,0,0,ATL,ATL,fg3_miss,1,False,False,,MISS Schroder 46' 3PT Jump Shot,53-37,53,37
 0021700978,2018-03-09,IND,ATL,24.0,2,0,0,ATL,ATL,reb,0,False,False,,Hawks Rebound,53-37,53,37
 0021700978,2018-03-09,IND,ATL,24.0,2,0,0,ATL,,period_end,0,False,False,,,53-37,53,37
 0021700978,2018-03-09,IND,ATL,24.0,3,12,0,ATL,,period_start,0,False,False,,,53-37,53,37
-0021700978,2018-03-09,IND,ATL,24.0,2,0,0,IND,ATL,steal,1,False,True,steal,steal,53-37,53,37
 0021700978,2018-03-09,IND,ATL,24.28,3,11,43,IND,IND,fg3_make,1,False,False,Oladipo 28' 3PT Jump Shot (5 PTS) (Joseph 2 AST),,56-37,56,37
 0021700978,2018-03-09,IND,ATL,24.5,3,11,30,ATL,IND,foul,29,False,False,Young Shooting Block Foul (P1.T1) (Z.Zarba),,56-37,56,37
 0021700978,2018-03-09,IND,ATL,24.5,3,11,30,ATL,ATL,ft_make,11,False,False,,Schroder Free Throw 1 of 2 (12 PTS),56-38,56,38
@@ -274,8 +274,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700978,2018-03-09,IND,ATL,32.65,3,3,21,IND,IND,fg3_miss,1,False,False,MISS Young 24' 3PT Jump Shot,,80-53,80,53
 0021700978,2018-03-09,IND,ATL,32.72,3,3,17,IND,IND,reb,0,False,False,Bogdanovic REBOUND (Off:1 Def:1),,80-53,80,53
 0021700978,2018-03-09,IND,ATL,32.72,3,3,17,IND,IND,fg_miss,5,True,False,MISS Bogdanovic 1' Layup,,80-53,80,53
-0021700978,2018-03-09,IND,ATL,32.72,3,3,17,ATL,ATL,reb,0,False,False,,Plumlee REBOUND (Off:0 Def:1),80-53,80,53
 0021700978,2018-03-09,IND,ATL,32.72,3,3,17,IND,ATL,block,5,True,False,block,block,80-53,80,53
+0021700978,2018-03-09,IND,ATL,32.72,3,3,17,ATL,ATL,reb,0,False,False,,Plumlee REBOUND (Off:0 Def:1),80-53,80,53
 0021700978,2018-03-09,IND,ATL,32.83,3,3,10,ATL,ATL,fg3_miss,1,False,False,,MISS Muscala 3PT Jump Shot,80-53,80,53
 0021700978,2018-03-09,IND,ATL,32.88,3,3,7,IND,IND,reb,0,False,False,Bogdanovic REBOUND (Off:1 Def:2),,80-53,80,53
 0021700978,2018-03-09,IND,ATL,32.95,3,3,3,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 3 Short 0),,80-53,80,53
@@ -326,9 +326,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700978,2018-03-09,IND,ATL,39.1,4,8,54,ATL,ATL,reb,0,False,False,,Dedmon REBOUND (Off:0 Def:6),97-75,97,75
 0021700978,2018-03-09,IND,ATL,39.18,4,8,49,ATL,IND,foul,1,False,False,Stephenson P.FOUL (P2.T4) (Z.Zarba),,97-75,97,75
 0021700978,2018-03-09,IND,ATL,39.33,4,8,40,ATL,ATL,fg_miss,6,True,False,,MISS Morris 2' Driving Layup,97-75,97,75
+0021700978,2018-03-09,IND,ATL,39.33,4,8,40,ATL,IND,block,6,True,False,block,block,97-75,97,75
 0021700978,2018-03-09,IND,ATL,39.33,4,8,40,ATL,ATL,reb,0,False,False,,Hawks Rebound,97-75,97,75
 0021700978,2018-03-09,IND,ATL,39.33,4,8,40,ATL,IND,foul,5,False,False,Bogdanovic IN.FOUL (P1.PN) (M.Lindsay),,97-75,97,75
-0021700978,2018-03-09,IND,ATL,39.33,4,8,40,ATL,IND,block,6,True,False,block,block,97-75,97,75
 0021700978,2018-03-09,IND,ATL,39.33,4,8,40,ATL,ATL,ft_make,10,False,False,,Muscala Free Throw 1 of 1 (10 PTS),97-76,97,76
 0021700978,2018-03-09,IND,ATL,39.43,4,8,34,ATL,ATL,fg3_miss,1,False,False,,MISS Dorsey 28' 3PT Jump Shot,97-76,97,76
 0021700978,2018-03-09,IND,ATL,39.48,4,8,31,IND,IND,reb,0,False,False,Stephenson REBOUND (Off:0 Def:2),,97-76,97,76

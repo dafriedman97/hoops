@@ -63,8 +63,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800117,2018-11-02,ORL,LAC,8.78,1,3,13,ORL,LAC,steal,1,False,True,steal,steal,18-21,18,21
 0021800117,2018-11-02,ORL,LAC,8.88,1,3,7,LAC,LAC,tov,39,False,False,,Gilgeous-Alexander Step Out of Bounds Turnover (P1.T3),18-21,18,21
 0021800117,2018-11-02,ORL,LAC,9.15,1,2,51,ORL,ORL,fg_make,1,False,False,Bamba 19' Jump Shot (2 PTS),,20-21,20,21
-0021800117,2018-11-02,ORL,LAC,9.43,1,2,34,LAC,LAC,tov,40,False,False,,Williams Out of Bounds Lost Ball Turnover (P1.T4),20-21,20,21
 0021800117,2018-11-02,ORL,LAC,9.43,1,2,34,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.1 Short 0),20-21,20,21
+0021800117,2018-11-02,ORL,LAC,9.43,1,2,34,LAC,LAC,tov,40,False,False,,Williams Out of Bounds Lost Ball Turnover (P1.T4),20-21,20,21
 0021800117,2018-11-02,ORL,LAC,9.82,1,2,11,ORL,ORL,fg_miss,47,False,False,MISS Vucevic 12' Turnaround Jump Shot,,20-21,20,21
 0021800117,2018-11-02,ORL,LAC,9.88,1,2,7,LAC,LAC,reb,0,False,False,,Harris REBOUND (Off:0 Def:2),20-21,20,21
 0021800117,2018-11-02,ORL,LAC,10.08,1,1,55,LAC,LAC,fg3_miss,1,False,False,,MISS Gilgeous-Alexander 3PT Jump Shot,20-21,20,21
@@ -155,8 +155,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800117,2018-11-02,ORL,LAC,17.38,2,6,37,ORL,ORL,fg3_miss,1,False,False,MISS Bamba 27' 3PT Jump Shot,,29-38,29,38
 0021800117,2018-11-02,ORL,LAC,17.38,2,6,37,LAC,LAC,reb,0,False,False,,Teodosic REBOUND (Off:0 Def:3),29-38,29,38
 0021800117,2018-11-02,ORL,LAC,17.58,2,6,25,LAC,LAC,tov,2,False,True,,Bradley Lost Ball Turnover (P1.T6),29-38,29,38
-0021800117,2018-11-02,ORL,LAC,17.58,2,6,25,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 2 Short 0),,29-38,29,38
 0021800117,2018-11-02,ORL,LAC,17.58,2,6,25,LAC,ORL,steal,2,False,True,steal,steal,29-38,29,38
+0021800117,2018-11-02,ORL,LAC,17.58,2,6,25,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 2 Short 0),,29-38,29,38
 0021800117,2018-11-02,ORL,LAC,17.92,2,6,5,ORL,ORL,fg_miss,6,False,False,MISS Fournier 3' Driving Layup,,29-38,29,38
 0021800117,2018-11-02,ORL,LAC,18.0,2,6,0,ORL,ORL,reb,0,False,False,Isaac REBOUND (Off:1 Def:0),,29-38,29,38
 0021800117,2018-11-02,ORL,LAC,18.0,2,6,0,ORL,ORL,fg_make,107,False,False,Isaac 1' Tip Dunk Shot (2 PTS),,31-38,31,38
@@ -228,8 +228,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800117,2018-11-02,ORL,LAC,24.0,2,0,0,LAC,,period_end,0,False,False,,,44-57,44,57
 0021800117,2018-11-02,ORL,LAC,24.0,3,12,0,LAC,,period_start,0,False,False,,,44-57,44,57
 0021800117,2018-11-02,ORL,LAC,24.27,3,11,44,LAC,LAC,fg_miss,6,True,False,,MISS Bradley 1' Driving Layup,44-57,44,57
-0021800117,2018-11-02,ORL,LAC,24.27,3,11,44,LAC,LAC,reb,0,False,False,,Clippers Rebound,44-57,44,57
 0021800117,2018-11-02,ORL,LAC,24.27,3,11,44,LAC,ORL,block,6,True,False,block,block,44-57,44,57
+0021800117,2018-11-02,ORL,LAC,24.27,3,11,44,LAC,LAC,reb,0,False,False,,Clippers Rebound,44-57,44,57
 0021800117,2018-11-02,ORL,LAC,24.37,3,11,38,LAC,LAC,fg3_miss,79,False,False,,MISS Harris 27' 3PT Pullup Jump Shot,44-57,44,57
 0021800117,2018-11-02,ORL,LAC,24.45,3,11,33,ORL,ORL,reb,0,False,False,Gordon REBOUND (Off:0 Def:3),,44-57,44,57
 0021800117,2018-11-02,ORL,LAC,24.58,3,11,25,ORL,ORL,fg_make,6,False,False,Gordon 2' Driving Layup (4 PTS),,46-57,46,57
@@ -434,8 +434,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800117,2018-11-02,ORL,LAC,46.02,4,1,59,ORL,LAC,steal,1,False,True,steal,steal,89-112,89,112
 0021800117,2018-11-02,ORL,LAC,46.17,4,1,50,LAC,LAC,fg_make,78,False,False,,Wallace 10' Floating Jump Shot (2 PTS) (Scott 4 AST),89-114,89,114
 0021800117,2018-11-02,ORL,LAC,46.33,4,1,40,ORL,ORL,fg_miss,78,True,False,MISS Briscoe 5' Floating Jump Shot,,89-114,89,114
-0021800117,2018-11-02,ORL,LAC,46.33,4,1,40,ORL,ORL,reb,0,False,False,MAGIC Rebound,,89-114,89,114
 0021800117,2018-11-02,ORL,LAC,46.33,4,1,40,ORL,LAC,block,78,True,False,block,block,89-114,89,114
+0021800117,2018-11-02,ORL,LAC,46.33,4,1,40,ORL,ORL,reb,0,False,False,MAGIC Rebound,,89-114,89,114
 0021800117,2018-11-02,ORL,LAC,46.45,4,1,33,ORL,ORL,fg_make,79,False,False,Grant 20' Pullup Jump Shot (8 PTS),,91-114,91,114
 0021800117,2018-11-02,ORL,LAC,46.85,4,1,9,LAC,LAC,fg3_make,1,False,False,,Robinson 25' 3PT Jump Shot (3 PTS) (Gilgeous-Alexander 1 AST),91-117,91,117
 0021800117,2018-11-02,ORL,LAC,47.03,4,0,58,ORL,ORL,fg_make,58,False,False,Birch 5' Turnaround Hook Shot (2 PTS),,93-117,93,117

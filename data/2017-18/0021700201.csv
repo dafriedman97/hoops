@@ -80,14 +80,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700201,2017-11-14,BKN,BOS,10.97,1,1,2,BKN,BKN,fg_miss,98,False,False,MISS Harris 1' Cutting Layup Shot,,21-27,21,27
 0021700201,2017-11-14,BKN,BOS,11.02,1,0,59,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:0 Def:3),21-27,21,27
 0021700201,2017-11-14,BKN,BOS,11.07,1,0,56,BOS,BOS,fg_miss,6,True,False,,MISS Theis 2' Driving Layup,21-27,21,27
-0021700201,2017-11-14,BKN,BOS,11.07,1,0,56,BKN,BKN,reb,0,False,False,Whitehead REBOUND (Off:0 Def:2),,21-27,21,27
 0021700201,2017-11-14,BKN,BOS,11.07,1,0,56,BOS,BKN,block,6,True,False,block,block,21-27,21,27
+0021700201,2017-11-14,BKN,BOS,11.07,1,0,56,BKN,BKN,reb,0,False,False,Whitehead REBOUND (Off:0 Def:2),,21-27,21,27
 0021700201,2017-11-14,BKN,BOS,11.17,1,0,50,BKN,BKN,fg3_miss,1,False,False,MISS Harris 3PT Jump Shot,,21-27,21,27
 0021700201,2017-11-14,BKN,BOS,11.17,1,0,50,BOS,BOS,reb,0,False,False,,Baynes REBOUND (Off:0 Def:1),21-27,21,27
 0021700201,2017-11-14,BKN,BOS,11.32,1,0,41,BOS,BOS,fg_miss,6,True,False,,MISS Rozier 1' Driving Layup,21-27,21,27
+0021700201,2017-11-14,BKN,BOS,11.32,1,0,41,BOS,BKN,block,6,True,False,block,block,21-27,21,27
 0021700201,2017-11-14,BKN,BOS,11.32,1,0,41,BOS,BOS,reb,0,False,False,,Baynes REBOUND (Off:1 Def:1),21-27,21,27
 0021700201,2017-11-14,BKN,BOS,11.32,1,0,41,BOS,BOS,fg_miss,3,False,False,,MISS Baynes 1' Hook Shot,21-27,21,27
-0021700201,2017-11-14,BKN,BOS,11.32,1,0,41,BOS,BKN,block,6,True,False,block,block,21-27,21,27
 0021700201,2017-11-14,BKN,BOS,11.33,1,0,40,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:1 Def:3),21-27,21,27
 0021700201,2017-11-14,BKN,BOS,11.33,1,0,40,BOS,BOS,fg_miss,97,False,False,,MISS Theis 3' Tip Layup Shot,21-27,21,27
 0021700201,2017-11-14,BKN,BOS,11.37,1,0,38,BKN,BKN,reb,0,False,False,Acy REBOUND (Off:0 Def:1),,21-27,21,27
@@ -95,10 +95,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700201,2017-11-14,BKN,BOS,11.55,1,0,27,BKN,BKN,reb,0,False,False,Harris REBOUND (Off:1 Def:1),,21-27,21,27
 0021700201,2017-11-14,BKN,BOS,11.63,1,0,22,BKN,BKN,tov,40,False,False,LeVert Out of Bounds Lost Ball Turnover (P1.T3),,21-27,21,27
 0021700201,2017-11-14,BKN,BOS,11.95,1,0,3,BOS,BOS,fg3_make,79,False,False,,Irving 25' 3PT Pullup Jump Shot (6 PTS),21-30,21,30
-0021700201,2017-11-14,BKN,BOS,12.0,1,0,0,BKN,BKN,fg3_miss,1,False,False,MISS Harris 26' 3PT Jump Shot,,21-30,21,30
-0021700201,2017-11-14,BKN,BOS,12.0,1,0,0,BOS,BOS,reb,0,False,False,,Celtics Rebound,21-30,21,30
 0021700201,2017-11-14,BKN,BOS,12.0,1,0,0,BOS,,period_end,0,False,False,,,21-30,21,30
 0021700201,2017-11-14,BKN,BOS,12.0,2,12,0,BOS,,period_start,0,False,False,,,21-30,21,30
+0021700201,2017-11-14,BKN,BOS,12.0,1,0,0,BKN,BKN,fg3_miss,1,False,False,MISS Harris 26' 3PT Jump Shot,,21-30,21,30
+0021700201,2017-11-14,BKN,BOS,12.0,1,0,0,BOS,BOS,reb,0,False,False,,Celtics Rebound,21-30,21,30
 0021700201,2017-11-14,BKN,BOS,12.27,2,11,44,BKN,BKN,fg3_miss,1,False,False,MISS Harris 25' 3PT Jump Shot,,21-30,21,30
 0021700201,2017-11-14,BKN,BOS,12.27,2,11,44,BOS,BOS,reb,0,False,False,,Rozier REBOUND (Off:0 Def:1),21-30,21,30
 0021700201,2017-11-14,BKN,BOS,12.65,2,11,21,BOS,BOS,fg_miss,1,False,False,,MISS Rozier 18' Jump Shot,21-30,21,30
@@ -129,10 +129,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700201,2017-11-14,BKN,BOS,16.18,2,7,49,BOS,BOS,fg_miss,1,False,False,,MISS Morris Sr. 18' Jump Shot,31-37,31,37
 0021700201,2017-11-14,BKN,BOS,16.18,2,7,49,BOS,BOS,reb,0,False,False,,Celtics Rebound,31-37,31,37
 0021700201,2017-11-14,BKN,BOS,16.2,2,7,48,BOS,BKN,foul,1,False,False,Booker P.FOUL (P1.PN) (K.Cutler),,31-37,31,37
-0021700201,2017-11-14,BKN,BOS,16.2,2,7,48,BOS,BOS,ft_miss,12,False,False,,MISS Baynes Free Throw 2 of 2,31-37,31,37
-0021700201,2017-11-14,BKN,BOS,16.2,2,7,48,BKN,BKN,reb,0,False,False,Booker REBOUND (Off:0 Def:2),,31-37,31,37
 0021700201,2017-11-14,BKN,BOS,16.2,2,7,48,BOS,BOS,ft_miss,11,False,False,,MISS Baynes Free Throw 1 of 2,31-37,31,37
 0021700201,2017-11-14,BKN,BOS,16.2,2,7,48,BOS,BOS,reb,1,False,False,,Celtics Rebound,31-37,31,37
+0021700201,2017-11-14,BKN,BOS,16.2,2,7,48,BOS,BOS,ft_miss,12,False,False,,MISS Baynes Free Throw 2 of 2,31-37,31,37
+0021700201,2017-11-14,BKN,BOS,16.2,2,7,48,BKN,BKN,reb,0,False,False,Booker REBOUND (Off:0 Def:2),,31-37,31,37
 0021700201,2017-11-14,BKN,BOS,16.43,2,7,34,BKN,BOS,foul,2,False,False,,Baynes S.FOUL (P1.T1) (K.Cutler),31-37,31,37
 0021700201,2017-11-14,BKN,BOS,16.43,2,7,34,BKN,BKN,ft_make,11,False,False,Booker Free Throw 1 of 2 (5 PTS),,32-37,32,37
 0021700201,2017-11-14,BKN,BOS,16.43,2,7,34,BKN,BKN,ft_make,12,False,False,Booker Free Throw 2 of 2 (6 PTS),,33-37,33,37

@@ -181,8 +181,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900263,2019-11-27,PHX,WAS,22.72,2,1,17,PHX,PHX,fg_miss,44,False,False,MISS Kaminsky 1' Reverse Layup,,66-72,66,72
 0021900263,2019-11-27,PHX,WAS,22.75,2,1,15,WAS,WAS,reb,0,False,False,,Bryant REBOUND (Off:0 Def:4),66-72,66,72
 0021900263,2019-11-27,PHX,WAS,22.8,2,1,12,WAS,WAS,fg_miss,41,True,False,,MISS Hachimura 1' Running Layup,66-72,66,72
-0021900263,2019-11-27,PHX,WAS,22.8,2,1,12,WAS,WAS,reb,0,False,False,,Wizards Rebound,66-72,66,72
 0021900263,2019-11-27,PHX,WAS,22.8,2,1,12,WAS,PHX,block,41,True,False,block,block,66-72,66,72
+0021900263,2019-11-27,PHX,WAS,22.8,2,1,12,WAS,WAS,reb,0,False,False,,Wizards Rebound,66-72,66,72
 0021900263,2019-11-27,PHX,WAS,22.88,2,1,7,WAS,WAS,fg_miss,1,False,False,,MISS Beal 14' Jump Shot,66-72,66,72
 0021900263,2019-11-27,PHX,WAS,22.88,2,1,7,PHX,PHX,reb,0,False,False,SUNS Rebound,,66-72,66,72
 0021900263,2019-11-27,PHX,WAS,23.13,2,0,52,PHX,PHX,fg3_make,1,False,False,Johnson 3PT Jump Shot (5 PTS) (Booker 5 AST),,69-72,69,72
@@ -190,10 +190,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900263,2019-11-27,PHX,WAS,23.52,2,0,29,WAS,WAS,reb,0,False,False,,Hachimura REBOUND (Off:1 Def:1),69-72,69,72
 0021900263,2019-11-27,PHX,WAS,23.63,2,0,22,WAS,WAS,fg_make,102,False,False,,Thomas 2' Driving Floating Bank Jump Shot (4 PTS) (Bryant 2 AST),69-74,69,74
 0021900263,2019-11-27,PHX,WAS,24.0,2,0,0,PHX,PHX,fg_miss,6,True,False,MISS Booker 5' Driving Layup,,69-74,69,74
+0021900263,2019-11-27,PHX,WAS,24.0,2,0,0,PHX,WAS,block,6,True,False,block,block,69-74,69,74
 0021900263,2019-11-27,PHX,WAS,24.0,2,0,0,WAS,WAS,reb,0,False,False,,Beal REBOUND (Off:0 Def:1),69-74,69,74
 0021900263,2019-11-27,PHX,WAS,24.0,2,0,0,WAS,,period_end,0,False,False,,,69-74,69,74
 0021900263,2019-11-27,PHX,WAS,24.0,3,12,0,WAS,,period_start,0,False,False,,,69-74,69,74
-0021900263,2019-11-27,PHX,WAS,24.0,2,0,0,PHX,WAS,block,6,True,False,block,block,69-74,69,74
 0021900263,2019-11-27,PHX,WAS,24.15,3,11,51,PHX,PHX,fg_miss,52,False,False,MISS Oubre Jr. 1' Alley Oop Dunk,,69-74,69,74
 0021900263,2019-11-27,PHX,WAS,24.17,3,11,50,WAS,WAS,reb,0,False,False,,Hachimura REBOUND (Off:1 Def:2),69-74,69,74
 0021900263,2019-11-27,PHX,WAS,24.42,3,11,35,WAS,WAS,fg3_make,80,False,False,,Thomas 3PT Step Back Jump Shot (7 PTS),69-77,69,77
@@ -213,8 +213,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900263,2019-11-27,PHX,WAS,26.28,3,9,43,PHX,PHX,fg3_miss,1,False,False,MISS Kaminsky 26' 3PT Jump Shot,,71-87,71,87
 0021900263,2019-11-27,PHX,WAS,26.33,3,9,40,WAS,WAS,reb,0,False,False,,Bryant REBOUND (Off:0 Def:6),71-87,71,87
 0021900263,2019-11-27,PHX,WAS,26.52,3,9,29,WAS,WAS,fg_miss,98,True,False,,MISS Hachimura 5' Cutting Layup Shot,71-87,71,87
-0021900263,2019-11-27,PHX,WAS,26.52,3,9,29,WAS,WAS,reb,0,False,False,,Wizards Rebound,71-87,71,87
 0021900263,2019-11-27,PHX,WAS,26.52,3,9,29,WAS,PHX,block,98,True,False,block,block,71-87,71,87
+0021900263,2019-11-27,PHX,WAS,26.52,3,9,29,WAS,WAS,reb,0,False,False,,Wizards Rebound,71-87,71,87
 0021900263,2019-11-27,PHX,WAS,26.6,3,9,24,WAS,WAS,fg3_miss,1,False,False,,MISS Thomas 26' 3PT Jump Shot,71-87,71,87
 0021900263,2019-11-27,PHX,WAS,26.63,3,9,22,PHX,PHX,reb,0,False,False,Oubre Jr. REBOUND (Off:0 Def:2),,71-87,71,87
 0021900263,2019-11-27,PHX,WAS,26.72,3,9,17,PHX,PHX,tov,2,False,True,Oubre Jr. Lost Ball Turnover (P3.T10),,71-87,71,87
@@ -311,8 +311,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900263,2019-11-27,PHX,WAS,37.53,4,10,28,PHX,PHX,reb,0,False,False,Johnson REBOUND (Off:0 Def:2),,99-113,99,113
 0021900263,2019-11-27,PHX,WAS,37.7,4,10,18,PHX,PHX,fg3_make,1,False,False,Johnson 25' 3PT Jump Shot (12 PTS) (Johnson 1 AST),,102-113,102,113
 0021900263,2019-11-27,PHX,WAS,38.08,4,9,55,WAS,WAS,fg_miss,98,True,False,,MISS Hachimura 6' Cutting Layup Shot,102-113,102,113
-0021900263,2019-11-27,PHX,WAS,38.08,4,9,55,PHX,PHX,reb,0,False,False,Bridges REBOUND (Off:0 Def:1),,102-113,102,113
 0021900263,2019-11-27,PHX,WAS,38.08,4,9,55,WAS,PHX,block,98,True,False,block,block,102-113,102,113
+0021900263,2019-11-27,PHX,WAS,38.08,4,9,55,PHX,PHX,reb,0,False,False,Bridges REBOUND (Off:0 Def:1),,102-113,102,113
 0021900263,2019-11-27,PHX,WAS,38.25,4,9,45,PHX,PHX,fg_make,79,False,False,Johnson 12' Pullup Jump Shot (7 PTS),,104-113,104,113
 0021900263,2019-11-27,PHX,WAS,38.25,4,9,45,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.4 Short 0),104-113,104,113
 0021900263,2019-11-27,PHX,WAS,38.5,4,9,30,WAS,WAS,fg3_make,1,False,False,,Bertans 26' 3PT Jump Shot (14 PTS) (Smith 6 AST),104-116,104,116
@@ -374,16 +374,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900263,2019-11-27,PHX,WAS,43.25,4,4,45,PHX,PHX,fg_miss,79,False,False,MISS Rubio 21' Pullup Jump Shot,,116-124,116,124
 0021900263,2019-11-27,PHX,WAS,43.32,4,4,41,WAS,WAS,reb,0,False,False,,McRae REBOUND (Off:0 Def:1),116-124,116,124
 0021900263,2019-11-27,PHX,WAS,43.58,4,4,25,WAS,WAS,fg_miss,1,True,False,,MISS Beal 7' Jump Shot,116-124,116,124
-0021900263,2019-11-27,PHX,WAS,43.58,4,4,25,PHX,PHX,reb,0,False,False,SUNS Rebound,,116-124,116,124
 0021900263,2019-11-27,PHX,WAS,43.58,4,4,25,WAS,PHX,block,1,True,False,block,block,116-124,116,124
+0021900263,2019-11-27,PHX,WAS,43.58,4,4,25,PHX,PHX,reb,0,False,False,SUNS Rebound,,116-124,116,124
 0021900263,2019-11-27,PHX,WAS,43.82,4,4,11,WAS,PHX,foul,4,False,False,Johnson OFF.Foul (P1) (C.Kirkland),,116-124,116,124
 0021900263,2019-11-27,PHX,WAS,43.82,4,4,11,PHX,PHX,tov,37,False,False,Johnson Offensive Foul Turnover (P1.T14),,116-124,116,124
 0021900263,2019-11-27,PHX,WAS,44.0,4,4,0,WAS,WAS,fg3_miss,1,False,False,,MISS McRae 24' 3PT Jump Shot,116-124,116,124
 0021900263,2019-11-27,PHX,WAS,44.07,4,3,56,PHX,PHX,reb,0,False,False,Johnson REBOUND (Off:0 Def:3),,116-124,116,124
 0021900263,2019-11-27,PHX,WAS,44.18,4,3,49,PHX,PHX,fg_make,98,False,False,Saric 1' Cutting Layup Shot (14 PTS) (Booker 8 AST),,118-124,118,124
 0021900263,2019-11-27,PHX,WAS,44.58,4,3,25,WAS,WAS,fg_miss,80,True,False,,MISS Thomas 9' Step Back Jump Shot,118-124,118,124
-0021900263,2019-11-27,PHX,WAS,44.58,4,3,25,WAS,WAS,reb,0,False,False,,Wizards Rebound,118-124,118,124
 0021900263,2019-11-27,PHX,WAS,44.58,4,3,25,WAS,PHX,block,80,True,False,block,block,118-124,118,124
+0021900263,2019-11-27,PHX,WAS,44.58,4,3,25,WAS,WAS,reb,0,False,False,,Wizards Rebound,118-124,118,124
 0021900263,2019-11-27,PHX,WAS,44.6,4,3,24,WAS,WAS,tov,11,False,False,,Wizards Turnover: Shot Clock (T#13),118-124,118,124
 0021900263,2019-11-27,PHX,WAS,44.6,4,3,24,PHX,PHX,timeout,1,False,False,SUNS Timeout: Regular (Full 5 Short 0),,118-124,118,124
 0021900263,2019-11-27,PHX,WAS,44.77,4,3,14,PHX,PHX,fg3_miss,1,False,False,MISS Johnson 26' 3PT Jump Shot,,118-124,118,124

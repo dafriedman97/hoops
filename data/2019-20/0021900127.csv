@@ -3,8 +3,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900127,2019-11-09,SAS,BOS,0.0,1,12,0,,SAS,jump_ball,0,False,False,Jump Ball Aldridge vs. Theis: Tip to Murray,,0-0,0,0
 0021900127,2019-11-09,SAS,BOS,0.23,1,11,46,SAS,SAS,fg_make,79,False,False,DeRozan 17' Pullup Jump Shot (2 PTS),,2-0,2,0
 0021900127,2019-11-09,SAS,BOS,0.52,1,11,29,BOS,BOS,fg_miss,80,True,False,,MISS Hayward 11' Step Back Jump Shot,2-0,2,0
-0021900127,2019-11-09,SAS,BOS,0.52,1,11,29,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:1 Def:0),2-0,2,0
 0021900127,2019-11-09,SAS,BOS,0.52,1,11,29,BOS,SAS,block,80,True,False,block,block,2-0,2,0
+0021900127,2019-11-09,SAS,BOS,0.52,1,11,29,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:1 Def:0),2-0,2,0
 0021900127,2019-11-09,SAS,BOS,0.62,1,11,23,BOS,BOS,fg3_miss,80,False,False,,MISS Hayward 24' 3PT Step Back Jump Shot,2-0,2,0
 0021900127,2019-11-09,SAS,BOS,0.67,1,11,20,SAS,SAS,reb,0,False,False,Murray REBOUND (Off:0 Def:1),,2-0,2,0
 0021900127,2019-11-09,SAS,BOS,0.73,1,11,16,SAS,SAS,fg_make,76,False,False,Murray 1' Running Finger Roll Layup (2 PTS),,4-0,4,0
@@ -34,8 +34,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900127,2019-11-09,SAS,BOS,3.23,1,8,46,BOS,BOS,fg_miss,78,False,False,,MISS Walker 11' Floating Jump Shot,10-7,10,7
 0021900127,2019-11-09,SAS,BOS,3.27,1,8,44,SAS,SAS,reb,0,False,False,Lyles REBOUND (Off:0 Def:2),,10-7,10,7
 0021900127,2019-11-09,SAS,BOS,3.4,1,8,36,SAS,SAS,fg_miss,6,True,False,MISS Murray 5' Driving Layup,,10-7,10,7
-0021900127,2019-11-09,SAS,BOS,3.4,1,8,36,BOS,BOS,reb,0,False,False,,Celtics Rebound,10-7,10,7
 0021900127,2019-11-09,SAS,BOS,3.4,1,8,36,SAS,BOS,block,6,True,False,block,block,10-7,10,7
+0021900127,2019-11-09,SAS,BOS,3.4,1,8,36,BOS,BOS,reb,0,False,False,,Celtics Rebound,10-7,10,7
 0021900127,2019-11-09,SAS,BOS,3.6,1,8,24,BOS,BOS,fg_make,98,False,False,,Theis 2' Cutting Layup Shot (2 PTS) (Walker 1 AST),10-9,10,9
 0021900127,2019-11-09,SAS,BOS,3.67,1,8,20,SAS,SAS,timeout,1,False,False,SPURS Timeout: Regular (Full 1 Short 0),,10-9,10,9
 0021900127,2019-11-09,SAS,BOS,4.0,1,8,0,SAS,SAS,fg3_miss,79,False,False,MISS Forbes 27' 3PT Pullup Jump Shot,,10-9,10,9
@@ -62,8 +62,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900127,2019-11-09,SAS,BOS,7.32,1,4,41,SAS,SAS,fg3_miss,79,False,False,MISS Belinelli 26' 3PT Pullup Jump Shot,,17-24,17,24
 0021900127,2019-11-09,SAS,BOS,7.38,1,4,37,SAS,SAS,reb,0,False,False,Mills REBOUND (Off:1 Def:0),,17-24,17,24
 0021900127,2019-11-09,SAS,BOS,7.47,1,4,32,SAS,SAS,tov,1,False,True,Gay Bad Pass Turnover (P1.T4),,17-24,17,24
-0021900127,2019-11-09,SAS,BOS,7.47,1,4,32,BOS,SAS,foul,9,False,False,White C.P.FOUL (P1.T2) (K.Cutler),,17-24,17,24
 0021900127,2019-11-09,SAS,BOS,7.47,1,4,32,SAS,BOS,steal,1,False,True,steal,steal,17-24,17,24
+0021900127,2019-11-09,SAS,BOS,7.47,1,4,32,BOS,SAS,foul,9,False,False,White C.P.FOUL (P1.T2) (K.Cutler),,17-24,17,24
 0021900127,2019-11-09,SAS,BOS,7.47,1,4,32,BOS,BOS,ft_make,25,False,False,,Tatum Free Throw Clear Path 1 of 2 (6 PTS),17-25,17,25
 0021900127,2019-11-09,SAS,BOS,7.47,1,4,32,BOS,BOS,ft_make,26,False,False,,Tatum Free Throw Clear Path 2 of 2 (7 PTS),17-26,17,26
 0021900127,2019-11-09,SAS,BOS,7.58,1,4,25,BOS,BOS,fg3_make,1,False,False,,Smart 25' 3PT Jump Shot (3 PTS),17-29,17,29
@@ -139,8 +139,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900127,2019-11-09,SAS,BOS,14.05,2,9,57,BOS,BOS,fg3_miss,1,False,False,,MISS Smart 26' 3PT Jump Shot,30-42,30,42
 0021900127,2019-11-09,SAS,BOS,14.1,2,9,54,SAS,SAS,reb,0,False,False,Murray REBOUND (Off:0 Def:3),,30-42,30,42
 0021900127,2019-11-09,SAS,BOS,14.22,2,9,47,SAS,SAS,fg_miss,78,True,False,MISS Forbes 7' Floating Jump Shot,,30-42,30,42
-0021900127,2019-11-09,SAS,BOS,14.22,2,9,47,SAS,SAS,reb,0,False,False,SPURS Rebound,,30-42,30,42
 0021900127,2019-11-09,SAS,BOS,14.22,2,9,47,SAS,BOS,block,78,True,False,block,block,30-42,30,42
+0021900127,2019-11-09,SAS,BOS,14.22,2,9,47,SAS,SAS,reb,0,False,False,SPURS Rebound,,30-42,30,42
 0021900127,2019-11-09,SAS,BOS,14.38,2,9,37,SAS,SAS,fg_miss,75,False,False,MISS DeRozan 12' Driving Finger Roll Layup,,30-42,30,42
 0021900127,2019-11-09,SAS,BOS,14.42,2,9,35,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:0 Def:3),30-42,30,42
 0021900127,2019-11-09,SAS,BOS,14.58,2,9,25,BOS,BOS,tov,45,False,False,,Wanamaker Out of Bounds - Bad Pass Turnover Turnover (P1.T4),30-42,30,42
@@ -169,9 +169,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900127,2019-11-09,SAS,BOS,16.82,2,7,11,SAS,SAS,reb,0,False,False,Gay REBOUND (Off:2 Def:2),,36-50,36,50
 0021900127,2019-11-09,SAS,BOS,16.92,2,7,5,SAS,SAS,fg_make,75,False,False,White 1' Driving Finger Roll Layup (7 PTS) (DeRozan 1 AST),,38-50,38,50
 0021900127,2019-11-09,SAS,BOS,17.22,2,6,47,BOS,BOS,fg_miss,78,True,False,,MISS Walker 13' Floating Jump Shot,38-50,38,50
+0021900127,2019-11-09,SAS,BOS,17.22,2,6,47,BOS,SAS,block,78,True,False,block,block,38-50,38,50
 0021900127,2019-11-09,SAS,BOS,17.22,2,6,47,BOS,BOS,reb,0,False,False,,Celtics Rebound,38-50,38,50
 0021900127,2019-11-09,SAS,BOS,17.22,2,6,47,BOS,SAS,foul,2,False,False,Poeltl S.FOUL (P2.T2) (J.Goble),,38-50,38,50
-0021900127,2019-11-09,SAS,BOS,17.22,2,6,47,BOS,SAS,block,78,True,False,block,block,38-50,38,50
 0021900127,2019-11-09,SAS,BOS,17.22,2,6,47,BOS,BOS,ft_make,11,False,False,,Tatum Free Throw 1 of 2 (8 PTS),38-51,38,51
 0021900127,2019-11-09,SAS,BOS,17.22,2,6,47,BOS,BOS,ft_miss,12,False,False,,MISS Tatum Free Throw 2 of 2,38-51,38,51
 0021900127,2019-11-09,SAS,BOS,17.25,2,6,45,SAS,SAS,reb,0,False,False,Poeltl REBOUND (Off:1 Def:2),,38-51,38,51
@@ -244,8 +244,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900127,2019-11-09,SAS,BOS,23.4,2,0,36,SAS,SAS,fg_miss,79,False,False,MISS DeRozan 19' Pullup Jump Shot,,51-68,51,68
 0021900127,2019-11-09,SAS,BOS,23.45,2,0,33,BOS,BOS,reb,0,False,False,,Walker REBOUND (Off:2 Def:2),51-68,51,68
 0021900127,2019-11-09,SAS,BOS,23.53,2,0,28,BOS,BOS,fg_miss,6,True,False,,MISS Walker 6' Driving Layup,51-68,51,68
-0021900127,2019-11-09,SAS,BOS,23.53,2,0,28,BOS,BOS,reb,0,False,False,,Celtics Rebound,51-68,51,68
 0021900127,2019-11-09,SAS,BOS,23.53,2,0,28,BOS,SAS,block,6,True,False,block,block,51-68,51,68
+0021900127,2019-11-09,SAS,BOS,23.53,2,0,28,BOS,BOS,reb,0,False,False,,Celtics Rebound,51-68,51,68
 0021900127,2019-11-09,SAS,BOS,23.58,2,0,25,BOS,BOS,fg_make,5,False,False,,Green 1' Layup (2 PTS),51-70,51,70
 0021900127,2019-11-09,SAS,BOS,23.9,2,0,6,SAS,SAS,fg3_make,1,False,False,Carroll 3PT Jump Shot (6 PTS) (DeRozan 2 AST),,54-70,54,70
 0021900127,2019-11-09,SAS,BOS,23.97,2,0,2,BOS,SAS,foul,2,False,False,Carroll S.FOUL (P1.PN) (S.Wright),,54-70,54,70
@@ -319,9 +319,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900127,2019-11-09,SAS,BOS,31.78,3,4,13,SAS,SAS,fg_miss,1,False,False,MISS DeRozan 12' Jump Shot,,77-90,77,90
 0021900127,2019-11-09,SAS,BOS,31.8,3,4,12,BOS,BOS,reb,0,False,False,,Walker REBOUND (Off:2 Def:3),77-90,77,90
 0021900127,2019-11-09,SAS,BOS,31.87,3,4,8,BOS,BOS,fg_miss,5,True,False,,MISS Walker 4' Layup,77-90,77,90
+0021900127,2019-11-09,SAS,BOS,31.87,3,4,8,BOS,SAS,block,5,True,False,block,block,77-90,77,90
 0021900127,2019-11-09,SAS,BOS,31.87,3,4,8,SAS,SAS,reb,0,False,False,DeRozan REBOUND (Off:0 Def:2),,77-90,77,90
 0021900127,2019-11-09,SAS,BOS,31.87,3,4,8,SAS,BOS,foul,11,False,False,,Walker T.FOUL (P1.T3) (S.Wright),77-90,77,90
-0021900127,2019-11-09,SAS,BOS,31.87,3,4,8,BOS,SAS,block,5,True,False,block,block,77-90,77,90
 0021900127,2019-11-09,SAS,BOS,31.87,3,4,8,SAS,SAS,ft_make,16,False,False,DeRozan Free Throw Technical (20 PTS),,78-90,78,90
 0021900127,2019-11-09,SAS,BOS,32.05,3,3,57,SAS,SAS,fg_miss,1,False,False,MISS DeRozan 15' Jump Shot,,78-90,78,90
 0021900127,2019-11-09,SAS,BOS,32.12,3,3,53,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:1 Def:2),78-90,78,90
@@ -384,8 +384,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900127,2019-11-09,SAS,BOS,38.08,4,9,55,BOS,BOS,fg_miss,5,False,False,,MISS Green 1' Layup,96-113,96,113
 0021900127,2019-11-09,SAS,BOS,38.18,4,9,49,SAS,SAS,reb,0,False,False,Lyles REBOUND (Off:0 Def:8),,96-113,96,113
 0021900127,2019-11-09,SAS,BOS,38.4,4,9,36,SAS,SAS,fg3_miss,1,True,False,MISS Forbes 25' 3PT Jump Shot,,96-113,96,113
-0021900127,2019-11-09,SAS,BOS,38.4,4,9,36,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:1 Def:5),96-113,96,113
 0021900127,2019-11-09,SAS,BOS,38.4,4,9,36,SAS,BOS,block,1,True,False,block,block,96-113,96,113
+0021900127,2019-11-09,SAS,BOS,38.4,4,9,36,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:1 Def:5),96-113,96,113
 0021900127,2019-11-09,SAS,BOS,38.55,4,9,27,BOS,BOS,fg_make,7,False,False,,Green 2' Dunk (6 PTS) (Wanamaker 1 AST),96-115,96,115
 0021900127,2019-11-09,SAS,BOS,38.77,4,9,14,SAS,SAS,tov,2,False,True,Forbes Lost Ball Turnover (P1.T14),,96-115,96,115
 0021900127,2019-11-09,SAS,BOS,38.77,4,9,14,SAS,BOS,steal,2,False,True,steal,steal,96-115,96,115
@@ -412,8 +412,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900127,2019-11-09,SAS,BOS,40.0,4,8,0,BOS,SAS,block,5,True,False,block,block,100-117,100,117
 0021900127,2019-11-09,SAS,BOS,40.02,4,7,59,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:1 Def:6),100-117,100,117
 0021900127,2019-11-09,SAS,BOS,40.02,4,7,59,BOS,BOS,fg_miss,72,True,False,,MISS Brown 1' Putback Layup,100-117,100,117
-0021900127,2019-11-09,SAS,BOS,40.02,4,7,59,SAS,SAS,reb,0,False,False,Murray REBOUND (Off:1 Def:6),,100-117,100,117
 0021900127,2019-11-09,SAS,BOS,40.02,4,7,59,BOS,SAS,block,72,True,False,block,block,100-117,100,117
+0021900127,2019-11-09,SAS,BOS,40.02,4,7,59,SAS,SAS,reb,0,False,False,Murray REBOUND (Off:1 Def:6),,100-117,100,117
 0021900127,2019-11-09,SAS,BOS,40.12,4,7,53,SAS,SAS,fg_miss,5,False,False,MISS Murray 2' Layup,,100-117,100,117
 0021900127,2019-11-09,SAS,BOS,40.13,4,7,52,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:1 Def:5),100-117,100,117
 0021900127,2019-11-09,SAS,BOS,40.33,4,7,40,BOS,BOS,fg_miss,1,False,False,,MISS Walker 12' Jump Shot,100-117,100,117

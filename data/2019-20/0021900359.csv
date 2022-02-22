@@ -45,8 +45,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900359,2019-12-11,TOR,LAC,5.68,1,6,19,TOR,TOR,fg3_miss,79,False,False,MISS Lowry 26' 3PT Pullup Jump Shot,,18-14,18,14
 0021900359,2019-12-11,TOR,LAC,5.72,1,6,17,LAC,LAC,reb,0,False,False,,Zubac REBOUND (Off:0 Def:1),18-14,18,14
 0021900359,2019-12-11,TOR,LAC,5.85,1,6,9,LAC,LAC,fg_miss,57,False,False,,MISS Zubac 2' Driving Hook Shot,18-14,18,14
-0021900359,2019-12-11,TOR,LAC,5.95,1,6,3,LAC,LAC,fg_miss,97,False,False,,MISS Zubac 1' Tip Layup Shot,18-14,18,14
 0021900359,2019-12-11,TOR,LAC,5.95,1,6,3,LAC,LAC,reb,0,False,False,,Zubac REBOUND (Off:1 Def:1),18-14,18,14
+0021900359,2019-12-11,TOR,LAC,5.95,1,6,3,LAC,LAC,fg_miss,97,False,False,,MISS Zubac 1' Tip Layup Shot,18-14,18,14
 0021900359,2019-12-11,TOR,LAC,5.98,1,6,1,TOR,TOR,reb,0,False,False,Anunoby REBOUND (Off:1 Def:2),,18-14,18,14
 0021900359,2019-12-11,TOR,LAC,6.07,1,5,56,TOR,TOR,fg3_miss,2,False,False,MISS Ibaka 26' 3PT Running Jump Shot,,18-14,18,14
 0021900359,2019-12-11,TOR,LAC,6.12,1,5,53,LAC,LAC,reb,0,False,False,,Leonard REBOUND (Off:0 Def:1),18-14,18,14
@@ -74,9 +74,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900359,2019-12-11,TOR,LAC,8.8,1,3,12,LAC,LAC,fg_make,41,False,False,,Harrell 1' Running Layup (2 PTS) (Williams 2 AST),20-22,20,22
 0021900359,2019-12-11,TOR,LAC,8.98,1,3,1,TOR,LAC,foul,1,False,False,,Williams P.FOUL (P1.T3) (D.Guthrie),20-22,20,22
 0021900359,2019-12-11,TOR,LAC,9.1,1,2,54,TOR,TOR,fg_miss,5,False,False,MISS Gasol 2' Layup,,20-22,20,22
+0021900359,2019-12-11,TOR,LAC,9.18,1,2,49,TOR,TOR,reb,0,False,False,Ibaka REBOUND (Off:1 Def:1),,20-22,20,22
 0021900359,2019-12-11,TOR,LAC,9.18,1,2,49,TOR,TOR,fg_miss,107,False,False,MISS Ibaka 1' Tip Dunk Shot,,20-22,20,22
 0021900359,2019-12-11,TOR,LAC,9.18,1,2,49,TOR,TOR,reb,0,False,False,Gasol REBOUND (Off:1 Def:0),,20-22,20,22
-0021900359,2019-12-11,TOR,LAC,9.18,1,2,49,TOR,TOR,reb,0,False,False,Ibaka REBOUND (Off:1 Def:1),,20-22,20,22
 0021900359,2019-12-11,TOR,LAC,9.2,1,2,48,TOR,TOR,fg_make,1,False,False,Gasol 14' Jump Shot (4 PTS),,22-22,22,22
 0021900359,2019-12-11,TOR,LAC,9.42,1,2,35,LAC,LAC,fg3_miss,1,False,False,,MISS Patterson 25' 3PT Jump Shot,22-22,22,22
 0021900359,2019-12-11,TOR,LAC,9.45,1,2,33,TOR,TOR,reb,0,False,False,Powell REBOUND (Off:0 Def:1),,22-22,22,22
@@ -318,8 +318,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900359,2019-12-11,TOR,LAC,31.7,3,4,18,TOR,TOR,fg3_miss,80,False,False,MISS Lowry 25' 3PT Step Back Jump Shot,,69-76,69,76
 0021900359,2019-12-11,TOR,LAC,31.75,3,4,15,LAC,LAC,reb,0,False,False,,Harrell REBOUND (Off:0 Def:3),69-76,69,76
 0021900359,2019-12-11,TOR,LAC,32.1,3,3,54,LAC,LAC,fg_miss,5,True,False,,MISS Harrell 4' Layup,69-76,69,76
-0021900359,2019-12-11,TOR,LAC,32.1,3,3,54,LAC,LAC,reb,0,False,False,,Clippers Rebound,69-76,69,76
 0021900359,2019-12-11,TOR,LAC,32.1,3,3,54,LAC,TOR,block,5,True,False,block,block,69-76,69,76
+0021900359,2019-12-11,TOR,LAC,32.1,3,3,54,LAC,LAC,reb,0,False,False,,Clippers Rebound,69-76,69,76
 0021900359,2019-12-11,TOR,LAC,32.12,3,3,53,LAC,LAC,tov,39,False,False,,Williams Step Out of Bounds Turnover (P2.T12),69-76,69,76
 0021900359,2019-12-11,TOR,LAC,32.28,3,3,43,TOR,TOR,fg_make,98,False,False,Siakam 1' Cutting Layup Shot (15 PTS) (Gasol 5 AST),,71-76,71,76
 0021900359,2019-12-11,TOR,LAC,32.28,3,3,43,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.3 Short 0),71-76,71,76
@@ -377,16 +377,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900359,2019-12-11,TOR,LAC,37.63,4,10,22,TOR,TOR,ft_miss,12,False,False,MISS Hollis-Jefferson Free Throw 2 of 2,,75-93,75,93
 0021900359,2019-12-11,TOR,LAC,37.67,4,10,20,LAC,LAC,reb,0,False,False,,George REBOUND (Off:1 Def:3),75-93,75,93
 0021900359,2019-12-11,TOR,LAC,37.82,4,10,11,LAC,LAC,fg_miss,7,True,False,,MISS Patterson 1' Dunk,75-93,75,93
-0021900359,2019-12-11,TOR,LAC,37.82,4,10,11,LAC,LAC,reb,0,False,False,,Clippers Rebound,75-93,75,93
 0021900359,2019-12-11,TOR,LAC,37.82,4,10,11,LAC,TOR,block,7,True,False,block,block,75-93,75,93
+0021900359,2019-12-11,TOR,LAC,37.82,4,10,11,LAC,LAC,reb,0,False,False,,Clippers Rebound,75-93,75,93
 0021900359,2019-12-11,TOR,LAC,37.88,4,10,7,LAC,LAC,fg_make,7,False,False,,Harkless 1' Dunk (14 PTS) (George 3 AST),75-95,75,95
 0021900359,2019-12-11,TOR,LAC,38.17,4,9,50,TOR,TOR,fg3_miss,1,False,False,MISS Davis 26' 3PT Jump Shot,,75-95,75,95
 0021900359,2019-12-11,TOR,LAC,38.22,4,9,47,LAC,LAC,reb,0,False,False,,Patterson REBOUND (Off:1 Def:4),75-95,75,95
 0021900359,2019-12-11,TOR,LAC,38.35,4,9,39,LAC,LAC,fg3_miss,79,False,False,,MISS George 30' 3PT Pullup Jump Shot,75-95,75,95
 0021900359,2019-12-11,TOR,LAC,38.4,4,9,36,TOR,TOR,reb,0,False,False,Hollis-Jefferson REBOUND (Off:4 Def:4),,75-95,75,95
 0021900359,2019-12-11,TOR,LAC,38.62,4,9,23,TOR,TOR,fg_miss,99,True,False,MISS Davis 2' Cutting Finger Roll Layup Shot,,75-95,75,95
-0021900359,2019-12-11,TOR,LAC,38.62,4,9,23,LAC,LAC,reb,0,False,False,,Clippers Rebound,75-95,75,95
 0021900359,2019-12-11,TOR,LAC,38.62,4,9,23,TOR,LAC,block,99,True,False,block,block,75-95,75,95
+0021900359,2019-12-11,TOR,LAC,38.62,4,9,23,LAC,LAC,reb,0,False,False,,Clippers Rebound,75-95,75,95
 0021900359,2019-12-11,TOR,LAC,38.98,4,9,1,LAC,TOR,foul,1,False,False,McCaw P.FOUL (P2.T3) (N.Buchert),,75-95,75,95
 0021900359,2019-12-11,TOR,LAC,39.1,4,8,54,LAC,LAC,fg_miss,78,False,False,,MISS Harrell 9' Floating Jump Shot,75-95,75,95
 0021900359,2019-12-11,TOR,LAC,39.15,4,8,51,TOR,TOR,reb,0,False,False,Boucher REBOUND (Off:0 Def:1),,75-95,75,95
@@ -398,8 +398,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900359,2019-12-11,TOR,LAC,39.9,4,8,6,LAC,TOR,foul,1,False,False,Boucher P.FOUL (P1.T4) (M.Ervin),,75-95,75,95
 0021900359,2019-12-11,TOR,LAC,39.9,4,8,6,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.4 Short 0),75-95,75,95
 0021900359,2019-12-11,TOR,LAC,39.97,4,8,2,LAC,LAC,fg3_miss,1,False,False,,MISS George 31' 3PT Jump Shot,75-95,75,95
-0021900359,2019-12-11,TOR,LAC,40.05,4,7,57,LAC,LAC,fg_miss,97,False,False,,MISS Patterson 1' Tip Layup Shot,75-95,75,95
 0021900359,2019-12-11,TOR,LAC,40.05,4,7,57,LAC,LAC,reb,0,False,False,,Patterson REBOUND (Off:2 Def:4),75-95,75,95
+0021900359,2019-12-11,TOR,LAC,40.05,4,7,57,LAC,LAC,fg_miss,97,False,False,,MISS Patterson 1' Tip Layup Shot,75-95,75,95
 0021900359,2019-12-11,TOR,LAC,40.05,4,7,57,TOR,TOR,reb,0,False,False,Ibaka REBOUND (Off:1 Def:4),,75-95,75,95
 0021900359,2019-12-11,TOR,LAC,40.32,4,7,41,TOR,TOR,fg_make,108,False,False,Siakam 1' Cutting Dunk Shot (17 PTS) (Ibaka 3 AST),,77-95,77,95
 0021900359,2019-12-11,TOR,LAC,40.63,4,7,22,LAC,LAC,fg_miss,98,True,False,,MISS Harrell 6' Cutting Layup Shot,77-95,77,95

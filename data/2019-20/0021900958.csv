@@ -68,9 +68,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900958,2020-03-09,DEN,MIL,8.25,1,3,45,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:0 Def:4),,22-17,22,17
 0021900958,2020-03-09,DEN,MIL,8.52,1,3,29,DEN,DEN,fg_make,1,False,False,Grant 16' Jump Shot (2 PTS) (Morris 1 AST),,24-17,24,17
 0021900958,2020-03-09,DEN,MIL,8.75,1,3,15,MIL,MIL,fg_miss,6,True,False,,MISS Mason 5' Driving Layup,24-17,24,17
+0021900958,2020-03-09,DEN,MIL,8.75,1,3,15,MIL,DEN,block,6,True,False,block,block,24-17,24,17
 0021900958,2020-03-09,DEN,MIL,8.75,1,3,15,MIL,MIL,reb,0,False,False,,Bucks Rebound,24-17,24,17
 0021900958,2020-03-09,DEN,MIL,8.75,1,3,15,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.1 Short 0),24-17,24,17
-0021900958,2020-03-09,DEN,MIL,8.75,1,3,15,MIL,DEN,block,6,True,False,block,block,24-17,24,17
 0021900958,2020-03-09,DEN,MIL,8.8,1,3,12,MIL,MIL,fg_make,108,False,False,,Connaughton 1' Cutting Dunk Shot (2 PTS) (Korver 1 AST),24-19,24,19
 0021900958,2020-03-09,DEN,MIL,9.0,1,3,0,DEN,DEN,fg3_miss,1,False,False,MISS Grant 25' 3PT Jump Shot,,24-19,24,19
 0021900958,2020-03-09,DEN,MIL,9.05,1,2,57,MIL,MIL,reb,0,False,False,,Connaughton REBOUND (Off:0 Def:1),24-19,24,19
@@ -267,8 +267,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900958,2020-03-09,DEN,MIL,28.82,3,7,11,MIL,MIL,fg_miss,1,False,False,,MISS Matthews 13' Jump Shot,67-59,67,59
 0021900958,2020-03-09,DEN,MIL,28.87,3,7,8,MIL,MIL,reb,0,False,False,,Matthews REBOUND (Off:1 Def:3),67-59,67,59
 0021900958,2020-03-09,DEN,MIL,28.97,3,7,2,MIL,MIL,fg_miss,6,True,False,,MISS Mason 8' Driving Layup,67-59,67,59
-0021900958,2020-03-09,DEN,MIL,28.97,3,7,2,MIL,MIL,reb,0,False,False,,Mason REBOUND (Off:1 Def:0),67-59,67,59
 0021900958,2020-03-09,DEN,MIL,28.97,3,7,2,MIL,DEN,block,6,True,False,block,block,67-59,67,59
+0021900958,2020-03-09,DEN,MIL,28.97,3,7,2,MIL,MIL,reb,0,False,False,,Mason REBOUND (Off:1 Def:0),67-59,67,59
 0021900958,2020-03-09,DEN,MIL,29.05,3,6,57,MIL,MIL,fg_make,108,False,False,,Wilson Cutting Dunk Shot (4 PTS) (Lopez 1 AST),67-61,67,61
 0021900958,2020-03-09,DEN,MIL,29.52,3,6,29,DEN,DEN,fg3_miss,1,False,False,MISS Jokic 25' 3PT Jump Shot,,67-61,67,61
 0021900958,2020-03-09,DEN,MIL,29.53,3,6,28,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,67-61,67,61
@@ -425,11 +425,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900958,2020-03-09,DEN,MIL,45.57,4,2,26,DEN,DEN,ft_make,12,False,False,Jokic Free Throw 2 of 2 (8 PTS),,100-91,100,91
 0021900958,2020-03-09,DEN,MIL,45.82,4,2,11,MIL,MIL,fg_make,79,False,False,,Brown 12' Pullup Jump Shot (16 PTS),100-93,100,93
 0021900958,2020-03-09,DEN,MIL,46.15,4,1,51,DEN,DEN,fg3_make,80,False,False,Barton 3PT Step Back Jump Shot (13 PTS) (Harris 2 AST),,103-93,103,93
+0021900958,2020-03-09,DEN,MIL,46.28,4,1,43,MIL,DEN,foul,2,False,False,Grant S.FOUL (P2.PN) (M.Davis),,103-95,103,95
 0021900958,2020-03-09,DEN,MIL,46.28,4,1,43,MIL,MIL,ft_miss,13,False,False,,MISS Korver Free Throw 1 of 3,103-93,103,93
 0021900958,2020-03-09,DEN,MIL,46.28,4,1,43,MIL,MIL,reb,1,False,False,,Bucks Rebound,103-93,103,93
 0021900958,2020-03-09,DEN,MIL,46.28,4,1,43,MIL,MIL,ft_make,14,False,False,,Korver Free Throw 2 of 3 (22 PTS),103-94,103,94
 0021900958,2020-03-09,DEN,MIL,46.28,4,1,43,MIL,MIL,ft_make,15,False,False,,Korver Free Throw 3 of 3 (23 PTS),103-95,103,95
-0021900958,2020-03-09,DEN,MIL,46.28,4,1,43,MIL,DEN,foul,2,False,False,Grant S.FOUL (P2.PN) (M.Davis),,103-95,103,95
 0021900958,2020-03-09,DEN,MIL,46.5,4,1,30,DEN,DEN,fg_make,1,False,False,Jokic 15' Jump Shot (10 PTS) (Murray 6 AST),,105-95,105,95
 0021900958,2020-03-09,DEN,MIL,46.63,4,1,22,MIL,MIL,fg3_miss,63,False,False,,MISS Korver 25' 3PT Fadeaway Jumper,105-95,105,95
 0021900958,2020-03-09,DEN,MIL,46.68,4,1,19,DEN,DEN,reb,0,False,False,Harris REBOUND (Off:0 Def:4),,105-95,105,95

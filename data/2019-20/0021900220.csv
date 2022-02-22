@@ -105,9 +105,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900220,2019-11-22,OKC,LAL,12.3,2,11,42,OKC,OKC,tov,1,False,True,Gilgeous-Alexander Bad Pass Turnover (P1.T3),,33-34,33,34
 0021900220,2019-11-22,OKC,LAL,12.3,2,11,42,OKC,LAL,steal,1,False,True,steal,steal,33-34,33,34
 0021900220,2019-11-22,OKC,LAL,12.38,2,11,37,LAL,LAL,fg_miss,41,True,False,,MISS Rondo 3' Running Layup,33-34,33,34
+0021900220,2019-11-22,OKC,LAL,12.38,2,11,37,LAL,OKC,block,41,True,False,block,block,33-34,33,34
 0021900220,2019-11-22,OKC,LAL,12.38,2,11,37,OKC,OKC,reb,0,False,False,THUNDER Rebound,,33-34,33,34
 0021900220,2019-11-22,OKC,LAL,12.38,2,11,37,OKC,LAL,foul,3,False,False,,Howard L.B.FOUL (P1.T1) (J.DeRosa),33-34,33,34
-0021900220,2019-11-22,OKC,LAL,12.38,2,11,37,LAL,OKC,block,41,True,False,block,block,33-34,33,34
 0021900220,2019-11-22,OKC,LAL,12.77,2,11,14,OKC,OKC,fg_make,1,False,False,Bazley 24' Jump Shot (7 PTS) (Schroder 1 AST),,35-34,35,34
 0021900220,2019-11-22,OKC,LAL,12.88,2,11,7,LAL,LAL,fg_make,98,False,False,,Kuzma 1' Cutting Layup Shot (6 PTS) (James 3 AST),35-36,35,36
 0021900220,2019-11-22,OKC,LAL,13.07,2,10,56,OKC,OKC,fg_make,108,False,False,Bazley 1' Cutting Dunk Shot (9 PTS) (Schroder 2 AST),,37-36,37,36
@@ -156,8 +156,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900220,2019-11-22,OKC,LAL,18.18,2,5,49,LAL,LAL,fg3_miss,79,False,False,,MISS Rondo 25' 3PT Pullup Jump Shot,46-45,46,45
 0021900220,2019-11-22,OKC,LAL,18.22,2,5,47,OKC,OKC,reb,0,False,False,Muscala REBOUND (Off:1 Def:3),,46-45,46,45
 0021900220,2019-11-22,OKC,LAL,18.3,2,5,42,OKC,OKC,fg_miss,6,True,False,MISS Gallinari 7' Driving Layup,,46-45,46,45
-0021900220,2019-11-22,OKC,LAL,18.3,2,5,42,OKC,OKC,reb,0,False,False,THUNDER Rebound,,46-45,46,45
 0021900220,2019-11-22,OKC,LAL,18.3,2,5,42,OKC,LAL,block,6,True,False,block,block,46-45,46,45
+0021900220,2019-11-22,OKC,LAL,18.3,2,5,42,OKC,OKC,reb,0,False,False,THUNDER Rebound,,46-45,46,45
 0021900220,2019-11-22,OKC,LAL,18.45,2,5,33,LAL,OKC,foul,4,False,False,Adams OFF.Foul (P1) (M.Ervin),,46-45,46,45
 0021900220,2019-11-22,OKC,LAL,18.45,2,5,33,OKC,OKC,tov,37,False,False,Adams Offensive Foul Turnover (P2.T7),,46-45,46,45
 0021900220,2019-11-22,OKC,LAL,18.45,2,5,33,OKC,,foul,11,False,False,,,46-45,46,45
@@ -231,8 +231,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900220,2019-11-22,OKC,LAL,25.18,3,10,49,LAL,LAL,reb,0,False,False,,Davis REBOUND (Off:0 Def:4),69-69,69,69
 0021900220,2019-11-22,OKC,LAL,25.23,3,10,46,LAL,LAL,fg3_make,1,False,False,,Green 25' 3PT Jump Shot (11 PTS) (James 8 AST),69-72,69,72
 0021900220,2019-11-22,OKC,LAL,25.38,3,10,37,OKC,OKC,fg_miss,6,True,False,MISS Gilgeous-Alexander 3' Driving Layup,,69-72,69,72
-0021900220,2019-11-22,OKC,LAL,25.38,3,10,37,LAL,LAL,reb,0,False,False,,Lakers Rebound,69-72,69,72
 0021900220,2019-11-22,OKC,LAL,25.38,3,10,37,OKC,LAL,block,6,True,False,block,block,69-72,69,72
+0021900220,2019-11-22,OKC,LAL,25.38,3,10,37,LAL,LAL,reb,0,False,False,,Lakers Rebound,69-72,69,72
 0021900220,2019-11-22,OKC,LAL,25.58,3,10,25,LAL,LAL,fg3_make,1,False,False,,Davis 27' 3PT Jump Shot (12 PTS) (James 9 AST),69-75,69,75
 0021900220,2019-11-22,OKC,LAL,25.58,3,10,25,LAL,OKC,foul,3,False,False,Ferguson L.B.FOUL (P3.T1) (M.Ervin),,69-75,69,75
 0021900220,2019-11-22,OKC,LAL,25.58,3,10,25,LAL,LAL,ft_make,10,False,False,,Davis Free Throw 1 of 1 (13 PTS),69-76,69,76
@@ -307,8 +307,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900220,2019-11-22,OKC,LAL,32.8,3,3,12,LAL,LAL,fg_miss,79,False,False,,MISS Davis 21' Pullup Jump Shot,92-99,92,99
 0021900220,2019-11-22,OKC,LAL,32.87,3,3,8,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:0 Def:6),,92-99,92,99
 0021900220,2019-11-22,OKC,LAL,32.93,3,3,4,OKC,OKC,fg_miss,41,True,False,MISS Muscala 2' Running Layup,,92-99,92,99
-0021900220,2019-11-22,OKC,LAL,32.93,3,3,4,LAL,LAL,reb,0,False,False,,Davis REBOUND (Off:1 Def:6),92-99,92,99
 0021900220,2019-11-22,OKC,LAL,32.93,3,3,4,OKC,LAL,block,41,True,False,block,block,92-99,92,99
+0021900220,2019-11-22,OKC,LAL,32.93,3,3,4,LAL,LAL,reb,0,False,False,,Davis REBOUND (Off:1 Def:6),92-99,92,99
 0021900220,2019-11-22,OKC,LAL,32.98,3,3,1,LAL,OKC,foul,2,False,False,Schroder S.FOUL (P3.PN) (E.Malloy),,92-99,92,99
 0021900220,2019-11-22,OKC,LAL,32.98,3,3,1,LAL,LAL,ft_make,11,False,False,,Caldwell-Pope Free Throw 1 of 2 (16 PTS),92-100,92,100
 0021900220,2019-11-22,OKC,LAL,32.98,3,3,1,LAL,LAL,ft_make,12,False,False,,Caldwell-Pope Free Throw 2 of 2 (17 PTS),92-101,92,101
@@ -335,8 +335,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900220,2019-11-22,OKC,LAL,35.4,3,0,36,LAL,LAL,fg_make,87,False,False,,Howard 2' Putback Dunk (5 PTS),100-106,100,106
 0021900220,2019-11-22,OKC,LAL,35.53,3,0,28,OKC,OKC,fg3_make,1,False,False,Gilgeous-Alexander 26' 3PT Jump Shot (18 PTS) (Diallo 1 AST),,103-106,103,106
 0021900220,2019-11-22,OKC,LAL,35.83,3,0,10,LAL,LAL,fg_miss,101,True,False,,MISS Cook 3' Driving Floating Jump Shot,103-106,103,106
-0021900220,2019-11-22,OKC,LAL,35.83,3,0,10,LAL,LAL,reb,0,False,False,,Cook REBOUND (Off:1 Def:1),103-106,103,106
 0021900220,2019-11-22,OKC,LAL,35.83,3,0,10,LAL,OKC,block,101,True,False,block,block,103-106,103,106
+0021900220,2019-11-22,OKC,LAL,35.83,3,0,10,LAL,LAL,reb,0,False,False,,Cook REBOUND (Off:1 Def:1),103-106,103,106
 0021900220,2019-11-22,OKC,LAL,35.9,3,0,6,LAL,LAL,tov,2,False,True,,Cook Lost Ball Turnover (P1.T9),103-106,103,106
 0021900220,2019-11-22,OKC,LAL,35.9,3,0,6,LAL,OKC,steal,2,False,True,steal,steal,103-106,103,106
 0021900220,2019-11-22,OKC,LAL,35.95,3,0,3,OKC,OKC,fg_miss,74,False,False,MISS Diallo 4' Running Reverse Layup,,103-106,103,106
@@ -349,8 +349,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900220,2019-11-22,OKC,LAL,37.1,4,10,54,LAL,LAL,fg3_miss,1,False,False,,MISS Caruso 25' 3PT Jump Shot,103-109,103,109
 0021900220,2019-11-22,OKC,LAL,37.13,4,10,52,OKC,OKC,reb,0,False,False,Diallo REBOUND (Off:0 Def:2),,103-109,103,109
 0021900220,2019-11-22,OKC,LAL,37.38,4,10,37,OKC,OKC,fg_miss,6,True,False,MISS Diallo 9' Driving Layup,,103-109,103,109
-0021900220,2019-11-22,OKC,LAL,37.38,4,10,37,OKC,OKC,reb,0,False,False,THUNDER Rebound,,103-109,103,109
 0021900220,2019-11-22,OKC,LAL,37.38,4,10,37,OKC,LAL,block,6,True,False,block,block,103-109,103,109
+0021900220,2019-11-22,OKC,LAL,37.38,4,10,37,OKC,OKC,reb,0,False,False,THUNDER Rebound,,103-109,103,109
 0021900220,2019-11-22,OKC,LAL,37.52,4,10,29,OKC,OKC,fg_make,1,False,False,Diallo 15' Jump Shot (8 PTS) (Bazley 1 AST),,105-109,105,109
 0021900220,2019-11-22,OKC,LAL,37.67,4,10,20,OKC,LAL,foul,15,False,False,,Rondo FLAGRANT.FOUL.TYPE2 (P2.T1) (M.Ervin),105-109,105,109
 0021900220,2019-11-22,OKC,LAL,37.67,4,10,20,LAL,LAL,tov,0,False,False,,Rondo No Turnover (P2.T10),105-109,105,109

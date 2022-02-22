@@ -77,8 +77,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701095,2018-03-25,MIL,SAS,9.93,1,2,4,SAS,SAS,fg_make,6,False,False,,Ginobili 1' Driving Layup (2 PTS) (Gasol 1 AST),21-13,21,13
 0021701095,2018-03-25,MIL,SAS,10.1,1,1,54,MIL,MIL,fg3_make,1,False,False,Parker 27' 3PT Jump Shot (3 PTS) (Snell 2 AST),,24-13,24,13
 0021701095,2018-03-25,MIL,SAS,10.32,1,1,41,SAS,SAS,tov,1,False,True,,Parker Bad Pass Turnover (P2.T4),24-13,24,13
-0021701095,2018-03-25,MIL,SAS,10.32,1,1,41,MIL,SAS,foul,1,False,False,,Ginobili P.FOUL (P1.T1) (K.Scott),24-13,24,13
 0021701095,2018-03-25,MIL,SAS,10.32,1,1,41,SAS,MIL,steal,1,False,True,steal,steal,24-13,24,13
+0021701095,2018-03-25,MIL,SAS,10.32,1,1,41,MIL,SAS,foul,1,False,False,,Ginobili P.FOUL (P1.T1) (K.Scott),24-13,24,13
 0021701095,2018-03-25,MIL,SAS,10.53,1,1,28,MIL,MIL,fg_make,1,False,False,Parker 17' Jump Shot (5 PTS),,26-13,26,13
 0021701095,2018-03-25,MIL,SAS,10.93,1,1,4,MIL,SAS,foul,26,False,False,,Gasol Offensive Charge Foul (P1.PN) (K.Scott),26-13,26,13
 0021701095,2018-03-25,MIL,SAS,10.93,1,1,4,SAS,SAS,tov,37,False,False,,Gasol Offensive Foul Turnover (P1.T5),26-13,26,13
@@ -200,8 +200,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701095,2018-03-25,MIL,SAS,24.0,2,0,0,MIL,,period_end,0,False,False,,,47-47,47,47
 0021701095,2018-03-25,MIL,SAS,24.0,3,12,0,MIL,,period_start,0,False,False,,,47-47,47,47
 0021701095,2018-03-25,MIL,SAS,24.2,3,11,48,MIL,MIL,tov,1,False,True,Bledsoe Bad Pass Turnover (P2.T7),,47-47,47,47
-0021701095,2018-03-25,MIL,SAS,24.2,3,11,48,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.4 Short 0),47-47,47,47
 0021701095,2018-03-25,MIL,SAS,24.2,3,11,48,MIL,SAS,steal,1,False,True,steal,steal,47-47,47,47
+0021701095,2018-03-25,MIL,SAS,24.2,3,11,48,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.4 Short 0),47-47,47,47
 0021701095,2018-03-25,MIL,SAS,24.32,3,11,41,SAS,SAS,fg_make,86,False,False,,Aldridge 11' Turnaround Fadeaway (18 PTS),47-49,47,49
 0021701095,2018-03-25,MIL,SAS,24.52,3,11,29,MIL,MIL,fg3_make,1,False,False,Middleton 27' 3PT Jump Shot (9 PTS) (Henson 2 AST),,50-49,50,49
 0021701095,2018-03-25,MIL,SAS,24.72,3,11,17,SAS,MIL,foul,1,False,False,Henson P.FOUL (P2.T1) (T.Washington),,50-49,50,49
@@ -214,8 +214,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701095,2018-03-25,MIL,SAS,25.78,3,10,13,SAS,SAS,tov,1,False,True,,Anderson Bad Pass Turnover (P2.T10),55-49,55,49
 0021701095,2018-03-25,MIL,SAS,25.78,3,10,13,SAS,MIL,steal,1,False,True,steal,steal,55-49,55,49
 0021701095,2018-03-25,MIL,SAS,25.85,3,10,9,MIL,MIL,fg_miss,6,True,False,MISS Terry 3' Driving Layup,,55-49,55,49
-0021701095,2018-03-25,MIL,SAS,25.85,3,10,9,SAS,SAS,reb,0,False,False,,Spurs Rebound,55-49,55,49
 0021701095,2018-03-25,MIL,SAS,25.85,3,10,9,MIL,SAS,block,6,True,False,block,block,55-49,55,49
+0021701095,2018-03-25,MIL,SAS,25.85,3,10,9,SAS,SAS,reb,0,False,False,,Spurs Rebound,55-49,55,49
 0021701095,2018-03-25,MIL,SAS,26.1,3,9,54,SAS,SAS,fg_miss,1,False,False,,MISS Murray 11' Jump Shot,55-49,55,49
 0021701095,2018-03-25,MIL,SAS,26.15,3,9,51,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:1 Def:5),,55-49,55,49
 0021701095,2018-03-25,MIL,SAS,26.2,3,9,48,MIL,MIL,tov,1,False,True,Antetokounmpo Bad Pass Turnover (P3.T8),,55-49,55,49
@@ -238,13 +238,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701095,2018-03-25,MIL,SAS,27.73,3,8,16,SAS,SAS,fg_make,5,False,False,,Aldridge 1' Layup (22 PTS) (Ginobili 3 AST),60-55,60,55
 0021701095,2018-03-25,MIL,SAS,28.0,3,8,0,MIL,MIL,fg_make,5,False,False,Henson 2' Layup (4 PTS) (Parker 2 AST),,62-55,62,55
 0021701095,2018-03-25,MIL,SAS,28.42,3,7,35,SAS,SAS,fg_miss,5,True,False,,MISS Anderson 3' Layup,62-55,62,55
+0021701095,2018-03-25,MIL,SAS,28.42,3,7,35,SAS,MIL,block,5,True,False,block,block,62-55,62,55
 0021701095,2018-03-25,MIL,SAS,28.42,3,7,35,SAS,SAS,reb,0,False,False,,Anderson REBOUND (Off:3 Def:1),62-55,62,55
 0021701095,2018-03-25,MIL,SAS,28.42,3,7,35,SAS,SAS,fg_miss,5,False,False,,MISS Anderson 1' Layup,62-55,62,55
 0021701095,2018-03-25,MIL,SAS,28.42,3,7,35,SAS,SAS,reb,0,False,False,,Aldridge REBOUND (Off:4 Def:1),62-55,62,55
 0021701095,2018-03-25,MIL,SAS,28.42,3,7,35,SAS,MIL,foul,2,False,False,Middleton S.FOUL (P1.T2) (T.Washington),,62-55,62,55
 0021701095,2018-03-25,MIL,SAS,28.42,3,7,35,SAS,SAS,ft_miss,11,False,False,,MISS Aldridge Free Throw 1 of 2,62-55,62,55
 0021701095,2018-03-25,MIL,SAS,28.42,3,7,35,SAS,SAS,reb,1,False,False,,Spurs Rebound,62-55,62,55
-0021701095,2018-03-25,MIL,SAS,28.42,3,7,35,SAS,MIL,block,5,True,False,block,block,62-55,62,55
 0021701095,2018-03-25,MIL,SAS,28.42,3,7,35,SAS,SAS,ft_make,12,False,False,,Aldridge Free Throw 2 of 2 (23 PTS),62-56,62,56
 0021701095,2018-03-25,MIL,SAS,28.62,3,7,23,MIL,MIL,fg_make,79,False,False,Middleton 8' Pullup Jump Shot (11 PTS) (Bledsoe 3 AST),,64-56,64,56
 0021701095,2018-03-25,MIL,SAS,29.08,3,6,55,SAS,SAS,fg_miss,101,False,False,,MISS Mills 6' Driving Floating Jump Shot,64-56,64,56
@@ -370,8 +370,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701095,2018-03-25,MIL,SAS,41.92,4,6,5,MIL,MIL,fg_miss,5,False,False,MISS Bledsoe 3' Layup,,97-87,97,87
 0021701095,2018-03-25,MIL,SAS,41.97,4,6,2,SAS,SAS,reb,0,False,False,,Anderson REBOUND (Off:3 Def:3),97-87,97,87
 0021701095,2018-03-25,MIL,SAS,42.2,4,5,48,SAS,SAS,fg_miss,86,True,False,,MISS Aldridge 10' Turnaround Fadeaway Shot,97-87,97,87
-0021701095,2018-03-25,MIL,SAS,42.2,4,5,48,MIL,MIL,reb,0,False,False,BUCKS Rebound,,97-87,97,87
 0021701095,2018-03-25,MIL,SAS,42.2,4,5,48,SAS,MIL,block,86,True,False,block,block,97-87,97,87
+0021701095,2018-03-25,MIL,SAS,42.2,4,5,48,MIL,MIL,reb,0,False,False,BUCKS Rebound,,97-87,97,87
 0021701095,2018-03-25,MIL,SAS,42.42,4,5,35,MIL,MIL,fg_make,3,False,False,Henson 9' Hook Shot (10 PTS) (Bledsoe 5 AST),,99-87,99,87
 0021701095,2018-03-25,MIL,SAS,42.78,4,5,13,SAS,SAS,fg_miss,3,False,False,,MISS Gasol 11' Hook Shot,99-87,99,87
 0021701095,2018-03-25,MIL,SAS,42.8,4,5,12,MIL,MIL,reb,0,False,False,Henson REBOUND (Off:3 Def:2),,99-87,99,87
@@ -413,8 +413,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701095,2018-03-25,MIL,SAS,47.8,4,0,12,MIL,MIL,fg3_miss,1,False,False,MISS Bledsoe 28' 3PT Jump Shot,,106-103,106,103
 0021701095,2018-03-25,MIL,SAS,47.85,4,0,9,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:0 Def:9),106-103,106,103
 0021701095,2018-03-25,MIL,SAS,47.95,4,0,3,SAS,SAS,fg3_miss,1,True,False,,MISS Murray 29' 3PT Jump Shot,106-103,106,103
-0021701095,2018-03-25,MIL,SAS,47.95,4,0,3,SAS,SAS,reb,0,False,False,,Green REBOUND (Off:3 Def:3),106-103,106,103
 0021701095,2018-03-25,MIL,SAS,47.95,4,0,3,SAS,MIL,block,1,True,False,block,block,106-103,106,103
+0021701095,2018-03-25,MIL,SAS,47.95,4,0,3,SAS,SAS,reb,0,False,False,,Green REBOUND (Off:3 Def:3),106-103,106,103
 0021701095,2018-03-25,MIL,SAS,48.0,4,0,0,SAS,SAS,fg_miss,97,False,False,,MISS Green 1' Tip Layup Shot,106-103,106,103
 0021701095,2018-03-25,MIL,SAS,48.0,4,0,0,MIL,MIL,reb,0,False,False,Henson REBOUND (Off:3 Def:3),,106-103,106,103
 0021701095,2018-03-25,MIL,SAS,48.0,4,0,0,MIL,,period_end,0,False,False,,,106-103,106,103

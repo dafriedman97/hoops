@@ -105,15 +105,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800612,2019-01-09,NOP,CLE,11.68,1,0,19,NOP,NOP,ft_miss,12,False,False,MISS Mirotic Free Throw 2 of 2,,25-38,25,38
 0021800612,2019-01-09,NOP,CLE,11.78,1,0,13,CLE,CLE,reb,0,False,False,,Zizic REBOUND (Off:0 Def:2),25-38,25,38
 0021800612,2019-01-09,NOP,CLE,11.97,1,0,2,CLE,CLE,fg_miss,7,True,False,,MISS Clarkson 2' Dunk,25-38,25,38
-0021800612,2019-01-09,NOP,CLE,11.97,1,0,2,CLE,CLE,reb,0,False,False,,Zizic REBOUND (Off:1 Def:2),25-38,25,38
 0021800612,2019-01-09,NOP,CLE,11.97,1,0,2,CLE,NOP,block,7,True,False,block,block,25-38,25,38
+0021800612,2019-01-09,NOP,CLE,11.97,1,0,2,CLE,CLE,reb,0,False,False,,Zizic REBOUND (Off:1 Def:2),25-38,25,38
 0021800612,2019-01-09,NOP,CLE,12.0,1,0,0,CLE,CLE,fg_miss,5,True,False,,MISS Zizic 2' Layup,25-38,25,38
+0021800612,2019-01-09,NOP,CLE,12.0,1,0,0,CLE,NOP,block,5,True,False,block,block,25-38,25,38
 0021800612,2019-01-09,NOP,CLE,12.0,1,0,0,NOP,NOP,reb,0,False,False,Payton REBOUND (Off:0 Def:1),,25-38,25,38
 0021800612,2019-01-09,NOP,CLE,12.0,1,0,0,NOP,NOP,fg3_miss,1,False,False,MISS Payton 43' 3PT Jump Shot,,25-38,25,38
 0021800612,2019-01-09,NOP,CLE,12.0,1,0,0,NOP,NOP,reb,0,False,False,PELICANS Rebound,,25-38,25,38
 0021800612,2019-01-09,NOP,CLE,12.0,1,0,0,NOP,,period_end,0,False,False,,,25-38,25,38
 0021800612,2019-01-09,NOP,CLE,12.0,2,12,0,NOP,,period_start,0,False,False,,,25-38,25,38
-0021800612,2019-01-09,NOP,CLE,12.0,1,0,0,CLE,NOP,block,5,True,False,block,block,25-38,25,38
 0021800612,2019-01-09,NOP,CLE,12.33,2,11,40,NOP,NOP,fg_make,5,False,False,Okafor 2' Layup (2 PTS),,27-38,27,38
 0021800612,2019-01-09,NOP,CLE,12.7,2,11,18,CLE,CLE,fg_make,78,False,False,,Payne 10' Floating Jump Shot (2 PTS) (Dellavedova 4 AST),27-40,27,40
 0021800612,2019-01-09,NOP,CLE,12.9,2,11,6,NOP,CLE,foul,1,False,False,,Jones P.FOUL (P1.T1) (T.Brown),27-40,27,40
@@ -152,8 +152,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800612,2019-01-09,NOP,CLE,17.15,2,6,51,NOP,NOP,reb,0,False,False,Frazier REBOUND (Off:0 Def:1),,41-53,41,53
 0021800612,2019-01-09,NOP,CLE,17.28,2,6,43,NOP,NOP,fg_make,78,False,False,Okafor 3' Floating Jump Shot (6 PTS) (Randle 3 AST),,43-53,43,53
 0021800612,2019-01-09,NOP,CLE,17.55,2,6,27,CLE,CLE,fg_miss,5,True,False,,MISS Thompson 2' Layup,43-53,43,53
-0021800612,2019-01-09,NOP,CLE,17.55,2,6,27,NOP,NOP,reb,0,False,False,Frazier REBOUND (Off:0 Def:2),,43-53,43,53
 0021800612,2019-01-09,NOP,CLE,17.55,2,6,27,CLE,NOP,block,5,True,False,block,block,43-53,43,53
+0021800612,2019-01-09,NOP,CLE,17.55,2,6,27,NOP,NOP,reb,0,False,False,Frazier REBOUND (Off:0 Def:2),,43-53,43,53
 0021800612,2019-01-09,NOP,CLE,17.6,2,6,24,NOP,NOP,tov,40,False,False,Frazier Out of Bounds Lost Ball Turnover (P1.T3),,43-53,43,53
 0021800612,2019-01-09,NOP,CLE,17.6,2,6,24,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 2 Short 0),,43-53,43,53
 0021800612,2019-01-09,NOP,CLE,17.83,2,6,10,CLE,CLE,fg_miss,5,False,False,,MISS Burks 2' Layup,43-53,43,53
@@ -213,10 +213,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800612,2019-01-09,NOP,CLE,23.52,2,0,29,NOP,NOP,reb,0,False,False,Holiday REBOUND (Off:0 Def:4),,57-63,57,63
 0021800612,2019-01-09,NOP,CLE,23.67,2,0,20,NOP,NOP,fg_make,71,False,False,Payton 2' Finger Roll Layup (4 PTS),,59-63,59,63
 0021800612,2019-01-09,NOP,CLE,24.0,2,0,0,CLE,CLE,fg_miss,1,True,False,,MISS Sexton 23' Jump Shot,59-63,59,63
+0021800612,2019-01-09,NOP,CLE,24.0,2,0,0,CLE,NOP,block,1,True,False,block,block,59-63,59,63
 0021800612,2019-01-09,NOP,CLE,24.0,2,0,0,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,59-63,59,63
 0021800612,2019-01-09,NOP,CLE,24.0,2,0,0,CLE,,period_end,0,False,False,,,59-63,59,63
 0021800612,2019-01-09,NOP,CLE,24.0,3,12,0,CLE,,period_start,0,False,False,,,59-63,59,63
-0021800612,2019-01-09,NOP,CLE,24.0,2,0,0,CLE,NOP,block,1,True,False,block,block,59-63,59,63
 0021800612,2019-01-09,NOP,CLE,24.23,3,11,46,NOP,CLE,foul,1,False,False,,Frye P.FOUL (P2.T1) (J.Williams),59-63,59,63
 0021800612,2019-01-09,NOP,CLE,24.33,3,11,40,NOP,NOP,fg3_miss,1,False,False,MISS Randle 3PT Jump Shot,,59-63,59,63
 0021800612,2019-01-09,NOP,CLE,24.38,3,11,37,NOP,NOP,reb,0,False,False,Davis REBOUND (Off:6 Def:4),,59-63,59,63
@@ -224,8 +224,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800612,2019-01-09,NOP,CLE,24.38,3,11,37,NOP,NOP,ft_make,11,False,False,Davis Free Throw 1 of 2 (14 PTS),,60-63,60,63
 0021800612,2019-01-09,NOP,CLE,24.38,3,11,37,NOP,NOP,ft_make,12,False,False,Davis Free Throw 2 of 2 (15 PTS),,61-63,61,63
 0021800612,2019-01-09,NOP,CLE,24.67,3,11,20,CLE,CLE,fg_miss,6,True,False,,MISS Burks 2' Driving Layup,61-63,61,63
-0021800612,2019-01-09,NOP,CLE,24.67,3,11,20,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,61-63,61,63
 0021800612,2019-01-09,NOP,CLE,24.67,3,11,20,CLE,NOP,block,6,True,False,block,block,61-63,61,63
+0021800612,2019-01-09,NOP,CLE,24.67,3,11,20,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,61-63,61,63
 0021800612,2019-01-09,NOP,CLE,24.77,3,11,14,CLE,CLE,fg_make,3,False,False,,Thompson 11' Hook Shot (2 PTS),61-65,61,65
 0021800612,2019-01-09,NOP,CLE,24.95,3,11,3,NOP,NOP,fg_make,1,False,False,Davis 17' Jump Shot (17 PTS) (Holiday 2 AST),,63-65,63,65
 0021800612,2019-01-09,NOP,CLE,25.3,3,10,42,CLE,NOP,foul,2,False,False,Miller S.FOUL (P1.T1) (N.Green),,63-65,63,65
@@ -242,8 +242,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800612,2019-01-09,NOP,CLE,26.48,3,9,31,CLE,CLE,timeout,1,False,False,,Cavaliers Timeout: Regular (Reg.2 Short 0),69-67,69,67
 0021800612,2019-01-09,NOP,CLE,26.78,3,9,13,CLE,CLE,fg_miss,1,False,False,,MISS Frye 10' Jump Shot,69-67,69,67
 0021800612,2019-01-09,NOP,CLE,26.82,3,9,11,NOP,NOP,reb,0,False,False,Randle REBOUND (Off:1 Def:4),,69-67,69,67
-0021800612,2019-01-09,NOP,CLE,26.92,3,9,5,NOP,NOP,tov,1,False,False,Randle Bad Pass Turnover (P2.T8),,69-67,69,67
 0021800612,2019-01-09,NOP,CLE,26.92,3,9,5,CLE,NOP,foul,3,False,False,Payton L.B.FOUL (P3.T2) (T.Brown),,69-67,69,67
+0021800612,2019-01-09,NOP,CLE,26.92,3,9,5,NOP,NOP,tov,1,False,False,Randle Bad Pass Turnover (P2.T8),,69-67,69,67
 0021800612,2019-01-09,NOP,CLE,27.07,3,8,56,CLE,CLE,tov,1,False,True,,Burks Bad Pass Turnover (P1.T8),69-67,69,67
 0021800612,2019-01-09,NOP,CLE,27.07,3,8,56,CLE,NOP,steal,1,False,True,steal,steal,69-67,69,67
 0021800612,2019-01-09,NOP,CLE,27.13,3,8,52,NOP,NOP,fg_make,41,False,False,Holiday 2' Running Layup (8 PTS),,71-67,71,67

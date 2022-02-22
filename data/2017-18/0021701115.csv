@@ -9,8 +9,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701115,2018-03-27,LAC,MIL,0.7,1,11,18,MIL,MIL,fg3_miss,1,False,False,,MISS Middleton 26' 3PT Jump Shot,0-2,0,2
 0021701115,2018-03-27,LAC,MIL,0.78,1,11,13,LAC,LAC,reb,0,False,False,Harris REBOUND (Off:0 Def:1),,0-2,0,2
 0021701115,2018-03-27,LAC,MIL,0.88,1,11,7,LAC,LAC,fg_miss,6,True,False,MISS Harris 2' Driving Layup,,0-2,0,2
-0021701115,2018-03-27,LAC,MIL,0.88,1,11,7,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,0-2,0,2
 0021701115,2018-03-27,LAC,MIL,0.88,1,11,7,LAC,MIL,block,6,True,False,block,block,0-2,0,2
+0021701115,2018-03-27,LAC,MIL,0.88,1,11,7,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,0-2,0,2
 0021701115,2018-03-27,LAC,MIL,0.98,1,11,1,LAC,LAC,fg3_make,1,False,False,Teodosic 25' 3PT Jump Shot (3 PTS) (Jordan 1 AST),,3-2,3,2
 0021701115,2018-03-27,LAC,MIL,1.27,1,10,44,MIL,MIL,tov,1,False,True,,Bledsoe Bad Pass Turnover (P1.T1),3-2,3,2
 0021701115,2018-03-27,LAC,MIL,1.27,1,10,44,MIL,LAC,steal,1,False,True,steal,steal,3-2,3,2
@@ -99,10 +99,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701115,2018-03-27,LAC,MIL,11.88,1,0,7,MIL,MIL,fg3_miss,1,False,False,,MISS Parker 25' 3PT Jump Shot,35-29,35,29
 0021701115,2018-03-27,LAC,MIL,11.93,1,0,4,LAC,LAC,reb,0,False,False,Williams REBOUND (Off:0 Def:1),,35-29,35,29
 0021701115,2018-03-27,LAC,MIL,12.0,1,0,0,LAC,LAC,fg3_miss,1,True,False,MISS Williams 29' 3PT Jump Shot,,35-29,35,29
+0021701115,2018-03-27,LAC,MIL,12.0,1,0,0,LAC,MIL,block,1,True,False,block,block,35-29,35,29
 0021701115,2018-03-27,LAC,MIL,12.0,1,0,0,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,35-29,35,29
 0021701115,2018-03-27,LAC,MIL,12.0,1,0,0,LAC,,period_end,0,False,False,,,35-29,35,29
 0021701115,2018-03-27,LAC,MIL,12.0,2,12,0,LAC,,period_start,0,False,False,,,35-29,35,29
-0021701115,2018-03-27,LAC,MIL,12.0,1,0,0,LAC,MIL,block,1,True,False,block,block,35-29,35,29
 0021701115,2018-03-27,LAC,MIL,12.32,2,11,41,MIL,MIL,tov,1,False,True,,Parker Bad Pass Turnover (P1.T4),35-29,35,29
 0021701115,2018-03-27,LAC,MIL,12.32,2,11,41,MIL,LAC,steal,1,False,True,steal,steal,35-29,35,29
 0021701115,2018-03-27,LAC,MIL,12.42,2,11,35,LAC,LAC,fg3_make,1,False,False,Dekker 3PT Jump Shot (3 PTS) (Williams 2 AST),,38-29,38,29
@@ -178,16 +178,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701115,2018-03-27,LAC,MIL,19.83,2,4,10,MIL,LAC,block,5,True,False,block,block,55-44,55,44
 0021701115,2018-03-27,LAC,MIL,19.88,2,4,7,LAC,LAC,reb,0,False,False,Jordan REBOUND (Off:2 Def:4),,55-44,55,44
 0021701115,2018-03-27,LAC,MIL,20.03,2,3,58,LAC,LAC,fg_miss,3,True,False,MISS Jordan 4' Hook Shot,,55-44,55,44
-0021701115,2018-03-27,LAC,MIL,20.03,2,3,58,MIL,MIL,reb,0,False,False,,Bledsoe REBOUND (Off:1 Def:4),55-44,55,44
 0021701115,2018-03-27,LAC,MIL,20.03,2,3,58,LAC,MIL,block,3,True,False,block,block,55-44,55,44
+0021701115,2018-03-27,LAC,MIL,20.03,2,3,58,MIL,MIL,reb,0,False,False,,Bledsoe REBOUND (Off:1 Def:4),55-44,55,44
 0021701115,2018-03-27,LAC,MIL,20.12,2,3,53,MIL,MIL,fg_make,41,False,False,,Bledsoe 1' Running Layup (7 PTS),55-46,55,46
 0021701115,2018-03-27,LAC,MIL,20.12,2,3,53,MIL,LAC,foul,2,False,False,Rivers S.FOUL (P1.PN) (P.Fraher),,55-46,55,46
 0021701115,2018-03-27,LAC,MIL,20.12,2,3,53,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 2 Short 0),,55-46,55,46
 0021701115,2018-03-27,LAC,MIL,20.12,2,3,53,LAC,MIL,ft_make,10,False,False,,Bledsoe Free Throw 1 of 1 (8 PTS),55-47,55,47
 0021701115,2018-03-27,LAC,MIL,20.43,2,3,34,LAC,LAC,fg_make,3,False,False,Harris 8' Hook Shot (10 PTS),,57-47,57,47
-0021701115,2018-03-27,LAC,MIL,20.43,2,3,34,LAC,MIL,violation,2,False,False,,Henson Violation:Defensive Goaltending (P.Fraher),57-47,57,47
 0021701115,2018-03-27,LAC,MIL,20.43,2,3,34,LAC,MIL,foul,2,False,False,,Middleton S.FOUL (P2.PN) (P.Fraher),57-47,57,47
 0021701115,2018-03-27,LAC,MIL,20.43,2,3,34,LAC,LAC,ft_miss,10,False,False,MISS Harris Free Throw 1 of 1,,57-47,57,47
+0021701115,2018-03-27,LAC,MIL,20.43,2,3,34,LAC,MIL,violation,2,False,False,,Henson Violation:Defensive Goaltending (P.Fraher),57-47,57,47
 0021701115,2018-03-27,LAC,MIL,20.5,2,3,30,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:1 Def:1),57-47,57,47
 0021701115,2018-03-27,LAC,MIL,20.82,2,3,11,MIL,MIL,fg_miss,3,False,False,,MISS Antetokounmpo 5' Hook Shot,57-47,57,47
 0021701115,2018-03-27,LAC,MIL,20.87,2,3,8,LAC,LAC,reb,0,False,False,Jordan REBOUND (Off:2 Def:5),,57-47,57,47
@@ -229,8 +229,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701115,2018-03-27,LAC,MIL,23.48,2,0,31,LAC,MIL,block,6,True,False,block,block,62-54,62,54
 0021701115,2018-03-27,LAC,MIL,23.55,2,0,27,LAC,LAC,reb,0,False,False,Jordan REBOUND (Off:3 Def:5),,62-54,62,54
 0021701115,2018-03-27,LAC,MIL,23.55,2,0,27,LAC,LAC,fg_miss,5,True,False,MISS Jordan 2' Layup,,62-54,62,54
-0021701115,2018-03-27,LAC,MIL,23.55,2,0,27,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:1 Def:3),62-54,62,54
 0021701115,2018-03-27,LAC,MIL,23.55,2,0,27,LAC,MIL,block,5,True,False,block,block,62-54,62,54
+0021701115,2018-03-27,LAC,MIL,23.55,2,0,27,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:1 Def:3),62-54,62,54
 0021701115,2018-03-27,LAC,MIL,23.87,2,0,8,MIL,MIL,fg_make,101,False,False,,Middleton 13' Driving Floating Jump Shot (14 PTS) (Antetokounmpo 5 AST),62-56,62,56
 0021701115,2018-03-27,LAC,MIL,23.98,2,0,1,LAC,LAC,fg_miss,101,False,False,MISS Harris 6' Driving Floating Jump Shot,,62-56,62,56
 0021701115,2018-03-27,LAC,MIL,23.98,2,0,1,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,62-56,62,56
@@ -330,9 +330,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701115,2018-03-27,LAC,MIL,34.07,3,1,56,MIL,MIL,fg_make,44,False,False,,Zeller 1' Reverse Layup (6 PTS) (Parker 2 AST),78-79,78,79
 0021701115,2018-03-27,LAC,MIL,34.5,3,1,30,LAC,LAC,tov,11,False,False,CLIPPERS Turnover: Shot Clock (T#10),,78-79,78,79
 0021701115,2018-03-27,LAC,MIL,34.9,3,1,6,MIL,MIL,fg_miss,1,True,False,,MISS Parker 4' Jump Shot,78-79,78,79
+0021701115,2018-03-27,LAC,MIL,34.9,3,1,6,MIL,LAC,block,1,True,False,block,block,78-79,78,79
 0021701115,2018-03-27,LAC,MIL,34.9,3,1,6,MIL,MIL,reb,0,False,False,,Bucks Rebound,78-79,78,79
 0021701115,2018-03-27,LAC,MIL,34.9,3,1,6,MIL,MIL,tov,11,False,False,,Bucks Turnover: Shot Clock (T#10),78-79,78,79
-0021701115,2018-03-27,LAC,MIL,34.9,3,1,6,MIL,LAC,block,1,True,False,block,block,78-79,78,79
 0021701115,2018-03-27,LAC,MIL,35.1,3,0,54,LAC,LAC,tov,1,False,True,Rivers Bad Pass Turnover (P2.T11),,78-79,78,79
 0021701115,2018-03-27,LAC,MIL,35.1,3,0,54,LAC,MIL,steal,1,False,True,steal,steal,78-79,78,79
 0021701115,2018-03-27,LAC,MIL,35.17,3,0,50,MIL,MIL,fg_make,7,False,False,,Antetokounmpo 2' Dunk (17 PTS) (Zeller 2 AST),78-81,78,81

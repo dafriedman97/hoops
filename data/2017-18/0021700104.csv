@@ -42,8 +42,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700104,2017-10-31,LAL,DET,4.67,1,7,20,DET,DET,fg3_miss,1,False,False,,MISS Jackson 26' 3PT Jump Shot,7-9,7,9
 0021700104,2017-10-31,LAL,DET,4.75,1,7,15,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:2 Def:1),7-9,7,9
 0021700104,2017-10-31,LAL,DET,4.77,1,7,14,DET,DET,fg_miss,1,True,False,,MISS Drummond 3' Jump Shot,7-9,7,9
-0021700104,2017-10-31,LAL,DET,4.77,1,7,14,LAL,LAL,reb,0,False,False,Ball REBOUND (Off:0 Def:1),,7-9,7,9
 0021700104,2017-10-31,LAL,DET,4.77,1,7,14,DET,LAL,block,1,True,False,block,block,7-9,7,9
+0021700104,2017-10-31,LAL,DET,4.77,1,7,14,LAL,LAL,reb,0,False,False,Ball REBOUND (Off:0 Def:1),,7-9,7,9
 0021700104,2017-10-31,LAL,DET,4.92,1,7,5,LAL,LAL,fg3_miss,1,False,False,MISS Lopez 3PT Jump Shot,,7-9,7,9
 0021700104,2017-10-31,LAL,DET,4.97,1,7,2,DET,DET,reb,0,False,False,,Johnson REBOUND (Off:0 Def:1),7-9,7,9
 0021700104,2017-10-31,LAL,DET,5.25,1,6,45,DET,DET,fg3_miss,1,False,False,,MISS Johnson 26' 3PT Jump Shot,7-9,7,9
@@ -97,8 +97,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700104,2017-10-31,LAL,DET,11.8,1,0,12,LAL,LAL,reb,0,False,False,Ingram REBOUND (Off:0 Def:2),,25-20,25,20
 0021700104,2017-10-31,LAL,DET,11.83,1,0,10,LAL,LAL,tov,13,False,False,Ingram Backcourt Turnover (P3.T4),,25-20,25,20
 0021700104,2017-10-31,LAL,DET,11.98,1,0,1,DET,DET,fg_miss,78,False,False,,MISS Bradley 8' Floating Jump Shot,25-20,25,20
-0021700104,2017-10-31,LAL,DET,12.0,1,0,0,DET,DET,fg_make,97,False,False,,Leuer 1' Tip Layup Shot (2 PTS),25-22,25,22
 0021700104,2017-10-31,LAL,DET,12.0,1,0,0,DET,DET,reb,0,False,False,,Leuer REBOUND (Off:1 Def:0),25-22,25,22
+0021700104,2017-10-31,LAL,DET,12.0,1,0,0,DET,DET,fg_make,97,False,False,,Leuer 1' Tip Layup Shot (2 PTS),25-22,25,22
 0021700104,2017-10-31,LAL,DET,12.0,1,0,0,DET,,period_end,0,False,False,,,25-22,25,22
 0021700104,2017-10-31,LAL,DET,12.0,2,12,0,DET,,period_start,0,False,False,,,25-22,25,22
 0021700104,2017-10-31,LAL,DET,12.27,2,11,44,LAL,LAL,fg_make,6,False,False,Randle 2' Driving Layup (4 PTS) (Kuzma 1 AST),,27-22,27,22
@@ -118,8 +118,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700104,2017-10-31,LAL,DET,14.07,2,9,56,LAL,LAL,fg_make,98,False,False,Randle 1' Cutting Layup Shot (8 PTS) (Hart 1 AST),,33-22,33,22
 0021700104,2017-10-31,LAL,DET,14.4,2,9,36,DET,DET,fg_make,98,False,False,,Smith 6' Cutting Layup Shot (4 PTS) (Leuer 1 AST),33-24,33,24
 0021700104,2017-10-31,LAL,DET,14.62,2,9,23,LAL,LAL,fg_miss,43,True,False,MISS Clarkson 2' Alley Oop Layup,,33-24,33,24
-0021700104,2017-10-31,LAL,DET,14.62,2,9,23,LAL,LAL,reb,0,False,False,LAKERS Rebound,,33-24,33,24
 0021700104,2017-10-31,LAL,DET,14.62,2,9,23,LAL,DET,block,43,True,False,block,block,33-24,33,24
+0021700104,2017-10-31,LAL,DET,14.62,2,9,23,LAL,LAL,reb,0,False,False,LAKERS Rebound,,33-24,33,24
 0021700104,2017-10-31,LAL,DET,14.77,2,9,14,LAL,LAL,fg_make,6,False,False,Kuzma 1' Driving Layup (4 PTS),,35-24,35,24
 0021700104,2017-10-31,LAL,DET,15.08,2,8,55,DET,DET,fg_miss,57,False,False,,MISS Smith 8' Driving Hook Shot,35-24,35,24
 0021700104,2017-10-31,LAL,DET,15.15,2,8,51,LAL,LAL,reb,0,False,False,Randle REBOUND (Off:0 Def:4),,35-24,35,24
@@ -186,8 +186,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700104,2017-10-31,LAL,DET,22.65,2,1,21,LAL,LAL,tov,2,False,True,Lopez Lost Ball Turnover (P1.T7),,53-43,53,43
 0021700104,2017-10-31,LAL,DET,22.65,2,1,21,LAL,DET,steal,2,False,True,steal,steal,53-43,53,43
 0021700104,2017-10-31,LAL,DET,22.7,2,1,18,DET,DET,tov,2,False,True,,Johnson Lost Ball Turnover (P3.T9),53-43,53,43
-0021700104,2017-10-31,LAL,DET,22.7,2,1,18,LAL,DET,foul,3,False,False,,Johnson L.B.FOUL (P2.T3) (A.Smith),53-43,53,43
 0021700104,2017-10-31,LAL,DET,22.7,2,1,18,DET,LAL,steal,2,False,True,steal,steal,53-43,53,43
+0021700104,2017-10-31,LAL,DET,22.7,2,1,18,LAL,DET,foul,3,False,False,,Johnson L.B.FOUL (P2.T3) (A.Smith),53-43,53,43
 0021700104,2017-10-31,LAL,DET,22.77,2,1,14,LAL,LAL,fg_make,79,False,False,Ingram 16' Pullup Jump Shot (6 PTS),,55-43,55,43
 0021700104,2017-10-31,LAL,DET,23.0,2,1,0,DET,DET,fg_make,6,False,False,,Jackson 1' Driving Layup (11 PTS),55-45,55,45
 0021700104,2017-10-31,LAL,DET,23.3,2,0,42,LAL,LAL,fg3_miss,1,False,False,MISS Ball 25' 3PT Jump Shot,,55-45,55,45
@@ -246,8 +246,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700104,2017-10-31,LAL,DET,28.63,3,7,22,DET,DET,tov,37,False,False,,Jackson Offensive Foul Turnover (P2.T10),69-55,69,55
 0021700104,2017-10-31,LAL,DET,28.78,3,7,13,LAL,DET,violation,5,False,False,,Drummond Violation:Kicked Ball (L.Wood),69-55,69,55
 0021700104,2017-10-31,LAL,DET,28.92,3,7,5,LAL,LAL,fg_miss,6,True,False,MISS Ingram 5' Driving Layup,,69-55,69,55
-0021700104,2017-10-31,LAL,DET,28.92,3,7,5,LAL,LAL,reb,0,False,False,LAKERS Rebound,,69-55,69,55
 0021700104,2017-10-31,LAL,DET,28.92,3,7,5,LAL,DET,block,6,True,False,block,block,69-55,69,55
+0021700104,2017-10-31,LAL,DET,28.92,3,7,5,LAL,LAL,reb,0,False,False,LAKERS Rebound,,69-55,69,55
 0021700104,2017-10-31,LAL,DET,28.98,3,7,1,LAL,LAL,fg_miss,1,False,False,MISS Nance Jr. 17' Jump Shot,,69-55,69,55
 0021700104,2017-10-31,LAL,DET,29.08,3,6,55,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:4 Def:7),69-55,69,55
 0021700104,2017-10-31,LAL,DET,29.18,3,6,49,DET,DET,fg_make,101,False,False,,Jackson 8' Driving Floating Jump Shot (13 PTS),69-57,69,57

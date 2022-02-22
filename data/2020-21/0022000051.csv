@@ -63,8 +63,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000051,2020-12-29,MIA,MIL,7.15,1,4,51,MIL,MIL,fg_miss,47,False,False,,MISS Antetokounmpo 11' Turnaround Jump Shot,12-29,12,29
 0022000051,2020-12-29,MIA,MIL,7.18,1,4,49,MIA,MIA,reb,0,False,False,Herro REBOUND (Off:0 Def:1),,12-29,12,29
 0022000051,2020-12-29,MIA,MIL,7.32,1,4,41,MIA,MIA,tov,1,False,True,Dragic Bad Pass Turnover (P2.T7),,12-29,12,29
-0022000051,2020-12-29,MIA,MIL,7.32,1,4,41,MIL,MIL,tov,7,False,False,,Middleton Discontinue Dribble Turnover (P3.T3),12-29,12,29
 0022000051,2020-12-29,MIA,MIL,7.32,1,4,41,MIA,MIL,steal,1,False,True,steal,steal,12-29,12,29
+0022000051,2020-12-29,MIA,MIL,7.32,1,4,41,MIL,MIL,tov,7,False,False,,Middleton Discontinue Dribble Turnover (P3.T3),12-29,12,29
 0022000051,2020-12-29,MIA,MIL,7.67,1,4,20,MIA,MIA,fg_make,101,False,False,Bradley 12' Driving Floating Jump Shot (2 PTS),,14-29,14,29
 0022000051,2020-12-29,MIA,MIL,7.8,1,4,12,MIL,MIL,fg3_make,1,False,False,,Portis 25' 3PT Jump Shot (3 PTS) (Augustin 1 AST),14-32,14,32
 0022000051,2020-12-29,MIA,MIL,8.03,1,3,58,MIA,MIA,fg3_make,79,False,False,Herro 25' 3PT Pullup Jump Shot (10 PTS),,17-32,17,32
@@ -188,8 +188,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000051,2020-12-29,MIA,MIL,20.27,2,3,44,MIL,MIL,fg_make,72,False,False,,Portis 3' Putback Layup (5 PTS),41-69,41,69
 0022000051,2020-12-29,MIA,MIL,20.5,2,3,30,MIA,MIA,fg_miss,5,True,False,MISS Achiuwa 3' Layup,,41-69,41,69
 0022000051,2020-12-29,MIA,MIL,20.5,2,3,30,MIA,MIL,block,5,True,False,block,block,41-69,41,69
-0022000051,2020-12-29,MIA,MIL,20.52,2,3,29,MIA,MIA,reb,0,False,False,HEAT Rebound,,41-69,41,69
 0022000051,2020-12-29,MIA,MIL,20.52,2,3,29,MIA,MIL,violation,1,False,False,,Bucks Violation: Delay of game Violation,41-69,41,69
+0022000051,2020-12-29,MIA,MIL,20.52,2,3,29,MIA,MIA,reb,0,False,False,HEAT Rebound,,41-69,41,69
 0022000051,2020-12-29,MIA,MIL,20.67,2,3,20,MIA,MIA,fg_make,79,False,False,Herro 17' Pullup Jump Shot (14 PTS),,43-69,43,69
 0022000051,2020-12-29,MIA,MIL,20.87,2,3,8,MIL,MIL,fg_miss,1,True,False,,MISS Holiday 8' Jump Shot,43-69,43,69
 0022000051,2020-12-29,MIA,MIL,20.87,2,3,8,MIL,MIA,block,1,True,False,block,block,43-69,43,69
@@ -316,9 +316,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000051,2020-12-29,MIA,MIL,35.95,3,0,3,MIA,MIA,ft_miss,12,False,False,MISS Achiuwa Free Throw 2 of 2,,75-115,75,115
 0022000051,2020-12-29,MIA,MIL,35.98,3,0,1,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:0 Def:4),75-115,75,115
 0022000051,2020-12-29,MIA,MIL,36.0,3,0,0,MIL,MIL,tov,2,False,True,,Antetokounmpo Lost Ball Turnover (P2.T14),75-115,75,115
+0022000051,2020-12-29,MIA,MIL,36.0,3,0,0,MIL,MIA,steal,2,False,True,steal,steal,75-115,75,115
 0022000051,2020-12-29,MIA,MIL,36.0,3,0,0,MIL,,period_end,0,False,False,,,75-115,75,115
 0022000051,2020-12-29,MIA,MIL,36.0,4,12,0,MIL,,period_start,0,False,False,,,75-115,75,115
-0022000051,2020-12-29,MIA,MIL,36.0,3,0,0,MIL,MIA,steal,2,False,True,steal,steal,75-115,75,115
 0022000051,2020-12-29,MIA,MIL,36.33,4,11,40,MIL,MIL,fg_miss,79,False,False,,MISS Portis 9' Pullup Jump Shot,75-115,75,115
 0022000051,2020-12-29,MIA,MIL,36.38,4,11,37,MIA,MIA,reb,0,False,False,Nunn REBOUND (Off:0 Def:1),,75-115,75,115
 0022000051,2020-12-29,MIA,MIL,36.5,4,11,30,MIA,MIA,fg_make,108,False,False,Achiuwa 2' Cutting Dunk Shot (8 PTS) (Olynyk 1 AST),,77-115,77,115
@@ -358,8 +358,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000051,2020-12-29,MIA,MIL,40.92,4,7,5,MIA,MIA,fg3_miss,1,False,False,MISS Olynyk 26' 3PT Jump Shot,,83-128,83,128
 0022000051,2020-12-29,MIA,MIL,40.97,4,7,2,MIL,MIL,reb,0,False,False,,Merrill REBOUND (Off:0 Def:1),83-128,83,128
 0022000051,2020-12-29,MIA,MIL,41.03,4,6,58,MIL,MIL,fg_miss,41,True,False,,MISS Nwora 4' Running Layup,83-128,83,128
-0022000051,2020-12-29,MIA,MIL,41.03,4,6,58,MIA,MIA,reb,0,False,False,Achiuwa REBOUND (Off:0 Def:3),,83-128,83,128
 0022000051,2020-12-29,MIA,MIL,41.03,4,6,58,MIL,MIA,block,41,True,False,block,block,83-128,83,128
+0022000051,2020-12-29,MIA,MIL,41.03,4,6,58,MIA,MIA,reb,0,False,False,Achiuwa REBOUND (Off:0 Def:3),,83-128,83,128
 0022000051,2020-12-29,MIA,MIL,41.13,4,6,52,MIA,MIA,fg3_make,103,False,False,Nunn 25' 3PT Running Pull-Up Jump Shot (9 PTS),,86-128,86,128
 0022000051,2020-12-29,MIA,MIL,41.45,4,6,33,MIL,MIL,fg3_miss,1,False,False,,MISS Wilson 3PT Jump Shot,86-128,86,128
 0022000051,2020-12-29,MIA,MIL,41.5,4,6,30,MIA,MIA,reb,0,False,False,Olynyk REBOUND (Off:0 Def:4),,86-128,86,128
@@ -376,9 +376,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000051,2020-12-29,MIA,MIL,42.58,4,5,25,MIL,MIL,fg3_miss,1,False,False,,MISS Wilson 25' 3PT Jump Shot,86-131,86,131
 0022000051,2020-12-29,MIA,MIL,42.62,4,5,23,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:3 Def:6),86-131,86,131
 0022000051,2020-12-29,MIA,MIL,42.65,4,5,21,MIL,MIL,fg_miss,98,True,False,,MISS Wilson 6' Cutting Layup Shot,86-131,86,131
+0022000051,2020-12-29,MIA,MIL,42.65,4,5,21,MIL,MIA,block,98,True,False,block,block,86-131,86,131
 0022000051,2020-12-29,MIA,MIL,42.65,4,5,21,MIL,MIL,reb,0,False,False,,Wilson REBOUND (Off:1 Def:1),86-131,86,131
 0022000051,2020-12-29,MIA,MIL,42.65,4,5,21,MIL,MIA,foul,2,False,False,Achiuwa S.FOUL (P3.T1) (D.Guthrie),,86-131,86,131
-0022000051,2020-12-29,MIA,MIL,42.65,4,5,21,MIL,MIA,block,98,True,False,block,block,86-131,86,131
 0022000051,2020-12-29,MIA,MIL,42.65,4,5,21,MIL,MIL,ft_make,11,False,False,,Portis Free Throw 1 of 2 (8 PTS),86-132,86,132
 0022000051,2020-12-29,MIA,MIL,42.65,4,5,21,MIL,MIL,ft_make,12,False,False,,Portis Free Throw 2 of 2 (9 PTS),86-133,86,133
 0022000051,2020-12-29,MIA,MIL,42.9,4,5,6,MIA,MIA,fg_miss,101,False,False,MISS Nunn 7' Driving Floating Jump Shot,,86-133,86,133

@@ -167,9 +167,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900919,2020-03-04,MIA,ORL,21.02,2,2,59,ORL,ORL,fg3_miss,1,False,False,,MISS Vucevic 25' 3PT Jump Shot,56-45,56,45
 0021900919,2020-03-04,MIA,ORL,21.07,2,2,56,MIA,MIA,reb,0,False,False,Nunn REBOUND (Off:0 Def:1),,56-45,56,45
 0021900919,2020-03-04,MIA,ORL,21.15,2,2,51,MIA,MIA,fg3_miss,1,False,False,MISS Crowder 3PT Jump Shot,,56-45,56,45
+0021900919,2020-03-04,MIA,ORL,21.15,2,2,51,,MIA,jump_ball,1,False,False,Jump Ball (CC) Adebayo vs. Vucevic: Tip to Butler,,56-45,56,45
 0021900919,2020-03-04,MIA,ORL,21.15,2,2,51,MIA,MIA,reb,0,False,False,HEAT Rebound,,56-45,56,45
 0021900919,2020-03-04,MIA,ORL,21.15,2,2,51,ORL,ORL,timeout,7,False,False,,Magic Timeout: Coach Challenge (Reg.3 Short 0),56-45,56,45
-0021900919,2020-03-04,MIA,ORL,21.15,2,2,51,,MIA,jump_ball,1,False,False,Jump Ball (CC) Adebayo vs. Vucevic: Tip to Butler,,56-45,56,45
 0021900919,2020-03-04,MIA,ORL,21.43,2,2,34,MIA,MIA,tov,8,False,False,Robinson 3 Second Violation Turnover (P2.T8),,56-45,56,45
 0021900919,2020-03-04,MIA,ORL,21.62,2,2,23,ORL,ORL,fg_make,1,False,False,,Ross 16' Jump Shot (12 PTS) (Gordon 6 AST),56-47,56,47
 0021900919,2020-03-04,MIA,ORL,21.98,2,2,1,MIA,MIA,tov,1,False,True,Nunn Bad Pass Turnover (P1.T9),,56-47,56,47
@@ -190,8 +190,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900919,2020-03-04,MIA,ORL,23.65,2,0,21,MIA,MIA,ft_make,11,False,False,Butler Free Throw 1 of 2 (5 PTS),,59-55,59,55
 0021900919,2020-03-04,MIA,ORL,23.65,2,0,21,MIA,MIA,ft_make,12,False,False,Butler Free Throw 2 of 2 (6 PTS),,60-55,60,55
 0021900919,2020-03-04,MIA,ORL,23.93,2,0,4,ORL,ORL,fg_miss,6,True,False,,MISS Ross 2' Driving Layup,60-55,60,55
-0021900919,2020-03-04,MIA,ORL,23.93,2,0,4,ORL,ORL,reb,0,False,False,,Magic Rebound,60-55,60,55
 0021900919,2020-03-04,MIA,ORL,23.93,2,0,4,ORL,MIA,block,6,True,False,block,block,60-55,60,55
+0021900919,2020-03-04,MIA,ORL,23.93,2,0,4,ORL,ORL,reb,0,False,False,,Magic Rebound,60-55,60,55
 0021900919,2020-03-04,MIA,ORL,24.0,2,0,0,ORL,ORL,fg3_miss,1,False,False,,MISS Fournier 25' 3PT Jump Shot,60-55,60,55
 0021900919,2020-03-04,MIA,ORL,24.0,2,0,0,ORL,ORL,reb,0,False,False,,Magic Rebound,60-55,60,55
 0021900919,2020-03-04,MIA,ORL,24.0,2,0,0,ORL,,period_end,0,False,False,,,60-55,60,55
@@ -369,9 +369,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900919,2020-03-04,MIA,ORL,46.67,4,1,20,ORL,ORL,fg3_miss,79,False,False,,MISS Gordon 26' 3PT Pullup Jump Shot,116-111,116,111
 0021900919,2020-03-04,MIA,ORL,46.72,4,1,17,MIA,MIA,reb,0,False,False,Crowder REBOUND (Off:1 Def:6),,116-111,116,111
 0021900919,2020-03-04,MIA,ORL,46.97,4,1,2,MIA,MIA,fg_miss,6,True,False,MISS Butler 2' Driving Layup,,116-111,116,111
-0021900919,2020-03-04,MIA,ORL,46.97,4,1,2,MIA,MIA,reb,0,False,False,HEAT Rebound,,116-111,116,111
-0021900919,2020-03-04,MIA,ORL,46.97,4,1,2,,MIA,jump_ball,0,False,False,Jump Ball Butler vs. Fournier: Tip to Adebayo,,116-111,116,111
 0021900919,2020-03-04,MIA,ORL,46.97,4,1,2,MIA,ORL,block,6,True,False,block,block,116-111,116,111
+0021900919,2020-03-04,MIA,ORL,46.97,4,1,2,,MIA,jump_ball,0,False,False,Jump Ball Butler vs. Fournier: Tip to Adebayo,,116-111,116,111
+0021900919,2020-03-04,MIA,ORL,46.97,4,1,2,MIA,MIA,reb,0,False,False,HEAT Rebound,,116-111,116,111
 0021900919,2020-03-04,MIA,ORL,47.12,4,0,53,MIA,MIA,fg3_miss,1,False,False,MISS Crowder 3PT Jump Shot,,116-111,116,111
 0021900919,2020-03-04,MIA,ORL,47.12,4,0,53,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:2 Def:5),,116-111,116,111
 0021900919,2020-03-04,MIA,ORL,47.27,4,0,44,MIA,MIA,fg3_miss,1,False,False,MISS Butler 25' 3PT Jump Shot,,116-111,116,111

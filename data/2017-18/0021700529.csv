@@ -26,12 +26,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700529,2017-12-29,LAL,LAC,2.67,1,9,20,LAL,LAL,fg_miss,5,False,False,MISS Randle 3' Layup,,2-11,2,11
 0021700529,2017-12-29,LAL,LAC,2.72,1,9,17,LAL,LAL,reb,0,False,False,Randle REBOUND (Off:1 Def:0),,2-11,2,11
 0021700529,2017-12-29,LAL,LAC,2.75,1,9,15,LAL,LAL,fg_miss,72,True,False,MISS Randle 2' Putback Layup,,2-11,2,11
-0021700529,2017-12-29,LAL,LAC,2.75,1,9,15,LAL,LAL,reb,0,False,False,Randle REBOUND (Off:2 Def:0),,2-11,2,11
+0021700529,2017-12-29,LAL,LAC,2.75,1,9,15,LAL,LAC,block,72,True,False,block,block,2-11,2,11
 0021700529,2017-12-29,LAL,LAC,2.75,1,9,15,LAL,LAC,foul,2,False,False,,Jordan S.FOUL (P1.T1) (J.Williams),2-11,2,11
 0021700529,2017-12-29,LAL,LAC,2.75,1,9,15,LAL,LAL,ft_miss,11,False,False,MISS Randle Free Throw 1 of 2,,2-11,2,11
 0021700529,2017-12-29,LAL,LAC,2.75,1,9,15,LAL,LAL,reb,0,False,False,LAKERS Rebound,,2-11,2,11
-0021700529,2017-12-29,LAL,LAC,2.75,1,9,15,LAL,LAC,block,72,True,False,block,block,2-11,2,11
 0021700529,2017-12-29,LAL,LAC,2.75,1,9,15,LAL,LAL,ft_make,12,False,False,Randle Free Throw 2 of 2 (1 PTS),,3-11,3,11
+0021700529,2017-12-29,LAL,LAC,2.75,1,9,15,LAL,LAL,reb,0,False,False,Randle REBOUND (Off:2 Def:0),,2-11,2,11
 0021700529,2017-12-29,LAL,LAC,2.9,1,9,6,LAC,LAC,fg3_make,1,False,False,,Rivers 27' 3PT Jump Shot (10 PTS),3-14,3,14
 0021700529,2017-12-29,LAL,LAC,3.23,1,8,46,LAL,LAL,fg_miss,3,False,False,MISS Randle 5' Hook Shot,,3-14,3,14
 0021700529,2017-12-29,LAL,LAC,3.28,1,8,43,LAC,LAC,reb,0,False,False,,Teodosic REBOUND (Off:0 Def:1),3-14,3,14
@@ -90,8 +90,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700529,2017-12-29,LAL,LAC,9.0,1,3,0,LAC,LAC,fg_make,43,False,False,,Harrell 2' Alley Oop Layup (6 PTS) (W. Johnson 1 AST),13-30,13,30
 0021700529,2017-12-29,LAL,LAC,9.23,1,2,46,LAL,LAL,fg_make,75,False,False,Clarkson 4' Driving Finger Roll Layup (2 PTS) (Caldwell-Pope 1 AST),,15-30,15,30
 0021700529,2017-12-29,LAL,LAC,9.65,1,2,21,LAC,LAC,fg_miss,86,False,False,,MISS Harrell 5' Turnaround Fadeaway Shot,15-30,15,30
-0021700529,2017-12-29,LAL,LAC,9.65,1,2,21,LAC,LAC,reb,0,False,False,,Clippers Rebound,15-30,15,30
 0021700529,2017-12-29,LAL,LAC,9.65,1,2,21,LAC,LAC,tov,11,False,False,,Clippers Turnover: Shot Clock (T#1),15-30,15,30
+0021700529,2017-12-29,LAL,LAC,9.65,1,2,21,LAC,LAC,reb,0,False,False,,Clippers Rebound,15-30,15,30
 0021700529,2017-12-29,LAL,LAC,9.97,1,2,2,LAL,LAL,fg_make,5,False,False,Brewer 3' Layup (2 PTS) (Kuzma 1 AST),,17-30,17,30
 0021700529,2017-12-29,LAL,LAC,10.07,1,1,56,LAC,LAL,foul,29,False,False,Nance Jr. Shooting Block Foul (P1.T4) (J.Williams),,17-30,17,30
 0021700529,2017-12-29,LAL,LAC,10.07,1,1,56,LAC,LAC,ft_make,11,False,False,,Williams Free Throw 1 of 2 (1 PTS),17-31,17,31
@@ -110,8 +110,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700529,2017-12-29,LAL,LAC,11.9,1,0,6,LAL,LAC,foul,28,False,False,,Dekker Personal Take Foul (P1.T4) (B.Barnaky),21-35,21,35
 0021700529,2017-12-29,LAL,LAC,11.9,1,0,6,LAL,,violation,1,False,False,,,21-35,21,35
 0021700529,2017-12-29,LAL,LAC,11.98,1,0,1,LAL,LAL,fg_miss,58,True,False,MISS Kuzma 10' Turnaround Hook Shot,,21-35,21,35
-0021700529,2017-12-29,LAL,LAC,11.98,1,0,1,LAL,LAL,reb,0,False,False,LAKERS Rebound,,21-35,21,35
 0021700529,2017-12-29,LAL,LAC,11.98,1,0,1,LAL,LAC,block,58,True,False,block,block,21-35,21,35
+0021700529,2017-12-29,LAL,LAC,11.98,1,0,1,LAL,LAL,reb,0,False,False,LAKERS Rebound,,21-35,21,35
 0021700529,2017-12-29,LAL,LAC,12.0,1,0,0,LAL,LAC,foul,2,False,False,,W. Johnson S.FOUL (P1.PN) (B.Nansel),21-35,21,35
 0021700529,2017-12-29,LAL,LAC,12.0,1,0,0,LAL,LAL,ft_make,11,False,False,Nance Jr. Free Throw 1 of 2 (3 PTS),,22-35,22,35
 0021700529,2017-12-29,LAL,LAC,12.0,1,0,0,LAL,LAL,ft_miss,12,False,False,MISS Nance Jr. Free Throw 2 of 2,,22-35,22,35
@@ -241,8 +241,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700529,2017-12-29,LAL,LAC,25.75,3,10,15,LAL,LAL,fg_miss,78,False,False,MISS Randle 3' Floating Jump Shot,,55-65,55,65
 0021700529,2017-12-29,LAL,LAC,25.82,3,10,11,LAL,LAL,reb,0,False,False,Randle REBOUND (Off:4 Def:1),,55-65,55,65
 0021700529,2017-12-29,LAL,LAC,25.83,3,10,10,LAL,LAL,fg_miss,6,True,False,MISS Randle 2' Driving Layup,,55-65,55,65
-0021700529,2017-12-29,LAL,LAC,25.83,3,10,10,LAL,LAL,reb,0,False,False,LAKERS Rebound,,55-65,55,65
 0021700529,2017-12-29,LAL,LAC,25.83,3,10,10,LAL,LAC,block,6,True,False,block,block,55-65,55,65
+0021700529,2017-12-29,LAL,LAC,25.83,3,10,10,LAL,LAL,reb,0,False,False,LAKERS Rebound,,55-65,55,65
 0021700529,2017-12-29,LAL,LAC,25.9,3,10,6,LAL,LAL,fg_miss,1,False,False,MISS Ingram 18' Jump Shot,,55-65,55,65
 0021700529,2017-12-29,LAL,LAC,25.93,3,10,4,LAC,LAC,reb,0,False,False,,Jordan REBOUND (Off:1 Def:9),55-65,55,65
 0021700529,2017-12-29,LAL,LAC,26.13,3,9,52,LAC,LAC,fg3_miss,1,False,False,,MISS Teodosic 26' 3PT Jump Shot,55-65,55,65
@@ -372,8 +372,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700529,2017-12-29,LAL,LAC,38.5,4,9,30,LAL,LAL,fg_miss,1,False,False,MISS Nance Jr. 17' Jump Shot,,84-99,84,99
 0021700529,2017-12-29,LAL,LAC,38.57,4,9,26,LAC,LAC,reb,0,False,False,,Harrell REBOUND (Off:4 Def:3),84-99,84,99
 0021700529,2017-12-29,LAL,LAC,38.8,4,9,12,LAC,LAC,fg_miss,5,True,False,,MISS Harrell 2' Layup,84-99,84,99
-0021700529,2017-12-29,LAL,LAC,38.8,4,9,12,LAL,LAL,reb,0,False,False,Nance Jr. REBOUND (Off:0 Def:4),,84-99,84,99
 0021700529,2017-12-29,LAL,LAC,38.8,4,9,12,LAC,LAL,block,5,True,False,block,block,84-99,84,99
+0021700529,2017-12-29,LAL,LAC,38.8,4,9,12,LAL,LAL,reb,0,False,False,Nance Jr. REBOUND (Off:0 Def:4),,84-99,84,99
 0021700529,2017-12-29,LAL,LAC,38.92,4,9,5,LAL,LAL,fg_make,6,False,False,Clarkson 3' Driving Layup (15 PTS),,86-99,86,99
 0021700529,2017-12-29,LAL,LAC,39.28,4,8,43,LAC,LAC,fg_make,6,False,False,,Dekker 2' Driving Layup (6 PTS),86-101,86,101
 0021700529,2017-12-29,LAL,LAC,39.5,4,8,30,LAL,LAL,fg_miss,6,True,False,MISS Clarkson 3' Driving Layup,,86-101,86,101

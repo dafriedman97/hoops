@@ -12,8 +12,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001008,2021-05-07,UTA,DEN,1.28,1,10,43,UTA,UTA,fg_make,98,False,False,Gobert 3' Cutting Layup Shot (2 PTS) (Ingles 1 AST),,2-4,2,4
 0022001008,2021-05-07,UTA,DEN,1.58,1,10,25,DEN,DEN,fg_make,108,False,False,,Gordon 2' Cutting Dunk Shot (2 PTS) (Jokic 1 AST),2-6,2,6
 0022001008,2021-05-07,UTA,DEN,1.68,1,10,19,UTA,UTA,tov,1,False,True,Ingles Bad Pass Turnover (P1.T1),,2-6,2,6
-0022001008,2021-05-07,UTA,DEN,1.68,1,10,19,DEN,UTA,foul,28,False,False,Niang Personal Take Foul (P1.T1) (T.Ford),,2-6,2,6
 0022001008,2021-05-07,UTA,DEN,1.68,1,10,19,UTA,DEN,steal,1,False,True,steal,steal,2-6,2,6
+0022001008,2021-05-07,UTA,DEN,1.68,1,10,19,DEN,UTA,foul,28,False,False,Niang Personal Take Foul (P1.T1) (T.Ford),,2-6,2,6
 0022001008,2021-05-07,UTA,DEN,1.87,1,10,8,DEN,DEN,fg3_make,1,False,False,,Porter Jr. 25' 3PT Jump Shot (3 PTS) (Jokic 2 AST),2-9,2,9
 0022001008,2021-05-07,UTA,DEN,2.18,1,9,49,UTA,UTA,fg_make,73,False,False,O'Neale 4' Driving Reverse Layup (2 PTS) (Ingles 2 AST),,4-9,4,9
 0022001008,2021-05-07,UTA,DEN,2.38,1,9,37,DEN,UTA,foul,1,False,False,Bogdanovic P.FOUL (P1.T2) (M.Davis),,4-9,4,9
@@ -145,8 +145,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001008,2021-05-07,UTA,DEN,17.87,2,6,8,DEN,DEN,fg_miss,98,False,False,,MISS McGee 4' Cutting Layup Shot,49-56,49,56
 0022001008,2021-05-07,UTA,DEN,17.9,2,6,6,UTA,UTA,reb,0,False,False,Bogdanovic REBOUND (Off:0 Def:3),,49-56,49,56
 0022001008,2021-05-07,UTA,DEN,17.97,2,6,2,UTA,UTA,fg_miss,6,True,False,MISS Bogdanovic 4' Driving Layup,,49-56,49,56
-0022001008,2021-05-07,UTA,DEN,17.97,2,6,2,UTA,UTA,reb,0,False,False,JAZZ Rebound,,49-56,49,56
 0022001008,2021-05-07,UTA,DEN,17.97,2,6,2,UTA,DEN,block,6,True,False,block,block,49-56,49,56
+0022001008,2021-05-07,UTA,DEN,17.97,2,6,2,UTA,UTA,reb,0,False,False,JAZZ Rebound,,49-56,49,56
 0022001008,2021-05-07,UTA,DEN,18.05,2,5,57,UTA,UTA,fg3_miss,1,False,False,MISS Forrest 3PT Jump Shot,,49-56,49,56
 0022001008,2021-05-07,UTA,DEN,18.1,2,5,54,DEN,DEN,reb,0,False,False,,Gordon REBOUND (Off:0 Def:3),49-56,49,56
 0022001008,2021-05-07,UTA,DEN,18.17,2,5,50,DEN,UTA,foul,1,False,False,Clarkson P.FOUL (P2.T3) (N.Sago),,49-56,49,56
@@ -171,9 +171,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001008,2021-05-07,UTA,DEN,21.18,2,2,49,UTA,UTA,fg3_make,80,False,False,Bogdanovic 26' 3PT Step Back Jump Shot (22 PTS),,61-62,61,62
 0022001008,2021-05-07,UTA,DEN,21.38,2,2,37,DEN,DEN,fg3_make,1,False,False,,Porter Jr. 25' 3PT Jump Shot (18 PTS) (Campazzo 5 AST),61-65,61,65
 0022001008,2021-05-07,UTA,DEN,21.62,2,2,23,UTA,UTA,tov,1,False,True,Clarkson Bad Pass Turnover (P1.T5),,61-65,61,65
+0022001008,2021-05-07,UTA,DEN,21.62,2,2,23,UTA,DEN,steal,1,False,True,steal,steal,61-65,61,65
 0022001008,2021-05-07,UTA,DEN,21.62,2,2,23,DEN,UTA,foul,28,False,False,Bogdanovic Personal Take Foul (P2.T4) (N.Sago),,61-65,61,65
 0022001008,2021-05-07,UTA,DEN,21.62,2,2,23,DEN,DEN,timeout,1,False,False,,Nuggets Timeout: Regular (Reg.3 Short 0),61-65,61,65
-0022001008,2021-05-07,UTA,DEN,21.62,2,2,23,UTA,DEN,steal,1,False,True,steal,steal,61-65,61,65
 0022001008,2021-05-07,UTA,DEN,21.95,2,2,3,DEN,DEN,fg3_miss,1,False,False,,MISS Gordon 24' 3PT Jump Shot,61-65,61,65
 0022001008,2021-05-07,UTA,DEN,22.0,2,2,0,UTA,UTA,reb,0,False,False,Bogdanovic REBOUND (Off:0 Def:6),,61-65,61,65
 0022001008,2021-05-07,UTA,DEN,22.08,2,1,55,UTA,UTA,fg3_make,103,False,False,Bogdanovic 26' 3PT Running Pull-Up Jump Shot (25 PTS),,64-65,64,65
@@ -266,8 +266,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001008,2021-05-07,UTA,DEN,32.25,3,3,45,UTA,UTA,ft_make,14,False,False,Bogdanovic Free Throw 2 of 3 (36 PTS),,87-87,87,87
 0022001008,2021-05-07,UTA,DEN,32.25,3,3,45,UTA,UTA,ft_make,15,False,False,Bogdanovic Free Throw 3 of 3 (37 PTS),,88-87,88,87
 0022001008,2021-05-07,UTA,DEN,32.47,3,3,32,DEN,DEN,fg_miss,5,False,False,,MISS Green 4' Layup,88-87,88,87
-0022001008,2021-05-07,UTA,DEN,32.55,3,3,27,DEN,DEN,fg_make,107,False,False,,Harrison Tip Dunk Shot (4 PTS),88-89,88,89
 0022001008,2021-05-07,UTA,DEN,32.55,3,3,27,DEN,DEN,reb,0,False,False,,Harrison REBOUND (Off:1 Def:1),88-89,88,89
+0022001008,2021-05-07,UTA,DEN,32.55,3,3,27,DEN,DEN,fg_make,107,False,False,,Harrison Tip Dunk Shot (4 PTS),88-89,88,89
 0022001008,2021-05-07,UTA,DEN,32.62,3,3,23,UTA,UTA,tov,2,False,True,Bogdanovic Lost Ball Turnover (P2.T8),,88-89,88,89
 0022001008,2021-05-07,UTA,DEN,32.62,3,3,23,UTA,DEN,steal,2,False,True,steal,steal,88-89,88,89
 0022001008,2021-05-07,UTA,DEN,32.7,3,3,18,DEN,DEN,fg3_make,2,False,False,,Rivers 26' 3PT Running Jump Shot (9 PTS) (Harrison 1 AST),88-92,88,92
@@ -374,8 +374,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001008,2021-05-07,UTA,DEN,44.8,4,3,12,UTA,UTA,fg3_make,1,False,False,Clarkson 25' 3PT Jump Shot (17 PTS) (Niang 1 AST),,117-111,117,111
 0022001008,2021-05-07,UTA,DEN,44.93,4,3,4,DEN,UTA,foul,1,False,False,Bogdanovic P.FOUL (P4.PN) (N.Sago),,117-111,117,111
 0022001008,2021-05-07,UTA,DEN,44.93,4,3,4,DEN,DEN,ft_make,11,False,False,,Millsap Free Throw 1 of 2 (14 PTS),117-112,117,112
-0022001008,2021-05-07,UTA,DEN,44.93,4,3,4,DEN,DEN,ft_miss,12,False,False,,MISS Millsap Free Throw 2 of 2,117-112,117,112
 0022001008,2021-05-07,UTA,DEN,44.93,4,3,4,UTA,UTA,timeout,1,False,False,JAZZ Timeout: Regular (Full 5 Short 0),,117-112,117,112
+0022001008,2021-05-07,UTA,DEN,44.93,4,3,4,DEN,DEN,ft_miss,12,False,False,,MISS Millsap Free Throw 2 of 2,117-112,117,112
 0022001008,2021-05-07,UTA,DEN,44.97,4,3,2,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:3 Def:5),,117-112,117,112
 0022001008,2021-05-07,UTA,DEN,45.15,4,2,51,UTA,DEN,foul,1,False,False,,Jokic P.FOUL (P3.T2) (N.Sago),117-112,117,112
 0022001008,2021-05-07,UTA,DEN,45.32,4,2,41,UTA,UTA,fg_miss,5,True,False,MISS Gobert 3' Layup,,117-112,117,112

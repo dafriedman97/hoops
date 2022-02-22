@@ -12,8 +12,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000591,2021-03-13,MIN,POR,1.43,1,10,34,POR,POR,tov,39,False,False,,Covington Step Out of Bounds Turnover (P1.T1),2-2,2,2
 0022000591,2021-03-13,MIN,POR,1.57,1,10,26,MIN,MIN,fg_make,75,False,False,Rubio Driving Finger Roll Layup (4 PTS),,4-2,4,2
 0022000591,2021-03-13,MIN,POR,1.72,1,10,17,POR,POR,fg_miss,6,True,False,,MISS Lillard 4' Driving Layup,4-2,4,2
-0022000591,2021-03-13,MIN,POR,1.72,1,10,17,POR,POR,reb,0,False,False,,Trail Blazers Rebound,4-2,4,2
 0022000591,2021-03-13,MIN,POR,1.72,1,10,17,POR,MIN,block,6,True,False,block,block,4-2,4,2
+0022000591,2021-03-13,MIN,POR,1.72,1,10,17,POR,POR,reb,0,False,False,,Trail Blazers Rebound,4-2,4,2
 0022000591,2021-03-13,MIN,POR,1.8,1,10,12,POR,POR,fg_miss,6,False,False,,MISS Jones Jr. 3' Driving Layup,4-2,4,2
 0022000591,2021-03-13,MIN,POR,1.83,1,10,10,MIN,MIN,reb,0,False,False,Vanderbilt REBOUND (Off:0 Def:1),,4-2,4,2
 0022000591,2021-03-13,MIN,POR,1.83,1,10,10,MIN,MIN,tov,4,False,False,Vanderbilt Traveling Turnover (P1.T2),,4-2,4,2
@@ -185,8 +185,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000591,2021-03-13,MIN,POR,19.35,2,4,39,MIN,MIN,fg_miss,72,False,False,MISS Hernangomez 4' Putback Layup,,43-52,43,52
 0022000591,2021-03-13,MIN,POR,19.35,2,4,39,MIN,MIN,reb,0,False,False,Hernangomez REBOUND (Off:3 Def:2),,43-52,43,52
 0022000591,2021-03-13,MIN,POR,19.42,2,4,35,MIN,MIN,fg_miss,5,True,False,MISS Hernangomez 4' Layup,,43-52,43,52
-0022000591,2021-03-13,MIN,POR,19.42,2,4,35,POR,POR,reb,0,False,False,,Lillard REBOUND (Off:0 Def:3),43-52,43,52
 0022000591,2021-03-13,MIN,POR,19.42,2,4,35,MIN,POR,block,5,True,False,block,block,43-52,43,52
+0022000591,2021-03-13,MIN,POR,19.42,2,4,35,POR,POR,reb,0,False,False,,Lillard REBOUND (Off:0 Def:3),43-52,43,52
 0022000591,2021-03-13,MIN,POR,19.52,2,4,29,POR,POR,fg3_miss,1,False,False,,MISS Trent Jr. 25' 3PT Jump Shot,43-52,43,52
 0022000591,2021-03-13,MIN,POR,19.55,2,4,27,MIN,MIN,reb,0,False,False,Edwards REBOUND (Off:0 Def:3),,43-52,43,52
 0022000591,2021-03-13,MIN,POR,19.62,2,4,23,MIN,MIN,fg_make,41,False,False,Edwards Running Layup (7 PTS),,45-52,45,52
@@ -276,14 +276,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000591,2021-03-13,MIN,POR,27.48,3,8,31,POR,POR,tov,1,False,True,,Lillard Bad Pass Turnover (P2.T7),66-76,66,76
 0022000591,2021-03-13,MIN,POR,27.48,3,8,31,POR,MIN,steal,1,False,True,steal,steal,66-76,66,76
 0022000591,2021-03-13,MIN,POR,27.58,3,8,25,MIN,MIN,fg3_miss,1,False,False,MISS Edwards 3PT Jump Shot,,66-76,66,76
-0022000591,2021-03-13,MIN,POR,27.68,3,8,19,MIN,MIN,fg_make,97,False,False,Layman Tip Layup Shot (3 PTS),,68-76,68,76
 0022000591,2021-03-13,MIN,POR,27.68,3,8,19,MIN,MIN,reb,0,False,False,Layman REBOUND (Off:3 Def:1),,68-76,68,76
+0022000591,2021-03-13,MIN,POR,27.68,3,8,19,MIN,MIN,fg_make,97,False,False,Layman Tip Layup Shot (3 PTS),,68-76,68,76
 0022000591,2021-03-13,MIN,POR,28.08,3,7,55,POR,POR,fg3_miss,1,False,False,,MISS Jones Jr. 25' 3PT Jump Shot,68-76,68,76
 0022000591,2021-03-13,MIN,POR,28.13,3,7,52,MIN,MIN,reb,0,False,False,Layman REBOUND (Off:3 Def:2),,68-76,68,76
 0022000591,2021-03-13,MIN,POR,28.25,3,7,45,MIN,MIN,fg_miss,6,True,False,MISS Edwards 3' Driving Layup,,68-76,68,76
+0022000591,2021-03-13,MIN,POR,28.25,3,7,45,MIN,POR,block,6,True,False,block,block,68-76,68,76
 0022000591,2021-03-13,MIN,POR,28.25,3,7,45,MIN,MIN,reb,0,False,False,Vanderbilt REBOUND (Off:3 Def:3),,68-76,68,76
 0022000591,2021-03-13,MIN,POR,28.25,3,7,45,MIN,POR,foul,2,False,False,,Kanter S.FOUL (P3.T3) (S.Corbin),68-76,68,76
-0022000591,2021-03-13,MIN,POR,28.25,3,7,45,MIN,POR,block,6,True,False,block,block,68-76,68,76
 0022000591,2021-03-13,MIN,POR,28.25,3,7,45,MIN,MIN,ft_make,11,False,False,Vanderbilt Free Throw 1 of 2 (3 PTS),,69-76,69,76
 0022000591,2021-03-13,MIN,POR,28.25,3,7,45,MIN,MIN,ft_miss,12,False,False,MISS Vanderbilt Free Throw 2 of 2,,69-76,69,76
 0022000591,2021-03-13,MIN,POR,28.3,3,7,42,POR,POR,reb,0,False,False,,Kanter REBOUND (Off:2 Def:7),69-76,69,76
@@ -425,8 +425,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000591,2021-03-13,MIN,POR,46.38,4,1,37,POR,MIN,block,6,True,False,block,block,115-118,115,118
 0022000591,2021-03-13,MIN,POR,46.45,4,1,33,MIN,MIN,reb,0,False,False,Edwards REBOUND (Off:0 Def:7),,115-118,115,118
 0022000591,2021-03-13,MIN,POR,46.47,4,1,32,MIN,MIN,fg_miss,41,True,False,MISS Edwards 3' Running Layup,,115-118,115,118
-0022000591,2021-03-13,MIN,POR,46.47,4,1,32,POR,POR,reb,0,False,False,,Trail Blazers Rebound,115-118,115,118
 0022000591,2021-03-13,MIN,POR,46.47,4,1,32,MIN,POR,block,41,True,False,block,block,115-118,115,118
+0022000591,2021-03-13,MIN,POR,46.47,4,1,32,POR,POR,reb,0,False,False,,Trail Blazers Rebound,115-118,115,118
 0022000591,2021-03-13,MIN,POR,46.78,4,1,13,POR,POR,fg_make,80,False,False,,Lillard 23' Step Back Jump Shot (23 PTS) (Anthony 5 AST),115-120,115,120
 0022000591,2021-03-13,MIN,POR,46.98,4,1,1,MIN,POR,foul,2,False,False,,Jones Jr. S.FOUL (P3.T2) (S.Corbin),115-120,115,120
 0022000591,2021-03-13,MIN,POR,46.98,4,1,1,MIN,MIN,ft_make,11,False,False,Edwards Free Throw 1 of 2 (20 PTS),,116-120,116,120

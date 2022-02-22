@@ -25,8 +25,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001026,2021-05-10,ATL,WAS,3.0,1,9,0,ATL,ATL,fg_make,79,False,False,Bogdanovic 16' Pullup Jump Shot (2 PTS),,8-2,8,2
 0022001026,2021-05-10,ATL,WAS,3.23,1,8,46,WAS,WAS,fg3_make,79,False,False,,Westbrook 26' 3PT Pullup Jump Shot (3 PTS),8-5,8,5
 0022001026,2021-05-10,ATL,WAS,3.43,1,8,34,ATL,ATL,fg_miss,101,True,False,MISS Young 13' Driving Floating Jump Shot,,8-5,8,5
-0022001026,2021-05-10,ATL,WAS,3.43,1,8,34,WAS,WAS,reb,0,False,False,,Mathews REBOUND (Off:0 Def:1),8-5,8,5
 0022001026,2021-05-10,ATL,WAS,3.43,1,8,34,ATL,WAS,block,101,True,False,block,block,8-5,8,5
+0022001026,2021-05-10,ATL,WAS,3.43,1,8,34,WAS,WAS,reb,0,False,False,,Mathews REBOUND (Off:0 Def:1),8-5,8,5
 0022001026,2021-05-10,ATL,WAS,3.55,1,8,27,WAS,WAS,fg3_make,1,False,False,,Mathews 3PT Jump Shot (3 PTS) (Westbrook 2 AST),8-8,8,8
 0022001026,2021-05-10,ATL,WAS,3.92,1,8,5,ATL,ATL,fg3_make,80,False,False,Huerter 25' 3PT Step Back Jump Shot (3 PTS) (Young 1 AST),,11-8,11,8
 0022001026,2021-05-10,ATL,WAS,4.17,1,7,50,WAS,WAS,fg_miss,6,False,False,,MISS Westbrook 1' Driving Layup,11-8,11,8
@@ -247,9 +247,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001026,2021-05-10,ATL,WAS,27.1,3,8,54,WAS,WAS,fg_miss,98,False,False,,MISS Len Cutting Layup Shot,71-68,71,68
 0022001026,2021-05-10,ATL,WAS,27.13,3,8,52,ATL,ATL,reb,0,False,False,Capela REBOUND (Off:5 Def:11),,71-68,71,68
 0022001026,2021-05-10,ATL,WAS,27.2,3,8,48,ATL,ATL,fg_miss,6,True,False,MISS Huerter 3' Driving Layup,,71-68,71,68
+0022001026,2021-05-10,ATL,WAS,27.2,3,8,48,ATL,WAS,block,6,True,False,block,block,71-68,71,68
 0022001026,2021-05-10,ATL,WAS,27.2,3,8,48,WAS,WAS,reb,0,False,False,,Hachimura REBOUND (Off:0 Def:3),71-68,71,68
 0022001026,2021-05-10,ATL,WAS,27.2,3,8,48,WAS,ATL,foul,28,False,False,Collins Personal Take Foul (P2.T2) (T.Washington),,71-68,71,68
-0022001026,2021-05-10,ATL,WAS,27.2,3,8,48,ATL,WAS,block,6,True,False,block,block,71-68,71,68
 0022001026,2021-05-10,ATL,WAS,27.45,3,8,33,WAS,WAS,fg3_make,79,False,False,,Westbrook 26' 3PT Pullup Jump Shot (17 PTS),71-71,71,71
 0022001026,2021-05-10,ATL,WAS,27.72,3,8,17,ATL,ATL,fg_make,101,False,False,Young 10' Driving Floating Jump Shot (14 PTS),,73-71,73,71
 0022001026,2021-05-10,ATL,WAS,27.85,3,8,9,WAS,WAS,fg3_miss,79,False,False,,MISS Westbrook 25' 3PT Pullup Jump Shot,73-71,73,71
@@ -299,8 +299,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001026,2021-05-10,ATL,WAS,33.3,3,2,42,ATL,ATL,fg_miss,1,False,False,MISS Bogdanovic 13' Jump Shot,,88-77,88,77
 0022001026,2021-05-10,ATL,WAS,33.38,3,2,37,ATL,ATL,reb,0,False,False,Bogdanovic REBOUND (Off:1 Def:4),,88-77,88,77
 0022001026,2021-05-10,ATL,WAS,33.38,3,2,37,ATL,ATL,fg_miss,1,True,False,MISS Hunter 2' Jump Shot,,88-77,88,77
-0022001026,2021-05-10,ATL,WAS,33.38,3,2,37,WAS,WAS,reb,0,False,False,,Wizards Rebound,88-77,88,77
 0022001026,2021-05-10,ATL,WAS,33.38,3,2,37,ATL,WAS,block,1,True,False,block,block,88-77,88,77
+0022001026,2021-05-10,ATL,WAS,33.38,3,2,37,WAS,WAS,reb,0,False,False,,Wizards Rebound,88-77,88,77
 0022001026,2021-05-10,ATL,WAS,33.7,3,2,18,WAS,WAS,fg_make,79,False,False,,Smith 17' Pullup Jump Shot (11 PTS),88-79,88,79
 0022001026,2021-05-10,ATL,WAS,33.9,3,2,6,ATL,ATL,fg3_miss,1,False,False,MISS Hunter 24' 3PT Jump Shot,,88-79,88,79
 0022001026,2021-05-10,ATL,WAS,33.93,3,2,4,ATL,ATL,reb,0,False,False,Capela REBOUND (Off:6 Def:13),,88-79,88,79

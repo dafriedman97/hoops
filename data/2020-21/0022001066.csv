@@ -11,8 +11,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001066,2021-05-16,ATL,HOU,1.1,1,10,54,HOU,HOU,fg3_miss,1,False,False,,MISS Lamb 3PT Jump Shot,5-2,5,2
 0022001066,2021-05-16,ATL,HOU,1.22,1,10,47,ATL,ATL,reb,0,False,False,Okongwu REBOUND (Off:0 Def:1),,5-2,5,2
 0022001066,2021-05-16,ATL,HOU,1.38,1,10,37,ATL,ATL,fg_miss,79,False,False,MISS Hunter 13' Pullup Jump Shot,,5-2,5,2
-0022001066,2021-05-16,ATL,HOU,1.48,1,10,31,ATL,ATL,fg_make,87,False,False,Okongwu Putback Dunk (2 PTS),,7-2,7,2
 0022001066,2021-05-16,ATL,HOU,1.48,1,10,31,ATL,ATL,reb,0,False,False,Okongwu REBOUND (Off:1 Def:1),,7-2,7,2
+0022001066,2021-05-16,ATL,HOU,1.48,1,10,31,ATL,ATL,fg_make,87,False,False,Okongwu Putback Dunk (2 PTS),,7-2,7,2
 0022001066,2021-05-16,ATL,HOU,1.77,1,10,14,HOU,HOU,fg_make,6,False,False,,Martin Jr. 3' Driving Layup (2 PTS) (Tate 1 AST),7-4,7,4
 0022001066,2021-05-16,ATL,HOU,1.77,1,10,14,HOU,ATL,foul,2,False,False,Okongwu S.FOUL (P1.T1) (E.Lewis),,7-4,7,4
 0022001066,2021-05-16,ATL,HOU,1.77,1,10,14,HOU,HOU,ft_miss,10,False,False,,MISS Martin Jr. Free Throw 1 of 1,7-4,7,4
@@ -44,12 +44,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001066,2021-05-16,ATL,HOU,4.52,1,7,29,ATL,ATL,fg_miss,101,False,False,MISS Hunter 7' Driving Floating Jump Shot,,15-16,15,16
 0022001066,2021-05-16,ATL,HOU,4.58,1,7,25,HOU,HOU,reb,0,False,False,,Tate REBOUND (Off:0 Def:2),15-16,15,16
 0022001066,2021-05-16,ATL,HOU,4.73,1,7,16,HOU,HOU,fg_miss,6,True,False,,MISS Martin Jr. 1' Driving Layup,15-16,15,16
-0022001066,2021-05-16,ATL,HOU,4.73,1,7,16,HOU,HOU,reb,0,False,False,,Rockets Rebound,15-16,15,16
 0022001066,2021-05-16,ATL,HOU,4.73,1,7,16,HOU,ATL,block,6,True,False,block,block,15-16,15,16
+0022001066,2021-05-16,ATL,HOU,4.73,1,7,16,HOU,HOU,reb,0,False,False,,Rockets Rebound,15-16,15,16
 0022001066,2021-05-16,ATL,HOU,4.87,1,7,8,HOU,HOU,fg3_miss,80,False,False,,MISS Augustin 3PT Step Back Jump Shot,15-16,15,16
 0022001066,2021-05-16,ATL,HOU,4.92,1,7,5,ATL,ATL,reb,0,False,False,Collins REBOUND (Off:0 Def:2),,15-16,15,16
-0022001066,2021-05-16,ATL,HOU,5.05,1,6,57,ATL,ATL,timeout,1,False,False,HAWKS Timeout: Regular (Full 1 Short 0),,15-16,15,16
 0022001066,2021-05-16,ATL,HOU,5.05,1,6,57,ATL,HOU,foul,2,False,False,,Martin Jr. S.FOUL (P1.T4) (B.Taylor),15-16,15,16
+0022001066,2021-05-16,ATL,HOU,5.05,1,6,57,ATL,ATL,timeout,1,False,False,HAWKS Timeout: Regular (Full 1 Short 0),,15-16,15,16
 0022001066,2021-05-16,ATL,HOU,5.05,1,6,57,ATL,ATL,ft_make,11,False,False,Collins Free Throw 1 of 2 (6 PTS),,16-16,16,16
 0022001066,2021-05-16,ATL,HOU,5.05,1,6,57,ATL,ATL,ft_make,12,False,False,Collins Free Throw 2 of 2 (7 PTS),,17-16,17,16
 0022001066,2021-05-16,ATL,HOU,5.23,1,6,46,HOU,HOU,fg3_miss,1,False,False,,MISS Olynyk 25' 3PT Jump Shot,17-16,17,16
@@ -91,9 +91,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001066,2021-05-16,ATL,HOU,8.47,1,3,32,ATL,ATL,fg_make,1,False,False,Snell 22' Jump Shot (4 PTS) (Mays 1 AST),,26-23,26,23
 0022001066,2021-05-16,ATL,HOU,8.53,1,3,28,HOU,HOU,tov,4,False,False,,Lamb Traveling Turnover (P1.T3),26-23,26,23
 0022001066,2021-05-16,ATL,HOU,8.72,1,3,17,ATL,ATL,fg_miss,98,True,False,MISS Fernando 2' Cutting Layup Shot,,26-23,26,23
+0022001066,2021-05-16,ATL,HOU,8.72,1,3,17,ATL,HOU,block,98,True,False,block,block,26-23,26,23
 0022001066,2021-05-16,ATL,HOU,8.72,1,3,17,ATL,ATL,reb,0,False,False,Fernando REBOUND (Off:1 Def:1),,26-23,26,23
 0022001066,2021-05-16,ATL,HOU,8.72,1,3,17,ATL,HOU,foul,2,False,False,,Oliver S.FOUL (P1.PN) (B.Adams),26-23,26,23
-0022001066,2021-05-16,ATL,HOU,8.72,1,3,17,ATL,HOU,block,98,True,False,block,block,26-23,26,23
 0022001066,2021-05-16,ATL,HOU,8.72,1,3,17,ATL,ATL,ft_make,11,False,False,Fernando Free Throw 1 of 2 (1 PTS),,27-23,27,23
 0022001066,2021-05-16,ATL,HOU,8.72,1,3,17,ATL,ATL,ft_make,12,False,False,Fernando Free Throw 2 of 2 (2 PTS),,28-23,28,23
 0022001066,2021-05-16,ATL,HOU,8.95,1,3,3,HOU,HOU,fg3_miss,79,False,False,,MISS Brooks 26' 3PT Pullup Jump Shot,28-23,28,23
@@ -170,14 +170,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001066,2021-05-16,ATL,HOU,17.08,2,6,55,ATL,ATL,fg3_miss,80,False,False,MISS Young 26' 3PT Step Back Jump Shot,,47-41,47,41
 0022001066,2021-05-16,ATL,HOU,17.15,2,6,51,HOU,HOU,reb,0,False,False,,Oliver REBOUND (Off:2 Def:5),47-41,47,41
 0022001066,2021-05-16,ATL,HOU,17.28,2,6,43,HOU,HOU,fg_miss,6,True,False,,MISS Brooks 2' Driving Layup,47-41,47,41
+0022001066,2021-05-16,ATL,HOU,17.28,2,6,43,HOU,ATL,block,6,True,False,block,block,47-41,47,41
 0022001066,2021-05-16,ATL,HOU,17.28,2,6,43,HOU,HOU,reb,0,False,False,,Rockets Rebound,47-41,47,41
 0022001066,2021-05-16,ATL,HOU,17.28,2,6,43,ATL,ATL,timeout,1,False,False,HAWKS Timeout: Regular (Full 2 Short 0),,47-41,47,41
-0022001066,2021-05-16,ATL,HOU,17.28,2,6,43,HOU,ATL,block,6,True,False,block,block,47-41,47,41
 0022001066,2021-05-16,ATL,HOU,17.37,2,6,38,HOU,HOU,fg_miss,3,False,False,,MISS Martin Jr. 5' Hook Shot,47-41,47,41
 0022001066,2021-05-16,ATL,HOU,17.42,2,6,35,HOU,HOU,reb,0,False,False,,Martin Jr. REBOUND (Off:1 Def:1),47-41,47,41
 0022001066,2021-05-16,ATL,HOU,17.43,2,6,34,HOU,HOU,fg_miss,72,True,False,,MISS Martin Jr. 3' Putback Layup,47-41,47,41
-0022001066,2021-05-16,ATL,HOU,17.43,2,6,34,ATL,ATL,reb,0,False,False,Young REBOUND (Off:0 Def:2),,47-41,47,41
 0022001066,2021-05-16,ATL,HOU,17.43,2,6,34,HOU,ATL,block,72,True,False,block,block,47-41,47,41
+0022001066,2021-05-16,ATL,HOU,17.43,2,6,34,ATL,ATL,reb,0,False,False,Young REBOUND (Off:0 Def:2),,47-41,47,41
 0022001066,2021-05-16,ATL,HOU,17.52,2,6,29,ATL,ATL,fg_make,50,False,False,Hunter 1' Running Dunk (8 PTS) (Young 6 AST),,49-41,49,41
 0022001066,2021-05-16,ATL,HOU,17.68,2,6,19,HOU,HOU,tov,45,False,False,,Lamb Out of Bounds - Bad Pass Turnover Turnover (P2.T7),49-41,49,41
 0022001066,2021-05-16,ATL,HOU,17.87,2,6,8,ATL,HOU,foul,2,False,False,,Oliver S.FOUL (P2.T3) (B.Adams),49-41,49,41
@@ -215,8 +215,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001066,2021-05-16,ATL,HOU,21.65,2,2,21,HOU,HOU,ft_make,11,False,False,,Olynyk Free Throw 1 of 2 (10 PTS),64-51,64,51
 0022001066,2021-05-16,ATL,HOU,21.65,2,2,21,HOU,HOU,ft_make,12,False,False,,Olynyk Free Throw 2 of 2 (11 PTS),64-52,64,52
 0022001066,2021-05-16,ATL,HOU,21.82,2,2,11,ATL,ATL,fg_miss,101,False,False,MISS Collins 4' Driving Floating Jump Shot,,64-52,64,52
-0022001066,2021-05-16,ATL,HOU,21.92,2,2,5,HOU,HOU,reb,0,False,False,,Rockets Rebound,64-52,64,52
 0022001066,2021-05-16,ATL,HOU,21.92,2,2,5,,ATL,jump_ball,0,False,False,Jump Ball Okongwu vs. Olynyk: Tip to Reynolds,,64-52,64,52
+0022001066,2021-05-16,ATL,HOU,21.92,2,2,5,HOU,HOU,reb,0,False,False,,Rockets Rebound,64-52,64,52
 0022001066,2021-05-16,ATL,HOU,21.97,2,2,2,HOU,HOU,fg3_miss,103,False,False,,MISS Augustin 25' 3PT Running Pull-Up Jump Shot,64-52,64,52
 0022001066,2021-05-16,ATL,HOU,22.05,2,1,57,ATL,ATL,reb,0,False,False,Young REBOUND (Off:0 Def:3),,64-52,64,52
 0022001066,2021-05-16,ATL,HOU,22.1,2,1,54,ATL,ATL,fg_miss,76,True,False,MISS Young 2' Running Finger Roll Layup,,64-52,64,52
@@ -267,8 +267,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001066,2021-05-16,ATL,HOU,26.82,3,9,11,HOU,ATL,foul,1,False,False,Hunter P.FOUL (P3.T2) (B.Adams),,75-61,75,61
 0022001066,2021-05-16,ATL,HOU,26.98,3,9,1,HOU,HOU,fg3_make,1,False,False,,Augustin 3PT Jump Shot (15 PTS) (Olynyk 3 AST),75-64,75,64
 0022001066,2021-05-16,ATL,HOU,27.38,3,8,37,ATL,ATL,fg3_miss,1,False,False,MISS Hunter 24' 3PT Jump Shot,,75-64,75,64
-0022001066,2021-05-16,ATL,HOU,27.47,3,8,32,ATL,ATL,reb,0,False,False,HAWKS Rebound,,75-64,75,64
 0022001066,2021-05-16,ATL,HOU,27.47,3,8,32,,ATL,jump_ball,0,False,False,Jump Ball Hunter vs. Martin Jr.: Tip to Snell,,75-64,75,64
+0022001066,2021-05-16,ATL,HOU,27.47,3,8,32,ATL,ATL,reb,0,False,False,HAWKS Rebound,,75-64,75,64
 0022001066,2021-05-16,ATL,HOU,27.58,3,8,25,ATL,ATL,fg3_miss,1,False,False,MISS S. Hill 25' 3PT Jump Shot,,75-64,75,64
 0022001066,2021-05-16,ATL,HOU,27.67,3,8,20,ATL,ATL,reb,0,False,False,Okongwu REBOUND (Off:4 Def:7),,75-64,75,64
 0022001066,2021-05-16,ATL,HOU,27.67,3,8,20,ATL,ATL,fg_make,72,False,False,Okongwu Putback Layup (13 PTS),,77-64,77,64

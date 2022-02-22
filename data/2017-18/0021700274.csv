@@ -73,9 +73,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700274,2017-11-24,DEN,MEM,10.42,1,1,35,MEM,MEM,fg_miss,72,True,False,,MISS Evans 2' Putback Layup,22-16,22,16
 0021700274,2017-11-24,DEN,MEM,10.42,1,1,35,MEM,DEN,block,72,True,False,block,block,22-16,22,16
 0021700274,2017-11-24,DEN,MEM,10.43,1,1,34,DEN,DEN,reb,0,False,False,Harris REBOUND (Off:0 Def:3),,22-16,22,16
+0021700274,2017-11-24,DEN,MEM,10.45,1,1,33,MEM,DEN,foul,1,False,False,Plumlee P.FOUL (P1.T3) (B.Nansel),,22-16,22,16
 0021700274,2017-11-24,DEN,MEM,10.45,1,1,33,DEN,DEN,fg3_miss,1,False,False,MISS Lyles 3PT Jump Shot,,22-16,22,16
 0021700274,2017-11-24,DEN,MEM,10.45,1,1,33,DEN,DEN,reb,0,False,False,Plumlee REBOUND (Off:1 Def:0),,22-16,22,16
-0021700274,2017-11-24,DEN,MEM,10.45,1,1,33,MEM,DEN,foul,1,False,False,Plumlee P.FOUL (P1.T3) (B.Nansel),,22-16,22,16
 0021700274,2017-11-24,DEN,MEM,10.7,1,1,18,MEM,MEM,tov,1,False,True,,Evans Bad Pass Turnover (P1.T4),22-16,22,16
 0021700274,2017-11-24,DEN,MEM,10.7,1,1,18,MEM,DEN,steal,1,False,True,steal,steal,22-16,22,16
 0021700274,2017-11-24,DEN,MEM,10.83,1,1,10,DEN,DEN,fg3_miss,1,False,False,MISS Harris 25' 3PT Jump Shot,,22-16,22,16
@@ -141,8 +141,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700274,2017-11-24,DEN,MEM,16.35,2,7,39,MEM,MEM,fg_miss,76,False,False,,MISS McLemore 3' Running Finger Roll Layup,35-25,35,25
 0021700274,2017-11-24,DEN,MEM,16.4,2,7,36,DEN,DEN,reb,0,False,False,Hernangomez REBOUND (Off:0 Def:3),,35-25,35,25
 0021700274,2017-11-24,DEN,MEM,16.47,2,7,32,DEN,DEN,fg_miss,41,True,False,MISS Barton 4' Running Layup,,35-25,35,25
-0021700274,2017-11-24,DEN,MEM,16.47,2,7,32,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,35-25,35,25
 0021700274,2017-11-24,DEN,MEM,16.47,2,7,32,DEN,MEM,block,41,True,False,block,block,35-25,35,25
+0021700274,2017-11-24,DEN,MEM,16.47,2,7,32,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,35-25,35,25
 0021700274,2017-11-24,DEN,MEM,16.57,2,7,26,DEN,MEM,foul,2,False,False,,Davis S.FOUL (P3.T4) (R.Garretson),35-25,35,25
 0021700274,2017-11-24,DEN,MEM,16.57,2,7,26,DEN,DEN,ft_make,11,False,False,Lyles Free Throw 1 of 2 (6 PTS),,36-25,36,25
 0021700274,2017-11-24,DEN,MEM,16.57,2,7,26,DEN,DEN,ft_miss,12,False,False,MISS Lyles Free Throw 2 of 2,,36-25,36,25
@@ -239,8 +239,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700274,2017-11-24,DEN,MEM,26.8,3,9,12,DEN,DEN,reb,1,False,False,NUGGETS Rebound,,65-47,65,47
 0021700274,2017-11-24,DEN,MEM,26.8,3,9,12,DEN,DEN,ft_make,12,False,False,Jokic Free Throw 2 of 2 (14 PTS),,66-47,66,47
 0021700274,2017-11-24,DEN,MEM,26.9,3,9,6,MEM,MEM,fg_miss,6,True,False,,MISS Chalmers 3' Driving Layup,66-47,66,47
-0021700274,2017-11-24,DEN,MEM,26.9,3,9,6,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,66-47,66,47
 0021700274,2017-11-24,DEN,MEM,26.9,3,9,6,MEM,DEN,block,6,True,False,block,block,66-47,66,47
+0021700274,2017-11-24,DEN,MEM,26.9,3,9,6,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,66-47,66,47
 0021700274,2017-11-24,DEN,MEM,26.98,3,9,1,MEM,MEM,fg3_make,1,False,False,,Gasol 25' 3PT Jump Shot (13 PTS) (Chalmers 3 AST),66-50,66,50
 0021700274,2017-11-24,DEN,MEM,27.33,3,8,40,DEN,DEN,tov,4,False,False,Jokic Traveling Turnover (P3.T15),,66-50,66,50
 0021700274,2017-11-24,DEN,MEM,27.67,3,8,20,MEM,MEM,fg3_miss,1,False,False,,MISS Gasol 26' 3PT Jump Shot,66-50,66,50
@@ -289,8 +289,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700274,2017-11-24,DEN,MEM,34.02,3,1,59,DEN,DEN,tov,40,False,False,Mudiay Out of Bounds Lost Ball Turnover (P2.T17),,74-67,74,67
 0021700274,2017-11-24,DEN,MEM,34.28,3,1,43,MEM,MEM,fg_make,73,False,False,,Brooks 3' Driving Reverse Layup (7 PTS) (McLemore 2 AST),74-69,74,69
 0021700274,2017-11-24,DEN,MEM,34.48,3,1,31,DEN,DEN,fg_make,52,False,False,Plumlee 1' Alley Oop Dunk (2 PTS) (Barton 2 AST),,76-69,76,69
-0021700274,2017-11-24,DEN,MEM,34.77,3,1,14,MEM,DEN,foul,17,False,False,NUGGETS T.Foul (Def. 3 Sec Barton ) (B.Nansel),,76-69,76,69
 0021700274,2017-11-24,DEN,MEM,34.77,3,1,14,MEM,MEM,ft_make,16,False,False,,Gasol Free Throw Technical (14 PTS),76-70,76,70
+0021700274,2017-11-24,DEN,MEM,34.77,3,1,14,MEM,DEN,foul,17,False,False,NUGGETS T.Foul (Def. 3 Sec Barton ) (B.Nansel),,76-69,76,69
 0021700274,2017-11-24,DEN,MEM,34.93,3,1,4,MEM,MEM,fg_miss,6,False,False,,MISS Evans 3' Driving Layup,76-70,76,70
 0021700274,2017-11-24,DEN,MEM,34.97,3,1,2,DEN,DEN,reb,0,False,False,Barton REBOUND (Off:1 Def:3),,76-70,76,70
 0021700274,2017-11-24,DEN,MEM,35.2,3,0,48,DEN,DEN,fg3_miss,1,False,False,MISS Barton 3PT Jump Shot,,76-70,76,70
@@ -351,8 +351,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700274,2017-11-24,DEN,MEM,42.1,4,5,54,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:3 Def:7),,89-81,89,81
 0021700274,2017-11-24,DEN,MEM,42.28,4,5,43,DEN,DEN,fg3_make,1,False,False,Jokic 26' 3PT Jump Shot (25 PTS) (Murray 4 AST),,92-81,92,81
 0021700274,2017-11-24,DEN,MEM,42.62,4,5,23,MEM,MEM,tov,1,False,True,,Evans Bad Pass Turnover (P3.T17),92-81,92,81
-0021700274,2017-11-24,DEN,MEM,42.62,4,5,23,DEN,MEM,foul,1,False,False,,Brooks P.FOUL (P3.T4) (B.Nansel),92-81,92,81
 0021700274,2017-11-24,DEN,MEM,42.62,4,5,23,MEM,DEN,steal,1,False,True,steal,steal,92-81,92,81
+0021700274,2017-11-24,DEN,MEM,42.62,4,5,23,DEN,MEM,foul,1,False,False,,Brooks P.FOUL (P3.T4) (B.Nansel),92-81,92,81
 0021700274,2017-11-24,DEN,MEM,42.85,4,5,9,DEN,DEN,fg3_make,1,False,False,Hernangomez 25' 3PT Jump Shot (3 PTS) (Harris 3 AST),,95-81,95,81
 0021700274,2017-11-24,DEN,MEM,43.1,4,4,54,MEM,DEN,foul,1,False,False,Jokic P.FOUL (P3.T2) (B.Spooner),,95-81,95,81
 0021700274,2017-11-24,DEN,MEM,43.28,4,4,43,MEM,MEM,fg_make,75,False,False,,Green 3' Driving Finger Roll Layup (18 PTS),95-83,95,83

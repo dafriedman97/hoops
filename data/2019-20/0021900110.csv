@@ -13,9 +13,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900110,2019-11-06,UTA,PHI,1.37,1,10,38,PHI,PHI,fg_miss,5,True,False,,MISS Embiid 7' Layup,0-5,0,5
 0021900110,2019-11-06,UTA,PHI,1.37,1,10,38,PHI,UTA,block,5,True,False,block,block,0-5,0,5
 0021900110,2019-11-06,UTA,PHI,1.38,1,10,37,PHI,PHI,reb,0,False,False,,Embiid REBOUND (Off:1 Def:0),0-5,0,5
+0021900110,2019-11-06,UTA,PHI,1.38,1,10,37,PHI,PHI,tov,11,False,False,,76ers Turnover: Shot Clock (T#1),0-5,0,5
 0021900110,2019-11-06,UTA,PHI,1.38,1,10,37,PHI,PHI,fg_miss,78,False,False,,MISS Embiid 5' Floating Jump Shot,0-5,0,5
 0021900110,2019-11-06,UTA,PHI,1.38,1,10,37,PHI,PHI,reb,0,False,False,,76ers Rebound,0-5,0,5
-0021900110,2019-11-06,UTA,PHI,1.38,1,10,37,PHI,PHI,tov,11,False,False,,76ers Turnover: Shot Clock (T#1),0-5,0,5
 0021900110,2019-11-06,UTA,PHI,1.68,1,10,19,UTA,UTA,fg_miss,6,False,False,MISS Bogdanovic 3' Driving Layup,,0-5,0,5
 0021900110,2019-11-06,UTA,PHI,1.73,1,10,16,PHI,PHI,reb,0,False,False,,Simmons REBOUND (Off:0 Def:1),0-5,0,5
 0021900110,2019-11-06,UTA,PHI,1.83,1,10,10,PHI,PHI,fg_miss,6,False,False,,MISS Simmons 3' Driving Layup,0-5,0,5
@@ -133,9 +133,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900110,2019-11-06,UTA,PHI,17.03,2,6,58,UTA,UTA,tov,2,False,True,Green Lost Ball Turnover (P1.T5),,40-44,40,44
 0021900110,2019-11-06,UTA,PHI,17.03,2,6,58,UTA,PHI,steal,2,False,True,steal,steal,40-44,40,44
 0021900110,2019-11-06,UTA,PHI,17.07,2,6,56,PHI,PHI,fg_miss,5,True,False,,MISS Neto 2' Layup,40-44,40,44
+0021900110,2019-11-06,UTA,PHI,17.07,2,6,56,PHI,UTA,block,5,True,False,block,block,40-44,40,44
 0021900110,2019-11-06,UTA,PHI,17.07,2,6,56,PHI,PHI,reb,0,False,False,,76ers Rebound,40-44,40,44
 0021900110,2019-11-06,UTA,PHI,17.07,2,6,56,UTA,UTA,timeout,1,False,False,JAZZ Timeout: Regular (Full 2 Short 0),,40-44,40,44
-0021900110,2019-11-06,UTA,PHI,17.07,2,6,56,PHI,UTA,block,5,True,False,block,block,40-44,40,44
 0021900110,2019-11-06,UTA,PHI,17.1,2,6,54,PHI,PHI,fg_make,52,False,False,,Thybulle 2' Alley Oop Dunk (2 PTS) (Simmons 2 AST),40-46,40,46
 0021900110,2019-11-06,UTA,PHI,17.42,2,6,35,UTA,UTA,fg_make,6,False,False,Bogdanovic 3' Driving Layup (8 PTS),,42-46,42,46
 0021900110,2019-11-06,UTA,PHI,17.72,2,6,17,PHI,PHI,fg_miss,79,False,False,,MISS Harris 19' Pullup Jump Shot,42-46,42,46
@@ -191,8 +191,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900110,2019-11-06,UTA,PHI,22.87,2,1,8,UTA,UTA,fg_miss,102,False,False,MISS Mitchell 9' Driving Floating Bank Jump Shot,,55-54,55,54
 0021900110,2019-11-06,UTA,PHI,22.9,2,1,6,PHI,PHI,reb,0,False,False,,Embiid REBOUND (Off:1 Def:5),55-54,55,54
 0021900110,2019-11-06,UTA,PHI,23.18,2,0,49,PHI,PHI,tov,1,False,True,,Neto Bad Pass Turnover (P2.T8),55-54,55,54
-0021900110,2019-11-06,UTA,PHI,23.18,2,0,49,UTA,PHI,foul,28,False,False,,Scott Personal Take Foul (P1.PN) (D.Collins),55-54,55,54
 0021900110,2019-11-06,UTA,PHI,23.18,2,0,49,PHI,UTA,steal,1,False,True,steal,steal,55-54,55,54
+0021900110,2019-11-06,UTA,PHI,23.18,2,0,49,UTA,PHI,foul,28,False,False,,Scott Personal Take Foul (P1.PN) (D.Collins),55-54,55,54
 0021900110,2019-11-06,UTA,PHI,23.18,2,0,49,UTA,UTA,ft_make,11,False,False,Conley Free Throw 1 of 2 (5 PTS),,56-54,56,54
 0021900110,2019-11-06,UTA,PHI,23.18,2,0,49,UTA,UTA,ft_miss,12,False,False,MISS Conley Free Throw 2 of 2,,56-54,56,54
 0021900110,2019-11-06,UTA,PHI,23.2,2,0,48,PHI,PHI,reb,0,False,False,,Embiid REBOUND (Off:1 Def:6),56-54,56,54
@@ -210,8 +210,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900110,2019-11-06,UTA,PHI,24.65,3,11,21,PHI,PHI,fg_miss,79,False,False,,MISS Embiid 13' Pullup Jump Shot,60-56,60,56
 0021900110,2019-11-06,UTA,PHI,24.68,3,11,19,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:2 Def:7),,60-56,60,56
 0021900110,2019-11-06,UTA,PHI,24.83,3,11,10,UTA,UTA,fg_miss,101,False,False,MISS Mitchell 9' Driving Floating Jump Shot,,60-56,60,56
-0021900110,2019-11-06,UTA,PHI,24.92,3,11,5,UTA,UTA,fg_make,97,False,False,Mitchell 1' Tip Layup Shot (14 PTS),,62-56,62,56
 0021900110,2019-11-06,UTA,PHI,24.92,3,11,5,UTA,UTA,reb,0,False,False,Mitchell REBOUND (Off:2 Def:0),,62-56,62,56
+0021900110,2019-11-06,UTA,PHI,24.92,3,11,5,UTA,UTA,fg_make,97,False,False,Mitchell 1' Tip Layup Shot (14 PTS),,62-56,62,56
 0021900110,2019-11-06,UTA,PHI,25.23,3,10,46,PHI,PHI,fg3_make,1,False,False,,Korkmaz 25' 3PT Jump Shot (6 PTS) (Richardson 3 AST),62-59,62,59
 0021900110,2019-11-06,UTA,PHI,25.48,3,10,31,UTA,UTA,fg_miss,78,False,False,MISS Bogdanovic 5' Floating Jump Shot,,62-59,62,59
 0021900110,2019-11-06,UTA,PHI,25.53,3,10,28,PHI,PHI,reb,0,False,False,,Harris REBOUND (Off:0 Def:2),62-59,62,59
@@ -234,8 +234,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900110,2019-11-06,UTA,PHI,27.03,3,8,58,PHI,PHI,reb,0,False,False,,Harris REBOUND (Off:0 Def:3),64-61,64,61
 0021900110,2019-11-06,UTA,PHI,27.12,3,8,53,PHI,PHI,fg_miss,1,True,False,,MISS Horford 2' Jump Shot,64-61,64,61
 0021900110,2019-11-06,UTA,PHI,27.12,3,8,53,PHI,UTA,block,1,True,False,block,block,64-61,64,61
-0021900110,2019-11-06,UTA,PHI,27.13,3,8,52,PHI,PHI,reb,0,False,False,,76ers Rebound,64-61,64,61
 0021900110,2019-11-06,UTA,PHI,27.13,3,8,52,,UTA,jump_ball,0,False,False,Jump Ball Bogdanovic vs. Horford: Tip to Harris,,64-61,64,61
+0021900110,2019-11-06,UTA,PHI,27.13,3,8,52,PHI,PHI,reb,0,False,False,,76ers Rebound,64-61,64,61
 0021900110,2019-11-06,UTA,PHI,27.23,3,8,46,PHI,PHI,fg_miss,1,False,False,,MISS Harris 19' Jump Shot,64-61,64,61
 0021900110,2019-11-06,UTA,PHI,27.3,3,8,42,UTA,UTA,reb,0,False,False,O'Neale REBOUND (Off:0 Def:4),,64-61,64,61
 0021900110,2019-11-06,UTA,PHI,27.45,3,8,33,UTA,UTA,fg_make,79,False,False,Mitchell 18' Pullup Jump Shot (16 PTS),,66-61,66,61
@@ -259,8 +259,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900110,2019-11-06,UTA,PHI,29.77,3,6,14,PHI,PHI,fg_miss,5,True,False,,MISS Horford 3' Layup,71-63,71,63
 0021900110,2019-11-06,UTA,PHI,29.77,3,6,14,PHI,UTA,block,5,True,False,block,block,71-63,71,63
 0021900110,2019-11-06,UTA,PHI,29.83,3,6,10,UTA,UTA,timeout,1,False,False,JAZZ Timeout: Regular (Full 3 Short 0),,71-63,71,63
-0021900110,2019-11-06,UTA,PHI,29.83,3,6,10,PHI,PHI,reb,0,False,False,,76ers Rebound,71-63,71,63
 0021900110,2019-11-06,UTA,PHI,29.83,3,6,10,,UTA,jump_ball,0,False,False,Jump Ball O'Neale vs. Horford: Tip to Harris,,71-63,71,63
+0021900110,2019-11-06,UTA,PHI,29.83,3,6,10,PHI,PHI,reb,0,False,False,,76ers Rebound,71-63,71,63
 0021900110,2019-11-06,UTA,PHI,29.97,3,6,2,PHI,PHI,tov,1,False,True,,Thybulle Bad Pass Turnover (P1.T10),71-63,71,63
 0021900110,2019-11-06,UTA,PHI,29.97,3,6,2,PHI,UTA,steal,1,False,True,steal,steal,71-63,71,63
 0021900110,2019-11-06,UTA,PHI,30.05,3,5,57,UTA,UTA,fg3_make,1,False,False,Conley 24' 3PT Jump Shot (8 PTS) (Bogdanovic 5 AST),,74-63,74,63
@@ -325,8 +325,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900110,2019-11-06,UTA,PHI,35.48,3,0,31,UTA,UTA,fg_miss,78,False,False,MISS Mitchell 6' Floating Jump Shot,,82-71,82,71
 0021900110,2019-11-06,UTA,PHI,35.48,3,0,31,UTA,UTA,reb,0,False,False,Mitchell REBOUND (Off:4 Def:1),,82-71,82,71
 0021900110,2019-11-06,UTA,PHI,35.63,3,0,22,UTA,UTA,tov,1,False,True,Mitchell Bad Pass Turnover (P4.T12),,82-71,82,71
-0021900110,2019-11-06,UTA,PHI,35.63,3,0,22,PHI,UTA,foul,2,False,False,Green S.FOUL (P1.T3) (J.Goldenberg),,82-71,82,71
 0021900110,2019-11-06,UTA,PHI,35.63,3,0,22,UTA,PHI,steal,1,False,True,steal,steal,82-71,82,71
+0021900110,2019-11-06,UTA,PHI,35.63,3,0,22,PHI,UTA,foul,2,False,False,Green S.FOUL (P1.T3) (J.Goldenberg),,82-71,82,71
 0021900110,2019-11-06,UTA,PHI,35.63,3,0,22,PHI,PHI,ft_make,11,False,False,,Richardson Free Throw 1 of 2 (21 PTS),82-72,82,72
 0021900110,2019-11-06,UTA,PHI,35.63,3,0,22,PHI,PHI,ft_make,12,False,False,,Richardson Free Throw 2 of 2 (22 PTS),82-73,82,73
 0021900110,2019-11-06,UTA,PHI,36.0,3,0,0,UTA,UTA,fg_make,1,False,False,Ingles 23' Jump Shot (14 PTS) (Mitchell 5 AST),,84-73,84,73

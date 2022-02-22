@@ -228,8 +228,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000355,2021-02-06,NOP,MEM,26.03,3,9,58,NOP,NOP,fg_make,52,False,False,Williamson Alley Oop Dunk (18 PTS) (Bledsoe 4 AST),,70-65,70,65
 0022000355,2021-02-06,NOP,MEM,26.3,3,9,42,MEM,MEM,fg_make,75,False,False,,Brooks 3' Driving Finger Roll Layup (9 PTS) (Morant 6 AST),70-67,70,67
 0022000355,2021-02-06,NOP,MEM,26.57,3,9,26,NOP,NOP,fg_miss,6,True,False,MISS Williamson 1' Driving Layup,,70-67,70,67
-0022000355,2021-02-06,NOP,MEM,26.57,3,9,26,NOP,NOP,reb,0,False,False,PELICANS Rebound,,70-67,70,67
 0022000355,2021-02-06,NOP,MEM,26.57,3,9,26,NOP,MEM,block,6,True,False,block,block,70-67,70,67
+0022000355,2021-02-06,NOP,MEM,26.57,3,9,26,NOP,NOP,reb,0,False,False,PELICANS Rebound,,70-67,70,67
 0022000355,2021-02-06,NOP,MEM,26.73,3,9,16,NOP,MEM,foul,1,False,False,,Dieng P.FOUL (P3.T4) (R.Hussey),70-67,70,67
 0022000355,2021-02-06,NOP,MEM,26.93,3,9,4,NOP,NOP,fg_miss,5,False,False,MISS Williamson 3' Layup,,70-67,70,67
 0022000355,2021-02-06,NOP,MEM,27.02,3,8,59,MEM,MEM,reb,0,False,False,,Dieng REBOUND (Off:2 Def:2),70-67,70,67
@@ -285,8 +285,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000355,2021-02-06,NOP,MEM,32.55,3,3,27,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:0 Def:4),,79-81,79,81
 0022000355,2021-02-06,NOP,MEM,32.58,3,3,25,NOP,MEM,foul,1,False,False,,Bane P.FOUL (P1.PN) (B.Kennedy),79-81,79,81
 0022000355,2021-02-06,NOP,MEM,32.58,3,3,25,NOP,NOP,ft_make,11,False,False,Hart Free Throw 1 of 2 (1 PTS),,80-81,80,81
-0022000355,2021-02-06,NOP,MEM,32.58,3,3,25,NOP,NOP,ft_miss,12,False,False,MISS Hart Free Throw 2 of 2,,80-81,80,81
 0022000355,2021-02-06,NOP,MEM,32.58,3,3,25,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.3 Short 0),80-81,80,81
+0022000355,2021-02-06,NOP,MEM,32.58,3,3,25,NOP,NOP,ft_miss,12,False,False,MISS Hart Free Throw 2 of 2,,80-81,80,81
 0022000355,2021-02-06,NOP,MEM,32.63,3,3,22,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:1 Def:5),80-81,80,81
 0022000355,2021-02-06,NOP,MEM,32.9,3,3,6,MEM,MEM,fg_make,78,False,False,,Valanciunas 10' Floating Jump Shot (19 PTS) (Morant 8 AST),80-83,80,83
 0022000355,2021-02-06,NOP,MEM,33.15,3,2,51,NOP,NOP,fg_make,6,False,False,Lewis Jr. 2' Driving Layup (4 PTS),,82-83,82,83
@@ -376,9 +376,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000355,2021-02-06,NOP,MEM,43.55,4,4,27,NOP,NOP,fg_make,101,False,False,Bledsoe 10' Driving Floating Jump Shot (18 PTS) (Ball 7 AST),,105-104,105,104
 0022000355,2021-02-06,NOP,MEM,43.58,4,4,25,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.5 Short 0),105-104,105,104
 0022000355,2021-02-06,NOP,MEM,43.98,4,4,1,MEM,MEM,fg3_miss,1,True,False,,MISS Anderson 3PT Jump Shot,105-104,105,104
+0022000355,2021-02-06,NOP,MEM,43.98,4,4,1,MEM,NOP,block,1,True,False,block,block,105-104,105,104
 0022000355,2021-02-06,NOP,MEM,43.98,4,4,1,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,105-104,105,104
 0022000355,2021-02-06,NOP,MEM,43.98,4,4,1,MEM,MEM,tov,11,False,False,,Grizzlies Turnover: Shot Clock (T#10),105-104,105,104
-0022000355,2021-02-06,NOP,MEM,43.98,4,4,1,MEM,NOP,block,1,True,False,block,block,105-104,105,104
 0022000355,2021-02-06,NOP,MEM,44.23,4,3,46,NOP,NOP,fg_make,1,False,False,Ingram 7' Jump Shot (24 PTS),,107-104,107,104
 0022000355,2021-02-06,NOP,MEM,44.48,4,3,31,MEM,MEM,fg_miss,75,False,False,,MISS Brooks 3' Driving Finger Roll Layup,107-104,107,104
 0022000355,2021-02-06,NOP,MEM,44.53,4,3,28,NOP,NOP,reb,0,False,False,Ball REBOUND (Off:2 Def:4),,107-104,107,104

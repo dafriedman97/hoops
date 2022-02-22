@@ -11,8 +11,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000792,2021-04-09,BOS,MIN,1.12,1,10,53,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:0 Def:1),4-2,4,2
 0022000792,2021-04-09,BOS,MIN,1.25,1,10,45,MIN,MIN,fg_make,98,False,False,,Towns 1' Cutting Layup Shot (2 PTS) (Edwards 1 AST),4-4,4,4
 0022000792,2021-04-09,BOS,MIN,1.55,1,10,27,BOS,BOS,tov,1,False,True,Williams III Bad Pass Turnover (P1.T1),,4-4,4,4
-0022000792,2021-04-09,BOS,MIN,1.55,1,10,27,MIN,BOS,foul,1,False,False,Williams III P.FOUL (P1.T1) (S.Corbin),,4-4,4,4
 0022000792,2021-04-09,BOS,MIN,1.55,1,10,27,BOS,MIN,steal,1,False,True,steal,steal,4-4,4,4
+0022000792,2021-04-09,BOS,MIN,1.55,1,10,27,MIN,BOS,foul,1,False,False,Williams III P.FOUL (P1.T1) (S.Corbin),,4-4,4,4
 0022000792,2021-04-09,BOS,MIN,1.88,1,10,7,MIN,MIN,fg_make,58,False,False,,Towns 11' Turnaround Hook Shot (4 PTS),4-6,4,6
 0022000792,2021-04-09,BOS,MIN,2.02,1,9,59,BOS,MIN,foul,1,False,False,,Okogie P.FOUL (P1.T1) (J.Schroeder),4-6,4,6
 0022000792,2021-04-09,BOS,MIN,2.2,1,9,48,BOS,BOS,tov,1,False,True,Brown Bad Pass Turnover (P1.T2),,4-6,4,6
@@ -98,8 +98,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000792,2021-04-09,BOS,MIN,11.23,1,0,46,MIN,MIN,ft_make,11,False,False,,Hernangomez Free Throw 1 of 2 (6 PTS),22-34,22,34
 0022000792,2021-04-09,BOS,MIN,11.23,1,0,46,MIN,MIN,ft_make,12,False,False,,Hernangomez Free Throw 2 of 2 (7 PTS),22-35,22,35
 0022000792,2021-04-09,BOS,MIN,11.35,1,0,39,BOS,BOS,tov,1,False,True,Tatum Bad Pass Turnover (P1.T5),,22-35,22,35
-0022000792,2021-04-09,BOS,MIN,11.35,1,0,39,MIN,BOS,foul,28,False,False,Williams Personal Take Foul (P1.PN) (S.Twardoski),,22-35,22,35
 0022000792,2021-04-09,BOS,MIN,11.35,1,0,39,BOS,MIN,steal,1,False,True,steal,steal,22-35,22,35
+0022000792,2021-04-09,BOS,MIN,11.35,1,0,39,MIN,BOS,foul,28,False,False,Williams Personal Take Foul (P1.PN) (S.Twardoski),,22-35,22,35
 0022000792,2021-04-09,BOS,MIN,11.35,1,0,39,MIN,MIN,ft_make,11,False,False,,McLaughlin Free Throw 1 of 2 (1 PTS),22-36,22,36
 0022000792,2021-04-09,BOS,MIN,11.35,1,0,39,MIN,MIN,ft_make,12,False,False,,McLaughlin Free Throw 2 of 2 (2 PTS),22-37,22,37
 0022000792,2021-04-09,BOS,MIN,11.47,1,0,32,BOS,BOS,fg_make,101,False,False,Pritchard 12' Driving Floating Jump Shot (2 PTS),,24-37,24,37
@@ -313,10 +313,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000792,2021-04-09,BOS,MIN,33.22,3,2,47,BOS,MIN,foul,11,False,False,,Towns T.FOUL (P1.T3) (S.Corbin),85-91,85,91
 0022000792,2021-04-09,BOS,MIN,33.22,3,2,47,BOS,BOS,ft_make,16,False,False,Tatum Free Throw Technical (31 PTS),,86-91,86,91
 0022000792,2021-04-09,BOS,MIN,33.52,3,2,29,BOS,BOS,tov,1,False,True,Tatum Bad Pass Turnover (P4.T17),,86-91,86,91
+0022000792,2021-04-09,BOS,MIN,33.52,3,2,29,BOS,MIN,steal,1,False,True,steal,steal,86-91,86,91
 0022000792,2021-04-09,BOS,MIN,33.52,3,2,29,MIN,BOS,foul,1,False,False,Smart P.FOUL (P3.PN) (S.Twardoski),,86-91,86,91
 0022000792,2021-04-09,BOS,MIN,33.52,3,2,29,MIN,MIN,ft_miss,11,False,False,,MISS McLaughlin Free Throw 1 of 2,86-91,86,91
 0022000792,2021-04-09,BOS,MIN,33.52,3,2,29,MIN,MIN,reb,1,False,False,,Timberwolves Rebound,86-91,86,91
-0022000792,2021-04-09,BOS,MIN,33.52,3,2,29,BOS,MIN,steal,1,False,True,steal,steal,86-91,86,91
 0022000792,2021-04-09,BOS,MIN,33.52,3,2,29,MIN,MIN,ft_make,12,False,False,,McLaughlin Free Throw 2 of 2 (5 PTS),86-92,86,92
 0022000792,2021-04-09,BOS,MIN,33.73,3,2,16,BOS,BOS,fg_make,6,False,False,Tatum 4' Driving Layup (33 PTS),,88-92,88,92
 0022000792,2021-04-09,BOS,MIN,33.95,3,2,3,MIN,MIN,fg_miss,58,False,False,,MISS Towns 6' Turnaround Hook Shot,88-92,88,92

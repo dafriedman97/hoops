@@ -72,8 +72,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700200,2017-11-13,LAC,PHI,7.98,1,4,1,LAC,LAC,ft_miss,12,False,False,MISS Griffin Free Throw 2 of 2,,17-25,17,25
 0021700200,2017-11-13,LAC,PHI,8.02,1,3,59,PHI,PHI,reb,0,False,False,,McConnell REBOUND (Off:0 Def:2),17-25,17,25
 0021700200,2017-11-13,LAC,PHI,8.23,1,3,46,PHI,PHI,fg_miss,98,True,False,,MISS Saric 3' Cutting Layup Shot,17-25,17,25
-0021700200,2017-11-13,LAC,PHI,8.23,1,3,46,PHI,PHI,reb,0,False,False,,76ers Rebound,17-25,17,25
 0021700200,2017-11-13,LAC,PHI,8.23,1,3,46,PHI,LAC,block,98,True,False,block,block,17-25,17,25
+0021700200,2017-11-13,LAC,PHI,8.23,1,3,46,PHI,PHI,reb,0,False,False,,76ers Rebound,17-25,17,25
 0021700200,2017-11-13,LAC,PHI,8.27,1,3,44,PHI,PHI,fg_make,98,False,False,,Redick 3' Cutting Layup Shot (2 PTS) (McConnell 2 AST),17-27,17,27
 0021700200,2017-11-13,LAC,PHI,8.48,1,3,31,LAC,PHI,foul,2,False,False,,Embiid S.FOUL (P1.T4) (Z.Zarba),17-27,17,27
 0021700200,2017-11-13,LAC,PHI,8.48,1,3,31,LAC,LAC,ft_make,11,False,False,Williams Free Throw 1 of 2 (4 PTS),,18-27,18,27
@@ -84,10 +84,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700200,2017-11-13,LAC,PHI,8.97,1,3,2,PHI,PHI,fg_make,58,False,False,,Embiid 5' Turnaround Hook Shot (4 PTS),18-29,18,29
 0021700200,2017-11-13,LAC,PHI,9.1,1,2,54,LAC,LAC,fg_make,79,False,False,Williams 15' Pullup Jump Shot (6 PTS),,20-29,20,29
 0021700200,2017-11-13,LAC,PHI,9.4,1,2,36,PHI,PHI,fg_miss,1,True,False,,MISS Embiid 8' Jump Shot,20-29,20,29
+0021700200,2017-11-13,LAC,PHI,9.4,1,2,36,PHI,LAC,block,1,True,False,block,block,20-29,20,29
 0021700200,2017-11-13,LAC,PHI,9.4,1,2,36,PHI,PHI,reb,0,False,False,,76ers Rebound,20-29,20,29
 0021700200,2017-11-13,LAC,PHI,9.4,1,2,36,LAC,PHI,foul,4,False,False,,Redick OFF.Foul (P1) (M.Boland),20-29,20,29
 0021700200,2017-11-13,LAC,PHI,9.4,1,2,36,PHI,PHI,tov,37,False,False,,Redick Offensive Foul Turnover (P1.T2),20-29,20,29
-0021700200,2017-11-13,LAC,PHI,9.4,1,2,36,PHI,LAC,block,1,True,False,block,block,20-29,20,29
 0021700200,2017-11-13,LAC,PHI,9.68,1,2,19,LAC,LAC,fg3_make,1,False,False,Thornwell 26' 3PT Jump Shot (3 PTS) (Evans 1 AST),,23-29,23,29
 0021700200,2017-11-13,LAC,PHI,9.98,1,2,1,PHI,PHI,fg_make,98,False,False,,Embiid 2' Cutting Layup Shot (6 PTS) (McConnell 3 AST),23-31,23,31
 0021700200,2017-11-13,LAC,PHI,10.07,1,1,56,LAC,LAC,tov,1,False,True,Williams Bad Pass Turnover (P1.T3),,23-31,23,31
@@ -109,9 +109,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700200,2017-11-13,LAC,PHI,11.77,1,0,14,LAC,LAC,reb,0,False,False,Dekker REBOUND (Off:0 Def:1),,28-36,28,36
 0021700200,2017-11-13,LAC,PHI,11.95,1,0,3,LAC,LAC,fg3_miss,1,False,False,MISS Williams 25' 3PT Jump Shot,,28-36,28,36
 0021700200,2017-11-13,LAC,PHI,11.98,1,0,1,PHI,PHI,reb,0,False,False,,McConnell REBOUND (Off:0 Def:3),28-36,28,36
+0021700200,2017-11-13,LAC,PHI,12.0,1,0,0,PHI,,period_end,0,False,False,,,28-36,28,36
 0021700200,2017-11-13,LAC,PHI,12.0,1,0,0,PHI,PHI,fg3_miss,1,False,False,,MISS McConnell 81' 3PT Jump Shot,28-36,28,36
 0021700200,2017-11-13,LAC,PHI,12.0,1,0,0,PHI,PHI,reb,0,False,False,,76ers Rebound,28-36,28,36
-0021700200,2017-11-13,LAC,PHI,12.0,1,0,0,PHI,,period_end,0,False,False,,,28-36,28,36
 0021700200,2017-11-13,LAC,PHI,12.0,2,12,0,PHI,,period_start,0,False,False,,,28-36,28,36
 0021700200,2017-11-13,LAC,PHI,12.38,2,11,37,LAC,LAC,fg_make,3,False,False,Reed 5' Hook Shot (4 PTS),,30-36,30,36
 0021700200,2017-11-13,LAC,PHI,12.68,2,11,19,PHI,PHI,fg3_miss,1,False,False,,MISS Anderson 3PT Jump Shot,30-36,30,36
@@ -145,8 +145,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700200,2017-11-13,LAC,PHI,16.1,2,7,54,LAC,LAC,fg_miss,102,False,False,MISS Griffin 2' Driving Floating Bank Jump Shot,,30-44,30,44
 0021700200,2017-11-13,LAC,PHI,16.13,2,7,52,PHI,PHI,reb,0,False,False,,McConnell REBOUND (Off:0 Def:5),30-44,30,44
 0021700200,2017-11-13,LAC,PHI,16.33,2,7,40,PHI,PHI,fg_miss,6,True,False,,MISS Luwawu-Cabarrot 2' Driving Layup,30-44,30,44
-0021700200,2017-11-13,LAC,PHI,16.33,2,7,40,LAC,LAC,reb,0,False,False,Thornwell REBOUND (Off:0 Def:1),,30-44,30,44
 0021700200,2017-11-13,LAC,PHI,16.33,2,7,40,PHI,LAC,block,6,True,False,block,block,30-44,30,44
+0021700200,2017-11-13,LAC,PHI,16.33,2,7,40,LAC,LAC,reb,0,False,False,Thornwell REBOUND (Off:0 Def:1),,30-44,30,44
 0021700200,2017-11-13,LAC,PHI,16.42,2,7,35,LAC,LAC,tov,2,False,True,Thornwell Lost Ball Turnover (P2.T7),,30-44,30,44
 0021700200,2017-11-13,LAC,PHI,16.42,2,7,35,LAC,PHI,steal,2,False,True,steal,steal,30-44,30,44
 0021700200,2017-11-13,LAC,PHI,16.52,2,7,29,PHI,PHI,tov,45,False,False,,Simmons Out of Bounds - Bad Pass Turnover Turnover (P2.T5),30-44,30,44
@@ -439,11 +439,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700200,2017-11-13,LAC,PHI,46.88,4,1,7,LAC,LAC,fg_miss,80,False,False,MISS Griffin 13' Step Back Jump Shot,,100-100,100,100
 0021700200,2017-11-13,LAC,PHI,46.92,4,1,5,PHI,PHI,reb,0,False,False,,Embiid REBOUND (Off:2 Def:14),100-100,100,100
 0021700200,2017-11-13,LAC,PHI,47.25,4,0,45,PHI,PHI,fg_miss,5,True,False,,MISS Embiid 2' Layup,100-100,100,100
+0021700200,2017-11-13,LAC,PHI,47.25,4,0,45,PHI,LAC,block,5,True,False,block,block,100-100,100,100
 0021700200,2017-11-13,LAC,PHI,47.25,4,0,45,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,100-100,100,100
 0021700200,2017-11-13,LAC,PHI,47.25,4,0,45,LAC,PHI,foul,3,False,False,,Embiid L.B.FOUL (P3.PN) (V.Voyard-Tadal),100-100,100,100
 0021700200,2017-11-13,LAC,PHI,47.25,4,0,45,LAC,LAC,ft_miss,11,False,False,MISS Reed Free Throw 1 of 2,,100-100,100,100
 0021700200,2017-11-13,LAC,PHI,47.25,4,0,45,LAC,LAC,reb,1,False,False,CLIPPERS Rebound,,100-100,100,100
-0021700200,2017-11-13,LAC,PHI,47.25,4,0,45,PHI,LAC,block,5,True,False,block,block,100-100,100,100
 0021700200,2017-11-13,LAC,PHI,47.25,4,0,45,LAC,LAC,ft_make,12,False,False,Reed Free Throw 2 of 2 (9 PTS),,101-100,101,100
 0021700200,2017-11-13,LAC,PHI,47.45,4,0,33,PHI,PHI,fg3_make,1,False,False,,Covington 25' 3PT Jump Shot (27 PTS) (Saric 2 AST),101-103,101,103
 0021700200,2017-11-13,LAC,PHI,47.62,4,0,23,LAC,LAC,fg3_miss,1,False,False,MISS Williams 26' 3PT Jump Shot,,101-103,101,103

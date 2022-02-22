@@ -41,8 +41,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900318,2019-12-05,TOR,HOU,3.95,1,8,3,HOU,TOR,block,1,True,False,block,block,8-9,8,9
 0021900318,2019-12-05,TOR,HOU,3.98,1,8,1,HOU,HOU,reb,0,False,False,,Capela REBOUND (Off:2 Def:1),8-9,8,9
 0021900318,2019-12-05,TOR,HOU,4.17,1,7,50,HOU,HOU,tov,1,False,True,,Westbrook Bad Pass Turnover (P1.T5),8-9,8,9
-0021900318,2019-12-05,TOR,HOU,4.17,1,7,50,TOR,HOU,foul,1,False,False,,Tucker P.FOUL (P1.T1) (P.Fraher),8-9,8,9
 0021900318,2019-12-05,TOR,HOU,4.17,1,7,50,HOU,TOR,steal,1,False,True,steal,steal,8-9,8,9
+0021900318,2019-12-05,TOR,HOU,4.17,1,7,50,TOR,HOU,foul,1,False,False,,Tucker P.FOUL (P1.T1) (P.Fraher),8-9,8,9
 0021900318,2019-12-05,TOR,HOU,4.43,1,7,34,TOR,HOU,foul,1,False,False,,Capela P.FOUL (P1.T2) (M.Lindsay),8-9,8,9
 0021900318,2019-12-05,TOR,HOU,4.6,1,7,24,TOR,TOR,tov,4,False,False,Gasol Traveling Turnover (P1.T2),,8-9,8,9
 0021900318,2019-12-05,TOR,HOU,4.77,1,7,14,HOU,TOR,foul,2,False,False,Gasol S.FOUL (P1.T2) (N.Sago),,8-9,8,9
@@ -67,8 +67,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900318,2019-12-05,TOR,HOU,6.28,1,5,43,HOU,HOU,fg3_miss,1,False,False,,MISS Westbrook 27' 3PT Jump Shot,12-12,12,12
 0021900318,2019-12-05,TOR,HOU,6.33,1,5,40,TOR,TOR,reb,0,False,False,VanVleet REBOUND (Off:0 Def:1),,12-12,12,12
 0021900318,2019-12-05,TOR,HOU,6.48,1,5,31,TOR,TOR,fg_miss,5,True,False,MISS Siakam 2' Layup,,12-12,12,12
-0021900318,2019-12-05,TOR,HOU,6.48,1,5,31,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,12-12,12,12
 0021900318,2019-12-05,TOR,HOU,6.48,1,5,31,TOR,HOU,block,5,True,False,block,block,12-12,12,12
+0021900318,2019-12-05,TOR,HOU,6.48,1,5,31,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,12-12,12,12
 0021900318,2019-12-05,TOR,HOU,6.67,1,5,20,TOR,TOR,tov,1,False,True,VanVleet Bad Pass Turnover (P1.T4),,12-12,12,12
 0021900318,2019-12-05,TOR,HOU,6.67,1,5,20,TOR,HOU,steal,1,False,True,steal,steal,12-12,12,12
 0021900318,2019-12-05,TOR,HOU,6.75,1,5,15,HOU,HOU,fg3_make,2,False,False,,House Jr. 3PT Running Jump Shot (3 PTS) (Westbrook 3 AST),12-15,12,15
@@ -238,9 +238,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900318,2019-12-05,TOR,HOU,23.93,2,0,4,HOU,HOU,tov,37,False,False,,Westbrook Offensive Foul Turnover (P4.T12),53-63,53,63
 0021900318,2019-12-05,TOR,HOU,23.98,2,0,1,TOR,TOR,fg_make,75,False,False,VanVleet 5' Driving Finger Roll Layup (9 PTS) (Lowry 4 AST),,55-63,55,63
 0021900318,2019-12-05,TOR,HOU,24.0,2,0,0,HOU,HOU,tov,1,False,True,,McLemore Bad Pass Turnover (P2.T13),55-63,55,63
+0021900318,2019-12-05,TOR,HOU,24.0,2,0,0,HOU,TOR,steal,1,False,True,steal,steal,55-63,55,63
 0021900318,2019-12-05,TOR,HOU,24.0,2,0,0,HOU,,period_end,0,False,False,,,55-63,55,63
 0021900318,2019-12-05,TOR,HOU,24.0,3,12,0,HOU,,period_start,0,False,False,,,55-63,55,63
-0021900318,2019-12-05,TOR,HOU,24.0,2,0,0,HOU,TOR,steal,1,False,True,steal,steal,55-63,55,63
 0021900318,2019-12-05,TOR,HOU,24.23,3,11,46,TOR,TOR,fg3_miss,1,False,False,MISS Anunoby 3PT Jump Shot,,55-63,55,63
 0021900318,2019-12-05,TOR,HOU,24.28,3,11,43,HOU,HOU,reb,0,False,False,,Harden REBOUND (Off:0 Def:3),55-63,55,63
 0021900318,2019-12-05,TOR,HOU,24.4,3,11,36,HOU,HOU,fg3_make,1,False,False,,McLemore 24' 3PT Jump Shot (17 PTS) (Westbrook 7 AST),55-66,55,66
@@ -281,8 +281,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900318,2019-12-05,TOR,HOU,28.48,3,7,31,HOU,HOU,fg3_miss,1,False,False,,MISS McLemore 24' 3PT Jump Shot,67-74,67,74
 0021900318,2019-12-05,TOR,HOU,28.53,3,7,28,HOU,HOU,reb,0,False,False,,Westbrook REBOUND (Off:3 Def:4),67-74,67,74
 0021900318,2019-12-05,TOR,HOU,28.55,3,7,27,HOU,HOU,fg_miss,72,True,False,,MISS Westbrook 2' Putback Layup,67-74,67,74
-0021900318,2019-12-05,TOR,HOU,28.55,3,7,27,TOR,TOR,reb,0,False,False,Lowry REBOUND (Off:1 Def:3),,67-74,67,74
 0021900318,2019-12-05,TOR,HOU,28.55,3,7,27,HOU,TOR,block,72,True,False,block,block,67-74,67,74
+0021900318,2019-12-05,TOR,HOU,28.55,3,7,27,TOR,TOR,reb,0,False,False,Lowry REBOUND (Off:1 Def:3),,67-74,67,74
 0021900318,2019-12-05,TOR,HOU,28.62,3,7,23,TOR,TOR,tov,1,False,True,Lowry Bad Pass Turnover (P2.T12),,67-74,67,74
 0021900318,2019-12-05,TOR,HOU,28.62,3,7,23,TOR,HOU,steal,1,False,True,steal,steal,67-74,67,74
 0021900318,2019-12-05,TOR,HOU,28.68,3,7,19,HOU,HOU,tov,2,False,True,,Harden Lost Ball Turnover (P2.T15),67-74,67,74
@@ -472,8 +472,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900318,2019-12-05,TOR,HOU,46.65,4,1,21,HOU,HOU,fg3_miss,1,False,False,,MISS Westbrook 30' 3PT Jump Shot,109-115,109,115
 0021900318,2019-12-05,TOR,HOU,46.7,4,1,18,TOR,TOR,reb,0,False,False,VanVleet REBOUND (Off:0 Def:6),,109-115,109,115
 0021900318,2019-12-05,TOR,HOU,46.77,4,1,14,HOU,TOR,foul,4,False,False,VanVleet OFF.Foul (P3) (P.Fraher),,109-115,109,115
-0021900318,2019-12-05,TOR,HOU,46.77,4,1,14,TOR,TOR,tov,37,False,False,VanVleet Offensive Foul Turnover (P2.T18),,109-115,109,115
 0021900318,2019-12-05,TOR,HOU,46.77,4,1,14,HOU,HOU,timeout,7,False,False,,Rockets Timeout: Coach Challenge (Reg.3 Short 0),109-115,109,115
+0021900318,2019-12-05,TOR,HOU,46.77,4,1,14,TOR,TOR,tov,37,False,False,VanVleet Offensive Foul Turnover (P2.T18),,109-115,109,115
 0021900318,2019-12-05,TOR,HOU,47.1,4,0,54,HOU,HOU,fg_make,101,False,False,,Westbrook Driving Floating Jump Shot (17 PTS),109-117,109,117
 0021900318,2019-12-05,TOR,HOU,47.3,4,0,42,TOR,TOR,fg_miss,57,False,False,MISS Powell 6' Driving Hook Shot,,109-117,109,117
 0021900318,2019-12-05,TOR,HOU,47.33,4,0,40,HOU,HOU,reb,0,False,False,,Tucker REBOUND (Off:3 Def:8),109-117,109,117

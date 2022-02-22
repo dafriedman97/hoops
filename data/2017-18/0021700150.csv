@@ -80,8 +80,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700150,2017-11-07,IND,NOP,8.55,1,3,27,IND,IND,fg_miss,1,False,False,MISS Turner 19' Jump Shot,,26-22,26,22
 0021700150,2017-11-07,IND,NOP,8.62,1,3,23,IND,IND,reb,0,False,False,Leaf REBOUND (Off:1 Def:0),,26-22,26,22
 0021700150,2017-11-07,IND,NOP,8.7,1,3,18,IND,IND,fg_miss,6,True,False,MISS Joseph 2' Driving Layup,,26-22,26,22
-0021700150,2017-11-07,IND,NOP,8.7,1,3,18,IND,IND,reb,0,False,False,PACERS Rebound,,26-22,26,22
 0021700150,2017-11-07,IND,NOP,8.7,1,3,18,IND,NOP,block,6,True,False,block,block,26-22,26,22
+0021700150,2017-11-07,IND,NOP,8.7,1,3,18,IND,IND,reb,0,False,False,PACERS Rebound,,26-22,26,22
 0021700150,2017-11-07,IND,NOP,8.73,1,3,16,IND,IND,fg_make,1,False,False,Joseph 14' Jump Shot (2 PTS) (Stephenson 1 AST),,28-22,28,22
 0021700150,2017-11-07,IND,NOP,8.95,1,3,3,NOP,IND,foul,2,False,False,Leaf S.FOUL (P1.PN) (B.Adair),,28-22,28,22
 0021700150,2017-11-07,IND,NOP,8.95,1,3,3,NOP,NOP,ft_make,10,False,False,,Miller Free Throw 1 of 1 (4 PTS),28-26,28,26
@@ -159,8 +159,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700150,2017-11-07,IND,NOP,17.85,2,6,9,NOP,NOP,fg_make,108,False,False,,Cousins 1' Cutting Dunk Shot (10 PTS) (Davis 2 AST),58-51,58,51
 0021700150,2017-11-07,IND,NOP,18.13,2,5,52,IND,IND,fg3_make,1,False,False,Turner 28' 3PT Jump Shot (12 PTS) (Collison 3 AST),,61-51,61,51
 0021700150,2017-11-07,IND,NOP,18.52,2,5,29,NOP,NOP,fg_miss,75,True,False,,MISS Moore 1' Driving Finger Roll Layup,61-51,61,51
-0021700150,2017-11-07,IND,NOP,18.52,2,5,29,NOP,NOP,reb,0,False,False,,Moore REBOUND (Off:2 Def:0),61-51,61,51
 0021700150,2017-11-07,IND,NOP,18.52,2,5,29,NOP,IND,block,75,True,False,block,block,61-51,61,51
+0021700150,2017-11-07,IND,NOP,18.52,2,5,29,NOP,NOP,reb,0,False,False,,Moore REBOUND (Off:2 Def:0),61-51,61,51
 0021700150,2017-11-07,IND,NOP,18.62,2,5,23,NOP,NOP,fg_make,66,False,False,,Moore 5' Jump Bank Shot (7 PTS),61-53,61,53
 0021700150,2017-11-07,IND,NOP,19.02,2,4,59,IND,IND,fg3_miss,1,False,False,MISS Joseph 29' 3PT Jump Shot,,61-53,61,53
 0021700150,2017-11-07,IND,NOP,19.05,2,4,57,NOP,NOP,reb,0,False,False,,Allen REBOUND (Off:0 Def:1),61-53,61,53
@@ -296,12 +296,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700150,2017-11-07,IND,NOP,35.7,3,0,18,IND,IND,tov,40,False,False,Jefferson Out of Bounds Lost Ball Turnover (P1.T8),,94-94,94,94
 0021700150,2017-11-07,IND,NOP,35.73,3,0,16,NOP,NOP,fg_make,6,False,False,,Nelson 1' Driving Layup (9 PTS) (Moore 3 AST),94-96,94,96
 0021700150,2017-11-07,IND,NOP,36.0,3,0,0,IND,IND,fg_miss,6,True,False,MISS Oladipo 1' Driving Layup,,94-96,94,96
+0021700150,2017-11-07,IND,NOP,36.0,3,0,0,IND,NOP,block,6,True,False,block,block,94-96,94,96
 0021700150,2017-11-07,IND,NOP,36.0,3,0,0,IND,IND,reb,0,False,False,PACERS Rebound,,94-96,94,96
 0021700150,2017-11-07,IND,NOP,36.0,3,0,0,IND,IND,fg_miss,1,False,False,MISS Stephenson 19' Jump Shot,,94-96,94,96
 0021700150,2017-11-07,IND,NOP,36.0,3,0,0,IND,IND,reb,0,False,False,PACERS Rebound,,94-96,94,96
 0021700150,2017-11-07,IND,NOP,36.0,3,0,0,IND,,period_end,0,False,False,,,94-96,94,96
 0021700150,2017-11-07,IND,NOP,36.0,4,12,0,IND,,period_start,0,False,False,,,94-96,94,96
-0021700150,2017-11-07,IND,NOP,36.0,3,0,0,IND,NOP,block,6,True,False,block,block,94-96,94,96
 0021700150,2017-11-07,IND,NOP,36.18,4,11,49,IND,IND,fg3_miss,1,False,False,MISS Leaf 27' 3PT Jump Shot,,94-96,94,96
 0021700150,2017-11-07,IND,NOP,36.22,4,11,47,NOP,NOP,reb,0,False,False,,Davis REBOUND (Off:2 Def:8),94-96,94,96
 0021700150,2017-11-07,IND,NOP,36.52,4,11,29,NOP,IND,foul,2,False,False,Young S.FOUL (P1.T1) (M.Boland),,94-96,94,96
@@ -420,6 +420,6 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700150,2017-11-07,IND,NOP,47.83,4,0,10,IND,IND,fg_miss,78,False,False,MISS Oladipo 12' Floating Jump Shot,,112-117,112,117
 0021700150,2017-11-07,IND,NOP,47.88,4,0,7,IND,IND,reb,0,False,False,Turner REBOUND (Off:4 Def:8),,112-117,112,117
 0021700150,2017-11-07,IND,NOP,47.88,4,0,7,IND,IND,fg_miss,44,True,False,MISS Turner 2' Reverse Layup,,112-117,112,117
-0021700150,2017-11-07,IND,NOP,47.88,4,0,7,NOP,NOP,reb,0,False,False,,Allen REBOUND (Off:0 Def:4),112-117,112,117
 0021700150,2017-11-07,IND,NOP,47.88,4,0,7,IND,NOP,block,44,True,False,block,block,112-117,112,117
+0021700150,2017-11-07,IND,NOP,47.88,4,0,7,NOP,NOP,reb,0,False,False,,Allen REBOUND (Off:0 Def:4),112-117,112,117
 0021700150,2017-11-07,IND,NOP,48.0,4,0,0,NOP,,period_end,0,False,False,,,112-117,112,117

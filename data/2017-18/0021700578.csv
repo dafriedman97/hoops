@@ -8,16 +8,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700578,2018-01-06,LAC,GSW,0.73,1,11,16,LAC,LAC,fg_miss,5,False,False,MISS Jordan 1' Layup,,0-0,0,0
 0021700578,2018-01-06,LAC,GSW,0.75,1,11,15,GSW,GSW,reb,0,False,False,,Pachulia REBOUND (Off:0 Def:1),0-0,0,0
 0021700578,2018-01-06,LAC,GSW,1.02,1,10,59,GSW,GSW,fg_miss,5,True,False,,MISS Pachulia 1' Layup,0-0,0,0
-0021700578,2018-01-06,LAC,GSW,1.02,1,10,59,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,0-0,0,0
 0021700578,2018-01-06,LAC,GSW,1.02,1,10,59,GSW,LAC,block,5,True,False,block,block,0-0,0,0
+0021700578,2018-01-06,LAC,GSW,1.02,1,10,59,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,0-0,0,0
 0021700578,2018-01-06,LAC,GSW,1.35,1,10,39,LAC,LAC,fg_make,79,False,False,Williams 19' Pullup Jump Shot (2 PTS) (Evans 1 AST),,2-0,2,0
 0021700578,2018-01-06,LAC,GSW,1.55,1,10,27,GSW,GSW,fg_make,79,False,False,,Thompson 15' Pullup Jump Shot (2 PTS) (Green 1 AST),2-2,2,2
 0021700578,2018-01-06,LAC,GSW,1.92,1,10,5,LAC,LAC,fg_make,79,False,False,Williams 17' Pullup Jump Shot (4 PTS) (Griffin 1 AST),,4-2,4,2
 0021700578,2018-01-06,LAC,GSW,2.12,1,9,53,GSW,GSW,fg_miss,63,False,False,,MISS Thompson 10' Fadeaway Jumper,4-2,4,2
 0021700578,2018-01-06,LAC,GSW,2.15,1,9,51,LAC,LAC,reb,0,False,False,Jordan REBOUND (Off:0 Def:2),,4-2,4,2
 0021700578,2018-01-06,LAC,GSW,2.22,1,9,47,LAC,LAC,fg_miss,41,True,False,MISS Evans 3' Running Layup,,4-2,4,2
-0021700578,2018-01-06,LAC,GSW,2.22,1,9,47,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,4-2,4,2
 0021700578,2018-01-06,LAC,GSW,2.22,1,9,47,LAC,GSW,block,41,True,False,block,block,4-2,4,2
+0021700578,2018-01-06,LAC,GSW,2.22,1,9,47,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,4-2,4,2
 0021700578,2018-01-06,LAC,GSW,2.28,1,9,43,LAC,LAC,fg_miss,1,False,False,MISS Dekker 10' Jump Shot,,4-2,4,2
 0021700578,2018-01-06,LAC,GSW,2.33,1,9,40,GSW,GSW,reb,0,False,False,,Pachulia REBOUND (Off:0 Def:2),4-2,4,2
 0021700578,2018-01-06,LAC,GSW,2.6,1,9,24,GSW,GSW,fg3_miss,1,False,False,,MISS Thompson 27' 3PT Jump Shot,4-2,4,2
@@ -96,9 +96,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700578,2018-01-06,LAC,GSW,9.73,1,2,16,GSW,GSW,fg_miss,103,False,False,,MISS Young 22' Running Pull-Up Jump Shot,20-29,20,29
 0021700578,2018-01-06,LAC,GSW,9.77,1,2,14,GSW,GSW,reb,0,False,False,,Curry REBOUND (Off:1 Def:1),20-29,20,29
 0021700578,2018-01-06,LAC,GSW,9.82,1,2,11,GSW,GSW,fg_miss,7,True,False,,MISS Green 2' Dunk,20-29,20,29
+0021700578,2018-01-06,LAC,GSW,9.82,1,2,11,GSW,LAC,block,7,True,False,block,block,20-29,20,29
 0021700578,2018-01-06,LAC,GSW,9.82,1,2,11,LAC,LAC,reb,0,False,False,Wallace REBOUND (Off:0 Def:1),,20-29,20,29
 0021700578,2018-01-06,LAC,GSW,9.82,1,2,11,LAC,GSW,foul,11,False,False,,Green T.FOUL (P0.T3) (T.Ford),20-29,20,29
-0021700578,2018-01-06,LAC,GSW,9.82,1,2,11,GSW,LAC,block,7,True,False,block,block,20-29,20,29
 0021700578,2018-01-06,LAC,GSW,9.82,1,2,11,LAC,LAC,ft_make,16,False,False,Williams Free Throw Technical (8 PTS),,21-29,21,29
 0021700578,2018-01-06,LAC,GSW,10.03,1,1,58,LAC,LAC,fg_miss,96,False,False,MISS Harrell 3' Turnaround Bank Hook Shot,,21-29,21,29
 0021700578,2018-01-06,LAC,GSW,10.03,1,1,58,GSW,GSW,reb,0,False,False,,McGee REBOUND (Off:1 Def:2),21-29,21,29
@@ -196,9 +196,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700578,2018-01-06,LAC,GSW,17.98,2,6,1,GSW,GSW,fg_miss,97,False,False,,MISS Green 1' Tip Layup Shot,41-45,41,45
 0021700578,2018-01-06,LAC,GSW,17.98,2,6,1,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:4 Def:1),41-45,41,45
 0021700578,2018-01-06,LAC,GSW,18.02,2,5,59,GSW,GSW,fg_miss,97,False,False,,MISS Green 1' Tip Layup Shot,41-45,41,45
-0021700578,2018-01-06,LAC,GSW,18.03,2,5,58,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:3 Def:1),41-45,41,45
 0021700578,2018-01-06,LAC,GSW,18.03,2,5,58,GSW,GSW,fg_miss,72,False,False,,MISS Green 1' Putback Layup,41-45,41,45
 0021700578,2018-01-06,LAC,GSW,18.03,2,5,58,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:0 Def:2),,41-45,41,45
+0021700578,2018-01-06,LAC,GSW,18.03,2,5,58,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:3 Def:1),41-45,41,45
 0021700578,2018-01-06,LAC,GSW,18.07,2,5,56,LAC,LAC,fg_make,1,False,False,Dekker 12' Jump Shot (2 PTS) (Harrell 1 AST),,43-45,43,45
 0021700578,2018-01-06,LAC,GSW,18.07,2,5,56,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.2 Short 0),43-45,43,45
 0021700578,2018-01-06,LAC,GSW,18.33,2,5,40,GSW,GSW,fg_make,1,False,False,,West 13' Jump Shot (10 PTS) (Green 4 AST),43-47,43,47
@@ -326,9 +326,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700578,2018-01-06,LAC,GSW,30.18,3,5,49,GSW,GSW,ft_make,15,False,False,,Curry Free Throw 3 of 3 (37 PTS),63-81,63,81
 0021700578,2018-01-06,LAC,GSW,30.3,3,5,42,LAC,GSW,foul,1,False,False,,Thompson P.FOUL (P2.T3) (J.Goble),63-81,63,81
 0021700578,2018-01-06,LAC,GSW,30.4,3,5,36,LAC,GSW,foul,2,False,False,,Green S.FOUL (P1.T4) (H.Workman),63-81,63,81
-0021700578,2018-01-06,LAC,GSW,30.4,3,5,36,LAC,GSW,violation,3,False,False,,Lane,63-81,63,81
 0021700578,2018-01-06,LAC,GSW,30.4,3,5,36,LAC,LAC,ft_make,11,False,False,Jordan Free Throw 1 of 2 (12 PTS),,64-81,64,81
 0021700578,2018-01-06,LAC,GSW,30.4,3,5,36,LAC,LAC,ft_make,12,False,False,Jordan Free Throw 2 of 2 (13 PTS),,65-81,65,81
+0021700578,2018-01-06,LAC,GSW,30.4,3,5,36,LAC,GSW,violation,3,False,False,,Lane,63-81,63,81
 0021700578,2018-01-06,LAC,GSW,30.58,3,5,25,GSW,LAC,foul,1,False,False,Thornwell P.FOUL (P2.PN) (J.Goble),,65-81,65,81
 0021700578,2018-01-06,LAC,GSW,30.58,3,5,25,GSW,GSW,ft_miss,11,False,False,,MISS Green Free Throw 1 of 2,65-81,65,81
 0021700578,2018-01-06,LAC,GSW,30.58,3,5,25,GSW,GSW,reb,1,False,False,,Warriors Rebound,65-81,65,81
@@ -384,8 +384,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700578,2018-01-06,LAC,GSW,34.82,3,1,11,LAC,LAC,tov,2,False,True,Evans Lost Ball Turnover (P1.T16),,73-101,73,101
 0021700578,2018-01-06,LAC,GSW,34.82,3,1,11,LAC,GSW,steal,2,False,True,steal,steal,73-101,73,101
 0021700578,2018-01-06,LAC,GSW,34.9,3,1,6,GSW,GSW,fg_miss,74,True,False,,MISS Curry 2' Running Reverse Layup,73-101,73,101
-0021700578,2018-01-06,LAC,GSW,34.9,3,1,6,GSW,GSW,reb,0,False,False,,Warriors Rebound,73-101,73,101
 0021700578,2018-01-06,LAC,GSW,34.9,3,1,6,GSW,LAC,block,74,True,False,block,block,73-101,73,101
+0021700578,2018-01-06,LAC,GSW,34.9,3,1,6,GSW,GSW,reb,0,False,False,,Warriors Rebound,73-101,73,101
 0021700578,2018-01-06,LAC,GSW,35.08,3,0,55,GSW,GSW,fg_make,7,False,False,,McGee 3' Dunk (9 PTS) (Young 1 AST),73-103,73,103
 0021700578,2018-01-06,LAC,GSW,35.38,3,0,37,LAC,LAC,fg_miss,1,False,False,MISS Wallace 19' Jump Shot,,73-103,73,103
 0021700578,2018-01-06,LAC,GSW,35.43,3,0,34,GSW,GSW,reb,0,False,False,,McCaw REBOUND (Off:0 Def:1),73-103,73,103
@@ -400,10 +400,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700578,2018-01-06,LAC,GSW,35.97,3,0,2,LAC,GSW,block,1,True,False,block,block,76-103,76,103
 0021700578,2018-01-06,LAC,GSW,35.98,3,0,1,LAC,LAC,reb,0,False,False,Evans REBOUND (Off:1 Def:2),,76-103,76,103
 0021700578,2018-01-06,LAC,GSW,36.0,3,0,0,LAC,LAC,fg_miss,1,True,False,MISS Evans 18' Jump Shot,,76-103,76,103
+0021700578,2018-01-06,LAC,GSW,36.0,3,0,0,LAC,GSW,block,1,True,False,block,block,76-103,76,103
 0021700578,2018-01-06,LAC,GSW,36.0,3,0,0,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,76-103,76,103
 0021700578,2018-01-06,LAC,GSW,36.0,3,0,0,LAC,,period_end,0,False,False,,,76-103,76,103
 0021700578,2018-01-06,LAC,GSW,36.0,4,12,0,LAC,,period_start,0,False,False,,,76-103,76,103
-0021700578,2018-01-06,LAC,GSW,36.0,3,0,0,LAC,GSW,block,1,True,False,block,block,76-103,76,103
 0021700578,2018-01-06,LAC,GSW,36.28,4,11,43,GSW,GSW,fg3_miss,1,False,False,,MISS Young 26' 3PT Jump Shot,76-103,76,103
 0021700578,2018-01-06,LAC,GSW,36.32,4,11,41,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:0 Def:8),,76-103,76,103
 0021700578,2018-01-06,LAC,GSW,36.5,4,11,30,LAC,LAC,fg_make,5,False,False,Reed 1' Layup (7 PTS) (Evans 3 AST),,78-103,78,103
@@ -475,15 +475,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700578,2018-01-06,LAC,GSW,43.17,4,4,50,LAC,LAC,fg_miss,1,False,False,MISS Harrell 18' Jump Shot,,90-115,90,115
 0021700578,2018-01-06,LAC,GSW,43.23,4,4,46,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:0 Def:1),90-115,90,115
 0021700578,2018-01-06,LAC,GSW,43.35,4,4,39,GSW,GSW,tov,2,False,True,,Casspi Lost Ball Turnover (P1.T13),90-115,90,115
-0021700578,2018-01-06,LAC,GSW,43.35,4,4,39,LAC,GSW,foul,1,False,False,,McCaw P.FOUL (P1.T4) (H.Workman),90-115,90,115
 0021700578,2018-01-06,LAC,GSW,43.35,4,4,39,GSW,LAC,steal,2,False,True,steal,steal,90-115,90,115
+0021700578,2018-01-06,LAC,GSW,43.35,4,4,39,LAC,GSW,foul,1,False,False,,McCaw P.FOUL (P1.T4) (H.Workman),90-115,90,115
 0021700578,2018-01-06,LAC,GSW,43.63,4,4,22,LAC,LAC,fg_make,98,False,False,Dekker 2' Cutting Layup Shot (9 PTS) (Harrell 3 AST),,92-115,92,115
 0021700578,2018-01-06,LAC,GSW,43.92,4,4,5,GSW,GSW,fg_miss,78,False,False,,MISS Casspi 9' Floating Jump Shot,92-115,92,115
 0021700578,2018-01-06,LAC,GSW,43.97,4,4,2,LAC,LAC,reb,0,False,False,Dekker REBOUND (Off:1 Def:3),,92-115,92,115
 0021700578,2018-01-06,LAC,GSW,44.25,4,3,45,LAC,LAC,tov,2,False,True,Harrell Lost Ball Turnover (P5.T18),,92-115,92,115
+0021700578,2018-01-06,LAC,GSW,44.25,4,3,45,LAC,GSW,steal,2,False,True,steal,steal,92-115,92,115
 0021700578,2018-01-06,LAC,GSW,44.25,4,3,45,GSW,GSW,tov,39,False,False,,Young Step Out of Bounds Turnover (P1.T14),92-115,92,115
 0021700578,2018-01-06,LAC,GSW,44.25,4,3,45,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 5 Short 0),,92-115,92,115
-0021700578,2018-01-06,LAC,GSW,44.25,4,3,45,LAC,GSW,steal,2,False,True,steal,steal,92-115,92,115
 0021700578,2018-01-06,LAC,GSW,44.55,4,3,27,LAC,LAC,fg_make,6,False,False,Wallace 1' Driving Layup (13 PTS),,94-115,94,115
 0021700578,2018-01-06,LAC,GSW,44.87,4,3,8,GSW,GSW,fg_miss,3,False,False,,MISS McGee 7' Hook Shot,94-115,94,115
 0021700578,2018-01-06,LAC,GSW,44.92,4,3,5,LAC,LAC,reb,0,False,False,Reed REBOUND (Off:0 Def:5),,94-115,94,115
@@ -515,6 +515,6 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700578,2018-01-06,LAC,GSW,47.62,4,0,23,LAC,LAC,fg_miss,1,False,False,MISS Wallace 14' Jump Shot,,105-121,105,121
 0021700578,2018-01-06,LAC,GSW,47.68,4,0,19,LAC,LAC,reb,0,False,False,Thornwell REBOUND (Off:1 Def:0),,105-121,105,121
 0021700578,2018-01-06,LAC,GSW,47.8,4,0,12,LAC,LAC,fg_miss,6,True,False,MISS Wallace 3' Driving Layup,,105-121,105,121
-0021700578,2018-01-06,LAC,GSW,47.8,4,0,12,GSW,GSW,reb,0,False,False,,Bell REBOUND (Off:0 Def:6),105-121,105,121
 0021700578,2018-01-06,LAC,GSW,47.8,4,0,12,LAC,GSW,block,6,True,False,block,block,105-121,105,121
+0021700578,2018-01-06,LAC,GSW,47.8,4,0,12,GSW,GSW,reb,0,False,False,,Bell REBOUND (Off:0 Def:6),105-121,105,121
 0021700578,2018-01-06,LAC,GSW,48.0,4,0,0,GSW,,period_end,0,False,False,,,105-121,105,121

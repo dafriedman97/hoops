@@ -24,8 +24,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700348,2017-12-04,SAS,DET,3.75,1,8,15,DET,DET,fg_miss,47,False,False,,MISS Harris 9' Turnaround Jump Shot,10-10,10,10
 0021700348,2017-12-04,SAS,DET,3.85,1,8,9,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:1 Def:0),10-10,10,10
 0021700348,2017-12-04,SAS,DET,3.88,1,8,7,DET,DET,fg_miss,5,True,False,,MISS Drummond 4' Layup,10-10,10,10
-0021700348,2017-12-04,SAS,DET,3.88,1,8,7,SAS,SAS,reb,0,False,False,Parker REBOUND (Off:0 Def:2),,10-10,10,10
 0021700348,2017-12-04,SAS,DET,3.88,1,8,7,DET,SAS,block,5,True,False,block,block,10-10,10,10
+0021700348,2017-12-04,SAS,DET,3.88,1,8,7,SAS,SAS,reb,0,False,False,Parker REBOUND (Off:0 Def:2),,10-10,10,10
 0021700348,2017-12-04,SAS,DET,3.97,1,8,2,SAS,SAS,fg_miss,101,False,False,MISS Parker 7' Driving Floating Jump Shot,,10-10,10,10
 0021700348,2017-12-04,SAS,DET,3.97,1,8,2,SAS,SAS,reb,0,False,False,Gay REBOUND (Off:1 Def:0),,10-10,10,10
 0021700348,2017-12-04,SAS,DET,4.08,1,7,55,SAS,SAS,fg_make,1,False,False,Parker 20' Jump Shot (7 PTS) (Gay 2 AST),,12-10,12,10
@@ -194,10 +194,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700348,2017-12-04,SAS,DET,23.9,2,0,6,SAS,SAS,fg3_miss,105,False,False,MISS Mills 25' 3PT Turnaround Fadeaway Bank Jump Shot,,50-51,50,51
 0021700348,2017-12-04,SAS,DET,23.98,2,0,1,DET,DET,reb,0,False,False,,Johnson REBOUND (Off:0 Def:4),50-51,50,51
 0021700348,2017-12-04,SAS,DET,24.0,2,0,0,DET,SAS,foul,2,False,False,Gay S.FOUL (P1.PN) (J.Williams),,50-51,50,51
-0021700348,2017-12-04,SAS,DET,24.0,2,0,0,DET,DET,ft_make,15,False,False,,Johnson Free Throw 3 of 3 (8 PTS),50-52,50,52
-0021700348,2017-12-04,SAS,DET,24.0,2,0,0,DET,DET,ft_make,14,False,False,,Johnson Free Throw 2 of 3 (9 PTS),50-53,50,53
 0021700348,2017-12-04,SAS,DET,24.0,2,0,0,DET,DET,ft_miss,13,False,False,,MISS Johnson Free Throw 1 of 3,50-53,50,53
 0021700348,2017-12-04,SAS,DET,24.0,2,0,0,DET,DET,reb,1,False,False,,Pistons Rebound,50-53,50,53
+0021700348,2017-12-04,SAS,DET,24.0,2,0,0,DET,DET,ft_make,14,False,False,,Johnson Free Throw 2 of 3 (9 PTS),50-53,50,53
+0021700348,2017-12-04,SAS,DET,24.0,2,0,0,DET,DET,ft_make,15,False,False,,Johnson Free Throw 3 of 3 (8 PTS),50-52,50,52
 0021700348,2017-12-04,SAS,DET,24.0,2,0,0,DET,,period_end,0,False,False,,,50-53,50,53
 0021700348,2017-12-04,SAS,DET,24.0,3,12,0,DET,,period_start,0,False,False,,,50-53,50,53
 0021700348,2017-12-04,SAS,DET,24.2,3,11,48,DET,DET,fg3_miss,1,False,False,,MISS Tolliver 26' 3PT Jump Shot,50-53,50,53
@@ -234,9 +234,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700348,2017-12-04,SAS,DET,27.72,3,8,17,SAS,SAS,reb,0,False,False,Gay REBOUND (Off:4 Def:2),,52-61,52,61
 0021700348,2017-12-04,SAS,DET,27.87,3,8,8,SAS,SAS,tov,1,False,True,Gasol Bad Pass Turnover (P2.T10),,52-61,52,61
 0021700348,2017-12-04,SAS,DET,27.87,3,8,8,SAS,DET,steal,1,False,True,steal,steal,52-61,52,61
+0021700348,2017-12-04,SAS,DET,28.02,3,7,59,SAS,SAS,fg3_make,1,False,False,Green 26' 3PT Jump Shot (6 PTS) (Aldridge 3 AST),,55-61,55,61
 0021700348,2017-12-04,SAS,DET,28.02,3,7,59,DET,DET,tov,2,False,True,,Jackson Lost Ball Turnover (P3.T6),52-61,52,61
 0021700348,2017-12-04,SAS,DET,28.02,3,7,59,DET,SAS,steal,2,False,True,steal,steal,52-61,52,61
-0021700348,2017-12-04,SAS,DET,28.02,3,7,59,SAS,SAS,fg3_make,1,False,False,Green 26' 3PT Jump Shot (6 PTS) (Aldridge 3 AST),,55-61,55,61
 0021700348,2017-12-04,SAS,DET,28.15,3,7,51,DET,SAS,foul,2,False,False,Parker S.FOUL (P1.T3) (N.Buchert),,55-61,55,61
 0021700348,2017-12-04,SAS,DET,28.15,3,7,51,DET,DET,ft_miss,11,False,False,,MISS Drummond Free Throw 1 of 2,55-61,55,61
 0021700348,2017-12-04,SAS,DET,28.15,3,7,51,DET,DET,reb,1,False,False,,Pistons Rebound,55-61,55,61
@@ -275,10 +275,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700348,2017-12-04,SAS,DET,32.57,3,3,26,SAS,SAS,fg_miss,98,False,False,MISS Green 3' Cutting Layup Shot,,61-67,61,67
 0021700348,2017-12-04,SAS,DET,32.63,3,3,22,SAS,SAS,reb,0,False,False,Green REBOUND (Off:2 Def:3),,61-67,61,67
 0021700348,2017-12-04,SAS,DET,32.68,3,3,19,SAS,SAS,tov,2,False,True,Green Lost Ball Turnover (P2.T13),,61-67,61,67
-0021700348,2017-12-04,SAS,DET,32.68,3,3,19,DET,DET,fg_miss,76,True,False,,MISS Smith 4' Running Finger Roll Layup,61-67,61,67
-0021700348,2017-12-04,SAS,DET,32.68,3,3,19,DET,DET,reb,0,False,False,,Pistons Rebound,61-67,61,67
-0021700348,2017-12-04,SAS,DET,32.68,3,3,19,DET,SAS,block,76,True,False,block,block,61-67,61,67
 0021700348,2017-12-04,SAS,DET,32.68,3,3,19,SAS,DET,steal,2,False,True,steal,steal,61-67,61,67
+0021700348,2017-12-04,SAS,DET,32.68,3,3,19,DET,DET,fg_miss,76,True,False,,MISS Smith 4' Running Finger Roll Layup,61-67,61,67
+0021700348,2017-12-04,SAS,DET,32.68,3,3,19,DET,SAS,block,76,True,False,block,block,61-67,61,67
+0021700348,2017-12-04,SAS,DET,32.68,3,3,19,DET,DET,reb,0,False,False,,Pistons Rebound,61-67,61,67
 0021700348,2017-12-04,SAS,DET,32.93,3,3,4,DET,DET,fg_miss,1,False,False,,MISS Harris 16' Jump Shot,61-67,61,67
 0021700348,2017-12-04,SAS,DET,32.98,3,3,1,SAS,SAS,reb,0,False,False,Gasol REBOUND (Off:0 Def:8),,61-67,61,67
 0021700348,2017-12-04,SAS,DET,33.18,3,2,49,SAS,SAS,fg3_miss,1,False,False,MISS Mills 25' 3PT Jump Shot,,61-67,61,67
@@ -326,8 +326,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700348,2017-12-04,SAS,DET,38.68,4,9,19,SAS,SAS,fg_make,58,False,False,Gasol 5' Turnaround Hook Shot (15 PTS) (Murray 2 AST),,79-75,79,75
 0021700348,2017-12-04,SAS,DET,38.68,4,9,19,SAS,DET,violation,2,False,False,,Moreland Violation:Defensive Goaltending (T.Maddox),79-75,79,75
 0021700348,2017-12-04,SAS,DET,38.85,4,9,9,DET,DET,fg_miss,1,True,False,,MISS Johnson 7' Jump Shot,79-75,79,75
-0021700348,2017-12-04,SAS,DET,38.85,4,9,9,SAS,SAS,reb,0,False,False,Mills REBOUND (Off:0 Def:2),,79-75,79,75
 0021700348,2017-12-04,SAS,DET,38.85,4,9,9,DET,SAS,block,1,True,False,block,block,79-75,79,75
+0021700348,2017-12-04,SAS,DET,38.85,4,9,9,SAS,SAS,reb,0,False,False,Mills REBOUND (Off:0 Def:2),,79-75,79,75
 0021700348,2017-12-04,SAS,DET,38.95,4,9,3,SAS,SAS,fg3_miss,79,False,False,MISS Bertans 27' 3PT Pullup Jump Shot,,79-75,79,75
 0021700348,2017-12-04,SAS,DET,38.95,4,9,3,DET,DET,reb,0,False,False,,Pistons Rebound,79-75,79,75
 0021700348,2017-12-04,SAS,DET,38.95,4,9,3,DET,SAS,foul,3,False,False,Murray L.B.FOUL (P2.T2) (J.Williams),,79-75,79,75
@@ -416,6 +416,6 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700348,2017-12-04,SAS,DET,47.92,4,0,5,SAS,SAS,ft_make,12,False,False,Aldridge Free Throw 2 of 2 (17 PTS),,96-93,96,93
 0021700348,2017-12-04,SAS,DET,47.92,4,0,5,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.6 Short 0),96-93,96,93
 0021700348,2017-12-04,SAS,DET,47.97,4,0,2,DET,DET,fg3_miss,79,True,False,,MISS Harris 26' 3PT Pullup Jump Shot,96-93,96,93
-0021700348,2017-12-04,SAS,DET,47.97,4,0,2,SAS,SAS,reb,0,False,False,Green REBOUND (Off:2 Def:4),,96-93,96,93
 0021700348,2017-12-04,SAS,DET,47.97,4,0,2,DET,SAS,block,79,True,False,block,block,96-93,96,93
+0021700348,2017-12-04,SAS,DET,47.97,4,0,2,SAS,SAS,reb,0,False,False,Green REBOUND (Off:2 Def:4),,96-93,96,93
 0021700348,2017-12-04,SAS,DET,48.0,4,0,0,SAS,,period_end,0,False,False,,,96-93,96,93

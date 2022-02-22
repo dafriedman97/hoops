@@ -90,8 +90,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000864,2021-04-18,ORL,HOU,10.6,1,1,24,ORL,ORL,reb,0,False,False,Cannady REBOUND (Off:0 Def:2),,24-23,24,23
 0022000864,2021-04-18,ORL,HOU,10.78,1,1,13,ORL,ORL,fg_make,1,False,False,Bamba 18' Jump Shot (5 PTS),,26-23,26,23
 0022000864,2021-04-18,ORL,HOU,10.95,1,1,3,HOU,HOU,tov,2,False,True,,Wilson Lost Ball Turnover (P1.T5),26-23,26,23
-0022000864,2021-04-18,ORL,HOU,10.95,1,1,3,ORL,HOU,foul,28,False,False,,Tate Personal Take Foul (P1.T3) (B.Barnaky),26-23,26,23
 0022000864,2021-04-18,ORL,HOU,10.95,1,1,3,HOU,ORL,steal,2,False,True,steal,steal,26-23,26,23
+0022000864,2021-04-18,ORL,HOU,10.95,1,1,3,ORL,HOU,foul,28,False,False,,Tate Personal Take Foul (P1.T3) (B.Barnaky),26-23,26,23
 0022000864,2021-04-18,ORL,HOU,11.23,1,0,46,ORL,ORL,fg_miss,5,True,False,MISS Bamba 3' Layup,,26-23,26,23
 0022000864,2021-04-18,ORL,HOU,11.23,1,0,46,ORL,HOU,block,5,True,False,block,block,26-23,26,23
 0022000864,2021-04-18,ORL,HOU,11.28,1,0,43,HOU,HOU,reb,0,False,False,,Brooks REBOUND (Off:0 Def:1),26-23,26,23
@@ -152,8 +152,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000864,2021-04-18,ORL,HOU,17.42,2,6,35,HOU,HOU,reb,0,False,False,,Martin Jr. REBOUND (Off:1 Def:2),40-37,40,37
 0022000864,2021-04-18,ORL,HOU,17.62,2,6,23,HOU,HOU,fg_miss,58,True,False,,MISS Olynyk 9' Turnaround Hook Shot,40-37,40,37
 0022000864,2021-04-18,ORL,HOU,17.62,2,6,23,HOU,ORL,block,58,True,False,block,block,40-37,40,37
-0022000864,2021-04-18,ORL,HOU,17.65,2,6,21,ORL,ORL,reb,0,False,False,MAGIC Rebound,,40-37,40,37
 0022000864,2021-04-18,ORL,HOU,17.65,2,6,21,,ORL,jump_ball,0,False,False,Jump Ball Franks vs. Olynyk: Tip to Harris,,40-37,40,37
+0022000864,2021-04-18,ORL,HOU,17.65,2,6,21,ORL,ORL,reb,0,False,False,MAGIC Rebound,,40-37,40,37
 0022000864,2021-04-18,ORL,HOU,17.9,2,6,6,ORL,ORL,fg3_miss,1,False,False,MISS Franks 24' 3PT Jump Shot,,40-37,40,37
 0022000864,2021-04-18,ORL,HOU,17.98,2,6,1,HOU,HOU,reb,0,False,False,,Olynyk REBOUND (Off:0 Def:2),40-37,40,37
 0022000864,2021-04-18,ORL,HOU,18.08,2,5,55,HOU,HOU,tov,45,False,False,,Olynyk Out of Bounds - Bad Pass Turnover Turnover (P2.T8),40-37,40,37
@@ -164,8 +164,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000864,2021-04-18,ORL,HOU,19.08,2,4,55,HOU,HOU,reb,0,False,False,,Wood REBOUND (Off:1 Def:5),43-40,43,40
 0022000864,2021-04-18,ORL,HOU,19.13,2,4,52,HOU,ORL,foul,1,False,False,Cannady P.FOUL (P1.T4) (E.Lewis),,43-40,43,40
 0022000864,2021-04-18,ORL,HOU,19.22,2,4,47,HOU,HOU,fg_miss,44,True,False,,MISS Bradley 2' Reverse Layup,43-40,43,40
-0022000864,2021-04-18,ORL,HOU,19.22,2,4,47,ORL,ORL,reb,0,False,False,MAGIC Rebound,,43-40,43,40
 0022000864,2021-04-18,ORL,HOU,19.22,2,4,47,HOU,ORL,block,44,True,False,block,block,43-40,43,40
+0022000864,2021-04-18,ORL,HOU,19.22,2,4,47,ORL,ORL,reb,0,False,False,MAGIC Rebound,,43-40,43,40
 0022000864,2021-04-18,ORL,HOU,19.47,2,4,32,ORL,ORL,fg_make,75,False,False,Franks 3' Driving Finger Roll Layup (2 PTS) (Harris 1 AST),,45-40,45,40
 0022000864,2021-04-18,ORL,HOU,19.67,2,4,20,HOU,HOU,tov,40,False,False,,Wood Out of Bounds Lost Ball Turnover (P2.T9),45-40,45,40
 0022000864,2021-04-18,ORL,HOU,20.02,2,3,59,ORL,ORL,fg_miss,1,False,False,MISS Cannady 14' Jump Shot,,45-40,45,40
@@ -228,9 +228,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000864,2021-04-18,ORL,HOU,25.05,3,10,57,HOU,HOU,fg_make,75,False,False,,Porter Jr. 2' Driving Finger Roll Layup (19 PTS),61-57,61,57
 0022000864,2021-04-18,ORL,HOU,25.25,3,10,45,ORL,ORL,fg_make,98,False,False,Carter Jr. 3' Cutting Layup Shot (11 PTS) (Anthony 6 AST),,63-57,63,57
 0022000864,2021-04-18,ORL,HOU,25.65,3,10,21,HOU,HOU,fg_make,44,False,False,,Olynyk 2' Reverse Layup (15 PTS) (Bradley 1 AST),63-59,63,59
+0022000864,2021-04-18,ORL,HOU,26.0,3,10,0,HOU,HOU,timeout,1,False,False,,Rockets Timeout: Regular (Reg.3 Short 0),63-59,63,59
 0022000864,2021-04-18,ORL,HOU,26.0,3,10,0,ORL,ORL,fg_miss,5,False,False,MISS Carter Jr. 10' Layup,,63-59,63,59
 0022000864,2021-04-18,ORL,HOU,26.0,3,10,0,ORL,ORL,reb,0,False,False,MAGIC Rebound,,63-59,63,59
-0022000864,2021-04-18,ORL,HOU,26.0,3,10,0,HOU,HOU,timeout,1,False,False,,Rockets Timeout: Regular (Reg.3 Short 0),63-59,63,59
 0022000864,2021-04-18,ORL,HOU,26.1,3,9,54,,ORL,jump_ball,1,False,False,Jump Ball (CC) Carter Jr. vs. Wood: Tip to Bacon,,63-59,63,59
 0022000864,2021-04-18,ORL,HOU,26.28,3,9,43,ORL,ORL,fg_miss,79,False,False,MISS Harris 19' Pullup Jump Shot,,63-59,63,59
 0022000864,2021-04-18,ORL,HOU,26.32,3,9,41,HOU,HOU,reb,0,False,False,,Tate REBOUND (Off:0 Def:3),63-59,63,59
@@ -252,8 +252,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000864,2021-04-18,ORL,HOU,28.5,3,7,30,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 3 Short 0),,63-69,63,69
 0022000864,2021-04-18,ORL,HOU,28.85,3,7,9,ORL,ORL,fg_make,75,False,False,Okeke 4' Driving Finger Roll Layup (11 PTS) (Harris 3 AST),,65-69,65,69
 0022000864,2021-04-18,ORL,HOU,29.0,3,7,0,HOU,HOU,fg_miss,6,True,False,,MISS Porter Jr. 11' Driving Layup,65-69,65,69
-0022000864,2021-04-18,ORL,HOU,29.0,3,7,0,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:1 Def:5),,65-69,65,69
 0022000864,2021-04-18,ORL,HOU,29.0,3,7,0,HOU,ORL,block,6,True,False,block,block,65-69,65,69
+0022000864,2021-04-18,ORL,HOU,29.0,3,7,0,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:1 Def:5),,65-69,65,69
 0022000864,2021-04-18,ORL,HOU,29.08,3,6,55,ORL,ORL,fg_miss,6,False,False,MISS Okeke 3' Driving Layup,,65-69,65,69
 0022000864,2021-04-18,ORL,HOU,29.08,3,6,55,HOU,HOU,reb,0,False,False,,Rockets Rebound,65-69,65,69
 0022000864,2021-04-18,ORL,HOU,29.22,3,6,47,HOU,HOU,tov,1,False,True,,Olynyk Bad Pass Turnover (P5.T14),65-69,65,69
@@ -304,8 +304,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000864,2021-04-18,ORL,HOU,34.72,3,1,17,ORL,ORL,fg3_miss,1,False,False,MISS Randle 26' 3PT Jump Shot,,74-82,74,82
 0022000864,2021-04-18,ORL,HOU,34.73,3,1,16,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:1 Def:6),,74-82,74,82
 0022000864,2021-04-18,ORL,HOU,34.73,3,1,16,ORL,ORL,fg_miss,72,True,False,MISS Bamba 3' Putback Layup,,74-82,74,82
-0022000864,2021-04-18,ORL,HOU,34.73,3,1,16,ORL,ORL,reb,0,False,False,MAGIC Rebound,,74-82,74,82
 0022000864,2021-04-18,ORL,HOU,34.73,3,1,16,ORL,HOU,block,72,True,False,block,block,74-82,74,82
+0022000864,2021-04-18,ORL,HOU,34.73,3,1,16,ORL,ORL,reb,0,False,False,MAGIC Rebound,,74-82,74,82
 0022000864,2021-04-18,ORL,HOU,34.92,3,1,5,ORL,ORL,fg_miss,79,False,False,MISS Hampton 12' Pullup Jump Shot,,74-82,74,82
 0022000864,2021-04-18,ORL,HOU,34.98,3,1,1,HOU,HOU,reb,0,False,False,,Martin Jr. REBOUND (Off:1 Def:3),74-82,74,82
 0022000864,2021-04-18,ORL,HOU,35.17,3,0,50,HOU,HOU,fg3_make,1,False,False,,Wood 25' 3PT Jump Shot (18 PTS) (Tate 6 AST),74-85,74,85
@@ -329,8 +329,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000864,2021-04-18,ORL,HOU,37.2,4,10,48,ORL,ORL,fg_make,79,False,False,Hampton 13' Pullup Jump Shot (7 PTS) (Randle 1 AST),,79-90,79,90
 0022000864,2021-04-18,ORL,HOU,37.43,4,10,34,HOU,HOU,fg3_make,1,False,False,,Brooks 25' 3PT Jump Shot (12 PTS) (Porter Jr. 6 AST),79-93,79,93
 0022000864,2021-04-18,ORL,HOU,37.72,4,10,17,ORL,ORL,fg_miss,47,True,False,MISS Okeke 8' Turnaround Jump Shot,,79-93,79,93
-0022000864,2021-04-18,ORL,HOU,37.72,4,10,17,ORL,ORL,reb,0,False,False,MAGIC Rebound,,79-93,79,93
 0022000864,2021-04-18,ORL,HOU,37.72,4,10,17,ORL,HOU,block,47,True,False,block,block,79-93,79,93
+0022000864,2021-04-18,ORL,HOU,37.72,4,10,17,ORL,ORL,reb,0,False,False,MAGIC Rebound,,79-93,79,93
 0022000864,2021-04-18,ORL,HOU,37.75,4,10,15,ORL,ORL,tov,1,False,True,Hampton Bad Pass Turnover (P3.T14),,79-93,79,93
 0022000864,2021-04-18,ORL,HOU,37.75,4,10,15,ORL,HOU,steal,1,False,True,steal,steal,79-93,79,93
 0022000864,2021-04-18,ORL,HOU,37.83,4,10,10,HOU,HOU,tov,2,False,True,,Porter Jr. Lost Ball Turnover (P3.T16),79-93,79,93
@@ -420,8 +420,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000864,2021-04-18,ORL,HOU,46.83,4,1,10,ORL,ORL,reb,0,False,False,Bacon REBOUND (Off:1 Def:2),,105-108,105,108
 0022000864,2021-04-18,ORL,HOU,46.9,4,1,6,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 6 Short 0),,105-108,105,108
 0022000864,2021-04-18,ORL,HOU,47.08,4,0,55,ORL,ORL,fg_miss,44,True,False,MISS Harris 3' Reverse Layup,,105-108,105,108
-0022000864,2021-04-18,ORL,HOU,47.08,4,0,55,HOU,HOU,reb,0,False,False,,Rockets Rebound,105-108,105,108
 0022000864,2021-04-18,ORL,HOU,47.08,4,0,55,ORL,HOU,block,44,True,False,block,block,105-108,105,108
+0022000864,2021-04-18,ORL,HOU,47.08,4,0,55,HOU,HOU,reb,0,False,False,,Rockets Rebound,105-108,105,108
 0022000864,2021-04-18,ORL,HOU,47.35,4,0,39,HOU,HOU,fg_make,78,False,False,,Wood 10' Floating Jump Shot (25 PTS),105-110,105,110
 0022000864,2021-04-18,ORL,HOU,47.53,4,0,28,ORL,ORL,fg3_make,1,False,False,Anthony 27' 3PT Jump Shot (14 PTS) (Carter Jr. 1 AST),,108-110,108,110
 0022000864,2021-04-18,ORL,HOU,47.73,4,0,16,HOU,ORL,foul,28,False,False,Carter Jr. Personal Take Foul (P3.T4) (L.Richardson),,108-110,108,110

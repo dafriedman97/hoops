@@ -128,10 +128,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901289,2020-08-09,POR,PHI,11.77,1,0,14,PHI,PHI,fg_miss,47,False,False,,MISS Robinson III 5' Turnaround Jump Shot,33-19,33,19
 0021901289,2020-08-09,POR,PHI,11.78,1,0,13,POR,POR,reb,0,False,False,Hezonja REBOUND (Off:1 Def:3),,33-19,33,19
 0021901289,2020-08-09,POR,PHI,12.0,1,0,0,POR,POR,fg_miss,9,True,False,MISS Anthony 2' Driving Dunk,,33-19,33,19
+0021901289,2020-08-09,POR,PHI,12.0,1,0,0,POR,PHI,block,9,True,False,block,block,33-19,33,19
 0021901289,2020-08-09,POR,PHI,12.0,1,0,0,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,33-19,33,19
 0021901289,2020-08-09,POR,PHI,12.0,1,0,0,POR,,period_end,0,False,False,,,33-19,33,19
 0021901289,2020-08-09,POR,PHI,12.0,2,12,0,POR,,period_start,0,False,False,,,33-19,33,19
-0021901289,2020-08-09,POR,PHI,12.0,1,0,0,POR,PHI,block,9,True,False,block,block,33-19,33,19
 0021901289,2020-08-09,POR,PHI,12.28,2,11,43,PHI,PHI,fg_make,102,False,False,,Harris 6' Driving Floating Bank Jump Shot (4 PTS),33-21,33,21
 0021901289,2020-08-09,POR,PHI,12.55,2,11,27,POR,POR,fg_make,101,False,False,McCollum 9' Driving Floating Jump Shot (9 PTS),,35-21,35,21
 0021901289,2020-08-09,POR,PHI,12.77,2,11,14,PHI,PHI,tov,1,False,True,,Pelle Bad Pass Turnover (P1.T5),35-21,35,21
@@ -271,15 +271,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901289,2020-08-09,POR,PHI,28.52,3,7,29,POR,POR,fg_miss,86,False,False,MISS Anthony 14' Turnaround Fadeaway Shot,,79-71,79,71
 0021901289,2020-08-09,POR,PHI,28.53,3,7,28,POR,POR,reb,0,False,False,Collins REBOUND (Off:3 Def:3),,79-71,79,71
 0021901289,2020-08-09,POR,PHI,28.57,3,7,26,POR,POR,fg_miss,5,True,False,MISS Collins 1' Layup,,79-71,79,71
-0021901289,2020-08-09,POR,PHI,28.57,3,7,26,PHI,PHI,reb,0,False,False,,76ers Rebound,79-71,79,71
 0021901289,2020-08-09,POR,PHI,28.57,3,7,26,POR,PHI,block,5,True,False,block,block,79-71,79,71
+0021901289,2020-08-09,POR,PHI,28.57,3,7,26,PHI,PHI,reb,0,False,False,,76ers Rebound,79-71,79,71
 0021901289,2020-08-09,POR,PHI,28.87,3,7,8,PHI,PHI,tov,8,False,False,,Horford 3 Second Violation Turnover (P3.T11),79-71,79,71
 0021901289,2020-08-09,POR,PHI,29.07,3,6,56,POR,POR,fg_miss,6,False,False,MISS Lillard 5' Driving Layup,,79-71,79,71
 0021901289,2020-08-09,POR,PHI,29.1,3,6,54,PHI,PHI,reb,0,False,False,,76ers Rebound,79-71,79,71
 0021901289,2020-08-09,POR,PHI,29.1,3,6,54,POR,POR,timeout,1,False,False,TRAIL BLAZERS Timeout: Regular (Full 2 Short 0),,79-71,79,71
 0021901289,2020-08-09,POR,PHI,29.38,3,6,37,PHI,PHI,fg3_miss,1,False,False,,MISS Richardson 28' 3PT Jump Shot,79-71,79,71
-0021901289,2020-08-09,POR,PHI,29.48,3,6,31,PHI,PHI,fg_make,97,False,False,,Harris 1' Tip Layup Shot (14 PTS),79-73,79,73
 0021901289,2020-08-09,POR,PHI,29.48,3,6,31,PHI,PHI,reb,0,False,False,,Harris REBOUND (Off:2 Def:4),79-73,79,73
+0021901289,2020-08-09,POR,PHI,29.48,3,6,31,PHI,PHI,fg_make,97,False,False,,Harris 1' Tip Layup Shot (14 PTS),79-73,79,73
 0021901289,2020-08-09,POR,PHI,29.75,3,6,15,POR,POR,fg3_miss,79,False,False,MISS Lillard 29' 3PT Pullup Jump Shot,,79-73,79,73
 0021901289,2020-08-09,POR,PHI,29.8,3,6,12,PHI,PHI,reb,0,False,False,,Thybulle REBOUND (Off:3 Def:2),79-73,79,73
 0021901289,2020-08-09,POR,PHI,29.93,3,6,4,PHI,PHI,fg3_miss,1,False,False,,MISS Harris 25' 3PT Jump Shot,79-73,79,73
@@ -324,8 +324,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901289,2020-08-09,POR,PHI,34.65,3,1,21,POR,POR,fg_miss,6,False,False,MISS Trent Jr. 5' Driving Layup,,91-88,91,88
 0021901289,2020-08-09,POR,PHI,34.68,3,1,19,PHI,PHI,reb,0,False,False,,Burks REBOUND (Off:0 Def:2),91-88,91,88
 0021901289,2020-08-09,POR,PHI,34.77,3,1,14,PHI,PHI,fg_make,102,False,False,,Robinson III 9' Driving Floating Bank Jump Shot (4 PTS) (Burks 1 AST),91-90,91,90
-0021901289,2020-08-09,POR,PHI,34.95,3,1,3,POR,POR,tov,45,False,False,Lillard Out of Bounds - Bad Pass Turnover Turnover (P4.T8),,91-90,91,90
 0021901289,2020-08-09,POR,PHI,34.95,3,1,3,PHI,PHI,timeout,7,False,False,,76ers Timeout: Coach Challenge (Reg.3 Short 0),91-90,91,90
+0021901289,2020-08-09,POR,PHI,34.95,3,1,3,POR,POR,tov,45,False,False,Lillard Out of Bounds - Bad Pass Turnover Turnover (P4.T8),,91-90,91,90
 0021901289,2020-08-09,POR,PHI,35.12,3,0,53,PHI,PHI,tov,15,False,False,,Richardson Offensive Goaltending Turnover (P2.T14),91-90,91,90
 0021901289,2020-08-09,POR,PHI,35.28,3,0,43,POR,POR,fg3_miss,1,False,False,MISS Anthony 3PT Jump Shot,,91-90,91,90
 0021901289,2020-08-09,POR,PHI,35.32,3,0,41,PHI,PHI,reb,0,False,False,,76ers Rebound,91-90,91,90
@@ -410,8 +410,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901289,2020-08-09,POR,PHI,43.27,4,4,44,POR,POR,fg_make,108,False,False,Lillard 2' Cutting Dunk Shot (42 PTS) (Nurkic 3 AST),,108-111,108,111
 0021901289,2020-08-09,POR,PHI,43.27,4,4,44,PHI,PHI,timeout,1,False,False,,76ers Timeout: Regular (Reg.4 Short 0),108-111,108,111
 0021901289,2020-08-09,POR,PHI,43.58,4,4,25,PHI,PHI,fg_miss,73,True,False,,MISS Burks 4' Driving Reverse Layup,108-111,108,111
-0021901289,2020-08-09,POR,PHI,43.58,4,4,25,PHI,PHI,reb,0,False,False,,76ers Rebound,108-111,108,111
 0021901289,2020-08-09,POR,PHI,43.58,4,4,25,PHI,POR,block,73,True,False,block,block,108-111,108,111
+0021901289,2020-08-09,POR,PHI,43.58,4,4,25,PHI,PHI,reb,0,False,False,,76ers Rebound,108-111,108,111
 0021901289,2020-08-09,POR,PHI,43.62,4,4,23,PHI,PHI,fg3_make,1,False,False,,Richardson 29' 3PT Jump Shot (34 PTS) (Burks 2 AST),108-114,108,114
 0021901289,2020-08-09,POR,PHI,43.87,4,4,8,POR,POR,fg3_make,1,False,False,Anthony 24' 3PT Jump Shot (20 PTS) (McCollum 4 AST),,111-114,111,114
 0021901289,2020-08-09,POR,PHI,43.88,4,4,7,PHI,PHI,timeout,1,False,False,,76ers Timeout: Regular (Reg.5 Short 0),111-114,111,114

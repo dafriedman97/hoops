@@ -114,8 +114,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700501,2017-12-26,MIL,CHI,13.47,2,10,32,CHI,CHI,fg_make,1,False,False,,Mirotic 21' Jump Shot (7 PTS) (Zipser 1 AST),33-26,33,26
 0021700501,2017-12-26,MIL,CHI,13.63,2,10,22,MIL,MIL,fg_make,98,False,False,Brogdon 1' Cutting Layup Shot (6 PTS) (Dellavedova 2 AST),,35-26,35,26
 0021700501,2017-12-26,MIL,CHI,13.95,2,10,3,CHI,CHI,fg_miss,101,True,False,,MISS Zipser 7' Driving Floating Jump Shot,35-26,35,26
-0021700501,2017-12-26,MIL,CHI,13.95,2,10,3,MIL,MIL,reb,0,False,False,Liggins REBOUND (Off:0 Def:1),,35-26,35,26
 0021700501,2017-12-26,MIL,CHI,13.95,2,10,3,CHI,MIL,block,101,True,False,block,block,35-26,35,26
+0021700501,2017-12-26,MIL,CHI,13.95,2,10,3,MIL,MIL,reb,0,False,False,Liggins REBOUND (Off:0 Def:1),,35-26,35,26
 0021700501,2017-12-26,MIL,CHI,14.07,2,9,56,MIL,MIL,fg_miss,101,False,False,MISS Middleton 13' Driving Floating Jump Shot,,35-26,35,26
 0021700501,2017-12-26,MIL,CHI,14.18,2,9,49,CHI,CHI,reb,0,False,False,,Mirotic REBOUND (Off:1 Def:2),35-26,35,26
 0021700501,2017-12-26,MIL,CHI,14.27,2,9,44,CHI,MIL,foul,1,False,False,Liggins P.FOUL (P1.T1) (E.Malloy),,35-26,35,26
@@ -261,16 +261,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700501,2017-12-26,MIL,CHI,27.78,3,8,13,MIL,MIL,reb,0,False,False,Snell REBOUND (Off:0 Def:3),,61-66,61,66
 0021700501,2017-12-26,MIL,CHI,27.93,3,8,4,MIL,CHI,foul,3,False,False,,Dunn L.B.FOUL (P2.T2) (T.Ford),61-66,61,66
 0021700501,2017-12-26,MIL,CHI,28.17,3,7,50,MIL,MIL,fg_miss,6,False,False,MISS Middleton 6' Driving Layup,,61-66,61,66
-0021700501,2017-12-26,MIL,CHI,28.18,3,7,49,MIL,MIL,reb,0,False,False,BUCKS Rebound,,61-66,61,66
 0021700501,2017-12-26,MIL,CHI,28.18,3,7,49,MIL,MIL,tov,11,False,False,BUCKS Turnover: Shot Clock (T#14),,61-66,61,66
+0021700501,2017-12-26,MIL,CHI,28.18,3,7,49,MIL,MIL,reb,0,False,False,BUCKS Rebound,,61-66,61,66
 0021700501,2017-12-26,MIL,CHI,28.37,3,7,38,CHI,CHI,fg_miss,5,False,False,,MISS Lopez 3' Layup,61-66,61,66
 0021700501,2017-12-26,MIL,CHI,28.37,3,7,38,CHI,CHI,reb,0,False,False,,Markkanen REBOUND (Off:2 Def:4),61-66,61,66
 0021700501,2017-12-26,MIL,CHI,28.37,3,7,38,CHI,CHI,fg_miss,5,True,False,,MISS Markkanen 2' Layup,61-66,61,66
-0021700501,2017-12-26,MIL,CHI,28.37,3,7,38,CHI,CHI,reb,0,False,False,,Bulls Rebound,61-66,61,66
 0021700501,2017-12-26,MIL,CHI,28.37,3,7,38,CHI,MIL,block,5,True,False,block,block,61-66,61,66
+0021700501,2017-12-26,MIL,CHI,28.37,3,7,38,CHI,CHI,reb,0,False,False,,Bulls Rebound,61-66,61,66
 0021700501,2017-12-26,MIL,CHI,28.58,3,7,25,CHI,CHI,fg_miss,5,True,False,,MISS Holiday 7' Layup,61-66,61,66
-0021700501,2017-12-26,MIL,CHI,28.58,3,7,25,MIL,MIL,reb,0,False,False,Henson REBOUND (Off:2 Def:4),,61-66,61,66
 0021700501,2017-12-26,MIL,CHI,28.58,3,7,25,CHI,MIL,block,5,True,False,block,block,61-66,61,66
+0021700501,2017-12-26,MIL,CHI,28.58,3,7,25,MIL,MIL,reb,0,False,False,Henson REBOUND (Off:2 Def:4),,61-66,61,66
 0021700501,2017-12-26,MIL,CHI,28.65,3,7,21,MIL,MIL,fg_make,7,False,False,Antetokounmpo 1' Dunk (22 PTS) (Bledsoe 3 AST),,63-66,63,66
 0021700501,2017-12-26,MIL,CHI,28.9,3,7,6,CHI,MIL,foul,2,False,False,Middleton S.FOUL (P2.T1) (T.Ford),,63-66,63,66
 0021700501,2017-12-26,MIL,CHI,28.9,3,7,6,CHI,CHI,ft_make,11,False,False,,Holiday Free Throw 1 of 2 (6 PTS),63-67,63,67
@@ -316,8 +316,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700501,2017-12-26,MIL,CHI,32.67,3,3,20,CHI,MIL,foul,4,False,False,Dellavedova OFF.Foul (P1) (V.Voyard-Tadal),,76-74,76,74
 0021700501,2017-12-26,MIL,CHI,32.67,3,3,20,MIL,MIL,tov,37,False,False,Dellavedova Offensive Foul Turnover (P2.T15),,76-74,76,74
 0021700501,2017-12-26,MIL,CHI,32.9,3,3,6,CHI,CHI,fg_miss,6,True,False,,MISS Mirotic Driving Layup,76-74,76,74
-0021700501,2017-12-26,MIL,CHI,32.9,3,3,6,CHI,CHI,reb,0,False,False,,Bulls Rebound,76-74,76,74
 0021700501,2017-12-26,MIL,CHI,32.9,3,3,6,CHI,MIL,block,6,True,False,block,block,76-74,76,74
+0021700501,2017-12-26,MIL,CHI,32.9,3,3,6,CHI,CHI,reb,0,False,False,,Bulls Rebound,76-74,76,74
 0021700501,2017-12-26,MIL,CHI,33.07,3,2,56,CHI,CHI,fg_miss,1,False,False,,MISS Mirotic 8' Jump Shot,76-74,76,74
 0021700501,2017-12-26,MIL,CHI,33.12,3,2,53,CHI,CHI,reb,0,False,False,,Portis REBOUND (Off:2 Def:2),76-74,76,74
 0021700501,2017-12-26,MIL,CHI,33.22,3,2,47,CHI,CHI,fg_make,1,False,False,,Mirotic 16' Jump Shot (13 PTS) (Nwaba 1 AST),76-76,76,76
@@ -382,8 +382,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700501,2017-12-26,MIL,CHI,41.0,4,7,0,MIL,MIL,reb,0,False,False,Brogdon REBOUND (Off:1 Def:5),,92-98,92,98
 0021700501,2017-12-26,MIL,CHI,41.0,4,7,0,MIL,MIL,timeout,1,False,False,BUCKS Timeout: Regular (Full 4 Short 0),,92-98,92,98
 0021700501,2017-12-26,MIL,CHI,41.22,4,6,47,MIL,MIL,fg_miss,6,True,False,MISS Bledsoe 2' Driving Layup,,92-98,92,98
-0021700501,2017-12-26,MIL,CHI,41.22,4,6,47,MIL,MIL,reb,0,False,False,BUCKS Rebound,,92-98,92,98
 0021700501,2017-12-26,MIL,CHI,41.22,4,6,47,MIL,CHI,block,6,True,False,block,block,92-98,92,98
+0021700501,2017-12-26,MIL,CHI,41.22,4,6,47,MIL,MIL,reb,0,False,False,BUCKS Rebound,,92-98,92,98
 0021700501,2017-12-26,MIL,CHI,41.4,4,6,36,MIL,MIL,fg_miss,1,False,False,MISS Antetokounmpo 20' Jump Shot,,92-98,92,98
 0021700501,2017-12-26,MIL,CHI,41.43,4,6,34,CHI,CHI,reb,0,False,False,,Nwaba REBOUND (Off:1 Def:3),92-98,92,98
 0021700501,2017-12-26,MIL,CHI,41.7,4,6,18,CHI,CHI,fg_miss,79,False,False,,MISS Valentine 14' Pullup Jump Shot,92-98,92,98
@@ -437,8 +437,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700501,2017-12-26,MIL,CHI,46.55,4,1,27,CHI,CHI,fg_miss,63,False,False,,MISS Holiday 9' Fadeaway Jumper,101-109,101,109
 0021700501,2017-12-26,MIL,CHI,46.55,4,1,27,CHI,CHI,reb,0,False,False,,Portis REBOUND (Off:3 Def:3),101-109,101,109
 0021700501,2017-12-26,MIL,CHI,46.6,4,1,24,CHI,CHI,fg_miss,5,True,False,,MISS Portis 5' Layup,101-109,101,109
-0021700501,2017-12-26,MIL,CHI,46.6,4,1,24,MIL,MIL,reb,0,False,False,Snell REBOUND (Off:0 Def:7),,101-109,101,109
 0021700501,2017-12-26,MIL,CHI,46.6,4,1,24,CHI,MIL,block,5,True,False,block,block,101-109,101,109
+0021700501,2017-12-26,MIL,CHI,46.6,4,1,24,MIL,MIL,reb,0,False,False,Snell REBOUND (Off:0 Def:7),,101-109,101,109
 0021700501,2017-12-26,MIL,CHI,46.78,4,1,13,MIL,MIL,fg3_miss,1,False,False,MISS Brogdon 25' 3PT Jump Shot,,101-109,101,109
 0021700501,2017-12-26,MIL,CHI,46.82,4,1,11,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:1 Def:6),,101-109,101,109
 0021700501,2017-12-26,MIL,CHI,46.82,4,1,11,MIL,MIL,fg3_make,1,False,False,Middleton 27' 3PT Jump Shot (16 PTS) (Antetokounmpo 4 AST),,104-109,104,109

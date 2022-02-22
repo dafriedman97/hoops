@@ -39,8 +39,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800030,2018-10-20,MIA,CHA,4.37,1,7,38,CHA,MIA,foul,2,False,False,Whiteside S.FOUL (P1.T1) (J.Orr),,15-8,15,8
 0021800030,2018-10-20,MIA,CHA,4.37,1,7,38,CHA,CHA,ft_make,10,False,False,,Zeller Free Throw 1 of 1 (3 PTS),15-9,15,9
 0021800030,2018-10-20,MIA,CHA,4.67,1,7,20,MIA,MIA,fg_miss,1,True,False,MISS Jones Jr. 8' Jump Shot,,15-9,15,9
-0021800030,2018-10-20,MIA,CHA,4.67,1,7,20,CHA,CHA,reb,0,False,False,,Williams REBOUND (Off:0 Def:2),15-9,15,9
 0021800030,2018-10-20,MIA,CHA,4.67,1,7,20,MIA,CHA,block,1,True,False,block,block,15-9,15,9
+0021800030,2018-10-20,MIA,CHA,4.67,1,7,20,CHA,CHA,reb,0,False,False,,Williams REBOUND (Off:0 Def:2),15-9,15,9
 0021800030,2018-10-20,MIA,CHA,4.78,1,7,13,CHA,CHA,fg3_make,1,False,False,,Batum 3PT Jump Shot (3 PTS) (Walker 3 AST),15-12,15,12
 0021800030,2018-10-20,MIA,CHA,4.98,1,7,1,MIA,MIA,tov,1,False,True,Richardson Bad Pass Turnover (P1.T1),,15-12,15,12
 0021800030,2018-10-20,MIA,CHA,4.98,1,7,1,MIA,CHA,steal,1,False,True,steal,steal,15-12,15,12
@@ -131,8 +131,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800030,2018-10-20,MIA,CHA,14.17,2,9,50,CHA,MIA,block,6,True,False,block,block,33-38,33,38
 0021800030,2018-10-20,MIA,CHA,14.2,2,9,48,MIA,MIA,reb,0,False,False,Wade REBOUND (Off:0 Def:1),,33-38,33,38
 0021800030,2018-10-20,MIA,CHA,14.23,2,9,46,MIA,MIA,fg_miss,41,True,False,MISS Richardson 2' Running Layup,,33-38,33,38
-0021800030,2018-10-20,MIA,CHA,14.23,2,9,46,MIA,MIA,reb,0,False,False,HEAT Rebound,,33-38,33,38
 0021800030,2018-10-20,MIA,CHA,14.23,2,9,46,MIA,CHA,block,41,True,False,block,block,33-38,33,38
+0021800030,2018-10-20,MIA,CHA,14.23,2,9,46,MIA,MIA,reb,0,False,False,HEAT Rebound,,33-38,33,38
 0021800030,2018-10-20,MIA,CHA,14.35,2,9,39,MIA,MIA,fg_miss,43,False,False,MISS Adebayo 1' Alley Oop Layup,,33-38,33,38
 0021800030,2018-10-20,MIA,CHA,14.4,2,9,36,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:1 Def:2),,33-38,33,38
 0021800030,2018-10-20,MIA,CHA,14.47,2,9,32,MIA,MIA,fg_miss,97,True,False,MISS Adebayo 3' Tip Layup Shot,,33-38,33,38
@@ -233,8 +233,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800030,2018-10-20,MIA,CHA,24.53,3,11,28,MIA,MIA,fg3_miss,1,False,False,MISS Jones Jr. 3PT Jump Shot,,52-72,52,72
 0021800030,2018-10-20,MIA,CHA,24.58,3,11,25,MIA,MIA,reb,0,False,False,McGruder REBOUND (Off:2 Def:4),,52-72,52,72
 0021800030,2018-10-20,MIA,CHA,24.77,3,11,14,MIA,MIA,fg3_miss,1,False,False,MISS Richardson 3PT Jump Shot,,52-72,52,72
-0021800030,2018-10-20,MIA,CHA,24.78,3,11,13,MIA,MIA,reb,0,False,False,HEAT Rebound,,52-72,52,72
 0021800030,2018-10-20,MIA,CHA,24.78,3,11,13,MIA,MIA,tov,11,False,False,HEAT Turnover: Shot Clock (T#10),,52-72,52,72
+0021800030,2018-10-20,MIA,CHA,24.78,3,11,13,MIA,MIA,reb,0,False,False,HEAT Rebound,,52-72,52,72
 0021800030,2018-10-20,MIA,CHA,25.18,3,10,49,CHA,CHA,tov,11,False,False,,Hornets Turnover: Shot Clock (T#6),52-72,52,72
 0021800030,2018-10-20,MIA,CHA,25.38,3,10,37,MIA,MIA,tov,1,False,True,McGruder Bad Pass Turnover (P2.T11),,52-72,52,72
 0021800030,2018-10-20,MIA,CHA,25.38,3,10,37,MIA,CHA,steal,1,False,True,steal,steal,52-72,52,72
@@ -308,8 +308,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800030,2018-10-20,MIA,CHA,31.9,3,4,6,CHA,MIA,block,98,True,False,block,block,65-86,65,86
 0021800030,2018-10-20,MIA,CHA,31.97,3,4,2,MIA,MIA,reb,0,False,False,Whiteside REBOUND (Off:2 Def:5),,65-86,65,86
 0021800030,2018-10-20,MIA,CHA,31.97,3,4,2,MIA,MIA,tov,1,False,True,Wade Bad Pass Turnover (P3.T14),,65-86,65,86
-0021800030,2018-10-20,MIA,CHA,31.97,3,4,2,CHA,MIA,foul,1,False,False,Wade P.FOUL (P4.T3) (S.Wall),,65-86,65,86
 0021800030,2018-10-20,MIA,CHA,31.97,3,4,2,MIA,CHA,steal,1,False,True,steal,steal,65-86,65,86
+0021800030,2018-10-20,MIA,CHA,31.97,3,4,2,CHA,MIA,foul,1,False,False,Wade P.FOUL (P4.T3) (S.Wall),,65-86,65,86
 0021800030,2018-10-20,MIA,CHA,32.25,3,3,45,CHA,CHA,fg3_miss,1,False,False,,MISS Batum 26' 3PT Jump Shot,65-86,65,86
 0021800030,2018-10-20,MIA,CHA,32.28,3,3,43,MIA,MIA,reb,0,False,False,Whiteside REBOUND (Off:2 Def:6),,65-86,65,86
 0021800030,2018-10-20,MIA,CHA,32.42,3,3,35,MIA,MIA,fg_make,78,False,False,Jones Jr. 9' Floating Jump Shot (12 PTS) (Dragic 5 AST),,67-86,67,86
@@ -343,8 +343,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800030,2018-10-20,MIA,CHA,35.85,3,0,9,CHA,CHA,fg3_miss,1,False,False,,MISS Monk 3PT Jump Shot,81-92,81,92
 0021800030,2018-10-20,MIA,CHA,35.92,3,0,5,MIA,MIA,reb,0,False,False,Whiteside REBOUND (Off:2 Def:9),,81-92,81,92
 0021800030,2018-10-20,MIA,CHA,35.98,3,0,1,MIA,MIA,fg_miss,1,True,False,MISS McGruder 2' Jump Shot,,81-92,81,92
-0021800030,2018-10-20,MIA,CHA,35.98,3,0,1,MIA,MIA,reb,0,False,False,Whiteside REBOUND (Off:3 Def:9),,81-92,81,92
 0021800030,2018-10-20,MIA,CHA,35.98,3,0,1,MIA,CHA,block,1,True,False,block,block,81-92,81,92
+0021800030,2018-10-20,MIA,CHA,35.98,3,0,1,MIA,MIA,reb,0,False,False,Whiteside REBOUND (Off:3 Def:9),,81-92,81,92
 0021800030,2018-10-20,MIA,CHA,36.0,3,0,0,MIA,CHA,foul,2,False,False,,Kidd-Gilchrist S.FOUL (P2.PN) (J.Orr),81-92,81,92
 0021800030,2018-10-20,MIA,CHA,36.0,3,0,0,MIA,MIA,ft_miss,11,False,False,MISS Whiteside Free Throw 1 of 2,,81-92,81,92
 0021800030,2018-10-20,MIA,CHA,36.0,3,0,0,MIA,MIA,reb,1,False,False,HEAT Rebound,,81-92,81,92
@@ -358,8 +358,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800030,2018-10-20,MIA,CHA,36.47,4,11,32,CHA,MIA,block,6,True,False,block,block,84-92,84,92
 0021800030,2018-10-20,MIA,CHA,36.52,4,11,29,MIA,MIA,reb,0,False,False,Jones Jr. REBOUND (Off:0 Def:2),,84-92,84,92
 0021800030,2018-10-20,MIA,CHA,36.53,4,11,28,MIA,MIA,fg_miss,41,True,False,MISS Jones Jr. 2' Running Layup,,84-92,84,92
-0021800030,2018-10-20,MIA,CHA,36.53,4,11,28,MIA,MIA,reb,0,False,False,HEAT Rebound,,84-92,84,92
 0021800030,2018-10-20,MIA,CHA,36.53,4,11,28,MIA,CHA,block,41,True,False,block,block,84-92,84,92
+0021800030,2018-10-20,MIA,CHA,36.53,4,11,28,MIA,MIA,reb,0,False,False,HEAT Rebound,,84-92,84,92
 0021800030,2018-10-20,MIA,CHA,36.6,4,11,24,MIA,MIA,fg3_miss,1,False,False,MISS Dragic 26' 3PT Jump Shot,,84-92,84,92
 0021800030,2018-10-20,MIA,CHA,36.63,4,11,22,MIA,MIA,reb,0,False,False,Johnson REBOUND (Off:1 Def:0),,84-92,84,92
 0021800030,2018-10-20,MIA,CHA,36.75,4,11,15,MIA,MIA,fg_make,52,False,False,Adebayo 1' Alley Oop Dunk (6 PTS) (Dragic 6 AST),,86-92,86,92
@@ -377,8 +377,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800030,2018-10-20,MIA,CHA,38.68,4,9,19,MIA,MIA,fg_miss,78,False,False,MISS McGruder 10' Floating Jump Shot,,86-94,86,94
 0021800030,2018-10-20,MIA,CHA,38.75,4,9,15,CHA,CHA,reb,0,False,False,,Walker REBOUND (Off:0 Def:4),86-94,86,94
 0021800030,2018-10-20,MIA,CHA,38.83,4,9,10,CHA,CHA,fg_miss,5,True,False,,MISS Walker 2' Layup,86-94,86,94
-0021800030,2018-10-20,MIA,CHA,38.83,4,9,10,MIA,MIA,reb,0,False,False,HEAT Rebound,,86-94,86,94
 0021800030,2018-10-20,MIA,CHA,38.83,4,9,10,CHA,MIA,block,5,True,False,block,block,86-94,86,94
+0021800030,2018-10-20,MIA,CHA,38.83,4,9,10,MIA,MIA,reb,0,False,False,HEAT Rebound,,86-94,86,94
 0021800030,2018-10-20,MIA,CHA,39.07,4,8,56,MIA,MIA,fg_miss,1,False,False,MISS Dragic 4' Jump Shot,,86-94,86,94
 0021800030,2018-10-20,MIA,CHA,39.15,4,8,51,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:2 Def:2),,86-94,86,94
 0021800030,2018-10-20,MIA,CHA,39.15,4,8,51,MIA,MIA,fg_make,97,False,False,Adebayo 1' Tip Layup Shot (8 PTS),,88-94,88,94
@@ -448,8 +448,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800030,2018-10-20,MIA,CHA,45.57,4,2,26,MIA,MIA,ft_make,11,False,False,Whiteside Free Throw 1 of 2 (10 PTS),,106-110,106,110
 0021800030,2018-10-20,MIA,CHA,45.57,4,2,26,MIA,MIA,ft_make,12,False,False,Whiteside Free Throw 2 of 2 (11 PTS),,107-110,107,110
 0021800030,2018-10-20,MIA,CHA,45.88,4,2,7,CHA,CHA,fg_miss,1,True,False,,MISS Kidd-Gilchrist 9' Jump Shot,107-110,107,110
-0021800030,2018-10-20,MIA,CHA,45.88,4,2,7,CHA,CHA,reb,0,False,False,,Hornets Rebound,107-110,107,110
 0021800030,2018-10-20,MIA,CHA,45.88,4,2,7,CHA,MIA,block,1,True,False,block,block,107-110,107,110
+0021800030,2018-10-20,MIA,CHA,45.88,4,2,7,CHA,CHA,reb,0,False,False,,Hornets Rebound,107-110,107,110
 0021800030,2018-10-20,MIA,CHA,45.92,4,2,5,CHA,MIA,foul,2,False,False,Wade S.FOUL (P5.PN) (J.Orr),,107-110,107,110
 0021800030,2018-10-20,MIA,CHA,45.92,4,2,5,CHA,CHA,ft_make,11,False,False,,Williams Free Throw 1 of 2 (13 PTS),107-111,107,111
 0021800030,2018-10-20,MIA,CHA,45.92,4,2,5,CHA,CHA,ft_miss,12,False,False,,MISS Williams Free Throw 2 of 2,107-111,107,111
@@ -463,9 +463,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800030,2018-10-20,MIA,CHA,46.68,4,1,19,MIA,MIA,fg3_miss,1,False,False,MISS Wade 25' 3PT Jump Shot,,107-111,107,111
 0021800030,2018-10-20,MIA,CHA,46.7,4,1,18,CHA,CHA,reb,0,False,False,,Kidd-Gilchrist REBOUND (Off:1 Def:2),107-111,107,111
 0021800030,2018-10-20,MIA,CHA,46.7,4,1,18,MIA,CHA,foul,3,False,False,,Kidd-Gilchrist L.B.FOUL (P5.PN) (J.Orr),107-111,107,111
-0021800030,2018-10-20,MIA,CHA,46.7,4,1,18,CHA,CHA,tov,0,False,False,,Kidd-Gilchrist No Turnover (P3.T12),107-111,107,111
 0021800030,2018-10-20,MIA,CHA,46.7,4,1,18,CHA,MIA,ft_make,11,False,False,McGruder Free Throw 1 of 2 (17 PTS),,108-111,108,111
 0021800030,2018-10-20,MIA,CHA,46.7,4,1,18,MIA,MIA,ft_miss,12,False,False,MISS McGruder Free Throw 2 of 2,,108-111,108,111
+0021800030,2018-10-20,MIA,CHA,46.7,4,1,18,CHA,CHA,tov,0,False,False,,Kidd-Gilchrist No Turnover (P3.T12),107-111,107,111
 0021800030,2018-10-20,MIA,CHA,46.73,4,1,16,MIA,MIA,reb,0,False,False,HEAT Rebound,,108-111,108,111
 0021800030,2018-10-20,MIA,CHA,46.73,4,1,16,MIA,CHA,foul,3,False,False,,Batum L.B.FOUL (P3.PN) (S.Wall),108-111,108,111
 0021800030,2018-10-20,MIA,CHA,46.73,4,1,16,MIA,MIA,ft_miss,11,False,False,MISS Whiteside Free Throw 1 of 2,,108-111,108,111

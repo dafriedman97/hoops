@@ -68,16 +68,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900284,2019-12-01,BKN,MIA,7.2,1,4,48,BKN,BKN,fg_make,41,False,False,Harris 1' Running Layup (9 PTS) (Dinwiddie 1 AST),,20-16,20,16
 0021900284,2019-12-01,BKN,MIA,7.2,1,4,48,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.1 Short 0),20-16,20,16
 0021900284,2019-12-01,BKN,MIA,7.48,1,4,31,MIA,MIA,fg_miss,6,True,False,,MISS Butler 8' Driving Layup,20-16,20,16
-0021900284,2019-12-01,BKN,MIA,7.48,1,4,31,BKN,BKN,reb,0,False,False,NETS Rebound,,20-16,20,16
 0021900284,2019-12-01,BKN,MIA,7.48,1,4,31,MIA,BKN,block,6,True,False,block,block,20-16,20,16
+0021900284,2019-12-01,BKN,MIA,7.48,1,4,31,BKN,BKN,reb,0,False,False,NETS Rebound,,20-16,20,16
 0021900284,2019-12-01,BKN,MIA,7.68,1,4,19,BKN,BKN,fg3_make,79,False,False,Prince 25' 3PT Pullup Jump Shot (3 PTS),,23-16,23,16
 0021900284,2019-12-01,BKN,MIA,7.95,1,4,3,MIA,MIA,fg_miss,101,False,False,,MISS Winslow 21' Driving Floating Jump Shot,23-16,23,16
 0021900284,2019-12-01,BKN,MIA,7.95,1,4,3,MIA,MIA,reb,0,False,False,,Winslow REBOUND (Off:1 Def:0),23-16,23,16
 0021900284,2019-12-01,BKN,MIA,8.05,1,3,57,MIA,MIA,fg3_make,1,False,False,,Dragic 26' 3PT Jump Shot (3 PTS) (Winslow 1 AST),23-19,23,19
 0021900284,2019-12-01,BKN,MIA,8.33,1,3,40,BKN,BKN,fg_make,75,False,False,Prince 2' Driving Finger Roll Layup (5 PTS) (Musa 1 AST),,25-19,25,19
 0021900284,2019-12-01,BKN,MIA,8.47,1,3,32,MIA,MIA,tov,1,False,True,,Dragic Bad Pass Turnover (P1.T1),25-19,25,19
-0021900284,2019-12-01,BKN,MIA,8.47,1,3,32,BKN,MIA,foul,3,False,False,,Winslow L.B.FOUL (P1.T3) (Z.Zarba),25-19,25,19
 0021900284,2019-12-01,BKN,MIA,8.47,1,3,32,MIA,BKN,steal,1,False,True,steal,steal,25-19,25,19
+0021900284,2019-12-01,BKN,MIA,8.47,1,3,32,BKN,MIA,foul,3,False,False,,Winslow L.B.FOUL (P1.T3) (Z.Zarba),25-19,25,19
 0021900284,2019-12-01,BKN,MIA,8.73,1,3,16,BKN,BKN,fg_miss,79,False,False,MISS Shumpert 19' Pullup Jump Shot,,25-19,25,19
 0021900284,2019-12-01,BKN,MIA,8.73,1,3,16,MIA,MIA,reb,0,False,False,,Heat Rebound,25-19,25,19
 0021900284,2019-12-01,BKN,MIA,8.73,1,3,16,MIA,BKN,foul,3,False,False,Jordan L.B.FOUL (P1.T3) (H.Workman),,25-19,25,19
@@ -174,8 +174,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900284,2019-12-01,BKN,MIA,18.45,2,5,33,MIA,MIA,fg_miss,75,False,False,,MISS Dragic 5' Driving Finger Roll Layup,47-47,47,47
 0021900284,2019-12-01,BKN,MIA,18.5,2,5,30,MIA,MIA,reb,0,False,False,,Butler REBOUND (Off:1 Def:2),47-47,47,47
 0021900284,2019-12-01,BKN,MIA,18.52,2,5,29,MIA,MIA,fg_miss,72,True,False,,MISS Butler 4' Putback Layup,47-47,47,47
-0021900284,2019-12-01,BKN,MIA,18.52,2,5,29,MIA,MIA,reb,0,False,False,,Dragic REBOUND (Off:1 Def:1),47-47,47,47
 0021900284,2019-12-01,BKN,MIA,18.52,2,5,29,MIA,BKN,block,72,True,False,block,block,47-47,47,47
+0021900284,2019-12-01,BKN,MIA,18.52,2,5,29,MIA,MIA,reb,0,False,False,,Dragic REBOUND (Off:1 Def:1),47-47,47,47
 0021900284,2019-12-01,BKN,MIA,18.58,2,5,25,MIA,MIA,fg_make,72,False,False,,Dragic 3' Putback Layup (17 PTS),47-49,47,49
 0021900284,2019-12-01,BKN,MIA,18.82,2,5,11,BKN,BKN,fg3_miss,1,False,False,MISS Temple 3PT Jump Shot,,47-49,47,49
 0021900284,2019-12-01,BKN,MIA,18.88,2,5,7,BKN,BKN,reb,0,False,False,Jordan REBOUND (Off:1 Def:5),,47-49,47,49
@@ -206,8 +206,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900284,2019-12-01,BKN,MIA,20.82,2,3,11,MIA,BKN,foul,1,False,False,Allen P.FOUL (P2.T4) (Z.Zarba),,52-53,52,53
 0021900284,2019-12-01,BKN,MIA,20.87,2,3,8,MIA,MIA,tov,45,False,False,,Adebayo Out of Bounds - Bad Pass Turnover Turnover (P1.T2),52-53,52,53
 0021900284,2019-12-01,BKN,MIA,21.22,2,2,47,BKN,BKN,fg_miss,6,False,False,MISS Harris 3' Driving Layup,,52-53,52,53
-0021900284,2019-12-01,BKN,MIA,21.3,2,2,42,BKN,BKN,fg_make,97,False,False,Allen 1' Tip Layup Shot (4 PTS),,54-53,54,53
 0021900284,2019-12-01,BKN,MIA,21.3,2,2,42,BKN,BKN,reb,0,False,False,Allen REBOUND (Off:2 Def:4),,54-53,54,53
+0021900284,2019-12-01,BKN,MIA,21.3,2,2,42,BKN,BKN,fg_make,97,False,False,Allen 1' Tip Layup Shot (4 PTS),,54-53,54,53
 0021900284,2019-12-01,BKN,MIA,21.45,2,2,33,MIA,MIA,fg_miss,5,False,False,,MISS Adebayo 3' Layup,54-53,54,53
 0021900284,2019-12-01,BKN,MIA,21.48,2,2,31,BKN,BKN,reb,0,False,False,Allen REBOUND (Off:2 Def:5),,54-53,54,53
 0021900284,2019-12-01,BKN,MIA,21.55,2,2,27,BKN,BKN,fg3_make,103,False,False,Dinwiddie 26' 3PT Running Pull-Up Jump Shot (16 PTS),,57-53,57,53
@@ -318,8 +318,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900284,2019-12-01,BKN,MIA,34.53,3,1,28,MIA,MIA,tov,45,False,False,,Winslow Out of Bounds - Bad Pass Turnover Turnover (P1.T6),79-81,79,81
 0021900284,2019-12-01,BKN,MIA,34.75,3,1,15,BKN,BKN,fg_miss,5,True,False,MISS Jordan 7' Layup,,79-81,79,81
 0021900284,2019-12-01,BKN,MIA,34.75,3,1,15,BKN,MIA,block,5,True,False,block,block,79-81,79,81
-0021900284,2019-12-01,BKN,MIA,34.88,3,1,7,BKN,BKN,fg_make,72,False,False,Jordan 1' Putback Layup (13 PTS),,81-81,81,81
 0021900284,2019-12-01,BKN,MIA,34.88,3,1,7,BKN,BKN,reb,0,False,False,Jordan REBOUND (Off:2 Def:5),,81-81,81,81
+0021900284,2019-12-01,BKN,MIA,34.88,3,1,7,BKN,BKN,fg_make,72,False,False,Jordan 1' Putback Layup (13 PTS),,81-81,81,81
 0021900284,2019-12-01,BKN,MIA,35.07,3,0,56,MIA,MIA,fg_make,79,False,False,,Herro 16' Pullup Jump Shot (4 PTS),81-83,81,83
 0021900284,2019-12-01,BKN,MIA,35.42,3,0,35,BKN,BKN,fg_miss,79,False,False,MISS Pinson 14' Pullup Jump Shot,,81-83,81,83
 0021900284,2019-12-01,BKN,MIA,35.47,3,0,32,MIA,MIA,reb,0,False,False,,Robinson REBOUND (Off:0 Def:7),81-83,81,83
@@ -378,8 +378,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900284,2019-12-01,BKN,MIA,41.68,4,6,19,MIA,MIA,ft_make,12,False,False,,Winslow Free Throw 2 of 2 (8 PTS),95-92,95,92
 0021900284,2019-12-01,BKN,MIA,41.97,4,6,2,BKN,BKN,fg3_make,79,False,False,Harris 25' 3PT Pullup Jump Shot (22 PTS) (Allen 2 AST),,98-92,98,92
 0021900284,2019-12-01,BKN,MIA,42.25,4,5,45,MIA,MIA,fg_miss,6,True,False,,MISS Winslow 5' Driving Layup,98-92,98,92
-0021900284,2019-12-01,BKN,MIA,42.25,4,5,45,MIA,MIA,reb,0,False,False,,Heat Rebound,98-92,98,92
 0021900284,2019-12-01,BKN,MIA,42.25,4,5,45,MIA,BKN,block,6,True,False,block,block,98-92,98,92
+0021900284,2019-12-01,BKN,MIA,42.25,4,5,45,MIA,MIA,reb,0,False,False,,Heat Rebound,98-92,98,92
 0021900284,2019-12-01,BKN,MIA,42.28,4,5,43,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.5 Short 0),98-92,98,92
 0021900284,2019-12-01,BKN,MIA,42.37,4,5,38,MIA,MIA,fg3_make,80,False,False,,Butler 27' 3PT Step Back Jump Shot (15 PTS),98-95,98,95
 0021900284,2019-12-01,BKN,MIA,42.67,4,5,20,BKN,BKN,fg_miss,75,False,False,MISS Dinwiddie 2' Driving Finger Roll Layup,,98-95,98,95

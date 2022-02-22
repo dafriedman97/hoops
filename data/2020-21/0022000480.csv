@@ -10,8 +10,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000480,2021-02-23,CLE,ATL,0.83,1,11,10,ATL,ATL,fg_make,50,False,False,,Collins 2' Running Dunk (4 PTS) (Young 2 AST),0-4,0,4
 0022000480,2021-02-23,CLE,ATL,1.2,1,10,48,CLE,CLE,fg3_make,1,False,False,Allen 26' 3PT Jump Shot (3 PTS) (Okoro 1 AST),,3-4,3,4
 0022000480,2021-02-23,CLE,ATL,1.62,1,10,23,ATL,ATL,fg_miss,98,True,False,,MISS Collins 1' Cutting Layup Shot,3-4,3,4
-0022000480,2021-02-23,CLE,ATL,1.62,1,10,23,ATL,ATL,reb,0,False,False,,Hawks Rebound,3-4,3,4
 0022000480,2021-02-23,CLE,ATL,1.62,1,10,23,ATL,CLE,block,98,True,False,block,block,3-4,3,4
+0022000480,2021-02-23,CLE,ATL,1.62,1,10,23,ATL,ATL,reb,0,False,False,,Hawks Rebound,3-4,3,4
 0022000480,2021-02-23,CLE,ATL,1.63,1,10,22,ATL,ATL,tov,11,False,False,,Hawks Turnover: Shot Clock (T#1),3-4,3,4
 0022000480,2021-02-23,CLE,ATL,1.87,1,10,8,CLE,CLE,fg_miss,47,True,False,MISS Allen 8' Turnaround Jump Shot,,3-4,3,4
 0022000480,2021-02-23,CLE,ATL,1.87,1,10,8,CLE,ATL,block,47,True,False,block,block,3-4,3,4
@@ -24,8 +24,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000480,2021-02-23,CLE,ATL,2.22,1,9,47,CLE,ATL,block,41,True,False,block,block,3-4,3,4
 0022000480,2021-02-23,CLE,ATL,2.3,1,9,42,ATL,ATL,reb,0,False,False,,Capela REBOUND (Off:0 Def:2),3-4,3,4
 0022000480,2021-02-23,CLE,ATL,2.33,1,9,40,ATL,ATL,fg3_miss,79,False,False,,MISS Snell 26' 3PT Pullup Jump Shot,3-4,3,4
-0022000480,2021-02-23,CLE,ATL,2.48,1,9,31,ATL,ATL,fg_make,107,False,False,,Capela Tip Dunk Shot (2 PTS),3-6,3,6
 0022000480,2021-02-23,CLE,ATL,2.48,1,9,31,ATL,ATL,reb,0,False,False,,Capela REBOUND (Off:1 Def:2),3-6,3,6
+0022000480,2021-02-23,CLE,ATL,2.48,1,9,31,ATL,ATL,fg_make,107,False,False,,Capela Tip Dunk Shot (2 PTS),3-6,3,6
 0022000480,2021-02-23,CLE,ATL,2.67,1,9,20,CLE,CLE,fg_miss,101,False,False,MISS Sexton 2' Driving Floating Jump Shot,,3-6,3,6
 0022000480,2021-02-23,CLE,ATL,2.7,1,9,18,ATL,ATL,reb,0,False,False,,Snell REBOUND (Off:0 Def:2),3-6,3,6
 0022000480,2021-02-23,CLE,ATL,2.87,1,9,8,ATL,ATL,fg_miss,43,False,False,,MISS Capela 3' Alley Oop Layup,3-6,3,6
@@ -123,8 +123,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000480,2021-02-23,CLE,ATL,13.0,2,11,0,ATL,CLE,steal,1,False,True,steal,steal,31-29,31,29
 0022000480,2021-02-23,CLE,ATL,13.07,2,10,56,CLE,CLE,fg_make,50,False,False,Stevens 1' Running Dunk (4 PTS) (Osman 1 AST),,33-29,33,29
 0022000480,2021-02-23,CLE,ATL,13.43,2,10,34,ATL,ATL,tov,1,False,True,,Gallinari Bad Pass Turnover (P1.T6),33-29,33,29
-0022000480,2021-02-23,CLE,ATL,13.43,2,10,34,CLE,ATL,foul,28,False,False,,Gallinari Personal Take Foul (P1.T1) (J.DeRosa),33-29,33,29
 0022000480,2021-02-23,CLE,ATL,13.43,2,10,34,ATL,CLE,steal,1,False,True,steal,steal,33-29,33,29
+0022000480,2021-02-23,CLE,ATL,13.43,2,10,34,CLE,ATL,foul,28,False,False,,Gallinari Personal Take Foul (P1.T1) (J.DeRosa),33-29,33,29
 0022000480,2021-02-23,CLE,ATL,13.62,2,10,23,CLE,CLE,fg3_make,1,False,False,Osman 26' 3PT Jump Shot (6 PTS) (McGee 2 AST),,36-29,36,29
 0022000480,2021-02-23,CLE,ATL,13.85,2,10,9,ATL,ATL,fg_miss,6,True,False,,MISS Mays 1' Driving Layup,36-29,36,29
 0022000480,2021-02-23,CLE,ATL,13.85,2,10,9,ATL,CLE,block,6,True,False,block,block,36-29,36,29
@@ -245,8 +245,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000480,2021-02-23,CLE,ATL,26.93,3,9,4,CLE,CLE,reb,0,False,False,Wade REBOUND (Off:1 Def:1),,60-60,60,60
 0022000480,2021-02-23,CLE,ATL,26.93,3,9,4,CLE,CLE,fg_make,107,False,False,Wade Tip Dunk Shot (5 PTS),,62-60,62,60
 0022000480,2021-02-23,CLE,ATL,26.98,3,9,1,ATL,ATL,fg_miss,6,True,False,,MISS Young 6' Driving Layup,62-60,62,60
-0022000480,2021-02-23,CLE,ATL,26.98,3,9,1,ATL,ATL,reb,0,False,False,,Hawks Rebound,62-60,62,60
 0022000480,2021-02-23,CLE,ATL,26.98,3,9,1,ATL,CLE,block,6,True,False,block,block,62-60,62,60
+0022000480,2021-02-23,CLE,ATL,26.98,3,9,1,ATL,ATL,reb,0,False,False,,Hawks Rebound,62-60,62,60
 0022000480,2021-02-23,CLE,ATL,27.22,3,8,47,ATL,ATL,fg3_make,1,False,False,,Snell 3PT Jump Shot (8 PTS) (Gallinari 1 AST),62-63,62,63
 0022000480,2021-02-23,CLE,ATL,27.65,3,8,21,CLE,CLE,fg_make,102,False,False,Garland 7' Driving Floating Bank Jump Shot (8 PTS) (Sexton 4 AST),,64-63,64,63
 0022000480,2021-02-23,CLE,ATL,27.87,3,8,8,ATL,ATL,fg3_make,1,False,False,,Huerter 31' 3PT Jump Shot (14 PTS) (Young 9 AST),64-66,64,66
@@ -257,8 +257,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000480,2021-02-23,CLE,ATL,28.57,3,7,26,ATL,ATL,fg_make,101,False,False,,Young 7' Driving Floating Jump Shot (18 PTS),66-70,66,70
 0022000480,2021-02-23,CLE,ATL,28.8,3,7,12,CLE,CLE,fg_make,79,False,False,Sexton 16' Pullup Jump Shot (22 PTS),,68-70,68,70
 0022000480,2021-02-23,CLE,ATL,29.0,3,7,0,ATL,ATL,fg_miss,101,True,False,,MISS Young 7' Driving Floating Jump Shot,68-70,68,70
-0022000480,2021-02-23,CLE,ATL,29.0,3,7,0,ATL,ATL,reb,0,False,False,,Hawks Rebound,68-70,68,70
 0022000480,2021-02-23,CLE,ATL,29.0,3,7,0,ATL,CLE,block,101,True,False,block,block,68-70,68,70
+0022000480,2021-02-23,CLE,ATL,29.0,3,7,0,ATL,ATL,reb,0,False,False,,Hawks Rebound,68-70,68,70
 0022000480,2021-02-23,CLE,ATL,29.05,3,6,57,ATL,ATL,fg3_make,1,False,False,,Gallinari 26' 3PT Jump Shot (5 PTS) (Young 10 AST),68-73,68,73
 0022000480,2021-02-23,CLE,ATL,29.28,3,6,43,CLE,CLE,tov,1,False,True,Sexton Bad Pass Turnover (P4.T9),,68-73,68,73
 0022000480,2021-02-23,CLE,ATL,29.28,3,6,43,CLE,ATL,steal,1,False,True,steal,steal,68-73,68,73
@@ -270,8 +270,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000480,2021-02-23,CLE,ATL,30.07,3,5,56,CLE,CLE,tov,37,False,False,Sexton Offensive Foul Turnover (P5.T10),,70-76,70,76
 0022000480,2021-02-23,CLE,ATL,30.07,3,5,56,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 4 Short 0),,70-76,70,76
 0022000480,2021-02-23,CLE,ATL,30.4,3,5,36,ATL,ATL,fg_miss,101,True,False,,MISS Young 8' Driving Floating Jump Shot,70-76,70,76
-0022000480,2021-02-23,CLE,ATL,30.4,3,5,36,ATL,ATL,reb,0,False,False,,Hawks Rebound,70-76,70,76
 0022000480,2021-02-23,CLE,ATL,30.4,3,5,36,ATL,CLE,block,101,True,False,block,block,70-76,70,76
+0022000480,2021-02-23,CLE,ATL,30.4,3,5,36,ATL,ATL,reb,0,False,False,,Hawks Rebound,70-76,70,76
 0022000480,2021-02-23,CLE,ATL,30.47,3,5,32,ATL,ATL,fg_miss,1,False,False,,MISS Gallinari 12' Jump Shot,70-76,70,76
 0022000480,2021-02-23,CLE,ATL,30.5,3,5,30,CLE,CLE,reb,0,False,False,Okoro REBOUND (Off:1 Def:4),,70-76,70,76
 0022000480,2021-02-23,CLE,ATL,30.57,3,5,26,CLE,CLE,fg_make,6,False,False,Okoro 1' Driving Layup (4 PTS),,72-76,72,76
@@ -289,8 +289,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000480,2021-02-23,CLE,ATL,31.8,3,4,12,CLE,CLE,fg_make,5,False,False,Allen 1' Layup (9 PTS),,75-76,75,76
 0022000480,2021-02-23,CLE,ATL,32.08,3,3,55,ATL,ATL,fg_make,79,False,False,,Huerter 9' Pullup Jump Shot (18 PTS),75-78,75,78
 0022000480,2021-02-23,CLE,ATL,32.45,3,3,33,CLE,CLE,tov,13,False,False,Garland Backcourt Turnover (P4.T12),,75-78,75,78
-0022000480,2021-02-23,CLE,ATL,32.58,3,3,25,ATL,ATL,tov,40,False,False,,Young Out of Bounds Lost Ball Turnover (P5.T10),75-78,75,78
 0022000480,2021-02-23,CLE,ATL,32.58,3,3,25,CLE,ATL,foul,28,False,False,,Young Personal Take Foul (P1.T3) (J.Butler),75-78,75,78
+0022000480,2021-02-23,CLE,ATL,32.58,3,3,25,ATL,ATL,tov,40,False,False,,Young Out of Bounds Lost Ball Turnover (P5.T10),75-78,75,78
 0022000480,2021-02-23,CLE,ATL,32.8,3,3,12,CLE,CLE,fg3_make,1,False,False,Osman 25' 3PT Jump Shot (11 PTS) (Okoro 3 AST),,78-78,78,78
 0022000480,2021-02-23,CLE,ATL,33.0,3,3,0,ATL,ATL,fg3_make,1,False,False,,S. Hill 25' 3PT Jump Shot (5 PTS) (Rondo 1 AST),78-81,78,81
 0022000480,2021-02-23,CLE,ATL,33.0,3,3,0,ATL,ATL,fg3_make,1,False,False,,S. Hill 25' 3PT Jump Shot (5 PTS) (Rondo 1 AST),78-81,78,81
@@ -347,9 +347,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000480,2021-02-23,CLE,ATL,40.38,4,7,37,CLE,CLE,fg_miss,6,False,False,MISS Sexton 2' Driving Layup,,92-97,92,97
 0022000480,2021-02-23,CLE,ATL,40.42,4,7,35,ATL,ATL,reb,0,False,False,,S. Hill REBOUND (Off:0 Def:3),92-97,92,97
 0022000480,2021-02-23,CLE,ATL,40.47,4,7,32,ATL,ATL,fg_miss,5,True,False,,MISS Mays 2' Layup,92-97,92,97
+0022000480,2021-02-23,CLE,ATL,40.47,4,7,32,ATL,CLE,block,5,True,False,block,block,92-97,92,97
 0022000480,2021-02-23,CLE,ATL,40.47,4,7,32,ATL,ATL,reb,0,False,False,,Huerter REBOUND (Off:1 Def:2),92-97,92,97
 0022000480,2021-02-23,CLE,ATL,40.47,4,7,32,ATL,CLE,foul,2,False,False,Osman S.FOUL (P2.T1) (J.DeRosa),,92-97,92,97
-0022000480,2021-02-23,CLE,ATL,40.47,4,7,32,ATL,CLE,block,5,True,False,block,block,92-97,92,97
 0022000480,2021-02-23,CLE,ATL,40.47,4,7,32,ATL,ATL,ft_make,11,False,False,,Huerter Free Throw 1 of 2 (21 PTS),92-98,92,98
 0022000480,2021-02-23,CLE,ATL,40.47,4,7,32,ATL,ATL,ft_make,12,False,False,,Huerter Free Throw 2 of 2 (22 PTS),92-99,92,99
 0022000480,2021-02-23,CLE,ATL,40.63,4,7,22,CLE,CLE,fg3_make,1,False,False,Windler 25' 3PT Jump Shot (12 PTS) (Garland 7 AST),,95-99,95,99
@@ -361,8 +361,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000480,2021-02-23,CLE,ATL,41.07,4,6,56,CLE,CLE,ft_make,11,False,False,Allen Free Throw 1 of 2 (10 PTS),,96-102,96,102
 0022000480,2021-02-23,CLE,ATL,41.07,4,6,56,CLE,CLE,ft_make,12,False,False,Allen Free Throw 2 of 2 (11 PTS),,97-102,97,102
 0022000480,2021-02-23,CLE,ATL,41.43,4,6,34,ATL,ATL,tov,1,False,True,,Snell Bad Pass Turnover (P2.T13),97-102,97,102
-0022000480,2021-02-23,CLE,ATL,41.43,4,6,34,CLE,ATL,foul,1,False,False,,Gallinari P.FOUL (P2.T4) (J.Butler),97-102,97,102
 0022000480,2021-02-23,CLE,ATL,41.43,4,6,34,ATL,CLE,steal,1,False,True,steal,steal,97-102,97,102
+0022000480,2021-02-23,CLE,ATL,41.43,4,6,34,CLE,ATL,foul,1,False,False,,Gallinari P.FOUL (P2.T4) (J.Butler),97-102,97,102
 0022000480,2021-02-23,CLE,ATL,41.45,4,6,33,CLE,ATL,foul,1,False,False,,Snell P.FOUL (P2.PN) (M.Davis),97-102,97,102
 0022000480,2021-02-23,CLE,ATL,41.45,4,6,33,CLE,CLE,ft_miss,11,False,False,MISS Sexton Free Throw 1 of 2,,97-102,97,102
 0022000480,2021-02-23,CLE,ATL,41.45,4,6,33,CLE,CLE,reb,1,False,False,CAVALIERS Rebound,,97-102,97,102

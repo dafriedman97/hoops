@@ -42,8 +42,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900159,2019-11-13,LAL,GSW,5.67,1,6,20,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:0 Def:1),,19-15,19,15
 0021900159,2019-11-13,LAL,GSW,5.83,1,6,10,LAL,LAL,fg_miss,6,True,False,MISS James 2' Driving Layup,,19-15,19,15
 0021900159,2019-11-13,LAL,GSW,5.83,1,6,10,LAL,GSW,block,6,True,False,block,block,19-15,19,15
-0021900159,2019-11-13,LAL,GSW,5.93,1,6,4,LAL,LAL,fg_make,72,False,False,James 1' Putback Layup (9 PTS),,21-15,21,15
 0021900159,2019-11-13,LAL,GSW,5.93,1,6,4,LAL,LAL,reb,0,False,False,James REBOUND (Off:1 Def:1),,21-15,21,15
+0021900159,2019-11-13,LAL,GSW,5.93,1,6,4,LAL,LAL,fg_make,72,False,False,James 1' Putback Layup (9 PTS),,21-15,21,15
 0021900159,2019-11-13,LAL,GSW,6.22,1,5,47,GSW,LAL,foul,1,False,False,McGee P.FOUL (P1.T3) (M.Boland),,21-15,21,15
 0021900159,2019-11-13,LAL,GSW,6.32,1,5,41,GSW,GSW,fg_miss,67,False,False,,MISS Robinson III 2' Hook Bank Shot,21-15,21,15
 0021900159,2019-11-13,LAL,GSW,6.37,1,5,38,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:0 Def:2),,21-15,21,15
@@ -133,8 +133,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900159,2019-11-13,LAL,GSW,16.3,2,7,42,GSW,GSW,ft_miss,12,False,False,,MISS Burks Free Throw 2 of 2,48-34,48,34
 0021900159,2019-11-13,LAL,GSW,16.37,2,7,38,LAL,LAL,reb,0,False,False,James REBOUND (Off:1 Def:2),,48-34,48,34
 0021900159,2019-11-13,LAL,GSW,16.62,2,7,23,LAL,LAL,fg_miss,98,False,False,MISS Caldwell-Pope 2' Cutting Layup Shot,,48-34,48,34
-0021900159,2019-11-13,LAL,GSW,16.73,2,7,16,LAL,LAL,fg_make,97,False,False,Howard 1' Tip Layup Shot (9 PTS),,50-34,50,34
 0021900159,2019-11-13,LAL,GSW,16.73,2,7,16,LAL,LAL,reb,0,False,False,Howard REBOUND (Off:3 Def:1),,50-34,50,34
+0021900159,2019-11-13,LAL,GSW,16.73,2,7,16,LAL,LAL,fg_make,97,False,False,Howard 1' Tip Layup Shot (9 PTS),,50-34,50,34
 0021900159,2019-11-13,LAL,GSW,16.97,2,7,2,GSW,GSW,fg_make,1,False,False,,Spellman 13' Jump Shot (4 PTS) (Russell 5 AST),50-36,50,36
 0021900159,2019-11-13,LAL,GSW,17.28,2,6,43,LAL,LAL,fg_make,79,False,False,Cook 20' Pullup Jump Shot (4 PTS),,52-36,52,36
 0021900159,2019-11-13,LAL,GSW,17.57,2,6,26,GSW,GSW,fg3_miss,1,False,False,,MISS Poole 27' 3PT Jump Shot,52-36,52,36
@@ -154,8 +154,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900159,2019-11-13,LAL,GSW,19.17,2,4,50,GSW,GSW,ft_make,11,False,False,,Russell Free Throw 1 of 2 (14 PTS),58-42,58,42
 0021900159,2019-11-13,LAL,GSW,19.17,2,4,50,GSW,GSW,ft_make,12,False,False,,Russell Free Throw 2 of 2 (15 PTS),58-43,58,43
 0021900159,2019-11-13,LAL,GSW,19.38,2,4,37,LAL,LAL,fg_miss,6,True,False,MISS Bradley 3' Driving Layup,,58-43,58,43
-0021900159,2019-11-13,LAL,GSW,19.38,2,4,37,LAL,LAL,reb,0,False,False,LAKERS Rebound,,58-43,58,43
 0021900159,2019-11-13,LAL,GSW,19.38,2,4,37,LAL,GSW,block,6,True,False,block,block,58-43,58,43
+0021900159,2019-11-13,LAL,GSW,19.38,2,4,37,LAL,LAL,reb,0,False,False,LAKERS Rebound,,58-43,58,43
 0021900159,2019-11-13,LAL,GSW,19.42,2,4,35,LAL,LAL,tov,1,False,True,Green Bad Pass Turnover (P1.T6),,58-43,58,43
 0021900159,2019-11-13,LAL,GSW,19.42,2,4,35,LAL,GSW,steal,1,False,True,steal,steal,58-43,58,43
 0021900159,2019-11-13,LAL,GSW,19.48,2,4,31,GSW,GSW,fg_make,41,False,False,,Paschall 2' Running Layup (8 PTS) (Russell 6 AST),58-45,58,45
@@ -174,8 +174,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900159,2019-11-13,LAL,GSW,20.68,2,3,19,GSW,GSW,fg_miss,44,False,False,,MISS Paschall 2' Reverse Layup,60-51,60,51
 0021900159,2019-11-13,LAL,GSW,20.75,2,3,15,LAL,LAL,reb,0,False,False,Howard REBOUND (Off:3 Def:4),,60-51,60,51
 0021900159,2019-11-13,LAL,GSW,20.8,2,3,12,LAL,LAL,fg3_miss,1,False,False,MISS James 25' 3PT Jump Shot,,60-51,60,51
-0021900159,2019-11-13,LAL,GSW,20.97,2,3,2,LAL,LAL,fg3_make,1,False,False,Kuzma 26' 3PT Jump Shot (9 PTS) (James 6 AST),,63-51,63,51
 0021900159,2019-11-13,LAL,GSW,20.97,2,3,2,LAL,LAL,reb,0,False,False,James REBOUND (Off:2 Def:2),,63-51,63,51
+0021900159,2019-11-13,LAL,GSW,20.97,2,3,2,LAL,LAL,fg3_make,1,False,False,Kuzma 26' 3PT Jump Shot (9 PTS) (James 6 AST),,63-51,63,51
 0021900159,2019-11-13,LAL,GSW,21.23,2,2,46,GSW,GSW,fg_make,108,False,False,,Cauley-Stein 2' Cutting Dunk Shot (6 PTS) (Robinson III 3 AST),63-53,63,53
 0021900159,2019-11-13,LAL,GSW,21.57,2,2,26,LAL,LAL,tov,1,False,True,Kuzma Bad Pass Turnover (P3.T10),,63-53,63,53
 0021900159,2019-11-13,LAL,GSW,21.57,2,2,26,LAL,GSW,steal,1,False,True,steal,steal,63-53,63,53
@@ -199,8 +199,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900159,2019-11-13,LAL,GSW,23.43,2,0,34,LAL,LAL,fg3_miss,79,False,False,MISS James 26' 3PT Pullup Jump Shot,,67-53,67,53
 0021900159,2019-11-13,LAL,GSW,23.48,2,0,31,GSW,GSW,reb,0,False,False,,Paschall REBOUND (Off:0 Def:1),67-53,67,53
 0021900159,2019-11-13,LAL,GSW,23.62,2,0,23,GSW,GSW,fg_miss,98,True,False,,MISS Paschall 2' Cutting Layup Shot,67-53,67,53
-0021900159,2019-11-13,LAL,GSW,23.62,2,0,23,GSW,GSW,reb,0,False,False,,Warriors Rebound,67-53,67,53
 0021900159,2019-11-13,LAL,GSW,23.62,2,0,23,GSW,LAL,block,98,True,False,block,block,67-53,67,53
+0021900159,2019-11-13,LAL,GSW,23.62,2,0,23,GSW,GSW,reb,0,False,False,,Warriors Rebound,67-53,67,53
 0021900159,2019-11-13,LAL,GSW,23.68,2,0,19,GSW,GSW,fg_make,79,False,False,,Cauley-Stein 19' Pullup Jump Shot (8 PTS) (Russell 7 AST),67-55,67,55
 0021900159,2019-11-13,LAL,GSW,24.0,2,0,0,LAL,LAL,fg_miss,80,False,False,MISS James 22' Step Back Jump Shot,,67-55,67,55
 0021900159,2019-11-13,LAL,GSW,24.0,2,0,0,LAL,LAL,reb,0,False,False,LAKERS Rebound,,67-55,67,55
@@ -220,9 +220,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900159,2019-11-13,LAL,GSW,25.03,3,10,58,GSW,GSW,fg_miss,98,False,False,,MISS Cauley-Stein 2' Cutting Layup Shot,69-57,69,57
 0021900159,2019-11-13,LAL,GSW,25.12,3,10,53,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:2 Def:4),,69-57,69,57
 0021900159,2019-11-13,LAL,GSW,25.15,3,10,51,LAL,LAL,fg_miss,41,True,False,MISS James 2' Running Layup,,69-57,69,57
+0021900159,2019-11-13,LAL,GSW,25.15,3,10,51,LAL,GSW,block,41,True,False,block,block,69-57,69,57
 0021900159,2019-11-13,LAL,GSW,25.15,3,10,51,LAL,LAL,reb,0,False,False,LAKERS Rebound,,69-57,69,57
 0021900159,2019-11-13,LAL,GSW,25.15,3,10,51,GSW,LAL,foul,11,False,False,James T.FOUL (P0.T1) (E.Malloy),,69-57,69,57
-0021900159,2019-11-13,LAL,GSW,25.15,3,10,51,LAL,GSW,block,41,True,False,block,block,69-57,69,57
 0021900159,2019-11-13,LAL,GSW,25.15,3,10,51,GSW,GSW,ft_make,16,False,False,,Russell Free Throw Technical (18 PTS),69-58,69,58
 0021900159,2019-11-13,LAL,GSW,25.3,3,10,42,LAL,GSW,foul,2,False,False,,Russell S.FOUL (P1.T2) (E.Malloy),69-58,69,58
 0021900159,2019-11-13,LAL,GSW,25.3,3,10,42,LAL,LAL,ft_make,11,False,False,Bradley Free Throw 1 of 2 (3 PTS),,70-58,70,58
@@ -373,8 +373,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900159,2019-11-13,LAL,GSW,41.7,4,6,18,LAL,LAL,fg_miss,93,False,False,MISS Kuzma 8' Driving Bank Hook Shot,,108-87,108,87
 0021900159,2019-11-13,LAL,GSW,41.8,4,6,12,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:5 Def:9),,108-87,108,87
 0021900159,2019-11-13,LAL,GSW,41.8,4,6,12,LAL,LAL,fg_miss,72,True,False,MISS McGee 3' Putback Layup,,108-87,108,87
-0021900159,2019-11-13,LAL,GSW,41.8,4,6,12,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:5 Def:9),,108-87,108,87
 0021900159,2019-11-13,LAL,GSW,41.8,4,6,12,LAL,GSW,block,72,True,False,block,block,108-87,108,87
+0021900159,2019-11-13,LAL,GSW,41.8,4,6,12,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:5 Def:9),,108-87,108,87
 0021900159,2019-11-13,LAL,GSW,41.9,4,6,6,LAL,LAL,fg_make,9,False,False,McGee 1' Driving Dunk (16 PTS),,110-87,110,87
 0021900159,2019-11-13,LAL,GSW,42.17,4,5,50,GSW,GSW,fg3_miss,1,False,False,,MISS Spellman 25' 3PT Jump Shot,110-87,110,87
 0021900159,2019-11-13,LAL,GSW,42.17,4,5,50,GSW,GSW,reb,0,False,False,,Warriors Rebound,110-87,110,87
@@ -417,8 +417,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900159,2019-11-13,LAL,GSW,45.93,4,2,4,LAL,LAL,fg_miss,3,False,False,MISS McGee 8' Hook Shot,,119-92,119,92
 0021900159,2019-11-13,LAL,GSW,45.95,4,2,3,GSW,GSW,reb,0,False,False,,Chriss REBOUND (Off:1 Def:4),119-92,119,92
 0021900159,2019-11-13,LAL,GSW,46.0,4,2,0,GSW,GSW,fg_miss,41,True,False,,MISS Spellman 2' Running Layup,119-92,119,92
-0021900159,2019-11-13,LAL,GSW,46.0,4,2,0,GSW,GSW,reb,0,False,False,,Warriors Rebound,119-92,119,92
 0021900159,2019-11-13,LAL,GSW,46.0,4,2,0,GSW,LAL,block,41,True,False,block,block,119-92,119,92
+0021900159,2019-11-13,LAL,GSW,46.0,4,2,0,GSW,GSW,reb,0,False,False,,Warriors Rebound,119-92,119,92
 0021900159,2019-11-13,LAL,GSW,46.18,4,1,49,GSW,GSW,fg_miss,9,False,False,,MISS Chriss 1' Driving Dunk,119-92,119,92
 0021900159,2019-11-13,LAL,GSW,46.22,4,1,47,LAL,LAL,reb,0,False,False,Caruso REBOUND (Off:0 Def:5),,119-92,119,92
 0021900159,2019-11-13,LAL,GSW,46.43,4,1,34,LAL,LAL,fg_miss,6,False,False,MISS Cook 2' Driving Layup,,119-92,119,92
@@ -427,11 +427,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900159,2019-11-13,LAL,GSW,46.83,4,1,10,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 26' 3PT Jump Shot,,119-94,119,94
 0021900159,2019-11-13,LAL,GSW,46.88,4,1,7,GSW,GSW,reb,0,False,False,,Chriss REBOUND (Off:1 Def:5),119-94,119,94
 0021900159,2019-11-13,LAL,GSW,47.13,4,0,52,GSW,GSW,fg_miss,6,True,False,,MISS Paschall 2' Driving Layup,119-94,119,94
-0021900159,2019-11-13,LAL,GSW,47.13,4,0,52,LAL,LAL,reb,0,False,False,Caruso REBOUND (Off:0 Def:6),,119-94,119,94
 0021900159,2019-11-13,LAL,GSW,47.13,4,0,52,GSW,LAL,block,6,True,False,block,block,119-94,119,94
+0021900159,2019-11-13,LAL,GSW,47.13,4,0,52,LAL,LAL,reb,0,False,False,Caruso REBOUND (Off:0 Def:6),,119-94,119,94
 0021900159,2019-11-13,LAL,GSW,47.2,4,0,48,LAL,LAL,fg_miss,41,True,False,MISS Cook 1' Running Layup,,119-94,119,94
-0021900159,2019-11-13,LAL,GSW,47.2,4,0,48,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:2 Def:3),,119-94,119,94
 0021900159,2019-11-13,LAL,GSW,47.2,4,0,48,LAL,GSW,block,41,True,False,block,block,119-94,119,94
+0021900159,2019-11-13,LAL,GSW,47.2,4,0,48,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:2 Def:3),,119-94,119,94
 0021900159,2019-11-13,LAL,GSW,47.4,4,0,36,LAL,GSW,foul,2,False,False,,Poole S.FOUL (P2.T4) (K.Lane),119-94,119,94
 0021900159,2019-11-13,LAL,GSW,47.4,4,0,36,LAL,LAL,ft_make,11,False,False,Kuzma Free Throw 1 of 2 (22 PTS),,120-94,120,94
 0021900159,2019-11-13,LAL,GSW,47.4,4,0,36,LAL,LAL,ft_miss,12,False,False,MISS Kuzma Free Throw 2 of 2,,120-94,120,94

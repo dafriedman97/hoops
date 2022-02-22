@@ -14,8 +14,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800784,2019-02-02,PHX,ATL,1.27,1,10,44,PHX,PHX,fg_make,50,False,False,Jackson 1' Running Dunk (4 PTS),,6-4,6,4
 0021800784,2019-02-02,PHX,ATL,1.5,1,10,30,ATL,ATL,tov,4,False,False,,Huerter Traveling Turnover (P1.T2),6-4,6,4
 0021800784,2019-02-02,PHX,ATL,1.77,1,10,14,PHX,PHX,fg_miss,5,True,False,MISS Ayton 1' Layup,,6-4,6,4
-0021800784,2019-02-02,PHX,ATL,1.77,1,10,14,PHX,PHX,reb,0,False,False,SUNS Rebound,,6-4,6,4
 0021800784,2019-02-02,PHX,ATL,1.77,1,10,14,PHX,ATL,block,5,True,False,block,block,6-4,6,4
+0021800784,2019-02-02,PHX,ATL,1.77,1,10,14,PHX,PHX,reb,0,False,False,SUNS Rebound,,6-4,6,4
 0021800784,2019-02-02,PHX,ATL,1.8,1,10,12,PHX,PHX,fg_make,79,False,False,Booker 15' Pullup Jump Shot (2 PTS) (Okobo 2 AST),,8-4,8,4
 0021800784,2019-02-02,PHX,ATL,2.12,1,9,53,ATL,ATL,fg_make,43,False,False,,Collins 1' Alley Oop Layup (4 PTS) (Young 1 AST),8-6,8,6
 0021800784,2019-02-02,PHX,ATL,2.3,1,9,42,PHX,PHX,fg3_make,1,False,False,Booker 26' 3PT Jump Shot (5 PTS) (Okobo 3 AST),,11-6,11,6
@@ -44,8 +44,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800784,2019-02-02,PHX,ATL,5.8,1,6,12,PHX,PHX,fg_make,79,False,False,Jackson 20' Pullup Jump Shot (9 PTS) (Okobo 4 AST),,20-18,20,18
 0021800784,2019-02-02,PHX,ATL,5.95,1,6,3,ATL,PHX,foul,1,False,False,Okobo P.FOUL (P1.T1) (J.Van Duyne),,20-18,20,18
 0021800784,2019-02-02,PHX,ATL,6.03,1,5,58,ATL,ATL,fg_miss,6,True,False,,MISS Young 4' Driving Layup,20-18,20,18
-0021800784,2019-02-02,PHX,ATL,6.03,1,5,58,ATL,ATL,reb,0,False,False,,Hawks Rebound,20-18,20,18
 0021800784,2019-02-02,PHX,ATL,6.03,1,5,58,ATL,PHX,block,6,True,False,block,block,20-18,20,18
+0021800784,2019-02-02,PHX,ATL,6.03,1,5,58,ATL,ATL,reb,0,False,False,,Hawks Rebound,20-18,20,18
 0021800784,2019-02-02,PHX,ATL,6.13,1,5,52,ATL,ATL,fg_make,79,False,False,,Prince 16' Pullup Jump Shot (2 PTS),20-20,20,20
 0021800784,2019-02-02,PHX,ATL,6.4,1,5,36,PHX,PHX,fg_miss,47,False,False,MISS Ayton 15' Turnaround Jump Shot,,20-20,20,20
 0021800784,2019-02-02,PHX,ATL,6.45,1,5,33,ATL,ATL,reb,0,False,False,,Prince REBOUND (Off:0 Def:1),20-20,20,20
@@ -141,8 +141,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800784,2019-02-02,PHX,ATL,14.75,2,9,15,ATL,ATL,reb,0,False,False,,Bazemore REBOUND (Off:0 Def:3),32-40,32,40
 0021800784,2019-02-02,PHX,ATL,14.87,2,9,8,ATL,ATL,fg_make,98,False,False,,Bazemore Cutting Layup Shot (6 PTS) (Collins 1 AST),32-42,32,42
 0021800784,2019-02-02,PHX,ATL,14.98,2,9,1,PHX,PHX,tov,1,False,True,Bridges Bad Pass Turnover (P2.T5),,32-42,32,42
-0021800784,2019-02-02,PHX,ATL,14.98,2,9,1,ATL,PHX,foul,28,False,False,Crawford Personal Take Foul (P1.T2) (R.Garretson),,32-42,32,42
 0021800784,2019-02-02,PHX,ATL,14.98,2,9,1,PHX,ATL,steal,1,False,True,steal,steal,32-42,32,42
+0021800784,2019-02-02,PHX,ATL,14.98,2,9,1,ATL,PHX,foul,28,False,False,Crawford Personal Take Foul (P1.T2) (R.Garretson),,32-42,32,42
 0021800784,2019-02-02,PHX,ATL,15.32,2,8,41,ATL,ATL,fg_miss,1,False,False,,MISS Bazemore 18' Jump Shot,32-42,32,42
 0021800784,2019-02-02,PHX,ATL,15.35,2,8,39,PHX,PHX,reb,0,False,False,Oubre Jr. REBOUND (Off:1 Def:2),,32-42,32,42
 0021800784,2019-02-02,PHX,ATL,15.43,2,8,34,PHX,ATL,foul,2,False,False,,Huerter S.FOUL (P1.T2) (T.Washington),32-42,32,42
@@ -170,15 +170,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800784,2019-02-02,PHX,ATL,18.07,2,5,56,ATL,ATL,fg_miss,57,False,False,,MISS Prince 4' Driving Hook Shot,42-44,42,44
 0021800784,2019-02-02,PHX,ATL,18.1,2,5,54,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:0 Def:3),,42-44,42,44
 0021800784,2019-02-02,PHX,ATL,18.13,2,5,52,PHX,PHX,fg_make,6,False,False,Booker 1' Driving Layup (13 PTS),,44-44,44,44
-0021800784,2019-02-02,PHX,ATL,18.13,2,5,52,PHX,ATL,violation,2,False,False,,Defensive Goaltending,44-44,44,44
 0021800784,2019-02-02,PHX,ATL,18.13,2,5,52,PHX,ATL,foul,2,False,False,,Prince S.FOUL (P1.T3) (R.Garretson),44-44,44,44
 0021800784,2019-02-02,PHX,ATL,18.13,2,5,52,PHX,PHX,ft_make,10,False,False,Booker Free Throw 1 of 1 (14 PTS),,45-44,45,44
+0021800784,2019-02-02,PHX,ATL,18.13,2,5,52,PHX,ATL,violation,2,False,False,,Defensive Goaltending,44-44,44,44
 0021800784,2019-02-02,PHX,ATL,18.32,2,5,41,ATL,ATL,fg3_miss,1,False,False,,MISS Huerter 26' 3PT Jump Shot,45-44,45,44
 0021800784,2019-02-02,PHX,ATL,18.37,2,5,38,ATL,ATL,reb,0,False,False,,Collins REBOUND (Off:3 Def:1),45-44,45,44
 0021800784,2019-02-02,PHX,ATL,18.42,2,5,35,ATL,ATL,fg_make,108,False,False,,Dedmon 1' Cutting Dunk Shot (8 PTS) (Collins 2 AST),45-46,45,46
 0021800784,2019-02-02,PHX,ATL,18.63,2,5,22,PHX,PHX,fg_miss,6,True,False,MISS Booker 1' Driving Layup,,45-46,45,46
-0021800784,2019-02-02,PHX,ATL,18.63,2,5,22,ATL,ATL,reb,0,False,False,,Hawks Rebound,45-46,45,46
 0021800784,2019-02-02,PHX,ATL,18.63,2,5,22,PHX,ATL,block,6,True,False,block,block,45-46,45,46
+0021800784,2019-02-02,PHX,ATL,18.63,2,5,22,ATL,ATL,reb,0,False,False,,Hawks Rebound,45-46,45,46
 0021800784,2019-02-02,PHX,ATL,18.9,2,5,6,ATL,ATL,fg3_miss,1,False,False,,MISS Dedmon 3PT Jump Shot,45-46,45,46
 0021800784,2019-02-02,PHX,ATL,18.92,2,5,5,ATL,ATL,reb,0,False,False,,Collins REBOUND (Off:4 Def:1),45-46,45,46
 0021800784,2019-02-02,PHX,ATL,18.92,2,5,5,ATL,PHX,foul,1,False,False,Okobo P.FOUL (P2.PN) (R.Garretson),,45-46,45,46
@@ -193,8 +193,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800784,2019-02-02,PHX,ATL,19.5,2,4,30,PHX,PHX,fg_make,41,False,False,Okobo Running Layup (4 PTS) (Booker 4 AST),,49-47,49,47
 0021800784,2019-02-02,PHX,ATL,19.82,2,4,11,ATL,ATL,fg3_make,1,False,False,,Huerter 27' 3PT Jump Shot (5 PTS) (Young 3 AST),49-50,49,50
 0021800784,2019-02-02,PHX,ATL,20.22,2,3,47,PHX,PHX,tov,2,False,True,Booker Lost Ball Turnover (P4.T6),,49-50,49,50
-0021800784,2019-02-02,PHX,ATL,20.22,2,3,47,ATL,PHX,foul,28,False,False,Booker Personal Take Foul (P1.PN) (R.Garretson),,49-50,49,50
 0021800784,2019-02-02,PHX,ATL,20.22,2,3,47,PHX,ATL,steal,2,False,True,steal,steal,49-50,49,50
+0021800784,2019-02-02,PHX,ATL,20.22,2,3,47,ATL,PHX,foul,28,False,False,Booker Personal Take Foul (P1.PN) (R.Garretson),,49-50,49,50
 0021800784,2019-02-02,PHX,ATL,20.22,2,3,47,ATL,ATL,ft_make,11,False,False,,Prince Free Throw 1 of 2 (3 PTS),49-51,49,51
 0021800784,2019-02-02,PHX,ATL,20.22,2,3,47,ATL,ATL,ft_make,12,False,False,,Prince Free Throw 2 of 2 (4 PTS),49-52,49,52
 0021800784,2019-02-02,PHX,ATL,20.47,2,3,32,PHX,PHX,fg3_miss,1,False,False,MISS Bridges 24' 3PT Jump Shot,,49-52,49,52
@@ -295,8 +295,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800784,2019-02-02,PHX,ATL,31.52,3,4,29,PHX,PHX,reb,0,False,False,Oubre Jr. REBOUND (Off:1 Def:4),,78-76,78,76
 0021800784,2019-02-02,PHX,ATL,31.75,3,4,15,PHX,PHX,fg_make,5,False,False,Holmes 2' Layup (2 PTS),,80-76,80,76
 0021800784,2019-02-02,PHX,ATL,31.98,3,4,1,ATL,ATL,fg_miss,98,True,False,,MISS Len 4' Cutting Layup Shot,80-76,80,76
-0021800784,2019-02-02,PHX,ATL,31.98,3,4,1,ATL,ATL,reb,0,False,False,,Hawks Rebound,80-76,80,76
 0021800784,2019-02-02,PHX,ATL,31.98,3,4,1,ATL,PHX,block,98,True,False,block,block,80-76,80,76
+0021800784,2019-02-02,PHX,ATL,31.98,3,4,1,ATL,ATL,reb,0,False,False,,Hawks Rebound,80-76,80,76
 0021800784,2019-02-02,PHX,ATL,32.02,3,3,59,ATL,ATL,tov,1,False,True,,Bazemore Bad Pass Turnover (P1.T15),80-76,80,76
 0021800784,2019-02-02,PHX,ATL,32.02,3,3,59,ATL,PHX,steal,1,False,True,steal,steal,80-76,80,76
 0021800784,2019-02-02,PHX,ATL,32.1,3,3,54,PHX,PHX,fg_miss,52,False,False,MISS Holmes Alley Oop Dunk,,80-76,80,76
@@ -334,10 +334,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800784,2019-02-02,PHX,ATL,35.93,3,0,4,ATL,ATL,fg_miss,1,False,False,,MISS Lin 18' Jump Shot,88-86,88,86
 0021800784,2019-02-02,PHX,ATL,35.98,3,0,1,ATL,ATL,reb,0,False,False,,Collins REBOUND (Off:9 Def:4),88-86,88,86
 0021800784,2019-02-02,PHX,ATL,36.0,3,0,0,ATL,ATL,fg_miss,7,True,False,,MISS Collins Dunk,88-86,88,86
+0021800784,2019-02-02,PHX,ATL,36.0,3,0,0,ATL,PHX,block,7,True,False,block,block,88-86,88,86
 0021800784,2019-02-02,PHX,ATL,36.0,3,0,0,ATL,ATL,reb,0,False,False,,Hawks Rebound,88-86,88,86
 0021800784,2019-02-02,PHX,ATL,36.0,3,0,0,ATL,,period_end,0,False,False,,,88-86,88,86
 0021800784,2019-02-02,PHX,ATL,36.0,4,12,0,ATL,,period_start,0,False,False,,,88-86,88,86
-0021800784,2019-02-02,PHX,ATL,36.0,3,0,0,ATL,PHX,block,7,True,False,block,block,88-86,88,86
 0021800784,2019-02-02,PHX,ATL,36.32,4,11,41,ATL,PHX,foul,2,False,False,Oubre Jr. S.FOUL (P1.T1) (J.Van Duyne),,88-86,88,86
 0021800784,2019-02-02,PHX,ATL,36.32,4,11,41,ATL,ATL,ft_make,11,False,False,,Collins Free Throw 1 of 2 (23 PTS),88-87,88,87
 0021800784,2019-02-02,PHX,ATL,36.32,4,11,41,ATL,ATL,ft_miss,12,False,False,,MISS Collins Free Throw 2 of 2,88-87,88,87
@@ -367,8 +367,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800784,2019-02-02,PHX,ATL,39.12,4,8,53,PHX,PHX,fg3_miss,2,False,False,MISS Booker 25' 3PT Running Jump Shot,,95-90,95,90
 0021800784,2019-02-02,PHX,ATL,39.13,4,8,52,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:1 Def:5),,95-90,95,90
 0021800784,2019-02-02,PHX,ATL,39.18,4,8,49,PHX,PHX,fg_miss,72,True,False,MISS Ayton 1' Putback Layup,,95-90,95,90
-0021800784,2019-02-02,PHX,ATL,39.18,4,8,49,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:2 Def:5),,95-90,95,90
 0021800784,2019-02-02,PHX,ATL,39.18,4,8,49,PHX,ATL,block,72,True,False,block,block,95-90,95,90
+0021800784,2019-02-02,PHX,ATL,39.18,4,8,49,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:2 Def:5),,95-90,95,90
 0021800784,2019-02-02,PHX,ATL,39.3,4,8,42,PHX,PHX,tov,2,False,True,Ayton Lost Ball Turnover (P2.T8),,95-90,95,90
 0021800784,2019-02-02,PHX,ATL,39.3,4,8,42,PHX,ATL,steal,2,False,True,steal,steal,95-90,95,90
 0021800784,2019-02-02,PHX,ATL,39.43,4,8,34,ATL,ATL,fg_make,6,False,False,,Huerter Driving Layup (10 PTS),95-92,95,92
@@ -428,9 +428,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800784,2019-02-02,PHX,ATL,45.3,4,2,42,ATL,ATL,reb,0,False,False,,Collins REBOUND (Off:10 Def:6),105-107,105,107
 0021800784,2019-02-02,PHX,ATL,45.47,4,2,32,ATL,ATL,fg_make,74,False,False,,Young 1' Running Reverse Layup (23 PTS),105-109,105,109
 0021800784,2019-02-02,PHX,ATL,45.6,4,2,24,PHX,PHX,tov,1,False,True,Bridges Bad Pass Turnover (P3.T9),,105-109,105,109
+0021800784,2019-02-02,PHX,ATL,45.6,4,2,24,PHX,ATL,steal,1,False,True,steal,steal,105-109,105,109
 0021800784,2019-02-02,PHX,ATL,45.6,4,2,24,ATL,PHX,foul,1,False,False,Booker P.FOUL (P2.T4) (J.Van Duyne),,105-109,105,109
 0021800784,2019-02-02,PHX,ATL,45.6,4,2,24,ATL,ATL,timeout,1,False,False,,Hawks Timeout: Regular (Reg.5 Short 0),105-109,105,109
-0021800784,2019-02-02,PHX,ATL,45.6,4,2,24,PHX,ATL,steal,1,False,True,steal,steal,105-109,105,109
 0021800784,2019-02-02,PHX,ATL,45.88,4,2,7,ATL,ATL,fg3_make,80,False,False,,Young 27' 3PT Step Back Jump Shot (26 PTS),105-112,105,112
 0021800784,2019-02-02,PHX,ATL,46.18,4,1,49,PHX,PHX,fg_make,6,False,False,Bridges Driving Layup (17 PTS) (Booker 9 AST),,107-112,107,112
 0021800784,2019-02-02,PHX,ATL,46.18,4,1,49,PHX,ATL,foul,2,False,False,,Dedmon S.FOUL (P6.PN) (J.Van Duyne),107-112,107,112
@@ -458,5 +458,5 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800784,2019-02-02,PHX,ATL,47.9,4,0,6,ATL,ATL,ft_miss,12,False,False,,MISS Young Free Throw 2 of 2,112-118,112,118
 0021800784,2019-02-02,PHX,ATL,47.93,4,0,4,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:5 Def:6),,112-118,112,118
 0021800784,2019-02-02,PHX,ATL,48.0,4,0,0,PHX,PHX,tov,1,False,True,Ayton Bad Pass Turnover (P3.T10),,112-118,112,118
-0021800784,2019-02-02,PHX,ATL,48.0,4,0,0,PHX,,period_end,0,False,False,,,112-118,112,118
 0021800784,2019-02-02,PHX,ATL,48.0,4,0,0,PHX,ATL,steal,1,False,True,steal,steal,112-118,112,118
+0021800784,2019-02-02,PHX,ATL,48.0,4,0,0,PHX,,period_end,0,False,False,,,112-118,112,118

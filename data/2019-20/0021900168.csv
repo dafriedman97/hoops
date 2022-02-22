@@ -115,8 +115,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900168,2019-11-15,ORL,SAS,14.23,2,9,46,ORL,ORL,fg_make,75,False,False,Augustin 3' Driving Finger Roll Layup (5 PTS) (Gordon 2 AST),,29-40,29,40
 0021900168,2019-11-15,ORL,SAS,14.45,2,9,33,SAS,SAS,tov,40,False,False,,Gay Out of Bounds Lost Ball Turnover (P2.T5),29-40,29,40
 0021900168,2019-11-15,ORL,SAS,14.45,2,9,33,ORL,ORL,fg_miss,1,True,False,MISS Ross 20' Jump Shot,,29-40,29,40
-0021900168,2019-11-15,ORL,SAS,14.45,2,9,33,SAS,SAS,reb,0,False,False,,White REBOUND (Off:0 Def:1),29-40,29,40
 0021900168,2019-11-15,ORL,SAS,14.45,2,9,33,ORL,SAS,block,1,True,False,block,block,29-40,29,40
+0021900168,2019-11-15,ORL,SAS,14.45,2,9,33,SAS,SAS,reb,0,False,False,,White REBOUND (Off:0 Def:1),29-40,29,40
 0021900168,2019-11-15,ORL,SAS,14.85,2,9,9,SAS,SAS,fg3_miss,1,False,False,,MISS Gay 3PT Jump Shot,29-40,29,40
 0021900168,2019-11-15,ORL,SAS,14.9,2,9,6,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:0 Def:3),,29-40,29,40
 0021900168,2019-11-15,ORL,SAS,15.05,2,8,57,ORL,ORL,fg3_miss,1,False,False,MISS Augustin 26' 3PT Jump Shot,,29-40,29,40
@@ -158,8 +158,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900168,2019-11-15,ORL,SAS,18.88,2,5,7,ORL,ORL,ft_make,11,False,False,Fultz Free Throw 1 of 2 (3 PTS),,33-47,33,47
 0021900168,2019-11-15,ORL,SAS,18.88,2,5,7,ORL,ORL,ft_make,12,False,False,Fultz Free Throw 2 of 2 (4 PTS),,34-47,34,47
 0021900168,2019-11-15,ORL,SAS,19.1,2,4,54,SAS,SAS,fg_miss,6,True,False,,MISS Forbes 2' Driving Layup,34-47,34,47
-0021900168,2019-11-15,ORL,SAS,19.1,2,4,54,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:1 Def:3),34-47,34,47
 0021900168,2019-11-15,ORL,SAS,19.1,2,4,54,SAS,ORL,block,6,True,False,block,block,34-47,34,47
+0021900168,2019-11-15,ORL,SAS,19.1,2,4,54,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:1 Def:3),34-47,34,47
 0021900168,2019-11-15,ORL,SAS,19.28,2,4,43,SAS,SAS,fg3_miss,1,False,False,,MISS Murray 26' 3PT Jump Shot,34-47,34,47
 0021900168,2019-11-15,ORL,SAS,19.33,2,4,40,ORL,ORL,reb,0,False,False,Aminu REBOUND (Off:0 Def:2),,34-47,34,47
 0021900168,2019-11-15,ORL,SAS,19.47,2,4,32,ORL,ORL,tov,4,False,False,Aminu Traveling Turnover (P1.T7),,34-47,34,47
@@ -274,9 +274,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900168,2019-11-15,ORL,SAS,29.6,3,6,24,SAS,ORL,block,47,True,False,block,block,63-66,63,66
 0021900168,2019-11-15,ORL,SAS,29.68,3,6,19,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:2 Def:9),,63-66,63,66
 0021900168,2019-11-15,ORL,SAS,29.82,3,6,11,ORL,ORL,fg_miss,5,True,False,MISS Gordon 8' Layup,,63-66,63,66
+0021900168,2019-11-15,ORL,SAS,29.82,3,6,11,ORL,SAS,block,5,True,False,block,block,63-66,63,66
 0021900168,2019-11-15,ORL,SAS,29.82,3,6,11,ORL,ORL,reb,0,False,False,Aminu REBOUND (Off:5 Def:5),,63-66,63,66
 0021900168,2019-11-15,ORL,SAS,29.82,3,6,11,ORL,SAS,foul,2,False,False,,Aldridge S.FOUL (P4.PN) (A.Smith),63-66,63,66
-0021900168,2019-11-15,ORL,SAS,29.82,3,6,11,ORL,SAS,block,5,True,False,block,block,63-66,63,66
 0021900168,2019-11-15,ORL,SAS,29.82,3,6,11,ORL,ORL,ft_make,11,False,False,Aminu Free Throw 1 of 2 (13 PTS),,64-66,64,66
 0021900168,2019-11-15,ORL,SAS,29.82,3,6,11,ORL,ORL,ft_miss,12,False,False,MISS Aminu Free Throw 2 of 2,,64-66,64,66
 0021900168,2019-11-15,ORL,SAS,29.9,3,6,6,ORL,ORL,reb,0,False,False,Gordon REBOUND (Off:2 Def:5),,64-66,64,66
@@ -328,11 +328,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900168,2019-11-15,ORL,SAS,35.65,3,0,21,SAS,SAS,reb,0,False,False,,Gay REBOUND (Off:1 Def:3),79-80,79,80
 0021900168,2019-11-15,ORL,SAS,35.95,3,0,3,SAS,SAS,fg_make,47,False,False,,Gay 13' Turnaround Jump Shot (11 PTS),79-82,79,82
 0021900168,2019-11-15,ORL,SAS,36.0,3,0,0,ORL,ORL,fg3_miss,79,True,False,MISS Ross 56' 3PT Pullup Jump Shot,,79-82,79,82
+0021900168,2019-11-15,ORL,SAS,36.0,3,0,0,ORL,SAS,block,79,True,False,block,block,79-82,79,82
 0021900168,2019-11-15,ORL,SAS,36.0,3,0,0,ORL,ORL,reb,0,False,False,MAGIC Rebound,,79-82,79,82
 0021900168,2019-11-15,ORL,SAS,36.0,3,0,0,ORL,,period_end,0,False,False,,,79-82,79,82
 0021900168,2019-11-15,ORL,SAS,36.0,4,12,0,ORL,,period_start,0,False,False,,,79-82,79,82
 0021900168,2019-11-15,ORL,SAS,36.0,4,12,0,ORL,,violation,1,False,False,,,79-82,79,82
-0021900168,2019-11-15,ORL,SAS,36.0,3,0,0,ORL,SAS,block,79,True,False,block,block,79-82,79,82
 0021900168,2019-11-15,ORL,SAS,36.3,4,11,42,SAS,SAS,fg_miss,79,False,False,,MISS Belinelli 20' Pullup Jump Shot,79-82,79,82
 0021900168,2019-11-15,ORL,SAS,36.37,4,11,38,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:0 Def:1),,79-82,79,82
 0021900168,2019-11-15,ORL,SAS,36.58,4,11,25,ORL,ORL,fg_miss,47,False,False,MISS Gordon 11' Turnaround Jump Shot,,79-82,79,82
@@ -394,9 +394,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900168,2019-11-15,ORL,SAS,44.97,4,3,2,SAS,SAS,fg3_miss,1,False,False,,MISS Forbes 26' 3PT Jump Shot,99-99,99,99
 0021900168,2019-11-15,ORL,SAS,45.05,4,2,57,ORL,ORL,reb,0,False,False,Ross REBOUND (Off:0 Def:2),,99-99,99,99
 0021900168,2019-11-15,ORL,SAS,45.13,4,2,52,ORL,ORL,fg_miss,6,True,False,MISS Vucevic 3' Driving Layup,,99-99,99,99
+0021900168,2019-11-15,ORL,SAS,45.13,4,2,52,ORL,SAS,block,6,True,False,block,block,99-99,99,99
 0021900168,2019-11-15,ORL,SAS,45.13,4,2,52,ORL,ORL,reb,0,False,False,MAGIC Rebound,,99-99,99,99
 0021900168,2019-11-15,ORL,SAS,45.13,4,2,52,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.6 Short 0),99-99,99,99
-0021900168,2019-11-15,ORL,SAS,45.13,4,2,52,ORL,SAS,block,6,True,False,block,block,99-99,99,99
 0021900168,2019-11-15,ORL,SAS,45.2,4,2,48,ORL,SAS,foul,2,False,False,,Lyles S.FOUL (P3.T3) (M.Kogut),99-99,99,99
 0021900168,2019-11-15,ORL,SAS,45.2,4,2,48,ORL,ORL,ft_make,11,False,False,Ross Free Throw 1 of 2 (19 PTS),,100-99,100,99
 0021900168,2019-11-15,ORL,SAS,45.2,4,2,48,ORL,ORL,ft_make,12,False,False,Ross Free Throw 2 of 2 (20 PTS),,101-99,101,99

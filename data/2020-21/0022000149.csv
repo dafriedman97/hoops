@@ -65,8 +65,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000149,2021-01-11,CHA,NYK,7.57,1,4,26,NYK,CHA,foul,2,False,False,Bridges S.FOUL (P1.T3) (T.Maddox),,23-11,23,11
 0022000149,2021-01-11,CHA,NYK,7.57,1,4,26,NYK,NYK,ft_make,10,False,False,,Quickley Free Throw 1 of 1 (3 PTS),23-12,23,12
 0022000149,2021-01-11,CHA,NYK,7.77,1,4,14,CHA,CHA,fg_miss,6,True,False,MISS Ball 4' Driving Layup,,23-12,23,12
-0022000149,2021-01-11,CHA,NYK,7.77,1,4,14,CHA,CHA,reb,0,False,False,HORNETS Rebound,,23-12,23,12
 0022000149,2021-01-11,CHA,NYK,7.77,1,4,14,CHA,NYK,block,6,True,False,block,block,23-12,23,12
+0022000149,2021-01-11,CHA,NYK,7.77,1,4,14,CHA,CHA,reb,0,False,False,HORNETS Rebound,,23-12,23,12
 0022000149,2021-01-11,CHA,NYK,7.9,1,4,6,CHA,CHA,fg3_miss,1,False,False,MISS Ball 27' 3PT Jump Shot,,23-12,23,12
 0022000149,2021-01-11,CHA,NYK,7.93,1,4,4,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:0 Def:2),23-12,23,12
 0022000149,2021-01-11,CHA,NYK,8.05,1,3,57,NYK,NYK,fg_make,79,False,False,,Randle 7' Pullup Jump Shot (7 PTS),23-14,23,14
@@ -89,8 +89,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000149,2021-01-11,CHA,NYK,10.88,1,1,7,CHA,CHA,fg_miss,63,False,False,MISS Ball 6' Fadeaway Jumper,,31-22,31,22
 0022000149,2021-01-11,CHA,NYK,10.92,1,1,5,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:0 Def:3),31-22,31,22
 0022000149,2021-01-11,CHA,NYK,10.95,1,1,3,NYK,NYK,tov,2,False,True,,Randle Lost Ball Turnover (P1.T4),31-22,31,22
-0022000149,2021-01-11,CHA,NYK,10.95,1,1,3,CHA,NYK,foul,1,False,False,,Randle P.FOUL (P2.T4) (J.Goldenberg),31-22,31,22
 0022000149,2021-01-11,CHA,NYK,10.95,1,1,3,NYK,CHA,steal,2,False,True,steal,steal,31-22,31,22
+0022000149,2021-01-11,CHA,NYK,10.95,1,1,3,CHA,NYK,foul,1,False,False,,Randle P.FOUL (P2.T4) (J.Goldenberg),31-22,31,22
 0022000149,2021-01-11,CHA,NYK,11.15,1,0,51,CHA,CHA,fg3_miss,1,False,False,MISS Graham 26' 3PT Jump Shot,,31-22,31,22
 0022000149,2021-01-11,CHA,NYK,11.22,1,0,47,NYK,NYK,reb,0,False,False,,Noel REBOUND (Off:0 Def:2),31-22,31,22
 0022000149,2021-01-11,CHA,NYK,11.37,1,0,38,NYK,NYK,tov,4,False,False,,Knox II Traveling Turnover (P1.T5),31-22,31,22
@@ -316,8 +316,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000149,2021-01-11,CHA,NYK,36.0,4,12,0,CHA,,period_start,0,False,False,,,82-68,82,68
 0022000149,2021-01-11,CHA,NYK,36.22,4,11,47,CHA,CHA,fg_make,7,False,False,Bridges 1' Dunk (5 PTS) (Graham 5 AST),,84-68,84,68
 0022000149,2021-01-11,CHA,NYK,36.57,4,11,26,NYK,NYK,fg_miss,6,True,False,,MISS Barrett 2' Driving Layup,84-68,84,68
-0022000149,2021-01-11,CHA,NYK,36.57,4,11,26,NYK,NYK,reb,0,False,False,,Knicks Rebound,84-68,84,68
 0022000149,2021-01-11,CHA,NYK,36.57,4,11,26,NYK,CHA,block,6,True,False,block,block,84-68,84,68
+0022000149,2021-01-11,CHA,NYK,36.57,4,11,26,NYK,NYK,reb,0,False,False,,Knicks Rebound,84-68,84,68
 0022000149,2021-01-11,CHA,NYK,36.7,4,11,18,NYK,NYK,fg_miss,101,False,False,,MISS Rivers 14' Driving Floating Jump Shot,84-68,84,68
 0022000149,2021-01-11,CHA,NYK,36.72,4,11,17,NYK,NYK,reb,0,False,False,,Rivers REBOUND (Off:1 Def:3),84-68,84,68
 0022000149,2021-01-11,CHA,NYK,36.92,4,11,5,NYK,NYK,tov,11,False,False,,Knicks Turnover: Shot Clock (T#15),84-68,84,68
@@ -325,8 +325,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000149,2021-01-11,CHA,NYK,37.27,4,10,44,CHA,CHA,fg3_miss,1,False,False,MISS Graham 26' 3PT Jump Shot,,84-68,84,68
 0022000149,2021-01-11,CHA,NYK,37.37,4,10,38,NYK,NYK,reb,0,False,False,,Robinson REBOUND (Off:7 Def:4),84-68,84,68
 0022000149,2021-01-11,CHA,NYK,37.48,4,10,31,NYK,NYK,fg_miss,5,True,False,,MISS Knox II 2' Layup,84-68,84,68
-0022000149,2021-01-11,CHA,NYK,37.48,4,10,31,NYK,NYK,reb,0,False,False,,Knicks Rebound,84-68,84,68
 0022000149,2021-01-11,CHA,NYK,37.48,4,10,31,NYK,CHA,block,5,True,False,block,block,84-68,84,68
+0022000149,2021-01-11,CHA,NYK,37.48,4,10,31,NYK,NYK,reb,0,False,False,,Knicks Rebound,84-68,84,68
 0022000149,2021-01-11,CHA,NYK,37.73,4,10,16,NYK,NYK,fg_make,52,False,False,,Robinson 2' Alley Oop Dunk (10 PTS) (Knox II 2 AST),84-70,84,70
 0022000149,2021-01-11,CHA,NYK,37.97,4,10,2,CHA,CHA,fg_miss,5,True,False,MISS Washington 9' Layup,,84-70,84,70
 0022000149,2021-01-11,CHA,NYK,37.97,4,10,2,CHA,NYK,block,5,True,False,block,block,84-70,84,70
@@ -358,12 +358,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000149,2021-01-11,CHA,NYK,40.95,4,7,3,CHA,CHA,reb,0,False,False,Ball REBOUND (Off:0 Def:12),,92-77,92,77
 0022000149,2021-01-11,CHA,NYK,41.32,4,6,41,CHA,CHA,fg3_make,63,False,False,Ball 24' 3PT Fadeaway Jumper (5 PTS) (Martin 2 AST),,95-77,95,77
 0022000149,2021-01-11,CHA,NYK,41.62,4,6,23,NYK,NYK,fg_miss,5,True,False,,MISS Randle 2' Layup,95-77,95,77
+0022000149,2021-01-11,CHA,NYK,41.62,4,6,23,NYK,CHA,block,5,True,False,block,block,95-77,95,77
 0022000149,2021-01-11,CHA,NYK,41.62,4,6,23,NYK,NYK,reb,0,False,False,,Payton REBOUND (Off:3 Def:2),95-77,95,77
 0022000149,2021-01-11,CHA,NYK,41.62,4,6,23,NYK,CHA,foul,2,False,False,Ball S.FOUL (P2.T2) (T.Maddox),,95-77,95,77
 0022000149,2021-01-11,CHA,NYK,41.62,4,6,23,NYK,NYK,ft_miss,11,False,False,,MISS Payton Free Throw 1 of 2,95-77,95,77
 0022000149,2021-01-11,CHA,NYK,41.62,4,6,23,NYK,NYK,reb,1,False,False,,Knicks Rebound,95-77,95,77
 0022000149,2021-01-11,CHA,NYK,41.62,4,6,23,NYK,NYK,ft_miss,12,False,False,,MISS Payton Free Throw 2 of 2,95-77,95,77
-0022000149,2021-01-11,CHA,NYK,41.62,4,6,23,NYK,CHA,block,5,True,False,block,block,95-77,95,77
 0022000149,2021-01-11,CHA,NYK,41.63,4,6,22,NYK,NYK,reb,0,False,False,,Knicks Rebound,95-77,95,77
 0022000149,2021-01-11,CHA,NYK,41.68,4,6,19,NYK,CHA,foul,2,False,False,Biyombo S.FOUL (P3.T3) (T.Maddox),,95-77,95,77
 0022000149,2021-01-11,CHA,NYK,41.68,4,6,19,CHA,NYK,foul,11,False,False,,Randle T.FOUL (P2.T1) (N.Sago),95-77,95,77
@@ -392,9 +392,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000149,2021-01-11,CHA,NYK,44.1,4,3,54,NYK,NYK,tov,37,False,False,,Payton Offensive Foul Turnover (P3.T16),98-81,98,81
 0022000149,2021-01-11,CHA,NYK,44.38,4,3,37,CHA,CHA,fg3_make,80,False,False,Ball 26' 3PT Step Back Jump Shot (8 PTS),,101-81,101,81
 0022000149,2021-01-11,CHA,NYK,44.72,4,3,17,NYK,NYK,fg_miss,44,True,False,,MISS Barrett 3' Reverse Layup,101-81,101,81
+0022000149,2021-01-11,CHA,NYK,44.72,4,3,17,NYK,CHA,block,44,True,False,block,block,101-81,101,81
 0022000149,2021-01-11,CHA,NYK,44.72,4,3,17,NYK,NYK,reb,0,False,False,,Knicks Rebound,101-81,101,81
 0022000149,2021-01-11,CHA,NYK,44.72,4,3,17,NYK,CHA,foul,1,False,False,Graham P.FOUL (P1.T4) (J.Goldenberg),,101-81,101,81
-0022000149,2021-01-11,CHA,NYK,44.72,4,3,17,NYK,CHA,block,44,True,False,block,block,101-81,101,81
 0022000149,2021-01-11,CHA,NYK,44.9,4,3,6,NYK,NYK,fg3_make,1,False,False,,Payton 26' 3PT Jump Shot (11 PTS) (Rivers 1 AST),101-84,101,84
 0022000149,2021-01-11,CHA,NYK,45.22,4,2,47,CHA,CHA,tov,1,False,True,Rozier Bad Pass Turnover (P2.T9),,101-84,101,84
 0022000149,2021-01-11,CHA,NYK,45.22,4,2,47,CHA,NYK,steal,1,False,True,steal,steal,101-84,101,84

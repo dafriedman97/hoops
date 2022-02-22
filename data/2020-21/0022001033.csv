@@ -15,8 +15,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001033,2021-05-11,DET,MIN,1.78,1,10,13,MIN,DET,foul,4,False,False,Jackson OFF.Foul (P1) (J.DeRosa),,0-3,0,3
 0022001033,2021-05-11,DET,MIN,1.78,1,10,13,DET,DET,tov,37,False,False,Jackson Offensive Foul Turnover (P1.T1),,0-3,0,3
 0022001033,2021-05-11,DET,MIN,2.03,1,9,58,MIN,MIN,fg_miss,98,True,False,,MISS Vanderbilt 3' Cutting Layup Shot,0-3,0,3
-0022001033,2021-05-11,DET,MIN,2.03,1,9,58,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,0-3,0,3
 0022001033,2021-05-11,DET,MIN,2.03,1,9,58,MIN,DET,block,98,True,False,block,block,0-3,0,3
+0022001033,2021-05-11,DET,MIN,2.03,1,9,58,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,0-3,0,3
 0022001033,2021-05-11,DET,MIN,2.2,1,9,48,MIN,MIN,fg_make,58,False,False,,Towns 5' Turnaround Hook Shot (5 PTS),0-5,0,5
 0022001033,2021-05-11,DET,MIN,2.27,1,9,44,DET,DET,fg_make,108,False,False,Doumbouya 1' Cutting Dunk Shot (2 PTS) (Hayes 1 AST),,2-5,2,5
 0022001033,2021-05-11,DET,MIN,2.52,1,9,29,MIN,MIN,fg_make,80,False,False,,Edwards 21' Step Back Jump Shot (2 PTS),2-7,2,7
@@ -87,8 +87,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001033,2021-05-11,DET,MIN,9.45,1,2,33,MIN,MIN,fg3_miss,1,False,False,,MISS Towns 25' 3PT Jump Shot,15-25,15,25
 0022001033,2021-05-11,DET,MIN,9.52,1,2,29,DET,DET,reb,0,False,False,Lee REBOUND (Off:0 Def:1),,15-25,15,25
 0022001033,2021-05-11,DET,MIN,9.63,1,2,22,DET,DET,fg_miss,6,True,False,MISS Sirvydis 3' Driving Layup,,15-25,15,25
-0022001033,2021-05-11,DET,MIN,9.63,1,2,22,DET,DET,reb,0,False,False,PISTONS Rebound,,15-25,15,25
 0022001033,2021-05-11,DET,MIN,9.63,1,2,22,DET,MIN,block,6,True,False,block,block,15-25,15,25
+0022001033,2021-05-11,DET,MIN,9.63,1,2,22,DET,DET,reb,0,False,False,PISTONS Rebound,,15-25,15,25
 0022001033,2021-05-11,DET,MIN,9.72,1,2,17,DET,DET,fg3_miss,1,False,False,MISS Sirvydis 25' 3PT Jump Shot,,15-25,15,25
 0022001033,2021-05-11,DET,MIN,9.77,1,2,14,MIN,MIN,reb,0,False,False,,Okogie REBOUND (Off:0 Def:1),15-25,15,25
 0022001033,2021-05-11,DET,MIN,9.85,1,2,9,MIN,MIN,fg_make,5,False,False,,Reid 1' Layup (2 PTS) (Russell 2 AST),15-27,15,27
@@ -108,8 +108,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001033,2021-05-11,DET,MIN,11.33,1,0,40,MIN,MIN,fg3_miss,1,False,False,,MISS Russell 3PT Jump Shot,18-30,18,30
 0022001033,2021-05-11,DET,MIN,11.4,1,0,36,MIN,MIN,reb,0,False,False,,McLaughlin REBOUND (Off:1 Def:1),18-30,18,30
 0022001033,2021-05-11,DET,MIN,11.43,1,0,34,MIN,MIN,fg_miss,5,True,False,,MISS McLaughlin 1' Layup,18-30,18,30
-0022001033,2021-05-11,DET,MIN,11.43,1,0,34,DET,DET,reb,0,False,False,Cook REBOUND (Off:0 Def:1),,18-30,18,30
 0022001033,2021-05-11,DET,MIN,11.43,1,0,34,MIN,DET,block,5,True,False,block,block,18-30,18,30
+0022001033,2021-05-11,DET,MIN,11.43,1,0,34,DET,DET,reb,0,False,False,Cook REBOUND (Off:0 Def:1),,18-30,18,30
 0022001033,2021-05-11,DET,MIN,11.53,1,0,28,DET,MIN,foul,2,False,False,,Okogie S.FOUL (P2.T4) (K.Mauer),18-30,18,30
 0022001033,2021-05-11,DET,MIN,11.53,1,0,28,DET,DET,ft_make,11,False,False,Jackson Free Throw 1 of 2 (4 PTS),,19-30,19,30
 0022001033,2021-05-11,DET,MIN,11.53,1,0,28,DET,DET,ft_make,12,False,False,Jackson Free Throw 2 of 2 (5 PTS),,20-30,20,30
@@ -118,11 +118,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001033,2021-05-11,DET,MIN,11.78,1,0,13,MIN,MIN,fg3_miss,1,False,False,,MISS Russell 3PT Jump Shot,20-30,20,30
 0022001033,2021-05-11,DET,MIN,11.83,1,0,10,DET,DET,reb,0,False,False,Cook REBOUND (Off:0 Def:2),,20-30,20,30
 0022001033,2021-05-11,DET,MIN,12.0,1,0,0,DET,DET,tov,2,False,True,Jackson Lost Ball Turnover (P4.T6),,20-30,20,30
-0022001033,2021-05-11,DET,MIN,12.0,1,0,0,MIN,MIN,fg3_miss,1,False,False,,MISS McLaughlin 39' 3PT Jump Shot,20-30,20,30
-0022001033,2021-05-11,DET,MIN,12.0,1,0,0,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,20-30,20,30
+0022001033,2021-05-11,DET,MIN,12.0,1,0,0,DET,MIN,steal,2,False,True,steal,steal,20-30,20,30
 0022001033,2021-05-11,DET,MIN,12.0,1,0,0,MIN,,period_end,0,False,False,,,20-30,20,30
 0022001033,2021-05-11,DET,MIN,12.0,2,12,0,MIN,,period_start,0,False,False,,,20-30,20,30
-0022001033,2021-05-11,DET,MIN,12.0,1,0,0,DET,MIN,steal,2,False,True,steal,steal,20-30,20,30
+0022001033,2021-05-11,DET,MIN,12.0,1,0,0,MIN,MIN,fg3_miss,1,False,False,,MISS McLaughlin 39' 3PT Jump Shot,20-30,20,30
+0022001033,2021-05-11,DET,MIN,12.0,1,0,0,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,20-30,20,30
 0022001033,2021-05-11,DET,MIN,12.23,2,11,46,DET,DET,fg_miss,98,False,False,MISS Stewart 3' Cutting Layup Shot,,20-30,20,30
 0022001033,2021-05-11,DET,MIN,12.28,2,11,43,MIN,MIN,reb,0,False,False,,Hernangomez REBOUND (Off:0 Def:1),20-30,20,30
 0022001033,2021-05-11,DET,MIN,12.4,2,11,36,MIN,MIN,fg_miss,80,False,False,,MISS Russell 18' Step Back Jump Shot,20-30,20,30
@@ -160,8 +160,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001033,2021-05-11,DET,MIN,16.03,2,7,58,DET,DET,reb,0,False,False,Cook REBOUND (Off:0 Def:3),,27-37,27,37
 0022001033,2021-05-11,DET,MIN,16.22,2,7,47,DET,DET,fg_make,5,False,False,Stewart 1' Layup (5 PTS) (Hayes 3 AST),,29-37,29,37
 0022001033,2021-05-11,DET,MIN,16.42,2,7,35,MIN,MIN,fg_miss,98,False,False,,MISS Reid 3' Cutting Layup Shot,29-37,29,37
-0022001033,2021-05-11,DET,MIN,16.42,2,7,35,DET,DET,reb,0,False,False,PISTONS Rebound,,29-37,29,37
 0022001033,2021-05-11,DET,MIN,16.42,2,7,35,,DET,jump_ball,0,False,False,Jump Ball Stewart vs. Reid: Tip to Lee,,29-37,29,37
+0022001033,2021-05-11,DET,MIN,16.42,2,7,35,DET,DET,reb,0,False,False,PISTONS Rebound,,29-37,29,37
 0022001033,2021-05-11,DET,MIN,16.48,2,7,31,DET,MIN,foul,1,False,False,,Rubio P.FOUL (P2.T2) (H.Workman),29-37,29,37
 0022001033,2021-05-11,DET,MIN,16.48,2,7,31,DET,DET,ft_make,11,False,False,Lee Free Throw 1 of 2 (3 PTS),,30-37,30,37
 0022001033,2021-05-11,DET,MIN,16.48,2,7,31,DET,DET,ft_make,12,False,False,Lee Free Throw 2 of 2 (4 PTS),,31-37,31,37
@@ -199,8 +199,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001033,2021-05-11,DET,MIN,20.68,2,3,19,DET,DET,fg3_miss,79,False,False,MISS Hayes 26' 3PT Pullup Jump Shot,,38-52,38,52
 0022001033,2021-05-11,DET,MIN,20.72,2,3,17,MIN,MIN,reb,0,False,False,,Rubio REBOUND (Off:0 Def:1),38-52,38,52
 0022001033,2021-05-11,DET,MIN,20.87,2,3,8,MIN,MIN,fg_miss,5,True,False,,MISS Rubio 3' Layup,38-52,38,52
-0022001033,2021-05-11,DET,MIN,20.87,2,3,8,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,38-52,38,52
 0022001033,2021-05-11,DET,MIN,20.87,2,3,8,MIN,DET,block,5,True,False,block,block,38-52,38,52
+0022001033,2021-05-11,DET,MIN,20.87,2,3,8,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,38-52,38,52
 0022001033,2021-05-11,DET,MIN,20.95,2,3,3,MIN,MIN,fg3_miss,1,False,False,,MISS Russell 3PT Jump Shot,38-52,38,52
 0022001033,2021-05-11,DET,MIN,21.0,2,3,0,MIN,MIN,reb,0,False,False,,Vanderbilt REBOUND (Off:2 Def:3),38-52,38,52
 0022001033,2021-05-11,DET,MIN,21.03,2,2,58,MIN,MIN,fg3_miss,1,False,False,,MISS Edwards 26' 3PT Jump Shot,38-52,38,52
@@ -356,9 +356,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001033,2021-05-11,DET,MIN,35.8,3,0,12,DET,DET,fg3_make,1,False,False,Bey 25' 3PT Jump Shot (21 PTS) (Lee 2 AST),,65-86,65,86
 0022001033,2021-05-11,DET,MIN,35.98,3,0,1,MIN,DET,foul,28,False,False,Lee Personal Take Foul (P1.T4) (K.Mauer),,65-86,65,86
 0022001033,2021-05-11,DET,MIN,36.0,3,0,0,MIN,MIN,tov,1,False,True,,Russell Bad Pass Turnover (P2.T12),65-86,65,86
+0022001033,2021-05-11,DET,MIN,36.0,3,0,0,MIN,DET,steal,1,False,True,steal,steal,65-86,65,86
 0022001033,2021-05-11,DET,MIN,36.0,3,0,0,MIN,,period_end,0,False,False,,,65-86,65,86
 0022001033,2021-05-11,DET,MIN,36.0,4,12,0,MIN,,period_start,0,False,False,,,65-86,65,86
-0022001033,2021-05-11,DET,MIN,36.0,3,0,0,MIN,DET,steal,1,False,True,steal,steal,65-86,65,86
 0022001033,2021-05-11,DET,MIN,36.2,4,11,48,MIN,MIN,fg_make,98,False,False,,Reid 2' Cutting Layup Shot (6 PTS) (Russell 7 AST),65-88,65,88
 0022001033,2021-05-11,DET,MIN,36.47,4,11,32,DET,DET,tov,6,False,False,Okafor Double Dribble Turnover (P3.T25),,65-88,65,88
 0022001033,2021-05-11,DET,MIN,36.67,4,11,20,MIN,MIN,fg_make,75,False,False,,Russell 1' Driving Finger Roll Layup (13 PTS),65-90,65,90
@@ -374,8 +374,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001033,2021-05-11,DET,MIN,37.45,4,10,33,MIN,MIN,reb,1,False,False,,Timberwolves Rebound,69-92,69,92
 0022001033,2021-05-11,DET,MIN,37.45,4,10,33,MIN,MIN,ft_make,12,False,False,,McDaniels Free Throw 2 of 2 (1 PTS),69-93,69,93
 0022001033,2021-05-11,DET,MIN,37.63,4,10,22,DET,DET,fg_miss,6,True,False,MISS Cook 1' Driving Layup,,69-93,69,93
-0022001033,2021-05-11,DET,MIN,37.63,4,10,22,DET,DET,reb,0,False,False,PISTONS Rebound,,69-93,69,93
 0022001033,2021-05-11,DET,MIN,37.63,4,10,22,DET,MIN,block,6,True,False,block,block,69-93,69,93
+0022001033,2021-05-11,DET,MIN,37.63,4,10,22,DET,DET,reb,0,False,False,PISTONS Rebound,,69-93,69,93
 0022001033,2021-05-11,DET,MIN,37.75,4,10,15,DET,DET,tov,2,False,True,Jackson Lost Ball Turnover (P8.T26),,69-93,69,93
 0022001033,2021-05-11,DET,MIN,37.75,4,10,15,DET,MIN,steal,2,False,True,steal,steal,69-93,69,93
 0022001033,2021-05-11,DET,MIN,37.85,4,10,9,MIN,MIN,fg_make,50,False,False,,Reid 1' Running Dunk (8 PTS) (Russell 8 AST),69-95,69,95
@@ -410,10 +410,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001033,2021-05-11,DET,MIN,41.68,4,6,19,MIN,MIN,fg3_make,1,False,False,,Towns 26' 3PT Jump Shot (25 PTS) (Rubio 5 AST),83-108,83,108
 0022001033,2021-05-11,DET,MIN,41.87,4,6,8,DET,DET,fg_make,78,False,False,Hayes 9' Floating Jump Shot (10 PTS),,85-108,85,108
 0022001033,2021-05-11,DET,MIN,42.18,4,5,49,MIN,MIN,fg_make,79,False,False,,Rubio 12' Pullup Jump Shot (19 PTS),85-110,85,110
-0022001033,2021-05-11,DET,MIN,42.35,4,5,39,DET,DET,fg_miss,6,True,False,MISS Cook 2' Driving Layup,,85-110,85,110
-0022001033,2021-05-11,DET,MIN,42.35,4,5,39,DET,DET,reb,0,False,False,PISTONS Rebound,,85-110,85,110
 0022001033,2021-05-11,DET,MIN,42.35,4,5,39,,DET,jump_ball,0,False,False,Jump Ball Cook vs. McDaniels: Tip to Sirvydis,,85-110,85,110
+0022001033,2021-05-11,DET,MIN,42.35,4,5,39,DET,DET,fg_miss,6,True,False,MISS Cook 2' Driving Layup,,85-110,85,110
 0022001033,2021-05-11,DET,MIN,42.35,4,5,39,DET,MIN,block,6,True,False,block,block,85-110,85,110
+0022001033,2021-05-11,DET,MIN,42.35,4,5,39,DET,DET,reb,0,False,False,PISTONS Rebound,,85-110,85,110
 0022001033,2021-05-11,DET,MIN,42.55,4,5,27,DET,MIN,foul,2,False,False,,Hernangomez S.FOUL (P2.T4) (H.Workman),85-110,85,110
 0022001033,2021-05-11,DET,MIN,42.55,4,5,27,DET,DET,ft_miss,11,False,False,MISS Cook Free Throw 1 of 2,,85-110,85,110
 0022001033,2021-05-11,DET,MIN,42.55,4,5,27,DET,DET,reb,1,False,False,PISTONS Rebound,,85-110,85,110
@@ -449,8 +449,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001033,2021-05-11,DET,MIN,46.27,4,1,44,DET,DET,reb,0,False,False,Doumbouya REBOUND (Off:3 Def:4),,91-116,91,116
 0022001033,2021-05-11,DET,MIN,46.4,4,1,36,DET,DET,fg_make,5,False,False,Stewart 1' Layup (11 PTS) (Lee 5 AST),,93-116,93,116
 0022001033,2021-05-11,DET,MIN,46.7,4,1,18,MIN,MIN,tov,1,False,True,,Hernangomez Bad Pass Turnover (P1.T15),93-116,93,116
-0022001033,2021-05-11,DET,MIN,46.7,4,1,18,DET,MIN,foul,1,False,False,,Hernangomez P.FOUL (P3.PN) (K.Mauer),93-116,93,116
 0022001033,2021-05-11,DET,MIN,46.7,4,1,18,MIN,DET,steal,1,False,True,steal,steal,93-116,93,116
+0022001033,2021-05-11,DET,MIN,46.7,4,1,18,DET,MIN,foul,1,False,False,,Hernangomez P.FOUL (P3.PN) (K.Mauer),93-116,93,116
 0022001033,2021-05-11,DET,MIN,46.7,4,1,18,DET,DET,ft_make,11,False,False,Doumbouya Free Throw 1 of 2 (11 PTS),,94-116,94,116
 0022001033,2021-05-11,DET,MIN,46.7,4,1,18,DET,DET,ft_miss,12,False,False,MISS Doumbouya Free Throw 2 of 2,,94-116,94,116
 0022001033,2021-05-11,DET,MIN,46.75,4,1,15,MIN,MIN,reb,0,False,False,,Hernangomez REBOUND (Off:0 Def:5),94-116,94,116

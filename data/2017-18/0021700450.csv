@@ -44,8 +44,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700450,2017-12-18,LAL,GSW,4.38,1,7,37,GSW,GSW,fg_make,78,False,False,,McGee 9' Floating Jump Shot (6 PTS) (Bell 1 AST),14-10,14,10
 0021700450,2017-12-18,LAL,GSW,4.63,1,7,22,LAL,LAL,tov,39,False,False,Caldwell-Pope Step Out of Bounds Turnover (P1.T1),,14-10,14,10
 0021700450,2017-12-18,LAL,GSW,4.83,1,7,10,GSW,GSW,fg_miss,1,True,False,,MISS Cook 20' Jump Shot,14-10,14,10
-0021700450,2017-12-18,LAL,GSW,4.83,1,7,10,GSW,GSW,reb,0,False,False,,Warriors Rebound,14-10,14,10
 0021700450,2017-12-18,LAL,GSW,4.83,1,7,10,GSW,LAL,block,1,True,False,block,block,14-10,14,10
+0021700450,2017-12-18,LAL,GSW,4.83,1,7,10,GSW,GSW,reb,0,False,False,,Warriors Rebound,14-10,14,10
 0021700450,2017-12-18,LAL,GSW,5.05,1,6,57,GSW,GSW,fg_miss,78,False,False,,MISS Durant 6' Floating Jump Shot,14-10,14,10
 0021700450,2017-12-18,LAL,GSW,5.05,1,6,57,GSW,GSW,reb,0,False,False,,Warriors Rebound,14-10,14,10
 0021700450,2017-12-18,LAL,GSW,5.05,1,6,57,GSW,LAL,foul,3,False,False,Nance Jr. L.B.FOUL (P1.T2) (B.Kennedy),,14-10,14,10
@@ -77,8 +77,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700450,2017-12-18,LAL,GSW,7.63,1,4,22,LAL,LAL,reb,0,False,False,Caldwell-Pope REBOUND (Off:0 Def:3),,18-14,18,14
 0021700450,2017-12-18,LAL,GSW,7.68,1,4,19,LAL,LAL,fg_make,50,False,False,Randle 1' Running Dunk (2 PTS) (Brewer 1 AST),,20-14,20,14
 0021700450,2017-12-18,LAL,GSW,7.93,1,4,4,GSW,GSW,fg_miss,5,True,False,,MISS Bell 4' Layup,20-14,20,14
-0021700450,2017-12-18,LAL,GSW,7.93,1,4,4,GSW,GSW,reb,0,False,False,,Warriors Rebound,20-14,20,14
 0021700450,2017-12-18,LAL,GSW,7.93,1,4,4,GSW,LAL,block,5,True,False,block,block,20-14,20,14
+0021700450,2017-12-18,LAL,GSW,7.93,1,4,4,GSW,GSW,reb,0,False,False,,Warriors Rebound,20-14,20,14
 0021700450,2017-12-18,LAL,GSW,8.12,1,3,53,GSW,GSW,fg_make,98,False,False,,Casspi 1' Cutting Layup Shot (4 PTS) (Durant 3 AST),20-16,20,16
 0021700450,2017-12-18,LAL,GSW,8.37,1,3,38,LAL,LAL,fg_miss,5,True,False,MISS Ball 2' Layup,,20-16,20,16
 0021700450,2017-12-18,LAL,GSW,8.37,1,3,38,LAL,GSW,block,5,True,False,block,block,20-16,20,16
@@ -207,8 +207,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700450,2017-12-18,LAL,GSW,20.02,2,3,59,GSW,GSW,fg3_miss,79,False,False,,MISS Thompson 25' 3PT Pullup Jump Shot,38-46,38,46
 0021700450,2017-12-18,LAL,GSW,20.08,2,3,55,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:2 Def:1),38-46,38,46
 0021700450,2017-12-18,LAL,GSW,20.12,2,3,53,GSW,GSW,fg_miss,5,True,False,,MISS Looney 2' Layup,38-46,38,46
-0021700450,2017-12-18,LAL,GSW,20.12,2,3,53,LAL,LAL,reb,0,False,False,Ball REBOUND (Off:0 Def:1),,38-46,38,46
 0021700450,2017-12-18,LAL,GSW,20.12,2,3,53,GSW,LAL,block,5,True,False,block,block,38-46,38,46
+0021700450,2017-12-18,LAL,GSW,20.12,2,3,53,LAL,LAL,reb,0,False,False,Ball REBOUND (Off:0 Def:1),,38-46,38,46
 0021700450,2017-12-18,LAL,GSW,20.17,2,3,50,LAL,GSW,foul,2,False,False,,Durant S.FOUL (P1.T4) (B.Kennedy),38-46,38,46
 0021700450,2017-12-18,LAL,GSW,20.17,2,3,50,LAL,LAL,ft_miss,11,False,False,MISS Ball Free Throw 1 of 2,,38-46,38,46
 0021700450,2017-12-18,LAL,GSW,20.17,2,3,50,LAL,LAL,reb,1,False,False,LAKERS Rebound,,38-46,38,46
@@ -252,9 +252,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700450,2017-12-18,LAL,GSW,22.55,2,1,27,GSW,GSW,ft_make,10,False,False,,Durant Free Throw 1 of 1 (12 PTS),48-55,48,55
 0021700450,2017-12-18,LAL,GSW,22.7,2,1,18,LAL,LAL,fg3_make,1,False,False,Ball 26' 3PT Jump Shot (7 PTS),,51-55,51,55
 0021700450,2017-12-18,LAL,GSW,22.95,2,1,3,GSW,GSW,fg_miss,7,True,False,,MISS Looney 2' Dunk,51-55,51,55
+0021700450,2017-12-18,LAL,GSW,22.95,2,1,3,GSW,LAL,block,7,True,False,block,block,51-55,51,55
 0021700450,2017-12-18,LAL,GSW,22.95,2,1,3,GSW,GSW,reb,0,False,False,,Casspi REBOUND (Off:1 Def:4),51-55,51,55
 0021700450,2017-12-18,LAL,GSW,22.95,2,1,3,GSW,LAL,foul,2,False,False,Ball S.FOUL (P3.PN) (C.Blair),,51-55,51,55
-0021700450,2017-12-18,LAL,GSW,22.95,2,1,3,GSW,LAL,block,7,True,False,block,block,51-55,51,55
 0021700450,2017-12-18,LAL,GSW,22.95,2,1,3,GSW,GSW,ft_make,11,False,False,,Casspi Free Throw 1 of 2 (9 PTS),51-56,51,56
 0021700450,2017-12-18,LAL,GSW,22.95,2,1,3,GSW,GSW,ft_make,12,False,False,,Casspi Free Throw 2 of 2 (10 PTS),51-57,51,57
 0021700450,2017-12-18,LAL,GSW,23.15,2,0,51,LAL,LAL,fg_miss,78,False,False,MISS Caldwell-Pope 12' Floating Jump Shot,,51-57,51,57
@@ -297,8 +297,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700450,2017-12-18,LAL,GSW,27.25,3,8,45,LAL,LAL,reb,0,False,False,Nance Jr. REBOUND (Off:0 Def:2),,60-59,60,59
 0021700450,2017-12-18,LAL,GSW,27.33,3,8,40,LAL,GSW,violation,5,False,False,,Bell Violation:Kicked Ball (B.Kennedy),60-59,60,59
 0021700450,2017-12-18,LAL,GSW,27.5,3,8,30,LAL,LAL,fg_miss,5,True,False,MISS Ingram 4' Layup,,60-59,60,59
-0021700450,2017-12-18,LAL,GSW,27.5,3,8,30,LAL,LAL,reb,0,False,False,LAKERS Rebound,,60-59,60,59
 0021700450,2017-12-18,LAL,GSW,27.5,3,8,30,LAL,GSW,block,5,True,False,block,block,60-59,60,59
+0021700450,2017-12-18,LAL,GSW,27.5,3,8,30,LAL,LAL,reb,0,False,False,LAKERS Rebound,,60-59,60,59
 0021700450,2017-12-18,LAL,GSW,27.63,3,8,22,LAL,LAL,fg_miss,5,True,False,MISS Ingram 5' Layup,,60-59,60,59
 0021700450,2017-12-18,LAL,GSW,27.63,3,8,22,LAL,GSW,block,5,True,False,block,block,60-59,60,59
 0021700450,2017-12-18,LAL,GSW,27.68,3,8,19,GSW,GSW,reb,0,False,False,,Thompson REBOUND (Off:1 Def:5),60-59,60,59
@@ -357,8 +357,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700450,2017-12-18,LAL,GSW,33.57,3,2,26,LAL,LAL,fg_make,79,False,False,Hart 17' Pullup Jump Shot (7 PTS) (Kuzma 2 AST),,73-74,73,74
 0021700450,2017-12-18,LAL,GSW,33.7,3,2,18,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.4 Short 0),73-74,73,74
 0021700450,2017-12-18,LAL,GSW,33.8,3,2,12,GSW,GSW,fg_make,6,False,False,,Durant 2' Driving Layup (16 PTS),73-76,73,76
-0021700450,2017-12-18,LAL,GSW,33.8,3,2,12,GSW,LAL,foul,2,False,False,Hart S.FOUL (P2.PN) (L.Wood),,73-76,73,76
 0021700450,2017-12-18,LAL,GSW,33.8,3,2,12,GSW,GSW,ft_make,10,False,False,,Durant Free Throw 1 of 1 (17 PTS),73-77,73,77
+0021700450,2017-12-18,LAL,GSW,33.8,3,2,12,GSW,LAL,foul,2,False,False,Hart S.FOUL (P2.PN) (L.Wood),,73-76,73,76
 0021700450,2017-12-18,LAL,GSW,34.12,3,1,53,LAL,LAL,fg_make,44,False,False,Randle 1' Reverse Layup (8 PTS) (Kuzma 3 AST),,75-77,75,77
 0021700450,2017-12-18,LAL,GSW,34.43,3,1,34,GSW,GSW,fg_make,5,False,False,,Looney 2' Layup (8 PTS) (Durant 6 AST),75-79,75,79
 0021700450,2017-12-18,LAL,GSW,34.63,3,1,22,LAL,LAL,fg_make,43,False,False,Randle 2' Alley Oop Layup (10 PTS) (Clarkson 2 AST),,77-79,77,79
@@ -372,10 +372,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700450,2017-12-18,LAL,GSW,35.52,3,0,29,LAL,GSW,foul,1,False,False,,Iguodala P.FOUL (P3.T2) (C.Blair),79-83,79,83
 0021700450,2017-12-18,LAL,GSW,35.82,3,0,11,LAL,LAL,fg3_make,1,False,False,Kuzma 26' 3PT Jump Shot (20 PTS) (Clarkson 3 AST),,82-83,82,83
 0021700450,2017-12-18,LAL,GSW,36.0,3,0,0,GSW,GSW,fg_miss,5,True,False,,MISS Durant 3' Layup,82-83,82,83
+0021700450,2017-12-18,LAL,GSW,36.0,3,0,0,GSW,LAL,block,5,True,False,block,block,82-83,82,83
 0021700450,2017-12-18,LAL,GSW,36.0,3,0,0,GSW,GSW,reb,0,False,False,,Warriors Rebound,82-83,82,83
 0021700450,2017-12-18,LAL,GSW,36.0,3,0,0,GSW,,period_end,0,False,False,,,82-83,82,83
 0021700450,2017-12-18,LAL,GSW,36.0,4,12,0,GSW,,period_start,0,False,False,,,82-83,82,83
-0021700450,2017-12-18,LAL,GSW,36.0,3,0,0,GSW,LAL,block,5,True,False,block,block,82-83,82,83
 0021700450,2017-12-18,LAL,GSW,36.32,4,11,41,GSW,GSW,fg_make,5,False,False,,West 2' Layup (6 PTS) (Casspi 3 AST),82-85,82,85
 0021700450,2017-12-18,LAL,GSW,36.65,4,11,21,LAL,LAL,fg_make,1,False,False,Kuzma 23' Jump Shot (22 PTS),,84-85,84,85
 0021700450,2017-12-18,LAL,GSW,37.05,4,10,57,GSW,GSW,fg_make,44,False,False,,Casspi 1' Reverse Layup (14 PTS) (West 2 AST),84-87,84,87
@@ -422,8 +422,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700450,2017-12-18,LAL,GSW,40.53,4,7,28,LAL,LAL,reb,0,False,False,Hart REBOUND (Off:1 Def:1),,88-91,88,91
 0021700450,2017-12-18,LAL,GSW,40.92,4,7,5,LAL,LAL,tov,4,False,False,Clarkson Traveling Turnover (P2.T12),,88-91,88,91
 0021700450,2017-12-18,LAL,GSW,41.12,4,6,53,GSW,GSW,fg_miss,5,True,False,,MISS Thompson 3' Layup,88-91,88,91
-0021700450,2017-12-18,LAL,GSW,41.12,4,6,53,GSW,GSW,reb,0,False,False,,Warriors Rebound,88-91,88,91
 0021700450,2017-12-18,LAL,GSW,41.12,4,6,53,GSW,LAL,block,5,True,False,block,block,88-91,88,91
+0021700450,2017-12-18,LAL,GSW,41.12,4,6,53,GSW,GSW,reb,0,False,False,,Warriors Rebound,88-91,88,91
 0021700450,2017-12-18,LAL,GSW,41.18,4,6,49,GSW,GSW,fg_miss,5,False,False,,MISS Young 2' Layup,88-91,88,91
 0021700450,2017-12-18,LAL,GSW,41.2,4,6,48,GSW,GSW,reb,0,False,False,,Iguodala REBOUND (Off:1 Def:5),88-91,88,91
 0021700450,2017-12-18,LAL,GSW,41.22,4,6,47,GSW,GSW,fg_make,107,False,False,,Iguodala 1' Tip Dunk Shot (7 PTS),88-93,88,93

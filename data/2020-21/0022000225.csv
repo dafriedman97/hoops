@@ -69,14 +69,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000225,2021-04-23,POR,MEM,7.32,1,4,41,POR,POR,fg_miss,44,False,False,MISS Lillard 1' Reverse Layup,,14-16,14,16
 0022000225,2021-04-23,POR,MEM,7.35,1,4,39,MEM,MEM,reb,0,False,False,,Anderson REBOUND (Off:1 Def:2),14-16,14,16
 0022000225,2021-04-23,POR,MEM,7.38,1,4,37,MEM,MEM,tov,2,False,True,,Anderson Lost Ball Turnover (P1.T2),14-16,14,16
-0022000225,2021-04-23,POR,MEM,7.38,1,4,37,POR,MEM,foul,1,False,False,,Anderson P.FOUL (P1.T2) (A.Moyer-Gleich),14-16,14,16
 0022000225,2021-04-23,POR,MEM,7.38,1,4,37,MEM,POR,steal,2,False,True,steal,steal,14-16,14,16
+0022000225,2021-04-23,POR,MEM,7.38,1,4,37,POR,MEM,foul,1,False,False,,Anderson P.FOUL (P1.T2) (A.Moyer-Gleich),14-16,14,16
 0022000225,2021-04-23,POR,MEM,7.63,1,4,22,POR,POR,tov,1,False,True,Lillard Bad Pass Turnover (P2.T4),,14-16,14,16
 0022000225,2021-04-23,POR,MEM,7.63,1,4,22,POR,MEM,steal,1,False,True,steal,steal,14-16,14,16
 0022000225,2021-04-23,POR,MEM,7.7,1,4,18,MEM,MEM,fg_make,50,False,False,,Brooks 1' Running Dunk (2 PTS) (Morant 1 AST),14-18,14,18
 0022000225,2021-04-23,POR,MEM,7.85,1,4,9,MEM,POR,foul,4,False,False,Nurkic OFF.Foul (P2) (E.Malloy),,14-18,14,18
-0022000225,2021-04-23,POR,MEM,7.85,1,4,9,POR,POR,tov,37,False,False,Nurkic Offensive Foul Turnover (P2.T5),,14-18,14,18
 0022000225,2021-04-23,POR,MEM,7.85,1,4,9,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.1 Short 0),14-18,14,18
+0022000225,2021-04-23,POR,MEM,7.85,1,4,9,POR,POR,tov,37,False,False,Nurkic Offensive Foul Turnover (P2.T5),,14-18,14,18
 0022000225,2021-04-23,POR,MEM,8.05,1,3,57,MEM,POR,foul,1,False,False,Anthony P.FOUL (P1.T2) (E.Malloy),,14-18,14,18
 0022000225,2021-04-23,POR,MEM,8.13,1,3,52,MEM,MEM,fg_make,6,False,False,,Morant 7' Driving Layup (10 PTS) (Clarke 1 AST),14-20,14,20
 0022000225,2021-04-23,POR,MEM,8.47,1,3,32,POR,MEM,foul,1,False,False,,Bane P.FOUL (P1.T3) (E.Malloy),14-20,14,20
@@ -117,8 +117,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000225,2021-04-23,POR,MEM,13.42,2,10,35,POR,POR,fg_miss,57,False,False,MISS Kanter 4' Driving Hook Shot,,26-32,26,32
 0022000225,2021-04-23,POR,MEM,13.45,2,10,33,MEM,MEM,reb,0,False,False,,Winslow REBOUND (Off:0 Def:2),26-32,26,32
 0022000225,2021-04-23,POR,MEM,13.5,2,10,30,MEM,MEM,fg_miss,41,True,False,,MISS Winslow 2' Running Layup,26-32,26,32
-0022000225,2021-04-23,POR,MEM,13.5,2,10,30,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,26-32,26,32
 0022000225,2021-04-23,POR,MEM,13.5,2,10,30,MEM,POR,block,41,True,False,block,block,26-32,26,32
+0022000225,2021-04-23,POR,MEM,13.5,2,10,30,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,26-32,26,32
 0022000225,2021-04-23,POR,MEM,13.92,2,10,5,POR,POR,tov,11,False,False,TRAIL BLAZERS Turnover: Shot Clock (T#7),,26-32,26,32
 0022000225,2021-04-23,POR,MEM,14.23,2,9,46,MEM,MEM,fg_make,1,False,False,,Tillman 19' Jump Shot (6 PTS) (Bane 4 AST),26-34,26,34
 0022000225,2021-04-23,POR,MEM,14.5,2,9,30,POR,MEM,foul,1,False,False,,Clarke P.FOUL (P1.T1) (B.Forte),26-34,26,34
@@ -376,8 +376,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000225,2021-04-23,POR,MEM,41.0,4,7,0,MEM,MEM,fg_miss,72,False,False,,MISS Winslow 3' Putback Layup,112-114,112,114
 0022000225,2021-04-23,POR,MEM,41.02,4,6,59,POR,POR,reb,0,False,False,Kanter REBOUND (Off:3 Def:3),,112-114,112,114
 0022000225,2021-04-23,POR,MEM,41.32,4,6,41,POR,POR,fg3_miss,79,False,False,MISS McCollum 25' 3PT Pullup Jump Shot,,112-114,112,114
-0022000225,2021-04-23,POR,MEM,41.4,4,6,36,POR,POR,fg_make,72,False,False,Kanter Putback Layup (12 PTS),,114-114,114,114
 0022000225,2021-04-23,POR,MEM,41.4,4,6,36,POR,POR,reb,0,False,False,Kanter REBOUND (Off:4 Def:3),,114-114,114,114
+0022000225,2021-04-23,POR,MEM,41.4,4,6,36,POR,POR,fg_make,72,False,False,Kanter Putback Layup (12 PTS),,114-114,114,114
 0022000225,2021-04-23,POR,MEM,41.57,4,6,26,MEM,POR,foul,2,False,False,Kanter S.FOUL (P3.T3) (A.Moyer-Gleich),,114-114,114,114
 0022000225,2021-04-23,POR,MEM,41.57,4,6,26,MEM,MEM,ft_miss,11,False,False,,MISS Morant Free Throw 1 of 2,114-114,114,114
 0022000225,2021-04-23,POR,MEM,41.57,4,6,26,MEM,MEM,reb,1,False,False,,Grizzlies Rebound,114-114,114,114
@@ -433,8 +433,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000225,2021-04-23,POR,MEM,47.78,4,0,13,POR,POR,fg_miss,86,False,False,MISS Lillard 10' Turnaround Fadeaway Shot,,125-126,125,126
 0022000225,2021-04-23,POR,MEM,47.82,4,0,11,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:3 Def:14),,125-126,125,126
 0022000225,2021-04-23,POR,MEM,47.83,4,0,10,POR,POR,fg_miss,72,True,False,MISS Nurkic Putback Layup,,125-126,125,126
-0022000225,2021-04-23,POR,MEM,47.83,4,0,10,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,125-126,125,126
 0022000225,2021-04-23,POR,MEM,47.83,4,0,10,POR,MEM,block,72,True,False,block,block,125-126,125,126
+0022000225,2021-04-23,POR,MEM,47.83,4,0,10,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,125-126,125,126
 0022000225,2021-04-23,POR,MEM,47.87,4,0,8,POR,POR,fg_miss,44,False,False,MISS Nurkic 1' Reverse Layup,,125-126,125,126
 0022000225,2021-04-23,POR,MEM,47.88,4,0,7,MEM,MEM,reb,0,False,False,,Morant REBOUND (Off:1 Def:4),125-126,125,126
 0022000225,2021-04-23,POR,MEM,47.95,4,0,3,MEM,POR,foul,28,False,False,Nurkic Personal Take Foul (P5.PN) (B.Forte),,125-126,125,126

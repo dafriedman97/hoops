@@ -226,9 +226,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000009,2020-12-25,DEN,LAC,23.13,2,0,52,DEN,DEN,fg3_miss,79,False,False,MISS Harris 3PT Pullup Jump Shot,,50-70,50,70
 0022000009,2020-12-25,DEN,LAC,23.18,2,0,49,LAC,LAC,reb,0,False,False,,Batum REBOUND (Off:2 Def:5),50-70,50,70
 0022000009,2020-12-25,DEN,LAC,23.32,2,0,41,DEN,LAC,foul,3,False,False,,Batum L.B.FOUL (P2.PN) (J.Van Duyne),50-70,50,70
-0022000009,2020-12-25,DEN,LAC,23.32,2,0,41,LAC,LAC,tov,1,False,False,,Batum Bad Pass Turnover (P2.T11),50-70,50,70
 0022000009,2020-12-25,DEN,LAC,23.32,2,0,41,LAC,DEN,ft_make,11,False,False,Barton Free Throw 1 of 2 (8 PTS),,51-70,51,70
 0022000009,2020-12-25,DEN,LAC,23.32,2,0,41,LAC,DEN,ft_make,12,False,False,Barton Free Throw 2 of 2 (9 PTS),,52-70,52,70
+0022000009,2020-12-25,DEN,LAC,23.32,2,0,41,LAC,LAC,tov,1,False,False,,Batum Bad Pass Turnover (P2.T11),50-70,50,70
 0022000009,2020-12-25,DEN,LAC,23.58,2,0,25,LAC,LAC,fg_miss,79,False,False,,MISS Kennard 19' Pullup Jump Shot,52-70,52,70
 0022000009,2020-12-25,DEN,LAC,23.63,2,0,22,LAC,LAC,reb,0,False,False,,Batum REBOUND (Off:3 Def:5),52-70,52,70
 0022000009,2020-12-25,DEN,LAC,23.8,2,0,12,LAC,DEN,foul,1,False,False,Barton P.FOUL (P2.PN) (D.Collins),,52-70,52,70
@@ -241,8 +241,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000009,2020-12-25,DEN,LAC,24.68,3,11,19,DEN,DEN,fg3_miss,47,False,False,MISS Jokic 25' 3PT Turnaround Jump Shot,,55-74,55,74
 0022000009,2020-12-25,DEN,LAC,24.75,3,11,15,DEN,DEN,reb,0,False,False,Murray REBOUND (Off:1 Def:1),,55-74,55,74
 0022000009,2020-12-25,DEN,LAC,24.75,3,11,15,DEN,DEN,fg_miss,44,True,False,MISS Murray 4' Reverse Layup,,55-74,55,74
-0022000009,2020-12-25,DEN,LAC,24.75,3,11,15,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,55-74,55,74
 0022000009,2020-12-25,DEN,LAC,24.75,3,11,15,DEN,LAC,block,44,True,False,block,block,55-74,55,74
+0022000009,2020-12-25,DEN,LAC,24.75,3,11,15,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,55-74,55,74
 0022000009,2020-12-25,DEN,LAC,24.92,3,11,5,DEN,DEN,fg3_miss,80,False,False,MISS Murray 25' 3PT Step Back Jump Shot,,55-74,55,74
 0022000009,2020-12-25,DEN,LAC,24.93,3,11,4,LAC,LAC,reb,0,False,False,,Clippers Rebound,55-74,55,74
 0022000009,2020-12-25,DEN,LAC,25.17,3,10,50,LAC,LAC,fg_make,9,False,False,,Ibaka Driving Dunk (8 PTS) (George 4 AST),55-76,55,76
@@ -251,8 +251,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000009,2020-12-25,DEN,LAC,25.47,3,10,32,LAC,LAC,reb,0,False,False,,Leonard REBOUND (Off:2 Def:3),55-76,55,76
 0022000009,2020-12-25,DEN,LAC,25.52,3,10,29,LAC,LAC,tov,45,False,False,,Leonard Out of Bounds - Bad Pass Turnover Turnover (P1.T12),55-76,55,76
 0022000009,2020-12-25,DEN,LAC,25.82,3,10,11,DEN,DEN,fg_miss,75,False,False,MISS Jokic 2' Driving Finger Roll Layup,,55-76,55,76
-0022000009,2020-12-25,DEN,LAC,25.92,3,10,5,DEN,DEN,fg_miss,97,False,False,MISS Jokic Tip Layup Shot,,55-76,55,76
 0022000009,2020-12-25,DEN,LAC,25.92,3,10,5,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:3 Def:3),,55-76,55,76
+0022000009,2020-12-25,DEN,LAC,25.92,3,10,5,DEN,DEN,fg_miss,97,False,False,MISS Jokic Tip Layup Shot,,55-76,55,76
 0022000009,2020-12-25,DEN,LAC,25.92,3,10,5,LAC,LAC,reb,0,False,False,,Batum REBOUND (Off:3 Def:6),55-76,55,76
 0022000009,2020-12-25,DEN,LAC,25.95,3,10,3,LAC,LAC,fg3_miss,103,False,False,,MISS George 26' 3PT Running Pull-Up Jump Shot,55-76,55,76
 0022000009,2020-12-25,DEN,LAC,25.98,3,10,1,DEN,DEN,reb,0,False,False,Millsap REBOUND (Off:0 Def:1),,55-76,55,76
@@ -363,8 +363,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000009,2020-12-25,DEN,LAC,37.27,4,10,44,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.4 Short 0),85-98,85,98
 0022000009,2020-12-25,DEN,LAC,37.48,4,10,31,LAC,LAC,fg_make,79,False,False,,Leonard 19' Pullup Jump Shot (19 PTS) (Jackson 3 AST),85-100,85,100
 0022000009,2020-12-25,DEN,LAC,37.88,4,10,7,DEN,DEN,fg_miss,6,True,False,MISS Barton 5' Driving Layup,,85-100,85,100
-0022000009,2020-12-25,DEN,LAC,37.88,4,10,7,LAC,LAC,reb,0,False,False,,Clippers Rebound,85-100,85,100
 0022000009,2020-12-25,DEN,LAC,37.88,4,10,7,DEN,LAC,block,6,True,False,block,block,85-100,85,100
+0022000009,2020-12-25,DEN,LAC,37.88,4,10,7,LAC,LAC,reb,0,False,False,,Clippers Rebound,85-100,85,100
 0022000009,2020-12-25,DEN,LAC,38.2,4,9,48,LAC,LAC,fg_make,63,False,False,,Leonard 15' Fadeaway Jumper (21 PTS),85-102,85,102
 0022000009,2020-12-25,DEN,LAC,38.45,4,9,33,DEN,DEN,fg_make,79,False,False,Morris 8' Pullup Jump Shot (13 PTS),,87-102,87,102
 0022000009,2020-12-25,DEN,LAC,38.87,4,9,8,LAC,LAC,fg3_miss,1,False,False,,MISS Jackson 30' 3PT Jump Shot,87-102,87,102

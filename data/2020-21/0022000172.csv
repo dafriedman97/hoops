@@ -44,9 +44,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000172,2021-01-13,LAC,NOP,4.97,1,7,2,NOP,LAC,foul,2,False,False,Ibaka S.FOUL (P1.T2) (L.Richardson),,12-10,12,10
 0022000172,2021-01-13,LAC,NOP,4.97,1,7,2,NOP,NOP,ft_make,10,False,False,,Ingram Free Throw 1 of 1 (5 PTS),12-11,12,11
 0022000172,2021-01-13,LAC,NOP,5.17,1,6,50,LAC,NOP,foul,2,False,False,,Thornwell S.FOUL (P1.T3) (L.Richardson),12-11,12,11
-0022000172,2021-01-13,LAC,NOP,5.17,1,6,50,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 1 Short 0),,12-11,12,11
 0022000172,2021-01-13,LAC,NOP,5.17,1,6,50,LAC,LAC,ft_make,11,False,False,George Free Throw 1 of 2 (1 PTS),,13-11,13,11
 0022000172,2021-01-13,LAC,NOP,5.17,1,6,50,LAC,LAC,ft_make,12,False,False,George Free Throw 2 of 2 (2 PTS),,14-11,14,11
+0022000172,2021-01-13,LAC,NOP,5.17,1,6,50,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 1 Short 0),,12-11,12,11
 0022000172,2021-01-13,LAC,NOP,5.53,1,6,28,NOP,LAC,foul,2,False,False,Batum S.FOUL (P1.T3) (L.Richardson),,14-11,14,11
 0022000172,2021-01-13,LAC,NOP,5.53,1,6,28,NOP,NOP,ft_make,11,False,False,,Ingram Free Throw 1 of 2 (6 PTS),14-12,14,12
 0022000172,2021-01-13,LAC,NOP,5.53,1,6,28,NOP,NOP,ft_make,12,False,False,,Ingram Free Throw 2 of 2 (7 PTS),14-13,14,13
@@ -65,8 +65,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000172,2021-01-13,LAC,NOP,8.13,1,3,52,NOP,NOP,reb,0,False,False,,Ingram REBOUND (Off:2 Def:2),20-20,20,20
 0022000172,2021-01-13,LAC,NOP,8.17,1,3,50,NOP,LAC,foul,1,False,False,Ibaka P.FOUL (P2.T4) (L.Richardson),,20-20,20,20
 0022000172,2021-01-13,LAC,NOP,8.32,1,3,41,NOP,NOP,fg_miss,6,False,False,,MISS Alexander-Walker 2' Driving Layup,20-20,20,20
-0022000172,2021-01-13,LAC,NOP,8.4,1,3,36,NOP,NOP,fg_make,72,False,False,,Adams Putback Layup (8 PTS),20-22,20,22
 0022000172,2021-01-13,LAC,NOP,8.4,1,3,36,NOP,NOP,reb,0,False,False,,Adams REBOUND (Off:2 Def:1),20-22,20,22
+0022000172,2021-01-13,LAC,NOP,8.4,1,3,36,NOP,NOP,fg_make,72,False,False,,Adams Putback Layup (8 PTS),20-22,20,22
 0022000172,2021-01-13,LAC,NOP,8.68,1,3,19,LAC,LAC,fg3_miss,1,False,False,MISS Batum 26' 3PT Jump Shot,,20-22,20,22
 0022000172,2021-01-13,LAC,NOP,8.77,1,3,14,NOP,NOP,reb,0,False,False,,Alexander-Walker REBOUND (Off:0 Def:4),20-22,20,22
 0022000172,2021-01-13,LAC,NOP,9.05,1,2,57,NOP,NOP,fg_make,75,False,False,,Alexander-Walker 3' Driving Finger Roll Layup (9 PTS),20-24,20,24
@@ -218,14 +218,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000172,2021-01-13,LAC,NOP,25.48,3,10,31,LAC,LAC,fg3_make,1,False,False,Batum 26' 3PT Jump Shot (9 PTS) (Ibaka 2 AST),,64-47,64,47
 0022000172,2021-01-13,LAC,NOP,25.93,3,10,4,NOP,NOP,fg3_make,80,False,False,,Alexander-Walker 28' 3PT Step Back Jump Shot (16 PTS),64-50,64,50
 0022000172,2021-01-13,LAC,NOP,26.18,3,9,49,LAC,LAC,fg_miss,6,True,False,MISS Leonard 5' Driving Layup,,64-50,64,50
+0022000172,2021-01-13,LAC,NOP,26.18,3,9,49,LAC,NOP,block,6,True,False,block,block,64-50,64,50
 0022000172,2021-01-13,LAC,NOP,26.18,3,9,49,NOP,NOP,reb,0,False,False,,Hart REBOUND (Off:0 Def:2),64-50,64,50
 0022000172,2021-01-13,LAC,NOP,26.18,3,9,49,NOP,LAC,foul,28,False,False,Batum Personal Take Foul (P3.T3) (L.Richardson),,64-50,64,50
-0022000172,2021-01-13,LAC,NOP,26.18,3,9,49,LAC,NOP,block,6,True,False,block,block,64-50,64,50
 0022000172,2021-01-13,LAC,NOP,26.42,3,9,35,NOP,NOP,fg_make,6,False,False,,Ingram 7' Driving Layup (13 PTS) (Alexander-Walker 1 AST),64-52,64,52
 0022000172,2021-01-13,LAC,NOP,26.42,3,9,35,NOP,LAC,foul,2,False,False,Batum S.FOUL (P4.T4) (L.Richardson),,64-52,64,52
-0022000172,2021-01-13,LAC,NOP,26.42,3,9,35,NOP,NOP,ft_make,10,False,False,,Ingram Free Throw 1 of 1 (14 PTS),64-53,64,53
 0022000172,2021-01-13,LAC,NOP,26.42,3,9,35,LAC,NOP,violation,6,False,False,,Double Lane,64-53,64,53
 0022000172,2021-01-13,LAC,NOP,26.42,3,9,35,NOP,LAC,violation,6,False,False,Double Lane,,64-53,64,53
+0022000172,2021-01-13,LAC,NOP,26.42,3,9,35,NOP,NOP,ft_make,10,False,False,,Ingram Free Throw 1 of 1 (14 PTS),64-53,64,53
 0022000172,2021-01-13,LAC,NOP,26.77,3,9,14,LAC,LAC,fg_miss,1,False,False,MISS George 16' Jump Shot,,64-53,64,53
 0022000172,2021-01-13,LAC,NOP,26.85,3,9,9,NOP,NOP,reb,0,False,False,,Alexander-Walker REBOUND (Off:0 Def:6),64-53,64,53
 0022000172,2021-01-13,LAC,NOP,26.9,3,9,6,NOP,NOP,tov,40,False,False,,Ingram Out of Bounds Lost Ball Turnover (P4.T7),64-53,64,53
@@ -355,8 +355,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000172,2021-01-13,LAC,NOP,44.33,4,3,40,NOP,LAC,foul,3,False,False,Beverley L.B.FOUL (P3.T3) (L.Richardson),,102-93,102,93
 0022000172,2021-01-13,LAC,NOP,44.33,4,3,40,NOP,NOP,timeout,1,False,False,,Pelicans Timeout: Regular (Reg.3 Short 0),102-93,102,93
 0022000172,2021-01-13,LAC,NOP,44.48,4,3,31,NOP,NOP,fg_miss,6,True,False,,MISS Alexander-Walker 5' Driving Layup,102-93,102,93
-0022000172,2021-01-13,LAC,NOP,44.48,4,3,31,NOP,NOP,reb,0,False,False,,Pelicans Rebound,102-93,102,93
 0022000172,2021-01-13,LAC,NOP,44.48,4,3,31,NOP,LAC,block,6,True,False,block,block,102-93,102,93
+0022000172,2021-01-13,LAC,NOP,44.48,4,3,31,NOP,NOP,reb,0,False,False,,Pelicans Rebound,102-93,102,93
 0022000172,2021-01-13,LAC,NOP,44.6,4,3,24,NOP,NOP,fg3_make,1,False,False,,Alexander-Walker 26' 3PT Jump Shot (35 PTS) (Adams 4 AST),102-96,102,96
 0022000172,2021-01-13,LAC,NOP,45.0,4,3,0,LAC,LAC,fg3_make,1,False,False,Leonard 27' 3PT Jump Shot (28 PTS) (George 6 AST),,105-96,105,96
 0022000172,2021-01-13,LAC,NOP,45.17,4,2,50,NOP,NOP,fg_make,80,False,False,,Alexander-Walker 19' Step Back Jump Shot (37 PTS),105-98,105,98

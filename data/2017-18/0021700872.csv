@@ -200,8 +200,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700872,2018-02-22,GSW,LAC,22.0,2,2,0,GSW,GSW,tov,1,False,True,Thompson Bad Pass Turnover (P2.T8),,63-53,63,53
 0021700872,2018-02-22,GSW,LAC,22.0,2,2,0,GSW,LAC,steal,1,False,True,steal,steal,63-53,63,53
 0021700872,2018-02-22,GSW,LAC,22.32,2,1,41,LAC,LAC,tov,2,False,True,,Harris Lost Ball Turnover (P1.T7),63-53,63,53
-0021700872,2018-02-22,GSW,LAC,22.32,2,1,41,GSW,LAC,foul,1,False,False,,Harris P.FOUL (P2.PN) (N.Buchert),63-53,63,53
 0021700872,2018-02-22,GSW,LAC,22.32,2,1,41,LAC,GSW,steal,2,False,True,steal,steal,63-53,63,53
+0021700872,2018-02-22,GSW,LAC,22.32,2,1,41,GSW,LAC,foul,1,False,False,,Harris P.FOUL (P2.PN) (N.Buchert),63-53,63,53
 0021700872,2018-02-22,GSW,LAC,22.32,2,1,41,GSW,GSW,ft_make,11,False,False,Curry Free Throw 1 of 2 (11 PTS),,64-53,64,53
 0021700872,2018-02-22,GSW,LAC,22.32,2,1,41,GSW,GSW,ft_make,12,False,False,Curry Free Throw 2 of 2 (12 PTS),,65-53,65,53
 0021700872,2018-02-22,GSW,LAC,22.68,2,1,19,LAC,LAC,fg3_miss,1,False,False,,MISS Williams 27' 3PT Jump Shot,65-53,65,53
@@ -338,8 +338,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700872,2018-02-22,GSW,LAC,36.73,4,11,16,LAC,LAC,fg_miss,1,False,False,,MISS Gallinari 12' Jump Shot,104-93,104,93
 0021700872,2018-02-22,GSW,LAC,36.82,4,11,11,LAC,LAC,reb,0,False,False,,Harrell REBOUND (Off:1 Def:1),104-93,104,93
 0021700872,2018-02-22,GSW,LAC,36.83,4,11,10,LAC,LAC,fg_miss,5,True,False,,MISS Gallinari 2' Layup,104-93,104,93
-0021700872,2018-02-22,GSW,LAC,36.83,4,11,10,LAC,LAC,reb,0,False,False,,Clippers Rebound,104-93,104,93
 0021700872,2018-02-22,GSW,LAC,36.83,4,11,10,LAC,GSW,block,5,True,False,block,block,104-93,104,93
+0021700872,2018-02-22,GSW,LAC,36.83,4,11,10,LAC,LAC,reb,0,False,False,,Clippers Rebound,104-93,104,93
 0021700872,2018-02-22,GSW,LAC,36.92,4,11,5,LAC,LAC,fg3_miss,1,False,False,,MISS Teodosic 26' 3PT Jump Shot,104-93,104,93
 0021700872,2018-02-22,GSW,LAC,36.97,4,11,2,GSW,GSW,reb,0,False,False,Thompson REBOUND (Off:0 Def:2),,104-93,104,93
 0021700872,2018-02-22,GSW,LAC,37.13,4,10,52,GSW,GSW,fg_miss,1,False,False,MISS Green 17' Jump Shot,,104-93,104,93
@@ -370,8 +370,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700872,2018-02-22,GSW,LAC,40.08,4,7,55,GSW,GSW,fg3_miss,1,False,False,MISS Durant 30' 3PT Jump Shot,,106-102,106,102
 0021700872,2018-02-22,GSW,LAC,40.15,4,7,51,LAC,LAC,reb,0,False,False,,Teodosic REBOUND (Off:0 Def:1),106-102,106,102
 0021700872,2018-02-22,GSW,LAC,40.2,4,7,48,LAC,LAC,fg_miss,5,True,False,,MISS Wallace 5' Layup,106-102,106,102
-0021700872,2018-02-22,GSW,LAC,40.2,4,7,48,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,106-102,106,102
 0021700872,2018-02-22,GSW,LAC,40.2,4,7,48,LAC,GSW,block,5,True,False,block,block,106-102,106,102
+0021700872,2018-02-22,GSW,LAC,40.2,4,7,48,GSW,GSW,reb,0,False,False,WARRIORS Rebound,,106-102,106,102
 0021700872,2018-02-22,GSW,LAC,40.23,4,7,46,,GSW,jump_ball,0,False,False,Jump Ball Durant vs. Wallace: Tip to Thompson,,106-102,106,102
 0021700872,2018-02-22,GSW,LAC,40.43,4,7,34,GSW,LAC,foul,2,False,False,,Wallace S.FOUL (P3.T4) (M.Callahan),106-102,106,102
 0021700872,2018-02-22,GSW,LAC,40.43,4,7,34,GSW,GSW,ft_make,11,False,False,Durant Free Throw 1 of 2 (18 PTS),,107-102,107,102
@@ -402,10 +402,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700872,2018-02-22,GSW,LAC,43.28,4,4,43,GSW,GSW,fg3_miss,1,False,False,MISS Young 24' 3PT Jump Shot,,115-110,115,110
 0021700872,2018-02-22,GSW,LAC,43.35,4,4,39,LAC,LAC,reb,0,False,False,,Harris REBOUND (Off:0 Def:5),115-110,115,110
 0021700872,2018-02-22,GSW,LAC,43.52,4,4,29,LAC,LAC,tov,1,False,True,,Teodosic Bad Pass Turnover (P3.T15),115-110,115,110
+0021700872,2018-02-22,GSW,LAC,43.52,4,4,29,LAC,GSW,steal,1,False,True,steal,steal,115-110,115,110
 0021700872,2018-02-22,GSW,LAC,43.52,4,4,29,GSW,LAC,foul,9,False,False,,Williams C.P.FOUL (P3.PN) (G.Petraitis),115-110,115,110
 0021700872,2018-02-22,GSW,LAC,43.52,4,4,29,GSW,GSW,ft_miss,25,False,False,MISS Green Free Throw Clear Path 1 of 2,,115-110,115,110
 0021700872,2018-02-22,GSW,LAC,43.52,4,4,29,GSW,GSW,reb,1,False,False,WARRIORS Rebound,,115-110,115,110
-0021700872,2018-02-22,GSW,LAC,43.52,4,4,29,LAC,GSW,steal,1,False,True,steal,steal,115-110,115,110
 0021700872,2018-02-22,GSW,LAC,43.52,4,4,29,GSW,GSW,ft_make,26,False,False,Green Free Throw Clear Path 2 of 2 (11 PTS),,116-110,116,110
 0021700872,2018-02-22,GSW,LAC,43.67,4,4,20,GSW,GSW,fg3_miss,1,False,False,MISS Thompson 25' 3PT Jump Shot,,116-110,116,110
 0021700872,2018-02-22,GSW,LAC,43.72,4,4,17,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:1 Def:5),,116-110,116,110

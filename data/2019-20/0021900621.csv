@@ -83,9 +83,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900621,2020-01-17,TOR,WAS,8.93,1,3,4,WAS,WAS,fg3_make,1,False,False,,McRae 25' 3PT Jump Shot (3 PTS) (Bertans 2 AST),27-19,27,19
 0021900621,2020-01-17,TOR,WAS,9.1,1,2,54,TOR,TOR,fg_make,3,False,False,Ibaka 7' Hook Shot (4 PTS) (Lowry 5 AST),,29-19,29,19
 0021900621,2020-01-17,TOR,WAS,9.37,1,2,38,WAS,WAS,fg_miss,98,True,False,,MISS McRae 2' Cutting Layup Shot,29-19,29,19
+0021900621,2020-01-17,TOR,WAS,9.37,1,2,38,WAS,TOR,block,98,True,False,block,block,29-19,29,19
 0021900621,2020-01-17,TOR,WAS,9.37,1,2,38,WAS,WAS,reb,0,False,False,,Wizards Rebound,29-19,29,19
 0021900621,2020-01-17,TOR,WAS,9.37,1,2,38,TOR,TOR,timeout,1,False,False,RAPTORS Timeout: Regular (Full 1 Short 0),,29-19,29,19
-0021900621,2020-01-17,TOR,WAS,9.37,1,2,38,WAS,TOR,block,98,True,False,block,block,29-19,29,19
 0021900621,2020-01-17,TOR,WAS,9.52,1,2,29,WAS,WAS,fg_miss,1,False,False,,MISS McRae 17' Jump Shot,29-19,29,19
 0021900621,2020-01-17,TOR,WAS,9.57,1,2,26,WAS,WAS,reb,0,False,False,,Brown Jr. REBOUND (Off:2 Def:2),29-19,29,19
 0021900621,2020-01-17,TOR,WAS,9.57,1,2,26,WAS,WAS,fg_make,63,False,False,,Brown Jr. 3' Fadeaway Jumper (4 PTS),29-21,29,21
@@ -145,8 +145,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900621,2020-01-17,TOR,WAS,15.38,2,8,37,TOR,WAS,foul,1,False,False,,Bertans P.FOUL (P1.T2) (M.Davis),47-28,47,28
 0021900621,2020-01-17,TOR,WAS,15.38,2,8,37,TOR,WAS,foul,6,False,False,,Bertans AWAY.FROM.PLAY.FOUL (P2.T3) (A.Nagy),47-28,47,28
 0021900621,2020-01-17,TOR,WAS,15.38,2,8,37,TOR,TOR,ft_miss,10,False,False,MISS Powell Free Throw 1 of 1,,47-28,47,28
-0021900621,2020-01-17,TOR,WAS,15.38,2,8,37,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,47-28,47,28
 0021900621,2020-01-17,TOR,WAS,15.38,2,8,37,TOR,WAS,foul,11,False,False,,Bertans T.FOUL (P2.T3) (M.Davis),47-28,47,28
+0021900621,2020-01-17,TOR,WAS,15.38,2,8,37,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,47-28,47,28
 0021900621,2020-01-17,TOR,WAS,15.38,2,8,37,TOR,TOR,ft_make,16,False,False,Powell Free Throw Technical (16 PTS),,48-28,48,28
 0021900621,2020-01-17,TOR,WAS,15.55,2,8,27,TOR,TOR,fg_miss,79,False,False,MISS Hollis-Jefferson 19' Pullup Jump Shot,,48-28,48,28
 0021900621,2020-01-17,TOR,WAS,15.62,2,8,23,WAS,WAS,reb,0,False,False,,Smith REBOUND (Off:0 Def:1),48-28,48,28
@@ -177,8 +177,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900621,2020-01-17,TOR,WAS,18.22,2,5,47,WAS,WAS,ft_make,11,False,False,,Beal Free Throw 1 of 2 (3 PTS),55-35,55,35
 0021900621,2020-01-17,TOR,WAS,18.22,2,5,47,WAS,WAS,ft_make,12,False,False,,Beal Free Throw 2 of 2 (4 PTS),55-36,55,36
 0021900621,2020-01-17,TOR,WAS,18.45,2,5,33,TOR,TOR,fg_miss,75,False,False,MISS Siakam 2' Driving Finger Roll Layup,,55-36,55,36
-0021900621,2020-01-17,TOR,WAS,18.55,2,5,27,TOR,TOR,fg_make,97,False,False,Ibaka 1' Tip Layup Shot (8 PTS),,57-36,57,36
 0021900621,2020-01-17,TOR,WAS,18.55,2,5,27,TOR,TOR,reb,0,False,False,Ibaka REBOUND (Off:1 Def:3),,57-36,57,36
+0021900621,2020-01-17,TOR,WAS,18.55,2,5,27,TOR,TOR,fg_make,97,False,False,Ibaka 1' Tip Layup Shot (8 PTS),,57-36,57,36
 0021900621,2020-01-17,TOR,WAS,18.62,2,5,23,WAS,WAS,fg_miss,1,False,False,,MISS Beal 22' Jump Shot,57-36,57,36
 0021900621,2020-01-17,TOR,WAS,18.62,2,5,23,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,57-36,57,36
 0021900621,2020-01-17,TOR,WAS,18.68,2,5,19,,TOR,jump_ball,0,False,False,Jump Ball Ibaka vs. Bonga: Tip to Anunoby,,57-36,57,36
@@ -254,8 +254,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900621,2020-01-17,TOR,WAS,26.8,3,9,12,TOR,TOR,fg_make,50,False,False,Siakam 2' Running Dunk (9 PTS) (Gasol 2 AST),,75-58,75,58
 0021900621,2020-01-17,TOR,WAS,26.92,3,9,5,WAS,WAS,fg_make,79,False,False,,Thomas 15' Pullup Jump Shot (5 PTS),75-60,75,60
 0021900621,2020-01-17,TOR,WAS,27.18,3,8,49,TOR,TOR,fg_miss,6,True,False,MISS Anunoby 3' Driving Layup,,75-60,75,60
-0021900621,2020-01-17,TOR,WAS,27.18,3,8,49,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,75-60,75,60
 0021900621,2020-01-17,TOR,WAS,27.18,3,8,49,TOR,WAS,block,6,True,False,block,block,75-60,75,60
+0021900621,2020-01-17,TOR,WAS,27.18,3,8,49,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,75-60,75,60
 0021900621,2020-01-17,TOR,WAS,27.3,3,8,42,TOR,TOR,fg3_miss,1,False,False,MISS Anunoby 3PT Jump Shot,,75-60,75,60
 0021900621,2020-01-17,TOR,WAS,27.35,3,8,39,TOR,TOR,reb,0,False,False,Ibaka REBOUND (Off:2 Def:4),,75-60,75,60
 0021900621,2020-01-17,TOR,WAS,27.4,3,8,36,TOR,TOR,tov,2,False,True,Ibaka Lost Ball Turnover (P1.T11),,75-60,75,60
@@ -381,8 +381,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900621,2020-01-17,TOR,WAS,40.2,4,7,48,WAS,WAS,tov,2,False,True,,Brown Jr. Lost Ball Turnover (P1.T24),113-89,113,89
 0021900621,2020-01-17,TOR,WAS,40.2,4,7,48,WAS,TOR,steal,2,False,True,steal,steal,113-89,113,89
 0021900621,2020-01-17,TOR,WAS,40.25,4,7,45,TOR,TOR,fg_miss,41,True,False,MISS Davis 2' Running Layup,,113-89,113,89
-0021900621,2020-01-17,TOR,WAS,40.25,4,7,45,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,113-89,113,89
 0021900621,2020-01-17,TOR,WAS,40.25,4,7,45,TOR,WAS,block,41,True,False,block,block,113-89,113,89
+0021900621,2020-01-17,TOR,WAS,40.25,4,7,45,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,113-89,113,89
 0021900621,2020-01-17,TOR,WAS,40.27,4,7,44,TOR,WAS,foul,1,False,False,,Payton II P.FOUL (P3.T3) (C.Blair),113-89,113,89
 0021900621,2020-01-17,TOR,WAS,40.42,4,7,35,TOR,TOR,tov,1,False,True,Davis Bad Pass Turnover (P2.T16),,113-89,113,89
 0021900621,2020-01-17,TOR,WAS,40.42,4,7,35,TOR,WAS,steal,1,False,True,steal,steal,113-89,113,89

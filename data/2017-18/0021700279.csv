@@ -118,8 +118,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700279,2017-11-25,WAS,POR,16.42,2,7,35,WAS,WAS,fg_miss,78,False,False,MISS Oubre Jr. 19' Floating Jump Shot,,40-33,40,33
 0021700279,2017-11-25,WAS,POR,16.45,2,7,33,WAS,WAS,reb,0,False,False,Oubre Jr. REBOUND (Off:1 Def:3),,40-33,40,33
 0021700279,2017-11-25,WAS,POR,16.47,2,7,32,WAS,WAS,fg_miss,5,True,False,MISS Oubre Jr. 2' Layup,,40-33,40,33
-0021700279,2017-11-25,WAS,POR,16.47,2,7,32,POR,POR,reb,0,False,False,,Davis REBOUND (Off:2 Def:4),40-33,40,33
 0021700279,2017-11-25,WAS,POR,16.47,2,7,32,WAS,POR,block,5,True,False,block,block,40-33,40,33
+0021700279,2017-11-25,WAS,POR,16.47,2,7,32,POR,POR,reb,0,False,False,,Davis REBOUND (Off:2 Def:4),40-33,40,33
 0021700279,2017-11-25,WAS,POR,16.6,2,7,24,POR,WAS,foul,1,False,False,Mahinmi P.FOUL (P3.T2) (T.Ford),,40-33,40,33
 0021700279,2017-11-25,WAS,POR,16.82,2,7,11,POR,POR,tov,4,False,False,,Napier Traveling Turnover (P1.T8),40-33,40,33
 0021700279,2017-11-25,WAS,POR,16.97,2,7,2,WAS,WAS,fg_make,101,False,False,Oubre Jr. 5' Driving Floating Jump Shot (7 PTS),,42-33,42,33
@@ -177,14 +177,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700279,2017-11-25,WAS,POR,23.47,2,0,32,POR,WAS,block,98,True,False,block,block,52-41,52,41
 0021700279,2017-11-25,WAS,POR,23.52,2,0,29,WAS,WAS,reb,0,False,False,Morris REBOUND (Off:0 Def:5),,52-41,52,41
 0021700279,2017-11-25,WAS,POR,23.55,2,0,27,WAS,WAS,fg_miss,6,True,False,MISS Frazier 3' Driving Layup,,52-41,52,41
-0021700279,2017-11-25,WAS,POR,23.55,2,0,27,POR,POR,reb,0,False,False,,Vonleh REBOUND (Off:0 Def:4),52-41,52,41
 0021700279,2017-11-25,WAS,POR,23.55,2,0,27,WAS,POR,block,6,True,False,block,block,52-41,52,41
+0021700279,2017-11-25,WAS,POR,23.55,2,0,27,POR,POR,reb,0,False,False,,Vonleh REBOUND (Off:0 Def:4),52-41,52,41
 0021700279,2017-11-25,WAS,POR,23.9,2,0,6,POR,POR,fg_miss,1,False,False,,MISS Nurkic 17' Jump Shot,52-41,52,41
 0021700279,2017-11-25,WAS,POR,23.97,2,0,2,WAS,WAS,reb,0,False,False,Frazier REBOUND (Off:0 Def:2),,52-41,52,41
 0021700279,2017-11-25,WAS,POR,24.0,2,0,0,WAS,,period_end,0,False,False,,,52-41,52,41
-0021700279,2017-11-25,WAS,POR,24.0,3,12,0,POR,WAS,foul,18,False,False,WIZARDS Delay,,52-41,52,41
-0021700279,2017-11-25,WAS,POR,24.0,3,12,0,POR,POR,ft_make,16,False,False,,Lillard Free Throw Technical (12 PTS),52-42,52,42
 0021700279,2017-11-25,WAS,POR,24.0,3,12,0,POR,,period_start,0,False,False,,,52-42,52,42
+0021700279,2017-11-25,WAS,POR,24.0,3,12,0,POR,POR,ft_make,16,False,False,,Lillard Free Throw Technical (12 PTS),52-42,52,42
+0021700279,2017-11-25,WAS,POR,24.0,3,12,0,POR,WAS,foul,18,False,False,WIZARDS Delay,,52-41,52,41
 0021700279,2017-11-25,WAS,POR,24.23,3,11,46,WAS,WAS,fg_make,1,False,False,Gortat 19' Jump Shot (4 PTS) (Beal 4 AST),,54-42,54,42
 0021700279,2017-11-25,WAS,POR,24.53,3,11,28,POR,POR,fg3_make,1,False,False,,McCollum 28' 3PT Jump Shot (5 PTS),54-45,54,45
 0021700279,2017-11-25,WAS,POR,24.8,3,11,12,POR,WAS,foul,4,False,False,Morris OFF.Foul (P1) (T.Ford),,54-45,54,45
@@ -324,8 +324,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700279,2017-11-25,WAS,POR,39.77,4,8,14,WAS,WAS,fg_make,79,False,False,Oubre Jr. 14' Pullup Jump Shot (13 PTS) (Satoransky 4 AST),,94-77,94,77
 0021700279,2017-11-25,WAS,POR,40.07,4,7,56,POR,POR,fg_make,102,False,False,,McCollum 6' Driving Floating Bank Jump Shot (15 PTS),94-79,94,79
 0021700279,2017-11-25,WAS,POR,40.33,4,7,40,WAS,WAS,fg_miss,5,True,False,MISS Mahinmi 4' Layup,,94-79,94,79
-0021700279,2017-11-25,WAS,POR,40.33,4,7,40,POR,POR,reb,0,False,False,,Trail Blazers Rebound,94-79,94,79
 0021700279,2017-11-25,WAS,POR,40.33,4,7,40,WAS,POR,block,5,True,False,block,block,94-79,94,79
+0021700279,2017-11-25,WAS,POR,40.33,4,7,40,POR,POR,reb,0,False,False,,Trail Blazers Rebound,94-79,94,79
 0021700279,2017-11-25,WAS,POR,40.55,4,7,27,POR,POR,fg3_miss,1,False,False,,MISS Lillard 29' 3PT Jump Shot,94-79,94,79
 0021700279,2017-11-25,WAS,POR,40.62,4,7,23,WAS,WAS,reb,0,False,False,Porter Jr. REBOUND (Off:3 Def:6),,94-79,94,79
 0021700279,2017-11-25,WAS,POR,40.73,4,7,16,WAS,WAS,fg_miss,5,False,False,MISS Meeks 1' Layup,,94-79,94,79

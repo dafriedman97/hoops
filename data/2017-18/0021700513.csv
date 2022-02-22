@@ -109,16 +109,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700513,2017-12-27,SAC,CLE,12.22,2,11,47,SAC,SAC,fg_make,43,False,False,Cauley-Stein 3' Alley Oop Layup (4 PTS) (Carter 1 AST),,30-27,30,27
 0021700513,2017-12-27,SAC,CLE,12.5,2,11,30,CLE,CLE,fg_miss,5,True,False,,MISS Wade 2' Layup,30-27,30,27
 0021700513,2017-12-27,SAC,CLE,12.5,2,11,30,CLE,SAC,block,5,True,False,block,block,30-27,30,27
-0021700513,2017-12-27,SAC,CLE,12.52,2,11,29,CLE,CLE,fg_miss,3,False,False,,MISS Green 1' Hook Shot,30-27,30,27
 0021700513,2017-12-27,SAC,CLE,12.52,2,11,29,CLE,CLE,reb,0,False,False,,Green REBOUND (Off:1 Def:0),30-27,30,27
+0021700513,2017-12-27,SAC,CLE,12.52,2,11,29,CLE,CLE,fg_miss,3,False,False,,MISS Green 1' Hook Shot,30-27,30,27
 0021700513,2017-12-27,SAC,CLE,12.53,2,11,28,CLE,CLE,reb,0,False,False,,Frye REBOUND (Off:1 Def:0),30-27,30,27
 0021700513,2017-12-27,SAC,CLE,12.57,2,11,26,CLE,CLE,fg_make,97,False,False,,Frye 2' Tip Layup Shot (2 PTS),30-29,30,29
 0021700513,2017-12-27,SAC,CLE,12.82,2,11,11,SAC,SAC,fg_make,5,False,False,Bogdanovic 4' Layup (7 PTS),,32-29,32,29
 0021700513,2017-12-27,SAC,CLE,12.82,2,11,11,SAC,CLE,foul,2,False,False,,Wade S.FOUL (P1.T1) (M.Davis),32-29,32,29
 0021700513,2017-12-27,SAC,CLE,12.82,2,11,11,SAC,SAC,ft_make,10,False,False,Bogdanovic Free Throw 1 of 1 (8 PTS),,33-29,33,29
 0021700513,2017-12-27,SAC,CLE,13.18,2,10,49,CLE,CLE,fg_miss,79,True,False,,MISS Korver 18' Pullup Jump Shot,33-29,33,29
-0021700513,2017-12-27,SAC,CLE,13.18,2,10,49,SAC,SAC,reb,0,False,False,KINGS Rebound,,33-29,33,29
 0021700513,2017-12-27,SAC,CLE,13.18,2,10,49,CLE,SAC,block,79,True,False,block,block,33-29,33,29
+0021700513,2017-12-27,SAC,CLE,13.18,2,10,49,SAC,SAC,reb,0,False,False,KINGS Rebound,,33-29,33,29
 0021700513,2017-12-27,SAC,CLE,13.37,2,10,38,SAC,SAC,fg_make,6,False,False,Cauley-Stein 6' Driving Layup (6 PTS) (Bogdanovic 4 AST),,35-29,35,29
 0021700513,2017-12-27,SAC,CLE,13.63,2,10,22,CLE,CLE,fg3_miss,79,False,False,,MISS Korver 26' 3PT Pullup Jump Shot,35-29,35,29
 0021700513,2017-12-27,SAC,CLE,13.63,2,10,22,SAC,SAC,reb,0,False,False,Cauley-Stein REBOUND (Off:0 Def:3),,35-29,35,29
@@ -249,8 +249,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700513,2017-12-27,SAC,CLE,28.88,3,7,7,CLE,CLE,reb,0,False,False,,Love REBOUND (Off:0 Def:4),68-67,68,67
 0021700513,2017-12-27,SAC,CLE,29.02,3,6,59,CLE,CLE,fg_make,98,False,False,,Love 2' Cutting Layup Shot (23 PTS) (James 11 AST),68-69,68,69
 0021700513,2017-12-27,SAC,CLE,29.28,3,6,43,SAC,SAC,fg_miss,3,True,False,MISS Randolph 6' Hook Shot,,68-69,68,69
-0021700513,2017-12-27,SAC,CLE,29.28,3,6,43,CLE,CLE,reb,0,False,False,,Smith REBOUND (Off:0 Def:5),68-69,68,69
 0021700513,2017-12-27,SAC,CLE,29.28,3,6,43,SAC,CLE,block,3,True,False,block,block,68-69,68,69
+0021700513,2017-12-27,SAC,CLE,29.28,3,6,43,CLE,CLE,reb,0,False,False,,Smith REBOUND (Off:0 Def:5),68-69,68,69
 0021700513,2017-12-27,SAC,CLE,29.43,3,6,34,CLE,CLE,tov,1,False,True,,Calderon Bad Pass Turnover (P1.T5),68-69,68,69
 0021700513,2017-12-27,SAC,CLE,29.43,3,6,34,CLE,SAC,steal,1,False,True,steal,steal,68-69,68,69
 0021700513,2017-12-27,SAC,CLE,29.63,3,6,22,SAC,SAC,tov,1,False,True,Bogdanovic Bad Pass Turnover (P2.T7),,68-69,68,69
@@ -317,8 +317,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700513,2017-12-27,SAC,CLE,36.2,4,11,48,CLE,CLE,tov,1,False,True,,James Bad Pass Turnover (P4.T9),85-80,85,80
 0021700513,2017-12-27,SAC,CLE,36.2,4,11,48,CLE,SAC,steal,1,False,True,steal,steal,85-80,85,80
 0021700513,2017-12-27,SAC,CLE,36.52,4,11,29,SAC,SAC,tov,1,False,True,Bogdanovic Bad Pass Turnover (P4.T9),,85-80,85,80
-0021700513,2017-12-27,SAC,CLE,36.52,4,11,29,CLE,SAC,foul,1,False,False,Cauley-Stein P.FOUL (P4.T1) (M.Davis),,85-80,85,80
 0021700513,2017-12-27,SAC,CLE,36.52,4,11,29,SAC,CLE,steal,1,False,True,steal,steal,85-80,85,80
+0021700513,2017-12-27,SAC,CLE,36.52,4,11,29,CLE,SAC,foul,1,False,False,Cauley-Stein P.FOUL (P4.T1) (M.Davis),,85-80,85,80
 0021700513,2017-12-27,SAC,CLE,36.77,4,11,14,CLE,CLE,fg3_miss,1,False,False,,MISS James 25' 3PT Jump Shot,85-80,85,80
 0021700513,2017-12-27,SAC,CLE,36.82,4,11,11,SAC,SAC,reb,0,False,False,Bogdanovic REBOUND (Off:0 Def:3),,85-80,85,80
 0021700513,2017-12-27,SAC,CLE,37.15,4,10,51,SAC,SAC,fg_make,79,False,False,Bogdanovic 16' Pullup Jump Shot (13 PTS),,87-80,87,80
@@ -347,8 +347,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700513,2017-12-27,SAC,CLE,40.7,4,7,18,SAC,SAC,fg_miss,79,False,False,MISS Hield 16' Pullup Jump Shot,,96-84,96,84
 0021700513,2017-12-27,SAC,CLE,40.77,4,7,14,CLE,CLE,reb,0,False,False,,Love REBOUND (Off:0 Def:5),96-84,96,84
 0021700513,2017-12-27,SAC,CLE,40.83,4,7,10,CLE,CLE,fg_miss,1,True,False,,MISS James 8' Jump Shot,96-84,96,84
-0021700513,2017-12-27,SAC,CLE,40.83,4,7,10,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,96-84,96,84
 0021700513,2017-12-27,SAC,CLE,40.83,4,7,10,CLE,SAC,block,1,True,False,block,block,96-84,96,84
+0021700513,2017-12-27,SAC,CLE,40.83,4,7,10,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,96-84,96,84
 0021700513,2017-12-27,SAC,CLE,40.85,4,7,9,,SAC,jump_ball,0,False,False,,,96-84,96,84
 0021700513,2017-12-27,SAC,CLE,40.85,4,7,9,CLE,SAC,foul,1,False,False,G. Hill P.FOUL (P3.T3) (J.Van Duyne),,96-84,96,84
 0021700513,2017-12-27,SAC,CLE,41.05,4,6,57,CLE,CLE,fg3_miss,79,False,False,,MISS Korver 26' 3PT Pullup Jump Shot,96-84,96,84

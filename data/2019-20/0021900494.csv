@@ -61,9 +61,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900494,2019-12-30,MIN,BKN,6.25,1,5,45,BKN,BKN,fg_miss,102,False,False,,MISS Dinwiddie 9' Driving Floating Bank Jump Shot,11-14,11,14
 0021900494,2019-12-30,MIN,BKN,6.3,1,5,42,MIN,MIN,reb,0,False,False,Culver REBOUND (Off:0 Def:3),,11-14,11,14
 0021900494,2019-12-30,MIN,BKN,6.35,1,5,39,MIN,MIN,fg_miss,41,True,False,MISS Culver 3' Running Layup,,11-14,11,14
+0021900494,2019-12-30,MIN,BKN,6.35,1,5,39,MIN,BKN,block,41,True,False,block,block,11-14,11,14
 0021900494,2019-12-30,MIN,BKN,6.35,1,5,39,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,11-14,11,14
 0021900494,2019-12-30,MIN,BKN,6.35,1,5,39,MIN,MIN,timeout,1,False,False,TIMBERWOLVES Timeout: Regular (Full 1 Short 0),,11-14,11,14
-0021900494,2019-12-30,MIN,BKN,6.35,1,5,39,MIN,BKN,block,41,True,False,block,block,11-14,11,14
 0021900494,2019-12-30,MIN,BKN,6.6,1,5,24,MIN,MIN,fg_make,78,False,False,Teague 8' Floating Jump Shot (2 PTS),,13-14,13,14
 0021900494,2019-12-30,MIN,BKN,6.93,1,5,4,BKN,BKN,fg3_miss,79,True,False,,MISS Dinwiddie 26' 3PT Pullup Jump Shot,13-14,13,14
 0021900494,2019-12-30,MIN,BKN,6.93,1,5,4,BKN,MIN,block,79,True,False,block,block,13-14,13,14
@@ -227,8 +227,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900494,2019-12-30,MIN,BKN,23.78,2,0,13,MIN,MIN,fg3_miss,1,False,False,MISS Covington 28' 3PT Jump Shot,,49-50,49,50
 0021900494,2019-12-30,MIN,BKN,23.85,2,0,9,MIN,MIN,reb,0,False,False,Reid REBOUND (Off:1 Def:2),,49-50,49,50
 0021900494,2019-12-30,MIN,BKN,23.97,2,0,2,MIN,MIN,fg_miss,6,True,False,MISS Reid 7' Driving Layup,,49-50,49,50
-0021900494,2019-12-30,MIN,BKN,23.97,2,0,2,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,49-50,49,50
 0021900494,2019-12-30,MIN,BKN,23.97,2,0,2,MIN,BKN,block,6,True,False,block,block,49-50,49,50
+0021900494,2019-12-30,MIN,BKN,23.97,2,0,2,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,49-50,49,50
 0021900494,2019-12-30,MIN,BKN,24.0,2,0,0,MIN,MIN,fg3_miss,1,False,False,MISS Reid 27' 3PT Jump Shot,,49-50,49,50
 0021900494,2019-12-30,MIN,BKN,24.0,2,0,0,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,49-50,49,50
 0021900494,2019-12-30,MIN,BKN,24.0,2,0,0,MIN,,period_end,0,False,False,,,49-50,49,50
@@ -376,8 +376,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900494,2019-12-30,MIN,BKN,39.18,4,8,49,BKN,BKN,fg3_miss,79,False,False,,MISS Prince 25' 3PT Pullup Jump Shot,82-89,82,89
 0021900494,2019-12-30,MIN,BKN,39.23,4,8,46,BKN,BKN,reb,0,False,False,,Luwawu-Cabarrot REBOUND (Off:1 Def:3),82-89,82,89
 0021900494,2019-12-30,MIN,BKN,39.33,4,8,40,BKN,BKN,fg_miss,5,True,False,,MISS Prince 2' Layup,82-89,82,89
-0021900494,2019-12-30,MIN,BKN,39.33,4,8,40,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,82-89,82,89
 0021900494,2019-12-30,MIN,BKN,39.33,4,8,40,BKN,MIN,block,5,True,False,block,block,82-89,82,89
+0021900494,2019-12-30,MIN,BKN,39.33,4,8,40,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,82-89,82,89
 0021900494,2019-12-30,MIN,BKN,39.53,4,8,28,MIN,MIN,fg_make,79,False,False,Napier 12' Pullup Jump Shot (13 PTS),,84-89,84,89
 0021900494,2019-12-30,MIN,BKN,39.83,4,8,10,BKN,BKN,fg3_miss,1,False,False,,MISS Luwawu-Cabarrot 25' 3PT Jump Shot,84-89,84,89
 0021900494,2019-12-30,MIN,BKN,39.88,4,8,7,MIN,MIN,reb,0,False,False,Martin REBOUND (Off:0 Def:8),,84-89,84,89
@@ -515,8 +515,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900494,2019-12-30,MIN,BKN,52.37,5,0,38,BKN,BKN,fg3_miss,1,False,False,,MISS Dinwiddie 26' 3PT Jump Shot,120-113,120,113
 0021900494,2019-12-30,MIN,BKN,52.42,5,0,35,BKN,BKN,reb,0,False,False,,Prince REBOUND (Off:2 Def:11),120-113,120,113
 0021900494,2019-12-30,MIN,BKN,52.47,5,0,32,BKN,BKN,fg3_miss,1,True,False,,MISS Temple 25' 3PT Jump Shot,120-113,120,113
-0021900494,2019-12-30,MIN,BKN,52.47,5,0,32,MIN,MIN,reb,0,False,False,Napier REBOUND (Off:0 Def:3),,120-113,120,113
 0021900494,2019-12-30,MIN,BKN,52.47,5,0,32,BKN,MIN,block,1,True,False,block,block,120-113,120,113
+0021900494,2019-12-30,MIN,BKN,52.47,5,0,32,MIN,MIN,reb,0,False,False,Napier REBOUND (Off:0 Def:3),,120-113,120,113
 0021900494,2019-12-30,MIN,BKN,52.62,5,0,23,MIN,BKN,foul,28,False,False,,Temple Personal Take Foul (P3.T1) (D.Taylor),120-113,120,113
 0021900494,2019-12-30,MIN,BKN,52.63,5,0,22,MIN,BKN,foul,28,False,False,,Temple Personal Take Foul (P4.PN) (D.Taylor),120-113,120,113
 0021900494,2019-12-30,MIN,BKN,52.63,5,0,22,MIN,MIN,ft_make,11,False,False,Napier Free Throw 1 of 2 (24 PTS),,121-113,121,113

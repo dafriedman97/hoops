@@ -49,8 +49,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700964,2018-03-06,LAC,NOP,4.88,1,7,7,NOP,NOP,fg_miss,5,False,False,,MISS Davis 2' Layup,5-17,5,17
 0021700964,2018-03-06,LAC,NOP,4.92,1,7,5,LAC,LAC,reb,0,False,False,Jordan REBOUND (Off:1 Def:3),,5-17,5,17
 0021700964,2018-03-06,LAC,NOP,5.05,1,6,57,LAC,LAC,fg_miss,5,True,False,MISS Rivers 1' Layup,,5-17,5,17
-0021700964,2018-03-06,LAC,NOP,5.05,1,6,57,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,5-17,5,17
 0021700964,2018-03-06,LAC,NOP,5.05,1,6,57,LAC,NOP,block,5,True,False,block,block,5-17,5,17
+0021700964,2018-03-06,LAC,NOP,5.05,1,6,57,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,5-17,5,17
 0021700964,2018-03-06,LAC,NOP,5.07,1,6,56,LAC,LAC,fg_miss,63,False,False,MISS Williams 16' Fadeaway Jumper,,5-17,5,17
 0021700964,2018-03-06,LAC,NOP,5.12,1,6,53,NOP,NOP,reb,0,False,False,,Okafor REBOUND (Off:0 Def:4),5-17,5,17
 0021700964,2018-03-06,LAC,NOP,5.27,1,6,44,NOP,NOP,fg_make,5,False,False,,Okafor 2' Layup (2 PTS) (Holiday 3 AST),5-19,5,19
@@ -130,8 +130,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700964,2018-03-06,LAC,NOP,13.05,2,10,57,LAC,LAC,reb,0,False,False,Thornwell REBOUND (Off:0 Def:2),,29-35,29,35
 0021700964,2018-03-06,LAC,NOP,13.15,2,10,51,LAC,LAC,fg_make,41,False,False,Kilpatrick 4' Running Layup (2 PTS) (Williams 5 AST),,31-35,31,35
 0021700964,2018-03-06,LAC,NOP,13.27,2,10,44,NOP,NOP,fg_miss,1,False,False,,MISS Diallo 20' Jump Shot,31-35,31,35
-0021700964,2018-03-06,LAC,NOP,13.3,2,10,42,NOP,NOP,reb,0,False,False,,Moore REBOUND (Off:1 Def:2),31-35,31,35
 0021700964,2018-03-06,LAC,NOP,13.3,2,10,42,NOP,LAC,foul,2,False,False,Thornwell S.FOUL (P1.T1) (R.Mott),,31-35,31,35
+0021700964,2018-03-06,LAC,NOP,13.3,2,10,42,NOP,NOP,reb,0,False,False,,Moore REBOUND (Off:1 Def:2),31-35,31,35
 0021700964,2018-03-06,LAC,NOP,13.3,2,10,42,NOP,NOP,ft_make,11,False,False,,Moore Free Throw 1 of 2 (5 PTS),31-36,31,36
 0021700964,2018-03-06,LAC,NOP,13.3,2,10,42,NOP,NOP,ft_miss,12,False,False,,MISS Moore Free Throw 2 of 2,31-36,31,36
 0021700964,2018-03-06,LAC,NOP,13.35,2,10,39,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:1 Def:1),,31-36,31,36
@@ -193,8 +193,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700964,2018-03-06,LAC,NOP,19.9,2,4,6,NOP,NOP,fg_miss,63,False,False,,MISS Rondo 9' Fadeaway Jumper,49-52,49,52
 0021700964,2018-03-06,LAC,NOP,19.95,2,4,3,LAC,LAC,reb,0,False,False,Jordan REBOUND (Off:2 Def:9),,49-52,49,52
 0021700964,2018-03-06,LAC,NOP,20.05,2,3,57,LAC,LAC,fg_miss,5,True,False,MISS Thornwell 3' Layup,,49-52,49,52
-0021700964,2018-03-06,LAC,NOP,20.05,2,3,57,NOP,NOP,reb,0,False,False,,Okafor REBOUND (Off:1 Def:5),49-52,49,52
 0021700964,2018-03-06,LAC,NOP,20.05,2,3,57,LAC,NOP,block,5,True,False,block,block,49-52,49,52
+0021700964,2018-03-06,LAC,NOP,20.05,2,3,57,NOP,NOP,reb,0,False,False,,Okafor REBOUND (Off:1 Def:5),49-52,49,52
 0021700964,2018-03-06,LAC,NOP,20.17,2,3,50,NOP,NOP,fg_make,41,False,False,,Rondo 1' Running Layup (10 PTS) (Moore 3 AST),49-54,49,54
 0021700964,2018-03-06,LAC,NOP,20.18,2,3,49,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 2 Short 0),,49-54,49,54
 0021700964,2018-03-06,LAC,NOP,20.5,2,3,30,LAC,LAC,fg3_miss,1,False,False,MISS Rivers 25' 3PT Jump Shot,,49-54,49,54
@@ -326,8 +326,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700964,2018-03-06,LAC,NOP,34.0,3,2,0,LAC,LAC,fg3_miss,1,False,False,MISS Williams 25' 3PT Jump Shot,,77-92,77,92
 0021700964,2018-03-06,LAC,NOP,34.05,3,1,57,LAC,LAC,reb,0,False,False,Harris REBOUND (Off:1 Def:4),,77-92,77,92
 0021700964,2018-03-06,LAC,NOP,34.07,3,1,56,LAC,LAC,fg_miss,72,True,False,MISS Harris 2' Putback Layup,,77-92,77,92
-0021700964,2018-03-06,LAC,NOP,34.07,3,1,56,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,77-92,77,92
 0021700964,2018-03-06,LAC,NOP,34.07,3,1,56,LAC,NOP,block,72,True,False,block,block,77-92,77,92
+0021700964,2018-03-06,LAC,NOP,34.07,3,1,56,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,77-92,77,92
 0021700964,2018-03-06,LAC,NOP,34.13,3,1,52,LAC,LAC,fg3_make,1,False,False,Teodosic 25' 3PT Jump Shot (9 PTS),,80-92,80,92
 0021700964,2018-03-06,LAC,NOP,34.53,3,1,28,NOP,NOP,fg_miss,80,False,False,,MISS Davis 16' Step Back Jump Shot,80-92,80,92
 0021700964,2018-03-06,LAC,NOP,34.6,3,1,24,LAC,LAC,reb,0,False,False,Harris REBOUND (Off:1 Def:5),,80-92,80,92
@@ -336,9 +336,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700964,2018-03-06,LAC,NOP,34.73,3,1,16,NOP,NOP,fg3_miss,79,False,False,,MISS Mirotic 24' 3PT Pullup Jump Shot,80-92,80,92
 0021700964,2018-03-06,LAC,NOP,34.8,3,1,12,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:2 Def:3),,80-92,80,92
 0021700964,2018-03-06,LAC,NOP,34.92,3,1,5,LAC,LAC,fg_miss,5,True,False,MISS Harrell 2' Layup,,80-92,80,92
+0021700964,2018-03-06,LAC,NOP,34.92,3,1,5,LAC,NOP,block,5,True,False,block,block,80-92,80,92
 0021700964,2018-03-06,LAC,NOP,34.92,3,1,5,NOP,NOP,reb,0,False,False,,Mirotic REBOUND (Off:2 Def:5),80-92,80,92
 0021700964,2018-03-06,LAC,NOP,34.92,3,1,5,NOP,LAC,foul,1,False,False,Teodosic P.FOUL (P3.T3) (E.Malloy),,80-92,80,92
-0021700964,2018-03-06,LAC,NOP,34.92,3,1,5,LAC,NOP,block,5,True,False,block,block,80-92,80,92
 0021700964,2018-03-06,LAC,NOP,35.12,3,0,53,NOP,NOP,fg_make,3,False,False,,Davis 3' Hook Shot (26 PTS) (Mirotic 3 AST),80-94,80,94
 0021700964,2018-03-06,LAC,NOP,35.32,3,0,41,LAC,LAC,fg_miss,5,True,False,MISS Williams 1' Layup,,80-94,80,94
 0021700964,2018-03-06,LAC,NOP,35.32,3,0,41,LAC,NOP,block,5,True,False,block,block,80-94,80,94

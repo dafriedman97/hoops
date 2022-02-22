@@ -119,9 +119,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000700,2021-03-27,UTA,MEM,11.73,1,0,16,UTA,UTA,ft_make,12,False,False,Ingles Free Throw 2 of 2 (5 PTS),,39-19,39,19
 0022000700,2021-03-27,UTA,MEM,11.97,1,0,2,MEM,MEM,fg3_miss,79,False,False,,MISS Bane 25' 3PT Pullup Jump Shot,39-19,39,19
 0022000700,2021-03-27,UTA,MEM,11.97,1,0,2,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:0 Def:5),,39-19,39,19
+0022000700,2021-03-27,UTA,MEM,12.0,1,0,0,UTA,,period_end,0,False,False,,,39-19,39,19
 0022000700,2021-03-27,UTA,MEM,12.0,1,0,0,UTA,UTA,fg3_miss,1,False,False,MISS Gobert 75' 3PT Jump Shot,,39-19,39,19
 0022000700,2021-03-27,UTA,MEM,12.0,1,0,0,UTA,UTA,reb,0,False,False,JAZZ Rebound,,39-19,39,19
-0022000700,2021-03-27,UTA,MEM,12.0,1,0,0,UTA,,period_end,0,False,False,,,39-19,39,19
 0022000700,2021-03-27,UTA,MEM,12.0,2,12,0,UTA,,period_start,0,False,False,,,39-19,39,19
 0022000700,2021-03-27,UTA,MEM,12.25,2,11,45,UTA,UTA,fg3_miss,1,False,False,MISS Oni 25' 3PT Jump Shot,,39-19,39,19
 0022000700,2021-03-27,UTA,MEM,12.32,2,11,41,MEM,MEM,reb,0,False,False,,Melton REBOUND (Off:0 Def:1),39-19,39,19
@@ -169,8 +169,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000700,2021-03-27,UTA,MEM,16.88,2,7,7,MEM,MEM,fg_miss,78,False,False,,MISS Brooks 16' Floating Jump Shot,45-31,45,31
 0022000700,2021-03-27,UTA,MEM,16.93,2,7,4,MEM,MEM,reb,0,False,False,,Brooks REBOUND (Off:2 Def:0),45-31,45,31
 0022000700,2021-03-27,UTA,MEM,16.95,2,7,3,MEM,MEM,fg_miss,1,True,False,,MISS Brooks 5' Jump Shot,45-31,45,31
-0022000700,2021-03-27,UTA,MEM,16.95,2,7,3,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:4 Def:3),45-31,45,31
 0022000700,2021-03-27,UTA,MEM,16.95,2,7,3,MEM,UTA,block,1,True,False,block,block,45-31,45,31
+0022000700,2021-03-27,UTA,MEM,16.95,2,7,3,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:4 Def:3),45-31,45,31
 0022000700,2021-03-27,UTA,MEM,17.0,2,7,0,MEM,MEM,fg_make,72,False,False,,Valanciunas 1' Putback Layup (8 PTS),45-33,45,33
 0022000700,2021-03-27,UTA,MEM,17.2,2,6,48,UTA,UTA,fg_miss,5,False,False,MISS Favors 4' Layup,,45-33,45,33
 0022000700,2021-03-27,UTA,MEM,17.2,2,6,48,UTA,UTA,reb,0,False,False,Favors REBOUND (Off:2 Def:3),,45-33,45,33
@@ -283,8 +283,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000700,2021-03-27,UTA,MEM,28.97,3,7,2,UTA,MEM,steal,2,False,True,steal,steal,90-63,90,63
 0022000700,2021-03-27,UTA,MEM,29.02,3,6,59,MEM,UTA,foul,28,False,False,Mitchell Personal Take Foul (P1.T1) (K.Scott),,90-63,90,63
 0022000700,2021-03-27,UTA,MEM,29.37,3,6,38,MEM,MEM,fg_miss,1,True,False,,MISS Morant 9' Jump Shot,90-63,90,63
-0022000700,2021-03-27,UTA,MEM,29.37,3,6,38,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:6 Def:5),90-63,90,63
 0022000700,2021-03-27,UTA,MEM,29.37,3,6,38,MEM,UTA,block,1,True,False,block,block,90-63,90,63
+0022000700,2021-03-27,UTA,MEM,29.37,3,6,38,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:6 Def:5),90-63,90,63
 0022000700,2021-03-27,UTA,MEM,29.37,3,6,38,MEM,MEM,fg_make,72,False,False,,Valanciunas 2' Putback Layup (12 PTS),90-65,90,65
 0022000700,2021-03-27,UTA,MEM,29.37,3,6,38,MEM,UTA,foul,2,False,False,Favors S.FOUL (P2.T2) (B.Nansel),,90-65,90,65
 0022000700,2021-03-27,UTA,MEM,29.37,3,6,38,MEM,MEM,ft_make,10,False,False,,Valanciunas Free Throw 1 of 1 (13 PTS),90-66,90,66
@@ -385,12 +385,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000700,2021-03-27,UTA,MEM,38.37,4,9,38,MEM,MEM,ft_make,12,False,False,,Clarke Free Throw 2 of 2 (12 PTS),112-89,112,89
 0022000700,2021-03-27,UTA,MEM,38.63,4,9,22,UTA,UTA,fg_miss,5,False,False,MISS Ingles 3' Layup,,112-89,112,89
 0022000700,2021-03-27,UTA,MEM,38.68,4,9,19,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:5 Def:9),,112-89,112,89
-0022000700,2021-03-27,UTA,MEM,38.68,4,9,19,UTA,UTA,fg_miss,97,False,False,MISS Gobert 2' Tip Layup Shot,,112-89,112,89
-0022000700,2021-03-27,UTA,MEM,38.68,4,9,19,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:5 Def:9),,112-89,112,89
 0022000700,2021-03-27,UTA,MEM,38.68,4,9,19,UTA,UTA,fg_make,87,False,False,Gobert Putback Dunk (16 PTS),,114-89,114,89
 0022000700,2021-03-27,UTA,MEM,38.68,4,9,19,MEM,UTA,foul,13,False,False,Gobert HANGING.TECH.FOUL (P2.T2) (K.Scott),,114-89,114,89
 0022000700,2021-03-27,UTA,MEM,38.68,4,9,19,MEM,MEM,ft_miss,16,False,False,,MISS Bane Free Throw Technical,114-89,114,89
 0022000700,2021-03-27,UTA,MEM,38.68,4,9,19,MEM,MEM,reb,1,False,False,,Grizzlies Rebound,114-89,114,89
+0022000700,2021-03-27,UTA,MEM,38.68,4,9,19,UTA,UTA,fg_miss,97,False,False,MISS Gobert 2' Tip Layup Shot,,112-89,112,89
+0022000700,2021-03-27,UTA,MEM,38.68,4,9,19,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:5 Def:9),,112-89,112,89
 0022000700,2021-03-27,UTA,MEM,38.88,4,9,7,MEM,MEM,fg_miss,1,False,False,,MISS Winslow 20' Jump Shot,114-89,114,89
 0022000700,2021-03-27,UTA,MEM,38.93,4,9,4,UTA,UTA,reb,0,False,False,Clarkson REBOUND (Off:0 Def:6),,114-89,114,89
 0022000700,2021-03-27,UTA,MEM,39.0,4,9,0,UTA,MEM,foul,1,False,False,,Winslow P.FOUL (P2.T1) (K.Scott),114-89,114,89

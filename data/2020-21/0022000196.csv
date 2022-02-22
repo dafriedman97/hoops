@@ -63,9 +63,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000196,2021-01-17,BOS,NYK,6.78,1,5,13,NYK,NYK,reb,0,False,False,,Barrett REBOUND (Off:0 Def:3),7-13,7,13
 0022000196,2021-01-17,BOS,NYK,6.97,1,5,2,NYK,NYK,fg_make,101,False,False,,Barrett 1' Driving Floating Jump Shot (2 PTS),7-15,7,15
 0022000196,2021-01-17,BOS,NYK,7.28,1,4,43,BOS,BOS,fg3_miss,1,True,False,MISS Teague 26' 3PT Jump Shot,,7-15,7,15
+0022000196,2021-01-17,BOS,NYK,7.28,1,4,43,BOS,NYK,block,1,True,False,block,block,7-15,7,15
 0022000196,2021-01-17,BOS,NYK,7.28,1,4,43,NYK,NYK,reb,0,False,False,,Knicks Rebound,7-15,7,15
 0022000196,2021-01-17,BOS,NYK,7.28,1,4,43,NYK,BOS,foul,3,False,False,Teague L.B.FOUL (P2.T4) (N.Green),,7-15,7,15
-0022000196,2021-01-17,BOS,NYK,7.28,1,4,43,BOS,NYK,block,1,True,False,block,block,7-15,7,15
 0022000196,2021-01-17,BOS,NYK,7.55,1,4,27,NYK,NYK,fg_miss,80,False,False,,MISS Randle 13' Step Back Jump Shot,7-15,7,15
 0022000196,2021-01-17,BOS,NYK,7.57,1,4,26,BOS,BOS,reb,0,False,False,Teague REBOUND (Off:0 Def:1),,7-15,7,15
 0022000196,2021-01-17,BOS,NYK,7.67,1,4,20,BOS,BOS,fg3_make,1,False,False,Brown 26' 3PT Jump Shot (6 PTS) (Theis 1 AST),,10-15,10,15
@@ -104,9 +104,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000196,2021-01-17,BOS,NYK,11.25,1,0,45,BOS,NYK,steal,2,False,True,steal,steal,17-26,17,26
 0022000196,2021-01-17,BOS,NYK,11.43,1,0,34,NYK,NYK,fg_miss,1,False,False,,MISS Randle 8' Jump Shot,17-26,17,26
 0022000196,2021-01-17,BOS,NYK,11.48,1,0,31,BOS,BOS,reb,0,False,False,Theis REBOUND (Off:0 Def:2),,17-26,17,26
+0022000196,2021-01-17,BOS,NYK,11.48,1,0,31,NYK,NYK,fg_make,7,False,False,,Randle Dunk (10 PTS),17-28,17,28
 0022000196,2021-01-17,BOS,NYK,11.48,1,0,31,BOS,BOS,tov,1,False,True,Theis Bad Pass Turnover (P1.T7),,17-26,17,26
 0022000196,2021-01-17,BOS,NYK,11.48,1,0,31,BOS,NYK,steal,1,False,True,steal,steal,17-26,17,26
-0022000196,2021-01-17,BOS,NYK,11.48,1,0,31,NYK,NYK,fg_make,7,False,False,,Randle Dunk (10 PTS),17-28,17,28
 0022000196,2021-01-17,BOS,NYK,11.68,1,0,19,BOS,BOS,fg3_miss,1,False,False,MISS Ojeleye 26' 3PT Jump Shot,,17-28,17,28
 0022000196,2021-01-17,BOS,NYK,11.72,1,0,17,BOS,BOS,reb,0,False,False,Theis REBOUND (Off:1 Def:2),,17-28,17,28
 0022000196,2021-01-17,BOS,NYK,11.78,1,0,13,,BOS,jump_ball,0,False,False,Jump Ball Theis vs. Noel: Tip to Pritchard,,17-28,17,28
@@ -224,10 +224,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000196,2021-01-17,BOS,NYK,23.93,2,0,4,NYK,NYK,tov,2,False,True,,Payton Lost Ball Turnover (P1.T9),35-48,35,48
 0022000196,2021-01-17,BOS,NYK,23.93,2,0,4,NYK,BOS,steal,2,False,True,steal,steal,35-48,35,48
 0022000196,2021-01-17,BOS,NYK,24.0,2,0,0,BOS,BOS,fg3_miss,1,True,False,MISS Brown 25' 3PT Jump Shot,,35-48,35,48
+0022000196,2021-01-17,BOS,NYK,24.0,2,0,0,BOS,NYK,block,1,True,False,block,block,35-48,35,48
 0022000196,2021-01-17,BOS,NYK,24.0,2,0,0,NYK,NYK,reb,0,False,False,,Bullock REBOUND (Off:1 Def:3),35-48,35,48
 0022000196,2021-01-17,BOS,NYK,24.0,2,0,0,NYK,,period_end,0,False,False,,,35-48,35,48
 0022000196,2021-01-17,BOS,NYK,24.0,3,12,0,NYK,,period_start,0,False,False,,,35-48,35,48
-0022000196,2021-01-17,BOS,NYK,24.0,2,0,0,BOS,NYK,block,1,True,False,block,block,35-48,35,48
 0022000196,2021-01-17,BOS,NYK,24.22,3,11,47,NYK,NYK,fg_make,52,False,False,,Robinson 2' Alley Oop Dunk (4 PTS) (Barrett 3 AST),35-50,35,50
 0022000196,2021-01-17,BOS,NYK,24.62,3,11,23,BOS,BOS,fg3_miss,1,False,False,MISS Walker 24' 3PT Jump Shot,,35-50,35,50
 0022000196,2021-01-17,BOS,NYK,24.67,3,11,20,NYK,NYK,reb,0,False,False,,Barrett REBOUND (Off:3 Def:5),35-50,35,50
@@ -346,8 +346,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000196,2021-01-17,BOS,NYK,36.7,4,11,18,BOS,BOS,reb,0,False,False,Brown REBOUND (Off:3 Def:2),,50-77,50,77
 0022000196,2021-01-17,BOS,NYK,36.73,4,11,16,BOS,BOS,fg_make,72,False,False,Brown Putback Layup (19 PTS),,52-77,52,77
 0022000196,2021-01-17,BOS,NYK,36.9,4,11,6,NYK,NYK,tov,1,False,True,,Quickley Bad Pass Turnover (P2.T14),52-77,52,77
-0022000196,2021-01-17,BOS,NYK,36.9,4,11,6,BOS,BOS,tov,1,False,True,Williams Bad Pass Turnover (P1.T17),,52-77,52,77
 0022000196,2021-01-17,BOS,NYK,36.9,4,11,6,NYK,BOS,steal,1,False,True,steal,steal,52-77,52,77
+0022000196,2021-01-17,BOS,NYK,36.9,4,11,6,BOS,BOS,tov,1,False,True,Williams Bad Pass Turnover (P1.T17),,52-77,52,77
 0022000196,2021-01-17,BOS,NYK,36.9,4,11,6,BOS,NYK,steal,1,False,True,steal,steal,52-77,52,77
 0022000196,2021-01-17,BOS,NYK,37.07,4,10,56,NYK,NYK,fg3_miss,1,False,False,,MISS Quickley 29' 3PT Jump Shot,52-77,52,77
 0022000196,2021-01-17,BOS,NYK,37.1,4,10,54,BOS,BOS,reb,0,False,False,Smart REBOUND (Off:0 Def:2),,52-77,52,77

@@ -96,9 +96,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700375,2017-12-09,LAC,WAS,11.62,1,0,23,LAC,WAS,foul,2,False,False,,Mahinmi S.FOUL (P1.PN) (B.Spooner),29-27,29,27
 0021700375,2017-12-09,LAC,WAS,11.62,1,0,23,LAC,LAC,ft_make,10,False,False,Harrell Free Throw 1 of 1 (3 PTS),,30-27,30,27
 0021700375,2017-12-09,LAC,WAS,12.0,1,0,0,WAS,WAS,tov,1,False,True,,Satoransky Bad Pass Turnover (P1.T4),30-27,30,27
+0021700375,2017-12-09,LAC,WAS,12.0,1,0,0,WAS,LAC,steal,1,False,True,steal,steal,30-27,30,27
 0021700375,2017-12-09,LAC,WAS,12.0,1,0,0,WAS,,period_end,0,False,False,,,30-27,30,27
 0021700375,2017-12-09,LAC,WAS,12.0,2,12,0,WAS,,period_start,0,False,False,,,30-27,30,27
-0021700375,2017-12-09,LAC,WAS,12.0,1,0,0,WAS,LAC,steal,1,False,True,steal,steal,30-27,30,27
 0021700375,2017-12-09,LAC,WAS,12.25,2,11,45,WAS,WAS,fg3_miss,1,False,False,,MISS Oubre Jr. 3PT Jump Shot,30-27,30,27
 0021700375,2017-12-09,LAC,WAS,12.25,2,11,45,LAC,LAC,reb,0,False,False,Wilson REBOUND (Off:0 Def:2),,30-27,30,27
 0021700375,2017-12-09,LAC,WAS,12.47,2,11,32,LAC,WAS,foul,1,False,False,,Mahinmi P.FOUL (P2.T1) (B.Spooner),30-27,30,27
@@ -165,9 +165,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700375,2017-12-09,LAC,WAS,20.6,2,3,24,WAS,WAS,fg3_miss,1,False,False,,MISS Morris 24' 3PT Jump Shot,53-45,53,45
 0021700375,2017-12-09,LAC,WAS,20.65,2,3,21,LAC,LAC,reb,0,False,False,Jordan REBOUND (Off:0 Def:6),,53-45,53,45
 0021700375,2017-12-09,LAC,WAS,20.85,2,3,9,LAC,LAC,fg_miss,6,True,False,MISS Rivers 1' Driving Layup,,53-45,53,45
+0021700375,2017-12-09,LAC,WAS,20.85,2,3,9,LAC,WAS,block,6,True,False,block,block,53-45,53,45
 0021700375,2017-12-09,LAC,WAS,20.85,2,3,9,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,53-45,53,45
 0021700375,2017-12-09,LAC,WAS,20.85,2,3,9,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 2 Short 0),,53-45,53,45
-0021700375,2017-12-09,LAC,WAS,20.85,2,3,9,LAC,WAS,block,6,True,False,block,block,53-45,53,45
 0021700375,2017-12-09,LAC,WAS,20.93,2,3,4,LAC,LAC,fg_miss,63,False,False,MISS Gallinari 11' Fadeaway Jumper,,53-45,53,45
 0021700375,2017-12-09,LAC,WAS,21.03,2,2,58,WAS,WAS,reb,0,False,False,,Gortat REBOUND (Off:2 Def:1),53-45,53,45
 0021700375,2017-12-09,LAC,WAS,21.17,2,2,50,WAS,WAS,fg_make,6,False,False,,Beal 1' Driving Layup (2 PTS),53-47,53,47
@@ -244,8 +244,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700375,2017-12-09,LAC,WAS,30.57,3,5,26,WAS,WAS,reb,0,False,False,,Porter Jr. REBOUND (Off:1 Def:7),70-65,70,65
 0021700375,2017-12-09,LAC,WAS,30.65,3,5,21,WAS,WAS,fg_make,79,False,False,,Porter Jr. 19' Pullup Jump Shot (21 PTS),70-67,70,67
 0021700375,2017-12-09,LAC,WAS,30.95,3,5,3,LAC,LAC,tov,1,False,True,Evans Bad Pass Turnover (P1.T7),,70-67,70,67
-0021700375,2017-12-09,LAC,WAS,30.95,3,5,3,WAS,LAC,foul,28,False,False,Jordan Personal Take Foul (P2.T2) (C.Washington),,70-67,70,67
 0021700375,2017-12-09,LAC,WAS,30.95,3,5,3,LAC,WAS,steal,1,False,True,steal,steal,70-67,70,67
+0021700375,2017-12-09,LAC,WAS,30.95,3,5,3,WAS,LAC,foul,28,False,False,Jordan Personal Take Foul (P2.T2) (C.Washington),,70-67,70,67
 0021700375,2017-12-09,LAC,WAS,31.17,3,4,50,WAS,WAS,fg3_miss,1,False,False,,MISS Beal 25' 3PT Jump Shot,70-67,70,67
 0021700375,2017-12-09,LAC,WAS,31.23,3,4,46,WAS,WAS,reb,0,False,False,,Frazier REBOUND (Off:1 Def:4),70-67,70,67
 0021700375,2017-12-09,LAC,WAS,31.35,3,4,39,WAS,WAS,fg_make,6,False,False,,Beal 2' Driving Layup (13 PTS) (Gortat 3 AST),70-69,70,69
@@ -292,8 +292,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700375,2017-12-09,LAC,WAS,35.92,3,0,5,LAC,LAC,ft_miss,10,False,False,MISS Williams Free Throw 1 of 1,,85-81,85,81
 0021700375,2017-12-09,LAC,WAS,35.95,3,0,3,WAS,WAS,reb,0,False,False,,Porter Jr. REBOUND (Off:1 Def:10),85-81,85,81
 0021700375,2017-12-09,LAC,WAS,35.98,3,0,1,WAS,WAS,tov,2,False,True,,Porter Jr. Lost Ball Turnover (P1.T12),85-81,85,81
-0021700375,2017-12-09,LAC,WAS,35.98,3,0,1,LAC,LAC,fg3_miss,2,False,False,MISS Williams 47' 3PT Running Jump Shot,,85-81,85,81
 0021700375,2017-12-09,LAC,WAS,35.98,3,0,1,WAS,LAC,steal,2,False,True,steal,steal,85-81,85,81
+0021700375,2017-12-09,LAC,WAS,35.98,3,0,1,LAC,LAC,fg3_miss,2,False,False,MISS Williams 47' 3PT Running Jump Shot,,85-81,85,81
 0021700375,2017-12-09,LAC,WAS,36.0,3,0,0,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,85-81,85,81
 0021700375,2017-12-09,LAC,WAS,36.0,3,0,0,LAC,,period_end,0,False,False,,,85-81,85,81
 0021700375,2017-12-09,LAC,WAS,36.0,4,12,0,LAC,,period_start,0,False,False,,,85-81,85,81
@@ -337,8 +337,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700375,2017-12-09,LAC,WAS,40.87,4,7,8,WAS,WAS,fg_make,98,False,False,,Satoransky 1' Cutting Layup Shot (11 PTS) (Scott 2 AST),94-95,94,95
 0021700375,2017-12-09,LAC,WAS,41.12,4,6,53,LAC,WAS,foul,1,False,False,,Scott P.FOUL (P1.T1) (B.Spooner),94-95,94,95
 0021700375,2017-12-09,LAC,WAS,41.28,4,6,43,LAC,LAC,fg_miss,6,True,False,MISS Rivers 3' Driving Layup,,94-95,94,95
-0021700375,2017-12-09,LAC,WAS,41.28,4,6,43,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,94-95,94,95
 0021700375,2017-12-09,LAC,WAS,41.28,4,6,43,LAC,WAS,block,6,True,False,block,block,94-95,94,95
+0021700375,2017-12-09,LAC,WAS,41.28,4,6,43,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,94-95,94,95
 0021700375,2017-12-09,LAC,WAS,41.32,4,6,41,LAC,LAC,tov,4,False,False,Gallinari Traveling Turnover (P2.T10),,94-95,94,95
 0021700375,2017-12-09,LAC,WAS,41.62,4,6,23,WAS,WAS,tov,4,False,False,,Scott Traveling Turnover (P1.T13),94-95,94,95
 0021700375,2017-12-09,LAC,WAS,41.97,4,6,2,LAC,LAC,fg_miss,63,False,False,MISS Williams 11' Fadeaway Jumper,,94-95,94,95
@@ -354,8 +354,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700375,2017-12-09,LAC,WAS,43.37,4,4,38,LAC,LAC,ft_make,11,False,False,Williams Free Throw 1 of 2 (27 PTS),,98-98,98,98
 0021700375,2017-12-09,LAC,WAS,43.37,4,4,38,LAC,LAC,ft_make,12,False,False,Williams Free Throw 2 of 2 (28 PTS),,99-98,99,98
 0021700375,2017-12-09,LAC,WAS,43.6,4,4,24,WAS,WAS,fg_miss,6,True,False,,MISS Beal 1' Driving Layup,99-98,99,98
-0021700375,2017-12-09,LAC,WAS,43.6,4,4,24,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,99-98,99,98
 0021700375,2017-12-09,LAC,WAS,43.6,4,4,24,WAS,LAC,block,6,True,False,block,block,99-98,99,98
+0021700375,2017-12-09,LAC,WAS,43.6,4,4,24,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,99-98,99,98
 0021700375,2017-12-09,LAC,WAS,43.95,4,4,3,LAC,LAC,fg3_miss,1,False,False,MISS Williams 25' 3PT Jump Shot,,99-98,99,98
 0021700375,2017-12-09,LAC,WAS,44.0,4,4,0,WAS,WAS,reb,0,False,False,,Scott REBOUND (Off:0 Def:7),99-98,99,98
 0021700375,2017-12-09,LAC,WAS,44.22,4,3,47,WAS,WAS,fg_make,101,False,False,,Porter Jr. 11' Driving Floating Jump Shot (27 PTS) (Satoransky 6 AST),99-100,99,100

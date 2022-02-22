@@ -165,8 +165,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900579,2020-01-11,DET,CHI,19.18,2,4,49,CHI,DET,steal,2,False,True,steal,steal,38-54,38,54
 0021900579,2020-01-11,DET,CHI,19.47,2,4,32,DET,CHI,foul,1,False,False,,Dunn P.FOUL (P1.T3) (M.Ayotte),38-54,38,54
 0021900579,2020-01-11,DET,CHI,19.58,2,4,25,DET,DET,fg_miss,6,True,False,MISS Brown 7' Driving Layup,,38-54,38,54
-0021900579,2020-01-11,DET,CHI,19.58,2,4,25,DET,DET,reb,0,False,False,PISTONS Rebound,,38-54,38,54
 0021900579,2020-01-11,DET,CHI,19.58,2,4,25,DET,CHI,block,6,True,False,block,block,38-54,38,54
+0021900579,2020-01-11,DET,CHI,19.58,2,4,25,DET,DET,reb,0,False,False,PISTONS Rebound,,38-54,38,54
 0021900579,2020-01-11,DET,CHI,19.67,2,4,20,DET,DET,fg_make,5,False,False,Brown 2' Layup (2 PTS) (Doumbouya 1 AST),,40-54,40,54
 0021900579,2020-01-11,DET,CHI,19.88,2,4,7,CHI,DET,foul,1,False,False,Doumbouya P.FOUL (P2.T4) (J.Orr),,40-54,40,54
 0021900579,2020-01-11,DET,CHI,20.17,2,3,50,CHI,CHI,fg3_miss,1,False,False,,MISS LaVine 26' 3PT Jump Shot,40-54,40,54
@@ -265,8 +265,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900579,2020-01-11,DET,CHI,30.55,3,5,27,DET,DET,fg3_miss,1,False,False,MISS Snell 24' 3PT Jump Shot,,66-72,66,72
 0021900579,2020-01-11,DET,CHI,30.6,3,5,24,CHI,CHI,reb,0,False,False,,Markkanen REBOUND (Off:2 Def:3),66-72,66,72
 0021900579,2020-01-11,DET,CHI,30.75,3,5,15,CHI,CHI,fg_miss,5,True,False,,MISS Dunn 5' Layup,66-72,66,72
-0021900579,2020-01-11,DET,CHI,30.75,3,5,15,CHI,CHI,reb,0,False,False,,Bulls Rebound,66-72,66,72
 0021900579,2020-01-11,DET,CHI,30.75,3,5,15,CHI,DET,block,5,True,False,block,block,66-72,66,72
+0021900579,2020-01-11,DET,CHI,30.75,3,5,15,CHI,CHI,reb,0,False,False,,Bulls Rebound,66-72,66,72
 0021900579,2020-01-11,DET,CHI,30.88,3,5,7,CHI,CHI,fg3_miss,1,False,False,,MISS Markkanen 28' 3PT Jump Shot,66-72,66,72
 0021900579,2020-01-11,DET,CHI,30.97,3,5,2,DET,DET,reb,0,False,False,Wood REBOUND (Off:2 Def:7),,66-72,66,72
 0021900579,2020-01-11,DET,CHI,31.07,3,4,56,DET,DET,fg3_miss,1,False,False,MISS Snell 24' 3PT Jump Shot,,66-72,66,72
@@ -282,8 +282,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900579,2020-01-11,DET,CHI,32.02,3,3,59,DET,DET,reb,0,False,False,Rose REBOUND (Off:0 Def:2),,68-72,68,72
 0021900579,2020-01-11,DET,CHI,32.07,3,3,56,,DET,jump_ball,0,False,False,Jump Ball Brown vs. Dunn: Tip to Kornet,,68-72,68,72
 0021900579,2020-01-11,DET,CHI,32.25,3,3,45,DET,DET,tov,2,False,True,Brown Lost Ball Turnover (P2.T13),,68-72,68,72
-0021900579,2020-01-11,DET,CHI,32.25,3,3,45,CHI,DET,foul,2,False,False,Wood S.FOUL (P1.T1) (J.Goble),,68-72,68,72
 0021900579,2020-01-11,DET,CHI,32.25,3,3,45,DET,CHI,steal,2,False,True,steal,steal,68-72,68,72
+0021900579,2020-01-11,DET,CHI,32.25,3,3,45,CHI,DET,foul,2,False,False,Wood S.FOUL (P1.T1) (J.Goble),,68-72,68,72
 0021900579,2020-01-11,DET,CHI,32.25,3,3,45,CHI,CHI,ft_make,11,False,False,,LaVine Free Throw 1 of 2 (13 PTS),68-73,68,73
 0021900579,2020-01-11,DET,CHI,32.25,3,3,45,CHI,CHI,ft_make,12,False,False,,LaVine Free Throw 2 of 2 (14 PTS),68-74,68,74
 0021900579,2020-01-11,DET,CHI,32.6,3,3,24,DET,DET,fg_miss,5,False,False,MISS Morris 5' Layup,,68-74,68,74
@@ -318,10 +318,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900579,2020-01-11,DET,CHI,35.87,3,0,8,CHI,CHI,fg3_miss,63,False,False,,MISS Kornet 24' 3PT Fadeaway Jumper,71-81,71,81
 0021900579,2020-01-11,DET,CHI,35.88,3,0,7,DET,DET,reb,0,False,False,Maker REBOUND (Off:0 Def:1),,71-81,71,81
 0021900579,2020-01-11,DET,CHI,36.0,3,0,0,DET,DET,fg_miss,5,True,False,MISS Brown 3' Layup,,71-81,71,81
+0021900579,2020-01-11,DET,CHI,36.0,3,0,0,DET,CHI,block,5,True,False,block,block,71-81,71,81
 0021900579,2020-01-11,DET,CHI,36.0,3,0,0,DET,DET,reb,0,False,False,PISTONS Rebound,,71-81,71,81
 0021900579,2020-01-11,DET,CHI,36.0,3,0,0,DET,,period_end,0,False,False,,,71-81,71,81
 0021900579,2020-01-11,DET,CHI,36.0,4,12,0,DET,,period_start,0,False,False,,,71-81,71,81
-0021900579,2020-01-11,DET,CHI,36.0,3,0,0,DET,CHI,block,5,True,False,block,block,71-81,71,81
 0021900579,2020-01-11,DET,CHI,36.3,4,11,42,DET,DET,fg3_make,1,False,False,Mykhailiuk 3PT Jump Shot (7 PTS) (Galloway 3 AST),,74-81,74,81
 0021900579,2020-01-11,DET,CHI,36.7,4,11,18,CHI,CHI,fg3_miss,1,False,False,,MISS Young 27' 3PT Jump Shot,74-81,74,81
 0021900579,2020-01-11,DET,CHI,36.73,4,11,16,CHI,CHI,reb,0,False,False,,Bulls Rebound,74-81,74,81

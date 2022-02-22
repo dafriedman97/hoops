@@ -156,10 +156,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900900,2020-03-01,NOP,LAL,16.48,2,7,31,LAL,LAL,fg3_make,1,False,False,,Cook 25' 3PT Jump Shot (3 PTS) (James 3 AST),42-43,42,43
 0021900900,2020-03-01,NOP,LAL,16.73,2,7,16,NOP,NOP,fg_make,5,False,False,Williamson 2' Layup (10 PTS) (Ball 4 AST),,44-43,44,43
 0021900900,2020-03-01,NOP,LAL,17.13,2,6,52,LAL,LAL,fg_make,5,False,False,,James 2' Layup (14 PTS) (Caldwell-Pope 2 AST),44-45,44,45
-0021900900,2020-03-01,NOP,LAL,17.32,2,6,41,NOP,NOP,fg_miss,5,True,False,MISS Williamson 3' Layup,,44-45,44,45
-0021900900,2020-03-01,NOP,LAL,17.32,2,6,41,NOP,NOP,reb,0,False,False,PELICANS Rebound,,44-45,44,45
 0021900900,2020-03-01,NOP,LAL,17.32,2,6,41,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 1 Short 0),,44-45,44,45
+0021900900,2020-03-01,NOP,LAL,17.32,2,6,41,NOP,NOP,fg_miss,5,True,False,MISS Williamson 3' Layup,,44-45,44,45
 0021900900,2020-03-01,NOP,LAL,17.32,2,6,41,NOP,LAL,block,5,True,False,block,block,44-45,44,45
+0021900900,2020-03-01,NOP,LAL,17.32,2,6,41,NOP,NOP,reb,0,False,False,PELICANS Rebound,,44-45,44,45
 0021900900,2020-03-01,NOP,LAL,17.5,2,6,30,NOP,NOP,fg3_miss,1,False,False,MISS Ball 26' 3PT Jump Shot,,44-45,44,45
 0021900900,2020-03-01,NOP,LAL,17.55,2,6,27,NOP,NOP,reb,0,False,False,Holiday REBOUND (Off:1 Def:2),,44-45,44,45
 0021900900,2020-03-01,NOP,LAL,17.6,2,6,24,NOP,NOP,fg_miss,73,False,False,MISS Ingram 2' Driving Reverse Layup,,44-45,44,45
@@ -176,8 +176,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900900,2020-03-01,NOP,LAL,18.52,2,5,29,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.3 Short 0),50-45,50,45
 0021900900,2020-03-01,NOP,LAL,18.8,2,5,12,LAL,LAL,fg_make,1,False,False,,Morris 5' Jump Shot (5 PTS),50-47,50,47
 0021900900,2020-03-01,NOP,LAL,19.12,2,4,53,NOP,NOP,fg_miss,5,True,False,MISS Jackson 2' Layup,,50-47,50,47
-0021900900,2020-03-01,NOP,LAL,19.12,2,4,53,NOP,NOP,reb,0,False,False,Jackson REBOUND (Off:1 Def:0),,50-47,50,47
 0021900900,2020-03-01,NOP,LAL,19.12,2,4,53,NOP,LAL,block,5,True,False,block,block,50-47,50,47
+0021900900,2020-03-01,NOP,LAL,19.12,2,4,53,NOP,NOP,reb,0,False,False,Jackson REBOUND (Off:1 Def:0),,50-47,50,47
 0021900900,2020-03-01,NOP,LAL,19.17,2,4,50,NOP,NOP,fg_miss,1,False,False,MISS Jackson 5' Jump Shot,,50-47,50,47
 0021900900,2020-03-01,NOP,LAL,19.18,2,4,49,LAL,LAL,reb,0,False,False,,McGee REBOUND (Off:0 Def:1),50-47,50,47
 0021900900,2020-03-01,NOP,LAL,19.27,2,4,44,LAL,LAL,fg3_miss,1,False,False,,MISS Morris 24' 3PT Jump Shot,50-47,50,47
@@ -367,14 +367,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900900,2020-03-01,NOP,LAL,37.72,4,10,17,NOP,NOP,ft_miss,12,False,False,MISS Williamson Free Throw 2 of 2,,101-95,101,95
 0021900900,2020-03-01,NOP,LAL,37.77,4,10,14,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:1 Def:3),101-95,101,95
 0021900900,2020-03-01,NOP,LAL,37.97,4,10,2,LAL,LAL,fg3_miss,1,False,False,,MISS James 25' 3PT Jump Shot,101-95,101,95
-0021900900,2020-03-01,NOP,LAL,38.08,4,9,55,LAL,LAL,fg_make,107,False,False,,Howard 1' Tip Dunk Shot (8 PTS),101-97,101,97
 0021900900,2020-03-01,NOP,LAL,38.08,4,9,55,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:2 Def:3),101-97,101,97
+0021900900,2020-03-01,NOP,LAL,38.08,4,9,55,LAL,LAL,fg_make,107,False,False,,Howard 1' Tip Dunk Shot (8 PTS),101-97,101,97
 0021900900,2020-03-01,NOP,LAL,38.23,4,9,46,NOP,NOP,fg3_miss,1,False,False,MISS Melli 25' 3PT Jump Shot,,101-97,101,97
 0021900900,2020-03-01,NOP,LAL,38.3,4,9,42,LAL,LAL,reb,0,False,False,,James REBOUND (Off:0 Def:8),101-97,101,97
 0021900900,2020-03-01,NOP,LAL,38.53,4,9,28,LAL,LAL,fg3_make,1,False,False,,Kuzma 26' 3PT Jump Shot (17 PTS) (James 11 AST),101-100,101,100
 0021900900,2020-03-01,NOP,LAL,38.72,4,9,17,NOP,NOP,fg_miss,5,True,False,MISS Williamson 4' Layup,,101-100,101,100
-0021900900,2020-03-01,NOP,LAL,38.72,4,9,17,LAL,LAL,reb,0,False,False,,Lakers Rebound,101-100,101,100
 0021900900,2020-03-01,NOP,LAL,38.72,4,9,17,NOP,LAL,block,5,True,False,block,block,101-100,101,100
+0021900900,2020-03-01,NOP,LAL,38.72,4,9,17,LAL,LAL,reb,0,False,False,,Lakers Rebound,101-100,101,100
 0021900900,2020-03-01,NOP,LAL,38.78,4,9,13,,NOP,jump_ball,0,False,False,Jump Ball Williamson vs. Caldwell-Pope: Tip to Howard,,101-100,101,100
 0021900900,2020-03-01,NOP,LAL,39.05,4,8,57,LAL,LAL,fg_make,9,False,False,,James 2' Driving Dunk (25 PTS),101-102,101,102
 0021900900,2020-03-01,NOP,LAL,39.23,4,8,46,NOP,NOP,fg3_miss,1,False,False,MISS Hart 25' 3PT Jump Shot,,101-102,101,102
@@ -436,11 +436,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900900,2020-03-01,NOP,LAL,46.18,4,1,49,LAL,LAL,ft_make,11,False,False,,James Free Throw 1 of 2 (33 PTS),112-117,112,117
 0021900900,2020-03-01,NOP,LAL,46.18,4,1,49,LAL,LAL,ft_make,12,False,False,,James Free Throw 2 of 2 (34 PTS),112-118,112,118
 0021900900,2020-03-01,NOP,LAL,46.5,4,1,30,,NOP,jump_ball,0,False,False,Jump Ball Ball vs. McGee: Tip to Ingram,,112-118,112,118
-0021900900,2020-03-01,NOP,LAL,46.57,4,1,26,NOP,NOP,fg_miss,5,True,False,MISS Ingram 3' Layup,,112-118,112,118
-0021900900,2020-03-01,NOP,LAL,46.57,4,1,26,LAL,LAL,reb,0,False,False,,Lakers Rebound,112-118,112,118
 0021900900,2020-03-01,NOP,LAL,46.57,4,1,26,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.6 Short 0),112-118,112,118
-0021900900,2020-03-01,NOP,LAL,46.57,4,1,26,LAL,LAL,tov,12,False,False,,James Inbound Turnover (P6.T12),112-118,112,118
+0021900900,2020-03-01,NOP,LAL,46.57,4,1,26,NOP,NOP,fg_miss,5,True,False,MISS Ingram 3' Layup,,112-118,112,118
 0021900900,2020-03-01,NOP,LAL,46.57,4,1,26,NOP,LAL,block,5,True,False,block,block,112-118,112,118
+0021900900,2020-03-01,NOP,LAL,46.57,4,1,26,LAL,LAL,reb,0,False,False,,Lakers Rebound,112-118,112,118
+0021900900,2020-03-01,NOP,LAL,46.57,4,1,26,LAL,LAL,tov,12,False,False,,James Inbound Turnover (P6.T12),112-118,112,118
 0021900900,2020-03-01,NOP,LAL,46.8,4,1,12,NOP,NOP,fg_miss,5,True,False,MISS Ingram 2' Layup,,112-118,112,118
 0021900900,2020-03-01,NOP,LAL,46.8,4,1,12,NOP,LAL,block,5,True,False,block,block,112-118,112,118
 0021900900,2020-03-01,NOP,LAL,46.85,4,1,9,NOP,NOP,reb,0,False,False,Favors REBOUND (Off:9 Def:5),,112-118,112,118

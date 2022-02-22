@@ -29,8 +29,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000252,2021-01-24,ORL,CHA,4.07,1,7,56,ORL,CHA,steal,1,False,True,steal,steal,8-9,8,9
 0022000252,2021-01-24,ORL,CHA,4.12,1,7,53,CHA,CHA,fg_miss,5,True,False,,MISS Graham 6' Layup,8-9,8,9
 0022000252,2021-01-24,ORL,CHA,4.12,1,7,53,CHA,ORL,block,5,True,False,block,block,8-9,8,9
-0022000252,2021-01-24,ORL,CHA,4.15,1,7,51,ORL,ORL,reb,0,False,False,MAGIC Rebound,,8-9,8,9
 0022000252,2021-01-24,ORL,CHA,4.15,1,7,51,,ORL,jump_ball,0,False,False,Jump Ball Anthony vs. Graham: Tip to Vucevic,,8-9,8,9
+0022000252,2021-01-24,ORL,CHA,4.15,1,7,51,ORL,ORL,reb,0,False,False,MAGIC Rebound,,8-9,8,9
 0022000252,2021-01-24,ORL,CHA,4.2,1,7,48,ORL,ORL,tov,1,False,True,Fournier Bad Pass Turnover (P2.T4),,8-9,8,9
 0022000252,2021-01-24,ORL,CHA,4.2,1,7,48,ORL,CHA,steal,1,False,True,steal,steal,8-9,8,9
 0022000252,2021-01-24,ORL,CHA,4.3,1,7,42,CHA,CHA,fg_miss,5,False,False,,MISS Rozier 6' Layup,8-9,8,9
@@ -84,8 +84,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000252,2021-01-24,ORL,CHA,10.15,1,1,51,CHA,CHA,ft_make,12,False,False,,Graham Free Throw 2 of 2 (2 PTS),24-22,24,22
 0022000252,2021-01-24,ORL,CHA,10.45,1,1,33,ORL,ORL,fg3_make,1,False,False,Ross 26' 3PT Jump Shot (3 PTS) (Bacon 2 AST),,27-22,27,22
 0022000252,2021-01-24,ORL,CHA,10.68,1,1,19,CHA,CHA,fg_miss,73,True,False,,MISS Zeller 4' Driving Reverse Layup,27-22,27,22
-0022000252,2021-01-24,ORL,CHA,10.68,1,1,19,CHA,CHA,reb,0,False,False,,Zeller REBOUND (Off:1 Def:1),27-22,27,22
 0022000252,2021-01-24,ORL,CHA,10.68,1,1,19,CHA,ORL,block,73,True,False,block,block,27-22,27,22
+0022000252,2021-01-24,ORL,CHA,10.68,1,1,19,CHA,CHA,reb,0,False,False,,Zeller REBOUND (Off:1 Def:1),27-22,27,22
 0022000252,2021-01-24,ORL,CHA,10.85,1,1,9,CHA,CHA,fg_make,1,False,False,,Martin 22' Jump Shot (2 PTS) (Ball 2 AST),27-24,27,24
 0022000252,2021-01-24,ORL,CHA,11.25,1,0,45,ORL,CHA,foul,2,False,False,,Ball S.FOUL (P1.T4) (M.Smith),27-24,27,24
 0022000252,2021-01-24,ORL,CHA,11.25,1,0,45,ORL,ORL,ft_make,11,False,False,Clark Free Throw 1 of 2 (7 PTS),,28-24,28,24
@@ -159,8 +159,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000252,2021-01-24,ORL,CHA,17.98,2,6,1,CHA,CHA,ft_miss,16,False,False,,MISS Rozier Free Throw Technical,44-35,44,35
 0022000252,2021-01-24,ORL,CHA,17.98,2,6,1,ORL,ORL,reb,1,False,False,MAGIC Rebound,,44-35,44,35
 0022000252,2021-01-24,ORL,CHA,18.35,2,5,39,ORL,ORL,fg_miss,79,True,False,MISS Vucevic 12' Pullup Jump Shot,,44-35,44,35
-0022000252,2021-01-24,ORL,CHA,18.35,2,5,39,ORL,ORL,reb,0,False,False,MAGIC Rebound,,44-35,44,35
 0022000252,2021-01-24,ORL,CHA,18.35,2,5,39,ORL,CHA,block,79,True,False,block,block,44-35,44,35
+0022000252,2021-01-24,ORL,CHA,18.35,2,5,39,ORL,ORL,reb,0,False,False,MAGIC Rebound,,44-35,44,35
 0022000252,2021-01-24,ORL,CHA,18.4,2,5,36,ORL,ORL,fg_miss,47,False,False,MISS Vucevic 10' Turnaround Jump Shot,,44-35,44,35
 0022000252,2021-01-24,ORL,CHA,18.45,2,5,33,CHA,CHA,reb,0,False,False,,Rozier REBOUND (Off:0 Def:2),44-35,44,35
 0022000252,2021-01-24,ORL,CHA,18.77,2,5,14,CHA,ORL,foul,1,False,False,Bone P.FOUL (P1.T2) (J.Schroeder),,44-35,44,35
@@ -270,8 +270,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000252,2021-01-24,ORL,CHA,31.57,3,4,26,CHA,CHA,fg_miss,79,False,False,,MISS Hayward 23' Pullup Jump Shot,77-66,77,66
 0022000252,2021-01-24,ORL,CHA,31.62,3,4,23,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:0 Def:9),,77-66,77,66
 0022000252,2021-01-24,ORL,CHA,31.8,3,4,12,ORL,ORL,fg_miss,5,True,False,MISS Ennis III 4' Layup,,77-66,77,66
-0022000252,2021-01-24,ORL,CHA,31.8,3,4,12,ORL,ORL,reb,0,False,False,Ennis III REBOUND (Off:3 Def:1),,77-66,77,66
 0022000252,2021-01-24,ORL,CHA,31.8,3,4,12,ORL,CHA,block,5,True,False,block,block,77-66,77,66
+0022000252,2021-01-24,ORL,CHA,31.8,3,4,12,ORL,ORL,reb,0,False,False,Ennis III REBOUND (Off:3 Def:1),,77-66,77,66
 0022000252,2021-01-24,ORL,CHA,31.82,3,4,11,ORL,ORL,fg_miss,97,False,False,MISS Ennis III 1' Tip Layup Shot,,77-66,77,66
 0022000252,2021-01-24,ORL,CHA,31.82,3,4,11,CHA,CHA,reb,0,False,False,,Hayward REBOUND (Off:0 Def:4),77-66,77,66
 0022000252,2021-01-24,ORL,CHA,31.93,3,4,4,CHA,CHA,fg3_miss,1,False,False,,MISS Rozier 24' 3PT Jump Shot,77-66,77,66
@@ -339,8 +339,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000252,2021-01-24,ORL,CHA,38.82,4,9,11,CHA,CHA,fg_make,79,False,False,,Graham 20' Pullup Jump Shot (9 PTS) (Rozier 2 AST),86-81,86,81
 0022000252,2021-01-24,ORL,CHA,38.95,4,9,3,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 5 Short 0),,86-81,86,81
 0022000252,2021-01-24,ORL,CHA,39.12,4,8,53,ORL,ORL,fg_miss,6,True,False,MISS Fournier 5' Driving Layup,,86-81,86,81
-0022000252,2021-01-24,ORL,CHA,39.12,4,8,53,ORL,ORL,reb,0,False,False,MAGIC Rebound,,86-81,86,81
 0022000252,2021-01-24,ORL,CHA,39.12,4,8,53,ORL,CHA,block,6,True,False,block,block,86-81,86,81
+0022000252,2021-01-24,ORL,CHA,39.12,4,8,53,ORL,ORL,reb,0,False,False,MAGIC Rebound,,86-81,86,81
 0022000252,2021-01-24,ORL,CHA,39.15,4,8,51,ORL,ORL,tov,1,False,True,Bacon Bad Pass Turnover (P3.T12),,86-81,86,81
 0022000252,2021-01-24,ORL,CHA,39.15,4,8,51,ORL,CHA,steal,1,False,True,steal,steal,86-81,86,81
 0022000252,2021-01-24,ORL,CHA,39.32,4,8,41,CHA,CHA,fg_make,108,False,False,,Washington 4' Cutting Dunk Shot (9 PTS) (Graham 5 AST),86-83,86,83
@@ -387,8 +387,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000252,2021-01-24,ORL,CHA,44.85,4,3,9,ORL,ORL,fg_miss,6,False,False,MISS Anthony 7' Driving Layup,,93-99,93,99
 0022000252,2021-01-24,ORL,CHA,44.9,4,3,6,CHA,CHA,reb,0,False,False,,Biyombo REBOUND (Off:0 Def:4),93-99,93,99
 0022000252,2021-01-24,ORL,CHA,45.05,4,2,57,CHA,CHA,fg3_miss,1,False,False,,MISS Graham 26' 3PT Jump Shot,93-99,93,99
-0022000252,2021-01-24,ORL,CHA,45.12,4,2,53,ORL,ORL,reb,0,False,False,MAGIC Rebound,,93-99,93,99
 0022000252,2021-01-24,ORL,CHA,45.12,4,2,53,,ORL,jump_ball,0,False,False,Jump Ball Clark vs. Biyombo: Tip to Ross,,93-99,93,99
+0022000252,2021-01-24,ORL,CHA,45.12,4,2,53,ORL,ORL,reb,0,False,False,MAGIC Rebound,,93-99,93,99
 0022000252,2021-01-24,ORL,CHA,45.3,4,2,42,ORL,ORL,fg3_miss,1,False,False,MISS Vucevic 27' 3PT Jump Shot,,93-99,93,99
 0022000252,2021-01-24,ORL,CHA,45.37,4,2,38,CHA,CHA,reb,0,False,False,,Hayward REBOUND (Off:1 Def:7),93-99,93,99
 0022000252,2021-01-24,ORL,CHA,45.67,4,2,20,CHA,CHA,fg3_make,80,False,False,,Rozier 3PT Step Back Jump Shot (7 PTS),93-102,93,102

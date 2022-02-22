@@ -82,9 +82,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000413,2021-02-14,TOR,MIN,8.95,1,3,3,MIN,MIN,tov,1,False,True,,Towns Bad Pass Turnover (P2.T3),21-24,21,24
 0022000413,2021-02-14,TOR,MIN,8.95,1,3,3,MIN,TOR,steal,1,False,True,steal,steal,21-24,21,24
 0022000413,2021-02-14,TOR,MIN,9.08,1,2,55,TOR,TOR,fg_miss,6,True,False,MISS Davis 3' Driving Layup,,21-24,21,24
+0022000413,2021-02-14,TOR,MIN,9.08,1,2,55,TOR,MIN,block,6,True,False,block,block,21-24,21,24
 0022000413,2021-02-14,TOR,MIN,9.08,1,2,55,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,21-24,21,24
 0022000413,2021-02-14,TOR,MIN,9.08,1,2,55,MIN,MIN,timeout,1,False,False,,Timberwolves Timeout: Regular (Reg.1 Short 0),21-24,21,24
-0022000413,2021-02-14,TOR,MIN,9.08,1,2,55,TOR,MIN,block,6,True,False,block,block,21-24,21,24
 0022000413,2021-02-14,TOR,MIN,9.32,1,2,41,TOR,TOR,fg3_miss,1,False,False,MISS Boucher 25' 3PT Jump Shot,,21-24,21,24
 0022000413,2021-02-14,TOR,MIN,9.37,1,2,38,MIN,MIN,reb,0,False,False,,Beasley REBOUND (Off:0 Def:2),21-24,21,24
 0022000413,2021-02-14,TOR,MIN,9.62,1,2,23,MIN,MIN,fg3_miss,1,False,False,,MISS Okogie 26' 3PT Jump Shot,21-24,21,24
@@ -148,9 +148,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000413,2021-02-14,TOR,MIN,15.93,2,8,4,MIN,MIN,fg_miss,47,False,False,,MISS Reid 12' Turnaround Jump Shot,35-34,35,34
 0022000413,2021-02-14,TOR,MIN,15.97,2,8,2,TOR,TOR,reb,0,False,False,Johnson REBOUND (Off:1 Def:3),,35-34,35,34
 0022000413,2021-02-14,TOR,MIN,16.05,2,7,57,TOR,TOR,fg_miss,6,True,False,MISS Lowry 5' Driving Layup,,35-34,35,34
+0022000413,2021-02-14,TOR,MIN,16.05,2,7,57,TOR,MIN,block,6,True,False,block,block,35-34,35,34
 0022000413,2021-02-14,TOR,MIN,16.05,2,7,57,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,35-34,35,34
 0022000413,2021-02-14,TOR,MIN,16.05,2,7,57,MIN,,foul,11,False,False,,,35-34,35,34
-0022000413,2021-02-14,TOR,MIN,16.05,2,7,57,TOR,MIN,block,6,True,False,block,block,35-34,35,34
 0022000413,2021-02-14,TOR,MIN,16.05,2,7,57,MIN,MIN,ft_make,16,False,False,,Nowell Free Throw Technical (3 PTS),35-35,35,35
 0022000413,2021-02-14,TOR,MIN,16.22,2,7,47,MIN,MIN,fg_make,102,False,False,,McLaughlin 13' Driving Floating Bank Jump Shot (2 PTS),35-37,35,37
 0022000413,2021-02-14,TOR,MIN,16.53,2,7,28,TOR,TOR,fg3_miss,1,False,False,MISS Siakam 27' 3PT Jump Shot,,35-37,35,37
@@ -268,8 +268,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000413,2021-02-14,TOR,MIN,30.28,3,5,43,TOR,TOR,ft_make,12,False,False,Siakam Free Throw 2 of 2 (9 PTS),,72-69,72,69
 0022000413,2021-02-14,TOR,MIN,30.48,3,5,31,MIN,MIN,fg_make,6,False,False,,Rubio 1' Driving Layup (13 PTS),72-71,72,71
 0022000413,2021-02-14,TOR,MIN,30.73,3,5,16,TOR,TOR,fg_miss,101,False,False,MISS Powell 6' Driving Floating Jump Shot,,72-71,72,71
-0022000413,2021-02-14,TOR,MIN,30.8,3,5,12,TOR,TOR,fg_make,97,False,False,Baynes Tip Layup Shot (6 PTS),,74-71,74,71
 0022000413,2021-02-14,TOR,MIN,30.8,3,5,12,TOR,TOR,reb,0,False,False,Baynes REBOUND (Off:2 Def:1),,74-71,74,71
+0022000413,2021-02-14,TOR,MIN,30.8,3,5,12,TOR,TOR,fg_make,97,False,False,Baynes Tip Layup Shot (6 PTS),,74-71,74,71
 0022000413,2021-02-14,TOR,MIN,30.98,3,5,1,MIN,MIN,fg3_make,1,False,False,,Beasley 24' 3PT Jump Shot (20 PTS) (Rubio 2 AST),74-74,74,74
 0022000413,2021-02-14,TOR,MIN,31.2,3,4,48,TOR,TOR,fg3_make,1,False,False,Siakam 3PT Jump Shot (12 PTS) (VanVleet 5 AST),,77-74,77,74
 0022000413,2021-02-14,TOR,MIN,31.45,3,4,33,MIN,MIN,fg3_make,1,False,False,,McDaniels 3PT Jump Shot (6 PTS) (Rubio 3 AST),77-77,77,77
@@ -324,12 +324,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000413,2021-02-14,TOR,MIN,35.6,3,0,24,TOR,TOR,fg_make,73,False,False,Powell 3' Driving Reverse Layup (19 PTS) (Davis 3 AST),,83-91,83,91
 0022000413,2021-02-14,TOR,MIN,35.9,3,0,6,MIN,MIN,tov,45,False,False,,McLaughlin Out of Bounds - Bad Pass Turnover Turnover (P1.T10),83-91,83,91
 0022000413,2021-02-14,TOR,MIN,36.0,3,0,0,TOR,TOR,fg_miss,6,True,False,MISS VanVleet 11' Driving Layup,,83-91,83,91
+0022000413,2021-02-14,TOR,MIN,36.0,3,0,0,TOR,MIN,block,6,True,False,block,block,83-91,83,91
 0022000413,2021-02-14,TOR,MIN,36.0,3,0,0,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,83-91,83,91
 0022000413,2021-02-14,TOR,MIN,36.0,3,0,0,TOR,TOR,fg_miss,43,False,False,MISS Bembry 5' Alley Oop Layup,,83-91,83,91
 0022000413,2021-02-14,TOR,MIN,36.0,3,0,0,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,83-91,83,91
 0022000413,2021-02-14,TOR,MIN,36.0,3,0,0,TOR,,period_end,0,False,False,,,83-91,83,91
 0022000413,2021-02-14,TOR,MIN,36.0,4,12,0,TOR,,period_start,0,False,False,,,83-91,83,91
-0022000413,2021-02-14,TOR,MIN,36.0,3,0,0,TOR,MIN,block,6,True,False,block,block,83-91,83,91
 0022000413,2021-02-14,TOR,MIN,36.3,4,11,42,TOR,TOR,fg_miss,6,False,False,MISS Siakam 4' Driving Layup,,83-91,83,91
 0022000413,2021-02-14,TOR,MIN,36.35,4,11,39,MIN,MIN,reb,0,False,False,,Hernangomez REBOUND (Off:0 Def:2),83-91,83,91
 0022000413,2021-02-14,TOR,MIN,36.62,4,11,23,MIN,MIN,fg_make,101,False,False,,McLaughlin 6' Driving Floating Jump Shot (4 PTS) (Beasley 6 AST),83-93,83,93
@@ -449,6 +449,6 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000413,2021-02-14,TOR,MIN,47.95,4,0,3,MIN,MIN,ft_make,12,False,False,,McLaughlin Free Throw 2 of 2 (6 PTS),112-116,112,116
 0022000413,2021-02-14,TOR,MIN,47.95,4,0,3,TOR,TOR,timeout,1,False,False,RAPTORS Timeout: Regular (Full 6 Short 0),,112-116,112,116
 0022000413,2021-02-14,TOR,MIN,47.98,4,0,1,TOR,TOR,fg_miss,5,True,False,MISS Siakam 3' Layup,,112-116,112,116
-0022000413,2021-02-14,TOR,MIN,47.98,4,0,1,MIN,MIN,reb,0,False,False,,Edwards REBOUND (Off:0 Def:7),112-116,112,116
 0022000413,2021-02-14,TOR,MIN,47.98,4,0,1,TOR,MIN,block,5,True,False,block,block,112-116,112,116
+0022000413,2021-02-14,TOR,MIN,47.98,4,0,1,MIN,MIN,reb,0,False,False,,Edwards REBOUND (Off:0 Def:7),112-116,112,116
 0022000413,2021-02-14,TOR,MIN,48.0,4,0,0,MIN,,period_end,0,False,False,,,112-116,112,116

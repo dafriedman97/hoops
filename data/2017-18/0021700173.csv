@@ -45,9 +45,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700173,2017-11-10,SAS,MIL,6.17,1,5,50,SAS,MIL,block,72,True,False,block,block,16-11,16,11
 0021700173,2017-11-10,SAS,MIL,6.18,1,5,49,SAS,SAS,reb,0,False,False,Green REBOUND (Off:1 Def:1),,16-11,16,11
 0021700173,2017-11-10,SAS,MIL,6.22,1,5,47,SAS,SAS,tov,1,False,True,Green Bad Pass Turnover (P2.T3),,16-11,16,11
+0021700173,2017-11-10,SAS,MIL,6.22,1,5,47,SAS,MIL,steal,1,False,True,steal,steal,16-11,16,11
 0021700173,2017-11-10,SAS,MIL,6.22,1,5,47,MIL,MIL,fg_miss,75,False,False,,MISS Brogdon 7' Driving Finger Roll Layup,16-11,16,11
 0021700173,2017-11-10,SAS,MIL,6.22,1,5,47,SAS,SAS,reb,0,False,False,SPURS Rebound,,16-11,16,11
-0021700173,2017-11-10,SAS,MIL,6.22,1,5,47,SAS,MIL,steal,1,False,True,steal,steal,16-11,16,11
 0021700173,2017-11-10,SAS,MIL,6.27,1,5,44,SAS,MIL,foul,1,False,False,,Middleton P.FOUL (P1.T2) (T.Brothers),16-11,16,11
 0021700173,2017-11-10,SAS,MIL,6.45,1,5,33,SAS,SAS,tov,45,False,False,Anderson Out of Bounds - Bad Pass Turnover Turnover (P2.T4),,16-11,16,11
 0021700173,2017-11-10,SAS,MIL,6.68,1,5,19,MIL,MIL,fg_make,1,False,False,,Maker 17' Jump Shot (2 PTS) (Antetokounmpo 2 AST),16-13,16,13
@@ -112,8 +112,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700173,2017-11-10,SAS,MIL,13.78,2,10,13,MIL,MIL,fg_miss,72,False,False,,MISS Maker 3' Putback Layup,30-27,30,27
 0021700173,2017-11-10,SAS,MIL,13.78,2,10,13,MIL,MIL,reb,0,False,False,,Maker REBOUND (Off:4 Def:0),30-27,30,27
 0021700173,2017-11-10,SAS,MIL,13.85,2,10,9,MIL,MIL,tov,2,False,True,,Middleton Lost Ball Turnover (P3.T5),30-27,30,27
-0021700173,2017-11-10,SAS,MIL,13.85,2,10,9,SAS,MIL,foul,1,False,False,,Maker P.FOUL (P2.T1) (T.Brothers),30-27,30,27
 0021700173,2017-11-10,SAS,MIL,13.85,2,10,9,MIL,SAS,steal,2,False,True,steal,steal,30-27,30,27
+0021700173,2017-11-10,SAS,MIL,13.85,2,10,9,SAS,MIL,foul,1,False,False,,Maker P.FOUL (P2.T1) (T.Brothers),30-27,30,27
 0021700173,2017-11-10,SAS,MIL,14.08,2,9,55,SAS,SAS,fg3_miss,1,False,False,MISS Paul 3PT Jump Shot,,30-27,30,27
 0021700173,2017-11-10,SAS,MIL,14.15,2,9,51,MIL,MIL,reb,0,False,False,,Brogdon REBOUND (Off:0 Def:3),30-27,30,27
 0021700173,2017-11-10,SAS,MIL,14.22,2,9,47,MIL,MIL,fg_miss,75,False,False,,MISS Bledsoe 1' Driving Finger Roll Layup,30-27,30,27
@@ -192,10 +192,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700173,2017-11-10,SAS,MIL,23.97,2,0,2,SAS,SAS,tov,1,False,True,Ginobili Bad Pass Turnover (P1.T11),,47-46,47,46
 0021700173,2017-11-10,SAS,MIL,23.97,2,0,2,SAS,MIL,steal,1,False,True,steal,steal,47-46,47,46
 0021700173,2017-11-10,SAS,MIL,24.0,2,0,0,MIL,MIL,fg_miss,41,True,False,,MISS Snell 6' Running Layup,47-46,47,46
+0021700173,2017-11-10,SAS,MIL,24.0,2,0,0,MIL,SAS,block,41,True,False,block,block,47-46,47,46
 0021700173,2017-11-10,SAS,MIL,24.0,2,0,0,MIL,MIL,reb,0,False,False,,Bucks Rebound,47-46,47,46
 0021700173,2017-11-10,SAS,MIL,24.0,2,0,0,MIL,,period_end,0,False,False,,,47-46,47,46
 0021700173,2017-11-10,SAS,MIL,24.0,3,12,0,MIL,,period_start,0,False,False,,,47-46,47,46
-0021700173,2017-11-10,SAS,MIL,24.0,2,0,0,MIL,SAS,block,41,True,False,block,block,47-46,47,46
 0021700173,2017-11-10,SAS,MIL,24.25,3,11,45,MIL,MIL,fg3_miss,1,False,False,,MISS Antetokounmpo 27' 3PT Jump Shot,47-46,47,46
 0021700173,2017-11-10,SAS,MIL,24.33,3,11,40,MIL,MIL,reb,0,False,False,,Henson REBOUND (Off:2 Def:1),47-46,47,46
 0021700173,2017-11-10,SAS,MIL,24.38,3,11,37,MIL,MIL,fg_make,71,False,False,,Middleton 1' Finger Roll Layup (4 PTS),47-48,47,48
@@ -204,8 +204,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700173,2017-11-10,SAS,MIL,24.75,3,11,15,MIL,MIL,fg_make,50,False,False,,Bledsoe 5' Running Dunk (11 PTS),47-50,47,50
 0021700173,2017-11-10,SAS,MIL,24.78,3,11,13,SAS,SAS,tov,45,False,False,Green Out of Bounds - Bad Pass Turnover Turnover (P5.T13),,47-50,47,50
 0021700173,2017-11-10,SAS,MIL,24.97,3,11,2,MIL,MIL,fg_miss,5,True,False,,MISS Antetokounmpo 2' Layup,47-50,47,50
-0021700173,2017-11-10,SAS,MIL,24.97,3,11,2,MIL,MIL,reb,0,False,False,,Bucks Rebound,47-50,47,50
 0021700173,2017-11-10,SAS,MIL,24.97,3,11,2,MIL,SAS,block,5,True,False,block,block,47-50,47,50
+0021700173,2017-11-10,SAS,MIL,24.97,3,11,2,MIL,MIL,reb,0,False,False,,Bucks Rebound,47-50,47,50
 0021700173,2017-11-10,SAS,MIL,25.03,3,10,58,,SAS,jump_ball,0,False,False,Jump Ball Anderson vs. Antetokounmpo: Tip to Bledsoe,,47-50,47,50
 0021700173,2017-11-10,SAS,MIL,25.22,3,10,47,MIL,MIL,fg_miss,47,False,False,,MISS Bledsoe 13' Turnaround Jump Shot,47-50,47,50
 0021700173,2017-11-10,SAS,MIL,25.22,3,10,47,SAS,SAS,reb,0,False,False,Anderson REBOUND (Off:1 Def:3),,47-50,47,50
@@ -223,8 +223,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700173,2017-11-10,SAS,MIL,26.43,3,9,34,SAS,SAS,fg3_make,79,False,False,Forbes 26' 3PT Pullup Jump Shot (3 PTS) (Anderson 2 AST),,50-52,50,52
 0021700173,2017-11-10,SAS,MIL,26.7,3,9,18,MIL,MIL,fg_make,99,False,False,,Middleton 4' Cutting Finger Roll Layup Shot (6 PTS) (Henson 2 AST),50-54,50,54
 0021700173,2017-11-10,SAS,MIL,26.97,3,9,2,SAS,SAS,fg_miss,71,True,False,MISS Mills 3' Finger Roll Layup,,50-54,50,54
-0021700173,2017-11-10,SAS,MIL,26.97,3,9,2,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:5),50-54,50,54
 0021700173,2017-11-10,SAS,MIL,26.97,3,9,2,SAS,MIL,block,71,True,False,block,block,50-54,50,54
+0021700173,2017-11-10,SAS,MIL,26.97,3,9,2,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:5),50-54,50,54
 0021700173,2017-11-10,SAS,MIL,27.02,3,8,59,MIL,SAS,foul,2,False,False,Aldridge S.FOUL (P1.T1) (D.Taylor),,50-54,50,54
 0021700173,2017-11-10,SAS,MIL,27.02,3,8,59,MIL,MIL,ft_make,11,False,False,,Antetokounmpo Free Throw 1 of 2 (17 PTS),50-55,50,55
 0021700173,2017-11-10,SAS,MIL,27.02,3,8,59,MIL,MIL,ft_miss,12,False,False,,MISS Antetokounmpo Free Throw 2 of 2,50-55,50,55
@@ -232,12 +232,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700173,2017-11-10,SAS,MIL,27.35,3,8,39,SAS,SAS,fg_miss,5,True,False,MISS Anderson 1' Layup,,50-55,50,55
 0021700173,2017-11-10,SAS,MIL,27.35,3,8,39,SAS,MIL,block,5,True,False,block,block,50-55,50,55
 0021700173,2017-11-10,SAS,MIL,27.38,3,8,37,SAS,SAS,reb,0,False,False,Aldridge REBOUND (Off:1 Def:5),,50-55,50,55
-0021700173,2017-11-10,SAS,MIL,27.45,3,8,33,SAS,SAS,fg_miss,47,True,False,MISS Aldridge 8' Turnaround Jump Shot,,50-55,50,55
-0021700173,2017-11-10,SAS,MIL,27.45,3,8,33,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:6),50-55,50,55
 0021700173,2017-11-10,SAS,MIL,27.45,3,8,33,MIL,MIL,fg_miss,5,True,False,,MISS Middleton 4' Layup,50-55,50,55
-0021700173,2017-11-10,SAS,MIL,27.45,3,8,33,MIL,MIL,reb,0,False,False,,Bucks Rebound,50-55,50,55
-0021700173,2017-11-10,SAS,MIL,27.45,3,8,33,SAS,MIL,block,47,True,False,block,block,50-55,50,55
 0021700173,2017-11-10,SAS,MIL,27.45,3,8,33,MIL,SAS,block,5,True,False,block,block,50-55,50,55
+0021700173,2017-11-10,SAS,MIL,27.45,3,8,33,MIL,MIL,reb,0,False,False,,Bucks Rebound,50-55,50,55
+0021700173,2017-11-10,SAS,MIL,27.45,3,8,33,SAS,SAS,fg_miss,47,True,False,MISS Aldridge 8' Turnaround Jump Shot,,50-55,50,55
+0021700173,2017-11-10,SAS,MIL,27.45,3,8,33,SAS,MIL,block,47,True,False,block,block,50-55,50,55
+0021700173,2017-11-10,SAS,MIL,27.45,3,8,33,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:6),50-55,50,55
 0021700173,2017-11-10,SAS,MIL,27.72,3,8,17,MIL,MIL,fg_make,5,False,False,,Henson 3' Layup (6 PTS) (Bledsoe 6 AST),50-57,50,57
 0021700173,2017-11-10,SAS,MIL,28.17,3,7,50,SAS,SAS,fg_miss,102,False,False,MISS Gay 5' Driving Floating Bank Jump Shot,,50-57,50,57
 0021700173,2017-11-10,SAS,MIL,28.17,3,7,50,SAS,SAS,reb,0,False,False,Aldridge REBOUND (Off:2 Def:5),,50-57,50,57
@@ -357,8 +357,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700173,2017-11-10,SAS,MIL,42.82,4,5,11,SAS,SAS,fg_miss,75,False,False,MISS Mills 3' Driving Finger Roll Layup,,82-87,82,87
 0021700173,2017-11-10,SAS,MIL,42.87,4,5,8,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:1 Def:6),82-87,82,87
 0021700173,2017-11-10,SAS,MIL,42.9,4,5,6,MIL,MIL,fg_miss,5,True,False,,MISS Antetokounmpo 4' Layup,82-87,82,87
-0021700173,2017-11-10,SAS,MIL,42.9,4,5,6,MIL,MIL,reb,0,False,False,,Bucks Rebound,82-87,82,87
 0021700173,2017-11-10,SAS,MIL,42.9,4,5,6,MIL,SAS,block,5,True,False,block,block,82-87,82,87
+0021700173,2017-11-10,SAS,MIL,42.9,4,5,6,MIL,MIL,reb,0,False,False,,Bucks Rebound,82-87,82,87
 0021700173,2017-11-10,SAS,MIL,43.08,4,4,55,MIL,MIL,tov,1,False,True,,Bledsoe Bad Pass Turnover (P2.T13),82-87,82,87
 0021700173,2017-11-10,SAS,MIL,43.08,4,4,55,MIL,SAS,steal,1,False,True,steal,steal,82-87,82,87
 0021700173,2017-11-10,SAS,MIL,43.37,4,4,38,SAS,SAS,tov,2,False,True,Green Lost Ball Turnover (P6.T18),,82-87,82,87

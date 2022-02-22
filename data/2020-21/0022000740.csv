@@ -40,8 +40,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000740,2021-04-02,IND,CHA,4.87,1,7,8,CHA,CHA,fg3_miss,1,False,False,,MISS Graham 25' 3PT Jump Shot,12-13,12,13
 0022000740,2021-04-02,IND,CHA,4.92,1,7,5,IND,IND,reb,0,False,False,LeVert REBOUND (Off:0 Def:1),,12-13,12,13
 0022000740,2021-04-02,IND,CHA,4.98,1,7,1,IND,IND,fg_miss,41,True,False,MISS LeVert 1' Running Layup,,12-13,12,13
-0022000740,2021-04-02,IND,CHA,4.98,1,7,1,CHA,CHA,reb,0,False,False,,Hornets Rebound,12-13,12,13
 0022000740,2021-04-02,IND,CHA,4.98,1,7,1,IND,CHA,block,41,True,False,block,block,12-13,12,13
+0022000740,2021-04-02,IND,CHA,4.98,1,7,1,CHA,CHA,reb,0,False,False,,Hornets Rebound,12-13,12,13
 0022000740,2021-04-02,IND,CHA,5.22,1,6,47,CHA,CHA,fg_make,71,False,False,,Biyombo 2' Finger Roll Layup (4 PTS) (Hayward 4 AST),12-15,12,15
 0022000740,2021-04-02,IND,CHA,5.37,1,6,38,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 1 Short 0),,12-15,12,15
 0022000740,2021-04-02,IND,CHA,5.48,1,6,31,IND,IND,fg3_miss,1,False,False,MISS Holiday 3PT Jump Shot,,12-15,12,15
@@ -79,8 +79,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000740,2021-04-02,IND,CHA,9.23,1,2,46,IND,IND,fg3_miss,1,False,False,MISS Holiday 27' 3PT Jump Shot,,20-23,20,23
 0022000740,2021-04-02,IND,CHA,9.28,1,2,43,CHA,CHA,reb,0,False,False,,Zeller REBOUND (Off:0 Def:1),20-23,20,23
 0022000740,2021-04-02,IND,CHA,9.37,1,2,38,CHA,CHA,fg_miss,41,True,False,,MISS Rozier 2' Running Layup,20-23,20,23
-0022000740,2021-04-02,IND,CHA,9.37,1,2,38,IND,IND,reb,0,False,False,PACERS Rebound,,20-23,20,23
 0022000740,2021-04-02,IND,CHA,9.37,1,2,38,CHA,IND,block,41,True,False,block,block,20-23,20,23
+0022000740,2021-04-02,IND,CHA,9.37,1,2,38,IND,IND,reb,0,False,False,PACERS Rebound,,20-23,20,23
 0022000740,2021-04-02,IND,CHA,9.55,1,2,27,IND,IND,tov,1,False,True,LeVert Bad Pass Turnover (P3.T4),,20-23,20,23
 0022000740,2021-04-02,IND,CHA,9.55,1,2,27,IND,CHA,steal,1,False,True,steal,steal,20-23,20,23
 0022000740,2021-04-02,IND,CHA,9.67,1,2,20,CHA,CHA,tov,1,False,True,,Wanamaker Bad Pass Turnover (P1.T5),20-23,20,23
@@ -127,8 +127,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000740,2021-04-02,IND,CHA,12.9,2,11,6,IND,CHA,block,5,True,False,block,block,26-28,26,28
 0022000740,2021-04-02,IND,CHA,12.93,2,11,4,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:0 Def:1),26-28,26,28
 0022000740,2021-04-02,IND,CHA,13.0,2,11,0,CHA,CHA,fg_miss,41,True,False,,MISS Martin Running Layup,26-28,26,28
-0022000740,2021-04-02,IND,CHA,13.0,2,11,0,CHA,CHA,reb,0,False,False,,Hornets Rebound,26-28,26,28
 0022000740,2021-04-02,IND,CHA,13.0,2,11,0,CHA,IND,block,41,True,False,block,block,26-28,26,28
+0022000740,2021-04-02,IND,CHA,13.0,2,11,0,CHA,CHA,reb,0,False,False,,Hornets Rebound,26-28,26,28
 0022000740,2021-04-02,IND,CHA,13.03,2,10,58,CHA,CHA,fg3_miss,1,False,False,,MISS Bridges 29' 3PT Jump Shot,26-28,26,28
 0022000740,2021-04-02,IND,CHA,13.1,2,10,54,IND,IND,reb,0,False,False,McConnell REBOUND (Off:0 Def:1),,26-28,26,28
 0022000740,2021-04-02,IND,CHA,13.38,2,10,37,IND,IND,fg_miss,101,False,False,MISS Holiday 5' Driving Floating Jump Shot,,26-28,26,28
@@ -357,13 +357,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000740,2021-04-02,IND,CHA,35.45,3,0,33,CHA,CHA,ft_miss,12,False,False,,MISS Zeller Free Throw 2 of 2,73-82,73,82
 0022000740,2021-04-02,IND,CHA,35.48,3,0,31,IND,IND,reb,0,False,False,Holiday REBOUND (Off:0 Def:3),,73-82,73,82
 0022000740,2021-04-02,IND,CHA,35.83,3,0,10,IND,IND,fg3_make,80,False,False,Bitadze 26' 3PT Step Back Jump Shot (9 PTS) (Holiday 1 AST),,76-82,76,82
-0022000740,2021-04-02,IND,CHA,36.0,3,0,0,CHA,IND,foul,2,False,False,Holiday S.FOUL (P3.PN) (J.Conley),,76-82,76,82
 0022000740,2021-04-02,IND,CHA,36.0,3,0,0,CHA,CHA,ft_make,13,False,False,,Rozier Free Throw 1 of 3 (7 PTS),76-83,76,83
 0022000740,2021-04-02,IND,CHA,36.0,3,0,0,CHA,CHA,ft_make,14,False,False,,Rozier Free Throw 2 of 3 (8 PTS),76-84,76,84
 0022000740,2021-04-02,IND,CHA,36.0,3,0,0,CHA,CHA,ft_miss,15,False,False,,MISS Rozier Free Throw 3 of 3,76-84,76,84
 0022000740,2021-04-02,IND,CHA,36.0,3,0,0,IND,IND,reb,0,False,False,Bitadze REBOUND (Off:2 Def:4),,76-84,76,84
 0022000740,2021-04-02,IND,CHA,36.0,3,0,0,IND,,period_end,0,False,False,,,76-84,76,84
 0022000740,2021-04-02,IND,CHA,36.0,4,12,0,IND,,period_start,0,False,False,,,76-84,76,84
+0022000740,2021-04-02,IND,CHA,36.0,3,0,0,CHA,IND,foul,2,False,False,Holiday S.FOUL (P3.PN) (J.Conley),,76-82,76,82
 0022000740,2021-04-02,IND,CHA,36.25,4,11,45,CHA,CHA,fg3_miss,1,False,False,,MISS Graham 24' 3PT Jump Shot,76-84,76,84
 0022000740,2021-04-02,IND,CHA,36.3,4,11,42,IND,IND,reb,0,False,False,Holiday REBOUND (Off:0 Def:4),,76-84,76,84
 0022000740,2021-04-02,IND,CHA,36.52,4,11,29,IND,IND,fg_make,73,False,False,McConnell 2' Driving Reverse Layup (4 PTS),,78-84,78,84
@@ -403,8 +403,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000740,2021-04-02,IND,CHA,41.62,4,6,23,IND,IND,tov,2,False,True,Sumner Lost Ball Turnover (P4.T17),,88-97,88,97
 0022000740,2021-04-02,IND,CHA,41.62,4,6,23,IND,CHA,steal,2,False,True,steal,steal,88-97,88,97
 0022000740,2021-04-02,IND,CHA,41.68,4,6,19,CHA,CHA,fg_miss,41,True,False,,MISS Wanamaker 1' Running Layup,88-97,88,97
-0022000740,2021-04-02,IND,CHA,41.68,4,6,19,IND,IND,reb,0,False,False,PACERS Rebound,,88-97,88,97
 0022000740,2021-04-02,IND,CHA,41.68,4,6,19,CHA,IND,block,41,True,False,block,block,88-97,88,97
+0022000740,2021-04-02,IND,CHA,41.68,4,6,19,IND,IND,reb,0,False,False,PACERS Rebound,,88-97,88,97
 0022000740,2021-04-02,IND,CHA,41.85,4,6,9,IND,IND,fg3_miss,79,False,False,MISS LeVert 25' 3PT Pullup Jump Shot,,88-97,88,97
 0022000740,2021-04-02,IND,CHA,41.9,4,6,6,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:1 Def:7),88-97,88,97
 0022000740,2021-04-02,IND,CHA,42.03,4,5,58,CHA,CHA,fg3_miss,1,False,False,,MISS Bridges 3PT Jump Shot,88-97,88,97

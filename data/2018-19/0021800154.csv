@@ -110,10 +110,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800154,2018-11-07,ORL,DET,11.98,1,0,1,,ORL,jump_ball,0,False,False,Jump Ball Grant vs. Smith: Tip to Galloway,,31-23,31,23
 0021800154,2018-11-07,ORL,DET,11.98,1,0,1,ORL,ORL,tov,2,False,True,Grant Lost Ball Turnover (P1.T4),,31-23,31,23
 0021800154,2018-11-07,ORL,DET,11.98,1,0,1,ORL,DET,steal,2,False,True,steal,steal,31-23,31,23
-0021800154,2018-11-07,ORL,DET,12.0,1,0,0,DET,ORL,violation,5,False,False,Kicked Ball,,31-23,31,23
 0021800154,2018-11-07,ORL,DET,12.0,1,0,0,DET,DET,fg3_make,1,False,False,,Drummond 29' 3PT Jump Shot (13 PTS) (Johnson 1 AST),31-26,31,26
 0021800154,2018-11-07,ORL,DET,12.0,1,0,0,DET,,period_end,0,False,False,,,31-26,31,26
 0021800154,2018-11-07,ORL,DET,12.0,2,12,0,DET,,period_start,0,False,False,,,31-26,31,26
+0021800154,2018-11-07,ORL,DET,12.0,1,0,0,DET,ORL,violation,5,False,False,Kicked Ball,,31-23,31,23
 0021800154,2018-11-07,ORL,DET,12.28,2,11,43,DET,DET,tov,45,False,False,,Pachulia Out of Bounds - Bad Pass Turnover Turnover (P1.T8),31-26,31,26
 0021800154,2018-11-07,ORL,DET,12.5,2,11,30,ORL,ORL,fg_miss,79,False,False,MISS Simmons 19' Pullup Jump Shot,,31-26,31,26
 0021800154,2018-11-07,ORL,DET,12.55,2,11,27,DET,DET,reb,0,False,False,,Galloway REBOUND (Off:0 Def:1),31-26,31,26
@@ -166,8 +166,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800154,2018-11-07,ORL,DET,17.9,2,6,6,ORL,ORL,fg_miss,5,False,False,MISS Vucevic 6' Layup,,39-42,39,42
 0021800154,2018-11-07,ORL,DET,17.97,2,6,2,DET,DET,reb,0,False,False,,Pachulia REBOUND (Off:1 Def:3),39-42,39,42
 0021800154,2018-11-07,ORL,DET,18.02,2,5,59,DET,DET,fg_miss,41,True,False,,MISS Johnson 7' Running Layup,39-42,39,42
-0021800154,2018-11-07,ORL,DET,18.02,2,5,59,ORL,ORL,reb,0,False,False,MAGIC Rebound,,39-42,39,42
 0021800154,2018-11-07,ORL,DET,18.02,2,5,59,DET,ORL,block,41,True,False,block,block,39-42,39,42
+0021800154,2018-11-07,ORL,DET,18.02,2,5,59,ORL,ORL,reb,0,False,False,MAGIC Rebound,,39-42,39,42
 0021800154,2018-11-07,ORL,DET,18.22,2,5,47,ORL,ORL,tov,1,False,True,Fournier Bad Pass Turnover (P2.T6),,39-42,39,42
 0021800154,2018-11-07,ORL,DET,18.22,2,5,47,ORL,DET,steal,1,False,True,steal,steal,39-42,39,42
 0021800154,2018-11-07,ORL,DET,18.27,2,5,44,DET,ORL,foul,2,False,False,Gordon S.FOUL (P2.T3) (R.Mott),,39-42,39,42
@@ -200,8 +200,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800154,2018-11-07,ORL,DET,21.17,2,2,50,ORL,ORL,tov,1,False,True,Ross Bad Pass Turnover (P1.T7),,47-48,47,48
 0021800154,2018-11-07,ORL,DET,21.17,2,2,50,ORL,DET,steal,1,False,True,steal,steal,47-48,47,48
 0021800154,2018-11-07,ORL,DET,21.22,2,2,47,DET,DET,fg_miss,41,True,False,,MISS Robinson III 4' Running Layup,47-48,47,48
-0021800154,2018-11-07,ORL,DET,21.22,2,2,47,DET,DET,reb,0,False,False,,Pistons Rebound,47-48,47,48
 0021800154,2018-11-07,ORL,DET,21.22,2,2,47,DET,ORL,block,41,True,False,block,block,47-48,47,48
+0021800154,2018-11-07,ORL,DET,21.22,2,2,47,DET,DET,reb,0,False,False,,Pistons Rebound,47-48,47,48
 0021800154,2018-11-07,ORL,DET,21.25,2,2,45,DET,ORL,foul,1,False,False,Fournier P.FOUL (P2.PN) (R.Mott),,47-48,47,48
 0021800154,2018-11-07,ORL,DET,21.25,2,2,45,DET,DET,ft_miss,11,False,False,,MISS Jackson Free Throw 1 of 2,47-48,47,48
 0021800154,2018-11-07,ORL,DET,21.25,2,2,45,DET,DET,reb,1,False,False,,Pistons Rebound,47-48,47,48

@@ -43,8 +43,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800050,2018-10-23,NOP,LAC,4.12,1,7,53,LAC,NOP,steal,2,False,True,steal,steal,6-5,6,5
 0021800050,2018-10-23,NOP,LAC,4.18,1,7,49,NOP,NOP,fg_make,43,False,False,Davis 1' Alley Oop Layup (4 PTS) (Holiday 1 AST),,8-5,8,5
 0021800050,2018-10-23,NOP,LAC,4.37,1,7,38,LAC,LAC,fg_miss,78,True,False,,MISS Gortat 13' Floating Jump Shot,8-5,8,5
-0021800050,2018-10-23,NOP,LAC,4.37,1,7,38,LAC,LAC,reb,0,False,False,,Clippers Rebound,8-5,8,5
 0021800050,2018-10-23,NOP,LAC,4.37,1,7,38,LAC,NOP,block,78,True,False,block,block,8-5,8,5
+0021800050,2018-10-23,NOP,LAC,4.37,1,7,38,LAC,LAC,reb,0,False,False,,Clippers Rebound,8-5,8,5
 0021800050,2018-10-23,NOP,LAC,4.5,1,7,30,LAC,LAC,tov,1,False,True,,Beverley Bad Pass Turnover (P1.T2),8-5,8,5
 0021800050,2018-10-23,NOP,LAC,4.5,1,7,30,LAC,NOP,steal,1,False,True,steal,steal,8-5,8,5
 0021800050,2018-10-23,NOP,LAC,4.57,1,7,26,NOP,NOP,tov,45,False,False,Mirotic Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,8-5,8,5
@@ -91,9 +91,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800050,2018-10-23,NOP,LAC,8.95,1,3,3,NOP,NOP,ft_make,10,False,False,Payton Free Throw 1 of 1 (5 PTS),,19-16,19,16
 0021800050,2018-10-23,NOP,LAC,9.18,1,2,49,LAC,LAC,fg_make,5,False,False,,Harris 2' Layup (4 PTS),19-18,19,18
 0021800050,2018-10-23,NOP,LAC,9.3,1,2,42,NOP,NOP,fg_miss,5,True,False,MISS Payton 3' Layup,,19-18,19,18
+0021800050,2018-10-23,NOP,LAC,9.3,1,2,42,NOP,LAC,block,5,True,False,block,block,19-18,19,18
 0021800050,2018-10-23,NOP,LAC,9.3,1,2,42,NOP,NOP,reb,0,False,False,PELICANS Rebound,,19-18,19,18
 0021800050,2018-10-23,NOP,LAC,9.3,1,2,42,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 1 Short 0),,19-18,19,18
-0021800050,2018-10-23,NOP,LAC,9.3,1,2,42,NOP,LAC,block,5,True,False,block,block,19-18,19,18
 0021800050,2018-10-23,NOP,LAC,9.38,1,2,37,NOP,NOP,fg3_make,1,False,False,Randle 25' 3PT Jump Shot (5 PTS) (S. Hill 1 AST),,22-18,22,18
 0021800050,2018-10-23,NOP,LAC,9.63,1,2,22,LAC,LAC,fg_make,79,False,False,,Harris 17' Pullup Jump Shot (6 PTS),22-20,22,20
 0021800050,2018-10-23,NOP,LAC,9.95,1,2,3,NOP,NOP,fg_miss,79,False,False,MISS Randle 12' Pullup Jump Shot,,22-20,22,20
@@ -198,8 +198,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800050,2018-10-23,NOP,LAC,18.9,2,5,6,NOP,NOP,ft_make,12,False,False,Payton Free Throw 2 of 2 (6 PTS),,45-49,45,49
 0021800050,2018-10-23,NOP,LAC,19.03,2,4,58,LAC,NOP,foul,1,False,False,Payton P.FOUL (P1.T4) (R.Mott),,45-49,45,49
 0021800050,2018-10-23,NOP,LAC,19.28,2,4,43,LAC,LAC,fg_miss,5,True,False,,MISS Beverley 4' Layup,45-49,45,49
-0021800050,2018-10-23,NOP,LAC,19.28,2,4,43,LAC,LAC,reb,0,False,False,,Clippers Rebound,45-49,45,49
 0021800050,2018-10-23,NOP,LAC,19.28,2,4,43,LAC,NOP,block,5,True,False,block,block,45-49,45,49
+0021800050,2018-10-23,NOP,LAC,19.28,2,4,43,LAC,LAC,reb,0,False,False,,Clippers Rebound,45-49,45,49
 0021800050,2018-10-23,NOP,LAC,19.3,2,4,42,LAC,LAC,fg_miss,98,True,False,,MISS Bradley 2' Cutting Layup Shot,45-49,45,49
 0021800050,2018-10-23,NOP,LAC,19.3,2,4,42,LAC,NOP,block,98,True,False,block,block,45-49,45,49
 0021800050,2018-10-23,NOP,LAC,19.32,2,4,41,LAC,LAC,reb,0,False,False,,Clippers Rebound,45-49,45,49
@@ -386,8 +386,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800050,2018-10-23,NOP,LAC,37.33,4,10,40,NOP,NOP,fg_miss,1,False,False,MISS Holiday 14' Jump Shot,,93-84,93,84
 0021800050,2018-10-23,NOP,LAC,37.38,4,10,37,NOP,NOP,reb,0,False,False,Mirotic REBOUND (Off:1 Def:10),,93-84,93,84
 0021800050,2018-10-23,NOP,LAC,37.47,4,10,32,NOP,NOP,tov,1,False,True,Holiday Bad Pass Turnover (P3.T7),,93-84,93,84
-0021800050,2018-10-23,NOP,LAC,37.47,4,10,32,LAC,NOP,foul,1,False,False,Randle P.FOUL (P5.T1) (S.Wall),,93-84,93,84
 0021800050,2018-10-23,NOP,LAC,37.47,4,10,32,NOP,LAC,steal,1,False,True,steal,steal,93-84,93,84
+0021800050,2018-10-23,NOP,LAC,37.47,4,10,32,LAC,NOP,foul,1,False,False,Randle P.FOUL (P5.T1) (S.Wall),,93-84,93,84
 0021800050,2018-10-23,NOP,LAC,37.72,4,10,17,LAC,NOP,foul,1,False,False,Holiday P.FOUL (P4.T2) (B.Barnaky),,93-84,93,84
 0021800050,2018-10-23,NOP,LAC,37.82,4,10,11,LAC,LAC,tov,1,False,True,,Harrell Bad Pass Turnover (P2.T13),93-84,93,84
 0021800050,2018-10-23,NOP,LAC,37.82,4,10,11,LAC,NOP,steal,1,False,True,steal,steal,93-84,93,84

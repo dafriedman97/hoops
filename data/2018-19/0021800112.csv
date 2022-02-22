@@ -34,8 +34,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800112,2018-11-01,CLE,DEN,3.85,1,8,9,CLE,CLE,fg3_make,1,False,False,Osman 25' 3PT Jump Shot (3 PTS) (Hood 1 AST),,12-4,12,4
 0021800112,2018-11-01,CLE,DEN,3.85,1,8,9,DEN,DEN,timeout,1,False,False,,Nuggets Timeout: Regular (Reg.1 Short 0),12-4,12,4
 0021800112,2018-11-01,CLE,DEN,4.12,1,7,53,DEN,DEN,tov,1,False,True,,Jokic Bad Pass Turnover (P1.T3),12-4,12,4
-0021800112,2018-11-01,CLE,DEN,4.12,1,7,53,CLE,DEN,foul,1,False,False,,Millsap P.FOUL (P1.T1) (P.Fraher),12-4,12,4
 0021800112,2018-11-01,CLE,DEN,4.12,1,7,53,DEN,CLE,steal,1,False,True,steal,steal,12-4,12,4
+0021800112,2018-11-01,CLE,DEN,4.12,1,7,53,CLE,DEN,foul,1,False,False,,Millsap P.FOUL (P1.T1) (P.Fraher),12-4,12,4
 0021800112,2018-11-01,CLE,DEN,4.4,1,7,36,CLE,CLE,fg_miss,79,False,False,MISS Hood 11' Pullup Jump Shot,,12-4,12,4
 0021800112,2018-11-01,CLE,DEN,4.43,1,7,34,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:1 Def:1),12-4,12,4
 0021800112,2018-11-01,CLE,DEN,4.77,1,7,14,DEN,DEN,fg3_make,80,False,False,,Millsap 26' 3PT Step Back Jump Shot (3 PTS) (Murray 1 AST),12-7,12,7
@@ -118,9 +118,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800112,2018-11-01,CLE,DEN,15.23,2,8,46,DEN,DEN,reb,0,False,False,,Nuggets Rebound,31-26,31,26
 0021800112,2018-11-01,CLE,DEN,15.3,2,8,42,DEN,CLE,foul,1,False,False,Hood P.FOUL (P1.T3) (P.Fraher),,31-26,31,26
 0021800112,2018-11-01,CLE,DEN,15.48,2,8,31,DEN,DEN,fg_miss,1,True,False,,MISS Plumlee 2' Jump Shot,31-26,31,26
+0021800112,2018-11-01,CLE,DEN,15.48,2,8,31,DEN,CLE,block,1,True,False,block,block,31-26,31,26
 0021800112,2018-11-01,CLE,DEN,15.48,2,8,31,DEN,DEN,reb,0,False,False,,Nuggets Rebound,31-26,31,26
 0021800112,2018-11-01,CLE,DEN,15.48,2,8,31,DEN,DEN,fg3_miss,1,True,False,,MISS Hernangomez 38' 3PT Jump Shot,31-26,31,26
-0021800112,2018-11-01,CLE,DEN,15.48,2,8,31,DEN,CLE,block,1,True,False,block,block,31-26,31,26
 0021800112,2018-11-01,CLE,DEN,15.48,2,8,31,DEN,CLE,block,1,True,False,block,block,31-26,31,26
 0021800112,2018-11-01,CLE,DEN,15.52,2,8,29,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,31-26,31,26
 0021800112,2018-11-01,CLE,DEN,15.52,2,8,29,CLE,DEN,foul,3,False,False,,Hernangomez L.B.FOUL (P1.T2) (J.Goble),31-26,31,26
@@ -158,8 +158,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800112,2018-11-01,CLE,DEN,19.48,2,4,31,CLE,CLE,fg_miss,57,False,False,MISS G. Hill 3' Driving Hook Shot,,38-38,38,38
 0021800112,2018-11-01,CLE,DEN,19.5,2,4,30,CLE,CLE,reb,0,False,False,G. Hill REBOUND (Off:1 Def:0),,38-38,38,38
 0021800112,2018-11-01,CLE,DEN,19.68,2,4,19,CLE,CLE,fg_miss,1,True,False,MISS G. Hill 21' Jump Shot,,38-38,38,38
-0021800112,2018-11-01,CLE,DEN,19.68,2,4,19,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,38-38,38,38
 0021800112,2018-11-01,CLE,DEN,19.68,2,4,19,CLE,DEN,block,1,True,False,block,block,38-38,38,38
+0021800112,2018-11-01,CLE,DEN,19.68,2,4,19,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,38-38,38,38
 0021800112,2018-11-01,CLE,DEN,19.75,2,4,15,CLE,CLE,fg_miss,6,True,False,MISS Osman 6' Driving Layup,,38-38,38,38
 0021800112,2018-11-01,CLE,DEN,19.75,2,4,15,CLE,DEN,block,6,True,False,block,block,38-38,38,38
 0021800112,2018-11-01,CLE,DEN,19.78,2,4,13,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,38-38,38,38
@@ -387,8 +387,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800112,2018-11-01,CLE,DEN,45.37,4,2,38,DEN,DEN,fg_miss,86,False,False,,MISS Lyles 12' Turnaround Fadeaway Shot,83-104,83,104
 0021800112,2018-11-01,CLE,DEN,45.4,4,2,36,CLE,CLE,reb,0,False,False,Nwaba REBOUND (Off:0 Def:1),,83-104,83,104
 0021800112,2018-11-01,CLE,DEN,45.47,4,2,32,CLE,CLE,fg_miss,75,True,False,MISS Dekker 2' Driving Finger Roll Layup,,83-104,83,104
-0021800112,2018-11-01,CLE,DEN,45.47,4,2,32,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,83-104,83,104
 0021800112,2018-11-01,CLE,DEN,45.47,4,2,32,CLE,DEN,block,75,True,False,block,block,83-104,83,104
+0021800112,2018-11-01,CLE,DEN,45.47,4,2,32,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,83-104,83,104
 0021800112,2018-11-01,CLE,DEN,45.5,4,2,30,CLE,CLE,fg_make,98,False,False,Sexton 1' Cutting Layup Shot (8 PTS) (Nwaba 1 AST),,85-104,85,104
 0021800112,2018-11-01,CLE,DEN,45.5,4,2,30,CLE,DEN,foul,2,False,False,,Akoon-Purcell S.FOUL (P1.PN) (J.Goble),85-104,85,104
 0021800112,2018-11-01,CLE,DEN,45.5,4,2,30,DEN,DEN,timeout,1,False,False,,Nuggets Timeout: Regular (Reg.4 Short 0),85-104,85,104
@@ -416,6 +416,6 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800112,2018-11-01,CLE,DEN,47.72,4,0,17,CLE,CLE,fg_miss,5,False,False,MISS Zizic 2' Layup,,91-110,91,110
 0021800112,2018-11-01,CLE,DEN,47.75,4,0,15,CLE,CLE,reb,0,False,False,Zizic REBOUND (Off:1 Def:1),,91-110,91,110
 0021800112,2018-11-01,CLE,DEN,47.77,4,0,14,CLE,CLE,fg_miss,5,True,False,MISS Zizic 1' Layup,,91-110,91,110
-0021800112,2018-11-01,CLE,DEN,47.77,4,0,14,DEN,DEN,reb,0,False,False,,Morris REBOUND (Off:1 Def:2),91-110,91,110
 0021800112,2018-11-01,CLE,DEN,47.77,4,0,14,CLE,DEN,block,5,True,False,block,block,91-110,91,110
+0021800112,2018-11-01,CLE,DEN,47.77,4,0,14,DEN,DEN,reb,0,False,False,,Morris REBOUND (Off:1 Def:2),91-110,91,110
 0021800112,2018-11-01,CLE,DEN,48.0,4,0,0,DEN,,period_end,0,False,False,,,91-110,91,110

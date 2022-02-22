@@ -55,12 +55,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900071,2019-11-01,ORL,MIL,6.23,1,5,46,ORL,ORL,fg3_miss,79,False,False,MISS Fournier 26' 3PT Pullup Jump Shot,,22-12,22,12
 0021900071,2019-11-01,ORL,MIL,6.27,1,5,44,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:0 Def:2),22-12,22,12
 0021900071,2019-11-01,ORL,MIL,6.33,1,5,40,MIL,ORL,foul,2,False,False,Gordon S.FOUL (P2.T4) (M.Smith),,22-12,22,12
-0021900071,2019-11-01,ORL,MIL,6.33,1,5,40,MIL,MIL,ft_miss,11,False,False,,MISS Antetokounmpo Free Throw 1 of 2,22-12,22,12
-0021900071,2019-11-01,ORL,MIL,6.33,1,5,40,MIL,MIL,reb,1,False,False,,Bucks Rebound,22-12,22,12
-0021900071,2019-11-01,ORL,MIL,6.33,1,5,40,MIL,MIL,ft_make,12,False,False,,Antetokounmpo Free Throw 2 of 2 (3 PTS),22-13,22,13
 0021900071,2019-11-01,ORL,MIL,6.33,1,5,40,MIL,ORL,foul,11,False,False,Gordon T.FOUL (P2.T4) (M.Smith),,22-13,22,13
 0021900071,2019-11-01,ORL,MIL,6.33,1,5,40,MIL,MIL,ft_miss,16,False,False,,MISS Matthews Free Throw Technical,22-13,22,13
 0021900071,2019-11-01,ORL,MIL,6.33,1,5,40,ORL,ORL,reb,1,False,False,MAGIC Rebound,,22-13,22,13
+0021900071,2019-11-01,ORL,MIL,6.33,1,5,40,MIL,MIL,ft_miss,11,False,False,,MISS Antetokounmpo Free Throw 1 of 2,22-12,22,12
+0021900071,2019-11-01,ORL,MIL,6.33,1,5,40,MIL,MIL,reb,1,False,False,,Bucks Rebound,22-12,22,12
+0021900071,2019-11-01,ORL,MIL,6.33,1,5,40,MIL,MIL,ft_make,12,False,False,,Antetokounmpo Free Throw 2 of 2 (3 PTS),22-13,22,13
 0021900071,2019-11-01,ORL,MIL,6.57,1,5,26,ORL,ORL,fg_miss,66,False,False,MISS Isaac 14' Jump Bank Shot,,22-13,22,13
 0021900071,2019-11-01,ORL,MIL,6.6,1,5,24,MIL,MIL,reb,0,False,False,,Bledsoe REBOUND (Off:0 Def:3),22-13,22,13
 0021900071,2019-11-01,ORL,MIL,6.72,1,5,17,MIL,MIL,fg3_make,1,False,False,,Lopez 25' 3PT Jump Shot (3 PTS) (Bledsoe 2 AST),22-16,22,16
@@ -70,8 +70,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900071,2019-11-01,ORL,MIL,7.07,1,4,56,ORL,MIL,foul,6,False,False,,Connaughton AWAY.FROM.PLAY.FOUL (P1.PN) (M.Smith),22-16,22,16
 0021900071,2019-11-01,ORL,MIL,7.07,1,4,56,ORL,ORL,ft_make,10,False,False,Ross Free Throw 1 of 1 (1 PTS),,23-16,23,16
 0021900071,2019-11-01,ORL,MIL,7.23,1,4,46,ORL,ORL,fg_miss,79,True,False,MISS Ross 22' Pullup Jump Shot,,23-16,23,16
-0021900071,2019-11-01,ORL,MIL,7.23,1,4,46,ORL,ORL,reb,0,False,False,Ross REBOUND (Off:1 Def:0),,23-16,23,16
 0021900071,2019-11-01,ORL,MIL,7.23,1,4,46,ORL,MIL,block,79,True,False,block,block,23-16,23,16
+0021900071,2019-11-01,ORL,MIL,7.23,1,4,46,ORL,ORL,reb,0,False,False,Ross REBOUND (Off:1 Def:0),,23-16,23,16
 0021900071,2019-11-01,ORL,MIL,7.32,1,4,41,ORL,ORL,fg_miss,1,False,False,MISS Ross 17' Jump Shot,,23-16,23,16
 0021900071,2019-11-01,ORL,MIL,7.35,1,4,39,MIL,MIL,reb,0,False,False,,Bledsoe REBOUND (Off:0 Def:4),23-16,23,16
 0021900071,2019-11-01,ORL,MIL,7.4,1,4,36,MIL,MIL,fg3_make,1,False,False,,Bledsoe 27' 3PT Jump Shot (8 PTS),23-19,23,19
@@ -215,10 +215,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900071,2019-11-01,ORL,MIL,23.58,2,0,25,ORL,ORL,reb,0,False,False,Isaac REBOUND (Off:1 Def:4),,39-62,39,62
 0021900071,2019-11-01,ORL,MIL,23.95,2,0,3,ORL,ORL,fg_make,102,False,False,Ross 9' Driving Floating Bank Jump Shot (8 PTS),,41-62,41,62
 0021900071,2019-11-01,ORL,MIL,24.0,2,0,0,MIL,MIL,fg_miss,41,True,False,,MISS Antetokounmpo 4' Running Layup,41-62,41,62
+0021900071,2019-11-01,ORL,MIL,24.0,2,0,0,MIL,ORL,block,41,True,False,block,block,41-62,41,62
 0021900071,2019-11-01,ORL,MIL,24.0,2,0,0,MIL,MIL,reb,0,False,False,,Bucks Rebound,41-62,41,62
 0021900071,2019-11-01,ORL,MIL,24.0,2,0,0,MIL,,period_end,0,False,False,,,41-62,41,62
 0021900071,2019-11-01,ORL,MIL,24.0,3,12,0,MIL,,period_start,0,False,False,,,41-62,41,62
-0021900071,2019-11-01,ORL,MIL,24.0,2,0,0,MIL,ORL,block,41,True,False,block,block,41-62,41,62
 0021900071,2019-11-01,ORL,MIL,24.35,3,11,39,ORL,ORL,fg3_miss,1,False,False,MISS Isaac 3PT Jump Shot,,41-62,41,62
 0021900071,2019-11-01,ORL,MIL,24.37,3,11,38,MIL,MIL,reb,0,False,False,,Bucks Rebound,41-62,41,62
 0021900071,2019-11-01,ORL,MIL,24.67,3,11,20,MIL,MIL,fg3_miss,79,False,False,,MISS Matthews 26' 3PT Pullup Jump Shot,41-62,41,62

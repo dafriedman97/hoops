@@ -79,9 +79,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900486,2019-12-29,TOR,OKC,9.55,1,2,27,OKC,OKC,fg3_miss,1,False,False,,MISS Dort 25' 3PT Jump Shot,15-14,15,14
 0021900486,2019-12-29,TOR,OKC,9.62,1,2,23,TOR,TOR,reb,0,False,False,Hollis-Jefferson REBOUND (Off:1 Def:1),,15-14,15,14
 0021900486,2019-12-29,TOR,OKC,9.65,1,2,21,TOR,TOR,fg_miss,6,True,False,MISS VanVleet 3' Driving Layup,,15-14,15,14
+0021900486,2019-12-29,TOR,OKC,9.65,1,2,21,TOR,OKC,block,6,True,False,block,block,15-14,15,14
 0021900486,2019-12-29,TOR,OKC,9.65,1,2,21,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,15-14,15,14
 0021900486,2019-12-29,TOR,OKC,9.65,1,2,21,TOR,TOR,timeout,1,False,False,RAPTORS Timeout: Regular (Full 1 Short 0),,15-14,15,14
-0021900486,2019-12-29,TOR,OKC,9.65,1,2,21,TOR,OKC,block,6,True,False,block,block,15-14,15,14
 0021900486,2019-12-29,TOR,OKC,9.77,1,2,14,TOR,OKC,foul,2,False,False,,Burton S.FOUL (P2.T3) (B.Kennedy),15-14,15,14
 0021900486,2019-12-29,TOR,OKC,9.77,1,2,14,TOR,TOR,ft_make,11,False,False,Hollis-Jefferson Free Throw 1 of 2 (1 PTS),,16-14,16,14
 0021900486,2019-12-29,TOR,OKC,9.77,1,2,14,TOR,TOR,ft_make,12,False,False,Hollis-Jefferson Free Throw 2 of 2 (2 PTS),,17-14,17,14
@@ -133,8 +133,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900486,2019-12-29,TOR,OKC,15.68,2,8,19,TOR,TOR,tov,1,False,False,Lowry Bad Pass Turnover (P1.T7),,31-27,31,27
 0021900486,2019-12-29,TOR,OKC,15.68,2,8,19,OKC,TOR,foul,3,False,False,Boucher L.B.FOUL (P1.T2) (T.Brown),,31-27,31,27
 0021900486,2019-12-29,TOR,OKC,15.95,2,8,3,OKC,OKC,fg_miss,6,True,False,,MISS Burton 5' Driving Layup,31-27,31,27
-0021900486,2019-12-29,TOR,OKC,15.95,2,8,3,OKC,OKC,reb,0,False,False,,Thunder Rebound,31-27,31,27
 0021900486,2019-12-29,TOR,OKC,15.95,2,8,3,OKC,TOR,block,6,True,False,block,block,31-27,31,27
+0021900486,2019-12-29,TOR,OKC,15.95,2,8,3,OKC,OKC,reb,0,False,False,,Thunder Rebound,31-27,31,27
 0021900486,2019-12-29,TOR,OKC,16.0,2,8,0,OKC,OKC,fg_miss,79,False,False,,MISS Gilgeous-Alexander 14' Pullup Jump Shot,31-27,31,27
 0021900486,2019-12-29,TOR,OKC,16.03,2,7,58,TOR,TOR,reb,0,False,False,Brissett REBOUND (Off:0 Def:1),,31-27,31,27
 0021900486,2019-12-29,TOR,OKC,16.3,2,7,42,TOR,TOR,fg_make,75,False,False,Lowry 5' Driving Finger Roll Layup (13 PTS) (VanVleet 3 AST),,33-27,33,27

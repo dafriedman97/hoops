@@ -23,8 +23,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000347,2021-02-05,MIA,WAS,2.75,1,9,15,MIA,MIA,ft_make,11,False,False,Adebayo Free Throw 1 of 2 (1 PTS),,8-5,8,5
 0022000347,2021-02-05,MIA,WAS,2.75,1,9,15,MIA,MIA,ft_make,12,False,False,Adebayo Free Throw 2 of 2 (2 PTS),,9-5,9,5
 0022000347,2021-02-05,MIA,WAS,2.98,1,9,1,WAS,WAS,fg_miss,6,True,False,,MISS Beal 2' Driving Layup,9-5,9,5
-0022000347,2021-02-05,MIA,WAS,2.98,1,9,1,WAS,WAS,reb,0,False,False,,Wizards Rebound,9-5,9,5
 0022000347,2021-02-05,MIA,WAS,2.98,1,9,1,WAS,MIA,block,6,True,False,block,block,9-5,9,5
+0022000347,2021-02-05,MIA,WAS,2.98,1,9,1,WAS,WAS,reb,0,False,False,,Wizards Rebound,9-5,9,5
 0022000347,2021-02-05,MIA,WAS,3.08,1,8,55,WAS,MIA,foul,2,False,False,Adebayo S.FOUL (P1.T1) (A.Moyer-Gleich),,9-5,9,5
 0022000347,2021-02-05,MIA,WAS,3.08,1,8,55,WAS,WAS,ft_make,11,False,False,,Beal Free Throw 1 of 2 (1 PTS),9-6,9,6
 0022000347,2021-02-05,MIA,WAS,3.08,1,8,55,WAS,WAS,ft_make,12,False,False,,Beal Free Throw 2 of 2 (2 PTS),9-7,9,7
@@ -81,8 +81,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000347,2021-02-05,MIA,WAS,8.68,1,3,19,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.1 Short 0),27-18,27,18
 0022000347,2021-02-05,MIA,WAS,8.68,1,3,19,WAS,MIA,ft_make,12,False,False,Adebayo Free Throw 2 of 2 (11 PTS),,28-18,28,18
 0022000347,2021-02-05,MIA,WAS,9.03,1,2,58,WAS,WAS,fg_miss,1,True,False,,MISS Beal 11' Jump Shot,28-18,28,18
-0022000347,2021-02-05,MIA,WAS,9.03,1,2,58,WAS,WAS,reb,0,False,False,,Wizards Rebound,28-18,28,18
 0022000347,2021-02-05,MIA,WAS,9.03,1,2,58,WAS,MIA,block,1,True,False,block,block,28-18,28,18
+0022000347,2021-02-05,MIA,WAS,9.03,1,2,58,WAS,WAS,reb,0,False,False,,Wizards Rebound,28-18,28,18
 0022000347,2021-02-05,MIA,WAS,9.08,1,2,55,WAS,WAS,tov,11,False,False,,Wizards Turnover: Shot Clock (T#1),28-18,28,18
 0022000347,2021-02-05,MIA,WAS,9.3,1,2,42,MIA,MIA,fg_miss,1,True,False,MISS Adebayo 3' Jump Shot,,28-18,28,18
 0022000347,2021-02-05,MIA,WAS,9.3,1,2,42,MIA,WAS,block,1,True,False,block,block,28-18,28,18
@@ -145,8 +145,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000347,2021-02-05,MIA,WAS,14.42,2,9,35,MIA,MIA,reb,0,False,False,Iguodala REBOUND (Off:0 Def:2),,44-29,44,29
 0022000347,2021-02-05,MIA,WAS,14.5,2,9,30,MIA,MIA,tov,4,False,False,Robinson Traveling Turnover (P1.T2),,44-29,44,29
 0022000347,2021-02-05,MIA,WAS,14.83,2,9,10,MIA,WAS,foul,4,False,False,,Beal OFF.Foul (P2) (L.Holtkamp),44-29,44,29
-0022000347,2021-02-05,MIA,WAS,14.83,2,9,10,WAS,WAS,tov,37,False,False,,Beal Offensive Foul Turnover (P1.T5),44-29,44,29
 0022000347,2021-02-05,MIA,WAS,14.83,2,9,10,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 2 Short 0),,44-29,44,29
+0022000347,2021-02-05,MIA,WAS,14.83,2,9,10,WAS,WAS,tov,37,False,False,,Beal Offensive Foul Turnover (P1.T5),44-29,44,29
 0022000347,2021-02-05,MIA,WAS,15.12,2,8,53,MIA,MIA,fg_miss,6,True,False,MISS Achiuwa 3' Driving Layup,,44-29,44,29
 0022000347,2021-02-05,MIA,WAS,15.12,2,8,53,MIA,WAS,block,6,True,False,block,block,44-29,44,29
 0022000347,2021-02-05,MIA,WAS,15.2,2,8,48,WAS,WAS,reb,0,False,False,,Avdija REBOUND (Off:0 Def:4),44-29,44,29
@@ -166,8 +166,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000347,2021-02-05,MIA,WAS,17.33,2,6,40,WAS,WAS,tov,2,False,True,,Hachimura Lost Ball Turnover (P1.T6),50-34,50,34
 0022000347,2021-02-05,MIA,WAS,17.33,2,6,40,WAS,MIA,steal,2,False,True,steal,steal,50-34,50,34
 0022000347,2021-02-05,MIA,WAS,17.4,2,6,36,MIA,MIA,fg_miss,41,True,False,MISS Nunn 3' Running Layup,,50-34,50,34
-0022000347,2021-02-05,MIA,WAS,17.4,2,6,36,MIA,MIA,reb,0,False,False,HEAT Rebound,,50-34,50,34
 0022000347,2021-02-05,MIA,WAS,17.4,2,6,36,MIA,WAS,block,41,True,False,block,block,50-34,50,34
+0022000347,2021-02-05,MIA,WAS,17.4,2,6,36,MIA,MIA,reb,0,False,False,HEAT Rebound,,50-34,50,34
 0022000347,2021-02-05,MIA,WAS,17.47,2,6,32,MIA,MIA,fg_make,5,False,False,Nunn 3' Layup (9 PTS) (Butler 3 AST),,52-34,52,34
 0022000347,2021-02-05,MIA,WAS,17.48,2,6,31,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.3 Short 0),52-34,52,34
 0022000347,2021-02-05,MIA,WAS,17.78,2,6,13,WAS,WAS,fg3_miss,1,False,False,,MISS Beal 27' 3PT Jump Shot,52-34,52,34
@@ -218,9 +218,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000347,2021-02-05,MIA,WAS,22.65,2,1,21,WAS,MIA,foul,4,False,False,Robinson OFF.Foul (P3) (B.Forte),,66-41,66,41
 0022000347,2021-02-05,MIA,WAS,22.65,2,1,21,MIA,MIA,tov,37,False,False,Robinson Offensive Foul Turnover (P2.T5),,66-41,66,41
 0022000347,2021-02-05,MIA,WAS,22.83,2,1,10,WAS,WAS,fg_miss,102,False,False,,MISS Beal 2' Driving Floating Bank Jump Shot,66-41,66,41
+0022000347,2021-02-05,MIA,WAS,22.92,2,1,5,WAS,WAS,reb,0,False,False,,Beal REBOUND (Off:1 Def:2),66-41,66,41
 0022000347,2021-02-05,MIA,WAS,22.92,2,1,5,WAS,WAS,fg_miss,97,False,False,,MISS Beal 4' Tip Layup Shot,66-41,66,41
 0022000347,2021-02-05,MIA,WAS,22.92,2,1,5,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:1 Def:7),,66-41,66,41
-0022000347,2021-02-05,MIA,WAS,22.92,2,1,5,WAS,WAS,reb,0,False,False,,Beal REBOUND (Off:1 Def:2),66-41,66,41
 0022000347,2021-02-05,MIA,WAS,23.0,2,1,0,MIA,MIA,fg_make,108,False,False,Achiuwa 3' Cutting Dunk Shot (2 PTS) (Butler 5 AST),,68-41,68,41
 0022000347,2021-02-05,MIA,WAS,23.12,2,0,53,WAS,WAS,fg_miss,1,False,False,,MISS Westbrook 3' Jump Shot,68-41,68,41
 0022000347,2021-02-05,MIA,WAS,23.12,2,0,53,WAS,WAS,reb,0,False,False,,Lopez REBOUND (Off:1 Def:2),68-41,68,41
@@ -252,8 +252,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000347,2021-02-05,MIA,WAS,25.95,3,10,3,WAS,WAS,tov,2,False,False,,Hachimura Lost Ball Turnover (P2.T11),77-45,77,45
 0022000347,2021-02-05,MIA,WAS,25.95,3,10,3,WAS,WAS,tov,2,False,False,,Hachimura Lost Ball Turnover (P2.T11),77-45,77,45
 0022000347,2021-02-05,MIA,WAS,26.05,3,9,57,MIA,MIA,fg_miss,6,True,False,MISS Dragic 4' Driving Layup,,77-45,77,45
-0022000347,2021-02-05,MIA,WAS,26.05,3,9,57,MIA,MIA,reb,0,False,False,HEAT Rebound,,77-45,77,45
 0022000347,2021-02-05,MIA,WAS,26.05,3,9,57,MIA,WAS,block,6,True,False,block,block,77-45,77,45
+0022000347,2021-02-05,MIA,WAS,26.05,3,9,57,MIA,MIA,reb,0,False,False,HEAT Rebound,,77-45,77,45
 0022000347,2021-02-05,MIA,WAS,26.08,3,9,55,MIA,MIA,fg_miss,1,False,False,MISS Adebayo 16' Jump Shot,,77-45,77,45
 0022000347,2021-02-05,MIA,WAS,26.15,3,9,51,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:1 Def:2),77-45,77,45
 0022000347,2021-02-05,MIA,WAS,26.23,3,9,46,WAS,WAS,fg3_make,1,False,False,,Beal 26' 3PT Jump Shot (7 PTS) (Westbrook 2 AST),77-48,77,48
@@ -270,8 +270,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000347,2021-02-05,MIA,WAS,27.68,3,8,19,WAS,MIA,foul,4,False,False,Dragic OFF.Foul (P2) (A.Moyer-Gleich),,83-53,83,53
 0022000347,2021-02-05,MIA,WAS,27.68,3,8,19,MIA,MIA,tov,37,False,False,Dragic Offensive Foul Turnover (P1.T7),,83-53,83,53
 0022000347,2021-02-05,MIA,WAS,27.92,3,8,5,WAS,WAS,fg_miss,73,True,False,,MISS Hachimura 3' Driving Reverse Layup,83-53,83,53
-0022000347,2021-02-05,MIA,WAS,27.92,3,8,5,WAS,WAS,reb,0,False,False,,Wizards Rebound,83-53,83,53
 0022000347,2021-02-05,MIA,WAS,27.92,3,8,5,WAS,MIA,block,73,True,False,block,block,83-53,83,53
+0022000347,2021-02-05,MIA,WAS,27.92,3,8,5,WAS,WAS,reb,0,False,False,,Wizards Rebound,83-53,83,53
 0022000347,2021-02-05,MIA,WAS,28.12,3,7,53,WAS,WAS,fg_miss,6,False,False,,MISS Westbrook 3' Driving Layup,83-53,83,53
 0022000347,2021-02-05,MIA,WAS,28.18,3,7,49,WAS,WAS,reb,0,False,False,,Lopez REBOUND (Off:2 Def:3),83-53,83,53
 0022000347,2021-02-05,MIA,WAS,28.18,3,7,49,WAS,WAS,fg_make,97,False,False,,Lopez Tip Layup Shot (4 PTS),83-55,83,55
@@ -287,8 +287,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000347,2021-02-05,MIA,WAS,29.38,3,6,37,MIA,MIA,fg_miss,1,False,False,MISS Dragic 9' Jump Shot,,85-57,85,57
 0022000347,2021-02-05,MIA,WAS,29.45,3,6,33,WAS,WAS,reb,0,False,False,,Avdija REBOUND (Off:0 Def:6),85-57,85,57
 0022000347,2021-02-05,MIA,WAS,29.6,3,6,24,WAS,WAS,fg_miss,6,False,False,,MISS Westbrook 2' Driving Layup,85-57,85,57
-0022000347,2021-02-05,MIA,WAS,29.68,3,6,19,WAS,WAS,fg_miss,97,False,False,,MISS Lopez Tip Layup Shot,85-57,85,57
 0022000347,2021-02-05,MIA,WAS,29.68,3,6,19,WAS,WAS,reb,0,False,False,,Lopez REBOUND (Off:4 Def:3),85-57,85,57
+0022000347,2021-02-05,MIA,WAS,29.68,3,6,19,WAS,WAS,fg_miss,97,False,False,,MISS Lopez Tip Layup Shot,85-57,85,57
 0022000347,2021-02-05,MIA,WAS,29.7,3,6,18,MIA,MIA,reb,0,False,False,Olynyk REBOUND (Off:0 Def:5),,85-57,85,57
 0022000347,2021-02-05,MIA,WAS,29.82,3,6,11,MIA,MIA,fg3_make,1,False,False,Olynyk 26' 3PT Jump Shot (12 PTS) (Butler 8 AST),,88-57,88,57
 0022000347,2021-02-05,MIA,WAS,30.18,3,5,49,WAS,WAS,fg_miss,79,False,False,,MISS Avdija 12' Pullup Jump Shot,88-57,88,57
@@ -328,8 +328,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000347,2021-02-05,MIA,WAS,33.77,3,2,14,MIA,MIA,ft_make,11,False,False,Herro Free Throw 1 of 2 (14 PTS),,99-64,99,64
 0022000347,2021-02-05,MIA,WAS,33.77,3,2,14,MIA,MIA,ft_make,12,False,False,Herro Free Throw 2 of 2 (15 PTS),,100-64,100,64
 0022000347,2021-02-05,MIA,WAS,33.93,3,2,4,WAS,WAS,fg_miss,5,True,False,,MISS Len 3' Layup,100-64,100,64
-0022000347,2021-02-05,MIA,WAS,33.93,3,2,4,WAS,WAS,reb,0,False,False,,Wizards Rebound,100-64,100,64
 0022000347,2021-02-05,MIA,WAS,33.93,3,2,4,WAS,MIA,block,5,True,False,block,block,100-64,100,64
+0022000347,2021-02-05,MIA,WAS,33.93,3,2,4,WAS,WAS,reb,0,False,False,,Wizards Rebound,100-64,100,64
 0022000347,2021-02-05,MIA,WAS,34.05,3,1,57,WAS,WAS,fg_make,7,False,False,,Len 2' Dunk (5 PTS) (Smith 2 AST),100-66,100,66
 0022000347,2021-02-05,MIA,WAS,34.43,3,1,34,MIA,MIA,fg3_miss,1,False,False,MISS Nunn 3PT Jump Shot,,100-66,100,66
 0022000347,2021-02-05,MIA,WAS,34.48,3,1,31,WAS,WAS,reb,0,False,False,,Robinson REBOUND (Off:0 Def:1),100-66,100,66
@@ -432,8 +432,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000347,2021-02-05,MIA,WAS,45.28,4,2,43,WAS,WAS,fg_miss,101,False,False,,MISS Robinson 11' Driving Floating Jump Shot,118-95,118,95
 0022000347,2021-02-05,MIA,WAS,45.33,4,2,40,WAS,WAS,reb,0,False,False,,Robinson REBOUND (Off:2 Def:2),118-95,118,95
 0022000347,2021-02-05,MIA,WAS,45.42,4,2,35,WAS,WAS,fg_miss,79,True,False,,MISS Robinson 13' Pullup Jump Shot,118-95,118,95
-0022000347,2021-02-05,MIA,WAS,45.42,4,2,35,MIA,MIA,reb,0,False,False,Iguodala REBOUND (Off:0 Def:9),,118-95,118,95
 0022000347,2021-02-05,MIA,WAS,45.42,4,2,35,WAS,MIA,block,79,True,False,block,block,118-95,118,95
+0022000347,2021-02-05,MIA,WAS,45.42,4,2,35,MIA,MIA,reb,0,False,False,Iguodala REBOUND (Off:0 Def:9),,118-95,118,95
 0022000347,2021-02-05,MIA,WAS,45.58,4,2,25,MIA,MIA,fg_make,6,False,False,Nunn 2' Driving Layup (23 PTS) (Iguodala 3 AST),,120-95,120,95
 0022000347,2021-02-05,MIA,WAS,45.67,4,2,20,WAS,WAS,fg3_miss,1,False,False,,MISS Len 27' 3PT Jump Shot,120-95,120,95
 0022000347,2021-02-05,MIA,WAS,45.73,4,2,16,MIA,MIA,reb,0,False,False,Nunn REBOUND (Off:2 Def:4),,120-95,120,95

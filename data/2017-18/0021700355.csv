@@ -192,16 +192,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700355,2017-12-06,ORL,ATL,22.67,2,1,20,ORL,ORL,tov,1,False,True,Payton Bad Pass Turnover (P3.T8),,41-48,41,48
 0021700355,2017-12-06,ORL,ATL,22.67,2,1,20,ORL,ATL,steal,1,False,True,steal,steal,41-48,41,48
 0021700355,2017-12-06,ORL,ATL,23.03,2,0,58,ATL,ATL,fg3_miss,1,False,False,,MISS Prince 3PT Jump Shot,41-48,41,48
-0021700355,2017-12-06,ORL,ATL,23.08,2,0,55,ATL,ATL,tov,11,False,False,,Hawks Turnover: Shot Clock (T#7),41-48,41,48
 0021700355,2017-12-06,ORL,ATL,23.08,2,0,55,ATL,ATL,reb,0,False,False,,Hawks Rebound,41-48,41,48
+0021700355,2017-12-06,ORL,ATL,23.08,2,0,55,ATL,ATL,tov,11,False,False,,Hawks Turnover: Shot Clock (T#7),41-48,41,48
 0021700355,2017-12-06,ORL,ATL,23.3,2,0,42,ATL,ORL,foul,26,False,False,Vucevic Offensive Charge Foul (P1.PN) (M.Boland),,41-48,41,48
 0021700355,2017-12-06,ORL,ATL,23.3,2,0,42,ORL,ORL,tov,37,False,False,Vucevic Offensive Foul Turnover (P1.T9),,41-48,41,48
 0021700355,2017-12-06,ORL,ATL,23.47,2,0,32,ATL,ATL,fg_make,6,False,False,,Schroder 4' Driving Layup (10 PTS),41-50,41,50
 0021700355,2017-12-06,ORL,ATL,23.62,2,0,23,ORL,ORL,fg3_make,1,False,False,Simmons 26' 3PT Jump Shot (7 PTS) (Payton 4 AST),,44-50,44,50
 0021700355,2017-12-06,ORL,ATL,23.97,2,0,2,ATL,ATL,fg_miss,73,True,False,,MISS Schroder 5' Driving Reverse Layup,44-50,44,50
+0021700355,2017-12-06,ORL,ATL,23.97,2,0,2,ATL,ORL,block,73,True,False,block,block,44-50,44,50
 0021700355,2017-12-06,ORL,ATL,23.97,2,0,2,ATL,ATL,reb,0,False,False,,Hawks Rebound,44-50,44,50
 0021700355,2017-12-06,ORL,ATL,23.97,2,0,2,ATL,ATL,timeout,1,False,False,,Hawks Timeout: Regular (Reg.2 Short 0),44-50,44,50
-0021700355,2017-12-06,ORL,ATL,23.97,2,0,2,ATL,ORL,block,73,True,False,block,block,44-50,44,50
 0021700355,2017-12-06,ORL,ATL,24.0,2,0,0,ATL,ATL,fg_make,5,False,False,,Cavanaugh 2' Layup (8 PTS) (Schroder 5 AST),44-52,44,52
 0021700355,2017-12-06,ORL,ATL,24.0,2,0,0,ATL,,period_end,0,False,False,,,44-52,44,52
 0021700355,2017-12-06,ORL,ATL,24.0,3,12,0,ATL,,period_start,0,False,False,,,44-52,44,52
@@ -392,24 +392,24 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700355,2017-12-06,ORL,ATL,45.13,4,2,52,ATL,ATL,fg_miss,6,False,False,,MISS Schroder 3' Driving Layup,90-90,90,90
 0021700355,2017-12-06,ORL,ATL,45.15,4,2,51,ORL,ORL,reb,0,False,False,Fournier REBOUND (Off:0 Def:4),,90-90,90,90
 0021700355,2017-12-06,ORL,ATL,45.27,4,2,44,ORL,ORL,fg_miss,79,False,False,MISS Fournier 9' Pullup Jump Shot,,90-90,90,90
-0021700355,2017-12-06,ORL,ATL,45.27,4,2,44,ORL,ORL,reb,0,False,False,Gordon REBOUND (Off:4 Def:10),,90-90,90,90
 0021700355,2017-12-06,ORL,ATL,45.27,4,2,44,ORL,ATL,foul,2,False,False,,Bazemore S.FOUL (P4.PN) (J.Orr),90-90,90,90
+0021700355,2017-12-06,ORL,ATL,45.27,4,2,44,ORL,ORL,reb,0,False,False,Gordon REBOUND (Off:4 Def:10),,90-90,90,90
 0021700355,2017-12-06,ORL,ATL,45.27,4,2,44,ORL,ORL,ft_make,11,False,False,Gordon Free Throw 1 of 2 (22 PTS),,91-90,91,90
 0021700355,2017-12-06,ORL,ATL,45.27,4,2,44,ORL,ORL,ft_miss,12,False,False,MISS Gordon Free Throw 2 of 2,,91-90,91,90
 0021700355,2017-12-06,ORL,ATL,45.32,4,2,41,ATL,ATL,reb,0,False,False,,Bembry REBOUND (Off:0 Def:5),91-90,91,90
 0021700355,2017-12-06,ORL,ATL,45.65,4,2,21,ATL,ATL,fg_make,75,False,False,,Schroder 4' Driving Finger Roll Layup (20 PTS),91-92,91,92
 0021700355,2017-12-06,ORL,ATL,46.02,4,1,59,ORL,ORL,fg_make,6,False,False,Fournier 3' Driving Layup (25 PTS),,93-92,93,92
 0021700355,2017-12-06,ORL,ATL,46.35,4,1,39,ATL,ATL,fg_miss,78,True,False,,MISS Bazemore 8' Floating Jump Shot,93-92,93,92
-0021700355,2017-12-06,ORL,ATL,46.35,4,1,39,ATL,ATL,reb,0,False,False,,Hawks Rebound,93-92,93,92
 0021700355,2017-12-06,ORL,ATL,46.35,4,1,39,ATL,ORL,block,78,True,False,block,block,93-92,93,92
+0021700355,2017-12-06,ORL,ATL,46.35,4,1,39,ATL,ATL,reb,0,False,False,,Hawks Rebound,93-92,93,92
 0021700355,2017-12-06,ORL,ATL,46.42,4,1,35,ATL,ATL,tov,11,False,False,,Hawks Turnover: Shot Clock (T#17),93-92,93,92
 0021700355,2017-12-06,ORL,ATL,46.73,4,1,16,ATL,ORL,foul,26,False,False,Gordon Offensive Charge Foul (P4.PN) (J.Orr),,93-92,93,92
 0021700355,2017-12-06,ORL,ATL,46.73,4,1,16,ORL,ORL,tov,37,False,False,Gordon Offensive Foul Turnover (P2.T15),,93-92,93,92
 0021700355,2017-12-06,ORL,ATL,47.02,4,0,59,ATL,ATL,fg_miss,6,False,False,,MISS Schroder 1' Driving Layup,93-92,93,92
 0021700355,2017-12-06,ORL,ATL,47.17,4,0,50,ATL,ATL,reb,0,False,False,,Ilyasova REBOUND (Off:2 Def:5),93-92,93,92
 0021700355,2017-12-06,ORL,ATL,47.17,4,0,50,ATL,ATL,fg_miss,72,True,False,,MISS Ilyasova 1' Putback Layup,93-92,93,92
-0021700355,2017-12-06,ORL,ATL,47.17,4,0,50,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:4 Def:10),,93-92,93,92
 0021700355,2017-12-06,ORL,ATL,47.17,4,0,50,ATL,ORL,block,72,True,False,block,block,93-92,93,92
+0021700355,2017-12-06,ORL,ATL,47.17,4,0,50,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:4 Def:10),,93-92,93,92
 0021700355,2017-12-06,ORL,ATL,47.37,4,0,38,ORL,ORL,fg_miss,5,False,False,MISS Fournier 3' Layup,,93-92,93,92
 0021700355,2017-12-06,ORL,ATL,47.4,4,0,36,ATL,ATL,reb,0,False,False,,Schroder REBOUND (Off:1 Def:4),93-92,93,92
 0021700355,2017-12-06,ORL,ATL,47.55,4,0,27,ATL,ORL,foul,1,False,False,Payton P.FOUL (P3.PN) (J.Orr),,93-92,93,92
@@ -417,8 +417,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700355,2017-12-06,ORL,ATL,47.55,4,0,27,ATL,ATL,ft_make,12,False,False,,Schroder Free Throw 2 of 2 (22 PTS),93-94,93,94
 0021700355,2017-12-06,ORL,ATL,47.55,4,0,27,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 5 Short 0),,93-94,93,94
 0021700355,2017-12-06,ORL,ATL,47.77,4,0,14,ORL,ORL,tov,1,False,True,Fournier Bad Pass Turnover (P2.T16),,93-94,93,94
-0021700355,2017-12-06,ORL,ATL,47.77,4,0,14,ATL,ORL,foul,1,False,False,Vucevic P.FOUL (P3.PN) (J.Orr),,93-94,93,94
 0021700355,2017-12-06,ORL,ATL,47.77,4,0,14,ORL,ATL,steal,1,False,True,steal,steal,93-94,93,94
+0021700355,2017-12-06,ORL,ATL,47.77,4,0,14,ATL,ORL,foul,1,False,False,Vucevic P.FOUL (P3.PN) (J.Orr),,93-94,93,94
 0021700355,2017-12-06,ORL,ATL,47.77,4,0,14,ATL,ATL,ft_make,11,False,False,,Bazemore Free Throw 1 of 2 (3 PTS),93-95,93,95
 0021700355,2017-12-06,ORL,ATL,47.77,4,0,14,ATL,ATL,ft_make,12,False,False,,Bazemore Free Throw 2 of 2 (4 PTS),93-96,93,96
 0021700355,2017-12-06,ORL,ATL,47.77,4,0,14,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 6 Short 0),,93-96,93,96

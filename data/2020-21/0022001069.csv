@@ -16,8 +16,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001069,2021-05-16,DET,MIA,2.8,1,9,12,DET,DET,fg3_make,1,False,False,Bey 27' 3PT Jump Shot (3 PTS) (Joseph 1 AST),,5-7,5,7
 0022001069,2021-05-16,DET,MIA,3.0,1,9,0,MIA,MIA,fg3_make,1,False,False,,Bjelica 26' 3PT Jump Shot (8 PTS) (Herro 2 AST),5-10,5,10
 0022001069,2021-05-16,DET,MIA,3.28,1,8,43,DET,DET,fg_miss,6,True,False,MISS Hayes 3' Driving Layup,,5-10,5,10
-0022001069,2021-05-16,DET,MIA,3.28,1,8,43,DET,DET,reb,0,False,False,PISTONS Rebound,,5-10,5,10
 0022001069,2021-05-16,DET,MIA,3.28,1,8,43,DET,MIA,block,6,True,False,block,block,5-10,5,10
+0022001069,2021-05-16,DET,MIA,3.28,1,8,43,DET,DET,reb,0,False,False,PISTONS Rebound,,5-10,5,10
 0022001069,2021-05-16,DET,MIA,3.37,1,8,38,DET,DET,fg3_miss,1,False,False,MISS Bey 3PT Jump Shot,,5-10,5,10
 0022001069,2021-05-16,DET,MIA,3.42,1,8,35,MIA,MIA,reb,0,False,False,,Bjelica REBOUND (Off:0 Def:1),5-10,5,10
 0022001069,2021-05-16,DET,MIA,3.53,1,8,28,MIA,MIA,fg3_make,1,False,False,,Herro 25' 3PT Jump Shot (3 PTS) (Vincent 3 AST),5-13,5,13
@@ -50,16 +50,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001069,2021-05-16,DET,MIA,6.98,1,5,1,MIA,MIA,tov,1,False,True,,Herro Bad Pass Turnover (P1.T2),9-20,9,20
 0022001069,2021-05-16,DET,MIA,6.98,1,5,1,MIA,DET,steal,1,False,True,steal,steal,9-20,9,20
 0022001069,2021-05-16,DET,MIA,7.27,1,4,44,DET,DET,fg_miss,5,True,False,MISS Okafor 3' Layup,,9-20,9,20
-0022001069,2021-05-16,DET,MIA,7.27,1,4,44,DET,DET,reb,0,False,False,PISTONS Rebound,,9-20,9,20
 0022001069,2021-05-16,DET,MIA,7.27,1,4,44,DET,MIA,block,5,True,False,block,block,9-20,9,20
+0022001069,2021-05-16,DET,MIA,7.27,1,4,44,DET,DET,reb,0,False,False,PISTONS Rebound,,9-20,9,20
 0022001069,2021-05-16,DET,MIA,7.28,1,4,43,DET,MIA,foul,1,False,False,,Okpala P.FOUL (P1.T3) (J.Capers),9-20,9,20
 0022001069,2021-05-16,DET,MIA,7.5,1,4,30,DET,DET,fg3_miss,1,False,False,MISS Jackson 26' 3PT Jump Shot,,9-20,9,20
 0022001069,2021-05-16,DET,MIA,7.53,1,4,28,MIA,MIA,reb,0,False,False,,Herro REBOUND (Off:0 Def:1),9-20,9,20
 0022001069,2021-05-16,DET,MIA,7.75,1,4,15,MIA,MIA,fg3_miss,1,False,False,,MISS Strus 24' 3PT Jump Shot,9-20,9,20
 0022001069,2021-05-16,DET,MIA,7.8,1,4,12,DET,DET,reb,0,False,False,Jackson REBOUND (Off:0 Def:1),,9-20,9,20
 0022001069,2021-05-16,DET,MIA,7.82,1,4,11,DET,DET,fg_miss,6,True,False,MISS Jackson 4' Driving Layup,,9-20,9,20
-0022001069,2021-05-16,DET,MIA,7.82,1,4,11,MIA,MIA,reb,0,False,False,,Heat Rebound,9-20,9,20
 0022001069,2021-05-16,DET,MIA,7.82,1,4,11,DET,MIA,block,6,True,False,block,block,9-20,9,20
+0022001069,2021-05-16,DET,MIA,7.82,1,4,11,MIA,MIA,reb,0,False,False,,Heat Rebound,9-20,9,20
 0022001069,2021-05-16,DET,MIA,8.05,1,3,57,MIA,MIA,fg_make,79,False,False,,Herro 14' Pullup Jump Shot (5 PTS),9-22,9,22
 0022001069,2021-05-16,DET,MIA,8.32,1,3,41,DET,DET,tov,1,False,True,Hayes Bad Pass Turnover (P2.T5),,9-22,9,22
 0022001069,2021-05-16,DET,MIA,8.32,1,3,41,DET,MIA,steal,1,False,True,steal,steal,9-22,9,22
@@ -227,12 +227,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001069,2021-05-16,DET,MIA,25.57,3,10,26,DET,DET,ft_make,12,False,False,Diallo Free Throw 2 of 2 (11 PTS),,49-71,49,71
 0022001069,2021-05-16,DET,MIA,25.72,3,10,17,MIA,DET,foul,1,False,False,Hayes P.FOUL (P3.T1) (J.Capers),,49-71,49,71
 0022001069,2021-05-16,DET,MIA,25.97,3,10,2,MIA,MIA,fg_miss,5,True,False,,MISS Achiuwa 3' Layup,49-71,49,71
+0022001069,2021-05-16,DET,MIA,25.97,3,10,2,MIA,DET,block,5,True,False,block,block,49-71,49,71
 0022001069,2021-05-16,DET,MIA,25.97,3,10,2,MIA,MIA,reb,0,False,False,,Heat Rebound,49-71,49,71
 0022001069,2021-05-16,DET,MIA,25.97,3,10,2,MIA,MIA,tov,11,False,False,,Heat Turnover: Shot Clock (T#4),49-71,49,71
-0022001069,2021-05-16,DET,MIA,25.97,3,10,2,MIA,DET,block,5,True,False,block,block,49-71,49,71
 0022001069,2021-05-16,DET,MIA,26.25,3,9,45,DET,DET,fg_miss,5,True,False,MISS Bey 2' Layup,,49-71,49,71
-0022001069,2021-05-16,DET,MIA,26.25,3,9,45,DET,DET,reb,0,False,False,PISTONS Rebound,,49-71,49,71
 0022001069,2021-05-16,DET,MIA,26.25,3,9,45,DET,MIA,block,5,True,False,block,block,49-71,49,71
+0022001069,2021-05-16,DET,MIA,26.25,3,9,45,DET,DET,reb,0,False,False,PISTONS Rebound,,49-71,49,71
 0022001069,2021-05-16,DET,MIA,26.38,3,9,37,DET,DET,fg3_make,1,False,False,Diallo 26' 3PT Jump Shot (14 PTS) (Bey 2 AST),,52-71,52,71
 0022001069,2021-05-16,DET,MIA,26.6,3,9,24,MIA,MIA,fg_make,52,False,False,,Achiuwa 3' Alley Oop Dunk (15 PTS) (Vincent 7 AST),52-73,52,73
 0022001069,2021-05-16,DET,MIA,26.78,3,9,13,DET,DET,fg3_miss,1,False,False,MISS Bey 26' 3PT Jump Shot,,52-73,52,73
@@ -245,9 +245,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001069,2021-05-16,DET,MIA,27.68,3,8,19,DET,DET,fg3_make,1,False,False,Hayes 25' 3PT Jump Shot (8 PTS) (Bey 3 AST),,55-75,55,75
 0022001069,2021-05-16,DET,MIA,27.82,3,8,11,MIA,MIA,fg_make,6,False,False,,Herro 1' Driving Layup (14 PTS),55-77,55,77
 0022001069,2021-05-16,DET,MIA,27.88,3,8,7,DET,DET,tov,1,False,True,Okafor Bad Pass Turnover (P1.T13),,55-77,55,77
+0022001069,2021-05-16,DET,MIA,27.88,3,8,7,DET,MIA,steal,1,False,True,steal,steal,55-77,55,77
 0022001069,2021-05-16,DET,MIA,27.88,3,8,7,DET,MIA,foul,26,False,False,,Achiuwa Offensive Charge Foul (P2.T2) (J.Schroeder),55-77,55,77
 0022001069,2021-05-16,DET,MIA,27.88,3,8,7,MIA,MIA,tov,37,False,False,,Achiuwa Offensive Foul Turnover (P1.T5),55-77,55,77
-0022001069,2021-05-16,DET,MIA,27.88,3,8,7,DET,MIA,steal,1,False,True,steal,steal,55-77,55,77
 0022001069,2021-05-16,DET,MIA,28.2,3,7,48,DET,DET,fg_miss,63,False,False,MISS Joseph 14' Fadeaway Jumper,,55-77,55,77
 0022001069,2021-05-16,DET,MIA,28.25,3,7,45,MIA,MIA,reb,0,False,False,,Robinson REBOUND (Off:0 Def:2),55-77,55,77
 0022001069,2021-05-16,DET,MIA,28.37,3,7,38,MIA,MIA,fg3_miss,1,False,False,,MISS Bjelica 29' 3PT Jump Shot,55-77,55,77

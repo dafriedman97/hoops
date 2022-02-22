@@ -4,8 +4,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000241,2021-01-22,SAC,NYK,0.35,1,11,39,SAC,SAC,fg_make,63,False,False,Fox 12' Fadeaway Jumper (2 PTS),,2-0,2,0
 0022000241,2021-01-22,SAC,NYK,0.53,1,11,28,NYK,NYK,fg_make,52,False,False,,Robinson 2' Alley Oop Dunk (2 PTS) (Barrett 1 AST),2-2,2,2
 0022000241,2021-01-22,SAC,NYK,0.85,1,11,9,SAC,SAC,fg_miss,6,True,False,MISS Hield 3' Driving Layup,,2-2,2,2
-0022000241,2021-01-22,SAC,NYK,0.85,1,11,9,SAC,SAC,reb,0,False,False,KINGS Rebound,,2-2,2,2
 0022000241,2021-01-22,SAC,NYK,0.85,1,11,9,SAC,NYK,block,6,True,False,block,block,2-2,2,2
+0022000241,2021-01-22,SAC,NYK,0.85,1,11,9,SAC,SAC,reb,0,False,False,KINGS Rebound,,2-2,2,2
 0022000241,2021-01-22,SAC,NYK,0.88,1,11,7,SAC,SAC,fg_miss,3,False,False,MISS Holmes 7' Hook Shot,,2-2,2,2
 0022000241,2021-01-22,SAC,NYK,0.93,1,11,4,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:0 Def:1),2-2,2,2
 0022000241,2021-01-22,SAC,NYK,1.03,1,10,58,NYK,NYK,fg_make,108,False,False,,Randle 1' Cutting Dunk Shot (2 PTS) (Bullock 1 AST),2-4,2,4
@@ -118,8 +118,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000241,2021-01-22,SAC,NYK,12.87,2,11,8,SAC,SAC,reb,0,False,False,Hield REBOUND (Off:0 Def:2),,26-29,26,29
 0022000241,2021-01-22,SAC,NYK,13.03,2,10,58,SAC,SAC,fg_make,79,False,False,Haliburton 18' Pullup Jump Shot (4 PTS) (Joseph 1 AST),,28-29,28,29
 0022000241,2021-01-22,SAC,NYK,13.4,2,10,36,NYK,NYK,fg_miss,6,True,False,,MISS Burks 4' Driving Layup,28-29,28,29
-0022000241,2021-01-22,SAC,NYK,13.4,2,10,36,NYK,NYK,reb,0,False,False,,Knicks Rebound,28-29,28,29
 0022000241,2021-01-22,SAC,NYK,13.4,2,10,36,NYK,SAC,block,6,True,False,block,block,28-29,28,29
+0022000241,2021-01-22,SAC,NYK,13.4,2,10,36,NYK,NYK,reb,0,False,False,,Knicks Rebound,28-29,28,29
 0022000241,2021-01-22,SAC,NYK,13.43,2,10,34,NYK,NYK,fg_miss,1,False,False,,MISS Knox II 18' Jump Shot,28-29,28,29
 0022000241,2021-01-22,SAC,NYK,13.5,2,10,30,SAC,SAC,reb,0,False,False,Haliburton REBOUND (Off:1 Def:2),,28-29,28,29
 0022000241,2021-01-22,SAC,NYK,13.58,2,10,25,SAC,SAC,fg_miss,1,False,False,MISS Hield 6' Jump Shot,,28-29,28,29
@@ -192,8 +192,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000241,2021-01-22,SAC,NYK,19.57,2,4,26,NYK,NYK,fg_miss,78,False,False,,MISS Quickley 13' Floating Jump Shot,38-44,38,44
 0022000241,2021-01-22,SAC,NYK,19.57,2,4,26,NYK,NYK,reb,0,False,False,,Robinson REBOUND (Off:3 Def:4),38-44,38,44
 0022000241,2021-01-22,SAC,NYK,19.65,2,4,21,NYK,NYK,fg_miss,5,True,False,,MISS Robinson 2' Layup,38-44,38,44
-0022000241,2021-01-22,SAC,NYK,19.65,2,4,21,SAC,SAC,reb,0,False,False,Barnes REBOUND (Off:0 Def:4),,38-44,38,44
 0022000241,2021-01-22,SAC,NYK,19.65,2,4,21,NYK,SAC,block,5,True,False,block,block,38-44,38,44
+0022000241,2021-01-22,SAC,NYK,19.65,2,4,21,SAC,SAC,reb,0,False,False,Barnes REBOUND (Off:0 Def:4),,38-44,38,44
 0022000241,2021-01-22,SAC,NYK,19.68,2,4,19,SAC,NYK,foul,2,False,False,,Bullock S.FOUL (P1.PN) (J.Goble),38-44,38,44
 0022000241,2021-01-22,SAC,NYK,19.68,2,4,19,SAC,SAC,ft_miss,11,False,False,MISS Fox Free Throw 1 of 2,,38-44,38,44
 0022000241,2021-01-22,SAC,NYK,19.68,2,4,19,SAC,SAC,reb,1,False,False,KINGS Rebound,,38-44,38,44
@@ -301,8 +301,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000241,2021-01-22,SAC,NYK,32.25,3,3,45,SAC,SAC,ft_make,11,False,False,Barnes Free Throw 1 of 2 (14 PTS),,71-69,71,69
 0022000241,2021-01-22,SAC,NYK,32.25,3,3,45,SAC,SAC,ft_make,12,False,False,Barnes Free Throw 2 of 2 (15 PTS),,72-69,72,69
 0022000241,2021-01-22,SAC,NYK,32.43,3,3,34,NYK,NYK,fg_miss,6,True,False,,MISS Barrett 4' Driving Layup,72-69,72,69
-0022000241,2021-01-22,SAC,NYK,32.43,3,3,34,NYK,NYK,reb,0,False,False,,Knicks Rebound,72-69,72,69
 0022000241,2021-01-22,SAC,NYK,32.43,3,3,34,NYK,SAC,block,6,True,False,block,block,72-69,72,69
+0022000241,2021-01-22,SAC,NYK,32.43,3,3,34,NYK,NYK,reb,0,False,False,,Knicks Rebound,72-69,72,69
 0022000241,2021-01-22,SAC,NYK,32.5,3,3,30,NYK,SAC,foul,1,False,False,Bagley III P.FOUL (P3.T3) (J.Goble),,72-69,72,69
 0022000241,2021-01-22,SAC,NYK,32.7,3,3,18,NYK,NYK,fg3_miss,1,False,False,,MISS Burks 25' 3PT Jump Shot,72-69,72,69
 0022000241,2021-01-22,SAC,NYK,32.75,3,3,15,SAC,SAC,reb,0,False,False,Holmes REBOUND (Off:1 Def:7),,72-69,72,69
@@ -312,12 +312,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000241,2021-01-22,SAC,NYK,33.32,3,2,41,NYK,NYK,timeout,7,False,False,,Knicks Timeout: Coach Challenge (Reg.2 Short 0),74-69,74,69
 0022000241,2021-01-22,SAC,NYK,33.47,3,2,32,,SAC,jump_ball,1,False,False,Jump Ball (CC) Holmes vs. Noel: Tip to Quickley,,74-69,74,69
 0022000241,2021-01-22,SAC,NYK,33.6,3,2,24,NYK,NYK,fg_miss,1,True,False,,MISS Burks 8' Jump Shot,74-69,74,69
+0022000241,2021-01-22,SAC,NYK,33.6,3,2,24,NYK,SAC,block,1,True,False,block,block,74-69,74,69
 0022000241,2021-01-22,SAC,NYK,33.6,3,2,24,NYK,NYK,reb,0,False,False,,Noel REBOUND (Off:3 Def:2),74-69,74,69
 0022000241,2021-01-22,SAC,NYK,33.6,3,2,24,NYK,SAC,foul,2,False,False,Holmes S.FOUL (P3.T4) (J.Butler),,74-69,74,69
 0022000241,2021-01-22,SAC,NYK,33.6,3,2,24,NYK,NYK,ft_miss,11,False,False,,MISS Noel Free Throw 1 of 2,74-69,74,69
 0022000241,2021-01-22,SAC,NYK,33.6,3,2,24,NYK,NYK,reb,1,False,False,,Knicks Rebound,74-69,74,69
 0022000241,2021-01-22,SAC,NYK,33.6,3,2,24,NYK,NYK,ft_miss,12,False,False,,MISS Noel Free Throw 2 of 2,74-69,74,69
-0022000241,2021-01-22,SAC,NYK,33.6,3,2,24,NYK,SAC,block,1,True,False,block,block,74-69,74,69
 0022000241,2021-01-22,SAC,NYK,33.65,3,2,21,SAC,SAC,reb,0,False,False,Holmes REBOUND (Off:1 Def:9),,74-69,74,69
 0022000241,2021-01-22,SAC,NYK,33.92,3,2,5,SAC,SAC,fg_miss,5,False,False,MISS Holmes 4' Layup,,74-69,74,69
 0022000241,2021-01-22,SAC,NYK,33.95,3,2,3,SAC,SAC,reb,0,False,False,Holmes REBOUND (Off:2 Def:9),,74-69,74,69
@@ -433,8 +433,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000241,2021-01-22,SAC,NYK,45.88,4,2,7,SAC,SAC,fg_miss,78,False,False,MISS Barnes 7' Floating Jump Shot,,96-87,96,87
 0022000241,2021-01-22,SAC,NYK,45.92,4,2,5,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:0 Def:12),96-87,96,87
 0022000241,2021-01-22,SAC,NYK,46.0,4,2,0,NYK,NYK,fg_miss,41,True,False,,MISS Payton 3' Running Layup,96-87,96,87
-0022000241,2021-01-22,SAC,NYK,46.0,4,2,0,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:1 Def:12),96-87,96,87
 0022000241,2021-01-22,SAC,NYK,46.0,4,2,0,NYK,SAC,block,41,True,False,block,block,96-87,96,87
+0022000241,2021-01-22,SAC,NYK,46.0,4,2,0,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:1 Def:12),96-87,96,87
 0022000241,2021-01-22,SAC,NYK,46.0,4,2,0,NYK,NYK,fg_make,72,False,False,,Randle 1' Putback Layup (26 PTS),96-89,96,89
 0022000241,2021-01-22,SAC,NYK,46.0,4,2,0,NYK,SAC,foul,2,False,False,Barnes S.FOUL (P2.PN) (T.Maddox),,96-89,96,89
 0022000241,2021-01-22,SAC,NYK,46.0,4,2,0,NYK,NYK,ft_miss,10,False,False,,MISS Randle Free Throw 1 of 1,96-89,96,89

@@ -187,9 +187,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800217,2018-11-16,IND,MIA,20.23,2,3,46,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:0 Def:5),,44-36,44,36
 0021800217,2018-11-16,IND,MIA,20.37,2,3,38,IND,IND,fg_make,5,False,False,Sabonis 1' Layup (7 PTS),,46-36,46,36
 0021800217,2018-11-16,IND,MIA,20.55,2,3,27,MIA,MIA,fg_miss,6,True,False,,MISS McGruder 1' Driving Layup,46-36,46,36
+0021800217,2018-11-16,IND,MIA,20.55,2,3,27,MIA,IND,block,6,True,False,block,block,46-36,46,36
 0021800217,2018-11-16,IND,MIA,20.55,2,3,27,MIA,MIA,reb,0,False,False,,Heat Rebound,46-36,46,36
 0021800217,2018-11-16,IND,MIA,20.55,2,3,27,MIA,IND,foul,6,False,False,Sabonis AWAY.FROM.PLAY.FOUL (P2.T4) (M.Kogut),,46-36,46,36
-0021800217,2018-11-16,IND,MIA,20.55,2,3,27,MIA,IND,block,6,True,False,block,block,46-36,46,36
 0021800217,2018-11-16,IND,MIA,20.55,2,3,27,MIA,MIA,ft_make,10,False,False,,Richardson Free Throw 1 of 1 (9 PTS),46-37,46,37
 0021800217,2018-11-16,IND,MIA,20.65,2,3,21,MIA,MIA,fg_make,78,False,False,,Winslow 13' Floating Jump Shot (5 PTS),46-39,46,39
 0021800217,2018-11-16,IND,MIA,20.85,2,3,9,IND,MIA,foul,1,False,False,,McGruder P.FOUL (P1.PN) (J.Goble),46-39,46,39
@@ -315,8 +315,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800217,2018-11-16,IND,MIA,35.55,3,0,27,IND,IND,reb,0,False,False,Evans REBOUND (Off:1 Def:7),,70-67,70,67
 0021800217,2018-11-16,IND,MIA,35.78,3,0,13,IND,IND,fg_make,79,False,False,Joseph 18' Pullup Jump Shot (12 PTS),,72-67,72,67
 0021800217,2018-11-16,IND,MIA,35.97,3,0,2,MIA,MIA,tov,2,False,True,,Richardson Lost Ball Turnover (P3.T17),72-67,72,67
-0021800217,2018-11-16,IND,MIA,35.97,3,0,2,IND,IND,tov,1,False,True,Turner Bad Pass Turnover (P2.T15),,72-67,72,67
 0021800217,2018-11-16,IND,MIA,35.97,3,0,2,MIA,IND,steal,2,False,True,steal,steal,72-67,72,67
+0021800217,2018-11-16,IND,MIA,35.97,3,0,2,IND,IND,tov,1,False,True,Turner Bad Pass Turnover (P2.T15),,72-67,72,67
 0021800217,2018-11-16,IND,MIA,35.97,3,0,2,IND,MIA,steal,1,False,True,steal,steal,72-67,72,67
 0021800217,2018-11-16,IND,MIA,36.0,3,0,0,IND,,period_end,0,False,False,,,72-67,72,67
 0021800217,2018-11-16,IND,MIA,36.0,4,12,0,IND,,period_start,0,False,False,,,72-67,72,67
@@ -389,9 +389,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800217,2018-11-16,IND,MIA,44.22,4,3,47,IND,IND,fg_miss,1,False,False,MISS Turner 18' Jump Shot,,90-82,90,82
 0021800217,2018-11-16,IND,MIA,44.28,4,3,43,MIA,MIA,reb,0,False,False,,Johnson REBOUND (Off:1 Def:4),90-82,90,82
 0021800217,2018-11-16,IND,MIA,44.37,4,3,38,MIA,MIA,fg_miss,6,True,False,,MISS Johnson 6' Driving Layup,90-82,90,82
+0021800217,2018-11-16,IND,MIA,44.37,4,3,38,MIA,IND,block,6,True,False,block,block,90-82,90,82
 0021800217,2018-11-16,IND,MIA,44.37,4,3,38,IND,IND,reb,0,False,False,PACERS Rebound,,90-82,90,82
 0021800217,2018-11-16,IND,MIA,44.37,4,3,38,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 5 Short 0),,90-82,90,82
-0021800217,2018-11-16,IND,MIA,44.37,4,3,38,MIA,IND,block,6,True,False,block,block,90-82,90,82
 0021800217,2018-11-16,IND,MIA,44.73,4,3,16,IND,MIA,foul,2,False,False,,Whiteside S.FOUL (P4.T1) (M.Kogut),90-82,90,82
 0021800217,2018-11-16,IND,MIA,44.73,4,3,16,IND,IND,ft_make,11,False,False,Turner Free Throw 1 of 2 (11 PTS),,91-82,91,82
 0021800217,2018-11-16,IND,MIA,44.73,4,3,16,IND,IND,ft_make,12,False,False,Turner Free Throw 2 of 2 (12 PTS),,92-82,92,82
@@ -399,8 +399,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800217,2018-11-16,IND,MIA,45.2,4,2,48,MIA,MIA,reb,0,False,False,,Whiteside REBOUND (Off:8 Def:6),92-82,92,82
 0021800217,2018-11-16,IND,MIA,45.22,4,2,47,MIA,MIA,fg_make,66,False,False,,Whiteside 1' Jump Bank Shot (12 PTS),92-84,92,84
 0021800217,2018-11-16,IND,MIA,45.57,4,2,26,IND,IND,fg_miss,73,True,False,MISS Joseph 1' Driving Reverse Layup,,92-84,92,84
-0021800217,2018-11-16,IND,MIA,45.57,4,2,26,MIA,MIA,reb,0,False,False,,Whiteside REBOUND (Off:8 Def:7),92-84,92,84
 0021800217,2018-11-16,IND,MIA,45.57,4,2,26,IND,MIA,block,73,True,False,block,block,92-84,92,84
+0021800217,2018-11-16,IND,MIA,45.57,4,2,26,MIA,MIA,reb,0,False,False,,Whiteside REBOUND (Off:8 Def:7),92-84,92,84
 0021800217,2018-11-16,IND,MIA,45.7,4,2,18,MIA,MIA,fg3_miss,1,False,False,,MISS Dragic 27' 3PT Jump Shot,92-84,92,84
 0021800217,2018-11-16,IND,MIA,45.75,4,2,15,IND,IND,reb,0,False,False,Turner REBOUND (Off:0 Def:7),,92-84,92,84
 0021800217,2018-11-16,IND,MIA,46.07,4,1,56,IND,IND,fg3_miss,79,False,False,MISS Oladipo 27' 3PT Pullup Jump Shot,,92-84,92,84

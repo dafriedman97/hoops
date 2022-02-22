@@ -24,8 +24,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900548,2020-01-07,CLE,DET,3.02,1,8,59,DET,DET,fg_make,6,False,False,,Doumbouya 1' Driving Layup (2 PTS) (Drummond 1 AST),8-8,8,8
 0021900548,2020-01-07,CLE,DET,3.32,1,8,41,CLE,CLE,fg3_make,1,False,False,Garland 26' 3PT Jump Shot (3 PTS) (Love 1 AST),,11-8,11,8
 0021900548,2020-01-07,CLE,DET,3.57,1,8,26,DET,DET,fg_miss,6,True,False,,MISS Mykhailiuk 1' Driving Layup,11-8,11,8
-0021900548,2020-01-07,CLE,DET,3.57,1,8,26,DET,DET,reb,0,False,False,,Pistons Rebound,11-8,11,8
 0021900548,2020-01-07,CLE,DET,3.57,1,8,26,DET,CLE,block,6,True,False,block,block,11-8,11,8
+0021900548,2020-01-07,CLE,DET,3.57,1,8,26,DET,DET,reb,0,False,False,,Pistons Rebound,11-8,11,8
 0021900548,2020-01-07,CLE,DET,3.67,1,8,20,DET,DET,fg_make,9,False,False,,Doumbouya Driving Dunk (4 PTS) (Snell 1 AST),11-10,11,10
 0021900548,2020-01-07,CLE,DET,3.67,1,8,20,DET,CLE,foul,2,False,False,Thompson S.FOUL (P1.T2) (G.Petraitis),,11-10,11,10
 0021900548,2020-01-07,CLE,DET,3.67,1,8,20,DET,DET,ft_miss,10,False,False,,MISS Doumbouya Free Throw 1 of 1,11-10,11,10
@@ -78,9 +78,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900548,2020-01-07,CLE,DET,8.87,1,3,8,CLE,CLE,reb,0,False,False,Love REBOUND (Off:0 Def:4),,20-18,20,18
 0021900548,2020-01-07,CLE,DET,9.0,1,3,0,CLE,CLE,fg3_make,80,False,False,Knight 26' 3PT Step Back Jump Shot (3 PTS),,23-18,23,18
 0021900548,2020-01-07,CLE,DET,9.33,1,2,40,DET,DET,fg_miss,6,True,False,,MISS Snell 1' Driving Layup,23-18,23,18
+0021900548,2020-01-07,CLE,DET,9.33,1,2,40,DET,CLE,block,6,True,False,block,block,23-18,23,18
 0021900548,2020-01-07,CLE,DET,9.33,1,2,40,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,23-18,23,18
 0021900548,2020-01-07,CLE,DET,9.33,1,2,40,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 1 Short 0),,23-18,23,18
-0021900548,2020-01-07,CLE,DET,9.33,1,2,40,DET,CLE,block,6,True,False,block,block,23-18,23,18
 0021900548,2020-01-07,CLE,DET,9.58,1,2,25,DET,CLE,foul,4,False,False,Zizic OFF.Foul (P1) (N.Sago),,23-18,23,18
 0021900548,2020-01-07,CLE,DET,9.58,1,2,25,CLE,CLE,tov,37,False,False,Zizic Offensive Foul Turnover (P1.T4),,23-18,23,18
 0021900548,2020-01-07,CLE,DET,9.97,1,2,2,DET,DET,fg3_make,1,False,False,,Mykhailiuk 27' 3PT Jump Shot (3 PTS) (Rose 1 AST),23-21,23,21
@@ -330,8 +330,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900548,2020-01-07,CLE,DET,38.75,4,9,15,DET,CLE,foul,1,False,False,Garland P.FOUL (P2.T3) (B.Forte),,98-86,98,86
 0021900548,2020-01-07,CLE,DET,39.07,4,8,56,DET,DET,fg_make,1,False,False,,Doumbouya 7' Jump Shot (13 PTS) (Rose 4 AST),98-88,98,88
 0021900548,2020-01-07,CLE,DET,39.32,4,8,41,CLE,CLE,tov,2,False,True,Dellavedova Lost Ball Turnover (P2.T14),,98-88,98,88
-0021900548,2020-01-07,CLE,DET,39.32,4,8,41,DET,CLE,foul,1,False,False,Dellavedova P.FOUL (P5.T4) (N.Sago),,98-88,98,88
 0021900548,2020-01-07,CLE,DET,39.32,4,8,41,CLE,DET,steal,2,False,True,steal,steal,98-88,98,88
+0021900548,2020-01-07,CLE,DET,39.32,4,8,41,DET,CLE,foul,1,False,False,Dellavedova P.FOUL (P5.T4) (N.Sago),,98-88,98,88
 0021900548,2020-01-07,CLE,DET,39.62,4,8,23,DET,DET,fg3_make,80,False,False,,Mykhailiuk 25' 3PT Step Back Jump Shot (12 PTS),98-91,98,91
 0021900548,2020-01-07,CLE,DET,39.98,4,8,1,CLE,CLE,fg_make,47,False,False,Love 15' Turnaround Jump Shot (26 PTS) (Knight 5 AST),,100-91,100,91
 0021900548,2020-01-07,CLE,DET,40.28,4,7,43,DET,DET,fg_miss,102,False,False,,MISS Rose 6' Driving Floating Bank Jump Shot,100-91,100,91

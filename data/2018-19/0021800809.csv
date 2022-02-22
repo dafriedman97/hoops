@@ -40,8 +40,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800809,2019-02-06,SAC,HOU,4.08,1,7,55,SAC,SAC,tov,1,False,True,Fox Bad Pass Turnover (P2.T5),,9-10,9,10
 0021800809,2019-02-06,SAC,HOU,4.08,1,7,55,SAC,HOU,steal,1,False,True,steal,steal,9-10,9,10
 0021800809,2019-02-06,SAC,HOU,4.17,1,7,50,HOU,HOU,fg_miss,6,True,False,,MISS Gordon 5' Driving Layup,9-10,9,10
-0021800809,2019-02-06,SAC,HOU,4.17,1,7,50,HOU,HOU,reb,0,False,False,,Rockets Rebound,9-10,9,10
 0021800809,2019-02-06,SAC,HOU,4.17,1,7,50,HOU,SAC,block,6,True,False,block,block,9-10,9,10
+0021800809,2019-02-06,SAC,HOU,4.17,1,7,50,HOU,HOU,reb,0,False,False,,Rockets Rebound,9-10,9,10
 0021800809,2019-02-06,SAC,HOU,4.22,1,7,47,HOU,HOU,fg_make,98,False,False,,Gordon 2' Cutting Layup Shot (5 PTS) (Paul 2 AST),9-12,9,12
 0021800809,2019-02-06,SAC,HOU,4.38,1,7,37,SAC,SAC,fg3_make,1,False,False,Bjelica 25' 3PT Jump Shot (7 PTS) (Bogdanovic 2 AST),,12-12,12,12
 0021800809,2019-02-06,SAC,HOU,4.52,1,7,29,HOU,SAC,foul,1,False,False,Bjelica P.FOUL (P1.T1) (R.Mott),,12-12,12,12
@@ -70,8 +70,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800809,2019-02-06,SAC,HOU,6.77,1,5,14,HOU,HOU,fg_miss,6,False,False,,MISS Harden 11' Driving Layup,16-14,16,14
 0021800809,2019-02-06,SAC,HOU,6.82,1,5,11,HOU,HOU,reb,0,False,False,,Harden REBOUND (Off:1 Def:0),16-14,16,14
 0021800809,2019-02-06,SAC,HOU,6.82,1,5,11,HOU,HOU,fg_miss,5,True,False,,MISS Harden 3' Layup,16-14,16,14
-0021800809,2019-02-06,SAC,HOU,6.82,1,5,11,HOU,HOU,reb,0,False,False,,Rockets Rebound,16-14,16,14
 0021800809,2019-02-06,SAC,HOU,6.82,1,5,11,HOU,SAC,block,5,True,False,block,block,16-14,16,14
+0021800809,2019-02-06,SAC,HOU,6.82,1,5,11,HOU,HOU,reb,0,False,False,,Rockets Rebound,16-14,16,14
 0021800809,2019-02-06,SAC,HOU,7.0,1,5,0,HOU,HOU,fg_make,6,False,False,,Rivers 3' Driving Layup (2 PTS),16-16,16,16
 0021800809,2019-02-06,SAC,HOU,7.32,1,4,41,SAC,SAC,fg3_miss,1,False,False,MISS Bagley III 25' 3PT Jump Shot,,16-16,16,16
 0021800809,2019-02-06,SAC,HOU,7.38,1,4,37,HOU,HOU,reb,0,False,False,,Green REBOUND (Off:0 Def:1),16-16,16,16
@@ -356,11 +356,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800809,2019-02-06,SAC,HOU,36.0,4,12,0,HOU,,period_start,0,False,False,,,74-104,74,104
 0021800809,2019-02-06,SAC,HOU,36.28,4,11,43,SAC,SAC,fg_miss,6,True,False,MISS Bagley III 5' Driving Layup,,74-104,74,104
 0021800809,2019-02-06,SAC,HOU,36.28,4,11,43,SAC,HOU,block,6,True,False,block,block,74-104,74,104
+0021800809,2019-02-06,SAC,HOU,36.3,4,11,42,SAC,SAC,reb,0,False,False,Bagley III REBOUND (Off:3 Def:5),,74-104,74,104
 0021800809,2019-02-06,SAC,HOU,36.3,4,11,42,SAC,SAC,fg_miss,44,True,False,MISS Bagley III 1' Reverse Layup,,74-104,74,104
+0021800809,2019-02-06,SAC,HOU,36.3,4,11,42,SAC,HOU,block,44,True,False,block,block,74-104,74,104
 0021800809,2019-02-06,SAC,HOU,36.3,4,11,42,SAC,SAC,reb,0,False,False,Labissiere REBOUND (Off:1 Def:0),,74-104,74,104
 0021800809,2019-02-06,SAC,HOU,36.3,4,11,42,SAC,SAC,fg_miss,3,False,False,MISS Labissiere 3' Hook Shot,,74-104,74,104
-0021800809,2019-02-06,SAC,HOU,36.3,4,11,42,SAC,SAC,reb,0,False,False,Bagley III REBOUND (Off:3 Def:5),,74-104,74,104
-0021800809,2019-02-06,SAC,HOU,36.3,4,11,42,SAC,HOU,block,44,True,False,block,block,74-104,74,104
 0021800809,2019-02-06,SAC,HOU,36.35,4,11,39,SAC,SAC,reb,0,False,False,Giles III REBOUND (Off:2 Def:1),,74-104,74,104
 0021800809,2019-02-06,SAC,HOU,36.38,4,11,37,SAC,SAC,fg_miss,97,False,False,MISS Giles III 5' Tip Layup Shot,,74-104,74,104
 0021800809,2019-02-06,SAC,HOU,36.43,4,11,34,HOU,HOU,reb,0,False,False,,Paul REBOUND (Off:0 Def:2),74-104,74,104
@@ -427,8 +427,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800809,2019-02-06,SAC,HOU,43.08,4,4,55,SAC,SAC,tov,40,False,False,Labissiere Out of Bounds Lost Ball Turnover (P1.T21),,90-118,90,118
 0021800809,2019-02-06,SAC,HOU,43.47,4,4,32,HOU,HOU,fg_miss,63,True,False,,MISS Tucker 17' Fadeaway Jumper,90-118,90,118
 0021800809,2019-02-06,SAC,HOU,43.47,4,4,32,HOU,SAC,block,63,True,False,block,block,90-118,90,118
-0021800809,2019-02-06,SAC,HOU,43.48,4,4,31,HOU,HOU,reb,0,False,False,,Rockets Rebound,90-118,90,118
 0021800809,2019-02-06,SAC,HOU,43.48,4,4,31,HOU,HOU,tov,11,False,False,,Rockets Turnover: Shot Clock (T#10),90-118,90,118
+0021800809,2019-02-06,SAC,HOU,43.48,4,4,31,HOU,HOU,reb,0,False,False,,Rockets Rebound,90-118,90,118
 0021800809,2019-02-06,SAC,HOU,43.73,4,4,16,SAC,SAC,fg3_make,1,False,False,Labissiere 25' 3PT Jump Shot (3 PTS) (Mason 1 AST),,93-118,93,118
 0021800809,2019-02-06,SAC,HOU,44.05,4,3,57,HOU,HOU,fg_make,1,False,False,,Green 9' Jump Shot (25 PTS) (Paul 10 AST),93-120,93,120
 0021800809,2019-02-06,SAC,HOU,44.25,4,3,45,SAC,SAC,fg3_miss,1,False,False,MISS Ferrell 24' 3PT Jump Shot,,93-120,93,120

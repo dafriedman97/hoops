@@ -124,8 +124,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900103,2019-11-06,DET,NYK,15.8,2,8,12,NYK,NYK,fg_miss,80,False,False,,MISS Morris Sr. 16' Step Back Jump Shot,40-34,40,34
 0021900103,2019-11-06,DET,NYK,15.83,2,8,10,DET,DET,reb,0,False,False,Galloway REBOUND (Off:0 Def:2),,40-34,40,34
 0021900103,2019-11-06,DET,NYK,15.9,2,8,6,DET,DET,fg_miss,5,True,False,MISS Brown 3' Layup,,40-34,40,34
-0021900103,2019-11-06,DET,NYK,15.9,2,8,6,DET,DET,reb,0,False,False,PISTONS Rebound,,40-34,40,34
 0021900103,2019-11-06,DET,NYK,15.9,2,8,6,DET,NYK,block,5,True,False,block,block,40-34,40,34
+0021900103,2019-11-06,DET,NYK,15.9,2,8,6,DET,DET,reb,0,False,False,PISTONS Rebound,,40-34,40,34
 0021900103,2019-11-06,DET,NYK,16.02,2,7,59,DET,DET,fg3_make,1,False,False,Snell 27' 3PT Jump Shot (13 PTS) (Maker 1 AST),,43-34,43,34
 0021900103,2019-11-06,DET,NYK,16.17,2,7,50,NYK,NYK,fg_make,5,False,False,,Barrett 3' Layup (5 PTS),43-36,43,36
 0021900103,2019-11-06,DET,NYK,16.17,2,7,50,NYK,DET,foul,2,False,False,Maker S.FOUL (P1.T2) (B.Barnaky),,43-36,43,36
@@ -224,8 +224,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900103,2019-11-06,DET,NYK,27.85,3,8,9,NYK,NYK,fg3_make,1,False,False,,Ntilikina 26' 3PT Jump Shot (9 PTS) (Gibson 2 AST),74-72,74,72
 0021900103,2019-11-06,DET,NYK,28.17,3,7,50,DET,DET,fg3_make,1,False,False,Morris 27' 3PT Jump Shot (21 PTS) (Brown 5 AST),,77-72,77,72
 0021900103,2019-11-06,DET,NYK,28.17,3,7,50,DET,NYK,foul,14,False,False,,Randle FLAGRANT.FOUL.TYPE1 (P3.T2) (A.Moyer-Gleich),77-72,77,72
-0021900103,2019-11-06,DET,NYK,28.17,3,7,50,NYK,NYK,tov,0,False,False,,Randle No Turnover (P2.T6),77-72,77,72
 0021900103,2019-11-06,DET,NYK,28.17,3,7,50,NYK,DET,ft_make,20,False,False,Morris Free Throw Flagrant 1 of 1 (22 PTS),,78-72,78,72
+0021900103,2019-11-06,DET,NYK,28.17,3,7,50,NYK,NYK,tov,0,False,False,,Randle No Turnover (P2.T6),77-72,77,72
 0021900103,2019-11-06,DET,NYK,28.33,3,7,40,DET,DET,fg_make,5,False,False,Drummond 4' Layup (20 PTS) (Galloway 3 AST),,80-72,80,72
 0021900103,2019-11-06,DET,NYK,28.67,3,7,20,NYK,NYK,tov,1,False,True,,Barrett Bad Pass Turnover (P2.T7),80-72,80,72
 0021900103,2019-11-06,DET,NYK,28.67,3,7,20,NYK,DET,steal,1,False,True,steal,steal,80-72,80,72
@@ -289,8 +289,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900103,2019-11-06,DET,NYK,35.62,3,0,23,DET,DET,ft_miss,10,False,False,MISS Maker Free Throw 1 of 1,,96-85,96,85
 0021900103,2019-11-06,DET,NYK,35.65,3,0,21,NYK,NYK,reb,0,False,False,,Gibson REBOUND (Off:0 Def:3),96-85,96,85
 0021900103,2019-11-06,DET,NYK,35.98,3,0,1,NYK,NYK,fg3_miss,1,True,False,,MISS Ellington 26' 3PT Jump Shot,96-85,96,85
-0021900103,2019-11-06,DET,NYK,35.98,3,0,1,NYK,NYK,reb,0,False,False,,Knicks Rebound,96-85,96,85
 0021900103,2019-11-06,DET,NYK,35.98,3,0,1,NYK,DET,block,1,True,False,block,block,96-85,96,85
+0021900103,2019-11-06,DET,NYK,35.98,3,0,1,NYK,NYK,reb,0,False,False,,Knicks Rebound,96-85,96,85
 0021900103,2019-11-06,DET,NYK,36.0,3,0,0,NYK,,period_end,0,False,False,,,96-85,96,85
 0021900103,2019-11-06,DET,NYK,36.0,4,12,0,NYK,,period_start,0,False,False,,,96-85,96,85
 0021900103,2019-11-06,DET,NYK,36.28,4,11,43,DET,DET,fg3_make,1,False,False,Brown 24' 3PT Jump Shot (7 PTS) (Mykhailiuk 2 AST),,99-85,99,85
@@ -361,8 +361,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900103,2019-11-06,DET,NYK,43.37,4,4,38,DET,DET,tov,39,False,False,Kennard Step Out of Bounds Turnover (P3.T16),,113-95,113,95
 0021900103,2019-11-06,DET,NYK,43.53,4,4,28,NYK,DET,foul,1,False,False,Drummond P.FOUL (P1.T4) (B.Taylor),,113-95,113,95
 0021900103,2019-11-06,DET,NYK,43.7,4,4,18,NYK,NYK,tov,2,False,True,,Randle Lost Ball Turnover (P4.T14),113-95,113,95
-0021900103,2019-11-06,DET,NYK,43.7,4,4,18,DET,NYK,foul,1,False,False,,Randle P.FOUL (P5.T4) (B.Barnaky),113-95,113,95
 0021900103,2019-11-06,DET,NYK,43.7,4,4,18,NYK,DET,steal,2,False,True,steal,steal,113-95,113,95
+0021900103,2019-11-06,DET,NYK,43.7,4,4,18,DET,NYK,foul,1,False,False,,Randle P.FOUL (P5.T4) (B.Barnaky),113-95,113,95
 0021900103,2019-11-06,DET,NYK,43.83,4,4,10,DET,DET,fg_make,5,False,False,Kennard 3' Layup (10 PTS) (Morris 4 AST),,115-95,115,95
 0021900103,2019-11-06,DET,NYK,43.83,4,4,10,DET,NYK,foul,2,False,False,,Ntilikina S.FOUL (P2.PN) (B.Taylor),115-95,115,95
 0021900103,2019-11-06,DET,NYK,43.83,4,4,10,DET,DET,ft_make,10,False,False,Kennard Free Throw 1 of 1 (11 PTS),,116-95,116,95

@@ -144,8 +144,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701093,2018-03-24,DAL,CHA,15.02,2,8,59,CHA,CHA,fg3_make,1,False,False,,Kaminsky 25' 3PT Jump Shot (5 PTS) (Bacon 1 AST),30-30,30,30
 0021701093,2018-03-24,DAL,CHA,15.03,2,8,58,DAL,DAL,timeout,1,False,False,MAVERICKS Timeout: Regular (Full 2 Short 0),,30-30,30,30
 0021701093,2018-03-24,DAL,CHA,15.23,2,8,46,DAL,DAL,fg_miss,6,True,False,MISS McDermott 7' Driving Layup,,30-30,30,30
-0021701093,2018-03-24,DAL,CHA,15.23,2,8,46,CHA,CHA,reb,0,False,False,,Kaminsky REBOUND (Off:0 Def:2),30-30,30,30
 0021701093,2018-03-24,DAL,CHA,15.23,2,8,46,DAL,CHA,block,6,True,False,block,block,30-30,30,30
+0021701093,2018-03-24,DAL,CHA,15.23,2,8,46,CHA,CHA,reb,0,False,False,,Kaminsky REBOUND (Off:0 Def:2),30-30,30,30
 0021701093,2018-03-24,DAL,CHA,15.35,2,8,39,CHA,CHA,fg_miss,41,False,False,,MISS Monk 1' Running Layup,30-30,30,30
 0021701093,2018-03-24,DAL,CHA,15.38,2,8,37,DAL,DAL,reb,0,False,False,Nowitzki REBOUND (Off:0 Def:4),,30-30,30,30
 0021701093,2018-03-24,DAL,CHA,15.52,2,8,29,DAL,DAL,fg_make,47,False,False,Nowitzki 12' Turnaround Jump Shot (4 PTS) (Barea 2 AST),,32-30,32,30
@@ -350,8 +350,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701093,2018-03-24,DAL,CHA,37.52,4,10,29,CHA,CHA,fg_miss,5,False,False,,MISS Monk 2' Layup,72-81,72,81
 0021701093,2018-03-24,DAL,CHA,37.58,4,10,25,CHA,CHA,reb,0,False,False,,Hernangomez REBOUND (Off:1 Def:3),72-81,72,81
 0021701093,2018-03-24,DAL,CHA,37.72,4,10,17,CHA,CHA,fg_miss,5,True,False,,MISS Monk 2' Layup,72-81,72,81
-0021701093,2018-03-24,DAL,CHA,37.72,4,10,17,DAL,DAL,reb,0,False,False,Nowitzki REBOUND (Off:0 Def:9),,72-81,72,81
 0021701093,2018-03-24,DAL,CHA,37.72,4,10,17,CHA,DAL,block,5,True,False,block,block,72-81,72,81
+0021701093,2018-03-24,DAL,CHA,37.72,4,10,17,DAL,DAL,reb,0,False,False,Nowitzki REBOUND (Off:0 Def:9),,72-81,72,81
 0021701093,2018-03-24,DAL,CHA,37.83,4,10,10,DAL,CHA,foul,2,False,False,,Kaminsky S.FOUL (P1.T1) (B.Barnaky),72-81,72,81
 0021701093,2018-03-24,DAL,CHA,37.83,4,10,10,DAL,DAL,ft_make,13,False,False,McDermott Free Throw 1 of 3 (12 PTS),,73-81,73,81
 0021701093,2018-03-24,DAL,CHA,37.83,4,10,10,DAL,DAL,ft_make,14,False,False,McDermott Free Throw 2 of 3 (13 PTS),,74-81,74,81
@@ -364,9 +364,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701093,2018-03-24,DAL,CHA,38.27,4,9,44,CHA,CHA,fg_miss,5,False,False,,MISS Graham 1' Layup,75-81,75,81
 0021701093,2018-03-24,DAL,CHA,38.27,4,9,44,CHA,CHA,reb,0,False,False,,Hernangomez REBOUND (Off:2 Def:3),75-81,75,81
 0021701093,2018-03-24,DAL,CHA,38.27,4,9,44,CHA,DAL,foul,2,False,False,Powell S.FOUL (P3.T1) (B.Barnaky),,75-81,75,81
-0021701093,2018-03-24,DAL,CHA,38.27,4,9,44,CHA,,violation,1,False,False,,,75-81,75,81
 0021701093,2018-03-24,DAL,CHA,38.27,4,9,44,CHA,CHA,ft_make,11,False,False,,Hernangomez Free Throw 1 of 2 (3 PTS),75-82,75,82
 0021701093,2018-03-24,DAL,CHA,38.27,4,9,44,CHA,CHA,ft_miss,12,False,False,,MISS Hernangomez Free Throw 2 of 2,75-82,75,82
+0021701093,2018-03-24,DAL,CHA,38.27,4,9,44,CHA,,violation,1,False,False,,,75-81,75,81
 0021701093,2018-03-24,DAL,CHA,38.3,4,9,42,DAL,DAL,reb,0,False,False,Powell REBOUND (Off:0 Def:6),,75-82,75,82
 0021701093,2018-03-24,DAL,CHA,38.53,4,9,28,DAL,DAL,fg_make,101,False,False,Barea 8' Driving Floating Jump Shot (10 PTS),,77-82,77,82
 0021701093,2018-03-24,DAL,CHA,38.67,4,9,20,CHA,DAL,foul,1,False,False,McDermott P.FOUL (P3.T2) (J.Van Duyne),,77-82,77,82
@@ -439,8 +439,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701093,2018-03-24,DAL,CHA,45.27,4,2,44,CHA,CHA,ft_make,11,False,False,,Howard Free Throw 1 of 2 (17 PTS),91-94,91,94
 0021701093,2018-03-24,DAL,CHA,45.27,4,2,44,CHA,CHA,ft_make,12,False,False,,Howard Free Throw 2 of 2 (18 PTS),91-95,91,95
 0021701093,2018-03-24,DAL,CHA,45.55,4,2,27,DAL,DAL,fg_miss,47,True,False,MISS Barnes 10' Turnaround Jump Shot,,91-95,91,95
-0021701093,2018-03-24,DAL,CHA,45.55,4,2,27,CHA,CHA,reb,0,False,False,,Walker REBOUND (Off:0 Def:2),91-95,91,95
 0021701093,2018-03-24,DAL,CHA,45.55,4,2,27,DAL,CHA,block,47,True,False,block,block,91-95,91,95
+0021701093,2018-03-24,DAL,CHA,45.55,4,2,27,CHA,CHA,reb,0,False,False,,Walker REBOUND (Off:0 Def:2),91-95,91,95
 0021701093,2018-03-24,DAL,CHA,45.92,4,2,5,CHA,CHA,fg3_make,80,False,False,,Walker 25' 3PT Step Back Jump Shot (24 PTS),91-98,91,98
 0021701093,2018-03-24,DAL,CHA,46.17,4,1,50,DAL,DAL,fg3_make,1,False,False,Ferrell 3PT Jump Shot (16 PTS) (Smith Jr. 6 AST),,94-98,94,98
 0021701093,2018-03-24,DAL,CHA,46.43,4,1,34,CHA,CHA,fg_miss,101,False,False,,MISS Lamb 12' Driving Floating Jump Shot,94-98,94,98

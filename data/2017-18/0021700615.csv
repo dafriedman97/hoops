@@ -156,8 +156,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700615,2018-01-11,TOR,CLE,16.12,2,7,53,CLE,CLE,fg_make,58,False,False,,Green 6' Turnaround Hook Shot (6 PTS),44-34,44,34
 0021700615,2018-01-11,TOR,CLE,16.47,2,7,32,TOR,TOR,fg_make,93,False,False,VanVleet 4' Driving Bank Hook Shot (10 PTS),,46-34,46,34
 0021700615,2018-01-11,TOR,CLE,16.78,2,7,13,CLE,CLE,fg_miss,98,True,False,,MISS Green 2' Cutting Layup Shot,46-34,46,34
-0021700615,2018-01-11,TOR,CLE,16.78,2,7,13,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,46-34,46,34
 0021700615,2018-01-11,TOR,CLE,16.78,2,7,13,CLE,TOR,block,98,True,False,block,block,46-34,46,34
+0021700615,2018-01-11,TOR,CLE,16.78,2,7,13,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,46-34,46,34
 0021700615,2018-01-11,TOR,CLE,16.92,2,7,5,CLE,CLE,fg_miss,47,False,False,,MISS Green 18' Turnaround Jump Shot,46-34,46,34
 0021700615,2018-01-11,TOR,CLE,16.95,2,7,3,TOR,TOR,reb,0,False,False,VanVleet REBOUND (Off:0 Def:1),,46-34,46,34
 0021700615,2018-01-11,TOR,CLE,17.02,2,6,59,TOR,TOR,fg3_make,79,False,False,VanVleet 25' 3PT Pullup Jump Shot (13 PTS),,49-34,49,34
@@ -166,8 +166,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700615,2018-01-11,TOR,CLE,17.43,2,6,34,TOR,TOR,fg_miss,2,False,False,MISS Brown 5' Running Jump Shot,,49-34,49,34
 0021700615,2018-01-11,TOR,CLE,17.48,2,6,31,CLE,CLE,reb,0,False,False,,Green REBOUND (Off:1 Def:1),49-34,49,34
 0021700615,2018-01-11,TOR,CLE,17.55,2,6,27,CLE,CLE,fg_miss,41,True,False,,MISS Crowder 2' Running Layup,49-34,49,34
-0021700615,2018-01-11,TOR,CLE,17.55,2,6,27,TOR,TOR,reb,0,False,False,VanVleet REBOUND (Off:0 Def:2),,49-34,49,34
 0021700615,2018-01-11,TOR,CLE,17.55,2,6,27,CLE,TOR,block,41,True,False,block,block,49-34,49,34
+0021700615,2018-01-11,TOR,CLE,17.55,2,6,27,TOR,TOR,reb,0,False,False,VanVleet REBOUND (Off:0 Def:2),,49-34,49,34
 0021700615,2018-01-11,TOR,CLE,17.67,2,6,20,TOR,TOR,fg_make,74,False,False,Powell 2' Running Reverse Layup (8 PTS) (VanVleet 3 AST),,51-34,51,34
 0021700615,2018-01-11,TOR,CLE,17.67,2,6,20,CLE,CLE,timeout,1,False,False,,Cavaliers Timeout: Regular (Reg.4 Short 0),51-34,51,34
 0021700615,2018-01-11,TOR,CLE,17.92,2,6,5,CLE,TOR,foul,1,False,False,Powell P.FOUL (P1.T3) (C.Blair),,51-34,51,34
@@ -221,8 +221,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700615,2018-01-11,TOR,CLE,23.02,2,0,59,CLE,TOR,block,79,True,False,block,block,65-40,65,40
 0021700615,2018-01-11,TOR,CLE,23.07,2,0,56,TOR,TOR,reb,0,False,False,Miles REBOUND (Off:2 Def:1),,65-40,65,40
 0021700615,2018-01-11,TOR,CLE,23.08,2,0,55,TOR,TOR,fg_miss,76,True,False,MISS Wright 2' Running Finger Roll Layup,,65-40,65,40
-0021700615,2018-01-11,TOR,CLE,23.08,2,0,55,TOR,TOR,reb,0,False,False,DeRozan REBOUND (Off:1 Def:0),,65-40,65,40
 0021700615,2018-01-11,TOR,CLE,23.08,2,0,55,TOR,CLE,block,76,True,False,block,block,65-40,65,40
+0021700615,2018-01-11,TOR,CLE,23.08,2,0,55,TOR,TOR,reb,0,False,False,DeRozan REBOUND (Off:1 Def:0),,65-40,65,40
 0021700615,2018-01-11,TOR,CLE,23.1,2,0,54,TOR,TOR,fg_miss,97,False,False,MISS DeRozan 1' Tip Layup Shot,,65-40,65,40
 0021700615,2018-01-11,TOR,CLE,23.1,2,0,54,TOR,TOR,reb,0,False,False,DeRozan REBOUND (Off:2 Def:0),,65-40,65,40
 0021700615,2018-01-11,TOR,CLE,23.45,2,0,33,TOR,TOR,fg3_miss,79,False,False,MISS DeRozan 25' 3PT Pullup Jump Shot,,65-40,65,40
@@ -230,10 +230,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700615,2018-01-11,TOR,CLE,23.72,2,0,17,CLE,CLE,fg_miss,3,False,False,,MISS Thompson 5' Hook Shot,65-40,65,40
 0021700615,2018-01-11,TOR,CLE,23.77,2,0,14,TOR,TOR,reb,0,False,False,Miles REBOUND (Off:2 Def:2),,65-40,65,40
 0021700615,2018-01-11,TOR,CLE,24.0,2,0,0,TOR,TOR,fg_miss,98,True,False,MISS Poeltl 6' Cutting Layup Shot,,65-40,65,40
+0021700615,2018-01-11,TOR,CLE,24.0,2,0,0,TOR,CLE,block,98,True,False,block,block,65-40,65,40
 0021700615,2018-01-11,TOR,CLE,24.0,2,0,0,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,65-40,65,40
 0021700615,2018-01-11,TOR,CLE,24.0,2,0,0,TOR,,period_end,0,False,False,,,65-40,65,40
 0021700615,2018-01-11,TOR,CLE,24.0,3,12,0,TOR,,period_start,0,False,False,,,65-40,65,40
-0021700615,2018-01-11,TOR,CLE,24.0,2,0,0,TOR,CLE,block,98,True,False,block,block,65-40,65,40
 0021700615,2018-01-11,TOR,CLE,24.22,3,11,47,CLE,CLE,fg_miss,1,False,False,,MISS Love 23' Jump Shot,65-40,65,40
 0021700615,2018-01-11,TOR,CLE,24.25,3,11,45,TOR,TOR,reb,0,False,False,Valanciunas REBOUND (Off:3 Def:9),,65-40,65,40
 0021700615,2018-01-11,TOR,CLE,24.4,3,11,36,TOR,CLE,foul,1,False,False,,Crowder P.FOUL (P3.T1) (C.Blair),65-40,65,40

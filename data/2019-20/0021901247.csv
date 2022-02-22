@@ -45,8 +45,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901247,2020-08-02,ORL,SAC,5.25,1,6,45,ORL,ORL,fg3_make,1,False,False,Augustin 27' 3PT Jump Shot (3 PTS) (Gordon 1 AST),,21-12,21,12
 0021901247,2020-08-02,ORL,SAC,5.27,1,6,44,SAC,SAC,timeout,1,False,False,,Kings Timeout: Regular (Reg.1 Short 0),21-12,21,12
 0021901247,2020-08-02,ORL,SAC,5.53,1,6,28,SAC,SAC,fg3_miss,79,False,False,,MISS Hield 24' 3PT Pullup Jump Shot,21-12,21,12
-0021901247,2020-08-02,ORL,SAC,5.62,1,6,23,ORL,ORL,reb,0,False,False,MAGIC Rebound,,21-12,21,12
 0021901247,2020-08-02,ORL,SAC,5.62,1,6,23,,ORL,jump_ball,0,False,False,Jump Ball Vucevic vs. Barnes: Tip to Augustin,,21-12,21,12
+0021901247,2020-08-02,ORL,SAC,5.62,1,6,23,ORL,ORL,reb,0,False,False,MAGIC Rebound,,21-12,21,12
 0021901247,2020-08-02,ORL,SAC,5.87,1,6,8,ORL,ORL,fg_miss,86,False,False,MISS Gordon 10' Turnaround Fadeaway Shot,,21-12,21,12
 0021901247,2020-08-02,ORL,SAC,5.9,1,6,6,ORL,ORL,reb,0,False,False,Ennis III REBOUND (Off:1 Def:1),,21-12,21,12
 0021901247,2020-08-02,ORL,SAC,5.95,1,6,3,ORL,ORL,tov,2,False,True,Ennis III Lost Ball Turnover (P1.T1),,21-12,21,12
@@ -57,9 +57,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901247,2020-08-02,ORL,SAC,6.6,1,5,24,ORL,ORL,reb,0,False,False,Ennis III REBOUND (Off:2 Def:1),,21-14,21,14
 0021901247,2020-08-02,ORL,SAC,6.62,1,5,23,ORL,ORL,fg_miss,72,False,False,MISS Ennis III 2' Putback Layup,,21-14,21,14
 0021901247,2020-08-02,ORL,SAC,6.67,1,5,20,SAC,SAC,reb,0,False,False,,Barnes REBOUND (Off:0 Def:1),21-14,21,14
+0021901247,2020-08-02,ORL,SAC,6.93,1,5,4,SAC,SAC,timeout,1,False,False,,Kings Timeout: Regular (Reg.2 Short 0),21-16,21,16
 0021901247,2020-08-02,ORL,SAC,6.93,1,5,4,SAC,SAC,fg_make,6,False,False,,Fox 3' Driving Layup (4 PTS),21-16,21,16
 0021901247,2020-08-02,ORL,SAC,6.93,1,5,4,SAC,ORL,foul,2,False,False,Augustin S.FOUL (P1.T4) (E.Malloy),,21-16,21,16
-0021901247,2020-08-02,ORL,SAC,6.93,1,5,4,SAC,SAC,timeout,1,False,False,,Kings Timeout: Regular (Reg.2 Short 0),21-16,21,16
 0021901247,2020-08-02,ORL,SAC,6.93,1,5,4,SAC,SAC,ft_make,10,False,False,,Fox Free Throw 1 of 1 (5 PTS),21-17,21,17
 0021901247,2020-08-02,ORL,SAC,7.3,1,4,42,ORL,ORL,fg_miss,86,False,False,MISS Gordon 22' Turnaround Fadeaway Shot,,21-17,21,17
 0021901247,2020-08-02,ORL,SAC,7.38,1,4,37,SAC,SAC,reb,0,False,False,,Hield REBOUND (Off:0 Def:1),21-17,21,17
@@ -194,9 +194,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901247,2020-08-02,ORL,SAC,22.22,2,1,47,SAC,ORL,foul,2,False,False,Carter-Williams S.FOUL (P1.T3) (S.Corbin),,72-50,72,50
 0021901247,2020-08-02,ORL,SAC,22.22,2,1,47,SAC,SAC,ft_make,11,False,False,,Giles III Free Throw 1 of 2 (7 PTS),72-51,72,51
 0021901247,2020-08-02,ORL,SAC,22.22,2,1,47,SAC,SAC,ft_make,12,False,False,,Giles III Free Throw 2 of 2 (8 PTS),72-52,72,52
-0021901247,2020-08-02,ORL,SAC,22.32,2,1,41,ORL,SAC,foul,1,False,False,,Fox P.FOUL (P2.T4) (E.Malloy),72-52,72,52
 0021901247,2020-08-02,ORL,SAC,22.32,2,1,41,ORL,SAC,foul,6,False,False,,Bjelica AWAY.FROM.PLAY.FOUL (P2.PN) (S.Corbin),72-52,72,52
 0021901247,2020-08-02,ORL,SAC,22.32,2,1,41,ORL,ORL,ft_make,10,False,False,Augustin Free Throw 1 of 1 (7 PTS),,73-52,73,52
+0021901247,2020-08-02,ORL,SAC,22.32,2,1,41,ORL,SAC,foul,1,False,False,,Fox P.FOUL (P2.T4) (E.Malloy),72-52,72,52
 0021901247,2020-08-02,ORL,SAC,22.55,2,1,27,ORL,ORL,fg_make,86,False,False,Gordon 12' Turnaround Fadeaway (19 PTS),,75-52,75,52
 0021901247,2020-08-02,ORL,SAC,22.58,2,1,25,SAC,ORL,violation,1,False,False,MAGIC Violation: Delay of game Violation,,75-52,75,52
 0021901247,2020-08-02,ORL,SAC,22.73,2,1,16,SAC,SAC,fg3_miss,1,False,False,,MISS Bjelica 27' 3PT Jump Shot,75-52,75,52
@@ -263,8 +263,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901247,2020-08-02,ORL,SAC,27.97,3,8,2,ORL,ORL,tov,2,False,True,Gordon Lost Ball Turnover (P2.T8),,86-60,86,60
 0021901247,2020-08-02,ORL,SAC,27.97,3,8,2,ORL,SAC,steal,2,False,True,steal,steal,86-60,86,60
 0021901247,2020-08-02,ORL,SAC,28.05,3,7,57,SAC,SAC,tov,1,False,True,,Fox Bad Pass Turnover (P3.T9),86-60,86,60
-0021901247,2020-08-02,ORL,SAC,28.05,3,7,57,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 3 Short 0),,86-60,86,60
 0021901247,2020-08-02,ORL,SAC,28.05,3,7,57,SAC,ORL,steal,1,False,True,steal,steal,86-60,86,60
+0021901247,2020-08-02,ORL,SAC,28.05,3,7,57,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 3 Short 0),,86-60,86,60
 0021901247,2020-08-02,ORL,SAC,28.33,3,7,40,ORL,ORL,fg_make,108,False,False,Vucevic Cutting Dunk Shot (13 PTS) (Fournier 2 AST),,88-60,88,60
 0021901247,2020-08-02,ORL,SAC,28.6,3,7,24,SAC,SAC,fg_make,47,False,False,,Barnes 6' Turnaround Jump Shot (10 PTS),88-62,88,62
 0021901247,2020-08-02,ORL,SAC,28.85,3,7,9,ORL,ORL,fg3_make,1,False,False,Vucevic 28' 3PT Jump Shot (16 PTS) (Augustin 7 AST),,91-62,91,62
@@ -317,11 +317,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901247,2020-08-02,ORL,SAC,34.23,3,1,46,SAC,SAC,fg_miss,79,False,False,,MISS Joseph 19' Pullup Jump Shot,107-73,107,73
 0021901247,2020-08-02,ORL,SAC,34.28,3,1,43,ORL,ORL,reb,0,False,False,Isaac REBOUND (Off:0 Def:3),,107-73,107,73
 0021901247,2020-08-02,ORL,SAC,34.47,3,1,32,ORL,ORL,tov,2,False,True,Isaac Lost Ball Turnover (P1.T10),,107-73,107,73
-0021901247,2020-08-02,ORL,SAC,34.47,3,1,32,SAC,ORL,foul,1,False,False,Isaac P.FOUL (P2.T4) (E.Malloy),,107-73,107,73
 0021901247,2020-08-02,ORL,SAC,34.47,3,1,32,ORL,SAC,steal,2,False,True,steal,steal,107-73,107,73
+0021901247,2020-08-02,ORL,SAC,34.47,3,1,32,SAC,ORL,foul,1,False,False,Isaac P.FOUL (P2.T4) (E.Malloy),,107-73,107,73
 0021901247,2020-08-02,ORL,SAC,34.62,3,1,23,SAC,SAC,tov,2,False,True,,Hield Lost Ball Turnover (P3.T11),107-73,107,73
-0021901247,2020-08-02,ORL,SAC,34.62,3,1,23,ORL,SAC,foul,28,False,False,,Giles III Personal Take Foul (P3.PN) (S.Corbin),107-73,107,73
 0021901247,2020-08-02,ORL,SAC,34.62,3,1,23,SAC,ORL,steal,2,False,True,steal,steal,107-73,107,73
+0021901247,2020-08-02,ORL,SAC,34.62,3,1,23,ORL,SAC,foul,28,False,False,,Giles III Personal Take Foul (P3.PN) (S.Corbin),107-73,107,73
 0021901247,2020-08-02,ORL,SAC,34.62,3,1,23,ORL,ORL,ft_make,11,False,False,Carter-Williams Free Throw 1 of 2 (5 PTS),,108-73,108,73
 0021901247,2020-08-02,ORL,SAC,34.62,3,1,23,ORL,ORL,ft_make,12,False,False,Carter-Williams Free Throw 2 of 2 (6 PTS),,109-73,109,73
 0021901247,2020-08-02,ORL,SAC,34.83,3,1,10,SAC,SAC,fg3_make,79,False,False,,Hield 25' 3PT Pullup Jump Shot (10 PTS) (Bazemore 3 AST),109-76,109,76
@@ -337,14 +337,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901247,2020-08-02,ORL,SAC,35.73,3,0,16,ORL,ORL,ft_make,14,False,False,Ross Free Throw 2 of 3 (20 PTS),,112-78,112,78
 0021901247,2020-08-02,ORL,SAC,35.73,3,0,16,ORL,ORL,ft_make,15,False,False,Ross Free Throw 3 of 3 (21 PTS),,113-78,113,78
 0021901247,2020-08-02,ORL,SAC,36.0,3,0,0,SAC,SAC,fg3_miss,79,True,False,,MISS Hield 25' 3PT Pullup Jump Shot,113-78,113,78
+0021901247,2020-08-02,ORL,SAC,36.0,3,0,0,SAC,ORL,block,79,True,False,block,block,113-78,113,78
 0021901247,2020-08-02,ORL,SAC,36.0,3,0,0,ORL,ORL,reb,0,False,False,Ross REBOUND (Off:0 Def:2),,113-78,113,78
 0021901247,2020-08-02,ORL,SAC,36.0,3,0,0,ORL,,period_end,0,False,False,,,113-78,113,78
 0021901247,2020-08-02,ORL,SAC,36.0,4,12,0,ORL,,period_start,0,False,False,,,113-78,113,78
-0021901247,2020-08-02,ORL,SAC,36.0,3,0,0,SAC,ORL,block,79,True,False,block,block,113-78,113,78
-0021901247,2020-08-02,ORL,SAC,36.4,4,11,36,SAC,SAC,fg_miss,79,True,False,,MISS Bogdanovic 9' Pullup Jump Shot,113-78,113,78
-0021901247,2020-08-02,ORL,SAC,36.4,4,11,36,SAC,SAC,reb,0,False,False,,Kings Rebound,113-78,113,78
 0021901247,2020-08-02,ORL,SAC,36.4,4,11,36,SAC,SAC,tov,11,False,False,,Kings Turnover: Shot Clock (T#12),113-78,113,78
+0021901247,2020-08-02,ORL,SAC,36.4,4,11,36,SAC,SAC,fg_miss,79,True,False,,MISS Bogdanovic 9' Pullup Jump Shot,113-78,113,78
 0021901247,2020-08-02,ORL,SAC,36.4,4,11,36,SAC,ORL,block,79,True,False,block,block,113-78,113,78
+0021901247,2020-08-02,ORL,SAC,36.4,4,11,36,SAC,SAC,reb,0,False,False,,Kings Rebound,113-78,113,78
 0021901247,2020-08-02,ORL,SAC,36.7,4,11,18,ORL,SAC,foul,2,False,False,,Bazemore S.FOUL (P6.T1) (E.Malloy),113-78,113,78
 0021901247,2020-08-02,ORL,SAC,36.7,4,11,18,ORL,ORL,ft_make,11,False,False,Carter-Williams Free Throw 1 of 2 (7 PTS),,114-78,114,78
 0021901247,2020-08-02,ORL,SAC,36.7,4,11,18,ORL,ORL,ft_miss,12,False,False,MISS Carter-Williams Free Throw 2 of 2,,114-78,114,78
@@ -357,8 +357,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901247,2020-08-02,ORL,SAC,37.4,4,10,36,SAC,SAC,reb,0,False,False,,Jeffries REBOUND (Off:0 Def:1),114-81,114,81
 0021901247,2020-08-02,ORL,SAC,37.5,4,10,30,SAC,SAC,fg3_make,1,False,False,,Jeffries 25' 3PT Jump Shot (3 PTS) (Joseph 5 AST),114-84,114,84
 0021901247,2020-08-02,ORL,SAC,37.68,4,10,19,ORL,ORL,tov,2,False,True,Fultz Lost Ball Turnover (P2.T11),,114-84,114,84
-0021901247,2020-08-02,ORL,SAC,37.68,4,10,19,SAC,ORL,foul,28,False,False,Carter-Williams Personal Take Foul (P2.T1) (K.Lane),,114-84,114,84
 0021901247,2020-08-02,ORL,SAC,37.68,4,10,19,ORL,SAC,steal,2,False,True,steal,steal,114-84,114,84
+0021901247,2020-08-02,ORL,SAC,37.68,4,10,19,SAC,ORL,foul,28,False,False,Carter-Williams Personal Take Foul (P2.T1) (K.Lane),,114-84,114,84
 0021901247,2020-08-02,ORL,SAC,37.8,4,10,12,SAC,SAC,tov,40,False,False,,Joseph Out of Bounds Lost Ball Turnover (P2.T13),114-84,114,84
 0021901247,2020-08-02,ORL,SAC,38.18,4,9,49,ORL,ORL,fg_miss,63,False,False,MISS Fultz 12' Fadeaway Jumper,,114-84,114,84
 0021901247,2020-08-02,ORL,SAC,38.25,4,9,45,SAC,SAC,reb,0,False,False,,Bogdanovic REBOUND (Off:1 Def:3),114-84,114,84
@@ -447,8 +447,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901247,2020-08-02,ORL,SAC,46.98,4,1,1,ORL,ORL,fg_miss,1,False,False,MISS Bamba 18' Jump Shot,,132-112,132,112
 0021901247,2020-08-02,ORL,SAC,47.02,4,0,59,SAC,SAC,reb,0,False,False,,Brewer REBOUND (Off:1 Def:2),132-112,132,112
 0021901247,2020-08-02,ORL,SAC,47.05,4,0,57,SAC,SAC,fg_miss,41,True,False,,MISS Parker 2' Running Layup,132-112,132,112
-0021901247,2020-08-02,ORL,SAC,47.05,4,0,57,SAC,SAC,reb,0,False,False,,Giles III REBOUND (Off:4 Def:4),132-112,132,112
 0021901247,2020-08-02,ORL,SAC,47.05,4,0,57,SAC,ORL,block,41,True,False,block,block,132-112,132,112
+0021901247,2020-08-02,ORL,SAC,47.05,4,0,57,SAC,SAC,reb,0,False,False,,Giles III REBOUND (Off:4 Def:4),132-112,132,112
 0021901247,2020-08-02,ORL,SAC,47.07,4,0,56,SAC,SAC,fg_make,72,False,False,,Giles III 1' Putback Layup (21 PTS),132-114,132,114
 0021901247,2020-08-02,ORL,SAC,47.23,4,0,46,ORL,ORL,fg3_miss,1,False,False,MISS Ennis III 28' 3PT Jump Shot,,132-114,132,114
 0021901247,2020-08-02,ORL,SAC,47.3,4,0,42,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:1 Def:0),,132-114,132,114

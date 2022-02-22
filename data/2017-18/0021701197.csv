@@ -30,8 +30,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701197,2018-04-08,CHA,IND,3.32,1,8,41,CHA,CHA,fg3_make,1,False,False,Williams 26' 3PT Jump Shot (6 PTS) (Walker 1 AST),,10-7,10,7
 0021701197,2018-04-08,CHA,IND,3.58,1,8,25,IND,IND,fg_miss,1,True,False,,MISS Sabonis 8' Jump Shot,10-7,10,7
 0021701197,2018-04-08,CHA,IND,3.58,1,8,25,IND,CHA,block,1,True,False,block,block,10-7,10,7
-0021701197,2018-04-08,CHA,IND,3.63,1,8,22,IND,IND,fg_miss,97,False,False,,MISS Young 4' Tip Layup Shot,10-7,10,7
 0021701197,2018-04-08,CHA,IND,3.63,1,8,22,IND,IND,reb,0,False,False,,Young REBOUND (Off:1 Def:0),10-7,10,7
+0021701197,2018-04-08,CHA,IND,3.63,1,8,22,IND,IND,fg_miss,97,False,False,,MISS Young 4' Tip Layup Shot,10-7,10,7
 0021701197,2018-04-08,CHA,IND,3.65,1,8,21,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:1 Def:0),10-7,10,7
 0021701197,2018-04-08,CHA,IND,3.67,1,8,20,IND,IND,fg_make,72,False,False,,Sabonis 1' Putback Layup (6 PTS),10-9,10,9
 0021701197,2018-04-08,CHA,IND,3.87,1,8,8,CHA,CHA,fg3_miss,1,False,False,MISS Walker 27' 3PT Jump Shot,,10-9,10,9
@@ -46,9 +46,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701197,2018-04-08,CHA,IND,4.77,1,7,14,CHA,CHA,tov,40,False,False,Walker Out of Bounds Lost Ball Turnover (P1.T3),,12-12,12,12
 0021701197,2018-04-08,CHA,IND,4.98,1,7,1,IND,IND,fg_make,80,False,False,,Bogdanovic 15' Step Back Jump Shot (2 PTS),12-14,12,14
 0021701197,2018-04-08,CHA,IND,5.23,1,6,46,CHA,CHA,tov,2,False,True,Kidd-Gilchrist Lost Ball Turnover (P1.T4),,12-14,12,14
+0021701197,2018-04-08,CHA,IND,5.23,1,6,46,CHA,IND,steal,2,False,True,steal,steal,12-14,12,14
 0021701197,2018-04-08,CHA,IND,5.23,1,6,46,IND,CHA,foul,1,False,False,Kidd-Gilchrist P.FOUL (P1.T3) (B.Barnaky),,12-14,12,14
 0021701197,2018-04-08,CHA,IND,5.23,1,6,46,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 1 Short 0),,12-14,12,14
-0021701197,2018-04-08,CHA,IND,5.23,1,6,46,CHA,IND,steal,2,False,True,steal,steal,12-14,12,14
 0021701197,2018-04-08,CHA,IND,5.57,1,6,26,IND,IND,tov,8,False,False,,Sabonis 3 Second Violation Turnover (P1.T1),12-14,12,14
 0021701197,2018-04-08,CHA,IND,5.75,1,6,15,CHA,CHA,tov,1,False,True,Batum Bad Pass Turnover (P1.T5),,12-14,12,14
 0021701197,2018-04-08,CHA,IND,5.75,1,6,15,CHA,IND,steal,1,False,True,steal,steal,12-14,12,14
@@ -180,8 +180,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701197,2018-04-08,CHA,IND,23.02,2,0,59,IND,IND,fg_make,5,False,False,,Collison 3' Layup (4 PTS) (Oladipo 5 AST),52-68,52,68
 0021701197,2018-04-08,CHA,IND,23.17,2,0,50,CHA,CHA,fg3_make,1,False,False,Batum 25' 3PT Jump Shot (3 PTS) (Walker 5 AST),,55-68,55,68
 0021701197,2018-04-08,CHA,IND,23.47,2,0,32,IND,IND,tov,1,False,True,,Booker Bad Pass Turnover (P1.T5),55-68,55,68
-0021701197,2018-04-08,CHA,IND,23.47,2,0,32,CHA,IND,foul,1,False,False,,Collison P.FOUL (P1.PN) (B.Barnaky),55-68,55,68
 0021701197,2018-04-08,CHA,IND,23.47,2,0,32,IND,CHA,steal,1,False,True,steal,steal,55-68,55,68
+0021701197,2018-04-08,CHA,IND,23.47,2,0,32,CHA,IND,foul,1,False,False,,Collison P.FOUL (P1.PN) (B.Barnaky),55-68,55,68
 0021701197,2018-04-08,CHA,IND,23.47,2,0,32,CHA,CHA,ft_make,11,False,False,Walker Free Throw 1 of 2 (8 PTS),,56-68,56,68
 0021701197,2018-04-08,CHA,IND,23.47,2,0,32,CHA,CHA,ft_make,12,False,False,Walker Free Throw 2 of 2 (9 PTS),,57-68,57,68
 0021701197,2018-04-08,CHA,IND,23.6,2,0,24,IND,IND,fg_make,6,False,False,,Oladipo 2' Driving Layup (19 PTS),57-70,57,70
@@ -280,8 +280,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701197,2018-04-08,CHA,IND,33.55,3,2,27,CHA,IND,steal,2,False,True,steal,steal,77-89,77,89
 0021701197,2018-04-08,CHA,IND,33.68,3,2,19,IND,IND,fg_make,108,False,False,,Sabonis 2' Cutting Dunk Shot (20 PTS) (Stephenson 9 AST),77-91,77,91
 0021701197,2018-04-08,CHA,IND,34.07,3,1,56,CHA,CHA,fg_miss,5,True,False,MISS Howard 2' Layup,,77-91,77,91
-0021701197,2018-04-08,CHA,IND,34.07,3,1,56,IND,IND,reb,0,False,False,,Pacers Rebound,77-91,77,91
 0021701197,2018-04-08,CHA,IND,34.07,3,1,56,CHA,IND,block,5,True,False,block,block,77-91,77,91
+0021701197,2018-04-08,CHA,IND,34.07,3,1,56,IND,IND,reb,0,False,False,,Pacers Rebound,77-91,77,91
 0021701197,2018-04-08,CHA,IND,34.27,3,1,44,IND,CHA,foul,2,False,False,Howard S.FOUL (P4.T2) (B.Barnaky),,77-91,77,91
 0021701197,2018-04-08,CHA,IND,34.27,3,1,44,IND,IND,ft_make,11,False,False,,Sabonis Free Throw 1 of 2 (21 PTS),77-92,77,92
 0021701197,2018-04-08,CHA,IND,34.27,3,1,44,IND,IND,ft_make,12,False,False,,Sabonis Free Throw 2 of 2 (22 PTS),77-93,77,93

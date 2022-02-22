@@ -36,8 +36,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900904,2020-03-02,ORL,POR,4.12,1,7,53,ORL,ORL,reb,0,False,False,MAGIC Rebound,,10-9,10,9
 0021900904,2020-03-02,ORL,POR,4.12,1,7,53,ORL,POR,foul,3,False,False,,Trent Jr. L.B.FOUL (P1.T3) (K.Scott),10-9,10,9
 0021900904,2020-03-02,ORL,POR,4.27,1,7,44,ORL,ORL,fg_miss,6,False,False,MISS Fultz 1' Driving Layup,,10-9,10,9
-0021900904,2020-03-02,ORL,POR,4.37,1,7,38,ORL,ORL,fg_make,97,False,False,Vucevic 1' Tip Layup Shot (10 PTS),,12-9,12,9
 0021900904,2020-03-02,ORL,POR,4.37,1,7,38,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:1 Def:2),,12-9,12,9
+0021900904,2020-03-02,ORL,POR,4.37,1,7,38,ORL,ORL,fg_make,97,False,False,Vucevic 1' Tip Layup Shot (10 PTS),,12-9,12,9
 0021900904,2020-03-02,ORL,POR,4.52,1,7,29,POR,POR,fg_miss,5,False,False,,MISS Anthony 2' Layup,12-9,12,9
 0021900904,2020-03-02,ORL,POR,4.62,1,7,23,POR,POR,reb,0,False,False,,Anthony REBOUND (Off:1 Def:1),12-9,12,9
 0021900904,2020-03-02,ORL,POR,4.62,1,7,23,POR,POR,fg_make,97,False,False,,Anthony 1' Tip Layup Shot (2 PTS),12-11,12,11
@@ -157,8 +157,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900904,2020-03-02,ORL,POR,18.68,2,5,19,POR,POR,ft_make,11,False,False,,McCollum Free Throw 1 of 2 (20 PTS),49-56,49,56
 0021900904,2020-03-02,ORL,POR,18.68,2,5,19,POR,POR,ft_make,12,False,False,,McCollum Free Throw 2 of 2 (21 PTS),49-57,49,57
 0021900904,2020-03-02,ORL,POR,18.92,2,5,5,ORL,ORL,fg_miss,6,True,False,MISS Ennis III 3' Driving Layup,,49-57,49,57
-0021900904,2020-03-02,ORL,POR,18.92,2,5,5,ORL,ORL,reb,0,False,False,MAGIC Rebound,,49-57,49,57
 0021900904,2020-03-02,ORL,POR,18.92,2,5,5,ORL,POR,block,6,True,False,block,block,49-57,49,57
+0021900904,2020-03-02,ORL,POR,18.92,2,5,5,ORL,ORL,reb,0,False,False,MAGIC Rebound,,49-57,49,57
 0021900904,2020-03-02,ORL,POR,19.0,2,5,0,ORL,ORL,fg_miss,79,False,False,MISS Fournier 10' Pullup Jump Shot,,49-57,49,57
 0021900904,2020-03-02,ORL,POR,19.07,2,4,56,POR,POR,reb,0,False,False,,Hezonja REBOUND (Off:0 Def:5),49-57,49,57
 0021900904,2020-03-02,ORL,POR,19.2,2,4,48,POR,POR,fg_miss,1,False,False,,MISS Whiteside 11' Jump Shot,49-57,49,57
@@ -232,8 +232,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900904,2020-03-02,ORL,POR,28.25,3,7,45,ORL,ORL,fg3_miss,1,False,False,MISS Fournier 27' 3PT Jump Shot,,67-73,67,73
 0021900904,2020-03-02,ORL,POR,28.3,3,7,42,POR,POR,reb,0,False,False,,Trent Jr. REBOUND (Off:0 Def:3),67-73,67,73
 0021900904,2020-03-02,ORL,POR,28.35,3,7,39,POR,POR,fg_miss,41,True,False,,MISS Trent Jr. 4' Running Layup,67-73,67,73
-0021900904,2020-03-02,ORL,POR,28.35,3,7,39,POR,POR,reb,0,False,False,,Trail Blazers Rebound,67-73,67,73
 0021900904,2020-03-02,ORL,POR,28.35,3,7,39,POR,ORL,block,41,True,False,block,block,67-73,67,73
+0021900904,2020-03-02,ORL,POR,28.35,3,7,39,POR,POR,reb,0,False,False,,Trail Blazers Rebound,67-73,67,73
 0021900904,2020-03-02,ORL,POR,28.43,3,7,34,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.3 Short 0),67-73,67,73
 0021900904,2020-03-02,ORL,POR,28.53,3,7,28,ORL,POR,foul,4,False,False,,McCollum OFF.Foul (P2) (G.Petraitis),67-73,67,73
 0021900904,2020-03-02,ORL,POR,28.53,3,7,28,POR,POR,tov,37,False,False,,McCollum Offensive Foul Turnover (P2.T5),67-73,67,73
@@ -307,10 +307,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900904,2020-03-02,ORL,POR,35.52,3,0,29,ORL,ORL,ft_make,16,False,False,Ross Free Throw Technical (23 PTS),,88-92,88,92
 0021900904,2020-03-02,ORL,POR,35.93,3,0,4,ORL,ORL,fg_miss,47,False,False,MISS Vucevic 22' Turnaround Jump Shot,,88-92,88,92
 0021900904,2020-03-02,ORL,POR,35.93,3,0,4,POR,POR,reb,0,False,False,,Trent Jr. REBOUND (Off:0 Def:4),88-92,88,92
-0021900904,2020-03-02,ORL,POR,36.0,3,0,0,POR,POR,fg3_miss,1,False,False,,MISS Ariza 28' 3PT Jump Shot,88-92,88,92
-0021900904,2020-03-02,ORL,POR,36.0,3,0,0,POR,POR,reb,0,False,False,,Trail Blazers Rebound,88-92,88,92
 0021900904,2020-03-02,ORL,POR,36.0,3,0,0,POR,,period_end,0,False,False,,,88-92,88,92
 0021900904,2020-03-02,ORL,POR,36.0,4,12,0,POR,,period_start,0,False,False,,,88-92,88,92
+0021900904,2020-03-02,ORL,POR,36.0,3,0,0,POR,POR,fg3_miss,1,False,False,,MISS Ariza 28' 3PT Jump Shot,88-92,88,92
+0021900904,2020-03-02,ORL,POR,36.0,3,0,0,POR,POR,reb,0,False,False,,Trail Blazers Rebound,88-92,88,92
 0021900904,2020-03-02,ORL,POR,36.22,4,11,47,POR,POR,fg_make,6,False,False,,Hezonja 6' Driving Layup (10 PTS),88-94,88,94
 0021900904,2020-03-02,ORL,POR,36.53,4,11,28,ORL,ORL,fg_miss,79,False,False,MISS Ross 16' Pullup Jump Shot,,88-94,88,94
 0021900904,2020-03-02,ORL,POR,36.6,4,11,24,POR,POR,reb,0,False,False,,Swanigan REBOUND (Off:0 Def:2),88-94,88,94

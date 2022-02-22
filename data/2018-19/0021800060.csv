@@ -106,13 +106,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800060,2018-10-24,PHX,LAL,10.78,1,1,13,PHX,PHX,fg_miss,44,True,False,MISS Jackson 1' Reverse Layup,,24-26,24,26
 0021800060,2018-10-24,PHX,LAL,10.78,1,1,13,PHX,LAL,block,44,True,False,block,block,24-26,24,26
 0021800060,2018-10-24,PHX,LAL,10.8,1,1,12,PHX,PHX,reb,0,False,False,Chandler REBOUND (Off:3 Def:3),,24-26,24,26
-0021800060,2018-10-24,PHX,LAL,10.82,1,1,11,PHX,PHX,fg_miss,97,False,False,MISS Chandler 3' Tip Layup Shot,,24-26,24,26
-0021800060,2018-10-24,PHX,LAL,10.82,1,1,11,PHX,PHX,reb,0,False,False,Chandler REBOUND (Off:2 Def:3),,24-26,24,26
 0021800060,2018-10-24,PHX,LAL,10.82,1,1,11,PHX,PHX,fg_miss,72,False,False,MISS Chandler Putback Layup,,24-26,24,26
 0021800060,2018-10-24,PHX,LAL,10.82,1,1,11,PHX,PHX,reb,0,False,False,Chandler REBOUND (Off:4 Def:3),,24-26,24,26
 0021800060,2018-10-24,PHX,LAL,10.82,1,1,11,PHX,LAL,foul,2,False,False,,McGee S.FOUL (P2.T4) (J.Tiven),24-26,24,26
 0021800060,2018-10-24,PHX,LAL,10.82,1,1,11,PHX,PHX,ft_make,11,False,False,Chandler Free Throw 1 of 2 (5 PTS),,25-26,25,26
 0021800060,2018-10-24,PHX,LAL,10.82,1,1,11,PHX,PHX,ft_make,12,False,False,Chandler Free Throw 2 of 2 (6 PTS),,26-26,26,26
+0021800060,2018-10-24,PHX,LAL,10.82,1,1,11,PHX,PHX,fg_miss,97,False,False,MISS Chandler 3' Tip Layup Shot,,24-26,24,26
+0021800060,2018-10-24,PHX,LAL,10.82,1,1,11,PHX,PHX,reb,0,False,False,Chandler REBOUND (Off:2 Def:3),,24-26,24,26
 0021800060,2018-10-24,PHX,LAL,11.08,1,0,55,LAL,LAL,fg_make,78,False,False,,Stephenson 15' Floating Jump Shot (4 PTS),26-28,26,28
 0021800060,2018-10-24,PHX,LAL,11.37,1,0,38,PHX,PHX,fg_miss,47,False,False,MISS Booker 8' Turnaround Jump Shot,,26-28,26,28
 0021800060,2018-10-24,PHX,LAL,11.4,1,0,36,LAL,LAL,reb,0,False,False,,Stephenson REBOUND (Off:1 Def:2),26-28,26,28
@@ -272,8 +272,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800060,2018-10-24,PHX,LAL,28.23,3,7,46,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:1 Def:6),,61-85,61,85
 0021800060,2018-10-24,PHX,LAL,28.35,3,7,39,PHX,PHX,fg_make,80,False,False,Anderson 21' Step Back Jump Shot (7 PTS),,63-85,63,85
 0021800060,2018-10-24,PHX,LAL,28.53,3,7,28,LAL,LAL,fg_miss,98,True,False,,MISS Kuzma 3' Cutting Layup Shot,63-85,63,85
-0021800060,2018-10-24,PHX,LAL,28.53,3,7,28,LAL,LAL,reb,0,False,False,,Lakers Rebound,63-85,63,85
 0021800060,2018-10-24,PHX,LAL,28.53,3,7,28,LAL,PHX,block,98,True,False,block,block,63-85,63,85
+0021800060,2018-10-24,PHX,LAL,28.53,3,7,28,LAL,LAL,reb,0,False,False,,Lakers Rebound,63-85,63,85
 0021800060,2018-10-24,PHX,LAL,28.7,3,7,18,LAL,LAL,fg_miss,98,True,False,,MISS Williams 1' Cutting Layup Shot,63-85,63,85
 0021800060,2018-10-24,PHX,LAL,28.7,3,7,18,LAL,PHX,block,98,True,False,block,block,63-85,63,85
 0021800060,2018-10-24,PHX,LAL,28.75,3,7,15,PHX,PHX,reb,0,False,False,Booker REBOUND (Off:0 Def:5),,63-85,63,85
@@ -439,8 +439,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800060,2018-10-24,PHX,LAL,47.27,4,0,44,LAL,LAL,fg_miss,79,False,False,,MISS Stephenson 13' Pullup Jump Shot,108-129,108,129
 0021800060,2018-10-24,PHX,LAL,47.3,4,0,42,LAL,LAL,reb,0,False,False,,Zubac REBOUND (Off:1 Def:1),108-129,108,129
 0021800060,2018-10-24,PHX,LAL,47.33,4,0,40,LAL,LAL,fg_miss,72,True,False,,MISS Zubac 1' Putback Layup,108-129,108,129
-0021800060,2018-10-24,PHX,LAL,47.33,4,0,40,PHX,PHX,reb,0,False,False,Canaan REBOUND (Off:0 Def:5),,108-129,108,129
 0021800060,2018-10-24,PHX,LAL,47.33,4,0,40,LAL,PHX,block,72,True,False,block,block,108-129,108,129
+0021800060,2018-10-24,PHX,LAL,47.33,4,0,40,PHX,PHX,reb,0,False,False,Canaan REBOUND (Off:0 Def:5),,108-129,108,129
 0021800060,2018-10-24,PHX,LAL,47.43,4,0,34,PHX,PHX,fg_make,9,False,False,Jackson Driving Dunk (7 PTS) (Canaan 2 AST),,110-129,110,129
 0021800060,2018-10-24,PHX,LAL,47.72,4,0,17,LAL,LAL,fg_make,6,False,False,,Caldwell-Pope 1' Driving Layup (14 PTS) (Zubac 1 AST),110-131,110,131
 0021800060,2018-10-24,PHX,LAL,47.87,4,0,8,PHX,PHX,fg3_make,79,False,False,Jackson 25' 3PT Pullup Jump Shot (10 PTS),,113-131,113,131

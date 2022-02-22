@@ -149,17 +149,17 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700305,2017-11-29,PHI,WAS,16.83,2,7,10,PHI,PHI,ft_make,12,False,False,Bayless Free Throw 2 of 2 (4 PTS),,36-25,36,25
 0021700305,2017-11-29,PHI,WAS,17.08,2,6,55,WAS,WAS,fg_make,79,False,False,,Morris 11' Pullup Jump Shot (4 PTS),36-27,36,27
 0021700305,2017-11-29,PHI,WAS,17.37,2,6,38,PHI,PHI,fg_miss,1,True,False,MISS Johnson 4' Jump Shot,,36-27,36,27
+0021700305,2017-11-29,PHI,WAS,17.37,2,6,38,PHI,WAS,block,1,True,False,block,block,36-27,36,27
 0021700305,2017-11-29,PHI,WAS,17.37,2,6,38,PHI,PHI,reb,0,False,False,Johnson REBOUND (Off:1 Def:1),,36-27,36,27
 0021700305,2017-11-29,PHI,WAS,17.37,2,6,38,PHI,WAS,foul,2,False,False,,Scott S.FOUL (P2.PN) (M.Boland),36-27,36,27
 0021700305,2017-11-29,PHI,WAS,17.37,2,6,38,PHI,PHI,ft_miss,11,False,False,MISS Johnson Free Throw 1 of 2,,36-27,36,27
 0021700305,2017-11-29,PHI,WAS,17.37,2,6,38,PHI,PHI,reb,1,False,False,76ERS Rebound,,36-27,36,27
 0021700305,2017-11-29,PHI,WAS,17.37,2,6,38,PHI,PHI,ft_miss,12,False,False,MISS Johnson Free Throw 2 of 2,,36-27,36,27
 0021700305,2017-11-29,PHI,WAS,17.37,2,6,38,WAS,WAS,reb,0,False,False,,Wizards Rebound,36-27,36,27
-0021700305,2017-11-29,PHI,WAS,17.37,2,6,38,PHI,WAS,block,1,True,False,block,block,36-27,36,27
 0021700305,2017-11-29,PHI,WAS,17.55,2,6,27,WAS,PHI,foul,1,False,False,Simmons P.FOUL (P1.T4) (M.Boland),,36-27,36,27
 0021700305,2017-11-29,PHI,WAS,17.55,2,6,27,WAS,WAS,tov,1,False,True,,Oubre Jr. Bad Pass Turnover (P1.T4),36-27,36,27
-0021700305,2017-11-29,PHI,WAS,17.55,2,6,27,PHI,WAS,foul,1,False,False,,Morris P.FOUL (P2.PN) (M.Boland),36-27,36,27
 0021700305,2017-11-29,PHI,WAS,17.55,2,6,27,WAS,PHI,steal,1,False,True,steal,steal,36-27,36,27
+0021700305,2017-11-29,PHI,WAS,17.55,2,6,27,PHI,WAS,foul,1,False,False,,Morris P.FOUL (P2.PN) (M.Boland),36-27,36,27
 0021700305,2017-11-29,PHI,WAS,17.55,2,6,27,PHI,PHI,ft_make,11,False,False,Simmons Free Throw 1 of 2 (10 PTS),,37-27,37,27
 0021700305,2017-11-29,PHI,WAS,17.55,2,6,27,PHI,PHI,ft_miss,12,False,False,MISS Simmons Free Throw 2 of 2,,37-27,37,27
 0021700305,2017-11-29,PHI,WAS,17.62,2,6,23,WAS,WAS,reb,0,False,False,,Oubre Jr. REBOUND (Off:0 Def:1),37-27,37,27
@@ -178,8 +178,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700305,2017-11-29,PHI,WAS,18.7,2,5,18,WAS,WAS,ft_make,12,False,False,,Oubre Jr. Free Throw 2 of 2 (9 PTS),38-29,38,29
 0021700305,2017-11-29,PHI,WAS,18.87,2,5,8,PHI,PHI,fg_make,79,False,False,Bayless 15' Pullup Jump Shot (6 PTS) (Embiid 1 AST),,40-29,40,29
 0021700305,2017-11-29,PHI,WAS,19.18,2,4,49,WAS,WAS,fg_miss,98,True,False,,MISS Meeks 6' Cutting Layup Shot,40-29,40,29
-0021700305,2017-11-29,PHI,WAS,19.18,2,4,49,WAS,WAS,reb,0,False,False,,Wizards Rebound,40-29,40,29
 0021700305,2017-11-29,PHI,WAS,19.18,2,4,49,WAS,PHI,block,98,True,False,block,block,40-29,40,29
+0021700305,2017-11-29,PHI,WAS,19.18,2,4,49,WAS,WAS,reb,0,False,False,,Wizards Rebound,40-29,40,29
 0021700305,2017-11-29,PHI,WAS,19.28,2,4,43,WAS,WAS,fg_miss,1,True,False,,MISS Oubre Jr. 10' Jump Shot,40-29,40,29
 0021700305,2017-11-29,PHI,WAS,19.28,2,4,43,WAS,PHI,block,1,True,False,block,block,40-29,40,29
 0021700305,2017-11-29,PHI,WAS,19.35,2,4,39,PHI,PHI,reb,0,False,False,McConnell REBOUND (Off:0 Def:2),,40-29,40,29
@@ -295,8 +295,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700305,2017-11-29,PHI,WAS,30.1,3,5,54,PHI,WAS,block,5,True,False,block,block,72-51,72,51
 0021700305,2017-11-29,PHI,WAS,30.18,3,5,49,WAS,WAS,reb,0,False,False,,Beal REBOUND (Off:0 Def:2),72-51,72,51
 0021700305,2017-11-29,PHI,WAS,30.23,3,5,46,WAS,WAS,fg_miss,1,True,False,,MISS Porter Jr. 6' Jump Shot,72-51,72,51
-0021700305,2017-11-29,PHI,WAS,30.23,3,5,46,WAS,WAS,reb,0,False,False,,Wizards Rebound,72-51,72,51
 0021700305,2017-11-29,PHI,WAS,30.23,3,5,46,WAS,PHI,block,1,True,False,block,block,72-51,72,51
+0021700305,2017-11-29,PHI,WAS,30.23,3,5,46,WAS,WAS,reb,0,False,False,,Wizards Rebound,72-51,72,51
 0021700305,2017-11-29,PHI,WAS,30.43,3,5,34,WAS,WAS,fg_miss,80,False,False,,MISS Beal 21' Step Back Jump Shot,72-51,72,51
 0021700305,2017-11-29,PHI,WAS,30.43,3,5,34,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:4 Def:11),,72-51,72,51
 0021700305,2017-11-29,PHI,WAS,30.62,3,5,23,PHI,PHI,fg3_make,80,False,False,Covington 3PT Step Back Jump Shot (9 PTS) (Simmons 3 AST),,75-51,75,51
@@ -306,8 +306,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700305,2017-11-29,PHI,WAS,31.07,3,4,56,PHI,PHI,fg_miss,43,False,False,MISS Covington 2' Alley Oop Layup,,75-51,75,51
 0021700305,2017-11-29,PHI,WAS,31.13,3,4,52,PHI,PHI,reb,0,False,False,Covington REBOUND (Off:3 Def:6),,75-51,75,51
 0021700305,2017-11-29,PHI,WAS,31.15,3,4,51,PHI,PHI,fg_miss,5,True,False,MISS Covington 1' Layup,,75-51,75,51
-0021700305,2017-11-29,PHI,WAS,31.15,3,4,51,PHI,PHI,reb,0,False,False,Covington REBOUND (Off:4 Def:6),,75-51,75,51
 0021700305,2017-11-29,PHI,WAS,31.15,3,4,51,PHI,WAS,block,5,True,False,block,block,75-51,75,51
+0021700305,2017-11-29,PHI,WAS,31.15,3,4,51,PHI,PHI,reb,0,False,False,Covington REBOUND (Off:4 Def:6),,75-51,75,51
 0021700305,2017-11-29,PHI,WAS,31.27,3,4,44,PHI,PHI,tov,2,False,True,Luwawu-Cabarrot Lost Ball Turnover (P1.T12),,75-51,75,51
 0021700305,2017-11-29,PHI,WAS,31.27,3,4,44,PHI,WAS,steal,2,False,True,steal,steal,75-51,75,51
 0021700305,2017-11-29,PHI,WAS,31.33,3,4,40,WAS,PHI,foul,1,False,False,Luwawu-Cabarrot P.FOUL (P1.PN) (M.Boland),,75-51,75,51
@@ -383,9 +383,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700305,2017-11-29,PHI,WAS,37.82,4,10,11,WAS,WAS,tov,1,False,True,,Oubre Jr. Bad Pass Turnover (P3.T11),86-67,86,67
 0021700305,2017-11-29,PHI,WAS,37.82,4,10,11,WAS,PHI,steal,1,False,True,steal,steal,86-67,86,67
 0021700305,2017-11-29,PHI,WAS,37.9,4,10,6,PHI,PHI,fg_make,98,False,False,Saric 1' Cutting Layup Shot (17 PTS) (Simmons 4 AST),,88-67,88,67
-0021700305,2017-11-29,PHI,WAS,37.9,4,10,6,PHI,WAS,violation,2,False,False,,Defensive Goaltending,88-67,88,67
 0021700305,2017-11-29,PHI,WAS,37.9,4,10,6,PHI,WAS,foul,2,False,False,,McCullough S.FOUL (P3.T2) (B.Spooner),88-67,88,67
 0021700305,2017-11-29,PHI,WAS,37.9,4,10,6,PHI,PHI,ft_make,10,False,False,Saric Free Throw 1 of 1 (18 PTS),,89-67,89,67
+0021700305,2017-11-29,PHI,WAS,37.9,4,10,6,PHI,WAS,violation,2,False,False,,Defensive Goaltending,88-67,88,67
 0021700305,2017-11-29,PHI,WAS,38.12,4,9,53,WAS,WAS,fg_make,79,False,False,,Satoransky 21' Pullup Jump Shot (4 PTS),89-69,89,69
 0021700305,2017-11-29,PHI,WAS,38.47,4,9,32,PHI,PHI,fg3_miss,1,False,False,MISS Redick 28' 3PT Jump Shot,,89-69,89,69
 0021700305,2017-11-29,PHI,WAS,38.55,4,9,27,WAS,WAS,reb,0,False,False,,Oubre Jr. REBOUND (Off:1 Def:5),89-69,89,69
@@ -465,10 +465,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700305,2017-11-29,PHI,WAS,44.23,4,3,46,PHI,PHI,ft_miss,12,False,False,MISS Simmons Free Throw 2 of 2,,99-92,99,92
 0021700305,2017-11-29,PHI,WAS,44.23,4,3,46,WAS,WAS,reb,0,False,False,,Wizards Rebound,99-92,99,92
 0021700305,2017-11-29,PHI,WAS,44.23,4,3,46,WAS,PHI,foul,3,False,False,Embiid L.B.FOUL (P5.PN) (B.Spooner),,99-92,99,92
-0021700305,2017-11-29,PHI,WAS,44.23,4,3,46,WAS,PHI,foul,11,False,False,Embiid T.FOUL (P5.PN) (B.Spooner),,99-92,99,92
 0021700305,2017-11-29,PHI,WAS,44.23,4,3,46,WAS,WAS,ft_make,16,False,False,,Meeks Free Throw Technical (20 PTS),99-93,99,93
 0021700305,2017-11-29,PHI,WAS,44.23,4,3,46,WAS,WAS,ft_make,11,False,False,,Mahinmi Free Throw 1 of 2 (7 PTS),99-94,99,94
 0021700305,2017-11-29,PHI,WAS,44.23,4,3,46,WAS,WAS,ft_make,12,False,False,,Mahinmi Free Throw 2 of 2 (8 PTS),99-95,99,95
+0021700305,2017-11-29,PHI,WAS,44.23,4,3,46,WAS,PHI,foul,11,False,False,Embiid T.FOUL (P5.PN) (B.Spooner),,99-92,99,92
 0021700305,2017-11-29,PHI,WAS,44.27,4,3,44,PHI,WAS,foul,28,False,False,,Meeks Personal Take Foul (P2.PN) (M.Ervin),99-95,99,95
 0021700305,2017-11-29,PHI,WAS,44.27,4,3,44,PHI,PHI,ft_make,11,False,False,Simmons Free Throw 1 of 2 (24 PTS),,100-95,100,95
 0021700305,2017-11-29,PHI,WAS,44.27,4,3,44,PHI,PHI,ft_miss,12,False,False,MISS Simmons Free Throw 2 of 2,,100-95,100,95

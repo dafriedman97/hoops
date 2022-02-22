@@ -10,8 +10,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700001,2017-10-17,CLE,BOS,0.97,1,11,2,CLE,CLE,fg_miss,1,False,False,MISS Love 16' Jump Shot,,0-2,0,2
 0021700001,2017-10-17,CLE,BOS,1.02,1,10,59,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:0 Def:1),0-2,0,2
 0021700001,2017-10-17,CLE,BOS,1.15,1,10,51,BOS,BOS,fg_miss,98,True,False,,MISS Tatum 3' Cutting Layup Shot,0-2,0,2
-0021700001,2017-10-17,CLE,BOS,1.15,1,10,51,BOS,BOS,reb,0,False,False,,Celtics Rebound,0-2,0,2
 0021700001,2017-10-17,CLE,BOS,1.15,1,10,51,BOS,CLE,block,98,True,False,block,block,0-2,0,2
+0021700001,2017-10-17,CLE,BOS,1.15,1,10,51,BOS,BOS,reb,0,False,False,,Celtics Rebound,0-2,0,2
 0021700001,2017-10-17,CLE,BOS,1.2,1,10,48,BOS,BOS,fg_make,1,False,False,,Horford 20' Jump Shot (2 PTS) (Irving 1 AST),0-4,0,4
 0021700001,2017-10-17,CLE,BOS,1.47,1,10,32,CLE,BOS,foul,17,False,False,,Celtics T.Foul (Def. 3 Sec Tatum ) (B.Forte),0-4,0,4
 0021700001,2017-10-17,CLE,BOS,1.47,1,10,32,CLE,CLE,ft_make,16,False,False,Love Free Throw Technical (1 PTS),,1-4,1,4
@@ -83,9 +83,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700001,2017-10-17,CLE,BOS,9.32,1,2,41,BOS,BOS,tov,2,False,True,,Baynes Lost Ball Turnover (P1.T3),20-17,20,17
 0021700001,2017-10-17,CLE,BOS,9.32,1,2,41,BOS,CLE,steal,2,False,True,steal,steal,20-17,20,17
 0021700001,2017-10-17,CLE,BOS,9.37,1,2,38,CLE,CLE,fg_make,41,False,False,Thompson 1' Running Layup (4 PTS) (James 4 AST),,22-17,22,17
-0021700001,2017-10-17,CLE,BOS,9.37,1,2,38,CLE,BOS,foul,2,False,False,,Baynes S.FOUL (P1.T3) (M.Smith),22-17,22,17
 0021700001,2017-10-17,CLE,BOS,9.37,1,2,38,BOS,BOS,timeout,1,False,False,,Celtics Timeout: Regular (Reg.1 Short 0),22-17,22,17
 0021700001,2017-10-17,CLE,BOS,9.37,1,2,38,BOS,CLE,ft_make,10,False,False,Thompson Free Throw 1 of 1 (5 PTS),,23-17,23,17
+0021700001,2017-10-17,CLE,BOS,9.37,1,2,38,CLE,BOS,foul,2,False,False,,Baynes S.FOUL (P1.T3) (M.Smith),22-17,22,17
 0021700001,2017-10-17,CLE,BOS,9.72,1,2,17,BOS,BOS,fg3_miss,1,False,False,,MISS Brown 26' 3PT Jump Shot,23-17,23,17
 0021700001,2017-10-17,CLE,BOS,9.75,1,2,15,CLE,CLE,reb,0,False,False,Thompson REBOUND (Off:0 Def:2),,23-17,23,17
 0021700001,2017-10-17,CLE,BOS,9.95,1,2,3,CLE,CLE,fg_miss,102,False,False,MISS Green 7' Driving Floating Bank Jump Shot,,23-17,23,17
@@ -304,8 +304,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700001,2017-10-17,CLE,BOS,32.38,3,3,37,CLE,CLE,fg3_miss,1,False,False,MISS Love 25' 3PT Jump Shot,,67-63,67,63
 0021700001,2017-10-17,CLE,BOS,32.4,3,3,36,BOS,BOS,reb,0,False,False,,Irving REBOUND (Off:1 Def:2),67-63,67,63
 0021700001,2017-10-17,CLE,BOS,32.67,3,3,20,BOS,BOS,tov,1,False,True,,Irving Bad Pass Turnover (P2.T10),67-63,67,63
-0021700001,2017-10-17,CLE,BOS,32.67,3,3,20,CLE,BOS,foul,1,False,False,,Tatum P.FOUL (P4.T4) (M.McCutchen),67-63,67,63
 0021700001,2017-10-17,CLE,BOS,32.67,3,3,20,BOS,CLE,steal,1,False,True,steal,steal,67-63,67,63
+0021700001,2017-10-17,CLE,BOS,32.67,3,3,20,CLE,BOS,foul,1,False,False,,Tatum P.FOUL (P4.T4) (M.McCutchen),67-63,67,63
 0021700001,2017-10-17,CLE,BOS,32.8,3,3,12,CLE,CLE,tov,1,False,True,Thompson Bad Pass Turnover (P1.T13),,67-63,67,63
 0021700001,2017-10-17,CLE,BOS,32.8,3,3,12,CLE,BOS,steal,1,False,True,steal,steal,67-63,67,63
 0021700001,2017-10-17,CLE,BOS,32.93,3,3,4,BOS,BOS,fg_miss,1,False,False,,MISS Rozier 18' Jump Shot,67-63,67,63
@@ -352,23 +352,23 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700001,2017-10-17,CLE,BOS,36.33,4,11,40,CLE,CLE,reb,0,False,False,James REBOUND (Off:0 Def:11),,72-71,72,71
 0021700001,2017-10-17,CLE,BOS,36.62,4,11,23,CLE,CLE,fg_make,78,False,False,Smith 13' Floating Jump Shot (10 PTS),,74-71,74,71
 0021700001,2017-10-17,CLE,BOS,36.95,4,11,3,BOS,CLE,foul,2,False,False,Shumpert S.FOUL (P1.T1) (B.Forte),,74-71,74,71
-0021700001,2017-10-17,CLE,BOS,36.95,4,11,3,BOS,BOS,ft_make,12,False,False,,Rozier Free Throw 2 of 2 (6 PTS),74-72,74,72
 0021700001,2017-10-17,CLE,BOS,36.95,4,11,3,BOS,BOS,ft_make,11,False,False,,Rozier Free Throw 1 of 2 (7 PTS),74-73,74,73
+0021700001,2017-10-17,CLE,BOS,36.95,4,11,3,BOS,BOS,ft_make,12,False,False,,Rozier Free Throw 2 of 2 (6 PTS),74-72,74,72
 0021700001,2017-10-17,CLE,BOS,37.3,4,10,42,CLE,CLE,fg_make,108,False,False,Green 3' Cutting Dunk Shot (4 PTS) (James 8 AST),,76-73,76,73
 0021700001,2017-10-17,CLE,BOS,37.48,4,10,31,BOS,CLE,foul,17,False,False,CAVALIERS T.Foul (Def. 3 Sec Shumpert ) (M.Smith),,76-73,76,73
 0021700001,2017-10-17,CLE,BOS,37.48,4,10,31,BOS,BOS,ft_make,16,False,False,,Horford Free Throw Technical (7 PTS),76-74,76,74
 0021700001,2017-10-17,CLE,BOS,37.65,4,10,21,BOS,BOS,fg_miss,1,False,False,,MISS Horford 16' Jump Shot,76-74,76,74
 0021700001,2017-10-17,CLE,BOS,37.68,4,10,19,CLE,CLE,reb,0,False,False,James REBOUND (Off:0 Def:12),,76-74,76,74
 0021700001,2017-10-17,CLE,BOS,37.82,4,10,11,CLE,CLE,fg_miss,6,True,False,MISS James 2' Driving Layup,,76-74,76,74
-0021700001,2017-10-17,CLE,BOS,37.82,4,10,11,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,76-74,76,74
 0021700001,2017-10-17,CLE,BOS,37.82,4,10,11,CLE,BOS,block,6,True,False,block,block,76-74,76,74
+0021700001,2017-10-17,CLE,BOS,37.82,4,10,11,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,76-74,76,74
 0021700001,2017-10-17,CLE,BOS,38.02,4,9,59,CLE,CLE,fg_make,44,False,False,James 1' Reverse Layup (18 PTS),,78-74,78,74
 0021700001,2017-10-17,CLE,BOS,38.22,4,9,47,BOS,CLE,foul,2,False,False,Green S.FOUL (P2.T2) (M.Smith),,78-74,78,74
 0021700001,2017-10-17,CLE,BOS,38.22,4,9,47,BOS,BOS,ft_make,11,False,False,,Horford Free Throw 1 of 2 (8 PTS),78-75,78,75
 0021700001,2017-10-17,CLE,BOS,38.22,4,9,47,BOS,BOS,ft_make,12,False,False,,Horford Free Throw 2 of 2 (9 PTS),78-76,78,76
 0021700001,2017-10-17,CLE,BOS,38.58,4,9,25,CLE,CLE,fg_miss,1,True,False,MISS Green 11' Jump Shot,,78-76,78,76
-0021700001,2017-10-17,CLE,BOS,38.58,4,9,25,BOS,BOS,reb,0,False,False,,Rozier REBOUND (Off:0 Def:3),78-76,78,76
 0021700001,2017-10-17,CLE,BOS,38.58,4,9,25,CLE,BOS,block,1,True,False,block,block,78-76,78,76
+0021700001,2017-10-17,CLE,BOS,38.58,4,9,25,BOS,BOS,reb,0,False,False,,Rozier REBOUND (Off:0 Def:3),78-76,78,76
 0021700001,2017-10-17,CLE,BOS,38.73,4,9,16,BOS,CLE,foul,1,False,False,Smith P.FOUL (P4.T3) (B.Forte),,78-76,78,76
 0021700001,2017-10-17,CLE,BOS,38.9,4,9,6,BOS,BOS,fg3_make,1,False,False,,Irving 27' 3PT Jump Shot (15 PTS) (Horford 5 AST),78-79,78,79
 0021700001,2017-10-17,CLE,BOS,39.2,4,8,48,CLE,BOS,foul,1,False,False,,Brown P.FOUL (P3.T1) (M.McCutchen),78-79,78,79
@@ -408,14 +408,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700001,2017-10-17,CLE,BOS,42.63,4,5,22,BOS,CLE,block,72,True,False,block,block,86-87,86,87
 0021700001,2017-10-17,CLE,BOS,42.65,4,5,21,CLE,CLE,reb,0,False,False,Wade REBOUND (Off:1 Def:1),,86-87,86,87
 0021700001,2017-10-17,CLE,BOS,42.82,4,5,11,CLE,CLE,tov,1,False,True,Shumpert Bad Pass Turnover (P1.T16),,86-87,86,87
-0021700001,2017-10-17,CLE,BOS,42.82,4,5,11,BOS,CLE,foul,1,False,False,Shumpert P.FOUL (P2.PN) (M.McCutchen),,86-87,86,87
 0021700001,2017-10-17,CLE,BOS,42.82,4,5,11,CLE,BOS,steal,1,False,True,steal,steal,86-87,86,87
-0021700001,2017-10-17,CLE,BOS,42.82,4,5,11,BOS,BOS,ft_make,12,False,False,,Rozier Free Throw 2 of 2 (8 PTS),86-88,86,88
+0021700001,2017-10-17,CLE,BOS,42.82,4,5,11,BOS,CLE,foul,1,False,False,Shumpert P.FOUL (P2.PN) (M.McCutchen),,86-87,86,87
 0021700001,2017-10-17,CLE,BOS,42.82,4,5,11,BOS,BOS,ft_make,11,False,False,,Rozier Free Throw 1 of 2 (9 PTS),86-89,86,89
+0021700001,2017-10-17,CLE,BOS,42.82,4,5,11,BOS,BOS,ft_make,12,False,False,,Rozier Free Throw 2 of 2 (8 PTS),86-88,86,88
 0021700001,2017-10-17,CLE,BOS,43.03,4,4,58,CLE,CLE,tov,40,False,False,Love Out of Bounds Lost Ball Turnover (P2.T17),,86-89,86,89
 0021700001,2017-10-17,CLE,BOS,43.32,4,4,41,BOS,BOS,fg_miss,5,True,False,,MISS Horford 5' Layup,86-89,86,89
-0021700001,2017-10-17,CLE,BOS,43.32,4,4,41,CLE,CLE,reb,0,False,False,Love REBOUND (Off:2 Def:8),,86-89,86,89
 0021700001,2017-10-17,CLE,BOS,43.32,4,4,41,BOS,CLE,block,5,True,False,block,block,86-89,86,89
+0021700001,2017-10-17,CLE,BOS,43.32,4,4,41,CLE,CLE,reb,0,False,False,Love REBOUND (Off:2 Def:8),,86-89,86,89
 0021700001,2017-10-17,CLE,BOS,43.47,4,4,32,CLE,CLE,fg_make,5,False,False,James 1' Layup (22 PTS),,88-89,88,89
 0021700001,2017-10-17,CLE,BOS,43.8,4,4,12,BOS,BOS,fg3_make,1,False,False,,Brown 3PT Jump Shot (23 PTS) (Irving 8 AST),88-92,88,92
 0021700001,2017-10-17,CLE,BOS,44.22,4,3,47,CLE,CLE,fg3_make,1,False,False,James 29' 3PT Jump Shot (25 PTS) (Crowder 2 AST),,91-92,91,92

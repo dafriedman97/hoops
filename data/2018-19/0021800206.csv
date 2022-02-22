@@ -132,9 +132,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800206,2018-11-14,TOR,DET,14.48,2,9,31,DET,DET,tov,2,False,True,,Calderon Lost Ball Turnover (P1.T5),38-31,38,31
 0021800206,2018-11-14,TOR,DET,14.48,2,9,31,DET,TOR,steal,2,False,True,steal,steal,38-31,38,31
 0021800206,2018-11-14,TOR,DET,14.77,2,9,14,TOR,TOR,fg_miss,101,True,False,MISS Richardson 9' Driving Floating Jump Shot,,38-31,38,31
+0021800206,2018-11-14,TOR,DET,14.77,2,9,14,TOR,DET,block,101,True,False,block,block,38-31,38,31
 0021800206,2018-11-14,TOR,DET,14.77,2,9,14,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,38-31,38,31
 0021800206,2018-11-14,TOR,DET,14.77,2,9,14,TOR,DET,violation,5,False,False,,Johnson Violation:Kicked Ball (D.Richardson),38-31,38,31
-0021800206,2018-11-14,TOR,DET,14.77,2,9,14,TOR,DET,block,101,True,False,block,block,38-31,38,31
 0021800206,2018-11-14,TOR,DET,14.98,2,9,1,TOR,TOR,fg_make,79,False,False,Lowry 15' Pullup Jump Shot (6 PTS),,40-31,40,31
 0021800206,2018-11-14,TOR,DET,15.07,2,8,56,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.2 Short 0),40-31,40,31
 0021800206,2018-11-14,TOR,DET,15.3,2,8,42,DET,DET,fg3_miss,1,False,False,,MISS Johnson 26' 3PT Jump Shot,40-31,40,31
@@ -221,12 +221,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800206,2018-11-14,TOR,DET,23.75,2,0,15,DET,DET,tov,2,False,True,,Jackson Lost Ball Turnover (P2.T9),65-53,65,53
 0021800206,2018-11-14,TOR,DET,23.75,2,0,15,DET,TOR,steal,2,False,True,steal,steal,65-53,65,53
 0021800206,2018-11-14,TOR,DET,23.83,2,0,10,TOR,TOR,fg_miss,50,True,False,MISS Leonard 2' Running Dunk,,65-53,65,53
-0021800206,2018-11-14,TOR,DET,23.83,2,0,10,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,65-53,65,53
 0021800206,2018-11-14,TOR,DET,23.83,2,0,10,TOR,DET,block,50,True,False,block,block,65-53,65,53
+0021800206,2018-11-14,TOR,DET,23.83,2,0,10,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,65-53,65,53
 0021800206,2018-11-14,TOR,DET,24.0,2,0,0,TOR,TOR,tov,1,False,True,Lowry Bad Pass Turnover (P4.T7),,65-53,65,53
+0021800206,2018-11-14,TOR,DET,24.0,2,0,0,TOR,DET,steal,1,False,True,steal,steal,65-53,65,53
 0021800206,2018-11-14,TOR,DET,24.0,2,0,0,TOR,,period_end,0,False,False,,,65-53,65,53
 0021800206,2018-11-14,TOR,DET,24.0,3,12,0,TOR,,period_start,0,False,False,,,65-53,65,53
-0021800206,2018-11-14,TOR,DET,24.0,2,0,0,TOR,DET,steal,1,False,True,steal,steal,65-53,65,53
 0021800206,2018-11-14,TOR,DET,24.23,3,11,46,TOR,TOR,fg_miss,79,False,False,MISS Leonard 20' Pullup Jump Shot,,65-53,65,53
 0021800206,2018-11-14,TOR,DET,24.28,3,11,43,DET,DET,reb,0,False,False,,Griffin REBOUND (Off:0 Def:3),65-53,65,53
 0021800206,2018-11-14,TOR,DET,24.47,3,11,32,DET,DET,fg_miss,58,False,False,,MISS Drummond 8' Turnaround Hook Shot,65-53,65,53
@@ -374,8 +374,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800206,2018-11-14,TOR,DET,40.37,4,7,38,TOR,TOR,fg_miss,78,False,False,MISS Leonard 3' Floating Jump Shot,,92-88,92,88
 0021800206,2018-11-14,TOR,DET,40.38,4,7,37,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:3 Def:8),92-88,92,88
 0021800206,2018-11-14,TOR,DET,40.63,4,7,22,DET,DET,fg_miss,58,True,False,,MISS Drummond 6' Turnaround Hook Shot,92-88,92,88
-0021800206,2018-11-14,TOR,DET,40.63,4,7,22,DET,DET,reb,0,False,False,,Pistons Rebound,92-88,92,88
 0021800206,2018-11-14,TOR,DET,40.63,4,7,22,DET,TOR,block,58,True,False,block,block,92-88,92,88
+0021800206,2018-11-14,TOR,DET,40.63,4,7,22,DET,DET,reb,0,False,False,,Pistons Rebound,92-88,92,88
 0021800206,2018-11-14,TOR,DET,40.67,4,7,20,DET,TOR,foul,1,False,False,VanVleet P.FOUL (P1.T2) (J.Goble),,92-88,92,88
 0021800206,2018-11-14,TOR,DET,40.9,4,7,6,DET,DET,fg3_miss,1,False,False,,MISS Griffin 63' 3PT Jump Shot,92-88,92,88
 0021800206,2018-11-14,TOR,DET,40.9,4,7,6,DET,DET,reb,0,False,False,,Pistons Rebound,92-88,92,88
@@ -396,8 +396,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800206,2018-11-14,TOR,DET,42.67,4,5,20,TOR,DET,foul,26,False,False,,Drummond Offensive Charge Foul (P3.PN) (S.Corbin),97-96,97,96
 0021800206,2018-11-14,TOR,DET,42.67,4,5,20,DET,DET,tov,37,False,False,,Drummond Offensive Foul Turnover (P1.T17),97-96,97,96
 0021800206,2018-11-14,TOR,DET,42.8,4,5,12,TOR,TOR,fg_miss,98,True,False,MISS Valanciunas 3' Cutting Layup Shot,,97-96,97,96
-0021800206,2018-11-14,TOR,DET,42.8,4,5,12,DET,DET,reb,0,False,False,,Pistons Rebound,97-96,97,96
 0021800206,2018-11-14,TOR,DET,42.8,4,5,12,TOR,DET,block,98,True,False,block,block,97-96,97,96
+0021800206,2018-11-14,TOR,DET,42.8,4,5,12,DET,DET,reb,0,False,False,,Pistons Rebound,97-96,97,96
 0021800206,2018-11-14,TOR,DET,43.1,4,4,54,DET,DET,fg_make,101,False,False,,Jackson 11' Driving Floating Jump Shot (11 PTS),97-98,97,98
 0021800206,2018-11-14,TOR,DET,43.3,4,4,42,TOR,TOR,fg3_miss,1,False,False,MISS Lowry 26' 3PT Jump Shot,,97-98,97,98
 0021800206,2018-11-14,TOR,DET,43.3,4,4,42,DET,DET,reb,0,False,False,,Griffin REBOUND (Off:1 Def:9),97-98,97,98
@@ -446,7 +446,7 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800206,2018-11-14,TOR,DET,47.97,4,0,2,TOR,TOR,tov,40,False,False,Leonard Out of Bounds Lost Ball Turnover (P6.T20),,104-104,104,104
 0021800206,2018-11-14,TOR,DET,47.97,4,0,2,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.7 Short 0),104-104,104,104
 0021800206,2018-11-14,TOR,DET,47.98,4,0,1,DET,DET,fg_miss,43,True,False,,MISS Robinson III 2' Alley Oop Layup,104-104,104,104
-0021800206,2018-11-14,TOR,DET,47.98,4,0,1,DET,DET,reb,0,False,False,,Pistons Rebound,104-104,104,104
 0021800206,2018-11-14,TOR,DET,47.98,4,0,1,DET,TOR,block,43,True,False,block,block,104-104,104,104
+0021800206,2018-11-14,TOR,DET,47.98,4,0,1,DET,DET,reb,0,False,False,,Pistons Rebound,104-104,104,104
 0021800206,2018-11-14,TOR,DET,48.0,4,0,0,DET,DET,fg_make,63,False,False,,Bullock 5' Fadeaway Jumper (5 PTS) (Calderon 2 AST),104-106,104,106
 0021800206,2018-11-14,TOR,DET,48.0,4,0,0,DET,,period_end,0,False,False,,,104-106,104,106

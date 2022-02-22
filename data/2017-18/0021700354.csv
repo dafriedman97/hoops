@@ -11,8 +11,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700354,2017-12-06,IND,CHI,1.48,1,10,31,IND,IND,fg_miss,1,False,False,MISS Turner 17' Jump Shot,,0-4,0,4
 0021700354,2017-12-06,IND,CHI,1.52,1,10,29,CHI,CHI,reb,0,False,False,,Holiday REBOUND (Off:0 Def:1),0-4,0,4
 0021700354,2017-12-06,IND,CHI,1.65,1,10,21,CHI,CHI,fg_miss,6,True,False,,MISS Dunn 1' Driving Layup,0-4,0,4
-0021700354,2017-12-06,IND,CHI,1.65,1,10,21,IND,IND,reb,0,False,False,Collison REBOUND (Off:0 Def:1),,0-4,0,4
 0021700354,2017-12-06,IND,CHI,1.65,1,10,21,CHI,IND,block,6,True,False,block,block,0-4,0,4
+0021700354,2017-12-06,IND,CHI,1.65,1,10,21,IND,IND,reb,0,False,False,Collison REBOUND (Off:0 Def:1),,0-4,0,4
 0021700354,2017-12-06,IND,CHI,1.78,1,10,13,IND,IND,fg3_miss,1,False,False,MISS Oladipo 24' 3PT Jump Shot,,0-4,0,4
 0021700354,2017-12-06,IND,CHI,1.85,1,10,9,CHI,CHI,reb,0,False,False,,Valentine REBOUND (Off:0 Def:1),0-4,0,4
 0021700354,2017-12-06,IND,CHI,2.02,1,9,59,CHI,CHI,fg_miss,79,False,False,,MISS Holiday 17' Pullup Jump Shot,0-4,0,4
@@ -231,9 +231,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700354,2017-12-06,IND,CHI,29.12,3,6,53,IND,IND,fg3_miss,1,False,False,MISS Bogdanovic 3PT Jump Shot,,52-66,52,66
 0021700354,2017-12-06,IND,CHI,29.15,3,6,51,CHI,CHI,reb,0,False,False,,Holiday REBOUND (Off:0 Def:4),52-66,52,66
 0021700354,2017-12-06,IND,CHI,29.28,3,6,43,CHI,CHI,tov,1,False,True,,Dunn Bad Pass Turnover (P2.T9),52-66,52,66
+0021700354,2017-12-06,IND,CHI,29.28,3,6,43,CHI,IND,steal,1,False,True,steal,steal,52-66,52,66
 0021700354,2017-12-06,IND,CHI,29.28,3,6,43,IND,CHI,foul,28,False,False,,Holiday Personal Take Foul (P3.T2) (D.Richardson),52-66,52,66
 0021700354,2017-12-06,IND,CHI,29.28,3,6,43,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 3 Short 0),,52-66,52,66
-0021700354,2017-12-06,IND,CHI,29.28,3,6,43,CHI,IND,steal,1,False,True,steal,steal,52-66,52,66
 0021700354,2017-12-06,IND,CHI,29.47,3,6,32,IND,IND,fg_make,79,False,False,Oladipo 17' Pullup Jump Shot (16 PTS) (Young 1 AST),,54-66,54,66
 0021700354,2017-12-06,IND,CHI,29.73,3,6,16,CHI,CHI,fg_miss,1,False,False,,MISS Markkanen 19' Jump Shot,54-66,54,66
 0021700354,2017-12-06,IND,CHI,29.77,3,6,14,IND,IND,reb,0,False,False,Oladipo REBOUND (Off:0 Def:7),,54-66,54,66
@@ -324,15 +324,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700354,2017-12-06,IND,CHI,41.45,4,6,33,CHI,CHI,fg3_miss,80,False,False,,MISS Valentine 28' 3PT Step Back Jump Shot,81-92,81,92
 0021700354,2017-12-06,IND,CHI,41.5,4,6,30,IND,IND,reb,0,False,False,Joseph REBOUND (Off:0 Def:1),,81-92,81,92
 0021700354,2017-12-06,IND,CHI,41.63,4,6,22,IND,IND,tov,2,False,True,Bogdanovic Lost Ball Turnover (P1.T12),,81-92,81,92
-0021700354,2017-12-06,IND,CHI,41.63,4,6,22,CHI,IND,foul,1,False,False,Bogdanovic P.FOUL (P1.T3) (K.Fitzgerald),,81-92,81,92
 0021700354,2017-12-06,IND,CHI,41.63,4,6,22,IND,CHI,steal,2,False,True,steal,steal,81-92,81,92
+0021700354,2017-12-06,IND,CHI,41.63,4,6,22,CHI,IND,foul,1,False,False,Bogdanovic P.FOUL (P1.T3) (K.Fitzgerald),,81-92,81,92
 0021700354,2017-12-06,IND,CHI,41.88,4,6,7,CHI,CHI,fg_miss,79,False,False,,MISS Portis 13' Pullup Jump Shot,81-92,81,92
 0021700354,2017-12-06,IND,CHI,41.88,4,6,7,IND,IND,reb,0,False,False,Joseph REBOUND (Off:0 Def:2),,81-92,81,92
 0021700354,2017-12-06,IND,CHI,42.02,4,5,59,IND,IND,fg3_miss,1,False,False,MISS Bogdanovic 25' 3PT Jump Shot,,81-92,81,92
 0021700354,2017-12-06,IND,CHI,42.05,4,5,57,IND,IND,reb,0,False,False,PACERS Rebound,,81-92,81,92
 0021700354,2017-12-06,IND,CHI,42.22,4,5,47,IND,IND,fg_miss,5,True,False,MISS Sabonis 1' Layup,,81-92,81,92
-0021700354,2017-12-06,IND,CHI,42.22,4,5,47,IND,IND,reb,0,False,False,PACERS Rebound,,81-92,81,92
 0021700354,2017-12-06,IND,CHI,42.22,4,5,47,IND,CHI,block,5,True,False,block,block,81-92,81,92
+0021700354,2017-12-06,IND,CHI,42.22,4,5,47,IND,IND,reb,0,False,False,PACERS Rebound,,81-92,81,92
 0021700354,2017-12-06,IND,CHI,42.33,4,5,40,IND,IND,fg3_miss,80,False,False,MISS Oladipo 25' 3PT Step Back Jump Shot,,81-92,81,92
 0021700354,2017-12-06,IND,CHI,42.4,4,5,36,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:1 Def:4),,81-92,81,92
 0021700354,2017-12-06,IND,CHI,42.48,4,5,31,IND,IND,fg_miss,73,False,False,MISS Oladipo 1' Driving Reverse Layup,,81-92,81,92
@@ -342,8 +342,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700354,2017-12-06,IND,CHI,42.67,4,5,20,CHI,CHI,tov,2,False,True,,Dunn Lost Ball Turnover (P3.T13),83-92,83,92
 0021700354,2017-12-06,IND,CHI,42.67,4,5,20,CHI,IND,steal,2,False,True,steal,steal,83-92,83,92
 0021700354,2017-12-06,IND,CHI,42.73,4,5,16,IND,IND,fg_miss,75,True,False,MISS Oladipo 1' Driving Finger Roll Layup,,83-92,83,92
-0021700354,2017-12-06,IND,CHI,42.73,4,5,16,IND,IND,reb,0,False,False,PACERS Rebound,,83-92,83,92
 0021700354,2017-12-06,IND,CHI,42.73,4,5,16,IND,CHI,block,75,True,False,block,block,83-92,83,92
+0021700354,2017-12-06,IND,CHI,42.73,4,5,16,IND,IND,reb,0,False,False,PACERS Rebound,,83-92,83,92
 0021700354,2017-12-06,IND,CHI,42.82,4,5,11,IND,IND,fg_make,105,False,False,Bogdanovic 10' Turnaround Fadeaway Bank Jump Shot (12 PTS) (Joseph 3 AST),,85-92,85,92
 0021700354,2017-12-06,IND,CHI,43.07,4,4,56,CHI,CHI,fg3_miss,1,False,False,,MISS Holiday 3PT Jump Shot,85-92,85,92
 0021700354,2017-12-06,IND,CHI,43.13,4,4,52,CHI,CHI,reb,0,False,False,,Lopez REBOUND (Off:3 Def:2),85-92,85,92
@@ -380,8 +380,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700354,2017-12-06,IND,CHI,46.5,4,1,30,IND,CHI,foul,1,False,False,,Markkanen P.FOUL (P1.T3) (D.Richardson),92-96,92,96
 0021700354,2017-12-06,IND,CHI,46.68,4,1,19,IND,IND,fg_make,79,False,False,Joseph 16' Pullup Jump Shot (7 PTS),,94-96,94,96
 0021700354,2017-12-06,IND,CHI,46.9,4,1,6,CHI,CHI,fg_miss,1,True,False,,MISS Markkanen 7' Jump Shot,94-96,94,96
-0021700354,2017-12-06,IND,CHI,46.9,4,1,6,IND,IND,reb,0,False,False,PACERS Rebound,,94-96,94,96
 0021700354,2017-12-06,IND,CHI,46.9,4,1,6,CHI,IND,block,1,True,False,block,block,94-96,94,96
+0021700354,2017-12-06,IND,CHI,46.9,4,1,6,IND,IND,reb,0,False,False,PACERS Rebound,,94-96,94,96
 0021700354,2017-12-06,IND,CHI,47.03,4,0,58,IND,IND,fg_miss,75,False,False,MISS Oladipo Driving Finger Roll Layup,,94-96,94,96
 0021700354,2017-12-06,IND,CHI,47.1,4,0,54,CHI,CHI,reb,0,False,False,,Valentine REBOUND (Off:2 Def:6),94-96,94,96
 0021700354,2017-12-06,IND,CHI,47.43,4,0,34,CHI,CHI,tov,2,False,True,,Valentine Lost Ball Turnover (P2.T16),94-96,94,96

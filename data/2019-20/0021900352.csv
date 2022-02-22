@@ -38,9 +38,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900352,2019-12-10,CHA,WAS,4.22,1,7,47,CHA,WAS,foul,2,False,False,,Beal S.FOUL (P1.T2) (E.Dalen),11-7,11,7
 0021900352,2019-12-10,CHA,WAS,4.22,1,7,47,CHA,CHA,ft_make,11,False,False,Biyombo Free Throw 1 of 2 (3 PTS),,12-7,12,7
 0021900352,2019-12-10,CHA,WAS,4.22,1,7,47,CHA,CHA,ft_make,12,False,False,Biyombo Free Throw 2 of 2 (4 PTS),,13-7,13,7
+0021900352,2019-12-10,CHA,WAS,4.5,1,7,30,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 1 Short 0),,13-7,13,7
 0021900352,2019-12-10,CHA,WAS,4.5,1,7,30,CHA,WAS,foul,4,False,False,,Beal OFF.Foul (P2) (E.Lewis),13-7,13,7
 0021900352,2019-12-10,CHA,WAS,4.5,1,7,30,WAS,WAS,tov,37,False,False,,Beal Offensive Foul Turnover (P1.T1),13-7,13,7
-0021900352,2019-12-10,CHA,WAS,4.5,1,7,30,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 1 Short 0),,13-7,13,7
 0021900352,2019-12-10,CHA,WAS,4.88,1,7,7,CHA,CHA,fg_make,1,False,False,Bridges 11' Jump Shot (5 PTS),,15-7,15,7
 0021900352,2019-12-10,CHA,WAS,4.98,1,7,1,WAS,WAS,tov,4,False,False,,Bonga Traveling Turnover (P1.T2),15-7,15,7
 0021900352,2019-12-10,CHA,WAS,5.18,1,6,49,CHA,CHA,tov,2,False,True,Washington Lost Ball Turnover (P1.T2),,15-7,15,7
@@ -88,11 +88,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900352,2019-12-10,CHA,WAS,11.47,1,0,32,WAS,CHA,block,41,True,False,block,block,28-18,28,18
 0021900352,2019-12-10,CHA,WAS,11.52,1,0,29,CHA,CHA,reb,0,False,False,Zeller REBOUND (Off:0 Def:4),,28-18,28,18
 0021900352,2019-12-10,CHA,WAS,11.83,1,0,10,CHA,CHA,fg_miss,78,True,False,MISS Bridges 5' Floating Jump Shot,,28-18,28,18
-0021900352,2019-12-10,CHA,WAS,11.83,1,0,10,CHA,CHA,reb,0,False,False,HORNETS Rebound,,28-18,28,18
 0021900352,2019-12-10,CHA,WAS,11.83,1,0,10,CHA,WAS,block,78,True,False,block,block,28-18,28,18
+0021900352,2019-12-10,CHA,WAS,11.83,1,0,10,CHA,CHA,reb,0,False,False,HORNETS Rebound,,28-18,28,18
 0021900352,2019-12-10,CHA,WAS,11.87,1,0,8,CHA,CHA,tov,1,False,True,Bridges Bad Pass Turnover (P1.T6),,28-18,28,18
-0021900352,2019-12-10,CHA,WAS,11.87,1,0,8,WAS,CHA,foul,1,False,False,Zeller P.FOUL (P1.PN) (E.Dalen),,28-18,28,18
 0021900352,2019-12-10,CHA,WAS,11.87,1,0,8,CHA,WAS,steal,1,False,True,steal,steal,28-18,28,18
+0021900352,2019-12-10,CHA,WAS,11.87,1,0,8,WAS,CHA,foul,1,False,False,Zeller P.FOUL (P1.PN) (E.Dalen),,28-18,28,18
 0021900352,2019-12-10,CHA,WAS,11.87,1,0,8,WAS,WAS,ft_make,11,False,False,,Brown Jr. Free Throw 1 of 2 (1 PTS),28-19,28,19
 0021900352,2019-12-10,CHA,WAS,11.87,1,0,8,WAS,WAS,ft_make,12,False,False,,Brown Jr. Free Throw 2 of 2 (2 PTS),28-20,28,20
 0021900352,2019-12-10,CHA,WAS,11.93,1,0,4,CHA,WAS,foul,1,False,False,,Chiozza P.FOUL (P1.T3) (M.Dagher),28-20,28,20
@@ -148,8 +148,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900352,2019-12-10,CHA,WAS,17.53,2,6,28,CHA,CHA,fg3_miss,1,False,False,MISS Rozier 25' 3PT Jump Shot,,31-33,31,33
 0021900352,2019-12-10,CHA,WAS,17.58,2,6,25,WAS,WAS,reb,0,False,False,,Hachimura REBOUND (Off:0 Def:3),31-33,31,33
 0021900352,2019-12-10,CHA,WAS,17.65,2,6,21,WAS,WAS,fg_miss,5,True,False,,MISS Hachimura 3' Layup,31-33,31,33
-0021900352,2019-12-10,CHA,WAS,17.65,2,6,21,WAS,WAS,reb,0,False,False,,Wizards Rebound,31-33,31,33
 0021900352,2019-12-10,CHA,WAS,17.65,2,6,21,WAS,CHA,block,5,True,False,block,block,31-33,31,33
+0021900352,2019-12-10,CHA,WAS,17.65,2,6,21,WAS,WAS,reb,0,False,False,,Wizards Rebound,31-33,31,33
 0021900352,2019-12-10,CHA,WAS,17.78,2,6,13,WAS,WAS,fg_make,47,False,False,,Smith 18' Turnaround Jump Shot (4 PTS) (Bertans 1 AST),31-35,31,35
 0021900352,2019-12-10,CHA,WAS,18.13,2,5,52,CHA,CHA,fg_make,1,False,False,Washington 22' Jump Shot (5 PTS) (Rozier 4 AST),,33-35,33,35
 0021900352,2019-12-10,CHA,WAS,18.32,2,5,41,WAS,WAS,fg_make,6,False,False,,Smith 3' Driving Layup (6 PTS),33-37,33,37
@@ -221,9 +221,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900352,2019-12-10,CHA,WAS,24.73,3,11,16,WAS,WAS,reb,0,False,False,,Hachimura REBOUND (Off:0 Def:4),53-50,53,50
 0021900352,2019-12-10,CHA,WAS,24.9,3,11,6,WAS,WAS,fg_make,1,False,False,,Hachimura 19' Jump Shot (10 PTS) (Beal 6 AST),53-52,53,52
 0021900352,2019-12-10,CHA,WAS,25.27,3,10,44,CHA,CHA,fg_miss,6,True,False,MISS Biyombo 9' Driving Layup,,53-52,53,52
+0021900352,2019-12-10,CHA,WAS,25.27,3,10,44,CHA,WAS,block,6,True,False,block,block,53-52,53,52
 0021900352,2019-12-10,CHA,WAS,25.27,3,10,44,WAS,WAS,reb,0,False,False,,Wizards Rebound,53-52,53,52
 0021900352,2019-12-10,CHA,WAS,25.27,3,10,44,WAS,CHA,foul,3,False,False,Biyombo L.B.FOUL (P2.T2) (M.Dagher),,53-52,53,52
-0021900352,2019-12-10,CHA,WAS,25.27,3,10,44,CHA,WAS,block,6,True,False,block,block,53-52,53,52
 0021900352,2019-12-10,CHA,WAS,25.43,3,10,34,WAS,WAS,fg_make,6,False,False,,Smith 1' Driving Layup (8 PTS),53-54,53,54
 0021900352,2019-12-10,CHA,WAS,25.63,3,10,22,CHA,WAS,foul,2,False,False,,Smith S.FOUL (P1.T1) (M.Dagher),53-54,53,54
 0021900352,2019-12-10,CHA,WAS,25.63,3,10,22,CHA,CHA,ft_make,11,False,False,Biyombo Free Throw 1 of 2 (5 PTS),,54-54,54,54
@@ -263,10 +263,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900352,2019-12-10,CHA,WAS,28.68,3,7,19,CHA,CHA,reb,0,False,False,Biyombo REBOUND (Off:2 Def:8),,64-58,64,58
 0021900352,2019-12-10,CHA,WAS,28.8,3,7,12,CHA,CHA,fg3_make,1,False,False,Rozier 27' 3PT Jump Shot (12 PTS) (Graham 2 AST),,67-58,67,58
 0021900352,2019-12-10,CHA,WAS,29.17,3,6,50,WAS,WAS,fg_miss,6,True,False,,MISS Beal 3' Driving Layup,67-58,67,58
+0021900352,2019-12-10,CHA,WAS,29.17,3,6,50,WAS,CHA,block,6,True,False,block,block,67-58,67,58
 0021900352,2019-12-10,CHA,WAS,29.17,3,6,50,WAS,WAS,reb,0,False,False,,Wagner REBOUND (Off:1 Def:0),67-58,67,58
 0021900352,2019-12-10,CHA,WAS,29.17,3,6,50,WAS,CHA,foul,2,False,False,Bridges S.FOUL (P1.PN) (E.Lewis),,67-58,67,58
 0021900352,2019-12-10,CHA,WAS,29.17,3,6,50,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 3 Short 0),,67-58,67,58
-0021900352,2019-12-10,CHA,WAS,29.17,3,6,50,WAS,CHA,block,6,True,False,block,block,67-58,67,58
 0021900352,2019-12-10,CHA,WAS,29.17,3,6,50,CHA,WAS,ft_make,11,False,False,,Wagner Free Throw 1 of 2 (3 PTS),67-59,67,59
 0021900352,2019-12-10,CHA,WAS,29.17,3,6,50,CHA,WAS,ft_make,12,False,False,,Wagner Free Throw 2 of 2 (4 PTS),67-60,67,60
 0021900352,2019-12-10,CHA,WAS,29.48,3,6,31,CHA,CHA,fg_miss,6,False,False,MISS Bridges 2' Driving Layup,,67-60,67,60
@@ -363,23 +363,23 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900352,2019-12-10,CHA,WAS,39.88,4,8,7,WAS,CHA,ft_make,11,False,False,Graham Free Throw 1 of 2 (16 PTS),,85-86,85,86
 0021900352,2019-12-10,CHA,WAS,39.88,4,8,7,WAS,CHA,ft_make,12,False,False,Graham Free Throw 2 of 2 (17 PTS),,86-86,86,86
 0021900352,2019-12-10,CHA,WAS,40.1,4,7,54,WAS,WAS,fg3_miss,1,False,False,,MISS Beal 25' 3PT Jump Shot,86-86,86,86
-0021900352,2019-12-10,CHA,WAS,40.27,4,7,44,WAS,WAS,fg_miss,97,False,False,,MISS Bertans 1' Tip Layup Shot,86-86,86,86
 0021900352,2019-12-10,CHA,WAS,40.27,4,7,44,WAS,WAS,reb,0,False,False,,Bertans REBOUND (Off:2 Def:7),86-86,86,86
+0021900352,2019-12-10,CHA,WAS,40.27,4,7,44,WAS,WAS,fg_miss,97,False,False,,MISS Bertans 1' Tip Layup Shot,86-86,86,86
 0021900352,2019-12-10,CHA,WAS,40.28,4,7,43,CHA,CHA,reb,0,False,False,Biyombo REBOUND (Off:3 Def:9),,86-86,86,86
 0021900352,2019-12-10,CHA,WAS,40.32,4,7,41,CHA,CHA,fg3_miss,1,False,False,MISS Washington 26' 3PT Jump Shot,,86-86,86,86
 0021900352,2019-12-10,CHA,WAS,40.37,4,7,38,CHA,CHA,reb,0,False,False,Biyombo REBOUND (Off:4 Def:9),,86-86,86,86
 0021900352,2019-12-10,CHA,WAS,40.42,4,7,35,CHA,CHA,tov,1,False,True,Washington Bad Pass Turnover (P3.T12),,86-86,86,86
 0021900352,2019-12-10,CHA,WAS,40.42,4,7,35,CHA,WAS,steal,1,False,True,steal,steal,86-86,86,86
 0021900352,2019-12-10,CHA,WAS,40.5,4,7,30,WAS,WAS,tov,2,False,True,,Brown Jr. Lost Ball Turnover (P3.T10),86-86,86,86
-0021900352,2019-12-10,CHA,WAS,40.5,4,7,30,CHA,WAS,foul,2,False,False,,Wagner S.FOUL (P2.T3) (M.Dagher),86-86,86,86
 0021900352,2019-12-10,CHA,WAS,40.5,4,7,30,WAS,CHA,steal,2,False,True,steal,steal,86-86,86,86
+0021900352,2019-12-10,CHA,WAS,40.5,4,7,30,CHA,WAS,foul,2,False,False,,Wagner S.FOUL (P2.T3) (M.Dagher),86-86,86,86
 0021900352,2019-12-10,CHA,WAS,40.5,4,7,30,CHA,CHA,ft_make,11,False,False,Biyombo Free Throw 1 of 2 (13 PTS),,87-86,87,86
 0021900352,2019-12-10,CHA,WAS,40.5,4,7,30,CHA,CHA,ft_miss,12,False,False,MISS Biyombo Free Throw 2 of 2,,87-86,87,86
 0021900352,2019-12-10,CHA,WAS,40.55,4,7,27,WAS,WAS,reb,0,False,False,,Brown Jr. REBOUND (Off:0 Def:8),87-86,87,86
 0021900352,2019-12-10,CHA,WAS,40.85,4,7,9,WAS,WAS,fg_miss,63,False,False,,MISS Smith 12' Fadeaway Jumper,87-86,87,86
+0021900352,2019-12-10,CHA,WAS,41.02,4,6,59,WAS,WAS,reb,0,False,False,,Wagner REBOUND (Off:3 Def:2),87-86,87,86
 0021900352,2019-12-10,CHA,WAS,41.02,4,6,59,WAS,WAS,fg_miss,72,False,False,,MISS Wagner 1' Putback Layup,87-86,87,86
 0021900352,2019-12-10,CHA,WAS,41.02,4,6,59,WAS,WAS,reb,0,False,False,,Wagner REBOUND (Off:2 Def:2),87-86,87,86
-0021900352,2019-12-10,CHA,WAS,41.02,4,6,59,WAS,WAS,reb,0,False,False,,Wagner REBOUND (Off:3 Def:2),87-86,87,86
 0021900352,2019-12-10,CHA,WAS,41.12,4,6,53,WAS,WAS,fg_make,72,False,False,,Wagner 1' Putback Layup (6 PTS),87-88,87,88
 0021900352,2019-12-10,CHA,WAS,41.2,4,6,48,CHA,CHA,fg3_make,79,False,False,Graham 25' 3PT Pullup Jump Shot (20 PTS),,90-88,90,88
 0021900352,2019-12-10,CHA,WAS,41.38,4,6,37,WAS,WAS,fg_make,6,False,False,,Beal 4' Driving Layup (15 PTS),90-90,90,90

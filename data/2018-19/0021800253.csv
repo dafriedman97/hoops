@@ -17,8 +17,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800253,2018-11-21,PHI,NOP,1.37,1,10,38,NOP,NOP,tov,1,False,True,,Holiday Bad Pass Turnover (P1.T1),2-2,2,2
 0021800253,2018-11-21,PHI,NOP,1.37,1,10,38,NOP,PHI,steal,1,False,True,steal,steal,2-2,2,2
 0021800253,2018-11-21,PHI,NOP,1.47,1,10,32,PHI,PHI,fg_miss,75,True,False,MISS Embiid 5' Driving Finger Roll Layup,,2-2,2,2
-0021800253,2018-11-21,PHI,NOP,1.47,1,10,32,PHI,PHI,reb,0,False,False,76ERS Rebound,,2-2,2,2
 0021800253,2018-11-21,PHI,NOP,1.47,1,10,32,PHI,NOP,block,75,True,False,block,block,2-2,2,2
+0021800253,2018-11-21,PHI,NOP,1.47,1,10,32,PHI,PHI,reb,0,False,False,76ERS Rebound,,2-2,2,2
 0021800253,2018-11-21,PHI,NOP,1.58,1,10,25,PHI,PHI,fg3_miss,1,False,False,MISS Chandler 26' 3PT Jump Shot,,2-2,2,2
 0021800253,2018-11-21,PHI,NOP,1.67,1,10,20,NOP,NOP,reb,0,False,False,,Mirotic REBOUND (Off:0 Def:1),2-2,2,2
 0021800253,2018-11-21,PHI,NOP,1.75,1,10,15,NOP,NOP,fg3_miss,1,False,False,,MISS W. Johnson 25' 3PT Jump Shot,2-2,2,2
@@ -272,8 +272,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800253,2018-11-21,PHI,NOP,24.92,3,11,5,NOP,NOP,reb,0,False,False,,Davis REBOUND (Off:4 Def:4),69-59,69,59
 0021800253,2018-11-21,PHI,NOP,24.95,3,11,3,NOP,NOP,fg3_make,1,False,False,,Moore 3PT Jump Shot (11 PTS) (Davis 4 AST),69-62,69,62
 0021800253,2018-11-21,PHI,NOP,25.08,3,10,55,PHI,PHI,fg_miss,41,True,False,MISS Simmons 2' Running Layup,,69-62,69,62
-0021800253,2018-11-21,PHI,NOP,25.08,3,10,55,NOP,NOP,reb,0,False,False,,Pelicans Rebound,69-62,69,62
 0021800253,2018-11-21,PHI,NOP,25.08,3,10,55,PHI,NOP,block,41,True,False,block,block,69-62,69,62
+0021800253,2018-11-21,PHI,NOP,25.08,3,10,55,NOP,NOP,reb,0,False,False,,Pelicans Rebound,69-62,69,62
 0021800253,2018-11-21,PHI,NOP,25.35,3,10,39,NOP,NOP,fg_miss,79,False,False,,MISS W. Johnson 20' Pullup Jump Shot,69-62,69,62
 0021800253,2018-11-21,PHI,NOP,25.4,3,10,36,PHI,PHI,reb,0,False,False,Redick REBOUND (Off:0 Def:2),,69-62,69,62
 0021800253,2018-11-21,PHI,NOP,25.58,3,10,25,PHI,PHI,fg_miss,105,False,False,MISS Butler 9' Turnaround Fadeaway Bank Jump Shot,,69-62,69,62
@@ -377,10 +377,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800253,2018-11-21,PHI,NOP,36.28,4,11,43,PHI,PHI,fg_make,63,False,False,Embiid 8' Fadeaway Jumper (25 PTS),,98-87,98,87
 0021800253,2018-11-21,PHI,NOP,36.5,4,11,30,NOP,PHI,foul,1,False,False,Shamet P.FOUL (P3.T1) (T.Brown),,98-87,98,87
 0021800253,2018-11-21,PHI,NOP,36.6,4,11,24,NOP,NOP,fg_miss,43,False,False,,MISS Davis 1' Alley Oop Layup,98-87,98,87
-0021800253,2018-11-21,PHI,NOP,36.63,4,11,22,NOP,NOP,fg_miss,5,True,False,,MISS Davis 2' Layup,98-87,98,87
-0021800253,2018-11-21,PHI,NOP,36.63,4,11,22,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:4 Def:9),,98-87,98,87
 0021800253,2018-11-21,PHI,NOP,36.63,4,11,22,NOP,NOP,reb,0,False,False,,Davis REBOUND (Off:5 Def:9),98-87,98,87
+0021800253,2018-11-21,PHI,NOP,36.63,4,11,22,NOP,NOP,fg_miss,5,True,False,,MISS Davis 2' Layup,98-87,98,87
 0021800253,2018-11-21,PHI,NOP,36.63,4,11,22,NOP,PHI,block,5,True,False,block,block,98-87,98,87
+0021800253,2018-11-21,PHI,NOP,36.63,4,11,22,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:4 Def:9),,98-87,98,87
 0021800253,2018-11-21,PHI,NOP,36.73,4,11,16,PHI,PHI,fg3_make,1,False,False,Muscala 27' 3PT Jump Shot (7 PTS) (Redick 3 AST),,101-87,101,87
 0021800253,2018-11-21,PHI,NOP,36.95,4,11,3,NOP,NOP,fg_miss,47,False,False,,MISS Moore 8' Turnaround Jump Shot,101-87,101,87
 0021800253,2018-11-21,PHI,NOP,36.95,4,11,3,NOP,NOP,reb,0,False,False,,Moore REBOUND (Off:1 Def:0),101-87,101,87
@@ -427,8 +427,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800253,2018-11-21,PHI,NOP,40.07,4,7,56,PHI,PHI,fg_miss,6,False,False,MISS Butler 2' Driving Layup,,104-98,104,98
 0021800253,2018-11-21,PHI,NOP,40.1,4,7,54,NOP,NOP,reb,0,False,False,,Holiday REBOUND (Off:1 Def:1),104-98,104,98
 0021800253,2018-11-21,PHI,NOP,40.17,4,7,50,NOP,NOP,fg_miss,41,True,False,,MISS Moore 2' Running Layup,104-98,104,98
-0021800253,2018-11-21,PHI,NOP,40.17,4,7,50,NOP,NOP,reb,0,False,False,,Pelicans Rebound,104-98,104,98
 0021800253,2018-11-21,PHI,NOP,40.17,4,7,50,NOP,PHI,block,41,True,False,block,block,104-98,104,98
+0021800253,2018-11-21,PHI,NOP,40.17,4,7,50,NOP,NOP,reb,0,False,False,,Pelicans Rebound,104-98,104,98
 0021800253,2018-11-21,PHI,NOP,40.22,4,7,47,NOP,NOP,fg_make,44,False,False,,Moore 1' Reverse Layup (23 PTS) (Holiday 8 AST),104-100,104,100
 0021800253,2018-11-21,PHI,NOP,40.57,4,7,26,PHI,PHI,fg3_miss,1,False,False,MISS Butler 27' 3PT Jump Shot,,104-100,104,100
 0021800253,2018-11-21,PHI,NOP,40.65,4,7,21,PHI,PHI,reb,0,False,False,Butler REBOUND (Off:3 Def:3),,104-100,104,100

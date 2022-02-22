@@ -63,9 +63,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800375,2018-12-07,SAS,LAL,7.4,1,4,36,SAS,SAS,fg_make,1,False,False,Aldridge 22' Jump Shot (6 PTS) (Cunningham 1 AST),,22-22,22,22
 0021800375,2018-12-07,SAS,LAL,7.45,1,4,33,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.1 Short 0),22-22,22,22
 0021800375,2018-12-07,SAS,LAL,7.63,1,4,22,LAL,LAL,fg_miss,101,False,False,,MISS Ball 1' Driving Floating Jump Shot,22-22,22,22
+0021800375,2018-12-07,SAS,LAL,7.65,1,4,21,LAL,LAL,reb,0,False,False,,Ball REBOUND (Off:1 Def:0),22-22,22,22
 0021800375,2018-12-07,SAS,LAL,7.65,1,4,21,LAL,LAL,fg_miss,97,False,False,,MISS Ball Tip Layup Shot,22-22,22,22
 0021800375,2018-12-07,SAS,LAL,7.65,1,4,21,SAS,SAS,reb,0,False,False,SPURS Rebound,,22-22,22,22
-0021800375,2018-12-07,SAS,LAL,7.65,1,4,21,LAL,LAL,reb,0,False,False,,Ball REBOUND (Off:1 Def:0),22-22,22,22
 0021800375,2018-12-07,SAS,LAL,7.78,1,4,13,SAS,LAL,foul,1,False,False,,Hart P.FOUL (P1.T1) (K.Lane),22-22,22,22
 0021800375,2018-12-07,SAS,LAL,7.78,1,4,13,SAS,SAS,fg_miss,79,False,False,MISS Aldridge 21' Pullup Jump Shot,,22-22,22,22
 0021800375,2018-12-07,SAS,LAL,8.02,1,3,59,LAL,LAL,reb,0,False,False,,Hart REBOUND (Off:0 Def:2),22-22,22,22
@@ -128,8 +128,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800375,2018-12-07,SAS,LAL,15.25,2,8,45,SAS,LAL,foul,1,False,False,,Beasley P.FOUL (P2.T2) (A.Moyer-Gleich),41-46,41,46
 0021800375,2018-12-07,SAS,LAL,15.37,2,8,38,SAS,SAS,fg3_make,1,False,False,Cunningham 3PT Jump Shot (6 PTS) (Gay 2 AST),,44-46,44,46
 0021800375,2018-12-07,SAS,LAL,15.72,2,8,17,LAL,LAL,fg_miss,101,True,False,,MISS James 6' Driving Floating Jump Shot,44-46,44,46
-0021800375,2018-12-07,SAS,LAL,15.72,2,8,17,LAL,LAL,reb,0,False,False,,James REBOUND (Off:2 Def:3),44-46,44,46
 0021800375,2018-12-07,SAS,LAL,15.72,2,8,17,LAL,SAS,block,101,True,False,block,block,44-46,44,46
+0021800375,2018-12-07,SAS,LAL,15.72,2,8,17,LAL,LAL,reb,0,False,False,,James REBOUND (Off:2 Def:3),44-46,44,46
 0021800375,2018-12-07,SAS,LAL,15.88,2,8,7,LAL,LAL,fg_make,72,False,False,,James 1' Putback Layup (9 PTS),44-48,44,48
 0021800375,2018-12-07,SAS,LAL,15.95,2,8,3,SAS,SAS,tov,2,False,True,Gay Lost Ball Turnover (P2.T6),,44-48,44,48
 0021800375,2018-12-07,SAS,LAL,15.95,2,8,3,SAS,LAL,steal,2,False,True,steal,steal,44-48,44,48
@@ -179,8 +179,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800375,2018-12-07,SAS,LAL,19.27,2,4,44,LAL,LAL,reb,0,False,False,,McGee REBOUND (Off:2 Def:4),54-60,54,60
 0021800375,2018-12-07,SAS,LAL,19.33,2,4,40,LAL,LAL,fg3_make,80,False,False,,James 24' 3PT Step Back Jump Shot (20 PTS),54-63,54,63
 0021800375,2018-12-07,SAS,LAL,19.58,2,4,25,SAS,SAS,fg_miss,9,True,False,MISS Gay 3' Driving Dunk,,54-63,54,63
-0021800375,2018-12-07,SAS,LAL,19.58,2,4,25,LAL,LAL,reb,0,False,False,,Lakers Rebound,54-63,54,63
 0021800375,2018-12-07,SAS,LAL,19.58,2,4,25,SAS,LAL,block,9,True,False,block,block,54-63,54,63
+0021800375,2018-12-07,SAS,LAL,19.58,2,4,25,LAL,LAL,reb,0,False,False,,Lakers Rebound,54-63,54,63
 0021800375,2018-12-07,SAS,LAL,19.7,2,4,18,LAL,LAL,fg3_make,1,False,False,,Ball 24' 3PT Jump Shot (6 PTS) (James 8 AST),54-66,54,66
 0021800375,2018-12-07,SAS,LAL,19.98,2,4,1,SAS,SAS,fg3_miss,1,False,False,MISS Mills 26' 3PT Jump Shot,,54-66,54,66
 0021800375,2018-12-07,SAS,LAL,19.98,2,4,1,LAL,LAL,reb,0,False,False,,James REBOUND (Off:2 Def:5),54-66,54,66
@@ -355,8 +355,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800375,2018-12-07,SAS,LAL,37.9,4,10,6,LAL,LAL,fg3_miss,1,False,False,,MISS Caldwell-Pope 3PT Jump Shot,93-101,93,101
 0021800375,2018-12-07,SAS,LAL,37.97,4,10,2,LAL,LAL,reb,0,False,False,,Mykhailiuk REBOUND (Off:1 Def:0),93-101,93,101
 0021800375,2018-12-07,SAS,LAL,38.17,4,9,50,LAL,LAL,fg3_miss,1,False,False,,MISS Beasley 27' 3PT Jump Shot,93-101,93,101
-0021800375,2018-12-07,SAS,LAL,38.17,4,9,50,LAL,LAL,reb,0,False,False,,Lakers Rebound,93-101,93,101
 0021800375,2018-12-07,SAS,LAL,38.17,4,9,50,LAL,LAL,tov,11,False,False,,Lakers Turnover: Shot Clock (T#7),93-101,93,101
+0021800375,2018-12-07,SAS,LAL,38.17,4,9,50,LAL,LAL,reb,0,False,False,,Lakers Rebound,93-101,93,101
 0021800375,2018-12-07,SAS,LAL,38.32,4,9,41,SAS,LAL,foul,2,False,False,,Mykhailiuk S.FOUL (P2.T2) (J.Phillips),93-101,93,101
 0021800375,2018-12-07,SAS,LAL,38.32,4,9,41,SAS,SAS,ft_make,13,False,False,Mills Free Throw 1 of 3 (9 PTS),,94-101,94,101
 0021800375,2018-12-07,SAS,LAL,38.32,4,9,41,SAS,SAS,ft_make,14,False,False,Mills Free Throw 2 of 3 (10 PTS),,95-101,95,101

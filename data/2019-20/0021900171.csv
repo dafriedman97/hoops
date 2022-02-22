@@ -67,8 +67,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900171,2019-11-15,MIN,WAS,6.47,1,5,32,MIN,MIN,ft_make,10,False,False,Teague Free Throw 1 of 1 (3 PTS),,18-20,18,20
 0021900171,2019-11-15,MIN,WAS,6.67,1,5,20,WAS,WAS,fg_make,5,False,False,,Beal 1' Layup (8 PTS),18-22,18,22
 0021900171,2019-11-15,MIN,WAS,6.87,1,5,8,WAS,MIN,foul,26,False,False,Layman Offensive Charge Foul (P1.T4) (M.Davis),,18-22,18,22
-0021900171,2019-11-15,MIN,WAS,6.87,1,5,8,MIN,MIN,tov,37,False,False,Layman Offensive Foul Turnover (P1.T6),,18-22,18,22
 0021900171,2019-11-15,MIN,WAS,6.87,1,5,8,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.1 Short 0),18-22,18,22
+0021900171,2019-11-15,MIN,WAS,6.87,1,5,8,MIN,MIN,tov,37,False,False,Layman Offensive Foul Turnover (P1.T6),,18-22,18,22
 0021900171,2019-11-15,MIN,WAS,7.05,1,4,57,WAS,WAS,fg_make,9,False,False,,Hachimura Driving Dunk (4 PTS),18-24,18,24
 0021900171,2019-11-15,MIN,WAS,7.28,1,4,43,MIN,MIN,fg_make,108,False,False,Okogie Cutting Dunk Shot (6 PTS) (Teague 3 AST),,20-24,20,24
 0021900171,2019-11-15,MIN,WAS,7.48,1,4,31,MIN,WAS,foul,4,False,False,,Wagner OFF.Foul (P1) (M.Davis),20-24,20,24
@@ -153,11 +153,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900171,2019-11-15,MIN,WAS,15.37,2,8,38,WAS,WAS,fg_make,41,False,False,,Wagner 1' Running Layup (12 PTS) (Miles 1 AST),41-51,41,51
 0021900171,2019-11-15,MIN,WAS,15.5,2,8,30,MIN,WAS,foul,2,False,False,,Wagner S.FOUL (P3.T3) (H.Workman),41-51,41,51
 0021900171,2019-11-15,MIN,WAS,15.5,2,8,30,MIN,MIN,ft_make,16,False,False,Towns Free Throw Technical (15 PTS),,42-51,42,51
-0021900171,2019-11-15,MIN,WAS,15.5,2,8,30,MIN,,foul,11,False,False,,,42-51,42,51
+0021900171,2019-11-15,MIN,WAS,15.5,2,8,30,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.2 Short 0),45-51,45,51
 0021900171,2019-11-15,MIN,WAS,15.5,2,8,30,MIN,MIN,ft_make,13,False,False,Towns Free Throw 1 of 3 (16 PTS),,43-51,43,51
 0021900171,2019-11-15,MIN,WAS,15.5,2,8,30,MIN,MIN,ft_make,14,False,False,Towns Free Throw 2 of 3 (17 PTS),,44-51,44,51
 0021900171,2019-11-15,MIN,WAS,15.5,2,8,30,MIN,MIN,ft_make,15,False,False,Towns Free Throw 3 of 3 (18 PTS),,45-51,45,51
-0021900171,2019-11-15,MIN,WAS,15.5,2,8,30,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.2 Short 0),45-51,45,51
+0021900171,2019-11-15,MIN,WAS,15.5,2,8,30,MIN,,foul,11,False,False,,,42-51,42,51
 0021900171,2019-11-15,MIN,WAS,15.78,2,8,13,WAS,WAS,fg3_miss,1,False,False,,MISS Bertans 25' 3PT Jump Shot,45-51,45,51
 0021900171,2019-11-15,MIN,WAS,15.85,2,8,9,MIN,MIN,reb,0,False,False,Towns REBOUND (Off:1 Def:4),,45-51,45,51
 0021900171,2019-11-15,MIN,WAS,16.05,2,7,57,MIN,MIN,fg_make,3,False,False,Towns 2' Hook Shot (20 PTS) (Covington 1 AST),,47-51,47,51
@@ -291,8 +291,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900171,2019-11-15,MIN,WAS,28.72,3,7,17,WAS,MIN,block,6,True,False,block,block,84-84,84,84
 0021900171,2019-11-15,MIN,WAS,28.77,3,7,14,MIN,MIN,reb,0,False,False,Graham REBOUND (Off:1 Def:3),,84-84,84,84
 0021900171,2019-11-15,MIN,WAS,28.8,3,7,12,MIN,MIN,fg_miss,6,True,False,MISS Covington 2' Driving Layup,,84-84,84,84
-0021900171,2019-11-15,MIN,WAS,28.8,3,7,12,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,84-84,84,84
 0021900171,2019-11-15,MIN,WAS,28.8,3,7,12,MIN,WAS,block,6,True,False,block,block,84-84,84,84
+0021900171,2019-11-15,MIN,WAS,28.8,3,7,12,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,84-84,84,84
 0021900171,2019-11-15,MIN,WAS,28.9,3,7,6,MIN,MIN,fg3_miss,1,False,False,MISS Teague 24' 3PT Jump Shot,,84-84,84,84
 0021900171,2019-11-15,MIN,WAS,28.95,3,7,3,WAS,WAS,reb,0,False,False,,Hachimura REBOUND (Off:0 Def:2),84-84,84,84
 0021900171,2019-11-15,MIN,WAS,29.05,3,6,57,WAS,WAS,fg_make,79,False,False,,Beal 18' Pullup Jump Shot (25 PTS),84-86,84,86
@@ -444,8 +444,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900171,2019-11-15,MIN,WAS,44.55,4,3,27,WAS,WAS,fg3_miss,1,False,False,,MISS McRae 25' 3PT Jump Shot,110-126,110,126
 0021900171,2019-11-15,MIN,WAS,44.62,4,3,23,WAS,WAS,reb,0,False,False,,Wagner REBOUND (Off:1 Def:11),110-126,110,126
 0021900171,2019-11-15,MIN,WAS,44.62,4,3,23,WAS,WAS,fg_miss,72,True,False,,MISS Wagner 2' Putback Layup,110-126,110,126
-0021900171,2019-11-15,MIN,WAS,44.62,4,3,23,WAS,WAS,reb,0,False,False,,Smith REBOUND (Off:1 Def:3),110-126,110,126
 0021900171,2019-11-15,MIN,WAS,44.62,4,3,23,WAS,MIN,block,72,True,False,block,block,110-126,110,126
+0021900171,2019-11-15,MIN,WAS,44.62,4,3,23,WAS,WAS,reb,0,False,False,,Smith REBOUND (Off:1 Def:3),110-126,110,126
 0021900171,2019-11-15,MIN,WAS,44.78,4,3,13,WAS,MIN,foul,2,False,False,Bates-Diop S.FOUL (P1.T2) (M.Davis),,110-126,110,126
 0021900171,2019-11-15,MIN,WAS,44.78,4,3,13,WAS,WAS,ft_make,11,False,False,,Beal Free Throw 1 of 2 (43 PTS),110-127,110,127
 0021900171,2019-11-15,MIN,WAS,44.78,4,3,13,WAS,WAS,ft_make,12,False,False,,Beal Free Throw 2 of 2 (44 PTS),110-128,110,128

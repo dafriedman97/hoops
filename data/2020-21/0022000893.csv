@@ -36,10 +36,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000893,2021-04-22,ORL,NOP,4.77,1,7,14,ORL,ORL,fg_miss,57,False,False,MISS Harris 3' Driving Hook Shot,,12-13,12,13
 0022000893,2021-04-22,ORL,NOP,4.82,1,7,11,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:1 Def:1),,12-13,12,13
 0022000893,2021-04-22,ORL,NOP,4.83,1,7,10,ORL,ORL,fg_miss,5,True,False,MISS Bamba 4' Layup,,12-13,12,13
+0022000893,2021-04-22,ORL,NOP,4.83,1,7,10,ORL,NOP,block,5,True,False,block,block,12-13,12,13
 0022000893,2021-04-22,ORL,NOP,4.83,1,7,10,NOP,NOP,reb,0,False,False,,Adams REBOUND (Off:0 Def:3),12-13,12,13
 0022000893,2021-04-22,ORL,NOP,4.83,1,7,10,ORL,NOP,foul,26,False,False,,Ball Offensive Charge Foul (P1.T1) (C.Kirkland),12-13,12,13
 0022000893,2021-04-22,ORL,NOP,4.83,1,7,10,NOP,NOP,tov,37,False,False,,Ball Offensive Foul Turnover (P1.T2),12-13,12,13
-0022000893,2021-04-22,ORL,NOP,4.83,1,7,10,ORL,NOP,block,5,True,False,block,block,12-13,12,13
 0022000893,2021-04-22,ORL,NOP,4.98,1,7,1,ORL,ORL,fg_miss,1,False,False,MISS Anthony 8' Jump Shot,,12-13,12,13
 0022000893,2021-04-22,ORL,NOP,5.02,1,6,59,NOP,NOP,reb,0,False,False,,Adams REBOUND (Off:0 Def:4),12-13,12,13
 0022000893,2021-04-22,ORL,NOP,5.08,1,6,55,NOP,NOP,fg_make,103,False,False,,Ingram 19' Running Pull-Up Jump Shot (7 PTS) (Ball 2 AST),12-15,12,15
@@ -218,8 +218,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000893,2021-04-22,ORL,NOP,24.22,3,11,47,ORL,ORL,fg_make,101,False,False,Anthony 7' Driving Floating Jump Shot (11 PTS),,54-74,54,74
 0022000893,2021-04-22,ORL,NOP,24.57,3,11,26,NOP,NOP,fg_make,79,False,False,,Ingram 15' Pullup Jump Shot (20 PTS) (Ball 7 AST),54-76,54,76
 0022000893,2021-04-22,ORL,NOP,24.83,3,11,10,ORL,ORL,fg_miss,1,False,False,MISS Anthony 12' Jump Shot,,54-76,54,76
-0022000893,2021-04-22,ORL,NOP,24.88,3,11,7,ORL,ORL,fg_make,87,False,False,Bamba 2' Putback Dunk (10 PTS),,56-76,56,76
 0022000893,2021-04-22,ORL,NOP,24.88,3,11,7,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:4 Def:3),,56-76,56,76
+0022000893,2021-04-22,ORL,NOP,24.88,3,11,7,ORL,ORL,fg_make,87,False,False,Bamba 2' Putback Dunk (10 PTS),,56-76,56,76
 0022000893,2021-04-22,ORL,NOP,25.03,3,10,58,NOP,NOP,fg3_miss,1,False,False,,MISS Bledsoe 24' 3PT Jump Shot,56-76,56,76
 0022000893,2021-04-22,ORL,NOP,25.03,3,10,58,NOP,NOP,reb,0,False,False,,Williamson REBOUND (Off:3 Def:3),56-76,56,76
 0022000893,2021-04-22,ORL,NOP,25.08,3,10,55,NOP,NOP,fg3_miss,1,False,False,,MISS Ball 26' 3PT Jump Shot,56-76,56,76
@@ -236,9 +236,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000893,2021-04-22,ORL,NOP,26.28,3,9,43,NOP,NOP,reb,0,False,False,,Pelicans Rebound,56-79,56,79
 0022000893,2021-04-22,ORL,NOP,26.43,3,9,34,NOP,NOP,fg3_miss,1,False,False,,MISS Bledsoe 26' 3PT Jump Shot,56-79,56,79
 0022000893,2021-04-22,ORL,NOP,26.5,3,9,30,ORL,ORL,reb,0,False,False,Bacon REBOUND (Off:0 Def:3),,56-79,56,79
+0022000893,2021-04-22,ORL,NOP,26.6,3,9,24,NOP,NOP,timeout,1,False,False,,Pelicans Timeout: Regular (Reg.3 Short 0),56-79,56,79
 0022000893,2021-04-22,ORL,NOP,26.6,3,9,24,ORL,ORL,fg_miss,6,False,False,MISS Bacon 2' Driving Layup,,56-79,56,79
 0022000893,2021-04-22,ORL,NOP,26.6,3,9,24,ORL,ORL,reb,0,False,False,MAGIC Rebound,,56-79,56,79
-0022000893,2021-04-22,ORL,NOP,26.6,3,9,24,NOP,NOP,timeout,1,False,False,,Pelicans Timeout: Regular (Reg.3 Short 0),56-79,56,79
 0022000893,2021-04-22,ORL,NOP,26.7,3,9,18,,ORL,jump_ball,1,False,False,Jump Ball (CC) Bamba vs. Hayes: Tip to Anthony,,56-79,56,79
 0022000893,2021-04-22,ORL,NOP,26.95,3,9,3,ORL,ORL,tov,45,False,False,Bamba Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,56-79,56,79
 0022000893,2021-04-22,ORL,NOP,27.2,3,8,48,NOP,NOP,fg_make,6,False,False,,Williamson 2' Driving Layup (23 PTS) (Ball 8 AST),56-81,56,81
@@ -247,8 +247,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000893,2021-04-22,ORL,NOP,28.0,3,8,0,ORL,ORL,fg3_miss,1,False,False,MISS Bacon 26' 3PT Jump Shot,,59-83,59,83
 0022000893,2021-04-22,ORL,NOP,28.05,3,7,57,NOP,NOP,reb,0,False,False,,Williamson REBOUND (Off:3 Def:4),59-83,59,83
 0022000893,2021-04-22,ORL,NOP,28.18,3,7,49,NOP,NOP,fg_miss,5,True,False,,MISS Williamson 1' Layup,59-83,59,83
-0022000893,2021-04-22,ORL,NOP,28.18,3,7,49,NOP,NOP,reb,0,False,False,,Pelicans Rebound,59-83,59,83
 0022000893,2021-04-22,ORL,NOP,28.18,3,7,49,NOP,ORL,block,5,True,False,block,block,59-83,59,83
+0022000893,2021-04-22,ORL,NOP,28.18,3,7,49,NOP,NOP,reb,0,False,False,,Pelicans Rebound,59-83,59,83
 0022000893,2021-04-22,ORL,NOP,28.25,3,7,45,NOP,NOP,fg_make,79,False,False,,Ingram 16' Pullup Jump Shot (24 PTS) (Ball 9 AST),59-85,59,85
 0022000893,2021-04-22,ORL,NOP,28.52,3,7,29,ORL,ORL,fg3_miss,1,False,False,MISS Okeke 27' 3PT Jump Shot,,59-85,59,85
 0022000893,2021-04-22,ORL,NOP,28.58,3,7,25,NOP,NOP,reb,0,False,False,,Ball REBOUND (Off:0 Def:4),59-85,59,85
@@ -317,10 +317,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000893,2021-04-22,ORL,NOP,35.72,3,0,17,ORL,ORL,reb,0,False,False,Hall REBOUND (Off:3 Def:1),,68-108,68,108
 0022000893,2021-04-22,ORL,NOP,35.72,3,0,17,ORL,ORL,fg_make,97,False,False,Hall Tip Layup Shot (4 PTS),,70-108,70,108
 0022000893,2021-04-22,ORL,NOP,36.0,3,0,0,NOP,NOP,fg_miss,5,True,False,,MISS Lewis Jr. 4' Layup,70-108,70,108
+0022000893,2021-04-22,ORL,NOP,36.0,3,0,0,NOP,ORL,block,5,True,False,block,block,70-108,70,108
 0022000893,2021-04-22,ORL,NOP,36.0,3,0,0,ORL,ORL,reb,0,False,False,Hall REBOUND (Off:3 Def:2),,70-108,70,108
 0022000893,2021-04-22,ORL,NOP,36.0,3,0,0,ORL,,period_end,0,False,False,,,70-108,70,108
 0022000893,2021-04-22,ORL,NOP,36.0,4,12,0,ORL,,period_start,0,False,False,,,70-108,70,108
-0022000893,2021-04-22,ORL,NOP,36.0,3,0,0,NOP,ORL,block,5,True,False,block,block,70-108,70,108
 0022000893,2021-04-22,ORL,NOP,36.28,4,11,43,NOP,NOP,fg3_miss,1,False,False,,MISS Lewis Jr. 26' 3PT Jump Shot,70-108,70,108
 0022000893,2021-04-22,ORL,NOP,36.33,4,11,40,ORL,ORL,reb,0,False,False,Hampton REBOUND (Off:0 Def:3),,70-108,70,108
 0022000893,2021-04-22,ORL,NOP,36.47,4,11,32,ORL,ORL,fg3_miss,1,False,False,MISS Randle 26' 3PT Jump Shot,,70-108,70,108

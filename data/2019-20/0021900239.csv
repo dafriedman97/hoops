@@ -129,8 +129,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900239,2019-11-24,LAC,NOP,13.5,2,10,30,NOP,NOP,fg3_miss,1,False,False,,MISS Melli 26' 3PT Jump Shot,45-29,45,29
 0021900239,2019-11-24,LAC,NOP,13.55,2,10,27,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:0 Def:4),,45-29,45,29
 0021900239,2019-11-24,LAC,NOP,13.67,2,10,20,LAC,LAC,fg_miss,6,True,False,MISS Harrell 2' Driving Layup,,45-29,45,29
-0021900239,2019-11-24,LAC,NOP,13.67,2,10,20,NOP,NOP,reb,0,False,False,,Pelicans Rebound,45-29,45,29
 0021900239,2019-11-24,LAC,NOP,13.67,2,10,20,LAC,NOP,block,6,True,False,block,block,45-29,45,29
+0021900239,2019-11-24,LAC,NOP,13.67,2,10,20,NOP,NOP,reb,0,False,False,,Pelicans Rebound,45-29,45,29
 0021900239,2019-11-24,LAC,NOP,13.87,2,10,8,NOP,NOP,fg_miss,78,False,False,,MISS Holiday 5' Floating Jump Shot,45-29,45,29
 0021900239,2019-11-24,LAC,NOP,13.9,2,10,6,NOP,NOP,reb,0,False,False,,Pelicans Rebound,45-29,45,29
 0021900239,2019-11-24,LAC,NOP,14.02,2,9,59,NOP,NOP,fg_miss,101,False,False,,MISS Jackson 10' Driving Floating Jump Shot,45-29,45,29
@@ -282,9 +282,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900239,2019-11-24,LAC,NOP,29.22,3,6,47,NOP,NOP,fg3_make,103,False,False,,Ingram 25' 3PT Running Pull-Up Jump Shot (19 PTS) (Holiday 3 AST),82-76,82,76
 0021900239,2019-11-24,LAC,NOP,29.23,3,6,46,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 3 Short 0),,82-76,82,76
 0021900239,2019-11-24,LAC,NOP,29.42,3,6,35,LAC,LAC,fg_miss,78,True,False,MISS Williams 10' Floating Jump Shot,,82-76,82,76
+0021900239,2019-11-24,LAC,NOP,29.42,3,6,35,LAC,NOP,block,78,True,False,block,block,82-76,82,76
 0021900239,2019-11-24,LAC,NOP,29.42,3,6,35,LAC,LAC,reb,0,False,False,Williams REBOUND (Off:1 Def:0),,82-76,82,76
 0021900239,2019-11-24,LAC,NOP,29.42,3,6,35,LAC,NOP,foul,2,False,False,,Hayes S.FOUL (P3.T4) (T.Brothers),82-76,82,76
-0021900239,2019-11-24,LAC,NOP,29.42,3,6,35,LAC,NOP,block,78,True,False,block,block,82-76,82,76
 0021900239,2019-11-24,LAC,NOP,29.42,3,6,35,LAC,LAC,ft_make,11,False,False,Williams Free Throw 1 of 2 (9 PTS),,83-76,83,76
 0021900239,2019-11-24,LAC,NOP,29.42,3,6,35,LAC,LAC,ft_make,12,False,False,Williams Free Throw 2 of 2 (10 PTS),,84-76,84,76
 0021900239,2019-11-24,LAC,NOP,29.58,3,6,25,NOP,NOP,tov,4,False,False,,Holiday Traveling Turnover (P1.T5),84-76,84,76
@@ -389,8 +389,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900239,2019-11-24,LAC,NOP,40.48,4,7,31,NOP,NOP,fg3_miss,1,False,False,,MISS Ingram 24' 3PT Jump Shot,111-91,111,91
 0021900239,2019-11-24,LAC,NOP,40.55,4,7,27,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:3 Def:7),,111-91,111,91
 0021900239,2019-11-24,LAC,NOP,40.72,4,7,17,LAC,LAC,fg_miss,98,True,False,MISS Harrell 2' Cutting Layup Shot,,111-91,111,91
-0021900239,2019-11-24,LAC,NOP,40.72,4,7,17,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:4 Def:7),,111-91,111,91
 0021900239,2019-11-24,LAC,NOP,40.72,4,7,17,LAC,NOP,block,98,True,False,block,block,111-91,111,91
+0021900239,2019-11-24,LAC,NOP,40.72,4,7,17,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:4 Def:7),,111-91,111,91
 0021900239,2019-11-24,LAC,NOP,40.72,4,7,17,LAC,LAC,fg_make,87,False,False,Harrell 1' Putback Dunk (26 PTS),,113-91,113,91
 0021900239,2019-11-24,LAC,NOP,40.72,4,7,17,LAC,NOP,foul,2,False,False,,Ingram S.FOUL (P3.T3) (R.Mott),113-91,113,91
 0021900239,2019-11-24,LAC,NOP,40.72,4,7,17,LAC,LAC,ft_make,10,False,False,Harrell Free Throw 1 of 1 (27 PTS),,114-91,114,91
@@ -428,9 +428,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900239,2019-11-24,LAC,NOP,44.55,4,3,27,LAC,LAC,ft_make,11,False,False,Leonard Free Throw 1 of 2 (25 PTS),,122-105,122,105
 0021900239,2019-11-24,LAC,NOP,44.55,4,3,27,LAC,LAC,ft_make,12,False,False,Leonard Free Throw 2 of 2 (26 PTS),,123-105,123,105
 0021900239,2019-11-24,LAC,NOP,44.67,4,3,20,NOP,NOP,fg_miss,1,True,False,,MISS Jackson 16' Jump Shot,123-105,123,105
+0021900239,2019-11-24,LAC,NOP,44.67,4,3,20,NOP,LAC,block,1,True,False,block,block,123-105,123,105
 0021900239,2019-11-24,LAC,NOP,44.67,4,3,20,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,123-105,123,105
 0021900239,2019-11-24,LAC,NOP,44.67,4,3,20,LAC,NOP,foul,3,False,False,,Hayes L.B.FOUL (P5.PN) (R.Mott),123-105,123,105
-0021900239,2019-11-24,LAC,NOP,44.67,4,3,20,NOP,LAC,block,1,True,False,block,block,123-105,123,105
 0021900239,2019-11-24,LAC,NOP,44.67,4,3,20,LAC,LAC,ft_make,11,False,False,Harrell Free Throw 1 of 2 (31 PTS),,124-105,124,105
 0021900239,2019-11-24,LAC,NOP,44.67,4,3,20,LAC,LAC,ft_make,12,False,False,Harrell Free Throw 2 of 2 (32 PTS),,125-105,125,105
 0021900239,2019-11-24,LAC,NOP,44.87,4,3,8,NOP,NOP,fg3_miss,1,False,False,,MISS Alexander-Walker 27' 3PT Jump Shot,125-105,125,105
@@ -455,8 +455,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900239,2019-11-24,LAC,NOP,46.53,4,1,28,LAC,NOP,block,5,True,False,block,block,132-106,132,106
 0021900239,2019-11-24,LAC,NOP,46.57,4,1,26,LAC,LAC,reb,0,False,False,Harkless REBOUND (Off:1 Def:3),,132-106,132,106
 0021900239,2019-11-24,LAC,NOP,46.6,4,1,24,LAC,LAC,fg_miss,5,True,False,MISS Harkless 1' Layup,,132-106,132,106
-0021900239,2019-11-24,LAC,NOP,46.6,4,1,24,NOP,NOP,reb,0,False,False,,Alexander-Walker REBOUND (Off:0 Def:1),132-106,132,106
 0021900239,2019-11-24,LAC,NOP,46.6,4,1,24,LAC,NOP,block,5,True,False,block,block,132-106,132,106
+0021900239,2019-11-24,LAC,NOP,46.6,4,1,24,NOP,NOP,reb,0,False,False,,Alexander-Walker REBOUND (Off:0 Def:1),132-106,132,106
 0021900239,2019-11-24,LAC,NOP,46.87,4,1,8,NOP,LAC,foul,2,False,False,Mann S.FOUL (P1.PN) (T.Brothers),,132-106,132,106
 0021900239,2019-11-24,LAC,NOP,46.87,4,1,8,NOP,NOP,ft_miss,11,False,False,,MISS Alexander-Walker Free Throw 1 of 2,132-106,132,106
 0021900239,2019-11-24,LAC,NOP,46.87,4,1,8,NOP,NOP,reb,1,False,False,,Pelicans Rebound,132-106,132,106

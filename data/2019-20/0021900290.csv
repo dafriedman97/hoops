@@ -29,8 +29,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900290,2019-12-01,ORL,GSW,3.48,1,8,31,ORL,ORL,fg_miss,5,False,False,MISS Gordon 9' Layup,,7-4,7,4
 0021900290,2019-12-01,ORL,GSW,3.48,1,8,31,GSW,GSW,reb,0,False,False,,Cauley-Stein REBOUND (Off:0 Def:2),7-4,7,4
 0021900290,2019-12-01,ORL,GSW,3.58,1,8,25,GSW,GSW,fg_miss,6,True,False,,MISS Paschall 6' Driving Layup,7-4,7,4
-0021900290,2019-12-01,ORL,GSW,3.58,1,8,25,GSW,GSW,reb,0,False,False,,Cauley-Stein REBOUND (Off:1 Def:2),7-4,7,4
 0021900290,2019-12-01,ORL,GSW,3.58,1,8,25,GSW,ORL,block,6,True,False,block,block,7-4,7,4
+0021900290,2019-12-01,ORL,GSW,3.58,1,8,25,GSW,GSW,reb,0,False,False,,Cauley-Stein REBOUND (Off:1 Def:2),7-4,7,4
 0021900290,2019-12-01,ORL,GSW,3.83,1,8,10,GSW,GSW,fg_make,108,False,False,,Cauley-Stein 2' Cutting Dunk Shot (2 PTS) (Burks 2 AST),7-6,7,6
 0021900290,2019-12-01,ORL,GSW,4.25,1,7,45,ORL,ORL,fg_make,101,False,False,Fournier 10' Driving Floating Jump Shot (2 PTS),,9-6,9,6
 0021900290,2019-12-01,ORL,GSW,4.62,1,7,23,GSW,GSW,fg_miss,1,False,False,,MISS Robinson III 18' Jump Shot,9-6,9,6
@@ -136,9 +136,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900290,2019-12-01,ORL,GSW,15.33,2,8,40,GSW,GSW,fg3_miss,1,False,False,,MISS Spellman 26' 3PT Jump Shot,34-24,34,24
 0021900290,2019-12-01,ORL,GSW,15.37,2,8,38,GSW,GSW,reb,0,False,False,,Bowman REBOUND (Off:1 Def:1),34-24,34,24
 0021900290,2019-12-01,ORL,GSW,15.6,2,8,24,GSW,GSW,fg_miss,101,True,False,,MISS Paschall 6' Driving Floating Jump Shot,34-24,34,24
+0021900290,2019-12-01,ORL,GSW,15.6,2,8,24,GSW,ORL,block,101,True,False,block,block,34-24,34,24
 0021900290,2019-12-01,ORL,GSW,15.6,2,8,24,GSW,GSW,reb,0,False,False,,Warriors Rebound,34-24,34,24
 0021900290,2019-12-01,ORL,GSW,15.6,2,8,24,GSW,GSW,tov,11,False,False,,Warriors Turnover: Shot Clock (T#6),34-24,34,24
-0021900290,2019-12-01,ORL,GSW,15.6,2,8,24,GSW,ORL,block,101,True,False,block,block,34-24,34,24
 0021900290,2019-12-01,ORL,GSW,15.82,2,8,11,ORL,ORL,fg_make,6,False,False,Fournier 1' Driving Layup (13 PTS),,36-24,36,24
 0021900290,2019-12-01,ORL,GSW,16.23,2,7,46,GSW,GSW,fg_make,79,False,False,,Paschall 17' Pullup Jump Shot (8 PTS),36-26,36,26
 0021900290,2019-12-01,ORL,GSW,16.5,2,7,30,ORL,ORL,fg_miss,79,False,False,MISS Fournier 7' Pullup Jump Shot,,36-26,36,26
@@ -196,10 +196,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900290,2019-12-01,ORL,GSW,23.68,2,0,19,GSW,ORL,foul,4,False,False,Birch OFF.Foul (P1) (J.Capers),,51-51,51,51
 0021900290,2019-12-01,ORL,GSW,23.68,2,0,19,ORL,ORL,tov,37,False,False,Birch Offensive Foul Turnover (P1.T8),,51-51,51,51
 0021900290,2019-12-01,ORL,GSW,24.0,2,0,0,GSW,GSW,fg_miss,1,True,False,,MISS Paschall 13' Jump Shot,51-51,51,51
+0021900290,2019-12-01,ORL,GSW,24.0,2,0,0,GSW,ORL,block,1,True,False,block,block,51-51,51,51
 0021900290,2019-12-01,ORL,GSW,24.0,2,0,0,GSW,GSW,reb,0,False,False,,Paschall REBOUND (Off:3 Def:2),51-51,51,51
 0021900290,2019-12-01,ORL,GSW,24.0,2,0,0,GSW,,period_end,0,False,False,,,51-51,51,51
 0021900290,2019-12-01,ORL,GSW,24.0,3,12,0,GSW,,period_start,0,False,False,,,51-51,51,51
-0021900290,2019-12-01,ORL,GSW,24.0,2,0,0,GSW,ORL,block,1,True,False,block,block,51-51,51,51
 0021900290,2019-12-01,ORL,GSW,24.33,3,11,40,ORL,ORL,fg_miss,6,False,False,MISS Fultz 2' Driving Layup,,51-51,51,51
 0021900290,2019-12-01,ORL,GSW,24.4,3,11,36,ORL,ORL,reb,0,False,False,Birch REBOUND (Off:1 Def:1),,51-51,51,51
 0021900290,2019-12-01,ORL,GSW,24.4,3,11,36,ORL,ORL,fg_miss,97,False,False,MISS Birch 1' Tip Layup Shot,,51-51,51,51
@@ -292,8 +292,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900290,2019-12-01,ORL,GSW,33.2,3,2,48,ORL,ORL,fg_make,6,False,False,Gordon 4' Driving Layup (6 PTS),,70-63,70,63
 0021900290,2019-12-01,ORL,GSW,33.38,3,2,37,GSW,GSW,fg_make,101,False,False,,Bowman 13' Driving Floating Jump Shot (4 PTS),70-65,70,65
 0021900290,2019-12-01,ORL,GSW,33.7,3,2,18,ORL,ORL,fg_miss,6,True,False,MISS Iwundu 4' Driving Layup,,70-65,70,65
-0021900290,2019-12-01,ORL,GSW,33.7,3,2,18,ORL,ORL,reb,0,False,False,Iwundu REBOUND (Off:1 Def:0),,70-65,70,65
 0021900290,2019-12-01,ORL,GSW,33.7,3,2,18,ORL,GSW,block,6,True,False,block,block,70-65,70,65
+0021900290,2019-12-01,ORL,GSW,33.7,3,2,18,ORL,ORL,reb,0,False,False,Iwundu REBOUND (Off:1 Def:0),,70-65,70,65
 0021900290,2019-12-01,ORL,GSW,33.77,3,2,14,ORL,ORL,fg_miss,6,False,False,MISS Iwundu 1' Driving Layup,,70-65,70,65
 0021900290,2019-12-01,ORL,GSW,33.8,3,2,12,GSW,GSW,reb,0,False,False,,Chriss REBOUND (Off:0 Def:4),70-65,70,65
 0021900290,2019-12-01,ORL,GSW,33.83,3,2,10,GSW,GSW,fg_make,41,False,False,,Bowman 1' Running Layup (6 PTS),70-67,70,67
@@ -320,10 +320,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900290,2019-12-01,ORL,GSW,35.88,3,0,7,GSW,GSW,reb,0,False,False,,Bowman REBOUND (Off:2 Def:1),72-68,72,68
 0021900290,2019-12-01,ORL,GSW,35.92,3,0,5,GSW,GSW,fg3_make,1,False,False,,Bowman 3PT Jump Shot (10 PTS),72-71,72,71
 0021900290,2019-12-01,ORL,GSW,36.0,3,0,0,ORL,ORL,fg3_miss,1,True,False,MISS Augustin 29' 3PT Jump Shot,,72-71,72,71
+0021900290,2019-12-01,ORL,GSW,36.0,3,0,0,ORL,GSW,block,1,True,False,block,block,72-71,72,71
 0021900290,2019-12-01,ORL,GSW,36.0,3,0,0,ORL,ORL,reb,0,False,False,MAGIC Rebound,,72-71,72,71
 0021900290,2019-12-01,ORL,GSW,36.0,3,0,0,ORL,,period_end,0,False,False,,,72-71,72,71
 0021900290,2019-12-01,ORL,GSW,36.0,4,12,0,ORL,,period_start,0,False,False,,,72-71,72,71
-0021900290,2019-12-01,ORL,GSW,36.0,3,0,0,ORL,GSW,block,1,True,False,block,block,72-71,72,71
 0021900290,2019-12-01,ORL,GSW,36.17,4,11,50,GSW,GSW,fg_make,108,False,False,,Spellman 1' Cutting Dunk Shot (4 PTS) (Bowman 2 AST),72-73,72,73
 0021900290,2019-12-01,ORL,GSW,36.53,4,11,28,ORL,ORL,fg3_miss,1,False,False,MISS Gordon 25' 3PT Jump Shot,,72-73,72,73
 0021900290,2019-12-01,ORL,GSW,36.53,4,11,28,GSW,GSW,reb,0,False,False,,Warriors Rebound,72-73,72,73
@@ -348,8 +348,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900290,2019-12-01,ORL,GSW,38.8,4,9,12,GSW,GSW,reb,0,False,False,,Warriors Rebound,75-76,75,76
 0021900290,2019-12-01,ORL,GSW,38.8,4,9,12,GSW,ORL,foul,3,False,False,Gordon L.B.FOUL (P2.T3) (J.Capers),,75-76,75,76
 0021900290,2019-12-01,ORL,GSW,39.18,4,8,49,GSW,GSW,fg3_miss,1,True,False,,MISS Poole 30' 3PT Jump Shot,75-76,75,76
-0021900290,2019-12-01,ORL,GSW,39.18,4,8,49,GSW,GSW,reb,0,False,False,,Warriors Rebound,75-76,75,76
 0021900290,2019-12-01,ORL,GSW,39.18,4,8,49,GSW,ORL,block,1,True,False,block,block,75-76,75,76
+0021900290,2019-12-01,ORL,GSW,39.18,4,8,49,GSW,GSW,reb,0,False,False,,Warriors Rebound,75-76,75,76
 0021900290,2019-12-01,ORL,GSW,39.2,4,8,48,GSW,GSW,fg3_miss,1,False,False,,MISS Poole 31' 3PT Jump Shot,75-76,75,76
 0021900290,2019-12-01,ORL,GSW,39.2,4,8,48,GSW,GSW,reb,0,False,False,,Warriors Rebound,75-76,75,76
 0021900290,2019-12-01,ORL,GSW,39.2,4,8,48,GSW,GSW,tov,11,False,False,,Warriors Turnover: Shot Clock (T#11),75-76,75,76
@@ -412,13 +412,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900290,2019-12-01,ORL,GSW,46.52,4,1,29,ORL,ORL,fg3_miss,1,False,False,MISS Fournier 26' 3PT Jump Shot,,90-89,90,89
 0021900290,2019-12-01,ORL,GSW,46.57,4,1,26,ORL,ORL,reb,0,False,False,Birch REBOUND (Off:5 Def:4),,90-89,90,89
 0021900290,2019-12-01,ORL,GSW,46.6,4,1,24,ORL,ORL,fg_miss,5,True,False,MISS Birch 3' Layup,,90-89,90,89
-0021900290,2019-12-01,ORL,GSW,46.6,4,1,24,ORL,ORL,reb,0,False,False,Birch REBOUND (Off:6 Def:4),,90-89,90,89
 0021900290,2019-12-01,ORL,GSW,46.6,4,1,24,ORL,GSW,block,5,True,False,block,block,90-89,90,89
+0021900290,2019-12-01,ORL,GSW,46.6,4,1,24,ORL,ORL,reb,0,False,False,Birch REBOUND (Off:6 Def:4),,90-89,90,89
 0021900290,2019-12-01,ORL,GSW,46.62,4,1,23,ORL,ORL,fg3_make,1,False,False,Ross 26' 3PT Jump Shot (19 PTS) (Birch 3 AST),,93-89,93,89
 0021900290,2019-12-01,ORL,GSW,46.62,4,1,23,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.5 Short 0),93-89,93,89
 0021900290,2019-12-01,ORL,GSW,46.7,4,1,18,GSW,GSW,tov,1,False,True,,Bowman Bad Pass Turnover (P2.T12),93-89,93,89
-0021900290,2019-12-01,ORL,GSW,46.7,4,1,18,ORL,GSW,foul,1,False,False,,Green P.FOUL (P3.PN) (B.Adair),93-89,93,89
 0021900290,2019-12-01,ORL,GSW,46.7,4,1,18,GSW,ORL,steal,1,False,True,steal,steal,93-89,93,89
+0021900290,2019-12-01,ORL,GSW,46.7,4,1,18,ORL,GSW,foul,1,False,False,,Green P.FOUL (P3.PN) (B.Adair),93-89,93,89
 0021900290,2019-12-01,ORL,GSW,46.7,4,1,18,ORL,ORL,ft_make,11,False,False,Birch Free Throw 1 of 2 (5 PTS),,94-89,94,89
 0021900290,2019-12-01,ORL,GSW,46.7,4,1,18,ORL,ORL,ft_make,12,False,False,Birch Free Throw 2 of 2 (6 PTS),,95-89,95,89
 0021900290,2019-12-01,ORL,GSW,46.87,4,1,8,GSW,GSW,fg_miss,101,False,False,,MISS Robinson III 12' Driving Floating Jump Shot,95-89,95,89

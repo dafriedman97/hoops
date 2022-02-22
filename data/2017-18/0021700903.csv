@@ -13,8 +13,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700903,2018-02-26,OKC,ORL,1.32,1,10,41,ORL,ORL,ft_make,11,False,False,,Gordon Free Throw 1 of 2 (3 PTS),2-3,2,3
 0021700903,2018-02-26,OKC,ORL,1.32,1,10,41,ORL,ORL,ft_make,12,False,False,,Gordon Free Throw 2 of 2 (4 PTS),2-4,2,4
 0021700903,2018-02-26,OKC,ORL,1.68,1,10,19,OKC,OKC,fg_miss,6,True,False,MISS George 6' Driving Layup,,2-4,2,4
-0021700903,2018-02-26,OKC,ORL,1.68,1,10,19,OKC,OKC,reb,0,False,False,THUNDER Rebound,,2-4,2,4
 0021700903,2018-02-26,OKC,ORL,1.68,1,10,19,OKC,ORL,block,6,True,False,block,block,2-4,2,4
+0021700903,2018-02-26,OKC,ORL,1.68,1,10,19,OKC,OKC,reb,0,False,False,THUNDER Rebound,,2-4,2,4
 0021700903,2018-02-26,OKC,ORL,1.7,1,10,18,OKC,OKC,fg_miss,43,False,False,MISS Huestis 3' Alley Oop Layup,,2-4,2,4
 0021700903,2018-02-26,OKC,ORL,1.72,1,10,17,OKC,OKC,reb,0,False,False,Huestis REBOUND (Off:1 Def:0),,2-4,2,4
 0021700903,2018-02-26,OKC,ORL,1.72,1,10,17,OKC,OKC,fg_make,72,False,False,Huestis 1' Putback Layup (2 PTS),,4-4,4,4
@@ -200,10 +200,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700903,2018-02-26,OKC,ORL,23.87,2,0,8,ORL,ORL,fg3_miss,79,False,False,,MISS Fournier 25' 3PT Pullup Jump Shot,61-62,61,62
 0021700903,2018-02-26,OKC,ORL,23.93,2,0,4,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:2 Def:5),,61-62,61,62
 0021700903,2018-02-26,OKC,ORL,24.0,2,0,0,OKC,OKC,fg3_miss,103,True,False,MISS Abrines 26' 3PT Running Pull-Up Jump Shot,,61-62,61,62
+0021700903,2018-02-26,OKC,ORL,24.0,2,0,0,OKC,ORL,block,103,True,False,block,block,61-62,61,62
 0021700903,2018-02-26,OKC,ORL,24.0,2,0,0,OKC,OKC,reb,0,False,False,THUNDER Rebound,,61-62,61,62
 0021700903,2018-02-26,OKC,ORL,24.0,2,0,0,OKC,,period_end,0,False,False,,,61-62,61,62
 0021700903,2018-02-26,OKC,ORL,24.0,3,12,0,OKC,,period_start,0,False,False,,,61-62,61,62
-0021700903,2018-02-26,OKC,ORL,24.0,2,0,0,OKC,ORL,block,103,True,False,block,block,61-62,61,62
 0021700903,2018-02-26,OKC,ORL,24.32,3,11,41,ORL,ORL,fg_miss,102,False,False,,MISS Gordon 10' Driving Floating Bank Jump Shot,61-62,61,62
 0021700903,2018-02-26,OKC,ORL,24.35,3,11,39,OKC,OKC,reb,0,False,False,Anthony REBOUND (Off:2 Def:2),,61-62,61,62
 0021700903,2018-02-26,OKC,ORL,24.7,3,11,18,OKC,OKC,fg_make,47,False,False,Anthony 5' Turnaround Jump Shot (9 PTS),,63-62,63,62
@@ -229,8 +229,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700903,2018-02-26,OKC,ORL,26.62,3,9,23,ORL,ORL,reb,1,False,False,,Magic Rebound,67-64,67,64
 0021700903,2018-02-26,OKC,ORL,26.62,3,9,23,ORL,ORL,ft_make,12,False,False,,Simmons Free Throw 2 of 2 (7 PTS),67-65,67,65
 0021700903,2018-02-26,OKC,ORL,26.9,3,9,6,OKC,OKC,fg_miss,6,True,False,MISS Anthony 6' Driving Layup,,67-65,67,65
-0021700903,2018-02-26,OKC,ORL,26.9,3,9,6,OKC,OKC,reb,0,False,False,THUNDER Rebound,,67-65,67,65
 0021700903,2018-02-26,OKC,ORL,26.9,3,9,6,OKC,ORL,block,6,True,False,block,block,67-65,67,65
+0021700903,2018-02-26,OKC,ORL,26.9,3,9,6,OKC,OKC,reb,0,False,False,THUNDER Rebound,,67-65,67,65
 0021700903,2018-02-26,OKC,ORL,26.98,3,9,1,OKC,OKC,fg3_miss,79,False,False,MISS George 25' 3PT Pullup Jump Shot,,67-65,67,65
 0021700903,2018-02-26,OKC,ORL,27.03,3,8,58,ORL,ORL,reb,0,False,False,,Vucevic REBOUND (Off:2 Def:3),67-65,67,65
 0021700903,2018-02-26,OKC,ORL,27.25,3,8,45,ORL,ORL,fg_miss,98,True,False,,MISS Vucevic 4' Cutting Layup Shot,67-65,67,65
@@ -340,8 +340,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700903,2018-02-26,OKC,ORL,37.55,4,10,27,OKC,OKC,fg_miss,6,False,False,MISS Felton Driving Layup,,86-79,86,79
 0021700903,2018-02-26,OKC,ORL,37.58,4,10,25,ORL,ORL,reb,0,False,False,,Hezonja REBOUND (Off:0 Def:3),86-79,86,79
 0021700903,2018-02-26,OKC,ORL,37.65,4,10,21,ORL,ORL,fg_miss,6,True,False,,MISS Hezonja 3' Driving Layup,86-79,86,79
-0021700903,2018-02-26,OKC,ORL,37.65,4,10,21,ORL,ORL,reb,0,False,False,,Magic Rebound,86-79,86,79
 0021700903,2018-02-26,OKC,ORL,37.65,4,10,21,ORL,OKC,block,6,True,False,block,block,86-79,86,79
+0021700903,2018-02-26,OKC,ORL,37.65,4,10,21,ORL,ORL,reb,0,False,False,,Magic Rebound,86-79,86,79
 0021700903,2018-02-26,OKC,ORL,37.95,4,10,3,ORL,ORL,fg_miss,101,False,False,,MISS Iwundu 11' Driving Floating Jump Shot,86-79,86,79
 0021700903,2018-02-26,OKC,ORL,38.02,4,9,59,ORL,ORL,reb,0,False,False,,Iwundu REBOUND (Off:1 Def:1),86-79,86,79
 0021700903,2018-02-26,OKC,ORL,38.03,4,9,58,ORL,ORL,fg3_make,1,False,False,,Mack 25' 3PT Jump Shot (5 PTS) (Iwundu 1 AST),86-82,86,82
@@ -391,8 +391,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700903,2018-02-26,OKC,ORL,43.22,4,4,47,ORL,ORL,fg3_miss,1,False,False,,MISS Gordon 25' 3PT Jump Shot,103-91,103,91
 0021700903,2018-02-26,OKC,ORL,43.25,4,4,45,OKC,OKC,reb,0,False,False,THUNDER Rebound,,103-91,103,91
 0021700903,2018-02-26,OKC,ORL,43.5,4,4,30,OKC,OKC,fg_miss,5,True,False,MISS Adams 2' Layup,,103-91,103,91
-0021700903,2018-02-26,OKC,ORL,43.5,4,4,30,ORL,ORL,reb,0,False,False,,Magic Rebound,103-91,103,91
 0021700903,2018-02-26,OKC,ORL,43.5,4,4,30,OKC,ORL,block,5,True,False,block,block,103-91,103,91
+0021700903,2018-02-26,OKC,ORL,43.5,4,4,30,ORL,ORL,reb,0,False,False,,Magic Rebound,103-91,103,91
 0021700903,2018-02-26,OKC,ORL,43.73,4,4,16,ORL,ORL,fg_make,6,False,False,,Augustin 2' Driving Layup (10 PTS),103-93,103,93
 0021700903,2018-02-26,OKC,ORL,44.0,4,4,0,OKC,OKC,fg_miss,47,False,False,MISS Anthony 10' Turnaround Jump Shot,,103-93,103,93
 0021700903,2018-02-26,OKC,ORL,44.08,4,3,55,ORL,ORL,reb,0,False,False,,Fournier REBOUND (Off:0 Def:3),103-93,103,93

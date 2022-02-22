@@ -17,8 +17,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700885,2018-02-24,MIA,MEM,1.55,1,10,27,MEM,MEM,ft_make,12,False,False,,Davis Free Throw 2 of 2 (2 PTS),2-4,2,4
 0021700885,2018-02-24,MIA,MEM,1.68,1,10,19,MIA,MEM,foul,1,False,False,,Harrison P.FOUL (P1.T2) (J.Tiven),2-4,2,4
 0021700885,2018-02-24,MIA,MEM,1.8,1,10,12,MIA,MIA,fg_miss,5,True,False,MISS Whiteside 2' Layup,,2-4,2,4
-0021700885,2018-02-24,MIA,MEM,1.8,1,10,12,MIA,MIA,reb,0,False,False,HEAT Rebound,,2-4,2,4
 0021700885,2018-02-24,MIA,MEM,1.8,1,10,12,MIA,MEM,block,5,True,False,block,block,2-4,2,4
+0021700885,2018-02-24,MIA,MEM,1.8,1,10,12,MIA,MIA,reb,0,False,False,HEAT Rebound,,2-4,2,4
 0021700885,2018-02-24,MIA,MEM,1.88,1,10,7,MIA,MIA,fg_make,9,False,False,Whiteside 1' Driving Dunk (2 PTS) (Dragic 1 AST),,4-4,4,4
 0021700885,2018-02-24,MIA,MEM,2.18,1,9,49,MEM,MEM,tov,45,False,False,,Harrison Out of Bounds - Bad Pass Turnover Turnover (P1.T1),4-4,4,4
 0021700885,2018-02-24,MIA,MEM,2.28,1,9,43,MIA,MIA,fg3_make,79,False,False,Dragic 25' 3PT Pullup Jump Shot (3 PTS),,7-4,7,4
@@ -135,8 +135,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700885,2018-02-24,MIA,MEM,14.38,2,9,37,MIA,MIA,fg_miss,3,False,False,MISS Richardson 6' Hook Shot,,44-35,44,35
 0021700885,2018-02-24,MIA,MEM,14.43,2,9,34,MIA,MIA,reb,0,False,False,Wade REBOUND (Off:2 Def:0),,44-35,44,35
 0021700885,2018-02-24,MIA,MEM,14.47,2,9,32,MIA,MIA,tov,1,False,True,Wade Bad Pass Turnover (P1.T4),,44-35,44,35
-0021700885,2018-02-24,MIA,MEM,14.47,2,9,32,MEM,MIA,foul,1,False,False,Johnson P.FOUL (P1.T2) (B.Adams),,44-35,44,35
 0021700885,2018-02-24,MIA,MEM,14.47,2,9,32,MIA,MEM,steal,1,False,True,steal,steal,44-35,44,35
+0021700885,2018-02-24,MIA,MEM,14.47,2,9,32,MEM,MIA,foul,1,False,False,Johnson P.FOUL (P1.T2) (B.Adams),,44-35,44,35
 0021700885,2018-02-24,MIA,MEM,14.7,2,9,18,MEM,MEM,fg_miss,1,False,False,,MISS Green 16' Jump Shot,44-35,44,35
 0021700885,2018-02-24,MIA,MEM,14.75,2,9,15,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:0 Def:3),,44-35,44,35
 0021700885,2018-02-24,MIA,MEM,14.88,2,9,7,MIA,MIA,fg_miss,6,False,False,MISS Richardson 2' Driving Layup,,44-35,44,35
@@ -223,8 +223,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700885,2018-02-24,MIA,MEM,23.95,2,0,3,MIA,MIA,fg3_miss,1,False,False,MISS Dragic 25' 3PT Jump Shot,,60-52,60,52
 0021700885,2018-02-24,MIA,MEM,23.97,2,0,2,MIA,MIA,reb,0,False,False,Winslow REBOUND (Off:1 Def:2),,60-52,60,52
 0021700885,2018-02-24,MIA,MEM,23.98,2,0,1,MIA,MIA,fg3_miss,1,True,False,MISS Johnson 25' 3PT Jump Shot,,60-52,60,52
-0021700885,2018-02-24,MIA,MEM,23.98,2,0,1,MIA,MIA,reb,0,False,False,Dragic REBOUND (Off:1 Def:4),,60-52,60,52
 0021700885,2018-02-24,MIA,MEM,23.98,2,0,1,MIA,MEM,block,1,True,False,block,block,60-52,60,52
+0021700885,2018-02-24,MIA,MEM,23.98,2,0,1,MIA,MIA,reb,0,False,False,Dragic REBOUND (Off:1 Def:4),,60-52,60,52
 0021700885,2018-02-24,MIA,MEM,24.0,2,0,0,MIA,,period_end,0,False,False,,,60-52,60,52
 0021700885,2018-02-24,MIA,MEM,24.0,3,12,0,MIA,,period_start,0,False,False,,,60-52,60,52
 0021700885,2018-02-24,MIA,MEM,24.28,3,11,43,MEM,MEM,fg_make,1,False,False,,Davis 18' Jump Shot (12 PTS) (Brooks 3 AST),60-54,60,54
@@ -264,8 +264,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700885,2018-02-24,MIA,MEM,27.57,3,8,26,MIA,MIA,reb,0,False,False,Winslow REBOUND (Off:1 Def:3),,68-56,68,56
 0021700885,2018-02-24,MIA,MEM,27.78,3,8,13,MIA,MIA,fg_make,3,False,False,Whiteside 4' Hook Shot (9 PTS),,70-56,70,56
 0021700885,2018-02-24,MIA,MEM,28.03,3,7,58,MEM,MEM,fg3_miss,1,True,False,,MISS Green 3PT Jump Shot,70-56,70,56
-0021700885,2018-02-24,MIA,MEM,28.03,3,7,58,MIA,MIA,reb,0,False,False,Richardson REBOUND (Off:0 Def:2),,70-56,70,56
 0021700885,2018-02-24,MIA,MEM,28.03,3,7,58,MEM,MIA,block,1,True,False,block,block,70-56,70,56
+0021700885,2018-02-24,MIA,MEM,28.03,3,7,58,MIA,MIA,reb,0,False,False,Richardson REBOUND (Off:0 Def:2),,70-56,70,56
 0021700885,2018-02-24,MIA,MEM,28.15,3,7,51,MIA,MIA,fg_miss,44,False,False,MISS Johnson 3' Reverse Layup,,70-56,70,56
 0021700885,2018-02-24,MIA,MEM,28.18,3,7,49,MIA,MIA,reb,0,False,False,Dragic REBOUND (Off:2 Def:4),,70-56,70,56
 0021700885,2018-02-24,MIA,MEM,28.37,3,7,38,MIA,MIA,fg_miss,102,False,False,MISS Winslow 7' Driving Floating Bank Jump Shot,,70-56,70,56

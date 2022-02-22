@@ -14,8 +14,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800200,2018-11-13,DEN,HOU,2.12,1,9,53,HOU,DEN,steal,2,False,True,steal,steal,4-3,4,3
 0021800200,2018-11-13,DEN,HOU,2.15,1,9,51,,DEN,jump_ball,0,False,False,Jump Ball Murray vs. Harden: Tip to Tucker,,4-3,4,3
 0021800200,2018-11-13,DEN,HOU,2.15,1,9,51,DEN,DEN,tov,2,False,True,Murray Lost Ball Turnover (P1.T1),,4-3,4,3
-0021800200,2018-11-13,DEN,HOU,2.15,1,9,51,HOU,DEN,foul,3,False,False,Hernangomez L.B.FOUL (P1.T1) (S.Wright),,4-3,4,3
 0021800200,2018-11-13,DEN,HOU,2.15,1,9,51,DEN,HOU,steal,2,False,True,steal,steal,4-3,4,3
+0021800200,2018-11-13,DEN,HOU,2.15,1,9,51,HOU,DEN,foul,3,False,False,Hernangomez L.B.FOUL (P1.T1) (S.Wright),,4-3,4,3
 0021800200,2018-11-13,DEN,HOU,2.27,1,9,44,HOU,HOU,fg_make,43,False,False,,Capela Alley Oop Layup (2 PTS) (Harden 2 AST),4-5,4,5
 0021800200,2018-11-13,DEN,HOU,2.6,1,9,24,DEN,DEN,fg3_make,1,False,False,Harris 26' 3PT Jump Shot (3 PTS) (Jokic 2 AST),,7-5,7,5
 0021800200,2018-11-13,DEN,HOU,2.88,1,9,7,DEN,HOU,foul,4,False,False,,Harden OFF.Foul (P1) (S.Wright),7-5,7,5
@@ -118,10 +118,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800200,2018-11-13,DEN,HOU,15.28,2,8,43,HOU,HOU,fg_miss,58,False,False,,MISS Tucker 6' Turnaround Hook Shot,41-35,41,35
 0021800200,2018-11-13,DEN,HOU,15.3,2,8,42,HOU,HOU,reb,0,False,False,,Rockets Rebound,41-35,41,35
 0021800200,2018-11-13,DEN,HOU,15.43,2,8,34,HOU,HOU,fg_make,86,False,False,,Paul 5' Turnaround Fadeaway (12 PTS),41-37,41,37
+0021800200,2018-11-13,DEN,HOU,15.63,2,8,22,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 2 Short 0),,41-37,41,37
+0021800200,2018-11-13,DEN,HOU,15.63,2,8,22,DEN,DEN,tov,4,False,False,Morris Traveling Turnover (P2.T6),,41-37,41,37
 0021800200,2018-11-13,DEN,HOU,15.63,2,8,22,DEN,DEN,fg_miss,5,False,False,MISS Morris 1' Layup,,41-37,41,37
 0021800200,2018-11-13,DEN,HOU,15.63,2,8,22,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,41-37,41,37
-0021800200,2018-11-13,DEN,HOU,15.63,2,8,22,DEN,DEN,tov,4,False,False,Morris Traveling Turnover (P2.T6),,41-37,41,37
-0021800200,2018-11-13,DEN,HOU,15.63,2,8,22,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 2 Short 0),,41-37,41,37
 0021800200,2018-11-13,DEN,HOU,15.77,2,8,14,HOU,HOU,fg3_make,1,False,False,,Tucker 3PT Jump Shot (6 PTS) (Paul 2 AST),41-40,41,40
 0021800200,2018-11-13,DEN,HOU,16.03,2,7,58,DEN,DEN,fg3_miss,1,False,False,MISS Murray 25' 3PT Jump Shot,,41-40,41,40
 0021800200,2018-11-13,DEN,HOU,16.1,2,7,54,HOU,HOU,reb,0,False,False,,Capela REBOUND (Off:0 Def:2),41-40,41,40
@@ -187,8 +187,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800200,2018-11-13,DEN,HOU,22.67,2,1,20,HOU,HOU,fg3_miss,80,False,False,,MISS Harden 24' 3PT Step Back Jump Shot,51-52,51,52
 0021800200,2018-11-13,DEN,HOU,22.73,2,1,16,DEN,DEN,reb,0,False,False,Hernangomez REBOUND (Off:1 Def:4),,51-52,51,52
 0021800200,2018-11-13,DEN,HOU,22.9,2,1,6,DEN,DEN,tov,2,False,True,Murray Lost Ball Turnover (P2.T9),,51-52,51,52
-0021800200,2018-11-13,DEN,HOU,22.9,2,1,6,HOU,DEN,foul,1,False,False,Millsap P.FOUL (P2.T3) (S.Wright),,51-52,51,52
 0021800200,2018-11-13,DEN,HOU,22.9,2,1,6,DEN,HOU,steal,2,False,True,steal,steal,51-52,51,52
+0021800200,2018-11-13,DEN,HOU,22.9,2,1,6,HOU,DEN,foul,1,False,False,Millsap P.FOUL (P2.T3) (S.Wright),,51-52,51,52
 0021800200,2018-11-13,DEN,HOU,23.02,2,0,59,HOU,DEN,foul,1,False,False,Murray P.FOUL (P1.PN) (S.Wright),,51-52,51,52
 0021800200,2018-11-13,DEN,HOU,23.02,2,0,59,HOU,HOU,ft_make,11,False,False,,Paul Free Throw 1 of 2 (13 PTS),51-53,51,53
 0021800200,2018-11-13,DEN,HOU,23.02,2,0,59,HOU,HOU,ft_make,12,False,False,,Paul Free Throw 2 of 2 (14 PTS),51-54,51,54
@@ -237,9 +237,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800200,2018-11-13,DEN,HOU,28.75,3,7,15,DEN,DEN,ft_make,11,False,False,Jokic Free Throw 1 of 2 (9 PTS),,65-66,65,66
 0021800200,2018-11-13,DEN,HOU,28.75,3,7,15,DEN,DEN,ft_make,12,False,False,Jokic Free Throw 2 of 2 (10 PTS),,66-66,66,66
 0021800200,2018-11-13,DEN,HOU,29.0,3,7,0,HOU,HOU,fg_make,7,False,False,,Capela 1' Dunk (13 PTS) (Harden 6 AST),66-68,66,68
+0021800200,2018-11-13,DEN,HOU,29.3,3,6,42,DEN,DEN,tov,4,False,False,Harris Traveling Turnover (P2.T12),,66-68,66,68
 0021800200,2018-11-13,DEN,HOU,29.3,3,6,42,DEN,DEN,fg_miss,6,False,False,MISS Harris 2' Driving Layup,,66-68,66,68
 0021800200,2018-11-13,DEN,HOU,29.3,3,6,42,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,66-68,66,68
-0021800200,2018-11-13,DEN,HOU,29.3,3,6,42,DEN,DEN,tov,4,False,False,Harris Traveling Turnover (P2.T12),,66-68,66,68
 0021800200,2018-11-13,DEN,HOU,29.57,3,6,26,HOU,HOU,fg3_miss,80,False,False,,MISS Harden 25' 3PT Step Back Jump Shot,66-68,66,68
 0021800200,2018-11-13,DEN,HOU,29.63,3,6,22,HOU,HOU,reb,0,False,False,,Clark REBOUND (Off:1 Def:0),66-68,66,68
 0021800200,2018-11-13,DEN,HOU,29.68,3,6,19,HOU,HOU,fg3_make,1,False,False,,Tucker 3PT Jump Shot (12 PTS) (Harden 7 AST),66-71,66,71
@@ -255,8 +255,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800200,2018-11-13,DEN,HOU,30.75,3,5,15,DEN,DEN,fg_miss,1,False,False,MISS Jokic 3' Jump Shot,,68-71,68,71
 0021800200,2018-11-13,DEN,HOU,30.78,3,5,13,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:2 Def:6),,68-71,68,71
 0021800200,2018-11-13,DEN,HOU,30.78,3,5,13,DEN,DEN,fg_miss,5,True,False,MISS Jokic 2' Layup,,68-71,68,71
-0021800200,2018-11-13,DEN,HOU,30.78,3,5,13,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:3 Def:6),,68-71,68,71
 0021800200,2018-11-13,DEN,HOU,30.78,3,5,13,DEN,HOU,block,5,True,False,block,block,68-71,68,71
+0021800200,2018-11-13,DEN,HOU,30.78,3,5,13,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:3 Def:6),,68-71,68,71
 0021800200,2018-11-13,DEN,HOU,30.78,3,5,13,DEN,DEN,fg_make,72,False,False,Jokic 2' Putback Layup (12 PTS),,70-71,70,71
 0021800200,2018-11-13,DEN,HOU,30.78,3,5,13,DEN,HOU,foul,2,False,False,,Clark S.FOUL (P2.T2) (S.Wright),70-71,70,71
 0021800200,2018-11-13,DEN,HOU,30.78,3,5,13,DEN,DEN,ft_miss,10,False,False,MISS Jokic Free Throw 1 of 1,,70-71,70,71
@@ -292,8 +292,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800200,2018-11-13,DEN,HOU,34.77,3,1,14,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,76-84,76,84
 0021800200,2018-11-13,DEN,HOU,34.77,3,1,14,DEN,HOU,foul,3,False,False,,Hartenstein L.B.FOUL (P2.T4) (S.Wright),76-84,76,84
 0021800200,2018-11-13,DEN,HOU,34.92,3,1,5,DEN,DEN,fg_miss,108,True,False,MISS Harris 3' Cutting Dunk Shot,,76-84,76,84
-0021800200,2018-11-13,DEN,HOU,34.92,3,1,5,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,76-84,76,84
 0021800200,2018-11-13,DEN,HOU,34.92,3,1,5,DEN,HOU,block,108,True,False,block,block,76-84,76,84
+0021800200,2018-11-13,DEN,HOU,34.92,3,1,5,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,76-84,76,84
 0021800200,2018-11-13,DEN,HOU,35.0,3,1,0,DEN,DEN,fg_miss,58,False,False,MISS Plumlee 4' Turnaround Hook Shot,,76-84,76,84
 0021800200,2018-11-13,DEN,HOU,35.05,3,0,57,HOU,HOU,reb,0,False,False,,Paul REBOUND (Off:0 Def:2),76-84,76,84
 0021800200,2018-11-13,DEN,HOU,35.35,3,0,39,HOU,HOU,fg_make,75,False,False,,Gordon 2' Driving Finger Roll Layup (11 PTS),76-86,76,86
@@ -311,8 +311,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800200,2018-11-13,DEN,HOU,36.42,4,11,35,HOU,HOU,tov,37,False,False,,Hartenstein Offensive Foul Turnover (P2.T14),76-86,76,86
 0021800200,2018-11-13,DEN,HOU,36.62,4,11,23,DEN,DEN,fg_make,108,False,False,Craig 1' Cutting Dunk Shot (2 PTS) (Plumlee 3 AST),,78-86,78,86
 0021800200,2018-11-13,DEN,HOU,37.0,4,11,0,HOU,HOU,fg_miss,75,True,False,,MISS Gordon 5' Driving Finger Roll Layup,78-86,78,86
-0021800200,2018-11-13,DEN,HOU,37.0,4,11,0,DEN,DEN,reb,0,False,False,Hernangomez REBOUND (Off:1 Def:6),,78-86,78,86
 0021800200,2018-11-13,DEN,HOU,37.0,4,11,0,HOU,DEN,block,75,True,False,block,block,78-86,78,86
+0021800200,2018-11-13,DEN,HOU,37.0,4,11,0,DEN,DEN,reb,0,False,False,Hernangomez REBOUND (Off:1 Def:6),,78-86,78,86
 0021800200,2018-11-13,DEN,HOU,37.28,4,10,43,DEN,DEN,fg_make,101,False,False,Morris 6' Driving Floating Jump Shot (15 PTS),,80-86,80,86
 0021800200,2018-11-13,DEN,HOU,37.72,4,10,17,HOU,HOU,fg3_make,79,False,False,,Paul 24' 3PT Pullup Jump Shot (20 PTS),80-89,80,89
 0021800200,2018-11-13,DEN,HOU,38.02,4,9,59,DEN,DEN,fg_miss,102,False,False,MISS Hernangomez 5' Driving Floating Bank Jump Shot,,80-89,80,89
@@ -352,8 +352,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800200,2018-11-13,DEN,HOU,43.57,4,4,26,HOU,HOU,fg3_miss,80,False,False,,MISS Harden 25' 3PT Step Back Jump Shot,91-102,91,102
 0021800200,2018-11-13,DEN,HOU,43.63,4,4,22,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:3 Def:7),,91-102,91,102
 0021800200,2018-11-13,DEN,HOU,43.85,4,4,9,DEN,DEN,fg_miss,5,True,False,MISS Millsap 5' Layup,,91-102,91,102
-0021800200,2018-11-13,DEN,HOU,43.85,4,4,9,HOU,HOU,reb,0,False,False,,Rockets Rebound,91-102,91,102
 0021800200,2018-11-13,DEN,HOU,43.85,4,4,9,DEN,HOU,block,5,True,False,block,block,91-102,91,102
+0021800200,2018-11-13,DEN,HOU,43.85,4,4,9,HOU,HOU,reb,0,False,False,,Rockets Rebound,91-102,91,102
 0021800200,2018-11-13,DEN,HOU,44.2,4,3,48,HOU,HOU,fg_make,75,False,False,,Harden 2' Driving Finger Roll Layup (22 PTS),91-104,91,104
 0021800200,2018-11-13,DEN,HOU,44.45,4,3,33,DEN,DEN,fg3_miss,80,False,False,MISS Morris 25' 3PT Step Back Jump Shot,,91-104,91,104
 0021800200,2018-11-13,DEN,HOU,44.5,4,3,30,HOU,HOU,reb,0,False,False,,Paul REBOUND (Off:0 Def:3),91-104,91,104

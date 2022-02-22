@@ -2,14 +2,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000742,2021-04-02,NOP,ATL,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
 0022000742,2021-04-02,NOP,ATL,0.0,1,12,0,,NOP,jump_ball,0,False,False,Jump Ball Hayes vs. Capela: Tip to Bledsoe,,0-0,0,0
 0022000742,2021-04-02,NOP,ATL,0.27,1,11,44,NOP,NOP,fg_miss,78,True,False,MISS Alexander-Walker 11' Floating Jump Shot,,0-0,0,0
-0022000742,2021-04-02,NOP,ATL,0.27,1,11,44,NOP,NOP,reb,0,False,False,PELICANS Rebound,,0-0,0,0
 0022000742,2021-04-02,NOP,ATL,0.27,1,11,44,NOP,ATL,block,78,True,False,block,block,0-0,0,0
+0022000742,2021-04-02,NOP,ATL,0.27,1,11,44,NOP,NOP,reb,0,False,False,PELICANS Rebound,,0-0,0,0
 0022000742,2021-04-02,NOP,ATL,0.37,1,11,38,NOP,NOP,fg_miss,78,False,False,MISS Bledsoe 9' Floating Jump Shot,,0-0,0,0
 0022000742,2021-04-02,NOP,ATL,0.43,1,11,34,ATL,ATL,reb,0,False,False,,Hawks Rebound,0-0,0,0
 0022000742,2021-04-02,NOP,ATL,0.75,1,11,15,ATL,ATL,fg3_make,1,False,False,,Goodwin 3PT Jump Shot (3 PTS) (Huerter 1 AST),0-3,0,3
-0022000742,2021-04-02,NOP,ATL,0.97,1,11,2,NOP,NOP,fg_make,6,False,False,Alexander-Walker 3' Driving Layup (2 PTS),,2-3,2,3
 0022000742,2021-04-02,NOP,ATL,0.97,1,11,2,NOP,ATL,foul,1,False,False,,Goodwin P.FOUL (P1.T1) (S.Wall),2-3,2,3
 0022000742,2021-04-02,NOP,ATL,0.97,1,11,2,NOP,NOP,ft_miss,10,False,False,MISS Alexander-Walker Free Throw 1 of 1,,2-3,2,3
+0022000742,2021-04-02,NOP,ATL,0.97,1,11,2,NOP,NOP,fg_make,6,False,False,Alexander-Walker 3' Driving Layup (2 PTS),,2-3,2,3
 0022000742,2021-04-02,NOP,ATL,1.03,1,10,58,ATL,ATL,reb,0,False,False,,Capela REBOUND (Off:0 Def:1),2-3,2,3
 0022000742,2021-04-02,NOP,ATL,1.23,1,10,46,ATL,NOP,foul,1,False,False,Marshall P.FOUL (P1.T1) (C.Blair),,2-3,2,3
 0022000742,2021-04-02,NOP,ATL,1.32,1,10,41,ATL,ATL,fg3_miss,1,False,False,,MISS S. Hill 3PT Jump Shot,2-3,2,3
@@ -98,10 +98,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000742,2021-04-02,NOP,ATL,10.25,1,1,45,ATL,NOP,foul,2,False,False,Lewis Jr. S.FOUL (P1.PN) (A.Nagy),,29-26,29,26
 0022000742,2021-04-02,NOP,ATL,10.25,1,1,45,ATL,ATL,ft_make,10,False,False,,Williams Free Throw 1 of 1 (5 PTS),29-27,29,27
 0022000742,2021-04-02,NOP,ATL,10.45,1,1,33,NOP,NOP,tov,2,False,True,Lewis Jr. Lost Ball Turnover (P1.T2),,29-27,29,27
+0022000742,2021-04-02,NOP,ATL,10.45,1,1,33,NOP,ATL,steal,2,False,True,steal,steal,29-27,29,27
 0022000742,2021-04-02,NOP,ATL,10.45,1,1,33,ATL,NOP,foul,1,False,False,Lewis Jr. P.FOUL (P2.PN) (S.Wall),,29-27,29,27
 0022000742,2021-04-02,NOP,ATL,10.45,1,1,33,ATL,ATL,ft_miss,11,False,False,,MISS Knight Free Throw 1 of 2,29-27,29,27
 0022000742,2021-04-02,NOP,ATL,10.45,1,1,33,ATL,ATL,reb,1,False,False,,Hawks Rebound,29-27,29,27
-0022000742,2021-04-02,NOP,ATL,10.45,1,1,33,NOP,ATL,steal,2,False,True,steal,steal,29-27,29,27
 0022000742,2021-04-02,NOP,ATL,10.45,1,1,33,ATL,ATL,ft_make,12,False,False,,Knight Free Throw 2 of 2 (1 PTS),29-28,29,28
 0022000742,2021-04-02,NOP,ATL,10.7,1,1,18,NOP,NOP,fg3_miss,1,False,False,MISS Iwundu 3PT Jump Shot,,29-28,29,28
 0022000742,2021-04-02,NOP,ATL,10.73,1,1,16,ATL,ATL,reb,0,False,False,,Okongwu REBOUND (Off:2 Def:1),29-28,29,28
@@ -175,8 +175,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000742,2021-04-02,NOP,ATL,18.53,2,5,28,ATL,NOP,foul,1,False,False,Marshall P.FOUL (P3.T2) (C.Blair),,45-45,45,45
 0022000742,2021-04-02,NOP,ATL,18.65,2,5,21,ATL,ATL,fg_miss,5,True,False,,MISS Bogdanovic 4' Layup,45-45,45,45
 0022000742,2021-04-02,NOP,ATL,18.65,2,5,21,ATL,NOP,block,5,True,False,block,block,45-45,45,45
-0022000742,2021-04-02,NOP,ATL,18.68,2,5,19,ATL,ATL,reb,0,False,False,,Hawks Rebound,45-45,45,45
 0022000742,2021-04-02,NOP,ATL,18.68,2,5,19,,NOP,jump_ball,0,False,False,Jump Ball Hayes vs. Bogdanovic: Tip to Capela,,45-45,45,45
+0022000742,2021-04-02,NOP,ATL,18.68,2,5,19,ATL,ATL,reb,0,False,False,,Hawks Rebound,45-45,45,45
 0022000742,2021-04-02,NOP,ATL,18.75,2,5,15,ATL,NOP,foul,2,False,False,Hayes S.FOUL (P1.T3) (A.Nagy),,45-45,45,45
 0022000742,2021-04-02,NOP,ATL,18.75,2,5,15,ATL,ATL,ft_miss,11,False,False,,MISS Capela Free Throw 1 of 2,45-45,45,45
 0022000742,2021-04-02,NOP,ATL,18.75,2,5,15,ATL,ATL,reb,1,False,False,,Hawks Rebound,45-45,45,45
@@ -188,8 +188,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000742,2021-04-02,NOP,ATL,19.37,2,4,38,ATL,ATL,ft_make,11,False,False,,Bogdanovic Free Throw 1 of 2 (9 PTS),45-46,45,46
 0022000742,2021-04-02,NOP,ATL,19.37,2,4,38,ATL,ATL,ft_make,12,False,False,,Bogdanovic Free Throw 2 of 2 (10 PTS),45-47,45,47
 0022000742,2021-04-02,NOP,ATL,19.63,2,4,22,NOP,NOP,fg_miss,5,True,False,MISS Hayes 5' Layup,,45-47,45,47
-0022000742,2021-04-02,NOP,ATL,19.63,2,4,22,ATL,ATL,reb,0,False,False,,Hawks Rebound,45-47,45,47
 0022000742,2021-04-02,NOP,ATL,19.63,2,4,22,NOP,ATL,block,5,True,False,block,block,45-47,45,47
+0022000742,2021-04-02,NOP,ATL,19.63,2,4,22,ATL,ATL,reb,0,False,False,,Hawks Rebound,45-47,45,47
 0022000742,2021-04-02,NOP,ATL,19.93,2,4,4,ATL,ATL,fg_make,5,False,False,,Capela 1' Layup (6 PTS) (Bogdanovic 2 AST),45-49,45,49
 0022000742,2021-04-02,NOP,ATL,20.13,2,3,52,NOP,ATL,foul,2,False,False,,Snell S.FOUL (P3.T2) (C.Blair),45-49,45,49
 0022000742,2021-04-02,NOP,ATL,20.13,2,3,52,NOP,NOP,ft_miss,11,False,False,MISS Johnson Free Throw 1 of 2,,45-49,45,49
@@ -220,8 +220,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000742,2021-04-02,NOP,ATL,22.38,2,1,37,NOP,ATL,foul,28,False,False,,Williams Personal Take Foul (P2.T4) (C.Blair),52-51,52,51
 0022000742,2021-04-02,NOP,ATL,22.45,2,1,33,NOP,NOP,fg_make,7,False,False,Hernangomez 1' Dunk (4 PTS) (Johnson 4 AST),,54-51,54,51
 0022000742,2021-04-02,NOP,ATL,22.85,2,1,9,ATL,ATL,fg_miss,5,True,False,,MISS Goodwin 2' Layup,54-51,54,51
-0022000742,2021-04-02,NOP,ATL,22.85,2,1,9,NOP,NOP,reb,0,False,False,PELICANS Rebound,,54-51,54,51
 0022000742,2021-04-02,NOP,ATL,22.85,2,1,9,ATL,NOP,block,5,True,False,block,block,54-51,54,51
+0022000742,2021-04-02,NOP,ATL,22.85,2,1,9,NOP,NOP,reb,0,False,False,PELICANS Rebound,,54-51,54,51
 0022000742,2021-04-02,NOP,ATL,23.07,2,0,56,NOP,NOP,fg_miss,78,False,False,MISS Bledsoe 11' Floating Jump Shot,,54-51,54,51
 0022000742,2021-04-02,NOP,ATL,23.12,2,0,53,ATL,ATL,reb,0,False,False,,Okongwu REBOUND (Off:3 Def:2),54-51,54,51
 0022000742,2021-04-02,NOP,ATL,23.3,2,0,42,ATL,ATL,fg_make,43,False,False,,Okongwu 3' Alley Oop Layup (5 PTS) (Williams 5 AST),54-53,54,53
@@ -408,8 +408,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000742,2021-04-02,NOP,ATL,44.18,4,3,49,NOP,NOP,ft_make,12,False,False,Hayes Free Throw 2 of 2 (10 PTS),,97-118,97,118
 0022000742,2021-04-02,NOP,ATL,44.38,4,3,37,ATL,ATL,fg_make,1,False,False,,Williams 11' Jump Shot (19 PTS),97-120,97,120
 0022000742,2021-04-02,NOP,ATL,44.58,4,3,25,NOP,NOP,fg_miss,6,True,False,MISS Alexander-Walker 3' Driving Layup,,97-120,97,120
-0022000742,2021-04-02,NOP,ATL,44.58,4,3,25,ATL,ATL,reb,0,False,False,,Hawks Rebound,97-120,97,120
 0022000742,2021-04-02,NOP,ATL,44.58,4,3,25,NOP,ATL,block,6,True,False,block,block,97-120,97,120
+0022000742,2021-04-02,NOP,ATL,44.58,4,3,25,ATL,ATL,reb,0,False,False,,Hawks Rebound,97-120,97,120
 0022000742,2021-04-02,NOP,ATL,44.68,4,3,19,ATL,,foul,11,False,False,,,97-120,97,120
 0022000742,2021-04-02,NOP,ATL,44.68,4,3,19,ATL,ATL,ft_miss,16,False,False,,MISS Huerter Free Throw Technical,97-120,97,120
 0022000742,2021-04-02,NOP,ATL,44.68,4,3,19,ATL,ATL,reb,1,False,False,,Hawks Rebound,97-120,97,120

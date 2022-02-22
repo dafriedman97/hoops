@@ -22,8 +22,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700382,2017-12-09,MEM,OKC,2.25,1,9,45,OKC,OKC,fg3_miss,1,False,False,,MISS Abrines 25' 3PT Jump Shot,6-6,6,6
 0021700382,2017-12-09,MEM,OKC,2.3,1,9,42,OKC,OKC,reb,0,False,False,,Westbrook REBOUND (Off:1 Def:0),6-6,6,6
 0021700382,2017-12-09,MEM,OKC,2.32,1,9,41,OKC,OKC,fg_miss,5,True,False,,MISS Westbrook 1' Layup,6-6,6,6
-0021700382,2017-12-09,MEM,OKC,2.32,1,9,41,MEM,MEM,reb,0,False,False,Evans REBOUND (Off:0 Def:1),,6-6,6,6
 0021700382,2017-12-09,MEM,OKC,2.32,1,9,41,OKC,MEM,block,5,True,False,block,block,6-6,6,6
+0021700382,2017-12-09,MEM,OKC,2.32,1,9,41,MEM,MEM,reb,0,False,False,Evans REBOUND (Off:0 Def:1),,6-6,6,6
 0021700382,2017-12-09,MEM,OKC,2.63,1,9,22,MEM,MEM,fg3_miss,1,False,False,MISS Harrison 25' 3PT Jump Shot,,6-6,6,6
 0021700382,2017-12-09,MEM,OKC,2.68,1,9,19,MEM,MEM,reb,0,False,False,Gasol REBOUND (Off:1 Def:0),,6-6,6,6
 0021700382,2017-12-09,MEM,OKC,2.68,1,9,19,MEM,OKC,foul,1,False,False,,Westbrook P.FOUL (P1.T1) (K.Scott),6-6,6,6
@@ -32,8 +32,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700382,2017-12-09,MEM,OKC,3.15,1,8,51,OKC,OKC,fg_miss,73,False,False,,MISS Westbrook 2' Driving Reverse Layup,8-6,8,6
 0021700382,2017-12-09,MEM,OKC,3.18,1,8,49,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:1 Def:0),8-6,8,6
 0021700382,2017-12-09,MEM,OKC,3.23,1,8,46,OKC,OKC,fg_miss,5,True,False,,MISS Adams 1' Layup,8-6,8,6
-0021700382,2017-12-09,MEM,OKC,3.23,1,8,46,MEM,MEM,reb,0,False,False,Evans REBOUND (Off:0 Def:2),,8-6,8,6
 0021700382,2017-12-09,MEM,OKC,3.23,1,8,46,OKC,MEM,block,5,True,False,block,block,8-6,8,6
+0021700382,2017-12-09,MEM,OKC,3.23,1,8,46,MEM,MEM,reb,0,False,False,Evans REBOUND (Off:0 Def:2),,8-6,8,6
 0021700382,2017-12-09,MEM,OKC,3.35,1,8,39,MEM,MEM,fg3_make,1,False,False,Brooks 3PT Jump Shot (5 PTS) (Harrison 3 AST),,11-6,11,6
 0021700382,2017-12-09,MEM,OKC,3.35,1,8,39,MEM,OKC,foul,2,False,False,,Westbrook S.FOUL (P2.T3) (M.Kogut),11-6,11,6
 0021700382,2017-12-09,MEM,OKC,3.35,1,8,39,MEM,MEM,ft_make,10,False,False,Brooks Free Throw 1 of 1 (6 PTS),,12-6,12,6
@@ -88,8 +88,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700382,2017-12-09,MEM,OKC,8.73,1,3,16,OKC,OKC,fg_miss,1,False,False,,MISS Singler 22' Jump Shot,23-13,23,13
 0021700382,2017-12-09,MEM,OKC,8.77,1,3,14,MEM,MEM,reb,0,False,False,Evans REBOUND (Off:0 Def:4),,23-13,23,13
 0021700382,2017-12-09,MEM,OKC,8.88,1,3,7,MEM,MEM,fg_miss,101,True,False,MISS Martin 4' Driving Floating Jump Shot,,23-13,23,13
-0021700382,2017-12-09,MEM,OKC,8.88,1,3,7,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,23-13,23,13
 0021700382,2017-12-09,MEM,OKC,8.88,1,3,7,MEM,OKC,block,101,True,False,block,block,23-13,23,13
+0021700382,2017-12-09,MEM,OKC,8.88,1,3,7,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,23-13,23,13
 0021700382,2017-12-09,MEM,OKC,9.15,1,2,51,MEM,MEM,fg_make,47,False,False,Davis 9' Turnaround Jump Shot (2 PTS),,25-13,25,13
 0021700382,2017-12-09,MEM,OKC,9.47,1,2,32,OKC,OKC,tov,2,False,True,,Singler Lost Ball Turnover (P1.T2),25-13,25,13
 0021700382,2017-12-09,MEM,OKC,9.47,1,2,32,OKC,MEM,steal,2,False,True,steal,steal,25-13,25,13
@@ -345,10 +345,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700382,2017-12-09,MEM,OKC,35.87,3,0,8,MEM,MEM,fg_miss,1,False,False,MISS Brooks 10' Jump Shot,,66-67,66,67
 0021700382,2017-12-09,MEM,OKC,35.92,3,0,5,OKC,OKC,reb,0,False,False,,Westbrook REBOUND (Off:3 Def:6),66-67,66,67
 0021700382,2017-12-09,MEM,OKC,36.0,3,0,0,OKC,OKC,fg_miss,101,True,False,,MISS Grant 8' Driving Floating Jump Shot,66-67,66,67
+0021700382,2017-12-09,MEM,OKC,36.0,3,0,0,OKC,MEM,block,101,True,False,block,block,66-67,66,67
 0021700382,2017-12-09,MEM,OKC,36.0,3,0,0,OKC,OKC,reb,0,False,False,,Thunder Rebound,66-67,66,67
 0021700382,2017-12-09,MEM,OKC,36.0,3,0,0,OKC,,period_end,0,False,False,,,66-67,66,67
 0021700382,2017-12-09,MEM,OKC,36.0,4,12,0,OKC,,period_start,0,False,False,,,66-67,66,67
-0021700382,2017-12-09,MEM,OKC,36.0,3,0,0,OKC,MEM,block,101,True,False,block,block,66-67,66,67
 0021700382,2017-12-09,MEM,OKC,36.15,4,11,51,OKC,OKC,fg3_make,1,False,False,,Patterson 27' 3PT Jump Shot (6 PTS) (Felton 2 AST),66-70,66,70
 0021700382,2017-12-09,MEM,OKC,36.62,4,11,23,MEM,MEM,fg3_make,1,False,False,McLemore 26' 3PT Jump Shot (14 PTS) (Evans 5 AST),,69-70,69,70
 0021700382,2017-12-09,MEM,OKC,37.02,4,10,59,OKC,OKC,tov,4,False,False,,Huestis Traveling Turnover (P1.T9),69-70,69,70
@@ -433,11 +433,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700382,2017-12-09,MEM,OKC,47.98,4,0,1,MEM,MEM,ft_make,12,False,False,Evans Free Throw 2 of 2 (22 PTS),,92-92,92,92
 0021700382,2017-12-09,MEM,OKC,47.98,4,0,1,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.6 Short 0),92-92,92,92
 0021700382,2017-12-09,MEM,OKC,48.0,4,0,0,OKC,OKC,fg3_miss,1,True,False,,MISS Westbrook 28' 3PT Jump Shot,92-92,92,92
+0021700382,2017-12-09,MEM,OKC,48.0,4,0,0,OKC,MEM,block,1,True,False,block,block,92-92,92,92
 0021700382,2017-12-09,MEM,OKC,48.0,4,0,0,OKC,OKC,reb,0,False,False,,Thunder Rebound,92-92,92,92
 0021700382,2017-12-09,MEM,OKC,48.0,4,0,0,OKC,,period_end,0,False,False,,,92-92,92,92
 0021700382,2017-12-09,MEM,OKC,48.0,5,5,0,OKC,,period_start,0,False,False,,,92-92,92,92
 0021700382,2017-12-09,MEM,OKC,48.0,5,5,0,,MEM,jump_ball,0,False,False,Jump Ball Gasol vs. Adams: Tip to Evans,,92-92,92,92
-0021700382,2017-12-09,MEM,OKC,48.0,4,0,0,OKC,MEM,block,1,True,False,block,block,92-92,92,92
 0021700382,2017-12-09,MEM,OKC,48.38,5,4,37,MEM,MEM,fg_miss,58,False,False,MISS Green 9' Turnaround Hook Shot,,92-92,92,92
 0021700382,2017-12-09,MEM,OKC,48.45,5,4,33,OKC,OKC,reb,0,False,False,,Anthony REBOUND (Off:1 Def:8),92-92,92,92
 0021700382,2017-12-09,MEM,OKC,48.63,5,4,22,OKC,OKC,fg_miss,79,False,False,,MISS Westbrook 15' Pullup Jump Shot,92-92,92,92
@@ -480,6 +480,6 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700382,2017-12-09,MEM,OKC,52.92,5,0,5,OKC,OKC,ft_make,11,False,False,,Westbrook Free Throw 1 of 2 (19 PTS),101-101,101,101
 0021700382,2017-12-09,MEM,OKC,52.92,5,0,5,OKC,OKC,ft_make,12,False,False,,Westbrook Free Throw 2 of 2 (20 PTS),101-102,101,102
 0021700382,2017-12-09,MEM,OKC,53.0,5,0,0,MEM,MEM,fg3_miss,1,True,False,MISS Evans 26' 3PT Jump Shot,,101-102,101,102
+0021700382,2017-12-09,MEM,OKC,53.0,5,0,0,MEM,OKC,block,1,True,False,block,block,101-102,101,102
 0021700382,2017-12-09,MEM,OKC,53.0,5,0,0,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,101-102,101,102
 0021700382,2017-12-09,MEM,OKC,53.0,5,0,0,MEM,,period_end,0,False,False,,,101-102,101,102
-0021700382,2017-12-09,MEM,OKC,53.0,5,0,0,MEM,OKC,block,1,True,False,block,block,101-102,101,102

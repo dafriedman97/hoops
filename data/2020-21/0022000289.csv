@@ -39,8 +39,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000289,2021-01-29,ORL,LAC,4.88,1,7,7,LAC,LAC,fg_miss,79,False,False,,MISS Leonard 16' Pullup Jump Shot,3-14,3,14
 0022000289,2021-01-29,ORL,LAC,4.92,1,7,5,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:0 Def:1),,3-14,3,14
 0022000289,2021-01-29,ORL,LAC,5.08,1,6,55,ORL,ORL,fg_miss,47,False,False,MISS Gordon 6' Turnaround Jump Shot,,3-14,3,14
-0022000289,2021-01-29,ORL,LAC,5.17,1,6,50,ORL,ORL,fg_make,97,False,False,Gordon Tip Layup Shot (2 PTS),,5-14,5,14
 0022000289,2021-01-29,ORL,LAC,5.17,1,6,50,ORL,ORL,reb,0,False,False,Gordon REBOUND (Off:1 Def:0),,5-14,5,14
+0022000289,2021-01-29,ORL,LAC,5.17,1,6,50,ORL,ORL,fg_make,97,False,False,Gordon Tip Layup Shot (2 PTS),,5-14,5,14
 0022000289,2021-01-29,ORL,LAC,5.43,1,6,34,LAC,ORL,foul,2,False,False,Gordon S.FOUL (P1.T2) (J.Williams),,5-14,5,14
 0022000289,2021-01-29,ORL,LAC,5.43,1,6,34,LAC,LAC,ft_make,11,False,False,,Leonard Free Throw 1 of 2 (4 PTS),5-15,5,15
 0022000289,2021-01-29,ORL,LAC,5.43,1,6,34,LAC,LAC,ft_make,12,False,False,,Leonard Free Throw 2 of 2 (5 PTS),5-16,5,16
@@ -71,8 +71,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000289,2021-01-29,ORL,LAC,8.13,1,3,52,ORL,ORL,fg_make,1,False,False,Birch 20' Jump Shot (2 PTS) (Anthony 1 AST),,9-18,9,18
 0022000289,2021-01-29,ORL,LAC,8.3,1,3,42,LAC,LAC,fg_make,6,False,False,,Leonard 1' Driving Layup (7 PTS),9-20,9,20
 0022000289,2021-01-29,ORL,LAC,8.62,1,3,23,ORL,ORL,fg_miss,5,True,False,MISS Bacon 2' Layup,,9-20,9,20
-0022000289,2021-01-29,ORL,LAC,8.62,1,3,23,ORL,ORL,reb,0,False,False,MAGIC Rebound,,9-20,9,20
 0022000289,2021-01-29,ORL,LAC,8.62,1,3,23,ORL,LAC,block,5,True,False,block,block,9-20,9,20
+0022000289,2021-01-29,ORL,LAC,8.62,1,3,23,ORL,ORL,reb,0,False,False,MAGIC Rebound,,9-20,9,20
 0022000289,2021-01-29,ORL,LAC,8.72,1,3,17,ORL,ORL,fg_make,79,False,False,Ross 12' Pullup Jump Shot (2 PTS) (Anthony 2 AST),,11-20,11,20
 0022000289,2021-01-29,ORL,LAC,9.02,1,2,59,LAC,LAC,fg3_miss,1,False,False,,MISS Mann 26' 3PT Jump Shot,11-20,11,20
 0022000289,2021-01-29,ORL,LAC,9.07,1,2,56,ORL,ORL,reb,0,False,False,Bacon REBOUND (Off:0 Def:1),,11-20,11,20
@@ -82,8 +82,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000289,2021-01-29,ORL,LAC,9.42,1,2,35,LAC,LAC,fg3_miss,1,False,False,,MISS Kennard 24' 3PT Jump Shot,11-20,11,20
 0022000289,2021-01-29,ORL,LAC,9.45,1,2,33,LAC,LAC,reb,0,False,False,,Mann REBOUND (Off:1 Def:0),11-20,11,20
 0022000289,2021-01-29,ORL,LAC,9.48,1,2,31,LAC,LAC,fg_miss,72,True,False,,MISS Mann 3' Putback Layup,11-20,11,20
-0022000289,2021-01-29,ORL,LAC,9.48,1,2,31,ORL,ORL,reb,0,False,False,Gordon REBOUND (Off:1 Def:1),,11-20,11,20
 0022000289,2021-01-29,ORL,LAC,9.48,1,2,31,LAC,ORL,block,72,True,False,block,block,11-20,11,20
+0022000289,2021-01-29,ORL,LAC,9.48,1,2,31,ORL,ORL,reb,0,False,False,Gordon REBOUND (Off:1 Def:1),,11-20,11,20
 0022000289,2021-01-29,ORL,LAC,9.63,1,2,22,ORL,ORL,fg_make,80,False,False,Gordon 11' Step Back Jump Shot (4 PTS),,13-20,13,20
 0022000289,2021-01-29,ORL,LAC,9.92,1,2,5,LAC,LAC,fg_make,79,False,False,,Morris Sr. 12' Pullup Jump Shot (2 PTS),13-22,13,22
 0022000289,2021-01-29,ORL,LAC,10.17,1,1,50,ORL,LAC,foul,2,False,False,,Mann S.FOUL (P1.T1) (J.Williams),13-22,13,22
@@ -125,8 +125,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000289,2021-01-29,ORL,LAC,13.1,2,10,54,ORL,ORL,reb,0,False,False,Bacon REBOUND (Off:0 Def:3),,28-30,28,30
 0022000289,2021-01-29,ORL,LAC,13.22,2,10,47,ORL,ORL,fg_make,79,False,False,Ross 18' Pullup Jump Shot (14 PTS) (Bacon 1 AST),,30-30,30,30
 0022000289,2021-01-29,ORL,LAC,13.42,2,10,35,LAC,LAC,fg_miss,2,True,False,,MISS Williams 7' Running Jump Shot,30-30,30,30
-0022000289,2021-01-29,ORL,LAC,13.42,2,10,35,LAC,LAC,reb,0,False,False,,Clippers Rebound,30-30,30,30
 0022000289,2021-01-29,ORL,LAC,13.42,2,10,35,LAC,ORL,block,2,True,False,block,block,30-30,30,30
+0022000289,2021-01-29,ORL,LAC,13.42,2,10,35,LAC,LAC,reb,0,False,False,,Clippers Rebound,30-30,30,30
 0022000289,2021-01-29,ORL,LAC,13.6,2,10,24,LAC,LAC,fg3_miss,1,False,False,,MISS George 26' 3PT Jump Shot,30-30,30,30
 0022000289,2021-01-29,ORL,LAC,13.65,2,10,21,ORL,ORL,reb,0,False,False,Bacon REBOUND (Off:0 Def:4),,30-30,30,30
 0022000289,2021-01-29,ORL,LAC,13.77,2,10,14,ORL,ORL,fg_miss,63,False,False,MISS Bacon 14' Fadeaway Jumper,,30-30,30,30
@@ -230,8 +230,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000289,2021-01-29,ORL,LAC,26.78,3,9,13,LAC,LAC,reb,0,False,False,,Leonard REBOUND (Off:0 Def:2),59-65,59,65
 0022000289,2021-01-29,ORL,LAC,26.87,3,9,8,LAC,LAC,fg_make,41,False,False,,George 2' Running Layup (22 PTS) (Jackson 2 AST),59-67,59,67
 0022000289,2021-01-29,ORL,LAC,27.15,3,8,51,ORL,ORL,tov,2,False,True,Ennis III Lost Ball Turnover (P2.T8),,59-67,59,67
-0022000289,2021-01-29,ORL,LAC,27.15,3,8,51,LAC,ORL,foul,1,False,False,Fournier P.FOUL (P2.T1) (J.Williams),,59-67,59,67
 0022000289,2021-01-29,ORL,LAC,27.15,3,8,51,ORL,LAC,steal,2,False,True,steal,steal,59-67,59,67
+0022000289,2021-01-29,ORL,LAC,27.15,3,8,51,LAC,ORL,foul,1,False,False,Fournier P.FOUL (P2.T1) (J.Williams),,59-67,59,67
 0022000289,2021-01-29,ORL,LAC,27.33,3,8,40,LAC,LAC,fg_make,78,False,False,,George 6' Floating Jump Shot (24 PTS) (Batum 3 AST),59-69,59,69
 0022000289,2021-01-29,ORL,LAC,27.77,3,8,14,ORL,ORL,fg_make,6,False,False,Anthony 2' Driving Layup (4 PTS),,61-69,61,69
 0022000289,2021-01-29,ORL,LAC,28.12,3,7,53,LAC,LAC,fg3_miss,1,False,False,,MISS Leonard 26' 3PT Jump Shot,61-69,61,69
@@ -393,9 +393,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000289,2021-01-29,ORL,LAC,45.65,4,2,21,ORL,ORL,reb,0,False,False,Bacon REBOUND (Off:0 Def:6),,86-109,86,109
 0022000289,2021-01-29,ORL,LAC,45.85,4,2,9,ORL,ORL,fg_miss,6,True,False,MISS Bacon 3' Driving Layup,,86-109,86,109
 0022000289,2021-01-29,ORL,LAC,45.85,4,2,9,ORL,ORL,fg_miss,6,True,False,MISS Bacon 3' Driving Layup,,86-109,86,109
+0022000289,2021-01-29,ORL,LAC,45.85,4,2,9,ORL,LAC,block,6,True,False,block,block,86-109,86,109
+0022000289,2021-01-29,ORL,LAC,45.85,4,2,9,ORL,LAC,block,6,True,False,block,block,86-109,86,109
 0022000289,2021-01-29,ORL,LAC,45.85,4,2,9,ORL,ORL,reb,0,False,False,MAGIC Rebound,,86-109,86,109
-0022000289,2021-01-29,ORL,LAC,45.85,4,2,9,ORL,LAC,block,6,True,False,block,block,86-109,86,109
-0022000289,2021-01-29,ORL,LAC,45.85,4,2,9,ORL,LAC,block,6,True,False,block,block,86-109,86,109
 0022000289,2021-01-29,ORL,LAC,45.95,4,2,3,ORL,ORL,fg_miss,79,False,False,MISS Bone 17' Pullup Jump Shot,,86-109,86,109
 0022000289,2021-01-29,ORL,LAC,46.02,4,1,59,LAC,LAC,reb,0,False,False,,Mann REBOUND (Off:1 Def:2),86-109,86,109
 0022000289,2021-01-29,ORL,LAC,46.05,4,1,57,LAC,LAC,fg_make,52,False,False,,Kabengele 1' Alley Oop Dunk (2 PTS) (Mann 1 AST),86-111,86,111

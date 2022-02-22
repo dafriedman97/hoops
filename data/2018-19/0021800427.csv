@@ -165,8 +165,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800427,2018-12-14,POR,TOR,20.62,2,3,23,POR,POR,fg3_miss,1,False,False,MISS Harkless 3PT Jump Shot,,49-40,49,40
 0021800427,2018-12-14,POR,TOR,20.65,2,3,21,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:3 Def:2),,49-40,49,40
 0021800427,2018-12-14,POR,TOR,20.7,2,3,18,POR,POR,fg3_miss,1,False,False,MISS McCollum 24' 3PT Jump Shot,,49-40,49,40
-0021800427,2018-12-14,POR,TOR,20.7,2,3,18,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,49-40,49,40
 0021800427,2018-12-14,POR,TOR,20.7,2,3,18,POR,TOR,foul,3,False,False,,Ibaka L.B.FOUL (P1.T2) (J.Phillips),49-40,49,40
+0021800427,2018-12-14,POR,TOR,20.7,2,3,18,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,49-40,49,40
 0021800427,2018-12-14,POR,TOR,20.8,2,3,12,POR,TOR,foul,2,False,False,,Green S.FOUL (P2.T3) (K.Cutler),49-40,49,40
 0021800427,2018-12-14,POR,TOR,20.8,2,3,12,POR,POR,ft_make,11,False,False,McCollum Free Throw 1 of 2 (3 PTS),,50-40,50,40
 0021800427,2018-12-14,POR,TOR,20.8,2,3,12,POR,POR,ft_make,12,False,False,McCollum Free Throw 2 of 2 (4 PTS),,51-40,51,40
@@ -243,9 +243,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800427,2018-12-14,POR,TOR,29.15,3,6,51,POR,POR,fg3_miss,1,False,False,MISS Aminu 3PT Jump Shot,,71-66,71,66
 0021800427,2018-12-14,POR,TOR,29.18,3,6,49,TOR,TOR,reb,0,False,False,,VanVleet REBOUND (Off:0 Def:2),71-66,71,66
 0021800427,2018-12-14,POR,TOR,29.23,3,6,46,TOR,TOR,fg_miss,41,True,False,,MISS VanVleet 2' Running Layup,71-66,71,66
+0021800427,2018-12-14,POR,TOR,29.23,3,6,46,TOR,POR,block,41,True,False,block,block,71-66,71,66
 0021800427,2018-12-14,POR,TOR,29.23,3,6,46,TOR,TOR,reb,0,False,False,,Raptors Rebound,71-66,71,66
 0021800427,2018-12-14,POR,TOR,29.23,3,6,46,POR,POR,timeout,1,False,False,TRAIL BLAZERS Timeout: Regular (Full 3 Short 0),,71-66,71,66
-0021800427,2018-12-14,POR,TOR,29.23,3,6,46,TOR,POR,block,41,True,False,block,block,71-66,71,66
 0021800427,2018-12-14,POR,TOR,29.27,3,6,44,TOR,TOR,fg_miss,1,False,False,,MISS Green 13' Jump Shot,71-66,71,66
 0021800427,2018-12-14,POR,TOR,29.3,3,6,42,POR,POR,reb,0,False,False,Lillard REBOUND (Off:0 Def:2),,71-66,71,66
 0021800427,2018-12-14,POR,TOR,29.45,3,6,33,POR,POR,fg3_make,1,False,False,McCollum 27' 3PT Jump Shot (9 PTS) (Lillard 4 AST),,74-66,74,66
@@ -307,10 +307,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800427,2018-12-14,POR,TOR,35.75,3,0,15,POR,POR,fg_make,79,False,False,Turner 18' Pullup Jump Shot (6 PTS),,91-86,91,86
 0021800427,2018-12-14,POR,TOR,35.95,3,0,3,TOR,TOR,fg3_make,79,False,False,,VanVleet 26' 3PT Pullup Jump Shot (16 PTS),91-89,91,89
 0021800427,2018-12-14,POR,TOR,36.0,3,0,0,POR,POR,fg3_miss,79,True,False,MISS Stauskas 49' 3PT Pullup Jump Shot,,91-89,91,89
+0021800427,2018-12-14,POR,TOR,36.0,3,0,0,POR,TOR,block,79,True,False,block,block,91-89,91,89
 0021800427,2018-12-14,POR,TOR,36.0,3,0,0,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,91-89,91,89
 0021800427,2018-12-14,POR,TOR,36.0,3,0,0,POR,,period_end,0,False,False,,,91-89,91,89
 0021800427,2018-12-14,POR,TOR,36.0,4,12,0,POR,,period_start,0,False,False,,,91-89,91,89
-0021800427,2018-12-14,POR,TOR,36.0,3,0,0,POR,TOR,block,79,True,False,block,block,91-89,91,89
 0021800427,2018-12-14,POR,TOR,36.23,4,11,46,TOR,POR,foul,2,False,False,Curry S.FOUL (P2.T1) (L.Richardson),,91-89,91,89
 0021800427,2018-12-14,POR,TOR,36.23,4,11,46,TOR,TOR,ft_miss,11,False,False,,MISS VanVleet Free Throw 1 of 2,91-89,91,89
 0021800427,2018-12-14,POR,TOR,36.23,4,11,46,TOR,TOR,reb,1,False,False,,Raptors Rebound,91-89,91,89

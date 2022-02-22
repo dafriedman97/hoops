@@ -11,8 +11,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700221,2017-11-17,TOR,NYK,1.6,1,10,24,TOR,TOR,fg3_miss,1,False,False,MISS Siakam 26' 3PT Jump Shot,,2-4,2,4
 0021700221,2017-11-17,TOR,NYK,1.65,1,10,21,NYK,NYK,reb,0,False,False,,Hardaway Jr. REBOUND (Off:0 Def:1),2-4,2,4
 0021700221,2017-11-17,TOR,NYK,1.87,1,10,8,NYK,NYK,fg_miss,47,True,False,,MISS Porzingis 14' Turnaround Jump Shot,2-4,2,4
-0021700221,2017-11-17,TOR,NYK,1.87,1,10,8,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,2-4,2,4
 0021700221,2017-11-17,TOR,NYK,1.87,1,10,8,NYK,TOR,block,47,True,False,block,block,2-4,2,4
+0021700221,2017-11-17,TOR,NYK,1.87,1,10,8,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,2-4,2,4
 0021700221,2017-11-17,TOR,NYK,2.17,1,9,50,TOR,TOR,fg_make,6,False,False,Anunoby 2' Driving Layup (2 PTS),,4-4,4,4
 0021700221,2017-11-17,TOR,NYK,2.33,1,9,40,NYK,NYK,fg3_miss,1,False,False,,MISS Hardaway Jr. 26' 3PT Jump Shot,4-4,4,4
 0021700221,2017-11-17,TOR,NYK,2.4,1,9,36,TOR,TOR,reb,0,False,False,Valanciunas REBOUND (Off:0 Def:1),,4-4,4,4
@@ -55,8 +55,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700221,2017-11-17,TOR,NYK,7.4,1,4,36,TOR,TOR,fg3_make,1,False,False,Anunoby 25' 3PT Jump Shot (7 PTS) (DeRozan 4 AST),,20-11,20,11
 0021700221,2017-11-17,TOR,NYK,7.68,1,4,19,NYK,TOR,foul,1,False,False,Anunoby P.FOUL (P1.T1) (K.Fitzgerald),,20-11,20,11
 0021700221,2017-11-17,TOR,NYK,7.8,1,4,12,NYK,NYK,fg_miss,6,True,False,,MISS Porzingis 4' Driving Layup,20-11,20,11
-0021700221,2017-11-17,TOR,NYK,7.8,1,4,12,NYK,NYK,reb,0,False,False,,Knicks Rebound,20-11,20,11
 0021700221,2017-11-17,TOR,NYK,7.8,1,4,12,NYK,TOR,block,6,True,False,block,block,20-11,20,11
+0021700221,2017-11-17,TOR,NYK,7.8,1,4,12,NYK,NYK,reb,0,False,False,,Knicks Rebound,20-11,20,11
 0021700221,2017-11-17,TOR,NYK,7.92,1,4,5,NYK,NYK,fg_miss,79,False,False,,MISS O'Quinn 17' Pullup Jump Shot,20-11,20,11
 0021700221,2017-11-17,TOR,NYK,7.95,1,4,3,TOR,TOR,reb,0,False,False,Lowry REBOUND (Off:0 Def:4),,20-11,20,11
 0021700221,2017-11-17,TOR,NYK,8.05,1,3,57,TOR,TOR,fg_miss,43,False,False,MISS Nogueira 3' Alley Oop Layup,,20-11,20,11
@@ -114,8 +114,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700221,2017-11-17,TOR,NYK,12.6,2,11,24,TOR,TOR,reb,0,False,False,Miles REBOUND (Off:0 Def:1),,32-18,32,18
 0021700221,2017-11-17,TOR,NYK,12.92,2,11,5,TOR,TOR,tov,8,False,False,Nogueira 3 Second Violation Turnover (P1.T2),,32-18,32,18
 0021700221,2017-11-17,TOR,NYK,13.28,2,10,43,NYK,NYK,fg_miss,6,True,False,,MISS Thomas 2' Driving Layup,32-18,32,18
-0021700221,2017-11-17,TOR,NYK,13.28,2,10,43,NYK,NYK,reb,0,False,False,,Knicks Rebound,32-18,32,18
 0021700221,2017-11-17,TOR,NYK,13.28,2,10,43,NYK,TOR,block,6,True,False,block,block,32-18,32,18
+0021700221,2017-11-17,TOR,NYK,13.28,2,10,43,NYK,NYK,reb,0,False,False,,Knicks Rebound,32-18,32,18
 0021700221,2017-11-17,TOR,NYK,13.33,2,10,40,NYK,NYK,fg_miss,1,False,False,,MISS Ntilikina 18' Jump Shot,32-18,32,18
 0021700221,2017-11-17,TOR,NYK,13.37,2,10,38,TOR,TOR,reb,0,False,False,Brown REBOUND (Off:0 Def:1),,32-18,32,18
 0021700221,2017-11-17,TOR,NYK,13.62,2,10,23,TOR,TOR,fg_make,52,False,False,Nogueira Alley Oop Dunk (4 PTS) (Miles 1 AST),,34-18,34,18
@@ -189,8 +189,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700221,2017-11-17,TOR,NYK,22.23,2,1,46,TOR,TOR,fg3_miss,1,False,False,MISS Siakam 3PT Jump Shot,,51-34,51,34
 0021700221,2017-11-17,TOR,NYK,22.32,2,1,41,NYK,NYK,reb,0,False,False,,Jack REBOUND (Off:1 Def:1),51-34,51,34
 0021700221,2017-11-17,TOR,NYK,22.38,2,1,37,NYK,NYK,fg_miss,58,True,False,,MISS Kanter 4' Turnaround Hook Shot,51-34,51,34
-0021700221,2017-11-17,TOR,NYK,22.38,2,1,37,TOR,TOR,reb,0,False,False,Valanciunas REBOUND (Off:0 Def:4),,51-34,51,34
 0021700221,2017-11-17,TOR,NYK,22.38,2,1,37,NYK,TOR,block,58,True,False,block,block,51-34,51,34
+0021700221,2017-11-17,TOR,NYK,22.38,2,1,37,TOR,TOR,reb,0,False,False,Valanciunas REBOUND (Off:0 Def:4),,51-34,51,34
 0021700221,2017-11-17,TOR,NYK,22.47,2,1,32,TOR,TOR,fg3_make,79,False,False,Lowry 29' 3PT Pullup Jump Shot (16 PTS),,54-34,54,34
 0021700221,2017-11-17,TOR,NYK,22.88,2,1,7,NYK,NYK,fg_miss,1,False,False,,MISS Lee 16' Jump Shot,54-34,54,34
 0021700221,2017-11-17,TOR,NYK,22.92,2,1,5,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,54-34,54,34
@@ -278,8 +278,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700221,2017-11-17,TOR,NYK,33.62,3,2,23,TOR,TOR,fg_make,72,False,False,VanVleet 1' Putback Layup (7 PTS),,74-60,74,60
 0021700221,2017-11-17,TOR,NYK,33.67,3,2,20,NYK,NYK,fg_make,9,False,False,,Hardaway Jr. 1' Driving Dunk (13 PTS),74-62,74,62
 0021700221,2017-11-17,TOR,NYK,33.98,3,2,1,TOR,TOR,fg_miss,6,True,False,MISS VanVleet 1' Driving Layup,,74-62,74,62
-0021700221,2017-11-17,TOR,NYK,33.98,3,2,1,NYK,NYK,reb,0,False,False,,Hardaway Jr. REBOUND (Off:0 Def:5),74-62,74,62
 0021700221,2017-11-17,TOR,NYK,33.98,3,2,1,TOR,NYK,block,6,True,False,block,block,74-62,74,62
+0021700221,2017-11-17,TOR,NYK,33.98,3,2,1,NYK,NYK,reb,0,False,False,,Hardaway Jr. REBOUND (Off:0 Def:5),74-62,74,62
 0021700221,2017-11-17,TOR,NYK,34.02,3,1,59,NYK,TOR,foul,1,False,False,DeRozan P.FOUL (P2.PN) (D.Taylor),,74-62,74,62
 0021700221,2017-11-17,TOR,NYK,34.02,3,1,59,NYK,NYK,timeout,1,False,False,,Knicks Timeout: Regular (Reg.3 Short 0),74-62,74,62
 0021700221,2017-11-17,TOR,NYK,34.23,3,1,46,NYK,NYK,fg_miss,79,False,False,,MISS Thomas 12' Pullup Jump Shot,74-62,74,62
@@ -293,10 +293,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700221,2017-11-17,TOR,NYK,35.58,3,0,25,TOR,TOR,fg3_miss,1,False,False,MISS Anunoby 24' 3PT Jump Shot,,78-64,78,64
 0021700221,2017-11-17,TOR,NYK,35.63,3,0,22,NYK,NYK,reb,0,False,False,,McDermott REBOUND (Off:1 Def:1),78-64,78,64
 0021700221,2017-11-17,TOR,NYK,36.0,3,0,0,NYK,NYK,fg3_miss,101,True,False,,MISS Lee 3PT Driving Floating Jump Shot,78-64,78,64
+0021700221,2017-11-17,TOR,NYK,36.0,3,0,0,NYK,TOR,block,101,True,False,block,block,78-64,78,64
 0021700221,2017-11-17,TOR,NYK,36.0,3,0,0,TOR,TOR,reb,0,False,False,Anunoby REBOUND (Off:0 Def:1),,78-64,78,64
 0021700221,2017-11-17,TOR,NYK,36.0,3,0,0,TOR,,period_end,0,False,False,,,78-64,78,64
 0021700221,2017-11-17,TOR,NYK,36.0,4,12,0,TOR,,period_start,0,False,False,,,78-64,78,64
-0021700221,2017-11-17,TOR,NYK,36.0,3,0,0,NYK,TOR,block,101,True,False,block,block,78-64,78,64
 0021700221,2017-11-17,TOR,NYK,36.33,4,11,40,TOR,NYK,foul,26,False,False,,Beasley Offensive Charge Foul (P1.T1) (D.Collins),78-64,78,64
 0021700221,2017-11-17,TOR,NYK,36.33,4,11,40,NYK,NYK,tov,37,False,False,,Beasley Offensive Foul Turnover (P1.T7),78-64,78,64
 0021700221,2017-11-17,TOR,NYK,36.57,4,11,26,TOR,TOR,fg_make,52,False,False,Nogueira 1' Alley Oop Dunk (6 PTS) (VanVleet 2 AST),,80-64,80,64
@@ -344,8 +344,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700221,2017-11-17,TOR,NYK,42.48,4,5,31,NYK,NYK,fg_miss,97,False,False,,MISS Beasley 1' Tip Layup Shot,94-78,94,78
 0021700221,2017-11-17,TOR,NYK,42.52,4,5,29,TOR,TOR,reb,0,False,False,Lowry REBOUND (Off:0 Def:7),,94-78,94,78
 0021700221,2017-11-17,TOR,NYK,42.57,4,5,26,TOR,TOR,fg_miss,7,True,False,MISS Poeltl 1' Dunk,,94-78,94,78
-0021700221,2017-11-17,TOR,NYK,42.57,4,5,26,TOR,TOR,reb,0,False,False,Siakam REBOUND (Off:2 Def:1),,94-78,94,78
 0021700221,2017-11-17,TOR,NYK,42.57,4,5,26,TOR,NYK,block,7,True,False,block,block,94-78,94,78
+0021700221,2017-11-17,TOR,NYK,42.57,4,5,26,TOR,TOR,reb,0,False,False,Siakam REBOUND (Off:2 Def:1),,94-78,94,78
 0021700221,2017-11-17,TOR,NYK,42.63,4,5,22,TOR,TOR,fg3_make,1,False,False,Miles 3PT Jump Shot (14 PTS) (Siakam 4 AST),,97-78,97,78
 0021700221,2017-11-17,TOR,NYK,42.63,4,5,22,NYK,NYK,timeout,1,False,False,,Knicks Timeout: Regular (Reg.4 Short 0),97-78,97,78
 0021700221,2017-11-17,TOR,NYK,42.83,4,5,10,NYK,NYK,fg3_miss,79,False,False,,MISS Hardaway Jr. 26' 3PT Pullup Jump Shot,97-78,97,78
@@ -359,8 +359,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700221,2017-11-17,TOR,NYK,44.02,4,3,59,NYK,NYK,tov,37,False,False,,Porzingis Offensive Foul Turnover (P3.T9),99-80,99,80
 0021700221,2017-11-17,TOR,NYK,44.38,4,3,37,TOR,TOR,fg_make,101,False,False,Siakam 7' Driving Floating Jump Shot (11 PTS) (Lowry 9 AST),,101-80,101,80
 0021700221,2017-11-17,TOR,NYK,44.58,4,3,25,NYK,NYK,fg_miss,6,True,False,,MISS Jack 3' Driving Layup,101-80,101,80
-0021700221,2017-11-17,TOR,NYK,44.58,4,3,25,TOR,TOR,reb,0,False,False,Lowry REBOUND (Off:0 Def:8),,101-80,101,80
 0021700221,2017-11-17,TOR,NYK,44.58,4,3,25,NYK,TOR,block,6,True,False,block,block,101-80,101,80
+0021700221,2017-11-17,TOR,NYK,44.58,4,3,25,TOR,TOR,reb,0,False,False,Lowry REBOUND (Off:0 Def:8),,101-80,101,80
 0021700221,2017-11-17,TOR,NYK,44.68,4,3,19,TOR,TOR,fg_make,5,False,False,Siakam 1' Layup (13 PTS) (DeRozan 7 AST),,103-80,103,80
 0021700221,2017-11-17,TOR,NYK,44.68,4,3,19,NYK,NYK,timeout,1,False,False,,Knicks Timeout: Regular (Reg.5 Short 0),103-80,103,80
 0021700221,2017-11-17,TOR,NYK,45.05,4,2,57,NYK,NYK,fg_make,1,False,False,,Sessions 13' Jump Shot (2 PTS) (Hernangomez 1 AST),103-82,103,82
@@ -368,8 +368,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700221,2017-11-17,TOR,NYK,45.33,4,2,40,NYK,TOR,violation,5,False,False,Poeltl Violation:Kicked Ball (D.Collins),,105-82,105,82
 0021700221,2017-11-17,TOR,NYK,45.38,4,2,37,NYK,TOR,foul,1,False,False,Siakam P.FOUL (P4.T4) (D.Taylor),,105-82,105,82
 0021700221,2017-11-17,TOR,NYK,45.5,4,2,30,NYK,NYK,fg_miss,5,True,False,,MISS McDermott 3' Layup,105-82,105,82
-0021700221,2017-11-17,TOR,NYK,45.5,4,2,30,NYK,NYK,reb,0,False,False,,Knicks Rebound,105-82,105,82
 0021700221,2017-11-17,TOR,NYK,45.5,4,2,30,NYK,TOR,block,5,True,False,block,block,105-82,105,82
+0021700221,2017-11-17,TOR,NYK,45.5,4,2,30,NYK,NYK,reb,0,False,False,,Knicks Rebound,105-82,105,82
 0021700221,2017-11-17,TOR,NYK,45.62,4,2,23,NYK,NYK,fg_miss,1,False,False,,MISS Beasley 6' Jump Shot,105-82,105,82
 0021700221,2017-11-17,TOR,NYK,45.62,4,2,23,NYK,NYK,reb,0,False,False,,McDermott REBOUND (Off:3 Def:1),105-82,105,82
 0021700221,2017-11-17,TOR,NYK,45.7,4,2,18,NYK,NYK,fg_miss,97,False,False,,MISS McDermott 1' Tip Layup Shot,105-82,105,82

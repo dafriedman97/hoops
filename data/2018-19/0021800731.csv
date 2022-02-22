@@ -15,8 +15,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800731,2019-01-26,MEM,IND,1.92,1,10,5,IND,IND,fg3_miss,1,False,False,,MISS Turner 26' 3PT Jump Shot,2-0,2,0
 0021800731,2019-01-26,MEM,IND,1.92,1,10,5,MEM,MEM,reb,0,False,False,Carter REBOUND (Off:0 Def:1),,2-0,2,0
 0021800731,2019-01-26,MEM,IND,2.15,1,9,51,MEM,MEM,fg_miss,98,True,False,MISS Jackson Jr. 2' Cutting Layup Shot,,2-0,2,0
-0021800731,2019-01-26,MEM,IND,2.15,1,9,51,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,2-0,2,0
 0021800731,2019-01-26,MEM,IND,2.15,1,9,51,MEM,IND,block,98,True,False,block,block,2-0,2,0
+0021800731,2019-01-26,MEM,IND,2.15,1,9,51,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,2-0,2,0
 0021800731,2019-01-26,MEM,IND,2.28,1,9,43,MEM,MEM,fg3_miss,1,False,False,MISS Conley 26' 3PT Jump Shot,,2-0,2,0
 0021800731,2019-01-26,MEM,IND,2.32,1,9,41,IND,IND,reb,0,False,False,,Bogdanovic REBOUND (Off:0 Def:1),2-0,2,0
 0021800731,2019-01-26,MEM,IND,2.38,1,9,37,IND,MEM,foul,1,False,False,Holiday P.FOUL (P1.T1) (K.Fitzgerald),,2-0,2,0
@@ -36,9 +36,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800731,2019-01-26,MEM,IND,4.12,1,7,53,MEM,MEM,fg3_miss,1,False,False,MISS Holiday 3PT Jump Shot,,4-2,4,2
 0021800731,2019-01-26,MEM,IND,4.18,1,7,49,IND,IND,reb,0,False,False,,Evans REBOUND (Off:0 Def:1),4-2,4,2
 0021800731,2019-01-26,MEM,IND,4.55,1,7,27,IND,IND,fg3_miss,1,True,False,,MISS Young 26' 3PT Jump Shot,4-2,4,2
-0021800731,2019-01-26,MEM,IND,4.55,1,7,27,IND,IND,reb,0,False,False,,Pacers Rebound,4-2,4,2
-0021800731,2019-01-26,MEM,IND,4.55,1,7,27,IND,IND,tov,11,False,False,,Pacers Turnover: Shot Clock (T#4),4-2,4,2
 0021800731,2019-01-26,MEM,IND,4.55,1,7,27,IND,MEM,block,1,True,False,block,block,4-2,4,2
+0021800731,2019-01-26,MEM,IND,4.55,1,7,27,IND,IND,tov,11,False,False,,Pacers Turnover: Shot Clock (T#4),4-2,4,2
+0021800731,2019-01-26,MEM,IND,4.55,1,7,27,IND,IND,reb,0,False,False,,Pacers Rebound,4-2,4,2
 0021800731,2019-01-26,MEM,IND,4.77,1,7,14,MEM,IND,foul,1,False,False,,Turner P.FOUL (P1.T2) (K.Fitzgerald),4-2,4,2
 0021800731,2019-01-26,MEM,IND,4.87,1,7,8,MEM,MEM,fg_miss,86,False,False,MISS Holiday 8' Turnaround Fadeaway Shot,,4-2,4,2
 0021800731,2019-01-26,MEM,IND,4.92,1,7,5,IND,IND,reb,0,False,False,,Turner REBOUND (Off:0 Def:2),4-2,4,2
@@ -215,10 +215,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800731,2019-01-26,MEM,IND,23.55,2,0,27,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,53-42,53,42
 0021800731,2019-01-26,MEM,IND,23.95,2,0,3,MEM,MEM,tov,11,False,False,GRIZZLIES Turnover: Shot Clock (T#8),,53-42,53,42
 0021800731,2019-01-26,MEM,IND,24.0,2,0,0,IND,IND,fg_miss,6,True,False,,MISS Evans 3' Driving Layup,53-42,53,42
+0021800731,2019-01-26,MEM,IND,24.0,2,0,0,IND,MEM,block,6,True,False,block,block,53-42,53,42
 0021800731,2019-01-26,MEM,IND,24.0,2,0,0,IND,IND,reb,0,False,False,,Pacers Rebound,53-42,53,42
 0021800731,2019-01-26,MEM,IND,24.0,2,0,0,IND,,period_end,0,False,False,,,53-42,53,42
 0021800731,2019-01-26,MEM,IND,24.0,3,12,0,IND,,period_start,0,False,False,,,53-42,53,42
-0021800731,2019-01-26,MEM,IND,24.0,2,0,0,IND,MEM,block,6,True,False,block,block,53-42,53,42
 0021800731,2019-01-26,MEM,IND,24.28,3,11,43,IND,IND,fg_make,5,False,False,,Bogdanovic 4' Layup (10 PTS) (Turner 1 AST),53-44,53,44
 0021800731,2019-01-26,MEM,IND,24.68,3,11,19,MEM,MEM,fg_miss,79,False,False,MISS Carter 17' Pullup Jump Shot,,53-44,53,44
 0021800731,2019-01-26,MEM,IND,24.73,3,11,16,IND,IND,reb,0,False,False,,Young REBOUND (Off:1 Def:2),53-44,53,44
@@ -253,9 +253,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800731,2019-01-26,MEM,IND,28.8,3,7,12,MEM,MEM,reb,1,False,False,GRIZZLIES Rebound,,64-56,64,56
 0021800731,2019-01-26,MEM,IND,28.8,3,7,12,MEM,MEM,ft_make,12,False,False,Jackson Jr. Free Throw 2 of 2 (18 PTS),,65-56,65,56
 0021800731,2019-01-26,MEM,IND,29.08,3,6,55,IND,IND,tov,2,False,True,,Evans Lost Ball Turnover (P2.T12),65-56,65,56
+0021800731,2019-01-26,MEM,IND,29.08,3,6,55,IND,MEM,steal,2,False,True,steal,steal,65-56,65,56
 0021800731,2019-01-26,MEM,IND,29.08,3,6,55,MEM,IND,foul,1,False,False,,Evans P.FOUL (P1.T3) (T.Maddox),65-56,65,56
 0021800731,2019-01-26,MEM,IND,29.08,3,6,55,MEM,MEM,timeout,1,False,False,GRIZZLIES Timeout: Regular (Full 4 Short 0),,65-56,65,56
-0021800731,2019-01-26,MEM,IND,29.08,3,6,55,IND,MEM,steal,2,False,True,steal,steal,65-56,65,56
 0021800731,2019-01-26,MEM,IND,29.35,3,6,39,MEM,MEM,fg3_miss,1,False,False,MISS Carter 26' 3PT Jump Shot,,65-56,65,56
 0021800731,2019-01-26,MEM,IND,29.4,3,6,36,IND,IND,reb,0,False,False,,Turner REBOUND (Off:0 Def:3),65-56,65,56
 0021800731,2019-01-26,MEM,IND,29.58,3,6,25,IND,IND,fg3_miss,1,False,False,,MISS Bogdanovic 25' 3PT Jump Shot,65-56,65,56

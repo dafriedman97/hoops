@@ -32,10 +32,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000101,2021-01-04,GSW,SAC,3.22,1,8,47,SAC,SAC,reb,0,False,False,,Bagley III REBOUND (Off:1 Def:1),8-3,8,3
 0022000101,2021-01-04,GSW,SAC,3.25,1,8,45,SAC,SAC,fg_miss,5,True,False,,MISS Bagley III 2' Layup,8-3,8,3
 0022000101,2021-01-04,GSW,SAC,3.25,1,8,45,SAC,GSW,block,5,True,False,block,block,8-3,8,3
-0022000101,2021-01-04,GSW,SAC,3.28,1,8,43,SAC,SAC,reb,0,False,False,,Bagley III REBOUND (Off:2 Def:1),8-3,8,3
 0022000101,2021-01-04,GSW,SAC,3.28,1,8,43,SAC,GSW,foul,2,False,False,Wiseman S.FOUL (P1.T2) (S.Wright),,8-3,8,3
 0022000101,2021-01-04,GSW,SAC,3.28,1,8,43,SAC,SAC,ft_make,11,False,False,,Bagley III Free Throw 1 of 2 (1 PTS),8-4,8,4
 0022000101,2021-01-04,GSW,SAC,3.28,1,8,43,SAC,SAC,ft_miss,12,False,False,,MISS Bagley III Free Throw 2 of 2,8-4,8,4
+0022000101,2021-01-04,GSW,SAC,3.28,1,8,43,SAC,SAC,reb,0,False,False,,Bagley III REBOUND (Off:2 Def:1),8-3,8,3
 0022000101,2021-01-04,GSW,SAC,3.3,1,8,42,GSW,GSW,reb,0,False,False,Wiseman REBOUND (Off:1 Def:2),,8-4,8,4
 0022000101,2021-01-04,GSW,SAC,3.53,1,8,28,GSW,GSW,fg_make,99,False,False,Curry 3' Cutting Finger Roll Layup Shot (2 PTS) (Green 1 AST),,10-4,10,4
 0022000101,2021-01-04,GSW,SAC,3.85,1,8,9,SAC,SAC,fg3_miss,63,False,False,,MISS Hield 24' 3PT Fadeaway Jumper,10-4,10,4
@@ -70,8 +70,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000101,2021-01-04,GSW,SAC,6.63,1,5,22,SAC,SAC,tov,45,False,False,,Bjelica Out of Bounds - Bad Pass Turnover Turnover (P1.T5),19-7,19,7
 0022000101,2021-01-04,GSW,SAC,6.85,1,5,9,GSW,GSW,fg_make,6,False,False,Looney 3' Driving Layup (2 PTS) (Curry 2 AST),,21-7,21,7
 0022000101,2021-01-04,GSW,SAC,7.23,1,4,46,SAC,SAC,fg_miss,98,True,False,,MISS Robinson III 6' Cutting Layup Shot,21-7,21,7
-0022000101,2021-01-04,GSW,SAC,7.23,1,4,46,SAC,SAC,reb,0,False,False,,Kings Rebound,21-7,21,7
 0022000101,2021-01-04,GSW,SAC,7.23,1,4,46,SAC,GSW,block,98,True,False,block,block,21-7,21,7
+0022000101,2021-01-04,GSW,SAC,7.23,1,4,46,SAC,SAC,reb,0,False,False,,Kings Rebound,21-7,21,7
 0022000101,2021-01-04,GSW,SAC,7.25,1,4,45,SAC,SAC,fg_miss,1,False,False,,MISS Bagley III 18' Jump Shot,21-7,21,7
 0022000101,2021-01-04,GSW,SAC,7.27,1,4,44,SAC,SAC,reb,0,False,False,,Kings Rebound,21-7,21,7
 0022000101,2021-01-04,GSW,SAC,7.27,1,4,44,SAC,SAC,tov,11,False,False,,Kings Turnover: Shot Clock (T#6),21-7,21,7
@@ -191,8 +191,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000101,2021-01-04,GSW,SAC,19.27,2,4,44,GSW,GSW,fg_make,98,False,False,Curry 3' Cutting Layup Shot (13 PTS) (Green 4 AST),,52-31,52,31
 0022000101,2021-01-04,GSW,SAC,19.5,2,4,30,SAC,SAC,fg3_make,63,False,False,,Robinson III 25' 3PT Fadeaway Jumper (3 PTS) (Barnes 1 AST),52-34,52,34
 0022000101,2021-01-04,GSW,SAC,19.7,2,4,18,GSW,GSW,tov,2,False,True,Wiseman Lost Ball Turnover (P1.T5),,52-34,52,34
-0022000101,2021-01-04,GSW,SAC,19.7,2,4,18,SAC,GSW,foul,28,False,False,Curry Personal Take Foul (P2.PN) (L.Richardson),,52-34,52,34
 0022000101,2021-01-04,GSW,SAC,19.7,2,4,18,GSW,SAC,steal,2,False,True,steal,steal,52-34,52,34
+0022000101,2021-01-04,GSW,SAC,19.7,2,4,18,SAC,GSW,foul,28,False,False,Curry Personal Take Foul (P2.PN) (L.Richardson),,52-34,52,34
 0022000101,2021-01-04,GSW,SAC,19.7,2,4,18,SAC,SAC,ft_make,11,False,False,,Guy Free Throw 1 of 2 (3 PTS),52-35,52,35
 0022000101,2021-01-04,GSW,SAC,19.7,2,4,18,SAC,SAC,ft_make,12,False,False,,Guy Free Throw 2 of 2 (4 PTS),52-36,52,36
 0022000101,2021-01-04,GSW,SAC,20.02,2,3,59,GSW,GSW,fg_make,75,False,False,Curry 3' Driving Finger Roll Layup (15 PTS),,54-36,54,36
@@ -416,8 +416,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000101,2021-01-04,GSW,SAC,42.13,4,5,52,GSW,GSW,fg_miss,57,False,False,MISS Poole 7' Driving Hook Shot,,115-87,115,87
 0022000101,2021-01-04,GSW,SAC,42.15,4,5,51,SAC,SAC,reb,0,False,False,,Joseph REBOUND (Off:2 Def:3),115-87,115,87
 0022000101,2021-01-04,GSW,SAC,42.48,4,5,31,SAC,SAC,fg_miss,75,False,False,,MISS Guy 4' Driving Finger Roll Layup,115-87,115,87
-0022000101,2021-01-04,GSW,SAC,42.58,4,5,25,GSW,GSW,fg_miss,41,True,False,MISS Wanamaker 2' Running Layup,,115-87,115,87
 0022000101,2021-01-04,GSW,SAC,42.58,4,5,25,GSW,GSW,reb,0,False,False,Lee REBOUND (Off:0 Def:6),,115-87,115,87
+0022000101,2021-01-04,GSW,SAC,42.58,4,5,25,GSW,GSW,fg_miss,41,True,False,MISS Wanamaker 2' Running Layup,,115-87,115,87
 0022000101,2021-01-04,GSW,SAC,42.58,4,5,25,GSW,SAC,block,41,True,False,block,block,115-87,115,87
 0022000101,2021-01-04,GSW,SAC,42.62,4,5,23,SAC,SAC,reb,0,False,False,,Bjelica REBOUND (Off:0 Def:3),115-87,115,87
 0022000101,2021-01-04,GSW,SAC,42.63,4,5,22,SAC,GSW,foul,2,False,False,Lee S.FOUL (P2.PN) (K.Lane),,115-87,115,87
@@ -435,9 +435,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000101,2021-01-04,GSW,SAC,43.78,4,4,13,GSW,GSW,reb,0,False,False,Mulder REBOUND (Off:0 Def:2),,124-88,124,88
 0022000101,2021-01-04,GSW,SAC,43.98,4,4,1,GSW,GSW,fg_miss,80,False,False,MISS Mannion 22' Step Back Jump Shot,,124-88,124,88
 0022000101,2021-01-04,GSW,SAC,44.02,4,3,59,SAC,SAC,reb,0,False,False,,Woodard II REBOUND (Off:0 Def:1),124-88,124,88
-0022000101,2021-01-04,GSW,SAC,44.23,4,3,46,SAC,SAC,fg_make,7,False,False,,James 7' Dunk (2 PTS),124-90,124,90
 0022000101,2021-01-04,GSW,SAC,44.23,4,3,46,SAC,GSW,foul,2,False,False,Poole S.FOUL (P1.PN) (L.Richardson),,124-90,124,90
 0022000101,2021-01-04,GSW,SAC,44.23,4,3,46,SAC,SAC,ft_miss,10,False,False,,MISS James Free Throw 1 of 1,124-90,124,90
+0022000101,2021-01-04,GSW,SAC,44.23,4,3,46,SAC,SAC,fg_make,7,False,False,,James 7' Dunk (2 PTS),124-90,124,90
 0022000101,2021-01-04,GSW,SAC,44.25,4,3,45,GSW,GSW,reb,0,False,False,Paschall REBOUND (Off:0 Def:6),,124-90,124,90
 0022000101,2021-01-04,GSW,SAC,44.43,4,3,34,GSW,GSW,tov,4,False,False,Poole Traveling Turnover (P1.T11),,124-90,124,90
 0022000101,2021-01-04,GSW,SAC,44.68,4,3,19,SAC,SAC,fg_miss,1,False,False,,MISS Metu 19' Jump Shot,124-90,124,90
@@ -453,8 +453,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000101,2021-01-04,GSW,SAC,46.0,4,2,0,SAC,SAC,fg_miss,78,False,False,,MISS Woodard II 8' Floating Jump Shot,129-94,129,94
 0022000101,2021-01-04,GSW,SAC,46.02,4,1,59,SAC,SAC,reb,0,False,False,,Woodard II REBOUND (Off:2 Def:2),129-94,129,94
 0022000101,2021-01-04,GSW,SAC,46.02,4,1,59,SAC,SAC,fg_miss,97,False,False,,MISS Woodard II 4' Tip Layup Shot,129-94,129,94
-0022000101,2021-01-04,GSW,SAC,46.03,4,1,58,SAC,SAC,reb,0,False,False,,Woodard II REBOUND (Off:3 Def:2),129-94,129,94
 0022000101,2021-01-04,GSW,SAC,46.03,4,1,58,SAC,SAC,fg_make,7,False,False,,Woodard II 3' Dunk (4 PTS),129-96,129,96
+0022000101,2021-01-04,GSW,SAC,46.03,4,1,58,SAC,SAC,reb,0,False,False,,Woodard II REBOUND (Off:3 Def:2),129-94,129,94
 0022000101,2021-01-04,GSW,SAC,46.22,4,1,47,GSW,GSW,fg_miss,98,False,False,MISS Paschall 3' Cutting Layup Shot,,129-96,129,96
 0022000101,2021-01-04,GSW,SAC,46.25,4,1,45,SAC,SAC,reb,0,False,False,,Guy REBOUND (Off:0 Def:3),129-96,129,96
 0022000101,2021-01-04,GSW,SAC,46.32,4,1,41,SAC,SAC,fg_make,50,False,False,,Metu 3' Running Dunk (4 PTS) (Guy 3 AST),129-98,129,98

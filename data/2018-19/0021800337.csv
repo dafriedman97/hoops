@@ -10,8 +10,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800337,2018-12-02,LAL,PHX,0.98,1,11,1,PHX,LAL,steal,1,False,True,steal,steal,0-0,0,0
 0021800337,2018-12-02,LAL,PHX,1.03,1,10,58,LAL,LAL,fg_make,41,False,False,Kuzma 1' Running Layup (2 PTS) (Ball 1 AST),,2-0,2,0
 0021800337,2018-12-02,LAL,PHX,1.15,1,10,51,PHX,PHX,fg_miss,5,True,False,,MISS Ariza 1' Layup,2-0,2,0
-0021800337,2018-12-02,LAL,PHX,1.15,1,10,51,PHX,PHX,reb,0,False,False,,Jackson REBOUND (Off:1 Def:0),2-0,2,0
 0021800337,2018-12-02,LAL,PHX,1.15,1,10,51,PHX,LAL,block,5,True,False,block,block,2-0,2,0
+0021800337,2018-12-02,LAL,PHX,1.15,1,10,51,PHX,PHX,reb,0,False,False,,Jackson REBOUND (Off:1 Def:0),2-0,2,0
 0021800337,2018-12-02,LAL,PHX,1.22,1,10,47,PHX,PHX,fg_miss,78,False,False,,MISS Jackson 5' Floating Jump Shot,2-0,2,0
 0021800337,2018-12-02,LAL,PHX,1.3,1,10,42,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:1 Def:1),2-0,2,0
 0021800337,2018-12-02,LAL,PHX,1.35,1,10,39,PHX,PHX,fg3_make,1,False,False,,Ariza 3PT Jump Shot (3 PTS) (Ayton 1 AST),2-3,2,3
@@ -73,8 +73,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800337,2018-12-02,LAL,PHX,6.93,1,5,4,LAL,LAL,fg_miss,3,False,False,MISS Chandler 5' Hook Shot,,8-25,8,25
 0021800337,2018-12-02,LAL,PHX,6.97,1,5,2,PHX,PHX,reb,0,False,False,,Ariza REBOUND (Off:0 Def:2),8-25,8,25
 0021800337,2018-12-02,LAL,PHX,7.12,1,4,53,PHX,PHX,fg_miss,6,True,False,,MISS Booker 1' Driving Layup,8-25,8,25
-0021800337,2018-12-02,LAL,PHX,7.12,1,4,53,LAL,LAL,reb,0,False,False,Chandler REBOUND (Off:0 Def:1),,8-25,8,25
 0021800337,2018-12-02,LAL,PHX,7.12,1,4,53,PHX,LAL,block,6,True,False,block,block,8-25,8,25
+0021800337,2018-12-02,LAL,PHX,7.12,1,4,53,LAL,LAL,reb,0,False,False,Chandler REBOUND (Off:0 Def:1),,8-25,8,25
 0021800337,2018-12-02,LAL,PHX,7.47,1,4,32,LAL,LAL,fg_make,44,False,False,Kuzma 4' Reverse Layup (4 PTS),,10-25,10,25
 0021800337,2018-12-02,LAL,PHX,7.58,1,4,25,PHX,PHX,timeout,1,False,False,,Suns Timeout: Regular (Reg.1 Short 0),10-25,10,25
 0021800337,2018-12-02,LAL,PHX,7.68,1,4,19,PHX,PHX,fg3_miss,1,False,False,,MISS Booker 25' 3PT Jump Shot,10-25,10,25
@@ -87,8 +87,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800337,2018-12-02,LAL,PHX,8.42,1,3,35,PHX,PHX,tov,1,False,True,,Booker Bad Pass Turnover (P1.T4),12-25,12,25
 0021800337,2018-12-02,LAL,PHX,8.42,1,3,35,PHX,LAL,steal,1,False,True,steal,steal,12-25,12,25
 0021800337,2018-12-02,LAL,PHX,8.5,1,3,30,LAL,LAL,fg_miss,41,True,False,MISS Hart 1' Running Layup,,12-25,12,25
-0021800337,2018-12-02,LAL,PHX,8.5,1,3,30,LAL,LAL,reb,0,False,False,LAKERS Rebound,,12-25,12,25
 0021800337,2018-12-02,LAL,PHX,8.5,1,3,30,LAL,PHX,block,41,True,False,block,block,12-25,12,25
+0021800337,2018-12-02,LAL,PHX,8.5,1,3,30,LAL,LAL,reb,0,False,False,LAKERS Rebound,,12-25,12,25
 0021800337,2018-12-02,LAL,PHX,8.75,1,3,15,LAL,LAL,fg_miss,1,False,False,MISS Hart 14' Jump Shot,,12-25,12,25
 0021800337,2018-12-02,LAL,PHX,8.78,1,3,13,PHX,PHX,reb,0,False,False,,Jackson REBOUND (Off:1 Def:4),12-25,12,25
 0021800337,2018-12-02,LAL,PHX,8.95,1,3,3,PHX,PHX,tov,39,False,False,,Okobo Step Out of Bounds Turnover (P1.T5),12-25,12,25
@@ -121,8 +121,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800337,2018-12-02,LAL,PHX,12.67,2,11,20,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:1 Def:2),,23-31,23,31
 0021800337,2018-12-02,LAL,PHX,12.75,2,11,15,LAL,LAL,fg_make,41,False,False,Ingram 1' Running Layup (8 PTS),,25-31,25,31
 0021800337,2018-12-02,LAL,PHX,13.12,2,10,53,PHX,PHX,tov,1,False,True,,Crawford Bad Pass Turnover (P1.T6),25-31,25,31
-0021800337,2018-12-02,LAL,PHX,13.12,2,10,53,LAL,PHX,foul,28,False,False,,Okobo Personal Take Foul (P1.T1) (A.Smith),25-31,25,31
 0021800337,2018-12-02,LAL,PHX,13.12,2,10,53,PHX,LAL,steal,1,False,True,steal,steal,25-31,25,31
+0021800337,2018-12-02,LAL,PHX,13.12,2,10,53,LAL,PHX,foul,28,False,False,,Okobo Personal Take Foul (P1.T1) (A.Smith),25-31,25,31
 0021800337,2018-12-02,LAL,PHX,13.38,2,10,37,LAL,LAL,tov,1,False,True,Ingram Bad Pass Turnover (P3.T9),,25-31,25,31
 0021800337,2018-12-02,LAL,PHX,13.38,2,10,37,LAL,PHX,steal,1,False,True,steal,steal,25-31,25,31
 0021800337,2018-12-02,LAL,PHX,13.47,2,10,32,LAL,PHX,foul,4,False,False,,Holmes OFF.Foul (P1) (D.Guthrie),25-31,25,31
@@ -154,8 +154,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800337,2018-12-02,LAL,PHX,16.62,2,7,23,LAL,LAL,fg_make,3,False,False,McGee 5' Hook Shot (4 PTS),,35-36,35,36
 0021800337,2018-12-02,LAL,PHX,16.7,2,7,18,PHX,LAL,foul,1,False,False,Caldwell-Pope P.FOUL (P2.T1) (K.Cutler),,35-36,35,36
 0021800337,2018-12-02,LAL,PHX,16.87,2,7,8,PHX,PHX,fg_miss,5,False,False,,MISS Booker 2' Layup,35-36,35,36
-0021800337,2018-12-02,LAL,PHX,16.9,2,7,6,PHX,PHX,fg_miss,97,False,False,,MISS Ayton 3' Tip Layup Shot,35-36,35,36
 0021800337,2018-12-02,LAL,PHX,16.9,2,7,6,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:4 Def:2),35-36,35,36
+0021800337,2018-12-02,LAL,PHX,16.9,2,7,6,PHX,PHX,fg_miss,97,False,False,,MISS Ayton 3' Tip Layup Shot,35-36,35,36
 0021800337,2018-12-02,LAL,PHX,16.92,2,7,5,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:4 Def:2),35-36,35,36
 0021800337,2018-12-02,LAL,PHX,16.93,2,7,4,PHX,PHX,fg_miss,72,False,False,,MISS Ayton 2' Putback Layup,35-36,35,36
 0021800337,2018-12-02,LAL,PHX,16.97,2,7,2,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:0 Def:2),,35-36,35,36
@@ -217,8 +217,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800337,2018-12-02,LAL,PHX,22.75,2,1,15,LAL,PHX,block,3,True,False,block,block,53-43,53,43
 0021800337,2018-12-02,LAL,PHX,22.82,2,1,11,PHX,PHX,reb,0,False,False,,Ariza REBOUND (Off:0 Def:4),53-43,53,43
 0021800337,2018-12-02,LAL,PHX,22.82,2,1,11,PHX,PHX,fg_miss,41,True,False,,MISS Jackson 2' Running Layup,53-43,53,43
-0021800337,2018-12-02,LAL,PHX,22.82,2,1,11,PHX,PHX,reb,0,False,False,,Suns Rebound,53-43,53,43
 0021800337,2018-12-02,LAL,PHX,22.82,2,1,11,PHX,LAL,block,41,True,False,block,block,53-43,53,43
+0021800337,2018-12-02,LAL,PHX,22.82,2,1,11,PHX,PHX,reb,0,False,False,,Suns Rebound,53-43,53,43
 0021800337,2018-12-02,LAL,PHX,23.02,2,0,59,PHX,PHX,fg3_make,79,False,False,,Crawford 26' 3PT Pullup Jump Shot (6 PTS),53-46,53,46
 0021800337,2018-12-02,LAL,PHX,23.2,2,0,48,LAL,LAL,fg_miss,47,False,False,MISS Ingram 11' Turnaround Jump Shot,,53-46,53,46
 0021800337,2018-12-02,LAL,PHX,23.22,2,0,47,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:2 Def:2),,53-46,53,46
@@ -226,8 +226,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800337,2018-12-02,LAL,PHX,23.42,2,0,35,PHX,PHX,fg_miss,44,False,False,,MISS Ariza 2' Reverse Layup,55-46,55,46
 0021800337,2018-12-02,LAL,PHX,23.43,2,0,34,LAL,LAL,reb,0,False,False,LAKERS Rebound,,55-46,55,46
 0021800337,2018-12-02,LAL,PHX,23.7,2,0,18,LAL,LAL,fg_miss,5,True,False,MISS James 3' Layup,,55-46,55,46
-0021800337,2018-12-02,LAL,PHX,23.7,2,0,18,LAL,LAL,reb,0,False,False,LAKERS Rebound,,55-46,55,46
 0021800337,2018-12-02,LAL,PHX,23.7,2,0,18,LAL,PHX,block,5,True,False,block,block,55-46,55,46
+0021800337,2018-12-02,LAL,PHX,23.7,2,0,18,LAL,LAL,reb,0,False,False,LAKERS Rebound,,55-46,55,46
 0021800337,2018-12-02,LAL,PHX,23.75,2,0,15,LAL,LAL,fg3_make,1,False,False,Kuzma 3PT Jump Shot (18 PTS) (Ball 2 AST),,58-46,58,46
 0021800337,2018-12-02,LAL,PHX,23.9,2,0,6,LAL,PHX,foul,4,False,False,,Crawford OFF.Foul (P1) (K.Cutler),58-46,58,46
 0021800337,2018-12-02,LAL,PHX,23.9,2,0,6,PHX,PHX,tov,37,False,False,,Crawford Offensive Foul Turnover (P2.T8),58-46,58,46
@@ -270,10 +270,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800337,2018-12-02,LAL,PHX,28.13,3,7,52,LAL,LAL,fg3_miss,1,False,False,MISS James 26' 3PT Jump Shot,,67-58,67,58
 0021800337,2018-12-02,LAL,PHX,28.18,3,7,49,PHX,PHX,reb,0,False,False,,Bridges REBOUND (Off:0 Def:2),67-58,67,58
 0021800337,2018-12-02,LAL,PHX,28.3,3,7,42,PHX,PHX,tov,1,False,True,,Jackson Bad Pass Turnover (P3.T11),67-58,67,58
+0021800337,2018-12-02,LAL,PHX,28.3,3,7,42,PHX,LAL,steal,1,False,True,steal,steal,67-58,67,58
 0021800337,2018-12-02,LAL,PHX,28.3,3,7,42,LAL,PHX,foul,9,False,False,,Bridges C.P.FOUL (P3.T2) (D.Guthrie),67-58,67,58
 0021800337,2018-12-02,LAL,PHX,28.3,3,7,42,LAL,LAL,ft_miss,25,False,False,MISS Ball Free Throw Clear Path 1 of 2,,67-58,67,58
 0021800337,2018-12-02,LAL,PHX,28.3,3,7,42,LAL,LAL,reb,1,False,False,LAKERS Rebound,,67-58,67,58
-0021800337,2018-12-02,LAL,PHX,28.3,3,7,42,PHX,LAL,steal,1,False,True,steal,steal,67-58,67,58
 0021800337,2018-12-02,LAL,PHX,28.3,3,7,42,LAL,LAL,ft_make,26,False,False,Ball Free Throw Clear Path 2 of 2 (3 PTS),,68-58,68,58
 0021800337,2018-12-02,LAL,PHX,28.55,3,7,27,LAL,LAL,fg_make,108,False,False,McGee 3' Cutting Dunk Shot (12 PTS) (James 5 AST),,70-58,70,58
 0021800337,2018-12-02,LAL,PHX,28.85,3,7,9,PHX,PHX,fg_make,79,False,False,,Bridges 12' Pullup Jump Shot (10 PTS),70-60,70,60
@@ -303,9 +303,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800337,2018-12-02,LAL,PHX,31.4,3,4,36,PHX,PHX,ft_make,11,False,False,,Crawford Free Throw 1 of 2 (7 PTS),75-63,75,63
 0021800337,2018-12-02,LAL,PHX,31.4,3,4,36,PHX,PHX,ft_make,12,False,False,,Crawford Free Throw 2 of 2 (8 PTS),75-64,75,64
 0021800337,2018-12-02,LAL,PHX,31.55,3,4,27,LAL,LAL,fg_miss,6,True,False,MISS Ingram 1' Driving Layup,,75-64,75,64
+0021800337,2018-12-02,LAL,PHX,31.55,3,4,27,LAL,PHX,block,6,True,False,block,block,75-64,75,64
 0021800337,2018-12-02,LAL,PHX,31.55,3,4,27,LAL,LAL,reb,0,False,False,LAKERS Rebound,,75-64,75,64
 0021800337,2018-12-02,LAL,PHX,31.55,3,4,27,LAL,PHX,foul,3,False,False,,Melton L.B.FOUL (P1.T4) (K.Cutler),75-64,75,64
-0021800337,2018-12-02,LAL,PHX,31.55,3,4,27,LAL,PHX,block,6,True,False,block,block,75-64,75,64
 0021800337,2018-12-02,LAL,PHX,31.65,3,4,21,LAL,LAL,fg3_make,1,False,False,Hart 25' 3PT Jump Shot (3 PTS) (James 6 AST),,78-64,78,64
 0021800337,2018-12-02,LAL,PHX,31.95,3,4,3,PHX,PHX,fg_make,5,False,False,,Jackson 2' Layup (12 PTS),78-66,78,66
 0021800337,2018-12-02,LAL,PHX,32.03,3,3,58,LAL,PHX,foul,1,False,False,,Jackson P.FOUL (P2.PN) (D.Guthrie),78-66,78,66
@@ -377,8 +377,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800337,2018-12-02,LAL,PHX,39.07,4,8,56,PHX,PHX,reb,0,False,False,,Daniels REBOUND (Off:0 Def:1),104-76,104,76
 0021800337,2018-12-02,LAL,PHX,39.12,4,8,53,PHX,PHX,tov,45,False,False,,Okobo Out of Bounds - Bad Pass Turnover Turnover (P2.T14),104-76,104,76
 0021800337,2018-12-02,LAL,PHX,39.4,4,8,36,LAL,LAL,fg_miss,98,True,False,MISS Wagner 2' Cutting Layup Shot,,104-76,104,76
-0021800337,2018-12-02,LAL,PHX,39.4,4,8,36,LAL,LAL,reb,0,False,False,LAKERS Rebound,,104-76,104,76
 0021800337,2018-12-02,LAL,PHX,39.4,4,8,36,LAL,PHX,block,98,True,False,block,block,104-76,104,76
+0021800337,2018-12-02,LAL,PHX,39.4,4,8,36,LAL,LAL,reb,0,False,False,LAKERS Rebound,,104-76,104,76
 0021800337,2018-12-02,LAL,PHX,39.43,4,8,34,LAL,LAL,fg_make,5,False,False,Beasley 2' Layup (14 PTS) (Ball 4 AST),,106-76,106,76
 0021800337,2018-12-02,LAL,PHX,39.68,4,8,19,PHX,LAL,foul,2,False,False,Ball S.FOUL (P2.T1) (A.Smith),,106-76,106,76
 0021800337,2018-12-02,LAL,PHX,39.68,4,8,19,PHX,PHX,ft_miss,11,False,False,,MISS Jackson Free Throw 1 of 2,106-76,106,76

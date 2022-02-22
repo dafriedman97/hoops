@@ -58,8 +58,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800358,2018-12-05,BKN,OKC,5.47,1,6,32,BKN,OKC,block,6,True,False,block,block,14-16,14,16
 0021800358,2018-12-05,BKN,OKC,5.52,1,6,29,BKN,BKN,reb,0,False,False,Allen REBOUND (Off:2 Def:0),,14-16,14,16
 0021800358,2018-12-05,BKN,OKC,5.55,1,6,27,BKN,BKN,fg_miss,72,True,False,MISS Allen 2' Putback Layup,,14-16,14,16
-0021800358,2018-12-05,BKN,OKC,5.55,1,6,27,OKC,OKC,reb,0,False,False,,George REBOUND (Off:0 Def:3),14-16,14,16
 0021800358,2018-12-05,BKN,OKC,5.55,1,6,27,BKN,OKC,block,72,True,False,block,block,14-16,14,16
+0021800358,2018-12-05,BKN,OKC,5.55,1,6,27,OKC,OKC,reb,0,False,False,,George REBOUND (Off:0 Def:3),14-16,14,16
 0021800358,2018-12-05,BKN,OKC,5.6,1,6,24,OKC,OKC,fg_miss,41,False,False,,MISS George 2' Running Layup,14-16,14,16
 0021800358,2018-12-05,BKN,OKC,5.6,1,6,24,OKC,OKC,reb,0,False,False,,Thunder Rebound,14-16,14,16
 0021800358,2018-12-05,BKN,OKC,5.75,1,6,15,OKC,OKC,fg3_miss,1,False,False,,MISS Grant 3PT Jump Shot,14-16,14,16
@@ -219,9 +219,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800358,2018-12-05,BKN,OKC,20.5,2,3,30,OKC,OKC,fg_miss,78,False,False,,MISS Adams 13' Floating Jump Shot,54-35,54,35
 0021800358,2018-12-05,BKN,OKC,20.5,2,3,30,BKN,BKN,reb,0,False,False,Hollis-Jefferson REBOUND (Off:1 Def:4),,54-35,54,35
 0021800358,2018-12-05,BKN,OKC,20.62,2,3,23,BKN,BKN,fg_miss,6,False,False,MISS Hollis-Jefferson 3' Driving Layup,,54-35,54,35
+0021800358,2018-12-05,BKN,OKC,20.63,2,3,22,BKN,BKN,reb,0,False,False,Allen REBOUND (Off:5 Def:0),,54-35,54,35
 0021800358,2018-12-05,BKN,OKC,20.63,2,3,22,BKN,BKN,fg_miss,97,False,False,MISS Allen 1' Tip Layup Shot,,54-35,54,35
 0021800358,2018-12-05,BKN,OKC,20.63,2,3,22,BKN,BKN,reb,0,False,False,Allen REBOUND (Off:4 Def:0),,54-35,54,35
-0021800358,2018-12-05,BKN,OKC,20.63,2,3,22,BKN,BKN,reb,0,False,False,Allen REBOUND (Off:5 Def:0),,54-35,54,35
 0021800358,2018-12-05,BKN,OKC,20.65,2,3,21,BKN,BKN,fg_miss,97,False,False,MISS Allen 1' Tip Layup Shot,,54-35,54,35
 0021800358,2018-12-05,BKN,OKC,20.68,2,3,19,OKC,OKC,reb,0,False,False,,George REBOUND (Off:1 Def:5),54-35,54,35
 0021800358,2018-12-05,BKN,OKC,20.8,2,3,12,OKC,OKC,fg3_make,1,False,False,,Schroder 26' 3PT Jump Shot (7 PTS) (Westbrook 5 AST),54-38,54,38
@@ -381,10 +381,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800358,2018-12-05,BKN,OKC,35.9,3,0,6,BKN,BKN,fg_miss,101,False,False,MISS Dinwiddie 14' Driving Floating Jump Shot,,93-75,93,75
 0021800358,2018-12-05,BKN,OKC,35.95,3,0,3,OKC,OKC,reb,0,False,False,,Noel REBOUND (Off:3 Def:5),93-75,93,75
 0021800358,2018-12-05,BKN,OKC,36.0,3,0,0,OKC,OKC,fg3_miss,79,True,False,,MISS Schroder 25' 3PT Pullup Jump Shot,93-75,93,75
+0021800358,2018-12-05,BKN,OKC,36.0,3,0,0,OKC,BKN,block,79,True,False,block,block,93-75,93,75
 0021800358,2018-12-05,BKN,OKC,36.0,3,0,0,OKC,OKC,reb,0,False,False,,Thunder Rebound,93-75,93,75
 0021800358,2018-12-05,BKN,OKC,36.0,3,0,0,OKC,,period_end,0,False,False,,,93-75,93,75
 0021800358,2018-12-05,BKN,OKC,36.0,4,12,0,OKC,,period_start,0,False,False,,,93-75,93,75
-0021800358,2018-12-05,BKN,OKC,36.0,3,0,0,OKC,BKN,block,79,True,False,block,block,93-75,93,75
 0021800358,2018-12-05,BKN,OKC,36.27,4,11,44,OKC,OKC,fg_miss,79,False,False,,MISS Burton 13' Pullup Jump Shot,93-75,93,75
 0021800358,2018-12-05,BKN,OKC,36.33,4,11,40,BKN,BKN,reb,0,False,False,Carroll REBOUND (Off:1 Def:3),,93-75,93,75
 0021800358,2018-12-05,BKN,OKC,36.52,4,11,29,BKN,OKC,foul,2,False,False,,Burton S.FOUL (P1.T1) (J.Goldenberg),93-75,93,75

@@ -38,8 +38,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900010,2019-10-23,SAS,NYK,3.72,1,8,17,NYK,SAS,block,72,True,False,block,block,8-2,8,2
 0021900010,2019-10-23,SAS,NYK,3.75,1,8,15,SAS,SAS,reb,0,False,False,Forbes REBOUND (Off:0 Def:3),,8-2,8,2
 0021900010,2019-10-23,SAS,NYK,3.87,1,8,8,SAS,SAS,fg_miss,79,False,False,MISS Forbes 18' Pullup Jump Shot,,8-2,8,2
-0021900010,2019-10-23,SAS,NYK,3.98,1,8,1,SAS,SAS,fg_make,97,False,False,Aldridge 1' Tip Layup Shot (2 PTS),,10-2,10,2
 0021900010,2019-10-23,SAS,NYK,3.98,1,8,1,SAS,SAS,reb,0,False,False,Aldridge REBOUND (Off:1 Def:0),,10-2,10,2
+0021900010,2019-10-23,SAS,NYK,3.98,1,8,1,SAS,SAS,fg_make,97,False,False,Aldridge 1' Tip Layup Shot (2 PTS),,10-2,10,2
 0021900010,2019-10-23,SAS,NYK,4.22,1,7,47,NYK,NYK,fg3_miss,1,False,False,,MISS Portis 26' 3PT Jump Shot,10-2,10,2
 0021900010,2019-10-23,SAS,NYK,4.28,1,7,43,SAS,SAS,reb,0,False,False,Murray REBOUND (Off:0 Def:3),,10-2,10,2
 0021900010,2019-10-23,SAS,NYK,4.43,1,7,34,SAS,SAS,tov,40,False,False,Murray Out of Bounds Lost Ball Turnover (P1.T2),,10-2,10,2
@@ -137,9 +137,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900010,2019-10-23,SAS,NYK,14.52,2,9,29,NYK,NYK,fg_miss,6,False,False,,MISS Knox II 1' Driving Layup,30-18,30,18
 0021900010,2019-10-23,SAS,NYK,14.52,2,9,29,SAS,SAS,reb,0,False,False,Lyles REBOUND (Off:1 Def:4),,30-18,30,18
 0021900010,2019-10-23,SAS,NYK,14.6,2,9,24,SAS,SAS,fg_miss,6,True,False,MISS Poeltl 7' Driving Layup,,30-18,30,18
-0021900010,2019-10-23,SAS,NYK,14.6,2,9,24,NYK,NYK,reb,0,False,False,,Knicks Rebound,30-18,30,18
-0021900010,2019-10-23,SAS,NYK,14.6,2,9,24,,SAS,jump_ball,0,False,False,Jump Ball Poeltl vs. Ellington: Tip to Knox II,,30-18,30,18
 0021900010,2019-10-23,SAS,NYK,14.6,2,9,24,SAS,NYK,block,6,True,False,block,block,30-18,30,18
+0021900010,2019-10-23,SAS,NYK,14.6,2,9,24,,SAS,jump_ball,0,False,False,Jump Ball Poeltl vs. Ellington: Tip to Knox II,,30-18,30,18
+0021900010,2019-10-23,SAS,NYK,14.6,2,9,24,NYK,NYK,reb,0,False,False,,Knicks Rebound,30-18,30,18
 0021900010,2019-10-23,SAS,NYK,14.82,2,9,11,NYK,NYK,fg_make,5,False,False,,Morris Sr. 3' Layup (7 PTS),30-20,30,20
 0021900010,2019-10-23,SAS,NYK,14.93,2,9,4,SAS,SAS,fg_make,76,False,False,Murray Running Finger Roll Layup (9 PTS),,32-20,32,20
 0021900010,2019-10-23,SAS,NYK,14.93,2,9,4,SAS,NYK,foul,2,False,False,,Smith Jr. S.FOUL (P3.T4) (D.Guthrie),32-20,32,20
@@ -330,8 +330,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900010,2019-10-23,SAS,NYK,34.55,3,1,27,SAS,SAS,tov,1,False,True,White Bad Pass Turnover (P2.T21),,78-80,78,80
 0021900010,2019-10-23,SAS,NYK,34.55,3,1,27,SAS,NYK,steal,1,False,True,steal,steal,78-80,78,80
 0021900010,2019-10-23,SAS,NYK,34.6,3,1,24,NYK,NYK,fg_miss,41,True,False,,MISS Ntilikina 1' Running Layup,78-80,78,80
-0021900010,2019-10-23,SAS,NYK,34.6,3,1,24,SAS,SAS,reb,0,False,False,SPURS Rebound,,78-80,78,80
 0021900010,2019-10-23,SAS,NYK,34.6,3,1,24,NYK,SAS,block,41,True,False,block,block,78-80,78,80
+0021900010,2019-10-23,SAS,NYK,34.6,3,1,24,SAS,SAS,reb,0,False,False,SPURS Rebound,,78-80,78,80
 0021900010,2019-10-23,SAS,NYK,34.85,3,1,9,SAS,SAS,fg_miss,75,False,False,MISS Mills 1' Driving Finger Roll Layup,,78-80,78,80
 0021900010,2019-10-23,SAS,NYK,34.9,3,1,6,SAS,SAS,reb,0,False,False,Poeltl REBOUND (Off:2 Def:2),,78-80,78,80
 0021900010,2019-10-23,SAS,NYK,34.93,3,1,4,SAS,SAS,fg3_miss,1,False,False,MISS Gay 24' 3PT Jump Shot,,78-80,78,80
@@ -425,8 +425,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900010,2019-10-23,SAS,NYK,43.88,4,4,7,SAS,SAS,ft_make,11,False,False,Aldridge Free Throw 1 of 2 (18 PTS),,108-97,108,97
 0021900010,2019-10-23,SAS,NYK,43.88,4,4,7,SAS,SAS,ft_make,12,False,False,Aldridge Free Throw 2 of 2 (19 PTS),,109-97,109,97
 0021900010,2019-10-23,SAS,NYK,44.07,4,3,56,NYK,NYK,fg_miss,74,False,False,,MISS Morris Sr. 2' Running Reverse Layup,109-97,109,97
-0021900010,2019-10-23,SAS,NYK,44.13,4,3,52,NYK,NYK,fg_make,97,False,False,,Portis 1' Tip Layup Shot (8 PTS),109-99,109,99
 0021900010,2019-10-23,SAS,NYK,44.13,4,3,52,NYK,NYK,reb,0,False,False,,Portis REBOUND (Off:2 Def:5),109-99,109,99
+0021900010,2019-10-23,SAS,NYK,44.13,4,3,52,NYK,NYK,fg_make,97,False,False,,Portis 1' Tip Layup Shot (8 PTS),109-99,109,99
 0021900010,2019-10-23,SAS,NYK,44.35,4,3,39,SAS,SAS,fg_miss,79,False,False,MISS DeRozan 17' Pullup Jump Shot,,109-99,109,99
 0021900010,2019-10-23,SAS,NYK,44.38,4,3,37,NYK,NYK,reb,0,False,False,,Knox II REBOUND (Off:0 Def:5),109-99,109,99
 0021900010,2019-10-23,SAS,NYK,44.48,4,3,31,NYK,SAS,foul,1,False,False,White P.FOUL (P1.T2) (D.Guthrie),,109-99,109,99
@@ -436,9 +436,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900010,2019-10-23,SAS,NYK,44.72,4,3,17,SAS,SAS,ft_make,11,False,False,DeRozan Free Throw 1 of 2 (10 PTS),,110-99,110,99
 0021900010,2019-10-23,SAS,NYK,44.72,4,3,17,SAS,SAS,ft_make,12,False,False,DeRozan Free Throw 2 of 2 (11 PTS),,111-99,111,99
 0021900010,2019-10-23,SAS,NYK,44.93,4,3,4,NYK,NYK,fg_miss,99,True,False,,MISS Knox II 3' Cutting Finger Roll Layup Shot,111-99,111,99
+0021900010,2019-10-23,SAS,NYK,44.93,4,3,4,NYK,SAS,block,99,True,False,block,block,111-99,111,99
 0021900010,2019-10-23,SAS,NYK,44.93,4,3,4,SAS,SAS,reb,0,False,False,Lyles REBOUND (Off:1 Def:10),,111-99,111,99
 0021900010,2019-10-23,SAS,NYK,44.93,4,3,4,SAS,NYK,foul,1,False,False,,Portis P.FOUL (P2.PN) (D.Guthrie),111-99,111,99
-0021900010,2019-10-23,SAS,NYK,44.93,4,3,4,NYK,SAS,block,99,True,False,block,block,111-99,111,99
 0021900010,2019-10-23,SAS,NYK,44.93,4,3,4,SAS,SAS,ft_make,11,False,False,Lyles Free Throw 1 of 2 (5 PTS),,112-99,112,99
 0021900010,2019-10-23,SAS,NYK,44.93,4,3,4,SAS,SAS,ft_make,12,False,False,Lyles Free Throw 2 of 2 (6 PTS),,113-99,113,99
 0021900010,2019-10-23,SAS,NYK,45.1,4,2,54,NYK,SAS,foul,2,False,False,White S.FOUL (P2.T3) (D.Guthrie),,113-99,113,99

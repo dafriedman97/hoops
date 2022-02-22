@@ -10,8 +10,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900816,2020-02-12,UTA,MIA,1.17,1,10,50,UTA,UTA,fg3_miss,1,False,False,MISS Ingles 3PT Jump Shot,,2-2,2,2
 0021900816,2020-02-12,UTA,MIA,1.23,1,10,46,MIA,MIA,reb,0,False,False,,Butler REBOUND (Off:0 Def:1),2-2,2,2
 0021900816,2020-02-12,UTA,MIA,1.35,1,10,39,MIA,MIA,fg_miss,73,True,False,,MISS Nunn 3' Driving Reverse Layup,2-2,2,2
-0021900816,2020-02-12,UTA,MIA,1.35,1,10,39,MIA,MIA,reb,0,False,False,,Heat Rebound,2-2,2,2
 0021900816,2020-02-12,UTA,MIA,1.35,1,10,39,MIA,UTA,block,73,True,False,block,block,2-2,2,2
+0021900816,2020-02-12,UTA,MIA,1.35,1,10,39,MIA,MIA,reb,0,False,False,,Heat Rebound,2-2,2,2
 0021900816,2020-02-12,UTA,MIA,1.5,1,10,30,MIA,MIA,fg_miss,78,False,False,,MISS Adebayo 8' Floating Jump Shot,2-2,2,2
 0021900816,2020-02-12,UTA,MIA,1.57,1,10,26,MIA,MIA,reb,0,False,False,,Butler REBOUND (Off:1 Def:1),2-2,2,2
 0021900816,2020-02-12,UTA,MIA,1.58,1,10,25,MIA,MIA,fg3_miss,1,False,False,,MISS Butler 3PT Jump Shot,2-2,2,2
@@ -49,8 +49,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900816,2020-02-12,UTA,MIA,5.95,1,6,3,UTA,UTA,fg3_make,1,False,False,Mitchell 28' 3PT Jump Shot (5 PTS) (Gobert 1 AST),,11-10,11,10
 0021900816,2020-02-12,UTA,MIA,6.38,1,5,37,MIA,MIA,fg_make,47,False,False,,Butler 9' Turnaround Jump Shot (8 PTS),11-12,11,12
 0021900816,2020-02-12,UTA,MIA,6.63,1,5,22,UTA,UTA,fg_miss,1,True,False,MISS Bogdanovic 9' Jump Shot,,11-12,11,12
-0021900816,2020-02-12,UTA,MIA,6.63,1,5,22,UTA,UTA,reb,0,False,False,JAZZ Rebound,,11-12,11,12
 0021900816,2020-02-12,UTA,MIA,6.63,1,5,22,UTA,MIA,block,1,True,False,block,block,11-12,11,12
+0021900816,2020-02-12,UTA,MIA,6.63,1,5,22,UTA,UTA,reb,0,False,False,JAZZ Rebound,,11-12,11,12
 0021900816,2020-02-12,UTA,MIA,6.65,1,5,21,UTA,UTA,fg3_make,1,False,False,Bogdanovic 25' 3PT Jump Shot (7 PTS) (Mitchell 1 AST),,14-12,14,12
 0021900816,2020-02-12,UTA,MIA,6.92,1,5,5,MIA,MIA,fg3_miss,1,False,False,,MISS Dragic 25' 3PT Jump Shot,14-12,14,12
 0021900816,2020-02-12,UTA,MIA,6.98,1,5,1,UTA,UTA,reb,0,False,False,Bogdanovic REBOUND (Off:0 Def:2),,14-12,14,12
@@ -187,8 +187,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900816,2020-02-12,UTA,MIA,21.63,2,2,22,UTA,MIA,steal,1,False,True,steal,steal,43-46,43,46
 0021900816,2020-02-12,UTA,MIA,21.82,2,2,11,MIA,MIA,fg_make,79,False,False,,Nunn 19' Pullup Jump Shot (6 PTS),43-48,43,48
 0021900816,2020-02-12,UTA,MIA,22.17,2,1,50,UTA,UTA,fg_miss,6,True,False,MISS Gobert 6' Driving Layup,,43-48,43,48
-0021900816,2020-02-12,UTA,MIA,22.17,2,1,50,MIA,MIA,reb,0,False,False,,Heat Rebound,43-48,43,48
 0021900816,2020-02-12,UTA,MIA,22.17,2,1,50,UTA,MIA,block,6,True,False,block,block,43-48,43,48
+0021900816,2020-02-12,UTA,MIA,22.17,2,1,50,MIA,MIA,reb,0,False,False,,Heat Rebound,43-48,43,48
 0021900816,2020-02-12,UTA,MIA,22.42,2,1,35,MIA,MIA,fg3_make,80,False,False,,Robinson 25' 3PT Step Back Jump Shot (12 PTS) (Adebayo 4 AST),43-51,43,51
 0021900816,2020-02-12,UTA,MIA,22.7,2,1,18,UTA,MIA,foul,1,False,False,,Robinson P.FOUL (P2.PN) (G.Petraitis),43-51,43,51
 0021900816,2020-02-12,UTA,MIA,22.7,2,1,18,MIA,UTA,foul,11,False,False,Ingles T.FOUL (P0.T4) (G.Petraitis),,43-51,43,51
@@ -204,10 +204,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900816,2020-02-12,UTA,MIA,23.9,2,0,6,MIA,MIA,fg3_miss,47,False,False,,MISS Butler 25' 3PT Turnaround Jump Shot,47-52,47,52
 0021900816,2020-02-12,UTA,MIA,23.93,2,0,4,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:0 Def:5),,47-52,47,52
 0021900816,2020-02-12,UTA,MIA,24.0,2,0,0,UTA,UTA,fg_miss,6,True,False,MISS Ingles 3' Driving Layup,,47-52,47,52
+0021900816,2020-02-12,UTA,MIA,24.0,2,0,0,UTA,MIA,block,6,True,False,block,block,47-52,47,52
 0021900816,2020-02-12,UTA,MIA,24.0,2,0,0,UTA,UTA,reb,0,False,False,JAZZ Rebound,,47-52,47,52
 0021900816,2020-02-12,UTA,MIA,24.0,2,0,0,UTA,,period_end,0,False,False,,,47-52,47,52
 0021900816,2020-02-12,UTA,MIA,24.0,3,12,0,UTA,,period_start,0,False,False,,,47-52,47,52
-0021900816,2020-02-12,UTA,MIA,24.0,2,0,0,UTA,MIA,block,6,True,False,block,block,47-52,47,52
 0021900816,2020-02-12,UTA,MIA,24.2,3,11,48,UTA,UTA,fg_miss,98,False,False,MISS Gobert 3' Cutting Layup Shot,,47-52,47,52
 0021900816,2020-02-12,UTA,MIA,24.22,3,11,47,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:1 Def:5),,47-52,47,52
 0021900816,2020-02-12,UTA,MIA,24.22,3,11,47,UTA,UTA,fg_make,87,False,False,Gobert 1' Putback Dunk (8 PTS),,49-52,49,52
@@ -256,8 +256,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900816,2020-02-12,UTA,MIA,29.37,3,6,38,MIA,MIA,tov,37,False,False,,Butler Offensive Foul Turnover (P1.T4),61-65,61,65
 0021900816,2020-02-12,UTA,MIA,29.37,3,6,38,UTA,UTA,timeout,1,False,False,JAZZ Timeout: Regular (Full 4 Short 0),,61-65,61,65
 0021900816,2020-02-12,UTA,MIA,29.63,3,6,22,UTA,UTA,fg_miss,78,False,False,MISS Bogdanovic 10' Floating Jump Shot,,61-65,61,65
-0021900816,2020-02-12,UTA,MIA,29.73,3,6,16,UTA,UTA,fg_make,97,False,False,Gobert 1' Tip Layup Shot (12 PTS),,63-65,63,65
 0021900816,2020-02-12,UTA,MIA,29.73,3,6,16,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:4 Def:6),,63-65,63,65
+0021900816,2020-02-12,UTA,MIA,29.73,3,6,16,UTA,UTA,fg_make,97,False,False,Gobert 1' Tip Layup Shot (12 PTS),,63-65,63,65
 0021900816,2020-02-12,UTA,MIA,30.07,3,5,56,MIA,MIA,fg_miss,3,False,False,,MISS Adebayo 4' Hook Shot,63-65,63,65
 0021900816,2020-02-12,UTA,MIA,30.1,3,5,54,UTA,UTA,reb,0,False,False,Bogdanovic REBOUND (Off:0 Def:6),,63-65,63,65
 0021900816,2020-02-12,UTA,MIA,30.22,3,5,47,UTA,UTA,fg_make,6,False,False,Mitchell 2' Driving Layup (16 PTS) (Bogdanovic 3 AST),,65-65,65,65
@@ -322,8 +322,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900816,2020-02-12,UTA,MIA,36.48,4,11,31,UTA,UTA,ft_make,11,False,False,Mudiay Free Throw 1 of 2 (1 PTS),,80-77,80,77
 0021900816,2020-02-12,UTA,MIA,36.48,4,11,31,UTA,UTA,ft_make,12,False,False,Mudiay Free Throw 2 of 2 (2 PTS),,81-77,81,77
 0021900816,2020-02-12,UTA,MIA,36.7,4,11,18,MIA,MIA,tov,1,False,True,,Dragic Bad Pass Turnover (P3.T8),81-77,81,77
-0021900816,2020-02-12,UTA,MIA,36.7,4,11,18,UTA,MIA,foul,1,False,False,,Crowder P.FOUL (P4.T2) (G.Petraitis),81-77,81,77
 0021900816,2020-02-12,UTA,MIA,36.7,4,11,18,MIA,UTA,steal,1,False,True,steal,steal,81-77,81,77
+0021900816,2020-02-12,UTA,MIA,36.7,4,11,18,UTA,MIA,foul,1,False,False,,Crowder P.FOUL (P4.T2) (G.Petraitis),81-77,81,77
 0021900816,2020-02-12,UTA,MIA,36.97,4,11,2,UTA,UTA,fg3_miss,80,False,False,MISS Mudiay 3PT Step Back Jump Shot,,81-77,81,77
 0021900816,2020-02-12,UTA,MIA,37.02,4,10,59,UTA,UTA,reb,0,False,False,Bradley REBOUND (Off:2 Def:4),,81-77,81,77
 0021900816,2020-02-12,UTA,MIA,37.02,4,10,59,UTA,UTA,fg_make,72,False,False,Bradley 2' Putback Layup (8 PTS),,83-77,83,77

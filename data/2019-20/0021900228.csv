@@ -94,10 +94,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900228,2019-11-23,ATL,TOR,11.62,1,0,23,ATL,ATL,reb,0,False,False,Fernando REBOUND (Off:1 Def:0),,25-26,25,26
 0021900228,2019-11-23,ATL,TOR,11.62,1,0,23,ATL,ATL,fg_make,97,False,False,Fernando 1' Tip Layup Shot (2 PTS),,27-26,27,26
 0021900228,2019-11-23,ATL,TOR,12.0,1,0,0,TOR,TOR,fg_miss,6,True,False,,MISS VanVleet 2' Driving Layup,27-26,27,26
+0021900228,2019-11-23,ATL,TOR,12.0,1,0,0,TOR,ATL,block,6,True,False,block,block,27-26,27,26
 0021900228,2019-11-23,ATL,TOR,12.0,1,0,0,TOR,TOR,reb,0,False,False,,Raptors Rebound,27-26,27,26
 0021900228,2019-11-23,ATL,TOR,12.0,1,0,0,TOR,,period_end,0,False,False,,,27-26,27,26
 0021900228,2019-11-23,ATL,TOR,12.0,2,12,0,TOR,,period_start,0,False,False,,,27-26,27,26
-0021900228,2019-11-23,ATL,TOR,12.0,1,0,0,TOR,ATL,block,6,True,False,block,block,27-26,27,26
 0021900228,2019-11-23,ATL,TOR,12.27,2,11,44,ATL,ATL,fg_miss,3,False,False,MISS Parker 11' Hook Shot,,27-26,27,26
 0021900228,2019-11-23,ATL,TOR,12.32,2,11,41,TOR,TOR,reb,0,False,False,,Boucher REBOUND (Off:0 Def:2),27-26,27,26
 0021900228,2019-11-23,ATL,TOR,12.32,2,11,41,TOR,TOR,tov,7,False,False,,Boucher Discontinue Dribble Turnover (P1.T3),27-26,27,26
@@ -141,8 +141,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900228,2019-11-23,ATL,TOR,16.17,2,7,50,TOR,TOR,fg3_miss,1,False,False,,MISS Thomas 25' 3PT Jump Shot,39-32,39,32
 0021900228,2019-11-23,ATL,TOR,16.22,2,7,47,ATL,ATL,reb,0,False,False,Turner REBOUND (Off:0 Def:3),,39-32,39,32
 0021900228,2019-11-23,ATL,TOR,16.33,2,7,40,ATL,ATL,fg_miss,44,True,False,MISS Parker 2' Reverse Layup,,39-32,39,32
-0021900228,2019-11-23,ATL,TOR,16.33,2,7,40,TOR,TOR,reb,0,False,False,,Raptors Rebound,39-32,39,32
 0021900228,2019-11-23,ATL,TOR,16.33,2,7,40,ATL,TOR,block,44,True,False,block,block,39-32,39,32
+0021900228,2019-11-23,ATL,TOR,16.33,2,7,40,TOR,TOR,reb,0,False,False,,Raptors Rebound,39-32,39,32
 0021900228,2019-11-23,ATL,TOR,16.6,2,7,24,TOR,TOR,fg3_make,1,False,False,,Thomas 26' 3PT Jump Shot (3 PTS) (VanVleet 2 AST),39-35,39,35
 0021900228,2019-11-23,ATL,TOR,16.82,2,7,11,ATL,ATL,fg_make,52,False,False,Jones 2' Alley Oop Dunk (4 PTS) (Young 7 AST),,41-35,41,35
 0021900228,2019-11-23,ATL,TOR,16.97,2,7,2,TOR,ATL,foul,2,False,False,Jones S.FOUL (P2.T2) (K.Mauer),,41-35,41,35

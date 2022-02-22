@@ -213,9 +213,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000815,2021-04-12,NYK,LAL,22.57,2,1,26,LAL,NYK,steal,2,False,True,steal,steal,47-48,47,48
 0022000815,2021-04-12,NYK,LAL,22.63,2,1,22,NYK,LAL,foul,2,False,False,,Schroder S.FOUL (P2.PN) (L.Richardson),47-48,47,48
 0022000815,2021-04-12,NYK,LAL,22.63,2,1,22,NYK,NYK,ft_make,11,False,False,Payton Free Throw 1 of 2 (8 PTS),,48-48,48,48
-0022000815,2021-04-12,NYK,LAL,22.63,2,1,22,NYK,NYK,ft_miss,12,False,False,MISS Payton Free Throw 2 of 2,,48-48,48,48
 0022000815,2021-04-12,NYK,LAL,22.63,2,1,22,NYK,LAL,foul,11,False,False,,Morris T.FOUL (P1.PN) (D.Guthrie),48-48,48,48
 0022000815,2021-04-12,NYK,LAL,22.63,2,1,22,NYK,NYK,ft_make,16,False,False,Bullock Free Throw Technical (1 PTS),,49-48,49,48
+0022000815,2021-04-12,NYK,LAL,22.63,2,1,22,NYK,NYK,ft_miss,12,False,False,MISS Payton Free Throw 2 of 2,,48-48,48,48
 0022000815,2021-04-12,NYK,LAL,22.67,2,1,20,NYK,NYK,reb,0,False,False,Noel REBOUND (Off:3 Def:3),,49-48,49,48
 0022000815,2021-04-12,NYK,LAL,22.77,2,1,14,NYK,NYK,fg_make,6,False,False,Payton 2' Driving Layup (10 PTS) (Bullock 2 AST),,51-48,51,48
 0022000815,2021-04-12,NYK,LAL,23.15,2,0,51,LAL,NYK,foul,2,False,False,Payton S.FOUL (P2.T4) (L.Richardson),,51-48,51,48
@@ -446,8 +446,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000815,2021-04-12,NYK,LAL,47.47,4,0,32,NYK,NYK,fg3_miss,1,False,False,MISS Knox II 25' 3PT Jump Shot,,111-94,111,94
 0022000815,2021-04-12,NYK,LAL,47.5,4,0,30,LAL,LAL,reb,0,False,False,,Cacok REBOUND (Off:0 Def:1),111-94,111,94
 0022000815,2021-04-12,NYK,LAL,47.73,4,0,16,LAL,LAL,fg3_miss,1,False,False,,MISS McLemore 25' 3PT Jump Shot,111-94,111,94
-0022000815,2021-04-12,NYK,LAL,47.77,4,0,14,LAL,LAL,reb,0,False,False,,Lakers Rebound,111-94,111,94
 0022000815,2021-04-12,NYK,LAL,47.77,4,0,14,,NYK,jump_ball,0,False,False,Jump Ball Pelle vs. Antetokounmpo: Tip to Matthews,,111-94,111,94
+0022000815,2021-04-12,NYK,LAL,47.77,4,0,14,LAL,LAL,reb,0,False,False,,Lakers Rebound,111-94,111,94
 0022000815,2021-04-12,NYK,LAL,47.83,4,0,10,LAL,NYK,foul,2,False,False,Ntilikina S.FOUL (P1.T3) (D.Guthrie),,111-94,111,94
 0022000815,2021-04-12,NYK,LAL,47.83,4,0,10,LAL,LAL,ft_make,13,False,False,,Matthews Free Throw 1 of 3 (1 PTS),111-95,111,95
 0022000815,2021-04-12,NYK,LAL,47.83,4,0,10,LAL,LAL,ft_miss,14,False,False,,MISS Matthews Free Throw 2 of 3,111-95,111,95

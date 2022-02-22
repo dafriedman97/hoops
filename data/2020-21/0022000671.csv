@@ -210,17 +210,17 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000671,2021-03-24,CHI,CLE,25.45,3,10,33,CLE,CLE,fg3_make,1,False,False,,Garland 25' 3PT Jump Shot (10 PTS) (Okoro 1 AST),58-58,58,58
 0022000671,2021-03-24,CHI,CLE,25.75,3,10,15,CHI,CHI,tov,1,False,True,Young Bad Pass Turnover (P4.T11),,58-58,58,58
 0022000671,2021-03-24,CHI,CLE,25.75,3,10,15,CHI,CLE,steal,1,False,True,steal,steal,58-58,58,58
-0022000671,2021-03-24,CHI,CLE,25.78,3,10,13,CLE,CLE,tov,39,False,False,,Okoro Step Out of Bounds Turnover (P1.T6),58-58,58,58
 0022000671,2021-03-24,CHI,CLE,25.78,3,10,13,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 3 Short 0),,58-58,58,58
+0022000671,2021-03-24,CHI,CLE,25.78,3,10,13,CLE,CLE,tov,39,False,False,,Okoro Step Out of Bounds Turnover (P1.T6),58-58,58,58
 0022000671,2021-03-24,CHI,CLE,25.83,3,10,10,CHI,CHI,fg3_miss,1,False,False,MISS LaVine 27' 3PT Jump Shot,,58-58,58,58
 0022000671,2021-03-24,CHI,CLE,25.88,3,10,7,CLE,CLE,reb,0,False,False,,Osman REBOUND (Off:0 Def:1),58-58,58,58
 0022000671,2021-03-24,CHI,CLE,26.05,3,9,57,CLE,CLE,fg_make,6,False,False,,Osman 2' Driving Layup (8 PTS) (Nance Jr. 4 AST),58-60,58,60
 0022000671,2021-03-24,CHI,CLE,26.37,3,9,38,CHI,CHI,fg_miss,5,True,False,MISS Markkanen 1' Layup,,58-60,58,60
-0022000671,2021-03-24,CHI,CLE,26.37,3,9,38,CLE,CLE,reb,0,False,False,,Garland REBOUND (Off:1 Def:2),58-60,58,60
 0022000671,2021-03-24,CHI,CLE,26.37,3,9,38,CHI,CLE,block,5,True,False,block,block,58-60,58,60
+0022000671,2021-03-24,CHI,CLE,26.37,3,9,38,CLE,CLE,reb,0,False,False,,Garland REBOUND (Off:1 Def:2),58-60,58,60
 0022000671,2021-03-24,CHI,CLE,26.57,3,9,26,CLE,CLE,fg_miss,78,False,False,,MISS Osman 11' Floating Jump Shot,58-60,58,60
-0022000671,2021-03-24,CHI,CLE,26.68,3,9,19,CLE,CLE,fg_make,97,False,False,,Allen Tip Layup Shot (12 PTS),58-62,58,62
 0022000671,2021-03-24,CHI,CLE,26.68,3,9,19,CLE,CLE,reb,0,False,False,,Allen REBOUND (Off:2 Def:1),58-62,58,62
+0022000671,2021-03-24,CHI,CLE,26.68,3,9,19,CLE,CLE,fg_make,97,False,False,,Allen Tip Layup Shot (12 PTS),58-62,58,62
 0022000671,2021-03-24,CHI,CLE,26.88,3,9,7,CHI,CHI,fg3_miss,1,False,False,MISS Markkanen 3PT Jump Shot,,58-62,58,62
 0022000671,2021-03-24,CHI,CLE,26.93,3,9,4,CLE,CLE,reb,0,False,False,,Allen REBOUND (Off:2 Def:2),58-62,58,62
 0022000671,2021-03-24,CHI,CLE,27.18,3,8,49,CLE,CLE,fg_miss,80,False,False,,MISS Garland 21' Step Back Jump Shot,58-62,58,62
@@ -229,8 +229,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000671,2021-03-24,CHI,CLE,27.5,3,8,30,CHI,CHI,tov,1,False,True,Satoransky Bad Pass Turnover (P2.T12),,58-62,58,62
 0022000671,2021-03-24,CHI,CLE,27.5,3,8,30,CHI,CLE,steal,1,False,True,steal,steal,58-62,58,62
 0022000671,2021-03-24,CHI,CLE,27.62,3,8,23,CLE,CLE,tov,1,False,True,,Garland Bad Pass Turnover (P2.T7),58-62,58,62
-0022000671,2021-03-24,CHI,CLE,27.62,3,8,23,CHI,CHI,tov,45,False,False,Williams Out of Bounds - Bad Pass Turnover Turnover (P1.T13),,58-62,58,62
 0022000671,2021-03-24,CHI,CLE,27.62,3,8,23,CLE,CHI,steal,1,False,True,steal,steal,58-62,58,62
+0022000671,2021-03-24,CHI,CLE,27.62,3,8,23,CHI,CHI,tov,45,False,False,Williams Out of Bounds - Bad Pass Turnover Turnover (P1.T13),,58-62,58,62
 0022000671,2021-03-24,CHI,CLE,27.88,3,8,7,CLE,CLE,fg_miss,5,False,False,,MISS Garland 2' Layup,58-62,58,62
 0022000671,2021-03-24,CHI,CLE,27.95,3,8,3,CLE,CLE,reb,0,False,False,,Allen REBOUND (Off:3 Def:2),58-62,58,62
 0022000671,2021-03-24,CHI,CLE,27.95,3,8,3,CLE,CLE,fg_make,97,False,False,,Allen Tip Layup Shot (14 PTS),58-64,58,64
@@ -319,8 +319,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000671,2021-03-24,CHI,CLE,37.58,4,10,25,CHI,CHI,fg3_miss,1,False,False,MISS White 25' 3PT Jump Shot,,75-82,75,82
 0022000671,2021-03-24,CHI,CLE,37.65,4,10,21,CLE,CLE,reb,0,False,False,,Cook REBOUND (Off:0 Def:1),75-82,75,82
 0022000671,2021-03-24,CHI,CLE,37.88,4,10,7,CLE,CLE,tov,2,False,True,,Wade Lost Ball Turnover (P1.T9),75-82,75,82
-0022000671,2021-03-24,CHI,CLE,37.88,4,10,7,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 4 Short 0),,75-82,75,82
 0022000671,2021-03-24,CHI,CLE,37.88,4,10,7,CLE,CHI,steal,2,False,True,steal,steal,75-82,75,82
+0022000671,2021-03-24,CHI,CLE,37.88,4,10,7,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 4 Short 0),,75-82,75,82
 0022000671,2021-03-24,CHI,CLE,38.2,4,9,48,CHI,CHI,fg_miss,6,False,False,MISS Young 4' Driving Layup,,75-82,75,82
 0022000671,2021-03-24,CHI,CLE,38.25,4,9,45,CHI,CHI,reb,0,False,False,Porter Jr. REBOUND (Off:2 Def:2),,75-82,75,82
 0022000671,2021-03-24,CHI,CLE,38.25,4,9,45,CHI,CHI,fg_make,97,False,False,Porter Jr. Tip Layup Shot (6 PTS),,77-82,77,82
@@ -349,8 +349,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000671,2021-03-24,CHI,CLE,41.1,4,6,54,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 5 Short 0),,80-91,80,91
 0022000671,2021-03-24,CHI,CLE,41.3,4,6,42,CHI,CHI,fg_miss,6,True,False,MISS LaVine 2' Driving Layup,,80-91,80,91
 0022000671,2021-03-24,CHI,CLE,41.3,4,6,42,CHI,CLE,block,6,True,False,block,block,80-91,80,91
-0022000671,2021-03-24,CHI,CLE,41.42,4,6,35,CHI,CHI,fg_make,72,False,False,Young Putback Layup (8 PTS),,82-91,82,91
 0022000671,2021-03-24,CHI,CLE,41.42,4,6,35,CHI,CHI,reb,0,False,False,Young REBOUND (Off:1 Def:4),,82-91,82,91
+0022000671,2021-03-24,CHI,CLE,41.42,4,6,35,CHI,CHI,fg_make,72,False,False,Young Putback Layup (8 PTS),,82-91,82,91
 0022000671,2021-03-24,CHI,CLE,41.57,4,6,26,CLE,CLE,fg_miss,1,False,False,,MISS Thomas 22' Jump Shot,82-91,82,91
 0022000671,2021-03-24,CHI,CLE,41.62,4,6,23,CHI,CHI,reb,0,False,False,Markkanen REBOUND (Off:2 Def:3),,82-91,82,91
 0022000671,2021-03-24,CHI,CLE,41.77,4,6,14,CHI,CHI,fg3_miss,1,False,False,MISS LaVine 25' 3PT Jump Shot,,82-91,82,91

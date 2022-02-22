@@ -48,8 +48,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800403,2018-12-11,SAS,PHX,5.85,1,6,9,PHX,PHX,fg_miss,102,False,False,,MISS Evans 9' Driving Floating Bank Jump Shot,15-11,15,11
 0021800403,2018-12-11,SAS,PHX,5.92,1,6,5,PHX,PHX,reb,0,False,False,,Ayton REBOUND (Off:2 Def:1),15-11,15,11
 0021800403,2018-12-11,SAS,PHX,6.0,1,6,0,PHX,PHX,fg_miss,6,True,False,,MISS Jackson 6' Driving Layup,15-11,15,11
-0021800403,2018-12-11,SAS,PHX,6.0,1,6,0,SAS,SAS,reb,0,False,False,Gay REBOUND (Off:0 Def:1),,15-11,15,11
 0021800403,2018-12-11,SAS,PHX,6.0,1,6,0,PHX,SAS,block,6,True,False,block,block,15-11,15,11
+0021800403,2018-12-11,SAS,PHX,6.0,1,6,0,SAS,SAS,reb,0,False,False,Gay REBOUND (Off:0 Def:1),,15-11,15,11
 0021800403,2018-12-11,SAS,PHX,6.23,1,5,46,SAS,SAS,fg_make,76,False,False,Gay 2' Running Finger Roll Layup (4 PTS),,17-11,17,11
 0021800403,2018-12-11,SAS,PHX,6.27,1,5,44,PHX,SAS,foul,1,False,False,Gay P.FOUL (P2.T2) (J.Capers),,17-11,17,11
 0021800403,2018-12-11,SAS,PHX,6.45,1,5,33,PHX,PHX,fg_make,79,False,False,,Warren 17' Pullup Jump Shot (7 PTS),17-13,17,13
@@ -100,8 +100,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800403,2018-12-11,SAS,PHX,12.42,2,11,35,PHX,PHX,reb,0,False,False,,Suns Rebound,29-20,29,20
 0021800403,2018-12-11,SAS,PHX,12.55,2,11,27,PHX,PHX,tov,45,False,False,,Melton Out of Bounds - Bad Pass Turnover Turnover (P1.T5),29-20,29,20
 0021800403,2018-12-11,SAS,PHX,12.9,2,11,6,SAS,SAS,fg_miss,101,True,False,MISS Forbes 8' Driving Floating Jump Shot,,29-20,29,20
-0021800403,2018-12-11,SAS,PHX,12.9,2,11,6,SAS,SAS,reb,0,False,False,SPURS Rebound,,29-20,29,20
 0021800403,2018-12-11,SAS,PHX,12.9,2,11,6,SAS,PHX,block,101,True,False,block,block,29-20,29,20
+0021800403,2018-12-11,SAS,PHX,12.9,2,11,6,SAS,SAS,reb,0,False,False,SPURS Rebound,,29-20,29,20
 0021800403,2018-12-11,SAS,PHX,12.93,2,11,4,SAS,SAS,fg_miss,63,False,False,MISS Belinelli 16' Fadeaway Jumper,,29-20,29,20
 0021800403,2018-12-11,SAS,PHX,13.0,2,11,0,PHX,PHX,reb,0,False,False,,Holmes REBOUND (Off:0 Def:1),29-20,29,20
 0021800403,2018-12-11,SAS,PHX,13.27,2,10,44,PHX,PHX,fg_make,79,False,False,,Evans 18' Pullup Jump Shot (2 PTS) (Melton 2 AST),29-22,29,22
@@ -307,8 +307,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800403,2018-12-11,SAS,PHX,35.8,3,0,12,SAS,SAS,fg_miss,73,False,False,MISS Mills 4' Driving Reverse Layup,,86-64,86,64
 0021800403,2018-12-11,SAS,PHX,35.85,3,0,9,SAS,SAS,reb,0,False,False,Poeltl REBOUND (Off:6 Def:4),,86-64,86,64
 0021800403,2018-12-11,SAS,PHX,35.92,3,0,5,SAS,SAS,fg_miss,98,True,False,MISS Cunningham 3' Cutting Layup Shot,,86-64,86,64
-0021800403,2018-12-11,SAS,PHX,35.92,3,0,5,SAS,SAS,reb,0,False,False,Belinelli REBOUND (Off:1 Def:0),,86-64,86,64
 0021800403,2018-12-11,SAS,PHX,35.92,3,0,5,SAS,PHX,block,98,True,False,block,block,86-64,86,64
+0021800403,2018-12-11,SAS,PHX,35.92,3,0,5,SAS,SAS,reb,0,False,False,Belinelli REBOUND (Off:1 Def:0),,86-64,86,64
 0021800403,2018-12-11,SAS,PHX,35.97,3,0,2,SAS,SAS,fg_make,1,False,False,Belinelli 21' Jump Shot (9 PTS),,88-64,88,64
 0021800403,2018-12-11,SAS,PHX,36.0,3,0,0,PHX,PHX,fg3_miss,79,False,False,,MISS Melton 42' 3PT Pullup Jump Shot,88-64,88,64
 0021800403,2018-12-11,SAS,PHX,36.0,3,0,0,PHX,PHX,reb,0,False,False,,Suns Rebound,88-64,88,64
@@ -364,8 +364,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800403,2018-12-11,SAS,PHX,43.17,4,4,50,PHX,PHX,fg3_miss,1,False,False,,MISS Melton 27' 3PT Jump Shot,97-84,97,84
 0021800403,2018-12-11,SAS,PHX,43.23,4,4,46,SAS,SAS,reb,0,False,False,Forbes REBOUND (Off:0 Def:10),,97-84,97,84
 0021800403,2018-12-11,SAS,PHX,43.35,4,4,39,SAS,SAS,fg_miss,75,True,False,MISS Forbes 6' Driving Finger Roll Layup,,97-84,97,84
-0021800403,2018-12-11,SAS,PHX,43.35,4,4,39,SAS,SAS,reb,0,False,False,SPURS Rebound,,97-84,97,84
 0021800403,2018-12-11,SAS,PHX,43.35,4,4,39,SAS,PHX,block,75,True,False,block,block,97-84,97,84
+0021800403,2018-12-11,SAS,PHX,43.35,4,4,39,SAS,SAS,reb,0,False,False,SPURS Rebound,,97-84,97,84
 0021800403,2018-12-11,SAS,PHX,43.53,4,4,28,SAS,SAS,fg_miss,79,False,False,MISS Mills 17' Pullup Jump Shot,,97-84,97,84
 0021800403,2018-12-11,SAS,PHX,43.58,4,4,25,PHX,PHX,reb,0,False,False,,Bender REBOUND (Off:0 Def:2),97-84,97,84
 0021800403,2018-12-11,SAS,PHX,43.68,4,4,19,PHX,PHX,fg_miss,1,False,False,,MISS Ayton 13' Jump Shot,97-84,97,84

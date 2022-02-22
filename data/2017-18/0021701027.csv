@@ -40,9 +40,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701027,2018-03-15,UTA,PHX,4.98,1,7,1,PHX,PHX,tov,1,False,True,,Len Bad Pass Turnover (P1.T1),13-10,13,10
 0021701027,2018-03-15,UTA,PHX,4.98,1,7,1,PHX,UTA,steal,1,False,True,steal,steal,13-10,13,10
 0021701027,2018-03-15,UTA,PHX,5.22,1,6,47,UTA,UTA,tov,1,False,True,Favors Bad Pass Turnover (P1.T2),,13-10,13,10
+0021701027,2018-03-15,UTA,PHX,5.22,1,6,47,UTA,PHX,steal,1,False,True,steal,steal,13-10,13,10
 0021701027,2018-03-15,UTA,PHX,5.22,1,6,47,PHX,UTA,foul,1,False,False,Ingles P.FOUL (P1.T2) (T.Washington),,13-10,13,10
 0021701027,2018-03-15,UTA,PHX,5.22,1,6,47,UTA,UTA,timeout,1,False,False,JAZZ Timeout: Regular (Full 1 Short 0),,13-10,13,10
-0021701027,2018-03-15,UTA,PHX,5.22,1,6,47,UTA,PHX,steal,1,False,True,steal,steal,13-10,13,10
 0021701027,2018-03-15,UTA,PHX,5.38,1,6,37,PHX,PHX,fg3_make,79,False,False,,Booker 25' 3PT Pullup Jump Shot (5 PTS),13-13,13,13
 0021701027,2018-03-15,UTA,PHX,5.78,1,6,13,UTA,UTA,fg3_miss,1,False,False,MISS Favors 3PT Jump Shot,,13-13,13,13
 0021701027,2018-03-15,UTA,PHX,5.85,1,6,9,PHX,PHX,reb,0,False,False,,Len REBOUND (Off:1 Def:1),13-13,13,13
@@ -74,8 +74,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701027,2018-03-15,UTA,PHX,8.87,1,3,8,UTA,UTA,fg_miss,80,False,False,MISS Crowder 19' Step Back Jump Shot,,17-15,17,15
 0021701027,2018-03-15,UTA,PHX,8.95,1,3,3,PHX,PHX,reb,0,False,False,,Jackson REBOUND (Off:0 Def:1),17-15,17,15
 0021701027,2018-03-15,UTA,PHX,9.03,1,2,58,PHX,PHX,fg_miss,1,True,False,,MISS Jackson 12' Jump Shot,17-15,17,15
-0021701027,2018-03-15,UTA,PHX,9.03,1,2,58,UTA,UTA,reb,0,False,False,Crowder REBOUND (Off:0 Def:1),,17-15,17,15
 0021701027,2018-03-15,UTA,PHX,9.03,1,2,58,PHX,UTA,block,1,True,False,block,block,17-15,17,15
+0021701027,2018-03-15,UTA,PHX,9.03,1,2,58,UTA,UTA,reb,0,False,False,Crowder REBOUND (Off:0 Def:1),,17-15,17,15
 0021701027,2018-03-15,UTA,PHX,9.17,1,2,50,UTA,UTA,fg_make,44,False,False,Jerebko 1' Reverse Layup (2 PTS) (Mitchell 1 AST),,19-15,19,15
 0021701027,2018-03-15,UTA,PHX,9.4,1,2,36,PHX,PHX,fg_miss,1,False,False,,MISS Warren 18' Jump Shot,19-15,19,15
 0021701027,2018-03-15,UTA,PHX,9.45,1,2,33,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:1 Def:2),,19-15,19,15
@@ -131,9 +131,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701027,2018-03-15,UTA,PHX,14.18,2,9,49,PHX,UTA,foul,26,False,False,O'Neale Offensive Charge Foul (P1.T2) (T.Washington),,24-25,24,25
 0021701027,2018-03-15,UTA,PHX,14.18,2,9,49,UTA,UTA,tov,37,False,False,O'Neale Offensive Foul Turnover (P1.T4),,24-25,24,25
 0021701027,2018-03-15,UTA,PHX,14.42,2,9,35,PHX,PHX,fg_miss,1,True,False,,MISS Jackson 14' Jump Shot,24-25,24,25
+0021701027,2018-03-15,UTA,PHX,14.42,2,9,35,PHX,UTA,block,1,True,False,block,block,24-25,24,25
 0021701027,2018-03-15,UTA,PHX,14.42,2,9,35,UTA,UTA,reb,0,False,False,O'Neale REBOUND (Off:0 Def:1),,24-25,24,25
 0021701027,2018-03-15,UTA,PHX,14.42,2,9,35,UTA,PHX,foul,1,False,False,,Dudley P.FOUL (P1.T2) (S.Corbin),24-25,24,25
-0021701027,2018-03-15,UTA,PHX,14.42,2,9,35,PHX,UTA,block,1,True,False,block,block,24-25,24,25
 0021701027,2018-03-15,UTA,PHX,14.6,2,9,24,UTA,UTA,fg_miss,6,False,False,MISS Ingles 2' Driving Layup,,24-25,24,25
 0021701027,2018-03-15,UTA,PHX,14.67,2,9,20,UTA,UTA,reb,0,False,False,Favors REBOUND (Off:1 Def:1),,24-25,24,25
 0021701027,2018-03-15,UTA,PHX,14.67,2,9,20,UTA,UTA,fg_miss,97,False,False,MISS Favors 1' Tip Layup Shot,,24-25,24,25
@@ -235,9 +235,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701027,2018-03-15,UTA,PHX,23.87,2,0,8,PHX,PHX,ft_make,11,False,False,,Jackson Free Throw 1 of 2 (9 PTS),56-42,56,42
 0021701027,2018-03-15,UTA,PHX,23.87,2,0,8,PHX,PHX,ft_make,12,False,False,,Jackson Free Throw 2 of 2 (10 PTS),56-43,56,43
 0021701027,2018-03-15,UTA,PHX,24.0,2,0,0,UTA,UTA,tov,1,False,True,Rubio Bad Pass Turnover (P1.T5),,56-43,56,43
+0021701027,2018-03-15,UTA,PHX,24.0,2,0,0,UTA,PHX,steal,1,False,True,steal,steal,56-43,56,43
 0021701027,2018-03-15,UTA,PHX,24.0,2,0,0,UTA,,period_end,0,False,False,,,56-43,56,43
 0021701027,2018-03-15,UTA,PHX,24.0,3,12,0,UTA,,period_start,0,False,False,,,56-43,56,43
-0021701027,2018-03-15,UTA,PHX,24.0,2,0,0,UTA,PHX,steal,1,False,True,steal,steal,56-43,56,43
 0021701027,2018-03-15,UTA,PHX,24.28,3,11,43,UTA,UTA,fg_make,79,False,False,Rubio 21' Pullup Jump Shot (7 PTS),,58-43,58,43
 0021701027,2018-03-15,UTA,PHX,24.67,3,11,20,UTA,PHX,foul,4,False,False,,Warren OFF.Foul (P3) (S.Corbin),58-43,58,43
 0021701027,2018-03-15,UTA,PHX,24.67,3,11,20,PHX,PHX,tov,37,False,False,,Warren Offensive Foul Turnover (P1.T11),58-43,58,43
@@ -249,8 +249,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701027,2018-03-15,UTA,PHX,25.18,3,10,49,UTA,UTA,reb,0,False,False,Mitchell REBOUND (Off:0 Def:3),,60-43,60,43
 0021701027,2018-03-15,UTA,PHX,25.28,3,10,43,UTA,UTA,fg_make,6,False,False,Mitchell 1' Driving Layup (12 PTS),,62-43,62,43
 0021701027,2018-03-15,UTA,PHX,25.58,3,10,25,PHX,PHX,fg_miss,6,True,False,,MISS Booker 2' Driving Layup,62-43,62,43
-0021701027,2018-03-15,UTA,PHX,25.58,3,10,25,PHX,PHX,reb,0,False,False,,Suns Rebound,62-43,62,43
 0021701027,2018-03-15,UTA,PHX,25.58,3,10,25,PHX,UTA,block,6,True,False,block,block,62-43,62,43
+0021701027,2018-03-15,UTA,PHX,25.58,3,10,25,PHX,PHX,reb,0,False,False,,Suns Rebound,62-43,62,43
 0021701027,2018-03-15,UTA,PHX,25.67,3,10,20,PHX,UTA,foul,2,False,False,Gobert S.FOUL (P3.T1) (S.Corbin),,62-43,62,43
 0021701027,2018-03-15,UTA,PHX,25.67,3,10,20,PHX,PHX,ft_make,11,False,False,,Len Free Throw 1 of 2 (1 PTS),62-44,62,44
 0021701027,2018-03-15,UTA,PHX,25.67,3,10,20,PHX,PHX,ft_miss,12,False,False,,MISS Len Free Throw 2 of 2,62-44,62,44
@@ -285,15 +285,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701027,2018-03-15,UTA,PHX,29.05,3,6,57,PHX,PHX,fg_miss,7,False,False,,MISS Chriss 9' Dunk,69-50,69,50
 0021701027,2018-03-15,UTA,PHX,29.08,3,6,55,UTA,UTA,reb,0,False,False,JAZZ Rebound,,69-50,69,50
 0021701027,2018-03-15,UTA,PHX,29.08,3,6,55,UTA,PHX,foul,15,False,False,,Dudley FLAGRANT.FOUL.TYPE2 (P3.T3) (T.Washington),69-50,69,50
-0021701027,2018-03-15,UTA,PHX,29.08,3,6,55,UTA,UTA,ft_miss,18,False,False,MISS Rubio Free Throw Flagrant 1 of 2,,69-50,69,50
-0021701027,2018-03-15,UTA,PHX,29.08,3,6,55,UTA,UTA,reb,1,False,False,JAZZ Rebound,,69-50,69,50
-0021701027,2018-03-15,UTA,PHX,29.08,3,6,55,UTA,UTA,ft_miss,19,False,False,MISS Rubio Free Throw Flagrant 2 of 2,,69-50,69,50
-0021701027,2018-03-15,UTA,PHX,29.08,3,6,55,UTA,UTA,reb,0,False,False,JAZZ Rebound,,69-50,69,50
 0021701027,2018-03-15,UTA,PHX,29.08,3,6,55,PHX,UTA,foul,11,False,False,Mitchell T.FOUL (P3.T3) (T.Washington),,69-50,69,50
 0021701027,2018-03-15,UTA,PHX,29.08,3,6,55,PHX,UTA,foul,11,False,False,Ingles T.FOUL (P1.T3) (T.Washington),,69-50,69,50
 0021701027,2018-03-15,UTA,PHX,29.08,3,6,55,UTA,PHX,foul,11,False,False,,Chriss T.FOUL (P1.T3) (T.Washington),69-50,69,50
 0021701027,2018-03-15,UTA,PHX,29.08,3,6,55,UTA,PHX,ejection,4,False,False,,Chriss Ejection:Other,69-50,69,50
 0021701027,2018-03-15,UTA,PHX,29.08,3,6,55,UTA,PHX,ft_make,16,False,False,,Booker Free Throw Technical (8 PTS),69-51,69,51
+0021701027,2018-03-15,UTA,PHX,29.08,3,6,55,UTA,UTA,ft_miss,18,False,False,MISS Rubio Free Throw Flagrant 1 of 2,,69-50,69,50
+0021701027,2018-03-15,UTA,PHX,29.08,3,6,55,UTA,UTA,reb,1,False,False,JAZZ Rebound,,69-50,69,50
+0021701027,2018-03-15,UTA,PHX,29.08,3,6,55,UTA,UTA,ft_miss,19,False,False,MISS Rubio Free Throw Flagrant 2 of 2,,69-50,69,50
+0021701027,2018-03-15,UTA,PHX,29.08,3,6,55,UTA,UTA,reb,0,False,False,JAZZ Rebound,,69-50,69,50
 0021701027,2018-03-15,UTA,PHX,29.08,3,6,55,UTA,PHX,ejection,4,False,False,,Dudley Ejection:Other,69-51,69,51
 0021701027,2018-03-15,UTA,PHX,29.28,3,6,43,UTA,UTA,fg_make,63,False,False,Rubio 13' Fadeaway Jumper (12 PTS),,71-51,71,51
 0021701027,2018-03-15,UTA,PHX,29.63,3,6,22,PHX,PHX,fg_miss,78,False,False,,MISS Booker 9' Floating Jump Shot,71-51,71,51
@@ -302,8 +302,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701027,2018-03-15,UTA,PHX,29.9,3,6,6,UTA,UTA,fg_miss,78,False,False,MISS Rubio 13' Floating Jump Shot,,71-51,71,51
 0021701027,2018-03-15,UTA,PHX,29.98,3,6,1,PHX,PHX,reb,0,False,False,,Harrison REBOUND (Off:2 Def:3),71-51,71,51
 0021701027,2018-03-15,UTA,PHX,30.02,3,5,59,PHX,PHX,fg_miss,9,True,False,,MISS Harrison 5' Driving Dunk,71-51,71,51
-0021701027,2018-03-15,UTA,PHX,30.02,3,5,59,PHX,PHX,reb,0,False,False,,Suns Rebound,71-51,71,51
 0021701027,2018-03-15,UTA,PHX,30.02,3,5,59,PHX,UTA,block,9,True,False,block,block,71-51,71,51
+0021701027,2018-03-15,UTA,PHX,30.02,3,5,59,PHX,PHX,reb,0,False,False,,Suns Rebound,71-51,71,51
 0021701027,2018-03-15,UTA,PHX,30.07,3,5,56,PHX,PHX,fg_make,1,False,False,,Warren 15' Jump Shot (15 PTS) (Bender 1 AST),71-53,71,53
 0021701027,2018-03-15,UTA,PHX,30.37,3,5,38,UTA,UTA,fg_miss,6,False,False,MISS Mitchell 3' Driving Layup,,71-53,71,53
 0021701027,2018-03-15,UTA,PHX,30.42,3,5,35,PHX,PHX,reb,0,False,False,,Harrison REBOUND (Off:2 Def:4),71-53,71,53
@@ -342,8 +342,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701027,2018-03-15,UTA,PHX,32.42,3,3,35,UTA,UTA,ft_miss,12,False,False,MISS Exum Free Throw 2 of 2,,77-58,77,58
 0021701027,2018-03-15,UTA,PHX,32.47,3,3,32,PHX,PHX,reb,0,False,False,,Warren REBOUND (Off:2 Def:3),77-58,77,58
 0021701027,2018-03-15,UTA,PHX,32.78,3,3,13,PHX,PHX,fg_miss,6,True,False,,MISS Booker 3' Driving Layup,77-58,77,58
-0021701027,2018-03-15,UTA,PHX,32.78,3,3,13,PHX,PHX,reb,0,False,False,,Suns Rebound,77-58,77,58
 0021701027,2018-03-15,UTA,PHX,32.78,3,3,13,PHX,UTA,block,6,True,False,block,block,77-58,77,58
+0021701027,2018-03-15,UTA,PHX,32.78,3,3,13,PHX,PHX,reb,0,False,False,,Suns Rebound,77-58,77,58
 0021701027,2018-03-15,UTA,PHX,32.83,3,3,10,PHX,PHX,fg_miss,63,False,False,,MISS Booker 11' Fadeaway Jumper,77-58,77,58
 0021701027,2018-03-15,UTA,PHX,32.87,3,3,8,UTA,UTA,reb,0,False,False,Exum REBOUND (Off:0 Def:1),,77-58,77,58
 0021701027,2018-03-15,UTA,PHX,32.95,3,3,3,UTA,UTA,fg_miss,6,False,False,MISS Exum 8' Driving Layup,,77-58,77,58
@@ -377,11 +377,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701027,2018-03-15,UTA,PHX,35.93,3,0,4,PHX,UTA,foul,26,False,False,Exum Offensive Charge Foul (P1.PN) (T.Washington),,81-66,81,66
 0021701027,2018-03-15,UTA,PHX,35.93,3,0,4,UTA,UTA,tov,37,False,False,Exum Offensive Foul Turnover (P1.T7),,81-66,81,66
 0021701027,2018-03-15,UTA,PHX,36.0,3,0,0,PHX,PHX,tov,1,False,True,,Bender Bad Pass Turnover (P2.T17),81-66,81,66
+0021701027,2018-03-15,UTA,PHX,36.0,3,0,0,PHX,UTA,steal,1,False,True,steal,steal,81-66,81,66
 0021701027,2018-03-15,UTA,PHX,36.0,3,0,0,UTA,UTA,fg3_miss,1,False,False,MISS Ingles 33' 3PT Jump Shot,,81-66,81,66
 0021701027,2018-03-15,UTA,PHX,36.0,3,0,0,UTA,UTA,reb,0,False,False,JAZZ Rebound,,81-66,81,66
 0021701027,2018-03-15,UTA,PHX,36.0,3,0,0,UTA,,period_end,0,False,False,,,81-66,81,66
 0021701027,2018-03-15,UTA,PHX,36.0,4,12,0,UTA,,period_start,0,False,False,,,81-66,81,66
-0021701027,2018-03-15,UTA,PHX,36.0,3,0,0,PHX,UTA,steal,1,False,True,steal,steal,81-66,81,66
 0021701027,2018-03-15,UTA,PHX,36.28,4,11,43,PHX,PHX,fg_make,9,False,False,,Jackson 2' Driving Dunk (16 PTS),81-68,81,68
 0021701027,2018-03-15,UTA,PHX,36.52,4,11,29,UTA,UTA,fg_miss,73,False,False,MISS Exum 3' Driving Reverse Layup,,81-68,81,68
 0021701027,2018-03-15,UTA,PHX,36.55,4,11,27,PHX,PHX,reb,0,False,False,,Bender REBOUND (Off:1 Def:2),81-68,81,68
@@ -406,8 +406,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701027,2018-03-15,UTA,PHX,38.65,4,9,21,UTA,UTA,reb,0,False,False,O'Neale REBOUND (Off:1 Def:2),,87-72,87,72
 0021701027,2018-03-15,UTA,PHX,38.97,4,9,2,UTA,UTA,fg3_make,1,False,False,Crowder 25' 3PT Jump Shot (15 PTS) (Mitchell 3 AST),,90-72,90,72
 0021701027,2018-03-15,UTA,PHX,39.25,4,8,45,PHX,PHX,tov,2,False,True,,Warren Lost Ball Turnover (P3.T19),90-72,90,72
-0021701027,2018-03-15,UTA,PHX,39.25,4,8,45,UTA,PHX,foul,1,False,False,,Jackson P.FOUL (P1.T1) (T.Washington),90-72,90,72
 0021701027,2018-03-15,UTA,PHX,39.25,4,8,45,PHX,UTA,steal,2,False,True,steal,steal,90-72,90,72
+0021701027,2018-03-15,UTA,PHX,39.25,4,8,45,UTA,PHX,foul,1,False,False,,Jackson P.FOUL (P1.T1) (T.Washington),90-72,90,72
 0021701027,2018-03-15,UTA,PHX,39.55,4,8,27,UTA,UTA,fg_make,43,False,False,Gobert 2' Alley Oop Layup (19 PTS) (Mitchell 4 AST),,92-72,92,72
 0021701027,2018-03-15,UTA,PHX,39.57,4,8,26,PHX,PHX,timeout,1,False,False,,Suns Timeout: Regular (Reg.5 Short 0),92-72,92,72
 0021701027,2018-03-15,UTA,PHX,39.67,4,8,20,PHX,UTA,foul,1,False,False,Rubio P.FOUL (P3.T2) (S.Corbin),,92-72,92,72
@@ -473,8 +473,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701027,2018-03-15,UTA,PHX,46.35,4,1,39,UTA,UTA,fg3_miss,1,False,False,MISS Jerebko 27' 3PT Jump Shot,,113-85,113,85
 0021701027,2018-03-15,UTA,PHX,46.42,4,1,35,PHX,PHX,reb,0,False,False,,Reed REBOUND (Off:0 Def:1),113-85,113,85
 0021701027,2018-03-15,UTA,PHX,46.6,4,1,24,PHX,PHX,fg_miss,5,True,False,,MISS Harrison 4' Layup,113-85,113,85
-0021701027,2018-03-15,UTA,PHX,46.6,4,1,24,PHX,PHX,reb,0,False,False,,Suns Rebound,113-85,113,85
 0021701027,2018-03-15,UTA,PHX,46.6,4,1,24,PHX,UTA,block,5,True,False,block,block,113-85,113,85
+0021701027,2018-03-15,UTA,PHX,46.6,4,1,24,PHX,PHX,reb,0,False,False,,Suns Rebound,113-85,113,85
 0021701027,2018-03-15,UTA,PHX,46.73,4,1,16,PHX,PHX,fg3_miss,1,False,False,,MISS Bender 3PT Jump Shot,113-85,113,85
 0021701027,2018-03-15,UTA,PHX,46.77,4,1,14,UTA,UTA,reb,0,False,False,Exum REBOUND (Off:0 Def:2),,113-85,113,85
 0021701027,2018-03-15,UTA,PHX,46.9,4,1,6,UTA,UTA,fg3_make,1,False,False,Jerebko 26' 3PT Jump Shot (6 PTS) (Exum 2 AST),,116-85,116,85

@@ -264,9 +264,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800684,2019-01-19,TOR,MEM,29.7,3,6,18,TOR,TOR,fg3_make,2,False,False,Green 3PT Running Jump Shot (15 PTS) (Lowry 6 AST),,77-55,77,55
 0021800684,2019-01-19,TOR,MEM,29.7,3,6,18,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.5 Short 0),77-55,77,55
 0021800684,2019-01-19,TOR,MEM,30.1,3,5,54,MEM,MEM,fg_miss,79,True,False,,MISS Carter 18' Pullup Jump Shot,77-55,77,55
+0021800684,2019-01-19,TOR,MEM,30.1,3,5,54,MEM,TOR,block,79,True,False,block,block,77-55,77,55
 0021800684,2019-01-19,TOR,MEM,30.1,3,5,54,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,77-55,77,55
 0021800684,2019-01-19,TOR,MEM,30.1,3,5,54,MEM,MEM,tov,11,False,False,,Grizzlies Turnover: Shot Clock (T#17),77-55,77,55
-0021800684,2019-01-19,TOR,MEM,30.1,3,5,54,MEM,TOR,block,79,True,False,block,block,77-55,77,55
 0021800684,2019-01-19,TOR,MEM,30.3,3,5,42,TOR,TOR,fg3_make,1,False,False,Green 25' 3PT Jump Shot (18 PTS) (VanVleet 6 AST),,80-55,80,55
 0021800684,2019-01-19,TOR,MEM,30.55,3,5,27,MEM,TOR,foul,1,False,False,Lowry P.FOUL (P1.T3) (J.Capers),,80-55,80,55
 0021800684,2019-01-19,TOR,MEM,30.63,3,5,22,MEM,MEM,fg_miss,1,False,False,,MISS Rabb 16' Jump Shot,80-55,80,55
@@ -368,8 +368,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800684,2019-01-19,TOR,MEM,41.57,4,6,26,MEM,TOR,block,79,True,False,block,block,109-74,109,74
 0021800684,2019-01-19,TOR,MEM,41.62,4,6,23,MEM,MEM,reb,0,False,False,,Jackson Jr. REBOUND (Off:1 Def:6),109-74,109,74
 0021800684,2019-01-19,TOR,MEM,41.77,4,6,14,MEM,MEM,fg_miss,101,False,False,,MISS Rabb 8' Driving Floating Jump Shot,109-74,109,74
-0021800684,2019-01-19,TOR,MEM,41.8,4,6,12,MEM,MEM,fg_miss,72,False,False,,MISS Jackson Jr. 1' Putback Layup,109-74,109,74
 0021800684,2019-01-19,TOR,MEM,41.8,4,6,12,MEM,MEM,reb,0,False,False,,Jackson Jr. REBOUND (Off:2 Def:6),109-74,109,74
+0021800684,2019-01-19,TOR,MEM,41.8,4,6,12,MEM,MEM,fg_miss,72,False,False,,MISS Jackson Jr. 1' Putback Layup,109-74,109,74
 0021800684,2019-01-19,TOR,MEM,41.82,4,6,11,MEM,MEM,reb,0,False,False,,Rabb REBOUND (Off:3 Def:6),109-74,109,74
 0021800684,2019-01-19,TOR,MEM,41.82,4,6,11,MEM,MEM,fg_miss,97,False,False,,MISS Rabb 2' Tip Layup Shot,109-74,109,74
 0021800684,2019-01-19,TOR,MEM,41.83,4,6,10,MEM,MEM,reb,0,False,False,,Rabb REBOUND (Off:4 Def:6),109-74,109,74
@@ -408,8 +408,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800684,2019-01-19,TOR,MEM,46.07,4,1,56,TOR,TOR,tov,1,False,True,McCaw Bad Pass Turnover (P3.T11),,119-84,119,84
 0021800684,2019-01-19,TOR,MEM,46.07,4,1,56,TOR,MEM,steal,1,False,True,steal,steal,119-84,119,84
 0021800684,2019-01-19,TOR,MEM,46.13,4,1,52,MEM,MEM,fg_miss,41,True,False,,MISS Carter 2' Running Layup,119-84,119,84
-0021800684,2019-01-19,TOR,MEM,46.13,4,1,52,TOR,TOR,reb,0,False,False,Loyd REBOUND (Off:0 Def:2),,119-84,119,84
 0021800684,2019-01-19,TOR,MEM,46.13,4,1,52,MEM,TOR,block,41,True,False,block,block,119-84,119,84
+0021800684,2019-01-19,TOR,MEM,46.13,4,1,52,TOR,TOR,reb,0,False,False,Loyd REBOUND (Off:0 Def:2),,119-84,119,84
 0021800684,2019-01-19,TOR,MEM,46.27,4,1,44,TOR,TOR,fg3_miss,1,False,False,MISS Richardson 26' 3PT Jump Shot,,119-84,119,84
 0021800684,2019-01-19,TOR,MEM,46.32,4,1,41,MEM,MEM,reb,0,False,False,,Casspi REBOUND (Off:0 Def:4),119-84,119,84
 0021800684,2019-01-19,TOR,MEM,46.52,4,1,29,MEM,TOR,foul,1,False,False,Boucher P.FOUL (P1.T4) (S.Twardoski),,119-84,119,84

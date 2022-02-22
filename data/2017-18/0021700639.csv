@@ -52,8 +52,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700639,2018-01-15,PHI,TOR,6.75,1,5,15,TOR,PHI,block,5,True,False,block,block,18-14,18,14
 0021700639,2018-01-15,PHI,TOR,6.77,1,5,14,TOR,TOR,reb,0,False,False,,Raptors Rebound,18-14,18,14
 0021700639,2018-01-15,PHI,TOR,6.82,1,5,11,TOR,TOR,fg_miss,5,True,False,,MISS Anunoby 2' Layup,18-14,18,14
-0021700639,2018-01-15,PHI,TOR,6.82,1,5,11,PHI,PHI,reb,0,False,False,Johnson REBOUND (Off:0 Def:1),,18-14,18,14
 0021700639,2018-01-15,PHI,TOR,6.82,1,5,11,TOR,PHI,block,5,True,False,block,block,18-14,18,14
+0021700639,2018-01-15,PHI,TOR,6.82,1,5,11,PHI,PHI,reb,0,False,False,Johnson REBOUND (Off:0 Def:1),,18-14,18,14
 0021700639,2018-01-15,PHI,TOR,7.03,1,4,58,PHI,PHI,fg_make,79,False,False,Simmons 11' Pullup Jump Shot (8 PTS),,20-14,20,14
 0021700639,2018-01-15,PHI,TOR,7.27,1,4,44,TOR,TOR,fg_make,9,False,False,,Ibaka 2' Driving Dunk (6 PTS) (Lowry 1 AST),20-16,20,16
 0021700639,2018-01-15,PHI,TOR,7.67,1,4,20,PHI,PHI,fg3_miss,1,False,False,MISS Saric 28' 3PT Jump Shot,,20-16,20,16
@@ -170,10 +170,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700639,2018-01-15,PHI,TOR,17.92,2,6,5,PHI,PHI,ft_make,11,False,False,Covington Free Throw 1 of 2 (1 PTS),,40-33,40,33
 0021700639,2018-01-15,PHI,TOR,17.92,2,6,5,PHI,PHI,ft_make,12,False,False,Covington Free Throw 2 of 2 (2 PTS),,41-33,41,33
 0021700639,2018-01-15,PHI,TOR,18.08,2,5,55,TOR,TOR,tov,2,False,True,,DeRozan Lost Ball Turnover (P2.T7),41-33,41,33
+0021700639,2018-01-15,PHI,TOR,18.08,2,5,55,TOR,PHI,steal,2,False,True,steal,steal,41-33,41,33
 0021700639,2018-01-15,PHI,TOR,18.08,2,5,55,PHI,TOR,foul,1,False,False,,DeRozan P.FOUL (P1.PN) (J.Goble),41-33,41,33
 0021700639,2018-01-15,PHI,TOR,18.08,2,5,55,TOR,PHI,foul,11,False,False,McConnell T.FOUL (P0.PN) (J.Goble),,41-33,41,33
 0021700639,2018-01-15,PHI,TOR,18.08,2,5,55,PHI,TOR,foul,11,False,False,,DeRozan T.FOUL (P1.PN) (J.Goble),41-33,41,33
-0021700639,2018-01-15,PHI,TOR,18.08,2,5,55,TOR,PHI,steal,2,False,True,steal,steal,41-33,41,33
 0021700639,2018-01-15,PHI,TOR,18.08,2,5,55,PHI,PHI,ft_make,11,False,False,McConnell Free Throw 1 of 2 (3 PTS),,42-33,42,33
 0021700639,2018-01-15,PHI,TOR,18.08,2,5,55,PHI,PHI,ft_miss,12,False,False,MISS McConnell Free Throw 2 of 2,,42-33,42,33
 0021700639,2018-01-15,PHI,TOR,18.13,2,5,52,TOR,TOR,reb,0,False,False,,Ibaka REBOUND (Off:1 Def:2),42-33,42,33
@@ -373,10 +373,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700639,2018-01-15,PHI,TOR,36.73,4,11,16,TOR,PHI,block,41,True,False,block,block,93-78,93,78
 0021700639,2018-01-15,PHI,TOR,36.75,4,11,15,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:2 Def:3),93-78,93,78
 0021700639,2018-01-15,PHI,TOR,36.8,4,11,12,TOR,TOR,fg_miss,1,True,False,,MISS Poeltl 5' Jump Shot,93-78,93,78
+0021700639,2018-01-15,PHI,TOR,36.8,4,11,12,TOR,PHI,block,1,True,False,block,block,93-78,93,78
 0021700639,2018-01-15,PHI,TOR,36.8,4,11,12,PHI,PHI,reb,0,False,False,76ERS Rebound,,93-78,93,78
 0021700639,2018-01-15,PHI,TOR,36.8,4,11,12,PHI,TOR,foul,1,False,False,,Wright P.FOUL (P1.T1) (J.Goble),93-78,93,78
 0021700639,2018-01-15,PHI,TOR,36.8,4,11,12,TOR,TOR,timeout,1,False,False,,Raptors Timeout: Regular (Reg.4 Short 0),93-78,93,78
-0021700639,2018-01-15,PHI,TOR,36.8,4,11,12,TOR,PHI,block,1,True,False,block,block,93-78,93,78
 0021700639,2018-01-15,PHI,TOR,37.17,4,10,50,PHI,PHI,tov,11,False,False,76ERS Turnover: Shot Clock (T#15),,93-78,93,78
 0021700639,2018-01-15,PHI,TOR,37.28,4,10,43,TOR,TOR,fg3_miss,1,False,False,,MISS Miles 26' 3PT Jump Shot,93-78,93,78
 0021700639,2018-01-15,PHI,TOR,37.33,4,10,40,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:2 Def:5),,93-78,93,78
@@ -488,9 +488,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700639,2018-01-15,PHI,TOR,47.68,4,0,19,PHI,PHI,fg_miss,5,False,False,MISS Covington 3' Layup,,113-108,113,108
 0021700639,2018-01-15,PHI,TOR,47.75,4,0,15,TOR,TOR,reb,0,False,False,,Lowry REBOUND (Off:1 Def:6),113-108,113,108
 0021700639,2018-01-15,PHI,TOR,47.75,4,0,15,TOR,TOR,tov,2,False,True,,Lowry Lost Ball Turnover (P4.T14),113-108,113,108
+0021700639,2018-01-15,PHI,TOR,47.75,4,0,15,TOR,PHI,steal,2,False,True,steal,steal,113-108,113,108
 0021700639,2018-01-15,PHI,TOR,47.75,4,0,15,PHI,PHI,fg_miss,7,False,False,MISS Simmons 1' Dunk,,113-108,113,108
 0021700639,2018-01-15,PHI,TOR,47.75,4,0,15,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:4 Def:6),,113-108,113,108
-0021700639,2018-01-15,PHI,TOR,47.75,4,0,15,TOR,PHI,steal,2,False,True,steal,steal,113-108,113,108
 0021700639,2018-01-15,PHI,TOR,47.78,4,0,13,PHI,PHI,fg_miss,5,False,False,MISS Embiid 2' Layup,,113-108,113,108
 0021700639,2018-01-15,PHI,TOR,47.8,4,0,12,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:5 Def:6),,113-108,113,108
 0021700639,2018-01-15,PHI,TOR,47.82,4,0,11,PHI,TOR,foul,2,False,False,,DeRozan S.FOUL (P4.PN) (J.Goble),113-108,113,108

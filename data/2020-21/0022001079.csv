@@ -5,8 +5,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001079,2021-05-16,TOR,IND,0.42,1,11,35,TOR,TOR,reb,0,False,False,Johnson REBOUND (Off:0 Def:1),,0-0,0,0
 0022001079,2021-05-16,TOR,IND,0.52,1,11,29,TOR,TOR,fg_make,6,False,False,Bembry 4' Driving Layup (2 PTS) (Birch 1 AST),,2-0,2,0
 0022001079,2021-05-16,TOR,IND,0.72,1,11,17,IND,IND,fg_miss,6,True,False,,MISS Holiday 4' Driving Layup,2-0,2,0
-0022001079,2021-05-16,TOR,IND,0.72,1,11,17,IND,IND,reb,0,False,False,,Pacers Rebound,2-0,2,0
 0022001079,2021-05-16,TOR,IND,0.72,1,11,17,IND,TOR,block,6,True,False,block,block,2-0,2,0
+0022001079,2021-05-16,TOR,IND,0.72,1,11,17,IND,IND,reb,0,False,False,,Pacers Rebound,2-0,2,0
 0022001079,2021-05-16,TOR,IND,0.97,1,11,2,IND,IND,fg3_miss,1,False,False,,MISS Holiday 3PT Jump Shot,2-0,2,0
 0022001079,2021-05-16,TOR,IND,0.98,1,11,1,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,2-0,2,0
 0022001079,2021-05-16,TOR,IND,1.02,1,10,59,,TOR,jump_ball,0,False,False,Jump Ball Gillespie vs. Sabonis: Tip to Johnson,,2-0,2,0
@@ -126,8 +126,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001079,2021-05-16,TOR,IND,14.38,2,9,37,IND,IND,fg3_miss,1,False,False,,MISS Martin 25' 3PT Jump Shot,32-37,32,37
 0022001079,2021-05-16,TOR,IND,14.42,2,9,35,IND,IND,reb,0,False,False,,Sampson REBOUND (Off:1 Def:0),32-37,32,37
 0022001079,2021-05-16,TOR,IND,14.45,2,9,33,IND,IND,fg_miss,72,True,False,,MISS Sampson 2' Putback Layup,32-37,32,37
-0022001079,2021-05-16,TOR,IND,14.45,2,9,33,TOR,TOR,reb,0,False,False,Flynn REBOUND (Off:0 Def:2),,32-37,32,37
 0022001079,2021-05-16,TOR,IND,14.45,2,9,33,IND,TOR,block,72,True,False,block,block,32-37,32,37
+0022001079,2021-05-16,TOR,IND,14.45,2,9,33,TOR,TOR,reb,0,False,False,Flynn REBOUND (Off:0 Def:2),,32-37,32,37
 0022001079,2021-05-16,TOR,IND,14.6,2,9,24,TOR,IND,foul,2,False,False,,McDermott S.FOUL (P3.T4) (K.Mauer),32-37,32,37
 0022001079,2021-05-16,TOR,IND,14.6,2,9,24,TOR,TOR,ft_make,11,False,False,Flynn Free Throw 1 of 2 (1 PTS),,33-37,33,37
 0022001079,2021-05-16,TOR,IND,14.6,2,9,24,TOR,TOR,ft_make,12,False,False,Flynn Free Throw 2 of 2 (2 PTS),,34-37,34,37
@@ -259,8 +259,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001079,2021-05-16,TOR,IND,26.2,3,9,48,TOR,TOR,fg3_make,1,False,False,Flynn 25' 3PT Jump Shot (12 PTS) (Johnson 6 AST),,64-72,64,72
 0022001079,2021-05-16,TOR,IND,26.43,3,9,34,IND,IND,fg_make,98,False,False,,Sabonis 3' Cutting Layup Shot (11 PTS) (McConnell 6 AST),64-74,64,74
 0022001079,2021-05-16,TOR,IND,26.6,3,9,24,TOR,TOR,fg_miss,6,True,False,MISS Flynn 7' Driving Layup,,64-74,64,74
-0022001079,2021-05-16,TOR,IND,26.6,3,9,24,IND,IND,reb,0,False,False,,Pacers Rebound,64-74,64,74
 0022001079,2021-05-16,TOR,IND,26.6,3,9,24,TOR,IND,block,6,True,False,block,block,64-74,64,74
+0022001079,2021-05-16,TOR,IND,26.6,3,9,24,IND,IND,reb,0,False,False,,Pacers Rebound,64-74,64,74
 0022001079,2021-05-16,TOR,IND,26.75,3,9,15,IND,IND,tov,40,False,False,,McConnell Out of Bounds Lost Ball Turnover (P2.T7),64-74,64,74
 0022001079,2021-05-16,TOR,IND,26.97,3,9,2,TOR,TOR,fg3_miss,1,False,False,MISS Johnson 27' 3PT Jump Shot,,64-74,64,74
 0022001079,2021-05-16,TOR,IND,27.02,3,8,59,IND,IND,reb,0,False,False,,Brissett REBOUND (Off:1 Def:4),64-74,64,74
@@ -430,8 +430,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001079,2021-05-16,TOR,IND,44.9,4,3,6,TOR,IND,foul,26,False,False,,Sabonis Offensive Charge Foul (P3.PN) (T.Washington),103-117,103,117
 0022001079,2021-05-16,TOR,IND,44.9,4,3,6,IND,IND,tov,37,False,False,,Sabonis Offensive Foul Turnover (P6.T13),103-117,103,117
 0022001079,2021-05-16,TOR,IND,45.08,4,2,55,TOR,TOR,fg_miss,6,True,False,MISS Bembry 6' Driving Layup,,103-117,103,117
-0022001079,2021-05-16,TOR,IND,45.08,4,2,55,IND,IND,reb,0,False,False,,Pacers Rebound,103-117,103,117
 0022001079,2021-05-16,TOR,IND,45.08,4,2,55,TOR,IND,block,6,True,False,block,block,103-117,103,117
+0022001079,2021-05-16,TOR,IND,45.08,4,2,55,IND,IND,reb,0,False,False,,Pacers Rebound,103-117,103,117
 0022001079,2021-05-16,TOR,IND,45.12,4,2,53,,TOR,jump_ball,0,False,False,Jump Ball Bembry vs. Sabonis: Tip to Holiday,,103-117,103,117
 0022001079,2021-05-16,TOR,IND,45.18,4,2,49,IND,IND,fg_make,41,False,False,,McDermott 3' Running Layup (20 PTS) (McConnell 16 AST),103-119,103,119
 0022001079,2021-05-16,TOR,IND,45.33,4,2,40,TOR,TOR,fg_miss,6,False,False,MISS Bembry 7' Driving Layup,,103-119,103,119

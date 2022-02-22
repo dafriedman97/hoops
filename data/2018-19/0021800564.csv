@@ -31,9 +31,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800564,2019-01-03,SAC,DEN,3.47,1,8,32,DEN,DEN,reb,0,False,False,,Plumlee REBOUND (Off:2 Def:1),9-4,9,4
 0021800564,2019-01-03,SAC,DEN,3.65,1,8,21,DEN,SAC,foul,2,False,False,Bjelica S.FOUL (P1.T2) (S.Wright),,9-4,9,4
 0021800564,2019-01-03,SAC,DEN,3.65,1,8,21,DEN,DEN,ft_make,11,False,False,,Plumlee Free Throw 1 of 2 (1 PTS),9-5,9,5
-0021800564,2019-01-03,SAC,DEN,3.65,1,8,21,DEN,SAC,violation,3,False,False,Lane,,9-5,9,5
 0021800564,2019-01-03,SAC,DEN,3.65,1,8,21,DEN,DEN,ft_miss,12,False,False,,MISS Plumlee Free Throw 2 of 2,9-5,9,5
 0021800564,2019-01-03,SAC,DEN,3.65,1,8,21,SAC,SAC,reb,0,False,False,Bjelica REBOUND (Off:0 Def:1),,9-5,9,5
+0021800564,2019-01-03,SAC,DEN,3.65,1,8,21,DEN,SAC,violation,3,False,False,Lane,,9-5,9,5
 0021800564,2019-01-03,SAC,DEN,3.92,1,8,5,SAC,SAC,fg_miss,78,False,False,MISS Fox 10' Floating Jump Shot,,9-5,9,5
 0021800564,2019-01-03,SAC,DEN,3.95,1,8,3,DEN,DEN,reb,0,False,False,,Hernangomez REBOUND (Off:0 Def:1),9-5,9,5
 0021800564,2019-01-03,SAC,DEN,4.0,1,8,0,DEN,DEN,fg_make,5,False,False,,Hernangomez 2' Layup (2 PTS) (Plumlee 1 AST),9-7,9,7
@@ -79,8 +79,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800564,2019-01-03,SAC,DEN,8.38,1,3,37,SAC,DEN,foul,1,False,False,,Jokic P.FOUL (P1.T4) (S.Wright),23-24,23,24
 0021800564,2019-01-03,SAC,DEN,8.62,1,3,23,SAC,SAC,fg3_make,80,False,False,Fox 25' 3PT Step Back Jump Shot (5 PTS) (Giles III 1 AST),,26-24,26,24
 0021800564,2019-01-03,SAC,DEN,8.9,1,3,6,DEN,DEN,fg3_miss,1,False,False,,MISS Craig 25' 3PT Jump Shot,26-24,26,24
-0021800564,2019-01-03,SAC,DEN,8.93,1,3,4,SAC,SAC,tov,40,False,False,Fox Out of Bounds Lost Ball Turnover (P1.T3),,26-24,26,24
 0021800564,2019-01-03,SAC,DEN,8.93,1,3,4,SAC,SAC,reb,0,False,False,Fox REBOUND (Off:0 Def:1),,26-24,26,24
+0021800564,2019-01-03,SAC,DEN,8.93,1,3,4,SAC,SAC,tov,40,False,False,Fox Out of Bounds Lost Ball Turnover (P1.T3),,26-24,26,24
 0021800564,2019-01-03,SAC,DEN,9.15,1,2,51,DEN,SAC,foul,2,False,False,Hield S.FOUL (P1.PN) (S.Wright),,26-24,26,24
 0021800564,2019-01-03,SAC,DEN,9.15,1,2,51,DEN,DEN,timeout,1,False,False,,Nuggets Timeout: Regular (Reg.1 Short 0),26-24,26,24
 0021800564,2019-01-03,SAC,DEN,9.15,1,2,51,DEN,DEN,ft_miss,11,False,False,,MISS Millsap Free Throw 1 of 2,26-24,26,24
@@ -114,8 +114,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800564,2019-01-03,SAC,DEN,12.63,2,11,22,SAC,DEN,block,41,True,False,block,block,32-30,32,30
 0021800564,2019-01-03,SAC,DEN,12.7,2,11,18,DEN,DEN,reb,0,False,False,,Lyles REBOUND (Off:0 Def:2),32-30,32,30
 0021800564,2019-01-03,SAC,DEN,12.72,2,11,17,DEN,DEN,fg_miss,41,True,False,,MISS Beasley 7' Running Layup,32-30,32,30
-0021800564,2019-01-03,SAC,DEN,12.72,2,11,17,SAC,SAC,reb,0,False,False,KINGS Rebound,,32-30,32,30
 0021800564,2019-01-03,SAC,DEN,12.72,2,11,17,DEN,SAC,block,41,True,False,block,block,32-30,32,30
+0021800564,2019-01-03,SAC,DEN,12.72,2,11,17,SAC,SAC,reb,0,False,False,KINGS Rebound,,32-30,32,30
 0021800564,2019-01-03,SAC,DEN,12.97,2,11,2,SAC,SAC,fg_make,66,False,False,Bogdanovic 10' Jump Bank Shot (4 PTS) (Giles III 2 AST),,34-30,34,30
 0021800564,2019-01-03,SAC,DEN,13.17,2,10,50,DEN,DEN,fg3_miss,1,False,False,,MISS Lyles 26' 3PT Jump Shot,34-30,34,30
 0021800564,2019-01-03,SAC,DEN,13.23,2,10,46,SAC,SAC,reb,0,False,False,Giles III REBOUND (Off:0 Def:2),,34-30,34,30

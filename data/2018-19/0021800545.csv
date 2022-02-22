@@ -49,8 +49,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800545,2018-12-31,SAS,BOS,5.13,1,6,52,SAS,SAS,timeout,1,False,False,SPURS Timeout: Regular (Full 1 Short 0),,7-10,7,10
 0021800545,2018-12-31,SAS,BOS,5.18,1,6,49,BOS,BOS,fg_make,7,False,False,,Tatum 4' Dunk (2 PTS) (Irving 1 AST),7-12,7,12
 0021800545,2018-12-31,SAS,BOS,5.4,1,6,36,SAS,SAS,fg_miss,78,True,False,MISS DeRozan 4' Floating Jump Shot,,7-12,7,12
-0021800545,2018-12-31,SAS,BOS,5.4,1,6,36,SAS,SAS,reb,0,False,False,SPURS Rebound,,7-12,7,12
 0021800545,2018-12-31,SAS,BOS,5.4,1,6,36,SAS,BOS,block,78,True,False,block,block,7-12,7,12
+0021800545,2018-12-31,SAS,BOS,5.4,1,6,36,SAS,SAS,reb,0,False,False,SPURS Rebound,,7-12,7,12
 0021800545,2018-12-31,SAS,BOS,5.53,1,6,28,SAS,SAS,fg_make,6,False,False,White 6' Driving Layup (2 PTS) (DeRozan 1 AST),,9-12,9,12
 0021800545,2018-12-31,SAS,BOS,5.93,1,6,4,BOS,BOS,fg3_miss,80,False,False,,MISS Tatum 27' 3PT Step Back Jump Shot,9-12,9,12
 0021800545,2018-12-31,SAS,BOS,6.0,1,6,0,SAS,SAS,reb,0,False,False,DeRozan REBOUND (Off:0 Def:2),,9-12,9,12
@@ -95,8 +95,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800545,2018-12-31,SAS,BOS,9.45,1,2,33,BOS,BOS,fg3_miss,1,False,False,,MISS Hayward 27' 3PT Jump Shot,14-16,14,16
 0021800545,2018-12-31,SAS,BOS,9.47,1,2,32,SAS,SAS,reb,0,False,False,Gasol REBOUND (Off:0 Def:2),,14-16,14,16
 0021800545,2018-12-31,SAS,BOS,9.62,1,2,23,SAS,SAS,fg_miss,6,True,False,MISS DeRozan 7' Driving Layup,,14-16,14,16
-0021800545,2018-12-31,SAS,BOS,9.62,1,2,23,SAS,SAS,reb,0,False,False,SPURS Rebound,,14-16,14,16
 0021800545,2018-12-31,SAS,BOS,9.62,1,2,23,SAS,BOS,block,6,True,False,block,block,14-16,14,16
+0021800545,2018-12-31,SAS,BOS,9.62,1,2,23,SAS,SAS,reb,0,False,False,SPURS Rebound,,14-16,14,16
 0021800545,2018-12-31,SAS,BOS,9.7,1,2,18,SAS,SAS,fg3_miss,1,False,False,MISS Mills 26' 3PT Jump Shot,,14-16,14,16
 0021800545,2018-12-31,SAS,BOS,9.77,1,2,14,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:1 Def:4),14-16,14,16
 0021800545,2018-12-31,SAS,BOS,10.03,1,1,58,BOS,BOS,fg_miss,63,False,False,,MISS Rozier 9' Fadeaway Jumper,14-16,14,16
@@ -409,7 +409,7 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800545,2018-12-31,SAS,BOS,47.67,4,0,20,SAS,SAS,fg3_miss,79,False,False,MISS Forbes 26' 3PT Pullup Jump Shot,,120-111,120,111
 0021800545,2018-12-31,SAS,BOS,47.72,4,0,17,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:1 Def:9),120-111,120,111
 0021800545,2018-12-31,SAS,BOS,47.77,4,0,14,BOS,BOS,fg3_miss,79,True,False,,MISS Tatum 24' 3PT Pullup Jump Shot,120-111,120,111
-0021800545,2018-12-31,SAS,BOS,47.77,4,0,14,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:2 Def:9),120-111,120,111
 0021800545,2018-12-31,SAS,BOS,47.77,4,0,14,BOS,SAS,block,79,True,False,block,block,120-111,120,111
+0021800545,2018-12-31,SAS,BOS,47.77,4,0,14,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:2 Def:9),120-111,120,111
 0021800545,2018-12-31,SAS,BOS,47.85,4,0,9,BOS,BOS,tov,40,False,False,,Tatum Out of Bounds Lost Ball Turnover (P2.T12),120-111,120,111
 0021800545,2018-12-31,SAS,BOS,48.0,4,0,0,BOS,,period_end,0,False,False,,,120-111,120,111

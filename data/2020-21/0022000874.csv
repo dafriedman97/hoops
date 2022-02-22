@@ -117,8 +117,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000874,2021-04-19,DEN,MEM,13.37,2,10,38,DEN,DEN,fg_make,5,False,False,Green 3' Layup (2 PTS) (Dozier 1 AST),,31-35,31,35
 0022000874,2021-04-19,DEN,MEM,13.37,2,10,38,DEN,MEM,violation,2,False,False,,Winslow Violation:Defensive Goaltending (S.Corbin),31-35,31,35
 0022000874,2021-04-19,DEN,MEM,13.67,2,10,20,MEM,MEM,fg_miss,98,True,False,,MISS Konchar 7' Cutting Layup Shot,31-35,31,35
-0022000874,2021-04-19,DEN,MEM,13.67,2,10,20,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,31-35,31,35
 0022000874,2021-04-19,DEN,MEM,13.67,2,10,20,MEM,DEN,block,98,True,False,block,block,31-35,31,35
+0022000874,2021-04-19,DEN,MEM,13.67,2,10,20,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,31-35,31,35
 0022000874,2021-04-19,DEN,MEM,13.73,2,10,16,MEM,MEM,fg_miss,101,False,False,,MISS Jones 9' Driving Floating Jump Shot,31-35,31,35
 0022000874,2021-04-19,DEN,MEM,13.77,2,10,14,DEN,DEN,reb,0,False,False,Green REBOUND (Off:0 Def:2),,31-35,31,35
 0022000874,2021-04-19,DEN,MEM,13.97,2,10,2,DEN,DEN,fg_make,102,False,False,Millsap 8' Driving Floating Bank Jump Shot (4 PTS) (Dozier 2 AST),,33-35,33,35
@@ -203,9 +203,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000874,2021-04-19,DEN,MEM,22.58,2,1,25,DEN,DEN,fg_miss,97,False,False,MISS Gordon Tip Layup Shot,,50-58,50,58
 0022000874,2021-04-19,DEN,MEM,22.58,2,1,25,MEM,MEM,reb,0,False,False,,Tillman REBOUND (Off:2 Def:5),50-58,50,58
 0022000874,2021-04-19,DEN,MEM,22.6,2,1,24,MEM,MEM,fg_miss,41,True,False,,MISS Allen 3' Running Layup,50-58,50,58
+0022000874,2021-04-19,DEN,MEM,22.6,2,1,24,MEM,DEN,block,41,True,False,block,block,50-58,50,58
 0022000874,2021-04-19,DEN,MEM,22.6,2,1,24,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,50-58,50,58
 0022000874,2021-04-19,DEN,MEM,22.6,2,1,24,DEN,MEM,foul,11,False,False,,Allen T.FOUL (P0.PN) (S.Corbin),50-58,50,58
-0022000874,2021-04-19,DEN,MEM,22.6,2,1,24,MEM,DEN,block,41,True,False,block,block,50-58,50,58
 0022000874,2021-04-19,DEN,MEM,22.6,2,1,24,DEN,DEN,ft_make,16,False,False,Barton Free Throw Technical (15 PTS),,51-58,51,58
 0022000874,2021-04-19,DEN,MEM,22.78,2,1,13,MEM,MEM,fg3_miss,1,False,False,,MISS Allen 25' 3PT Jump Shot,51-58,51,58
 0022000874,2021-04-19,DEN,MEM,22.83,2,1,10,DEN,DEN,reb,0,False,False,Gordon REBOUND (Off:2 Def:2),,51-58,51,58
@@ -228,8 +228,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000874,2021-04-19,DEN,MEM,24.33,3,11,40,MEM,MEM,reb,0,False,False,,Morant REBOUND (Off:0 Def:2),56-60,56,60
 0022000874,2021-04-19,DEN,MEM,24.52,3,11,29,MEM,MEM,fg_make,101,False,False,,Allen 10' Driving Floating Jump Shot (16 PTS) (Bane 1 AST),56-62,56,62
 0022000874,2021-04-19,DEN,MEM,24.85,3,11,9,DEN,MEM,foul,1,False,False,,Anderson P.FOUL (P1.T1) (S.Corbin),56-62,56,62
-0022000874,2021-04-19,DEN,MEM,24.93,3,11,4,DEN,DEN,fg_make,5,False,False,Jokic 8' Layup (18 PTS),,58-62,58,62
 0022000874,2021-04-19,DEN,MEM,24.93,3,11,4,DEN,MEM,foul,2,False,False,,Tillman S.FOUL (P2.T2) (B.Forte),58-62,58,62
+0022000874,2021-04-19,DEN,MEM,24.93,3,11,4,DEN,DEN,fg_make,5,False,False,Jokic 8' Layup (18 PTS),,58-62,58,62
 0022000874,2021-04-19,DEN,MEM,24.93,3,11,4,DEN,DEN,ft_make,10,False,False,Jokic Free Throw 1 of 1 (19 PTS),,59-62,59,62
 0022000874,2021-04-19,DEN,MEM,25.08,3,10,55,MEM,DEN,foul,2,False,False,Campazzo S.FOUL (P2.T1) (B.Forte),,59-62,59,62
 0022000874,2021-04-19,DEN,MEM,25.08,3,10,55,MEM,MEM,ft_make,11,False,False,,Allen Free Throw 1 of 2 (17 PTS),59-63,59,63
@@ -270,9 +270,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000874,2021-04-19,DEN,MEM,29.1,3,6,54,MEM,MEM,fg_miss,75,False,False,,MISS Morant 4' Driving Finger Roll Layup,68-72,68,72
 0022000874,2021-04-19,DEN,MEM,29.1,3,6,54,MEM,MEM,reb,0,False,False,,Morant REBOUND (Off:1 Def:4),68-72,68,72
 0022000874,2021-04-19,DEN,MEM,29.1,3,6,54,MEM,DEN,foul,2,False,False,Jokic S.FOUL (P1.T3) (B.Forte),,68-72,68,72
-0022000874,2021-04-19,DEN,MEM,29.1,3,6,54,MEM,DEN,violation,1,False,False,NUGGETS Violation: Delay of game Violation,,68-72,68,72
 0022000874,2021-04-19,DEN,MEM,29.1,3,6,54,MEM,MEM,ft_make,11,False,False,,Morant Free Throw 1 of 2 (9 PTS),68-73,68,73
 0022000874,2021-04-19,DEN,MEM,29.1,3,6,54,MEM,MEM,ft_make,12,False,False,,Morant Free Throw 2 of 2 (10 PTS),68-74,68,74
+0022000874,2021-04-19,DEN,MEM,29.1,3,6,54,MEM,DEN,violation,1,False,False,NUGGETS Violation: Delay of game Violation,,68-72,68,72
 0022000874,2021-04-19,DEN,MEM,29.28,3,6,43,DEN,DEN,fg_make,79,False,False,Jokic 10' Pullup Jump Shot (21 PTS) (Barton 4 AST),,70-74,70,74
 0022000874,2021-04-19,DEN,MEM,29.68,3,6,19,MEM,MEM,fg3_miss,79,False,False,,MISS Anderson 25' 3PT Pullup Jump Shot,70-74,70,74
 0022000874,2021-04-19,DEN,MEM,29.72,3,6,17,DEN,DEN,reb,0,False,False,Gordon REBOUND (Off:2 Def:6),,70-74,70,74
@@ -452,8 +452,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000874,2021-04-19,DEN,MEM,51.15,5,1,51,DEN,DEN,fg3_miss,1,False,False,MISS Dozier 26' 3PT Jump Shot,,120-125,120,125
 0022000874,2021-04-19,DEN,MEM,51.18,5,1,49,MEM,MEM,reb,0,False,False,,Tillman REBOUND (Off:3 Def:9),120-125,120,125
 0022000874,2021-04-19,DEN,MEM,51.33,5,1,40,DEN,MEM,foul,4,False,False,,Morant OFF.Foul (P1) (S.Corbin),120-125,120,125
-0022000874,2021-04-19,DEN,MEM,51.33,5,1,40,MEM,MEM,tov,37,False,False,,Morant Offensive Foul Turnover (P4.T13),120-125,120,125
 0022000874,2021-04-19,DEN,MEM,51.33,5,1,40,DEN,DEN,timeout,7,False,False,NUGGETS Timeout: Coach Challenge (Full 7 Short 0),,120-125,120,125
+0022000874,2021-04-19,DEN,MEM,51.33,5,1,40,MEM,MEM,tov,37,False,False,,Morant Offensive Foul Turnover (P4.T13),120-125,120,125
 0022000874,2021-04-19,DEN,MEM,51.52,5,1,29,DEN,DEN,fg_make,1,False,False,Jokic 18' Jump Shot (38 PTS),,122-125,122,125
 0022000874,2021-04-19,DEN,MEM,51.88,5,1,7,MEM,MEM,fg_miss,105,False,False,,MISS Melton 5' Turnaround Fadeaway Bank Jump Shot,122-125,122,125
 0022000874,2021-04-19,DEN,MEM,51.92,5,1,5,DEN,DEN,reb,0,False,False,Barton REBOUND (Off:1 Def:4),,122-125,122,125
@@ -490,8 +490,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000874,2021-04-19,DEN,MEM,55.4,6,2,36,DEN,DEN,fg_miss,79,False,False,MISS Barton 19' Pullup Jump Shot,,129-130,129,130
 0022000874,2021-04-19,DEN,MEM,55.45,6,2,33,DEN,DEN,reb,0,False,False,Dozier REBOUND (Off:2 Def:3),,129-130,129,130
 0022000874,2021-04-19,DEN,MEM,55.47,6,2,32,DEN,DEN,fg_miss,1,True,False,MISS Dozier 4' Jump Shot,,129-130,129,130
-0022000874,2021-04-19,DEN,MEM,55.47,6,2,32,MEM,MEM,reb,0,False,False,,Tillman REBOUND (Off:3 Def:10),129-130,129,130
 0022000874,2021-04-19,DEN,MEM,55.47,6,2,32,DEN,MEM,block,1,True,False,block,block,129-130,129,130
+0022000874,2021-04-19,DEN,MEM,55.47,6,2,32,MEM,MEM,reb,0,False,False,,Tillman REBOUND (Off:3 Def:10),129-130,129,130
 0022000874,2021-04-19,DEN,MEM,55.5,6,2,30,MEM,DEN,foul,1,False,False,Dozier P.FOUL (P1.T2) (S.Corbin),,129-130,129,130
 0022000874,2021-04-19,DEN,MEM,55.77,6,2,14,MEM,DEN,foul,2,False,False,Porter Jr. S.FOUL (P3.T3) (B.Forte),,129-130,129,130
 0022000874,2021-04-19,DEN,MEM,55.77,6,2,14,MEM,MEM,ft_make,11,False,False,,Anderson Free Throw 1 of 2 (10 PTS),129-131,129,131

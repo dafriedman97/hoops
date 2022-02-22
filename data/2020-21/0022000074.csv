@@ -103,8 +103,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000074,2021-01-01,MIN,WAS,12.82,2,11,11,MIN,MIN,fg_miss,6,False,False,MISS McLaughlin 1' Driving Layup,,25-39,25,39
 0022000074,2021-01-01,MIN,WAS,12.85,2,11,9,MIN,MIN,reb,0,False,False,Davis REBOUND (Off:3 Def:0),,25-39,25,39
 0022000074,2021-01-01,MIN,WAS,12.88,2,11,7,MIN,MIN,fg_miss,72,True,False,MISS Davis 2' Putback Layup,,25-39,25,39
-0022000074,2021-01-01,MIN,WAS,12.88,2,11,7,MIN,MIN,reb,0,False,False,Davis REBOUND (Off:4 Def:0),,25-39,25,39
 0022000074,2021-01-01,MIN,WAS,12.88,2,11,7,MIN,WAS,block,72,True,False,block,block,25-39,25,39
+0022000074,2021-01-01,MIN,WAS,12.88,2,11,7,MIN,MIN,reb,0,False,False,Davis REBOUND (Off:4 Def:0),,25-39,25,39
 0022000074,2021-01-01,MIN,WAS,12.97,2,11,2,MIN,MIN,fg3_make,1,False,False,Hernangomez 25' 3PT Jump Shot (5 PTS) (Davis 1 AST),,28-39,28,39
 0022000074,2021-01-01,MIN,WAS,13.27,2,10,44,WAS,WAS,fg_miss,63,False,False,,MISS Smith 9' Fadeaway Jumper,28-39,28,39
 0022000074,2021-01-01,MIN,WAS,13.32,2,10,41,MIN,MIN,reb,0,False,False,McLaughlin REBOUND (Off:0 Def:1),,28-39,28,39
@@ -212,8 +212,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000074,2021-01-01,MIN,WAS,23.93,2,0,4,MIN,MIN,reb,0,False,False,Russell REBOUND (Off:1 Def:3),,55-60,55,60
 0022000074,2021-01-01,MIN,WAS,23.98,2,0,1,MIN,MIN,fg_miss,97,False,False,MISS Russell 1' Tip Layup Shot,,55-60,55,60
 0022000074,2021-01-01,MIN,WAS,23.98,2,0,1,MIN,MIN,reb,0,False,False,Reid REBOUND (Off:1 Def:5),,55-60,55,60
-0022000074,2021-01-01,MIN,WAS,24.0,2,0,0,MIN,MIN,fg_make,97,False,False,Reid 1' Tip Layup Shot (12 PTS),,57-60,57,60
 0022000074,2021-01-01,MIN,WAS,24.0,2,0,0,MIN,,period_end,0,False,False,,,57-60,57,60
+0022000074,2021-01-01,MIN,WAS,24.0,2,0,0,MIN,MIN,fg_make,97,False,False,Reid 1' Tip Layup Shot (12 PTS),,57-60,57,60
 0022000074,2021-01-01,MIN,WAS,24.0,3,12,0,MIN,,period_start,0,False,False,,,57-60,57,60
 0022000074,2021-01-01,MIN,WAS,24.28,3,11,43,MIN,MIN,fg_miss,73,False,False,MISS Rubio 3' Driving Reverse Layup,,57-60,57,60
 0022000074,2021-01-01,MIN,WAS,24.33,3,11,40,WAS,WAS,reb,0,False,False,,Bryant REBOUND (Off:1 Def:3),57-60,57,60
@@ -236,8 +236,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000074,2021-01-01,MIN,WAS,26.22,3,9,47,WAS,WAS,ft_make,12,False,False,,Bryant Free Throw 2 of 2 (11 PTS),60-71,60,71
 0022000074,2021-01-01,MIN,WAS,26.52,3,9,29,MIN,MIN,fg_make,101,False,False,Beasley 9' Driving Floating Jump Shot (16 PTS),,62-71,62,71
 0022000074,2021-01-01,MIN,WAS,26.82,3,9,11,WAS,WAS,tov,1,False,True,,Bryant Bad Pass Turnover (P1.T3),62-71,62,71
-0022000074,2021-01-01,MIN,WAS,26.82,3,9,11,MIN,WAS,foul,2,False,False,,Beal S.FOUL (P1.T3) (E.Dalen),62-71,62,71
 0022000074,2021-01-01,MIN,WAS,26.82,3,9,11,WAS,MIN,steal,1,False,True,steal,steal,62-71,62,71
+0022000074,2021-01-01,MIN,WAS,26.82,3,9,11,MIN,WAS,foul,2,False,False,,Beal S.FOUL (P1.T3) (E.Dalen),62-71,62,71
 0022000074,2021-01-01,MIN,WAS,26.82,3,9,11,MIN,MIN,ft_make,11,False,False,Layman Free Throw 1 of 2 (10 PTS),,63-71,63,71
 0022000074,2021-01-01,MIN,WAS,26.82,3,9,11,MIN,MIN,ft_make,12,False,False,Layman Free Throw 2 of 2 (11 PTS),,64-71,64,71
 0022000074,2021-01-01,MIN,WAS,27.05,3,8,57,WAS,WAS,fg_make,86,False,False,,Beal 12' Turnaround Fadeaway (25 PTS),64-73,64,73

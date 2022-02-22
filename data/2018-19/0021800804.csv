@@ -5,8 +5,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800804,2019-02-06,BKN,DEN,0.3,1,11,42,DEN,DEN,tov,1,False,True,,Murray Bad Pass Turnover (P1.T1),0-0,0,0
 0021800804,2019-02-06,BKN,DEN,0.3,1,11,42,DEN,BKN,steal,1,False,True,steal,steal,0-0,0,0
 0021800804,2019-02-06,BKN,DEN,0.57,1,11,26,BKN,BKN,fg_miss,5,True,False,MISS Allen 3' Layup,,0-0,0,0
-0021800804,2019-02-06,BKN,DEN,0.57,1,11,26,DEN,DEN,reb,0,False,False,,Plumlee REBOUND (Off:0 Def:1),0-0,0,0
 0021800804,2019-02-06,BKN,DEN,0.57,1,11,26,BKN,DEN,block,5,True,False,block,block,0-0,0,0
+0021800804,2019-02-06,BKN,DEN,0.57,1,11,26,DEN,DEN,reb,0,False,False,,Plumlee REBOUND (Off:0 Def:1),0-0,0,0
 0021800804,2019-02-06,BKN,DEN,0.72,1,11,17,DEN,DEN,fg3_make,1,False,False,,Barton 24' 3PT Jump Shot (3 PTS) (Murray 1 AST),0-3,0,3
 0021800804,2019-02-06,BKN,DEN,0.92,1,11,5,BKN,BKN,fg3_miss,1,False,False,MISS Kurucs 26' 3PT Jump Shot,,0-3,0,3
 0021800804,2019-02-06,BKN,DEN,0.95,1,11,3,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:0 Def:1),0-3,0,3
@@ -100,8 +100,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800804,2019-02-06,BKN,DEN,11.32,1,0,41,BKN,BKN,ft_make,11,False,False,Davis Free Throw 1 of 2 (1 PTS),,27-35,27,35
 0021800804,2019-02-06,BKN,DEN,11.32,1,0,41,BKN,BKN,ft_make,12,False,False,Davis Free Throw 2 of 2 (2 PTS),,28-35,28,35
 0021800804,2019-02-06,BKN,DEN,11.48,1,0,31,DEN,DEN,fg_miss,6,True,False,,MISS Plumlee 5' Driving Layup,28-35,28,35
-0021800804,2019-02-06,BKN,DEN,11.48,1,0,31,BKN,BKN,reb,0,False,False,Carroll REBOUND (Off:0 Def:2),,28-35,28,35
 0021800804,2019-02-06,BKN,DEN,11.48,1,0,31,DEN,BKN,block,6,True,False,block,block,28-35,28,35
+0021800804,2019-02-06,BKN,DEN,11.48,1,0,31,BKN,BKN,reb,0,False,False,Carroll REBOUND (Off:0 Def:2),,28-35,28,35
 0021800804,2019-02-06,BKN,DEN,11.53,1,0,28,BKN,BKN,fg_make,50,False,False,Russell 2' Running Dunk (4 PTS) (Carroll 3 AST),,30-35,30,35
 0021800804,2019-02-06,BKN,DEN,11.92,1,0,5,DEN,DEN,fg3_miss,1,False,False,,MISS Murray 25' 3PT Jump Shot,30-35,30,35
 0021800804,2019-02-06,BKN,DEN,11.98,1,0,1,BKN,BKN,reb,0,False,False,Davis REBOUND (Off:0 Def:4),,30-35,30,35
@@ -170,8 +170,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800804,2019-02-06,BKN,DEN,18.72,2,5,17,DEN,DEN,tov,2,False,True,,Lyles Lost Ball Turnover (P2.T6),51-49,51,49
 0021800804,2019-02-06,BKN,DEN,18.72,2,5,17,DEN,BKN,steal,2,False,True,steal,steal,51-49,51,49
 0021800804,2019-02-06,BKN,DEN,18.78,2,5,13,BKN,BKN,fg_miss,41,True,False,MISS Carroll 2' Running Layup,,51-49,51,49
-0021800804,2019-02-06,BKN,DEN,18.78,2,5,13,BKN,BKN,reb,0,False,False,NETS Rebound,,51-49,51,49
 0021800804,2019-02-06,BKN,DEN,18.78,2,5,13,BKN,DEN,block,41,True,False,block,block,51-49,51,49
+0021800804,2019-02-06,BKN,DEN,18.78,2,5,13,BKN,BKN,reb,0,False,False,NETS Rebound,,51-49,51,49
 0021800804,2019-02-06,BKN,DEN,18.88,2,5,7,BKN,DEN,foul,2,False,False,,Plumlee S.FOUL (P3.PN) (S.Wall),51-49,51,49
 0021800804,2019-02-06,BKN,DEN,18.88,2,5,7,BKN,BKN,ft_make,11,False,False,Allen Free Throw 1 of 2 (10 PTS),,52-49,52,49
 0021800804,2019-02-06,BKN,DEN,18.88,2,5,7,BKN,BKN,ft_make,12,False,False,Allen Free Throw 2 of 2 (11 PTS),,53-49,53,49
@@ -180,9 +180,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800804,2019-02-06,BKN,DEN,19.32,2,4,41,BKN,BKN,fg_miss,98,False,False,MISS Hollis-Jefferson 5' Cutting Layup Shot,,53-49,53,49
 0021800804,2019-02-06,BKN,DEN,19.37,2,4,38,BKN,BKN,reb,0,False,False,Allen REBOUND (Off:2 Def:0),,53-49,53,49
 0021800804,2019-02-06,BKN,DEN,19.38,2,4,37,BKN,BKN,tov,1,False,True,Allen Bad Pass Turnover (P2.T6),,53-49,53,49
+0021800804,2019-02-06,BKN,DEN,19.38,2,4,37,BKN,DEN,steal,1,False,True,steal,steal,53-49,53,49
 0021800804,2019-02-06,BKN,DEN,19.38,2,4,37,DEN,BKN,foul,1,False,False,Hollis-Jefferson P.FOUL (P1.T3) (J.Williams),,53-49,53,49
 0021800804,2019-02-06,BKN,DEN,19.38,2,4,37,DEN,DEN,fg_miss,79,False,False,,MISS Murray 9' Pullup Jump Shot,53-49,53,49
-0021800804,2019-02-06,BKN,DEN,19.38,2,4,37,BKN,DEN,steal,1,False,True,steal,steal,53-49,53,49
 0021800804,2019-02-06,BKN,DEN,19.63,2,4,22,DEN,DEN,reb,0,False,False,,Nuggets Rebound,53-49,53,49
 0021800804,2019-02-06,BKN,DEN,19.63,2,4,22,DEN,BKN,foul,3,False,False,Allen L.B.FOUL (P2.T4) (S.Wall),,53-49,53,49
 0021800804,2019-02-06,BKN,DEN,19.78,2,4,13,DEN,BKN,foul,2,False,False,Hollis-Jefferson S.FOUL (P2.PN) (J.Williams),,53-49,53,49
@@ -298,8 +298,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800804,2019-02-06,BKN,DEN,31.07,3,4,56,DEN,DEN,reb,0,False,False,,Vanderbilt REBOUND (Off:1 Def:1),93-79,93,79
 0021800804,2019-02-06,BKN,DEN,31.12,3,4,53,DEN,DEN,fg3_make,1,False,False,,Lyles 3PT Jump Shot (15 PTS),93-82,93,82
 0021800804,2019-02-06,BKN,DEN,31.45,3,4,33,BKN,BKN,fg_miss,6,True,False,MISS Russell 2' Driving Layup,,93-82,93,82
-0021800804,2019-02-06,BKN,DEN,31.45,3,4,33,BKN,BKN,reb,0,False,False,NETS Rebound,,93-82,93,82
 0021800804,2019-02-06,BKN,DEN,31.45,3,4,33,BKN,DEN,block,6,True,False,block,block,93-82,93,82
+0021800804,2019-02-06,BKN,DEN,31.45,3,4,33,BKN,BKN,reb,0,False,False,NETS Rebound,,93-82,93,82
 0021800804,2019-02-06,BKN,DEN,31.67,3,4,20,BKN,BKN,fg3_miss,1,False,False,MISS Hollis-Jefferson 24' 3PT Jump Shot,,93-82,93,82
 0021800804,2019-02-06,BKN,DEN,31.72,3,4,17,DEN,DEN,reb,0,False,False,,Lyles REBOUND (Off:2 Def:3),93-82,93,82
 0021800804,2019-02-06,BKN,DEN,31.82,3,4,11,DEN,DEN,fg3_miss,1,False,False,,MISS Hernangomez 26' 3PT Jump Shot,93-82,93,82
@@ -317,10 +317,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800804,2019-02-06,BKN,DEN,32.95,3,3,3,DEN,DEN,fg_miss,79,False,False,,MISS Morris 21' Pullup Jump Shot,95-84,95,84
 0021800804,2019-02-06,BKN,DEN,33.0,3,3,0,BKN,BKN,reb,0,False,False,Harris REBOUND (Off:0 Def:4),,95-84,95,84
 0021800804,2019-02-06,BKN,DEN,33.1,3,2,54,BKN,BKN,fg3_make,1,False,False,Harris 25' 3PT Jump Shot (13 PTS) (Hollis-Jefferson 1 AST),,98-84,98,84
-0021800804,2019-02-06,BKN,DEN,33.37,3,2,38,DEN,DEN,fg_miss,6,True,False,,MISS Hernangomez 4' Driving Layup,98-84,98,84
-0021800804,2019-02-06,BKN,DEN,33.37,3,2,38,BKN,BKN,reb,0,False,False,NETS Rebound,,98-84,98,84
 0021800804,2019-02-06,BKN,DEN,33.37,3,2,38,,BKN,jump_ball,0,False,False,Jump Ball Davis vs. Hernangomez: Tip to Napier,,98-84,98,84
+0021800804,2019-02-06,BKN,DEN,33.37,3,2,38,DEN,DEN,fg_miss,6,True,False,,MISS Hernangomez 4' Driving Layup,98-84,98,84
 0021800804,2019-02-06,BKN,DEN,33.37,3,2,38,DEN,BKN,block,6,True,False,block,block,98-84,98,84
+0021800804,2019-02-06,BKN,DEN,33.37,3,2,38,BKN,BKN,reb,0,False,False,NETS Rebound,,98-84,98,84
 0021800804,2019-02-06,BKN,DEN,33.38,3,2,37,BKN,DEN,foul,2,False,False,,Morris S.FOUL (P3.T2) (S.Wall),98-84,98,84
 0021800804,2019-02-06,BKN,DEN,33.38,3,2,37,BKN,BKN,ft_make,11,False,False,Napier Free Throw 1 of 2 (7 PTS),,99-84,99,84
 0021800804,2019-02-06,BKN,DEN,33.38,3,2,37,BKN,BKN,ft_make,12,False,False,Napier Free Throw 2 of 2 (8 PTS),,100-84,100,84
@@ -413,9 +413,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800804,2019-02-06,BKN,DEN,42.47,4,5,32,BKN,BKN,reb,0,False,False,Davis REBOUND (Off:1 Def:6),,123-109,123,109
 0021800804,2019-02-06,BKN,DEN,42.55,4,5,27,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 4 Short 0),,123-109,123,109
 0021800804,2019-02-06,BKN,DEN,42.83,4,5,10,BKN,BKN,fg3_miss,79,True,False,MISS Harris 27' 3PT Pullup Jump Shot,,123-109,123,109
+0021800804,2019-02-06,BKN,DEN,42.83,4,5,10,BKN,DEN,block,79,True,False,block,block,123-109,123,109
 0021800804,2019-02-06,BKN,DEN,42.83,4,5,10,BKN,BKN,reb,0,False,False,NETS Rebound,,123-109,123,109
 0021800804,2019-02-06,BKN,DEN,42.83,4,5,10,BKN,BKN,tov,11,False,False,NETS Turnover: Shot Clock (T#13),,123-109,123,109
-0021800804,2019-02-06,BKN,DEN,42.83,4,5,10,BKN,DEN,block,79,True,False,block,block,123-109,123,109
 0021800804,2019-02-06,BKN,DEN,43.08,4,4,55,DEN,DEN,fg_make,57,False,False,,Plumlee 8' Driving Hook Shot (22 PTS) (Jokic 8 AST),123-111,123,111
 0021800804,2019-02-06,BKN,DEN,43.33,4,4,40,BKN,BKN,fg3_miss,1,False,False,MISS Graham 25' 3PT Jump Shot,,123-111,123,111
 0021800804,2019-02-06,BKN,DEN,43.37,4,4,38,BKN,BKN,reb,0,False,False,Russell REBOUND (Off:1 Def:5),,123-111,123,111

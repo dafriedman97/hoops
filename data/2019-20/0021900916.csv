@@ -49,16 +49,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900916,2020-03-03,SAC,WAS,6.6,1,5,24,WAS,WAS,fg3_miss,1,False,False,,MISS Wagner 25' 3PT Jump Shot,20-14,20,14
 0021900916,2020-03-03,SAC,WAS,6.63,1,5,22,SAC,SAC,reb,0,False,False,Fox REBOUND (Off:0 Def:1),,20-14,20,14
 0021900916,2020-03-03,SAC,WAS,6.73,1,5,16,SAC,SAC,fg3_miss,1,False,False,MISS Fox 26' 3PT Jump Shot,,20-14,20,14
-0021900916,2020-03-03,SAC,WAS,6.85,1,5,9,SAC,SAC,fg_make,107,False,False,Len 1' Tip Dunk Shot (2 PTS),,22-14,22,14
 0021900916,2020-03-03,SAC,WAS,6.85,1,5,9,SAC,SAC,reb,0,False,False,Len REBOUND (Off:1 Def:0),,22-14,22,14
+0021900916,2020-03-03,SAC,WAS,6.85,1,5,9,SAC,SAC,fg_make,107,False,False,Len 1' Tip Dunk Shot (2 PTS),,22-14,22,14
 0021900916,2020-03-03,SAC,WAS,7.0,1,5,0,WAS,WAS,fg_miss,1,False,False,,MISS Hachimura 16' Jump Shot,22-14,22,14
 0021900916,2020-03-03,SAC,WAS,7.05,1,4,57,SAC,SAC,reb,0,False,False,Bjelica REBOUND (Off:0 Def:2),,22-14,22,14
 0021900916,2020-03-03,SAC,WAS,7.18,1,4,49,SAC,SAC,fg3_miss,1,False,False,MISS Bogdanovic 25' 3PT Jump Shot,,22-14,22,14
 0021900916,2020-03-03,SAC,WAS,7.25,1,4,45,SAC,SAC,reb,0,False,False,Bjelica REBOUND (Off:1 Def:2),,22-14,22,14
 0021900916,2020-03-03,SAC,WAS,7.32,1,4,41,SAC,SAC,fg_make,78,False,False,Fox 7' Floating Jump Shot (4 PTS),,24-14,24,14
 0021900916,2020-03-03,SAC,WAS,7.5,1,4,30,WAS,WAS,fg_miss,6,True,False,,MISS Beal 2' Driving Layup,24-14,24,14
-0021900916,2020-03-03,SAC,WAS,7.5,1,4,30,WAS,WAS,reb,0,False,False,,Wizards Rebound,24-14,24,14
 0021900916,2020-03-03,SAC,WAS,7.5,1,4,30,WAS,SAC,block,6,True,False,block,block,24-14,24,14
+0021900916,2020-03-03,SAC,WAS,7.5,1,4,30,WAS,WAS,reb,0,False,False,,Wizards Rebound,24-14,24,14
 0021900916,2020-03-03,SAC,WAS,7.7,1,4,18,WAS,WAS,fg_make,9,False,False,,Beal 1' Driving Dunk (10 PTS),24-16,24,16
 0021900916,2020-03-03,SAC,WAS,7.88,1,4,7,SAC,SAC,fg_miss,98,False,False,MISS Bazemore 2' Cutting Layup Shot,,24-16,24,16
 0021900916,2020-03-03,SAC,WAS,7.92,1,4,5,WAS,WAS,reb,0,False,False,,Bertans REBOUND (Off:0 Def:1),24-16,24,16
@@ -117,9 +117,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900916,2020-03-03,SAC,WAS,14.95,2,9,3,SAC,SAC,fg_make,6,False,False,Joseph 2' Driving Layup (5 PTS),,45-30,45,30
 0021900916,2020-03-03,SAC,WAS,15.08,2,8,55,WAS,WAS,fg3_make,1,False,False,,Brown Jr. 3PT Jump Shot (5 PTS) (Bertans 1 AST),45-33,45,33
 0021900916,2020-03-03,SAC,WAS,15.47,2,8,32,SAC,SAC,fg_miss,3,True,False,MISS Giles III 4' Hook Shot,,45-33,45,33
+0021900916,2020-03-03,SAC,WAS,15.47,2,8,32,SAC,WAS,block,3,True,False,block,block,45-33,45,33
 0021900916,2020-03-03,SAC,WAS,15.47,2,8,32,SAC,SAC,reb,0,False,False,KINGS Rebound,,45-33,45,33
 0021900916,2020-03-03,SAC,WAS,15.47,2,8,32,SAC,SAC,timeout,1,False,False,KINGS Timeout: Regular (Full 2 Short 0),,45-33,45,33
-0021900916,2020-03-03,SAC,WAS,15.47,2,8,32,SAC,WAS,block,3,True,False,block,block,45-33,45,33
 0021900916,2020-03-03,SAC,WAS,15.53,2,8,28,SAC,SAC,fg3_make,1,False,False,Hield 24' 3PT Jump Shot (6 PTS) (Bjelica 3 AST),,48-33,48,33
 0021900916,2020-03-03,SAC,WAS,15.85,2,8,9,WAS,WAS,fg_miss,79,False,False,,MISS Beal 19' Pullup Jump Shot,48-33,48,33
 0021900916,2020-03-03,SAC,WAS,15.92,2,8,5,SAC,SAC,reb,0,False,False,Bjelica REBOUND (Off:1 Def:3),,48-33,48,33
@@ -303,13 +303,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900916,2020-03-03,SAC,WAS,34.42,3,1,35,SAC,WAS,steal,1,False,True,steal,steal,94-90,94,90
 0021900916,2020-03-03,SAC,WAS,34.6,3,1,24,WAS,WAS,fg3_miss,1,False,False,,MISS Bertans 27' 3PT Jump Shot,94-90,94,90
 0021900916,2020-03-03,SAC,WAS,34.68,3,1,19,SAC,SAC,reb,0,False,False,Bazemore REBOUND (Off:1 Def:4),,94-90,94,90
-0021900916,2020-03-03,SAC,WAS,34.83,3,1,10,SAC,SAC,tov,2,False,False,Fox Lost Ball Turnover (P5.T11),,94-90,94,90
 0021900916,2020-03-03,SAC,WAS,34.83,3,1,10,WAS,SAC,foul,3,False,False,Fox L.B.FOUL (P4.PN) (S.Twardoski),,94-90,94,90
 0021900916,2020-03-03,SAC,WAS,34.83,3,1,10,WAS,WAS,ft_make,11,False,False,,Smith Free Throw 1 of 2 (10 PTS),94-91,94,91
 0021900916,2020-03-03,SAC,WAS,34.83,3,1,10,WAS,WAS,ft_make,12,False,False,,Smith Free Throw 2 of 2 (11 PTS),94-92,94,92
+0021900916,2020-03-03,SAC,WAS,34.83,3,1,10,SAC,SAC,tov,2,False,False,Fox Lost Ball Turnover (P5.T11),,94-90,94,90
 0021900916,2020-03-03,SAC,WAS,35.02,3,0,59,SAC,SAC,fg_miss,1,True,False,MISS Hield 8' Jump Shot,,94-92,94,92
-0021900916,2020-03-03,SAC,WAS,35.02,3,0,59,SAC,SAC,reb,0,False,False,KINGS Rebound,,94-92,94,92
 0021900916,2020-03-03,SAC,WAS,35.02,3,0,59,SAC,WAS,block,1,True,False,block,block,94-92,94,92
+0021900916,2020-03-03,SAC,WAS,35.02,3,0,59,SAC,SAC,reb,0,False,False,KINGS Rebound,,94-92,94,92
 0021900916,2020-03-03,SAC,WAS,35.07,3,0,56,SAC,SAC,fg_miss,7,False,False,MISS Fox 2' Dunk,,94-92,94,92
 0021900916,2020-03-03,SAC,WAS,35.15,3,0,51,SAC,SAC,reb,0,False,False,Giles III REBOUND (Off:1 Def:5),,94-92,94,92
 0021900916,2020-03-03,SAC,WAS,35.17,3,0,50,SAC,SAC,tov,1,False,True,Giles III Bad Pass Turnover (P2.T12),,94-92,94,92

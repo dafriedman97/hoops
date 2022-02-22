@@ -215,8 +215,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800437,2018-12-16,CLE,PHI,22.37,2,1,38,PHI,PHI,reb,0,False,False,,Simmons REBOUND (Off:3 Def:3),54-57,54,57
 0021800437,2018-12-16,CLE,PHI,22.45,2,1,33,PHI,PHI,fg_make,44,False,False,,Chandler 1' Reverse Layup (5 PTS) (Simmons 9 AST),54-59,54,59
 0021800437,2018-12-16,CLE,PHI,22.7,2,1,18,CLE,CLE,fg_miss,6,True,False,MISS Zizic 2' Driving Layup,,54-59,54,59
-0021800437,2018-12-16,CLE,PHI,22.7,2,1,18,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,54-59,54,59
 0021800437,2018-12-16,CLE,PHI,22.7,2,1,18,CLE,PHI,block,6,True,False,block,block,54-59,54,59
+0021800437,2018-12-16,CLE,PHI,22.7,2,1,18,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,54-59,54,59
 0021800437,2018-12-16,CLE,PHI,22.82,2,1,11,CLE,PHI,foul,2,False,False,,Muscala S.FOUL (P1.T4) (Z.Zarba),54-59,54,59
 0021800437,2018-12-16,CLE,PHI,22.82,2,1,11,CLE,CLE,ft_make,11,False,False,Clarkson Free Throw 1 of 2 (11 PTS),,55-59,55,59
 0021800437,2018-12-16,CLE,PHI,22.82,2,1,11,CLE,CLE,ft_make,12,False,False,Clarkson Free Throw 2 of 2 (12 PTS),,56-59,56,59
@@ -224,8 +224,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800437,2018-12-16,CLE,PHI,23.25,2,0,45,CLE,CLE,fg_make,6,False,False,Clarkson 1' Driving Layup (14 PTS) (Dellavedova 5 AST),,58-61,58,61
 0021800437,2018-12-16,CLE,PHI,23.48,2,0,31,PHI,PHI,fg_make,57,False,False,,Simmons 8' Driving Hook Shot (15 PTS),58-63,58,63
 0021800437,2018-12-16,CLE,PHI,23.63,2,0,22,CLE,CLE,fg_miss,6,True,False,MISS Clarkson 5' Driving Layup,,58-63,58,63
-0021800437,2018-12-16,CLE,PHI,23.63,2,0,22,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,58-63,58,63
 0021800437,2018-12-16,CLE,PHI,23.63,2,0,22,CLE,PHI,block,6,True,False,block,block,58-63,58,63
+0021800437,2018-12-16,CLE,PHI,23.63,2,0,22,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,58-63,58,63
 0021800437,2018-12-16,CLE,PHI,23.87,2,0,8,CLE,CLE,fg_miss,6,True,False,MISS Burks 2' Driving Layup,,58-63,58,63
 0021800437,2018-12-16,CLE,PHI,23.87,2,0,8,CLE,PHI,block,6,True,False,block,block,58-63,58,63
 0021800437,2018-12-16,CLE,PHI,23.9,2,0,6,PHI,PHI,reb,0,False,False,,Korkmaz REBOUND (Off:0 Def:4),58-63,58,63
@@ -271,8 +271,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800437,2018-12-16,CLE,PHI,28.87,3,7,8,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,68-77,68,77
 0021800437,2018-12-16,CLE,PHI,28.87,3,7,8,CLE,PHI,foul,3,False,False,,Shamet L.B.FOUL (P1.T2) (Z.Zarba),68-77,68,77
 0021800437,2018-12-16,CLE,PHI,28.98,3,7,1,CLE,CLE,fg_miss,6,True,False,MISS Sexton 2' Driving Layup,,68-77,68,77
-0021800437,2018-12-16,CLE,PHI,28.98,3,7,1,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,68-77,68,77
 0021800437,2018-12-16,CLE,PHI,28.98,3,7,1,CLE,PHI,block,6,True,False,block,block,68-77,68,77
+0021800437,2018-12-16,CLE,PHI,28.98,3,7,1,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,68-77,68,77
 0021800437,2018-12-16,CLE,PHI,29.03,3,6,58,CLE,PHI,foul,2,False,False,,Simmons S.FOUL (P3.T3) (L.Wood),68-77,68,77
 0021800437,2018-12-16,CLE,PHI,29.03,3,6,58,CLE,CLE,ft_miss,11,False,False,MISS Osman Free Throw 1 of 2,,68-77,68,77
 0021800437,2018-12-16,CLE,PHI,29.03,3,6,58,CLE,CLE,reb,1,False,False,CAVALIERS Rebound,,68-77,68,77
@@ -334,10 +334,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800437,2018-12-16,CLE,PHI,35.52,3,0,29,CLE,CLE,fg_make,108,False,False,Nance Jr. 1' Cutting Dunk Shot (5 PTS) (Dellavedova 6 AST),,85-86,85,86
 0021800437,2018-12-16,CLE,PHI,35.87,3,0,8,PHI,PHI,fg3_make,1,False,False,,Chandler 24' 3PT Jump Shot (11 PTS) (McConnell 3 AST),85-89,85,89
 0021800437,2018-12-16,CLE,PHI,36.0,3,0,0,CLE,CLE,fg_miss,1,True,False,MISS Nance Jr. 19' Jump Shot,,85-89,85,89
+0021800437,2018-12-16,CLE,PHI,36.0,3,0,0,CLE,PHI,block,1,True,False,block,block,85-89,85,89
 0021800437,2018-12-16,CLE,PHI,36.0,3,0,0,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,85-89,85,89
 0021800437,2018-12-16,CLE,PHI,36.0,3,0,0,CLE,,period_end,0,False,False,,,85-89,85,89
 0021800437,2018-12-16,CLE,PHI,36.0,4,12,0,CLE,,period_start,0,False,False,,,85-89,85,89
-0021800437,2018-12-16,CLE,PHI,36.0,3,0,0,CLE,PHI,block,1,True,False,block,block,85-89,85,89
 0021800437,2018-12-16,CLE,PHI,36.2,4,11,48,PHI,CLE,foul,1,False,False,Nance Jr. P.FOUL (P3.T1) (L.Wood),,85-89,85,89
 0021800437,2018-12-16,CLE,PHI,36.33,4,11,40,PHI,PHI,fg_make,98,False,False,,Muscala Cutting Layup Shot (8 PTS) (McConnell 4 AST),85-91,85,91
 0021800437,2018-12-16,CLE,PHI,36.57,4,11,26,CLE,CLE,fg3_miss,79,False,False,MISS Clarkson 27' 3PT Pullup Jump Shot,,85-91,85,91

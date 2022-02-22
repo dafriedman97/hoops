@@ -109,8 +109,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900328,2019-12-06,SAS,SAC,12.98,2,11,1,SAS,SAS,ft_make,11,False,False,Murray Free Throw 1 of 2 (3 PTS),,27-19,27,19
 0021900328,2019-12-06,SAS,SAC,12.98,2,11,1,SAS,SAS,ft_make,12,False,False,Murray Free Throw 2 of 2 (4 PTS),,28-19,28,19
 0021900328,2019-12-06,SAS,SAC,13.17,2,10,50,SAC,SAC,fg_miss,6,True,False,,MISS Hield 3' Driving Layup,28-19,28,19
-0021900328,2019-12-06,SAS,SAC,13.17,2,10,50,SAC,SAC,reb,0,False,False,,Kings Rebound,28-19,28,19
 0021900328,2019-12-06,SAS,SAC,13.17,2,10,50,SAC,SAS,block,6,True,False,block,block,28-19,28,19
+0021900328,2019-12-06,SAS,SAC,13.17,2,10,50,SAC,SAC,reb,0,False,False,,Kings Rebound,28-19,28,19
 0021900328,2019-12-06,SAS,SAC,13.22,2,10,47,SAC,SAC,fg_make,5,False,False,,Ferrell 2' Layup (6 PTS) (Ariza 1 AST),28-21,28,21
 0021900328,2019-12-06,SAS,SAC,13.42,2,10,35,SAS,SAS,fg3_miss,79,False,False,MISS Mills 25' 3PT Pullup Jump Shot,,28-21,28,21
 0021900328,2019-12-06,SAS,SAC,13.48,2,10,31,SAC,SAC,reb,0,False,False,,Ariza REBOUND (Off:0 Def:3),28-21,28,21
@@ -125,8 +125,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900328,2019-12-06,SAS,SAC,14.45,2,9,33,SAC,SAC,fg_miss,79,False,False,,MISS Hield 16' Pullup Jump Shot,28-24,28,24
 0021900328,2019-12-06,SAS,SAC,14.52,2,9,29,SAC,SAC,reb,0,False,False,,Ariza REBOUND (Off:1 Def:3),28-24,28,24
 0021900328,2019-12-06,SAS,SAC,14.62,2,9,23,SAC,SAC,fg_miss,78,False,False,,MISS Bjelica 11' Floating Jump Shot,28-24,28,24
-0021900328,2019-12-06,SAS,SAC,14.62,2,9,23,SAC,SAC,reb,0,False,False,,Kings Rebound,28-24,28,24
 0021900328,2019-12-06,SAS,SAC,14.62,2,9,23,,SAS,jump_ball,0,False,False,Jump Ball Poeltl vs. Holmes: Tip to Ferrell,,28-24,28,24
+0021900328,2019-12-06,SAS,SAC,14.62,2,9,23,SAC,SAC,reb,0,False,False,,Kings Rebound,28-24,28,24
 0021900328,2019-12-06,SAS,SAC,14.82,2,9,11,SAC,SAC,fg3_make,79,False,False,,Hield 25' 3PT Pullup Jump Shot (3 PTS) (Ferrell 1 AST),28-27,28,27
 0021900328,2019-12-06,SAS,SAC,15.13,2,8,52,SAS,SAS,fg_miss,6,False,False,MISS White 4' Driving Layup,,28-27,28,27
 0021900328,2019-12-06,SAS,SAC,15.13,2,8,52,SAC,SAC,reb,0,False,False,,Kings Rebound,28-27,28,27
@@ -153,8 +153,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900328,2019-12-06,SAS,SAC,17.65,2,6,21,SAS,SAS,fg_miss,80,False,False,MISS White 16' Step Back Jump Shot,,34-32,34,32
 0021900328,2019-12-06,SAS,SAC,17.68,2,6,19,SAS,SAS,reb,0,False,False,Gay REBOUND (Off:2 Def:2),,34-32,34,32
 0021900328,2019-12-06,SAS,SAC,17.73,2,6,16,SAS,SAS,tov,2,False,True,Gay Lost Ball Turnover (P1.T5),,34-32,34,32
-0021900328,2019-12-06,SAS,SAC,17.73,2,6,16,SAC,SAS,foul,1,False,False,Belinelli P.FOUL (P1.T3) (D.Guthrie),,34-32,34,32
 0021900328,2019-12-06,SAS,SAC,17.73,2,6,16,SAS,SAC,steal,2,False,True,steal,steal,34-32,34,32
+0021900328,2019-12-06,SAS,SAC,17.73,2,6,16,SAC,SAS,foul,1,False,False,Belinelli P.FOUL (P1.T3) (D.Guthrie),,34-32,34,32
 0021900328,2019-12-06,SAS,SAC,18.03,2,5,58,SAC,SAC,fg_miss,6,False,False,,MISS Barnes 2' Driving Layup,34-32,34,32
 0021900328,2019-12-06,SAS,SAC,18.05,2,5,57,SAS,SAS,reb,0,False,False,Gay REBOUND (Off:2 Def:3),,34-32,34,32
 0021900328,2019-12-06,SAS,SAC,18.22,2,5,47,SAS,SAS,fg3_miss,1,False,False,MISS Gay 24' 3PT Jump Shot,,34-32,34,32
@@ -181,8 +181,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900328,2019-12-06,SAS,SAC,20.67,2,3,20,SAC,SAC,fg3_miss,1,False,False,,MISS Joseph 25' 3PT Jump Shot,39-33,39,33
 0021900328,2019-12-06,SAS,SAC,20.72,2,3,17,SAS,SAS,reb,0,False,False,Murray REBOUND (Off:0 Def:3),,39-33,39,33
 0021900328,2019-12-06,SAS,SAC,20.8,2,3,12,SAS,SAS,fg_miss,76,True,False,MISS Murray 3' Running Finger Roll Layup,,39-33,39,33
-0021900328,2019-12-06,SAS,SAC,20.8,2,3,12,SAS,SAS,reb,0,False,False,Aldridge REBOUND (Off:1 Def:6),,39-33,39,33
 0021900328,2019-12-06,SAS,SAC,20.8,2,3,12,SAS,SAC,block,76,True,False,block,block,39-33,39,33
+0021900328,2019-12-06,SAS,SAC,20.8,2,3,12,SAS,SAS,reb,0,False,False,Aldridge REBOUND (Off:1 Def:6),,39-33,39,33
 0021900328,2019-12-06,SAS,SAC,20.83,2,3,10,SAS,SAS,fg_make,72,False,False,Aldridge 1' Putback Layup (4 PTS),,41-33,41,33
 0021900328,2019-12-06,SAS,SAC,21.02,2,2,59,SAC,SAS,foul,2,False,False,Aldridge S.FOUL (P3.PN) (M.Boland),,41-33,41,33
 0021900328,2019-12-06,SAS,SAC,21.02,2,2,59,SAC,SAC,ft_make,11,False,False,,Barnes Free Throw 1 of 2 (4 PTS),41-34,41,34
@@ -303,8 +303,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900328,2019-12-06,SAS,SAC,33.65,3,2,21,SAS,SAS,tov,2,False,True,DeRozan Lost Ball Turnover (P1.T9),,66-65,66,65
 0021900328,2019-12-06,SAS,SAC,33.65,3,2,21,SAS,SAC,steal,2,False,True,steal,steal,66-65,66,65
 0021900328,2019-12-06,SAS,SAC,33.82,3,2,11,SAC,SAC,fg_miss,99,True,False,,MISS Dedmon 3' Cutting Finger Roll Layup Shot,66-65,66,65
-0021900328,2019-12-06,SAS,SAC,33.82,3,2,11,SAS,SAS,reb,0,False,False,Lyles REBOUND (Off:0 Def:2),,66-65,66,65
 0021900328,2019-12-06,SAS,SAC,33.82,3,2,11,SAC,SAS,block,99,True,False,block,block,66-65,66,65
+0021900328,2019-12-06,SAS,SAC,33.82,3,2,11,SAS,SAS,reb,0,False,False,Lyles REBOUND (Off:0 Def:2),,66-65,66,65
 0021900328,2019-12-06,SAS,SAC,33.97,3,2,2,SAC,SAS,foul,11,False,False,DeRozan T.FOUL (P2.T2) (M.Boland),,66-65,66,65
 0021900328,2019-12-06,SAS,SAC,33.97,3,2,2,SAC,SAC,ft_make,16,False,False,,Ferrell Free Throw Technical (13 PTS),66-66,66,66
 0021900328,2019-12-06,SAS,SAC,34.07,3,1,56,SAS,SAC,foul,1,False,False,,Dedmon P.FOUL (P4.PN) (D.Guthrie),66-66,66,66

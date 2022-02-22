@@ -96,9 +96,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800526,2018-12-28,LAL,LAC,8.23,1,3,46,LAC,LAC,ft_make,12,False,False,,Gallinari Free Throw 2 of 2 (3 PTS),10-16,10,16
 0021800526,2018-12-28,LAL,LAC,8.4,1,3,36,LAL,LAL,fg_make,9,False,False,Ingram 1' Driving Dunk (6 PTS),,12-16,12,16
 0021800526,2018-12-28,LAL,LAC,8.67,1,3,20,LAC,LAC,fg_miss,6,True,False,,MISS Gallinari 4' Driving Layup,12-16,12,16
+0021800526,2018-12-28,LAL,LAC,8.67,1,3,20,LAC,LAL,block,6,True,False,block,block,12-16,12,16
 0021800526,2018-12-28,LAL,LAC,8.67,1,3,20,LAC,LAC,reb,0,False,False,,Clippers Rebound,12-16,12,16
 0021800526,2018-12-28,LAL,LAC,8.67,1,3,20,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.1 Short 0),12-16,12,16
-0021800526,2018-12-28,LAL,LAC,8.67,1,3,20,LAC,LAL,block,6,True,False,block,block,12-16,12,16
 0021800526,2018-12-28,LAL,LAC,8.7,1,3,18,LAC,LAC,fg_miss,80,False,False,,MISS Scott 15' Step Back Jump Shot,12-16,12,16
 0021800526,2018-12-28,LAL,LAC,8.75,1,3,15,LAL,LAL,reb,0,False,False,Chandler REBOUND (Off:0 Def:2),,12-16,12,16
 0021800526,2018-12-28,LAL,LAC,8.97,1,3,2,LAL,LAL,fg_make,6,False,False,Caldwell-Pope 3' Driving Layup (2 PTS) (Chandler 2 AST),,14-16,14,16
@@ -282,8 +282,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800526,2018-12-28,LAL,LAC,28.08,3,7,55,LAC,LAL,block,6,True,False,block,block,66-58,66,58
 0021800526,2018-12-28,LAL,LAC,28.15,3,7,51,LAL,LAL,reb,0,False,False,Ball REBOUND (Off:1 Def:2),,66-58,66,58
 0021800526,2018-12-28,LAL,LAC,28.18,3,7,49,LAL,LAL,fg_miss,6,True,False,MISS Caldwell-Pope 3' Driving Layup,,66-58,66,58
-0021800526,2018-12-28,LAL,LAC,28.18,3,7,49,LAL,LAL,reb,0,False,False,LAKERS Rebound,,66-58,66,58
 0021800526,2018-12-28,LAL,LAC,28.18,3,7,49,LAL,LAC,block,6,True,False,block,block,66-58,66,58
+0021800526,2018-12-28,LAL,LAC,28.18,3,7,49,LAL,LAL,reb,0,False,False,LAKERS Rebound,,66-58,66,58
 0021800526,2018-12-28,LAL,LAC,28.22,3,7,47,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 24' 3PT Jump Shot,,66-58,66,58
 0021800526,2018-12-28,LAL,LAC,28.27,3,7,44,LAC,LAC,reb,0,False,False,,Gortat REBOUND (Off:0 Def:1),66-58,66,58
 0021800526,2018-12-28,LAL,LAC,28.37,3,7,38,LAC,LAC,fg3_miss,1,False,False,,MISS Gallinari 27' 3PT Jump Shot,66-58,66,58
@@ -299,8 +299,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800526,2018-12-28,LAL,LAC,29.33,3,6,40,LAL,LAL,tov,15,False,False,Zubac Offensive Goaltending Turnover (P1.T6),,70-60,70,60
 0021800526,2018-12-28,LAL,LAC,29.5,3,6,30,LAC,LAC,fg_make,98,False,False,,Bradley 1' Cutting Layup Shot (8 PTS) (Gortat 3 AST),70-62,70,62
 0021800526,2018-12-28,LAL,LAC,29.75,3,6,15,LAL,LAL,fg_miss,5,True,False,MISS Kuzma 4' Layup,,70-62,70,62
-0021800526,2018-12-28,LAL,LAC,29.75,3,6,15,LAL,LAL,reb,0,False,False,LAKERS Rebound,,70-62,70,62
 0021800526,2018-12-28,LAL,LAC,29.75,3,6,15,LAL,LAC,block,5,True,False,block,block,70-62,70,62
+0021800526,2018-12-28,LAL,LAC,29.75,3,6,15,LAL,LAL,reb,0,False,False,LAKERS Rebound,,70-62,70,62
 0021800526,2018-12-28,LAL,LAC,29.87,3,6,8,LAL,LAL,tov,2,False,True,Caldwell-Pope Lost Ball Turnover (P1.T7),,70-62,70,62
 0021800526,2018-12-28,LAL,LAC,29.87,3,6,8,LAL,LAC,steal,2,False,True,steal,steal,70-62,70,62
 0021800526,2018-12-28,LAL,LAC,29.88,3,6,7,LAC,LAC,tov,45,False,False,,Harris Out of Bounds - Bad Pass Turnover Turnover (P1.T12),70-62,70,62

@@ -124,8 +124,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800202,2018-11-14,ORL,PHI,15.22,2,8,47,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 2 Short 0),,31-41,31,41
 0021800202,2018-11-14,ORL,PHI,15.42,2,8,35,ORL,ORL,fg3_make,80,False,False,Simmons 25' 3PT Step Back Jump Shot (3 PTS),,34-41,34,41
 0021800202,2018-11-14,ORL,PHI,15.83,2,8,10,PHI,PHI,fg_miss,5,True,False,,MISS Korkmaz 6' Layup,34-41,34,41
-0021800202,2018-11-14,ORL,PHI,15.83,2,8,10,PHI,PHI,reb,0,False,False,,Fultz REBOUND (Off:1 Def:0),34-41,34,41
 0021800202,2018-11-14,ORL,PHI,15.83,2,8,10,PHI,ORL,block,5,True,False,block,block,34-41,34,41
+0021800202,2018-11-14,ORL,PHI,15.83,2,8,10,PHI,PHI,reb,0,False,False,,Fultz REBOUND (Off:1 Def:0),34-41,34,41
 0021800202,2018-11-14,ORL,PHI,15.88,2,8,7,PHI,PHI,tov,11,False,False,,76ers Turnover: Shot Clock (T#6),34-41,34,41
 0021800202,2018-11-14,ORL,PHI,16.22,2,7,47,ORL,ORL,fg_make,3,False,False,Vucevic 8' Hook Shot (11 PTS),,36-41,36,41
 0021800202,2018-11-14,ORL,PHI,16.37,2,7,38,PHI,PHI,fg3_miss,1,False,False,,MISS Chandler 26' 3PT Jump Shot,36-41,36,41
@@ -179,8 +179,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800202,2018-11-14,ORL,PHI,21.65,2,2,21,ORL,ORL,fg_make,6,False,False,Vucevic 2' Driving Layup (17 PTS),,48-48,48,48
 0021800202,2018-11-14,ORL,PHI,21.82,2,2,11,PHI,PHI,fg_make,79,False,False,,Shamet 17' Pullup Jump Shot (4 PTS) (Simmons 3 AST),48-50,48,50
 0021800202,2018-11-14,ORL,PHI,22.1,2,1,54,ORL,ORL,fg_miss,73,True,False,MISS Fournier 1' Driving Reverse Layup,,48-50,48,50
-0021800202,2018-11-14,ORL,PHI,22.1,2,1,54,ORL,ORL,reb,0,False,False,MAGIC Rebound,,48-50,48,50
 0021800202,2018-11-14,ORL,PHI,22.1,2,1,54,ORL,PHI,block,73,True,False,block,block,48-50,48,50
+0021800202,2018-11-14,ORL,PHI,22.1,2,1,54,ORL,ORL,reb,0,False,False,MAGIC Rebound,,48-50,48,50
 0021800202,2018-11-14,ORL,PHI,22.28,2,1,43,ORL,ORL,fg3_make,1,False,False,Gordon 26' 3PT Jump Shot (9 PTS) (Vucevic 2 AST),,51-50,51,50
 0021800202,2018-11-14,ORL,PHI,22.63,2,1,22,PHI,PHI,fg_miss,1,False,False,,MISS Embiid 13' Jump Shot,51-50,51,50
 0021800202,2018-11-14,ORL,PHI,22.67,2,1,20,ORL,ORL,reb,0,False,False,Ross REBOUND (Off:0 Def:4),,51-50,51,50
@@ -188,8 +188,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800202,2018-11-14,ORL,PHI,23.12,2,0,53,PHI,PHI,fg3_miss,1,False,False,,MISS Embiid 26' 3PT Jump Shot,53-50,53,50
 0021800202,2018-11-14,ORL,PHI,23.17,2,0,50,PHI,PHI,reb,0,False,False,,Muscala REBOUND (Off:1 Def:1),53-50,53,50
 0021800202,2018-11-14,ORL,PHI,23.2,2,0,48,PHI,PHI,fg_miss,5,True,False,,MISS Muscala 1' Layup,53-50,53,50
-0021800202,2018-11-14,ORL,PHI,23.2,2,0,48,ORL,ORL,reb,0,False,False,Gordon REBOUND (Off:0 Def:5),,53-50,53,50
 0021800202,2018-11-14,ORL,PHI,23.2,2,0,48,PHI,ORL,block,5,True,False,block,block,53-50,53,50
+0021800202,2018-11-14,ORL,PHI,23.2,2,0,48,ORL,ORL,reb,0,False,False,Gordon REBOUND (Off:0 Def:5),,53-50,53,50
 0021800202,2018-11-14,ORL,PHI,23.43,2,0,34,ORL,ORL,fg_miss,6,False,False,MISS Augustin 1' Driving Layup,,53-50,53,50
 0021800202,2018-11-14,ORL,PHI,23.47,2,0,32,PHI,PHI,reb,0,False,False,,Embiid REBOUND (Off:0 Def:8),53-50,53,50
 0021800202,2018-11-14,ORL,PHI,23.67,2,0,20,,ORL,jump_ball,0,False,False,Jump Ball Fournier vs. Shamet: Tip to Muscala,,53-50,53,50
@@ -206,11 +206,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800202,2018-11-14,ORL,PHI,24.57,3,11,26,ORL,ORL,fg_make,1,False,False,Iwundu 20' Jump Shot (8 PTS),,55-52,55,52
 0021800202,2018-11-14,ORL,PHI,24.87,3,11,8,PHI,PHI,fg_miss,3,False,False,,MISS Simmons 9' Hook Shot,55-52,55,52
 0021800202,2018-11-14,ORL,PHI,24.87,3,11,8,ORL,ORL,reb,0,False,False,Fournier REBOUND (Off:1 Def:1),,55-52,55,52
-0021800202,2018-11-14,ORL,PHI,24.95,3,11,3,ORL,ORL,fg_make,41,False,False,Gordon 3' Running Layup (11 PTS) (Augustin 5 AST),,57-52,57,52
 0021800202,2018-11-14,ORL,PHI,24.95,3,11,3,PHI,PHI,fg_miss,5,False,False,,MISS Chandler 1' Layup,57-52,57,52
 0021800202,2018-11-14,ORL,PHI,24.95,3,11,3,ORL,ORL,reb,0,False,False,MAGIC Rebound,,57-52,57,52
 0021800202,2018-11-14,ORL,PHI,24.95,3,11,3,ORL,PHI,foul,2,False,False,,Simmons S.FOUL (P2.T2) (C.Kirkland),57-52,57,52
 0021800202,2018-11-14,ORL,PHI,24.95,3,11,3,ORL,ORL,ft_make,10,False,False,Gordon Free Throw 1 of 1 (12 PTS),,58-52,58,52
+0021800202,2018-11-14,ORL,PHI,24.95,3,11,3,ORL,ORL,fg_make,41,False,False,Gordon 3' Running Layup (11 PTS) (Augustin 5 AST),,57-52,57,52
 0021800202,2018-11-14,ORL,PHI,25.22,3,10,47,PHI,PHI,fg_make,5,False,False,,Redick 2' Layup (14 PTS) (Embiid 7 AST),58-54,58,54
 0021800202,2018-11-14,ORL,PHI,25.4,3,10,36,ORL,ORL,fg3_miss,1,False,False,MISS Fournier 24' 3PT Jump Shot,,58-54,58,54
 0021800202,2018-11-14,ORL,PHI,25.48,3,10,31,PHI,PHI,reb,0,False,False,,Simmons REBOUND (Off:0 Def:3),58-54,58,54

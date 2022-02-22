@@ -122,8 +122,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800288,2018-11-25,ATL,CHA,13.15,2,10,51,CHA,CHA,reb,1,False,False,,Hornets Rebound,36-45,36,45
 0021800288,2018-11-25,ATL,CHA,13.15,2,10,51,CHA,CHA,ft_make,12,False,False,,Kaminsky Free Throw 2 of 2 (7 PTS),36-46,36,46
 0021800288,2018-11-25,ATL,CHA,13.4,2,10,36,ATL,ATL,fg_miss,3,True,False,MISS Collins 3' Hook Shot,,36-46,36,46
-0021800288,2018-11-25,ATL,CHA,13.4,2,10,36,ATL,ATL,reb,0,False,False,HAWKS Rebound,,36-46,36,46
 0021800288,2018-11-25,ATL,CHA,13.4,2,10,36,ATL,CHA,block,3,True,False,block,block,36-46,36,46
+0021800288,2018-11-25,ATL,CHA,13.4,2,10,36,ATL,ATL,reb,0,False,False,HAWKS Rebound,,36-46,36,46
 0021800288,2018-11-25,ATL,CHA,13.57,2,10,26,ATL,ATL,fg3_miss,79,False,False,MISS Young 27' 3PT Pullup Jump Shot,,36-46,36,46
 0021800288,2018-11-25,ATL,CHA,13.6,2,10,24,CHA,CHA,reb,0,False,False,,Bacon REBOUND (Off:0 Def:1),36-46,36,46
 0021800288,2018-11-25,ATL,CHA,13.87,2,10,8,CHA,ATL,foul,2,False,False,Bazemore S.FOUL (P1.T2) (M.Boland),,36-46,36,46
@@ -420,12 +420,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800288,2018-11-25,ATL,CHA,45.82,4,2,11,ATL,CHA,foul,1,False,False,,Walker P.FOUL (P2.T3) (H.Workman),118-119,118,119
 0021800288,2018-11-25,ATL,CHA,45.93,4,2,4,ATL,ATL,fg_make,98,False,False,Bazemore 1' Cutting Layup Shot (18 PTS) (Collins 4 AST),,120-119,120,119
 0021800288,2018-11-25,ATL,CHA,46.13,4,1,52,CHA,CHA,fg_miss,6,True,False,,MISS Walker 2' Driving Layup,120-119,120,119
+0021800288,2018-11-25,ATL,CHA,46.13,4,1,52,CHA,ATL,block,6,True,False,block,block,120-119,120,119
 0021800288,2018-11-25,ATL,CHA,46.13,4,1,52,CHA,CHA,reb,0,False,False,,Walker REBOUND (Off:1 Def:4),120-119,120,119
 0021800288,2018-11-25,ATL,CHA,46.13,4,1,52,CHA,ATL,foul,1,False,False,Bazemore P.FOUL (P4.T2) (H.Workman),,120-119,120,119
-0021800288,2018-11-25,ATL,CHA,46.13,4,1,52,CHA,ATL,block,6,True,False,block,block,120-119,120,119
 0021800288,2018-11-25,ATL,CHA,46.28,4,1,43,CHA,CHA,fg3_miss,1,False,False,,MISS Williams 3PT Jump Shot,120-119,120,119
-0021800288,2018-11-25,ATL,CHA,46.3,4,1,42,CHA,CHA,fg_miss,97,False,False,,MISS Zeller 4' Tip Layup Shot,120-119,120,119
 0021800288,2018-11-25,ATL,CHA,46.3,4,1,42,CHA,CHA,reb,0,False,False,,Zeller REBOUND (Off:3 Def:2),120-119,120,119
+0021800288,2018-11-25,ATL,CHA,46.3,4,1,42,CHA,CHA,fg_miss,97,False,False,,MISS Zeller 4' Tip Layup Shot,120-119,120,119
 0021800288,2018-11-25,ATL,CHA,46.35,4,1,39,ATL,ATL,reb,0,False,False,HAWKS Rebound,,120-119,120,119
 0021800288,2018-11-25,ATL,CHA,46.58,4,1,25,ATL,ATL,fg_make,7,False,False,Collins Dunk (23 PTS) (Young 5 AST),,122-119,122,119
 0021800288,2018-11-25,ATL,CHA,46.73,4,1,16,CHA,ATL,foul,1,False,False,Collins P.FOUL (P4.PN) (H.Workman),,122-119,122,119
@@ -442,6 +442,6 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800288,2018-11-25,ATL,CHA,47.93,4,0,4,ATL,ATL,fg_make,6,False,False,Bazemore 2' Driving Layup (20 PTS),,124-123,124,123
 0021800288,2018-11-25,ATL,CHA,47.93,4,0,4,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.5 Short 0),124-123,124,123
 0021800288,2018-11-25,ATL,CHA,47.98,4,0,1,CHA,CHA,fg_miss,6,True,False,,MISS Walker 10' Driving Layup,124-123,124,123
-0021800288,2018-11-25,ATL,CHA,47.98,4,0,1,ATL,ATL,reb,0,False,False,Huerter REBOUND (Off:2 Def:1),,124-123,124,123
 0021800288,2018-11-25,ATL,CHA,47.98,4,0,1,CHA,ATL,block,6,True,False,block,block,124-123,124,123
+0021800288,2018-11-25,ATL,CHA,47.98,4,0,1,ATL,ATL,reb,0,False,False,Huerter REBOUND (Off:2 Def:1),,124-123,124,123
 0021800288,2018-11-25,ATL,CHA,48.0,4,0,0,ATL,,period_end,0,False,False,,,124-123,124,123

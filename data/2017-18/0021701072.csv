@@ -126,8 +126,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701072,2018-03-22,CHA,MEM,15.28,2,8,43,MEM,MEM,fg_miss,1,False,False,,MISS Simmons 21' Jump Shot,46-20,46,20
 0021701072,2018-03-22,CHA,MEM,15.33,2,8,40,CHA,CHA,reb,0,False,False,Kaminsky REBOUND (Off:0 Def:1),,46-20,46,20
 0021701072,2018-03-22,CHA,MEM,15.53,2,8,28,CHA,CHA,fg_miss,9,True,False,MISS Bacon 3' Driving Dunk,,46-20,46,20
-0021701072,2018-03-22,CHA,MEM,15.53,2,8,28,CHA,CHA,reb,0,False,False,HORNETS Rebound,,46-20,46,20
 0021701072,2018-03-22,CHA,MEM,15.53,2,8,28,CHA,MEM,block,9,True,False,block,block,46-20,46,20
+0021701072,2018-03-22,CHA,MEM,15.53,2,8,28,CHA,CHA,reb,0,False,False,HORNETS Rebound,,46-20,46,20
 0021701072,2018-03-22,CHA,MEM,15.68,2,8,19,CHA,CHA,tov,2,False,True,Kidd-Gilchrist Lost Ball Turnover (P1.T1),,46-20,46,20
 0021701072,2018-03-22,CHA,MEM,15.68,2,8,19,CHA,MEM,steal,2,False,True,steal,steal,46-20,46,20
 0021701072,2018-03-22,CHA,MEM,15.88,2,8,7,MEM,MEM,fg_make,9,False,False,,Martin 1' Driving Dunk (6 PTS),46-22,46,22
@@ -312,9 +312,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701072,2018-03-22,CHA,MEM,35.38,3,0,37,CHA,CHA,fg_make,73,False,False,Bacon 1' Driving Reverse Layup (8 PTS) (Lamb 6 AST),,105-57,105,57
 0021701072,2018-03-22,CHA,MEM,35.62,3,0,23,MEM,MEM,tov,1,False,True,,McLemore Bad Pass Turnover (P1.T15),105-57,105,57
 0021701072,2018-03-22,CHA,MEM,35.62,3,0,23,MEM,CHA,steal,1,False,True,steal,steal,105-57,105,57
-0021701072,2018-03-22,CHA,MEM,35.67,3,0,20,CHA,MEM,foul,14,False,False,,McLemore FLAGRANT.FOUL.TYPE1 (P2.PN) (K.Mauer),105-57,105,57
 0021701072,2018-03-22,CHA,MEM,35.67,3,0,20,CHA,CHA,ft_make,18,False,False,Bacon Free Throw Flagrant 1 of 2 (9 PTS),,106-57,106,57
 0021701072,2018-03-22,CHA,MEM,35.67,3,0,20,CHA,CHA,ft_make,19,False,False,Bacon Free Throw Flagrant 2 of 2 (10 PTS),,107-57,107,57
+0021701072,2018-03-22,CHA,MEM,35.67,3,0,20,CHA,MEM,foul,14,False,False,,McLemore FLAGRANT.FOUL.TYPE1 (P2.PN) (K.Mauer),105-57,105,57
 0021701072,2018-03-22,CHA,MEM,35.73,3,0,16,CHA,MEM,foul,1,False,False,,Selden P.FOUL (P3.PN) (K.Mauer),107-57,107,57
 0021701072,2018-03-22,CHA,MEM,35.73,3,0,16,CHA,CHA,ft_make,11,False,False,Lamb Free Throw 1 of 2 (8 PTS),,108-57,108,57
 0021701072,2018-03-22,CHA,MEM,35.73,3,0,16,CHA,CHA,ft_make,12,False,False,Lamb Free Throw 2 of 2 (9 PTS),,109-57,109,57
@@ -363,8 +363,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701072,2018-03-22,CHA,MEM,41.27,4,6,44,CHA,MEM,foul,4,False,False,,Martin OFF.Foul (P4) (K.Mauer),124-63,124,63
 0021701072,2018-03-22,CHA,MEM,41.27,4,6,44,MEM,MEM,tov,37,False,False,,Martin Offensive Foul Turnover (P4.T18),124-63,124,63
 0021701072,2018-03-22,CHA,MEM,41.42,4,6,35,CHA,CHA,fg_miss,1,True,False,MISS Bacon 12' Jump Shot,,124-63,124,63
-0021701072,2018-03-22,CHA,MEM,41.42,4,6,35,CHA,CHA,reb,0,False,False,HORNETS Rebound,,124-63,124,63
 0021701072,2018-03-22,CHA,MEM,41.42,4,6,35,CHA,MEM,block,1,True,False,block,block,124-63,124,63
+0021701072,2018-03-22,CHA,MEM,41.42,4,6,35,CHA,CHA,reb,0,False,False,HORNETS Rebound,,124-63,124,63
 0021701072,2018-03-22,CHA,MEM,41.45,4,6,33,CHA,CHA,fg3_miss,1,False,False,MISS Graham 25' 3PT Jump Shot,,124-63,124,63
 0021701072,2018-03-22,CHA,MEM,41.52,4,6,29,CHA,CHA,reb,0,False,False,Graham REBOUND (Off:1 Def:0),,124-63,124,63
 0021701072,2018-03-22,CHA,MEM,41.53,4,6,28,CHA,CHA,fg_make,7,False,False,Mathiang 1' Dunk (4 PTS) (Graham 1 AST),,126-63,126,63
@@ -379,9 +379,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701072,2018-03-22,CHA,MEM,42.48,4,5,31,MEM,MEM,reb,0,False,False,,Selden REBOUND (Off:0 Def:1),126-65,126,65
 0021701072,2018-03-22,CHA,MEM,42.57,4,5,26,MEM,MEM,fg_make,3,False,False,,Davis 5' Hook Shot (4 PTS) (Selden 1 AST),126-67,126,67
 0021701072,2018-03-22,CHA,MEM,42.98,4,5,1,CHA,CHA,fg3_miss,1,True,False,MISS Stone 27' 3PT Jump Shot,,126-67,126,67
+0021701072,2018-03-22,CHA,MEM,42.98,4,5,1,CHA,MEM,block,1,True,False,block,block,126-67,126,67
 0021701072,2018-03-22,CHA,MEM,42.98,4,5,1,CHA,CHA,reb,0,False,False,HORNETS Rebound,,126-67,126,67
 0021701072,2018-03-22,CHA,MEM,42.98,4,5,1,CHA,CHA,tov,11,False,False,HORNETS Turnover: Shot Clock (T#8),,126-67,126,67
-0021701072,2018-03-22,CHA,MEM,42.98,4,5,1,CHA,MEM,block,1,True,False,block,block,126-67,126,67
 0021701072,2018-03-22,CHA,MEM,43.13,4,4,52,MEM,MEM,fg3_make,1,False,False,,Selden 27' 3PT Jump Shot (14 PTS) (Simmons 4 AST),126-70,126,70
 0021701072,2018-03-22,CHA,MEM,43.58,4,4,25,CHA,CHA,fg3_miss,1,False,False,MISS Graham 26' 3PT Jump Shot,,126-70,126,70
 0021701072,2018-03-22,CHA,MEM,43.63,4,4,22,MEM,MEM,reb,0,False,False,,McLemore REBOUND (Off:1 Def:3),126-70,126,70

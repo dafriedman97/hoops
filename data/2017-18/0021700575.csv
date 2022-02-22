@@ -19,8 +19,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700575,2018-01-05,MEM,WAS,1.93,1,10,4,MEM,MEM,fg_make,86,False,False,Gasol 12' Turnaround Fadeaway (2 PTS),,4-3,4,3
 0021700575,2018-01-05,MEM,WAS,2.15,1,9,51,WAS,WAS,fg_make,1,False,False,,Morris 16' Jump Shot (2 PTS),4-5,4,5
 0021700575,2018-01-05,MEM,WAS,2.28,1,9,43,MEM,MEM,fg_miss,6,True,False,MISS Evans 2' Driving Layup,,4-5,4,5
-0021700575,2018-01-05,MEM,WAS,2.28,1,9,43,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,4-5,4,5
 0021700575,2018-01-05,MEM,WAS,2.28,1,9,43,MEM,WAS,block,6,True,False,block,block,4-5,4,5
+0021700575,2018-01-05,MEM,WAS,2.28,1,9,43,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,4-5,4,5
 0021700575,2018-01-05,MEM,WAS,2.32,1,9,41,MEM,MEM,fg_miss,1,False,False,MISS Evans 21' Jump Shot,,4-5,4,5
 0021700575,2018-01-05,MEM,WAS,2.35,1,9,39,WAS,WAS,reb,0,False,False,,Morris REBOUND (Off:0 Def:2),4-5,4,5
 0021700575,2018-01-05,MEM,WAS,2.62,1,9,23,WAS,WAS,fg_miss,98,False,False,,MISS Gortat 2' Cutting Layup Shot,4-5,4,5
@@ -136,8 +136,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700575,2018-01-05,MEM,WAS,14.8,2,9,12,WAS,WAS,tov,37,False,False,,Scott Offensive Foul Turnover (P1.T2),26-37,26,37
 0021700575,2018-01-05,MEM,WAS,15.0,2,9,0,MEM,MEM,fg_make,73,False,False,Evans 1' Driving Reverse Layup (7 PTS),,28-37,28,37
 0021700575,2018-01-05,MEM,WAS,15.25,2,8,45,WAS,WAS,tov,1,False,True,,Mahinmi Bad Pass Turnover (P1.T3),28-37,28,37
-0021700575,2018-01-05,MEM,WAS,15.25,2,8,45,MEM,WAS,foul,1,False,False,,Mahinmi P.FOUL (P3.PN) (A.Smith),28-37,28,37
 0021700575,2018-01-05,MEM,WAS,15.25,2,8,45,WAS,MEM,steal,1,False,True,steal,steal,28-37,28,37
+0021700575,2018-01-05,MEM,WAS,15.25,2,8,45,MEM,WAS,foul,1,False,False,,Mahinmi P.FOUL (P3.PN) (A.Smith),28-37,28,37
 0021700575,2018-01-05,MEM,WAS,15.25,2,8,45,MEM,MEM,ft_make,11,False,False,Ennis III Free Throw 1 of 2 (2 PTS),,29-37,29,37
 0021700575,2018-01-05,MEM,WAS,15.25,2,8,45,MEM,MEM,ft_make,12,False,False,Ennis III Free Throw 2 of 2 (3 PTS),,30-37,30,37
 0021700575,2018-01-05,MEM,WAS,15.3,2,8,42,WAS,MEM,foul,1,False,False,Evans P.FOUL (P1.T1) (T.Brown),,30-37,30,37
@@ -151,8 +151,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700575,2018-01-05,MEM,WAS,16.48,2,7,31,WAS,WAS,fg3_make,1,False,False,,Scott 3PT Jump Shot (8 PTS) (Wall 3 AST),35-40,35,40
 0021700575,2018-01-05,MEM,WAS,16.6,2,7,24,MEM,MEM,fg_make,41,False,False,Evans 2' Running Layup (11 PTS),,37-40,37,40
 0021700575,2018-01-05,MEM,WAS,16.85,2,7,9,WAS,WAS,fg_miss,5,True,False,,MISS Morris 1' Layup,37-40,37,40
-0021700575,2018-01-05,MEM,WAS,16.85,2,7,9,WAS,WAS,reb,0,False,False,,Morris REBOUND (Off:1 Def:5),37-40,37,40
 0021700575,2018-01-05,MEM,WAS,16.85,2,7,9,WAS,MEM,block,5,True,False,block,block,37-40,37,40
+0021700575,2018-01-05,MEM,WAS,16.85,2,7,9,WAS,WAS,reb,0,False,False,,Morris REBOUND (Off:1 Def:5),37-40,37,40
 0021700575,2018-01-05,MEM,WAS,17.05,2,6,57,WAS,MEM,foul,1,False,False,Green P.FOUL (P1.T2) (T.Brown),,37-40,37,40
 0021700575,2018-01-05,MEM,WAS,17.2,2,6,48,WAS,WAS,fg_make,99,False,False,,Morris 1' Cutting Finger Roll Layup Shot (6 PTS) (Beal 2 AST),37-42,37,42
 0021700575,2018-01-05,MEM,WAS,17.47,2,6,32,MEM,MEM,fg_miss,1,False,False,MISS Green 16' Jump Shot,,37-42,37,42
@@ -171,8 +171,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700575,2018-01-05,MEM,WAS,18.77,2,5,14,MEM,MEM,fg_miss,79,False,False,MISS Simmons 10' Pullup Jump Shot,,40-45,40,45
 0021700575,2018-01-05,MEM,WAS,18.82,2,5,11,WAS,WAS,reb,0,False,False,,Morris REBOUND (Off:1 Def:6),40-45,40,45
 0021700575,2018-01-05,MEM,WAS,18.9,2,5,6,WAS,WAS,fg_miss,98,True,False,,MISS Morris 4' Cutting Layup Shot,40-45,40,45
-0021700575,2018-01-05,MEM,WAS,18.9,2,5,6,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,40-45,40,45
 0021700575,2018-01-05,MEM,WAS,18.9,2,5,6,WAS,MEM,block,98,True,False,block,block,40-45,40,45
+0021700575,2018-01-05,MEM,WAS,18.9,2,5,6,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,40-45,40,45
 0021700575,2018-01-05,MEM,WAS,19.13,2,4,52,MEM,MEM,fg3_miss,1,False,False,MISS Brooks 26' 3PT Jump Shot,,40-45,40,45
 0021700575,2018-01-05,MEM,WAS,19.2,2,4,48,WAS,WAS,reb,0,False,False,,Gortat REBOUND (Off:1 Def:2),40-45,40,45
 0021700575,2018-01-05,MEM,WAS,19.25,2,4,45,WAS,WAS,fg3_make,2,False,False,,Beal 25' 3PT Running Jump Shot (11 PTS) (Wall 4 AST),40-48,40,48

@@ -50,8 +50,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800213,2018-11-15,HOU,GSW,6.78,1,5,13,GSW,GSW,reb,0,False,False,,Jones REBOUND (Off:1 Def:0),8-11,8,11
 0021800213,2018-11-15,HOU,GSW,6.88,1,5,7,GSW,GSW,tov,4,False,False,,Iguodala Traveling Turnover (P1.T2),8-11,8,11
 0021800213,2018-11-15,HOU,GSW,7.15,1,4,51,HOU,HOU,fg_miss,5,True,False,MISS Capela 4' Layup,,8-11,8,11
-0021800213,2018-11-15,HOU,GSW,7.15,1,4,51,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,8-11,8,11
 0021800213,2018-11-15,HOU,GSW,7.15,1,4,51,HOU,GSW,block,5,True,False,block,block,8-11,8,11
+0021800213,2018-11-15,HOU,GSW,7.15,1,4,51,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,8-11,8,11
 0021800213,2018-11-15,HOU,GSW,7.25,1,4,45,HOU,HOU,fg3_miss,80,False,False,MISS Harden 25' 3PT Step Back Jump Shot,,8-11,8,11
 0021800213,2018-11-15,HOU,GSW,7.32,1,4,41,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:3 Def:1),,8-11,8,11
 0021800213,2018-11-15,HOU,GSW,7.42,1,4,35,HOU,HOU,fg3_miss,1,False,False,MISS Clark 25' 3PT Jump Shot,,8-11,8,11
@@ -80,8 +80,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800213,2018-11-15,HOU,GSW,9.95,1,2,3,GSW,GSW,fg3_miss,1,False,False,,MISS McKinnie 26' 3PT Jump Shot,19-17,19,17
 0021800213,2018-11-15,HOU,GSW,10.0,1,2,0,HOU,HOU,reb,0,False,False,Paul REBOUND (Off:0 Def:1),,19-17,19,17
 0021800213,2018-11-15,HOU,GSW,10.17,1,1,50,HOU,HOU,fg_miss,5,True,False,MISS Hartenstein 5' Layup,,19-17,19,17
-0021800213,2018-11-15,HOU,GSW,10.17,1,1,50,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,19-17,19,17
 0021800213,2018-11-15,HOU,GSW,10.17,1,1,50,HOU,GSW,block,5,True,False,block,block,19-17,19,17
+0021800213,2018-11-15,HOU,GSW,10.17,1,1,50,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,19-17,19,17
 0021800213,2018-11-15,HOU,GSW,10.2,1,1,48,HOU,HOU,fg_make,98,False,False,Hartenstein 2' Cutting Layup Shot (2 PTS) (Paul 3 AST),,21-17,21,17
 0021800213,2018-11-15,HOU,GSW,10.2,1,1,48,HOU,GSW,foul,2,False,False,,McKinnie S.FOUL (P1.T3) (Z.Zarba),21-17,21,17
 0021800213,2018-11-15,HOU,GSW,10.2,1,1,48,HOU,HOU,ft_make,10,False,False,Hartenstein Free Throw 1 of 1 (3 PTS),,22-17,22,17
@@ -108,8 +108,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800213,2018-11-15,HOU,GSW,13.12,2,10,53,HOU,HOU,fg_miss,63,False,False,MISS Paul 14' Fadeaway Jumper,,25-19,25,19
 0021800213,2018-11-15,HOU,GSW,13.15,2,10,51,GSW,GSW,reb,0,False,False,,Thompson REBOUND (Off:1 Def:1),25-19,25,19
 0021800213,2018-11-15,HOU,GSW,13.42,2,10,35,GSW,GSW,tov,1,False,True,,Green Bad Pass Turnover (P1.T4),25-19,25,19
-0021800213,2018-11-15,HOU,GSW,13.42,2,10,35,HOU,GSW,foul,28,False,False,,Jerebko Personal Take Foul (P1.T1) (B.Forte),25-19,25,19
 0021800213,2018-11-15,HOU,GSW,13.42,2,10,35,GSW,HOU,steal,1,False,True,steal,steal,25-19,25,19
+0021800213,2018-11-15,HOU,GSW,13.42,2,10,35,HOU,GSW,foul,28,False,False,,Jerebko Personal Take Foul (P1.T1) (B.Forte),25-19,25,19
 0021800213,2018-11-15,HOU,GSW,13.6,2,10,24,HOU,HOU,tov,45,False,False,Gordon Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,25-19,25,19
 0021800213,2018-11-15,HOU,GSW,13.77,2,10,14,GSW,HOU,foul,1,False,False,Gordon P.FOUL (P1.T1) (B.Forte),,25-19,25,19
 0021800213,2018-11-15,HOU,GSW,13.92,2,10,5,GSW,GSW,fg_miss,79,False,False,,MISS Cook 20' Pullup Jump Shot,25-19,25,19
@@ -152,8 +152,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800213,2018-11-15,HOU,GSW,18.7,2,5,18,HOU,HOU,fg3_miss,80,False,False,MISS Harden 25' 3PT Step Back Jump Shot,,33-25,33,25
 0021800213,2018-11-15,HOU,GSW,18.73,2,5,16,GSW,GSW,reb,0,False,False,,Durant REBOUND (Off:1 Def:2),33-25,33,25
 0021800213,2018-11-15,HOU,GSW,18.83,2,5,10,GSW,GSW,tov,1,False,True,,Durant Bad Pass Turnover (P1.T7),33-25,33,25
-0021800213,2018-11-15,HOU,GSW,18.83,2,5,10,HOU,GSW,foul,28,False,False,,Evans Personal Take Foul (P1.PN) (M.Smith),33-25,33,25
 0021800213,2018-11-15,HOU,GSW,18.83,2,5,10,GSW,HOU,steal,1,False,True,steal,steal,33-25,33,25
+0021800213,2018-11-15,HOU,GSW,18.83,2,5,10,HOU,GSW,foul,28,False,False,,Evans Personal Take Foul (P1.PN) (M.Smith),33-25,33,25
 0021800213,2018-11-15,HOU,GSW,18.83,2,5,10,HOU,HOU,ft_make,11,False,False,Capela Free Throw 1 of 2 (3 PTS),,34-25,34,25
 0021800213,2018-11-15,HOU,GSW,18.83,2,5,10,HOU,HOU,ft_make,12,False,False,Capela Free Throw 2 of 2 (4 PTS),,35-25,35,25
 0021800213,2018-11-15,HOU,GSW,19.1,2,4,54,GSW,GSW,fg_make,63,False,False,,Durant 19' Fadeaway Jumper (9 PTS),35-27,35,27
@@ -201,14 +201,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800213,2018-11-15,HOU,GSW,23.95,2,0,3,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:2 Def:0),47-39,47,39
 0021800213,2018-11-15,HOU,GSW,23.95,2,0,3,GSW,GSW,fg_make,97,False,False,,Looney 1' Tip Layup Shot (6 PTS),47-41,47,41
 0021800213,2018-11-15,HOU,GSW,24.0,2,0,0,HOU,HOU,fg3_miss,1,True,False,MISS Harden 36' 3PT Jump Shot,,47-41,47,41
+0021800213,2018-11-15,HOU,GSW,24.0,2,0,0,HOU,GSW,block,1,True,False,block,block,47-41,47,41
 0021800213,2018-11-15,HOU,GSW,24.0,2,0,0,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,47-41,47,41
 0021800213,2018-11-15,HOU,GSW,24.0,2,0,0,HOU,,period_end,0,False,False,,,47-41,47,41
 0021800213,2018-11-15,HOU,GSW,24.0,3,12,0,HOU,,period_start,0,False,False,,,47-41,47,41
-0021800213,2018-11-15,HOU,GSW,24.0,2,0,0,HOU,GSW,block,1,True,False,block,block,47-41,47,41
 0021800213,2018-11-15,HOU,GSW,24.38,3,11,37,HOU,HOU,fg3_make,1,False,False,Harden 28' 3PT Jump Shot (18 PTS),,50-41,50,41
 0021800213,2018-11-15,HOU,GSW,24.68,3,11,19,GSW,GSW,fg_miss,79,False,False,,MISS Thompson 19' Pullup Jump Shot,50-41,50,41
-0021800213,2018-11-15,HOU,GSW,24.73,3,11,16,GSW,GSW,tov,2,False,True,,Jones Lost Ball Turnover (P1.T10),50-41,50,41
 0021800213,2018-11-15,HOU,GSW,24.73,3,11,16,GSW,GSW,reb,0,False,False,,Jones REBOUND (Off:2 Def:0),50-41,50,41
+0021800213,2018-11-15,HOU,GSW,24.73,3,11,16,GSW,GSW,tov,2,False,True,,Jones Lost Ball Turnover (P1.T10),50-41,50,41
 0021800213,2018-11-15,HOU,GSW,24.73,3,11,16,GSW,HOU,steal,2,False,True,steal,steal,50-41,50,41
 0021800213,2018-11-15,HOU,GSW,24.87,3,11,8,HOU,HOU,fg_make,43,False,False,Ennis III 1' Alley Oop Layup (4 PTS) (Paul 5 AST),,52-41,52,41
 0021800213,2018-11-15,HOU,GSW,25.07,3,10,56,GSW,HOU,foul,1,False,False,Ennis III P.FOUL (P2.T1) (Z.Zarba),,52-41,52,41
@@ -239,8 +239,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800213,2018-11-15,HOU,GSW,28.3,3,7,42,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,56-45,56,45
 0021800213,2018-11-15,HOU,GSW,28.3,3,7,42,HOU,GSW,foul,3,False,False,,Jones L.B.FOUL (P2.T2) (B.Forte),56-45,56,45
 0021800213,2018-11-15,HOU,GSW,28.57,3,7,26,HOU,HOU,fg_miss,5,True,False,MISS Paul 5' Layup,,56-45,56,45
-0021800213,2018-11-15,HOU,GSW,28.57,3,7,26,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,56-45,56,45
 0021800213,2018-11-15,HOU,GSW,28.57,3,7,26,HOU,GSW,block,5,True,False,block,block,56-45,56,45
+0021800213,2018-11-15,HOU,GSW,28.57,3,7,26,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,56-45,56,45
 0021800213,2018-11-15,HOU,GSW,28.68,3,7,19,HOU,GSW,foul,2,False,False,,Green S.FOUL (P2.T3) (Z.Zarba),56-45,56,45
 0021800213,2018-11-15,HOU,GSW,28.68,3,7,19,HOU,HOU,ft_miss,11,False,False,MISS Ennis III Free Throw 1 of 2,,56-45,56,45
 0021800213,2018-11-15,HOU,GSW,28.68,3,7,19,HOU,HOU,reb,1,False,False,ROCKETS Rebound,,56-45,56,45
@@ -324,8 +324,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800213,2018-11-15,HOU,GSW,37.02,4,10,59,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,76-65,76,65
 0021800213,2018-11-15,HOU,GSW,37.22,4,10,47,HOU,HOU,fg_make,102,False,False,Gordon 9' Driving Floating Bank Jump Shot (12 PTS),,78-65,78,65
 0021800213,2018-11-15,HOU,GSW,37.28,4,10,43,GSW,GSW,tov,1,False,True,,Green Bad Pass Turnover (P5.T14),78-65,78,65
-0021800213,2018-11-15,HOU,GSW,37.28,4,10,43,HOU,GSW,foul,3,False,False,,Jerebko L.B.FOUL (P3.T1) (M.Smith),78-65,78,65
 0021800213,2018-11-15,HOU,GSW,37.28,4,10,43,GSW,HOU,steal,1,False,True,steal,steal,78-65,78,65
+0021800213,2018-11-15,HOU,GSW,37.28,4,10,43,HOU,GSW,foul,3,False,False,,Jerebko L.B.FOUL (P3.T1) (M.Smith),78-65,78,65
 0021800213,2018-11-15,HOU,GSW,37.53,4,10,28,HOU,HOU,fg_make,98,False,False,Ennis III 2' Cutting Layup Shot (6 PTS) (Paul 6 AST),,80-65,80,65
 0021800213,2018-11-15,HOU,GSW,37.78,4,10,13,GSW,GSW,fg3_miss,1,False,False,,MISS Thompson 26' 3PT Jump Shot,80-65,80,65
 0021800213,2018-11-15,HOU,GSW,37.83,4,10,10,HOU,HOU,reb,0,False,False,Ennis III REBOUND (Off:2 Def:2),,80-65,80,65
@@ -340,8 +340,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800213,2018-11-15,HOU,GSW,38.33,4,9,40,HOU,HOU,fg_miss,79,False,False,MISS Paul 12' Pullup Jump Shot,,82-65,82,65
 0021800213,2018-11-15,HOU,GSW,38.4,4,9,36,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:0 Def:5),82-65,82,65
 0021800213,2018-11-15,HOU,GSW,38.43,4,9,34,GSW,GSW,tov,1,False,True,,Thompson Bad Pass Turnover (P3.T15),82-65,82,65
-0021800213,2018-11-15,HOU,GSW,38.43,4,9,34,HOU,GSW,foul,1,False,False,,Livingston P.FOUL (P2.T4) (B.Forte),82-65,82,65
 0021800213,2018-11-15,HOU,GSW,38.43,4,9,34,GSW,HOU,steal,1,False,True,steal,steal,82-65,82,65
+0021800213,2018-11-15,HOU,GSW,38.43,4,9,34,HOU,GSW,foul,1,False,False,,Livingston P.FOUL (P2.T4) (B.Forte),82-65,82,65
 0021800213,2018-11-15,HOU,GSW,38.82,4,9,11,HOU,HOU,fg3_make,1,False,False,Ennis III 3PT Jump Shot (11 PTS) (Paul 7 AST),,85-65,85,65
 0021800213,2018-11-15,HOU,GSW,39.02,4,8,59,GSW,GSW,fg_miss,79,False,False,,MISS Thompson 19' Pullup Jump Shot,85-65,85,65
 0021800213,2018-11-15,HOU,GSW,39.07,4,8,56,HOU,HOU,reb,0,False,False,Paul REBOUND (Off:0 Def:4),,85-65,85,65

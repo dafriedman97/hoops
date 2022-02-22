@@ -15,8 +15,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901314,2020-08-13,UTA,SAS,1.18,1,10,49,SAS,UTA,block,101,True,False,block,block,2-0,2,0
 0021901314,2020-08-13,UTA,SAS,1.23,1,10,46,UTA,UTA,reb,0,False,False,Mitchell REBOUND (Off:0 Def:1),,2-0,2,0
 0021901314,2020-08-13,UTA,SAS,1.28,1,10,43,UTA,UTA,fg_miss,5,True,False,MISS Bradley 2' Layup,,2-0,2,0
-0021901314,2020-08-13,UTA,SAS,1.28,1,10,43,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:0 Def:2),2-0,2,0
 0021901314,2020-08-13,UTA,SAS,1.28,1,10,43,UTA,SAS,block,5,True,False,block,block,2-0,2,0
+0021901314,2020-08-13,UTA,SAS,1.28,1,10,43,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:0 Def:2),2-0,2,0
 0021901314,2020-08-13,UTA,SAS,1.43,1,10,34,SAS,UTA,foul,2,False,False,O'Neale S.FOUL (P1.T1) (S.Foster),,2-0,2,0
 0021901314,2020-08-13,UTA,SAS,1.43,1,10,34,SAS,SAS,ft_make,11,False,False,,Samanic Free Throw 1 of 2 (1 PTS),2-1,2,1
 0021901314,2020-08-13,UTA,SAS,1.43,1,10,34,SAS,SAS,ft_make,12,False,False,,Samanic Free Throw 2 of 2 (2 PTS),2-2,2,2
@@ -86,8 +86,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901314,2020-08-13,UTA,SAS,9.72,1,2,17,SAS,SAS,reb,1,False,False,,Spurs Rebound,29-22,29,22
 0021901314,2020-08-13,UTA,SAS,9.72,1,2,17,SAS,SAS,ft_make,12,False,False,,Weatherspoon Free Throw 2 of 2 (1 PTS),29-23,29,23
 0021901314,2020-08-13,UTA,SAS,9.92,1,2,5,UTA,UTA,fg_miss,9,True,False,MISS Clarkson 3' Driving Dunk,,29-23,29,23
-0021901314,2020-08-13,UTA,SAS,9.92,1,2,5,UTA,UTA,reb,0,False,False,Davis REBOUND (Off:2 Def:0),,29-23,29,23
 0021901314,2020-08-13,UTA,SAS,9.92,1,2,5,UTA,SAS,block,9,True,False,block,block,29-23,29,23
+0021901314,2020-08-13,UTA,SAS,9.92,1,2,5,UTA,UTA,reb,0,False,False,Davis REBOUND (Off:2 Def:0),,29-23,29,23
 0021901314,2020-08-13,UTA,SAS,9.92,1,2,5,UTA,UTA,fg_make,72,False,False,Davis 3' Putback Layup (4 PTS),,31-23,31,23
 0021901314,2020-08-13,UTA,SAS,9.92,1,2,5,UTA,SAS,violation,2,False,False,,Metu Violation:Defensive Goaltending (S.Foster),31-23,31,23
 0021901314,2020-08-13,UTA,SAS,9.92,1,2,5,UTA,SAS,foul,2,False,False,,Weatherspoon S.FOUL (P1.T4) (T.Maddox),31-23,31,23
@@ -141,8 +141,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901314,2020-08-13,UTA,SAS,15.02,2,8,59,SAS,SAS,reb,0,False,False,,Metu REBOUND (Off:0 Def:2),45-31,45,31
 0021901314,2020-08-13,UTA,SAS,15.13,2,8,52,SAS,SAS,fg_make,1,False,False,,Samanic 21' Jump Shot (7 PTS) (Metu 1 AST),45-33,45,33
 0021901314,2020-08-13,UTA,SAS,15.4,2,8,36,UTA,UTA,fg_miss,6,False,False,MISS Mitchell 4' Driving Layup,,45-33,45,33
-0021901314,2020-08-13,UTA,SAS,15.45,2,8,33,UTA,UTA,fg_make,97,False,False,Davis 1' Tip Layup Shot (11 PTS),,47-33,47,33
 0021901314,2020-08-13,UTA,SAS,15.45,2,8,33,UTA,UTA,reb,0,False,False,Davis REBOUND (Off:4 Def:2),,47-33,47,33
+0021901314,2020-08-13,UTA,SAS,15.45,2,8,33,UTA,UTA,fg_make,97,False,False,Davis 1' Tip Layup Shot (11 PTS),,47-33,47,33
 0021901314,2020-08-13,UTA,SAS,15.6,2,8,24,SAS,UTA,foul,2,False,False,Davis S.FOUL (P2.T2) (T.Maddox),,47-33,47,33
 0021901314,2020-08-13,UTA,SAS,15.6,2,8,24,SAS,SAS,ft_make,11,False,False,,Johnson Free Throw 1 of 2 (9 PTS),47-34,47,34
 0021901314,2020-08-13,UTA,SAS,15.6,2,8,24,SAS,SAS,ft_miss,12,False,False,,MISS Johnson Free Throw 2 of 2,47-34,47,34
@@ -236,8 +236,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901314,2020-08-13,UTA,SAS,24.82,3,11,11,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:1 Def:7),62-52,62,52
 0021901314,2020-08-13,UTA,SAS,24.95,3,11,3,SAS,SAS,fg_make,78,False,False,,Johnson 6' Floating Jump Shot (13 PTS) (Samanic 2 AST),62-54,62,54
 0021901314,2020-08-13,UTA,SAS,24.95,3,11,3,SAS,UTA,foul,2,False,False,Williams-Goss S.FOUL (P1.T1) (M.Ervin),,62-54,62,54
-0021901314,2020-08-13,UTA,SAS,24.95,3,11,3,UTA,UTA,timeout,1,False,False,JAZZ Timeout: Regular (Full 3 Short 0),,62-54,62,54
 0021901314,2020-08-13,UTA,SAS,24.95,3,11,3,UTA,SAS,ft_make,10,False,False,,Johnson Free Throw 1 of 1 (14 PTS),62-55,62,55
+0021901314,2020-08-13,UTA,SAS,24.95,3,11,3,UTA,UTA,timeout,1,False,False,JAZZ Timeout: Regular (Full 3 Short 0),,62-54,62,54
 0021901314,2020-08-13,UTA,SAS,25.2,3,10,48,UTA,UTA,fg_make,78,False,False,Niang 11' Floating Jump Shot (8 PTS),,64-55,64,55
 0021901314,2020-08-13,UTA,SAS,25.42,3,10,35,SAS,SAS,fg_make,79,False,False,,Murray 14' Pullup Jump Shot (6 PTS) (Poeltl 3 AST),64-57,64,57
 0021901314,2020-08-13,UTA,SAS,25.83,3,10,10,UTA,UTA,fg3_miss,1,False,False,MISS Brantley 3PT Jump Shot,,64-57,64,57
@@ -253,8 +253,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901314,2020-08-13,UTA,SAS,27.37,3,8,38,SAS,SAS,fg3_miss,1,False,False,,MISS Johnson 3PT Jump Shot,72-61,72,61
 0021901314,2020-08-13,UTA,SAS,27.37,3,8,38,UTA,UTA,reb,0,False,False,JAZZ Rebound,,72-61,72,61
 0021901314,2020-08-13,UTA,SAS,27.62,3,8,23,UTA,UTA,fg_miss,43,True,False,MISS Bradley 2' Alley Oop Layup,,72-61,72,61
-0021901314,2020-08-13,UTA,SAS,27.62,3,8,23,SAS,SAS,reb,0,False,False,,Spurs Rebound,72-61,72,61
 0021901314,2020-08-13,UTA,SAS,27.62,3,8,23,UTA,SAS,block,43,True,False,block,block,72-61,72,61
+0021901314,2020-08-13,UTA,SAS,27.62,3,8,23,SAS,SAS,reb,0,False,False,,Spurs Rebound,72-61,72,61
 0021901314,2020-08-13,UTA,SAS,27.82,3,8,11,SAS,SAS,fg_miss,1,False,False,,MISS Johnson 11' Jump Shot,72-61,72,61
 0021901314,2020-08-13,UTA,SAS,27.87,3,8,8,UTA,UTA,reb,0,False,False,JAZZ Rebound,,72-61,72,61
 0021901314,2020-08-13,UTA,SAS,28.1,3,7,54,UTA,UTA,fg_make,44,False,False,Brantley 2' Reverse Layup (9 PTS) (Niang 2 AST),,74-61,74,61
@@ -266,8 +266,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901314,2020-08-13,UTA,SAS,29.0,3,7,0,UTA,UTA,fg3_miss,1,False,False,MISS Williams-Goss 25' 3PT Jump Shot,,74-64,74,64
 0021901314,2020-08-13,UTA,SAS,29.05,3,6,57,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:1 Def:8),74-64,74,64
 0021901314,2020-08-13,UTA,SAS,29.17,3,6,50,SAS,SAS,fg_miss,6,True,False,,MISS Walker IV 2' Driving Layup,74-64,74,64
-0021901314,2020-08-13,UTA,SAS,29.17,3,6,50,SAS,SAS,reb,0,False,False,,Spurs Rebound,74-64,74,64
 0021901314,2020-08-13,UTA,SAS,29.17,3,6,50,SAS,UTA,block,6,True,False,block,block,74-64,74,64
+0021901314,2020-08-13,UTA,SAS,29.17,3,6,50,SAS,SAS,reb,0,False,False,,Spurs Rebound,74-64,74,64
 0021901314,2020-08-13,UTA,SAS,29.28,3,6,43,SAS,SAS,fg_miss,3,False,False,,MISS Poeltl 2' Hook Shot,74-64,74,64
 0021901314,2020-08-13,UTA,SAS,29.33,3,6,40,UTA,UTA,reb,0,False,False,Williams-Goss REBOUND (Off:0 Def:1),,74-64,74,64
 0021901314,2020-08-13,UTA,SAS,29.4,3,6,36,UTA,SAS,foul,1,False,False,,Murray P.FOUL (P2.T2) (S.Foster),74-64,74,64

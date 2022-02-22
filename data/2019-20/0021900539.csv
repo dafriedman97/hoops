@@ -72,8 +72,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900539,2020-01-06,CHA,IND,8.95,1,3,3,IND,IND,reb,0,False,False,,McConnell REBOUND (Off:1 Def:0),19-16,19,16
 0021900539,2020-01-06,CHA,IND,9.05,1,2,57,IND,IND,fg_make,73,False,False,,Warren 1' Driving Reverse Layup (4 PTS),19-18,19,18
 0021900539,2020-01-06,CHA,IND,9.32,1,2,41,CHA,CHA,fg_miss,6,True,False,MISS Rozier 2' Driving Layup,,19-18,19,18
-0021900539,2020-01-06,CHA,IND,9.32,1,2,41,CHA,CHA,reb,0,False,False,HORNETS Rebound,,19-18,19,18
 0021900539,2020-01-06,CHA,IND,9.32,1,2,41,CHA,IND,block,6,True,False,block,block,19-18,19,18
+0021900539,2020-01-06,CHA,IND,9.32,1,2,41,CHA,CHA,reb,0,False,False,HORNETS Rebound,,19-18,19,18
 0021900539,2020-01-06,CHA,IND,9.4,1,2,36,CHA,IND,foul,1,False,False,,Warren P.FOUL (P1.T2) (S.Wright),19-18,19,18
 0021900539,2020-01-06,CHA,IND,9.5,1,2,30,CHA,CHA,fg_miss,6,False,False,MISS Bacon 3' Driving Layup,,19-18,19,18
 0021900539,2020-01-06,CHA,IND,9.55,1,2,27,IND,IND,reb,0,False,False,,Warren REBOUND (Off:1 Def:1),19-18,19,18
@@ -276,8 +276,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900539,2020-01-06,CHA,IND,32.5,3,3,30,IND,IND,fg3_miss,1,False,False,,MISS Turner 25' 3PT Jump Shot,56-68,56,68
 0021900539,2020-01-06,CHA,IND,32.53,3,3,28,IND,IND,reb,0,False,False,,Warren REBOUND (Off:2 Def:2),56-68,56,68
 0021900539,2020-01-06,CHA,IND,32.53,3,3,28,IND,IND,fg_miss,97,False,False,,MISS Warren 3' Tip Layup Shot,56-68,56,68
-0021900539,2020-01-06,CHA,IND,32.55,3,3,27,IND,IND,reb,0,False,False,,Warren REBOUND (Off:3 Def:2),56-68,56,68
 0021900539,2020-01-06,CHA,IND,32.55,3,3,27,IND,IND,fg_miss,97,False,False,,MISS Warren 1' Tip Layup Shot,56-68,56,68
+0021900539,2020-01-06,CHA,IND,32.55,3,3,27,IND,IND,reb,0,False,False,,Warren REBOUND (Off:3 Def:2),56-68,56,68
 0021900539,2020-01-06,CHA,IND,32.58,3,3,25,IND,IND,reb,0,False,False,,Holiday REBOUND (Off:1 Def:1),56-68,56,68
 0021900539,2020-01-06,CHA,IND,32.73,3,3,16,IND,IND,fg_make,47,False,False,,Warren 8' Turnaround Jump Shot (19 PTS),56-70,56,70
 0021900539,2020-01-06,CHA,IND,32.78,3,3,13,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 4 Short 0),,56-70,56,70
@@ -311,14 +311,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900539,2020-01-06,CHA,IND,37.78,4,10,13,IND,IND,tov,2,False,True,,Sumner Lost Ball Turnover (P1.T9),69-82,69,82
 0021900539,2020-01-06,CHA,IND,37.78,4,10,13,IND,CHA,steal,2,False,True,steal,steal,69-82,69,82
 0021900539,2020-01-06,CHA,IND,37.83,4,10,10,CHA,CHA,fg_miss,74,False,False,MISS Bacon 2' Running Reverse Layup,,69-82,69,82
-0021900539,2020-01-06,CHA,IND,37.92,4,10,5,CHA,CHA,fg_make,72,False,False,Bridges 1' Putback Layup (16 PTS),,71-82,71,82
 0021900539,2020-01-06,CHA,IND,37.92,4,10,5,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:2 Def:5),,71-82,71,82
+0021900539,2020-01-06,CHA,IND,37.92,4,10,5,CHA,CHA,fg_make,72,False,False,Bridges 1' Putback Layup (16 PTS),,71-82,71,82
 0021900539,2020-01-06,CHA,IND,38.1,4,9,54,IND,IND,fg_make,5,False,False,,Sumner 2' Layup (6 PTS) (McConnell 7 AST),71-84,71,84
 0021900539,2020-01-06,CHA,IND,38.25,4,9,45,CHA,IND,foul,1,False,False,,Holiday P.FOUL (P5.T1) (M.Smith),71-84,71,84
 0021900539,2020-01-06,CHA,IND,38.25,4,9,45,CHA,IND,foul,11,False,False,,Holiday T.FOUL (P5.T1) (M.Smith),71-84,71,84
+0021900539,2020-01-06,CHA,IND,38.25,4,9,45,CHA,CHA,ft_make,16,False,False,Rozier Free Throw Technical (17 PTS),,72-84,72,84
 0021900539,2020-01-06,CHA,IND,38.25,4,9,45,CHA,IND,foul,11,False,False,,Holiday T.FOUL (P5.T1) (S.Wright),71-84,71,84
 0021900539,2020-01-06,CHA,IND,38.25,4,9,45,CHA,IND,ejection,4,False,False,,Holiday Ejection:Other,71-84,71,84
-0021900539,2020-01-06,CHA,IND,38.25,4,9,45,CHA,CHA,ft_make,16,False,False,Rozier Free Throw Technical (17 PTS),,72-84,72,84
 0021900539,2020-01-06,CHA,IND,38.25,4,9,45,CHA,CHA,ft_make,16,False,False,Rozier Free Throw Technical (18 PTS),,73-84,73,84
 0021900539,2020-01-06,CHA,IND,38.48,4,9,31,CHA,CHA,fg_make,80,False,False,Rozier 22' Step Back Jump Shot (20 PTS),,75-84,75,84
 0021900539,2020-01-06,CHA,IND,38.52,4,9,29,IND,IND,timeout,1,False,False,,Pacers Timeout: Regular (Reg.3 Short 0),75-84,75,84

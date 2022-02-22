@@ -50,9 +50,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900862,2020-02-25,POR,BOS,6.2,1,5,48,BOS,BOS,fg3_make,1,False,False,,Tatum 29' 3PT Jump Shot (5 PTS) (Brown 1 AST),17-15,17,15
 0021900862,2020-02-25,POR,BOS,6.48,1,5,31,POR,POR,tov,4,False,False,Whiteside Traveling Turnover (P2.T4),,17-15,17,15
 0021900862,2020-02-25,POR,BOS,6.65,1,5,21,BOS,BOS,fg_miss,63,False,False,,MISS Brown 10' Fadeaway Jumper,17-15,17,15
+0021900862,2020-02-25,POR,BOS,6.72,1,5,17,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:1 Def:1),17-15,17,15
 0021900862,2020-02-25,POR,BOS,6.72,1,5,17,BOS,BOS,fg_miss,97,False,False,,MISS Theis 1' Tip Layup Shot,17-15,17,15
 0021900862,2020-02-25,POR,BOS,6.72,1,5,17,POR,POR,reb,0,False,False,Whiteside REBOUND (Off:1 Def:4),,17-15,17,15
-0021900862,2020-02-25,POR,BOS,6.72,1,5,17,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:1 Def:1),17-15,17,15
 0021900862,2020-02-25,POR,BOS,6.97,1,5,2,POR,POR,fg3_miss,1,False,False,MISS Anthony 26' 3PT Jump Shot,,17-15,17,15
 0021900862,2020-02-25,POR,BOS,6.98,1,5,1,BOS,BOS,reb,0,False,False,,Celtics Rebound,17-15,17,15
 0021900862,2020-02-25,POR,BOS,7.22,1,4,47,BOS,BOS,fg3_make,79,False,False,,Tatum 25' 3PT Pullup Jump Shot (8 PTS),17-18,17,18
@@ -183,8 +183,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900862,2020-02-25,POR,BOS,21.97,2,2,2,POR,POR,timeout,1,False,False,TRAIL BLAZERS Timeout: Regular (Full 3 Short 0),,44-54,44,54
 0021900862,2020-02-25,POR,BOS,22.33,2,1,40,POR,POR,fg_make,9,False,False,Whiteside 1' Driving Dunk (7 PTS),,46-54,46,54
 0021900862,2020-02-25,POR,BOS,22.83,2,1,10,BOS,BOS,fg_miss,101,True,False,,MISS Brown 3' Driving Floating Jump Shot,46-54,46,54
-0021900862,2020-02-25,POR,BOS,22.83,2,1,10,BOS,BOS,reb,0,False,False,,Celtics Rebound,46-54,46,54
 0021900862,2020-02-25,POR,BOS,22.83,2,1,10,BOS,POR,block,101,True,False,block,block,46-54,46,54
+0021900862,2020-02-25,POR,BOS,22.83,2,1,10,BOS,BOS,reb,0,False,False,,Celtics Rebound,46-54,46,54
 0021900862,2020-02-25,POR,BOS,22.87,2,1,8,BOS,BOS,fg3_miss,1,False,False,,MISS Brown 31' 3PT Jump Shot,46-54,46,54
 0021900862,2020-02-25,POR,BOS,22.95,2,1,3,BOS,BOS,reb,0,False,False,,Hayward REBOUND (Off:1 Def:1),46-54,46,54
 0021900862,2020-02-25,POR,BOS,22.95,2,1,3,BOS,BOS,fg_make,72,False,False,,Hayward 1' Putback Layup (8 PTS),46-56,46,56
@@ -264,8 +264,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900862,2020-02-25,POR,BOS,31.52,3,4,29,POR,BOS,block,6,True,False,block,block,62-74,62,74
 0021900862,2020-02-25,POR,BOS,31.53,3,4,28,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:0 Def:7),62-74,62,74
 0021900862,2020-02-25,POR,BOS,31.6,3,4,24,BOS,BOS,fg_miss,6,True,False,,MISS Brown 2' Driving Layup,62-74,62,74
-0021900862,2020-02-25,POR,BOS,31.6,3,4,24,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,62-74,62,74
 0021900862,2020-02-25,POR,BOS,31.6,3,4,24,BOS,POR,block,6,True,False,block,block,62-74,62,74
+0021900862,2020-02-25,POR,BOS,31.6,3,4,24,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,62-74,62,74
 0021900862,2020-02-25,POR,BOS,31.9,3,4,6,POR,POR,fg_miss,86,False,False,MISS Anthony 8' Turnaround Fadeaway Shot,,62-74,62,74
 0021900862,2020-02-25,POR,BOS,31.93,3,4,4,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:2 Def:7),62-74,62,74
 0021900862,2020-02-25,POR,BOS,32.1,3,3,54,BOS,BOS,fg_make,58,False,False,,Brown 5' Turnaround Hook Shot (19 PTS),62-76,62,76

@@ -128,8 +128,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900313,2019-12-04,DAL,MIN,13.83,2,10,10,DAL,DAL,fg3_miss,1,False,False,MISS Jackson 25' 3PT Jump Shot,,32-27,32,27
 0021900313,2019-12-04,DAL,MIN,13.9,2,10,6,MIN,MIN,reb,0,False,False,,Bates-Diop REBOUND (Off:0 Def:2),32-27,32,27
 0021900313,2019-12-04,DAL,MIN,14.03,2,9,58,MIN,MIN,fg_miss,47,False,False,,MISS Wiggins 5' Turnaround Jump Shot,32-27,32,27
-0021900313,2019-12-04,DAL,MIN,14.1,2,9,54,MIN,MIN,fg_miss,97,False,False,,MISS Wiggins 1' Tip Layup Shot,32-27,32,27
 0021900313,2019-12-04,DAL,MIN,14.1,2,9,54,MIN,MIN,reb,0,False,False,,Wiggins REBOUND (Off:1 Def:1),32-27,32,27
+0021900313,2019-12-04,DAL,MIN,14.1,2,9,54,MIN,MIN,fg_miss,97,False,False,,MISS Wiggins 1' Tip Layup Shot,32-27,32,27
 0021900313,2019-12-04,DAL,MIN,14.12,2,9,53,DAL,DAL,reb,0,False,False,Kleber REBOUND (Off:1 Def:1),,32-27,32,27
 0021900313,2019-12-04,DAL,MIN,14.37,2,9,38,DAL,DAL,fg_make,6,False,False,Curry 5' Driving Layup (4 PTS),,34-27,34,27
 0021900313,2019-12-04,DAL,MIN,14.7,2,9,18,MIN,MIN,fg3_miss,1,False,False,,MISS Napier 25' 3PT Jump Shot,34-27,34,27
@@ -162,8 +162,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900313,2019-12-04,DAL,MIN,17.28,2,6,43,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:0 Def:3),,43-32,43,32
 0021900313,2019-12-04,DAL,MIN,17.67,2,6,20,DAL,DAL,fg_make,105,False,False,Porzingis 9' Turnaround Fadeaway Bank Jump Shot (4 PTS),,45-32,45,32
 0021900313,2019-12-04,DAL,MIN,17.85,2,6,9,MIN,MIN,fg_miss,6,True,False,,MISS Wiggins 4' Driving Layup,45-32,45,32
-0021900313,2019-12-04,DAL,MIN,17.85,2,6,9,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,45-32,45,32
 0021900313,2019-12-04,DAL,MIN,17.85,2,6,9,MIN,DAL,block,6,True,False,block,block,45-32,45,32
+0021900313,2019-12-04,DAL,MIN,17.85,2,6,9,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,45-32,45,32
 0021900313,2019-12-04,DAL,MIN,17.9,2,6,6,MIN,MIN,fg3_make,1,False,False,,Towns 3PT Jump Shot (7 PTS) (Culver 3 AST),45-35,45,35
 0021900313,2019-12-04,DAL,MIN,18.07,2,5,56,DAL,MIN,foul,1,False,False,,Towns P.FOUL (P1.T2) (J.Orr),45-35,45,35
 0021900313,2019-12-04,DAL,MIN,18.28,2,5,43,DAL,DAL,fg3_miss,1,False,False,MISS Kleber 27' 3PT Jump Shot,,45-35,45,35
@@ -241,8 +241,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900313,2019-12-04,DAL,MIN,25.18,3,10,49,DAL,DAL,fg_make,79,False,False,Porzingis 15' Pullup Jump Shot (7 PTS) (Powell 4 AST),,55-58,55,58
 0021900313,2019-12-04,DAL,MIN,25.47,3,10,32,MIN,MIN,fg3_make,1,False,False,,Wiggins 24' 3PT Jump Shot (14 PTS),55-61,55,61
 0021900313,2019-12-04,DAL,MIN,25.47,3,10,32,DAL,DAL,fg_miss,5,True,False,MISS Doncic 4' Layup,,55-61,55,61
-0021900313,2019-12-04,DAL,MIN,25.47,3,10,32,MIN,MIN,reb,0,False,False,,Culver REBOUND (Off:3 Def:4),55-61,55,61
 0021900313,2019-12-04,DAL,MIN,25.47,3,10,32,DAL,MIN,block,5,True,False,block,block,55-61,55,61
+0021900313,2019-12-04,DAL,MIN,25.47,3,10,32,MIN,MIN,reb,0,False,False,,Culver REBOUND (Off:3 Def:4),55-61,55,61
 0021900313,2019-12-04,DAL,MIN,25.75,3,10,15,MIN,MIN,fg3_make,1,False,False,,Culver 26' 3PT Jump Shot (11 PTS),55-64,55,64
 0021900313,2019-12-04,DAL,MIN,25.77,3,10,14,DAL,DAL,timeout,1,False,False,MAVERICKS Timeout: Regular (Full 3 Short 0),,55-64,55,64
 0021900313,2019-12-04,DAL,MIN,26.03,3,9,58,DAL,DAL,fg3_make,1,False,False,Porzingis 26' 3PT Jump Shot (10 PTS) (Doncic 5 AST),,58-64,58,64
@@ -416,8 +416,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900313,2019-12-04,DAL,MIN,46.17,4,1,50,MIN,MIN,reb,0,False,False,,Okogie REBOUND (Off:3 Def:4),114-109,114,109
 0021900313,2019-12-04,DAL,MIN,46.25,4,1,45,MIN,MIN,fg_miss,1,True,False,,MISS Wiggins 8' Jump Shot,114-109,114,109
 0021900313,2019-12-04,DAL,MIN,46.25,4,1,45,MIN,DAL,block,1,True,False,block,block,114-109,114,109
-0021900313,2019-12-04,DAL,MIN,46.3,4,1,42,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,114-109,114,109
 0021900313,2019-12-04,DAL,MIN,46.3,4,1,42,,DAL,jump_ball,0,False,False,Jump Ball Finney-Smith vs. Wiggins: Tip to Brunson,,114-109,114,109
+0021900313,2019-12-04,DAL,MIN,46.3,4,1,42,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,114-109,114,109
 0021900313,2019-12-04,DAL,MIN,46.6,4,1,24,DAL,DAL,fg3_miss,1,False,False,MISS Porzingis 25' 3PT Jump Shot,,114-109,114,109
 0021900313,2019-12-04,DAL,MIN,46.67,4,1,20,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:3 Def:0),,114-109,114,109
 0021900313,2019-12-04,DAL,MIN,46.87,4,1,8,DAL,DAL,fg3_miss,1,False,False,MISS Doncic 25' 3PT Jump Shot,,114-109,114,109

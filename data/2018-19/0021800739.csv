@@ -72,9 +72,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800739,2019-01-27,DAL,TOR,9.03,1,2,58,TOR,TOR,fg_miss,79,False,False,,MISS VanVleet 18' Pullup Jump Shot,23-26,23,26
 0021800739,2019-01-27,DAL,TOR,9.08,1,2,55,DAL,DAL,reb,0,False,False,Finney-Smith REBOUND (Off:0 Def:1),,23-26,23,26
 0021800739,2019-01-27,DAL,TOR,9.28,1,2,43,DAL,DAL,tov,2,False,True,Finney-Smith Lost Ball Turnover (P1.T3),,23-26,23,26
+0021800739,2019-01-27,DAL,TOR,9.28,1,2,43,DAL,TOR,steal,2,False,True,steal,steal,23-26,23,26
 0021800739,2019-01-27,DAL,TOR,9.28,1,2,43,TOR,DAL,foul,28,False,False,Finney-Smith Personal Take Foul (P1.PN) (T.Brothers),,23-26,23,26
 0021800739,2019-01-27,DAL,TOR,9.28,1,2,43,TOR,TOR,timeout,1,False,False,,Raptors Timeout: Regular (Reg.1 Short 0),23-26,23,26
-0021800739,2019-01-27,DAL,TOR,9.28,1,2,43,DAL,TOR,steal,2,False,True,steal,steal,23-26,23,26
 0021800739,2019-01-27,DAL,TOR,9.28,1,2,43,TOR,TOR,ft_make,11,False,False,,Ibaka Free Throw 1 of 2 (2 PTS),23-27,23,27
 0021800739,2019-01-27,DAL,TOR,9.28,1,2,43,TOR,TOR,ft_make,12,False,False,,Ibaka Free Throw 2 of 2 (3 PTS),23-28,23,28
 0021800739,2019-01-27,DAL,TOR,9.57,1,2,26,DAL,DAL,fg_make,75,False,False,Finney-Smith 1' Driving Finger Roll Layup (5 PTS) (Doncic 4 AST),,25-28,25,28
@@ -225,10 +225,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800739,2019-01-27,DAL,TOR,23.43,2,0,34,TOR,TOR,fg3_miss,79,False,False,,MISS Leonard 26' 3PT Pullup Jump Shot,56-67,56,67
 0021800739,2019-01-27,DAL,TOR,23.45,2,0,33,DAL,DAL,reb,0,False,False,Doncic REBOUND (Off:0 Def:7),,56-67,56,67
 0021800739,2019-01-27,DAL,TOR,23.55,2,0,27,DAL,DAL,tov,1,False,True,Doncic Bad Pass Turnover (P1.T8),,56-67,56,67
+0021800739,2019-01-27,DAL,TOR,23.55,2,0,27,DAL,TOR,steal,1,False,True,steal,steal,56-67,56,67
 0021800739,2019-01-27,DAL,TOR,23.55,2,0,27,TOR,DAL,foul,1,False,False,Smith Jr. P.FOUL (P2.PN) (T.Brothers),,56-67,56,67
 0021800739,2019-01-27,DAL,TOR,23.55,2,0,27,TOR,TOR,ft_miss,11,False,False,,MISS Wright Free Throw 1 of 2,56-67,56,67
 0021800739,2019-01-27,DAL,TOR,23.55,2,0,27,TOR,TOR,reb,1,False,False,,Raptors Rebound,56-67,56,67
-0021800739,2019-01-27,DAL,TOR,23.55,2,0,27,DAL,TOR,steal,1,False,True,steal,steal,56-67,56,67
 0021800739,2019-01-27,DAL,TOR,23.55,2,0,27,TOR,TOR,ft_make,12,False,False,,Wright Free Throw 2 of 2 (7 PTS),56-68,56,68
 0021800739,2019-01-27,DAL,TOR,23.8,2,0,12,DAL,TOR,foul,1,False,False,,Ibaka P.FOUL (P1.PN) (K.Lane),56-68,56,68
 0021800739,2019-01-27,DAL,TOR,23.8,2,0,12,DAL,DAL,ft_make,11,False,False,Jordan Free Throw 1 of 2 (3 PTS),,57-68,57,68
@@ -335,8 +335,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800739,2019-01-27,DAL,TOR,33.05,3,2,57,TOR,DAL,ft_make,16,False,False,Barnes Free Throw Technical (14 PTS),,81-81,81,81
 0021800739,2019-01-27,DAL,TOR,33.17,3,2,50,DAL,DAL,fg_make,52,False,False,Powell Alley Oop Dunk (2 PTS) (Doncic 7 AST),,83-81,83,81
 0021800739,2019-01-27,DAL,TOR,33.6,3,2,24,TOR,TOR,fg3_miss,1,False,False,,MISS VanVleet 25' 3PT Jump Shot,83-81,83,81
-0021800739,2019-01-27,DAL,TOR,33.62,3,2,23,TOR,TOR,reb,0,False,False,,Monroe REBOUND (Off:1 Def:0),83-81,83,81
 0021800739,2019-01-27,DAL,TOR,33.62,3,2,23,TOR,TOR,tov,11,False,False,,Raptors Turnover: Shot Clock (T#6),83-81,83,81
+0021800739,2019-01-27,DAL,TOR,33.62,3,2,23,TOR,TOR,reb,0,False,False,,Monroe REBOUND (Off:1 Def:0),83-81,83,81
 0021800739,2019-01-27,DAL,TOR,33.83,3,2,10,DAL,DAL,fg3_miss,79,False,False,MISS Doncic 27' 3PT Pullup Jump Shot,,83-81,83,81
 0021800739,2019-01-27,DAL,TOR,33.9,3,2,6,TOR,TOR,reb,0,False,False,,VanVleet REBOUND (Off:0 Def:1),83-81,83,81
 0021800739,2019-01-27,DAL,TOR,33.93,3,2,4,TOR,TOR,fg_make,50,False,False,,Powell 1' Running Dunk (6 PTS) (VanVleet 5 AST),83-83,83,83

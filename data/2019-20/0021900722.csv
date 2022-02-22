@@ -136,8 +136,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900722,2020-01-31,HOU,DAL,13.6,2,10,24,HOU,HOU,fg3_miss,1,False,False,MISS McLemore 27' 3PT Jump Shot,,37-33,37,33
 0021900722,2020-01-31,HOU,DAL,13.63,2,10,22,DAL,DAL,reb,0,False,False,,Mavericks Rebound,37-33,37,33
 0021900722,2020-01-31,HOU,DAL,13.72,2,10,17,DAL,DAL,fg_miss,6,True,False,,MISS Wright 7' Driving Layup,37-33,37,33
-0021900722,2020-01-31,HOU,DAL,13.72,2,10,17,DAL,DAL,reb,0,False,False,,Mavericks Rebound,37-33,37,33
 0021900722,2020-01-31,HOU,DAL,13.72,2,10,17,DAL,HOU,block,6,True,False,block,block,37-33,37,33
+0021900722,2020-01-31,HOU,DAL,13.72,2,10,17,DAL,DAL,reb,0,False,False,,Mavericks Rebound,37-33,37,33
 0021900722,2020-01-31,HOU,DAL,13.87,2,10,8,DAL,DAL,fg_miss,58,False,False,,MISS Cauley-Stein 10' Turnaround Hook Shot,37-33,37,33
 0021900722,2020-01-31,HOU,DAL,13.9,2,10,6,HOU,HOU,reb,0,False,False,McLemore REBOUND (Off:0 Def:1),,37-33,37,33
 0021900722,2020-01-31,HOU,DAL,14.05,2,9,57,HOU,HOU,fg_miss,6,True,False,MISS Westbrook 6' Driving Layup,,37-33,37,33
@@ -332,8 +332,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900722,2020-01-31,HOU,DAL,34.08,3,1,55,DAL,DAL,reb,0,False,False,,Kleber REBOUND (Off:1 Def:2),94-81,94,81
 0021900722,2020-01-31,HOU,DAL,34.3,3,1,42,DAL,DAL,fg_make,78,False,False,,Wright 2' Floating Jump Shot (5 PTS),94-83,94,83
 0021900722,2020-01-31,HOU,DAL,34.43,3,1,34,HOU,HOU,fg_miss,101,True,False,MISS McLemore 3' Driving Floating Jump Shot,,94-83,94,83
-0021900722,2020-01-31,HOU,DAL,34.43,3,1,34,HOU,HOU,reb,0,False,False,Sefolosha REBOUND (Off:3 Def:2),,94-83,94,83
 0021900722,2020-01-31,HOU,DAL,34.43,3,1,34,HOU,DAL,block,101,True,False,block,block,94-83,94,83
+0021900722,2020-01-31,HOU,DAL,34.43,3,1,34,HOU,HOU,reb,0,False,False,Sefolosha REBOUND (Off:3 Def:2),,94-83,94,83
 0021900722,2020-01-31,HOU,DAL,34.53,3,1,28,HOU,HOU,fg_make,71,False,False,Westbrook 2' Finger Roll Layup (25 PTS) (Gordon 4 AST),,96-83,96,83
 0021900722,2020-01-31,HOU,DAL,34.53,3,1,28,HOU,DAL,foul,2,False,False,,Porzingis S.FOUL (P2.T3) (J.Williams),96-83,96,83
 0021900722,2020-01-31,HOU,DAL,34.53,3,1,28,HOU,HOU,ft_make,10,False,False,Westbrook Free Throw 1 of 1 (26 PTS),,97-83,97,83
@@ -376,8 +376,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900722,2020-01-31,HOU,DAL,38.85,4,9,9,HOU,DAL,foul,4,False,False,,Cauley-Stein OFF.Foul (P4) (E.Malloy),106-97,106,97
 0021900722,2020-01-31,HOU,DAL,38.85,4,9,9,DAL,DAL,tov,37,False,False,,Cauley-Stein Offensive Foul Turnover (P1.T14),106-97,106,97
 0021900722,2020-01-31,HOU,DAL,38.93,4,9,4,HOU,HOU,fg_miss,75,True,False,MISS Westbrook 3' Driving Finger Roll Layup,,106-97,106,97
-0021900722,2020-01-31,HOU,DAL,38.93,4,9,4,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,106-97,106,97
 0021900722,2020-01-31,HOU,DAL,38.93,4,9,4,HOU,DAL,block,75,True,False,block,block,106-97,106,97
+0021900722,2020-01-31,HOU,DAL,38.93,4,9,4,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,106-97,106,97
 0021900722,2020-01-31,HOU,DAL,39.08,4,8,55,HOU,DAL,foul,1,False,False,,Curry P.FOUL (P1.T1) (D.Taylor),106-97,106,97
 0021900722,2020-01-31,HOU,DAL,39.2,4,8,48,HOU,HOU,fg3_miss,1,False,False,MISS Gordon 24' 3PT Jump Shot,,106-97,106,97
 0021900722,2020-01-31,HOU,DAL,39.25,4,8,45,DAL,DAL,reb,0,False,False,,Curry REBOUND (Off:0 Def:2),106-97,106,97
@@ -449,9 +449,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900722,2020-01-31,HOU,DAL,47.57,4,0,26,HOU,HOU,fg3_miss,1,False,False,MISS Tucker 24' 3PT Jump Shot,,126-121,126,121
 0021900722,2020-01-31,HOU,DAL,47.6,4,0,24,DAL,DAL,reb,0,False,False,,Finney-Smith REBOUND (Off:3 Def:5),126-121,126,121
 0021900722,2020-01-31,HOU,DAL,47.68,4,0,19,DAL,DAL,fg_miss,41,True,False,,MISS Brunson 3' Running Layup,126-121,126,121
+0021900722,2020-01-31,HOU,DAL,47.68,4,0,19,DAL,HOU,block,41,True,False,block,block,126-121,126,121
 0021900722,2020-01-31,HOU,DAL,47.68,4,0,19,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:2 Def:14),,126-121,126,121
 0021900722,2020-01-31,HOU,DAL,47.68,4,0,19,HOU,DAL,foul,28,False,False,,Finney-Smith Personal Take Foul (P4.T4) (E.Malloy),126-121,126,121
-0021900722,2020-01-31,HOU,DAL,47.68,4,0,19,DAL,HOU,block,41,True,False,block,block,126-121,126,121
 0021900722,2020-01-31,HOU,DAL,47.77,4,0,14,HOU,DAL,foul,28,False,False,,Porzingis Personal Take Foul (P3.PN) (E.Malloy),126-121,126,121
 0021900722,2020-01-31,HOU,DAL,47.77,4,0,14,HOU,HOU,ft_make,11,False,False,Harden Free Throw 1 of 2 (34 PTS),,127-121,127,121
 0021900722,2020-01-31,HOU,DAL,47.77,4,0,14,HOU,HOU,ft_make,12,False,False,Harden Free Throw 2 of 2 (35 PTS),,128-121,128,121

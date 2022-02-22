@@ -63,9 +63,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900460,2019-12-26,DET,WAS,6.88,1,5,7,WAS,DET,foul,1,False,False,Frazier P.FOUL (P1.T4) (J.Goble),,16-9,16,9
 0021900460,2019-12-26,DET,WAS,7.1,1,4,54,WAS,WAS,fg_miss,79,False,False,,MISS Smith 17' Pullup Jump Shot,16-9,16,9
 0021900460,2019-12-26,DET,WAS,7.15,1,4,51,DET,DET,reb,0,False,False,Griffin REBOUND (Off:1 Def:3),,16-9,16,9
+0021900460,2019-12-26,DET,WAS,7.2,1,4,48,DET,DET,timeout,1,False,False,PISTONS Timeout: Regular (Full 2 Short 0),,18-9,18,9
 0021900460,2019-12-26,DET,WAS,7.2,1,4,48,DET,DET,fg_make,5,False,False,Drummond 2' Layup (4 PTS) (Griffin 2 AST),,18-9,18,9
 0021900460,2019-12-26,DET,WAS,7.2,1,4,48,DET,WAS,foul,2,False,False,,Smith S.FOUL (P2.T3) (J.Goble),18-9,18,9
-0021900460,2019-12-26,DET,WAS,7.2,1,4,48,DET,DET,timeout,1,False,False,PISTONS Timeout: Regular (Full 2 Short 0),,18-9,18,9
 0021900460,2019-12-26,DET,WAS,7.2,1,4,48,DET,DET,ft_miss,10,False,False,MISS Drummond Free Throw 1 of 1,,18-9,18,9
 0021900460,2019-12-26,DET,WAS,7.2,1,4,48,WAS,WAS,reb,0,False,False,,Pasecniks REBOUND (Off:0 Def:1),18-9,18,9
 0021900460,2019-12-26,DET,WAS,7.52,1,4,29,WAS,DET,foul,2,False,False,Galloway S.FOUL (P1.PN) (J.Conley),,18-9,18,9
@@ -104,8 +104,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900460,2019-12-26,DET,WAS,10.35,1,1,39,WAS,WAS,fg_miss,1,False,False,,MISS Pasecniks 16' Jump Shot,26-19,26,19
 0021900460,2019-12-26,DET,WAS,10.4,1,1,36,DET,DET,reb,0,False,False,Morris REBOUND (Off:0 Def:1),,26-19,26,19
 0021900460,2019-12-26,DET,WAS,10.67,1,1,20,DET,DET,fg_miss,79,False,False,MISS Rose 11' Pullup Jump Shot,,26-19,26,19
-0021900460,2019-12-26,DET,WAS,10.77,1,1,14,DET,DET,fg_make,97,False,False,Drummond 1' Tip Layup Shot (8 PTS),,28-19,28,19
 0021900460,2019-12-26,DET,WAS,10.77,1,1,14,DET,DET,reb,0,False,False,Drummond REBOUND (Off:1 Def:4),,28-19,28,19
+0021900460,2019-12-26,DET,WAS,10.77,1,1,14,DET,DET,fg_make,97,False,False,Drummond 1' Tip Layup Shot (8 PTS),,28-19,28,19
 0021900460,2019-12-26,DET,WAS,10.93,1,1,4,WAS,WAS,fg_make,79,False,False,,McRae 19' Pullup Jump Shot (2 PTS) (Payton II 1 AST),28-21,28,21
 0021900460,2019-12-26,DET,WAS,11.15,1,0,51,DET,DET,fg_make,63,False,False,Galloway 12' Fadeaway Jumper (2 PTS) (Rose 1 AST),,30-21,30,21
 0021900460,2019-12-26,DET,WAS,11.15,1,0,51,DET,DET,fg_make,63,False,False,Galloway 12' Fadeaway Jumper (2 PTS) (Rose 1 AST),,30-21,30,21
@@ -424,8 +424,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900460,2019-12-26,DET,WAS,43.03,4,4,58,WAS,WAS,reb,0,False,False,,Payton II REBOUND (Off:3 Def:1),119-93,119,93
 0021900460,2019-12-26,DET,WAS,43.03,4,4,58,WAS,WAS,tov,39,False,False,,Payton II Step Out of Bounds Turnover (P1.T10),119-93,119,93
 0021900460,2019-12-26,DET,WAS,43.3,4,4,42,DET,DET,fg_miss,6,True,False,MISS Mykhailiuk 3' Driving Layup,,119-93,119,93
-0021900460,2019-12-26,DET,WAS,43.3,4,4,42,DET,DET,reb,0,False,False,PISTONS Rebound,,119-93,119,93
 0021900460,2019-12-26,DET,WAS,43.3,4,4,42,DET,WAS,block,6,True,False,block,block,119-93,119,93
+0021900460,2019-12-26,DET,WAS,43.3,4,4,42,DET,DET,reb,0,False,False,PISTONS Rebound,,119-93,119,93
 0021900460,2019-12-26,DET,WAS,43.37,4,4,38,DET,DET,fg3_make,1,False,False,Wood 24' 3PT Jump Shot (22 PTS) (Brown 5 AST),,122-93,122,93
 0021900460,2019-12-26,DET,WAS,43.68,4,4,19,WAS,WAS,fg_make,1,False,False,,Williams 17' Jump Shot (9 PTS) (Brown Jr. 1 AST),122-95,122,95
 0021900460,2019-12-26,DET,WAS,43.93,4,4,4,DET,DET,fg_make,44,False,False,Maker 1' Reverse Layup (4 PTS) (Frazier 6 AST),,124-95,124,95

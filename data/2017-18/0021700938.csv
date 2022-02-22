@@ -232,8 +232,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700938,2018-03-03,MIA,DET,25.53,3,10,28,MIA,MIA,reb,0,False,False,Richardson REBOUND (Off:1 Def:2),,64-51,64,51
 0021700938,2018-03-03,MIA,DET,25.53,3,10,28,MIA,DET,foul,1,False,False,,Drummond P.FOUL (P2.T2) (T.Washington),64-51,64,51
 0021700938,2018-03-03,MIA,DET,25.72,3,10,17,MIA,MIA,tov,1,False,True,Whiteside Bad Pass Turnover (P2.T6),,64-51,64,51
-0021700938,2018-03-03,MIA,DET,25.72,3,10,17,DET,MIA,foul,1,False,False,Whiteside P.FOUL (P3.T3) (T.Washington),,64-51,64,51
 0021700938,2018-03-03,MIA,DET,25.72,3,10,17,MIA,DET,steal,1,False,True,steal,steal,64-51,64,51
+0021700938,2018-03-03,MIA,DET,25.72,3,10,17,DET,MIA,foul,1,False,False,Whiteside P.FOUL (P3.T3) (T.Washington),,64-51,64,51
 0021700938,2018-03-03,MIA,DET,25.9,3,10,6,DET,DET,fg_miss,1,False,False,,MISS Griffin 21' Jump Shot,64-51,64,51
 0021700938,2018-03-03,MIA,DET,25.95,3,10,3,MIA,MIA,reb,0,False,False,Dragic REBOUND (Off:0 Def:2),,64-51,64,51
 0021700938,2018-03-03,MIA,DET,26.07,3,9,56,MIA,MIA,fg3_miss,1,False,False,MISS Babbitt 29' 3PT Jump Shot,,64-51,64,51
@@ -253,8 +253,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700938,2018-03-03,MIA,DET,27.75,3,8,15,MIA,MIA,tov,2,False,True,Dragic Lost Ball Turnover (P2.T7),,66-57,66,57
 0021700938,2018-03-03,MIA,DET,27.75,3,8,15,MIA,DET,steal,2,False,True,steal,steal,66-57,66,57
 0021700938,2018-03-03,MIA,DET,27.83,3,8,10,DET,DET,fg_miss,6,True,False,,MISS Ennis III 3' Driving Layup,66-57,66,57
-0021700938,2018-03-03,MIA,DET,27.83,3,8,10,DET,DET,reb,0,False,False,,Pistons Rebound,66-57,66,57
 0021700938,2018-03-03,MIA,DET,27.83,3,8,10,DET,MIA,block,6,True,False,block,block,66-57,66,57
+0021700938,2018-03-03,MIA,DET,27.83,3,8,10,DET,DET,reb,0,False,False,,Pistons Rebound,66-57,66,57
 0021700938,2018-03-03,MIA,DET,28.13,3,7,52,DET,DET,fg_miss,78,False,False,,MISS Smith 7' Floating Jump Shot,66-57,66,57
 0021700938,2018-03-03,MIA,DET,28.23,3,7,46,MIA,MIA,reb,0,False,False,Whiteside REBOUND (Off:3 Def:5),,66-57,66,57
 0021700938,2018-03-03,MIA,DET,28.28,3,7,43,DET,MIA,foul,26,False,False,Dragic Offensive Charge Foul (P2.PN) (T.Washington),,66-57,66,57
@@ -268,9 +268,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700938,2018-03-03,MIA,DET,28.97,3,7,2,DET,DET,fg_make,97,False,False,,Drummond 1' Tip Layup Shot (14 PTS),66-61,66,61
 0021700938,2018-03-03,MIA,DET,29.15,3,6,51,MIA,MIA,fg3_make,1,False,False,Babbitt 29' 3PT Jump Shot (9 PTS) (Dragic 5 AST),,69-61,69,61
 0021700938,2018-03-03,MIA,DET,29.63,3,6,22,DET,DET,fg3_miss,1,False,False,,MISS Ennis III 28' 3PT Jump Shot,69-61,69,61
-0021700938,2018-03-03,MIA,DET,29.65,3,6,21,DET,DET,reb,0,False,False,,Pistons Rebound,69-61,69,61
 0021700938,2018-03-03,MIA,DET,29.65,3,6,21,DET,DET,tov,11,False,False,,Pistons Turnover: Shot Clock (T#11),69-61,69,61
 0021700938,2018-03-03,MIA,DET,29.65,3,6,21,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.4 Short 0),69-61,69,61
+0021700938,2018-03-03,MIA,DET,29.65,3,6,21,DET,DET,reb,0,False,False,,Pistons Rebound,69-61,69,61
 0021700938,2018-03-03,MIA,DET,29.88,3,6,7,MIA,MIA,fg3_miss,1,False,False,MISS Babbitt 28' 3PT Jump Shot,,69-61,69,61
 0021700938,2018-03-03,MIA,DET,29.95,3,6,3,MIA,MIA,reb,0,False,False,Whiteside REBOUND (Off:4 Def:5),,69-61,69,61
 0021700938,2018-03-03,MIA,DET,30.05,3,5,57,MIA,MIA,fg3_make,1,False,False,Johnson 3PT Jump Shot (10 PTS) (Babbitt 1 AST),,72-61,72,61
@@ -297,8 +297,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700938,2018-03-03,MIA,DET,33.65,3,2,21,MIA,MIA,fg_miss,1,False,False,MISS Wade 20' Jump Shot,,72-68,72,68
 0021700938,2018-03-03,MIA,DET,33.72,3,2,17,DET,DET,reb,0,False,False,,Johnson REBOUND (Off:0 Def:2),72-68,72,68
 0021700938,2018-03-03,MIA,DET,33.8,3,2,12,DET,DET,tov,2,False,True,,Johnson Lost Ball Turnover (P1.T13),72-68,72,68
-0021700938,2018-03-03,MIA,DET,33.8,3,2,12,MIA,DET,foul,1,False,False,,Johnson P.FOUL (P3.T4) (K.Scott),72-68,72,68
 0021700938,2018-03-03,MIA,DET,33.8,3,2,12,DET,MIA,steal,2,False,True,steal,steal,72-68,72,68
+0021700938,2018-03-03,MIA,DET,33.8,3,2,12,MIA,DET,foul,1,False,False,,Johnson P.FOUL (P3.T4) (K.Scott),72-68,72,68
 0021700938,2018-03-03,MIA,DET,34.1,3,1,54,MIA,MIA,tov,2,False,True,Olynyk Lost Ball Turnover (P1.T11),,72-68,72,68
 0021700938,2018-03-03,MIA,DET,34.1,3,1,54,MIA,DET,steal,2,False,True,steal,steal,72-68,72,68
 0021700938,2018-03-03,MIA,DET,34.18,3,1,49,DET,DET,fg_make,76,False,False,,Johnson 4' Running Finger Roll Layup (5 PTS) (Griffin 6 AST),72-70,72,70
@@ -323,8 +323,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700938,2018-03-03,MIA,DET,36.33,4,11,40,DET,MIA,steal,1,False,True,steal,steal,74-70,74,70
 0021700938,2018-03-03,MIA,DET,36.57,4,11,26,MIA,MIA,fg_make,1,False,False,Richardson 22' Jump Shot (13 PTS),,76-70,76,70
 0021700938,2018-03-03,MIA,DET,36.77,4,11,14,DET,DET,fg_miss,6,True,False,,MISS Buycks 10' Driving Layup,76-70,76,70
-0021700938,2018-03-03,MIA,DET,36.77,4,11,14,DET,DET,reb,0,False,False,,Pistons Rebound,76-70,76,70
 0021700938,2018-03-03,MIA,DET,36.77,4,11,14,DET,MIA,block,6,True,False,block,block,76-70,76,70
+0021700938,2018-03-03,MIA,DET,36.77,4,11,14,DET,DET,reb,0,False,False,,Pistons Rebound,76-70,76,70
 0021700938,2018-03-03,MIA,DET,36.78,4,11,13,DET,MIA,foul,2,False,False,Olynyk S.FOUL (P2.T1) (K.Scott),,76-70,76,70
 0021700938,2018-03-03,MIA,DET,36.78,4,11,13,DET,DET,ft_make,11,False,False,,Drummond Free Throw 1 of 2 (15 PTS),76-71,76,71
 0021700938,2018-03-03,MIA,DET,36.78,4,11,13,DET,DET,ft_make,12,False,False,,Drummond Free Throw 2 of 2 (16 PTS),76-72,76,72

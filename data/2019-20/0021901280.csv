@@ -151,10 +151,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901280,2020-08-08,POR,LAC,18.18,2,5,49,POR,LAC,foul,2,False,False,,Morris Sr. S.FOUL (P1.T2) (S.Foster),61-53,61,53
 0021901280,2020-08-08,POR,LAC,18.18,2,5,49,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.2 Short 0),61-53,61,53
 0021901280,2020-08-08,POR,LAC,18.18,2,5,49,LAC,POR,ft_make,10,False,False,Nurkic Free Throw 1 of 1 (6 PTS),,62-53,62,53
-0021901280,2020-08-08,POR,LAC,18.43,2,5,34,LAC,LAC,tov,1,False,True,,Williams Bad Pass Turnover (P2.T8),62-53,62,53
 0021901280,2020-08-08,POR,LAC,18.43,2,5,34,POR,POR,tov,2,False,True,Lillard Lost Ball Turnover (P1.T5),,62-53,62,53
-0021901280,2020-08-08,POR,LAC,18.43,2,5,34,LAC,POR,steal,1,False,True,steal,steal,62-53,62,53
 0021901280,2020-08-08,POR,LAC,18.43,2,5,34,POR,LAC,steal,2,False,True,steal,steal,62-53,62,53
+0021901280,2020-08-08,POR,LAC,18.43,2,5,34,LAC,LAC,tov,1,False,True,,Williams Bad Pass Turnover (P2.T8),62-53,62,53
+0021901280,2020-08-08,POR,LAC,18.43,2,5,34,LAC,POR,steal,1,False,True,steal,steal,62-53,62,53
 0021901280,2020-08-08,POR,LAC,18.55,2,5,27,LAC,LAC,fg_make,6,False,False,,George 2' Driving Layup (12 PTS),62-55,62,55
 0021901280,2020-08-08,POR,LAC,18.77,2,5,14,POR,POR,fg3_make,1,False,False,Trent Jr. 28' 3PT Jump Shot (14 PTS) (McCollum 7 AST),,65-55,65,55
 0021901280,2020-08-08,POR,LAC,19.02,2,4,59,LAC,LAC,fg_make,101,False,False,,Jackson 6' Driving Floating Jump Shot (9 PTS),65-57,65,57
@@ -218,8 +218,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901280,2020-08-08,POR,LAC,25.32,3,10,41,POR,POR,fg_make,7,False,False,Collins 1' Dunk (7 PTS) (McCollum 8 AST),,81-72,81,72
 0021901280,2020-08-08,POR,LAC,25.32,3,10,41,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.3 Short 0),81-72,81,72
 0021901280,2020-08-08,POR,LAC,25.53,3,10,28,LAC,LAC,fg_miss,6,True,False,,MISS Shamet 1' Driving Layup,81-72,81,72
-0021901280,2020-08-08,POR,LAC,25.53,3,10,28,LAC,LAC,reb,0,False,False,,Clippers Rebound,81-72,81,72
 0021901280,2020-08-08,POR,LAC,25.53,3,10,28,LAC,POR,block,6,True,False,block,block,81-72,81,72
+0021901280,2020-08-08,POR,LAC,25.53,3,10,28,LAC,LAC,reb,0,False,False,,Clippers Rebound,81-72,81,72
 0021901280,2020-08-08,POR,LAC,25.65,3,10,21,LAC,LAC,fg_miss,6,False,False,,MISS George 2' Driving Layup,81-72,81,72
 0021901280,2020-08-08,POR,LAC,25.68,3,10,19,POR,POR,reb,0,False,False,Anthony REBOUND (Off:1 Def:4),,81-72,81,72
 0021901280,2020-08-08,POR,LAC,25.78,3,10,13,POR,POR,fg3_miss,1,False,False,MISS McCollum 26' 3PT Jump Shot,,81-72,81,72

@@ -16,8 +16,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701081,2018-03-23,NYK,MIN,2.48,1,9,31,MIN,MIN,fg_make,7,False,False,,Towns 1' Dunk (4 PTS) (Teague 2 AST),2-9,2,9
 0021701081,2018-03-23,NYK,MIN,2.62,1,9,23,NYK,NYK,timeout,1,False,False,KNICKS Timeout: Regular (Full 1 Short 0),,2-9,2,9
 0021701081,2018-03-23,NYK,MIN,2.93,1,9,4,NYK,NYK,fg_miss,1,False,False,MISS Beasley 22' Jump Shot,,2-9,2,9
-0021701081,2018-03-23,NYK,MIN,2.95,1,9,3,NYK,NYK,reb,0,False,False,KNICKS Rebound,,2-9,2,9
 0021701081,2018-03-23,NYK,MIN,2.95,1,9,3,NYK,NYK,tov,11,False,False,KNICKS Turnover: Shot Clock (T#1),,2-9,2,9
+0021701081,2018-03-23,NYK,MIN,2.95,1,9,3,NYK,NYK,reb,0,False,False,KNICKS Rebound,,2-9,2,9
 0021701081,2018-03-23,NYK,MIN,3.17,1,8,50,MIN,MIN,fg3_miss,1,False,False,,MISS Gibson 24' 3PT Jump Shot,2-9,2,9
 0021701081,2018-03-23,NYK,MIN,3.2,1,8,48,NYK,NYK,reb,0,False,False,Kanter REBOUND (Off:0 Def:1),,2-9,2,9
 0021701081,2018-03-23,NYK,MIN,3.28,1,8,43,NYK,NYK,fg_miss,79,False,False,MISS Beasley 14' Pullup Jump Shot,,2-9,2,9
@@ -193,8 +193,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701081,2018-03-23,NYK,MIN,22.27,2,1,44,MIN,MIN,fg3_make,1,False,False,,Wiggins 24' 3PT Jump Shot (9 PTS) (Bjelica 2 AST),45-55,45,55
 0021701081,2018-03-23,NYK,MIN,22.55,2,1,27,,NYK,jump_ball,0,False,False,,,45-55,45,55
 0021701081,2018-03-23,NYK,MIN,22.55,2,1,27,NYK,NYK,tov,2,False,True,Kanter Lost Ball Turnover (P1.T6),,45-55,45,55
-0021701081,2018-03-23,NYK,MIN,22.55,2,1,27,MIN,NYK,foul,3,False,False,Kanter L.B.FOUL (P2.PN) (C.Kirkland),,45-55,45,55
 0021701081,2018-03-23,NYK,MIN,22.55,2,1,27,NYK,MIN,steal,2,False,True,steal,steal,45-55,45,55
+0021701081,2018-03-23,NYK,MIN,22.55,2,1,27,MIN,NYK,foul,3,False,False,Kanter L.B.FOUL (P2.PN) (C.Kirkland),,45-55,45,55
 0021701081,2018-03-23,NYK,MIN,22.55,2,1,27,MIN,MIN,ft_make,11,False,False,,Towns Free Throw 1 of 2 (15 PTS),45-56,45,56
 0021701081,2018-03-23,NYK,MIN,22.55,2,1,27,MIN,MIN,ft_make,12,False,False,,Towns Free Throw 2 of 2 (16 PTS),45-57,45,57
 0021701081,2018-03-23,NYK,MIN,22.78,2,1,13,NYK,NYK,fg_miss,5,False,False,MISS Hardaway Jr. 1' Layup,,45-57,45,57
@@ -351,8 +351,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701081,2018-03-23,NYK,MIN,40.52,4,7,29,MIN,MIN,reb,0,False,False,,Gibson REBOUND (Off:1 Def:5),89-94,89,94
 0021701081,2018-03-23,NYK,MIN,40.53,4,7,28,MIN,MIN,fg_make,5,False,False,,Gibson 2' Layup (16 PTS),89-96,89,96
 0021701081,2018-03-23,NYK,MIN,40.68,4,7,19,NYK,NYK,fg_miss,5,True,False,MISS Beasley 4' Layup,,89-96,89,96
-0021701081,2018-03-23,NYK,MIN,40.68,4,7,19,NYK,NYK,reb,0,False,False,KNICKS Rebound,,89-96,89,96
 0021701081,2018-03-23,NYK,MIN,40.68,4,7,19,NYK,MIN,block,5,True,False,block,block,89-96,89,96
+0021701081,2018-03-23,NYK,MIN,40.68,4,7,19,NYK,NYK,reb,0,False,False,KNICKS Rebound,,89-96,89,96
 0021701081,2018-03-23,NYK,MIN,40.8,4,7,12,NYK,MIN,foul,1,False,False,,Gibson P.FOUL (P2.T2) (T.Brothers),89-96,89,96
 0021701081,2018-03-23,NYK,MIN,41.02,4,6,59,NYK,NYK,fg_miss,63,False,False,MISS Beasley 9' Fadeaway Jumper,,89-96,89,96
 0021701081,2018-03-23,NYK,MIN,41.07,4,6,56,MIN,MIN,reb,0,False,False,,Wiggins REBOUND (Off:0 Def:8),89-96,89,96
@@ -391,8 +391,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701081,2018-03-23,NYK,MIN,45.33,4,2,40,NYK,MIN,foul,3,False,False,,Towns L.B.FOUL (P5.T3) (T.Brothers),96-105,96,105
 0021701081,2018-03-23,NYK,MIN,45.5,4,2,30,NYK,MIN,violation,5,False,False,,Wiggins Violation:Kicked Ball (L.Holtkamp),96-105,96,105
 0021701081,2018-03-23,NYK,MIN,45.72,4,2,17,NYK,NYK,tov,2,False,True,Hardaway Jr. Lost Ball Turnover (P2.T11),,96-105,96,105
-0021701081,2018-03-23,NYK,MIN,45.72,4,2,17,MIN,NYK,foul,1,False,False,Hardaway Jr. P.FOUL (P2.T4) (T.Brothers),,96-105,96,105
 0021701081,2018-03-23,NYK,MIN,45.72,4,2,17,NYK,MIN,steal,2,False,True,steal,steal,96-105,96,105
+0021701081,2018-03-23,NYK,MIN,45.72,4,2,17,MIN,NYK,foul,1,False,False,Hardaway Jr. P.FOUL (P2.T4) (T.Brothers),,96-105,96,105
 0021701081,2018-03-23,NYK,MIN,45.95,4,2,3,MIN,MIN,fg_miss,3,False,False,,MISS Towns 8' Hook Shot,96-105,96,105
 0021701081,2018-03-23,NYK,MIN,45.98,4,2,1,NYK,NYK,reb,0,False,False,Beasley REBOUND (Off:0 Def:7),,96-105,96,105
 0021701081,2018-03-23,NYK,MIN,46.05,4,1,57,NYK,NYK,fg3_make,1,False,False,Hardaway Jr. 27' 3PT Jump Shot (37 PTS) (Burke 9 AST),,99-105,99,105

@@ -6,8 +6,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000391,2021-02-11,DET,IND,0.9,1,11,6,DET,DET,fg3_miss,79,False,False,MISS Ellington 25' 3PT Pullup Jump Shot,,2-2,2,2
 0022000391,2021-02-11,DET,IND,0.95,1,11,3,IND,IND,reb,0,False,False,,Brogdon REBOUND (Off:0 Def:1),2-2,2,2
 0022000391,2021-02-11,DET,IND,1.25,1,10,45,IND,IND,fg_miss,6,True,False,,MISS Holiday 1' Driving Layup,2-2,2,2
-0022000391,2021-02-11,DET,IND,1.25,1,10,45,DET,DET,reb,0,False,False,PISTONS Rebound,,2-2,2,2
 0022000391,2021-02-11,DET,IND,1.25,1,10,45,IND,DET,block,6,True,False,block,block,2-2,2,2
+0022000391,2021-02-11,DET,IND,1.25,1,10,45,DET,DET,reb,0,False,False,PISTONS Rebound,,2-2,2,2
 0022000391,2021-02-11,DET,IND,1.63,1,10,22,DET,DET,fg_miss,5,False,False,MISS Griffin 2' Layup,,2-2,2,2
 0022000391,2021-02-11,DET,IND,1.67,1,10,20,DET,DET,reb,0,False,False,Griffin REBOUND (Off:1 Def:0),,2-2,2,2
 0022000391,2021-02-11,DET,IND,1.73,1,10,16,DET,IND,foul,2,False,False,,Turner S.FOUL (P1.T1) (K.Scott),2-2,2,2
@@ -66,8 +66,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000391,2021-02-11,DET,IND,8.62,1,3,23,IND,IND,fg_make,101,False,False,,Brogdon 12' Driving Floating Jump Shot (4 PTS),15-16,15,16
 0022000391,2021-02-11,DET,IND,8.7,1,3,18,DET,IND,foul,1,False,False,,McConnell P.FOUL (P1.T3) (R.Hussey),15-16,15,16
 0022000391,2021-02-11,DET,IND,8.75,1,3,15,DET,DET,tov,1,False,True,Grant Bad Pass Turnover (P1.T1),,15-16,15,16
-0022000391,2021-02-11,DET,IND,8.75,1,3,15,IND,DET,foul,1,False,False,Doumbouya P.FOUL (P1.T1) (K.Scott),,15-16,15,16
 0022000391,2021-02-11,DET,IND,8.75,1,3,15,DET,IND,steal,1,False,True,steal,steal,15-16,15,16
+0022000391,2021-02-11,DET,IND,8.75,1,3,15,IND,DET,foul,1,False,False,Doumbouya P.FOUL (P1.T1) (K.Scott),,15-16,15,16
 0022000391,2021-02-11,DET,IND,9.08,1,2,55,IND,IND,fg_make,3,False,False,,Sabonis 5' Hook Shot (6 PTS),15-18,15,18
 0022000391,2021-02-11,DET,IND,9.5,1,2,30,DET,DET,fg3_miss,1,False,False,MISS Wright 25' 3PT Jump Shot,,15-18,15,18
 0022000391,2021-02-11,DET,IND,9.53,1,2,28,DET,DET,reb,0,False,False,Doumbouya REBOUND (Off:1 Def:0),,15-18,15,18
@@ -149,8 +149,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000391,2021-02-11,DET,IND,17.63,2,6,22,IND,IND,fg_miss,101,False,False,,MISS Holiday 6' Driving Floating Jump Shot,34-40,34,40
 0022000391,2021-02-11,DET,IND,17.67,2,6,20,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:2 Def:0),34-40,34,40
 0022000391,2021-02-11,DET,IND,17.68,2,6,19,IND,IND,fg_miss,72,True,False,,MISS Sabonis 1' Putback Layup,34-40,34,40
-0022000391,2021-02-11,DET,IND,17.68,2,6,19,DET,DET,reb,0,False,False,Jackson REBOUND (Off:2 Def:3),,34-40,34,40
 0022000391,2021-02-11,DET,IND,17.68,2,6,19,IND,DET,block,72,True,False,block,block,34-40,34,40
+0022000391,2021-02-11,DET,IND,17.68,2,6,19,DET,DET,reb,0,False,False,Jackson REBOUND (Off:2 Def:3),,34-40,34,40
 0022000391,2021-02-11,DET,IND,17.77,2,6,14,DET,DET,fg_make,41,False,False,Stewart 1' Running Layup (6 PTS) (Jackson 2 AST),,36-40,36,40
 0022000391,2021-02-11,DET,IND,18.05,2,5,57,IND,IND,fg3_miss,1,False,False,,MISS Brogdon 26' 3PT Jump Shot,36-40,36,40
 0022000391,2021-02-11,DET,IND,18.08,2,5,55,DET,DET,reb,0,False,False,Stewart REBOUND (Off:2 Def:1),,36-40,36,40
@@ -280,8 +280,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000391,2021-02-11,DET,IND,34.17,3,1,50,DET,DET,reb,0,False,False,Doumbouya REBOUND (Off:2 Def:2),,68-78,68,78
 0022000391,2021-02-11,DET,IND,34.3,3,1,42,DET,DET,fg_make,6,False,False,Doumbouya Driving Layup (6 PTS) (Jackson 4 AST),,70-78,70,78
 0022000391,2021-02-11,DET,IND,34.55,3,1,27,IND,IND,fg_miss,6,True,False,,MISS Brogdon 5' Driving Layup,70-78,70,78
-0022000391,2021-02-11,DET,IND,34.55,3,1,27,DET,DET,reb,0,False,False,PISTONS Rebound,,70-78,70,78
 0022000391,2021-02-11,DET,IND,34.55,3,1,27,IND,DET,block,6,True,False,block,block,70-78,70,78
+0022000391,2021-02-11,DET,IND,34.55,3,1,27,DET,DET,reb,0,False,False,PISTONS Rebound,,70-78,70,78
 0022000391,2021-02-11,DET,IND,34.88,3,1,7,DET,DET,fg_miss,63,False,False,MISS Grant 11' Fadeaway Jumper,,70-78,70,78
 0022000391,2021-02-11,DET,IND,34.93,3,1,4,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:4 Def:4),70-78,70,78
 0022000391,2021-02-11,DET,IND,35.13,3,0,52,IND,IND,fg_miss,6,False,False,,MISS McConnell 1' Driving Layup,70-78,70,78

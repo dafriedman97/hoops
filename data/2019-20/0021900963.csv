@@ -53,8 +53,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900963,2020-03-10,HOU,MIN,5.67,1,6,20,MIN,MIN,reb,0,False,False,,Beasley REBOUND (Off:0 Def:1),13-12,13,12
 0021900963,2020-03-10,HOU,MIN,5.92,1,6,5,MIN,MIN,fg_miss,1,True,False,,MISS Okogie 7' Jump Shot,13-12,13,12
 0021900963,2020-03-10,HOU,MIN,5.92,1,6,5,MIN,HOU,block,1,True,False,block,block,13-12,13,12
-0021900963,2020-03-10,HOU,MIN,5.97,1,6,2,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,13-12,13,12
 0021900963,2020-03-10,HOU,MIN,5.97,1,6,2,,HOU,jump_ball,0,False,False,Jump Ball Harden vs. Okogie: Tip to Tucker,,13-12,13,12
+0021900963,2020-03-10,HOU,MIN,5.97,1,6,2,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,13-12,13,12
 0021900963,2020-03-10,HOU,MIN,6.05,1,5,57,HOU,HOU,fg_make,1,False,False,Westbrook 18' Jump Shot (4 PTS),,15-12,15,12
 0021900963,2020-03-10,HOU,MIN,6.3,1,5,42,MIN,MIN,fg3_miss,1,False,False,,MISS Beasley 28' 3PT Jump Shot,15-12,15,12
 0021900963,2020-03-10,HOU,MIN,6.32,1,5,41,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:0 Def:3),,15-12,15,12
@@ -182,10 +182,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900963,2020-03-10,HOU,MIN,20.62,2,3,23,HOU,HOU,reb,0,False,False,Tucker REBOUND (Off:1 Def:4),,42-49,42,49
 0021900963,2020-03-10,HOU,MIN,20.75,2,3,15,HOU,HOU,tov,1,False,True,Westbrook Bad Pass Turnover (P1.T8),,42-49,42,49
 0021900963,2020-03-10,HOU,MIN,20.75,2,3,15,HOU,MIN,steal,1,False,True,steal,steal,42-49,42,49
-0021900963,2020-03-10,HOU,MIN,21.07,2,2,56,MIN,MIN,fg_miss,6,True,False,,MISS Beasley 8' Driving Layup,42-49,42,49
-0021900963,2020-03-10,HOU,MIN,21.07,2,2,56,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,42-49,42,49
 0021900963,2020-03-10,HOU,MIN,21.07,2,2,56,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 2 Short 0),,42-49,42,49
+0021900963,2020-03-10,HOU,MIN,21.07,2,2,56,MIN,MIN,fg_miss,6,True,False,,MISS Beasley 8' Driving Layup,42-49,42,49
 0021900963,2020-03-10,HOU,MIN,21.07,2,2,56,MIN,HOU,block,6,True,False,block,block,42-49,42,49
+0021900963,2020-03-10,HOU,MIN,21.07,2,2,56,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,42-49,42,49
 0021900963,2020-03-10,HOU,MIN,21.1,2,2,54,,HOU,jump_ball,1,False,False,Jump Ball (CC) Green vs. Johnson: Tip to Westbrook,,42-49,42,49
 0021900963,2020-03-10,HOU,MIN,21.35,2,2,39,HOU,HOU,fg3_make,80,False,False,Harden 26' 3PT Step Back Jump Shot (15 PTS),,45-49,45,49
 0021900963,2020-03-10,HOU,MIN,21.77,2,2,14,MIN,HOU,foul,1,False,False,Green P.FOUL (P1.T3) (T.Brown),,45-49,45,49
@@ -316,8 +316,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900963,2020-03-10,HOU,MIN,34.42,3,1,35,HOU,HOU,reb,0,False,False,Covington REBOUND (Off:1 Def:3),,75-80,75,80
 0021900963,2020-03-10,HOU,MIN,34.5,3,1,30,HOU,HOU,tov,4,False,False,Covington Traveling Turnover (P1.T14),,75-80,75,80
 0021900963,2020-03-10,HOU,MIN,34.67,3,1,20,MIN,MIN,fg_miss,6,True,False,,MISS Johnson 5' Driving Layup,75-80,75,80
-0021900963,2020-03-10,HOU,MIN,34.67,3,1,20,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,75-80,75,80
 0021900963,2020-03-10,HOU,MIN,34.67,3,1,20,MIN,HOU,block,6,True,False,block,block,75-80,75,80
+0021900963,2020-03-10,HOU,MIN,34.67,3,1,20,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,75-80,75,80
 0021900963,2020-03-10,HOU,MIN,34.85,3,1,9,MIN,MIN,tov,2,False,True,,Beasley Lost Ball Turnover (P2.T15),75-80,75,80
 0021900963,2020-03-10,HOU,MIN,34.85,3,1,9,MIN,HOU,steal,2,False,True,steal,steal,75-80,75,80
 0021900963,2020-03-10,HOU,MIN,35.05,3,0,57,HOU,HOU,fg_make,79,False,False,Westbrook 16' Pullup Jump Shot (16 PTS),,77-80,77,80

@@ -66,8 +66,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700364,2017-12-07,PHX,WAS,8.9,1,3,6,PHX,PHX,fg3_miss,1,False,False,MISS Bender 25' 3PT Jump Shot,,24-20,24,20
 0021700364,2017-12-07,PHX,WAS,9.0,1,3,0,WAS,WAS,reb,0,False,False,,Porter Jr. REBOUND (Off:0 Def:1),24-20,24,20
 0021700364,2017-12-07,PHX,WAS,9.07,1,2,56,WAS,WAS,fg_miss,6,True,False,,MISS Beal 4' Driving Layup,24-20,24,20
-0021700364,2017-12-07,PHX,WAS,9.07,1,2,56,PHX,PHX,reb,0,False,False,James REBOUND (Off:0 Def:1),,24-20,24,20
 0021700364,2017-12-07,PHX,WAS,9.07,1,2,56,WAS,PHX,block,6,True,False,block,block,24-20,24,20
+0021700364,2017-12-07,PHX,WAS,9.07,1,2,56,PHX,PHX,reb,0,False,False,James REBOUND (Off:0 Def:1),,24-20,24,20
 0021700364,2017-12-07,PHX,WAS,9.37,1,2,38,PHX,PHX,fg_miss,101,False,False,MISS Warren 11' Driving Floating Jump Shot,,24-20,24,20
 0021700364,2017-12-07,PHX,WAS,9.42,1,2,35,WAS,WAS,reb,0,False,False,,Gortat REBOUND (Off:1 Def:3),24-20,24,20
 0021700364,2017-12-07,PHX,WAS,9.55,1,2,27,WAS,WAS,tov,1,False,True,,Gortat Bad Pass Turnover (P2.T2),24-20,24,20
@@ -127,8 +127,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700364,2017-12-07,PHX,WAS,14.15,2,9,51,PHX,PHX,fg3_miss,79,False,False,MISS James 28' 3PT Pullup Jump Shot,,28-32,28,32
 0021700364,2017-12-07,PHX,WAS,14.22,2,9,47,WAS,WAS,reb,0,False,False,,Satoransky REBOUND (Off:0 Def:1),28-32,28,32
 0021700364,2017-12-07,PHX,WAS,14.37,2,9,38,WAS,PHX,foul,2,False,False,Bender S.FOUL (P2.T2) (Z.Zarba),,28-32,28,32
-0021700364,2017-12-07,PHX,WAS,14.37,2,9,38,WAS,,violation,1,False,False,,,28-32,28,32
 0021700364,2017-12-07,PHX,WAS,14.37,2,9,38,WAS,WAS,ft_make,11,False,False,,Oubre Jr. Free Throw 1 of 2 (1 PTS),28-33,28,33
+0021700364,2017-12-07,PHX,WAS,14.37,2,9,38,WAS,,violation,1,False,False,,,28-32,28,32
 0021700364,2017-12-07,PHX,WAS,14.37,2,9,38,WAS,WAS,ft_make,12,False,False,,Oubre Jr. Free Throw 2 of 2 (2 PTS),28-34,28,34
 0021700364,2017-12-07,PHX,WAS,14.53,2,9,28,PHX,PHX,fg_miss,1,False,False,MISS Warren 20' Jump Shot,,28-34,28,34
 0021700364,2017-12-07,PHX,WAS,14.65,2,9,21,PHX,PHX,reb,0,False,False,Len REBOUND (Off:3 Def:0),,28-34,28,34
@@ -200,9 +200,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700364,2017-12-07,PHX,WAS,21.55,2,2,27,WAS,WAS,reb,0,False,False,,Beal REBOUND (Off:0 Def:2),48-50,48,50
 0021700364,2017-12-07,PHX,WAS,21.68,2,2,19,WAS,WAS,fg3_make,1,False,False,,Oubre Jr. 25' 3PT Jump Shot (9 PTS) (Beal 3 AST),48-53,48,53
 0021700364,2017-12-07,PHX,WAS,21.98,2,2,1,PHX,PHX,fg_miss,6,True,False,MISS Warren 3' Driving Layup,,48-53,48,53
+0021700364,2017-12-07,PHX,WAS,21.98,2,2,1,PHX,WAS,block,6,True,False,block,block,48-53,48,53
 0021700364,2017-12-07,PHX,WAS,21.98,2,2,1,WAS,WAS,reb,0,False,False,,Oubre Jr. REBOUND (Off:0 Def:2),48-53,48,53
 0021700364,2017-12-07,PHX,WAS,21.98,2,2,1,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.3 Short 0),48-53,48,53
-0021700364,2017-12-07,PHX,WAS,21.98,2,2,1,PHX,WAS,block,6,True,False,block,block,48-53,48,53
 0021700364,2017-12-07,PHX,WAS,22.2,2,1,48,WAS,WAS,fg3_miss,1,False,False,,MISS Beal 25' 3PT Jump Shot,48-53,48,53
 0021700364,2017-12-07,PHX,WAS,22.27,2,1,44,PHX,PHX,reb,0,False,False,Monroe REBOUND (Off:1 Def:4),,48-53,48,53
 0021700364,2017-12-07,PHX,WAS,22.45,2,1,33,PHX,PHX,fg_miss,98,True,False,MISS Chriss 1' Cutting Layup Shot,,48-53,48,53

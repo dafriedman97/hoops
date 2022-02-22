@@ -18,9 +18,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900954,2020-03-08,CLE,SAS,2.52,1,9,29,CLE,CLE,fg_miss,1,False,False,MISS Love 13' Jump Shot,,6-2,6,2
 0021900954,2020-03-08,CLE,SAS,2.55,1,9,27,SAS,SAS,reb,0,False,False,,Lyles REBOUND (Off:0 Def:1),6-2,6,2
 0021900954,2020-03-08,CLE,SAS,2.77,1,9,14,SAS,SAS,fg_miss,1,False,False,,MISS Eubanks 15' Jump Shot,6-2,6,2
+0021900954,2020-03-08,CLE,SAS,2.87,1,9,8,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:1 Def:0),6-2,6,2
 0021900954,2020-03-08,CLE,SAS,2.87,1,9,8,SAS,SAS,fg_miss,97,False,False,,MISS Murray 1' Tip Layup Shot,6-2,6,2
 0021900954,2020-03-08,CLE,SAS,2.87,1,9,8,CLE,CLE,reb,0,False,False,Love REBOUND (Off:1 Def:3),,6-2,6,2
-0021900954,2020-03-08,CLE,SAS,2.87,1,9,8,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:1 Def:0),6-2,6,2
 0021900954,2020-03-08,CLE,SAS,2.97,1,9,2,CLE,CLE,fg3_miss,1,False,False,MISS Drummond 27' 3PT Jump Shot,,6-2,6,2
 0021900954,2020-03-08,CLE,SAS,3.02,1,8,59,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:1 Def:1),6-2,6,2
 0021900954,2020-03-08,CLE,SAS,3.12,1,8,53,SAS,SAS,fg_make,6,False,False,,Murray 2' Driving Layup (2 PTS),6-4,6,4
@@ -35,8 +35,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900954,2020-03-08,CLE,SAS,4.17,1,7,50,SAS,SAS,fg3_miss,1,False,False,,MISS Lyles 24' 3PT Jump Shot,11-4,11,4
 0021900954,2020-03-08,CLE,SAS,4.23,1,7,46,CLE,CLE,reb,0,False,False,Love REBOUND (Off:1 Def:4),,11-4,11,4
 0021900954,2020-03-08,CLE,SAS,4.27,1,7,44,CLE,CLE,fg_miss,101,True,False,MISS Sexton 1' Driving Floating Jump Shot,,11-4,11,4
-0021900954,2020-03-08,CLE,SAS,4.27,1,7,44,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,11-4,11,4
 0021900954,2020-03-08,CLE,SAS,4.27,1,7,44,CLE,SAS,block,101,True,False,block,block,11-4,11,4
+0021900954,2020-03-08,CLE,SAS,4.27,1,7,44,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,11-4,11,4
 0021900954,2020-03-08,CLE,SAS,4.28,1,7,43,CLE,SAS,foul,2,False,False,,Eubanks S.FOUL (P2.T2) (C.Blair),11-4,11,4
 0021900954,2020-03-08,CLE,SAS,4.28,1,7,43,CLE,CLE,ft_make,13,False,False,Love Free Throw 1 of 3 (1 PTS),,12-4,12,4
 0021900954,2020-03-08,CLE,SAS,4.28,1,7,43,CLE,CLE,ft_make,14,False,False,Love Free Throw 2 of 3 (2 PTS),,13-4,13,4
@@ -154,8 +154,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900954,2020-03-08,CLE,SAS,15.15,2,8,51,CLE,SAS,foul,2,False,False,,Eubanks S.FOUL (P3.T3) (L.Richardson),41-27,41,27
 0021900954,2020-03-08,CLE,SAS,15.15,2,8,51,CLE,CLE,ft_miss,11,False,False,MISS Thompson Free Throw 1 of 2,,41-27,41,27
 0021900954,2020-03-08,CLE,SAS,15.15,2,8,51,CLE,CLE,reb,1,False,False,CAVALIERS Rebound,,41-27,41,27
-0021900954,2020-03-08,CLE,SAS,15.15,2,8,51,CLE,CLE,ft_miss,12,False,False,MISS Thompson Free Throw 2 of 2,,41-27,41,27
 0021900954,2020-03-08,CLE,SAS,15.15,2,8,51,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.1 Short 0),41-27,41,27
+0021900954,2020-03-08,CLE,SAS,15.15,2,8,51,CLE,CLE,ft_miss,12,False,False,MISS Thompson Free Throw 2 of 2,,41-27,41,27
 0021900954,2020-03-08,CLE,SAS,15.18,2,8,49,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:1 Def:2),41-27,41,27
 0021900954,2020-03-08,CLE,SAS,15.32,2,8,41,SAS,SAS,fg_miss,101,False,False,,MISS Murray 6' Driving Floating Jump Shot,41-27,41,27
 0021900954,2020-03-08,CLE,SAS,15.35,2,8,39,CLE,CLE,reb,0,False,False,Thompson REBOUND (Off:0 Def:2),,41-27,41,27
@@ -204,8 +204,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900954,2020-03-08,CLE,SAS,18.97,2,5,2,CLE,CLE,fg_make,97,False,False,Nance Jr. 1' Tip Layup Shot (7 PTS),,48-38,48,38
 0021900954,2020-03-08,CLE,SAS,18.97,2,5,2,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.2 Short 0),48-38,48,38
 0021900954,2020-03-08,CLE,SAS,19.2,2,4,48,SAS,SAS,fg_miss,6,True,False,,MISS DeRozan 1' Driving Layup,48-38,48,38
-0021900954,2020-03-08,CLE,SAS,19.2,2,4,48,SAS,SAS,reb,0,False,False,,Spurs Rebound,48-38,48,38
 0021900954,2020-03-08,CLE,SAS,19.2,2,4,48,SAS,CLE,block,6,True,False,block,block,48-38,48,38
+0021900954,2020-03-08,CLE,SAS,19.2,2,4,48,SAS,SAS,reb,0,False,False,,Spurs Rebound,48-38,48,38
 0021900954,2020-03-08,CLE,SAS,19.32,2,4,41,SAS,CLE,foul,1,False,False,Drummond P.FOUL (P2.PN) (D.Guthrie),,48-38,48,38
 0021900954,2020-03-08,CLE,SAS,19.32,2,4,41,SAS,SAS,ft_miss,11,False,False,,MISS DeRozan Free Throw 1 of 2,48-38,48,38
 0021900954,2020-03-08,CLE,SAS,19.32,2,4,41,SAS,SAS,reb,1,False,False,,Spurs Rebound,48-38,48,38
@@ -254,9 +254,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900954,2020-03-08,CLE,SAS,23.8,2,0,12,CLE,CLE,fg_make,6,False,False,Sexton 1' Driving Layup (12 PTS),,60-48,60,48
 0021900954,2020-03-08,CLE,SAS,23.98,2,0,1,SAS,SAS,fg_make,6,False,False,,White 1' Driving Layup (8 PTS),60-50,60,50
 0021900954,2020-03-08,CLE,SAS,24.0,2,0,0,CLE,CLE,tov,1,False,True,Love Bad Pass Turnover (P2.T8),,60-50,60,50
+0021900954,2020-03-08,CLE,SAS,24.0,2,0,0,CLE,SAS,steal,1,False,True,steal,steal,60-50,60,50
 0021900954,2020-03-08,CLE,SAS,24.0,2,0,0,CLE,,period_end,0,False,False,,,60-50,60,50
 0021900954,2020-03-08,CLE,SAS,24.0,3,12,0,CLE,,period_start,0,False,False,,,60-50,60,50
-0021900954,2020-03-08,CLE,SAS,24.0,2,0,0,CLE,SAS,steal,1,False,True,steal,steal,60-50,60,50
 0021900954,2020-03-08,CLE,SAS,24.22,3,11,47,SAS,SAS,fg_make,57,False,False,,Eubanks 9' Driving Hook Shot (6 PTS) (Murray 3 AST),60-52,60,52
 0021900954,2020-03-08,CLE,SAS,24.48,3,11,31,CLE,CLE,tov,2,False,True,Love Lost Ball Turnover (P3.T9),,60-52,60,52
 0021900954,2020-03-08,CLE,SAS,24.48,3,11,31,CLE,SAS,steal,2,False,True,steal,steal,60-52,60,52
@@ -407,9 +407,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900954,2020-03-08,CLE,SAS,40.37,4,7,38,CLE,CLE,reb,0,False,False,Love REBOUND (Off:1 Def:10),,97-100,97,100
 0021900954,2020-03-08,CLE,SAS,40.67,4,7,20,CLE,CLE,fg3_make,1,False,False,Dellavedova 3PT Jump Shot (6 PTS) (Osman 6 AST),,100-100,100,100
 0021900954,2020-03-08,CLE,SAS,41.07,4,6,56,SAS,SAS,fg_miss,1,True,False,,MISS Forbes 16' Jump Shot,100-100,100,100
+0021900954,2020-03-08,CLE,SAS,41.07,4,6,56,SAS,CLE,block,1,True,False,block,block,100-100,100,100
 0021900954,2020-03-08,CLE,SAS,41.07,4,6,56,CLE,CLE,reb,0,False,False,Nance Jr. REBOUND (Off:2 Def:6),,100-100,100,100
 0021900954,2020-03-08,CLE,SAS,41.07,4,6,56,CLE,SAS,foul,1,False,False,,Eubanks P.FOUL (P4.T3) (L.Richardson),100-100,100,100
-0021900954,2020-03-08,CLE,SAS,41.07,4,6,56,SAS,CLE,block,1,True,False,block,block,100-100,100,100
 0021900954,2020-03-08,CLE,SAS,41.22,4,6,47,CLE,CLE,fg_make,98,False,False,Osman 2' Cutting Layup Shot (18 PTS) (Dellavedova 9 AST),,102-100,102,100
 0021900954,2020-03-08,CLE,SAS,41.52,4,6,29,SAS,SAS,tov,4,False,False,,Lyles Traveling Turnover (P1.T9),102-100,102,100
 0021900954,2020-03-08,CLE,SAS,41.73,4,6,16,CLE,CLE,tov,1,False,True,Dellavedova Bad Pass Turnover (P4.T16),,102-100,102,100
@@ -537,7 +537,7 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900954,2020-03-08,CLE,SAS,52.95,5,0,3,SAS,SAS,fg3_make,79,False,False,,White 26' 3PT Pullup Jump Shot (17 PTS),131-129,131,129
 0021900954,2020-03-08,CLE,SAS,52.98,5,0,1,CLE,SAS,foul,1,False,False,,Mills P.FOUL (P4.PN) (L.Richardson),131-129,131,129
 0021900954,2020-03-08,CLE,SAS,52.98,5,0,1,CLE,CLE,ft_make,11,False,False,Sexton Free Throw 1 of 2 (26 PTS),,132-129,132,129
+0021900954,2020-03-08,CLE,SAS,52.98,5,0,1,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.9 Short 0),132-129,132,129
 0021900954,2020-03-08,CLE,SAS,52.98,5,0,1,CLE,CLE,ft_miss,12,False,False,MISS Sexton Free Throw 2 of 2,,132-129,132,129
 0021900954,2020-03-08,CLE,SAS,52.98,5,0,1,SAS,SAS,reb,0,False,False,,Johnson REBOUND (Off:1 Def:3),132-129,132,129
-0021900954,2020-03-08,CLE,SAS,52.98,5,0,1,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.9 Short 0),132-129,132,129
 0021900954,2020-03-08,CLE,SAS,53.0,5,0,0,SAS,,period_end,0,False,False,,,132-129,132,129

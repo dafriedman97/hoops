@@ -64,9 +64,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700562,2018-01-03,DAL,GSW,6.37,1,5,38,GSW,GSW,ft_make,11,False,False,,Pachulia Free Throw 1 of 2 (5 PTS),13-12,13,12
 0021700562,2018-01-03,DAL,GSW,6.37,1,5,38,GSW,GSW,ft_make,12,False,False,,Pachulia Free Throw 2 of 2 (6 PTS),13-13,13,13
 0021700562,2018-01-03,DAL,GSW,6.65,1,5,21,DAL,GSW,foul,2,False,False,,Pachulia S.FOUL (P1.T1) (S.Foster),13-13,13,13
-0021700562,2018-01-03,DAL,GSW,6.65,1,5,21,DAL,DAL,ft_make,12,False,False,Matthews Free Throw 2 of 2 (1 PTS),,14-13,14,13
 0021700562,2018-01-03,DAL,GSW,6.65,1,5,21,DAL,DAL,ft_miss,11,False,False,MISS Matthews Free Throw 1 of 2,,14-13,14,13
 0021700562,2018-01-03,DAL,GSW,6.65,1,5,21,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,14-13,14,13
+0021700562,2018-01-03,DAL,GSW,6.65,1,5,21,DAL,DAL,ft_make,12,False,False,Matthews Free Throw 2 of 2 (1 PTS),,14-13,14,13
 0021700562,2018-01-03,DAL,GSW,6.82,1,5,11,GSW,GSW,fg_make,80,False,False,,Curry 13' Step Back Jump Shot (5 PTS),14-15,14,15
 0021700562,2018-01-03,DAL,GSW,7.12,1,4,53,DAL,DAL,fg3_miss,1,False,False,MISS Smith Jr. 25' 3PT Jump Shot,,14-15,14,15
 0021700562,2018-01-03,DAL,GSW,7.12,1,4,53,GSW,GSW,reb,0,False,False,,Thompson REBOUND (Off:0 Def:2),14-15,14,15
@@ -159,8 +159,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700562,2018-01-03,DAL,GSW,16.97,2,7,2,DAL,DAL,reb,1,False,False,MAVERICKS Rebound,,39-43,39,43
 0021700562,2018-01-03,DAL,GSW,16.97,2,7,2,DAL,DAL,ft_make,15,False,False,Barea Free Throw 3 of 3 (3 PTS),,40-43,40,43
 0021700562,2018-01-03,DAL,GSW,17.18,2,6,49,GSW,GSW,fg_make,98,False,False,,West 1' Cutting Layup Shot (6 PTS) (Thompson 2 AST),40-45,40,45
-0021700562,2018-01-03,DAL,GSW,17.18,2,6,49,GSW,DAL,foul,2,False,False,Smith Jr. S.FOUL (P2.T2) (A.Smith),,40-45,40,45
 0021700562,2018-01-03,DAL,GSW,17.18,2,6,49,GSW,GSW,ft_make,10,False,False,,West Free Throw 1 of 1 (7 PTS),40-46,40,46
+0021700562,2018-01-03,DAL,GSW,17.18,2,6,49,GSW,DAL,foul,2,False,False,Smith Jr. S.FOUL (P2.T2) (A.Smith),,40-45,40,45
 0021700562,2018-01-03,DAL,GSW,17.38,2,6,37,DAL,GSW,foul,1,False,False,,West P.FOUL (P2.PN) (S.Foster),40-46,40,46
 0021700562,2018-01-03,DAL,GSW,17.38,2,6,37,DAL,DAL,ft_make,11,False,False,Barea Free Throw 1 of 2 (4 PTS),,41-46,41,46
 0021700562,2018-01-03,DAL,GSW,17.38,2,6,37,DAL,DAL,ft_make,12,False,False,Barea Free Throw 2 of 2 (5 PTS),,42-46,42,46
@@ -318,8 +318,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700562,2018-01-03,DAL,GSW,35.03,3,0,58,DAL,DAL,fg3_miss,1,False,False,MISS Harris 25' 3PT Jump Shot,,87-89,87,89
 0021700562,2018-01-03,DAL,GSW,35.05,3,0,57,DAL,DAL,reb,0,False,False,Powell REBOUND (Off:4 Def:1),,87-89,87,89
 0021700562,2018-01-03,DAL,GSW,35.12,3,0,53,DAL,DAL,fg_miss,1,True,False,MISS Powell 5' Jump Shot,,87-89,87,89
-0021700562,2018-01-03,DAL,GSW,35.12,3,0,53,DAL,DAL,reb,0,False,False,Powell REBOUND (Off:5 Def:1),,87-89,87,89
 0021700562,2018-01-03,DAL,GSW,35.12,3,0,53,DAL,GSW,block,1,True,False,block,block,87-89,87,89
+0021700562,2018-01-03,DAL,GSW,35.12,3,0,53,DAL,DAL,reb,0,False,False,Powell REBOUND (Off:5 Def:1),,87-89,87,89
 0021700562,2018-01-03,DAL,GSW,35.13,3,0,52,DAL,GSW,foul,2,False,False,,Green S.FOUL (P1.T4) (G.Petraitis),87-89,87,89
 0021700562,2018-01-03,DAL,GSW,35.13,3,0,52,DAL,DAL,ft_make,11,False,False,Powell Free Throw 1 of 2 (15 PTS),,88-89,88,89
 0021700562,2018-01-03,DAL,GSW,35.13,3,0,52,DAL,DAL,ft_make,12,False,False,Powell Free Throw 2 of 2 (16 PTS),,89-89,89,89

@@ -55,16 +55,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701039,2018-03-17,CHI,CLE,7.05,1,4,57,CLE,CLE,tov,1,False,True,,James Bad Pass Turnover (P2.T2),23-24,23,24
 0021701039,2018-03-17,CHI,CLE,7.05,1,4,57,CLE,CHI,steal,1,False,True,steal,steal,23-24,23,24
 0021701039,2018-03-17,CHI,CLE,7.12,1,4,53,CHI,CHI,fg_miss,5,True,False,MISS Portis 2' Layup,,23-24,23,24
-0021701039,2018-03-17,CHI,CLE,7.12,1,4,53,CHI,CHI,reb,0,False,False,BULLS Rebound,,23-24,23,24
 0021701039,2018-03-17,CHI,CLE,7.12,1,4,53,CHI,CLE,block,5,True,False,block,block,23-24,23,24
+0021701039,2018-03-17,CHI,CLE,7.12,1,4,53,CHI,CHI,reb,0,False,False,BULLS Rebound,,23-24,23,24
 0021701039,2018-03-17,CHI,CLE,7.17,1,4,50,CHI,CHI,fg_miss,1,False,False,MISS Valentine 18' Jump Shot,,23-24,23,24
 0021701039,2018-03-17,CHI,CLE,7.2,1,4,48,CLE,CLE,reb,0,False,False,,James REBOUND (Off:0 Def:2),23-24,23,24
 0021701039,2018-03-17,CHI,CLE,7.25,1,4,45,CLE,CLE,fg_make,7,False,False,,Green Dunk (8 PTS) (James 3 AST),23-26,23,26
 0021701039,2018-03-17,CHI,CLE,7.57,1,4,26,CHI,CHI,fg3_miss,1,False,False,MISS Holiday 25' 3PT Jump Shot,,23-26,23,26
 0021701039,2018-03-17,CHI,CLE,7.62,1,4,23,CLE,CLE,reb,0,False,False,,James REBOUND (Off:0 Def:3),23-26,23,26
 0021701039,2018-03-17,CHI,CLE,7.77,1,4,14,CLE,CLE,tov,1,False,True,,Smith Bad Pass Turnover (P1.T3),23-26,23,26
-0021701039,2018-03-17,CHI,CLE,7.77,1,4,14,CHI,CLE,foul,1,False,False,,Smith P.FOUL (P1.T3) (T.Maddox),23-26,23,26
 0021701039,2018-03-17,CHI,CLE,7.77,1,4,14,CLE,CHI,steal,1,False,True,steal,steal,23-26,23,26
+0021701039,2018-03-17,CHI,CLE,7.77,1,4,14,CHI,CLE,foul,1,False,False,,Smith P.FOUL (P1.T3) (T.Maddox),23-26,23,26
 0021701039,2018-03-17,CHI,CLE,8.02,1,3,59,CHI,CHI,fg3_miss,1,False,False,MISS Holiday 26' 3PT Jump Shot,,23-26,23,26
 0021701039,2018-03-17,CHI,CLE,8.1,1,3,54,CLE,CLE,reb,0,False,False,,Smith REBOUND (Off:0 Def:1),23-26,23,26
 0021701039,2018-03-17,CHI,CLE,8.23,1,3,46,CLE,CHI,foul,1,False,False,Felicio P.FOUL (P1.T2) (B.Spooner),,23-26,23,26
@@ -142,9 +142,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701039,2018-03-17,CHI,CLE,16.43,2,7,34,CLE,CLE,fg3_miss,1,False,False,,MISS Holland 26' 3PT Jump Shot,36-48,36,48
 0021701039,2018-03-17,CHI,CLE,16.48,2,7,31,CHI,CHI,reb,0,False,False,Zipser REBOUND (Off:0 Def:2),,36-48,36,48
 0021701039,2018-03-17,CHI,CLE,16.68,2,7,19,CHI,CHI,fg_miss,78,False,False,MISS Nwaba 4' Floating Jump Shot,,36-48,36,48
+0021701039,2018-03-17,CHI,CLE,16.68,2,7,19,CHI,CHI,reb,0,False,False,Portis REBOUND (Off:2 Def:4),,36-48,36,48
 0021701039,2018-03-17,CHI,CLE,16.68,2,7,19,CHI,CHI,fg_miss,5,False,False,MISS Portis 3' Layup,,36-48,36,48
 0021701039,2018-03-17,CHI,CLE,16.68,2,7,19,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,36-48,36,48
-0021701039,2018-03-17,CHI,CLE,16.68,2,7,19,CHI,CHI,reb,0,False,False,Portis REBOUND (Off:2 Def:4),,36-48,36,48
 0021701039,2018-03-17,CHI,CLE,17.03,2,6,58,CLE,CLE,fg_miss,1,False,False,,MISS G. Hill 23' Jump Shot,36-48,36,48
 0021701039,2018-03-17,CHI,CLE,17.08,2,6,55,CHI,CHI,reb,0,False,False,Portis REBOUND (Off:2 Def:5),,36-48,36,48
 0021701039,2018-03-17,CHI,CLE,17.15,2,6,51,CHI,CHI,fg3_miss,1,False,False,MISS Payne 26' 3PT Jump Shot,,36-48,36,48
@@ -237,8 +237,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701039,2018-03-17,CHI,CLE,27.08,3,8,55,CHI,CHI,reb,0,False,False,Felicio REBOUND (Off:0 Def:4),,60-73,60,73
 0021701039,2018-03-17,CHI,CLE,27.27,3,8,44,CHI,CHI,fg3_make,79,False,False,Valentine 24' 3PT Pullup Jump Shot (20 PTS),,63-73,63,73
 0021701039,2018-03-17,CHI,CLE,27.57,3,8,26,CLE,CLE,fg_miss,5,True,False,,MISS Zizic 1' Layup,63-73,63,73
-0021701039,2018-03-17,CHI,CLE,27.57,3,8,26,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,63-73,63,73
 0021701039,2018-03-17,CHI,CLE,27.57,3,8,26,CLE,CHI,block,5,True,False,block,block,63-73,63,73
+0021701039,2018-03-17,CHI,CLE,27.57,3,8,26,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,63-73,63,73
 0021701039,2018-03-17,CHI,CLE,27.67,3,8,20,CLE,CLE,fg_miss,79,False,False,,MISS Calderon 10' Pullup Jump Shot,63-73,63,73
 0021701039,2018-03-17,CHI,CLE,27.72,3,8,17,CHI,CHI,reb,0,False,False,Felicio REBOUND (Off:0 Def:5),,63-73,63,73
 0021701039,2018-03-17,CHI,CLE,27.77,3,8,14,CHI,CHI,fg_make,5,False,False,Felicio 1' Layup (8 PTS) (Payne 8 AST),,65-73,65,73

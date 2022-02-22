@@ -77,8 +77,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700458,2017-12-20,CHI,ORL,8.95,1,3,3,ORL,ORL,fg_make,5,False,False,,Isaac 1' Layup (2 PTS) (Payton 2 AST),23-16,23,16
 0021700458,2017-12-20,CHI,ORL,9.12,1,2,53,CHI,CHI,fg_make,1,False,False,Grant 19' Jump Shot (2 PTS),,25-16,25,16
 0021700458,2017-12-20,CHI,ORL,9.48,1,2,31,ORL,ORL,fg_miss,5,True,False,,MISS Payton 2' Layup,25-16,25,16
-0021700458,2017-12-20,CHI,ORL,9.48,1,2,31,ORL,ORL,reb,0,False,False,,Payton REBOUND (Off:2 Def:1),25-16,25,16
 0021700458,2017-12-20,CHI,ORL,9.48,1,2,31,ORL,CHI,block,5,True,False,block,block,25-16,25,16
+0021700458,2017-12-20,CHI,ORL,9.48,1,2,31,ORL,ORL,reb,0,False,False,,Payton REBOUND (Off:2 Def:1),25-16,25,16
 0021700458,2017-12-20,CHI,ORL,9.57,1,2,26,ORL,ORL,fg3_make,1,False,False,,Augustin 3PT Jump Shot (3 PTS) (Payton 3 AST),25-19,25,19
 0021700458,2017-12-20,CHI,ORL,9.7,1,2,18,CHI,CHI,tov,2,False,True,Grant Lost Ball Turnover (P1.T1),,25-19,25,19
 0021700458,2017-12-20,CHI,ORL,9.7,1,2,18,CHI,ORL,steal,2,False,True,steal,steal,25-19,25,19
@@ -136,9 +136,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700458,2017-12-20,CHI,ORL,15.8,2,8,12,CHI,CHI,fg3_miss,1,False,False,MISS Portis 25' 3PT Jump Shot,,45-32,45,32
 0021700458,2017-12-20,CHI,ORL,15.87,2,8,8,ORL,ORL,reb,0,False,False,,Mack REBOUND (Off:0 Def:2),45-32,45,32
 0021700458,2017-12-20,CHI,ORL,15.88,2,8,7,ORL,ORL,tov,2,False,True,,Mack Lost Ball Turnover (P1.T3),45-32,45,32
+0021700458,2017-12-20,CHI,ORL,15.88,2,8,7,ORL,CHI,steal,2,False,True,steal,steal,45-32,45,32
 0021700458,2017-12-20,CHI,ORL,15.88,2,8,7,ORL,CHI,foul,26,False,False,Nwaba Offensive Charge Foul (P2.T2) (J.Williams),,45-32,45,32
 0021700458,2017-12-20,CHI,ORL,15.88,2,8,7,CHI,CHI,tov,37,False,False,Nwaba Offensive Foul Turnover (P1.T2),,45-32,45,32
-0021700458,2017-12-20,CHI,ORL,15.88,2,8,7,ORL,CHI,steal,2,False,True,steal,steal,45-32,45,32
 0021700458,2017-12-20,CHI,ORL,16.17,2,7,50,ORL,ORL,fg_make,6,False,False,,Isaac 1' Driving Layup (4 PTS) (Vucevic 3 AST),45-34,45,34
 0021700458,2017-12-20,CHI,ORL,16.45,2,7,33,CHI,ORL,violation,5,False,False,,Augustin Violation:Kicked Ball (J.Williams),45-34,45,34
 0021700458,2017-12-20,CHI,ORL,16.72,2,7,17,CHI,CHI,fg3_miss,80,False,False,MISS Mirotic 26' 3PT Step Back Jump Shot,,45-34,45,34
@@ -222,8 +222,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700458,2017-12-20,CHI,ORL,25.77,3,10,14,CHI,CHI,reb,0,False,False,Dunn REBOUND (Off:0 Def:4),,63-52,63,52
 0021700458,2017-12-20,CHI,ORL,25.92,3,10,5,CHI,CHI,fg_make,71,False,False,Lopez 3' Finger Roll Layup (10 PTS) (Dunn 6 AST),,65-52,65,52
 0021700458,2017-12-20,CHI,ORL,26.12,3,9,53,ORL,ORL,fg_miss,6,True,False,,MISS Payton 3' Driving Layup,65-52,65,52
-0021700458,2017-12-20,CHI,ORL,26.12,3,9,53,ORL,ORL,reb,0,False,False,,Magic Rebound,65-52,65,52
 0021700458,2017-12-20,CHI,ORL,26.12,3,9,53,ORL,CHI,block,6,True,False,block,block,65-52,65,52
+0021700458,2017-12-20,CHI,ORL,26.12,3,9,53,ORL,ORL,reb,0,False,False,,Magic Rebound,65-52,65,52
 0021700458,2017-12-20,CHI,ORL,26.15,3,9,51,ORL,ORL,tov,1,False,True,,Simmons Bad Pass Turnover (P1.T5),65-52,65,52
 0021700458,2017-12-20,CHI,ORL,26.15,3,9,51,ORL,CHI,steal,1,False,True,steal,steal,65-52,65,52
 0021700458,2017-12-20,CHI,ORL,26.33,3,9,40,CHI,CHI,fg_make,1,False,False,Markkanen 14' Jump Shot (6 PTS) (Dunn 7 AST),,67-52,67,52
@@ -296,9 +296,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700458,2017-12-20,CHI,ORL,34.83,3,1,10,CHI,CHI,reb,0,False,False,Mirotic REBOUND (Off:0 Def:8),,88-63,88,63
 0021700458,2017-12-20,CHI,ORL,34.95,3,1,3,CHI,CHI,fg_miss,71,False,False,MISS Lopez 2' Finger Roll Layup,,88-63,88,63
 0021700458,2017-12-20,CHI,ORL,35.0,3,1,0,CHI,CHI,reb,0,False,False,Lopez REBOUND (Off:2 Def:5),,88-63,88,63
+0021700458,2017-12-20,CHI,ORL,35.0,3,1,0,ORL,CHI,foul,1,False,False,Mirotic P.FOUL (P1.T3) (J.Williams),,88-63,88,63
 0021700458,2017-12-20,CHI,ORL,35.0,3,1,0,CHI,CHI,fg_miss,97,False,False,MISS Lopez 2' Tip Layup Shot,,88-63,88,63
 0021700458,2017-12-20,CHI,ORL,35.0,3,1,0,ORL,ORL,reb,0,False,False,,Artis REBOUND (Off:0 Def:2),88-63,88,63
-0021700458,2017-12-20,CHI,ORL,35.0,3,1,0,ORL,CHI,foul,1,False,False,Mirotic P.FOUL (P1.T3) (J.Williams),,88-63,88,63
 0021700458,2017-12-20,CHI,ORL,35.27,3,0,44,ORL,ORL,tov,45,False,False,,Mack Out of Bounds - Bad Pass Turnover Turnover (P2.T7),88-63,88,63
 0021700458,2017-12-20,CHI,ORL,35.43,3,0,34,CHI,ORL,foul,1,False,False,,Afflalo P.FOUL (P1.PN) (J.Williams),88-63,88,63
 0021700458,2017-12-20,CHI,ORL,35.43,3,0,34,CHI,CHI,ft_make,11,False,False,Portis Free Throw 1 of 2 (11 PTS),,89-63,89,63
@@ -324,8 +324,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700458,2017-12-20,CHI,ORL,37.2,4,10,48,CHI,CHI,reb,0,False,False,Portis REBOUND (Off:0 Def:3),,92-66,92,66
 0021700458,2017-12-20,CHI,ORL,37.33,4,10,40,CHI,CHI,fg3_make,1,False,False,Mirotic 26' 3PT Jump Shot (12 PTS) (Grant 3 AST),,95-66,95,66
 0021700458,2017-12-20,CHI,ORL,37.58,4,10,25,ORL,ORL,fg_miss,5,True,False,,MISS Artis 3' Layup,95-66,95,66
-0021700458,2017-12-20,CHI,ORL,37.58,4,10,25,ORL,ORL,reb,0,False,False,,Magic Rebound,95-66,95,66
 0021700458,2017-12-20,CHI,ORL,37.58,4,10,25,ORL,CHI,block,5,True,False,block,block,95-66,95,66
+0021700458,2017-12-20,CHI,ORL,37.58,4,10,25,ORL,ORL,reb,0,False,False,,Magic Rebound,95-66,95,66
 0021700458,2017-12-20,CHI,ORL,37.63,4,10,22,ORL,ORL,fg_miss,1,False,False,,MISS Simmons 17' Jump Shot,95-66,95,66
 0021700458,2017-12-20,CHI,ORL,37.68,4,10,19,CHI,CHI,reb,0,False,False,Grant REBOUND (Off:0 Def:1),,95-66,95,66
 0021700458,2017-12-20,CHI,ORL,37.7,4,10,18,CHI,CHI,tov,1,False,True,Grant Bad Pass Turnover (P2.T8),,95-66,95,66
@@ -343,9 +343,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700458,2017-12-20,CHI,ORL,38.95,4,9,3,CHI,CHI,fg3_miss,1,False,False,MISS Zipser 26' 3PT Jump Shot,,97-70,97,70
 0021700458,2017-12-20,CHI,ORL,38.95,4,9,3,CHI,CHI,reb,0,False,False,Portis REBOUND (Off:1 Def:3),,97-70,97,70
 0021700458,2017-12-20,CHI,ORL,38.98,4,9,1,CHI,CHI,fg_miss,5,True,False,MISS Portis 2' Layup,,97-70,97,70
+0021700458,2017-12-20,CHI,ORL,38.98,4,9,1,CHI,ORL,block,5,True,False,block,block,97-70,97,70
 0021700458,2017-12-20,CHI,ORL,38.98,4,9,1,ORL,ORL,reb,0,False,False,,Magic Rebound,97-70,97,70
 0021700458,2017-12-20,CHI,ORL,38.98,4,9,1,CHI,ORL,foul,11,False,False,,Vucevic T.FOUL (P4.T1) (N.Buchert),97-70,97,70
-0021700458,2017-12-20,CHI,ORL,38.98,4,9,1,CHI,ORL,block,5,True,False,block,block,97-70,97,70
 0021700458,2017-12-20,CHI,ORL,38.98,4,9,1,CHI,CHI,ft_make,16,False,False,Mirotic Free Throw Technical (13 PTS),,98-70,98,70
 0021700458,2017-12-20,CHI,ORL,39.32,4,8,41,ORL,ORL,fg_miss,1,False,False,,MISS Vucevic 14' Jump Shot,98-70,98,70
 0021700458,2017-12-20,CHI,ORL,39.38,4,8,37,CHI,CHI,reb,0,False,False,Portis REBOUND (Off:1 Def:4),,98-70,98,70
@@ -383,8 +383,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700458,2017-12-20,CHI,ORL,43.63,4,4,22,ORL,ORL,ft_make,12,False,False,,Payne Free Throw 2 of 2 (3 PTS),102-81,102,81
 0021700458,2017-12-20,CHI,ORL,43.87,4,4,8,CHI,CHI,fg3_make,1,False,False,Zipser 24' 3PT Jump Shot (3 PTS) (Grant 4 AST),,105-81,105,81
 0021700458,2017-12-20,CHI,ORL,44.07,4,3,56,ORL,ORL,fg_miss,6,True,False,,MISS Iwundu 4' Driving Layup,105-81,105,81
-0021700458,2017-12-20,CHI,ORL,44.07,4,3,56,CHI,CHI,reb,0,False,False,BULLS Rebound,,105-81,105,81
 0021700458,2017-12-20,CHI,ORL,44.07,4,3,56,ORL,CHI,block,6,True,False,block,block,105-81,105,81
+0021700458,2017-12-20,CHI,ORL,44.07,4,3,56,CHI,CHI,reb,0,False,False,BULLS Rebound,,105-81,105,81
 0021700458,2017-12-20,CHI,ORL,44.47,4,3,32,CHI,CHI,fg_miss,5,False,False,MISS Zipser 3' Layup,,105-81,105,81
 0021700458,2017-12-20,CHI,ORL,44.47,4,3,32,CHI,CHI,reb,0,False,False,BULLS Rebound,,105-81,105,81
 0021700458,2017-12-20,CHI,ORL,44.47,4,3,32,CHI,CHI,tov,11,False,False,BULLS Turnover: Shot Clock (T#12),,105-81,105,81

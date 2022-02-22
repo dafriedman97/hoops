@@ -79,8 +79,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900191,2019-11-18,TOR,CHA,10.33,1,1,40,TOR,TOR,reb,0,False,False,Hollis-Jefferson REBOUND (Off:1 Def:1),,24-18,24,18
 0021900191,2019-11-18,TOR,CHA,10.33,1,1,40,TOR,TOR,fg_make,72,False,False,Hollis-Jefferson 1' Putback Layup (2 PTS),,26-18,26,18
 0021900191,2019-11-18,TOR,CHA,10.43,1,1,34,CHA,CHA,fg_miss,6,True,False,,MISS Graham 2' Driving Layup,26-18,26,18
-0021900191,2019-11-18,TOR,CHA,10.43,1,1,34,CHA,CHA,reb,0,False,False,,Hornets Rebound,26-18,26,18
 0021900191,2019-11-18,TOR,CHA,10.43,1,1,34,CHA,TOR,block,6,True,False,block,block,26-18,26,18
+0021900191,2019-11-18,TOR,CHA,10.43,1,1,34,CHA,CHA,reb,0,False,False,,Hornets Rebound,26-18,26,18
 0021900191,2019-11-18,TOR,CHA,10.52,1,1,29,CHA,CHA,fg3_miss,1,False,False,,MISS Batum 26' 3PT Jump Shot,26-18,26,18
 0021900191,2019-11-18,TOR,CHA,10.55,1,1,27,TOR,TOR,reb,0,False,False,Davis REBOUND (Off:0 Def:1),,26-18,26,18
 0021900191,2019-11-18,TOR,CHA,10.7,1,1,18,TOR,TOR,tov,45,False,False,VanVleet Out of Bounds - Bad Pass Turnover Turnover (P1.T3),,26-18,26,18
@@ -99,10 +99,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900191,2019-11-18,TOR,CHA,11.93,1,0,4,CHA,CHA,fg3_miss,79,False,False,,MISS Graham 27' 3PT Pullup Jump Shot,26-25,26,25
 0021900191,2019-11-18,TOR,CHA,11.98,1,0,1,TOR,TOR,reb,0,False,False,VanVleet REBOUND (Off:0 Def:1),,26-25,26,25
 0021900191,2019-11-18,TOR,CHA,12.0,1,0,0,TOR,TOR,fg3_miss,79,True,False,MISS VanVleet 52' 3PT Pullup Jump Shot,,26-25,26,25
+0021900191,2019-11-18,TOR,CHA,12.0,1,0,0,TOR,CHA,block,79,True,False,block,block,26-25,26,25
 0021900191,2019-11-18,TOR,CHA,12.0,1,0,0,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,26-25,26,25
 0021900191,2019-11-18,TOR,CHA,12.0,1,0,0,TOR,,period_end,0,False,False,,,26-25,26,25
 0021900191,2019-11-18,TOR,CHA,12.0,2,12,0,TOR,,period_start,0,False,False,,,26-25,26,25
-0021900191,2019-11-18,TOR,CHA,12.0,1,0,0,TOR,CHA,block,79,True,False,block,block,26-25,26,25
 0021900191,2019-11-18,TOR,CHA,12.27,2,11,44,TOR,TOR,fg_make,101,False,False,Siakam 6' Driving Floating Jump Shot (10 PTS) (Davis 1 AST),,28-25,28,25
 0021900191,2019-11-18,TOR,CHA,12.27,2,11,44,TOR,CHA,foul,2,False,False,,Graham S.FOUL (P1.T1) (S.Wall),28-25,28,25
 0021900191,2019-11-18,TOR,CHA,12.27,2,11,44,TOR,TOR,ft_make,10,False,False,Siakam Free Throw 1 of 1 (11 PTS),,29-25,29,25
@@ -149,9 +149,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900191,2019-11-18,TOR,CHA,16.62,2,7,23,TOR,TOR,fg3_miss,1,False,False,MISS Thomas 26' 3PT Jump Shot,,35-35,35,35
 0021900191,2019-11-18,TOR,CHA,16.68,2,7,19,TOR,TOR,reb,0,False,False,Boucher REBOUND (Off:3 Def:2),,35-35,35,35
 0021900191,2019-11-18,TOR,CHA,16.68,2,7,19,TOR,TOR,fg_miss,5,True,False,MISS Boucher 2' Layup,,35-35,35,35
+0021900191,2019-11-18,TOR,CHA,16.68,2,7,19,TOR,CHA,block,5,True,False,block,block,35-35,35,35
 0021900191,2019-11-18,TOR,CHA,16.68,2,7,19,CHA,CHA,reb,0,False,False,,Williams REBOUND (Off:0 Def:3),35-35,35,35
 0021900191,2019-11-18,TOR,CHA,16.68,2,7,19,CHA,TOR,foul,1,False,False,Davis P.FOUL (P3.T4) (S.Wall),,35-35,35,35
-0021900191,2019-11-18,TOR,CHA,16.68,2,7,19,TOR,CHA,block,5,True,False,block,block,35-35,35,35
 0021900191,2019-11-18,TOR,CHA,16.87,2,7,8,CHA,CHA,fg3_make,1,False,False,,Williams 3PT Jump Shot (3 PTS) (Rozier 1 AST),35-38,35,38
 0021900191,2019-11-18,TOR,CHA,17.22,2,6,47,TOR,TOR,fg_make,63,False,False,Hollis-Jefferson 6' Fadeaway Jumper (8 PTS) (Powell 1 AST),,37-38,37,38
 0021900191,2019-11-18,TOR,CHA,17.22,2,6,47,TOR,CHA,foul,2,False,False,,Biyombo S.FOUL (P1.T3) (S.Wall),37-38,37,38
@@ -181,8 +181,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900191,2019-11-18,TOR,CHA,19.5,2,4,30,TOR,TOR,fg3_miss,1,False,False,MISS Powell 3PT Jump Shot,,46-42,46,42
 0021900191,2019-11-18,TOR,CHA,19.55,2,4,27,CHA,CHA,reb,0,False,False,,Batum REBOUND (Off:0 Def:4),46-42,46,42
 0021900191,2019-11-18,TOR,CHA,19.78,2,4,13,CHA,CHA,tov,2,False,True,,Rozier Lost Ball Turnover (P1.T10),46-42,46,42
-0021900191,2019-11-18,TOR,CHA,19.78,2,4,13,TOR,CHA,foul,28,False,False,,Batum Personal Take Foul (P1.T4) (P.Ransom),46-42,46,42
 0021900191,2019-11-18,TOR,CHA,19.78,2,4,13,CHA,TOR,steal,2,False,True,steal,steal,46-42,46,42
+0021900191,2019-11-18,TOR,CHA,19.78,2,4,13,TOR,CHA,foul,28,False,False,,Batum Personal Take Foul (P1.T4) (P.Ransom),46-42,46,42
 0021900191,2019-11-18,TOR,CHA,20.0,2,4,0,TOR,TOR,fg_make,5,False,False,Hollis-Jefferson 1' Layup (15 PTS) (Powell 3 AST),,48-42,48,42
 0021900191,2019-11-18,TOR,CHA,20.2,2,3,48,CHA,CHA,tov,4,False,False,,Batum Traveling Turnover (P2.T11),48-42,48,42
 0021900191,2019-11-18,TOR,CHA,20.48,2,3,31,TOR,TOR,fg3_miss,1,False,False,MISS Gasol 24' 3PT Jump Shot,,48-42,48,42
@@ -346,17 +346,17 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900191,2019-11-18,TOR,CHA,38.77,4,9,14,TOR,TOR,fg_miss,97,False,False,MISS Boucher 1' Tip Layup Shot,,102-78,102,78
 0021900191,2019-11-18,TOR,CHA,38.77,4,9,14,TOR,TOR,reb,0,False,False,Hollis-Jefferson REBOUND (Off:4 Def:3),,102-78,102,78
 0021900191,2019-11-18,TOR,CHA,38.78,4,9,13,TOR,TOR,fg_miss,72,True,False,MISS Hollis-Jefferson 3' Putback Layup,,102-78,102,78
+0021900191,2019-11-18,TOR,CHA,38.78,4,9,13,TOR,CHA,block,72,True,False,block,block,102-78,102,78
 0021900191,2019-11-18,TOR,CHA,38.78,4,9,13,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:0 Def:1),102-78,102,78
 0021900191,2019-11-18,TOR,CHA,38.78,4,9,13,TOR,CHA,foul,26,False,False,,Martin Offensive Charge Foul (P1.T3) (S.Wall),102-78,102,78
 0021900191,2019-11-18,TOR,CHA,38.78,4,9,13,CHA,CHA,tov,37,False,False,,Martin Offensive Foul Turnover (P1.T18),102-78,102,78
-0021900191,2019-11-18,TOR,CHA,38.78,4,9,13,TOR,CHA,block,72,True,False,block,block,102-78,102,78
 0021900191,2019-11-18,TOR,CHA,38.98,4,9,1,TOR,TOR,fg3_make,1,False,False,Davis 29' 3PT Jump Shot (3 PTS) (Hollis-Jefferson 1 AST),,105-78,105,78
 0021900191,2019-11-18,TOR,CHA,39.32,4,8,41,CHA,CHA,fg3_miss,1,False,False,,MISS Martin 25' 3PT Jump Shot,105-78,105,78
 0021900191,2019-11-18,TOR,CHA,39.37,4,8,38,TOR,TOR,reb,0,False,False,Hollis-Jefferson REBOUND (Off:4 Def:4),,105-78,105,78
 0021900191,2019-11-18,TOR,CHA,39.63,4,8,22,TOR,TOR,fg_miss,79,False,False,MISS Siakam 22' Pullup Jump Shot,,105-78,105,78
 0021900191,2019-11-18,TOR,CHA,39.65,4,8,21,TOR,TOR,reb,0,False,False,Boucher REBOUND (Off:6 Def:3),,105-78,105,78
-0021900191,2019-11-18,TOR,CHA,39.65,4,8,21,TOR,TOR,fg_make,97,False,False,Boucher 5' Tip Layup Shot (6 PTS),,107-78,107,78
 0021900191,2019-11-18,TOR,CHA,39.65,4,8,21,CHA,TOR,foul,3,False,False,Boucher L.B.FOUL (P3.T2) (T.Brown),,107-78,107,78
+0021900191,2019-11-18,TOR,CHA,39.65,4,8,21,TOR,TOR,fg_make,97,False,False,Boucher 5' Tip Layup Shot (6 PTS),,107-78,107,78
 0021900191,2019-11-18,TOR,CHA,40.07,4,7,56,CHA,CHA,fg3_make,80,False,False,,Bridges 24' 3PT Step Back Jump Shot (8 PTS) (Hernangomez 1 AST),107-81,107,81
 0021900191,2019-11-18,TOR,CHA,40.25,4,7,45,TOR,CHA,foul,1,False,False,,Kidd-Gilchrist P.FOUL (P1.T4) (P.Ransom),107-81,107,81
 0021900191,2019-11-18,TOR,CHA,40.35,4,7,39,TOR,TOR,fg_miss,5,True,False,MISS Boucher 5' Layup,,107-81,107,81
@@ -407,8 +407,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900191,2019-11-18,TOR,CHA,44.28,4,3,43,CHA,CHA,reb,0,False,False,,Kidd-Gilchrist REBOUND (Off:0 Def:2),122-87,122,87
 0021900191,2019-11-18,TOR,CHA,44.45,4,3,33,CHA,CHA,fg3_make,1,False,False,,Bacon 24' 3PT Jump Shot (5 PTS) (Kidd-Gilchrist 1 AST),122-90,122,90
 0021900191,2019-11-18,TOR,CHA,44.8,4,3,12,TOR,TOR,tov,2,False,True,Davis Lost Ball Turnover (P2.T10),,122-90,122,90
-0021900191,2019-11-18,TOR,CHA,44.8,4,3,12,CHA,TOR,foul,1,False,False,Davis P.FOUL (P4.PN) (S.Wall),,122-90,122,90
 0021900191,2019-11-18,TOR,CHA,44.8,4,3,12,TOR,CHA,steal,2,False,True,steal,steal,122-90,122,90
+0021900191,2019-11-18,TOR,CHA,44.8,4,3,12,CHA,TOR,foul,1,False,False,Davis P.FOUL (P4.PN) (S.Wall),,122-90,122,90
 0021900191,2019-11-18,TOR,CHA,44.8,4,3,12,CHA,CHA,ft_make,11,False,False,,Kidd-Gilchrist Free Throw 1 of 2 (1 PTS),122-91,122,91
 0021900191,2019-11-18,TOR,CHA,44.8,4,3,12,CHA,CHA,ft_make,12,False,False,,Kidd-Gilchrist Free Throw 2 of 2 (2 PTS),122-92,122,92
 0021900191,2019-11-18,TOR,CHA,45.1,4,2,54,TOR,TOR,tov,2,False,True,Boucher Lost Ball Turnover (P1.T11),,122-92,122,92

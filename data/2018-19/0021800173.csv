@@ -49,8 +49,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800173,2018-11-09,SAC,MIN,4.93,1,7,4,SAC,SAC,fg3_miss,1,False,False,MISS Bagley III 25' 3PT Jump Shot,,5-15,5,15
 0021800173,2018-11-09,SAC,MIN,5.03,1,6,58,MIN,MIN,reb,0,False,False,,Butler REBOUND (Off:0 Def:2),5-15,5,15
 0021800173,2018-11-09,SAC,MIN,5.08,1,6,55,MIN,MIN,fg_miss,5,True,False,,MISS Butler 9' Layup,5-15,5,15
-0021800173,2018-11-09,SAC,MIN,5.08,1,6,55,MIN,MIN,reb,0,False,False,,Butler REBOUND (Off:1 Def:2),5-15,5,15
 0021800173,2018-11-09,SAC,MIN,5.08,1,6,55,MIN,SAC,block,5,True,False,block,block,5-15,5,15
+0021800173,2018-11-09,SAC,MIN,5.08,1,6,55,MIN,MIN,reb,0,False,False,,Butler REBOUND (Off:1 Def:2),5-15,5,15
 0021800173,2018-11-09,SAC,MIN,5.17,1,6,50,MIN,MIN,fg_miss,63,False,False,,MISS Butler 11' Fadeaway Jumper,5-15,5,15
 0021800173,2018-11-09,SAC,MIN,5.17,1,6,50,MIN,MIN,reb,0,False,False,,Gibson REBOUND (Off:1 Def:2),5-15,5,15
 0021800173,2018-11-09,SAC,MIN,5.23,1,6,46,MIN,MIN,fg_miss,5,False,False,,MISS Gibson 3' Layup,5-15,5,15
@@ -167,8 +167,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800173,2018-11-09,SAC,MIN,17.18,2,6,49,SAC,SAC,fg3_miss,1,False,False,MISS Bjelica 3PT Jump Shot,,39-43,39,43
 0021800173,2018-11-09,SAC,MIN,17.28,2,6,43,MIN,MIN,reb,0,False,False,,Rose REBOUND (Off:0 Def:2),39-43,39,43
 0021800173,2018-11-09,SAC,MIN,17.33,2,6,40,MIN,MIN,fg_miss,5,True,False,,MISS Towns 1' Layup,39-43,39,43
-0021800173,2018-11-09,SAC,MIN,17.33,2,6,40,SAC,SAC,reb,0,False,False,Bjelica REBOUND (Off:0 Def:2),,39-43,39,43
 0021800173,2018-11-09,SAC,MIN,17.33,2,6,40,MIN,SAC,block,5,True,False,block,block,39-43,39,43
+0021800173,2018-11-09,SAC,MIN,17.33,2,6,40,SAC,SAC,reb,0,False,False,Bjelica REBOUND (Off:0 Def:2),,39-43,39,43
 0021800173,2018-11-09,SAC,MIN,17.45,2,6,33,SAC,SAC,fg_make,50,False,False,Cauley-Stein 1' Running Dunk (11 PTS) (Bjelica 1 AST),,41-43,41,43
 0021800173,2018-11-09,SAC,MIN,17.63,2,6,22,MIN,SAC,foul,1,False,False,Cauley-Stein P.FOUL (P1.PN) (B.Forte),,41-43,41,43
 0021800173,2018-11-09,SAC,MIN,17.63,2,6,22,SAC,SAC,timeout,1,False,False,KINGS Timeout: Regular (Full 2 Short 0),,41-43,41,43
@@ -233,9 +233,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800173,2018-11-09,SAC,MIN,23.6,2,0,24,SAC,SAC,fg3_miss,1,False,False,MISS Shumpert 25' 3PT Jump Shot,,63-60,63,60
 0021800173,2018-11-09,SAC,MIN,23.6,2,0,24,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,63-60,63,60
 0021800173,2018-11-09,SAC,MIN,24.0,2,0,0,MIN,MIN,fg_miss,6,True,False,,MISS Rose 4' Driving Layup,63-60,63,60
+0021800173,2018-11-09,SAC,MIN,24.0,2,0,0,MIN,SAC,block,6,True,False,block,block,63-60,63,60
 0021800173,2018-11-09,SAC,MIN,24.0,2,0,0,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,63-60,63,60
 0021800173,2018-11-09,SAC,MIN,24.0,2,0,0,MIN,SAC,foul,6,False,False,Cauley-Stein AWAY.FROM.PLAY.FOUL (P2.PN) (M.Myers),,63-60,63,60
-0021800173,2018-11-09,SAC,MIN,24.0,2,0,0,MIN,SAC,block,6,True,False,block,block,63-60,63,60
 0021800173,2018-11-09,SAC,MIN,24.0,2,0,0,MIN,MIN,ft_make,10,False,False,,Towns Free Throw 1 of 1 (29 PTS),63-61,63,61
 0021800173,2018-11-09,SAC,MIN,24.0,2,0,0,MIN,SAC,foul,6,False,False,Ferrell AWAY.FROM.PLAY.FOUL (P3.PN) (M.Davis),,63-61,63,61
 0021800173,2018-11-09,SAC,MIN,24.0,2,0,0,MIN,MIN,ft_miss,10,False,False,,MISS Jones Free Throw 1 of 1,63-61,63,61
@@ -470,8 +470,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800173,2018-11-09,SAC,MIN,46.0,4,2,0,MIN,MIN,timeout,1,False,False,,Timberwolves Timeout: Regular (Reg.4 Short 0),115-106,115,106
 0021800173,2018-11-09,SAC,MIN,46.17,4,1,50,MIN,MIN,fg_make,101,False,False,,Towns 7' Driving Floating Jump Shot (39 PTS) (Jones 3 AST),115-108,115,108
 0021800173,2018-11-09,SAC,MIN,46.55,4,1,27,SAC,SAC,tov,2,False,True,Bjelica Lost Ball Turnover (P4.T13),,115-108,115,108
-0021800173,2018-11-09,SAC,MIN,46.55,4,1,27,,SAC,jump_ball,0,False,False,Jump Ball Bjelica vs. Tolliver: Tip to Jones,,115-108,115,108
 0021800173,2018-11-09,SAC,MIN,46.55,4,1,27,SAC,MIN,steal,2,False,True,steal,steal,115-108,115,108
+0021800173,2018-11-09,SAC,MIN,46.55,4,1,27,,SAC,jump_ball,0,False,False,Jump Ball Bjelica vs. Tolliver: Tip to Jones,,115-108,115,108
 0021800173,2018-11-09,SAC,MIN,46.72,4,1,17,MIN,MIN,tov,2,False,True,,Towns Lost Ball Turnover (P4.T16),115-108,115,108
 0021800173,2018-11-09,SAC,MIN,46.72,4,1,17,MIN,SAC,steal,2,False,True,steal,steal,115-108,115,108
 0021800173,2018-11-09,SAC,MIN,46.75,4,1,15,SAC,MIN,foul,2,False,False,,Jones S.FOUL (P1.T3) (M.Davis),115-108,115,108

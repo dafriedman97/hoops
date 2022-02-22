@@ -13,8 +13,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700920,2018-02-28,SAS,NOP,1.23,1,10,46,NOP,NOP,fg_make,66,False,False,,Davis 3' Jump Bank Shot (2 PTS),3-2,3,2
 0021700920,2018-02-28,SAS,NOP,1.6,1,10,24,SAS,SAS,fg_make,86,False,False,Aldridge 13' Turnaround Fadeaway (2 PTS),,5-2,5,2
 0021700920,2018-02-28,SAS,NOP,1.7,1,10,18,NOP,NOP,fg_miss,5,True,False,,MISS Okafor 2' Layup,5-2,5,2
-0021700920,2018-02-28,SAS,NOP,1.7,1,10,18,NOP,NOP,reb,0,False,False,,Pelicans Rebound,5-2,5,2
 0021700920,2018-02-28,SAS,NOP,1.7,1,10,18,NOP,SAS,block,5,True,False,block,block,5-2,5,2
+0021700920,2018-02-28,SAS,NOP,1.7,1,10,18,NOP,NOP,reb,0,False,False,,Pelicans Rebound,5-2,5,2
 0021700920,2018-02-28,SAS,NOP,1.83,1,10,10,NOP,NOP,fg3_make,80,False,False,,Rondo 25' 3PT Step Back Jump Shot (3 PTS),5-5,5,5
 0021700920,2018-02-28,SAS,NOP,2.13,1,9,52,SAS,SAS,fg_miss,79,False,False,MISS Murray 16' Pullup Jump Shot,,5-5,5,5
 0021700920,2018-02-28,SAS,NOP,2.17,1,9,50,NOP,NOP,reb,0,False,False,,Holiday REBOUND (Off:0 Def:1),5-5,5,5
@@ -104,12 +104,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700920,2018-02-28,SAS,NOP,11.03,1,0,58,SAS,NOP,foul,1,False,False,,Miller P.FOUL (P1.T4) (J.Goble),27-24,27,24
 0021700920,2018-02-28,SAS,NOP,11.27,1,0,44,SAS,SAS,fg_make,102,False,False,Ginobili 7' Driving Floating Bank Jump Shot (4 PTS),,29-24,29,24
 0021700920,2018-02-28,SAS,NOP,11.5,1,0,30,NOP,NOP,fg_miss,75,True,False,,MISS Lemon Jr. 2' Driving Finger Roll Layup,29-24,29,24
-0021700920,2018-02-28,SAS,NOP,11.5,1,0,30,SAS,SAS,reb,0,False,False,Green REBOUND (Off:0 Def:2),,29-24,29,24
 0021700920,2018-02-28,SAS,NOP,11.5,1,0,30,NOP,SAS,block,75,True,False,block,block,29-24,29,24
+0021700920,2018-02-28,SAS,NOP,11.5,1,0,30,SAS,SAS,reb,0,False,False,Green REBOUND (Off:0 Def:2),,29-24,29,24
 0021700920,2018-02-28,SAS,NOP,11.65,1,0,21,SAS,SAS,tov,1,False,False,Gay Bad Pass Turnover (P1.T1),,29-24,29,24
 0021700920,2018-02-28,SAS,NOP,11.97,1,0,2,NOP,NOP,fg_miss,75,True,False,,MISS Diallo 3' Driving Finger Roll Layup,29-24,29,24
-0021700920,2018-02-28,SAS,NOP,11.97,1,0,2,SAS,SAS,reb,0,False,False,Gay REBOUND (Off:0 Def:3),,29-24,29,24
 0021700920,2018-02-28,SAS,NOP,11.97,1,0,2,NOP,SAS,block,75,True,False,block,block,29-24,29,24
+0021700920,2018-02-28,SAS,NOP,11.97,1,0,2,SAS,SAS,reb,0,False,False,Gay REBOUND (Off:0 Def:3),,29-24,29,24
 0021700920,2018-02-28,SAS,NOP,12.0,1,0,0,SAS,SAS,fg3_miss,1,False,False,MISS Gay 57' 3PT Jump Shot,,29-24,29,24
 0021700920,2018-02-28,SAS,NOP,12.0,1,0,0,SAS,SAS,reb,0,False,False,SPURS Rebound,,29-24,29,24
 0021700920,2018-02-28,SAS,NOP,12.0,1,0,0,SAS,,period_end,0,False,False,,,29-24,29,24
@@ -131,8 +131,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700920,2018-02-28,SAS,NOP,14.05,2,9,57,NOP,NOP,fg_make,99,False,False,,Lemon Jr. 1' Cutting Finger Roll Layup Shot (2 PTS) (Clark 1 AST),33-28,33,28
 0021700920,2018-02-28,SAS,NOP,14.33,2,9,40,SAS,SAS,fg_make,7,False,False,Lauvergne 1' Dunk (4 PTS) (Ginobili 1 AST),,35-28,35,28
 0021700920,2018-02-28,SAS,NOP,14.73,2,9,16,NOP,NOP,fg_miss,5,True,False,,MISS Mirotic 2' Layup,35-28,35,28
-0021700920,2018-02-28,SAS,NOP,14.73,2,9,16,SAS,SAS,reb,0,False,False,Lauvergne REBOUND (Off:1 Def:1),,35-28,35,28
 0021700920,2018-02-28,SAS,NOP,14.73,2,9,16,NOP,SAS,block,5,True,False,block,block,35-28,35,28
+0021700920,2018-02-28,SAS,NOP,14.73,2,9,16,SAS,SAS,reb,0,False,False,Lauvergne REBOUND (Off:1 Def:1),,35-28,35,28
 0021700920,2018-02-28,SAS,NOP,14.77,2,9,14,SAS,NOP,foul,1,False,False,,Mirotic P.FOUL (P1.T1) (J.Goble),35-28,35,28
 0021700920,2018-02-28,SAS,NOP,14.92,2,9,5,SAS,NOP,foul,1,False,False,,Mirotic P.FOUL (P2.T2) (Z.Zarba),35-28,35,28
 0021700920,2018-02-28,SAS,NOP,15.0,2,9,0,SAS,SAS,fg_miss,75,True,False,MISS Parker 1' Driving Finger Roll Layup,,35-28,35,28
@@ -191,8 +191,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700920,2018-02-28,SAS,NOP,21.38,2,2,37,NOP,NOP,fg_make,52,False,False,,Davis 1' Alley Oop Dunk (10 PTS) (Rondo 4 AST),53-44,53,44
 0021700920,2018-02-28,SAS,NOP,21.6,2,2,24,SAS,SAS,fg_make,101,False,False,Ginobili 10' Driving Floating Jump Shot (8 PTS),,55-44,55,44
 0021700920,2018-02-28,SAS,NOP,21.78,2,2,13,NOP,NOP,fg_miss,1,True,False,,MISS Moore 11' Jump Shot,55-44,55,44
-0021700920,2018-02-28,SAS,NOP,21.78,2,2,13,NOP,NOP,reb,0,False,False,,Moore REBOUND (Off:2 Def:0),55-44,55,44
 0021700920,2018-02-28,SAS,NOP,21.78,2,2,13,NOP,SAS,block,1,True,False,block,block,55-44,55,44
+0021700920,2018-02-28,SAS,NOP,21.78,2,2,13,NOP,NOP,reb,0,False,False,,Moore REBOUND (Off:2 Def:0),55-44,55,44
 0021700920,2018-02-28,SAS,NOP,21.85,2,2,9,NOP,SAS,foul,2,False,False,Ginobili S.FOUL (P1.T2) (Z.Zarba),,55-44,55,44
 0021700920,2018-02-28,SAS,NOP,21.85,2,2,9,NOP,NOP,ft_make,11,False,False,,Moore Free Throw 1 of 2 (1 PTS),55-45,55,45
 0021700920,2018-02-28,SAS,NOP,21.85,2,2,9,NOP,NOP,ft_make,12,False,False,,Moore Free Throw 2 of 2 (2 PTS),55-46,55,46
@@ -216,10 +216,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700920,2018-02-28,SAS,NOP,24.68,3,11,19,NOP,NOP,fg_miss,75,False,False,,MISS Rondo 3' Driving Finger Roll Layup,62-51,62,51
 0021700920,2018-02-28,SAS,NOP,24.7,3,11,18,NOP,NOP,reb,0,False,False,,Moore REBOUND (Off:3 Def:0),62-51,62,51
 0021700920,2018-02-28,SAS,NOP,24.73,3,11,16,NOP,NOP,fg_make,72,False,False,,Moore 1' Putback Layup (4 PTS),62-53,62,53
-0021700920,2018-02-28,SAS,NOP,24.78,3,11,13,NOP,,foul,11,False,False,,,62-53,62,53
 0021700920,2018-02-28,SAS,NOP,24.78,3,11,13,NOP,NOP,ft_make,16,False,False,,Davis Free Throw Technical (11 PTS),62-54,62,54
 0021700920,2018-02-28,SAS,NOP,24.78,3,11,13,NOP,,foul,11,False,False,,,62-54,62,54
 0021700920,2018-02-28,SAS,NOP,24.78,3,11,13,NOP,NOP,ft_make,16,False,False,,Davis Free Throw Technical (12 PTS),62-55,62,55
+0021700920,2018-02-28,SAS,NOP,24.78,3,11,13,NOP,,foul,11,False,False,,,62-53,62,53
 0021700920,2018-02-28,SAS,NOP,25.12,3,10,53,SAS,SAS,fg_make,101,False,False,Green 10' Driving Floating Jump Shot (5 PTS) (Murray 2 AST),,64-55,64,55
 0021700920,2018-02-28,SAS,NOP,25.35,3,10,39,NOP,NOP,fg_make,101,False,False,,Moore 10' Driving Floating Jump Shot (6 PTS) (Davis 1 AST),64-57,64,57
 0021700920,2018-02-28,SAS,NOP,25.55,3,10,27,SAS,SAS,fg_miss,75,False,False,MISS Murray Driving Finger Roll Layup,,64-57,64,57
@@ -243,14 +243,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700920,2018-02-28,SAS,NOP,27.35,3,8,39,NOP,SAS,block,72,True,False,block,block,68-61,68,61
 0021700920,2018-02-28,SAS,NOP,27.38,3,8,37,SAS,SAS,reb,0,False,False,Murray REBOUND (Off:0 Def:6),,68-61,68,61
 0021700920,2018-02-28,SAS,NOP,27.48,3,8,31,SAS,SAS,fg_miss,5,True,False,MISS Lauvergne 1' Layup,,68-61,68,61
-0021700920,2018-02-28,SAS,NOP,27.48,3,8,31,SAS,SAS,reb,0,False,False,Lauvergne REBOUND (Off:3 Def:3),,68-61,68,61
 0021700920,2018-02-28,SAS,NOP,27.48,3,8,31,SAS,NOP,block,5,True,False,block,block,68-61,68,61
+0021700920,2018-02-28,SAS,NOP,27.48,3,8,31,SAS,SAS,reb,0,False,False,Lauvergne REBOUND (Off:3 Def:3),,68-61,68,61
 0021700920,2018-02-28,SAS,NOP,27.5,3,8,30,SAS,NOP,foul,2,False,False,,Mirotic S.FOUL (P3.T1) (C.Kirkland),68-61,68,61
 0021700920,2018-02-28,SAS,NOP,27.5,3,8,30,SAS,SAS,ft_make,11,False,False,Lauvergne Free Throw 1 of 2 (9 PTS),,69-61,69,61
 0021700920,2018-02-28,SAS,NOP,27.5,3,8,30,SAS,SAS,ft_make,12,False,False,Lauvergne Free Throw 2 of 2 (10 PTS),,70-61,70,61
 0021700920,2018-02-28,SAS,NOP,27.65,3,8,21,NOP,NOP,tov,2,False,True,,Davis Lost Ball Turnover (P2.T8),70-61,70,61
-0021700920,2018-02-28,SAS,NOP,27.65,3,8,21,SAS,NOP,foul,1,False,False,,Holiday P.FOUL (P2.T2) (Z.Zarba),70-61,70,61
 0021700920,2018-02-28,SAS,NOP,27.65,3,8,21,NOP,SAS,steal,2,False,True,steal,steal,70-61,70,61
+0021700920,2018-02-28,SAS,NOP,27.65,3,8,21,SAS,NOP,foul,1,False,False,,Holiday P.FOUL (P2.T2) (Z.Zarba),70-61,70,61
 0021700920,2018-02-28,SAS,NOP,27.88,3,8,7,SAS,SAS,fg_miss,78,False,False,MISS Lauvergne 9' Floating Jump Shot,,70-61,70,61
 0021700920,2018-02-28,SAS,NOP,27.9,3,8,6,NOP,NOP,reb,0,False,False,,Pelicans Rebound,70-61,70,61
 0021700920,2018-02-28,SAS,NOP,27.9,3,8,6,NOP,SAS,foul,3,False,False,Green L.B.FOUL (P1.T2) (Z.Zarba),,70-61,70,61
@@ -336,8 +336,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700920,2018-02-28,SAS,NOP,36.3,4,11,42,NOP,NOP,reb,0,False,False,,Clark REBOUND (Off:1 Def:2),95-87,95,87
 0021700920,2018-02-28,SAS,NOP,36.33,4,11,40,NOP,NOP,fg_make,5,False,False,,Clark 1' Layup (8 PTS),95-89,95,89
 0021700920,2018-02-28,SAS,NOP,36.53,4,11,28,SAS,SAS,fg_miss,6,True,False,MISS Ginobili 2' Driving Layup,,95-89,95,89
-0021700920,2018-02-28,SAS,NOP,36.53,4,11,28,SAS,SAS,reb,0,False,False,SPURS Rebound,,95-89,95,89
 0021700920,2018-02-28,SAS,NOP,36.53,4,11,28,SAS,NOP,block,6,True,False,block,block,95-89,95,89
+0021700920,2018-02-28,SAS,NOP,36.53,4,11,28,SAS,SAS,reb,0,False,False,SPURS Rebound,,95-89,95,89
 0021700920,2018-02-28,SAS,NOP,36.58,4,11,25,SAS,SAS,fg_miss,1,False,False,MISS Ginobili 13' Jump Shot,,95-89,95,89
 0021700920,2018-02-28,SAS,NOP,36.62,4,11,23,NOP,NOP,reb,0,False,False,,Diallo REBOUND (Off:0 Def:2),95-89,95,89
 0021700920,2018-02-28,SAS,NOP,36.82,4,11,11,NOP,NOP,fg_make,79,False,False,,Moore 13' Pullup Jump Shot (10 PTS) (Rondo 9 AST),95-91,95,91

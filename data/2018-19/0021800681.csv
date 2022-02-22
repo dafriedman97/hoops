@@ -94,8 +94,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800681,2019-01-19,IND,DAL,11.37,1,0,38,DAL,DAL,tov,37,False,False,,Powell Offensive Foul Turnover (P1.T5),22-23,22,23
 0021800681,2019-01-19,IND,DAL,11.48,1,0,31,IND,IND,fg_make,75,False,False,Evans 1' Driving Finger Roll Layup (2 PTS),,24-23,24,23
 0021800681,2019-01-19,IND,DAL,11.63,1,0,22,DAL,DAL,fg3_miss,79,False,False,,MISS Doncic 28' 3PT Pullup Jump Shot,24-23,24,23
-0021800681,2019-01-19,IND,DAL,11.67,1,0,20,IND,IND,tov,40,False,False,Turner Out of Bounds Lost Ball Turnover (P1.T2),,24-23,24,23
 0021800681,2019-01-19,IND,DAL,11.67,1,0,20,IND,IND,reb,0,False,False,Turner REBOUND (Off:0 Def:1),,24-23,24,23
+0021800681,2019-01-19,IND,DAL,11.67,1,0,20,IND,IND,tov,40,False,False,Turner Out of Bounds Lost Ball Turnover (P1.T2),,24-23,24,23
 0021800681,2019-01-19,IND,DAL,12.0,1,0,0,DAL,DAL,fg_miss,80,False,False,,MISS Doncic 16' Step Back Jump Shot,24-23,24,23
 0021800681,2019-01-19,IND,DAL,12.0,1,0,0,DAL,DAL,reb,0,False,False,,Mavericks Rebound,24-23,24,23
 0021800681,2019-01-19,IND,DAL,12.0,1,0,0,DAL,,period_end,0,False,False,,,24-23,24,23
@@ -229,8 +229,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800681,2019-01-19,IND,DAL,25.88,3,10,7,IND,IND,tov,1,False,True,Collison Bad Pass Turnover (P2.T6),,61-46,61,46
 0021800681,2019-01-19,IND,DAL,25.88,3,10,7,IND,DAL,steal,1,False,True,steal,steal,61-46,61,46
 0021800681,2019-01-19,IND,DAL,25.97,3,10,2,DAL,DAL,fg_miss,6,True,False,,MISS Barnes 3' Driving Layup,61-46,61,46
-0021800681,2019-01-19,IND,DAL,25.97,3,10,2,DAL,DAL,reb,0,False,False,,Mavericks Rebound,61-46,61,46
 0021800681,2019-01-19,IND,DAL,25.97,3,10,2,DAL,IND,block,6,True,False,block,block,61-46,61,46
+0021800681,2019-01-19,IND,DAL,25.97,3,10,2,DAL,DAL,reb,0,False,False,,Mavericks Rebound,61-46,61,46
 0021800681,2019-01-19,IND,DAL,26.02,3,9,59,DAL,DAL,fg3_miss,1,False,False,,MISS Matthews 28' 3PT Jump Shot,61-46,61,46
 0021800681,2019-01-19,IND,DAL,26.07,3,9,56,DAL,DAL,reb,0,False,False,,Doncic REBOUND (Off:2 Def:2),61-46,61,46
 0021800681,2019-01-19,IND,DAL,26.1,3,9,54,DAL,DAL,fg_miss,5,True,False,,MISS Doncic 1' Layup,61-46,61,46
@@ -407,8 +407,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800681,2019-01-19,IND,DAL,45.47,4,2,32,DAL,DAL,ft_make,11,False,False,,Mejri Free Throw 1 of 2 (1 PTS),106-92,106,92
 0021800681,2019-01-19,IND,DAL,45.47,4,2,32,DAL,DAL,ft_make,12,False,False,,Mejri Free Throw 2 of 2 (2 PTS),106-93,106,93
 0021800681,2019-01-19,IND,DAL,45.65,4,2,21,IND,IND,fg_miss,98,True,False,MISS Bogdanovic 4' Cutting Layup Shot,,106-93,106,93
-0021800681,2019-01-19,IND,DAL,45.65,4,2,21,IND,IND,reb,0,False,False,PACERS Rebound,,106-93,106,93
 0021800681,2019-01-19,IND,DAL,45.65,4,2,21,IND,DAL,block,98,True,False,block,block,106-93,106,93
+0021800681,2019-01-19,IND,DAL,45.65,4,2,21,IND,IND,reb,0,False,False,PACERS Rebound,,106-93,106,93
 0021800681,2019-01-19,IND,DAL,45.78,4,2,13,IND,IND,tov,2,False,True,Bogdanovic Lost Ball Turnover (P1.T10),,106-93,106,93
 0021800681,2019-01-19,IND,DAL,45.78,4,2,13,IND,DAL,steal,2,False,True,steal,steal,106-93,106,93
 0021800681,2019-01-19,IND,DAL,45.87,4,2,8,DAL,DAL,fg_make,76,False,False,,Macon 1' Running Finger Roll Layup (2 PTS),106-95,106,95

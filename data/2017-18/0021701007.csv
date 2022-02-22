@@ -60,8 +60,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701007,2018-03-13,ATL,OKC,7.12,1,4,53,OKC,OKC,fg3_miss,1,False,False,,MISS Anthony 25' 3PT Jump Shot,13-20,13,20
 0021701007,2018-03-13,ATL,OKC,7.18,1,4,49,ATL,ATL,reb,0,False,False,Prince REBOUND (Off:0 Def:1),,13-20,13,20
 0021701007,2018-03-13,ATL,OKC,7.33,1,4,40,ATL,ATL,fg_miss,6,True,False,MISS Schroder 1' Driving Layup,,13-20,13,20
-0021701007,2018-03-13,ATL,OKC,7.33,1,4,40,ATL,ATL,reb,0,False,False,HAWKS Rebound,,13-20,13,20
 0021701007,2018-03-13,ATL,OKC,7.33,1,4,40,ATL,OKC,block,6,True,False,block,block,13-20,13,20
+0021701007,2018-03-13,ATL,OKC,7.33,1,4,40,ATL,ATL,reb,0,False,False,HAWKS Rebound,,13-20,13,20
 0021701007,2018-03-13,ATL,OKC,7.42,1,4,35,ATL,ATL,fg3_make,1,False,False,Prince 24' 3PT Jump Shot (5 PTS) (Taylor 2 AST),,16-20,16,20
 0021701007,2018-03-13,ATL,OKC,7.65,1,4,21,OKC,OKC,fg_make,6,False,False,,Anthony 1' Driving Layup (5 PTS),16-22,16,22
 0021701007,2018-03-13,ATL,OKC,7.65,1,4,21,OKC,ATL,foul,2,False,False,Muscala S.FOUL (P1.T4) (T.Maddox),,16-22,16,22
@@ -76,14 +76,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701007,2018-03-13,ATL,OKC,8.6,1,3,24,ATL,ATL,fg_miss,97,False,False,MISS Muscala 1' Tip Layup Shot,,18-25,18,25
 0021701007,2018-03-13,ATL,OKC,8.6,1,3,24,ATL,ATL,reb,0,False,False,Cavanaugh REBOUND (Off:1 Def:0),,18-25,18,25
 0021701007,2018-03-13,ATL,OKC,8.62,1,3,23,ATL,ATL,fg_miss,97,True,False,MISS Cavanaugh 1' Tip Layup Shot,,18-25,18,25
+0021701007,2018-03-13,ATL,OKC,8.62,1,3,23,ATL,OKC,block,97,True,False,block,block,18-25,18,25
 0021701007,2018-03-13,ATL,OKC,8.62,1,3,23,ATL,ATL,reb,0,False,False,Cavanaugh REBOUND (Off:2 Def:0),,18-25,18,25
 0021701007,2018-03-13,ATL,OKC,8.62,1,3,23,ATL,ATL,fg_miss,97,True,False,MISS Cavanaugh 1' Tip Layup Shot,,18-25,18,25
+0021701007,2018-03-13,ATL,OKC,8.62,1,3,23,ATL,OKC,block,97,True,False,block,block,18-25,18,25
 0021701007,2018-03-13,ATL,OKC,8.62,1,3,23,OKC,OKC,reb,0,False,False,,Grant REBOUND (Off:0 Def:1),18-25,18,25
-0021701007,2018-03-13,ATL,OKC,8.62,1,3,23,ATL,OKC,block,97,True,False,block,block,18-25,18,25
-0021701007,2018-03-13,ATL,OKC,8.62,1,3,23,ATL,OKC,block,97,True,False,block,block,18-25,18,25
 0021701007,2018-03-13,ATL,OKC,8.73,1,3,16,OKC,OKC,tov,1,False,True,,Westbrook Bad Pass Turnover (P1.T2),18-25,18,25
-0021701007,2018-03-13,ATL,OKC,8.73,1,3,16,ATL,OKC,foul,1,False,False,,Westbrook P.FOUL (P1.T3) (N.Buchert),18-25,18,25
 0021701007,2018-03-13,ATL,OKC,8.73,1,3,16,OKC,ATL,steal,1,False,True,steal,steal,18-25,18,25
+0021701007,2018-03-13,ATL,OKC,8.73,1,3,16,ATL,OKC,foul,1,False,False,,Westbrook P.FOUL (P1.T3) (N.Buchert),18-25,18,25
 0021701007,2018-03-13,ATL,OKC,9.07,1,2,56,ATL,ATL,fg3_miss,1,False,False,MISS Muscala 3PT Jump Shot,,18-25,18,25
 0021701007,2018-03-13,ATL,OKC,9.1,1,2,54,OKC,OKC,reb,0,False,False,,Westbrook REBOUND (Off:1 Def:3),18-25,18,25
 0021701007,2018-03-13,ATL,OKC,9.18,1,2,49,OKC,OKC,fg_make,6,False,False,,Westbrook 1' Driving Layup (6 PTS),18-27,18,27
@@ -182,8 +182,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701007,2018-03-13,ATL,OKC,20.13,2,3,52,ATL,ATL,fg_miss,79,False,False,MISS Prince 12' Pullup Jump Shot,,51-47,51,47
 0021701007,2018-03-13,ATL,OKC,20.18,2,3,49,OKC,OKC,reb,0,False,False,,George REBOUND (Off:0 Def:4),51-47,51,47
 0021701007,2018-03-13,ATL,OKC,20.25,2,3,45,OKC,OKC,fg_miss,41,True,False,,MISS Westbrook 1' Running Layup,51-47,51,47
-0021701007,2018-03-13,ATL,OKC,20.25,2,3,45,OKC,OKC,reb,0,False,False,,Brewer REBOUND (Off:1 Def:0),51-47,51,47
 0021701007,2018-03-13,ATL,OKC,20.25,2,3,45,OKC,ATL,block,41,True,False,block,block,51-47,51,47
+0021701007,2018-03-13,ATL,OKC,20.25,2,3,45,OKC,OKC,reb,0,False,False,,Brewer REBOUND (Off:1 Def:0),51-47,51,47
 0021701007,2018-03-13,ATL,OKC,20.35,2,3,39,OKC,OKC,fg3_miss,1,False,False,,MISS George 25' 3PT Jump Shot,51-47,51,47
 0021701007,2018-03-13,ATL,OKC,20.38,2,3,37,ATL,ATL,reb,0,False,False,Lee REBOUND (Off:0 Def:2),,51-47,51,47
 0021701007,2018-03-13,ATL,OKC,20.38,2,3,37,ATL,OKC,foul,2,False,False,,George S.FOUL (P1.PN) (K.Fitzgerald),51-47,51,47
@@ -212,8 +212,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701007,2018-03-13,ATL,OKC,22.03,2,1,58,OKC,OKC,tov,2,False,True,,Westbrook Lost Ball Turnover (P2.T6),60-52,60,52
 0021701007,2018-03-13,ATL,OKC,22.03,2,1,58,OKC,ATL,steal,2,False,True,steal,steal,60-52,60,52
 0021701007,2018-03-13,ATL,OKC,22.1,2,1,54,ATL,ATL,fg_miss,41,True,False,MISS Dedmon 1' Running Layup,,60-52,60,52
-0021701007,2018-03-13,ATL,OKC,22.1,2,1,54,ATL,ATL,reb,0,False,False,HAWKS Rebound,,60-52,60,52
 0021701007,2018-03-13,ATL,OKC,22.1,2,1,54,ATL,OKC,block,41,True,False,block,block,60-52,60,52
+0021701007,2018-03-13,ATL,OKC,22.1,2,1,54,ATL,ATL,reb,0,False,False,HAWKS Rebound,,60-52,60,52
 0021701007,2018-03-13,ATL,OKC,22.25,2,1,45,ATL,ATL,fg_make,6,False,False,Prince 5' Driving Layup (12 PTS),,62-52,62,52
 0021701007,2018-03-13,ATL,OKC,22.67,2,1,20,OKC,OKC,fg_miss,79,False,False,,MISS Anthony 14' Pullup Jump Shot,62-52,62,52
 0021701007,2018-03-13,ATL,OKC,22.72,2,1,17,ATL,ATL,reb,0,False,False,Prince REBOUND (Off:0 Def:3),,62-52,62,52
@@ -389,8 +389,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701007,2018-03-13,ATL,OKC,41.92,4,6,5,OKC,OKC,fg_miss,44,False,False,,MISS Grant 2' Reverse Layup,98-103,98,103
 0021701007,2018-03-13,ATL,OKC,41.95,4,6,3,ATL,ATL,reb,0,False,False,Collins REBOUND (Off:2 Def:6),,98-103,98,103
 0021701007,2018-03-13,ATL,OKC,42.0,4,6,0,ATL,ATL,fg_miss,5,True,False,MISS Taylor 1' Layup,,98-103,98,103
-0021701007,2018-03-13,ATL,OKC,42.0,4,6,0,ATL,ATL,reb,0,False,False,Collins REBOUND (Off:3 Def:6),,98-103,98,103
 0021701007,2018-03-13,ATL,OKC,42.0,4,6,0,ATL,OKC,block,5,True,False,block,block,98-103,98,103
+0021701007,2018-03-13,ATL,OKC,42.0,4,6,0,ATL,ATL,reb,0,False,False,Collins REBOUND (Off:3 Def:6),,98-103,98,103
 0021701007,2018-03-13,ATL,OKC,42.13,4,5,52,ATL,ATL,fg_make,5,False,False,Taylor 1' Layup (12 PTS) (Collins 2 AST),,100-103,100,103
 0021701007,2018-03-13,ATL,OKC,42.13,4,5,52,ATL,ATL,fg_make,5,False,False,Taylor 1' Layup (12 PTS) (Collins 2 AST),,100-103,100,103
 0021701007,2018-03-13,ATL,OKC,42.4,4,5,36,OKC,OKC,fg3_miss,1,False,False,,MISS Felton 3PT Jump Shot,100-103,100,103
@@ -428,8 +428,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701007,2018-03-13,ATL,OKC,45.28,4,2,43,ATL,ATL,fg3_miss,1,False,False,MISS Prince 26' 3PT Jump Shot,,103-116,103,116
 0021701007,2018-03-13,ATL,OKC,45.37,4,2,38,OKC,OKC,reb,0,False,False,,Westbrook REBOUND (Off:2 Def:8),103-116,103,116
 0021701007,2018-03-13,ATL,OKC,45.37,4,2,38,OKC,OKC,tov,2,False,True,,Westbrook Lost Ball Turnover (P4.T8),103-116,103,116
-0021701007,2018-03-13,ATL,OKC,45.37,4,2,38,ATL,ATL,tov,13,False,False,Dedmon Backcourt Turnover (P2.T13),,103-116,103,116
 0021701007,2018-03-13,ATL,OKC,45.37,4,2,38,OKC,ATL,steal,2,False,True,steal,steal,103-116,103,116
+0021701007,2018-03-13,ATL,OKC,45.37,4,2,38,ATL,ATL,tov,13,False,False,Dedmon Backcourt Turnover (P2.T13),,103-116,103,116
 0021701007,2018-03-13,ATL,OKC,45.58,4,2,25,OKC,OKC,fg3_miss,1,False,False,,MISS Anthony 26' 3PT Jump Shot,103-116,103,116
 0021701007,2018-03-13,ATL,OKC,45.67,4,2,20,ATL,ATL,reb,0,False,False,Dedmon REBOUND (Off:1 Def:4),,103-116,103,116
 0021701007,2018-03-13,ATL,OKC,45.95,4,2,3,OKC,ATL,foul,4,False,False,Taylor OFF.Foul (P6) (N.Buchert),,103-116,103,116

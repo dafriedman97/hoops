@@ -22,8 +22,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800381,2018-12-08,CLE,WAS,3.95,1,8,3,WAS,WAS,fg_make,108,False,False,,Beal 2' Cutting Dunk Shot (4 PTS) (Wall 1 AST),12-11,12,11
 0021800381,2018-12-08,CLE,WAS,3.97,1,8,2,WAS,,violation,1,False,False,,,12-11,12,11
 0021800381,2018-12-08,CLE,WAS,4.23,1,7,46,CLE,CLE,fg_miss,1,False,False,MISS Osman 11' Jump Shot,,12-11,12,11
-0021800381,2018-12-08,CLE,WAS,4.25,1,7,45,CLE,CLE,fg_miss,97,False,False,MISS Blossomgame Tip Layup Shot,,12-11,12,11
 0021800381,2018-12-08,CLE,WAS,4.25,1,7,45,CLE,CLE,reb,0,False,False,Blossomgame REBOUND (Off:1 Def:1),,12-11,12,11
+0021800381,2018-12-08,CLE,WAS,4.25,1,7,45,CLE,CLE,fg_miss,97,False,False,MISS Blossomgame Tip Layup Shot,,12-11,12,11
 0021800381,2018-12-08,CLE,WAS,4.27,1,7,44,WAS,WAS,reb,0,False,False,,Porter Jr. REBOUND (Off:0 Def:1),12-11,12,11
 0021800381,2018-12-08,CLE,WAS,4.35,1,7,39,WAS,WAS,fg_make,41,False,False,,Porter Jr. 4' Running Layup (7 PTS),12-13,12,13
 0021800381,2018-12-08,CLE,WAS,4.8,1,7,12,CLE,CLE,fg_make,5,False,False,Burks 2' Layup (4 PTS),,14-13,14,13
@@ -63,9 +63,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800381,2018-12-08,CLE,WAS,8.62,1,3,23,CLE,CLE,ft_make,11,False,False,Nance Jr. Free Throw 1 of 2 (1 PTS),,27-22,27,22
 0021800381,2018-12-08,CLE,WAS,8.62,1,3,23,CLE,CLE,ft_make,12,False,False,Nance Jr. Free Throw 2 of 2 (2 PTS),,28-22,28,22
 0021800381,2018-12-08,CLE,WAS,8.78,1,3,13,WAS,WAS,fg_miss,6,True,False,,MISS Beal 3' Driving Layup,28-22,28,22
+0021800381,2018-12-08,CLE,WAS,8.78,1,3,13,WAS,CLE,block,6,True,False,block,block,28-22,28,22
 0021800381,2018-12-08,CLE,WAS,8.78,1,3,13,WAS,WAS,reb,0,False,False,,Wizards Rebound,28-22,28,22
 0021800381,2018-12-08,CLE,WAS,8.78,1,3,13,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.1 Short 0),28-22,28,22
-0021800381,2018-12-08,CLE,WAS,8.78,1,3,13,WAS,CLE,block,6,True,False,block,block,28-22,28,22
 0021800381,2018-12-08,CLE,WAS,8.92,1,3,5,WAS,WAS,fg_miss,47,False,False,,MISS Morris 10' Turnaround Jump Shot,28-22,28,22
 0021800381,2018-12-08,CLE,WAS,8.98,1,3,1,CLE,CLE,reb,0,False,False,Jones REBOUND (Off:0 Def:2),,28-22,28,22
 0021800381,2018-12-08,CLE,WAS,9.22,1,2,47,CLE,CLE,fg3_miss,1,False,False,MISS Clarkson 25' 3PT Jump Shot,,28-22,28,22
@@ -101,8 +101,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800381,2018-12-08,CLE,WAS,12.53,2,11,28,WAS,WAS,fg_miss,101,False,False,,MISS Oubre Jr. 3' Driving Floating Jump Shot,40-25,40,25
 0021800381,2018-12-08,CLE,WAS,12.53,2,11,28,WAS,WAS,reb,0,False,False,,Oubre Jr. REBOUND (Off:1 Def:1),40-25,40,25
 0021800381,2018-12-08,CLE,WAS,12.57,2,11,26,WAS,WAS,fg_miss,5,True,False,,MISS Oubre Jr. 1' Layup,40-25,40,25
-0021800381,2018-12-08,CLE,WAS,12.57,2,11,26,WAS,WAS,reb,0,False,False,,Wizards Rebound,40-25,40,25
 0021800381,2018-12-08,CLE,WAS,12.57,2,11,26,WAS,CLE,block,5,True,False,block,block,40-25,40,25
+0021800381,2018-12-08,CLE,WAS,12.57,2,11,26,WAS,WAS,reb,0,False,False,,Wizards Rebound,40-25,40,25
 0021800381,2018-12-08,CLE,WAS,12.82,2,11,11,WAS,WAS,fg_miss,47,False,False,,MISS Morris 15' Turnaround Jump Shot,40-25,40,25
 0021800381,2018-12-08,CLE,WAS,12.85,2,11,9,CLE,CLE,reb,0,False,False,Burks REBOUND (Off:0 Def:2),,40-25,40,25
 0021800381,2018-12-08,CLE,WAS,13.15,2,10,51,CLE,CLE,fg_make,5,False,False,Thompson 1' Layup (8 PTS),,42-25,42,25
@@ -121,11 +121,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800381,2018-12-08,CLE,WAS,14.53,2,9,28,WAS,WAS,fg3_miss,1,False,False,,MISS Green 24' 3PT Jump Shot,42-26,42,26
 0021800381,2018-12-08,CLE,WAS,14.6,2,9,24,CLE,CLE,reb,0,False,False,Thompson REBOUND (Off:1 Def:1),,42-26,42,26
 0021800381,2018-12-08,CLE,WAS,14.85,2,9,9,CLE,CLE,fg_miss,5,True,False,MISS Thompson 4' Layup,,42-26,42,26
+0021800381,2018-12-08,CLE,WAS,14.85,2,9,9,CLE,WAS,block,5,True,False,block,block,42-26,42,26
 0021800381,2018-12-08,CLE,WAS,14.85,2,9,9,CLE,CLE,reb,0,False,False,Thompson REBOUND (Off:2 Def:1),,42-26,42,26
 0021800381,2018-12-08,CLE,WAS,14.85,2,9,9,CLE,WAS,foul,2,False,False,,Oubre Jr. S.FOUL (P2.T3) (M.Ayotte),42-26,42,26
 0021800381,2018-12-08,CLE,WAS,14.85,2,9,9,CLE,CLE,ft_miss,11,False,False,MISS Thompson Free Throw 1 of 2,,42-26,42,26
 0021800381,2018-12-08,CLE,WAS,14.85,2,9,9,CLE,CLE,reb,1,False,False,CAVALIERS Rebound,,42-26,42,26
-0021800381,2018-12-08,CLE,WAS,14.85,2,9,9,CLE,WAS,block,5,True,False,block,block,42-26,42,26
 0021800381,2018-12-08,CLE,WAS,14.85,2,9,9,CLE,CLE,ft_make,12,False,False,Thompson Free Throw 2 of 2 (9 PTS),,43-26,43,26
 0021800381,2018-12-08,CLE,WAS,15.13,2,8,52,WAS,WAS,tov,40,False,False,,Green Out of Bounds Lost Ball Turnover (P1.T4),43-26,43,26
 0021800381,2018-12-08,CLE,WAS,15.5,2,8,30,CLE,CLE,fg_make,3,False,False,Thompson 9' Hook Shot (11 PTS) (Clarkson 1 AST),,45-26,45,26
@@ -234,8 +234,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800381,2018-12-08,CLE,WAS,27.43,3,8,34,CLE,CLE,reb,0,False,False,Thompson REBOUND (Off:7 Def:7),,68-48,68,48
 0021800381,2018-12-08,CLE,WAS,27.53,3,8,28,CLE,CLE,fg3_make,1,False,False,Osman 26' 3PT Jump Shot (7 PTS) (Burks 3 AST),,71-48,71,48
 0021800381,2018-12-08,CLE,WAS,27.73,3,8,16,WAS,WAS,fg_miss,6,True,False,,MISS Beal 3' Driving Layup,71-48,71,48
-0021800381,2018-12-08,CLE,WAS,27.73,3,8,16,WAS,WAS,reb,0,False,False,,Wizards Rebound,71-48,71,48
 0021800381,2018-12-08,CLE,WAS,27.73,3,8,16,WAS,CLE,block,6,True,False,block,block,71-48,71,48
+0021800381,2018-12-08,CLE,WAS,27.73,3,8,16,WAS,WAS,reb,0,False,False,,Wizards Rebound,71-48,71,48
 0021800381,2018-12-08,CLE,WAS,27.82,3,8,11,WAS,WAS,fg_miss,101,False,False,,MISS Porter Jr. 13' Driving Floating Jump Shot,71-48,71,48
 0021800381,2018-12-08,CLE,WAS,27.82,3,8,11,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,71-48,71,48
 0021800381,2018-12-08,CLE,WAS,28.07,3,7,56,CLE,CLE,fg3_make,1,False,False,Osman 26' 3PT Jump Shot (10 PTS) (Thompson 3 AST),,74-48,74,48

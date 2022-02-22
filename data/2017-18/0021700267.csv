@@ -7,8 +7,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700267,2017-11-24,BKN,POR,0.88,1,11,7,BKN,BKN,fg_miss,79,False,False,MISS Crabbe 21' Pullup Jump Shot,,2-0,2,0
 0021700267,2017-11-24,BKN,POR,0.95,1,11,3,POR,POR,reb,0,False,False,,Vonleh REBOUND (Off:0 Def:1),2-0,2,0
 0021700267,2017-11-24,BKN,POR,1.03,1,10,58,POR,POR,fg_miss,6,True,False,,MISS McCollum 5' Driving Layup,2-0,2,0
-0021700267,2017-11-24,BKN,POR,1.03,1,10,58,POR,POR,reb,0,False,False,,Trail Blazers Rebound,2-0,2,0
 0021700267,2017-11-24,BKN,POR,1.03,1,10,58,POR,BKN,block,6,True,False,block,block,2-0,2,0
+0021700267,2017-11-24,BKN,POR,1.03,1,10,58,POR,POR,reb,0,False,False,,Trail Blazers Rebound,2-0,2,0
 0021700267,2017-11-24,BKN,POR,1.15,1,10,51,POR,POR,tov,1,False,True,,Lillard Bad Pass Turnover (P1.T1),2-0,2,0
 0021700267,2017-11-24,BKN,POR,1.15,1,10,51,POR,BKN,steal,1,False,True,steal,steal,2-0,2,0
 0021700267,2017-11-24,BKN,POR,1.4,1,10,36,BKN,BKN,fg3_miss,79,False,False,MISS Dinwiddie 24' 3PT Pullup Jump Shot,,2-0,2,0
@@ -42,8 +42,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700267,2017-11-24,BKN,POR,5.62,1,6,23,BKN,BKN,fg_make,101,False,False,Carroll 13' Driving Floating Jump Shot (4 PTS),,17-10,17,10
 0021700267,2017-11-24,BKN,POR,5.77,1,6,14,POR,POR,fg_make,78,False,False,,McCollum 9' Floating Jump Shot (4 PTS) (Lillard 2 AST),17-12,17,12
 0021700267,2017-11-24,BKN,POR,5.97,1,6,2,BKN,BKN,fg_miss,98,True,False,MISS Zeller 2' Cutting Layup Shot,,17-12,17,12
-0021700267,2017-11-24,BKN,POR,5.97,1,6,2,BKN,BKN,reb,0,False,False,NETS Rebound,,17-12,17,12
 0021700267,2017-11-24,BKN,POR,5.97,1,6,2,BKN,POR,block,98,True,False,block,block,17-12,17,12
+0021700267,2017-11-24,BKN,POR,5.97,1,6,2,BKN,BKN,reb,0,False,False,NETS Rebound,,17-12,17,12
 0021700267,2017-11-24,BKN,POR,6.15,1,5,51,BKN,BKN,fg_make,102,False,False,Dinwiddie 9' Driving Floating Bank Jump Shot (2 PTS),,19-12,19,12
 0021700267,2017-11-24,BKN,POR,6.32,1,5,41,POR,BKN,foul,2,False,False,Zeller S.FOUL (P1.T1) (D.Collins),,19-12,19,12
 0021700267,2017-11-24,BKN,POR,6.32,1,5,41,POR,POR,ft_make,11,False,False,,Nurkic Free Throw 1 of 2 (3 PTS),19-13,19,13
@@ -59,8 +59,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700267,2017-11-24,BKN,POR,7.48,1,4,31,BKN,BKN,tov,2,False,True,Carroll Lost Ball Turnover (P1.T1),,21-16,21,16
 0021700267,2017-11-24,BKN,POR,7.48,1,4,31,BKN,POR,steal,2,False,True,steal,steal,21-16,21,16
 0021700267,2017-11-24,BKN,POR,7.6,1,4,24,POR,POR,fg_miss,98,True,False,,MISS Nurkic 3' Cutting Layup Shot,21-16,21,16
-0021700267,2017-11-24,BKN,POR,7.6,1,4,24,POR,POR,reb,0,False,False,,Trail Blazers Rebound,21-16,21,16
 0021700267,2017-11-24,BKN,POR,7.6,1,4,24,POR,BKN,block,98,True,False,block,block,21-16,21,16
+0021700267,2017-11-24,BKN,POR,7.6,1,4,24,POR,POR,reb,0,False,False,,Trail Blazers Rebound,21-16,21,16
 0021700267,2017-11-24,BKN,POR,7.82,1,4,11,POR,POR,fg_miss,47,False,False,,MISS Turner 13' Turnaround Jump Shot,21-16,21,16
 0021700267,2017-11-24,BKN,POR,7.87,1,4,8,BKN,BKN,reb,0,False,False,Booker REBOUND (Off:0 Def:1),,21-16,21,16
 0021700267,2017-11-24,BKN,POR,8.08,1,3,55,BKN,BKN,fg_miss,1,False,False,MISS Allen 18' Jump Shot,,21-16,21,16
@@ -72,9 +72,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700267,2017-11-24,BKN,POR,8.75,1,3,15,BKN,BKN,reb,0,False,False,Allen REBOUND (Off:1 Def:0),,24-16,24,16
 0021700267,2017-11-24,BKN,POR,8.75,1,3,15,BKN,BKN,fg_make,5,False,False,Allen 1' Layup (2 PTS),,26-16,26,16
 0021700267,2017-11-24,BKN,POR,9.03,1,2,58,POR,POR,tov,1,False,True,,Lillard Bad Pass Turnover (P3.T3),26-16,26,16
+0021700267,2017-11-24,BKN,POR,9.03,1,2,58,POR,BKN,steal,1,False,True,steal,steal,26-16,26,16
 0021700267,2017-11-24,BKN,POR,9.03,1,2,58,BKN,POR,foul,1,False,False,,Lillard P.FOUL (P1.T2) (S.Wright),26-16,26,16
 0021700267,2017-11-24,BKN,POR,9.03,1,2,58,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 1 Short 0),,26-16,26,16
-0021700267,2017-11-24,BKN,POR,9.03,1,2,58,POR,BKN,steal,1,False,True,steal,steal,26-16,26,16
 0021700267,2017-11-24,BKN,POR,9.2,1,2,48,BKN,BKN,fg3_miss,1,True,False,MISS Harris 3PT Jump Shot,,26-16,26,16
 0021700267,2017-11-24,BKN,POR,9.2,1,2,48,BKN,POR,block,1,True,False,block,block,26-16,26,16
 0021700267,2017-11-24,BKN,POR,9.22,1,2,47,BKN,BKN,reb,0,False,False,NETS Rebound,,26-16,26,16
@@ -98,8 +98,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700267,2017-11-24,BKN,POR,11.65,1,0,21,POR,POR,fg_miss,5,False,False,,MISS Davis 2' Layup,32-23,32,23
 0021700267,2017-11-24,BKN,POR,11.65,1,0,21,BKN,BKN,reb,0,False,False,LeVert REBOUND (Off:0 Def:1),,32-23,32,23
 0021700267,2017-11-24,BKN,POR,11.97,1,0,2,BKN,BKN,fg_miss,6,True,False,MISS Kilpatrick 3' Driving Layup,,32-23,32,23
-0021700267,2017-11-24,BKN,POR,11.97,1,0,2,POR,POR,reb,0,False,False,,McCollum REBOUND (Off:0 Def:1),32-23,32,23
 0021700267,2017-11-24,BKN,POR,11.97,1,0,2,BKN,POR,block,6,True,False,block,block,32-23,32,23
+0021700267,2017-11-24,BKN,POR,11.97,1,0,2,POR,POR,reb,0,False,False,,McCollum REBOUND (Off:0 Def:1),32-23,32,23
 0021700267,2017-11-24,BKN,POR,11.98,1,0,1,POR,BKN,foul,1,False,False,Allen P.FOUL (P2.T3) (G.Petraitis),,32-23,32,23
 0021700267,2017-11-24,BKN,POR,12.0,1,0,0,POR,POR,fg3_miss,1,False,False,,MISS McCollum 40' 3PT Jump Shot,32-23,32,23
 0021700267,2017-11-24,BKN,POR,12.0,1,0,0,POR,POR,reb,0,False,False,,Trail Blazers Rebound,32-23,32,23
@@ -150,8 +150,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700267,2017-11-24,BKN,POR,17.2,2,6,48,BKN,BKN,fg_miss,72,False,False,MISS Crabbe 1' Putback Layup,,38-31,38,31
 0021700267,2017-11-24,BKN,POR,17.2,2,6,48,BKN,BKN,reb,0,False,False,Zeller REBOUND (Off:2 Def:0),,38-31,38,31
 0021700267,2017-11-24,BKN,POR,17.23,2,6,46,BKN,BKN,fg_miss,72,True,False,MISS Zeller 1' Putback Layup,,38-31,38,31
-0021700267,2017-11-24,BKN,POR,17.23,2,6,46,BKN,BKN,reb,0,False,False,Zeller REBOUND (Off:2 Def:0),,38-31,38,31
 0021700267,2017-11-24,BKN,POR,17.23,2,6,46,BKN,POR,block,72,True,False,block,block,38-31,38,31
+0021700267,2017-11-24,BKN,POR,17.23,2,6,46,BKN,BKN,reb,0,False,False,Zeller REBOUND (Off:2 Def:0),,38-31,38,31
 0021700267,2017-11-24,BKN,POR,17.25,2,6,45,BKN,BKN,fg_make,72,False,False,Zeller 1' Putback Layup (4 PTS),,40-31,40,31
 0021700267,2017-11-24,BKN,POR,17.55,2,6,27,POR,POR,fg_make,80,False,False,,McCollum 18' Step Back Jump Shot (10 PTS) (Turner 2 AST),40-33,40,33
 0021700267,2017-11-24,BKN,POR,17.78,2,6,13,BKN,POR,foul,2,False,False,,Davis S.FOUL (P1.T2) (S.Wright),40-33,40,33
@@ -336,16 +336,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700267,2017-11-24,BKN,POR,37.47,4,10,32,POR,POR,ft_make,11,False,False,,McCollum Free Throw 1 of 2 (16 PTS),95-95,95,95
 0021700267,2017-11-24,BKN,POR,37.47,4,10,32,POR,POR,ft_make,12,False,False,,McCollum Free Throw 2 of 2 (17 PTS),95-96,95,96
 0021700267,2017-11-24,BKN,POR,37.67,4,10,20,BKN,BKN,fg_miss,98,True,False,MISS Booker 6' Cutting Layup Shot,,95-96,95,96
-0021700267,2017-11-24,BKN,POR,37.67,4,10,20,BKN,BKN,reb,0,False,False,LeVert REBOUND (Off:1 Def:2),,95-96,95,96
 0021700267,2017-11-24,BKN,POR,37.67,4,10,20,BKN,POR,block,98,True,False,block,block,95-96,95,96
+0021700267,2017-11-24,BKN,POR,37.67,4,10,20,BKN,BKN,reb,0,False,False,LeVert REBOUND (Off:1 Def:2),,95-96,95,96
 0021700267,2017-11-24,BKN,POR,37.75,4,10,15,BKN,BKN,fg_make,5,False,False,LeVert 2' Layup (10 PTS),,97-96,97,96
 0021700267,2017-11-24,BKN,POR,37.9,4,10,6,POR,POR,fg_miss,79,False,False,,MISS Turner 14' Pullup Jump Shot,97-96,97,96
 0021700267,2017-11-24,BKN,POR,37.92,4,10,5,POR,POR,reb,0,False,False,,Harkless REBOUND (Off:2 Def:1),97-96,97,96
 0021700267,2017-11-24,BKN,POR,37.92,4,10,5,POR,POR,fg_miss,72,False,False,,MISS Harkless 2' Putback Layup,97-96,97,96
-0021700267,2017-11-24,BKN,POR,37.93,4,10,4,POR,POR,reb,0,False,False,,Harkless REBOUND (Off:2 Def:1),97-96,97,96
 0021700267,2017-11-24,BKN,POR,37.93,4,10,4,POR,POR,fg_make,72,False,False,,Harkless 2' Putback Layup (6 PTS),97-98,97,98
 0021700267,2017-11-24,BKN,POR,37.93,4,10,4,POR,BKN,foul,2,False,False,Harris S.FOUL (P3.T2) (G.Petraitis),,97-98,97,98
 0021700267,2017-11-24,BKN,POR,37.93,4,10,4,POR,POR,ft_miss,10,False,False,,MISS Harkless Free Throw 1 of 1,97-98,97,98
+0021700267,2017-11-24,BKN,POR,37.93,4,10,4,POR,POR,reb,0,False,False,,Harkless REBOUND (Off:2 Def:1),97-96,97,96
 0021700267,2017-11-24,BKN,POR,37.98,4,10,1,BKN,BKN,reb,0,False,False,Booker REBOUND (Off:1 Def:5),,97-98,97,98
 0021700267,2017-11-24,BKN,POR,38.13,4,9,52,BKN,BKN,fg_make,6,False,False,Kilpatrick 3' Driving Layup (6 PTS) (LeVert 1 AST),,99-98,99,98
 0021700267,2017-11-24,BKN,POR,38.13,4,9,52,BKN,POR,foul,2,False,False,,Harkless S.FOUL (P1.T1) (G.Petraitis),99-98,99,98
@@ -420,21 +420,21 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700267,2017-11-24,BKN,POR,45.9,4,2,6,POR,POR,ft_make,11,False,False,,Lillard Free Throw 1 of 2 (33 PTS),121-116,121,116
 0021700267,2017-11-24,BKN,POR,45.9,4,2,6,POR,POR,ft_make,12,False,False,,Lillard Free Throw 2 of 2 (34 PTS),121-117,121,117
 0021700267,2017-11-24,BKN,POR,46.2,4,1,48,BKN,BKN,fg_miss,98,True,False,MISS Allen 6' Cutting Layup Shot,,121-117,121,117
-0021700267,2017-11-24,BKN,POR,46.2,4,1,48,POR,POR,reb,0,False,False,,Trail Blazers Rebound,121-117,121,117
 0021700267,2017-11-24,BKN,POR,46.2,4,1,48,BKN,POR,block,98,True,False,block,block,121-117,121,117
+0021700267,2017-11-24,BKN,POR,46.2,4,1,48,POR,POR,reb,0,False,False,,Trail Blazers Rebound,121-117,121,117
 0021700267,2017-11-24,BKN,POR,46.3,4,1,42,POR,POR,fg_miss,73,True,False,,MISS Lillard 1' Driving Reverse Layup,121-117,121,117
+0021700267,2017-11-24,BKN,POR,46.3,4,1,42,POR,BKN,block,73,True,False,block,block,121-117,121,117
 0021700267,2017-11-24,BKN,POR,46.3,4,1,42,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:3 Def:10),121-117,121,117
 0021700267,2017-11-24,BKN,POR,46.3,4,1,42,POR,BKN,foul,2,False,False,Dinwiddie S.FOUL (P2.PN) (D.Collins),,121-117,121,117
 0021700267,2017-11-24,BKN,POR,46.3,4,1,42,POR,POR,ft_miss,11,False,False,,MISS Nurkic Free Throw 1 of 2,121-117,121,117
 0021700267,2017-11-24,BKN,POR,46.3,4,1,42,POR,POR,reb,1,False,False,,Trail Blazers Rebound,121-117,121,117
-0021700267,2017-11-24,BKN,POR,46.3,4,1,42,POR,BKN,block,73,True,False,block,block,121-117,121,117
 0021700267,2017-11-24,BKN,POR,46.3,4,1,42,POR,POR,ft_make,12,False,False,,Nurkic Free Throw 2 of 2 (26 PTS),121-118,121,118
 0021700267,2017-11-24,BKN,POR,46.55,4,1,27,BKN,BKN,fg_miss,5,True,False,MISS Allen 5' Layup,,121-118,121,118
 0021700267,2017-11-24,BKN,POR,46.55,4,1,27,BKN,POR,block,5,True,False,block,block,121-118,121,118
 0021700267,2017-11-24,BKN,POR,46.57,4,1,26,BKN,BKN,reb,0,False,False,Dinwiddie REBOUND (Off:1 Def:2),,121-118,121,118
 0021700267,2017-11-24,BKN,POR,46.58,4,1,25,BKN,BKN,fg_miss,72,True,False,MISS Dinwiddie 1' Putback Layup,,121-118,121,118
-0021700267,2017-11-24,BKN,POR,46.58,4,1,25,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:3 Def:11),121-118,121,118
 0021700267,2017-11-24,BKN,POR,46.58,4,1,25,BKN,POR,block,72,True,False,block,block,121-118,121,118
+0021700267,2017-11-24,BKN,POR,46.58,4,1,25,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:3 Def:11),121-118,121,118
 0021700267,2017-11-24,BKN,POR,46.75,4,1,15,POR,POR,fg_make,6,False,False,,McCollum 2' Driving Layup (25 PTS),121-120,121,120
 0021700267,2017-11-24,BKN,POR,47.0,4,1,0,BKN,BKN,fg_miss,101,True,False,MISS Crabbe 10' Driving Floating Jump Shot,,121-120,121,120
 0021700267,2017-11-24,BKN,POR,47.0,4,1,0,BKN,POR,block,101,True,False,block,block,121-120,121,120

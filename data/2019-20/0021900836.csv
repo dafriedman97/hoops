@@ -134,8 +134,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900836,2020-02-22,CHA,BKN,14.62,2,9,23,BKN,BKN,fg_make,108,False,False,,Jordan 2' Cutting Dunk Shot (8 PTS) (LeVert 1 AST),26-36,26,36
 0021900836,2020-02-22,CHA,BKN,14.62,2,9,23,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 2 Short 0),,26-36,26,36
 0021900836,2020-02-22,CHA,BKN,14.92,2,9,5,CHA,CHA,fg_miss,98,True,False,MISS Zeller 3' Cutting Layup Shot,,26-36,26,36
-0021900836,2020-02-22,CHA,BKN,14.92,2,9,5,CHA,CHA,reb,0,False,False,HORNETS Rebound,,26-36,26,36
 0021900836,2020-02-22,CHA,BKN,14.92,2,9,5,CHA,BKN,block,98,True,False,block,block,26-36,26,36
+0021900836,2020-02-22,CHA,BKN,14.92,2,9,5,CHA,CHA,reb,0,False,False,HORNETS Rebound,,26-36,26,36
 0021900836,2020-02-22,CHA,BKN,14.98,2,9,1,CHA,CHA,fg_miss,73,False,False,MISS Graham 2' Driving Reverse Layup,,26-36,26,36
 0021900836,2020-02-22,CHA,BKN,15.07,2,8,56,CHA,CHA,reb,0,False,False,Zeller REBOUND (Off:1 Def:3),,26-36,26,36
 0021900836,2020-02-22,CHA,BKN,15.07,2,8,56,CHA,CHA,fg_make,97,False,False,Zeller 1' Tip Layup Shot (6 PTS),,28-36,28,36
@@ -237,8 +237,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900836,2020-02-22,CHA,BKN,25.62,3,10,23,BKN,BKN,reb,0,False,False,,Nets Rebound,48-60,48,60
 0021900836,2020-02-22,CHA,BKN,25.87,3,10,8,BKN,BKN,fg_make,98,False,False,,Prince 1' Cutting Layup Shot (14 PTS) (Dinwiddie 5 AST),48-62,48,62
 0021900836,2020-02-22,CHA,BKN,26.18,3,9,49,CHA,CHA,tov,1,False,True,Zeller Bad Pass Turnover (P1.T9),,48-62,48,62
-0021900836,2020-02-22,CHA,BKN,26.18,3,9,49,BKN,CHA,foul,1,False,False,Graham P.FOUL (P1.T1) (S.Wright),,48-62,48,62
 0021900836,2020-02-22,CHA,BKN,26.18,3,9,49,CHA,BKN,steal,1,False,True,steal,steal,48-62,48,62
+0021900836,2020-02-22,CHA,BKN,26.18,3,9,49,BKN,CHA,foul,1,False,False,Graham P.FOUL (P1.T1) (S.Wright),,48-62,48,62
 0021900836,2020-02-22,CHA,BKN,26.52,3,9,29,BKN,BKN,fg3_miss,1,False,False,,MISS Dinwiddie 25' 3PT Jump Shot,48-62,48,62
 0021900836,2020-02-22,CHA,BKN,26.53,3,9,28,BKN,BKN,reb,0,False,False,,Allen REBOUND (Off:3 Def:5),48-62,48,62
 0021900836,2020-02-22,CHA,BKN,26.53,3,9,28,BKN,CHA,foul,1,False,False,Zeller P.FOUL (P1.T2) (H.Workman),,48-62,48,62
@@ -252,8 +252,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900836,2020-02-22,CHA,BKN,27.78,3,8,13,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:0 Def:5),,50-64,50,64
 0021900836,2020-02-22,CHA,BKN,27.83,3,8,10,CHA,CHA,fg_make,50,False,False,Zeller 2' Running Dunk (12 PTS) (Washington 3 AST),,52-64,52,64
 0021900836,2020-02-22,CHA,BKN,28.12,3,7,53,BKN,BKN,tov,1,False,True,,Prince Bad Pass Turnover (P3.T8),52-64,52,64
-0021900836,2020-02-22,CHA,BKN,28.12,3,7,53,CHA,BKN,foul,1,False,False,,Allen P.FOUL (P1.T2) (C.Kirkland),52-64,52,64
 0021900836,2020-02-22,CHA,BKN,28.12,3,7,53,BKN,CHA,steal,1,False,True,steal,steal,52-64,52,64
+0021900836,2020-02-22,CHA,BKN,28.12,3,7,53,CHA,BKN,foul,1,False,False,,Allen P.FOUL (P1.T2) (C.Kirkland),52-64,52,64
 0021900836,2020-02-22,CHA,BKN,28.43,3,7,34,CHA,CHA,fg_miss,79,False,False,MISS Graham 19' Pullup Jump Shot,,52-64,52,64
 0021900836,2020-02-22,CHA,BKN,28.47,3,7,32,BKN,BKN,reb,0,False,False,,Allen REBOUND (Off:3 Def:6),52-64,52,64
 0021900836,2020-02-22,CHA,BKN,28.7,3,7,18,BKN,BKN,fg3_miss,1,False,False,,MISS Prince 27' 3PT Jump Shot,52-64,52,64
@@ -419,8 +419,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900836,2020-02-22,CHA,BKN,46.8,4,1,12,BKN,BKN,fg3_miss,1,False,False,,MISS Luwawu-Cabarrot 3PT Jump Shot,86-115,86,115
 0021900836,2020-02-22,CHA,BKN,46.87,4,1,8,CHA,CHA,reb,0,False,False,Washington REBOUND (Off:1 Def:6),,86-115,86,115
 0021900836,2020-02-22,CHA,BKN,47.05,4,0,57,CHA,CHA,fg_miss,5,True,False,MISS Washington 4' Layup,,86-115,86,115
-0021900836,2020-02-22,CHA,BKN,47.05,4,0,57,CHA,CHA,reb,0,False,False,HORNETS Rebound,,86-115,86,115
 0021900836,2020-02-22,CHA,BKN,47.05,4,0,57,CHA,BKN,block,5,True,False,block,block,86-115,86,115
+0021900836,2020-02-22,CHA,BKN,47.05,4,0,57,CHA,CHA,reb,0,False,False,HORNETS Rebound,,86-115,86,115
 0021900836,2020-02-22,CHA,BKN,47.13,4,0,52,CHA,CHA,fg3_miss,1,False,False,MISS Washington 26' 3PT Jump Shot,,86-115,86,115
 0021900836,2020-02-22,CHA,BKN,47.18,4,0,49,BKN,BKN,reb,0,False,False,,Kurucs REBOUND (Off:0 Def:2),86-115,86,115
 0021900836,2020-02-22,CHA,BKN,47.23,4,0,46,BKN,BKN,fg_miss,41,True,False,,MISS Kurucs 2' Running Layup,86-115,86,115

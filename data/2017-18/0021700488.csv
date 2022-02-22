@@ -87,9 +87,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700488,2017-12-23,UTA,OKC,11.52,1,0,29,OKC,OKC,reb,0,False,False,,Grant REBOUND (Off:0 Def:2),22-25,22,25
 0021700488,2017-12-23,UTA,OKC,11.83,1,0,10,OKC,OKC,fg3_make,79,False,False,,Abrines 25' 3PT Pullup Jump Shot (3 PTS) (Patterson 1 AST),22-28,22,28
 0021700488,2017-12-23,UTA,OKC,12.0,1,0,0,UTA,UTA,tov,1,False,True,Johnson Bad Pass Turnover (P1.T3),,22-28,22,28
+0021700488,2017-12-23,UTA,OKC,12.0,1,0,0,UTA,OKC,steal,1,False,True,steal,steal,22-28,22,28
 0021700488,2017-12-23,UTA,OKC,12.0,1,0,0,UTA,,period_end,0,False,False,,,22-28,22,28
 0021700488,2017-12-23,UTA,OKC,12.0,2,12,0,UTA,,period_start,0,False,False,,,22-28,22,28
-0021700488,2017-12-23,UTA,OKC,12.0,1,0,0,UTA,OKC,steal,1,False,True,steal,steal,22-28,22,28
 0021700488,2017-12-23,UTA,OKC,12.23,2,11,46,OKC,OKC,tov,2,False,True,,Grant Lost Ball Turnover (P1.T4),22-28,22,28
 0021700488,2017-12-23,UTA,OKC,12.23,2,11,46,OKC,UTA,steal,2,False,True,steal,steal,22-28,22,28
 0021700488,2017-12-23,UTA,OKC,12.4,2,11,36,UTA,UTA,fg_miss,6,True,False,MISS Burks 2' Driving Layup,,22-28,22,28
@@ -119,8 +119,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700488,2017-12-23,UTA,OKC,15.18,2,8,49,OKC,OKC,fg_miss,66,False,False,,MISS Westbrook 2' Jump Bank Shot,26-30,26,30
 0021700488,2017-12-23,UTA,OKC,15.22,2,8,47,UTA,UTA,reb,0,False,False,Rubio REBOUND (Off:0 Def:2),,26-30,26,30
 0021700488,2017-12-23,UTA,OKC,15.27,2,8,44,UTA,UTA,fg_miss,6,True,False,MISS Sefolosha 4' Driving Layup,,26-30,26,30
-0021700488,2017-12-23,UTA,OKC,15.27,2,8,44,UTA,UTA,reb,0,False,False,JAZZ Rebound,,26-30,26,30
 0021700488,2017-12-23,UTA,OKC,15.27,2,8,44,UTA,OKC,block,6,True,False,block,block,26-30,26,30
+0021700488,2017-12-23,UTA,OKC,15.27,2,8,44,UTA,UTA,reb,0,False,False,JAZZ Rebound,,26-30,26,30
 0021700488,2017-12-23,UTA,OKC,15.42,2,8,35,UTA,UTA,fg_make,79,False,False,Rubio 14' Pullup Jump Shot (6 PTS),,28-30,28,30
 0021700488,2017-12-23,UTA,OKC,15.7,2,8,18,OKC,OKC,fg_make,73,False,False,,George 1' Driving Reverse Layup (11 PTS),28-32,28,32
 0021700488,2017-12-23,UTA,OKC,15.83,2,8,10,UTA,UTA,fg_miss,73,False,False,MISS Sefolosha 2' Driving Reverse Layup,,28-32,28,32
@@ -219,8 +219,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700488,2017-12-23,UTA,OKC,25.83,3,10,10,UTA,UTA,fg3_miss,1,False,False,MISS Mitchell 25' 3PT Jump Shot,,45-52,45,52
 0021700488,2017-12-23,UTA,OKC,25.88,3,10,7,UTA,UTA,reb,0,False,False,Jerebko REBOUND (Off:1 Def:0),,45-52,45,52
 0021700488,2017-12-23,UTA,OKC,25.95,3,10,3,UTA,UTA,tov,2,False,True,Ingles Lost Ball Turnover (P2.T11),,45-52,45,52
-0021700488,2017-12-23,UTA,OKC,25.95,3,10,3,OKC,UTA,foul,1,False,False,Rubio P.FOUL (P1.T2) (J.Tiven),,45-52,45,52
 0021700488,2017-12-23,UTA,OKC,25.95,3,10,3,UTA,OKC,steal,2,False,True,steal,steal,45-52,45,52
+0021700488,2017-12-23,UTA,OKC,25.95,3,10,3,OKC,UTA,foul,1,False,False,Rubio P.FOUL (P1.T2) (J.Tiven),,45-52,45,52
 0021700488,2017-12-23,UTA,OKC,26.13,3,9,52,OKC,OKC,fg3_miss,1,False,False,,MISS George 3PT Jump Shot,45-52,45,52
 0021700488,2017-12-23,UTA,OKC,26.2,3,9,48,UTA,UTA,reb,0,False,False,Ingles REBOUND (Off:1 Def:4),,45-52,45,52
 0021700488,2017-12-23,UTA,OKC,26.43,3,9,34,UTA,OKC,foul,1,False,False,,Westbrook P.FOUL (P2.T1) (D.Stafford),45-52,45,52
@@ -323,8 +323,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700488,2017-12-23,UTA,OKC,39.82,4,8,11,UTA,UTA,fg_make,78,False,False,Mitchell 11' Floating Jump Shot (20 PTS),,76-85,76,85
 0021700488,2017-12-23,UTA,OKC,39.98,4,8,1,OKC,UTA,foul,1,False,False,Mitchell P.FOUL (P3.T2) (D.Richardson),,76-85,76,85
 0021700488,2017-12-23,UTA,OKC,40.12,4,7,53,OKC,OKC,fg_miss,6,True,False,,MISS Westbrook 4' Driving Layup,76-85,76,85
-0021700488,2017-12-23,UTA,OKC,40.12,4,7,53,OKC,OKC,reb,0,False,False,,Thunder Rebound,76-85,76,85
 0021700488,2017-12-23,UTA,OKC,40.12,4,7,53,OKC,UTA,block,6,True,False,block,block,76-85,76,85
+0021700488,2017-12-23,UTA,OKC,40.12,4,7,53,OKC,OKC,reb,0,False,False,,Thunder Rebound,76-85,76,85
 0021700488,2017-12-23,UTA,OKC,40.15,4,7,51,OKC,OKC,fg3_make,1,False,False,,George 26' 3PT Jump Shot (24 PTS) (Westbrook 7 AST),76-88,76,88
 0021700488,2017-12-23,UTA,OKC,40.57,4,7,26,UTA,UTA,fg3_miss,1,False,False,MISS Sefolosha 25' 3PT Jump Shot,,76-88,76,88
 0021700488,2017-12-23,UTA,OKC,40.57,4,7,26,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:2 Def:3),76-88,76,88

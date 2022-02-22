@@ -7,8 +7,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000645,2021-03-21,MIA,IND,0.87,1,11,8,IND,IND,fg_miss,79,False,False,,MISS LeVert 10' Pullup Jump Shot,0-3,0,3
 0022000645,2021-03-21,MIA,IND,0.9,1,11,6,MIA,MIA,reb,0,False,False,Olynyk REBOUND (Off:0 Def:1),,0-3,0,3
 0022000645,2021-03-21,MIA,IND,1.02,1,10,59,MIA,MIA,fg_miss,6,True,False,MISS Butler 4' Driving Layup,,0-3,0,3
-0022000645,2021-03-21,MIA,IND,1.02,1,10,59,MIA,MIA,reb,0,False,False,HEAT Rebound,,0-3,0,3
 0022000645,2021-03-21,MIA,IND,1.02,1,10,59,MIA,IND,block,6,True,False,block,block,0-3,0,3
+0022000645,2021-03-21,MIA,IND,1.02,1,10,59,MIA,MIA,reb,0,False,False,HEAT Rebound,,0-3,0,3
 0022000645,2021-03-21,MIA,IND,1.18,1,10,49,MIA,MIA,fg_make,1,False,False,Adebayo 14' Jump Shot (2 PTS) (Butler 1 AST),,2-3,2,3
 0022000645,2021-03-21,MIA,IND,1.53,1,10,28,IND,IND,fg3_miss,1,False,False,,MISS Brogdon 26' 3PT Jump Shot,2-3,2,3
 0022000645,2021-03-21,MIA,IND,1.58,1,10,25,MIA,MIA,reb,0,False,False,Robinson REBOUND (Off:0 Def:1),,2-3,2,3
@@ -184,8 +184,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000645,2021-03-21,MIA,IND,19.38,2,4,37,IND,IND,fg3_make,2,False,False,,LeVert 26' 3PT Running Jump Shot (6 PTS) (Holiday 1 AST),43-50,43,50
 0022000645,2021-03-21,MIA,IND,19.57,2,4,26,MIA,MIA,fg_make,73,False,False,Olynyk 2' Driving Reverse Layup (2 PTS) (Butler 2 AST),,45-50,45,50
 0022000645,2021-03-21,MIA,IND,19.73,2,4,16,IND,IND,fg_miss,79,True,False,,MISS LeVert 3' Pullup Jump Shot,45-50,45,50
-0022000645,2021-03-21,MIA,IND,19.73,2,4,16,IND,IND,reb,0,False,False,,Pacers Rebound,45-50,45,50
 0022000645,2021-03-21,MIA,IND,19.73,2,4,16,IND,MIA,block,79,True,False,block,block,45-50,45,50
+0022000645,2021-03-21,MIA,IND,19.73,2,4,16,IND,IND,reb,0,False,False,,Pacers Rebound,45-50,45,50
 0022000645,2021-03-21,MIA,IND,19.8,2,4,12,IND,MIA,foul,2,False,False,Butler S.FOUL (P2.T4) (B.Nansel),,45-50,45,50
 0022000645,2021-03-21,MIA,IND,19.8,2,4,12,IND,IND,ft_miss,11,False,False,,MISS Turner Free Throw 1 of 2,45-50,45,50
 0022000645,2021-03-21,MIA,IND,19.8,2,4,12,IND,IND,reb,1,False,False,,Pacers Rebound,45-50,45,50
@@ -231,8 +231,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000645,2021-03-21,MIA,IND,23.23,2,0,46,MIA,IND,block,41,True,False,block,block,49-57,49,57
 0022000645,2021-03-21,MIA,IND,23.28,2,0,43,MIA,MIA,reb,0,False,False,Vincent REBOUND (Off:1 Def:0),,49-57,49,57
 0022000645,2021-03-21,MIA,IND,23.4,2,0,36,MIA,MIA,fg_miss,6,True,False,MISS Herro 13' Driving Layup,,49-57,49,57
-0022000645,2021-03-21,MIA,IND,23.4,2,0,36,MIA,MIA,reb,0,False,False,HEAT Rebound,,49-57,49,57
 0022000645,2021-03-21,MIA,IND,23.4,2,0,36,MIA,IND,block,6,True,False,block,block,49-57,49,57
+0022000645,2021-03-21,MIA,IND,23.4,2,0,36,MIA,MIA,reb,0,False,False,HEAT Rebound,,49-57,49,57
 0022000645,2021-03-21,MIA,IND,23.57,2,0,26,MIA,MIA,fg_miss,86,False,False,MISS Butler 20' Turnaround Fadeaway Shot,,49-57,49,57
 0022000645,2021-03-21,MIA,IND,23.6,2,0,24,IND,IND,reb,0,False,False,,LeVert REBOUND (Off:0 Def:2),49-57,49,57
 0022000645,2021-03-21,MIA,IND,24.0,2,0,0,IND,IND,fg3_miss,1,False,False,,MISS Holiday 25' 3PT Jump Shot,49-57,49,57
@@ -320,13 +320,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000645,2021-03-21,MIA,IND,35.18,3,0,49,IND,IND,reb,0,False,False,,McDermott REBOUND (Off:0 Def:4),70-76,70,76
 0022000645,2021-03-21,MIA,IND,35.25,3,0,45,IND,IND,fg3_make,2,False,False,,Sumner 3PT Running Jump Shot (3 PTS) (McConnell 4 AST),70-79,70,79
 0022000645,2021-03-21,MIA,IND,35.45,3,0,33,MIA,MIA,fg_miss,98,True,False,MISS Nunn 3' Cutting Layup Shot,,70-79,70,79
-0022000645,2021-03-21,MIA,IND,35.45,3,0,33,MIA,MIA,reb,0,False,False,HEAT Rebound,,70-79,70,79
 0022000645,2021-03-21,MIA,IND,35.45,3,0,33,MIA,IND,block,98,True,False,block,block,70-79,70,79
+0022000645,2021-03-21,MIA,IND,35.45,3,0,33,MIA,MIA,reb,0,False,False,HEAT Rebound,,70-79,70,79
 0022000645,2021-03-21,MIA,IND,35.63,3,0,22,MIA,MIA,tov,1,False,True,Iguodala Bad Pass Turnover (P1.T9),,70-79,70,79
 0022000645,2021-03-21,MIA,IND,35.63,3,0,22,MIA,IND,steal,1,False,True,steal,steal,70-79,70,79
 0022000645,2021-03-21,MIA,IND,35.97,3,0,2,IND,IND,fg_miss,6,True,False,,MISS McConnell 2' Driving Layup,70-79,70,79
-0022000645,2021-03-21,MIA,IND,35.97,3,0,2,IND,IND,reb,0,False,False,,Pacers Rebound,70-79,70,79
 0022000645,2021-03-21,MIA,IND,35.97,3,0,2,IND,MIA,block,6,True,False,block,block,70-79,70,79
+0022000645,2021-03-21,MIA,IND,35.97,3,0,2,IND,IND,reb,0,False,False,,Pacers Rebound,70-79,70,79
 0022000645,2021-03-21,MIA,IND,35.98,3,0,1,IND,IND,fg3_miss,1,False,False,,MISS McDermott 25' 3PT Jump Shot,70-79,70,79
 0022000645,2021-03-21,MIA,IND,36.0,3,0,0,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:2 Def:5),,70-79,70,79
 0022000645,2021-03-21,MIA,IND,36.0,3,0,0,MIA,,period_end,0,False,False,,,70-79,70,79

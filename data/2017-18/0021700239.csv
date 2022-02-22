@@ -40,8 +40,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700239,2017-11-19,PHX,CHI,5.35,1,6,39,PHX,PHX,timeout,1,False,False,SUNS Timeout: Regular (Full 1 Short 0),,14-12,14,12
 0021700239,2017-11-19,PHX,CHI,5.55,1,6,27,PHX,PHX,tov,1,False,False,Chriss Bad Pass Turnover (P1.T1),,14-12,14,12
 0021700239,2017-11-19,PHX,CHI,5.82,1,6,11,CHI,CHI,fg3_miss,1,False,False,,MISS Markkanen 26' 3PT Jump Shot,14-12,14,12
-0021700239,2017-11-19,PHX,CHI,5.83,1,6,10,CHI,CHI,fg_miss,97,False,False,,MISS Lopez 1' Tip Layup Shot,14-12,14,12
 0021700239,2017-11-19,PHX,CHI,5.83,1,6,10,CHI,CHI,reb,0,False,False,,Lopez REBOUND (Off:2 Def:1),14-12,14,12
+0021700239,2017-11-19,PHX,CHI,5.83,1,6,10,CHI,CHI,fg_miss,97,False,False,,MISS Lopez 1' Tip Layup Shot,14-12,14,12
 0021700239,2017-11-19,PHX,CHI,5.85,1,6,9,CHI,CHI,reb,0,False,False,,Lopez REBOUND (Off:1 Def:1),14-12,14,12
 0021700239,2017-11-19,PHX,CHI,5.92,1,6,5,CHI,CHI,fg_make,72,False,False,,Lopez 1' Putback Layup (4 PTS),14-14,14,14
 0021700239,2017-11-19,PHX,CHI,6.22,1,5,47,PHX,PHX,fg3_make,1,False,False,Booker 3PT Jump Shot (5 PTS) (Ulis 2 AST),,17-14,17,14
@@ -142,8 +142,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700239,2017-11-19,PHX,CHI,17.58,2,6,25,CHI,CHI,reb,0,False,False,,Markkanen REBOUND (Off:0 Def:2),44-46,44,46
 0021700239,2017-11-19,PHX,CHI,17.7,2,6,18,CHI,CHI,fg_make,79,False,False,,Grant 13' Pullup Jump Shot (2 PTS),44-48,44,48
 0021700239,2017-11-19,PHX,CHI,17.98,2,6,1,PHX,PHX,tov,2,False,True,Daniels Lost Ball Turnover (P1.T5),,44-48,44,48
-0021700239,2017-11-19,PHX,CHI,17.98,2,6,1,CHI,PHX,foul,1,False,False,Daniels P.FOUL (P1.T1) (R.Garretson),,44-48,44,48
 0021700239,2017-11-19,PHX,CHI,17.98,2,6,1,PHX,CHI,steal,2,False,True,steal,steal,44-48,44,48
+0021700239,2017-11-19,PHX,CHI,17.98,2,6,1,CHI,PHX,foul,1,False,False,Daniels P.FOUL (P1.T1) (R.Garretson),,44-48,44,48
 0021700239,2017-11-19,PHX,CHI,18.18,2,5,49,CHI,PHX,foul,1,False,False,Monroe P.FOUL (P1.T2) (E.Dalen),,44-48,44,48
 0021700239,2017-11-19,PHX,CHI,18.35,2,5,39,CHI,CHI,fg_miss,6,False,False,,MISS Grant 2' Driving Layup,44-48,44,48
 0021700239,2017-11-19,PHX,CHI,18.38,2,5,37,PHX,PHX,reb,0,False,False,Chriss REBOUND (Off:0 Def:2),,44-48,44,48
@@ -269,12 +269,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700239,2017-11-19,PHX,CHI,30.55,3,5,27,CHI,CHI,fg_miss,3,False,False,,MISS Lopez 4' Hook Shot,76-73,76,73
 0021700239,2017-11-19,PHX,CHI,30.6,3,5,24,PHX,PHX,reb,0,False,False,Monroe REBOUND (Off:0 Def:6),,76-73,76,73
 0021700239,2017-11-19,PHX,CHI,30.68,3,5,19,CHI,PHX,foul,14,False,False,Warren FLAGRANT.FOUL.TYPE1 (P1.T3) (R.Garretson),,76-73,76,73
-0021700239,2017-11-19,PHX,CHI,30.68,3,5,19,PHX,PHX,tov,0,False,False,Warren No Turnover (P1.T8),,76-73,76,73
 0021700239,2017-11-19,PHX,CHI,30.68,3,5,19,PHX,CHI,foul,11,False,False,,Lopez T.FOUL (P3.T2) (R.Garretson),76-73,76,73
 0021700239,2017-11-19,PHX,CHI,30.68,3,5,19,PHX,PHX,ft_make,16,False,False,Booker Free Throw Technical (13 PTS),,77-73,77,73
 0021700239,2017-11-19,PHX,CHI,30.68,3,5,19,CHI,CHI,ft_miss,18,False,False,,MISS Lopez Free Throw Flagrant 1 of 2,77-73,77,73
 0021700239,2017-11-19,PHX,CHI,30.68,3,5,19,CHI,CHI,reb,0,False,False,,Bulls Rebound,77-73,77,73
 0021700239,2017-11-19,PHX,CHI,30.68,3,5,19,CHI,CHI,ft_make,19,False,False,,Lopez Free Throw Flagrant 2 of 2 (14 PTS),77-74,77,74
+0021700239,2017-11-19,PHX,CHI,30.68,3,5,19,PHX,PHX,tov,0,False,False,Warren No Turnover (P1.T8),,76-73,76,73
 0021700239,2017-11-19,PHX,CHI,30.85,3,5,9,CHI,CHI,fg_make,1,False,False,,Markkanen 17' Jump Shot (23 PTS) (Dunn 4 AST),77-76,77,76
 0021700239,2017-11-19,PHX,CHI,31.22,3,4,47,PHX,PHX,tov,2,False,True,Bender Lost Ball Turnover (P1.T9),,77-76,77,76
 0021700239,2017-11-19,PHX,CHI,31.22,3,4,47,PHX,CHI,steal,2,False,True,steal,steal,77-76,77,76

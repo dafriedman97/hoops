@@ -2,8 +2,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900856,2020-02-24,LAC,MEM,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
 0021900856,2020-02-24,LAC,MEM,0.0,1,12,0,,LAC,jump_ball,0,False,False,,,0-0,0,0
 0021900856,2020-02-24,LAC,MEM,0.2,1,11,48,MEM,MEM,fg_miss,5,True,False,,MISS Anderson 3' Layup,0-0,0,0
-0021900856,2020-02-24,LAC,MEM,0.2,1,11,48,MEM,MEM,reb,0,False,False,,Clarke REBOUND (Off:1 Def:0),0-0,0,0
 0021900856,2020-02-24,LAC,MEM,0.2,1,11,48,MEM,LAC,block,5,True,False,block,block,0-0,0,0
+0021900856,2020-02-24,LAC,MEM,0.2,1,11,48,MEM,MEM,reb,0,False,False,,Clarke REBOUND (Off:1 Def:0),0-0,0,0
 0021900856,2020-02-24,LAC,MEM,0.37,1,11,38,MEM,MEM,fg3_miss,1,False,False,,MISS Morant 26' 3PT Jump Shot,0-0,0,0
 0021900856,2020-02-24,LAC,MEM,0.42,1,11,35,LAC,LAC,reb,0,False,False,George REBOUND (Off:0 Def:1),,0-0,0,0
 0021900856,2020-02-24,LAC,MEM,0.45,1,11,33,LAC,LAC,fg_make,63,False,False,George 15' Fadeaway Jumper (2 PTS),,2-0,2,0
@@ -165,13 +165,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900856,2020-02-24,LAC,MEM,18.23,2,5,46,LAC,MEM,block,6,True,False,block,block,53-22,53,22
 0021900856,2020-02-24,LAC,MEM,18.28,2,5,43,MEM,MEM,reb,0,False,False,,Dieng REBOUND (Off:1 Def:3),53-22,53,22
 0021900856,2020-02-24,LAC,MEM,18.35,2,5,39,MEM,MEM,fg_miss,98,False,False,,MISS Brooks 2' Cutting Layup Shot,53-22,53,22
-0021900856,2020-02-24,LAC,MEM,18.43,2,5,34,MEM,MEM,fg_make,97,False,False,,Konchar 1' Tip Layup Shot (2 PTS),53-24,53,24
 0021900856,2020-02-24,LAC,MEM,18.43,2,5,34,MEM,MEM,reb,0,False,False,,Konchar REBOUND (Off:1 Def:1),53-24,53,24
+0021900856,2020-02-24,LAC,MEM,18.43,2,5,34,MEM,MEM,fg_make,97,False,False,,Konchar 1' Tip Layup Shot (2 PTS),53-24,53,24
 0021900856,2020-02-24,LAC,MEM,18.58,2,5,25,LAC,LAC,fg3_miss,1,False,False,MISS Leonard 26' 3PT Jump Shot,,53-24,53,24
 0021900856,2020-02-24,LAC,MEM,18.63,2,5,22,LAC,LAC,reb,0,False,False,Beverley REBOUND (Off:1 Def:1),,53-24,53,24
 0021900856,2020-02-24,LAC,MEM,18.72,2,5,17,LAC,LAC,fg_miss,98,True,False,MISS Zubac 3' Cutting Layup Shot,,53-24,53,24
-0021900856,2020-02-24,LAC,MEM,18.72,2,5,17,MEM,MEM,reb,0,False,False,,Konchar REBOUND (Off:1 Def:2),53-24,53,24
 0021900856,2020-02-24,LAC,MEM,18.72,2,5,17,LAC,MEM,block,98,True,False,block,block,53-24,53,24
+0021900856,2020-02-24,LAC,MEM,18.72,2,5,17,MEM,MEM,reb,0,False,False,,Konchar REBOUND (Off:1 Def:2),53-24,53,24
 0021900856,2020-02-24,LAC,MEM,18.88,2,5,7,MEM,MEM,fg_make,9,False,False,,Morant 1' Driving Dunk (10 PTS) (Brooks 2 AST),53-26,53,26
 0021900856,2020-02-24,LAC,MEM,18.88,2,5,7,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 2 Short 0),,53-26,53,26
 0021900856,2020-02-24,LAC,MEM,19.23,2,4,46,LAC,LAC,fg_make,86,False,False,Leonard 10' Turnaround Fadeaway (16 PTS),,55-26,55,26
@@ -250,8 +250,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900856,2020-02-24,LAC,MEM,26.85,3,9,9,MEM,MEM,fg3_miss,1,False,False,,MISS Anderson 26' 3PT Jump Shot,73-43,73,43
 0021900856,2020-02-24,LAC,MEM,26.93,3,9,4,LAC,LAC,reb,0,False,False,Zubac REBOUND (Off:4 Def:6),,73-43,73,43
 0021900856,2020-02-24,LAC,MEM,27.08,3,8,55,LAC,LAC,fg_miss,6,True,False,MISS Leonard 4' Driving Layup,,73-43,73,43
-0021900856,2020-02-24,LAC,MEM,27.08,3,8,55,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,73-43,73,43
 0021900856,2020-02-24,LAC,MEM,27.08,3,8,55,LAC,MEM,block,6,True,False,block,block,73-43,73,43
+0021900856,2020-02-24,LAC,MEM,27.08,3,8,55,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,73-43,73,43
 0021900856,2020-02-24,LAC,MEM,27.15,3,8,51,LAC,LAC,fg3_miss,1,False,False,MISS George 3PT Jump Shot,,73-43,73,43
 0021900856,2020-02-24,LAC,MEM,27.18,3,8,49,MEM,MEM,reb,0,False,False,,Brooks REBOUND (Off:0 Def:1),73-43,73,43
 0021900856,2020-02-24,LAC,MEM,27.25,3,8,45,MEM,MEM,fg3_make,103,False,False,,Jackson 27' 3PT Running Pull-Up Jump Shot (7 PTS) (Brooks 3 AST),73-46,73,46
@@ -326,8 +326,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900856,2020-02-24,LAC,MEM,36.0,3,0,0,LAC,,period_end,0,False,False,,,90-66,90,66
 0021900856,2020-02-24,LAC,MEM,36.0,4,12,0,LAC,,period_start,0,False,False,,,90-66,90,66
 0021900856,2020-02-24,LAC,MEM,36.3,4,11,42,MEM,MEM,fg_miss,6,False,False,,MISS Melton 3' Driving Layup,90-66,90,66
-0021900856,2020-02-24,LAC,MEM,36.4,4,11,36,MEM,MEM,fg_miss,72,False,False,,MISS Valanciunas 1' Putback Layup,90-66,90,66
 0021900856,2020-02-24,LAC,MEM,36.4,4,11,36,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:1 Def:4),90-66,90,66
+0021900856,2020-02-24,LAC,MEM,36.4,4,11,36,MEM,MEM,fg_miss,72,False,False,,MISS Valanciunas 1' Putback Layup,90-66,90,66
 0021900856,2020-02-24,LAC,MEM,36.42,4,11,35,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:0 Def:2),,90-66,90,66
 0021900856,2020-02-24,LAC,MEM,36.5,4,11,30,LAC,LAC,fg_make,101,False,False,Harrell 3' Driving Floating Jump Shot (20 PTS),,92-66,92,66
 0021900856,2020-02-24,LAC,MEM,36.78,4,11,13,MEM,MEM,fg3_miss,1,False,False,,MISS Valanciunas 26' 3PT Jump Shot,92-66,92,66
@@ -347,8 +347,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900856,2020-02-24,LAC,MEM,37.98,4,10,1,LAC,LAC,fg3_make,1,False,False,Green 26' 3PT Jump Shot (3 PTS) (Jackson 2 AST),,95-67,95,67
 0021900856,2020-02-24,LAC,MEM,38.07,4,9,56,MEM,LAC,foul,1,False,False,Jackson P.FOUL (P4.T2) (E.Lewis),,95-67,95,67
 0021900856,2020-02-24,LAC,MEM,38.18,4,9,49,MEM,MEM,fg_miss,101,True,False,,MISS Jones 4' Driving Floating Jump Shot,95-67,95,67
-0021900856,2020-02-24,LAC,MEM,38.18,4,9,49,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,95-67,95,67
 0021900856,2020-02-24,LAC,MEM,38.18,4,9,49,MEM,LAC,block,101,True,False,block,block,95-67,95,67
+0021900856,2020-02-24,LAC,MEM,38.18,4,9,49,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,95-67,95,67
 0021900856,2020-02-24,LAC,MEM,38.3,4,9,42,MEM,MEM,fg_miss,78,False,False,,MISS Valanciunas 5' Floating Jump Shot,95-67,95,67
 0021900856,2020-02-24,LAC,MEM,38.3,4,9,42,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:2 Def:5),95-67,95,67
 0021900856,2020-02-24,LAC,MEM,38.4,4,9,36,MEM,MEM,fg_make,87,False,False,,Valanciunas 1' Putback Dunk (4 PTS),95-69,95,69

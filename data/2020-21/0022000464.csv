@@ -18,8 +18,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000464,2021-02-20,POR,WAS,2.6,1,9,24,POR,POR,ft_make,11,False,False,Kanter Free Throw 1 of 2 (3 PTS),,6-8,6,8
 0022000464,2021-02-20,POR,WAS,2.6,1,9,24,POR,POR,ft_make,12,False,False,Kanter Free Throw 2 of 2 (4 PTS),,7-8,7,8
 0022000464,2021-02-20,POR,WAS,2.85,1,9,9,WAS,WAS,fg_miss,6,True,False,,MISS Hachimura 1' Driving Layup,7-8,7,8
-0022000464,2021-02-20,POR,WAS,2.85,1,9,9,WAS,WAS,reb,0,False,False,,Wizards Rebound,7-8,7,8
 0022000464,2021-02-20,POR,WAS,2.85,1,9,9,WAS,POR,block,6,True,False,block,block,7-8,7,8
+0022000464,2021-02-20,POR,WAS,2.85,1,9,9,WAS,WAS,reb,0,False,False,,Wizards Rebound,7-8,7,8
 0022000464,2021-02-20,POR,WAS,2.93,1,9,4,WAS,WAS,fg3_make,79,False,False,,Beal 25' 3PT Pullup Jump Shot (3 PTS) (Wagner 1 AST),7-11,7,11
 0022000464,2021-02-20,POR,WAS,3.13,1,8,52,POR,POR,fg_make,78,False,False,Kanter 3' Floating Jump Shot (6 PTS) (Lillard 1 AST),,9-11,9,11
 0022000464,2021-02-20,POR,WAS,3.32,1,8,41,WAS,WAS,tov,39,False,False,,Beal Step Out of Bounds Turnover (P1.T2),9-11,9,11
@@ -37,8 +37,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000464,2021-02-20,POR,WAS,4.6,1,7,24,WAS,WAS,reb,1,False,False,,Wizards Rebound,13-16,13,16
 0022000464,2021-02-20,POR,WAS,4.6,1,7,24,WAS,WAS,ft_make,12,False,False,,Wagner Free Throw 2 of 2 (3 PTS),13-17,13,17
 0022000464,2021-02-20,POR,WAS,4.73,1,7,16,POR,POR,fg3_miss,79,False,False,MISS Lillard 30' 3PT Pullup Jump Shot,,13-17,13,17
-0022000464,2021-02-20,POR,WAS,4.83,1,7,10,POR,POR,fg_make,72,False,False,Kanter Putback Layup (8 PTS),,15-17,15,17
 0022000464,2021-02-20,POR,WAS,4.83,1,7,10,POR,POR,reb,0,False,False,Kanter REBOUND (Off:2 Def:0),,15-17,15,17
+0022000464,2021-02-20,POR,WAS,4.83,1,7,10,POR,POR,fg_make,72,False,False,Kanter Putback Layup (8 PTS),,15-17,15,17
 0022000464,2021-02-20,POR,WAS,4.95,1,7,3,WAS,WAS,fg3_miss,1,False,False,,MISS Beal 26' 3PT Jump Shot,15-17,15,17
 0022000464,2021-02-20,POR,WAS,5.05,1,6,57,POR,POR,reb,0,False,False,Covington REBOUND (Off:0 Def:1),,15-17,15,17
 0022000464,2021-02-20,POR,WAS,5.13,1,6,52,POR,POR,fg3_make,1,False,False,Covington 26' 3PT Jump Shot (3 PTS) (Lillard 3 AST),,18-17,18,17
@@ -168,8 +168,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000464,2021-02-20,POR,WAS,16.48,2,7,31,POR,POR,fg_miss,5,False,False,MISS Anthony 3' Layup,,50-43,50,43
 0022000464,2021-02-20,POR,WAS,16.53,2,7,28,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:4),50-43,50,43
 0022000464,2021-02-20,POR,WAS,16.6,2,7,24,WAS,WAS,fg_miss,6,True,False,,MISS Neto 1' Driving Layup,50-43,50,43
-0022000464,2021-02-20,POR,WAS,16.6,2,7,24,WAS,WAS,reb,0,False,False,,Wizards Rebound,50-43,50,43
 0022000464,2021-02-20,POR,WAS,16.6,2,7,24,WAS,POR,block,6,True,False,block,block,50-43,50,43
+0022000464,2021-02-20,POR,WAS,16.6,2,7,24,WAS,WAS,reb,0,False,False,,Wizards Rebound,50-43,50,43
 0022000464,2021-02-20,POR,WAS,16.83,2,7,10,WAS,WAS,fg_miss,6,False,False,,MISS Hachimura 2' Driving Layup,50-43,50,43
 0022000464,2021-02-20,POR,WAS,16.85,2,7,9,POR,POR,reb,0,False,False,Covington REBOUND (Off:0 Def:5),,50-43,50,43
 0022000464,2021-02-20,POR,WAS,17.07,2,6,56,POR,POR,fg3_miss,79,False,False,MISS Anthony 25' 3PT Pullup Jump Shot,,50-43,50,43
@@ -313,8 +313,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000464,2021-02-20,POR,WAS,30.22,3,5,47,WAS,WAS,fg_miss,86,False,False,,MISS Hachimura 7' Turnaround Fadeaway Shot,70-73,70,73
 0022000464,2021-02-20,POR,WAS,30.27,3,5,44,WAS,WAS,reb,0,False,False,,Lopez REBOUND (Off:4 Def:4),70-73,70,73
 0022000464,2021-02-20,POR,WAS,30.28,3,5,43,WAS,WAS,fg_miss,5,True,False,,MISS Lopez 1' Layup,70-73,70,73
-0022000464,2021-02-20,POR,WAS,30.28,3,5,43,POR,POR,reb,0,False,False,Jones Jr. REBOUND (Off:2 Def:4),,70-73,70,73
 0022000464,2021-02-20,POR,WAS,30.28,3,5,43,WAS,POR,block,5,True,False,block,block,70-73,70,73
+0022000464,2021-02-20,POR,WAS,30.28,3,5,43,POR,POR,reb,0,False,False,Jones Jr. REBOUND (Off:2 Def:4),,70-73,70,73
 0022000464,2021-02-20,POR,WAS,30.57,3,5,26,POR,POR,fg_miss,6,False,False,MISS Covington 1' Driving Layup,,70-73,70,73
 0022000464,2021-02-20,POR,WAS,30.6,3,5,24,WAS,WAS,reb,0,False,False,,Neto REBOUND (Off:0 Def:5),70-73,70,73
 0022000464,2021-02-20,POR,WAS,30.65,3,5,21,WAS,WAS,fg_make,52,False,False,,Hachimura Alley Oop Dunk (6 PTS) (Beal 3 AST),70-75,70,75
@@ -450,8 +450,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000464,2021-02-20,POR,WAS,43.97,4,4,2,POR,WAS,foul,28,False,False,,Westbrook Personal Take Foul (P4.T3) (K.Cutler),101-103,101,103
 0022000464,2021-02-20,POR,WAS,44.17,4,3,50,POR,POR,fg3_miss,1,False,False,MISS Jones Jr. 3PT Jump Shot,,101-103,101,103
 0022000464,2021-02-20,POR,WAS,44.17,4,3,50,WAS,WAS,reb,0,False,False,,Wizards Rebound,101-103,101,103
-0022000464,2021-02-20,POR,WAS,44.38,4,3,37,WAS,WAS,tov,40,False,False,,Westbrook Out of Bounds Lost Ball Turnover (P6.T16),101-103,101,103
 0022000464,2021-02-20,POR,WAS,44.38,4,3,37,POR,POR,timeout,1,False,False,TRAIL BLAZERS Timeout: Regular (Full 5 Short 0),,101-103,101,103
+0022000464,2021-02-20,POR,WAS,44.38,4,3,37,WAS,WAS,tov,40,False,False,,Westbrook Out of Bounds Lost Ball Turnover (P6.T16),101-103,101,103
 0022000464,2021-02-20,POR,WAS,44.6,4,3,24,POR,POR,tov,45,False,False,Lillard Out of Bounds - Bad Pass Turnover Turnover (P3.T12),,101-103,101,103
 0022000464,2021-02-20,POR,WAS,44.88,4,3,7,WAS,WAS,fg_make,98,False,False,,Beal 1' Cutting Layup Shot (37 PTS) (Lopez 1 AST),101-105,101,105
 0022000464,2021-02-20,POR,WAS,45.12,4,2,53,POR,POR,fg_miss,98,False,False,MISS Jones Jr. 2' Cutting Layup Shot,,101-105,101,105

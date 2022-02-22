@@ -32,8 +32,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000853,2021-04-16,SAS,POR,4.12,1,7,53,POR,POR,fg_make,108,False,False,,Nurkic 1' Cutting Dunk Shot (4 PTS) (McCollum 1 AST),9-11,9,11
 0022000853,2021-04-16,SAS,POR,4.23,1,7,46,SAS,POR,foul,1,False,False,,Jones Jr. P.FOUL (P1.T1) (E.Lewis),9-11,9,11
 0022000853,2021-04-16,SAS,POR,4.38,1,7,37,SAS,SAS,fg_miss,6,True,False,MISS Johnson 4' Driving Layup,,9-11,9,11
-0022000853,2021-04-16,SAS,POR,4.38,1,7,37,SAS,SAS,reb,0,False,False,SPURS Rebound,,9-11,9,11
 0022000853,2021-04-16,SAS,POR,4.38,1,7,37,SAS,POR,block,6,True,False,block,block,9-11,9,11
+0022000853,2021-04-16,SAS,POR,4.38,1,7,37,SAS,SAS,reb,0,False,False,SPURS Rebound,,9-11,9,11
 0022000853,2021-04-16,SAS,POR,4.5,1,7,30,SAS,SAS,fg_miss,9,False,False,MISS Johnson 2' Driving Dunk,,9-11,9,11
 0022000853,2021-04-16,SAS,POR,4.53,1,7,28,SAS,SAS,reb,0,False,False,Murray REBOUND (Off:1 Def:1),,9-11,9,11
 0022000853,2021-04-16,SAS,POR,4.57,1,7,26,SAS,SAS,fg_make,7,False,False,Eubanks 2' Dunk (2 PTS) (Murray 1 AST),,11-11,11,11
@@ -50,8 +50,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000853,2021-04-16,SAS,POR,5.2,1,6,48,POR,,foul,11,False,False,,,16-11,16,11
 0022000853,2021-04-16,SAS,POR,5.2,1,6,48,POR,SAS,ft_make,16,False,False,DeRozan Free Throw Technical (3 PTS),,17-11,17,11
 0022000853,2021-04-16,SAS,POR,5.5,1,6,30,POR,POR,fg_miss,98,False,False,,MISS Nurkic 1' Cutting Layup Shot,17-11,17,11
-0022000853,2021-04-16,SAS,POR,5.6,1,6,24,POR,POR,fg_miss,72,False,False,,MISS Nurkic Putback Layup,17-11,17,11
 0022000853,2021-04-16,SAS,POR,5.6,1,6,24,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:1 Def:0),17-11,17,11
+0022000853,2021-04-16,SAS,POR,5.6,1,6,24,POR,POR,fg_miss,72,False,False,,MISS Nurkic Putback Layup,17-11,17,11
 0022000853,2021-04-16,SAS,POR,5.63,1,6,22,SAS,SAS,reb,0,False,False,Murray REBOUND (Off:1 Def:2),,17-11,17,11
 0022000853,2021-04-16,SAS,POR,5.7,1,6,18,SAS,SAS,fg_make,75,False,False,DeRozan 1' Driving Finger Roll Layup (5 PTS) (Murray 3 AST),,19-11,19,11
 0022000853,2021-04-16,SAS,POR,5.87,1,6,8,POR,POR,fg_make,78,False,False,,McCollum 10' Floating Jump Shot (5 PTS),19-13,19,13
@@ -69,8 +69,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000853,2021-04-16,SAS,POR,7.37,1,4,38,SAS,SAS,ft_make,11,False,False,DeRozan Free Throw 1 of 2 (8 PTS),,24-17,24,17
 0022000853,2021-04-16,SAS,POR,7.37,1,4,38,SAS,SAS,ft_make,12,False,False,DeRozan Free Throw 2 of 2 (9 PTS),,25-17,25,17
 0022000853,2021-04-16,SAS,POR,7.73,1,4,16,POR,POR,fg_miss,5,True,False,,MISS Kanter 3' Layup,25-17,25,17
-0022000853,2021-04-16,SAS,POR,7.73,1,4,16,POR,POR,reb,0,False,False,,Trail Blazers Rebound,25-17,25,17
 0022000853,2021-04-16,SAS,POR,7.73,1,4,16,POR,SAS,block,5,True,False,block,block,25-17,25,17
+0022000853,2021-04-16,SAS,POR,7.73,1,4,16,POR,POR,reb,0,False,False,,Trail Blazers Rebound,25-17,25,17
 0022000853,2021-04-16,SAS,POR,7.78,1,4,13,POR,POR,tov,1,False,True,,McCollum Bad Pass Turnover (P1.T3),25-17,25,17
 0022000853,2021-04-16,SAS,POR,7.78,1,4,13,POR,SAS,steal,1,False,True,steal,steal,25-17,25,17
 0022000853,2021-04-16,SAS,POR,7.85,1,4,9,SAS,SAS,fg3_miss,1,False,False,MISS Walker IV 25' 3PT Jump Shot,,25-17,25,17
@@ -152,8 +152,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000853,2021-04-16,SAS,POR,18.17,2,5,50,SAS,SAS,fg_miss,1,False,False,MISS DeRozan 20' Jump Shot,,42-40,42,40
 0022000853,2021-04-16,SAS,POR,18.22,2,5,47,SAS,SAS,reb,0,False,False,Johnson REBOUND (Off:2 Def:2),,42-40,42,40
 0022000853,2021-04-16,SAS,POR,18.4,2,5,36,SAS,SAS,fg_miss,5,False,False,MISS Poeltl 6' Layup,,42-40,42,40
-0022000853,2021-04-16,SAS,POR,18.48,2,5,31,SAS,SAS,fg_miss,97,False,False,MISS Poeltl Tip Layup Shot,,42-40,42,40
 0022000853,2021-04-16,SAS,POR,18.48,2,5,31,SAS,SAS,reb,0,False,False,Poeltl REBOUND (Off:2 Def:0),,42-40,42,40
+0022000853,2021-04-16,SAS,POR,18.48,2,5,31,SAS,SAS,fg_miss,97,False,False,MISS Poeltl Tip Layup Shot,,42-40,42,40
 0022000853,2021-04-16,SAS,POR,18.5,2,5,30,POR,POR,reb,0,False,False,,Kanter REBOUND (Off:1 Def:6),42-40,42,40
 0022000853,2021-04-16,SAS,POR,18.6,2,5,24,POR,POR,fg_make,98,False,False,,Kanter 1' Cutting Layup Shot (6 PTS),42-42,42,42
 0022000853,2021-04-16,SAS,POR,18.9,2,5,6,SAS,SAS,fg3_make,1,False,False,White 29' 3PT Jump Shot (6 PTS) (Gay 1 AST),,45-42,45,42
@@ -163,8 +163,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000853,2021-04-16,SAS,POR,19.32,2,4,41,SAS,SAS,reb,0,False,False,DeRozan REBOUND (Off:1 Def:1),,45-42,45,42
 0022000853,2021-04-16,SAS,POR,19.43,2,4,34,SAS,SAS,fg_make,72,False,False,DeRozan Putback Layup (11 PTS),,47-42,47,42
 0022000853,2021-04-16,SAS,POR,19.7,2,4,18,POR,POR,fg_miss,5,True,False,,MISS Anthony 1' Layup,47-42,47,42
-0022000853,2021-04-16,SAS,POR,19.7,2,4,18,POR,POR,reb,0,False,False,,Trail Blazers Rebound,47-42,47,42
 0022000853,2021-04-16,SAS,POR,19.7,2,4,18,POR,SAS,block,5,True,False,block,block,47-42,47,42
+0022000853,2021-04-16,SAS,POR,19.7,2,4,18,POR,POR,reb,0,False,False,,Trail Blazers Rebound,47-42,47,42
 0022000853,2021-04-16,SAS,POR,19.78,2,4,13,POR,POR,fg3_make,1,False,False,,Simons 24' 3PT Jump Shot (9 PTS) (McCollum 2 AST),47-45,47,45
 0022000853,2021-04-16,SAS,POR,20.07,2,3,56,SAS,SAS,tov,40,False,False,White Out of Bounds Lost Ball Turnover (P1.T5),,47-45,47,45
 0022000853,2021-04-16,SAS,POR,20.18,2,3,49,SAS,POR,foul,11,False,False,,Anthony T.FOUL (P1.T2) (J.Sterling),47-45,47,45
@@ -201,8 +201,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000853,2021-04-16,SAS,POR,23.28,2,0,43,SAS,SAS,reb,0,False,False,SPURS Rebound,,55-48,55,48
 0022000853,2021-04-16,SAS,POR,23.28,2,0,43,SAS,POR,foul,3,False,False,,McCollum L.B.FOUL (P1.T3) (E.Lewis),55-48,55,48
 0022000853,2021-04-16,SAS,POR,23.4,2,0,36,SAS,SAS,fg_miss,5,True,False,MISS White 5' Layup,,55-48,55,48
-0022000853,2021-04-16,SAS,POR,23.4,2,0,36,SAS,SAS,reb,0,False,False,SPURS Rebound,,55-48,55,48
 0022000853,2021-04-16,SAS,POR,23.4,2,0,36,SAS,POR,block,5,True,False,block,block,55-48,55,48
+0022000853,2021-04-16,SAS,POR,23.4,2,0,36,SAS,SAS,reb,0,False,False,SPURS Rebound,,55-48,55,48
 0022000853,2021-04-16,SAS,POR,23.43,2,0,34,SAS,SAS,fg_make,1,False,False,DeRozan 17' Jump Shot (14 PTS) (Murray 7 AST),,57-48,57,48
 0022000853,2021-04-16,SAS,POR,23.62,2,0,23,POR,POR,tov,1,False,True,,Powell Bad Pass Turnover (P1.T8),57-48,57,48
 0022000853,2021-04-16,SAS,POR,23.62,2,0,23,POR,SAS,steal,1,False,True,steal,steal,57-48,57,48
@@ -211,8 +211,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000853,2021-04-16,SAS,POR,24.0,2,0,0,POR,,period_end,0,False,False,,,57-48,57,48
 0022000853,2021-04-16,SAS,POR,24.0,3,12,0,POR,,period_start,0,False,False,,,57-48,57,48
 0022000853,2021-04-16,SAS,POR,24.3,3,11,42,SAS,SAS,fg_miss,75,True,False,MISS Johnson 7' Driving Finger Roll Layup,,57-48,57,48
-0022000853,2021-04-16,SAS,POR,24.3,3,11,42,SAS,SAS,reb,0,False,False,SPURS Rebound,,57-48,57,48
 0022000853,2021-04-16,SAS,POR,24.3,3,11,42,SAS,POR,block,75,True,False,block,block,57-48,57,48
+0022000853,2021-04-16,SAS,POR,24.3,3,11,42,SAS,SAS,reb,0,False,False,SPURS Rebound,,57-48,57,48
 0022000853,2021-04-16,SAS,POR,24.37,3,11,38,SAS,SAS,tov,2,False,True,Poeltl Lost Ball Turnover (P1.T6),,57-48,57,48
 0022000853,2021-04-16,SAS,POR,24.37,3,11,38,SAS,POR,steal,2,False,True,steal,steal,57-48,57,48
 0022000853,2021-04-16,SAS,POR,24.45,3,11,33,POR,POR,fg_miss,76,False,False,,MISS Powell Running Finger Roll Layup,57-48,57,48
@@ -298,10 +298,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000853,2021-04-16,SAS,POR,33.5,3,2,30,POR,POR,fg_miss,5,False,False,,MISS McCollum 1' Layup,81-75,81,75
 0022000853,2021-04-16,SAS,POR,33.53,3,2,28,POR,POR,reb,0,False,False,,Kanter REBOUND (Off:2 Def:9),81-75,81,75
 0022000853,2021-04-16,SAS,POR,33.57,3,2,26,POR,POR,fg_miss,5,True,False,,MISS Kanter 7' Layup,81-75,81,75
+0022000853,2021-04-16,SAS,POR,33.57,3,2,26,POR,SAS,block,5,True,False,block,block,81-75,81,75
 0022000853,2021-04-16,SAS,POR,33.57,3,2,26,POR,POR,reb,0,False,False,,Kanter REBOUND (Off:3 Def:9),81-75,81,75
 0022000853,2021-04-16,SAS,POR,33.57,3,2,26,POR,SAS,foul,2,False,False,DeRozan S.FOUL (P3.PN) (M.Smith),,81-75,81,75
 0022000853,2021-04-16,SAS,POR,33.57,3,2,26,POR,,foul,16,False,False,,,81-75,81,75
-0022000853,2021-04-16,SAS,POR,33.57,3,2,26,POR,SAS,block,5,True,False,block,block,81-75,81,75
 0022000853,2021-04-16,SAS,POR,33.57,3,2,26,POR,POR,ft_make,11,False,False,,Kanter Free Throw 1 of 2 (7 PTS),81-76,81,76
 0022000853,2021-04-16,SAS,POR,33.57,3,2,26,POR,POR,ft_make,12,False,False,,Kanter Free Throw 2 of 2 (8 PTS),81-77,81,77
 0022000853,2021-04-16,SAS,POR,33.77,3,2,14,SAS,SAS,fg_make,9,False,False,Eubanks 1' Driving Dunk (13 PTS) (DeRozan 10 AST),,83-77,83,77
@@ -348,8 +348,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000853,2021-04-16,SAS,POR,39.52,4,8,29,SAS,SAS,fg3_miss,79,False,False,MISS Walker IV 25' 3PT Pullup Jump Shot,,92-87,92,87
 0022000853,2021-04-16,SAS,POR,39.55,4,8,27,POR,POR,reb,0,False,False,,Little REBOUND (Off:0 Def:2),92-87,92,87
 0022000853,2021-04-16,SAS,POR,39.75,4,8,15,POR,POR,fg_miss,6,True,False,,MISS McCollum 1' Driving Layup,92-87,92,87
-0022000853,2021-04-16,SAS,POR,39.75,4,8,15,POR,POR,reb,0,False,False,,Trail Blazers Rebound,92-87,92,87
 0022000853,2021-04-16,SAS,POR,39.75,4,8,15,POR,SAS,block,6,True,False,block,block,92-87,92,87
+0022000853,2021-04-16,SAS,POR,39.75,4,8,15,POR,POR,reb,0,False,False,,Trail Blazers Rebound,92-87,92,87
 0022000853,2021-04-16,SAS,POR,39.82,4,8,11,POR,POR,fg3_make,1,False,False,,Powell 24' 3PT Jump Shot (16 PTS) (McCollum 5 AST),92-90,92,90
 0022000853,2021-04-16,SAS,POR,40.1,4,7,54,SAS,SAS,tov,39,False,False,Walker IV Step Out of Bounds Turnover (P2.T10),,92-90,92,90
 0022000853,2021-04-16,SAS,POR,40.35,4,7,39,POR,POR,fg3_make,1,False,False,,Covington 25' 3PT Jump Shot (8 PTS) (McCollum 6 AST),92-93,92,93

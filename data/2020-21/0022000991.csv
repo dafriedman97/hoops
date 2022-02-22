@@ -130,8 +130,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000991,2021-05-05,CLE,POR,15.02,2,8,59,POR,POR,ft_make,10,False,False,,Little Free Throw 1 of 1 (6 PTS),35-44,35,44
 0022000991,2021-05-05,CLE,POR,15.2,2,8,48,CLE,CLE,fg3_make,1,False,False,Thomas 26' 3PT Jump Shot (3 PTS) (Sexton 3 AST),,38-44,38,44
 0022000991,2021-05-05,CLE,POR,15.42,2,8,35,POR,POR,fg3_miss,1,False,False,,MISS McCollum 25' 3PT Jump Shot,38-44,38,44
-0022000991,2021-05-05,CLE,POR,15.5,2,8,30,POR,POR,fg_make,97,False,False,,Kanter Tip Layup Shot (4 PTS),38-46,38,46
 0022000991,2021-05-05,CLE,POR,15.5,2,8,30,POR,POR,reb,0,False,False,,Kanter REBOUND (Off:1 Def:2),38-46,38,46
+0022000991,2021-05-05,CLE,POR,15.5,2,8,30,POR,POR,fg_make,97,False,False,,Kanter Tip Layup Shot (4 PTS),38-46,38,46
 0022000991,2021-05-05,CLE,POR,15.63,2,8,22,CLE,CLE,fg3_make,1,False,False,Love 24' 3PT Jump Shot (10 PTS) (Thomas 2 AST),,41-46,41,46
 0022000991,2021-05-05,CLE,POR,16.03,2,7,58,POR,POR,fg_make,47,False,False,,Anthony 13' Turnaround Jump Shot (9 PTS),41-48,41,48
 0022000991,2021-05-05,CLE,POR,16.03,2,7,58,POR,CLE,foul,2,False,False,Okoro S.FOUL (P1.T4) (J.Butler),,41-48,41,48
@@ -181,9 +181,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000991,2021-05-05,CLE,POR,21.75,2,2,15,CLE,CLE,tov,1,False,True,Wade Bad Pass Turnover (P1.T5),,55-64,55,64
 0022000991,2021-05-05,CLE,POR,21.75,2,2,15,CLE,POR,steal,1,False,True,steal,steal,55-64,55,64
 0022000991,2021-05-05,CLE,POR,21.83,2,2,10,POR,POR,tov,1,False,True,,Jones Jr. Bad Pass Turnover (P3.T6),55-64,55,64
+0022000991,2021-05-05,CLE,POR,21.83,2,2,10,POR,CLE,steal,1,False,True,steal,steal,55-64,55,64
 0022000991,2021-05-05,CLE,POR,21.83,2,2,10,CLE,POR,foul,1,False,False,,Jones Jr. P.FOUL (P2.PN) (S.Corbin),55-64,55,64
 0022000991,2021-05-05,CLE,POR,21.83,2,2,10,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.2 Short 0),55-64,55,64
-0022000991,2021-05-05,CLE,POR,21.83,2,2,10,POR,CLE,steal,1,False,True,steal,steal,55-64,55,64
 0022000991,2021-05-05,CLE,POR,21.83,2,2,10,POR,CLE,ft_make,11,False,False,Wade Free Throw 1 of 2 (10 PTS),,56-64,56,64
 0022000991,2021-05-05,CLE,POR,21.83,2,2,10,POR,CLE,ft_make,12,False,False,Wade Free Throw 2 of 2 (11 PTS),,57-64,57,64
 0022000991,2021-05-05,CLE,POR,21.98,2,2,1,POR,POR,fg3_miss,1,False,False,,MISS Lillard 32' 3PT Jump Shot,57-64,57,64
@@ -227,8 +227,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000991,2021-05-05,CLE,POR,25.13,3,10,52,POR,POR,fg_miss,108,False,False,,MISS Nurkic 1' Cutting Dunk Shot,58-70,58,70
 0022000991,2021-05-05,CLE,POR,25.18,3,10,49,CLE,CLE,reb,0,False,False,Okoro REBOUND (Off:0 Def:2),,58-70,58,70
 0022000991,2021-05-05,CLE,POR,25.23,3,10,46,CLE,CLE,fg_miss,6,True,False,MISS Okoro 3' Driving Layup,,58-70,58,70
-0022000991,2021-05-05,CLE,POR,25.23,3,10,46,POR,POR,reb,0,False,False,,Trail Blazers Rebound,58-70,58,70
 0022000991,2021-05-05,CLE,POR,25.23,3,10,46,CLE,POR,block,6,True,False,block,block,58-70,58,70
+0022000991,2021-05-05,CLE,POR,25.23,3,10,46,POR,POR,reb,0,False,False,,Trail Blazers Rebound,58-70,58,70
 0022000991,2021-05-05,CLE,POR,25.48,3,10,31,POR,POR,fg3_miss,1,False,False,,MISS Covington 26' 3PT Jump Shot,58-70,58,70
 0022000991,2021-05-05,CLE,POR,25.52,3,10,29,CLE,CLE,reb,0,False,False,Osman REBOUND (Off:0 Def:1),,58-70,58,70
 0022000991,2021-05-05,CLE,POR,25.68,3,10,19,CLE,POR,foul,2,False,False,,Nurkic S.FOUL (P2.T2) (S.Corbin),58-70,58,70
@@ -244,8 +244,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000991,2021-05-05,CLE,POR,26.62,3,9,23,CLE,CLE,fg_miss,98,False,False,MISS Osman 1' Cutting Layup Shot,,60-73,60,73
 0022000991,2021-05-05,CLE,POR,26.65,3,9,21,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:2 Def:6),60-73,60,73
 0022000991,2021-05-05,CLE,POR,26.7,3,9,18,POR,POR,tov,1,False,True,,Nurkic Bad Pass Turnover (P1.T7),60-73,60,73
-0022000991,2021-05-05,CLE,POR,26.7,3,9,18,CLE,POR,foul,2,False,False,,Nurkic S.FOUL (P3.T3) (J.Butler),60-73,60,73
 0022000991,2021-05-05,CLE,POR,26.7,3,9,18,POR,CLE,steal,1,False,True,steal,steal,60-73,60,73
+0022000991,2021-05-05,CLE,POR,26.7,3,9,18,CLE,POR,foul,2,False,False,,Nurkic S.FOUL (P3.T3) (J.Butler),60-73,60,73
 0022000991,2021-05-05,CLE,POR,26.7,3,9,18,CLE,CLE,ft_make,11,False,False,Sexton Free Throw 1 of 2 (13 PTS),,61-73,61,73
 0022000991,2021-05-05,CLE,POR,26.7,3,9,18,CLE,CLE,ft_miss,12,False,False,MISS Sexton Free Throw 2 of 2,,61-73,61,73
 0022000991,2021-05-05,CLE,POR,26.73,3,9,16,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:2 Def:7),61-73,61,73
@@ -350,8 +350,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000991,2021-05-05,CLE,POR,38.6,4,9,24,POR,POR,fg3_make,1,False,False,,Anthony 26' 3PT Jump Shot (13 PTS) (McCollum 5 AST),85-113,85,113
 0022000991,2021-05-05,CLE,POR,38.6,4,9,24,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 3 Short 0),,85-113,85,113
 0022000991,2021-05-05,CLE,POR,38.87,4,9,8,CLE,CLE,fg3_miss,1,False,False,MISS Osman 26' 3PT Jump Shot,,85-113,85,113
-0022000991,2021-05-05,CLE,POR,38.98,4,9,1,CLE,CLE,fg_make,97,False,False,Wade Tip Layup Shot (16 PTS),,87-113,87,113
 0022000991,2021-05-05,CLE,POR,38.98,4,9,1,CLE,CLE,reb,0,False,False,Wade REBOUND (Off:2 Def:3),,87-113,87,113
+0022000991,2021-05-05,CLE,POR,38.98,4,9,1,CLE,CLE,fg_make,97,False,False,Wade Tip Layup Shot (16 PTS),,87-113,87,113
 0022000991,2021-05-05,CLE,POR,39.22,4,8,47,POR,POR,fg3_miss,80,False,False,,MISS McCollum 27' 3PT Step Back Jump Shot,87-113,87,113
 0022000991,2021-05-05,CLE,POR,39.3,4,8,42,CLE,CLE,reb,0,False,False,Allen REBOUND (Off:4 Def:8),,87-113,87,113
 0022000991,2021-05-05,CLE,POR,39.4,4,8,36,CLE,CLE,fg_make,101,False,False,Sexton 11' Driving Floating Jump Shot (15 PTS),,89-113,89,113
@@ -392,8 +392,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000991,2021-05-05,CLE,POR,43.38,4,4,37,CLE,CLE,fg_miss,97,False,False,MISS Varejao Tip Layup Shot,,95-125,95,125
 0022000991,2021-05-05,CLE,POR,43.4,4,4,36,POR,POR,reb,0,False,False,,Elleby REBOUND (Off:0 Def:2),95-125,95,125
 0022000991,2021-05-05,CLE,POR,43.47,4,4,32,POR,POR,fg_miss,58,True,False,,MISS Leaf Turnaround Hook Shot,95-125,95,125
-0022000991,2021-05-05,CLE,POR,43.47,4,4,32,POR,POR,reb,0,False,False,,Trail Blazers Rebound,95-125,95,125
 0022000991,2021-05-05,CLE,POR,43.47,4,4,32,POR,CLE,block,58,True,False,block,block,95-125,95,125
+0022000991,2021-05-05,CLE,POR,43.47,4,4,32,POR,POR,reb,0,False,False,,Trail Blazers Rebound,95-125,95,125
 0022000991,2021-05-05,CLE,POR,43.57,4,4,26,POR,POR,fg_make,1,False,False,,Hollis-Jefferson 6' Jump Shot (2 PTS),95-127,95,127
 0022000991,2021-05-05,CLE,POR,43.75,4,4,15,CLE,CLE,fg_make,5,False,False,Dotson 1' Layup (4 PTS) (Varejao 1 AST),,97-127,97,127
 0022000991,2021-05-05,CLE,POR,43.88,4,4,7,POR,POR,fg_miss,5,False,False,,MISS Hollis-Jefferson 1' Layup,97-127,97,127

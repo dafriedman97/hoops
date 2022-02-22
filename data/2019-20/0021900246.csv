@@ -22,8 +22,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900246,2019-11-25,TOR,PHI,2.78,1,9,13,PHI,PHI,fg_miss,86,False,False,,MISS Harris 12' Turnaround Fadeaway Shot,8-0,8,0
 0021900246,2019-11-25,TOR,PHI,2.85,1,9,9,TOR,TOR,reb,0,False,False,Anunoby REBOUND (Off:0 Def:1),,8-0,8,0
 0021900246,2019-11-25,TOR,PHI,2.95,1,9,3,TOR,TOR,fg_miss,6,True,False,MISS Anunoby 5' Driving Layup,,8-0,8,0
-0021900246,2019-11-25,TOR,PHI,2.95,1,9,3,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,8-0,8,0
 0021900246,2019-11-25,TOR,PHI,2.95,1,9,3,TOR,PHI,block,6,True,False,block,block,8-0,8,0
+0021900246,2019-11-25,TOR,PHI,2.95,1,9,3,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,8-0,8,0
 0021900246,2019-11-25,TOR,PHI,3.07,1,8,56,TOR,TOR,fg3_miss,80,False,False,MISS Gasol 3PT Step Back Jump Shot,,8-0,8,0
 0021900246,2019-11-25,TOR,PHI,3.12,1,8,53,PHI,PHI,reb,0,False,False,,Embiid REBOUND (Off:0 Def:3),8-0,8,0
 0021900246,2019-11-25,TOR,PHI,3.38,1,8,37,PHI,PHI,fg3_make,1,False,False,,Richardson 26' 3PT Jump Shot (3 PTS) (Horford 1 AST),8-3,8,3
@@ -186,8 +186,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900246,2019-11-25,TOR,PHI,19.43,2,4,34,TOR,TOR,fg_make,58,False,False,Siakam 7' Turnaround Hook Shot (11 PTS),,44-39,44,39
 0021900246,2019-11-25,TOR,PHI,19.43,2,4,34,PHI,PHI,timeout,1,False,False,,76ers Timeout: Regular (Reg.2 Short 0),44-39,44,39
 0021900246,2019-11-25,TOR,PHI,19.62,2,4,23,TOR,PHI,foul,4,False,False,,Simmons OFF.Foul (P1) (J.Goble),44-39,44,39
-0021900246,2019-11-25,TOR,PHI,19.62,2,4,23,PHI,PHI,tov,37,False,False,,Simmons Offensive Foul Turnover (P3.T6),44-39,44,39
 0021900246,2019-11-25,TOR,PHI,19.62,2,4,23,TOR,TOR,timeout,7,False,False,RAPTORS Timeout: Coach Challenge (Full 2 Short 0),,44-39,44,39
+0021900246,2019-11-25,TOR,PHI,19.62,2,4,23,PHI,PHI,tov,37,False,False,,Simmons Offensive Foul Turnover (P3.T6),44-39,44,39
 0021900246,2019-11-25,TOR,PHI,19.8,2,4,12,TOR,TOR,tov,1,False,False,Gasol Bad Pass Turnover (P1.T5),,44-39,44,39
 0021900246,2019-11-25,TOR,PHI,19.8,2,4,12,PHI,TOR,foul,3,False,False,VanVleet L.B.FOUL (P3.PN) (C.Washington),,44-39,44,39
 0021900246,2019-11-25,TOR,PHI,19.8,2,4,12,PHI,PHI,ft_make,11,False,False,,Richardson Free Throw 1 of 2 (14 PTS),44-40,44,40
@@ -250,8 +250,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900246,2019-11-25,TOR,PHI,26.68,3,9,19,TOR,PHI,block,41,True,False,block,block,56-56,56,56
 0021900246,2019-11-25,TOR,PHI,26.73,3,9,16,PHI,PHI,reb,0,False,False,,Horford REBOUND (Off:3 Def:3),56-56,56,56
 0021900246,2019-11-25,TOR,PHI,26.92,3,9,5,PHI,PHI,fg3_miss,1,True,False,,MISS Richardson 3PT Jump Shot,56-56,56,56
-0021900246,2019-11-25,TOR,PHI,26.92,3,9,5,PHI,PHI,reb,0,False,False,,76ers Rebound,56-56,56,56
 0021900246,2019-11-25,TOR,PHI,26.92,3,9,5,PHI,TOR,block,1,True,False,block,block,56-56,56,56
+0021900246,2019-11-25,TOR,PHI,26.92,3,9,5,PHI,PHI,reb,0,False,False,,76ers Rebound,56-56,56,56
 0021900246,2019-11-25,TOR,PHI,27.05,3,8,57,PHI,PHI,fg_miss,63,False,False,,MISS Embiid 16' Fadeaway Jumper,56-56,56,56
 0021900246,2019-11-25,TOR,PHI,27.1,3,8,54,TOR,TOR,reb,0,False,False,Anunoby REBOUND (Off:0 Def:3),,56-56,56,56
 0021900246,2019-11-25,TOR,PHI,27.2,3,8,48,TOR,TOR,fg_miss,75,False,False,MISS Powell 1' Driving Finger Roll Layup,,56-56,56,56
@@ -405,8 +405,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900246,2019-11-25,TOR,PHI,46.5,4,1,30,PHI,PHI,fg_miss,63,False,False,,MISS Richardson 15' Fadeaway Jumper,94-96,94,96
 0021900246,2019-11-25,TOR,PHI,46.55,4,1,27,PHI,PHI,reb,0,False,False,,Embiid REBOUND (Off:3 Def:9),94-96,94,96
 0021900246,2019-11-25,TOR,PHI,46.58,4,1,25,PHI,PHI,fg_miss,6,True,False,,MISS Embiid 3' Driving Layup,94-96,94,96
-0021900246,2019-11-25,TOR,PHI,46.58,4,1,25,PHI,PHI,reb,0,False,False,,76ers Rebound,94-96,94,96
 0021900246,2019-11-25,TOR,PHI,46.58,4,1,25,PHI,TOR,block,6,True,False,block,block,94-96,94,96
+0021900246,2019-11-25,TOR,PHI,46.58,4,1,25,PHI,PHI,reb,0,False,False,,76ers Rebound,94-96,94,96
 0021900246,2019-11-25,TOR,PHI,46.63,4,1,22,PHI,PHI,fg_miss,79,False,False,,MISS Richardson 14' Pullup Jump Shot,94-96,94,96
 0021900246,2019-11-25,TOR,PHI,46.7,4,1,18,TOR,TOR,reb,0,False,False,Powell REBOUND (Off:0 Def:5),,94-96,94,96
 0021900246,2019-11-25,TOR,PHI,46.98,4,1,1,TOR,TOR,fg_make,101,False,False,Siakam 6' Driving Floating Jump Shot (22 PTS),,96-96,96,96

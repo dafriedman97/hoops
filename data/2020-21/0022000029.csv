@@ -28,8 +28,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000029,2020-12-26,POR,HOU,4.45,1,7,33,HOU,HOU,timeout,1,False,False,,Rockets Timeout: Regular (Reg.1 Short 0),12-6,12,6
 0022000029,2020-12-26,POR,HOU,4.67,1,7,20,HOU,HOU,fg_make,78,False,False,,Wood 17' Floating Jump Shot (4 PTS),12-8,12,8
 0022000029,2020-12-26,POR,HOU,4.82,1,7,11,POR,POR,fg_miss,6,True,False,MISS Lillard 2' Driving Layup,,12-8,12,8
-0022000029,2020-12-26,POR,HOU,4.82,1,7,11,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,12-8,12,8
 0022000029,2020-12-26,POR,HOU,4.82,1,7,11,POR,HOU,block,6,True,False,block,block,12-8,12,8
+0022000029,2020-12-26,POR,HOU,4.82,1,7,11,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,12-8,12,8
 0022000029,2020-12-26,POR,HOU,4.92,1,7,5,POR,POR,fg_miss,57,False,False,MISS Nurkic 5' Driving Hook Shot,,12-8,12,8
 0022000029,2020-12-26,POR,HOU,4.93,1,7,4,HOU,HOU,reb,0,False,False,,Tucker REBOUND (Off:0 Def:3),12-8,12,8
 0022000029,2020-12-26,POR,HOU,5.03,1,6,58,HOU,HOU,fg_miss,41,False,False,,MISS Nwaba 2' Running Layup,12-8,12,8
@@ -104,8 +104,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000029,2020-12-26,POR,HOU,12.0,2,12,0,HOU,,period_start,0,False,False,,,27-31,27,31
 0022000029,2020-12-26,POR,HOU,12.35,2,11,39,HOU,HOU,fg_make,6,False,False,,Nwaba 1' Driving Layup (2 PTS),27-33,27,33
 0022000029,2020-12-26,POR,HOU,12.65,2,11,21,POR,POR,fg_miss,86,True,False,MISS Anthony 6' Turnaround Fadeaway Shot,,27-33,27,33
-0022000029,2020-12-26,POR,HOU,12.65,2,11,21,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,27-33,27,33
 0022000029,2020-12-26,POR,HOU,12.65,2,11,21,POR,HOU,block,86,True,False,block,block,27-33,27,33
+0022000029,2020-12-26,POR,HOU,12.65,2,11,21,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,27-33,27,33
 0022000029,2020-12-26,POR,HOU,12.75,2,11,15,POR,POR,fg_miss,3,False,False,MISS Kanter 3' Hook Shot,,27-33,27,33
 0022000029,2020-12-26,POR,HOU,12.77,2,11,14,HOU,HOU,reb,0,False,False,,Thomas REBOUND (Off:0 Def:1),27-33,27,33
 0022000029,2020-12-26,POR,HOU,12.95,2,11,3,HOU,HOU,fg_miss,102,False,False,,MISS Wood 5' Driving Floating Bank Jump Shot,27-33,27,33
@@ -129,8 +129,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000029,2020-12-26,POR,HOU,14.4,2,9,36,HOU,HOU,reb,0,False,False,,Rockets Rebound,30-35,30,35
 0022000029,2020-12-26,POR,HOU,14.62,2,9,23,HOU,HOU,fg_miss,6,True,False,,MISS Nwaba 1' Driving Layup,30-35,30,35
 0022000029,2020-12-26,POR,HOU,14.62,2,9,23,HOU,POR,block,6,True,False,block,block,30-35,30,35
-0022000029,2020-12-26,POR,HOU,14.65,2,9,21,HOU,HOU,reb,0,False,False,,Rockets Rebound,30-35,30,35
 0022000029,2020-12-26,POR,HOU,14.65,2,9,21,,POR,jump_ball,0,False,False,Jump Ball Simons vs. Nwaba: Tip to Wood,,30-35,30,35
+0022000029,2020-12-26,POR,HOU,14.65,2,9,21,HOU,HOU,reb,0,False,False,,Rockets Rebound,30-35,30,35
 0022000029,2020-12-26,POR,HOU,14.75,2,9,15,HOU,HOU,fg_make,6,False,False,,Wood 1' Driving Layup (10 PTS),30-37,30,37
 0022000029,2020-12-26,POR,HOU,14.93,2,9,4,POR,POR,fg3_miss,1,False,False,MISS Simons 26' 3PT Jump Shot,,30-37,30,37
 0022000029,2020-12-26,POR,HOU,14.95,2,9,3,HOU,HOU,reb,0,False,False,,Rockets Rebound,30-37,30,37
@@ -192,8 +192,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000029,2020-12-26,POR,HOU,21.52,2,2,29,HOU,HOU,fg3_miss,1,False,False,,MISS Brown 3PT Jump Shot,47-59,47,59
 0022000029,2020-12-26,POR,HOU,21.55,2,2,27,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:2 Def:1),,47-59,47,59
 0022000029,2020-12-26,POR,HOU,21.67,2,2,20,POR,POR,fg_miss,63,True,False,MISS Lillard 6' Fadeaway Jumper,,47-59,47,59
-0022000029,2020-12-26,POR,HOU,21.67,2,2,20,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,47-59,47,59
 0022000029,2020-12-26,POR,HOU,21.67,2,2,20,POR,HOU,block,63,True,False,block,block,47-59,47,59
+0022000029,2020-12-26,POR,HOU,21.67,2,2,20,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,47-59,47,59
 0022000029,2020-12-26,POR,HOU,21.77,2,2,14,POR,POR,fg_make,79,False,False,McCollum 20' Pullup Jump Shot (11 PTS) (Nurkic 3 AST),,49-59,49,59
 0022000029,2020-12-26,POR,HOU,21.87,2,2,8,HOU,POR,foul,2,False,False,Hood S.FOUL (P2.PN) (J.Butler),,49-59,49,59
 0022000029,2020-12-26,POR,HOU,21.87,2,2,8,HOU,HOU,ft_miss,11,False,False,,MISS House Jr. Free Throw 1 of 2,49-59,49,59
@@ -289,9 +289,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000029,2020-12-26,POR,HOU,31.3,3,4,42,POR,POR,tov,2,False,True,Nurkic Lost Ball Turnover (P3.T8),,80-80,80,80
 0022000029,2020-12-26,POR,HOU,31.3,3,4,42,POR,HOU,steal,2,False,True,steal,steal,80-80,80,80
 0022000029,2020-12-26,POR,HOU,31.48,3,4,31,HOU,HOU,fg3_miss,1,False,False,,MISS Nwaba 26' 3PT Jump Shot,80-80,80,80
+0022000029,2020-12-26,POR,HOU,31.55,3,4,27,HOU,HOU,reb,0,False,False,,Tucker REBOUND (Off:1 Def:6),80-80,80,80
 0022000029,2020-12-26,POR,HOU,31.55,3,4,27,HOU,HOU,fg_miss,97,False,False,,MISS Tucker Tip Layup Shot,80-80,80,80
 0022000029,2020-12-26,POR,HOU,31.55,3,4,27,POR,POR,reb,0,False,False,Covington REBOUND (Off:0 Def:6),,80-80,80,80
-0022000029,2020-12-26,POR,HOU,31.55,3,4,27,HOU,HOU,reb,0,False,False,,Tucker REBOUND (Off:1 Def:6),80-80,80,80
 0022000029,2020-12-26,POR,HOU,31.75,3,4,15,POR,POR,fg3_miss,1,False,False,MISS Lillard 32' 3PT Jump Shot,,80-80,80,80
 0022000029,2020-12-26,POR,HOU,31.77,3,4,14,HOU,HOU,reb,0,False,False,,Rockets Rebound,80-80,80,80
 0022000029,2020-12-26,POR,HOU,31.98,3,4,1,HOU,HOU,fg3_miss,80,False,False,,MISS Harden 24' 3PT Step Back Jump Shot,80-80,80,80
@@ -302,8 +302,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000029,2020-12-26,POR,HOU,32.22,3,3,47,HOU,HOU,ft_make,11,False,False,,House Jr. Free Throw 1 of 2 (8 PTS),80-81,80,81
 0022000029,2020-12-26,POR,HOU,32.22,3,3,47,HOU,HOU,ft_make,12,False,False,,House Jr. Free Throw 2 of 2 (9 PTS),80-82,80,82
 0022000029,2020-12-26,POR,HOU,32.53,3,3,28,POR,POR,fg_miss,6,True,False,MISS McCollum 2' Driving Layup,,80-82,80,82
-0022000029,2020-12-26,POR,HOU,32.53,3,3,28,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,80-82,80,82
 0022000029,2020-12-26,POR,HOU,32.53,3,3,28,POR,HOU,block,6,True,False,block,block,80-82,80,82
+0022000029,2020-12-26,POR,HOU,32.53,3,3,28,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,80-82,80,82
 0022000029,2020-12-26,POR,HOU,32.62,3,3,23,POR,POR,fg3_miss,1,False,False,MISS McCollum 27' 3PT Jump Shot,,80-82,80,82
 0022000029,2020-12-26,POR,HOU,32.65,3,3,21,HOU,HOU,reb,0,False,False,,Tucker REBOUND (Off:1 Def:7),80-82,80,82
 0022000029,2020-12-26,POR,HOU,32.75,3,3,15,HOU,POR,foul,1,False,False,Kanter P.FOUL (P2.PN) (K.Mauer),,80-82,80,82
@@ -320,8 +320,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000029,2020-12-26,POR,HOU,33.37,3,2,38,POR,POR,reb,0,False,False,Kanter REBOUND (Off:2 Def:4),,80-83,80,83
 0022000029,2020-12-26,POR,HOU,33.6,3,2,24,POR,POR,fg3_make,1,False,False,Simons 25' 3PT Jump Shot (7 PTS) (Lillard 4 AST),,83-83,83,83
 0022000029,2020-12-26,POR,HOU,33.8,3,2,12,HOU,HOU,tov,1,False,True,,Tucker Bad Pass Turnover (P3.T9),83-83,83,83
-0022000029,2020-12-26,POR,HOU,33.8,3,2,12,POR,HOU,foul,1,False,False,,Tate P.FOUL (P3.PN) (K.Mauer),83-83,83,83
 0022000029,2020-12-26,POR,HOU,33.8,3,2,12,HOU,POR,steal,1,False,True,steal,steal,83-83,83,83
+0022000029,2020-12-26,POR,HOU,33.8,3,2,12,POR,HOU,foul,1,False,False,,Tate P.FOUL (P3.PN) (K.Mauer),83-83,83,83
 0022000029,2020-12-26,POR,HOU,33.8,3,2,12,POR,POR,ft_make,11,False,False,Jones Jr. Free Throw 1 of 2 (4 PTS),,84-83,84,83
 0022000029,2020-12-26,POR,HOU,33.8,3,2,12,POR,POR,ft_miss,12,False,False,MISS Jones Jr. Free Throw 2 of 2,,84-83,84,83
 0022000029,2020-12-26,POR,HOU,33.9,3,2,6,HOU,HOU,reb,0,False,False,,Wood REBOUND (Off:1 Def:6),84-83,84,83
@@ -448,9 +448,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000029,2020-12-26,POR,HOU,48.0,5,5,0,POR,,period_start,0,False,False,,,113-113,113,113
 0022000029,2020-12-26,POR,HOU,48.0,5,5,0,,POR,jump_ball,0,False,False,Jump Ball Nurkic vs. Wood: Tip to Jones Jr.,,113-113,113,113
 0022000029,2020-12-26,POR,HOU,48.13,5,4,52,POR,POR,fg_miss,79,False,False,MISS Lillard 18' Pullup Jump Shot,,113-113,113,113
+0022000029,2020-12-26,POR,HOU,48.22,5,4,47,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:3 Def:7),,113-113,113,113
 0022000029,2020-12-26,POR,HOU,48.22,5,4,47,POR,POR,fg_miss,97,False,False,MISS Nurkic Tip Layup Shot,,113-113,113,113
 0022000029,2020-12-26,POR,HOU,48.22,5,4,47,POR,POR,reb,0,False,False,Covington REBOUND (Off:1 Def:7),,113-113,113,113
-0022000029,2020-12-26,POR,HOU,48.22,5,4,47,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:3 Def:7),,113-113,113,113
 0022000029,2020-12-26,POR,HOU,48.35,5,4,39,POR,POR,fg_make,6,False,False,Nurkic 1' Driving Layup (10 PTS) (McCollum 8 AST),,115-113,115,113
 0022000029,2020-12-26,POR,HOU,48.78,5,4,13,HOU,HOU,fg3_make,1,False,False,,Tucker 24' 3PT Jump Shot (7 PTS) (Harden 16 AST),115-116,115,116
 0022000029,2020-12-26,POR,HOU,48.92,5,4,5,POR,POR,fg_make,67,False,False,Nurkic 2' Hook Bank Shot (12 PTS) (Lillard 6 AST),,117-116,117,116

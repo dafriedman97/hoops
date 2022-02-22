@@ -33,8 +33,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000318,2021-02-01,OKC,HOU,3.7,1,8,18,HOU,HOU,reb,0,False,False,,Tate REBOUND (Off:0 Def:1),4-6,4,6
 0022000318,2021-02-01,OKC,HOU,3.78,1,8,13,HOU,HOU,fg_make,41,False,False,,Wall 1' Running Layup (8 PTS),4-8,4,8
 0022000318,2021-02-01,OKC,HOU,4.15,1,7,51,OKC,OKC,fg_miss,79,True,False,MISS Gilgeous-Alexander 8' Pullup Jump Shot,,4-8,4,8
-0022000318,2021-02-01,OKC,HOU,4.15,1,7,51,HOU,HOU,reb,0,False,False,,Wall REBOUND (Off:0 Def:1),4-8,4,8
 0022000318,2021-02-01,OKC,HOU,4.15,1,7,51,OKC,HOU,block,79,True,False,block,block,4-8,4,8
+0022000318,2021-02-01,OKC,HOU,4.15,1,7,51,HOU,HOU,reb,0,False,False,,Wall REBOUND (Off:0 Def:1),4-8,4,8
 0022000318,2021-02-01,OKC,HOU,4.23,1,7,46,HOU,HOU,fg_make,50,False,False,,Wood 1' Running Dunk (2 PTS),4-10,4,10
 0022000318,2021-02-01,OKC,HOU,4.23,1,7,46,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 1 Short 0),,4-10,4,10
 0022000318,2021-02-01,OKC,HOU,4.53,1,7,28,OKC,OKC,fg3_miss,79,False,False,MISS Maledon 25' 3PT Pullup Jump Shot,,4-10,4,10
@@ -87,8 +87,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000318,2021-02-01,OKC,HOU,10.75,1,1,15,OKC,OKC,fg3_miss,1,False,False,MISS Diallo 26' 3PT Jump Shot,,19-38,19,38
 0022000318,2021-02-01,OKC,HOU,10.8,1,1,12,HOU,HOU,reb,0,False,False,,Cousins REBOUND (Off:0 Def:1),19-38,19,38
 0022000318,2021-02-01,OKC,HOU,10.93,1,1,4,HOU,HOU,tov,1,False,True,,Gordon Bad Pass Turnover (P1.T4),19-38,19,38
-0022000318,2021-02-01,OKC,HOU,10.93,1,1,4,OKC,HOU,foul,1,False,False,,Cousins P.FOUL (P1.PN) (A.Nagy),19-38,19,38
 0022000318,2021-02-01,OKC,HOU,10.93,1,1,4,HOU,OKC,steal,1,False,True,steal,steal,19-38,19,38
+0022000318,2021-02-01,OKC,HOU,10.93,1,1,4,OKC,HOU,foul,1,False,False,,Cousins P.FOUL (P1.PN) (A.Nagy),19-38,19,38
 0022000318,2021-02-01,OKC,HOU,10.93,1,1,4,OKC,OKC,ft_make,11,False,False,Roby Free Throw 1 of 2 (1 PTS),,20-38,20,38
 0022000318,2021-02-01,OKC,HOU,10.93,1,1,4,OKC,OKC,ft_make,12,False,False,Roby Free Throw 2 of 2 (2 PTS),,21-38,21,38
 0022000318,2021-02-01,OKC,HOU,11.05,1,0,57,HOU,HOU,fg3_make,1,False,False,,House Jr. 3PT Jump Shot (7 PTS) (Tate 1 AST),21-41,21,41
@@ -97,8 +97,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000318,2021-02-01,OKC,HOU,11.2,1,0,48,HOU,HOU,fg_miss,6,False,False,,MISS House Jr. 2' Driving Layup,21-41,21,41
 0022000318,2021-02-01,OKC,HOU,11.23,1,0,46,HOU,HOU,reb,0,False,False,,Cousins REBOUND (Off:1 Def:1),21-41,21,41
 0022000318,2021-02-01,OKC,HOU,11.23,1,0,46,HOU,HOU,fg_miss,72,True,False,,MISS Cousins 2' Putback Layup,21-41,21,41
-0022000318,2021-02-01,OKC,HOU,11.23,1,0,46,HOU,HOU,reb,0,False,False,,Rockets Rebound,21-41,21,41
 0022000318,2021-02-01,OKC,HOU,11.23,1,0,46,HOU,OKC,block,72,True,False,block,block,21-41,21,41
+0022000318,2021-02-01,OKC,HOU,11.23,1,0,46,HOU,HOU,reb,0,False,False,,Rockets Rebound,21-41,21,41
 0022000318,2021-02-01,OKC,HOU,11.33,1,0,40,HOU,HOU,fg_make,6,False,False,,Gordon 2' Driving Layup (5 PTS),21-43,21,43
 0022000318,2021-02-01,OKC,HOU,11.33,1,0,40,HOU,OKC,violation,2,False,False,Roby Violation:Defensive Goaltending (M.Ayotte),,21-43,21,43
 0022000318,2021-02-01,OKC,HOU,11.33,1,0,40,HOU,OKC,foul,2,False,False,Diallo S.FOUL (P2.PN) (A.Nagy),,21-43,21,43
@@ -112,9 +112,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000318,2021-02-01,OKC,HOU,11.82,1,0,11,OKC,OKC,fg3_miss,80,False,False,MISS Gilgeous-Alexander 25' 3PT Step Back Jump Shot,,24-48,24,48
 0022000318,2021-02-01,OKC,HOU,11.9,1,0,6,OKC,OKC,reb,0,False,False,Muscala REBOUND (Off:1 Def:0),,24-48,24,48
 0022000318,2021-02-01,OKC,HOU,12.0,1,0,0,OKC,OKC,tov,2,False,True,Gilgeous-Alexander Lost Ball Turnover (P3.T5),,24-48,24,48
+0022000318,2021-02-01,OKC,HOU,12.0,1,0,0,OKC,HOU,steal,2,False,True,steal,steal,24-48,24,48
 0022000318,2021-02-01,OKC,HOU,12.0,1,0,0,OKC,,period_end,0,False,False,,,24-48,24,48
 0022000318,2021-02-01,OKC,HOU,12.0,2,12,0,OKC,,period_start,0,False,False,,,24-48,24,48
-0022000318,2021-02-01,OKC,HOU,12.0,1,0,0,OKC,HOU,steal,2,False,True,steal,steal,24-48,24,48
 0022000318,2021-02-01,OKC,HOU,12.2,2,11,48,HOU,HOU,fg_make,5,False,False,,Tate 3' Layup (2 PTS),24-50,24,50
 0022000318,2021-02-01,OKC,HOU,12.58,2,11,25,OKC,HOU,foul,2,False,False,,Cousins S.FOUL (P2.T1) (A.Nagy),24-50,24,50
 0022000318,2021-02-01,OKC,HOU,12.58,2,11,25,OKC,OKC,ft_miss,11,False,False,MISS Bazley Free Throw 1 of 2,,24-50,24,50
@@ -164,8 +164,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000318,2021-02-01,OKC,HOU,16.93,2,7,4,HOU,HOU,reb,0,False,False,,McLemore REBOUND (Off:0 Def:1),36-56,36,56
 0022000318,2021-02-01,OKC,HOU,17.2,2,6,48,HOU,HOU,fg3_make,1,False,False,,Wall 3PT Jump Shot (11 PTS) (Tate 2 AST),36-59,36,59
 0022000318,2021-02-01,OKC,HOU,17.43,2,6,34,OKC,OKC,tov,1,False,True,Muscala Bad Pass Turnover (P1.T7),,36-59,36,59
-0022000318,2021-02-01,OKC,HOU,17.43,2,6,34,HOU,OKC,foul,28,False,False,Williams Personal Take Foul (P1.T1) (A.Nagy),,36-59,36,59
 0022000318,2021-02-01,OKC,HOU,17.43,2,6,34,OKC,HOU,steal,1,False,True,steal,steal,36-59,36,59
+0022000318,2021-02-01,OKC,HOU,17.43,2,6,34,HOU,OKC,foul,28,False,False,Williams Personal Take Foul (P1.T1) (A.Nagy),,36-59,36,59
 0022000318,2021-02-01,OKC,HOU,17.55,2,6,27,HOU,HOU,fg_miss,1,False,False,,MISS McLemore 19' Jump Shot,36-59,36,59
 0022000318,2021-02-01,OKC,HOU,17.6,2,6,24,OKC,OKC,reb,0,False,False,Horford REBOUND (Off:0 Def:3),,36-59,36,59
 0022000318,2021-02-01,OKC,HOU,17.85,2,6,9,OKC,OKC,fg_miss,6,True,False,MISS Bazley 3' Driving Layup,,36-59,36,59
@@ -211,8 +211,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000318,2021-02-01,OKC,HOU,21.78,2,2,13,OKC,OKC,fg3_miss,1,False,False,MISS Dort 27' 3PT Jump Shot,,47-66,47,66
 0022000318,2021-02-01,OKC,HOU,21.85,2,2,9,HOU,HOU,reb,0,False,False,,Wood REBOUND (Off:2 Def:7),47-66,47,66
 0022000318,2021-02-01,OKC,HOU,22.22,2,1,47,HOU,HOU,fg_miss,78,True,False,,MISS Oladipo 8' Floating Jump Shot,47-66,47,66
-0022000318,2021-02-01,OKC,HOU,22.22,2,1,47,OKC,OKC,reb,0,False,False,THUNDER Rebound,,47-66,47,66
 0022000318,2021-02-01,OKC,HOU,22.22,2,1,47,HOU,OKC,block,78,True,False,block,block,47-66,47,66
+0022000318,2021-02-01,OKC,HOU,22.22,2,1,47,OKC,OKC,reb,0,False,False,THUNDER Rebound,,47-66,47,66
 0022000318,2021-02-01,OKC,HOU,22.5,2,1,30,OKC,OKC,fg_make,108,False,False,Bazley 1' Cutting Dunk Shot (9 PTS) (Horford 2 AST),,49-66,49,66
 0022000318,2021-02-01,OKC,HOU,22.72,2,1,17,OKC,HOU,foul,4,False,False,,Tucker OFF.Foul (P1) (M.Ayotte),49-66,49,66
 0022000318,2021-02-01,OKC,HOU,22.72,2,1,17,HOU,HOU,tov,37,False,False,,Tucker Offensive Foul Turnover (P1.T8),49-66,49,66
@@ -324,16 +324,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000318,2021-02-01,OKC,HOU,35.22,3,0,47,OKC,HOU,foul,28,False,False,,Tucker Personal Take Foul (P2.T3) (M.Ayotte),71-102,71,102
 0022000318,2021-02-01,OKC,HOU,35.45,3,0,33,OKC,OKC,fg3_make,1,False,False,Diallo 3PT Jump Shot (10 PTS) (Gilgeous-Alexander 5 AST),,74-102,74,102
 0022000318,2021-02-01,OKC,HOU,35.63,3,0,22,HOU,HOU,fg_miss,5,True,False,,MISS Brown 2' Layup,74-102,74,102
-0022000318,2021-02-01,OKC,HOU,35.63,3,0,22,HOU,HOU,reb,0,False,False,,Rockets Rebound,74-102,74,102
 0022000318,2021-02-01,OKC,HOU,35.63,3,0,22,HOU,OKC,block,5,True,False,block,block,74-102,74,102
+0022000318,2021-02-01,OKC,HOU,35.63,3,0,22,HOU,HOU,reb,0,False,False,,Rockets Rebound,74-102,74,102
 0022000318,2021-02-01,OKC,HOU,35.72,3,0,17,HOU,HOU,fg3_miss,1,False,False,,MISS McLemore 25' 3PT Jump Shot,74-102,74,102
 0022000318,2021-02-01,OKC,HOU,35.78,3,0,13,OKC,OKC,reb,0,False,False,Pokusevski REBOUND (Off:0 Def:1),,74-102,74,102
 0022000318,2021-02-01,OKC,HOU,35.97,3,0,2,OKC,OKC,fg_make,6,False,False,Gilgeous-Alexander 2' Driving Layup (19 PTS),,76-102,76,102
 0022000318,2021-02-01,OKC,HOU,36.0,3,0,0,HOU,HOU,fg3_miss,1,True,False,,MISS McLemore 25' 3PT Jump Shot,76-102,76,102
+0022000318,2021-02-01,OKC,HOU,36.0,3,0,0,HOU,OKC,block,1,True,False,block,block,76-102,76,102
 0022000318,2021-02-01,OKC,HOU,36.0,3,0,0,HOU,HOU,reb,0,False,False,,Rockets Rebound,76-102,76,102
 0022000318,2021-02-01,OKC,HOU,36.0,3,0,0,HOU,,period_end,0,False,False,,,76-102,76,102
 0022000318,2021-02-01,OKC,HOU,36.0,4,12,0,HOU,,period_start,0,False,False,,,76-102,76,102
-0022000318,2021-02-01,OKC,HOU,36.0,3,0,0,HOU,OKC,block,1,True,False,block,block,76-102,76,102
 0022000318,2021-02-01,OKC,HOU,36.13,4,11,52,OKC,OKC,fg_miss,5,False,False,MISS Williams 2' Layup,,76-102,76,102
 0022000318,2021-02-01,OKC,HOU,36.17,4,11,50,HOU,HOU,reb,0,False,False,,McLemore REBOUND (Off:0 Def:2),76-102,76,102
 0022000318,2021-02-01,OKC,HOU,36.47,4,11,32,HOU,HOU,fg_miss,6,False,False,,MISS Brown 4' Driving Layup,76-102,76,102

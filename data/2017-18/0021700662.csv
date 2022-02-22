@@ -59,10 +59,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700662,2018-01-17,LAC,DEN,6.45,1,5,33,DEN,DEN,fg_miss,44,False,False,,MISS Barton 1' Reverse Layup,15-13,15,13
 0021700662,2018-01-17,LAC,DEN,6.48,1,5,31,DEN,DEN,reb,0,False,False,,Barton REBOUND (Off:2 Def:1),15-13,15,13
 0021700662,2018-01-17,LAC,DEN,6.48,1,5,31,DEN,DEN,fg_miss,5,True,False,,MISS Barton 2' Layup,15-13,15,13
+0021700662,2018-01-17,LAC,DEN,6.48,1,5,31,DEN,LAC,block,5,True,False,block,block,15-13,15,13
 0021700662,2018-01-17,LAC,DEN,6.48,1,5,31,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,15-13,15,13
 0021700662,2018-01-17,LAC,DEN,6.48,1,5,31,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 1 Short 0),,15-13,15,13
 0021700662,2018-01-17,LAC,DEN,6.48,1,5,31,,LAC,jump_ball,0,False,False,Jump Ball Reed vs. Barton: Tip to Griffin,,15-13,15,13
-0021700662,2018-01-17,LAC,DEN,6.48,1,5,31,DEN,LAC,block,5,True,False,block,block,15-13,15,13
 0021700662,2018-01-17,LAC,DEN,6.57,1,5,26,LAC,DEN,foul,2,False,False,,Chandler S.FOUL (P1.T3) (G.Zielinski),15-13,15,13
 0021700662,2018-01-17,LAC,DEN,6.57,1,5,26,LAC,LAC,ft_make,11,False,False,W. Johnson Free Throw 1 of 2 (1 PTS),,16-13,16,13
 0021700662,2018-01-17,LAC,DEN,6.57,1,5,26,LAC,LAC,ft_make,12,False,False,W. Johnson Free Throw 2 of 2 (2 PTS),,17-13,17,13
@@ -156,8 +156,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700662,2018-01-17,LAC,DEN,17.03,2,6,58,DEN,DEN,fg_miss,44,False,False,,MISS Mudiay 1' Reverse Layup,42-39,42,39
 0021700662,2018-01-17,LAC,DEN,17.08,2,6,55,DEN,DEN,reb,0,False,False,,Faried REBOUND (Off:2 Def:2),42-39,42,39
 0021700662,2018-01-17,LAC,DEN,17.08,2,6,55,DEN,DEN,fg_miss,7,True,False,,MISS Faried 2' Dunk,42-39,42,39
-0021700662,2018-01-17,LAC,DEN,17.08,2,6,55,LAC,LAC,reb,0,False,False,Teodosic REBOUND (Off:0 Def:3),,42-39,42,39
 0021700662,2018-01-17,LAC,DEN,17.08,2,6,55,DEN,LAC,block,7,True,False,block,block,42-39,42,39
+0021700662,2018-01-17,LAC,DEN,17.08,2,6,55,LAC,LAC,reb,0,False,False,Teodosic REBOUND (Off:0 Def:3),,42-39,42,39
 0021700662,2018-01-17,LAC,DEN,17.17,2,6,50,LAC,LAC,fg3_miss,1,False,False,MISS Williams 25' 3PT Jump Shot,,42-39,42,39
 0021700662,2018-01-17,LAC,DEN,17.23,2,6,46,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:1 Def:4),,42-39,42,39
 0021700662,2018-01-17,LAC,DEN,17.25,2,6,45,LAC,LAC,tov,1,False,True,Harrell Bad Pass Turnover (P1.T8),,42-39,42,39
@@ -188,9 +188,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700662,2018-01-17,LAC,DEN,19.45,2,4,33,DEN,DEN,reb,0,False,False,,Chandler REBOUND (Off:1 Def:2),46-50,46,50
 0021700662,2018-01-17,LAC,DEN,19.77,2,4,14,DEN,DEN,fg_miss,73,True,False,,MISS Plumlee 2' Driving Reverse Layup,46-50,46,50
 0021700662,2018-01-17,LAC,DEN,19.77,2,4,14,DEN,LAC,block,73,True,False,block,block,46-50,46,50
-0021700662,2018-01-17,LAC,DEN,19.78,2,4,13,DEN,DEN,reb,0,False,False,,Plumlee REBOUND (Off:2 Def:1),46-50,46,50
 0021700662,2018-01-17,LAC,DEN,19.78,2,4,13,DEN,DEN,tov,11,False,False,,Nuggets Turnover: Shot Clock (T#3),46-50,46,50
 0021700662,2018-01-17,LAC,DEN,19.78,2,4,13,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 2 Short 0),,46-50,46,50
+0021700662,2018-01-17,LAC,DEN,19.78,2,4,13,DEN,DEN,reb,0,False,False,,Plumlee REBOUND (Off:2 Def:1),46-50,46,50
 0021700662,2018-01-17,LAC,DEN,19.93,2,4,4,LAC,LAC,tov,1,False,True,Teodosic Bad Pass Turnover (P2.T11),,46-50,46,50
 0021700662,2018-01-17,LAC,DEN,19.93,2,4,4,LAC,DEN,steal,1,False,True,steal,steal,46-50,46,50
 0021700662,2018-01-17,LAC,DEN,20.0,2,4,0,DEN,DEN,fg_miss,80,False,False,,MISS Chandler 14' Step Back Jump Shot,46-50,46,50
@@ -251,8 +251,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700662,2018-01-17,LAC,DEN,27.42,3,8,35,DEN,DEN,fg_miss,3,False,False,,MISS Chandler 5' Hook Shot,60-64,60,64
 0021700662,2018-01-17,LAC,DEN,27.47,3,8,32,LAC,LAC,reb,0,False,False,Wallace REBOUND (Off:1 Def:3),,60-64,60,64
 0021700662,2018-01-17,LAC,DEN,27.72,3,8,17,LAC,LAC,fg_miss,44,True,False,MISS Reed 2' Reverse Layup,,60-64,60,64
-0021700662,2018-01-17,LAC,DEN,27.72,3,8,17,DEN,DEN,reb,0,False,False,,Nuggets Rebound,60-64,60,64
 0021700662,2018-01-17,LAC,DEN,27.72,3,8,17,LAC,DEN,block,44,True,False,block,block,60-64,60,64
+0021700662,2018-01-17,LAC,DEN,27.72,3,8,17,DEN,DEN,reb,0,False,False,,Nuggets Rebound,60-64,60,64
 0021700662,2018-01-17,LAC,DEN,27.8,3,8,12,DEN,DEN,fg_miss,44,False,False,,MISS Harris 1' Reverse Layup,60-64,60,64
 0021700662,2018-01-17,LAC,DEN,27.85,3,8,9,LAC,LAC,reb,0,False,False,Wallace REBOUND (Off:1 Def:4),,60-64,60,64
 0021700662,2018-01-17,LAC,DEN,28.1,3,7,54,LAC,LAC,fg_make,79,False,False,Teodosic 17' Pullup Jump Shot (10 PTS),,62-64,62,64
@@ -280,9 +280,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700662,2018-01-17,LAC,DEN,30.48,3,5,31,LAC,LAC,fg3_miss,1,False,False,MISS Teodosic 25' 3PT Jump Shot,,68-68,68,68
 0021700662,2018-01-17,LAC,DEN,30.5,3,5,30,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:2 Def:4),,68-68,68,68
 0021700662,2018-01-17,LAC,DEN,30.5,3,5,30,LAC,LAC,fg_miss,97,True,False,MISS Harrell 1' Tip Layup Shot,,68-68,68,68
+0021700662,2018-01-17,LAC,DEN,30.5,3,5,30,LAC,DEN,block,97,True,False,block,block,68-68,68,68
 0021700662,2018-01-17,LAC,DEN,30.5,3,5,30,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:3 Def:4),,68-68,68,68
 0021700662,2018-01-17,LAC,DEN,30.5,3,5,30,LAC,DEN,foul,2,False,False,,Lyles S.FOUL (P1.T1) (E.Malloy),68-68,68,68
-0021700662,2018-01-17,LAC,DEN,30.5,3,5,30,LAC,DEN,block,97,True,False,block,block,68-68,68,68
 0021700662,2018-01-17,LAC,DEN,30.5,3,5,30,LAC,LAC,ft_make,11,False,False,Harrell Free Throw 1 of 2 (9 PTS),,69-68,69,68
 0021700662,2018-01-17,LAC,DEN,30.5,3,5,30,LAC,LAC,ft_miss,12,False,False,MISS Harrell Free Throw 2 of 2,,69-68,69,68
 0021700662,2018-01-17,LAC,DEN,30.58,3,5,25,DEN,DEN,reb,0,False,False,,Lyles REBOUND (Off:0 Def:3),69-68,69,68
@@ -301,8 +301,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700662,2018-01-17,LAC,DEN,32.95,3,3,3,LAC,DEN,foul,1,False,False,,Barton P.FOUL (P2.T2) (E.Malloy),69-77,69,77
 0021700662,2018-01-17,LAC,DEN,33.08,3,2,55,LAC,DEN,foul,27,False,False,,Plumlee Personal Block Foul (P3.T3) (E.Malloy),69-77,69,77
 0021700662,2018-01-17,LAC,DEN,33.15,3,2,51,LAC,LAC,fg_miss,5,True,False,MISS Wallace 4' Layup,,69-77,69,77
-0021700662,2018-01-17,LAC,DEN,33.15,3,2,51,LAC,LAC,reb,0,False,False,Wallace REBOUND (Off:2 Def:5),,69-77,69,77
 0021700662,2018-01-17,LAC,DEN,33.15,3,2,51,LAC,DEN,block,5,True,False,block,block,69-77,69,77
+0021700662,2018-01-17,LAC,DEN,33.15,3,2,51,LAC,LAC,reb,0,False,False,Wallace REBOUND (Off:2 Def:5),,69-77,69,77
 0021700662,2018-01-17,LAC,DEN,33.22,3,2,47,LAC,LAC,fg_miss,3,False,False,MISS Wallace 6' Hook Shot,,69-77,69,77
 0021700662,2018-01-17,LAC,DEN,33.25,3,2,45,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:1 Def:4),69-77,69,77
 0021700662,2018-01-17,LAC,DEN,33.43,3,2,34,DEN,DEN,fg_miss,47,False,False,,MISS Jokic 5' Turnaround Jump Shot,69-77,69,77
@@ -322,8 +322,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700662,2018-01-17,LAC,DEN,35.18,3,0,49,DEN,DEN,fg3_miss,1,False,False,,MISS Beasley 25' 3PT Jump Shot,76-79,76,79
 0021700662,2018-01-17,LAC,DEN,35.18,3,0,49,LAC,LAC,reb,0,False,False,Evans REBOUND (Off:0 Def:3),,76-79,76,79
 0021700662,2018-01-17,LAC,DEN,35.27,3,0,44,LAC,LAC,fg_miss,5,True,False,MISS Wallace 1' Layup,,76-79,76,79
-0021700662,2018-01-17,LAC,DEN,35.27,3,0,44,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,76-79,76,79
 0021700662,2018-01-17,LAC,DEN,35.27,3,0,44,LAC,DEN,block,5,True,False,block,block,76-79,76,79
+0021700662,2018-01-17,LAC,DEN,35.27,3,0,44,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,76-79,76,79
 0021700662,2018-01-17,LAC,DEN,35.32,3,0,41,LAC,LAC,fg3_make,1,False,False,Williams 25' 3PT Jump Shot (14 PTS) (W. Johnson 2 AST),,79-79,79,79
 0021700662,2018-01-17,LAC,DEN,35.47,3,0,32,DEN,DEN,fg_miss,41,False,False,,MISS Mudiay 1' Running Layup,79-79,79,79
 0021700662,2018-01-17,LAC,DEN,35.5,3,0,30,LAC,LAC,reb,0,False,False,Evans REBOUND (Off:0 Def:4),,79-79,79,79
@@ -361,9 +361,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700662,2018-01-17,LAC,DEN,38.15,4,9,51,LAC,DEN,block,5,True,False,block,block,82-85,82,85
 0021700662,2018-01-17,LAC,DEN,38.18,4,9,49,LAC,LAC,reb,0,False,False,Williams REBOUND (Off:2 Def:2),,82-85,82,85
 0021700662,2018-01-17,LAC,DEN,38.18,4,9,49,LAC,LAC,fg_miss,5,True,False,MISS Williams 2' Layup,,82-85,82,85
+0021700662,2018-01-17,LAC,DEN,38.18,4,9,49,LAC,DEN,block,5,True,False,block,block,82-85,82,85
 0021700662,2018-01-17,LAC,DEN,38.18,4,9,49,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:1 Def:5),82-85,82,85
 0021700662,2018-01-17,LAC,DEN,38.18,4,9,49,DEN,LAC,foul,1,False,False,Williams P.FOUL (P2.T2) (E.Malloy),,82-85,82,85
-0021700662,2018-01-17,LAC,DEN,38.18,4,9,49,LAC,DEN,block,5,True,False,block,block,82-85,82,85
 0021700662,2018-01-17,LAC,DEN,38.42,4,9,35,DEN,DEN,fg_make,79,False,False,,Mudiay 12' Pullup Jump Shot (9 PTS) (Jokic 2 AST),82-87,82,87
 0021700662,2018-01-17,LAC,DEN,38.63,4,9,22,LAC,DEN,foul,1,False,False,,Harris P.FOUL (P1.T1) (E.Malloy),82-87,82,87
 0021700662,2018-01-17,LAC,DEN,38.78,4,9,13,LAC,LAC,fg3_make,1,False,False,W. Johnson 26' 3PT Jump Shot (8 PTS) (Williams 4 AST),,85-87,85,87
@@ -385,8 +385,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700662,2018-01-17,LAC,DEN,40.13,4,7,52,DEN,DEN,fg_miss,5,False,False,,MISS Plumlee 1' Layup,90-89,90,89
 0021700662,2018-01-17,LAC,DEN,40.13,4,7,52,DEN,DEN,reb,0,False,False,,Plumlee REBOUND (Off:4 Def:7),90-89,90,89
 0021700662,2018-01-17,LAC,DEN,40.18,4,7,49,DEN,DEN,tov,1,False,True,,Plumlee Bad Pass Turnover (P3.T15),90-89,90,89
-0021700662,2018-01-17,LAC,DEN,40.18,4,7,49,LAC,DEN,foul,1,False,False,,Jefferson P.FOUL (P2.T4) (E.Malloy),90-89,90,89
 0021700662,2018-01-17,LAC,DEN,40.18,4,7,49,DEN,LAC,steal,1,False,True,steal,steal,90-89,90,89
+0021700662,2018-01-17,LAC,DEN,40.18,4,7,49,LAC,DEN,foul,1,False,False,,Jefferson P.FOUL (P2.T4) (E.Malloy),90-89,90,89
 0021700662,2018-01-17,LAC,DEN,40.35,4,7,39,LAC,LAC,tov,1,False,True,Williams Bad Pass Turnover (P3.T18),,90-89,90,89
 0021700662,2018-01-17,LAC,DEN,40.35,4,7,39,LAC,DEN,steal,1,False,True,steal,steal,90-89,90,89
 0021700662,2018-01-17,LAC,DEN,40.4,4,7,36,DEN,DEN,tov,1,False,True,,Mudiay Bad Pass Turnover (P2.T16),90-89,90,89
@@ -480,10 +480,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700662,2018-01-17,LAC,DEN,47.77,4,0,14,DEN,DEN,reb,0,False,False,,Barton REBOUND (Off:3 Def:3),106-104,106,104
 0021700662,2018-01-17,LAC,DEN,47.77,4,0,14,DEN,DEN,timeout,1,False,False,,Nuggets Timeout: Regular (Reg.7 Short 0),106-104,106,104
 0021700662,2018-01-17,LAC,DEN,47.97,4,0,2,DEN,DEN,tov,2,False,True,,Barton Lost Ball Turnover (P2.T20),106-104,106,104
+0021700662,2018-01-17,LAC,DEN,47.97,4,0,2,DEN,LAC,steal,2,False,True,steal,steal,106-104,106,104
 0021700662,2018-01-17,LAC,DEN,47.97,4,0,2,LAC,DEN,foul,28,False,False,,Chandler Personal Take Foul (P3.PN) (J.Goble),106-104,106,104
 0021700662,2018-01-17,LAC,DEN,47.97,4,0,2,LAC,LAC,ft_miss,11,False,False,MISS Thornwell Free Throw 1 of 2,,106-104,106,104
 0021700662,2018-01-17,LAC,DEN,47.97,4,0,2,LAC,LAC,reb,1,False,False,CLIPPERS Rebound,,106-104,106,104
-0021700662,2018-01-17,LAC,DEN,47.97,4,0,2,DEN,LAC,steal,2,False,True,steal,steal,106-104,106,104
 0021700662,2018-01-17,LAC,DEN,47.97,4,0,2,LAC,LAC,ft_make,12,False,False,Thornwell Free Throw 2 of 2 (1 PTS),,107-104,107,104
 0021700662,2018-01-17,LAC,DEN,47.97,4,0,2,DEN,DEN,tov,45,False,False,,Chandler Out of Bounds - Bad Pass Turnover Turnover (P4.T21),107-104,107,104
 0021700662,2018-01-17,LAC,DEN,47.98,4,0,1,LAC,DEN,foul,28,False,False,,Jokic Personal Take Foul (P4.PN) (G.Zielinski),107-104,107,104

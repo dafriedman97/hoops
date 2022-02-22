@@ -86,8 +86,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900113,2019-11-07,SAS,OKC,9.83,1,2,10,SAS,SAS,fg_miss,47,False,False,MISS Gay 18' Turnaround Jump Shot,,26-26,26,26
 0021900113,2019-11-07,SAS,OKC,9.92,1,2,5,OKC,OKC,reb,0,False,False,,Noel REBOUND (Off:0 Def:2),26-26,26,26
 0021900113,2019-11-07,SAS,OKC,10.07,1,1,56,OKC,OKC,fg_miss,6,True,False,,MISS Gilgeous-Alexander 5' Driving Layup,26-26,26,26
-0021900113,2019-11-07,SAS,OKC,10.07,1,1,56,OKC,OKC,reb,0,False,False,,Thunder Rebound,26-26,26,26
 0021900113,2019-11-07,SAS,OKC,10.07,1,1,56,OKC,SAS,block,6,True,False,block,block,26-26,26,26
+0021900113,2019-11-07,SAS,OKC,10.07,1,1,56,OKC,OKC,reb,0,False,False,,Thunder Rebound,26-26,26,26
 0021900113,2019-11-07,SAS,OKC,10.22,1,1,47,OKC,OKC,fg_miss,101,False,False,,MISS Schroder 12' Driving Floating Jump Shot,26-26,26,26
 0021900113,2019-11-07,SAS,OKC,10.27,1,1,44,SAS,SAS,reb,0,False,False,Poeltl REBOUND (Off:1 Def:1),,26-26,26,26
 0021900113,2019-11-07,SAS,OKC,10.42,1,1,35,SAS,OKC,foul,2,False,False,,Noel S.FOUL (P1.PN) (H.Workman),26-26,26,26
@@ -141,8 +141,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900113,2019-11-07,SAS,OKC,16.18,2,7,49,SAS,SAS,fg_miss,6,False,False,MISS Carroll 7' Driving Layup,,37-39,37,39
 0021900113,2019-11-07,SAS,OKC,16.22,2,7,47,SAS,SAS,reb,0,False,False,Carroll REBOUND (Off:1 Def:0),,37-39,37,39
 0021900113,2019-11-07,SAS,OKC,16.22,2,7,47,SAS,SAS,fg_miss,72,True,False,MISS Carroll 1' Putback Layup,,37-39,37,39
-0021900113,2019-11-07,SAS,OKC,16.22,2,7,47,SAS,SAS,reb,0,False,False,SPURS Rebound,,37-39,37,39
 0021900113,2019-11-07,SAS,OKC,16.22,2,7,47,SAS,OKC,block,72,True,False,block,block,37-39,37,39
+0021900113,2019-11-07,SAS,OKC,16.22,2,7,47,SAS,SAS,reb,0,False,False,SPURS Rebound,,37-39,37,39
 0021900113,2019-11-07,SAS,OKC,16.33,2,7,40,SAS,SAS,fg_miss,79,False,False,MISS Murray 18' Pullup Jump Shot,,37-39,37,39
 0021900113,2019-11-07,SAS,OKC,16.42,2,7,35,OKC,OKC,reb,0,False,False,,Ferguson REBOUND (Off:0 Def:1),37-39,37,39
 0021900113,2019-11-07,SAS,OKC,16.65,2,7,21,OKC,OKC,fg_miss,6,False,False,,MISS Diallo 6' Driving Layup,37-39,37,39
@@ -248,8 +248,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900113,2019-11-07,SAS,OKC,28.58,3,7,25,OKC,OKC,fg_miss,79,False,False,,MISS Paul 14' Pullup Jump Shot,73-67,73,67
 0021900113,2019-11-07,SAS,OKC,28.58,3,7,25,SAS,SAS,reb,0,False,False,Aldridge REBOUND (Off:0 Def:3),,73-67,73,67
 0021900113,2019-11-07,SAS,OKC,28.77,3,7,14,SAS,SAS,fg_miss,78,True,False,MISS Murray 11' Floating Jump Shot,,73-67,73,67
-0021900113,2019-11-07,SAS,OKC,28.77,3,7,14,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:2 Def:3),73-67,73,67
 0021900113,2019-11-07,SAS,OKC,28.77,3,7,14,SAS,OKC,block,78,True,False,block,block,73-67,73,67
+0021900113,2019-11-07,SAS,OKC,28.77,3,7,14,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:2 Def:3),73-67,73,67
 0021900113,2019-11-07,SAS,OKC,28.95,3,7,3,OKC,OKC,fg_make,71,False,False,,Paul 3' Finger Roll Layup (17 PTS),73-69,73,69
 0021900113,2019-11-07,SAS,OKC,28.95,3,7,3,SAS,SAS,timeout,1,False,False,SPURS Timeout: Regular (Full 3 Short 0),,73-69,73,69
 0021900113,2019-11-07,SAS,OKC,29.23,3,6,46,SAS,SAS,fg_make,79,False,False,Forbes 20' Pullup Jump Shot (8 PTS) (Aldridge 3 AST),,75-69,75,69
@@ -257,12 +257,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900113,2019-11-07,SAS,OKC,29.63,3,6,22,SAS,SAS,reb,0,False,False,Murray REBOUND (Off:2 Def:6),,75-69,75,69
 0021900113,2019-11-07,SAS,OKC,29.87,3,6,8,SAS,SAS,tov,2,False,True,Forbes Lost Ball Turnover (P2.T9),,75-69,75,69
 0021900113,2019-11-07,SAS,OKC,29.87,3,6,8,SAS,OKC,steal,2,False,True,steal,steal,75-69,75,69
-0021900113,2019-11-07,SAS,OKC,29.98,3,6,1,OKC,OKC,tov,2,False,False,,Adams Lost Ball Turnover (P2.T8),75-69,75,69
 0021900113,2019-11-07,SAS,OKC,29.98,3,6,1,SAS,OKC,foul,3,False,False,,Adams L.B.FOUL (P2.T2) (M.Davis),75-69,75,69
+0021900113,2019-11-07,SAS,OKC,29.98,3,6,1,OKC,OKC,tov,2,False,False,,Adams Lost Ball Turnover (P2.T8),75-69,75,69
 0021900113,2019-11-07,SAS,OKC,30.27,3,5,44,SAS,SAS,fg_make,79,False,False,Aldridge 13' Pullup Jump Shot (27 PTS),,77-69,77,69
 0021900113,2019-11-07,SAS,OKC,30.47,3,5,32,OKC,OKC,fg_make,98,False,False,,Noel 4' Cutting Layup Shot (4 PTS) (Gilgeous-Alexander 3 AST),77-71,77,71
-0021900113,2019-11-07,SAS,OKC,30.68,3,5,19,SAS,SAS,tov,2,False,False,Aldridge Lost Ball Turnover (P2.T10),,77-71,77,71
 0021900113,2019-11-07,SAS,OKC,30.68,3,5,19,OKC,SAS,foul,3,False,False,Aldridge L.B.FOUL (P2.T4) (M.Davis),,77-71,77,71
+0021900113,2019-11-07,SAS,OKC,30.68,3,5,19,SAS,SAS,tov,2,False,False,Aldridge Lost Ball Turnover (P2.T10),,77-71,77,71
 0021900113,2019-11-07,SAS,OKC,30.87,3,5,8,OKC,OKC,tov,1,False,True,,Schroder Bad Pass Turnover (P2.T9),77-71,77,71
 0021900113,2019-11-07,SAS,OKC,30.87,3,5,8,OKC,SAS,steal,1,False,True,steal,steal,77-71,77,71
 0021900113,2019-11-07,SAS,OKC,31.23,3,4,46,SAS,OKC,foul,2,False,False,,Diallo S.FOUL (P2.T3) (M.Davis),77-71,77,71
@@ -346,8 +346,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900113,2019-11-07,SAS,OKC,40.32,4,7,41,OKC,OKC,ft_make,11,False,False,,Schroder Free Throw 1 of 2 (8 PTS),103-92,103,92
 0021900113,2019-11-07,SAS,OKC,40.32,4,7,41,OKC,OKC,ft_make,12,False,False,,Schroder Free Throw 2 of 2 (9 PTS),103-93,103,93
 0021900113,2019-11-07,SAS,OKC,40.62,4,7,23,SAS,SAS,fg3_miss,1,False,False,MISS Forbes 27' 3PT Jump Shot,,103-93,103,93
-0021900113,2019-11-07,SAS,OKC,40.73,4,7,16,SAS,SAS,fg_make,72,False,False,Lyles 1' Putback Layup (8 PTS),,105-93,105,93
 0021900113,2019-11-07,SAS,OKC,40.73,4,7,16,SAS,SAS,reb,0,False,False,Lyles REBOUND (Off:3 Def:1),,105-93,105,93
+0021900113,2019-11-07,SAS,OKC,40.73,4,7,16,SAS,SAS,fg_make,72,False,False,Lyles 1' Putback Layup (8 PTS),,105-93,105,93
 0021900113,2019-11-07,SAS,OKC,40.92,4,7,5,OKC,OKC,fg_make,73,False,False,,Gilgeous-Alexander 2' Driving Reverse Layup (17 PTS) (Schroder 9 AST),105-95,105,95
 0021900113,2019-11-07,SAS,OKC,41.17,4,6,50,SAS,SAS,fg3_make,1,False,False,Forbes 26' 3PT Jump Shot (11 PTS) (Aldridge 4 AST),,108-95,108,95
 0021900113,2019-11-07,SAS,OKC,41.57,4,6,26,OKC,OKC,fg_make,57,False,False,,Adams 6' Driving Hook Shot (8 PTS) (Paul 4 AST),108-97,108,97

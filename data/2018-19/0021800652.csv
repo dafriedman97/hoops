@@ -14,8 +14,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800652,2019-01-15,PHI,MIN,1.15,1,10,51,PHI,PHI,fg3_make,1,False,False,Chandler 24' 3PT Jump Shot (3 PTS) (Simmons 1 AST),,5-2,5,2
 0021800652,2019-01-15,PHI,MIN,1.45,1,10,33,MIN,MIN,fg3_make,1,False,False,,Towns 27' 3PT Jump Shot (5 PTS) (Teague 1 AST),5-5,5,5
 0021800652,2019-01-15,PHI,MIN,1.6,1,10,24,PHI,PHI,fg_miss,41,True,False,MISS Simmons 5' Running Layup,,5-5,5,5
-0021800652,2019-01-15,PHI,MIN,1.6,1,10,24,PHI,PHI,reb,0,False,False,76ERS Rebound,,5-5,5,5
 0021800652,2019-01-15,PHI,MIN,1.6,1,10,24,PHI,MIN,block,41,True,False,block,block,5-5,5,5
+0021800652,2019-01-15,PHI,MIN,1.6,1,10,24,PHI,PHI,reb,0,False,False,76ERS Rebound,,5-5,5,5
 0021800652,2019-01-15,PHI,MIN,1.7,1,10,18,PHI,PHI,fg_make,58,False,False,Embiid 7' Turnaround Hook Shot (4 PTS),,7-5,7,5
 0021800652,2019-01-15,PHI,MIN,1.88,1,10,7,MIN,MIN,fg3_miss,79,False,False,,MISS Okogie 25' 3PT Pullup Jump Shot,7-5,7,5
 0021800652,2019-01-15,PHI,MIN,1.93,1,10,4,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:0 Def:1),,7-5,7,5
@@ -42,8 +42,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800652,2019-01-15,PHI,MIN,4.22,1,7,47,PHI,PHI,fg3_miss,79,False,False,MISS Redick 26' 3PT Pullup Jump Shot,,11-9,11,9
 0021800652,2019-01-15,PHI,MIN,4.28,1,7,43,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:0 Def:1),11-9,11,9
 0021800652,2019-01-15,PHI,MIN,4.5,1,7,30,MIN,MIN,fg_miss,5,True,False,,MISS Wiggins 2' Layup,11-9,11,9
-0021800652,2019-01-15,PHI,MIN,4.5,1,7,30,MIN,MIN,reb,0,False,False,,Wiggins REBOUND (Off:1 Def:0),11-9,11,9
 0021800652,2019-01-15,PHI,MIN,4.5,1,7,30,MIN,PHI,block,5,True,False,block,block,11-9,11,9
+0021800652,2019-01-15,PHI,MIN,4.5,1,7,30,MIN,MIN,reb,0,False,False,,Wiggins REBOUND (Off:1 Def:0),11-9,11,9
 0021800652,2019-01-15,PHI,MIN,4.55,1,7,27,MIN,MIN,fg_make,97,False,False,,Wiggins 1' Tip Layup Shot (4 PTS),11-11,11,11
 0021800652,2019-01-15,PHI,MIN,4.67,1,7,20,PHI,PHI,fg3_make,1,False,False,Redick 24' 3PT Jump Shot (3 PTS) (Simmons 2 AST),,14-11,14,11
 0021800652,2019-01-15,PHI,MIN,4.88,1,7,7,MIN,MIN,fg_make,5,False,False,,Teague 2' Layup (2 PTS),14-13,14,13
@@ -209,9 +209,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800652,2019-01-15,PHI,MIN,22.12,2,1,53,MIN,MIN,fg_miss,101,False,False,,MISS Rose 11' Driving Floating Jump Shot,73-51,73,51
 0021800652,2019-01-15,PHI,MIN,22.15,2,1,51,PHI,PHI,reb,0,False,False,Chandler REBOUND (Off:1 Def:1),,73-51,73,51
 0021800652,2019-01-15,PHI,MIN,22.22,2,1,47,PHI,PHI,fg_make,76,False,False,Simmons 2' Running Finger Roll Layup (12 PTS),,75-51,75,51
-0021800652,2019-01-15,PHI,MIN,22.22,2,1,47,PHI,MIN,violation,2,False,False,,Defensive Goaltending,75-51,75,51
 0021800652,2019-01-15,PHI,MIN,22.22,2,1,47,PHI,MIN,foul,2,False,False,,Wiggins S.FOUL (P2.PN) (J.Goble),75-51,75,51
 0021800652,2019-01-15,PHI,MIN,22.22,2,1,47,PHI,PHI,ft_make,10,False,False,Simmons Free Throw 1 of 1 (13 PTS),,76-51,76,51
+0021800652,2019-01-15,PHI,MIN,22.22,2,1,47,PHI,MIN,violation,2,False,False,,Defensive Goaltending,75-51,75,51
 0021800652,2019-01-15,PHI,MIN,22.4,2,1,36,MIN,MIN,fg_make,6,False,False,,Teague 1' Driving Layup (9 PTS),76-53,76,53
 0021800652,2019-01-15,PHI,MIN,22.53,2,1,28,PHI,PHI,fg_miss,3,False,False,MISS Simmons 7' Hook Shot,,76-53,76,53
 0021800652,2019-01-15,PHI,MIN,22.58,2,1,25,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:1 Def:5),,76-53,76,53
@@ -265,8 +265,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800652,2019-01-15,PHI,MIN,26.67,3,9,20,MIN,MIN,ft_make,12,False,False,,Gibson Free Throw 2 of 2 (8 PTS),90-64,90,64
 0021800652,2019-01-15,PHI,MIN,26.93,3,9,4,PHI,PHI,fg_miss,9,False,False,MISS Embiid 1' Driving Dunk,,90-64,90,64
 0021800652,2019-01-15,PHI,MIN,26.95,3,9,3,MIN,MIN,reb,0,False,False,,Gibson REBOUND (Off:1 Def:3),90-64,90,64
-0021800652,2019-01-15,PHI,MIN,27.28,3,8,43,MIN,MIN,tov,2,False,True,,Towns Lost Ball Turnover (P1.T7),90-64,90,64
 0021800652,2019-01-15,PHI,MIN,27.28,3,8,43,,PHI,jump_ball,0,False,False,Jump Ball Embiid vs. Towns: Tip to Simmons,,90-64,90,64
+0021800652,2019-01-15,PHI,MIN,27.28,3,8,43,MIN,MIN,tov,2,False,True,,Towns Lost Ball Turnover (P1.T7),90-64,90,64
 0021800652,2019-01-15,PHI,MIN,27.28,3,8,43,MIN,PHI,steal,2,False,True,steal,steal,90-64,90,64
 0021800652,2019-01-15,PHI,MIN,27.37,3,8,38,PHI,PHI,fg3_miss,1,False,False,MISS Redick 27' 3PT Jump Shot,,90-64,90,64
 0021800652,2019-01-15,PHI,MIN,27.42,3,8,35,PHI,PHI,reb,0,False,False,76ERS Rebound,,90-64,90,64
@@ -373,8 +373,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800652,2019-01-15,PHI,MIN,37.83,4,10,10,PHI,PHI,reb,0,False,False,Shamet REBOUND (Off:0 Def:2),,121-90,121,90
 0021800652,2019-01-15,PHI,MIN,38.0,4,10,0,PHI,PHI,fg3_make,1,False,False,Bolden 26' 3PT Jump Shot (8 PTS) (McConnell 8 AST),,124-90,124,90
 0021800652,2019-01-15,PHI,MIN,38.23,4,9,46,MIN,MIN,fg_miss,6,True,False,,MISS Okogie 4' Driving Layup,124-90,124,90
-0021800652,2019-01-15,PHI,MIN,38.23,4,9,46,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,124-90,124,90
 0021800652,2019-01-15,PHI,MIN,38.23,4,9,46,MIN,PHI,block,6,True,False,block,block,124-90,124,90
+0021800652,2019-01-15,PHI,MIN,38.23,4,9,46,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,124-90,124,90
 0021800652,2019-01-15,PHI,MIN,38.4,4,9,36,MIN,MIN,fg_miss,1,False,False,,MISS Deng 20' Jump Shot,124-90,124,90
 0021800652,2019-01-15,PHI,MIN,38.45,4,9,33,PHI,PHI,reb,0,False,False,Johnson REBOUND (Off:0 Def:1),,124-90,124,90
 0021800652,2019-01-15,PHI,MIN,38.65,4,9,21,PHI,PHI,fg_make,5,False,False,Johnson 3' Layup (2 PTS) (Shamet 1 AST),,126-90,126,90

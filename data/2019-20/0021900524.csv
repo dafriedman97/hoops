@@ -11,8 +11,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900524,2020-01-04,BKN,TOR,1.42,1,10,35,TOR,TOR,fg_miss,79,False,False,,MISS Ibaka 11' Pullup Jump Shot,3-2,3,2
 0021900524,2020-01-04,BKN,TOR,1.48,1,10,31,BKN,BKN,reb,0,False,False,Harris REBOUND (Off:0 Def:1),,3-2,3,2
 0021900524,2020-01-04,BKN,TOR,1.58,1,10,25,BKN,BKN,fg_miss,108,True,False,MISS Allen 3' Cutting Dunk Shot,,3-2,3,2
-0021900524,2020-01-04,BKN,TOR,1.58,1,10,25,TOR,TOR,reb,0,False,False,,McCaw REBOUND (Off:0 Def:2),3-2,3,2
 0021900524,2020-01-04,BKN,TOR,1.58,1,10,25,BKN,TOR,block,108,True,False,block,block,3-2,3,2
+0021900524,2020-01-04,BKN,TOR,1.58,1,10,25,TOR,TOR,reb,0,False,False,,McCaw REBOUND (Off:0 Def:2),3-2,3,2
 0021900524,2020-01-04,BKN,TOR,1.67,1,10,20,TOR,TOR,fg3_miss,1,False,False,,MISS Lowry 25' 3PT Jump Shot,3-2,3,2
 0021900524,2020-01-04,BKN,TOR,1.7,1,10,18,BKN,BKN,reb,0,False,False,Temple REBOUND (Off:0 Def:1),,3-2,3,2
 0021900524,2020-01-04,BKN,TOR,1.85,1,10,9,BKN,BKN,fg3_miss,1,False,False,MISS Dinwiddie 24' 3PT Jump Shot,,3-2,3,2
@@ -94,8 +94,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900524,2020-01-04,BKN,TOR,9.82,1,2,11,BKN,BKN,fg_make,79,False,False,LeVert 11' Pullup Jump Shot (2 PTS) (Jordan 1 AST),,30-22,30,22
 0021900524,2020-01-04,BKN,TOR,10.08,1,1,55,TOR,TOR,fg_miss,98,True,False,,MISS Hollis-Jefferson 4' Cutting Layup Shot,30-22,30,22
 0021900524,2020-01-04,BKN,TOR,10.08,1,1,55,TOR,BKN,block,98,True,False,block,block,30-22,30,22
-0021900524,2020-01-04,BKN,TOR,10.1,1,1,54,BKN,BKN,reb,0,False,False,NETS Rebound,,30-22,30,22
 0021900524,2020-01-04,BKN,TOR,10.1,1,1,54,,BKN,jump_ball,0,False,False,,,30-22,30,22
+0021900524,2020-01-04,BKN,TOR,10.1,1,1,54,BKN,BKN,reb,0,False,False,NETS Rebound,,30-22,30,22
 0021900524,2020-01-04,BKN,TOR,10.1,1,1,54,BKN,TOR,violation,4,False,False,,Jump Ball,30-22,30,22
 0021900524,2020-01-04,BKN,TOR,10.3,1,1,42,BKN,BKN,fg3_make,1,False,False,Kurucs 26' 3PT Jump Shot (3 PTS) (Chandler 1 AST),,33-22,33,22
 0021900524,2020-01-04,BKN,TOR,10.5,1,1,30,TOR,TOR,fg3_miss,1,False,False,,MISS Boucher 25' 3PT Jump Shot,33-22,33,22
@@ -112,14 +112,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900524,2020-01-04,BKN,TOR,11.92,1,0,5,BKN,BKN,tov,1,False,True,LeVert Bad Pass Turnover (P1.T8),,33-24,33,24
 0021900524,2020-01-04,BKN,TOR,11.92,1,0,5,BKN,TOR,steal,1,False,True,steal,steal,33-24,33,24
 0021900524,2020-01-04,BKN,TOR,12.0,1,0,0,TOR,TOR,fg3_miss,79,True,False,,MISS Johnson 29' 3PT Pullup Jump Shot,33-24,33,24
+0021900524,2020-01-04,BKN,TOR,12.0,1,0,0,TOR,BKN,block,79,True,False,block,block,33-24,33,24
 0021900524,2020-01-04,BKN,TOR,12.0,1,0,0,TOR,TOR,reb,0,False,False,,Raptors Rebound,33-24,33,24
 0021900524,2020-01-04,BKN,TOR,12.0,1,0,0,TOR,,period_end,0,False,False,,,33-24,33,24
 0021900524,2020-01-04,BKN,TOR,12.0,2,12,0,TOR,,period_start,0,False,False,,,33-24,33,24
-0021900524,2020-01-04,BKN,TOR,12.0,1,0,0,TOR,BKN,block,79,True,False,block,block,33-24,33,24
 0021900524,2020-01-04,BKN,TOR,12.13,2,11,52,TOR,BKN,foul,1,False,False,Luwawu-Cabarrot P.FOUL (P1.T1) (K.Fitzgerald),,33-24,33,24
 0021900524,2020-01-04,BKN,TOR,12.33,2,11,40,TOR,TOR,fg_miss,6,True,False,,MISS Johnson 10' Driving Layup,33-24,33,24
-0021900524,2020-01-04,BKN,TOR,12.33,2,11,40,TOR,TOR,reb,0,False,False,,Raptors Rebound,33-24,33,24
 0021900524,2020-01-04,BKN,TOR,12.33,2,11,40,TOR,BKN,block,6,True,False,block,block,33-24,33,24
+0021900524,2020-01-04,BKN,TOR,12.33,2,11,40,TOR,TOR,reb,0,False,False,,Raptors Rebound,33-24,33,24
 0021900524,2020-01-04,BKN,TOR,12.35,2,11,39,TOR,BKN,foul,2,False,False,Chandler S.FOUL (P1.T2) (E.Scott),,33-24,33,24
 0021900524,2020-01-04,BKN,TOR,12.35,2,11,39,TOR,TOR,ft_miss,11,False,False,,MISS Boucher Free Throw 1 of 2,33-24,33,24
 0021900524,2020-01-04,BKN,TOR,12.35,2,11,39,TOR,TOR,reb,1,False,False,,Raptors Rebound,33-24,33,24
@@ -139,21 +139,21 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900524,2020-01-04,BKN,TOR,13.82,2,10,11,TOR,TOR,fg_make,97,False,False,,Hollis-Jefferson 1' Tip Layup Shot (4 PTS),36-29,36,29
 0021900524,2020-01-04,BKN,TOR,13.93,2,10,4,BKN,BKN,tov,45,False,False,LeVert Out of Bounds - Bad Pass Turnover Turnover (P2.T9),,36-29,36,29
 0021900524,2020-01-04,BKN,TOR,14.23,2,9,46,TOR,TOR,fg_miss,108,True,False,,MISS Hollis-Jefferson 2' Cutting Dunk Shot,36-29,36,29
+0021900524,2020-01-04,BKN,TOR,14.23,2,9,46,TOR,BKN,block,108,True,False,block,block,36-29,36,29
 0021900524,2020-01-04,BKN,TOR,14.23,2,9,46,TOR,TOR,reb,0,False,False,,Boucher REBOUND (Off:3 Def:1),36-29,36,29
 0021900524,2020-01-04,BKN,TOR,14.23,2,9,46,TOR,BKN,foul,1,False,False,Kurucs P.FOUL (P2.T3) (G.Petraitis),,36-29,36,29
-0021900524,2020-01-04,BKN,TOR,14.23,2,9,46,TOR,BKN,block,108,True,False,block,block,36-29,36,29
 0021900524,2020-01-04,BKN,TOR,14.5,2,9,30,TOR,TOR,fg3_miss,1,False,False,,MISS Johnson 3PT Jump Shot,36-29,36,29
 0021900524,2020-01-04,BKN,TOR,14.55,2,9,27,TOR,TOR,reb,0,False,False,,Boucher REBOUND (Off:4 Def:1),36-29,36,29
 0021900524,2020-01-04,BKN,TOR,14.55,2,9,27,TOR,TOR,fg_make,72,False,False,,Boucher 1' Putback Layup (7 PTS),36-31,36,31
 0021900524,2020-01-04,BKN,TOR,14.62,2,9,23,BKN,BKN,tov,2,False,True,Luwawu-Cabarrot Lost Ball Turnover (P2.T10),,36-31,36,31
 0021900524,2020-01-04,BKN,TOR,14.62,2,9,23,BKN,TOR,steal,2,False,True,steal,steal,36-31,36,31
 0021900524,2020-01-04,BKN,TOR,14.67,2,9,20,TOR,TOR,fg_miss,6,True,False,,MISS Lowry 3' Driving Layup,36-31,36,31
+0021900524,2020-01-04,BKN,TOR,14.67,2,9,20,TOR,BKN,block,6,True,False,block,block,36-31,36,31
 0021900524,2020-01-04,BKN,TOR,14.67,2,9,20,BKN,BKN,reb,0,False,False,NETS Rebound,,36-31,36,31
 0021900524,2020-01-04,BKN,TOR,14.67,2,9,20,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 2 Short 0),,36-31,36,31
-0021900524,2020-01-04,BKN,TOR,14.67,2,9,20,TOR,BKN,block,6,True,False,block,block,36-31,36,31
 0021900524,2020-01-04,BKN,TOR,14.83,2,9,10,BKN,BKN,fg_miss,6,True,False,MISS Jordan 3' Driving Layup,,36-31,36,31
-0021900524,2020-01-04,BKN,TOR,14.83,2,9,10,TOR,TOR,reb,0,False,False,,Raptors Rebound,36-31,36,31
 0021900524,2020-01-04,BKN,TOR,14.83,2,9,10,BKN,TOR,block,6,True,False,block,block,36-31,36,31
+0021900524,2020-01-04,BKN,TOR,14.83,2,9,10,TOR,TOR,reb,0,False,False,,Raptors Rebound,36-31,36,31
 0021900524,2020-01-04,BKN,TOR,15.05,2,8,57,TOR,TOR,fg_miss,98,False,False,,MISS Boucher 2' Cutting Layup Shot,36-31,36,31
 0021900524,2020-01-04,BKN,TOR,15.07,2,8,56,BKN,BKN,reb,0,False,False,Jordan REBOUND (Off:0 Def:6),,36-31,36,31
 0021900524,2020-01-04,BKN,TOR,15.07,2,8,56,TOR,BKN,foul,4,False,False,Jordan OFF.Foul (P1) (K.Fitzgerald),,36-31,36,31
@@ -167,8 +167,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900524,2020-01-04,BKN,TOR,15.72,2,8,17,BKN,BKN,tov,40,False,False,Temple Out of Bounds Lost Ball Turnover (P1.T12),,36-31,36,31
 0021900524,2020-01-04,BKN,TOR,15.93,2,8,4,TOR,TOR,tov,4,False,False,,Davis Traveling Turnover (P2.T3),36-31,36,31
 0021900524,2020-01-04,BKN,TOR,16.23,2,7,46,BKN,BKN,fg3_miss,1,False,False,MISS Harris 25' 3PT Jump Shot,,36-31,36,31
-0021900524,2020-01-04,BKN,TOR,16.32,2,7,41,BKN,BKN,fg_make,107,False,False,Jordan 1' Tip Dunk Shot (4 PTS),,38-31,38,31
 0021900524,2020-01-04,BKN,TOR,16.32,2,7,41,BKN,BKN,reb,0,False,False,Jordan REBOUND (Off:1 Def:6),,38-31,38,31
+0021900524,2020-01-04,BKN,TOR,16.32,2,7,41,BKN,BKN,fg_make,107,False,False,Jordan 1' Tip Dunk Shot (4 PTS),,38-31,38,31
 0021900524,2020-01-04,BKN,TOR,16.53,2,7,28,TOR,TOR,fg_miss,6,False,False,,MISS Davis 5' Driving Layup,38-31,38,31
 0021900524,2020-01-04,BKN,TOR,16.57,2,7,26,BKN,BKN,reb,0,False,False,Jordan REBOUND (Off:1 Def:7),,38-31,38,31
 0021900524,2020-01-04,BKN,TOR,16.7,2,7,18,BKN,BKN,fg3_make,79,False,False,Harris 26' 3PT Pullup Jump Shot (11 PTS) (Jordan 2 AST),,41-31,41,31
@@ -197,9 +197,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900524,2020-01-04,BKN,TOR,19.22,2,4,47,BKN,BKN,fg_make,76,False,False,Dinwiddie 2' Running Finger Roll Layup (15 PTS),,47-34,47,34
 0021900524,2020-01-04,BKN,TOR,19.28,2,4,43,TOR,TOR,timeout,1,False,False,,Raptors Timeout: Regular (Reg.3 Short 0),47-34,47,34
 0021900524,2020-01-04,BKN,TOR,19.63,2,4,22,TOR,TOR,fg_miss,98,True,False,,MISS VanVleet 3' Cutting Layup Shot,47-34,47,34
+0021900524,2020-01-04,BKN,TOR,19.63,2,4,22,TOR,BKN,block,98,True,False,block,block,47-34,47,34
 0021900524,2020-01-04,BKN,TOR,19.63,2,4,22,TOR,TOR,reb,0,False,False,,Raptors Rebound,47-34,47,34
 0021900524,2020-01-04,BKN,TOR,19.63,2,4,22,TOR,TOR,tov,11,False,False,,Raptors Turnover: Shot Clock (T#5),47-34,47,34
-0021900524,2020-01-04,BKN,TOR,19.63,2,4,22,TOR,BKN,block,98,True,False,block,block,47-34,47,34
 0021900524,2020-01-04,BKN,TOR,19.88,2,4,7,BKN,BKN,fg_make,52,False,False,Allen 1' Alley Oop Dunk (6 PTS) (Temple 2 AST),,49-34,49,34
 0021900524,2020-01-04,BKN,TOR,20.08,2,3,55,TOR,TOR,fg_make,1,False,False,,Ibaka 13' Jump Shot (11 PTS) (VanVleet 3 AST),49-36,49,36
 0021900524,2020-01-04,BKN,TOR,20.37,2,3,38,BKN,BKN,fg3_make,1,False,False,Prince 25' 3PT Jump Shot (3 PTS) (Harris 3 AST),,52-36,52,36
@@ -220,9 +220,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900524,2020-01-04,BKN,TOR,23.22,2,0,47,TOR,TOR,fg_miss,73,False,False,,MISS VanVleet 1' Driving Reverse Layup,52-48,52,48
 0021900524,2020-01-04,BKN,TOR,23.25,2,0,45,TOR,TOR,reb,0,False,False,,Ibaka REBOUND (Off:4 Def:3),52-48,52,48
 0021900524,2020-01-04,BKN,TOR,23.25,2,0,45,TOR,TOR,fg_miss,72,True,False,,MISS Ibaka 1' Putback Layup,52-48,52,48
+0021900524,2020-01-04,BKN,TOR,23.25,2,0,45,TOR,BKN,block,72,True,False,block,block,52-48,52,48
 0021900524,2020-01-04,BKN,TOR,23.25,2,0,45,BKN,BKN,reb,0,False,False,Harris REBOUND (Off:0 Def:2),,52-48,52,48
 0021900524,2020-01-04,BKN,TOR,23.25,2,0,45,BKN,TOR,violation,5,False,False,,Anunoby Violation:Kicked Ball (K.Fitzgerald),52-48,52,48
-0021900524,2020-01-04,BKN,TOR,23.25,2,0,45,TOR,BKN,block,72,True,False,block,block,52-48,52,48
 0021900524,2020-01-04,BKN,TOR,23.47,2,0,32,BKN,BKN,fg3_miss,1,False,False,MISS Temple 3PT Jump Shot,,52-48,52,48
 0021900524,2020-01-04,BKN,TOR,23.6,2,0,24,TOR,TOR,reb,0,False,False,,VanVleet REBOUND (Off:0 Def:2),52-48,52,48
 0021900524,2020-01-04,BKN,TOR,23.95,2,0,3,TOR,TOR,fg_miss,3,False,False,,MISS Ibaka 6' Hook Shot,52-48,52,48
@@ -251,13 +251,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900524,2020-01-04,BKN,TOR,26.67,3,9,20,BKN,BKN,fg_make,41,False,False,Dinwiddie 1' Running Layup (17 PTS),,57-53,57,53
 0021900524,2020-01-04,BKN,TOR,27.1,3,8,54,TOR,TOR,fg_miss,44,False,False,,MISS Lowry 1' Reverse Layup,57-53,57,53
 0021900524,2020-01-04,BKN,TOR,27.1,3,8,54,BKN,BKN,reb,0,False,False,Allen REBOUND (Off:0 Def:4),,57-53,57,53
-0021900524,2020-01-04,BKN,TOR,27.1,3,8,54,BKN,TOR,foul,14,False,False,,Lowry FLAGRANT.FOUL.TYPE1 (P2.T3) (E.Scott),57-53,57,53
 0021900524,2020-01-04,BKN,TOR,27.1,3,8,54,BKN,TOR,foul,11,False,False,,Lowry T.FOUL (P2.T3) (K.Fitzgerald),57-53,57,53
+0021900524,2020-01-04,BKN,TOR,27.1,3,8,54,BKN,TOR,foul,14,False,False,,Lowry FLAGRANT.FOUL.TYPE1 (P2.T3) (E.Scott),57-53,57,53
 0021900524,2020-01-04,BKN,TOR,27.1,3,8,54,BKN,BKN,ft_make,16,False,False,Dinwiddie Free Throw Technical (18 PTS),,58-53,58,53
+0021900524,2020-01-04,BKN,TOR,27.1,3,8,54,BKN,TOR,foul,6,False,False,,Lowry AWAY.FROM.PLAY.FOUL (P3.T4) (K.Fitzgerald),59-53,59,53
 0021900524,2020-01-04,BKN,TOR,27.1,3,8,54,BKN,BKN,ft_make,18,False,False,Allen Free Throw Flagrant 1 of 2 (7 PTS),,59-53,59,53
 0021900524,2020-01-04,BKN,TOR,27.1,3,8,54,BKN,BKN,ft_miss,19,False,False,MISS Allen Free Throw Flagrant 2 of 2,,59-53,59,53
 0021900524,2020-01-04,BKN,TOR,27.1,3,8,54,BKN,BKN,reb,0,False,False,NETS Rebound,,59-53,59,53
-0021900524,2020-01-04,BKN,TOR,27.1,3,8,54,BKN,TOR,foul,6,False,False,,Lowry AWAY.FROM.PLAY.FOUL (P3.T4) (K.Fitzgerald),59-53,59,53
 0021900524,2020-01-04,BKN,TOR,27.1,3,8,54,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 3 Short 0),,59-53,59,53
 0021900524,2020-01-04,BKN,TOR,27.1,3,8,54,TOR,BKN,foul,11,False,False,Allen T.FOUL (P2.T1) (G.Petraitis),,59-53,59,53
 0021900524,2020-01-04,BKN,TOR,27.1,3,8,54,TOR,TOR,ft_make,16,False,False,,Lowry Free Throw Technical (7 PTS),59-54,59,54
@@ -318,8 +318,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900524,2020-01-04,BKN,TOR,33.88,3,2,7,TOR,TOR,fg3_miss,1,False,False,,MISS Boucher 25' 3PT Jump Shot,72-74,72,74
 0021900524,2020-01-04,BKN,TOR,33.95,3,2,3,TOR,TOR,reb,0,False,False,,Hollis-Jefferson REBOUND (Off:2 Def:1),72-74,72,74
 0021900524,2020-01-04,BKN,TOR,33.98,3,2,1,TOR,TOR,fg_miss,72,True,False,,MISS Hollis-Jefferson 3' Putback Layup,72-74,72,74
-0021900524,2020-01-04,BKN,TOR,33.98,3,2,1,TOR,TOR,reb,0,False,False,,Boucher REBOUND (Off:5 Def:1),72-74,72,74
 0021900524,2020-01-04,BKN,TOR,33.98,3,2,1,TOR,BKN,block,72,True,False,block,block,72-74,72,74
+0021900524,2020-01-04,BKN,TOR,33.98,3,2,1,TOR,TOR,reb,0,False,False,,Boucher REBOUND (Off:5 Def:1),72-74,72,74
 0021900524,2020-01-04,BKN,TOR,34.0,3,2,0,TOR,BKN,foul,2,False,False,Jordan S.FOUL (P2.T4) (G.Petraitis),,72-74,72,74
 0021900524,2020-01-04,BKN,TOR,34.0,3,2,0,TOR,TOR,ft_miss,11,False,False,,MISS Boucher Free Throw 1 of 2,72-74,72,74
 0021900524,2020-01-04,BKN,TOR,34.0,3,2,0,TOR,TOR,reb,1,False,False,,Raptors Rebound,72-74,72,74

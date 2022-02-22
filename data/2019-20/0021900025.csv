@@ -68,8 +68,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900025,2019-10-25,LAL,UTA,8.55,1,3,27,LAL,LAL,fg_miss,99,False,False,MISS Howard 4' Cutting Finger Roll Layup Shot,,14-15,14,15
 0021900025,2019-10-25,LAL,UTA,8.58,1,3,25,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:0 Def:2),14-15,14,15
 0021900025,2019-10-25,LAL,UTA,8.65,1,3,21,UTA,UTA,fg_miss,41,True,False,,MISS Mudiay 2' Running Layup,14-15,14,15
-0021900025,2019-10-25,LAL,UTA,8.65,1,3,21,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:0 Def:3),,14-15,14,15
 0021900025,2019-10-25,LAL,UTA,8.65,1,3,21,UTA,LAL,block,41,True,False,block,block,14-15,14,15
+0021900025,2019-10-25,LAL,UTA,8.65,1,3,21,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:0 Def:3),,14-15,14,15
 0021900025,2019-10-25,LAL,UTA,8.87,1,3,8,LAL,LAL,fg_make,80,False,False,Davis 17' Step Back Jump Shot (6 PTS),,16-15,16,15
 0021900025,2019-10-25,LAL,UTA,9.17,1,2,50,UTA,UTA,tov,1,False,True,,Mudiay Bad Pass Turnover (P2.T5),16-15,16,15
 0021900025,2019-10-25,LAL,UTA,9.17,1,2,50,UTA,LAL,steal,1,False,True,steal,steal,16-15,16,15
@@ -126,9 +126,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900025,2019-10-25,LAL,UTA,14.38,2,9,37,LAL,LAL,fg_make,6,False,False,James 3' Driving Layup (7 PTS),,29-19,29,19
 0021900025,2019-10-25,LAL,UTA,14.48,2,9,31,LAL,,foul,10,False,False,,,29-19,29,19
 0021900025,2019-10-25,LAL,UTA,14.82,2,9,11,UTA,UTA,fg_miss,101,True,False,,MISS Conley 4' Driving Floating Jump Shot,29-19,29,19
+0021900025,2019-10-25,LAL,UTA,14.82,2,9,11,UTA,LAL,block,101,True,False,block,block,29-19,29,19
 0021900025,2019-10-25,LAL,UTA,14.82,2,9,11,UTA,UTA,reb,0,False,False,,Jazz Rebound,29-19,29,19
 0021900025,2019-10-25,LAL,UTA,14.82,2,9,11,UTA,UTA,tov,11,False,False,,Jazz Turnover: Shot Clock (T#9),29-19,29,19
-0021900025,2019-10-25,LAL,UTA,14.82,2,9,11,UTA,LAL,block,101,True,False,block,block,29-19,29,19
 0021900025,2019-10-25,LAL,UTA,15.05,2,8,57,LAL,LAL,fg_miss,79,False,False,MISS Caldwell-Pope 13' Pullup Jump Shot,,29-19,29,19
 0021900025,2019-10-25,LAL,UTA,15.12,2,8,53,LAL,LAL,reb,0,False,False,Howard REBOUND (Off:3 Def:3),,29-19,29,19
 0021900025,2019-10-25,LAL,UTA,15.13,2,8,52,LAL,LAL,tov,2,False,True,Howard Lost Ball Turnover (P2.T5),,29-19,29,19
@@ -145,8 +145,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900025,2019-10-25,LAL,UTA,16.17,2,7,50,UTA,UTA,fg3_make,1,False,False,,O'Neale 25' 3PT Jump Shot (3 PTS) (Mudiay 1 AST),29-22,29,22
 0021900025,2019-10-25,LAL,UTA,16.42,2,7,35,LAL,LAL,fg3_make,79,False,False,Bradley 27' 3PT Pullup Jump Shot (5 PTS),,32-22,32,22
 0021900025,2019-10-25,LAL,UTA,16.67,2,7,20,UTA,UTA,tov,2,False,True,,Mudiay Lost Ball Turnover (P3.T11),32-22,32,22
-0021900025,2019-10-25,LAL,UTA,16.67,2,7,20,LAL,UTA,foul,14,False,False,,Mudiay FLAGRANT.FOUL.TYPE1 (P1.T2) (L.Wood),32-22,32,22
 0021900025,2019-10-25,LAL,UTA,16.67,2,7,20,UTA,LAL,steal,2,False,True,steal,steal,32-22,32,22
+0021900025,2019-10-25,LAL,UTA,16.67,2,7,20,LAL,UTA,foul,14,False,False,,Mudiay FLAGRANT.FOUL.TYPE1 (P1.T2) (L.Wood),32-22,32,22
 0021900025,2019-10-25,LAL,UTA,16.67,2,7,20,LAL,LAL,ft_make,18,False,False,Bradley Free Throw Flagrant 1 of 2 (6 PTS),,33-22,33,22
 0021900025,2019-10-25,LAL,UTA,16.67,2,7,20,LAL,LAL,ft_make,19,False,False,Bradley Free Throw Flagrant 2 of 2 (7 PTS),,34-22,34,22
 0021900025,2019-10-25,LAL,UTA,16.83,2,7,10,LAL,LAL,fg_miss,79,False,False,MISS Bradley 15' Pullup Jump Shot,,34-22,34,22
@@ -191,8 +191,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900025,2019-10-25,LAL,UTA,20.68,2,3,19,UTA,UTA,reb,0,False,False,,Ingles REBOUND (Off:0 Def:1),34-28,34,28
 0021900025,2019-10-25,LAL,UTA,20.83,2,3,10,UTA,UTA,fg_miss,51,True,False,,MISS Gobert 2' Reverse Dunk,34-28,34,28
 0021900025,2019-10-25,LAL,UTA,20.83,2,3,10,UTA,LAL,block,51,True,False,block,block,34-28,34,28
-0021900025,2019-10-25,LAL,UTA,20.93,2,3,4,UTA,UTA,reb,0,False,False,,Jazz Rebound,34-28,34,28
 0021900025,2019-10-25,LAL,UTA,20.93,2,3,4,,LAL,jump_ball,0,False,False,Jump Ball Davis vs. Gobert: Tip to Ingles,,34-28,34,28
+0021900025,2019-10-25,LAL,UTA,20.93,2,3,4,UTA,UTA,reb,0,False,False,,Jazz Rebound,34-28,34,28
 0021900025,2019-10-25,LAL,UTA,20.97,2,3,2,UTA,LAL,foul,1,False,False,Green P.FOUL (P2.T4) (K.Cutler),,34-28,34,28
 0021900025,2019-10-25,LAL,UTA,20.97,2,3,2,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.2 Short 0),34-28,34,28
 0021900025,2019-10-25,LAL,UTA,21.08,2,2,55,UTA,LAL,foul,1,False,False,Bradley P.FOUL (P1.PN) (K.Cutler),,34-28,34,28
@@ -376,8 +376,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900025,2019-10-25,LAL,UTA,40.75,4,7,15,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 4 Short 0),,81-68,81,68
 0021900025,2019-10-25,LAL,UTA,41.05,4,6,57,LAL,LAL,fg_make,79,False,False,Daniels 11' Pullup Jump Shot (14 PTS) (James 10 AST),,83-68,83,68
 0021900025,2019-10-25,LAL,UTA,41.32,4,6,41,UTA,UTA,fg_miss,101,True,False,,MISS Mitchell 3' Driving Floating Jump Shot,83-68,83,68
-0021900025,2019-10-25,LAL,UTA,41.32,4,6,41,UTA,UTA,reb,0,False,False,,Jazz Rebound,83-68,83,68
 0021900025,2019-10-25,LAL,UTA,41.32,4,6,41,UTA,LAL,block,101,True,False,block,block,83-68,83,68
+0021900025,2019-10-25,LAL,UTA,41.32,4,6,41,UTA,UTA,reb,0,False,False,,Jazz Rebound,83-68,83,68
 0021900025,2019-10-25,LAL,UTA,41.52,4,6,29,UTA,UTA,fg3_miss,1,False,False,,MISS O'Neale 25' 3PT Jump Shot,83-68,83,68
 0021900025,2019-10-25,LAL,UTA,41.57,4,6,26,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:0 Def:7),,83-68,83,68
 0021900025,2019-10-25,LAL,UTA,41.92,4,6,5,LAL,LAL,fg_make,86,False,False,James 9' Turnaround Fadeaway (28 PTS),,85-68,85,68

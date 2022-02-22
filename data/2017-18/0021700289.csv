@@ -36,8 +36,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700289,2017-11-26,MEM,BKN,4.27,1,7,44,MEM,MEM,fg3_miss,2,False,False,MISS Gasol 26' 3PT Running Jump Shot,,9-6,9,6
 0021700289,2017-11-26,MEM,BKN,4.27,1,7,44,MEM,MEM,reb,0,False,False,Green REBOUND (Off:1 Def:1),,9-6,9,6
 0021700289,2017-11-26,MEM,BKN,4.32,1,7,41,MEM,MEM,fg_miss,72,True,False,MISS Green 1' Putback Layup,,9-6,9,6
-0021700289,2017-11-26,MEM,BKN,4.32,1,7,41,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,9-6,9,6
 0021700289,2017-11-26,MEM,BKN,4.32,1,7,41,MEM,BKN,block,72,True,False,block,block,9-6,9,6
+0021700289,2017-11-26,MEM,BKN,4.32,1,7,41,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,9-6,9,6
 0021700289,2017-11-26,MEM,BKN,4.52,1,7,29,MEM,MEM,fg_make,105,False,False,Gasol 3' Turnaround Fadeaway Bank Jump Shot (6 PTS),,11-6,11,6
 0021700289,2017-11-26,MEM,BKN,4.82,1,7,11,MEM,BKN,foul,4,False,False,,Hollis-Jefferson OFF.Foul (P1) (C.Kirkland),11-6,11,6
 0021700289,2017-11-26,MEM,BKN,4.82,1,7,11,BKN,BKN,tov,37,False,False,,Hollis-Jefferson Offensive Foul Turnover (P1.T3),11-6,11,6
@@ -66,8 +66,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700289,2017-11-26,MEM,BKN,8.4,1,3,36,MEM,MEM,fg3_miss,1,False,False,MISS McLemore 25' 3PT Jump Shot,,17-12,17,12
 0021700289,2017-11-26,MEM,BKN,8.45,1,3,33,MEM,MEM,reb,0,False,False,Brooks REBOUND (Off:1 Def:0),,17-12,17,12
 0021700289,2017-11-26,MEM,BKN,8.45,1,3,33,MEM,MEM,fg_miss,72,True,False,MISS Brooks 1' Putback Layup,,17-12,17,12
-0021700289,2017-11-26,MEM,BKN,8.45,1,3,33,BKN,BKN,reb,0,False,False,,Nets Rebound,17-12,17,12
 0021700289,2017-11-26,MEM,BKN,8.45,1,3,33,MEM,BKN,block,72,True,False,block,block,17-12,17,12
+0021700289,2017-11-26,MEM,BKN,8.45,1,3,33,BKN,BKN,reb,0,False,False,,Nets Rebound,17-12,17,12
 0021700289,2017-11-26,MEM,BKN,8.62,1,3,23,BKN,BKN,tov,1,False,True,,LeVert Bad Pass Turnover (P1.T5),17-12,17,12
 0021700289,2017-11-26,MEM,BKN,8.62,1,3,23,BKN,MEM,steal,1,False,True,steal,steal,17-12,17,12
 0021700289,2017-11-26,MEM,BKN,8.77,1,3,14,MEM,MEM,tov,1,False,True,McLemore Bad Pass Turnover (P1.T4),,17-12,17,12
@@ -82,8 +82,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700289,2017-11-26,MEM,BKN,10.38,1,1,37,BKN,BKN,fg_miss,1,False,False,,MISS Kilpatrick 22' Jump Shot,20-12,20,12
 0021700289,2017-11-26,MEM,BKN,10.42,1,1,35,BKN,BKN,reb,0,False,False,,Allen REBOUND (Off:1 Def:0),20-12,20,12
 0021700289,2017-11-26,MEM,BKN,10.43,1,1,34,BKN,BKN,fg_miss,5,True,False,,MISS Allen 1' Layup,20-12,20,12
-0021700289,2017-11-26,MEM,BKN,10.43,1,1,34,MEM,MEM,reb,0,False,False,Evans REBOUND (Off:0 Def:1),,20-12,20,12
 0021700289,2017-11-26,MEM,BKN,10.43,1,1,34,BKN,MEM,block,5,True,False,block,block,20-12,20,12
+0021700289,2017-11-26,MEM,BKN,10.43,1,1,34,MEM,MEM,reb,0,False,False,Evans REBOUND (Off:0 Def:1),,20-12,20,12
 0021700289,2017-11-26,MEM,BKN,10.52,1,1,29,MEM,MEM,fg_miss,5,False,False,MISS Evans 1' Layup,,20-12,20,12
 0021700289,2017-11-26,MEM,BKN,10.52,1,1,29,BKN,BKN,reb,0,False,False,,Allen REBOUND (Off:1 Def:1),20-12,20,12
 0021700289,2017-11-26,MEM,BKN,10.63,1,1,22,BKN,BKN,fg3_miss,1,False,False,,MISS LeVert 3PT Jump Shot,20-12,20,12
@@ -325,8 +325,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700289,2017-11-26,MEM,BKN,36.3,4,11,42,MEM,MEM,fg_make,3,False,False,Green 5' Hook Shot (6 PTS),,67-79,67,79
 0021700289,2017-11-26,MEM,BKN,36.65,4,11,21,BKN,BKN,fg3_make,1,False,False,,Kilpatrick 3PT Jump Shot (8 PTS) (Carroll 2 AST),67-82,67,82
 0021700289,2017-11-26,MEM,BKN,36.83,4,11,10,MEM,MEM,tov,1,False,True,Harrison Bad Pass Turnover (P2.T13),,67-82,67,82
-0021700289,2017-11-26,MEM,BKN,36.83,4,11,10,BKN,MEM,foul,1,False,False,Harrison P.FOUL (P3.T1) (M.Boland),,67-82,67,82
 0021700289,2017-11-26,MEM,BKN,36.83,4,11,10,MEM,BKN,steal,1,False,True,steal,steal,67-82,67,82
+0021700289,2017-11-26,MEM,BKN,36.83,4,11,10,BKN,MEM,foul,1,False,False,Harrison P.FOUL (P3.T1) (M.Boland),,67-82,67,82
 0021700289,2017-11-26,MEM,BKN,37.22,4,10,47,BKN,BKN,fg3_miss,1,False,False,,MISS Mozgov 3PT Jump Shot,67-82,67,82
 0021700289,2017-11-26,MEM,BKN,37.28,4,10,43,MEM,MEM,reb,0,False,False,Davis REBOUND (Off:0 Def:2),,67-82,67,82
 0021700289,2017-11-26,MEM,BKN,37.42,4,10,35,MEM,MEM,fg_make,79,False,False,McLemore 22' Pullup Jump Shot (4 PTS),,69-82,69,82
@@ -343,8 +343,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700289,2017-11-26,MEM,BKN,39.58,4,8,25,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,75-82,75,82
 0021700289,2017-11-26,MEM,BKN,39.58,4,8,25,MEM,BKN,foul,3,False,False,,Mozgov L.B.FOUL (P2.T1) (T.Maddox),75-82,75,82
 0021700289,2017-11-26,MEM,BKN,39.87,4,8,8,MEM,MEM,fg_miss,6,True,False,MISS Ennis III 9' Driving Layup,,75-82,75,82
-0021700289,2017-11-26,MEM,BKN,39.87,4,8,8,MEM,MEM,reb,0,False,False,Evans REBOUND (Off:1 Def:4),,75-82,75,82
 0021700289,2017-11-26,MEM,BKN,39.87,4,8,8,MEM,BKN,block,6,True,False,block,block,75-82,75,82
+0021700289,2017-11-26,MEM,BKN,39.87,4,8,8,MEM,MEM,reb,0,False,False,Evans REBOUND (Off:1 Def:4),,75-82,75,82
 0021700289,2017-11-26,MEM,BKN,39.95,4,8,3,MEM,MEM,fg_make,78,False,False,Ennis III 13' Floating Jump Shot (2 PTS) (Evans 3 AST),,77-82,77,82
 0021700289,2017-11-26,MEM,BKN,40.22,4,7,47,BKN,MEM,foul,1,False,False,Green P.FOUL (P3.T2) (M.Boland),,77-82,77,82
 0021700289,2017-11-26,MEM,BKN,40.33,4,7,40,BKN,MEM,foul,2,False,False,Davis S.FOUL (P2.T3) (C.Kirkland),,77-82,77,82

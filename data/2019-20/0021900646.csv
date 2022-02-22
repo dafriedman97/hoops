@@ -49,9 +49,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900646,2020-01-20,MEM,NOP,4.72,1,7,17,MEM,MEM,fg_make,58,False,False,Valanciunas 6' Turnaround Hook Shot (4 PTS) (Morant 3 AST),,16-14,16,14
 0021900646,2020-01-20,MEM,NOP,4.93,1,7,4,NOP,NOP,fg_make,9,False,False,,Holiday 1' Driving Dunk (8 PTS),16-16,16,16
 0021900646,2020-01-20,MEM,NOP,5.15,1,6,51,MEM,MEM,fg_miss,6,True,False,MISS Morant 5' Driving Layup,,16-16,16,16
+0021900646,2020-01-20,MEM,NOP,5.15,1,6,51,MEM,NOP,block,6,True,False,block,block,16-16,16,16
 0021900646,2020-01-20,MEM,NOP,5.15,1,6,51,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,16-16,16,16
 0021900646,2020-01-20,MEM,NOP,5.15,1,6,51,MEM,MEM,timeout,1,False,False,GRIZZLIES Timeout: Regular (Full 1 Short 0),,16-16,16,16
-0021900646,2020-01-20,MEM,NOP,5.15,1,6,51,MEM,NOP,block,6,True,False,block,block,16-16,16,16
 0021900646,2020-01-20,MEM,NOP,5.3,1,6,42,MEM,MEM,fg_miss,79,False,False,MISS Brooks 11' Pullup Jump Shot,,16-16,16,16
 0021900646,2020-01-20,MEM,NOP,5.37,1,6,38,MEM,MEM,reb,0,False,False,Brooks REBOUND (Off:2 Def:0),,16-16,16,16
 0021900646,2020-01-20,MEM,NOP,5.37,1,6,38,MEM,MEM,fg_miss,97,False,False,MISS Brooks 3' Tip Layup Shot,,16-16,16,16
@@ -150,8 +150,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900646,2020-01-20,MEM,NOP,15.92,2,8,5,MEM,MEM,fg_miss,6,False,False,MISS Morant 1' Driving Layup,,37-42,37,42
 0021900646,2020-01-20,MEM,NOP,15.92,2,8,5,MEM,MEM,reb,0,False,False,Valanciunas REBOUND (Off:1 Def:4),,37-42,37,42
 0021900646,2020-01-20,MEM,NOP,15.95,2,8,3,MEM,MEM,fg_miss,58,True,False,MISS Valanciunas 1' Turnaround Hook Shot,,37-42,37,42
-0021900646,2020-01-20,MEM,NOP,15.95,2,8,3,NOP,NOP,reb,0,False,False,,Moore REBOUND (Off:0 Def:1),37-42,37,42
 0021900646,2020-01-20,MEM,NOP,15.95,2,8,3,MEM,NOP,block,58,True,False,block,block,37-42,37,42
+0021900646,2020-01-20,MEM,NOP,15.95,2,8,3,NOP,NOP,reb,0,False,False,,Moore REBOUND (Off:0 Def:1),37-42,37,42
 0021900646,2020-01-20,MEM,NOP,16.1,2,7,54,NOP,NOP,fg3_make,2,False,False,,Melli 27' 3PT Running Jump Shot (11 PTS) (Moore 1 AST),37-45,37,45
 0021900646,2020-01-20,MEM,NOP,16.13,2,7,52,MEM,MEM,timeout,1,False,False,GRIZZLIES Timeout: Regular (Full 3 Short 0),,37-45,37,45
 0021900646,2020-01-20,MEM,NOP,16.45,2,7,33,MEM,MEM,fg3_miss,1,False,False,MISS S. Hill 25' 3PT Jump Shot,,37-45,37,45
@@ -209,8 +209,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900646,2020-01-20,MEM,NOP,21.75,2,2,15,MEM,MEM,fg_make,63,False,False,Brooks 7' Fadeaway Jumper (13 PTS),,48-61,48,61
 0021900646,2020-01-20,MEM,NOP,21.97,2,2,2,NOP,NOP,fg3_make,80,False,False,,Holiday 3PT Step Back Jump Shot (19 PTS),48-64,48,64
 0021900646,2020-01-20,MEM,NOP,22.25,2,1,45,MEM,MEM,fg_miss,75,True,False,MISS Brooks 6' Driving Finger Roll Layup,,48-64,48,64
-0021900646,2020-01-20,MEM,NOP,22.25,2,1,45,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,48-64,48,64
 0021900646,2020-01-20,MEM,NOP,22.25,2,1,45,MEM,NOP,block,75,True,False,block,block,48-64,48,64
+0021900646,2020-01-20,MEM,NOP,22.25,2,1,45,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,48-64,48,64
 0021900646,2020-01-20,MEM,NOP,22.4,2,1,36,MEM,MEM,fg3_miss,1,False,False,MISS Crowder 28' 3PT Jump Shot,,48-64,48,64
 0021900646,2020-01-20,MEM,NOP,22.45,2,1,33,NOP,NOP,reb,0,False,False,,Ball REBOUND (Off:1 Def:4),48-64,48,64
 0021900646,2020-01-20,MEM,NOP,22.57,2,1,26,NOP,NOP,fg_miss,43,False,False,,MISS Ball Alley Oop Layup,48-64,48,64
@@ -236,8 +236,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900646,2020-01-20,MEM,NOP,24.37,3,11,38,MEM,MEM,fg3_make,2,False,False,Jackson Jr. 26' 3PT Running Jump Shot (14 PTS) (Morant 5 AST),,53-69,53,69
 0021900646,2020-01-20,MEM,NOP,24.63,3,11,22,NOP,NOP,fg_miss,9,True,False,,MISS Ingram 2' Driving Dunk,53-69,53,69
 0021900646,2020-01-20,MEM,NOP,24.63,3,11,22,NOP,MEM,block,9,True,False,block,block,53-69,53,69
-0021900646,2020-01-20,MEM,NOP,24.67,3,11,20,NOP,NOP,reb,0,False,False,,Pelicans Rebound,53-69,53,69
 0021900646,2020-01-20,MEM,NOP,24.67,3,11,20,,MEM,jump_ball,0,False,False,,,53-69,53,69
+0021900646,2020-01-20,MEM,NOP,24.67,3,11,20,NOP,NOP,reb,0,False,False,,Pelicans Rebound,53-69,53,69
 0021900646,2020-01-20,MEM,NOP,24.75,3,11,15,NOP,MEM,foul,1,False,False,Morant P.FOUL (P1.T1) (B.Adair),,53-69,53,69
 0021900646,2020-01-20,MEM,NOP,24.82,3,11,11,NOP,NOP,fg3_miss,1,False,False,,MISS Melli 26' 3PT Jump Shot,53-69,53,69
 0021900646,2020-01-20,MEM,NOP,24.85,3,11,9,MEM,MEM,reb,0,False,False,Crowder REBOUND (Off:3 Def:1),,53-69,53,69
@@ -376,8 +376,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900646,2020-01-20,MEM,NOP,39.25,4,8,45,MEM,MEM,fg_make,75,False,False,Morant 1' Driving Finger Roll Layup (5 PTS),,86-106,86,106
 0021900646,2020-01-20,MEM,NOP,39.48,4,8,31,NOP,NOP,fg_make,99,False,False,,Melli Cutting Finger Roll Layup Shot (15 PTS) (Moore 2 AST),86-108,86,108
 0021900646,2020-01-20,MEM,NOP,39.65,4,8,21,MEM,MEM,fg_miss,75,False,False,MISS Brooks 3' Driving Finger Roll Layup,,86-108,86,108
-0021900646,2020-01-20,MEM,NOP,39.7,4,8,18,MEM,MEM,fg_make,72,False,False,Valanciunas 1' Putback Layup (10 PTS),,88-108,88,108
 0021900646,2020-01-20,MEM,NOP,39.7,4,8,18,MEM,MEM,reb,0,False,False,Valanciunas REBOUND (Off:2 Def:5),,88-108,88,108
+0021900646,2020-01-20,MEM,NOP,39.7,4,8,18,MEM,MEM,fg_make,72,False,False,Valanciunas 1' Putback Layup (10 PTS),,88-108,88,108
 0021900646,2020-01-20,MEM,NOP,40.0,4,8,0,NOP,NOP,fg3_miss,1,False,False,,MISS Melli 25' 3PT Jump Shot,88-108,88,108
 0021900646,2020-01-20,MEM,NOP,40.03,4,7,58,MEM,MEM,reb,0,False,False,Jackson Jr. REBOUND (Off:0 Def:6),,88-108,88,108
 0021900646,2020-01-20,MEM,NOP,40.13,4,7,52,MEM,MEM,fg_make,75,False,False,Morant 1' Driving Finger Roll Layup (7 PTS),,90-108,90,108

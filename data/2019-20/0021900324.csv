@@ -35,8 +35,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900324,2019-12-06,MIA,WAS,4.4,1,7,36,WAS,WAS,fg3_make,1,False,False,,Wagner 26' 3PT Jump Shot (5 PTS) (Bonga 1 AST),6-12,6,12
 0021900324,2019-12-06,MIA,WAS,4.67,1,7,20,MIA,MIA,fg3_make,1,False,False,Nunn 25' 3PT Jump Shot (3 PTS) (Butler 1 AST),,9-12,9,12
 0021900324,2019-12-06,MIA,WAS,4.87,1,7,8,WAS,WAS,fg_miss,98,True,False,,MISS Wagner 1' Cutting Layup Shot,9-12,9,12
-0021900324,2019-12-06,MIA,WAS,4.87,1,7,8,WAS,WAS,reb,0,False,False,,Wizards Rebound,9-12,9,12
 0021900324,2019-12-06,MIA,WAS,4.87,1,7,8,WAS,MIA,block,98,True,False,block,block,9-12,9,12
+0021900324,2019-12-06,MIA,WAS,4.87,1,7,8,WAS,WAS,reb,0,False,False,,Wizards Rebound,9-12,9,12
 0021900324,2019-12-06,MIA,WAS,4.93,1,7,4,WAS,WAS,fg3_make,63,False,False,,Beal 3PT Fadeaway Jumper (5 PTS) (Bonga 2 AST),9-15,9,15
 0021900324,2019-12-06,MIA,WAS,5.17,1,6,50,MIA,MIA,fg_make,1,False,False,Adebayo 10' Jump Shot (6 PTS) (Nunn 2 AST),,11-15,11,15
 0021900324,2019-12-06,MIA,WAS,5.5,1,6,30,WAS,WAS,tov,40,False,False,,Wagner Out of Bounds Lost Ball Turnover (P1.T1),11-15,11,15
@@ -120,9 +120,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900324,2019-12-06,MIA,WAS,13.4,2,10,36,WAS,WAS,reb,0,False,False,,Bertans REBOUND (Off:0 Def:1),29-37,29,37
 0021900324,2019-12-06,MIA,WAS,13.6,2,10,24,WAS,WAS,fg3_make,79,False,False,,Bertans 26' 3PT Pullup Jump Shot (9 PTS) (Brown Jr. 2 AST),29-40,29,40
 0021900324,2019-12-06,MIA,WAS,13.95,2,10,3,MIA,MIA,fg_miss,5,True,False,MISS Olynyk 3' Layup,,29-40,29,40
+0021900324,2019-12-06,MIA,WAS,13.95,2,10,3,MIA,WAS,block,5,True,False,block,block,29-40,29,40
 0021900324,2019-12-06,MIA,WAS,13.95,2,10,3,MIA,MIA,reb,0,False,False,Olynyk REBOUND (Off:1 Def:0),,29-40,29,40
 0021900324,2019-12-06,MIA,WAS,13.95,2,10,3,MIA,WAS,foul,2,False,False,,Bonga S.FOUL (P3.T2) (L.Richardson),29-40,29,40
-0021900324,2019-12-06,MIA,WAS,13.95,2,10,3,MIA,WAS,block,5,True,False,block,block,29-40,29,40
 0021900324,2019-12-06,MIA,WAS,13.95,2,10,3,MIA,MIA,ft_make,11,False,False,Olynyk Free Throw 1 of 2 (6 PTS),,30-40,30,40
 0021900324,2019-12-06,MIA,WAS,13.95,2,10,3,MIA,MIA,ft_make,12,False,False,Olynyk Free Throw 2 of 2 (7 PTS),,31-40,31,40
 0021900324,2019-12-06,MIA,WAS,14.38,2,9,37,WAS,WAS,fg3_miss,1,False,False,,MISS Bertans 26' 3PT Jump Shot,31-40,31,40
@@ -171,9 +171,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900324,2019-12-06,MIA,WAS,19.68,2,4,19,WAS,WAS,tov,45,False,False,,Smith Out of Bounds - Bad Pass Turnover Turnover (P1.T5),49-55,49,55
 0021900324,2019-12-06,MIA,WAS,19.87,2,4,8,MIA,MIA,fg_make,75,False,False,Butler 1' Driving Finger Roll Layup (14 PTS),,51-55,51,55
 0021900324,2019-12-06,MIA,WAS,20.12,2,3,53,WAS,WAS,fg_make,5,False,False,,Wagner 1' Layup (11 PTS) (Beal 4 AST),51-57,51,57
-0021900324,2019-12-06,MIA,WAS,20.12,2,3,53,WAS,,foul,18,False,False,,,51-57,51,57
 0021900324,2019-12-06,MIA,WAS,20.12,2,3,53,MIA,MIA,ft_miss,16,False,False,MISS Butler Free Throw Technical,,51-57,51,57
 0021900324,2019-12-06,MIA,WAS,20.12,2,3,53,MIA,MIA,reb,1,False,False,HEAT Rebound,,51-57,51,57
+0021900324,2019-12-06,MIA,WAS,20.12,2,3,53,WAS,,foul,18,False,False,,,51-57,51,57
 0021900324,2019-12-06,MIA,WAS,20.32,2,3,41,MIA,MIA,fg3_miss,1,False,False,MISS Butler 25' 3PT Jump Shot,,51-57,51,57
 0021900324,2019-12-06,MIA,WAS,20.38,2,3,37,WAS,WAS,reb,0,False,False,,Beal REBOUND (Off:0 Def:2),51-57,51,57
 0021900324,2019-12-06,MIA,WAS,20.78,2,3,13,WAS,WAS,fg_miss,1,False,False,,MISS Smith 20' Jump Shot,51-57,51,57
@@ -196,8 +196,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900324,2019-12-06,MIA,WAS,22.45,2,1,33,WAS,MIA,block,5,True,False,block,block,56-57,56,57
 0021900324,2019-12-06,MIA,WAS,22.52,2,1,29,WAS,WAS,reb,0,False,False,,Wagner REBOUND (Off:1 Def:1),56-57,56,57
 0021900324,2019-12-06,MIA,WAS,22.53,2,1,28,WAS,WAS,fg_miss,1,True,False,,MISS Wagner 11' Jump Shot,56-57,56,57
-0021900324,2019-12-06,MIA,WAS,22.53,2,1,28,MIA,MIA,reb,0,False,False,Robinson REBOUND (Off:0 Def:2),,56-57,56,57
 0021900324,2019-12-06,MIA,WAS,22.53,2,1,28,WAS,MIA,block,1,True,False,block,block,56-57,56,57
+0021900324,2019-12-06,MIA,WAS,22.53,2,1,28,MIA,MIA,reb,0,False,False,Robinson REBOUND (Off:0 Def:2),,56-57,56,57
 0021900324,2019-12-06,MIA,WAS,22.82,2,1,11,MIA,MIA,fg3_make,63,False,False,Herro 3PT Fadeaway Jumper (13 PTS) (Butler 7 AST),,59-57,59,57
 0021900324,2019-12-06,MIA,WAS,23.17,2,0,50,WAS,WAS,fg_make,73,False,False,,Beal 1' Driving Reverse Layup (11 PTS) (Smith 4 AST),59-59,59,59
 0021900324,2019-12-06,MIA,WAS,23.37,2,0,38,MIA,WAS,foul,2,False,False,,Beal S.FOUL (P1.T4) (K.Mauer),59-59,59,59
@@ -265,8 +265,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900324,2019-12-06,MIA,WAS,30.42,3,5,35,WAS,MIA,foul,3,False,False,Adebayo L.B.FOUL (P2.T2) (C.Kirkland),,78-75,78,75
 0021900324,2019-12-06,MIA,WAS,30.68,3,5,19,WAS,WAS,fg3_make,1,False,False,,Beal 26' 3PT Jump Shot (19 PTS) (Smith 7 AST),78-78,78,78
 0021900324,2019-12-06,MIA,WAS,30.82,3,5,11,MIA,MIA,fg_miss,5,True,False,MISS Jones Jr. 5' Layup,,78-78,78,78
-0021900324,2019-12-06,MIA,WAS,30.82,3,5,11,WAS,WAS,reb,0,False,False,,Wagner REBOUND (Off:1 Def:4),78-78,78,78
 0021900324,2019-12-06,MIA,WAS,30.82,3,5,11,MIA,WAS,block,5,True,False,block,block,78-78,78,78
+0021900324,2019-12-06,MIA,WAS,30.82,3,5,11,WAS,WAS,reb,0,False,False,,Wagner REBOUND (Off:1 Def:4),78-78,78,78
 0021900324,2019-12-06,MIA,WAS,30.87,3,5,8,WAS,WAS,tov,2,False,True,,Beal Lost Ball Turnover (P4.T7),78-78,78,78
 0021900324,2019-12-06,MIA,WAS,30.87,3,5,8,WAS,MIA,steal,2,False,True,steal,steal,78-78,78,78
 0021900324,2019-12-06,MIA,WAS,30.92,3,5,5,MIA,WAS,foul,2,False,False,,Beal S.FOUL (P3.T4) (C.Kirkland),78-78,78,78

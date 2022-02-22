@@ -102,8 +102,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900682,2020-01-25,CLE,CHI,12.0,1,0,0,CHI,CHI,fg_miss,79,False,False,,MISS LaVine 18' Pullup Jump Shot,31-25,31,25
 0021900682,2020-01-25,CLE,CHI,12.0,1,0,0,CHI,CHI,reb,0,False,False,,Bulls Rebound,31-25,31,25
 0021900682,2020-01-25,CLE,CHI,12.0,1,0,0,CHI,,period_end,0,False,False,,,31-25,31,25
-0021900682,2020-01-25,CLE,CHI,12.0,2,12,0,CHI,,period_start,0,False,False,,,31-25,31,25
 0021900682,2020-01-25,CLE,CHI,12.0,2,12,0,CHI,,foul,18,False,False,,,31-25,31,25
+0021900682,2020-01-25,CLE,CHI,12.0,2,12,0,CHI,,period_start,0,False,False,,,31-25,31,25
 0021900682,2020-01-25,CLE,CHI,12.0,2,12,0,CHI,CHI,ft_miss,16,False,False,,MISS Arcidiacono Free Throw Technical,31-25,31,25
 0021900682,2020-01-25,CLE,CHI,12.0,2,12,0,CLE,CLE,reb,1,False,False,CAVALIERS Rebound,,31-25,31,25
 0021900682,2020-01-25,CLE,CHI,12.18,2,11,49,CLE,CLE,fg_make,66,False,False,Nance Jr. 9' Jump Bank Shot (2 PTS) (Exum 2 AST),,33-25,33,25
@@ -189,8 +189,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900682,2020-01-25,CLE,CHI,21.67,2,2,20,CHI,CHI,fg3_miss,79,False,False,,MISS LaVine 26' 3PT Pullup Jump Shot,55-53,55,53
 0021900682,2020-01-25,CLE,CHI,21.7,2,2,18,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,55-53,55,53
 0021900682,2020-01-25,CLE,CHI,22.02,2,1,59,CLE,CLE,tov,2,False,True,Thompson Lost Ball Turnover (P1.T8),,55-53,55,53
-0021900682,2020-01-25,CLE,CHI,22.02,2,1,59,CHI,CLE,foul,1,False,False,Thompson P.FOUL (P1.PN) (B.Adair),,55-53,55,53
 0021900682,2020-01-25,CLE,CHI,22.02,2,1,59,CLE,CHI,steal,2,False,True,steal,steal,55-53,55,53
+0021900682,2020-01-25,CLE,CHI,22.02,2,1,59,CHI,CLE,foul,1,False,False,Thompson P.FOUL (P1.PN) (B.Adair),,55-53,55,53
 0021900682,2020-01-25,CLE,CHI,22.02,2,1,59,CHI,CHI,ft_make,11,False,False,,Dunn Free Throw 1 of 2 (7 PTS),55-54,55,54
 0021900682,2020-01-25,CLE,CHI,22.02,2,1,59,CHI,CHI,ft_make,12,False,False,,Dunn Free Throw 2 of 2 (8 PTS),55-55,55,55
 0021900682,2020-01-25,CLE,CHI,22.28,2,1,43,CLE,CLE,fg_miss,63,False,False,MISS Sexton 7' Fadeaway Jumper,,55-55,55,55
@@ -316,9 +316,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900682,2020-01-25,CLE,CHI,37.87,4,10,8,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.3 Short 0),82-102,82,102
 0021900682,2020-01-25,CLE,CHI,38.03,4,9,58,CHI,CHI,tov,40,False,False,,Valentine Out of Bounds Lost Ball Turnover (P1.T7),82-102,82,102
 0021900682,2020-01-25,CLE,CHI,38.25,4,9,45,CLE,CLE,tov,1,False,True,Nance Jr. Bad Pass Turnover (P1.T18),,82-102,82,102
+0021900682,2020-01-25,CLE,CHI,38.25,4,9,45,CLE,CHI,steal,1,False,True,steal,steal,82-102,82,102
 0021900682,2020-01-25,CLE,CHI,38.25,4,9,45,CHI,CLE,foul,1,False,False,Henson P.FOUL (P2.T1) (C.Blair),,82-102,82,102
 0021900682,2020-01-25,CLE,CHI,38.25,4,9,45,CLE,CHI,foul,11,False,False,,Valentine T.FOUL (P0.T0) (C.Kirkland),82-102,82,102
-0021900682,2020-01-25,CLE,CHI,38.25,4,9,45,CLE,CHI,steal,1,False,True,steal,steal,82-102,82,102
 0021900682,2020-01-25,CLE,CHI,38.25,4,9,45,CLE,CLE,ft_make,16,False,False,Garland Free Throw Technical (9 PTS),,83-102,83,102
 0021900682,2020-01-25,CLE,CHI,38.62,4,9,23,CHI,CHI,fg3_make,1,False,False,,White 30' 3PT Jump Shot (8 PTS),83-105,83,105
 0021900682,2020-01-25,CLE,CHI,39.0,4,9,0,CLE,CLE,fg3_miss,1,False,False,MISS Henson 24' 3PT Jump Shot,,83-105,83,105
@@ -391,8 +391,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900682,2020-01-25,CLE,CHI,46.77,4,1,14,CHI,CHI,ft_make,12,False,False,,Young Free Throw 2 of 2 (9 PTS),103-114,103,114
 0021900682,2020-01-25,CLE,CHI,46.88,4,1,7,CLE,CHI,foul,2,False,False,,Hutchison S.FOUL (P2.T4) (C.Kirkland),103-114,103,114
 0021900682,2020-01-25,CLE,CHI,46.88,4,1,7,CLE,CLE,ft_make,11,False,False,Osman Free Throw 1 of 2 (16 PTS),,104-114,104,114
-0021900682,2020-01-25,CLE,CHI,46.88,4,1,7,CLE,CLE,ft_miss,12,False,False,MISS Osman Free Throw 2 of 2,,104-114,104,114
 0021900682,2020-01-25,CLE,CHI,46.88,4,1,7,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 5 Short 0),,104-114,104,114
+0021900682,2020-01-25,CLE,CHI,46.88,4,1,7,CLE,CLE,ft_miss,12,False,False,MISS Osman Free Throw 2 of 2,,104-114,104,114
 0021900682,2020-01-25,CLE,CHI,46.95,4,1,3,CHI,CHI,reb,0,False,False,,Hutchison REBOUND (Off:1 Def:2),104-114,104,114
 0021900682,2020-01-25,CLE,CHI,46.95,4,1,3,CHI,CLE,foul,1,False,False,Nance Jr. P.FOUL (P2.PN) (C.Blair),,104-114,104,114
 0021900682,2020-01-25,CLE,CHI,46.95,4,1,3,CHI,CHI,ft_make,11,False,False,,Hutchison Free Throw 1 of 2 (7 PTS),104-115,104,115

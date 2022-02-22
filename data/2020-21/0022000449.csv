@@ -110,10 +110,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000449,2021-02-19,ORL,GSW,11.52,1,0,29,GSW,GSW,ft_make,10,False,False,,Curry Free Throw 1 of 1 (8 PTS),34-34,34,34
 0022000449,2021-02-19,ORL,GSW,11.7,1,0,18,ORL,ORL,fg3_make,79,False,False,Ross 26' 3PT Pullup Jump Shot (9 PTS),,37-34,37,34
 0022000449,2021-02-19,ORL,GSW,12.0,1,0,0,GSW,GSW,fg_miss,6,True,False,,MISS Curry 1' Driving Layup,37-34,37,34
+0022000449,2021-02-19,ORL,GSW,12.0,1,0,0,GSW,ORL,block,6,True,False,block,block,37-34,37,34
 0022000449,2021-02-19,ORL,GSW,12.0,1,0,0,ORL,ORL,reb,0,False,False,Aminu REBOUND (Off:0 Def:3),,37-34,37,34
 0022000449,2021-02-19,ORL,GSW,12.0,1,0,0,ORL,,period_end,0,False,False,,,37-34,37,34
 0022000449,2021-02-19,ORL,GSW,12.0,2,12,0,ORL,,period_start,0,False,False,,,37-34,37,34
-0022000449,2021-02-19,ORL,GSW,12.0,1,0,0,GSW,ORL,block,6,True,False,block,block,37-34,37,34
 0022000449,2021-02-19,ORL,GSW,12.28,2,11,43,GSW,GSW,fg_make,79,False,False,,Paschall 19' Pullup Jump Shot (2 PTS) (Bazemore 1 AST),37-36,37,36
 0022000449,2021-02-19,ORL,GSW,12.58,2,11,25,ORL,ORL,fg_miss,1,False,False,MISS Okeke 20' Jump Shot,,37-36,37,36
 0022000449,2021-02-19,ORL,GSW,12.63,2,11,22,GSW,GSW,reb,0,False,False,,Wanamaker REBOUND (Off:0 Def:1),37-36,37,36
@@ -164,8 +164,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000449,2021-02-19,ORL,GSW,17.83,2,6,10,ORL,ORL,fg_make,101,False,False,Fournier 13' Driving Floating Jump Shot (15 PTS) (Randle 2 AST),,48-43,48,43
 0022000449,2021-02-19,ORL,GSW,17.98,2,6,1,GSW,ORL,foul,1,False,False,Ross P.FOUL (P3.T4) (M.Boland),,48-43,48,43
 0022000449,2021-02-19,ORL,GSW,18.08,2,5,55,GSW,GSW,fg_miss,108,True,False,,MISS Toscano-Anderson 3' Cutting Dunk Shot,48-43,48,43
-0022000449,2021-02-19,ORL,GSW,18.08,2,5,55,ORL,ORL,reb,0,False,False,Fournier REBOUND (Off:0 Def:2),,48-43,48,43
 0022000449,2021-02-19,ORL,GSW,18.08,2,5,55,GSW,ORL,block,108,True,False,block,block,48-43,48,43
+0022000449,2021-02-19,ORL,GSW,18.08,2,5,55,ORL,ORL,reb,0,False,False,Fournier REBOUND (Off:0 Def:2),,48-43,48,43
 0022000449,2021-02-19,ORL,GSW,18.2,2,5,48,ORL,ORL,fg_miss,43,False,False,MISS Okeke 16' Alley Oop Layup,,48-43,48,43
 0022000449,2021-02-19,ORL,GSW,18.3,2,5,42,GSW,GSW,reb,0,False,False,,Bazemore REBOUND (Off:0 Def:2),48-43,48,43
 0022000449,2021-02-19,ORL,GSW,18.37,2,5,38,GSW,GSW,fg_make,6,False,False,,Oubre Jr. 1' Driving Layup (12 PTS) (Curry 3 AST),48-45,48,45
@@ -233,8 +233,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000449,2021-02-19,ORL,GSW,25.33,3,10,40,GSW,ORL,block,73,True,False,block,block,69-54,69,54
 0022000449,2021-02-19,ORL,GSW,25.37,3,10,38,GSW,GSW,reb,0,False,False,,Oubre Jr. REBOUND (Off:2 Def:4),69-54,69,54
 0022000449,2021-02-19,ORL,GSW,25.4,3,10,36,GSW,GSW,fg_miss,72,True,False,,MISS Oubre Jr. 6' Putback Layup,69-54,69,54
-0022000449,2021-02-19,ORL,GSW,25.4,3,10,36,ORL,ORL,reb,0,False,False,Ennis III REBOUND (Off:1 Def:6),,69-54,69,54
 0022000449,2021-02-19,ORL,GSW,25.4,3,10,36,GSW,ORL,block,72,True,False,block,block,69-54,69,54
+0022000449,2021-02-19,ORL,GSW,25.4,3,10,36,ORL,ORL,reb,0,False,False,Ennis III REBOUND (Off:1 Def:6),,69-54,69,54
 0022000449,2021-02-19,ORL,GSW,25.45,3,10,33,ORL,ORL,fg_miss,102,False,False,MISS Ennis III 4' Driving Floating Bank Jump Shot,,69-54,69,54
 0022000449,2021-02-19,ORL,GSW,25.45,3,10,33,ORL,ORL,reb,0,False,False,Birch REBOUND (Off:1 Def:0),,69-54,69,54
 0022000449,2021-02-19,ORL,GSW,25.72,3,10,17,ORL,ORL,fg3_miss,1,False,False,MISS Carter-Williams 26' 3PT Jump Shot,,69-54,69,54
@@ -337,8 +337,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000449,2021-02-19,ORL,GSW,37.42,4,10,35,GSW,GSW,fg_miss,1,False,False,,MISS Wanamaker 21' Jump Shot,93-100,93,100
 0022000449,2021-02-19,ORL,GSW,37.45,4,10,33,GSW,GSW,reb,0,False,False,,Wiggins REBOUND (Off:2 Def:2),93-100,93,100
 0022000449,2021-02-19,ORL,GSW,37.48,4,10,31,GSW,GSW,tov,1,False,True,,Wiggins Bad Pass Turnover (P4.T10),93-100,93,100
-0022000449,2021-02-19,ORL,GSW,37.48,4,10,31,ORL,GSW,foul,28,False,False,,Lee Personal Take Foul (P1.T1) (M.Boland),93-100,93,100
 0022000449,2021-02-19,ORL,GSW,37.48,4,10,31,GSW,ORL,steal,1,False,True,steal,steal,93-100,93,100
+0022000449,2021-02-19,ORL,GSW,37.48,4,10,31,ORL,GSW,foul,28,False,False,,Lee Personal Take Foul (P1.T1) (M.Boland),93-100,93,100
 0022000449,2021-02-19,ORL,GSW,37.57,4,10,26,ORL,GSW,foul,1,False,False,,Wanamaker P.FOUL (P2.T2) (B.Nansel),93-100,93,100
 0022000449,2021-02-19,ORL,GSW,37.75,4,10,15,ORL,ORL,fg3_miss,79,False,False,MISS Ross 25' 3PT Pullup Jump Shot,,93-100,93,100
 0022000449,2021-02-19,ORL,GSW,37.87,4,10,8,GSW,GSW,reb,0,False,False,,Lee REBOUND (Off:0 Def:2),93-100,93,100

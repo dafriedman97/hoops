@@ -49,8 +49,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900193,2019-11-18,HOU,POR,4.57,1,7,26,HOU,HOU,tov,1,False,True,Westbrook Bad Pass Turnover (P1.T2),,12-11,12,11
 0021900193,2019-11-18,HOU,POR,4.57,1,7,26,HOU,POR,steal,1,False,True,steal,steal,12-11,12,11
 0021900193,2019-11-18,HOU,POR,4.67,1,7,20,POR,POR,fg_miss,5,True,False,,MISS Hood 7' Layup,12-11,12,11
-0021900193,2019-11-18,HOU,POR,4.67,1,7,20,POR,POR,reb,0,False,False,,Trail Blazers Rebound,12-11,12,11
 0021900193,2019-11-18,HOU,POR,4.67,1,7,20,POR,HOU,block,5,True,False,block,block,12-11,12,11
+0021900193,2019-11-18,HOU,POR,4.67,1,7,20,POR,POR,reb,0,False,False,,Trail Blazers Rebound,12-11,12,11
 0021900193,2019-11-18,HOU,POR,4.78,1,7,13,POR,POR,tov,1,False,True,,Whiteside Bad Pass Turnover (P2.T2),12-11,12,11
 0021900193,2019-11-18,HOU,POR,4.78,1,7,13,POR,HOU,steal,1,False,True,steal,steal,12-11,12,11
 0021900193,2019-11-18,HOU,POR,4.88,1,7,7,HOU,HOU,fg_make,52,False,False,Capela 2' Alley Oop Dunk (2 PTS) (Harden 1 AST),,14-11,14,11
@@ -165,8 +165,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900193,2019-11-18,HOU,POR,15.6,2,8,24,POR,POR,fg3_miss,1,False,False,,MISS McCollum 26' 3PT Jump Shot,43-40,43,40
 0021900193,2019-11-18,HOU,POR,15.62,2,8,23,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:0 Def:3),,43-40,43,40
 0021900193,2019-11-18,HOU,POR,15.72,2,8,17,HOU,HOU,fg_miss,98,True,False,MISS Capela 2' Cutting Layup Shot,,43-40,43,40
-0021900193,2019-11-18,HOU,POR,15.72,2,8,17,POR,POR,reb,0,False,False,,Hezonja REBOUND (Off:0 Def:4),43-40,43,40
 0021900193,2019-11-18,HOU,POR,15.72,2,8,17,HOU,POR,block,98,True,False,block,block,43-40,43,40
+0021900193,2019-11-18,HOU,POR,15.72,2,8,17,POR,POR,reb,0,False,False,,Hezonja REBOUND (Off:0 Def:4),43-40,43,40
 0021900193,2019-11-18,HOU,POR,15.98,2,8,1,POR,POR,fg_miss,73,True,False,,MISS Bazemore 3' Driving Reverse Layup,43-40,43,40
 0021900193,2019-11-18,HOU,POR,15.98,2,8,1,POR,HOU,block,73,True,False,block,block,43-40,43,40
 0021900193,2019-11-18,HOU,POR,16.02,2,7,59,HOU,HOU,reb,0,False,False,Westbrook REBOUND (Off:1 Def:6),,43-40,43,40
@@ -325,8 +325,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900193,2019-11-18,HOU,POR,33.7,3,2,18,POR,POR,fg3_miss,79,False,False,,MISS McCollum 27' 3PT Pullup Jump Shot,92-70,92,70
 0021900193,2019-11-18,HOU,POR,33.77,3,2,14,HOU,HOU,reb,0,False,False,House Jr. REBOUND (Off:3 Def:1),,92-70,92,70
 0021900193,2019-11-18,HOU,POR,33.88,3,2,7,HOU,HOU,fg_miss,41,False,False,MISS Westbrook 4' Running Layup,,92-70,92,70
-0021900193,2019-11-18,HOU,POR,33.95,3,2,3,HOU,HOU,fg_miss,97,False,False,MISS Capela 1' Tip Layup Shot,,92-70,92,70
 0021900193,2019-11-18,HOU,POR,33.95,3,2,3,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:3 Def:12),,92-70,92,70
+0021900193,2019-11-18,HOU,POR,33.95,3,2,3,HOU,HOU,fg_miss,97,False,False,MISS Capela 1' Tip Layup Shot,,92-70,92,70
 0021900193,2019-11-18,HOU,POR,34.0,3,2,0,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:4 Def:12),,92-70,92,70
 0021900193,2019-11-18,HOU,POR,34.0,3,2,0,HOU,HOU,fg_make,72,False,False,Capela 1' Putback Layup (17 PTS),,94-70,94,70
 0021900193,2019-11-18,HOU,POR,34.12,3,1,53,POR,POR,fg_make,75,False,False,,Lillard 3' Driving Finger Roll Layup (10 PTS),94-72,94,72
@@ -350,10 +350,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900193,2019-11-18,HOU,POR,35.93,3,0,4,HOU,,violation,1,False,False,,,99-76,99,76
 0021900193,2019-11-18,HOU,POR,35.97,3,0,2,POR,POR,tov,2,False,True,,Lillard Lost Ball Turnover (P3.T13),99-76,99,76
 0021900193,2019-11-18,HOU,POR,35.97,3,0,2,POR,HOU,steal,2,False,True,steal,steal,99-76,99,76
-0021900193,2019-11-18,HOU,POR,36.0,3,0,0,HOU,HOU,fg3_miss,1,False,False,MISS McLemore 28' 3PT Jump Shot,,99-76,99,76
-0021900193,2019-11-18,HOU,POR,36.0,3,0,0,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,99-76,99,76
 0021900193,2019-11-18,HOU,POR,36.0,3,0,0,HOU,,period_end,0,False,False,,,99-76,99,76
 0021900193,2019-11-18,HOU,POR,36.0,4,12,0,HOU,,period_start,0,False,False,,,99-76,99,76
+0021900193,2019-11-18,HOU,POR,36.0,3,0,0,HOU,HOU,fg3_miss,1,False,False,MISS McLemore 28' 3PT Jump Shot,,99-76,99,76
+0021900193,2019-11-18,HOU,POR,36.0,3,0,0,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,99-76,99,76
 0021900193,2019-11-18,HOU,POR,36.0,4,12,0,HOU,,foul,11,False,False,,,99-76,99,76
 0021900193,2019-11-18,HOU,POR,36.0,4,12,0,HOU,HOU,ft_miss,16,False,False,MISS Rivers Free Throw Technical,,99-76,99,76
 0021900193,2019-11-18,HOU,POR,36.0,4,12,0,POR,POR,reb,1,False,False,,Trail Blazers Rebound,99-76,99,76

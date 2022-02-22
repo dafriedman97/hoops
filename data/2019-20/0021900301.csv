@@ -49,9 +49,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900301,2019-12-03,TOR,MIA,6.95,1,5,3,TOR,TOR,ft_make,12,False,False,VanVleet Free Throw 2 of 2 (8 PTS),,19-19,19,19
 0021900301,2019-12-03,TOR,MIA,7.22,1,4,47,MIA,MIA,fg_make,101,False,False,,Adebayo 12' Driving Floating Jump Shot (6 PTS) (Robinson 1 AST),19-21,19,21
 0021900301,2019-12-03,TOR,MIA,7.63,1,4,22,TOR,TOR,fg_miss,86,True,False,MISS Siakam 18' Turnaround Fadeaway Shot,,19-21,19,21
+0021900301,2019-12-03,TOR,MIA,7.63,1,4,22,TOR,MIA,block,86,True,False,block,block,19-21,19,21
 0021900301,2019-12-03,TOR,MIA,7.63,1,4,22,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,19-21,19,21
 0021900301,2019-12-03,TOR,MIA,7.63,1,4,22,TOR,TOR,tov,11,False,False,RAPTORS Turnover: Shot Clock (T#1),,19-21,19,21
-0021900301,2019-12-03,TOR,MIA,7.63,1,4,22,TOR,MIA,block,86,True,False,block,block,19-21,19,21
 0021900301,2019-12-03,TOR,MIA,7.82,1,4,11,MIA,MIA,fg_miss,102,False,False,,MISS Butler 4' Driving Floating Bank Jump Shot,19-21,19,21
 0021900301,2019-12-03,TOR,MIA,7.83,1,4,10,TOR,TOR,reb,0,False,False,Gasol REBOUND (Off:0 Def:1),,19-21,19,21
 0021900301,2019-12-03,TOR,MIA,8.07,1,3,56,TOR,TOR,fg_miss,79,False,False,MISS Siakam 18' Pullup Jump Shot,,19-21,19,21
@@ -126,8 +126,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900301,2019-12-03,TOR,MIA,15.52,2,8,29,TOR,TOR,fg3_miss,2,False,False,MISS Powell 24' 3PT Running Jump Shot,,32-37,32,37
 0021900301,2019-12-03,TOR,MIA,15.55,2,8,27,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,32-37,32,37
 0021900301,2019-12-03,TOR,MIA,15.65,2,8,21,TOR,TOR,fg_miss,7,True,False,MISS Ibaka 1' Dunk,,32-37,32,37
-0021900301,2019-12-03,TOR,MIA,15.65,2,8,21,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,32-37,32,37
 0021900301,2019-12-03,TOR,MIA,15.65,2,8,21,TOR,MIA,block,7,True,False,block,block,32-37,32,37
+0021900301,2019-12-03,TOR,MIA,15.65,2,8,21,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,32-37,32,37
 0021900301,2019-12-03,TOR,MIA,15.77,2,8,14,TOR,TOR,fg_make,101,False,False,Hollis-Jefferson 4' Driving Floating Jump Shot (4 PTS),,34-37,34,37
 0021900301,2019-12-03,TOR,MIA,16.0,2,8,0,MIA,MIA,fg3_make,79,False,False,,Herro 27' 3PT Pullup Jump Shot (6 PTS),34-40,34,40
 0021900301,2019-12-03,TOR,MIA,16.27,2,7,44,TOR,TOR,fg_miss,101,True,False,MISS Lowry 4' Driving Floating Jump Shot,,34-40,34,40
@@ -266,8 +266,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900301,2019-12-03,TOR,MIA,30.0,3,6,0,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:2 Def:1),62-71,62,71
 0021900301,2019-12-03,TOR,MIA,30.13,3,5,52,MIA,TOR,foul,1,False,False,Anunoby P.FOUL (P3.T4) (M.Kogut),,62-71,62,71
 0021900301,2019-12-03,TOR,MIA,30.28,3,5,43,MIA,MIA,fg3_miss,1,False,False,,MISS Robinson 24' 3PT Jump Shot,62-71,62,71
-0021900301,2019-12-03,TOR,MIA,30.38,3,5,37,MIA,MIA,fg_make,72,False,False,,Butler 1' Putback Layup (13 PTS),62-73,62,73
 0021900301,2019-12-03,TOR,MIA,30.38,3,5,37,MIA,MIA,reb,0,False,False,,Butler REBOUND (Off:3 Def:5),62-73,62,73
+0021900301,2019-12-03,TOR,MIA,30.38,3,5,37,MIA,MIA,fg_make,72,False,False,,Butler 1' Putback Layup (13 PTS),62-73,62,73
 0021900301,2019-12-03,TOR,MIA,30.62,3,5,23,TOR,TOR,fg3_make,1,False,False,Powell 25' 3PT Jump Shot (7 PTS) (VanVleet 5 AST),,65-73,65,73
 0021900301,2019-12-03,TOR,MIA,30.9,3,5,6,MIA,MIA,fg_make,75,False,False,,Robinson 1' Driving Finger Roll Layup (14 PTS),65-75,65,75
 0021900301,2019-12-03,TOR,MIA,31.1,3,4,54,TOR,TOR,fg_make,105,False,False,Siakam 6' Turnaround Fadeaway Bank Jump Shot (15 PTS),,67-75,67,75

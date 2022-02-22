@@ -92,8 +92,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800769,2019-01-31,LAC,LAL,10.08,1,1,55,LAC,LAC,fg_miss,5,False,False,MISS Harrell 1' Layup,,23-23,23,23
 0021800769,2019-01-31,LAC,LAL,10.12,1,1,53,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:1 Def:0),,23-23,23,23
 0021800769,2019-01-31,LAC,LAL,10.13,1,1,52,LAC,LAC,fg_miss,87,True,False,MISS Harrell 2' Putback Dunk,,23-23,23,23
-0021800769,2019-01-31,LAC,LAL,10.13,1,1,52,LAL,LAL,reb,0,False,False,,Beasley REBOUND (Off:0 Def:3),23-23,23,23
 0021800769,2019-01-31,LAC,LAL,10.13,1,1,52,LAC,LAL,block,87,True,False,block,block,23-23,23,23
+0021800769,2019-01-31,LAC,LAL,10.13,1,1,52,LAL,LAL,reb,0,False,False,,Beasley REBOUND (Off:0 Def:3),23-23,23,23
 0021800769,2019-01-31,LAC,LAL,10.4,1,1,36,LAL,LAL,fg_make,47,False,False,,McGee 12' Turnaround Jump Shot (2 PTS) (Ingram 2 AST),23-25,23,25
 0021800769,2019-01-31,LAC,LAL,10.55,1,1,27,LAC,LAL,foul,2,False,False,,Stephenson S.FOUL (P2.T4) (B.Barnaky),23-25,23,25
 0021800769,2019-01-31,LAC,LAL,10.55,1,1,27,LAC,LAC,ft_miss,11,False,False,MISS Gilgeous-Alexander Free Throw 1 of 2,,23-25,23,25
@@ -219,8 +219,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800769,2019-01-31,LAC,LAL,22.98,2,1,1,LAC,LAC,fg_miss,47,False,False,MISS Scott 11' Turnaround Jump Shot,,51-52,51,52
 0021800769,2019-01-31,LAC,LAL,23.0,2,1,0,LAL,LAL,reb,0,False,False,,McGee REBOUND (Off:0 Def:4),51-52,51,52
 0021800769,2019-01-31,LAC,LAL,23.08,2,0,55,LAL,LAL,fg_miss,41,True,False,,MISS Ingram 4' Running Layup,51-52,51,52
-0021800769,2019-01-31,LAC,LAL,23.08,2,0,55,LAL,LAL,reb,0,False,False,,Lakers Rebound,51-52,51,52
 0021800769,2019-01-31,LAC,LAL,23.08,2,0,55,LAL,LAC,block,41,True,False,block,block,51-52,51,52
+0021800769,2019-01-31,LAC,LAL,23.08,2,0,55,LAL,LAL,reb,0,False,False,,Lakers Rebound,51-52,51,52
 0021800769,2019-01-31,LAC,LAL,23.12,2,0,53,LAL,LAL,fg_make,98,False,False,,Caldwell-Pope 1' Cutting Layup Shot (8 PTS) (James 4 AST),51-54,51,54
 0021800769,2019-01-31,LAC,LAL,23.35,2,0,39,LAC,LAC,fg3_miss,1,False,False,MISS Scott 24' 3PT Jump Shot,,51-54,51,54
 0021800769,2019-01-31,LAC,LAL,23.38,2,0,37,LAL,LAL,reb,0,False,False,,James REBOUND (Off:0 Def:5),51-54,51,54
@@ -361,8 +361,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800769,2019-01-31,LAC,LAL,38.25,4,9,45,LAC,LAC,reb,0,False,False,Harris REBOUND (Off:1 Def:6),,80-91,80,91
 0021800769,2019-01-31,LAC,LAL,38.3,4,9,42,LAC,LAC,fg3_make,1,False,False,Beverley 3PT Jump Shot (15 PTS) (Harris 7 AST),,83-91,83,91
 0021800769,2019-01-31,LAC,LAL,38.7,4,9,18,LAL,LAL,fg_miss,6,True,False,,MISS Rondo 3' Driving Layup,83-91,83,91
-0021800769,2019-01-31,LAC,LAL,38.7,4,9,18,LAL,LAL,reb,0,False,False,,Lakers Rebound,83-91,83,91
 0021800769,2019-01-31,LAC,LAL,38.7,4,9,18,LAL,LAC,block,6,True,False,block,block,83-91,83,91
+0021800769,2019-01-31,LAC,LAL,38.7,4,9,18,LAL,LAL,reb,0,False,False,,Lakers Rebound,83-91,83,91
 0021800769,2019-01-31,LAC,LAL,38.78,4,9,13,LAL,LAL,fg_miss,80,False,False,,MISS James 20' Step Back Jump Shot,83-91,83,91
 0021800769,2019-01-31,LAC,LAL,38.87,4,9,8,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:3 Def:5),,83-91,83,91
 0021800769,2019-01-31,LAC,LAL,38.93,4,9,4,LAC,LAC,fg_make,108,False,False,Harrell 1' Cutting Dunk Shot (15 PTS) (Williams 4 AST),,85-91,85,91
@@ -390,9 +390,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800769,2019-01-31,LAC,LAL,40.58,4,7,25,LAC,LAC,ft_miss,10,False,False,MISS Williams Free Throw 1 of 1,,92-97,92,97
 0021800769,2019-01-31,LAC,LAL,40.58,4,7,25,LAC,LAC,reb,0,False,False,Marjanovic REBOUND (Off:1 Def:0),,92-97,92,97
 0021800769,2019-01-31,LAC,LAL,40.58,4,7,25,LAC,LAC,fg_make,72,False,False,Marjanovic 1' Putback Layup (2 PTS),,94-97,94,97
-0021800769,2019-01-31,LAC,LAL,40.58,4,7,25,LAC,LAL,violation,2,False,False,,Defensive Goaltending,94-97,94,97
 0021800769,2019-01-31,LAC,LAL,40.58,4,7,25,LAC,LAL,foul,2,False,False,,Ingram S.FOUL (P4.T3) (B.Barnaky),94-97,94,97
 0021800769,2019-01-31,LAC,LAL,40.58,4,7,25,LAC,LAC,ft_make,10,False,False,Marjanovic Free Throw 1 of 1 (3 PTS),,95-97,95,97
+0021800769,2019-01-31,LAC,LAL,40.58,4,7,25,LAC,LAL,violation,2,False,False,,Defensive Goaltending,94-97,94,97
 0021800769,2019-01-31,LAC,LAL,40.92,4,7,5,LAL,LAL,fg_miss,63,False,False,,MISS Kuzma 7' Fadeaway Jumper,95-97,95,97
 0021800769,2019-01-31,LAC,LAL,40.95,4,7,3,LAL,LAL,reb,0,False,False,,Chandler REBOUND (Off:2 Def:2),95-97,95,97
 0021800769,2019-01-31,LAC,LAL,40.97,4,7,2,LAL,LAL,fg3_make,1,False,False,,Stephenson 27' 3PT Jump Shot (12 PTS) (Chandler 1 AST),95-100,95,100
@@ -469,8 +469,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800769,2019-01-31,LAC,LAL,47.83,4,0,10,LAL,LAL,reb,0,False,False,,James REBOUND (Off:1 Def:11),112-112,112,112
 0021800769,2019-01-31,LAC,LAL,47.83,4,0,10,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.7 Short 0),112-112,112,112
 0021800769,2019-01-31,LAC,LAL,47.95,4,0,3,LAL,LAL,fg_miss,6,True,False,,MISS James 4' Driving Layup,112-112,112,112
-0021800769,2019-01-31,LAC,LAL,47.95,4,0,3,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,112-112,112,112
 0021800769,2019-01-31,LAC,LAL,47.95,4,0,3,LAL,LAC,block,6,True,False,block,block,112-112,112,112
+0021800769,2019-01-31,LAC,LAL,47.95,4,0,3,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,112-112,112,112
 0021800769,2019-01-31,LAC,LAL,48.0,4,0,0,LAC,LAC,fg3_miss,1,False,False,MISS Williams 27' 3PT Jump Shot,,112-112,112,112
 0021800769,2019-01-31,LAC,LAL,48.0,4,0,0,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,112-112,112,112
 0021800769,2019-01-31,LAC,LAL,48.0,4,0,0,LAC,,period_end,0,False,False,,,112-112,112,112
@@ -526,5 +526,5 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800769,2019-01-31,LAC,LAL,52.97,5,0,2,LAC,LAC,fg_make,101,False,False,Beverley 6' Driving Floating Jump Shot (17 PTS) (Marjanovic 1 AST),,120-123,120,123
 0021800769,2019-01-31,LAC,LAL,52.97,5,0,2,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.9 Short 0),120-123,120,123
 0021800769,2019-01-31,LAC,LAL,53.0,5,0,0,LAL,LAL,tov,1,False,True,,Rondo Bad Pass Turnover (P1.T16),120-123,120,123
-0021800769,2019-01-31,LAC,LAL,53.0,5,0,0,LAL,,period_end,0,False,False,,,120-123,120,123
 0021800769,2019-01-31,LAC,LAL,53.0,5,0,0,LAL,LAC,steal,1,False,True,steal,steal,120-123,120,123
+0021800769,2019-01-31,LAC,LAL,53.0,5,0,0,LAL,,period_end,0,False,False,,,120-123,120,123

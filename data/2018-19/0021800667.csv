@@ -212,11 +212,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800667,2019-01-17,IND,PHI,23.93,2,0,4,PHI,PHI,fg3_make,79,False,False,,Redick 27' 3PT Pullup Jump Shot (8 PTS) (Embiid 5 AST),48-54,48,54
 0021800667,2019-01-17,IND,PHI,23.98,2,0,1,IND,PHI,foul,28,False,False,,Chandler Personal Take Foul (P1.T2) (S.Foster),48-54,48,54
 0021800667,2019-01-17,IND,PHI,24.0,2,0,0,IND,IND,tov,1,False,True,Oladipo Bad Pass Turnover (P2.T6),,48-54,48,54
+0021800667,2019-01-17,IND,PHI,24.0,2,0,0,IND,PHI,steal,1,False,True,steal,steal,48-54,48,54
 0021800667,2019-01-17,IND,PHI,24.0,2,0,0,PHI,PHI,fg3_miss,79,False,False,,MISS Embiid 62' 3PT Pullup Jump Shot,48-54,48,54
 0021800667,2019-01-17,IND,PHI,24.0,2,0,0,PHI,PHI,reb,0,False,False,,76ers Rebound,48-54,48,54
 0021800667,2019-01-17,IND,PHI,24.0,2,0,0,PHI,,period_end,0,False,False,,,48-54,48,54
 0021800667,2019-01-17,IND,PHI,24.0,3,12,0,PHI,,period_start,0,False,False,,,48-54,48,54
-0021800667,2019-01-17,IND,PHI,24.0,2,0,0,IND,PHI,steal,1,False,True,steal,steal,48-54,48,54
 0021800667,2019-01-17,IND,PHI,24.15,3,11,51,IND,IND,fg_miss,79,False,False,MISS Collison 20' Pullup Jump Shot,,48-54,48,54
 0021800667,2019-01-17,IND,PHI,24.2,3,11,48,PHI,PHI,reb,0,False,False,,Butler REBOUND (Off:0 Def:3),48-54,48,54
 0021800667,2019-01-17,IND,PHI,24.4,3,11,36,PHI,PHI,fg3_miss,1,False,False,,MISS Redick 28' 3PT Jump Shot,48-54,48,54
@@ -234,8 +234,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800667,2019-01-17,IND,PHI,25.43,3,10,34,PHI,PHI,fg3_miss,1,False,False,,MISS Chandler 24' 3PT Jump Shot,51-56,51,56
 0021800667,2019-01-17,IND,PHI,25.48,3,10,31,IND,IND,reb,0,False,False,Turner REBOUND (Off:1 Def:8),,51-56,51,56
 0021800667,2019-01-17,IND,PHI,25.55,3,10,27,IND,IND,fg_miss,75,True,False,MISS Young 3' Driving Finger Roll Layup,,51-56,51,56
-0021800667,2019-01-17,IND,PHI,25.55,3,10,27,IND,IND,reb,0,False,False,PACERS Rebound,,51-56,51,56
 0021800667,2019-01-17,IND,PHI,25.55,3,10,27,IND,PHI,block,75,True,False,block,block,51-56,51,56
+0021800667,2019-01-17,IND,PHI,25.55,3,10,27,IND,IND,reb,0,False,False,PACERS Rebound,,51-56,51,56
 0021800667,2019-01-17,IND,PHI,25.6,3,10,24,IND,IND,fg_miss,3,False,False,MISS Young 6' Hook Shot,,51-56,51,56
 0021800667,2019-01-17,IND,PHI,25.65,3,10,21,PHI,PHI,reb,0,False,False,,Embiid REBOUND (Off:2 Def:5),51-56,51,56
 0021800667,2019-01-17,IND,PHI,25.75,3,10,15,PHI,IND,foul,2,False,False,Collison S.FOUL (P1.T2) (E.Dalen),,51-56,51,56
@@ -263,8 +263,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800667,2019-01-17,IND,PHI,27.8,3,8,12,PHI,IND,block,47,True,False,block,block,55-63,55,63
 0021800667,2019-01-17,IND,PHI,27.82,3,8,11,PHI,PHI,reb,0,False,False,,Embiid REBOUND (Off:3 Def:7),55-63,55,63
 0021800667,2019-01-17,IND,PHI,27.82,3,8,11,PHI,PHI,fg_miss,1,True,False,,MISS Embiid 4' Jump Shot,55-63,55,63
-0021800667,2019-01-17,IND,PHI,27.82,3,8,11,PHI,PHI,reb,0,False,False,,76ers Rebound,55-63,55,63
 0021800667,2019-01-17,IND,PHI,27.82,3,8,11,PHI,IND,block,1,True,False,block,block,55-63,55,63
+0021800667,2019-01-17,IND,PHI,27.82,3,8,11,PHI,PHI,reb,0,False,False,,76ers Rebound,55-63,55,63
 0021800667,2019-01-17,IND,PHI,27.88,3,8,7,PHI,PHI,fg3_make,1,False,False,,Redick 30' 3PT Jump Shot (14 PTS) (Embiid 7 AST),55-66,55,66
 0021800667,2019-01-17,IND,PHI,27.93,3,8,4,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 3 Short 0),,55-66,55,66
 0021800667,2019-01-17,IND,PHI,28.08,3,7,55,IND,PHI,foul,1,False,False,,Embiid P.FOUL (P2.T3) (S.Foster),55-66,55,66

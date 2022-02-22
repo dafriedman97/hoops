@@ -2,8 +2,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000963,2021-05-01,OKC,IND,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
 0022000963,2021-05-01,OKC,IND,0.0,1,12,0,,OKC,jump_ball,0,False,False,Jump Ball Brown vs. Sabonis: Tip to Maledon,,0-0,0,0
 0022000963,2021-05-01,OKC,IND,0.23,1,11,46,OKC,OKC,fg_miss,6,True,False,MISS Roby 4' Driving Layup,,0-0,0,0
-0022000963,2021-05-01,OKC,IND,0.23,1,11,46,OKC,OKC,reb,0,False,False,THUNDER Rebound,,0-0,0,0
 0022000963,2021-05-01,OKC,IND,0.23,1,11,46,OKC,IND,block,6,True,False,block,block,0-0,0,0
+0022000963,2021-05-01,OKC,IND,0.23,1,11,46,OKC,OKC,reb,0,False,False,THUNDER Rebound,,0-0,0,0
 0022000963,2021-05-01,OKC,IND,0.33,1,11,40,OKC,OKC,fg_miss,3,False,False,MISS Bazley 12' Hook Shot,,0-0,0,0
 0022000963,2021-05-01,OKC,IND,0.37,1,11,38,IND,IND,reb,0,False,False,,Brissett REBOUND (Off:0 Def:1),0-0,0,0
 0022000963,2021-05-01,OKC,IND,0.5,1,11,30,IND,IND,fg_make,101,False,False,,Brissett 12' Driving Floating Jump Shot (2 PTS) (Sabonis 1 AST),0-2,0,2
@@ -135,8 +135,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000963,2021-05-01,OKC,IND,14.38,2,9,37,OKC,OKC,reb,0,False,False,Hall REBOUND (Off:1 Def:0),,31-55,31,55
 0022000963,2021-05-01,OKC,IND,14.4,2,9,36,OKC,IND,foul,1,False,False,,Sumner P.FOUL (P1.T1) (K.Lane),31-55,31,55
 0022000963,2021-05-01,OKC,IND,14.53,2,9,28,OKC,OKC,tov,1,False,True,Mykhailiuk Bad Pass Turnover (P2.T5),,31-55,31,55
-0022000963,2021-05-01,OKC,IND,14.53,2,9,28,IND,IND,tov,39,False,False,,McConnell Step Out of Bounds Turnover (P2.T7),31-55,31,55
 0022000963,2021-05-01,OKC,IND,14.53,2,9,28,OKC,IND,steal,1,False,True,steal,steal,31-55,31,55
+0022000963,2021-05-01,OKC,IND,14.53,2,9,28,IND,IND,tov,39,False,False,,McConnell Step Out of Bounds Turnover (P2.T7),31-55,31,55
 0022000963,2021-05-01,OKC,IND,14.57,2,9,26,OKC,OKC,fg3_miss,1,False,False,MISS Mykhailiuk 3PT Jump Shot,,31-55,31,55
 0022000963,2021-05-01,OKC,IND,14.63,2,9,22,IND,IND,reb,0,False,False,,Holiday REBOUND (Off:0 Def:3),31-55,31,55
 0022000963,2021-05-01,OKC,IND,14.82,2,9,11,IND,IND,fg_miss,98,False,False,,MISS Sumner 5' Cutting Layup Shot,31-55,31,55
@@ -146,8 +146,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000963,2021-05-01,OKC,IND,15.37,2,8,38,OKC,OKC,fg_make,108,False,False,Bradley 1' Cutting Dunk Shot (7 PTS) (Hall 2 AST),,35-57,35,57
 0022000963,2021-05-01,OKC,IND,15.37,2,8,38,IND,OKC,violation,1,False,False,THUNDER Violation: Delay of game Violation,,35-57,35,57
 0022000963,2021-05-01,OKC,IND,15.72,2,8,17,IND,IND,tov,2,False,True,,McConnell Lost Ball Turnover (P3.T8),35-57,35,57
-0022000963,2021-05-01,OKC,IND,15.72,2,8,17,OKC,IND,foul,1,False,False,,McConnell P.FOUL (P1.T2) (K.Lane),35-57,35,57
 0022000963,2021-05-01,OKC,IND,15.72,2,8,17,IND,OKC,steal,2,False,True,steal,steal,35-57,35,57
+0022000963,2021-05-01,OKC,IND,15.72,2,8,17,OKC,IND,foul,1,False,False,,McConnell P.FOUL (P1.T2) (K.Lane),35-57,35,57
 0022000963,2021-05-01,OKC,IND,15.9,2,8,6,OKC,OKC,fg_miss,1,False,False,MISS Mykhailiuk 14' Jump Shot,,35-57,35,57
 0022000963,2021-05-01,OKC,IND,15.98,2,8,1,OKC,OKC,reb,0,False,False,Deck REBOUND (Off:1 Def:1),,35-57,35,57
 0022000963,2021-05-01,OKC,IND,16.02,2,7,59,OKC,OKC,fg3_miss,1,False,False,MISS Hall 26' 3PT Jump Shot,,35-57,35,57
@@ -200,10 +200,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000963,2021-05-01,OKC,IND,20.87,2,3,8,OKC,OKC,ft_make,10,False,False,Brown Free Throw 1 of 1 (8 PTS),,46-71,46,71
 0022000963,2021-05-01,OKC,IND,21.03,2,2,58,IND,IND,fg3_miss,1,False,False,,MISS McDermott 28' 3PT Jump Shot,46-71,46,71
 0022000963,2021-05-01,OKC,IND,21.1,2,2,54,OKC,OKC,reb,0,False,False,Brown REBOUND (Off:3 Def:2),,46-71,46,71
-0022000963,2021-05-01,OKC,IND,21.3,2,2,42,OKC,OKC,fg_miss,6,True,False,MISS Bazley 2' Driving Layup,,46-71,46,71
-0022000963,2021-05-01,OKC,IND,21.3,2,2,42,IND,IND,reb,0,False,False,,Pacers Rebound,46-71,46,71
 0022000963,2021-05-01,OKC,IND,21.3,2,2,42,IND,IND,timeout,1,False,False,,Pacers Timeout: Regular (Reg.1 Short 0),46-71,46,71
+0022000963,2021-05-01,OKC,IND,21.3,2,2,42,OKC,OKC,fg_miss,6,True,False,MISS Bazley 2' Driving Layup,,46-71,46,71
 0022000963,2021-05-01,OKC,IND,21.3,2,2,42,OKC,IND,block,6,True,False,block,block,46-71,46,71
+0022000963,2021-05-01,OKC,IND,21.3,2,2,42,IND,IND,reb,0,False,False,,Pacers Rebound,46-71,46,71
 0022000963,2021-05-01,OKC,IND,21.53,2,2,28,IND,IND,fg_make,79,False,False,,LeVert 17' Pullup Jump Shot (10 PTS) (Sabonis 9 AST),46-73,46,73
 0022000963,2021-05-01,OKC,IND,21.87,2,2,8,OKC,OKC,tov,15,False,False,Brown Offensive Goaltending Turnover (P1.T7),,46-73,46,73
 0022000963,2021-05-01,OKC,IND,22.03,2,1,58,IND,IND,fg_make,6,False,False,,McDermott 1' Driving Layup (18 PTS) (Sabonis 10 AST),46-75,46,75
@@ -226,9 +226,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000963,2021-05-01,OKC,IND,23.95,2,0,3,OKC,OKC,reb,0,False,False,Deck REBOUND (Off:2 Def:2),,46-82,46,82
 0022000963,2021-05-01,OKC,IND,23.97,2,0,2,OKC,OKC,fg_miss,97,False,False,MISS Deck Tip Layup Shot,,46-82,46,82
 0022000963,2021-05-01,OKC,IND,23.98,2,0,1,OKC,OKC,reb,0,False,False,Roby REBOUND (Off:2 Def:2),,46-82,46,82
+0022000963,2021-05-01,OKC,IND,24.0,2,0,0,OKC,,period_end,0,False,False,,,46-82,46,82
 0022000963,2021-05-01,OKC,IND,24.0,2,0,0,OKC,OKC,fg_miss,97,False,False,MISS Roby 1' Tip Layup Shot,,46-82,46,82
 0022000963,2021-05-01,OKC,IND,24.0,2,0,0,OKC,OKC,reb,0,False,False,THUNDER Rebound,,46-82,46,82
-0022000963,2021-05-01,OKC,IND,24.0,2,0,0,OKC,,period_end,0,False,False,,,46-82,46,82
 0022000963,2021-05-01,OKC,IND,24.0,3,12,0,OKC,,period_start,0,False,False,,,46-82,46,82
 0022000963,2021-05-01,OKC,IND,24.23,3,11,46,IND,IND,fg_make,5,False,False,,Sabonis 1' Layup (24 PTS) (LeVert 4 AST),46-84,46,84
 0022000963,2021-05-01,OKC,IND,24.45,3,11,33,OKC,OKC,fg_make,108,False,False,Brown Cutting Dunk Shot (10 PTS) (Bazley 2 AST),,48-84,48,84
@@ -330,12 +330,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000963,2021-05-01,OKC,IND,34.0,3,2,0,OKC,OKC,fg_make,72,False,False,Bradley 2' Putback Layup (9 PTS),,65-120,65,120
 0022000963,2021-05-01,OKC,IND,34.28,3,1,43,IND,IND,fg3_make,1,False,False,,Brissett 26' 3PT Jump Shot (8 PTS) (Martin 1 AST),65-123,65,123
 0022000963,2021-05-01,OKC,IND,34.67,3,1,20,OKC,OKC,fg_miss,5,False,False,MISS Deck 3' Layup,,65-123,65,123
-0022000963,2021-05-01,OKC,IND,34.72,3,1,17,OKC,OKC,fg_miss,97,False,False,MISS Deck Tip Layup Shot,,65-123,65,123
 0022000963,2021-05-01,OKC,IND,34.72,3,1,17,OKC,OKC,reb,0,False,False,Deck REBOUND (Off:4 Def:2),,65-123,65,123
+0022000963,2021-05-01,OKC,IND,34.72,3,1,17,OKC,OKC,fg_miss,97,False,False,MISS Deck Tip Layup Shot,,65-123,65,123
 0022000963,2021-05-01,OKC,IND,34.73,3,1,16,OKC,OKC,reb,0,False,False,Deck REBOUND (Off:4 Def:2),,65-123,65,123
 0022000963,2021-05-01,OKC,IND,34.77,3,1,14,OKC,OKC,fg_miss,72,True,False,MISS Deck 3' Putback Layup,,65-123,65,123
-0022000963,2021-05-01,OKC,IND,34.77,3,1,14,OKC,OKC,reb,0,False,False,Deck REBOUND (Off:5 Def:2),,65-123,65,123
 0022000963,2021-05-01,OKC,IND,34.77,3,1,14,OKC,IND,block,72,True,False,block,block,65-123,65,123
+0022000963,2021-05-01,OKC,IND,34.77,3,1,14,OKC,OKC,reb,0,False,False,Deck REBOUND (Off:5 Def:2),,65-123,65,123
 0022000963,2021-05-01,OKC,IND,34.82,3,1,11,OKC,OKC,fg3_make,1,False,False,Mykhailiuk 3PT Jump Shot (7 PTS) (Deck 1 AST),,68-123,68,123
 0022000963,2021-05-01,OKC,IND,35.03,3,0,58,IND,IND,fg_miss,1,False,False,,MISS Martin 12' Jump Shot,68-123,68,123
 0022000963,2021-05-01,OKC,IND,35.03,3,0,58,OKC,OKC,reb,0,False,False,Deck REBOUND (Off:5 Def:3),,68-123,68,123
@@ -395,8 +395,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000963,2021-05-01,OKC,IND,39.45,4,8,33,OKC,OKC,fg_miss,101,False,False,MISS Hall 11' Driving Floating Jump Shot,,75-133,75,133
 0022000963,2021-05-01,OKC,IND,39.5,4,8,30,IND,IND,reb,0,False,False,,Brimah REBOUND (Off:0 Def:1),75-133,75,133
 0022000963,2021-05-01,OKC,IND,39.67,4,8,20,IND,IND,fg_miss,5,True,False,,MISS Stanley 3' Layup,75-133,75,133
-0022000963,2021-05-01,OKC,IND,39.67,4,8,20,IND,IND,reb,0,False,False,,Brimah REBOUND (Off:1 Def:1),75-133,75,133
 0022000963,2021-05-01,OKC,IND,39.67,4,8,20,IND,OKC,block,5,True,False,block,block,75-133,75,133
+0022000963,2021-05-01,OKC,IND,39.67,4,8,20,IND,IND,reb,0,False,False,,Brimah REBOUND (Off:1 Def:1),75-133,75,133
 0022000963,2021-05-01,OKC,IND,39.67,4,8,20,IND,IND,fg_make,5,False,False,,Brimah 1' Layup (2 PTS),75-135,75,135
 0022000963,2021-05-01,OKC,IND,39.67,4,8,20,IND,OKC,foul,2,False,False,Williams S.FOUL (P2.T1) (H.Workman),,75-135,75,135
 0022000963,2021-05-01,OKC,IND,39.67,4,8,20,IND,IND,ft_make,10,False,False,,Brimah Free Throw 1 of 1 (3 PTS),75-136,75,136

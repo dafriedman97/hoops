@@ -56,10 +56,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700754,2018-01-31,ORL,LAL,4.75,1,7,15,ORL,ORL,ft_make,12,False,False,Simmons Free Throw 2 of 2 (2 PTS),,10-10,10,10
 0021700754,2018-01-31,ORL,LAL,5.0,1,7,0,LAL,LAL,fg_make,3,False,False,,Lopez 9' Hook Shot (4 PTS),10-12,10,12
 0021700754,2018-01-31,ORL,LAL,5.25,1,6,45,ORL,LAL,foul,2,False,False,,Ingram S.FOUL (P1.T4) (S.Wall),10-12,10,12
-0021700754,2018-01-31,ORL,LAL,5.25,1,6,45,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 1 Short 0),,10-12,10,12
 0021700754,2018-01-31,ORL,LAL,5.25,1,6,45,ORL,ORL,ft_miss,11,False,False,MISS Payton Free Throw 1 of 2,,10-12,10,12
 0021700754,2018-01-31,ORL,LAL,5.25,1,6,45,ORL,ORL,reb,1,False,False,MAGIC Rebound,,10-12,10,12
 0021700754,2018-01-31,ORL,LAL,5.25,1,6,45,ORL,ORL,ft_make,12,False,False,Payton Free Throw 2 of 2 (5 PTS),,11-12,11,12
+0021700754,2018-01-31,ORL,LAL,5.25,1,6,45,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 1 Short 0),,10-12,10,12
 0021700754,2018-01-31,ORL,LAL,5.62,1,6,23,LAL,LAL,fg_miss,80,False,False,,MISS Ingram 15' Step Back Jump Shot,11-12,11,12
 0021700754,2018-01-31,ORL,LAL,5.67,1,6,20,ORL,ORL,reb,0,False,False,Payton REBOUND (Off:0 Def:2),,11-12,11,12
 0021700754,2018-01-31,ORL,LAL,5.68,1,6,19,ORL,LAL,foul,2,False,False,,Ennis S.FOUL (P2.PN) (J.Goble),11-12,11,12
@@ -129,8 +129,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700754,2018-01-31,ORL,LAL,13.65,2,10,21,ORL,ORL,fg3_miss,79,False,False,MISS Augustin 25' 3PT Pullup Jump Shot,,35-27,35,27
 0021700754,2018-01-31,ORL,LAL,13.65,2,10,21,LAL,LAL,reb,0,False,False,,Brewer REBOUND (Off:0 Def:1),35-27,35,27
 0021700754,2018-01-31,ORL,LAL,13.8,2,10,12,LAL,LAL,fg_miss,5,True,False,,MISS Clarkson 3' Layup,35-27,35,27
-0021700754,2018-01-31,ORL,LAL,13.8,2,10,12,ORL,ORL,reb,0,False,False,Augustin REBOUND (Off:0 Def:3),,35-27,35,27
 0021700754,2018-01-31,ORL,LAL,13.8,2,10,12,LAL,ORL,block,5,True,False,block,block,35-27,35,27
+0021700754,2018-01-31,ORL,LAL,13.8,2,10,12,ORL,ORL,reb,0,False,False,Augustin REBOUND (Off:0 Def:3),,35-27,35,27
 0021700754,2018-01-31,ORL,LAL,13.9,2,10,6,ORL,ORL,tov,1,False,True,Birch Bad Pass Turnover (P1.T3),,35-27,35,27
 0021700754,2018-01-31,ORL,LAL,13.9,2,10,6,ORL,LAL,steal,1,False,True,steal,steal,35-27,35,27
 0021700754,2018-01-31,ORL,LAL,14.02,2,9,59,LAL,LAL,fg_miss,5,False,False,,MISS Kuzma 2' Layup,35-27,35,27

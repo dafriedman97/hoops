@@ -117,8 +117,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701222,2018-04-11,ORL,WAS,13.17,2,10,50,WAS,WAS,fg3_miss,1,False,False,,MISS Scott 25' 3PT Jump Shot,29-26,29,26
 0021701222,2018-04-11,ORL,WAS,13.23,2,10,46,WAS,WAS,reb,0,False,False,,Satoransky REBOUND (Off:3 Def:1),29-26,29,26
 0021701222,2018-04-11,ORL,WAS,13.38,2,10,37,WAS,WAS,fg_miss,3,True,False,,MISS Mahinmi 5' Hook Shot,29-26,29,26
-0021701222,2018-04-11,ORL,WAS,13.38,2,10,37,WAS,WAS,reb,0,False,False,,Wizards Rebound,29-26,29,26
 0021701222,2018-04-11,ORL,WAS,13.38,2,10,37,WAS,ORL,block,3,True,False,block,block,29-26,29,26
+0021701222,2018-04-11,ORL,WAS,13.38,2,10,37,WAS,WAS,reb,0,False,False,,Wizards Rebound,29-26,29,26
 0021701222,2018-04-11,ORL,WAS,13.45,2,10,33,WAS,WAS,fg_miss,102,False,False,,MISS Scott 6' Driving Floating Bank Jump Shot,29-26,29,26
 0021701222,2018-04-11,ORL,WAS,13.55,2,10,27,ORL,ORL,reb,0,False,False,Biyombo REBOUND (Off:0 Def:1),,29-26,29,26
 0021701222,2018-04-11,ORL,WAS,13.68,2,10,19,ORL,ORL,fg3_make,1,False,False,Afflalo 3PT Jump Shot (3 PTS) (Biyombo 1 AST),,32-26,32,26
@@ -156,9 +156,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701222,2018-04-11,ORL,WAS,17.55,2,6,27,ORL,ORL,fg3_miss,79,False,False,MISS Mack 26' 3PT Pullup Jump Shot,,38-35,38,35
 0021701222,2018-04-11,ORL,WAS,17.63,2,6,22,WAS,WAS,reb,0,False,False,,Satoransky REBOUND (Off:3 Def:2),38-35,38,35
 0021701222,2018-04-11,ORL,WAS,17.72,2,6,17,WAS,WAS,fg_miss,41,True,False,,MISS Meeks 1' Running Layup,38-35,38,35
+0021701222,2018-04-11,ORL,WAS,17.72,2,6,17,WAS,ORL,block,41,True,False,block,block,38-35,38,35
 0021701222,2018-04-11,ORL,WAS,17.72,2,6,17,WAS,WAS,reb,0,False,False,,Wizards Rebound,38-35,38,35
 0021701222,2018-04-11,ORL,WAS,17.72,2,6,17,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 3 Short 0),,38-35,38,35
-0021701222,2018-04-11,ORL,WAS,17.72,2,6,17,WAS,ORL,block,41,True,False,block,block,38-35,38,35
 0021701222,2018-04-11,ORL,WAS,17.9,2,6,6,WAS,WAS,fg3_miss,1,False,False,,MISS Meeks 26' 3PT Jump Shot,38-35,38,35
 0021701222,2018-04-11,ORL,WAS,17.95,2,6,3,ORL,ORL,reb,0,False,False,Birch REBOUND (Off:0 Def:1),,38-35,38,35
 0021701222,2018-04-11,ORL,WAS,18.23,2,5,46,ORL,ORL,fg_miss,80,False,False,MISS Purvis 19' Step Back Jump Shot,,38-35,38,35
@@ -257,8 +257,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701222,2018-04-11,ORL,WAS,27.58,3,8,25,WAS,WAS,fg3_miss,1,False,False,,MISS Morris 25' 3PT Jump Shot,57-49,57,49
 0021701222,2018-04-11,ORL,WAS,27.6,3,8,24,ORL,ORL,reb,0,False,False,MAGIC Rebound,,57-49,57,49
 0021701222,2018-04-11,ORL,WAS,27.87,3,8,8,ORL,ORL,fg_miss,6,True,False,MISS Mack 3' Driving Layup,,57-49,57,49
-0021701222,2018-04-11,ORL,WAS,27.87,3,8,8,ORL,ORL,reb,0,False,False,MAGIC Rebound,,57-49,57,49
 0021701222,2018-04-11,ORL,WAS,27.87,3,8,8,ORL,WAS,block,6,True,False,block,block,57-49,57,49
+0021701222,2018-04-11,ORL,WAS,27.87,3,8,8,ORL,ORL,reb,0,False,False,MAGIC Rebound,,57-49,57,49
 0021701222,2018-04-11,ORL,WAS,27.92,3,8,5,ORL,ORL,fg_miss,1,False,False,MISS Hezonja 20' Jump Shot,,57-49,57,49
 0021701222,2018-04-11,ORL,WAS,27.98,3,8,1,,ORL,jump_ball,0,False,False,Jump Ball Birch vs. Gortat: Tip to Morris,,57-49,57,49
 0021701222,2018-04-11,ORL,WAS,27.98,3,8,1,WAS,WAS,reb,0,False,False,,Wizards Rebound,57-49,57,49
@@ -359,8 +359,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701222,2018-04-11,ORL,WAS,38.35,4,9,39,WAS,ORL,foul,26,False,False,Ross Offensive Charge Foul (P1.T2) (S.Corbin),,76-76,76,76
 0021701222,2018-04-11,ORL,WAS,38.35,4,9,39,ORL,ORL,tov,37,False,False,Ross Offensive Foul Turnover (P2.T11),,76-76,76,76
 0021701222,2018-04-11,ORL,WAS,38.53,4,9,28,WAS,WAS,fg_miss,1,True,False,,MISS Robinson 20' Jump Shot,76-76,76,76
-0021701222,2018-04-11,ORL,WAS,38.53,4,9,28,WAS,WAS,reb,0,False,False,,Wizards Rebound,76-76,76,76
 0021701222,2018-04-11,ORL,WAS,38.53,4,9,28,WAS,ORL,block,1,True,False,block,block,76-76,76,76
+0021701222,2018-04-11,ORL,WAS,38.53,4,9,28,WAS,WAS,reb,0,False,False,,Wizards Rebound,76-76,76,76
 0021701222,2018-04-11,ORL,WAS,38.62,4,9,23,WAS,WAS,fg_miss,1,False,False,,MISS Scott 10' Jump Shot,76-76,76,76
 0021701222,2018-04-11,ORL,WAS,38.7,4,9,18,ORL,ORL,reb,0,False,False,Purvis REBOUND (Off:0 Def:4),,76-76,76,76
 0021701222,2018-04-11,ORL,WAS,38.8,4,9,12,WAS,ORL,foul,4,False,False,Birch OFF.Foul (P1) (S.Wright),,76-76,76,76

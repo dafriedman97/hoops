@@ -64,8 +64,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700805,2018-02-07,DET,BKN,7.02,1,4,59,DET,DET,fg_miss,6,False,False,MISS Smith 2' Driving Layup,,13-17,13,17
 0021700805,2018-02-07,DET,BKN,7.08,1,4,55,BKN,BKN,reb,0,False,False,,Dinwiddie REBOUND (Off:0 Def:2),13-17,13,17
 0021700805,2018-02-07,DET,BKN,7.45,1,4,33,BKN,BKN,fg_miss,1,False,False,,MISS Carroll 20' Jump Shot,13-17,13,17
-0021700805,2018-02-07,DET,BKN,7.45,1,4,33,BKN,BKN,reb,0,False,False,,Nets Rebound,13-17,13,17
 0021700805,2018-02-07,DET,BKN,7.45,1,4,33,BKN,BKN,tov,11,False,False,,Nets Turnover: Shot Clock (T#3),13-17,13,17
+0021700805,2018-02-07,DET,BKN,7.45,1,4,33,BKN,BKN,reb,0,False,False,,Nets Rebound,13-17,13,17
 0021700805,2018-02-07,DET,BKN,7.82,1,4,11,DET,DET,fg_make,1,False,False,Johnson 9' Jump Shot (6 PTS),,15-17,15,17
 0021700805,2018-02-07,DET,BKN,8.2,1,3,48,BKN,BKN,tov,1,False,True,,Russell Bad Pass Turnover (P1.T4),15-17,15,17
 0021700805,2018-02-07,DET,BKN,8.2,1,3,48,BKN,DET,steal,1,False,True,steal,steal,15-17,15,17
@@ -153,8 +153,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700805,2018-02-07,DET,BKN,18.98,2,5,1,DET,DET,fg_make,3,False,False,Griffin 4' Hook Shot (6 PTS),,43-37,43,37
 0021700805,2018-02-07,DET,BKN,19.35,2,4,39,BKN,BKN,fg_miss,44,True,False,,MISS Crabbe 3' Reverse Layup,43-37,43,37
 0021700805,2018-02-07,DET,BKN,19.35,2,4,39,BKN,DET,block,44,True,False,block,block,43-37,43,37
-0021700805,2018-02-07,DET,BKN,19.37,2,4,38,BKN,BKN,fg_miss,5,True,False,,MISS Allen Layup,43-37,43,37
 0021700805,2018-02-07,DET,BKN,19.37,2,4,38,BKN,BKN,reb,0,False,False,,Allen REBOUND (Off:1 Def:4),43-37,43,37
+0021700805,2018-02-07,DET,BKN,19.37,2,4,38,BKN,BKN,fg_miss,5,True,False,,MISS Allen Layup,43-37,43,37
 0021700805,2018-02-07,DET,BKN,19.37,2,4,38,BKN,DET,block,5,True,False,block,block,43-37,43,37
 0021700805,2018-02-07,DET,BKN,19.38,2,4,37,DET,DET,reb,0,False,False,Drummond REBOUND (Off:2 Def:9),,43-37,43,37
 0021700805,2018-02-07,DET,BKN,19.63,2,4,22,DET,DET,fg_make,5,False,False,Drummond 1' Layup (6 PTS) (Griffin 2 AST),,45-37,45,37
@@ -220,8 +220,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700805,2018-02-07,DET,BKN,26.43,3,9,34,BKN,BKN,fg_miss,3,False,False,,MISS Allen 7' Hook Shot,57-53,57,53
 0021700805,2018-02-07,DET,BKN,26.47,3,9,32,DET,DET,reb,0,False,False,Smith REBOUND (Off:0 Def:3),,57-53,57,53
 0021700805,2018-02-07,DET,BKN,26.52,3,9,29,DET,DET,fg_miss,5,True,False,MISS Smith 5' Layup,,57-53,57,53
-0021700805,2018-02-07,DET,BKN,26.52,3,9,29,DET,DET,reb,0,False,False,PISTONS Rebound,,57-53,57,53
 0021700805,2018-02-07,DET,BKN,26.52,3,9,29,DET,BKN,block,5,True,False,block,block,57-53,57,53
+0021700805,2018-02-07,DET,BKN,26.52,3,9,29,DET,DET,reb,0,False,False,PISTONS Rebound,,57-53,57,53
 0021700805,2018-02-07,DET,BKN,26.55,3,9,27,DET,DET,fg_make,66,False,False,Bullock 14' Jump Bank Shot (5 PTS) (Smith 3 AST),,59-53,59,53
 0021700805,2018-02-07,DET,BKN,26.98,3,9,1,BKN,BKN,fg_miss,78,False,False,,MISS Dinwiddie 6' Floating Jump Shot,59-53,59,53
 0021700805,2018-02-07,DET,BKN,26.98,3,9,1,BKN,BKN,reb,0,False,False,,Nets Rebound,59-53,59,53
@@ -269,10 +269,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700805,2018-02-07,DET,BKN,30.5,3,5,30,DET,DET,reb,0,False,False,Drummond REBOUND (Off:4 Def:13),,68-60,68,60
 0021700805,2018-02-07,DET,BKN,30.5,3,5,30,DET,DET,fg_make,5,False,False,Drummond 2' Layup (12 PTS),,70-60,70,60
 0021700805,2018-02-07,DET,BKN,30.65,3,5,21,BKN,BKN,tov,1,False,True,,Russell Bad Pass Turnover (P5.T16),70-60,70,60
-0021700805,2018-02-07,DET,BKN,30.65,3,5,21,DET,DET,tov,1,False,True,Griffin Bad Pass Turnover (P1.T5),,70-60,70,60
-0021700805,2018-02-07,DET,BKN,30.65,3,5,21,BKN,DET,foul,2,False,False,Johnson S.FOUL (P2.T4) (C.Kirkland),,70-60,70,60
 0021700805,2018-02-07,DET,BKN,30.65,3,5,21,BKN,DET,steal,1,False,True,steal,steal,70-60,70,60
+0021700805,2018-02-07,DET,BKN,30.65,3,5,21,DET,DET,tov,1,False,True,Griffin Bad Pass Turnover (P1.T5),,70-60,70,60
 0021700805,2018-02-07,DET,BKN,30.65,3,5,21,DET,BKN,steal,1,False,True,steal,steal,70-60,70,60
+0021700805,2018-02-07,DET,BKN,30.65,3,5,21,BKN,DET,foul,2,False,False,Johnson S.FOUL (P2.T4) (C.Kirkland),,70-60,70,60
 0021700805,2018-02-07,DET,BKN,30.65,3,5,21,BKN,BKN,ft_make,11,False,False,,Allen Free Throw 1 of 2 (3 PTS),70-61,70,61
 0021700805,2018-02-07,DET,BKN,30.65,3,5,21,BKN,BKN,ft_make,12,False,False,,Allen Free Throw 2 of 2 (4 PTS),70-62,70,62
 0021700805,2018-02-07,DET,BKN,30.87,3,5,8,DET,DET,fg_miss,5,False,False,MISS Griffin 2' Layup,,70-62,70,62

@@ -20,8 +20,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700493,2017-12-25,NYK,PHI,3.03,1,8,58,NYK,NYK,fg_miss,63,False,False,MISS Jack 11' Fadeaway Jumper,,2-7,2,7
 0021700493,2017-12-25,NYK,PHI,3.07,1,8,56,NYK,NYK,reb,0,False,False,Kanter REBOUND (Off:1 Def:1),,2-7,2,7
 0021700493,2017-12-25,NYK,PHI,3.08,1,8,55,NYK,NYK,fg_miss,5,True,False,MISS Kanter 2' Layup,,2-7,2,7
-0021700493,2017-12-25,NYK,PHI,3.08,1,8,55,NYK,NYK,reb,0,False,False,KNICKS Rebound,,2-7,2,7
 0021700493,2017-12-25,NYK,PHI,3.08,1,8,55,NYK,PHI,block,5,True,False,block,block,2-7,2,7
+0021700493,2017-12-25,NYK,PHI,3.08,1,8,55,NYK,NYK,reb,0,False,False,KNICKS Rebound,,2-7,2,7
 0021700493,2017-12-25,NYK,PHI,3.2,1,8,48,NYK,NYK,tov,1,False,True,Jack Bad Pass Turnover (P1.T1),,2-7,2,7
 0021700493,2017-12-25,NYK,PHI,3.2,1,8,48,NYK,PHI,steal,1,False,True,steal,steal,2-7,2,7
 0021700493,2017-12-25,NYK,PHI,3.25,1,8,45,PHI,PHI,tov,2,False,True,,Embiid Lost Ball Turnover (P2.T2),2-7,2,7
@@ -69,8 +69,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700493,2017-12-25,NYK,PHI,9.48,1,2,31,PHI,PHI,fg_miss,3,False,False,,MISS Embiid 6' Hook Shot,20-13,20,13
 0021700493,2017-12-25,NYK,PHI,9.53,1,2,28,PHI,PHI,reb,0,False,False,,Booker REBOUND (Off:1 Def:0),20-13,20,13
 0021700493,2017-12-25,NYK,PHI,9.62,1,2,23,PHI,PHI,fg_miss,5,True,False,,MISS Booker 2' Layup,20-13,20,13
-0021700493,2017-12-25,NYK,PHI,9.62,1,2,23,PHI,PHI,reb,0,False,False,,McConnell REBOUND (Off:1 Def:0),20-13,20,13
 0021700493,2017-12-25,NYK,PHI,9.62,1,2,23,PHI,NYK,block,5,True,False,block,block,20-13,20,13
+0021700493,2017-12-25,NYK,PHI,9.62,1,2,23,PHI,PHI,reb,0,False,False,,McConnell REBOUND (Off:1 Def:0),20-13,20,13
 0021700493,2017-12-25,NYK,PHI,9.63,1,2,22,PHI,PHI,fg3_miss,1,False,False,,MISS Bayless 27' 3PT Jump Shot,20-13,20,13
 0021700493,2017-12-25,NYK,PHI,9.63,1,2,22,PHI,PHI,reb,0,False,False,,Booker REBOUND (Off:2 Def:0),20-13,20,13
 0021700493,2017-12-25,NYK,PHI,9.77,1,2,14,PHI,PHI,fg3_miss,1,False,False,,MISS Covington 26' 3PT Jump Shot,20-13,20,13
@@ -209,10 +209,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700493,2017-12-25,NYK,PHI,23.9,2,0,6,NYK,NYK,reb,0,False,False,Kanter REBOUND (Off:3 Def:7),,46-50,46,50
 0021700493,2017-12-25,NYK,PHI,23.9,2,0,6,NYK,NYK,fg_make,72,False,False,Kanter 1' Putback Layup (11 PTS),,48-50,48,50
 0021700493,2017-12-25,NYK,PHI,24.0,2,0,0,PHI,PHI,fg_miss,5,True,False,,MISS Booker 3' Layup,48-50,48,50
+0021700493,2017-12-25,NYK,PHI,24.0,2,0,0,PHI,NYK,block,5,True,False,block,block,48-50,48,50
 0021700493,2017-12-25,NYK,PHI,24.0,2,0,0,PHI,PHI,reb,0,False,False,,76ers Rebound,48-50,48,50
 0021700493,2017-12-25,NYK,PHI,24.0,2,0,0,PHI,,period_end,0,False,False,,,48-50,48,50
 0021700493,2017-12-25,NYK,PHI,24.0,3,12,0,PHI,,period_start,0,False,False,,,48-50,48,50
-0021700493,2017-12-25,NYK,PHI,24.0,2,0,0,PHI,NYK,block,5,True,False,block,block,48-50,48,50
 0021700493,2017-12-25,NYK,PHI,24.15,3,11,51,PHI,PHI,fg_make,6,False,False,,Simmons 1' Driving Layup (4 PTS),48-52,48,52
 0021700493,2017-12-25,NYK,PHI,24.53,3,11,28,NYK,NYK,fg_make,5,False,False,Kanter 4' Layup (13 PTS) (Jack 6 AST),,50-52,50,52
 0021700493,2017-12-25,NYK,PHI,24.63,3,11,22,PHI,PHI,fg3_miss,1,False,False,,MISS Redick 27' 3PT Jump Shot,50-52,50,52
@@ -227,8 +227,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700493,2017-12-25,NYK,PHI,25.6,3,10,24,NYK,NYK,fg_miss,1,False,False,MISS Porzingis 22' Jump Shot,,52-52,52,52
 0021700493,2017-12-25,NYK,PHI,25.67,3,10,20,PHI,PHI,reb,0,False,False,,Redick REBOUND (Off:0 Def:4),52-52,52,52
 0021700493,2017-12-25,NYK,PHI,25.93,3,10,4,PHI,NYK,foul,14,False,False,Jack FLAGRANT.FOUL.TYPE1 (P4.T1) (Z.Zarba),,52-52,52,52
-0021700493,2017-12-25,NYK,PHI,25.93,3,10,4,PHI,PHI,ft_make,19,False,False,,Embiid Free Throw Flagrant 2 of 2 (10 PTS),52-53,52,53
 0021700493,2017-12-25,NYK,PHI,25.93,3,10,4,PHI,PHI,ft_make,18,False,False,,Embiid Free Throw Flagrant 1 of 2 (11 PTS),52-54,52,54
+0021700493,2017-12-25,NYK,PHI,25.93,3,10,4,PHI,PHI,ft_make,19,False,False,,Embiid Free Throw Flagrant 2 of 2 (10 PTS),52-53,52,53
 0021700493,2017-12-25,NYK,PHI,25.95,3,10,3,PHI,PHI,fg_make,5,False,False,,Covington 3' Layup (8 PTS) (Redick 2 AST),52-56,52,56
 0021700493,2017-12-25,NYK,PHI,25.95,3,10,3,PHI,NYK,violation,2,False,False,Ntilikina Violation:Defensive Goaltending (M.Kogut),,52-56,52,56
 0021700493,2017-12-25,NYK,PHI,26.12,3,9,53,NYK,PHI,foul,2,False,False,,Embiid S.FOUL (P2.T3) (Z.Zarba),52-56,52,56
@@ -261,8 +261,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700493,2017-12-25,NYK,PHI,28.2,3,7,48,PHI,PHI,ft_make,12,False,False,,Embiid Free Throw 2 of 2 (17 PTS),55-62,55,62
 0021700493,2017-12-25,NYK,PHI,28.48,3,7,31,NYK,NYK,fg3_make,1,False,False,Lee 3PT Jump Shot (15 PTS) (Ntilikina 3 AST),,58-62,58,62
 0021700493,2017-12-25,NYK,PHI,28.87,3,7,8,PHI,PHI,fg_miss,5,True,False,,MISS Embiid 3' Layup,58-62,58,62
-0021700493,2017-12-25,NYK,PHI,28.87,3,7,8,PHI,PHI,reb,0,False,False,,76ers Rebound,58-62,58,62
 0021700493,2017-12-25,NYK,PHI,28.87,3,7,8,PHI,NYK,block,5,True,False,block,block,58-62,58,62
+0021700493,2017-12-25,NYK,PHI,28.87,3,7,8,PHI,PHI,reb,0,False,False,,76ers Rebound,58-62,58,62
 0021700493,2017-12-25,NYK,PHI,28.9,3,7,6,PHI,PHI,tov,40,False,False,,Covington Out of Bounds Lost Ball Turnover (P1.T7),58-62,58,62
 0021700493,2017-12-25,NYK,PHI,29.05,3,6,57,NYK,NYK,fg_miss,6,False,False,MISS Lee 2' Driving Layup,,58-62,58,62
 0021700493,2017-12-25,NYK,PHI,29.07,3,6,56,NYK,NYK,reb,0,False,False,Kanter REBOUND (Off:5 Def:8),,58-62,58,62
@@ -381,11 +381,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700493,2017-12-25,NYK,PHI,41.08,4,6,55,NYK,NYK,fg3_miss,1,False,False,MISS Lee 3PT Jump Shot,,84-89,84,89
 0021700493,2017-12-25,NYK,PHI,41.13,4,6,52,NYK,NYK,reb,0,False,False,Kanter REBOUND (Off:10 Def:11),,84-89,84,89
 0021700493,2017-12-25,NYK,PHI,41.15,4,6,51,NYK,NYK,fg_miss,5,True,False,MISS Kanter 2' Layup,,84-89,84,89
-0021700493,2017-12-25,NYK,PHI,41.15,4,6,51,NYK,NYK,reb,0,False,False,Lee REBOUND (Off:2 Def:1),,84-89,84,89
 0021700493,2017-12-25,NYK,PHI,41.15,4,6,51,NYK,PHI,block,5,True,False,block,block,84-89,84,89
+0021700493,2017-12-25,NYK,PHI,41.15,4,6,51,NYK,NYK,reb,0,False,False,Lee REBOUND (Off:2 Def:1),,84-89,84,89
 0021700493,2017-12-25,NYK,PHI,41.18,4,6,49,NYK,NYK,fg3_miss,1,False,False,MISS Jack 29' 3PT Jump Shot,,84-89,84,89
-0021700493,2017-12-25,NYK,PHI,41.2,4,6,48,NYK,NYK,reb,0,False,False,KNICKS Rebound,,84-89,84,89
 0021700493,2017-12-25,NYK,PHI,41.2,4,6,48,NYK,NYK,tov,11,False,False,KNICKS Turnover: Shot Clock (T#8),,84-89,84,89
+0021700493,2017-12-25,NYK,PHI,41.2,4,6,48,NYK,NYK,reb,0,False,False,KNICKS Rebound,,84-89,84,89
 0021700493,2017-12-25,NYK,PHI,41.53,4,6,28,PHI,PHI,fg_miss,1,False,False,,MISS Embiid 12' Jump Shot,84-89,84,89
 0021700493,2017-12-25,NYK,PHI,41.57,4,6,26,NYK,NYK,reb,0,False,False,Beasley REBOUND (Off:0 Def:4),,84-89,84,89
 0021700493,2017-12-25,NYK,PHI,41.65,4,6,21,NYK,PHI,foul,28,False,False,,Bayless Personal Take Foul (P4.T3) (M.Kogut),84-89,84,89

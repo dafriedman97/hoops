@@ -194,8 +194,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000439,2021-02-17,PHI,HOU,22.12,2,1,53,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (8 PTS),,63-39,63,39
 0022000439,2021-02-17,PHI,HOU,22.33,2,1,40,HOU,HOU,fg_miss,98,True,False,,MISS Tate 3' Cutting Layup Shot,63-39,63,39
 0022000439,2021-02-17,PHI,HOU,22.33,2,1,40,HOU,PHI,block,98,True,False,block,block,63-39,63,39
-0022000439,2021-02-17,PHI,HOU,22.52,2,1,29,HOU,HOU,fg_make,72,False,False,,Tate Putback Layup (5 PTS),63-41,63,41
 0022000439,2021-02-17,PHI,HOU,22.52,2,1,29,HOU,HOU,reb,0,False,False,,Tate REBOUND (Off:1 Def:0),63-41,63,41
+0022000439,2021-02-17,PHI,HOU,22.52,2,1,29,HOU,HOU,fg_make,72,False,False,,Tate Putback Layup (5 PTS),63-41,63,41
 0022000439,2021-02-17,PHI,HOU,22.63,2,1,22,PHI,PHI,tov,1,False,True,Curry Bad Pass Turnover (P2.T8),,63-41,63,41
 0022000439,2021-02-17,PHI,HOU,22.63,2,1,22,PHI,HOU,steal,1,False,True,steal,steal,63-41,63,41
 0022000439,2021-02-17,PHI,HOU,22.72,2,1,17,HOU,HOU,tov,1,False,True,,Wall Bad Pass Turnover (P5.T12),63-41,63,41
@@ -296,9 +296,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000439,2021-02-17,PHI,HOU,34.18,3,1,49,HOU,HOU,fg_miss,80,False,False,,MISS Wall 21' Step Back Jump Shot,93-75,93,75
 0022000439,2021-02-17,PHI,HOU,34.22,3,1,47,PHI,PHI,reb,0,False,False,Harris REBOUND (Off:1 Def:10),,93-75,93,75
 0022000439,2021-02-17,PHI,HOU,34.28,3,1,43,PHI,PHI,fg_miss,41,True,False,MISS Harris 3' Running Layup,,93-75,93,75
+0022000439,2021-02-17,PHI,HOU,34.28,3,1,43,PHI,HOU,block,41,True,False,block,block,93-75,93,75
 0022000439,2021-02-17,PHI,HOU,34.28,3,1,43,PHI,PHI,reb,0,False,False,76ERS Rebound,,93-75,93,75
 0022000439,2021-02-17,PHI,HOU,34.28,3,1,43,HOU,HOU,timeout,1,False,False,,Rockets Timeout: Regular (Reg.3 Short 0),93-75,93,75
-0022000439,2021-02-17,PHI,HOU,34.28,3,1,43,PHI,HOU,block,41,True,False,block,block,93-75,93,75
 0022000439,2021-02-17,PHI,HOU,34.45,3,1,33,PHI,PHI,tov,1,False,True,Curry Bad Pass Turnover (P4.T14),,93-75,93,75
 0022000439,2021-02-17,PHI,HOU,34.45,3,1,33,PHI,HOU,steal,1,False,True,steal,steal,93-75,93,75
 0022000439,2021-02-17,PHI,HOU,34.53,3,1,28,HOU,HOU,fg_make,41,False,False,,Nwaba 2' Running Layup (5 PTS) (Brown 3 AST),93-77,93,77
@@ -353,8 +353,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000439,2021-02-17,PHI,HOU,38.35,4,9,39,PHI,PHI,fg3_miss,1,False,False,MISS Joe 29' 3PT Jump Shot,,100-82,100,82
 0022000439,2021-02-17,PHI,HOU,38.4,4,9,36,HOU,HOU,reb,0,False,False,,McLemore REBOUND (Off:0 Def:3),100-82,100,82
 0022000439,2021-02-17,PHI,HOU,38.5,4,9,30,HOU,HOU,fg_miss,75,False,False,,MISS Gordon 3' Driving Finger Roll Layup,100-82,100,82
-0022000439,2021-02-17,PHI,HOU,38.57,4,9,26,HOU,HOU,fg_make,97,False,False,,McLemore Tip Layup Shot (9 PTS),100-84,100,84
 0022000439,2021-02-17,PHI,HOU,38.57,4,9,26,HOU,HOU,reb,0,False,False,,McLemore REBOUND (Off:1 Def:3),100-84,100,84
+0022000439,2021-02-17,PHI,HOU,38.57,4,9,26,HOU,HOU,fg_make,97,False,False,,McLemore Tip Layup Shot (9 PTS),100-84,100,84
 0022000439,2021-02-17,PHI,HOU,38.7,4,9,18,PHI,PHI,fg3_miss,1,False,False,MISS Korkmaz 26' 3PT Jump Shot,,100-84,100,84
 0022000439,2021-02-17,PHI,HOU,38.75,4,9,15,HOU,HOU,reb,0,False,False,,McLemore REBOUND (Off:1 Def:4),100-84,100,84
 0022000439,2021-02-17,PHI,HOU,38.83,4,9,10,HOU,PHI,foul,1,False,False,Howard P.FOUL (P4.T1) (A.Moyer-Gleich),,100-84,100,84
@@ -365,24 +365,24 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000439,2021-02-17,PHI,HOU,39.17,4,8,50,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (22 PTS),,102-84,102,84
 0022000439,2021-02-17,PHI,HOU,39.55,4,8,27,HOU,HOU,fg_make,73,False,False,,McLemore 1' Driving Reverse Layup (11 PTS) (Wall 5 AST),102-86,102,86
 0022000439,2021-02-17,PHI,HOU,39.78,4,8,13,PHI,PHI,fg_miss,75,True,False,MISS Maxey 3' Driving Finger Roll Layup,,102-86,102,86
-0022000439,2021-02-17,PHI,HOU,39.78,4,8,13,PHI,PHI,reb,0,False,False,76ERS Rebound,,102-86,102,86
 0022000439,2021-02-17,PHI,HOU,39.78,4,8,13,PHI,HOU,block,75,True,False,block,block,102-86,102,86
+0022000439,2021-02-17,PHI,HOU,39.78,4,8,13,PHI,PHI,reb,0,False,False,76ERS Rebound,,102-86,102,86
 0022000439,2021-02-17,PHI,HOU,39.87,4,8,8,PHI,PHI,fg3_miss,1,False,False,MISS Joe 28' 3PT Jump Shot,,102-86,102,86
 0022000439,2021-02-17,PHI,HOU,39.9,4,8,6,HOU,HOU,reb,0,False,False,,Cousins REBOUND (Off:0 Def:6),102-86,102,86
 0022000439,2021-02-17,PHI,HOU,40.05,4,7,57,HOU,HOU,tov,1,False,True,,Wall Bad Pass Turnover (P6.T17),102-86,102,86
 0022000439,2021-02-17,PHI,HOU,40.05,4,7,57,HOU,PHI,steal,1,False,True,steal,steal,102-86,102,86
 0022000439,2021-02-17,PHI,HOU,40.13,4,7,52,PHI,PHI,fg_miss,41,True,False,MISS Maxey 2' Running Layup,,102-86,102,86
-0022000439,2021-02-17,PHI,HOU,40.13,4,7,52,PHI,PHI,reb,0,False,False,76ERS Rebound,,102-86,102,86
 0022000439,2021-02-17,PHI,HOU,40.13,4,7,52,PHI,HOU,block,41,True,False,block,block,102-86,102,86
+0022000439,2021-02-17,PHI,HOU,40.13,4,7,52,PHI,PHI,reb,0,False,False,76ERS Rebound,,102-86,102,86
 0022000439,2021-02-17,PHI,HOU,40.23,4,7,46,PHI,PHI,fg_miss,63,False,False,MISS Embiid 15' Fadeaway Jumper,,102-86,102,86
 0022000439,2021-02-17,PHI,HOU,40.28,4,7,43,HOU,HOU,reb,0,False,False,,Nwaba REBOUND (Off:2 Def:6),102-86,102,86
 0022000439,2021-02-17,PHI,HOU,40.38,4,7,37,HOU,HOU,fg3_make,1,False,False,,Cousins 27' 3PT Jump Shot (19 PTS) (Wall 6 AST),102-89,102,89
 0022000439,2021-02-17,PHI,HOU,40.77,4,7,14,PHI,PHI,fg_make,6,False,False,Maxey 2' Driving Layup (10 PTS) (Embiid 9 AST),,104-89,104,89
-0022000439,2021-02-17,PHI,HOU,40.95,4,7,3,HOU,HOU,fg_miss,98,True,False,,MISS Nwaba 3' Cutting Layup Shot,104-89,104,89
-0022000439,2021-02-17,PHI,HOU,40.95,4,7,3,PHI,PHI,reb,0,False,False,76ERS Rebound,,104-89,104,89
 0022000439,2021-02-17,PHI,HOU,40.95,4,7,3,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 5 Short 0),,104-89,104,89
 0022000439,2021-02-17,PHI,HOU,40.95,4,7,3,,PHI,jump_ball,1,False,False,Coach Challenge,,104-89,104,89
+0022000439,2021-02-17,PHI,HOU,40.95,4,7,3,HOU,HOU,fg_miss,98,True,False,,MISS Nwaba 3' Cutting Layup Shot,104-89,104,89
 0022000439,2021-02-17,PHI,HOU,40.95,4,7,3,HOU,PHI,block,98,True,False,block,block,104-89,104,89
+0022000439,2021-02-17,PHI,HOU,40.95,4,7,3,PHI,PHI,reb,0,False,False,76ERS Rebound,,104-89,104,89
 0022000439,2021-02-17,PHI,HOU,41.4,4,6,36,PHI,PHI,fg_miss,63,False,False,MISS Embiid 17' Fadeaway Jumper,,104-89,104,89
 0022000439,2021-02-17,PHI,HOU,41.43,4,6,34,HOU,HOU,reb,0,False,False,,Nwaba REBOUND (Off:2 Def:7),104-89,104,89
 0022000439,2021-02-17,PHI,HOU,41.62,4,6,23,HOU,HOU,fg3_miss,1,False,False,,MISS Cousins 27' 3PT Jump Shot,104-89,104,89
@@ -466,6 +466,6 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000439,2021-02-17,PHI,HOU,47.92,4,0,5,HOU,HOU,reb,0,False,False,,Cousins REBOUND (Off:0 Def:8),118-113,118,113
 0022000439,2021-02-17,PHI,HOU,47.92,4,0,5,HOU,HOU,timeout,1,False,False,,Rockets Timeout: Regular (Reg.7 Short 0),118-113,118,113
 0022000439,2021-02-17,PHI,HOU,47.98,4,0,1,HOU,HOU,fg_miss,75,True,False,,MISS Wall 2' Driving Finger Roll Layup,118-113,118,113
-0022000439,2021-02-17,PHI,HOU,47.98,4,0,1,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:10),,118-113,118,113
 0022000439,2021-02-17,PHI,HOU,47.98,4,0,1,HOU,PHI,block,75,True,False,block,block,118-113,118,113
+0022000439,2021-02-17,PHI,HOU,47.98,4,0,1,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:10),,118-113,118,113
 0022000439,2021-02-17,PHI,HOU,48.0,4,0,0,PHI,,period_end,0,False,False,,,118-113,118,113

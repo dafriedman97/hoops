@@ -87,8 +87,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900304,2019-12-03,DEN,LAL,9.9,1,2,6,DEN,DEN,fg_make,43,False,False,Hernangomez 2' Alley Oop Layup (2 PTS) (Jokic 4 AST),,18-25,18,25
 0021900304,2019-12-03,DEN,LAL,10.18,1,1,49,LAL,DEN,foul,1,False,False,Hernangomez P.FOUL (P1.T2) (J.Williams),,18-25,18,25
 0021900304,2019-12-03,DEN,LAL,10.23,1,1,46,LAL,LAL,fg3_miss,80,False,False,,MISS Caldwell-Pope 24' 3PT Step Back Jump Shot,18-25,18,25
-0021900304,2019-12-03,DEN,LAL,10.35,1,1,39,LAL,LAL,fg_miss,97,False,False,,MISS Howard 1' Tip Layup Shot,18-25,18,25
 0021900304,2019-12-03,DEN,LAL,10.35,1,1,39,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:1 Def:0),18-25,18,25
+0021900304,2019-12-03,DEN,LAL,10.35,1,1,39,LAL,LAL,fg_miss,97,False,False,,MISS Howard 1' Tip Layup Shot,18-25,18,25
 0021900304,2019-12-03,DEN,LAL,10.37,1,1,38,DEN,DEN,reb,0,False,False,Plumlee REBOUND (Off:0 Def:1),,18-25,18,25
 0021900304,2019-12-03,DEN,LAL,10.42,1,1,35,DEN,DEN,fg_make,80,False,False,Murray 17' Step Back Jump Shot (6 PTS),,20-25,20,25
 0021900304,2019-12-03,DEN,LAL,10.42,1,1,35,DEN,LAL,foul,2,False,False,,Howard S.FOUL (P1.T3) (M.Smith),20-25,20,25
@@ -119,8 +119,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900304,2019-12-03,DEN,LAL,13.07,2,10,56,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 1 Short 0),,26-34,26,34
 0021900304,2019-12-03,DEN,LAL,13.25,2,10,45,DEN,DEN,fg_make,52,False,False,Grant 1' Alley Oop Dunk (5 PTS) (Plumlee 2 AST),,28-34,28,34
 0021900304,2019-12-03,DEN,LAL,13.57,2,10,26,LAL,LAL,fg_miss,75,True,False,,MISS Rondo 3' Driving Finger Roll Layup,28-34,28,34
-0021900304,2019-12-03,DEN,LAL,13.57,2,10,26,LAL,LAL,reb,0,False,False,,Lakers Rebound,28-34,28,34
 0021900304,2019-12-03,DEN,LAL,13.57,2,10,26,LAL,DEN,block,75,True,False,block,block,28-34,28,34
+0021900304,2019-12-03,DEN,LAL,13.57,2,10,26,LAL,LAL,reb,0,False,False,,Lakers Rebound,28-34,28,34
 0021900304,2019-12-03,DEN,LAL,13.63,2,10,22,LAL,LAL,fg_make,78,False,False,,Kuzma 6' Floating Jump Shot (4 PTS) (James 1 AST),28-36,28,36
 0021900304,2019-12-03,DEN,LAL,13.87,2,10,8,DEN,DEN,fg_make,101,False,False,Morris 7' Driving Floating Jump Shot (2 PTS),,30-36,30,36
 0021900304,2019-12-03,DEN,LAL,14.32,2,9,41,LAL,LAL,fg3_miss,1,False,False,,MISS Caruso 3PT Jump Shot,30-36,30,36
@@ -241,9 +241,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900304,2019-12-03,DEN,LAL,25.75,3,10,15,LAL,LAL,fg_miss,97,False,False,,MISS McGee 1' Tip Layup Shot,54-64,54,64
 0021900304,2019-12-03,DEN,LAL,25.77,3,10,14,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:0 Def:2),,54-64,54,64
 0021900304,2019-12-03,DEN,LAL,25.8,3,10,12,DEN,DEN,tov,2,False,True,Jokic Lost Ball Turnover (P5.T8),,54-64,54,64
+0021900304,2019-12-03,DEN,LAL,25.8,3,10,12,DEN,LAL,steal,2,False,True,steal,steal,54-64,54,64
 0021900304,2019-12-03,DEN,LAL,25.8,3,10,12,LAL,LAL,fg3_miss,1,False,False,,MISS Green 3PT Jump Shot,54-64,54,64
 0021900304,2019-12-03,DEN,LAL,25.8,3,10,12,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,54-64,54,64
-0021900304,2019-12-03,DEN,LAL,25.8,3,10,12,DEN,LAL,steal,2,False,True,steal,steal,54-64,54,64
 0021900304,2019-12-03,DEN,LAL,26.15,3,9,51,DEN,DEN,fg_make,79,False,False,Murray 11' Pullup Jump Shot (13 PTS),,56-64,56,64
 0021900304,2019-12-03,DEN,LAL,26.45,3,9,33,LAL,LAL,fg_miss,86,False,False,,MISS Davis 15' Turnaround Fadeaway Shot,56-64,56,64
 0021900304,2019-12-03,DEN,LAL,26.48,3,9,31,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,56-64,56,64
@@ -275,8 +275,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900304,2019-12-03,DEN,LAL,29.48,3,6,31,LAL,LAL,tov,1,False,True,,Caldwell-Pope Bad Pass Turnover (P3.T11),64-67,64,67
 0021900304,2019-12-03,DEN,LAL,29.48,3,6,31,LAL,DEN,steal,1,False,True,steal,steal,64-67,64,67
 0021900304,2019-12-03,DEN,LAL,29.62,3,6,23,DEN,DEN,fg_miss,76,False,False,MISS Millsap 2' Running Finger Roll Layup,,64-67,64,67
-0021900304,2019-12-03,DEN,LAL,29.67,3,6,20,DEN,DEN,fg_make,97,False,False,Millsap 1' Tip Layup Shot (14 PTS),,66-67,66,67
 0021900304,2019-12-03,DEN,LAL,29.67,3,6,20,DEN,DEN,reb,0,False,False,Millsap REBOUND (Off:2 Def:2),,66-67,66,67
+0021900304,2019-12-03,DEN,LAL,29.67,3,6,20,DEN,DEN,fg_make,97,False,False,Millsap 1' Tip Layup Shot (14 PTS),,66-67,66,67
 0021900304,2019-12-03,DEN,LAL,29.95,3,6,3,LAL,LAL,fg_make,1,False,False,,Davis 19' Jump Shot (14 PTS) (James 7 AST),66-69,66,69
 0021900304,2019-12-03,DEN,LAL,30.18,3,5,49,DEN,LAL,foul,1,False,False,,McGee P.FOUL (P3.T4) (M.Dagher),66-69,66,69
 0021900304,2019-12-03,DEN,LAL,30.18,3,5,49,DEN,LAL,foul,11,False,False,,McGee T.FOUL (P3.T4) (J.Williams),66-69,66,69
@@ -318,9 +318,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900304,2019-12-03,DEN,LAL,34.58,3,1,25,DEN,DEN,fg_miss,71,False,False,MISS Hernangomez 2' Finger Roll Layup,,76-82,76,82
 0021900304,2019-12-03,DEN,LAL,34.63,3,1,22,LAL,LAL,reb,0,False,False,,Kuzma REBOUND (Off:1 Def:1),76-82,76,82
 0021900304,2019-12-03,DEN,LAL,34.78,3,1,13,LAL,DEN,foul,2,False,False,Plumlee S.FOUL (P4.T3) (J.Williams),,76-82,76,82
-0021900304,2019-12-03,DEN,LAL,34.78,3,1,13,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 4 Short 0),,76-82,76,82
 0021900304,2019-12-03,DEN,LAL,34.78,3,1,13,DEN,LAL,ft_make,11,False,False,,Davis Free Throw 1 of 2 (22 PTS),76-83,76,83
 0021900304,2019-12-03,DEN,LAL,34.78,3,1,13,DEN,LAL,ft_make,12,False,False,,Davis Free Throw 2 of 2 (23 PTS),76-84,76,84
+0021900304,2019-12-03,DEN,LAL,34.78,3,1,13,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 4 Short 0),,76-82,76,82
 0021900304,2019-12-03,DEN,LAL,35.03,3,0,58,DEN,DEN,fg_miss,102,False,False,MISS Beasley 8' Driving Floating Bank Jump Shot,,76-84,76,84
 0021900304,2019-12-03,DEN,LAL,35.07,3,0,56,LAL,LAL,reb,0,False,False,,Rondo REBOUND (Off:0 Def:4),76-84,76,84
 0021900304,2019-12-03,DEN,LAL,35.35,3,0,39,LAL,LAL,fg_miss,98,False,False,,MISS Kuzma 3' Cutting Layup Shot,76-84,76,84
@@ -377,8 +377,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900304,2019-12-03,DEN,LAL,40.32,4,7,41,DEN,LAL,block,6,True,False,block,block,82-92,82,92
 0021900304,2019-12-03,DEN,LAL,40.37,4,7,38,LAL,LAL,reb,0,False,False,,Kuzma REBOUND (Off:1 Def:4),82-92,82,92
 0021900304,2019-12-03,DEN,LAL,40.43,4,7,34,LAL,LAL,fg_miss,6,True,False,,MISS Green 2' Driving Layup,82-92,82,92
-0021900304,2019-12-03,DEN,LAL,40.43,4,7,34,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,82-92,82,92
 0021900304,2019-12-03,DEN,LAL,40.43,4,7,34,LAL,DEN,block,6,True,False,block,block,82-92,82,92
+0021900304,2019-12-03,DEN,LAL,40.43,4,7,34,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,82-92,82,92
 0021900304,2019-12-03,DEN,LAL,40.8,4,7,12,DEN,DEN,fg_miss,78,False,False,MISS Jokic 4' Floating Jump Shot,,82-92,82,92
 0021900304,2019-12-03,DEN,LAL,40.83,4,7,10,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:1 Def:3),,82-92,82,92
 0021900304,2019-12-03,DEN,LAL,40.83,4,7,10,DEN,DEN,fg_make,97,False,False,Jokic 1' Tip Layup Shot (9 PTS),,84-92,84,92

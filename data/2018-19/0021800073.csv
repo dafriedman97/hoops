@@ -27,8 +27,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800073,2018-10-26,SAC,WAS,2.05,1,9,57,SAC,SAC,reb,0,False,False,Cauley-Stein REBOUND (Off:0 Def:2),,2-0,2,0
 0021800073,2018-10-26,SAC,WAS,2.13,1,9,52,SAC,SAC,tov,4,False,False,Cauley-Stein Traveling Turnover (P1.T1),,2-0,2,0
 0021800073,2018-10-26,SAC,WAS,2.25,1,9,45,WAS,WAS,fg_miss,6,True,False,,MISS Wall 3' Driving Layup,2-0,2,0
-0021800073,2018-10-26,SAC,WAS,2.25,1,9,45,WAS,WAS,reb,0,False,False,,Wizards Rebound,2-0,2,0
 0021800073,2018-10-26,SAC,WAS,2.25,1,9,45,WAS,SAC,block,6,True,False,block,block,2-0,2,0
+0021800073,2018-10-26,SAC,WAS,2.25,1,9,45,WAS,WAS,reb,0,False,False,,Wizards Rebound,2-0,2,0
 0021800073,2018-10-26,SAC,WAS,2.4,1,9,36,WAS,SAC,violation,5,False,False,Cauley-Stein Violation:Kicked Ball (R.Mott),,2-0,2,0
 0021800073,2018-10-26,SAC,WAS,2.5,1,9,30,WAS,SAC,foul,1,False,False,Bjelica P.FOUL (P1.T4) (R.Mott),,2-0,2,0
 0021800073,2018-10-26,SAC,WAS,2.68,1,9,19,WAS,WAS,fg_miss,86,False,False,,MISS Beal 14' Turnaround Fadeaway Shot,2-0,2,0
@@ -387,8 +387,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800073,2018-10-26,SAC,WAS,41.53,4,6,28,WAS,WAS,tov,2,False,True,,Beal Lost Ball Turnover (P3.T14),96-97,96,97
 0021800073,2018-10-26,SAC,WAS,41.53,4,6,28,WAS,SAC,steal,2,False,True,steal,steal,96-97,96,97
 0021800073,2018-10-26,SAC,WAS,41.63,4,6,22,SAC,SAC,fg_miss,5,True,False,MISS Cauley-Stein 3' Layup,,96-97,96,97
-0021800073,2018-10-26,SAC,WAS,41.63,4,6,22,SAC,SAC,reb,0,False,False,KINGS Rebound,,96-97,96,97
 0021800073,2018-10-26,SAC,WAS,41.63,4,6,22,SAC,WAS,block,5,True,False,block,block,96-97,96,97
+0021800073,2018-10-26,SAC,WAS,41.63,4,6,22,SAC,SAC,reb,0,False,False,KINGS Rebound,,96-97,96,97
 0021800073,2018-10-26,SAC,WAS,41.7,4,6,18,SAC,SAC,fg_make,1,False,False,Hield 19' Jump Shot (17 PTS) (Jackson 2 AST),,98-97,98,97
 0021800073,2018-10-26,SAC,WAS,41.72,4,6,17,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.4 Short 0),98-97,98,97
 0021800073,2018-10-26,SAC,WAS,42.05,4,5,57,WAS,WAS,fg_miss,6,False,False,,MISS Beal 5' Driving Layup,98-97,98,97
@@ -404,9 +404,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800073,2018-10-26,SAC,WAS,43.08,4,4,55,WAS,WAS,tov,2,False,True,,Wall Lost Ball Turnover (P2.T16),100-97,100,97
 0021800073,2018-10-26,SAC,WAS,43.08,4,4,55,WAS,SAC,steal,2,False,True,steal,steal,100-97,100,97
 0021800073,2018-10-26,SAC,WAS,43.35,4,4,39,SAC,SAC,fg_miss,5,True,False,MISS Hield 4' Layup,,100-97,100,97
+0021800073,2018-10-26,SAC,WAS,43.35,4,4,39,SAC,WAS,block,5,True,False,block,block,100-97,100,97
 0021800073,2018-10-26,SAC,WAS,43.35,4,4,39,WAS,WAS,reb,0,False,False,,Porter Jr. REBOUND (Off:1 Def:2),100-97,100,97
 0021800073,2018-10-26,SAC,WAS,43.35,4,4,39,WAS,WAS,tov,4,False,False,,Porter Jr. Traveling Turnover (P2.T17),100-97,100,97
-0021800073,2018-10-26,SAC,WAS,43.35,4,4,39,SAC,WAS,block,5,True,False,block,block,100-97,100,97
 0021800073,2018-10-26,SAC,WAS,43.63,4,4,22,SAC,SAC,fg_make,6,False,False,Fox 3' Driving Layup (17 PTS),,102-97,102,97
 0021800073,2018-10-26,SAC,WAS,43.93,4,4,4,WAS,SAC,foul,2,False,False,Hield S.FOUL (P1.T3) (J.Tiven),,102-97,102,97
 0021800073,2018-10-26,SAC,WAS,43.93,4,4,4,WAS,WAS,ft_make,11,False,False,,Green Free Throw 1 of 2 (10 PTS),102-98,102,98
@@ -435,14 +435,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800073,2018-10-26,SAC,WAS,45.8,4,2,12,SAC,SAC,fg3_miss,1,False,False,MISS Fox 25' 3PT Jump Shot,,108-104,108,104
 0021800073,2018-10-26,SAC,WAS,45.85,4,2,9,SAC,SAC,reb,0,False,False,Cauley-Stein REBOUND (Off:2 Def:7),,108-104,108,104
 0021800073,2018-10-26,SAC,WAS,45.87,4,2,8,SAC,SAC,fg_miss,1,True,False,MISS Cauley-Stein 2' Jump Shot,,108-104,108,104
+0021800073,2018-10-26,SAC,WAS,45.87,4,2,8,SAC,WAS,block,1,True,False,block,block,108-104,108,104
 0021800073,2018-10-26,SAC,WAS,45.87,4,2,8,SAC,SAC,reb,0,False,False,Cauley-Stein REBOUND (Off:3 Def:7),,108-104,108,104
 0021800073,2018-10-26,SAC,WAS,45.87,4,2,8,SAC,WAS,foul,2,False,False,,Beal S.FOUL (P4.T4) (R.Mott),108-104,108,104
-0021800073,2018-10-26,SAC,WAS,45.87,4,2,8,SAC,WAS,block,1,True,False,block,block,108-104,108,104
 0021800073,2018-10-26,SAC,WAS,45.87,4,2,8,SAC,SAC,ft_make,11,False,False,Cauley-Stein Free Throw 1 of 2 (16 PTS),,109-104,109,104
 0021800073,2018-10-26,SAC,WAS,45.87,4,2,8,SAC,SAC,ft_make,12,False,False,Cauley-Stein Free Throw 2 of 2 (17 PTS),,110-104,110,104
 0021800073,2018-10-26,SAC,WAS,45.97,4,2,2,WAS,WAS,fg_miss,6,True,False,,MISS Wall 3' Driving Layup,110-104,110,104
-0021800073,2018-10-26,SAC,WAS,45.97,4,2,2,WAS,WAS,reb,0,False,False,,Wizards Rebound,110-104,110,104
 0021800073,2018-10-26,SAC,WAS,45.97,4,2,2,WAS,SAC,block,6,True,False,block,block,110-104,110,104
+0021800073,2018-10-26,SAC,WAS,45.97,4,2,2,WAS,WAS,reb,0,False,False,,Wizards Rebound,110-104,110,104
 0021800073,2018-10-26,SAC,WAS,46.08,4,1,55,WAS,WAS,fg3_miss,1,False,False,,MISS Beal 25' 3PT Jump Shot,110-104,110,104
 0021800073,2018-10-26,SAC,WAS,46.13,4,1,52,SAC,SAC,reb,0,False,False,Cauley-Stein REBOUND (Off:3 Def:8),,110-104,110,104
 0021800073,2018-10-26,SAC,WAS,46.4,4,1,36,SAC,SAC,fg_miss,1,False,False,MISS Fox 21' Jump Shot,,110-104,110,104

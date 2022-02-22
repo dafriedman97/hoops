@@ -12,8 +12,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800014,2018-10-18,PHI,CHI,1.45,1,10,33,PHI,PHI,tov,40,False,False,Covington Out of Bounds Lost Ball Turnover (P1.T1),,4-5,4,5
 0021800014,2018-10-18,PHI,CHI,1.62,1,10,23,CHI,PHI,foul,1,False,False,Covington P.FOUL (P1.T1) (K.Mauer),,4-5,4,5
 0021800014,2018-10-18,PHI,CHI,1.67,1,10,20,CHI,CHI,fg_miss,79,True,False,,MISS Payne 12' Pullup Jump Shot,4-5,4,5
-0021800014,2018-10-18,PHI,CHI,1.67,1,10,20,CHI,CHI,reb,0,False,False,,Bulls Rebound,4-5,4,5
 0021800014,2018-10-18,PHI,CHI,1.67,1,10,20,CHI,PHI,block,79,True,False,block,block,4-5,4,5
+0021800014,2018-10-18,PHI,CHI,1.67,1,10,20,CHI,CHI,reb,0,False,False,,Bulls Rebound,4-5,4,5
 0021800014,2018-10-18,PHI,CHI,1.8,1,10,12,CHI,CHI,tov,1,False,True,,LaVine Bad Pass Turnover (P1.T1),4-5,4,5
 0021800014,2018-10-18,PHI,CHI,1.8,1,10,12,CHI,PHI,steal,1,False,True,steal,steal,4-5,4,5
 0021800014,2018-10-18,PHI,CHI,1.93,1,10,4,PHI,PHI,fg_miss,1,False,False,MISS Saric 11' Jump Shot,,4-5,4,5
@@ -31,8 +31,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800014,2018-10-18,PHI,CHI,3.0,1,9,0,PHI,PHI,fg_miss,1,False,False,MISS Fultz 13' Jump Shot,,10-8,10,8
 0021800014,2018-10-18,PHI,CHI,3.05,1,8,57,CHI,CHI,reb,0,False,False,,LaVine REBOUND (Off:0 Def:1),10-8,10,8
 0021800014,2018-10-18,PHI,CHI,3.18,1,8,49,CHI,CHI,fg_miss,5,True,False,,MISS Carter Jr. 2' Layup,10-8,10,8
-0021800014,2018-10-18,PHI,CHI,3.18,1,8,49,CHI,CHI,reb,0,False,False,,Bulls Rebound,10-8,10,8
 0021800014,2018-10-18,PHI,CHI,3.18,1,8,49,CHI,PHI,block,5,True,False,block,block,10-8,10,8
+0021800014,2018-10-18,PHI,CHI,3.18,1,8,49,CHI,CHI,reb,0,False,False,,Bulls Rebound,10-8,10,8
 0021800014,2018-10-18,PHI,CHI,3.3,1,8,42,CHI,CHI,fg_make,1,False,False,,Carter Jr. 16' Jump Shot (2 PTS) (LaVine 1 AST),10-10,10,10
 0021800014,2018-10-18,PHI,CHI,3.67,1,8,20,PHI,PHI,fg_make,1,False,False,Embiid 10' Jump Shot (8 PTS),,12-10,12,10
 0021800014,2018-10-18,PHI,CHI,3.83,1,8,10,CHI,CHI,fg_make,93,False,False,,LaVine 4' Driving Bank Hook Shot (5 PTS),12-12,12,12
@@ -40,8 +40,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800014,2018-10-18,PHI,CHI,4.13,1,7,52,PHI,PHI,fg_miss,79,False,False,MISS Fultz 16' Pullup Jump Shot,,12-12,12,12
 0021800014,2018-10-18,PHI,CHI,4.18,1,7,49,CHI,CHI,reb,0,False,False,,Carter Jr. REBOUND (Off:0 Def:1),12-12,12,12
 0021800014,2018-10-18,PHI,CHI,4.2,1,7,48,CHI,CHI,tov,2,False,True,,Carter Jr. Lost Ball Turnover (P1.T2),12-12,12,12
-0021800014,2018-10-18,PHI,CHI,4.2,1,7,48,PHI,CHI,foul,2,False,False,,Holiday S.FOUL (P2.T4) (N.Buchert),12-12,12,12
 0021800014,2018-10-18,PHI,CHI,4.2,1,7,48,CHI,PHI,steal,2,False,True,steal,steal,12-12,12,12
+0021800014,2018-10-18,PHI,CHI,4.2,1,7,48,PHI,CHI,foul,2,False,False,,Holiday S.FOUL (P2.T4) (N.Buchert),12-12,12,12
 0021800014,2018-10-18,PHI,CHI,4.2,1,7,48,PHI,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (9 PTS),,13-12,13,12
 0021800014,2018-10-18,PHI,CHI,4.2,1,7,48,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (10 PTS),,14-12,14,12
 0021800014,2018-10-18,PHI,CHI,4.37,1,7,38,CHI,CHI,fg3_make,1,False,False,,Portis 27' 3PT Jump Shot (5 PTS) (LaVine 2 AST),14-15,14,15
@@ -106,8 +106,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800014,2018-10-18,PHI,CHI,12.0,1,0,0,CHI,,period_end,0,False,False,,,38-41,38,41
 0021800014,2018-10-18,PHI,CHI,12.0,2,12,0,CHI,,period_start,0,False,False,,,38-41,38,41
 0021800014,2018-10-18,PHI,CHI,12.12,2,11,53,PHI,PHI,fg_miss,41,True,False,MISS Fultz 4' Running Layup,,38-41,38,41
-0021800014,2018-10-18,PHI,CHI,12.12,2,11,53,CHI,CHI,reb,0,False,False,,Bulls Rebound,38-41,38,41
 0021800014,2018-10-18,PHI,CHI,12.12,2,11,53,PHI,CHI,block,41,True,False,block,block,38-41,38,41
+0021800014,2018-10-18,PHI,CHI,12.12,2,11,53,CHI,CHI,reb,0,False,False,,Bulls Rebound,38-41,38,41
 0021800014,2018-10-18,PHI,CHI,12.38,2,11,37,CHI,CHI,fg3_miss,1,False,False,,MISS Parker 26' 3PT Jump Shot,38-41,38,41
 0021800014,2018-10-18,PHI,CHI,12.43,2,11,34,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:3),,38-41,38,41
 0021800014,2018-10-18,PHI,CHI,12.77,2,11,14,PHI,PHI,fg_miss,1,False,False,MISS Fultz 18' Jump Shot,,38-41,38,41
@@ -162,8 +162,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800014,2018-10-18,PHI,CHI,17.5,2,6,30,,PHI,jump_ball,0,False,False,Jump Ball Simmons vs. Parker: Tip to Saric,,50-48,50,48
 0021800014,2018-10-18,PHI,CHI,17.57,2,6,26,PHI,PHI,fg3_make,1,False,False,Covington 26' 3PT Jump Shot (10 PTS) (Simmons 5 AST),,53-48,53,48
 0021800014,2018-10-18,PHI,CHI,17.93,2,6,4,CHI,CHI,fg_miss,6,True,False,,MISS LaVine 6' Driving Layup,53-48,53,48
-0021800014,2018-10-18,PHI,CHI,17.93,2,6,4,CHI,CHI,reb,0,False,False,,Bulls Rebound,53-48,53,48
 0021800014,2018-10-18,PHI,CHI,17.93,2,6,4,CHI,PHI,block,6,True,False,block,block,53-48,53,48
+0021800014,2018-10-18,PHI,CHI,17.93,2,6,4,CHI,CHI,reb,0,False,False,,Bulls Rebound,53-48,53,48
 0021800014,2018-10-18,PHI,CHI,17.98,2,6,1,CHI,CHI,fg_miss,3,False,False,,MISS Portis 3' Hook Shot,53-48,53,48
 0021800014,2018-10-18,PHI,CHI,17.98,2,6,1,CHI,CHI,reb,0,False,False,,Bulls Rebound,53-48,53,48
 0021800014,2018-10-18,PHI,CHI,18.03,2,5,58,CHI,CHI,fg_make,7,False,False,,Holiday 1' Dunk (7 PTS) (Payne 4 AST),53-50,53,50
@@ -291,8 +291,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800014,2018-10-18,PHI,CHI,27.88,3,8,7,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:9),,79-61,79,61
 0021800014,2018-10-18,PHI,CHI,27.97,3,8,2,PHI,PHI,fg3_make,1,False,False,Saric 26' 3PT Jump Shot (10 PTS) (Covington 2 AST),,82-61,82,61
 0021800014,2018-10-18,PHI,CHI,28.35,3,7,39,CHI,CHI,fg3_miss,1,True,False,,MISS Holiday 24' 3PT Jump Shot,82-61,82,61
-0021800014,2018-10-18,PHI,CHI,28.35,3,7,39,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:10),,82-61,82,61
 0021800014,2018-10-18,PHI,CHI,28.35,3,7,39,CHI,PHI,block,1,True,False,block,block,82-61,82,61
+0021800014,2018-10-18,PHI,CHI,28.35,3,7,39,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:10),,82-61,82,61
 0021800014,2018-10-18,PHI,CHI,28.53,3,7,28,PHI,PHI,fg_make,79,False,False,Redick 20' Pullup Jump Shot (10 PTS) (Simmons 7 AST),,84-61,84,61
 0021800014,2018-10-18,PHI,CHI,28.55,3,7,27,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.5 Short 0),84-61,84,61
 0021800014,2018-10-18,PHI,CHI,28.68,3,7,19,CHI,CHI,fg_make,108,False,False,,Parker Cutting Dunk Shot (4 PTS) (Carter Jr. 2 AST),84-63,84,63
@@ -393,8 +393,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800014,2018-10-18,PHI,CHI,38.58,4,9,25,PHI,CHI,block,5,True,False,block,block,105-86,105,86
 0021800014,2018-10-18,PHI,CHI,38.65,4,9,21,PHI,PHI,reb,0,False,False,Johnson REBOUND (Off:1 Def:1),,105-86,105,86
 0021800014,2018-10-18,PHI,CHI,38.68,4,9,19,PHI,PHI,fg_miss,5,True,False,MISS Johnson 8' Layup,,105-86,105,86
-0021800014,2018-10-18,PHI,CHI,38.68,4,9,19,CHI,CHI,reb,0,False,False,,Portis REBOUND (Off:2 Def:8),105-86,105,86
 0021800014,2018-10-18,PHI,CHI,38.68,4,9,19,PHI,CHI,block,5,True,False,block,block,105-86,105,86
+0021800014,2018-10-18,PHI,CHI,38.68,4,9,19,CHI,CHI,reb,0,False,False,,Portis REBOUND (Off:2 Def:8),105-86,105,86
 0021800014,2018-10-18,PHI,CHI,38.85,4,9,9,CHI,CHI,fg_make,1,False,False,,Blakeney 15' Jump Shot (13 PTS) (Parker 1 AST),105-88,105,88
 0021800014,2018-10-18,PHI,CHI,38.87,4,9,8,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 4 Short 0),,105-88,105,88
 0021800014,2018-10-18,PHI,CHI,39.18,4,8,49,PHI,PHI,fg3_make,79,False,False,Fultz 26' 3PT Pullup Jump Shot (8 PTS),,108-88,108,88

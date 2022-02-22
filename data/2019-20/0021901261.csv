@@ -196,9 +196,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901261,2020-08-04,POR,HOU,20.85,2,3,9,HOU,POR,violation,5,False,False,Trent Jr. Violation:Kicked Ball (M.Ayotte),,52-44,52,44
 0021901261,2020-08-04,POR,HOU,20.95,2,3,3,HOU,HOU,fg_make,75,False,False,,Westbrook 2' Driving Finger Roll Layup (8 PTS) (Harden 7 AST),52-46,52,46
 0021901261,2020-08-04,POR,HOU,21.08,2,2,55,POR,POR,fg_miss,6,True,False,MISS Lillard 2' Driving Layup,,52-46,52,46
+0021901261,2020-08-04,POR,HOU,21.08,2,2,55,POR,HOU,block,6,True,False,block,block,52-46,52,46
 0021901261,2020-08-04,POR,HOU,21.08,2,2,55,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,52-46,52,46
 0021901261,2020-08-04,POR,HOU,21.08,2,2,55,POR,POR,timeout,1,False,False,TRAIL BLAZERS Timeout: Regular (Full 2 Short 0),,52-46,52,46
-0021901261,2020-08-04,POR,HOU,21.08,2,2,55,POR,HOU,block,6,True,False,block,block,52-46,52,46
 0021901261,2020-08-04,POR,HOU,21.17,2,2,50,POR,POR,fg_miss,101,False,False,MISS McCollum 10' Driving Floating Jump Shot,,52-46,52,46
 0021901261,2020-08-04,POR,HOU,21.23,2,2,46,HOU,HOU,reb,0,False,False,,Tucker REBOUND (Off:0 Def:3),52-46,52,46
 0021901261,2020-08-04,POR,HOU,21.45,2,2,33,HOU,HOU,tov,1,False,True,,Harden Bad Pass Turnover (P1.T3),52-46,52,46
@@ -410,8 +410,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901261,2020-08-04,POR,HOU,41.68,4,6,19,POR,HOU,foul,1,False,False,,Westbrook P.FOUL (P4.T4) (M.Ayotte),95-91,95,91
 0021901261,2020-08-04,POR,HOU,41.85,4,6,9,POR,POR,fg_make,101,False,False,Lillard 8' Driving Floating Jump Shot (18 PTS),,97-91,97,91
 0021901261,2020-08-04,POR,HOU,42.2,4,5,48,HOU,HOU,fg3_make,1,False,False,,Green 3PT Jump Shot (18 PTS) (Harden 8 AST),97-94,97,94
-0021901261,2020-08-04,POR,HOU,42.45,4,5,33,POR,POR,timeout,1,False,False,TRAIL BLAZERS Timeout: Regular (Full 5 Short 0),,97-94,97,94
 0021901261,2020-08-04,POR,HOU,42.45,4,5,33,POR,HOU,foul,2,False,False,,Covington S.FOUL (P1.PN) (K.Fitzgerald),97-94,97,94
+0021901261,2020-08-04,POR,HOU,42.45,4,5,33,POR,POR,timeout,1,False,False,TRAIL BLAZERS Timeout: Regular (Full 5 Short 0),,97-94,97,94
 0021901261,2020-08-04,POR,HOU,42.45,4,5,33,POR,POR,ft_miss,11,False,False,MISS McCollum Free Throw 1 of 2,,97-94,97,94
 0021901261,2020-08-04,POR,HOU,42.45,4,5,33,POR,POR,reb,1,False,False,TRAIL BLAZERS Rebound,,97-94,97,94
 0021901261,2020-08-04,POR,HOU,42.45,4,5,33,POR,POR,ft_make,12,False,False,McCollum Free Throw 2 of 2 (20 PTS),,98-94,98,94

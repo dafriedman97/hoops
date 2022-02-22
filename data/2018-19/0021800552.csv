@@ -5,8 +5,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800552,2019-01-01,SAC,POR,0.47,1,11,32,SAC,SAC,reb,0,False,False,Cauley-Stein REBOUND (Off:0 Def:1),,0-0,0,0
 0021800552,2019-01-01,SAC,POR,0.83,1,11,10,SAC,SAC,fg_make,44,False,False,Shumpert 2' Reverse Layup (2 PTS) (Cauley-Stein 1 AST),,2-0,2,0
 0021800552,2019-01-01,SAC,POR,1.03,1,10,58,POR,POR,fg_miss,6,True,False,,MISS Aminu 2' Driving Layup,2-0,2,0
-0021800552,2019-01-01,SAC,POR,1.03,1,10,58,POR,POR,reb,0,False,False,,Aminu REBOUND (Off:1 Def:0),2-0,2,0
 0021800552,2019-01-01,SAC,POR,1.03,1,10,58,POR,SAC,block,6,True,False,block,block,2-0,2,0
+0021800552,2019-01-01,SAC,POR,1.03,1,10,58,POR,POR,reb,0,False,False,,Aminu REBOUND (Off:1 Def:0),2-0,2,0
 0021800552,2019-01-01,SAC,POR,1.12,1,10,53,POR,POR,fg_make,5,False,False,,Aminu 1' Layup (2 PTS),2-2,2,2
 0021800552,2019-01-01,SAC,POR,1.43,1,10,34,SAC,SAC,fg_make,79,False,False,Hield 5' Pullup Jump Shot (2 PTS),,4-2,4,2
 0021800552,2019-01-01,SAC,POR,1.62,1,10,23,POR,POR,fg3_miss,1,False,False,,MISS Harkless 25' 3PT Jump Shot,4-2,4,2
@@ -158,8 +158,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800552,2019-01-01,SAC,POR,16.58,2,7,25,SAC,SAC,reb,0,False,False,Bjelica REBOUND (Off:1 Def:3),,33-37,33,37
 0021800552,2019-01-01,SAC,POR,16.58,2,7,25,SAC,POR,foul,2,False,False,,Stauskas S.FOUL (P1.T3) (B.Barnaky),33-37,33,37
 0021800552,2019-01-01,SAC,POR,16.58,2,7,25,SAC,SAC,ft_miss,11,False,False,MISS Bjelica Free Throw 1 of 2,,33-37,33,37
-0021800552,2019-01-01,SAC,POR,16.58,2,7,25,SAC,SAC,reb,1,False,False,KINGS Rebound,,33-37,33,37
 0021800552,2019-01-01,SAC,POR,16.58,2,7,25,SAC,SAC,ft_make,12,False,False,Bjelica Free Throw 2 of 2 (4 PTS),,34-37,34,37
+0021800552,2019-01-01,SAC,POR,16.58,2,7,25,SAC,SAC,reb,1,False,False,KINGS Rebound,,33-37,33,37
 0021800552,2019-01-01,SAC,POR,16.72,2,7,17,POR,POR,fg_make,101,False,False,,McCollum 5' Driving Floating Jump Shot (6 PTS),34-39,34,39
 0021800552,2019-01-01,SAC,POR,16.73,2,7,16,SAC,SAC,timeout,1,False,False,KINGS Timeout: Regular (Full 2 Short 0),,34-39,34,39
 0021800552,2019-01-01,SAC,POR,17.02,2,6,59,SAC,SAC,fg_make,79,False,False,Shumpert 18' Pullup Jump Shot (6 PTS),,36-39,36,39
@@ -173,8 +173,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800552,2019-01-01,SAC,POR,17.9,2,6,6,POR,POR,fg3_miss,1,False,False,,MISS Collins 3PT Jump Shot,36-42,36,42
 0021800552,2019-01-01,SAC,POR,17.95,2,6,3,SAC,SAC,reb,0,False,False,Jackson REBOUND (Off:1 Def:2),,36-42,36,42
 0021800552,2019-01-01,SAC,POR,17.98,2,6,1,SAC,SAC,fg_miss,6,False,False,MISS Cauley-Stein 2' Driving Layup,,36-42,36,42
-0021800552,2019-01-01,SAC,POR,18.0,2,6,0,SAC,SAC,reb,0,False,False,KINGS Rebound,,36-42,36,42
 0021800552,2019-01-01,SAC,POR,18.0,2,6,0,SAC,POR,foul,3,False,False,,Curry L.B.FOUL (P1.T4) (M.Ervin),36-42,36,42
+0021800552,2019-01-01,SAC,POR,18.0,2,6,0,SAC,SAC,reb,0,False,False,KINGS Rebound,,36-42,36,42
 0021800552,2019-01-01,SAC,POR,18.18,2,5,49,SAC,SAC,fg_miss,105,False,False,MISS Cauley-Stein 3' Turnaround Fadeaway Bank Jump Shot,,36-42,36,42
 0021800552,2019-01-01,SAC,POR,18.25,2,5,45,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:1 Def:6),36-42,36,42
 0021800552,2019-01-01,SAC,POR,18.45,2,5,33,POR,SAC,foul,2,False,False,Fox S.FOUL (P1.T3) (B.Barnaky),,36-42,36,42
@@ -218,10 +218,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800552,2019-01-01,SAC,POR,22.75,2,1,15,SAC,SAC,tov,2,False,True,Bjelica Lost Ball Turnover (P2.T9),,50-60,50,60
 0021800552,2019-01-01,SAC,POR,22.75,2,1,15,SAC,POR,steal,2,False,True,steal,steal,50-60,50,60
 0021800552,2019-01-01,SAC,POR,22.85,2,1,9,POR,POR,fg_miss,41,True,False,,MISS Aminu 6' Running Layup,50-60,50,60
+0021800552,2019-01-01,SAC,POR,22.85,2,1,9,POR,SAC,block,41,True,False,block,block,50-60,50,60
 0021800552,2019-01-01,SAC,POR,22.85,2,1,9,POR,POR,reb,0,False,False,,Trail Blazers Rebound,50-60,50,60
 0021800552,2019-01-01,SAC,POR,22.85,2,1,9,SAC,POR,foul,4,False,False,,Nurkic OFF.Foul (P2) (B.Barnaky),50-60,50,60
 0021800552,2019-01-01,SAC,POR,22.85,2,1,9,POR,POR,tov,37,False,False,,Nurkic Offensive Foul Turnover (P4.T10),50-60,50,60
-0021800552,2019-01-01,SAC,POR,22.85,2,1,9,POR,SAC,block,41,True,False,block,block,50-60,50,60
 0021800552,2019-01-01,SAC,POR,23.05,2,0,57,SAC,SAC,tov,2,False,True,Bogdanovic Lost Ball Turnover (P4.T10),,50-60,50,60
 0021800552,2019-01-01,SAC,POR,23.05,2,0,57,SAC,POR,steal,2,False,True,steal,steal,50-60,50,60
 0021800552,2019-01-01,SAC,POR,23.32,2,0,41,POR,POR,fg_make,79,False,False,,McCollum 16' Pullup Jump Shot (12 PTS),50-62,50,62
@@ -240,8 +240,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800552,2019-01-01,SAC,POR,24.7,3,11,18,POR,POR,fg3_miss,1,False,False,,MISS Lillard 28' 3PT Jump Shot,52-64,52,64
 0021800552,2019-01-01,SAC,POR,24.75,3,11,15,SAC,SAC,reb,0,False,False,Cauley-Stein REBOUND (Off:1 Def:3),,52-64,52,64
 0021800552,2019-01-01,SAC,POR,24.82,3,11,11,SAC,SAC,fg_miss,6,True,False,MISS Hield 3' Driving Layup,,52-64,52,64
-0021800552,2019-01-01,SAC,POR,24.82,3,11,11,SAC,SAC,reb,0,False,False,KINGS Rebound,,52-64,52,64
 0021800552,2019-01-01,SAC,POR,24.82,3,11,11,SAC,POR,block,6,True,False,block,block,52-64,52,64
+0021800552,2019-01-01,SAC,POR,24.82,3,11,11,SAC,SAC,reb,0,False,False,KINGS Rebound,,52-64,52,64
 0021800552,2019-01-01,SAC,POR,24.93,3,11,4,SAC,SAC,fg_make,1,False,False,Hield 2' Jump Shot (21 PTS) (Shumpert 3 AST),,54-64,54,64
 0021800552,2019-01-01,SAC,POR,25.1,3,10,54,POR,POR,fg3_miss,1,False,False,,MISS McCollum 25' 3PT Jump Shot,54-64,54,64
 0021800552,2019-01-01,SAC,POR,25.13,3,10,52,SAC,SAC,reb,0,False,False,Bjelica REBOUND (Off:3 Def:4),,54-64,54,64
@@ -262,8 +262,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800552,2019-01-01,SAC,POR,26.98,3,9,1,SAC,POR,block,6,True,False,block,block,59-66,59,66
 0021800552,2019-01-01,SAC,POR,27.02,3,8,59,SAC,SAC,reb,0,False,False,Cauley-Stein REBOUND (Off:2 Def:3),,59-66,59,66
 0021800552,2019-01-01,SAC,POR,27.02,3,8,59,SAC,SAC,fg_miss,72,True,False,MISS Cauley-Stein 2' Putback Layup,,59-66,59,66
-0021800552,2019-01-01,SAC,POR,27.02,3,8,59,POR,POR,reb,0,False,False,,Trail Blazers Rebound,59-66,59,66
 0021800552,2019-01-01,SAC,POR,27.02,3,8,59,SAC,POR,block,72,True,False,block,block,59-66,59,66
+0021800552,2019-01-01,SAC,POR,27.02,3,8,59,POR,POR,reb,0,False,False,,Trail Blazers Rebound,59-66,59,66
 0021800552,2019-01-01,SAC,POR,27.33,3,8,40,POR,POR,fg_miss,1,False,False,,MISS Aminu 5' Jump Shot,59-66,59,66
 0021800552,2019-01-01,SAC,POR,27.38,3,8,37,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:3 Def:10),59-66,59,66
 0021800552,2019-01-01,SAC,POR,27.38,3,8,37,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.3 Short 0),59-66,59,66
@@ -354,8 +354,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800552,2019-01-01,SAC,POR,36.78,4,11,13,SAC,SAC,reb,0,False,False,Giles III REBOUND (Off:1 Def:5),,79-85,79,85
 0021800552,2019-01-01,SAC,POR,36.9,4,11,6,SAC,SAC,fg_make,98,False,False,Giles III 1' Cutting Layup Shot (6 PTS) (Ferrell 2 AST),,81-85,81,85
 0021800552,2019-01-01,SAC,POR,37.23,4,10,46,POR,POR,fg_miss,6,True,False,,MISS Leonard 3' Driving Layup,81-85,81,85
-0021800552,2019-01-01,SAC,POR,37.23,4,10,46,SAC,SAC,reb,0,False,False,KINGS Rebound,,81-85,81,85
 0021800552,2019-01-01,SAC,POR,37.23,4,10,46,POR,SAC,block,6,True,False,block,block,81-85,81,85
+0021800552,2019-01-01,SAC,POR,37.23,4,10,46,SAC,SAC,reb,0,False,False,KINGS Rebound,,81-85,81,85
 0021800552,2019-01-01,SAC,POR,37.47,4,10,32,SAC,SAC,fg3_miss,1,False,False,MISS Jackson 25' 3PT Jump Shot,,81-85,81,85
 0021800552,2019-01-01,SAC,POR,37.53,4,10,28,POR,POR,reb,0,False,False,,Collins REBOUND (Off:1 Def:3),81-85,81,85
 0021800552,2019-01-01,SAC,POR,37.67,4,10,20,POR,POR,fg3_miss,1,False,False,,MISS Stauskas 24' 3PT Jump Shot,81-85,81,85
@@ -441,9 +441,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800552,2019-01-01,SAC,POR,47.2,4,0,48,POR,POR,reb,0,False,False,,Lillard REBOUND (Off:1 Def:4),103-99,103,99
 0021800552,2019-01-01,SAC,POR,47.23,4,0,46,POR,POR,fg_make,6,False,False,,Lillard 2' Driving Layup (18 PTS),103-101,103,101
 0021800552,2019-01-01,SAC,POR,47.55,4,0,27,SAC,SAC,fg_miss,6,True,False,MISS Cauley-Stein 3' Driving Layup,,103-101,103,101
+0021800552,2019-01-01,SAC,POR,47.55,4,0,27,SAC,POR,block,6,True,False,block,block,103-101,103,101
 0021800552,2019-01-01,SAC,POR,47.55,4,0,27,SAC,SAC,reb,0,False,False,KINGS Rebound,,103-101,103,101
 0021800552,2019-01-01,SAC,POR,47.55,4,0,27,SAC,SAC,timeout,1,False,False,KINGS Timeout: Regular (Full 6 Short 0),,103-101,103,101
-0021800552,2019-01-01,SAC,POR,47.55,4,0,27,SAC,POR,block,6,True,False,block,block,103-101,103,101
 0021800552,2019-01-01,SAC,POR,47.58,4,0,25,SAC,SAC,fg_miss,98,True,False,MISS Bjelica 3' Cutting Layup Shot,,103-101,103,101
 0021800552,2019-01-01,SAC,POR,47.58,4,0,25,SAC,POR,block,98,True,False,block,block,103-101,103,101
 0021800552,2019-01-01,SAC,POR,47.67,4,0,20,POR,POR,reb,0,False,False,,Aminu REBOUND (Off:1 Def:7),103-101,103,101
@@ -467,8 +467,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800552,2019-01-01,SAC,POR,48.97,5,4,2,POR,SAC,foul,3,False,False,Bjelica L.B.FOUL (P5.T2) (B.Barnaky),,105-106,105,106
 0021800552,2019-01-01,SAC,POR,49.18,5,3,49,POR,POR,fg_make,80,False,False,,Lillard 20' Step Back Jump Shot (25 PTS),105-108,105,108
 0021800552,2019-01-01,SAC,POR,49.33,5,3,40,SAC,SAC,fg_miss,6,True,False,MISS Bjelica 3' Driving Layup,,105-108,105,108
-0021800552,2019-01-01,SAC,POR,49.33,5,3,40,POR,POR,reb,0,False,False,,Trail Blazers Rebound,105-108,105,108
 0021800552,2019-01-01,SAC,POR,49.33,5,3,40,SAC,POR,block,6,True,False,block,block,105-108,105,108
+0021800552,2019-01-01,SAC,POR,49.33,5,3,40,POR,POR,reb,0,False,False,,Trail Blazers Rebound,105-108,105,108
 0021800552,2019-01-01,SAC,POR,49.6,5,3,24,POR,POR,fg3_miss,1,False,False,,MISS Lillard 25' 3PT Jump Shot,105-108,105,108
 0021800552,2019-01-01,SAC,POR,49.67,5,3,20,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:5 Def:15),105-108,105,108
 0021800552,2019-01-01,SAC,POR,49.77,5,3,14,POR,POR,fg3_miss,1,False,False,,MISS Aminu 25' 3PT Jump Shot,105-108,105,108

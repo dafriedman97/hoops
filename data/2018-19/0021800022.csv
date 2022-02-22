@@ -67,10 +67,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800022,2018-10-19,NOP,SAC,6.42,1,5,35,NOP,SAC,violation,5,False,False,,Shumpert Violation:Kicked Ball (B.Taylor),25-19,25,19
 0021800022,2018-10-19,NOP,SAC,6.5,1,5,30,NOP,NOP,fg_make,7,False,False,Davis Dunk (9 PTS) (Payton 1 AST),,27-19,27,19
 0021800022,2018-10-19,NOP,SAC,6.78,1,5,13,SAC,SAC,tov,1,False,True,,Giles III Bad Pass Turnover (P1.T1),27-19,27,19
-0021800022,2018-10-19,NOP,SAC,6.78,1,5,13,NOP,NOP,fg_miss,41,True,False,MISS Moore 3' Running Layup,,27-19,27,19
-0021800022,2018-10-19,NOP,SAC,6.78,1,5,13,NOP,NOP,reb,0,False,False,PELICANS Rebound,,27-19,27,19
-0021800022,2018-10-19,NOP,SAC,6.78,1,5,13,NOP,SAC,block,41,True,False,block,block,27-19,27,19
 0021800022,2018-10-19,NOP,SAC,6.78,1,5,13,SAC,NOP,steal,1,False,True,steal,steal,27-19,27,19
+0021800022,2018-10-19,NOP,SAC,6.78,1,5,13,NOP,NOP,fg_miss,41,True,False,MISS Moore 3' Running Layup,,27-19,27,19
+0021800022,2018-10-19,NOP,SAC,6.78,1,5,13,NOP,SAC,block,41,True,False,block,block,27-19,27,19
+0021800022,2018-10-19,NOP,SAC,6.78,1,5,13,NOP,NOP,reb,0,False,False,PELICANS Rebound,,27-19,27,19
 0021800022,2018-10-19,NOP,SAC,6.97,1,5,2,NOP,SAC,foul,2,False,False,,Giles III S.FOUL (P2.PN) (S.Corbin),27-19,27,19
 0021800022,2018-10-19,NOP,SAC,6.97,1,5,2,NOP,NOP,ft_make,11,False,False,Davis Free Throw 1 of 2 (10 PTS),,28-19,28,19
 0021800022,2018-10-19,NOP,SAC,6.97,1,5,2,NOP,NOP,ft_make,12,False,False,Davis Free Throw 2 of 2 (11 PTS),,29-19,29,19
@@ -172,8 +172,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800022,2018-10-19,NOP,SAC,17.25,2,6,45,SAC,SAC,fg_make,5,False,False,,Bjelica 1' Layup (4 PTS) (Cauley-Stein 1 AST),50-50,50,50
 0021800022,2018-10-19,NOP,SAC,17.37,2,6,38,NOP,NOP,tov,45,False,False,Payton Out of Bounds - Bad Pass Turnover Turnover (P2.T7),,50-50,50,50
 0021800022,2018-10-19,NOP,SAC,17.72,2,6,17,SAC,SAC,tov,2,False,True,,Hield Lost Ball Turnover (P1.T4),50-50,50,50
-0021800022,2018-10-19,NOP,SAC,17.72,2,6,17,NOP,NOP,tov,39,False,False,Holiday Step Out of Bounds Turnover (P3.T8),,50-50,50,50
 0021800022,2018-10-19,NOP,SAC,17.72,2,6,17,SAC,NOP,steal,2,False,True,steal,steal,50-50,50,50
+0021800022,2018-10-19,NOP,SAC,17.72,2,6,17,NOP,NOP,tov,39,False,False,Holiday Step Out of Bounds Turnover (P3.T8),,50-50,50,50
 0021800022,2018-10-19,NOP,SAC,17.75,2,6,15,SAC,SAC,tov,1,False,True,,Fox Bad Pass Turnover (P1.T5),50-50,50,50
 0021800022,2018-10-19,NOP,SAC,17.75,2,6,15,SAC,NOP,steal,1,False,True,steal,steal,50-50,50,50
 0021800022,2018-10-19,NOP,SAC,17.83,2,6,10,NOP,NOP,fg_make,5,False,False,Mirotic 1' Layup (14 PTS) (Holiday 5 AST),,52-50,52,50
@@ -410,9 +410,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800022,2018-10-19,NOP,SAC,40.47,4,7,32,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 4 Short 0),,128-102,128,102
 0021800022,2018-10-19,NOP,SAC,40.75,4,7,15,SAC,NOP,foul,4,False,False,Clark OFF.Foul (P4) (B.Taylor),,128-102,128,102
 0021800022,2018-10-19,NOP,SAC,40.75,4,7,15,NOP,NOP,tov,37,False,False,Clark Offensive Foul Turnover (P2.T13),,128-102,128,102
+0021800022,2018-10-19,NOP,SAC,41.03,4,6,58,SAC,SAC,ft_make,10,False,False,,Cauley-Stein Free Throw 1 of 1 (20 PTS),128-105,128,105
 0021800022,2018-10-19,NOP,SAC,41.03,4,6,58,SAC,SAC,fg_make,1,False,False,,Cauley-Stein 8' Jump Shot (19 PTS),128-104,128,104
 0021800022,2018-10-19,NOP,SAC,41.03,4,6,58,SAC,NOP,foul,2,False,False,Okafor S.FOUL (P1.PN) (B.Taylor),,128-104,128,104
-0021800022,2018-10-19,NOP,SAC,41.03,4,6,58,SAC,SAC,ft_make,10,False,False,,Cauley-Stein Free Throw 1 of 1 (20 PTS),128-105,128,105
 0021800022,2018-10-19,NOP,SAC,41.25,4,6,45,NOP,NOP,fg_make,1,False,False,Mirotic 15' Jump Shot (36 PTS),,130-105,130,105
 0021800022,2018-10-19,NOP,SAC,41.53,4,6,28,SAC,SAC,fg_miss,1,False,False,,MISS Fox 16' Jump Shot,130-105,130,105
 0021800022,2018-10-19,NOP,SAC,41.53,4,6,28,SAC,SAC,reb,0,False,False,,Fox REBOUND (Off:1 Def:5),130-105,130,105

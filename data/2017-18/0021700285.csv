@@ -70,9 +70,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700285,2017-11-25,UTA,MIL,8.8,1,3,12,UTA,UTA,ft_make,12,False,False,Favors Free Throw 2 of 2 (5 PTS),,23-21,23,21
 0021700285,2017-11-25,UTA,MIL,8.93,1,3,4,MIL,MIL,tov,39,False,False,,Brogdon Step Out of Bounds Turnover (P1.T5),23-21,23,21
 0021700285,2017-11-25,UTA,MIL,9.25,1,2,45,UTA,UTA,fg_miss,6,True,False,MISS Burks 7' Driving Layup,,23-21,23,21
+0021700285,2017-11-25,UTA,MIL,9.25,1,2,45,UTA,MIL,block,6,True,False,block,block,23-21,23,21
 0021700285,2017-11-25,UTA,MIL,9.25,1,2,45,UTA,UTA,reb,0,False,False,JAZZ Rebound,,23-21,23,21
 0021700285,2017-11-25,UTA,MIL,9.25,1,2,45,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.1 Short 0),23-21,23,21
-0021700285,2017-11-25,UTA,MIL,9.25,1,2,45,UTA,MIL,block,6,True,False,block,block,23-21,23,21
 0021700285,2017-11-25,UTA,MIL,9.28,1,2,43,UTA,UTA,fg_miss,1,False,False,MISS Hood 21' Jump Shot,,23-21,23,21
 0021700285,2017-11-25,UTA,MIL,9.35,1,2,39,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:0 Def:1),23-21,23,21
 0021700285,2017-11-25,UTA,MIL,9.57,1,2,26,MIL,MIL,fg_make,9,False,False,,Snell 1' Driving Dunk (4 PTS),23-23,23,23
@@ -202,8 +202,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700285,2017-11-25,UTA,MIL,24.4,3,11,36,UTA,UTA,fg_miss,6,False,False,MISS Jerebko 2' Driving Layup,,64-57,64,57
 0021700285,2017-11-25,UTA,MIL,24.45,3,11,33,MIL,MIL,reb,0,False,False,,Henson REBOUND (Off:1 Def:3),64-57,64,57
 0021700285,2017-11-25,UTA,MIL,24.67,3,11,20,MIL,MIL,fg_miss,6,True,False,,MISS Bledsoe 7' Driving Layup,64-57,64,57
-0021700285,2017-11-25,UTA,MIL,24.67,3,11,20,MIL,MIL,reb,0,False,False,,Bucks Rebound,64-57,64,57
 0021700285,2017-11-25,UTA,MIL,24.67,3,11,20,MIL,UTA,block,6,True,False,block,block,64-57,64,57
+0021700285,2017-11-25,UTA,MIL,24.67,3,11,20,MIL,MIL,reb,0,False,False,,Bucks Rebound,64-57,64,57
 0021700285,2017-11-25,UTA,MIL,24.72,3,11,17,MIL,MIL,fg3_make,1,False,False,,Bledsoe 24' 3PT Jump Shot (8 PTS) (Middleton 3 AST),64-60,64,60
 0021700285,2017-11-25,UTA,MIL,25.13,3,10,52,UTA,UTA,fg3_miss,1,False,False,MISS Ingles 24' 3PT Jump Shot,,64-60,64,60
 0021700285,2017-11-25,UTA,MIL,25.18,3,10,49,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:0 Def:5),64-60,64,60
@@ -281,11 +281,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700285,2017-11-25,UTA,MIL,34.75,3,1,15,MIL,MIL,fg3_miss,1,False,False,,MISS Middleton 25' 3PT Jump Shot,90-85,90,85
 0021700285,2017-11-25,UTA,MIL,34.8,3,1,12,UTA,UTA,reb,0,False,False,Neto REBOUND (Off:0 Def:1),,90-85,90,85
 0021700285,2017-11-25,UTA,MIL,35.12,3,0,53,UTA,UTA,fg_miss,6,True,False,MISS Hood 11' Driving Layup,,90-85,90,85
-0021700285,2017-11-25,UTA,MIL,35.12,3,0,53,UTA,UTA,reb,0,False,False,JAZZ Rebound,,90-85,90,85
 0021700285,2017-11-25,UTA,MIL,35.12,3,0,53,UTA,MIL,block,6,True,False,block,block,90-85,90,85
+0021700285,2017-11-25,UTA,MIL,35.12,3,0,53,UTA,UTA,reb,0,False,False,JAZZ Rebound,,90-85,90,85
 0021700285,2017-11-25,UTA,MIL,35.17,3,0,50,UTA,UTA,fg_miss,101,True,False,MISS Sefolosha 7' Driving Floating Jump Shot,,90-85,90,85
-0021700285,2017-11-25,UTA,MIL,35.17,3,0,50,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:1 Def:3),90-85,90,85
 0021700285,2017-11-25,UTA,MIL,35.17,3,0,50,UTA,MIL,block,101,True,False,block,block,90-85,90,85
+0021700285,2017-11-25,UTA,MIL,35.17,3,0,50,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:1 Def:3),90-85,90,85
 0021700285,2017-11-25,UTA,MIL,35.23,3,0,46,MIL,MIL,tov,2,False,True,,Middleton Lost Ball Turnover (P5.T16),90-85,90,85
 0021700285,2017-11-25,UTA,MIL,35.23,3,0,46,MIL,UTA,steal,2,False,True,steal,steal,90-85,90,85
 0021700285,2017-11-25,UTA,MIL,35.35,3,0,39,UTA,UTA,fg_make,44,False,False,Sefolosha 2' Reverse Layup (8 PTS) (Udoh 3 AST),,92-85,92,85

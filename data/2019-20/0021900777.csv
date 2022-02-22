@@ -14,8 +14,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900777,2020-02-08,ORL,MIL,1.48,1,10,31,ORL,MIL,block,79,True,False,block,block,2-7,2,7
 0021900777,2020-02-08,ORL,MIL,1.53,1,10,28,MIL,MIL,reb,0,False,False,,Matthews REBOUND (Off:0 Def:2),2-7,2,7
 0021900777,2020-02-08,ORL,MIL,1.63,1,10,22,MIL,MIL,tov,1,False,True,,Bledsoe Bad Pass Turnover (P1.T1),2-7,2,7
-0021900777,2020-02-08,ORL,MIL,1.63,1,10,22,ORL,MIL,violation,5,False,False,,Middleton Violation:Kicked Ball (S.Wall),2-7,2,7
 0021900777,2020-02-08,ORL,MIL,1.63,1,10,22,MIL,ORL,steal,1,False,True,steal,steal,2-7,2,7
+0021900777,2020-02-08,ORL,MIL,1.63,1,10,22,ORL,MIL,violation,5,False,False,,Middleton Violation:Kicked Ball (S.Wall),2-7,2,7
 0021900777,2020-02-08,ORL,MIL,1.9,1,10,6,ORL,ORL,fg3_make,1,False,False,Fournier 24' 3PT Jump Shot (3 PTS) (Vucevic 1 AST),,5-7,5,7
 0021900777,2020-02-08,ORL,MIL,2.12,1,9,53,MIL,MIL,fg3_make,1,False,False,,Matthews 25' 3PT Jump Shot (6 PTS) (Bledsoe 2 AST),5-10,5,10
 0021900777,2020-02-08,ORL,MIL,2.4,1,9,36,ORL,ORL,tov,45,False,False,Fournier Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,5-10,5,10
@@ -139,9 +139,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900777,2020-02-08,ORL,MIL,16.33,2,7,40,ORL,ORL,fg3_miss,1,False,False,MISS Bamba 26' 3PT Jump Shot,,34-42,34,42
 0021900777,2020-02-08,ORL,MIL,16.33,2,7,40,MIL,MIL,reb,0,False,False,,Bledsoe REBOUND (Off:0 Def:1),34-42,34,42
 0021900777,2020-02-08,ORL,MIL,16.42,2,7,35,MIL,MIL,fg_miss,41,True,False,,MISS Lopez 3' Running Layup,34-42,34,42
-0021900777,2020-02-08,ORL,MIL,16.42,2,7,35,MIL,MIL,reb,0,False,False,,Bucks Rebound,34-42,34,42
-0021900777,2020-02-08,ORL,MIL,16.42,2,7,35,,ORL,jump_ball,0,False,False,Jump Ball Bamba vs. Lopez: Tip to Matthews,,34-42,34,42
 0021900777,2020-02-08,ORL,MIL,16.42,2,7,35,MIL,ORL,block,41,True,False,block,block,34-42,34,42
+0021900777,2020-02-08,ORL,MIL,16.42,2,7,35,,ORL,jump_ball,0,False,False,Jump Ball Bamba vs. Lopez: Tip to Matthews,,34-42,34,42
+0021900777,2020-02-08,ORL,MIL,16.42,2,7,35,MIL,MIL,reb,0,False,False,,Bucks Rebound,34-42,34,42
 0021900777,2020-02-08,ORL,MIL,16.55,2,7,27,MIL,ORL,foul,1,False,False,Gordon P.FOUL (P2.T2) (J.Williams),,34-42,34,42
 0021900777,2020-02-08,ORL,MIL,16.65,2,7,21,MIL,MIL,fg3_miss,1,False,False,,MISS Korver 25' 3PT Jump Shot,34-42,34,42
 0021900777,2020-02-08,ORL,MIL,16.65,2,7,21,ORL,ORL,reb,0,False,False,MAGIC Rebound,,34-42,34,42
@@ -154,9 +154,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900777,2020-02-08,ORL,MIL,17.4,2,6,36,MIL,MIL,fg3_make,1,False,False,,Korver 27' 3PT Jump Shot (8 PTS) (Bledsoe 3 AST),36-45,36,45
 0021900777,2020-02-08,ORL,MIL,17.75,2,6,15,ORL,ORL,fg_make,47,False,False,Vucevic 21' Turnaround Jump Shot (11 PTS),,38-45,38,45
 0021900777,2020-02-08,ORL,MIL,17.93,2,6,4,MIL,MIL,tov,1,False,True,,Bledsoe Bad Pass Turnover (P3.T4),38-45,38,45
+0021900777,2020-02-08,ORL,MIL,17.93,2,6,4,MIL,ORL,steal,1,False,True,steal,steal,38-45,38,45
 0021900777,2020-02-08,ORL,MIL,17.93,2,6,4,ORL,MIL,foul,1,False,False,,Lopez P.FOUL (P2.T2) (J.Williams),38-45,38,45
 0021900777,2020-02-08,ORL,MIL,17.93,2,6,4,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 2 Short 0),,38-45,38,45
-0021900777,2020-02-08,ORL,MIL,17.93,2,6,4,MIL,ORL,steal,1,False,True,steal,steal,38-45,38,45
 0021900777,2020-02-08,ORL,MIL,18.22,2,5,47,ORL,ORL,fg_miss,47,False,False,MISS Gordon 17' Turnaround Jump Shot,,38-45,38,45
 0021900777,2020-02-08,ORL,MIL,18.25,2,5,45,MIL,MIL,reb,0,False,False,,Bledsoe REBOUND (Off:0 Def:2),38-45,38,45
 0021900777,2020-02-08,ORL,MIL,18.37,2,5,38,MIL,MIL,tov,1,False,True,,DiVincenzo Bad Pass Turnover (P1.T5),38-45,38,45
@@ -359,9 +359,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900777,2020-02-08,ORL,MIL,38.27,4,9,44,MIL,MIL,fg3_miss,1,False,False,,MISS Bledsoe 24' 3PT Jump Shot,78-88,78,88
 0021900777,2020-02-08,ORL,MIL,38.3,4,9,42,MIL,MIL,reb,0,False,False,,Ilyasova REBOUND (Off:1 Def:0),78-88,78,88
 0021900777,2020-02-08,ORL,MIL,38.33,4,9,40,MIL,MIL,fg_miss,47,True,False,,MISS Ilyasova 7' Turnaround Jump Shot,78-88,78,88
+0021900777,2020-02-08,ORL,MIL,38.33,4,9,40,MIL,ORL,block,47,True,False,block,block,78-88,78,88
 0021900777,2020-02-08,ORL,MIL,38.33,4,9,40,MIL,MIL,reb,0,False,False,,Bucks Rebound,78-88,78,88
 0021900777,2020-02-08,ORL,MIL,38.33,4,9,40,MIL,ORL,foul,1,False,False,Fournier P.FOUL (P3.T3) (J.Goble),,78-88,78,88
-0021900777,2020-02-08,ORL,MIL,38.33,4,9,40,MIL,ORL,block,47,True,False,block,block,78-88,78,88
 0021900777,2020-02-08,ORL,MIL,38.45,4,9,33,MIL,MIL,fg_miss,6,True,False,,MISS Matthews 9' Driving Layup,78-88,78,88
 0021900777,2020-02-08,ORL,MIL,38.45,4,9,33,MIL,ORL,block,6,True,False,block,block,78-88,78,88
 0021900777,2020-02-08,ORL,MIL,38.53,4,9,28,ORL,ORL,reb,0,False,False,Clark REBOUND (Off:1 Def:3),,78-88,78,88
@@ -396,8 +396,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900777,2020-02-08,ORL,MIL,42.28,4,5,43,MIL,MIL,fg3_make,1,False,False,,Middleton 26' 3PT Jump Shot (19 PTS),86-101,86,101
 0021900777,2020-02-08,ORL,MIL,42.63,4,5,22,ORL,ORL,fg_make,6,False,False,Vucevic 2' Driving Layup (21 PTS) (Gordon 4 AST),,88-101,88,101
 0021900777,2020-02-08,ORL,MIL,42.9,4,5,6,MIL,MIL,fg_miss,6,True,False,,MISS Lopez 5' Driving Layup,88-101,88,101
-0021900777,2020-02-08,ORL,MIL,42.9,4,5,6,MIL,MIL,reb,0,False,False,,Bucks Rebound,88-101,88,101
 0021900777,2020-02-08,ORL,MIL,42.9,4,5,6,MIL,ORL,block,6,True,False,block,block,88-101,88,101
+0021900777,2020-02-08,ORL,MIL,42.9,4,5,6,MIL,MIL,reb,0,False,False,,Bucks Rebound,88-101,88,101
 0021900777,2020-02-08,ORL,MIL,43.05,4,4,57,MIL,MIL,tov,2,False,True,,Antetokounmpo Lost Ball Turnover (P5.T16),88-101,88,101
 0021900777,2020-02-08,ORL,MIL,43.05,4,4,57,MIL,ORL,steal,2,False,True,steal,steal,88-101,88,101
 0021900777,2020-02-08,ORL,MIL,43.22,4,4,47,ORL,ORL,fg_make,79,False,False,Ross 18' Pullup Jump Shot (18 PTS) (Gordon 5 AST),,90-101,90,101

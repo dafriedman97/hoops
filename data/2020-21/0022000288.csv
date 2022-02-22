@@ -183,11 +183,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000288,2021-01-29,CHA,IND,23.57,2,0,26,IND,IND,reb,0,False,False,,Lamb REBOUND (Off:1 Def:1),64-57,64,57
 0022000288,2021-01-29,CHA,IND,23.78,2,0,13,IND,IND,fg3_make,1,False,False,,Sumner 3PT Jump Shot (3 PTS) (Brogdon 5 AST),64-60,64,60
 0022000288,2021-01-29,CHA,IND,24.0,2,0,0,CHA,CHA,tov,1,False,True,Washington Bad Pass Turnover (P3.T9),,64-60,64,60
+0022000288,2021-01-29,CHA,IND,24.0,2,0,0,CHA,IND,steal,1,False,True,steal,steal,64-60,64,60
 0022000288,2021-01-29,CHA,IND,24.0,2,0,0,IND,IND,tov,1,False,True,,Sumner Bad Pass Turnover (P1.T9),64-60,64,60
+0022000288,2021-01-29,CHA,IND,24.0,2,0,0,IND,CHA,steal,1,False,True,steal,steal,64-60,64,60
 0022000288,2021-01-29,CHA,IND,24.0,2,0,0,IND,,period_end,0,False,False,,,64-60,64,60
 0022000288,2021-01-29,CHA,IND,24.0,3,12,0,IND,,period_start,0,False,False,,,64-60,64,60
-0022000288,2021-01-29,CHA,IND,24.0,2,0,0,CHA,IND,steal,1,False,True,steal,steal,64-60,64,60
-0022000288,2021-01-29,CHA,IND,24.0,2,0,0,IND,CHA,steal,1,False,True,steal,steal,64-60,64,60
 0022000288,2021-01-29,CHA,IND,24.3,3,11,42,CHA,CHA,fg3_make,1,False,False,Washington 25' 3PT Jump Shot (13 PTS) (Graham 5 AST),,67-60,67,60
 0022000288,2021-01-29,CHA,IND,24.63,3,11,22,IND,IND,fg_miss,63,False,False,,MISS Sabonis 6' Fadeaway Jumper,67-60,67,60
 0022000288,2021-01-29,CHA,IND,24.67,3,11,20,CHA,CHA,reb,0,False,False,Washington REBOUND (Off:2 Def:4),,67-60,67,60
@@ -219,9 +219,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000288,2021-01-29,CHA,IND,28.0,3,8,0,CHA,CHA,fg_miss,79,False,False,MISS Hayward 16' Pullup Jump Shot,,72-65,72,65
 0022000288,2021-01-29,CHA,IND,28.03,3,7,58,CHA,CHA,reb,0,False,False,Washington REBOUND (Off:3 Def:5),,72-65,72,65
 0022000288,2021-01-29,CHA,IND,28.08,3,7,55,CHA,CHA,fg3_make,1,False,False,Hayward 26' 3PT Jump Shot (9 PTS) (Washington 2 AST),,75-65,75,65
+0022000288,2021-01-29,CHA,IND,28.48,3,7,31,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 3 Short 0),,75-65,75,65
 0022000288,2021-01-29,CHA,IND,28.48,3,7,31,CHA,IND,foul,26,False,False,,McDermott Offensive Charge Foul (P3.T1) (H.Workman),75-65,75,65
 0022000288,2021-01-29,CHA,IND,28.48,3,7,31,IND,IND,tov,37,False,False,,McDermott Offensive Foul Turnover (P2.T10),75-65,75,65
-0022000288,2021-01-29,CHA,IND,28.48,3,7,31,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 3 Short 0),,75-65,75,65
 0022000288,2021-01-29,CHA,IND,28.68,3,7,19,CHA,CHA,fg3_miss,1,False,False,MISS Rozier 25' 3PT Jump Shot,,75-65,75,65
 0022000288,2021-01-29,CHA,IND,28.72,3,7,17,IND,IND,reb,0,False,False,,Turner REBOUND (Off:1 Def:3),75-65,75,65
 0022000288,2021-01-29,CHA,IND,29.02,3,6,59,IND,IND,tov,45,False,False,,Brogdon Out of Bounds - Bad Pass Turnover Turnover (P2.T11),75-65,75,65
@@ -327,8 +327,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000288,2021-01-29,CHA,IND,39.98,4,8,1,IND,IND,fg_make,58,False,False,,Sabonis 2' Turnaround Hook Shot (20 PTS),92-91,92,91
 0022000288,2021-01-29,CHA,IND,40.2,4,7,48,CHA,CHA,fg_miss,5,True,False,MISS Zeller 1' Layup,,92-91,92,91
 0022000288,2021-01-29,CHA,IND,40.2,4,7,48,CHA,IND,block,5,True,False,block,block,92-91,92,91
-0022000288,2021-01-29,CHA,IND,40.27,4,7,44,IND,IND,reb,0,False,False,,Pacers Rebound,92-91,92,91
 0022000288,2021-01-29,CHA,IND,40.27,4,7,44,,CHA,jump_ball,0,False,False,Jump Ball Zeller vs. Lamb: Tip to Lamb,,92-91,92,91
+0022000288,2021-01-29,CHA,IND,40.27,4,7,44,IND,IND,reb,0,False,False,,Pacers Rebound,92-91,92,91
 0022000288,2021-01-29,CHA,IND,40.43,4,7,34,IND,IND,fg_miss,5,True,False,,MISS Sabonis 1' Layup,92-91,92,91
 0022000288,2021-01-29,CHA,IND,40.43,4,7,34,IND,CHA,block,5,True,False,block,block,92-91,92,91
 0022000288,2021-01-29,CHA,IND,40.47,4,7,32,CHA,CHA,reb,0,False,False,Hayward REBOUND (Off:0 Def:5),,92-91,92,91
@@ -353,8 +353,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000288,2021-01-29,CHA,IND,43.3,4,4,42,IND,IND,fg3_miss,1,False,False,,MISS Turner 26' 3PT Jump Shot,96-94,96,94
 0022000288,2021-01-29,CHA,IND,43.33,4,4,40,CHA,CHA,reb,0,False,False,Ball REBOUND (Off:1 Def:5),,96-94,96,94
 0022000288,2021-01-29,CHA,IND,43.37,4,4,38,CHA,CHA,fg_miss,5,True,False,MISS Zeller 3' Layup,,96-94,96,94
-0022000288,2021-01-29,CHA,IND,43.37,4,4,38,IND,IND,reb,0,False,False,,Lamb REBOUND (Off:1 Def:4),96-94,96,94
 0022000288,2021-01-29,CHA,IND,43.37,4,4,38,CHA,IND,block,5,True,False,block,block,96-94,96,94
+0022000288,2021-01-29,CHA,IND,43.37,4,4,38,IND,IND,reb,0,False,False,,Lamb REBOUND (Off:1 Def:4),96-94,96,94
 0022000288,2021-01-29,CHA,IND,43.5,4,4,30,IND,IND,fg_make,5,False,False,,Sabonis 1' Layup (22 PTS) (Brogdon 7 AST),96-96,96,96
 0022000288,2021-01-29,CHA,IND,43.87,4,4,8,CHA,CHA,fg_make,75,False,False,Ball 2' Driving Finger Roll Layup (16 PTS),,98-96,98,96
 0022000288,2021-01-29,CHA,IND,44.13,4,3,52,IND,IND,fg_make,108,False,False,,Turner 1' Cutting Dunk Shot (18 PTS) (Sabonis 6 AST),98-98,98,98

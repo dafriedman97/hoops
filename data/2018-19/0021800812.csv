@@ -45,9 +45,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800812,2019-02-07,ORL,MIN,5.15,1,6,51,ORL,ORL,fg_make,5,False,False,Augustin 2' Layup (2 PTS),,14-11,14,11
 0021800812,2019-02-07,ORL,MIN,5.48,1,6,31,MIN,MIN,fg_make,5,False,False,,Okogie 1' Layup (7 PTS) (Towns 1 AST),14-13,14,13
 0021800812,2019-02-07,ORL,MIN,5.63,1,6,22,ORL,ORL,fg_make,52,False,False,Gordon 1' Alley Oop Dunk (6 PTS) (Augustin 1 AST),,16-13,16,13
+0021800812,2019-02-07,ORL,MIN,5.85,1,6,9,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 1 Short 0),,16-13,16,13
 0021800812,2019-02-07,ORL,MIN,5.85,1,6,9,ORL,MIN,foul,26,False,False,,Towns Offensive Charge Foul (P1.T2) (M.Ayotte),16-13,16,13
 0021800812,2019-02-07,ORL,MIN,5.85,1,6,9,MIN,MIN,tov,37,False,False,,Towns Offensive Foul Turnover (P1.T3),16-13,16,13
-0021800812,2019-02-07,ORL,MIN,5.85,1,6,9,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 1 Short 0),,16-13,16,13
 0021800812,2019-02-07,ORL,MIN,6.03,1,5,58,ORL,ORL,fg_make,6,False,False,Fournier 2' Driving Layup (4 PTS),,18-13,18,13
 0021800812,2019-02-07,ORL,MIN,6.37,1,5,38,MIN,MIN,fg_make,7,False,False,,Towns 1' Dunk (4 PTS) (Okogie 1 AST),18-15,18,15
 0021800812,2019-02-07,ORL,MIN,6.62,1,5,23,ORL,ORL,tov,1,False,True,Fournier Bad Pass Turnover (P1.T2),,18-15,18,15
@@ -157,9 +157,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800812,2019-02-07,ORL,MIN,18.73,2,5,16,ORL,ORL,tov,1,False,True,Isaac Bad Pass Turnover (P1.T3),,49-46,49,46
 0021800812,2019-02-07,ORL,MIN,18.73,2,5,16,ORL,MIN,steal,1,False,True,steal,steal,49-46,49,46
 0021800812,2019-02-07,ORL,MIN,18.8,2,5,12,MIN,MIN,fg_miss,41,True,False,,MISS Okogie 1' Running Layup,49-46,49,46
+0021800812,2019-02-07,ORL,MIN,18.8,2,5,12,MIN,ORL,block,41,True,False,block,block,49-46,49,46
 0021800812,2019-02-07,ORL,MIN,18.8,2,5,12,MIN,MIN,reb,0,False,False,,Gibson REBOUND (Off:2 Def:1),49-46,49,46
 0021800812,2019-02-07,ORL,MIN,18.8,2,5,12,MIN,ORL,foul,2,False,False,Iwundu S.FOUL (P2.T2) (N.Buchert),,49-46,49,46
-0021800812,2019-02-07,ORL,MIN,18.8,2,5,12,MIN,ORL,block,41,True,False,block,block,49-46,49,46
 0021800812,2019-02-07,ORL,MIN,18.8,2,5,12,MIN,MIN,ft_make,11,False,False,,Gibson Free Throw 1 of 2 (5 PTS),49-47,49,47
 0021800812,2019-02-07,ORL,MIN,18.8,2,5,12,MIN,MIN,ft_make,12,False,False,,Gibson Free Throw 2 of 2 (6 PTS),49-48,49,48
 0021800812,2019-02-07,ORL,MIN,19.1,2,4,54,ORL,ORL,fg3_make,79,False,False,Ross 25' 3PT Pullup Jump Shot (12 PTS),,52-48,52,48
@@ -217,8 +217,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800812,2019-02-07,ORL,MIN,25.62,3,10,23,MIN,ORL,block,6,True,False,block,block,75-60,75,60
 0021800812,2019-02-07,ORL,MIN,25.68,3,10,19,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:2 Def:3),,75-60,75,60
 0021800812,2019-02-07,ORL,MIN,26.0,3,10,0,ORL,ORL,fg_miss,79,True,False,MISS Isaac 12' Pullup Jump Shot,,75-60,75,60
-0021800812,2019-02-07,ORL,MIN,26.0,3,10,0,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,75-60,75,60
 0021800812,2019-02-07,ORL,MIN,26.0,3,10,0,ORL,MIN,block,79,True,False,block,block,75-60,75,60
+0021800812,2019-02-07,ORL,MIN,26.0,3,10,0,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,75-60,75,60
 0021800812,2019-02-07,ORL,MIN,26.03,3,9,58,,ORL,jump_ball,0,False,False,Jump Ball Isaac vs. Wiggins: Tip to Okogie,,75-60,75,60
 0021800812,2019-02-07,ORL,MIN,26.05,3,9,57,MIN,MIN,tov,45,False,False,,Okogie Out of Bounds - Bad Pass Turnover Turnover (P2.T6),75-60,75,60
 0021800812,2019-02-07,ORL,MIN,26.38,3,9,37,ORL,ORL,tov,2,False,True,Gordon Lost Ball Turnover (P2.T6),,75-60,75,60
@@ -294,8 +294,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800812,2019-02-07,ORL,MIN,34.67,3,1,20,ORL,ORL,fg3_miss,1,False,False,MISS Ross 26' 3PT Jump Shot,,97-83,97,83
 0021800812,2019-02-07,ORL,MIN,34.67,3,1,20,MIN,MIN,reb,0,False,False,,Saric REBOUND (Off:2 Def:4),97-83,97,83
 0021800812,2019-02-07,ORL,MIN,34.95,3,1,3,MIN,MIN,tov,1,False,True,,Deng Bad Pass Turnover (P1.T8),97-83,97,83
-0021800812,2019-02-07,ORL,MIN,34.95,3,1,3,ORL,ORL,tov,39,False,False,Briscoe Step Out of Bounds Turnover (P1.T8),,97-83,97,83
 0021800812,2019-02-07,ORL,MIN,34.95,3,1,3,MIN,ORL,steal,1,False,True,steal,steal,97-83,97,83
+0021800812,2019-02-07,ORL,MIN,34.95,3,1,3,ORL,ORL,tov,39,False,False,Briscoe Step Out of Bounds Turnover (P1.T8),,97-83,97,83
 0021800812,2019-02-07,ORL,MIN,35.15,3,0,51,MIN,MIN,fg_make,47,False,False,,Dieng 11' Turnaround Jump Shot (4 PTS),97-85,97,85
 0021800812,2019-02-07,ORL,MIN,35.4,3,0,36,ORL,ORL,fg_make,79,False,False,Ross 18' Pullup Jump Shot (22 PTS),,99-85,99,85
 0021800812,2019-02-07,ORL,MIN,35.55,3,0,27,MIN,MIN,tov,39,False,False,,Tolliver Step Out of Bounds Turnover (P1.T9),99-85,99,85
@@ -310,8 +310,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800812,2019-02-07,ORL,MIN,36.72,4,11,17,ORL,ORL,fg3_miss,1,False,False,MISS Ross 25' 3PT Jump Shot,,105-85,105,85
 0021800812,2019-02-07,ORL,MIN,36.77,4,11,14,MIN,MIN,reb,0,False,False,,Saric REBOUND (Off:2 Def:5),105-85,105,85
 0021800812,2019-02-07,ORL,MIN,36.92,4,11,5,MIN,MIN,fg_miss,79,True,False,,MISS Wiggins 16' Pullup Jump Shot,105-85,105,85
-0021800812,2019-02-07,ORL,MIN,36.92,4,11,5,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,105-85,105,85
 0021800812,2019-02-07,ORL,MIN,36.92,4,11,5,MIN,ORL,block,79,True,False,block,block,105-85,105,85
+0021800812,2019-02-07,ORL,MIN,36.92,4,11,5,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,105-85,105,85
 0021800812,2019-02-07,ORL,MIN,36.97,4,11,2,MIN,MIN,fg3_make,1,False,False,,Canaan 3PT Jump Shot (8 PTS) (Deng 1 AST),105-88,105,88
 0021800812,2019-02-07,ORL,MIN,37.25,4,10,45,ORL,ORL,fg_miss,1,True,False,MISS Ross 19' Jump Shot,,105-88,105,88
 0021800812,2019-02-07,ORL,MIN,37.25,4,10,45,ORL,MIN,block,1,True,False,block,block,105-88,105,88
@@ -404,8 +404,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800812,2019-02-07,ORL,MIN,46.32,4,1,41,MIN,MIN,fg_miss,1,False,False,,MISS Dieng 18' Jump Shot,120-108,120,108
 0021800812,2019-02-07,ORL,MIN,46.35,4,1,39,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:3 Def:7),,120-108,120,108
 0021800812,2019-02-07,ORL,MIN,46.68,4,1,19,ORL,ORL,fg_miss,6,True,False,MISS Vucevic 2' Driving Layup,,120-108,120,108
-0021800812,2019-02-07,ORL,MIN,46.68,4,1,19,ORL,ORL,reb,0,False,False,MAGIC Rebound,,120-108,120,108
 0021800812,2019-02-07,ORL,MIN,46.68,4,1,19,ORL,MIN,block,6,True,False,block,block,120-108,120,108
+0021800812,2019-02-07,ORL,MIN,46.68,4,1,19,ORL,ORL,reb,0,False,False,MAGIC Rebound,,120-108,120,108
 0021800812,2019-02-07,ORL,MIN,46.75,4,1,15,ORL,ORL,fg_miss,1,False,False,MISS Vucevic 21' Jump Shot,,120-108,120,108
 0021800812,2019-02-07,ORL,MIN,46.8,4,1,12,MIN,MIN,reb,0,False,False,,Dieng REBOUND (Off:0 Def:2),120-108,120,108
 0021800812,2019-02-07,ORL,MIN,46.95,4,1,3,MIN,MIN,fg_make,44,False,False,,Canaan 2' Reverse Layup (13 PTS),120-110,120,110

@@ -58,8 +58,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700598,2018-01-08,LAC,ATL,7.2,1,4,48,LAC,LAC,fg_make,1,False,False,W. Johnson 17' Jump Shot (5 PTS) (Williams 1 AST),,21-16,21,16
 0021700598,2018-01-08,LAC,ATL,7.2,1,4,48,ATL,LAC,foul,3,False,False,Jordan L.B.FOUL (P1.T1) (S.Foster),,21-16,21,16
 0021700598,2018-01-08,LAC,ATL,7.55,1,4,27,ATL,ATL,fg_miss,6,True,False,,MISS Schroder 1' Driving Layup,21-16,21,16
-0021700598,2018-01-08,LAC,ATL,7.55,1,4,27,ATL,ATL,reb,0,False,False,,Hawks Rebound,21-16,21,16
 0021700598,2018-01-08,LAC,ATL,7.55,1,4,27,ATL,LAC,block,6,True,False,block,block,21-16,21,16
+0021700598,2018-01-08,LAC,ATL,7.55,1,4,27,ATL,ATL,reb,0,False,False,,Hawks Rebound,21-16,21,16
 0021700598,2018-01-08,LAC,ATL,7.6,1,4,24,ATL,ATL,tov,1,False,True,,Schroder Bad Pass Turnover (P1.T2),21-16,21,16
 0021700598,2018-01-08,LAC,ATL,7.6,1,4,24,ATL,LAC,steal,1,False,True,steal,steal,21-16,21,16
 0021700598,2018-01-08,LAC,ATL,7.67,1,4,20,LAC,LAC,fg_make,50,False,False,Jordan 1' Running Dunk (4 PTS) (Williams 2 AST),,23-16,23,16
@@ -80,8 +80,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700598,2018-01-08,LAC,ATL,10.03,1,1,58,LAC,LAC,reb,0,False,False,Jordan REBOUND (Off:2 Def:3),,27-23,27,23
 0021700598,2018-01-08,LAC,ATL,10.03,1,1,58,LAC,LAC,fg_make,107,False,False,Jordan 1' Tip Dunk Shot (8 PTS),,29-23,29,23
 0021700598,2018-01-08,LAC,ATL,10.28,1,1,43,ATL,ATL,fg_miss,6,True,False,,MISS Schroder 2' Driving Layup,29-23,29,23
-0021700598,2018-01-08,LAC,ATL,10.28,1,1,43,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,29-23,29,23
 0021700598,2018-01-08,LAC,ATL,10.28,1,1,43,ATL,LAC,block,6,True,False,block,block,29-23,29,23
+0021700598,2018-01-08,LAC,ATL,10.28,1,1,43,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,29-23,29,23
 0021700598,2018-01-08,LAC,ATL,10.43,1,1,34,LAC,LAC,fg_make,98,False,False,Wallace 2' Cutting Layup Shot (2 PTS) (Jordan 1 AST),,31-23,31,23
 0021700598,2018-01-08,LAC,ATL,10.7,1,1,18,ATL,ATL,fg3_miss,1,False,False,,MISS Dorsey 25' 3PT Jump Shot,31-23,31,23
 0021700598,2018-01-08,LAC,ATL,10.75,1,1,15,LAC,LAC,reb,0,False,False,Jordan REBOUND (Off:2 Def:4),,31-23,31,23
@@ -228,10 +228,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700598,2018-01-08,LAC,ATL,23.97,2,0,2,ATL,ATL,fg3_miss,1,False,False,,MISS Dedmon 24' 3PT Jump Shot,58-47,58,47
 0021700598,2018-01-08,LAC,ATL,23.97,2,0,2,ATL,ATL,reb,0,False,False,,Delaney REBOUND (Off:1 Def:1),58-47,58,47
 0021700598,2018-01-08,LAC,ATL,24.0,2,0,0,ATL,ATL,fg_miss,72,True,False,,MISS Delaney 3' Putback Layup,58-47,58,47
+0021700598,2018-01-08,LAC,ATL,24.0,2,0,0,ATL,LAC,block,72,True,False,block,block,58-47,58,47
 0021700598,2018-01-08,LAC,ATL,24.0,2,0,0,ATL,ATL,reb,0,False,False,,Hawks Rebound,58-47,58,47
 0021700598,2018-01-08,LAC,ATL,24.0,2,0,0,ATL,,period_end,0,False,False,,,58-47,58,47
 0021700598,2018-01-08,LAC,ATL,24.0,3,12,0,ATL,,period_start,0,False,False,,,58-47,58,47
-0021700598,2018-01-08,LAC,ATL,24.0,2,0,0,ATL,LAC,block,72,True,False,block,block,58-47,58,47
 0021700598,2018-01-08,LAC,ATL,24.17,3,11,50,LAC,ATL,foul,4,False,False,,Schroder OFF.Foul (P3) (K.Cutler),58-47,58,47
 0021700598,2018-01-08,LAC,ATL,24.17,3,11,50,ATL,ATL,tov,37,False,False,,Schroder Offensive Foul Turnover (P3.T8),58-47,58,47
 0021700598,2018-01-08,LAC,ATL,24.4,3,11,36,LAC,LAC,fg_miss,79,False,False,MISS Evans 16' Pullup Jump Shot,,58-47,58,47
@@ -277,9 +277,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700598,2018-01-08,LAC,ATL,28.57,3,7,26,ATL,ATL,reb,1,False,False,,Hawks Rebound,69-56,69,56
 0021700598,2018-01-08,LAC,ATL,28.57,3,7,26,ATL,ATL,ft_make,12,False,False,,Ilyasova Free Throw 2 of 2 (11 PTS),69-57,69,57
 0021700598,2018-01-08,LAC,ATL,28.75,3,7,15,LAC,LAC,fg_miss,6,False,False,MISS Evans 2' Driving Layup,,69-57,69,57
+0021700598,2018-01-08,LAC,ATL,28.77,3,7,14,LAC,LAC,reb,0,False,False,Jordan REBOUND (Off:6 Def:5),,69-57,69,57
 0021700598,2018-01-08,LAC,ATL,28.77,3,7,14,LAC,LAC,fg_miss,97,False,False,MISS Jordan 1' Tip Layup Shot,,69-57,69,57
 0021700598,2018-01-08,LAC,ATL,28.77,3,7,14,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,69-57,69,57
-0021700598,2018-01-08,LAC,ATL,28.77,3,7,14,LAC,LAC,reb,0,False,False,Jordan REBOUND (Off:6 Def:5),,69-57,69,57
 0021700598,2018-01-08,LAC,ATL,28.88,3,7,7,,LAC,jump_ball,0,False,False,Jump Ball Jordan vs. Bazemore: Tip to Williams,,69-57,69,57
 0021700598,2018-01-08,LAC,ATL,28.97,3,7,2,LAC,LAC,fg_make,101,False,False,Williams 13' Driving Floating Jump Shot (22 PTS),,71-57,71,57
 0021700598,2018-01-08,LAC,ATL,29.2,3,6,48,ATL,ATL,fg3_miss,1,False,False,,MISS Schroder 25' 3PT Jump Shot,71-57,71,57
@@ -364,9 +364,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700598,2018-01-08,LAC,ATL,35.67,3,0,20,ATL,ATL,fg3_miss,1,False,False,,MISS Belinelli 26' 3PT Jump Shot,79-77,79,77
 0021700598,2018-01-08,LAC,ATL,35.7,3,0,18,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,79-77,79,77
 0021700598,2018-01-08,LAC,ATL,35.7,3,0,18,LAC,ATL,foul,3,False,False,,Cavanaugh L.B.FOUL (P3.PN) (K.Cutler),79-77,79,77
+0021700598,2018-01-08,LAC,ATL,35.7,3,0,18,ATL,LAC,ft_make,11,False,False,Thornwell Free Throw 1 of 2 (1 PTS),,80-77,80,77
 0021700598,2018-01-08,LAC,ATL,35.7,3,0,18,LAC,LAC,ft_miss,12,False,False,MISS Thornwell Free Throw 2 of 2,,79-77,79,77
 0021700598,2018-01-08,LAC,ATL,35.7,3,0,18,ATL,ATL,reb,0,False,False,,Muscala REBOUND (Off:0 Def:1),79-77,79,77
-0021700598,2018-01-08,LAC,ATL,35.7,3,0,18,ATL,LAC,ft_make,11,False,False,Thornwell Free Throw 1 of 2 (1 PTS),,80-77,80,77
 0021700598,2018-01-08,LAC,ATL,35.98,3,0,1,ATL,ATL,fg3_miss,1,False,False,,MISS Belinelli 3PT Jump Shot,80-77,80,77
 0021700598,2018-01-08,LAC,ATL,36.0,3,0,0,ATL,ATL,reb,0,False,False,,Hawks Rebound,80-77,80,77
 0021700598,2018-01-08,LAC,ATL,36.0,3,0,0,ATL,,period_end,0,False,False,,,80-77,80,77

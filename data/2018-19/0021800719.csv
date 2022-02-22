@@ -47,9 +47,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800719,2019-01-24,LAL,MIN,5.13,1,6,52,MIN,MIN,fg3_miss,1,False,False,,MISS Rose 26' 3PT Jump Shot,11-13,11,13
 0021800719,2019-01-24,LAL,MIN,5.18,1,6,49,LAL,LAL,reb,0,False,False,Rondo REBOUND (Off:1 Def:1),,11-13,11,13
 0021800719,2019-01-24,LAL,MIN,5.55,1,6,27,LAL,LAL,fg_miss,80,False,False,MISS Ingram 21' Step Back Jump Shot,,11-13,11,13
-0021800719,2019-01-24,LAL,MIN,5.55,1,6,27,LAL,LAL,tov,11,False,False,LAKERS Turnover: Shot Clock (T#2),,11-13,11,13
 0021800719,2019-01-24,LAL,MIN,5.55,1,6,27,LAL,LAL,reb,0,False,False,LAKERS Rebound,,11-13,11,13
 0021800719,2019-01-24,LAL,MIN,5.55,1,6,27,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 1 Short 0),,11-13,11,13
+0021800719,2019-01-24,LAL,MIN,5.55,1,6,27,LAL,LAL,tov,11,False,False,LAKERS Turnover: Shot Clock (T#2),,11-13,11,13
 0021800719,2019-01-24,LAL,MIN,5.8,1,6,12,MIN,MIN,fg_make,96,False,False,,Wiggins 3' Turnaround Bank Hook Shot (4 PTS),11-15,11,15
 0021800719,2019-01-24,LAL,MIN,6.12,1,5,53,LAL,LAL,fg_miss,57,False,False,MISS Rondo 4' Driving Hook Shot,,11-15,11,15
 0021800719,2019-01-24,LAL,MIN,6.17,1,5,50,LAL,LAL,reb,0,False,False,Zubac REBOUND (Off:1 Def:1),,11-15,11,15
@@ -143,8 +143,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800719,2019-01-24,LAL,MIN,15.53,2,8,28,MIN,LAL,block,98,True,False,block,block,37-37,37,37
 0021800719,2019-01-24,LAL,MIN,15.6,2,8,24,LAL,LAL,reb,0,False,False,Hart REBOUND (Off:0 Def:1),,37-37,37,37
 0021800719,2019-01-24,LAL,MIN,15.67,2,8,20,LAL,LAL,fg_miss,41,True,False,MISS Stephenson 5' Running Layup,,37-37,37,37
-0021800719,2019-01-24,LAL,MIN,15.67,2,8,20,LAL,LAL,reb,0,False,False,LAKERS Rebound,,37-37,37,37
 0021800719,2019-01-24,LAL,MIN,15.67,2,8,20,LAL,MIN,block,41,True,False,block,block,37-37,37,37
+0021800719,2019-01-24,LAL,MIN,15.67,2,8,20,LAL,LAL,reb,0,False,False,LAKERS Rebound,,37-37,37,37
 0021800719,2019-01-24,LAL,MIN,15.75,2,8,15,LAL,LAL,tov,4,False,False,Kuzma Traveling Turnover (P1.T6),,37-37,37,37
 0021800719,2019-01-24,LAL,MIN,16.15,2,7,51,MIN,MIN,tov,11,False,False,,Timberwolves Turnover: Shot Clock (T#5),37-37,37,37
 0021800719,2019-01-24,LAL,MIN,16.3,2,7,42,LAL,LAL,fg3_miss,63,False,False,MISS Mykhailiuk 26' 3PT Fadeaway Jumper,,37-37,37,37
@@ -299,8 +299,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800719,2019-01-24,LAL,MIN,29.15,3,6,51,MIN,MIN,fg3_miss,1,False,False,,MISS Bayless 24' 3PT Jump Shot,66-66,66,66
 0021800719,2019-01-24,LAL,MIN,29.18,3,6,49,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:3 Def:5),66-66,66,66
 0021800719,2019-01-24,LAL,MIN,29.18,3,6,49,MIN,MIN,fg_miss,72,True,False,,MISS Towns 3' Putback Layup,66-66,66,66
-0021800719,2019-01-24,LAL,MIN,29.18,3,6,49,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,66-66,66,66
 0021800719,2019-01-24,LAL,MIN,29.18,3,6,49,MIN,LAL,block,72,True,False,block,block,66-66,66,66
+0021800719,2019-01-24,LAL,MIN,29.18,3,6,49,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,66-66,66,66
 0021800719,2019-01-24,LAL,MIN,29.22,3,6,47,MIN,MIN,fg3_make,1,False,False,,Towns 26' 3PT Jump Shot (16 PTS) (Bayless 5 AST),66-69,66,69
 0021800719,2019-01-24,LAL,MIN,29.6,3,6,24,LAL,LAL,fg_miss,6,False,False,MISS Ingram 3' Driving Layup,,66-69,66,69
 0021800719,2019-01-24,LAL,MIN,29.62,3,6,23,MIN,MIN,reb,0,False,False,,Wiggins REBOUND (Off:1 Def:4),66-69,66,69
@@ -336,8 +336,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800719,2019-01-24,LAL,MIN,33.55,3,2,27,LAL,LAL,fg3_miss,1,False,False,MISS Beasley 25' 3PT Jump Shot,,76-81,76,81
 0021800719,2019-01-24,LAL,MIN,33.55,3,2,27,MIN,MIN,reb,0,False,False,,Deng REBOUND (Off:0 Def:1),76-81,76,81
 0021800719,2019-01-24,LAL,MIN,33.95,3,2,3,MIN,MIN,fg_miss,6,False,False,,MISS Towns 4' Driving Layup,76-81,76,81
-0021800719,2019-01-24,LAL,MIN,33.95,3,2,3,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,76-81,76,81
 0021800719,2019-01-24,LAL,MIN,33.95,3,2,3,MIN,MIN,tov,11,False,False,,Timberwolves Turnover: Shot Clock (T#11),76-81,76,81
+0021800719,2019-01-24,LAL,MIN,33.95,3,2,3,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,76-81,76,81
 0021800719,2019-01-24,LAL,MIN,34.15,3,1,51,LAL,LAL,fg_miss,78,False,False,MISS Beasley 5' Floating Jump Shot,,76-81,76,81
 0021800719,2019-01-24,LAL,MIN,34.23,3,1,46,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:2 Def:2),,76-81,76,81
 0021800719,2019-01-24,LAL,MIN,34.23,3,1,46,LAL,LAL,fg_miss,107,False,False,MISS McGee 1' Tip Dunk Shot,,76-81,76,81
@@ -349,8 +349,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800719,2019-01-24,LAL,MIN,35.02,3,0,59,MIN,MIN,fg_miss,101,False,False,,MISS Bayless 8' Driving Floating Jump Shot,80-81,80,81
 0021800719,2019-01-24,LAL,MIN,35.1,3,0,54,MIN,MIN,reb,0,False,False,,Dieng REBOUND (Off:3 Def:1),80-81,80,81
 0021800719,2019-01-24,LAL,MIN,35.12,3,0,53,MIN,MIN,fg3_miss,1,True,False,,MISS Deng 25' 3PT Jump Shot,80-81,80,81
-0021800719,2019-01-24,LAL,MIN,35.12,3,0,53,MIN,MIN,reb,0,False,False,,Dieng REBOUND (Off:4 Def:1),80-81,80,81
 0021800719,2019-01-24,LAL,MIN,35.12,3,0,53,MIN,LAL,block,1,True,False,block,block,80-81,80,81
+0021800719,2019-01-24,LAL,MIN,35.12,3,0,53,MIN,MIN,reb,0,False,False,,Dieng REBOUND (Off:4 Def:1),80-81,80,81
 0021800719,2019-01-24,LAL,MIN,35.23,3,0,46,MIN,MIN,fg3_make,1,False,False,,Terrell 26' 3PT Jump Shot (3 PTS) (Dieng 2 AST),80-84,80,84
 0021800719,2019-01-24,LAL,MIN,35.55,3,0,27,LAL,LAL,fg_make,58,False,False,McGee 7' Turnaround Hook Shot (8 PTS) (Hart 2 AST),,82-84,82,84
 0021800719,2019-01-24,LAL,MIN,35.9,3,0,6,MIN,MIN,fg_miss,79,False,False,,MISS Bayless 19' Pullup Jump Shot,82-84,82,84

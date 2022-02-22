@@ -93,10 +93,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800188,2018-11-11,POR,BOS,11.78,1,0,13,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:2),26-19,26,19
 0021800188,2018-11-11,POR,BOS,11.95,1,0,3,BOS,BOS,fg_make,80,False,False,,Tatum 22' Step Back Jump Shot (7 PTS),26-21,26,21
 0021800188,2018-11-11,POR,BOS,12.0,1,0,0,POR,POR,fg_miss,43,True,False,MISS Leonard 3' Alley Oop Layup,,26-21,26,21
+0021800188,2018-11-11,POR,BOS,12.0,1,0,0,POR,BOS,block,43,True,False,block,block,26-21,26,21
 0021800188,2018-11-11,POR,BOS,12.0,1,0,0,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,26-21,26,21
 0021800188,2018-11-11,POR,BOS,12.0,1,0,0,POR,,period_end,0,False,False,,,26-21,26,21
 0021800188,2018-11-11,POR,BOS,12.0,2,12,0,POR,,period_start,0,False,False,,,26-21,26,21
-0021800188,2018-11-11,POR,BOS,12.0,1,0,0,POR,BOS,block,43,True,False,block,block,26-21,26,21
 0021800188,2018-11-11,POR,BOS,12.27,2,11,44,BOS,BOS,fg_miss,86,False,False,,MISS Morris Sr. 11' Turnaround Fadeaway Shot,26-21,26,21
 0021800188,2018-11-11,POR,BOS,12.32,2,11,41,BOS,BOS,reb,0,False,False,,Smart REBOUND (Off:1 Def:0),26-21,26,21
 0021800188,2018-11-11,POR,BOS,12.35,2,11,39,BOS,BOS,fg3_miss,1,False,False,,MISS Tatum 25' 3PT Jump Shot,26-21,26,21
@@ -106,8 +106,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800188,2018-11-11,POR,BOS,13.03,2,10,58,POR,POR,fg_miss,79,False,False,MISS Curry 16' Pullup Jump Shot,,28-24,28,24
 0021800188,2018-11-11,POR,BOS,13.07,2,10,56,BOS,BOS,reb,0,False,False,,Morris Sr. REBOUND (Off:0 Def:1),28-24,28,24
 0021800188,2018-11-11,POR,BOS,13.25,2,10,45,BOS,BOS,tov,2,False,True,,Morris Sr. Lost Ball Turnover (P1.T5),28-24,28,24
-0021800188,2018-11-11,POR,BOS,13.25,2,10,45,POR,POR,tov,4,False,False,Curry Traveling Turnover (P1.T5),,28-24,28,24
 0021800188,2018-11-11,POR,BOS,13.25,2,10,45,BOS,POR,steal,2,False,True,steal,steal,28-24,28,24
+0021800188,2018-11-11,POR,BOS,13.25,2,10,45,POR,POR,tov,4,False,False,Curry Traveling Turnover (P1.T5),,28-24,28,24
 0021800188,2018-11-11,POR,BOS,13.38,2,10,37,BOS,BOS,fg_miss,6,False,False,,MISS Morris Sr. 2' Driving Layup,28-24,28,24
 0021800188,2018-11-11,POR,BOS,13.42,2,10,35,POR,POR,reb,0,False,False,Leonard REBOUND (Off:0 Def:3),,28-24,28,24
 0021800188,2018-11-11,POR,BOS,13.65,2,10,21,POR,POR,fg3_miss,1,False,False,MISS Leonard 26' 3PT Jump Shot,,28-24,28,24
@@ -259,8 +259,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800188,2018-11-11,POR,BOS,30.9,3,5,6,POR,POR,tov,2,False,True,Nurkic Lost Ball Turnover (P2.T14),,69-63,69,63
 0021800188,2018-11-11,POR,BOS,30.9,3,5,6,POR,BOS,steal,2,False,True,steal,steal,69-63,69,63
 0021800188,2018-11-11,POR,BOS,30.95,3,5,3,BOS,BOS,tov,1,False,True,,Irving Bad Pass Turnover (P3.T8),69-63,69,63
-0021800188,2018-11-11,POR,BOS,30.95,3,5,3,POR,BOS,foul,28,False,False,,Irving Personal Take Foul (P3.T1) (N.Sago),69-63,69,63
 0021800188,2018-11-11,POR,BOS,30.95,3,5,3,BOS,POR,steal,1,False,True,steal,steal,69-63,69,63
+0021800188,2018-11-11,POR,BOS,30.95,3,5,3,POR,BOS,foul,28,False,False,,Irving Personal Take Foul (P3.T1) (N.Sago),69-63,69,63
 0021800188,2018-11-11,POR,BOS,31.25,3,4,45,POR,POR,fg_make,6,False,False,Lillard 1' Driving Layup (13 PTS),,71-63,71,63
 0021800188,2018-11-11,POR,BOS,31.42,3,4,35,BOS,BOS,fg3_make,79,False,False,,Irving 27' 3PT Pullup Jump Shot (14 PTS),71-66,71,66
 0021800188,2018-11-11,POR,BOS,31.72,3,4,17,POR,POR,fg3_miss,1,False,False,MISS Aminu 25' 3PT Jump Shot,,71-66,71,66

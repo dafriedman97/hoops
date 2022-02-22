@@ -148,9 +148,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900370,2019-12-12,DEN,POR,16.65,2,7,21,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 2 Short 0),,45-38,45,38
 0021900370,2019-12-12,DEN,POR,16.87,2,7,8,DEN,DEN,fg_miss,101,False,False,MISS Morris 7' Driving Floating Jump Shot,,45-38,45,38
 0021900370,2019-12-12,DEN,POR,16.88,2,7,7,DEN,DEN,reb,0,False,False,Harris REBOUND (Off:1 Def:0),,45-38,45,38
+0021900370,2019-12-12,DEN,POR,17.08,2,6,55,DEN,DEN,tov,11,False,False,NUGGETS Turnover: Shot Clock (T#3),,45-38,45,38
 0021900370,2019-12-12,DEN,POR,17.08,2,6,55,DEN,DEN,fg_miss,98,False,False,MISS Grant 6' Cutting Layup Shot,,45-38,45,38
 0021900370,2019-12-12,DEN,POR,17.08,2,6,55,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,45-38,45,38
-0021900370,2019-12-12,DEN,POR,17.08,2,6,55,DEN,DEN,tov,11,False,False,NUGGETS Turnover: Shot Clock (T#3),,45-38,45,38
 0021900370,2019-12-12,DEN,POR,17.43,2,6,34,POR,POR,fg_make,6,False,False,,Anthony 3' Driving Layup (11 PTS) (McCollum 2 AST),45-40,45,40
 0021900370,2019-12-12,DEN,POR,17.47,2,6,32,DEN,POR,violation,1,False,False,,Trail Blazers Violation: Delay of game Violation,45-40,45,40
 0021900370,2019-12-12,DEN,POR,17.77,2,6,14,DEN,DEN,fg3_make,1,False,False,Grant 26' 3PT Jump Shot (10 PTS) (Plumlee 3 AST),,48-40,48,40
@@ -199,8 +199,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900370,2019-12-12,DEN,POR,24.0,2,0,0,POR,,period_end,0,False,False,,,62-53,62,53
 0021900370,2019-12-12,DEN,POR,24.0,3,12,0,POR,,period_start,0,False,False,,,62-53,62,53
 0021900370,2019-12-12,DEN,POR,24.27,3,11,44,DEN,DEN,tov,1,False,True,Murray Bad Pass Turnover (P3.T6),,62-53,62,53
-0021900370,2019-12-12,DEN,POR,24.27,3,11,44,POR,DEN,foul,28,False,False,Jokic Personal Take Foul (P1.T1) (J.Capers),,62-53,62,53
 0021900370,2019-12-12,DEN,POR,24.27,3,11,44,DEN,POR,steal,1,False,True,steal,steal,62-53,62,53
+0021900370,2019-12-12,DEN,POR,24.27,3,11,44,POR,DEN,foul,28,False,False,Jokic Personal Take Foul (P1.T1) (J.Capers),,62-53,62,53
 0021900370,2019-12-12,DEN,POR,24.6,3,11,24,POR,POR,fg_make,58,False,False,,Whiteside 3' Turnaround Hook Shot (15 PTS) (Lillard 5 AST),62-55,62,55
 0021900370,2019-12-12,DEN,POR,24.93,3,11,4,DEN,DEN,fg_miss,101,False,False,MISS Millsap 7' Driving Floating Jump Shot,,62-55,62,55
 0021900370,2019-12-12,DEN,POR,25.02,3,10,59,DEN,DEN,reb,0,False,False,Millsap REBOUND (Off:2 Def:2),,62-55,62,55
@@ -252,8 +252,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900370,2019-12-12,DEN,POR,31.7,3,4,18,DEN,DEN,fg3_miss,1,False,False,MISS Craig 26' 3PT Jump Shot,,75-73,75,73
 0021900370,2019-12-12,DEN,POR,31.77,3,4,14,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:1 Def:7),75-73,75,73
 0021900370,2019-12-12,DEN,POR,31.87,3,4,8,POR,POR,tov,2,False,True,,McCollum Lost Ball Turnover (P2.T5),75-73,75,73
-0021900370,2019-12-12,DEN,POR,31.87,3,4,8,DEN,POR,foul,1,False,False,,McCollum P.FOUL (P2.T2) (R.Acosta),75-73,75,73
 0021900370,2019-12-12,DEN,POR,31.87,3,4,8,POR,DEN,steal,2,False,True,steal,steal,75-73,75,73
+0021900370,2019-12-12,DEN,POR,31.87,3,4,8,DEN,POR,foul,1,False,False,,McCollum P.FOUL (P2.T2) (R.Acosta),75-73,75,73
 0021900370,2019-12-12,DEN,POR,32.13,3,3,52,DEN,DEN,fg_miss,6,True,False,MISS Plumlee 3' Driving Layup,,75-73,75,73
 0021900370,2019-12-12,DEN,POR,32.13,3,3,52,DEN,POR,block,6,True,False,block,block,75-73,75,73
 0021900370,2019-12-12,DEN,POR,32.2,3,3,48,DEN,DEN,reb,0,False,False,Plumlee REBOUND (Off:3 Def:0),,75-73,75,73
@@ -297,20 +297,20 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900370,2019-12-12,DEN,POR,36.7,4,11,18,POR,DEN,steal,2,False,True,steal,steal,89-80,89,80
 0021900370,2019-12-12,DEN,POR,37.0,4,11,0,DEN,DEN,fg_make,79,False,False,Barton 11' Pullup Jump Shot (10 PTS),,91-80,91,80
 0021900370,2019-12-12,DEN,POR,37.55,4,10,27,POR,POR,fg_miss,7,True,False,,MISS Labissiere 2' Dunk,91-80,91,80
+0021900370,2019-12-12,DEN,POR,37.55,4,10,27,POR,DEN,block,7,True,False,block,block,91-80,91,80
 0021900370,2019-12-12,DEN,POR,37.55,4,10,27,POR,POR,reb,0,False,False,,Trail Blazers Rebound,91-80,91,80
 0021900370,2019-12-12,DEN,POR,37.55,4,10,27,POR,POR,tov,11,False,False,,Trail Blazers Turnover: Shot Clock (T#8),91-80,91,80
-0021900370,2019-12-12,DEN,POR,37.55,4,10,27,POR,DEN,block,7,True,False,block,block,91-80,91,80
 0021900370,2019-12-12,DEN,POR,37.73,4,10,16,DEN,DEN,fg3_miss,1,False,False,MISS Porter Jr. 24' 3PT Jump Shot,,91-80,91,80
 0021900370,2019-12-12,DEN,POR,37.77,4,10,14,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,91-80,91,80
 0021900370,2019-12-12,DEN,POR,37.77,4,10,14,DEN,POR,foul,3,False,False,,Labissiere L.B.FOUL (P3.T1) (M.Lindsay),91-80,91,80
 0021900370,2019-12-12,DEN,POR,37.87,4,10,8,DEN,DEN,fg_miss,98,False,False,MISS Plumlee 4' Cutting Layup Shot,,91-80,91,80
-0021900370,2019-12-12,DEN,POR,37.93,4,10,4,DEN,DEN,fg_make,97,False,False,Plumlee 1' Tip Layup Shot (4 PTS),,93-80,93,80
 0021900370,2019-12-12,DEN,POR,37.93,4,10,4,DEN,DEN,reb,0,False,False,Plumlee REBOUND (Off:4 Def:1),,93-80,93,80
+0021900370,2019-12-12,DEN,POR,37.93,4,10,4,DEN,DEN,fg_make,97,False,False,Plumlee 1' Tip Layup Shot (4 PTS),,93-80,93,80
 0021900370,2019-12-12,DEN,POR,38.08,4,9,55,POR,POR,tov,2,False,True,,McCollum Lost Ball Turnover (P3.T9),93-80,93,80
 0021900370,2019-12-12,DEN,POR,38.08,4,9,55,POR,DEN,steal,2,False,True,steal,steal,93-80,93,80
 0021900370,2019-12-12,DEN,POR,38.13,4,9,52,DEN,DEN,fg_miss,5,True,False,MISS Barton 4' Layup,,93-80,93,80
-0021900370,2019-12-12,DEN,POR,38.13,4,9,52,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,93-80,93,80
 0021900370,2019-12-12,DEN,POR,38.13,4,9,52,DEN,POR,block,5,True,False,block,block,93-80,93,80
+0021900370,2019-12-12,DEN,POR,38.13,4,9,52,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,93-80,93,80
 0021900370,2019-12-12,DEN,POR,38.28,4,9,43,DEN,DEN,fg3_make,1,False,False,Barton 24' 3PT Jump Shot (13 PTS) (Morris 6 AST),,96-80,96,80
 0021900370,2019-12-12,DEN,POR,38.65,4,9,21,POR,POR,fg_make,1,False,False,,Anthony 21' Jump Shot (20 PTS) (Simons 1 AST),96-82,96,82
 0021900370,2019-12-12,DEN,POR,38.93,4,9,4,DEN,DEN,tov,45,False,False,Porter Jr. Out of Bounds - Bad Pass Turnover Turnover (P3.T10),,96-82,96,82
@@ -346,8 +346,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900370,2019-12-12,DEN,POR,41.4,4,6,36,DEN,DEN,reb,0,False,False,Barton REBOUND (Off:2 Def:7),,101-86,101,86
 0021900370,2019-12-12,DEN,POR,41.63,4,6,22,DEN,DEN,fg3_make,1,False,False,Morris 3PT Jump Shot (11 PTS) (Barton 4 AST),,104-86,104,86
 0021900370,2019-12-12,DEN,POR,42.02,4,5,59,POR,POR,fg3_miss,79,False,False,,MISS Bazemore 25' 3PT Pullup Jump Shot,104-86,104,86
-0021900370,2019-12-12,DEN,POR,42.1,4,5,54,POR,POR,fg_make,97,False,False,,Whiteside 1' Tip Layup Shot (27 PTS),104-88,104,88
 0021900370,2019-12-12,DEN,POR,42.1,4,5,54,POR,POR,reb,0,False,False,,Whiteside REBOUND (Off:2 Def:7),104-88,104,88
+0021900370,2019-12-12,DEN,POR,42.1,4,5,54,POR,POR,fg_make,97,False,False,,Whiteside 1' Tip Layup Shot (27 PTS),104-88,104,88
 0021900370,2019-12-12,DEN,POR,42.22,4,5,47,POR,DEN,foul,4,False,False,Harris OFF.Foul (P3) (J.Capers),,104-88,104,88
 0021900370,2019-12-12,DEN,POR,42.22,4,5,47,DEN,DEN,tov,37,False,False,Harris Offensive Foul Turnover (P1.T11),,104-88,104,88
 0021900370,2019-12-12,DEN,POR,42.53,4,5,28,POR,DEN,foul,2,False,False,Jokic S.FOUL (P2.T4) (J.Capers),,104-88,104,88

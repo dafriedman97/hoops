@@ -2,8 +2,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800620,2019-01-10,SAC,DET,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
 0021800620,2019-01-10,SAC,DET,0.0,1,12,0,,SAC,jump_ball,0,False,False,Jump Ball Cauley-Stein vs. Drummond: Tip to Jackson,,0-0,0,0
 0021800620,2019-01-10,SAC,DET,0.37,1,11,38,DET,DET,fg_miss,6,True,False,,MISS Brown 6' Driving Layup,0-0,0,0
-0021800620,2019-01-10,SAC,DET,0.37,1,11,38,SAC,SAC,reb,0,False,False,KINGS Rebound,,0-0,0,0
 0021800620,2019-01-10,SAC,DET,0.37,1,11,38,DET,SAC,block,6,True,False,block,block,0-0,0,0
+0021800620,2019-01-10,SAC,DET,0.37,1,11,38,SAC,SAC,reb,0,False,False,KINGS Rebound,,0-0,0,0
 0021800620,2019-01-10,SAC,DET,0.57,1,11,26,SAC,SAC,tov,8,False,False,Bjelica 3 Second Violation Turnover (P1.T1),,0-0,0,0
 0021800620,2019-01-10,SAC,DET,0.82,1,11,11,DET,DET,fg3_miss,1,False,False,,MISS Bullock 25' 3PT Jump Shot,0-0,0,0
 0021800620,2019-01-10,SAC,DET,0.85,1,11,9,SAC,SAC,reb,0,False,False,Cauley-Stein REBOUND (Off:0 Def:1),,0-0,0,0
@@ -34,8 +34,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800620,2019-01-10,SAC,DET,4.67,1,7,20,DET,DET,fg3_make,63,False,False,,Bullock 3PT Fadeaway Jumper (3 PTS) (Kennard 1 AST),13-8,13,8
 0021800620,2019-01-10,SAC,DET,4.77,1,7,14,SAC,DET,foul,2,False,False,,Brown S.FOUL (P1.T1) (T.Brothers),13-8,13,8
 0021800620,2019-01-10,SAC,DET,4.77,1,7,14,SAC,SAC,ft_miss,11,False,False,MISS Fox Free Throw 1 of 2,,13-8,13,8
-0021800620,2019-01-10,SAC,DET,4.77,1,7,14,SAC,SAC,reb,1,False,False,KINGS Rebound,,13-8,13,8
 0021800620,2019-01-10,SAC,DET,4.77,1,7,14,SAC,SAC,ft_make,12,False,False,Fox Free Throw 2 of 2 (4 PTS),,14-8,14,8
+0021800620,2019-01-10,SAC,DET,4.77,1,7,14,SAC,SAC,reb,1,False,False,KINGS Rebound,,13-8,13,8
 0021800620,2019-01-10,SAC,DET,5.07,1,6,56,DET,DET,fg3_miss,1,False,False,,MISS Brown 25' 3PT Jump Shot,14-8,14,8
 0021800620,2019-01-10,SAC,DET,5.13,1,6,52,SAC,SAC,reb,0,False,False,Fox REBOUND (Off:0 Def:1),,14-8,14,8
 0021800620,2019-01-10,SAC,DET,5.15,1,6,51,SAC,SAC,fg_make,71,False,False,Bjelica 2' Finger Roll Layup (2 PTS) (Fox 2 AST),,16-8,16,8
@@ -308,8 +308,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800620,2019-01-10,SAC,DET,33.52,3,2,29,SAC,SAC,fg_miss,79,False,False,MISS Shumpert 15' Pullup Jump Shot,,89-69,89,69
 0021800620,2019-01-10,SAC,DET,33.6,3,2,24,DET,DET,reb,0,False,False,,Leuer REBOUND (Off:0 Def:6),89-69,89,69
 0021800620,2019-01-10,SAC,DET,33.83,3,2,10,DET,DET,fg3_miss,1,True,False,,MISS Johnson 24' 3PT Jump Shot,89-69,89,69
-0021800620,2019-01-10,SAC,DET,33.83,3,2,10,DET,DET,reb,0,False,False,,Johnson REBOUND (Off:1 Def:1),89-69,89,69
 0021800620,2019-01-10,SAC,DET,33.83,3,2,10,DET,SAC,block,1,True,False,block,block,89-69,89,69
+0021800620,2019-01-10,SAC,DET,33.83,3,2,10,DET,DET,reb,0,False,False,,Johnson REBOUND (Off:1 Def:1),89-69,89,69
 0021800620,2019-01-10,SAC,DET,33.88,3,2,7,DET,SAC,foul,2,False,False,Bjelica S.FOUL (P3.T4) (N.Buchert),,89-69,89,69
 0021800620,2019-01-10,SAC,DET,33.88,3,2,7,DET,DET,ft_make,11,False,False,,Johnson Free Throw 1 of 2 (12 PTS),89-70,89,70
 0021800620,2019-01-10,SAC,DET,33.88,3,2,7,DET,DET,ft_make,12,False,False,,Johnson Free Throw 2 of 2 (13 PTS),89-71,89,71
@@ -347,8 +347,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800620,2019-01-10,SAC,DET,38.38,4,9,37,DET,SAC,block,5,True,False,block,block,95-77,95,77
 0021800620,2019-01-10,SAC,DET,38.47,4,9,32,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:1 Def:8),95-77,95,77
 0021800620,2019-01-10,SAC,DET,38.47,4,9,32,DET,DET,tov,1,False,True,,Drummond Bad Pass Turnover (P7.T15),95-77,95,77
-0021800620,2019-01-10,SAC,DET,38.47,4,9,32,SAC,DET,foul,1,False,False,,Calderon P.FOUL (P1.T2) (T.Brothers),95-77,95,77
 0021800620,2019-01-10,SAC,DET,38.47,4,9,32,DET,SAC,steal,1,False,True,steal,steal,95-77,95,77
+0021800620,2019-01-10,SAC,DET,38.47,4,9,32,SAC,DET,foul,1,False,False,,Calderon P.FOUL (P1.T2) (T.Brothers),95-77,95,77
 0021800620,2019-01-10,SAC,DET,38.58,4,9,25,SAC,SAC,fg_make,79,False,False,Bogdanovic 16' Pullup Jump Shot (4 PTS),,97-77,97,77
 0021800620,2019-01-10,SAC,DET,39.02,4,8,59,DET,DET,fg3_miss,1,False,False,,MISS Johnson 3PT Jump Shot,97-77,97,77
 0021800620,2019-01-10,SAC,DET,39.03,4,8,58,DET,DET,reb,0,False,False,,Pistons Rebound,97-77,97,77
@@ -385,8 +385,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800620,2019-01-10,SAC,DET,42.88,4,5,7,DET,DET,fg_make,6,False,False,,Drummond 3' Driving Layup (12 PTS),104-89,104,89
 0021800620,2019-01-10,SAC,DET,42.88,4,5,7,SAC,SAC,timeout,1,False,False,KINGS Timeout: Regular (Full 6 Short 0),,104-89,104,89
 0021800620,2019-01-10,SAC,DET,43.08,4,4,55,SAC,SAC,fg_miss,6,True,False,MISS Bogdanovic 3' Driving Layup,,104-89,104,89
-0021800620,2019-01-10,SAC,DET,43.08,4,4,55,SAC,SAC,reb,0,False,False,KINGS Rebound,,104-89,104,89
 0021800620,2019-01-10,SAC,DET,43.08,4,4,55,SAC,DET,block,6,True,False,block,block,104-89,104,89
+0021800620,2019-01-10,SAC,DET,43.08,4,4,55,SAC,SAC,reb,0,False,False,KINGS Rebound,,104-89,104,89
 0021800620,2019-01-10,SAC,DET,43.17,4,4,50,SAC,SAC,fg_make,63,False,False,Bogdanovic 15' Fadeaway Jumper (6 PTS) (Jackson 1 AST),,106-89,106,89
 0021800620,2019-01-10,SAC,DET,43.53,4,4,28,DET,DET,fg_miss,3,False,False,,MISS Drummond 12' Hook Shot,106-89,106,89
 0021800620,2019-01-10,SAC,DET,43.57,4,4,26,SAC,SAC,reb,0,False,False,Cauley-Stein REBOUND (Off:5 Def:9),,106-89,106,89

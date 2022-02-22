@@ -103,10 +103,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701066,2018-03-21,PHI,MEM,11.98,1,0,1,MEM,MEM,fg_miss,1,False,False,,MISS McLemore 16' Jump Shot,26-19,26,19
 0021701066,2018-03-21,PHI,MEM,11.98,1,0,1,MEM,MEM,reb,0,False,False,,Davis REBOUND (Off:3 Def:1),26-19,26,19
 0021701066,2018-03-21,PHI,MEM,12.0,1,0,0,MEM,MEM,fg_miss,97,True,False,,MISS Davis 1' Tip Layup Shot,26-19,26,19
+0021701066,2018-03-21,PHI,MEM,12.0,1,0,0,MEM,PHI,block,97,True,False,block,block,26-19,26,19
 0021701066,2018-03-21,PHI,MEM,12.0,1,0,0,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,26-19,26,19
 0021701066,2018-03-21,PHI,MEM,12.0,1,0,0,MEM,,period_end,0,False,False,,,26-19,26,19
 0021701066,2018-03-21,PHI,MEM,12.0,2,12,0,MEM,,period_start,0,False,False,,,26-19,26,19
-0021701066,2018-03-21,PHI,MEM,12.0,1,0,0,MEM,PHI,block,97,True,False,block,block,26-19,26,19
 0021701066,2018-03-21,PHI,MEM,12.2,2,11,48,PHI,PHI,fg_make,5,False,False,Embiid 1' Layup (4 PTS) (McConnell 2 AST),,28-19,28,19
 0021701066,2018-03-21,PHI,MEM,12.38,2,11,37,MEM,PHI,foul,1,False,False,Anderson P.FOUL (P2.T1) (M.Ervin),,28-19,28,19
 0021701066,2018-03-21,PHI,MEM,12.45,2,11,33,MEM,MEM,fg3_miss,1,False,False,,MISS McLemore 25' 3PT Jump Shot,28-19,28,19
@@ -160,8 +160,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701066,2018-03-21,PHI,MEM,19.33,2,4,40,PHI,PHI,fg_miss,6,False,False,MISS Simmons 2' Driving Layup,,44-32,44,32
 0021701066,2018-03-21,PHI,MEM,19.37,2,4,38,MEM,MEM,reb,0,False,False,,Gasol REBOUND (Off:0 Def:5),44-32,44,32
 0021701066,2018-03-21,PHI,MEM,19.43,2,4,34,MEM,MEM,tov,1,False,True,,Brooks Bad Pass Turnover (P3.T5),44-32,44,32
-0021701066,2018-03-21,PHI,MEM,19.43,2,4,34,PHI,MEM,foul,1,False,False,,Gasol P.FOUL (P2.T4) (B.Taylor),44-32,44,32
 0021701066,2018-03-21,PHI,MEM,19.43,2,4,34,MEM,PHI,steal,1,False,True,steal,steal,44-32,44,32
+0021701066,2018-03-21,PHI,MEM,19.43,2,4,34,PHI,MEM,foul,1,False,False,,Gasol P.FOUL (P2.T4) (B.Taylor),44-32,44,32
 0021701066,2018-03-21,PHI,MEM,19.62,2,4,23,PHI,PHI,fg_make,99,False,False,Belinelli 6' Cutting Finger Roll Layup Shot (4 PTS) (Saric 1 AST),,46-32,46,32
 0021701066,2018-03-21,PHI,MEM,19.98,2,4,1,MEM,PHI,foul,2,False,False,Covington S.FOUL (P2.T4) (T.Brothers),,46-32,46,32
 0021701066,2018-03-21,PHI,MEM,19.98,2,4,1,MEM,MEM,ft_miss,11,False,False,,MISS Brooks Free Throw 1 of 2,46-32,46,32
@@ -351,8 +351,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701066,2018-03-21,PHI,MEM,38.47,4,9,32,PHI,PHI,fg_miss,6,False,False,MISS Anderson 2' Driving Layup,,105-72,105,72
 0021701066,2018-03-21,PHI,MEM,38.5,4,9,30,MEM,MEM,reb,0,False,False,,Johnson REBOUND (Off:1 Def:2),105-72,105,72
 0021701066,2018-03-21,PHI,MEM,38.55,4,9,27,MEM,MEM,fg_miss,41,True,False,,MISS Selden 4' Running Layup,105-72,105,72
-0021701066,2018-03-21,PHI,MEM,38.55,4,9,27,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,105-72,105,72
 0021701066,2018-03-21,PHI,MEM,38.55,4,9,27,MEM,PHI,block,41,True,False,block,block,105-72,105,72
+0021701066,2018-03-21,PHI,MEM,38.55,4,9,27,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,105-72,105,72
 0021701066,2018-03-21,PHI,MEM,38.72,4,9,17,MEM,MEM,fg_make,99,False,False,,Johnson 3' Cutting Finger Roll Layup Shot (5 PTS) (Chalmers 3 AST),105-74,105,74
 0021701066,2018-03-21,PHI,MEM,38.97,4,9,2,PHI,PHI,fg3_miss,1,False,False,MISS Holmes 27' 3PT Jump Shot,,105-74,105,74
 0021701066,2018-03-21,PHI,MEM,39.0,4,9,0,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,105-74,105,74
@@ -394,8 +394,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701066,2018-03-21,PHI,MEM,43.02,4,4,59,PHI,MEM,block,41,True,False,block,block,111-86,111,86
 0021701066,2018-03-21,PHI,MEM,43.07,4,4,56,MEM,MEM,reb,0,False,False,,Chalmers REBOUND (Off:0 Def:2),111-86,111,86
 0021701066,2018-03-21,PHI,MEM,43.18,4,4,49,MEM,MEM,fg_miss,78,False,False,,MISS Chalmers 12' Floating Jump Shot,111-86,111,86
-0021701066,2018-03-21,PHI,MEM,43.2,4,4,48,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,111-86,111,86
 0021701066,2018-03-21,PHI,MEM,43.2,4,4,48,MEM,PHI,foul,3,False,False,Anderson L.B.FOUL (P5.T3) (B.Taylor),,111-86,111,86
+0021701066,2018-03-21,PHI,MEM,43.2,4,4,48,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,111-86,111,86
 0021701066,2018-03-21,PHI,MEM,43.33,4,4,40,MEM,MEM,fg_make,1,False,False,,Johnson 20' Jump Shot (7 PTS) (Selden 3 AST),111-88,111,88
 0021701066,2018-03-21,PHI,MEM,43.37,4,4,38,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 5 Short 0),,111-88,111,88
 0021701066,2018-03-21,PHI,MEM,43.57,4,4,26,PHI,PHI,fg_make,6,False,False,Jackson 2' Driving Layup (2 PTS),,113-88,113,88

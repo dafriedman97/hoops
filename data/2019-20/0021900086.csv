@@ -85,8 +85,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900086,2019-11-03,MIA,HOU,9.1,1,2,54,MIA,MIA,ft_make,12,False,False,Herro Free Throw 2 of 2 (6 PTS),,34-10,34,10
 0021900086,2019-11-03,MIA,HOU,9.45,1,2,33,HOU,HOU,fg_make,78,False,False,,McLemore 13' Floating Jump Shot (2 PTS) (Rivers 1 AST),34-12,34,12
 0021900086,2019-11-03,MIA,HOU,9.83,1,2,10,MIA,MIA,fg_miss,98,True,False,MISS Leonard 1' Cutting Layup Shot,,34-12,34,12
-0021900086,2019-11-03,MIA,HOU,9.83,1,2,10,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:2 Def:2),,34-12,34,12
 0021900086,2019-11-03,MIA,HOU,9.83,1,2,10,MIA,HOU,block,98,True,False,block,block,34-12,34,12
+0021900086,2019-11-03,MIA,HOU,9.83,1,2,10,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:2 Def:2),,34-12,34,12
 0021900086,2019-11-03,MIA,HOU,9.92,1,2,5,MIA,MIA,fg_make,108,False,False,Johnson 1' Cutting Dunk Shot (2 PTS) (Butler 5 AST),,36-12,36,12
 0021900086,2019-11-03,MIA,HOU,10.18,1,1,49,HOU,HOU,fg_make,44,False,False,,House Jr. 1' Reverse Layup (5 PTS) (Chandler 1 AST),36-14,36,14
 0021900086,2019-11-03,MIA,HOU,10.4,1,1,36,MIA,MIA,fg3_make,1,False,False,Leonard 24' 3PT Jump Shot (11 PTS),,39-14,39,14
@@ -108,10 +108,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900086,2019-11-03,MIA,HOU,11.95,1,0,3,MIA,MIA,ft_make,18,False,False,Olynyk Free Throw Flagrant 1 of 2 (3 PTS),,45-14,45,14
 0021900086,2019-11-03,MIA,HOU,11.95,1,0,3,MIA,MIA,ft_make,19,False,False,Olynyk Free Throw Flagrant 2 of 2 (4 PTS),,46-14,46,14
 0021900086,2019-11-03,MIA,HOU,12.0,1,0,0,MIA,MIA,fg3_miss,1,True,False,MISS Johnson 26' 3PT Jump Shot,,46-14,46,14
+0021900086,2019-11-03,MIA,HOU,12.0,1,0,0,MIA,HOU,block,1,True,False,block,block,46-14,46,14
 0021900086,2019-11-03,MIA,HOU,12.0,1,0,0,MIA,MIA,reb,0,False,False,HEAT Rebound,,46-14,46,14
 0021900086,2019-11-03,MIA,HOU,12.0,1,0,0,MIA,,period_end,0,False,False,,,46-14,46,14
 0021900086,2019-11-03,MIA,HOU,12.0,2,12,0,MIA,,period_start,0,False,False,,,46-14,46,14
-0021900086,2019-11-03,MIA,HOU,12.0,1,0,0,MIA,HOU,block,1,True,False,block,block,46-14,46,14
 0021900086,2019-11-03,MIA,HOU,12.4,2,11,36,MIA,MIA,fg3_make,1,False,False,Robinson 24' 3PT Jump Shot (6 PTS) (Dragic 2 AST),,49-14,49,14
 0021900086,2019-11-03,MIA,HOU,12.62,2,11,23,HOU,HOU,fg_make,98,False,False,,House Jr. 1' Cutting Layup Shot (7 PTS) (Westbrook 1 AST),49-16,49,16
 0021900086,2019-11-03,MIA,HOU,12.87,2,11,8,MIA,MIA,fg_miss,79,False,False,MISS Herro 10' Pullup Jump Shot,,49-16,49,16
@@ -236,8 +236,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900086,2019-11-03,MIA,HOU,24.0,2,0,0,MIA,,period_end,0,False,False,,,71-46,71,46
 0021900086,2019-11-03,MIA,HOU,24.0,3,12,0,MIA,,period_start,0,False,False,,,71-46,71,46
 0021900086,2019-11-03,MIA,HOU,24.13,3,11,52,MIA,MIA,tov,1,False,True,Nunn Bad Pass Turnover (P1.T10),,71-46,71,46
-0021900086,2019-11-03,MIA,HOU,24.13,3,11,52,HOU,MIA,foul,1,False,False,Butler P.FOUL (P1.T1) (S.Corbin),,71-46,71,46
 0021900086,2019-11-03,MIA,HOU,24.13,3,11,52,MIA,HOU,steal,1,False,True,steal,steal,71-46,71,46
+0021900086,2019-11-03,MIA,HOU,24.13,3,11,52,HOU,MIA,foul,1,False,False,Butler P.FOUL (P1.T1) (S.Corbin),,71-46,71,46
 0021900086,2019-11-03,MIA,HOU,24.28,3,11,43,HOU,HOU,fg3_miss,1,False,False,,MISS Westbrook 25' 3PT Jump Shot,71-46,71,46
 0021900086,2019-11-03,MIA,HOU,24.32,3,11,41,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:2 Def:4),,71-46,71,46
 0021900086,2019-11-03,MIA,HOU,24.6,3,11,24,MIA,MIA,fg_miss,58,False,False,MISS Adebayo 6' Turnaround Hook Shot,,71-46,71,46
@@ -276,8 +276,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900086,2019-11-03,MIA,HOU,27.27,3,8,44,MIA,MIA,fg3_miss,1,False,False,MISS Butler 26' 3PT Jump Shot,,76-47,76,47
 0021900086,2019-11-03,MIA,HOU,27.32,3,8,41,HOU,HOU,reb,0,False,False,,Tucker REBOUND (Off:0 Def:5),76-47,76,47
 0021900086,2019-11-03,MIA,HOU,27.42,3,8,35,HOU,HOU,fg_miss,6,True,False,,MISS Gordon 2' Driving Layup,76-47,76,47
-0021900086,2019-11-03,MIA,HOU,27.42,3,8,35,MIA,MIA,reb,0,False,False,HEAT Rebound,,76-47,76,47
 0021900086,2019-11-03,MIA,HOU,27.42,3,8,35,HOU,MIA,block,6,True,False,block,block,76-47,76,47
+0021900086,2019-11-03,MIA,HOU,27.42,3,8,35,MIA,MIA,reb,0,False,False,HEAT Rebound,,76-47,76,47
 0021900086,2019-11-03,MIA,HOU,27.85,3,8,9,MIA,MIA,fg3_miss,1,False,False,MISS Butler 3PT Jump Shot,,76-47,76,47
 0021900086,2019-11-03,MIA,HOU,27.85,3,8,9,MIA,MIA,reb,0,False,False,HEAT Rebound,,76-47,76,47
 0021900086,2019-11-03,MIA,HOU,28.05,3,7,57,MIA,MIA,fg3_make,1,False,False,Robinson 24' 3PT Jump Shot (17 PTS) (Butler 9 AST),,79-47,79,47
@@ -298,12 +298,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900086,2019-11-03,MIA,HOU,29.58,3,6,25,MIA,MIA,fg3_miss,1,False,False,MISS Robinson 26' 3PT Jump Shot,,83-48,83,48
 0021900086,2019-11-03,MIA,HOU,29.65,3,6,21,HOU,HOU,reb,0,False,False,,Capela REBOUND (Off:0 Def:5),83-48,83,48
 0021900086,2019-11-03,MIA,HOU,29.78,3,6,13,HOU,HOU,fg_miss,6,True,False,,MISS Gordon 3' Driving Layup,83-48,83,48
-0021900086,2019-11-03,MIA,HOU,29.78,3,6,13,HOU,HOU,reb,0,False,False,,Rockets Rebound,83-48,83,48
 0021900086,2019-11-03,MIA,HOU,29.78,3,6,13,HOU,MIA,block,6,True,False,block,block,83-48,83,48
+0021900086,2019-11-03,MIA,HOU,29.78,3,6,13,HOU,HOU,reb,0,False,False,,Rockets Rebound,83-48,83,48
 0021900086,2019-11-03,MIA,HOU,29.98,3,6,1,HOU,HOU,fg_make,79,False,False,,Harden 5' Pullup Jump Shot (23 PTS),83-50,83,50
 0021900086,2019-11-03,MIA,HOU,30.3,3,5,42,MIA,MIA,fg_miss,6,True,False,MISS Nunn 2' Driving Layup,,83-50,83,50
-0021900086,2019-11-03,MIA,HOU,30.3,3,5,42,HOU,HOU,reb,0,False,False,,Capela REBOUND (Off:0 Def:6),83-50,83,50
 0021900086,2019-11-03,MIA,HOU,30.3,3,5,42,MIA,HOU,block,6,True,False,block,block,83-50,83,50
+0021900086,2019-11-03,MIA,HOU,30.3,3,5,42,HOU,HOU,reb,0,False,False,,Capela REBOUND (Off:0 Def:6),83-50,83,50
 0021900086,2019-11-03,MIA,HOU,30.42,3,5,35,HOU,MIA,foul,1,False,False,Nunn P.FOUL (P4.T4) (J.Sterling),,83-50,83,50
 0021900086,2019-11-03,MIA,HOU,30.58,3,5,25,HOU,HOU,tov,2,False,True,,Harden Lost Ball Turnover (P5.T15),83-50,83,50
 0021900086,2019-11-03,MIA,HOU,30.58,3,5,25,HOU,MIA,steal,2,False,True,steal,steal,83-50,83,50
@@ -329,8 +329,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900086,2019-11-03,MIA,HOU,32.43,3,3,34,MIA,MIA,fg3_miss,1,False,False,MISS Adebayo 3PT Jump Shot,,87-55,87,55
 0021900086,2019-11-03,MIA,HOU,32.48,3,3,31,HOU,HOU,reb,0,False,False,,Rivers REBOUND (Off:1 Def:2),87-55,87,55
 0021900086,2019-11-03,MIA,HOU,32.63,3,3,22,HOU,HOU,fg_miss,6,True,False,,MISS Harden 2' Driving Layup,87-55,87,55
-0021900086,2019-11-03,MIA,HOU,32.63,3,3,22,HOU,HOU,reb,0,False,False,,Rockets Rebound,87-55,87,55
 0021900086,2019-11-03,MIA,HOU,32.63,3,3,22,HOU,MIA,block,6,True,False,block,block,87-55,87,55
+0021900086,2019-11-03,MIA,HOU,32.63,3,3,22,HOU,HOU,reb,0,False,False,,Rockets Rebound,87-55,87,55
 0021900086,2019-11-03,MIA,HOU,32.78,3,3,13,HOU,HOU,fg3_make,80,False,False,,Harden 24' 3PT Step Back Jump Shot (29 PTS),87-58,87,58
 0021900086,2019-11-03,MIA,HOU,32.98,3,3,1,MIA,HOU,foul,1,False,False,,Harden P.FOUL (P4.PN) (S.Corbin),87-58,87,58
 0021900086,2019-11-03,MIA,HOU,32.98,3,3,1,MIA,MIA,ft_miss,11,False,False,MISS Butler Free Throw 1 of 2,,87-58,87,58

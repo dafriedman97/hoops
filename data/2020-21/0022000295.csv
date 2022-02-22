@@ -61,8 +61,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000295,2021-01-29,OKC,BKN,6.5,1,5,30,OKC,OKC,reb,0,False,False,Horford REBOUND (Off:1 Def:2),,13-16,13,16
 0022000295,2021-01-29,OKC,BKN,6.58,1,5,25,OKC,OKC,fg3_make,1,False,False,Maledon 3PT Jump Shot (6 PTS) (Gilgeous-Alexander 1 AST),,16-16,16,16
 0022000295,2021-01-29,OKC,BKN,6.95,1,5,3,BKN,BKN,fg_miss,5,False,False,,MISS Brown 2' Layup,16-16,16,16
-0022000295,2021-01-29,OKC,BKN,7.0,1,5,0,BKN,BKN,fg_make,87,False,False,,Jordan 1' Putback Dunk (6 PTS),16-18,16,18
 0022000295,2021-01-29,OKC,BKN,7.0,1,5,0,BKN,BKN,reb,0,False,False,,Jordan REBOUND (Off:1 Def:3),16-18,16,18
+0022000295,2021-01-29,OKC,BKN,7.0,1,5,0,BKN,BKN,fg_make,87,False,False,,Jordan 1' Putback Dunk (6 PTS),16-18,16,18
 0022000295,2021-01-29,OKC,BKN,7.28,1,4,43,OKC,OKC,fg3_make,1,False,False,Horford 24' 3PT Jump Shot (9 PTS) (Dort 2 AST),,19-18,19,18
 0022000295,2021-01-29,OKC,BKN,7.63,1,4,22,BKN,BKN,fg_make,5,False,False,,Brown 2' Layup (4 PTS) (Harris 1 AST),19-20,19,20
 0022000295,2021-01-29,OKC,BKN,7.85,1,4,9,OKC,BKN,foul,2,False,False,,Brown S.FOUL (P1.T2) (T.Brown),19-20,19,20
@@ -99,8 +99,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000295,2021-01-29,OKC,BKN,10.65,1,1,21,OKC,OKC,ft_make,11,False,False,Diallo Free Throw 1 of 2 (3 PTS),,23-28,23,28
 0022000295,2021-01-29,OKC,BKN,10.65,1,1,21,OKC,OKC,ft_make,12,False,False,Diallo Free Throw 2 of 2 (4 PTS),,24-28,24,28
 0022000295,2021-01-29,OKC,BKN,10.97,1,1,2,BKN,BKN,fg_miss,98,True,False,,MISS Perry 3' Cutting Layup Shot,24-28,24,28
-0022000295,2021-01-29,OKC,BKN,10.97,1,1,2,BKN,BKN,reb,0,False,False,,Perry REBOUND (Off:1 Def:0),24-28,24,28
 0022000295,2021-01-29,OKC,BKN,10.97,1,1,2,BKN,OKC,block,98,True,False,block,block,24-28,24,28
+0022000295,2021-01-29,OKC,BKN,10.97,1,1,2,BKN,BKN,reb,0,False,False,,Perry REBOUND (Off:1 Def:0),24-28,24,28
 0022000295,2021-01-29,OKC,BKN,10.97,1,1,2,BKN,BKN,fg_make,72,False,False,,Perry 2' Putback Layup (2 PTS),24-30,24,30
 0022000295,2021-01-29,OKC,BKN,10.97,1,1,2,BKN,OKC,foul,1,False,False,Muscala P.FOUL (P1.T4) (T.Brown),,24-30,24,30
 0022000295,2021-01-29,OKC,BKN,10.97,1,1,2,BKN,BKN,ft_make,10,False,False,,Perry Free Throw 1 of 1 (3 PTS),24-31,24,31
@@ -215,9 +215,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000295,2021-01-29,OKC,BKN,23.97,2,0,2,BKN,BKN,tov,45,False,False,,Green Out of Bounds - Bad Pass Turnover Turnover (P2.T7),57-76,57,76
 0022000295,2021-01-29,OKC,BKN,24.0,2,0,0,OKC,BKN,foul,1,False,False,,Luwawu-Cabarrot P.FOUL (P3.PN) (A.Nagy),57-76,57,76
 0022000295,2021-01-29,OKC,BKN,24.0,2,0,0,OKC,OKC,ft_make,11,False,False,Gilgeous-Alexander Free Throw 1 of 2 (12 PTS),,58-76,58,76
-0022000295,2021-01-29,OKC,BKN,24.0,2,0,0,OKC,OKC,ft_make,12,False,False,Gilgeous-Alexander Free Throw 2 of 2 (13 PTS),,59-76,59,76
 0022000295,2021-01-29,OKC,BKN,24.0,2,0,0,BKN,BKN,fg3_miss,1,False,False,,MISS Green 63' 3PT Jump Shot,59-76,59,76
 0022000295,2021-01-29,OKC,BKN,24.0,2,0,0,BKN,BKN,reb,0,False,False,,Nets Rebound,59-76,59,76
+0022000295,2021-01-29,OKC,BKN,24.0,2,0,0,OKC,OKC,ft_make,12,False,False,Gilgeous-Alexander Free Throw 2 of 2 (13 PTS),,59-76,59,76
 0022000295,2021-01-29,OKC,BKN,24.0,2,0,0,BKN,,period_end,0,False,False,,,59-76,59,76
 0022000295,2021-01-29,OKC,BKN,24.0,3,12,0,BKN,,period_start,0,False,False,,,59-76,59,76
 0022000295,2021-01-29,OKC,BKN,24.33,3,11,40,BKN,BKN,fg_make,79,False,False,,Irving 17' Pullup Jump Shot (13 PTS),59-78,59,78
@@ -253,8 +253,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000295,2021-01-29,OKC,BKN,29.28,3,6,43,BKN,BKN,fg3_miss,1,False,False,,MISS Harris 25' 3PT Jump Shot,75-91,75,91
 0022000295,2021-01-29,OKC,BKN,29.33,3,6,40,OKC,OKC,reb,0,False,False,THUNDER Rebound,,75-91,75,91
 0022000295,2021-01-29,OKC,BKN,29.47,3,6,32,OKC,OKC,fg_miss,6,True,False,MISS Gilgeous-Alexander 3' Driving Layup,,75-91,75,91
-0022000295,2021-01-29,OKC,BKN,29.47,3,6,32,OKC,OKC,reb,0,False,False,THUNDER Rebound,,75-91,75,91
 0022000295,2021-01-29,OKC,BKN,29.47,3,6,32,OKC,BKN,block,6,True,False,block,block,75-91,75,91
+0022000295,2021-01-29,OKC,BKN,29.47,3,6,32,OKC,OKC,reb,0,False,False,THUNDER Rebound,,75-91,75,91
 0022000295,2021-01-29,OKC,BKN,29.58,3,6,25,OKC,OKC,fg3_make,1,False,False,Bazley 24' 3PT Jump Shot (12 PTS) (Gilgeous-Alexander 4 AST),,78-91,78,91
 0022000295,2021-01-29,OKC,BKN,29.9,3,6,6,BKN,BKN,fg_make,7,False,False,,Brown 1' Dunk (10 PTS) (Irving 6 AST),78-93,78,93
 0022000295,2021-01-29,OKC,BKN,30.15,3,5,51,OKC,BKN,foul,2,False,False,,Harden S.FOUL (P3.T3) (A.Nagy),78-93,78,93

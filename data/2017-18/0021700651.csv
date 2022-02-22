@@ -156,8 +156,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700651,2018-01-16,DEN,DAL,18.02,2,5,59,DEN,DEN,fg3_miss,1,False,False,MISS Murray 25' 3PT Jump Shot,,47-38,47,38
 0021700651,2018-01-16,DEN,DAL,18.03,2,5,58,DAL,DAL,reb,0,False,False,,Mavericks Rebound,47-38,47,38
 0021700651,2018-01-16,DEN,DAL,18.3,2,5,42,DAL,DAL,fg_miss,5,True,False,,MISS Powell 4' Layup,47-38,47,38
-0021700651,2018-01-16,DEN,DAL,18.3,2,5,42,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,47-38,47,38
 0021700651,2018-01-16,DEN,DAL,18.3,2,5,42,DAL,DEN,block,5,True,False,block,block,47-38,47,38
+0021700651,2018-01-16,DEN,DAL,18.3,2,5,42,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,47-38,47,38
 0021700651,2018-01-16,DEN,DAL,18.4,2,5,36,DEN,DEN,tov,4,False,False,Chandler Traveling Turnover (P1.T6),,47-38,47,38
 0021700651,2018-01-16,DEN,DAL,18.55,2,5,27,DAL,DEN,foul,1,False,False,Jokic P.FOUL (P1.T4) (T.Brothers),,47-38,47,38
 0021700651,2018-01-16,DEN,DAL,18.67,2,5,20,DAL,DAL,fg3_miss,1,False,False,,MISS Harris 24' 3PT Jump Shot,47-38,47,38
@@ -213,9 +213,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700651,2018-01-16,DEN,DAL,24.0,2,0,0,DEN,DEN,fg_miss,41,False,False,MISS Barton 5' Running Layup,,59-48,59,48
 0021700651,2018-01-16,DEN,DAL,24.0,2,0,0,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:6 Def:3),,59-48,59,48
 0021700651,2018-01-16,DEN,DAL,24.0,2,0,0,DEN,DEN,fg_miss,97,False,False,MISS Jokic 1' Tip Layup Shot,,59-48,59,48
-0021700651,2018-01-16,DEN,DAL,24.0,2,0,0,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:8 Def:3),,59-48,59,48
-0021700651,2018-01-16,DEN,DAL,24.0,2,0,0,DEN,DEN,fg_miss,97,False,False,MISS Jokic 1' Tip Layup Shot,,59-48,59,48
 0021700651,2018-01-16,DEN,DAL,24.0,2,0,0,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:7 Def:3),,59-48,59,48
+0021700651,2018-01-16,DEN,DAL,24.0,2,0,0,DEN,DEN,fg_miss,97,False,False,MISS Jokic 1' Tip Layup Shot,,59-48,59,48
+0021700651,2018-01-16,DEN,DAL,24.0,2,0,0,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:8 Def:3),,59-48,59,48
 0021700651,2018-01-16,DEN,DAL,24.0,2,0,0,DEN,DEN,fg_make,97,False,False,Jokic 1' Tip Layup Shot (20 PTS),,61-48,61,48
 0021700651,2018-01-16,DEN,DAL,24.0,2,0,0,DEN,,period_end,0,False,False,,,61-48,61,48
 0021700651,2018-01-16,DEN,DAL,24.0,3,12,0,DEN,,period_start,0,False,False,,,61-48,61,48
@@ -233,8 +233,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700651,2018-01-16,DEN,DAL,25.12,3,10,53,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:8 Def:4),,63-48,63,48
 0021700651,2018-01-16,DEN,DAL,25.33,3,10,40,DEN,DEN,fg_make,6,False,False,Barton 4' Driving Layup (14 PTS),,65-48,65,48
 0021700651,2018-01-16,DEN,DAL,25.63,3,10,22,DAL,DAL,fg_miss,5,True,False,,MISS Kleber 2' Layup,65-48,65,48
-0021700651,2018-01-16,DEN,DAL,25.63,3,10,22,DAL,DAL,reb,0,False,False,,Mavericks Rebound,65-48,65,48
 0021700651,2018-01-16,DEN,DAL,25.63,3,10,22,DAL,DEN,block,5,True,False,block,block,65-48,65,48
+0021700651,2018-01-16,DEN,DAL,25.63,3,10,22,DAL,DAL,reb,0,False,False,,Mavericks Rebound,65-48,65,48
 0021700651,2018-01-16,DEN,DAL,25.67,3,10,20,DAL,DAL,fg_miss,1,False,False,,MISS Barnes 19' Jump Shot,65-48,65,48
 0021700651,2018-01-16,DEN,DAL,25.72,3,10,17,DEN,DEN,reb,0,False,False,Barton REBOUND (Off:0 Def:4),,65-48,65,48
 0021700651,2018-01-16,DEN,DAL,25.88,3,10,7,DEN,DEN,fg_miss,79,False,False,MISS Harris 16' Pullup Jump Shot,,65-48,65,48
@@ -302,10 +302,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700651,2018-01-16,DEN,DAL,34.7,3,1,18,DEN,DEN,fg_miss,98,False,False,MISS Beasley 2' Cutting Layup Shot,,85-67,85,67
 0021700651,2018-01-16,DEN,DAL,34.77,3,1,14,DAL,DAL,reb,0,False,False,,Barnes REBOUND (Off:0 Def:3),85-67,85,67
 0021700651,2018-01-16,DEN,DAL,34.88,3,1,7,DAL,DAL,tov,2,False,True,,Matthews Lost Ball Turnover (P3.T11),85-67,85,67
+0021700651,2018-01-16,DEN,DAL,34.88,3,1,7,DAL,DEN,steal,2,False,True,steal,steal,85-67,85,67
 0021700651,2018-01-16,DEN,DAL,34.88,3,1,7,DEN,DAL,foul,1,False,False,,Matthews P.FOUL (P2.PN) (T.Brothers),85-67,85,67
 0021700651,2018-01-16,DEN,DAL,34.88,3,1,7,DEN,DEN,ft_miss,11,False,False,MISS Craig Free Throw 1 of 2,,85-67,85,67
 0021700651,2018-01-16,DEN,DAL,34.88,3,1,7,DEN,DEN,reb,1,False,False,NUGGETS Rebound,,85-67,85,67
-0021700651,2018-01-16,DEN,DAL,34.88,3,1,7,DAL,DEN,steal,2,False,True,steal,steal,85-67,85,67
 0021700651,2018-01-16,DEN,DAL,34.88,3,1,7,DEN,DEN,ft_make,12,False,False,Craig Free Throw 2 of 2 (5 PTS),,86-67,86,67
 0021700651,2018-01-16,DEN,DAL,35.12,3,0,53,DAL,DAL,fg_make,79,False,False,,Ferrell 14' Pullup Jump Shot (6 PTS),86-69,86,69
 0021700651,2018-01-16,DEN,DAL,35.33,3,0,40,DEN,DEN,fg3_miss,1,False,False,MISS Craig 24' 3PT Jump Shot,,86-69,86,69
@@ -423,8 +423,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700651,2018-01-16,DEN,DAL,47.07,4,0,56,DAL,DEN,foul,26,False,False,Jokic Offensive Charge Foul (P5.PN) (R.Mott),,103-97,103,97
 0021700651,2018-01-16,DEN,DAL,47.07,4,0,56,DEN,DEN,tov,37,False,False,Jokic Offensive Foul Turnover (P5.T18),,103-97,103,97
 0021700651,2018-01-16,DEN,DAL,47.17,4,0,50,DAL,DAL,tov,2,False,True,,Smith Jr. Lost Ball Turnover (P3.T15),103-97,103,97
-0021700651,2018-01-16,DEN,DAL,47.17,4,0,50,DEN,DEN,tov,45,False,False,Murray Out of Bounds - Bad Pass Turnover Turnover (P3.T19),,103-97,103,97
 0021700651,2018-01-16,DEN,DAL,47.17,4,0,50,DAL,DEN,steal,2,False,True,steal,steal,103-97,103,97
+0021700651,2018-01-16,DEN,DAL,47.17,4,0,50,DEN,DEN,tov,45,False,False,Murray Out of Bounds - Bad Pass Turnover Turnover (P3.T19),,103-97,103,97
 0021700651,2018-01-16,DEN,DAL,47.27,4,0,44,DAL,DAL,fg_make,73,False,False,,Smith Jr. 2' Driving Reverse Layup (22 PTS),103-99,103,99
 0021700651,2018-01-16,DEN,DAL,47.58,4,0,25,DEN,DEN,fg3_miss,1,False,False,MISS Harris 3PT Jump Shot,,103-99,103,99
 0021700651,2018-01-16,DEN,DAL,47.6,4,0,24,DAL,DAL,reb,0,False,False,,Nowitzki REBOUND (Off:0 Def:4),103-99,103,99

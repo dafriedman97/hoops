@@ -14,8 +14,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900080,2019-11-02,WAS,MIN,1.13,1,10,52,MIN,MIN,fg3_miss,1,False,False,,MISS Graham 27' 3PT Jump Shot,0-2,0,2
 0021900080,2019-11-02,WAS,MIN,1.2,1,10,48,WAS,WAS,reb,0,False,False,Bonga REBOUND (Off:0 Def:1),,0-2,0,2
 0021900080,2019-11-02,WAS,MIN,1.37,1,10,38,WAS,WAS,fg_miss,6,True,False,MISS Hachimura 3' Driving Layup,,0-2,0,2
-0021900080,2019-11-02,WAS,MIN,1.37,1,10,38,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,0-2,0,2
 0021900080,2019-11-02,WAS,MIN,1.37,1,10,38,WAS,MIN,block,6,True,False,block,block,0-2,0,2
+0021900080,2019-11-02,WAS,MIN,1.37,1,10,38,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,0-2,0,2
 0021900080,2019-11-02,WAS,MIN,1.55,1,10,27,WAS,WAS,fg3_miss,80,False,False,MISS Bonga 25' 3PT Step Back Jump Shot,,0-2,0,2
 0021900080,2019-11-02,WAS,MIN,1.55,1,10,27,WAS,WAS,reb,0,False,False,Smith REBOUND (Off:1 Def:0),,0-2,0,2
 0021900080,2019-11-02,WAS,MIN,1.6,1,10,24,WAS,MIN,foul,1,False,False,,Covington P.FOUL (P1.T1) (M.Boland),0-2,0,2
@@ -46,8 +46,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900080,2019-11-02,WAS,MIN,3.75,1,8,15,WAS,WAS,reb,1,False,False,WIZARDS Rebound,,5-13,5,13
 0021900080,2019-11-02,WAS,MIN,3.75,1,8,15,WAS,WAS,ft_make,12,False,False,Beal Free Throw 2 of 2 (4 PTS),,6-13,6,13
 0021900080,2019-11-02,WAS,MIN,3.9,1,8,6,MIN,MIN,fg_miss,5,True,False,,MISS Graham 2' Layup,6-13,6,13
-0021900080,2019-11-02,WAS,MIN,3.9,1,8,6,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,6-13,6,13
 0021900080,2019-11-02,WAS,MIN,3.9,1,8,6,MIN,WAS,block,5,True,False,block,block,6-13,6,13
+0021900080,2019-11-02,WAS,MIN,3.9,1,8,6,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,6-13,6,13
 0021900080,2019-11-02,WAS,MIN,3.98,1,8,1,MIN,MIN,fg3_miss,1,False,False,,MISS Wiggins 27' 3PT Jump Shot,6-13,6,13
 0021900080,2019-11-02,WAS,MIN,4.03,1,7,58,WAS,WAS,reb,0,False,False,Bryant REBOUND (Off:0 Def:3),,6-13,6,13
 0021900080,2019-11-02,WAS,MIN,4.18,1,7,49,WAS,WAS,fg_make,79,False,False,Beal 18' Pullup Jump Shot (6 PTS) (Bryant 1 AST),,8-13,8,13
@@ -161,8 +161,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900080,2019-11-02,WAS,MIN,15.73,2,8,16,WAS,WAS,tov,1,False,True,Beal Bad Pass Turnover (P3.T6),,40-50,40,50
 0021900080,2019-11-02,WAS,MIN,15.73,2,8,16,WAS,MIN,steal,1,False,True,steal,steal,40-50,40,50
 0021900080,2019-11-02,WAS,MIN,15.8,2,8,12,MIN,MIN,fg_miss,41,True,False,,MISS Layman 3' Running Layup,40-50,40,50
-0021900080,2019-11-02,WAS,MIN,15.8,2,8,12,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,40-50,40,50
 0021900080,2019-11-02,WAS,MIN,15.8,2,8,12,MIN,WAS,block,41,True,False,block,block,40-50,40,50
+0021900080,2019-11-02,WAS,MIN,15.8,2,8,12,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,40-50,40,50
 0021900080,2019-11-02,WAS,MIN,15.85,2,8,9,MIN,MIN,fg_make,7,False,False,,Dieng Dunk (7 PTS) (Teague 7 AST),40-52,40,52
 0021900080,2019-11-02,WAS,MIN,15.85,2,8,9,WAS,WAS,timeout,1,False,False,WIZARDS Timeout: Regular (Full 3 Short 0),,40-52,40,52
 0021900080,2019-11-02,WAS,MIN,16.27,2,7,44,WAS,WAS,fg_miss,1,False,False,MISS Hachimura 15' Jump Shot,,40-52,40,52
@@ -322,13 +322,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900080,2019-11-02,WAS,MIN,30.92,3,5,5,WAS,MIN,steal,1,False,True,steal,steal,65-89,65,89
 0021900080,2019-11-02,WAS,MIN,31.1,3,4,54,MIN,MIN,fg_make,5,False,False,,Teague 4' Layup (15 PTS),65-91,65,91
 0021900080,2019-11-02,WAS,MIN,31.2,3,4,48,WAS,WAS,fg_miss,5,True,False,MISS Beal 5' Layup,,65-91,65,91
-0021900080,2019-11-02,WAS,MIN,31.2,3,4,48,MIN,MIN,reb,0,False,False,,Okogie REBOUND (Off:0 Def:3),65-91,65,91
 0021900080,2019-11-02,WAS,MIN,31.2,3,4,48,WAS,MIN,block,5,True,False,block,block,65-91,65,91
+0021900080,2019-11-02,WAS,MIN,31.2,3,4,48,MIN,MIN,reb,0,False,False,,Okogie REBOUND (Off:0 Def:3),65-91,65,91
 0021900080,2019-11-02,WAS,MIN,31.35,3,4,39,MIN,MIN,fg_make,101,False,False,,Okogie 6' Driving Floating Jump Shot (7 PTS) (Teague 12 AST),65-93,65,93
 0021900080,2019-11-02,WAS,MIN,31.57,3,4,26,WAS,WAS,fg_make,5,False,False,Beal 10' Layup (30 PTS),,67-93,67,93
 0021900080,2019-11-02,WAS,MIN,31.77,3,4,14,MIN,MIN,fg_miss,6,True,False,,MISS Culver 5' Driving Layup,67-93,67,93
-0021900080,2019-11-02,WAS,MIN,31.77,3,4,14,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,67-93,67,93
 0021900080,2019-11-02,WAS,MIN,31.77,3,4,14,MIN,WAS,block,6,True,False,block,block,67-93,67,93
+0021900080,2019-11-02,WAS,MIN,31.77,3,4,14,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,67-93,67,93
 0021900080,2019-11-02,WAS,MIN,32.02,3,3,59,MIN,MIN,fg_make,3,False,False,,Vonleh 5' Hook Shot (6 PTS) (Teague 13 AST),67-95,67,95
 0021900080,2019-11-02,WAS,MIN,32.27,3,3,44,WAS,WAS,fg_miss,79,False,False,MISS Beal 21' Pullup Jump Shot,,67-95,67,95
 0021900080,2019-11-02,WAS,MIN,32.33,3,3,40,MIN,MIN,reb,0,False,False,,Culver REBOUND (Off:0 Def:2),67-95,67,95
@@ -392,8 +392,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900080,2019-11-02,WAS,MIN,38.32,4,9,41,MIN,MIN,fg3_miss,79,False,False,,MISS Wiggins 29' 3PT Pullup Jump Shot,85-115,85,115
 0021900080,2019-11-02,WAS,MIN,38.37,4,9,38,WAS,WAS,reb,0,False,False,Thomas REBOUND (Off:0 Def:4),,85-115,85,115
 0021900080,2019-11-02,WAS,MIN,38.45,4,9,33,WAS,WAS,fg3_miss,1,True,False,MISS Bertans 26' 3PT Jump Shot,,85-115,85,115
-0021900080,2019-11-02,WAS,MIN,38.45,4,9,33,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,85-115,85,115
 0021900080,2019-11-02,WAS,MIN,38.45,4,9,33,WAS,MIN,block,1,True,False,block,block,85-115,85,115
+0021900080,2019-11-02,WAS,MIN,38.45,4,9,33,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,85-115,85,115
 0021900080,2019-11-02,WAS,MIN,38.73,4,9,16,MIN,MIN,fg_make,79,False,False,,Wiggins 22' Pullup Jump Shot (21 PTS),85-117,85,117
 0021900080,2019-11-02,WAS,MIN,38.92,4,9,5,WAS,WAS,tov,45,False,False,Wagner Out of Bounds - Bad Pass Turnover Turnover (P2.T14),,85-117,85,117
 0021900080,2019-11-02,WAS,MIN,39.13,4,8,52,WAS,MIN,foul,26,False,False,,Culver Offensive Charge Foul (P3.T1) (E.Malloy),85-117,85,117

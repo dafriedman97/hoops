@@ -115,9 +115,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700854,2018-02-14,ORL,CHA,11.88,1,0,7,CHA,CHA,fg3_miss,80,False,False,,MISS Kaminsky 27' 3PT Step Back Jump Shot,26-20,26,20
 0021700854,2018-02-14,ORL,CHA,11.9,1,0,6,ORL,ORL,reb,0,False,False,MAGIC Rebound,,26-20,26,20
 0021700854,2018-02-14,ORL,CHA,12.0,1,0,0,ORL,ORL,tov,2,False,True,Mack Lost Ball Turnover (P1.T5),,26-20,26,20
+0021700854,2018-02-14,ORL,CHA,12.0,1,0,0,ORL,CHA,steal,2,False,True,steal,steal,26-20,26,20
 0021700854,2018-02-14,ORL,CHA,12.0,1,0,0,ORL,,period_end,0,False,False,,,26-20,26,20
 0021700854,2018-02-14,ORL,CHA,12.0,2,12,0,ORL,,period_start,0,False,False,,,26-20,26,20
-0021700854,2018-02-14,ORL,CHA,12.0,1,0,0,ORL,CHA,steal,2,False,True,steal,steal,26-20,26,20
 0021700854,2018-02-14,ORL,CHA,12.32,2,11,41,ORL,ORL,fg_make,5,False,False,Birch 2' Layup (2 PTS) (Speights 1 AST),,28-20,28,20
 0021700854,2018-02-14,ORL,CHA,12.62,2,11,23,CHA,CHA,fg_make,98,False,False,,Lamb 4' Cutting Layup Shot (5 PTS) (Kaminsky 2 AST),28-22,28,22
 0021700854,2018-02-14,ORL,CHA,12.85,2,11,9,ORL,ORL,tov,1,False,True,Afflalo Bad Pass Turnover (P1.T6),,28-22,28,22
@@ -240,8 +240,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700854,2018-02-14,ORL,CHA,27.43,3,8,34,CHA,CHA,fg_make,41,False,False,,Kidd-Gilchrist 3' Running Layup (4 PTS) (Batum 4 AST),55-65,55,65
 0021700854,2018-02-14,ORL,CHA,27.45,3,8,33,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 4 Short 0),,55-65,55,65
 0021700854,2018-02-14,ORL,CHA,27.75,3,8,15,ORL,ORL,fg_miss,57,True,False,MISS Biyombo 12' Driving Hook Shot,,55-65,55,65
-0021700854,2018-02-14,ORL,CHA,27.75,3,8,15,ORL,ORL,reb,0,False,False,MAGIC Rebound,,55-65,55,65
 0021700854,2018-02-14,ORL,CHA,27.75,3,8,15,ORL,CHA,block,57,True,False,block,block,55-65,55,65
+0021700854,2018-02-14,ORL,CHA,27.75,3,8,15,ORL,ORL,reb,0,False,False,MAGIC Rebound,,55-65,55,65
 0021700854,2018-02-14,ORL,CHA,27.82,3,8,11,ORL,ORL,fg_miss,5,False,False,MISS Simmons 2' Layup,,55-65,55,65
 0021700854,2018-02-14,ORL,CHA,27.87,3,8,8,ORL,ORL,reb,0,False,False,Biyombo REBOUND (Off:2 Def:5),,55-65,55,65
 0021700854,2018-02-14,ORL,CHA,27.88,3,8,7,ORL,ORL,fg3_make,1,False,False,Augustin 26' 3PT Jump Shot (8 PTS) (Biyombo 1 AST),,58-65,58,65
@@ -367,8 +367,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700854,2018-02-14,ORL,CHA,43.27,4,4,44,CHA,CHA,tov,2,False,True,,Lamb Lost Ball Turnover (P4.T12),92-91,92,91
 0021700854,2018-02-14,ORL,CHA,43.27,4,4,44,CHA,ORL,steal,2,False,True,steal,steal,92-91,92,91
 0021700854,2018-02-14,ORL,CHA,43.32,4,4,41,ORL,ORL,fg_miss,41,True,False,MISS Mack 2' Running Layup,,92-91,92,91
-0021700854,2018-02-14,ORL,CHA,43.32,4,4,41,ORL,ORL,reb,0,False,False,MAGIC Rebound,,92-91,92,91
 0021700854,2018-02-14,ORL,CHA,43.32,4,4,41,ORL,CHA,block,41,True,False,block,block,92-91,92,91
+0021700854,2018-02-14,ORL,CHA,43.32,4,4,41,ORL,ORL,reb,0,False,False,MAGIC Rebound,,92-91,92,91
 0021700854,2018-02-14,ORL,CHA,43.35,4,4,39,ORL,ORL,tov,1,False,True,Mack Bad Pass Turnover (P5.T19),,92-91,92,91
 0021700854,2018-02-14,ORL,CHA,43.35,4,4,39,ORL,CHA,steal,1,False,True,steal,steal,92-91,92,91
 0021700854,2018-02-14,ORL,CHA,43.42,4,4,35,CHA,CHA,fg_miss,5,False,False,,MISS Walker 2' Layup,92-91,92,91

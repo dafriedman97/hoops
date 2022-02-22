@@ -95,12 +95,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900775,2020-02-07,SAC,MIA,11.95,1,0,3,MIA,SAC,foul,26,False,False,Ferrell Offensive Charge Foul (P2.PN) (P.Fraher),,30-28,30,28
 0021900775,2020-02-07,SAC,MIA,11.95,1,0,3,SAC,SAC,tov,37,False,False,Ferrell Offensive Foul Turnover (P1.T5),,30-28,30,28
 0021900775,2020-02-07,SAC,MIA,12.0,1,0,0,MIA,MIA,tov,1,False,True,,Robinson Bad Pass Turnover (P2.T7),30-28,30,28
+0021900775,2020-02-07,SAC,MIA,12.0,1,0,0,MIA,SAC,steal,1,False,True,steal,steal,30-28,30,28
 0021900775,2020-02-07,SAC,MIA,12.0,1,0,0,SAC,SAC,fg3_miss,79,True,False,MISS Ferrell 42' 3PT Pullup Jump Shot,,30-28,30,28
+0021900775,2020-02-07,SAC,MIA,12.0,1,0,0,SAC,MIA,block,79,True,False,block,block,30-28,30,28
 0021900775,2020-02-07,SAC,MIA,12.0,1,0,0,SAC,SAC,reb,0,False,False,KINGS Rebound,,30-28,30,28
 0021900775,2020-02-07,SAC,MIA,12.0,1,0,0,SAC,,period_end,0,False,False,,,30-28,30,28
 0021900775,2020-02-07,SAC,MIA,12.0,2,12,0,SAC,,period_start,0,False,False,,,30-28,30,28
-0021900775,2020-02-07,SAC,MIA,12.0,1,0,0,SAC,MIA,block,79,True,False,block,block,30-28,30,28
-0021900775,2020-02-07,SAC,MIA,12.0,1,0,0,MIA,SAC,steal,1,False,True,steal,steal,30-28,30,28
 0021900775,2020-02-07,SAC,MIA,12.3,2,11,42,SAC,SAC,fg3_miss,1,True,False,MISS Joseph 25' 3PT Jump Shot,,30-28,30,28
 0021900775,2020-02-07,SAC,MIA,12.3,2,11,42,SAC,MIA,block,1,True,False,block,block,30-28,30,28
 0021900775,2020-02-07,SAC,MIA,12.37,2,11,38,SAC,SAC,reb,0,False,False,Bjelica REBOUND (Off:1 Def:1),,30-28,30,28
@@ -340,9 +340,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900775,2020-02-07,SAC,MIA,40.33,4,7,40,MIA,MIA,ft_make,12,False,False,,Jones Jr. Free Throw 2 of 2 (8 PTS),98-86,98,86
 0021900775,2020-02-07,SAC,MIA,40.62,4,7,23,SAC,SAC,fg3_miss,1,False,False,MISS Bogdanovic 25' 3PT Jump Shot,,98-86,98,86
 0021900775,2020-02-07,SAC,MIA,40.72,4,7,17,MIA,MIA,reb,0,False,False,,Dragic REBOUND (Off:0 Def:4),98-86,98,86
+0021900775,2020-02-07,SAC,MIA,40.73,4,7,16,SAC,SAC,fg_make,9,False,False,Bazemore 1' Driving Dunk (8 PTS),,100-86,100,86
 0021900775,2020-02-07,SAC,MIA,40.73,4,7,16,MIA,MIA,tov,2,False,True,,Dragic Lost Ball Turnover (P6.T17),98-86,98,86
 0021900775,2020-02-07,SAC,MIA,40.73,4,7,16,MIA,SAC,steal,2,False,True,steal,steal,98-86,98,86
-0021900775,2020-02-07,SAC,MIA,40.73,4,7,16,SAC,SAC,fg_make,9,False,False,Bazemore 1' Driving Dunk (8 PTS),,100-86,100,86
 0021900775,2020-02-07,SAC,MIA,41.02,4,6,59,MIA,MIA,fg3_miss,1,False,False,,MISS Nunn 24' 3PT Jump Shot,100-86,100,86
 0021900775,2020-02-07,SAC,MIA,41.05,4,6,57,MIA,MIA,reb,0,False,False,,Heat Rebound,100-86,100,86
 0021900775,2020-02-07,SAC,MIA,41.05,4,6,57,MIA,SAC,violation,5,False,False,Fox Violation:Kicked Ball (C.Blair),,100-86,100,86
@@ -382,8 +382,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900775,2020-02-07,SAC,MIA,44.55,4,3,27,SAC,SAC,fg3_miss,1,False,False,MISS Hield 3PT Jump Shot,,105-91,105,91
 0021900775,2020-02-07,SAC,MIA,44.6,4,3,24,MIA,MIA,reb,0,False,False,,Nunn REBOUND (Off:1 Def:5),105-91,105,91
 0021900775,2020-02-07,SAC,MIA,44.7,4,3,18,MIA,MIA,fg_miss,78,True,False,,MISS Nunn 2' Floating Jump Shot,105-91,105,91
-0021900775,2020-02-07,SAC,MIA,44.7,4,3,18,MIA,MIA,reb,0,False,False,,Heat Rebound,105-91,105,91
 0021900775,2020-02-07,SAC,MIA,44.7,4,3,18,MIA,SAC,block,78,True,False,block,block,105-91,105,91
+0021900775,2020-02-07,SAC,MIA,44.7,4,3,18,MIA,MIA,reb,0,False,False,,Heat Rebound,105-91,105,91
 0021900775,2020-02-07,SAC,MIA,44.83,4,3,10,MIA,MIA,fg3_miss,1,False,False,,MISS Vincent 25' 3PT Jump Shot,105-91,105,91
 0021900775,2020-02-07,SAC,MIA,44.88,4,3,7,MIA,MIA,reb,0,False,False,,Jones Jr. REBOUND (Off:2 Def:3),105-91,105,91
 0021900775,2020-02-07,SAC,MIA,44.88,4,3,7,MIA,SAC,foul,2,False,False,Bjelica S.FOUL (P5.PN) (J.Orr),,105-91,105,91

@@ -5,8 +5,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700166,2017-11-09,HOU,CLE,0.45,1,11,33,HOU,HOU,reb,0,False,False,Anderson REBOUND (Off:1 Def:0),,0-0,0,0
 0021700166,2017-11-09,HOU,CLE,0.53,1,11,28,HOU,HOU,fg3_make,1,False,False,Ariza 3PT Jump Shot (3 PTS) (Harden 1 AST),,3-0,3,0
 0021700166,2017-11-09,HOU,CLE,0.85,1,11,9,CLE,CLE,fg_miss,6,True,False,,MISS Love 4' Driving Layup,3-0,3,0
-0021700166,2017-11-09,HOU,CLE,0.85,1,11,9,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,3-0,3,0
 0021700166,2017-11-09,HOU,CLE,0.85,1,11,9,CLE,HOU,block,6,True,False,block,block,3-0,3,0
+0021700166,2017-11-09,HOU,CLE,0.85,1,11,9,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,3-0,3,0
 0021700166,2017-11-09,HOU,CLE,0.9,1,11,6,CLE,CLE,fg3_make,1,False,False,,Love 26' 3PT Jump Shot (3 PTS) (Crowder 1 AST),3-3,3,3
 0021700166,2017-11-09,HOU,CLE,1.25,1,10,45,HOU,HOU,fg_make,75,False,False,Harden 2' Driving Finger Roll Layup (2 PTS),,5-3,5,3
 0021700166,2017-11-09,HOU,CLE,1.53,1,10,28,CLE,CLE,fg_make,52,False,False,,James Alley Oop Dunk (2 PTS) (Love 1 AST),5-5,5,5
@@ -18,8 +18,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700166,2017-11-09,HOU,CLE,2.13,1,9,52,CLE,CLE,reb,0,False,False,,Love REBOUND (Off:0 Def:1),5-5,5,5
 0021700166,2017-11-09,HOU,CLE,2.25,1,9,45,CLE,CLE,fg3_make,1,False,False,,Love 28' 3PT Jump Shot (6 PTS) (James 1 AST),5-8,5,8
 0021700166,2017-11-09,HOU,CLE,2.38,1,9,37,HOU,CLE,foul,2,False,False,,Crowder S.FOUL (P1.T2) (S.Foster),5-8,5,8
-0021700166,2017-11-09,HOU,CLE,2.38,1,9,37,HOU,HOU,ft_make,12,False,False,Harden Free Throw 2 of 2 (3 PTS),,6-8,6,8
 0021700166,2017-11-09,HOU,CLE,2.38,1,9,37,HOU,HOU,ft_make,11,False,False,Harden Free Throw 1 of 2 (4 PTS),,7-8,7,8
+0021700166,2017-11-09,HOU,CLE,2.38,1,9,37,HOU,HOU,ft_make,12,False,False,Harden Free Throw 2 of 2 (3 PTS),,6-8,6,8
 0021700166,2017-11-09,HOU,CLE,2.57,1,9,26,CLE,CLE,tov,40,False,False,,Love Out of Bounds Lost Ball Turnover (P1.T1),7-8,7,8
 0021700166,2017-11-09,HOU,CLE,2.77,1,9,14,HOU,HOU,fg3_make,1,False,False,Ariza 3PT Jump Shot (6 PTS) (Anderson 1 AST),,10-8,10,8
 0021700166,2017-11-09,HOU,CLE,2.98,1,9,1,CLE,CLE,fg_make,9,False,False,,James 1' Driving Dunk (4 PTS) (Love 2 AST),10-10,10,10
@@ -179,8 +179,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700166,2017-11-09,HOU,CLE,19.78,2,4,13,CLE,CLE,tov,13,False,False,,James Backcourt Turnover (P6.T9),59-53,59,53
 0021700166,2017-11-09,HOU,CLE,19.78,2,4,13,CLE,,violation,1,False,False,,,59-53,59,53
 0021700166,2017-11-09,HOU,CLE,19.88,2,4,7,HOU,HOU,tov,1,False,True,Harden Bad Pass Turnover (P2.T9),,59-53,59,53
-0021700166,2017-11-09,HOU,CLE,19.88,2,4,7,CLE,HOU,foul,1,False,False,Ariza P.FOUL (P3.PN) (T.Brown),,59-53,59,53
 0021700166,2017-11-09,HOU,CLE,19.88,2,4,7,HOU,CLE,steal,1,False,True,steal,steal,59-53,59,53
+0021700166,2017-11-09,HOU,CLE,19.88,2,4,7,CLE,HOU,foul,1,False,False,Ariza P.FOUL (P3.PN) (T.Brown),,59-53,59,53
 0021700166,2017-11-09,HOU,CLE,20.03,2,3,58,CLE,HOU,foul,1,False,False,Nene P.FOUL (P2.PN) (M.Kogut),,59-53,59,53
 0021700166,2017-11-09,HOU,CLE,20.03,2,3,58,CLE,CLE,ft_make,11,False,False,,Love Free Throw 1 of 2 (9 PTS),59-54,59,54
 0021700166,2017-11-09,HOU,CLE,20.03,2,3,58,CLE,CLE,ft_make,12,False,False,,Love Free Throw 2 of 2 (10 PTS),59-55,59,55

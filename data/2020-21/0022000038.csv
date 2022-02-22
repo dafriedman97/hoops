@@ -147,8 +147,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000038,2020-12-27,CHI,GSW,14.32,2,9,41,CHI,CHI,ft_make,10,False,False,Markkanen Free Throw 1 of 1 (11 PTS),,33-29,33,29
 0022000038,2020-12-27,CHI,GSW,14.67,2,9,20,GSW,CHI,foul,2,False,False,Williams S.FOUL (P1.T1) (S.Mehta),,33-29,33,29
 0022000038,2020-12-27,CHI,GSW,14.67,2,9,20,GSW,GSW,ft_make,11,False,False,,Paschall Free Throw 1 of 2 (5 PTS),33-30,33,30
-0022000038,2020-12-27,CHI,GSW,14.67,2,9,20,GSW,GSW,ft_miss,12,False,False,,MISS Paschall Free Throw 2 of 2,33-30,33,30
 0022000038,2020-12-27,CHI,GSW,14.67,2,9,20,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 2 Short 0),,33-30,33,30
+0022000038,2020-12-27,CHI,GSW,14.67,2,9,20,GSW,GSW,ft_miss,12,False,False,,MISS Paschall Free Throw 2 of 2,33-30,33,30
 0022000038,2020-12-27,CHI,GSW,14.68,2,9,19,CHI,CHI,reb,0,False,False,Hutchison REBOUND (Off:0 Def:4),,33-30,33,30
 0022000038,2020-12-27,CHI,GSW,14.72,2,9,17,CHI,CHI,tov,2,False,True,Hutchison Lost Ball Turnover (P1.T7),,33-30,33,30
 0022000038,2020-12-27,CHI,GSW,14.72,2,9,17,CHI,GSW,steal,2,False,True,steal,steal,33-30,33,30
@@ -264,8 +264,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000038,2020-12-27,CHI,GSW,26.38,3,9,37,CHI,CHI,fg_miss,1,False,False,MISS Williams 15' Jump Shot,,61-62,61,62
 0022000038,2020-12-27,CHI,GSW,26.47,3,9,32,GSW,GSW,reb,0,False,False,,Wiggins REBOUND (Off:0 Def:4),61-62,61,62
 0022000038,2020-12-27,CHI,GSW,26.68,3,9,19,GSW,GSW,fg_miss,6,True,False,,MISS Wiseman 2' Driving Layup,61-62,61,62
-0022000038,2020-12-27,CHI,GSW,26.68,3,9,19,GSW,GSW,reb,0,False,False,,Warriors Rebound,61-62,61,62
 0022000038,2020-12-27,CHI,GSW,26.68,3,9,19,GSW,CHI,block,6,True,False,block,block,61-62,61,62
+0022000038,2020-12-27,CHI,GSW,26.68,3,9,19,GSW,GSW,reb,0,False,False,,Warriors Rebound,61-62,61,62
 0022000038,2020-12-27,CHI,GSW,26.75,3,9,15,GSW,GSW,fg_miss,1,False,False,,MISS Curry 19' Jump Shot,61-62,61,62
 0022000038,2020-12-27,CHI,GSW,26.78,3,9,13,CHI,CHI,reb,0,False,False,Carter Jr. REBOUND (Off:2 Def:6),,61-62,61,62
 0022000038,2020-12-27,CHI,GSW,26.88,3,9,7,CHI,CHI,fg_make,6,False,False,LaVine 1' Driving Layup (13 PTS),,63-62,63,62
@@ -290,9 +290,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000038,2020-12-27,CHI,GSW,28.87,3,7,8,GSW,GSW,fg_miss,97,False,False,,MISS Oubre Jr. Tip Layup Shot,68-64,68,64
 0022000038,2020-12-27,CHI,GSW,28.88,3,7,7,CHI,CHI,reb,0,False,False,White REBOUND (Off:0 Def:5),,68-64,68,64
 0022000038,2020-12-27,CHI,GSW,28.92,3,7,5,CHI,CHI,fg_miss,6,True,False,MISS White 3' Driving Layup,,68-64,68,64
+0022000038,2020-12-27,CHI,GSW,28.92,3,7,5,CHI,GSW,block,6,True,False,block,block,68-64,68,64
 0022000038,2020-12-27,CHI,GSW,28.92,3,7,5,CHI,CHI,reb,0,False,False,BULLS Rebound,,68-64,68,64
 0022000038,2020-12-27,CHI,GSW,28.92,3,7,5,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.5 Short 0),68-64,68,64
-0022000038,2020-12-27,CHI,GSW,28.92,3,7,5,CHI,GSW,block,6,True,False,block,block,68-64,68,64
 0022000038,2020-12-27,CHI,GSW,28.95,3,7,3,CHI,CHI,fg3_make,1,False,False,Markkanen 25' 3PT Jump Shot (19 PTS) (Williams 2 AST),,71-64,71,64
 0022000038,2020-12-27,CHI,GSW,29.18,3,6,49,GSW,GSW,fg_make,79,False,False,,Wiggins 11' Pullup Jump Shot (16 PTS),71-66,71,66
 0022000038,2020-12-27,CHI,GSW,29.18,3,6,49,GSW,CHI,foul,2,False,False,LaVine S.FOUL (P2.T1) (T.Brothers),,71-66,71,66
@@ -464,8 +464,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000038,2020-12-27,CHI,GSW,45.0,4,3,0,GSW,GSW,reb,0,False,False,,Wiggins REBOUND (Off:0 Def:6),122-116,122,116
 0022000038,2020-12-27,CHI,GSW,45.25,4,2,45,GSW,GSW,fg3_miss,1,False,False,,MISS Oubre Jr. 25' 3PT Jump Shot,122-116,122,116
 0022000038,2020-12-27,CHI,GSW,45.28,4,2,43,CHI,CHI,reb,0,False,False,White REBOUND (Off:0 Def:7),,122-116,122,116
-0022000038,2020-12-27,CHI,GSW,45.57,4,2,26,CHI,CHI,tov,2,False,True,LaVine Lost Ball Turnover (P7.T24),,122-116,122,116
 0022000038,2020-12-27,CHI,GSW,45.57,4,2,26,,CHI,jump_ball,0,False,False,Jump Ball LaVine vs. Lee: Tip to Wiggins,,122-116,122,116
+0022000038,2020-12-27,CHI,GSW,45.57,4,2,26,CHI,CHI,tov,2,False,True,LaVine Lost Ball Turnover (P7.T24),,122-116,122,116
 0022000038,2020-12-27,CHI,GSW,45.57,4,2,26,CHI,GSW,steal,2,False,True,steal,steal,122-116,122,116
 0022000038,2020-12-27,CHI,GSW,45.58,4,2,25,GSW,CHI,foul,2,False,False,Temple S.FOUL (P6.PN) (S.Mehta),,122-116,122,116
 0022000038,2020-12-27,CHI,GSW,45.58,4,2,25,GSW,GSW,ft_make,11,False,False,,Curry Free Throw 1 of 2 (29 PTS),122-117,122,117

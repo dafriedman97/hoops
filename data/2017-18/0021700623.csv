@@ -50,9 +50,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700623,2018-01-12,MIN,NYK,6.07,1,5,56,NYK,NYK,fg3_miss,79,False,False,,MISS Lee 26' 3PT Pullup Jump Shot,11-15,11,15
 0021700623,2018-01-12,MIN,NYK,6.13,1,5,52,MIN,MIN,reb,0,False,False,Wiggins REBOUND (Off:1 Def:1),,11-15,11,15
 0021700623,2018-01-12,MIN,NYK,6.17,1,5,50,MIN,MIN,fg_miss,6,True,False,MISS Wiggins 4' Driving Layup,,11-15,11,15
+0021700623,2018-01-12,MIN,NYK,6.17,1,5,50,MIN,NYK,block,6,True,False,block,block,11-15,11,15
 0021700623,2018-01-12,MIN,NYK,6.17,1,5,50,NYK,NYK,reb,0,False,False,,Knicks Rebound,11-15,11,15
 0021700623,2018-01-12,MIN,NYK,6.17,1,5,50,MIN,MIN,timeout,1,False,False,TIMBERWOLVES Timeout: Regular (Full 1 Short 0),,11-15,11,15
-0021700623,2018-01-12,MIN,NYK,6.17,1,5,50,MIN,NYK,block,6,True,False,block,block,11-15,11,15
 0021700623,2018-01-12,MIN,NYK,6.47,1,5,32,NYK,NYK,fg_make,79,False,False,,Jack 21' Pullup Jump Shot (2 PTS),11-17,11,17
 0021700623,2018-01-12,MIN,NYK,6.77,1,5,14,MIN,MIN,fg_make,79,False,False,Wiggins 21' Pullup Jump Shot (6 PTS) (Towns 2 AST),,13-17,13,17
 0021700623,2018-01-12,MIN,NYK,7.08,1,4,55,NYK,NYK,fg_miss,1,False,False,,MISS O'Quinn 15' Jump Shot,13-17,13,17
@@ -197,8 +197,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700623,2018-01-12,MIN,NYK,24.8,3,11,12,MIN,MIN,reb,0,False,False,Gibson REBOUND (Off:3 Def:1),,58-57,58,57
 0021700623,2018-01-12,MIN,NYK,24.95,3,11,3,MIN,MIN,fg_make,3,False,False,Towns 5' Hook Shot (15 PTS) (Teague 5 AST),,60-57,60,57
 0021700623,2018-01-12,MIN,NYK,25.13,3,10,52,NYK,NYK,fg_miss,6,True,False,,MISS Jack 3' Driving Layup,60-57,60,57
-0021700623,2018-01-12,MIN,NYK,25.13,3,10,52,NYK,NYK,reb,0,False,False,,Lee REBOUND (Off:1 Def:0),60-57,60,57
 0021700623,2018-01-12,MIN,NYK,25.13,3,10,52,NYK,MIN,block,6,True,False,block,block,60-57,60,57
+0021700623,2018-01-12,MIN,NYK,25.13,3,10,52,NYK,NYK,reb,0,False,False,,Lee REBOUND (Off:1 Def:0),60-57,60,57
 0021700623,2018-01-12,MIN,NYK,25.23,3,10,46,NYK,NYK,fg_miss,1,False,False,,MISS Porzingis 19' Jump Shot,60-57,60,57
 0021700623,2018-01-12,MIN,NYK,25.23,3,10,46,MIN,MIN,reb,0,False,False,Towns REBOUND (Off:4 Def:5),,60-57,60,57
 0021700623,2018-01-12,MIN,NYK,25.3,3,10,42,MIN,NYK,foul,2,False,False,,Jack S.FOUL (P1.T1) (T.Maddox),60-57,60,57
@@ -245,8 +245,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700623,2018-01-12,MIN,NYK,29.73,3,6,16,MIN,MIN,ft_make,10,False,False,Wiggins Free Throw 1 of 1 (14 PTS),,74-66,74,66
 0021700623,2018-01-12,MIN,NYK,30.12,3,5,53,NYK,NYK,fg_make,5,False,False,,O'Quinn 2' Layup (6 PTS) (Beasley 2 AST),74-68,74,68
 0021700623,2018-01-12,MIN,NYK,30.27,3,5,44,MIN,MIN,fg_miss,5,True,False,MISS Gibson 3' Layup,,74-68,74,68
-0021700623,2018-01-12,MIN,NYK,30.27,3,5,44,NYK,NYK,reb,0,False,False,,Thomas REBOUND (Off:0 Def:1),74-68,74,68
 0021700623,2018-01-12,MIN,NYK,30.27,3,5,44,MIN,NYK,block,5,True,False,block,block,74-68,74,68
+0021700623,2018-01-12,MIN,NYK,30.27,3,5,44,NYK,NYK,reb,0,False,False,,Thomas REBOUND (Off:0 Def:1),74-68,74,68
 0021700623,2018-01-12,MIN,NYK,30.38,3,5,37,NYK,NYK,fg3_make,79,False,False,,Jack 25' 3PT Pullup Jump Shot (5 PTS),74-71,74,71
 0021700623,2018-01-12,MIN,NYK,30.63,3,5,22,MIN,NYK,foul,2,False,False,,Jack S.FOUL (P2.T4) (M.Callahan),74-71,74,71
 0021700623,2018-01-12,MIN,NYK,30.63,3,5,22,MIN,MIN,ft_miss,11,False,False,MISS Teague Free Throw 1 of 2,,74-71,74,71
@@ -257,8 +257,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700623,2018-01-12,MIN,NYK,31.2,3,4,48,MIN,MIN,ft_make,11,False,False,Teague Free Throw 1 of 2 (9 PTS),,76-73,76,73
 0021700623,2018-01-12,MIN,NYK,31.2,3,4,48,MIN,MIN,ft_make,12,False,False,Teague Free Throw 2 of 2 (10 PTS),,77-73,77,73
 0021700623,2018-01-12,MIN,NYK,31.5,3,4,30,NYK,NYK,fg_miss,1,True,False,,MISS Beasley 6' Jump Shot,77-73,77,73
-0021700623,2018-01-12,MIN,NYK,31.5,3,4,30,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,77-73,77,73
 0021700623,2018-01-12,MIN,NYK,31.5,3,4,30,NYK,MIN,block,1,True,False,block,block,77-73,77,73
+0021700623,2018-01-12,MIN,NYK,31.5,3,4,30,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,77-73,77,73
 0021700623,2018-01-12,MIN,NYK,31.9,3,4,6,MIN,MIN,fg_make,7,False,False,Gibson 1' Dunk (15 PTS) (Wiggins 1 AST),,79-73,79,73
 0021700623,2018-01-12,MIN,NYK,32.17,3,3,50,NYK,NYK,fg3_make,1,False,False,,Hardaway Jr. 25' 3PT Jump Shot (10 PTS) (Jack 8 AST),79-76,79,76
 0021700623,2018-01-12,MIN,NYK,32.45,3,3,33,MIN,NYK,foul,17,False,False,,Knicks T.Foul (Def. 3 Sec Hardaway Jr. ) (T.Maddox),79-76,79,76
@@ -395,8 +395,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700623,2018-01-12,MIN,NYK,47.33,4,0,40,MIN,MIN,tov,1,False,True,Gibson Bad Pass Turnover (P1.T12),,118-106,118,106
 0021700623,2018-01-12,MIN,NYK,47.33,4,0,40,MIN,NYK,steal,1,False,True,steal,steal,118-106,118,106
 0021700623,2018-01-12,MIN,NYK,47.4,4,0,36,NYK,NYK,fg_miss,41,True,False,,MISS Porzingis 3' Running Layup,118-106,118,106
-0021700623,2018-01-12,MIN,NYK,47.4,4,0,36,NYK,NYK,reb,0,False,False,,Knicks Rebound,118-106,118,106
 0021700623,2018-01-12,MIN,NYK,47.4,4,0,36,NYK,MIN,block,41,True,False,block,block,118-106,118,106
+0021700623,2018-01-12,MIN,NYK,47.4,4,0,36,NYK,NYK,reb,0,False,False,,Knicks Rebound,118-106,118,106
 0021700623,2018-01-12,MIN,NYK,47.52,4,0,29,NYK,NYK,fg_make,78,False,False,,Jack 6' Floating Jump Shot (18 PTS),118-108,118,108
 0021700623,2018-01-12,MIN,NYK,47.9,4,0,6,MIN,MIN,fg3_miss,1,False,False,MISS Teague 26' 3PT Jump Shot,,118-108,118,108
 0021700623,2018-01-12,MIN,NYK,47.97,4,0,2,NYK,NYK,reb,0,False,False,,Kanter REBOUND (Off:4 Def:8),118-108,118,108

@@ -10,10 +10,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000824,2021-04-13,TOR,ATL,1.0,1,11,0,TOR,TOR,reb,0,False,False,Siakam REBOUND (Off:0 Def:2),,0-0,0,0
 0022000824,2021-04-13,TOR,ATL,1.12,1,10,53,TOR,TOR,fg_make,80,False,False,Trent Jr. 22' Step Back Jump Shot (2 PTS),,2-0,2,0
 0022000824,2021-04-13,TOR,ATL,1.37,1,10,38,ATL,ATL,tov,1,False,True,,Goodwin Bad Pass Turnover (P1.T1),2-0,2,0
+0022000824,2021-04-13,TOR,ATL,1.37,1,10,38,ATL,TOR,steal,1,False,True,steal,steal,2-0,2,0
 0022000824,2021-04-13,TOR,ATL,1.37,1,10,38,TOR,ATL,foul,2,False,False,,Huerter S.FOUL (P1.T1) (J.Goble),2-0,2,0
 0022000824,2021-04-13,TOR,ATL,1.37,1,10,38,TOR,TOR,ft_miss,11,False,False,MISS Trent Jr. Free Throw 1 of 2,,2-0,2,0
 0022000824,2021-04-13,TOR,ATL,1.37,1,10,38,TOR,TOR,reb,1,False,False,RAPTORS Rebound,,2-0,2,0
-0022000824,2021-04-13,TOR,ATL,1.37,1,10,38,ATL,TOR,steal,1,False,True,steal,steal,2-0,2,0
 0022000824,2021-04-13,TOR,ATL,1.37,1,10,38,TOR,TOR,ft_make,12,False,False,Trent Jr. Free Throw 2 of 2 (3 PTS),,3-0,3,0
 0022000824,2021-04-13,TOR,ATL,1.6,1,10,24,ATL,TOR,foul,1,False,False,Boucher P.FOUL (P1.T2) (J.Goble),,3-0,3,0
 0022000824,2021-04-13,TOR,ATL,1.75,1,10,15,ATL,ATL,fg_miss,101,False,False,,MISS Goodwin 8' Driving Floating Jump Shot,3-0,3,0
@@ -73,8 +73,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000824,2021-04-13,TOR,ATL,7.27,1,4,44,ATL,TOR,steal,1,False,True,steal,steal,9-15,9,15
 0022000824,2021-04-13,TOR,ATL,7.33,1,4,40,TOR,TOR,fg_make,76,False,False,Trent Jr. 3' Running Finger Roll Layup (7 PTS),,11-15,11,15
 0022000824,2021-04-13,TOR,ATL,7.67,1,4,20,ATL,ATL,fg_miss,102,False,False,,MISS Capela 4' Driving Floating Bank Jump Shot,11-15,11,15
-0022000824,2021-04-13,TOR,ATL,7.75,1,4,15,ATL,ATL,fg_make,107,False,False,,Knight Tip Dunk Shot (2 PTS),11-17,11,17
 0022000824,2021-04-13,TOR,ATL,7.75,1,4,15,ATL,ATL,reb,0,False,False,,Knight REBOUND (Off:1 Def:1),11-17,11,17
+0022000824,2021-04-13,TOR,ATL,7.75,1,4,15,ATL,ATL,fg_make,107,False,False,,Knight Tip Dunk Shot (2 PTS),11-17,11,17
 0022000824,2021-04-13,TOR,ATL,7.95,1,4,3,TOR,TOR,fg_make,79,False,False,Siakam 20' Pullup Jump Shot (4 PTS),,13-17,13,17
 0022000824,2021-04-13,TOR,ATL,8.32,1,3,41,ATL,ATL,fg_miss,79,False,False,,MISS Bogdanovic 8' Pullup Jump Shot,13-17,13,17
 0022000824,2021-04-13,TOR,ATL,8.37,1,3,38,TOR,TOR,reb,0,False,False,Boucher REBOUND (Off:0 Def:1),,13-17,13,17

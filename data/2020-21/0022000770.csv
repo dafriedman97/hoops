@@ -87,9 +87,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000770,2021-04-06,ATL,NOP,10.23,1,1,46,NOP,NOP,reb,0,False,False,,Hayes REBOUND (Off:0 Def:2),23-25,23,25
 0022000770,2021-04-06,ATL,NOP,10.23,1,1,46,NOP,NOP,tov,45,False,False,,Hayes Out of Bounds - Bad Pass Turnover Turnover (P1.T3),23-25,23,25
 0022000770,2021-04-06,ATL,NOP,10.5,1,1,30,ATL,ATL,fg_miss,6,True,False,MISS Snell 5' Driving Layup,,23-25,23,25
+0022000770,2021-04-06,ATL,NOP,10.5,1,1,30,ATL,NOP,block,6,True,False,block,block,23-25,23,25
 0022000770,2021-04-06,ATL,NOP,10.5,1,1,30,NOP,NOP,reb,0,False,False,,Thomas REBOUND (Off:0 Def:1),23-25,23,25
 0022000770,2021-04-06,ATL,NOP,10.5,1,1,30,NOP,ATL,foul,28,False,False,Williams Personal Take Foul (P1.T4) (B.Nansel),,23-25,23,25
-0022000770,2021-04-06,ATL,NOP,10.5,1,1,30,ATL,NOP,block,6,True,False,block,block,23-25,23,25
 0022000770,2021-04-06,ATL,NOP,10.6,1,1,24,NOP,ATL,foul,2,False,False,Snell S.FOUL (P1.PN) (B.Nansel),,23-25,23,25
 0022000770,2021-04-06,ATL,NOP,10.6,1,1,24,NOP,NOP,ft_make,11,False,False,,Williamson Free Throw 1 of 2 (10 PTS),23-26,23,26
 0022000770,2021-04-06,ATL,NOP,10.6,1,1,24,NOP,NOP,ft_make,12,False,False,,Williamson Free Throw 2 of 2 (11 PTS),23-27,23,27
@@ -107,8 +107,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000770,2021-04-06,ATL,NOP,11.82,1,0,11,ATL,ATL,fg3_miss,1,False,False,MISS Snell 25' 3PT Jump Shot,,25-29,25,29
 0022000770,2021-04-06,ATL,NOP,11.87,1,0,8,NOP,NOP,reb,0,False,False,,Marshall REBOUND (Off:0 Def:2),25-29,25,29
 0022000770,2021-04-06,ATL,NOP,11.97,1,0,2,NOP,NOP,fg_miss,6,True,False,,MISS Marshall 2' Driving Layup,25-29,25,29
-0022000770,2021-04-06,ATL,NOP,11.97,1,0,2,ATL,ATL,reb,0,False,False,Snell REBOUND (Off:0 Def:2),,25-29,25,29
 0022000770,2021-04-06,ATL,NOP,11.97,1,0,2,NOP,ATL,block,6,True,False,block,block,25-29,25,29
+0022000770,2021-04-06,ATL,NOP,11.97,1,0,2,ATL,ATL,reb,0,False,False,Snell REBOUND (Off:0 Def:2),,25-29,25,29
 0022000770,2021-04-06,ATL,NOP,12.0,1,0,0,ATL,,period_end,0,False,False,,,25-29,25,29
 0022000770,2021-04-06,ATL,NOP,12.0,2,12,0,ATL,,period_start,0,False,False,,,25-29,25,29
 0022000770,2021-04-06,ATL,NOP,12.07,2,11,56,NOP,ATL,foul,4,False,False,Gallinari OFF.Foul (P1) (B.Nansel),,25-29,25,29
@@ -160,8 +160,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000770,2021-04-06,ATL,NOP,16.18,2,7,49,NOP,NOP,reb,0,False,False,,Marshall REBOUND (Off:0 Def:4),37-46,37,46
 0022000770,2021-04-06,ATL,NOP,16.27,2,7,44,NOP,NOP,fg_make,6,False,False,,Marshall 3' Driving Layup (5 PTS),37-48,37,48
 0022000770,2021-04-06,ATL,NOP,16.5,2,7,30,ATL,ATL,fg3_miss,79,False,False,MISS Bogdanovic 26' 3PT Pullup Jump Shot,,37-48,37,48
-0022000770,2021-04-06,ATL,NOP,16.6,2,7,24,ATL,ATL,fg_make,72,False,False,Capela Putback Layup (6 PTS),,39-48,39,48
 0022000770,2021-04-06,ATL,NOP,16.6,2,7,24,ATL,ATL,reb,0,False,False,Capela REBOUND (Off:1 Def:3),,39-48,39,48
+0022000770,2021-04-06,ATL,NOP,16.6,2,7,24,ATL,ATL,fg_make,72,False,False,Capela Putback Layup (6 PTS),,39-48,39,48
 0022000770,2021-04-06,ATL,NOP,16.82,2,7,11,NOP,NOP,fg3_miss,1,False,False,,MISS Bledsoe 3PT Jump Shot,39-48,39,48
 0022000770,2021-04-06,ATL,NOP,16.87,2,7,8,ATL,ATL,reb,0,False,False,Capela REBOUND (Off:1 Def:4),,39-48,39,48
 0022000770,2021-04-06,ATL,NOP,17.0,2,7,0,ATL,NOP,foul,1,False,False,,Bledsoe P.FOUL (P1.T3) (L.Wood),39-48,39,48
@@ -180,8 +180,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000770,2021-04-06,ATL,NOP,18.98,2,5,1,NOP,NOP,reb,0,False,False,,Johnson REBOUND (Off:0 Def:1),47-50,47,50
 0022000770,2021-04-06,ATL,NOP,19.0,2,5,0,NOP,ATL,foul,28,False,False,Gallinari Personal Take Foul (P3.T3) (L.Wood),,47-50,47,50
 0022000770,2021-04-06,ATL,NOP,19.22,2,4,47,NOP,NOP,fg_miss,78,False,False,,MISS Adams 6' Floating Jump Shot,47-50,47,50
-0022000770,2021-04-06,ATL,NOP,19.27,2,4,44,NOP,NOP,reb,0,False,False,,Adams REBOUND (Off:3 Def:1),47-50,47,50
 0022000770,2021-04-06,ATL,NOP,19.27,2,4,44,,ATL,jump_ball,0,False,False,Jump Ball Capela vs. Adams: Tip to Ball,,47-50,47,50
+0022000770,2021-04-06,ATL,NOP,19.27,2,4,44,NOP,NOP,reb,0,False,False,,Adams REBOUND (Off:3 Def:1),47-50,47,50
 0022000770,2021-04-06,ATL,NOP,19.42,2,4,35,NOP,ATL,foul,2,False,False,Capela S.FOUL (P2.T4) (B.Nansel),,47-50,47,50
 0022000770,2021-04-06,ATL,NOP,19.42,2,4,35,NOP,NOP,ft_make,11,False,False,,Marshall Free Throw 1 of 2 (6 PTS),47-51,47,51
 0022000770,2021-04-06,ATL,NOP,19.42,2,4,35,NOP,NOP,ft_make,12,False,False,,Marshall Free Throw 2 of 2 (7 PTS),47-52,47,52
@@ -259,8 +259,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000770,2021-04-06,ATL,NOP,25.52,3,10,29,NOP,NOP,fg_miss,6,False,False,,MISS Williamson 7' Driving Layup,64-64,64,64
 0022000770,2021-04-06,ATL,NOP,25.55,3,10,27,NOP,NOP,reb,0,False,False,,Adams REBOUND (Off:6 Def:2),64-64,64,64
 0022000770,2021-04-06,ATL,NOP,25.57,3,10,26,NOP,NOP,fg_miss,72,True,False,,MISS Adams Putback Layup,64-64,64,64
-0022000770,2021-04-06,ATL,NOP,25.57,3,10,26,ATL,ATL,reb,0,False,False,S. Hill REBOUND (Off:1 Def:4),,64-64,64,64
 0022000770,2021-04-06,ATL,NOP,25.57,3,10,26,NOP,ATL,block,72,True,False,block,block,64-64,64,64
+0022000770,2021-04-06,ATL,NOP,25.57,3,10,26,ATL,ATL,reb,0,False,False,S. Hill REBOUND (Off:1 Def:4),,64-64,64,64
 0022000770,2021-04-06,ATL,NOP,25.73,3,10,16,ATL,ATL,fg_make,6,False,False,Bogdanovic 1' Driving Layup (10 PTS),,66-64,66,64
 0022000770,2021-04-06,ATL,NOP,25.93,3,10,4,NOP,NOP,tov,45,False,False,,Adams Out of Bounds - Bad Pass Turnover Turnover (P1.T7),66-64,66,64
 0022000770,2021-04-06,ATL,NOP,26.17,3,9,50,ATL,ATL,fg3_make,1,False,False,Huerter 24' 3PT Jump Shot (7 PTS) (Young 7 AST),,69-64,69,64
@@ -401,8 +401,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000770,2021-04-06,ATL,NOP,43.13,4,4,52,NOP,NOP,fg3_miss,1,False,False,,MISS Thomas 25' 3PT Jump Shot,117-98,117,98
 0022000770,2021-04-06,ATL,NOP,43.18,4,4,49,ATL,ATL,reb,0,False,False,Capela REBOUND (Off:4 Def:7),,117-98,117,98
 0022000770,2021-04-06,ATL,NOP,43.33,4,4,40,ATL,ATL,fg_miss,101,False,False,MISS Young 5' Driving Floating Jump Shot,,117-98,117,98
-0022000770,2021-04-06,ATL,NOP,43.45,4,4,33,ATL,ATL,fg_make,97,False,False,Capela Tip Layup Shot (12 PTS),,119-98,119,98
 0022000770,2021-04-06,ATL,NOP,43.45,4,4,33,ATL,ATL,reb,0,False,False,Capela REBOUND (Off:5 Def:7),,119-98,119,98
+0022000770,2021-04-06,ATL,NOP,43.45,4,4,33,ATL,ATL,fg_make,97,False,False,Capela Tip Layup Shot (12 PTS),,119-98,119,98
 0022000770,2021-04-06,ATL,NOP,43.63,4,4,22,NOP,NOP,fg_make,6,False,False,,Williamson 2' Driving Layup (34 PTS) (Thomas 2 AST),119-100,119,100
 0022000770,2021-04-06,ATL,NOP,43.95,4,4,3,ATL,ATL,tov,8,False,False,Capela 3 Second Violation Turnover (P1.T10),,119-100,119,100
 0022000770,2021-04-06,ATL,NOP,44.2,4,3,48,NOP,NOP,fg_miss,6,True,False,,MISS Hernangomez 2' Driving Layup,119-100,119,100

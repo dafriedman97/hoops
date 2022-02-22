@@ -61,8 +61,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900543,2020-01-06,ATL,DEN,6.98,1,5,1,DEN,DEN,fg_make,1,False,False,,Jokic 20' Jump Shot (11 PTS) (Murray 3 AST),17-18,17,18
 0021900543,2020-01-06,ATL,DEN,7.22,1,4,47,ATL,ATL,fg_miss,5,True,False,MISS Len 2' Layup,,17-18,17,18
 0021900543,2020-01-06,ATL,DEN,7.22,1,4,47,ATL,DEN,block,5,True,False,block,block,17-18,17,18
-0021900543,2020-01-06,ATL,DEN,7.28,1,4,43,ATL,ATL,reb,0,False,False,HAWKS Rebound,,17-18,17,18
 0021900543,2020-01-06,ATL,DEN,7.28,1,4,43,,ATL,jump_ball,0,False,False,Jump Ball Len vs. Porter Jr.: Tip to Len,,17-18,17,18
+0021900543,2020-01-06,ATL,DEN,7.28,1,4,43,ATL,ATL,reb,0,False,False,HAWKS Rebound,,17-18,17,18
 0021900543,2020-01-06,ATL,DEN,7.43,1,4,34,ATL,ATL,fg_make,98,False,False,Len 1' Cutting Layup Shot (2 PTS) (Young 3 AST),,19-18,19,18
 0021900543,2020-01-06,ATL,DEN,7.43,1,4,34,ATL,DEN,foul,2,False,False,,Grant S.FOUL (P1.T4) (T.Brothers),19-18,19,18
 0021900543,2020-01-06,ATL,DEN,7.43,1,4,34,ATL,ATL,ft_make,10,False,False,Len Free Throw 1 of 1 (3 PTS),,20-18,20,18
@@ -116,8 +116,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900543,2020-01-06,ATL,DEN,13.03,2,10,58,DEN,DEN,fg_miss,79,False,False,,MISS Porter Jr. 16' Pullup Jump Shot,31-32,31,32
 0021900543,2020-01-06,ATL,DEN,13.08,2,10,55,ATL,ATL,reb,0,False,False,Goodwin REBOUND (Off:0 Def:1),,31-32,31,32
 0021900543,2020-01-06,ATL,DEN,13.17,2,10,50,ATL,ATL,fg_miss,5,True,False,MISS Fernando 1' Layup,,31-32,31,32
-0021900543,2020-01-06,ATL,DEN,13.17,2,10,50,ATL,ATL,reb,0,False,False,HAWKS Rebound,,31-32,31,32
 0021900543,2020-01-06,ATL,DEN,13.17,2,10,50,ATL,DEN,block,5,True,False,block,block,31-32,31,32
+0021900543,2020-01-06,ATL,DEN,13.17,2,10,50,ATL,ATL,reb,0,False,False,HAWKS Rebound,,31-32,31,32
 0021900543,2020-01-06,ATL,DEN,13.43,2,10,34,ATL,ATL,fg3_miss,1,False,False,MISS Fernando 3PT Jump Shot,,31-32,31,32
 0021900543,2020-01-06,ATL,DEN,13.5,2,10,30,DEN,DEN,reb,0,False,False,,Grant REBOUND (Off:0 Def:1),31-32,31,32
 0021900543,2020-01-06,ATL,DEN,13.62,2,10,23,DEN,DEN,fg3_miss,1,False,False,,MISS Grant 26' 3PT Jump Shot,31-32,31,32
@@ -200,8 +200,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900543,2020-01-06,ATL,DEN,22.82,2,1,11,ATL,ATL,fg3_make,1,False,False,Reddish 3PT Jump Shot (3 PTS) (Young 7 AST),,56-57,56,57
 0021900543,2020-01-06,ATL,DEN,23.12,2,0,53,DEN,ATL,violation,5,False,False,Len Violation:Kicked Ball (T.Brothers),,56-57,56,57
 0021900543,2020-01-06,ATL,DEN,23.2,2,0,48,DEN,DEN,fg_miss,6,True,False,,MISS Barton 3' Driving Layup,56-57,56,57
-0021900543,2020-01-06,ATL,DEN,23.2,2,0,48,DEN,DEN,reb,0,False,False,,Nuggets Rebound,56-57,56,57
 0021900543,2020-01-06,ATL,DEN,23.2,2,0,48,DEN,ATL,block,6,True,False,block,block,56-57,56,57
+0021900543,2020-01-06,ATL,DEN,23.2,2,0,48,DEN,DEN,reb,0,False,False,,Nuggets Rebound,56-57,56,57
 0021900543,2020-01-06,ATL,DEN,23.28,2,0,43,DEN,DEN,fg_miss,6,False,False,,MISS Murray 2' Driving Layup,56-57,56,57
 0021900543,2020-01-06,ATL,DEN,23.3,2,0,42,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:2 Def:1),56-57,56,57
 0021900543,2020-01-06,ATL,DEN,23.3,2,0,42,DEN,DEN,fg_make,97,False,False,,Jokic 1' Tip Layup Shot (24 PTS),56-59,56,59
@@ -211,9 +211,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900543,2020-01-06,ATL,DEN,23.83,2,0,10,DEN,DEN,reb,0,False,False,,Nuggets Rebound,56-62,56,62
 0021900543,2020-01-06,ATL,DEN,24.0,2,0,0,DEN,DEN,fg_make,6,False,False,,Murray 2' Driving Layup (6 PTS),56-64,56,64
 0021900543,2020-01-06,ATL,DEN,24.0,2,0,0,ATL,ATL,tov,1,False,True,Hunter Bad Pass Turnover (P1.T7),,56-64,56,64
+0021900543,2020-01-06,ATL,DEN,24.0,2,0,0,ATL,DEN,steal,1,False,True,steal,steal,56-64,56,64
 0021900543,2020-01-06,ATL,DEN,24.0,2,0,0,ATL,,period_end,0,False,False,,,56-64,56,64
 0021900543,2020-01-06,ATL,DEN,24.0,3,12,0,ATL,,period_start,0,False,False,,,56-64,56,64
-0021900543,2020-01-06,ATL,DEN,24.0,2,0,0,ATL,DEN,steal,1,False,True,steal,steal,56-64,56,64
 0021900543,2020-01-06,ATL,DEN,24.17,3,11,50,DEN,DEN,fg_miss,1,False,False,,MISS Jokic 21' Jump Shot,56-64,56,64
 0021900543,2020-01-06,ATL,DEN,24.17,3,11,50,DEN,DEN,reb,0,False,False,,Nuggets Rebound,56-64,56,64
 0021900543,2020-01-06,ATL,DEN,24.17,3,11,50,DEN,ATL,foul,3,False,False,Collins L.B.FOUL (P3.T1) (J.Goble),,56-64,56,64
@@ -359,8 +359,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900543,2020-01-06,ATL,DEN,40.0,4,8,0,DEN,DEN,tov,1,False,True,,Murray Bad Pass Turnover (P1.T4),100-101,100,101
 0021900543,2020-01-06,ATL,DEN,40.0,4,8,0,DEN,ATL,steal,1,False,True,steal,steal,100-101,100,101
 0021900543,2020-01-06,ATL,DEN,40.05,4,7,57,ATL,ATL,fg_miss,41,True,False,MISS Collins 7' Running Layup,,100-101,100,101
-0021900543,2020-01-06,ATL,DEN,40.05,4,7,57,ATL,ATL,reb,0,False,False,HAWKS Rebound,,100-101,100,101
 0021900543,2020-01-06,ATL,DEN,40.05,4,7,57,ATL,DEN,block,41,True,False,block,block,100-101,100,101
+0021900543,2020-01-06,ATL,DEN,40.05,4,7,57,ATL,ATL,reb,0,False,False,HAWKS Rebound,,100-101,100,101
 0021900543,2020-01-06,ATL,DEN,40.18,4,7,49,ATL,ATL,fg3_miss,1,False,False,MISS Collins 26' 3PT Jump Shot,,100-101,100,101
 0021900543,2020-01-06,ATL,DEN,40.23,4,7,46,DEN,DEN,reb,0,False,False,,Morris REBOUND (Off:0 Def:4),100-101,100,101
 0021900543,2020-01-06,ATL,DEN,40.6,4,7,24,DEN,DEN,fg_make,43,False,False,,Morris 1' Alley Oop Layup (14 PTS) (Barton 5 AST),100-103,100,103
@@ -372,8 +372,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900543,2020-01-06,ATL,DEN,41.37,4,6,38,ATL,ATL,ft_make,11,False,False,Young Free Throw 1 of 2 (23 PTS),,101-106,101,106
 0021900543,2020-01-06,ATL,DEN,41.37,4,6,38,ATL,ATL,ft_make,12,False,False,Young Free Throw 2 of 2 (24 PTS),,102-106,102,106
 0021900543,2020-01-06,ATL,DEN,41.6,4,6,24,DEN,DEN,fg_miss,6,True,False,,MISS Harris 1' Driving Layup,102-106,102,106
-0021900543,2020-01-06,ATL,DEN,41.6,4,6,24,DEN,DEN,reb,0,False,False,,Nuggets Rebound,102-106,102,106
 0021900543,2020-01-06,ATL,DEN,41.6,4,6,24,DEN,ATL,block,6,True,False,block,block,102-106,102,106
+0021900543,2020-01-06,ATL,DEN,41.6,4,6,24,DEN,DEN,reb,0,False,False,,Nuggets Rebound,102-106,102,106
 0021900543,2020-01-06,ATL,DEN,41.75,4,6,15,DEN,DEN,fg_make,57,False,False,,Jokic 10' Driving Hook Shot (42 PTS),102-108,102,108
 0021900543,2020-01-06,ATL,DEN,42.15,4,5,51,ATL,ATL,tov,45,False,False,Young Out of Bounds - Bad Pass Turnover Turnover (P6.T9),,102-108,102,108
 0021900543,2020-01-06,ATL,DEN,42.4,4,5,36,DEN,DEN,fg3_miss,1,False,False,,MISS Jokic 26' 3PT Jump Shot,102-108,102,108
@@ -404,8 +404,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900543,2020-01-06,ATL,DEN,45.07,4,2,56,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:4 Def:4),109-114,109,114
 0021900543,2020-01-06,ATL,DEN,45.43,4,2,34,DEN,DEN,fg_make,5,False,False,,Murray 3' Layup (14 PTS) (Jokic 4 AST),109-116,109,116
 0021900543,2020-01-06,ATL,DEN,45.7,4,2,18,ATL,ATL,fg_miss,101,False,False,MISS Huerter 7' Driving Floating Jump Shot,,109-116,109,116
-0021900543,2020-01-06,ATL,DEN,45.75,4,2,15,ATL,ATL,fg_miss,97,False,False,MISS Collins 3' Tip Layup Shot,,109-116,109,116
 0021900543,2020-01-06,ATL,DEN,45.75,4,2,15,ATL,ATL,reb,0,False,False,Collins REBOUND (Off:1 Def:4),,109-116,109,116
+0021900543,2020-01-06,ATL,DEN,45.75,4,2,15,ATL,ATL,fg_miss,97,False,False,MISS Collins 3' Tip Layup Shot,,109-116,109,116
 0021900543,2020-01-06,ATL,DEN,45.78,4,2,13,DEN,DEN,reb,0,False,False,,Murray REBOUND (Off:0 Def:4),109-116,109,116
 0021900543,2020-01-06,ATL,DEN,46.03,4,1,58,DEN,DEN,fg_miss,78,True,False,,MISS Barton 4' Floating Jump Shot,109-116,109,116
 0021900543,2020-01-06,ATL,DEN,46.03,4,1,58,DEN,ATL,block,78,True,False,block,block,109-116,109,116

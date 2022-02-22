@@ -20,8 +20,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000448,2021-05-11,CHA,DEN,2.55,1,9,27,DEN,DEN,fg3_miss,1,False,False,,MISS Rivers 25' 3PT Jump Shot,5-6,5,6
 0022000448,2021-05-11,CHA,DEN,2.58,1,9,25,DEN,DEN,reb,0,False,False,,Gordon REBOUND (Off:1 Def:0),5-6,5,6
 0022000448,2021-05-11,CHA,DEN,2.78,1,9,13,DEN,DEN,fg_miss,6,False,False,,MISS Porter Jr. 4' Driving Layup,5-6,5,6
-0022000448,2021-05-11,CHA,DEN,2.85,1,9,9,DEN,DEN,fg_miss,97,False,False,,MISS Jokic Tip Layup Shot,5-6,5,6
 0022000448,2021-05-11,CHA,DEN,2.85,1,9,9,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:1 Def:0),5-6,5,6
+0022000448,2021-05-11,CHA,DEN,2.85,1,9,9,DEN,DEN,fg_miss,97,False,False,,MISS Jokic Tip Layup Shot,5-6,5,6
 0022000448,2021-05-11,CHA,DEN,2.87,1,9,8,CHA,CHA,reb,0,False,False,Biyombo REBOUND (Off:0 Def:1),,5-6,5,6
 0022000448,2021-05-11,CHA,DEN,2.93,1,9,4,CHA,CHA,tov,1,False,True,McDaniels Bad Pass Turnover (P1.T2),,5-6,5,6
 0022000448,2021-05-11,CHA,DEN,2.93,1,9,4,CHA,DEN,steal,1,False,True,steal,steal,5-6,5,6
@@ -234,10 +234,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000448,2021-05-11,CHA,DEN,26.65,3,9,21,DEN,DEN,fg3_make,1,False,False,,Gordon 26' 3PT Jump Shot (13 PTS) (Jokic 4 AST),63-70,63,70
 0022000448,2021-05-11,CHA,DEN,26.88,3,9,7,CHA,CHA,tov,45,False,False,Ball Out of Bounds - Bad Pass Turnover Turnover (P3.T9),,63-70,63,70
 0022000448,2021-05-11,CHA,DEN,26.88,3,9,7,CHA,,foul,11,False,False,,,63-70,63,70
-0022000448,2021-05-11,CHA,DEN,26.88,3,9,7,CHA,,foul,11,False,False,,,63-70,63,70
 0022000448,2021-05-11,CHA,DEN,26.88,3,9,7,CHA,DEN,ft_make,16,False,False,,Jokic Free Throw Technical (18 PTS),63-71,63,71
-0022000448,2021-05-11,CHA,DEN,26.88,3,9,7,CHA,,ejection,4,False,False,,,63-71,63,71
+0022000448,2021-05-11,CHA,DEN,26.88,3,9,7,CHA,,foul,11,False,False,,,63-70,63,70
 0022000448,2021-05-11,CHA,DEN,26.88,3,9,7,CHA,DEN,ft_make,16,False,False,,Jokic Free Throw Technical (19 PTS),63-72,63,72
+0022000448,2021-05-11,CHA,DEN,26.88,3,9,7,CHA,,ejection,4,False,False,,,63-71,63,71
 0022000448,2021-05-11,CHA,DEN,27.1,3,8,54,DEN,DEN,fg_miss,1,False,False,,MISS Jokic 14' Jump Shot,63-72,63,72
 0022000448,2021-05-11,CHA,DEN,27.15,3,8,51,CHA,CHA,reb,0,False,False,Ball REBOUND (Off:1 Def:8),,63-72,63,72
 0022000448,2021-05-11,CHA,DEN,27.18,3,8,49,CHA,DEN,foul,1,False,False,,Rivers P.FOUL (P2.T3) (J.Schroeder),63-72,63,72
@@ -366,8 +366,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000448,2021-05-11,CHA,DEN,40.02,4,7,59,DEN,DEN,reb,0,False,False,,Green REBOUND (Off:1 Def:1),87-100,87,100
 0022000448,2021-05-11,CHA,DEN,40.17,4,7,50,DEN,DEN,tov,4,False,False,,Campazzo Traveling Turnover (P3.T13),87-100,87,100
 0022000448,2021-05-11,CHA,DEN,40.32,4,7,41,CHA,CHA,fg_miss,1,True,False,MISS Graham 13' Jump Shot,,87-100,87,100
-0022000448,2021-05-11,CHA,DEN,40.32,4,7,41,DEN,DEN,reb,0,False,False,,Nuggets Rebound,87-100,87,100
 0022000448,2021-05-11,CHA,DEN,40.32,4,7,41,CHA,DEN,block,1,True,False,block,block,87-100,87,100
+0022000448,2021-05-11,CHA,DEN,40.32,4,7,41,DEN,DEN,reb,0,False,False,,Nuggets Rebound,87-100,87,100
 0022000448,2021-05-11,CHA,DEN,40.57,4,7,26,DEN,DEN,tov,2,False,True,,Porter Jr. Lost Ball Turnover (P4.T14),87-100,87,100
 0022000448,2021-05-11,CHA,DEN,40.57,4,7,26,DEN,CHA,steal,2,False,True,steal,steal,87-100,87,100
 0022000448,2021-05-11,CHA,DEN,40.65,4,7,21,CHA,CHA,fg3_miss,1,False,False,MISS Graham 3PT Jump Shot,,87-100,87,100

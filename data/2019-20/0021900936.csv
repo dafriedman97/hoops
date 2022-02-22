@@ -65,8 +65,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900936,2020-03-06,NOP,MIA,7.25,1,4,45,MIA,MIA,fg_miss,66,False,False,,MISS Dragic 19' Jump Bank Shot,18-15,18,15
 0021900936,2020-03-06,NOP,MIA,7.3,1,4,42,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:1 Def:2),18-15,18,15
 0021900936,2020-03-06,NOP,MIA,7.33,1,4,40,MIA,MIA,fg3_miss,1,False,False,,MISS Nunn 24' 3PT Jump Shot,18-15,18,15
-0021900936,2020-03-06,NOP,MIA,7.45,1,4,33,MIA,MIA,fg_make,107,False,False,,Jones Jr. 1' Tip Dunk Shot (4 PTS),18-17,18,17
 0021900936,2020-03-06,NOP,MIA,7.45,1,4,33,MIA,MIA,reb,0,False,False,,Jones Jr. REBOUND (Off:2 Def:0),18-17,18,17
+0021900936,2020-03-06,NOP,MIA,7.45,1,4,33,MIA,MIA,fg_make,107,False,False,,Jones Jr. 1' Tip Dunk Shot (4 PTS),18-17,18,17
 0021900936,2020-03-06,NOP,MIA,7.55,1,4,27,NOP,NOP,fg_make,6,False,False,Williamson 1' Driving Layup (6 PTS) (Ball 4 AST),,20-17,20,17
 0021900936,2020-03-06,NOP,MIA,7.67,1,4,20,MIA,MIA,tov,40,False,False,,Adebayo Out of Bounds Lost Ball Turnover (P2.T6),20-17,20,17
 0021900936,2020-03-06,NOP,MIA,7.97,1,4,2,NOP,MIA,foul,2,False,False,,Jones Jr. S.FOUL (P1.T1) (M.Boland),20-17,20,17
@@ -211,9 +211,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900936,2020-03-06,NOP,MIA,21.63,2,2,22,MIA,MIA,fg_miss,1,False,False,,MISS Adebayo 19' Jump Shot,62-45,62,45
 0021900936,2020-03-06,NOP,MIA,21.68,2,2,19,NOP,NOP,reb,0,False,False,Ball REBOUND (Off:1 Def:2),,62-45,62,45
 0021900936,2020-03-06,NOP,MIA,21.87,2,2,8,NOP,NOP,tov,4,False,False,Jackson Traveling Turnover (P1.T8),,62-45,62,45
+0021900936,2020-03-06,NOP,MIA,22.17,2,1,50,NOP,NOP,timeout,7,False,False,PELICANS Timeout: Coach Challenge (Full 1 Short 0),,62-45,62,45
 0021900936,2020-03-06,NOP,MIA,22.17,2,1,50,NOP,MIA,foul,4,False,False,,Adebayo OFF.Foul (P1) (B.Kennedy),62-45,62,45
 0021900936,2020-03-06,NOP,MIA,22.17,2,1,50,MIA,MIA,tov,37,False,False,,Adebayo Offensive Foul Turnover (P4.T11),62-45,62,45
-0021900936,2020-03-06,NOP,MIA,22.17,2,1,50,NOP,NOP,timeout,7,False,False,PELICANS Timeout: Coach Challenge (Full 1 Short 0),,62-45,62,45
 0021900936,2020-03-06,NOP,MIA,22.38,2,1,37,NOP,NOP,fg_miss,5,False,False,MISS Jackson 2' Layup,,62-45,62,45
 0021900936,2020-03-06,NOP,MIA,22.38,2,1,37,NOP,NOP,reb,0,False,False,Jackson REBOUND (Off:1 Def:2),,62-45,62,45
 0021900936,2020-03-06,NOP,MIA,22.38,2,1,37,NOP,MIA,foul,1,False,False,,Adebayo P.FOUL (P2.PN) (J.Williams),62-45,62,45
@@ -291,8 +291,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900936,2020-03-06,NOP,MIA,28.63,3,7,22,MIA,MIA,reb,1,False,False,,Heat Rebound,77-58,77,58
 0021900936,2020-03-06,NOP,MIA,28.63,3,7,22,MIA,MIA,ft_make,19,False,False,,Jones Jr. Free Throw Flagrant 2 of 2 (5 PTS),77-59,77,59
 0021900936,2020-03-06,NOP,MIA,28.78,3,7,13,MIA,MIA,fg_miss,5,True,False,,MISS Butler 3' Layup,77-59,77,59
-0021900936,2020-03-06,NOP,MIA,28.78,3,7,13,MIA,MIA,reb,0,False,False,,Heat Rebound,77-59,77,59
 0021900936,2020-03-06,NOP,MIA,28.78,3,7,13,MIA,NOP,block,5,True,False,block,block,77-59,77,59
+0021900936,2020-03-06,NOP,MIA,28.78,3,7,13,MIA,MIA,reb,0,False,False,,Heat Rebound,77-59,77,59
 0021900936,2020-03-06,NOP,MIA,28.8,3,7,12,MIA,MIA,fg3_miss,1,False,False,,MISS Robinson 3PT Jump Shot,77-59,77,59
 0021900936,2020-03-06,NOP,MIA,28.88,3,7,7,NOP,NOP,reb,0,False,False,Williamson REBOUND (Off:2 Def:3),,77-59,77,59
 0021900936,2020-03-06,NOP,MIA,28.95,3,7,3,NOP,NOP,fg_miss,6,True,False,MISS Ingram 2' Driving Layup,,77-59,77,59
@@ -322,9 +322,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900936,2020-03-06,NOP,MIA,31.27,3,4,44,MIA,NOP,foul,4,False,False,Ingram OFF.Foul (P4) (B.Kennedy),,79-65,79,65
 0021900936,2020-03-06,NOP,MIA,31.27,3,4,44,NOP,NOP,tov,37,False,False,Ingram Offensive Foul Turnover (P2.T10),,79-65,79,65
 0021900936,2020-03-06,NOP,MIA,31.6,3,4,24,MIA,MIA,fg_miss,6,False,False,,MISS Butler 6' Driving Layup,79-65,79,65
+0021900936,2020-03-06,NOP,MIA,31.65,3,4,21,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:3 Def:5),79-65,79,65
 0021900936,2020-03-06,NOP,MIA,31.65,3,4,21,MIA,MIA,fg_miss,97,False,False,,MISS Adebayo 2' Tip Layup Shot,79-65,79,65
 0021900936,2020-03-06,NOP,MIA,31.65,3,4,21,MIA,MIA,reb,0,False,False,,Butler REBOUND (Off:2 Def:2),79-65,79,65
-0021900936,2020-03-06,NOP,MIA,31.65,3,4,21,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:3 Def:5),79-65,79,65
 0021900936,2020-03-06,NOP,MIA,31.67,3,4,20,MIA,MIA,fg3_miss,1,False,False,,MISS Robinson 26' 3PT Jump Shot,79-65,79,65
 0021900936,2020-03-06,NOP,MIA,31.73,3,4,16,NOP,NOP,reb,0,False,False,Melli REBOUND (Off:0 Def:1),,79-65,79,65
 0021900936,2020-03-06,NOP,MIA,31.98,3,4,1,NOP,NOP,tov,1,False,True,Holiday Bad Pass Turnover (P1.T11),,79-65,79,65
@@ -379,8 +379,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900936,2020-03-06,NOP,MIA,36.38,4,11,37,MIA,MIA,fg3_miss,1,False,False,,MISS Dragic 26' 3PT Jump Shot,89-74,89,74
 0021900936,2020-03-06,NOP,MIA,36.45,4,11,33,MIA,MIA,reb,0,False,False,,Olynyk REBOUND (Off:1 Def:2),89-74,89,74
 0021900936,2020-03-06,NOP,MIA,36.48,4,11,31,MIA,MIA,fg_miss,72,True,False,,MISS Olynyk 3' Putback Layup,89-74,89,74
-0021900936,2020-03-06,NOP,MIA,36.48,4,11,31,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:2 Def:9),,89-74,89,74
 0021900936,2020-03-06,NOP,MIA,36.48,4,11,31,MIA,NOP,block,72,True,False,block,block,89-74,89,74
+0021900936,2020-03-06,NOP,MIA,36.48,4,11,31,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:2 Def:9),,89-74,89,74
 0021900936,2020-03-06,NOP,MIA,36.53,4,11,28,NOP,NOP,tov,2,False,True,Hart Lost Ball Turnover (P3.T12),,89-74,89,74
 0021900936,2020-03-06,NOP,MIA,36.53,4,11,28,NOP,MIA,steal,2,False,True,steal,steal,89-74,89,74
 0021900936,2020-03-06,NOP,MIA,36.6,4,11,24,MIA,MIA,fg3_make,2,False,False,,Robinson 26' 3PT Running Jump Shot (15 PTS) (Iguodala 2 AST),89-77,89,77
@@ -411,8 +411,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900936,2020-03-06,NOP,MIA,39.87,4,8,8,NOP,NOP,fg_miss,63,False,False,MISS Holiday 9' Fadeaway Jumper,,93-81,93,81
 0021900936,2020-03-06,NOP,MIA,39.9,4,8,6,MIA,MIA,reb,0,False,False,,Robinson REBOUND (Off:0 Def:4),93-81,93,81
 0021900936,2020-03-06,NOP,MIA,40.02,4,7,59,MIA,MIA,fg_miss,6,True,False,,MISS Adebayo 3' Driving Layup,93-81,93,81
-0021900936,2020-03-06,NOP,MIA,40.02,4,7,59,NOP,NOP,reb,0,False,False,PELICANS Rebound,,93-81,93,81
 0021900936,2020-03-06,NOP,MIA,40.02,4,7,59,MIA,NOP,block,6,True,False,block,block,93-81,93,81
+0021900936,2020-03-06,NOP,MIA,40.02,4,7,59,NOP,NOP,reb,0,False,False,PELICANS Rebound,,93-81,93,81
 0021900936,2020-03-06,NOP,MIA,40.27,4,7,44,NOP,NOP,tov,2,False,True,Williamson Lost Ball Turnover (P2.T13),,93-81,93,81
 0021900936,2020-03-06,NOP,MIA,40.27,4,7,44,NOP,MIA,steal,2,False,True,steal,steal,93-81,93,81
 0021900936,2020-03-06,NOP,MIA,40.35,4,7,39,MIA,MIA,tov,2,False,True,,S. Hill Lost Ball Turnover (P2.T14),93-81,93,81
@@ -456,8 +456,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900936,2020-03-06,NOP,MIA,44.8,4,3,12,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 5 Short 0),,100-99,100,99
 0021900936,2020-03-06,NOP,MIA,45.18,4,2,49,NOP,NOP,fg_make,79,False,False,Ingram 20' Pullup Jump Shot (9 PTS) (Favors 1 AST),,102-99,102,99
 0021900936,2020-03-06,NOP,MIA,45.47,4,2,32,MIA,MIA,fg_miss,6,True,False,,MISS Butler 4' Driving Layup,102-99,102,99
-0021900936,2020-03-06,NOP,MIA,45.47,4,2,32,MIA,MIA,reb,0,False,False,,Heat Rebound,102-99,102,99
 0021900936,2020-03-06,NOP,MIA,45.47,4,2,32,MIA,NOP,block,6,True,False,block,block,102-99,102,99
+0021900936,2020-03-06,NOP,MIA,45.47,4,2,32,MIA,MIA,reb,0,False,False,,Heat Rebound,102-99,102,99
 0021900936,2020-03-06,NOP,MIA,45.52,4,2,29,MIA,MIA,fg3_miss,1,False,False,,MISS Robinson 26' 3PT Jump Shot,102-99,102,99
 0021900936,2020-03-06,NOP,MIA,45.6,4,2,24,NOP,NOP,reb,0,False,False,Ball REBOUND (Off:2 Def:7),,102-99,102,99
 0021900936,2020-03-06,NOP,MIA,45.8,4,2,12,NOP,NOP,tov,4,False,False,Williamson Traveling Turnover (P3.T16),,102-99,102,99
@@ -481,8 +481,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900936,2020-03-06,NOP,MIA,47.73,4,0,16,NOP,NOP,ft_miss,12,False,False,MISS Ball Free Throw 2 of 2,,106-100,106,100
 0021900936,2020-03-06,NOP,MIA,47.77,4,0,14,NOP,NOP,reb,0,False,False,Melli REBOUND (Off:2 Def:1),,106-100,106,100
 0021900936,2020-03-06,NOP,MIA,47.77,4,0,14,NOP,NOP,tov,2,False,True,Melli Lost Ball Turnover (P1.T17),,106-100,106,100
-0021900936,2020-03-06,NOP,MIA,47.77,4,0,14,MIA,NOP,foul,1,False,False,Melli P.FOUL (P3.PN) (J.Williams),,106-100,106,100
 0021900936,2020-03-06,NOP,MIA,47.77,4,0,14,NOP,MIA,steal,2,False,True,steal,steal,106-100,106,100
+0021900936,2020-03-06,NOP,MIA,47.77,4,0,14,MIA,NOP,foul,1,False,False,Melli P.FOUL (P3.PN) (J.Williams),,106-100,106,100
 0021900936,2020-03-06,NOP,MIA,47.77,4,0,14,MIA,MIA,ft_make,11,False,False,,S. Hill Free Throw 1 of 2 (4 PTS),106-101,106,101
 0021900936,2020-03-06,NOP,MIA,47.77,4,0,14,MIA,MIA,ft_make,12,False,False,,S. Hill Free Throw 2 of 2 (5 PTS),106-102,106,102
 0021900936,2020-03-06,NOP,MIA,47.93,4,0,4,NOP,MIA,foul,28,False,False,,Adebayo Personal Take Foul (P6.PN) (B.Kennedy),106-102,106,102

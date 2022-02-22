@@ -114,10 +114,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700485,2017-12-23,BOS,CHI,14.38,2,9,37,BOS,BOS,timeout,1,False,False,CELTICS Timeout: Regular (Full 2 Short 0),,35-37,35,37
 0021700485,2017-12-23,BOS,CHI,14.73,2,9,16,BOS,BOS,fg3_make,1,False,False,Ojeleye 24' 3PT Jump Shot (6 PTS) (Rozier 2 AST),,38-37,38,37
 0021700485,2017-12-23,BOS,CHI,15.07,2,8,56,CHI,CHI,fg_miss,6,True,False,,MISS Mirotic 5' Driving Layup,38-37,38,37
+0021700485,2017-12-23,BOS,CHI,15.07,2,8,56,CHI,BOS,block,6,True,False,block,block,38-37,38,37
 0021700485,2017-12-23,BOS,CHI,15.07,2,8,56,CHI,CHI,reb,0,False,False,,Zipser REBOUND (Off:1 Def:1),38-37,38,37
 0021700485,2017-12-23,BOS,CHI,15.07,2,8,56,CHI,CHI,fg_miss,5,False,False,,MISS Zipser 1' Layup,38-37,38,37
 0021700485,2017-12-23,BOS,CHI,15.07,2,8,56,BOS,BOS,reb,0,False,False,CELTICS Rebound,,38-37,38,37
-0021700485,2017-12-23,BOS,CHI,15.07,2,8,56,CHI,BOS,block,6,True,False,block,block,38-37,38,37
 0021700485,2017-12-23,BOS,CHI,15.33,2,8,40,BOS,BOS,fg3_miss,1,False,False,MISS Ojeleye 28' 3PT Jump Shot,,38-37,38,37
 0021700485,2017-12-23,BOS,CHI,15.33,2,8,40,BOS,BOS,reb,0,False,False,Theis REBOUND (Off:3 Def:1),,38-37,38,37
 0021700485,2017-12-23,BOS,CHI,15.43,2,8,34,BOS,BOS,fg_miss,108,False,False,MISS Ojeleye 2' Cutting Dunk Shot,,38-37,38,37
@@ -402,8 +402,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700485,2017-12-23,BOS,CHI,44.65,4,3,21,CHI,CHI,fg3_make,1,False,False,,Grant 3PT Jump Shot (10 PTS) (Zipser 1 AST),109-89,109,89
 0021700485,2017-12-23,BOS,CHI,45.08,4,2,55,BOS,BOS,fg_make,73,False,False,Tatum 2' Driving Reverse Layup (13 PTS),,111-89,111,89
 0021700485,2017-12-23,BOS,CHI,45.18,4,2,49,CHI,CHI,fg_miss,41,True,False,,MISS Pondexter 2' Running Layup,111-89,111,89
-0021700485,2017-12-23,BOS,CHI,45.18,4,2,49,CHI,CHI,reb,0,False,False,,Bulls Rebound,111-89,111,89
 0021700485,2017-12-23,BOS,CHI,45.18,4,2,49,CHI,BOS,block,41,True,False,block,block,111-89,111,89
+0021700485,2017-12-23,BOS,CHI,45.18,4,2,49,CHI,CHI,reb,0,False,False,,Bulls Rebound,111-89,111,89
 0021700485,2017-12-23,BOS,CHI,45.25,4,2,45,CHI,CHI,tov,1,False,True,,Grant Bad Pass Turnover (P1.T14),111-89,111,89
 0021700485,2017-12-23,BOS,CHI,45.25,4,2,45,CHI,BOS,steal,1,False,True,steal,steal,111-89,111,89
 0021700485,2017-12-23,BOS,CHI,45.35,4,2,39,BOS,BOS,fg_make,9,False,False,Rozier 1' Driving Dunk (6 PTS) (Theis 2 AST),,113-89,113,89

@@ -43,8 +43,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800093,2018-10-29,MIN,LAL,4.62,1,7,23,LAL,LAL,fg_make,9,False,False,,Kuzma 1' Driving Dunk (11 PTS) (Ball 1 AST),16-13,16,13
 0021800093,2018-10-29,MIN,LAL,4.92,1,7,5,MIN,MIN,fg_make,43,False,False,Butler 2' Alley Oop Layup (6 PTS) (Towns 1 AST),,18-13,18,13
 0021800093,2018-10-29,MIN,LAL,5.02,1,6,59,LAL,LAL,fg_miss,5,True,False,,MISS Ingram 2' Layup,18-13,18,13
-0021800093,2018-10-29,MIN,LAL,5.02,1,6,59,MIN,MIN,reb,0,False,False,Teague REBOUND (Off:0 Def:1),,18-13,18,13
 0021800093,2018-10-29,MIN,LAL,5.02,1,6,59,LAL,MIN,block,5,True,False,block,block,18-13,18,13
+0021800093,2018-10-29,MIN,LAL,5.02,1,6,59,MIN,MIN,reb,0,False,False,Teague REBOUND (Off:0 Def:1),,18-13,18,13
 0021800093,2018-10-29,MIN,LAL,5.03,1,6,58,MIN,,foul,11,False,False,,,18-13,18,13
 0021800093,2018-10-29,MIN,LAL,5.03,1,6,58,MIN,MIN,timeout,1,False,False,TIMBERWOLVES Timeout: Regular (Full 1 Short 0),,18-13,18,13
 0021800093,2018-10-29,MIN,LAL,5.03,1,6,58,MIN,MIN,ft_make,16,False,False,Teague Free Throw Technical (1 PTS),,19-13,19,13
@@ -204,8 +204,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800093,2018-10-29,MIN,LAL,19.32,2,4,41,MIN,MIN,fg_miss,101,False,False,MISS Teague 7' Driving Floating Jump Shot,,54-54,54,54
 0021800093,2018-10-29,MIN,LAL,19.33,2,4,40,MIN,MIN,reb,0,False,False,Towns REBOUND (Off:5 Def:1),,54-54,54,54
 0021800093,2018-10-29,MIN,LAL,19.35,2,4,39,MIN,MIN,fg_miss,97,True,False,MISS Towns 4' Tip Layup Shot,,54-54,54,54
-0021800093,2018-10-29,MIN,LAL,19.35,2,4,39,MIN,MIN,reb,0,False,False,Towns REBOUND (Off:4 Def:1),,54-54,54,54
 0021800093,2018-10-29,MIN,LAL,19.35,2,4,39,MIN,LAL,block,97,True,False,block,block,54-54,54,54
+0021800093,2018-10-29,MIN,LAL,19.35,2,4,39,MIN,MIN,reb,0,False,False,Towns REBOUND (Off:4 Def:1),,54-54,54,54
 0021800093,2018-10-29,MIN,LAL,19.37,2,4,38,MIN,MIN,fg_miss,5,False,False,MISS Towns 3' Layup,,54-54,54,54
 0021800093,2018-10-29,MIN,LAL,19.38,2,4,37,MIN,MIN,reb,0,False,False,Towns REBOUND (Off:6 Def:1),,54-54,54,54
 0021800093,2018-10-29,MIN,LAL,19.4,2,4,36,MIN,MIN,fg_make,5,False,False,Towns 2' Layup (12 PTS),,56-54,56,54
@@ -266,8 +266,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800093,2018-10-29,MIN,LAL,24.27,3,11,44,LAL,LAL,fg_miss,6,False,False,,MISS Ingram 1' Driving Layup,64-66,64,66
 0021800093,2018-10-29,MIN,LAL,24.32,3,11,41,LAL,LAL,reb,0,False,False,,Ingram REBOUND (Off:3 Def:1),64-66,64,66
 0021800093,2018-10-29,MIN,LAL,24.33,3,11,40,LAL,LAL,fg_miss,97,False,False,,MISS Ingram 1' Tip Layup Shot,64-66,64,66
-0021800093,2018-10-29,MIN,LAL,24.35,3,11,39,LAL,LAL,reb,0,False,False,,Ingram REBOUND (Off:2 Def:1),64-66,64,66
 0021800093,2018-10-29,MIN,LAL,24.35,3,11,39,LAL,LAL,fg_make,97,False,False,,Ingram 1' Tip Layup Shot (19 PTS),64-68,64,68
+0021800093,2018-10-29,MIN,LAL,24.35,3,11,39,LAL,LAL,reb,0,False,False,,Ingram REBOUND (Off:2 Def:1),64-66,64,66
 0021800093,2018-10-29,MIN,LAL,24.67,3,11,20,MIN,MIN,fg_miss,5,False,False,MISS Gibson 2' Layup,,64-68,64,68
 0021800093,2018-10-29,MIN,LAL,24.72,3,11,17,MIN,MIN,reb,0,False,False,Gibson REBOUND (Off:2 Def:1),,64-68,64,68
 0021800093,2018-10-29,MIN,LAL,24.72,3,11,17,MIN,LAL,foul,2,False,False,,Kuzma S.FOUL (P2.T1) (A.Smith),64-68,64,68
@@ -294,16 +294,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800093,2018-10-29,MIN,LAL,27.22,3,8,47,MIN,MIN,fg3_miss,1,False,False,MISS Okogie 25' 3PT Jump Shot,,71-74,71,74
 0021800093,2018-10-29,MIN,LAL,27.27,3,8,44,MIN,MIN,reb,0,False,False,Gibson REBOUND (Off:3 Def:1),,71-74,71,74
 0021800093,2018-10-29,MIN,LAL,27.45,3,8,33,MIN,MIN,fg3_miss,1,False,False,MISS Towns 25' 3PT Jump Shot,,71-74,71,74
-0021800093,2018-10-29,MIN,LAL,27.47,3,8,32,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,71-74,71,74
 0021800093,2018-10-29,MIN,LAL,27.47,3,8,32,MIN,MIN,tov,11,False,False,TIMBERWOLVES Turnover: Shot Clock (T#12),,71-74,71,74
+0021800093,2018-10-29,MIN,LAL,27.47,3,8,32,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,71-74,71,74
 0021800093,2018-10-29,MIN,LAL,27.65,3,8,21,LAL,LAL,fg3_miss,1,False,False,,MISS Ball 25' 3PT Jump Shot,71-74,71,74
 0021800093,2018-10-29,MIN,LAL,27.7,3,8,18,MIN,MIN,reb,0,False,False,Okogie REBOUND (Off:0 Def:4),,71-74,71,74
 0021800093,2018-10-29,MIN,LAL,27.88,3,8,7,MIN,MIN,fg_miss,1,False,False,MISS Towns 13' Jump Shot,,71-74,71,74
 0021800093,2018-10-29,MIN,LAL,27.92,3,8,5,MIN,MIN,reb,0,False,False,Towns REBOUND (Off:7 Def:3),,71-74,71,74
 0021800093,2018-10-29,MIN,LAL,27.95,3,8,3,MIN,MIN,fg_make,5,False,False,Towns 1' Layup (14 PTS),,73-74,73,74
 0021800093,2018-10-29,MIN,LAL,28.12,3,7,53,LAL,LAL,fg_miss,5,True,False,,MISS Kuzma 2' Layup,73-74,73,74
-0021800093,2018-10-29,MIN,LAL,28.12,3,7,53,LAL,LAL,reb,0,False,False,,Lakers Rebound,73-74,73,74
 0021800093,2018-10-29,MIN,LAL,28.12,3,7,53,LAL,MIN,block,5,True,False,block,block,73-74,73,74
+0021800093,2018-10-29,MIN,LAL,28.12,3,7,53,LAL,LAL,reb,0,False,False,,Lakers Rebound,73-74,73,74
 0021800093,2018-10-29,MIN,LAL,28.15,3,7,51,LAL,LAL,fg_miss,44,True,False,,MISS James 1' Reverse Layup,73-74,73,74
 0021800093,2018-10-29,MIN,LAL,28.15,3,7,51,LAL,MIN,block,44,True,False,block,block,73-74,73,74
 0021800093,2018-10-29,MIN,LAL,28.2,3,7,48,MIN,MIN,reb,0,False,False,Teague REBOUND (Off:0 Def:2),,73-74,73,74
@@ -454,8 +454,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800093,2018-10-29,MIN,LAL,44.03,4,3,58,MIN,MIN,fg_miss,79,False,False,MISS Towns 19' Pullup Jump Shot,,119-112,119,112
 0021800093,2018-10-29,MIN,LAL,44.08,4,3,55,MIN,MIN,reb,0,False,False,Gibson REBOUND (Off:4 Def:1),,119-112,119,112
 0021800093,2018-10-29,MIN,LAL,44.1,4,3,54,MIN,MIN,fg_miss,5,True,False,MISS Gibson 2' Layup,,119-112,119,112
-0021800093,2018-10-29,MIN,LAL,44.1,4,3,54,LAL,LAL,reb,0,False,False,,Lakers Rebound,119-112,119,112
 0021800093,2018-10-29,MIN,LAL,44.1,4,3,54,MIN,LAL,block,5,True,False,block,block,119-112,119,112
+0021800093,2018-10-29,MIN,LAL,44.1,4,3,54,LAL,LAL,reb,0,False,False,,Lakers Rebound,119-112,119,112
 0021800093,2018-10-29,MIN,LAL,44.2,4,3,48,LAL,LAL,fg_miss,44,False,False,,MISS James 1' Reverse Layup,119-112,119,112
 0021800093,2018-10-29,MIN,LAL,44.27,4,3,44,LAL,LAL,reb,0,False,False,,James REBOUND (Off:3 Def:5),119-112,119,112
 0021800093,2018-10-29,MIN,LAL,44.28,4,3,43,LAL,LAL,fg3_miss,1,False,False,,MISS Ingram 24' 3PT Jump Shot,119-112,119,112
@@ -479,9 +479,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800093,2018-10-29,MIN,LAL,46.03,4,1,58,MIN,LAL,block,80,True,False,block,block,119-115,119,115
 0021800093,2018-10-29,MIN,LAL,46.08,4,1,55,LAL,LAL,reb,0,False,False,,James REBOUND (Off:3 Def:7),119-115,119,115
 0021800093,2018-10-29,MIN,LAL,46.12,4,1,53,LAL,LAL,fg_miss,6,True,False,,MISS Ingram 1' Driving Layup,119-115,119,115
+0021800093,2018-10-29,MIN,LAL,46.12,4,1,53,LAL,MIN,block,6,True,False,block,block,119-115,119,115
 0021800093,2018-10-29,MIN,LAL,46.12,4,1,53,LAL,LAL,reb,0,False,False,,Lakers Rebound,119-115,119,115
 0021800093,2018-10-29,MIN,LAL,46.12,4,1,53,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.6 Short 0),119-115,119,115
-0021800093,2018-10-29,MIN,LAL,46.12,4,1,53,LAL,MIN,block,6,True,False,block,block,119-115,119,115
 0021800093,2018-10-29,MIN,LAL,46.28,4,1,43,LAL,LAL,tov,13,False,False,,James Backcourt Turnover (P5.T18),119-115,119,115
 0021800093,2018-10-29,MIN,LAL,46.55,4,1,27,MIN,MIN,tov,4,False,False,Rose Traveling Turnover (P2.T15),,119-115,119,115
 0021800093,2018-10-29,MIN,LAL,46.7,4,1,18,LAL,LAL,fg_make,6,False,False,,James 1' Driving Layup (29 PTS),119-117,119,117
@@ -496,8 +496,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800093,2018-10-29,MIN,LAL,47.73,4,0,16,LAL,LAL,fg3_miss,1,False,False,,MISS James 3PT Jump Shot,122-117,122,117
 0021800093,2018-10-29,MIN,LAL,47.78,4,0,13,LAL,LAL,reb,0,False,False,,Hart REBOUND (Off:2 Def:4),122-117,122,117
 0021800093,2018-10-29,MIN,LAL,47.78,4,0,13,LAL,LAL,fg_miss,5,True,False,,MISS Hart 1' Layup,122-117,122,117
-0021800093,2018-10-29,MIN,LAL,47.78,4,0,13,LAL,LAL,reb,0,False,False,,Lakers Rebound,122-117,122,117
 0021800093,2018-10-29,MIN,LAL,47.78,4,0,13,LAL,MIN,block,5,True,False,block,block,122-117,122,117
+0021800093,2018-10-29,MIN,LAL,47.78,4,0,13,LAL,LAL,reb,0,False,False,,Lakers Rebound,122-117,122,117
 0021800093,2018-10-29,MIN,LAL,47.82,4,0,11,LAL,LAL,fg3_miss,1,False,False,,MISS Hart 24' 3PT Jump Shot,122-117,122,117
 0021800093,2018-10-29,MIN,LAL,47.87,4,0,8,MIN,MIN,reb,0,False,False,Towns REBOUND (Off:9 Def:7),,122-117,122,117
 0021800093,2018-10-29,MIN,LAL,47.87,4,0,8,MIN,LAL,foul,28,False,False,,Rondo Personal Take Foul (P2.PN) (M.Lindsay),122-117,122,117

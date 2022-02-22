@@ -215,8 +215,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901317,2020-08-14,LAC,OKC,22.77,2,1,14,LAC,LAC,tov,45,False,False,Coffey Out of Bounds - Bad Pass Turnover Turnover (P2.T9),,35-39,35,39
 0021901317,2020-08-14,LAC,OKC,23.0,2,1,0,OKC,OKC,fg3_make,1,False,False,,Schroder 29' 3PT Jump Shot (14 PTS),35-42,35,42
 0021901317,2020-08-14,LAC,OKC,23.28,2,0,43,LAC,LAC,fg_miss,6,True,False,MISS McGruder 5' Driving Layup,,35-42,35,42
-0021901317,2020-08-14,LAC,OKC,23.28,2,0,43,LAC,LAC,reb,0,False,False,McGruder REBOUND (Off:2 Def:1),,35-42,35,42
 0021901317,2020-08-14,LAC,OKC,23.28,2,0,43,LAC,OKC,block,6,True,False,block,block,35-42,35,42
+0021901317,2020-08-14,LAC,OKC,23.28,2,0,43,LAC,LAC,reb,0,False,False,McGruder REBOUND (Off:2 Def:1),,35-42,35,42
 0021901317,2020-08-14,LAC,OKC,23.42,2,0,35,LAC,LAC,tov,11,False,False,CLIPPERS Turnover: Shot Clock (T#10),,35-42,35,42
 0021901317,2020-08-14,LAC,OKC,23.47,2,0,32,OKC,OKC,fg3_make,79,False,False,,Schroder 27' 3PT Pullup Jump Shot (17 PTS),35-45,35,45
 0021901317,2020-08-14,LAC,OKC,23.68,2,0,19,LAC,LAC,fg3_miss,1,False,False,MISS McGruder 25' 3PT Jump Shot,,35-45,35,45
@@ -377,11 +377,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901317,2020-08-14,LAC,OKC,40.33,4,7,40,OKC,OKC,fg3_make,1,False,False,,Hall 25' 3PT Jump Shot (7 PTS) (Bazley 1 AST),74-78,74,78
 0021901317,2020-08-14,LAC,OKC,40.75,4,7,15,LAC,OKC,foul,1,False,False,,Diallo P.FOUL (P1.T1) (N.Buchert),74-78,74,78
 0021901317,2020-08-14,LAC,OKC,40.93,4,7,4,LAC,LAC,tov,45,False,False,Patterson Out of Bounds - Bad Pass Turnover Turnover (P2.T18),,74-78,74,78
-0021901317,2020-08-14,LAC,OKC,41.22,4,6,47,OKC,LAC,foul,1,False,False,Mann P.FOUL (P4.T1) (N.Buchert),,74-78,74,78
+0021901317,2020-08-14,LAC,OKC,41.22,4,6,47,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.6 Short 0),74-80,74,80
 0021901317,2020-08-14,LAC,OKC,41.22,4,6,47,OKC,OKC,fg_make,1,False,False,,Bazley 1' Jump Shot (6 PTS),74-80,74,80
+0021901317,2020-08-14,LAC,OKC,41.22,4,6,47,OKC,LAC,foul,1,False,False,Mann P.FOUL (P4.T1) (N.Buchert),,74-78,74,78
 0021901317,2020-08-14,LAC,OKC,41.22,4,6,47,OKC,OKC,ft_miss,10,False,False,,MISS Bazley Free Throw 1 of 1,74-80,74,80
 0021901317,2020-08-14,LAC,OKC,41.22,4,6,47,LAC,LAC,reb,0,False,False,Green REBOUND (Off:0 Def:8),,74-80,74,80
-0021901317,2020-08-14,LAC,OKC,41.22,4,6,47,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.6 Short 0),74-80,74,80
 0021901317,2020-08-14,LAC,OKC,41.57,4,6,26,LAC,LAC,fg3_miss,1,False,False,MISS McGruder 26' 3PT Jump Shot,,74-80,74,80
 0021901317,2020-08-14,LAC,OKC,41.63,4,6,22,OKC,OKC,reb,0,False,False,,Burton REBOUND (Off:1 Def:3),74-80,74,80
 0021901317,2020-08-14,LAC,OKC,41.73,4,6,16,OKC,OKC,fg_miss,101,False,False,,MISS Bazley 12' Driving Floating Jump Shot,74-80,74,80
@@ -426,8 +426,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901317,2020-08-14,LAC,OKC,45.27,4,2,44,LAC,LAC,reb,0,False,False,McGruder REBOUND (Off:3 Def:5),,86-85,86,85
 0021901317,2020-08-14,LAC,OKC,45.48,4,2,31,LAC,LAC,fg3_miss,1,False,False,MISS Coffey 25' 3PT Jump Shot,,86-85,86,85
 0021901317,2020-08-14,LAC,OKC,45.53,4,2,28,OKC,OKC,reb,0,False,False,,Roberson REBOUND (Off:0 Def:4),86-85,86,85
-0021901317,2020-08-14,LAC,OKC,45.67,4,2,20,OKC,OKC,tov,2,False,True,,Burton Lost Ball Turnover (P3.T15),86-85,86,85
 0021901317,2020-08-14,LAC,OKC,45.67,4,2,20,,LAC,jump_ball,0,False,False,Jump Ball Noah vs. Hall: Tip to Diallo,,86-85,86,85
+0021901317,2020-08-14,LAC,OKC,45.67,4,2,20,OKC,OKC,tov,2,False,True,,Burton Lost Ball Turnover (P3.T15),86-85,86,85
 0021901317,2020-08-14,LAC,OKC,45.67,4,2,20,OKC,LAC,steal,2,False,True,steal,steal,86-85,86,85
 0021901317,2020-08-14,LAC,OKC,45.68,4,2,19,LAC,LAC,tov,2,False,True,Noah Lost Ball Turnover (P3.T21),,86-85,86,85
 0021901317,2020-08-14,LAC,OKC,45.68,4,2,19,LAC,OKC,steal,2,False,True,steal,steal,86-85,86,85

@@ -23,8 +23,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800309,2018-11-28,HOU,DAL,3.15,1,8,51,DAL,DAL,reb,0,False,False,,Jordan REBOUND (Off:1 Def:1),9-5,9,5
 0021800309,2018-11-28,HOU,DAL,3.52,1,8,29,DAL,DAL,fg3_make,80,False,False,,Doncic 24' 3PT Step Back Jump Shot (6 PTS),9-8,9,8
 0021800309,2018-11-28,HOU,DAL,3.62,1,8,23,HOU,HOU,fg_miss,6,True,False,MISS Ennis III 1' Driving Layup,,9-8,9,8
-0021800309,2018-11-28,HOU,DAL,3.62,1,8,23,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,9-8,9,8
 0021800309,2018-11-28,HOU,DAL,3.62,1,8,23,HOU,DAL,block,6,True,False,block,block,9-8,9,8
+0021800309,2018-11-28,HOU,DAL,3.62,1,8,23,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,9-8,9,8
 0021800309,2018-11-28,HOU,DAL,3.68,1,8,19,HOU,HOU,fg3_miss,1,False,False,MISS Harden 26' 3PT Jump Shot,,9-8,9,8
 0021800309,2018-11-28,HOU,DAL,3.75,1,8,15,DAL,DAL,reb,0,False,False,,Doncic REBOUND (Off:0 Def:2),9-8,9,8
 0021800309,2018-11-28,HOU,DAL,3.85,1,8,9,DAL,DAL,fg3_miss,1,False,False,,MISS Matthews 3PT Jump Shot,9-8,9,8
@@ -133,8 +133,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800309,2018-11-28,HOU,DAL,14.47,2,9,32,DAL,HOU,foul,1,False,False,Hartenstein P.FOUL (P2.T3) (M.Boland),,34-45,34,45
 0021800309,2018-11-28,HOU,DAL,14.63,2,9,22,DAL,DAL,fg_make,98,False,False,,Matthews 2' Cutting Layup Shot (6 PTS) (Barea 5 AST),34-47,34,47
 0021800309,2018-11-28,HOU,DAL,14.82,2,9,11,HOU,HOU,fg_miss,6,True,False,MISS Gordon 8' Driving Layup,,34-47,34,47
-0021800309,2018-11-28,HOU,DAL,14.82,2,9,11,DAL,DAL,reb,0,False,False,,Mavericks Rebound,34-47,34,47
 0021800309,2018-11-28,HOU,DAL,14.82,2,9,11,HOU,DAL,block,6,True,False,block,block,34-47,34,47
+0021800309,2018-11-28,HOU,DAL,14.82,2,9,11,DAL,DAL,reb,0,False,False,,Mavericks Rebound,34-47,34,47
 0021800309,2018-11-28,HOU,DAL,15.03,2,8,58,DAL,DAL,fg_make,6,False,False,,Barea 2' Driving Layup (7 PTS),34-49,34,49
 0021800309,2018-11-28,HOU,DAL,15.28,2,8,43,HOU,HOU,fg_make,43,False,False,Capela 1' Alley Oop Layup (10 PTS) (Harden 6 AST),,36-49,36,49
 0021800309,2018-11-28,HOU,DAL,15.57,2,8,26,DAL,DAL,fg3_make,1,False,False,,Matthews 26' 3PT Jump Shot (9 PTS) (Barea 6 AST),36-52,36,52
@@ -157,12 +157,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800309,2018-11-28,HOU,DAL,18.02,2,5,59,HOU,DAL,steal,1,False,True,steal,steal,41-57,41,57
 0021800309,2018-11-28,HOU,DAL,18.13,2,5,52,DAL,DAL,fg_make,9,False,False,,Smith Jr. 1' Driving Dunk (4 PTS),41-59,41,59
 0021800309,2018-11-28,HOU,DAL,18.33,2,5,40,HOU,HOU,tov,2,False,True,Harden Lost Ball Turnover (P5.T6),,41-59,41,59
+0021800309,2018-11-28,HOU,DAL,18.33,2,5,40,HOU,DAL,steal,2,False,True,steal,steal,41-59,41,59
 0021800309,2018-11-28,HOU,DAL,18.33,2,5,40,DAL,HOU,foul,9,False,False,Tucker C.P.FOUL (P2.PN) (M.Boland),,41-59,41,59
-0021800309,2018-11-28,HOU,DAL,18.33,2,5,40,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 2 Short 0),,41-59,41,59
 0021800309,2018-11-28,HOU,DAL,18.33,2,5,40,DAL,DAL,ft_miss,25,False,False,,MISS Smith Jr. Free Throw Clear Path 1 of 2,41-59,41,59
 0021800309,2018-11-28,HOU,DAL,18.33,2,5,40,DAL,DAL,reb,1,False,False,,Mavericks Rebound,41-59,41,59
-0021800309,2018-11-28,HOU,DAL,18.33,2,5,40,HOU,DAL,steal,2,False,True,steal,steal,41-59,41,59
 0021800309,2018-11-28,HOU,DAL,18.33,2,5,40,DAL,DAL,ft_make,26,False,False,,Smith Jr. Free Throw Clear Path 2 of 2 (5 PTS),41-60,41,60
+0021800309,2018-11-28,HOU,DAL,18.33,2,5,40,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 2 Short 0),,41-59,41,59
 0021800309,2018-11-28,HOU,DAL,18.48,2,5,31,DAL,DAL,fg_miss,1,False,False,,MISS Barnes 20' Jump Shot,41-60,41,60
 0021800309,2018-11-28,HOU,DAL,18.53,2,5,28,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:0 Def:6),,41-60,41,60
 0021800309,2018-11-28,HOU,DAL,18.62,2,5,23,HOU,HOU,fg3_miss,1,False,False,MISS Harden 26' 3PT Jump Shot,,41-60,41,60
@@ -254,8 +254,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800309,2018-11-28,HOU,DAL,27.62,3,8,23,DAL,DAL,fg3_miss,1,False,False,,MISS Matthews 26' 3PT Jump Shot,67-79,67,79
 0021800309,2018-11-28,HOU,DAL,27.67,3,8,20,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:0 Def:8),,67-79,67,79
 0021800309,2018-11-28,HOU,DAL,27.83,3,8,10,HOU,HOU,fg_miss,6,True,False,MISS Harden 4' Driving Layup,,67-79,67,79
-0021800309,2018-11-28,HOU,DAL,27.83,3,8,10,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,67-79,67,79
 0021800309,2018-11-28,HOU,DAL,27.83,3,8,10,HOU,DAL,block,6,True,False,block,block,67-79,67,79
+0021800309,2018-11-28,HOU,DAL,27.83,3,8,10,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,67-79,67,79
 0021800309,2018-11-28,HOU,DAL,28.0,3,8,0,HOU,HOU,fg_make,79,False,False,Ennis III 7' Pullup Jump Shot (16 PTS) (Gordon 3 AST),,69-79,69,79
 0021800309,2018-11-28,HOU,DAL,28.22,3,7,47,DAL,DAL,fg_make,67,False,False,,Jordan 6' Hook Bank Shot (12 PTS),69-81,69,81
 0021800309,2018-11-28,HOU,DAL,28.45,3,7,33,HOU,HOU,tov,2,False,True,Gordon Lost Ball Turnover (P2.T10),,69-81,69,81
@@ -341,10 +341,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800309,2018-11-28,HOU,DAL,38.68,4,9,19,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 3 Short 0),,91-106,91,106
 0021800309,2018-11-28,HOU,DAL,38.92,4,9,5,HOU,DAL,foul,2,False,False,,Kleber S.FOUL (P3.T1) (M.Boland),91-106,91,106
 0021800309,2018-11-28,HOU,DAL,38.92,4,9,5,HOU,HOU,ft_miss,11,False,False,MISS Capela Free Throw 1 of 2,,91-106,91,106
-0021800309,2018-11-28,HOU,DAL,38.92,4,9,5,HOU,DAL,violation,3,False,False,,Lane,91-106,91,106
-0021800309,2018-11-28,HOU,DAL,38.92,4,9,5,HOU,HOU,ft_miss,12,False,False,MISS Capela Free Throw 2 of 2,,91-106,91,106
-0021800309,2018-11-28,HOU,DAL,38.92,4,9,5,HOU,HOU,reb,0,False,False,Tucker REBOUND (Off:2 Def:2),,91-106,91,106
 0021800309,2018-11-28,HOU,DAL,38.92,4,9,5,HOU,HOU,reb,1,False,False,ROCKETS Rebound,,91-106,91,106
+0021800309,2018-11-28,HOU,DAL,38.92,4,9,5,HOU,HOU,ft_miss,12,False,False,MISS Capela Free Throw 2 of 2,,91-106,91,106
+0021800309,2018-11-28,HOU,DAL,38.92,4,9,5,HOU,DAL,violation,3,False,False,,Lane,91-106,91,106
+0021800309,2018-11-28,HOU,DAL,38.92,4,9,5,HOU,HOU,reb,0,False,False,Tucker REBOUND (Off:2 Def:2),,91-106,91,106
 0021800309,2018-11-28,HOU,DAL,39.17,4,8,50,HOU,HOU,fg_make,71,False,False,Capela 3' Finger Roll Layup (16 PTS) (Harden 17 AST),,93-106,93,106
 0021800309,2018-11-28,HOU,DAL,39.35,4,8,39,DAL,HOU,foul,2,False,False,Ennis III S.FOUL (P4.T2) (L.Wood),,93-106,93,106
 0021800309,2018-11-28,HOU,DAL,39.35,4,8,39,DAL,DAL,ft_make,13,False,False,,Harris Free Throw 1 of 3 (9 PTS),93-107,93,107
@@ -359,8 +359,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800309,2018-11-28,HOU,DAL,40.58,4,7,25,HOU,DAL,block,98,True,False,block,block,95-114,95,114
 0021800309,2018-11-28,HOU,DAL,40.6,4,7,24,DAL,DAL,reb,0,False,False,,Barea REBOUND (Off:0 Def:3),95-114,95,114
 0021800309,2018-11-28,HOU,DAL,40.67,4,7,20,DAL,DAL,fg_miss,5,True,False,,MISS Finney-Smith 4' Layup,95-114,95,114
-0021800309,2018-11-28,HOU,DAL,40.67,4,7,20,DAL,DAL,reb,0,False,False,,Mavericks Rebound,95-114,95,114
 0021800309,2018-11-28,HOU,DAL,40.67,4,7,20,DAL,HOU,block,5,True,False,block,block,95-114,95,114
+0021800309,2018-11-28,HOU,DAL,40.67,4,7,20,DAL,DAL,reb,0,False,False,,Mavericks Rebound,95-114,95,114
 0021800309,2018-11-28,HOU,DAL,40.92,4,7,5,DAL,DAL,fg3_make,1,False,False,,Harris 28' 3PT Jump Shot (17 PTS) (Barea 11 AST),95-117,95,117
 0021800309,2018-11-28,HOU,DAL,40.93,4,7,4,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 4 Short 0),,95-117,95,117
 0021800309,2018-11-28,HOU,DAL,41.17,4,6,50,HOU,HOU,fg3_miss,1,False,False,MISS House Jr. 24' 3PT Jump Shot,,95-117,95,117
@@ -374,8 +374,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800309,2018-11-28,HOU,DAL,42.13,4,5,52,DAL,DAL,fg3_miss,1,False,False,,MISS Harris 30' 3PT Jump Shot,99-120,99,120
 0021800309,2018-11-28,HOU,DAL,42.18,4,5,49,HOU,HOU,reb,0,False,False,Carter-Williams REBOUND (Off:0 Def:1),,99-120,99,120
 0021800309,2018-11-28,HOU,DAL,42.25,4,5,45,HOU,HOU,fg_miss,6,True,False,MISS Carter-Williams 3' Driving Layup,,99-120,99,120
-0021800309,2018-11-28,HOU,DAL,42.25,4,5,45,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,99-120,99,120
 0021800309,2018-11-28,HOU,DAL,42.25,4,5,45,HOU,DAL,block,6,True,False,block,block,99-120,99,120
+0021800309,2018-11-28,HOU,DAL,42.25,4,5,45,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,99-120,99,120
 0021800309,2018-11-28,HOU,DAL,42.32,4,5,41,HOU,HOU,fg3_miss,1,False,False,MISS House Jr. 3PT Jump Shot,,99-120,99,120
 0021800309,2018-11-28,HOU,DAL,42.35,4,5,39,DAL,DAL,reb,0,False,False,,Barnes REBOUND (Off:1 Def:2),99-120,99,120
 0021800309,2018-11-28,HOU,DAL,42.48,4,5,31,DAL,DAL,fg_miss,6,False,False,,MISS Barnes 3' Driving Layup,99-120,99,120
@@ -399,8 +399,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800309,2018-11-28,HOU,DAL,44.42,4,3,35,HOU,HOU,fg_miss,79,False,False,MISS Carter-Williams 15' Pullup Jump Shot,,100-120,100,120
 0021800309,2018-11-28,HOU,DAL,44.43,4,3,34,HOU,HOU,reb,0,False,False,Hartenstein REBOUND (Off:2 Def:0),,100-120,100,120
 0021800309,2018-11-28,HOU,DAL,44.47,4,3,32,HOU,HOU,fg_miss,44,True,False,MISS Hartenstein 2' Reverse Layup,,100-120,100,120
-0021800309,2018-11-28,HOU,DAL,44.47,4,3,32,DAL,DAL,reb,0,False,False,,Mavericks Rebound,100-120,100,120
 0021800309,2018-11-28,HOU,DAL,44.47,4,3,32,HOU,DAL,block,44,True,False,block,block,100-120,100,120
+0021800309,2018-11-28,HOU,DAL,44.47,4,3,32,DAL,DAL,reb,0,False,False,,Mavericks Rebound,100-120,100,120
 0021800309,2018-11-28,HOU,DAL,44.63,4,3,22,DAL,HOU,foul,1,False,False,Chriss P.FOUL (P1.T4) (M.Davis),,100-120,100,120
 0021800309,2018-11-28,HOU,DAL,44.8,4,3,12,DAL,DAL,fg_miss,66,False,False,,MISS Mejri 6' Jump Bank Shot,100-120,100,120
 0021800309,2018-11-28,HOU,DAL,44.8,4,3,12,DAL,DAL,reb,0,False,False,,Mavericks Rebound,100-120,100,120
@@ -413,8 +413,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800309,2018-11-28,HOU,DAL,45.28,4,2,43,DAL,DAL,tov,1,False,True,,Brunson Bad Pass Turnover (P1.T14),102-120,102,120
 0021800309,2018-11-28,HOU,DAL,45.28,4,2,43,DAL,HOU,steal,1,False,True,steal,steal,102-120,102,120
 0021800309,2018-11-28,HOU,DAL,45.33,4,2,40,HOU,HOU,fg_miss,7,True,False,MISS Clark 2' Dunk,,102-120,102,120
-0021800309,2018-11-28,HOU,DAL,45.33,4,2,40,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,102-120,102,120
 0021800309,2018-11-28,HOU,DAL,45.33,4,2,40,HOU,DAL,block,7,True,False,block,block,102-120,102,120
+0021800309,2018-11-28,HOU,DAL,45.33,4,2,40,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,102-120,102,120
 0021800309,2018-11-28,HOU,DAL,45.47,4,2,32,HOU,HOU,fg3_miss,1,False,False,MISS Carter-Williams 26' 3PT Jump Shot,,102-120,102,120
 0021800309,2018-11-28,HOU,DAL,45.48,4,2,31,DAL,DAL,reb,0,False,False,,Mejri REBOUND (Off:0 Def:2),102-120,102,120
 0021800309,2018-11-28,HOU,DAL,45.78,4,2,13,DAL,DAL,fg_miss,3,False,False,,MISS Finney-Smith 7' Hook Shot,102-120,102,120

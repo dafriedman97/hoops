@@ -95,8 +95,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800479,2018-12-22,LAC,DEN,11.45,1,0,33,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:1 Def:2),,34-26,34,26
 0021800479,2018-12-22,LAC,DEN,11.83,1,0,10,LAC,LAC,fg_miss,63,True,False,MISS Wallace 18' Fadeaway Jumper,,34-26,34,26
 0021800479,2018-12-22,LAC,DEN,11.83,1,0,10,LAC,DEN,block,63,True,False,block,block,34-26,34,26
-0021800479,2018-12-22,LAC,DEN,11.85,1,0,9,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,34-26,34,26
 0021800479,2018-12-22,LAC,DEN,11.85,1,0,9,LAC,LAC,tov,11,False,False,CLIPPERS Turnover: Shot Clock (T#4),,34-26,34,26
+0021800479,2018-12-22,LAC,DEN,11.85,1,0,9,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,34-26,34,26
 0021800479,2018-12-22,LAC,DEN,11.95,1,0,3,DEN,DEN,fg3_miss,79,False,False,,MISS Murray 26' 3PT Pullup Jump Shot,34-26,34,26
 0021800479,2018-12-22,LAC,DEN,11.98,1,0,1,LAC,LAC,reb,0,False,False,Gortat REBOUND (Off:1 Def:5),,34-26,34,26
 0021800479,2018-12-22,LAC,DEN,12.0,1,0,0,LAC,,period_end,0,False,False,,,34-26,34,26
@@ -124,9 +124,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800479,2018-12-22,LAC,DEN,14.1,2,9,54,LAC,LAC,fg_make,98,False,False,Wallace 2' Cutting Layup Shot (4 PTS) (Scott 1 AST),,40-30,40,30
 0021800479,2018-12-22,LAC,DEN,14.1,2,9,54,LAC,DEN,violation,2,False,False,,Lyles Violation:Defensive Goaltending (Z.Zarba),40-30,40,30
 0021800479,2018-12-22,LAC,DEN,14.47,2,9,32,DEN,DEN,fg_make,5,False,False,,Lyles 3' Layup (7 PTS),40-32,40,32
-0021800479,2018-12-22,LAC,DEN,14.47,2,9,32,DEN,LAC,violation,2,False,False,Defensive Goaltending,,40-32,40,32
 0021800479,2018-12-22,LAC,DEN,14.47,2,9,32,DEN,LAC,foul,2,False,False,Wallace S.FOUL (P1.T2) (S.Twardoski),,40-32,40,32
 0021800479,2018-12-22,LAC,DEN,14.47,2,9,32,DEN,DEN,ft_make,10,False,False,,Lyles Free Throw 1 of 1 (8 PTS),40-33,40,33
+0021800479,2018-12-22,LAC,DEN,14.47,2,9,32,DEN,LAC,violation,2,False,False,Defensive Goaltending,,40-32,40,32
 0021800479,2018-12-22,LAC,DEN,14.8,2,9,12,LAC,LAC,fg_make,78,False,False,Wallace 10' Floating Jump Shot (6 PTS) (Williams 3 AST),,42-33,42,33
 0021800479,2018-12-22,LAC,DEN,15.03,2,8,58,DEN,DEN,fg_make,71,False,False,,Murray 3' Finger Roll Layup (11 PTS) (Plumlee 1 AST),42-35,42,35
 0021800479,2018-12-22,LAC,DEN,15.33,2,8,40,LAC,LAC,fg_miss,5,False,False,MISS Harrell 2' Layup,,42-35,42,35
@@ -209,8 +209,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800479,2018-12-22,LAC,DEN,22.33,2,1,40,DEN,DEN,ft_make,11,False,False,,Murray Free Throw 1 of 2 (12 PTS),60-53,60,53
 0021800479,2018-12-22,LAC,DEN,22.33,2,1,40,DEN,DEN,ft_make,12,False,False,,Murray Free Throw 2 of 2 (13 PTS),60-54,60,54
 0021800479,2018-12-22,LAC,DEN,22.57,2,1,26,LAC,LAC,fg_miss,6,True,False,MISS Harris 1' Driving Layup,,60-54,60,54
-0021800479,2018-12-22,LAC,DEN,22.57,2,1,26,LAC,LAC,reb,0,False,False,Harris REBOUND (Off:2 Def:3),,60-54,60,54
 0021800479,2018-12-22,LAC,DEN,22.57,2,1,26,LAC,DEN,block,6,True,False,block,block,60-54,60,54
+0021800479,2018-12-22,LAC,DEN,22.57,2,1,26,LAC,LAC,reb,0,False,False,Harris REBOUND (Off:2 Def:3),,60-54,60,54
 0021800479,2018-12-22,LAC,DEN,22.57,2,1,26,LAC,LAC,fg_make,72,False,False,Harris 2' Putback Layup (15 PTS),,62-54,62,54
 0021800479,2018-12-22,LAC,DEN,22.57,2,1,26,LAC,DEN,foul,2,False,False,,Plumlee S.FOUL (P2.T4) (B.Nansel),62-54,62,54
 0021800479,2018-12-22,LAC,DEN,22.57,2,1,26,LAC,LAC,ft_make,10,False,False,Harris Free Throw 1 of 1 (16 PTS),,63-54,63,54
@@ -226,9 +226,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800479,2018-12-22,LAC,DEN,24.0,2,0,0,LAC,LAC,ft_make,14,False,False,Harris Free Throw 2 of 3 (18 PTS),,67-59,67,59
 0021800479,2018-12-22,LAC,DEN,24.0,2,0,0,LAC,LAC,ft_make,15,False,False,Harris Free Throw 3 of 3 (19 PTS),,68-59,68,59
 0021800479,2018-12-22,LAC,DEN,24.0,2,0,0,DEN,DEN,tov,1,False,True,,Jokic Bad Pass Turnover (P3.T7),68-59,68,59
+0021800479,2018-12-22,LAC,DEN,24.0,2,0,0,DEN,LAC,steal,1,False,True,steal,steal,68-59,68,59
 0021800479,2018-12-22,LAC,DEN,24.0,2,0,0,DEN,,period_end,0,False,False,,,68-59,68,59
 0021800479,2018-12-22,LAC,DEN,24.0,3,12,0,DEN,,period_start,0,False,False,,,68-59,68,59
-0021800479,2018-12-22,LAC,DEN,24.0,2,0,0,DEN,LAC,steal,1,False,True,steal,steal,68-59,68,59
 0021800479,2018-12-22,LAC,DEN,24.27,3,11,44,DEN,DEN,fg_make,101,False,False,,Jokic 3' Driving Floating Jump Shot (16 PTS) (Plumlee 3 AST),68-61,68,61
 0021800479,2018-12-22,LAC,DEN,24.53,3,11,28,LAC,LAC,fg3_miss,1,False,False,MISS Gallinari 26' 3PT Jump Shot,,68-61,68,61
 0021800479,2018-12-22,LAC,DEN,24.6,3,11,24,DEN,DEN,reb,0,False,False,,Craig REBOUND (Off:0 Def:1),68-61,68,61
@@ -275,9 +275,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800479,2018-12-22,LAC,DEN,29.07,3,6,56,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,81-70,81,70
 0021800479,2018-12-22,LAC,DEN,29.37,3,6,38,LAC,DEN,foul,1,False,False,,Plumlee P.FOUL (P3.T1) (B.Nansel),81-70,81,70
 0021800479,2018-12-22,LAC,DEN,29.37,3,6,38,LAC,DEN,foul,11,False,False,,Jokic T.FOUL (P2.T1) (B.Nansel),81-70,81,70
-0021800479,2018-12-22,LAC,DEN,29.37,3,6,38,LAC,DEN,foul,11,False,False,,Jokic T.FOUL (P2.T1) (B.Nansel),81-70,81,70
 0021800479,2018-12-22,LAC,DEN,29.37,3,6,38,LAC,DEN,ejection,4,False,False,,Jokic Ejection:Other,81-70,81,70
 0021800479,2018-12-22,LAC,DEN,29.37,3,6,38,LAC,LAC,ft_make,16,False,False,Gallinari Free Throw Technical (18 PTS),,82-70,82,70
+0021800479,2018-12-22,LAC,DEN,29.37,3,6,38,LAC,DEN,foul,11,False,False,,Jokic T.FOUL (P2.T1) (B.Nansel),81-70,81,70
 0021800479,2018-12-22,LAC,DEN,29.37,3,6,38,LAC,LAC,ft_make,16,False,False,Gallinari Free Throw Technical (19 PTS),,83-70,83,70
 0021800479,2018-12-22,LAC,DEN,29.57,3,6,26,LAC,LAC,fg3_miss,1,False,False,MISS Harris 28' 3PT Jump Shot,,83-70,83,70
 0021800479,2018-12-22,LAC,DEN,29.58,3,6,25,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,83-70,83,70
@@ -337,8 +337,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800479,2018-12-22,LAC,DEN,35.48,3,0,31,LAC,DEN,violation,5,False,False,,Lyles Violation:Kicked Ball (Z.Zarba),99-84,99,84
 0021800479,2018-12-22,LAC,DEN,35.48,3,0,31,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 3 Short 0),,99-84,99,84
 0021800479,2018-12-22,LAC,DEN,35.73,3,0,16,LAC,LAC,fg_miss,5,True,False,MISS Scott 6' Layup,,99-84,99,84
-0021800479,2018-12-22,LAC,DEN,35.73,3,0,16,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:2 Def:7),,99-84,99,84
 0021800479,2018-12-22,LAC,DEN,35.73,3,0,16,LAC,DEN,block,5,True,False,block,block,99-84,99,84
+0021800479,2018-12-22,LAC,DEN,35.73,3,0,16,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:2 Def:7),,99-84,99,84
 0021800479,2018-12-22,LAC,DEN,35.75,3,0,15,LAC,LAC,fg_make,72,False,False,Harrell 1' Putback Layup (16 PTS),,101-84,101,84
 0021800479,2018-12-22,LAC,DEN,35.88,3,0,7,DEN,DEN,fg_make,101,False,False,,Morris 7' Driving Floating Jump Shot (10 PTS),101-86,101,86
 0021800479,2018-12-22,LAC,DEN,36.0,3,0,0,LAC,LAC,fg_make,102,False,False,Beverley 3' Driving Floating Bank Jump Shot (9 PTS) (Williams 6 AST),,103-86,103,86

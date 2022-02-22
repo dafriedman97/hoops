@@ -70,8 +70,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900464,2019-12-26,SAC,MIN,8.53,1,3,28,SAC,SAC,reb,0,False,False,Holmes REBOUND (Off:0 Def:2),,19-16,19,16
 0021900464,2019-12-26,SAC,MIN,8.58,1,3,25,SAC,MIN,foul,1,False,False,,Teague P.FOUL (P1.T3) (M.Myers),19-16,19,16
 0021900464,2019-12-26,SAC,MIN,8.8,1,3,12,SAC,SAC,fg_miss,6,False,False,MISS Bogdanovic 3' Driving Layup,,19-16,19,16
-0021900464,2019-12-26,SAC,MIN,8.88,1,3,7,SAC,SAC,fg_make,97,False,False,Bogdanovic 1' Tip Layup Shot (5 PTS),,21-16,21,16
 0021900464,2019-12-26,SAC,MIN,8.88,1,3,7,SAC,SAC,reb,0,False,False,Bogdanovic REBOUND (Off:1 Def:2),,21-16,21,16
+0021900464,2019-12-26,SAC,MIN,8.88,1,3,7,SAC,SAC,fg_make,97,False,False,Bogdanovic 1' Tip Layup Shot (5 PTS),,21-16,21,16
 0021900464,2019-12-26,SAC,MIN,9.15,1,2,51,MIN,MIN,fg3_miss,1,False,False,,MISS Culver 26' 3PT Jump Shot,21-16,21,16
 0021900464,2019-12-26,SAC,MIN,9.23,1,2,46,SAC,SAC,reb,0,False,False,Bogdanovic REBOUND (Off:1 Def:3),,21-16,21,16
 0021900464,2019-12-26,SAC,MIN,9.45,1,2,33,SAC,SAC,fg_miss,79,False,False,MISS Joseph 14' Pullup Jump Shot,,21-16,21,16
@@ -98,10 +98,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900464,2019-12-26,SAC,MIN,11.45,1,0,33,MIN,MIN,fg_make,6,False,False,,Culver 3' Driving Layup (3 PTS),23-21,23,21
 0021900464,2019-12-26,SAC,MIN,11.73,1,0,16,SAC,SAC,fg3_make,1,False,False,Bogdanovic 3PT Jump Shot (8 PTS) (Joseph 3 AST),,26-21,26,21
 0021900464,2019-12-26,SAC,MIN,12.0,1,0,0,MIN,MIN,fg_miss,1,True,False,,MISS Teague 16' Jump Shot,26-21,26,21
+0021900464,2019-12-26,SAC,MIN,12.0,1,0,0,MIN,SAC,block,1,True,False,block,block,26-21,26,21
 0021900464,2019-12-26,SAC,MIN,12.0,1,0,0,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,26-21,26,21
 0021900464,2019-12-26,SAC,MIN,12.0,1,0,0,MIN,,period_end,0,False,False,,,26-21,26,21
 0021900464,2019-12-26,SAC,MIN,12.0,2,12,0,MIN,,period_start,0,False,False,,,26-21,26,21
-0021900464,2019-12-26,SAC,MIN,12.0,1,0,0,MIN,SAC,block,1,True,False,block,block,26-21,26,21
 0021900464,2019-12-26,SAC,MIN,12.18,2,11,49,MIN,SAC,foul,2,False,False,Ferrell S.FOUL (P1.T1) (M.Lindsay),,26-21,26,21
 0021900464,2019-12-26,SAC,MIN,12.18,2,11,49,MIN,MIN,ft_make,11,False,False,,Teague Free Throw 1 of 2 (1 PTS),26-22,26,22
 0021900464,2019-12-26,SAC,MIN,12.18,2,11,49,MIN,MIN,ft_make,12,False,False,,Teague Free Throw 2 of 2 (2 PTS),26-23,26,23
@@ -115,14 +115,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900464,2019-12-26,SAC,MIN,13.38,2,10,37,MIN,MIN,fg_miss,78,False,False,,MISS Culver 4' Floating Jump Shot,29-25,29,25
 0021900464,2019-12-26,SAC,MIN,13.43,2,10,34,SAC,SAC,reb,0,False,False,Ariza REBOUND (Off:1 Def:1),,29-25,29,25
 0021900464,2019-12-26,SAC,MIN,13.47,2,10,32,SAC,SAC,fg3_miss,1,False,False,MISS Bogdanovic 25' 3PT Jump Shot,,29-25,29,25
-0021900464,2019-12-26,SAC,MIN,13.55,2,10,27,SAC,SAC,fg_miss,97,False,False,MISS Bjelica 1' Tip Layup Shot,,29-25,29,25
 0021900464,2019-12-26,SAC,MIN,13.55,2,10,27,SAC,SAC,reb,0,False,False,Bjelica REBOUND (Off:1 Def:0),,29-25,29,25
+0021900464,2019-12-26,SAC,MIN,13.55,2,10,27,SAC,SAC,fg_miss,97,False,False,MISS Bjelica 1' Tip Layup Shot,,29-25,29,25
 0021900464,2019-12-26,SAC,MIN,13.58,2,10,25,SAC,SAC,reb,0,False,False,Holmes REBOUND (Off:2 Def:3),,29-25,29,25
 0021900464,2019-12-26,SAC,MIN,13.58,2,10,25,SAC,SAC,fg_make,97,False,False,Holmes 1' Tip Layup Shot (4 PTS),,31-25,31,25
 0021900464,2019-12-26,SAC,MIN,13.9,2,10,6,MIN,MIN,fg_miss,5,True,False,,MISS Graham 7' Layup,31-25,31,25
+0021900464,2019-12-26,SAC,MIN,13.9,2,10,6,MIN,SAC,block,5,True,False,block,block,31-25,31,25
 0021900464,2019-12-26,SAC,MIN,13.9,2,10,6,MIN,MIN,reb,0,False,False,,Graham REBOUND (Off:2 Def:1),31-25,31,25
 0021900464,2019-12-26,SAC,MIN,13.9,2,10,6,MIN,SAC,foul,2,False,False,Holmes S.FOUL (P2.T2) (M.Lindsay),,31-25,31,25
-0021900464,2019-12-26,SAC,MIN,13.9,2,10,6,MIN,SAC,block,5,True,False,block,block,31-25,31,25
 0021900464,2019-12-26,SAC,MIN,13.9,2,10,6,MIN,MIN,ft_make,11,False,False,,Graham Free Throw 1 of 2 (3 PTS),31-26,31,26
 0021900464,2019-12-26,SAC,MIN,13.9,2,10,6,MIN,MIN,ft_make,12,False,False,,Graham Free Throw 2 of 2 (4 PTS),31-27,31,27
 0021900464,2019-12-26,SAC,MIN,14.12,2,9,53,SAC,SAC,fg_make,78,False,False,Holmes 9' Floating Jump Shot (6 PTS) (Ferrell 1 AST),,33-27,33,27
@@ -233,8 +233,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900464,2019-12-26,SAC,MIN,24.68,3,11,19,MIN,MIN,fg3_make,1,False,False,,Dieng 25' 3PT Jump Shot (11 PTS) (Napier 7 AST),48-53,48,53
 0021900464,2019-12-26,SAC,MIN,24.97,3,11,2,SAC,SAC,fg3_make,1,False,False,Barnes 25' 3PT Jump Shot (4 PTS) (Joseph 4 AST),,51-53,51,53
 0021900464,2019-12-26,SAC,MIN,25.35,3,10,39,MIN,MIN,tov,1,False,True,,Napier Bad Pass Turnover (P2.T6),51-53,51,53
-0021900464,2019-12-26,SAC,MIN,25.35,3,10,39,SAC,MIN,foul,28,False,False,,Covington Personal Take Foul (P4.T1) (M.Lindsay),51-53,51,53
 0021900464,2019-12-26,SAC,MIN,25.35,3,10,39,MIN,SAC,steal,1,False,True,steal,steal,51-53,51,53
+0021900464,2019-12-26,SAC,MIN,25.35,3,10,39,SAC,MIN,foul,28,False,False,,Covington Personal Take Foul (P4.T1) (M.Lindsay),51-53,51,53
 0021900464,2019-12-26,SAC,MIN,25.52,3,10,29,SAC,SAC,fg_miss,79,False,False,MISS Hield 12' Pullup Jump Shot,,51-53,51,53
 0021900464,2019-12-26,SAC,MIN,25.58,3,10,25,MIN,MIN,reb,0,False,False,,Dieng REBOUND (Off:2 Def:4),51-53,51,53
 0021900464,2019-12-26,SAC,MIN,25.88,3,10,7,MIN,MIN,fg_miss,3,False,False,,MISS Wiggins 10' Hook Shot,51-53,51,53
@@ -486,13 +486,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900464,2019-12-26,SAC,MIN,52.98,5,0,1,SAC,SAC,fg3_miss,1,False,False,MISS Bogdanovic 25' 3PT Jump Shot,,97-97,97,97
 0021900464,2019-12-26,SAC,MIN,53.0,5,0,0,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,97-97,97,97
 0021900464,2019-12-26,SAC,MIN,53.0,5,0,0,MIN,MIN,timeout,1,False,False,,Timberwolves Timeout: Regular (Reg.7 Short 0),97-97,97,97
-0021900464,2019-12-26,SAC,MIN,53.0,5,0,0,MIN,MIN,tov,45,False,False,,Teague Out of Bounds - Bad Pass Turnover Turnover (P3.T12),97-97,97,97
 0021900464,2019-12-26,SAC,MIN,53.0,5,0,0,SAC,SAC,tov,45,False,False,James Out of Bounds - Bad Pass Turnover Turnover (P1.T11),,97-97,97,97
-0021900464,2019-12-26,SAC,MIN,53.0,5,0,0,MIN,MIN,tov,1,False,True,,Teague Bad Pass Turnover (P4.T13),97-97,97,97
+0021900464,2019-12-26,SAC,MIN,53.0,5,0,0,MIN,MIN,tov,45,False,False,,Teague Out of Bounds - Bad Pass Turnover Turnover (P3.T12),97-97,97,97
 0021900464,2019-12-26,SAC,MIN,53.0,5,0,0,MIN,,period_end,0,False,False,,,97-97,97,97
+0021900464,2019-12-26,SAC,MIN,53.0,5,0,0,MIN,MIN,tov,1,False,True,,Teague Bad Pass Turnover (P4.T13),97-97,97,97
+0021900464,2019-12-26,SAC,MIN,53.0,5,0,0,MIN,SAC,steal,1,False,True,steal,steal,97-97,97,97
 0021900464,2019-12-26,SAC,MIN,53.0,6,5,0,MIN,,period_start,0,False,False,,,97-97,97,97
 0021900464,2019-12-26,SAC,MIN,53.0,6,5,0,,SAC,jump_ball,0,False,False,Jump Ball Holmes vs. Dieng: Tip to Teague,,97-97,97,97
-0021900464,2019-12-26,SAC,MIN,53.0,5,0,0,MIN,SAC,steal,1,False,True,steal,steal,97-97,97,97
 0021900464,2019-12-26,SAC,MIN,53.27,6,4,44,MIN,SAC,foul,1,False,False,Holmes P.FOUL (P5.T1) (M.Myers),,97-97,97,97
 0021900464,2019-12-26,SAC,MIN,53.37,6,4,38,MIN,MIN,fg_make,98,False,False,,Wiggins 3' Cutting Layup Shot (18 PTS) (Covington 1 AST),97-99,97,99
 0021900464,2019-12-26,SAC,MIN,53.67,6,4,20,SAC,SAC,fg_miss,1,False,False,MISS Barnes 17' Jump Shot,,97-99,97,99

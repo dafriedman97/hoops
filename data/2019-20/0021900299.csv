@@ -47,8 +47,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900299,2019-12-03,CLE,DET,5.17,1,6,50,CLE,CLE,reb,0,False,False,Thompson REBOUND (Off:2 Def:2),,9-11,9,11
 0021900299,2019-12-03,CLE,DET,5.17,1,6,50,CLE,DET,foul,1,False,False,,Snell P.FOUL (P1.T1) (Z.Zarba),9-11,9,11
 0021900299,2019-12-03,CLE,DET,5.32,1,6,41,CLE,CLE,fg_miss,5,True,False,MISS Garland Layup,,9-11,9,11
-0021900299,2019-12-03,CLE,DET,5.32,1,6,41,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,9-11,9,11
 0021900299,2019-12-03,CLE,DET,5.32,1,6,41,CLE,DET,block,5,True,False,block,block,9-11,9,11
+0021900299,2019-12-03,CLE,DET,5.32,1,6,41,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,9-11,9,11
 0021900299,2019-12-03,CLE,DET,5.38,1,6,37,CLE,CLE,fg_miss,1,False,False,MISS Garland 16' Jump Shot,,9-11,9,11
 0021900299,2019-12-03,CLE,DET,5.43,1,6,34,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:0 Def:2),9-11,9,11
 0021900299,2019-12-03,CLE,DET,5.58,1,6,25,DET,DET,fg3_make,1,False,False,,Brown 24' 3PT Jump Shot (5 PTS) (Griffin 1 AST),9-14,9,14
@@ -64,8 +64,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900299,2019-12-03,CLE,DET,6.93,1,5,4,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.1 Short 0),13-16,13,16
 0021900299,2019-12-03,CLE,DET,7.15,1,4,51,DET,DET,fg3_make,80,False,False,,Griffin 26' 3PT Step Back Jump Shot (10 PTS) (Rose 1 AST),13-19,13,19
 0021900299,2019-12-03,CLE,DET,7.47,1,4,32,CLE,CLE,fg_miss,6,True,False,MISS Sexton 3' Driving Layup,,13-19,13,19
-0021900299,2019-12-03,CLE,DET,7.47,1,4,32,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,13-19,13,19
 0021900299,2019-12-03,CLE,DET,7.47,1,4,32,CLE,DET,block,6,True,False,block,block,13-19,13,19
+0021900299,2019-12-03,CLE,DET,7.47,1,4,32,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,13-19,13,19
 0021900299,2019-12-03,CLE,DET,7.53,1,4,28,CLE,CLE,fg_miss,78,True,False,MISS Thompson 7' Floating Jump Shot,,13-19,13,19
 0021900299,2019-12-03,CLE,DET,7.53,1,4,28,CLE,DET,block,78,True,False,block,block,13-19,13,19
 0021900299,2019-12-03,CLE,DET,7.6,1,4,24,DET,DET,reb,0,False,False,,Kennard REBOUND (Off:0 Def:1),13-19,13,19
@@ -204,8 +204,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900299,2019-12-03,CLE,DET,23.92,2,0,5,CLE,CLE,fg_miss,102,False,False,MISS Knight 6' Driving Floating Bank Jump Shot,,44-62,44,62
 0021900299,2019-12-03,CLE,DET,23.93,2,0,4,DET,DET,reb,0,False,False,,Brown REBOUND (Off:0 Def:2),44-62,44,62
 0021900299,2019-12-03,CLE,DET,23.98,2,0,1,DET,DET,tov,2,False,True,,Brown Lost Ball Turnover (P1.T6),44-62,44,62
-0021900299,2019-12-03,CLE,DET,23.98,2,0,1,CLE,DET,foul,1,False,False,,Kennard P.FOUL (P1.PN) (Z.Zarba),44-62,44,62
 0021900299,2019-12-03,CLE,DET,23.98,2,0,1,DET,CLE,steal,2,False,True,steal,steal,44-62,44,62
+0021900299,2019-12-03,CLE,DET,23.98,2,0,1,CLE,DET,foul,1,False,False,,Kennard P.FOUL (P1.PN) (Z.Zarba),44-62,44,62
 0021900299,2019-12-03,CLE,DET,23.98,2,0,1,CLE,CLE,ft_make,11,False,False,Thompson Free Throw 1 of 2 (7 PTS),,45-62,45,62
 0021900299,2019-12-03,CLE,DET,23.98,2,0,1,CLE,CLE,ft_make,12,False,False,Thompson Free Throw 2 of 2 (8 PTS),,46-62,46,62
 0021900299,2019-12-03,CLE,DET,24.0,2,0,0,DET,DET,fg_miss,47,False,False,,MISS Drummond 9' Turnaround Jump Shot,46-62,46,62
@@ -255,9 +255,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900299,2019-12-03,CLE,DET,29.1,3,6,54,CLE,CLE,tov,2,False,True,Thompson Lost Ball Turnover (P1.T8),,52-80,52,80
 0021900299,2019-12-03,CLE,DET,29.1,3,6,54,CLE,DET,steal,2,False,True,steal,steal,52-80,52,80
 0021900299,2019-12-03,CLE,DET,29.17,3,6,50,DET,DET,fg_miss,3,True,False,,MISS Drummond 4' Hook Shot,52-80,52,80
+0021900299,2019-12-03,CLE,DET,29.17,3,6,50,DET,CLE,block,3,True,False,block,block,52-80,52,80
 0021900299,2019-12-03,CLE,DET,29.17,3,6,50,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,52-80,52,80
 0021900299,2019-12-03,CLE,DET,29.17,3,6,50,CLE,DET,foul,3,False,False,,Brown L.B.FOUL (P2.T3) (Z.Zarba),52-80,52,80
-0021900299,2019-12-03,CLE,DET,29.17,3,6,50,DET,CLE,block,3,True,False,block,block,52-80,52,80
 0021900299,2019-12-03,CLE,DET,29.42,3,6,35,CLE,CLE,fg_make,80,False,False,Osman 13' Step Back Jump Shot (5 PTS),,54-80,54,80
 0021900299,2019-12-03,CLE,DET,29.93,3,6,4,DET,DET,tov,11,False,False,,Pistons Turnover: Shot Clock (T#8),54-80,54,80
 0021900299,2019-12-03,CLE,DET,30.1,3,5,54,CLE,CLE,fg3_miss,1,False,False,MISS Sexton 3PT Jump Shot,,54-80,54,80
@@ -317,8 +317,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900299,2019-12-03,CLE,DET,36.0,3,0,0,DET,,period_end,0,False,False,,,68-97,68,97
 0021900299,2019-12-03,CLE,DET,36.0,4,12,0,DET,,period_start,0,False,False,,,68-97,68,97
 0021900299,2019-12-03,CLE,DET,36.22,4,11,47,DET,DET,fg_miss,102,True,False,,MISS Rose 4' Driving Floating Bank Jump Shot,68-97,68,97
-0021900299,2019-12-03,CLE,DET,36.22,4,11,47,DET,DET,reb,0,False,False,,Pistons Rebound,68-97,68,97
 0021900299,2019-12-03,CLE,DET,36.22,4,11,47,DET,CLE,block,102,True,False,block,block,68-97,68,97
+0021900299,2019-12-03,CLE,DET,36.22,4,11,47,DET,DET,reb,0,False,False,,Pistons Rebound,68-97,68,97
 0021900299,2019-12-03,CLE,DET,36.33,4,11,40,DET,DET,tov,4,False,False,,Mykhailiuk Traveling Turnover (P3.T10),68-97,68,97
 0021900299,2019-12-03,CLE,DET,36.63,4,11,22,CLE,CLE,tov,1,False,True,Porter Jr. Bad Pass Turnover (P1.T11),,68-97,68,97
 0021900299,2019-12-03,CLE,DET,36.63,4,11,22,CLE,DET,steal,1,False,True,steal,steal,68-97,68,97

@@ -33,8 +33,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900408,2019-12-18,DET,TOR,4.57,1,7,26,DET,DET,fg3_make,1,False,False,Kennard 3PT Jump Shot (3 PTS) (Griffin 2 AST),,13-12,13,12
 0021900408,2019-12-18,DET,TOR,4.83,1,7,10,TOR,TOR,fg_make,6,False,False,,Anunoby 2' Driving Layup (6 PTS) (Lowry 2 AST),13-14,13,14
 0021900408,2019-12-18,DET,TOR,5.2,1,6,48,DET,DET,fg_miss,5,True,False,MISS Brown 3' Layup,,13-14,13,14
-0021900408,2019-12-18,DET,TOR,5.2,1,6,48,DET,DET,reb,0,False,False,Brown REBOUND (Off:1 Def:1),,13-14,13,14
 0021900408,2019-12-18,DET,TOR,5.2,1,6,48,DET,TOR,block,5,True,False,block,block,13-14,13,14
+0021900408,2019-12-18,DET,TOR,5.2,1,6,48,DET,DET,reb,0,False,False,Brown REBOUND (Off:1 Def:1),,13-14,13,14
 0021900408,2019-12-18,DET,TOR,5.27,1,6,44,DET,DET,fg3_miss,1,False,False,MISS Kennard 27' 3PT Jump Shot,,13-14,13,14
 0021900408,2019-12-18,DET,TOR,5.27,1,6,44,TOR,TOR,reb,0,False,False,,Gasol REBOUND (Off:0 Def:1),13-14,13,14
 0021900408,2019-12-18,DET,TOR,5.47,1,6,32,TOR,TOR,fg_make,9,False,False,,Anunoby 2' Driving Dunk (8 PTS),13-16,13,16
@@ -54,8 +54,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900408,2019-12-18,DET,TOR,7.08,1,4,55,TOR,TOR,fg_make,5,False,False,,Siakam 2' Layup (10 PTS),15-21,15,21
 0021900408,2019-12-18,DET,TOR,7.3,1,4,42,DET,TOR,foul,1,False,False,,Anunoby P.FOUL (P1.T2) (T.Washington),15-21,15,21
 0021900408,2019-12-18,DET,TOR,7.53,1,4,28,DET,DET,fg3_miss,1,True,False,MISS Griffin 3PT Jump Shot,,15-21,15,21
-0021900408,2019-12-18,DET,TOR,7.53,1,4,28,TOR,TOR,reb,0,False,False,,Anunoby REBOUND (Off:0 Def:2),15-21,15,21
 0021900408,2019-12-18,DET,TOR,7.53,1,4,28,DET,TOR,block,1,True,False,block,block,15-21,15,21
+0021900408,2019-12-18,DET,TOR,7.53,1,4,28,TOR,TOR,reb,0,False,False,,Anunoby REBOUND (Off:0 Def:2),15-21,15,21
 0021900408,2019-12-18,DET,TOR,7.65,1,4,21,TOR,TOR,tov,1,False,True,,Anunoby Bad Pass Turnover (P1.T1),15-21,15,21
 0021900408,2019-12-18,DET,TOR,7.65,1,4,21,TOR,DET,steal,1,False,True,steal,steal,15-21,15,21
 0021900408,2019-12-18,DET,TOR,7.72,1,4,17,DET,DET,fg_make,41,False,False,Griffin 3' Running Layup (4 PTS) (Rose 1 AST),,17-21,17,21
@@ -67,8 +67,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900408,2019-12-18,DET,TOR,8.97,1,3,2,DET,DET,fg_make,78,False,False,Galloway 7' Floating Jump Shot (2 PTS),,21-23,21,23
 0021900408,2019-12-18,DET,TOR,9.12,1,2,53,TOR,TOR,fg3_miss,1,False,False,,MISS Siakam 26' 3PT Jump Shot,21-23,21,23
 0021900408,2019-12-18,DET,TOR,9.17,1,2,50,DET,DET,reb,0,False,False,Drummond REBOUND (Off:2 Def:3),,21-23,21,23
-0021900408,2019-12-18,DET,TOR,9.22,1,2,47,DET,DET,tov,40,False,False,Griffin Out of Bounds Lost Ball Turnover (P2.T5),,21-23,21,23
 0021900408,2019-12-18,DET,TOR,9.22,1,2,47,TOR,TOR,timeout,7,False,False,,Raptors Timeout: Coach Challenge (Reg.1 Short 0),21-23,21,23
+0021900408,2019-12-18,DET,TOR,9.22,1,2,47,DET,DET,tov,40,False,False,Griffin Out of Bounds Lost Ball Turnover (P2.T5),,21-23,21,23
 0021900408,2019-12-18,DET,TOR,9.5,1,2,30,TOR,TOR,fg_make,1,False,False,,Ibaka 16' Jump Shot (4 PTS) (Powell 3 AST),21-25,21,25
 0021900408,2019-12-18,DET,TOR,9.68,1,2,19,DET,DET,fg_make,101,False,False,Rose 3' Driving Floating Jump Shot (2 PTS),,23-25,23,25
 0021900408,2019-12-18,DET,TOR,9.82,1,2,11,TOR,TOR,tov,2,False,True,,Davis Lost Ball Turnover (P1.T3),23-25,23,25
@@ -248,8 +248,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900408,2019-12-18,DET,TOR,26.55,3,9,27,TOR,TOR,fg_miss,63,False,False,,MISS Siakam 18' Fadeaway Jumper,71-77,71,77
 0021900408,2019-12-18,DET,TOR,26.62,3,9,23,TOR,TOR,reb,0,False,False,,Lowry REBOUND (Off:2 Def:3),71-77,71,77
 0021900408,2019-12-18,DET,TOR,26.68,3,9,19,TOR,TOR,fg_miss,5,True,False,,MISS Anunoby 3' Layup,71-77,71,77
-0021900408,2019-12-18,DET,TOR,26.68,3,9,19,TOR,TOR,reb,0,False,False,,Raptors Rebound,71-77,71,77
 0021900408,2019-12-18,DET,TOR,26.68,3,9,19,TOR,DET,block,5,True,False,block,block,71-77,71,77
+0021900408,2019-12-18,DET,TOR,26.68,3,9,19,TOR,TOR,reb,0,False,False,,Raptors Rebound,71-77,71,77
 0021900408,2019-12-18,DET,TOR,26.75,3,9,15,TOR,TOR,tov,6,False,False,,Lowry Double Dribble Turnover (P2.T7),71-77,71,77
 0021900408,2019-12-18,DET,TOR,26.95,3,9,3,DET,DET,fg3_miss,1,False,False,MISS Brown 24' 3PT Jump Shot,,71-77,71,77
 0021900408,2019-12-18,DET,TOR,27.0,3,9,0,DET,DET,reb,0,False,False,Drummond REBOUND (Off:5 Def:4),,71-77,71,77
@@ -268,9 +268,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900408,2019-12-18,DET,TOR,28.28,3,7,43,TOR,TOR,fg_miss,1,False,False,,MISS Ibaka 10' Jump Shot,73-77,73,77
 0021900408,2019-12-18,DET,TOR,28.32,3,7,41,TOR,TOR,reb,0,False,False,,Ibaka REBOUND (Off:3 Def:1),73-77,73,77
 0021900408,2019-12-18,DET,TOR,28.45,3,7,33,TOR,TOR,fg_miss,6,True,False,,MISS Lowry 3' Driving Layup,73-77,73,77
+0021900408,2019-12-18,DET,TOR,28.45,3,7,33,TOR,DET,block,6,True,False,block,block,73-77,73,77
 0021900408,2019-12-18,DET,TOR,28.45,3,7,33,TOR,TOR,reb,0,False,False,,Ibaka REBOUND (Off:4 Def:1),73-77,73,77
 0021900408,2019-12-18,DET,TOR,28.45,3,7,33,TOR,DET,foul,2,False,False,Brown S.FOUL (P2.T2) (T.Washington),,73-77,73,77
-0021900408,2019-12-18,DET,TOR,28.45,3,7,33,TOR,DET,block,6,True,False,block,block,73-77,73,77
 0021900408,2019-12-18,DET,TOR,28.45,3,7,33,TOR,TOR,ft_make,11,False,False,,Ibaka Free Throw 1 of 2 (11 PTS),73-78,73,78
 0021900408,2019-12-18,DET,TOR,28.45,3,7,33,TOR,TOR,ft_miss,12,False,False,,MISS Ibaka Free Throw 2 of 2,73-78,73,78
 0021900408,2019-12-18,DET,TOR,28.5,3,7,30,DET,DET,reb,0,False,False,Snell REBOUND (Off:0 Def:4),,73-78,73,78
@@ -412,9 +412,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900408,2019-12-18,DET,TOR,42.25,4,5,45,DET,DET,fg_miss,6,False,False,MISS Rose 7' Driving Layup,,92-105,92,105
 0021900408,2019-12-18,DET,TOR,42.28,4,5,43,TOR,TOR,reb,0,False,False,,Ibaka REBOUND (Off:7 Def:5),92-105,92,105
 0021900408,2019-12-18,DET,TOR,42.47,4,5,32,TOR,TOR,fg_miss,5,True,False,,MISS Anunoby 4' Layup,92-105,92,105
-0021900408,2019-12-18,DET,TOR,42.47,4,5,32,DET,DET,reb,0,False,False,PISTONS Rebound,,92-105,92,105
-0021900408,2019-12-18,DET,TOR,42.47,4,5,32,,DET,jump_ball,0,False,False,Jump Ball Griffin vs. Anunoby: Tip to Drummond,,92-105,92,105
 0021900408,2019-12-18,DET,TOR,42.47,4,5,32,TOR,DET,block,5,True,False,block,block,92-105,92,105
+0021900408,2019-12-18,DET,TOR,42.47,4,5,32,,DET,jump_ball,0,False,False,Jump Ball Griffin vs. Anunoby: Tip to Drummond,,92-105,92,105
+0021900408,2019-12-18,DET,TOR,42.47,4,5,32,DET,DET,reb,0,False,False,PISTONS Rebound,,92-105,92,105
 0021900408,2019-12-18,DET,TOR,42.88,4,5,7,DET,DET,fg3_miss,1,False,False,MISS Snell 25' 3PT Jump Shot,,92-105,92,105
 0021900408,2019-12-18,DET,TOR,42.93,4,5,4,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:0 Def:4),92-105,92,105
 0021900408,2019-12-18,DET,TOR,43.22,4,4,47,TOR,TOR,fg3_miss,1,False,False,,MISS Siakam 26' 3PT Jump Shot,92-105,92,105

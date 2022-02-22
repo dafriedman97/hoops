@@ -99,12 +99,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700013,2017-10-18,SAC,HOU,11.7,1,0,18,HOU,HOU,fg3_make,1,False,False,,Tucker 3PT Jump Shot (3 PTS) (Nene 1 AST),25-26,25,26
 0021700013,2017-10-18,SAC,HOU,11.97,1,0,2,SAC,HOU,foul,1,False,False,,Ariza P.FOUL (P1.T3) (B.Spooner),25-26,25,26
 0021700013,2017-10-18,SAC,HOU,12.0,1,0,0,SAC,SAC,fg_miss,1,True,False,MISS Fox 16' Jump Shot,,25-26,25,26
+0021700013,2017-10-18,SAC,HOU,12.0,1,0,0,SAC,HOU,block,1,True,False,block,block,25-26,25,26
 0021700013,2017-10-18,SAC,HOU,12.0,1,0,0,SAC,SAC,reb,0,False,False,KINGS Rebound,,25-26,25,26
 0021700013,2017-10-18,SAC,HOU,12.0,1,0,0,SAC,SAC,fg_miss,47,False,False,MISS Koufos 15' Turnaround Jump Shot,,25-26,25,26
 0021700013,2017-10-18,SAC,HOU,12.0,1,0,0,SAC,SAC,reb,0,False,False,KINGS Rebound,,25-26,25,26
 0021700013,2017-10-18,SAC,HOU,12.0,1,0,0,SAC,,period_end,0,False,False,,,25-26,25,26
 0021700013,2017-10-18,SAC,HOU,12.0,2,12,0,SAC,,period_start,0,False,False,,,25-26,25,26
-0021700013,2017-10-18,SAC,HOU,12.0,1,0,0,SAC,HOU,block,1,True,False,block,block,25-26,25,26
 0021700013,2017-10-18,SAC,HOU,12.17,2,11,50,HOU,SAC,foul,1,False,False,Richardson P.FOUL (P1.T1) (D.Richardson),,25-26,25,26
 0021700013,2017-10-18,SAC,HOU,12.32,2,11,41,HOU,HOU,timeout,1,False,False,,Rockets Timeout: Regular (Reg.2 Short 0),25-26,25,26
 0021700013,2017-10-18,SAC,HOU,12.42,2,11,35,HOU,HOU,fg3_miss,1,False,False,,MISS Mbah a Moute 25' 3PT Jump Shot,25-26,25,26
@@ -290,8 +290,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700013,2017-10-18,SAC,HOU,34.68,3,1,19,SAC,SAC,fg3_miss,1,False,False,MISS Hield 25' 3PT Jump Shot,,68-70,68,70
 0021700013,2017-10-18,SAC,HOU,34.77,3,1,14,HOU,HOU,reb,0,False,False,,Nene REBOUND (Off:0 Def:3),68-70,68,70
 0021700013,2017-10-18,SAC,HOU,34.82,3,1,11,HOU,SAC,foul,2,False,False,Hield S.FOUL (P3.T1) (K.Scott),,68-70,68,70
-0021700013,2017-10-18,SAC,HOU,34.82,3,1,11,HOU,HOU,ft_make,12,False,False,,Gordon Free Throw 2 of 2 (12 PTS),68-71,68,71
 0021700013,2017-10-18,SAC,HOU,34.82,3,1,11,HOU,HOU,ft_make,11,False,False,,Gordon Free Throw 1 of 2 (13 PTS),68-72,68,72
+0021700013,2017-10-18,SAC,HOU,34.82,3,1,11,HOU,HOU,ft_make,12,False,False,,Gordon Free Throw 2 of 2 (12 PTS),68-71,68,71
 0021700013,2017-10-18,SAC,HOU,35.02,3,0,59,SAC,HOU,violation,5,False,False,,Mbah a Moute Violation:Kicked Ball (K.Scott),68-72,68,72
 0021700013,2017-10-18,SAC,HOU,35.1,3,0,54,SAC,SAC,tov,1,False,True,Fox Bad Pass Turnover (P2.T13),,68-72,68,72
 0021700013,2017-10-18,SAC,HOU,35.1,3,0,54,SAC,HOU,steal,1,False,True,steal,steal,68-72,68,72

@@ -173,8 +173,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000373,2021-02-08,DEN,MIL,21.82,2,2,11,DEN,MIL,steal,1,False,True,steal,steal,59-56,59,56
 0022000373,2021-02-08,DEN,MIL,21.9,2,2,6,MIL,MIL,fg_make,50,False,False,,Middleton 1' Running Dunk (14 PTS),59-58,59,58
 0022000373,2021-02-08,DEN,MIL,22.18,2,1,49,DEN,DEN,fg_miss,6,True,False,MISS Murray 1' Driving Layup,,59-58,59,58
-0022000373,2021-02-08,DEN,MIL,22.18,2,1,49,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,59-58,59,58
 0022000373,2021-02-08,DEN,MIL,22.18,2,1,49,DEN,MIL,block,6,True,False,block,block,59-58,59,58
+0022000373,2021-02-08,DEN,MIL,22.18,2,1,49,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,59-58,59,58
 0022000373,2021-02-08,DEN,MIL,22.37,2,1,38,DEN,DEN,fg_miss,1,False,False,MISS Murray 17' Jump Shot,,59-58,59,58
 0022000373,2021-02-08,DEN,MIL,22.48,2,1,31,MIL,MIL,reb,0,False,False,,Connaughton REBOUND (Off:0 Def:1),59-58,59,58
 0022000373,2021-02-08,DEN,MIL,22.52,2,1,29,MIL,MIL,fg3_miss,1,True,False,,MISS DiVincenzo 3PT Jump Shot,59-58,59,58
@@ -190,8 +190,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000373,2021-02-08,DEN,MIL,23.63,2,0,22,MIL,MIL,fg_miss,101,False,False,,MISS Portis 12' Driving Floating Jump Shot,62-58,62,58
 0022000373,2021-02-08,DEN,MIL,23.68,2,0,19,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:6),62-58,62,58
 0022000373,2021-02-08,DEN,MIL,23.7,2,0,18,MIL,MIL,fg_miss,72,True,False,,MISS Antetokounmpo 5' Putback Layup,62-58,62,58
-0022000373,2021-02-08,DEN,MIL,23.7,2,0,18,MIL,MIL,reb,0,False,False,,Bucks Rebound,62-58,62,58
 0022000373,2021-02-08,DEN,MIL,23.7,2,0,18,MIL,DEN,block,72,True,False,block,block,62-58,62,58
+0022000373,2021-02-08,DEN,MIL,23.7,2,0,18,MIL,MIL,reb,0,False,False,,Bucks Rebound,62-58,62,58
 0022000373,2021-02-08,DEN,MIL,23.82,2,0,11,,DEN,jump_ball,0,False,False,Jump Ball Millsap vs. Antetokounmpo: Tip to Middleton,,62-58,62,58
 0022000373,2021-02-08,DEN,MIL,23.83,2,0,10,MIL,MIL,fg3_miss,1,False,False,,MISS Middleton 27' 3PT Jump Shot,62-58,62,58
 0022000373,2021-02-08,DEN,MIL,23.88,2,0,7,MIL,MIL,reb,0,False,False,,Portis REBOUND (Off:1 Def:1),62-58,62,58
@@ -308,10 +308,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000373,2021-02-08,DEN,MIL,35.85,3,0,9,MIL,MIL,fg3_miss,80,False,False,,MISS Augustin 31' 3PT Step Back Jump Shot,88-93,88,93
 0022000373,2021-02-08,DEN,MIL,35.92,3,0,5,DEN,DEN,reb,0,False,False,Hampton REBOUND (Off:0 Def:6),,88-93,88,93
 0022000373,2021-02-08,DEN,MIL,36.0,3,0,0,DEN,DEN,fg_miss,74,True,False,MISS Morris 9' Running Reverse Layup,,88-93,88,93
+0022000373,2021-02-08,DEN,MIL,36.0,3,0,0,DEN,MIL,block,74,True,False,block,block,88-93,88,93
 0022000373,2021-02-08,DEN,MIL,36.0,3,0,0,MIL,MIL,reb,0,False,False,,Bucks Rebound,88-93,88,93
 0022000373,2021-02-08,DEN,MIL,36.0,3,0,0,MIL,,period_end,0,False,False,,,88-93,88,93
 0022000373,2021-02-08,DEN,MIL,36.0,4,12,0,MIL,,period_start,0,False,False,,,88-93,88,93
-0022000373,2021-02-08,DEN,MIL,36.0,3,0,0,DEN,MIL,block,74,True,False,block,block,88-93,88,93
 0022000373,2021-02-08,DEN,MIL,36.23,4,11,46,DEN,DEN,fg_miss,98,False,False,MISS Green 9' Cutting Layup Shot,,88-93,88,93
 0022000373,2021-02-08,DEN,MIL,36.25,4,11,45,DEN,DEN,reb,0,False,False,Green REBOUND (Off:1 Def:1),,88-93,88,93
 0022000373,2021-02-08,DEN,MIL,36.25,4,11,45,DEN,DEN,fg_make,72,False,False,Green 6' Putback Layup (5 PTS),,90-93,90,93
@@ -334,11 +334,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000373,2021-02-08,DEN,MIL,38.48,4,9,31,MIL,DEN,foul,1,False,False,Green P.FOUL (P3.T3) (G.Petraitis),,92-100,92,100
 0022000373,2021-02-08,DEN,MIL,38.63,4,9,22,MIL,MIL,fg_make,86,False,False,,Middleton 15' Turnaround Fadeaway (25 PTS),92-102,92,102
 0022000373,2021-02-08,DEN,MIL,38.93,4,9,4,DEN,DEN,fg_miss,101,True,False,MISS Barton 3' Driving Floating Jump Shot,,92-102,92,102
+0022000373,2021-02-08,DEN,MIL,38.93,4,9,4,DEN,MIL,block,101,True,False,block,block,92-102,92,102
 0022000373,2021-02-08,DEN,MIL,38.93,4,9,4,DEN,DEN,reb,0,False,False,Millsap REBOUND (Off:2 Def:2),,92-102,92,102
 0022000373,2021-02-08,DEN,MIL,38.93,4,9,4,DEN,MIL,foul,2,False,False,,Middleton S.FOUL (P1.T2) (G.Petraitis),92-102,92,102
 0022000373,2021-02-08,DEN,MIL,38.93,4,9,4,DEN,DEN,ft_miss,11,False,False,MISS Millsap Free Throw 1 of 2,,92-102,92,102
 0022000373,2021-02-08,DEN,MIL,38.93,4,9,4,DEN,DEN,reb,1,False,False,NUGGETS Rebound,,92-102,92,102
-0022000373,2021-02-08,DEN,MIL,38.93,4,9,4,DEN,MIL,block,101,True,False,block,block,92-102,92,102
 0022000373,2021-02-08,DEN,MIL,38.93,4,9,4,DEN,DEN,ft_make,12,False,False,Millsap Free Throw 2 of 2 (12 PTS),,93-102,93,102
 0022000373,2021-02-08,DEN,MIL,39.12,4,8,53,MIL,MIL,fg_make,52,False,False,,Antetokounmpo 2' Alley Oop Dunk (25 PTS) (Middleton 10 AST),93-104,93,104
 0022000373,2021-02-08,DEN,MIL,39.15,4,8,51,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 4 Short 0),,93-104,93,104
@@ -357,8 +357,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000373,2021-02-08,DEN,MIL,41.72,4,6,17,DEN,DEN,tov,1,False,True,Barton Bad Pass Turnover (P3.T8),,100-111,100,111
 0022000373,2021-02-08,DEN,MIL,41.72,4,6,17,DEN,MIL,steal,1,False,True,steal,steal,100-111,100,111
 0022000373,2021-02-08,DEN,MIL,41.78,4,6,13,MIL,MIL,fg_miss,76,True,False,,MISS DiVincenzo 6' Running Finger Roll Layup,100-111,100,111
-0022000373,2021-02-08,DEN,MIL,41.78,4,6,13,MIL,MIL,reb,0,False,False,,Bucks Rebound,100-111,100,111
 0022000373,2021-02-08,DEN,MIL,41.78,4,6,13,MIL,DEN,block,76,True,False,block,block,100-111,100,111
+0022000373,2021-02-08,DEN,MIL,41.78,4,6,13,MIL,MIL,reb,0,False,False,,Bucks Rebound,100-111,100,111
 0022000373,2021-02-08,DEN,MIL,41.82,4,6,11,MIL,MIL,fg_make,98,False,False,,Forbes 3' Cutting Layup Shot (15 PTS) (DiVincenzo 2 AST),100-113,100,113
 0022000373,2021-02-08,DEN,MIL,42.17,4,5,50,DEN,DEN,fg_make,63,False,False,Jokic 12' Fadeaway Jumper (29 PTS),,102-113,102,113
 0022000373,2021-02-08,DEN,MIL,42.38,4,5,37,MIL,MIL,fg_miss,5,False,False,,MISS Antetokounmpo 9' Layup,102-113,102,113
@@ -408,15 +408,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000373,2021-02-08,DEN,MIL,46.9,4,1,6,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:1 Def:7),112-120,112,120
 0022000373,2021-02-08,DEN,MIL,47.17,4,0,50,MIL,MIL,fg_make,57,False,False,,Lopez 7' Driving Hook Shot (10 PTS),112-122,112,122
 0022000373,2021-02-08,DEN,MIL,47.3,4,0,42,DEN,DEN,fg_miss,5,True,False,MISS Barton 4' Layup,,112-122,112,122
-0022000373,2021-02-08,DEN,MIL,47.3,4,0,42,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,112-122,112,122
 0022000373,2021-02-08,DEN,MIL,47.3,4,0,42,DEN,MIL,block,5,True,False,block,block,112-122,112,122
+0022000373,2021-02-08,DEN,MIL,47.3,4,0,42,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,112-122,112,122
 0022000373,2021-02-08,DEN,MIL,47.35,4,0,39,DEN,DEN,fg3_miss,63,False,False,MISS Murray 3PT Fadeaway Jumper,,112-122,112,122
 0022000373,2021-02-08,DEN,MIL,47.35,4,0,39,MIL,MIL,reb,0,False,False,,DiVincenzo REBOUND (Off:1 Def:6),112-122,112,122
 0022000373,2021-02-08,DEN,MIL,47.43,4,0,34,MIL,MIL,fg_miss,50,False,False,,MISS DiVincenzo Running Dunk,112-122,112,122
 0022000373,2021-02-08,DEN,MIL,47.45,4,0,33,MIL,MIL,reb,0,False,False,,Lopez REBOUND (Off:4 Def:3),112-122,112,122
-0022000373,2021-02-08,DEN,MIL,47.47,4,0,32,MIL,MIL,fg_make,72,False,False,,Lopez 1' Putback Layup (12 PTS),112-124,112,124
 0022000373,2021-02-08,DEN,MIL,47.47,4,0,32,MIL,DEN,foul,1,False,False,Millsap P.FOUL (P4.PN) (S.Wright),,112-124,112,124
 0022000373,2021-02-08,DEN,MIL,47.47,4,0,32,MIL,MIL,ft_make,10,False,False,,Lopez Free Throw 1 of 1 (13 PTS),112-125,112,125
+0022000373,2021-02-08,DEN,MIL,47.47,4,0,32,MIL,MIL,fg_make,72,False,False,,Lopez 1' Putback Layup (12 PTS),112-124,112,124
 0022000373,2021-02-08,DEN,MIL,47.62,4,0,23,DEN,DEN,fg3_miss,79,False,False,MISS Murray 28' 3PT Pullup Jump Shot,,112-125,112,125
 0022000373,2021-02-08,DEN,MIL,47.63,4,0,22,MIL,MIL,reb,0,False,False,,Forbes REBOUND (Off:1 Def:4),112-125,112,125
 0022000373,2021-02-08,DEN,MIL,48.0,4,0,0,MIL,,period_end,0,False,False,,,112-125,112,125

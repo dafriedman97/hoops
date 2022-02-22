@@ -35,8 +35,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000781,2021-04-07,OKC,CHA,2.57,1,9,26,OKC,OKC,ft_miss,12,False,False,MISS Brown Free Throw 2 of 2,,0-3,0,3
 0022000781,2021-04-07,OKC,CHA,2.62,1,9,23,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:0 Def:1),0-3,0,3
 0022000781,2021-04-07,OKC,CHA,2.85,1,9,9,CHA,CHA,fg_miss,5,True,False,,MISS Washington 2' Layup,0-3,0,3
-0022000781,2021-04-07,OKC,CHA,2.85,1,9,9,CHA,CHA,reb,0,False,False,,Hornets Rebound,0-3,0,3
 0022000781,2021-04-07,OKC,CHA,2.85,1,9,9,CHA,OKC,block,5,True,False,block,block,0-3,0,3
+0022000781,2021-04-07,OKC,CHA,2.85,1,9,9,CHA,CHA,reb,0,False,False,,Hornets Rebound,0-3,0,3
 0022000781,2021-04-07,OKC,CHA,2.93,1,9,4,,OKC,jump_ball,0,False,False,Jump Ball Brown vs. Washington: Tip to Washington,,0-3,0,3
 0022000781,2021-04-07,OKC,CHA,2.98,1,9,1,CHA,CHA,fg_make,79,False,False,,Graham 21' Pullup Jump Shot (2 PTS),0-5,0,5
 0022000781,2021-04-07,OKC,CHA,3.37,1,8,38,OKC,OKC,fg3_miss,80,False,False,MISS Mykhailiuk 24' 3PT Step Back Jump Shot,,0-5,0,5
@@ -124,9 +124,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000781,2021-04-07,OKC,CHA,13.2,2,10,48,OKC,OKC,fg3_miss,1,False,False,MISS Jerome 25' 3PT Jump Shot,,29-35,29,35
 0022000781,2021-04-07,OKC,CHA,13.25,2,10,45,CHA,CHA,reb,0,False,False,,Martin REBOUND (Off:1 Def:1),29-35,29,35
 0022000781,2021-04-07,OKC,CHA,13.37,2,10,38,CHA,CHA,fg_miss,76,True,False,,MISS Wanamaker 4' Running Finger Roll Layup,29-35,29,35
+0022000781,2021-04-07,OKC,CHA,13.37,2,10,38,CHA,OKC,block,76,True,False,block,block,29-35,29,35
 0022000781,2021-04-07,OKC,CHA,13.37,2,10,38,CHA,CHA,reb,0,False,False,,Wanamaker REBOUND (Off:1 Def:0),29-35,29,35
 0022000781,2021-04-07,OKC,CHA,13.37,2,10,38,CHA,CHA,tov,4,False,False,,Wanamaker Traveling Turnover (P1.T5),29-35,29,35
-0022000781,2021-04-07,OKC,CHA,13.37,2,10,38,CHA,OKC,block,76,True,False,block,block,29-35,29,35
 0022000781,2021-04-07,OKC,CHA,13.62,2,10,23,OKC,OKC,fg_make,6,False,False,Bradley 1' Driving Layup (6 PTS),,31-35,31,35
 0022000781,2021-04-07,OKC,CHA,13.85,2,10,9,CHA,CHA,fg_miss,79,False,False,,MISS Graham 16' Pullup Jump Shot,31-35,31,35
 0022000781,2021-04-07,OKC,CHA,13.9,2,10,6,OKC,OKC,reb,0,False,False,Bradley REBOUND (Off:1 Def:2),,31-35,31,35
@@ -202,8 +202,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000781,2021-04-07,OKC,CHA,20.32,2,3,41,OKC,OKC,fg_miss,72,False,False,MISS Brown 1' Putback Layup,,46-46,46,46
 0022000781,2021-04-07,OKC,CHA,20.32,2,3,41,OKC,OKC,reb,0,False,False,Williams REBOUND (Off:2 Def:2),,46-46,46,46
 0022000781,2021-04-07,OKC,CHA,20.37,2,3,38,OKC,OKC,fg_miss,97,True,False,MISS Williams Tip Layup Shot,,46-46,46,46
-0022000781,2021-04-07,OKC,CHA,20.37,2,3,38,CHA,CHA,reb,0,False,False,,Zeller REBOUND (Off:0 Def:4),46-46,46,46
 0022000781,2021-04-07,OKC,CHA,20.37,2,3,38,OKC,CHA,block,97,True,False,block,block,46-46,46,46
+0022000781,2021-04-07,OKC,CHA,20.37,2,3,38,CHA,CHA,reb,0,False,False,,Zeller REBOUND (Off:0 Def:4),46-46,46,46
 0022000781,2021-04-07,OKC,CHA,20.47,2,3,32,CHA,CHA,fg3_miss,1,False,False,,MISS Martin 3PT Jump Shot,46-46,46,46
 0022000781,2021-04-07,OKC,CHA,20.52,2,3,29,OKC,OKC,reb,0,False,False,Williams REBOUND (Off:2 Def:3),,46-46,46,46
 0022000781,2021-04-07,OKC,CHA,20.63,2,3,22,OKC,OKC,fg3_miss,1,False,False,MISS Maledon 25' 3PT Jump Shot,,46-46,46,46
@@ -265,10 +265,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000781,2021-04-07,OKC,CHA,27.4,3,8,36,OKC,OKC,ft_make,12,False,False,Williams Free Throw 2 of 2 (3 PTS),,61-65,61,65
 0022000781,2021-04-07,OKC,CHA,27.57,3,8,26,CHA,CHA,fg3_miss,1,False,False,,MISS Washington 25' 3PT Jump Shot,61-65,61,65
 0022000781,2021-04-07,OKC,CHA,27.63,3,8,22,OKC,OKC,reb,0,False,False,Williams REBOUND (Off:2 Def:5),,61-65,61,65
-0022000781,2021-04-07,OKC,CHA,27.83,3,8,10,OKC,OKC,fg_miss,6,True,False,MISS Williams 4' Driving Layup,,61-65,61,65
-0022000781,2021-04-07,OKC,CHA,27.83,3,8,10,CHA,CHA,reb,0,False,False,,Hornets Rebound,61-65,61,65
 0022000781,2021-04-07,OKC,CHA,27.83,3,8,10,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.2 Short 0),61-65,61,65
+0022000781,2021-04-07,OKC,CHA,27.83,3,8,10,OKC,OKC,fg_miss,6,True,False,MISS Williams 4' Driving Layup,,61-65,61,65
 0022000781,2021-04-07,OKC,CHA,27.83,3,8,10,OKC,CHA,block,6,True,False,block,block,61-65,61,65
+0022000781,2021-04-07,OKC,CHA,27.83,3,8,10,CHA,CHA,reb,0,False,False,,Hornets Rebound,61-65,61,65
 0022000781,2021-04-07,OKC,CHA,27.88,3,8,7,,OKC,jump_ball,1,False,False,Jump Ball (CC) Brown vs. Bridges: Tip to Graham,,61-65,61,65
 0022000781,2021-04-07,OKC,CHA,28.05,3,7,57,CHA,CHA,tov,45,False,False,,Bridges Out of Bounds - Bad Pass Turnover Turnover (P2.T8),61-65,61,65
 0022000781,2021-04-07,OKC,CHA,28.25,3,7,45,OKC,OKC,fg_miss,80,False,False,MISS Pokusevski 19' Step Back Jump Shot,,61-65,61,65
@@ -293,8 +293,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000781,2021-04-07,OKC,CHA,30.38,3,5,37,OKC,OKC,fg3_miss,1,False,False,MISS Pokusevski 27' 3PT Jump Shot,,64-69,64,69
 0022000781,2021-04-07,OKC,CHA,30.42,3,5,35,OKC,OKC,reb,0,False,False,Brown REBOUND (Off:6 Def:2),,64-69,64,69
 0022000781,2021-04-07,OKC,CHA,30.47,3,5,32,OKC,OKC,fg_miss,57,True,False,MISS Brown 5' Driving Hook Shot,,64-69,64,69
-0022000781,2021-04-07,OKC,CHA,30.47,3,5,32,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:4),64-69,64,69
 0022000781,2021-04-07,OKC,CHA,30.47,3,5,32,OKC,CHA,block,57,True,False,block,block,64-69,64,69
+0022000781,2021-04-07,OKC,CHA,30.47,3,5,32,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:4),64-69,64,69
 0022000781,2021-04-07,OKC,CHA,30.6,3,5,24,CHA,CHA,fg_make,100,False,False,,McDaniels 4' Running Alley Oop Layup Shot (19 PTS) (Graham 3 AST),64-71,64,71
 0022000781,2021-04-07,OKC,CHA,30.82,3,5,11,OKC,OKC,fg3_make,1,False,False,Mykhailiuk 3PT Jump Shot (9 PTS) (Williams 5 AST),,67-71,67,71
 0022000781,2021-04-07,OKC,CHA,31.27,3,4,44,CHA,CHA,fg3_miss,79,False,False,,MISS Bridges 26' 3PT Pullup Jump Shot,67-71,67,71

@@ -28,8 +28,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700719,2018-01-26,MIL,BKN,3.67,1,8,20,MIL,MIL,fg_miss,78,False,False,MISS Middleton 2' Floating Jump Shot,,11-2,11,2
 0021700719,2018-01-26,MIL,BKN,3.67,1,8,20,BKN,BKN,reb,0,False,False,,Dinwiddie REBOUND (Off:0 Def:1),11-2,11,2
 0021700719,2018-01-26,MIL,BKN,3.77,1,8,14,BKN,BKN,fg_miss,6,True,False,,MISS Hollis-Jefferson 2' Driving Layup,11-2,11,2
-0021700719,2018-01-26,MIL,BKN,3.77,1,8,14,BKN,BKN,reb,0,False,False,,Zeller REBOUND (Off:1 Def:0),11-2,11,2
 0021700719,2018-01-26,MIL,BKN,3.77,1,8,14,BKN,MIL,block,6,True,False,block,block,11-2,11,2
+0021700719,2018-01-26,MIL,BKN,3.77,1,8,14,BKN,BKN,reb,0,False,False,,Zeller REBOUND (Off:1 Def:0),11-2,11,2
 0021700719,2018-01-26,MIL,BKN,3.92,1,8,5,BKN,BKN,fg3_miss,1,False,False,,MISS Zeller 25' 3PT Jump Shot,11-2,11,2
 0021700719,2018-01-26,MIL,BKN,3.97,1,8,2,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:0 Def:3),,11-2,11,2
 0021700719,2018-01-26,MIL,BKN,4.08,1,7,55,MIL,MIL,fg_miss,1,False,False,MISS Bledsoe 20' Jump Shot,,11-2,11,2
@@ -89,9 +89,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700719,2018-01-26,MIL,BKN,9.63,1,2,22,MIL,MIL,reb,0,False,False,Brown REBOUND (Off:0 Def:3),,25-10,25,10
 0021700719,2018-01-26,MIL,BKN,9.77,1,2,14,MIL,MIL,fg_make,1,False,False,Snell 18' Jump Shot (5 PTS),,27-10,27,10
 0021700719,2018-01-26,MIL,BKN,10.05,1,1,57,BKN,BKN,tov,1,False,True,,Russell Bad Pass Turnover (P2.T4),27-10,27,10
+0021700719,2018-01-26,MIL,BKN,10.05,1,1,57,BKN,MIL,steal,1,False,True,steal,steal,27-10,27,10
 0021700719,2018-01-26,MIL,BKN,10.05,1,1,57,MIL,BKN,foul,1,False,False,,Russell P.FOUL (P1.T3) (A.Smith),27-10,27,10
 0021700719,2018-01-26,MIL,BKN,10.05,1,1,57,MIL,MIL,timeout,1,False,False,BUCKS Timeout: Regular (Full 1 Short 0),,27-10,27,10
-0021700719,2018-01-26,MIL,BKN,10.05,1,1,57,BKN,MIL,steal,1,False,True,steal,steal,27-10,27,10
 0021700719,2018-01-26,MIL,BKN,10.18,1,1,49,MIL,MIL,fg_make,1,False,False,Maker 17' Jump Shot (4 PTS) (Brown 1 AST),,29-10,29,10
 0021700719,2018-01-26,MIL,BKN,10.47,1,1,32,BKN,BKN,fg_make,101,False,False,,Russell 6' Driving Floating Jump Shot (2 PTS),29-12,29,12
 0021700719,2018-01-26,MIL,BKN,10.67,1,1,20,MIL,BKN,foul,1,False,False,,Harris P.FOUL (P1.PN) (K.Fitzgerald),29-12,29,12
@@ -166,16 +166,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700719,2018-01-26,MIL,BKN,18.27,2,5,44,MIL,MIL,fg3_miss,1,False,False,MISS Bledsoe 27' 3PT Jump Shot,,46-25,46,25
 0021700719,2018-01-26,MIL,BKN,18.32,2,5,41,BKN,BKN,reb,0,False,False,,Carroll REBOUND (Off:0 Def:4),46-25,46,25
 0021700719,2018-01-26,MIL,BKN,18.53,2,5,28,BKN,BKN,fg_miss,6,True,False,,MISS Harris 7' Driving Layup,46-25,46,25
-0021700719,2018-01-26,MIL,BKN,18.53,2,5,28,BKN,BKN,reb,0,False,False,,Nets Rebound,46-25,46,25
 0021700719,2018-01-26,MIL,BKN,18.53,2,5,28,BKN,MIL,block,6,True,False,block,block,46-25,46,25
+0021700719,2018-01-26,MIL,BKN,18.53,2,5,28,BKN,BKN,reb,0,False,False,,Nets Rebound,46-25,46,25
 0021700719,2018-01-26,MIL,BKN,18.6,2,5,24,BKN,BKN,fg_make,98,False,False,,Crabbe 4' Cutting Layup Shot (10 PTS) (Harris 2 AST),46-27,46,27
 0021700719,2018-01-26,MIL,BKN,19.05,2,4,57,MIL,MIL,tov,1,False,True,Bledsoe Bad Pass Turnover (P2.T3),,46-27,46,27
 0021700719,2018-01-26,MIL,BKN,19.05,2,4,57,MIL,BKN,steal,1,False,True,steal,steal,46-27,46,27
 0021700719,2018-01-26,MIL,BKN,19.12,2,4,53,BKN,BKN,fg_miss,41,False,False,,MISS Carroll 1' Running Layup,46-27,46,27
 0021700719,2018-01-26,MIL,BKN,19.17,2,4,50,MIL,MIL,reb,0,False,False,Brown REBOUND (Off:0 Def:6),,46-27,46,27
 0021700719,2018-01-26,MIL,BKN,19.2,2,4,48,MIL,MIL,fg_miss,41,True,False,MISS Brown 3' Running Layup,,46-27,46,27
-0021700719,2018-01-26,MIL,BKN,19.2,2,4,48,MIL,MIL,reb,0,False,False,BUCKS Rebound,,46-27,46,27
 0021700719,2018-01-26,MIL,BKN,19.2,2,4,48,MIL,BKN,block,41,True,False,block,block,46-27,46,27
+0021700719,2018-01-26,MIL,BKN,19.2,2,4,48,MIL,MIL,reb,0,False,False,BUCKS Rebound,,46-27,46,27
 0021700719,2018-01-26,MIL,BKN,19.5,2,4,30,MIL,MIL,tov,11,False,False,BUCKS Turnover: Shot Clock (T#4),,46-27,46,27
 0021700719,2018-01-26,MIL,BKN,19.77,2,4,14,BKN,BKN,fg_miss,78,False,False,,MISS Harris 8' Floating Jump Shot,46-27,46,27
 0021700719,2018-01-26,MIL,BKN,19.8,2,4,12,MIL,MIL,reb,0,False,False,Henson REBOUND (Off:0 Def:4),,46-27,46,27
@@ -320,8 +320,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700719,2018-01-26,MIL,BKN,36.95,4,11,3,MIL,MIL,fg3_make,1,False,False,Maker 3PT Jump Shot (11 PTS) (Antetokounmpo 5 AST),,86-74,86,74
 0021700719,2018-01-26,MIL,BKN,37.38,4,10,37,BKN,BKN,fg_make,108,False,False,,Allen 1' Cutting Dunk Shot (8 PTS) (Carroll 3 AST),86-76,86,76
 0021700719,2018-01-26,MIL,BKN,37.78,4,10,13,MIL,MIL,tov,2,False,True,Maker Lost Ball Turnover (P1.T9),,86-76,86,76
-0021700719,2018-01-26,MIL,BKN,37.78,4,10,13,BKN,MIL,foul,1,False,False,Maker P.FOUL (P1.T1) (K.Fitzgerald),,86-76,86,76
 0021700719,2018-01-26,MIL,BKN,37.78,4,10,13,MIL,BKN,steal,2,False,True,steal,steal,86-76,86,76
+0021700719,2018-01-26,MIL,BKN,37.78,4,10,13,BKN,MIL,foul,1,False,False,Maker P.FOUL (P1.T1) (K.Fitzgerald),,86-76,86,76
 0021700719,2018-01-26,MIL,BKN,38.05,4,9,57,BKN,BKN,fg3_miss,1,False,False,,MISS Carroll 29' 3PT Jump Shot,86-76,86,76
 0021700719,2018-01-26,MIL,BKN,38.1,4,9,54,MIL,MIL,reb,0,False,False,Brown REBOUND (Off:0 Def:9),,86-76,86,76
 0021700719,2018-01-26,MIL,BKN,38.33,4,9,40,MIL,MIL,fg_make,105,False,False,Antetokounmpo 9' Turnaround Fadeaway Bank Jump Shot (30 PTS),,88-76,88,76
@@ -342,8 +342,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700719,2018-01-26,MIL,BKN,40.25,4,7,45,MIL,MIL,fg3_miss,1,False,False,MISS Maker 24' 3PT Jump Shot,,91-80,91,80
 0021700719,2018-01-26,MIL,BKN,40.28,4,7,43,BKN,BKN,reb,0,False,False,,Carroll REBOUND (Off:2 Def:6),91-80,91,80
 0021700719,2018-01-26,MIL,BKN,40.53,4,7,28,BKN,BKN,tov,1,False,True,,Dinwiddie Bad Pass Turnover (P1.T13),91-80,91,80
-0021700719,2018-01-26,MIL,BKN,40.53,4,7,28,MIL,BKN,foul,1,False,False,,Dinwiddie P.FOUL (P2.T1) (A.Smith),91-80,91,80
 0021700719,2018-01-26,MIL,BKN,40.53,4,7,28,BKN,MIL,steal,1,False,True,steal,steal,91-80,91,80
+0021700719,2018-01-26,MIL,BKN,40.53,4,7,28,MIL,BKN,foul,1,False,False,,Dinwiddie P.FOUL (P2.T1) (A.Smith),91-80,91,80
 0021700719,2018-01-26,MIL,BKN,40.82,4,7,11,MIL,MIL,fg_miss,3,False,False,MISS Henson 3' Hook Shot,,91-80,91,80
 0021700719,2018-01-26,MIL,BKN,40.87,4,7,8,BKN,BKN,reb,0,False,False,,Acy REBOUND (Off:0 Def:3),91-80,91,80
 0021700719,2018-01-26,MIL,BKN,41.15,4,6,51,BKN,BKN,fg_make,6,False,False,,Carroll 2' Driving Layup (14 PTS) (Dinwiddie 3 AST),91-82,91,82

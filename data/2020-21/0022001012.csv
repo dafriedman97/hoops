@@ -81,8 +81,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001012,2021-05-08,IND,WAS,8.02,1,3,59,WAS,WAS,fg3_miss,1,False,False,,MISS Bertans 26' 3PT Jump Shot,22-21,22,21
 0022001012,2021-05-08,IND,WAS,8.03,1,3,58,IND,IND,reb,0,False,False,McDermott REBOUND (Off:0 Def:1),,22-21,22,21
 0022001012,2021-05-08,IND,WAS,8.18,1,3,49,IND,IND,fg3_miss,1,False,False,MISS McDermott 26' 3PT Jump Shot,,22-21,22,21
-0022001012,2021-05-08,IND,WAS,8.27,1,3,44,IND,IND,fg_make,97,False,False,Sabonis Tip Layup Shot (4 PTS),,24-21,24,21
 0022001012,2021-05-08,IND,WAS,8.27,1,3,44,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:1 Def:3),,24-21,24,21
+0022001012,2021-05-08,IND,WAS,8.27,1,3,44,IND,IND,fg_make,97,False,False,Sabonis Tip Layup Shot (4 PTS),,24-21,24,21
 0022001012,2021-05-08,IND,WAS,8.38,1,3,37,IND,WAS,foul,4,False,False,,Len OFF.Foul (P2) (T.Washington),24-21,24,21
 0022001012,2021-05-08,IND,WAS,8.38,1,3,37,WAS,WAS,tov,37,False,False,,Len Offensive Foul Turnover (P1.T4),24-21,24,21
 0022001012,2021-05-08,IND,WAS,8.78,1,3,13,IND,IND,fg_make,5,False,False,Sabonis Layup (6 PTS) (Holiday 1 AST),,26-21,26,21
@@ -125,9 +125,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001012,2021-05-08,IND,WAS,13.1,2,10,54,WAS,IND,block,58,True,False,block,block,37-33,37,33
 0022001012,2021-05-08,IND,WAS,13.15,2,10,51,WAS,WAS,reb,0,False,False,,Lopez REBOUND (Off:1 Def:0),37-33,37,33
 0022001012,2021-05-08,IND,WAS,13.18,2,10,49,WAS,WAS,fg_miss,58,True,False,,MISS Lopez 6' Turnaround Hook Shot,37-33,37,33
+0022001012,2021-05-08,IND,WAS,13.18,2,10,49,WAS,IND,block,58,True,False,block,block,37-33,37,33
 0022001012,2021-05-08,IND,WAS,13.18,2,10,49,WAS,WAS,reb,0,False,False,,Wizards Rebound,37-33,37,33
 0022001012,2021-05-08,IND,WAS,13.18,2,10,49,WAS,WAS,tov,11,False,False,,Wizards Turnover: Shot Clock (T#5),37-33,37,33
-0022001012,2021-05-08,IND,WAS,13.18,2,10,49,WAS,IND,block,58,True,False,block,block,37-33,37,33
 0022001012,2021-05-08,IND,WAS,13.4,2,10,36,IND,IND,fg3_miss,1,False,False,MISS Bitadze 28' 3PT Jump Shot,,37-33,37,33
 0022001012,2021-05-08,IND,WAS,13.47,2,10,32,WAS,WAS,reb,0,False,False,,Hutchison REBOUND (Off:0 Def:1),37-33,37,33
 0022001012,2021-05-08,IND,WAS,13.62,2,10,23,WAS,WAS,fg_make,79,False,False,,Westbrook 4' Pullup Jump Shot (11 PTS),37-35,37,35
@@ -254,10 +254,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001012,2021-05-08,IND,WAS,24.63,3,11,22,IND,IND,fg_miss,6,False,False,MISS Sumner 2' Driving Layup,,64-65,64,65
 0022001012,2021-05-08,IND,WAS,24.67,3,11,20,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:1 Def:7),64-65,64,65
 0022001012,2021-05-08,IND,WAS,24.85,3,11,9,WAS,WAS,fg3_miss,1,False,False,,MISS Mathews 26' 3PT Jump Shot,64-65,64,65
-0022001012,2021-05-08,IND,WAS,24.87,3,11,8,WAS,WAS,reb,0,False,False,,Wizards Rebound,64-65,64,65
 0022001012,2021-05-08,IND,WAS,24.87,3,11,8,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 3 Short 0),,64-65,64,65
 0022001012,2021-05-08,IND,WAS,24.87,3,11,8,IND,WAS,foul,4,False,False,,Mathews OFF.Foul (P1) (T.Washington),64-65,64,65
 0022001012,2021-05-08,IND,WAS,24.87,3,11,8,WAS,WAS,tov,37,False,False,,Mathews Offensive Foul Turnover (P1.T11),64-65,64,65
+0022001012,2021-05-08,IND,WAS,24.87,3,11,8,WAS,WAS,reb,0,False,False,,Wizards Rebound,64-65,64,65
 0022001012,2021-05-08,IND,WAS,25.02,3,10,59,IND,IND,fg_make,79,False,False,LeVert 10' Pullup Jump Shot (11 PTS) (McDermott 1 AST),,66-65,66,65
 0022001012,2021-05-08,IND,WAS,25.28,3,10,43,WAS,WAS,fg_make,1,False,False,,Hachimura 18' Jump Shot (9 PTS) (Westbrook 8 AST),66-67,66,67
 0022001012,2021-05-08,IND,WAS,25.52,3,10,29,IND,IND,fg_miss,63,False,False,MISS LeVert 13' Fadeaway Jumper,,66-67,66,67
@@ -424,9 +424,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001012,2021-05-08,IND,WAS,40.8,4,7,12,WAS,WAS,reb,0,False,False,,Hachimura REBOUND (Off:0 Def:2),114-105,114,105
 0022001012,2021-05-08,IND,WAS,40.98,4,7,1,WAS,IND,foul,1,False,False,Holiday P.FOUL (P3.T3) (T.Washington),,114-105,114,105
 0022001012,2021-05-08,IND,WAS,41.15,4,6,51,WAS,WAS,fg_miss,101,True,False,,MISS Beal 2' Driving Floating Jump Shot,114-105,114,105
+0022001012,2021-05-08,IND,WAS,41.15,4,6,51,WAS,IND,block,101,True,False,block,block,114-105,114,105
 0022001012,2021-05-08,IND,WAS,41.15,4,6,51,WAS,WAS,reb,0,False,False,,Beal REBOUND (Off:4 Def:0),114-105,114,105
 0022001012,2021-05-08,IND,WAS,41.15,4,6,51,WAS,IND,foul,2,False,False,Martin S.FOUL (P2.T4) (D.Richardson),,114-105,114,105
-0022001012,2021-05-08,IND,WAS,41.15,4,6,51,WAS,IND,block,101,True,False,block,block,114-105,114,105
 0022001012,2021-05-08,IND,WAS,41.15,4,6,51,WAS,WAS,ft_make,11,False,False,,Beal Free Throw 1 of 2 (43 PTS),114-106,114,106
 0022001012,2021-05-08,IND,WAS,41.15,4,6,51,WAS,WAS,ft_make,12,False,False,,Beal Free Throw 2 of 2 (44 PTS),114-107,114,107
 0022001012,2021-05-08,IND,WAS,41.43,4,6,34,IND,IND,tov,2,False,True,Sabonis Lost Ball Turnover (P3.T11),,114-107,114,107
@@ -469,8 +469,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001012,2021-05-08,IND,WAS,44.77,4,3,14,IND,WAS,foul,2,False,False,,Westbrook S.FOUL (P3.T3) (H.Workman),117-116,117,116
 0022001012,2021-05-08,IND,WAS,44.77,4,3,14,IND,IND,ft_miss,11,False,False,MISS LeVert Free Throw 1 of 2,,117-116,117,116
 0022001012,2021-05-08,IND,WAS,44.77,4,3,14,IND,IND,reb,1,False,False,PACERS Rebound,,117-116,117,116
-0022001012,2021-05-08,IND,WAS,44.77,4,3,14,IND,IND,ft_miss,12,False,False,MISS LeVert Free Throw 2 of 2,,117-116,117,116
 0022001012,2021-05-08,IND,WAS,44.77,4,3,14,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.5 Short 0),117-116,117,116
+0022001012,2021-05-08,IND,WAS,44.77,4,3,14,IND,IND,ft_miss,12,False,False,MISS LeVert Free Throw 2 of 2,,117-116,117,116
 0022001012,2021-05-08,IND,WAS,44.78,4,3,13,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:2 Def:14),117-116,117,116
 0022001012,2021-05-08,IND,WAS,45.03,4,2,58,WAS,WAS,fg_miss,5,False,False,,MISS Gafford 1' Layup,117-116,117,116
 0022001012,2021-05-08,IND,WAS,45.08,4,2,55,WAS,WAS,reb,0,False,False,,Westbrook REBOUND (Off:3 Def:14),117-116,117,116
@@ -536,6 +536,6 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001012,2021-05-08,IND,WAS,52.98,5,0,1,WAS,WAS,ft_make,12,False,False,,Westbrook Free Throw 2 of 2 (33 PTS),132-133,132,133
 0022001012,2021-05-08,IND,WAS,52.98,5,0,1,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 8 Short 0),,132-133,132,133
 0022001012,2021-05-08,IND,WAS,53.0,5,0,0,IND,IND,fg3_miss,1,True,False,MISS LeVert 29' 3PT Jump Shot,,132-133,132,133
+0022001012,2021-05-08,IND,WAS,53.0,5,0,0,IND,WAS,block,1,True,False,block,block,132-133,132,133
 0022001012,2021-05-08,IND,WAS,53.0,5,0,0,IND,IND,reb,0,False,False,PACERS Rebound,,132-133,132,133
 0022001012,2021-05-08,IND,WAS,53.0,5,0,0,IND,,period_end,0,False,False,,,132-133,132,133
-0022001012,2021-05-08,IND,WAS,53.0,5,0,0,IND,WAS,block,1,True,False,block,block,132-133,132,133

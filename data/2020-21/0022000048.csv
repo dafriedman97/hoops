@@ -178,9 +178,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000048,2020-12-29,IND,BOS,23.02,2,0,59,BOS,BOS,fg_make,78,False,False,,Tatum 2' Floating Jump Shot (10 PTS),53-57,53,57
 0022000048,2020-12-29,IND,BOS,23.12,2,0,53,IND,IND,fg_make,75,False,False,Brogdon 2' Driving Finger Roll Layup (12 PTS),,55-57,55,57
 0022000048,2020-12-29,IND,BOS,23.47,2,0,32,BOS,BOS,fg_miss,6,True,False,,MISS Tatum Driving Layup,55-57,55,57
+0022000048,2020-12-29,IND,BOS,23.47,2,0,32,BOS,IND,block,6,True,False,block,block,55-57,55,57
 0022000048,2020-12-29,IND,BOS,23.47,2,0,32,BOS,BOS,reb,0,False,False,,Smart REBOUND (Off:1 Def:0),55-57,55,57
 0022000048,2020-12-29,IND,BOS,23.47,2,0,32,BOS,IND,foul,1,False,False,Brogdon P.FOUL (P3.PN) (S.Mehta),,55-57,55,57
-0022000048,2020-12-29,IND,BOS,23.47,2,0,32,BOS,IND,block,6,True,False,block,block,55-57,55,57
 0022000048,2020-12-29,IND,BOS,23.47,2,0,32,BOS,BOS,ft_make,11,False,False,,Smart Free Throw 1 of 2 (11 PTS),55-58,55,58
 0022000048,2020-12-29,IND,BOS,23.47,2,0,32,BOS,BOS,ft_miss,12,False,False,,MISS Smart Free Throw 2 of 2,55-58,55,58
 0022000048,2020-12-29,IND,BOS,23.5,2,0,30,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:0 Def:5),,55-58,55,58
@@ -308,8 +308,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000048,2020-12-29,IND,BOS,36.0,4,12,0,IND,,period_start,0,False,False,,,94-83,94,83
 0022000048,2020-12-29,IND,BOS,36.38,4,11,37,BOS,BOS,fg_make,78,False,False,,Tatum 14' Floating Jump Shot (15 PTS) (Teague 2 AST),94-85,94,85
 0022000048,2020-12-29,IND,BOS,36.8,4,11,12,IND,IND,fg_miss,79,True,False,MISS Holiday 12' Pullup Jump Shot,,94-85,94,85
-0022000048,2020-12-29,IND,BOS,36.8,4,11,12,BOS,BOS,reb,0,False,False,,Teague REBOUND (Off:0 Def:1),94-85,94,85
 0022000048,2020-12-29,IND,BOS,36.8,4,11,12,IND,BOS,block,79,True,False,block,block,94-85,94,85
+0022000048,2020-12-29,IND,BOS,36.8,4,11,12,BOS,BOS,reb,0,False,False,,Teague REBOUND (Off:0 Def:1),94-85,94,85
 0022000048,2020-12-29,IND,BOS,36.87,4,11,8,BOS,BOS,fg_make,52,False,False,,Green 2' Alley Oop Dunk (7 PTS) (Tatum 4 AST),94-87,94,87
 0022000048,2020-12-29,IND,BOS,37.17,4,10,50,IND,IND,fg_miss,79,False,False,MISS Warren 17' Pullup Jump Shot,,94-87,94,87
 0022000048,2020-12-29,IND,BOS,37.2,4,10,48,BOS,BOS,reb,0,False,False,,Celtics Rebound,94-87,94,87

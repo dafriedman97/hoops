@@ -113,8 +113,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900396,2019-12-16,HOU,SAS,12.5,2,11,30,HOU,HOU,fg_miss,97,False,False,MISS Westbrook 1' Tip Layup Shot,,21-35,21,35
 0021900396,2019-12-16,HOU,SAS,12.53,2,11,28,SAS,SAS,reb,0,False,False,,White REBOUND (Off:0 Def:2),21-35,21,35
 0021900396,2019-12-16,HOU,SAS,12.65,2,11,21,SAS,SAS,fg_miss,6,True,False,,MISS White 3' Driving Layup,21-35,21,35
-0021900396,2019-12-16,HOU,SAS,12.65,2,11,21,SAS,SAS,reb,0,False,False,,Spurs Rebound,21-35,21,35
 0021900396,2019-12-16,HOU,SAS,12.65,2,11,21,SAS,HOU,block,6,True,False,block,block,21-35,21,35
+0021900396,2019-12-16,HOU,SAS,12.65,2,11,21,SAS,SAS,reb,0,False,False,,Spurs Rebound,21-35,21,35
 0021900396,2019-12-16,HOU,SAS,12.7,2,11,18,SAS,SAS,fg3_miss,1,False,False,,MISS Mills 24' 3PT Jump Shot,21-35,21,35
 0021900396,2019-12-16,HOU,SAS,12.75,2,11,15,HOU,HOU,reb,0,False,False,McLemore REBOUND (Off:0 Def:2),,21-35,21,35
 0021900396,2019-12-16,HOU,SAS,12.87,2,11,8,HOU,HOU,fg_miss,1,False,False,MISS Westbrook 18' Jump Shot,,21-35,21,35
@@ -171,8 +171,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900396,2019-12-16,HOU,SAS,16.9,2,7,6,SAS,SAS,fg3_make,1,False,False,,Forbes 27' 3PT Jump Shot (15 PTS) (Poeltl 2 AST),30-54,30,54
 0021900396,2019-12-16,HOU,SAS,17.17,2,6,50,HOU,HOU,fg_make,6,False,False,Westbrook 2' Driving Layup (19 PTS),,32-54,32,54
 0021900396,2019-12-16,HOU,SAS,17.37,2,6,38,SAS,SAS,fg_miss,98,True,False,,MISS Poeltl 5' Cutting Layup Shot,32-54,32,54
-0021900396,2019-12-16,HOU,SAS,17.37,2,6,38,SAS,SAS,reb,0,False,False,,Spurs Rebound,32-54,32,54
 0021900396,2019-12-16,HOU,SAS,17.37,2,6,38,SAS,HOU,block,98,True,False,block,block,32-54,32,54
+0021900396,2019-12-16,HOU,SAS,17.37,2,6,38,SAS,SAS,reb,0,False,False,,Spurs Rebound,32-54,32,54
 0021900396,2019-12-16,HOU,SAS,17.38,2,6,37,SAS,SAS,tov,40,False,False,,Forbes Out of Bounds Lost Ball Turnover (P1.T6),32-54,32,54
 0021900396,2019-12-16,HOU,SAS,17.5,2,6,30,HOU,HOU,fg_make,108,False,False,Capela 2' Cutting Dunk Shot (4 PTS) (Westbrook 1 AST),,34-54,34,54
 0021900396,2019-12-16,HOU,SAS,17.5,2,6,30,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.2 Short 0),34-54,34,54
@@ -348,11 +348,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900396,2019-12-16,HOU,SAS,35.0,3,1,0,SAS,SAS,reb,0,False,False,,DeRozan REBOUND (Off:0 Def:4),80-89,80,89
 0021900396,2019-12-16,HOU,SAS,35.13,3,0,52,SAS,SAS,fg_miss,79,False,False,,MISS DeRozan 11' Pullup Jump Shot,80-89,80,89
 0021900396,2019-12-16,HOU,SAS,35.15,3,0,51,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,80-89,80,89
-0021900396,2019-12-16,HOU,SAS,35.15,3,0,51,HOU,SAS,foul,3,False,False,,Gay L.B.FOUL (P2.PN) (T.Washington),80-89,80,89
+0021900396,2019-12-16,HOU,SAS,35.15,3,0,51,HOU,HOU,timeout,7,False,False,ROCKETS Timeout: Coach Challenge (Full 3 Short 0),,81-89,81,89
 0021900396,2019-12-16,HOU,SAS,35.15,3,0,51,HOU,HOU,ft_miss,11,False,False,MISS Clark Free Throw 1 of 2,,80-89,80,89
 0021900396,2019-12-16,HOU,SAS,35.15,3,0,51,HOU,HOU,reb,1,False,False,ROCKETS Rebound,,80-89,80,89
 0021900396,2019-12-16,HOU,SAS,35.15,3,0,51,HOU,HOU,ft_make,12,False,False,Clark Free Throw 2 of 2 (1 PTS),,81-89,81,89
-0021900396,2019-12-16,HOU,SAS,35.15,3,0,51,HOU,HOU,timeout,7,False,False,ROCKETS Timeout: Coach Challenge (Full 3 Short 0),,81-89,81,89
+0021900396,2019-12-16,HOU,SAS,35.15,3,0,51,HOU,SAS,foul,3,False,False,,Gay L.B.FOUL (P2.PN) (T.Washington),80-89,80,89
 0021900396,2019-12-16,HOU,SAS,35.52,3,0,29,,HOU,jump_ball,0,False,False,Jump Ball Clark vs. Poeltl: Tip to Mills,,81-89,81,89
 0021900396,2019-12-16,HOU,SAS,35.53,3,0,28,SAS,SAS,fg_miss,1,False,False,,MISS Mills 18' Jump Shot,81-89,81,89
 0021900396,2019-12-16,HOU,SAS,35.57,3,0,26,HOU,HOU,reb,0,False,False,Westbrook REBOUND (Off:2 Def:4),,81-89,81,89
@@ -387,8 +387,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900396,2019-12-16,HOU,SAS,38.23,4,9,46,SAS,SAS,reb,0,False,False,,Aldridge REBOUND (Off:1 Def:8),86-89,86,89
 0021900396,2019-12-16,HOU,SAS,38.25,4,9,45,SAS,SAS,fg_miss,5,False,False,,MISS Aldridge 5' Layup,86-89,86,89
 0021900396,2019-12-16,HOU,SAS,38.27,4,9,44,HOU,HOU,reb,0,False,False,Westbrook REBOUND (Off:2 Def:5),,86-89,86,89
-0021900396,2019-12-16,HOU,SAS,38.3,4,9,42,HOU,HOU,tov,2,False,False,Westbrook Lost Ball Turnover (P5.T11),,86-89,86,89
 0021900396,2019-12-16,HOU,SAS,38.3,4,9,42,SAS,HOU,foul,3,False,False,House Jr. L.B.FOUL (P2.T1) (M.Smith),,86-89,86,89
+0021900396,2019-12-16,HOU,SAS,38.3,4,9,42,HOU,HOU,tov,2,False,False,Westbrook Lost Ball Turnover (P5.T11),,86-89,86,89
 0021900396,2019-12-16,HOU,SAS,38.52,4,9,29,SAS,SAS,fg_make,79,False,False,,DeRozan 17' Pullup Jump Shot (8 PTS) (Aldridge 3 AST),86-91,86,91
 0021900396,2019-12-16,HOU,SAS,38.68,4,9,19,HOU,HOU,fg3_miss,1,False,False,MISS Westbrook 25' 3PT Jump Shot,,86-91,86,91
 0021900396,2019-12-16,HOU,SAS,38.68,4,9,19,SAS,SAS,reb,0,False,False,,Belinelli REBOUND (Off:0 Def:1),86-91,86,91

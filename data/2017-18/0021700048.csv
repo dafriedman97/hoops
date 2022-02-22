@@ -29,8 +29,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700048,2017-10-23,PHX,SAC,3.35,1,8,39,PHX,PHX,fg_miss,6,False,False,MISS Booker 1' Driving Layup,,11-2,11,2
 0021700048,2017-10-23,PHX,SAC,3.38,1,8,37,SAC,SAC,reb,0,False,False,,Randolph REBOUND (Off:0 Def:1),11-2,11,2
 0021700048,2017-10-23,PHX,SAC,3.43,1,8,34,SAC,SAC,fg_miss,41,True,False,,MISS Hield 2' Running Layup,11-2,11,2
-0021700048,2017-10-23,PHX,SAC,3.43,1,8,34,PHX,PHX,reb,0,False,False,SUNS Rebound,,11-2,11,2
 0021700048,2017-10-23,PHX,SAC,3.43,1,8,34,SAC,PHX,block,41,True,False,block,block,11-2,11,2
+0021700048,2017-10-23,PHX,SAC,3.43,1,8,34,PHX,PHX,reb,0,False,False,SUNS Rebound,,11-2,11,2
 0021700048,2017-10-23,PHX,SAC,3.58,1,8,25,PHX,SAC,foul,1,False,False,,Hield P.FOUL (P1.T1) (J.Van Duyne),11-2,11,2
 0021700048,2017-10-23,PHX,SAC,3.68,1,8,19,PHX,PHX,fg_miss,3,False,False,MISS Chandler 1' Hook Shot,,11-2,11,2
 0021700048,2017-10-23,PHX,SAC,3.72,1,8,17,PHX,PHX,reb,0,False,False,Chandler REBOUND (Off:1 Def:3),,11-2,11,2
@@ -119,9 +119,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700048,2017-10-23,PHX,SAC,14.15,2,9,51,PHX,PHX,fg3_miss,1,False,False,MISS Bender 3PT Jump Shot,,38-22,38,22
 0021700048,2017-10-23,PHX,SAC,14.2,2,9,48,SAC,SAC,reb,0,False,False,,Fox REBOUND (Off:0 Def:2),38-22,38,22
 0021700048,2017-10-23,PHX,SAC,14.45,2,9,33,SAC,PHX,foul,27,False,False,Bender Personal Block Foul (P2.T2) (S.Wright),,38-22,38,22
+0021700048,2017-10-23,PHX,SAC,14.45,2,9,33,SAC,SAC,ft_make,10,False,False,,Labissiere Free Throw 1 of 1 (5 PTS),38-26,38,26
 0021700048,2017-10-23,PHX,SAC,14.45,2,9,33,SAC,,violation,1,False,False,,,38-22,38,22
 0021700048,2017-10-23,PHX,SAC,14.45,2,9,33,SAC,SAC,ft_make,10,False,False,,Bogdanovic Free Throw 1 of 1 (4 PTS),38-25,38,25
-0021700048,2017-10-23,PHX,SAC,14.45,2,9,33,SAC,SAC,ft_make,10,False,False,,Labissiere Free Throw 1 of 1 (5 PTS),38-26,38,26
 0021700048,2017-10-23,PHX,SAC,14.47,2,9,32,SAC,SAC,fg_make,79,False,False,,Labissiere 17' Pullup Jump Shot (4 PTS),38-24,38,24
 0021700048,2017-10-23,PHX,SAC,14.58,2,9,25,PHX,PHX,fg_make,101,False,False,Jackson 7' Driving Floating Jump Shot (4 PTS),,40-26,40,26
 0021700048,2017-10-23,PHX,SAC,14.73,2,9,16,SAC,SAC,fg_make,1,False,False,,Fox 16' Jump Shot (4 PTS),40-28,40,28
@@ -158,8 +158,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700048,2017-10-23,PHX,SAC,17.48,2,6,31,SAC,SAC,ft_miss,12,False,False,,MISS Fox Free Throw 2 of 2,47-36,47,36
 0021700048,2017-10-23,PHX,SAC,17.52,2,6,29,PHX,PHX,reb,0,False,False,Chriss REBOUND (Off:0 Def:3),,47-36,47,36
 0021700048,2017-10-23,PHX,SAC,17.8,2,6,12,PHX,PHX,fg_miss,6,True,False,MISS Booker 7' Driving Layup,,47-36,47,36
-0021700048,2017-10-23,PHX,SAC,17.8,2,6,12,PHX,PHX,reb,0,False,False,SUNS Rebound,,47-36,47,36
 0021700048,2017-10-23,PHX,SAC,17.8,2,6,12,PHX,SAC,block,6,True,False,block,block,47-36,47,36
+0021700048,2017-10-23,PHX,SAC,17.8,2,6,12,PHX,PHX,reb,0,False,False,SUNS Rebound,,47-36,47,36
 0021700048,2017-10-23,PHX,SAC,17.83,2,6,10,PHX,PHX,fg_make,1,False,False,Booker 19' Jump Shot (11 PTS) (Warren 1 AST),,49-36,49,36
 0021700048,2017-10-23,PHX,SAC,18.17,2,5,50,SAC,SAC,fg_make,102,False,False,,Bogdanovic 2' Driving Floating Bank Jump Shot (8 PTS),49-38,49,38
 0021700048,2017-10-23,PHX,SAC,18.35,2,5,39,PHX,PHX,fg_make,75,False,False,James 6' Driving Finger Roll Layup (5 PTS),,51-38,51,38
@@ -211,8 +211,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700048,2017-10-23,PHX,SAC,23.25,2,0,45,SAC,,violation,1,False,False,,,57-51,57,51
 0021700048,2017-10-23,PHX,SAC,23.58,2,0,25,PHX,PHX,fg_make,101,False,False,James 9' Driving Floating Jump Shot (11 PTS),,59-51,59,51
 0021700048,2017-10-23,PHX,SAC,23.93,2,0,4,SAC,SAC,fg_miss,6,True,False,,MISS G. Hill 5' Driving Layup,59-51,59,51
-0021700048,2017-10-23,PHX,SAC,23.93,2,0,4,SAC,SAC,reb,0,False,False,,Kings Rebound,59-51,59,51
 0021700048,2017-10-23,PHX,SAC,23.93,2,0,4,SAC,PHX,block,6,True,False,block,block,59-51,59,51
+0021700048,2017-10-23,PHX,SAC,23.93,2,0,4,SAC,SAC,reb,0,False,False,,Kings Rebound,59-51,59,51
 0021700048,2017-10-23,PHX,SAC,23.98,2,0,1,SAC,SAC,fg_miss,1,False,False,,MISS Bogdanovic 22' Jump Shot,59-51,59,51
 0021700048,2017-10-23,PHX,SAC,23.98,2,0,1,PHX,PHX,reb,0,False,False,Warren REBOUND (Off:0 Def:3),,59-51,59,51
 0021700048,2017-10-23,PHX,SAC,24.0,2,0,0,PHX,,period_end,0,False,False,,,59-51,59,51

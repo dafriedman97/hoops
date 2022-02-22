@@ -146,9 +146,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800802,2019-02-05,OKC,ORL,14.38,2,9,37,OKC,OKC,fg_miss,41,False,False,MISS George 1' Running Layup,,36-38,36,38
 0021800802,2019-02-05,OKC,ORL,14.43,2,9,34,ORL,ORL,reb,0,False,False,,Briscoe REBOUND (Off:0 Def:3),36-38,36,38
 0021800802,2019-02-05,OKC,ORL,14.48,2,9,31,ORL,ORL,fg_make,41,False,False,,Ross 2' Running Layup (5 PTS) (Briscoe 1 AST),36-40,36,40
-0021800802,2019-02-05,OKC,ORL,14.48,2,9,31,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 2 Short 0),,36-40,36,40
 0021800802,2019-02-05,OKC,ORL,14.48,2,9,31,OKC,,foul,11,False,False,,,36-40,36,40
 0021800802,2019-02-05,OKC,ORL,14.48,2,9,31,OKC,ORL,ft_make,16,False,False,,Ross Free Throw Technical (6 PTS),36-41,36,41
+0021800802,2019-02-05,OKC,ORL,14.48,2,9,31,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 2 Short 0),,36-40,36,40
 0021800802,2019-02-05,OKC,ORL,14.67,2,9,20,OKC,OKC,tov,1,False,True,George Bad Pass Turnover (P3.T6),,36-41,36,41
 0021800802,2019-02-05,OKC,ORL,14.67,2,9,20,OKC,ORL,steal,1,False,True,steal,steal,36-41,36,41
 0021800802,2019-02-05,OKC,ORL,14.72,2,9,17,ORL,OKC,foul,2,False,False,Patterson S.FOUL (P1.T1) (R.Garretson),,36-41,36,41
@@ -393,8 +393,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800802,2019-02-05,OKC,ORL,40.32,4,7,41,ORL,ORL,reb,1,False,False,,Magic Rebound,111-101,111,101
 0021800802,2019-02-05,OKC,ORL,40.32,4,7,41,ORL,ORL,ft_make,12,False,False,,Gordon Free Throw 2 of 2 (18 PTS),111-102,111,102
 0021800802,2019-02-05,OKC,ORL,40.45,4,7,33,OKC,OKC,tov,2,False,True,Westbrook Lost Ball Turnover (P6.T14),,111-102,111,102
-0021800802,2019-02-05,OKC,ORL,40.45,4,7,33,ORL,OKC,foul,1,False,False,Westbrook P.FOUL (P3.PN) (J.Phillips),,111-102,111,102
 0021800802,2019-02-05,OKC,ORL,40.45,4,7,33,OKC,ORL,steal,2,False,True,steal,steal,111-102,111,102
+0021800802,2019-02-05,OKC,ORL,40.45,4,7,33,ORL,OKC,foul,1,False,False,Westbrook P.FOUL (P3.PN) (J.Phillips),,111-102,111,102
 0021800802,2019-02-05,OKC,ORL,40.45,4,7,33,ORL,ORL,ft_make,11,False,False,,Augustin Free Throw 1 of 2 (5 PTS),111-103,111,103
 0021800802,2019-02-05,OKC,ORL,40.45,4,7,33,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 4 Short 0),,111-103,111,103
 0021800802,2019-02-05,OKC,ORL,40.45,4,7,33,OKC,ORL,ft_make,12,False,False,,Augustin Free Throw 2 of 2 (6 PTS),111-104,111,104
@@ -421,8 +421,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800802,2019-02-05,OKC,ORL,42.82,4,5,11,ORL,ORL,fg_miss,97,False,False,,MISS Vucevic 1' Tip Layup Shot,113-106,113,106
 0021800802,2019-02-05,OKC,ORL,42.85,4,5,9,OKC,OKC,reb,0,False,False,Westbrook REBOUND (Off:1 Def:13),,113-106,113,106
 0021800802,2019-02-05,OKC,ORL,42.98,4,5,1,OKC,OKC,fg_miss,5,True,False,MISS Adams 2' Layup,,113-106,113,106
-0021800802,2019-02-05,OKC,ORL,42.98,4,5,1,ORL,ORL,reb,0,False,False,,Magic Rebound,113-106,113,106
 0021800802,2019-02-05,OKC,ORL,42.98,4,5,1,OKC,ORL,block,5,True,False,block,block,113-106,113,106
+0021800802,2019-02-05,OKC,ORL,42.98,4,5,1,ORL,ORL,reb,0,False,False,,Magic Rebound,113-106,113,106
 0021800802,2019-02-05,OKC,ORL,43.3,4,4,42,ORL,ORL,fg_miss,1,False,False,,MISS Isaac 7' Jump Shot,113-106,113,106
 0021800802,2019-02-05,OKC,ORL,43.32,4,4,41,OKC,OKC,reb,0,False,False,THUNDER Rebound,,113-106,113,106
 0021800802,2019-02-05,OKC,ORL,43.55,4,4,27,OKC,OKC,fg3_miss,79,True,False,MISS George 27' 3PT Pullup Jump Shot,,113-106,113,106
@@ -451,8 +451,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800802,2019-02-05,OKC,ORL,45.55,4,2,27,OKC,OKC,fg3_miss,1,False,False,MISS George 26' 3PT Jump Shot,,119-111,119,111
 0021800802,2019-02-05,OKC,ORL,45.58,4,2,25,ORL,ORL,reb,0,False,False,,Vucevic REBOUND (Off:1 Def:7),119-111,119,111
 0021800802,2019-02-05,OKC,ORL,45.63,4,2,22,ORL,ORL,tov,1,False,True,,Vucevic Bad Pass Turnover (P3.T16),119-111,119,111
-0021800802,2019-02-05,OKC,ORL,45.63,4,2,22,OKC,ORL,foul,2,False,False,,Vucevic S.FOUL (P2.T4) (J.Phillips),119-111,119,111
 0021800802,2019-02-05,OKC,ORL,45.63,4,2,22,ORL,OKC,steal,1,False,True,steal,steal,119-111,119,111
+0021800802,2019-02-05,OKC,ORL,45.63,4,2,22,OKC,ORL,foul,2,False,False,,Vucevic S.FOUL (P2.T4) (J.Phillips),119-111,119,111
 0021800802,2019-02-05,OKC,ORL,45.63,4,2,22,OKC,OKC,ft_make,11,False,False,George Free Throw 1 of 2 (32 PTS),,120-111,120,111
 0021800802,2019-02-05,OKC,ORL,45.63,4,2,22,OKC,OKC,ft_make,12,False,False,George Free Throw 2 of 2 (33 PTS),,121-111,121,111
 0021800802,2019-02-05,OKC,ORL,45.85,4,2,9,ORL,ORL,tov,2,False,True,,Vucevic Lost Ball Turnover (P4.T17),121-111,121,111

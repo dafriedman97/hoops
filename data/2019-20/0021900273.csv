@@ -203,11 +203,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900273,2019-11-29,MIA,GSW,23.98,2,0,1,MIA,MIA,ft_make,11,False,False,Butler Free Throw 1 of 2 (9 PTS),,70-58,70,58
 0021900273,2019-11-29,MIA,GSW,23.98,2,0,1,MIA,MIA,ft_make,12,False,False,Butler Free Throw 2 of 2 (10 PTS),,71-58,71,58
 0021900273,2019-11-29,MIA,GSW,24.0,2,0,0,GSW,GSW,tov,1,False,True,,Green Bad Pass Turnover (P1.T4),71-58,71,58
+0021900273,2019-11-29,MIA,GSW,24.0,2,0,0,GSW,MIA,steal,1,False,True,steal,steal,71-58,71,58
 0021900273,2019-11-29,MIA,GSW,24.0,2,0,0,MIA,MIA,fg3_miss,1,False,False,MISS Butler 54' 3PT Jump Shot,,71-58,71,58
 0021900273,2019-11-29,MIA,GSW,24.0,2,0,0,MIA,MIA,reb,0,False,False,HEAT Rebound,,71-58,71,58
 0021900273,2019-11-29,MIA,GSW,24.0,2,0,0,MIA,,period_end,0,False,False,,,71-58,71,58
 0021900273,2019-11-29,MIA,GSW,24.0,3,12,0,MIA,,period_start,0,False,False,,,71-58,71,58
-0021900273,2019-11-29,MIA,GSW,24.0,2,0,0,GSW,MIA,steal,1,False,True,steal,steal,71-58,71,58
 0021900273,2019-11-29,MIA,GSW,24.27,3,11,44,GSW,GSW,fg_miss,79,False,False,,MISS Cauley-Stein 17' Pullup Jump Shot,71-58,71,58
 0021900273,2019-11-29,MIA,GSW,24.3,3,11,42,MIA,MIA,reb,0,False,False,Butler REBOUND (Off:0 Def:3),,71-58,71,58
 0021900273,2019-11-29,MIA,GSW,24.62,3,11,23,MIA,MIA,fg_miss,1,False,False,MISS Nunn 18' Jump Shot,,71-58,71,58
@@ -325,9 +325,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900273,2019-11-29,MIA,GSW,35.2,3,0,48,MIA,MIA,fg_miss,101,False,False,MISS Dragic 10' Driving Floating Jump Shot,,93-79,93,79
 0021900273,2019-11-29,MIA,GSW,35.22,3,0,47,MIA,MIA,reb,0,False,False,Silva REBOUND (Off:1 Def:2),,93-79,93,79
 0021900273,2019-11-29,MIA,GSW,35.22,3,0,47,MIA,GSW,foul,2,False,False,,Spellman S.FOUL (P1.PN) (E.Lewis),93-79,93,79
-0021900273,2019-11-29,MIA,GSW,35.22,3,0,47,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.4 Short 0),93-79,93,79
 0021900273,2019-11-29,MIA,GSW,35.22,3,0,47,GSW,MIA,ft_make,11,False,False,Silva Free Throw 1 of 2 (1 PTS),,94-79,94,79
 0021900273,2019-11-29,MIA,GSW,35.22,3,0,47,MIA,MIA,ft_miss,12,False,False,MISS Silva Free Throw 2 of 2,,94-79,94,79
+0021900273,2019-11-29,MIA,GSW,35.22,3,0,47,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.4 Short 0),93-79,93,79
 0021900273,2019-11-29,MIA,GSW,35.25,3,0,45,GSW,GSW,reb,0,False,False,,Warriors Rebound,94-79,94,79
 0021900273,2019-11-29,MIA,GSW,35.25,3,0,45,GSW,,foul,11,False,False,,,94-79,94,79
 0021900273,2019-11-29,MIA,GSW,35.25,3,0,45,GSW,MIA,ft_make,16,False,False,Olynyk Free Throw Technical (13 PTS),,95-79,95,79
@@ -339,9 +339,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900273,2019-11-29,MIA,GSW,35.9,3,0,6,GSW,MIA,block,6,True,False,block,block,95-79,95,79
 0021900273,2019-11-29,MIA,GSW,35.95,3,0,3,MIA,MIA,reb,0,False,False,Dragic REBOUND (Off:1 Def:3),,95-79,95,79
 0021900273,2019-11-29,MIA,GSW,36.0,3,0,0,MIA,MIA,tov,2,False,True,Dragic Lost Ball Turnover (P1.T12),,95-79,95,79
+0021900273,2019-11-29,MIA,GSW,36.0,3,0,0,MIA,GSW,steal,2,False,True,steal,steal,95-79,95,79
 0021900273,2019-11-29,MIA,GSW,36.0,3,0,0,MIA,,period_end,0,False,False,,,95-79,95,79
 0021900273,2019-11-29,MIA,GSW,36.0,4,12,0,MIA,,period_start,0,False,False,,,95-79,95,79
-0021900273,2019-11-29,MIA,GSW,36.0,3,0,0,MIA,GSW,steal,2,False,True,steal,steal,95-79,95,79
 0021900273,2019-11-29,MIA,GSW,36.25,4,11,45,MIA,MIA,fg_make,7,False,False,Silva 1' Dunk (3 PTS) (Dragic 3 AST),,97-79,97,79
 0021900273,2019-11-29,MIA,GSW,36.53,4,11,28,GSW,MIA,foul,2,False,False,Olynyk S.FOUL (P4.T1) (D.Taylor),,97-79,97,79
 0021900273,2019-11-29,MIA,GSW,36.53,4,11,28,GSW,GSW,ft_make,11,False,False,,Spellman Free Throw 1 of 2 (9 PTS),97-80,97,80

@@ -23,8 +23,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800266,2018-11-23,LAC,MEM,3.27,1,8,44,MEM,MEM,ft_miss,12,False,False,,MISS Jackson Jr. Free Throw 2 of 2,6-10,6,10
 0021800266,2018-11-23,LAC,MEM,3.32,1,8,41,LAC,LAC,reb,0,False,False,Gortat REBOUND (Off:0 Def:1),,6-10,6,10
 0021800266,2018-11-23,LAC,MEM,3.65,1,8,21,LAC,LAC,fg_miss,6,True,False,MISS Gallinari 2' Driving Layup,,6-10,6,10
-0021800266,2018-11-23,LAC,MEM,3.65,1,8,21,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,6-10,6,10
 0021800266,2018-11-23,LAC,MEM,3.65,1,8,21,LAC,MEM,block,6,True,False,block,block,6-10,6,10
+0021800266,2018-11-23,LAC,MEM,3.65,1,8,21,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,6-10,6,10
 0021800266,2018-11-23,LAC,MEM,3.92,1,8,5,MEM,MEM,fg_miss,78,False,False,,MISS Temple 5' Floating Jump Shot,6-10,6,10
 0021800266,2018-11-23,LAC,MEM,3.97,1,8,2,LAC,LAC,reb,0,False,False,Gallinari REBOUND (Off:0 Def:2),,6-10,6,10
 0021800266,2018-11-23,LAC,MEM,4.08,1,7,55,LAC,LAC,fg_make,73,False,False,Gilgeous-Alexander 1' Driving Reverse Layup (4 PTS),,8-10,8,10
@@ -39,8 +39,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800266,2018-11-23,LAC,MEM,5.37,1,6,38,MEM,MEM,reb,0,False,False,,Gasol REBOUND (Off:0 Def:3),10-10,10,10
 0021800266,2018-11-23,LAC,MEM,5.55,1,6,27,MEM,MEM,fg3_make,1,False,False,,Anderson 3PT Jump Shot (7 PTS) (Gasol 2 AST),10-13,10,13
 0021800266,2018-11-23,LAC,MEM,5.73,1,6,16,LAC,LAC,fg_miss,1,True,False,MISS Gilgeous-Alexander 9' Jump Shot,,10-13,10,13
-0021800266,2018-11-23,LAC,MEM,5.73,1,6,16,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,10-13,10,13
 0021800266,2018-11-23,LAC,MEM,5.73,1,6,16,LAC,MEM,block,1,True,False,block,block,10-13,10,13
+0021800266,2018-11-23,LAC,MEM,5.73,1,6,16,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,10-13,10,13
 0021800266,2018-11-23,LAC,MEM,5.8,1,6,12,LAC,LAC,fg_miss,79,False,False,MISS Gallinari 16' Pullup Jump Shot,,10-13,10,13
 0021800266,2018-11-23,LAC,MEM,5.88,1,6,7,MEM,MEM,reb,0,False,False,,Gasol REBOUND (Off:0 Def:4),10-13,10,13
 0021800266,2018-11-23,LAC,MEM,6.05,1,5,57,MEM,MEM,fg_miss,47,False,False,,MISS Gasol 10' Turnaround Jump Shot,10-13,10,13
@@ -92,12 +92,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800266,2018-11-23,LAC,MEM,11.43,1,0,34,LAC,MEM,steal,1,False,True,steal,steal,16-20,16,20
 0021800266,2018-11-23,LAC,MEM,11.58,1,0,25,MEM,MEM,fg_make,78,False,False,,Casspi 7' Floating Jump Shot (2 PTS),16-22,16,22
 0021800266,2018-11-23,LAC,MEM,11.97,1,0,2,LAC,LAC,fg_miss,63,True,False,MISS Williams 10' Fadeaway Jumper,,16-22,16,22
-0021800266,2018-11-23,LAC,MEM,11.97,1,0,2,MEM,MEM,reb,0,False,False,,Jackson Jr. REBOUND (Off:0 Def:1),16-22,16,22
 0021800266,2018-11-23,LAC,MEM,11.97,1,0,2,LAC,MEM,block,63,True,False,block,block,16-22,16,22
+0021800266,2018-11-23,LAC,MEM,11.97,1,0,2,MEM,MEM,reb,0,False,False,,Jackson Jr. REBOUND (Off:0 Def:1),16-22,16,22
 0021800266,2018-11-23,LAC,MEM,12.0,1,0,0,MEM,MEM,tov,1,False,True,,Jackson Jr. Bad Pass Turnover (P2.T4),16-22,16,22
+0021800266,2018-11-23,LAC,MEM,12.0,1,0,0,MEM,LAC,steal,1,False,True,steal,steal,16-22,16,22
 0021800266,2018-11-23,LAC,MEM,12.0,1,0,0,MEM,,period_end,0,False,False,,,16-22,16,22
 0021800266,2018-11-23,LAC,MEM,12.0,2,12,0,MEM,,period_start,0,False,False,,,16-22,16,22
-0021800266,2018-11-23,LAC,MEM,12.0,1,0,0,MEM,LAC,steal,1,False,True,steal,steal,16-22,16,22
 0021800266,2018-11-23,LAC,MEM,12.15,2,11,51,LAC,MEM,foul,1,False,False,,Green P.FOUL (P1.T1) (M.Ervin),16-22,16,22
 0021800266,2018-11-23,LAC,MEM,12.32,2,11,41,LAC,LAC,fg_miss,78,False,False,MISS Beverley 9' Floating Jump Shot,,16-22,16,22
 0021800266,2018-11-23,LAC,MEM,12.35,2,11,39,LAC,LAC,reb,0,False,False,Harrell REBOUND (Off:1 Def:1),,16-22,16,22
@@ -352,8 +352,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800266,2018-11-23,LAC,MEM,40.8,4,7,12,LAC,LAC,fg3_miss,1,False,False,MISS Williams 25' 3PT Jump Shot,,78-82,78,82
 0021800266,2018-11-23,LAC,MEM,40.85,4,7,9,MEM,MEM,reb,0,False,False,,Green REBOUND (Off:2 Def:7),78-82,78,82
 0021800266,2018-11-23,LAC,MEM,41.12,4,6,53,MEM,MEM,fg_miss,5,True,False,,MISS Jackson Jr. 4' Layup,78-82,78,82
-0021800266,2018-11-23,LAC,MEM,41.12,4,6,53,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,78-82,78,82
 0021800266,2018-11-23,LAC,MEM,41.12,4,6,53,MEM,LAC,block,5,True,False,block,block,78-82,78,82
+0021800266,2018-11-23,LAC,MEM,41.12,4,6,53,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,78-82,78,82
 0021800266,2018-11-23,LAC,MEM,41.42,4,6,35,LAC,LAC,fg_miss,78,False,False,MISS Harrell 7' Floating Jump Shot,,78-82,78,82
 0021800266,2018-11-23,LAC,MEM,41.47,4,6,32,MEM,MEM,reb,0,False,False,,Mack REBOUND (Off:0 Def:2),78-82,78,82
 0021800266,2018-11-23,LAC,MEM,41.55,4,6,27,MEM,MEM,fg_make,67,False,False,,Jackson Jr. 4' Hook Bank Shot (18 PTS) (Gasol 6 AST),78-84,78,84
@@ -423,10 +423,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800266,2018-11-23,LAC,MEM,47.98,4,0,1,LAC,LAC,ft_make,15,False,False,Gallinari Free Throw 3 of 3 (20 PTS),,98-98,98,98
 0021800266,2018-11-23,LAC,MEM,47.98,4,0,1,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.7 Short 0),98-98,98,98
 0021800266,2018-11-23,LAC,MEM,48.0,4,0,0,MEM,MEM,tov,1,False,True,,Anderson Bad Pass Turnover (P1.T16),98-98,98,98
+0021800266,2018-11-23,LAC,MEM,48.0,4,0,0,MEM,LAC,steal,1,False,True,steal,steal,98-98,98,98
 0021800266,2018-11-23,LAC,MEM,48.0,4,0,0,MEM,,period_end,0,False,False,,,98-98,98,98
 0021800266,2018-11-23,LAC,MEM,48.0,5,5,0,MEM,,period_start,0,False,False,,,98-98,98,98
 0021800266,2018-11-23,LAC,MEM,48.0,5,5,0,,LAC,jump_ball,0,False,False,Jump Ball Harrell vs. Gasol: Tip to Jackson Jr.,,98-98,98,98
-0021800266,2018-11-23,LAC,MEM,48.0,4,0,0,MEM,LAC,steal,1,False,True,steal,steal,98-98,98,98
 0021800266,2018-11-23,LAC,MEM,48.3,5,4,42,MEM,LAC,foul,1,False,False,Gallinari P.FOUL (P5.T1) (N.Buchert),,98-98,98,98
 0021800266,2018-11-23,LAC,MEM,48.45,5,4,33,MEM,MEM,tov,1,False,True,,Temple Bad Pass Turnover (P3.T17),98-98,98,98
 0021800266,2018-11-23,LAC,MEM,48.45,5,4,33,MEM,LAC,steal,1,False,True,steal,steal,98-98,98,98
@@ -467,9 +467,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800266,2018-11-23,LAC,MEM,52.7,5,0,18,LAC,LAC,ft_miss,12,False,False,MISS Bradley Free Throw 2 of 2,,110-107,110,107
 0021800266,2018-11-23,LAC,MEM,52.75,5,0,15,MEM,MEM,reb,0,False,False,,Gasol REBOUND (Off:0 Def:13),110-107,110,107
 0021800266,2018-11-23,LAC,MEM,52.92,5,0,5,MEM,MEM,fg3_miss,1,True,False,,MISS Temple 24' 3PT Jump Shot,110-107,110,107
+0021800266,2018-11-23,LAC,MEM,52.92,5,0,5,MEM,LAC,block,1,True,False,block,block,110-107,110,107
 0021800266,2018-11-23,LAC,MEM,52.92,5,0,5,LAC,LAC,reb,0,False,False,Bradley REBOUND (Off:0 Def:2),,110-107,110,107
 0021800266,2018-11-23,LAC,MEM,52.92,5,0,5,LAC,MEM,foul,28,False,False,,Temple Personal Take Foul (P2.PN) (J.Capers),110-107,110,107
-0021800266,2018-11-23,LAC,MEM,52.92,5,0,5,MEM,LAC,block,1,True,False,block,block,110-107,110,107
 0021800266,2018-11-23,LAC,MEM,52.92,5,0,5,LAC,LAC,ft_make,11,False,False,Bradley Free Throw 1 of 2 (12 PTS),,111-107,111,107
 0021800266,2018-11-23,LAC,MEM,52.92,5,0,5,LAC,LAC,ft_make,12,False,False,Bradley Free Throw 2 of 2 (13 PTS),,112-107,112,107
 0021800266,2018-11-23,LAC,MEM,53.0,5,0,0,MEM,MEM,fg3_miss,1,False,False,,MISS Anderson 25' 3PT Jump Shot,112-107,112,107

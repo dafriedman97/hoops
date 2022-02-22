@@ -56,8 +56,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700883,2018-02-23,LAL,DAL,5.43,1,6,34,LAL,DAL,foul,1,False,False,,Matthews P.FOUL (P1.T4) (D.Taylor),18-5,18,5
 0021700883,2018-02-23,LAL,DAL,5.55,1,6,27,LAL,LAL,fg_make,5,False,False,Randle 2' Layup (4 PTS),,20-5,20,5
 0021700883,2018-02-23,LAL,DAL,5.68,1,6,19,DAL,DAL,fg_miss,5,True,False,,MISS Smith Jr. 15' Layup,20-5,20,5
-0021700883,2018-02-23,LAL,DAL,5.68,1,6,19,LAL,LAL,reb,0,False,False,Hart REBOUND (Off:0 Def:2),,20-5,20,5
 0021700883,2018-02-23,LAL,DAL,5.68,1,6,19,DAL,LAL,block,5,True,False,block,block,20-5,20,5
+0021700883,2018-02-23,LAL,DAL,5.68,1,6,19,LAL,LAL,reb,0,False,False,Hart REBOUND (Off:0 Def:2),,20-5,20,5
 0021700883,2018-02-23,LAL,DAL,5.78,1,6,13,LAL,LAL,tov,1,False,True,Hart Bad Pass Turnover (P1.T1),,20-5,20,5
 0021700883,2018-02-23,LAL,DAL,5.78,1,6,13,LAL,DAL,steal,1,False,True,steal,steal,20-5,20,5
 0021700883,2018-02-23,LAL,DAL,5.98,1,6,1,LAL,,violation,1,False,False,,,20-5,20,5
@@ -88,16 +88,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700883,2018-02-23,LAL,DAL,8.92,1,3,5,DAL,DAL,fg3_make,1,False,False,,McDermott 27' 3PT Jump Shot (3 PTS) (Barea 2 AST),27-11,27,11
 0021700883,2018-02-23,LAL,DAL,8.95,1,3,3,LAL,LAL,timeout,1,False,False,LAKERS Timeout: Regular (Full 1 Short 0),,27-11,27,11
 0021700883,2018-02-23,LAL,DAL,9.23,1,2,46,LAL,LAL,fg_miss,5,False,False,MISS Thomas 3' Layup,,27-11,27,11
-0021700883,2018-02-23,LAL,DAL,9.25,1,2,45,DAL,DAL,reb,0,False,False,,Mavericks Rebound,27-11,27,11
 0021700883,2018-02-23,LAL,DAL,9.25,1,2,45,DAL,LAL,foul,3,False,False,Randle L.B.FOUL (P1.T3) (E.Lewis),,27-11,27,11
+0021700883,2018-02-23,LAL,DAL,9.25,1,2,45,DAL,DAL,reb,0,False,False,,Mavericks Rebound,27-11,27,11
 0021700883,2018-02-23,LAL,DAL,9.57,1,2,26,DAL,DAL,fg_miss,1,False,False,,MISS Ferrell 15' Jump Shot,27-11,27,11
 0021700883,2018-02-23,LAL,DAL,9.6,1,2,24,LAL,LAL,reb,0,False,False,Randle REBOUND (Off:1 Def:3),,27-11,27,11
 0021700883,2018-02-23,LAL,DAL,9.63,1,2,22,LAL,LAL,tov,4,False,False,Ingram Traveling Turnover (P1.T3),,27-11,27,11
 0021700883,2018-02-23,LAL,DAL,9.88,1,2,7,DAL,DAL,fg_make,43,False,False,,Powell 3' Alley Oop Layup (2 PTS) (Barea 3 AST),27-13,27,13
 0021700883,2018-02-23,LAL,DAL,10.18,1,1,49,LAL,LAL,fg_miss,1,True,False,MISS Randle 2' Jump Shot,,27-13,27,13
+0021700883,2018-02-23,LAL,DAL,10.18,1,1,49,LAL,DAL,block,1,True,False,block,block,27-13,27,13
 0021700883,2018-02-23,LAL,DAL,10.18,1,1,49,LAL,LAL,reb,0,False,False,LAKERS Rebound,,27-13,27,13
 0021700883,2018-02-23,LAL,DAL,10.18,1,1,49,LAL,DAL,foul,5,False,False,,McDermott IN.FOUL (P1.PN) (E.Lewis),27-13,27,13
-0021700883,2018-02-23,LAL,DAL,10.18,1,1,49,LAL,DAL,block,1,True,False,block,block,27-13,27,13
 0021700883,2018-02-23,LAL,DAL,10.18,1,1,49,LAL,LAL,ft_make,10,False,False,Thomas Free Throw 1 of 1 (1 PTS),,28-13,28,13
 0021700883,2018-02-23,LAL,DAL,10.27,1,1,44,LAL,LAL,fg_miss,1,False,False,MISS Ingram 11' Jump Shot,,28-13,28,13
 0021700883,2018-02-23,LAL,DAL,10.32,1,1,41,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:1 Def:0),,28-13,28,13
@@ -162,13 +162,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700883,2018-02-23,LAL,DAL,16.53,2,7,28,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 3PT Jump Shot,,42-32,42,32
 0021700883,2018-02-23,LAL,DAL,16.53,2,7,28,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:2 Def:0),,42-32,42,32
 0021700883,2018-02-23,LAL,DAL,16.53,2,7,28,LAL,LAL,fg_miss,5,True,False,MISS Kuzma 2' Layup,,42-32,42,32
-0021700883,2018-02-23,LAL,DAL,16.53,2,7,28,LAL,LAL,reb,0,False,False,LAKERS Rebound,,42-32,42,32
 0021700883,2018-02-23,LAL,DAL,16.53,2,7,28,LAL,DAL,block,5,True,False,block,block,42-32,42,32
+0021700883,2018-02-23,LAL,DAL,16.53,2,7,28,LAL,LAL,reb,0,False,False,LAKERS Rebound,,42-32,42,32
 0021700883,2018-02-23,LAL,DAL,16.63,2,7,22,LAL,LAL,fg_miss,1,False,False,MISS Caldwell-Pope 20' Jump Shot,,42-32,42,32
 0021700883,2018-02-23,LAL,DAL,16.68,2,7,19,DAL,DAL,reb,0,False,False,,Ferrell REBOUND (Off:0 Def:2),42-32,42,32
 0021700883,2018-02-23,LAL,DAL,16.75,2,7,15,DAL,DAL,fg_miss,5,True,False,,MISS Ferrell 3' Layup,42-32,42,32
-0021700883,2018-02-23,LAL,DAL,16.75,2,7,15,DAL,DAL,reb,0,False,False,,Mavericks Rebound,42-32,42,32
 0021700883,2018-02-23,LAL,DAL,16.75,2,7,15,DAL,LAL,block,5,True,False,block,block,42-32,42,32
+0021700883,2018-02-23,LAL,DAL,16.75,2,7,15,DAL,DAL,reb,0,False,False,,Mavericks Rebound,42-32,42,32
 0021700883,2018-02-23,LAL,DAL,17.0,2,7,0,DAL,DAL,fg_miss,1,False,False,,MISS Kleber 19' Jump Shot,42-32,42,32
 0021700883,2018-02-23,LAL,DAL,17.05,2,6,57,LAL,LAL,reb,0,False,False,Caldwell-Pope REBOUND (Off:0 Def:3),,42-32,42,32
 0021700883,2018-02-23,LAL,DAL,17.28,2,6,43,LAL,LAL,fg3_miss,1,False,False,MISS Caldwell-Pope 26' 3PT Jump Shot,,42-32,42,32
@@ -357,8 +357,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700883,2018-02-23,LAL,DAL,39.62,4,8,23,LAL,LAL,reb,0,False,False,Hart REBOUND (Off:1 Def:7),,104-89,104,89
 0021700883,2018-02-23,LAL,DAL,39.67,4,8,20,LAL,LAL,fg_make,41,False,False,Kuzma 2' Running Layup (6 PTS) (Hart 2 AST),,106-89,106,89
 0021700883,2018-02-23,LAL,DAL,39.95,4,8,3,DAL,DAL,tov,1,False,True,,Barea Bad Pass Turnover (P1.T9),106-89,106,89
-0021700883,2018-02-23,LAL,DAL,39.95,4,8,3,LAL,DAL,foul,28,False,False,,Nowitzki Personal Take Foul (P4.T2) (M.Davis),106-89,106,89
 0021700883,2018-02-23,LAL,DAL,39.95,4,8,3,DAL,LAL,steal,1,False,True,steal,steal,106-89,106,89
+0021700883,2018-02-23,LAL,DAL,39.95,4,8,3,LAL,DAL,foul,28,False,False,,Nowitzki Personal Take Foul (P4.T2) (M.Davis),106-89,106,89
 0021700883,2018-02-23,LAL,DAL,40.22,4,7,47,LAL,LAL,fg3_make,1,False,False,Kuzma 28' 3PT Jump Shot (9 PTS),,109-89,109,89
 0021700883,2018-02-23,LAL,DAL,40.43,4,7,34,DAL,DAL,tov,45,False,False,,Smith Jr. Out of Bounds - Bad Pass Turnover Turnover (P3.T10),109-89,109,89
 0021700883,2018-02-23,LAL,DAL,40.58,4,7,25,LAL,LAL,tov,4,False,False,Kuzma Traveling Turnover (P2.T15),,109-89,109,89
@@ -383,8 +383,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700883,2018-02-23,LAL,DAL,43.07,4,4,56,LAL,LAL,fg_miss,3,False,False,MISS Randle 6' Hook Shot,,117-94,117,94
 0021700883,2018-02-23,LAL,DAL,43.1,4,4,54,LAL,LAL,reb,0,False,False,Randle REBOUND (Off:2 Def:10),,117-94,117,94
 0021700883,2018-02-23,LAL,DAL,43.12,4,4,53,LAL,LAL,fg_miss,5,True,False,MISS Randle 2' Layup,,117-94,117,94
-0021700883,2018-02-23,LAL,DAL,43.12,4,4,53,LAL,LAL,reb,0,False,False,Randle REBOUND (Off:3 Def:10),,117-94,117,94
 0021700883,2018-02-23,LAL,DAL,43.12,4,4,53,LAL,DAL,block,5,True,False,block,block,117-94,117,94
+0021700883,2018-02-23,LAL,DAL,43.12,4,4,53,LAL,LAL,reb,0,False,False,Randle REBOUND (Off:3 Def:10),,117-94,117,94
 0021700883,2018-02-23,LAL,DAL,43.17,4,4,50,LAL,LAL,fg_miss,5,True,False,MISS Randle 2' Layup,,117-94,117,94
 0021700883,2018-02-23,LAL,DAL,43.17,4,4,50,LAL,DAL,block,5,True,False,block,block,117-94,117,94
 0021700883,2018-02-23,LAL,DAL,43.2,4,4,48,DAL,DAL,reb,0,False,False,,Matthews REBOUND (Off:1 Def:1),117-94,117,94
@@ -395,8 +395,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700883,2018-02-23,LAL,DAL,43.57,4,4,26,LAL,LAL,tov,2,False,True,Kuzma Lost Ball Turnover (P3.T16),,117-94,117,94
 0021700883,2018-02-23,LAL,DAL,43.57,4,4,26,LAL,DAL,steal,2,False,True,steal,steal,117-94,117,94
 0021700883,2018-02-23,LAL,DAL,43.67,4,4,20,DAL,DAL,fg_miss,5,True,False,,MISS Barnes 2' Layup,117-94,117,94
-0021700883,2018-02-23,LAL,DAL,43.67,4,4,20,DAL,DAL,reb,0,False,False,,Barnes REBOUND (Off:1 Def:6),117-94,117,94
 0021700883,2018-02-23,LAL,DAL,43.67,4,4,20,DAL,LAL,block,5,True,False,block,block,117-94,117,94
+0021700883,2018-02-23,LAL,DAL,43.67,4,4,20,DAL,DAL,reb,0,False,False,,Barnes REBOUND (Off:1 Def:6),117-94,117,94
 0021700883,2018-02-23,LAL,DAL,43.67,4,4,20,DAL,DAL,fg_make,72,False,False,,Barnes 2' Putback Layup (16 PTS),117-96,117,96
 0021700883,2018-02-23,LAL,DAL,43.67,4,4,20,DAL,LAL,foul,2,False,False,Kuzma S.FOUL (P3.PN) (M.Davis),,117-96,117,96
 0021700883,2018-02-23,LAL,DAL,43.67,4,4,20,DAL,DAL,ft_make,10,False,False,,Barnes Free Throw 1 of 1 (17 PTS),117-97,117,97
@@ -429,8 +429,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700883,2018-02-23,LAL,DAL,47.3,4,0,42,LAL,LAL,fg_miss,1,False,False,MISS Bryant 20' Jump Shot,,123-102,123,102
 0021700883,2018-02-23,LAL,DAL,47.33,4,0,40,LAL,LAL,reb,0,False,False,Hart REBOUND (Off:2 Def:8),,123-102,123,102
 0021700883,2018-02-23,LAL,DAL,47.53,4,0,28,LAL,LAL,fg_miss,6,True,False,MISS Hart 4' Driving Layup,,123-102,123,102
-0021700883,2018-02-23,LAL,DAL,47.53,4,0,28,LAL,LAL,reb,0,False,False,LAKERS Rebound,,123-102,123,102
 0021700883,2018-02-23,LAL,DAL,47.53,4,0,28,LAL,DAL,block,6,True,False,block,block,123-102,123,102
+0021700883,2018-02-23,LAL,DAL,47.53,4,0,28,LAL,LAL,reb,0,False,False,LAKERS Rebound,,123-102,123,102
 0021700883,2018-02-23,LAL,DAL,47.63,4,0,22,LAL,DAL,foul,2,False,False,,Powell S.FOUL (P4.PN) (M.Davis),123-102,123,102
 0021700883,2018-02-23,LAL,DAL,47.63,4,0,22,LAL,LAL,ft_make,11,False,False,Hart Free Throw 1 of 2 (12 PTS),,124-102,124,102
 0021700883,2018-02-23,LAL,DAL,47.63,4,0,22,LAL,LAL,ft_miss,12,False,False,MISS Hart Free Throw 2 of 2,,124-102,124,102

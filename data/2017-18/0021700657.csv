@@ -19,8 +19,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700657,2018-01-17,CHI,GSW,2.52,1,9,29,CHI,CHI,fg3_miss,1,False,False,MISS Holiday 3PT Jump Shot,,4-10,4,10
 0021700657,2018-01-17,CHI,GSW,2.55,1,9,27,GSW,GSW,reb,0,False,False,,Curry REBOUND (Off:0 Def:1),4-10,4,10
 0021700657,2018-01-17,CHI,GSW,2.73,1,9,16,GSW,GSW,fg_miss,1,True,False,,MISS Curry 5' Jump Shot,4-10,4,10
-0021700657,2018-01-17,CHI,GSW,2.73,1,9,16,CHI,CHI,reb,0,False,False,BULLS Rebound,,4-10,4,10
 0021700657,2018-01-17,CHI,GSW,2.73,1,9,16,GSW,CHI,block,1,True,False,block,block,4-10,4,10
+0021700657,2018-01-17,CHI,GSW,2.73,1,9,16,CHI,CHI,reb,0,False,False,BULLS Rebound,,4-10,4,10
 0021700657,2018-01-17,CHI,GSW,2.97,1,9,2,CHI,CHI,fg_make,58,False,False,Lopez 5' Turnaround Hook Shot (6 PTS) (Markkanen 1 AST),,6-10,6,10
 0021700657,2018-01-17,CHI,GSW,3.32,1,8,41,GSW,GSW,fg_make,5,False,False,,Pachulia 2' Layup (2 PTS),6-12,6,12
 0021700657,2018-01-17,CHI,GSW,3.55,1,8,27,CHI,GSW,foul,2,False,False,,Looney S.FOUL (P1.T1) (S.Twardoski),6-12,6,12
@@ -28,8 +28,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700657,2018-01-17,CHI,GSW,3.55,1,8,27,CHI,CHI,ft_make,12,False,False,Holiday Free Throw 2 of 2 (2 PTS),,8-12,8,12
 0021700657,2018-01-17,CHI,GSW,3.68,1,8,19,GSW,CHI,foul,1,False,False,Dunn P.FOUL (P1.T1) (M.Ayotte),,8-12,8,12
 0021700657,2018-01-17,CHI,GSW,3.73,1,8,16,GSW,GSW,tov,1,False,True,,Curry Bad Pass Turnover (P1.T1),8-12,8,12
-0021700657,2018-01-17,CHI,GSW,3.73,1,8,16,CHI,GSW,foul,1,False,False,,Pachulia P.FOUL (P1.T2) (M.Ayotte),8-12,8,12
 0021700657,2018-01-17,CHI,GSW,3.73,1,8,16,GSW,CHI,steal,1,False,True,steal,steal,8-12,8,12
+0021700657,2018-01-17,CHI,GSW,3.73,1,8,16,CHI,GSW,foul,1,False,False,,Pachulia P.FOUL (P1.T2) (M.Ayotte),8-12,8,12
 0021700657,2018-01-17,CHI,GSW,4.13,1,7,52,CHI,CHI,fg_miss,1,False,False,MISS Holiday 21' Jump Shot,,8-12,8,12
 0021700657,2018-01-17,CHI,GSW,4.18,1,7,49,GSW,GSW,reb,0,False,False,,Curry REBOUND (Off:0 Def:2),8-12,8,12
 0021700657,2018-01-17,CHI,GSW,4.28,1,7,43,GSW,CHI,foul,2,False,False,Holiday S.FOUL (P1.T2) (S.Twardoski),,8-12,8,12
@@ -131,8 +131,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700657,2018-01-17,CHI,GSW,13.97,2,10,2,CHI,GSW,steal,1,False,True,steal,steal,45-42,45,42
 0021700657,2018-01-17,CHI,GSW,14.08,2,9,55,GSW,GSW,fg_make,5,False,False,,Thompson 2' Layup (10 PTS),45-44,45,44
 0021700657,2018-01-17,CHI,GSW,14.43,2,9,34,CHI,CHI,fg_miss,1,True,False,MISS LaVine 20' Jump Shot,,45-44,45,44
-0021700657,2018-01-17,CHI,GSW,14.43,2,9,34,GSW,GSW,reb,0,False,False,,Casspi REBOUND (Off:0 Def:1),45-44,45,44
 0021700657,2018-01-17,CHI,GSW,14.43,2,9,34,CHI,GSW,block,1,True,False,block,block,45-44,45,44
+0021700657,2018-01-17,CHI,GSW,14.43,2,9,34,GSW,GSW,reb,0,False,False,,Casspi REBOUND (Off:0 Def:1),45-44,45,44
 0021700657,2018-01-17,CHI,GSW,14.6,2,9,24,GSW,GSW,fg_make,5,False,False,,Casspi 1' Layup (2 PTS) (West 2 AST),45-46,45,46
 0021700657,2018-01-17,CHI,GSW,14.6,2,9,24,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 2 Short 0),,45-46,45,46
 0021700657,2018-01-17,CHI,GSW,14.85,2,9,9,CHI,CHI,fg_make,6,False,False,Nwaba 2' Driving Layup (6 PTS),,47-46,47,46
@@ -182,8 +182,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700657,2018-01-17,CHI,GSW,19.57,2,4,26,CHI,CHI,fg3_miss,1,False,False,MISS Mirotic 27' 3PT Jump Shot,,59-51,59,51
 0021700657,2018-01-17,CHI,GSW,19.68,2,4,19,GSW,GSW,reb,0,False,False,,Livingston REBOUND (Off:0 Def:2),59-51,59,51
 0021700657,2018-01-17,CHI,GSW,19.72,2,4,17,GSW,GSW,tov,1,False,True,,Livingston Bad Pass Turnover (P2.T7),59-51,59,51
-0021700657,2018-01-17,CHI,GSW,19.72,2,4,17,CHI,GSW,foul,1,False,False,,Livingston P.FOUL (P2.T3) (M.Ayotte),59-51,59,51
 0021700657,2018-01-17,CHI,GSW,19.72,2,4,17,GSW,CHI,steal,1,False,True,steal,steal,59-51,59,51
+0021700657,2018-01-17,CHI,GSW,19.72,2,4,17,CHI,GSW,foul,1,False,False,,Livingston P.FOUL (P2.T3) (M.Ayotte),59-51,59,51
 0021700657,2018-01-17,CHI,GSW,19.93,2,4,4,CHI,GSW,foul,1,False,False,,McCaw P.FOUL (P2.T4) (M.Ayotte),59-51,59,51
 0021700657,2018-01-17,CHI,GSW,20.0,2,4,0,CHI,CHI,fg_make,44,False,False,Dunn 1' Reverse Layup (7 PTS) (Valentine 2 AST),,61-51,61,51
 0021700657,2018-01-17,CHI,GSW,20.17,2,3,50,GSW,GSW,fg3_make,1,False,False,,Curry 26' 3PT Jump Shot (17 PTS) (Durant 4 AST),61-54,61,54
@@ -193,8 +193,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700657,2018-01-17,CHI,GSW,20.63,2,3,22,GSW,GSW,fg3_miss,1,False,False,,MISS Curry 24' 3PT Jump Shot,61-54,61,54
 0021700657,2018-01-17,CHI,GSW,20.72,2,3,17,CHI,CHI,reb,0,False,False,Holiday REBOUND (Off:0 Def:2),,61-54,61,54
 0021700657,2018-01-17,CHI,GSW,20.83,2,3,10,CHI,CHI,fg_miss,5,True,False,MISS Valentine 2' Layup,,61-54,61,54
-0021700657,2018-01-17,CHI,GSW,20.83,2,3,10,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:0 Def:2),61-54,61,54
 0021700657,2018-01-17,CHI,GSW,20.83,2,3,10,CHI,GSW,block,5,True,False,block,block,61-54,61,54
+0021700657,2018-01-17,CHI,GSW,20.83,2,3,10,GSW,GSW,reb,0,False,False,,Looney REBOUND (Off:0 Def:2),61-54,61,54
 0021700657,2018-01-17,CHI,GSW,20.95,2,3,3,GSW,GSW,fg3_miss,1,False,False,,MISS Young 26' 3PT Jump Shot,61-54,61,54
 0021700657,2018-01-17,CHI,GSW,21.08,2,2,55,CHI,CHI,reb,0,False,False,Markkanen REBOUND (Off:0 Def:1),,61-54,61,54
 0021700657,2018-01-17,CHI,GSW,21.12,2,2,53,CHI,CHI,fg_miss,5,False,False,MISS Dunn 2' Layup,,61-54,61,54
@@ -305,8 +305,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700657,2018-01-17,CHI,GSW,32.47,3,3,32,GSW,GSW,ft_make,11,False,False,,Durant Free Throw 1 of 2 (13 PTS),72-88,72,88
 0021700657,2018-01-17,CHI,GSW,32.47,3,3,32,GSW,GSW,ft_make,12,False,False,,Durant Free Throw 2 of 2 (14 PTS),72-89,72,89
 0021700657,2018-01-17,CHI,GSW,32.8,3,3,12,CHI,CHI,tov,2,False,True,Portis Lost Ball Turnover (P1.T7),,72-89,72,89
-0021700657,2018-01-17,CHI,GSW,32.8,3,3,12,GSW,CHI,foul,1,False,False,Portis P.FOUL (P2.T4) (R.Garretson),,72-89,72,89
 0021700657,2018-01-17,CHI,GSW,32.8,3,3,12,CHI,GSW,steal,2,False,True,steal,steal,72-89,72,89
+0021700657,2018-01-17,CHI,GSW,32.8,3,3,12,GSW,CHI,foul,1,False,False,Portis P.FOUL (P2.T4) (R.Garretson),,72-89,72,89
 0021700657,2018-01-17,CHI,GSW,33.02,3,2,59,GSW,CHI,foul,1,False,False,Nwaba P.FOUL (P2.PN) (M.Ayotte),,72-89,72,89
 0021700657,2018-01-17,CHI,GSW,33.02,3,2,59,GSW,GSW,ft_make,11,False,False,,Durant Free Throw 1 of 2 (15 PTS),72-90,72,90
 0021700657,2018-01-17,CHI,GSW,33.02,3,2,59,GSW,GSW,ft_make,12,False,False,,Durant Free Throw 2 of 2 (16 PTS),72-91,72,91

@@ -2,8 +2,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000141,2021-01-10,DET,UTA,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
 0022000141,2021-01-10,DET,UTA,0.0,1,12,0,,DET,jump_ball,0,False,False,Jump Ball Plumlee vs. Gobert: Tip to Griffin,,0-0,0,0
 0022000141,2021-01-10,DET,UTA,0.37,1,11,38,DET,DET,fg_miss,101,True,False,MISS Jackson 8' Driving Floating Jump Shot,,0-0,0,0
-0022000141,2021-01-10,DET,UTA,0.37,1,11,38,DET,DET,reb,0,False,False,PISTONS Rebound,,0-0,0,0
 0022000141,2021-01-10,DET,UTA,0.37,1,11,38,DET,UTA,block,101,True,False,block,block,0-0,0,0
+0022000141,2021-01-10,DET,UTA,0.37,1,11,38,DET,DET,reb,0,False,False,PISTONS Rebound,,0-0,0,0
 0022000141,2021-01-10,DET,UTA,0.45,1,11,33,DET,DET,fg3_miss,1,False,False,MISS Griffin 28' 3PT Jump Shot,,0-0,0,0
 0022000141,2021-01-10,DET,UTA,0.5,1,11,30,UTA,UTA,reb,0,False,False,,O'Neale REBOUND (Off:0 Def:1),0-0,0,0
 0022000141,2021-01-10,DET,UTA,0.58,1,11,25,UTA,UTA,fg_make,9,False,False,,Mitchell 3' Driving Dunk (2 PTS),0-2,0,2
@@ -96,8 +96,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000141,2021-01-10,DET,UTA,11.57,1,0,26,DET,DET,fg3_miss,1,False,False,MISS Bey 27' 3PT Jump Shot,,17-32,17,32
 0022000141,2021-01-10,DET,UTA,11.57,1,0,26,UTA,UTA,reb,0,False,False,,Favors REBOUND (Off:0 Def:2),17-32,17,32
 0022000141,2021-01-10,DET,UTA,11.67,1,0,20,UTA,UTA,fg_miss,41,True,False,,MISS Clarkson 3' Running Layup,17-32,17,32
-0022000141,2021-01-10,DET,UTA,11.67,1,0,20,UTA,UTA,reb,0,False,False,,Clarkson REBOUND (Off:1 Def:0),17-32,17,32
 0022000141,2021-01-10,DET,UTA,11.67,1,0,20,UTA,DET,block,41,True,False,block,block,17-32,17,32
+0022000141,2021-01-10,DET,UTA,11.67,1,0,20,UTA,UTA,reb,0,False,False,,Clarkson REBOUND (Off:1 Def:0),17-32,17,32
 0022000141,2021-01-10,DET,UTA,11.68,1,0,19,UTA,UTA,fg_make,5,False,False,,Clarkson 2' Layup (4 PTS),17-34,17,34
 0022000141,2021-01-10,DET,UTA,12.0,1,0,0,DET,DET,fg_make,7,False,False,Okafor 3' Dunk (4 PTS) (Jackson 1 AST),,19-34,19,34
 0022000141,2021-01-10,DET,UTA,12.0,1,0,0,DET,,period_end,0,False,False,,,19-34,19,34
@@ -208,15 +208,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000141,2021-01-10,DET,UTA,24.63,3,11,22,DET,DET,fg_miss,1,False,False,MISS Grant 21' Jump Shot,,40-59,40,59
 0022000141,2021-01-10,DET,UTA,24.68,3,11,19,UTA,UTA,reb,0,False,False,,Bogdanovic REBOUND (Off:0 Def:4),40-59,40,59
 0022000141,2021-01-10,DET,UTA,24.78,3,11,13,UTA,UTA,fg_miss,43,True,False,,MISS Gobert 1' Alley Oop Layup,40-59,40,59
-0022000141,2021-01-10,DET,UTA,24.78,3,11,13,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:3 Def:6),40-59,40,59
 0022000141,2021-01-10,DET,UTA,24.78,3,11,13,UTA,DET,block,43,True,False,block,block,40-59,40,59
+0022000141,2021-01-10,DET,UTA,24.78,3,11,13,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:3 Def:6),40-59,40,59
 0022000141,2021-01-10,DET,UTA,24.83,3,11,10,UTA,UTA,fg3_miss,1,False,False,,MISS O'Neale 28' 3PT Jump Shot,40-59,40,59
 0022000141,2021-01-10,DET,UTA,24.92,3,11,5,DET,DET,reb,0,False,False,Wright REBOUND (Off:0 Def:3),,40-59,40,59
 0022000141,2021-01-10,DET,UTA,25.05,3,10,57,DET,DET,fg3_miss,1,False,False,MISS Jackson 28' 3PT Jump Shot,,40-59,40,59
 0022000141,2021-01-10,DET,UTA,25.1,3,10,54,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:3 Def:7),40-59,40,59
 0022000141,2021-01-10,DET,UTA,25.45,3,10,33,UTA,UTA,tov,2,False,True,,Mitchell Lost Ball Turnover (P2.T8),40-59,40,59
-0022000141,2021-01-10,DET,UTA,25.45,3,10,33,DET,UTA,foul,1,False,False,,Mitchell P.FOUL (P1.T1) (G.Petraitis),40-59,40,59
 0022000141,2021-01-10,DET,UTA,25.45,3,10,33,UTA,DET,steal,2,False,True,steal,steal,40-59,40,59
+0022000141,2021-01-10,DET,UTA,25.45,3,10,33,DET,UTA,foul,1,False,False,,Mitchell P.FOUL (P1.T1) (G.Petraitis),40-59,40,59
 0022000141,2021-01-10,DET,UTA,25.65,3,10,21,DET,DET,fg_miss,5,False,False,MISS Griffin 2' Layup,,40-59,40,59
 0022000141,2021-01-10,DET,UTA,25.72,3,10,17,DET,DET,reb,0,False,False,Plumlee REBOUND (Off:3 Def:1),,40-59,40,59
 0022000141,2021-01-10,DET,UTA,25.72,3,10,17,DET,DET,fg_make,107,False,False,Plumlee Tip Dunk Shot (2 PTS),,42-59,42,59

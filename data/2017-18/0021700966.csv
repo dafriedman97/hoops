@@ -37,8 +37,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700966,2018-03-07,DET,TOR,3.95,1,8,3,TOR,TOR,fg3_miss,1,False,False,,MISS Ibaka 27' 3PT Jump Shot,7-8,7,8
 0021700966,2018-03-07,DET,TOR,4.0,1,8,0,DET,DET,reb,0,False,False,Kennard REBOUND (Off:0 Def:1),,7-8,7,8
 0021700966,2018-03-07,DET,TOR,4.07,1,7,56,DET,DET,fg_miss,5,False,False,MISS Drummond 3' Layup,,7-8,7,8
-0021700966,2018-03-07,DET,TOR,4.08,1,7,55,DET,DET,fg_miss,97,False,False,MISS Drummond 2' Tip Layup Shot,,7-8,7,8
 0021700966,2018-03-07,DET,TOR,4.08,1,7,55,DET,DET,reb,0,False,False,Drummond REBOUND (Off:3 Def:3),,7-8,7,8
+0021700966,2018-03-07,DET,TOR,4.08,1,7,55,DET,DET,fg_miss,97,False,False,MISS Drummond 2' Tip Layup Shot,,7-8,7,8
 0021700966,2018-03-07,DET,TOR,4.1,1,7,54,DET,DET,reb,0,False,False,Drummond REBOUND (Off:2 Def:3),,7-8,7,8
 0021700966,2018-03-07,DET,TOR,4.18,1,7,49,DET,DET,fg_miss,97,False,False,MISS Drummond 1' Tip Layup Shot,,7-8,7,8
 0021700966,2018-03-07,DET,TOR,4.22,1,7,47,DET,DET,reb,0,False,False,Drummond REBOUND (Off:4 Def:3),,7-8,7,8
@@ -103,10 +103,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700966,2018-03-07,DET,TOR,11.62,1,0,23,TOR,TOR,reb,0,False,False,,Wright REBOUND (Off:1 Def:0),23-25,23,25
 0021700966,2018-03-07,DET,TOR,11.95,1,0,3,TOR,TOR,fg_make,1,False,False,,Poeltl 14' Jump Shot (4 PTS) (VanVleet 1 AST),23-27,23,27
 0021700966,2018-03-07,DET,TOR,12.0,1,0,0,DET,DET,fg3_miss,1,True,False,MISS Buycks 34' 3PT Jump Shot,,23-27,23,27
+0021700966,2018-03-07,DET,TOR,12.0,1,0,0,DET,TOR,block,1,True,False,block,block,23-27,23,27
 0021700966,2018-03-07,DET,TOR,12.0,1,0,0,DET,DET,reb,0,False,False,PISTONS Rebound,,23-27,23,27
 0021700966,2018-03-07,DET,TOR,12.0,1,0,0,DET,,period_end,0,False,False,,,23-27,23,27
 0021700966,2018-03-07,DET,TOR,12.0,2,12,0,DET,,period_start,0,False,False,,,23-27,23,27
-0021700966,2018-03-07,DET,TOR,12.0,1,0,0,DET,TOR,block,1,True,False,block,block,23-27,23,27
 0021700966,2018-03-07,DET,TOR,12.37,2,11,38,TOR,TOR,tov,8,False,False,,Poeltl 3 Second Violation Turnover (P1.T2),23-27,23,27
 0021700966,2018-03-07,DET,TOR,12.72,2,11,17,DET,DET,fg_miss,6,False,False,MISS Kennard 7' Driving Layup,,23-27,23,27
 0021700966,2018-03-07,DET,TOR,12.72,2,11,17,TOR,TOR,reb,0,False,False,,Wright REBOUND (Off:1 Def:1),23-27,23,27
@@ -388,9 +388,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700966,2018-03-07,DET,TOR,45.1,4,2,54,DET,DET,ft_make,14,False,False,Ennis III Free Throw 2 of 3 (13 PTS),,100-103,100,103
 0021700966,2018-03-07,DET,TOR,45.1,4,2,54,DET,DET,ft_make,15,False,False,Ennis III Free Throw 3 of 3 (14 PTS),,101-103,101,103
 0021700966,2018-03-07,DET,TOR,45.42,4,2,35,TOR,DET,foul,2,False,False,Griffin S.FOUL (P3.T2) (G.Petraitis),,101-103,101,103
-0021700966,2018-03-07,DET,TOR,45.42,4,2,35,TOR,,violation,1,False,False,,,101-103,101,103
 0021700966,2018-03-07,DET,TOR,45.42,4,2,35,TOR,TOR,ft_make,11,False,False,,VanVleet Free Throw 1 of 2 (3 PTS),101-104,101,104
 0021700966,2018-03-07,DET,TOR,45.42,4,2,35,TOR,TOR,ft_make,12,False,False,,VanVleet Free Throw 2 of 2 (4 PTS),101-105,101,105
+0021700966,2018-03-07,DET,TOR,45.42,4,2,35,TOR,,violation,1,False,False,,,101-103,101,103
 0021700966,2018-03-07,DET,TOR,45.75,4,2,15,DET,DET,fg_miss,80,False,False,MISS Smith 16' Step Back Jump Shot,,101-105,101,105
 0021700966,2018-03-07,DET,TOR,45.85,4,2,9,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:0 Def:3),101-105,101,105
 0021700966,2018-03-07,DET,TOR,46.13,4,1,52,TOR,TOR,fg_miss,3,False,False,,MISS Valanciunas 5' Hook Shot,101-105,101,105

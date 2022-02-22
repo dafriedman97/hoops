@@ -1,8 +1,8 @@
 game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,steal,home_desc,vis_desc,score,home_score,vis_score
 0022000350,2021-02-05,LAC,BOS,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
 0022000350,2021-02-05,LAC,BOS,0.0,1,12,0,,LAC,jump_ball,0,False,False,Jump Ball Ibaka vs. Thompson: Tip to Kennard,,0-0,0,0
-0022000350,2021-02-05,LAC,BOS,0.22,1,11,47,LAC,LAC,tov,1,False,False,Jackson Bad Pass Turnover (P1.T1),,0-0,0,0
 0022000350,2021-02-05,LAC,BOS,0.22,1,11,47,BOS,LAC,foul,3,False,False,Jackson L.B.FOUL (P1.T1) (K.Fitzgerald),,0-0,0,0
+0022000350,2021-02-05,LAC,BOS,0.22,1,11,47,LAC,LAC,tov,1,False,False,Jackson Bad Pass Turnover (P1.T1),,0-0,0,0
 0022000350,2021-02-05,LAC,BOS,0.5,1,11,30,BOS,BOS,fg_miss,5,True,False,,MISS Williams 2' Layup,0-0,0,0
 0022000350,2021-02-05,LAC,BOS,0.5,1,11,30,BOS,LAC,block,5,True,False,block,block,0-0,0,0
 0022000350,2021-02-05,LAC,BOS,0.55,1,11,27,LAC,LAC,reb,0,False,False,Leonard REBOUND (Off:0 Def:1),,0-0,0,0
@@ -103,8 +103,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000350,2021-02-05,LAC,BOS,12.7,2,11,18,LAC,LAC,fg_miss,1,False,False,MISS Morris Sr. 16' Jump Shot,,33-21,33,21
 0022000350,2021-02-05,LAC,BOS,12.75,2,11,15,BOS,BOS,reb,0,False,False,,Williams REBOUND (Off:0 Def:1),33-21,33,21
 0022000350,2021-02-05,LAC,BOS,12.87,2,11,8,BOS,BOS,fg_miss,5,True,False,,MISS Walker 3' Layup,33-21,33,21
-0022000350,2021-02-05,LAC,BOS,12.87,2,11,8,BOS,BOS,reb,0,False,False,,Celtics Rebound,33-21,33,21
 0022000350,2021-02-05,LAC,BOS,12.87,2,11,8,BOS,LAC,block,5,True,False,block,block,33-21,33,21
+0022000350,2021-02-05,LAC,BOS,12.87,2,11,8,BOS,BOS,reb,0,False,False,,Celtics Rebound,33-21,33,21
 0022000350,2021-02-05,LAC,BOS,12.9,2,11,6,BOS,BOS,fg_make,7,False,False,,Williams III 3' Dunk (4 PTS) (Teague 2 AST),33-23,33,23
 0022000350,2021-02-05,LAC,BOS,13.3,2,10,42,LAC,LAC,fg_miss,63,False,False,MISS Morris Sr. 11' Fadeaway Jumper,,33-23,33,23
 0022000350,2021-02-05,LAC,BOS,13.35,2,10,39,BOS,BOS,reb,0,False,False,,Teague REBOUND (Off:0 Def:1),33-23,33,23
@@ -244,9 +244,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000350,2021-02-05,LAC,BOS,29.42,3,6,35,LAC,LAC,fg_make,97,False,False,Batum Tip Layup Shot (11 PTS),,73-63,73,63
 0022000350,2021-02-05,LAC,BOS,29.73,3,6,16,BOS,BOS,fg3_make,1,False,False,,Williams 24' 3PT Jump Shot (6 PTS) (Walker 3 AST),73-66,73,66
 0022000350,2021-02-05,LAC,BOS,30.0,3,6,0,LAC,LAC,fg_miss,5,True,False,MISS Leonard 3' Layup,,73-66,73,66
+0022000350,2021-02-05,LAC,BOS,30.0,3,6,0,LAC,BOS,block,5,True,False,block,block,73-66,73,66
 0022000350,2021-02-05,LAC,BOS,30.0,3,6,0,BOS,BOS,reb,0,False,False,,Celtics Rebound,73-66,73,66
 0022000350,2021-02-05,LAC,BOS,30.0,3,6,0,LAC,LAC,timeout,1,False,False,CLIPPERS Timeout: Regular (Full 3 Short 0),,73-66,73,66
-0022000350,2021-02-05,LAC,BOS,30.0,3,6,0,LAC,BOS,block,5,True,False,block,block,73-66,73,66
 0022000350,2021-02-05,LAC,BOS,30.2,3,5,48,BOS,BOS,fg_make,7,False,False,,Tatum 2' Dunk (20 PTS) (Williams 2 AST),73-68,73,68
 0022000350,2021-02-05,LAC,BOS,30.63,3,5,22,LAC,LAC,fg_miss,5,False,False,MISS Jackson 3' Layup,,73-68,73,68
 0022000350,2021-02-05,LAC,BOS,30.67,3,5,20,BOS,BOS,reb,0,False,False,,Williams REBOUND (Off:0 Def:2),73-68,73,68
@@ -309,8 +309,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000350,2021-02-05,LAC,BOS,37.6,4,10,24,LAC,LAC,fg_make,50,False,False,Mann 2' Running Dunk (4 PTS) (Leonard 4 AST),,87-94,87,94
 0022000350,2021-02-05,LAC,BOS,37.95,4,10,3,BOS,BOS,fg_make,1,False,False,,Williams III 18' Jump Shot (8 PTS) (Pritchard 2 AST),87-96,87,96
 0022000350,2021-02-05,LAC,BOS,38.13,4,9,52,LAC,LAC,fg_miss,1,False,False,MISS Williams 14' Jump Shot,,87-96,87,96
-0022000350,2021-02-05,LAC,BOS,38.13,4,9,52,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,87-96,87,96
 0022000350,2021-02-05,LAC,BOS,38.13,4,9,52,LAC,BOS,foul,3,False,False,,Ojeleye L.B.FOUL (P1.T2) (K.Fitzgerald),87-96,87,96
+0022000350,2021-02-05,LAC,BOS,38.13,4,9,52,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,87-96,87,96
 0022000350,2021-02-05,LAC,BOS,38.25,4,9,45,LAC,LAC,fg_make,108,False,False,Zubac 2' Cutting Dunk Shot (12 PTS) (Batum 1 AST),,89-96,89,96
 0022000350,2021-02-05,LAC,BOS,38.58,4,9,25,BOS,BOS,fg3_miss,1,False,False,,MISS Ojeleye 24' 3PT Jump Shot,89-96,89,96
 0022000350,2021-02-05,LAC,BOS,38.73,4,9,16,LAC,LAC,reb,0,False,False,Zubac REBOUND (Off:0 Def:5),,89-96,89,96

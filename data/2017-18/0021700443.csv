@@ -49,8 +49,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700443,2017-12-18,ATL,MIA,6.52,1,5,29,ATL,ATL,tov,2,False,True,Prince Lost Ball Turnover (P1.T2),,19-15,19,15
 0021700443,2017-12-18,ATL,MIA,6.52,1,5,29,ATL,MIA,steal,2,False,True,steal,steal,19-15,19,15
 0021700443,2017-12-18,ATL,MIA,6.57,1,5,26,MIA,MIA,fg_miss,41,True,False,,MISS Olynyk 2' Running Layup,19-15,19,15
-0021700443,2017-12-18,ATL,MIA,6.57,1,5,26,MIA,MIA,reb,0,False,False,,Heat Rebound,19-15,19,15
 0021700443,2017-12-18,ATL,MIA,6.57,1,5,26,MIA,ATL,block,41,True,False,block,block,19-15,19,15
+0021700443,2017-12-18,ATL,MIA,6.57,1,5,26,MIA,MIA,reb,0,False,False,,Heat Rebound,19-15,19,15
 0021700443,2017-12-18,ATL,MIA,6.6,1,5,24,MIA,MIA,fg3_make,1,False,False,,Waiters 24' 3PT Jump Shot (8 PTS) (Ellington 1 AST),19-18,19,18
 0021700443,2017-12-18,ATL,MIA,6.73,1,5,16,ATL,ATL,timeout,1,False,False,HAWKS Timeout: Regular (Full 1 Short 0),,19-18,19,18
 0021700443,2017-12-18,ATL,MIA,6.85,1,5,9,ATL,ATL,fg3_make,80,False,False,Ilyasova 24' 3PT Step Back Jump Shot (5 PTS) (Prince 2 AST),,22-18,22,18
@@ -157,8 +157,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700443,2017-12-18,ATL,MIA,18.58,2,5,25,ATL,MIA,violation,1,False,False,,Heat Violation: Delay of game Violation,43-43,43,43
 0021700443,2017-12-18,ATL,MIA,18.95,2,5,3,MIA,MIA,fg3_make,1,False,False,,Mickey 3PT Jump Shot (5 PTS) (Waiters 3 AST),43-46,43,46
 0021700443,2017-12-18,ATL,MIA,19.17,2,4,50,ATL,ATL,fg_miss,6,True,False,MISS Ilyasova 2' Driving Layup,,43-46,43,46
-0021700443,2017-12-18,ATL,MIA,19.17,2,4,50,ATL,ATL,reb,0,False,False,HAWKS Rebound,,43-46,43,46
 0021700443,2017-12-18,ATL,MIA,19.17,2,4,50,ATL,MIA,block,6,True,False,block,block,43-46,43,46
+0021700443,2017-12-18,ATL,MIA,19.17,2,4,50,ATL,ATL,reb,0,False,False,HAWKS Rebound,,43-46,43,46
 0021700443,2017-12-18,ATL,MIA,19.2,2,4,48,ATL,ATL,fg_make,1,False,False,Schroder 17' Jump Shot (8 PTS) (Bazemore 3 AST),,45-46,45,46
 0021700443,2017-12-18,ATL,MIA,19.43,2,4,34,MIA,MIA,fg_make,79,False,False,,Waiters 21' Pullup Jump Shot (10 PTS),45-48,45,48
 0021700443,2017-12-18,ATL,MIA,19.7,2,4,18,ATL,ATL,fg_make,52,False,False,Collins 2' Alley Oop Dunk (2 PTS) (Schroder 4 AST),,47-48,47,48
@@ -382,13 +382,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700443,2017-12-18,ATL,MIA,41.65,4,6,21,ATL,MIA,block,6,True,False,block,block,98-88,98,88
 0021700443,2017-12-18,ATL,MIA,41.7,4,6,18,MIA,MIA,reb,0,False,False,,Ellington REBOUND (Off:0 Def:4),98-88,98,88
 0021700443,2017-12-18,ATL,MIA,41.7,4,6,18,MIA,MIA,tov,1,False,True,,Ellington Bad Pass Turnover (P1.T17),98-88,98,88
-0021700443,2017-12-18,ATL,MIA,41.7,4,6,18,ATL,MIA,foul,27,False,False,,Waiters Personal Block Foul (P3.T2) (M.Smith),98-88,98,88
 0021700443,2017-12-18,ATL,MIA,41.7,4,6,18,MIA,ATL,steal,1,False,True,steal,steal,98-88,98,88
+0021700443,2017-12-18,ATL,MIA,41.7,4,6,18,ATL,MIA,foul,27,False,False,,Waiters Personal Block Foul (P3.T2) (M.Smith),98-88,98,88
 0021700443,2017-12-18,ATL,MIA,41.87,4,6,8,ATL,MIA,foul,1,False,False,,Waiters P.FOUL (P4.T3) (T.Ford),98-88,98,88
 0021700443,2017-12-18,ATL,MIA,42.1,4,5,54,ATL,ATL,fg_miss,6,True,False,MISS Schroder 2' Driving Layup,,98-88,98,88
 0021700443,2017-12-18,ATL,MIA,42.1,4,5,54,ATL,MIA,block,6,True,False,block,block,98-88,98,88
-0021700443,2017-12-18,ATL,MIA,42.12,4,5,53,ATL,ATL,tov,11,False,False,HAWKS Turnover: Shot Clock (T#11),,98-88,98,88
 0021700443,2017-12-18,ATL,MIA,42.12,4,5,53,ATL,ATL,reb,0,False,False,HAWKS Rebound,,98-88,98,88
+0021700443,2017-12-18,ATL,MIA,42.12,4,5,53,ATL,ATL,tov,11,False,False,HAWKS Turnover: Shot Clock (T#11),,98-88,98,88
 0021700443,2017-12-18,ATL,MIA,42.38,4,5,37,MIA,ATL,foul,1,False,False,Schroder P.FOUL (P4.T3) (M.Smith),,98-88,98,88
 0021700443,2017-12-18,ATL,MIA,42.6,4,5,24,MIA,MIA,fg_make,9,False,False,,Johnson 1' Driving Dunk (19 PTS) (Waiters 5 AST),98-90,98,90
 0021700443,2017-12-18,ATL,MIA,42.93,4,5,4,ATL,ATL,fg_miss,6,False,False,MISS Ilyasova 1' Driving Layup,,98-90,98,90
@@ -396,9 +396,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700443,2017-12-18,ATL,MIA,42.98,4,5,1,ATL,ATL,fg_miss,97,False,False,MISS Ilyasova 1' Tip Layup Shot,,98-90,98,90
 0021700443,2017-12-18,ATL,MIA,43.02,4,4,59,MIA,MIA,reb,0,False,False,,Ellington REBOUND (Off:0 Def:5),98-90,98,90
 0021700443,2017-12-18,ATL,MIA,43.03,4,4,58,MIA,MIA,fg_miss,41,True,False,,MISS Ellington 2' Running Layup,98-90,98,90
+0021700443,2017-12-18,ATL,MIA,43.03,4,4,58,MIA,ATL,block,41,True,False,block,block,98-90,98,90
 0021700443,2017-12-18,ATL,MIA,43.03,4,4,58,MIA,MIA,reb,0,False,False,,Heat Rebound,98-90,98,90
 0021700443,2017-12-18,ATL,MIA,43.03,4,4,58,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.5 Short 0),98-90,98,90
-0021700443,2017-12-18,ATL,MIA,43.03,4,4,58,MIA,ATL,block,41,True,False,block,block,98-90,98,90
 0021700443,2017-12-18,ATL,MIA,43.22,4,4,47,MIA,MIA,fg3_miss,79,False,False,,MISS Waiters 25' 3PT Pullup Jump Shot,98-90,98,90
 0021700443,2017-12-18,ATL,MIA,43.32,4,4,41,ATL,ATL,reb,0,False,False,Bazemore REBOUND (Off:0 Def:5),,98-90,98,90
 0021700443,2017-12-18,ATL,MIA,43.5,4,4,30,ATL,ATL,fg_miss,1,False,False,MISS Ilyasova 19' Jump Shot,,98-90,98,90

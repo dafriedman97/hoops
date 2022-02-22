@@ -11,8 +11,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700490,2017-12-23,PHX,MIN,1.13,1,10,52,PHX,MIN,foul,4,False,False,,Towns OFF.Foul (P1) (K.Fitzgerald),0-0,0,0
 0021700490,2017-12-23,PHX,MIN,1.13,1,10,52,MIN,MIN,tov,37,False,False,,Towns Offensive Foul Turnover (P1.T3),0-0,0,0
 0021700490,2017-12-23,PHX,MIN,1.35,1,10,39,PHX,PHX,fg_miss,6,False,False,MISS Jackson 4' Driving Layup,,0-0,0,0
-0021700490,2017-12-23,PHX,MIN,1.38,1,10,37,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,0-0,0,0
 0021700490,2017-12-23,PHX,MIN,1.38,1,10,37,MIN,PHX,foul,3,False,False,Jackson L.B.FOUL (P1.T1) (L.Wood),,0-0,0,0
+0021700490,2017-12-23,PHX,MIN,1.38,1,10,37,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,0-0,0,0
 0021700490,2017-12-23,PHX,MIN,1.6,1,10,24,MIN,MIN,fg_miss,79,False,False,,MISS Butler 20' Pullup Jump Shot,0-0,0,0
 0021700490,2017-12-23,PHX,MIN,1.67,1,10,20,PHX,PHX,reb,0,False,False,Chandler REBOUND (Off:0 Def:1),,0-0,0,0
 0021700490,2017-12-23,PHX,MIN,1.85,1,10,9,PHX,PHX,fg_miss,1,False,False,MISS Warren 14' Jump Shot,,0-0,0,0
@@ -25,9 +25,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700490,2017-12-23,PHX,MIN,2.68,1,9,19,PHX,PHX,fg3_miss,1,False,False,MISS Chriss 24' 3PT Jump Shot,,0-3,0,3
 0021700490,2017-12-23,PHX,MIN,2.72,1,9,17,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:0 Def:3),0-3,0,3
 0021700490,2017-12-23,PHX,MIN,2.87,1,9,8,MIN,PHX,foul,2,False,False,Jackson S.FOUL (P2.T2) (K.Fitzgerald),,0-3,0,3
-0021700490,2017-12-23,PHX,MIN,2.87,1,9,8,MIN,MIN,ft_make,12,False,False,,Gibson Free Throw 2 of 2 (1 PTS),0-4,0,4
 0021700490,2017-12-23,PHX,MIN,2.87,1,9,8,MIN,MIN,ft_miss,11,False,False,,MISS Gibson Free Throw 1 of 2,0-4,0,4
 0021700490,2017-12-23,PHX,MIN,2.87,1,9,8,MIN,MIN,reb,1,False,False,,Timberwolves Rebound,0-4,0,4
+0021700490,2017-12-23,PHX,MIN,2.87,1,9,8,MIN,MIN,ft_make,12,False,False,,Gibson Free Throw 2 of 2 (1 PTS),0-4,0,4
 0021700490,2017-12-23,PHX,MIN,3.03,1,8,58,PHX,MIN,foul,2,False,False,,Gibson S.FOUL (P1.T2) (K.Fitzgerald),0-4,0,4
 0021700490,2017-12-23,PHX,MIN,3.03,1,8,58,PHX,PHX,ft_make,11,False,False,Chriss Free Throw 1 of 2 (1 PTS),,1-4,1,4
 0021700490,2017-12-23,PHX,MIN,3.03,1,8,58,PHX,PHX,ft_miss,12,False,False,MISS Chriss Free Throw 2 of 2,,1-4,1,4
@@ -63,9 +63,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700490,2017-12-23,PHX,MIN,6.8,1,5,12,PHX,PHX,tov,1,False,False,Canaan Bad Pass Turnover (P1.T3),,6-16,6,16
 0021700490,2017-12-23,PHX,MIN,7.03,1,4,58,MIN,MIN,fg_make,108,False,False,,Butler 2' Cutting Dunk Shot (6 PTS) (Towns 1 AST),6-18,6,18
 0021700490,2017-12-23,PHX,MIN,7.45,1,4,33,PHX,PHX,fg_miss,101,True,False,MISS Daniels 12' Driving Floating Jump Shot,,6-18,6,18
+0021700490,2017-12-23,PHX,MIN,7.45,1,4,33,PHX,MIN,block,101,True,False,block,block,6-18,6,18
 0021700490,2017-12-23,PHX,MIN,7.45,1,4,33,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,6-18,6,18
 0021700490,2017-12-23,PHX,MIN,7.45,1,4,33,MIN,PHX,foul,3,False,False,Daniels L.B.FOUL (P2.T4) (K.Fitzgerald),,6-18,6,18
-0021700490,2017-12-23,PHX,MIN,7.45,1,4,33,PHX,MIN,block,101,True,False,block,block,6-18,6,18
 0021700490,2017-12-23,PHX,MIN,7.72,1,4,17,MIN,PHX,foul,1,False,False,Bender P.FOUL (P1.PN) (A.Smith),,6-18,6,18
 0021700490,2017-12-23,PHX,MIN,7.72,1,4,17,MIN,MIN,ft_make,11,False,False,,Butler Free Throw 1 of 2 (7 PTS),6-19,6,19
 0021700490,2017-12-23,PHX,MIN,7.72,1,4,17,MIN,MIN,ft_make,12,False,False,,Butler Free Throw 2 of 2 (8 PTS),6-20,6,20
@@ -98,8 +98,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700490,2017-12-23,PHX,MIN,10.25,1,1,45,PHX,PHX,fg3_make,1,False,False,Bender 25' 3PT Jump Shot (5 PTS) (House Jr. 1 AST),,16-26,16,26
 0021700490,2017-12-23,PHX,MIN,10.6,1,1,24,MIN,MIN,fg3_make,1,False,False,,Crawford 27' 3PT Jump Shot (3 PTS) (Jones 1 AST),16-29,16,29
 0021700490,2017-12-23,PHX,MIN,10.82,1,1,11,PHX,PHX,fg_miss,6,True,False,MISS Bender 6' Driving Layup,,16-29,16,29
-0021700490,2017-12-23,PHX,MIN,10.82,1,1,11,PHX,PHX,reb,0,False,False,SUNS Rebound,,16-29,16,29
 0021700490,2017-12-23,PHX,MIN,10.82,1,1,11,PHX,MIN,block,6,True,False,block,block,16-29,16,29
+0021700490,2017-12-23,PHX,MIN,10.82,1,1,11,PHX,PHX,reb,0,False,False,SUNS Rebound,,16-29,16,29
 0021700490,2017-12-23,PHX,MIN,10.83,1,1,10,PHX,PHX,fg3_make,80,False,False,Daniels 26' 3PT Step Back Jump Shot (3 PTS) (Canaan 4 AST),,19-29,19,29
 0021700490,2017-12-23,PHX,MIN,11.0,1,1,0,MIN,MIN,fg_make,103,False,False,,Crawford 21' Running Pull-Up Jump Shot (5 PTS),19-31,19,31
 0021700490,2017-12-23,PHX,MIN,11.18,1,0,49,PHX,MIN,foul,2,False,False,,Wiggins S.FOUL (P3.PN) (K.Fitzgerald),19-31,19,31
@@ -217,8 +217,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700490,2017-12-23,PHX,MIN,23.17,2,0,50,MIN,MIN,fg_miss,102,False,False,,MISS Towns 3' Driving Floating Bank Jump Shot,43-61,43,61
 0021700490,2017-12-23,PHX,MIN,23.2,2,0,48,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:3 Def:6),43-61,43,61
 0021700490,2017-12-23,PHX,MIN,23.2,2,0,48,MIN,PHX,foul,1,False,False,Chandler P.FOUL (P1.PN) (A.Smith),,43-61,43,61
-0021700490,2017-12-23,PHX,MIN,23.2,2,0,48,MIN,,violation,1,False,False,,,43-61,43,61
 0021700490,2017-12-23,PHX,MIN,23.2,2,0,48,MIN,MIN,ft_make,11,False,False,,Towns Free Throw 1 of 2 (9 PTS),43-62,43,62
+0021700490,2017-12-23,PHX,MIN,23.2,2,0,48,MIN,,violation,1,False,False,,,43-61,43,61
 0021700490,2017-12-23,PHX,MIN,23.2,2,0,48,MIN,MIN,ft_miss,12,False,False,,MISS Towns Free Throw 2 of 2,43-62,43,62
 0021700490,2017-12-23,PHX,MIN,23.23,2,0,46,PHX,PHX,reb,0,False,False,Chandler REBOUND (Off:5 Def:4),,43-62,43,62
 0021700490,2017-12-23,PHX,MIN,23.47,2,0,32,PHX,PHX,fg_miss,6,False,False,MISS Canaan 1' Driving Layup,,43-62,43,62
@@ -388,8 +388,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700490,2017-12-23,PHX,MIN,42.52,4,5,29,MIN,MIN,fg3_miss,79,False,False,,MISS Butler 25' 3PT Pullup Jump Shot,95-103,95,103
 0021700490,2017-12-23,PHX,MIN,42.57,4,5,26,PHX,PHX,reb,0,False,False,Warren REBOUND (Off:1 Def:8),,95-103,95,103
 0021700490,2017-12-23,PHX,MIN,42.75,4,5,15,PHX,PHX,fg_miss,47,True,False,MISS Chriss 8' Turnaround Jump Shot,,95-103,95,103
-0021700490,2017-12-23,PHX,MIN,42.75,4,5,15,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:4 Def:8),95-103,95,103
 0021700490,2017-12-23,PHX,MIN,42.75,4,5,15,PHX,MIN,block,47,True,False,block,block,95-103,95,103
+0021700490,2017-12-23,PHX,MIN,42.75,4,5,15,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:4 Def:8),95-103,95,103
 0021700490,2017-12-23,PHX,MIN,42.97,4,5,2,MIN,PHX,foul,2,False,False,Warren S.FOUL (P3.T3) (A.Smith),,95-103,95,103
 0021700490,2017-12-23,PHX,MIN,42.97,4,5,2,MIN,MIN,ft_make,11,False,False,,Crawford Free Throw 1 of 2 (10 PTS),95-104,95,104
 0021700490,2017-12-23,PHX,MIN,42.97,4,5,2,MIN,MIN,ft_make,12,False,False,,Crawford Free Throw 2 of 2 (11 PTS),95-105,95,105

@@ -67,8 +67,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900268,2019-11-29,DET,CHA,8.43,1,3,34,DET,DET,reb,0,False,False,Drummond REBOUND (Off:3 Def:3),,24-28,24,28
 0021900268,2019-11-29,DET,CHA,8.48,1,3,31,DET,CHA,foul,2,False,False,,Rozier S.FOUL (P2.T2) (G.Petraitis),24-28,24,28
 0021900268,2019-11-29,DET,CHA,8.48,1,3,31,DET,DET,ft_make,11,False,False,Griffin Free Throw 1 of 2 (3 PTS),,25-28,25,28
-0021900268,2019-11-29,DET,CHA,8.48,1,3,31,DET,DET,ft_make,12,False,False,Griffin Free Throw 2 of 2 (4 PTS),,26-28,26,28
 0021900268,2019-11-29,DET,CHA,8.48,1,3,31,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.1 Short 0),26-28,26,28
+0021900268,2019-11-29,DET,CHA,8.48,1,3,31,DET,DET,ft_make,12,False,False,Griffin Free Throw 2 of 2 (4 PTS),,26-28,26,28
 0021900268,2019-11-29,DET,CHA,8.7,1,3,18,CHA,CHA,fg_miss,98,False,False,,MISS Washington 3' Cutting Layup Shot,26-28,26,28
 0021900268,2019-11-29,DET,CHA,8.75,1,3,15,CHA,CHA,reb,0,False,False,,Batum REBOUND (Off:2 Def:1),26-28,26,28
 0021900268,2019-11-29,DET,CHA,8.8,1,3,12,CHA,CHA,fg3_miss,1,False,False,,MISS Williams 3PT Jump Shot,26-28,26,28
@@ -144,8 +144,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900268,2019-11-29,DET,CHA,16.6,2,7,24,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:2 Def:2),46-44,46,44
 0021900268,2019-11-29,DET,CHA,16.8,2,7,12,CHA,CHA,fg_make,7,False,False,,Biyombo 1' Dunk (4 PTS) (Williams 3 AST),46-46,46,46
 0021900268,2019-11-29,DET,CHA,17.2,2,6,48,DET,DET,fg_miss,5,True,False,MISS Brown 2' Layup,,46-46,46,46
-0021900268,2019-11-29,DET,CHA,17.2,2,6,48,DET,DET,reb,0,False,False,PISTONS Rebound,,46-46,46,46
 0021900268,2019-11-29,DET,CHA,17.2,2,6,48,DET,CHA,block,5,True,False,block,block,46-46,46,46
+0021900268,2019-11-29,DET,CHA,17.2,2,6,48,DET,DET,reb,0,False,False,PISTONS Rebound,,46-46,46,46
 0021900268,2019-11-29,DET,CHA,17.23,2,6,46,DET,DET,tov,11,False,False,PISTONS Turnover: Shot Clock (T#5),,46-46,46,46
 0021900268,2019-11-29,DET,CHA,17.57,2,6,26,CHA,CHA,fg3_make,79,False,False,,Rozier 26' 3PT Pullup Jump Shot (17 PTS),46-49,46,49
 0021900268,2019-11-29,DET,CHA,17.87,2,6,8,DET,DET,fg_make,6,False,False,Morris 1' Driving Layup (5 PTS) (Kennard 1 AST),,48-49,48,49
@@ -172,8 +172,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900268,2019-11-29,DET,CHA,21.23,2,2,46,DET,DET,fg3_miss,1,False,False,MISS Kennard 3PT Jump Shot,,55-54,55,54
 0021900268,2019-11-29,DET,CHA,21.28,2,2,43,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:2 Def:3),55-54,55,54
 0021900268,2019-11-29,DET,CHA,21.33,2,2,40,CHA,CHA,fg3_miss,79,False,False,,MISS Rozier 25' 3PT Pullup Jump Shot,55-54,55,54
-0021900268,2019-11-29,DET,CHA,21.43,2,2,34,CHA,CHA,fg_make,97,False,False,,Biyombo 1' Tip Layup Shot (8 PTS),55-56,55,56
 0021900268,2019-11-29,DET,CHA,21.43,2,2,34,CHA,CHA,reb,0,False,False,,Biyombo REBOUND (Off:1 Def:2),55-56,55,56
+0021900268,2019-11-29,DET,CHA,21.43,2,2,34,CHA,CHA,fg_make,97,False,False,,Biyombo 1' Tip Layup Shot (8 PTS),55-56,55,56
 0021900268,2019-11-29,DET,CHA,21.7,2,2,18,DET,CHA,foul,1,False,False,,Bridges P.FOUL (P1.T3) (B.Nansel),55-56,55,56
 0021900268,2019-11-29,DET,CHA,21.85,2,2,9,DET,CHA,foul,2,False,False,,Biyombo S.FOUL (P1.T4) (G.Petraitis),55-56,55,56
 0021900268,2019-11-29,DET,CHA,21.85,2,2,9,DET,DET,ft_miss,11,False,False,MISS Drummond Free Throw 1 of 2,,55-56,55,56
@@ -385,8 +385,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900268,2019-11-29,DET,CHA,47.08,4,0,55,DET,DET,fg_miss,79,False,False,MISS Kennard 19' Pullup Jump Shot,,107-108,107,108
 0021900268,2019-11-29,DET,CHA,47.12,4,0,53,DET,DET,reb,0,False,False,Drummond REBOUND (Off:8 Def:11),,107-108,107,108
 0021900268,2019-11-29,DET,CHA,47.15,4,0,51,DET,DET,fg_miss,87,True,False,MISS Drummond 4' Putback Dunk,,107-108,107,108
-0021900268,2019-11-29,DET,CHA,47.15,4,0,51,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:0 Def:5),107-108,107,108
 0021900268,2019-11-29,DET,CHA,47.15,4,0,51,DET,CHA,block,87,True,False,block,block,107-108,107,108
+0021900268,2019-11-29,DET,CHA,47.15,4,0,51,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:0 Def:5),107-108,107,108
 0021900268,2019-11-29,DET,CHA,47.22,4,0,47,CHA,DET,foul,28,False,False,Kennard Personal Take Foul (P3.PN) (G.Petraitis),,107-108,107,108
 0021900268,2019-11-29,DET,CHA,47.22,4,0,47,CHA,CHA,ft_make,11,False,False,,Washington Free Throw 1 of 2 (25 PTS),107-109,107,109
 0021900268,2019-11-29,DET,CHA,47.22,4,0,47,CHA,CHA,ft_make,12,False,False,,Washington Free Throw 2 of 2 (26 PTS),107-110,107,110

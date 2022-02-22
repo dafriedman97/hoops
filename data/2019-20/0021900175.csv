@@ -86,8 +86,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900175,2019-11-16,CHI,BKN,8.62,1,3,23,CHI,CHI,fg_make,5,False,False,LaVine 2' Layup (4 PTS) (White 1 AST),,14-23,14,23
 0021900175,2019-11-16,CHI,BKN,8.63,1,3,22,BKN,BKN,timeout,1,False,False,,Nets Timeout: Regular (Reg.1 Short 0),14-23,14,23
 0021900175,2019-11-16,CHI,BKN,8.88,1,3,7,BKN,BKN,tov,1,False,True,,Temple Bad Pass Turnover (P1.T1),14-23,14,23
-0021900175,2019-11-16,CHI,BKN,8.88,1,3,7,CHI,BKN,foul,1,False,False,,Temple P.FOUL (P2.PN) (J.Goble),14-23,14,23
 0021900175,2019-11-16,CHI,BKN,8.88,1,3,7,BKN,CHI,steal,1,False,True,steal,steal,14-23,14,23
+0021900175,2019-11-16,CHI,BKN,8.88,1,3,7,CHI,BKN,foul,1,False,False,,Temple P.FOUL (P2.PN) (J.Goble),14-23,14,23
 0021900175,2019-11-16,CHI,BKN,8.88,1,3,7,CHI,CHI,ft_make,11,False,False,Dunn Free Throw 1 of 2 (3 PTS),,15-23,15,23
 0021900175,2019-11-16,CHI,BKN,8.88,1,3,7,CHI,CHI,ft_miss,12,False,False,MISS Dunn Free Throw 2 of 2,,15-23,15,23
 0021900175,2019-11-16,CHI,BKN,8.93,1,3,4,BKN,BKN,reb,0,False,False,,Jordan REBOUND (Off:0 Def:1),15-23,15,23
@@ -166,8 +166,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900175,2019-11-16,CHI,BKN,15.33,2,8,40,BKN,BKN,tov,1,False,True,,Shumpert Bad Pass Turnover (P1.T4),26-33,26,33
 0021900175,2019-11-16,CHI,BKN,15.33,2,8,40,BKN,CHI,steal,1,False,True,steal,steal,26-33,26,33
 0021900175,2019-11-16,CHI,BKN,15.55,2,8,27,CHI,CHI,fg_miss,79,False,False,MISS Satoransky 19' Pullup Jump Shot,,26-33,26,33
-0021900175,2019-11-16,CHI,BKN,15.65,2,8,21,CHI,CHI,fg_make,87,False,False,Carter Jr. 1' Putback Dunk (6 PTS),,28-33,28,33
 0021900175,2019-11-16,CHI,BKN,15.65,2,8,21,CHI,CHI,reb,0,False,False,Carter Jr. REBOUND (Off:4 Def:1),,28-33,28,33
+0021900175,2019-11-16,CHI,BKN,15.65,2,8,21,CHI,CHI,fg_make,87,False,False,Carter Jr. 1' Putback Dunk (6 PTS),,28-33,28,33
 0021900175,2019-11-16,CHI,BKN,15.78,2,8,13,BKN,BKN,tov,1,False,True,,Shumpert Bad Pass Turnover (P2.T5),28-33,28,33
 0021900175,2019-11-16,CHI,BKN,15.78,2,8,13,BKN,CHI,steal,1,False,True,steal,steal,28-33,28,33
 0021900175,2019-11-16,CHI,BKN,15.8,2,8,12,CHI,CHI,fg_make,50,False,False,White 1' Running Dunk (7 PTS),,30-33,30,33
@@ -196,9 +196,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900175,2019-11-16,CHI,BKN,18.6,2,5,24,BKN,BKN,tov,1,False,True,,Dinwiddie Bad Pass Turnover (P2.T7),38-35,38,35
 0021900175,2019-11-16,CHI,BKN,18.6,2,5,24,BKN,CHI,steal,1,False,True,steal,steal,38-35,38,35
 0021900175,2019-11-16,CHI,BKN,18.67,2,5,20,CHI,CHI,fg_miss,101,True,False,MISS Hutchison 4' Driving Floating Jump Shot,,38-35,38,35
+0021900175,2019-11-16,CHI,BKN,18.67,2,5,20,CHI,BKN,block,101,True,False,block,block,38-35,38,35
 0021900175,2019-11-16,CHI,BKN,18.67,2,5,20,CHI,CHI,reb,0,False,False,Markkanen REBOUND (Off:1 Def:3),,38-35,38,35
 0021900175,2019-11-16,CHI,BKN,18.67,2,5,20,CHI,BKN,foul,2,False,False,,Shumpert S.FOUL (P2.T3) (C.Blair),38-35,38,35
-0021900175,2019-11-16,CHI,BKN,18.67,2,5,20,CHI,BKN,block,101,True,False,block,block,38-35,38,35
 0021900175,2019-11-16,CHI,BKN,18.67,2,5,20,CHI,CHI,ft_make,11,False,False,Markkanen Free Throw 1 of 2 (6 PTS),,39-35,39,35
 0021900175,2019-11-16,CHI,BKN,18.67,2,5,20,CHI,CHI,ft_make,12,False,False,Markkanen Free Throw 2 of 2 (7 PTS),,40-35,40,35
 0021900175,2019-11-16,CHI,BKN,18.82,2,5,11,BKN,BKN,fg3_miss,1,False,False,,MISS Dinwiddie 27' 3PT Jump Shot,40-35,40,35
@@ -316,11 +316,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900175,2019-11-16,CHI,BKN,29.65,3,6,21,CHI,CHI,tov,37,False,False,Hutchison Offensive Foul Turnover (P2.T14),,66-59,66,59
 0021900175,2019-11-16,CHI,BKN,29.95,3,6,3,BKN,BKN,fg_make,3,False,False,,Allen 5' Hook Shot (9 PTS) (Claxton 2 AST),66-61,66,61
 0021900175,2019-11-16,CHI,BKN,30.17,3,5,50,CHI,CHI,fg_miss,58,False,False,MISS Young 6' Turnaround Hook Shot,,66-61,66,61
-0021900175,2019-11-16,CHI,BKN,30.28,3,5,43,CHI,CHI,fg_miss,72,True,False,MISS Carter Jr. 1' Putback Layup,,66-61,66,61
-0021900175,2019-11-16,CHI,BKN,30.28,3,5,43,BKN,BKN,reb,0,False,False,,Harris REBOUND (Off:0 Def:2),66-61,66,61
 0021900175,2019-11-16,CHI,BKN,30.28,3,5,43,CHI,CHI,reb,0,False,False,Carter Jr. REBOUND (Off:7 Def:3),,66-61,66,61
-0021900175,2019-11-16,CHI,BKN,30.28,3,5,43,BKN,BKN,tov,2,False,True,,Pinson Lost Ball Turnover (P3.T10),66-61,66,61
+0021900175,2019-11-16,CHI,BKN,30.28,3,5,43,CHI,CHI,fg_miss,72,True,False,MISS Carter Jr. 1' Putback Layup,,66-61,66,61
 0021900175,2019-11-16,CHI,BKN,30.28,3,5,43,CHI,BKN,block,72,True,False,block,block,66-61,66,61
+0021900175,2019-11-16,CHI,BKN,30.28,3,5,43,BKN,BKN,reb,0,False,False,,Harris REBOUND (Off:0 Def:2),66-61,66,61
+0021900175,2019-11-16,CHI,BKN,30.28,3,5,43,BKN,BKN,tov,2,False,True,,Pinson Lost Ball Turnover (P3.T10),66-61,66,61
 0021900175,2019-11-16,CHI,BKN,30.28,3,5,43,BKN,CHI,steal,2,False,True,steal,steal,66-61,66,61
 0021900175,2019-11-16,CHI,BKN,30.28,3,5,43,CHI,CHI,fg_make,5,False,False,Young 1' Layup (4 PTS),,68-61,68,61
 0021900175,2019-11-16,CHI,BKN,30.28,3,5,43,CHI,BKN,foul,2,False,False,,Pinson S.FOUL (P2.PN) (C.Washington),68-61,68,61
@@ -349,8 +349,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900175,2019-11-16,CHI,BKN,33.02,3,2,59,CHI,CHI,fg_make,6,False,False,Dunn 1' Driving Layup (7 PTS),,73-68,73,68
 0021900175,2019-11-16,CHI,BKN,33.42,3,2,35,BKN,BKN,tov,45,False,False,,Musa Out of Bounds - Bad Pass Turnover Turnover (P2.T11),73-68,73,68
 0021900175,2019-11-16,CHI,BKN,33.57,3,2,26,CHI,CHI,fg_miss,6,True,False,MISS White 2' Driving Layup,,73-68,73,68
-0021900175,2019-11-16,CHI,BKN,33.57,3,2,26,CHI,CHI,reb,0,False,False,BULLS Rebound,,73-68,73,68
 0021900175,2019-11-16,CHI,BKN,33.57,3,2,26,CHI,BKN,block,6,True,False,block,block,73-68,73,68
+0021900175,2019-11-16,CHI,BKN,33.57,3,2,26,CHI,CHI,reb,0,False,False,BULLS Rebound,,73-68,73,68
 0021900175,2019-11-16,CHI,BKN,33.62,3,2,23,CHI,CHI,fg_miss,5,False,False,MISS Arcidiacono 2' Layup,,73-68,73,68
 0021900175,2019-11-16,CHI,BKN,33.65,3,2,21,BKN,BKN,reb,0,False,False,,Jordan REBOUND (Off:0 Def:4),73-68,73,68
 0021900175,2019-11-16,CHI,BKN,33.7,3,2,18,BKN,BKN,fg3_make,1,False,False,,Shumpert 25' 3PT Jump Shot (3 PTS) (Pinson 3 AST),73-71,73,71
@@ -383,17 +383,17 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900175,2019-11-16,CHI,BKN,37.08,4,10,55,BKN,BKN,fg_miss,6,False,False,,MISS Dinwiddie 2' Driving Layup,78-77,78,77
 0021900175,2019-11-16,CHI,BKN,37.12,4,10,53,CHI,CHI,reb,0,False,False,White REBOUND (Off:2 Def:6),,78-77,78,77
 0021900175,2019-11-16,CHI,BKN,37.18,4,10,49,CHI,CHI,fg_miss,6,True,False,MISS White 2' Driving Layup,,78-77,78,77
-0021900175,2019-11-16,CHI,BKN,37.18,4,10,49,CHI,CHI,reb,0,False,False,BULLS Rebound,,78-77,78,77
 0021900175,2019-11-16,CHI,BKN,37.18,4,10,49,CHI,BKN,block,6,True,False,block,block,78-77,78,77
+0021900175,2019-11-16,CHI,BKN,37.18,4,10,49,CHI,CHI,reb,0,False,False,BULLS Rebound,,78-77,78,77
 0021900175,2019-11-16,CHI,BKN,37.32,4,10,41,BKN,CHI,foul,4,False,False,Markkanen OFF.Foul (P2) (J.Goble),,78-77,78,77
 0021900175,2019-11-16,CHI,BKN,37.32,4,10,41,CHI,CHI,tov,37,False,False,Markkanen Offensive Foul Turnover (P1.T17),,78-77,78,77
 0021900175,2019-11-16,CHI,BKN,37.55,4,10,27,BKN,CHI,foul,2,False,False,Markkanen S.FOUL (P3.T1) (J.Goble),,78-77,78,77
 0021900175,2019-11-16,CHI,BKN,37.55,4,10,27,BKN,BKN,ft_make,11,False,False,,Prince Free Throw 1 of 2 (8 PTS),78-78,78,78
 0021900175,2019-11-16,CHI,BKN,37.55,4,10,27,BKN,BKN,ft_miss,12,False,False,,MISS Prince Free Throw 2 of 2,78-78,78,78
 0021900175,2019-11-16,CHI,BKN,37.62,4,10,23,BKN,BKN,reb,0,False,False,,Jordan REBOUND (Off:1 Def:4),78-78,78,78
+0021900175,2019-11-16,CHI,BKN,37.62,4,10,23,BKN,BKN,fg_make,87,False,False,,Jordan 1' Putback Dunk (3 PTS),78-80,78,80
 0021900175,2019-11-16,CHI,BKN,37.62,4,10,23,BKN,BKN,fg_miss,97,False,False,,MISS Jordan 2' Tip Layup Shot,78-78,78,78
 0021900175,2019-11-16,CHI,BKN,37.62,4,10,23,BKN,BKN,reb,0,False,False,,Jordan REBOUND (Off:2 Def:4),78-78,78,78
-0021900175,2019-11-16,CHI,BKN,37.62,4,10,23,BKN,BKN,fg_make,87,False,False,,Jordan 1' Putback Dunk (3 PTS),78-80,78,80
 0021900175,2019-11-16,CHI,BKN,37.77,4,10,14,CHI,CHI,fg_make,101,False,False,Hutchison 2' Driving Floating Jump Shot (10 PTS),,80-80,80,80
 0021900175,2019-11-16,CHI,BKN,37.77,4,10,14,CHI,BKN,foul,2,False,False,,Harris S.FOUL (P4.T1) (C.Washington),80-80,80,80
 0021900175,2019-11-16,CHI,BKN,37.77,4,10,14,CHI,CHI,ft_make,10,False,False,Hutchison Free Throw 1 of 1 (11 PTS),,81-80,81,80
@@ -429,8 +429,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900175,2019-11-16,CHI,BKN,41.22,4,6,47,BKN,CHI,steal,1,False,True,steal,steal,86-90,86,90
 0021900175,2019-11-16,CHI,BKN,41.33,4,6,40,CHI,CHI,fg_miss,75,True,False,MISS LaVine 2' Driving Finger Roll Layup,,86-90,86,90
 0021900175,2019-11-16,CHI,BKN,41.33,4,6,40,CHI,BKN,block,75,True,False,block,block,86-90,86,90
-0021900175,2019-11-16,CHI,BKN,41.43,4,6,34,CHI,CHI,fg_make,87,False,False,Carter Jr. 1' Putback Dunk (14 PTS),,88-90,88,90
 0021900175,2019-11-16,CHI,BKN,41.43,4,6,34,CHI,CHI,reb,0,False,False,Carter Jr. REBOUND (Off:8 Def:4),,88-90,88,90
+0021900175,2019-11-16,CHI,BKN,41.43,4,6,34,CHI,CHI,fg_make,87,False,False,Carter Jr. 1' Putback Dunk (14 PTS),,88-90,88,90
 0021900175,2019-11-16,CHI,BKN,41.47,4,6,32,BKN,BKN,fg3_miss,1,False,False,,MISS Musa 3PT Jump Shot,88-90,88,90
 0021900175,2019-11-16,CHI,BKN,41.55,4,6,27,CHI,CHI,reb,0,False,False,Hutchison REBOUND (Off:0 Def:4),,88-90,88,90
 0021900175,2019-11-16,CHI,BKN,41.85,4,6,9,CHI,CHI,fg_miss,1,False,False,MISS Satoransky 20' Jump Shot,,88-90,88,90

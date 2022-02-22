@@ -4,8 +4,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700186,2017-11-11,PHX,MIN,0.35,1,11,39,MIN,MIN,fg_miss,47,False,False,,MISS Towns 13' Turnaround Jump Shot,0-0,0,0
 0021700186,2017-11-11,PHX,MIN,0.45,1,11,33,PHX,PHX,reb,0,False,False,Booker REBOUND (Off:0 Def:1),,0-0,0,0
 0021700186,2017-11-11,PHX,MIN,0.62,1,11,23,PHX,PHX,fg_miss,98,True,False,MISS Ulis 2' Cutting Layup Shot,,0-0,0,0
-0021700186,2017-11-11,PHX,MIN,0.62,1,11,23,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,0-0,0,0
 0021700186,2017-11-11,PHX,MIN,0.62,1,11,23,PHX,MIN,block,98,True,False,block,block,0-0,0,0
+0021700186,2017-11-11,PHX,MIN,0.62,1,11,23,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,0-0,0,0
 0021700186,2017-11-11,PHX,MIN,0.82,1,11,11,MIN,MIN,tov,1,False,False,,Teague Bad Pass Turnover (P1.T1),0-0,0,0
 0021700186,2017-11-11,PHX,MIN,1.02,1,10,59,PHX,PHX,fg_make,1,False,False,Warren 17' Jump Shot (2 PTS),,2-0,2,0
 0021700186,2017-11-11,PHX,MIN,1.23,1,10,46,MIN,MIN,fg_miss,1,True,False,,MISS Wiggins 12' Jump Shot,2-0,2,0
@@ -128,8 +128,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700186,2017-11-11,PHX,MIN,12.58,2,11,25,PHX,PHX,reb,0,False,False,Len REBOUND (Off:0 Def:1),,22-28,22,28
 0021700186,2017-11-11,PHX,MIN,12.72,2,11,17,PHX,MIN,foul,29,False,False,,Bjelica Shooting Block Foul (P1.T1) (H.Workman),22-28,22,28
 0021700186,2017-11-11,PHX,MIN,12.72,2,11,17,PHX,PHX,ft_miss,11,False,False,MISS Jackson Free Throw 1 of 2,,22-28,22,28
-0021700186,2017-11-11,PHX,MIN,12.72,2,11,17,PHX,PHX,reb,1,False,False,SUNS Rebound,,22-28,22,28
 0021700186,2017-11-11,PHX,MIN,12.72,2,11,17,PHX,PHX,ft_make,12,False,False,Jackson Free Throw 2 of 2 (1 PTS),,23-28,23,28
+0021700186,2017-11-11,PHX,MIN,12.72,2,11,17,PHX,PHX,reb,1,False,False,SUNS Rebound,,22-28,22,28
 0021700186,2017-11-11,PHX,MIN,12.87,2,11,8,MIN,MIN,fg_make,6,False,False,,Bjelica 1' Driving Layup (2 PTS),23-30,23,30
 0021700186,2017-11-11,PHX,MIN,13.0,2,11,0,PHX,PHX,tov,1,False,False,James Bad Pass Turnover (P1.T4),,23-30,23,30
 0021700186,2017-11-11,PHX,MIN,13.27,2,10,44,MIN,MIN,fg3_miss,1,False,False,,MISS Bjelica 27' 3PT Jump Shot,23-30,23,30
@@ -175,8 +175,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700186,2017-11-11,PHX,MIN,17.17,2,6,50,MIN,MIN,ft_make,11,False,False,,Muhammad Free Throw 1 of 2 (6 PTS),35-42,35,42
 0021700186,2017-11-11,PHX,MIN,17.17,2,6,50,MIN,MIN,ft_make,12,False,False,,Muhammad Free Throw 2 of 2 (7 PTS),35-43,35,43
 0021700186,2017-11-11,PHX,MIN,17.4,2,6,36,PHX,PHX,fg_miss,6,True,False,MISS Jackson 6' Driving Layup,,35-43,35,43
-0021700186,2017-11-11,PHX,MIN,17.4,2,6,36,PHX,PHX,reb,0,False,False,SUNS Rebound,,35-43,35,43
 0021700186,2017-11-11,PHX,MIN,17.4,2,6,36,PHX,MIN,block,6,True,False,block,block,35-43,35,43
+0021700186,2017-11-11,PHX,MIN,17.4,2,6,36,PHX,PHX,reb,0,False,False,SUNS Rebound,,35-43,35,43
 0021700186,2017-11-11,PHX,MIN,17.57,2,6,26,PHX,PHX,fg3_miss,1,False,False,MISS Jackson 29' 3PT Jump Shot,,35-43,35,43
 0021700186,2017-11-11,PHX,MIN,17.65,2,6,21,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:1 Def:3),35-43,35,43
 0021700186,2017-11-11,PHX,MIN,17.72,2,6,17,MIN,MIN,tov,45,False,False,,Teague Out of Bounds - Bad Pass Turnover Turnover (P4.T4),35-43,35,43
@@ -228,10 +228,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700186,2017-11-11,PHX,MIN,22.57,2,1,26,PHX,PHX,reb,0,False,False,Chriss REBOUND (Off:1 Def:2),,49-55,49,55
 0021700186,2017-11-11,PHX,MIN,22.63,2,1,22,PHX,PHX,fg_miss,6,True,False,MISS Jackson 2' Driving Layup,,49-55,49,55
 0021700186,2017-11-11,PHX,MIN,22.63,2,1,22,PHX,PHX,fg_miss,6,True,False,MISS Jackson 2' Driving Layup,,49-55,49,55
+0021700186,2017-11-11,PHX,MIN,22.63,2,1,22,PHX,MIN,block,6,True,False,block,block,49-55,49,55
+0021700186,2017-11-11,PHX,MIN,22.63,2,1,22,PHX,MIN,block,6,True,False,block,block,49-55,49,55
 0021700186,2017-11-11,PHX,MIN,22.63,2,1,22,PHX,PHX,reb,0,False,False,Chandler REBOUND (Off:1 Def:2),,49-55,49,55
 0021700186,2017-11-11,PHX,MIN,22.63,2,1,22,PHX,MIN,foul,2,False,False,,Gibson S.FOUL (P2.T3) (P.Fraher),49-55,49,55
-0021700186,2017-11-11,PHX,MIN,22.63,2,1,22,PHX,MIN,block,6,True,False,block,block,49-55,49,55
-0021700186,2017-11-11,PHX,MIN,22.63,2,1,22,PHX,MIN,block,6,True,False,block,block,49-55,49,55
 0021700186,2017-11-11,PHX,MIN,22.63,2,1,22,PHX,PHX,ft_make,11,False,False,Chandler Free Throw 1 of 2 (1 PTS),,50-55,50,55
 0021700186,2017-11-11,PHX,MIN,22.63,2,1,22,PHX,PHX,ft_make,12,False,False,Chandler Free Throw 2 of 2 (2 PTS),,51-55,51,55
 0021700186,2017-11-11,PHX,MIN,22.9,2,1,6,MIN,MIN,fg_miss,6,False,False,,MISS Wiggins 2' Driving Layup,51-55,51,55
@@ -414,16 +414,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700186,2017-11-11,PHX,MIN,42.08,4,5,55,PHX,PHX,fg3_miss,1,False,False,MISS Warren 26' 3PT Jump Shot,,97-98,97,98
 0021700186,2017-11-11,PHX,MIN,42.1,4,5,54,PHX,PHX,reb,0,False,False,SUNS Rebound,,97-98,97,98
 0021700186,2017-11-11,PHX,MIN,42.2,4,5,48,PHX,PHX,fg3_miss,1,True,False,MISS Booker 74' 3PT Jump Shot,,97-98,97,98
-0021700186,2017-11-11,PHX,MIN,42.2,4,5,48,MIN,MIN,reb,0,False,False,,Teague REBOUND (Off:0 Def:4),97-98,97,98
 0021700186,2017-11-11,PHX,MIN,42.2,4,5,48,PHX,MIN,block,1,True,False,block,block,97-98,97,98
+0021700186,2017-11-11,PHX,MIN,42.2,4,5,48,MIN,MIN,reb,0,False,False,,Teague REBOUND (Off:0 Def:4),97-98,97,98
 0021700186,2017-11-11,PHX,MIN,42.25,4,5,45,MIN,PHX,foul,2,False,False,Warren S.FOUL (P4.T2) (H.Workman),,97-98,97,98
 0021700186,2017-11-11,PHX,MIN,42.25,4,5,45,MIN,MIN,ft_make,11,False,False,,Wiggins Free Throw 1 of 2 (22 PTS),97-99,97,99
 0021700186,2017-11-11,PHX,MIN,42.25,4,5,45,MIN,MIN,ft_make,12,False,False,,Wiggins Free Throw 2 of 2 (23 PTS),97-100,97,100
 0021700186,2017-11-11,PHX,MIN,42.48,4,5,31,MIN,PHX,foul,26,False,False,Booker Offensive Charge Foul (P4.T3) (H.Workman),,97-100,97,100
 0021700186,2017-11-11,PHX,MIN,42.48,4,5,31,PHX,PHX,tov,37,False,False,Booker Offensive Foul Turnover (P3.T16),,97-100,97,100
 0021700186,2017-11-11,PHX,MIN,42.73,4,5,16,MIN,MIN,fg_miss,6,True,False,,MISS Wiggins 2' Driving Layup,97-100,97,100
-0021700186,2017-11-11,PHX,MIN,42.73,4,5,16,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,97-100,97,100
 0021700186,2017-11-11,PHX,MIN,42.73,4,5,16,MIN,PHX,block,6,True,False,block,block,97-100,97,100
+0021700186,2017-11-11,PHX,MIN,42.73,4,5,16,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,97-100,97,100
 0021700186,2017-11-11,PHX,MIN,42.78,4,5,13,MIN,MIN,fg_miss,6,True,False,,MISS Towns 2' Driving Layup,97-100,97,100
 0021700186,2017-11-11,PHX,MIN,42.78,4,5,13,MIN,PHX,block,6,True,False,block,block,97-100,97,100
 0021700186,2017-11-11,PHX,MIN,42.85,4,5,9,PHX,PHX,reb,0,False,False,Warren REBOUND (Off:1 Def:3),,97-100,97,100

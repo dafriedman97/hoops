@@ -11,8 +11,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000161,2021-01-12,HOU,LAL,1.27,1,10,44,LAL,LAL,fg_miss,44,False,False,,MISS Caldwell-Pope 2' Reverse Layup,0-2,0,2
 0022000161,2021-01-12,HOU,LAL,1.28,1,10,43,LAL,LAL,reb,0,False,False,,Caldwell-Pope REBOUND (Off:2 Def:0),0-2,0,2
 0022000161,2021-01-12,HOU,LAL,1.28,1,10,43,LAL,LAL,fg_miss,5,True,False,,MISS Caldwell-Pope 1' Layup,0-2,0,2
-0022000161,2021-01-12,HOU,LAL,1.28,1,10,43,LAL,LAL,reb,0,False,False,,Lakers Rebound,0-2,0,2
 0022000161,2021-01-12,HOU,LAL,1.28,1,10,43,LAL,HOU,block,5,True,False,block,block,0-2,0,2
+0022000161,2021-01-12,HOU,LAL,1.28,1,10,43,LAL,LAL,reb,0,False,False,,Lakers Rebound,0-2,0,2
 0022000161,2021-01-12,HOU,LAL,1.32,1,10,41,LAL,LAL,fg_make,1,False,False,,Caldwell-Pope 19' Jump Shot (2 PTS) (James 1 AST),0-4,0,4
 0022000161,2021-01-12,HOU,LAL,1.52,1,10,29,HOU,HOU,fg3_make,1,False,False,Wood 26' 3PT Jump Shot (3 PTS) (Wall 1 AST),,3-4,3,4
 0022000161,2021-01-12,HOU,LAL,1.85,1,10,9,LAL,LAL,fg_make,86,False,False,,Davis 11' Turnaround Fadeaway (2 PTS),3-6,3,6
@@ -41,9 +41,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000161,2021-01-12,HOU,LAL,5.15,1,6,51,LAL,HOU,foul,1,False,False,Harden P.FOUL (P1.T2) (B.Taylor),,10-18,10,18
 0022000161,2021-01-12,HOU,LAL,5.27,1,6,44,LAL,LAL,fg_make,86,False,False,,James 10' Turnaround Fadeaway (7 PTS) (Gasol 1 AST),10-20,10,20
 0022000161,2021-01-12,HOU,LAL,5.67,1,6,20,HOU,HOU,fg_miss,1,True,False,MISS Wood 19' Jump Shot,,10-20,10,20
+0022000161,2021-01-12,HOU,LAL,5.67,1,6,20,HOU,LAL,block,1,True,False,block,block,10-20,10,20
 0022000161,2021-01-12,HOU,LAL,5.67,1,6,20,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,10-20,10,20
 0022000161,2021-01-12,HOU,LAL,5.67,1,6,20,HOU,HOU,tov,11,False,False,ROCKETS Turnover: Shot Clock (T#4),,10-20,10,20
-0022000161,2021-01-12,HOU,LAL,5.67,1,6,20,HOU,LAL,block,1,True,False,block,block,10-20,10,20
 0022000161,2021-01-12,HOU,LAL,5.88,1,6,7,LAL,LAL,fg_make,75,False,False,,Schroder 2' Driving Finger Roll Layup (4 PTS),10-22,10,22
 0022000161,2021-01-12,HOU,LAL,6.17,1,5,50,HOU,HOU,fg3_miss,1,False,False,MISS Tucker 3PT Jump Shot,,10-22,10,22
 0022000161,2021-01-12,HOU,LAL,6.17,1,5,50,LAL,LAL,reb,0,False,False,,James REBOUND (Off:1 Def:3),10-22,10,22
@@ -135,8 +135,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000161,2021-01-12,HOU,LAL,14.65,2,9,21,LAL,LAL,fg3_miss,1,False,False,,MISS Caruso 3PT Jump Shot,19-43,19,43
 0022000161,2021-01-12,HOU,LAL,14.67,2,9,20,LAL,LAL,reb,0,False,False,,Morris REBOUND (Off:1 Def:0),19-43,19,43
 0022000161,2021-01-12,HOU,LAL,14.78,2,9,13,LAL,LAL,fg_miss,6,True,False,,MISS Caruso 7' Driving Layup,19-43,19,43
-0022000161,2021-01-12,HOU,LAL,14.78,2,9,13,LAL,LAL,reb,0,False,False,,Lakers Rebound,19-43,19,43
 0022000161,2021-01-12,HOU,LAL,14.78,2,9,13,LAL,HOU,block,6,True,False,block,block,19-43,19,43
+0022000161,2021-01-12,HOU,LAL,14.78,2,9,13,LAL,LAL,reb,0,False,False,,Lakers Rebound,19-43,19,43
 0022000161,2021-01-12,HOU,LAL,14.92,2,9,5,LAL,LAL,fg_make,86,False,False,,James 15' Turnaround Fadeaway (12 PTS),19-45,19,45
 0022000161,2021-01-12,HOU,LAL,15.12,2,8,53,HOU,HOU,fg3_make,1,False,False,Cousins 25' 3PT Jump Shot (3 PTS) (Wall 2 AST),,22-45,22,45
 0022000161,2021-01-12,HOU,LAL,15.43,2,8,34,LAL,LAL,tov,2,False,True,,James Lost Ball Turnover (P1.T4),22-45,22,45
@@ -227,8 +227,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000161,2021-01-12,HOU,LAL,24.32,3,11,41,HOU,LAL,ft_make,11,False,False,,Davis Free Throw 1 of 2 (11 PTS),48-72,48,72
 0022000161,2021-01-12,HOU,LAL,24.32,3,11,41,HOU,LAL,ft_make,12,False,False,,Davis Free Throw 2 of 2 (12 PTS),48-73,48,73
 0022000161,2021-01-12,HOU,LAL,24.57,3,11,26,HOU,HOU,fg_miss,5,True,False,MISS Wood 2' Layup,,48-73,48,73
-0022000161,2021-01-12,HOU,LAL,24.57,3,11,26,LAL,LAL,reb,0,False,False,,Caldwell-Pope REBOUND (Off:2 Def:1),48-73,48,73
 0022000161,2021-01-12,HOU,LAL,24.57,3,11,26,HOU,LAL,block,5,True,False,block,block,48-73,48,73
+0022000161,2021-01-12,HOU,LAL,24.57,3,11,26,LAL,LAL,reb,0,False,False,,Caldwell-Pope REBOUND (Off:2 Def:1),48-73,48,73
 0022000161,2021-01-12,HOU,LAL,24.72,3,11,17,LAL,LAL,tov,39,False,False,,James Step Out of Bounds Turnover (P4.T9),48-73,48,73
 0022000161,2021-01-12,HOU,LAL,25.13,3,10,52,HOU,HOU,fg_miss,86,False,False,MISS Wall 15' Turnaround Fadeaway Shot,,48-73,48,73
 0022000161,2021-01-12,HOU,LAL,25.13,3,10,52,LAL,LAL,reb,0,False,False,,James REBOUND (Off:1 Def:5),48-73,48,73
@@ -404,9 +404,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000161,2021-01-12,HOU,LAL,41.42,4,6,35,LAL,LAL,tov,1,False,True,,Horton-Tucker Bad Pass Turnover (P2.T17),84-109,84,109
 0022000161,2021-01-12,HOU,LAL,41.42,4,6,35,LAL,HOU,steal,1,False,True,steal,steal,84-109,84,109
 0022000161,2021-01-12,HOU,LAL,41.48,4,6,31,HOU,HOU,fg_miss,41,True,False,MISS Jones 4' Running Layup,,84-109,84,109
+0022000161,2021-01-12,HOU,LAL,41.48,4,6,31,HOU,LAL,block,41,True,False,block,block,84-109,84,109
 0022000161,2021-01-12,HOU,LAL,41.48,4,6,31,LAL,LAL,reb,0,False,False,,Lakers Rebound,84-109,84,109
 0022000161,2021-01-12,HOU,LAL,41.48,4,6,31,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 6 Short 0),,84-109,84,109
-0022000161,2021-01-12,HOU,LAL,41.48,4,6,31,HOU,LAL,block,41,True,False,block,block,84-109,84,109
 0022000161,2021-01-12,HOU,LAL,41.75,4,6,15,LAL,LAL,tov,1,False,True,,Horton-Tucker Bad Pass Turnover (P3.T18),84-109,84,109
 0022000161,2021-01-12,HOU,LAL,41.75,4,6,15,LAL,HOU,steal,1,False,True,steal,steal,84-109,84,109
 0022000161,2021-01-12,HOU,LAL,41.85,4,6,9,HOU,LAL,foul,1,False,False,,Horton-Tucker P.FOUL (P4.T3) (D.Scott),84-109,84,109

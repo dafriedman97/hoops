@@ -26,8 +26,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800283,2018-11-24,DAL,BOS,3.15,1,8,51,BOS,BOS,tov,1,False,True,,Irving Bad Pass Turnover (P2.T2),10-7,10,7
 0021800283,2018-11-24,DAL,BOS,3.15,1,8,51,BOS,DAL,steal,1,False,True,steal,steal,10-7,10,7
 0021800283,2018-11-24,DAL,BOS,3.25,1,8,45,DAL,DAL,fg_miss,47,True,False,MISS Jordan 3' Turnaround Jump Shot,,10-7,10,7
-0021800283,2018-11-24,DAL,BOS,3.25,1,8,45,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,10-7,10,7
 0021800283,2018-11-24,DAL,BOS,3.25,1,8,45,DAL,BOS,block,47,True,False,block,block,10-7,10,7
+0021800283,2018-11-24,DAL,BOS,3.25,1,8,45,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,10-7,10,7
 0021800283,2018-11-24,DAL,BOS,3.45,1,8,33,DAL,DAL,fg3_make,1,False,False,Barnes 3PT Jump Shot (6 PTS) (Doncic 3 AST),,13-7,13,7
 0021800283,2018-11-24,DAL,BOS,3.73,1,8,16,BOS,BOS,fg_miss,79,False,False,,MISS Irving 20' Pullup Jump Shot,13-7,13,7
 0021800283,2018-11-24,DAL,BOS,3.77,1,8,14,BOS,BOS,reb,0,False,False,,Morris Sr. REBOUND (Off:1 Def:2),13-7,13,7
@@ -175,8 +175,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800283,2018-11-24,DAL,BOS,22.22,2,1,47,BOS,BOS,reb,0,False,False,,Celtics Rebound,57-50,57,50
 0021800283,2018-11-24,DAL,BOS,22.22,2,1,47,BOS,DAL,foul,3,False,False,Jordan L.B.FOUL (P1.T4) (M.Smith),,57-50,57,50
 0021800283,2018-11-24,DAL,BOS,22.35,2,1,39,BOS,BOS,tov,2,False,True,,Tatum Lost Ball Turnover (P1.T9),57-50,57,50
-0021800283,2018-11-24,DAL,BOS,22.35,2,1,39,DAL,BOS,foul,1,False,False,,Tatum P.FOUL (P2.T3) (M.Smith),57-50,57,50
 0021800283,2018-11-24,DAL,BOS,22.35,2,1,39,BOS,DAL,steal,2,False,True,steal,steal,57-50,57,50
+0021800283,2018-11-24,DAL,BOS,22.35,2,1,39,DAL,BOS,foul,1,False,False,,Tatum P.FOUL (P2.T3) (M.Smith),57-50,57,50
 0021800283,2018-11-24,DAL,BOS,22.63,2,1,22,DAL,DAL,fg3_miss,1,False,False,MISS Finney-Smith 25' 3PT Jump Shot,,57-50,57,50
 0021800283,2018-11-24,DAL,BOS,22.68,2,1,19,BOS,BOS,reb,0,False,False,,Baynes REBOUND (Off:1 Def:3),57-50,57,50
 0021800283,2018-11-24,DAL,BOS,22.83,2,1,10,BOS,BOS,fg_make,98,False,False,,Morris Sr. 1' Cutting Layup Shot (4 PTS) (Irving 4 AST),57-52,57,52
@@ -306,9 +306,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800283,2018-11-24,DAL,BOS,34.38,3,1,37,BOS,BOS,fg_make,72,False,False,,Baynes 1' Putback Layup (2 PTS),83-79,83,79
 0021800283,2018-11-24,DAL,BOS,34.5,3,1,30,DAL,DAL,fg_make,6,False,False,Barea 1' Driving Layup (11 PTS) (Kleber 1 AST),,85-79,85,79
 0021800283,2018-11-24,DAL,BOS,34.5,3,1,30,DAL,BOS,foul,2,False,False,,Rozier S.FOUL (P1.PN) (M.Smith),85-79,85,79
-0021800283,2018-11-24,DAL,BOS,34.5,3,1,30,DAL,,violation,1,False,False,,,85-79,85,79
 0021800283,2018-11-24,DAL,BOS,34.5,3,1,30,DAL,DAL,ft_miss,10,False,False,MISS Barea Free Throw 1 of 1,,85-79,85,79
 0021800283,2018-11-24,DAL,BOS,34.5,3,1,30,BOS,BOS,reb,0,False,False,,Ojeleye REBOUND (Off:1 Def:2),85-79,85,79
+0021800283,2018-11-24,DAL,BOS,34.5,3,1,30,DAL,,violation,1,False,False,,,85-79,85,79
 0021800283,2018-11-24,DAL,BOS,34.88,3,1,7,BOS,BOS,fg_miss,102,False,False,,MISS Rozier 5' Driving Floating Bank Jump Shot,85-79,85,79
 0021800283,2018-11-24,DAL,BOS,34.92,3,1,5,DAL,DAL,reb,0,False,False,Harris REBOUND (Off:0 Def:4),,85-79,85,79
 0021800283,2018-11-24,DAL,BOS,34.98,3,1,1,DAL,DAL,fg3_miss,1,False,False,MISS Harris 25' 3PT Jump Shot,,85-79,85,79
@@ -344,8 +344,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800283,2018-11-24,DAL,BOS,38.17,4,9,50,BOS,BOS,tov,1,False,True,,Horford Bad Pass Turnover (P2.T17),92-84,92,84
 0021800283,2018-11-24,DAL,BOS,38.17,4,9,50,BOS,DAL,steal,1,False,True,steal,steal,92-84,92,84
 0021800283,2018-11-24,DAL,BOS,38.4,4,9,36,DAL,DAL,fg3_miss,1,True,False,MISS Kleber 3PT Jump Shot,,92-84,92,84
-0021800283,2018-11-24,DAL,BOS,38.4,4,9,36,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,92-84,92,84
 0021800283,2018-11-24,DAL,BOS,38.4,4,9,36,DAL,BOS,block,1,True,False,block,block,92-84,92,84
+0021800283,2018-11-24,DAL,BOS,38.4,4,9,36,DAL,DAL,reb,0,False,False,MAVERICKS Rebound,,92-84,92,84
 0021800283,2018-11-24,DAL,BOS,38.57,4,9,26,DAL,DAL,fg3_miss,80,False,False,MISS Matthews 27' 3PT Step Back Jump Shot,,92-84,92,84
 0021800283,2018-11-24,DAL,BOS,38.6,4,9,24,DAL,DAL,reb,0,False,False,Kleber REBOUND (Off:1 Def:4),,92-84,92,84
 0021800283,2018-11-24,DAL,BOS,38.62,4,9,23,DAL,DAL,fg3_miss,1,False,False,MISS Barea 25' 3PT Jump Shot,,92-84,92,84
@@ -411,8 +411,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800283,2018-11-24,DAL,BOS,46.15,4,1,51,BOS,BOS,fg_make,105,False,False,,Smart 8' Turnaround Fadeaway Bank Jump Shot (19 PTS),113-99,113,99
 0021800283,2018-11-24,DAL,BOS,46.33,4,1,40,DAL,DAL,tov,4,False,False,Doncic Traveling Turnover (P3.T16),,113-99,113,99
 0021800283,2018-11-24,DAL,BOS,46.47,4,1,32,BOS,BOS,fg_miss,6,True,False,,MISS Morris Sr. 3' Driving Layup,113-99,113,99
-0021800283,2018-11-24,DAL,BOS,46.47,4,1,32,BOS,BOS,reb,0,False,False,,Celtics Rebound,113-99,113,99
 0021800283,2018-11-24,DAL,BOS,46.47,4,1,32,BOS,DAL,block,6,True,False,block,block,113-99,113,99
+0021800283,2018-11-24,DAL,BOS,46.47,4,1,32,BOS,BOS,reb,0,False,False,,Celtics Rebound,113-99,113,99
 0021800283,2018-11-24,DAL,BOS,46.65,4,1,21,BOS,BOS,fg_make,102,False,False,,Morris Sr. 6' Driving Floating Bank Jump Shot (10 PTS),113-101,113,101
 0021800283,2018-11-24,DAL,BOS,46.82,4,1,11,DAL,BOS,foul,1,False,False,,Irving P.FOUL (P2.T4) (M.Smith),113-101,113,101
 0021800283,2018-11-24,DAL,BOS,47.02,4,0,59,DAL,DAL,fg3_miss,79,False,False,MISS Barea 26' 3PT Pullup Jump Shot,,113-101,113,101

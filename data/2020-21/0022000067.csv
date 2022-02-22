@@ -167,8 +167,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000067,2020-12-31,OKC,NOP,18.9,2,5,6,OKC,OKC,fg_miss,78,False,False,MISS Gilgeous-Alexander 7' Floating Jump Shot,,42-49,42,49
 0022000067,2020-12-31,OKC,NOP,18.93,2,5,4,NOP,NOP,reb,0,False,False,,Alexander-Walker REBOUND (Off:0 Def:2),42-49,42,49
 0022000067,2020-12-31,OKC,NOP,18.98,2,5,1,NOP,NOP,fg_miss,6,True,False,,MISS Alexander-Walker 2' Driving Layup,42-49,42,49
-0022000067,2020-12-31,OKC,NOP,18.98,2,5,1,NOP,NOP,reb,0,False,False,,Pelicans Rebound,42-49,42,49
 0022000067,2020-12-31,OKC,NOP,18.98,2,5,1,NOP,OKC,block,6,True,False,block,block,42-49,42,49
+0022000067,2020-12-31,OKC,NOP,18.98,2,5,1,NOP,NOP,reb,0,False,False,,Pelicans Rebound,42-49,42,49
 0022000067,2020-12-31,OKC,NOP,19.23,2,4,46,NOP,NOP,fg_miss,73,False,False,,MISS Ingram 2' Driving Reverse Layup,42-49,42,49
 0022000067,2020-12-31,OKC,NOP,19.28,2,4,43,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:1 Def:1),,42-49,42,49
 0022000067,2020-12-31,OKC,NOP,19.35,2,4,39,OKC,OKC,fg3_miss,2,False,False,MISS Maledon 24' 3PT Running Jump Shot,,42-49,42,49
@@ -200,10 +200,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000067,2020-12-31,OKC,NOP,23.27,2,0,44,OKC,OKC,tov,37,False,False,Bazley Offensive Foul Turnover (P3.T10),,47-55,47,55
 0022000067,2020-12-31,OKC,NOP,23.67,2,0,20,NOP,NOP,fg3_make,1,False,False,,Hart 26' 3PT Jump Shot (4 PTS) (Melli 1 AST),47-58,47,58
 0022000067,2020-12-31,OKC,NOP,24.0,2,0,0,OKC,OKC,fg_miss,101,True,False,MISS Williams 5' Driving Floating Jump Shot,,47-58,47,58
+0022000067,2020-12-31,OKC,NOP,24.0,2,0,0,OKC,NOP,block,101,True,False,block,block,47-58,47,58
 0022000067,2020-12-31,OKC,NOP,24.0,2,0,0,OKC,OKC,reb,0,False,False,THUNDER Rebound,,47-58,47,58
 0022000067,2020-12-31,OKC,NOP,24.0,2,0,0,OKC,,period_end,0,False,False,,,47-58,47,58
 0022000067,2020-12-31,OKC,NOP,24.0,3,12,0,OKC,,period_start,0,False,False,,,47-58,47,58
-0022000067,2020-12-31,OKC,NOP,24.0,2,0,0,OKC,NOP,block,101,True,False,block,block,47-58,47,58
 0022000067,2020-12-31,OKC,NOP,24.22,3,11,47,OKC,OKC,fg_make,6,False,False,G. Hill 4' Driving Layup (8 PTS) (Horford 2 AST),,49-58,49,58
 0022000067,2020-12-31,OKC,NOP,24.4,3,11,36,NOP,NOP,fg3_miss,1,False,False,,MISS Ingram 24' 3PT Jump Shot,49-58,49,58
 0022000067,2020-12-31,OKC,NOP,24.4,3,11,36,NOP,NOP,reb,0,False,False,,Williamson REBOUND (Off:4 Def:0),49-58,49,58
@@ -300,9 +300,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000067,2020-12-31,OKC,NOP,34.62,3,1,23,OKC,OKC,fg3_miss,1,False,False,MISS Pokusevski 29' 3PT Jump Shot,,72-79,72,79
 0022000067,2020-12-31,OKC,NOP,34.65,3,1,21,NOP,NOP,reb,0,False,False,,Hayes REBOUND (Off:1 Def:1),72-79,72,79
 0022000067,2020-12-31,OKC,NOP,34.77,3,1,14,NOP,NOP,fg_make,101,False,False,,Ball 4' Driving Floating Jump Shot (11 PTS),72-81,72,81
-0022000067,2020-12-31,OKC,NOP,34.77,3,1,14,NOP,OKC,violation,2,False,False,Defensive Goaltending,,72-81,72,81
 0022000067,2020-12-31,OKC,NOP,34.77,3,1,14,NOP,OKC,foul,2,False,False,Maledon S.FOUL (P2.T3) (J.Goble),,72-81,72,81
 0022000067,2020-12-31,OKC,NOP,34.77,3,1,14,NOP,NOP,ft_miss,10,False,False,,MISS Ball Free Throw 1 of 1,72-81,72,81
+0022000067,2020-12-31,OKC,NOP,34.77,3,1,14,NOP,OKC,violation,2,False,False,Defensive Goaltending,,72-81,72,81
 0022000067,2020-12-31,OKC,NOP,34.83,3,1,10,OKC,OKC,reb,0,False,False,Pokusevski REBOUND (Off:0 Def:4),,72-81,72,81
 0022000067,2020-12-31,OKC,NOP,34.93,3,1,4,OKC,NOP,foul,2,False,False,,Hart S.FOUL (P2.PN) (J.Goble),72-81,72,81
 0022000067,2020-12-31,OKC,NOP,34.93,3,1,4,OKC,OKC,ft_make,11,False,False,Diallo Free Throw 1 of 2 (3 PTS),,73-81,73,81
@@ -319,16 +319,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000067,2020-12-31,OKC,NOP,35.9,3,0,6,NOP,NOP,ft_make,11,False,False,,Hart Free Throw 1 of 2 (5 PTS),73-84,73,84
 0022000067,2020-12-31,OKC,NOP,35.9,3,0,6,NOP,NOP,ft_make,12,False,False,,Hart Free Throw 2 of 2 (6 PTS),73-85,73,85
 0022000067,2020-12-31,OKC,NOP,36.0,3,0,0,OKC,OKC,fg_miss,41,True,False,MISS Diallo 7' Running Layup,,73-85,73,85
+0022000067,2020-12-31,OKC,NOP,36.0,3,0,0,OKC,NOP,block,41,True,False,block,block,73-85,73,85
 0022000067,2020-12-31,OKC,NOP,36.0,3,0,0,NOP,NOP,reb,0,False,False,,Hart REBOUND (Off:1 Def:8),73-85,73,85
 0022000067,2020-12-31,OKC,NOP,36.0,3,0,0,NOP,,period_end,0,False,False,,,73-85,73,85
 0022000067,2020-12-31,OKC,NOP,36.0,4,12,0,NOP,,period_start,0,False,False,,,73-85,73,85
-0022000067,2020-12-31,OKC,NOP,36.0,3,0,0,OKC,NOP,block,41,True,False,block,block,73-85,73,85
 0022000067,2020-12-31,OKC,NOP,36.33,4,11,40,NOP,OKC,foul,1,False,False,Hall P.FOUL (P2.T1) (J.Goble),,73-85,73,85
 0022000067,2020-12-31,OKC,NOP,36.38,4,11,37,OKC,NOP,foul,4,False,False,,Hayes OFF.Foul (P1) (J.Goble),73-85,73,85
 0022000067,2020-12-31,OKC,NOP,36.38,4,11,37,NOP,NOP,tov,37,False,False,,Hayes Offensive Foul Turnover (P1.T9),73-85,73,85
 0022000067,2020-12-31,OKC,NOP,36.58,4,11,25,OKC,OKC,fg_miss,78,True,False,MISS Maledon 5' Floating Jump Shot,,73-85,73,85
-0022000067,2020-12-31,OKC,NOP,36.58,4,11,25,OKC,OKC,reb,0,False,False,THUNDER Rebound,,73-85,73,85
 0022000067,2020-12-31,OKC,NOP,36.58,4,11,25,OKC,NOP,block,78,True,False,block,block,73-85,73,85
+0022000067,2020-12-31,OKC,NOP,36.58,4,11,25,OKC,OKC,reb,0,False,False,THUNDER Rebound,,73-85,73,85
 0022000067,2020-12-31,OKC,NOP,36.73,4,11,16,OKC,OKC,fg3_miss,80,False,False,MISS Hall 3PT Step Back Jump Shot,,73-85,73,85
 0022000067,2020-12-31,OKC,NOP,36.8,4,11,12,NOP,NOP,reb,0,False,False,,Bledsoe REBOUND (Off:0 Def:3),73-85,73,85
 0022000067,2020-12-31,OKC,NOP,36.93,4,11,4,NOP,NOP,fg3_miss,1,False,False,,MISS Hart 25' 3PT Jump Shot,73-85,73,85

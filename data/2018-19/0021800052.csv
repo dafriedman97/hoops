@@ -20,8 +20,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800052,2018-10-24,ATL,DAL,1.68,1,10,19,ATL,ATL,fg_miss,97,False,False,MISS Len 1' Tip Layup Shot,,4-8,4,8
 0021800052,2018-10-24,ATL,DAL,1.7,1,10,18,ATL,ATL,reb,0,False,False,Len REBOUND (Off:2 Def:1),,4-8,4,8
 0021800052,2018-10-24,ATL,DAL,1.72,1,10,17,ATL,ATL,fg_miss,72,True,False,MISS Len 3' Putback Layup,,4-8,4,8
-0021800052,2018-10-24,ATL,DAL,1.72,1,10,17,DAL,DAL,reb,0,False,False,,Mavericks Rebound,4-8,4,8
 0021800052,2018-10-24,ATL,DAL,1.72,1,10,17,ATL,DAL,block,72,True,False,block,block,4-8,4,8
+0021800052,2018-10-24,ATL,DAL,1.72,1,10,17,DAL,DAL,reb,0,False,False,,Mavericks Rebound,4-8,4,8
 0021800052,2018-10-24,ATL,DAL,1.77,1,10,14,,ATL,jump_ball,0,False,False,Jump Ball Len vs. Jordan: Tip to Matthews,,4-8,4,8
 0021800052,2018-10-24,ATL,DAL,2.03,1,9,58,DAL,DAL,fg3_make,80,False,False,,Doncic 26' 3PT Step Back Jump Shot (3 PTS) (Smith Jr. 2 AST),4-11,4,11
 0021800052,2018-10-24,ATL,DAL,2.3,1,9,42,ATL,ATL,fg_make,52,False,False,Len 2' Alley Oop Dunk (2 PTS) (Bazemore 1 AST),,6-11,6,11
@@ -32,8 +32,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800052,2018-10-24,ATL,DAL,2.72,1,9,17,DAL,DAL,ft_miss,12,False,False,,MISS Smith Jr. Free Throw 2 of 2,6-14,6,14
 0021800052,2018-10-24,ATL,DAL,2.75,1,9,15,DAL,DAL,reb,0,False,False,,Finney-Smith REBOUND (Off:1 Def:0),6-14,6,14
 0021800052,2018-10-24,ATL,DAL,2.95,1,9,3,DAL,DAL,fg_miss,79,True,False,,MISS Doncic 10' Pullup Jump Shot,6-14,6,14
-0021800052,2018-10-24,ATL,DAL,2.95,1,9,3,ATL,ATL,reb,0,False,False,Young REBOUND (Off:0 Def:1),,6-14,6,14
 0021800052,2018-10-24,ATL,DAL,2.95,1,9,3,DAL,ATL,block,79,True,False,block,block,6-14,6,14
+0021800052,2018-10-24,ATL,DAL,2.95,1,9,3,ATL,ATL,reb,0,False,False,Young REBOUND (Off:0 Def:1),,6-14,6,14
 0021800052,2018-10-24,ATL,DAL,3.03,1,8,58,ATL,ATL,fg3_miss,1,False,False,MISS Bazemore 26' 3PT Jump Shot,,6-14,6,14
 0021800052,2018-10-24,ATL,DAL,3.12,1,8,53,DAL,DAL,reb,0,False,False,,Jordan REBOUND (Off:0 Def:1),6-14,6,14
 0021800052,2018-10-24,ATL,DAL,3.23,1,8,46,DAL,DAL,fg_make,98,False,False,,Jordan 2' Cutting Layup Shot (2 PTS) (Smith Jr. 3 AST),6-16,6,16
@@ -104,8 +104,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800052,2018-10-24,ATL,DAL,10.23,1,1,46,DAL,DAL,reb,0,False,False,,Broekhoff REBOUND (Off:0 Def:1),22-37,22,37
 0021800052,2018-10-24,ATL,DAL,10.42,1,1,35,DAL,DAL,fg_make,43,False,False,,Powell 1' Alley Oop Layup (4 PTS) (Barea 4 AST),22-39,22,39
 0021800052,2018-10-24,ATL,DAL,10.62,1,1,23,ATL,ATL,fg_miss,6,True,False,MISS Lin 1' Driving Layup,,22-39,22,39
-0021800052,2018-10-24,ATL,DAL,10.62,1,1,23,ATL,ATL,reb,0,False,False,HAWKS Rebound,,22-39,22,39
 0021800052,2018-10-24,ATL,DAL,10.62,1,1,23,ATL,DAL,block,6,True,False,block,block,22-39,22,39
+0021800052,2018-10-24,ATL,DAL,10.62,1,1,23,ATL,ATL,reb,0,False,False,HAWKS Rebound,,22-39,22,39
 0021800052,2018-10-24,ATL,DAL,10.75,1,1,15,ATL,ATL,fg_miss,80,False,False,MISS Bembry 16' Step Back Jump Shot,,22-39,22,39
 0021800052,2018-10-24,ATL,DAL,10.8,1,1,12,DAL,DAL,reb,0,False,False,,Barea REBOUND (Off:0 Def:1),22-39,22,39
 0021800052,2018-10-24,ATL,DAL,11.03,1,0,58,DAL,DAL,fg_miss,47,False,False,,MISS Barea 13' Turnaround Jump Shot,22-39,22,39
@@ -286,8 +286,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800052,2018-10-24,ATL,DAL,27.0,3,9,0,DAL,DAL,fg_make,107,False,False,,Smith Jr. 1' Tip Dunk Shot (12 PTS),59-64,59,64
 0021800052,2018-10-24,ATL,DAL,27.2,3,8,48,ATL,ATL,fg3_make,79,False,False,Bazemore 26' 3PT Pullup Jump Shot (23 PTS),,62-64,62,64
 0021800052,2018-10-24,ATL,DAL,27.5,3,8,30,DAL,DAL,fg_miss,6,True,False,,MISS Doncic 2' Driving Layup,62-64,62,64
-0021800052,2018-10-24,ATL,DAL,27.5,3,8,30,DAL,DAL,reb,0,False,False,,Mavericks Rebound,62-64,62,64
 0021800052,2018-10-24,ATL,DAL,27.5,3,8,30,DAL,ATL,block,6,True,False,block,block,62-64,62,64
+0021800052,2018-10-24,ATL,DAL,27.5,3,8,30,DAL,DAL,reb,0,False,False,,Mavericks Rebound,62-64,62,64
 0021800052,2018-10-24,ATL,DAL,27.6,3,8,24,DAL,DAL,fg_make,108,False,False,,Jordan 1' Cutting Dunk Shot (9 PTS) (Matthews 1 AST),62-66,62,66
 0021800052,2018-10-24,ATL,DAL,27.6,3,8,24,DAL,ATL,foul,2,False,False,Len S.FOUL (P3.T2) (K.Fitzgerald),,62-66,62,66
 0021800052,2018-10-24,ATL,DAL,27.6,3,8,24,DAL,DAL,ft_make,10,False,False,,Jordan Free Throw 1 of 1 (10 PTS),62-67,62,67
@@ -372,11 +372,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800052,2018-10-24,ATL,DAL,35.88,3,0,7,ATL,DAL,block,6,True,False,block,block,80-87,80,87
 0021800052,2018-10-24,ATL,DAL,35.95,3,0,3,ATL,ATL,reb,0,False,False,Spellman REBOUND (Off:1 Def:2),,80-87,80,87
 0021800052,2018-10-24,ATL,DAL,35.97,3,0,2,ATL,ATL,fg_miss,72,True,False,MISS Spellman 3' Putback Layup,,80-87,80,87
-0021800052,2018-10-24,ATL,DAL,35.97,3,0,2,DAL,DAL,reb,0,False,False,,Powell REBOUND (Off:1 Def:3),80-87,80,87
 0021800052,2018-10-24,ATL,DAL,35.97,3,0,2,ATL,DAL,block,72,True,False,block,block,80-87,80,87
+0021800052,2018-10-24,ATL,DAL,35.97,3,0,2,DAL,DAL,reb,0,False,False,,Powell REBOUND (Off:1 Def:3),80-87,80,87
 0021800052,2018-10-24,ATL,DAL,35.98,3,0,1,DAL,DAL,fg3_miss,103,False,False,,MISS Barea 38' 3PT Running Pull-Up Jump Shot,80-87,80,87
-0021800052,2018-10-24,ATL,DAL,36.0,3,0,0,DAL,DAL,reb,0,False,False,,Mavericks Rebound,80-87,80,87
 0021800052,2018-10-24,ATL,DAL,36.0,3,0,0,DAL,,period_end,0,False,False,,,80-87,80,87
+0021800052,2018-10-24,ATL,DAL,36.0,3,0,0,DAL,DAL,reb,0,False,False,,Mavericks Rebound,80-87,80,87
 0021800052,2018-10-24,ATL,DAL,36.0,4,12,0,DAL,,period_start,0,False,False,,,80-87,80,87
 0021800052,2018-10-24,ATL,DAL,36.22,4,11,47,DAL,DAL,fg3_miss,1,False,False,,MISS Barea 26' 3PT Jump Shot,80-87,80,87
 0021800052,2018-10-24,ATL,DAL,36.3,4,11,42,ATL,ATL,reb,0,False,False,Bembry REBOUND (Off:1 Def:9),,80-87,80,87

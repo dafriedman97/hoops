@@ -32,14 +32,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701109,2018-03-27,TOR,DEN,3.15,1,8,51,DEN,DEN,fg_make,1,False,False,,Jokic 17' Jump Shot (2 PTS) (Murray 1 AST),8-4,8,4
 0021701109,2018-03-27,TOR,DEN,3.43,1,8,34,TOR,TOR,tov,4,False,False,Valanciunas Traveling Turnover (P1.T1),,8-4,8,4
 0021701109,2018-03-27,TOR,DEN,3.62,1,8,23,DEN,DEN,fg_miss,6,True,False,,MISS Murray 5' Driving Layup,8-4,8,4
-0021701109,2018-03-27,TOR,DEN,3.62,1,8,23,DEN,DEN,reb,0,False,False,,Nuggets Rebound,8-4,8,4
 0021701109,2018-03-27,TOR,DEN,3.62,1,8,23,DEN,TOR,block,6,True,False,block,block,8-4,8,4
+0021701109,2018-03-27,TOR,DEN,3.62,1,8,23,DEN,DEN,reb,0,False,False,,Nuggets Rebound,8-4,8,4
 0021701109,2018-03-27,TOR,DEN,3.8,1,8,12,DEN,DEN,fg3_make,1,False,False,,Barton 25' 3PT Jump Shot (3 PTS) (Murray 2 AST),8-7,8,7
 0021701109,2018-03-27,TOR,DEN,4.07,1,7,56,TOR,TOR,tov,1,False,True,Lowry Bad Pass Turnover (P1.T2),,8-7,8,7
 0021701109,2018-03-27,TOR,DEN,4.07,1,7,56,TOR,DEN,steal,1,False,True,steal,steal,8-7,8,7
 0021701109,2018-03-27,TOR,DEN,4.12,1,7,53,DEN,DEN,fg_miss,41,True,False,,MISS Barton 3' Running Layup,8-7,8,7
-0021701109,2018-03-27,TOR,DEN,4.12,1,7,53,DEN,DEN,reb,0,False,False,,Nuggets Rebound,8-7,8,7
 0021701109,2018-03-27,TOR,DEN,4.12,1,7,53,DEN,TOR,block,41,True,False,block,block,8-7,8,7
+0021701109,2018-03-27,TOR,DEN,4.12,1,7,53,DEN,DEN,reb,0,False,False,,Nuggets Rebound,8-7,8,7
 0021701109,2018-03-27,TOR,DEN,4.25,1,7,45,DEN,TOR,foul,2,False,False,Valanciunas S.FOUL (P1.T2) (K.Mauer),,8-7,8,7
 0021701109,2018-03-27,TOR,DEN,4.25,1,7,45,DEN,DEN,ft_make,11,False,False,,Jokic Free Throw 1 of 2 (3 PTS),8-8,8,8
 0021701109,2018-03-27,TOR,DEN,4.25,1,7,45,DEN,DEN,ft_make,12,False,False,,Jokic Free Throw 2 of 2 (4 PTS),8-9,8,9
@@ -79,8 +79,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701109,2018-03-27,TOR,DEN,8.88,1,3,7,DEN,DEN,fg3_miss,79,False,False,,MISS Harris 25' 3PT Pullup Jump Shot,20-17,20,17
 0021701109,2018-03-27,TOR,DEN,8.93,1,3,4,DEN,DEN,reb,0,False,False,,Millsap REBOUND (Off:1 Def:1),20-17,20,17
 0021701109,2018-03-27,TOR,DEN,9.0,1,3,0,DEN,DEN,fg_miss,99,True,False,,MISS Millsap 4' Cutting Finger Roll Layup Shot,20-17,20,17
-0021701109,2018-03-27,TOR,DEN,9.0,1,3,0,DEN,DEN,reb,0,False,False,,Nuggets Rebound,20-17,20,17
 0021701109,2018-03-27,TOR,DEN,9.0,1,3,0,DEN,TOR,block,99,True,False,block,block,20-17,20,17
+0021701109,2018-03-27,TOR,DEN,9.0,1,3,0,DEN,DEN,reb,0,False,False,,Nuggets Rebound,20-17,20,17
 0021701109,2018-03-27,TOR,DEN,9.03,1,2,58,DEN,DEN,tov,4,False,False,,Barton Traveling Turnover (P1.T4),20-17,20,17
 0021701109,2018-03-27,TOR,DEN,9.03,1,2,58,DEN,DEN,timeout,1,False,False,,Nuggets Timeout: Regular (Reg.1 Short 0),20-17,20,17
 0021701109,2018-03-27,TOR,DEN,9.2,1,2,48,TOR,TOR,tov,1,False,True,Poeltl Bad Pass Turnover (P1.T5),,20-17,20,17
@@ -248,11 +248,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701109,2018-03-27,TOR,DEN,28.62,3,7,23,DEN,DEN,fg_miss,101,False,False,,MISS Chandler 11' Driving Floating Jump Shot,64-66,64,66
 0021701109,2018-03-27,TOR,DEN,28.65,3,7,21,DEN,DEN,reb,0,False,False,,Chandler REBOUND (Off:1 Def:1),64-66,64,66
 0021701109,2018-03-27,TOR,DEN,28.68,3,7,19,DEN,DEN,fg_miss,5,True,False,,MISS Chandler 3' Layup,64-66,64,66
-0021701109,2018-03-27,TOR,DEN,28.68,3,7,19,TOR,TOR,reb,0,False,False,Lowry REBOUND (Off:0 Def:3),,64-66,64,66
 0021701109,2018-03-27,TOR,DEN,28.68,3,7,19,DEN,TOR,block,5,True,False,block,block,64-66,64,66
+0021701109,2018-03-27,TOR,DEN,28.68,3,7,19,TOR,TOR,reb,0,False,False,Lowry REBOUND (Off:0 Def:3),,64-66,64,66
 0021701109,2018-03-27,TOR,DEN,28.75,3,7,15,TOR,TOR,fg_miss,41,True,False,MISS Anunoby 2' Running Layup,,64-66,64,66
-0021701109,2018-03-27,TOR,DEN,28.75,3,7,15,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,64-66,64,66
 0021701109,2018-03-27,TOR,DEN,28.75,3,7,15,TOR,DEN,block,41,True,False,block,block,64-66,64,66
+0021701109,2018-03-27,TOR,DEN,28.75,3,7,15,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,64-66,64,66
 0021701109,2018-03-27,TOR,DEN,29.02,3,6,59,TOR,TOR,fg_miss,101,False,False,MISS Lowry 2' Driving Floating Jump Shot,,64-66,64,66
 0021701109,2018-03-27,TOR,DEN,29.08,3,6,55,TOR,TOR,reb,0,False,False,Anunoby REBOUND (Off:1 Def:2),,64-66,64,66
 0021701109,2018-03-27,TOR,DEN,29.12,3,6,53,TOR,TOR,fg3_miss,1,False,False,MISS Lowry 3PT Jump Shot,,64-66,64,66
@@ -288,16 +288,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701109,2018-03-27,TOR,DEN,33.52,3,2,29,TOR,TOR,fg3_miss,79,False,False,MISS Lowry 24' 3PT Pullup Jump Shot,,78-77,78,77
 0021701109,2018-03-27,TOR,DEN,33.57,3,2,26,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:5 Def:8),78-77,78,77
 0021701109,2018-03-27,TOR,DEN,33.7,3,2,18,DEN,DEN,fg_miss,101,True,False,,MISS Harris 7' Driving Floating Jump Shot,78-77,78,77
+0021701109,2018-03-27,TOR,DEN,33.7,3,2,18,DEN,TOR,block,101,True,False,block,block,78-77,78,77
 0021701109,2018-03-27,TOR,DEN,33.7,3,2,18,DEN,DEN,reb,0,False,False,,Plumlee REBOUND (Off:1 Def:0),78-77,78,77
 0021701109,2018-03-27,TOR,DEN,33.7,3,2,18,DEN,DEN,fg_miss,97,False,False,,MISS Plumlee 1' Tip Layup Shot,78-77,78,77
 0021701109,2018-03-27,TOR,DEN,33.7,3,2,18,DEN,DEN,reb,0,False,False,,Nuggets Rebound,78-77,78,77
 0021701109,2018-03-27,TOR,DEN,33.7,3,2,18,DEN,TOR,foul,3,False,False,Ibaka L.B.FOUL (P1.T3) (D.Collins),,78-77,78,77
-0021701109,2018-03-27,TOR,DEN,33.7,3,2,18,DEN,TOR,block,101,True,False,block,block,78-77,78,77
 0021701109,2018-03-27,TOR,DEN,33.78,3,2,13,DEN,DEN,fg_make,101,False,False,,Murray 11' Driving Floating Jump Shot (7 PTS) (Plumlee 2 AST),78-79,78,79
 0021701109,2018-03-27,TOR,DEN,34.15,3,1,51,TOR,TOR,fg_make,80,False,False,DeRozan 19' Step Back Jump Shot (15 PTS),,80-79,80,79
 0021701109,2018-03-27,TOR,DEN,34.37,3,1,38,DEN,DEN,fg_miss,6,True,False,,MISS Murray 5' Driving Layup,80-79,80,79
-0021701109,2018-03-27,TOR,DEN,34.37,3,1,38,TOR,TOR,reb,0,False,False,Miles REBOUND (Off:0 Def:1),,80-79,80,79
 0021701109,2018-03-27,TOR,DEN,34.37,3,1,38,DEN,TOR,block,6,True,False,block,block,80-79,80,79
+0021701109,2018-03-27,TOR,DEN,34.37,3,1,38,TOR,TOR,reb,0,False,False,Miles REBOUND (Off:0 Def:1),,80-79,80,79
 0021701109,2018-03-27,TOR,DEN,34.45,3,1,33,TOR,TOR,fg3_miss,2,False,False,MISS Miles 25' 3PT Running Jump Shot,,80-79,80,79
 0021701109,2018-03-27,TOR,DEN,34.45,3,1,33,DEN,DEN,reb,0,False,False,,Plumlee REBOUND (Off:1 Def:1),80-79,80,79
 0021701109,2018-03-27,TOR,DEN,34.7,3,1,18,DEN,DEN,tov,1,False,True,,Murray Bad Pass Turnover (P1.T8),80-79,80,79

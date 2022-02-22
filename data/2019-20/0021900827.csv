@@ -14,16 +14,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900827,2020-02-21,WAS,CLE,1.58,1,10,25,CLE,CLE,tov,1,False,True,,Drummond Bad Pass Turnover (P1.T2),5-5,5,5
 0021900827,2020-02-21,WAS,CLE,1.58,1,10,25,CLE,WAS,steal,1,False,True,steal,steal,5-5,5,5
 0021900827,2020-02-21,WAS,CLE,1.67,1,10,20,WAS,WAS,fg_miss,47,False,False,MISS Beal 13' Turnaround Jump Shot,,5-5,5,5
-0021900827,2020-02-21,WAS,CLE,1.8,1,10,12,WAS,WAS,fg_make,97,False,False,Bonga 1' Tip Layup Shot (5 PTS),,7-5,7,5
 0021900827,2020-02-21,WAS,CLE,1.8,1,10,12,WAS,WAS,reb,0,False,False,Bonga REBOUND (Off:1 Def:0),,7-5,7,5
+0021900827,2020-02-21,WAS,CLE,1.8,1,10,12,WAS,WAS,fg_make,97,False,False,Bonga 1' Tip Layup Shot (5 PTS),,7-5,7,5
 0021900827,2020-02-21,WAS,CLE,2.1,1,9,54,CLE,CLE,fg_miss,5,False,False,,MISS Drummond 4' Layup,7-5,7,5
 0021900827,2020-02-21,WAS,CLE,2.17,1,9,50,CLE,CLE,reb,0,False,False,,Drummond REBOUND (Off:1 Def:1),7-5,7,5
 0021900827,2020-02-21,WAS,CLE,2.17,1,9,50,CLE,CLE,fg_make,97,False,False,,Drummond 1' Tip Layup Shot (4 PTS),7-7,7,7
 0021900827,2020-02-21,WAS,CLE,2.45,1,9,33,WAS,WAS,fg_make,6,False,False,Hachimura 2' Driving Layup (4 PTS) (Mahinmi 2 AST),,9-7,9,7
 0021900827,2020-02-21,WAS,CLE,2.7,1,9,18,CLE,CLE,tov,40,False,False,,Osman Out of Bounds Lost Ball Turnover (P1.T3),9-7,9,7
 0021900827,2020-02-21,WAS,CLE,2.95,1,9,3,WAS,WAS,fg_miss,6,False,False,MISS Mahinmi 3' Driving Layup,,9-7,9,7
-0021900827,2020-02-21,WAS,CLE,3.05,1,8,57,WAS,WAS,fg_make,107,False,False,Hachimura 1' Tip Dunk Shot (6 PTS),,11-7,11,7
 0021900827,2020-02-21,WAS,CLE,3.05,1,8,57,WAS,WAS,reb,0,False,False,Hachimura REBOUND (Off:1 Def:0),,11-7,11,7
+0021900827,2020-02-21,WAS,CLE,3.05,1,8,57,WAS,WAS,fg_make,107,False,False,Hachimura 1' Tip Dunk Shot (6 PTS),,11-7,11,7
 0021900827,2020-02-21,WAS,CLE,3.15,1,8,51,CLE,CLE,fg_make,6,False,False,,Garland 10' Driving Layup (2 PTS),11-9,11,9
 0021900827,2020-02-21,WAS,CLE,3.15,1,8,51,CLE,WAS,foul,2,False,False,Mahinmi S.FOUL (P1.T1) (K.Lane),,11-9,11,9
 0021900827,2020-02-21,WAS,CLE,3.15,1,8,51,CLE,CLE,ft_make,10,False,False,,Garland Free Throw 1 of 1 (3 PTS),11-10,11,10
@@ -300,8 +300,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900827,2020-02-21,WAS,CLE,30.25,3,5,45,WAS,WAS,reb,0,False,False,Hachimura REBOUND (Off:2 Def:3),,74-70,74,70
 0021900827,2020-02-21,WAS,CLE,30.33,3,5,40,WAS,CLE,foul,1,False,False,,Porter Jr. P.FOUL (P4.T3) (K.Lane),74-70,74,70
 0021900827,2020-02-21,WAS,CLE,30.55,3,5,27,WAS,WAS,fg_miss,6,True,False,MISS Wagner 3' Driving Layup,,74-70,74,70
-0021900827,2020-02-21,WAS,CLE,30.55,3,5,27,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,74-70,74,70
 0021900827,2020-02-21,WAS,CLE,30.55,3,5,27,WAS,CLE,block,6,True,False,block,block,74-70,74,70
+0021900827,2020-02-21,WAS,CLE,30.55,3,5,27,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,74-70,74,70
 0021900827,2020-02-21,WAS,CLE,30.62,3,5,23,WAS,WAS,fg_miss,6,False,False,MISS Wagner 5' Driving Layup,,74-70,74,70
 0021900827,2020-02-21,WAS,CLE,30.63,3,5,22,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,74-70,74,70
 0021900827,2020-02-21,WAS,CLE,31.02,3,4,59,CLE,CLE,fg_make,6,False,False,,Porter Jr. 6' Driving Layup (3 PTS),74-72,74,72
@@ -312,8 +312,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900827,2020-02-21,WAS,CLE,31.48,3,4,31,WAS,WAS,ft_miss,16,False,False,MISS Beal Free Throw Technical,,76-72,76,72
 0021900827,2020-02-21,WAS,CLE,31.48,3,4,31,WAS,WAS,reb,1,False,False,WIZARDS Rebound,,76-72,76,72
 0021900827,2020-02-21,WAS,CLE,31.48,3,4,31,WAS,CLE,foul,11,False,False,,Porter Jr. T.FOUL (P5.T4) (S.Twardoski),76-72,76,72
-0021900827,2020-02-21,WAS,CLE,31.48,3,4,31,WAS,CLE,ejection,4,False,False,,Porter Jr. Ejection:Other,76-72,76,72
 0021900827,2020-02-21,WAS,CLE,31.48,3,4,31,WAS,WAS,ft_make,16,False,False,Beal Free Throw Technical (18 PTS),,77-72,77,72
+0021900827,2020-02-21,WAS,CLE,31.48,3,4,31,WAS,CLE,ejection,4,False,False,,Porter Jr. Ejection:Other,76-72,76,72
 0021900827,2020-02-21,WAS,CLE,31.63,3,4,22,WAS,CLE,foul,1,False,False,,Osman P.FOUL (P2.PN) (K.Lane),77-72,77,72
 0021900827,2020-02-21,WAS,CLE,31.73,3,4,16,WAS,WAS,tov,1,False,True,Brown Jr. Bad Pass Turnover (P1.T8),,77-72,77,72
 0021900827,2020-02-21,WAS,CLE,31.73,3,4,16,WAS,CLE,steal,1,False,True,steal,steal,77-72,77,72
@@ -377,8 +377,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900827,2020-02-21,WAS,CLE,37.83,4,10,10,CLE,CLE,reb,0,False,False,,Dellavedova REBOUND (Off:0 Def:1),92-85,92,85
 0021900827,2020-02-21,WAS,CLE,37.83,4,10,10,CLE,WAS,foul,28,False,False,Bertans Personal Take Foul (P1.T1) (K.Lane),,92-85,92,85
 0021900827,2020-02-21,WAS,CLE,38.2,4,9,48,CLE,CLE,fg_miss,1,True,False,,MISS Nance Jr. 14' Jump Shot,92-85,92,85
-0021900827,2020-02-21,WAS,CLE,38.2,4,9,48,CLE,CLE,reb,0,False,False,,Nance Jr. REBOUND (Off:3 Def:2),92-85,92,85
 0021900827,2020-02-21,WAS,CLE,38.2,4,9,48,CLE,WAS,block,1,True,False,block,block,92-85,92,85
+0021900827,2020-02-21,WAS,CLE,38.2,4,9,48,CLE,CLE,reb,0,False,False,,Nance Jr. REBOUND (Off:3 Def:2),92-85,92,85
 0021900827,2020-02-21,WAS,CLE,38.23,4,9,46,CLE,CLE,tov,11,False,False,,Cavaliers Turnover: Shot Clock (T#21),92-85,92,85
 0021900827,2020-02-21,WAS,CLE,38.38,4,9,37,WAS,WAS,fg_miss,6,False,False,MISS Brown Jr. 7' Driving Layup,,92-85,92,85
 0021900827,2020-02-21,WAS,CLE,38.45,4,9,33,CLE,CLE,reb,0,False,False,,Thompson REBOUND (Off:0 Def:7),92-85,92,85
@@ -422,8 +422,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900827,2020-02-21,WAS,CLE,44.02,4,3,59,WAS,WAS,fg_make,6,False,False,Beal 2' Driving Layup (24 PTS),,101-107,101,107
 0021900827,2020-02-21,WAS,CLE,44.23,4,3,46,CLE,WAS,foul,1,False,False,Bryant P.FOUL (P1.T4) (B.Forte),,101-107,101,107
 0021900827,2020-02-21,WAS,CLE,44.43,4,3,34,CLE,CLE,fg_miss,73,False,False,,MISS Garland 3' Driving Reverse Layup,101-107,101,107
-0021900827,2020-02-21,WAS,CLE,44.52,4,3,29,CLE,CLE,fg_make,107,False,False,,Thompson 1' Tip Dunk Shot (10 PTS),101-109,101,109
 0021900827,2020-02-21,WAS,CLE,44.52,4,3,29,CLE,CLE,reb,0,False,False,,Thompson REBOUND (Off:1 Def:9),101-109,101,109
+0021900827,2020-02-21,WAS,CLE,44.52,4,3,29,CLE,CLE,fg_make,107,False,False,,Thompson 1' Tip Dunk Shot (10 PTS),101-109,101,109
 0021900827,2020-02-21,WAS,CLE,44.57,4,3,26,CLE,WAS,foul,4,False,False,Beal OFF.Foul (P3) (K.Lane),,101-109,101,109
 0021900827,2020-02-21,WAS,CLE,44.57,4,3,26,WAS,WAS,tov,37,False,False,Beal Offensive Foul Turnover (P6.T12),,101-109,101,109
 0021900827,2020-02-21,WAS,CLE,44.78,4,3,13,CLE,CLE,fg3_miss,1,False,False,,MISS Sexton 28' 3PT Jump Shot,101-109,101,109
@@ -431,10 +431,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900827,2020-02-21,WAS,CLE,44.93,4,3,4,WAS,WAS,fg_miss,7,False,False,MISS Bryant Dunk,,101-109,101,109
 0021900827,2020-02-21,WAS,CLE,44.93,4,3,4,WAS,WAS,reb,0,False,False,Bryant REBOUND (Off:2 Def:0),,101-109,101,109
 0021900827,2020-02-21,WAS,CLE,45.02,4,2,59,WAS,WAS,fg_make,87,False,False,Bryant Putback Dunk (6 PTS),,103-109,103,109
-0021900827,2020-02-21,WAS,CLE,45.33,4,2,40,CLE,CLE,tov,2,False,False,,Garland Lost Ball Turnover (P2.T22),103-109,103,109
 0021900827,2020-02-21,WAS,CLE,45.33,4,2,40,WAS,CLE,foul,3,False,False,,Garland L.B.FOUL (P3.PN) (B.Forte),103-109,103,109
 0021900827,2020-02-21,WAS,CLE,45.33,4,2,40,WAS,WAS,ft_make,11,False,False,Beal Free Throw 1 of 2 (25 PTS),,104-109,104,109
 0021900827,2020-02-21,WAS,CLE,45.33,4,2,40,WAS,WAS,ft_make,12,False,False,Beal Free Throw 2 of 2 (26 PTS),,105-109,105,109
+0021900827,2020-02-21,WAS,CLE,45.33,4,2,40,CLE,CLE,tov,2,False,False,,Garland Lost Ball Turnover (P2.T22),103-109,103,109
 0021900827,2020-02-21,WAS,CLE,45.62,4,2,23,CLE,WAS,foul,1,False,False,Beal P.FOUL (P4.PN) (S.Twardoski),,105-109,105,109
 0021900827,2020-02-21,WAS,CLE,45.62,4,2,23,CLE,CLE,ft_miss,11,False,False,,MISS Sexton Free Throw 1 of 2,105-109,105,109
 0021900827,2020-02-21,WAS,CLE,45.62,4,2,23,CLE,CLE,reb,1,False,False,,Cavaliers Rebound,105-109,105,109
@@ -455,11 +455,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900827,2020-02-21,WAS,CLE,46.8,4,1,12,WAS,WAS,fg_miss,5,False,False,MISS Bryant 2' Layup,,106-109,106,109
 0021900827,2020-02-21,WAS,CLE,46.85,4,1,9,WAS,WAS,reb,0,False,False,Bryant REBOUND (Off:4 Def:0),,106-109,106,109
 0021900827,2020-02-21,WAS,CLE,46.87,4,1,8,WAS,WAS,fg_miss,5,True,False,MISS Bryant 1' Layup,,106-109,106,109
+0021900827,2020-02-21,WAS,CLE,46.87,4,1,8,WAS,CLE,block,5,True,False,block,block,106-109,106,109
 0021900827,2020-02-21,WAS,CLE,46.87,4,1,8,CLE,CLE,reb,0,False,False,,Osman REBOUND (Off:0 Def:9),106-109,106,109
 0021900827,2020-02-21,WAS,CLE,46.87,4,1,8,CLE,WAS,foul,1,False,False,Bertans P.FOUL (P2.PN) (K.Lane),,106-109,106,109
 0021900827,2020-02-21,WAS,CLE,46.87,4,1,8,CLE,CLE,ft_miss,11,False,False,,MISS Osman Free Throw 1 of 2,106-109,106,109
 0021900827,2020-02-21,WAS,CLE,46.87,4,1,8,CLE,CLE,reb,1,False,False,,Cavaliers Rebound,106-109,106,109
-0021900827,2020-02-21,WAS,CLE,46.87,4,1,8,WAS,CLE,block,5,True,False,block,block,106-109,106,109
 0021900827,2020-02-21,WAS,CLE,46.87,4,1,8,CLE,CLE,ft_make,12,False,False,,Osman Free Throw 2 of 2 (16 PTS),106-110,106,110
 0021900827,2020-02-21,WAS,CLE,47.05,4,0,57,WAS,WAS,fg_miss,6,False,False,MISS Beal 6' Driving Layup,,106-110,106,110
 0021900827,2020-02-21,WAS,CLE,47.05,4,0,57,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,106-110,106,110

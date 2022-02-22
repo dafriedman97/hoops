@@ -70,8 +70,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000510,2021-02-26,OKC,ATL,7.23,1,4,46,ATL,ATL,reb,0,False,False,,Gallinari REBOUND (Off:0 Def:1),14-21,14,21
 0022000510,2021-02-26,OKC,ATL,7.27,1,4,44,ATL,OKC,foul,1,False,False,Roby P.FOUL (P2.T4) (B.Adams),,14-21,14,21
 0022000510,2021-02-26,OKC,ATL,7.38,1,4,37,ATL,ATL,fg_miss,6,False,False,,MISS Young 1' Driving Layup,14-21,14,21
-0022000510,2021-02-26,OKC,ATL,7.45,1,4,33,ATL,ATL,fg_make,97,False,False,,Collins 1' Tip Layup Shot (10 PTS),14-23,14,23
 0022000510,2021-02-26,OKC,ATL,7.45,1,4,33,ATL,ATL,reb,0,False,False,,Collins REBOUND (Off:2 Def:1),14-23,14,23
+0022000510,2021-02-26,OKC,ATL,7.45,1,4,33,ATL,ATL,fg_make,97,False,False,,Collins 1' Tip Layup Shot (10 PTS),14-23,14,23
 0022000510,2021-02-26,OKC,ATL,7.65,1,4,21,OKC,OKC,fg3_miss,1,False,False,MISS Williams 3PT Jump Shot,,14-23,14,23
 0022000510,2021-02-26,OKC,ATL,7.7,1,4,18,ATL,ATL,reb,0,False,False,,Collins REBOUND (Off:2 Def:2),14-23,14,23
 0022000510,2021-02-26,OKC,ATL,7.77,1,4,14,ATL,ATL,fg3_miss,1,False,False,,MISS Collins 28' 3PT Jump Shot,14-23,14,23
@@ -210,8 +210,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000510,2021-02-26,OKC,ATL,25.95,3,10,3,ATL,ATL,fg_miss,1,False,False,,MISS Collins 17' Jump Shot,68-62,68,62
 0022000510,2021-02-26,OKC,ATL,26.02,3,9,59,OKC,OKC,reb,0,False,False,Maledon REBOUND (Off:0 Def:2),,68-62,68,62
 0022000510,2021-02-26,OKC,ATL,26.32,3,9,41,OKC,OKC,fg_miss,6,True,False,MISS Maledon 5' Driving Layup,,68-62,68,62
-0022000510,2021-02-26,OKC,ATL,26.32,3,9,41,OKC,OKC,reb,0,False,False,THUNDER Rebound,,68-62,68,62
 0022000510,2021-02-26,OKC,ATL,26.32,3,9,41,OKC,ATL,block,6,True,False,block,block,68-62,68,62
+0022000510,2021-02-26,OKC,ATL,26.32,3,9,41,OKC,OKC,reb,0,False,False,THUNDER Rebound,,68-62,68,62
 0022000510,2021-02-26,OKC,ATL,26.37,3,9,38,OKC,OKC,fg_miss,47,False,False,MISS Roby 13' Turnaround Jump Shot,,68-62,68,62
 0022000510,2021-02-26,OKC,ATL,26.43,3,9,34,ATL,ATL,reb,0,False,False,,Capela REBOUND (Off:4 Def:7),68-62,68,62
 0022000510,2021-02-26,OKC,ATL,26.58,3,9,25,ATL,ATL,fg_miss,101,False,False,,MISS Young 4' Driving Floating Jump Shot,68-62,68,62
@@ -303,8 +303,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000510,2021-02-26,OKC,ATL,36.0,3,0,0,OKC,,period_end,0,False,False,,,96-80,96,80
 0022000510,2021-02-26,OKC,ATL,36.0,4,12,0,OKC,,period_start,0,False,False,,,96-80,96,80
 0022000510,2021-02-26,OKC,ATL,36.15,4,11,51,ATL,ATL,fg_miss,1,False,False,,MISS Gallinari 7' Jump Shot,96-80,96,80
-0022000510,2021-02-26,OKC,ATL,36.22,4,11,47,ATL,ATL,fg_make,97,False,False,,Capela Tip Layup Shot (12 PTS),96-82,96,82
 0022000510,2021-02-26,OKC,ATL,36.22,4,11,47,ATL,ATL,reb,0,False,False,,Capela REBOUND (Off:6 Def:8),96-82,96,82
+0022000510,2021-02-26,OKC,ATL,36.22,4,11,47,ATL,ATL,fg_make,97,False,False,,Capela Tip Layup Shot (12 PTS),96-82,96,82
 0022000510,2021-02-26,OKC,ATL,36.62,4,11,23,OKC,OKC,fg_miss,1,False,False,MISS Muscala 22' Jump Shot,,96-82,96,82
 0022000510,2021-02-26,OKC,ATL,36.65,4,11,21,ATL,ATL,reb,0,False,False,,Capela REBOUND (Off:6 Def:9),96-82,96,82
 0022000510,2021-02-26,OKC,ATL,36.97,4,11,2,ATL,ATL,fg_miss,101,False,False,,MISS Mays 7' Driving Floating Jump Shot,96-82,96,82
@@ -363,9 +363,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000510,2021-02-26,OKC,ATL,43.27,4,4,44,OKC,OKC,fg_miss,44,False,False,MISS Dort 1' Reverse Layup,,109-98,109,98
 0022000510,2021-02-26,OKC,ATL,43.28,4,4,43,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:1 Def:3),,109-98,109,98
 0022000510,2021-02-26,OKC,ATL,43.28,4,4,43,OKC,OKC,fg_miss,5,True,False,MISS Gilgeous-Alexander 4' Layup,,109-98,109,98
+0022000510,2021-02-26,OKC,ATL,43.28,4,4,43,OKC,ATL,block,5,True,False,block,block,109-98,109,98
 0022000510,2021-02-26,OKC,ATL,43.28,4,4,43,OKC,OKC,reb,0,False,False,THUNDER Rebound,,109-98,109,98
 0022000510,2021-02-26,OKC,ATL,43.28,4,4,43,ATL,ATL,timeout,1,False,False,,Hawks Timeout: Regular (Reg.4 Short 0),109-98,109,98
-0022000510,2021-02-26,OKC,ATL,43.28,4,4,43,OKC,ATL,block,5,True,False,block,block,109-98,109,98
 0022000510,2021-02-26,OKC,ATL,43.37,4,4,38,OKC,OKC,fg3_miss,1,False,False,MISS Roby 27' 3PT Jump Shot,,109-98,109,98
 0022000510,2021-02-26,OKC,ATL,43.4,4,4,36,ATL,ATL,reb,0,False,False,,Hawks Rebound,109-98,109,98
 0022000510,2021-02-26,OKC,ATL,43.55,4,4,27,ATL,ATL,fg3_miss,1,False,False,,MISS Young 26' 3PT Jump Shot,109-98,109,98

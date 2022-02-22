@@ -26,8 +26,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000323,2021-02-02,ORL,TOR,3.15,1,8,51,ORL,ORL,fg3_miss,1,False,False,MISS Ennis III 25' 3PT Jump Shot,,11-0,11,0
 0022000323,2021-02-02,ORL,TOR,3.2,1,8,48,TOR,TOR,reb,0,False,False,,Baynes REBOUND (Off:0 Def:1),11-0,11,0
 0022000323,2021-02-02,ORL,TOR,3.25,1,8,45,TOR,TOR,fg_miss,41,True,False,,MISS Powell 2' Running Layup,11-0,11,0
-0022000323,2021-02-02,ORL,TOR,3.25,1,8,45,TOR,TOR,reb,0,False,False,,Raptors Rebound,11-0,11,0
 0022000323,2021-02-02,ORL,TOR,3.25,1,8,45,TOR,ORL,block,41,True,False,block,block,11-0,11,0
+0022000323,2021-02-02,ORL,TOR,3.25,1,8,45,TOR,TOR,reb,0,False,False,,Raptors Rebound,11-0,11,0
 0022000323,2021-02-02,ORL,TOR,3.3,1,8,42,TOR,TOR,fg3_make,1,False,False,,VanVleet 27' 3PT Jump Shot (3 PTS) (Lowry 1 AST),11-3,11,3
 0022000323,2021-02-02,ORL,TOR,3.63,1,8,22,ORL,ORL,fg_make,101,False,False,Fournier 9' Driving Floating Jump Shot (11 PTS),,13-3,13,3
 0022000323,2021-02-02,ORL,TOR,3.63,1,8,22,ORL,TOR,foul,2,False,False,,VanVleet S.FOUL (P1.T2) (M.Smith),13-3,13,3
@@ -151,8 +151,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000323,2021-02-02,ORL,TOR,18.27,2,5,44,TOR,TOR,tov,1,False,True,,Siakam Bad Pass Turnover (P2.T5),47-45,47,45
 0022000323,2021-02-02,ORL,TOR,18.27,2,5,44,TOR,ORL,steal,1,False,True,steal,steal,47-45,47,45
 0022000323,2021-02-02,ORL,TOR,18.35,2,5,39,ORL,ORL,fg_miss,6,True,False,MISS Anthony 9' Driving Layup,,47-45,47,45
-0022000323,2021-02-02,ORL,TOR,18.35,2,5,39,ORL,ORL,reb,0,False,False,Ennis III REBOUND (Off:1 Def:2),,47-45,47,45
 0022000323,2021-02-02,ORL,TOR,18.35,2,5,39,ORL,TOR,block,6,True,False,block,block,47-45,47,45
+0022000323,2021-02-02,ORL,TOR,18.35,2,5,39,ORL,ORL,reb,0,False,False,Ennis III REBOUND (Off:1 Def:2),,47-45,47,45
 0022000323,2021-02-02,ORL,TOR,18.35,2,5,39,ORL,ORL,fg_make,72,False,False,Ennis III 2' Putback Layup (2 PTS),,49-45,49,45
 0022000323,2021-02-02,ORL,TOR,18.35,2,5,39,ORL,TOR,foul,2,False,False,,Johnson S.FOUL (P2.T2) (G.Petraitis),49-45,49,45
 0022000323,2021-02-02,ORL,TOR,18.35,2,5,39,ORL,ORL,ft_make,10,False,False,Ennis III Free Throw 1 of 1 (3 PTS),,50-45,50,45
@@ -172,8 +172,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000323,2021-02-02,ORL,TOR,20.48,2,3,31,TOR,TOR,fg3_make,2,False,False,,VanVleet 27' 3PT Running Jump Shot (23 PTS) (Siakam 5 AST),54-52,54,52
 0022000323,2021-02-02,ORL,TOR,20.6,2,3,24,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 2 Short 0),,54-52,54,52
 0022000323,2021-02-02,ORL,TOR,20.73,2,3,16,ORL,ORL,tov,2,False,True,Vucevic Lost Ball Turnover (P1.T5),,54-52,54,52
-0022000323,2021-02-02,ORL,TOR,20.73,2,3,16,TOR,ORL,foul,1,False,False,Birch P.FOUL (P1.PN) (M.Smith),,54-52,54,52
 0022000323,2021-02-02,ORL,TOR,20.73,2,3,16,ORL,TOR,steal,2,False,True,steal,steal,54-52,54,52
+0022000323,2021-02-02,ORL,TOR,20.73,2,3,16,TOR,ORL,foul,1,False,False,Birch P.FOUL (P1.PN) (M.Smith),,54-52,54,52
 0022000323,2021-02-02,ORL,TOR,20.73,2,3,16,TOR,TOR,ft_make,11,False,False,,VanVleet Free Throw 1 of 2 (24 PTS),54-53,54,53
 0022000323,2021-02-02,ORL,TOR,20.73,2,3,16,TOR,TOR,ft_make,12,False,False,,VanVleet Free Throw 2 of 2 (25 PTS),54-54,54,54
 0022000323,2021-02-02,ORL,TOR,20.88,2,3,7,ORL,ORL,tov,2,False,True,Fournier Lost Ball Turnover (P3.T6),,54-54,54,54
@@ -221,8 +221,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000323,2021-02-02,ORL,TOR,25.62,3,10,23,ORL,TOR,foul,4,False,False,,Siakam OFF.Foul (P1) (G.Petraitis),68-64,68,64
 0022000323,2021-02-02,ORL,TOR,25.62,3,10,23,TOR,TOR,tov,37,False,False,,Siakam Offensive Foul Turnover (P3.T7),68-64,68,64
 0022000323,2021-02-02,ORL,TOR,25.82,3,10,11,ORL,ORL,tov,1,False,True,Fournier Bad Pass Turnover (P5.T8),,68-64,68,64
-0022000323,2021-02-02,ORL,TOR,25.82,3,10,11,TOR,ORL,foul,1,False,False,Vucevic P.FOUL (P1.T1) (M.Kallio),,68-64,68,64
 0022000323,2021-02-02,ORL,TOR,25.82,3,10,11,ORL,TOR,steal,1,False,True,steal,steal,68-64,68,64
+0022000323,2021-02-02,ORL,TOR,25.82,3,10,11,TOR,ORL,foul,1,False,False,Vucevic P.FOUL (P1.T1) (M.Kallio),,68-64,68,64
 0022000323,2021-02-02,ORL,TOR,25.95,3,10,3,TOR,ORL,foul,2,False,False,Clark S.FOUL (P1.T2) (G.Petraitis),,68-64,68,64
 0022000323,2021-02-02,ORL,TOR,25.95,3,10,3,TOR,TOR,ft_make,11,False,False,,Siakam Free Throw 1 of 2 (9 PTS),68-65,68,65
 0022000323,2021-02-02,ORL,TOR,25.95,3,10,3,TOR,TOR,ft_make,12,False,False,,Siakam Free Throw 2 of 2 (10 PTS),68-66,68,66
@@ -246,8 +246,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000323,2021-02-02,ORL,TOR,28.73,3,7,16,TOR,TOR,fg_miss,6,False,False,,MISS VanVleet 2' Driving Layup,75-72,75,72
 0022000323,2021-02-02,ORL,TOR,28.77,3,7,14,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:3 Def:7),,75-72,75,72
 0022000323,2021-02-02,ORL,TOR,28.88,3,7,7,ORL,ORL,tov,2,False,True,Vucevic Lost Ball Turnover (P2.T10),,75-72,75,72
-0022000323,2021-02-02,ORL,TOR,28.88,3,7,7,TOR,ORL,foul,1,False,False,Vucevic P.FOUL (P2.PN) (G.Petraitis),,75-72,75,72
 0022000323,2021-02-02,ORL,TOR,28.88,3,7,7,ORL,TOR,steal,2,False,True,steal,steal,75-72,75,72
+0022000323,2021-02-02,ORL,TOR,28.88,3,7,7,TOR,ORL,foul,1,False,False,Vucevic P.FOUL (P2.PN) (G.Petraitis),,75-72,75,72
 0022000323,2021-02-02,ORL,TOR,28.88,3,7,7,TOR,TOR,ft_make,11,False,False,,VanVleet Free Throw 1 of 2 (35 PTS),75-73,75,73
 0022000323,2021-02-02,ORL,TOR,28.88,3,7,7,TOR,TOR,ft_make,12,False,False,,VanVleet Free Throw 2 of 2 (36 PTS),75-74,75,74
 0022000323,2021-02-02,ORL,TOR,29.03,3,6,58,ORL,ORL,fg_miss,47,False,False,MISS Vucevic 22' Turnaround Jump Shot,,75-74,75,74
@@ -305,10 +305,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000323,2021-02-02,ORL,TOR,35.95,3,0,3,TOR,TOR,tov,2,False,True,,Siakam Lost Ball Turnover (P4.T9),82-96,82,96
 0022000323,2021-02-02,ORL,TOR,35.95,3,0,3,TOR,ORL,steal,2,False,True,steal,steal,82-96,82,96
 0022000323,2021-02-02,ORL,TOR,36.0,3,0,0,ORL,ORL,fg_miss,6,True,False,MISS Ross 3' Driving Layup,,82-96,82,96
+0022000323,2021-02-02,ORL,TOR,36.0,3,0,0,ORL,TOR,block,6,True,False,block,block,82-96,82,96
 0022000323,2021-02-02,ORL,TOR,36.0,3,0,0,TOR,TOR,reb,0,False,False,,VanVleet REBOUND (Off:0 Def:3),82-96,82,96
 0022000323,2021-02-02,ORL,TOR,36.0,3,0,0,TOR,,period_end,0,False,False,,,82-96,82,96
 0022000323,2021-02-02,ORL,TOR,36.0,4,12,0,TOR,,period_start,0,False,False,,,82-96,82,96
-0022000323,2021-02-02,ORL,TOR,36.0,3,0,0,ORL,TOR,block,6,True,False,block,block,82-96,82,96
 0022000323,2021-02-02,ORL,TOR,36.35,4,11,39,TOR,TOR,fg3_miss,1,False,False,,MISS Watanabe 25' 3PT Jump Shot,82-96,82,96
 0022000323,2021-02-02,ORL,TOR,36.38,4,11,37,TOR,TOR,reb,0,False,False,,Boucher REBOUND (Off:1 Def:3),82-96,82,96
 0022000323,2021-02-02,ORL,TOR,36.48,4,11,31,TOR,TOR,fg3_miss,1,False,False,,MISS Lowry 26' 3PT Jump Shot,82-96,82,96
@@ -342,8 +342,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000323,2021-02-02,ORL,TOR,39.58,4,8,25,TOR,TOR,timeout,1,False,False,,Raptors Timeout: Regular (Reg.3 Short 0),88-101,88,101
 0022000323,2021-02-02,ORL,TOR,39.58,4,8,25,TOR,ORL,ft_make,10,False,False,Bacon Free Throw 1 of 1 (9 PTS),,89-101,89,101
 0022000323,2021-02-02,ORL,TOR,39.8,4,8,12,TOR,TOR,fg_miss,6,True,False,,MISS Powell 4' Driving Layup,89-101,89,101
-0022000323,2021-02-02,ORL,TOR,39.8,4,8,12,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:3 Def:12),,89-101,89,101
 0022000323,2021-02-02,ORL,TOR,39.8,4,8,12,TOR,ORL,block,6,True,False,block,block,89-101,89,101
+0022000323,2021-02-02,ORL,TOR,39.8,4,8,12,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:3 Def:12),,89-101,89,101
 0022000323,2021-02-02,ORL,TOR,39.93,4,8,4,ORL,ORL,tov,1,False,True,Anthony Bad Pass Turnover (P2.T14),,89-101,89,101
 0022000323,2021-02-02,ORL,TOR,39.93,4,8,4,ORL,TOR,steal,1,False,True,steal,steal,89-101,89,101
 0022000323,2021-02-02,ORL,TOR,39.97,4,8,2,TOR,TOR,fg_make,41,False,False,,Powell 1' Running Layup (14 PTS) (Bembry 5 AST),89-103,89,103

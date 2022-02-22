@@ -79,8 +79,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800496,2018-12-23,LAL,MEM,7.62,1,4,23,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.1 Short 0),16-12,16,12
 0021800496,2018-12-23,LAL,MEM,7.82,1,4,11,MEM,LAL,violation,5,False,False,Ball Violation:Kicked Ball (J.DeRosa),,16-12,16,12
 0021800496,2018-12-23,LAL,MEM,7.98,1,4,1,MEM,MEM,fg_miss,6,True,False,,MISS Brooks 4' Driving Layup,16-12,16,12
-0021800496,2018-12-23,LAL,MEM,7.98,1,4,1,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,16-12,16,12
 0021800496,2018-12-23,LAL,MEM,7.98,1,4,1,MEM,LAL,block,6,True,False,block,block,16-12,16,12
+0021800496,2018-12-23,LAL,MEM,7.98,1,4,1,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,16-12,16,12
 0021800496,2018-12-23,LAL,MEM,8.03,1,3,58,MEM,MEM,fg_miss,78,False,False,,MISS Gasol 4' Floating Jump Shot,16-12,16,12
 0021800496,2018-12-23,LAL,MEM,8.1,1,3,54,LAL,LAL,reb,0,False,False,Ball REBOUND (Off:0 Def:1),,16-12,16,12
 0021800496,2018-12-23,LAL,MEM,8.4,1,3,36,LAL,LAL,fg_make,5,False,False,Zubac 3' Layup (10 PTS) (Kuzma 3 AST),,18-12,18,12
@@ -120,8 +120,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800496,2018-12-23,LAL,MEM,12.78,2,11,13,LAL,MEM,foul,1,False,False,,Green P.FOUL (P2.T2) (J.DeRosa),22-26,22,26
 0021800496,2018-12-23,LAL,MEM,12.97,2,11,2,LAL,LAL,fg_make,98,False,False,Zubac 2' Cutting Layup Shot (12 PTS) (Rondo 2 AST),,24-26,24,26
 0021800496,2018-12-23,LAL,MEM,13.32,2,10,41,MEM,MEM,fg_miss,5,True,False,,MISS Jackson Jr. 5' Layup,24-26,24,26
-0021800496,2018-12-23,LAL,MEM,13.32,2,10,41,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,24-26,24,26
 0021800496,2018-12-23,LAL,MEM,13.32,2,10,41,MEM,LAL,block,5,True,False,block,block,24-26,24,26
+0021800496,2018-12-23,LAL,MEM,13.32,2,10,41,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,24-26,24,26
 0021800496,2018-12-23,LAL,MEM,13.42,2,10,35,MEM,MEM,fg_miss,67,False,False,,MISS Jackson Jr. 12' Hook Bank Shot,24-26,24,26
 0021800496,2018-12-23,LAL,MEM,13.45,2,10,33,LAL,LAL,reb,0,False,False,Rondo REBOUND (Off:0 Def:1),,24-26,24,26
 0021800496,2018-12-23,LAL,MEM,13.52,2,10,29,LAL,LAL,fg_make,41,False,False,Rondo 1' Running Layup (2 PTS),,26-26,26,26
@@ -162,9 +162,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800496,2018-12-23,LAL,MEM,17.33,2,6,40,LAL,MEM,block,44,True,False,block,block,34-34,34,34
 0021800496,2018-12-23,LAL,MEM,17.37,2,6,38,LAL,LAL,reb,0,False,False,Wagner REBOUND (Off:1 Def:0),,34-34,34,34
 0021800496,2018-12-23,LAL,MEM,17.37,2,6,38,LAL,LAL,fg_miss,5,True,False,MISS Wagner 1' Layup,,34-34,34,34
+0021800496,2018-12-23,LAL,MEM,17.37,2,6,38,LAL,MEM,block,5,True,False,block,block,34-34,34,34
 0021800496,2018-12-23,LAL,MEM,17.37,2,6,38,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,34-34,34,34
 0021800496,2018-12-23,LAL,MEM,17.37,2,6,38,MEM,LAL,foul,3,False,False,Wagner L.B.FOUL (P1.T4) (S.Wright),,34-34,34,34
-0021800496,2018-12-23,LAL,MEM,17.37,2,6,38,LAL,MEM,block,5,True,False,block,block,34-34,34,34
 0021800496,2018-12-23,LAL,MEM,17.68,2,6,19,MEM,MEM,fg_make,101,False,False,,Selden 9' Driving Floating Jump Shot (6 PTS),34-36,34,36
 0021800496,2018-12-23,LAL,MEM,17.83,2,6,10,LAL,LAL,fg3_miss,1,False,False,MISS Hart 3PT Jump Shot,,34-36,34,36
 0021800496,2018-12-23,LAL,MEM,17.85,2,6,9,LAL,LAL,reb,0,False,False,Wagner REBOUND (Off:2 Def:0),,34-36,34,36
@@ -200,8 +200,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800496,2018-12-23,LAL,MEM,21.08,2,2,55,LAL,MEM,violation,5,False,False,,Gasol Violation:Kicked Ball (J.DeRosa),41-39,41,39
 0021800496,2018-12-23,LAL,MEM,21.32,2,2,41,LAL,LAL,fg_make,86,False,False,Ingram 10' Turnaround Fadeaway (8 PTS) (James 5 AST),,43-39,43,39
 0021800496,2018-12-23,LAL,MEM,21.68,2,2,19,MEM,MEM,fg_miss,6,True,False,,MISS Green 5' Driving Layup,43-39,43,39
-0021800496,2018-12-23,LAL,MEM,21.68,2,2,19,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,43-39,43,39
 0021800496,2018-12-23,LAL,MEM,21.68,2,2,19,MEM,LAL,block,6,True,False,block,block,43-39,43,39
+0021800496,2018-12-23,LAL,MEM,21.68,2,2,19,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,43-39,43,39
 0021800496,2018-12-23,LAL,MEM,21.73,2,2,16,MEM,MEM,fg3_make,80,False,False,,Gasol 26' 3PT Step Back Jump Shot (8 PTS) (Anderson 1 AST),43-42,43,42
 0021800496,2018-12-23,LAL,MEM,22.02,2,1,59,LAL,LAL,fg3_miss,80,False,False,MISS Ingram 25' 3PT Step Back Jump Shot,,43-42,43,42
 0021800496,2018-12-23,LAL,MEM,22.05,2,1,57,MEM,MEM,reb,0,False,False,,Gasol REBOUND (Off:0 Def:3),43-42,43,42

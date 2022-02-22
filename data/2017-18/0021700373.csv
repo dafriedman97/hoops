@@ -42,9 +42,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700373,2017-12-08,NOP,SAC,4.97,1,7,2,NOP,NOP,reb,0,False,False,Cousins REBOUND (Off:0 Def:1),,10-12,10,12
 0021700373,2017-12-08,NOP,SAC,5.05,1,6,57,NOP,NOP,fg_make,6,False,False,Moore 1' Driving Layup (4 PTS) (Cousins 2 AST),,12-12,12,12
 0021700373,2017-12-08,NOP,SAC,5.48,1,6,31,SAC,SAC,fg3_miss,1,False,False,,MISS Temple 43' 3PT Jump Shot,12-12,12,12
-0021700373,2017-12-08,NOP,SAC,5.5,1,6,30,SAC,SAC,reb,0,False,False,,Kings Rebound,12-12,12,12
 0021700373,2017-12-08,NOP,SAC,5.5,1,6,30,SAC,SAC,tov,11,False,False,,Kings Turnover: Shot Clock (T#2),12-12,12,12
 0021700373,2017-12-08,NOP,SAC,5.5,1,6,30,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 1 Short 0),,12-12,12,12
+0021700373,2017-12-08,NOP,SAC,5.5,1,6,30,SAC,SAC,reb,0,False,False,,Kings Rebound,12-12,12,12
 0021700373,2017-12-08,NOP,SAC,5.7,1,6,18,NOP,SAC,foul,2,False,False,,Koufos S.FOUL (P1.T3) (M.Davis),12-12,12,12
 0021700373,2017-12-08,NOP,SAC,5.7,1,6,18,NOP,NOP,ft_make,11,False,False,Davis Free Throw 1 of 2 (1 PTS),,13-12,13,12
 0021700373,2017-12-08,NOP,SAC,5.7,1,6,18,NOP,NOP,ft_make,12,False,False,Davis Free Throw 2 of 2 (2 PTS),,14-12,14,12
@@ -231,8 +231,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700373,2017-12-08,NOP,SAC,28.1,3,7,54,SAC,SAC,fg3_make,1,False,False,,G. Hill 25' 3PT Jump Shot (7 PTS) (Papagiannis 1 AST),64-59,64,59
 0021700373,2017-12-08,NOP,SAC,28.43,3,7,34,NOP,NOP,fg3_make,1,False,False,Holiday 24' 3PT Jump Shot (8 PTS),,67-59,67,59
 0021700373,2017-12-08,NOP,SAC,28.65,3,7,21,SAC,SAC,fg_miss,5,True,False,,MISS Fox 2' Layup,67-59,67,59
-0021700373,2017-12-08,NOP,SAC,28.65,3,7,21,SAC,SAC,reb,0,False,False,,Kings Rebound,67-59,67,59
 0021700373,2017-12-08,NOP,SAC,28.65,3,7,21,SAC,NOP,block,5,True,False,block,block,67-59,67,59
+0021700373,2017-12-08,NOP,SAC,28.65,3,7,21,SAC,SAC,reb,0,False,False,,Kings Rebound,67-59,67,59
 0021700373,2017-12-08,NOP,SAC,28.85,3,7,9,SAC,SAC,fg_miss,63,False,False,,MISS G. Hill 15' Fadeaway Jumper,67-59,67,59
 0021700373,2017-12-08,NOP,SAC,28.98,3,7,1,NOP,NOP,reb,0,False,False,Cousins REBOUND (Off:1 Def:6),,67-59,67,59
 0021700373,2017-12-08,NOP,SAC,29.12,3,6,53,NOP,NOP,fg_make,5,False,False,Moore 1' Layup (6 PTS),,69-59,69,59
@@ -282,12 +282,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700373,2017-12-08,NOP,SAC,35.6,3,0,24,NOP,NOP,reb,0,False,False,Asik REBOUND (Off:0 Def:2),,79-77,79,77
 0021700373,2017-12-08,NOP,SAC,35.9,3,0,6,NOP,NOP,fg3_make,1,False,False,Nelson 26' 3PT Jump Shot (3 PTS),,82-77,82,77
 0021700373,2017-12-08,NOP,SAC,36.0,3,0,0,SAC,SAC,fg_miss,5,True,False,,MISS Hield 1' Layup,82-77,82,77
+0021700373,2017-12-08,NOP,SAC,36.0,3,0,0,SAC,NOP,block,5,True,False,block,block,82-77,82,77
 0021700373,2017-12-08,NOP,SAC,36.0,3,0,0,SAC,SAC,reb,0,False,False,,Koufos REBOUND (Off:2 Def:3),82-77,82,77
 0021700373,2017-12-08,NOP,SAC,36.0,3,0,0,SAC,SAC,fg_miss,5,False,False,,MISS Koufos 1' Layup,82-77,82,77
 0021700373,2017-12-08,NOP,SAC,36.0,3,0,0,NOP,NOP,reb,0,False,False,PELICANS Rebound,,82-77,82,77
 0021700373,2017-12-08,NOP,SAC,36.0,3,0,0,NOP,,period_end,0,False,False,,,82-77,82,77
 0021700373,2017-12-08,NOP,SAC,36.0,4,12,0,NOP,,period_start,0,False,False,,,82-77,82,77
-0021700373,2017-12-08,NOP,SAC,36.0,3,0,0,SAC,NOP,block,5,True,False,block,block,82-77,82,77
 0021700373,2017-12-08,NOP,SAC,36.25,4,11,45,NOP,NOP,fg_make,47,False,False,Clark 5' Turnaround Jump Shot (15 PTS) (Cousins 3 AST),,84-77,84,77
 0021700373,2017-12-08,NOP,SAC,36.58,4,11,25,SAC,SAC,fg_miss,5,False,False,,MISS Bogdanovic 1' Layup,84-77,84,77
 0021700373,2017-12-08,NOP,SAC,36.62,4,11,23,NOP,NOP,reb,0,False,False,Cousins REBOUND (Off:1 Def:7),,84-77,84,77
@@ -299,16 +299,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700373,2017-12-08,NOP,SAC,37.6,4,10,24,SAC,SAC,fg_miss,1,False,False,,MISS Bogdanovic 10' Jump Shot,86-77,86,77
 0021700373,2017-12-08,NOP,SAC,37.65,4,10,21,NOP,NOP,reb,0,False,False,Cunningham REBOUND (Off:1 Def:2),,86-77,86,77
 0021700373,2017-12-08,NOP,SAC,37.92,4,10,5,NOP,NOP,tov,2,False,True,Cousins Lost Ball Turnover (P7.T13),,86-77,86,77
-0021700373,2017-12-08,NOP,SAC,37.92,4,10,5,SAC,NOP,foul,1,False,False,Cousins P.FOUL (P3.T1) (K.Scott),,86-77,86,77
 0021700373,2017-12-08,NOP,SAC,37.92,4,10,5,NOP,SAC,steal,2,False,True,steal,steal,86-77,86,77
+0021700373,2017-12-08,NOP,SAC,37.92,4,10,5,SAC,NOP,foul,1,False,False,Cousins P.FOUL (P3.T1) (K.Scott),,86-77,86,77
 0021700373,2017-12-08,NOP,SAC,38.27,4,9,44,SAC,SAC,tov,2,False,True,,Hield Lost Ball Turnover (P2.T14),86-77,86,77
 0021700373,2017-12-08,NOP,SAC,38.27,4,9,44,SAC,NOP,steal,2,False,True,steal,steal,86-77,86,77
 0021700373,2017-12-08,NOP,SAC,38.47,4,9,32,NOP,NOP,fg_miss,5,True,False,MISS Moore 1' Layup,,86-77,86,77
 0021700373,2017-12-08,NOP,SAC,38.47,4,9,32,NOP,SAC,block,5,True,False,block,block,86-77,86,77
 0021700373,2017-12-08,NOP,SAC,38.58,4,9,25,NOP,NOP,reb,0,False,False,Moore REBOUND (Off:1 Def:2),,86-77,86,77
 0021700373,2017-12-08,NOP,SAC,38.58,4,9,25,NOP,NOP,fg_miss,5,True,False,MISS Cousins 1' Layup,,86-77,86,77
-0021700373,2017-12-08,NOP,SAC,38.58,4,9,25,NOP,NOP,reb,0,False,False,PELICANS Rebound,,86-77,86,77
 0021700373,2017-12-08,NOP,SAC,38.58,4,9,25,NOP,SAC,block,5,True,False,block,block,86-77,86,77
+0021700373,2017-12-08,NOP,SAC,38.58,4,9,25,NOP,NOP,reb,0,False,False,PELICANS Rebound,,86-77,86,77
 0021700373,2017-12-08,NOP,SAC,38.67,4,9,20,NOP,NOP,fg_miss,47,False,False,MISS Cousins 18' Turnaround Jump Shot,,86-77,86,77
 0021700373,2017-12-08,NOP,SAC,38.73,4,9,16,SAC,SAC,reb,0,False,False,,Koufos REBOUND (Off:2 Def:4),86-77,86,77
 0021700373,2017-12-08,NOP,SAC,38.75,4,9,15,SAC,SAC,fg_make,7,False,False,,Carter Dunk (4 PTS) (Mason 2 AST),86-79,86,79
@@ -323,8 +323,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700373,2017-12-08,NOP,SAC,40.13,4,7,52,NOP,NOP,reb,1,False,False,PELICANS Rebound,,89-82,89,82
 0021700373,2017-12-08,NOP,SAC,40.13,4,7,52,NOP,NOP,ft_make,12,False,False,Cunningham Free Throw 2 of 2 (6 PTS),,90-82,90,82
 0021700373,2017-12-08,NOP,SAC,40.35,4,7,39,SAC,SAC,fg_miss,5,True,False,,MISS Bogdanovic 1' Layup,90-82,90,82
-0021700373,2017-12-08,NOP,SAC,40.35,4,7,39,SAC,SAC,reb,0,False,False,,Kings Rebound,90-82,90,82
 0021700373,2017-12-08,NOP,SAC,40.35,4,7,39,SAC,NOP,block,5,True,False,block,block,90-82,90,82
+0021700373,2017-12-08,NOP,SAC,40.35,4,7,39,SAC,SAC,reb,0,False,False,,Kings Rebound,90-82,90,82
 0021700373,2017-12-08,NOP,SAC,40.4,4,7,36,SAC,SAC,tov,1,False,True,,Bogdanovic Bad Pass Turnover (P2.T15),90-82,90,82
 0021700373,2017-12-08,NOP,SAC,40.4,4,7,36,SAC,NOP,steal,1,False,True,steal,steal,90-82,90,82
 0021700373,2017-12-08,NOP,SAC,40.65,4,7,21,NOP,NOP,tov,2,False,True,Cousins Lost Ball Turnover (P8.T14),,90-82,90,82
@@ -418,8 +418,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700373,2017-12-08,NOP,SAC,50.7,5,2,18,NOP,NOP,fg_miss,1,False,False,MISS Cousins 5' Jump Shot,,107-110,107,110
 0021700373,2017-12-08,NOP,SAC,50.7,5,2,18,SAC,SAC,reb,0,False,False,,Randolph REBOUND (Off:3 Def:9),107-110,107,110
 0021700373,2017-12-08,NOP,SAC,51.08,5,1,55,SAC,SAC,fg3_miss,1,False,False,,MISS Randolph 26' 3PT Jump Shot,107-110,107,110
-0021700373,2017-12-08,NOP,SAC,51.1,5,1,54,SAC,SAC,reb,0,False,False,,Kings Rebound,107-110,107,110
 0021700373,2017-12-08,NOP,SAC,51.1,5,1,54,SAC,SAC,tov,11,False,False,,Kings Turnover: Shot Clock (T#18),107-110,107,110
+0021700373,2017-12-08,NOP,SAC,51.1,5,1,54,SAC,SAC,reb,0,False,False,,Kings Rebound,107-110,107,110
 0021700373,2017-12-08,NOP,SAC,51.4,5,1,36,NOP,NOP,tov,1,False,True,Holiday Bad Pass Turnover (P4.T17),,107-110,107,110
 0021700373,2017-12-08,NOP,SAC,51.4,5,1,36,NOP,SAC,steal,1,False,True,steal,steal,107-110,107,110
 0021700373,2017-12-08,NOP,SAC,51.43,5,1,34,SAC,NOP,foul,2,False,False,Holiday S.FOUL (P2.T2) (L.Holtkamp),,107-110,107,110

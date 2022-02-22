@@ -8,8 +8,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900047,2019-10-28,NOP,GSW,0.57,1,11,26,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:0 Def:1),,0-2,0,2
 0021900047,2019-10-28,NOP,GSW,0.72,1,11,17,NOP,NOP,tov,4,False,False,Okafor Traveling Turnover (P1.T1),,0-2,0,2
 0021900047,2019-10-28,NOP,GSW,0.93,1,11,4,GSW,GSW,fg_miss,5,True,False,,MISS Robinson III 2' Layup,0-2,0,2
-0021900047,2019-10-28,NOP,GSW,0.93,1,11,4,GSW,GSW,reb,0,False,False,,Warriors Rebound,0-2,0,2
 0021900047,2019-10-28,NOP,GSW,0.93,1,11,4,GSW,NOP,block,5,True,False,block,block,0-2,0,2
+0021900047,2019-10-28,NOP,GSW,0.93,1,11,4,GSW,GSW,reb,0,False,False,,Warriors Rebound,0-2,0,2
 0021900047,2019-10-28,NOP,GSW,0.98,1,11,1,GSW,GSW,fg3_make,1,False,False,,Poole 25' 3PT Jump Shot (3 PTS) (Curry 2 AST),0-5,0,5
 0021900047,2019-10-28,NOP,GSW,1.17,1,10,50,NOP,NOP,fg3_miss,1,False,False,MISS Ingram 26' 3PT Jump Shot,,0-5,0,5
 0021900047,2019-10-28,NOP,GSW,1.17,1,10,50,GSW,GSW,reb,0,False,False,,Curry REBOUND (Off:0 Def:1),0-5,0,5
@@ -18,8 +18,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900047,2019-10-28,NOP,GSW,1.33,1,10,40,GSW,GSW,ft_make,12,False,False,,Curry Free Throw 2 of 2 (2 PTS),0-7,0,7
 0021900047,2019-10-28,NOP,GSW,1.53,1,10,28,NOP,NOP,fg3_make,1,False,False,Ball 3PT Jump Shot (3 PTS) (Hart 1 AST),,3-7,3,7
 0021900047,2019-10-28,NOP,GSW,1.88,1,10,7,GSW,GSW,fg_miss,98,True,False,,MISS Robinson III 3' Cutting Layup Shot,3-7,3,7
-0021900047,2019-10-28,NOP,GSW,1.88,1,10,7,GSW,GSW,reb,0,False,False,,Warriors Rebound,3-7,3,7
 0021900047,2019-10-28,NOP,GSW,1.88,1,10,7,GSW,NOP,block,98,True,False,block,block,3-7,3,7
+0021900047,2019-10-28,NOP,GSW,1.88,1,10,7,GSW,GSW,reb,0,False,False,,Warriors Rebound,3-7,3,7
 0021900047,2019-10-28,NOP,GSW,1.95,1,10,3,GSW,GSW,fg_miss,44,False,False,,MISS Green 2' Reverse Layup,3-7,3,7
 0021900047,2019-10-28,NOP,GSW,2.0,1,10,0,NOP,NOP,reb,0,False,False,Okafor REBOUND (Off:0 Def:1),,3-7,3,7
 0021900047,2019-10-28,NOP,GSW,2.22,1,9,47,NOP,NOP,tov,1,False,True,Redick Bad Pass Turnover (P1.T2),,3-7,3,7
@@ -135,10 +135,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900047,2019-10-28,NOP,GSW,12.18,2,11,49,NOP,NOP,fg3_miss,1,False,False,MISS Ingram 27' 3PT Jump Shot,,23-27,23,27
 0021900047,2019-10-28,NOP,GSW,12.25,2,11,45,GSW,GSW,reb,0,False,False,,Warriors Rebound,23-27,23,27
 0021900047,2019-10-28,NOP,GSW,12.48,2,11,31,GSW,GSW,fg_miss,6,True,False,,MISS Curry 3' Driving Layup,23-27,23,27
+0021900047,2019-10-28,NOP,GSW,12.48,2,11,31,GSW,NOP,block,6,True,False,block,block,23-27,23,27
 0021900047,2019-10-28,NOP,GSW,12.48,2,11,31,GSW,GSW,reb,0,False,False,,Warriors Rebound,23-27,23,27
 0021900047,2019-10-28,NOP,GSW,12.48,2,11,31,NOP,GSW,foul,4,False,False,,Lee OFF.Foul (P2) (P.Ransom),23-27,23,27
 0021900047,2019-10-28,NOP,GSW,12.48,2,11,31,GSW,GSW,tov,37,False,False,,Lee Offensive Foul Turnover (P2.T9),23-27,23,27
-0021900047,2019-10-28,NOP,GSW,12.48,2,11,31,GSW,NOP,block,6,True,False,block,block,23-27,23,27
 0021900047,2019-10-28,NOP,GSW,12.68,2,11,19,NOP,NOP,fg3_miss,1,False,False,MISS Jackson 27' 3PT Jump Shot,,23-27,23,27
 0021900047,2019-10-28,NOP,GSW,12.77,2,11,14,GSW,GSW,reb,0,False,False,,Spellman REBOUND (Off:1 Def:2),23-27,23,27
 0021900047,2019-10-28,NOP,GSW,12.88,2,11,7,GSW,GSW,fg3_make,1,False,False,,Lee 25' 3PT Jump Shot (3 PTS) (Green 2 AST),23-30,23,30
@@ -149,8 +149,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900047,2019-10-28,NOP,GSW,13.3,2,10,42,GSW,GSW,reb,0,False,False,,Robinson III REBOUND (Off:1 Def:3),23-30,23,30
 0021900047,2019-10-28,NOP,GSW,13.35,2,10,39,GSW,GSW,fg_make,6,False,False,,Robinson III 1' Driving Layup (2 PTS),23-32,23,32
 0021900047,2019-10-28,NOP,GSW,13.53,2,10,28,NOP,NOP,fg_miss,6,True,False,MISS Jackson 3' Driving Layup,,23-32,23,32
-0021900047,2019-10-28,NOP,GSW,13.53,2,10,28,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:1 Def:4),23-32,23,32
 0021900047,2019-10-28,NOP,GSW,13.53,2,10,28,NOP,GSW,block,6,True,False,block,block,23-32,23,32
+0021900047,2019-10-28,NOP,GSW,13.53,2,10,28,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:1 Def:4),23-32,23,32
 0021900047,2019-10-28,NOP,GSW,13.6,2,10,24,GSW,NOP,foul,2,False,False,Hayes S.FOUL (P1.T1) (P.Ransom),,23-32,23,32
 0021900047,2019-10-28,NOP,GSW,13.6,2,10,24,GSW,GSW,ft_make,11,False,False,,Spellman Free Throw 1 of 2 (4 PTS),23-33,23,33
 0021900047,2019-10-28,NOP,GSW,13.6,2,10,24,GSW,GSW,ft_miss,12,False,False,,MISS Spellman Free Throw 2 of 2,23-33,23,33
@@ -178,9 +178,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900047,2019-10-28,NOP,GSW,15.52,2,8,29,NOP,NOP,ft_make,12,False,False,Hart Free Throw 2 of 2 (4 PTS),,30-43,30,43
 0021900047,2019-10-28,NOP,GSW,15.73,2,8,16,GSW,GSW,fg3_make,1,False,False,,Curry 24' 3PT Jump Shot (10 PTS) (Green 5 AST),30-46,30,46
 0021900047,2019-10-28,NOP,GSW,15.93,2,8,4,NOP,NOP,tov,2,False,True,Jackson Lost Ball Turnover (P2.T6),,30-46,30,46
-0021900047,2019-10-28,NOP,GSW,15.93,2,8,4,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.2 Short 0),30-46,30,46
-0021900047,2019-10-28,NOP,GSW,15.93,2,8,4,GSW,NOP,foul,28,False,False,Jackson Personal Take Foul (P3.T3) (P.Ransom),,30-46,30,46
 0021900047,2019-10-28,NOP,GSW,15.93,2,8,4,NOP,GSW,steal,2,False,True,steal,steal,30-46,30,46
+0021900047,2019-10-28,NOP,GSW,15.93,2,8,4,GSW,NOP,foul,28,False,False,Jackson Personal Take Foul (P3.T3) (P.Ransom),,30-46,30,46
+0021900047,2019-10-28,NOP,GSW,15.93,2,8,4,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.2 Short 0),30-46,30,46
 0021900047,2019-10-28,NOP,GSW,16.17,2,7,50,GSW,GSW,fg_make,52,False,False,,Chriss Alley Oop Dunk (2 PTS) (Green 6 AST),30-48,30,48
 0021900047,2019-10-28,NOP,GSW,16.32,2,7,41,NOP,NOP,fg_miss,79,False,False,MISS Hart 16' Pullup Jump Shot,,30-48,30,48
 0021900047,2019-10-28,NOP,GSW,16.37,2,7,38,GSW,GSW,reb,0,False,False,,Robinson III REBOUND (Off:2 Def:4),30-48,30,48
@@ -248,16 +248,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900047,2019-10-28,NOP,GSW,22.27,2,1,44,NOP,NOP,fg3_miss,79,False,False,MISS Redick 27' 3PT Pullup Jump Shot,,52-62,52,62
 0021900047,2019-10-28,NOP,GSW,22.37,2,1,38,GSW,GSW,reb,0,False,False,,Green REBOUND (Off:1 Def:6),52-62,52,62
 0021900047,2019-10-28,NOP,GSW,22.55,2,1,27,GSW,GSW,fg_make,6,False,False,,Russell 2' Driving Layup (9 PTS),52-64,52,64
-0021900047,2019-10-28,NOP,GSW,22.55,2,1,27,NOP,GSW,foul,18,False,False,,Warriors Delay,52-64,52,64
 0021900047,2019-10-28,NOP,GSW,22.55,2,1,27,NOP,NOP,ft_make,16,False,False,Redick Free Throw Technical (4 PTS),,53-64,53,64
+0021900047,2019-10-28,NOP,GSW,22.55,2,1,27,NOP,GSW,foul,18,False,False,,Warriors Delay,52-64,52,64
 0021900047,2019-10-28,NOP,GSW,22.83,2,1,10,NOP,NOP,fg_miss,63,False,False,MISS Ingram 22' Fadeaway Jumper,,53-64,53,64
 0021900047,2019-10-28,NOP,GSW,22.88,2,1,7,GSW,GSW,reb,0,False,False,,Russell REBOUND (Off:1 Def:3),53-64,53,64
 0021900047,2019-10-28,NOP,GSW,22.95,2,1,3,GSW,GSW,fg_make,98,False,False,,Green 1' Cutting Layup Shot (6 PTS) (Curry 6 AST),53-66,53,66
 0021900047,2019-10-28,NOP,GSW,23.08,2,0,55,NOP,NOP,tov,2,False,True,Hart Lost Ball Turnover (P2.T8),,53-66,53,66
+0021900047,2019-10-28,NOP,GSW,23.08,2,0,55,NOP,GSW,steal,2,False,True,steal,steal,53-66,53,66
 0021900047,2019-10-28,NOP,GSW,23.08,2,0,55,GSW,NOP,foul,1,False,False,Hart P.FOUL (P2.PN) (P.Ransom),,53-66,53,66
 0021900047,2019-10-28,NOP,GSW,23.08,2,0,55,GSW,GSW,ft_miss,11,False,False,,MISS Russell Free Throw 1 of 2,53-66,53,66
 0021900047,2019-10-28,NOP,GSW,23.08,2,0,55,GSW,GSW,reb,1,False,False,,Warriors Rebound,53-66,53,66
-0021900047,2019-10-28,NOP,GSW,23.08,2,0,55,NOP,GSW,steal,2,False,True,steal,steal,53-66,53,66
 0021900047,2019-10-28,NOP,GSW,23.08,2,0,55,GSW,GSW,ft_make,12,False,False,,Russell Free Throw 2 of 2 (10 PTS),53-67,53,67
 0021900047,2019-10-28,NOP,GSW,23.37,2,0,38,NOP,NOP,fg_make,5,False,False,Ingram 5' Layup (12 PTS) (Ball 6 AST),,55-67,55,67
 0021900047,2019-10-28,NOP,GSW,23.45,2,0,33,GSW,GSW,fg3_make,79,False,False,,Curry 29' 3PT Pullup Jump Shot (17 PTS),55-70,55,70
@@ -415,8 +415,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900047,2019-10-28,NOP,GSW,38.88,4,9,7,GSW,GSW,fg3_miss,1,False,False,,MISS Curry 24' 3PT Jump Shot,83-110,83,110
 0021900047,2019-10-28,NOP,GSW,38.93,4,9,4,GSW,GSW,reb,0,False,False,,Lee REBOUND (Off:5 Def:4),83-110,83,110
 0021900047,2019-10-28,NOP,GSW,39.0,4,9,0,GSW,GSW,fg_miss,6,True,False,,MISS Robinson III 4' Driving Layup,83-110,83,110
-0021900047,2019-10-28,NOP,GSW,39.0,4,9,0,GSW,GSW,reb,0,False,False,,Warriors Rebound,83-110,83,110
 0021900047,2019-10-28,NOP,GSW,39.0,4,9,0,GSW,NOP,block,6,True,False,block,block,83-110,83,110
+0021900047,2019-10-28,NOP,GSW,39.0,4,9,0,GSW,GSW,reb,0,False,False,,Warriors Rebound,83-110,83,110
 0021900047,2019-10-28,NOP,GSW,39.07,4,8,56,GSW,GSW,fg_miss,98,False,False,,MISS Lee 3' Cutting Layup Shot,83-110,83,110
 0021900047,2019-10-28,NOP,GSW,39.1,4,8,54,NOP,NOP,reb,0,False,False,Alexander-Walker REBOUND (Off:0 Def:1),,83-110,83,110
 0021900047,2019-10-28,NOP,GSW,39.1,4,8,54,NOP,GSW,foul,1,False,False,,Poole P.FOUL (P3.T2) (P.Fraher),83-110,83,110
@@ -476,8 +476,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900047,2019-10-28,NOP,GSW,44.73,4,3,16,NOP,NOP,fg_make,98,False,False,Hayes 2' Cutting Layup Shot (17 PTS) (Jackson 3 AST),,108-128,108,128
 0021900047,2019-10-28,NOP,GSW,44.9,4,3,6,GSW,GSW,fg_miss,5,True,False,,MISS Spellman 2' Layup,108-128,108,128
 0021900047,2019-10-28,NOP,GSW,44.9,4,3,6,GSW,NOP,block,5,True,False,block,block,108-128,108,128
-0021900047,2019-10-28,NOP,GSW,44.95,4,3,3,GSW,GSW,reb,0,False,False,,Warriors Rebound,108-128,108,128
 0021900047,2019-10-28,NOP,GSW,44.95,4,3,3,,NOP,jump_ball,0,False,False,Jump Ball Jackson vs. Spellman: Tip to Bowman,,108-128,108,128
+0021900047,2019-10-28,NOP,GSW,44.95,4,3,3,GSW,GSW,reb,0,False,False,,Warriors Rebound,108-128,108,128
 0021900047,2019-10-28,NOP,GSW,44.98,4,3,1,GSW,GSW,fg_miss,79,False,False,,MISS Bowman 21' Pullup Jump Shot,108-128,108,128
 0021900047,2019-10-28,NOP,GSW,45.03,4,2,58,NOP,NOP,reb,0,False,False,Alexander-Walker REBOUND (Off:0 Def:3),,108-128,108,128
 0021900047,2019-10-28,NOP,GSW,45.25,4,2,45,NOP,NOP,fg_make,5,False,False,Hayes 1' Layup (19 PTS) (Alexander-Walker 5 AST),,110-128,110,128

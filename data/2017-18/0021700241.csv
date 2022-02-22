@@ -3,9 +3,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700241,2017-11-20,CHA,MIN,0.0,1,12,0,,CHA,jump_ball,0,False,False,Jump Ball Howard vs. Towns: Tip to Williams,,0-0,0,0
 0021700241,2017-11-20,CHA,MIN,0.28,1,11,43,CHA,CHA,fg_make,1,False,False,Kidd-Gilchrist 17' Jump Shot (2 PTS) (Walker 1 AST),,2-0,2,0
 0021700241,2017-11-20,CHA,MIN,0.68,1,11,19,MIN,MIN,fg_miss,78,True,False,,MISS Teague 12' Floating Jump Shot,2-0,2,0
+0021700241,2017-11-20,CHA,MIN,0.68,1,11,19,MIN,CHA,block,78,True,False,block,block,2-0,2,0
 0021700241,2017-11-20,CHA,MIN,0.68,1,11,19,CHA,CHA,reb,0,False,False,Howard REBOUND (Off:0 Def:1),,2-0,2,0
 0021700241,2017-11-20,CHA,MIN,0.68,1,11,19,CHA,CHA,tov,1,False,True,Howard Bad Pass Turnover (P1.T1),,2-0,2,0
-0021700241,2017-11-20,CHA,MIN,0.68,1,11,19,MIN,CHA,block,78,True,False,block,block,2-0,2,0
 0021700241,2017-11-20,CHA,MIN,0.68,1,11,19,CHA,MIN,steal,1,False,True,steal,steal,2-0,2,0
 0021700241,2017-11-20,CHA,MIN,1.03,1,10,58,MIN,MIN,tov,2,False,True,,Wiggins Lost Ball Turnover (P1.T1),2-0,2,0
 0021700241,2017-11-20,CHA,MIN,1.03,1,10,58,MIN,CHA,steal,2,False,True,steal,steal,2-0,2,0
@@ -175,8 +175,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700241,2017-11-20,CHA,MIN,20.02,2,3,59,MIN,MIN,fg3_miss,1,False,False,,MISS Towns 28' 3PT Jump Shot,46-44,46,44
 0021700241,2017-11-20,CHA,MIN,20.08,2,3,55,CHA,CHA,reb,0,False,False,Kaminsky REBOUND (Off:0 Def:3),,46-44,46,44
 0021700241,2017-11-20,CHA,MIN,20.15,2,3,51,CHA,CHA,fg_miss,5,True,False,MISS Kaminsky 4' Layup,,46-44,46,44
-0021700241,2017-11-20,CHA,MIN,20.15,2,3,51,CHA,CHA,reb,0,False,False,HORNETS Rebound,,46-44,46,44
 0021700241,2017-11-20,CHA,MIN,20.15,2,3,51,CHA,MIN,block,5,True,False,block,block,46-44,46,44
+0021700241,2017-11-20,CHA,MIN,20.15,2,3,51,CHA,CHA,reb,0,False,False,HORNETS Rebound,,46-44,46,44
 0021700241,2017-11-20,CHA,MIN,20.23,2,3,46,CHA,CHA,fg3_miss,1,False,False,MISS Batum 24' 3PT Jump Shot,,46-44,46,44
 0021700241,2017-11-20,CHA,MIN,20.23,2,3,46,MIN,MIN,reb,0,False,False,,Teague REBOUND (Off:0 Def:2),46-44,46,44
 0021700241,2017-11-20,CHA,MIN,20.48,2,3,31,MIN,MIN,fg_miss,1,False,False,,MISS Butler 17' Jump Shot,46-44,46,44
@@ -234,8 +234,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700241,2017-11-20,CHA,MIN,27.1,3,8,54,MIN,MIN,fg_make,1,False,False,,Butler 17' Jump Shot (9 PTS) (Wiggins 1 AST),58-62,58,62
 0021700241,2017-11-20,CHA,MIN,27.35,3,8,39,MIN,CHA,foul,14,False,False,Howard FLAGRANT.FOUL.TYPE1 (P2.T2) (B.Adams),,58-62,58,62
 0021700241,2017-11-20,CHA,MIN,27.35,3,8,39,CHA,CHA,tov,0,False,False,Howard No Turnover (P3.T12),,58-62,58,62
-0021700241,2017-11-20,CHA,MIN,27.35,3,8,39,CHA,MIN,ft_make,19,False,False,,Towns Free Throw Flagrant 2 of 2 (7 PTS),58-63,58,63
 0021700241,2017-11-20,CHA,MIN,27.35,3,8,39,CHA,MIN,ft_make,18,False,False,,Towns Free Throw Flagrant 1 of 2 (8 PTS),58-64,58,64
+0021700241,2017-11-20,CHA,MIN,27.35,3,8,39,CHA,MIN,ft_make,19,False,False,,Towns Free Throw Flagrant 2 of 2 (7 PTS),58-63,58,63
 0021700241,2017-11-20,CHA,MIN,27.55,3,8,27,MIN,MIN,fg_miss,1,True,False,,MISS Wiggins 15' Jump Shot,58-64,58,64
 0021700241,2017-11-20,CHA,MIN,27.55,3,8,27,MIN,CHA,block,1,True,False,block,block,58-64,58,64
 0021700241,2017-11-20,CHA,MIN,27.65,3,8,21,MIN,MIN,reb,0,False,False,,Gibson REBOUND (Off:1 Def:2),58-64,58,64
@@ -286,8 +286,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700241,2017-11-20,CHA,MIN,31.95,3,4,3,MIN,MIN,fg_miss,1,False,False,,MISS Gibson 16' Jump Shot,71-71,71,71
 0021700241,2017-11-20,CHA,MIN,32.03,3,3,58,CHA,CHA,reb,0,False,False,Batum REBOUND (Off:0 Def:3),,71-71,71,71
 0021700241,2017-11-20,CHA,MIN,32.28,3,3,43,CHA,CHA,fg_miss,5,True,False,MISS Williams 1' Layup,,71-71,71,71
-0021700241,2017-11-20,CHA,MIN,32.28,3,3,43,MIN,MIN,reb,0,False,False,,Gibson REBOUND (Off:1 Def:3),71-71,71,71
 0021700241,2017-11-20,CHA,MIN,32.28,3,3,43,CHA,MIN,block,5,True,False,block,block,71-71,71,71
+0021700241,2017-11-20,CHA,MIN,32.28,3,3,43,MIN,MIN,reb,0,False,False,,Gibson REBOUND (Off:1 Def:3),71-71,71,71
 0021700241,2017-11-20,CHA,MIN,32.43,3,3,34,MIN,MIN,fg_miss,1,False,False,,MISS Towns 4' Jump Shot,71-71,71,71
 0021700241,2017-11-20,CHA,MIN,32.43,3,3,34,CHA,CHA,reb,0,False,False,Howard REBOUND (Off:4 Def:10),,71-71,71,71
 0021700241,2017-11-20,CHA,MIN,32.63,3,3,22,CHA,CHA,fg3_miss,1,False,False,MISS Williams 25' 3PT Jump Shot,,71-71,71,71
@@ -382,8 +382,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700241,2017-11-20,CHA,MIN,43.18,4,4,49,MIN,MIN,fg3_miss,1,False,False,,MISS Towns 28' 3PT Jump Shot,103-92,103,92
 0021700241,2017-11-20,CHA,MIN,43.23,4,4,46,CHA,CHA,reb,0,False,False,Howard REBOUND (Off:6 Def:11),,103-92,103,92
 0021700241,2017-11-20,CHA,MIN,43.45,4,4,33,CHA,CHA,fg_miss,1,True,False,MISS Walker 15' Jump Shot,,103-92,103,92
-0021700241,2017-11-20,CHA,MIN,43.45,4,4,33,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:0 Def:8),103-92,103,92
 0021700241,2017-11-20,CHA,MIN,43.45,4,4,33,CHA,MIN,block,1,True,False,block,block,103-92,103,92
+0021700241,2017-11-20,CHA,MIN,43.45,4,4,33,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:0 Def:8),103-92,103,92
 0021700241,2017-11-20,CHA,MIN,43.72,4,4,17,MIN,MIN,fg_miss,1,False,False,,MISS Wiggins 13' Jump Shot,103-92,103,92
 0021700241,2017-11-20,CHA,MIN,43.75,4,4,15,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:1 Def:8),103-92,103,92
 0021700241,2017-11-20,CHA,MIN,43.77,4,4,14,MIN,MIN,fg_make,72,False,False,,Towns 4' Putback Layup (17 PTS),103-94,103,94
@@ -399,9 +399,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700241,2017-11-20,CHA,MIN,44.72,4,3,17,MIN,MIN,ft_make,11,False,False,,Towns Free Throw 1 of 2 (18 PTS),107-95,107,95
 0021700241,2017-11-20,CHA,MIN,44.72,4,3,17,MIN,MIN,ft_miss,12,False,False,,MISS Towns Free Throw 2 of 2,107-95,107,95
 0021700241,2017-11-20,CHA,MIN,44.75,4,3,15,CHA,CHA,reb,0,False,False,Howard REBOUND (Off:6 Def:12),,107-95,107,95
-0021700241,2017-11-20,CHA,MIN,44.75,4,3,15,CHA,MIN,foul,1,False,False,,Gibson P.FOUL (P4.T4) (C.Blair),107-95,107,95
 0021700241,2017-11-20,CHA,MIN,44.75,4,3,15,CHA,CHA,ft_make,11,False,False,Howard Free Throw 1 of 2 (20 PTS),,108-95,108,95
 0021700241,2017-11-20,CHA,MIN,44.75,4,3,15,CHA,CHA,ft_miss,12,False,False,MISS Howard Free Throw 2 of 2,,108-95,108,95
+0021700241,2017-11-20,CHA,MIN,44.75,4,3,15,CHA,MIN,foul,1,False,False,,Gibson P.FOUL (P4.T4) (C.Blair),107-95,107,95
 0021700241,2017-11-20,CHA,MIN,44.8,4,3,12,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:2 Def:9),108-95,108,95
 0021700241,2017-11-20,CHA,MIN,44.95,4,3,3,MIN,MIN,fg3_make,1,False,False,,Butler 27' 3PT Jump Shot (14 PTS) (Towns 2 AST),108-98,108,98
 0021700241,2017-11-20,CHA,MIN,44.98,4,3,1,CHA,MIN,foul,28,False,False,,Towns Personal Take Foul (P2.PN) (J.Williams),108-98,108,98
@@ -418,8 +418,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700241,2017-11-20,CHA,MIN,45.43,4,2,34,MIN,MIN,fg3_miss,1,False,False,,MISS Towns 27' 3PT Jump Shot,110-98,110,98
 0021700241,2017-11-20,CHA,MIN,45.52,4,2,29,MIN,MIN,reb,0,False,False,,Gibson REBOUND (Off:2 Def:4),110-98,110,98
 0021700241,2017-11-20,CHA,MIN,45.57,4,2,26,MIN,MIN,fg_miss,1,True,False,,MISS Butler 8' Jump Shot,110-98,110,98
-0021700241,2017-11-20,CHA,MIN,45.57,4,2,26,CHA,CHA,reb,0,False,False,Howard REBOUND (Off:6 Def:14),,110-98,110,98
 0021700241,2017-11-20,CHA,MIN,45.57,4,2,26,MIN,CHA,block,1,True,False,block,block,110-98,110,98
+0021700241,2017-11-20,CHA,MIN,45.57,4,2,26,CHA,CHA,reb,0,False,False,Howard REBOUND (Off:6 Def:14),,110-98,110,98
 0021700241,2017-11-20,CHA,MIN,45.62,4,2,23,CHA,MIN,foul,28,False,False,,Towns Personal Take Foul (P3.PN) (J.Williams),110-98,110,98
 0021700241,2017-11-20,CHA,MIN,45.62,4,2,23,CHA,CHA,ft_make,11,False,False,Howard Free Throw 1 of 2 (23 PTS),,111-98,111,98
 0021700241,2017-11-20,CHA,MIN,45.62,4,2,23,CHA,CHA,ft_make,12,False,False,Howard Free Throw 2 of 2 (24 PTS),,112-98,112,98
@@ -432,8 +432,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700241,2017-11-20,CHA,MIN,46.32,4,1,41,MIN,MIN,fg_miss,1,False,False,,MISS Teague 4' Jump Shot,113-98,113,98
 0021700241,2017-11-20,CHA,MIN,46.35,4,1,39,CHA,CHA,reb,0,False,False,Lamb REBOUND (Off:1 Def:4),,113-98,113,98
 0021700241,2017-11-20,CHA,MIN,46.62,4,1,23,CHA,CHA,fg_miss,1,True,False,MISS Walker 4' Jump Shot,,113-98,113,98
-0021700241,2017-11-20,CHA,MIN,46.62,4,1,23,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,113-98,113,98
 0021700241,2017-11-20,CHA,MIN,46.62,4,1,23,CHA,MIN,block,1,True,False,block,block,113-98,113,98
+0021700241,2017-11-20,CHA,MIN,46.62,4,1,23,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,113-98,113,98
 0021700241,2017-11-20,CHA,MIN,46.65,4,1,21,CHA,CHA,fg3_miss,1,False,False,MISS Walker 25' 3PT Jump Shot,,113-98,113,98
 0021700241,2017-11-20,CHA,MIN,46.7,4,1,18,MIN,MIN,reb,0,False,False,,Crawford REBOUND (Off:0 Def:1),113-98,113,98
 0021700241,2017-11-20,CHA,MIN,46.82,4,1,11,MIN,MIN,fg3_miss,1,False,False,,MISS Crawford 29' 3PT Jump Shot,113-98,113,98

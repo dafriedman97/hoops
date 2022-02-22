@@ -121,9 +121,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700746,2018-01-30,TOR,MIN,14.32,2,9,41,MIN,MIN,fg_make,1,False,False,,Dieng 22' Jump Shot (10 PTS) (Jones 1 AST),23-33,23,33
 0021700746,2018-01-30,TOR,MIN,14.65,2,9,21,TOR,TOR,tov,4,False,False,Siakam Traveling Turnover (P1.T3),,23-33,23,33
 0021700746,2018-01-30,TOR,MIN,14.98,2,9,1,MIN,MIN,fg_miss,5,True,False,,MISS Muhammad 3' Layup,23-33,23,33
+0021700746,2018-01-30,TOR,MIN,14.98,2,9,1,MIN,TOR,block,5,True,False,block,block,23-33,23,33
 0021700746,2018-01-30,TOR,MIN,14.98,2,9,1,TOR,TOR,reb,0,False,False,VanVleet REBOUND (Off:0 Def:2),,23-33,23,33
 0021700746,2018-01-30,TOR,MIN,14.98,2,9,1,TOR,MIN,foul,1,False,False,,Dieng P.FOUL (P1.T4) (J.Phillips),23-33,23,33
-0021700746,2018-01-30,TOR,MIN,14.98,2,9,1,MIN,TOR,block,5,True,False,block,block,23-33,23,33
 0021700746,2018-01-30,TOR,MIN,15.25,2,8,45,TOR,TOR,tov,1,False,True,VanVleet Bad Pass Turnover (P1.T4),,23-33,23,33
 0021700746,2018-01-30,TOR,MIN,15.25,2,8,45,TOR,MIN,steal,1,False,True,steal,steal,23-33,23,33
 0021700746,2018-01-30,TOR,MIN,15.48,2,8,31,MIN,MIN,fg3_make,1,False,False,,Bjelica 25' 3PT Jump Shot (5 PTS) (Crawford 1 AST),23-36,23,36
@@ -272,8 +272,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700746,2018-01-30,TOR,MIN,33.13,3,2,52,MIN,MIN,timeout,1,False,False,,Timberwolves Timeout: Regular (Reg.3 Short 0),75-76,75,76
 0021700746,2018-01-30,TOR,MIN,33.13,3,2,52,MIN,TOR,ft_make,10,False,False,Lowry Free Throw 1 of 1 (15 PTS),,76-76,76,76
 0021700746,2018-01-30,TOR,MIN,33.45,3,2,33,MIN,MIN,fg_miss,101,True,False,,MISS Butler 3' Driving Floating Jump Shot,76-76,76,76
-0021700746,2018-01-30,TOR,MIN,33.45,3,2,33,MIN,MIN,reb,0,False,False,,Butler REBOUND (Off:1 Def:1),76-76,76,76
 0021700746,2018-01-30,TOR,MIN,33.45,3,2,33,MIN,TOR,block,101,True,False,block,block,76-76,76,76
+0021700746,2018-01-30,TOR,MIN,33.45,3,2,33,MIN,MIN,reb,0,False,False,,Butler REBOUND (Off:1 Def:1),76-76,76,76
 0021700746,2018-01-30,TOR,MIN,33.55,3,2,27,MIN,MIN,fg_make,63,False,False,,Butler 20' Fadeaway Jumper (18 PTS),76-78,76,78
 0021700746,2018-01-30,TOR,MIN,33.92,3,2,5,TOR,TOR,fg_miss,101,False,False,MISS Ibaka 10' Driving Floating Jump Shot,,76-78,76,78
 0021700746,2018-01-30,TOR,MIN,33.95,3,2,3,MIN,MIN,reb,0,False,False,,Butler REBOUND (Off:1 Def:2),76-78,76,78
@@ -380,8 +380,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700746,2018-01-30,TOR,MIN,46.13,4,1,52,TOR,TOR,fg_miss,72,False,False,MISS Valanciunas 2' Putback Layup,,103-96,103,96
 0021700746,2018-01-30,TOR,MIN,46.13,4,1,52,MIN,MIN,reb,0,False,False,,Butler REBOUND (Off:1 Def:4),103-96,103,96
 0021700746,2018-01-30,TOR,MIN,46.22,4,1,47,MIN,MIN,fg_miss,41,True,False,,MISS Butler 2' Running Layup,103-96,103,96
-0021700746,2018-01-30,TOR,MIN,46.22,4,1,47,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,103-96,103,96
 0021700746,2018-01-30,TOR,MIN,46.22,4,1,47,MIN,TOR,block,41,True,False,block,block,103-96,103,96
+0021700746,2018-01-30,TOR,MIN,46.22,4,1,47,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,103-96,103,96
 0021700746,2018-01-30,TOR,MIN,46.35,4,1,39,MIN,MIN,fg_miss,6,False,False,,MISS Gibson 2' Driving Layup,103-96,103,96
 0021700746,2018-01-30,TOR,MIN,46.38,4,1,37,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:2 Def:7),103-96,103,96
 0021700746,2018-01-30,TOR,MIN,46.38,4,1,37,MIN,MIN,fg_make,107,False,False,,Towns 1' Tip Dunk Shot (11 PTS),103-98,103,98

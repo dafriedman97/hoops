@@ -104,9 +104,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900158,2019-11-13,MIN,SAS,11.95,1,0,3,MIN,MIN,fg3_miss,1,False,False,MISS Okogie 27' 3PT Jump Shot,,26-24,26,24
 0021900158,2019-11-13,MIN,SAS,12.0,1,0,0,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:0 Def:1),26-24,26,24
 0021900158,2019-11-13,MIN,SAS,12.0,1,0,0,SAS,SAS,tov,1,False,True,,Poeltl Bad Pass Turnover (P1.T3),26-24,26,24
+0021900158,2019-11-13,MIN,SAS,12.0,1,0,0,SAS,MIN,steal,1,False,True,steal,steal,26-24,26,24
 0021900158,2019-11-13,MIN,SAS,12.0,1,0,0,SAS,,period_end,0,False,False,,,26-24,26,24
 0021900158,2019-11-13,MIN,SAS,12.0,2,12,0,SAS,,period_start,0,False,False,,,26-24,26,24
-0021900158,2019-11-13,MIN,SAS,12.0,1,0,0,SAS,MIN,steal,1,False,True,steal,steal,26-24,26,24
 0021900158,2019-11-13,MIN,SAS,12.28,2,11,43,SAS,SAS,fg_make,44,False,False,,Poeltl 1' Reverse Layup (2 PTS) (Gay 2 AST),26-26,26,26
 0021900158,2019-11-13,MIN,SAS,12.63,2,11,22,MIN,MIN,fg_make,79,False,False,Wiggins 10' Pullup Jump Shot (13 PTS),,28-26,28,26
 0021900158,2019-11-13,MIN,SAS,12.88,2,11,7,SAS,SAS,fg_miss,98,False,False,,MISS Mills 2' Cutting Layup Shot,28-26,28,26
@@ -221,10 +221,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900158,2019-11-13,MIN,SAS,23.95,2,0,3,MIN,MIN,fg3_miss,1,False,False,MISS Towns 25' 3PT Jump Shot,,66-59,66,59
 0021900158,2019-11-13,MIN,SAS,24.0,2,0,0,MIN,MIN,reb,0,False,False,Wiggins REBOUND (Off:1 Def:4),,66-59,66,59
 0021900158,2019-11-13,MIN,SAS,24.0,2,0,0,MIN,MIN,fg_miss,5,True,False,MISS Wiggins 1' Layup,,66-59,66,59
+0021900158,2019-11-13,MIN,SAS,24.0,2,0,0,MIN,SAS,block,5,True,False,block,block,66-59,66,59
 0021900158,2019-11-13,MIN,SAS,24.0,2,0,0,SAS,SAS,reb,0,False,False,,Gay REBOUND (Off:1 Def:6),66-59,66,59
 0021900158,2019-11-13,MIN,SAS,24.0,2,0,0,SAS,,period_end,0,False,False,,,66-59,66,59
 0021900158,2019-11-13,MIN,SAS,24.0,3,12,0,SAS,,period_start,0,False,False,,,66-59,66,59
-0021900158,2019-11-13,MIN,SAS,24.0,2,0,0,MIN,SAS,block,5,True,False,block,block,66-59,66,59
 0021900158,2019-11-13,MIN,SAS,24.27,3,11,44,SAS,SAS,fg_miss,86,False,False,,MISS DeRozan 12' Turnaround Fadeaway Shot,66-59,66,59
 0021900158,2019-11-13,MIN,SAS,24.3,3,11,42,MIN,MIN,reb,0,False,False,Covington REBOUND (Off:0 Def:4),,66-59,66,59
 0021900158,2019-11-13,MIN,SAS,24.3,3,11,42,MIN,MIN,tov,4,False,False,Covington Traveling Turnover (P1.T5),,66-59,66,59
@@ -297,9 +297,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900158,2019-11-13,MIN,SAS,30.92,3,5,5,MIN,MIN,reb,0,False,False,Okogie REBOUND (Off:1 Def:5),,83-83,83,83
 0021900158,2019-11-13,MIN,SAS,31.02,3,4,59,MIN,MIN,fg_make,75,False,False,Layman 1' Driving Finger Roll Layup (5 PTS) (Teague 3 AST),,85-83,85,83
 0021900158,2019-11-13,MIN,SAS,31.32,3,4,41,SAS,SAS,tov,1,False,True,,DeRozan Bad Pass Turnover (P2.T8),85-83,85,83
+0021900158,2019-11-13,MIN,SAS,31.32,3,4,41,SAS,MIN,steal,1,False,True,steal,steal,85-83,85,83
 0021900158,2019-11-13,MIN,SAS,31.32,3,4,41,MIN,SAS,foul,1,False,False,,DeRozan P.FOUL (P3.PN) (M.Lindsay),85-83,85,83
 0021900158,2019-11-13,MIN,SAS,31.32,3,4,41,MIN,SAS,foul,11,False,False,,DeRozan T.FOUL (P3.PN) (M.Lindsay),85-83,85,83
-0021900158,2019-11-13,MIN,SAS,31.32,3,4,41,SAS,MIN,steal,1,False,True,steal,steal,85-83,85,83
 0021900158,2019-11-13,MIN,SAS,31.32,3,4,41,MIN,MIN,ft_make,16,False,False,Towns Free Throw Technical (24 PTS),,86-83,86,83
 0021900158,2019-11-13,MIN,SAS,31.32,3,4,41,MIN,MIN,ft_make,11,False,False,Teague Free Throw 1 of 2 (11 PTS),,87-83,87,83
 0021900158,2019-11-13,MIN,SAS,31.32,3,4,41,MIN,MIN,ft_make,12,False,False,Teague Free Throw 2 of 2 (12 PTS),,88-83,88,83
@@ -357,10 +357,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900158,2019-11-13,MIN,SAS,37.0,4,11,0,SAS,SAS,fg_miss,1,False,False,,MISS Gay 13' Jump Shot,106-95,106,95
 0021900158,2019-11-13,MIN,SAS,37.05,4,10,57,SAS,SAS,reb,0,False,False,,Gay REBOUND (Off:2 Def:6),106-95,106,95
 0021900158,2019-11-13,MIN,SAS,37.1,4,10,54,SAS,SAS,tov,1,False,True,,Forbes Bad Pass Turnover (P1.T10),106-95,106,95
+0021900158,2019-11-13,MIN,SAS,37.1,4,10,54,SAS,MIN,steal,1,False,True,steal,steal,106-95,106,95
 0021900158,2019-11-13,MIN,SAS,37.1,4,10,54,MIN,SAS,foul,2,False,False,,Gay S.FOUL (P4.T2) (M.Lindsay),106-95,106,95
 0021900158,2019-11-13,MIN,SAS,37.1,4,10,54,MIN,MIN,ft_miss,11,False,False,MISS Layman Free Throw 1 of 2,,106-95,106,95
 0021900158,2019-11-13,MIN,SAS,37.1,4,10,54,MIN,MIN,reb,1,False,False,TIMBERWOLVES Rebound,,106-95,106,95
-0021900158,2019-11-13,MIN,SAS,37.1,4,10,54,SAS,MIN,steal,1,False,True,steal,steal,106-95,106,95
 0021900158,2019-11-13,MIN,SAS,37.1,4,10,54,MIN,MIN,ft_make,12,False,False,Layman Free Throw 2 of 2 (12 PTS),,107-95,107,95
 0021900158,2019-11-13,MIN,SAS,37.35,4,10,39,SAS,SAS,fg3_miss,1,False,False,,MISS Mills 25' 3PT Jump Shot,107-95,107,95
 0021900158,2019-11-13,MIN,SAS,37.42,4,10,35,MIN,MIN,reb,0,False,False,Towns REBOUND (Off:1 Def:5),,107-95,107,95
@@ -403,8 +403,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900158,2019-11-13,MIN,SAS,41.0,4,7,0,SAS,SAS,fg_miss,47,False,False,,MISS DeRozan 13' Turnaround Jump Shot,113-97,113,97
 0021900158,2019-11-13,MIN,SAS,41.05,4,6,57,MIN,MIN,reb,0,False,False,Towns REBOUND (Off:3 Def:8),,113-97,113,97
 0021900158,2019-11-13,MIN,SAS,41.15,4,6,51,MIN,MIN,fg_miss,6,True,False,MISS Teague 1' Driving Layup,,113-97,113,97
-0021900158,2019-11-13,MIN,SAS,41.15,4,6,51,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,113-97,113,97
 0021900158,2019-11-13,MIN,SAS,41.15,4,6,51,MIN,SAS,block,6,True,False,block,block,113-97,113,97
+0021900158,2019-11-13,MIN,SAS,41.15,4,6,51,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,113-97,113,97
 0021900158,2019-11-13,MIN,SAS,41.3,4,6,42,MIN,MIN,fg_make,6,False,False,Culver Driving Layup (10 PTS),,115-97,115,97
 0021900158,2019-11-13,MIN,SAS,41.57,4,6,26,SAS,SAS,fg_miss,79,False,False,,MISS Murray 11' Pullup Jump Shot,115-97,115,97
 0021900158,2019-11-13,MIN,SAS,41.62,4,6,23,MIN,MIN,reb,0,False,False,Graham REBOUND (Off:0 Def:2),,115-97,115,97

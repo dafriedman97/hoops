@@ -7,8 +7,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800259,2018-11-21,MIL,POR,0.67,1,11,20,POR,POR,tov,2,False,True,,Nurkic Lost Ball Turnover (P1.T1),2-0,2,0
 0021800259,2018-11-21,MIL,POR,0.67,1,11,20,POR,MIL,steal,2,False,True,steal,steal,2-0,2,0
 0021800259,2018-11-21,MIL,POR,0.9,1,11,6,MIL,MIL,fg_miss,78,True,False,MISS Bledsoe 15' Floating Jump Shot,,2-0,2,0
-0021800259,2018-11-21,MIL,POR,0.9,1,11,6,MIL,MIL,reb,0,False,False,BUCKS Rebound,,2-0,2,0
 0021800259,2018-11-21,MIL,POR,0.9,1,11,6,MIL,POR,block,78,True,False,block,block,2-0,2,0
+0021800259,2018-11-21,MIL,POR,0.9,1,11,6,MIL,MIL,reb,0,False,False,BUCKS Rebound,,2-0,2,0
 0021800259,2018-11-21,MIL,POR,1.0,1,11,0,MIL,MIL,fg_make,5,False,False,Bledsoe 2' Layup (2 PTS) (Antetokounmpo 1 AST),,4-0,4,0
 0021800259,2018-11-21,MIL,POR,1.35,1,10,39,POR,POR,fg_miss,78,False,False,,MISS Aminu 12' Floating Jump Shot,4-0,4,0
 0021800259,2018-11-21,MIL,POR,1.4,1,10,36,MIL,MIL,reb,0,False,False,Middleton REBOUND (Off:0 Def:1),,4-0,4,0
@@ -23,8 +23,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800259,2018-11-21,MIL,POR,2.85,1,9,9,MIL,POR,steal,1,False,True,steal,steal,11-2,11,2
 0021800259,2018-11-21,MIL,POR,2.97,1,9,2,POR,POR,fg3_make,1,False,False,,McCollum 27' 3PT Jump Shot (3 PTS),11-5,11,5
 0021800259,2018-11-21,MIL,POR,3.18,1,8,49,MIL,MIL,fg_miss,5,True,False,MISS Bledsoe 4' Layup,,11-5,11,5
-0021800259,2018-11-21,MIL,POR,3.18,1,8,49,MIL,MIL,reb,0,False,False,BUCKS Rebound,,11-5,11,5
 0021800259,2018-11-21,MIL,POR,3.18,1,8,49,MIL,POR,block,5,True,False,block,block,11-5,11,5
+0021800259,2018-11-21,MIL,POR,3.18,1,8,49,MIL,MIL,reb,0,False,False,BUCKS Rebound,,11-5,11,5
 0021800259,2018-11-21,MIL,POR,3.27,1,8,44,MIL,MIL,fg3_miss,1,False,False,MISS Lopez 27' 3PT Jump Shot,,11-5,11,5
 0021800259,2018-11-21,MIL,POR,3.28,1,8,43,MIL,MIL,reb,0,False,False,Brogdon REBOUND (Off:1 Def:0),,11-5,11,5
 0021800259,2018-11-21,MIL,POR,3.3,1,8,42,MIL,MIL,fg_make,72,False,False,Brogdon 1' Putback Layup (2 PTS),,13-5,13,5
@@ -50,15 +50,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800259,2018-11-21,MIL,POR,5.42,1,6,35,POR,POR,fg_miss,6,True,False,,MISS McCollum 3' Driving Layup,16-7,16,7
 0021800259,2018-11-21,MIL,POR,5.42,1,6,35,POR,MIL,block,6,True,False,block,block,16-7,16,7
 0021800259,2018-11-21,MIL,POR,5.48,1,6,31,MIL,MIL,reb,0,False,False,Lopez REBOUND (Off:0 Def:1),,16-7,16,7
-0021800259,2018-11-21,MIL,POR,5.52,1,6,29,MIL,MIL,fg_make,5,False,False,Antetokounmpo Layup (9 PTS) (Brogdon 1 AST),,18-7,18,7
 0021800259,2018-11-21,MIL,POR,5.52,1,6,29,MIL,POR,foul,2,False,False,,Nurkic S.FOUL (P1.T3) (B.Nansel),18-7,18,7
+0021800259,2018-11-21,MIL,POR,5.52,1,6,29,MIL,MIL,fg_make,5,False,False,Antetokounmpo Layup (9 PTS) (Brogdon 1 AST),,18-7,18,7
 0021800259,2018-11-21,MIL,POR,5.52,1,6,29,MIL,MIL,ft_miss,10,False,False,MISS Antetokounmpo Free Throw 1 of 1,,18-7,18,7
 0021800259,2018-11-21,MIL,POR,5.52,1,6,29,POR,POR,reb,0,False,False,,Aminu REBOUND (Off:0 Def:3),18-7,18,7
 0021800259,2018-11-21,MIL,POR,5.75,1,6,15,POR,POR,fg_miss,3,False,False,,MISS McCollum 9' Hook Shot,18-7,18,7
 0021800259,2018-11-21,MIL,POR,5.78,1,6,13,POR,POR,reb,0,False,False,,Nurkic REBOUND (Off:1 Def:1),18-7,18,7
 0021800259,2018-11-21,MIL,POR,5.8,1,6,12,POR,POR,fg_miss,72,False,False,,MISS Nurkic 2' Putback Layup,18-7,18,7
-0021800259,2018-11-21,MIL,POR,5.82,1,6,11,MIL,MIL,reb,0,False,False,BUCKS Rebound,,18-7,18,7
 0021800259,2018-11-21,MIL,POR,5.82,1,6,11,MIL,POR,foul,3,False,False,,Harkless L.B.FOUL (P2.T4) (C.Blair),18-7,18,7
+0021800259,2018-11-21,MIL,POR,5.82,1,6,11,MIL,MIL,reb,0,False,False,BUCKS Rebound,,18-7,18,7
 0021800259,2018-11-21,MIL,POR,6.1,1,5,54,MIL,MIL,fg_miss,9,False,False,MISS Connaughton 1' Driving Dunk,,18-7,18,7
 0021800259,2018-11-21,MIL,POR,6.23,1,5,46,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:2 Def:1),,18-7,18,7
 0021800259,2018-11-21,MIL,POR,6.23,1,5,46,MIL,MIL,fg_make,87,False,False,Antetokounmpo 1' Putback Dunk (11 PTS),,20-7,20,7
@@ -100,8 +100,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800259,2018-11-21,MIL,POR,10.88,1,1,7,POR,POR,tov,1,False,True,,Lillard Bad Pass Turnover (P2.T4),31-18,31,18
 0021800259,2018-11-21,MIL,POR,10.88,1,1,7,POR,MIL,steal,1,False,True,steal,steal,31-18,31,18
 0021800259,2018-11-21,MIL,POR,10.95,1,1,3,MIL,MIL,fg_miss,41,True,False,MISS Brogdon 2' Running Layup,,31-18,31,18
-0021800259,2018-11-21,MIL,POR,10.95,1,1,3,MIL,MIL,reb,0,False,False,BUCKS Rebound,,31-18,31,18
 0021800259,2018-11-21,MIL,POR,10.95,1,1,3,MIL,POR,block,41,True,False,block,block,31-18,31,18
+0021800259,2018-11-21,MIL,POR,10.95,1,1,3,MIL,MIL,reb,0,False,False,BUCKS Rebound,,31-18,31,18
 0021800259,2018-11-21,MIL,POR,10.98,1,1,1,POR,MIL,foul,4,False,False,Maker OFF.Foul (P1) (B.Nansel),,31-18,31,18
 0021800259,2018-11-21,MIL,POR,10.98,1,1,1,MIL,MIL,tov,37,False,False,Maker Offensive Foul Turnover (P1.T4),,31-18,31,18
 0021800259,2018-11-21,MIL,POR,11.3,1,0,42,POR,POR,fg_miss,1,False,False,,MISS Lillard 19' Jump Shot,31-18,31,18
@@ -112,9 +112,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800259,2018-11-21,MIL,POR,12.0,1,0,0,POR,MIL,foul,26,False,False,Brogdon Offensive Charge Foul (P1.PN) (P.Fraher),,31-20,31,20
 0021800259,2018-11-21,MIL,POR,12.0,1,0,0,MIL,MIL,tov,37,False,False,Brogdon Offensive Foul Turnover (P1.T5),,31-20,31,20
 0021800259,2018-11-21,MIL,POR,12.0,1,0,0,POR,POR,tov,1,False,True,,Leonard Bad Pass Turnover (P1.T5),31-20,31,20
+0021800259,2018-11-21,MIL,POR,12.0,1,0,0,POR,MIL,steal,1,False,True,steal,steal,31-20,31,20
 0021800259,2018-11-21,MIL,POR,12.0,1,0,0,POR,,period_end,0,False,False,,,31-20,31,20
 0021800259,2018-11-21,MIL,POR,12.0,2,12,0,POR,,period_start,0,False,False,,,31-20,31,20
-0021800259,2018-11-21,MIL,POR,12.0,1,0,0,POR,MIL,steal,1,False,True,steal,steal,31-20,31,20
 0021800259,2018-11-21,MIL,POR,12.37,2,11,38,POR,POR,fg3_miss,1,False,False,,MISS Turner 26' 3PT Jump Shot,31-20,31,20
 0021800259,2018-11-21,MIL,POR,12.43,2,11,34,MIL,MIL,reb,0,False,False,Ilyasova REBOUND (Off:0 Def:1),,31-20,31,20
 0021800259,2018-11-21,MIL,POR,12.6,2,11,24,MIL,MIL,fg3_miss,1,False,False,MISS Brogdon 26' 3PT Jump Shot,,31-20,31,20
@@ -290,12 +290,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800259,2018-11-21,MIL,POR,28.62,3,7,23,MIL,MIL,fg_make,79,False,False,Middleton 16' Pullup Jump Shot (21 PTS) (Antetokounmpo 5 AST),,87-62,87,62
 0021800259,2018-11-21,MIL,POR,28.8,3,7,12,POR,POR,fg3_make,1,False,False,,McCollum 27' 3PT Jump Shot (17 PTS) (Lillard 5 AST),87-65,87,65
 0021800259,2018-11-21,MIL,POR,28.92,3,7,5,MIL,MIL,fg_miss,6,True,False,MISS Antetokounmpo 2' Driving Layup,,87-65,87,65
-0021800259,2018-11-21,MIL,POR,28.92,3,7,5,MIL,MIL,reb,0,False,False,BUCKS Rebound,,87-65,87,65
 0021800259,2018-11-21,MIL,POR,28.92,3,7,5,MIL,POR,block,6,True,False,block,block,87-65,87,65
+0021800259,2018-11-21,MIL,POR,28.92,3,7,5,MIL,MIL,reb,0,False,False,BUCKS Rebound,,87-65,87,65
 0021800259,2018-11-21,MIL,POR,29.05,3,6,57,,MIL,jump_ball,0,False,False,Jump Ball Antetokounmpo vs. Aminu: Tip to Middleton,,87-65,87,65
 0021800259,2018-11-21,MIL,POR,29.05,3,6,57,MIL,MIL,fg_miss,101,True,False,MISS Middleton 3' Driving Floating Jump Shot,,87-65,87,65
-0021800259,2018-11-21,MIL,POR,29.05,3,6,57,MIL,MIL,reb,0,False,False,BUCKS Rebound,,87-65,87,65
 0021800259,2018-11-21,MIL,POR,29.05,3,6,57,MIL,POR,block,101,True,False,block,block,87-65,87,65
+0021800259,2018-11-21,MIL,POR,29.05,3,6,57,MIL,MIL,reb,0,False,False,BUCKS Rebound,,87-65,87,65
 0021800259,2018-11-21,MIL,POR,29.18,3,6,49,MIL,MIL,fg3_make,1,False,False,Connaughton 3PT Jump Shot (3 PTS) (Antetokounmpo 6 AST),,90-65,90,65
 0021800259,2018-11-21,MIL,POR,29.5,3,6,30,POR,POR,tov,1,False,True,,Lillard Bad Pass Turnover (P4.T11),90-65,90,65
 0021800259,2018-11-21,MIL,POR,29.5,3,6,30,POR,MIL,steal,1,False,True,steal,steal,90-65,90,65
@@ -334,10 +334,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800259,2018-11-21,MIL,POR,32.0,3,4,0,POR,MIL,foul,1,False,False,Middleton P.FOUL (P3.PN) (P.Fraher),,100-74,100,74
 0021800259,2018-11-21,MIL,POR,32.0,3,4,0,POR,POR,ft_make,10,False,False,,McCollum Free Throw 1 of 1 (22 PTS),100-75,100,75
 0021800259,2018-11-21,MIL,POR,32.22,3,3,47,MIL,MIL,fg3_miss,1,False,False,MISS Snell 3PT Jump Shot,,100-75,100,75
-0021800259,2018-11-21,MIL,POR,32.27,3,3,44,POR,POR,reb,0,False,False,,Aminu REBOUND (Off:0 Def:8),100-75,100,75
 0021800259,2018-11-21,MIL,POR,32.27,3,3,44,POR,MIL,foul,1,False,False,Maker P.FOUL (P2.PN) (B.Nansel),,100-75,100,75
 0021800259,2018-11-21,MIL,POR,32.27,3,3,44,POR,POR,ft_make,11,False,False,,Aminu Free Throw 1 of 2 (1 PTS),100-76,100,76
 0021800259,2018-11-21,MIL,POR,32.27,3,3,44,POR,POR,ft_make,12,False,False,,Aminu Free Throw 2 of 2 (2 PTS),100-77,100,77
+0021800259,2018-11-21,MIL,POR,32.27,3,3,44,POR,POR,reb,0,False,False,,Aminu REBOUND (Off:0 Def:8),100-75,100,75
 0021800259,2018-11-21,MIL,POR,32.5,3,3,30,MIL,MIL,tov,1,False,True,Antetokounmpo Bad Pass Turnover (P3.T10),,100-77,100,77
 0021800259,2018-11-21,MIL,POR,32.5,3,3,30,MIL,POR,steal,1,False,True,steal,steal,100-77,100,77
 0021800259,2018-11-21,MIL,POR,32.58,3,3,25,POR,POR,fg_miss,41,False,False,,MISS McCollum 1' Running Layup,100-77,100,77
@@ -350,8 +350,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800259,2018-11-21,MIL,POR,33.07,3,2,56,POR,POR,fg3_miss,1,False,False,,MISS Aminu 3PT Jump Shot,100-79,100,79
 0021800259,2018-11-21,MIL,POR,33.15,3,2,51,MIL,MIL,reb,0,False,False,Connaughton REBOUND (Off:1 Def:2),,100-79,100,79
 0021800259,2018-11-21,MIL,POR,33.28,3,2,43,MIL,MIL,fg3_miss,1,False,False,MISS Antetokounmpo 26' 3PT Jump Shot,,100-79,100,79
-0021800259,2018-11-21,MIL,POR,33.32,3,2,41,POR,POR,reb,0,False,False,,Trail Blazers Rebound,100-79,100,79
 0021800259,2018-11-21,MIL,POR,33.32,3,2,41,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.3 Short 0),100-79,100,79
+0021800259,2018-11-21,MIL,POR,33.32,3,2,41,POR,POR,reb,0,False,False,,Trail Blazers Rebound,100-79,100,79
 0021800259,2018-11-21,MIL,POR,33.6,3,2,24,POR,POR,fg3_miss,1,False,False,,MISS Aminu 28' 3PT Jump Shot,100-79,100,79
 0021800259,2018-11-21,MIL,POR,33.65,3,2,21,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:5 Def:8),,100-79,100,79
 0021800259,2018-11-21,MIL,POR,33.77,3,2,14,MIL,MIL,fg3_make,1,False,False,Snell 26' 3PT Jump Shot (6 PTS) (Antetokounmpo 7 AST),,103-79,103,79
@@ -392,8 +392,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800259,2018-11-21,MIL,POR,37.92,4,10,5,MIL,MIL,fg_make,1,False,False,Brown 11' Jump Shot (4 PTS) (Wood 1 AST),,113-81,113,81
 0021800259,2018-11-21,MIL,POR,38.08,4,9,55,POR,POR,fg_miss,1,False,False,,MISS Baldwin IV 18' Jump Shot,113-81,113,81
 0021800259,2018-11-21,MIL,POR,38.1,4,9,54,POR,POR,reb,0,False,False,,Trail Blazers Rebound,113-81,113,81
-0021800259,2018-11-21,MIL,POR,38.12,4,9,53,POR,MIL,foul,1,False,False,Brown P.FOUL (P1.T1) (B.Nansel),,113-81,113,81
 0021800259,2018-11-21,MIL,POR,38.12,4,9,53,POR,,foul,16,False,False,,,113-81,113,81
+0021800259,2018-11-21,MIL,POR,38.12,4,9,53,POR,MIL,foul,1,False,False,Brown P.FOUL (P1.T1) (B.Nansel),,113-81,113,81
 0021800259,2018-11-21,MIL,POR,38.2,4,9,48,POR,POR,fg3_miss,1,False,False,,MISS Stauskas 25' 3PT Jump Shot,113-81,113,81
 0021800259,2018-11-21,MIL,POR,38.23,4,9,46,MIL,MIL,reb,0,False,False,Wood REBOUND (Off:0 Def:2),,113-81,113,81
 0021800259,2018-11-21,MIL,POR,38.38,4,9,37,MIL,MIL,fg3_miss,1,False,False,MISS Brown 25' 3PT Jump Shot,,113-81,113,81
@@ -416,8 +416,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800259,2018-11-21,MIL,POR,40.58,4,7,25,POR,POR,tov,1,False,True,,Baldwin IV Bad Pass Turnover (P1.T13),120-86,120,86
 0021800259,2018-11-21,MIL,POR,40.58,4,7,25,POR,MIL,steal,1,False,True,steal,steal,120-86,120,86
 0021800259,2018-11-21,MIL,POR,40.65,4,7,21,MIL,MIL,fg_miss,5,True,False,MISS Maker 3' Layup,,120-86,120,86
-0021800259,2018-11-21,MIL,POR,40.65,4,7,21,MIL,MIL,reb,0,False,False,BUCKS Rebound,,120-86,120,86
 0021800259,2018-11-21,MIL,POR,40.65,4,7,21,MIL,POR,block,5,True,False,block,block,120-86,120,86
+0021800259,2018-11-21,MIL,POR,40.65,4,7,21,MIL,MIL,reb,0,False,False,BUCKS Rebound,,120-86,120,86
 0021800259,2018-11-21,MIL,POR,40.7,4,7,18,MIL,MIL,fg_make,98,False,False,Morris 2' Cutting Layup Shot (4 PTS) (Brown 1 AST),,122-86,122,86
 0021800259,2018-11-21,MIL,POR,40.97,4,7,2,POR,POR,fg3_miss,1,False,False,,MISS Swanigan 3PT Jump Shot,122-86,122,86
 0021800259,2018-11-21,MIL,POR,41.02,4,6,59,MIL,MIL,reb,0,False,False,Maker REBOUND (Off:1 Def:4),,122-86,122,86

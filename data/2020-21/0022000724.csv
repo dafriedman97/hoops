@@ -2,8 +2,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000724,2021-03-31,BKN,HOU,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
 0022000724,2021-03-31,BKN,HOU,0.0,1,12,0,,BKN,jump_ball,0,False,False,Jump Ball Jordan vs. Wood: Tip to Brown,,0-0,0,0
 0022000724,2021-03-31,BKN,HOU,0.3,1,11,42,BKN,BKN,tov,2,False,True,Harden Lost Ball Turnover (P1.T1),,0-0,0,0
-0022000724,2021-03-31,BKN,HOU,0.3,1,11,42,HOU,BKN,foul,28,False,False,Jordan Personal Take Foul (P1.T1) (M.Ervin),,0-0,0,0
 0022000724,2021-03-31,BKN,HOU,0.3,1,11,42,BKN,HOU,steal,2,False,True,steal,steal,0-0,0,0
+0022000724,2021-03-31,BKN,HOU,0.3,1,11,42,HOU,BKN,foul,28,False,False,Jordan Personal Take Foul (P1.T1) (M.Ervin),,0-0,0,0
 0022000724,2021-03-31,BKN,HOU,0.55,1,11,27,HOU,HOU,fg_make,79,False,False,,House Jr. 13' Pullup Jump Shot (2 PTS),0-2,0,2
 0022000724,2021-03-31,BKN,HOU,0.77,1,11,14,BKN,BKN,fg3_miss,1,False,False,MISS Harris 25' 3PT Jump Shot,,0-2,0,2
 0022000724,2021-03-31,BKN,HOU,0.83,1,11,10,HOU,HOU,reb,0,False,False,,Wood REBOUND (Off:0 Def:1),0-2,0,2
@@ -63,8 +63,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000724,2021-03-31,BKN,HOU,8.35,1,3,39,HOU,BKN,foul,1,False,False,Harden P.FOUL (P1.T4) (B.Taylor),,19-30,19,30
 0022000724,2021-03-31,BKN,HOU,8.58,1,3,25,HOU,HOU,fg3_make,1,False,False,,House Jr. 24' 3PT Jump Shot (12 PTS) (Wood 2 AST),19-33,19,33
 0022000724,2021-03-31,BKN,HOU,8.8,1,3,12,BKN,BKN,fg_miss,6,True,False,MISS Irving 2' Driving Layup,,19-33,19,33
-0022000724,2021-03-31,BKN,HOU,8.8,1,3,12,BKN,BKN,reb,0,False,False,NETS Rebound,,19-33,19,33
 0022000724,2021-03-31,BKN,HOU,8.8,1,3,12,BKN,HOU,block,6,True,False,block,block,19-33,19,33
+0022000724,2021-03-31,BKN,HOU,8.8,1,3,12,BKN,BKN,reb,0,False,False,NETS Rebound,,19-33,19,33
 0022000724,2021-03-31,BKN,HOU,8.85,1,3,9,BKN,BKN,fg_miss,5,False,False,MISS Johnson 1' Layup,,19-33,19,33
 0022000724,2021-03-31,BKN,HOU,8.88,1,3,7,HOU,HOU,reb,0,False,False,,House Jr. REBOUND (Off:0 Def:4),19-33,19,33
 0022000724,2021-03-31,BKN,HOU,8.93,1,3,4,HOU,HOU,tov,1,False,True,,House Jr. Bad Pass Turnover (P1.T2),19-33,19,33
@@ -155,8 +155,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000724,2021-03-31,BKN,HOU,18.35,2,5,39,HOU,HOU,reb,0,False,False,,Rockets Rebound,44-55,44,55
 0022000724,2021-03-31,BKN,HOU,18.35,2,5,39,HOU,BKN,foul,3,False,False,Claxton L.B.FOUL (P2.T4) (M.Ervin),,44-55,44,55
 0022000724,2021-03-31,BKN,HOU,18.55,2,5,27,HOU,HOU,fg3_miss,80,False,False,,MISS House Jr. 26' 3PT Step Back Jump Shot,44-55,44,55
-0022000724,2021-03-31,BKN,HOU,18.68,2,5,19,HOU,HOU,fg_make,72,False,False,,Martin Jr. Putback Layup (2 PTS),44-57,44,57
 0022000724,2021-03-31,BKN,HOU,18.68,2,5,19,HOU,HOU,reb,0,False,False,,Martin Jr. REBOUND (Off:2 Def:0),44-57,44,57
+0022000724,2021-03-31,BKN,HOU,18.68,2,5,19,HOU,HOU,fg_make,72,False,False,,Martin Jr. Putback Layup (2 PTS),44-57,44,57
 0022000724,2021-03-31,BKN,HOU,18.82,2,5,11,BKN,HOU,foul,3,False,False,,Brown L.B.FOUL (P2.T3) (B.Taylor),44-57,44,57
 0022000724,2021-03-31,BKN,HOU,18.92,2,5,5,BKN,BKN,fg3_miss,1,False,False,MISS Irving 27' 3PT Jump Shot,,44-57,44,57
 0022000724,2021-03-31,BKN,HOU,18.98,2,5,1,BKN,BKN,reb,0,False,False,Claxton REBOUND (Off:1 Def:0),,44-57,44,57
@@ -276,8 +276,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000724,2021-03-31,BKN,HOU,32.28,3,3,43,HOU,HOU,tov,1,False,True,,Porter Jr. Bad Pass Turnover (P1.T6),75-82,75,82
 0022000724,2021-03-31,BKN,HOU,32.28,3,3,43,HOU,BKN,steal,1,False,True,steal,steal,75-82,75,82
 0022000724,2021-03-31,BKN,HOU,32.33,3,3,40,BKN,BKN,fg_miss,6,True,False,MISS Green 3' Driving Layup,,75-82,75,82
-0022000724,2021-03-31,BKN,HOU,32.33,3,3,40,HOU,HOU,reb,0,False,False,,Rockets Rebound,75-82,75,82
 0022000724,2021-03-31,BKN,HOU,32.33,3,3,40,BKN,HOU,block,6,True,False,block,block,75-82,75,82
+0022000724,2021-03-31,BKN,HOU,32.33,3,3,40,HOU,HOU,reb,0,False,False,,Rockets Rebound,75-82,75,82
 0022000724,2021-03-31,BKN,HOU,32.4,3,3,36,HOU,HOU,tov,1,False,True,,House Jr. Bad Pass Turnover (P2.T7),75-82,75,82
 0022000724,2021-03-31,BKN,HOU,32.4,3,3,36,HOU,BKN,steal,1,False,True,steal,steal,75-82,75,82
 0022000724,2021-03-31,BKN,HOU,32.58,3,3,25,BKN,BKN,fg_miss,5,False,False,MISS Irving 2' Layup,,75-82,75,82
@@ -296,16 +296,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000724,2021-03-31,BKN,HOU,33.67,3,2,20,HOU,BKN,block,1,True,False,block,block,81-82,81,82
 0022000724,2021-03-31,BKN,HOU,33.73,3,2,16,BKN,BKN,reb,0,False,False,Harris REBOUND (Off:0 Def:4),,81-82,81,82
 0022000724,2021-03-31,BKN,HOU,33.85,3,2,9,BKN,BKN,fg_miss,6,True,False,MISS Harris 2' Driving Layup,,81-82,81,82
-0022000724,2021-03-31,BKN,HOU,33.85,3,2,9,HOU,HOU,reb,0,False,False,,Rockets Rebound,81-82,81,82
 0022000724,2021-03-31,BKN,HOU,33.85,3,2,9,BKN,HOU,block,6,True,False,block,block,81-82,81,82
+0022000724,2021-03-31,BKN,HOU,33.85,3,2,9,HOU,HOU,reb,0,False,False,,Rockets Rebound,81-82,81,82
 0022000724,2021-03-31,BKN,HOU,34.18,3,1,49,HOU,HOU,fg_miss,78,False,False,,MISS Augustin 10' Floating Jump Shot,81-82,81,82
 0022000724,2021-03-31,BKN,HOU,34.2,3,1,48,HOU,HOU,reb,0,False,False,,Rockets Rebound,81-82,81,82
 0022000724,2021-03-31,BKN,HOU,34.2,3,1,48,HOU,BKN,foul,3,False,False,Luwawu-Cabarrot L.B.FOUL (P1.PN) (C.Washington),,81-82,81,82
 0022000724,2021-03-31,BKN,HOU,34.2,3,1,48,HOU,HOU,ft_make,11,False,False,,Olynyk Free Throw 1 of 2 (9 PTS),81-83,81,83
 0022000724,2021-03-31,BKN,HOU,34.2,3,1,48,HOU,HOU,ft_make,12,False,False,,Olynyk Free Throw 2 of 2 (10 PTS),81-84,81,84
 0022000724,2021-03-31,BKN,HOU,34.4,3,1,36,BKN,BKN,fg_miss,101,False,False,MISS Green 8' Driving Floating Jump Shot,,81-84,81,84
-0022000724,2021-03-31,BKN,HOU,34.48,3,1,31,BKN,BKN,fg_make,107,False,False,Griffin Tip Dunk Shot (5 PTS),,83-84,83,84
 0022000724,2021-03-31,BKN,HOU,34.48,3,1,31,BKN,BKN,reb,0,False,False,Griffin REBOUND (Off:1 Def:2),,83-84,83,84
+0022000724,2021-03-31,BKN,HOU,34.48,3,1,31,BKN,BKN,fg_make,107,False,False,Griffin Tip Dunk Shot (5 PTS),,83-84,83,84
 0022000724,2021-03-31,BKN,HOU,34.78,3,1,13,HOU,BKN,foul,2,False,False,Griffin S.FOUL (P1.PN) (B.Taylor),,83-84,83,84
 0022000724,2021-03-31,BKN,HOU,34.78,3,1,13,HOU,HOU,ft_miss,11,False,False,,MISS House Jr. Free Throw 1 of 2,83-84,83,84
 0022000724,2021-03-31,BKN,HOU,34.78,3,1,13,HOU,HOU,reb,1,False,False,,Rockets Rebound,83-84,83,84
@@ -387,10 +387,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000724,2021-03-31,BKN,HOU,44.33,4,3,40,BKN,BKN,reb,0,False,False,Claxton REBOUND (Off:4 Def:4),,107-101,107,101
 0022000724,2021-03-31,BKN,HOU,44.48,4,3,31,BKN,HOU,violation,5,False,False,,Wood Violation:Kicked Ball (C.Washington),107-101,107,101
 0022000724,2021-03-31,BKN,HOU,44.48,4,3,31,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 4 Short 0),,107-101,107,101
-0022000724,2021-03-31,BKN,HOU,44.63,4,3,22,BKN,BKN,fg_miss,5,True,False,MISS Claxton 6' Layup,,107-101,107,101
-0022000724,2021-03-31,BKN,HOU,44.63,4,3,22,HOU,HOU,reb,0,False,False,,Rockets Rebound,107-101,107,101
 0022000724,2021-03-31,BKN,HOU,44.63,4,3,22,HOU,HOU,timeout,7,False,False,,Rockets Timeout: Coach Challenge (Reg.5 Short 0),107-101,107,101
+0022000724,2021-03-31,BKN,HOU,44.63,4,3,22,BKN,BKN,fg_miss,5,True,False,MISS Claxton 6' Layup,,107-101,107,101
 0022000724,2021-03-31,BKN,HOU,44.63,4,3,22,BKN,HOU,block,5,True,False,block,block,107-101,107,101
+0022000724,2021-03-31,BKN,HOU,44.63,4,3,22,HOU,HOU,reb,0,False,False,,Rockets Rebound,107-101,107,101
 0022000724,2021-03-31,BKN,HOU,44.68,4,3,19,,BKN,jump_ball,1,False,False,Jump Ball (CC) Claxton vs. Wood: Tip to Porter Jr.,,107-101,107,101
 0022000724,2021-03-31,BKN,HOU,44.77,4,3,14,HOU,HOU,fg_make,43,False,False,,Wood 1' Alley Oop Layup (14 PTS) (Porter Jr. 5 AST),107-103,107,103
 0022000724,2021-03-31,BKN,HOU,44.95,4,3,3,BKN,BKN,fg_make,6,False,False,Irving Driving Layup (31 PTS),,109-103,109,103

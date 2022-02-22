@@ -37,8 +37,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800631,2019-01-12,MIA,MEM,4.33,1,7,40,MEM,MEM,ft_make,12,False,False,,Jackson Jr. Free Throw 2 of 2 (4 PTS),7-19,7,19
 0021800631,2019-01-12,MIA,MEM,4.37,1,7,38,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 1 Short 0),,7-19,7,19
 0021800631,2019-01-12,MIA,MEM,4.65,1,7,21,MIA,MIA,fg_miss,1,True,False,MISS Jones Jr. 5' Jump Shot,,7-19,7,19
-0021800631,2019-01-12,MIA,MEM,4.65,1,7,21,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:2 Def:0),,7-19,7,19
 0021800631,2019-01-12,MIA,MEM,4.65,1,7,21,MIA,MEM,block,1,True,False,block,block,7-19,7,19
+0021800631,2019-01-12,MIA,MEM,4.65,1,7,21,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:2 Def:0),,7-19,7,19
 0021800631,2019-01-12,MIA,MEM,4.65,1,7,21,MIA,MIA,fg_make,72,False,False,Adebayo 1' Putback Layup (2 PTS),,9-19,9,19
 0021800631,2019-01-12,MIA,MEM,4.65,1,7,21,MIA,MEM,foul,2,False,False,,Gasol S.FOUL (P1.T2) (B.Barnaky),9-19,9,19
 0021800631,2019-01-12,MIA,MEM,4.65,1,7,21,MIA,MIA,ft_miss,10,False,False,MISS Adebayo Free Throw 1 of 1,,9-19,9,19
@@ -76,8 +76,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800631,2019-01-12,MIA,MEM,9.87,1,2,8,MEM,MEM,fg3_miss,1,False,False,,MISS Holiday 3PT Jump Shot,25-28,25,28
 0021800631,2019-01-12,MIA,MEM,9.9,1,2,6,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:2 Def:1),,25-28,25,28
 0021800631,2019-01-12,MIA,MEM,10.03,1,1,58,MIA,MIA,fg_miss,101,True,False,MISS Jones Jr. 5' Driving Floating Jump Shot,,25-28,25,28
-0021800631,2019-01-12,MIA,MEM,10.03,1,1,58,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:3 Def:1),,25-28,25,28
 0021800631,2019-01-12,MIA,MEM,10.03,1,1,58,MIA,MEM,block,101,True,False,block,block,25-28,25,28
+0021800631,2019-01-12,MIA,MEM,10.03,1,1,58,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:3 Def:1),,25-28,25,28
 0021800631,2019-01-12,MIA,MEM,10.2,1,1,48,MIA,MIA,fg3_make,1,False,False,Jones Jr. 3PT Jump Shot (7 PTS) (Winslow 3 AST),,28-28,28,28
 0021800631,2019-01-12,MIA,MEM,10.55,1,1,27,MEM,MEM,tov,1,False,True,,Mack Bad Pass Turnover (P1.T1),28-28,28,28
 0021800631,2019-01-12,MIA,MEM,10.55,1,1,27,MEM,MIA,steal,1,False,True,steal,steal,28-28,28,28
@@ -194,8 +194,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800631,2019-01-12,MIA,MEM,23.12,2,0,53,MIA,MIA,fg_make,98,False,False,Wade 1' Cutting Layup Shot (6 PTS) (Richardson 6 AST),,61-57,61,57
 0021800631,2019-01-12,MIA,MEM,23.35,2,0,39,MEM,MEM,fg_make,47,False,False,,Gasol 11' Turnaround Jump Shot (6 PTS) (Conley 4 AST),61-59,61,59
 0021800631,2019-01-12,MIA,MEM,23.65,2,0,21,MIA,MIA,tov,2,False,True,Winslow Lost Ball Turnover (P2.T7),,61-59,61,59
-0021800631,2019-01-12,MIA,MEM,23.65,2,0,21,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.4 Short 0),61-59,61,59
 0021800631,2019-01-12,MIA,MEM,23.65,2,0,21,MIA,MEM,steal,2,False,True,steal,steal,61-59,61,59
+0021800631,2019-01-12,MIA,MEM,23.65,2,0,21,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.4 Short 0),61-59,61,59
 0021800631,2019-01-12,MIA,MEM,23.93,2,0,4,MEM,MEM,fg_make,47,False,False,,Gasol 4' Turnaround Jump Shot (8 PTS),61-61,61,61
 0021800631,2019-01-12,MIA,MEM,24.0,2,0,0,MIA,MIA,fg_make,47,False,False,Wade 17' Turnaround Jump Shot (8 PTS),,63-61,63,61
 0021800631,2019-01-12,MIA,MEM,24.0,2,0,0,MIA,,period_end,0,False,False,,,63-61,63,61
@@ -296,15 +296,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800631,2019-01-12,MIA,MEM,35.47,3,0,32,MEM,MEM,fg3_miss,79,False,False,,MISS Mack 25' 3PT Pullup Jump Shot,91-83,91,83
 0021800631,2019-01-12,MIA,MEM,35.5,3,0,30,MEM,MEM,reb,0,False,False,,Green REBOUND (Off:4 Def:5),91-83,91,83
 0021800631,2019-01-12,MIA,MEM,35.5,3,0,30,MEM,MEM,fg_miss,5,True,False,,MISS Green 2' Layup,91-83,91,83
-0021800631,2019-01-12,MIA,MEM,35.5,3,0,30,MIA,MIA,reb,0,False,False,HEAT Rebound,,91-83,91,83
 0021800631,2019-01-12,MIA,MEM,35.5,3,0,30,MEM,MIA,block,5,True,False,block,block,91-83,91,83
+0021800631,2019-01-12,MIA,MEM,35.5,3,0,30,MIA,MIA,reb,0,False,False,HEAT Rebound,,91-83,91,83
 0021800631,2019-01-12,MIA,MEM,35.87,3,0,8,MIA,MIA,tov,2,False,True,Jones Jr. Lost Ball Turnover (P1.T10),,91-83,91,83
 0021800631,2019-01-12,MIA,MEM,35.87,3,0,8,MIA,MEM,steal,2,False,True,steal,steal,91-83,91,83
 0021800631,2019-01-12,MIA,MEM,35.95,3,0,3,MEM,MEM,fg3_miss,103,False,False,,MISS Carter 25' 3PT Running Pull-Up Jump Shot,91-83,91,83
 0021800631,2019-01-12,MIA,MEM,35.97,3,0,2,MIA,MIA,reb,0,False,False,Jones Jr. REBOUND (Off:0 Def:3),,91-83,91,83
 0021800631,2019-01-12,MIA,MEM,35.98,3,0,1,MIA,MIA,fg3_miss,1,True,False,MISS Jones Jr. 40' 3PT Jump Shot,,91-83,91,83
-0021800631,2019-01-12,MIA,MEM,35.98,3,0,1,MIA,MIA,reb,0,False,False,HEAT Rebound,,91-83,91,83
 0021800631,2019-01-12,MIA,MEM,35.98,3,0,1,MIA,MEM,block,1,True,False,block,block,91-83,91,83
+0021800631,2019-01-12,MIA,MEM,35.98,3,0,1,MIA,MIA,reb,0,False,False,HEAT Rebound,,91-83,91,83
 0021800631,2019-01-12,MIA,MEM,36.0,3,0,0,MIA,,period_end,0,False,False,,,91-83,91,83
 0021800631,2019-01-12,MIA,MEM,36.0,4,12,0,MIA,,period_start,0,False,False,,,91-83,91,83
 0021800631,2019-01-12,MIA,MEM,36.2,4,11,48,MEM,MEM,tov,1,False,True,,Noah Bad Pass Turnover (P1.T9),91-83,91,83

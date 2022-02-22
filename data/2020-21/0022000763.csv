@@ -100,9 +100,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000763,2021-04-05,TOR,WAS,11.53,1,0,28,WAS,TOR,block,6,True,False,block,block,19-26,19,26
 0022000763,2021-04-05,TOR,WAS,11.55,1,0,27,WAS,WAS,reb,0,False,False,,Wizards Rebound,19-26,19,26
 0022000763,2021-04-05,TOR,WAS,11.87,1,0,8,WAS,WAS,fg_make,79,False,False,,Smith 22' Pullup Jump Shot (2 PTS),19-28,19,28
-0022000763,2021-04-05,TOR,WAS,11.98,1,0,1,TOR,TOR,tov,40,False,False,Siakam Out of Bounds Lost Ball Turnover (P2.T3),,19-28,19,28
 0022000763,2021-04-05,TOR,WAS,11.98,1,0,1,WAS,WAS,tov,2,False,True,,Hutchison Lost Ball Turnover (P1.T4),19-28,19,28
 0022000763,2021-04-05,TOR,WAS,11.98,1,0,1,WAS,TOR,steal,2,False,True,steal,steal,19-28,19,28
+0022000763,2021-04-05,TOR,WAS,11.98,1,0,1,TOR,TOR,tov,40,False,False,Siakam Out of Bounds Lost Ball Turnover (P2.T3),,19-28,19,28
 0022000763,2021-04-05,TOR,WAS,12.0,1,0,0,WAS,,period_end,0,False,False,,,19-28,19,28
 0022000763,2021-04-05,TOR,WAS,12.0,2,12,0,WAS,TOR,foul,11,False,False,Siakam T.FOUL (P1.T0) (B.Forte),,19-28,19,28
 0022000763,2021-04-05,TOR,WAS,12.0,2,12,0,WAS,WAS,ft_make,16,False,False,,Mathews Free Throw Technical (6 PTS),19-29,19,29
@@ -275,8 +275,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000763,2021-04-05,TOR,WAS,30.75,3,5,15,WAS,WAS,tov,1,False,True,,Len Bad Pass Turnover (P2.T14),70-78,70,78
 0022000763,2021-04-05,TOR,WAS,30.75,3,5,15,WAS,TOR,steal,1,False,True,steal,steal,70-78,70,78
 0022000763,2021-04-05,TOR,WAS,30.8,3,5,12,TOR,TOR,tov,1,False,True,Boucher Bad Pass Turnover (P1.T6),,70-78,70,78
-0022000763,2021-04-05,TOR,WAS,30.8,3,5,12,WAS,TOR,foul,2,False,False,Bembry S.FOUL (P4.T3) (K.Scott),,70-78,70,78
 0022000763,2021-04-05,TOR,WAS,30.8,3,5,12,TOR,WAS,steal,1,False,True,steal,steal,70-78,70,78
+0022000763,2021-04-05,TOR,WAS,30.8,3,5,12,WAS,TOR,foul,2,False,False,Bembry S.FOUL (P4.T3) (K.Scott),,70-78,70,78
 0022000763,2021-04-05,TOR,WAS,30.8,3,5,12,WAS,WAS,ft_make,11,False,False,,Hutchison Free Throw 1 of 2 (1 PTS),70-79,70,79
 0022000763,2021-04-05,TOR,WAS,30.8,3,5,12,WAS,WAS,ft_make,12,False,False,,Hutchison Free Throw 2 of 2 (2 PTS),70-80,70,80
 0022000763,2021-04-05,TOR,WAS,31.03,3,4,58,TOR,TOR,fg_miss,86,False,False,MISS Anunoby 9' Turnaround Fadeaway Shot,,70-80,70,80
@@ -368,8 +368,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000763,2021-04-05,TOR,WAS,40.3,4,7,42,TOR,TOR,fg_miss,44,False,False,MISS Baynes 2' Reverse Layup,,87-90,87,90
 0022000763,2021-04-05,TOR,WAS,40.32,4,7,41,TOR,TOR,reb,0,False,False,Baynes REBOUND (Off:3 Def:3),,87-90,87,90
 0022000763,2021-04-05,TOR,WAS,40.35,4,7,39,TOR,TOR,fg_miss,5,True,False,MISS Anunoby 6' Layup,,87-90,87,90
-0022000763,2021-04-05,TOR,WAS,40.35,4,7,39,TOR,TOR,reb,0,False,False,Watanabe REBOUND (Off:1 Def:2),,87-90,87,90
 0022000763,2021-04-05,TOR,WAS,40.35,4,7,39,TOR,WAS,block,5,True,False,block,block,87-90,87,90
+0022000763,2021-04-05,TOR,WAS,40.35,4,7,39,TOR,TOR,reb,0,False,False,Watanabe REBOUND (Off:1 Def:2),,87-90,87,90
 0022000763,2021-04-05,TOR,WAS,40.52,4,7,29,TOR,TOR,fg_make,101,False,False,Bembry 3' Driving Floating Jump Shot (13 PTS),,89-90,89,90
 0022000763,2021-04-05,TOR,WAS,40.72,4,7,17,WAS,WAS,fg_miss,79,False,False,,MISS Westbrook 19' Pullup Jump Shot,89-90,89,90
 0022000763,2021-04-05,TOR,WAS,40.75,4,7,15,TOR,TOR,reb,0,False,False,Baynes REBOUND (Off:3 Def:4),,89-90,89,90

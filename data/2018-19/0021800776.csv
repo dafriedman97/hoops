@@ -39,8 +39,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800776,2019-02-02,CHA,CHI,5.53,1,6,28,CHI,CHI,tov,1,False,True,,Dunn Bad Pass Turnover (P1.T2),12-12,12,12
 0021800776,2019-02-02,CHA,CHI,5.53,1,6,28,CHI,CHA,steal,1,False,True,steal,steal,12-12,12,12
 0021800776,2019-02-02,CHA,CHI,5.6,1,6,24,CHA,CHA,fg_miss,6,True,False,MISS Walker 2' Driving Layup,,12-12,12,12
-0021800776,2019-02-02,CHA,CHI,5.6,1,6,24,CHA,CHA,reb,0,False,False,Batum REBOUND (Off:1 Def:2),,12-12,12,12
 0021800776,2019-02-02,CHA,CHI,5.6,1,6,24,CHA,CHI,block,6,True,False,block,block,12-12,12,12
+0021800776,2019-02-02,CHA,CHI,5.6,1,6,24,CHA,CHA,reb,0,False,False,Batum REBOUND (Off:1 Def:2),,12-12,12,12
 0021800776,2019-02-02,CHA,CHI,5.6,1,6,24,CHA,CHA,fg_make,72,False,False,Batum 1' Putback Layup (5 PTS),,14-12,14,12
 0021800776,2019-02-02,CHA,CHI,5.6,1,6,24,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.1 Short 0),14-12,14,12
 0021800776,2019-02-02,CHA,CHI,5.77,1,6,14,CHI,CHI,fg_miss,1,False,False,,MISS Dunn 19' Jump Shot,14-12,14,12
@@ -95,9 +95,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800776,2019-02-02,CHA,CHI,11.9,1,0,6,CHA,CHI,foul,4,False,False,,Arcidiacono OFF.Foul (P2) (J.DeRosa),27-26,27,26
 0021800776,2019-02-02,CHA,CHI,11.9,1,0,6,CHI,CHI,tov,37,False,False,,Arcidiacono Offensive Foul Turnover (P1.T4),27-26,27,26
 0021800776,2019-02-02,CHA,CHI,12.0,1,0,0,CHA,CHA,tov,2,False,True,Monk Lost Ball Turnover (P1.T2),,27-26,27,26
+0021800776,2019-02-02,CHA,CHI,12.0,1,0,0,CHA,CHI,steal,2,False,True,steal,steal,27-26,27,26
 0021800776,2019-02-02,CHA,CHI,12.0,1,0,0,CHA,,period_end,0,False,False,,,27-26,27,26
 0021800776,2019-02-02,CHA,CHI,12.0,2,12,0,CHA,,period_start,0,False,False,,,27-26,27,26
-0021800776,2019-02-02,CHA,CHI,12.0,1,0,0,CHA,CHI,steal,2,False,True,steal,steal,27-26,27,26
 0021800776,2019-02-02,CHA,CHI,12.43,2,11,34,CHA,CHA,fg3_miss,1,False,False,MISS Hernangomez 24' 3PT Jump Shot,,27-26,27,26
 0021800776,2019-02-02,CHA,CHI,12.48,2,11,31,CHI,CHI,reb,0,False,False,,Sampson REBOUND (Off:0 Def:1),27-26,27,26
 0021800776,2019-02-02,CHA,CHI,12.68,2,11,19,CHI,CHI,fg_miss,1,False,False,,MISS Portis 18' Jump Shot,27-26,27,26
@@ -266,8 +266,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800776,2019-02-02,CHA,CHI,32.82,3,3,11,CHA,CHA,reb,0,False,False,Walker REBOUND (Off:1 Def:4),,75-79,75,79
 0021800776,2019-02-02,CHA,CHI,33.03,3,2,58,CHA,CHA,fg_make,75,False,False,Walker 1' Driving Finger Roll Layup (20 PTS),,77-79,77,79
 0021800776,2019-02-02,CHA,CHI,33.38,3,2,37,CHI,CHI,tov,2,False,True,,Portis Lost Ball Turnover (P1.T8),77-79,77,79
-0021800776,2019-02-02,CHA,CHI,33.38,3,2,37,CHA,CHI,foul,1,False,False,,Portis P.FOUL (P2.PN) (J.DeRosa),77-79,77,79
 0021800776,2019-02-02,CHA,CHI,33.38,3,2,37,CHI,CHA,steal,2,False,True,steal,steal,77-79,77,79
+0021800776,2019-02-02,CHA,CHI,33.38,3,2,37,CHA,CHI,foul,1,False,False,,Portis P.FOUL (P2.PN) (J.DeRosa),77-79,77,79
 0021800776,2019-02-02,CHA,CHI,33.38,3,2,37,CHA,CHA,ft_make,11,False,False,Walker Free Throw 1 of 2 (21 PTS),,78-79,78,79
 0021800776,2019-02-02,CHA,CHI,33.38,3,2,37,CHA,CHA,ft_make,12,False,False,Walker Free Throw 2 of 2 (22 PTS),,79-79,79,79
 0021800776,2019-02-02,CHA,CHI,33.7,3,2,18,CHI,CHA,foul,2,False,False,Williams S.FOUL (P2.PN) (J.DeRosa),,79-79,79,79
@@ -280,8 +280,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800776,2019-02-02,CHA,CHI,34.35,3,1,39,CHA,CHA,reb,0,False,False,Williams REBOUND (Off:1 Def:2),,81-81,81,81
 0021800776,2019-02-02,CHA,CHI,34.48,3,1,31,CHA,CHA,tov,45,False,False,Parker Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,81-81,81,81
 0021800776,2019-02-02,CHA,CHI,34.67,3,1,20,CHI,CHI,fg_miss,5,True,False,,MISS Portis 2' Layup,81-81,81,81
-0021800776,2019-02-02,CHA,CHI,34.67,3,1,20,CHA,CHA,reb,0,False,False,HORNETS Rebound,,81-81,81,81
 0021800776,2019-02-02,CHA,CHI,34.67,3,1,20,CHI,CHA,block,5,True,False,block,block,81-81,81,81
+0021800776,2019-02-02,CHA,CHI,34.67,3,1,20,CHA,CHA,reb,0,False,False,HORNETS Rebound,,81-81,81,81
 0021800776,2019-02-02,CHA,CHI,34.95,3,1,3,,CHA,jump_ball,0,False,False,Jump Ball Williams vs. Portis: Tip to Bridges,,81-81,81,81
 0021800776,2019-02-02,CHA,CHI,34.97,3,1,2,CHA,CHA,fg_make,1,False,False,Bridges 9' Jump Shot (8 PTS) (Monk 5 AST),,83-81,83,81
 0021800776,2019-02-02,CHA,CHI,35.12,3,0,53,CHI,CHA,foul,1,False,False,Monk P.FOUL (P2.PN) (M.Davis),,83-81,83,81

@@ -57,9 +57,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000100,2021-01-04,NOP,IND,5.42,1,6,35,IND,NOP,violation,2,False,False,Ingram Violation:Defensive Goaltending (J.Butler),,13-10,13,10
 0022000100,2021-01-04,NOP,IND,5.58,1,6,25,NOP,NOP,fg_miss,5,True,False,MISS Williamson 3' Layup,,13-10,13,10
 0022000100,2021-01-04,NOP,IND,5.58,1,6,25,NOP,IND,block,5,True,False,block,block,13-10,13,10
-0022000100,2021-01-04,NOP,IND,5.67,1,6,20,IND,IND,reb,0,False,False,,Pacers Rebound,13-10,13,10
 0022000100,2021-01-04,NOP,IND,5.67,1,6,20,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 1 Short 0),,13-10,13,10
 0022000100,2021-01-04,NOP,IND,5.67,1,6,20,,NOP,jump_ball,0,False,False,Jump Ball Williamson vs. Sabonis: Tip to Holiday,,13-10,13,10
+0022000100,2021-01-04,NOP,IND,5.67,1,6,20,IND,IND,reb,0,False,False,,Pacers Rebound,13-10,13,10
 0022000100,2021-01-04,NOP,IND,5.9,1,6,6,IND,IND,fg_make,44,False,False,,Sabonis 2' Reverse Layup (2 PTS),13-12,13,12
 0022000100,2021-01-04,NOP,IND,6.25,1,5,45,NOP,NOP,fg_make,79,False,False,Ball 19' Pullup Jump Shot (5 PTS),,15-12,15,12
 0022000100,2021-01-04,NOP,IND,6.55,1,5,27,IND,NOP,foul,2,False,False,Williamson S.FOUL (P1.T2) (J.Butler),,15-12,15,12
@@ -109,8 +109,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000100,2021-01-04,NOP,IND,11.03,1,0,58,NOP,NOP,tov,2,False,True,Bledsoe Lost Ball Turnover (P1.T6),,24-26,24,26
 0022000100,2021-01-04,NOP,IND,11.03,1,0,58,NOP,IND,steal,2,False,True,steal,steal,24-26,24,26
 0022000100,2021-01-04,NOP,IND,11.12,1,0,53,IND,IND,fg_miss,41,True,False,,MISS McConnell 3' Running Layup,24-26,24,26
-0022000100,2021-01-04,NOP,IND,11.12,1,0,53,NOP,NOP,reb,0,False,False,PELICANS Rebound,,24-26,24,26
 0022000100,2021-01-04,NOP,IND,11.12,1,0,53,IND,NOP,block,41,True,False,block,block,24-26,24,26
+0022000100,2021-01-04,NOP,IND,11.12,1,0,53,NOP,NOP,reb,0,False,False,PELICANS Rebound,,24-26,24,26
 0022000100,2021-01-04,NOP,IND,11.45,1,0,33,NOP,NOP,fg3_miss,1,False,False,MISS Redick 26' 3PT Jump Shot,,24-26,24,26
 0022000100,2021-01-04,NOP,IND,11.52,1,0,29,IND,IND,reb,0,False,False,,Holiday REBOUND (Off:1 Def:1),24-26,24,26
 0022000100,2021-01-04,NOP,IND,11.9,1,0,6,IND,IND,fg_miss,47,False,False,,MISS Turner 10' Turnaround Jump Shot,24-26,24,26
@@ -202,8 +202,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000100,2021-01-04,NOP,IND,21.08,2,2,55,NOP,NOP,reb,0,False,False,Alexander-Walker REBOUND (Off:1 Def:1),,43-42,43,42
 0022000100,2021-01-04,NOP,IND,21.13,2,2,52,NOP,NOP,fg_miss,79,False,False,MISS Ingram 15' Pullup Jump Shot,,43-42,43,42
 0022000100,2021-01-04,NOP,IND,21.13,2,2,52,NOP,NOP,reb,0,False,False,PELICANS Rebound,,43-42,43,42
-0022000100,2021-01-04,NOP,IND,21.18,2,2,49,NOP,,foul,10,False,False,,,43-42,43,42
 0022000100,2021-01-04,NOP,IND,21.18,2,2,49,IND,IND,timeout,1,False,False,,Pacers Timeout: Regular (Reg.2 Short 0),43-42,43,42
+0022000100,2021-01-04,NOP,IND,21.18,2,2,49,NOP,,foul,10,False,False,,,43-42,43,42
 0022000100,2021-01-04,NOP,IND,21.23,2,2,46,,NOP,jump_ball,0,False,False,Jump Ball Ingram vs. Holiday: Tip to Ball,,43-42,43,42
 0022000100,2021-01-04,NOP,IND,21.27,2,2,44,NOP,NOP,fg3_miss,1,False,False,MISS Ingram 25' 3PT Jump Shot,,43-42,43,42
 0022000100,2021-01-04,NOP,IND,21.37,2,2,38,IND,IND,reb,0,False,False,,Oladipo REBOUND (Off:0 Def:1),43-42,43,42
@@ -422,8 +422,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000100,2021-01-04,NOP,IND,46.27,4,1,44,IND,IND,reb,0,False,False,,McDermott REBOUND (Off:1 Def:2),106-98,106,98
 0022000100,2021-01-04,NOP,IND,46.37,4,1,38,IND,IND,fg_make,6,False,False,,Brogdon 2' Driving Layup (19 PTS) (Oladipo 5 AST),106-100,106,100
 0022000100,2021-01-04,NOP,IND,46.65,4,1,21,NOP,NOP,fg_miss,6,True,False,MISS Ingram 3' Driving Layup,,106-100,106,100
-0022000100,2021-01-04,NOP,IND,46.65,4,1,21,IND,IND,reb,0,False,False,,Oladipo REBOUND (Off:0 Def:4),106-100,106,100
 0022000100,2021-01-04,NOP,IND,46.65,4,1,21,NOP,IND,block,6,True,False,block,block,106-100,106,100
+0022000100,2021-01-04,NOP,IND,46.65,4,1,21,IND,IND,reb,0,False,False,,Oladipo REBOUND (Off:0 Def:4),106-100,106,100
 0022000100,2021-01-04,NOP,IND,46.72,4,1,17,IND,IND,fg3_miss,103,False,False,,MISS Brogdon 25' 3PT Running Pull-Up Jump Shot,106-100,106,100
 0022000100,2021-01-04,NOP,IND,46.78,4,1,13,NOP,NOP,reb,0,False,False,Ball REBOUND (Off:0 Def:6),,106-100,106,100
 0022000100,2021-01-04,NOP,IND,47.03,4,0,58,NOP,NOP,fg_miss,6,False,False,MISS Williamson 3' Driving Layup,,106-100,106,100

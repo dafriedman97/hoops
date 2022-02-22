@@ -42,8 +42,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900657,2020-01-22,BOS,MEM,4.7,1,7,18,MEM,MEM,fg_miss,6,False,False,,MISS Valanciunas 3' Driving Layup,7-3,7,3
 0021900657,2020-01-22,BOS,MEM,4.72,1,7,17,BOS,BOS,reb,0,False,False,Smart REBOUND (Off:0 Def:1),,7-3,7,3
 0021900657,2020-01-22,BOS,MEM,4.77,1,7,14,BOS,BOS,fg3_miss,1,True,False,MISS Hayward 26' 3PT Jump Shot,,7-3,7,3
-0021900657,2020-01-22,BOS,MEM,4.77,1,7,14,MEM,MEM,reb,0,False,False,,Jackson Jr. REBOUND (Off:0 Def:2),7-3,7,3
 0021900657,2020-01-22,BOS,MEM,4.77,1,7,14,BOS,MEM,block,1,True,False,block,block,7-3,7,3
+0021900657,2020-01-22,BOS,MEM,4.77,1,7,14,MEM,MEM,reb,0,False,False,,Jackson Jr. REBOUND (Off:0 Def:2),7-3,7,3
 0021900657,2020-01-22,BOS,MEM,5.1,1,6,54,MEM,MEM,fg_miss,75,False,False,,MISS Morant 4' Driving Finger Roll Layup,7-3,7,3
 0021900657,2020-01-22,BOS,MEM,5.15,1,6,51,BOS,BOS,reb,0,False,False,Walker REBOUND (Off:0 Def:2),,7-3,7,3
 0021900657,2020-01-22,BOS,MEM,5.2,1,6,48,BOS,BOS,fg_miss,71,True,False,MISS Walker 3' Finger Roll Layup,,7-3,7,3
@@ -87,8 +87,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900657,2020-01-22,BOS,MEM,10.9,1,1,6,MEM,BOS,foul,4,False,False,Kanter OFF.Foul (P1) (C.Blair),,20-23,20,23
 0021900657,2020-01-22,BOS,MEM,10.9,1,1,6,BOS,BOS,tov,37,False,False,Kanter Offensive Foul Turnover (P1.T1),,20-23,20,23
 0021900657,2020-01-22,BOS,MEM,11.05,1,0,57,MEM,MEM,fg_miss,6,True,False,,MISS Jackson Jr. 9' Driving Layup,20-23,20,23
-0021900657,2020-01-22,BOS,MEM,11.05,1,0,57,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,20-23,20,23
 0021900657,2020-01-22,BOS,MEM,11.05,1,0,57,MEM,BOS,block,6,True,False,block,block,20-23,20,23
+0021900657,2020-01-22,BOS,MEM,11.05,1,0,57,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,20-23,20,23
 0021900657,2020-01-22,BOS,MEM,11.08,1,0,55,MEM,MEM,fg_make,78,False,False,,Clarke 10' Floating Jump Shot (2 PTS) (Jones 2 AST),20-25,20,25
 0021900657,2020-01-22,BOS,MEM,11.23,1,0,46,BOS,BOS,fg3_miss,79,False,False,MISS Wanamaker 26' 3PT Pullup Jump Shot,,20-25,20,25
 0021900657,2020-01-22,BOS,MEM,11.3,1,0,42,BOS,BOS,reb,0,False,False,Kanter REBOUND (Off:2 Def:0),,20-25,20,25
@@ -208,9 +208,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900657,2020-01-22,BOS,MEM,23.42,2,0,35,MEM,MEM,fg_miss,6,False,False,,MISS Crowder 5' Driving Layup,56-42,56,42
 0021900657,2020-01-22,BOS,MEM,23.45,2,0,33,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,56-42,56,42
 0021900657,2020-01-22,BOS,MEM,23.48,2,0,31,MEM,MEM,fg3_miss,1,True,False,,MISS Clarke 27' 3PT Jump Shot,56-42,56,42
+0021900657,2020-01-22,BOS,MEM,23.48,2,0,31,MEM,BOS,block,1,True,False,block,block,56-42,56,42
 0021900657,2020-01-22,BOS,MEM,23.48,2,0,31,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,56-42,56,42
 0021900657,2020-01-22,BOS,MEM,23.48,2,0,31,MEM,MEM,tov,11,False,False,,Grizzlies Turnover: Shot Clock (T#11),56-42,56,42
-0021900657,2020-01-22,BOS,MEM,23.48,2,0,31,MEM,BOS,block,1,True,False,block,block,56-42,56,42
 0021900657,2020-01-22,BOS,MEM,23.78,2,0,13,BOS,BOS,fg_make,79,False,False,Tatum 15' Pullup Jump Shot (21 PTS) (Walker 2 AST),,58-42,58,42
 0021900657,2020-01-22,BOS,MEM,23.98,2,0,1,MEM,MEM,fg_make,98,False,False,,Valanciunas 2' Cutting Layup Shot (11 PTS) (Morant 4 AST),58-44,58,44
 0021900657,2020-01-22,BOS,MEM,24.0,2,0,0,MEM,,period_end,0,False,False,,,58-44,58,44
@@ -226,8 +226,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900657,2020-01-22,BOS,MEM,25.33,3,10,40,BOS,MEM,block,9,True,False,block,block,60-47,60,47
 0021900657,2020-01-22,BOS,MEM,25.38,3,10,37,MEM,MEM,reb,0,False,False,,Crowder REBOUND (Off:0 Def:6),60-47,60,47
 0021900657,2020-01-22,BOS,MEM,25.42,3,10,35,MEM,MEM,tov,1,False,True,,Crowder Bad Pass Turnover (P2.T13),60-47,60,47
-0021900657,2020-01-22,BOS,MEM,25.42,3,10,35,BOS,MEM,foul,28,False,False,,Crowder Personal Take Foul (P2.T2) (J.Van Duyne),60-47,60,47
 0021900657,2020-01-22,BOS,MEM,25.42,3,10,35,MEM,BOS,steal,1,False,True,steal,steal,60-47,60,47
+0021900657,2020-01-22,BOS,MEM,25.42,3,10,35,BOS,MEM,foul,28,False,False,,Crowder Personal Take Foul (P2.T2) (J.Van Duyne),60-47,60,47
 0021900657,2020-01-22,BOS,MEM,25.63,3,10,22,BOS,BOS,tov,1,False,True,Tatum Bad Pass Turnover (P1.T5),,60-47,60,47
 0021900657,2020-01-22,BOS,MEM,25.63,3,10,22,BOS,MEM,steal,1,False,True,steal,steal,60-47,60,47
 0021900657,2020-01-22,BOS,MEM,25.73,3,10,16,MEM,MEM,fg_miss,6,False,False,,MISS Crowder 5' Driving Layup,60-47,60,47
@@ -373,9 +373,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900657,2020-01-22,BOS,MEM,41.6,4,6,24,BOS,BOS,fg_miss,102,False,False,MISS Wanamaker 4' Driving Floating Bank Jump Shot,,105-78,105,78
 0021900657,2020-01-22,BOS,MEM,41.63,4,6,22,MEM,MEM,reb,0,False,False,,Valanciunas REBOUND (Off:3 Def:10),105-78,105,78
 0021900657,2020-01-22,BOS,MEM,42.0,4,6,0,MEM,MEM,fg_miss,1,True,False,,MISS S. Hill 22' Jump Shot,105-78,105,78
+0021900657,2020-01-22,BOS,MEM,42.0,4,6,0,MEM,BOS,block,1,True,False,block,block,105-78,105,78
 0021900657,2020-01-22,BOS,MEM,42.0,4,6,0,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,105-78,105,78
 0021900657,2020-01-22,BOS,MEM,42.0,4,6,0,MEM,MEM,tov,11,False,False,,Grizzlies Turnover: Shot Clock (T#18),105-78,105,78
-0021900657,2020-01-22,BOS,MEM,42.0,4,6,0,MEM,BOS,block,1,True,False,block,block,105-78,105,78
 0021900657,2020-01-22,BOS,MEM,42.32,4,5,41,BOS,BOS,fg_make,58,False,False,Poirier 7' Turnaround Hook Shot (2 PTS) (Green 2 AST),,107-78,107,78
 0021900657,2020-01-22,BOS,MEM,42.53,4,5,28,MEM,MEM,fg3_miss,1,False,False,,MISS Guduric 26' 3PT Jump Shot,107-78,107,78
 0021900657,2020-01-22,BOS,MEM,42.58,4,5,25,BOS,BOS,reb,0,False,False,Edwards REBOUND (Off:0 Def:1),,107-78,107,78
@@ -400,9 +400,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900657,2020-01-22,BOS,MEM,45.23,4,2,46,BOS,BOS,fg_make,3,False,False,Williams 9' Hook Shot (2 PTS),,115-85,115,85
 0021900657,2020-01-22,BOS,MEM,45.45,4,2,33,MEM,MEM,fg_make,9,False,False,,Melton 2' Driving Dunk (8 PTS),115-87,115,87
 0021900657,2020-01-22,BOS,MEM,45.7,4,2,18,BOS,BOS,fg_miss,6,True,False,MISS Edwards 6' Driving Layup,,115-87,115,87
+0021900657,2020-01-22,BOS,MEM,45.7,4,2,18,BOS,MEM,block,6,True,False,block,block,115-87,115,87
 0021900657,2020-01-22,BOS,MEM,45.7,4,2,18,BOS,BOS,reb,0,False,False,CELTICS Rebound,,115-87,115,87
 0021900657,2020-01-22,BOS,MEM,45.7,4,2,18,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.5 Short 0),115-87,115,87
-0021900657,2020-01-22,BOS,MEM,45.7,4,2,18,BOS,MEM,block,6,True,False,block,block,115-87,115,87
 0021900657,2020-01-22,BOS,MEM,45.8,4,2,12,BOS,BOS,tov,1,False,True,Edwards Bad Pass Turnover (P2.T9),,115-87,115,87
 0021900657,2020-01-22,BOS,MEM,45.8,4,2,12,BOS,MEM,steal,1,False,True,steal,steal,115-87,115,87
 0021900657,2020-01-22,BOS,MEM,45.9,4,2,6,MEM,MEM,fg_make,52,False,False,,Clarke 3' Alley Oop Dunk (9 PTS) (S. Hill 2 AST),115-89,115,89

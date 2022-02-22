@@ -10,8 +10,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700446,2017-12-18,MIN,POR,0.98,1,11,1,POR,POR,reb,0,False,False,,Aminu REBOUND (Off:0 Def:1),0-0,0,0
 0021700446,2017-12-18,MIN,POR,1.15,1,10,51,POR,POR,fg_make,98,False,False,,Nurkic 3' Cutting Layup Shot (2 PTS) (Lillard 1 AST),0-2,0,2
 0021700446,2017-12-18,MIN,POR,1.5,1,10,30,MIN,MIN,fg_miss,1,True,False,MISS Wiggins 20' Jump Shot,,0-2,0,2
-0021700446,2017-12-18,MIN,POR,1.5,1,10,30,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,0-2,0,2
 0021700446,2017-12-18,MIN,POR,1.5,1,10,30,MIN,POR,block,1,True,False,block,block,0-2,0,2
+0021700446,2017-12-18,MIN,POR,1.5,1,10,30,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,0-2,0,2
 0021700446,2017-12-18,MIN,POR,1.53,1,10,28,MIN,MIN,fg_make,1,False,False,Butler 17' Jump Shot (2 PTS) (Teague 1 AST),,2-2,2,2
 0021700446,2017-12-18,MIN,POR,1.8,1,10,12,POR,POR,fg_make,98,False,False,,Nurkic 2' Cutting Layup Shot (4 PTS) (Lillard 2 AST),2-4,2,4
 0021700446,2017-12-18,MIN,POR,2.08,1,9,55,MIN,MIN,fg_make,98,False,False,Wiggins 1' Cutting Layup Shot (2 PTS) (Butler 1 AST),,4-4,4,4
@@ -113,8 +113,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700446,2017-12-18,MIN,POR,14.75,2,9,15,MIN,MIN,timeout,1,False,False,TIMBERWOLVES Timeout: Regular (Full 2 Short 0),,29-34,29,34
 0021700446,2017-12-18,MIN,POR,15.02,2,8,59,MIN,MIN,tov,45,False,False,Towns Out of Bounds - Bad Pass Turnover Turnover (P3.T4),,29-34,29,34
 0021700446,2017-12-18,MIN,POR,15.2,2,8,48,POR,POR,fg_miss,78,False,False,,MISS Napier 6' Floating Jump Shot,29-34,29,34
-0021700446,2017-12-18,MIN,POR,15.22,2,8,47,POR,POR,reb,0,False,False,,Trail Blazers Rebound,29-34,29,34
 0021700446,2017-12-18,MIN,POR,15.22,2,8,47,POR,MIN,foul,3,False,False,Towns L.B.FOUL (P1.T2) (S.Foster),,29-34,29,34
+0021700446,2017-12-18,MIN,POR,15.22,2,8,47,POR,POR,reb,0,False,False,,Trail Blazers Rebound,29-34,29,34
 0021700446,2017-12-18,MIN,POR,15.33,2,8,40,POR,MIN,foul,2,False,False,Jones S.FOUL (P1.T3) (S.Foster),,29-34,29,34
 0021700446,2017-12-18,MIN,POR,15.33,2,8,40,POR,POR,ft_make,11,False,False,,Napier Free Throw 1 of 2 (1 PTS),29-35,29,35
 0021700446,2017-12-18,MIN,POR,15.33,2,8,40,POR,POR,ft_make,12,False,False,,Napier Free Throw 2 of 2 (2 PTS),29-36,29,36
@@ -134,8 +134,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700446,2017-12-18,MIN,POR,16.92,2,7,5,POR,POR,fg_miss,1,False,False,,MISS Turner 15' Jump Shot,34-36,34,36
 0021700446,2017-12-18,MIN,POR,16.92,2,7,5,POR,POR,reb,0,False,False,,Collins REBOUND (Off:2 Def:2),34-36,34,36
 0021700446,2017-12-18,MIN,POR,16.98,2,7,1,POR,POR,fg_miss,97,False,False,,MISS Collins 1' Tip Layup Shot,34-36,34,36
-0021700446,2017-12-18,MIN,POR,17.0,2,7,0,POR,POR,reb,0,False,False,,Collins REBOUND (Off:2 Def:2),34-36,34,36
 0021700446,2017-12-18,MIN,POR,17.0,2,7,0,POR,POR,tov,40,False,False,,Collins Out of Bounds Lost Ball Turnover (P1.T6),34-36,34,36
+0021700446,2017-12-18,MIN,POR,17.0,2,7,0,POR,POR,reb,0,False,False,,Collins REBOUND (Off:2 Def:2),34-36,34,36
 0021700446,2017-12-18,MIN,POR,17.23,2,6,46,MIN,MIN,fg_make,5,False,False,Butler 6' Layup (12 PTS),,36-36,36,36
 0021700446,2017-12-18,MIN,POR,17.23,2,6,46,MIN,POR,foul,2,False,False,,Turner S.FOUL (P1.T2) (L.Richardson),36-36,36,36
 0021700446,2017-12-18,MIN,POR,17.23,2,6,46,MIN,MIN,ft_make,10,False,False,Butler Free Throw 1 of 1 (13 PTS),,37-36,37,36
@@ -158,11 +158,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700446,2017-12-18,MIN,POR,19.18,2,4,49,POR,POR,timeout,1,False,False,,Trail Blazers Timeout: Regular (Reg.2 Short 0),42-41,42,41
 0021700446,2017-12-18,MIN,POR,19.52,2,4,29,POR,POR,fg3_make,1,False,False,,Turner 25' 3PT Jump Shot (3 PTS) (Lillard 8 AST),42-44,42,44
 0021700446,2017-12-18,MIN,POR,19.9,2,4,6,MIN,MIN,fg_miss,1,True,False,MISS Teague 6' Jump Shot,,42-44,42,44
-0021700446,2017-12-18,MIN,POR,19.9,2,4,6,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,42-44,42,44
 0021700446,2017-12-18,MIN,POR,19.9,2,4,6,MIN,POR,block,1,True,False,block,block,42-44,42,44
+0021700446,2017-12-18,MIN,POR,19.9,2,4,6,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,42-44,42,44
 0021700446,2017-12-18,MIN,POR,19.95,2,4,3,MIN,MIN,fg3_miss,1,True,False,MISS Butler 3PT Jump Shot,,42-44,42,44
-0021700446,2017-12-18,MIN,POR,19.95,2,4,3,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,42-44,42,44
 0021700446,2017-12-18,MIN,POR,19.95,2,4,3,MIN,POR,block,1,True,False,block,block,42-44,42,44
+0021700446,2017-12-18,MIN,POR,19.95,2,4,3,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,42-44,42,44
 0021700446,2017-12-18,MIN,POR,19.97,2,4,2,MIN,MIN,fg_make,5,False,False,Wiggins 2' Layup (4 PTS) (Butler 3 AST),,44-44,44,44
 0021700446,2017-12-18,MIN,POR,20.33,2,3,40,POR,POR,fg_make,79,False,False,,Napier 20' Pullup Jump Shot (4 PTS),44-46,44,46
 0021700446,2017-12-18,MIN,POR,20.73,2,3,16,MIN,MIN,fg_miss,47,False,False,MISS Wiggins 8' Turnaround Jump Shot,,44-46,44,46
@@ -205,8 +205,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700446,2017-12-18,MIN,POR,25.9,3,10,6,MIN,MIN,fg_miss,1,False,False,MISS Gibson 17' Jump Shot,,58-60,58,60
 0021700446,2017-12-18,MIN,POR,25.93,3,10,4,MIN,MIN,reb,0,False,False,Towns REBOUND (Off:3 Def:4),,58-60,58,60
 0021700446,2017-12-18,MIN,POR,25.95,3,10,3,MIN,MIN,fg_miss,5,True,False,MISS Towns 2' Layup,,58-60,58,60
-0021700446,2017-12-18,MIN,POR,25.95,3,10,3,POR,POR,reb,0,False,False,,Lillard REBOUND (Off:0 Def:5),58-60,58,60
 0021700446,2017-12-18,MIN,POR,25.95,3,10,3,MIN,POR,block,5,True,False,block,block,58-60,58,60
+0021700446,2017-12-18,MIN,POR,25.95,3,10,3,POR,POR,reb,0,False,False,,Lillard REBOUND (Off:0 Def:5),58-60,58,60
 0021700446,2017-12-18,MIN,POR,26.08,3,9,55,POR,POR,fg_make,6,False,False,,Lillard 2' Driving Layup (8 PTS),58-62,58,62
 0021700446,2017-12-18,MIN,POR,26.4,3,9,36,MIN,MIN,fg_make,80,False,False,Butler 17' Step Back Jump Shot (17 PTS),,60-62,60,62
 0021700446,2017-12-18,MIN,POR,26.68,3,9,19,POR,POR,fg3_miss,1,False,False,,MISS McCollum 24' 3PT Jump Shot,60-62,60,62
@@ -220,8 +220,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700446,2017-12-18,MIN,POR,27.78,3,8,13,POR,POR,reb,0,False,False,,Lillard REBOUND (Off:0 Def:6),64-64,64,64
 0021700446,2017-12-18,MIN,POR,27.88,3,8,7,POR,POR,fg_make,6,False,False,,Lillard 2' Driving Layup (10 PTS),64-66,64,66
 0021700446,2017-12-18,MIN,POR,28.07,3,7,56,MIN,POR,foul,29,False,False,,Lillard Shooting Block Foul (P1.T1) (B.Taylor),64-66,64,66
-0021700446,2017-12-18,MIN,POR,28.07,3,7,56,MIN,MIN,ft_make,12,False,False,Butler Free Throw 2 of 2 (22 PTS),,65-66,65,66
 0021700446,2017-12-18,MIN,POR,28.07,3,7,56,MIN,MIN,ft_make,11,False,False,Butler Free Throw 1 of 2 (23 PTS),,66-66,66,66
+0021700446,2017-12-18,MIN,POR,28.07,3,7,56,MIN,MIN,ft_make,12,False,False,Butler Free Throw 2 of 2 (22 PTS),,65-66,65,66
 0021700446,2017-12-18,MIN,POR,28.37,3,7,38,POR,MIN,foul,2,False,False,Teague S.FOUL (P2.T1) (B.Taylor),,66-66,66,66
 0021700446,2017-12-18,MIN,POR,28.37,3,7,38,POR,POR,ft_make,11,False,False,,Nurkic Free Throw 1 of 2 (15 PTS),66-67,66,67
 0021700446,2017-12-18,MIN,POR,28.37,3,7,38,POR,POR,ft_make,12,False,False,,Nurkic Free Throw 2 of 2 (16 PTS),66-68,66,68

@@ -5,8 +5,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800562,2019-01-02,LAL,OKC,0.32,1,11,41,OKC,OKC,ft_make,11,False,False,,Adams Free Throw 1 of 2 (1 PTS),0-1,0,1
 0021800562,2019-01-02,LAL,OKC,0.32,1,11,41,OKC,OKC,ft_make,12,False,False,,Adams Free Throw 2 of 2 (2 PTS),0-2,0,2
 0021800562,2019-01-02,LAL,OKC,0.57,1,11,26,LAL,LAL,fg_miss,5,True,False,MISS McGee 1' Layup,,0-2,0,2
-0021800562,2019-01-02,LAL,OKC,0.57,1,11,26,LAL,LAL,reb,0,False,False,LAKERS Rebound,,0-2,0,2
 0021800562,2019-01-02,LAL,OKC,0.57,1,11,26,LAL,OKC,block,5,True,False,block,block,0-2,0,2
+0021800562,2019-01-02,LAL,OKC,0.57,1,11,26,LAL,LAL,reb,0,False,False,LAKERS Rebound,,0-2,0,2
 0021800562,2019-01-02,LAL,OKC,0.67,1,11,20,LAL,LAL,tov,45,False,False,Ingram Out of Bounds - Bad Pass Turnover Turnover (P1.T1),,0-2,0,2
 0021800562,2019-01-02,LAL,OKC,0.9,1,11,6,OKC,OKC,fg_miss,7,True,False,,MISS Grant 2' Dunk,0-2,0,2
 0021800562,2019-01-02,LAL,OKC,0.9,1,11,6,OKC,LAL,block,7,True,False,block,block,0-2,0,2
@@ -75,8 +75,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800562,2019-01-02,LAL,OKC,6.12,1,5,53,OKC,OKC,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:5),9-12,9,12
 0021800562,2019-01-02,LAL,OKC,6.18,1,5,49,OKC,OKC,fg_make,101,False,False,,George 2' Driving Floating Jump Shot (4 PTS) (Westbrook 3 AST),9-14,9,14
 0021800562,2019-01-02,LAL,OKC,6.4,1,5,36,LAL,LAL,tov,1,False,True,Hart Bad Pass Turnover (P1.T3),,9-14,9,14
-0021800562,2019-01-02,LAL,OKC,6.4,1,5,36,OKC,LAL,foul,1,False,False,Ingram P.FOUL (P1.T4) (J.Tiven),,9-14,9,14
 0021800562,2019-01-02,LAL,OKC,6.4,1,5,36,LAL,OKC,steal,1,False,True,steal,steal,9-14,9,14
+0021800562,2019-01-02,LAL,OKC,6.4,1,5,36,OKC,LAL,foul,1,False,False,Ingram P.FOUL (P1.T4) (J.Tiven),,9-14,9,14
 0021800562,2019-01-02,LAL,OKC,6.57,1,5,26,OKC,OKC,fg_miss,47,False,False,,MISS Ferguson 11' Turnaround Jump Shot,9-14,9,14
 0021800562,2019-01-02,LAL,OKC,6.6,1,5,24,LAL,LAL,reb,0,False,False,Hart REBOUND (Off:0 Def:4),,9-14,9,14
 0021800562,2019-01-02,LAL,OKC,6.67,1,5,20,LAL,OKC,violation,5,False,False,,Adams Violation:Kicked Ball (J.Orr),9-14,9,14
@@ -175,8 +175,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800562,2019-01-02,LAL,OKC,15.53,2,8,28,LAL,LAL,fg3_make,103,False,False,Caldwell-Pope 25' 3PT Running Pull-Up Jump Shot (12 PTS) (Stephenson 2 AST),,35-32,35,32
 0021800562,2019-01-02,LAL,OKC,15.67,2,8,20,OKC,LAL,foul,1,False,False,Caldwell-Pope P.FOUL (P1.T3) (J.Orr),,35-32,35,32
 0021800562,2019-01-02,LAL,OKC,15.67,2,8,20,OKC,OKC,fg_miss,5,True,False,,MISS Westbrook 2' Layup,35-32,35,32
-0021800562,2019-01-02,LAL,OKC,15.67,2,8,20,OKC,OKC,reb,0,False,False,,Thunder Rebound,35-32,35,32
 0021800562,2019-01-02,LAL,OKC,15.67,2,8,20,OKC,LAL,block,5,True,False,block,block,35-32,35,32
+0021800562,2019-01-02,LAL,OKC,15.67,2,8,20,OKC,OKC,reb,0,False,False,,Thunder Rebound,35-32,35,32
 0021800562,2019-01-02,LAL,OKC,15.82,2,8,11,OKC,OKC,tov,1,False,True,,Westbrook Bad Pass Turnover (P2.T5),35-32,35,32
 0021800562,2019-01-02,LAL,OKC,15.82,2,8,11,OKC,LAL,steal,1,False,True,steal,steal,35-32,35,32
 0021800562,2019-01-02,LAL,OKC,15.85,2,8,9,LAL,LAL,fg_make,50,False,False,Caldwell-Pope 1' Running Dunk (14 PTS),,37-32,37,32
@@ -191,8 +191,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800562,2019-01-02,LAL,OKC,17.05,2,6,57,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:2 Def:3),42-36,42,36
 0021800562,2019-01-02,LAL,OKC,17.08,2,6,55,OKC,OKC,fg_make,72,False,False,,Adams 1' Putback Layup (9 PTS),42-38,42,38
 0021800562,2019-01-02,LAL,OKC,17.25,2,6,45,LAL,LAL,tov,1,False,True,Caldwell-Pope Bad Pass Turnover (P1.T7),,42-38,42,38
-0021800562,2019-01-02,LAL,OKC,17.25,2,6,45,OKC,LAL,foul,28,False,False,McGee Personal Take Foul (P2.T4) (J.Tiven),,42-38,42,38
 0021800562,2019-01-02,LAL,OKC,17.25,2,6,45,LAL,OKC,steal,1,False,True,steal,steal,42-38,42,38
+0021800562,2019-01-02,LAL,OKC,17.25,2,6,45,OKC,LAL,foul,28,False,False,McGee Personal Take Foul (P2.T4) (J.Tiven),,42-38,42,38
 0021800562,2019-01-02,LAL,OKC,17.38,2,6,37,OKC,OKC,fg_miss,9,False,False,,MISS Westbrook 2' Driving Dunk,42-38,42,38
 0021800562,2019-01-02,LAL,OKC,17.38,2,6,37,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:3 Def:3),42-38,42,38
 0021800562,2019-01-02,LAL,OKC,17.45,2,6,33,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.2 Short 0),42-38,42,38
@@ -329,8 +329,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800562,2019-01-02,LAL,OKC,31.23,3,4,46,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:6 Def:5),74-71,74,71
 0021800562,2019-01-02,LAL,OKC,31.23,3,4,46,OKC,LAL,foul,1,False,False,Ingram P.FOUL (P2.T4) (J.Orr),,74-71,74,71
 0021800562,2019-01-02,LAL,OKC,31.28,3,4,43,OKC,OKC,tov,1,False,True,,Adams Bad Pass Turnover (P2.T7),74-71,74,71
-0021800562,2019-01-02,LAL,OKC,31.28,3,4,43,LAL,OKC,foul,1,False,False,,Westbrook P.FOUL (P2.T3) (T.Washington),74-71,74,71
 0021800562,2019-01-02,LAL,OKC,31.28,3,4,43,OKC,LAL,steal,1,False,True,steal,steal,74-71,74,71
+0021800562,2019-01-02,LAL,OKC,31.28,3,4,43,LAL,OKC,foul,1,False,False,,Westbrook P.FOUL (P2.T3) (T.Washington),74-71,74,71
 0021800562,2019-01-02,LAL,OKC,31.47,3,4,32,LAL,LAL,fg_make,108,False,False,Zubac 1' Cutting Dunk Shot (4 PTS) (Caldwell-Pope 2 AST),,76-71,76,71
 0021800562,2019-01-02,LAL,OKC,31.85,3,4,9,OKC,OKC,fg_make,75,False,False,,Grant 1' Driving Finger Roll Layup (9 PTS) (Schroder 5 AST),76-73,76,73
 0021800562,2019-01-02,LAL,OKC,32.13,3,3,52,LAL,LAL,fg3_miss,1,False,False,MISS Caldwell-Pope 24' 3PT Jump Shot,,76-73,76,73
@@ -385,9 +385,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800562,2019-01-02,LAL,OKC,35.6,3,0,24,LAL,LAL,reb,0,False,False,Hart REBOUND (Off:1 Def:12),,82-78,82,78
 0021800562,2019-01-02,LAL,OKC,35.92,3,0,5,LAL,LAL,tov,45,False,False,Ball Out of Bounds - Bad Pass Turnover Turnover (P2.T14),,82-78,82,78
 0021800562,2019-01-02,LAL,OKC,36.0,3,0,0,OKC,OKC,tov,2,False,True,,Schroder Lost Ball Turnover (P2.T8),82-78,82,78
+0021800562,2019-01-02,LAL,OKC,36.0,3,0,0,OKC,LAL,steal,2,False,True,steal,steal,82-78,82,78
 0021800562,2019-01-02,LAL,OKC,36.0,3,0,0,OKC,,period_end,0,False,False,,,82-78,82,78
 0021800562,2019-01-02,LAL,OKC,36.0,4,12,0,OKC,,period_start,0,False,False,,,82-78,82,78
-0021800562,2019-01-02,LAL,OKC,36.0,3,0,0,OKC,LAL,steal,2,False,True,steal,steal,82-78,82,78
 0021800562,2019-01-02,LAL,OKC,36.18,4,11,49,OKC,OKC,fg_make,98,False,False,,Noel 2' Cutting Layup Shot (2 PTS) (Nader 1 AST),82-80,82,80
 0021800562,2019-01-02,LAL,OKC,36.45,4,11,33,LAL,LAL,fg_miss,5,False,False,MISS Stephenson 3' Layup,,82-80,82,80
 0021800562,2019-01-02,LAL,OKC,36.52,4,11,29,LAL,LAL,reb,0,False,False,Zubac REBOUND (Off:1 Def:1),,82-80,82,80
@@ -515,8 +515,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800562,2019-01-02,LAL,OKC,46.52,4,1,29,OKC,OKC,tov,1,False,True,,Westbrook Bad Pass Turnover (P4.T11),93-103,93,103
 0021800562,2019-01-02,LAL,OKC,46.52,4,1,29,OKC,LAL,steal,1,False,True,steal,steal,93-103,93,103
 0021800562,2019-01-02,LAL,OKC,46.55,4,1,27,LAL,LAL,fg_miss,41,True,False,MISS Hart 1' Running Layup,,93-103,93,103
-0021800562,2019-01-02,LAL,OKC,46.55,4,1,27,LAL,LAL,reb,0,False,False,LAKERS Rebound,,93-103,93,103
 0021800562,2019-01-02,LAL,OKC,46.55,4,1,27,LAL,OKC,block,41,True,False,block,block,93-103,93,103
+0021800562,2019-01-02,LAL,OKC,46.55,4,1,27,LAL,LAL,reb,0,False,False,LAKERS Rebound,,93-103,93,103
 0021800562,2019-01-02,LAL,OKC,46.62,4,1,23,LAL,LAL,fg3_miss,1,False,False,MISS Hart 27' 3PT Jump Shot,,93-103,93,103
 0021800562,2019-01-02,LAL,OKC,46.67,4,1,20,OKC,OKC,reb,0,False,False,,Westbrook REBOUND (Off:1 Def:15),93-103,93,103
 0021800562,2019-01-02,LAL,OKC,46.95,4,1,3,OKC,OKC,fg_make,44,False,False,,Westbrook 1' Reverse Layup (14 PTS),93-105,93,105

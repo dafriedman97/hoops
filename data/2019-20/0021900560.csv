@@ -99,8 +99,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900560,2020-01-08,NOP,CHI,10.72,1,1,17,CHI,CHI,tov,37,False,False,,Gafford Offensive Foul Turnover (P1.T1),20-21,20,21
 0021900560,2020-01-08,NOP,CHI,11.07,1,0,56,NOP,NOP,fg_make,7,False,False,Hayes 2' Dunk (6 PTS) (Alexander-Walker 4 AST),,22-21,22,21
 0021900560,2020-01-08,NOP,CHI,11.33,1,0,40,CHI,CHI,fg_miss,5,True,False,,MISS Hutchison 3' Layup,22-21,22,21
-0021900560,2020-01-08,NOP,CHI,11.33,1,0,40,CHI,CHI,reb,0,False,False,,Bulls Rebound,22-21,22,21
 0021900560,2020-01-08,NOP,CHI,11.33,1,0,40,CHI,NOP,block,5,True,False,block,block,22-21,22,21
+0021900560,2020-01-08,NOP,CHI,11.33,1,0,40,CHI,CHI,reb,0,False,False,,Bulls Rebound,22-21,22,21
 0021900560,2020-01-08,NOP,CHI,11.5,1,0,30,CHI,CHI,fg_miss,6,False,False,,MISS White 3' Driving Layup,22-21,22,21
 0021900560,2020-01-08,NOP,CHI,11.53,1,0,28,NOP,NOP,reb,0,False,False,Ingram REBOUND (Off:0 Def:5),,22-21,22,21
 0021900560,2020-01-08,NOP,CHI,11.58,1,0,25,NOP,CHI,foul,2,False,False,,Satoransky S.FOUL (P2.T3) (C.Washington),22-21,22,21
@@ -345,15 +345,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900560,2020-01-08,NOP,CHI,34.48,3,1,31,CHI,CHI,reb,0,False,False,,Arcidiacono REBOUND (Off:0 Def:2),87-73,87,73
 0021900560,2020-01-08,NOP,CHI,34.57,3,1,26,CHI,CHI,fg_make,6,False,False,,Young 1' Driving Layup (13 PTS) (Arcidiacono 1 AST),87-75,87,75
 0021900560,2020-01-08,NOP,CHI,34.95,3,1,3,NOP,NOP,fg3_miss,1,False,False,MISS Redick 26' 3PT Jump Shot,,87-75,87,75
-0021900560,2020-01-08,NOP,CHI,35.0,3,1,0,NOP,NOP,reb,0,False,False,PELICANS Rebound,,87-75,87,75
 0021900560,2020-01-08,NOP,CHI,35.0,3,1,0,,NOP,jump_ball,0,False,False,Jump Ball Hayes vs. Markkanen: Tip to Alexander-Walker,,87-75,87,75
+0021900560,2020-01-08,NOP,CHI,35.0,3,1,0,NOP,NOP,reb,0,False,False,PELICANS Rebound,,87-75,87,75
 0021900560,2020-01-08,NOP,CHI,35.17,3,0,50,NOP,NOP,fg_make,43,False,False,Hayes 1' Alley Oop Layup (12 PTS) (Ingram 9 AST),,89-75,89,75
 0021900560,2020-01-08,NOP,CHI,35.45,3,0,33,CHI,CHI,fg3_miss,1,False,False,,MISS Young 3PT Jump Shot,89-75,89,75
 0021900560,2020-01-08,NOP,CHI,35.5,3,0,30,NOP,NOP,reb,0,False,False,Redick REBOUND (Off:0 Def:2),,89-75,89,75
 0021900560,2020-01-08,NOP,CHI,35.73,3,0,16,NOP,NOP,fg3_make,1,False,False,Alexander-Walker 25' 3PT Jump Shot (8 PTS) (Ingram 10 AST),,92-75,92,75
 0021900560,2020-01-08,NOP,CHI,35.95,3,0,3,CHI,CHI,fg_miss,5,True,False,,MISS White 2' Layup,92-75,92,75
-0021900560,2020-01-08,NOP,CHI,35.95,3,0,3,NOP,NOP,reb,0,False,False,Hayes REBOUND (Off:3 Def:8),,92-75,92,75
 0021900560,2020-01-08,NOP,CHI,35.95,3,0,3,CHI,NOP,block,5,True,False,block,block,92-75,92,75
+0021900560,2020-01-08,NOP,CHI,35.95,3,0,3,NOP,NOP,reb,0,False,False,Hayes REBOUND (Off:3 Def:8),,92-75,92,75
 0021900560,2020-01-08,NOP,CHI,36.0,3,0,0,NOP,,period_end,0,False,False,,,92-75,92,75
 0021900560,2020-01-08,NOP,CHI,36.0,4,12,0,NOP,,period_start,0,False,False,,,92-75,92,75
 0021900560,2020-01-08,NOP,CHI,36.13,4,11,52,NOP,NOP,fg_make,101,False,False,Alexander-Walker 6' Driving Floating Jump Shot (10 PTS),,94-75,94,75

@@ -98,15 +98,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000310,2021-01-31,WAS,BKN,10.35,1,1,39,WAS,BKN,foul,26,False,False,,Perry Offensive Charge Foul (P1.PN) (E.Scott),18-33,18,33
 0022000310,2021-01-31,WAS,BKN,10.35,1,1,39,BKN,BKN,tov,37,False,False,,Perry Offensive Foul Turnover (P1.T4),18-33,18,33
 0022000310,2021-01-31,WAS,BKN,10.55,1,1,27,WAS,WAS,tov,2,False,True,Westbrook Lost Ball Turnover (P1.T3),,18-33,18,33
-0022000310,2021-01-31,WAS,BKN,10.55,1,1,27,BKN,BKN,tov,2,False,True,,Luwawu-Cabarrot Lost Ball Turnover (P1.T5),18-33,18,33
 0022000310,2021-01-31,WAS,BKN,10.55,1,1,27,WAS,BKN,steal,2,False,True,steal,steal,18-33,18,33
+0022000310,2021-01-31,WAS,BKN,10.55,1,1,27,BKN,BKN,tov,2,False,True,,Luwawu-Cabarrot Lost Ball Turnover (P1.T5),18-33,18,33
 0022000310,2021-01-31,WAS,BKN,10.55,1,1,27,BKN,WAS,steal,2,False,True,steal,steal,18-33,18,33
 0022000310,2021-01-31,WAS,BKN,10.67,1,1,20,WAS,WAS,fg_make,5,False,False,Mathews 1' Layup (2 PTS),,20-33,20,33
 0022000310,2021-01-31,WAS,BKN,10.95,1,1,3,BKN,BKN,fg_miss,1,False,False,,MISS Irving 9' Jump Shot,20-33,20,33
 0022000310,2021-01-31,WAS,BKN,11.05,1,0,57,WAS,WAS,reb,0,False,False,Bertans REBOUND (Off:0 Def:1),,20-33,20,33
 0022000310,2021-01-31,WAS,BKN,11.08,1,0,55,WAS,WAS,fg_miss,5,True,False,MISS Smith 4' Layup,,20-33,20,33
-0022000310,2021-01-31,WAS,BKN,11.08,1,0,55,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,20-33,20,33
 0022000310,2021-01-31,WAS,BKN,11.08,1,0,55,WAS,BKN,block,5,True,False,block,block,20-33,20,33
+0022000310,2021-01-31,WAS,BKN,11.08,1,0,55,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,20-33,20,33
 0022000310,2021-01-31,WAS,BKN,11.17,1,0,50,WAS,WAS,fg3_make,1,False,False,Westbrook 3PT Jump Shot (11 PTS),,23-33,23,33
 0022000310,2021-01-31,WAS,BKN,11.35,1,0,39,BKN,BKN,fg3_make,1,False,False,,Shamet 30' 3PT Jump Shot (5 PTS) (Irving 3 AST),23-36,23,36
 0022000310,2021-01-31,WAS,BKN,11.57,1,0,26,WAS,WAS,fg_make,79,False,False,Smith 11' Pullup Jump Shot (6 PTS),,25-36,25,36
@@ -140,9 +140,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000310,2021-01-31,WAS,BKN,14.17,2,9,50,WAS,WAS,fg_make,73,False,False,Westbrook 1' Driving Reverse Layup (13 PTS),,37-38,37,38
 0022000310,2021-01-31,WAS,BKN,14.37,2,9,38,BKN,BKN,fg3_make,1,False,False,,Shamet 29' 3PT Jump Shot (8 PTS) (Harris 1 AST),37-41,37,41
 0022000310,2021-01-31,WAS,BKN,14.55,2,9,27,WAS,WAS,fg_miss,5,True,False,MISS Hachimura 5' Layup,,37-41,37,41
+0022000310,2021-01-31,WAS,BKN,14.55,2,9,27,WAS,BKN,block,5,True,False,block,block,37-41,37,41
 0022000310,2021-01-31,WAS,BKN,14.55,2,9,27,BKN,BKN,reb,0,False,False,,Perry REBOUND (Off:0 Def:2),37-41,37,41
 0022000310,2021-01-31,WAS,BKN,14.55,2,9,27,BKN,WAS,foul,1,False,False,Westbrook P.FOUL (P1.T1) (J.Goble),,37-41,37,41
-0022000310,2021-01-31,WAS,BKN,14.55,2,9,27,WAS,BKN,block,5,True,False,block,block,37-41,37,41
 0022000310,2021-01-31,WAS,BKN,14.82,2,9,11,BKN,BKN,fg3_make,1,False,False,,Green 24' 3PT Jump Shot (7 PTS) (Harris 2 AST),37-44,37,44
 0022000310,2021-01-31,WAS,BKN,15.03,2,8,58,WAS,WAS,fg3_miss,1,False,False,MISS Mathews 30' 3PT Jump Shot,,37-44,37,44
 0022000310,2021-01-31,WAS,BKN,15.12,2,8,53,BKN,BKN,reb,0,False,False,,Johnson REBOUND (Off:0 Def:2),37-44,37,44
@@ -180,8 +180,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000310,2021-01-31,WAS,BKN,18.82,2,5,11,WAS,WAS,fg3_miss,1,False,False,MISS Hachimura 26' 3PT Jump Shot,,48-54,48,54
 0022000310,2021-01-31,WAS,BKN,18.82,2,5,11,BKN,BKN,reb,0,False,False,,Brown REBOUND (Off:1 Def:4),48-54,48,54
 0022000310,2021-01-31,WAS,BKN,18.95,2,5,3,BKN,BKN,tov,1,False,True,,Durant Bad Pass Turnover (P2.T9),48-54,48,54
-0022000310,2021-01-31,WAS,BKN,18.95,2,5,3,WAS,BKN,foul,1,False,False,,Jordan P.FOUL (P2.PN) (G.Petraitis),48-54,48,54
 0022000310,2021-01-31,WAS,BKN,18.95,2,5,3,BKN,WAS,steal,1,False,True,steal,steal,48-54,48,54
+0022000310,2021-01-31,WAS,BKN,18.95,2,5,3,WAS,BKN,foul,1,False,False,,Jordan P.FOUL (P2.PN) (G.Petraitis),48-54,48,54
 0022000310,2021-01-31,WAS,BKN,18.95,2,5,3,WAS,WAS,ft_make,11,False,False,Beal Free Throw 1 of 2 (5 PTS),,49-54,49,54
 0022000310,2021-01-31,WAS,BKN,18.95,2,5,3,WAS,WAS,ft_make,12,False,False,Beal Free Throw 2 of 2 (6 PTS),,50-54,50,54
 0022000310,2021-01-31,WAS,BKN,19.22,2,4,47,BKN,BKN,fg_make,79,False,False,,Durant 16' Pullup Jump Shot (12 PTS) (Jordan 2 AST),50-56,50,56
@@ -217,8 +217,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000310,2021-01-31,WAS,BKN,21.98,2,2,1,BKN,BKN,fg3_miss,1,False,False,,MISS Luwawu-Cabarrot 24' 3PT Jump Shot,59-62,59,62
 0022000310,2021-01-31,WAS,BKN,22.05,2,1,57,BKN,BKN,reb,0,False,False,,Irving REBOUND (Off:1 Def:1),59-62,59,62
 0022000310,2021-01-31,WAS,BKN,22.05,2,1,57,BKN,BKN,fg_miss,1,True,False,,MISS Durant 15' Jump Shot,59-62,59,62
-0022000310,2021-01-31,WAS,BKN,22.05,2,1,57,WAS,WAS,reb,0,False,False,Beal REBOUND (Off:1 Def:1),,59-62,59,62
 0022000310,2021-01-31,WAS,BKN,22.05,2,1,57,BKN,WAS,block,1,True,False,block,block,59-62,59,62
+0022000310,2021-01-31,WAS,BKN,22.05,2,1,57,WAS,WAS,reb,0,False,False,Beal REBOUND (Off:1 Def:1),,59-62,59,62
 0022000310,2021-01-31,WAS,BKN,22.07,2,1,56,WAS,WAS,tov,45,False,False,Beal Out of Bounds - Bad Pass Turnover Turnover (P2.T7),,59-62,59,62
 0022000310,2021-01-31,WAS,BKN,22.18,2,1,49,BKN,BKN,fg_make,108,False,False,,Jordan 4' Cutting Dunk Shot (8 PTS) (Durant 5 AST),59-64,59,64
 0022000310,2021-01-31,WAS,BKN,22.48,2,1,31,WAS,WAS,fg_miss,5,False,False,MISS Westbrook 5' Layup,,59-64,59,64
@@ -310,8 +310,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000310,2021-01-31,WAS,BKN,32.03,3,3,58,WAS,WAS,fg_miss,5,False,False,MISS Smith 3' Layup,,84-91,84,91
 0022000310,2021-01-31,WAS,BKN,32.12,3,3,53,WAS,WAS,reb,0,False,False,Wagner REBOUND (Off:1 Def:3),,84-91,84,91
 0022000310,2021-01-31,WAS,BKN,32.13,3,3,52,WAS,WAS,fg_miss,5,True,False,MISS Wagner 4' Layup,,84-91,84,91
-0022000310,2021-01-31,WAS,BKN,32.13,3,3,52,BKN,BKN,reb,0,False,False,,Shamet REBOUND (Off:0 Def:1),84-91,84,91
 0022000310,2021-01-31,WAS,BKN,32.13,3,3,52,WAS,BKN,block,5,True,False,block,block,84-91,84,91
+0022000310,2021-01-31,WAS,BKN,32.13,3,3,52,BKN,BKN,reb,0,False,False,,Shamet REBOUND (Off:0 Def:1),84-91,84,91
 0022000310,2021-01-31,WAS,BKN,32.2,3,3,48,BKN,BKN,fg3_miss,1,False,False,,MISS Shamet 26' 3PT Jump Shot,84-91,84,91
 0022000310,2021-01-31,WAS,BKN,32.25,3,3,45,WAS,WAS,reb,0,False,False,Mathews REBOUND (Off:0 Def:1),,84-91,84,91
 0022000310,2021-01-31,WAS,BKN,32.35,3,3,39,WAS,WAS,fg_make,80,False,False,Beal 15' Step Back Jump Shot (15 PTS),,86-91,86,91
@@ -337,8 +337,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000310,2021-01-31,WAS,BKN,35.05,3,0,57,BKN,BKN,fg3_make,1,False,False,,Green 3PT Jump Shot (15 PTS) (Luwawu-Cabarrot 3 AST),96-106,96,106
 0022000310,2021-01-31,WAS,BKN,35.23,3,0,46,WAS,WAS,fg3_make,79,False,False,Westbrook 27' 3PT Pullup Jump Shot (26 PTS),,99-106,99,106
 0022000310,2021-01-31,WAS,BKN,35.47,3,0,32,BKN,BKN,fg_miss,79,True,False,,MISS Irving 12' Pullup Jump Shot,99-106,99,106
-0022000310,2021-01-31,WAS,BKN,35.47,3,0,32,BKN,BKN,reb,0,False,False,,Nets Rebound,99-106,99,106
 0022000310,2021-01-31,WAS,BKN,35.47,3,0,32,BKN,WAS,block,79,True,False,block,block,99-106,99,106
+0022000310,2021-01-31,WAS,BKN,35.47,3,0,32,BKN,BKN,reb,0,False,False,,Nets Rebound,99-106,99,106
 0022000310,2021-01-31,WAS,BKN,35.58,3,0,25,BKN,WAS,foul,1,False,False,Westbrook P.FOUL (P3.PN) (G.Petraitis),,99-106,99,106
 0022000310,2021-01-31,WAS,BKN,35.58,3,0,25,BKN,BKN,ft_make,11,False,False,,Durant Free Throw 1 of 2 (28 PTS),99-107,99,107
 0022000310,2021-01-31,WAS,BKN,35.58,3,0,25,BKN,BKN,ft_make,12,False,False,,Durant Free Throw 2 of 2 (29 PTS),99-108,99,108

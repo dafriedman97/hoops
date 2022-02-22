@@ -54,8 +54,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901244,2020-08-02,BKN,WAS,5.65,1,6,21,BKN,WAS,foul,1,False,False,,Napier P.FOUL (P1.T2) (K.Cutler),5-14,5,14
 0021901244,2020-08-02,BKN,WAS,5.75,1,6,15,BKN,BKN,fg_make,6,False,False,LeVert 2' Driving Layup (2 PTS),,7-14,7,14
 0021901244,2020-08-02,BKN,WAS,5.97,1,6,2,WAS,WAS,fg_miss,6,True,False,,MISS Brown Jr. 3' Driving Layup,7-14,7,14
-0021901244,2020-08-02,BKN,WAS,5.97,1,6,2,WAS,WAS,reb,0,False,False,,Wizards Rebound,7-14,7,14
 0021901244,2020-08-02,BKN,WAS,5.97,1,6,2,WAS,BKN,block,6,True,False,block,block,7-14,7,14
+0021901244,2020-08-02,BKN,WAS,5.97,1,6,2,WAS,WAS,reb,0,False,False,,Wizards Rebound,7-14,7,14
 0021901244,2020-08-02,BKN,WAS,6.12,1,5,53,WAS,WAS,fg_miss,58,True,False,,MISS Hachimura 2' Turnaround Hook Shot,7-14,7,14
 0021901244,2020-08-02,BKN,WAS,6.12,1,5,53,WAS,BKN,block,58,True,False,block,block,7-14,7,14
 0021901244,2020-08-02,BKN,WAS,6.17,1,5,50,BKN,BKN,reb,0,False,False,Harris REBOUND (Off:1 Def:1),,7-14,7,14
@@ -337,8 +337,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901244,2020-08-02,BKN,WAS,32.95,3,3,3,WAS,WAS,fg_make,63,False,False,,Robinson 11' Fadeaway Jumper (10 PTS) (Smith 4 AST),76-80,76,80
 0021901244,2020-08-02,BKN,WAS,33.35,3,2,39,BKN,BKN,fg_miss,79,False,False,MISS Temple 16' Pullup Jump Shot,,76-80,76,80
 0021901244,2020-08-02,BKN,WAS,33.42,3,2,35,WAS,WAS,reb,0,False,False,,Smith REBOUND (Off:0 Def:4),76-80,76,80
-0021901244,2020-08-02,BKN,WAS,33.45,3,2,33,WAS,BKN,foul,1,False,False,LeVert P.FOUL (P2.PN) (M.Ayotte),,76-80,76,80
 0021901244,2020-08-02,BKN,WAS,33.45,3,2,33,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.3 Short 0),76-80,76,80
+0021901244,2020-08-02,BKN,WAS,33.45,3,2,33,WAS,BKN,foul,1,False,False,LeVert P.FOUL (P2.PN) (M.Ayotte),,76-80,76,80
 0021901244,2020-08-02,BKN,WAS,33.45,3,2,33,WAS,WAS,ft_miss,11,False,False,,MISS Smith Free Throw 1 of 2,76-80,76,80
 0021901244,2020-08-02,BKN,WAS,33.45,3,2,33,WAS,WAS,reb,1,False,False,,Wizards Rebound,76-80,76,80
 0021901244,2020-08-02,BKN,WAS,33.45,3,2,33,WAS,WAS,ft_make,12,False,False,,Smith Free Throw 2 of 2 (7 PTS),76-81,76,81
@@ -386,15 +386,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901244,2020-08-02,BKN,WAS,37.85,4,10,9,BKN,WAS,steal,1,False,True,steal,steal,92-89,92,89
 0021901244,2020-08-02,BKN,WAS,37.95,4,10,3,WAS,WAS,fg3_make,1,False,False,,Smith 24' 3PT Jump Shot (12 PTS) (Brown Jr. 7 AST),92-92,92,92
 0021901244,2020-08-02,BKN,WAS,38.28,4,9,43,BKN,BKN,fg_miss,6,True,False,MISS Chiozza 4' Driving Layup,,92-92,92,92
-0021901244,2020-08-02,BKN,WAS,38.28,4,9,43,BKN,BKN,reb,0,False,False,NETS Rebound,,92-92,92,92
 0021901244,2020-08-02,BKN,WAS,38.28,4,9,43,BKN,WAS,block,6,True,False,block,block,92-92,92,92
+0021901244,2020-08-02,BKN,WAS,38.28,4,9,43,BKN,BKN,reb,0,False,False,NETS Rebound,,92-92,92,92
 0021901244,2020-08-02,BKN,WAS,38.33,4,9,40,BKN,BKN,fg_miss,47,False,False,MISS Kurucs 7' Turnaround Jump Shot,,92-92,92,92
 0021901244,2020-08-02,BKN,WAS,38.42,4,9,35,WAS,WAS,reb,0,False,False,,Robinson REBOUND (Off:0 Def:1),92-92,92,92
 0021901244,2020-08-02,BKN,WAS,38.57,4,9,26,WAS,BKN,foul,1,False,False,Luwawu-Cabarrot P.FOUL (P2.T1) (K.Cutler),,92-92,92,92
 0021901244,2020-08-02,BKN,WAS,38.67,4,9,20,WAS,WAS,fg_miss,79,False,False,,MISS Smith 17' Pullup Jump Shot,92-92,92,92
 0021901244,2020-08-02,BKN,WAS,38.72,4,9,17,BKN,BKN,reb,0,False,False,Allen REBOUND (Off:5 Def:8),,92-92,92,92
-0021901244,2020-08-02,BKN,WAS,38.9,4,9,6,BKN,BKN,tov,1,False,False,Kurucs Bad Pass Turnover (P2.T11),,92-92,92,92
 0021901244,2020-08-02,BKN,WAS,38.9,4,9,6,WAS,BKN,foul,3,False,False,Allen L.B.FOUL (P3.T2) (M.Ayotte),,92-92,92,92
+0021901244,2020-08-02,BKN,WAS,38.9,4,9,6,BKN,BKN,tov,1,False,False,Kurucs Bad Pass Turnover (P2.T11),,92-92,92,92
 0021901244,2020-08-02,BKN,WAS,39.12,4,8,53,WAS,WAS,fg_make,101,False,False,,Brown Jr. 14' Driving Floating Jump Shot (18 PTS) (Smith 5 AST),92-94,92,94
 0021901244,2020-08-02,BKN,WAS,39.32,4,8,41,BKN,WAS,foul,1,False,False,,Grant P.FOUL (P4.T2) (K.Cutler),92-94,92,94
 0021901244,2020-08-02,BKN,WAS,39.53,4,8,28,BKN,BKN,fg_miss,79,False,False,MISS LeVert 22' Pullup Jump Shot,,92-94,92,94

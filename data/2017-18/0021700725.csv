@@ -30,8 +30,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700725,2018-01-27,IND,ORL,3.97,1,8,2,ORL,ORL,fg_make,99,False,False,,Payton 1' Cutting Finger Roll Layup Shot (2 PTS) (Gordon 3 AST),6-14,6,14
 0021700725,2018-01-27,IND,ORL,3.97,1,8,2,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 1 Short 0),,6-14,6,14
 0021700725,2018-01-27,IND,ORL,4.13,1,7,52,IND,IND,fg_miss,5,True,False,MISS Sabonis 8' Layup,,6-14,6,14
-0021700725,2018-01-27,IND,ORL,4.13,1,7,52,ORL,ORL,reb,0,False,False,,Magic Rebound,6-14,6,14
 0021700725,2018-01-27,IND,ORL,4.13,1,7,52,IND,ORL,block,5,True,False,block,block,6-14,6,14
+0021700725,2018-01-27,IND,ORL,4.13,1,7,52,ORL,ORL,reb,0,False,False,,Magic Rebound,6-14,6,14
 0021700725,2018-01-27,IND,ORL,4.32,1,7,41,ORL,ORL,fg3_miss,1,False,False,,MISS Gordon 26' 3PT Jump Shot,6-14,6,14
 0021700725,2018-01-27,IND,ORL,4.37,1,7,38,ORL,ORL,reb,0,False,False,,Magic Rebound,6-14,6,14
 0021700725,2018-01-27,IND,ORL,4.4,1,7,36,ORL,ORL,fg_miss,1,False,False,,MISS Simmons 17' Jump Shot,6-14,6,14
@@ -327,10 +327,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700725,2018-01-27,IND,ORL,35.97,3,0,2,ORL,ORL,ft_miss,12,False,False,,MISS Birch Free Throw 2 of 2,84-92,84,92
 0021700725,2018-01-27,IND,ORL,35.98,3,0,1,IND,IND,reb,0,False,False,Stephenson REBOUND (Off:1 Def:3),,84-92,84,92
 0021700725,2018-01-27,IND,ORL,36.0,3,0,0,IND,IND,fg3_miss,1,True,False,MISS Stephenson 70' 3PT Jump Shot,,84-92,84,92
+0021700725,2018-01-27,IND,ORL,36.0,3,0,0,IND,ORL,block,1,True,False,block,block,84-92,84,92
 0021700725,2018-01-27,IND,ORL,36.0,3,0,0,IND,IND,reb,0,False,False,PACERS Rebound,,84-92,84,92
 0021700725,2018-01-27,IND,ORL,36.0,3,0,0,IND,,period_end,0,False,False,,,84-92,84,92
 0021700725,2018-01-27,IND,ORL,36.0,4,12,0,IND,,period_start,0,False,False,,,84-92,84,92
-0021700725,2018-01-27,IND,ORL,36.0,3,0,0,IND,ORL,block,1,True,False,block,block,84-92,84,92
 0021700725,2018-01-27,IND,ORL,36.4,4,11,36,ORL,ORL,tov,11,False,False,,Magic Turnover: Shot Clock (T#13),84-92,84,92
 0021700725,2018-01-27,IND,ORL,36.63,4,11,22,IND,IND,fg_make,5,False,False,Jefferson 6' Layup (4 PTS) (Stephenson 5 AST),,86-92,86,92
 0021700725,2018-01-27,IND,ORL,36.9,4,11,6,ORL,IND,foul,2,False,False,Jefferson S.FOUL (P3.T1) (C.Washington),,86-92,86,92
@@ -403,8 +403,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700725,2018-01-27,IND,ORL,47.37,4,0,38,IND,IND,fg_miss,80,False,False,MISS Oladipo 18' Step Back Jump Shot,,113-110,113,110
 0021700725,2018-01-27,IND,ORL,47.42,4,0,35,IND,IND,reb,0,False,False,Stephenson REBOUND (Off:2 Def:3),,113-110,113,110
 0021700725,2018-01-27,IND,ORL,47.47,4,0,32,IND,IND,fg_miss,5,True,False,MISS Stephenson Layup,,113-110,113,110
-0021700725,2018-01-27,IND,ORL,47.47,4,0,32,ORL,ORL,reb,0,False,False,,Gordon REBOUND (Off:4 Def:7),113-110,113,110
 0021700725,2018-01-27,IND,ORL,47.47,4,0,32,IND,ORL,block,5,True,False,block,block,113-110,113,110
+0021700725,2018-01-27,IND,ORL,47.47,4,0,32,ORL,ORL,reb,0,False,False,,Gordon REBOUND (Off:4 Def:7),113-110,113,110
 0021700725,2018-01-27,IND,ORL,47.63,4,0,22,ORL,ORL,fg_make,6,False,False,,Fournier 1' Driving Layup (21 PTS),113-112,113,112
 0021700725,2018-01-27,IND,ORL,47.63,4,0,22,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 5 Short 0),,113-112,113,112
 0021700725,2018-01-27,IND,ORL,47.63,4,0,22,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 6 Short 0),,113-112,113,112

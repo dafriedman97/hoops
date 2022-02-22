@@ -33,8 +33,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000966,2021-05-01,LAC,DEN,5.18,1,6,49,LAC,LAC,fg3_miss,1,False,False,MISS George 27' 3PT Jump Shot,,18-7,18,7
 0022000966,2021-05-01,LAC,DEN,5.23,1,6,46,DEN,DEN,reb,0,False,False,,Porter Jr. REBOUND (Off:0 Def:1),18-7,18,7
 0022000966,2021-05-01,LAC,DEN,5.38,1,6,37,DEN,DEN,tov,1,False,True,,Dozier Bad Pass Turnover (P1.T1),18-7,18,7
-0022000966,2021-05-01,LAC,DEN,5.38,1,6,37,LAC,DEN,foul,28,False,False,,Campazzo Personal Take Foul (P1.T2) (J.Tiven),18-7,18,7
 0022000966,2021-05-01,LAC,DEN,5.38,1,6,37,DEN,LAC,steal,1,False,True,steal,steal,18-7,18,7
+0022000966,2021-05-01,LAC,DEN,5.38,1,6,37,LAC,DEN,foul,28,False,False,,Campazzo Personal Take Foul (P1.T2) (J.Tiven),18-7,18,7
 0022000966,2021-05-01,LAC,DEN,5.72,1,6,17,LAC,LAC,fg_miss,47,False,False,MISS Leonard 6' Turnaround Jump Shot,,18-7,18,7
 0022000966,2021-05-01,LAC,DEN,5.75,1,6,15,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:0 Def:2),18-7,18,7
 0022000966,2021-05-01,LAC,DEN,6.02,1,5,59,DEN,DEN,fg_make,5,False,False,,Jokic 3' Layup (5 PTS),18-9,18,9
@@ -82,8 +82,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000966,2021-05-01,LAC,DEN,10.35,1,1,39,DEN,DEN,fg_miss,63,False,False,,MISS Porter Jr. 12' Fadeaway Jumper,26-24,26,24
 0022000966,2021-05-01,LAC,DEN,10.38,1,1,37,LAC,LAC,reb,0,False,False,Mann REBOUND (Off:0 Def:1),,26-24,26,24
 0022000966,2021-05-01,LAC,DEN,10.52,1,1,29,LAC,LAC,fg_miss,98,True,False,MISS George 3' Cutting Layup Shot,,26-24,26,24
-0022000966,2021-05-01,LAC,DEN,10.52,1,1,29,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,26-24,26,24
 0022000966,2021-05-01,LAC,DEN,10.52,1,1,29,LAC,DEN,block,98,True,False,block,block,26-24,26,24
+0022000966,2021-05-01,LAC,DEN,10.52,1,1,29,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,26-24,26,24
 0022000966,2021-05-01,LAC,DEN,10.75,1,1,15,LAC,LAC,fg_miss,5,False,False,MISS Mann 3' Layup,,26-24,26,24
 0022000966,2021-05-01,LAC,DEN,10.77,1,1,14,LAC,LAC,reb,0,False,False,Mann REBOUND (Off:1 Def:1),,26-24,26,24
 0022000966,2021-05-01,LAC,DEN,10.78,1,1,13,LAC,LAC,fg_make,72,False,False,Mann 2' Putback Layup (2 PTS),,28-24,28,24
@@ -119,8 +119,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000966,2021-05-01,LAC,DEN,15.03,2,8,58,LAC,LAC,fg_miss,1,False,False,MISS Leonard 18' Jump Shot,,34-34,34,34
 0022000966,2021-05-01,LAC,DEN,15.03,2,8,58,LAC,LAC,reb,0,False,False,CLIPPERS Rebound,,34-34,34,34
 0022000966,2021-05-01,LAC,DEN,15.07,2,8,56,LAC,LAC,tov,1,False,True,Rondo Bad Pass Turnover (P2.T2),,34-34,34,34
-0022000966,2021-05-01,LAC,DEN,15.07,2,8,56,DEN,LAC,foul,28,False,False,Patterson Personal Take Foul (P1.T1) (J.Van Duyne),,34-34,34,34
 0022000966,2021-05-01,LAC,DEN,15.07,2,8,56,LAC,DEN,steal,1,False,True,steal,steal,34-34,34,34
+0022000966,2021-05-01,LAC,DEN,15.07,2,8,56,DEN,LAC,foul,28,False,False,Patterson Personal Take Foul (P1.T1) (J.Van Duyne),,34-34,34,34
 0022000966,2021-05-01,LAC,DEN,15.28,2,8,43,DEN,DEN,fg_make,102,False,False,,Millsap 6' Driving Floating Bank Jump Shot (6 PTS) (Dozier 1 AST),34-36,34,36
 0022000966,2021-05-01,LAC,DEN,15.47,2,8,32,LAC,LAC,fg_make,6,False,False,Rondo 3' Driving Layup (4 PTS),,36-36,36,36
 0022000966,2021-05-01,LAC,DEN,15.88,2,8,7,DEN,DEN,fg3_make,79,False,False,,Dozier 27' 3PT Pullup Jump Shot (7 PTS) (Harrison 1 AST),36-39,36,39
@@ -221,8 +221,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000966,2021-05-01,LAC,DEN,25.82,3,10,11,DEN,DEN,fg_make,58,False,False,,Jokic 4' Turnaround Hook Shot (13 PTS),51-56,51,56
 0022000966,2021-05-01,LAC,DEN,26.03,3,9,58,LAC,LAC,fg3_make,80,False,False,Leonard 26' 3PT Step Back Jump Shot (12 PTS) (Jackson 1 AST),,54-56,54,56
 0022000966,2021-05-01,LAC,DEN,26.3,3,9,42,DEN,DEN,tov,1,False,True,,Dozier Bad Pass Turnover (P2.T6),54-56,54,56
-0022000966,2021-05-01,LAC,DEN,26.3,3,9,42,LAC,DEN,foul,28,False,False,,Campazzo Personal Take Foul (P3.T3) (M.Ayotte),54-56,54,56
 0022000966,2021-05-01,LAC,DEN,26.3,3,9,42,DEN,LAC,steal,1,False,True,steal,steal,54-56,54,56
+0022000966,2021-05-01,LAC,DEN,26.3,3,9,42,LAC,DEN,foul,28,False,False,,Campazzo Personal Take Foul (P3.T3) (M.Ayotte),54-56,54,56
 0022000966,2021-05-01,LAC,DEN,26.55,3,9,27,LAC,LAC,fg3_make,80,False,False,Jackson 25' 3PT Step Back Jump Shot (12 PTS) (Leonard 4 AST),,57-56,57,56
 0022000966,2021-05-01,LAC,DEN,26.75,3,9,15,DEN,DEN,fg_miss,1,False,False,,MISS Porter Jr. 17' Jump Shot,57-56,57,56
 0022000966,2021-05-01,LAC,DEN,26.8,3,9,12,LAC,LAC,reb,0,False,False,Zubac REBOUND (Off:2 Def:4),,57-56,57,56
@@ -320,8 +320,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000966,2021-05-01,LAC,DEN,37.68,4,10,19,LAC,LAC,fg_miss,79,False,False,MISS Batum 16' Pullup Jump Shot,,76-87,76,87
 0022000966,2021-05-01,LAC,DEN,37.73,4,10,16,DEN,DEN,reb,0,False,False,,Porter Jr. REBOUND (Off:0 Def:6),76-87,76,87
 0022000966,2021-05-01,LAC,DEN,37.83,4,10,10,DEN,DEN,fg_miss,6,True,False,,MISS Rivers 4' Driving Layup,76-87,76,87
-0022000966,2021-05-01,LAC,DEN,37.83,4,10,10,DEN,DEN,reb,0,False,False,,Nuggets Rebound,76-87,76,87
 0022000966,2021-05-01,LAC,DEN,37.83,4,10,10,DEN,LAC,block,6,True,False,block,block,76-87,76,87
+0022000966,2021-05-01,LAC,DEN,37.83,4,10,10,DEN,DEN,reb,0,False,False,,Nuggets Rebound,76-87,76,87
 0022000966,2021-05-01,LAC,DEN,38.08,4,9,55,DEN,DEN,fg_miss,47,False,False,,MISS Millsap 18' Turnaround Jump Shot,76-87,76,87
 0022000966,2021-05-01,LAC,DEN,38.13,4,9,52,LAC,LAC,reb,0,False,False,Cousins REBOUND (Off:1 Def:1),,76-87,76,87
 0022000966,2021-05-01,LAC,DEN,38.28,4,9,43,LAC,LAC,fg_make,79,False,False,Rondo 15' Pullup Jump Shot (11 PTS),,78-87,78,87

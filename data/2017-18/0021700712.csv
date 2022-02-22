@@ -55,8 +55,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700712,2018-01-25,DEN,NYK,7.67,1,4,20,NYK,NYK,reb,0,False,False,,Jack REBOUND (Off:0 Def:1),26-14,26,14
 0021700712,2018-01-25,DEN,NYK,7.73,1,4,16,NYK,NYK,fg3_make,1,False,False,,Thomas 3PT Jump Shot (3 PTS) (Jack 4 AST),26-17,26,17
 0021700712,2018-01-25,DEN,NYK,8.0,1,4,0,DEN,DEN,tov,1,False,True,Barton Bad Pass Turnover (P1.T2),,26-17,26,17
-0021700712,2018-01-25,DEN,NYK,8.0,1,4,0,NYK,DEN,foul,28,False,False,Jokic Personal Take Foul (P1.T2) (D.Taylor),,26-17,26,17
 0021700712,2018-01-25,DEN,NYK,8.0,1,4,0,DEN,NYK,steal,1,False,True,steal,steal,26-17,26,17
+0021700712,2018-01-25,DEN,NYK,8.0,1,4,0,NYK,DEN,foul,28,False,False,Jokic Personal Take Foul (P1.T2) (D.Taylor),,26-17,26,17
 0021700712,2018-01-25,DEN,NYK,8.3,1,3,42,NYK,DEN,violation,5,False,False,Jokic Violation:Kicked Ball (N.Buchert),,26-17,26,17
 0021700712,2018-01-25,DEN,NYK,8.37,1,3,38,NYK,NYK,fg3_make,80,False,False,,Lee 24' 3PT Step Back Jump Shot (5 PTS) (Burke 1 AST),26-20,26,20
 0021700712,2018-01-25,DEN,NYK,8.68,1,3,19,DEN,DEN,fg_miss,73,False,False,MISS Lyles 2' Driving Reverse Layup,,26-20,26,20
@@ -226,8 +226,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700712,2018-01-25,DEN,NYK,27.22,3,8,47,NYK,NYK,fg3_miss,1,False,False,,MISS Porzingis 25' 3PT Jump Shot,77-69,77,69
 0021700712,2018-01-25,DEN,NYK,27.27,3,8,44,DEN,DEN,reb,0,False,False,Murray REBOUND (Off:0 Def:3),,77-69,77,69
 0021700712,2018-01-25,DEN,NYK,27.33,3,8,40,DEN,DEN,fg_miss,6,True,False,MISS Murray 4' Driving Layup,,77-69,77,69
-0021700712,2018-01-25,DEN,NYK,27.33,3,8,40,NYK,NYK,reb,0,False,False,,Knicks Rebound,77-69,77,69
 0021700712,2018-01-25,DEN,NYK,27.33,3,8,40,DEN,NYK,block,6,True,False,block,block,77-69,77,69
+0021700712,2018-01-25,DEN,NYK,27.33,3,8,40,NYK,NYK,reb,0,False,False,,Knicks Rebound,77-69,77,69
 0021700712,2018-01-25,DEN,NYK,27.37,3,8,38,,DEN,jump_ball,0,False,False,,,77-69,77,69
 0021700712,2018-01-25,DEN,NYK,27.47,3,8,32,NYK,DEN,foul,1,False,False,Barton P.FOUL (P1.T2) (S.Foster),,77-69,77,69
 0021700712,2018-01-25,DEN,NYK,27.53,3,8,28,NYK,NYK,fg_miss,79,False,False,,MISS Jack 20' Pullup Jump Shot,77-69,77,69
@@ -339,8 +339,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700712,2018-01-25,DEN,NYK,40.58,4,7,25,NYK,NYK,reb,1,False,False,,Knicks Rebound,114-99,114,99
 0021700712,2018-01-25,DEN,NYK,40.58,4,7,25,NYK,NYK,ft_make,12,False,False,,Beasley Free Throw 2 of 2 (15 PTS),114-100,114,100
 0021700712,2018-01-25,DEN,NYK,40.83,4,7,10,DEN,DEN,tov,2,False,True,Jokic Lost Ball Turnover (P1.T11),,114-100,114,100
-0021700712,2018-01-25,DEN,NYK,40.83,4,7,10,NYK,DEN,foul,1,False,False,Jokic P.FOUL (P4.T2) (S.Foster),,114-100,114,100
 0021700712,2018-01-25,DEN,NYK,40.83,4,7,10,DEN,NYK,steal,2,False,True,steal,steal,114-100,114,100
+0021700712,2018-01-25,DEN,NYK,40.83,4,7,10,NYK,DEN,foul,1,False,False,Jokic P.FOUL (P4.T2) (S.Foster),,114-100,114,100
 0021700712,2018-01-25,DEN,NYK,40.95,4,7,3,NYK,NYK,fg_make,1,False,False,,Porzingis 20' Jump Shot (19 PTS) (Jack 7 AST),114-102,114,102
 0021700712,2018-01-25,DEN,NYK,41.25,4,6,45,DEN,DEN,fg3_miss,1,False,False,MISS Barton 24' 3PT Jump Shot,,114-102,114,102
 0021700712,2018-01-25,DEN,NYK,41.3,4,6,42,NYK,NYK,reb,0,False,False,,Lee REBOUND (Off:0 Def:4),114-102,114,102
@@ -366,8 +366,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700712,2018-01-25,DEN,NYK,44.53,4,3,28,NYK,NYK,fg3_miss,1,False,False,,MISS Burke 25' 3PT Jump Shot,122-112,122,112
 0021700712,2018-01-25,DEN,NYK,44.6,4,3,24,DEN,DEN,reb,0,False,False,Harris REBOUND (Off:0 Def:3),,122-112,122,112
 0021700712,2018-01-25,DEN,NYK,44.85,4,3,9,DEN,DEN,fg_miss,78,True,False,MISS Harris 10' Floating Jump Shot,,122-112,122,112
-0021700712,2018-01-25,DEN,NYK,44.85,4,3,9,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,122-112,122,112
 0021700712,2018-01-25,DEN,NYK,44.85,4,3,9,DEN,NYK,block,78,True,False,block,block,122-112,122,112
+0021700712,2018-01-25,DEN,NYK,44.85,4,3,9,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,122-112,122,112
 0021700712,2018-01-25,DEN,NYK,44.88,4,3,7,DEN,DEN,fg3_miss,1,False,False,MISS Harris 26' 3PT Jump Shot,,122-112,122,112
 0021700712,2018-01-25,DEN,NYK,44.93,4,3,4,NYK,NYK,reb,0,False,False,,Kanter REBOUND (Off:1 Def:6),122-112,122,112
 0021700712,2018-01-25,DEN,NYK,45.05,4,2,57,NYK,NYK,fg_make,75,False,False,,Burke 2' Driving Finger Roll Layup (18 PTS),122-114,122,114

@@ -157,8 +157,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001024,2021-05-09,LAL,PHX,16.0,2,8,0,LAL,LAL,reb,0,False,False,Drummond REBOUND (Off:4 Def:1),,39-26,39,26
 0022001024,2021-05-09,LAL,PHX,16.05,2,7,57,LAL,LAL,fg_miss,6,True,False,MISS Drummond 4' Driving Layup,,39-26,39,26
 0022001024,2021-05-09,LAL,PHX,16.05,2,7,57,LAL,PHX,block,6,True,False,block,block,39-26,39,26
-0022001024,2021-05-09,LAL,PHX,16.13,2,7,52,LAL,LAL,fg_make,72,False,False,Drummond Putback Layup (4 PTS),,41-26,41,26
 0022001024,2021-05-09,LAL,PHX,16.13,2,7,52,LAL,LAL,reb,0,False,False,Drummond REBOUND (Off:5 Def:1),,41-26,41,26
+0022001024,2021-05-09,LAL,PHX,16.13,2,7,52,LAL,LAL,fg_make,72,False,False,Drummond Putback Layup (4 PTS),,41-26,41,26
 0022001024,2021-05-09,LAL,PHX,16.52,2,7,29,PHX,PHX,fg_make,5,False,False,,Ayton 1' Layup (2 PTS) (Bridges 1 AST),41-28,41,28
 0022001024,2021-05-09,LAL,PHX,16.73,2,7,16,LAL,PHX,foul,2,False,False,,Carter S.FOUL (P2.T4) (P.Fraher),41-28,41,28
 0022001024,2021-05-09,LAL,PHX,16.73,2,7,16,LAL,LAL,ft_make,11,False,False,Caruso Free Throw 1 of 2 (9 PTS),,42-28,42,28
@@ -208,8 +208,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001024,2021-05-09,LAL,PHX,22.32,2,1,41,LAL,LAL,fg3_miss,1,False,False,MISS Caldwell-Pope 3PT Jump Shot,,55-39,55,39
 0022001024,2021-05-09,LAL,PHX,22.38,2,1,37,PHX,PHX,reb,0,False,False,,Booker REBOUND (Off:0 Def:3),55-39,55,39
 0022001024,2021-05-09,LAL,PHX,22.48,2,1,31,PHX,PHX,tov,1,False,True,,Booker Bad Pass Turnover (P1.T9),55-39,55,39
-0022001024,2021-05-09,LAL,PHX,22.48,2,1,31,LAL,PHX,foul,28,False,False,,Crowder Personal Take Foul (P1.PN) (P.Fraher),55-39,55,39
 0022001024,2021-05-09,LAL,PHX,22.48,2,1,31,PHX,LAL,steal,1,False,True,steal,steal,55-39,55,39
+0022001024,2021-05-09,LAL,PHX,22.48,2,1,31,LAL,PHX,foul,28,False,False,,Crowder Personal Take Foul (P1.PN) (P.Fraher),55-39,55,39
 0022001024,2021-05-09,LAL,PHX,22.48,2,1,31,LAL,LAL,ft_make,11,False,False,Caldwell-Pope Free Throw 1 of 2 (8 PTS),,56-39,56,39
 0022001024,2021-05-09,LAL,PHX,22.48,2,1,31,LAL,LAL,ft_make,12,False,False,Caldwell-Pope Free Throw 2 of 2 (9 PTS),,57-39,57,39
 0022001024,2021-05-09,LAL,PHX,22.68,2,1,19,PHX,LAL,foul,2,False,False,Horton-Tucker S.FOUL (P1.PN) (T.Ford),,57-39,57,39
@@ -386,8 +386,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001024,2021-05-09,LAL,PHX,43.38,4,4,37,LAL,LAL,fg_miss,5,False,False,MISS Drummond 3' Layup,,115-104,115,104
 0022001024,2021-05-09,LAL,PHX,43.43,4,4,34,LAL,LAL,reb,0,False,False,Drummond REBOUND (Off:7 Def:3),,115-104,115,104
 0022001024,2021-05-09,LAL,PHX,43.45,4,4,33,LAL,LAL,fg_miss,72,True,False,MISS Drummond 3' Putback Layup,,115-104,115,104
-0022001024,2021-05-09,LAL,PHX,43.45,4,4,33,PHX,PHX,reb,0,False,False,,Booker REBOUND (Off:1 Def:4),115-104,115,104
 0022001024,2021-05-09,LAL,PHX,43.45,4,4,33,LAL,PHX,block,72,True,False,block,block,115-104,115,104
+0022001024,2021-05-09,LAL,PHX,43.45,4,4,33,PHX,PHX,reb,0,False,False,,Booker REBOUND (Off:1 Def:4),115-104,115,104
 0022001024,2021-05-09,LAL,PHX,43.47,4,4,32,PHX,LAL,foul,2,False,False,Matthews S.FOUL (P2.T1) (T.Ford),,115-104,115,104
 0022001024,2021-05-09,LAL,PHX,43.47,4,4,32,PHX,PHX,ft_make,11,False,False,,Booker Free Throw 1 of 2 (20 PTS),115-105,115,105
 0022001024,2021-05-09,LAL,PHX,43.47,4,4,32,PHX,PHX,ft_make,12,False,False,,Booker Free Throw 2 of 2 (21 PTS),115-106,115,106
@@ -396,8 +396,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001024,2021-05-09,LAL,PHX,44.05,4,3,57,PHX,PHX,fg_make,44,False,False,,Ayton 3' Reverse Layup (6 PTS) (Bridges 4 AST),115-108,115,108
 0022001024,2021-05-09,LAL,PHX,44.23,4,3,46,LAL,PHX,foul,1,False,False,,Booker P.FOUL (P2.PN) (P.Fraher),115-108,115,108
 0022001024,2021-05-09,LAL,PHX,44.23,4,3,46,LAL,LAL,ft_make,11,False,False,Davis Free Throw 1 of 2 (37 PTS),,116-108,116,108
-0022001024,2021-05-09,LAL,PHX,44.23,4,3,46,LAL,LAL,ft_miss,12,False,False,MISS Davis Free Throw 2 of 2,,116-108,116,108
 0022001024,2021-05-09,LAL,PHX,44.23,4,3,46,PHX,PHX,timeout,1,False,False,,Suns Timeout: Regular (Reg.5 Short 0),116-108,116,108
+0022001024,2021-05-09,LAL,PHX,44.23,4,3,46,LAL,LAL,ft_miss,12,False,False,MISS Davis Free Throw 2 of 2,,116-108,116,108
 0022001024,2021-05-09,LAL,PHX,44.3,4,3,42,LAL,LAL,reb,0,False,False,Davis REBOUND (Off:2 Def:6),,116-108,116,108
 0022001024,2021-05-09,LAL,PHX,44.42,4,3,35,LAL,LAL,tov,2,False,True,Davis Lost Ball Turnover (P2.T11),,116-108,116,108
 0022001024,2021-05-09,LAL,PHX,44.42,4,3,35,LAL,PHX,steal,2,False,True,steal,steal,116-108,116,108

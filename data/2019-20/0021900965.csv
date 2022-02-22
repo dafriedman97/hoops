@@ -22,9 +22,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900965,2020-03-10,SAS,DAL,1.93,1,10,4,SAS,SAS,reb,0,False,False,White REBOUND (Off:0 Def:2),,0-3,0,3
 0021900965,2020-03-10,SAS,DAL,1.97,1,10,2,SAS,SAS,fg3_make,1,False,False,Forbes 28' 3PT Jump Shot (3 PTS) (White 1 AST),,3-3,3,3
 0021900965,2020-03-10,SAS,DAL,2.37,1,9,38,DAL,DAL,fg3_miss,1,True,False,,MISS Finney-Smith 27' 3PT Jump Shot,3-3,3,3
+0021900965,2020-03-10,SAS,DAL,2.37,1,9,38,DAL,SAS,block,1,True,False,block,block,3-3,3,3
 0021900965,2020-03-10,SAS,DAL,2.37,1,9,38,SAS,SAS,reb,0,False,False,SPURS Rebound,,3-3,3,3
 0021900965,2020-03-10,SAS,DAL,2.37,1,9,38,SAS,DAL,foul,3,False,False,,Finney-Smith L.B.FOUL (P1.T1) (T.Maddox),3-3,3,3
-0021900965,2020-03-10,SAS,DAL,2.37,1,9,38,DAL,SAS,block,1,True,False,block,block,3-3,3,3
 0021900965,2020-03-10,SAS,DAL,2.68,1,9,19,SAS,SAS,fg_miss,3,False,False,MISS Aldridge 4' Hook Shot,,3-3,3,3
 0021900965,2020-03-10,SAS,DAL,2.73,1,9,16,DAL,DAL,reb,0,False,False,,Porzingis REBOUND (Off:0 Def:1),3-3,3,3
 0021900965,2020-03-10,SAS,DAL,2.83,1,9,10,DAL,DAL,fg_make,79,False,False,,Hardaway Jr. 17' Pullup Jump Shot (2 PTS),3-5,3,5
@@ -46,8 +46,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900965,2020-03-10,SAS,DAL,4.35,1,7,39,DAL,DAL,tov,2,False,True,,Doncic Lost Ball Turnover (P1.T1),5-7,5,7
 0021900965,2020-03-10,SAS,DAL,4.35,1,7,39,DAL,SAS,steal,2,False,True,steal,steal,5-7,5,7
 0021900965,2020-03-10,SAS,DAL,4.4,1,7,36,SAS,SAS,fg_miss,41,True,False,MISS DeRozan Running Layup,,5-7,5,7
-0021900965,2020-03-10,SAS,DAL,4.4,1,7,36,SAS,SAS,reb,0,False,False,SPURS Rebound,,5-7,5,7
 0021900965,2020-03-10,SAS,DAL,4.4,1,7,36,SAS,DAL,block,41,True,False,block,block,5-7,5,7
+0021900965,2020-03-10,SAS,DAL,4.4,1,7,36,SAS,SAS,reb,0,False,False,SPURS Rebound,,5-7,5,7
 0021900965,2020-03-10,SAS,DAL,4.43,1,7,34,SAS,SAS,fg_make,1,False,False,DeRozan 15' Jump Shot (2 PTS) (White 3 AST),,7-7,7,7
 0021900965,2020-03-10,SAS,DAL,4.75,1,7,15,DAL,DAL,fg3_miss,1,False,False,,MISS Hardaway Jr. 26' 3PT Jump Shot,7-7,7,7
 0021900965,2020-03-10,SAS,DAL,4.82,1,7,11,SAS,SAS,reb,0,False,False,Forbes REBOUND (Off:0 Def:2),,7-7,7,7
@@ -132,8 +132,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900965,2020-03-10,SAS,DAL,15.55,2,8,27,SAS,SAS,fg3_miss,1,False,False,MISS Belinelli 26' 3PT Jump Shot,,35-42,35,42
 0021900965,2020-03-10,SAS,DAL,15.6,2,8,24,DAL,DAL,reb,0,False,False,,Doncic REBOUND (Off:1 Def:4),35-42,35,42
 0021900965,2020-03-10,SAS,DAL,15.7,2,8,18,DAL,DAL,fg_miss,79,True,False,,MISS Doncic 11' Pullup Jump Shot,35-42,35,42
-0021900965,2020-03-10,SAS,DAL,15.7,2,8,18,DAL,DAL,reb,0,False,False,,Mavericks Rebound,35-42,35,42
 0021900965,2020-03-10,SAS,DAL,15.7,2,8,18,DAL,SAS,block,79,True,False,block,block,35-42,35,42
+0021900965,2020-03-10,SAS,DAL,15.7,2,8,18,DAL,DAL,reb,0,False,False,,Mavericks Rebound,35-42,35,42
 0021900965,2020-03-10,SAS,DAL,15.85,2,8,9,DAL,DAL,fg_make,6,False,False,,Doncic 2' Driving Layup (15 PTS),35-44,35,44
 0021900965,2020-03-10,SAS,DAL,15.85,2,8,9,DAL,SAS,violation,2,False,False,Johnson Violation:Defensive Goaltending (J.Orr),,35-44,35,44
 0021900965,2020-03-10,SAS,DAL,16.05,2,7,57,SAS,SAS,fg3_miss,1,False,False,MISS White 26' 3PT Jump Shot,,35-44,35,44
@@ -187,10 +187,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900965,2020-03-10,SAS,DAL,21.45,2,2,33,DAL,DAL,fg_make,1,False,False,,Porzingis 18' Jump Shot (7 PTS) (Doncic 6 AST),49-54,49,54
 0021900965,2020-03-10,SAS,DAL,21.78,2,2,13,SAS,SAS,fg_miss,86,False,False,MISS Aldridge 11' Turnaround Fadeaway Shot,,49-54,49,54
 0021900965,2020-03-10,SAS,DAL,21.83,2,2,10,DAL,DAL,reb,0,False,False,,Porzingis REBOUND (Off:0 Def:7),49-54,49,54
-0021900965,2020-03-10,SAS,DAL,21.9,2,2,6,DAL,DAL,fg_miss,6,True,False,,MISS Doncic 7' Driving Layup,49-54,49,54
-0021900965,2020-03-10,SAS,DAL,21.9,2,2,6,SAS,SAS,reb,0,False,False,SPURS Rebound,,49-54,49,54
 0021900965,2020-03-10,SAS,DAL,21.9,2,2,6,SAS,SAS,timeout,7,False,False,SPURS Timeout: Coach Challenge (Full 2 Short 0),,49-54,49,54
+0021900965,2020-03-10,SAS,DAL,21.9,2,2,6,DAL,DAL,fg_miss,6,True,False,,MISS Doncic 7' Driving Layup,49-54,49,54
 0021900965,2020-03-10,SAS,DAL,21.9,2,2,6,DAL,SAS,block,6,True,False,block,block,49-54,49,54
+0021900965,2020-03-10,SAS,DAL,21.9,2,2,6,SAS,SAS,reb,0,False,False,SPURS Rebound,,49-54,49,54
 0021900965,2020-03-10,SAS,DAL,22.05,2,1,57,,SAS,jump_ball,1,False,False,Jump Ball (CC) Aldridge vs. Porzingis: Tip to White,,49-54,49,54
 0021900965,2020-03-10,SAS,DAL,22.13,2,1,52,SAS,SAS,fg_make,6,False,False,DeRozan 5' Driving Layup (8 PTS),,51-54,51,54
 0021900965,2020-03-10,SAS,DAL,22.47,2,1,32,DAL,DAL,fg_make,1,False,False,,Hardaway Jr. 18' Jump Shot (9 PTS),51-56,51,56
@@ -335,8 +335,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900965,2020-03-10,SAS,DAL,38.32,4,9,41,SAS,SAS,reb,0,False,False,Johnson REBOUND (Off:2 Def:0),,92-88,92,88
 0021900965,2020-03-10,SAS,DAL,38.4,4,9,36,SAS,SAS,fg_make,75,False,False,Johnson 2' Driving Finger Roll Layup (2 PTS),,94-88,94,88
 0021900965,2020-03-10,SAS,DAL,38.65,4,9,21,DAL,DAL,fg_miss,5,True,False,,MISS Kleber 3' Layup,94-88,94,88
-0021900965,2020-03-10,SAS,DAL,38.65,4,9,21,DAL,DAL,reb,0,False,False,,Mavericks Rebound,94-88,94,88
 0021900965,2020-03-10,SAS,DAL,38.65,4,9,21,DAL,SAS,block,5,True,False,block,block,94-88,94,88
+0021900965,2020-03-10,SAS,DAL,38.65,4,9,21,DAL,DAL,reb,0,False,False,,Mavericks Rebound,94-88,94,88
 0021900965,2020-03-10,SAS,DAL,38.78,4,9,13,DAL,DAL,fg3_miss,1,False,False,,MISS Jackson 27' 3PT Jump Shot,94-88,94,88
 0021900965,2020-03-10,SAS,DAL,38.8,4,9,12,SAS,SAS,reb,0,False,False,SPURS Rebound,,94-88,94,88
 0021900965,2020-03-10,SAS,DAL,39.12,4,8,53,SAS,SAS,fg_make,71,False,False,Aldridge 3' Finger Roll Layup (15 PTS),,96-88,96,88
@@ -388,8 +388,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900965,2020-03-10,SAS,DAL,43.48,4,4,31,SAS,SAS,fg_miss,1,False,False,MISS Aldridge 19' Jump Shot,,104-99,104,99
 0021900965,2020-03-10,SAS,DAL,43.53,4,4,28,DAL,DAL,reb,0,False,False,,Porzingis REBOUND (Off:1 Def:10),104-99,104,99
 0021900965,2020-03-10,SAS,DAL,43.75,4,4,15,DAL,DAL,fg3_miss,80,False,False,,MISS Doncic 27' 3PT Step Back Jump Shot,104-99,104,99
-0021900965,2020-03-10,SAS,DAL,43.88,4,4,7,DAL,DAL,fg_make,72,False,False,,Porzingis 1' Putback Layup (9 PTS),104-101,104,101
 0021900965,2020-03-10,SAS,DAL,43.88,4,4,7,DAL,DAL,reb,0,False,False,,Porzingis REBOUND (Off:2 Def:10),104-101,104,101
+0021900965,2020-03-10,SAS,DAL,43.88,4,4,7,DAL,DAL,fg_make,72,False,False,,Porzingis 1' Putback Layup (9 PTS),104-101,104,101
 0021900965,2020-03-10,SAS,DAL,44.1,4,3,54,SAS,SAS,fg_make,5,False,False,Aldridge 1' Layup (17 PTS) (Lyles 2 AST),,106-101,106,101
 0021900965,2020-03-10,SAS,DAL,44.47,4,3,32,DAL,DAL,fg3_miss,1,False,False,,MISS Porzingis 31' 3PT Jump Shot,106-101,106,101
 0021900965,2020-03-10,SAS,DAL,44.53,4,3,28,SAS,SAS,reb,0,False,False,Lyles REBOUND (Off:1 Def:9),,106-101,106,101
@@ -399,8 +399,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900965,2020-03-10,SAS,DAL,45.0,4,3,0,SAS,SAS,fg_make,79,False,False,Aldridge 14' Pullup Jump Shot (19 PTS) (Mills 3 AST),,108-101,108,101
 0021900965,2020-03-10,SAS,DAL,45.3,4,2,42,DAL,SAS,foul,1,False,False,White P.FOUL (P3.T4) (J.Orr),,108-101,108,101
 0021900965,2020-03-10,SAS,DAL,45.4,4,2,36,DAL,DAL,fg_miss,78,True,False,,MISS Doncic 7' Floating Jump Shot,108-101,108,101
-0021900965,2020-03-10,SAS,DAL,45.4,4,2,36,DAL,DAL,reb,0,False,False,,Mavericks Rebound,108-101,108,101
 0021900965,2020-03-10,SAS,DAL,45.4,4,2,36,DAL,SAS,block,78,True,False,block,block,108-101,108,101
+0021900965,2020-03-10,SAS,DAL,45.4,4,2,36,DAL,DAL,reb,0,False,False,,Mavericks Rebound,108-101,108,101
 0021900965,2020-03-10,SAS,DAL,45.5,4,2,30,DAL,DAL,tov,1,False,True,,Porzingis Bad Pass Turnover (P2.T14),108-101,108,101
 0021900965,2020-03-10,SAS,DAL,45.5,4,2,30,DAL,SAS,steal,1,False,True,steal,steal,108-101,108,101
 0021900965,2020-03-10,SAS,DAL,45.55,4,2,27,SAS,SAS,fg_make,108,False,False,Aldridge 2' Cutting Dunk Shot (21 PTS) (DeRozan 11 AST),,110-101,110,101

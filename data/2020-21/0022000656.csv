@@ -127,8 +127,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000656,2021-03-22,CHI,UTA,14.18,2,9,49,UTA,UTA,fg3_make,1,False,False,,Ingles 24' 3PT Jump Shot (12 PTS) (Clarkson 2 AST),23-37,23,37
 0022000656,2021-03-22,CHI,UTA,14.2,2,9,48,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 2 Short 0),,23-37,23,37
 0022000656,2021-03-22,CHI,UTA,14.52,2,9,29,CHI,CHI,fg_miss,98,True,False,MISS Markkanen 2' Cutting Layup Shot,,23-37,23,37
-0022000656,2021-03-22,CHI,UTA,14.52,2,9,29,CHI,CHI,reb,0,False,False,BULLS Rebound,,23-37,23,37
 0022000656,2021-03-22,CHI,UTA,14.52,2,9,29,CHI,UTA,block,98,True,False,block,block,23-37,23,37
+0022000656,2021-03-22,CHI,UTA,14.52,2,9,29,CHI,CHI,reb,0,False,False,BULLS Rebound,,23-37,23,37
 0022000656,2021-03-22,CHI,UTA,14.6,2,9,24,CHI,CHI,tov,11,False,False,BULLS Turnover: Shot Clock (T#4),,23-37,23,37
 0022000656,2021-03-22,CHI,UTA,14.78,2,9,13,UTA,UTA,fg_make,108,False,False,,Gobert 1' Cutting Dunk Shot (4 PTS) (Niang 1 AST),23-39,23,39
 0022000656,2021-03-22,CHI,UTA,15.17,2,8,50,CHI,CHI,fg_miss,1,False,False,MISS Markkanen 7' Jump Shot,,23-39,23,39
@@ -274,8 +274,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000656,2021-03-22,CHI,UTA,31.43,3,4,34,UTA,UTA,fg3_make,1,False,False,,Ingles 3PT Jump Shot (15 PTS) (Bogdanovic 1 AST),56-75,56,75
 0022000656,2021-03-22,CHI,UTA,31.65,3,4,21,CHI,CHI,fg_make,6,False,False,LaVine 2' Driving Layup (23 PTS),,58-75,58,75
 0022000656,2021-03-22,CHI,UTA,31.77,3,4,14,UTA,UTA,fg_miss,5,True,False,,MISS Mitchell 4' Layup,58-75,58,75
-0022000656,2021-03-22,CHI,UTA,31.77,3,4,14,UTA,UTA,reb,0,False,False,,Jazz Rebound,58-75,58,75
 0022000656,2021-03-22,CHI,UTA,31.77,3,4,14,UTA,CHI,block,5,True,False,block,block,58-75,58,75
+0022000656,2021-03-22,CHI,UTA,31.77,3,4,14,UTA,UTA,reb,0,False,False,,Jazz Rebound,58-75,58,75
 0022000656,2021-03-22,CHI,UTA,31.88,3,4,7,UTA,UTA,fg_make,75,False,False,,Ingles 5' Driving Finger Roll Layup (17 PTS),58-77,58,77
 0022000656,2021-03-22,CHI,UTA,32.23,3,3,46,CHI,CHI,fg_miss,1,False,False,MISS LaVine 22' Jump Shot,,58-77,58,77
 0022000656,2021-03-22,CHI,UTA,32.3,3,3,42,UTA,UTA,reb,0,False,False,,Ingles REBOUND (Off:0 Def:3),58-77,58,77
@@ -311,15 +311,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000656,2021-03-22,CHI,UTA,35.63,3,0,22,CHI,CHI,fg_make,41,False,False,White 1' Running Layup (5 PTS) (LaVine 4 AST),,71-87,71,87
 0022000656,2021-03-22,CHI,UTA,35.95,3,0,3,UTA,UTA,fg_make,101,False,False,,Clarkson 4' Driving Floating Jump Shot (8 PTS) (Conley 2 AST),71-89,71,89
 0022000656,2021-03-22,CHI,UTA,36.0,3,0,0,CHI,CHI,fg3_miss,101,True,False,MISS White 25' 3PT Driving Floating Jump Shot,,71-89,71,89
+0022000656,2021-03-22,CHI,UTA,36.0,3,0,0,CHI,UTA,block,101,True,False,block,block,71-89,71,89
 0022000656,2021-03-22,CHI,UTA,36.0,3,0,0,CHI,CHI,reb,0,False,False,BULLS Rebound,,71-89,71,89
 0022000656,2021-03-22,CHI,UTA,36.0,3,0,0,CHI,,period_end,0,False,False,,,71-89,71,89
 0022000656,2021-03-22,CHI,UTA,36.0,4,12,0,CHI,,period_start,0,False,False,,,71-89,71,89
-0022000656,2021-03-22,CHI,UTA,36.0,3,0,0,CHI,UTA,block,101,True,False,block,block,71-89,71,89
 0022000656,2021-03-22,CHI,UTA,36.2,4,11,48,UTA,UTA,fg3_miss,1,False,False,,MISS Clarkson 25' 3PT Jump Shot,71-89,71,89
 0022000656,2021-03-22,CHI,UTA,36.27,4,11,44,CHI,CHI,reb,0,False,False,Young REBOUND (Off:5 Def:4),,71-89,71,89
 0022000656,2021-03-22,CHI,UTA,36.5,4,11,30,CHI,CHI,fg_miss,80,False,False,MISS Porter Jr. 11' Step Back Jump Shot,,71-89,71,89
-0022000656,2021-03-22,CHI,UTA,36.6,4,11,24,CHI,CHI,fg_make,97,False,False,Gafford Tip Layup Shot (4 PTS),,73-89,73,89
 0022000656,2021-03-22,CHI,UTA,36.6,4,11,24,CHI,CHI,reb,0,False,False,Gafford REBOUND (Off:2 Def:0),,73-89,73,89
+0022000656,2021-03-22,CHI,UTA,36.6,4,11,24,CHI,CHI,fg_make,97,False,False,Gafford Tip Layup Shot (4 PTS),,73-89,73,89
 0022000656,2021-03-22,CHI,UTA,36.77,4,11,14,UTA,UTA,fg_make,75,False,False,,Conley 2' Driving Finger Roll Layup (15 PTS) (Niang 3 AST),73-91,73,91
 0022000656,2021-03-22,CHI,UTA,36.97,4,11,2,CHI,UTA,foul,1,False,False,,Gobert P.FOUL (P1.T1) (B.Barnaky),73-91,73,91
 0022000656,2021-03-22,CHI,UTA,37.13,4,10,52,CHI,CHI,fg_make,6,False,False,Young 3' Driving Layup (14 PTS) (Porter Jr. 2 AST),,75-91,75,91

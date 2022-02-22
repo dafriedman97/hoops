@@ -118,10 +118,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900196,2019-11-18,UTA,MIN,12.62,2,11,23,UTA,MIN,foul,1,False,False,,Teague P.FOUL (P1.T1) (J.Van Duyne),32-36,32,36
 0021900196,2019-11-18,UTA,MIN,12.78,2,11,13,UTA,UTA,fg_make,6,False,False,Ingles 3' Driving Layup (5 PTS) (Mitchell 2 AST),,34-36,34,36
 0021900196,2019-11-18,UTA,MIN,12.88,2,11,7,MIN,MIN,tov,7,False,False,,Teague Discontinue Dribble Turnover (P1.T1),34-36,34,36
-0021900196,2019-11-18,UTA,MIN,13.08,2,10,55,UTA,UTA,fg_miss,6,True,False,MISS Mitchell 2' Driving Layup,,34-36,34,36
-0021900196,2019-11-18,UTA,MIN,13.08,2,10,55,UTA,UTA,reb,0,False,False,Mitchell REBOUND (Off:1 Def:0),,34-36,34,36
 0021900196,2019-11-18,UTA,MIN,13.08,2,10,55,UTA,UTA,tov,45,False,False,Mitchell Out of Bounds - Bad Pass Turnover Turnover (P2.T5),,34-36,34,36
+0021900196,2019-11-18,UTA,MIN,13.08,2,10,55,UTA,UTA,fg_miss,6,True,False,MISS Mitchell 2' Driving Layup,,34-36,34,36
 0021900196,2019-11-18,UTA,MIN,13.08,2,10,55,UTA,MIN,block,6,True,False,block,block,34-36,34,36
+0021900196,2019-11-18,UTA,MIN,13.08,2,10,55,UTA,UTA,reb,0,False,False,Mitchell REBOUND (Off:1 Def:0),,34-36,34,36
 0021900196,2019-11-18,UTA,MIN,13.15,2,10,51,MIN,MIN,tov,1,False,True,,Covington Bad Pass Turnover (P1.T2),34-36,34,36
 0021900196,2019-11-18,UTA,MIN,13.15,2,10,51,MIN,UTA,steal,1,False,True,steal,steal,34-36,34,36
 0021900196,2019-11-18,UTA,MIN,13.2,2,10,48,UTA,UTA,fg_make,7,False,False,Exum 2' Dunk (2 PTS),,36-36,36,36
@@ -150,8 +150,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900196,2019-11-18,UTA,MIN,15.43,2,8,34,UTA,UTA,fg3_miss,1,False,False,MISS Bogdanovic 25' 3PT Jump Shot,,39-41,39,41
 0021900196,2019-11-18,UTA,MIN,15.48,2,8,31,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:2 Def:4),,39-41,39,41
 0021900196,2019-11-18,UTA,MIN,15.52,2,8,29,UTA,UTA,fg_miss,5,True,False,MISS Gobert 2' Layup,,39-41,39,41
-0021900196,2019-11-18,UTA,MIN,15.52,2,8,29,MIN,MIN,reb,0,False,False,,Culver REBOUND (Off:1 Def:1),39-41,39,41
 0021900196,2019-11-18,UTA,MIN,15.52,2,8,29,UTA,MIN,block,5,True,False,block,block,39-41,39,41
+0021900196,2019-11-18,UTA,MIN,15.52,2,8,29,MIN,MIN,reb,0,False,False,,Culver REBOUND (Off:1 Def:1),39-41,39,41
 0021900196,2019-11-18,UTA,MIN,15.62,2,8,23,MIN,MIN,fg3_miss,1,False,False,,MISS Layman 25' 3PT Jump Shot,39-41,39,41
 0021900196,2019-11-18,UTA,MIN,15.65,2,8,21,UTA,UTA,reb,0,False,False,Bogdanovic REBOUND (Off:0 Def:2),,39-41,39,41
 0021900196,2019-11-18,UTA,MIN,15.68,2,8,19,MIN,UTA,foul,26,False,False,Gobert Offensive Charge Foul (P2.T3) (S.Foster),,39-41,39,41
@@ -238,8 +238,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900196,2019-11-18,UTA,MIN,24.88,3,11,7,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:3 Def:6),,56-61,56,61
 0021900196,2019-11-18,UTA,MIN,24.97,3,11,2,UTA,UTA,fg_miss,6,True,False,MISS Mitchell 2' Driving Layup,,56-61,56,61
 0021900196,2019-11-18,UTA,MIN,24.97,3,11,2,UTA,MIN,block,6,True,False,block,block,56-61,56,61
-0021900196,2019-11-18,UTA,MIN,25.02,3,10,59,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,56-61,56,61
 0021900196,2019-11-18,UTA,MIN,25.02,3,10,59,,UTA,jump_ball,0,False,False,Jump Ball Mitchell vs. Okogie: Tip to Towns,,56-61,56,61
+0021900196,2019-11-18,UTA,MIN,25.02,3,10,59,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,56-61,56,61
 0021900196,2019-11-18,UTA,MIN,25.2,3,10,48,MIN,MIN,fg3_make,80,False,False,,Towns 26' 3PT Step Back Jump Shot (17 PTS) (Teague 7 AST),56-64,56,64
 0021900196,2019-11-18,UTA,MIN,25.47,3,10,32,UTA,UTA,fg_miss,98,False,False,MISS Conley 2' Cutting Layup Shot,,56-64,56,64
 0021900196,2019-11-18,UTA,MIN,25.5,3,10,30,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:3 Def:5),56-64,56,64
@@ -319,9 +319,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900196,2019-11-18,UTA,MIN,33.32,3,2,41,UTA,UTA,timeout,1,False,False,JAZZ Timeout: Regular (Full 3 Short 0),,70-71,70,71
 0021900196,2019-11-18,UTA,MIN,33.48,3,2,31,UTA,UTA,fg3_make,1,False,False,Green 26' 3PT Jump Shot (4 PTS) (Ingles 2 AST),,73-71,73,71
 0021900196,2019-11-18,UTA,MIN,33.8,3,2,12,MIN,MIN,fg_miss,6,True,False,,MISS Teague 4' Driving Layup,73-71,73,71
+0021900196,2019-11-18,UTA,MIN,33.8,3,2,12,MIN,UTA,block,6,True,False,block,block,73-71,73,71
 0021900196,2019-11-18,UTA,MIN,33.8,3,2,12,UTA,UTA,reb,0,False,False,Green REBOUND (Off:0 Def:3),,73-71,73,71
 0021900196,2019-11-18,UTA,MIN,33.8,3,2,12,UTA,UTA,tov,39,False,False,Green Step Out of Bounds Turnover (P3.T13),,73-71,73,71
-0021900196,2019-11-18,UTA,MIN,33.8,3,2,12,MIN,UTA,block,6,True,False,block,block,73-71,73,71
 0021900196,2019-11-18,UTA,MIN,33.9,3,2,6,MIN,MIN,fg3_miss,80,False,False,,MISS Teague 24' 3PT Step Back Jump Shot,73-71,73,71
 0021900196,2019-11-18,UTA,MIN,33.95,3,2,3,UTA,UTA,reb,0,False,False,Ingles REBOUND (Off:0 Def:3),,73-71,73,71
 0021900196,2019-11-18,UTA,MIN,34.05,3,1,57,UTA,UTA,fg_miss,3,True,False,MISS Exum 4' Hook Shot,,73-71,73,71
@@ -342,8 +342,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900196,2019-11-18,UTA,MIN,35.57,3,0,26,UTA,UTA,fg_make,5,False,False,Mudiay 3' Layup (4 PTS) (Ingles 3 AST),,78-74,78,74
 0021900196,2019-11-18,UTA,MIN,35.85,3,0,9,MIN,MIN,fg_make,78,False,False,,Teague 8' Floating Jump Shot (13 PTS),78-76,78,76
 0021900196,2019-11-18,UTA,MIN,35.98,3,0,1,UTA,UTA,fg_miss,1,True,False,MISS Ingles 6' Jump Shot,,78-76,78,76
-0021900196,2019-11-18,UTA,MIN,35.98,3,0,1,UTA,UTA,reb,0,False,False,Mitchell REBOUND (Off:2 Def:3),,78-76,78,76
 0021900196,2019-11-18,UTA,MIN,35.98,3,0,1,UTA,MIN,block,1,True,False,block,block,78-76,78,76
+0021900196,2019-11-18,UTA,MIN,35.98,3,0,1,UTA,UTA,reb,0,False,False,Mitchell REBOUND (Off:2 Def:3),,78-76,78,76
 0021900196,2019-11-18,UTA,MIN,36.0,3,0,0,UTA,UTA,fg_miss,1,False,False,MISS Mitchell 15' Jump Shot,,78-76,78,76
 0021900196,2019-11-18,UTA,MIN,36.0,3,0,0,UTA,UTA,reb,0,False,False,JAZZ Rebound,,78-76,78,76
 0021900196,2019-11-18,UTA,MIN,36.0,3,0,0,UTA,,period_end,0,False,False,,,78-76,78,76
@@ -372,10 +372,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900196,2019-11-18,UTA,MIN,38.8,4,9,12,MIN,MIN,fg_make,98,False,False,,Bates-Diop 2' Cutting Layup Shot (2 PTS) (Towns 3 AST),86-82,86,82
 0021900196,2019-11-18,UTA,MIN,38.8,4,9,12,MIN,UTA,foul,2,False,False,Green S.FOUL (P3.T2) (J.Van Duyne),,86-82,86,82
 0021900196,2019-11-18,UTA,MIN,38.8,4,9,12,MIN,MIN,ft_make,10,False,False,,Bates-Diop Free Throw 1 of 1 (3 PTS),86-83,86,83
-0021900196,2019-11-18,UTA,MIN,39.02,4,8,59,UTA,UTA,fg_miss,1,True,False,MISS Bogdanovic 14' Jump Shot,,86-83,86,83
-0021900196,2019-11-18,UTA,MIN,39.02,4,8,59,MIN,MIN,reb,0,False,False,,Covington REBOUND (Off:0 Def:7),86-83,86,83
 0021900196,2019-11-18,UTA,MIN,39.02,4,8,59,MIN,UTA,foul,1,False,False,Bogdanovic P.FOUL (P5.T3) (B.Forte),,86-83,86,83
+0021900196,2019-11-18,UTA,MIN,39.02,4,8,59,UTA,UTA,fg_miss,1,True,False,MISS Bogdanovic 14' Jump Shot,,86-83,86,83
 0021900196,2019-11-18,UTA,MIN,39.02,4,8,59,UTA,MIN,block,1,True,False,block,block,86-83,86,83
+0021900196,2019-11-18,UTA,MIN,39.02,4,8,59,MIN,MIN,reb,0,False,False,,Covington REBOUND (Off:0 Def:7),86-83,86,83
 0021900196,2019-11-18,UTA,MIN,39.17,4,8,50,MIN,MIN,tov,45,False,False,,Culver Out of Bounds - Bad Pass Turnover Turnover (P1.T13),86-83,86,83
 0021900196,2019-11-18,UTA,MIN,39.32,4,8,41,UTA,UTA,fg3_miss,79,False,False,MISS Green 25' 3PT Pullup Jump Shot,,86-83,86,83
 0021900196,2019-11-18,UTA,MIN,39.37,4,8,38,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:3 Def:8),86-83,86,83

@@ -28,8 +28,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900167,2019-11-15,CHA,DET,3.32,1,8,41,CHA,CHA,fg_miss,3,False,False,MISS Washington 10' Hook Shot,,2-9,2,9
 0021900167,2019-11-15,CHA,DET,3.35,1,8,39,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:1 Def:3),2-9,2,9
 0021900167,2019-11-15,CHA,DET,3.5,1,8,30,DET,DET,fg_miss,66,False,False,,MISS Griffin 17' Jump Bank Shot,2-9,2,9
-0021900167,2019-11-15,CHA,DET,3.55,1,8,27,DET,DET,fg_make,72,False,False,,Drummond Putback Layup (6 PTS),2-11,2,11
 0021900167,2019-11-15,CHA,DET,3.55,1,8,27,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:2 Def:3),2-11,2,11
+0021900167,2019-11-15,CHA,DET,3.55,1,8,27,DET,DET,fg_make,72,False,False,,Drummond Putback Layup (6 PTS),2-11,2,11
 0021900167,2019-11-15,CHA,DET,3.55,1,8,27,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 1 Short 0),,2-11,2,11
 0021900167,2019-11-15,CHA,DET,3.97,1,8,2,CHA,CHA,fg_miss,63,False,False,MISS Williams 20' Fadeaway Jumper,,2-11,2,11
 0021900167,2019-11-15,CHA,DET,4.02,1,7,59,DET,DET,reb,0,False,False,,Kennard REBOUND (Off:0 Def:1),2-11,2,11
@@ -214,10 +214,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900167,2019-11-15,CHA,DET,23.97,2,0,2,DET,DET,fg_miss,1,False,False,,MISS Drummond 10' Jump Shot,51-65,51,65
 0021900167,2019-11-15,CHA,DET,24.0,2,0,0,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:0 Def:1),,51-65,51,65
 0021900167,2019-11-15,CHA,DET,24.0,2,0,0,CHA,CHA,fg3_miss,1,True,False,MISS Graham 47' 3PT Jump Shot,,51-65,51,65
+0021900167,2019-11-15,CHA,DET,24.0,2,0,0,CHA,DET,block,1,True,False,block,block,51-65,51,65
 0021900167,2019-11-15,CHA,DET,24.0,2,0,0,CHA,CHA,reb,0,False,False,HORNETS Rebound,,51-65,51,65
 0021900167,2019-11-15,CHA,DET,24.0,2,0,0,CHA,,period_end,0,False,False,,,51-65,51,65
 0021900167,2019-11-15,CHA,DET,24.0,3,12,0,CHA,,period_start,0,False,False,,,51-65,51,65
-0021900167,2019-11-15,CHA,DET,24.0,2,0,0,CHA,DET,block,1,True,False,block,block,51-65,51,65
 0021900167,2019-11-15,CHA,DET,24.3,3,11,42,CHA,CHA,fg3_make,1,False,False,Rozier 26' 3PT Jump Shot (15 PTS) (Washington 1 AST),,54-65,54,65
 0021900167,2019-11-15,CHA,DET,24.67,3,11,20,DET,DET,fg_miss,98,True,False,,MISS Drummond 2' Cutting Layup Shot,54-65,54,65
 0021900167,2019-11-15,CHA,DET,24.67,3,11,20,DET,CHA,block,98,True,False,block,block,54-65,54,65
@@ -244,9 +244,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900167,2019-11-15,CHA,DET,27.07,3,8,56,CHA,CHA,fg_make,41,False,False,Rozier 1' Running Layup (17 PTS),,62-67,62,67
 0021900167,2019-11-15,CHA,DET,27.12,3,8,53,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.3 Short 0),62-67,62,67
 0021900167,2019-11-15,CHA,DET,27.52,3,8,29,DET,DET,fg_miss,5,True,False,,MISS Drummond 4' Layup,62-67,62,67
+0021900167,2019-11-15,CHA,DET,27.52,3,8,29,DET,CHA,block,5,True,False,block,block,62-67,62,67
 0021900167,2019-11-15,CHA,DET,27.52,3,8,29,DET,DET,reb,0,False,False,,Pistons Rebound,62-67,62,67
 0021900167,2019-11-15,CHA,DET,27.52,3,8,29,DET,DET,tov,11,False,False,,Pistons Turnover: Shot Clock (T#12),62-67,62,67
-0021900167,2019-11-15,CHA,DET,27.52,3,8,29,DET,CHA,block,5,True,False,block,block,62-67,62,67
 0021900167,2019-11-15,CHA,DET,27.75,3,8,15,DET,CHA,foul,4,False,False,Bridges OFF.Foul (P2) (K.Scott),,62-67,62,67
 0021900167,2019-11-15,CHA,DET,27.75,3,8,15,CHA,CHA,tov,37,False,False,Bridges Offensive Foul Turnover (P3.T7),,62-67,62,67
 0021900167,2019-11-15,CHA,DET,27.75,3,8,15,CHA,,foul,11,False,False,,,62-67,62,67
@@ -271,9 +271,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900167,2019-11-15,CHA,DET,29.6,3,6,24,CHA,CHA,fg_miss,97,False,False,MISS Zeller 1' Tip Layup Shot,,68-72,68,72
 0021900167,2019-11-15,CHA,DET,29.62,3,6,23,CHA,CHA,reb,0,False,False,Graham REBOUND (Off:1 Def:1),,68-72,68,72
 0021900167,2019-11-15,CHA,DET,29.65,3,6,21,CHA,CHA,fg_miss,5,True,False,MISS Zeller 4' Layup,,68-72,68,72
+0021900167,2019-11-15,CHA,DET,29.65,3,6,21,CHA,DET,block,5,True,False,block,block,68-72,68,72
 0021900167,2019-11-15,CHA,DET,29.65,3,6,21,CHA,CHA,reb,0,False,False,HORNETS Rebound,,68-72,68,72
 0021900167,2019-11-15,CHA,DET,29.65,3,6,21,CHA,DET,foul,3,False,False,,Brown L.B.FOUL (P2.T2) (T.Maddox),68-72,68,72
-0021900167,2019-11-15,CHA,DET,29.65,3,6,21,CHA,DET,block,5,True,False,block,block,68-72,68,72
 0021900167,2019-11-15,CHA,DET,29.83,3,6,10,CHA,CHA,fg_miss,6,False,False,MISS Rozier 3' Driving Layup,,68-72,68,72
 0021900167,2019-11-15,CHA,DET,29.87,3,6,8,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:2 Def:11),68-72,68,72
 0021900167,2019-11-15,CHA,DET,29.98,3,6,1,DET,DET,fg3_make,1,False,False,,Galloway 3PT Jump Shot (21 PTS) (Brown 6 AST),68-75,68,75
@@ -342,8 +342,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900167,2019-11-15,CHA,DET,38.13,4,9,52,DET,CHA,foul,4,False,False,Williams OFF.Foul (P1) (T.Maddox),,87-88,87,88
 0021900167,2019-11-15,CHA,DET,38.13,4,9,52,CHA,CHA,tov,37,False,False,Williams Offensive Foul Turnover (P1.T10),,87-88,87,88
 0021900167,2019-11-15,CHA,DET,38.45,4,9,33,DET,DET,fg_miss,47,False,False,,MISS Wood 5' Turnaround Jump Shot,87-88,87,88
-0021900167,2019-11-15,CHA,DET,38.53,4,9,28,DET,DET,fg_miss,97,False,False,,MISS Morris 1' Tip Layup Shot,87-88,87,88
 0021900167,2019-11-15,CHA,DET,38.53,4,9,28,DET,DET,reb,0,False,False,,Morris REBOUND (Off:2 Def:5),87-88,87,88
+0021900167,2019-11-15,CHA,DET,38.53,4,9,28,DET,DET,fg_miss,97,False,False,,MISS Morris 1' Tip Layup Shot,87-88,87,88
 0021900167,2019-11-15,CHA,DET,38.55,4,9,27,DET,DET,reb,0,False,False,,Morris REBOUND (Off:2 Def:5),87-88,87,88
 0021900167,2019-11-15,CHA,DET,38.55,4,9,27,DET,DET,fg_miss,97,False,False,,MISS Morris 1' Tip Layup Shot,87-88,87,88
 0021900167,2019-11-15,CHA,DET,38.57,4,9,26,CHA,CHA,reb,0,False,False,Martin REBOUND (Off:1 Def:2),,87-88,87,88

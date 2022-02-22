@@ -38,8 +38,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700931,2018-03-02,MEM,DEN,4.62,1,7,23,MEM,MEM,reb,0,False,False,Chalmers REBOUND (Off:0 Def:1),,9-14,9,14
 0021700931,2018-03-02,MEM,DEN,4.9,1,7,6,MEM,MEM,fg_make,1,False,False,Gasol 20' Jump Shot (2 PTS) (Chalmers 1 AST),,11-14,11,14
 0021700931,2018-03-02,MEM,DEN,5.28,1,6,43,DEN,DEN,fg_miss,6,True,False,,MISS Murray 3' Driving Layup,11-14,11,14
-0021700931,2018-03-02,MEM,DEN,5.28,1,6,43,DEN,DEN,reb,0,False,False,,Nuggets Rebound,11-14,11,14
 0021700931,2018-03-02,MEM,DEN,5.28,1,6,43,DEN,MEM,block,6,True,False,block,block,11-14,11,14
+0021700931,2018-03-02,MEM,DEN,5.28,1,6,43,DEN,DEN,reb,0,False,False,,Nuggets Rebound,11-14,11,14
 0021700931,2018-03-02,MEM,DEN,5.3,1,6,42,DEN,MEM,foul,2,False,False,Chalmers S.FOUL (P1.T3) (K.Cutler),,11-14,11,14
 0021700931,2018-03-02,MEM,DEN,5.3,1,6,42,DEN,DEN,ft_make,11,False,False,,Millsap Free Throw 1 of 2 (3 PTS),11-15,11,15
 0021700931,2018-03-02,MEM,DEN,5.3,1,6,42,DEN,DEN,ft_make,12,False,False,,Millsap Free Throw 2 of 2 (4 PTS),11-16,11,16
@@ -94,16 +94,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700931,2018-03-02,MEM,DEN,11.15,1,0,51,MEM,MEM,fg3_make,1,False,False,Henry 3PT Jump Shot (5 PTS),,29-33,29,33
 0021700931,2018-03-02,MEM,DEN,11.37,1,0,38,DEN,DEN,fg_make,101,False,False,,Lyles 8' Driving Floating Jump Shot (2 PTS),29-35,29,35
 0021700931,2018-03-02,MEM,DEN,11.47,1,0,32,MEM,MEM,fg_miss,98,True,False,MISS Simmons 4' Cutting Layup Shot,,29-35,29,35
-0021700931,2018-03-02,MEM,DEN,11.47,1,0,32,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,29-35,29,35
 0021700931,2018-03-02,MEM,DEN,11.47,1,0,32,MEM,DEN,block,98,True,False,block,block,29-35,29,35
+0021700931,2018-03-02,MEM,DEN,11.47,1,0,32,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,29-35,29,35
 0021700931,2018-03-02,MEM,DEN,11.5,1,0,30,MEM,MEM,fg3_miss,1,False,False,MISS Henry 3PT Jump Shot,,29-35,29,35
 0021700931,2018-03-02,MEM,DEN,11.55,1,0,27,DEN,DEN,reb,0,False,False,,Plumlee REBOUND (Off:1 Def:2),29-35,29,35
 0021700931,2018-03-02,MEM,DEN,11.87,1,0,8,DEN,DEN,fg_miss,1,False,False,,MISS Harris 9' Jump Shot,29-35,29,35
 0021700931,2018-03-02,MEM,DEN,11.92,1,0,5,MEM,MEM,reb,0,False,False,Johnson REBOUND (Off:0 Def:1),,29-35,29,35
 0021700931,2018-03-02,MEM,DEN,11.97,1,0,2,MEM,DEN,foul,28,False,False,,Plumlee Personal Take Foul (P2.T3) (T.Brothers),29-35,29,35
 0021700931,2018-03-02,MEM,DEN,11.98,1,0,1,MEM,MEM,fg3_miss,1,True,False,MISS Selden 25' 3PT Jump Shot,,29-35,29,35
-0021700931,2018-03-02,MEM,DEN,11.98,1,0,1,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,29-35,29,35
 0021700931,2018-03-02,MEM,DEN,11.98,1,0,1,MEM,DEN,block,1,True,False,block,block,29-35,29,35
+0021700931,2018-03-02,MEM,DEN,11.98,1,0,1,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,29-35,29,35
 0021700931,2018-03-02,MEM,DEN,12.0,1,0,0,MEM,,period_end,0,False,False,,,29-35,29,35
 0021700931,2018-03-02,MEM,DEN,12.0,2,12,0,MEM,,period_start,0,False,False,,,29-35,29,35
 0021700931,2018-03-02,MEM,DEN,12.22,2,11,47,MEM,MEM,fg_miss,5,False,False,MISS Simmons 1' Layup,,29-35,29,35
@@ -114,8 +114,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700931,2018-03-02,MEM,DEN,12.98,2,11,1,DEN,DEN,fg_make,51,False,False,,Plumlee 1' Reverse Dunk (6 PTS) (Barton 1 AST),29-40,29,40
 0021700931,2018-03-02,MEM,DEN,13.23,2,10,46,MEM,MEM,fg_make,98,False,False,Martin 1' Cutting Layup Shot (4 PTS) (Selden 1 AST),,31-40,31,40
 0021700931,2018-03-02,MEM,DEN,13.42,2,10,35,DEN,DEN,tov,2,False,True,,Barton Lost Ball Turnover (P3.T6),31-40,31,40
-0021700931,2018-03-02,MEM,DEN,13.42,2,10,35,MEM,DEN,foul,28,False,False,,Harris Personal Take Foul (P1.T1) (T.Brothers),31-40,31,40
 0021700931,2018-03-02,MEM,DEN,13.42,2,10,35,DEN,MEM,steal,2,False,True,steal,steal,31-40,31,40
+0021700931,2018-03-02,MEM,DEN,13.42,2,10,35,MEM,DEN,foul,28,False,False,,Harris Personal Take Foul (P1.T1) (T.Brothers),31-40,31,40
 0021700931,2018-03-02,MEM,DEN,13.75,2,10,15,MEM,MEM,fg3_make,79,False,False,Selden 26' 3PT Pullup Jump Shot (3 PTS),,34-40,34,40
 0021700931,2018-03-02,MEM,DEN,13.78,2,10,13,DEN,DEN,timeout,1,False,False,,Nuggets Timeout: Regular (Reg.2 Short 0),34-40,34,40
 0021700931,2018-03-02,MEM,DEN,14.08,2,9,55,DEN,DEN,fg_make,6,False,False,,Harris 1' Driving Layup (2 PTS) (Plumlee 2 AST),34-42,34,42

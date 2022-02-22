@@ -100,8 +100,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800709,2019-01-23,MIA,LAC,12.28,2,11,43,LAC,LAC,reb,0,False,False,,Motley REBOUND (Off:0 Def:1),33-27,33,27
 0021800709,2019-01-23,MIA,LAC,12.53,2,11,28,LAC,LAC,fg_make,66,False,False,,Motley 4' Jump Bank Shot (2 PTS) (Williams 2 AST),33-29,33,29
 0021800709,2019-01-23,MIA,LAC,12.72,2,11,17,MIA,MIA,fg_miss,6,True,False,MISS Adebayo 4' Driving Layup,,33-29,33,29
-0021800709,2019-01-23,MIA,LAC,12.72,2,11,17,MIA,MIA,reb,0,False,False,HEAT Rebound,,33-29,33,29
 0021800709,2019-01-23,MIA,LAC,12.72,2,11,17,MIA,LAC,block,6,True,False,block,block,33-29,33,29
+0021800709,2019-01-23,MIA,LAC,12.72,2,11,17,MIA,MIA,reb,0,False,False,HEAT Rebound,,33-29,33,29
 0021800709,2019-01-23,MIA,LAC,12.88,2,11,7,MIA,MIA,fg3_miss,1,True,False,MISS Richardson 24' 3PT Jump Shot,,33-29,33,29
 0021800709,2019-01-23,MIA,LAC,12.88,2,11,7,MIA,LAC,block,1,True,False,block,block,33-29,33,29
 0021800709,2019-01-23,MIA,LAC,12.9,2,11,6,LAC,LAC,reb,0,False,False,,Beverley REBOUND (Off:0 Def:2),33-29,33,29
@@ -186,16 +186,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800709,2019-01-23,MIA,LAC,22.72,2,1,17,MIA,MIA,ft_make,11,False,False,Richardson Free Throw 1 of 2 (7 PTS),,51-50,51,50
 0021800709,2019-01-23,MIA,LAC,22.72,2,1,17,MIA,MIA,ft_make,12,False,False,Richardson Free Throw 2 of 2 (8 PTS),,52-50,52,50
 0021800709,2019-01-23,MIA,LAC,23.07,2,0,56,LAC,LAC,fg_miss,6,True,False,,MISS Bradley 9' Driving Layup,52-50,52,50
-0021800709,2019-01-23,MIA,LAC,23.07,2,0,56,LAC,LAC,reb,0,False,False,,Clippers Rebound,52-50,52,50
 0021800709,2019-01-23,MIA,LAC,23.07,2,0,56,LAC,MIA,block,6,True,False,block,block,52-50,52,50
+0021800709,2019-01-23,MIA,LAC,23.07,2,0,56,LAC,LAC,reb,0,False,False,,Clippers Rebound,52-50,52,50
 0021800709,2019-01-23,MIA,LAC,23.1,2,0,54,LAC,LAC,fg_make,1,False,False,,Bradley 15' Jump Shot (7 PTS) (Gilgeous-Alexander 2 AST),52-52,52,52
 0021800709,2019-01-23,MIA,LAC,23.5,2,0,30,MIA,MIA,fg_make,98,False,False,Wade 3' Cutting Layup Shot (13 PTS) (Whiteside 2 AST),,54-52,54,52
 0021800709,2019-01-23,MIA,LAC,23.82,2,0,11,LAC,LAC,fg_make,9,False,False,,Harris 3' Driving Dunk (22 PTS),54-54,54,54
 0021800709,2019-01-23,MIA,LAC,24.0,2,0,0,MIA,MIA,fg3_miss,1,True,False,MISS Richardson 3PT Jump Shot,,54-54,54,54
+0021800709,2019-01-23,MIA,LAC,24.0,2,0,0,MIA,LAC,block,1,True,False,block,block,54-54,54,54
 0021800709,2019-01-23,MIA,LAC,24.0,2,0,0,LAC,LAC,reb,0,False,False,,Gortat REBOUND (Off:1 Def:4),54-54,54,54
 0021800709,2019-01-23,MIA,LAC,24.0,2,0,0,LAC,,period_end,0,False,False,,,54-54,54,54
 0021800709,2019-01-23,MIA,LAC,24.0,3,12,0,LAC,,period_start,0,False,False,,,54-54,54,54
-0021800709,2019-01-23,MIA,LAC,24.0,2,0,0,MIA,LAC,block,1,True,False,block,block,54-54,54,54
 0021800709,2019-01-23,MIA,LAC,24.33,3,11,40,LAC,MIA,foul,26,False,False,Winslow Offensive Charge Foul (P1.T1) (Z.Zarba),,54-54,54,54
 0021800709,2019-01-23,MIA,LAC,24.33,3,11,40,MIA,MIA,tov,37,False,False,Winslow Offensive Foul Turnover (P2.T7),,54-54,54,54
 0021800709,2019-01-23,MIA,LAC,24.48,3,11,31,LAC,LAC,fg_make,79,False,False,,Gilgeous-Alexander 14' Pullup Jump Shot (8 PTS) (Harris 2 AST),54-56,54,56
@@ -269,8 +269,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800709,2019-01-23,MIA,LAC,33.0,3,3,0,LAC,LAC,reb,0,False,False,,Harris REBOUND (Off:0 Def:5),68-69,68,69
 0021800709,2019-01-23,MIA,LAC,33.0,3,3,0,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.3 Short 0),68-69,68,69
 0021800709,2019-01-23,MIA,LAC,33.22,3,2,47,LAC,LAC,fg_miss,6,True,False,,MISS Harris 3' Driving Layup,68-69,68,69
-0021800709,2019-01-23,MIA,LAC,33.22,3,2,47,LAC,LAC,reb,0,False,False,,Clippers Rebound,68-69,68,69
 0021800709,2019-01-23,MIA,LAC,33.22,3,2,47,LAC,MIA,block,6,True,False,block,block,68-69,68,69
+0021800709,2019-01-23,MIA,LAC,33.22,3,2,47,LAC,LAC,reb,0,False,False,,Clippers Rebound,68-69,68,69
 0021800709,2019-01-23,MIA,LAC,33.33,3,2,40,LAC,LAC,fg3_make,1,False,False,,Harris 25' 3PT Jump Shot (25 PTS) (Williams 4 AST),68-72,68,72
 0021800709,2019-01-23,MIA,LAC,33.62,3,2,23,MIA,MIA,fg_make,52,False,False,Adebayo 3' Alley Oop Dunk (4 PTS) (Wade 3 AST),,70-72,70,72
 0021800709,2019-01-23,MIA,LAC,33.83,3,2,10,LAC,LAC,fg_make,80,False,False,,Williams 13' Step Back Jump Shot (9 PTS),70-74,70,74

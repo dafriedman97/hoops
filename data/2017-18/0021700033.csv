@@ -23,8 +23,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700033,2017-10-21,MEM,GSW,2.4,1,9,36,GSW,MEM,foul,3,False,False,Harrison L.B.FOUL (P1.T1) (J.Goble),,4-6,4,6
 0021700033,2017-10-21,MEM,GSW,2.45,1,9,33,GSW,GSW,fg_make,1,False,False,,Thompson 14' Jump Shot (5 PTS) (Durant 1 AST),4-8,4,8
 0021700033,2017-10-21,MEM,GSW,2.77,1,9,14,MEM,MEM,fg_miss,98,True,False,MISS Martin 3' Cutting Layup Shot,,4-8,4,8
-0021700033,2017-10-21,MEM,GSW,2.77,1,9,14,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,4-8,4,8
 0021700033,2017-10-21,MEM,GSW,2.77,1,9,14,MEM,GSW,block,98,True,False,block,block,4-8,4,8
+0021700033,2017-10-21,MEM,GSW,2.77,1,9,14,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,4-8,4,8
 0021700033,2017-10-21,MEM,GSW,2.83,1,9,10,MEM,GSW,foul,2,False,False,,Curry S.FOUL (P1.T2) (S.Wall),4-8,4,8
 0021700033,2017-10-21,MEM,GSW,2.83,1,9,10,MEM,MEM,ft_miss,11,False,False,MISS Gasol Free Throw 1 of 2,,4-8,4,8
 0021700033,2017-10-21,MEM,GSW,2.83,1,9,10,MEM,MEM,reb,1,False,False,GRIZZLIES Rebound,,4-8,4,8
@@ -234,8 +234,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700033,2017-10-21,MEM,GSW,24.0,2,0,0,GSW,GSW,fg3_miss,1,False,False,,MISS Thompson 65' 3PT Jump Shot,56-51,56,51
 0021700033,2017-10-21,MEM,GSW,24.0,2,0,0,GSW,GSW,reb,0,False,False,,Warriors Rebound,56-51,56,51
 0021700033,2017-10-21,MEM,GSW,24.0,2,0,0,GSW,,period_end,0,False,False,,,56-51,56,51
-0021700033,2017-10-21,MEM,GSW,24.0,3,12,0,GSW,,violation,1,False,False,,,56-51,56,51
 0021700033,2017-10-21,MEM,GSW,24.0,3,12,0,GSW,,period_start,0,False,False,,,56-51,56,51
+0021700033,2017-10-21,MEM,GSW,24.0,3,12,0,GSW,,violation,1,False,False,,,56-51,56,51
 0021700033,2017-10-21,MEM,GSW,24.27,3,11,44,GSW,GSW,fg3_make,1,False,False,,Curry 25' 3PT Jump Shot (19 PTS),56-54,56,54
 0021700033,2017-10-21,MEM,GSW,24.63,3,11,22,MEM,MEM,tov,45,False,False,Gasol Out of Bounds - Bad Pass Turnover Turnover (P3.T7),,56-54,56,54
 0021700033,2017-10-21,MEM,GSW,24.72,3,11,17,GSW,GSW,tov,40,False,False,,Durant Out of Bounds Lost Ball Turnover (P3.T7),56-54,56,54
@@ -251,8 +251,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700033,2017-10-21,MEM,GSW,25.98,3,10,1,GSW,GSW,fg_miss,1,False,False,,MISS Thompson 10' Jump Shot,59-56,59,56
 0021700033,2017-10-21,MEM,GSW,26.0,3,10,0,GSW,GSW,reb,0,False,False,,Pachulia REBOUND (Off:2 Def:4),59-56,59,56
 0021700033,2017-10-21,MEM,GSW,26.15,3,9,51,GSW,GSW,fg_miss,75,False,False,,MISS Curry 5' Driving Finger Roll Layup,59-56,59,56
-0021700033,2017-10-21,MEM,GSW,26.17,3,9,50,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,59-56,59,56
 0021700033,2017-10-21,MEM,GSW,26.17,3,9,50,MEM,GSW,foul,3,False,False,,Pachulia L.B.FOUL (P1.T1) (S.Wall),59-56,59,56
+0021700033,2017-10-21,MEM,GSW,26.17,3,9,50,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,59-56,59,56
 0021700033,2017-10-21,MEM,GSW,26.4,3,9,36,MEM,MEM,fg3_miss,1,False,False,MISS Harrison 26' 3PT Jump Shot,,59-56,59,56
 0021700033,2017-10-21,MEM,GSW,26.42,3,9,35,MEM,MEM,reb,0,False,False,Ennis III REBOUND (Off:1 Def:1),,59-56,59,56
 0021700033,2017-10-21,MEM,GSW,26.43,3,9,34,MEM,MEM,fg_make,9,False,False,Ennis III 1' Driving Dunk (5 PTS),,61-56,61,56
@@ -362,8 +362,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700033,2017-10-21,MEM,GSW,36.58,4,11,25,GSW,GSW,tov,1,False,True,,West Bad Pass Turnover (P2.T13),88-71,88,71
 0021700033,2017-10-21,MEM,GSW,36.58,4,11,25,GSW,MEM,steal,1,False,True,steal,steal,88-71,88,71
 0021700033,2017-10-21,MEM,GSW,36.72,4,11,17,MEM,MEM,tov,1,False,True,Brooks Bad Pass Turnover (P2.T13),,88-71,88,71
-0021700033,2017-10-21,MEM,GSW,36.72,4,11,17,GSW,MEM,foul,28,False,False,Chalmers Personal Take Foul (P5.T1) (S.Wall),,88-71,88,71
 0021700033,2017-10-21,MEM,GSW,36.72,4,11,17,MEM,GSW,steal,1,False,True,steal,steal,88-71,88,71
+0021700033,2017-10-21,MEM,GSW,36.72,4,11,17,GSW,MEM,foul,28,False,False,Chalmers Personal Take Foul (P5.T1) (S.Wall),,88-71,88,71
 0021700033,2017-10-21,MEM,GSW,36.9,4,11,6,GSW,GSW,tov,1,False,True,,Livingston Bad Pass Turnover (P1.T14),88-71,88,71
 0021700033,2017-10-21,MEM,GSW,36.9,4,11,6,GSW,MEM,steal,1,False,True,steal,steal,88-71,88,71
 0021700033,2017-10-21,MEM,GSW,36.95,4,11,3,GSW,MEM,foul,3,False,False,Parsons L.B.FOUL (P2.T2) (B.Forte),,88-71,88,71
@@ -455,11 +455,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700033,2017-10-21,MEM,GSW,47.18,4,0,49,MEM,MEM,ft_make,12,False,False,Gasol Free Throw 2 of 2 (32 PTS),,107-97,107,97
 0021700033,2017-10-21,MEM,GSW,47.28,4,0,43,GSW,GSW,fg_make,6,False,False,,Curry 1' Driving Layup (37 PTS),107-99,107,99
 0021700033,2017-10-21,MEM,GSW,47.28,4,0,43,MEM,GSW,foul,11,False,False,,Curry T.FOUL (P5.PN) (S.Wall),107-99,107,99
-0021700033,2017-10-21,MEM,GSW,47.28,4,0,43,MEM,GSW,ejection,4,False,False,,Curry Ejection:Other,107-99,107,99
 0021700033,2017-10-21,MEM,GSW,47.28,4,0,43,MEM,MEM,ft_make,16,False,False,Gasol Free Throw Technical (33 PTS),,108-99,108,99
 0021700033,2017-10-21,MEM,GSW,47.28,4,0,43,MEM,GSW,foul,11,False,False,,Durant T.FOUL (P2.PN) (B.Forte),108-99,108,99
-0021700033,2017-10-21,MEM,GSW,47.28,4,0,43,MEM,GSW,ejection,4,False,False,,Durant Ejection:Other,108-99,108,99
 0021700033,2017-10-21,MEM,GSW,47.28,4,0,43,MEM,MEM,ft_make,16,False,False,Gasol Free Throw Technical (34 PTS),,109-99,109,99
+0021700033,2017-10-21,MEM,GSW,47.28,4,0,43,MEM,GSW,ejection,4,False,False,,Curry Ejection:Other,107-99,107,99
+0021700033,2017-10-21,MEM,GSW,47.28,4,0,43,MEM,GSW,ejection,4,False,False,,Durant Ejection:Other,108-99,108,99
 0021700033,2017-10-21,MEM,GSW,47.63,4,0,22,MEM,GSW,foul,2,False,False,,Cook S.FOUL (P1.PN) (B.Forte),109-99,109,99
 0021700033,2017-10-21,MEM,GSW,47.63,4,0,22,MEM,MEM,ft_make,11,False,False,Harrison Free Throw 1 of 2 (4 PTS),,110-99,110,99
 0021700033,2017-10-21,MEM,GSW,47.63,4,0,22,MEM,MEM,ft_make,12,False,False,Harrison Free Throw 2 of 2 (5 PTS),,111-99,111,99

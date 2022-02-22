@@ -44,9 +44,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800507,2018-12-26,CHI,MIN,5.0,1,7,0,CHI,CHI,fg_miss,72,False,False,MISS Carter Jr. 2' Putback Layup,,5-10,5,10
 0021800507,2018-12-26,CHI,MIN,5.03,1,6,58,MIN,MIN,reb,0,False,False,,Covington REBOUND (Off:1 Def:1),5-10,5,10
 0021800507,2018-12-26,CHI,MIN,5.1,1,6,54,MIN,MIN,fg_miss,6,True,False,,MISS Rose 1' Driving Layup,5-10,5,10
+0021800507,2018-12-26,CHI,MIN,5.1,1,6,54,MIN,CHI,block,6,True,False,block,block,5-10,5,10
 0021800507,2018-12-26,CHI,MIN,5.1,1,6,54,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,5-10,5,10
 0021800507,2018-12-26,CHI,MIN,5.1,1,6,54,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 1 Short 0),,5-10,5,10
-0021800507,2018-12-26,CHI,MIN,5.1,1,6,54,MIN,CHI,block,6,True,False,block,block,5-10,5,10
 0021800507,2018-12-26,CHI,MIN,5.18,1,6,49,MIN,MIN,fg_make,6,False,False,,Gibson 2' Driving Layup (6 PTS) (Rose 3 AST),5-12,5,12
 0021800507,2018-12-26,CHI,MIN,5.18,1,6,49,MIN,CHI,foul,2,False,False,Dunn S.FOUL (P1.T1) (C.Blair),,5-12,5,12
 0021800507,2018-12-26,CHI,MIN,5.18,1,6,49,MIN,MIN,ft_make,10,False,False,,Gibson Free Throw 1 of 1 (7 PTS),5-13,5,13
@@ -226,9 +226,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800507,2018-12-26,CHI,MIN,23.9,2,0,6,MIN,MIN,reb,0,False,False,,Wiggins REBOUND (Off:0 Def:2),37-58,37,58
 0021800507,2018-12-26,CHI,MIN,24.0,2,0,0,MIN,MIN,fg_make,6,False,False,,Wiggins 1' Driving Layup (5 PTS),37-60,37,60
 0021800507,2018-12-26,CHI,MIN,24.0,2,0,0,CHI,CHI,tov,2,False,True,Lopez Lost Ball Turnover (P1.T7),,37-60,37,60
+0021800507,2018-12-26,CHI,MIN,24.0,2,0,0,CHI,MIN,steal,2,False,True,steal,steal,37-60,37,60
 0021800507,2018-12-26,CHI,MIN,24.0,2,0,0,CHI,,period_end,0,False,False,,,37-60,37,60
 0021800507,2018-12-26,CHI,MIN,24.0,3,12,0,CHI,,period_start,0,False,False,,,37-60,37,60
-0021800507,2018-12-26,CHI,MIN,24.0,2,0,0,CHI,MIN,steal,2,False,True,steal,steal,37-60,37,60
 0021800507,2018-12-26,CHI,MIN,24.33,3,11,40,CHI,CHI,fg_make,57,False,False,Carter Jr. 6' Driving Hook Shot (4 PTS) (Arcidiacono 1 AST),,39-60,39,60
 0021800507,2018-12-26,CHI,MIN,24.73,3,11,16,MIN,MIN,fg_miss,80,False,False,,MISS Wiggins 17' Step Back Jump Shot,39-60,39,60
 0021800507,2018-12-26,CHI,MIN,24.75,3,11,15,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,39-60,39,60
@@ -242,8 +242,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800507,2018-12-26,CHI,MIN,25.5,3,10,30,CHI,CHI,fg_miss,5,False,False,MISS Markkanen 6' Layup,,39-63,39,63
 0021800507,2018-12-26,CHI,MIN,25.53,3,10,28,CHI,CHI,reb,0,False,False,Carter Jr. REBOUND (Off:4 Def:3),,39-63,39,63
 0021800507,2018-12-26,CHI,MIN,25.55,3,10,27,CHI,CHI,fg_miss,5,True,False,MISS Carter Jr. 1' Layup,,39-63,39,63
-0021800507,2018-12-26,CHI,MIN,25.55,3,10,27,CHI,CHI,reb,0,False,False,BULLS Rebound,,39-63,39,63
 0021800507,2018-12-26,CHI,MIN,25.55,3,10,27,CHI,MIN,block,5,True,False,block,block,39-63,39,63
+0021800507,2018-12-26,CHI,MIN,25.55,3,10,27,CHI,CHI,reb,0,False,False,BULLS Rebound,,39-63,39,63
 0021800507,2018-12-26,CHI,MIN,25.65,3,10,21,CHI,CHI,fg_make,5,False,False,Holiday 1' Layup (2 PTS) (Arcidiacono 2 AST),,41-63,41,63
 0021800507,2018-12-26,CHI,MIN,25.93,3,10,4,MIN,MIN,fg_miss,79,False,False,,MISS Wiggins 18' Pullup Jump Shot,41-63,41,63
 0021800507,2018-12-26,CHI,MIN,25.98,3,10,1,CHI,CHI,reb,0,False,False,Dunn REBOUND (Off:0 Def:7),,41-63,41,63
@@ -288,8 +288,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800507,2018-12-26,CHI,MIN,30.87,3,5,8,CHI,CHI,ft_miss,10,False,False,MISS Dunn Free Throw 1 of 1,,52-75,52,75
 0021800507,2018-12-26,CHI,MIN,30.92,3,5,5,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:3 Def:14),52-75,52,75
 0021800507,2018-12-26,CHI,MIN,31.02,3,4,59,MIN,MIN,fg_miss,41,True,False,,MISS Rose 2' Running Layup,52-75,52,75
-0021800507,2018-12-26,CHI,MIN,31.02,3,4,59,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,52-75,52,75
 0021800507,2018-12-26,CHI,MIN,31.02,3,4,59,MIN,CHI,block,41,True,False,block,block,52-75,52,75
+0021800507,2018-12-26,CHI,MIN,31.02,3,4,59,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,52-75,52,75
 0021800507,2018-12-26,CHI,MIN,31.17,3,4,50,MIN,MIN,tov,40,False,False,,Covington Out of Bounds Lost Ball Turnover (P1.T5),52-75,52,75
 0021800507,2018-12-26,CHI,MIN,31.43,3,4,34,CHI,CHI,fg_make,101,False,False,Carter Jr. 11' Driving Floating Jump Shot (12 PTS) (Dunn 6 AST),,54-75,54,75
 0021800507,2018-12-26,CHI,MIN,31.75,3,4,15,MIN,CHI,foul,1,False,False,Markkanen P.FOUL (P2.PN) (C.Blair),,54-75,54,75

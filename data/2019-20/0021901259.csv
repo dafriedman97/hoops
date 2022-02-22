@@ -154,8 +154,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901259,2020-08-04,IND,ORL,19.63,2,4,22,ORL,ORL,fg_make,75,False,False,,Ennis III 2' Driving Finger Roll Layup (5 PTS),57-41,57,41
 0021901259,2020-08-04,IND,ORL,19.63,2,4,22,IND,IND,timeout,1,False,False,PACERS Timeout: Regular (Full 2 Short 0),,57-41,57,41
 0021901259,2020-08-04,IND,ORL,20.0,2,4,0,IND,IND,fg3_miss,79,False,False,MISS Brogdon 29' 3PT Pullup Jump Shot,,57-41,57,41
-0021901259,2020-08-04,IND,ORL,20.07,2,3,56,IND,IND,fg_make,107,False,False,Turner 1' Tip Dunk Shot (6 PTS),,59-41,59,41
 0021901259,2020-08-04,IND,ORL,20.07,2,3,56,IND,IND,reb,0,False,False,Turner REBOUND (Off:1 Def:4),,59-41,59,41
+0021901259,2020-08-04,IND,ORL,20.07,2,3,56,IND,IND,fg_make,107,False,False,Turner 1' Tip Dunk Shot (6 PTS),,59-41,59,41
 0021901259,2020-08-04,IND,ORL,20.48,2,3,31,ORL,ORL,fg_make,5,False,False,,Vucevic 1' Layup (13 PTS) (Fournier 1 AST),59-43,59,43
 0021901259,2020-08-04,IND,ORL,20.68,2,3,19,IND,IND,fg_make,79,False,False,Oladipo 21' Pullup Jump Shot (9 PTS) (Brogdon 6 AST),,61-43,61,43
 0021901259,2020-08-04,IND,ORL,20.85,2,3,9,ORL,IND,foul,1,False,False,Oladipo P.FOUL (P1.T3) (J.DeRosa),,61-43,61,43
@@ -228,8 +228,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901259,2020-08-04,IND,ORL,28.45,3,7,33,ORL,ORL,reb,0,False,False,,Ennis III REBOUND (Off:1 Def:2),74-58,74,58
 0021901259,2020-08-04,IND,ORL,28.45,3,7,33,ORL,ORL,fg_make,97,False,False,,Ennis III 1' Tip Layup Shot (10 PTS),74-60,74,60
 0021901259,2020-08-04,IND,ORL,28.82,3,7,11,IND,IND,fg_miss,1,True,False,MISS Turner 8' Jump Shot,,74-60,74,60
-0021901259,2020-08-04,IND,ORL,28.82,3,7,11,ORL,ORL,reb,0,False,False,,Magic Rebound,74-60,74,60
 0021901259,2020-08-04,IND,ORL,28.82,3,7,11,IND,ORL,block,1,True,False,block,block,74-60,74,60
+0021901259,2020-08-04,IND,ORL,28.82,3,7,11,ORL,ORL,reb,0,False,False,,Magic Rebound,74-60,74,60
 0021901259,2020-08-04,IND,ORL,28.88,3,7,7,,IND,jump_ball,0,False,False,Jump Ball Turner vs. Iwundu: Tip to Vucevic,,74-60,74,60
 0021901259,2020-08-04,IND,ORL,28.93,3,7,4,ORL,ORL,fg3_miss,2,False,False,,MISS Fournier 24' 3PT Running Jump Shot,74-60,74,60
 0021901259,2020-08-04,IND,ORL,28.97,3,7,2,IND,IND,reb,0,False,False,Turner REBOUND (Off:1 Def:5),,74-60,74,60
@@ -274,8 +274,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901259,2020-08-04,IND,ORL,32.92,3,3,5,IND,IND,fg_miss,73,False,False,MISS Brogdon 1' Driving Reverse Layup,,84-68,84,68
 0021901259,2020-08-04,IND,ORL,32.95,3,3,3,ORL,ORL,reb,0,False,False,,Birch REBOUND (Off:2 Def:2),84-68,84,68
 0021901259,2020-08-04,IND,ORL,33.28,3,2,43,ORL,ORL,tov,2,False,True,,Iwundu Lost Ball Turnover (P1.T15),84-68,84,68
-0021901259,2020-08-04,IND,ORL,33.28,3,2,43,IND,ORL,foul,28,False,False,,Iwundu Personal Take Foul (P3.PN) (J.DeRosa),84-68,84,68
 0021901259,2020-08-04,IND,ORL,33.28,3,2,43,ORL,IND,steal,2,False,True,steal,steal,84-68,84,68
+0021901259,2020-08-04,IND,ORL,33.28,3,2,43,IND,ORL,foul,28,False,False,,Iwundu Personal Take Foul (P3.PN) (J.DeRosa),84-68,84,68
 0021901259,2020-08-04,IND,ORL,33.28,3,2,43,IND,IND,ft_make,11,False,False,Oladipo Free Throw 1 of 2 (12 PTS),,85-68,85,68
 0021901259,2020-08-04,IND,ORL,33.28,3,2,43,IND,IND,ft_make,12,False,False,Oladipo Free Throw 2 of 2 (13 PTS),,86-68,86,68
 0021901259,2020-08-04,IND,ORL,33.52,3,2,29,ORL,ORL,fg3_miss,1,False,False,,MISS Ross 3PT Jump Shot,86-68,86,68
@@ -325,8 +325,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901259,2020-08-04,IND,ORL,38.17,4,9,50,IND,IND,ft_make,11,False,False,Holiday Free Throw 1 of 2 (9 PTS),,97-82,97,82
 0021901259,2020-08-04,IND,ORL,38.17,4,9,50,IND,IND,ft_make,12,False,False,Holiday Free Throw 2 of 2 (10 PTS),,98-82,98,82
 0021901259,2020-08-04,IND,ORL,38.37,4,9,38,ORL,ORL,fg_miss,44,False,False,,MISS Ross 1' Reverse Layup,98-82,98,82
-0021901259,2020-08-04,IND,ORL,38.47,4,9,32,ORL,ORL,fg_make,97,False,False,,Birch 1' Tip Layup Shot (7 PTS),98-84,98,84
 0021901259,2020-08-04,IND,ORL,38.47,4,9,32,ORL,ORL,reb,0,False,False,,Birch REBOUND (Off:3 Def:2),98-84,98,84
+0021901259,2020-08-04,IND,ORL,38.47,4,9,32,ORL,ORL,fg_make,97,False,False,,Birch 1' Tip Layup Shot (7 PTS),98-84,98,84
 0021901259,2020-08-04,IND,ORL,38.67,4,9,20,IND,IND,fg3_make,1,False,False,Holiday 3PT Jump Shot (5 PTS) (Sampson 4 AST),,101-84,101,84
 0021901259,2020-08-04,IND,ORL,38.95,4,9,3,ORL,ORL,fg3_make,79,False,False,,Ross 27' 3PT Pullup Jump Shot (14 PTS),101-87,101,87
 0021901259,2020-08-04,IND,ORL,39.18,4,8,49,IND,IND,fg_miss,57,False,False,MISS Holiday 8' Driving Hook Shot,,101-87,101,87

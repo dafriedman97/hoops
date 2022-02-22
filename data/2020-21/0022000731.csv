@@ -132,8 +132,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000731,2021-04-01,CLE,PHI,12.72,2,11,17,CLE,CLE,fg_miss,63,False,False,MISS Love 14' Fadeaway Jumper,,31-34,31,34
 0022000731,2021-04-01,CLE,PHI,12.75,2,11,15,PHI,PHI,reb,0,False,False,,Howard REBOUND (Off:0 Def:3),31-34,31,34
 0022000731,2021-04-01,CLE,PHI,12.88,2,11,7,PHI,PHI,fg_miss,78,False,False,,MISS Thybulle 6' Floating Jump Shot,31-34,31,34
-0022000731,2021-04-01,CLE,PHI,13.02,2,10,59,PHI,PHI,fg_make,107,False,False,,Howard Tip Dunk Shot (6 PTS),31-36,31,36
 0022000731,2021-04-01,CLE,PHI,13.02,2,10,59,PHI,PHI,reb,0,False,False,,Howard REBOUND (Off:1 Def:3),31-36,31,36
+0022000731,2021-04-01,CLE,PHI,13.02,2,10,59,PHI,PHI,fg_make,107,False,False,,Howard Tip Dunk Shot (6 PTS),31-36,31,36
 0022000731,2021-04-01,CLE,PHI,13.17,2,10,50,CLE,CLE,fg_miss,78,False,False,MISS Hartenstein 6' Floating Jump Shot,,31-36,31,36
 0022000731,2021-04-01,CLE,PHI,13.22,2,10,47,PHI,PHI,reb,0,False,False,,Korkmaz REBOUND (Off:0 Def:1),31-36,31,36
 0022000731,2021-04-01,CLE,PHI,13.33,2,10,40,PHI,PHI,fg_miss,73,False,False,,MISS Maxey 1' Driving Reverse Layup,31-36,31,36
@@ -274,8 +274,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000731,2021-04-01,CLE,PHI,28.6,3,7,24,PHI,PHI,fg3_miss,1,False,False,,MISS Curry 26' 3PT Jump Shot,63-68,63,68
 0022000731,2021-04-01,CLE,PHI,28.68,3,7,19,CLE,CLE,reb,0,False,False,Okoro REBOUND (Off:0 Def:5),,63-68,63,68
 0022000731,2021-04-01,CLE,PHI,28.95,3,7,3,CLE,CLE,fg_miss,6,True,False,MISS Sexton 1' Driving Layup,,63-68,63,68
-0022000731,2021-04-01,CLE,PHI,28.95,3,7,3,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,63-68,63,68
 0022000731,2021-04-01,CLE,PHI,28.95,3,7,3,CLE,PHI,block,6,True,False,block,block,63-68,63,68
+0022000731,2021-04-01,CLE,PHI,28.95,3,7,3,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,63-68,63,68
 0022000731,2021-04-01,CLE,PHI,29.0,3,7,0,CLE,CLE,fg_make,1,False,False,Garland 21' Jump Shot (2 PTS) (Okoro 1 AST),,65-68,65,68
 0022000731,2021-04-01,CLE,PHI,29.27,3,6,44,PHI,PHI,fg3_make,1,False,False,,Green 24' 3PT Jump Shot (11 PTS) (Curry 4 AST),65-71,65,71
 0022000731,2021-04-01,CLE,PHI,29.62,3,6,23,CLE,CLE,fg3_miss,1,False,False,MISS Garland 28' 3PT Jump Shot,,65-71,65,71
@@ -338,9 +338,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000731,2021-04-01,CLE,PHI,35.62,3,0,23,PHI,PHI,fg3_miss,1,False,False,,MISS Thybulle 3PT Jump Shot,73-85,73,85
 0022000731,2021-04-01,CLE,PHI,35.67,3,0,20,CLE,CLE,reb,0,False,False,Prince REBOUND (Off:0 Def:3),,73-85,73,85
 0022000731,2021-04-01,CLE,PHI,36.0,3,0,0,CLE,CLE,tov,1,False,True,Garland Bad Pass Turnover (P4.T10),,73-85,73,85
+0022000731,2021-04-01,CLE,PHI,36.0,3,0,0,CLE,PHI,steal,1,False,True,steal,steal,73-85,73,85
 0022000731,2021-04-01,CLE,PHI,36.0,3,0,0,CLE,,period_end,0,False,False,,,73-85,73,85
 0022000731,2021-04-01,CLE,PHI,36.0,4,12,0,CLE,,period_start,0,False,False,,,73-85,73,85
-0022000731,2021-04-01,CLE,PHI,36.0,3,0,0,CLE,PHI,steal,1,False,True,steal,steal,73-85,73,85
 0022000731,2021-04-01,CLE,PHI,36.35,4,11,39,CLE,CLE,tov,1,False,True,Garland Bad Pass Turnover (P5.T11),,73-85,73,85
 0022000731,2021-04-01,CLE,PHI,36.35,4,11,39,CLE,PHI,steal,1,False,True,steal,steal,73-85,73,85
 0022000731,2021-04-01,CLE,PHI,36.47,4,11,32,PHI,PHI,fg3_make,1,False,False,,Milton 27' 3PT Jump Shot (22 PTS) (Maxey 3 AST),73-88,73,88

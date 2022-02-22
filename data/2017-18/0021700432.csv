@@ -86,9 +86,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700432,2017-12-16,MIA,LAC,9.15,1,2,51,MIA,MIA,fg3_miss,1,False,False,MISS Waiters 3PT Jump Shot,,19-15,19,15
 0021700432,2017-12-16,MIA,LAC,9.22,1,2,47,LAC,LAC,reb,0,False,False,,Dekker REBOUND (Off:0 Def:4),19-15,19,15
 0021700432,2017-12-16,MIA,LAC,9.3,1,2,42,LAC,LAC,fg_miss,78,False,False,,MISS Williams 7' Floating Jump Shot,19-15,19,15
-0021700432,2017-12-16,MIA,LAC,9.32,1,2,41,LAC,LAC,reb,0,False,False,,Clippers Rebound,19-15,19,15
 0021700432,2017-12-16,MIA,LAC,9.32,1,2,41,LAC,MIA,foul,3,False,False,Dragic L.B.FOUL (P1.T2) (A.Smith),,19-15,19,15
 0021700432,2017-12-16,MIA,LAC,9.32,1,2,41,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.1 Short 0),19-15,19,15
+0021700432,2017-12-16,MIA,LAC,9.32,1,2,41,LAC,LAC,reb,0,False,False,,Clippers Rebound,19-15,19,15
 0021700432,2017-12-16,MIA,LAC,9.5,1,2,30,LAC,LAC,tov,1,False,True,,Williams Bad Pass Turnover (P3.T5),19-15,19,15
 0021700432,2017-12-16,MIA,LAC,9.5,1,2,30,LAC,MIA,steal,1,False,True,steal,steal,19-15,19,15
 0021700432,2017-12-16,MIA,LAC,9.62,1,2,23,MIA,MIA,fg_miss,5,False,False,MISS Adebayo 1' Layup,,19-15,19,15
@@ -220,8 +220,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700432,2017-12-16,MIA,LAC,27.43,3,8,34,LAC,LAC,fg3_miss,1,False,False,,MISS Teodosic 25' 3PT Jump Shot,56-47,56,47
 0021700432,2017-12-16,MIA,LAC,27.48,3,8,31,MIA,MIA,reb,0,False,False,Waiters REBOUND (Off:0 Def:5),,56-47,56,47
 0021700432,2017-12-16,MIA,LAC,27.57,3,8,26,MIA,MIA,fg_miss,41,True,False,MISS Waiters 1' Running Layup,,56-47,56,47
-0021700432,2017-12-16,MIA,LAC,27.57,3,8,26,LAC,LAC,reb,0,False,False,,Teodosic REBOUND (Off:0 Def:3),56-47,56,47
 0021700432,2017-12-16,MIA,LAC,27.57,3,8,26,MIA,LAC,block,41,True,False,block,block,56-47,56,47
+0021700432,2017-12-16,MIA,LAC,27.57,3,8,26,LAC,LAC,reb,0,False,False,,Teodosic REBOUND (Off:0 Def:3),56-47,56,47
 0021700432,2017-12-16,MIA,LAC,27.68,3,8,19,LAC,LAC,fg3_miss,1,False,False,,MISS Williams 24' 3PT Jump Shot,56-47,56,47
 0021700432,2017-12-16,MIA,LAC,27.73,3,8,16,LAC,LAC,reb,0,False,False,,Jordan REBOUND (Off:5 Def:8),56-47,56,47
 0021700432,2017-12-16,MIA,LAC,27.73,3,8,16,LAC,LAC,fg_make,97,False,False,,Jordan 1' Tip Layup Shot (12 PTS),56-49,56,49
@@ -311,8 +311,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700432,2017-12-16,MIA,LAC,36.62,4,11,23,LAC,LAC,tov,2,False,True,,Thornwell Lost Ball Turnover (P2.T14),69-65,69,65
 0021700432,2017-12-16,MIA,LAC,36.62,4,11,23,LAC,MIA,steal,2,False,True,steal,steal,69-65,69,65
 0021700432,2017-12-16,MIA,LAC,36.68,4,11,19,MIA,MIA,fg_miss,5,True,False,MISS Richardson Layup,,69-65,69,65
-0021700432,2017-12-16,MIA,LAC,36.68,4,11,19,MIA,MIA,reb,0,False,False,HEAT Rebound,,69-65,69,65
 0021700432,2017-12-16,MIA,LAC,36.68,4,11,19,MIA,LAC,block,5,True,False,block,block,69-65,69,65
+0021700432,2017-12-16,MIA,LAC,36.68,4,11,19,MIA,MIA,reb,0,False,False,HEAT Rebound,,69-65,69,65
 0021700432,2017-12-16,MIA,LAC,36.8,4,11,12,MIA,MIA,tov,40,False,False,Johnson Out of Bounds Lost Ball Turnover (P1.T8),,69-65,69,65
 0021700432,2017-12-16,MIA,LAC,37.07,4,10,56,LAC,LAC,fg_make,78,False,False,,Evans 6' Floating Jump Shot (8 PTS),69-67,69,67
 0021700432,2017-12-16,MIA,LAC,37.37,4,10,38,MIA,MIA,fg3_miss,1,False,False,MISS Ellington 25' 3PT Jump Shot,,69-67,69,67
@@ -354,18 +354,18 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700432,2017-12-16,MIA,LAC,42.23,4,5,46,MIA,MIA,fg_make,79,False,False,Olynyk 11' Pullup Jump Shot (7 PTS),,77-77,77,77
 0021700432,2017-12-16,MIA,LAC,42.43,4,5,34,LAC,LAC,fg_miss,1,True,False,,MISS Williams 21' Jump Shot,77-77,77,77
 0021700432,2017-12-16,MIA,LAC,42.43,4,5,34,LAC,MIA,block,1,True,False,block,block,77-77,77,77
-0021700432,2017-12-16,MIA,LAC,42.53,4,5,28,LAC,LAC,reb,0,False,False,,Teodosic REBOUND (Off:1 Def:3),77-77,77,77
 0021700432,2017-12-16,MIA,LAC,42.53,4,5,28,LAC,LAC,fg3_miss,1,False,False,,MISS Teodosic 25' 3PT Jump Shot,77-77,77,77
+0021700432,2017-12-16,MIA,LAC,42.53,4,5,28,LAC,LAC,reb,0,False,False,,Teodosic REBOUND (Off:1 Def:3),77-77,77,77
 0021700432,2017-12-16,MIA,LAC,42.58,4,5,25,MIA,MIA,reb,0,False,False,Richardson REBOUND (Off:0 Def:2),,77-77,77,77
 0021700432,2017-12-16,MIA,LAC,42.75,4,5,15,MIA,MIA,fg_miss,1,False,False,MISS Mickey 22' Jump Shot,,77-77,77,77
 0021700432,2017-12-16,MIA,LAC,42.8,4,5,12,LAC,LAC,reb,0,False,False,,Teodosic REBOUND (Off:1 Def:4),77-77,77,77
 0021700432,2017-12-16,MIA,LAC,42.88,4,5,7,LAC,LAC,fg_miss,5,True,False,,MISS Williams 2' Layup,77-77,77,77
+0021700432,2017-12-16,MIA,LAC,42.88,4,5,7,LAC,MIA,block,5,True,False,block,block,77-77,77,77
 0021700432,2017-12-16,MIA,LAC,42.88,4,5,7,LAC,LAC,reb,0,False,False,,Jordan REBOUND (Off:7 Def:10),77-77,77,77
 0021700432,2017-12-16,MIA,LAC,42.88,4,5,7,LAC,MIA,foul,2,False,False,Richardson S.FOUL (P2.T2) (A.Smith),,77-77,77,77
 0021700432,2017-12-16,MIA,LAC,42.88,4,5,7,LAC,LAC,ft_miss,11,False,False,,MISS Jordan Free Throw 1 of 2,77-77,77,77
 0021700432,2017-12-16,MIA,LAC,42.88,4,5,7,LAC,LAC,reb,1,False,False,,Clippers Rebound,77-77,77,77
 0021700432,2017-12-16,MIA,LAC,42.88,4,5,7,LAC,LAC,ft_miss,12,False,False,,MISS Jordan Free Throw 2 of 2,77-77,77,77
-0021700432,2017-12-16,MIA,LAC,42.88,4,5,7,LAC,MIA,block,5,True,False,block,block,77-77,77,77
 0021700432,2017-12-16,MIA,LAC,42.93,4,5,4,MIA,MIA,reb,0,False,False,Richardson REBOUND (Off:0 Def:3),,77-77,77,77
 0021700432,2017-12-16,MIA,LAC,43.1,4,4,54,MIA,LAC,foul,2,False,False,,Wilson S.FOUL (P2.T2) (B.Forte),77-77,77,77
 0021700432,2017-12-16,MIA,LAC,43.1,4,4,54,MIA,MIA,ft_make,11,False,False,Olynyk Free Throw 1 of 2 (8 PTS),,78-77,78,77

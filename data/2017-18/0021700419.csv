@@ -4,8 +4,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700419,2017-12-15,IND,DET,0.3,1,11,42,DET,DET,fg3_miss,1,False,False,,MISS Jackson 26' 3PT Jump Shot,0-0,0,0
 0021700419,2017-12-15,IND,DET,0.38,1,11,37,IND,IND,reb,0,False,False,Young REBOUND (Off:0 Def:1),,0-0,0,0
 0021700419,2017-12-15,IND,DET,0.63,1,11,22,IND,IND,fg_miss,1,True,False,MISS Bogdanovic 2' Jump Shot,,0-0,0,0
-0021700419,2017-12-15,IND,DET,0.63,1,11,22,IND,IND,reb,0,False,False,PACERS Rebound,,0-0,0,0
 0021700419,2017-12-15,IND,DET,0.63,1,11,22,IND,DET,block,1,True,False,block,block,0-0,0,0
+0021700419,2017-12-15,IND,DET,0.63,1,11,22,IND,IND,reb,0,False,False,PACERS Rebound,,0-0,0,0
 0021700419,2017-12-15,IND,DET,0.73,1,11,16,IND,IND,fg_make,75,False,False,Collison 1' Driving Finger Roll Layup (2 PTS),,2-0,2,0
 0021700419,2017-12-15,IND,DET,1.17,1,10,50,DET,DET,fg3_miss,1,False,False,,MISS Harris 30' 3PT Jump Shot,2-0,2,0
 0021700419,2017-12-15,IND,DET,1.2,1,10,48,IND,IND,reb,0,False,False,Collison REBOUND (Off:0 Def:1),,2-0,2,0
@@ -24,8 +24,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700419,2017-12-15,IND,DET,3.38,1,8,37,DET,DET,fg_miss,101,False,False,,MISS Harris 5' Driving Floating Jump Shot,2-5,2,5
 0021700419,2017-12-15,IND,DET,3.42,1,8,35,IND,IND,reb,0,False,False,Oladipo REBOUND (Off:0 Def:1),,2-5,2,5
 0021700419,2017-12-15,IND,DET,3.48,1,8,31,IND,IND,fg_miss,79,True,False,MISS Oladipo 14' Pullup Jump Shot,,2-5,2,5
-0021700419,2017-12-15,IND,DET,3.48,1,8,31,DET,DET,reb,0,False,False,,Pistons Rebound,2-5,2,5
 0021700419,2017-12-15,IND,DET,3.48,1,8,31,IND,DET,block,79,True,False,block,block,2-5,2,5
+0021700419,2017-12-15,IND,DET,3.48,1,8,31,DET,DET,reb,0,False,False,,Pistons Rebound,2-5,2,5
 0021700419,2017-12-15,IND,DET,3.72,1,8,17,DET,DET,fg3_miss,1,False,False,,MISS Harris 3PT Jump Shot,2-5,2,5
 0021700419,2017-12-15,IND,DET,3.78,1,8,13,IND,IND,reb,0,False,False,Young REBOUND (Off:0 Def:2),,2-5,2,5
 0021700419,2017-12-15,IND,DET,3.92,1,8,5,IND,IND,fg_miss,1,False,False,MISS Bogdanovic 19' Jump Shot,,2-5,2,5
@@ -250,11 +250,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700419,2017-12-15,IND,DET,30.52,3,5,29,IND,IND,reb,0,False,False,Turner REBOUND (Off:1 Def:4),,64-68,64,68
 0021700419,2017-12-15,IND,DET,30.53,3,5,28,IND,IND,fg_make,72,False,False,Turner 2' Putback Layup (21 PTS),,66-68,66,68
 0021700419,2017-12-15,IND,DET,30.87,3,5,8,DET,DET,fg_miss,6,True,False,,MISS Jackson 2' Driving Layup,66-68,66,68
+0021700419,2017-12-15,IND,DET,30.87,3,5,8,DET,IND,block,6,True,False,block,block,66-68,66,68
 0021700419,2017-12-15,IND,DET,30.87,3,5,8,DET,DET,reb,0,False,False,,Pistons Rebound,66-68,66,68
 0021700419,2017-12-15,IND,DET,30.87,3,5,8,DET,IND,foul,5,False,False,Oladipo IN.FOUL (P2.T3) (Z.Zarba),,66-68,66,68
 0021700419,2017-12-15,IND,DET,30.87,3,5,8,DET,DET,ft_miss,10,False,False,,MISS Harris Free Throw 1 of 1,66-68,66,68
 0021700419,2017-12-15,IND,DET,30.87,3,5,8,DET,DET,reb,0,False,False,,Pistons Rebound,66-68,66,68
-0021700419,2017-12-15,IND,DET,30.87,3,5,8,DET,IND,block,6,True,False,block,block,66-68,66,68
 0021700419,2017-12-15,IND,DET,30.93,3,5,4,DET,DET,fg_make,44,False,False,,Smith 1' Reverse Layup (6 PTS) (Kennard 4 AST),66-70,66,70
 0021700419,2017-12-15,IND,DET,31.15,3,4,51,IND,IND,fg_miss,75,True,False,MISS Young 4' Driving Finger Roll Layup,,66-70,66,70
 0021700419,2017-12-15,IND,DET,31.15,3,4,51,IND,DET,block,75,True,False,block,block,66-70,66,70

@@ -96,10 +96,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000568,2021-03-11,CHA,DET,11.87,1,0,8,CHA,CHA,fg3_miss,79,False,False,MISS Graham 29' 3PT Pullup Jump Shot,,30-22,30,22
 0022000568,2021-03-11,CHA,DET,11.92,1,0,5,DET,DET,reb,0,False,False,,Ellington REBOUND (Off:0 Def:2),30-22,30,22
 0022000568,2021-03-11,CHA,DET,12.0,1,0,0,DET,DET,fg_miss,6,True,False,,MISS Smith Jr. 1' Driving Layup,30-22,30,22
+0022000568,2021-03-11,CHA,DET,12.0,1,0,0,DET,CHA,block,6,True,False,block,block,30-22,30,22
 0022000568,2021-03-11,CHA,DET,12.0,1,0,0,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:1 Def:4),,30-22,30,22
 0022000568,2021-03-11,CHA,DET,12.0,1,0,0,CHA,,period_end,0,False,False,,,30-22,30,22
 0022000568,2021-03-11,CHA,DET,12.0,2,12,0,CHA,,period_start,0,False,False,,,30-22,30,22
-0022000568,2021-03-11,CHA,DET,12.0,1,0,0,DET,CHA,block,6,True,False,block,block,30-22,30,22
 0022000568,2021-03-11,CHA,DET,12.13,2,11,52,CHA,CHA,fg_miss,6,False,False,MISS Martin 1' Driving Layup,,30-22,30,22
 0022000568,2021-03-11,CHA,DET,12.17,2,11,50,DET,DET,reb,0,False,False,,Doumbouya REBOUND (Off:0 Def:1),30-22,30,22
 0022000568,2021-03-11,CHA,DET,12.22,2,11,47,DET,DET,fg_miss,101,True,False,,MISS Jackson 6' Driving Floating Jump Shot,30-22,30,22
@@ -130,9 +130,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000568,2021-03-11,CHA,DET,15.17,2,8,50,DET,DET,fg3_miss,1,False,False,,MISS Ellington 25' 3PT Jump Shot,39-27,39,27
 0022000568,2021-03-11,CHA,DET,15.2,2,8,48,CHA,CHA,reb,0,False,False,Biyombo REBOUND (Off:0 Def:1),,39-27,39,27
 0022000568,2021-03-11,CHA,DET,15.37,2,8,38,CHA,CHA,tov,1,False,True,Biyombo Bad Pass Turnover (P1.T2),,39-27,39,27
+0022000568,2021-03-11,CHA,DET,15.37,2,8,38,CHA,DET,steal,1,False,True,steal,steal,39-27,39,27
 0022000568,2021-03-11,CHA,DET,15.37,2,8,38,DET,CHA,foul,28,False,False,Martin Personal Take Foul (P2.T2) (M.Boland),,39-27,39,27
 0022000568,2021-03-11,CHA,DET,15.37,2,8,38,DET,DET,timeout,1,False,False,,Pistons Timeout: Regular (Reg.2 Short 0),39-27,39,27
-0022000568,2021-03-11,CHA,DET,15.37,2,8,38,CHA,DET,steal,1,False,True,steal,steal,39-27,39,27
 0022000568,2021-03-11,CHA,DET,15.57,2,8,26,DET,DET,fg3_miss,79,False,False,,MISS Wright 26' 3PT Pullup Jump Shot,39-27,39,27
 0022000568,2021-03-11,CHA,DET,15.62,2,8,23,CHA,CHA,reb,0,False,False,Biyombo REBOUND (Off:0 Def:2),,39-27,39,27
 0022000568,2021-03-11,CHA,DET,15.77,2,8,14,CHA,CHA,fg_miss,6,False,False,MISS Ball 3' Driving Layup,,39-27,39,27
@@ -358,8 +358,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000568,2021-03-11,CHA,DET,41.55,4,6,27,CHA,CHA,fg_miss,58,False,False,MISS Washington 7' Turnaround Hook Shot,,84-84,84,84
 0022000568,2021-03-11,CHA,DET,41.57,4,6,26,CHA,CHA,reb,0,False,False,Zeller REBOUND (Off:2 Def:2),,84-84,84,84
 0022000568,2021-03-11,CHA,DET,41.6,4,6,24,CHA,CHA,fg_miss,5,True,False,MISS Zeller 2' Layup,,84-84,84,84
-0022000568,2021-03-11,CHA,DET,41.6,4,6,24,CHA,CHA,reb,0,False,False,HORNETS Rebound,,84-84,84,84
 0022000568,2021-03-11,CHA,DET,41.6,4,6,24,CHA,DET,block,5,True,False,block,block,84-84,84,84
+0022000568,2021-03-11,CHA,DET,41.6,4,6,24,CHA,CHA,reb,0,False,False,HORNETS Rebound,,84-84,84,84
 0022000568,2021-03-11,CHA,DET,41.65,4,6,21,CHA,DET,foul,1,False,False,,Jackson P.FOUL (P1.T3) (J.Goldenberg),84-84,84,84
 0022000568,2021-03-11,CHA,DET,41.75,4,6,15,CHA,DET,foul,1,False,False,,Grant P.FOUL (P2.T4) (T.Brothers),84-84,84,84
 0022000568,2021-03-11,CHA,DET,41.93,4,6,4,CHA,CHA,fg_miss,6,False,False,MISS Monk 4' Driving Layup,,84-84,84,84

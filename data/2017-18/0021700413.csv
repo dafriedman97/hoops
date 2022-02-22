@@ -8,8 +8,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700413,2017-12-14,ATL,DET,0.7,1,11,18,DET,DET,fg3_make,1,False,False,,Bullock 25' 3PT Jump Shot (3 PTS) (Jackson 1 AST),0-3,0,3
 0021700413,2017-12-14,ATL,DET,1.0,1,11,0,ATL,ATL,fg_make,98,False,False,Ilyasova 2' Cutting Layup Shot (2 PTS) (Prince 1 AST),,2-3,2,3
 0021700413,2017-12-14,ATL,DET,1.28,1,10,43,DET,DET,fg_miss,5,True,False,,MISS Jackson 1' Layup,2-3,2,3
-0021700413,2017-12-14,ATL,DET,1.28,1,10,43,DET,DET,reb,0,False,False,,Pistons Rebound,2-3,2,3
 0021700413,2017-12-14,ATL,DET,1.28,1,10,43,DET,ATL,block,5,True,False,block,block,2-3,2,3
+0021700413,2017-12-14,ATL,DET,1.28,1,10,43,DET,DET,reb,0,False,False,,Pistons Rebound,2-3,2,3
 0021700413,2017-12-14,ATL,DET,1.4,1,10,36,DET,DET,fg_miss,5,False,False,,MISS Bullock 3' Layup,2-3,2,3
 0021700413,2017-12-14,ATL,DET,1.55,1,10,27,ATL,ATL,reb,0,False,False,Plumlee REBOUND (Off:0 Def:1),,2-3,2,3
 0021700413,2017-12-14,ATL,DET,1.58,1,10,25,ATL,ATL,fg_miss,63,False,False,MISS Ilyasova 11' Fadeaway Jumper,,2-3,2,3
@@ -19,10 +19,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700413,2017-12-14,ATL,DET,2.35,1,9,39,DET,DET,fg_miss,101,False,False,,MISS Bradley 11' Driving Floating Jump Shot,5-5,5,5
 0021700413,2017-12-14,ATL,DET,2.4,1,9,36,ATL,ATL,reb,0,False,False,Schroder REBOUND (Off:0 Def:1),,5-5,5,5
 0021700413,2017-12-14,ATL,DET,2.45,1,9,33,ATL,DET,foul,27,False,False,,Jackson Personal Block Foul (P1.T1) (J.Sterling),5-5,5,5
-0021700413,2017-12-14,ATL,DET,2.57,1,9,26,ATL,ATL,fg_miss,101,True,False,MISS Bazemore 4' Driving Floating Jump Shot,,5-5,5,5
-0021700413,2017-12-14,ATL,DET,2.57,1,9,26,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:1 Def:2),5-5,5,5
 0021700413,2017-12-14,ATL,DET,2.57,1,9,26,DET,DET,tov,39,False,False,,Drummond Step Out of Bounds Turnover (P1.T1),5-5,5,5
+0021700413,2017-12-14,ATL,DET,2.57,1,9,26,ATL,ATL,fg_miss,101,True,False,MISS Bazemore 4' Driving Floating Jump Shot,,5-5,5,5
 0021700413,2017-12-14,ATL,DET,2.57,1,9,26,ATL,DET,block,101,True,False,block,block,5-5,5,5
+0021700413,2017-12-14,ATL,DET,2.57,1,9,26,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:1 Def:2),5-5,5,5
 0021700413,2017-12-14,ATL,DET,2.65,1,9,21,ATL,ATL,fg3_make,1,False,False,Prince 24' 3PT Jump Shot (3 PTS) (Schroder 1 AST),,8-5,8,5
 0021700413,2017-12-14,ATL,DET,2.93,1,9,4,DET,DET,fg_make,79,False,False,,Bradley 19' Pullup Jump Shot (2 PTS) (Jackson 2 AST),8-7,8,7
 0021700413,2017-12-14,ATL,DET,3.18,1,8,49,ATL,ATL,fg_make,102,False,False,Ilyasova 9' Driving Floating Bank Jump Shot (4 PTS) (Schroder 2 AST),,10-7,10,7
@@ -49,9 +49,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700413,2017-12-14,ATL,DET,6.28,1,5,43,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:3 Def:3),20-13,20,13
 0021700413,2017-12-14,ATL,DET,6.32,1,5,41,DET,DET,fg_make,72,False,False,,Drummond 1' Putback Layup (2 PTS),20-15,20,15
 0021700413,2017-12-14,ATL,DET,6.47,1,5,32,ATL,DET,foul,2,False,False,,Smith S.FOUL (P1.T3) (J.Tiven),20-15,20,15
+0021700413,2017-12-14,ATL,DET,6.47,1,5,32,DET,ATL,ft_make,11,False,False,Schroder Free Throw 1 of 2 (1 PTS),,21-15,21,15
 0021700413,2017-12-14,ATL,DET,6.47,1,5,32,ATL,ATL,ft_miss,12,False,False,MISS Schroder Free Throw 2 of 2,,20-15,20,15
 0021700413,2017-12-14,ATL,DET,6.47,1,5,32,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:3 Def:4),20-15,20,15
-0021700413,2017-12-14,ATL,DET,6.47,1,5,32,DET,ATL,ft_make,11,False,False,Schroder Free Throw 1 of 2 (1 PTS),,21-15,21,15
 0021700413,2017-12-14,ATL,DET,6.67,1,5,20,DET,DET,fg_miss,99,False,False,,MISS Bullock 7' Cutting Finger Roll Layup Shot,21-15,21,15
 0021700413,2017-12-14,ATL,DET,6.67,1,5,20,ATL,ATL,reb,0,False,False,Ilyasova REBOUND (Off:0 Def:1),,21-15,21,15
 0021700413,2017-12-14,ATL,DET,6.82,1,5,11,ATL,DET,foul,1,False,False,,Smith P.FOUL (P2.T4) (J.Sterling),21-15,21,15
@@ -71,8 +71,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700413,2017-12-14,ATL,DET,8.52,1,3,29,ATL,ATL,fg_miss,1,False,False,MISS Collins 17' Jump Shot,,26-19,26,19
 0021700413,2017-12-14,ATL,DET,8.57,1,3,26,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:3 Def:5),26-19,26,19
 0021700413,2017-12-14,ATL,DET,8.68,1,3,19,DET,DET,fg_miss,6,True,False,,MISS Bradley 4' Driving Layup,26-19,26,19
-0021700413,2017-12-14,ATL,DET,8.68,1,3,19,DET,DET,reb,0,False,False,,Pistons Rebound,26-19,26,19
 0021700413,2017-12-14,ATL,DET,8.68,1,3,19,DET,ATL,block,6,True,False,block,block,26-19,26,19
+0021700413,2017-12-14,ATL,DET,8.68,1,3,19,DET,DET,reb,0,False,False,,Pistons Rebound,26-19,26,19
 0021700413,2017-12-14,ATL,DET,8.75,1,3,15,DET,DET,fg3_make,1,False,False,,Harris 25' 3PT Jump Shot (7 PTS) (Bradley 1 AST),26-22,26,22
 0021700413,2017-12-14,ATL,DET,8.92,1,3,5,ATL,ATL,timeout,1,False,False,HAWKS Timeout: Regular (Full 1 Short 0),,26-22,26,22
 0021700413,2017-12-14,ATL,DET,9.02,1,2,59,ATL,ATL,fg_make,1,False,False,Belinelli 21' Jump Shot (2 PTS) (Taylor 1 AST),,28-22,28,22
@@ -153,8 +153,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700413,2017-12-14,ATL,DET,18.82,2,5,11,ATL,ATL,reb,0,False,False,Bazemore REBOUND (Off:1 Def:2),,37-43,37,43
 0021700413,2017-12-14,ATL,DET,18.85,2,5,9,ATL,ATL,fg3_make,80,False,False,Schroder 25' 3PT Step Back Jump Shot (7 PTS) (Bazemore 2 AST),,40-43,40,43
 0021700413,2017-12-14,ATL,DET,19.23,2,4,46,DET,DET,fg_miss,101,True,False,,MISS Jackson 12' Driving Floating Jump Shot,40-43,40,43
-0021700413,2017-12-14,ATL,DET,19.23,2,4,46,DET,DET,reb,0,False,False,,Pistons Rebound,40-43,40,43
 0021700413,2017-12-14,ATL,DET,19.23,2,4,46,DET,ATL,block,101,True,False,block,block,40-43,40,43
+0021700413,2017-12-14,ATL,DET,19.23,2,4,46,DET,DET,reb,0,False,False,,Pistons Rebound,40-43,40,43
 0021700413,2017-12-14,ATL,DET,19.4,2,4,36,DET,DET,fg_make,101,False,False,,Bradley 10' Driving Floating Jump Shot (6 PTS) (Drummond 3 AST),40-45,40,45
 0021700413,2017-12-14,ATL,DET,19.75,2,4,15,ATL,ATL,tov,1,False,True,Schroder Bad Pass Turnover (P2.T7),,40-45,40,45
 0021700413,2017-12-14,ATL,DET,19.75,2,4,15,ATL,DET,steal,1,False,True,steal,steal,40-45,40,45
@@ -403,8 +403,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700413,2017-12-14,ATL,DET,46.43,4,1,34,ATL,ATL,fg_make,79,False,False,Delaney 20' Pullup Jump Shot (6 PTS),,88-103,88,103
 0021700413,2017-12-14,ATL,DET,46.85,4,1,9,DET,DET,fg_miss,101,False,False,,MISS Kennard 12' Driving Floating Jump Shot,88-103,88,103
 0021700413,2017-12-14,ATL,DET,46.9,4,1,6,DET,DET,reb,0,False,False,,Moreland REBOUND (Off:3 Def:7),88-103,88,103
-0021700413,2017-12-14,ATL,DET,47.27,4,0,44,ATL,DET,foul,11,False,False,,Moreland T.FOUL (P1.PN) (T.Brothers),88-105,88,105
 0021700413,2017-12-14,ATL,DET,47.27,4,0,44,DET,DET,fg_make,79,False,False,,Ellenson 15' Pullup Jump Shot (2 PTS),88-105,88,105
+0021700413,2017-12-14,ATL,DET,47.27,4,0,44,ATL,DET,foul,11,False,False,,Moreland T.FOUL (P1.PN) (T.Brothers),88-105,88,105
 0021700413,2017-12-14,ATL,DET,47.27,4,0,44,ATL,ATL,ft_make,16,False,False,Cavanaugh Free Throw Technical (9 PTS),,89-105,89,105
 0021700413,2017-12-14,ATL,DET,47.6,4,0,24,ATL,DET,foul,2,False,False,,Smith S.FOUL (P5.PN) (J.Tiven),88-105,88,105
 0021700413,2017-12-14,ATL,DET,47.6,4,0,24,ATL,ATL,ft_make,11,False,False,Babbitt Free Throw 1 of 2 (6 PTS),,90-105,90,105

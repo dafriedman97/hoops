@@ -36,14 +36,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000890,2021-04-21,POR,DEN,5.47,1,6,32,DEN,POR,foul,4,False,False,McCollum OFF.Foul (P1) (M.Boland),,15-15,15,15
 0022000890,2021-04-21,POR,DEN,5.47,1,6,32,POR,POR,tov,37,False,False,McCollum Offensive Foul Turnover (P1.T1),,15-15,15,15
 0022000890,2021-04-21,POR,DEN,5.87,1,6,8,DEN,DEN,fg_miss,86,False,False,,MISS Gordon 9' Turnaround Fadeaway Shot,15-15,15,15
-0022000890,2021-04-21,POR,DEN,5.9,1,6,6,DEN,DEN,fg_make,72,False,False,,Porter Jr. 1' Putback Layup (11 PTS),15-17,15,17
 0022000890,2021-04-21,POR,DEN,5.9,1,6,6,DEN,DEN,reb,0,False,False,,Porter Jr. REBOUND (Off:1 Def:1),15-17,15,17
+0022000890,2021-04-21,POR,DEN,5.9,1,6,6,DEN,DEN,fg_make,72,False,False,,Porter Jr. 1' Putback Layup (11 PTS),15-17,15,17
 0022000890,2021-04-21,POR,DEN,6.08,1,5,55,POR,POR,fg_miss,1,False,False,MISS Nurkic 20' Jump Shot,,15-17,15,17
 0022000890,2021-04-21,POR,DEN,6.12,1,5,53,DEN,DEN,reb,0,False,False,,Barton REBOUND (Off:0 Def:1),15-17,15,17
 0022000890,2021-04-21,POR,DEN,6.22,1,5,47,DEN,DEN,fg_make,106,False,False,,Porter Jr. Running Alley Oop Dunk Shot (13 PTS) (Barton 1 AST),15-19,15,19
 0022000890,2021-04-21,POR,DEN,6.4,1,5,36,POR,POR,fg_miss,98,True,False,MISS Nurkic 5' Cutting Layup Shot,,15-19,15,19
-0022000890,2021-04-21,POR,DEN,6.4,1,5,36,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:1 Def:1),,15-19,15,19
 0022000890,2021-04-21,POR,DEN,6.4,1,5,36,POR,DEN,block,98,True,False,block,block,15-19,15,19
+0022000890,2021-04-21,POR,DEN,6.4,1,5,36,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:1 Def:1),,15-19,15,19
 0022000890,2021-04-21,POR,DEN,6.45,1,5,33,POR,POR,fg_make,3,False,False,Nurkic 2' Hook Shot (4 PTS),,17-19,17,19
 0022000890,2021-04-21,POR,DEN,6.73,1,5,16,POR,DEN,foul,4,False,False,,Gordon OFF.Foul (P1) (B.Forte),17-19,17,19
 0022000890,2021-04-21,POR,DEN,6.73,1,5,16,DEN,DEN,tov,37,False,False,,Gordon Offensive Foul Turnover (P1.T3),17-19,17,19
@@ -88,10 +88,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000890,2021-04-21,POR,DEN,11.93,1,0,4,DEN,DEN,fg3_miss,79,False,False,,MISS Barton 25' 3PT Pullup Jump Shot,36-35,36,35
 0022000890,2021-04-21,POR,DEN,11.98,1,0,1,DEN,DEN,reb,0,False,False,,Dozier REBOUND (Off:1 Def:0),36-35,36,35
 0022000890,2021-04-21,POR,DEN,12.0,1,0,0,DEN,DEN,fg_miss,86,True,False,,MISS Dozier 20' Turnaround Fadeaway Shot,36-35,36,35
+0022000890,2021-04-21,POR,DEN,12.0,1,0,0,DEN,POR,block,86,True,False,block,block,36-35,36,35
 0022000890,2021-04-21,POR,DEN,12.0,1,0,0,DEN,DEN,reb,0,False,False,,Dozier REBOUND (Off:2 Def:0),36-35,36,35
 0022000890,2021-04-21,POR,DEN,12.0,1,0,0,DEN,,period_end,0,False,False,,,36-35,36,35
 0022000890,2021-04-21,POR,DEN,12.0,2,12,0,DEN,,period_start,0,False,False,,,36-35,36,35
-0022000890,2021-04-21,POR,DEN,12.0,1,0,0,DEN,POR,block,86,True,False,block,block,36-35,36,35
 0022000890,2021-04-21,POR,DEN,12.25,2,11,45,DEN,DEN,fg_make,6,False,False,,Millsap Driving Layup (4 PTS) (Dozier 1 AST),36-37,36,37
 0022000890,2021-04-21,POR,DEN,12.58,2,11,25,POR,POR,fg_make,6,False,False,Kanter 1' Driving Layup (4 PTS),,38-37,38,37
 0022000890,2021-04-21,POR,DEN,12.98,2,11,1,DEN,DEN,fg_miss,98,False,False,,MISS Harrison 2' Cutting Layup Shot,38-37,38,37
@@ -225,8 +225,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000890,2021-04-21,POR,DEN,29.1,3,6,54,POR,POR,fg3_make,103,False,False,Lillard 29' 3PT Running Pull-Up Jump Shot (16 PTS),,71-65,71,65
 0022000890,2021-04-21,POR,DEN,29.13,3,6,52,DEN,DEN,timeout,1,False,False,,Nuggets Timeout: Regular (Reg.4 Short 0),71-65,71,65
 0022000890,2021-04-21,POR,DEN,29.47,3,6,32,DEN,DEN,fg_miss,6,False,False,,MISS Jokic 1' Driving Layup,71-65,71,65
-0022000890,2021-04-21,POR,DEN,29.52,3,6,29,DEN,DEN,fg_miss,97,False,False,,MISS Jokic Tip Layup Shot,71-65,71,65
 0022000890,2021-04-21,POR,DEN,29.52,3,6,29,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:3 Def:2),71-65,71,65
+0022000890,2021-04-21,POR,DEN,29.52,3,6,29,DEN,DEN,fg_miss,97,False,False,,MISS Jokic Tip Layup Shot,71-65,71,65
 0022000890,2021-04-21,POR,DEN,29.53,3,6,28,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:2 Def:2),71-65,71,65
 0022000890,2021-04-21,POR,DEN,29.53,3,6,28,DEN,DEN,fg_make,97,False,False,,Jokic Tip Layup Shot (17 PTS),71-67,71,67
 0022000890,2021-04-21,POR,DEN,29.85,3,6,9,POR,POR,fg3_miss,80,False,False,MISS Lillard 25' 3PT Step Back Jump Shot,,71-67,71,67
@@ -234,10 +234,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000890,2021-04-21,POR,DEN,30.03,3,5,58,DEN,DEN,fg3_miss,1,False,False,,MISS Porter Jr. 3PT Jump Shot,71-67,71,67
 0022000890,2021-04-21,POR,DEN,30.08,3,5,55,POR,POR,reb,0,False,False,Covington REBOUND (Off:1 Def:4),,71-67,71,67
 0022000890,2021-04-21,POR,DEN,30.23,3,5,46,POR,POR,fg_make,98,False,False,Nurkic 3' Cutting Layup Shot (6 PTS) (McCollum 4 AST),,73-67,73,67
-0022000890,2021-04-21,POR,DEN,30.6,3,5,24,POR,DEN,foul,14,False,False,,Porter Jr. FLAGRANT.FOUL.TYPE1 (P3.T3) (B.Forte),73-67,73,67
-0022000890,2021-04-21,POR,DEN,30.6,3,5,24,DEN,DEN,tov,0,False,False,,Porter Jr. No Turnover (P1.T10),73-67,73,67
 0022000890,2021-04-21,POR,DEN,30.6,3,5,24,DEN,POR,ft_make,18,False,False,Powell Free Throw Flagrant 1 of 2 (14 PTS),,74-67,74,67
 0022000890,2021-04-21,POR,DEN,30.6,3,5,24,DEN,POR,ft_make,19,False,False,Powell Free Throw Flagrant 2 of 2 (15 PTS),,75-67,75,67
+0022000890,2021-04-21,POR,DEN,30.6,3,5,24,POR,DEN,foul,14,False,False,,Porter Jr. FLAGRANT.FOUL.TYPE1 (P3.T3) (B.Forte),73-67,73,67
+0022000890,2021-04-21,POR,DEN,30.6,3,5,24,DEN,DEN,tov,0,False,False,,Porter Jr. No Turnover (P1.T10),73-67,73,67
 0022000890,2021-04-21,POR,DEN,30.85,3,5,9,POR,POR,fg_make,86,False,False,McCollum 16' Turnaround Fadeaway (12 PTS),,77-67,77,67
 0022000890,2021-04-21,POR,DEN,31.1,3,4,54,DEN,DEN,fg_make,6,False,False,,Barton 2' Driving Layup (7 PTS),77-69,77,69
 0022000890,2021-04-21,POR,DEN,31.1,3,4,54,DEN,POR,foul,2,False,False,Kanter S.FOUL (P2.T1) (N.Buchert),,77-69,77,69
@@ -314,8 +314,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000890,2021-04-21,POR,DEN,39.67,4,8,20,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,91-89,91,89
 0022000890,2021-04-21,POR,DEN,39.67,4,8,20,POR,DEN,foul,3,False,False,,Green L.B.FOUL (P2.T2) (N.Buchert),91-89,91,89
 0022000890,2021-04-21,POR,DEN,39.82,4,8,11,POR,POR,fg3_miss,1,True,False,MISS Little 25' 3PT Jump Shot,,91-89,91,89
-0022000890,2021-04-21,POR,DEN,39.82,4,8,11,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,91-89,91,89
 0022000890,2021-04-21,POR,DEN,39.82,4,8,11,POR,DEN,block,1,True,False,block,block,91-89,91,89
+0022000890,2021-04-21,POR,DEN,39.82,4,8,11,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,91-89,91,89
 0022000890,2021-04-21,POR,DEN,39.9,4,8,6,POR,POR,fg_miss,79,False,False,MISS McCollum 17' Pullup Jump Shot,,91-89,91,89
 0022000890,2021-04-21,POR,DEN,39.95,4,8,3,DEN,DEN,reb,0,False,False,,Dozier REBOUND (Off:2 Def:3),91-89,91,89
 0022000890,2021-04-21,POR,DEN,40.08,4,7,55,DEN,DEN,fg_miss,6,False,False,,MISS Dozier 1' Driving Layup,91-89,91,89

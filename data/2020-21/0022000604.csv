@@ -29,8 +29,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000604,2021-03-15,BKN,NYK,3.87,1,8,8,NYK,BKN,block,5,True,False,block,block,11-13,11,13
 0022000604,2021-03-15,BKN,NYK,3.88,1,8,7,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:1 Def:0),11-13,11,13
 0022000604,2021-03-15,BKN,NYK,3.88,1,8,7,NYK,NYK,fg_miss,72,True,False,,MISS Randle 1' Putback Layup,11-13,11,13
-0022000604,2021-03-15,BKN,NYK,3.88,1,8,7,NYK,NYK,reb,0,False,False,,Knicks Rebound,11-13,11,13
 0022000604,2021-03-15,BKN,NYK,3.88,1,8,7,NYK,BKN,block,72,True,False,block,block,11-13,11,13
+0022000604,2021-03-15,BKN,NYK,3.88,1,8,7,NYK,NYK,reb,0,False,False,,Knicks Rebound,11-13,11,13
 0022000604,2021-03-15,BKN,NYK,3.93,1,8,4,,BKN,jump_ball,0,False,False,Jump Ball Jordan vs. Randle: Tip to Bullock,,11-13,11,13
 0022000604,2021-03-15,BKN,NYK,3.97,1,8,2,NYK,NYK,fg3_miss,1,False,False,,MISS Quickley 26' 3PT Jump Shot,11-13,11,13
 0022000604,2021-03-15,BKN,NYK,4.03,1,7,58,BKN,BKN,reb,0,False,False,Harden REBOUND (Off:0 Def:1),,11-13,11,13
@@ -52,8 +52,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000604,2021-03-15,BKN,NYK,5.78,1,6,13,NYK,NYK,fg_miss,79,False,False,,MISS Barrett 15' Pullup Jump Shot,14-18,14,18
 0022000604,2021-03-15,BKN,NYK,5.82,1,6,11,BKN,BKN,reb,0,False,False,Harden REBOUND (Off:0 Def:2),,14-18,14,18
 0022000604,2021-03-15,BKN,NYK,6.07,1,5,56,BKN,BKN,fg_miss,5,True,False,MISS Green 1' Layup,,14-18,14,18
-0022000604,2021-03-15,BKN,NYK,6.07,1,5,56,BKN,BKN,reb,0,False,False,NETS Rebound,,14-18,14,18
 0022000604,2021-03-15,BKN,NYK,6.07,1,5,56,BKN,NYK,block,5,True,False,block,block,14-18,14,18
+0022000604,2021-03-15,BKN,NYK,6.07,1,5,56,BKN,BKN,reb,0,False,False,NETS Rebound,,14-18,14,18
 0022000604,2021-03-15,BKN,NYK,6.13,1,5,52,BKN,BKN,fg_make,44,False,False,Irving Reverse Layup (8 PTS) (Harris 2 AST),,16-18,16,18
 0022000604,2021-03-15,BKN,NYK,6.48,1,5,31,NYK,NYK,fg_miss,78,False,False,,MISS Barrett 12' Floating Jump Shot,16-18,16,18
 0022000604,2021-03-15,BKN,NYK,6.52,1,5,29,BKN,BKN,reb,0,False,False,Harden REBOUND (Off:0 Def:3),,16-18,16,18
@@ -96,9 +96,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000604,2021-03-15,BKN,NYK,11.88,1,0,7,BKN,BKN,fg3_make,1,False,False,Green 26' 3PT Jump Shot (14 PTS) (Harden 5 AST),,35-28,35,28
 0022000604,2021-03-15,BKN,NYK,12.0,1,0,0,NYK,NYK,fg_make,6,False,False,,Quickley 4' Driving Layup (7 PTS),35-30,35,30
 0022000604,2021-03-15,BKN,NYK,12.0,1,0,0,BKN,BKN,tov,1,False,True,Harden Bad Pass Turnover (P2.T2),,35-30,35,30
+0022000604,2021-03-15,BKN,NYK,12.0,1,0,0,BKN,NYK,steal,1,False,True,steal,steal,35-30,35,30
 0022000604,2021-03-15,BKN,NYK,12.0,1,0,0,BKN,,period_end,0,False,False,,,35-30,35,30
 0022000604,2021-03-15,BKN,NYK,12.0,2,12,0,BKN,,period_start,0,False,False,,,35-30,35,30
-0022000604,2021-03-15,BKN,NYK,12.0,1,0,0,BKN,NYK,steal,1,False,True,steal,steal,35-30,35,30
 0022000604,2021-03-15,BKN,NYK,12.25,2,11,45,BKN,BKN,fg_make,52,False,False,Claxton 3' Alley Oop Dunk (4 PTS) (Harden 6 AST),,37-30,37,30
 0022000604,2021-03-15,BKN,NYK,12.62,2,11,23,NYK,NYK,fg3_miss,79,False,False,,MISS Burks 25' 3PT Pullup Jump Shot,37-30,37,30
 0022000604,2021-03-15,BKN,NYK,12.68,2,11,19,BKN,BKN,reb,0,False,False,Harden REBOUND (Off:0 Def:5),,37-30,37,30
@@ -196,8 +196,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000604,2021-03-15,BKN,NYK,22.4,2,1,36,NYK,NYK,fg_miss,5,False,False,,MISS Randle 5' Layup,67-49,67,49
 0022000604,2021-03-15,BKN,NYK,22.43,2,1,34,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:3 Def:0),67-49,67,49
 0022000604,2021-03-15,BKN,NYK,22.45,2,1,33,NYK,NYK,fg_miss,72,True,False,,MISS Randle 2' Putback Layup,67-49,67,49
-0022000604,2021-03-15,BKN,NYK,22.45,2,1,33,BKN,BKN,reb,0,False,False,Green REBOUND (Off:0 Def:3),,67-49,67,49
 0022000604,2021-03-15,BKN,NYK,22.45,2,1,33,NYK,BKN,block,72,True,False,block,block,67-49,67,49
+0022000604,2021-03-15,BKN,NYK,22.45,2,1,33,BKN,BKN,reb,0,False,False,Green REBOUND (Off:0 Def:3),,67-49,67,49
 0022000604,2021-03-15,BKN,NYK,22.57,2,1,26,BKN,BKN,fg3_miss,80,False,False,MISS Harden 26' 3PT Step Back Jump Shot,,67-49,67,49
 0022000604,2021-03-15,BKN,NYK,22.62,2,1,23,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:3 Def:1),67-49,67,49
 0022000604,2021-03-15,BKN,NYK,22.78,2,1,13,NYK,BKN,foul,2,False,False,Harden S.FOUL (P1.PN) (M.Myers),,67-49,67,49
@@ -249,8 +249,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000604,2021-03-15,BKN,NYK,28.47,3,7,32,NYK,NYK,fg_make,87,False,False,,Randle 1' Putback Dunk (16 PTS),79-66,79,66
 0022000604,2021-03-15,BKN,NYK,28.5,3,7,30,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 2 Short 0),,79-66,79,66
 0022000604,2021-03-15,BKN,NYK,28.68,3,7,19,BKN,BKN,fg3_miss,1,True,False,MISS Harris 25' 3PT Jump Shot,,79-66,79,66
-0022000604,2021-03-15,BKN,NYK,28.68,3,7,19,BKN,BKN,reb,0,False,False,NETS Rebound,,79-66,79,66
 0022000604,2021-03-15,BKN,NYK,28.68,3,7,19,BKN,NYK,block,1,True,False,block,block,79-66,79,66
+0022000604,2021-03-15,BKN,NYK,28.68,3,7,19,BKN,BKN,reb,0,False,False,NETS Rebound,,79-66,79,66
 0022000604,2021-03-15,BKN,NYK,28.78,3,7,13,BKN,BKN,fg_make,98,False,False,Brown 1' Cutting Layup Shot (6 PTS) (Harden 14 AST),,81-66,81,66
 0022000604,2021-03-15,BKN,NYK,29.07,3,6,56,NYK,NYK,fg_make,1,False,False,,Bullock 18' Jump Shot (19 PTS) (Noel 2 AST),81-68,81,68
 0022000604,2021-03-15,BKN,NYK,29.32,3,6,41,BKN,BKN,fg_miss,79,False,False,MISS Irving 18' Pullup Jump Shot,,81-68,81,68
@@ -361,8 +361,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000604,2021-03-15,BKN,NYK,41.77,4,6,14,BKN,BKN,fg_miss,86,False,False,MISS Irving 11' Turnaround Fadeaway Shot,,107-98,107,98
 0022000604,2021-03-15,BKN,NYK,41.82,4,6,11,NYK,NYK,reb,0,False,False,,Barrett REBOUND (Off:0 Def:4),107-98,107,98
 0022000604,2021-03-15,BKN,NYK,41.87,4,6,8,NYK,NYK,tov,2,False,True,,Barrett Lost Ball Turnover (P1.T8),107-98,107,98
-0022000604,2021-03-15,BKN,NYK,41.87,4,6,8,BKN,NYK,foul,3,False,False,,Barrett L.B.FOUL (P2.T3) (B.Barnaky),107-98,107,98
 0022000604,2021-03-15,BKN,NYK,41.87,4,6,8,NYK,BKN,steal,2,False,True,steal,steal,107-98,107,98
+0022000604,2021-03-15,BKN,NYK,41.87,4,6,8,BKN,NYK,foul,3,False,False,,Barrett L.B.FOUL (P2.T3) (B.Barnaky),107-98,107,98
 0022000604,2021-03-15,BKN,NYK,42.22,4,5,47,BKN,BKN,fg3_miss,80,False,False,MISS Harden 25' 3PT Step Back Jump Shot,,107-98,107,98
 0022000604,2021-03-15,BKN,NYK,42.3,4,5,42,NYK,NYK,reb,0,False,False,,Barrett REBOUND (Off:0 Def:5),107-98,107,98
 0022000604,2021-03-15,BKN,NYK,42.38,4,5,37,NYK,NYK,fg3_make,1,False,False,,Burks 26' 3PT Jump Shot (12 PTS) (Ntilikina 1 AST),107-101,107,101

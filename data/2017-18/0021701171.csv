@@ -16,8 +16,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701171,2018-04-04,TOR,BOS,1.73,1,10,16,BOS,BOS,fg_make,6,False,False,,Rozier 5' Driving Layup (2 PTS) (Tatum 1 AST),2-2,2,2
 0021701171,2018-04-04,TOR,BOS,2.18,1,9,49,TOR,TOR,tov,11,False,False,RAPTORS Turnover: Shot Clock (T#1),,2-2,2,2
 0021701171,2018-04-04,TOR,BOS,2.48,1,9,31,BOS,BOS,fg_miss,58,True,False,,MISS Baynes 2' Turnaround Hook Shot,2-2,2,2
-0021701171,2018-04-04,TOR,BOS,2.48,1,9,31,BOS,BOS,reb,0,False,False,,Celtics Rebound,2-2,2,2
 0021701171,2018-04-04,TOR,BOS,2.48,1,9,31,BOS,TOR,block,58,True,False,block,block,2-2,2,2
+0021701171,2018-04-04,TOR,BOS,2.48,1,9,31,BOS,BOS,reb,0,False,False,,Celtics Rebound,2-2,2,2
 0021701171,2018-04-04,TOR,BOS,2.57,1,9,26,BOS,BOS,fg_miss,79,False,False,,MISS Tatum 18' Pullup Jump Shot,2-2,2,2
 0021701171,2018-04-04,TOR,BOS,2.62,1,9,23,TOR,TOR,reb,0,False,False,Ibaka REBOUND (Off:0 Def:1),,2-2,2,2
 0021701171,2018-04-04,TOR,BOS,2.78,1,9,13,TOR,TOR,fg_miss,1,False,False,MISS Valanciunas 14' Jump Shot,,2-2,2,2
@@ -282,8 +282,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701171,2018-04-04,TOR,BOS,31.93,3,4,4,TOR,TOR,reb,0,False,False,Powell REBOUND (Off:0 Def:4),,55-45,55,45
 0021701171,2018-04-04,TOR,BOS,32.08,3,3,55,TOR,TOR,fg_make,98,False,False,Poeltl 3' Cutting Layup Shot (5 PTS) (Lowry 5 AST),,57-45,57,45
 0021701171,2018-04-04,TOR,BOS,32.3,3,3,42,BOS,BOS,fg_miss,6,False,False,,MISS Rozier 2' Driving Layup,57-45,57,45
-0021701171,2018-04-04,TOR,BOS,32.3,3,3,42,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,57-45,57,45
 0021701171,2018-04-04,TOR,BOS,32.3,3,3,42,TOR,,violation,1,False,False,,,57-45,57,45
+0021701171,2018-04-04,TOR,BOS,32.3,3,3,42,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,57-45,57,45
 0021701171,2018-04-04,TOR,BOS,32.32,3,3,41,TOR,BOS,foul,3,False,False,,Morris Sr. L.B.FOUL (P1.T2) (D.Taylor),57-45,57,45
 0021701171,2018-04-04,TOR,BOS,32.48,3,3,31,TOR,TOR,fg3_make,1,False,False,Lowry 28' 3PT Jump Shot (10 PTS) (DeRozan 1 AST),,60-45,60,45
 0021701171,2018-04-04,TOR,BOS,32.78,3,3,13,BOS,TOR,foul,2,False,False,Powell S.FOUL (P1.PN) (B.Forte),,60-45,60,45
@@ -369,8 +369,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701171,2018-04-04,TOR,BOS,41.95,4,6,3,TOR,TOR,fg3_miss,79,False,False,MISS VanVleet 26' 3PT Pullup Jump Shot,,81-68,81,68
 0021701171,2018-04-04,TOR,BOS,41.97,4,6,2,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:0 Def:2),81-68,81,68
 0021701171,2018-04-04,TOR,BOS,42.08,4,5,55,BOS,BOS,fg_miss,6,True,False,,MISS Brown 2' Driving Layup,81-68,81,68
-0021701171,2018-04-04,TOR,BOS,42.08,4,5,55,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,81-68,81,68
 0021701171,2018-04-04,TOR,BOS,42.08,4,5,55,BOS,TOR,block,6,True,False,block,block,81-68,81,68
+0021701171,2018-04-04,TOR,BOS,42.08,4,5,55,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,81-68,81,68
 0021701171,2018-04-04,TOR,BOS,42.13,4,5,52,,TOR,jump_ball,0,False,False,Jump Ball Wright vs. Brown: Tip to Lowry,,81-68,81,68
 0021701171,2018-04-04,TOR,BOS,42.18,4,5,49,TOR,TOR,fg_make,41,False,False,Lowry 1' Running Layup (13 PTS),,83-68,83,68
 0021701171,2018-04-04,TOR,BOS,42.48,4,5,31,BOS,BOS,fg_make,93,False,False,,Horford 11' Driving Bank Hook Shot (16 PTS),83-70,83,70
@@ -385,9 +385,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701171,2018-04-04,TOR,BOS,44.27,4,3,44,BOS,BOS,fg3_miss,1,False,False,,MISS Horford 25' 3PT Jump Shot,89-73,89,73
 0021701171,2018-04-04,TOR,BOS,44.3,4,3,42,TOR,TOR,reb,0,False,False,Wright REBOUND (Off:2 Def:6),,89-73,89,73
 0021701171,2018-04-04,TOR,BOS,44.42,4,3,35,TOR,TOR,fg_miss,101,True,False,MISS Ibaka 8' Driving Floating Jump Shot,,89-73,89,73
+0021701171,2018-04-04,TOR,BOS,44.42,4,3,35,TOR,BOS,block,101,True,False,block,block,89-73,89,73
 0021701171,2018-04-04,TOR,BOS,44.42,4,3,35,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,89-73,89,73
 0021701171,2018-04-04,TOR,BOS,44.42,4,3,35,TOR,TOR,timeout,1,False,False,RAPTORS Timeout: Regular (Full 5 Short 0),,89-73,89,73
-0021701171,2018-04-04,TOR,BOS,44.42,4,3,35,TOR,BOS,block,101,True,False,block,block,89-73,89,73
 0021701171,2018-04-04,TOR,BOS,44.52,4,3,29,TOR,TOR,tov,1,False,True,Lowry Bad Pass Turnover (P3.T10),,89-73,89,73
 0021701171,2018-04-04,TOR,BOS,44.52,4,3,29,TOR,BOS,steal,1,False,True,steal,steal,89-73,89,73
 0021701171,2018-04-04,TOR,BOS,44.57,4,3,26,BOS,BOS,fg_make,9,False,False,,Morris Sr. 1' Driving Dunk (21 PTS),89-75,89,75

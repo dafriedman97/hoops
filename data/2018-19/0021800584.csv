@@ -44,9 +44,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800584,2019-01-06,CHI,BKN,4.7,1,7,18,BKN,BKN,fg_miss,3,False,False,,MISS Allen 6' Hook Shot,4-8,4,8
 0021800584,2019-01-06,CHI,BKN,4.73,1,7,16,CHI,CHI,reb,0,False,False,Hutchison REBOUND (Off:1 Def:2),,4-8,4,8
 0021800584,2019-01-06,CHI,BKN,4.83,1,7,10,CHI,CHI,fg_miss,6,True,False,MISS Hutchison 2' Driving Layup,,4-8,4,8
+0021800584,2019-01-06,CHI,BKN,4.83,1,7,10,CHI,BKN,block,6,True,False,block,block,4-8,4,8
 0021800584,2019-01-06,CHI,BKN,4.83,1,7,10,CHI,CHI,reb,0,False,False,BULLS Rebound,,4-8,4,8
 0021800584,2019-01-06,CHI,BKN,4.83,1,7,10,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 1 Short 0),,4-8,4,8
-0021800584,2019-01-06,CHI,BKN,4.83,1,7,10,CHI,BKN,block,6,True,False,block,block,4-8,4,8
 0021800584,2019-01-06,CHI,BKN,5.1,1,6,54,CHI,CHI,tov,11,False,False,BULLS Turnover: Shot Clock (T#4),,4-8,4,8
 0021800584,2019-01-06,CHI,BKN,5.25,1,6,45,BKN,BKN,fg3_miss,1,False,False,,MISS Russell 25' 3PT Jump Shot,4-8,4,8
 0021800584,2019-01-06,CHI,BKN,5.27,1,6,44,CHI,CHI,reb,0,False,False,BULLS Rebound,,4-8,4,8
@@ -77,8 +77,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800584,2019-01-06,CHI,BKN,8.77,1,3,14,CHI,CHI,reb,0,False,False,Lopez REBOUND (Off:0 Def:1),,12-17,12,17
 0021800584,2019-01-06,CHI,BKN,8.97,1,3,2,CHI,BKN,foul,1,False,False,,Harris P.FOUL (P1.T3) (J.Phillips),12-17,12,17
 0021800584,2019-01-06,CHI,BKN,9.17,1,2,50,CHI,CHI,fg_miss,6,False,False,MISS Portis 3' Driving Layup,,12-17,12,17
-0021800584,2019-01-06,CHI,BKN,9.17,1,2,50,CHI,CHI,reb,0,False,False,Portis REBOUND (Off:1 Def:0),,12-17,12,17
 0021800584,2019-01-06,CHI,BKN,9.17,1,2,50,CHI,BKN,foul,2,False,False,,Davis S.FOUL (P1.T4) (K.Scott),12-17,12,17
+0021800584,2019-01-06,CHI,BKN,9.17,1,2,50,CHI,CHI,reb,0,False,False,Portis REBOUND (Off:1 Def:0),,12-17,12,17
 0021800584,2019-01-06,CHI,BKN,9.17,1,2,50,BKN,BKN,timeout,1,False,False,,Nets Timeout: Regular (Reg.1 Short 0),12-17,12,17
 0021800584,2019-01-06,CHI,BKN,9.17,1,2,50,BKN,CHI,ft_make,11,False,False,Portis Free Throw 1 of 2 (1 PTS),,13-17,13,17
 0021800584,2019-01-06,CHI,BKN,9.17,1,2,50,CHI,CHI,ft_miss,12,False,False,MISS Portis Free Throw 2 of 2,,13-17,13,17
@@ -113,8 +113,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800584,2019-01-06,CHI,BKN,12.77,2,11,14,CHI,CHI,fg_miss,6,False,False,MISS Arcidiacono 3' Driving Layup,,22-31,22,31
 0021800584,2019-01-06,CHI,BKN,12.82,2,11,11,BKN,BKN,reb,0,False,False,,Russell REBOUND (Off:0 Def:1),22-31,22,31
 0021800584,2019-01-06,CHI,BKN,12.87,2,11,8,BKN,BKN,fg_miss,41,True,False,,MISS Russell 1' Running Layup,22-31,22,31
-0021800584,2019-01-06,CHI,BKN,12.87,2,11,8,BKN,BKN,reb,0,False,False,,Nets Rebound,22-31,22,31
 0021800584,2019-01-06,CHI,BKN,12.87,2,11,8,BKN,CHI,block,41,True,False,block,block,22-31,22,31
+0021800584,2019-01-06,CHI,BKN,12.87,2,11,8,BKN,BKN,reb,0,False,False,,Nets Rebound,22-31,22,31
 0021800584,2019-01-06,CHI,BKN,12.97,2,11,2,BKN,BKN,fg3_make,1,False,False,,Russell 25' 3PT Jump Shot (8 PTS) (Davis 1 AST),22-34,22,34
 0021800584,2019-01-06,CHI,BKN,13.3,2,10,42,CHI,CHI,fg3_make,1,False,False,Portis 27' 3PT Jump Shot (10 PTS) (Arcidiacono 1 AST),,25-34,25,34
 0021800584,2019-01-06,CHI,BKN,13.7,2,10,18,BKN,BKN,fg3_miss,1,False,False,,MISS Napier 24' 3PT Jump Shot,25-34,25,34
@@ -134,8 +134,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800584,2019-01-06,CHI,BKN,15.45,2,8,33,BKN,BKN,fg3_miss,1,False,False,,MISS Graham 26' 3PT Jump Shot,29-36,29,36
 0021800584,2019-01-06,CHI,BKN,15.48,2,8,31,CHI,CHI,reb,0,False,False,Markkanen REBOUND (Off:0 Def:4),,29-36,29,36
 0021800584,2019-01-06,CHI,BKN,15.55,2,8,27,CHI,CHI,fg_miss,6,True,False,MISS Harrison 2' Driving Layup,,29-36,29,36
-0021800584,2019-01-06,CHI,BKN,15.55,2,8,27,CHI,CHI,reb,0,False,False,BULLS Rebound,,29-36,29,36
 0021800584,2019-01-06,CHI,BKN,15.55,2,8,27,CHI,BKN,block,6,True,False,block,block,29-36,29,36
+0021800584,2019-01-06,CHI,BKN,15.55,2,8,27,CHI,CHI,reb,0,False,False,BULLS Rebound,,29-36,29,36
 0021800584,2019-01-06,CHI,BKN,15.67,2,8,20,CHI,CHI,fg_miss,1,False,False,MISS Blakeney 17' Jump Shot,,29-36,29,36
 0021800584,2019-01-06,CHI,BKN,15.7,2,8,18,BKN,BKN,reb,0,False,False,,Carroll REBOUND (Off:0 Def:1),29-36,29,36
 0021800584,2019-01-06,CHI,BKN,15.73,2,8,16,BKN,BKN,tov,39,False,False,,Dinwiddie Step Out of Bounds Turnover (P1.T3),29-36,29,36
@@ -243,13 +243,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800584,2019-01-06,CHI,BKN,28.12,3,7,53,CHI,CHI,fg_make,6,False,False,LaVine 2' Driving Layup (21 PTS),,63-69,63,69
 0021800584,2019-01-06,CHI,BKN,28.5,3,7,30,BKN,BKN,fg_make,75,False,False,,Dinwiddie 4' Driving Finger Roll Layup (7 PTS),63-71,63,71
 0021800584,2019-01-06,CHI,BKN,28.87,3,7,8,CHI,CHI,fg_miss,99,True,False,MISS Hutchison 4' Cutting Finger Roll Layup Shot,,63-71,63,71
-0021800584,2019-01-06,CHI,BKN,28.87,3,7,8,CHI,CHI,reb,0,False,False,BULLS Rebound,,63-71,63,71
 0021800584,2019-01-06,CHI,BKN,28.87,3,7,8,CHI,BKN,block,99,True,False,block,block,63-71,63,71
+0021800584,2019-01-06,CHI,BKN,28.87,3,7,8,CHI,CHI,reb,0,False,False,BULLS Rebound,,63-71,63,71
 0021800584,2019-01-06,CHI,BKN,28.98,3,7,1,CHI,CHI,fg_make,6,False,False,Hutchison 2' Driving Layup (4 PTS) (Carter Jr. 1 AST),,65-71,65,71
 0021800584,2019-01-06,CHI,BKN,29.22,3,6,47,BKN,BKN,fg_miss,79,True,False,,MISS Dinwiddie 8' Pullup Jump Shot,65-71,65,71
+0021800584,2019-01-06,CHI,BKN,29.22,3,6,47,BKN,CHI,block,79,True,False,block,block,65-71,65,71
 0021800584,2019-01-06,CHI,BKN,29.22,3,6,47,CHI,CHI,reb,0,False,False,Dunn REBOUND (Off:0 Def:2),,65-71,65,71
 0021800584,2019-01-06,CHI,BKN,29.22,3,6,47,CHI,BKN,foul,28,False,False,,Russell Personal Take Foul (P1.T4) (K.Scott),65-71,65,71
-0021800584,2019-01-06,CHI,BKN,29.22,3,6,47,BKN,CHI,block,79,True,False,block,block,65-71,65,71
 0021800584,2019-01-06,CHI,BKN,29.4,3,6,36,CHI,CHI,fg_make,6,False,False,Dunn 2' Driving Layup (8 PTS),,67-71,67,71
 0021800584,2019-01-06,CHI,BKN,29.52,3,6,29,BKN,CHI,foul,2,False,False,Carter Jr. S.FOUL (P4.T2) (N.Green),,67-71,67,71
 0021800584,2019-01-06,CHI,BKN,29.52,3,6,29,BKN,BKN,ft_make,11,False,False,,Allen Free Throw 1 of 2 (16 PTS),67-72,67,72

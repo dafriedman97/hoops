@@ -55,8 +55,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700079,2017-10-28,CHI,OKC,7.55,1,4,27,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.1 Short 0),13-20,13,20
 0021700079,2017-10-28,CHI,OKC,7.57,1,4,26,CHI,CHI,fg3_make,1,False,False,Holiday 25' 3PT Jump Shot (3 PTS) (Markkanen 1 AST),,16-20,16,20
 0021700079,2017-10-28,CHI,OKC,7.75,1,4,15,OKC,OKC,fg_miss,6,True,False,,MISS Westbrook 3' Driving Layup,16-20,16,20
-0021700079,2017-10-28,CHI,OKC,7.75,1,4,15,OKC,OKC,reb,0,False,False,,Thunder Rebound,16-20,16,20
 0021700079,2017-10-28,CHI,OKC,7.75,1,4,15,OKC,CHI,block,6,True,False,block,block,16-20,16,20
+0021700079,2017-10-28,CHI,OKC,7.75,1,4,15,OKC,OKC,reb,0,False,False,,Thunder Rebound,16-20,16,20
 0021700079,2017-10-28,CHI,OKC,7.9,1,4,6,OKC,OKC,fg_miss,98,True,False,,MISS Adams 3' Cutting Layup Shot,16-20,16,20
 0021700079,2017-10-28,CHI,OKC,7.9,1,4,6,OKC,CHI,block,98,True,False,block,block,16-20,16,20
 0021700079,2017-10-28,CHI,OKC,8.02,1,3,59,CHI,CHI,reb,0,False,False,Lopez REBOUND (Off:0 Def:2),,16-20,16,20
@@ -297,9 +297,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700079,2017-10-28,CHI,OKC,34.1,3,1,54,CHI,OKC,block,5,True,False,block,block,45-74,45,74
 0021700079,2017-10-28,CHI,OKC,34.13,3,1,52,CHI,CHI,reb,0,False,False,Markkanen REBOUND (Off:2 Def:4),,45-74,45,74
 0021700079,2017-10-28,CHI,OKC,34.13,3,1,52,CHI,CHI,fg_miss,5,True,False,MISS Markkanen 2' Layup,,45-74,45,74
+0021700079,2017-10-28,CHI,OKC,34.13,3,1,52,CHI,OKC,block,5,True,False,block,block,45-74,45,74
 0021700079,2017-10-28,CHI,OKC,34.13,3,1,52,CHI,CHI,reb,0,False,False,Markkanen REBOUND (Off:3 Def:4),,45-74,45,74
 0021700079,2017-10-28,CHI,OKC,34.13,3,1,52,CHI,OKC,foul,2,False,False,,Grant S.FOUL (P2.PN) (M.Boland),45-74,45,74
-0021700079,2017-10-28,CHI,OKC,34.13,3,1,52,CHI,OKC,block,5,True,False,block,block,45-74,45,74
 0021700079,2017-10-28,CHI,OKC,34.13,3,1,52,CHI,CHI,ft_make,11,False,False,Markkanen Free Throw 1 of 2 (12 PTS),,46-74,46,74
 0021700079,2017-10-28,CHI,OKC,34.13,3,1,52,CHI,CHI,ft_make,12,False,False,Markkanen Free Throw 2 of 2 (13 PTS),,47-74,47,74
 0021700079,2017-10-28,CHI,OKC,34.37,3,1,38,OKC,OKC,tov,1,False,True,,Patterson Bad Pass Turnover (P1.T9),47-74,47,74
@@ -312,8 +312,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700079,2017-10-28,CHI,OKC,34.8,3,1,12,CHI,CHI,ft_make,12,False,False,Markkanen Free Throw 2 of 2 (15 PTS),,51-74,51,74
 0021700079,2017-10-28,CHI,OKC,35.02,3,0,59,OKC,CHI,foul,1,False,False,Valentine P.FOUL (P2.T2) (D.Guthrie),,51-74,51,74
 0021700079,2017-10-28,CHI,OKC,35.05,3,0,57,OKC,CHI,foul,1,False,False,Dunn P.FOUL (P4.PN) (J.Goble),,51-74,51,74
-0021700079,2017-10-28,CHI,OKC,35.05,3,0,57,OKC,OKC,ft_make,12,False,False,,Felton Free Throw 2 of 2 (8 PTS),51-75,51,75
 0021700079,2017-10-28,CHI,OKC,35.05,3,0,57,OKC,OKC,ft_make,11,False,False,,Felton Free Throw 1 of 2 (9 PTS),51-76,51,76
+0021700079,2017-10-28,CHI,OKC,35.05,3,0,57,OKC,OKC,ft_make,12,False,False,,Felton Free Throw 2 of 2 (8 PTS),51-75,51,75
 0021700079,2017-10-28,CHI,OKC,35.25,3,0,45,CHI,CHI,fg_make,6,False,False,Dunn 2' Driving Layup (6 PTS),,53-76,53,76
 0021700079,2017-10-28,CHI,OKC,35.4,3,0,36,OKC,OKC,fg3_make,1,False,False,,Anthony 26' 3PT Jump Shot (18 PTS) (Grant 1 AST),53-79,53,79
 0021700079,2017-10-28,CHI,OKC,35.55,3,0,27,CHI,CHI,fg3_miss,1,False,False,MISS Holiday 25' 3PT Jump Shot,,53-79,53,79
@@ -374,8 +374,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700079,2017-10-28,CHI,OKC,40.6,4,7,24,CHI,CHI,reb,1,False,False,BULLS Rebound,,61-86,61,86
 0021700079,2017-10-28,CHI,OKC,40.6,4,7,24,CHI,CHI,ft_make,12,False,False,Nwaba Free Throw 2 of 2 (4 PTS),,62-86,62,86
 0021700079,2017-10-28,CHI,OKC,40.9,4,7,6,OKC,OKC,fg_miss,44,True,False,,MISS Abrines 2' Reverse Layup,62-86,62,86
-0021700079,2017-10-28,CHI,OKC,40.9,4,7,6,CHI,CHI,reb,0,False,False,BULLS Rebound,,62-86,62,86
 0021700079,2017-10-28,CHI,OKC,40.9,4,7,6,OKC,CHI,block,44,True,False,block,block,62-86,62,86
+0021700079,2017-10-28,CHI,OKC,40.9,4,7,6,CHI,CHI,reb,0,False,False,BULLS Rebound,,62-86,62,86
 0021700079,2017-10-28,CHI,OKC,41.15,4,6,51,CHI,CHI,fg3_make,1,False,False,Valentine 26' 3PT Jump Shot (6 PTS) (Dunn 3 AST),,65-86,65,86
 0021700079,2017-10-28,CHI,OKC,41.5,4,6,30,OKC,OKC,fg_make,78,False,False,,Felton 9' Floating Jump Shot (12 PTS),65-88,65,88
 0021700079,2017-10-28,CHI,OKC,41.75,4,6,15,CHI,CHI,fg3_miss,1,False,False,MISS Pondexter 26' 3PT Jump Shot,,65-88,65,88

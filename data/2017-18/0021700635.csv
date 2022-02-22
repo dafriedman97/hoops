@@ -117,11 +117,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700635,2018-01-14,NYK,NOP,12.63,2,11,22,NYK,NYK,fg_miss,101,False,False,MISS Hardaway Jr. 11' Driving Floating Jump Shot,,29-15,29,15
 0021700635,2018-01-14,NYK,NOP,12.67,2,11,20,NYK,NYK,reb,0,False,False,O'Quinn REBOUND (Off:1 Def:0),,29-15,29,15
 0021700635,2018-01-14,NYK,NOP,12.7,2,11,18,NYK,NYK,fg3_miss,1,False,False,MISS Ntilikina 25' 3PT Jump Shot,,29-15,29,15
-0021700635,2018-01-14,NYK,NOP,12.72,2,11,17,NYK,NYK,reb,0,False,False,KNICKS Rebound,,29-15,29,15
 0021700635,2018-01-14,NYK,NOP,12.72,2,11,17,NYK,NOP,foul,3,False,False,,Clark L.B.FOUL (P1.T1) (R.Garretson),29-15,29,15
+0021700635,2018-01-14,NYK,NOP,12.72,2,11,17,NYK,NYK,reb,0,False,False,KNICKS Rebound,,29-15,29,15
 0021700635,2018-01-14,NYK,NOP,12.78,2,11,13,NYK,NYK,tov,1,False,True,O'Quinn Bad Pass Turnover (P1.T6),,29-15,29,15
-0021700635,2018-01-14,NYK,NOP,12.78,2,11,13,NOP,NYK,foul,1,False,False,O'Quinn P.FOUL (P1.T1) (J.Van Duyne),,29-15,29,15
 0021700635,2018-01-14,NYK,NOP,12.78,2,11,13,NYK,NOP,steal,1,False,True,steal,steal,29-15,29,15
+0021700635,2018-01-14,NYK,NOP,12.78,2,11,13,NOP,NYK,foul,1,False,False,O'Quinn P.FOUL (P1.T1) (J.Van Duyne),,29-15,29,15
 0021700635,2018-01-14,NYK,NOP,12.87,2,11,8,NOP,NYK,foul,1,False,False,Ntilikina P.FOUL (P1.T2) (B.Spooner),,29-15,29,15
 0021700635,2018-01-14,NYK,NOP,13.08,2,10,55,NOP,NOP,fg_miss,3,False,False,,MISS Cousins 7' Hook Shot,29-15,29,15
 0021700635,2018-01-14,NYK,NOP,13.1,2,10,54,NOP,NOP,reb,0,False,False,,Pelicans Rebound,29-15,29,15
@@ -270,8 +270,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700635,2018-01-14,NYK,NOP,27.72,3,8,17,NYK,NYK,fg3_make,1,False,False,Jack 3PT Jump Shot (20 PTS) (Thomas 1 AST),,69-60,69,60
 0021700635,2018-01-14,NYK,NOP,27.73,3,8,16,NOP,NOP,timeout,1,False,False,,Pelicans Timeout: Regular (Reg.3 Short 0),69-60,69,60
 0021700635,2018-01-14,NYK,NOP,28.0,3,8,0,NOP,NOP,tov,1,False,True,,Holiday Bad Pass Turnover (P3.T15),69-60,69,60
-0021700635,2018-01-14,NYK,NOP,28.0,3,8,0,NYK,NYK,timeout,1,False,False,KNICKS Timeout: Regular (Full 4 Short 0),,69-60,69,60
 0021700635,2018-01-14,NYK,NOP,28.0,3,8,0,NOP,NYK,steal,1,False,True,steal,steal,69-60,69,60
+0021700635,2018-01-14,NYK,NOP,28.0,3,8,0,NYK,NYK,timeout,1,False,False,KNICKS Timeout: Regular (Full 4 Short 0),,69-60,69,60
 0021700635,2018-01-14,NYK,NOP,28.2,3,7,48,NYK,NYK,fg3_make,1,False,False,Porzingis 26' 3PT Jump Shot (14 PTS) (Lee 2 AST),,72-60,72,60
 0021700635,2018-01-14,NYK,NOP,28.43,3,7,34,NOP,NYK,foul,1,False,False,Kanter P.FOUL (P3.T4) (J.Van Duyne),,72-60,72,60
 0021700635,2018-01-14,NYK,NOP,28.62,3,7,23,NOP,NOP,fg_make,98,False,False,,Davis 1' Cutting Layup Shot (24 PTS) (Moore 2 AST),72-62,72,62
@@ -491,8 +491,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700635,2018-01-14,NYK,NOP,50.95,5,2,3,NOP,NOP,fg_miss,6,True,False,,MISS Cousins 6' Driving Layup,117-116,117,116
 0021700635,2018-01-14,NYK,NOP,50.95,5,2,3,NOP,NYK,block,6,True,False,block,block,117-116,117,116
 0021700635,2018-01-14,NYK,NOP,50.97,5,2,2,NOP,NOP,reb,0,False,False,,Pelicans Rebound,117-116,117,116
-0021700635,2018-01-14,NYK,NOP,50.97,5,2,2,NOP,,violation,1,False,False,,,117-116,117,116
 0021700635,2018-01-14,NYK,NOP,50.97,5,2,2,,NYK,jump_ball,0,False,False,Jump Ball Kanter vs. Cousins: Tip to Moore,,117-116,117,116
+0021700635,2018-01-14,NYK,NOP,50.97,5,2,2,NOP,,violation,1,False,False,,,117-116,117,116
 0021700635,2018-01-14,NYK,NOP,51.13,5,1,52,NOP,NOP,fg_make,1,False,False,,Holiday 4' Jump Shot (29 PTS),117-118,117,118
 0021700635,2018-01-14,NYK,NOP,51.4,5,1,36,NYK,NYK,fg_miss,47,False,False,MISS Porzingis 16' Turnaround Jump Shot,,117-118,117,118
 0021700635,2018-01-14,NYK,NOP,51.43,5,1,34,NYK,NYK,reb,0,False,False,Kanter REBOUND (Off:4 Def:6),,117-118,117,118

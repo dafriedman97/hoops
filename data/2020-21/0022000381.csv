@@ -155,8 +155,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000381,2021-02-09,SAC,PHI,16.08,2,7,55,PHI,SAC,block,1,True,False,block,block,46-54,46,54
 0022000381,2021-02-09,SAC,PHI,16.17,2,7,50,PHI,PHI,reb,0,False,False,,Milton REBOUND (Off:1 Def:0),46-54,46,54
 0022000381,2021-02-09,SAC,PHI,16.18,2,7,49,PHI,PHI,fg_miss,1,True,False,,MISS Milton 18' Jump Shot,46-54,46,54
-0022000381,2021-02-09,SAC,PHI,16.18,2,7,49,SAC,SAC,reb,0,False,False,Robinson III REBOUND (Off:0 Def:1),,46-54,46,54
 0022000381,2021-02-09,SAC,PHI,16.18,2,7,49,PHI,SAC,block,1,True,False,block,block,46-54,46,54
+0022000381,2021-02-09,SAC,PHI,16.18,2,7,49,SAC,SAC,reb,0,False,False,Robinson III REBOUND (Off:0 Def:1),,46-54,46,54
 0022000381,2021-02-09,SAC,PHI,16.38,2,7,37,SAC,SAC,fg3_miss,1,False,False,MISS Robinson III 3PT Jump Shot,,46-54,46,54
 0022000381,2021-02-09,SAC,PHI,16.43,2,7,34,PHI,PHI,reb,0,False,False,,Thybulle REBOUND (Off:0 Def:1),46-54,46,54
 0022000381,2021-02-09,SAC,PHI,16.48,2,7,31,SAC,PHI,foul,4,False,False,,Milton OFF.Foul (P2) (M.Smith),46-54,46,54
@@ -222,11 +222,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000381,2021-02-09,SAC,PHI,23.45,2,0,33,SAC,SAC,fg_make,6,False,False,Fox 1' Driving Layup (23 PTS),,71-64,71,64
 0022000381,2021-02-09,SAC,PHI,23.75,2,0,15,PHI,PHI,fg_make,78,False,False,,Harris 8' Floating Jump Shot (8 PTS) (Simmons 6 AST),71-66,71,66
 0022000381,2021-02-09,SAC,PHI,24.0,2,0,0,SAC,SAC,tov,2,False,True,Fox Lost Ball Turnover (P2.T8),,71-66,71,66
+0022000381,2021-02-09,SAC,PHI,24.0,2,0,0,SAC,PHI,steal,2,False,True,steal,steal,71-66,71,66
 0022000381,2021-02-09,SAC,PHI,24.0,2,0,0,PHI,PHI,fg3_miss,1,False,False,,MISS Curry 28' 3PT Jump Shot,71-66,71,66
 0022000381,2021-02-09,SAC,PHI,24.0,2,0,0,PHI,PHI,reb,0,False,False,,76ers Rebound,71-66,71,66
 0022000381,2021-02-09,SAC,PHI,24.0,2,0,0,PHI,,period_end,0,False,False,,,71-66,71,66
 0022000381,2021-02-09,SAC,PHI,24.0,3,12,0,PHI,,period_start,0,False,False,,,71-66,71,66
-0022000381,2021-02-09,SAC,PHI,24.0,2,0,0,SAC,PHI,steal,2,False,True,steal,steal,71-66,71,66
 0022000381,2021-02-09,SAC,PHI,24.23,3,11,46,SAC,SAC,fg_miss,6,False,False,MISS Barnes 2' Driving Layup,,71-66,71,66
 0022000381,2021-02-09,SAC,PHI,24.27,3,11,44,PHI,PHI,reb,0,False,False,,Embiid REBOUND (Off:1 Def:5),71-66,71,66
 0022000381,2021-02-09,SAC,PHI,24.52,3,11,29,PHI,PHI,fg_miss,6,False,False,,MISS Simmons 6' Driving Layup,71-66,71,66
@@ -329,8 +329,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000381,2021-02-09,SAC,PHI,34.95,3,1,3,SAC,SAC,ft_miss,10,False,False,MISS Bagley III Free Throw 1 of 1,,90-86,90,86
 0022000381,2021-02-09,SAC,PHI,35.0,3,1,0,PHI,PHI,reb,0,False,False,,Korkmaz REBOUND (Off:0 Def:3),90-86,90,86
 0022000381,2021-02-09,SAC,PHI,35.25,3,0,45,PHI,PHI,fg_miss,1,True,False,,MISS Milton 8' Jump Shot,90-86,90,86
-0022000381,2021-02-09,SAC,PHI,35.25,3,0,45,PHI,PHI,reb,0,False,False,,76ers Rebound,90-86,90,86
 0022000381,2021-02-09,SAC,PHI,35.25,3,0,45,PHI,SAC,block,1,True,False,block,block,90-86,90,86
+0022000381,2021-02-09,SAC,PHI,35.25,3,0,45,PHI,PHI,reb,0,False,False,,76ers Rebound,90-86,90,86
 0022000381,2021-02-09,SAC,PHI,35.35,3,0,39,PHI,PHI,fg_miss,1,False,False,,MISS Harris 5' Jump Shot,90-86,90,86
 0022000381,2021-02-09,SAC,PHI,35.35,3,0,39,SAC,SAC,reb,0,False,False,KINGS Rebound,,90-86,90,86
 0022000381,2021-02-09,SAC,PHI,35.35,3,0,39,SAC,PHI,foul,3,False,False,,Howard L.B.FOUL (P3.PN) (C.Washington),90-86,90,86
@@ -355,25 +355,25 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000381,2021-02-09,SAC,PHI,36.8,4,11,12,PHI,PHI,fg_make,98,False,False,,Howard 2' Cutting Layup Shot (8 PTS) (Milton 2 AST),91-91,91,91
 0022000381,2021-02-09,SAC,PHI,37.08,4,10,55,SAC,SAC,fg_make,78,False,False,Fox 11' Floating Jump Shot (29 PTS) (Holmes 1 AST),,93-91,93,91
 0022000381,2021-02-09,SAC,PHI,37.58,4,10,25,PHI,PHI,fg_miss,63,True,False,,MISS Harris 12' Fadeaway Jumper,93-91,93,91
+0022000381,2021-02-09,SAC,PHI,37.58,4,10,25,PHI,SAC,block,63,True,False,block,block,93-91,93,91
 0022000381,2021-02-09,SAC,PHI,37.58,4,10,25,SAC,SAC,reb,0,False,False,KINGS Rebound,,93-91,93,91
 0022000381,2021-02-09,SAC,PHI,37.58,4,10,25,SAC,PHI,foul,3,False,False,,Howard L.B.FOUL (P4.T1) (M.Smith),93-91,93,91
 0022000381,2021-02-09,SAC,PHI,37.58,4,10,25,SAC,PHI,violation,1,False,False,,76ers Violation: Delay of game Violation,93-91,93,91
-0022000381,2021-02-09,SAC,PHI,37.58,4,10,25,PHI,SAC,block,63,True,False,block,block,93-91,93,91
 0022000381,2021-02-09,SAC,PHI,37.7,4,10,18,SAC,SAC,fg_miss,6,True,False,MISS Fox 5' Driving Layup,,93-91,93,91
 0022000381,2021-02-09,SAC,PHI,37.7,4,10,18,SAC,PHI,block,6,True,False,block,block,93-91,93,91
 0022000381,2021-02-09,SAC,PHI,37.72,4,10,17,SAC,SAC,reb,0,False,False,KINGS Rebound,,93-91,93,91
 0022000381,2021-02-09,SAC,PHI,37.77,4,10,14,SAC,SAC,fg3_miss,1,False,False,MISS Hield 26' 3PT Jump Shot,,93-91,93,91
 0022000381,2021-02-09,SAC,PHI,37.82,4,10,11,PHI,PHI,reb,0,False,False,,Howard REBOUND (Off:3 Def:6),93-91,93,91
 0022000381,2021-02-09,SAC,PHI,38.03,4,9,58,PHI,PHI,tov,2,False,True,,Milton Lost Ball Turnover (P2.T16),93-91,93,91
-0022000381,2021-02-09,SAC,PHI,38.03,4,9,58,SAC,PHI,foul,28,False,False,,Korkmaz Personal Take Foul (P2.T2) (M.Smith),93-91,93,91
 0022000381,2021-02-09,SAC,PHI,38.03,4,9,58,PHI,SAC,steal,2,False,True,steal,steal,93-91,93,91
+0022000381,2021-02-09,SAC,PHI,38.03,4,9,58,SAC,PHI,foul,28,False,False,,Korkmaz Personal Take Foul (P2.T2) (M.Smith),93-91,93,91
 0022000381,2021-02-09,SAC,PHI,38.22,4,9,47,SAC,SAC,fg_make,63,False,False,Fox 7' Fadeaway Jumper (31 PTS),,95-91,95,91
 0022000381,2021-02-09,SAC,PHI,38.22,4,9,47,SAC,PHI,violation,2,False,False,,Howard Violation:Defensive Goaltending (C.Kirkland),95-91,95,91
 0022000381,2021-02-09,SAC,PHI,38.35,4,9,39,PHI,PHI,fg_miss,1,False,False,,MISS Milton 18' Jump Shot,95-91,95,91
 0022000381,2021-02-09,SAC,PHI,38.43,4,9,34,SAC,SAC,reb,0,False,False,Fox REBOUND (Off:0 Def:4),,95-91,95,91
 0022000381,2021-02-09,SAC,PHI,38.52,4,9,29,SAC,SAC,fg_miss,1,True,False,MISS Holmes 9' Jump Shot,,95-91,95,91
-0022000381,2021-02-09,SAC,PHI,38.52,4,9,29,SAC,SAC,reb,0,False,False,KINGS Rebound,,95-91,95,91
 0022000381,2021-02-09,SAC,PHI,38.52,4,9,29,SAC,PHI,block,1,True,False,block,block,95-91,95,91
+0022000381,2021-02-09,SAC,PHI,38.52,4,9,29,SAC,SAC,reb,0,False,False,KINGS Rebound,,95-91,95,91
 0022000381,2021-02-09,SAC,PHI,38.53,4,9,28,SAC,PHI,foul,1,False,False,,Milton P.FOUL (P3.T3) (C.Washington),95-91,95,91
 0022000381,2021-02-09,SAC,PHI,38.78,4,9,13,SAC,SAC,fg_miss,63,False,False,MISS Fox 16' Fadeaway Jumper,,95-91,95,91
 0022000381,2021-02-09,SAC,PHI,38.83,4,9,10,PHI,PHI,reb,0,False,False,,Milton REBOUND (Off:1 Def:2),95-91,95,91
@@ -395,8 +395,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000381,2021-02-09,SAC,PHI,40.85,4,7,9,PHI,PHI,ft_miss,10,False,False,,MISS Milton Free Throw 1 of 1,99-99,99,99
 0022000381,2021-02-09,SAC,PHI,40.85,4,7,9,SAC,SAC,reb,0,False,False,Barnes REBOUND (Off:0 Def:4),,99-99,99,99
 0022000381,2021-02-09,SAC,PHI,40.85,4,7,9,SAC,SAC,fg_miss,6,True,False,MISS Fox 4' Driving Layup,,99-99,99,99
-0022000381,2021-02-09,SAC,PHI,40.85,4,7,9,SAC,SAC,reb,0,False,False,Haliburton REBOUND (Off:2 Def:0),,99-99,99,99
 0022000381,2021-02-09,SAC,PHI,40.85,4,7,9,SAC,PHI,block,6,True,False,block,block,99-99,99,99
+0022000381,2021-02-09,SAC,PHI,40.85,4,7,9,SAC,SAC,reb,0,False,False,Haliburton REBOUND (Off:2 Def:0),,99-99,99,99
 0022000381,2021-02-09,SAC,PHI,41.02,4,6,59,SAC,SAC,fg_miss,1,False,False,MISS Fox 13' Jump Shot,,99-99,99,99
 0022000381,2021-02-09,SAC,PHI,41.08,4,6,55,SAC,SAC,reb,0,False,False,Barnes REBOUND (Off:1 Def:4),,99-99,99,99
 0022000381,2021-02-09,SAC,PHI,41.13,4,6,52,SAC,SAC,fg_miss,5,False,False,MISS Barnes 2' Layup,,99-99,99,99
@@ -450,9 +450,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000381,2021-02-09,SAC,PHI,46.68,4,1,19,PHI,PHI,reb,0,False,False,,Embiid REBOUND (Off:4 Def:12),107-112,107,112
 0022000381,2021-02-09,SAC,PHI,46.87,4,1,8,PHI,PHI,fg_make,86,False,False,,Embiid 15' Turnaround Fadeaway (23 PTS),107-114,107,114
 0022000381,2021-02-09,SAC,PHI,46.98,4,1,1,SAC,PHI,foul,1,False,False,,Thybulle P.FOUL (P2.PN) (C.Kirkland),107-114,107,114
-0022000381,2021-02-09,SAC,PHI,46.98,4,1,1,SAC,PHI,violation,1,False,False,,76ers Violation: Delay of game Violation,107-114,107,114
 0022000381,2021-02-09,SAC,PHI,46.98,4,1,1,SAC,SAC,ft_miss,11,False,False,MISS Fox Free Throw 1 of 2,,107-114,107,114
 0022000381,2021-02-09,SAC,PHI,46.98,4,1,1,SAC,SAC,reb,1,False,False,KINGS Rebound,,107-114,107,114
+0022000381,2021-02-09,SAC,PHI,46.98,4,1,1,SAC,PHI,violation,1,False,False,,76ers Violation: Delay of game Violation,107-114,107,114
 0022000381,2021-02-09,SAC,PHI,46.98,4,1,1,SAC,SAC,ft_make,12,False,False,Fox Free Throw 2 of 2 (34 PTS),,108-114,108,114
 0022000381,2021-02-09,SAC,PHI,46.98,4,1,1,SAC,PHI,foul,18,False,False,,76ers Delay,108-114,108,114
 0022000381,2021-02-09,SAC,PHI,46.98,4,1,1,SAC,SAC,ft_make,16,False,False,Hield Free Throw Technical (21 PTS),,109-114,109,114

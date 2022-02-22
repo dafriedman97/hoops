@@ -33,9 +33,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800256,2018-11-21,CLE,LAL,3.43,1,8,34,LAL,CLE,foul,1,False,False,Thompson P.FOUL (P1.T3) (M.Callahan),,6-6,6,6
 0021800256,2018-11-21,CLE,LAL,3.52,1,8,29,LAL,LAL,fg_make,98,False,False,,James 3' Cutting Layup Shot (6 PTS) (Ball 1 AST),6-8,6,8
 0021800256,2018-11-21,CLE,LAL,3.85,1,8,9,CLE,CLE,fg_miss,5,True,False,MISS Thompson 1' Layup,,6-8,6,8
+0021800256,2018-11-21,CLE,LAL,3.85,1,8,9,CLE,LAL,block,5,True,False,block,block,6-8,6,8
 0021800256,2018-11-21,CLE,LAL,3.85,1,8,9,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,6-8,6,8
 0021800256,2018-11-21,CLE,LAL,3.85,1,8,9,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 1 Short 0),,6-8,6,8
-0021800256,2018-11-21,CLE,LAL,3.85,1,8,9,CLE,LAL,block,5,True,False,block,block,6-8,6,8
 0021800256,2018-11-21,CLE,LAL,3.93,1,8,4,CLE,CLE,fg3_make,79,False,False,Osman 25' 3PT Pullup Jump Shot (3 PTS) (Clarkson 1 AST),,9-8,9,8
 0021800256,2018-11-21,CLE,LAL,4.3,1,7,42,LAL,LAL,fg_make,108,False,False,,Kuzma 1' Cutting Dunk Shot (2 PTS) (Ball 2 AST),9-10,9,10
 0021800256,2018-11-21,CLE,LAL,4.58,1,7,25,CLE,LAL,foul,2,False,False,,Ball S.FOUL (P1.T1) (M.Callahan),9-10,9,10
@@ -74,8 +74,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800256,2018-11-21,CLE,LAL,8.3,1,3,42,CLE,CLE,fg_miss,1,False,False,MISS Clarkson 14' Jump Shot,,16-17,16,17
 0021800256,2018-11-21,CLE,LAL,8.35,1,3,39,LAL,LAL,reb,0,False,False,,Hart REBOUND (Off:0 Def:1),16-17,16,17
 0021800256,2018-11-21,CLE,LAL,8.47,1,3,32,LAL,LAL,fg_miss,6,True,False,,MISS James 3' Driving Layup,16-17,16,17
-0021800256,2018-11-21,CLE,LAL,8.47,1,3,32,LAL,LAL,reb,0,False,False,,James REBOUND (Off:2 Def:3),16-17,16,17
 0021800256,2018-11-21,CLE,LAL,8.47,1,3,32,LAL,CLE,block,6,True,False,block,block,16-17,16,17
+0021800256,2018-11-21,CLE,LAL,8.47,1,3,32,LAL,LAL,reb,0,False,False,,James REBOUND (Off:2 Def:3),16-17,16,17
 0021800256,2018-11-21,CLE,LAL,8.57,1,3,26,LAL,LAL,fg3_miss,1,False,False,,MISS Hart 26' 3PT Jump Shot,16-17,16,17
 0021800256,2018-11-21,CLE,LAL,8.6,1,3,24,CLE,CLE,reb,0,False,False,Thompson REBOUND (Off:3 Def:1),,16-17,16,17
 0021800256,2018-11-21,CLE,LAL,8.73,1,3,16,CLE,CLE,fg_miss,6,False,False,MISS Clarkson 4' Driving Layup,,16-17,16,17
@@ -402,8 +402,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800256,2018-11-21,CLE,LAL,45.68,4,2,19,LAL,LAL,reb,0,False,False,,James REBOUND (Off:2 Def:11),99-99,99,99
 0021800256,2018-11-21,CLE,LAL,45.68,4,2,19,LAL,CLE,foul,1,False,False,Osman P.FOUL (P4.PN) (M.Callahan),,99-99,99,99
 0021800256,2018-11-21,CLE,LAL,45.68,4,2,19,LAL,LAL,ft_make,11,False,False,,James Free Throw 1 of 2 (29 PTS),99-100,99,100
-0021800256,2018-11-21,CLE,LAL,45.68,4,2,19,LAL,CLE,violation,3,False,False,Lane,,99-100,99,100
 0021800256,2018-11-21,CLE,LAL,45.68,4,2,19,LAL,LAL,ft_make,12,False,False,,James Free Throw 2 of 2 (30 PTS),99-101,99,101
+0021800256,2018-11-21,CLE,LAL,45.68,4,2,19,LAL,CLE,violation,3,False,False,Lane,,99-100,99,100
 0021800256,2018-11-21,CLE,LAL,46.02,4,1,59,CLE,CLE,fg_miss,6,False,False,MISS Osman 3' Driving Layup,,99-101,99,101
 0021800256,2018-11-21,CLE,LAL,46.07,4,1,56,LAL,LAL,reb,0,False,False,,James REBOUND (Off:2 Def:12),99-101,99,101
 0021800256,2018-11-21,CLE,LAL,46.25,4,1,45,LAL,CLE,foul,1,False,False,Nwaba P.FOUL (P5.PN) (D.Taylor),,99-101,99,101

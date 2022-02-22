@@ -68,10 +68,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700643,2018-01-15,OKC,SAC,7.15,1,4,51,OKC,OKC,fg3_miss,1,False,False,MISS George 26' 3PT Jump Shot,,15-16,15,16
 0021700643,2018-01-15,OKC,SAC,7.15,1,4,51,SAC,SAC,reb,0,False,False,,Labissiere REBOUND (Off:0 Def:2),15-16,15,16
 0021700643,2018-01-15,OKC,SAC,7.22,1,4,47,SAC,SAC,tov,1,False,True,,Labissiere Bad Pass Turnover (P1.T1),15-16,15,16
-0021700643,2018-01-15,OKC,SAC,7.22,1,4,47,OKC,OKC,fg_miss,6,False,False,MISS George 3' Driving Layup,,15-16,15,16
 0021700643,2018-01-15,OKC,SAC,7.22,1,4,47,SAC,OKC,steal,1,False,True,steal,steal,15-16,15,16
-0021700643,2018-01-15,OKC,SAC,7.23,1,4,46,OKC,OKC,reb,0,False,False,Anthony REBOUND (Off:1 Def:1),,15-16,15,16
+0021700643,2018-01-15,OKC,SAC,7.22,1,4,47,OKC,OKC,fg_miss,6,False,False,MISS George 3' Driving Layup,,15-16,15,16
 0021700643,2018-01-15,OKC,SAC,7.23,1,4,46,OKC,OKC,fg_make,87,False,False,Anthony 1' Putback Dunk (2 PTS),,17-16,17,16
+0021700643,2018-01-15,OKC,SAC,7.23,1,4,46,OKC,OKC,reb,0,False,False,Anthony REBOUND (Off:1 Def:1),,15-16,15,16
 0021700643,2018-01-15,OKC,SAC,7.62,1,4,23,SAC,SAC,fg_make,102,False,False,,Koufos 3' Driving Floating Bank Jump Shot (4 PTS),17-18,17,18
 0021700643,2018-01-15,OKC,SAC,7.82,1,4,11,OKC,SAC,foul,2,False,False,,Labissiere S.FOUL (P2.PN) (G.Petraitis),17-18,17,18
 0021700643,2018-01-15,OKC,SAC,7.82,1,4,11,OKC,OKC,ft_miss,11,False,False,MISS Adams Free Throw 1 of 2,,17-18,17,18
@@ -234,11 +234,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700643,2018-01-15,OKC,SAC,23.78,2,0,13,OKC,OKC,fg_make,6,False,False,Westbrook 1' Driving Layup (17 PTS),,46-50,46,50
 0021700643,2018-01-15,OKC,SAC,23.87,2,0,8,SAC,SAC,fg_make,50,False,False,,Fox 1' Running Dunk (10 PTS),46-52,46,52
 0021700643,2018-01-15,OKC,SAC,24.0,2,0,0,OKC,OKC,tov,2,False,True,Adams Lost Ball Turnover (P2.T12),,46-52,46,52
+0021700643,2018-01-15,OKC,SAC,24.0,2,0,0,OKC,SAC,steal,2,False,True,steal,steal,46-52,46,52
 0021700643,2018-01-15,OKC,SAC,24.0,2,0,0,SAC,SAC,fg3_miss,103,False,False,,MISS Jackson 70' 3PT Running Pull-Up Jump Shot,46-52,46,52
 0021700643,2018-01-15,OKC,SAC,24.0,2,0,0,SAC,SAC,reb,0,False,False,,Kings Rebound,46-52,46,52
 0021700643,2018-01-15,OKC,SAC,24.0,2,0,0,SAC,,period_end,0,False,False,,,46-52,46,52
 0021700643,2018-01-15,OKC,SAC,24.0,3,12,0,SAC,,period_start,0,False,False,,,46-52,46,52
-0021700643,2018-01-15,OKC,SAC,24.0,2,0,0,OKC,SAC,steal,2,False,True,steal,steal,46-52,46,52
 0021700643,2018-01-15,OKC,SAC,24.33,3,11,40,SAC,OKC,foul,2,False,False,Ferguson S.FOUL (P1.T1) (K.Mauer),,46-52,46,52
 0021700643,2018-01-15,OKC,SAC,24.33,3,11,40,SAC,SAC,ft_miss,11,False,False,,MISS Temple Free Throw 1 of 2,46-52,46,52
 0021700643,2018-01-15,OKC,SAC,24.33,3,11,40,SAC,SAC,reb,1,False,False,,Kings Rebound,46-52,46,52
@@ -355,8 +355,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700643,2018-01-15,OKC,SAC,36.0,3,0,0,OKC,,period_end,0,False,False,,,77-68,77,68
 0021700643,2018-01-15,OKC,SAC,36.0,4,12,0,OKC,,period_start,0,False,False,,,77-68,77,68
 0021700643,2018-01-15,OKC,SAC,36.3,4,11,42,OKC,OKC,tov,2,False,True,Grant Lost Ball Turnover (P1.T14),,77-68,77,68
-0021700643,2018-01-15,OKC,SAC,36.3,4,11,42,SAC,OKC,foul,1,False,False,Patterson P.FOUL (P1.T1) (G.Petraitis),,77-68,77,68
 0021700643,2018-01-15,OKC,SAC,36.3,4,11,42,OKC,SAC,steal,2,False,True,steal,steal,77-68,77,68
+0021700643,2018-01-15,OKC,SAC,36.3,4,11,42,SAC,OKC,foul,1,False,False,Patterson P.FOUL (P1.T1) (G.Petraitis),,77-68,77,68
 0021700643,2018-01-15,OKC,SAC,36.53,4,11,28,SAC,SAC,fg_miss,80,False,False,,MISS Hield 12' Step Back Jump Shot,77-68,77,68
 0021700643,2018-01-15,OKC,SAC,36.58,4,11,25,OKC,OKC,reb,0,False,False,Huestis REBOUND (Off:0 Def:1),,77-68,77,68
 0021700643,2018-01-15,OKC,SAC,36.77,4,11,14,OKC,OKC,fg3_miss,1,False,False,MISS Abrines 25' 3PT Jump Shot,,77-68,77,68
@@ -426,8 +426,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700643,2018-01-15,OKC,SAC,44.32,4,3,41,OKC,OKC,ft_make,11,False,False,George Free Throw 1 of 2 (15 PTS),,91-77,91,77
 0021700643,2018-01-15,OKC,SAC,44.32,4,3,41,OKC,OKC,tov,17,False,False,Anthony Lane Violation Turnover (P1.T17),,91-77,91,77
 0021700643,2018-01-15,OKC,SAC,44.48,4,3,31,SAC,SAC,fg_miss,98,True,False,,MISS Cauley-Stein 2' Cutting Layup Shot,91-77,91,77
-0021700643,2018-01-15,OKC,SAC,44.48,4,3,31,SAC,SAC,reb,0,False,False,,Kings Rebound,91-77,91,77
 0021700643,2018-01-15,OKC,SAC,44.48,4,3,31,SAC,OKC,block,98,True,False,block,block,91-77,91,77
+0021700643,2018-01-15,OKC,SAC,44.48,4,3,31,SAC,SAC,reb,0,False,False,,Kings Rebound,91-77,91,77
 0021700643,2018-01-15,OKC,SAC,44.63,4,3,22,SAC,SAC,fg_miss,101,False,False,,MISS Bogdanovic 8' Driving Floating Jump Shot,91-77,91,77
 0021700643,2018-01-15,OKC,SAC,44.77,4,3,14,OKC,OKC,reb,0,False,False,Huestis REBOUND (Off:0 Def:3),,91-77,91,77
 0021700643,2018-01-15,OKC,SAC,44.88,4,3,7,OKC,OKC,tov,1,False,True,Westbrook Bad Pass Turnover (P9.T18),,91-77,91,77
@@ -438,10 +438,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700643,2018-01-15,OKC,SAC,45.15,4,2,51,OKC,OKC,tov,4,False,False,Westbrook Traveling Turnover (P10.T19),,91-80,91,80
 0021700643,2018-01-15,OKC,SAC,45.15,4,2,51,SAC,OKC,foul,11,False,False,Westbrook T.FOUL (P2.T4) (M.Boland),,91-80,91,80
 0021700643,2018-01-15,OKC,SAC,45.15,4,2,51,SAC,SAC,ft_make,16,False,False,,Hield Free Throw Technical (14 PTS),91-81,91,81
-0021700643,2018-01-15,OKC,SAC,45.15,4,2,51,SAC,OKC,foul,11,False,False,Westbrook T.FOUL (P2.T4) (M.Boland),,91-81,91,81
 0021700643,2018-01-15,OKC,SAC,45.15,4,2,51,SAC,SAC,ft_make,16,False,False,,Hield Free Throw Technical (15 PTS),91-82,91,82
 0021700643,2018-01-15,OKC,SAC,45.15,4,2,51,SAC,,foul,11,False,False,,,91-82,91,82
 0021700643,2018-01-15,OKC,SAC,45.15,4,2,51,SAC,SAC,ft_make,16,False,False,,Hield Free Throw Technical (16 PTS),91-83,91,83
+0021700643,2018-01-15,OKC,SAC,45.15,4,2,51,SAC,OKC,foul,11,False,False,Westbrook T.FOUL (P2.T4) (M.Boland),,91-81,91,81
 0021700643,2018-01-15,OKC,SAC,45.3,4,2,42,SAC,SAC,tov,2,False,True,,Bogdanovic Lost Ball Turnover (P1.T14),91-83,91,83
 0021700643,2018-01-15,OKC,SAC,45.3,4,2,42,SAC,OKC,steal,2,False,True,steal,steal,91-83,91,83
 0021700643,2018-01-15,OKC,SAC,45.38,4,2,37,OKC,OKC,fg_miss,79,False,False,MISS George 20' Pullup Jump Shot,,91-83,91,83

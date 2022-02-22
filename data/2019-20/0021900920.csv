@@ -127,9 +127,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900920,2020-03-04,BKN,MEM,13.47,2,10,32,BKN,MEM,foul,11,False,False,,Jackson T.FOUL (P1.T2) (T.Ford),23-25,23,25
 0021900920,2020-03-04,BKN,MEM,13.47,2,10,32,BKN,BKN,ft_make,16,False,False,Prince Free Throw Technical (8 PTS),,24-25,24,25
 0021900920,2020-03-04,BKN,MEM,13.7,2,10,18,BKN,BKN,fg_miss,75,True,False,MISS Prince 2' Driving Finger Roll Layup,,24-25,24,25
+0021900920,2020-03-04,BKN,MEM,13.7,2,10,18,BKN,MEM,block,75,True,False,block,block,24-25,24,25
 0021900920,2020-03-04,BKN,MEM,13.7,2,10,18,BKN,BKN,reb,0,False,False,NETS Rebound,,24-25,24,25
 0021900920,2020-03-04,BKN,MEM,13.7,2,10,18,BKN,BKN,tov,11,False,False,NETS Turnover: Shot Clock (T#3),,24-25,24,25
-0021900920,2020-03-04,BKN,MEM,13.7,2,10,18,BKN,MEM,block,75,True,False,block,block,24-25,24,25
 0021900920,2020-03-04,BKN,MEM,13.9,2,10,6,MEM,MEM,fg_miss,6,False,False,,MISS Jones 8' Driving Layup,24-25,24,25
 0021900920,2020-03-04,BKN,MEM,13.95,2,10,3,MEM,MEM,reb,0,False,False,,Dieng REBOUND (Off:3 Def:3),24-25,24,25
 0021900920,2020-03-04,BKN,MEM,14.07,2,9,56,MEM,MEM,fg_miss,63,False,False,,MISS Dieng 17' Fadeaway Jumper,24-25,24,25
@@ -224,10 +224,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900920,2020-03-04,BKN,MEM,23.9,2,0,6,MEM,BKN,foul,2,False,False,Dinwiddie S.FOUL (P1.PN) (K.Lane),,45-51,45,51
 0021900920,2020-03-04,BKN,MEM,23.9,2,0,6,MEM,MEM,ft_make,10,False,False,,Valanciunas Free Throw 1 of 1 (7 PTS),45-52,45,52
 0021900920,2020-03-04,BKN,MEM,24.0,2,0,0,BKN,BKN,fg3_miss,1,True,False,MISS LeVert 26' 3PT Jump Shot,,45-52,45,52
+0021900920,2020-03-04,BKN,MEM,24.0,2,0,0,BKN,MEM,block,1,True,False,block,block,45-52,45,52
 0021900920,2020-03-04,BKN,MEM,24.0,2,0,0,BKN,BKN,reb,0,False,False,NETS Rebound,,45-52,45,52
 0021900920,2020-03-04,BKN,MEM,24.0,2,0,0,BKN,,period_end,0,False,False,,,45-52,45,52
 0021900920,2020-03-04,BKN,MEM,24.0,3,12,0,BKN,,period_start,0,False,False,,,45-52,45,52
-0021900920,2020-03-04,BKN,MEM,24.0,2,0,0,BKN,MEM,block,1,True,False,block,block,45-52,45,52
 0021900920,2020-03-04,BKN,MEM,24.32,3,11,41,BKN,MEM,foul,4,False,False,,Valanciunas OFF.Foul (P2) (K.Lane),45-52,45,52
 0021900920,2020-03-04,BKN,MEM,24.32,3,11,41,MEM,MEM,tov,37,False,False,,Valanciunas Offensive Foul Turnover (P2.T5),45-52,45,52
 0021900920,2020-03-04,BKN,MEM,24.58,3,11,25,BKN,BKN,fg_miss,63,False,False,MISS Prince 5' Fadeaway Jumper,,45-52,45,52
@@ -375,9 +375,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900920,2020-03-04,BKN,MEM,40.25,4,7,45,BKN,BKN,fg3_miss,1,False,False,MISS Luwawu-Cabarrot 26' 3PT Jump Shot,,68-95,68,95
 0021900920,2020-03-04,BKN,MEM,40.32,4,7,41,MEM,MEM,reb,0,False,False,,Konchar REBOUND (Off:0 Def:1),68-95,68,95
 0021900920,2020-03-04,BKN,MEM,40.58,4,7,25,MEM,MEM,fg_miss,63,True,False,,MISS Dieng 6' Fadeaway Jumper,68-95,68,95
+0021900920,2020-03-04,BKN,MEM,40.58,4,7,25,MEM,BKN,block,63,True,False,block,block,68-95,68,95
 0021900920,2020-03-04,BKN,MEM,40.58,4,7,25,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,68-95,68,95
 0021900920,2020-03-04,BKN,MEM,40.58,4,7,25,MEM,BKN,violation,5,False,False,Chiozza Violation:Kicked Ball (T.Ford),,68-95,68,95
-0021900920,2020-03-04,BKN,MEM,40.58,4,7,25,MEM,BKN,block,63,True,False,block,block,68-95,68,95
 0021900920,2020-03-04,BKN,MEM,40.75,4,7,15,MEM,MEM,fg3_make,1,False,False,,Anderson 3PT Jump Shot (12 PTS) (Morant 5 AST),68-98,68,98
 0021900920,2020-03-04,BKN,MEM,41.07,4,6,56,BKN,BKN,fg3_miss,1,False,False,MISS Luwawu-Cabarrot 3PT Jump Shot,,68-98,68,98
 0021900920,2020-03-04,BKN,MEM,41.1,4,6,54,MEM,MEM,reb,0,False,False,,Morant REBOUND (Off:4 Def:3),68-98,68,98

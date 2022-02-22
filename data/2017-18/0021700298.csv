@@ -114,10 +114,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700298,2017-11-28,CLE,MIA,11.88,1,0,7,MIA,MIA,fg3_miss,1,False,False,,MISS Ellington 3PT Jump Shot,35-24,35,24
 0021700298,2017-11-28,CLE,MIA,11.93,1,0,4,CLE,CLE,reb,0,False,False,Korver REBOUND (Off:0 Def:1),,35-24,35,24
 0021700298,2017-11-28,CLE,MIA,12.0,1,0,0,CLE,CLE,fg3_miss,1,True,False,MISS Korver 29' 3PT Jump Shot,,35-24,35,24
+0021700298,2017-11-28,CLE,MIA,12.0,1,0,0,CLE,MIA,block,1,True,False,block,block,35-24,35,24
 0021700298,2017-11-28,CLE,MIA,12.0,1,0,0,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,35-24,35,24
 0021700298,2017-11-28,CLE,MIA,12.0,1,0,0,CLE,,period_end,0,False,False,,,35-24,35,24
 0021700298,2017-11-28,CLE,MIA,12.0,2,12,0,CLE,,period_start,0,False,False,,,35-24,35,24
-0021700298,2017-11-28,CLE,MIA,12.0,1,0,0,CLE,MIA,block,1,True,False,block,block,35-24,35,24
 0021700298,2017-11-28,CLE,MIA,12.2,2,11,48,CLE,CLE,fg3_make,1,False,False,Korver 27' 3PT Jump Shot (3 PTS) (Wade 1 AST),,38-24,38,24
 0021700298,2017-11-28,CLE,MIA,12.53,2,11,28,MIA,MIA,fg_make,7,False,False,,Adebayo 1' Dunk (4 PTS) (Ellington 1 AST),38-26,38,26
 0021700298,2017-11-28,CLE,MIA,12.82,2,11,11,CLE,CLE,fg_miss,86,False,False,MISS Wade 11' Turnaround Fadeaway Shot,,38-26,38,26
@@ -143,8 +143,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700298,2017-11-28,CLE,MIA,14.3,2,9,42,MIA,MIA,fg3_miss,1,False,False,,MISS Dragic 26' 3PT Jump Shot,41-32,41,32
 0021700298,2017-11-28,CLE,MIA,14.37,2,9,38,CLE,CLE,reb,0,False,False,Green REBOUND (Off:0 Def:2),,41-32,41,32
 0021700298,2017-11-28,CLE,MIA,14.45,2,9,33,CLE,CLE,fg_miss,6,True,False,MISS Green 4' Driving Layup,,41-32,41,32
-0021700298,2017-11-28,CLE,MIA,14.45,2,9,33,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,41-32,41,32
 0021700298,2017-11-28,CLE,MIA,14.45,2,9,33,CLE,MIA,block,6,True,False,block,block,41-32,41,32
+0021700298,2017-11-28,CLE,MIA,14.45,2,9,33,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,41-32,41,32
 0021700298,2017-11-28,CLE,MIA,14.52,2,9,29,CLE,CLE,fg_make,44,False,False,Wade 1' Reverse Layup (7 PTS) (Korver 1 AST),,43-32,43,32
 0021700298,2017-11-28,CLE,MIA,14.8,2,9,12,MIA,MIA,tov,1,False,True,,Johnson Bad Pass Turnover (P2.T5),43-32,43,32
 0021700298,2017-11-28,CLE,MIA,14.8,2,9,12,MIA,CLE,steal,1,False,True,steal,steal,43-32,43,32
@@ -175,8 +175,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700298,2017-11-28,CLE,MIA,18.37,2,5,38,MIA,MIA,fg_miss,9,False,False,,MISS Johnson 2' Driving Dunk,54-38,54,38
 0021700298,2017-11-28,CLE,MIA,18.37,2,5,38,MIA,MIA,reb,0,False,False,,Winslow REBOUND (Off:1 Def:0),54-38,54,38
 0021700298,2017-11-28,CLE,MIA,18.43,2,5,34,MIA,MIA,fg_miss,1,True,False,,MISS Winslow 5' Jump Shot,54-38,54,38
-0021700298,2017-11-28,CLE,MIA,18.43,2,5,34,CLE,CLE,reb,0,False,False,Love REBOUND (Off:1 Def:5),,54-38,54,38
 0021700298,2017-11-28,CLE,MIA,18.43,2,5,34,MIA,CLE,block,1,True,False,block,block,54-38,54,38
+0021700298,2017-11-28,CLE,MIA,18.43,2,5,34,CLE,CLE,reb,0,False,False,Love REBOUND (Off:1 Def:5),,54-38,54,38
 0021700298,2017-11-28,CLE,MIA,18.57,2,5,26,CLE,CLE,fg_make,5,False,False,Love 2' Layup (24 PTS),,56-38,56,38
 0021700298,2017-11-28,CLE,MIA,18.57,2,5,26,CLE,MIA,foul,2,False,False,,Richardson S.FOUL (P2.T3) (A.Smith),56-38,56,38
 0021700298,2017-11-28,CLE,MIA,18.57,2,5,26,CLE,CLE,ft_make,10,False,False,Love Free Throw 1 of 1 (25 PTS),,57-38,57,38
@@ -257,8 +257,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700298,2017-11-28,CLE,MIA,27.12,3,8,53,MIA,MIA,fg_miss,5,False,False,,MISS Waiters 1' Layup,82-49,82,49
 0021700298,2017-11-28,CLE,MIA,27.12,3,8,53,MIA,MIA,reb,0,False,False,,Whiteside REBOUND (Off:3 Def:3),82-49,82,49
 0021700298,2017-11-28,CLE,MIA,27.2,3,8,48,MIA,MIA,fg_miss,72,True,False,,MISS Whiteside 1' Putback Layup,82-49,82,49
-0021700298,2017-11-28,CLE,MIA,27.2,3,8,48,CLE,CLE,reb,0,False,False,James REBOUND (Off:2 Def:9),,82-49,82,49
 0021700298,2017-11-28,CLE,MIA,27.2,3,8,48,MIA,CLE,block,72,True,False,block,block,82-49,82,49
+0021700298,2017-11-28,CLE,MIA,27.2,3,8,48,CLE,CLE,reb,0,False,False,James REBOUND (Off:2 Def:9),,82-49,82,49
 0021700298,2017-11-28,CLE,MIA,27.23,3,8,46,CLE,MIA,foul,2,False,False,,Winslow S.FOUL (P3.T3) (K.Fitzgerald),82-49,82,49
 0021700298,2017-11-28,CLE,MIA,27.23,3,8,46,CLE,CLE,ft_make,11,False,False,Love Free Throw 1 of 2 (35 PTS),,83-49,83,49
 0021700298,2017-11-28,CLE,MIA,27.23,3,8,46,CLE,CLE,ft_miss,12,False,False,MISS Love Free Throw 2 of 2,,83-49,83,49
@@ -268,10 +268,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700298,2017-11-28,CLE,MIA,27.43,3,8,34,MIA,MIA,ft_make,12,False,False,,Dragic Free Throw 2 of 2 (3 PTS),83-51,83,51
 0021700298,2017-11-28,CLE,MIA,27.6,3,8,24,CLE,MIA,foul,2,False,False,,Winslow S.FOUL (P4.T4) (K.Fitzgerald),83-51,83,51
 0021700298,2017-11-28,CLE,MIA,27.6,3,8,24,CLE,CLE,timeout,1,False,False,CAVALIERS Timeout: Regular (Full 2 Short 0),,83-51,83,51
-0021700298,2017-11-28,CLE,MIA,27.6,3,8,24,CLE,,violation,1,False,False,,,83-51,83,51
 0021700298,2017-11-28,CLE,MIA,27.6,3,8,24,CLE,CLE,ft_miss,11,False,False,MISS Love Free Throw 1 of 2,,83-51,83,51
 0021700298,2017-11-28,CLE,MIA,27.6,3,8,24,CLE,CLE,reb,1,False,False,CAVALIERS Rebound,,83-51,83,51
 0021700298,2017-11-28,CLE,MIA,27.6,3,8,24,CLE,CLE,ft_make,12,False,False,Love Free Throw 2 of 2 (36 PTS),,84-51,84,51
+0021700298,2017-11-28,CLE,MIA,27.6,3,8,24,CLE,,violation,1,False,False,,,83-51,83,51
 0021700298,2017-11-28,CLE,MIA,27.92,3,8,5,MIA,MIA,fg_miss,80,False,False,,MISS Richardson 13' Step Back Jump Shot,84-51,84,51
 0021700298,2017-11-28,CLE,MIA,27.97,3,8,2,CLE,CLE,reb,0,False,False,James REBOUND (Off:2 Def:10),,84-51,84,51
 0021700298,2017-11-28,CLE,MIA,28.03,3,7,58,CLE,CLE,fg3_miss,1,False,False,MISS Smith 3PT Jump Shot,,84-51,84,51
@@ -282,8 +282,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700298,2017-11-28,CLE,MIA,28.63,3,7,22,CLE,CLE,ft_make,12,False,False,Love Free Throw 2 of 2 (38 PTS),,86-53,86,53
 0021700298,2017-11-28,CLE,MIA,28.77,3,7,14,MIA,MIA,fg3_make,1,False,False,,Richardson 27' 3PT Jump Shot (8 PTS) (Dragic 1 AST),86-56,86,56
 0021700298,2017-11-28,CLE,MIA,28.9,3,7,6,CLE,CLE,tov,1,False,True,Love Bad Pass Turnover (P2.T9),,86-56,86,56
-0021700298,2017-11-28,CLE,MIA,28.9,3,7,6,MIA,CLE,foul,1,False,False,Calderon P.FOUL (P2.T3) (M.Ayotte),,86-56,86,56
 0021700298,2017-11-28,CLE,MIA,28.9,3,7,6,CLE,MIA,steal,1,False,True,steal,steal,86-56,86,56
+0021700298,2017-11-28,CLE,MIA,28.9,3,7,6,MIA,CLE,foul,1,False,False,Calderon P.FOUL (P2.T3) (M.Ayotte),,86-56,86,56
 0021700298,2017-11-28,CLE,MIA,29.02,3,6,59,MIA,CLE,foul,2,False,False,Calderon S.FOUL (P3.T4) (M.Ayotte),,86-56,86,56
 0021700298,2017-11-28,CLE,MIA,29.02,3,6,59,MIA,MIA,ft_make,11,False,False,,Dragic Free Throw 1 of 2 (4 PTS),86-57,86,57
 0021700298,2017-11-28,CLE,MIA,29.02,3,6,59,MIA,MIA,ft_make,12,False,False,,Dragic Free Throw 2 of 2 (5 PTS),86-58,86,58
@@ -322,9 +322,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700298,2017-11-28,CLE,MIA,34.02,3,1,59,CLE,CLE,fg_miss,101,False,False,MISS James 8' Driving Floating Jump Shot,,93-70,93,70
 0021700298,2017-11-28,CLE,MIA,34.02,3,1,59,MIA,MIA,reb,0,False,False,,Whiteside REBOUND (Off:4 Def:7),93-70,93,70
 0021700298,2017-11-28,CLE,MIA,34.02,3,1,59,MIA,CLE,foul,11,False,False,James T.FOUL (P1.T4) (K.Fitzgerald),,93-70,93,70
-0021700298,2017-11-28,CLE,MIA,34.02,3,1,59,MIA,CLE,ejection,4,False,False,James Ejection:Other,,93-70,93,70
 0021700298,2017-11-28,CLE,MIA,34.02,3,1,59,MIA,MIA,ft_miss,16,False,False,,MISS Waiters Free Throw Technical,93-70,93,70
 0021700298,2017-11-28,CLE,MIA,34.02,3,1,59,MIA,MIA,reb,1,False,False,,Heat Rebound,93-70,93,70
+0021700298,2017-11-28,CLE,MIA,34.02,3,1,59,MIA,CLE,ejection,4,False,False,James Ejection:Other,,93-70,93,70
 0021700298,2017-11-28,CLE,MIA,34.23,3,1,46,MIA,MIA,fg_make,98,False,False,,Johnson 2' Cutting Layup Shot (14 PTS) (Waiters 6 AST),93-72,93,72
 0021700298,2017-11-28,CLE,MIA,34.53,3,1,28,CLE,CLE,fg3_miss,1,False,False,MISS Frye 26' 3PT Jump Shot,,93-72,93,72
 0021700298,2017-11-28,CLE,MIA,34.58,3,1,25,MIA,MIA,reb,0,False,False,,Whiteside REBOUND (Off:4 Def:8),93-72,93,72
@@ -352,8 +352,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700298,2017-11-28,CLE,MIA,37.52,4,10,29,MIA,CLE,foul,4,False,False,Green OFF.Foul (P3) (A.Smith),,95-76,95,76
 0021700298,2017-11-28,CLE,MIA,37.52,4,10,29,CLE,CLE,tov,37,False,False,Green Offensive Foul Turnover (P1.T13),,95-76,95,76
 0021700298,2017-11-28,CLE,MIA,37.7,4,10,18,MIA,MIA,tov,1,False,True,,Olynyk Bad Pass Turnover (P1.T13),95-76,95,76
-0021700298,2017-11-28,CLE,MIA,37.7,4,10,18,CLE,MIA,foul,1,False,False,,Olynyk P.FOUL (P4.T1) (M.Ayotte),95-76,95,76
 0021700298,2017-11-28,CLE,MIA,37.7,4,10,18,MIA,CLE,steal,1,False,True,steal,steal,95-76,95,76
+0021700298,2017-11-28,CLE,MIA,37.7,4,10,18,CLE,MIA,foul,1,False,False,,Olynyk P.FOUL (P4.T1) (M.Ayotte),95-76,95,76
 0021700298,2017-11-28,CLE,MIA,37.98,4,10,1,CLE,CLE,fg_make,86,False,False,Wade 14' Turnaround Fadeaway (13 PTS),,97-76,97,76
 0021700298,2017-11-28,CLE,MIA,38.25,4,9,45,MIA,MIA,fg_miss,79,False,False,,MISS Johnson 16' Pullup Jump Shot,97-76,97,76
 0021700298,2017-11-28,CLE,MIA,38.3,4,9,42,CLE,CLE,reb,0,False,False,Frye REBOUND (Off:0 Def:3),,97-76,97,76

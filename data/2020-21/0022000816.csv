@@ -39,8 +39,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000816,2021-04-12,ORL,SAS,5.2,1,6,48,ORL,ORL,fg_miss,86,False,False,MISS Okeke 6' Turnaround Fadeaway Shot,,13-7,13,7
 0022000816,2021-04-12,ORL,SAS,5.23,1,6,46,SAS,SAS,reb,0,False,False,,Johnson REBOUND (Off:0 Def:3),13-7,13,7
 0022000816,2021-04-12,ORL,SAS,5.3,1,6,42,SAS,SAS,fg_miss,41,True,False,,MISS Johnson 8' Running Layup,13-7,13,7
-0022000816,2021-04-12,ORL,SAS,5.3,1,6,42,ORL,ORL,reb,0,False,False,Ennis III REBOUND (Off:1 Def:2),,13-7,13,7
 0022000816,2021-04-12,ORL,SAS,5.3,1,6,42,SAS,ORL,block,41,True,False,block,block,13-7,13,7
+0022000816,2021-04-12,ORL,SAS,5.3,1,6,42,ORL,ORL,reb,0,False,False,Ennis III REBOUND (Off:1 Def:2),,13-7,13,7
 0022000816,2021-04-12,ORL,SAS,5.5,1,6,30,ORL,ORL,fg_miss,79,False,False,MISS Okeke 20' Pullup Jump Shot,,13-7,13,7
 0022000816,2021-04-12,ORL,SAS,5.55,1,6,27,SAS,SAS,reb,0,False,False,,White REBOUND (Off:0 Def:1),13-7,13,7
 0022000816,2021-04-12,ORL,SAS,5.82,1,6,11,SAS,SAS,fg_miss,79,False,False,,MISS DeRozan 9' Pullup Jump Shot,13-7,13,7
@@ -68,8 +68,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000816,2021-04-12,ORL,SAS,7.67,1,4,20,SAS,SAS,reb,0,False,False,,DeRozan REBOUND (Off:0 Def:1),13-13,13,13
 0022000816,2021-04-12,ORL,SAS,7.77,1,4,14,SAS,SAS,fg3_make,2,False,False,,Walker IV 25' 3PT Running Jump Shot (5 PTS) (DeRozan 2 AST),13-16,13,16
 0022000816,2021-04-12,ORL,SAS,8.13,1,3,52,ORL,ORL,fg_miss,98,True,False,MISS Ennis III 7' Cutting Layup Shot,,13-16,13,16
-0022000816,2021-04-12,ORL,SAS,8.13,1,3,52,SAS,SAS,reb,0,False,False,,Johnson REBOUND (Off:1 Def:5),13-16,13,16
 0022000816,2021-04-12,ORL,SAS,8.13,1,3,52,ORL,SAS,block,98,True,False,block,block,13-16,13,16
+0022000816,2021-04-12,ORL,SAS,8.13,1,3,52,SAS,SAS,reb,0,False,False,,Johnson REBOUND (Off:1 Def:5),13-16,13,16
 0022000816,2021-04-12,ORL,SAS,8.2,1,3,48,SAS,SAS,fg3_make,2,False,False,,Walker IV 26' 3PT Running Jump Shot (8 PTS) (Johnson 3 AST),13-19,13,19
 0022000816,2021-04-12,ORL,SAS,8.4,1,3,36,ORL,ORL,tov,2,False,False,Anthony Lost Ball Turnover (P2.T2),,13-19,13,19
 0022000816,2021-04-12,ORL,SAS,8.4,1,3,36,SAS,ORL,foul,3,False,False,Anthony L.B.FOUL (P1.T1) (B.Kennedy),,13-19,13,19
@@ -141,10 +141,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000816,2021-04-12,ORL,SAS,14.72,2,9,17,SAS,SAS,fg3_make,1,False,False,,Mills 26' 3PT Jump Shot (6 PTS) (White 2 AST),21-36,21,36
 0022000816,2021-04-12,ORL,SAS,15.1,2,8,54,ORL,ORL,fg3_miss,1,False,False,MISS Hampton 3PT Jump Shot,,21-36,21,36
 0022000816,2021-04-12,ORL,SAS,15.13,2,8,52,SAS,SAS,reb,0,False,False,,Gay REBOUND (Off:0 Def:4),21-36,21,36
-0022000816,2021-04-12,ORL,SAS,15.33,2,8,40,SAS,SAS,tov,1,False,True,,White Bad Pass Turnover (P1.T3),21-36,21,36
 0022000816,2021-04-12,ORL,SAS,15.33,2,8,40,ORL,ORL,tov,1,False,True,Carter Jr. Bad Pass Turnover (P1.T3),,21-36,21,36
-0022000816,2021-04-12,ORL,SAS,15.33,2,8,40,SAS,ORL,steal,1,False,True,steal,steal,21-36,21,36
 0022000816,2021-04-12,ORL,SAS,15.33,2,8,40,ORL,SAS,steal,1,False,True,steal,steal,21-36,21,36
+0022000816,2021-04-12,ORL,SAS,15.33,2,8,40,SAS,SAS,tov,1,False,True,,White Bad Pass Turnover (P1.T3),21-36,21,36
+0022000816,2021-04-12,ORL,SAS,15.33,2,8,40,SAS,ORL,steal,1,False,True,steal,steal,21-36,21,36
 0022000816,2021-04-12,ORL,SAS,15.42,2,8,35,SAS,SAS,fg3_miss,1,False,False,,MISS Walker IV 27' 3PT Jump Shot,21-36,21,36
 0022000816,2021-04-12,ORL,SAS,15.45,2,8,33,ORL,ORL,reb,0,False,False,Carter Jr. REBOUND (Off:2 Def:3),,21-36,21,36
 0022000816,2021-04-12,ORL,SAS,15.53,2,8,28,SAS,ORL,foul,4,False,False,Carter Jr. OFF.Foul (P2) (A.Nagy),,21-36,21,36
@@ -225,8 +225,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000816,2021-04-12,ORL,SAS,25.57,3,10,26,ORL,ORL,tov,1,False,True,Bacon Bad Pass Turnover (P1.T7),,40-67,40,67
 0022000816,2021-04-12,ORL,SAS,25.57,3,10,26,ORL,SAS,steal,1,False,True,steal,steal,40-67,40,67
 0022000816,2021-04-12,ORL,SAS,25.67,3,10,20,SAS,SAS,tov,1,False,True,,White Bad Pass Turnover (P2.T5),40-67,40,67
-0022000816,2021-04-12,ORL,SAS,25.67,3,10,20,ORL,SAS,foul,1,False,False,,DeRozan P.FOUL (P2.T2) (L.Holtkamp),40-67,40,67
 0022000816,2021-04-12,ORL,SAS,25.67,3,10,20,SAS,ORL,steal,1,False,True,steal,steal,40-67,40,67
+0022000816,2021-04-12,ORL,SAS,25.67,3,10,20,ORL,SAS,foul,1,False,False,,DeRozan P.FOUL (P2.T2) (L.Holtkamp),40-67,40,67
 0022000816,2021-04-12,ORL,SAS,25.95,3,10,3,ORL,SAS,foul,2,False,False,,Poeltl S.FOUL (P2.T3) (A.Nagy),40-67,40,67
 0022000816,2021-04-12,ORL,SAS,25.95,3,10,3,ORL,ORL,ft_miss,11,False,False,MISS Carter Jr. Free Throw 1 of 2,,40-67,40,67
 0022000816,2021-04-12,ORL,SAS,25.95,3,10,3,ORL,ORL,reb,1,False,False,MAGIC Rebound,,40-67,40,67
@@ -381,8 +381,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000816,2021-04-12,ORL,SAS,43.73,4,4,16,ORL,ORL,fg_miss,5,False,False,MISS Okeke 6' Layup,,81-106,81,106
 0022000816,2021-04-12,ORL,SAS,43.77,4,4,14,ORL,ORL,reb,0,False,False,Okeke REBOUND (Off:1 Def:4),,81-106,81,106
 0022000816,2021-04-12,ORL,SAS,43.78,4,4,13,ORL,ORL,fg_miss,5,True,False,MISS Okeke 6' Layup,,81-106,81,106
-0022000816,2021-04-12,ORL,SAS,43.78,4,4,13,SAS,SAS,reb,0,False,False,,Jones REBOUND (Off:0 Def:1),81-106,81,106
 0022000816,2021-04-12,ORL,SAS,43.78,4,4,13,ORL,SAS,block,5,True,False,block,block,81-106,81,106
+0022000816,2021-04-12,ORL,SAS,43.78,4,4,13,SAS,SAS,reb,0,False,False,,Jones REBOUND (Off:0 Def:1),81-106,81,106
 0022000816,2021-04-12,ORL,SAS,43.9,4,4,6,SAS,SAS,fg_make,76,False,False,,Bates-Diop 2' Running Finger Roll Layup (2 PTS) (Jones 1 AST),81-108,81,108
 0022000816,2021-04-12,ORL,SAS,44.08,4,3,55,ORL,SAS,foul,1,False,False,,Samanic P.FOUL (P2.PN) (B.Kennedy),81-108,81,108
 0022000816,2021-04-12,ORL,SAS,44.22,4,3,47,ORL,ORL,tov,1,False,True,Randle Bad Pass Turnover (P1.T15),,81-108,81,108
@@ -394,8 +394,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000816,2021-04-12,ORL,SAS,44.55,4,3,27,ORL,ORL,reb,1,False,False,MAGIC Rebound,,81-110,81,110
 0022000816,2021-04-12,ORL,SAS,44.55,4,3,27,ORL,ORL,ft_make,12,False,False,Franks Free Throw 2 of 2 (4 PTS),,82-110,82,110
 0022000816,2021-04-12,ORL,SAS,44.65,4,3,21,SAS,SAS,fg_miss,5,True,False,,MISS Bates-Diop 4' Layup,82-110,82,110
-0022000816,2021-04-12,ORL,SAS,44.65,4,3,21,SAS,SAS,reb,0,False,False,,Spurs Rebound,82-110,82,110
 0022000816,2021-04-12,ORL,SAS,44.65,4,3,21,SAS,ORL,block,5,True,False,block,block,82-110,82,110
+0022000816,2021-04-12,ORL,SAS,44.65,4,3,21,SAS,SAS,reb,0,False,False,,Spurs Rebound,82-110,82,110
 0022000816,2021-04-12,ORL,SAS,44.77,4,3,14,SAS,SAS,fg_make,6,False,False,,Samanic 4' Driving Layup (5 PTS),82-112,82,112
 0022000816,2021-04-12,ORL,SAS,45.05,4,2,57,ORL,ORL,fg_make,6,False,False,Mane 2' Driving Layup (2 PTS),,84-112,84,112
 0022000816,2021-04-12,ORL,SAS,45.05,4,2,57,ORL,SAS,foul,2,False,False,,Weatherspoon S.FOUL (P1.PN) (A.Nagy),84-112,84,112

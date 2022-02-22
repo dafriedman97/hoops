@@ -75,8 +75,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900215,2019-11-22,DET,ATL,7.72,1,4,17,DET,ATL,foul,1,False,False,,Hunter P.FOUL (P1.T3) (K.Scott),16-17,16,17
 0021900215,2019-11-22,DET,ATL,7.97,1,4,2,DET,DET,fg3_make,1,False,False,Morris 3PT Jump Shot (3 PTS) (Kennard 1 AST),,19-17,19,17
 0021900215,2019-11-22,DET,ATL,8.15,1,3,51,ATL,ATL,tov,2,False,True,,Crabbe Lost Ball Turnover (P1.T4),19-17,19,17
-0021900215,2019-11-22,DET,ATL,8.15,1,3,51,DET,ATL,foul,1,False,False,,Crabbe P.FOUL (P1.T4) (M.Dagher),19-17,19,17
 0021900215,2019-11-22,DET,ATL,8.15,1,3,51,ATL,DET,steal,2,False,True,steal,steal,19-17,19,17
+0021900215,2019-11-22,DET,ATL,8.15,1,3,51,DET,ATL,foul,1,False,False,,Crabbe P.FOUL (P1.T4) (M.Dagher),19-17,19,17
 0021900215,2019-11-22,DET,ATL,8.37,1,3,38,DET,DET,fg3_make,1,False,False,Morris 24' 3PT Jump Shot (6 PTS) (Kennard 2 AST),,22-17,22,17
 0021900215,2019-11-22,DET,ATL,8.7,1,3,18,ATL,ATL,fg_miss,105,False,False,,MISS Turner 9' Turnaround Fadeaway Bank Jump Shot,22-17,22,17
 0021900215,2019-11-22,DET,ATL,8.7,1,3,18,DET,DET,reb,0,False,False,PISTONS Rebound,,22-17,22,17
@@ -111,9 +111,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900215,2019-11-22,DET,ATL,11.5,1,0,30,DET,DET,fg3_make,79,False,False,Rose 26' 3PT Pullup Jump Shot (5 PTS) (Brown 2 AST),,33-21,33,21
 0021900215,2019-11-22,DET,ATL,11.83,1,0,10,ATL,ATL,fg_make,3,False,False,,Len 2' Hook Shot (2 PTS) (Young 2 AST),33-23,33,23
 0021900215,2019-11-22,DET,ATL,12.0,1,0,0,DET,DET,tov,2,False,True,Brown Lost Ball Turnover (P2.T6),,33-23,33,23
+0021900215,2019-11-22,DET,ATL,12.0,1,0,0,DET,ATL,steal,2,False,True,steal,steal,33-23,33,23
 0021900215,2019-11-22,DET,ATL,12.0,1,0,0,DET,,period_end,0,False,False,,,33-23,33,23
 0021900215,2019-11-22,DET,ATL,12.0,2,12,0,DET,,period_start,0,False,False,,,33-23,33,23
-0021900215,2019-11-22,DET,ATL,12.0,1,0,0,DET,ATL,steal,2,False,True,steal,steal,33-23,33,23
 0021900215,2019-11-22,DET,ATL,12.2,2,11,48,ATL,ATL,fg3_make,1,False,False,,Hunter 24' 3PT Jump Shot (3 PTS) (Young 3 AST),33-26,33,26
 0021900215,2019-11-22,DET,ATL,12.65,2,11,21,DET,DET,fg3_make,1,False,False,Rose 3PT Jump Shot (8 PTS) (Mykhailiuk 2 AST),,36-26,36,26
 0021900215,2019-11-22,DET,ATL,12.92,2,11,5,ATL,ATL,tov,2,False,True,,Len Lost Ball Turnover (P1.T6),36-26,36,26
@@ -238,8 +238,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900215,2019-11-22,DET,ATL,28.1,3,7,54,ATL,DET,foul,2,False,False,Griffin S.FOUL (P1.T1) (C.Blair),,92-67,92,67
 0021900215,2019-11-22,DET,ATL,28.1,3,7,54,ATL,ATL,ft_make,11,False,False,,Jones Free Throw 1 of 2 (12 PTS),92-68,92,68
 0021900215,2019-11-22,DET,ATL,28.1,3,7,54,ATL,ATL,ft_make,12,False,False,,Jones Free Throw 2 of 2 (13 PTS),92-69,92,69
-0021900215,2019-11-22,DET,ATL,28.4,3,7,36,DET,DET,tov,1,False,False,Brown Bad Pass Turnover (P3.T8),,92-69,92,69
 0021900215,2019-11-22,DET,ATL,28.4,3,7,36,ATL,DET,foul,3,False,False,Griffin L.B.FOUL (P2.T2) (M.Dagher),,92-69,92,69
+0021900215,2019-11-22,DET,ATL,28.4,3,7,36,DET,DET,tov,1,False,False,Brown Bad Pass Turnover (P3.T8),,92-69,92,69
 0021900215,2019-11-22,DET,ATL,28.68,3,7,19,ATL,ATL,fg_miss,79,False,False,,MISS Bembry 6' Pullup Jump Shot,92-69,92,69
 0021900215,2019-11-22,DET,ATL,28.68,3,7,19,DET,DET,reb,0,False,False,Drummond REBOUND (Off:5 Def:4),,92-69,92,69
 0021900215,2019-11-22,DET,ATL,29.0,3,7,0,DET,DET,fg_make,44,False,False,Griffin 2' Reverse Layup (14 PTS) (Drummond 2 AST),,94-69,94,69
@@ -281,8 +281,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900215,2019-11-22,DET,ATL,33.28,3,2,43,DET,DET,tov,1,False,True,Kennard Bad Pass Turnover (P1.T9),,104-79,104,79
 0021900215,2019-11-22,DET,ATL,33.28,3,2,43,DET,ATL,steal,1,False,True,steal,steal,104-79,104,79
 0021900215,2019-11-22,DET,ATL,33.53,3,2,28,ATL,ATL,fg_miss,5,True,False,,MISS Len 2' Layup,104-79,104,79
-0021900215,2019-11-22,DET,ATL,33.53,3,2,28,ATL,ATL,reb,0,False,False,,Hawks Rebound,104-79,104,79
 0021900215,2019-11-22,DET,ATL,33.53,3,2,28,ATL,DET,block,5,True,False,block,block,104-79,104,79
+0021900215,2019-11-22,DET,ATL,33.53,3,2,28,ATL,ATL,reb,0,False,False,,Hawks Rebound,104-79,104,79
 0021900215,2019-11-22,DET,ATL,33.65,3,2,21,ATL,ATL,fg3_make,1,False,False,,Parsons 27' 3PT Jump Shot (5 PTS) (Bembry 5 AST),104-82,104,82
 0021900215,2019-11-22,DET,ATL,34.03,3,1,58,DET,DET,fg_miss,78,False,False,MISS Drummond 9' Floating Jump Shot,,104-82,104,82
 0021900215,2019-11-22,DET,ATL,34.07,3,1,56,ATL,ATL,reb,0,False,False,,Crabbe REBOUND (Off:0 Def:2),104-82,104,82
@@ -348,8 +348,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900215,2019-11-22,DET,ATL,40.0,4,8,0,ATL,ATL,fg3_miss,1,False,False,,MISS Hunter 25' 3PT Jump Shot,116-89,116,89
 0021900215,2019-11-22,DET,ATL,40.0,4,8,0,ATL,ATL,reb,0,False,False,,Hawks Rebound,116-89,116,89
 0021900215,2019-11-22,DET,ATL,40.13,4,7,52,ATL,ATL,fg_miss,6,True,False,,MISS Hunter 6' Driving Layup,116-89,116,89
-0021900215,2019-11-22,DET,ATL,40.13,4,7,52,ATL,ATL,reb,0,False,False,,Hawks Rebound,116-89,116,89
 0021900215,2019-11-22,DET,ATL,40.13,4,7,52,ATL,DET,block,6,True,False,block,block,116-89,116,89
+0021900215,2019-11-22,DET,ATL,40.13,4,7,52,ATL,ATL,reb,0,False,False,,Hawks Rebound,116-89,116,89
 0021900215,2019-11-22,DET,ATL,40.2,4,7,48,ATL,ATL,fg3_make,1,False,False,,Bembry 27' 3PT Jump Shot (22 PTS) (Hunter 4 AST),116-92,116,92
 0021900215,2019-11-22,DET,ATL,40.67,4,7,20,DET,DET,fg_miss,5,False,False,MISS Griffin 3' Layup,,116-92,116,92
 0021900215,2019-11-22,DET,ATL,40.7,4,7,18,DET,DET,reb,0,False,False,Wood REBOUND (Off:1 Def:2),,116-92,116,92
@@ -382,9 +382,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900215,2019-11-22,DET,ATL,44.3,4,3,42,ATL,ATL,fg3_miss,1,False,False,,MISS Parsons 30' 3PT Jump Shot,124-99,124,99
 0021900215,2019-11-22,DET,ATL,44.35,4,3,39,ATL,ATL,reb,0,False,False,,Crabbe REBOUND (Off:1 Def:2),124-99,124,99
 0021900215,2019-11-22,DET,ATL,44.55,4,3,27,ATL,ATL,fg_miss,7,True,False,,MISS Fernando 4' Dunk,124-99,124,99
+0021900215,2019-11-22,DET,ATL,44.55,4,3,27,ATL,DET,block,7,True,False,block,block,124-99,124,99
 0021900215,2019-11-22,DET,ATL,44.55,4,3,27,ATL,ATL,reb,0,False,False,,Hawks Rebound,124-99,124,99
 0021900215,2019-11-22,DET,ATL,44.55,4,3,27,ATL,ATL,tov,11,False,False,,Hawks Turnover: Shot Clock (T#18),124-99,124,99
-0021900215,2019-11-22,DET,ATL,44.55,4,3,27,ATL,DET,block,7,True,False,block,block,124-99,124,99
 0021900215,2019-11-22,DET,ATL,44.93,4,3,4,DET,DET,tov,1,False,True,Mykhailiuk Bad Pass Turnover (P2.T16),,124-99,124,99
 0021900215,2019-11-22,DET,ATL,44.93,4,3,4,DET,ATL,steal,1,False,True,steal,steal,124-99,124,99
 0021900215,2019-11-22,DET,ATL,45.02,4,2,59,ATL,ATL,fg_miss,41,True,False,,MISS Hunter 6' Running Layup,124-99,124,99

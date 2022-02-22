@@ -17,8 +17,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800189,2018-11-11,LAL,ATL,1.28,1,10,43,ATL,ATL,ft_make,11,False,False,,Bazemore Free Throw 1 of 2 (3 PTS),0-6,0,6
 0021800189,2018-11-11,LAL,ATL,1.28,1,10,43,ATL,ATL,ft_make,12,False,False,,Bazemore Free Throw 2 of 2 (4 PTS),0-7,0,7
 0021800189,2018-11-11,LAL,ATL,1.5,1,10,30,LAL,LAL,tov,2,False,True,Ingram Lost Ball Turnover (P2.T2),,0-7,0,7
-0021800189,2018-11-11,LAL,ATL,1.5,1,10,30,ATL,LAL,foul,1,False,False,Ingram P.FOUL (P1.T2) (K.Scott),,0-7,0,7
 0021800189,2018-11-11,LAL,ATL,1.5,1,10,30,LAL,ATL,steal,2,False,True,steal,steal,0-7,0,7
+0021800189,2018-11-11,LAL,ATL,1.5,1,10,30,ATL,LAL,foul,1,False,False,Ingram P.FOUL (P1.T2) (K.Scott),,0-7,0,7
 0021800189,2018-11-11,LAL,ATL,1.7,1,10,18,ATL,ATL,fg_make,78,False,False,,Young 6' Floating Jump Shot (2 PTS),0-9,0,9
 0021800189,2018-11-11,LAL,ATL,2.12,1,9,53,LAL,LAL,fg_make,3,False,False,Kuzma 3' Hook Shot (2 PTS) (Ball 1 AST),,2-9,2,9
 0021800189,2018-11-11,LAL,ATL,2.28,1,9,43,ATL,ATL,fg_miss,44,False,False,,MISS Len 3' Reverse Layup,2-9,2,9
@@ -40,8 +40,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800189,2018-11-11,LAL,ATL,3.13,1,8,52,ATL,ATL,tov,37,False,False,,Len Offensive Foul Turnover (P1.T2),5-9,5,9
 0021800189,2018-11-11,LAL,ATL,3.32,1,8,41,LAL,LAL,fg3_make,1,False,False,James 26' 3PT Jump Shot (4 PTS) (Ball 3 AST),,8-9,8,9
 0021800189,2018-11-11,LAL,ATL,3.58,1,8,25,ATL,ATL,fg_miss,5,True,False,,MISS Young 2' Layup,8-9,8,9
-0021800189,2018-11-11,LAL,ATL,3.58,1,8,25,ATL,ATL,reb,0,False,False,,Hawks Rebound,8-9,8,9
 0021800189,2018-11-11,LAL,ATL,3.58,1,8,25,ATL,LAL,block,5,True,False,block,block,8-9,8,9
+0021800189,2018-11-11,LAL,ATL,3.58,1,8,25,ATL,ATL,reb,0,False,False,,Hawks Rebound,8-9,8,9
 0021800189,2018-11-11,LAL,ATL,3.63,1,8,22,ATL,ATL,fg_make,7,False,False,,Len 2' Dunk (2 PTS) (Young 1 AST),8-11,8,11
 0021800189,2018-11-11,LAL,ATL,3.78,1,8,13,LAL,LAL,fg_make,108,False,False,McGee 2' Cutting Dunk Shot (4 PTS) (Ball 4 AST),,10-11,10,11
 0021800189,2018-11-11,LAL,ATL,4.15,1,7,51,ATL,ATL,fg_miss,5,False,False,,MISS Spellman 2' Layup,10-11,10,11
@@ -93,9 +93,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800189,2018-11-11,LAL,ATL,8.85,1,3,9,LAL,LAL,fg3_miss,1,False,False,MISS Hart 27' 3PT Jump Shot,,19-16,19,16
 0021800189,2018-11-11,LAL,ATL,8.88,1,3,7,ATL,ATL,reb,0,False,False,,Prince REBOUND (Off:0 Def:2),19-16,19,16
 0021800189,2018-11-11,LAL,ATL,8.95,1,3,3,ATL,ATL,fg_miss,5,True,False,,MISS Huerter 4' Layup,19-16,19,16
+0021800189,2018-11-11,LAL,ATL,8.95,1,3,3,ATL,LAL,block,5,True,False,block,block,19-16,19,16
 0021800189,2018-11-11,LAL,ATL,8.95,1,3,3,LAL,LAL,reb,0,False,False,LAKERS Rebound,,19-16,19,16
 0021800189,2018-11-11,LAL,ATL,8.95,1,3,3,LAL,ATL,foul,3,False,False,,Huerter L.B.FOUL (P1.T3) (K.Scott),19-16,19,16
-0021800189,2018-11-11,LAL,ATL,8.95,1,3,3,ATL,LAL,block,5,True,False,block,block,19-16,19,16
 0021800189,2018-11-11,LAL,ATL,9.15,1,2,51,LAL,LAL,fg3_miss,79,False,False,MISS Stephenson 26' 3PT Pullup Jump Shot,,19-16,19,16
 0021800189,2018-11-11,LAL,ATL,9.18,1,2,49,ATL,ATL,reb,0,False,False,,Plumlee REBOUND (Off:0 Def:2),19-16,19,16
 0021800189,2018-11-11,LAL,ATL,9.23,1,2,46,ATL,LAL,foul,1,False,False,Stephenson P.FOUL (P1.T4) (D.Richardson),,19-16,19,16
@@ -241,8 +241,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800189,2018-11-11,LAL,ATL,22.32,2,1,41,LAL,LAL,reb,0,False,False,LAKERS Rebound,,48-50,48,50
 0021800189,2018-11-11,LAL,ATL,22.5,2,1,30,LAL,LAL,fg_make,102,False,False,Kuzma 3' Driving Floating Bank Jump Shot (6 PTS) (Ball 6 AST),,50-50,50,50
 0021800189,2018-11-11,LAL,ATL,22.75,2,1,15,ATL,ATL,fg_miss,7,True,False,,MISS Plumlee 3' Dunk,50-50,50,50
-0021800189,2018-11-11,LAL,ATL,22.75,2,1,15,LAL,LAL,reb,0,False,False,LAKERS Rebound,,50-50,50,50
 0021800189,2018-11-11,LAL,ATL,22.75,2,1,15,ATL,LAL,block,7,True,False,block,block,50-50,50,50
+0021800189,2018-11-11,LAL,ATL,22.75,2,1,15,LAL,LAL,reb,0,False,False,LAKERS Rebound,,50-50,50,50
 0021800189,2018-11-11,LAL,ATL,22.87,2,1,8,LAL,LAL,fg3_miss,103,False,False,MISS Kuzma 25' 3PT Running Pull-Up Jump Shot,,50-50,50,50
 0021800189,2018-11-11,LAL,ATL,22.92,2,1,5,ATL,ATL,reb,0,False,False,,Bembry REBOUND (Off:0 Def:5),50-50,50,50
 0021800189,2018-11-11,LAL,ATL,22.97,2,1,2,ATL,ATL,fg3_make,1,False,False,,Young 26' 3PT Jump Shot (5 PTS) (Bembry 2 AST),50-53,50,53
@@ -285,8 +285,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800189,2018-11-11,LAL,ATL,27.55,3,8,27,ATL,ATL,reb,0,False,False,,Prince REBOUND (Off:0 Def:4),61-60,61,60
 0021800189,2018-11-11,LAL,ATL,27.68,3,8,19,ATL,ATL,tov,4,False,False,,Len Traveling Turnover (P3.T12),61-60,61,60
 0021800189,2018-11-11,LAL,ATL,27.95,3,8,3,LAL,LAL,fg_miss,98,True,False,MISS Kuzma 2' Cutting Layup Shot,,61-60,61,60
-0021800189,2018-11-11,LAL,ATL,27.95,3,8,3,LAL,LAL,reb,0,False,False,LAKERS Rebound,,61-60,61,60
 0021800189,2018-11-11,LAL,ATL,27.95,3,8,3,LAL,ATL,block,98,True,False,block,block,61-60,61,60
+0021800189,2018-11-11,LAL,ATL,27.95,3,8,3,LAL,LAL,reb,0,False,False,LAKERS Rebound,,61-60,61,60
 0021800189,2018-11-11,LAL,ATL,28.07,3,7,56,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 24' 3PT Jump Shot,,61-60,61,60
 0021800189,2018-11-11,LAL,ATL,28.1,3,7,54,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:2 Def:2),,61-60,61,60
 0021800189,2018-11-11,LAL,ATL,28.12,3,7,53,LAL,ATL,foul,1,False,False,,Bazemore P.FOUL (P1.T4) (K.Scott),61-60,61,60
@@ -342,8 +342,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800189,2018-11-11,LAL,ATL,33.55,3,2,27,ATL,ATL,tov,1,False,True,,Prince Bad Pass Turnover (P4.T14),79-65,79,65
 0021800189,2018-11-11,LAL,ATL,33.55,3,2,27,ATL,LAL,steal,1,False,True,steal,steal,79-65,79,65
 0021800189,2018-11-11,LAL,ATL,33.7,3,2,18,LAL,LAL,tov,1,False,True,James Bad Pass Turnover (P4.T19),,79-65,79,65
-0021800189,2018-11-11,LAL,ATL,33.7,3,2,18,ATL,LAL,foul,1,False,False,Hart P.FOUL (P2.T3) (S.Wright),,79-65,79,65
 0021800189,2018-11-11,LAL,ATL,33.7,3,2,18,LAL,ATL,steal,1,False,True,steal,steal,79-65,79,65
+0021800189,2018-11-11,LAL,ATL,33.7,3,2,18,ATL,LAL,foul,1,False,False,Hart P.FOUL (P2.T3) (S.Wright),,79-65,79,65
 0021800189,2018-11-11,LAL,ATL,33.78,3,2,13,ATL,ATL,fg_make,79,False,False,,Young 20' Pullup Jump Shot (7 PTS),79-67,79,67
 0021800189,2018-11-11,LAL,ATL,34.05,3,1,57,LAL,LAL,fg3_miss,1,False,False,MISS Caldwell-Pope 24' 3PT Jump Shot,,79-67,79,67
 0021800189,2018-11-11,LAL,ATL,34.08,3,1,55,ATL,ATL,reb,0,False,False,,Bazemore REBOUND (Off:0 Def:2),79-67,79,67
@@ -362,8 +362,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800189,2018-11-11,LAL,ATL,35.27,3,0,44,ATL,ATL,fg3_make,1,False,False,,Bazemore 27' 3PT Jump Shot (16 PTS) (Spellman 1 AST),82-72,82,72
 0021800189,2018-11-11,LAL,ATL,35.52,3,0,29,LAL,LAL,fg_make,6,False,False,Caldwell-Pope 2' Driving Layup (8 PTS) (Chandler 1 AST),,84-72,84,72
 0021800189,2018-11-11,LAL,ATL,35.88,3,0,7,ATL,ATL,fg_miss,7,True,False,,MISS Len 4' Dunk,84-72,84,72
-0021800189,2018-11-11,LAL,ATL,35.88,3,0,7,ATL,ATL,reb,0,False,False,,Hawks Rebound,84-72,84,72
 0021800189,2018-11-11,LAL,ATL,35.88,3,0,7,ATL,LAL,block,7,True,False,block,block,84-72,84,72
+0021800189,2018-11-11,LAL,ATL,35.88,3,0,7,ATL,ATL,reb,0,False,False,,Hawks Rebound,84-72,84,72
 0021800189,2018-11-11,LAL,ATL,35.92,3,0,5,ATL,ATL,fg3_make,1,False,False,,Bazemore 27' 3PT Jump Shot (19 PTS) (Prince 1 AST),84-75,84,75
 0021800189,2018-11-11,LAL,ATL,36.0,3,0,0,ATL,,period_end,0,False,False,,,84-75,84,75
 0021800189,2018-11-11,LAL,ATL,36.0,4,12,0,ATL,,period_start,0,False,False,,,84-75,84,75
@@ -486,6 +486,6 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800189,2018-11-11,LAL,ATL,47.75,4,0,15,LAL,LAL,fg_make,107,False,False,James 1' Tip Dunk Shot (26 PTS),,107-106,107,106
 0021800189,2018-11-11,LAL,ATL,47.75,4,0,15,ATL,ATL,timeout,1,False,False,,Hawks Timeout: Regular (Reg.7 Short 0),107-106,107,106
 0021800189,2018-11-11,LAL,ATL,48.0,4,0,0,ATL,ATL,fg_miss,6,True,False,,MISS Young 2' Driving Layup,107-106,107,106
+0021800189,2018-11-11,LAL,ATL,48.0,4,0,0,ATL,LAL,block,6,True,False,block,block,107-106,107,106
 0021800189,2018-11-11,LAL,ATL,48.0,4,0,0,ATL,ATL,reb,0,False,False,,Hawks Rebound,107-106,107,106
 0021800189,2018-11-11,LAL,ATL,48.0,4,0,0,ATL,,period_end,0,False,False,,,107-106,107,106
-0021800189,2018-11-11,LAL,ATL,48.0,4,0,0,ATL,LAL,block,6,True,False,block,block,107-106,107,106

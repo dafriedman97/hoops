@@ -34,8 +34,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800614,2019-01-09,UTA,ORL,4.02,1,7,59,UTA,ORL,block,6,True,False,block,block,5-10,5,10
 0021800614,2019-01-09,UTA,ORL,4.07,1,7,56,ORL,ORL,reb,0,False,False,,Gordon REBOUND (Off:0 Def:2),5-10,5,10
 0021800614,2019-01-09,UTA,ORL,4.08,1,7,55,ORL,ORL,fg_miss,41,True,False,,MISS Isaac 1' Running Layup,5-10,5,10
-0021800614,2019-01-09,UTA,ORL,4.08,1,7,55,ORL,ORL,reb,0,False,False,,Magic Rebound,5-10,5,10
 0021800614,2019-01-09,UTA,ORL,4.08,1,7,55,ORL,UTA,block,41,True,False,block,block,5-10,5,10
+0021800614,2019-01-09,UTA,ORL,4.08,1,7,55,ORL,ORL,reb,0,False,False,,Magic Rebound,5-10,5,10
 0021800614,2019-01-09,UTA,ORL,4.17,1,7,50,ORL,ORL,fg3_make,1,False,False,,Gordon 3PT Jump Shot (5 PTS) (Vucevic 2 AST),5-13,5,13
 0021800614,2019-01-09,UTA,ORL,4.32,1,7,41,UTA,UTA,fg_make,78,False,False,Mitchell 10' Floating Jump Shot (3 PTS),,7-13,7,13
 0021800614,2019-01-09,UTA,ORL,4.52,1,7,29,ORL,ORL,fg3_make,1,False,False,,Gordon 25' 3PT Jump Shot (8 PTS) (Augustin 1 AST),7-16,7,16
@@ -345,9 +345,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800614,2019-01-09,UTA,ORL,41.62,4,6,23,ORL,ORL,fg3_miss,1,False,False,,MISS Ross 25' 3PT Jump Shot,90-86,90,86
 0021800614,2019-01-09,UTA,ORL,41.68,4,6,19,UTA,UTA,reb,0,False,False,O'Neale REBOUND (Off:1 Def:5),,90-86,90,86
 0021800614,2019-01-09,UTA,ORL,41.77,4,6,14,UTA,UTA,tov,2,False,True,Ingles Lost Ball Turnover (P4.T13),,90-86,90,86
+0021800614,2019-01-09,UTA,ORL,41.77,4,6,14,UTA,ORL,steal,2,False,True,steal,steal,90-86,90,86
 0021800614,2019-01-09,UTA,ORL,41.77,4,6,14,ORL,UTA,foul,1,False,False,Ingles P.FOUL (P1.T3) (S.Wall),,90-86,90,86
 0021800614,2019-01-09,UTA,ORL,41.77,4,6,14,UTA,UTA,timeout,1,False,False,JAZZ Timeout: Regular (Full 5 Short 0),,90-86,90,86
-0021800614,2019-01-09,UTA,ORL,41.77,4,6,14,UTA,ORL,steal,2,False,True,steal,steal,90-86,90,86
 0021800614,2019-01-09,UTA,ORL,41.98,4,6,1,ORL,ORL,fg_miss,1,False,False,,MISS Ross 16' Jump Shot,90-86,90,86
 0021800614,2019-01-09,UTA,ORL,42.07,4,5,56,UTA,UTA,reb,0,False,False,Ingles REBOUND (Off:0 Def:2),,90-86,90,86
 0021800614,2019-01-09,UTA,ORL,42.32,4,5,41,UTA,UTA,fg_miss,63,False,False,MISS Neto 11' Fadeaway Jumper,,90-86,90,86

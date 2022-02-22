@@ -279,8 +279,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900137,2019-11-10,PHX,BKN,31.65,3,4,21,PHX,PHX,reb,0,False,False,Johnson REBOUND (Off:1 Def:0),,88-67,88,67
 0021900137,2019-11-10,PHX,BKN,31.78,3,4,13,PHX,PHX,fg_make,44,False,False,Rubio Reverse Layup (20 PTS),,90-67,90,67
 0021900137,2019-11-10,PHX,BKN,31.95,3,4,3,BKN,BKN,fg_miss,5,True,False,,MISS Dinwiddie 1' Layup,90-67,90,67
-0021900137,2019-11-10,PHX,BKN,31.95,3,4,3,BKN,BKN,reb,0,False,False,,Nets Rebound,90-67,90,67
 0021900137,2019-11-10,PHX,BKN,31.95,3,4,3,BKN,PHX,block,5,True,False,block,block,90-67,90,67
+0021900137,2019-11-10,PHX,BKN,31.95,3,4,3,BKN,BKN,reb,0,False,False,,Nets Rebound,90-67,90,67
 0021900137,2019-11-10,PHX,BKN,32.0,3,4,0,BKN,BKN,fg_miss,5,False,False,,MISS LeVert 1' Layup,90-67,90,67
 0021900137,2019-11-10,PHX,BKN,32.03,3,3,58,PHX,PHX,reb,0,False,False,Kaminsky REBOUND (Off:0 Def:4),,90-67,90,67
 0021900137,2019-11-10,PHX,BKN,32.12,3,3,53,PHX,PHX,fg3_make,79,False,False,Booker 26' 3PT Pullup Jump Shot (17 PTS) (Johnson 1 AST),,93-67,93,67
@@ -320,8 +320,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900137,2019-11-10,PHX,BKN,36.0,3,0,0,BKN,,period_end,0,False,False,,,106-80,106,80
 0021900137,2019-11-10,PHX,BKN,36.0,4,12,0,BKN,,period_start,0,False,False,,,106-80,106,80
 0021900137,2019-11-10,PHX,BKN,36.17,4,11,50,BKN,BKN,fg_miss,6,True,False,,MISS Dinwiddie 4' Driving Layup,106-80,106,80
-0021900137,2019-11-10,PHX,BKN,36.17,4,11,50,BKN,BKN,reb,0,False,False,,Nets Rebound,106-80,106,80
 0021900137,2019-11-10,PHX,BKN,36.17,4,11,50,BKN,PHX,block,6,True,False,block,block,106-80,106,80
+0021900137,2019-11-10,PHX,BKN,36.17,4,11,50,BKN,BKN,reb,0,False,False,,Nets Rebound,106-80,106,80
 0021900137,2019-11-10,PHX,BKN,36.37,4,11,38,BKN,BKN,fg_make,78,False,False,,Irving 9' Floating Jump Shot (13 PTS) (Dinwiddie 5 AST),106-82,106,82
 0021900137,2019-11-10,PHX,BKN,36.58,4,11,25,PHX,PHX,fg3_miss,1,False,False,MISS Johnson 26' 3PT Jump Shot,,106-82,106,82
 0021900137,2019-11-10,PHX,BKN,36.63,4,11,22,BKN,BKN,reb,0,False,False,,Dinwiddie REBOUND (Off:0 Def:3),106-82,106,82
@@ -389,10 +389,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900137,2019-11-10,PHX,BKN,43.5,4,4,30,BKN,BKN,fg3_miss,1,False,False,,MISS Pinson 26' 3PT Jump Shot,122-97,122,97
 0021900137,2019-11-10,PHX,BKN,43.57,4,4,26,PHX,PHX,reb,0,False,False,Kaminsky REBOUND (Off:0 Def:6),,122-97,122,97
 0021900137,2019-11-10,PHX,BKN,43.78,4,4,13,PHX,PHX,fg_make,79,False,False,Johnson 20' Pullup Jump Shot (15 PTS) (Bridges 1 AST),,124-97,124,97
-0021900137,2019-11-10,PHX,BKN,44.22,4,3,47,BKN,BKN,tov,1,False,True,,Musa Bad Pass Turnover (P2.T16),124-97,124,97
 0021900137,2019-11-10,PHX,BKN,44.22,4,3,47,,PHX,jump_ball,0,False,False,Jump Ball Johnson vs. Kurucs: Tip to Musa,,124-97,124,97
-0021900137,2019-11-10,PHX,BKN,44.22,4,3,47,PHX,PHX,tov,2,False,True,Johnson Lost Ball Turnover (P1.T7),,124-97,124,97
+0021900137,2019-11-10,PHX,BKN,44.22,4,3,47,BKN,BKN,tov,1,False,True,,Musa Bad Pass Turnover (P2.T16),124-97,124,97
 0021900137,2019-11-10,PHX,BKN,44.22,4,3,47,BKN,PHX,steal,1,False,True,steal,steal,124-97,124,97
+0021900137,2019-11-10,PHX,BKN,44.22,4,3,47,PHX,PHX,tov,2,False,True,Johnson Lost Ball Turnover (P1.T7),,124-97,124,97
 0021900137,2019-11-10,PHX,BKN,44.22,4,3,47,PHX,BKN,steal,2,False,True,steal,steal,124-97,124,97
 0021900137,2019-11-10,PHX,BKN,44.25,4,3,45,BKN,BKN,fg_make,6,False,False,,Musa Driving Layup (10 PTS),124-99,124,99
 0021900137,2019-11-10,PHX,BKN,44.4,4,3,36,PHX,BKN,foul,2,False,False,,Nwaba S.FOUL (P4.T4) (K.Mauer),124-99,124,99

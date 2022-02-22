@@ -43,8 +43,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900794,2020-02-10,IND,BKN,6.05,1,5,57,IND,IND,fg3_miss,1,False,False,MISS Turner 29' 3PT Jump Shot,,17-17,17,17
 0021900794,2020-02-10,IND,BKN,6.1,1,5,54,BKN,BKN,reb,0,False,False,,Dinwiddie REBOUND (Off:0 Def:1),17-17,17,17
 0021900794,2020-02-10,IND,BKN,6.27,1,5,44,BKN,BKN,fg_miss,6,True,False,,MISS Harris 3' Driving Layup,17-17,17,17
-0021900794,2020-02-10,IND,BKN,6.27,1,5,44,BKN,BKN,reb,0,False,False,,Nets Rebound,17-17,17,17
 0021900794,2020-02-10,IND,BKN,6.27,1,5,44,BKN,IND,block,6,True,False,block,block,17-17,17,17
+0021900794,2020-02-10,IND,BKN,6.27,1,5,44,BKN,BKN,reb,0,False,False,,Nets Rebound,17-17,17,17
 0021900794,2020-02-10,IND,BKN,6.42,1,5,35,BKN,BKN,fg_miss,75,False,False,,MISS Prince Driving Finger Roll Layup,17-17,17,17
 0021900794,2020-02-10,IND,BKN,6.48,1,5,31,IND,IND,reb,0,False,False,Brogdon REBOUND (Off:0 Def:2),,17-17,17,17
 0021900794,2020-02-10,IND,BKN,6.6,1,5,24,IND,IND,fg3_miss,1,False,False,MISS Turner 3PT Jump Shot,,17-17,17,17
@@ -76,10 +76,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900794,2020-02-10,IND,BKN,8.72,1,3,17,BKN,BKN,fg_miss,86,False,False,,MISS Dinwiddie 15' Turnaround Fadeaway Shot,19-22,19,22
 0021900794,2020-02-10,IND,BKN,8.77,1,3,14,IND,IND,reb,0,False,False,Lamb REBOUND (Off:0 Def:1),,19-22,19,22
 0021900794,2020-02-10,IND,BKN,8.9,1,3,6,IND,IND,tov,2,False,True,Lamb Lost Ball Turnover (P1.T3),,19-22,19,22
+0021900794,2020-02-10,IND,BKN,8.9,1,3,6,IND,BKN,steal,2,False,True,steal,steal,19-22,19,22
 0021900794,2020-02-10,IND,BKN,8.9,1,3,6,BKN,IND,foul,1,False,False,Lamb P.FOUL (P1.PN) (K.Cutler),,19-22,19,22
 0021900794,2020-02-10,IND,BKN,8.9,1,3,6,BKN,BKN,ft_miss,11,False,False,,MISS Luwawu-Cabarrot Free Throw 1 of 2,19-22,19,22
 0021900794,2020-02-10,IND,BKN,8.9,1,3,6,BKN,BKN,reb,1,False,False,,Nets Rebound,19-22,19,22
-0021900794,2020-02-10,IND,BKN,8.9,1,3,6,IND,BKN,steal,2,False,True,steal,steal,19-22,19,22
 0021900794,2020-02-10,IND,BKN,8.9,1,3,6,BKN,BKN,ft_make,12,False,False,,Luwawu-Cabarrot Free Throw 2 of 2 (1 PTS),19-23,19,23
 0021900794,2020-02-10,IND,BKN,9.1,1,2,54,IND,IND,fg_miss,86,False,False,MISS Warren 11' Turnaround Fadeaway Shot,,19-23,19,23
 0021900794,2020-02-10,IND,BKN,9.17,1,2,50,BKN,BKN,reb,0,False,False,,Temple REBOUND (Off:0 Def:1),19-23,19,23
@@ -105,10 +105,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900794,2020-02-10,IND,BKN,11.52,1,0,29,BKN,BKN,fg_make,107,False,False,,Jordan 1' Tip Dunk Shot (2 PTS),26-30,26,30
 0021900794,2020-02-10,IND,BKN,11.73,1,0,16,IND,IND,fg_make,79,False,False,Lamb 19' Pullup Jump Shot (2 PTS),,28-30,28,30
 0021900794,2020-02-10,IND,BKN,12.0,1,0,0,BKN,BKN,fg3_miss,1,True,False,,MISS Temple 25' 3PT Jump Shot,28-30,28,30
+0021900794,2020-02-10,IND,BKN,12.0,1,0,0,BKN,IND,block,1,True,False,block,block,28-30,28,30
 0021900794,2020-02-10,IND,BKN,12.0,1,0,0,IND,IND,reb,0,False,False,PACERS Rebound,,28-30,28,30
 0021900794,2020-02-10,IND,BKN,12.0,1,0,0,IND,,period_end,0,False,False,,,28-30,28,30
 0021900794,2020-02-10,IND,BKN,12.0,2,12,0,IND,,period_start,0,False,False,,,28-30,28,30
-0021900794,2020-02-10,IND,BKN,12.0,1,0,0,BKN,IND,block,1,True,False,block,block,28-30,28,30
 0021900794,2020-02-10,IND,BKN,12.2,2,11,48,IND,IND,fg3_miss,1,False,False,MISS Holiday 29' 3PT Jump Shot,,28-30,28,30
 0021900794,2020-02-10,IND,BKN,12.25,2,11,45,BKN,BKN,reb,0,False,False,,Jordan REBOUND (Off:1 Def:2),28-30,28,30
 0021900794,2020-02-10,IND,BKN,12.48,2,11,31,BKN,BKN,fg_miss,63,False,False,,MISS LeVert 14' Fadeaway Jumper,28-30,28,30
@@ -232,8 +232,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900794,2020-02-10,IND,BKN,27.13,3,8,52,IND,BKN,block,73,True,False,block,block,57-63,57,63
 0021900794,2020-02-10,IND,BKN,27.2,3,8,48,IND,IND,reb,0,False,False,Oladipo REBOUND (Off:1 Def:1),,57-63,57,63
 0021900794,2020-02-10,IND,BKN,27.33,3,8,40,IND,IND,fg_miss,6,True,False,MISS Brogdon 2' Driving Layup,,57-63,57,63
-0021900794,2020-02-10,IND,BKN,27.33,3,8,40,IND,IND,reb,0,False,False,PACERS Rebound,,57-63,57,63
 0021900794,2020-02-10,IND,BKN,27.33,3,8,40,IND,BKN,block,6,True,False,block,block,57-63,57,63
+0021900794,2020-02-10,IND,BKN,27.33,3,8,40,IND,IND,reb,0,False,False,PACERS Rebound,,57-63,57,63
 0021900794,2020-02-10,IND,BKN,27.38,3,8,37,IND,IND,fg3_miss,80,False,False,MISS Holiday 25' 3PT Step Back Jump Shot,,57-63,57,63
 0021900794,2020-02-10,IND,BKN,27.43,3,8,34,BKN,BKN,reb,0,False,False,,Allen REBOUND (Off:2 Def:5),57-63,57,63
 0021900794,2020-02-10,IND,BKN,27.53,3,8,28,BKN,BKN,fg_miss,75,False,False,,MISS Dinwiddie 2' Driving Finger Roll Layup,57-63,57,63
@@ -353,8 +353,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900794,2020-02-10,IND,BKN,39.68,4,8,19,BKN,BKN,fg_miss,80,False,False,,MISS Temple 21' Step Back Jump Shot,89-85,89,85
 0021900794,2020-02-10,IND,BKN,39.75,4,8,15,IND,IND,reb,0,False,False,Holiday REBOUND (Off:3 Def:3),,89-85,89,85
 0021900794,2020-02-10,IND,BKN,39.87,4,8,8,IND,IND,fg_miss,78,True,False,MISS Lamb 8' Floating Jump Shot,,89-85,89,85
-0021900794,2020-02-10,IND,BKN,39.87,4,8,8,BKN,BKN,reb,0,False,False,,Jordan REBOUND (Off:4 Def:10),89-85,89,85
 0021900794,2020-02-10,IND,BKN,39.87,4,8,8,IND,BKN,block,78,True,False,block,block,89-85,89,85
+0021900794,2020-02-10,IND,BKN,39.87,4,8,8,BKN,BKN,reb,0,False,False,,Jordan REBOUND (Off:4 Def:10),89-85,89,85
 0021900794,2020-02-10,IND,BKN,39.92,4,8,5,BKN,IND,foul,28,False,False,McConnell Personal Take Foul (P3.T1) (J.Van Duyne),,89-85,89,85
 0021900794,2020-02-10,IND,BKN,40.07,4,7,56,BKN,BKN,fg_miss,63,False,False,,MISS Prince 19' Fadeaway Jumper,89-85,89,85
 0021900794,2020-02-10,IND,BKN,40.15,4,7,51,IND,IND,reb,0,False,False,Holiday REBOUND (Off:3 Def:4),,89-85,89,85

@@ -70,8 +70,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800678,2019-01-19,PHI,OKC,7.2,1,4,48,PHI,PHI,tov,45,False,False,Bolden Out of Bounds - Bad Pass Turnover Turnover (P1.T4),,13-25,13,25
 0021800678,2019-01-19,PHI,OKC,7.38,1,4,37,OKC,OKC,fg_make,75,False,False,,Westbrook 3' Driving Finger Roll Layup (8 PTS),13-27,13,27
 0021800678,2019-01-19,PHI,OKC,7.53,1,4,28,PHI,PHI,fg_miss,6,True,False,MISS Simmons 3' Driving Layup,,13-27,13,27
-0021800678,2019-01-19,PHI,OKC,7.53,1,4,28,OKC,OKC,reb,0,False,False,,Thunder Rebound,13-27,13,27
 0021800678,2019-01-19,PHI,OKC,7.53,1,4,28,PHI,OKC,block,6,True,False,block,block,13-27,13,27
+0021800678,2019-01-19,PHI,OKC,7.53,1,4,28,OKC,OKC,reb,0,False,False,,Thunder Rebound,13-27,13,27
 0021800678,2019-01-19,PHI,OKC,7.67,1,4,20,OKC,OKC,fg_miss,79,False,False,,MISS Westbrook 16' Pullup Jump Shot,13-27,13,27
 0021800678,2019-01-19,PHI,OKC,7.72,1,4,17,PHI,PHI,reb,0,False,False,Bolden REBOUND (Off:0 Def:2),,13-27,13,27
 0021800678,2019-01-19,PHI,OKC,8.07,1,3,56,PHI,PHI,fg_make,79,False,False,Butler 17' Pullup Jump Shot (4 PTS) (Bolden 1 AST),,15-27,15,27
@@ -120,9 +120,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800678,2019-01-19,PHI,OKC,12.0,1,0,0,OKC,,period_end,0,False,False,,,25-33,25,33
 0021800678,2019-01-19,PHI,OKC,12.0,2,12,0,OKC,,period_start,0,False,False,,,25-33,25,33
 0021800678,2019-01-19,PHI,OKC,12.4,2,11,36,PHI,PHI,fg_miss,5,True,False,MISS Muscala 2' Layup,,25-33,25,33
-0021800678,2019-01-19,PHI,OKC,12.4,2,11,36,PHI,PHI,reb,0,False,False,76ERS Rebound,,25-33,25,33
-0021800678,2019-01-19,PHI,OKC,12.4,2,11,36,PHI,PHI,tov,11,False,False,76ERS Turnover: Shot Clock (T#6),,25-33,25,33
 0021800678,2019-01-19,PHI,OKC,12.4,2,11,36,PHI,OKC,block,5,True,False,block,block,25-33,25,33
+0021800678,2019-01-19,PHI,OKC,12.4,2,11,36,PHI,PHI,tov,11,False,False,76ERS Turnover: Shot Clock (T#6),,25-33,25,33
+0021800678,2019-01-19,PHI,OKC,12.4,2,11,36,PHI,PHI,reb,0,False,False,76ERS Rebound,,25-33,25,33
 0021800678,2019-01-19,PHI,OKC,12.7,2,11,18,OKC,OKC,fg_make,44,False,False,,Adams 1' Reverse Layup (10 PTS),25-35,25,35
 0021800678,2019-01-19,PHI,OKC,13.03,2,10,58,PHI,PHI,fg_make,5,False,False,Embiid 3' Layup (7 PTS),,27-35,27,35
 0021800678,2019-01-19,PHI,OKC,13.22,2,10,47,OKC,OKC,fg_make,52,False,False,,Adams 2' Alley Oop Dunk (12 PTS) (Schroder 1 AST),27-37,27,37
@@ -170,9 +170,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800678,2019-01-19,PHI,OKC,17.8,2,6,12,PHI,PHI,reb,0,False,False,76ERS Rebound,,44-48,44,48
 0021800678,2019-01-19,PHI,OKC,18.02,2,5,59,PHI,PHI,fg3_make,1,False,False,Bolden 25' 3PT Jump Shot (3 PTS) (Redick 1 AST),,47-48,47,48
 0021800678,2019-01-19,PHI,OKC,18.3,2,5,42,OKC,OKC,fg_miss,101,True,False,,MISS Schroder 7' Driving Floating Jump Shot,47-48,47,48
+0021800678,2019-01-19,PHI,OKC,18.3,2,5,42,OKC,PHI,block,101,True,False,block,block,47-48,47,48
 0021800678,2019-01-19,PHI,OKC,18.3,2,5,42,OKC,OKC,reb,0,False,False,,Thunder Rebound,47-48,47,48
 0021800678,2019-01-19,PHI,OKC,18.3,2,5,42,OKC,OKC,timeout,1,False,False,,Thunder Timeout: Regular (Reg.2 Short 0),47-48,47,48
-0021800678,2019-01-19,PHI,OKC,18.3,2,5,42,OKC,PHI,block,101,True,False,block,block,47-48,47,48
 0021800678,2019-01-19,PHI,OKC,18.37,2,5,38,OKC,OKC,fg3_miss,1,False,False,,MISS George 24' 3PT Jump Shot,47-48,47,48
 0021800678,2019-01-19,PHI,OKC,18.47,2,5,32,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:1 Def:2),,47-48,47,48
 0021800678,2019-01-19,PHI,OKC,18.7,2,5,18,PHI,PHI,tov,1,False,True,Redick Bad Pass Turnover (P1.T8),,47-48,47,48
@@ -232,10 +232,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800678,2019-01-19,PHI,OKC,23.55,2,0,27,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:4),,53-59,53,59
 0021800678,2019-01-19,PHI,OKC,23.85,2,0,9,PHI,PHI,fg3_make,79,False,False,Redick 26' 3PT Pullup Jump Shot (13 PTS) (Embiid 3 AST),,56-59,56,59
 0021800678,2019-01-19,PHI,OKC,24.0,2,0,0,OKC,OKC,fg3_miss,1,True,False,,MISS Westbrook 25' 3PT Jump Shot,56-59,56,59
+0021800678,2019-01-19,PHI,OKC,24.0,2,0,0,OKC,PHI,block,1,True,False,block,block,56-59,56,59
 0021800678,2019-01-19,PHI,OKC,24.0,2,0,0,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:4 Def:4),,56-59,56,59
 0021800678,2019-01-19,PHI,OKC,24.0,2,0,0,PHI,,period_end,0,False,False,,,56-59,56,59
 0021800678,2019-01-19,PHI,OKC,24.0,3,12,0,PHI,,period_start,0,False,False,,,56-59,56,59
-0021800678,2019-01-19,PHI,OKC,24.0,2,0,0,OKC,PHI,block,1,True,False,block,block,56-59,56,59
 0021800678,2019-01-19,PHI,OKC,24.42,3,11,35,PHI,PHI,fg_miss,63,False,False,MISS Butler 22' Fadeaway Jumper,,56-59,56,59
 0021800678,2019-01-19,PHI,OKC,24.47,3,11,32,OKC,OKC,reb,0,False,False,,Grant REBOUND (Off:0 Def:5),56-59,56,59
 0021800678,2019-01-19,PHI,OKC,24.6,3,11,24,OKC,OKC,fg3_miss,79,False,False,,MISS George 26' 3PT Pullup Jump Shot,56-59,56,59
@@ -303,9 +303,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800678,2019-01-19,PHI,OKC,31.33,3,4,40,OKC,OKC,ft_make,11,False,False,,Grant Free Throw 1 of 2 (7 PTS),67-74,67,74
 0021800678,2019-01-19,PHI,OKC,31.33,3,4,40,OKC,OKC,ft_make,12,False,False,,Grant Free Throw 2 of 2 (8 PTS),67-75,67,75
 0021800678,2019-01-19,PHI,OKC,31.5,3,4,30,PHI,PHI,fg_make,5,False,False,Simmons 3' Layup (13 PTS) (Butler 2 AST),,69-75,69,75
-0021800678,2019-01-19,PHI,OKC,31.68,3,4,19,OKC,PHI,foul,2,False,False,Bolden S.FOUL (P2.T4) (J.DeRosa),,69-75,69,75
 0021800678,2019-01-19,PHI,OKC,31.68,3,4,19,OKC,OKC,ft_make,11,False,False,,George Free Throw 1 of 2 (14 PTS),69-76,69,76
 0021800678,2019-01-19,PHI,OKC,31.68,3,4,19,OKC,OKC,ft_make,12,False,False,,George Free Throw 2 of 2 (15 PTS),69-77,69,77
+0021800678,2019-01-19,PHI,OKC,31.68,3,4,19,OKC,PHI,foul,2,False,False,Bolden S.FOUL (P2.T4) (J.DeRosa),,69-75,69,75
 0021800678,2019-01-19,PHI,OKC,31.87,3,4,8,PHI,PHI,fg_make,52,False,False,Simmons 1' Alley Oop Dunk (15 PTS) (McConnell 3 AST),,71-77,71,77
 0021800678,2019-01-19,PHI,OKC,32.17,3,3,50,OKC,OKC,fg_miss,79,False,False,,MISS Schroder 15' Pullup Jump Shot,71-77,71,77
 0021800678,2019-01-19,PHI,OKC,32.17,3,3,50,PHI,PHI,reb,0,False,False,Bolden REBOUND (Off:1 Def:3),,71-77,71,77
@@ -319,10 +319,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800678,2019-01-19,PHI,OKC,32.83,3,3,10,OKC,OKC,fg_make,43,False,False,,Noel 1' Alley Oop Layup (4 PTS) (George 4 AST),71-79,71,79
 0021800678,2019-01-19,PHI,OKC,33.25,3,2,45,PHI,PHI,fg_miss,5,False,False,MISS Butler 4' Layup,,71-79,71,79
 0021800678,2019-01-19,PHI,OKC,33.25,3,2,45,OKC,OKC,reb,0,False,False,,Schroder REBOUND (Off:0 Def:3),71-79,71,79
-0021800678,2019-01-19,PHI,OKC,33.38,3,2,37,OKC,PHI,foul,2,False,False,Shamet S.FOUL (P1.PN) (M.Davis),,71-79,71,79
 0021800678,2019-01-19,PHI,OKC,33.38,3,2,37,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 5 Short 0),,71-79,71,79
 0021800678,2019-01-19,PHI,OKC,33.38,3,2,37,PHI,OKC,ft_make,11,False,False,,Grant Free Throw 1 of 2 (9 PTS),71-80,71,80
 0021800678,2019-01-19,PHI,OKC,33.38,3,2,37,PHI,OKC,ft_make,12,False,False,,Grant Free Throw 2 of 2 (10 PTS),71-81,71,81
+0021800678,2019-01-19,PHI,OKC,33.38,3,2,37,OKC,PHI,foul,2,False,False,Shamet S.FOUL (P1.PN) (M.Davis),,71-79,71,79
 0021800678,2019-01-19,PHI,OKC,33.65,3,2,21,PHI,PHI,fg3_miss,1,False,False,MISS Redick 26' 3PT Jump Shot,,71-81,71,81
 0021800678,2019-01-19,PHI,OKC,33.73,3,2,16,OKC,OKC,reb,0,False,False,,Schroder REBOUND (Off:0 Def:4),71-81,71,81
 0021800678,2019-01-19,PHI,OKC,33.85,3,2,9,OKC,OKC,fg3_make,1,False,False,,Nader 3PT Jump Shot (3 PTS) (George 5 AST),71-84,71,84

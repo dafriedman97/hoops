@@ -31,8 +31,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800299,2018-11-26,UTA,IND,3.75,1,8,15,UTA,UTA,fg_make,52,False,False,Gobert 2' Alley Oop Dunk (4 PTS) (Ingles 1 AST),,9-13,9,13
 0021800299,2018-11-26,UTA,IND,4.1,1,7,54,IND,IND,fg_make,79,False,False,,Collison 15' Pullup Jump Shot (4 PTS),9-15,9,15
 0021800299,2018-11-26,UTA,IND,4.38,1,7,37,UTA,UTA,tov,2,False,True,Ingles Lost Ball Turnover (P2.T4),,9-15,9,15
-0021800299,2018-11-26,UTA,IND,4.38,1,7,37,IND,IND,tov,1,False,True,,Turner Bad Pass Turnover (P1.T1),9-15,9,15
 0021800299,2018-11-26,UTA,IND,4.38,1,7,37,UTA,IND,steal,2,False,True,steal,steal,9-15,9,15
+0021800299,2018-11-26,UTA,IND,4.38,1,7,37,IND,IND,tov,1,False,True,,Turner Bad Pass Turnover (P1.T1),9-15,9,15
 0021800299,2018-11-26,UTA,IND,4.38,1,7,37,IND,UTA,steal,1,False,True,steal,steal,9-15,9,15
 0021800299,2018-11-26,UTA,IND,4.45,1,7,33,UTA,UTA,fg3_make,1,False,False,Ingles 3PT Jump Shot (6 PTS) (O'Neale 1 AST),,12-15,12,15
 0021800299,2018-11-26,UTA,IND,4.73,1,7,16,IND,UTA,foul,6,False,False,Burks AWAY.FROM.PLAY.FOUL (P1.T3) (K.Scott),,12-15,12,15
@@ -67,8 +67,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800299,2018-11-26,UTA,IND,7.82,1,4,11,UTA,UTA,fg_miss,79,False,False,MISS Rubio 19' Pullup Jump Shot,,17-22,17,22
 0021800299,2018-11-26,UTA,IND,7.87,1,4,8,UTA,UTA,reb,0,False,False,Rubio REBOUND (Off:1 Def:1),,17-22,17,22
 0021800299,2018-11-26,UTA,IND,8.1,1,3,54,UTA,UTA,fg_miss,1,True,False,MISS Crowder 11' Jump Shot,,17-22,17,22
-0021800299,2018-11-26,UTA,IND,8.1,1,3,54,UTA,UTA,reb,0,False,False,JAZZ Rebound,,17-22,17,22
 0021800299,2018-11-26,UTA,IND,8.1,1,3,54,UTA,IND,block,1,True,False,block,block,17-22,17,22
+0021800299,2018-11-26,UTA,IND,8.1,1,3,54,UTA,UTA,reb,0,False,False,JAZZ Rebound,,17-22,17,22
 0021800299,2018-11-26,UTA,IND,8.15,1,3,51,UTA,UTA,tov,11,False,False,JAZZ Turnover: Shot Clock (T#6),,17-22,17,22
 0021800299,2018-11-26,UTA,IND,8.4,1,3,36,IND,IND,fg_make,5,False,False,,Sabonis 3' Layup (2 PTS) (Collison 3 AST),17-24,17,24
 0021800299,2018-11-26,UTA,IND,8.6,1,3,24,UTA,IND,foul,1,False,False,,Sabonis P.FOUL (P1.T2) (E.Malloy),17-24,17,24
@@ -110,8 +110,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800299,2018-11-26,UTA,IND,13.08,2,10,55,IND,IND,fg_miss,47,False,False,,MISS Bogdanovic 9' Turnaround Jump Shot,27-33,27,33
 0021800299,2018-11-26,UTA,IND,13.13,2,10,52,UTA,UTA,reb,0,False,False,Crowder REBOUND (Off:0 Def:3),,27-33,27,33
 0021800299,2018-11-26,UTA,IND,13.38,2,10,37,UTA,UTA,tov,1,False,True,Exum Bad Pass Turnover (P1.T7),,27-33,27,33
-0021800299,2018-11-26,UTA,IND,13.38,2,10,37,IND,UTA,foul,1,False,False,Neto P.FOUL (P1.T1) (K.Scott),,27-33,27,33
 0021800299,2018-11-26,UTA,IND,13.38,2,10,37,UTA,IND,steal,1,False,True,steal,steal,27-33,27,33
+0021800299,2018-11-26,UTA,IND,13.38,2,10,37,IND,UTA,foul,1,False,False,Neto P.FOUL (P1.T1) (K.Scott),,27-33,27,33
 0021800299,2018-11-26,UTA,IND,13.55,2,10,27,IND,IND,fg_miss,6,False,False,,MISS Sabonis 4' Driving Layup,27-33,27,33
 0021800299,2018-11-26,UTA,IND,13.6,2,10,24,UTA,UTA,reb,0,False,False,Exum REBOUND (Off:0 Def:1),,27-33,27,33
 0021800299,2018-11-26,UTA,IND,13.7,2,10,18,UTA,UTA,fg_miss,5,False,False,MISS Exum 1' Layup,,27-33,27,33
@@ -209,9 +209,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800299,2018-11-26,UTA,IND,23.48,2,0,31,IND,IND,fg_make,80,False,False,,Joseph 13' Step Back Jump Shot (10 PTS),45-58,45,58
 0021800299,2018-11-26,UTA,IND,23.87,2,0,8,UTA,UTA,fg_make,7,False,False,Gobert 2' Dunk (10 PTS) (Crowder 3 AST),,47-58,47,58
 0021800299,2018-11-26,UTA,IND,24.0,2,0,0,IND,IND,tov,1,False,True,,Bogdanovic Bad Pass Turnover (P1.T5),47-58,47,58
+0021800299,2018-11-26,UTA,IND,24.0,2,0,0,IND,UTA,steal,1,False,True,steal,steal,47-58,47,58
 0021800299,2018-11-26,UTA,IND,24.0,2,0,0,IND,,period_end,0,False,False,,,47-58,47,58
 0021800299,2018-11-26,UTA,IND,24.0,3,12,0,IND,,period_start,0,False,False,,,47-58,47,58
-0021800299,2018-11-26,UTA,IND,24.0,2,0,0,IND,UTA,steal,1,False,True,steal,steal,47-58,47,58
 0021800299,2018-11-26,UTA,IND,24.27,3,11,44,IND,IND,tov,2,False,True,,Turner Lost Ball Turnover (P3.T6),47-58,47,58
 0021800299,2018-11-26,UTA,IND,24.27,3,11,44,IND,UTA,steal,2,False,True,steal,steal,47-58,47,58
 0021800299,2018-11-26,UTA,IND,24.63,3,11,22,UTA,UTA,fg3_miss,1,False,False,MISS Favors 24' 3PT Jump Shot,,47-58,47,58
@@ -236,8 +236,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800299,2018-11-26,UTA,IND,26.98,3,9,1,IND,IND,fg3_miss,1,False,False,,MISS Bogdanovic 27' 3PT Jump Shot,54-64,54,64
 0021800299,2018-11-26,UTA,IND,26.98,3,9,1,UTA,UTA,reb,0,False,False,O'Neale REBOUND (Off:1 Def:3),,54-64,54,64
 0021800299,2018-11-26,UTA,IND,27.23,3,8,46,UTA,UTA,tov,1,False,True,Favors Bad Pass Turnover (P2.T10),,54-64,54,64
-0021800299,2018-11-26,UTA,IND,27.23,3,8,46,IND,UTA,foul,1,False,False,Favors P.FOUL (P2.T2) (J.DeRosa),,54-64,54,64
 0021800299,2018-11-26,UTA,IND,27.23,3,8,46,UTA,IND,steal,1,False,True,steal,steal,54-64,54,64
+0021800299,2018-11-26,UTA,IND,27.23,3,8,46,IND,UTA,foul,1,False,False,Favors P.FOUL (P2.T2) (J.DeRosa),,54-64,54,64
 0021800299,2018-11-26,UTA,IND,27.55,3,8,27,IND,IND,fg_make,98,False,False,,Evans 2' Cutting Layup Shot (11 PTS) (Turner 3 AST),54-66,54,66
 0021800299,2018-11-26,UTA,IND,27.72,3,8,17,UTA,UTA,tov,40,False,False,Gobert Out of Bounds Lost Ball Turnover (P1.T11),,54-66,54,66
 0021800299,2018-11-26,UTA,IND,27.93,3,8,4,IND,UTA,foul,1,False,False,O'Neale P.FOUL (P2.T3) (E.Malloy),,54-66,54,66
@@ -263,8 +263,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800299,2018-11-26,UTA,IND,30.38,3,5,37,UTA,UTA,fg_miss,6,False,False,MISS Crowder 2' Driving Layup,,60-73,60,73
 0021800299,2018-11-26,UTA,IND,30.38,3,5,37,IND,IND,reb,0,False,False,,Turner REBOUND (Off:0 Def:4),60-73,60,73
 0021800299,2018-11-26,UTA,IND,30.57,3,5,26,IND,IND,fg_miss,5,True,False,,MISS Evans 2' Layup,60-73,60,73
-0021800299,2018-11-26,UTA,IND,30.57,3,5,26,IND,IND,reb,0,False,False,,Pacers Rebound,60-73,60,73
 0021800299,2018-11-26,UTA,IND,30.57,3,5,26,IND,UTA,block,5,True,False,block,block,60-73,60,73
+0021800299,2018-11-26,UTA,IND,30.57,3,5,26,IND,IND,reb,0,False,False,,Pacers Rebound,60-73,60,73
 0021800299,2018-11-26,UTA,IND,30.72,3,5,17,IND,IND,fg_miss,1,False,False,,MISS Young 21' Jump Shot,60-73,60,73
 0021800299,2018-11-26,UTA,IND,30.78,3,5,13,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:2 Def:4),,60-73,60,73
 0021800299,2018-11-26,UTA,IND,30.88,3,5,7,UTA,UTA,fg_miss,79,False,False,MISS Burks 15' Pullup Jump Shot,,60-73,60,73

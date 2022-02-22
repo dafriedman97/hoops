@@ -48,8 +48,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800603,2019-01-08,OKC,MIN,5.42,1,6,35,OKC,OKC,reb,0,False,False,George REBOUND (Off:1 Def:0),,12-12,12,12
 0021800603,2019-01-08,OKC,MIN,5.43,1,6,34,OKC,OKC,fg_make,72,False,False,George 1' Putback Layup (7 PTS),,14-12,14,12
 0021800603,2019-01-08,OKC,MIN,5.57,1,6,26,MIN,MIN,fg_miss,6,True,False,,MISS Wiggins 1' Driving Layup,14-12,14,12
-0021800603,2019-01-08,OKC,MIN,5.57,1,6,26,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:0 Def:3),,14-12,14,12
 0021800603,2019-01-08,OKC,MIN,5.57,1,6,26,MIN,OKC,block,6,True,False,block,block,14-12,14,12
+0021800603,2019-01-08,OKC,MIN,5.57,1,6,26,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:0 Def:3),,14-12,14,12
 0021800603,2019-01-08,OKC,MIN,5.73,1,6,16,OKC,OKC,fg_miss,1,False,False,MISS George 17' Jump Shot,,14-12,14,12
 0021800603,2019-01-08,OKC,MIN,5.78,1,6,13,MIN,MIN,reb,0,False,False,,Teague REBOUND (Off:0 Def:1),14-12,14,12
 0021800603,2019-01-08,OKC,MIN,5.93,1,6,4,MIN,MIN,fg_miss,79,False,False,,MISS Teague 12' Pullup Jump Shot,14-12,14,12
@@ -152,10 +152,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800603,2019-01-08,OKC,MIN,15.92,2,8,5,MIN,MIN,fg_make,6,False,False,,Jones 1' Driving Layup (2 PTS),33-44,33,44
 0021800603,2019-01-08,OKC,MIN,16.08,2,7,55,OKC,OKC,fg_make,98,False,False,Diallo 1' Cutting Layup Shot (4 PTS) (Schroder 3 AST),,35-44,35,44
 0021800603,2019-01-08,OKC,MIN,16.38,2,7,37,MIN,MIN,fg_make,108,False,False,,Towns Cutting Dunk Shot (8 PTS) (Tolliver 2 AST),35-46,35,46
-0021800603,2019-01-08,OKC,MIN,16.58,2,7,25,OKC,OKC,tov,2,False,False,Adams Lost Ball Turnover (P1.T6),,35-46,35,46
 0021800603,2019-01-08,OKC,MIN,16.58,2,7,25,MIN,OKC,foul,3,False,False,Schroder L.B.FOUL (P3.PN) (K.Fitzgerald),,35-46,35,46
 0021800603,2019-01-08,OKC,MIN,16.58,2,7,25,MIN,MIN,ft_make,11,False,False,,Jones Free Throw 1 of 2 (3 PTS),35-47,35,47
 0021800603,2019-01-08,OKC,MIN,16.58,2,7,25,MIN,MIN,ft_make,12,False,False,,Jones Free Throw 2 of 2 (4 PTS),35-48,35,48
+0021800603,2019-01-08,OKC,MIN,16.58,2,7,25,OKC,OKC,tov,2,False,False,Adams Lost Ball Turnover (P1.T6),,35-46,35,46
 0021800603,2019-01-08,OKC,MIN,16.72,2,7,17,OKC,OKC,fg3_make,1,False,False,Patterson 25' 3PT Jump Shot (3 PTS) (Westbrook 4 AST),,38-48,38,48
 0021800603,2019-01-08,OKC,MIN,16.92,2,7,5,OKC,MIN,foul,4,False,False,,Saric OFF.Foul (P1) (B.Taylor),38-48,38,48
 0021800603,2019-01-08,OKC,MIN,16.92,2,7,5,MIN,MIN,tov,37,False,False,,Saric Offensive Foul Turnover (P1.T2),38-48,38,48
@@ -308,9 +308,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800603,2019-01-08,OKC,MIN,31.75,3,4,15,MIN,MIN,timeout,1,False,False,,Timberwolves Timeout: Regular (Reg.3 Short 0),85-79,85,79
 0021800603,2019-01-08,OKC,MIN,31.75,3,4,15,MIN,,foul,16,False,False,,,85-79,85,79
 0021800603,2019-01-08,OKC,MIN,31.75,3,4,15,OKC,MIN,foul,11,False,False,,Teague T.FOUL (P0.T3) (K.Fitzgerald),85-79,85,79
-0021800603,2019-01-08,OKC,MIN,31.75,3,4,15,OKC,MIN,ejection,4,False,False,,Teague Ejection:Other,85-79,85,79
 0021800603,2019-01-08,OKC,MIN,31.75,3,4,15,OKC,OKC,ft_miss,16,False,False,MISS George Free Throw Technical,,85-79,85,79
 0021800603,2019-01-08,OKC,MIN,31.75,3,4,15,MIN,MIN,reb,1,False,False,,Timberwolves Rebound,85-79,85,79
+0021800603,2019-01-08,OKC,MIN,31.75,3,4,15,OKC,MIN,ejection,4,False,False,,Teague Ejection:Other,85-79,85,79
 0021800603,2019-01-08,OKC,MIN,31.93,3,4,4,MIN,MIN,fg_miss,79,False,False,,MISS Wiggins 18' Pullup Jump Shot,85-79,85,79
 0021800603,2019-01-08,OKC,MIN,31.98,3,4,1,MIN,MIN,reb,0,False,False,,Saric REBOUND (Off:3 Def:2),85-79,85,79
 0021800603,2019-01-08,OKC,MIN,32.02,3,3,59,MIN,MIN,fg_miss,72,True,False,,MISS Saric 1' Putback Layup,85-79,85,79
@@ -358,10 +358,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800603,2019-01-08,OKC,MIN,35.97,3,0,2,MIN,MIN,fg_miss,6,False,False,,MISS Jones 1' Driving Layup,93-96,93,96
 0021800603,2019-01-08,OKC,MIN,35.98,3,0,1,OKC,OKC,reb,0,False,False,Nader REBOUND (Off:0 Def:1),,93-96,93,96
 0021800603,2019-01-08,OKC,MIN,36.0,3,0,0,OKC,OKC,fg3_miss,2,True,False,MISS George 53' 3PT Running Jump Shot,,93-96,93,96
+0021800603,2019-01-08,OKC,MIN,36.0,3,0,0,OKC,MIN,block,2,True,False,block,block,93-96,93,96
 0021800603,2019-01-08,OKC,MIN,36.0,3,0,0,OKC,OKC,reb,0,False,False,THUNDER Rebound,,93-96,93,96
 0021800603,2019-01-08,OKC,MIN,36.0,3,0,0,OKC,,period_end,0,False,False,,,93-96,93,96
 0021800603,2019-01-08,OKC,MIN,36.0,4,12,0,OKC,,period_start,0,False,False,,,93-96,93,96
-0021800603,2019-01-08,OKC,MIN,36.0,3,0,0,OKC,MIN,block,2,True,False,block,block,93-96,93,96
 0021800603,2019-01-08,OKC,MIN,36.27,4,11,44,MIN,MIN,fg_miss,1,False,False,,MISS Towns 17' Jump Shot,93-96,93,96
 0021800603,2019-01-08,OKC,MIN,36.33,4,11,40,OKC,OKC,reb,0,False,False,THUNDER Rebound,,93-96,93,96
 0021800603,2019-01-08,OKC,MIN,36.6,4,11,24,OKC,OKC,tov,4,False,False,Nader Traveling Turnover (P1.T12),,93-96,93,96

@@ -18,8 +18,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701102,2018-03-25,GSW,UTA,2.13,1,9,52,GSW,UTA,block,98,True,False,block,block,4-3,4,3
 0021701102,2018-03-25,GSW,UTA,2.2,1,9,48,UTA,UTA,reb,0,False,False,,Rubio REBOUND (Off:0 Def:1),4-3,4,3
 0021701102,2018-03-25,GSW,UTA,2.42,1,9,35,UTA,UTA,fg_miss,75,True,False,,MISS Rubio 6' Driving Finger Roll Layup,4-3,4,3
-0021701102,2018-03-25,GSW,UTA,2.42,1,9,35,UTA,UTA,reb,0,False,False,,Jazz Rebound,4-3,4,3
 0021701102,2018-03-25,GSW,UTA,2.42,1,9,35,UTA,GSW,block,75,True,False,block,block,4-3,4,3
+0021701102,2018-03-25,GSW,UTA,2.42,1,9,35,UTA,UTA,reb,0,False,False,,Jazz Rebound,4-3,4,3
 0021701102,2018-03-25,GSW,UTA,2.43,1,9,34,UTA,UTA,fg3_miss,1,False,False,,MISS Ingles 26' 3PT Jump Shot,4-3,4,3
 0021701102,2018-03-25,GSW,UTA,2.45,1,9,33,GSW,GSW,reb,0,False,False,Cook REBOUND (Off:0 Def:1),,4-3,4,3
 0021701102,2018-03-25,GSW,UTA,2.57,1,9,26,GSW,GSW,fg_miss,1,False,False,MISS McGee 13' Jump Shot,,4-3,4,3
@@ -165,8 +165,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701102,2018-03-25,GSW,UTA,20.53,2,3,28,GSW,UTA,block,5,True,False,block,block,38-43,38,43
 0021701102,2018-03-25,GSW,UTA,20.58,2,3,25,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:1 Def:3),38-43,38,43
 0021701102,2018-03-25,GSW,UTA,20.75,2,3,15,UTA,UTA,tov,1,False,True,,Rubio Bad Pass Turnover (P2.T6),38-43,38,43
-0021701102,2018-03-25,GSW,UTA,20.75,2,3,15,GSW,UTA,foul,1,False,False,,Mitchell P.FOUL (P2.T2) (D.Guthrie),38-43,38,43
 0021701102,2018-03-25,GSW,UTA,20.75,2,3,15,UTA,GSW,steal,1,False,True,steal,steal,38-43,38,43
+0021701102,2018-03-25,GSW,UTA,20.75,2,3,15,GSW,UTA,foul,1,False,False,,Mitchell P.FOUL (P2.T2) (D.Guthrie),38-43,38,43
 0021701102,2018-03-25,GSW,UTA,21.0,2,3,0,GSW,GSW,fg_make,63,False,False,Cook 17' Fadeaway Jumper (8 PTS),,40-43,40,43
 0021701102,2018-03-25,GSW,UTA,21.27,2,2,44,UTA,UTA,fg_miss,1,False,False,,MISS Ingles 21' Jump Shot,40-43,40,43
 0021701102,2018-03-25,GSW,UTA,21.28,2,2,43,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:2 Def:3),40-43,40,43
@@ -191,8 +191,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701102,2018-03-25,GSW,UTA,22.88,2,1,7,GSW,GSW,fg_miss,75,False,False,MISS Iguodala 1' Driving Finger Roll Layup,,40-50,40,50
 0021701102,2018-03-25,GSW,UTA,22.9,2,1,6,GSW,GSW,reb,0,False,False,McGee REBOUND (Off:2 Def:3),,40-50,40,50
 0021701102,2018-03-25,GSW,UTA,22.9,2,1,6,GSW,GSW,fg_miss,97,False,False,MISS McGee 1' Tip Layup Shot,,40-50,40,50
-0021701102,2018-03-25,GSW,UTA,22.92,2,1,5,GSW,GSW,fg_miss,97,True,False,MISS McGee 2' Tip Layup Shot,,40-50,40,50
 0021701102,2018-03-25,GSW,UTA,22.92,2,1,5,GSW,GSW,reb,0,False,False,McGee REBOUND (Off:3 Def:3),,40-50,40,50
+0021701102,2018-03-25,GSW,UTA,22.92,2,1,5,GSW,GSW,fg_miss,97,True,False,MISS McGee 2' Tip Layup Shot,,40-50,40,50
 0021701102,2018-03-25,GSW,UTA,22.92,2,1,5,GSW,UTA,block,97,True,False,block,block,40-50,40,50
 0021701102,2018-03-25,GSW,UTA,22.93,2,1,4,GSW,GSW,reb,0,False,False,Iguodala REBOUND (Off:1 Def:1),,40-50,40,50
 0021701102,2018-03-25,GSW,UTA,22.95,2,1,3,GSW,UTA,violation,5,False,False,,Gobert Violation:Kicked Ball (D.Guthrie),40-50,40,50
@@ -229,8 +229,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701102,2018-03-25,GSW,UTA,26.0,3,10,0,GSW,GSW,fg_miss,75,False,False,MISS Looney 2' Driving Finger Roll Layup,,50-61,50,61
 0021701102,2018-03-25,GSW,UTA,26.02,3,9,59,UTA,UTA,reb,0,False,False,,Jazz Rebound,50-61,50,61
 0021701102,2018-03-25,GSW,UTA,26.22,3,9,47,UTA,UTA,fg_miss,75,True,False,,MISS Rubio 8' Driving Finger Roll Layup,50-61,50,61
-0021701102,2018-03-25,GSW,UTA,26.22,3,9,47,UTA,UTA,reb,0,False,False,,Jazz Rebound,50-61,50,61
 0021701102,2018-03-25,GSW,UTA,26.22,3,9,47,UTA,GSW,block,75,True,False,block,block,50-61,50,61
+0021701102,2018-03-25,GSW,UTA,26.22,3,9,47,UTA,UTA,reb,0,False,False,,Jazz Rebound,50-61,50,61
 0021701102,2018-03-25,GSW,UTA,26.37,3,9,38,UTA,UTA,fg_make,78,False,False,,Mitchell 5' Floating Jump Shot (10 PTS) (Ingles 5 AST),50-63,50,63
 0021701102,2018-03-25,GSW,UTA,26.47,3,9,32,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 4 Short 0),,50-63,50,63
 0021701102,2018-03-25,GSW,UTA,26.73,3,9,16,GSW,GSW,fg3_miss,79,False,False,MISS Cook 26' 3PT Pullup Jump Shot,,50-63,50,63
@@ -259,8 +259,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701102,2018-03-25,GSW,UTA,28.85,3,7,9,GSW,UTA,foul,1,False,False,,Rubio P.FOUL (P3.T2) (S.Wall),52-71,52,71
 0021701102,2018-03-25,GSW,UTA,28.9,3,7,6,GSW,GSW,tov,40,False,False,McCaw Out of Bounds Lost Ball Turnover (P3.T6),,52-71,52,71
 0021701102,2018-03-25,GSW,UTA,29.0,3,7,0,UTA,UTA,tov,2,False,True,,Ingles Lost Ball Turnover (P2.T8),52-71,52,71
-0021701102,2018-03-25,GSW,UTA,29.0,3,7,0,GSW,UTA,foul,1,False,False,,Ingles P.FOUL (P1.T3) (D.Guthrie),52-71,52,71
 0021701102,2018-03-25,GSW,UTA,29.0,3,7,0,UTA,GSW,steal,2,False,True,steal,steal,52-71,52,71
+0021701102,2018-03-25,GSW,UTA,29.0,3,7,0,GSW,UTA,foul,1,False,False,,Ingles P.FOUL (P1.T3) (D.Guthrie),52-71,52,71
 0021701102,2018-03-25,GSW,UTA,29.13,3,6,52,GSW,GSW,fg_miss,79,False,False,MISS Cook 22' Pullup Jump Shot,,52-71,52,71
 0021701102,2018-03-25,GSW,UTA,29.18,3,6,49,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:4 Def:7),52-71,52,71
 0021701102,2018-03-25,GSW,UTA,29.4,3,6,36,UTA,UTA,fg3_miss,1,False,False,,MISS Ingles 26' 3PT Jump Shot,52-71,52,71
@@ -347,8 +347,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701102,2018-03-25,GSW,UTA,37.95,4,10,3,GSW,GSW,fg_make,79,False,False,West 19' Pullup Jump Shot (9 PTS) (McCaw 3 AST),,72-93,72,93
 0021701102,2018-03-25,GSW,UTA,38.37,4,9,38,UTA,UTA,fg_make,75,False,False,,Exum 2' Driving Finger Roll Layup (13 PTS),72-95,72,95
 0021701102,2018-03-25,GSW,UTA,38.58,4,9,25,GSW,GSW,fg_miss,5,True,False,MISS Livingston 1' Layup,,72-95,72,95
-0021701102,2018-03-25,GSW,UTA,38.58,4,9,25,UTA,UTA,reb,0,False,False,,Jazz Rebound,72-95,72,95
 0021701102,2018-03-25,GSW,UTA,38.58,4,9,25,GSW,UTA,block,5,True,False,block,block,72-95,72,95
+0021701102,2018-03-25,GSW,UTA,38.58,4,9,25,UTA,UTA,reb,0,False,False,,Jazz Rebound,72-95,72,95
 0021701102,2018-03-25,GSW,UTA,38.82,4,9,11,UTA,GSW,foul,1,False,False,Livingston P.FOUL (P1.T1) (S.Wall),,72-95,72,95
 0021701102,2018-03-25,GSW,UTA,38.92,4,9,5,UTA,UTA,tov,1,False,True,,Exum Bad Pass Turnover (P2.T11),72-95,72,95
 0021701102,2018-03-25,GSW,UTA,38.92,4,9,5,UTA,GSW,steal,1,False,True,steal,steal,72-95,72,95

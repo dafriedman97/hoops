@@ -74,9 +74,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800670,2019-01-17,OKC,LAL,9.53,1,2,28,OKC,LAL,foul,1,False,False,,Hart P.FOUL (P1.PN) (T.Washington),33-20,33,20
 0021800670,2019-01-17,OKC,LAL,9.53,1,2,28,OKC,OKC,ft_make,11,False,False,Adams Free Throw 1 of 2 (9 PTS),,34-20,34,20
 0021800670,2019-01-17,OKC,LAL,9.53,1,2,28,OKC,OKC,ft_miss,12,False,False,MISS Adams Free Throw 2 of 2,,34-20,34,20
+0021800670,2019-01-17,OKC,LAL,9.57,1,2,26,OKC,OKC,reb,0,False,False,George REBOUND (Off:1 Def:3),,34-20,34,20
 0021800670,2019-01-17,OKC,LAL,9.57,1,2,26,OKC,OKC,fg_miss,107,False,False,MISS George 1' Tip Dunk Shot,,34-20,34,20
 0021800670,2019-01-17,OKC,LAL,9.57,1,2,26,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:2 Def:1),,34-20,34,20
-0021800670,2019-01-17,OKC,LAL,9.57,1,2,26,OKC,OKC,reb,0,False,False,George REBOUND (Off:1 Def:3),,34-20,34,20
 0021800670,2019-01-17,OKC,LAL,9.63,1,2,22,OKC,OKC,fg3_make,1,False,False,George 3PT Jump Shot (9 PTS) (Adams 1 AST),,37-20,37,20
 0021800670,2019-01-17,OKC,LAL,9.65,1,2,21,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.2 Short 0),37-20,37,20
 0021800670,2019-01-17,OKC,LAL,9.87,1,2,8,LAL,LAL,fg3_miss,80,False,False,,MISS Beasley 3PT Step Back Jump Shot,37-20,37,20
@@ -193,8 +193,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800670,2019-01-17,OKC,LAL,21.83,2,2,10,OKC,OKC,fg_miss,41,False,False,MISS Westbrook 5' Running Layup,,61-61,61,61
 0021800670,2019-01-17,OKC,LAL,21.83,2,2,10,OKC,OKC,reb,0,False,False,THUNDER Rebound,,61-61,61,61
 0021800670,2019-01-17,OKC,LAL,21.87,2,2,8,OKC,OKC,fg_miss,98,True,False,MISS Grant 7' Cutting Layup Shot,,61-61,61,61
-0021800670,2019-01-17,OKC,LAL,21.87,2,2,8,OKC,OKC,reb,0,False,False,THUNDER Rebound,,61-61,61,61
 0021800670,2019-01-17,OKC,LAL,21.87,2,2,8,OKC,LAL,block,98,True,False,block,block,61-61,61,61
+0021800670,2019-01-17,OKC,LAL,21.87,2,2,8,OKC,OKC,reb,0,False,False,THUNDER Rebound,,61-61,61,61
 0021800670,2019-01-17,OKC,LAL,22.03,2,1,58,OKC,OKC,fg_make,58,False,False,Adams 15' Turnaround Hook Shot (11 PTS),,63-61,63,61
 0021800670,2019-01-17,OKC,LAL,22.33,2,1,40,LAL,LAL,fg3_miss,1,False,False,,MISS Ball 3PT Jump Shot,63-61,63,61
 0021800670,2019-01-17,OKC,LAL,22.37,2,1,38,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:2 Def:4),,63-61,63,61
@@ -444,8 +444,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800670,2019-01-17,OKC,LAL,45.35,4,2,39,LAL,LAL,tov,1,False,True,,Zubac Bad Pass Turnover (P4.T22),116-116,116,116
 0021800670,2019-01-17,OKC,LAL,45.35,4,2,39,LAL,OKC,steal,1,False,True,steal,steal,116-116,116,116
 0021800670,2019-01-17,OKC,LAL,45.53,4,2,28,OKC,OKC,tov,2,False,True,George Lost Ball Turnover (P3.T15),,116-116,116,116
-0021800670,2019-01-17,OKC,LAL,45.53,4,2,28,LAL,OKC,foul,1,False,False,George P.FOUL (P1.PN) (H.Workman),,116-116,116,116
 0021800670,2019-01-17,OKC,LAL,45.53,4,2,28,OKC,LAL,steal,2,False,True,steal,steal,116-116,116,116
+0021800670,2019-01-17,OKC,LAL,45.53,4,2,28,LAL,OKC,foul,1,False,False,George P.FOUL (P1.PN) (H.Workman),,116-116,116,116
 0021800670,2019-01-17,OKC,LAL,45.8,4,2,12,LAL,LAL,tov,45,False,False,,Ball Out of Bounds - Bad Pass Turnover Turnover (P4.T23),116-116,116,116
 0021800670,2019-01-17,OKC,LAL,46.08,4,1,55,OKC,OKC,fg_miss,101,False,False,MISS Westbrook 4' Driving Floating Jump Shot,,116-116,116,116
 0021800670,2019-01-17,OKC,LAL,46.13,4,1,52,OKC,OKC,reb,0,False,False,Adams REBOUND (Off:6 Def:8),,116-116,116,116
@@ -493,9 +493,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800670,2019-01-17,OKC,LAL,49.1,5,3,54,OKC,OKC,fg3_miss,1,False,False,MISS Ferguson 25' 3PT Jump Shot,,122-122,122,122
 0021800670,2019-01-17,OKC,LAL,49.15,5,3,51,LAL,LAL,reb,0,False,False,,Ball REBOUND (Off:0 Def:6),122-122,122,122
 0021800670,2019-01-17,OKC,LAL,49.32,5,3,41,LAL,LAL,fg_miss,6,True,False,,MISS Ball 2' Driving Layup,122-122,122,122
+0021800670,2019-01-17,OKC,LAL,49.32,5,3,41,LAL,OKC,block,6,True,False,block,block,122-122,122,122
 0021800670,2019-01-17,OKC,LAL,49.32,5,3,41,LAL,LAL,reb,0,False,False,,Lakers Rebound,122-122,122,122
 0021800670,2019-01-17,OKC,LAL,49.32,5,3,41,,OKC,jump_ball,0,False,False,Jump Ball Grant vs. Ball: Tip to Hart,,122-122,122,122
-0021800670,2019-01-17,OKC,LAL,49.32,5,3,41,LAL,OKC,block,6,True,False,block,block,122-122,122,122
 0021800670,2019-01-17,OKC,LAL,49.43,5,3,34,LAL,LAL,fg3_make,1,False,False,,Ball 27' 3PT Jump Shot (16 PTS) (Hart 5 AST),122-125,122,125
 0021800670,2019-01-17,OKC,LAL,49.85,5,3,9,OKC,OKC,fg3_miss,1,False,False,MISS Grant 25' 3PT Jump Shot,,122-125,122,125
 0021800670,2019-01-17,OKC,LAL,49.93,5,3,4,LAL,LAL,reb,0,False,False,,Hart REBOUND (Off:1 Def:7),122-125,122,125
@@ -531,8 +531,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800670,2019-01-17,OKC,LAL,52.75,5,0,15,LAL,LAL,ft_make,11,False,False,,Ingram Free Throw 1 of 2 (7 PTS),128-137,128,137
 0021800670,2019-01-17,OKC,LAL,52.75,5,0,15,LAL,LAL,ft_make,12,False,False,,Ingram Free Throw 2 of 2 (8 PTS),128-138,128,138
 0021800670,2019-01-17,OKC,LAL,52.82,5,0,11,OKC,OKC,fg3_miss,1,True,False,MISS Ferguson 26' 3PT Jump Shot,,128-138,128,138
-0021800670,2019-01-17,OKC,LAL,52.82,5,0,11,OKC,OKC,reb,0,False,False,THUNDER Rebound,,128-138,128,138
 0021800670,2019-01-17,OKC,LAL,52.82,5,0,11,OKC,LAL,block,1,True,False,block,block,128-138,128,138
+0021800670,2019-01-17,OKC,LAL,52.82,5,0,11,OKC,OKC,reb,0,False,False,THUNDER Rebound,,128-138,128,138
 0021800670,2019-01-17,OKC,LAL,52.85,5,0,9,OKC,OKC,fg3_miss,63,False,False,MISS George 26' 3PT Fadeaway Jumper,,128-138,128,138
 0021800670,2019-01-17,OKC,LAL,52.9,5,0,6,LAL,LAL,reb,0,False,False,,Ingram REBOUND (Off:1 Def:4),128-138,128,138
 0021800670,2019-01-17,OKC,LAL,53.0,5,0,0,LAL,,period_end,0,False,False,,,128-138,128,138

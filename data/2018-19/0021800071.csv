@@ -9,9 +9,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800071,2018-10-26,MIN,MIL,0.75,1,11,15,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:0 Def:1),0-0,0,0
 0021800071,2018-10-26,MIN,MIL,0.92,1,11,5,MIL,MIL,fg_make,1,False,False,,Middleton 16' Jump Shot (2 PTS) (Antetokounmpo 1 AST),0-2,0,2
 0021800071,2018-10-26,MIN,MIL,1.37,1,10,38,MIN,MIN,fg_miss,6,True,False,MISS Teague 6' Driving Layup,,0-2,0,2
+0021800071,2018-10-26,MIN,MIL,1.37,1,10,38,MIN,MIL,block,6,True,False,block,block,0-2,0,2
 0021800071,2018-10-26,MIN,MIL,1.37,1,10,38,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,0-2,0,2
 0021800071,2018-10-26,MIN,MIL,1.37,1,10,38,MIN,MIN,tov,11,False,False,TIMBERWOLVES Turnover: Shot Clock (T#1),,0-2,0,2
-0021800071,2018-10-26,MIN,MIL,1.37,1,10,38,MIN,MIL,block,6,True,False,block,block,0-2,0,2
 0021800071,2018-10-26,MIN,MIL,1.52,1,10,29,MIL,MIL,tov,2,False,True,,Middleton Lost Ball Turnover (P1.T1),0-2,0,2
 0021800071,2018-10-26,MIN,MIL,1.52,1,10,29,MIL,MIN,steal,2,False,True,steal,steal,0-2,0,2
 0021800071,2018-10-26,MIN,MIL,1.58,1,10,25,MIN,MIN,fg3_miss,1,False,False,MISS Butler 24' 3PT Jump Shot,,0-2,0,2
@@ -20,8 +20,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800071,2018-10-26,MIN,MIL,1.87,1,10,8,MIN,MIN,fg3_miss,1,False,False,MISS Towns 26' 3PT Jump Shot,,0-5,0,5
 0021800071,2018-10-26,MIN,MIL,1.87,1,10,8,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:0 Def:3),0-5,0,5
 0021800071,2018-10-26,MIN,MIL,1.98,1,10,1,MIL,MIL,fg_miss,3,True,False,,MISS Antetokounmpo 7' Hook Shot,0-5,0,5
-0021800071,2018-10-26,MIN,MIL,1.98,1,10,1,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,0-5,0,5
 0021800071,2018-10-26,MIN,MIL,1.98,1,10,1,MIL,MIN,block,3,True,False,block,block,0-5,0,5
+0021800071,2018-10-26,MIN,MIL,1.98,1,10,1,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,0-5,0,5
 0021800071,2018-10-26,MIN,MIL,2.03,1,9,58,,MIN,jump_ball,0,False,False,Jump Ball Gibson vs. Antetokounmpo: Tip to Okogie,,0-5,0,5
 0021800071,2018-10-26,MIN,MIL,2.08,1,9,55,MIN,MIL,foul,1,False,False,,Antetokounmpo P.FOUL (P1.T1) (K.Lane),0-5,0,5
 0021800071,2018-10-26,MIN,MIL,2.25,1,9,45,MIN,MIN,fg3_miss,1,False,False,MISS Okogie 25' 3PT Jump Shot,,0-5,0,5
@@ -291,8 +291,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800071,2018-10-26,MIN,MIL,30.92,3,5,5,MIL,MIL,tov,2,False,True,,Antetokounmpo Lost Ball Turnover (P3.T11),54-85,54,85
 0021800071,2018-10-26,MIN,MIL,30.92,3,5,5,MIL,MIN,steal,2,False,True,steal,steal,54-85,54,85
 0021800071,2018-10-26,MIN,MIL,30.97,3,5,2,MIN,MIN,fg_miss,1,True,False,MISS Okogie 4' Jump Shot,,54-85,54,85
-0021800071,2018-10-26,MIN,MIL,30.97,3,5,2,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,54-85,54,85
 0021800071,2018-10-26,MIN,MIL,30.97,3,5,2,MIN,MIL,block,1,True,False,block,block,54-85,54,85
+0021800071,2018-10-26,MIN,MIL,30.97,3,5,2,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,54-85,54,85
 0021800071,2018-10-26,MIN,MIL,31.03,3,4,58,MIN,MIN,fg3_miss,1,False,False,MISS Towns 25' 3PT Jump Shot,,54-85,54,85
 0021800071,2018-10-26,MIN,MIL,31.1,3,4,54,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:0 Def:4),54-85,54,85
 0021800071,2018-10-26,MIN,MIL,31.22,3,4,47,MIL,MIL,fg3_make,1,False,False,,Middleton 24' 3PT Jump Shot (16 PTS) (Ilyasova 1 AST),54-88,54,88
@@ -408,8 +408,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800071,2018-10-26,MIN,MIL,42.22,4,5,47,MIN,MIN,fg_miss,86,False,False,MISS Rose 12' Turnaround Fadeaway Shot,,86-114,86,114
 0021800071,2018-10-26,MIN,MIL,42.25,4,5,45,MIN,MIN,reb,0,False,False,Dieng REBOUND (Off:3 Def:4),,86-114,86,114
 0021800071,2018-10-26,MIN,MIL,42.28,4,5,43,MIN,MIN,fg_miss,1,True,False,MISS Dieng 3' Jump Shot,,86-114,86,114
-0021800071,2018-10-26,MIN,MIL,42.28,4,5,43,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,86-114,86,114
 0021800071,2018-10-26,MIN,MIL,42.28,4,5,43,MIN,MIL,block,1,True,False,block,block,86-114,86,114
+0021800071,2018-10-26,MIN,MIL,42.28,4,5,43,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,86-114,86,114
 0021800071,2018-10-26,MIN,MIL,42.47,4,5,32,MIN,MIN,fg_miss,73,False,False,MISS Jones 1' Driving Reverse Layup,,86-114,86,114
 0021800071,2018-10-26,MIN,MIL,42.5,4,5,30,MIL,MIL,reb,0,False,False,,Maker REBOUND (Off:0 Def:2),86-114,86,114
 0021800071,2018-10-26,MIN,MIL,42.83,4,5,10,MIL,MIL,fg_make,9,False,False,,Connaughton 2' Driving Dunk (7 PTS) (DiVincenzo 5 AST),86-116,86,116
@@ -430,8 +430,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800071,2018-10-26,MIN,MIL,44.07,4,3,56,MIL,MIL,fg3_miss,1,False,False,,MISS DiVincenzo 25' 3PT Jump Shot,86-116,86,116
 0021800071,2018-10-26,MIN,MIL,44.13,4,3,52,MIL,MIL,reb,0,False,False,,Brown REBOUND (Off:1 Def:1),86-116,86,116
 0021800071,2018-10-26,MIN,MIL,44.13,4,3,52,MIL,MIL,fg_miss,5,True,False,,MISS Brown 5' Layup,86-116,86,116
-0021800071,2018-10-26,MIN,MIL,44.13,4,3,52,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,86-116,86,116
 0021800071,2018-10-26,MIN,MIL,44.13,4,3,52,MIL,MIN,block,5,True,False,block,block,86-116,86,116
+0021800071,2018-10-26,MIN,MIL,44.13,4,3,52,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,86-116,86,116
 0021800071,2018-10-26,MIN,MIL,44.32,4,3,41,MIN,MIN,fg3_miss,1,False,False,MISS Nunnally 26' 3PT Jump Shot,,86-116,86,116
 0021800071,2018-10-26,MIN,MIL,44.37,4,3,38,MIL,MIL,reb,0,False,False,,Henson REBOUND (Off:1 Def:11),86-116,86,116
 0021800071,2018-10-26,MIN,MIL,44.52,4,3,29,MIL,MIL,fg3_miss,1,False,False,,MISS Connaughton 3PT Jump Shot,86-116,86,116

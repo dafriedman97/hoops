@@ -10,13 +10,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700902,2018-02-26,NOP,PHX,1.37,1,10,38,NOP,NOP,fg_miss,6,False,False,MISS Rondo 3' Driving Layup,,4-3,4,3
 0021700902,2018-02-26,NOP,PHX,1.42,1,10,35,NOP,NOP,reb,0,False,False,Davis REBOUND (Off:1 Def:1),,4-3,4,3
 0021700902,2018-02-26,NOP,PHX,1.43,1,10,34,NOP,NOP,fg_miss,72,True,False,MISS Davis 2' Putback Layup,,4-3,4,3
-0021700902,2018-02-26,NOP,PHX,1.43,1,10,34,PHX,PHX,reb,0,False,False,,Booker REBOUND (Off:0 Def:1),4-3,4,3
 0021700902,2018-02-26,NOP,PHX,1.43,1,10,34,NOP,PHX,block,72,True,False,block,block,4-3,4,3
+0021700902,2018-02-26,NOP,PHX,1.43,1,10,34,PHX,PHX,reb,0,False,False,,Booker REBOUND (Off:0 Def:1),4-3,4,3
 0021700902,2018-02-26,NOP,PHX,1.52,1,10,29,PHX,PHX,fg_make,7,False,False,,Warren 1' Dunk (2 PTS) (Payton 1 AST),4-5,4,5
 0021700902,2018-02-26,NOP,PHX,1.58,1,10,25,NOP,NOP,fg_make,52,False,False,Okafor 1' Alley Oop Dunk (2 PTS) (Rondo 1 AST),,6-5,6,5
 0021700902,2018-02-26,NOP,PHX,1.83,1,10,10,PHX,PHX,fg_miss,44,True,False,,MISS Payton 2' Reverse Layup,6-5,6,5
-0021700902,2018-02-26,NOP,PHX,1.83,1,10,10,PHX,PHX,reb,0,False,False,,Suns Rebound,6-5,6,5
 0021700902,2018-02-26,NOP,PHX,1.83,1,10,10,PHX,NOP,block,44,True,False,block,block,6-5,6,5
+0021700902,2018-02-26,NOP,PHX,1.83,1,10,10,PHX,PHX,reb,0,False,False,,Suns Rebound,6-5,6,5
 0021700902,2018-02-26,NOP,PHX,1.92,1,10,5,PHX,PHX,fg_make,79,False,False,,Warren 15' Pullup Jump Shot (4 PTS) (Bender 2 AST),6-7,6,7
 0021700902,2018-02-26,NOP,PHX,2.12,1,9,53,NOP,NOP,fg_make,1,False,False,Okafor 8' Jump Shot (4 PTS) (Moore 1 AST),,8-7,8,7
 0021700902,2018-02-26,NOP,PHX,2.35,1,9,39,PHX,PHX,fg_make,6,False,False,,Payton 1' Driving Layup (2 PTS),8-9,8,9
@@ -47,10 +47,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700902,2018-02-26,NOP,PHX,5.5,1,6,30,NOP,NOP,tov,1,False,True,Holiday Bad Pass Turnover (P1.T2),,15-19,15,19
 0021700902,2018-02-26,NOP,PHX,5.5,1,6,30,NOP,PHX,steal,1,False,True,steal,steal,15-19,15,19
 0021700902,2018-02-26,NOP,PHX,5.67,1,6,20,PHX,PHX,fg_miss,6,False,False,,MISS Payton 4' Driving Layup,15-19,15,19
-0021700902,2018-02-26,NOP,PHX,5.67,1,6,20,PHX,PHX,fg_miss,97,False,False,,MISS Warren 1' Tip Layup Shot,15-19,15,19
 0021700902,2018-02-26,NOP,PHX,5.67,1,6,20,PHX,PHX,reb,0,False,False,,Warren REBOUND (Off:2 Def:0),15-19,15,19
-0021700902,2018-02-26,NOP,PHX,5.68,1,6,19,PHX,PHX,reb,0,False,False,,Warren REBOUND (Off:1 Def:0),15-19,15,19
+0021700902,2018-02-26,NOP,PHX,5.67,1,6,20,PHX,PHX,fg_miss,97,False,False,,MISS Warren 1' Tip Layup Shot,15-19,15,19
 0021700902,2018-02-26,NOP,PHX,5.68,1,6,19,PHX,PHX,fg_miss,97,False,False,,MISS Warren 1' Tip Layup Shot,15-19,15,19
+0021700902,2018-02-26,NOP,PHX,5.68,1,6,19,PHX,PHX,reb,0,False,False,,Warren REBOUND (Off:1 Def:0),15-19,15,19
 0021700902,2018-02-26,NOP,PHX,5.7,1,6,18,PHX,PHX,reb,0,False,False,,Payton REBOUND (Off:1 Def:0),15-19,15,19
 0021700902,2018-02-26,NOP,PHX,5.7,1,6,18,PHX,PHX,fg_miss,97,False,False,,MISS Payton 1' Tip Layup Shot,15-19,15,19
 0021700902,2018-02-26,NOP,PHX,5.72,1,6,17,NOP,NOP,reb,0,False,False,Davis REBOUND (Off:1 Def:2),,15-19,15,19
@@ -125,9 +125,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700902,2018-02-26,NOP,PHX,13.87,2,10,8,PHX,PHX,fg_make,7,False,False,,Chriss 1' Dunk (4 PTS) (Booker 5 AST),29-44,29,44
 0021700902,2018-02-26,NOP,PHX,13.87,2,10,8,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 2 Short 0),,29-44,29,44
 0021700902,2018-02-26,NOP,PHX,14.07,2,9,56,NOP,NOP,fg_miss,79,True,False,MISS Clark 3' Pullup Jump Shot,,29-44,29,44
+0021700902,2018-02-26,NOP,PHX,14.07,2,9,56,NOP,PHX,block,79,True,False,block,block,29-44,29,44
 0021700902,2018-02-26,NOP,PHX,14.07,2,9,56,NOP,NOP,reb,0,False,False,PELICANS Rebound,,29-44,29,44
 0021700902,2018-02-26,NOP,PHX,14.07,2,9,56,NOP,NOP,tov,12,False,False,Lemon Jr. Inbound Turnover (P1.T3),,29-44,29,44
-0021700902,2018-02-26,NOP,PHX,14.07,2,9,56,NOP,PHX,block,79,True,False,block,block,29-44,29,44
 0021700902,2018-02-26,NOP,PHX,14.28,2,9,43,NOP,PHX,foul,4,False,False,,Chriss OFF.Foul (P3) (K.Cutler),29-44,29,44
 0021700902,2018-02-26,NOP,PHX,14.28,2,9,43,PHX,PHX,tov,37,False,False,,Chriss Offensive Foul Turnover (P2.T4),29-44,29,44
 0021700902,2018-02-26,NOP,PHX,14.57,2,9,26,NOP,NOP,fg3_miss,1,False,False,MISS Miller 26' 3PT Jump Shot,,29-44,29,44
@@ -200,9 +200,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700902,2018-02-26,NOP,PHX,20.27,2,3,44,NOP,NOP,fg_miss,1,False,False,MISS Mirotic 7' Jump Shot,,45-57,45,57
 0021700902,2018-02-26,NOP,PHX,20.27,2,3,44,PHX,PHX,reb,0,False,False,,Payton REBOUND (Off:1 Def:1),45-57,45,57
 0021700902,2018-02-26,NOP,PHX,20.32,2,3,41,PHX,PHX,fg_miss,6,True,False,,MISS Warren 1' Driving Layup,45-57,45,57
+0021700902,2018-02-26,NOP,PHX,20.32,2,3,41,PHX,NOP,block,6,True,False,block,block,45-57,45,57
 0021700902,2018-02-26,NOP,PHX,20.32,2,3,41,NOP,NOP,reb,0,False,False,PELICANS Rebound,,45-57,45,57
 0021700902,2018-02-26,NOP,PHX,20.32,2,3,41,NOP,NOP,tov,12,False,False,Holiday Inbound Turnover (P2.T5),,45-57,45,57
-0021700902,2018-02-26,NOP,PHX,20.32,2,3,41,PHX,NOP,block,6,True,False,block,block,45-57,45,57
 0021700902,2018-02-26,NOP,PHX,20.6,2,3,24,PHX,PHX,fg_make,6,False,False,,Booker 1' Driving Layup (21 PTS),45-59,45,59
 0021700902,2018-02-26,NOP,PHX,20.7,2,3,18,NOP,NOP,fg3_make,1,False,False,Moore 3PT Jump Shot (4 PTS) (Rondo 6 AST),,48-59,48,59
 0021700902,2018-02-26,NOP,PHX,20.98,2,3,1,PHX,PHX,fg_miss,1,False,False,,MISS Len 12' Jump Shot,48-59,48,59
@@ -219,8 +219,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700902,2018-02-26,NOP,PHX,22.3,2,1,42,NOP,NOP,fg3_miss,1,False,False,MISS Mirotic 3PT Jump Shot,,52-59,52,59
 0021700902,2018-02-26,NOP,PHX,22.38,2,1,37,PHX,PHX,reb,0,False,False,,Len REBOUND (Off:0 Def:2),52-59,52,59
 0021700902,2018-02-26,NOP,PHX,22.48,2,1,31,PHX,PHX,fg_miss,75,True,False,,MISS Booker 2' Driving Finger Roll Layup,52-59,52,59
-0021700902,2018-02-26,NOP,PHX,22.48,2,1,31,NOP,NOP,reb,0,False,False,Mirotic REBOUND (Off:0 Def:4),,52-59,52,59
 0021700902,2018-02-26,NOP,PHX,22.48,2,1,31,PHX,NOP,block,75,True,False,block,block,52-59,52,59
+0021700902,2018-02-26,NOP,PHX,22.48,2,1,31,NOP,NOP,reb,0,False,False,Mirotic REBOUND (Off:0 Def:4),,52-59,52,59
 0021700902,2018-02-26,NOP,PHX,22.68,2,1,19,NOP,NOP,fg3_miss,1,False,False,MISS Moore 24' 3PT Jump Shot,,52-59,52,59
 0021700902,2018-02-26,NOP,PHX,22.73,2,1,16,PHX,PHX,reb,0,False,False,,Payton REBOUND (Off:1 Def:2),52-59,52,59
 0021700902,2018-02-26,NOP,PHX,22.77,2,1,14,PHX,PHX,fg3_make,1,False,False,,Booker 24' 3PT Jump Shot (24 PTS) (Payton 4 AST),52-62,52,62
@@ -240,13 +240,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700902,2018-02-26,NOP,PHX,23.97,2,0,2,PHX,PHX,ft_make,12,False,False,,Booker Free Throw 2 of 2 (27 PTS),58-65,58,65
 0021700902,2018-02-26,NOP,PHX,24.0,2,0,0,NOP,NOP,tov,39,False,False,Rondo Step Out of Bounds Turnover (P2.T6),,58-65,58,65
 0021700902,2018-02-26,NOP,PHX,24.0,2,0,0,PHX,PHX,tov,1,False,True,,Booker Bad Pass Turnover (P3.T7),58-65,58,65
+0021700902,2018-02-26,NOP,PHX,24.0,2,0,0,PHX,NOP,steal,1,False,True,steal,steal,58-65,58,65
 0021700902,2018-02-26,NOP,PHX,24.0,2,0,0,PHX,,period_end,0,False,False,,,58-65,58,65
 0021700902,2018-02-26,NOP,PHX,24.0,3,12,0,PHX,,period_start,0,False,False,,,58-65,58,65
-0021700902,2018-02-26,NOP,PHX,24.0,2,0,0,PHX,NOP,steal,1,False,True,steal,steal,58-65,58,65
 0021700902,2018-02-26,NOP,PHX,24.15,3,11,51,PHX,NOP,foul,1,False,False,Rondo P.FOUL (P3.T1) (S.Wright),,58-65,58,65
 0021700902,2018-02-26,NOP,PHX,24.38,3,11,37,PHX,PHX,tov,2,False,True,,Len Lost Ball Turnover (P1.T8),58-65,58,65
-0021700902,2018-02-26,NOP,PHX,24.38,3,11,37,NOP,PHX,foul,1,False,False,,Len P.FOUL (P1.T1) (A.Smith),58-65,58,65
 0021700902,2018-02-26,NOP,PHX,24.38,3,11,37,PHX,NOP,steal,2,False,True,steal,steal,58-65,58,65
+0021700902,2018-02-26,NOP,PHX,24.38,3,11,37,NOP,PHX,foul,1,False,False,,Len P.FOUL (P1.T1) (A.Smith),58-65,58,65
 0021700902,2018-02-26,NOP,PHX,24.62,3,11,23,NOP,NOP,fg_make,104,False,False,Holiday 13' Step Back Bank Jump Shot (9 PTS),,60-65,60,65
 0021700902,2018-02-26,NOP,PHX,24.62,3,11,23,NOP,PHX,foul,2,False,False,,Len S.FOUL (P2.T2) (A.Smith),60-65,60,65
 0021700902,2018-02-26,NOP,PHX,24.62,3,11,23,NOP,NOP,ft_miss,10,False,False,MISS Holiday Free Throw 1 of 1,,60-65,60,65
@@ -254,8 +254,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700902,2018-02-26,NOP,PHX,24.77,3,11,14,PHX,PHX,fg_make,5,False,False,,Payton 3' Layup (8 PTS),60-67,60,67
 0021700902,2018-02-26,NOP,PHX,25.02,3,10,59,NOP,NOP,fg_make,58,False,False,Davis 8' Turnaround Hook Shot (27 PTS),,62-67,62,67
 0021700902,2018-02-26,NOP,PHX,25.23,3,10,46,PHX,PHX,fg_miss,3,True,False,,MISS Bender 6' Hook Shot,62-67,62,67
-0021700902,2018-02-26,NOP,PHX,25.23,3,10,46,PHX,PHX,reb,0,False,False,,Bender REBOUND (Off:1 Def:4),62-67,62,67
 0021700902,2018-02-26,NOP,PHX,25.23,3,10,46,PHX,NOP,block,3,True,False,block,block,62-67,62,67
+0021700902,2018-02-26,NOP,PHX,25.23,3,10,46,PHX,PHX,reb,0,False,False,,Bender REBOUND (Off:1 Def:4),62-67,62,67
 0021700902,2018-02-26,NOP,PHX,25.33,3,10,40,PHX,PHX,fg_make,78,False,False,,Payton 4' Floating Jump Shot (10 PTS) (Bender 4 AST),62-69,62,69
 0021700902,2018-02-26,NOP,PHX,25.47,3,10,32,NOP,NOP,fg_make,5,False,False,Okafor 1' Layup (8 PTS) (Davis 2 AST),,64-69,64,69
 0021700902,2018-02-26,NOP,PHX,25.47,3,10,32,NOP,PHX,foul,2,False,False,,Len S.FOUL (P3.T3) (A.Smith),64-69,64,69
@@ -313,8 +313,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700902,2018-02-26,NOP,PHX,31.05,3,4,57,PHX,PHX,tov,1,False,True,,Payton Bad Pass Turnover (P3.T10),81-80,81,80
 0021700902,2018-02-26,NOP,PHX,31.05,3,4,57,PHX,NOP,steal,1,False,True,steal,steal,81-80,81,80
 0021700902,2018-02-26,NOP,PHX,31.12,3,4,53,NOP,NOP,fg_miss,71,True,False,MISS Clark 2' Finger Roll Layup,,81-80,81,80
-0021700902,2018-02-26,NOP,PHX,31.12,3,4,53,NOP,NOP,reb,0,False,False,PELICANS Rebound,,81-80,81,80
 0021700902,2018-02-26,NOP,PHX,31.12,3,4,53,NOP,PHX,block,71,True,False,block,block,81-80,81,80
+0021700902,2018-02-26,NOP,PHX,31.12,3,4,53,NOP,NOP,reb,0,False,False,PELICANS Rebound,,81-80,81,80
 0021700902,2018-02-26,NOP,PHX,31.17,3,4,50,NOP,NOP,tov,1,False,True,Rondo Bad Pass Turnover (P4.T8),,81-80,81,80
 0021700902,2018-02-26,NOP,PHX,31.17,3,4,50,NOP,PHX,steal,1,False,True,steal,steal,81-80,81,80
 0021700902,2018-02-26,NOP,PHX,31.25,3,4,45,PHX,PHX,fg_miss,7,True,False,,MISS Jackson 1' Dunk,81-80,81,80
@@ -357,12 +357,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700902,2018-02-26,NOP,PHX,35.15,3,0,51,PHX,PHX,reb,1,False,False,,Suns Rebound,94-86,94,86
 0021700902,2018-02-26,NOP,PHX,35.15,3,0,51,PHX,PHX,ft_make,12,False,False,,Booker Free Throw 2 of 2 (34 PTS),94-87,94,87
 0021700902,2018-02-26,NOP,PHX,35.3,3,0,42,NOP,NOP,fg3_miss,1,True,False,MISS Mirotic 27' 3PT Jump Shot,,94-87,94,87
-0021700902,2018-02-26,NOP,PHX,35.3,3,0,42,PHX,PHX,reb,0,False,False,,Booker REBOUND (Off:0 Def:8),94-87,94,87
 0021700902,2018-02-26,NOP,PHX,35.3,3,0,42,NOP,PHX,block,1,True,False,block,block,94-87,94,87
+0021700902,2018-02-26,NOP,PHX,35.3,3,0,42,PHX,PHX,reb,0,False,False,,Booker REBOUND (Off:0 Def:8),94-87,94,87
 0021700902,2018-02-26,NOP,PHX,35.38,3,0,37,PHX,PHX,fg_miss,5,False,False,,MISS Warren 2' Layup,94-87,94,87
+0021700902,2018-02-26,NOP,PHX,35.4,3,0,36,PHX,PHX,reb,0,False,False,,Jackson REBOUND (Off:3 Def:3),94-87,94,87
 0021700902,2018-02-26,NOP,PHX,35.4,3,0,36,PHX,PHX,fg_miss,97,False,False,,MISS Jackson 1' Tip Layup Shot,94-87,94,87
 0021700902,2018-02-26,NOP,PHX,35.4,3,0,36,PHX,PHX,reb,0,False,False,,Jackson REBOUND (Off:2 Def:3),94-87,94,87
-0021700902,2018-02-26,NOP,PHX,35.4,3,0,36,PHX,PHX,reb,0,False,False,,Jackson REBOUND (Off:3 Def:3),94-87,94,87
 0021700902,2018-02-26,NOP,PHX,35.43,3,0,34,PHX,PHX,fg_miss,97,False,False,,MISS Jackson 1' Tip Layup Shot,94-87,94,87
 0021700902,2018-02-26,NOP,PHX,35.43,3,0,34,PHX,PHX,reb,0,False,False,,Jackson REBOUND (Off:4 Def:3),94-87,94,87
 0021700902,2018-02-26,NOP,PHX,35.43,3,0,34,PHX,PHX,fg_make,72,False,False,,Jackson 1' Putback Layup (8 PTS),94-89,94,89
@@ -465,12 +465,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700902,2018-02-26,NOP,PHX,43.0,4,5,0,PHX,PHX,ft_make,12,False,False,,Payton Free Throw 2 of 2 (14 PTS),112-110,112,110
 0021700902,2018-02-26,NOP,PHX,43.2,4,4,48,NOP,PHX,foul,2,False,False,,Len S.FOUL (P6.PN) (A.Smith),112-110,112,110
 0021700902,2018-02-26,NOP,PHX,43.2,4,4,48,NOP,PHX,foul,11,False,False,,Len T.FOUL (P6.PN) (A.Smith),112-110,112,110
-0021700902,2018-02-26,NOP,PHX,43.2,4,4,48,NOP,PHX,ejection,4,False,False,,Len Ejection:Other,112-110,112,110
 0021700902,2018-02-26,NOP,PHX,43.2,4,4,48,NOP,NOP,ft_miss,16,False,False,MISS Davis Free Throw Technical,,112-110,112,110
 0021700902,2018-02-26,NOP,PHX,43.2,4,4,48,NOP,NOP,reb,1,False,False,PELICANS Rebound,,112-110,112,110
 0021700902,2018-02-26,NOP,PHX,43.2,4,4,48,NOP,NOP,ft_make,11,False,False,Davis Free Throw 1 of 2 (50 PTS),,113-110,113,110
 0021700902,2018-02-26,NOP,PHX,43.2,4,4,48,NOP,NOP,ft_make,12,False,False,Davis Free Throw 2 of 2 (51 PTS),,114-110,114,110
 0021700902,2018-02-26,NOP,PHX,43.2,4,4,48,PHX,PHX,timeout,1,False,False,,Suns Timeout: Regular (Reg.4 Short 0),114-110,114,110
+0021700902,2018-02-26,NOP,PHX,43.2,4,4,48,NOP,PHX,ejection,4,False,False,,Len Ejection:Other,112-110,112,110
 0021700902,2018-02-26,NOP,PHX,43.35,4,4,39,PHX,PHX,fg_make,108,False,False,,Warren 1' Cutting Dunk Shot (23 PTS) (Payton 5 AST),114-112,114,112
 0021700902,2018-02-26,NOP,PHX,43.65,4,4,21,NOP,NOP,fg_miss,5,False,False,MISS Davis 1' Layup,,114-112,114,112
 0021700902,2018-02-26,NOP,PHX,43.68,4,4,19,NOP,NOP,reb,0,False,False,Davis REBOUND (Off:7 Def:8),,114-112,114,112

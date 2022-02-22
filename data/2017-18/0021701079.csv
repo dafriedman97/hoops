@@ -75,8 +75,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701079,2018-03-23,WAS,DEN,9.9,1,2,6,DEN,DEN,fg_miss,58,False,False,,MISS Jokic 12' Turnaround Hook Shot,16-19,16,19
 0021701079,2018-03-23,WAS,DEN,9.93,1,2,4,WAS,WAS,reb,0,False,False,Scott REBOUND (Off:0 Def:1),,16-19,16,19
 0021701079,2018-03-23,WAS,DEN,10.03,1,1,58,WAS,WAS,fg_miss,5,True,False,MISS Mahinmi 2' Layup,,16-19,16,19
-0021701079,2018-03-23,WAS,DEN,10.03,1,1,58,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,16-19,16,19
 0021701079,2018-03-23,WAS,DEN,10.03,1,1,58,WAS,DEN,block,5,True,False,block,block,16-19,16,19
+0021701079,2018-03-23,WAS,DEN,10.03,1,1,58,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,16-19,16,19
 0021701079,2018-03-23,WAS,DEN,10.07,1,1,56,WAS,WAS,fg_miss,98,False,False,MISS Scott 1' Cutting Layup Shot,,16-19,16,19
 0021701079,2018-03-23,WAS,DEN,10.1,1,1,54,DEN,DEN,reb,0,False,False,,Plumlee REBOUND (Off:0 Def:1),16-19,16,19
 0021701079,2018-03-23,WAS,DEN,10.13,1,1,52,DEN,WAS,foul,9,False,False,Beal C.P.FOUL (P1.T4) (S.Corbin),,16-19,16,19
@@ -189,9 +189,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701079,2018-03-23,WAS,DEN,22.53,2,1,28,DEN,DEN,fg_miss,102,False,False,,MISS Barton 6' Driving Floating Bank Jump Shot,43-50,43,50
 0021701079,2018-03-23,WAS,DEN,22.58,2,1,25,WAS,WAS,reb,0,False,False,Morris REBOUND (Off:0 Def:5),,43-50,43,50
 0021701079,2018-03-23,WAS,DEN,22.7,2,1,18,WAS,WAS,fg_miss,5,True,False,MISS Beal 4' Layup,,43-50,43,50
+0021701079,2018-03-23,WAS,DEN,22.7,2,1,18,WAS,DEN,block,5,True,False,block,block,43-50,43,50
 0021701079,2018-03-23,WAS,DEN,22.7,2,1,18,DEN,DEN,reb,0,False,False,,Murray REBOUND (Off:1 Def:2),43-50,43,50
 0021701079,2018-03-23,WAS,DEN,22.7,2,1,18,DEN,WAS,foul,1,False,False,Beal P.FOUL (P2.T3) (S.Corbin),,43-50,43,50
-0021701079,2018-03-23,WAS,DEN,22.7,2,1,18,WAS,DEN,block,5,True,False,block,block,43-50,43,50
 0021701079,2018-03-23,WAS,DEN,22.93,2,1,4,DEN,DEN,fg_miss,5,False,False,,MISS Jokic 4' Layup,43-50,43,50
 0021701079,2018-03-23,WAS,DEN,22.98,2,1,1,DEN,DEN,reb,0,False,False,,Murray REBOUND (Off:2 Def:2),43-50,43,50
 0021701079,2018-03-23,WAS,DEN,23.15,2,0,51,DEN,DEN,fg_miss,9,False,False,,MISS Murray 2' Driving Dunk,43-50,43,50
@@ -205,8 +205,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701079,2018-03-23,WAS,DEN,23.85,2,0,9,WAS,WAS,tov,40,False,False,Beal Out of Bounds Lost Ball Turnover (P2.T9),,43-52,43,52
 0021701079,2018-03-23,WAS,DEN,23.97,2,0,2,DEN,DEN,fg3_make,79,False,False,,Barton 26' 3PT Pullup Jump Shot (6 PTS),43-55,43,55
 0021701079,2018-03-23,WAS,DEN,23.98,2,0,1,WAS,WAS,fg3_miss,2,True,False,MISS Beal 50' 3PT Running Jump Shot,,43-55,43,55
-0021701079,2018-03-23,WAS,DEN,23.98,2,0,1,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,43-55,43,55
 0021701079,2018-03-23,WAS,DEN,23.98,2,0,1,WAS,DEN,block,2,True,False,block,block,43-55,43,55
+0021701079,2018-03-23,WAS,DEN,23.98,2,0,1,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,43-55,43,55
 0021701079,2018-03-23,WAS,DEN,24.0,2,0,0,WAS,,period_end,0,False,False,,,43-55,43,55
 0021701079,2018-03-23,WAS,DEN,24.0,3,12,0,WAS,,period_start,0,False,False,,,43-55,43,55
 0021701079,2018-03-23,WAS,DEN,24.23,3,11,46,WAS,DEN,foul,1,False,False,,Millsap P.FOUL (P3.T1) (K.Fitzgerald),43-55,43,55
@@ -219,9 +219,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701079,2018-03-23,WAS,DEN,25.23,3,10,46,DEN,DEN,fg_miss,3,False,False,,MISS Chandler 6' Hook Shot,45-55,45,55
 0021701079,2018-03-23,WAS,DEN,25.27,3,10,44,WAS,WAS,reb,0,False,False,Gortat REBOUND (Off:2 Def:3),,45-55,45,55
 0021701079,2018-03-23,WAS,DEN,25.47,3,10,32,WAS,WAS,fg_miss,5,True,False,MISS Porter Jr. 6' Layup,,45-55,45,55
+0021701079,2018-03-23,WAS,DEN,25.47,3,10,32,WAS,DEN,block,5,True,False,block,block,45-55,45,55
 0021701079,2018-03-23,WAS,DEN,25.47,3,10,32,WAS,WAS,reb,0,False,False,Porter Jr. REBOUND (Off:2 Def:2),,45-55,45,55
 0021701079,2018-03-23,WAS,DEN,25.47,3,10,32,WAS,WAS,tov,39,False,False,Porter Jr. Step Out of Bounds Turnover (P1.T11),,45-55,45,55
-0021701079,2018-03-23,WAS,DEN,25.47,3,10,32,WAS,DEN,block,5,True,False,block,block,45-55,45,55
 0021701079,2018-03-23,WAS,DEN,25.72,3,10,17,DEN,DEN,fg3_make,1,False,False,,Jokic 26' 3PT Jump Shot (14 PTS) (Millsap 5 AST),45-58,45,58
 0021701079,2018-03-23,WAS,DEN,26.03,3,9,58,WAS,WAS,fg_make,79,False,False,Morris 15' Pullup Jump Shot (6 PTS) (Satoransky 2 AST),,47-58,47,58
 0021701079,2018-03-23,WAS,DEN,26.23,3,9,46,DEN,DEN,fg3_make,1,False,False,,Jokic 26' 3PT Jump Shot (17 PTS) (Murray 3 AST),47-61,47,61

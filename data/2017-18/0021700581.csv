@@ -2,8 +2,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700581,2018-01-06,IND,CHI,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
 0021700581,2018-01-06,IND,CHI,0.0,1,12,0,,IND,jump_ball,0,False,False,Jump Ball Turner vs. Lopez: Tip to Markkanen,,0-0,0,0
 0021700581,2018-01-06,IND,CHI,0.42,1,11,35,CHI,CHI,fg_miss,86,True,False,,MISS Valentine 15' Turnaround Fadeaway Shot,0-0,0,0
-0021700581,2018-01-06,IND,CHI,0.42,1,11,35,CHI,CHI,reb,0,False,False,,Bulls Rebound,0-0,0,0
 0021700581,2018-01-06,IND,CHI,0.42,1,11,35,CHI,IND,block,86,True,False,block,block,0-0,0,0
+0021700581,2018-01-06,IND,CHI,0.42,1,11,35,CHI,CHI,reb,0,False,False,,Bulls Rebound,0-0,0,0
 0021700581,2018-01-06,IND,CHI,0.47,1,11,32,CHI,CHI,tov,1,False,True,,Dunn Bad Pass Turnover (P1.T1),0-0,0,0
 0021700581,2018-01-06,IND,CHI,0.47,1,11,32,CHI,IND,steal,1,False,True,steal,steal,0-0,0,0
 0021700581,2018-01-06,IND,CHI,0.52,1,11,29,IND,IND,fg_miss,41,False,False,MISS Young Running Layup,,0-0,0,0
@@ -29,8 +29,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700581,2018-01-06,IND,CHI,3.28,1,8,43,CHI,CHI,reb,0,False,False,,Dunn REBOUND (Off:0 Def:1),12-10,12,10
 0021700581,2018-01-06,IND,CHI,3.4,1,8,36,CHI,CHI,fg_make,5,False,False,,Lopez 1' Layup (4 PTS) (Dunn 4 AST),12-12,12,12
 0021700581,2018-01-06,IND,CHI,3.72,1,8,17,IND,IND,fg_miss,5,True,False,MISS Collison 2' Layup,,12-12,12,12
-0021700581,2018-01-06,IND,CHI,3.72,1,8,17,IND,IND,reb,0,False,False,PACERS Rebound,,12-12,12,12
 0021700581,2018-01-06,IND,CHI,3.72,1,8,17,IND,CHI,block,5,True,False,block,block,12-12,12,12
+0021700581,2018-01-06,IND,CHI,3.72,1,8,17,IND,IND,reb,0,False,False,PACERS Rebound,,12-12,12,12
 0021700581,2018-01-06,IND,CHI,3.8,1,8,12,IND,IND,fg3_make,1,False,False,Collison 30' 3PT Jump Shot (3 PTS) (Young 1 AST),,15-12,15,12
 0021700581,2018-01-06,IND,CHI,4.05,1,7,57,CHI,CHI,fg_make,5,False,False,,Lopez 1' Layup (6 PTS),15-14,15,14
 0021700581,2018-01-06,IND,CHI,4.42,1,7,35,IND,IND,fg_miss,1,False,False,MISS Turner 17' Jump Shot,,15-14,15,14
@@ -184,9 +184,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700581,2018-01-06,IND,CHI,21.33,2,2,40,CHI,CHI,fg_make,103,False,False,,Dunn 9' Running Pull-Up Jump Shot (4 PTS),55-35,55,35
 0021700581,2018-01-06,IND,CHI,21.65,2,2,21,IND,CHI,foul,2,False,False,,Lopez S.FOUL (P1.T3) (D.Guthrie),55-35,55,35
 0021700581,2018-01-06,IND,CHI,21.65,2,2,21,IND,IND,ft_make,10,False,False,Oladipo Free Throw 1 of 1 (14 PTS),,56-35,56,35
+0021700581,2018-01-06,IND,CHI,21.65,2,2,21,CHI,,violation,1,False,False,,,56-35,56,35
 0021700581,2018-01-06,IND,CHI,21.65,2,2,21,IND,IND,ft_miss,12,False,False,MISS Oladipo Free Throw 2 of 2,,56-35,56,35
 0021700581,2018-01-06,IND,CHI,21.65,2,2,21,CHI,CHI,reb,0,False,False,,Mirotic REBOUND (Off:0 Def:1),56-35,56,35
-0021700581,2018-01-06,IND,CHI,21.65,2,2,21,CHI,,violation,1,False,False,,,56-35,56,35
 0021700581,2018-01-06,IND,CHI,21.77,2,2,14,IND,CHI,foul,11,False,False,,Lopez T.FOUL (P1.T3) (D.Guthrie),56-35,56,35
 0021700581,2018-01-06,IND,CHI,21.77,2,2,14,IND,IND,ft_make,16,False,False,Collison Free Throw Technical (8 PTS),,57-35,57,35
 0021700581,2018-01-06,IND,CHI,22.0,2,2,0,CHI,CHI,fg_miss,1,False,False,,MISS Valentine 15' Jump Shot,57-35,57,35
@@ -256,12 +256,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700581,2018-01-06,IND,CHI,29.95,3,6,3,CHI,IND,block,5,True,False,block,block,81-49,81,49
 0021700581,2018-01-06,IND,CHI,29.97,3,6,2,CHI,CHI,reb,0,False,False,,Holiday REBOUND (Off:1 Def:3),81-49,81,49
 0021700581,2018-01-06,IND,CHI,29.97,3,6,2,CHI,CHI,fg_miss,72,False,False,,MISS Holiday 2' Putback Layup,81-49,81,49
-0021700581,2018-01-06,IND,CHI,29.98,3,6,1,CHI,CHI,fg_miss,5,False,False,,MISS Markkanen 2' Layup,81-49,81,49
 0021700581,2018-01-06,IND,CHI,29.98,3,6,1,CHI,CHI,reb,0,False,False,,Markkanen REBOUND (Off:3 Def:1),81-49,81,49
-0021700581,2018-01-06,IND,CHI,30.0,3,6,0,CHI,CHI,reb,0,False,False,,Markkanen REBOUND (Off:3 Def:1),81-49,81,49
+0021700581,2018-01-06,IND,CHI,29.98,3,6,1,CHI,CHI,fg_miss,5,False,False,,MISS Markkanen 2' Layup,81-49,81,49
 0021700581,2018-01-06,IND,CHI,30.0,3,6,0,CHI,IND,foul,2,False,False,Wilkins S.FOUL (P1.PN) (T.Brothers),,81-49,81,49
 0021700581,2018-01-06,IND,CHI,30.0,3,6,0,CHI,CHI,ft_make,11,False,False,,Markkanen Free Throw 1 of 2 (6 PTS),81-50,81,50
 0021700581,2018-01-06,IND,CHI,30.0,3,6,0,CHI,CHI,ft_make,12,False,False,,Markkanen Free Throw 2 of 2 (7 PTS),81-51,81,51
+0021700581,2018-01-06,IND,CHI,30.0,3,6,0,CHI,CHI,reb,0,False,False,,Markkanen REBOUND (Off:3 Def:1),81-49,81,49
 0021700581,2018-01-06,IND,CHI,30.35,3,5,39,IND,IND,fg3_make,1,False,False,Collison 3PT Jump Shot (11 PTS) (Wilkins 1 AST),,84-51,84,51
 0021700581,2018-01-06,IND,CHI,30.68,3,5,19,CHI,CHI,fg3_miss,1,False,False,,MISS Dunn 24' 3PT Jump Shot,84-51,84,51
 0021700581,2018-01-06,IND,CHI,30.72,3,5,17,IND,IND,reb,0,False,False,Young REBOUND (Off:1 Def:2),,84-51,84,51
@@ -289,10 +289,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700581,2018-01-06,IND,CHI,33.97,3,2,2,CHI,CHI,fg3_miss,1,False,False,,MISS Markkanen 27' 3PT Jump Shot,94-59,94,59
 0021700581,2018-01-06,IND,CHI,34.02,3,1,59,IND,IND,reb,0,False,False,Collison REBOUND (Off:0 Def:3),,94-59,94,59
 0021700581,2018-01-06,IND,CHI,34.22,3,1,47,IND,IND,tov,1,False,True,Leaf Bad Pass Turnover (P1.T8),,94-59,94,59
+0021700581,2018-01-06,IND,CHI,34.22,3,1,47,IND,CHI,steal,1,False,True,steal,steal,94-59,94,59
 0021700581,2018-01-06,IND,CHI,34.22,3,1,47,CHI,IND,foul,28,False,False,Stephenson Personal Take Foul (P2.PN) (T.Brothers),,94-59,94,59
 0021700581,2018-01-06,IND,CHI,34.22,3,1,47,CHI,CHI,ft_miss,11,False,False,,MISS Nwaba Free Throw 1 of 2,94-59,94,59
 0021700581,2018-01-06,IND,CHI,34.22,3,1,47,CHI,CHI,reb,1,False,False,,Bulls Rebound,94-59,94,59
-0021700581,2018-01-06,IND,CHI,34.22,3,1,47,IND,CHI,steal,1,False,True,steal,steal,94-59,94,59
 0021700581,2018-01-06,IND,CHI,34.22,3,1,47,CHI,CHI,ft_make,12,False,False,,Nwaba Free Throw 2 of 2 (3 PTS),94-60,94,60
 0021700581,2018-01-06,IND,CHI,34.6,3,1,24,IND,IND,fg_make,1,False,False,Joseph 22' Jump Shot (4 PTS) (Stephenson 1 AST),,96-60,96,60
 0021700581,2018-01-06,IND,CHI,34.77,3,1,14,CHI,CHI,fg_make,6,False,False,,Nwaba 1' Driving Layup (5 PTS),96-62,96,62
@@ -318,15 +318,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700581,2018-01-06,IND,CHI,37.38,4,10,37,CHI,IND,steal,1,False,True,steal,steal,103-67,103,67
 0021700581,2018-01-06,IND,CHI,37.42,4,10,35,IND,CHI,foul,1,False,False,,Grant P.FOUL (P1.T1) (B.Taylor),103-67,103,67
 0021700581,2018-01-06,IND,CHI,37.67,4,10,20,IND,IND,fg_miss,5,True,False,MISS Stephenson 7' Layup,,103-67,103,67
-0021700581,2018-01-06,IND,CHI,37.67,4,10,20,IND,IND,reb,0,False,False,PACERS Rebound,,103-67,103,67
 0021700581,2018-01-06,IND,CHI,37.67,4,10,20,IND,CHI,block,5,True,False,block,block,103-67,103,67
+0021700581,2018-01-06,IND,CHI,37.67,4,10,20,IND,IND,reb,0,False,False,PACERS Rebound,,103-67,103,67
 0021700581,2018-01-06,IND,CHI,37.7,4,10,18,IND,IND,fg_miss,1,False,False,MISS Joseph 18' Jump Shot,,103-67,103,67
 0021700581,2018-01-06,IND,CHI,37.75,4,10,15,CHI,CHI,reb,0,False,False,,Mirotic REBOUND (Off:0 Def:2),103-67,103,67
 0021700581,2018-01-06,IND,CHI,37.87,4,10,8,CHI,CHI,fg3_miss,1,False,False,,MISS Mirotic 27' 3PT Jump Shot,103-67,103,67
 0021700581,2018-01-06,IND,CHI,37.92,4,10,5,IND,IND,reb,0,False,False,Joseph REBOUND (Off:1 Def:8),,103-67,103,67
 0021700581,2018-01-06,IND,CHI,38.02,4,9,59,IND,IND,fg_miss,75,True,False,MISS Joseph 2' Driving Finger Roll Layup,,103-67,103,67
-0021700581,2018-01-06,IND,CHI,38.02,4,9,59,IND,IND,reb,0,False,False,PACERS Rebound,,103-67,103,67
 0021700581,2018-01-06,IND,CHI,38.02,4,9,59,IND,CHI,block,75,True,False,block,block,103-67,103,67
+0021700581,2018-01-06,IND,CHI,38.02,4,9,59,IND,IND,reb,0,False,False,PACERS Rebound,,103-67,103,67
 0021700581,2018-01-06,IND,CHI,38.07,4,9,56,IND,IND,tov,45,False,False,Joseph Out of Bounds - Bad Pass Turnover Turnover (P1.T9),,103-67,103,67
 0021700581,2018-01-06,IND,CHI,38.3,4,9,42,CHI,CHI,fg_miss,1,False,False,,MISS Zipser 19' Jump Shot,103-67,103,67
 0021700581,2018-01-06,IND,CHI,38.38,4,9,37,IND,IND,reb,0,False,False,Joseph REBOUND (Off:1 Def:9),,103-67,103,67
@@ -386,8 +386,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700581,2018-01-06,IND,CHI,45.72,4,2,17,IND,IND,fg3_miss,1,False,False,MISS Poythress 27' 3PT Jump Shot,,121-86,121,86
 0021700581,2018-01-06,IND,CHI,45.77,4,2,14,CHI,CHI,reb,0,False,False,,Zipser REBOUND (Off:0 Def:2),121-86,121,86
 0021700581,2018-01-06,IND,CHI,45.97,4,2,2,CHI,CHI,tov,1,False,True,,Zipser Bad Pass Turnover (P2.T16),121-86,121,86
-0021700581,2018-01-06,IND,CHI,45.97,4,2,2,IND,CHI,foul,1,False,False,,Zipser P.FOUL (P2.PN) (T.Brothers),121-86,121,86
 0021700581,2018-01-06,IND,CHI,45.97,4,2,2,CHI,IND,steal,1,False,True,steal,steal,121-86,121,86
+0021700581,2018-01-06,IND,CHI,45.97,4,2,2,IND,CHI,foul,1,False,False,,Zipser P.FOUL (P2.PN) (T.Brothers),121-86,121,86
 0021700581,2018-01-06,IND,CHI,45.97,4,2,2,IND,IND,ft_make,11,False,False,Young Free Throw 1 of 2 (10 PTS),,122-86,122,86
 0021700581,2018-01-06,IND,CHI,45.97,4,2,2,IND,IND,ft_make,12,False,False,Young Free Throw 2 of 2 (11 PTS),,123-86,123,86
 0021700581,2018-01-06,IND,CHI,46.22,4,1,47,CHI,CHI,fg_miss,80,False,False,,MISS Grant 7' Step Back Jump Shot,123-86,123,86

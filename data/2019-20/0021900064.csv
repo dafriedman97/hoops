@@ -72,8 +72,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900064,2019-10-30,SAC,CHA,7.63,1,4,22,CHA,CHA,fg3_miss,1,False,False,,MISS Rozier 25' 3PT Jump Shot,21-15,21,15
 0021900064,2019-10-30,SAC,CHA,7.7,1,4,18,SAC,SAC,reb,0,False,False,Ariza REBOUND (Off:0 Def:1),,21-15,21,15
 0021900064,2019-10-30,SAC,CHA,8.03,1,3,58,SAC,SAC,fg3_miss,1,True,False,MISS Ariza 3PT Jump Shot,,21-15,21,15
-0021900064,2019-10-30,SAC,CHA,8.03,1,3,58,SAC,SAC,reb,0,False,False,KINGS Rebound,,21-15,21,15
 0021900064,2019-10-30,SAC,CHA,8.03,1,3,58,SAC,CHA,block,1,True,False,block,block,21-15,21,15
+0021900064,2019-10-30,SAC,CHA,8.03,1,3,58,SAC,SAC,reb,0,False,False,KINGS Rebound,,21-15,21,15
 0021900064,2019-10-30,SAC,CHA,8.05,1,3,57,SAC,SAC,fg_make,43,False,False,Bjelica 2' Alley Oop Layup (5 PTS) (Ariza 1 AST),,23-15,23,15
 0021900064,2019-10-30,SAC,CHA,8.27,1,3,44,CHA,CHA,tov,1,False,True,,Rozier Bad Pass Turnover (P1.T8),23-15,23,15
 0021900064,2019-10-30,SAC,CHA,8.27,1,3,44,CHA,SAC,steal,1,False,True,steal,steal,23-15,23,15
@@ -192,8 +192,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900064,2019-10-30,SAC,CHA,20.45,2,3,33,SAC,SAC,fg_make,5,False,False,Bjelica 2' Layup (11 PTS) (Fox 5 AST),,60-48,60,48
 0021900064,2019-10-30,SAC,CHA,20.45,2,3,33,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.3 Short 0),60-48,60,48
 0021900064,2019-10-30,SAC,CHA,20.83,2,3,10,CHA,CHA,fg_miss,5,True,False,,MISS Bridges 11' Layup,60-48,60,48
-0021900064,2019-10-30,SAC,CHA,20.83,2,3,10,SAC,SAC,reb,0,False,False,KINGS Rebound,,60-48,60,48
 0021900064,2019-10-30,SAC,CHA,20.83,2,3,10,CHA,SAC,block,5,True,False,block,block,60-48,60,48
+0021900064,2019-10-30,SAC,CHA,20.83,2,3,10,SAC,SAC,reb,0,False,False,KINGS Rebound,,60-48,60,48
 0021900064,2019-10-30,SAC,CHA,21.12,2,2,53,SAC,SAC,fg3_miss,80,False,False,MISS Fox 25' 3PT Step Back Jump Shot,,60-48,60,48
 0021900064,2019-10-30,SAC,CHA,21.17,2,2,50,CHA,CHA,reb,0,False,False,,Zeller REBOUND (Off:1 Def:7),60-48,60,48
 0021900064,2019-10-30,SAC,CHA,21.25,2,2,45,CHA,CHA,fg3_make,1,False,False,,Washington 26' 3PT Jump Shot (15 PTS) (Graham 3 AST),60-51,60,51
@@ -302,8 +302,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900064,2019-10-30,SAC,CHA,33.35,3,2,39,SAC,SAC,fg3_miss,1,False,False,MISS Bogdanovic 26' 3PT Jump Shot,,81-85,81,85
 0021900064,2019-10-30,SAC,CHA,33.4,3,2,36,CHA,CHA,reb,0,False,False,,Williams REBOUND (Off:0 Def:2),81-85,81,85
 0021900064,2019-10-30,SAC,CHA,33.55,3,2,27,CHA,CHA,tov,1,False,True,,Zeller Bad Pass Turnover (P3.T15),81-85,81,85
-0021900064,2019-10-30,SAC,CHA,33.55,3,2,27,SAC,CHA,foul,28,False,False,,Graham Personal Take Foul (P1.T2) (A.Smith),81-85,81,85
 0021900064,2019-10-30,SAC,CHA,33.55,3,2,27,CHA,SAC,steal,1,False,True,steal,steal,81-85,81,85
+0021900064,2019-10-30,SAC,CHA,33.55,3,2,27,SAC,CHA,foul,28,False,False,,Graham Personal Take Foul (P1.T2) (A.Smith),81-85,81,85
 0021900064,2019-10-30,SAC,CHA,33.82,3,2,11,SAC,SAC,fg_miss,1,False,False,MISS Bogdanovic 22' Jump Shot,,81-85,81,85
 0021900064,2019-10-30,SAC,CHA,33.87,3,2,8,CHA,CHA,reb,0,False,False,,Zeller REBOUND (Off:5 Def:8),81-85,81,85
 0021900064,2019-10-30,SAC,CHA,34.1,3,1,54,CHA,CHA,fg_miss,47,False,False,,MISS Zeller 11' Turnaround Jump Shot,81-85,81,85
@@ -323,9 +323,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900064,2019-10-30,SAC,CHA,35.98,3,0,1,CHA,CHA,ft_make,11,False,False,,Graham Free Throw 1 of 2 (9 PTS),84-92,84,92
 0021900064,2019-10-30,SAC,CHA,35.98,3,0,1,CHA,CHA,ft_make,12,False,False,,Graham Free Throw 2 of 2 (10 PTS),84-93,84,93
 0021900064,2019-10-30,SAC,CHA,36.0,3,0,0,SAC,SAC,tov,2,False,True,Joseph Lost Ball Turnover (P1.T12),,84-93,84,93
+0021900064,2019-10-30,SAC,CHA,36.0,3,0,0,SAC,CHA,steal,2,False,True,steal,steal,84-93,84,93
 0021900064,2019-10-30,SAC,CHA,36.0,3,0,0,SAC,,period_end,0,False,False,,,84-93,84,93
 0021900064,2019-10-30,SAC,CHA,36.0,4,12,0,SAC,,period_start,0,False,False,,,84-93,84,93
-0021900064,2019-10-30,SAC,CHA,36.0,3,0,0,SAC,CHA,steal,2,False,True,steal,steal,84-93,84,93
 0021900064,2019-10-30,SAC,CHA,36.25,4,11,45,CHA,CHA,fg_miss,5,False,False,,MISS Washington 2' Layup,84-93,84,93
 0021900064,2019-10-30,SAC,CHA,36.27,4,11,44,CHA,CHA,reb,0,False,False,,Williams REBOUND (Off:1 Def:2),84-93,84,93
 0021900064,2019-10-30,SAC,CHA,36.27,4,11,44,CHA,CHA,fg_make,97,False,False,,Williams 1' Tip Layup Shot (9 PTS),84-95,84,95

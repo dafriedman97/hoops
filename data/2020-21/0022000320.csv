@@ -39,9 +39,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000320,2021-02-01,SAS,MEM,4.28,1,7,43,MEM,MEM,reb,0,False,False,,Tillman REBOUND (Off:0 Def:2),10-11,10,11
 0022000320,2021-02-01,SAS,MEM,4.37,1,7,38,MEM,MEM,fg_make,71,False,False,,Clarke 2' Finger Roll Layup (5 PTS),10-13,10,13
 0022000320,2021-02-01,SAS,MEM,4.68,1,7,19,SAS,SAS,fg_miss,5,True,False,MISS Johnson 9' Layup,,10-13,10,13
+0022000320,2021-02-01,SAS,MEM,4.68,1,7,19,SAS,MEM,block,5,True,False,block,block,10-13,10,13
 0022000320,2021-02-01,SAS,MEM,4.68,1,7,19,SAS,SAS,reb,0,False,False,Johnson REBOUND (Off:1 Def:0),,10-13,10,13
 0022000320,2021-02-01,SAS,MEM,4.68,1,7,19,SAS,MEM,foul,2,False,False,,Tillman S.FOUL (P1.T1) (M.Kogut),10-13,10,13
-0022000320,2021-02-01,SAS,MEM,4.68,1,7,19,SAS,MEM,block,5,True,False,block,block,10-13,10,13
 0022000320,2021-02-01,SAS,MEM,4.68,1,7,19,SAS,SAS,ft_make,11,False,False,Johnson Free Throw 1 of 2 (1 PTS),,11-13,11,13
 0022000320,2021-02-01,SAS,MEM,4.68,1,7,19,SAS,SAS,ft_make,12,False,False,Johnson Free Throw 2 of 2 (2 PTS),,12-13,12,13
 0022000320,2021-02-01,SAS,MEM,5.03,1,6,58,MEM,MEM,fg_make,1,False,False,,Dieng 15' Jump Shot (2 PTS) (Melton 1 AST),12-15,12,15
@@ -87,8 +87,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000320,2021-02-01,SAS,MEM,9.07,1,2,56,MEM,MEM,tov,1,False,True,,Melton Bad Pass Turnover (P1.T2),22-25,22,25
 0022000320,2021-02-01,SAS,MEM,9.07,1,2,56,MEM,SAS,steal,1,False,True,steal,steal,22-25,22,25
 0022000320,2021-02-01,SAS,MEM,9.13,1,2,52,SAS,SAS,fg_miss,76,True,False,MISS Mills 2' Running Finger Roll Layup,,22-25,22,25
-0022000320,2021-02-01,SAS,MEM,9.13,1,2,52,MEM,MEM,reb,0,False,False,,Melton REBOUND (Off:0 Def:2),22-25,22,25
 0022000320,2021-02-01,SAS,MEM,9.13,1,2,52,SAS,MEM,block,76,True,False,block,block,22-25,22,25
+0022000320,2021-02-01,SAS,MEM,9.13,1,2,52,MEM,MEM,reb,0,False,False,,Melton REBOUND (Off:0 Def:2),22-25,22,25
 0022000320,2021-02-01,SAS,MEM,9.27,1,2,44,MEM,MEM,fg_miss,79,False,False,,MISS Bane 18' Pullup Jump Shot,22-25,22,25
 0022000320,2021-02-01,SAS,MEM,9.35,1,2,39,SAS,SAS,reb,0,False,False,White REBOUND (Off:0 Def:1),,22-25,22,25
 0022000320,2021-02-01,SAS,MEM,9.48,1,2,31,SAS,SAS,fg3_miss,1,False,False,MISS White 25' 3PT Jump Shot,,22-25,22,25
@@ -141,8 +141,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000320,2021-02-01,SAS,MEM,16.47,2,7,32,MEM,MEM,fg_miss,75,False,False,,MISS Morant 3' Driving Finger Roll Layup,40-41,40,41
 0022000320,2021-02-01,SAS,MEM,16.52,2,7,29,SAS,SAS,reb,0,False,False,Vassell REBOUND (Off:0 Def:2),,40-41,40,41
 0022000320,2021-02-01,SAS,MEM,16.6,2,7,24,SAS,SAS,tov,1,False,True,Vassell Bad Pass Turnover (P1.T1),,40-41,40,41
-0022000320,2021-02-01,SAS,MEM,16.6,2,7,24,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.2 Short 0),40-41,40,41
 0022000320,2021-02-01,SAS,MEM,16.6,2,7,24,SAS,MEM,steal,1,False,True,steal,steal,40-41,40,41
+0022000320,2021-02-01,SAS,MEM,16.6,2,7,24,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.2 Short 0),40-41,40,41
 0022000320,2021-02-01,SAS,MEM,16.77,2,7,14,MEM,MEM,fg_make,79,False,False,,Anderson 15' Pullup Jump Shot (7 PTS) (Jones 4 AST),40-43,40,43
 0022000320,2021-02-01,SAS,MEM,17.12,2,6,53,SAS,SAS,tov,2,False,True,Gay Lost Ball Turnover (P1.T2),,40-43,40,43
 0022000320,2021-02-01,SAS,MEM,17.12,2,6,53,SAS,MEM,steal,2,False,True,steal,steal,40-43,40,43
@@ -166,8 +166,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000320,2021-02-01,SAS,MEM,18.67,2,5,20,SAS,MEM,block,5,True,False,block,block,42-49,42,49
 0022000320,2021-02-01,SAS,MEM,18.7,2,5,18,SAS,SAS,reb,0,False,False,Johnson REBOUND (Off:2 Def:2),,42-49,42,49
 0022000320,2021-02-01,SAS,MEM,18.7,2,5,18,SAS,SAS,tov,1,False,True,Johnson Bad Pass Turnover (P1.T4),,42-49,42,49
-0022000320,2021-02-01,SAS,MEM,18.7,2,5,18,MEM,SAS,foul,1,False,False,White P.FOUL (P1.T3) (B.Schwab),,42-49,42,49
 0022000320,2021-02-01,SAS,MEM,18.7,2,5,18,SAS,MEM,steal,1,False,True,steal,steal,42-49,42,49
+0022000320,2021-02-01,SAS,MEM,18.7,2,5,18,MEM,SAS,foul,1,False,False,White P.FOUL (P1.T3) (B.Schwab),,42-49,42,49
 0022000320,2021-02-01,SAS,MEM,18.97,2,5,2,MEM,MEM,fg_make,75,False,False,,Jones 1' Driving Finger Roll Layup (6 PTS),42-51,42,51
 0022000320,2021-02-01,SAS,MEM,19.25,2,4,45,SAS,SAS,fg_miss,75,False,False,MISS Walker IV 1' Driving Finger Roll Layup,,42-51,42,51
 0022000320,2021-02-01,SAS,MEM,19.3,2,4,42,MEM,MEM,reb,0,False,False,,Melton REBOUND (Off:0 Def:4),42-51,42,51
@@ -244,8 +244,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000320,2021-02-01,SAS,MEM,27.63,3,8,22,MEM,MEM,tov,1,False,True,,Morant Bad Pass Turnover (P2.T4),59-80,59,80
 0022000320,2021-02-01,SAS,MEM,27.63,3,8,22,MEM,SAS,steal,1,False,True,steal,steal,59-80,59,80
 0022000320,2021-02-01,SAS,MEM,27.7,3,8,18,SAS,SAS,fg_miss,5,True,False,MISS Johnson 4' Layup,,59-80,59,80
-0022000320,2021-02-01,SAS,MEM,27.7,3,8,18,SAS,SAS,reb,0,False,False,SPURS Rebound,,59-80,59,80
 0022000320,2021-02-01,SAS,MEM,27.7,3,8,18,SAS,MEM,block,5,True,False,block,block,59-80,59,80
+0022000320,2021-02-01,SAS,MEM,27.7,3,8,18,SAS,SAS,reb,0,False,False,SPURS Rebound,,59-80,59,80
 0022000320,2021-02-01,SAS,MEM,27.78,3,8,13,SAS,SAS,fg_miss,80,False,False,MISS Aldridge 14' Step Back Jump Shot,,59-80,59,80
 0022000320,2021-02-01,SAS,MEM,27.78,3,8,13,MEM,MEM,reb,0,False,False,,Clarke REBOUND (Off:1 Def:5),59-80,59,80
 0022000320,2021-02-01,SAS,MEM,27.93,3,8,4,MEM,MEM,fg_make,78,False,False,,Brooks 14' Floating Jump Shot (9 PTS),59-82,59,82
@@ -264,8 +264,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000320,2021-02-01,SAS,MEM,29.88,3,6,7,SAS,SAS,fg3_miss,1,False,False,MISS Johnson 26' 3PT Jump Shot,,65-86,65,86
 0022000320,2021-02-01,SAS,MEM,29.93,3,6,4,MEM,MEM,reb,0,False,False,,Tillman REBOUND (Off:0 Def:7),65-86,65,86
 0022000320,2021-02-01,SAS,MEM,29.98,3,6,1,MEM,MEM,tov,2,False,True,,Morant Lost Ball Turnover (P4.T6),65-86,65,86
-0022000320,2021-02-01,SAS,MEM,29.98,3,6,1,SAS,MEM,foul,1,False,False,,Clarke P.FOUL (P1.T2) (M.Davis),65-86,65,86
 0022000320,2021-02-01,SAS,MEM,29.98,3,6,1,MEM,SAS,steal,2,False,True,steal,steal,65-86,65,86
+0022000320,2021-02-01,SAS,MEM,29.98,3,6,1,SAS,MEM,foul,1,False,False,,Clarke P.FOUL (P1.T2) (M.Davis),65-86,65,86
 0022000320,2021-02-01,SAS,MEM,30.37,3,5,38,SAS,SAS,fg_make,75,False,False,Johnson 1' Driving Finger Roll Layup (18 PTS) (DeRozan 5 AST),,67-86,67,86
 0022000320,2021-02-01,SAS,MEM,30.37,3,5,38,SAS,MEM,foul,2,False,False,,Dieng S.FOUL (P3.T3) (M.Davis),67-86,67,86
 0022000320,2021-02-01,SAS,MEM,30.37,3,5,38,SAS,SAS,ft_make,10,False,False,Johnson Free Throw 1 of 1 (19 PTS),,68-86,68,86
@@ -359,8 +359,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000320,2021-02-01,SAS,MEM,39.15,4,8,51,MEM,MEM,fg_make,7,False,False,,Tillman 2' Dunk (10 PTS) (Bane 1 AST),87-106,87,106
 0022000320,2021-02-01,SAS,MEM,39.15,4,8,51,SAS,SAS,timeout,1,False,False,SPURS Timeout: Regular (Full 4 Short 0),,87-106,87,106
 0022000320,2021-02-01,SAS,MEM,39.35,4,8,39,SAS,SAS,fg_miss,6,True,False,MISS White 3' Driving Layup,,87-106,87,106
-0022000320,2021-02-01,SAS,MEM,39.35,4,8,39,SAS,SAS,reb,0,False,False,SPURS Rebound,,87-106,87,106
 0022000320,2021-02-01,SAS,MEM,39.35,4,8,39,SAS,MEM,block,6,True,False,block,block,87-106,87,106
+0022000320,2021-02-01,SAS,MEM,39.35,4,8,39,SAS,SAS,reb,0,False,False,SPURS Rebound,,87-106,87,106
 0022000320,2021-02-01,SAS,MEM,39.52,4,8,29,SAS,SAS,fg_make,1,False,False,Johnson 22' Jump Shot (25 PTS) (White 5 AST),,89-106,89,106
 0022000320,2021-02-01,SAS,MEM,39.83,4,8,10,MEM,MEM,fg_miss,47,True,False,,MISS Tillman 5' Turnaround Jump Shot,89-106,89,106
 0022000320,2021-02-01,SAS,MEM,39.83,4,8,10,MEM,SAS,block,47,True,False,block,block,89-106,89,106
@@ -382,8 +382,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000320,2021-02-01,SAS,MEM,41.57,4,6,26,MEM,MEM,fg_miss,6,False,False,,MISS Melton 4' Driving Layup,89-108,89,108
 0022000320,2021-02-01,SAS,MEM,41.6,4,6,24,SAS,SAS,reb,0,False,False,Murray REBOUND (Off:1 Def:4),,89-108,89,108
 0022000320,2021-02-01,SAS,MEM,41.67,4,6,20,SAS,SAS,fg_miss,6,True,False,MISS Johnson 4' Driving Layup,,89-108,89,108
-0022000320,2021-02-01,SAS,MEM,41.67,4,6,20,MEM,MEM,reb,0,False,False,,Tillman REBOUND (Off:1 Def:8),89-108,89,108
 0022000320,2021-02-01,SAS,MEM,41.67,4,6,20,SAS,MEM,block,6,True,False,block,block,89-108,89,108
+0022000320,2021-02-01,SAS,MEM,41.67,4,6,20,MEM,MEM,reb,0,False,False,,Tillman REBOUND (Off:1 Def:8),89-108,89,108
 0022000320,2021-02-01,SAS,MEM,41.75,4,6,15,MEM,MEM,fg3_make,1,False,False,,Melton 24' 3PT Jump Shot (11 PTS) (Jones 11 AST),89-111,89,111
 0022000320,2021-02-01,SAS,MEM,41.78,4,6,13,SAS,SAS,timeout,1,False,False,SPURS Timeout: Regular (Full 5 Short 0),,89-111,89,111
 0022000320,2021-02-01,SAS,MEM,42.02,4,5,59,SAS,SAS,fg_miss,3,False,False,MISS Eubanks 4' Hook Shot,,89-111,89,111
@@ -395,9 +395,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000320,2021-02-01,SAS,MEM,42.43,4,5,34,MEM,MEM,reb,0,False,False,,Dieng REBOUND (Off:4 Def:5),89-113,89,113
 0022000320,2021-02-01,SAS,MEM,42.68,4,5,19,MEM,MEM,fg3_make,1,False,False,,Anderson 26' 3PT Jump Shot (14 PTS) (Brooks 1 AST),89-116,89,116
 0022000320,2021-02-01,SAS,MEM,43.03,4,4,58,SAS,SAS,fg_make,78,False,False,Eubanks 9' Floating Jump Shot (2 PTS) (Weatherspoon 1 AST),,91-116,91,116
-0022000320,2021-02-01,SAS,MEM,43.03,4,4,58,SAS,MEM,violation,2,False,False,,Dieng Violation:Defensive Goaltending (B.Schwab),91-116,91,116
 0022000320,2021-02-01,SAS,MEM,43.03,4,4,58,SAS,MEM,foul,2,False,False,,Dieng S.FOUL (P5.T4) (M.Kogut),91-116,91,116
 0022000320,2021-02-01,SAS,MEM,43.03,4,4,58,SAS,SAS,ft_miss,10,False,False,MISS Eubanks Free Throw 1 of 1,,91-116,91,116
+0022000320,2021-02-01,SAS,MEM,43.03,4,4,58,SAS,MEM,violation,2,False,False,,Dieng Violation:Defensive Goaltending (B.Schwab),91-116,91,116
 0022000320,2021-02-01,SAS,MEM,43.13,4,4,52,MEM,MEM,reb,0,False,False,,Anderson REBOUND (Off:0 Def:8),91-116,91,116
 0022000320,2021-02-01,SAS,MEM,43.38,4,4,37,MEM,MEM,fg3_make,1,False,False,,Anderson 3PT Jump Shot (17 PTS) (Jones 12 AST),91-119,91,119
 0022000320,2021-02-01,SAS,MEM,43.57,4,4,26,SAS,SAS,tov,1,False,True,Weatherspoon Bad Pass Turnover (P1.T12),,91-119,91,119
@@ -429,8 +429,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000320,2021-02-01,SAS,MEM,46.72,4,1,17,MEM,MEM,fg_make,5,False,False,,Dieng 1' Layup (19 PTS) (Melton 5 AST),102-130,102,130
 0022000320,2021-02-01,SAS,MEM,46.8,4,1,12,SAS,SAS,tov,45,False,False,Weatherspoon Out of Bounds - Bad Pass Turnover Turnover (P3.T14),,102-130,102,130
 0022000320,2021-02-01,SAS,MEM,47.15,4,0,51,MEM,MEM,fg_miss,6,True,False,,MISS Bane 5' Driving Layup,102-130,102,130
-0022000320,2021-02-01,SAS,MEM,47.15,4,0,51,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,102-130,102,130
 0022000320,2021-02-01,SAS,MEM,47.15,4,0,51,MEM,SAS,block,6,True,False,block,block,102-130,102,130
+0022000320,2021-02-01,SAS,MEM,47.15,4,0,51,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,102-130,102,130
 0022000320,2021-02-01,SAS,MEM,47.2,4,0,48,MEM,MEM,fg3_make,1,False,False,,Melton 26' 3PT Jump Shot (17 PTS) (Dieng 1 AST),102-133,102,133
 0022000320,2021-02-01,SAS,MEM,47.38,4,0,37,SAS,SAS,fg3_miss,1,False,False,MISS Bates-Diop 27' 3PT Jump Shot,,102-133,102,133
 0022000320,2021-02-01,SAS,MEM,47.43,4,0,34,SAS,SAS,reb,0,False,False,Eubanks REBOUND (Off:1 Def:1),,102-133,102,133

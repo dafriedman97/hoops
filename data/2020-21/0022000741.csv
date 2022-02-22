@@ -2,8 +2,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000741,2021-04-02,MEM,MIN,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
 0022000741,2021-04-02,MEM,MIN,0.0,1,12,0,,MEM,jump_ball,0,False,False,Jump Ball Valanciunas vs. Towns: Tip to Allen,,0-0,0,0
 0022000741,2021-04-02,MEM,MIN,0.3,1,11,42,MEM,MEM,fg_miss,79,False,False,MISS Brooks 14' Pullup Jump Shot,,0-0,0,0
-0022000741,2021-04-02,MEM,MIN,0.38,1,11,37,MEM,MEM,fg_make,72,False,False,Valanciunas 3' Putback Layup (2 PTS),,2-0,2,0
 0022000741,2021-04-02,MEM,MIN,0.38,1,11,37,MEM,MEM,reb,0,False,False,Valanciunas REBOUND (Off:1 Def:0),,2-0,2,0
+0022000741,2021-04-02,MEM,MIN,0.38,1,11,37,MEM,MEM,fg_make,72,False,False,Valanciunas 3' Putback Layup (2 PTS),,2-0,2,0
 0022000741,2021-04-02,MEM,MIN,0.58,1,11,25,MIN,MIN,fg3_miss,1,False,False,,MISS Beasley 26' 3PT Jump Shot,2-0,2,0
 0022000741,2021-04-02,MEM,MIN,0.6,1,11,24,MEM,MEM,reb,0,False,False,Anderson REBOUND (Off:0 Def:1),,2-0,2,0
 0022000741,2021-04-02,MEM,MIN,0.73,1,11,16,MEM,MEM,tov,1,False,True,Morant Bad Pass Turnover (P1.T1),,2-0,2,0
@@ -70,12 +70,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000741,2021-04-02,MEM,MIN,7.58,1,4,25,MIN,MIN,ft_make,12,False,False,,Towns Free Throw 2 of 2 (10 PTS),21-22,21,22
 0022000741,2021-04-02,MEM,MIN,7.8,1,4,12,MEM,MIN,foul,1,False,False,,Okogie P.FOUL (P1.T3) (D.Guthrie),21-22,21,22
 0022000741,2021-04-02,MEM,MIN,7.92,1,4,5,MEM,MEM,fg_miss,75,True,False,MISS Morant 1' Driving Finger Roll Layup,,21-22,21,22
+0022000741,2021-04-02,MEM,MIN,7.92,1,4,5,MEM,MIN,block,75,True,False,block,block,21-22,21,22
 0022000741,2021-04-02,MEM,MIN,7.92,1,4,5,MEM,MEM,reb,0,False,False,Tillman REBOUND (Off:1 Def:0),,21-22,21,22
 0022000741,2021-04-02,MEM,MIN,7.92,1,4,5,MEM,MIN,foul,2,False,False,,Nowell S.FOUL (P1.T4) (B.Schwab),21-22,21,22
 0022000741,2021-04-02,MEM,MIN,7.92,1,4,5,MEM,MEM,ft_miss,11,False,False,MISS Tillman Free Throw 1 of 2,,21-22,21,22
 0022000741,2021-04-02,MEM,MIN,7.92,1,4,5,MEM,MEM,reb,1,False,False,GRIZZLIES Rebound,,21-22,21,22
 0022000741,2021-04-02,MEM,MIN,7.92,1,4,5,MEM,MEM,ft_miss,12,False,False,MISS Tillman Free Throw 2 of 2,,21-22,21,22
-0022000741,2021-04-02,MEM,MIN,7.92,1,4,5,MEM,MIN,block,75,True,False,block,block,21-22,21,22
 0022000741,2021-04-02,MEM,MIN,7.97,1,4,2,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:2 Def:3),21-22,21,22
 0022000741,2021-04-02,MEM,MIN,8.2,1,3,48,MIN,MIN,fg_miss,5,True,False,,MISS Towns 2' Layup,21-22,21,22
 0022000741,2021-04-02,MEM,MIN,8.2,1,3,48,MIN,MEM,block,5,True,False,block,block,21-22,21,22
@@ -130,8 +130,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000741,2021-04-02,MEM,MIN,13.4,2,10,36,MEM,MEM,fg3_miss,80,False,False,MISS Clarke 25' 3PT Step Back Jump Shot,,34-31,34,31
 0022000741,2021-04-02,MEM,MIN,13.43,2,10,34,MEM,MEM,reb,0,False,False,Tillman REBOUND (Off:2 Def:1),,34-31,34,31
 0022000741,2021-04-02,MEM,MIN,13.45,2,10,33,MEM,MEM,fg_miss,72,True,False,MISS Tillman 1' Putback Layup,,34-31,34,31
-0022000741,2021-04-02,MEM,MIN,13.45,2,10,33,MIN,MIN,reb,0,False,False,,Hernangomez REBOUND (Off:0 Def:1),34-31,34,31
 0022000741,2021-04-02,MEM,MIN,13.45,2,10,33,MEM,MIN,block,72,True,False,block,block,34-31,34,31
+0022000741,2021-04-02,MEM,MIN,13.45,2,10,33,MIN,MIN,reb,0,False,False,,Hernangomez REBOUND (Off:0 Def:1),34-31,34,31
 0022000741,2021-04-02,MEM,MIN,13.75,2,10,15,MIN,MIN,fg_miss,58,False,False,,MISS Reid 13' Turnaround Hook Shot,34-31,34,31
 0022000741,2021-04-02,MEM,MIN,13.78,2,10,13,MEM,MEM,reb,0,False,False,Jones REBOUND (Off:0 Def:1),,34-31,34,31
 0022000741,2021-04-02,MEM,MIN,13.93,2,10,4,MEM,MEM,fg3_make,79,False,False,Brooks 28' 3PT Pullup Jump Shot (3 PTS),,37-31,37,31
@@ -291,8 +291,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000741,2021-04-02,MEM,MIN,31.0,3,5,0,MEM,MEM,fg_make,79,False,False,Brooks 22' Pullup Jump Shot (7 PTS) (Clarke 2 AST),,80-76,80,76
 0022000741,2021-04-02,MEM,MIN,31.18,3,4,49,MIN,MIN,fg3_make,79,False,False,,Edwards 25' 3PT Pullup Jump Shot (20 PTS),80-79,80,79
 0022000741,2021-04-02,MEM,MIN,31.38,3,4,37,MIN,MEM,foul,4,False,False,Brooks OFF.Foul (P4) (B.Schwab),,80-79,80,79
-0022000741,2021-04-02,MEM,MIN,31.38,3,4,37,MEM,MEM,tov,37,False,False,Brooks Offensive Foul Turnover (P2.T5),,80-79,80,79
 0022000741,2021-04-02,MEM,MIN,31.38,3,4,37,MIN,MIN,timeout,1,False,False,,Timberwolves Timeout: Regular (Reg.3 Short 0),80-79,80,79
+0022000741,2021-04-02,MEM,MIN,31.38,3,4,37,MEM,MEM,tov,37,False,False,Brooks Offensive Foul Turnover (P2.T5),,80-79,80,79
 0022000741,2021-04-02,MEM,MIN,31.7,3,4,18,MIN,MIN,tov,45,False,False,,Edwards Out of Bounds - Bad Pass Turnover Turnover (P1.T6),80-79,80,79
 0022000741,2021-04-02,MEM,MIN,32.02,3,3,59,MEM,MEM,fg_miss,99,False,False,MISS Clarke 1' Cutting Finger Roll Layup Shot,,80-79,80,79
 0022000741,2021-04-02,MEM,MIN,32.07,3,3,56,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:3 Def:11),80-79,80,79
@@ -338,8 +338,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000741,2021-04-02,MEM,MIN,36.68,4,11,19,MIN,MIN,fg3_miss,1,False,False,,MISS Hernangomez 25' 3PT Jump Shot,95-84,95,84
 0022000741,2021-04-02,MEM,MIN,36.72,4,11,17,MEM,MEM,reb,0,False,False,Valanciunas REBOUND (Off:4 Def:3),,95-84,95,84
 0022000741,2021-04-02,MEM,MIN,36.87,4,11,8,MEM,MEM,fg_miss,6,False,False,MISS Melton 4' Driving Layup,,95-84,95,84
-0022000741,2021-04-02,MEM,MIN,36.92,4,11,5,MEM,MEM,fg_miss,97,False,False,MISS Melton Tip Layup Shot,,95-84,95,84
 0022000741,2021-04-02,MEM,MIN,36.92,4,11,5,MEM,MEM,reb,0,False,False,Melton REBOUND (Off:2 Def:1),,95-84,95,84
+0022000741,2021-04-02,MEM,MIN,36.92,4,11,5,MEM,MEM,fg_miss,97,False,False,MISS Melton Tip Layup Shot,,95-84,95,84
 0022000741,2021-04-02,MEM,MIN,36.92,4,11,5,MEM,MEM,reb,0,False,False,Valanciunas REBOUND (Off:5 Def:3),,95-84,95,84
 0022000741,2021-04-02,MEM,MIN,37.05,4,10,57,MEM,MEM,fg_miss,58,False,False,MISS Valanciunas 2' Turnaround Hook Shot,,95-84,95,84
 0022000741,2021-04-02,MEM,MIN,37.08,4,10,55,MIN,MIN,reb,0,False,False,,Hernangomez REBOUND (Off:0 Def:3),95-84,95,84
@@ -351,8 +351,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000741,2021-04-02,MEM,MIN,38.17,4,9,50,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,97-86,97,86
 0022000741,2021-04-02,MEM,MIN,38.17,4,9,50,MEM,MEM,tov,11,False,False,GRIZZLIES Turnover: Shot Clock (T#7),,97-86,97,86
 0022000741,2021-04-02,MEM,MIN,38.37,4,9,38,MIN,MIN,fg_miss,6,True,False,,MISS Beasley 7' Driving Layup,97-86,97,86
-0022000741,2021-04-02,MEM,MIN,38.37,4,9,38,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,97-86,97,86
 0022000741,2021-04-02,MEM,MIN,38.37,4,9,38,MIN,MEM,block,6,True,False,block,block,97-86,97,86
+0022000741,2021-04-02,MEM,MIN,38.37,4,9,38,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,97-86,97,86
 0022000741,2021-04-02,MEM,MIN,38.62,4,9,23,MEM,MEM,fg_make,73,False,False,Clarke 2' Driving Reverse Layup (10 PTS),,99-86,99,86
 0022000741,2021-04-02,MEM,MIN,38.92,4,9,5,MIN,MIN,fg_miss,58,False,False,,MISS Towns 8' Turnaround Hook Shot,99-86,99,86
 0022000741,2021-04-02,MEM,MIN,38.98,4,9,1,MEM,MEM,reb,0,False,False,Melton REBOUND (Off:2 Def:2),,99-86,99,86

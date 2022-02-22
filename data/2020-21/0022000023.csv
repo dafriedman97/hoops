@@ -16,8 +16,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000023,2020-12-26,DET,CLE,1.88,1,10,7,CLE,CLE,fg_miss,101,False,False,,MISS Sexton 1' Driving Floating Jump Shot,3-3,3,3
 0022000023,2020-12-26,DET,CLE,1.95,1,10,3,DET,DET,reb,0,False,False,Grant REBOUND (Off:0 Def:2),,3-3,3,3
 0022000023,2020-12-26,DET,CLE,1.98,1,10,1,DET,DET,fg_miss,41,True,False,MISS Hayes 6' Running Layup,,3-3,3,3
-0022000023,2020-12-26,DET,CLE,1.98,1,10,1,CLE,CLE,reb,0,False,False,,Drummond REBOUND (Off:0 Def:1),3-3,3,3
 0022000023,2020-12-26,DET,CLE,1.98,1,10,1,DET,CLE,block,41,True,False,block,block,3-3,3,3
+0022000023,2020-12-26,DET,CLE,1.98,1,10,1,CLE,CLE,reb,0,False,False,,Drummond REBOUND (Off:0 Def:1),3-3,3,3
 0022000023,2020-12-26,DET,CLE,2.15,1,9,51,CLE,CLE,fg3_make,80,False,False,,Sexton 28' 3PT Step Back Jump Shot (3 PTS),3-6,3,6
 0022000023,2020-12-26,DET,CLE,2.57,1,9,26,DET,DET,tov,11,False,False,PISTONS Turnover: Shot Clock (T#2),,3-6,3,6
 0022000023,2020-12-26,DET,CLE,2.75,1,9,15,CLE,CLE,fg3_make,79,False,False,,Love 26' 3PT Pullup Jump Shot (3 PTS),3-9,3,9
@@ -217,9 +217,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000023,2020-12-26,DET,CLE,23.98,2,0,1,CLE,CLE,fg_make,101,False,False,,Sexton 3' Driving Floating Jump Shot (15 PTS) (Drummond 2 AST),53-59,53,59
 0022000023,2020-12-26,DET,CLE,23.98,2,0,1,DET,DET,tov,1,False,True,Griffin Bad Pass Turnover (P1.T8),,53-59,53,59
 0022000023,2020-12-26,DET,CLE,23.98,2,0,1,DET,CLE,steal,1,False,True,steal,steal,53-59,53,59
+0022000023,2020-12-26,DET,CLE,24.0,2,0,0,CLE,,period_end,0,False,False,,,53-59,53,59
 0022000023,2020-12-26,DET,CLE,24.0,2,0,0,CLE,CLE,fg3_miss,1,False,False,,MISS Drummond 74' 3PT Jump Shot,53-59,53,59
 0022000023,2020-12-26,DET,CLE,24.0,2,0,0,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,53-59,53,59
-0022000023,2020-12-26,DET,CLE,24.0,2,0,0,CLE,,period_end,0,False,False,,,53-59,53,59
 0022000023,2020-12-26,DET,CLE,24.0,3,12,0,CLE,,period_start,0,False,False,,,53-59,53,59
 0022000023,2020-12-26,DET,CLE,24.32,3,11,41,DET,DET,fg3_miss,1,False,False,MISS Griffin 26' 3PT Jump Shot,,53-59,53,59
 0022000023,2020-12-26,DET,CLE,24.37,3,11,38,DET,DET,reb,0,False,False,PISTONS Rebound,,53-59,53,59
@@ -285,8 +285,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000023,2020-12-26,DET,CLE,31.8,3,4,12,DET,DET,tov,2,False,True,Rose Lost Ball Turnover (P2.T11),,69-78,69,78
 0022000023,2020-12-26,DET,CLE,31.8,3,4,12,DET,CLE,steal,2,False,True,steal,steal,69-78,69,78
 0022000023,2020-12-26,DET,CLE,31.85,3,4,9,CLE,CLE,fg_miss,41,True,False,,MISS Nance Jr. 1' Running Layup,69-78,69,78
-0022000023,2020-12-26,DET,CLE,31.85,3,4,9,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,69-78,69,78
 0022000023,2020-12-26,DET,CLE,31.85,3,4,9,CLE,DET,block,41,True,False,block,block,69-78,69,78
+0022000023,2020-12-26,DET,CLE,31.85,3,4,9,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,69-78,69,78
 0022000023,2020-12-26,DET,CLE,31.97,3,4,2,DET,CLE,foul,4,False,False,,McGee OFF.Foul (P3) (C.Kirkland),69-78,69,78
 0022000023,2020-12-26,DET,CLE,31.97,3,4,2,CLE,CLE,tov,37,False,False,,McGee Offensive Foul Turnover (P1.T9),69-78,69,78
 0022000023,2020-12-26,DET,CLE,32.13,3,3,52,DET,CLE,foul,2,False,False,,McGee S.FOUL (P4.T4) (C.Kirkland),69-78,69,78
@@ -314,8 +314,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000023,2020-12-26,DET,CLE,33.55,3,2,27,CLE,CLE,fg_make,41,False,False,,Exum 1' Running Layup (4 PTS) (Sexton 3 AST),72-81,72,81
 0022000023,2020-12-26,DET,CLE,33.93,3,2,4,DET,DET,fg3_make,1,False,False,Grant 26' 3PT Jump Shot (17 PTS) (Jackson 1 AST),,75-81,75,81
 0022000023,2020-12-26,DET,CLE,34.13,3,1,52,CLE,CLE,tov,1,False,True,,Sexton Bad Pass Turnover (P3.T10),75-81,75,81
-0022000023,2020-12-26,DET,CLE,34.13,3,1,52,DET,CLE,foul,1,False,False,,McGee P.FOUL (P5.PN) (C.Kirkland),75-81,75,81
 0022000023,2020-12-26,DET,CLE,34.13,3,1,52,CLE,DET,steal,1,False,True,steal,steal,75-81,75,81
+0022000023,2020-12-26,DET,CLE,34.13,3,1,52,DET,CLE,foul,1,False,False,,McGee P.FOUL (P5.PN) (C.Kirkland),75-81,75,81
 0022000023,2020-12-26,DET,CLE,34.13,3,1,52,DET,DET,ft_make,11,False,False,Jackson Free Throw 1 of 2 (3 PTS),,76-81,76,81
 0022000023,2020-12-26,DET,CLE,34.13,3,1,52,DET,DET,ft_make,12,False,False,Jackson Free Throw 2 of 2 (4 PTS),,77-81,77,81
 0022000023,2020-12-26,DET,CLE,34.45,3,1,33,CLE,CLE,fg_miss,5,False,False,,MISS Drummond 1' Layup,77-81,77,81
@@ -379,8 +379,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000023,2020-12-26,DET,CLE,41.05,4,6,57,DET,DET,fg3_miss,1,False,False,MISS Jackson 24' 3PT Jump Shot,,92-89,92,89
 0022000023,2020-12-26,DET,CLE,41.12,4,6,53,DET,DET,reb,0,False,False,Wright REBOUND (Off:1 Def:3),,92-89,92,89
 0022000023,2020-12-26,DET,CLE,41.15,4,6,51,DET,DET,fg_miss,98,True,False,MISS Jackson 5' Cutting Layup Shot,,92-89,92,89
-0022000023,2020-12-26,DET,CLE,41.15,4,6,51,CLE,CLE,reb,0,False,False,,Garland REBOUND (Off:2 Def:3),92-89,92,89
 0022000023,2020-12-26,DET,CLE,41.15,4,6,51,DET,CLE,block,98,True,False,block,block,92-89,92,89
+0022000023,2020-12-26,DET,CLE,41.15,4,6,51,CLE,CLE,reb,0,False,False,,Garland REBOUND (Off:2 Def:3),92-89,92,89
 0022000023,2020-12-26,DET,CLE,41.25,4,6,45,CLE,CLE,fg_make,41,False,False,,Sexton 1' Running Layup (20 PTS) (Garland 10 AST),92-91,92,91
 0022000023,2020-12-26,DET,CLE,41.42,4,6,35,DET,DET,fg3_make,1,False,False,Griffin 26' 3PT Jump Shot (26 PTS),,95-91,95,91
 0022000023,2020-12-26,DET,CLE,41.78,4,6,13,CLE,CLE,tov,1,False,True,,McGee Bad Pass Turnover (P2.T14),95-91,95,91
@@ -452,8 +452,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000023,2020-12-26,DET,CLE,47.18,4,0,49,CLE,CLE,reb,0,False,False,,Love REBOUND (Off:1 Def:6),101-101,101,101
 0022000023,2020-12-26,DET,CLE,47.53,4,0,28,CLE,CLE,tov,2,False,True,,Drummond Lost Ball Turnover (P4.T17),101-101,101,101
 0022000023,2020-12-26,DET,CLE,47.53,4,0,28,CLE,DET,steal,2,False,True,steal,steal,101-101,101,101
-0022000023,2020-12-26,DET,CLE,47.92,4,0,5,DET,DET,tov,11,False,False,PISTONS Turnover: Shot Clock (T#20),,101-101,101,101
 0022000023,2020-12-26,DET,CLE,47.92,4,0,5,CLE,CLE,timeout,1,False,False,,Cavaliers Timeout: Regular (Reg.5 Short 0),101-101,101,101
+0022000023,2020-12-26,DET,CLE,47.92,4,0,5,DET,DET,tov,11,False,False,PISTONS Turnover: Shot Clock (T#20),,101-101,101,101
 0022000023,2020-12-26,DET,CLE,47.95,4,0,3,CLE,CLE,fg_miss,1,False,False,,MISS Garland 6' Jump Shot,101-101,101,101
 0022000023,2020-12-26,DET,CLE,47.97,4,0,2,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,101-101,101,101
 0022000023,2020-12-26,DET,CLE,48.0,4,0,0,CLE,,period_end,0,False,False,,,101-101,101,101
@@ -493,8 +493,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000023,2020-12-26,DET,CLE,52.78,5,0,13,DET,CLE,steal,2,False,True,steal,steal,112-110,112,110
 0022000023,2020-12-26,DET,CLE,52.88,5,0,7,CLE,CLE,fg_make,6,False,False,,Sexton Driving Layup (26 PTS),112-112,112,112
 0022000023,2020-12-26,DET,CLE,52.98,5,0,1,DET,DET,tov,2,False,True,Rose Lost Ball Turnover (P6.T23),,112-112,112,112
-0022000023,2020-12-26,DET,CLE,52.98,5,0,1,CLE,CLE,timeout,1,False,False,,Cavaliers Timeout: Regular (Reg.7 Short 0),112-112,112,112
 0022000023,2020-12-26,DET,CLE,52.98,5,0,1,DET,CLE,steal,2,False,True,steal,steal,112-112,112,112
+0022000023,2020-12-26,DET,CLE,52.98,5,0,1,CLE,CLE,timeout,1,False,False,,Cavaliers Timeout: Regular (Reg.7 Short 0),112-112,112,112
 0022000023,2020-12-26,DET,CLE,53.0,5,0,0,CLE,,period_end,0,False,False,,,112-112,112,112
 0022000023,2020-12-26,DET,CLE,53.0,6,5,0,CLE,,period_start,0,False,False,,,112-112,112,112
 0022000023,2020-12-26,DET,CLE,53.0,6,5,0,,DET,jump_ball,0,False,False,Jump Ball Grant vs. Drummond: Tip to Love,,112-112,112,112

@@ -79,9 +79,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900858,2020-02-25,TOR,MIL,9.57,1,2,26,TOR,TOR,fg3_make,2,False,False,Siakam 28' 3PT Running Jump Shot (4 PTS) (Hollis-Jefferson 1 AST),,20-19,20,19
 0021900858,2020-02-25,TOR,MIL,9.88,1,2,7,MIL,MIL,fg3_make,79,False,False,,Bledsoe 28' 3PT Pullup Jump Shot (9 PTS),20-22,20,22
 0021900858,2020-02-25,TOR,MIL,10.05,1,1,57,TOR,TOR,fg_miss,6,True,False,MISS Siakam 4' Driving Layup,,20-22,20,22
+0021900858,2020-02-25,TOR,MIL,10.05,1,1,57,TOR,MIL,block,6,True,False,block,block,20-22,20,22
 0021900858,2020-02-25,TOR,MIL,10.05,1,1,57,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,20-22,20,22
 0021900858,2020-02-25,TOR,MIL,10.05,1,1,57,TOR,TOR,timeout,1,False,False,RAPTORS Timeout: Regular (Full 1 Short 0),,20-22,20,22
-0021900858,2020-02-25,TOR,MIL,10.05,1,1,57,TOR,MIL,block,6,True,False,block,block,20-22,20,22
 0021900858,2020-02-25,TOR,MIL,10.23,1,1,46,TOR,TOR,fg3_miss,80,False,False,MISS Davis 26' 3PT Step Back Jump Shot,,20-22,20,22
 0021900858,2020-02-25,TOR,MIL,10.32,1,1,41,TOR,TOR,reb,0,False,False,Boucher REBOUND (Off:1 Def:0),,20-22,20,22
 0021900858,2020-02-25,TOR,MIL,10.32,1,1,41,TOR,TOR,fg_make,107,False,False,Boucher 1' Tip Dunk Shot (5 PTS),,22-22,22,22
@@ -166,9 +166,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900858,2020-02-25,TOR,MIL,17.47,2,6,32,TOR,MIL,foul,1,False,False,,Bledsoe P.FOUL (P1.T1) (D.Collins),41-35,41,35
 0021900858,2020-02-25,TOR,MIL,17.62,2,6,23,TOR,TOR,fg3_make,79,False,False,VanVleet 24' 3PT Pullup Jump Shot (5 PTS),,44-35,44,35
 0021900858,2020-02-25,TOR,MIL,17.88,2,6,7,MIL,MIL,tov,2,False,True,,Middleton Lost Ball Turnover (P1.T5),44-35,44,35
+0021900858,2020-02-25,TOR,MIL,17.88,2,6,7,MIL,TOR,steal,2,False,True,steal,steal,44-35,44,35
 0021900858,2020-02-25,TOR,MIL,17.88,2,6,7,,TOR,jump_ball,0,False,False,Jump Ball VanVleet vs. Lopez: Tip to Bledsoe,,44-35,44,35
 0021900858,2020-02-25,TOR,MIL,17.88,2,6,7,TOR,TOR,tov,2,False,True,VanVleet Lost Ball Turnover (P1.T4),,44-35,44,35
-0021900858,2020-02-25,TOR,MIL,17.88,2,6,7,MIL,TOR,steal,2,False,True,steal,steal,44-35,44,35
 0021900858,2020-02-25,TOR,MIL,17.88,2,6,7,TOR,MIL,steal,2,False,True,steal,steal,44-35,44,35
 0021900858,2020-02-25,TOR,MIL,18.02,2,5,59,MIL,TOR,foul,2,False,False,Ibaka S.FOUL (P2.T4) (D.Collins),,44-35,44,35
 0021900858,2020-02-25,TOR,MIL,18.02,2,5,59,MIL,MIL,ft_make,11,False,False,,Bledsoe Free Throw 1 of 2 (11 PTS),44-36,44,36
@@ -192,8 +192,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900858,2020-02-25,TOR,MIL,19.98,2,4,1,TOR,TOR,fg_miss,3,False,False,MISS Ibaka 4' Hook Shot,,47-37,47,37
 0021900858,2020-02-25,TOR,MIL,20.03,2,3,58,MIL,MIL,reb,0,False,False,,DiVincenzo REBOUND (Off:0 Def:3),47-37,47,37
 0021900858,2020-02-25,TOR,MIL,20.12,2,3,53,MIL,MIL,fg3_miss,2,True,False,,MISS Williams 24' 3PT Running Jump Shot,47-37,47,37
-0021900858,2020-02-25,TOR,MIL,20.12,2,3,53,TOR,TOR,reb,0,False,False,Thomas REBOUND (Off:0 Def:1),,47-37,47,37
 0021900858,2020-02-25,TOR,MIL,20.12,2,3,53,MIL,TOR,block,2,True,False,block,block,47-37,47,37
+0021900858,2020-02-25,TOR,MIL,20.12,2,3,53,TOR,TOR,reb,0,False,False,Thomas REBOUND (Off:0 Def:1),,47-37,47,37
 0021900858,2020-02-25,TOR,MIL,20.38,2,3,37,TOR,MIL,foul,1,False,False,,Williams P.FOUL (P1.T3) (D.Collins),47-37,47,37
 0021900858,2020-02-25,TOR,MIL,20.45,2,3,33,TOR,TOR,tov,1,False,True,Ibaka Bad Pass Turnover (P1.T6),,47-37,47,37
 0021900858,2020-02-25,TOR,MIL,20.45,2,3,33,TOR,MIL,steal,1,False,True,steal,steal,47-37,47,37
@@ -238,10 +238,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900858,2020-02-25,TOR,MIL,23.75,2,0,15,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:0 Def:9),52-48,52,48
 0021900858,2020-02-25,TOR,MIL,23.93,2,0,4,MIL,MIL,fg_make,6,False,False,,Antetokounmpo 2' Driving Layup (10 PTS),52-50,52,50
 0021900858,2020-02-25,TOR,MIL,24.0,2,0,0,TOR,TOR,fg_miss,41,True,False,MISS Lowry 5' Running Layup,,52-50,52,50
+0021900858,2020-02-25,TOR,MIL,24.0,2,0,0,TOR,MIL,block,41,True,False,block,block,52-50,52,50
 0021900858,2020-02-25,TOR,MIL,24.0,2,0,0,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,52-50,52,50
 0021900858,2020-02-25,TOR,MIL,24.0,2,0,0,TOR,,period_end,0,False,False,,,52-50,52,50
 0021900858,2020-02-25,TOR,MIL,24.0,3,12,0,TOR,,period_start,0,False,False,,,52-50,52,50
-0021900858,2020-02-25,TOR,MIL,24.0,2,0,0,TOR,MIL,block,41,True,False,block,block,52-50,52,50
 0021900858,2020-02-25,TOR,MIL,24.17,3,11,50,MIL,TOR,violation,5,False,False,Lowry Violation:Kicked Ball (J.DeRosa),,52-50,52,50
 0021900858,2020-02-25,TOR,MIL,24.27,3,11,44,MIL,MIL,fg_make,57,False,False,,Lopez 8' Driving Hook Shot (12 PTS),52-52,52,52
 0021900858,2020-02-25,TOR,MIL,24.67,3,11,20,TOR,TOR,fg3_miss,1,False,False,MISS Ibaka 26' 3PT Jump Shot,,52-52,52,52
@@ -348,11 +348,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900858,2020-02-25,TOR,MIL,35.95,3,0,3,MIL,MIL,fg_miss,79,False,False,,MISS Bledsoe 20' Pullup Jump Shot,71-84,71,84
 0021900858,2020-02-25,TOR,MIL,36.0,3,0,0,TOR,TOR,reb,0,False,False,Boucher REBOUND (Off:2 Def:3),,71-84,71,84
 0021900858,2020-02-25,TOR,MIL,36.0,3,0,0,TOR,TOR,tov,1,False,True,Boucher Bad Pass Turnover (P1.T12),,71-84,71,84
+0021900858,2020-02-25,TOR,MIL,36.0,3,0,0,TOR,MIL,steal,1,False,True,steal,steal,71-84,71,84
 0021900858,2020-02-25,TOR,MIL,36.0,3,0,0,MIL,MIL,fg_miss,5,False,False,,MISS Williams 3' Layup,71-84,71,84
 0021900858,2020-02-25,TOR,MIL,36.0,3,0,0,MIL,MIL,reb,0,False,False,,Bucks Rebound,71-84,71,84
 0021900858,2020-02-25,TOR,MIL,36.0,3,0,0,MIL,,period_end,0,False,False,,,71-84,71,84
 0021900858,2020-02-25,TOR,MIL,36.0,4,12,0,MIL,,period_start,0,False,False,,,71-84,71,84
-0021900858,2020-02-25,TOR,MIL,36.0,3,0,0,TOR,MIL,steal,1,False,True,steal,steal,71-84,71,84
 0021900858,2020-02-25,TOR,MIL,36.13,4,11,52,TOR,MIL,violation,5,False,False,,Williams Violation:Kicked Ball (J.DeRosa),71-84,71,84
 0021900858,2020-02-25,TOR,MIL,36.22,4,11,47,TOR,TOR,fg3_miss,78,False,False,MISS Thomas 26' 3PT Floating Jump Shot,,71-84,71,84
 0021900858,2020-02-25,TOR,MIL,36.27,4,11,44,TOR,TOR,reb,0,False,False,Thomas REBOUND (Off:1 Def:1),,71-84,71,84
@@ -377,8 +377,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900858,2020-02-25,TOR,MIL,38.07,4,9,56,TOR,TOR,fg3_miss,1,False,False,MISS Boucher 27' 3PT Jump Shot,,78-87,78,87
 0021900858,2020-02-25,TOR,MIL,38.1,4,9,54,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:0 Def:15),78-87,78,87
 0021900858,2020-02-25,TOR,MIL,38.33,4,9,40,MIL,MIL,fg_miss,101,True,False,,MISS Antetokounmpo 12' Driving Floating Jump Shot,78-87,78,87
-0021900858,2020-02-25,TOR,MIL,38.33,4,9,40,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,78-87,78,87
 0021900858,2020-02-25,TOR,MIL,38.33,4,9,40,MIL,TOR,block,101,True,False,block,block,78-87,78,87
+0021900858,2020-02-25,TOR,MIL,38.33,4,9,40,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,78-87,78,87
 0021900858,2020-02-25,TOR,MIL,38.63,4,9,22,TOR,MIL,foul,2,False,False,,Middleton S.FOUL (P2.T3) (J.DeRosa),78-87,78,87
 0021900858,2020-02-25,TOR,MIL,38.63,4,9,22,TOR,TOR,ft_make,11,False,False,Davis Free Throw 1 of 2 (9 PTS),,79-87,79,87
 0021900858,2020-02-25,TOR,MIL,38.63,4,9,22,TOR,TOR,ft_make,12,False,False,Davis Free Throw 2 of 2 (10 PTS),,80-87,80,87
@@ -433,11 +433,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900858,2020-02-25,TOR,MIL,43.0,4,5,0,MIL,MIL,fg3_miss,1,False,False,,MISS Lopez 24' 3PT Jump Shot,87-97,87,97
 0021900858,2020-02-25,TOR,MIL,43.05,4,4,57,TOR,TOR,reb,0,False,False,VanVleet REBOUND (Off:0 Def:2),,87-97,87,97
 0021900858,2020-02-25,TOR,MIL,43.38,4,4,37,TOR,TOR,fg_miss,5,True,False,MISS Anunoby 2' Layup,,87-97,87,97
-0021900858,2020-02-25,TOR,MIL,43.38,4,4,37,TOR,TOR,reb,0,False,False,Anunoby REBOUND (Off:2 Def:2),,87-97,87,97
 0021900858,2020-02-25,TOR,MIL,43.38,4,4,37,TOR,MIL,block,5,True,False,block,block,87-97,87,97
+0021900858,2020-02-25,TOR,MIL,43.38,4,4,37,TOR,TOR,reb,0,False,False,Anunoby REBOUND (Off:2 Def:2),,87-97,87,97
 0021900858,2020-02-25,TOR,MIL,43.4,4,4,36,TOR,TOR,fg_miss,72,True,False,MISS Anunoby 1' Putback Layup,,87-97,87,97
-0021900858,2020-02-25,TOR,MIL,43.4,4,4,36,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,87-97,87,97
 0021900858,2020-02-25,TOR,MIL,43.4,4,4,36,TOR,MIL,block,72,True,False,block,block,87-97,87,97
+0021900858,2020-02-25,TOR,MIL,43.4,4,4,36,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,87-97,87,97
 0021900858,2020-02-25,TOR,MIL,43.42,4,4,35,TOR,TOR,tov,11,False,False,RAPTORS Turnover: Shot Clock (T#16),,87-97,87,97
 0021900858,2020-02-25,TOR,MIL,43.73,4,4,16,MIL,MIL,fg3_miss,66,False,False,,MISS Bledsoe 26' 3PT Jump Bank Shot,87-97,87,97
 0021900858,2020-02-25,TOR,MIL,43.77,4,4,14,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,87-97,87,97

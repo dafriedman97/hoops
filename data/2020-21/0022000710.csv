@@ -76,9 +76,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000710,2021-03-29,NYK,MIA,9.08,1,2,55,MIA,MIA,reb,0,False,False,,Achiuwa REBOUND (Off:0 Def:1),12-13,12,13
 0022000710,2021-03-29,NYK,MIA,9.13,1,2,52,MIA,MIA,fg_make,9,False,False,,Ariza 1' Driving Dunk (2 PTS) (Butler 3 AST),12-15,12,15
 0022000710,2021-03-29,NYK,MIA,9.43,1,2,34,NYK,NYK,tov,1,False,True,Rose Bad Pass Turnover (P1.T2),,12-15,12,15
+0022000710,2021-03-29,NYK,MIA,9.43,1,2,34,NYK,MIA,steal,1,False,True,steal,steal,12-15,12,15
 0022000710,2021-03-29,NYK,MIA,9.43,1,2,34,MIA,NYK,foul,1,False,False,Randle P.FOUL (P2.T2) (S.Foster),,12-15,12,15
 0022000710,2021-03-29,NYK,MIA,9.43,1,2,34,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.1 Short 0),12-15,12,15
-0022000710,2021-03-29,NYK,MIA,9.43,1,2,34,NYK,MIA,steal,1,False,True,steal,steal,12-15,12,15
 0022000710,2021-03-29,NYK,MIA,9.7,1,2,18,MIA,NYK,foul,1,False,False,Gibson P.FOUL (P1.T3) (S.Foster),,12-15,12,15
 0022000710,2021-03-29,NYK,MIA,9.83,1,2,10,MIA,MIA,fg3_miss,1,False,False,,MISS Iguodala 3PT Jump Shot,12-15,12,15
 0022000710,2021-03-29,NYK,MIA,9.87,1,2,8,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:2 Def:2),12-15,12,15
@@ -87,8 +87,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000710,2021-03-29,NYK,MIA,10.37,1,1,38,NYK,NYK,tov,2,False,True,Randle Lost Ball Turnover (P1.T3),,12-18,12,18
 0022000710,2021-03-29,NYK,MIA,10.37,1,1,38,NYK,MIA,steal,2,False,True,steal,steal,12-18,12,18
 0022000710,2021-03-29,NYK,MIA,10.43,1,1,34,MIA,MIA,fg_miss,6,True,False,,MISS Herro 3' Driving Layup,12-18,12,18
-0022000710,2021-03-29,NYK,MIA,10.43,1,1,34,MIA,MIA,reb,0,False,False,,Heat Rebound,12-18,12,18
 0022000710,2021-03-29,NYK,MIA,10.43,1,1,34,MIA,NYK,block,6,True,False,block,block,12-18,12,18
+0022000710,2021-03-29,NYK,MIA,10.43,1,1,34,MIA,MIA,reb,0,False,False,,Heat Rebound,12-18,12,18
 0022000710,2021-03-29,NYK,MIA,10.57,1,1,26,MIA,MIA,fg3_miss,1,False,False,,MISS Robinson 27' 3PT Jump Shot,12-18,12,18
 0022000710,2021-03-29,NYK,MIA,10.63,1,1,22,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:3 Def:2),12-18,12,18
 0022000710,2021-03-29,NYK,MIA,10.73,1,1,16,MIA,MIA,fg3_miss,1,False,False,,MISS Robinson 25' 3PT Jump Shot,12-18,12,18
@@ -134,8 +134,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000710,2021-03-29,NYK,MIA,15.35,2,8,39,NYK,NYK,reb,0,False,False,Toppin REBOUND (Off:0 Def:1),,20-27,20,27
 0022000710,2021-03-29,NYK,MIA,15.45,2,8,33,NYK,NYK,fg_make,6,False,False,Rose 2' Driving Layup (4 PTS),,22-27,22,27
 0022000710,2021-03-29,NYK,MIA,15.78,2,8,13,MIA,MIA,fg_miss,6,True,False,,MISS Adebayo 1' Driving Layup,22-27,22,27
-0022000710,2021-03-29,NYK,MIA,15.78,2,8,13,NYK,NYK,reb,0,False,False,Burks REBOUND (Off:0 Def:2),,22-27,22,27
 0022000710,2021-03-29,NYK,MIA,15.78,2,8,13,MIA,NYK,block,6,True,False,block,block,22-27,22,27
+0022000710,2021-03-29,NYK,MIA,15.78,2,8,13,NYK,NYK,reb,0,False,False,Burks REBOUND (Off:0 Def:2),,22-27,22,27
 0022000710,2021-03-29,NYK,MIA,15.88,2,8,7,NYK,NYK,fg3_make,1,False,False,Quickley 28' 3PT Jump Shot (7 PTS) (Toppin 1 AST),,25-27,25,27
 0022000710,2021-03-29,NYK,MIA,15.92,2,8,5,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.2 Short 0),25-27,25,27
 0022000710,2021-03-29,NYK,MIA,16.33,2,7,40,MIA,MIA,fg_miss,104,False,False,,MISS Herro 20' Step Back Bank Jump Shot,25-27,25,27
@@ -254,8 +254,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000710,2021-03-29,NYK,MIA,29.88,3,6,7,MIA,MIA,reb,0,False,False,,Dragic REBOUND (Off:0 Def:5),51-52,51,52
 0022000710,2021-03-29,NYK,MIA,29.93,3,6,4,MIA,MIA,fg_miss,6,True,False,,MISS Dragic 5' Driving Layup,51-52,51,52
 0022000710,2021-03-29,NYK,MIA,29.93,3,6,4,MIA,NYK,block,6,True,False,block,block,51-52,51,52
-0022000710,2021-03-29,NYK,MIA,29.97,3,6,2,MIA,MIA,reb,0,False,False,,Heat Rebound,51-52,51,52
 0022000710,2021-03-29,NYK,MIA,29.97,3,6,2,,NYK,jump_ball,0,False,False,Jump Ball Payton vs. Dragic: Tip to Butler,,51-52,51,52
+0022000710,2021-03-29,NYK,MIA,29.97,3,6,2,MIA,MIA,reb,0,False,False,,Heat Rebound,51-52,51,52
 0022000710,2021-03-29,NYK,MIA,30.1,3,5,54,MIA,MIA,fg_make,75,False,False,,Butler 3' Driving Finger Roll Layup (19 PTS),51-54,51,54
 0022000710,2021-03-29,NYK,MIA,30.35,3,5,39,NYK,NYK,fg_make,79,False,False,Bullock 18' Pullup Jump Shot (3 PTS) (Payton 1 AST),,53-54,53,54
 0022000710,2021-03-29,NYK,MIA,30.68,3,5,19,MIA,MIA,fg3_make,1,False,False,,Robinson 25' 3PT Jump Shot (9 PTS) (Butler 5 AST),53-57,53,57

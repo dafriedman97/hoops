@@ -73,11 +73,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800161,2018-11-07,SAC,TOR,8.65,1,3,21,TOR,TOR,fg3_make,1,False,False,,Anunoby 3PT Jump Shot (3 PTS) (Valanciunas 1 AST),22-19,22,19
 0021800161,2018-11-07,SAC,TOR,8.93,1,3,4,TOR,SAC,foul,4,False,False,Jackson OFF.Foul (P1) (K.Fitzgerald),,22-19,22,19
 0021800161,2018-11-07,SAC,TOR,8.93,1,3,4,SAC,SAC,tov,37,False,False,Jackson Offensive Foul Turnover (P1.T3),,22-19,22,19
+0021800161,2018-11-07,SAC,TOR,9.1,1,2,54,TOR,TOR,timeout,1,False,False,,Raptors Timeout: Regular (Reg.1 Short 0),22-20,22,20
 0021800161,2018-11-07,SAC,TOR,9.1,1,2,54,TOR,SAC,foul,1,False,False,Jackson P.FOUL (P2.PN) (B.Taylor),,22-19,22,19
 0021800161,2018-11-07,SAC,TOR,9.1,1,2,54,TOR,TOR,ft_make,11,False,False,,Valanciunas Free Throw 1 of 2 (1 PTS),22-20,22,20
 0021800161,2018-11-07,SAC,TOR,9.1,1,2,54,TOR,TOR,ft_miss,12,False,False,,MISS Valanciunas Free Throw 2 of 2,22-20,22,20
 0021800161,2018-11-07,SAC,TOR,9.1,1,2,54,TOR,TOR,reb,0,False,False,,Anunoby REBOUND (Off:1 Def:0),22-20,22,20
-0021800161,2018-11-07,SAC,TOR,9.1,1,2,54,TOR,TOR,timeout,1,False,False,,Raptors Timeout: Regular (Reg.1 Short 0),22-20,22,20
 0021800161,2018-11-07,SAC,TOR,9.37,1,2,38,TOR,TOR,fg_miss,79,False,False,,MISS Green 23' Pullup Jump Shot,22-20,22,20
 0021800161,2018-11-07,SAC,TOR,9.47,1,2,32,TOR,TOR,reb,0,False,False,,Lowry REBOUND (Off:1 Def:0),22-20,22,20
 0021800161,2018-11-07,SAC,TOR,9.48,1,2,31,TOR,TOR,fg_make,5,False,False,,Valanciunas 3' Layup (3 PTS) (Lowry 4 AST),22-22,22,22
@@ -107,10 +107,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800161,2018-11-07,SAC,TOR,11.9,1,0,6,SAC,SAC,fg3_miss,1,False,False,MISS Mason 26' 3PT Jump Shot,,26-29,26,29
 0021800161,2018-11-07,SAC,TOR,11.98,1,0,1,TOR,TOR,reb,0,False,False,,Valanciunas REBOUND (Off:0 Def:2),26-29,26,29
 0021800161,2018-11-07,SAC,TOR,12.0,1,0,0,TOR,TOR,fg_miss,41,True,False,,MISS VanVleet 3' Running Layup,26-29,26,29
+0021800161,2018-11-07,SAC,TOR,12.0,1,0,0,TOR,SAC,block,41,True,False,block,block,26-29,26,29
 0021800161,2018-11-07,SAC,TOR,12.0,1,0,0,TOR,TOR,reb,0,False,False,,Raptors Rebound,26-29,26,29
 0021800161,2018-11-07,SAC,TOR,12.0,1,0,0,TOR,,period_end,0,False,False,,,26-29,26,29
 0021800161,2018-11-07,SAC,TOR,12.0,2,12,0,TOR,,period_start,0,False,False,,,26-29,26,29
-0021800161,2018-11-07,SAC,TOR,12.0,1,0,0,TOR,SAC,block,41,True,False,block,block,26-29,26,29
 0021800161,2018-11-07,SAC,TOR,12.23,2,11,46,TOR,TOR,tov,2,False,True,,Wright Lost Ball Turnover (P1.T7),26-29,26,29
 0021800161,2018-11-07,SAC,TOR,12.23,2,11,46,TOR,SAC,steal,2,False,True,steal,steal,26-29,26,29
 0021800161,2018-11-07,SAC,TOR,12.47,2,11,32,SAC,SAC,fg_miss,3,False,False,MISS Koufos 7' Hook Shot,,26-29,26,29
@@ -193,8 +193,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800161,2018-11-07,SAC,TOR,20.05,2,3,57,SAC,SAC,fg_make,58,False,False,Cauley-Stein 2' Turnaround Hook Shot (11 PTS) (Shumpert 3 AST),,43-52,43,52
 0021800161,2018-11-07,SAC,TOR,20.2,2,3,48,TOR,TOR,fg_make,63,False,False,,Leonard 11' Fadeaway Jumper (10 PTS) (Lowry 5 AST),43-54,43,54
 0021800161,2018-11-07,SAC,TOR,20.37,2,3,38,SAC,SAC,fg_miss,7,True,False,MISS Bjelica 3' Dunk,,43-54,43,54
-0021800161,2018-11-07,SAC,TOR,20.37,2,3,38,TOR,TOR,reb,0,False,False,,Green REBOUND (Off:1 Def:2),43-54,43,54
 0021800161,2018-11-07,SAC,TOR,20.37,2,3,38,SAC,TOR,block,7,True,False,block,block,43-54,43,54
+0021800161,2018-11-07,SAC,TOR,20.37,2,3,38,TOR,TOR,reb,0,False,False,,Green REBOUND (Off:1 Def:2),43-54,43,54
 0021800161,2018-11-07,SAC,TOR,20.48,2,3,31,TOR,TOR,fg3_miss,1,False,False,,MISS Leonard 25' 3PT Jump Shot,43-54,43,54
 0021800161,2018-11-07,SAC,TOR,20.58,2,3,25,SAC,SAC,reb,0,False,False,Shumpert REBOUND (Off:0 Def:1),,43-54,43,54
 0021800161,2018-11-07,SAC,TOR,20.63,2,3,22,SAC,SAC,fg3_make,1,False,False,Fox 25' 3PT Jump Shot (13 PTS) (Bogdanovic 1 AST),,46-54,46,54
@@ -241,8 +241,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800161,2018-11-07,SAC,TOR,25.18,3,10,49,TOR,TOR,fg3_miss,1,False,False,,MISS Green 3PT Jump Shot,53-64,53,64
 0021800161,2018-11-07,SAC,TOR,25.22,3,10,47,SAC,SAC,reb,0,False,False,Cauley-Stein REBOUND (Off:0 Def:5),,53-64,53,64
 0021800161,2018-11-07,SAC,TOR,25.5,3,10,30,SAC,SAC,fg_miss,3,True,False,MISS Bjelica 5' Hook Shot,,53-64,53,64
-0021800161,2018-11-07,SAC,TOR,25.5,3,10,30,SAC,SAC,reb,0,False,False,KINGS Rebound,,53-64,53,64
 0021800161,2018-11-07,SAC,TOR,25.5,3,10,30,SAC,TOR,block,3,True,False,block,block,53-64,53,64
+0021800161,2018-11-07,SAC,TOR,25.5,3,10,30,SAC,SAC,reb,0,False,False,KINGS Rebound,,53-64,53,64
 0021800161,2018-11-07,SAC,TOR,25.6,3,10,24,SAC,SAC,fg_make,66,False,False,Hield 13' Jump Bank Shot (11 PTS) (Shumpert 4 AST),,55-64,55,64
 0021800161,2018-11-07,SAC,TOR,25.88,3,10,7,TOR,SAC,foul,2,False,False,Bjelica S.FOUL (P3.T1) (B.Taylor),,55-64,55,64
 0021800161,2018-11-07,SAC,TOR,25.88,3,10,7,TOR,SAC,foul,11,False,False,Bjelica T.FOUL (P3.T1) (K.Fitzgerald),,55-64,55,64
@@ -292,8 +292,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800161,2018-11-07,SAC,TOR,30.0,3,6,0,TOR,TOR,timeout,1,False,False,,Raptors Timeout: Regular (Reg.3 Short 0),71-78,71,78
 0021800161,2018-11-07,SAC,TOR,30.37,3,5,38,TOR,TOR,fg3_miss,1,False,False,,MISS Lowry 26' 3PT Jump Shot,71-78,71,78
 0021800161,2018-11-07,SAC,TOR,30.42,3,5,35,TOR,TOR,reb,0,False,False,,Raptors Rebound,71-78,71,78
-0021800161,2018-11-07,SAC,TOR,30.42,3,5,35,,SAC,jump_ball,0,False,False,,,71-78,71,78
 0021800161,2018-11-07,SAC,TOR,30.42,3,5,35,TOR,SAC,foul,3,False,False,Cauley-Stein L.B.FOUL (P2.T3) (B.Taylor),,71-78,71,78
+0021800161,2018-11-07,SAC,TOR,30.42,3,5,35,,SAC,jump_ball,0,False,False,,,71-78,71,78
 0021800161,2018-11-07,SAC,TOR,30.72,3,5,17,TOR,TOR,fg_miss,6,False,False,,MISS Green 2' Driving Layup,71-78,71,78
 0021800161,2018-11-07,SAC,TOR,30.8,3,5,12,TOR,TOR,reb,0,False,False,,Ibaka REBOUND (Off:2 Def:8),71-78,71,78
 0021800161,2018-11-07,SAC,TOR,30.8,3,5,12,TOR,TOR,fg_make,97,False,False,,Ibaka 1' Tip Layup Shot (11 PTS),71-80,71,80
@@ -447,8 +447,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800161,2018-11-07,SAC,TOR,46.95,4,1,3,TOR,TOR,fg3_miss,1,False,False,,MISS Lowry 26' 3PT Jump Shot,103-114,103,114
 0021800161,2018-11-07,SAC,TOR,47.0,4,1,0,TOR,TOR,reb,0,False,False,,Ibaka REBOUND (Off:3 Def:10),103-114,103,114
 0021800161,2018-11-07,SAC,TOR,47.02,4,0,59,TOR,TOR,fg_miss,1,True,False,,MISS Ibaka 4' Jump Shot,103-114,103,114
-0021800161,2018-11-07,SAC,TOR,47.02,4,0,59,SAC,SAC,reb,0,False,False,KINGS Rebound,,103-114,103,114
 0021800161,2018-11-07,SAC,TOR,47.02,4,0,59,TOR,SAC,block,1,True,False,block,block,103-114,103,114
+0021800161,2018-11-07,SAC,TOR,47.02,4,0,59,SAC,SAC,reb,0,False,False,KINGS Rebound,,103-114,103,114
 0021800161,2018-11-07,SAC,TOR,47.13,4,0,52,SAC,SAC,fg_miss,79,False,False,MISS Hield 16' Pullup Jump Shot,,103-114,103,114
 0021800161,2018-11-07,SAC,TOR,47.2,4,0,48,TOR,TOR,reb,0,False,False,,Ibaka REBOUND (Off:3 Def:11),103-114,103,114
 0021800161,2018-11-07,SAC,TOR,47.45,4,0,33,TOR,TOR,tov,2,False,True,,Ibaka Lost Ball Turnover (P3.T21),103-114,103,114

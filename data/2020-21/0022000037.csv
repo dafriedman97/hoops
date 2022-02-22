@@ -35,8 +35,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000037,2020-12-27,IND,BOS,4.42,1,7,35,IND,IND,fg_miss,73,False,False,MISS Brogdon 4' Driving Reverse Layup,,4-15,4,15
 0022000037,2020-12-27,IND,BOS,4.45,1,7,33,BOS,BOS,reb,0,False,False,,Theis REBOUND (Off:0 Def:3),4-15,4,15
 0022000037,2020-12-27,IND,BOS,4.65,1,7,21,BOS,BOS,fg_miss,6,True,False,,MISS Brown 6' Driving Layup,4-15,4,15
-0022000037,2020-12-27,IND,BOS,4.65,1,7,21,BOS,BOS,reb,0,False,False,,Celtics Rebound,4-15,4,15
 0022000037,2020-12-27,IND,BOS,4.65,1,7,21,BOS,IND,block,6,True,False,block,block,4-15,4,15
+0022000037,2020-12-27,IND,BOS,4.65,1,7,21,BOS,BOS,reb,0,False,False,,Celtics Rebound,4-15,4,15
 0022000037,2020-12-27,IND,BOS,4.73,1,7,16,BOS,BOS,fg3_miss,1,False,False,,MISS Theis 26' 3PT Jump Shot,4-15,4,15
 0022000037,2020-12-27,IND,BOS,4.78,1,7,13,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:0 Def:2),,4-15,4,15
 0022000037,2020-12-27,IND,BOS,4.93,1,7,4,IND,IND,tov,2,False,True,Sabonis Lost Ball Turnover (P1.T1),,4-15,4,15
@@ -106,8 +106,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000037,2020-12-27,IND,BOS,11.72,1,0,17,BOS,BOS,ft_miss,12,False,False,,MISS Williams Free Throw 2 of 2,19-23,19,23
 0022000037,2020-12-27,IND,BOS,11.73,1,0,16,IND,IND,reb,0,False,False,Sabonis REBOUND (Off:0 Def:3),,19-23,19,23
 0022000037,2020-12-27,IND,BOS,11.97,1,0,2,IND,IND,fg3_miss,79,True,False,MISS Sabonis 25' 3PT Pullup Jump Shot,,19-23,19,23
-0022000037,2020-12-27,IND,BOS,11.97,1,0,2,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:3),19-23,19,23
 0022000037,2020-12-27,IND,BOS,11.97,1,0,2,IND,BOS,block,79,True,False,block,block,19-23,19,23
+0022000037,2020-12-27,IND,BOS,11.97,1,0,2,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:0 Def:3),19-23,19,23
 0022000037,2020-12-27,IND,BOS,12.0,1,0,0,BOS,,period_end,0,False,False,,,19-23,19,23
 0022000037,2020-12-27,IND,BOS,12.0,2,12,0,BOS,,period_start,0,False,False,,,19-23,19,23
 0022000037,2020-12-27,IND,BOS,12.38,2,11,37,IND,IND,fg_make,6,False,False,Sabonis 5' Driving Layup (2 PTS) (McDermott 1 AST),,21-23,21,23
@@ -192,10 +192,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000037,2020-12-27,IND,BOS,23.65,2,0,21,BOS,BOS,fg3_miss,103,False,False,,MISS Tatum 29' 3PT Running Pull-Up Jump Shot,49-55,49,55
 0022000037,2020-12-27,IND,BOS,23.72,2,0,17,IND,IND,reb,0,False,False,Brogdon REBOUND (Off:0 Def:3),,49-55,49,55
 0022000037,2020-12-27,IND,BOS,24.0,2,0,0,IND,IND,fg_miss,6,True,False,MISS Brogdon 2' Driving Layup,,49-55,49,55
+0022000037,2020-12-27,IND,BOS,24.0,2,0,0,IND,BOS,block,6,True,False,block,block,49-55,49,55
 0022000037,2020-12-27,IND,BOS,24.0,2,0,0,IND,IND,reb,0,False,False,PACERS Rebound,,49-55,49,55
 0022000037,2020-12-27,IND,BOS,24.0,2,0,0,IND,,period_end,0,False,False,,,49-55,49,55
 0022000037,2020-12-27,IND,BOS,24.0,3,12,0,IND,,period_start,0,False,False,,,49-55,49,55
-0022000037,2020-12-27,IND,BOS,24.0,2,0,0,IND,BOS,block,6,True,False,block,block,49-55,49,55
 0022000037,2020-12-27,IND,BOS,24.32,3,11,41,IND,IND,fg3_make,1,False,False,Sabonis 3PT Jump Shot (10 PTS) (Holiday 1 AST),,52-55,52,55
 0022000037,2020-12-27,IND,BOS,24.7,3,11,18,BOS,BOS,fg_miss,44,False,False,,MISS Thompson 4' Reverse Layup,52-55,52,55
 0022000037,2020-12-27,IND,BOS,24.72,3,11,17,IND,IND,reb,0,False,False,Warren REBOUND (Off:0 Def:1),,52-55,52,55
@@ -235,8 +235,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000037,2020-12-27,IND,BOS,27.85,3,8,9,IND,BOS,foul,1,False,False,,Brown P.FOUL (P3.T2) (M.Ayotte),63-57,63,57
 0022000037,2020-12-27,IND,BOS,28.0,3,8,0,IND,IND,fg_make,101,False,False,Holiday 10' Driving Floating Jump Shot (6 PTS) (Brogdon 5 AST),,65-57,65,57
 0022000037,2020-12-27,IND,BOS,28.22,3,7,47,BOS,BOS,fg_miss,5,True,False,,MISS Smart 6' Layup,65-57,65,57
-0022000037,2020-12-27,IND,BOS,28.22,3,7,47,BOS,BOS,reb,0,False,False,,Celtics Rebound,65-57,65,57
 0022000037,2020-12-27,IND,BOS,28.22,3,7,47,BOS,IND,block,5,True,False,block,block,65-57,65,57
+0022000037,2020-12-27,IND,BOS,28.22,3,7,47,BOS,BOS,reb,0,False,False,,Celtics Rebound,65-57,65,57
 0022000037,2020-12-27,IND,BOS,28.32,3,7,41,BOS,BOS,fg_miss,5,False,False,,MISS Tatum 2' Layup,65-57,65,57
 0022000037,2020-12-27,IND,BOS,28.33,3,7,40,IND,IND,reb,0,False,False,PACERS Rebound,,65-57,65,57
 0022000037,2020-12-27,IND,BOS,28.33,3,7,40,IND,BOS,foul,3,False,False,,Thompson L.B.FOUL (P1.T3) (K.Fitzgerald),65-57,65,57
@@ -351,9 +351,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000037,2020-12-27,IND,BOS,40.38,4,7,37,BOS,BOS,reb,0,False,False,,Thompson REBOUND (Off:1 Def:7),96-90,96,90
 0022000037,2020-12-27,IND,BOS,40.53,4,7,28,BOS,BOS,fg_make,80,False,False,,Brown 15' Step Back Jump Shot (16 PTS),96-92,96,92
 0022000037,2020-12-27,IND,BOS,40.77,4,7,14,IND,IND,fg_miss,1,True,False,MISS McDermott 6' Jump Shot,,96-92,96,92
-0022000037,2020-12-27,IND,BOS,40.77,4,7,14,BOS,BOS,reb,0,False,False,,Celtics Rebound,96-92,96,92
-0022000037,2020-12-27,IND,BOS,40.77,4,7,14,,IND,jump_ball,0,False,False,Jump Ball McDermott vs. Thompson: Tip to Williams,,96-92,96,92
 0022000037,2020-12-27,IND,BOS,40.77,4,7,14,IND,BOS,block,1,True,False,block,block,96-92,96,92
+0022000037,2020-12-27,IND,BOS,40.77,4,7,14,,IND,jump_ball,0,False,False,Jump Ball McDermott vs. Thompson: Tip to Williams,,96-92,96,92
+0022000037,2020-12-27,IND,BOS,40.77,4,7,14,BOS,BOS,reb,0,False,False,,Celtics Rebound,96-92,96,92
 0022000037,2020-12-27,IND,BOS,41.0,4,7,0,BOS,BOS,fg_make,6,False,False,,Smart 7' Driving Layup (9 PTS),96-94,96,94
 0022000037,2020-12-27,IND,BOS,41.3,4,6,42,IND,IND,fg3_miss,1,False,False,MISS Brogdon 26' 3PT Jump Shot,,96-94,96,94
 0022000037,2020-12-27,IND,BOS,41.35,4,6,39,BOS,BOS,reb,0,False,False,,Brown REBOUND (Off:0 Def:2),96-94,96,94

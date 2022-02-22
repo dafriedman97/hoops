@@ -62,8 +62,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800519,2018-12-28,ORL,TOR,7.63,1,4,22,ORL,ORL,fg3_miss,1,False,False,MISS Fournier 27' 3PT Jump Shot,,14-22,14,22
 0021800519,2018-12-28,ORL,TOR,7.75,1,4,15,TOR,TOR,reb,0,False,False,,Ibaka REBOUND (Off:0 Def:2),14-22,14,22
 0021800519,2018-12-28,ORL,TOR,7.88,1,4,7,TOR,TOR,fg_miss,5,True,False,,MISS Siakam 4' Layup,14-22,14,22
-0021800519,2018-12-28,ORL,TOR,7.88,1,4,7,ORL,ORL,reb,0,False,False,Fournier REBOUND (Off:0 Def:1),,14-22,14,22
 0021800519,2018-12-28,ORL,TOR,7.88,1,4,7,TOR,ORL,block,5,True,False,block,block,14-22,14,22
+0021800519,2018-12-28,ORL,TOR,7.88,1,4,7,ORL,ORL,reb,0,False,False,Fournier REBOUND (Off:0 Def:1),,14-22,14,22
 0021800519,2018-12-28,ORL,TOR,7.97,1,4,2,ORL,ORL,fg3_miss,1,False,False,MISS Simmons 24' 3PT Jump Shot,,14-22,14,22
 0021800519,2018-12-28,ORL,TOR,8.05,1,3,57,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:1 Def:3),,14-22,14,22
 0021800519,2018-12-28,ORL,TOR,8.1,1,3,54,ORL,ORL,fg_miss,6,False,False,MISS Vucevic 3' Driving Layup,,14-22,14,22
@@ -206,8 +206,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800519,2018-12-28,ORL,TOR,22.5,2,1,30,TOR,TOR,fg_miss,1,False,False,,MISS VanVleet 20' Jump Shot,55-46,55,46
 0021800519,2018-12-28,ORL,TOR,22.57,2,1,26,TOR,TOR,reb,0,False,False,,Ibaka REBOUND (Off:1 Def:4),55-46,55,46
 0021800519,2018-12-28,ORL,TOR,22.58,2,1,25,TOR,TOR,fg_miss,5,True,False,,MISS Ibaka 2' Layup,55-46,55,46
-0021800519,2018-12-28,ORL,TOR,22.58,2,1,25,ORL,ORL,reb,0,False,False,Isaac REBOUND (Off:0 Def:4),,55-46,55,46
 0021800519,2018-12-28,ORL,TOR,22.58,2,1,25,TOR,ORL,block,5,True,False,block,block,55-46,55,46
+0021800519,2018-12-28,ORL,TOR,22.58,2,1,25,ORL,ORL,reb,0,False,False,Isaac REBOUND (Off:0 Def:4),,55-46,55,46
 0021800519,2018-12-28,ORL,TOR,22.82,2,1,11,ORL,ORL,tov,39,False,False,Isaac Step Out of Bounds Turnover (P1.T8),,55-46,55,46
 0021800519,2018-12-28,ORL,TOR,23.08,2,0,55,TOR,ORL,foul,2,False,False,Augustin S.FOUL (P2.PN) (K.Fitzgerald),,55-46,55,46
 0021800519,2018-12-28,ORL,TOR,23.08,2,0,55,TOR,TOR,ft_make,11,False,False,,VanVleet Free Throw 1 of 2 (10 PTS),55-47,55,47
@@ -272,8 +272,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800519,2018-12-28,ORL,TOR,28.73,3,7,16,ORL,ORL,fg_miss,1,False,False,MISS Vucevic 21' Jump Shot,,68-54,68,54
 0021800519,2018-12-28,ORL,TOR,28.8,3,7,12,ORL,ORL,reb,0,False,False,Isaac REBOUND (Off:1 Def:6),,68-54,68,54
 0021800519,2018-12-28,ORL,TOR,28.82,3,7,11,ORL,ORL,fg_miss,5,True,False,MISS Isaac 4' Layup,,68-54,68,54
-0021800519,2018-12-28,ORL,TOR,28.82,3,7,11,TOR,TOR,reb,0,False,False,,Raptors Rebound,68-54,68,54
 0021800519,2018-12-28,ORL,TOR,28.82,3,7,11,ORL,TOR,block,5,True,False,block,block,68-54,68,54
+0021800519,2018-12-28,ORL,TOR,28.82,3,7,11,TOR,TOR,reb,0,False,False,,Raptors Rebound,68-54,68,54
 0021800519,2018-12-28,ORL,TOR,29.05,3,6,57,TOR,TOR,fg3_miss,1,False,False,,MISS VanVleet 25' 3PT Jump Shot,68-54,68,54
 0021800519,2018-12-28,ORL,TOR,29.1,3,6,54,ORL,ORL,reb,0,False,False,Isaac REBOUND (Off:1 Def:7),,68-54,68,54
 0021800519,2018-12-28,ORL,TOR,29.27,3,6,44,ORL,ORL,fg3_make,1,False,False,Isaac 27' 3PT Jump Shot (12 PTS) (Augustin 4 AST),,71-54,71,54
@@ -290,8 +290,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800519,2018-12-28,ORL,TOR,30.65,3,5,21,ORL,TOR,foul,4,False,False,,Siakam OFF.Foul (P4) (M.Boland),76-56,76,56
 0021800519,2018-12-28,ORL,TOR,30.65,3,5,21,TOR,TOR,tov,37,False,False,,Siakam Offensive Foul Turnover (P2.T8),76-56,76,56
 0021800519,2018-12-28,ORL,TOR,30.83,3,5,10,ORL,ORL,fg_miss,9,True,False,MISS Vucevic 3' Driving Dunk,,76-56,76,56
-0021800519,2018-12-28,ORL,TOR,30.83,3,5,10,ORL,ORL,reb,0,False,False,MAGIC Rebound,,76-56,76,56
 0021800519,2018-12-28,ORL,TOR,30.83,3,5,10,ORL,TOR,block,9,True,False,block,block,76-56,76,56
+0021800519,2018-12-28,ORL,TOR,30.83,3,5,10,ORL,ORL,reb,0,False,False,MAGIC Rebound,,76-56,76,56
 0021800519,2018-12-28,ORL,TOR,30.97,3,5,2,ORL,ORL,fg_make,58,False,False,Vucevic 10' Turnaround Hook Shot (20 PTS),,78-56,78,56
 0021800519,2018-12-28,ORL,TOR,31.23,3,4,46,TOR,TOR,fg_miss,5,True,False,,MISS Green 5' Layup,78-56,78,56
 0021800519,2018-12-28,ORL,TOR,31.23,3,4,46,TOR,ORL,block,5,True,False,block,block,78-56,78,56
@@ -361,8 +361,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800519,2018-12-28,ORL,TOR,36.53,4,11,28,ORL,ORL,fg3_miss,1,False,False,MISS Fournier 26' 3PT Jump Shot,,92-63,92,63
 0021800519,2018-12-28,ORL,TOR,36.58,4,11,25,TOR,TOR,reb,0,False,False,,Miles REBOUND (Off:0 Def:3),92-63,92,63
 0021800519,2018-12-28,ORL,TOR,36.68,4,11,19,TOR,TOR,fg_miss,6,True,False,,MISS Miles 3' Driving Layup,92-63,92,63
-0021800519,2018-12-28,ORL,TOR,36.68,4,11,19,TOR,TOR,reb,0,False,False,,Raptors Rebound,92-63,92,63
 0021800519,2018-12-28,ORL,TOR,36.68,4,11,19,TOR,ORL,block,6,True,False,block,block,92-63,92,63
+0021800519,2018-12-28,ORL,TOR,36.68,4,11,19,TOR,TOR,reb,0,False,False,,Raptors Rebound,92-63,92,63
 0021800519,2018-12-28,ORL,TOR,36.72,4,11,17,TOR,TOR,fg3_miss,1,False,False,,MISS Miles 24' 3PT Jump Shot,92-63,92,63
 0021800519,2018-12-28,ORL,TOR,36.77,4,11,14,ORL,ORL,reb,0,False,False,Gordon REBOUND (Off:1 Def:8),,92-63,92,63
 0021800519,2018-12-28,ORL,TOR,37.05,4,10,57,ORL,ORL,fg_miss,79,True,False,MISS Simmons 19' Pullup Jump Shot,,92-63,92,63
@@ -381,8 +381,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800519,2018-12-28,ORL,TOR,38.83,4,9,10,TOR,ORL,foul,1,False,False,Gordon P.FOUL (P4.T1) (M.Myers),,94-66,94,66
 0021800519,2018-12-28,ORL,TOR,38.93,4,9,4,TOR,TOR,fg_make,1,False,False,,Ibaka 16' Jump Shot (12 PTS) (Wright 3 AST),94-68,94,68
 0021800519,2018-12-28,ORL,TOR,39.28,4,8,43,ORL,ORL,fg_miss,1,True,False,MISS Bamba 13' Jump Shot,,94-68,94,68
-0021800519,2018-12-28,ORL,TOR,39.28,4,8,43,ORL,ORL,reb,0,False,False,MAGIC Rebound,,94-68,94,68
 0021800519,2018-12-28,ORL,TOR,39.28,4,8,43,ORL,TOR,block,1,True,False,block,block,94-68,94,68
+0021800519,2018-12-28,ORL,TOR,39.28,4,8,43,ORL,ORL,reb,0,False,False,MAGIC Rebound,,94-68,94,68
 0021800519,2018-12-28,ORL,TOR,39.35,4,8,39,ORL,ORL,fg_miss,6,False,False,MISS Simmons 4' Driving Layup,,94-68,94,68
 0021800519,2018-12-28,ORL,TOR,39.38,4,8,37,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:1 Def:3),,94-68,94,68
 0021800519,2018-12-28,ORL,TOR,39.4,4,8,36,ORL,ORL,fg_make,72,False,False,Bamba 3' Putback Layup (7 PTS),,96-68,96,68
@@ -408,8 +408,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800519,2018-12-28,ORL,TOR,42.13,4,5,52,ORL,TOR,foul,1,False,False,,Anunoby P.FOUL (P2.T2) (K.Fitzgerald),101-82,101,82
 0021800519,2018-12-28,ORL,TOR,42.13,4,5,52,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 3 Short 0),,101-82,101,82
 0021800519,2018-12-28,ORL,TOR,42.25,4,5,45,ORL,ORL,fg_miss,5,True,False,MISS Isaac 4' Layup,,101-82,101,82
-0021800519,2018-12-28,ORL,TOR,42.25,4,5,45,ORL,ORL,reb,0,False,False,MAGIC Rebound,,101-82,101,82
 0021800519,2018-12-28,ORL,TOR,42.25,4,5,45,ORL,TOR,block,5,True,False,block,block,101-82,101,82
+0021800519,2018-12-28,ORL,TOR,42.25,4,5,45,ORL,ORL,reb,0,False,False,MAGIC Rebound,,101-82,101,82
 0021800519,2018-12-28,ORL,TOR,42.37,4,5,38,ORL,ORL,fg_make,5,False,False,Vucevic 3' Layup (30 PTS) (Fournier 1 AST),,103-82,103,82
 0021800519,2018-12-28,ORL,TOR,42.6,4,5,24,TOR,TOR,tov,40,False,False,,Wright Out of Bounds Lost Ball Turnover (P2.T11),103-82,103,82
 0021800519,2018-12-28,ORL,TOR,42.93,4,5,4,ORL,ORL,fg3_miss,1,False,False,MISS Ross 24' 3PT Jump Shot,,103-82,103,82
@@ -431,8 +431,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800519,2018-12-28,ORL,TOR,44.63,4,3,22,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 4 Short 0),,108-82,108,82
 0021800519,2018-12-28,ORL,TOR,44.78,4,3,13,ORL,ORL,fg_make,79,False,False,Grant 19' Pullup Jump Shot (2 PTS) (Birch 1 AST),,110-82,110,82
 0021800519,2018-12-28,ORL,TOR,45.1,4,2,54,TOR,TOR,fg_miss,6,True,False,,MISS Miles 4' Driving Layup,110-82,110,82
-0021800519,2018-12-28,ORL,TOR,45.1,4,2,54,TOR,TOR,reb,0,False,False,,Raptors Rebound,110-82,110,82
 0021800519,2018-12-28,ORL,TOR,45.1,4,2,54,TOR,ORL,block,6,True,False,block,block,110-82,110,82
+0021800519,2018-12-28,ORL,TOR,45.1,4,2,54,TOR,TOR,reb,0,False,False,,Raptors Rebound,110-82,110,82
 0021800519,2018-12-28,ORL,TOR,45.25,4,2,45,TOR,TOR,fg_miss,101,False,False,,MISS Brown 4' Driving Floating Jump Shot,110-82,110,82
 0021800519,2018-12-28,ORL,TOR,45.33,4,2,40,TOR,TOR,reb,0,False,False,,Miles REBOUND (Off:1 Def:4),110-82,110,82
 0021800519,2018-12-28,ORL,TOR,45.33,4,2,40,TOR,TOR,fg_miss,97,False,False,,MISS Miles 1' Tip Layup Shot,110-82,110,82
@@ -444,8 +444,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800519,2018-12-28,ORL,TOR,45.63,4,2,22,TOR,TOR,fg_miss,97,False,False,,MISS Wright 1' Tip Layup Shot,110-82,110,82
 0021800519,2018-12-28,ORL,TOR,45.65,4,2,21,ORL,ORL,reb,0,False,False,Martin REBOUND (Off:0 Def:2),,110-82,110,82
 0021800519,2018-12-28,ORL,TOR,45.75,4,2,15,ORL,ORL,fg_miss,1,True,False,MISS Martin 17' Jump Shot,,110-82,110,82
-0021800519,2018-12-28,ORL,TOR,45.75,4,2,15,ORL,ORL,reb,0,False,False,Iwundu REBOUND (Off:1 Def:1),,110-82,110,82
 0021800519,2018-12-28,ORL,TOR,45.75,4,2,15,ORL,TOR,block,1,True,False,block,block,110-82,110,82
+0021800519,2018-12-28,ORL,TOR,45.75,4,2,15,ORL,ORL,reb,0,False,False,Iwundu REBOUND (Off:1 Def:1),,110-82,110,82
 0021800519,2018-12-28,ORL,TOR,45.85,4,2,9,ORL,ORL,fg_make,97,False,False,Iwundu 1' Tip Layup Shot (10 PTS),,112-82,112,82
 0021800519,2018-12-28,ORL,TOR,46.13,4,1,52,TOR,TOR,fg3_miss,1,False,False,,MISS Richardson 25' 3PT Jump Shot,112-82,112,82
 0021800519,2018-12-28,ORL,TOR,46.18,4,1,49,TOR,TOR,reb,0,False,False,,Richardson REBOUND (Off:1 Def:0),112-82,112,82
@@ -455,8 +455,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800519,2018-12-28,ORL,TOR,46.47,4,1,32,ORL,ORL,tov,1,False,True,Grant Bad Pass Turnover (P1.T15),,112-84,112,84
 0021800519,2018-12-28,ORL,TOR,46.47,4,1,32,ORL,TOR,steal,1,False,True,steal,steal,112-84,112,84
 0021800519,2018-12-28,ORL,TOR,46.53,4,1,28,TOR,TOR,fg_miss,41,True,False,,MISS Brown 3' Running Layup,112-84,112,84
-0021800519,2018-12-28,ORL,TOR,46.53,4,1,28,TOR,TOR,reb,0,False,False,,Raptors Rebound,112-84,112,84
 0021800519,2018-12-28,ORL,TOR,46.53,4,1,28,TOR,ORL,block,41,True,False,block,block,112-84,112,84
+0021800519,2018-12-28,ORL,TOR,46.53,4,1,28,TOR,TOR,reb,0,False,False,,Raptors Rebound,112-84,112,84
 0021800519,2018-12-28,ORL,TOR,46.58,4,1,25,TOR,TOR,fg3_make,1,False,False,,Boucher 25' 3PT Jump Shot (9 PTS) (Wright 6 AST),112-87,112,87
 0021800519,2018-12-28,ORL,TOR,46.9,4,1,6,ORL,ORL,fg_make,6,False,False,Birch 3' Driving Layup (2 PTS),,114-87,114,87
 0021800519,2018-12-28,ORL,TOR,47.13,4,0,52,TOR,TOR,fg3_miss,1,False,False,,MISS Wright 25' 3PT Jump Shot,114-87,114,87

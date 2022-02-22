@@ -82,9 +82,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800172,2018-11-09,UTA,BOS,11.95,1,0,3,UTA,UTA,reb,0,False,False,JAZZ Rebound,,27-25,27,25
 0021800172,2018-11-09,UTA,BOS,11.95,1,0,3,UTA,UTA,tov,11,False,False,JAZZ Turnover: Shot Clock (T#7),,27-25,27,25
 0021800172,2018-11-09,UTA,BOS,12.0,1,0,0,BOS,BOS,tov,1,False,True,,Morris Sr. Bad Pass Turnover (P1.T2),27-25,27,25
+0021800172,2018-11-09,UTA,BOS,12.0,1,0,0,BOS,UTA,steal,1,False,True,steal,steal,27-25,27,25
 0021800172,2018-11-09,UTA,BOS,12.0,1,0,0,BOS,,period_end,0,False,False,,,27-25,27,25
 0021800172,2018-11-09,UTA,BOS,12.0,2,12,0,BOS,,period_start,0,False,False,,,27-25,27,25
-0021800172,2018-11-09,UTA,BOS,12.0,1,0,0,BOS,UTA,steal,1,False,True,steal,steal,27-25,27,25
 0021800172,2018-11-09,UTA,BOS,12.3,2,11,42,BOS,BOS,fg_make,79,False,False,,Hayward 23' Pullup Jump Shot (4 PTS),27-27,27,27
 0021800172,2018-11-09,UTA,BOS,12.6,2,11,24,UTA,UTA,fg3_miss,1,False,False,MISS Crowder 3PT Jump Shot,,27-27,27,27
 0021800172,2018-11-09,UTA,BOS,12.6,2,11,24,BOS,BOS,reb,0,False,False,,Celtics Rebound,27-27,27,27
@@ -143,8 +143,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800172,2018-11-09,UTA,BOS,18.77,2,5,14,BOS,BOS,reb,0,False,False,,Celtics Rebound,44-40,44,40
 0021800172,2018-11-09,UTA,BOS,18.77,2,5,14,BOS,UTA,foul,3,False,False,Rubio L.B.FOUL (P1.T3) (D.Collins),,44-40,44,40
 0021800172,2018-11-09,UTA,BOS,18.92,2,5,5,BOS,BOS,fg_miss,44,True,False,,MISS Brown 3' Reverse Layup,44-40,44,40
-0021800172,2018-11-09,UTA,BOS,18.92,2,5,5,BOS,BOS,reb,0,False,False,,Celtics Rebound,44-40,44,40
 0021800172,2018-11-09,UTA,BOS,18.92,2,5,5,BOS,UTA,block,44,True,False,block,block,44-40,44,40
+0021800172,2018-11-09,UTA,BOS,18.92,2,5,5,BOS,BOS,reb,0,False,False,,Celtics Rebound,44-40,44,40
 0021800172,2018-11-09,UTA,BOS,18.97,2,5,2,BOS,BOS,fg_make,5,False,False,,Tatum 1' Layup (9 PTS) (Smart 2 AST),44-42,44,42
 0021800172,2018-11-09,UTA,BOS,19.3,2,4,42,UTA,UTA,fg_make,75,False,False,Ingles 2' Driving Finger Roll Layup (11 PTS),,46-42,46,42
 0021800172,2018-11-09,UTA,BOS,19.63,2,4,22,BOS,BOS,fg3_miss,1,False,False,,MISS Smart 25' 3PT Jump Shot,46-42,46,42
@@ -156,8 +156,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800172,2018-11-09,UTA,BOS,20.22,2,3,47,BOS,BOS,reb,0,False,False,,Horford REBOUND (Off:0 Def:1),46-44,46,44
 0021800172,2018-11-09,UTA,BOS,20.38,2,3,37,BOS,BOS,fg_make,63,False,False,,Brown 8' Fadeaway Jumper (7 PTS),46-46,46,46
 0021800172,2018-11-09,UTA,BOS,20.63,2,3,22,UTA,UTA,tov,1,False,True,Mitchell Bad Pass Turnover (P3.T10),,46-46,46,46
-0021800172,2018-11-09,UTA,BOS,20.63,2,3,22,BOS,UTA,foul,3,False,False,Ingles L.B.FOUL (P2.T4) (T.Maddox),,46-46,46,46
 0021800172,2018-11-09,UTA,BOS,20.63,2,3,22,UTA,BOS,steal,1,False,True,steal,steal,46-46,46,46
+0021800172,2018-11-09,UTA,BOS,20.63,2,3,22,BOS,UTA,foul,3,False,False,Ingles L.B.FOUL (P2.T4) (T.Maddox),,46-46,46,46
 0021800172,2018-11-09,UTA,BOS,20.82,2,3,11,BOS,BOS,fg3_miss,1,False,False,,MISS Horford 25' 3PT Jump Shot,46-46,46,46
 0021800172,2018-11-09,UTA,BOS,20.88,2,3,7,UTA,UTA,reb,0,False,False,Rubio REBOUND (Off:0 Def:3),,46-46,46,46
 0021800172,2018-11-09,UTA,BOS,21.1,2,2,54,UTA,UTA,fg3_miss,1,False,False,MISS Mitchell 25' 3PT Jump Shot,,46-46,46,46
@@ -260,8 +260,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800172,2018-11-09,UTA,BOS,31.07,3,4,56,BOS,BOS,fg3_miss,1,False,False,,MISS Brown 25' 3PT Jump Shot,83-67,83,67
 0021800172,2018-11-09,UTA,BOS,31.1,3,4,54,BOS,BOS,reb,0,False,False,,Celtics Rebound,83-67,83,67
 0021800172,2018-11-09,UTA,BOS,31.13,3,4,52,BOS,BOS,fg_miss,1,True,False,,MISS Brown 3' Jump Shot,83-67,83,67
-0021800172,2018-11-09,UTA,BOS,31.13,3,4,52,BOS,BOS,reb,0,False,False,,Celtics Rebound,83-67,83,67
 0021800172,2018-11-09,UTA,BOS,31.13,3,4,52,BOS,UTA,block,1,True,False,block,block,83-67,83,67
+0021800172,2018-11-09,UTA,BOS,31.13,3,4,52,BOS,BOS,reb,0,False,False,,Celtics Rebound,83-67,83,67
 0021800172,2018-11-09,UTA,BOS,31.32,3,4,41,BOS,BOS,fg3_miss,1,False,False,,MISS Brown 3PT Jump Shot,83-67,83,67
 0021800172,2018-11-09,UTA,BOS,31.38,3,4,37,BOS,BOS,reb,0,False,False,,Baynes REBOUND (Off:1 Def:1),83-67,83,67
 0021800172,2018-11-09,UTA,BOS,31.5,3,4,30,BOS,BOS,tov,8,False,False,,Baynes 3 Second Violation Turnover (P1.T6),83-67,83,67

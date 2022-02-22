@@ -2,8 +2,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000629,2021-03-18,POR,NOP,0.0,1,12,0,,,period_start,0,False,False,,,0-0,0,0
 0022000629,2021-03-18,POR,NOP,0.0,1,12,0,,POR,jump_ball,0,False,False,Jump Ball Kanter vs. Adams: Tip to Williamson,,0-0,0,0
 0022000629,2021-03-18,POR,NOP,0.23,1,11,46,NOP,NOP,fg_miss,9,True,False,,MISS Ingram 1' Driving Dunk,0-0,0,0
-0022000629,2021-03-18,POR,NOP,0.23,1,11,46,NOP,NOP,reb,0,False,False,,Pelicans Rebound,0-0,0,0
 0022000629,2021-03-18,POR,NOP,0.23,1,11,46,NOP,POR,block,9,True,False,block,block,0-0,0,0
+0022000629,2021-03-18,POR,NOP,0.23,1,11,46,NOP,NOP,reb,0,False,False,,Pelicans Rebound,0-0,0,0
 0022000629,2021-03-18,POR,NOP,0.35,1,11,39,NOP,NOP,tov,1,False,True,,Ingram Bad Pass Turnover (P1.T1),0-0,0,0
 0022000629,2021-03-18,POR,NOP,0.35,1,11,39,NOP,POR,steal,1,False,True,steal,steal,0-0,0,0
 0022000629,2021-03-18,POR,NOP,0.45,1,11,33,POR,POR,fg_miss,2,False,False,MISS McCollum 6' Running Jump Shot,,0-0,0,0
@@ -12,8 +12,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000629,2021-03-18,POR,NOP,0.93,1,11,4,POR,POR,fg_miss,63,False,False,MISS McCollum 13' Fadeaway Jumper,,0-3,0,3
 0022000629,2021-03-18,POR,NOP,0.97,1,11,2,NOP,NOP,reb,0,False,False,,Williamson REBOUND (Off:0 Def:1),0-3,0,3
 0022000629,2021-03-18,POR,NOP,1.13,1,10,52,NOP,NOP,fg_miss,102,False,False,,MISS Williamson 4' Driving Floating Bank Jump Shot,0-3,0,3
-0022000629,2021-03-18,POR,NOP,1.23,1,10,46,NOP,NOP,fg_make,107,False,False,,Williamson Tip Dunk Shot (2 PTS),0-5,0,5
 0022000629,2021-03-18,POR,NOP,1.23,1,10,46,NOP,NOP,reb,0,False,False,,Williamson REBOUND (Off:1 Def:1),0-5,0,5
+0022000629,2021-03-18,POR,NOP,1.23,1,10,46,NOP,NOP,fg_make,107,False,False,,Williamson Tip Dunk Shot (2 PTS),0-5,0,5
 0022000629,2021-03-18,POR,NOP,1.47,1,10,32,POR,POR,fg_make,6,False,False,Covington 1' Driving Layup (2 PTS) (McCollum 1 AST),,2-5,2,5
 0022000629,2021-03-18,POR,NOP,1.92,1,10,5,NOP,NOP,fg3_make,1,False,False,,Ingram 25' 3PT Jump Shot (6 PTS) (Williamson 1 AST),2-8,2,8
 0022000629,2021-03-18,POR,NOP,2.17,1,9,50,POR,POR,fg_make,79,False,False,Lillard 16' Pullup Jump Shot (2 PTS),,4-8,4,8
@@ -56,8 +56,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000629,2021-03-18,POR,NOP,6.65,1,5,21,POR,POR,fg3_miss,1,False,False,MISS Jones Jr. 25' 3PT Jump Shot,,12-15,12,15
 0022000629,2021-03-18,POR,NOP,6.68,1,5,19,POR,POR,reb,0,False,False,Kanter REBOUND (Off:2 Def:1),,12-15,12,15
 0022000629,2021-03-18,POR,NOP,6.73,1,5,16,POR,POR,fg3_miss,1,False,False,MISS Trent Jr. 25' 3PT Jump Shot,,12-15,12,15
-0022000629,2021-03-18,POR,NOP,6.82,1,5,11,POR,POR,fg_make,107,False,False,Jones Jr. Tip Dunk Shot (2 PTS),,14-15,14,15
 0022000629,2021-03-18,POR,NOP,6.82,1,5,11,POR,POR,reb,0,False,False,Jones Jr. REBOUND (Off:1 Def:1),,14-15,14,15
+0022000629,2021-03-18,POR,NOP,6.82,1,5,11,POR,POR,fg_make,107,False,False,Jones Jr. Tip Dunk Shot (2 PTS),,14-15,14,15
 0022000629,2021-03-18,POR,NOP,7.02,1,4,59,NOP,NOP,fg3_miss,1,False,False,,MISS Ball 26' 3PT Jump Shot,14-15,14,15
 0022000629,2021-03-18,POR,NOP,7.05,1,4,57,NOP,NOP,reb,0,False,False,,Williamson REBOUND (Off:2 Def:3),14-15,14,15
 0022000629,2021-03-18,POR,NOP,7.08,1,4,55,NOP,NOP,fg3_miss,1,False,False,,MISS Ball 25' 3PT Jump Shot,14-15,14,15
@@ -206,8 +206,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000629,2021-03-18,POR,NOP,22.93,2,1,4,POR,POR,fg3_miss,1,False,False,MISS Covington 26' 3PT Jump Shot,,55-46,55,46
 0022000629,2021-03-18,POR,NOP,23.0,2,1,0,NOP,NOP,reb,0,False,False,,Adams REBOUND (Off:2 Def:4),55-46,55,46
 0022000629,2021-03-18,POR,NOP,23.12,2,0,53,NOP,NOP,fg_miss,6,True,False,,MISS Williamson 2' Driving Layup,55-46,55,46
-0022000629,2021-03-18,POR,NOP,23.12,2,0,53,NOP,NOP,reb,0,False,False,,Pelicans Rebound,55-46,55,46
 0022000629,2021-03-18,POR,NOP,23.12,2,0,53,NOP,POR,block,6,True,False,block,block,55-46,55,46
+0022000629,2021-03-18,POR,NOP,23.12,2,0,53,NOP,NOP,reb,0,False,False,,Pelicans Rebound,55-46,55,46
 0022000629,2021-03-18,POR,NOP,23.13,2,0,52,NOP,NOP,tov,13,False,False,,Ball Backcourt Turnover (P2.T7),55-46,55,46
 0022000629,2021-03-18,POR,NOP,23.47,2,0,32,POR,POR,fg_make,58,False,False,Kanter 4' Turnaround Hook Shot (5 PTS),,57-46,57,46
 0022000629,2021-03-18,POR,NOP,23.58,2,0,25,NOP,NOP,fg_make,6,False,False,,Ball 1' Driving Layup (5 PTS),57-48,57,48
@@ -225,8 +225,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000629,2021-03-18,POR,NOP,24.98,3,11,1,NOP,NOP,fg_miss,79,False,False,,MISS Bledsoe 12' Pullup Jump Shot,57-48,57,48
 0022000629,2021-03-18,POR,NOP,25.0,3,11,0,POR,POR,reb,0,False,False,Covington REBOUND (Off:0 Def:6),,57-48,57,48
 0022000629,2021-03-18,POR,NOP,25.15,3,10,51,POR,POR,fg_miss,79,True,False,MISS McCollum 18' Pullup Jump Shot,,57-48,57,48
-0022000629,2021-03-18,POR,NOP,25.15,3,10,51,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,57-48,57,48
 0022000629,2021-03-18,POR,NOP,25.15,3,10,51,POR,NOP,block,79,True,False,block,block,57-48,57,48
+0022000629,2021-03-18,POR,NOP,25.15,3,10,51,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,57-48,57,48
 0022000629,2021-03-18,POR,NOP,25.27,3,10,44,POR,POR,tov,1,False,True,Kanter Bad Pass Turnover (P1.T7),,57-48,57,48
 0022000629,2021-03-18,POR,NOP,25.27,3,10,44,POR,NOP,steal,1,False,True,steal,steal,57-48,57,48
 0022000629,2021-03-18,POR,NOP,25.38,3,10,37,NOP,NOP,tov,1,False,True,,Ingram Bad Pass Turnover (P3.T8),57-48,57,48
@@ -272,16 +272,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000629,2021-03-18,POR,NOP,30.25,3,5,45,NOP,POR,block,5,True,False,block,block,65-57,65,57
 0022000629,2021-03-18,POR,NOP,30.28,3,5,43,NOP,NOP,reb,0,False,False,,Williamson REBOUND (Off:3 Def:5),65-57,65,57
 0022000629,2021-03-18,POR,NOP,30.3,3,5,42,NOP,NOP,fg_miss,5,True,False,,MISS Williamson 3' Layup,65-57,65,57
-0022000629,2021-03-18,POR,NOP,30.3,3,5,42,NOP,NOP,reb,0,False,False,,Ingram REBOUND (Off:1 Def:2),65-57,65,57
 0022000629,2021-03-18,POR,NOP,30.3,3,5,42,NOP,POR,block,5,True,False,block,block,65-57,65,57
+0022000629,2021-03-18,POR,NOP,30.3,3,5,42,NOP,NOP,reb,0,False,False,,Ingram REBOUND (Off:1 Def:2),65-57,65,57
 0022000629,2021-03-18,POR,NOP,30.43,3,5,34,NOP,NOP,fg_miss,79,False,False,,MISS Ingram 15' Pullup Jump Shot,65-57,65,57
 0022000629,2021-03-18,POR,NOP,30.47,3,5,32,POR,POR,reb,0,False,False,Jones Jr. REBOUND (Off:2 Def:2),,65-57,65,57
 0022000629,2021-03-18,POR,NOP,30.63,3,5,22,POR,POR,fg3_miss,1,False,False,MISS Jones Jr. 3PT Jump Shot,,65-57,65,57
 0022000629,2021-03-18,POR,NOP,30.63,3,5,22,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,65-57,65,57
 0022000629,2021-03-18,POR,NOP,30.63,3,5,22,POR,NOP,foul,3,False,False,,Adams L.B.FOUL (P1.T2) (B.Adams),65-57,65,57
 0022000629,2021-03-18,POR,NOP,30.82,3,5,11,POR,POR,fg_miss,6,True,False,MISS Trent Jr. 4' Driving Layup,,65-57,65,57
-0022000629,2021-03-18,POR,NOP,30.82,3,5,11,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,65-57,65,57
 0022000629,2021-03-18,POR,NOP,30.82,3,5,11,POR,NOP,block,6,True,False,block,block,65-57,65,57
+0022000629,2021-03-18,POR,NOP,30.82,3,5,11,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,65-57,65,57
 0022000629,2021-03-18,POR,NOP,30.85,3,5,9,POR,NOP,foul,2,False,False,,Adams S.FOUL (P2.T3) (E.Lewis),65-57,65,57
 0022000629,2021-03-18,POR,NOP,30.85,3,5,9,POR,POR,ft_make,11,False,False,Kanter Free Throw 1 of 2 (10 PTS),,66-57,66,57
 0022000629,2021-03-18,POR,NOP,30.85,3,5,9,POR,POR,ft_make,12,False,False,Kanter Free Throw 2 of 2 (11 PTS),,67-57,67,57
@@ -343,9 +343,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000629,2021-03-18,POR,NOP,35.83,3,0,10,NOP,NOP,fg3_miss,1,False,False,,MISS Alexander-Walker 26' 3PT Jump Shot,77-70,77,70
 0022000629,2021-03-18,POR,NOP,35.9,3,0,6,POR,POR,reb,0,False,False,Little REBOUND (Off:1 Def:5),,77-70,77,70
 0022000629,2021-03-18,POR,NOP,36.0,3,0,0,POR,POR,tov,1,False,True,Covington Bad Pass Turnover (P1.T12),,77-70,77,70
+0022000629,2021-03-18,POR,NOP,36.0,3,0,0,POR,NOP,steal,1,False,True,steal,steal,77-70,77,70
 0022000629,2021-03-18,POR,NOP,36.0,3,0,0,POR,,period_end,0,False,False,,,77-70,77,70
 0022000629,2021-03-18,POR,NOP,36.0,4,12,0,POR,,period_start,0,False,False,,,77-70,77,70
-0022000629,2021-03-18,POR,NOP,36.0,3,0,0,POR,NOP,steal,1,False,True,steal,steal,77-70,77,70
 0022000629,2021-03-18,POR,NOP,36.23,4,11,46,NOP,NOP,fg3_miss,1,False,False,,MISS Lewis Jr. 26' 3PT Jump Shot,77-70,77,70
 0022000629,2021-03-18,POR,NOP,36.28,4,11,43,POR,POR,reb,0,False,False,Jones Jr. REBOUND (Off:2 Def:3),,77-70,77,70
 0022000629,2021-03-18,POR,NOP,36.53,4,11,28,POR,POR,fg_miss,1,False,False,MISS Anthony 19' Jump Shot,,77-70,77,70
@@ -354,20 +354,20 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000629,2021-03-18,POR,NOP,36.87,4,11,8,POR,POR,reb,0,False,False,Covington REBOUND (Off:1 Def:7),,77-70,77,70
 0022000629,2021-03-18,POR,NOP,37.07,4,10,56,POR,POR,fg3_make,1,False,False,Covington 26' 3PT Jump Shot (7 PTS) (McCollum 2 AST),,80-70,80,70
 0022000629,2021-03-18,POR,NOP,37.35,4,10,39,POR,NOP,foul,26,False,False,,Williamson Offensive Charge Foul (P1.T1) (D.Collins),80-70,80,70
-0022000629,2021-03-18,POR,NOP,37.35,4,10,39,NOP,NOP,tov,37,False,False,,Williamson Offensive Foul Turnover (P4.T11),80-70,80,70
 0022000629,2021-03-18,POR,NOP,37.35,4,10,39,POR,POR,timeout,1,False,False,TRAIL BLAZERS Timeout: Regular (Full 4 Short 0),,80-70,80,70
+0022000629,2021-03-18,POR,NOP,37.35,4,10,39,NOP,NOP,tov,37,False,False,,Williamson Offensive Foul Turnover (P4.T11),80-70,80,70
 0022000629,2021-03-18,POR,NOP,37.55,4,10,27,POR,POR,fg3_make,79,False,False,McCollum 27' 3PT Pullup Jump Shot (11 PTS) (Anthony 1 AST),,83-70,83,70
 0022000629,2021-03-18,POR,NOP,37.75,4,10,15,NOP,NOP,fg_miss,6,True,False,,MISS Williamson 7' Driving Layup,83-70,83,70
-0022000629,2021-03-18,POR,NOP,37.75,4,10,15,NOP,NOP,reb,0,False,False,,Pelicans Rebound,83-70,83,70
 0022000629,2021-03-18,POR,NOP,37.75,4,10,15,NOP,POR,block,6,True,False,block,block,83-70,83,70
+0022000629,2021-03-18,POR,NOP,37.75,4,10,15,NOP,NOP,reb,0,False,False,,Pelicans Rebound,83-70,83,70
 0022000629,2021-03-18,POR,NOP,37.85,4,10,9,NOP,NOP,fg_make,98,False,False,,Hayes Cutting Layup Shot (3 PTS) (Lewis Jr. 3 AST),83-72,83,72
 0022000629,2021-03-18,POR,NOP,38.18,4,9,49,POR,POR,fg3_miss,1,False,False,MISS Covington 30' 3PT Jump Shot,,83-72,83,72
 0022000629,2021-03-18,POR,NOP,38.23,4,9,46,POR,POR,reb,0,False,False,Hood REBOUND (Off:2 Def:0),,83-72,83,72
 0022000629,2021-03-18,POR,NOP,38.27,4,9,44,POR,POR,fg_miss,6,False,False,MISS McCollum 1' Driving Layup,,83-72,83,72
 0022000629,2021-03-18,POR,NOP,38.28,4,9,43,POR,POR,reb,0,False,False,Hood REBOUND (Off:3 Def:0),,83-72,83,72
 0022000629,2021-03-18,POR,NOP,38.32,4,9,41,POR,POR,tov,1,False,True,Hood Bad Pass Turnover (P2.T13),,83-72,83,72
-0022000629,2021-03-18,POR,NOP,38.32,4,9,41,NOP,POR,foul,1,False,False,Covington P.FOUL (P2.T1) (D.Collins),,83-72,83,72
 0022000629,2021-03-18,POR,NOP,38.32,4,9,41,POR,NOP,steal,1,False,True,steal,steal,83-72,83,72
+0022000629,2021-03-18,POR,NOP,38.32,4,9,41,NOP,POR,foul,1,False,False,Covington P.FOUL (P2.T1) (D.Collins),,83-72,83,72
 0022000629,2021-03-18,POR,NOP,38.53,4,9,28,NOP,NOP,fg_miss,47,False,False,,MISS Alexander-Walker 8' Turnaround Jump Shot,83-72,83,72
 0022000629,2021-03-18,POR,NOP,38.57,4,9,26,POR,POR,reb,0,False,False,Covington REBOUND (Off:1 Def:8),,83-72,83,72
 0022000629,2021-03-18,POR,NOP,38.82,4,9,11,POR,POR,fg3_make,1,False,False,Anthony 25' 3PT Jump Shot (13 PTS) (Covington 1 AST),,86-72,86,72

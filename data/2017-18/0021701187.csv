@@ -49,8 +49,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701187,2018-04-06,TOR,IND,4.93,1,7,4,IND,IND,fg_miss,97,False,False,,MISS Turner 1' Tip Layup Shot,11-4,11,4
 0021701187,2018-04-06,TOR,IND,4.93,1,7,4,TOR,TOR,reb,0,False,False,Lowry REBOUND (Off:0 Def:2),,11-4,11,4
 0021701187,2018-04-06,TOR,IND,5.05,1,6,57,TOR,TOR,tov,1,False,True,Lowry Bad Pass Turnover (P1.T3),,11-4,11,4
-0021701187,2018-04-06,TOR,IND,5.05,1,6,57,IND,TOR,foul,1,False,False,Lowry P.FOUL (P1.T2) (T.Brown),,11-4,11,4
 0021701187,2018-04-06,TOR,IND,5.05,1,6,57,TOR,IND,steal,1,False,True,steal,steal,11-4,11,4
+0021701187,2018-04-06,TOR,IND,5.05,1,6,57,IND,TOR,foul,1,False,False,Lowry P.FOUL (P1.T2) (T.Brown),,11-4,11,4
 0021701187,2018-04-06,TOR,IND,5.32,1,6,41,IND,IND,fg_miss,79,False,False,,MISS Turner 19' Pullup Jump Shot,11-4,11,4
 0021701187,2018-04-06,TOR,IND,5.37,1,6,38,TOR,TOR,reb,0,False,False,Valanciunas REBOUND (Off:1 Def:2),,11-4,11,4
 0021701187,2018-04-06,TOR,IND,5.48,1,6,31,TOR,TOR,fg_make,7,False,False,Ibaka 1' Dunk (7 PTS) (DeRozan 1 AST),,13-4,13,4
@@ -127,8 +127,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701187,2018-04-06,TOR,IND,13.07,2,10,56,IND,IND,fg_make,63,False,False,,Joseph 11' Fadeaway Jumper (4 PTS),28-16,28,16
 0021701187,2018-04-06,TOR,IND,13.52,2,10,29,TOR,TOR,fg_make,108,False,False,Poeltl 2' Cutting Dunk Shot (8 PTS) (VanVleet 3 AST),,30-16,30,16
 0021701187,2018-04-06,TOR,IND,13.82,2,10,11,IND,IND,fg_miss,6,True,False,,MISS Stephenson 4' Driving Layup,30-16,30,16
-0021701187,2018-04-06,TOR,IND,13.82,2,10,11,IND,IND,reb,0,False,False,,Pacers Rebound,30-16,30,16
 0021701187,2018-04-06,TOR,IND,13.82,2,10,11,IND,TOR,block,6,True,False,block,block,30-16,30,16
+0021701187,2018-04-06,TOR,IND,13.82,2,10,11,IND,IND,reb,0,False,False,,Pacers Rebound,30-16,30,16
 0021701187,2018-04-06,TOR,IND,13.87,2,10,8,IND,IND,fg_miss,1,False,False,,MISS Sabonis 21' Jump Shot,30-16,30,16
 0021701187,2018-04-06,TOR,IND,13.92,2,10,5,IND,IND,reb,0,False,False,,Booker REBOUND (Off:1 Def:0),30-16,30,16
 0021701187,2018-04-06,TOR,IND,13.95,2,10,3,IND,IND,fg_miss,71,False,False,,MISS Booker 3' Finger Roll Layup,30-16,30,16
@@ -238,8 +238,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701187,2018-04-06,TOR,IND,25.47,3,10,32,IND,IND,fg_miss,79,False,False,,MISS Oladipo 17' Pullup Jump Shot,45-36,45,36
 0021701187,2018-04-06,TOR,IND,25.52,3,10,29,TOR,TOR,reb,0,False,False,Anunoby REBOUND (Off:1 Def:3),,45-36,45,36
 0021701187,2018-04-06,TOR,IND,25.6,3,10,24,TOR,TOR,fg_miss,41,True,False,MISS Lowry 2' Running Layup,,45-36,45,36
-0021701187,2018-04-06,TOR,IND,25.6,3,10,24,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,45-36,45,36
 0021701187,2018-04-06,TOR,IND,25.6,3,10,24,TOR,IND,block,41,True,False,block,block,45-36,45,36
+0021701187,2018-04-06,TOR,IND,25.6,3,10,24,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,45-36,45,36
 0021701187,2018-04-06,TOR,IND,25.7,3,10,18,TOR,TOR,fg_make,3,False,False,Ibaka 3' Hook Shot (15 PTS) (DeRozan 3 AST),,47-36,47,36
 0021701187,2018-04-06,TOR,IND,26.07,3,9,56,IND,IND,tov,1,False,True,,Turner Bad Pass Turnover (P2.T8),47-36,47,36
 0021701187,2018-04-06,TOR,IND,26.07,3,9,56,IND,TOR,steal,1,False,True,steal,steal,47-36,47,36
@@ -296,8 +296,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701187,2018-04-06,TOR,IND,31.07,3,4,56,IND,IND,fg_miss,79,False,False,,MISS Collison 15' Pullup Jump Shot,56-42,56,42
 0021701187,2018-04-06,TOR,IND,31.1,3,4,54,TOR,TOR,reb,0,False,False,Valanciunas REBOUND (Off:2 Def:10),,56-42,56,42
 0021701187,2018-04-06,TOR,IND,31.17,3,4,50,TOR,TOR,fg_miss,6,True,False,MISS Anunoby 2' Driving Layup,,56-42,56,42
-0021701187,2018-04-06,TOR,IND,31.17,3,4,50,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,56-42,56,42
 0021701187,2018-04-06,TOR,IND,31.17,3,4,50,TOR,IND,block,6,True,False,block,block,56-42,56,42
+0021701187,2018-04-06,TOR,IND,31.17,3,4,50,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,56-42,56,42
 0021701187,2018-04-06,TOR,IND,31.28,3,4,43,TOR,TOR,fg3_make,1,False,False,Lowry 25' 3PT Jump Shot (6 PTS) (DeRozan 6 AST),,59-42,59,42
 0021701187,2018-04-06,TOR,IND,31.55,3,4,27,IND,IND,fg_miss,3,False,False,,MISS Sabonis 3' Hook Shot,59-42,59,42
 0021701187,2018-04-06,TOR,IND,31.6,3,4,24,TOR,TOR,reb,0,False,False,DeRozan REBOUND (Off:1 Def:4),,59-42,59,42
@@ -306,8 +306,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701187,2018-04-06,TOR,IND,32.03,3,3,58,IND,IND,tov,2,False,True,,Joseph Lost Ball Turnover (P2.T11),62-42,62,42
 0021701187,2018-04-06,TOR,IND,32.03,3,3,58,IND,TOR,steal,2,False,True,steal,steal,62-42,62,42
 0021701187,2018-04-06,TOR,IND,32.1,3,3,54,TOR,TOR,fg_miss,101,True,False,MISS DeRozan 4' Driving Floating Jump Shot,,62-42,62,42
-0021701187,2018-04-06,TOR,IND,32.1,3,3,54,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,62-42,62,42
 0021701187,2018-04-06,TOR,IND,32.1,3,3,54,TOR,IND,block,101,True,False,block,block,62-42,62,42
+0021701187,2018-04-06,TOR,IND,32.1,3,3,54,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,62-42,62,42
 0021701187,2018-04-06,TOR,IND,32.23,3,3,46,TOR,TOR,fg3_make,1,False,False,Lowry 25' 3PT Jump Shot (9 PTS) (DeRozan 8 AST),,65-42,65,42
 0021701187,2018-04-06,TOR,IND,32.4,3,3,36,IND,TOR,foul,2,False,False,Poeltl S.FOUL (P3.T2) (S.Wall),,65-42,65,42
 0021701187,2018-04-06,TOR,IND,32.4,3,3,36,IND,IND,ft_make,11,False,False,,Sabonis Free Throw 1 of 2 (7 PTS),65-43,65,43
@@ -358,8 +358,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701187,2018-04-06,TOR,IND,37.58,4,10,25,IND,IND,fg3_miss,1,False,False,,MISS Sabonis 3PT Jump Shot,72-51,72,51
 0021701187,2018-04-06,TOR,IND,37.63,4,10,22,TOR,TOR,reb,0,False,False,Miles REBOUND (Off:0 Def:1),,72-51,72,51
 0021701187,2018-04-06,TOR,IND,37.72,4,10,17,TOR,TOR,fg_miss,73,True,False,MISS VanVleet 2' Driving Reverse Layup,,72-51,72,51
-0021701187,2018-04-06,TOR,IND,37.72,4,10,17,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,72-51,72,51
 0021701187,2018-04-06,TOR,IND,37.72,4,10,17,TOR,IND,block,73,True,False,block,block,72-51,72,51
+0021701187,2018-04-06,TOR,IND,37.72,4,10,17,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,72-51,72,51
 0021701187,2018-04-06,TOR,IND,37.85,4,10,9,TOR,TOR,tov,1,False,True,Poeltl Bad Pass Turnover (P2.T21),,72-51,72,51
 0021701187,2018-04-06,TOR,IND,37.85,4,10,9,TOR,IND,steal,1,False,True,steal,steal,72-51,72,51
 0021701187,2018-04-06,TOR,IND,37.93,4,10,4,IND,IND,fg3_miss,66,False,False,,MISS Young 26' 3PT Jump Bank Shot,72-51,72,51

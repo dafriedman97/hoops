@@ -5,8 +5,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700844,2018-02-12,CHI,ORL,0.77,1,11,14,ORL,ORL,fg_miss,6,False,False,,MISS Hezonja 2' Driving Layup,2-0,2,0
 0021700844,2018-02-12,CHI,ORL,0.8,1,11,12,CHI,CHI,reb,0,False,False,LaVine REBOUND (Off:0 Def:1),,2-0,2,0
 0021700844,2018-02-12,CHI,ORL,0.87,1,11,8,CHI,CHI,fg_miss,41,True,False,MISS LaVine 1' Running Layup,,2-0,2,0
-0021700844,2018-02-12,CHI,ORL,0.87,1,11,8,ORL,ORL,reb,0,False,False,,Fournier REBOUND (Off:0 Def:1),2-0,2,0
 0021700844,2018-02-12,CHI,ORL,0.87,1,11,8,CHI,ORL,block,41,True,False,block,block,2-0,2,0
+0021700844,2018-02-12,CHI,ORL,0.87,1,11,8,ORL,ORL,reb,0,False,False,,Fournier REBOUND (Off:0 Def:1),2-0,2,0
 0021700844,2018-02-12,CHI,ORL,1.17,1,10,50,ORL,ORL,fg_miss,47,False,False,,MISS Hezonja 9' Turnaround Jump Shot,2-0,2,0
 0021700844,2018-02-12,CHI,ORL,1.2,1,10,48,CHI,CHI,reb,0,False,False,LaVine REBOUND (Off:0 Def:2),,2-0,2,0
 0021700844,2018-02-12,CHI,ORL,1.45,1,10,33,CHI,CHI,fg3_miss,1,False,False,MISS Markkanen 25' 3PT Jump Shot,,2-0,2,0
@@ -77,15 +77,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700844,2018-02-12,CHI,ORL,10.03,1,1,58,CHI,CHI,fg_miss,6,False,False,MISS Portis 2' Driving Layup,,23-26,23,26
 0021700844,2018-02-12,CHI,ORL,10.03,1,1,58,ORL,ORL,reb,0,False,False,,Iwundu REBOUND (Off:0 Def:1),23-26,23,26
 0021700844,2018-02-12,CHI,ORL,10.13,1,1,52,ORL,ORL,fg_miss,41,True,False,,MISS Iwundu 3' Running Layup,23-26,23,26
-0021700844,2018-02-12,CHI,ORL,10.13,1,1,52,CHI,CHI,reb,0,False,False,Holiday REBOUND (Off:0 Def:3),,23-26,23,26
 0021700844,2018-02-12,CHI,ORL,10.13,1,1,52,ORL,CHI,block,41,True,False,block,block,23-26,23,26
+0021700844,2018-02-12,CHI,ORL,10.13,1,1,52,CHI,CHI,reb,0,False,False,Holiday REBOUND (Off:0 Def:3),,23-26,23,26
 0021700844,2018-02-12,CHI,ORL,10.42,1,1,35,CHI,CHI,fg_miss,5,True,False,MISS Portis 2' Layup,,23-26,23,26
+0021700844,2018-02-12,CHI,ORL,10.42,1,1,35,CHI,ORL,block,5,True,False,block,block,23-26,23,26
 0021700844,2018-02-12,CHI,ORL,10.42,1,1,35,CHI,CHI,reb,0,False,False,Portis REBOUND (Off:1 Def:0),,23-26,23,26
 0021700844,2018-02-12,CHI,ORL,10.42,1,1,35,CHI,CHI,fg_miss,72,True,False,MISS Portis 1' Putback Layup,,23-26,23,26
+0021700844,2018-02-12,CHI,ORL,10.42,1,1,35,CHI,ORL,block,72,True,False,block,block,23-26,23,26
 0021700844,2018-02-12,CHI,ORL,10.42,1,1,35,CHI,CHI,reb,0,False,False,BULLS Rebound,,23-26,23,26
 0021700844,2018-02-12,CHI,ORL,10.42,1,1,35,ORL,ORL,timeout,1,False,False,,Magic Timeout: Regular (Reg.1 Short 0),23-26,23,26
-0021700844,2018-02-12,CHI,ORL,10.42,1,1,35,CHI,ORL,block,5,True,False,block,block,23-26,23,26
-0021700844,2018-02-12,CHI,ORL,10.42,1,1,35,CHI,ORL,block,72,True,False,block,block,23-26,23,26
 0021700844,2018-02-12,CHI,ORL,10.62,1,1,23,CHI,CHI,fg3_make,1,False,False,Zipser 26' 3PT Jump Shot (3 PTS),,26-26,26,26
 0021700844,2018-02-12,CHI,ORL,10.88,1,1,7,ORL,ORL,fg_miss,79,False,False,,MISS Hezonja 16' Pullup Jump Shot,26-26,26,26
 0021700844,2018-02-12,CHI,ORL,10.88,1,1,7,CHI,CHI,reb,0,False,False,Portis REBOUND (Off:1 Def:1),,26-26,26,26
@@ -122,8 +122,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700844,2018-02-12,CHI,ORL,13.8,2,10,12,ORL,ORL,fg_make,5,False,False,,Speights 1' Layup (5 PTS) (Mack 2 AST),32-34,32,34
 0021700844,2018-02-12,CHI,ORL,14.03,2,9,58,CHI,CHI,fg3_make,1,False,False,Valentine 25' 3PT Jump Shot (5 PTS) (Portis 1 AST),,35-34,35,34
 0021700844,2018-02-12,CHI,ORL,14.22,2,9,47,ORL,ORL,tov,1,False,True,,Mack Bad Pass Turnover (P1.T4),35-34,35,34
-0021700844,2018-02-12,CHI,ORL,14.22,2,9,47,CHI,ORL,foul,1,False,False,,Iwundu P.FOUL (P1.T1) (T.Ford),35-34,35,34
 0021700844,2018-02-12,CHI,ORL,14.22,2,9,47,ORL,CHI,steal,1,False,True,steal,steal,35-34,35,34
+0021700844,2018-02-12,CHI,ORL,14.22,2,9,47,CHI,ORL,foul,1,False,False,,Iwundu P.FOUL (P1.T1) (T.Ford),35-34,35,34
 0021700844,2018-02-12,CHI,ORL,14.4,2,9,36,CHI,CHI,fg_make,1,False,False,Portis 19' Jump Shot (5 PTS) (Valentine 1 AST),,37-34,37,34
 0021700844,2018-02-12,CHI,ORL,14.72,2,9,17,ORL,ORL,fg3_miss,1,False,False,,MISS Iwundu 25' 3PT Jump Shot,37-34,37,34
 0021700844,2018-02-12,CHI,ORL,14.72,2,9,17,CHI,CHI,reb,0,False,False,Nwaba REBOUND (Off:0 Def:1),,37-34,37,34
@@ -143,8 +143,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700844,2018-02-12,CHI,ORL,15.57,2,8,26,CHI,CHI,ft_make,12,False,False,Nwaba Free Throw 2 of 2 (1 PTS),,38-34,38,34
 0021700844,2018-02-12,CHI,ORL,15.9,2,8,6,ORL,ORL,fg_make,102,False,False,,Mack 9' Driving Floating Bank Jump Shot (3 PTS) (Simmons 3 AST),38-36,38,36
 0021700844,2018-02-12,CHI,ORL,16.18,2,7,49,CHI,CHI,fg3_miss,1,True,False,MISS Zipser 25' 3PT Jump Shot,,38-36,38,36
-0021700844,2018-02-12,CHI,ORL,16.18,2,7,49,ORL,ORL,reb,0,False,False,,Simmons REBOUND (Off:0 Def:1),38-36,38,36
 0021700844,2018-02-12,CHI,ORL,16.18,2,7,49,CHI,ORL,block,1,True,False,block,block,38-36,38,36
+0021700844,2018-02-12,CHI,ORL,16.18,2,7,49,ORL,ORL,reb,0,False,False,,Simmons REBOUND (Off:0 Def:1),38-36,38,36
 0021700844,2018-02-12,CHI,ORL,16.32,2,7,41,ORL,ORL,fg_make,5,False,False,,Simmons 2' Layup (2 PTS),38-38,38,38
 0021700844,2018-02-12,CHI,ORL,16.57,2,7,26,CHI,CHI,tov,1,False,True,Nwaba Bad Pass Turnover (P1.T4),,38-38,38,38
 0021700844,2018-02-12,CHI,ORL,16.57,2,7,26,CHI,ORL,steal,1,False,True,steal,steal,38-38,38,38

@@ -7,8 +7,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000094,2021-01-04,PHI,CHA,0.55,1,11,27,CHA,PHI,block,44,True,False,block,block,0-0,0,0
 0022000094,2021-01-04,PHI,CHA,0.62,1,11,23,PHI,PHI,reb,0,False,False,Green REBOUND (Off:0 Def:1),,0-0,0,0
 0022000094,2021-01-04,PHI,CHA,0.67,1,11,20,PHI,PHI,fg_miss,41,True,False,MISS Simmons 4' Running Layup,,0-0,0,0
-0022000094,2021-01-04,PHI,CHA,0.67,1,11,20,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:0 Def:1),0-0,0,0
 0022000094,2021-01-04,PHI,CHA,0.67,1,11,20,PHI,CHA,block,41,True,False,block,block,0-0,0,0
+0022000094,2021-01-04,PHI,CHA,0.67,1,11,20,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:0 Def:1),0-0,0,0
 0022000094,2021-01-04,PHI,CHA,0.92,1,11,5,CHA,PHI,foul,1,False,False,Green P.FOUL (P1.T1) (J.Goldenberg),,0-0,0,0
 0022000094,2021-01-04,PHI,CHA,1.15,1,10,51,CHA,CHA,fg3_miss,1,False,False,,MISS Washington 26' 3PT Jump Shot,0-0,0,0
 0022000094,2021-01-04,PHI,CHA,1.15,1,10,51,CHA,CHA,reb,0,False,False,,Hornets Rebound,0-0,0,0
@@ -135,8 +135,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000094,2021-01-04,PHI,CHA,15.18,2,8,49,PHI,PHI,tov,4,False,False,Simmons Traveling Turnover (P1.T3),,29-30,29,30
 0022000094,2021-01-04,PHI,CHA,15.47,2,8,32,CHA,CHA,fg3_make,1,False,False,,Washington 26' 3PT Jump Shot (10 PTS) (Hayward 1 AST),29-33,29,33
 0022000094,2021-01-04,PHI,CHA,15.88,2,8,7,PHI,PHI,fg_miss,101,False,False,MISS Maxey 9' Driving Floating Jump Shot,,29-33,29,33
-0022000094,2021-01-04,PHI,CHA,15.95,2,8,3,PHI,PHI,fg_make,97,False,False,Howard Tip Layup Shot (7 PTS),,31-33,31,33
 0022000094,2021-01-04,PHI,CHA,15.95,2,8,3,PHI,PHI,reb,0,False,False,Howard REBOUND (Off:4 Def:2),,31-33,31,33
+0022000094,2021-01-04,PHI,CHA,15.95,2,8,3,PHI,PHI,fg_make,97,False,False,Howard Tip Layup Shot (7 PTS),,31-33,31,33
 0022000094,2021-01-04,PHI,CHA,16.1,2,7,54,CHA,CHA,fg3_make,1,False,False,,Rozier 26' 3PT Jump Shot (5 PTS) (Hayward 2 AST),31-36,31,36
 0022000094,2021-01-04,PHI,CHA,16.38,2,7,37,PHI,CHA,violation,5,False,False,,Hayward Violation:Kicked Ball (M.Kogut),31-36,31,36
 0022000094,2021-01-04,PHI,CHA,16.62,2,7,23,PHI,PHI,fg3_miss,79,False,False,MISS Milton 26' 3PT Pullup Jump Shot,,31-36,31,36
@@ -226,8 +226,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000094,2021-01-04,PHI,CHA,25.22,3,10,47,CHA,CHA,fg3_make,1,False,False,,Graham 26' 3PT Jump Shot (6 PTS) (Washington 3 AST),61-48,61,48
 0022000094,2021-01-04,PHI,CHA,25.42,3,10,35,PHI,CHA,foul,1,False,False,,Washington P.FOUL (P4.T1) (M.Kogut),61-48,61,48
 0022000094,2021-01-04,PHI,CHA,25.57,3,10,26,PHI,PHI,tov,1,False,True,Curry Bad Pass Turnover (P2.T5),,61-48,61,48
-0022000094,2021-01-04,PHI,CHA,25.57,3,10,26,CHA,PHI,foul,28,False,False,Curry Personal Take Foul (P2.T2) (J.Goldenberg),,61-48,61,48
 0022000094,2021-01-04,PHI,CHA,25.57,3,10,26,PHI,CHA,steal,1,False,True,steal,steal,61-48,61,48
+0022000094,2021-01-04,PHI,CHA,25.57,3,10,26,CHA,PHI,foul,28,False,False,Curry Personal Take Foul (P2.T2) (J.Goldenberg),,61-48,61,48
 0022000094,2021-01-04,PHI,CHA,25.82,3,10,11,CHA,CHA,fg_make,7,False,False,,Biyombo 1' Dunk (4 PTS) (Rozier 3 AST),61-50,61,50
 0022000094,2021-01-04,PHI,CHA,26.0,3,10,0,PHI,CHA,foul,2,False,False,,Biyombo S.FOUL (P3.T2) (E.Malloy),61-50,61,50
 0022000094,2021-01-04,PHI,CHA,26.0,3,10,0,PHI,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (11 PTS),,62-50,62,50
@@ -259,8 +259,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000094,2021-01-04,PHI,CHA,29.72,3,6,17,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:1 Def:6),,69-55,69,55
 0022000094,2021-01-04,PHI,CHA,29.97,3,6,2,PHI,PHI,fg_make,5,False,False,Harris 2' Layup (13 PTS) (Green 3 AST),,71-55,71,55
 0022000094,2021-01-04,PHI,CHA,30.15,3,5,51,CHA,CHA,fg_miss,6,True,False,,MISS Ball 2' Driving Layup,71-55,71,55
-0022000094,2021-01-04,PHI,CHA,30.15,3,5,51,CHA,CHA,reb,0,False,False,,Hornets Rebound,71-55,71,55
 0022000094,2021-01-04,PHI,CHA,30.15,3,5,51,CHA,PHI,block,6,True,False,block,block,71-55,71,55
+0022000094,2021-01-04,PHI,CHA,30.15,3,5,51,CHA,CHA,reb,0,False,False,,Hornets Rebound,71-55,71,55
 0022000094,2021-01-04,PHI,CHA,30.3,3,5,42,CHA,CHA,fg3_miss,1,False,False,,MISS Ball 26' 3PT Jump Shot,71-55,71,55
 0022000094,2021-01-04,PHI,CHA,30.37,3,5,38,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:1 Def:9),,71-55,71,55
 0022000094,2021-01-04,PHI,CHA,30.5,3,5,30,PHI,CHA,foul,1,False,False,,Hayward P.FOUL (P3.T4) (E.Malloy),71-55,71,55
@@ -403,8 +403,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000094,2021-01-04,PHI,CHA,43.67,4,4,20,CHA,CHA,fg3_make,103,False,False,,Rozier 25' 3PT Running Pull-Up Jump Shot (12 PTS),107-85,107,85
 0022000094,2021-01-04,PHI,CHA,43.9,4,4,6,PHI,PHI,fg_miss,6,False,False,MISS Maxey 1' Driving Layup,,107-85,107,85
 0022000094,2021-01-04,PHI,CHA,43.95,4,4,3,CHA,CHA,reb,0,False,False,,McDaniels REBOUND (Off:0 Def:3),107-85,107,85
-0022000094,2021-01-04,PHI,CHA,44.0,4,4,0,CHA,,foul,10,False,False,,,107-85,107,85
 0022000094,2021-01-04,PHI,CHA,44.0,4,4,0,,PHI,jump_ball,0,False,False,Jump Ball Joe vs. McDaniels: Tip to Ball,,107-85,107,85
+0022000094,2021-01-04,PHI,CHA,44.0,4,4,0,CHA,,foul,10,False,False,,,107-85,107,85
 0022000094,2021-01-04,PHI,CHA,44.1,4,3,54,CHA,CHA,fg_make,5,False,False,,Richards 2' Layup (2 PTS) (Ball 9 AST),107-87,107,87
 0022000094,2021-01-04,PHI,CHA,44.25,4,3,45,PHI,CHA,foul,28,False,False,,Rozier Personal Take Foul (P2.PN) (E.Malloy),107-87,107,87
 0022000094,2021-01-04,PHI,CHA,44.25,4,3,45,PHI,PHI,ft_miss,11,False,False,MISS Mathias Free Throw 1 of 2,,107-87,107,87

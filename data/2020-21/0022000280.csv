@@ -41,8 +41,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000280,2021-01-27,SAS,BOS,4.33,1,7,40,BOS,BOS,ft_make,12,False,False,,Brown Free Throw 2 of 2 (2 PTS),7-13,7,13
 0022000280,2021-01-27,SAS,BOS,4.63,1,7,22,SAS,SAS,fg3_make,80,False,False,DeRozan 24' 3PT Step Back Jump Shot (7 PTS),,10-13,10,13
 0022000280,2021-01-27,SAS,BOS,4.85,1,7,9,BOS,BOS,fg_miss,75,True,False,,MISS Tatum 5' Driving Finger Roll Layup,10-13,10,13
-0022000280,2021-01-27,SAS,BOS,4.85,1,7,9,BOS,BOS,reb,0,False,False,,Celtics Rebound,10-13,10,13
 0022000280,2021-01-27,SAS,BOS,4.85,1,7,9,BOS,SAS,block,75,True,False,block,block,10-13,10,13
+0022000280,2021-01-27,SAS,BOS,4.85,1,7,9,BOS,BOS,reb,0,False,False,,Celtics Rebound,10-13,10,13
 0022000280,2021-01-27,SAS,BOS,4.93,1,7,4,BOS,BOS,fg_miss,86,False,False,,MISS Brown 19' Turnaround Fadeaway Shot,10-13,10,13
 0022000280,2021-01-27,SAS,BOS,4.98,1,7,1,SAS,SAS,reb,0,False,False,Murray REBOUND (Off:0 Def:2),,10-13,10,13
 0022000280,2021-01-27,SAS,BOS,5.23,1,6,46,SAS,SAS,fg3_miss,1,False,False,MISS Walker IV 3PT Jump Shot,,10-13,10,13
@@ -143,8 +143,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000280,2021-01-27,SAS,BOS,15.82,2,8,11,BOS,BOS,fg3_miss,80,False,False,,MISS Tatum 26' 3PT Step Back Jump Shot,29-37,29,37
 0022000280,2021-01-27,SAS,BOS,15.88,2,8,7,SAS,SAS,reb,0,False,False,Murray REBOUND (Off:0 Def:4),,29-37,29,37
 0022000280,2021-01-27,SAS,BOS,15.95,2,8,3,SAS,SAS,fg_miss,41,True,False,MISS Murray 6' Running Layup,,29-37,29,37
-0022000280,2021-01-27,SAS,BOS,15.95,2,8,3,BOS,BOS,reb,0,False,False,,Teague REBOUND (Off:0 Def:1),29-37,29,37
 0022000280,2021-01-27,SAS,BOS,15.95,2,8,3,SAS,BOS,block,41,True,False,block,block,29-37,29,37
+0022000280,2021-01-27,SAS,BOS,15.95,2,8,3,BOS,BOS,reb,0,False,False,,Teague REBOUND (Off:0 Def:1),29-37,29,37
 0022000280,2021-01-27,SAS,BOS,16.2,2,7,48,BOS,BOS,fg3_miss,1,False,False,,MISS Teague 26' 3PT Jump Shot,29-37,29,37
 0022000280,2021-01-27,SAS,BOS,16.27,2,7,44,SAS,SAS,reb,0,False,False,Murray REBOUND (Off:0 Def:5),,29-37,29,37
 0022000280,2021-01-27,SAS,BOS,16.4,2,7,36,SAS,SAS,fg3_make,1,False,False,Walker IV 25' 3PT Jump Shot (3 PTS) (Aldridge 1 AST),,32-37,32,37
@@ -152,8 +152,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000280,2021-01-27,SAS,BOS,16.98,2,7,1,BOS,BOS,reb,0,False,False,,Williams III REBOUND (Off:2 Def:1),32-37,32,37
 0022000280,2021-01-27,SAS,BOS,16.98,2,7,1,BOS,BOS,fg_make,107,False,False,,Williams III Tip Dunk Shot (4 PTS),32-39,32,39
 0022000280,2021-01-27,SAS,BOS,17.08,2,6,55,SAS,SAS,fg_miss,6,True,False,MISS Murray 10' Driving Layup,,32-39,32,39
-0022000280,2021-01-27,SAS,BOS,17.08,2,6,55,BOS,BOS,reb,0,False,False,,Ojeleye REBOUND (Off:0 Def:1),32-39,32,39
 0022000280,2021-01-27,SAS,BOS,17.08,2,6,55,SAS,BOS,block,6,True,False,block,block,32-39,32,39
+0022000280,2021-01-27,SAS,BOS,17.08,2,6,55,BOS,BOS,reb,0,False,False,,Ojeleye REBOUND (Off:0 Def:1),32-39,32,39
 0022000280,2021-01-27,SAS,BOS,17.23,2,6,46,BOS,BOS,fg_miss,5,True,False,,MISS Tatum 6' Layup,32-39,32,39
 0022000280,2021-01-27,SAS,BOS,17.23,2,6,46,BOS,SAS,block,5,True,False,block,block,32-39,32,39
 0022000280,2021-01-27,SAS,BOS,17.25,2,6,45,BOS,BOS,reb,0,False,False,,Tatum REBOUND (Off:1 Def:1),32-39,32,39
@@ -220,8 +220,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000280,2021-01-27,SAS,BOS,25.58,3,10,25,SAS,SAS,fg_make,79,False,False,Murray 17' Pullup Jump Shot (2 PTS) (Aldridge 2 AST),,65-51,65,51
 0022000280,2021-01-27,SAS,BOS,25.88,3,10,7,BOS,BOS,fg_make,101,False,False,,Brown 5' Driving Floating Jump Shot (9 PTS),65-53,65,53
 0022000280,2021-01-27,SAS,BOS,26.15,3,9,51,SAS,SAS,fg_miss,98,True,False,MISS Aldridge 7' Cutting Layup Shot,,65-53,65,53
-0022000280,2021-01-27,SAS,BOS,26.15,3,9,51,SAS,SAS,reb,0,False,False,Aldridge REBOUND (Off:1 Def:0),,65-53,65,53
 0022000280,2021-01-27,SAS,BOS,26.15,3,9,51,SAS,BOS,block,98,True,False,block,block,65-53,65,53
+0022000280,2021-01-27,SAS,BOS,26.15,3,9,51,SAS,SAS,reb,0,False,False,Aldridge REBOUND (Off:1 Def:0),,65-53,65,53
 0022000280,2021-01-27,SAS,BOS,26.17,3,9,50,SAS,SAS,fg_make,72,False,False,Aldridge Putback Layup (16 PTS),,67-53,67,53
 0022000280,2021-01-27,SAS,BOS,26.47,3,9,32,BOS,BOS,fg_make,79,False,False,,Smart 16' Pullup Jump Shot (14 PTS) (Tatum 1 AST),67-55,67,55
 0022000280,2021-01-27,SAS,BOS,26.87,3,9,8,SAS,SAS,fg_make,75,False,False,Johnson 4' Driving Finger Roll Layup (14 PTS) (DeRozan 5 AST),,69-55,69,55

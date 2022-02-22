@@ -113,9 +113,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700010,2017-10-18,UTA,DEN,15.13,2,8,52,UTA,UTA,fg_make,7,False,False,Favors 1' Dunk (4 PTS) (Ingles 4 AST),,30-37,30,37
 0021700010,2017-10-18,UTA,DEN,15.13,2,8,52,DEN,DEN,timeout,1,False,False,,Nuggets Timeout: Regular (Reg.2 Short 0),30-37,30,37
 0021700010,2017-10-18,UTA,DEN,15.47,2,8,32,DEN,DEN,fg_miss,1,True,False,,MISS Mudiay 16' Jump Shot,30-37,30,37
+0021700010,2017-10-18,UTA,DEN,15.47,2,8,32,DEN,UTA,block,1,True,False,block,block,30-37,30,37
 0021700010,2017-10-18,UTA,DEN,15.47,2,8,32,DEN,DEN,reb,0,False,False,,Faried REBOUND (Off:1 Def:0),30-37,30,37
 0021700010,2017-10-18,UTA,DEN,15.47,2,8,32,DEN,UTA,foul,1,False,False,Ingles P.FOUL (P2.T2) (L.Wood),,30-37,30,37
-0021700010,2017-10-18,UTA,DEN,15.47,2,8,32,DEN,UTA,block,1,True,False,block,block,30-37,30,37
 0021700010,2017-10-18,UTA,DEN,15.57,2,8,26,DEN,DEN,fg_miss,79,False,False,,MISS Millsap 18' Pullup Jump Shot,30-37,30,37
 0021700010,2017-10-18,UTA,DEN,15.6,2,8,24,UTA,UTA,reb,0,False,False,Favors REBOUND (Off:0 Def:3),,30-37,30,37
 0021700010,2017-10-18,UTA,DEN,15.7,2,8,18,UTA,UTA,fg3_make,1,False,False,Ingles 3PT Jump Shot (6 PTS) (Mitchell 1 AST),,33-37,33,37
@@ -176,8 +176,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700010,2017-10-18,UTA,DEN,22.97,2,1,2,DEN,DEN,tov,4,False,False,,Barton Traveling Turnover (P1.T8),47-56,47,56
 0021700010,2017-10-18,UTA,DEN,23.15,2,0,51,UTA,UTA,fg_make,98,False,False,Gobert 1' Cutting Layup Shot (10 PTS) (Ingles 6 AST),,49-56,49,56
 0021700010,2017-10-18,UTA,DEN,23.38,2,0,37,DEN,DEN,fg_miss,1,True,False,,MISS Plumlee 9' Jump Shot,49-56,49,56
-0021700010,2017-10-18,UTA,DEN,23.38,2,0,37,DEN,DEN,tov,2,False,True,,Chandler Lost Ball Turnover (P1.T9),49-56,49,56
 0021700010,2017-10-18,UTA,DEN,23.38,2,0,37,DEN,UTA,block,1,True,False,block,block,49-56,49,56
+0021700010,2017-10-18,UTA,DEN,23.38,2,0,37,DEN,DEN,tov,2,False,True,,Chandler Lost Ball Turnover (P1.T9),49-56,49,56
 0021700010,2017-10-18,UTA,DEN,23.38,2,0,37,DEN,UTA,steal,2,False,True,steal,steal,49-56,49,56
 0021700010,2017-10-18,UTA,DEN,23.48,2,0,31,DEN,DEN,reb,0,False,False,,Chandler REBOUND (Off:1 Def:0),49-56,49,56
 0021700010,2017-10-18,UTA,DEN,23.52,2,0,29,UTA,UTA,fg_miss,5,False,False,MISS Mitchell 2' Layup,,49-56,49,56
@@ -265,8 +265,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700010,2017-10-18,UTA,DEN,34.68,3,1,19,UTA,UTA,fg_make,63,False,False,Johnson 9' Fadeaway Jumper (6 PTS),,73-81,73,81
 0021700010,2017-10-18,UTA,DEN,35.0,3,1,0,DEN,DEN,fg_make,5,False,False,,Mudiay 2' Layup (2 PTS) (Plumlee 2 AST),73-83,73,83
 0021700010,2017-10-18,UTA,DEN,35.27,3,0,44,UTA,UTA,fg_miss,5,True,False,MISS Mitchell 2' Layup,,73-83,73,83
-0021700010,2017-10-18,UTA,DEN,35.27,3,0,44,UTA,UTA,reb,0,False,False,JAZZ Rebound,,73-83,73,83
 0021700010,2017-10-18,UTA,DEN,35.27,3,0,44,UTA,DEN,block,5,True,False,block,block,73-83,73,83
+0021700010,2017-10-18,UTA,DEN,35.27,3,0,44,UTA,UTA,reb,0,False,False,JAZZ Rebound,,73-83,73,83
 0021700010,2017-10-18,UTA,DEN,35.33,3,0,40,UTA,DEN,foul,2,False,False,,Plumlee S.FOUL (P3.PN) (S.Foster),73-83,73,83
 0021700010,2017-10-18,UTA,DEN,35.33,3,0,40,UTA,UTA,ft_make,11,False,False,Udoh Free Throw 1 of 2 (1 PTS),,74-83,74,83
 0021700010,2017-10-18,UTA,DEN,35.33,3,0,40,UTA,UTA,ft_make,12,False,False,Udoh Free Throw 2 of 2 (2 PTS),,75-83,75,83

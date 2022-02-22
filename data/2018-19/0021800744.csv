@@ -96,17 +96,17 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800744,2019-01-28,CHA,NYK,11.6,1,0,24,CHA,CHA,reb,0,False,False,Monk REBOUND (Off:0 Def:1),,28-24,28,24
 0021800744,2019-01-28,CHA,NYK,11.87,1,0,8,CHA,CHA,fg_make,108,False,False,Hernangomez 1' Cutting Dunk Shot (4 PTS) (Parker 1 AST),,30-24,30,24
 0021800744,2019-01-28,CHA,NYK,12.0,1,0,0,NYK,NYK,tov,2,False,True,,Hezonja Lost Ball Turnover (P1.T1),30-24,30,24
+0021800744,2019-01-28,CHA,NYK,12.0,1,0,0,NYK,CHA,steal,2,False,True,steal,steal,30-24,30,24
 0021800744,2019-01-28,CHA,NYK,12.0,1,0,0,CHA,CHA,fg3_miss,1,False,False,MISS Kidd-Gilchrist 54' 3PT Jump Shot,,30-24,30,24
 0021800744,2019-01-28,CHA,NYK,12.0,1,0,0,CHA,CHA,reb,0,False,False,HORNETS Rebound,,30-24,30,24
 0021800744,2019-01-28,CHA,NYK,12.0,1,0,0,CHA,,period_end,0,False,False,,,30-24,30,24
 0021800744,2019-01-28,CHA,NYK,12.0,2,12,0,CHA,,period_start,0,False,False,,,30-24,30,24
-0021800744,2019-01-28,CHA,NYK,12.0,1,0,0,NYK,CHA,steal,2,False,True,steal,steal,30-24,30,24
 0021800744,2019-01-28,CHA,NYK,12.28,2,11,43,NYK,NYK,fg_make,52,False,False,,Robinson 1' Alley Oop Dunk (5 PTS) (Trier 1 AST),30-26,30,26
 0021800744,2019-01-28,CHA,NYK,12.5,2,11,30,CHA,CHA,fg3_miss,1,False,False,MISS Monk 27' 3PT Jump Shot,,30-26,30,26
 0021800744,2019-01-28,CHA,NYK,12.55,2,11,27,CHA,CHA,reb,0,False,False,Hernangomez REBOUND (Off:2 Def:0),,30-26,30,26
 0021800744,2019-01-28,CHA,NYK,12.55,2,11,27,CHA,CHA,fg_miss,72,True,False,MISS Hernangomez 3' Putback Layup,,30-26,30,26
-0021800744,2019-01-28,CHA,NYK,12.55,2,11,27,CHA,CHA,reb,0,False,False,HORNETS Rebound,,30-26,30,26
 0021800744,2019-01-28,CHA,NYK,12.55,2,11,27,CHA,NYK,block,72,True,False,block,block,30-26,30,26
+0021800744,2019-01-28,CHA,NYK,12.55,2,11,27,CHA,CHA,reb,0,False,False,HORNETS Rebound,,30-26,30,26
 0021800744,2019-01-28,CHA,NYK,12.67,2,11,20,CHA,CHA,fg_make,5,False,False,Hernangomez 2' Layup (6 PTS) (Monk 1 AST),,32-26,32,26
 0021800744,2019-01-28,CHA,NYK,12.67,2,11,20,CHA,NYK,violation,2,False,False,,Robinson Violation:Defensive Goaltending (T.Maddox),32-26,32,26
 0021800744,2019-01-28,CHA,NYK,12.92,2,11,5,NYK,NYK,fg_miss,5,False,False,,MISS Trier 2' Layup,32-26,32,26
@@ -127,8 +127,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800744,2019-01-28,CHA,NYK,13.62,2,10,23,NYK,NYK,fg_miss,5,False,False,,MISS Dotson 1' Layup,34-27,34,27
 0021800744,2019-01-28,CHA,NYK,13.67,2,10,20,NYK,NYK,reb,0,False,False,,Allen REBOUND (Off:1 Def:0),34-27,34,27
 0021800744,2019-01-28,CHA,NYK,13.67,2,10,20,NYK,NYK,fg_miss,97,True,False,,MISS Allen 1' Tip Layup Shot,34-27,34,27
-0021800744,2019-01-28,CHA,NYK,13.67,2,10,20,NYK,NYK,reb,0,False,False,,Trier REBOUND (Off:1 Def:0),34-27,34,27
 0021800744,2019-01-28,CHA,NYK,13.67,2,10,20,NYK,CHA,block,97,True,False,block,block,34-27,34,27
+0021800744,2019-01-28,CHA,NYK,13.67,2,10,20,NYK,NYK,reb,0,False,False,,Trier REBOUND (Off:1 Def:0),34-27,34,27
 0021800744,2019-01-28,CHA,NYK,13.68,2,10,19,NYK,NYK,tov,2,False,True,,Trier Lost Ball Turnover (P1.T2),34-27,34,27
 0021800744,2019-01-28,CHA,NYK,13.68,2,10,19,NYK,CHA,steal,2,False,True,steal,steal,34-27,34,27
 0021800744,2019-01-28,CHA,NYK,13.75,2,10,15,CHA,CHA,fg3_miss,1,False,False,MISS Monk 26' 3PT Jump Shot,,34-27,34,27
@@ -140,8 +140,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800744,2019-01-28,CHA,NYK,14.05,2,9,57,NYK,NYK,ft_make,12,False,False,,Trier Free Throw 2 of 2 (2 PTS),34-29,34,29
 0021800744,2019-01-28,CHA,NYK,14.2,2,9,48,CHA,NYK,foul,1,False,False,,Robinson P.FOUL (P1.T2) (A.Moyer-Gleich),34-29,34,29
 0021800744,2019-01-28,CHA,NYK,14.37,2,9,38,CHA,CHA,fg_miss,5,True,False,MISS Parker 3' Layup,,34-29,34,29
-0021800744,2019-01-28,CHA,NYK,14.37,2,9,38,CHA,CHA,reb,0,False,False,HORNETS Rebound,,34-29,34,29
 0021800744,2019-01-28,CHA,NYK,14.37,2,9,38,CHA,NYK,block,5,True,False,block,block,34-29,34,29
+0021800744,2019-01-28,CHA,NYK,14.37,2,9,38,CHA,CHA,reb,0,False,False,HORNETS Rebound,,34-29,34,29
 0021800744,2019-01-28,CHA,NYK,14.45,2,9,33,CHA,CHA,fg_make,63,False,False,Monk 19' Fadeaway Jumper (2 PTS),,36-29,36,29
 0021800744,2019-01-28,CHA,NYK,14.67,2,9,20,NYK,NYK,fg_make,6,False,False,,Allen 3' Driving Layup (2 PTS),36-31,36,31
 0021800744,2019-01-28,CHA,NYK,14.92,2,9,5,CHA,CHA,fg_make,6,False,False,Parker 2' Driving Layup (5 PTS) (Bridges 1 AST),,38-31,38,31
@@ -155,9 +155,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800744,2019-01-28,CHA,NYK,16.33,2,7,40,NYK,NYK,fg3_miss,1,False,False,,MISS Allen 26' 3PT Jump Shot,42-34,42,34
 0021800744,2019-01-28,CHA,NYK,16.38,2,7,37,CHA,CHA,reb,0,False,False,Monk REBOUND (Off:0 Def:2),,42-34,42,34
 0021800744,2019-01-28,CHA,NYK,16.47,2,7,32,CHA,CHA,fg_miss,5,True,False,MISS Monk 5' Layup,,42-34,42,34
+0021800744,2019-01-28,CHA,NYK,16.47,2,7,32,CHA,NYK,block,5,True,False,block,block,42-34,42,34
 0021800744,2019-01-28,CHA,NYK,16.47,2,7,32,CHA,CHA,reb,0,False,False,HORNETS Rebound,,42-34,42,34
 0021800744,2019-01-28,CHA,NYK,16.47,2,7,32,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 2 Short 0),,42-34,42,34
-0021800744,2019-01-28,CHA,NYK,16.47,2,7,32,CHA,NYK,block,5,True,False,block,block,42-34,42,34
 0021800744,2019-01-28,CHA,NYK,16.68,2,7,19,CHA,CHA,fg3_miss,1,False,False,MISS Williams 26' 3PT Jump Shot,,42-34,42,34
 0021800744,2019-01-28,CHA,NYK,16.75,2,7,15,NYK,NYK,reb,0,False,False,,Hezonja REBOUND (Off:0 Def:2),42-34,42,34
 0021800744,2019-01-28,CHA,NYK,16.82,2,7,11,NYK,NYK,fg_miss,41,True,False,,MISS Trier 2' Running Layup,42-34,42,34
@@ -227,8 +227,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800744,2019-01-28,CHA,NYK,23.68,2,0,19,NYK,CHA,foul,4,False,False,Hernangomez OFF.Foul (P2) (T.Maddox),,54-53,54,53
 0021800744,2019-01-28,CHA,NYK,23.68,2,0,19,CHA,CHA,tov,37,False,False,Hernangomez Offensive Foul Turnover (P2.T5),,54-53,54,53
 0021800744,2019-01-28,CHA,NYK,23.98,2,0,1,NYK,NYK,fg_miss,6,True,False,,MISS Trier 2' Driving Layup,54-53,54,53
-0021800744,2019-01-28,CHA,NYK,23.98,2,0,1,CHA,CHA,reb,0,False,False,Hernangomez REBOUND (Off:5 Def:3),,54-53,54,53
 0021800744,2019-01-28,CHA,NYK,23.98,2,0,1,NYK,CHA,block,6,True,False,block,block,54-53,54,53
+0021800744,2019-01-28,CHA,NYK,23.98,2,0,1,CHA,CHA,reb,0,False,False,Hernangomez REBOUND (Off:5 Def:3),,54-53,54,53
 0021800744,2019-01-28,CHA,NYK,24.0,2,0,0,CHA,,period_end,0,False,False,,,54-53,54,53
 0021800744,2019-01-28,CHA,NYK,24.0,3,12,0,CHA,,period_start,0,False,False,,,54-53,54,53
 0021800744,2019-01-28,CHA,NYK,24.25,3,11,45,NYK,NYK,fg3_miss,1,False,False,,MISS Hardaway Jr. 25' 3PT Jump Shot,54-53,54,53
@@ -244,8 +244,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800744,2019-01-28,CHA,NYK,26.17,3,9,50,CHA,CHA,fg3_miss,1,False,False,MISS Lamb 25' 3PT Jump Shot,,56-60,56,60
 0021800744,2019-01-28,CHA,NYK,26.22,3,9,47,NYK,NYK,reb,0,False,False,,Hardaway Jr. REBOUND (Off:0 Def:7),56-60,56,60
 0021800744,2019-01-28,CHA,NYK,26.3,3,9,42,NYK,NYK,fg_miss,1,True,False,,MISS Hardaway Jr. 11' Jump Shot,56-60,56,60
-0021800744,2019-01-28,CHA,NYK,26.3,3,9,42,CHA,CHA,reb,0,False,False,Batum REBOUND (Off:0 Def:4),,56-60,56,60
 0021800744,2019-01-28,CHA,NYK,26.3,3,9,42,NYK,CHA,block,1,True,False,block,block,56-60,56,60
+0021800744,2019-01-28,CHA,NYK,26.3,3,9,42,CHA,CHA,reb,0,False,False,Batum REBOUND (Off:0 Def:4),,56-60,56,60
 0021800744,2019-01-28,CHA,NYK,26.38,3,9,37,CHA,CHA,tov,1,False,True,Batum Bad Pass Turnover (P1.T6),,56-60,56,60
 0021800744,2019-01-28,CHA,NYK,26.38,3,9,37,CHA,NYK,steal,1,False,True,steal,steal,56-60,56,60
 0021800744,2019-01-28,CHA,NYK,26.43,3,9,34,NYK,NYK,fg_miss,5,False,False,,MISS Knox II 2' Layup,56-60,56,60
@@ -319,9 +319,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800744,2019-01-28,CHA,NYK,33.43,3,2,34,NYK,NYK,fg3_miss,80,False,False,,MISS Knox II 3PT Step Back Jump Shot,63-68,63,68
 0021800744,2019-01-28,CHA,NYK,33.48,3,2,31,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:0 Def:3),,63-68,63,68
 0021800744,2019-01-28,CHA,NYK,33.55,3,2,27,CHA,CHA,fg_miss,41,True,False,MISS Parker 1' Running Layup,,63-68,63,68
+0021800744,2019-01-28,CHA,NYK,33.55,3,2,27,CHA,NYK,block,41,True,False,block,block,63-68,63,68
 0021800744,2019-01-28,CHA,NYK,33.55,3,2,27,CHA,CHA,reb,0,False,False,HORNETS Rebound,,63-68,63,68
 0021800744,2019-01-28,CHA,NYK,33.55,3,2,27,NYK,NYK,timeout,1,False,False,,Knicks Timeout: Regular (Reg.3 Short 0),63-68,63,68
-0021800744,2019-01-28,CHA,NYK,33.55,3,2,27,CHA,NYK,block,41,True,False,block,block,63-68,63,68
 0021800744,2019-01-28,CHA,NYK,33.58,3,2,25,CHA,CHA,fg_make,7,False,False,Bridges 2' Dunk (7 PTS) (Parker 4 AST),,65-68,65,68
 0021800744,2019-01-28,CHA,NYK,33.93,3,2,4,NYK,NYK,fg_miss,101,False,False,,MISS Knox II 3' Driving Floating Jump Shot,65-68,65,68
 0021800744,2019-01-28,CHA,NYK,33.95,3,2,3,CHA,CHA,reb,0,False,False,Lamb REBOUND (Off:1 Def:6),,65-68,65,68
@@ -352,13 +352,13 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800744,2019-01-28,CHA,NYK,35.6,3,0,24,CHA,CHA,ft_make,11,False,False,Lamb Free Throw 1 of 2 (10 PTS),,70-71,70,71
 0021800744,2019-01-28,CHA,NYK,35.6,3,0,24,CHA,CHA,ft_make,12,False,False,Lamb Free Throw 2 of 2 (11 PTS),,71-71,71,71
 0021800744,2019-01-28,CHA,NYK,36.0,3,0,0,NYK,NYK,fg_miss,5,True,False,,MISS Trier 4' Layup,71-71,71,71
-0021800744,2019-01-28,CHA,NYK,36.0,3,0,0,NYK,NYK,reb,0,False,False,,Knicks Rebound,71-71,71,71
+0021800744,2019-01-28,CHA,NYK,36.0,3,0,0,NYK,CHA,block,5,True,False,block,block,71-71,71,71
 0021800744,2019-01-28,CHA,NYK,36.0,3,0,0,NYK,NYK,tov,11,False,False,,Knicks Turnover: Shot Clock (T#6),71-71,71,71
 0021800744,2019-01-28,CHA,NYK,36.0,3,0,0,CHA,CHA,fg3_miss,1,False,False,MISS Williams 71' 3PT Jump Shot,,71-71,71,71
 0021800744,2019-01-28,CHA,NYK,36.0,3,0,0,CHA,CHA,reb,0,False,False,HORNETS Rebound,,71-71,71,71
+0021800744,2019-01-28,CHA,NYK,36.0,3,0,0,NYK,NYK,reb,0,False,False,,Knicks Rebound,71-71,71,71
 0021800744,2019-01-28,CHA,NYK,36.0,3,0,0,CHA,,period_end,0,False,False,,,71-71,71,71
 0021800744,2019-01-28,CHA,NYK,36.0,4,12,0,CHA,,period_start,0,False,False,,,71-71,71,71
-0021800744,2019-01-28,CHA,NYK,36.0,3,0,0,NYK,CHA,block,5,True,False,block,block,71-71,71,71
 0021800744,2019-01-28,CHA,NYK,36.42,4,11,35,CHA,CHA,fg_make,101,False,False,Lamb 6' Driving Floating Jump Shot (13 PTS),,73-71,73,71
 0021800744,2019-01-28,CHA,NYK,36.72,4,11,17,NYK,NYK,fg_make,52,False,False,,Robinson 1' Alley Oop Dunk (10 PTS) (Trier 3 AST),73-73,73,73
 0021800744,2019-01-28,CHA,NYK,37.07,4,10,56,CHA,CHA,tov,4,False,False,Monk Traveling Turnover (P2.T8),,73-73,73,73
@@ -387,8 +387,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800744,2019-01-28,CHA,NYK,40.07,4,7,56,CHA,CHA,tov,1,False,True,Bridges Bad Pass Turnover (P2.T9),,81-75,81,75
 0021800744,2019-01-28,CHA,NYK,40.07,4,7,56,CHA,NYK,steal,1,False,True,steal,steal,81-75,81,75
 0021800744,2019-01-28,CHA,NYK,40.15,4,7,51,NYK,NYK,fg_miss,5,True,False,,MISS Hezonja 2' Layup,81-75,81,75
-0021800744,2019-01-28,CHA,NYK,40.15,4,7,51,NYK,NYK,reb,0,False,False,,Knicks Rebound,81-75,81,75
 0021800744,2019-01-28,CHA,NYK,40.15,4,7,51,NYK,CHA,block,5,True,False,block,block,81-75,81,75
+0021800744,2019-01-28,CHA,NYK,40.15,4,7,51,NYK,NYK,reb,0,False,False,,Knicks Rebound,81-75,81,75
 0021800744,2019-01-28,CHA,NYK,40.3,4,7,42,NYK,NYK,fg_miss,1,False,False,,MISS Dotson 20' Jump Shot,81-75,81,75
 0021800744,2019-01-28,CHA,NYK,40.37,4,7,38,CHA,CHA,reb,0,False,False,Bridges REBOUND (Off:0 Def:5),,81-75,81,75
 0021800744,2019-01-28,CHA,NYK,40.68,4,7,19,CHA,CHA,fg3_make,80,False,False,Walker 3PT Step Back Jump Shot (12 PTS) (Lamb 3 AST),,84-75,84,75

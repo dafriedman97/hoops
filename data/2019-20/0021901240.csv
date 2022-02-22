@@ -182,11 +182,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901240,2020-08-01,OKC,UTA,21.45,2,2,33,OKC,OKC,fg_make,75,False,False,Gilgeous-Alexander 2' Driving Finger Roll Layup (12 PTS),,56-37,56,37
 0021901240,2020-08-01,OKC,UTA,21.75,2,2,15,UTA,UTA,fg_make,6,False,False,,Clarkson 1' Driving Layup (7 PTS),56-39,56,39
 0021901240,2020-08-01,OKC,UTA,22.03,2,1,58,OKC,UTA,foul,2,False,False,,Gobert S.FOUL (P2.T4) (T.Ford),56-39,56,39
+0021901240,2020-08-01,OKC,UTA,22.03,2,1,58,UTA,OKC,foul,11,False,False,Adams T.FOUL (P0.T2) (S.Foster),,57-39,57,39
+0021901240,2020-08-01,OKC,UTA,22.03,2,1,58,UTA,UTA,ft_make,16,False,False,,Mitchell Free Throw Technical (9 PTS),57-40,57,40
 0021901240,2020-08-01,OKC,UTA,22.03,2,1,58,OKC,OKC,ft_miss,11,False,False,MISS Adams Free Throw 1 of 2,,56-39,56,39
 0021901240,2020-08-01,OKC,UTA,22.03,2,1,58,OKC,OKC,reb,1,False,False,THUNDER Rebound,,56-39,56,39
 0021901240,2020-08-01,OKC,UTA,22.03,2,1,58,OKC,OKC,ft_make,12,False,False,Adams Free Throw 2 of 2 (8 PTS),,57-39,57,39
-0021901240,2020-08-01,OKC,UTA,22.03,2,1,58,UTA,OKC,foul,11,False,False,Adams T.FOUL (P0.T2) (S.Foster),,57-39,57,39
-0021901240,2020-08-01,OKC,UTA,22.03,2,1,58,UTA,UTA,ft_make,16,False,False,,Mitchell Free Throw Technical (9 PTS),57-40,57,40
 0021901240,2020-08-01,OKC,UTA,22.25,2,1,45,UTA,UTA,fg_miss,47,False,False,,MISS Mitchell 17' Turnaround Jump Shot,57-40,57,40
 0021901240,2020-08-01,OKC,UTA,22.33,2,1,40,OKC,OKC,reb,0,False,False,Gilgeous-Alexander REBOUND (Off:0 Def:1),,57-40,57,40
 0021901240,2020-08-01,OKC,UTA,22.45,2,1,33,OKC,UTA,foul,2,False,False,,Gobert S.FOUL (P3.PN) (S.Foster),57-40,57,40
@@ -278,8 +278,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901240,2020-08-01,OKC,UTA,31.07,3,4,56,UTA,UTA,reb,0,False,False,,Morgan REBOUND (Off:1 Def:0),78-54,78,54
 0021901240,2020-08-01,OKC,UTA,31.08,3,4,55,UTA,UTA,fg_make,72,False,False,,Morgan 2' Putback Layup (2 PTS),78-56,78,56
 0021901240,2020-08-01,OKC,UTA,31.35,3,4,39,OKC,OKC,tov,1,False,True,Schroder Bad Pass Turnover (P3.T13),,78-56,78,56
-0021901240,2020-08-01,OKC,UTA,31.35,3,4,39,UTA,OKC,foul,14,False,False,Gallinari FLAGRANT.FOUL.TYPE1 (P1.T1) (J.Goble),,78-56,78,56
 0021901240,2020-08-01,OKC,UTA,31.35,3,4,39,OKC,UTA,steal,1,False,True,steal,steal,78-56,78,56
+0021901240,2020-08-01,OKC,UTA,31.35,3,4,39,UTA,OKC,foul,14,False,False,Gallinari FLAGRANT.FOUL.TYPE1 (P1.T1) (J.Goble),,78-56,78,56
 0021901240,2020-08-01,OKC,UTA,31.35,3,4,39,UTA,UTA,ft_make,18,False,False,,O'Neale Free Throw Flagrant 1 of 2 (4 PTS),78-57,78,57
 0021901240,2020-08-01,OKC,UTA,31.35,3,4,39,UTA,UTA,ft_make,19,False,False,,O'Neale Free Throw Flagrant 2 of 2 (5 PTS),78-58,78,58
 0021901240,2020-08-01,OKC,UTA,31.72,3,4,17,UTA,UTA,fg_miss,79,False,False,,MISS Clarkson 23' Pullup Jump Shot,78-58,78,58
@@ -340,8 +340,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901240,2020-08-01,OKC,UTA,36.98,4,11,1,OKC,OKC,timeout,1,False,False,THUNDER Timeout: Regular (Full 4 Short 0),,86-67,86,67
 0021901240,2020-08-01,OKC,UTA,37.22,4,10,47,OKC,OKC,fg_miss,75,True,False,MISS Diallo 3' Driving Finger Roll Layup,,86-67,86,67
 0021901240,2020-08-01,OKC,UTA,37.22,4,10,47,OKC,UTA,block,75,True,False,block,block,86-67,86,67
-0021901240,2020-08-01,OKC,UTA,37.3,4,10,42,OKC,OKC,fg_make,97,False,False,Diallo 1' Tip Layup Shot (9 PTS),,88-67,88,67
 0021901240,2020-08-01,OKC,UTA,37.3,4,10,42,OKC,OKC,reb,0,False,False,Diallo REBOUND (Off:2 Def:2),,88-67,88,67
+0021901240,2020-08-01,OKC,UTA,37.3,4,10,42,OKC,OKC,fg_make,97,False,False,Diallo 1' Tip Layup Shot (9 PTS),,88-67,88,67
 0021901240,2020-08-01,OKC,UTA,37.72,4,10,17,UTA,UTA,fg_miss,80,False,False,,MISS Clarkson 14' Step Back Jump Shot,88-67,88,67
 0021901240,2020-08-01,OKC,UTA,37.75,4,10,15,OKC,OKC,reb,0,False,False,Paul REBOUND (Off:1 Def:6),,88-67,88,67
 0021901240,2020-08-01,OKC,UTA,37.87,4,10,8,OKC,OKC,fg_make,79,False,False,Paul 18' Pullup Jump Shot (18 PTS),,90-67,90,67

@@ -37,9 +37,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700462,2017-12-20,DEN,MIN,4.52,1,7,29,DEN,DEN,fg_make,41,False,False,Murray 14' Running Layup (8 PTS) (Craig 1 AST),,13-6,13,6
 0021700462,2017-12-20,DEN,MIN,4.87,1,7,8,MIN,MIN,fg_make,52,False,False,,Butler 2' Alley Oop Dunk (4 PTS) (Teague 2 AST),13-8,13,8
 0021700462,2017-12-20,DEN,MIN,5.22,1,6,47,DEN,MIN,foul,2,False,False,,Towns S.FOUL (P1.T1) (J.Goldenberg),13-8,13,8
+0021700462,2017-12-20,DEN,MIN,5.22,1,6,47,MIN,DEN,ft_make,11,False,False,Plumlee Free Throw 1 of 2 (1 PTS),,14-8,14,8
 0021700462,2017-12-20,DEN,MIN,5.22,1,6,47,DEN,DEN,ft_miss,12,False,False,MISS Plumlee Free Throw 2 of 2,,13-8,13,8
 0021700462,2017-12-20,DEN,MIN,5.22,1,6,47,MIN,MIN,reb,0,False,False,,Gibson REBOUND (Off:0 Def:2),13-8,13,8
-0021700462,2017-12-20,DEN,MIN,5.22,1,6,47,MIN,DEN,ft_make,11,False,False,Plumlee Free Throw 1 of 2 (1 PTS),,14-8,14,8
 0021700462,2017-12-20,DEN,MIN,5.43,1,6,34,MIN,MIN,fg3_miss,1,False,False,,MISS Wiggins 25' 3PT Jump Shot,14-8,14,8
 0021700462,2017-12-20,DEN,MIN,5.5,1,6,30,DEN,DEN,reb,0,False,False,Murray REBOUND (Off:0 Def:3),,14-8,14,8
 0021700462,2017-12-20,DEN,MIN,5.73,1,6,16,DEN,DEN,tov,2,False,False,Chandler Lost Ball Turnover (P1.T5),,14-8,14,8
@@ -143,9 +143,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700462,2017-12-20,DEN,MIN,17.22,2,6,47,DEN,DEN,timeout,1,False,False,NUGGETS Timeout: Regular (Full 2 Short 0),,38-33,38,33
 0021700462,2017-12-20,DEN,MIN,17.33,2,6,40,MIN,MIN,fg_make,98,False,False,,Towns 3' Cutting Layup Shot (7 PTS) (Butler 2 AST),38-35,38,35
 0021700462,2017-12-20,DEN,MIN,17.78,2,6,13,DEN,DEN,fg3_miss,1,True,False,MISS Barton 25' 3PT Jump Shot,,38-35,38,35
+0021700462,2017-12-20,DEN,MIN,17.78,2,6,13,DEN,MIN,block,1,True,False,block,block,38-35,38,35
 0021700462,2017-12-20,DEN,MIN,17.78,2,6,13,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,38-35,38,35
 0021700462,2017-12-20,DEN,MIN,17.78,2,6,13,DEN,DEN,tov,11,False,False,NUGGETS Turnover: Shot Clock (T#10),,38-35,38,35
-0021700462,2017-12-20,DEN,MIN,17.78,2,6,13,DEN,MIN,block,1,True,False,block,block,38-35,38,35
 0021700462,2017-12-20,DEN,MIN,17.95,2,6,3,MIN,MIN,fg_make,5,False,False,,Butler 2' Layup (6 PTS) (Towns 1 AST),38-37,38,37
 0021700462,2017-12-20,DEN,MIN,18.33,2,5,40,DEN,DEN,fg3_miss,1,False,False,MISS Jokic 25' 3PT Jump Shot,,38-37,38,37
 0021700462,2017-12-20,DEN,MIN,18.38,2,5,37,MIN,MIN,reb,0,False,False,,Teague REBOUND (Off:0 Def:2),38-37,38,37
@@ -201,9 +201,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700462,2017-12-20,DEN,MIN,23.9,2,0,6,MIN,MIN,fg_make,41,False,False,,Teague 7' Running Layup (4 PTS),50-50,50,50
 0021700462,2017-12-20,DEN,MIN,23.98,2,0,1,DEN,DEN,fg_make,98,False,False,Barton 2' Cutting Layup Shot (4 PTS) (Plumlee 2 AST),,52-50,52,50
 0021700462,2017-12-20,DEN,MIN,24.0,2,0,0,MIN,MIN,tov,1,False,True,,Towns Bad Pass Turnover (P1.T6),52-50,52,50
+0021700462,2017-12-20,DEN,MIN,24.0,2,0,0,MIN,DEN,steal,1,False,True,steal,steal,52-50,52,50
 0021700462,2017-12-20,DEN,MIN,24.0,2,0,0,MIN,,period_end,0,False,False,,,52-50,52,50
 0021700462,2017-12-20,DEN,MIN,24.0,3,12,0,MIN,,period_start,0,False,False,,,52-50,52,50
-0021700462,2017-12-20,DEN,MIN,24.0,2,0,0,MIN,DEN,steal,1,False,True,steal,steal,52-50,52,50
 0021700462,2017-12-20,DEN,MIN,24.35,3,11,39,MIN,MIN,fg_make,79,False,False,,Butler 21' Pullup Jump Shot (10 PTS) (Towns 2 AST),52-52,52,52
 0021700462,2017-12-20,DEN,MIN,24.57,3,11,26,DEN,MIN,foul,1,False,False,,Gibson P.FOUL (P1.T1) (J.Goldenberg),52-52,52,52
 0021700462,2017-12-20,DEN,MIN,24.67,3,11,20,DEN,MIN,foul,1,False,False,,Teague P.FOUL (P1.T2) (J.Goldenberg),52-52,52,52
@@ -347,8 +347,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700462,2017-12-20,DEN,MIN,40.95,4,7,3,DEN,DEN,fg3_miss,1,False,False,MISS Jokic 25' 3PT Jump Shot,,93-93,93,93
 0021700462,2017-12-20,DEN,MIN,41.0,4,7,0,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:4 Def:4),93-93,93,93
 0021700462,2017-12-20,DEN,MIN,41.27,4,6,44,MIN,MIN,tov,1,False,True,,Crawford Bad Pass Turnover (P2.T9),93-93,93,93
-0021700462,2017-12-20,DEN,MIN,41.27,4,6,44,DEN,MIN,foul,1,False,False,,Dieng P.FOUL (P4.T3) (J.Tiven),93-93,93,93
 0021700462,2017-12-20,DEN,MIN,41.27,4,6,44,MIN,DEN,steal,1,False,True,steal,steal,93-93,93,93
+0021700462,2017-12-20,DEN,MIN,41.27,4,6,44,DEN,MIN,foul,1,False,False,,Dieng P.FOUL (P4.T3) (J.Tiven),93-93,93,93
 0021700462,2017-12-20,DEN,MIN,41.53,4,6,28,DEN,DEN,fg_make,79,False,False,Murray 18' Pullup Jump Shot (26 PTS),,95-93,95,93
 0021700462,2017-12-20,DEN,MIN,41.82,4,6,11,MIN,MIN,fg3_make,79,False,False,,Crawford 25' 3PT Pullup Jump Shot (17 PTS),95-96,95,96
 0021700462,2017-12-20,DEN,MIN,42.2,4,5,48,DEN,DEN,tov,39,False,False,Craig Step Out of Bounds Turnover (P3.T20),,95-96,95,96

@@ -10,8 +10,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700409,2017-12-13,CHI,UTA,0.78,1,11,13,CHI,CHI,fg_make,101,False,False,Dunn 7' Driving Floating Jump Shot (2 PTS),,4-3,4,3
 0021700409,2017-12-13,CHI,UTA,1.08,1,10,55,UTA,UTA,tov,45,False,False,,Rubio Out of Bounds - Bad Pass Turnover Turnover (P1.T1),4-3,4,3
 0021700409,2017-12-13,CHI,UTA,1.33,1,10,40,CHI,CHI,fg_miss,79,True,False,MISS Holiday 11' Pullup Jump Shot,,4-3,4,3
-0021700409,2017-12-13,CHI,UTA,1.33,1,10,40,CHI,CHI,reb,0,False,False,BULLS Rebound,,4-3,4,3
 0021700409,2017-12-13,CHI,UTA,1.33,1,10,40,CHI,UTA,block,79,True,False,block,block,4-3,4,3
+0021700409,2017-12-13,CHI,UTA,1.33,1,10,40,CHI,CHI,reb,0,False,False,BULLS Rebound,,4-3,4,3
 0021700409,2017-12-13,CHI,UTA,1.35,1,10,39,CHI,CHI,tov,39,False,False,Mirotic Step Out of Bounds Turnover (P1.T1),,4-3,4,3
 0021700409,2017-12-13,CHI,UTA,1.57,1,10,26,UTA,UTA,fg_miss,79,True,False,,MISS Mitchell 12' Pullup Jump Shot,4-3,4,3
 0021700409,2017-12-13,CHI,UTA,1.57,1,10,26,UTA,CHI,block,79,True,False,block,block,4-3,4,3
@@ -48,10 +48,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700409,2017-12-13,CHI,UTA,5.12,1,6,53,UTA,UTA,tov,1,False,True,,Rubio Bad Pass Turnover (P2.T4),7-8,7,8
 0021700409,2017-12-13,CHI,UTA,5.12,1,6,53,UTA,CHI,steal,1,False,True,steal,steal,7-8,7,8
 0021700409,2017-12-13,CHI,UTA,5.17,1,6,50,CHI,UTA,foul,2,False,False,,Rubio S.FOUL (P1.T2) (M.Davis),7-8,7,8
-0021700409,2017-12-13,CHI,UTA,5.17,1,6,50,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 1 Short 0),,7-8,7,8
 0021700409,2017-12-13,CHI,UTA,5.17,1,6,50,CHI,CHI,ft_miss,11,False,False,MISS Holiday Free Throw 1 of 2,,7-8,7,8
 0021700409,2017-12-13,CHI,UTA,5.17,1,6,50,CHI,CHI,reb,1,False,False,BULLS Rebound,,7-8,7,8
 0021700409,2017-12-13,CHI,UTA,5.17,1,6,50,CHI,CHI,ft_make,12,False,False,Holiday Free Throw 2 of 2 (1 PTS),,8-8,8,8
+0021700409,2017-12-13,CHI,UTA,5.17,1,6,50,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 1 Short 0),,7-8,7,8
 0021700409,2017-12-13,CHI,UTA,5.37,1,6,38,UTA,UTA,fg3_miss,1,False,False,,MISS Ingles 24' 3PT Jump Shot,8-8,8,8
 0021700409,2017-12-13,CHI,UTA,5.4,1,6,36,UTA,UTA,reb,0,False,False,,Jazz Rebound,8-8,8,8
 0021700409,2017-12-13,CHI,UTA,5.5,1,6,30,UTA,UTA,fg_make,6,False,False,,Mitchell Driving Layup (10 PTS),8-10,8,10
@@ -83,8 +83,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700409,2017-12-13,CHI,UTA,9.78,1,2,13,UTA,UTA,fg_miss,101,False,False,,MISS Hood 21' Driving Floating Jump Shot,23-19,23,19
 0021700409,2017-12-13,CHI,UTA,9.88,1,2,7,CHI,CHI,reb,0,False,False,Dunn REBOUND (Off:0 Def:2),,23-19,23,19
 0021700409,2017-12-13,CHI,UTA,9.92,1,2,5,CHI,CHI,fg_miss,1,True,False,MISS Lopez 1' Jump Shot,,23-19,23,19
-0021700409,2017-12-13,CHI,UTA,9.92,1,2,5,CHI,CHI,reb,0,False,False,Lopez REBOUND (Off:2 Def:1),,23-19,23,19
 0021700409,2017-12-13,CHI,UTA,9.92,1,2,5,CHI,UTA,block,1,True,False,block,block,23-19,23,19
+0021700409,2017-12-13,CHI,UTA,9.92,1,2,5,CHI,CHI,reb,0,False,False,Lopez REBOUND (Off:2 Def:1),,23-19,23,19
 0021700409,2017-12-13,CHI,UTA,10.03,1,1,58,CHI,CHI,fg_make,1,False,False,Lopez 1' Jump Shot (6 PTS),,25-19,25,19
 0021700409,2017-12-13,CHI,UTA,10.12,1,1,53,UTA,UTA,fg3_miss,1,False,False,,MISS Sefolosha 3PT Jump Shot,25-19,25,19
 0021700409,2017-12-13,CHI,UTA,10.12,1,1,53,CHI,CHI,reb,0,False,False,Dunn REBOUND (Off:0 Def:3),,25-19,25,19
@@ -108,8 +108,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700409,2017-12-13,CHI,UTA,12.6,2,11,24,CHI,CHI,fg_miss,79,False,False,MISS Portis 21' Pullup Jump Shot,,30-24,30,24
 0021700409,2017-12-13,CHI,UTA,12.65,2,11,21,UTA,UTA,reb,0,False,False,,Burks REBOUND (Off:0 Def:1),30-24,30,24
 0021700409,2017-12-13,CHI,UTA,12.72,2,11,17,UTA,UTA,tov,2,False,True,,Rubio Lost Ball Turnover (P3.T8),30-24,30,24
-0021700409,2017-12-13,CHI,UTA,12.72,2,11,17,CHI,UTA,foul,1,False,False,,Burks P.FOUL (P1.T1) (M.Ervin),30-24,30,24
 0021700409,2017-12-13,CHI,UTA,12.72,2,11,17,UTA,CHI,steal,2,False,True,steal,steal,30-24,30,24
+0021700409,2017-12-13,CHI,UTA,12.72,2,11,17,CHI,UTA,foul,1,False,False,,Burks P.FOUL (P1.T1) (M.Ervin),30-24,30,24
 0021700409,2017-12-13,CHI,UTA,12.87,2,11,8,CHI,UTA,foul,1,False,False,,Hood P.FOUL (P1.T2) (M.Ervin),30-24,30,24
 0021700409,2017-12-13,CHI,UTA,12.93,2,11,4,CHI,CHI,tov,13,False,False,Zipser Backcourt Turnover (P1.T4),,30-24,30,24
 0021700409,2017-12-13,CHI,UTA,13.12,2,10,53,UTA,CHI,foul,1,False,False,Grant P.FOUL (P1.T1) (M.Davis),,30-24,30,24
@@ -232,8 +232,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700409,2017-12-13,CHI,UTA,27.38,3,8,37,CHI,CHI,fg_miss,86,False,False,MISS Dunn 14' Turnaround Fadeaway Shot,,55-57,55,57
 0021700409,2017-12-13,CHI,UTA,27.38,3,8,37,UTA,UTA,reb,0,False,False,,Ingles REBOUND (Off:0 Def:3),55-57,55,57
 0021700409,2017-12-13,CHI,UTA,27.57,3,8,26,UTA,UTA,tov,1,False,True,,Ingles Bad Pass Turnover (P2.T13),55-57,55,57
-0021700409,2017-12-13,CHI,UTA,27.57,3,8,26,CHI,UTA,foul,28,False,False,,Mitchell Personal Take Foul (P1.T1) (M.Ervin),55-57,55,57
 0021700409,2017-12-13,CHI,UTA,27.57,3,8,26,UTA,CHI,steal,1,False,True,steal,steal,55-57,55,57
+0021700409,2017-12-13,CHI,UTA,27.57,3,8,26,CHI,UTA,foul,28,False,False,,Mitchell Personal Take Foul (P1.T1) (M.Ervin),55-57,55,57
 0021700409,2017-12-13,CHI,UTA,27.72,3,8,17,CHI,CHI,fg3_make,1,False,False,Holiday 26' 3PT Jump Shot (8 PTS) (Lopez 4 AST),,58-57,58,57
 0021700409,2017-12-13,CHI,UTA,27.98,3,8,1,UTA,UTA,fg_make,79,False,False,,Rubio 21' Pullup Jump Shot (14 PTS),58-59,58,59
 0021700409,2017-12-13,CHI,UTA,28.28,3,7,43,CHI,CHI,fg_miss,79,False,False,MISS Holiday 17' Pullup Jump Shot,,58-59,58,59
@@ -263,8 +263,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700409,2017-12-13,CHI,UTA,30.37,3,5,38,UTA,UTA,fg_miss,6,False,False,,MISS Jerebko 4' Driving Layup,58-63,58,63
 0021700409,2017-12-13,CHI,UTA,30.4,3,5,36,CHI,CHI,reb,0,False,False,Mirotic REBOUND (Off:1 Def:6),,58-63,58,63
 0021700409,2017-12-13,CHI,UTA,30.58,3,5,25,CHI,CHI,fg_miss,58,True,False,MISS Lopez 3' Turnaround Hook Shot,,58-63,58,63
-0021700409,2017-12-13,CHI,UTA,30.58,3,5,25,UTA,UTA,reb,0,False,False,,Ingles REBOUND (Off:0 Def:6),58-63,58,63
 0021700409,2017-12-13,CHI,UTA,30.58,3,5,25,CHI,UTA,block,58,True,False,block,block,58-63,58,63
+0021700409,2017-12-13,CHI,UTA,30.58,3,5,25,UTA,UTA,reb,0,False,False,,Ingles REBOUND (Off:0 Def:6),58-63,58,63
 0021700409,2017-12-13,CHI,UTA,30.8,3,5,12,UTA,UTA,fg_make,6,False,False,,Mitchell 3' Driving Layup (20 PTS) (Gobert 1 AST),58-65,58,65
 0021700409,2017-12-13,CHI,UTA,30.88,3,5,7,CHI,UTA,foul,2,False,False,,Ingles S.FOUL (P3.T3) (B.Forte),58-65,58,65
 0021700409,2017-12-13,CHI,UTA,30.88,3,5,7,CHI,CHI,ft_make,11,False,False,Holiday Free Throw 1 of 2 (9 PTS),,59-65,59,65
@@ -349,8 +349,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700409,2017-12-13,CHI,UTA,40.08,4,7,55,CHI,CHI,fg_make,72,False,False,Portis 2' Putback Layup (9 PTS),,88-81,88,81
 0021700409,2017-12-13,CHI,UTA,40.23,4,7,46,UTA,UTA,fg_make,6,False,False,,Mitchell 1' Driving Layup (24 PTS),88-83,88,83
 0021700409,2017-12-13,CHI,UTA,40.5,4,7,30,CHI,CHI,fg_miss,58,True,False,MISS Lopez 4' Turnaround Hook Shot,,88-83,88,83
-0021700409,2017-12-13,CHI,UTA,40.5,4,7,30,UTA,UTA,reb,0,False,False,,Ingles REBOUND (Off:0 Def:7),88-83,88,83
 0021700409,2017-12-13,CHI,UTA,40.5,4,7,30,CHI,UTA,block,58,True,False,block,block,88-83,88,83
+0021700409,2017-12-13,CHI,UTA,40.5,4,7,30,UTA,UTA,reb,0,False,False,,Ingles REBOUND (Off:0 Def:7),88-83,88,83
 0021700409,2017-12-13,CHI,UTA,40.67,4,7,20,UTA,UTA,fg_make,6,False,False,,Burks 2' Driving Layup (11 PTS) (Sefolosha 3 AST),88-85,88,85
 0021700409,2017-12-13,CHI,UTA,40.67,4,7,20,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 4 Short 0),,88-85,88,85
 0021700409,2017-12-13,CHI,UTA,41.0,4,7,0,CHI,CHI,fg_miss,79,False,False,MISS Dunn 12' Pullup Jump Shot,,88-85,88,85
@@ -376,20 +376,20 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700409,2017-12-13,CHI,UTA,43.92,4,4,5,CHI,CHI,fg_make,6,False,False,Valentine 3' Driving Layup (11 PTS) (Dunn 7 AST),,94-90,94,90
 0021700409,2017-12-13,CHI,UTA,43.92,4,4,5,UTA,UTA,timeout,1,False,False,,Jazz Timeout: Regular (Reg.5 Short 0),94-90,94,90
 0021700409,2017-12-13,CHI,UTA,44.32,4,3,41,UTA,UTA,fg_miss,6,True,False,,MISS Ingles 3' Driving Layup,94-90,94,90
+0021700409,2017-12-13,CHI,UTA,44.32,4,3,41,UTA,CHI,block,6,True,False,block,block,94-90,94,90
 0021700409,2017-12-13,CHI,UTA,44.32,4,3,41,UTA,UTA,reb,0,False,False,,Jazz Rebound,94-90,94,90
 0021700409,2017-12-13,CHI,UTA,44.32,4,3,41,UTA,UTA,tov,11,False,False,,Jazz Turnover: Shot Clock (T#16),94-90,94,90
-0021700409,2017-12-13,CHI,UTA,44.32,4,3,41,UTA,CHI,block,6,True,False,block,block,94-90,94,90
 0021700409,2017-12-13,CHI,UTA,44.52,4,3,29,CHI,CHI,fg_miss,73,False,False,MISS Dunn 1' Driving Reverse Layup,,94-90,94,90
 0021700409,2017-12-13,CHI,UTA,44.55,4,3,27,UTA,UTA,reb,0,False,False,,Burks REBOUND (Off:0 Def:6),94-90,94,90
 0021700409,2017-12-13,CHI,UTA,44.83,4,3,10,UTA,UTA,fg_make,73,False,False,,Burks 2' Driving Reverse Layup (13 PTS),94-92,94,92
 0021700409,2017-12-13,CHI,UTA,45.18,4,2,49,CHI,CHI,fg_make,6,False,False,Valentine 2' Driving Layup (13 PTS) (Dunn 8 AST),,96-92,96,92
 0021700409,2017-12-13,CHI,UTA,45.47,4,2,32,UTA,UTA,fg_make,6,False,False,,Mitchell 1' Driving Layup (28 PTS) (Hood 3 AST),96-94,96,94
 0021700409,2017-12-13,CHI,UTA,45.82,4,2,11,CHI,CHI,fg_miss,63,True,False,MISS Mirotic 12' Fadeaway Jumper,,96-94,96,94
-0021700409,2017-12-13,CHI,UTA,45.82,4,2,11,CHI,CHI,reb,0,False,False,Mirotic REBOUND (Off:3 Def:6),,96-94,96,94
 0021700409,2017-12-13,CHI,UTA,45.82,4,2,11,CHI,UTA,block,63,True,False,block,block,96-94,96,94
+0021700409,2017-12-13,CHI,UTA,45.82,4,2,11,CHI,CHI,reb,0,False,False,Mirotic REBOUND (Off:3 Def:6),,96-94,96,94
 0021700409,2017-12-13,CHI,UTA,45.93,4,2,4,CHI,CHI,fg_miss,6,True,False,MISS Lopez 1' Driving Layup,,96-94,96,94
-0021700409,2017-12-13,CHI,UTA,45.93,4,2,4,UTA,UTA,reb,0,False,False,,Favors REBOUND (Off:2 Def:8),96-94,96,94
 0021700409,2017-12-13,CHI,UTA,45.93,4,2,4,CHI,UTA,block,6,True,False,block,block,96-94,96,94
+0021700409,2017-12-13,CHI,UTA,45.93,4,2,4,UTA,UTA,reb,0,False,False,,Favors REBOUND (Off:2 Def:8),96-94,96,94
 0021700409,2017-12-13,CHI,UTA,46.1,4,1,54,UTA,UTA,fg_miss,86,False,False,,MISS Hood 7' Turnaround Fadeaway Shot,96-94,96,94
 0021700409,2017-12-13,CHI,UTA,46.1,4,1,54,CHI,CHI,reb,0,False,False,Valentine REBOUND (Off:0 Def:3),,96-94,96,94
 0021700409,2017-12-13,CHI,UTA,46.35,4,1,39,CHI,CHI,fg_make,1,False,False,Dunn 12' Jump Shot (10 PTS),,98-94,98,94

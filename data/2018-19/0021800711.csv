@@ -41,9 +41,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800711,2019-01-23,PHI,SAS,4.1,1,7,54,PHI,PHI,fg_miss,79,False,False,MISS Redick 22' Pullup Jump Shot,,11-3,11,3
 0021800711,2019-01-23,PHI,SAS,4.12,1,7,53,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:2 Def:4),,11-3,11,3
 0021800711,2019-01-23,PHI,SAS,4.12,1,7,53,PHI,PHI,fg_miss,5,True,False,MISS Embiid 3' Layup,,11-3,11,3
+0021800711,2019-01-23,PHI,SAS,4.12,1,7,53,PHI,SAS,block,5,True,False,block,block,11-3,11,3
 0021800711,2019-01-23,PHI,SAS,4.12,1,7,53,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:3 Def:4),,11-3,11,3
 0021800711,2019-01-23,PHI,SAS,4.12,1,7,53,PHI,SAS,foul,2,False,False,,Cunningham S.FOUL (P1.T4) (M.Ervin),11-3,11,3
-0021800711,2019-01-23,PHI,SAS,4.12,1,7,53,PHI,SAS,block,5,True,False,block,block,11-3,11,3
 0021800711,2019-01-23,PHI,SAS,4.12,1,7,53,PHI,PHI,ft_make,11,False,False,Embiid Free Throw 1 of 2 (8 PTS),,12-3,12,3
 0021800711,2019-01-23,PHI,SAS,4.12,1,7,53,PHI,PHI,ft_make,12,False,False,Embiid Free Throw 2 of 2 (9 PTS),,13-3,13,3
 0021800711,2019-01-23,PHI,SAS,4.3,1,7,42,SAS,SAS,fg_make,79,False,False,,DeRozan 13' Pullup Jump Shot (2 PTS),13-5,13,5
@@ -132,9 +132,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800711,2019-01-23,PHI,SAS,16.27,2,7,44,SAS,SAS,fg_miss,79,False,False,,MISS Belinelli 17' Pullup Jump Shot,48-43,48,43
 0021800711,2019-01-23,PHI,SAS,16.3,2,7,42,PHI,PHI,reb,0,False,False,Simmons REBOUND (Off:2 Def:3),,48-43,48,43
 0021800711,2019-01-23,PHI,SAS,16.43,2,7,34,PHI,PHI,fg_miss,44,True,False,MISS Brewer 4' Reverse Layup,,48-43,48,43
+0021800711,2019-01-23,PHI,SAS,16.43,2,7,34,PHI,SAS,block,44,True,False,block,block,48-43,48,43
 0021800711,2019-01-23,PHI,SAS,16.43,2,7,34,SAS,SAS,reb,0,False,False,,Spurs Rebound,48-43,48,43
 0021800711,2019-01-23,PHI,SAS,16.43,2,7,34,SAS,PHI,foul,3,False,False,Brewer L.B.FOUL (P1.T2) (T.Washington),,48-43,48,43
-0021800711,2019-01-23,PHI,SAS,16.43,2,7,34,PHI,SAS,block,44,True,False,block,block,48-43,48,43
 0021800711,2019-01-23,PHI,SAS,16.62,2,7,23,SAS,SAS,tov,2,False,True,,Aldridge Lost Ball Turnover (P1.T5),48-43,48,43
 0021800711,2019-01-23,PHI,SAS,16.62,2,7,23,SAS,PHI,steal,2,False,True,steal,steal,48-43,48,43
 0021800711,2019-01-23,PHI,SAS,16.97,2,7,2,PHI,PHI,tov,1,False,True,Chandler Bad Pass Turnover (P1.T1),,48-43,48,43
@@ -153,8 +153,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800711,2019-01-23,PHI,SAS,18.38,2,5,37,SAS,PHI,block,3,True,False,block,block,51-48,51,48
 0021800711,2019-01-23,PHI,SAS,18.45,2,5,33,SAS,SAS,reb,0,False,False,,Aldridge REBOUND (Off:1 Def:1),51-48,51,48
 0021800711,2019-01-23,PHI,SAS,18.45,2,5,33,SAS,SAS,fg_miss,7,True,False,,MISS Aldridge 1' Dunk,51-48,51,48
-0021800711,2019-01-23,PHI,SAS,18.45,2,5,33,SAS,SAS,reb,0,False,False,,Aldridge REBOUND (Off:2 Def:1),51-48,51,48
 0021800711,2019-01-23,PHI,SAS,18.45,2,5,33,SAS,PHI,block,7,True,False,block,block,51-48,51,48
+0021800711,2019-01-23,PHI,SAS,18.45,2,5,33,SAS,SAS,reb,0,False,False,,Aldridge REBOUND (Off:2 Def:1),51-48,51,48
 0021800711,2019-01-23,PHI,SAS,18.53,2,5,28,SAS,SAS,tov,2,False,True,,Aldridge Lost Ball Turnover (P2.T7),51-48,51,48
 0021800711,2019-01-23,PHI,SAS,18.53,2,5,28,SAS,PHI,steal,2,False,True,steal,steal,51-48,51,48
 0021800711,2019-01-23,PHI,SAS,18.55,2,5,27,PHI,PHI,fg_make,50,False,False,Bolden Running Dunk (7 PTS) (Simmons 8 AST),,53-48,53,48
@@ -205,10 +205,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800711,2019-01-23,PHI,SAS,23.98,2,0,1,SAS,SAS,ft_make,11,False,False,,DeRozan Free Throw 1 of 2 (13 PTS),67-63,67,63
 0021800711,2019-01-23,PHI,SAS,23.98,2,0,1,SAS,SAS,ft_make,12,False,False,,DeRozan Free Throw 2 of 2 (14 PTS),67-64,67,64
 0021800711,2019-01-23,PHI,SAS,24.0,2,0,0,PHI,PHI,fg3_miss,1,True,False,MISS Muscala 52' 3PT Jump Shot,,67-64,67,64
+0021800711,2019-01-23,PHI,SAS,24.0,2,0,0,PHI,SAS,block,1,True,False,block,block,67-64,67,64
 0021800711,2019-01-23,PHI,SAS,24.0,2,0,0,PHI,PHI,reb,0,False,False,76ERS Rebound,,67-64,67,64
 0021800711,2019-01-23,PHI,SAS,24.0,2,0,0,PHI,,period_end,0,False,False,,,67-64,67,64
 0021800711,2019-01-23,PHI,SAS,24.0,3,12,0,PHI,,period_start,0,False,False,,,67-64,67,64
-0021800711,2019-01-23,PHI,SAS,24.0,2,0,0,PHI,SAS,block,1,True,False,block,block,67-64,67,64
 0021800711,2019-01-23,PHI,SAS,24.38,3,11,37,SAS,SAS,fg_make,86,False,False,,DeRozan 7' Turnaround Fadeaway (16 PTS),67-66,67,66
 0021800711,2019-01-23,PHI,SAS,24.65,3,11,21,PHI,PHI,fg_make,99,False,False,Simmons 1' Cutting Finger Roll Layup Shot (11 PTS) (Embiid 2 AST),,69-66,69,66
 0021800711,2019-01-23,PHI,SAS,24.9,3,11,6,SAS,SAS,fg_miss,79,False,False,,MISS White 21' Pullup Jump Shot,69-66,69,66

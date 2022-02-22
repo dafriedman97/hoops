@@ -25,8 +25,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000487,2021-02-23,DEN,POR,3.03,1,8,58,POR,POR,fg3_miss,1,False,False,,MISS Trent Jr. 30' 3PT Jump Shot,5-3,5,3
 0022000487,2021-02-23,DEN,POR,3.07,1,8,56,DEN,DEN,reb,0,False,False,Barton REBOUND (Off:1 Def:1),,5-3,5,3
 0022000487,2021-02-23,DEN,POR,3.42,1,8,35,DEN,DEN,fg_miss,78,True,False,MISS Jokic 7' Floating Jump Shot,,5-3,5,3
-0022000487,2021-02-23,DEN,POR,3.42,1,8,35,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,5-3,5,3
 0022000487,2021-02-23,DEN,POR,3.42,1,8,35,DEN,POR,block,78,True,False,block,block,5-3,5,3
+0022000487,2021-02-23,DEN,POR,3.42,1,8,35,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,5-3,5,3
 0022000487,2021-02-23,DEN,POR,3.47,1,8,32,DEN,DEN,fg_miss,79,False,False,MISS Murray 14' Pullup Jump Shot,,5-3,5,3
 0022000487,2021-02-23,DEN,POR,3.5,1,8,30,POR,POR,reb,0,False,False,,Lillard REBOUND (Off:0 Def:1),5-3,5,3
 0022000487,2021-02-23,DEN,POR,3.62,1,8,23,POR,POR,fg_make,9,False,False,,Lillard 1' Driving Dunk (2 PTS),5-5,5,5
@@ -170,23 +170,23 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000487,2021-02-23,DEN,POR,20.63,2,3,22,DEN,DEN,fg3_miss,79,False,False,MISS Murray 26' 3PT Pullup Jump Shot,,49-48,49,48
 0022000487,2021-02-23,DEN,POR,20.67,2,3,20,POR,POR,reb,0,False,False,,Kanter REBOUND (Off:2 Def:5),49-48,49,48
 0022000487,2021-02-23,DEN,POR,20.97,2,3,2,POR,POR,fg_miss,79,False,False,,MISS Anthony 17' Pullup Jump Shot,49-48,49,48
-0022000487,2021-02-23,DEN,POR,21.08,2,2,55,POR,POR,fg_make,97,False,False,,Kanter Tip Layup Shot (12 PTS),49-50,49,50
 0022000487,2021-02-23,DEN,POR,21.08,2,2,55,POR,POR,reb,0,False,False,,Kanter REBOUND (Off:3 Def:5),49-50,49,50
+0022000487,2021-02-23,DEN,POR,21.08,2,2,55,POR,POR,fg_make,97,False,False,,Kanter Tip Layup Shot (12 PTS),49-50,49,50
 0022000487,2021-02-23,DEN,POR,21.32,2,2,41,DEN,POR,foul,1,False,False,,Simons P.FOUL (P1.PN) (T.Maddox),49-50,49,50
 0022000487,2021-02-23,DEN,POR,21.32,2,2,41,DEN,DEN,ft_make,11,False,False,Jokic Free Throw 1 of 2 (16 PTS),,50-50,50,50
 0022000487,2021-02-23,DEN,POR,21.32,2,2,41,DEN,DEN,ft_make,12,False,False,Jokic Free Throw 2 of 2 (17 PTS),,51-50,51,50
 0022000487,2021-02-23,DEN,POR,21.65,2,2,21,POR,POR,fg3_miss,80,False,False,,MISS Anthony 25' 3PT Step Back Jump Shot,51-50,51,50
 0022000487,2021-02-23,DEN,POR,21.68,2,2,19,DEN,DEN,reb,0,False,False,Murray REBOUND (Off:0 Def:2),,51-50,51,50
 0022000487,2021-02-23,DEN,POR,21.78,2,2,13,DEN,DEN,fg_miss,78,False,False,MISS Jokic 11' Floating Jump Shot,,51-50,51,50
-0022000487,2021-02-23,DEN,POR,21.88,2,2,7,DEN,DEN,fg_make,97,False,False,Jokic Tip Layup Shot (19 PTS),,53-50,53,50
 0022000487,2021-02-23,DEN,POR,21.88,2,2,7,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:3 Def:0),,53-50,53,50
+0022000487,2021-02-23,DEN,POR,21.88,2,2,7,DEN,DEN,fg_make,97,False,False,Jokic Tip Layup Shot (19 PTS),,53-50,53,50
 0022000487,2021-02-23,DEN,POR,22.15,2,1,51,POR,POR,fg3_make,1,False,False,,Trent Jr. 25' 3PT Jump Shot (11 PTS) (Lillard 7 AST),53-53,53,53
 0022000487,2021-02-23,DEN,POR,22.37,2,1,38,DEN,DEN,fg_make,47,False,False,Jokic 5' Turnaround Jump Shot (21 PTS),,55-53,55,53
 0022000487,2021-02-23,DEN,POR,22.52,2,1,29,POR,DEN,foul,11,False,False,Jokic T.FOUL (P0.T3) (T.Maddox),,55-53,55,53
 0022000487,2021-02-23,DEN,POR,22.52,2,1,29,POR,POR,ft_make,16,False,False,,Lillard Free Throw Technical (5 PTS),55-54,55,54
 0022000487,2021-02-23,DEN,POR,22.72,2,1,17,POR,POR,fg3_miss,1,True,False,,MISS Trent Jr. 3PT Jump Shot,55-54,55,54
-0022000487,2021-02-23,DEN,POR,22.72,2,1,17,POR,POR,reb,0,False,False,,Trail Blazers Rebound,55-54,55,54
 0022000487,2021-02-23,DEN,POR,22.72,2,1,17,POR,DEN,block,1,True,False,block,block,55-54,55,54
+0022000487,2021-02-23,DEN,POR,22.72,2,1,17,POR,POR,reb,0,False,False,,Trail Blazers Rebound,55-54,55,54
 0022000487,2021-02-23,DEN,POR,22.82,2,1,11,,DEN,jump_ball,1,False,False,Jump Ball (CC) Jokic vs. Kanter: Tip to Trent Jr.,,55-54,55,54
 0022000487,2021-02-23,DEN,POR,22.88,2,1,7,POR,POR,fg_miss,79,False,False,,MISS Lillard 16' Pullup Jump Shot,55-54,55,54
 0022000487,2021-02-23,DEN,POR,22.88,2,1,7,DEN,DEN,reb,0,False,False,Porter Jr. REBOUND (Off:1 Def:3),,55-54,55,54
@@ -244,9 +244,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000487,2021-02-23,DEN,POR,30.63,3,5,22,POR,POR,reb,0,False,False,,Kanter REBOUND (Off:3 Def:8),70-72,70,72
 0022000487,2021-02-23,DEN,POR,30.87,3,5,8,POR,POR,fg3_make,78,False,False,,Lillard 26' 3PT Floating Jump Shot (10 PTS),70-75,70,75
 0022000487,2021-02-23,DEN,POR,31.23,3,4,46,DEN,DEN,fg_miss,5,True,False,MISS Barton 2' Layup,,70-75,70,75
+0022000487,2021-02-23,DEN,POR,31.23,3,4,46,DEN,POR,block,5,True,False,block,block,70-75,70,75
 0022000487,2021-02-23,DEN,POR,31.23,3,4,46,DEN,DEN,reb,0,False,False,Barton REBOUND (Off:3 Def:3),,70-75,70,75
 0022000487,2021-02-23,DEN,POR,31.23,3,4,46,,DEN,jump_ball,0,False,False,Jump Ball Barton vs. Covington: Tip to Jokic,,70-75,70,75
-0022000487,2021-02-23,DEN,POR,31.23,3,4,46,DEN,POR,block,5,True,False,block,block,70-75,70,75
 0022000487,2021-02-23,DEN,POR,31.28,3,4,43,DEN,DEN,fg3_miss,47,False,False,MISS Jokic 27' 3PT Turnaround Jump Shot,,70-75,70,75
 0022000487,2021-02-23,DEN,POR,31.33,3,4,40,POR,POR,reb,0,False,False,,Kanter REBOUND (Off:3 Def:9),70-75,70,75
 0022000487,2021-02-23,DEN,POR,31.48,3,4,31,POR,POR,fg3_miss,79,False,False,,MISS Lillard 26' 3PT Pullup Jump Shot,70-75,70,75

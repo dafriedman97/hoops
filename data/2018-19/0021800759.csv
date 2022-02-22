@@ -84,8 +84,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800759,2019-01-30,WAS,IND,10.22,1,1,47,WAS,WAS,fg_make,105,False,False,Beal 9' Turnaround Fadeaway Bank Jump Shot (7 PTS),,31-21,31,21
 0021800759,2019-01-30,WAS,IND,10.48,1,1,31,IND,IND,fg_make,6,False,False,,Leaf 3' Driving Layup (2 PTS),31-23,31,23
 0021800759,2019-01-30,WAS,IND,10.62,1,1,23,WAS,WAS,fg_miss,5,True,False,MISS Dekker 3' Layup,,31-23,31,23
-0021800759,2019-01-30,WAS,IND,10.62,1,1,23,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,31-23,31,23
 0021800759,2019-01-30,WAS,IND,10.62,1,1,23,WAS,IND,block,5,True,False,block,block,31-23,31,23
+0021800759,2019-01-30,WAS,IND,10.62,1,1,23,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,31-23,31,23
 0021800759,2019-01-30,WAS,IND,10.65,1,1,21,WAS,WAS,fg3_miss,1,False,False,MISS Beal 25' 3PT Jump Shot,,31-23,31,23
 0021800759,2019-01-30,WAS,IND,10.72,1,1,17,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:0 Def:2),31-23,31,23
 0021800759,2019-01-30,WAS,IND,10.78,1,1,13,IND,IND,fg3_miss,1,False,False,,MISS McDermott 25' 3PT Jump Shot,31-23,31,23
@@ -102,12 +102,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800759,2019-01-30,WAS,IND,11.6,1,0,24,IND,WAS,foul,1,False,False,Beal P.FOUL (P1.PN) (T.Brothers),,35-23,35,23
 0021800759,2019-01-30,WAS,IND,11.6,1,0,24,IND,IND,ft_make,11,False,False,,Leaf Free Throw 1 of 2 (3 PTS),35-24,35,24
 0021800759,2019-01-30,WAS,IND,11.6,1,0,24,IND,IND,ft_make,12,False,False,,Leaf Free Throw 2 of 2 (4 PTS),35-25,35,25
-0021800759,2019-01-30,WAS,IND,12.0,1,0,0,WAS,WAS,fg_miss,5,True,False,MISS Satoransky 1' Layup,,35-25,35,25
-0021800759,2019-01-30,WAS,IND,12.0,1,0,0,WAS,WAS,reb,0,False,False,Satoransky REBOUND (Off:1 Def:0),,35-25,35,25
 0021800759,2019-01-30,WAS,IND,12.0,1,0,0,WAS,WAS,tov,11,False,False,WIZARDS Turnover: Shot Clock (T#3),,35-25,35,25
 0021800759,2019-01-30,WAS,IND,12.0,1,0,0,WAS,,period_end,0,False,False,,,35-25,35,25
 0021800759,2019-01-30,WAS,IND,12.0,2,12,0,WAS,,period_start,0,False,False,,,35-25,35,25
+0021800759,2019-01-30,WAS,IND,12.0,1,0,0,WAS,WAS,fg_miss,5,True,False,MISS Satoransky 1' Layup,,35-25,35,25
 0021800759,2019-01-30,WAS,IND,12.0,1,0,0,WAS,IND,block,5,True,False,block,block,35-25,35,25
+0021800759,2019-01-30,WAS,IND,12.0,1,0,0,WAS,WAS,reb,0,False,False,Satoransky REBOUND (Off:1 Def:0),,35-25,35,25
 0021800759,2019-01-30,WAS,IND,12.23,2,11,46,IND,IND,fg_miss,6,False,False,,MISS McDermott 3' Driving Layup,35-25,35,25
 0021800759,2019-01-30,WAS,IND,12.27,2,11,44,WAS,WAS,reb,0,False,False,Mahinmi REBOUND (Off:0 Def:1),,35-25,35,25
 0021800759,2019-01-30,WAS,IND,12.43,2,11,34,WAS,WAS,fg_make,75,False,False,Dekker 2' Driving Finger Roll Layup (4 PTS) (Mahinmi 1 AST),,37-25,37,25
@@ -207,8 +207,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800759,2019-01-30,WAS,IND,23.25,2,0,45,IND,IND,tov,4,False,False,,Young Traveling Turnover (P4.T12),57-45,57,45
 0021800759,2019-01-30,WAS,IND,23.57,2,0,26,WAS,WAS,fg_make,9,False,False,Green 1' Driving Dunk (16 PTS) (Satoransky 2 AST),,59-45,59,45
 0021800759,2019-01-30,WAS,IND,23.92,2,0,5,IND,IND,fg_miss,5,True,False,,MISS Collison 7' Layup,59-45,59,45
-0021800759,2019-01-30,WAS,IND,23.92,2,0,5,IND,IND,reb,0,False,False,,Pacers Rebound,59-45,59,45
 0021800759,2019-01-30,WAS,IND,23.92,2,0,5,IND,WAS,block,5,True,False,block,block,59-45,59,45
+0021800759,2019-01-30,WAS,IND,23.92,2,0,5,IND,IND,reb,0,False,False,,Pacers Rebound,59-45,59,45
 0021800759,2019-01-30,WAS,IND,23.97,2,0,2,IND,IND,fg_miss,1,False,False,,MISS Collison 16' Jump Shot,59-45,59,45
 0021800759,2019-01-30,WAS,IND,23.97,2,0,2,WAS,WAS,reb,0,False,False,McRae REBOUND (Off:0 Def:1),,59-45,59,45
 0021800759,2019-01-30,WAS,IND,24.0,2,0,0,WAS,,period_end,0,False,False,,,59-45,59,45
@@ -321,8 +321,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800759,2019-01-30,WAS,IND,36.75,4,11,15,IND,WAS,foul,1,False,False,Mahinmi P.FOUL (P3.T1) (J.Sterling),,85-69,85,69
 0021800759,2019-01-30,WAS,IND,36.78,4,11,13,IND,WAS,foul,1,False,False,Randle P.FOUL (P4.T2) (T.Ford),,85-69,85,69
 0021800759,2019-01-30,WAS,IND,36.92,4,11,5,IND,IND,fg_miss,5,True,False,,MISS Joseph 4' Layup,85-69,85,69
-0021800759,2019-01-30,WAS,IND,36.92,4,11,5,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,85-69,85,69
 0021800759,2019-01-30,WAS,IND,36.92,4,11,5,IND,WAS,block,5,True,False,block,block,85-69,85,69
+0021800759,2019-01-30,WAS,IND,36.92,4,11,5,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,85-69,85,69
 0021800759,2019-01-30,WAS,IND,37.18,4,10,49,WAS,WAS,fg_make,1,False,False,Beal 19' Jump Shot (21 PTS),,87-69,87,69
 0021800759,2019-01-30,WAS,IND,37.65,4,10,21,IND,IND,fg3_miss,1,False,False,,MISS Holiday 32' 3PT Jump Shot,87-69,87,69
 0021800759,2019-01-30,WAS,IND,37.65,4,10,21,IND,IND,reb,0,False,False,,Pacers Rebound,87-69,87,69

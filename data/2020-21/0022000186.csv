@@ -25,14 +25,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000186,2021-01-15,UTA,ATL,3.28,1,8,43,ATL,UTA,steal,2,False,True,steal,steal,13-4,13,4
 0022000186,2021-01-15,UTA,ATL,3.38,1,8,37,UTA,UTA,fg3_make,80,False,False,Bogdanovic 25' 3PT Step Back Jump Shot (5 PTS) (Conley 1 AST),,16-4,16,4
 0022000186,2021-01-15,UTA,ATL,3.7,1,8,18,ATL,ATL,fg_miss,6,True,False,,MISS Hunter 7' Driving Layup,16-4,16,4
+0022000186,2021-01-15,UTA,ATL,3.7,1,8,18,ATL,UTA,block,6,True,False,block,block,16-4,16,4
 0022000186,2021-01-15,UTA,ATL,3.7,1,8,18,ATL,ATL,reb,0,False,False,,Hawks Rebound,16-4,16,4
 0022000186,2021-01-15,UTA,ATL,3.7,1,8,18,ATL,UTA,foul,1,False,False,Mitchell P.FOUL (P1.T1) (J.Van Duyne),,16-4,16,4
-0022000186,2021-01-15,UTA,ATL,3.7,1,8,18,ATL,UTA,block,6,True,False,block,block,16-4,16,4
 0022000186,2021-01-15,UTA,ATL,3.8,1,8,12,ATL,ATL,fg3_miss,1,False,False,,MISS Reddish 27' 3PT Jump Shot,16-4,16,4
 0022000186,2021-01-15,UTA,ATL,3.83,1,8,10,UTA,UTA,reb,0,False,False,JAZZ Rebound,,16-4,16,4
 0022000186,2021-01-15,UTA,ATL,4.03,1,7,58,UTA,UTA,fg_miss,6,False,False,MISS Bogdanovic 4' Driving Layup,,16-4,16,4
-0022000186,2021-01-15,UTA,ATL,4.1,1,7,54,UTA,UTA,fg_make,107,False,False,Gobert Tip Dunk Shot (2 PTS),,18-4,18,4
 0022000186,2021-01-15,UTA,ATL,4.1,1,7,54,UTA,UTA,reb,0,False,False,Gobert REBOUND (Off:1 Def:2),,18-4,18,4
+0022000186,2021-01-15,UTA,ATL,4.1,1,7,54,UTA,UTA,fg_make,107,False,False,Gobert Tip Dunk Shot (2 PTS),,18-4,18,4
 0022000186,2021-01-15,UTA,ATL,4.43,1,7,34,ATL,ATL,fg_make,44,False,False,,Capela 2' Reverse Layup (2 PTS) (Young 1 AST),18-6,18,6
 0022000186,2021-01-15,UTA,ATL,4.72,1,7,17,UTA,ATL,foul,2,False,False,,Hunter S.FOUL (P1.T1) (E.Malloy),18-6,18,6
 0022000186,2021-01-15,UTA,ATL,4.72,1,7,17,UTA,UTA,ft_make,11,False,False,Gobert Free Throw 1 of 2 (3 PTS),,19-6,19,6
@@ -209,15 +209,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000186,2021-01-15,UTA,ATL,23.4,2,0,36,ATL,ATL,reb,0,False,False,,Collins REBOUND (Off:1 Def:1),61-46,61,46
 0022000186,2021-01-15,UTA,ATL,23.5,2,0,30,ATL,ATL,fg3_miss,1,False,False,,MISS Collins 24' 3PT Jump Shot,61-46,61,46
 0022000186,2021-01-15,UTA,ATL,23.57,2,0,26,UTA,UTA,reb,0,False,False,Mitchell REBOUND (Off:0 Def:3),,61-46,61,46
+0022000186,2021-01-15,UTA,ATL,23.92,2,0,5,ATL,UTA,foul,3,False,False,Gobert L.B.FOUL (P1.T4) (E.Malloy),,61-46,61,46
 0022000186,2021-01-15,UTA,ATL,23.92,2,0,5,UTA,UTA,fg_miss,6,False,False,MISS Mitchell 2' Driving Layup,,61-46,61,46
 0022000186,2021-01-15,UTA,ATL,23.92,2,0,5,ATL,ATL,reb,0,False,False,,Hawks Rebound,61-46,61,46
-0022000186,2021-01-15,UTA,ATL,23.92,2,0,5,ATL,UTA,foul,3,False,False,Gobert L.B.FOUL (P1.T4) (E.Malloy),,61-46,61,46
 0022000186,2021-01-15,UTA,ATL,24.0,2,0,0,ATL,ATL,tov,1,False,True,,Rondo Bad Pass Turnover (P1.T6),61-46,61,46
+0022000186,2021-01-15,UTA,ATL,24.0,2,0,0,ATL,UTA,steal,1,False,True,steal,steal,61-46,61,46
 0022000186,2021-01-15,UTA,ATL,24.0,2,0,0,UTA,UTA,fg3_miss,1,False,False,MISS Conley 56' 3PT Jump Shot,,61-46,61,46
 0022000186,2021-01-15,UTA,ATL,24.0,2,0,0,UTA,UTA,reb,0,False,False,JAZZ Rebound,,61-46,61,46
 0022000186,2021-01-15,UTA,ATL,24.0,2,0,0,UTA,,period_end,0,False,False,,,61-46,61,46
 0022000186,2021-01-15,UTA,ATL,24.0,3,12,0,UTA,,period_start,0,False,False,,,61-46,61,46
-0022000186,2021-01-15,UTA,ATL,24.0,2,0,0,ATL,UTA,steal,1,False,True,steal,steal,61-46,61,46
 0022000186,2021-01-15,UTA,ATL,24.27,3,11,44,ATL,ATL,fg_miss,78,False,False,,MISS Young 9' Floating Jump Shot,61-46,61,46
 0022000186,2021-01-15,UTA,ATL,24.33,3,11,40,UTA,UTA,reb,0,False,False,Conley REBOUND (Off:2 Def:2),,61-46,61,46
 0022000186,2021-01-15,UTA,ATL,24.45,3,11,33,UTA,UTA,fg_miss,3,False,False,MISS Gobert 7' Hook Shot,,61-46,61,46
@@ -330,8 +330,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000186,2021-01-15,UTA,ATL,36.4,4,11,36,ATL,ATL,tov,2,False,True,,Reddish Lost Ball Turnover (P3.T10),90-74,90,74
 0022000186,2021-01-15,UTA,ATL,36.4,4,11,36,ATL,UTA,steal,2,False,True,steal,steal,90-74,90,74
 0022000186,2021-01-15,UTA,ATL,36.73,4,11,16,UTA,UTA,fg3_miss,1,False,False,MISS Oni 24' 3PT Jump Shot,,90-74,90,74
-0022000186,2021-01-15,UTA,ATL,36.77,4,11,14,UTA,UTA,reb,0,False,False,JAZZ Rebound,,90-74,90,74
 0022000186,2021-01-15,UTA,ATL,36.77,4,11,14,,UTA,jump_ball,0,False,False,Jump Ball Gobert vs. Capela: Tip to Conley,,90-74,90,74
+0022000186,2021-01-15,UTA,ATL,36.77,4,11,14,UTA,UTA,reb,0,False,False,JAZZ Rebound,,90-74,90,74
 0022000186,2021-01-15,UTA,ATL,36.9,4,11,6,UTA,UTA,fg_make,98,False,False,Gobert 3' Cutting Layup Shot (14 PTS) (Conley 5 AST),,92-74,92,74
 0022000186,2021-01-15,UTA,ATL,36.9,4,11,6,UTA,ATL,foul,2,False,False,,Capela S.FOUL (P3.T1) (J.Van Duyne),92-74,92,74
 0022000186,2021-01-15,UTA,ATL,36.9,4,11,6,UTA,UTA,ft_make,10,False,False,Gobert Free Throw 1 of 1 (15 PTS),,93-74,93,74

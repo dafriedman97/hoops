@@ -34,8 +34,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700195,2017-11-13,NOP,ATL,3.85,1,8,9,NOP,NOP,reb,0,False,False,Davis REBOUND (Off:1 Def:0),,3-11,3,11
 0021700195,2017-11-13,NOP,ATL,3.88,1,8,7,NOP,NOP,fg_make,72,False,False,Davis 12' Putback Layup (2 PTS),,5-11,5,11
 0021700195,2017-11-13,NOP,ATL,4.08,1,7,55,ATL,ATL,fg_miss,5,True,False,,MISS Schroder 1' Layup,5-11,5,11
-0021700195,2017-11-13,NOP,ATL,4.08,1,7,55,ATL,ATL,reb,0,False,False,,Hawks Rebound,5-11,5,11
 0021700195,2017-11-13,NOP,ATL,4.08,1,7,55,ATL,NOP,block,5,True,False,block,block,5-11,5,11
+0021700195,2017-11-13,NOP,ATL,4.08,1,7,55,ATL,ATL,reb,0,False,False,,Hawks Rebound,5-11,5,11
 0021700195,2017-11-13,NOP,ATL,4.12,1,7,53,ATL,ATL,fg_make,1,False,False,,Schroder 12' Jump Shot (4 PTS) (Bazemore 1 AST),5-13,5,13
 0021700195,2017-11-13,NOP,ATL,4.25,1,7,45,NOP,ATL,foul,1,False,False,,Babbitt P.FOUL (P1.T2) (L.Wood),5-13,5,13
 0021700195,2017-11-13,NOP,ATL,4.38,1,7,37,NOP,NOP,fg_make,1,False,False,Holiday 18' Jump Shot (2 PTS) (Moore 1 AST),,7-13,7,13
@@ -63,9 +63,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700195,2017-11-13,NOP,ATL,6.2,1,5,48,ATL,ATL,tov,1,False,True,,Babbitt Bad Pass Turnover (P1.T2),9-15,9,15
 0021700195,2017-11-13,NOP,ATL,6.2,1,5,48,ATL,NOP,steal,1,False,True,steal,steal,9-15,9,15
 0021700195,2017-11-13,NOP,ATL,6.28,1,5,43,NOP,NOP,fg_miss,5,True,False,MISS Moore 1' Layup,,9-15,9,15
+0021700195,2017-11-13,NOP,ATL,6.28,1,5,43,NOP,ATL,block,5,True,False,block,block,9-15,9,15
 0021700195,2017-11-13,NOP,ATL,6.28,1,5,43,NOP,NOP,fg_miss,72,False,False,MISS Cunningham 2' Putback Layup,,9-15,9,15
 0021700195,2017-11-13,NOP,ATL,6.28,1,5,43,ATL,ATL,reb,0,False,False,,Babbitt REBOUND (Off:0 Def:2),9-15,9,15
-0021700195,2017-11-13,NOP,ATL,6.28,1,5,43,NOP,ATL,block,5,True,False,block,block,9-15,9,15
 0021700195,2017-11-13,NOP,ATL,6.37,1,5,38,NOP,NOP,reb,0,False,False,Cunningham REBOUND (Off:1 Def:1),,9-15,9,15
 0021700195,2017-11-13,NOP,ATL,6.52,1,5,29,ATL,ATL,tov,2,False,True,,Schroder Lost Ball Turnover (P1.T3),9-15,9,15
 0021700195,2017-11-13,NOP,ATL,6.52,1,5,29,ATL,NOP,steal,2,False,True,steal,steal,9-15,9,15
@@ -154,8 +154,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700195,2017-11-13,NOP,ATL,16.42,2,7,35,NOP,NOP,fg_miss,5,False,False,MISS Holiday 3' Layup,,28-40,28,40
 0021700195,2017-11-13,NOP,ATL,16.52,2,7,29,ATL,ATL,reb,0,False,False,,Cavanaugh REBOUND (Off:1 Def:2),28-40,28,40
 0021700195,2017-11-13,NOP,ATL,16.53,2,7,28,ATL,ATL,tov,1,False,True,,Prince Bad Pass Turnover (P2.T7),28-40,28,40
-0021700195,2017-11-13,NOP,ATL,16.53,2,7,28,NOP,ATL,foul,2,False,False,,Schroder S.FOUL (P1.T2) (R.Mott),28-40,28,40
 0021700195,2017-11-13,NOP,ATL,16.53,2,7,28,ATL,NOP,steal,1,False,True,steal,steal,28-40,28,40
+0021700195,2017-11-13,NOP,ATL,16.53,2,7,28,NOP,ATL,foul,2,False,False,,Schroder S.FOUL (P1.T2) (R.Mott),28-40,28,40
 0021700195,2017-11-13,NOP,ATL,16.53,2,7,28,NOP,NOP,ft_make,11,False,False,Cousins Free Throw 1 of 2 (7 PTS),,29-40,29,40
 0021700195,2017-11-13,NOP,ATL,16.53,2,7,28,NOP,NOP,ft_miss,12,False,False,MISS Cousins Free Throw 2 of 2,,29-40,29,40
 0021700195,2017-11-13,NOP,ATL,16.58,2,7,25,ATL,ATL,reb,0,False,False,,Cavanaugh REBOUND (Off:1 Def:3),29-40,29,40
@@ -191,8 +191,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700195,2017-11-13,NOP,ATL,20.87,2,3,8,NOP,NOP,reb,0,False,False,Holiday REBOUND (Off:0 Def:2),,36-45,36,45
 0021700195,2017-11-13,NOP,ATL,21.03,2,2,58,NOP,NOP,fg_make,6,False,False,Moore 7' Driving Layup (8 PTS),,38-45,38,45
 0021700195,2017-11-13,NOP,ATL,21.3,2,2,42,ATL,ATL,fg_miss,5,True,False,,MISS Schroder 2' Layup,38-45,38,45
-0021700195,2017-11-13,NOP,ATL,21.3,2,2,42,ATL,ATL,reb,0,False,False,,Hawks Rebound,38-45,38,45
 0021700195,2017-11-13,NOP,ATL,21.3,2,2,42,ATL,NOP,block,5,True,False,block,block,38-45,38,45
+0021700195,2017-11-13,NOP,ATL,21.3,2,2,42,ATL,ATL,reb,0,False,False,,Hawks Rebound,38-45,38,45
 0021700195,2017-11-13,NOP,ATL,21.5,2,2,30,ATL,ATL,tov,1,False,True,,Schroder Bad Pass Turnover (P2.T9),38-45,38,45
 0021700195,2017-11-13,NOP,ATL,21.5,2,2,30,ATL,NOP,steal,1,False,True,steal,steal,38-45,38,45
 0021700195,2017-11-13,NOP,ATL,21.6,2,2,24,NOP,NOP,fg_make,76,False,False,Davis Running Finger Roll Layup (7 PTS) (Clark 2 AST),,40-45,40,45
@@ -379,19 +379,19 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700195,2017-11-13,NOP,ATL,46.85,4,1,9,NOP,NOP,reb,0,False,False,Davis REBOUND (Off:2 Def:8),,103-104,103,104
 0021700195,2017-11-13,NOP,ATL,47.08,4,0,55,NOP,NOP,fg3_make,1,False,False,Miller 24' 3PT Jump Shot (21 PTS) (Holiday 5 AST),,106-104,106,104
 0021700195,2017-11-13,NOP,ATL,47.38,4,0,37,ATL,NOP,foul,27,False,False,Davis Personal Block Foul (P2.PN) (L.Wood),,106-104,106,104
-0021700195,2017-11-13,NOP,ATL,47.38,4,0,37,ATL,ATL,ft_make,12,False,False,,Bazemore Free Throw 2 of 2 (22 PTS),106-105,106,105
 0021700195,2017-11-13,NOP,ATL,47.38,4,0,37,ATL,ATL,ft_miss,11,False,False,,MISS Bazemore Free Throw 1 of 2,106-105,106,105
 0021700195,2017-11-13,NOP,ATL,47.38,4,0,37,ATL,ATL,reb,1,False,False,,Hawks Rebound,106-105,106,105
+0021700195,2017-11-13,NOP,ATL,47.38,4,0,37,ATL,ATL,ft_make,12,False,False,,Bazemore Free Throw 2 of 2 (22 PTS),106-105,106,105
 0021700195,2017-11-13,NOP,ATL,47.38,4,0,37,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 4 Short 0),,106-105,106,105
 0021700195,2017-11-13,NOP,ATL,47.53,4,0,28,NOP,NOP,fg3_miss,1,False,False,MISS Miller 26' 3PT Jump Shot,,106-105,106,105
 0021700195,2017-11-13,NOP,ATL,47.62,4,0,23,ATL,ATL,reb,0,False,False,,Prince REBOUND (Off:1 Def:3),106-105,106,105
-0021700195,2017-11-13,NOP,ATL,47.95,4,0,3,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 5 Short 0),,106-105,106,105
 0021700195,2017-11-13,NOP,ATL,47.95,4,0,3,ATL,ATL,tov,45,False,False,,Schroder Out of Bounds - Bad Pass Turnover Turnover (P4.T16),106-105,106,105
+0021700195,2017-11-13,NOP,ATL,47.95,4,0,3,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 5 Short 0),,106-105,106,105
 0021700195,2017-11-13,NOP,ATL,47.95,4,0,3,NOP,ATL,foul,28,False,False,,Schroder Personal Take Foul (P3.T3) (R.Mott),106-105,106,105
 0021700195,2017-11-13,NOP,ATL,48.0,4,0,0,NOP,NOP,tov,1,False,True,Davis Bad Pass Turnover (P5.T19),,106-105,106,105
+0021700195,2017-11-13,NOP,ATL,48.0,4,0,0,NOP,ATL,steal,1,False,True,steal,steal,106-105,106,105
 0021700195,2017-11-13,NOP,ATL,48.0,4,0,0,ATL,ATL,timeout,1,False,False,,Hawks Timeout: Regular (Reg.7 Short 0),106-105,106,105
 0021700195,2017-11-13,NOP,ATL,48.0,4,0,0,ATL,ATL,fg3_miss,1,True,False,,MISS Bazemore 26' 3PT Jump Shot,106-105,106,105
+0021700195,2017-11-13,NOP,ATL,48.0,4,0,0,ATL,NOP,block,1,True,False,block,block,106-105,106,105
 0021700195,2017-11-13,NOP,ATL,48.0,4,0,0,ATL,ATL,reb,0,False,False,,Hawks Rebound,106-105,106,105
 0021700195,2017-11-13,NOP,ATL,48.0,4,0,0,ATL,,period_end,0,False,False,,,106-105,106,105
-0021700195,2017-11-13,NOP,ATL,48.0,4,0,0,ATL,NOP,block,1,True,False,block,block,106-105,106,105
-0021700195,2017-11-13,NOP,ATL,48.0,4,0,0,NOP,ATL,steal,1,False,True,steal,steal,106-105,106,105

@@ -61,9 +61,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900418,2019-12-19,SAS,BKN,8.12,1,3,53,BKN,BKN,ft_make,12,False,False,,Nwaba Free Throw 2 of 2 (2 PTS),19-27,19,27
 0021900418,2019-12-19,SAS,BKN,8.37,1,3,38,SAS,SAS,fg3_make,1,False,False,Mills 25' 3PT Jump Shot (3 PTS) (Poeltl 1 AST),,22-27,22,27
 0021900418,2019-12-19,SAS,BKN,8.58,1,3,25,BKN,BKN,fg_miss,5,True,False,,MISS Dinwiddie 6' Layup,22-27,22,27
+0021900418,2019-12-19,SAS,BKN,8.58,1,3,25,BKN,SAS,block,5,True,False,block,block,22-27,22,27
 0021900418,2019-12-19,SAS,BKN,8.58,1,3,25,BKN,BKN,reb,0,False,False,,Nets Rebound,22-27,22,27
 0021900418,2019-12-19,SAS,BKN,8.58,1,3,25,BKN,BKN,timeout,1,False,False,,Nets Timeout: Regular (Reg.1 Short 0),22-27,22,27
-0021900418,2019-12-19,SAS,BKN,8.58,1,3,25,BKN,SAS,block,5,True,False,block,block,22-27,22,27
 0021900418,2019-12-19,SAS,BKN,8.67,1,3,20,BKN,BKN,fg3_miss,1,False,False,,MISS Chandler 26' 3PT Jump Shot,22-27,22,27
 0021900418,2019-12-19,SAS,BKN,8.72,1,3,17,SAS,SAS,reb,0,False,False,Belinelli REBOUND (Off:0 Def:1),,22-27,22,27
 0021900418,2019-12-19,SAS,BKN,8.83,1,3,10,SAS,SAS,fg3_miss,1,False,False,MISS Gay 3PT Jump Shot,,22-27,22,27
@@ -148,8 +148,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900418,2019-12-19,SAS,BKN,16.23,2,7,46,BKN,BKN,fg_miss,5,False,False,,MISS Harris 1' Layup,34-41,34,41
 0021900418,2019-12-19,SAS,BKN,16.28,2,7,43,SAS,SAS,reb,0,False,False,Aldridge REBOUND (Off:0 Def:3),,34-41,34,41
 0021900418,2019-12-19,SAS,BKN,16.38,2,7,37,SAS,SAS,fg3_miss,1,False,False,MISS Forbes 25' 3PT Jump Shot,,34-41,34,41
-0021900418,2019-12-19,SAS,BKN,16.48,2,7,31,SAS,SAS,fg_miss,97,False,False,MISS Aldridge 1' Tip Layup Shot,,34-41,34,41
 0021900418,2019-12-19,SAS,BKN,16.48,2,7,31,SAS,SAS,reb,0,False,False,Aldridge REBOUND (Off:1 Def:3),,34-41,34,41
+0021900418,2019-12-19,SAS,BKN,16.48,2,7,31,SAS,SAS,fg_miss,97,False,False,MISS Aldridge 1' Tip Layup Shot,,34-41,34,41
 0021900418,2019-12-19,SAS,BKN,16.48,2,7,31,BKN,BKN,reb,0,False,False,,Jordan REBOUND (Off:0 Def:8),34-41,34,41
 0021900418,2019-12-19,SAS,BKN,16.53,2,7,28,BKN,BKN,timeout,1,False,False,,Nets Timeout: Regular (Reg.2 Short 0),34-41,34,41
 0021900418,2019-12-19,SAS,BKN,16.6,2,7,24,BKN,BKN,tov,4,False,False,,Allen Traveling Turnover (P1.T6),34-41,34,41
@@ -214,17 +214,17 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900418,2019-12-19,SAS,BKN,23.95,2,0,3,BKN,BKN,tov,1,False,True,,Prince Bad Pass Turnover (P2.T10),50-56,50,56
 0021900418,2019-12-19,SAS,BKN,23.95,2,0,3,BKN,SAS,steal,1,False,True,steal,steal,50-56,50,56
 0021900418,2019-12-19,SAS,BKN,24.0,2,0,0,SAS,SAS,fg_miss,5,True,False,MISS Aldridge 4' Layup,,50-56,50,56
+0021900418,2019-12-19,SAS,BKN,24.0,2,0,0,SAS,BKN,block,5,True,False,block,block,50-56,50,56
 0021900418,2019-12-19,SAS,BKN,24.0,2,0,0,SAS,SAS,reb,0,False,False,Walker IV REBOUND (Off:1 Def:2),,50-56,50,56
 0021900418,2019-12-19,SAS,BKN,24.0,2,0,0,SAS,SAS,fg3_miss,1,False,False,MISS DeRozan 26' 3PT Jump Shot,,50-56,50,56
 0021900418,2019-12-19,SAS,BKN,24.0,2,0,0,SAS,SAS,reb,0,False,False,SPURS Rebound,,50-56,50,56
 0021900418,2019-12-19,SAS,BKN,24.0,2,0,0,SAS,,period_end,0,False,False,,,50-56,50,56
 0021900418,2019-12-19,SAS,BKN,24.0,3,12,0,SAS,,period_start,0,False,False,,,50-56,50,56
-0021900418,2019-12-19,SAS,BKN,24.0,2,0,0,SAS,BKN,block,5,True,False,block,block,50-56,50,56
 0021900418,2019-12-19,SAS,BKN,24.35,3,11,39,BKN,SAS,foul,1,False,False,Forbes P.FOUL (P2.T1) (B.Kennedy),,50-56,50,56
 0021900418,2019-12-19,SAS,BKN,24.48,3,11,31,BKN,SAS,foul,1,False,False,Belinelli P.FOUL (P2.T2) (S.Corbin),,50-56,50,56
 0021900418,2019-12-19,SAS,BKN,24.68,3,11,19,BKN,BKN,fg_miss,78,False,False,,MISS Dinwiddie 11' Floating Jump Shot,50-56,50,56
-0021900418,2019-12-19,SAS,BKN,24.77,3,11,14,BKN,BKN,fg_make,97,False,False,,Allen 1' Tip Layup Shot (10 PTS),50-58,50,58
 0021900418,2019-12-19,SAS,BKN,24.77,3,11,14,BKN,BKN,reb,0,False,False,,Allen REBOUND (Off:2 Def:5),50-58,50,58
+0021900418,2019-12-19,SAS,BKN,24.77,3,11,14,BKN,BKN,fg_make,97,False,False,,Allen 1' Tip Layup Shot (10 PTS),50-58,50,58
 0021900418,2019-12-19,SAS,BKN,25.02,3,10,59,SAS,SAS,fg_make,86,False,False,Aldridge 13' Turnaround Fadeaway (10 PTS),,52-58,52,58
 0021900418,2019-12-19,SAS,BKN,25.22,3,10,47,BKN,BKN,fg3_make,79,False,False,,Dinwiddie 24' 3PT Pullup Jump Shot (22 PTS),52-61,52,61
 0021900418,2019-12-19,SAS,BKN,25.4,3,10,36,SAS,SAS,fg_miss,5,False,False,MISS DeRozan 1' Layup,,52-61,52,61
@@ -241,8 +241,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900418,2019-12-19,SAS,BKN,26.4,3,9,36,SAS,SAS,fg_make,79,False,False,DeRozan 15' Pullup Jump Shot (12 PTS),,54-61,54,61
 0021900418,2019-12-19,SAS,BKN,26.57,3,9,26,BKN,SAS,foul,1,False,False,DeRozan P.FOUL (P1.T3) (B.Kennedy),,54-61,54,61
 0021900418,2019-12-19,SAS,BKN,26.68,3,9,19,BKN,BKN,fg_miss,75,True,False,,MISS Temple 2' Driving Finger Roll Layup,54-61,54,61
-0021900418,2019-12-19,SAS,BKN,26.68,3,9,19,BKN,BKN,reb,0,False,False,,Nets Rebound,54-61,54,61
 0021900418,2019-12-19,SAS,BKN,26.68,3,9,19,BKN,SAS,block,75,True,False,block,block,54-61,54,61
+0021900418,2019-12-19,SAS,BKN,26.68,3,9,19,BKN,BKN,reb,0,False,False,,Nets Rebound,54-61,54,61
 0021900418,2019-12-19,SAS,BKN,26.75,3,9,15,BKN,BKN,fg_make,79,False,False,,Harris 20' Pullup Jump Shot (9 PTS) (Allen 4 AST),54-63,54,63
 0021900418,2019-12-19,SAS,BKN,27.15,3,8,51,SAS,SAS,fg_miss,79,False,False,MISS DeRozan 19' Pullup Jump Shot,,54-63,54,63
 0021900418,2019-12-19,SAS,BKN,27.22,3,8,47,BKN,BKN,reb,0,False,False,,Prince REBOUND (Off:0 Def:5),54-63,54,63

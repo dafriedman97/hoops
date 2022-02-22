@@ -32,8 +32,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800424,2018-12-14,PHI,IND,3.22,1,8,47,IND,IND,timeout,1,False,False,,Pacers Timeout: Regular (Reg.1 Short 0),12-2,12,2
 0021800424,2018-12-14,PHI,IND,3.43,1,8,34,IND,IND,fg_make,47,False,False,,Bogdanovic 8' Turnaround Jump Shot (2 PTS),12-4,12,4
 0021800424,2018-12-14,PHI,IND,3.63,1,8,22,PHI,PHI,tov,1,False,True,Embiid Bad Pass Turnover (P1.T1),,12-4,12,4
-0021800424,2018-12-14,PHI,IND,3.63,1,8,22,IND,PHI,foul,9,False,False,Redick C.P.FOUL (P1.T2) (K.Lane),,12-4,12,4
 0021800424,2018-12-14,PHI,IND,3.63,1,8,22,PHI,IND,steal,1,False,True,steal,steal,12-4,12,4
+0021800424,2018-12-14,PHI,IND,3.63,1,8,22,IND,PHI,foul,9,False,False,Redick C.P.FOUL (P1.T2) (K.Lane),,12-4,12,4
 0021800424,2018-12-14,PHI,IND,3.63,1,8,22,IND,IND,ft_make,25,False,False,,Oladipo Free Throw Clear Path 1 of 2 (1 PTS),12-5,12,5
 0021800424,2018-12-14,PHI,IND,3.63,1,8,22,IND,IND,ft_make,26,False,False,,Oladipo Free Throw Clear Path 2 of 2 (2 PTS),12-6,12,6
 0021800424,2018-12-14,PHI,IND,3.85,1,8,9,IND,IND,fg_make,6,False,False,,Bogdanovic 3' Driving Layup (4 PTS) (Collison 1 AST),12-8,12,8
@@ -69,11 +69,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800424,2018-12-14,PHI,IND,6.75,1,5,15,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:0 Def:2),18-13,18,13
 0021800424,2018-12-14,PHI,IND,6.88,1,5,7,IND,IND,fg_make,1,False,False,,Sabonis 18' Jump Shot (6 PTS) (Collison 2 AST),18-15,18,15
 0021800424,2018-12-14,PHI,IND,7.25,1,4,45,PHI,PHI,fg_miss,1,False,False,MISS Redick 7' Jump Shot,,18-15,18,15
-0021800424,2018-12-14,PHI,IND,7.4,1,4,36,PHI,PHI,fg_miss,97,False,False,MISS McConnell 1' Tip Layup Shot,,18-15,18,15
-0021800424,2018-12-14,PHI,IND,7.4,1,4,36,PHI,PHI,reb,0,False,False,McConnell REBOUND (Off:1 Def:0),,18-15,18,15
 0021800424,2018-12-14,PHI,IND,7.4,1,4,36,PHI,PHI,reb,0,False,False,McConnell REBOUND (Off:2 Def:0),,18-15,18,15
 0021800424,2018-12-14,PHI,IND,7.4,1,4,36,PHI,PHI,fg_make,72,False,False,McConnell 1' Putback Layup (2 PTS),,20-15,20,15
 0021800424,2018-12-14,PHI,IND,7.4,1,4,36,IND,IND,tov,40,False,False,,Collison Out of Bounds Lost Ball Turnover (P1.T1),20-15,20,15
+0021800424,2018-12-14,PHI,IND,7.4,1,4,36,PHI,PHI,fg_miss,97,False,False,MISS McConnell 1' Tip Layup Shot,,18-15,18,15
+0021800424,2018-12-14,PHI,IND,7.4,1,4,36,PHI,PHI,reb,0,False,False,McConnell REBOUND (Off:1 Def:0),,18-15,18,15
 0021800424,2018-12-14,PHI,IND,7.57,1,4,26,PHI,PHI,fg3_miss,1,False,False,MISS Redick 3PT Jump Shot,,20-15,20,15
 0021800424,2018-12-14,PHI,IND,7.62,1,4,23,IND,IND,reb,0,False,False,,Sabonis REBOUND (Off:0 Def:3),20-15,20,15
 0021800424,2018-12-14,PHI,IND,7.82,1,4,11,IND,IND,fg_miss,47,False,False,,MISS Bogdanovic 9' Turnaround Jump Shot,20-15,20,15
@@ -202,8 +202,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800424,2018-12-14,PHI,IND,19.73,2,4,16,IND,IND,fg3_make,1,False,False,,Turner 27' 3PT Jump Shot (3 PTS) (Collison 4 AST),42-43,42,43
 0021800424,2018-12-14,PHI,IND,19.97,2,4,2,PHI,PHI,fg_make,44,False,False,Embiid Reverse Layup (19 PTS) (McConnell 3 AST),,44-43,44,43
 0021800424,2018-12-14,PHI,IND,20.07,2,3,56,IND,IND,fg_miss,73,True,False,,MISS Evans 4' Driving Reverse Layup,44-43,44,43
-0021800424,2018-12-14,PHI,IND,20.07,2,3,56,IND,IND,reb,0,False,False,,Pacers Rebound,44-43,44,43
 0021800424,2018-12-14,PHI,IND,20.07,2,3,56,IND,PHI,block,73,True,False,block,block,44-43,44,43
+0021800424,2018-12-14,PHI,IND,20.07,2,3,56,IND,IND,reb,0,False,False,,Pacers Rebound,44-43,44,43
 0021800424,2018-12-14,PHI,IND,20.12,2,3,53,IND,IND,tov,1,False,True,,Evans Bad Pass Turnover (P2.T4),44-43,44,43
 0021800424,2018-12-14,PHI,IND,20.12,2,3,53,IND,PHI,steal,1,False,True,steal,steal,44-43,44,43
 0021800424,2018-12-14,PHI,IND,20.18,2,3,49,PHI,PHI,fg3_make,1,False,False,Shamet 24' 3PT Jump Shot (6 PTS) (McConnell 4 AST),,47-43,47,43
@@ -255,8 +255,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800424,2018-12-14,PHI,IND,25.35,3,10,39,IND,IND,reb,0,False,False,,Young REBOUND (Off:2 Def:3),59-51,59,51
 0021800424,2018-12-14,PHI,IND,25.43,3,10,34,IND,PHI,foul,1,False,False,Chandler P.FOUL (P3.T1) (M.Davis),,59-51,59,51
 0021800424,2018-12-14,PHI,IND,25.62,3,10,23,IND,IND,fg_miss,47,True,False,,MISS Bogdanovic 12' Turnaround Jump Shot,59-51,59,51
-0021800424,2018-12-14,PHI,IND,25.62,3,10,23,IND,IND,reb,0,False,False,,Pacers Rebound,59-51,59,51
 0021800424,2018-12-14,PHI,IND,25.62,3,10,23,IND,PHI,block,47,True,False,block,block,59-51,59,51
+0021800424,2018-12-14,PHI,IND,25.62,3,10,23,IND,IND,reb,0,False,False,,Pacers Rebound,59-51,59,51
 0021800424,2018-12-14,PHI,IND,25.67,3,10,20,IND,IND,fg_make,79,False,False,,Collison 14' Pullup Jump Shot (5 PTS) (Oladipo 4 AST),59-53,59,53
 0021800424,2018-12-14,PHI,IND,26.08,3,9,55,PHI,PHI,fg_miss,63,False,False,MISS Embiid 19' Fadeaway Jumper,,59-53,59,53
 0021800424,2018-12-14,PHI,IND,26.13,3,9,52,IND,IND,reb,0,False,False,,Turner REBOUND (Off:0 Def:4),59-53,59,53
@@ -265,8 +265,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800424,2018-12-14,PHI,IND,26.35,3,9,39,IND,PHI,foul,3,False,False,Chandler L.B.FOUL (P4.T2) (D.Richardson),,59-53,59,53
 0021800424,2018-12-14,PHI,IND,26.52,3,9,29,IND,PHI,foul,1,False,False,Korkmaz P.FOUL (P3.T3) (D.Richardson),,59-53,59,53
 0021800424,2018-12-14,PHI,IND,26.6,3,9,24,IND,IND,fg_miss,6,True,False,,MISS Oladipo 7' Driving Layup,59-53,59,53
-0021800424,2018-12-14,PHI,IND,26.6,3,9,24,PHI,PHI,reb,0,False,False,76ERS Rebound,,59-53,59,53
 0021800424,2018-12-14,PHI,IND,26.6,3,9,24,IND,PHI,block,6,True,False,block,block,59-53,59,53
+0021800424,2018-12-14,PHI,IND,26.6,3,9,24,PHI,PHI,reb,0,False,False,76ERS Rebound,,59-53,59,53
 0021800424,2018-12-14,PHI,IND,26.88,3,9,7,PHI,PHI,fg_make,9,False,False,Embiid 1' Driving Dunk (30 PTS),,61-53,61,53
 0021800424,2018-12-14,PHI,IND,27.02,3,8,59,IND,PHI,foul,2,False,False,McConnell S.FOUL (P1.T4) (K.Lane),,61-53,61,53
 0021800424,2018-12-14,PHI,IND,27.02,3,8,59,IND,IND,ft_make,11,False,False,,Oladipo Free Throw 1 of 2 (5 PTS),61-54,61,54
@@ -281,8 +281,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800424,2018-12-14,PHI,IND,27.73,3,8,16,PHI,PHI,ft_make,12,False,False,Redick Free Throw 2 of 2 (11 PTS),,63-58,63,58
 0021800424,2018-12-14,PHI,IND,28.05,3,7,57,IND,IND,fg3_make,1,False,False,,Turner 3PT Jump Shot (8 PTS) (Oladipo 5 AST),63-61,63,61
 0021800424,2018-12-14,PHI,IND,28.43,3,7,34,PHI,PHI,fg_miss,75,True,False,MISS Korkmaz 4' Driving Finger Roll Layup,,63-61,63,61
-0021800424,2018-12-14,PHI,IND,28.43,3,7,34,PHI,PHI,reb,0,False,False,76ERS Rebound,,63-61,63,61
 0021800424,2018-12-14,PHI,IND,28.43,3,7,34,PHI,IND,block,75,True,False,block,block,63-61,63,61
+0021800424,2018-12-14,PHI,IND,28.43,3,7,34,PHI,PHI,reb,0,False,False,76ERS Rebound,,63-61,63,61
 0021800424,2018-12-14,PHI,IND,28.65,3,7,21,PHI,PHI,fg3_miss,1,False,False,MISS Korkmaz 28' 3PT Jump Shot,,63-61,63,61
 0021800424,2018-12-14,PHI,IND,28.67,3,7,20,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:6 Def:11),,63-61,63,61
 0021800424,2018-12-14,PHI,IND,28.7,3,7,18,PHI,PHI,tov,4,False,False,Embiid Traveling Turnover (P4.T9),,63-61,63,61
@@ -313,8 +313,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800424,2018-12-14,PHI,IND,32.18,3,3,49,PHI,PHI,fg3_make,1,False,False,Redick 28' 3PT Jump Shot (14 PTS) (Shamet 1 AST),,72-69,72,69
 0021800424,2018-12-14,PHI,IND,32.32,3,3,41,IND,IND,timeout,1,False,False,,Pacers Timeout: Regular (Reg.3 Short 0),72-69,72,69
 0021800424,2018-12-14,PHI,IND,32.35,3,3,39,IND,IND,tov,1,False,True,,Joseph Bad Pass Turnover (P1.T5),72-69,72,69
-0021800424,2018-12-14,PHI,IND,32.35,3,3,39,PHI,IND,foul,3,False,False,,Turner L.B.FOUL (P4.T3) (K.Lane),72-69,72,69
 0021800424,2018-12-14,PHI,IND,32.35,3,3,39,IND,PHI,steal,1,False,True,steal,steal,72-69,72,69
+0021800424,2018-12-14,PHI,IND,32.35,3,3,39,PHI,IND,foul,3,False,False,,Turner L.B.FOUL (P4.T3) (K.Lane),72-69,72,69
 0021800424,2018-12-14,PHI,IND,32.52,3,3,29,PHI,PHI,fg_miss,57,False,False,MISS Simmons 5' Driving Hook Shot,,72-69,72,69
 0021800424,2018-12-14,PHI,IND,32.53,3,3,28,PHI,PHI,reb,0,False,False,Embiid REBOUND (Off:7 Def:11),,72-69,72,69
 0021800424,2018-12-14,PHI,IND,32.57,3,3,26,PHI,PHI,fg_make,72,False,False,Embiid 2' Putback Layup (32 PTS),,74-69,74,69

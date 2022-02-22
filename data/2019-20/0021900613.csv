@@ -48,8 +48,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900613,2020-01-15,LAL,ORL,5.62,1,6,23,LAL,LAL,tov,1,False,True,James Bad Pass Turnover (P1.T1),,12-18,12,18
 0021900613,2020-01-15,LAL,ORL,5.62,1,6,23,LAL,ORL,steal,1,False,True,steal,steal,12-18,12,18
 0021900613,2020-01-15,LAL,ORL,5.67,1,6,20,ORL,ORL,fg_miss,41,True,False,,MISS Fultz 4' Running Layup,12-18,12,18
-0021900613,2020-01-15,LAL,ORL,5.67,1,6,20,ORL,ORL,reb,0,False,False,,Magic Rebound,12-18,12,18
 0021900613,2020-01-15,LAL,ORL,5.67,1,6,20,ORL,LAL,block,41,True,False,block,block,12-18,12,18
+0021900613,2020-01-15,LAL,ORL,5.67,1,6,20,ORL,ORL,reb,0,False,False,,Magic Rebound,12-18,12,18
 0021900613,2020-01-15,LAL,ORL,5.75,1,6,15,ORL,ORL,fg_miss,58,False,False,,MISS Birch 9' Turnaround Hook Shot,12-18,12,18
 0021900613,2020-01-15,LAL,ORL,5.8,1,6,12,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:0 Def:1),,12-18,12,18
 0021900613,2020-01-15,LAL,ORL,6.1,1,5,54,LAL,LAL,fg_miss,6,False,False,MISS Green 3' Driving Layup,,12-18,12,18
@@ -137,8 +137,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900613,2020-01-15,LAL,ORL,13.32,2,10,41,ORL,LAL,foul,11,False,False,Cook T.FOUL (P1.T0) (J.Van Duyne),,29-43,29,43
 0021900613,2020-01-15,LAL,ORL,13.32,2,10,41,ORL,ORL,ft_make,16,False,False,,Ross Free Throw Technical (6 PTS),29-44,29,44
 0021900613,2020-01-15,LAL,ORL,13.4,2,10,36,LAL,LAL,tov,2,False,True,James Lost Ball Turnover (P2.T6),,29-44,29,44
-0021900613,2020-01-15,LAL,ORL,13.4,2,10,36,ORL,LAL,foul,28,False,False,Caldwell-Pope Personal Take Foul (P2.T1) (K.Scott),,29-44,29,44
 0021900613,2020-01-15,LAL,ORL,13.4,2,10,36,LAL,ORL,steal,2,False,True,steal,steal,29-44,29,44
+0021900613,2020-01-15,LAL,ORL,13.4,2,10,36,ORL,LAL,foul,28,False,False,Caldwell-Pope Personal Take Foul (P2.T1) (K.Scott),,29-44,29,44
 0021900613,2020-01-15,LAL,ORL,13.75,2,10,15,ORL,ORL,fg_miss,86,False,False,,MISS Gordon 8' Turnaround Fadeaway Shot,29-44,29,44
 0021900613,2020-01-15,LAL,ORL,13.75,2,10,15,ORL,ORL,reb,0,False,False,,Bamba REBOUND (Off:3 Def:2),29-44,29,44
 0021900613,2020-01-15,LAL,ORL,13.87,2,10,8,ORL,ORL,fg_make,72,False,False,,Bamba 1' Putback Layup (4 PTS),29-46,29,46
@@ -227,8 +227,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900613,2020-01-15,LAL,ORL,23.37,2,0,38,LAL,LAL,tov,1,False,True,James Bad Pass Turnover (P3.T10),,54-65,54,65
 0021900613,2020-01-15,LAL,ORL,23.37,2,0,38,LAL,ORL,steal,1,False,True,steal,steal,54-65,54,65
 0021900613,2020-01-15,LAL,ORL,23.48,2,0,31,ORL,ORL,fg_miss,9,True,False,,MISS Ross 4' Driving Dunk,54-65,54,65
-0021900613,2020-01-15,LAL,ORL,23.48,2,0,31,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:1 Def:5),,54-65,54,65
 0021900613,2020-01-15,LAL,ORL,23.48,2,0,31,ORL,LAL,block,9,True,False,block,block,54-65,54,65
+0021900613,2020-01-15,LAL,ORL,23.48,2,0,31,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:1 Def:5),,54-65,54,65
 0021900613,2020-01-15,LAL,ORL,23.7,2,0,18,LAL,LAL,fg3_make,1,False,False,Daniels 26' 3PT Jump Shot (5 PTS) (James 8 AST),,57-65,57,65
 0021900613,2020-01-15,LAL,ORL,23.7,2,0,18,LAL,ORL,foul,2,False,False,,Iwundu S.FOUL (P1.PN) (K.Scott),57-65,57,65
 0021900613,2020-01-15,LAL,ORL,23.7,2,0,18,LAL,LAL,ft_make,10,False,False,Daniels Free Throw 1 of 1 (6 PTS),,58-65,58,65
@@ -421,11 +421,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900613,2020-01-15,LAL,ORL,45.1,4,2,54,ORL,ORL,tov,2,False,True,,Vucevic Lost Ball Turnover (P1.T12),106-105,106,105
 0021900613,2020-01-15,LAL,ORL,45.1,4,2,54,ORL,LAL,steal,2,False,True,steal,steal,106-105,106,105
 0021900613,2020-01-15,LAL,ORL,45.5,4,2,30,LAL,LAL,tov,1,False,True,James Bad Pass Turnover (P5.T16),,106-105,106,105
+0021900613,2020-01-15,LAL,ORL,45.5,4,2,30,LAL,ORL,steal,1,False,True,steal,steal,106-105,106,105
 0021900613,2020-01-15,LAL,ORL,45.5,4,2,30,ORL,LAL,foul,2,False,False,Caldwell-Pope S.FOUL (P4.T4) (J.Van Duyne),,106-105,106,105
 0021900613,2020-01-15,LAL,ORL,45.5,4,2,30,ORL,ORL,timeout,1,False,False,,Magic Timeout: Regular (Reg.5 Short 0),106-105,106,105
 0021900613,2020-01-15,LAL,ORL,45.5,4,2,30,ORL,ORL,ft_miss,11,False,False,,MISS Iwundu Free Throw 1 of 2,106-105,106,105
 0021900613,2020-01-15,LAL,ORL,45.5,4,2,30,ORL,ORL,reb,1,False,False,,Magic Rebound,106-105,106,105
-0021900613,2020-01-15,LAL,ORL,45.5,4,2,30,LAL,ORL,steal,1,False,True,steal,steal,106-105,106,105
 0021900613,2020-01-15,LAL,ORL,45.5,4,2,30,ORL,ORL,ft_make,12,False,False,,Iwundu Free Throw 2 of 2 (19 PTS),106-106,106,106
 0021900613,2020-01-15,LAL,ORL,45.73,4,2,16,LAL,LAL,fg3_miss,1,False,False,MISS Caldwell-Pope 3PT Jump Shot,,106-106,106,106
 0021900613,2020-01-15,LAL,ORL,45.82,4,2,11,ORL,ORL,reb,0,False,False,,Gordon REBOUND (Off:1 Def:5),106-106,106,106

@@ -69,8 +69,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800610,2019-01-09,HOU,MIL,8.0,1,4,0,MIL,HOU,foul,26,False,False,Harden Offensive Charge Foul (P1.T4) (T.Washington),,16-21,16,21
 0021800610,2019-01-09,HOU,MIL,8.0,1,4,0,HOU,HOU,tov,37,False,False,Harden Offensive Foul Turnover (P1.T2),,16-21,16,21
 0021800610,2019-01-09,HOU,MIL,8.27,1,3,44,MIL,MIL,fg_miss,63,False,False,,MISS Middleton 17' Fadeaway Jumper,16-21,16,21
-0021800610,2019-01-09,HOU,MIL,8.28,1,3,43,MIL,MIL,fg_miss,97,False,False,,MISS Maker 1' Tip Layup Shot,16-21,16,21
 0021800610,2019-01-09,HOU,MIL,8.28,1,3,43,MIL,MIL,reb,0,False,False,,Maker REBOUND (Off:1 Def:0),16-21,16,21
+0021800610,2019-01-09,HOU,MIL,8.28,1,3,43,MIL,MIL,fg_miss,97,False,False,,MISS Maker 1' Tip Layup Shot,16-21,16,21
 0021800610,2019-01-09,HOU,MIL,8.32,1,3,41,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,16-21,16,21
 0021800610,2019-01-09,HOU,MIL,8.53,1,3,28,HOU,HOU,fg_miss,6,False,False,MISS Harden 2' Driving Layup,,16-21,16,21
 0021800610,2019-01-09,HOU,MIL,8.55,1,3,27,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:2 Def:1),,16-21,16,21
@@ -162,8 +162,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800610,2019-01-09,HOU,MIL,18.7,2,5,18,MIL,HOU,foul,2,False,False,House Jr. S.FOUL (P1.T1) (B.Taylor),,41-36,41,36
 0021800610,2019-01-09,HOU,MIL,18.7,2,5,18,MIL,MIL,ft_miss,11,False,False,,MISS Antetokounmpo Free Throw 1 of 2,41-36,41,36
 0021800610,2019-01-09,HOU,MIL,18.7,2,5,18,MIL,MIL,reb,1,False,False,,Bucks Rebound,41-36,41,36
-0021800610,2019-01-09,HOU,MIL,18.7,2,5,18,MIL,HOU,violation,3,False,False,Lane,,41-36,41,36
 0021800610,2019-01-09,HOU,MIL,18.7,2,5,18,MIL,MIL,ft_make,12,False,False,,Antetokounmpo Free Throw 2 of 2 (3 PTS),41-37,41,37
+0021800610,2019-01-09,HOU,MIL,18.7,2,5,18,MIL,HOU,violation,3,False,False,Lane,,41-36,41,36
 0021800610,2019-01-09,HOU,MIL,18.9,2,5,6,HOU,HOU,fg3_miss,1,False,False,MISS Green 3PT Jump Shot,,41-37,41,37
 0021800610,2019-01-09,HOU,MIL,18.92,2,5,5,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:9),41-37,41,37
 0021800610,2019-01-09,HOU,MIL,19.05,2,4,57,MIL,MIL,fg3_miss,1,False,False,,MISS Lopez 28' 3PT Jump Shot,41-37,41,37
@@ -242,9 +242,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800610,2019-01-09,HOU,MIL,25.58,3,10,25,HOU,HOU,tov,40,False,False,Harden Out of Bounds Lost Ball Turnover (P4.T10),,63-60,63,60
 0021800610,2019-01-09,HOU,MIL,25.75,3,10,15,MIL,MIL,fg_make,6,False,False,,Bledsoe 1' Driving Layup (8 PTS),63-62,63,62
 0021800610,2019-01-09,HOU,MIL,25.95,3,10,3,HOU,HOU,fg_miss,98,True,False,MISS Capela 3' Cutting Layup Shot,,63-62,63,62
+0021800610,2019-01-09,HOU,MIL,25.95,3,10,3,HOU,MIL,block,98,True,False,block,block,63-62,63,62
 0021800610,2019-01-09,HOU,MIL,25.95,3,10,3,,HOU,jump_ball,0,False,False,Jump Ball Capela vs. Bledsoe: Tip to Lopez,,63-62,63,62
 0021800610,2019-01-09,HOU,MIL,25.95,3,10,3,MIL,MIL,reb,0,False,False,,Bucks Rebound,63-62,63,62
-0021800610,2019-01-09,HOU,MIL,25.95,3,10,3,HOU,MIL,block,98,True,False,block,block,63-62,63,62
 0021800610,2019-01-09,HOU,MIL,26.13,3,9,52,MIL,HOU,foul,2,False,False,Harden S.FOUL (P2.T1) (B.Taylor),,63-62,63,62
 0021800610,2019-01-09,HOU,MIL,26.13,3,9,52,MIL,MIL,ft_make,11,False,False,,Brogdon Free Throw 1 of 2 (15 PTS),63-63,63,63
 0021800610,2019-01-09,HOU,MIL,26.13,3,9,52,MIL,MIL,ft_make,12,False,False,,Brogdon Free Throw 2 of 2 (16 PTS),63-64,63,64
@@ -335,10 +335,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800610,2019-01-09,HOU,MIL,35.75,3,0,15,HOU,HOU,fg3_miss,1,False,False,MISS Green 3PT Jump Shot,,83-90,83,90
 0021800610,2019-01-09,HOU,MIL,35.75,3,0,15,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:2 Def:13),83-90,83,90
 0021800610,2019-01-09,HOU,MIL,35.97,3,0,2,MIL,MIL,fg_miss,6,True,False,,MISS Antetokounmpo 2' Driving Layup,83-90,83,90
+0021800610,2019-01-09,HOU,MIL,35.97,3,0,2,MIL,HOU,block,6,True,False,block,block,83-90,83,90
 0021800610,2019-01-09,HOU,MIL,35.97,3,0,2,MIL,MIL,reb,0,False,False,,Bucks Rebound,83-90,83,90
 0021800610,2019-01-09,HOU,MIL,35.97,3,0,2,,HOU,jump_ball,0,False,False,Jump Ball House Jr. vs. Antetokounmpo: Tip to Ilyasova,,83-90,83,90
 0021800610,2019-01-09,HOU,MIL,35.97,3,0,2,MIL,MIL,fg_miss,1,False,False,,MISS Ilyasova 16' Jump Shot,83-90,83,90
-0021800610,2019-01-09,HOU,MIL,35.97,3,0,2,MIL,HOU,block,6,True,False,block,block,83-90,83,90
 0021800610,2019-01-09,HOU,MIL,36.0,3,0,0,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:3 Def:13),83-90,83,90
 0021800610,2019-01-09,HOU,MIL,36.0,3,0,0,MIL,MIL,fg_make,97,False,False,,Antetokounmpo 1' Tip Layup Shot (20 PTS),83-92,83,92
 0021800610,2019-01-09,HOU,MIL,36.0,3,0,0,MIL,,period_end,0,False,False,,,83-92,83,92
@@ -386,12 +386,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800610,2019-01-09,HOU,MIL,40.42,4,7,35,MIL,MIL,fg_make,6,False,False,,Brogdon 1' Driving Layup (20 PTS),88-103,88,103
 0021800610,2019-01-09,HOU,MIL,40.7,4,7,18,HOU,HOU,fg3_make,1,False,False,Green 26' 3PT Jump Shot (13 PTS) (Harden 6 AST),,91-103,91,103
 0021800610,2019-01-09,HOU,MIL,40.88,4,7,7,MIL,MIL,fg_miss,105,False,False,,MISS Middleton 6' Turnaround Fadeaway Bank Jump Shot,91-103,91,103
-0021800610,2019-01-09,HOU,MIL,40.9,4,7,6,MIL,MIL,fg_miss,97,False,False,,MISS Ilyasova 1' Tip Layup Shot,91-103,91,103
 0021800610,2019-01-09,HOU,MIL,40.9,4,7,6,MIL,MIL,reb,0,False,False,,Ilyasova REBOUND (Off:2 Def:5),91-103,91,103
+0021800610,2019-01-09,HOU,MIL,40.9,4,7,6,MIL,MIL,fg_miss,97,False,False,,MISS Ilyasova 1' Tip Layup Shot,91-103,91,103
 0021800610,2019-01-09,HOU,MIL,40.92,4,7,5,MIL,MIL,reb,0,False,False,,Ilyasova REBOUND (Off:1 Def:5),91-103,91,103
 0021800610,2019-01-09,HOU,MIL,40.95,4,7,3,MIL,MIL,fg_miss,5,True,False,,MISS Ilyasova 1' Layup,91-103,91,103
-0021800610,2019-01-09,HOU,MIL,40.95,4,7,3,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:0 Def:8),,91-103,91,103
 0021800610,2019-01-09,HOU,MIL,40.95,4,7,3,MIL,HOU,block,5,True,False,block,block,91-103,91,103
+0021800610,2019-01-09,HOU,MIL,40.95,4,7,3,HOU,HOU,reb,0,False,False,Harden REBOUND (Off:0 Def:8),,91-103,91,103
 0021800610,2019-01-09,HOU,MIL,41.1,4,6,54,HOU,HOU,fg3_miss,1,False,False,MISS Rivers 3PT Jump Shot,,91-103,91,103
 0021800610,2019-01-09,HOU,MIL,41.1,4,6,54,HOU,HOU,reb,0,False,False,Capela REBOUND (Off:6 Def:5),,91-103,91,103
 0021800610,2019-01-09,HOU,MIL,41.2,4,6,48,HOU,MIL,foul,1,False,False,,Brogdon P.FOUL (P2.T2) (R.Acosta),91-103,91,103

@@ -47,8 +47,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900557,2020-01-08,ORL,WAS,4.63,1,7,22,WAS,WAS,fg_miss,2,False,False,,MISS McRae 7' Running Jump Shot,12-7,12,7
 0021900557,2020-01-08,ORL,WAS,4.68,1,7,19,ORL,ORL,reb,0,False,False,Fultz REBOUND (Off:0 Def:2),,12-7,12,7
 0021900557,2020-01-08,ORL,WAS,4.7,1,7,18,ORL,ORL,tov,1,False,True,Fultz Bad Pass Turnover (P3.T3),,12-7,12,7
-0021900557,2020-01-08,ORL,WAS,4.7,1,7,18,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.1 Short 0),12-7,12,7
 0021900557,2020-01-08,ORL,WAS,4.7,1,7,18,ORL,WAS,steal,1,False,True,steal,steal,12-7,12,7
+0021900557,2020-01-08,ORL,WAS,4.7,1,7,18,WAS,WAS,timeout,1,False,False,,Wizards Timeout: Regular (Reg.1 Short 0),12-7,12,7
 0021900557,2020-01-08,ORL,WAS,4.77,1,7,14,WAS,WAS,fg_miss,101,False,False,,MISS Thomas 12' Driving Floating Jump Shot,12-7,12,7
 0021900557,2020-01-08,ORL,WAS,4.8,1,7,12,WAS,WAS,reb,0,False,False,,Thomas REBOUND (Off:1 Def:0),12-7,12,7
 0021900557,2020-01-08,ORL,WAS,5.03,1,6,58,WAS,WAS,fg_make,79,False,False,,McRae 18' Pullup Jump Shot (2 PTS),12-9,12,9
@@ -89,10 +89,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900557,2020-01-08,ORL,WAS,9.1,1,2,54,WAS,WAS,fg_make,5,False,False,,Schofield 3' Layup (6 PTS) (Brown Jr. 1 AST),27-21,27,21
 0021900557,2020-01-08,ORL,WAS,9.1,1,2,54,WAS,ORL,violation,2,False,False,Bamba Violation:Defensive Goaltending (M.Ervin),,27-21,27,21
 0021900557,2020-01-08,ORL,WAS,9.28,1,2,43,ORL,ORL,tov,1,False,True,Ross Bad Pass Turnover (P1.T4),,27-21,27,21
+0021900557,2020-01-08,ORL,WAS,9.28,1,2,43,ORL,WAS,steal,1,False,True,steal,steal,27-21,27,21
 0021900557,2020-01-08,ORL,WAS,9.28,1,2,43,WAS,ORL,foul,9,False,False,Iwundu C.P.FOUL (P1.PN) (K.Scott),,27-21,27,21
 0021900557,2020-01-08,ORL,WAS,9.28,1,2,43,WAS,WAS,ft_miss,25,False,False,,MISS McRae Free Throw Clear Path 1 of 2,27-21,27,21
 0021900557,2020-01-08,ORL,WAS,9.28,1,2,43,WAS,WAS,reb,1,False,False,,Wizards Rebound,27-21,27,21
-0021900557,2020-01-08,ORL,WAS,9.28,1,2,43,ORL,WAS,steal,1,False,True,steal,steal,27-21,27,21
 0021900557,2020-01-08,ORL,WAS,9.28,1,2,43,WAS,WAS,ft_make,26,False,False,,McRae Free Throw Clear Path 2 of 2 (7 PTS),27-22,27,22
 0021900557,2020-01-08,ORL,WAS,9.52,1,2,29,WAS,WAS,fg_miss,79,False,False,,MISS Smith 17' Pullup Jump Shot,27-22,27,22
 0021900557,2020-01-08,ORL,WAS,9.57,1,2,26,WAS,WAS,reb,0,False,False,,Pasecniks REBOUND (Off:1 Def:1),27-22,27,22
@@ -212,8 +212,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900557,2020-01-08,ORL,WAS,22.37,2,1,38,WAS,WAS,fg_make,79,False,False,,McRae 16' Pullup Jump Shot (9 PTS),61-52,61,52
 0021900557,2020-01-08,ORL,WAS,22.72,2,1,17,ORL,ORL,fg_make,78,False,False,Vucevic 6' Floating Jump Shot (11 PTS) (Fournier 2 AST),,63-52,63,52
 0021900557,2020-01-08,ORL,WAS,22.82,2,1,11,WAS,WAS,tov,2,False,True,,Thomas Lost Ball Turnover (P1.T8),63-52,63,52
-0021900557,2020-01-08,ORL,WAS,22.82,2,1,11,ORL,WAS,foul,1,False,False,,Thomas P.FOUL (P2.PN) (M.Smith),63-52,63,52
 0021900557,2020-01-08,ORL,WAS,22.82,2,1,11,WAS,ORL,steal,2,False,True,steal,steal,63-52,63,52
+0021900557,2020-01-08,ORL,WAS,22.82,2,1,11,ORL,WAS,foul,1,False,False,,Thomas P.FOUL (P2.PN) (M.Smith),63-52,63,52
 0021900557,2020-01-08,ORL,WAS,22.82,2,1,11,ORL,ORL,ft_make,11,False,False,Ross Free Throw 1 of 2 (6 PTS),,64-52,64,52
 0021900557,2020-01-08,ORL,WAS,22.82,2,1,11,ORL,ORL,ft_make,12,False,False,Ross Free Throw 2 of 2 (7 PTS),,65-52,65,52
 0021900557,2020-01-08,ORL,WAS,23.0,2,1,0,WAS,WAS,fg3_miss,1,False,False,,MISS Brown Jr. 25' 3PT Jump Shot,65-52,65,52
@@ -230,8 +230,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900557,2020-01-08,ORL,WAS,24.33,3,11,40,WAS,WAS,fg_miss,44,False,False,,MISS Mahinmi 3' Reverse Layup,69-52,69,52
 0021900557,2020-01-08,ORL,WAS,24.37,3,11,38,ORL,ORL,reb,0,False,False,Gordon REBOUND (Off:1 Def:4),,69-52,69,52
 0021900557,2020-01-08,ORL,WAS,24.65,3,11,21,ORL,ORL,fg3_miss,1,True,False,MISS Fournier 3PT Jump Shot,,69-52,69,52
-0021900557,2020-01-08,ORL,WAS,24.65,3,11,21,ORL,ORL,reb,0,False,False,MAGIC Rebound,,69-52,69,52
 0021900557,2020-01-08,ORL,WAS,24.65,3,11,21,ORL,WAS,block,1,True,False,block,block,69-52,69,52
+0021900557,2020-01-08,ORL,WAS,24.65,3,11,21,ORL,ORL,reb,0,False,False,MAGIC Rebound,,69-52,69,52
 0021900557,2020-01-08,ORL,WAS,24.73,3,11,16,ORL,ORL,fg3_make,1,False,False,Vucevic 24' 3PT Jump Shot (16 PTS) (Fournier 3 AST),,72-52,72,52
 0021900557,2020-01-08,ORL,WAS,25.08,3,10,55,WAS,WAS,fg_make,44,False,False,,Payton II 2' Reverse Layup (2 PTS) (McRae 2 AST),72-54,72,54
 0021900557,2020-01-08,ORL,WAS,25.45,3,10,33,ORL,ORL,fg_miss,5,False,False,MISS Fultz 3' Layup,,72-54,72,54
@@ -436,10 +436,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900557,2020-01-08,ORL,WAS,44.67,4,3,20,WAS,WAS,fg_make,5,False,False,,Pasecniks 3' Layup (16 PTS) (Payton II 3 AST),114-87,114,87
 0021900557,2020-01-08,ORL,WAS,44.95,4,3,3,ORL,ORL,fg_miss,98,False,False,MISS Jefferson 3' Cutting Layup Shot,,114-87,114,87
 0021900557,2020-01-08,ORL,WAS,44.98,4,3,1,WAS,WAS,reb,0,False,False,,Payton II REBOUND (Off:2 Def:2),114-87,114,87
-0021900557,2020-01-08,ORL,WAS,45.02,4,2,59,WAS,,foul,10,False,False,,,114-87,114,87
 0021900557,2020-01-08,ORL,WAS,45.02,4,2,59,,ORL,jump_ball,0,False,False,Jump Ball Bamba vs. Pasecniks: Tip to Magette,,114-87,114,87
 0021900557,2020-01-08,ORL,WAS,45.02,4,2,59,WAS,WAS,tov,2,False,True,,Pasecniks Lost Ball Turnover (P2.T19),114-87,114,87
 0021900557,2020-01-08,ORL,WAS,45.02,4,2,59,WAS,ORL,steal,2,False,True,steal,steal,114-87,114,87
+0021900557,2020-01-08,ORL,WAS,45.02,4,2,59,WAS,,foul,10,False,False,,,114-87,114,87
 0021900557,2020-01-08,ORL,WAS,45.08,4,2,55,ORL,ORL,fg3_miss,1,False,False,MISS Magette 27' 3PT Jump Shot,,114-87,114,87
 0021900557,2020-01-08,ORL,WAS,45.13,4,2,52,ORL,ORL,reb,0,False,False,Jefferson REBOUND (Off:1 Def:1),,114-87,114,87
 0021900557,2020-01-08,ORL,WAS,45.35,4,2,39,ORL,ORL,tov,45,False,False,Magette Out of Bounds - Bad Pass Turnover Turnover (P1.T16),,114-87,114,87

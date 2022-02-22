@@ -110,8 +110,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000628,2021-03-18,PHX,MIN,12.0,1,0,0,PHX,,period_end,0,False,False,,,25-25,25,25
 0022000628,2021-03-18,PHX,MIN,12.0,2,12,0,PHX,,period_start,0,False,False,,,25-25,25,25
 0022000628,2021-03-18,PHX,MIN,12.22,2,11,47,PHX,PHX,fg_miss,78,False,False,MISS Saric 6' Floating Jump Shot,,25-25,25,25
-0022000628,2021-03-18,PHX,MIN,12.3,2,11,42,PHX,PHX,fg_make,97,False,False,Saric Tip Layup Shot (5 PTS),,27-25,27,25
 0022000628,2021-03-18,PHX,MIN,12.3,2,11,42,PHX,PHX,reb,0,False,False,Saric REBOUND (Off:2 Def:1),,27-25,27,25
+0022000628,2021-03-18,PHX,MIN,12.3,2,11,42,PHX,PHX,fg_make,97,False,False,Saric Tip Layup Shot (5 PTS),,27-25,27,25
 0022000628,2021-03-18,PHX,MIN,12.63,2,11,22,MIN,MIN,fg3_miss,1,False,False,,MISS McDaniels 24' 3PT Jump Shot,27-25,27,25
 0022000628,2021-03-18,PHX,MIN,12.67,2,11,20,PHX,PHX,reb,0,False,False,Saric REBOUND (Off:2 Def:2),,27-25,27,25
 0022000628,2021-03-18,PHX,MIN,12.98,2,11,1,PHX,PHX,fg_make,80,False,False,Paul 19' Step Back Jump Shot (4 PTS),,29-25,29,25
@@ -149,9 +149,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000628,2021-03-18,PHX,MIN,16.88,2,7,7,MIN,MIN,fg3_miss,1,False,False,,MISS Hernangomez 3PT Jump Shot,39-35,39,35
 0022000628,2021-03-18,PHX,MIN,16.95,2,7,3,PHX,PHX,reb,0,False,False,Bridges REBOUND (Off:0 Def:3),,39-35,39,35
 0022000628,2021-03-18,PHX,MIN,17.18,2,6,49,PHX,PHX,fg_miss,6,False,False,MISS Bridges 7' Driving Layup,,39-35,39,35
+0022000628,2021-03-18,PHX,MIN,17.28,2,6,43,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:1 Def:2),,39-35,39,35
 0022000628,2021-03-18,PHX,MIN,17.28,2,6,43,PHX,PHX,fg_miss,97,False,False,MISS Ayton Tip Layup Shot,,39-35,39,35
 0022000628,2021-03-18,PHX,MIN,17.28,2,6,43,MIN,MIN,reb,0,False,False,,Nowell REBOUND (Off:0 Def:2),39-35,39,35
-0022000628,2021-03-18,PHX,MIN,17.28,2,6,43,PHX,PHX,reb,0,False,False,Ayton REBOUND (Off:1 Def:2),,39-35,39,35
 0022000628,2021-03-18,PHX,MIN,17.48,2,6,31,MIN,MIN,fg3_make,1,False,False,,Edwards 24' 3PT Jump Shot (18 PTS) (Reid 1 AST),39-38,39,38
 0022000628,2021-03-18,PHX,MIN,17.88,2,6,7,PHX,PHX,fg_make,75,False,False,Galloway 6' Driving Finger Roll Layup (5 PTS) (Paul 2 AST),,41-38,41,38
 0022000628,2021-03-18,PHX,MIN,18.13,2,5,52,MIN,MIN,fg_miss,98,False,False,,MISS Hernangomez 2' Cutting Layup Shot,41-38,41,38
@@ -289,8 +289,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000628,2021-03-18,PHX,MIN,31.33,3,4,40,MIN,PHX,block,98,True,False,block,block,81-72,81,72
 0022000628,2021-03-18,PHX,MIN,31.38,3,4,37,PHX,PHX,reb,0,False,False,Crowder REBOUND (Off:1 Def:5),,81-72,81,72
 0022000628,2021-03-18,PHX,MIN,31.47,3,4,32,PHX,PHX,fg_miss,6,True,False,MISS Crowder 4' Driving Layup,,81-72,81,72
-0022000628,2021-03-18,PHX,MIN,31.47,3,4,32,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,81-72,81,72
 0022000628,2021-03-18,PHX,MIN,31.47,3,4,32,PHX,MIN,block,6,True,False,block,block,81-72,81,72
+0022000628,2021-03-18,PHX,MIN,31.47,3,4,32,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,81-72,81,72
 0022000628,2021-03-18,PHX,MIN,31.85,3,4,9,MIN,MIN,fg_miss,6,True,False,,MISS Nowell 11' Driving Layup,81-72,81,72
 0022000628,2021-03-18,PHX,MIN,31.85,3,4,9,MIN,PHX,block,6,True,False,block,block,81-72,81,72
 0022000628,2021-03-18,PHX,MIN,31.92,3,4,5,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:2 Def:5),81-72,81,72
@@ -374,8 +374,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000628,2021-03-18,PHX,MIN,38.73,4,9,16,MIN,MIN,fg_miss,80,False,False,,MISS Nowell 19' Step Back Jump Shot,96-88,96,88
 0022000628,2021-03-18,PHX,MIN,38.78,4,9,13,MIN,MIN,reb,0,False,False,,Hernangomez REBOUND (Off:3 Def:0),96-88,96,88
 0022000628,2021-03-18,PHX,MIN,38.82,4,9,11,MIN,MIN,fg_miss,5,True,False,,MISS Hernangomez 3' Layup,96-88,96,88
-0022000628,2021-03-18,PHX,MIN,38.82,4,9,11,MIN,MIN,reb,0,False,False,,Reid REBOUND (Off:1 Def:3),96-88,96,88
 0022000628,2021-03-18,PHX,MIN,38.82,4,9,11,MIN,PHX,block,5,True,False,block,block,96-88,96,88
+0022000628,2021-03-18,PHX,MIN,38.82,4,9,11,MIN,MIN,reb,0,False,False,,Reid REBOUND (Off:1 Def:3),96-88,96,88
 0022000628,2021-03-18,PHX,MIN,38.9,4,9,6,MIN,MIN,fg_make,6,False,False,,Reid 3' Driving Layup (10 PTS),96-90,96,90
 0022000628,2021-03-18,PHX,MIN,38.9,4,9,6,PHX,PHX,timeout,1,False,False,SUNS Timeout: Regular (Full 4 Short 0),,96-90,96,90
 0022000628,2021-03-18,PHX,MIN,39.25,4,8,45,PHX,PHX,fg3_make,1,False,False,Bridges 25' 3PT Jump Shot (14 PTS) (Ayton 1 AST),,99-90,99,90
@@ -420,8 +420,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000628,2021-03-18,PHX,MIN,45.65,4,2,21,PHX,PHX,fg3_miss,1,False,False,MISS Bridges 24' 3PT Jump Shot,,113-115,113,115
 0022000628,2021-03-18,PHX,MIN,45.73,4,2,16,MIN,MIN,reb,0,False,False,,Okogie REBOUND (Off:0 Def:1),113-115,113,115
 0022000628,2021-03-18,PHX,MIN,45.93,4,2,4,MIN,MIN,fg_miss,73,True,False,,MISS Rubio 3' Driving Reverse Layup,113-115,113,115
-0022000628,2021-03-18,PHX,MIN,45.93,4,2,4,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,113-115,113,115
 0022000628,2021-03-18,PHX,MIN,45.93,4,2,4,MIN,PHX,block,73,True,False,block,block,113-115,113,115
+0022000628,2021-03-18,PHX,MIN,45.93,4,2,4,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,113-115,113,115
 0022000628,2021-03-18,PHX,MIN,46.0,4,2,0,MIN,MIN,fg3_miss,1,False,False,,MISS Towns 24' 3PT Jump Shot,113-115,113,115
 0022000628,2021-03-18,PHX,MIN,46.02,4,1,59,PHX,PHX,reb,0,False,False,Paul REBOUND (Off:0 Def:6),,113-115,113,115
 0022000628,2021-03-18,PHX,MIN,46.07,4,1,56,PHX,MIN,foul,2,False,False,,Okogie S.FOUL (P1.T3) (D.Taylor),113-115,113,115

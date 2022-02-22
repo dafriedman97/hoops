@@ -52,8 +52,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800338,2018-12-02,CHA,NOP,6.6,1,5,24,CHA,CHA,timeout,1,False,False,HORNETS Timeout: Regular (Full 2 Short 0),,15-15,15,15
 0021800338,2018-12-02,CHA,NOP,6.9,1,5,6,CHA,CHA,fg3_make,1,False,False,Lamb 27' 3PT Jump Shot (5 PTS) (Parker 1 AST),,18-15,18,15
 0021800338,2018-12-02,CHA,NOP,7.27,1,4,44,NOP,NOP,fg_miss,1,True,False,,MISS Randle 4' Jump Shot,18-15,18,15
-0021800338,2018-12-02,CHA,NOP,7.27,1,4,44,NOP,NOP,reb,0,False,False,,Pelicans Rebound,18-15,18,15
 0021800338,2018-12-02,CHA,NOP,7.27,1,4,44,NOP,CHA,block,1,True,False,block,block,18-15,18,15
+0021800338,2018-12-02,CHA,NOP,7.27,1,4,44,NOP,NOP,reb,0,False,False,,Pelicans Rebound,18-15,18,15
 0021800338,2018-12-02,CHA,NOP,7.32,1,4,41,NOP,NOP,fg_make,1,False,False,,Davis 12' Jump Shot (10 PTS) (Clark 1 AST),18-17,18,17
 0021800338,2018-12-02,CHA,NOP,7.6,1,4,24,CHA,CHA,fg3_make,1,False,False,Bridges 24' 3PT Jump Shot (3 PTS) (Kidd-Gilchrist 1 AST),,21-17,21,17
 0021800338,2018-12-02,CHA,NOP,7.83,1,4,10,NOP,CHA,foul,2,False,False,Kaminsky S.FOUL (P1.T1) (T.Washington),,21-17,21,17
@@ -304,8 +304,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800338,2018-12-02,CHA,NOP,32.65,3,3,21,NOP,NOP,fg_miss,80,False,False,,MISS Holiday 19' Step Back Jump Shot,68-81,68,81
 0021800338,2018-12-02,CHA,NOP,32.68,3,3,19,CHA,CHA,reb,0,False,False,Lamb REBOUND (Off:1 Def:5),,68-81,68,81
 0021800338,2018-12-02,CHA,NOP,32.78,3,3,13,CHA,CHA,tov,1,False,True,Lamb Bad Pass Turnover (P2.T10),,68-81,68,81
-0021800338,2018-12-02,CHA,NOP,32.78,3,3,13,NOP,CHA,foul,28,False,False,Kaminsky Personal Take Foul (P3.T3) (L.Wood),,68-81,68,81
 0021800338,2018-12-02,CHA,NOP,32.78,3,3,13,CHA,NOP,steal,1,False,True,steal,steal,68-81,68,81
+0021800338,2018-12-02,CHA,NOP,32.78,3,3,13,NOP,CHA,foul,28,False,False,Kaminsky Personal Take Foul (P3.T3) (L.Wood),,68-81,68,81
 0021800338,2018-12-02,CHA,NOP,33.03,3,2,58,NOP,NOP,fg3_miss,1,False,False,,MISS Davis 27' 3PT Jump Shot,68-81,68,81
 0021800338,2018-12-02,CHA,NOP,33.07,3,2,56,CHA,CHA,reb,0,False,False,Kidd-Gilchrist REBOUND (Off:0 Def:1),,68-81,68,81
 0021800338,2018-12-02,CHA,NOP,33.22,3,2,47,CHA,CHA,fg3_miss,1,False,False,MISS Walker 26' 3PT Jump Shot,,68-81,68,81
@@ -340,10 +340,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800338,2018-12-02,CHA,NOP,35.58,3,0,25,CHA,CHA,reb,0,False,False,Kaminsky REBOUND (Off:3 Def:1),,75-84,75,84
 0021800338,2018-12-02,CHA,NOP,35.77,3,0,14,CHA,CHA,fg3_miss,1,False,False,MISS Kidd-Gilchrist 24' 3PT Jump Shot,,75-84,75,84
 0021800338,2018-12-02,CHA,NOP,35.8,3,0,12,NOP,NOP,reb,0,False,False,,Randle REBOUND (Off:3 Def:6),75-84,75,84
-0021800338,2018-12-02,CHA,NOP,35.92,3,0,5,NOP,NOP,tov,2,False,False,,Randle Lost Ball Turnover (P4.T15),75-84,75,84
 0021800338,2018-12-02,CHA,NOP,35.92,3,0,5,CHA,NOP,foul,3,False,False,,Randle L.B.FOUL (P4.PN) (T.Washington),75-84,75,84
 0021800338,2018-12-02,CHA,NOP,35.92,3,0,5,CHA,CHA,ft_make,11,False,False,Kidd-Gilchrist Free Throw 1 of 2 (6 PTS),,76-84,76,84
 0021800338,2018-12-02,CHA,NOP,35.92,3,0,5,CHA,CHA,ft_make,12,False,False,Kidd-Gilchrist Free Throw 2 of 2 (7 PTS),,77-84,77,84
+0021800338,2018-12-02,CHA,NOP,35.92,3,0,5,NOP,NOP,tov,2,False,False,,Randle Lost Ball Turnover (P4.T15),75-84,75,84
 0021800338,2018-12-02,CHA,NOP,36.0,3,0,0,NOP,NOP,fg3_make,1,False,False,,Davis 28' 3PT Jump Shot (29 PTS) (Clark 3 AST),77-87,77,87
 0021800338,2018-12-02,CHA,NOP,36.0,3,0,0,NOP,,period_end,0,False,False,,,77-87,77,87
 0021800338,2018-12-02,CHA,NOP,36.0,4,12,0,NOP,,period_start,0,False,False,,,77-87,77,87

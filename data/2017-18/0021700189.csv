@@ -121,8 +121,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700189,2017-11-12,DET,MIA,16.27,2,7,44,MIA,MIA,reb,0,False,False,,Olynyk REBOUND (Off:0 Def:1),38-42,38,42
 0021700189,2017-11-12,DET,MIA,16.35,2,7,39,MIA,DET,foul,1,False,False,Moreland P.FOUL (P2.T3) (T.Ford),,38-42,38,42
 0021700189,2017-11-12,DET,MIA,16.48,2,7,31,MIA,MIA,fg_miss,5,True,False,,MISS Waiters 5' Layup,38-42,38,42
-0021700189,2017-11-12,DET,MIA,16.48,2,7,31,MIA,MIA,reb,0,False,False,,Heat Rebound,38-42,38,42
 0021700189,2017-11-12,DET,MIA,16.48,2,7,31,MIA,DET,block,5,True,False,block,block,38-42,38,42
+0021700189,2017-11-12,DET,MIA,16.48,2,7,31,MIA,MIA,reb,0,False,False,,Heat Rebound,38-42,38,42
 0021700189,2017-11-12,DET,MIA,16.52,2,7,29,MIA,MIA,fg_miss,1,False,False,,MISS Richardson 17' Jump Shot,38-42,38,42
 0021700189,2017-11-12,DET,MIA,16.57,2,7,26,DET,DET,reb,0,False,False,Kennard REBOUND (Off:0 Def:3),,38-42,38,42
 0021700189,2017-11-12,DET,MIA,16.7,2,7,18,DET,DET,fg_miss,5,False,False,MISS Kennard 7' Layup,,38-42,38,42
@@ -242,11 +242,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700189,2017-11-12,DET,MIA,29.6,3,6,24,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.3 Short 0),68-73,68,73
 0021700189,2017-11-12,DET,MIA,29.73,3,6,16,MIA,MIA,fg_make,1,False,False,,Whiteside 18' Jump Shot (12 PTS) (Richardson 2 AST),68-75,68,75
 0021700189,2017-11-12,DET,MIA,30.13,3,5,52,DET,DET,fg_miss,5,True,False,MISS Bullock 4' Layup,,68-75,68,75
+0021700189,2017-11-12,DET,MIA,30.13,3,5,52,DET,MIA,block,5,True,False,block,block,68-75,68,75
 0021700189,2017-11-12,DET,MIA,30.13,3,5,52,DET,DET,reb,0,False,False,Bullock REBOUND (Off:1 Def:2),,68-75,68,75
 0021700189,2017-11-12,DET,MIA,30.13,3,5,52,DET,DET,fg_miss,5,False,False,MISS Bullock 2' Layup,,68-75,68,75
 0021700189,2017-11-12,DET,MIA,30.13,3,5,52,MIA,MIA,reb,0,False,False,,Heat Rebound,68-75,68,75
 0021700189,2017-11-12,DET,MIA,30.13,3,5,52,MIA,DET,foul,1,False,False,Drummond P.FOUL (P2.T1) (T.Ford),,68-75,68,75
-0021700189,2017-11-12,DET,MIA,30.13,3,5,52,DET,MIA,block,5,True,False,block,block,68-75,68,75
 0021700189,2017-11-12,DET,MIA,30.33,3,5,40,MIA,MIA,fg_miss,1,False,False,,MISS Winslow 22' Jump Shot,68-75,68,75
 0021700189,2017-11-12,DET,MIA,30.4,3,5,36,DET,DET,reb,0,False,False,Bradley REBOUND (Off:1 Def:1),,68-75,68,75
 0021700189,2017-11-12,DET,MIA,30.47,3,5,32,DET,DET,tov,1,False,True,Bradley Bad Pass Turnover (P3.T7),,68-75,68,75
@@ -267,8 +267,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700189,2017-11-12,DET,MIA,31.8,3,4,12,MIA,MIA,fg3_miss,1,False,False,,MISS Waiters 27' 3PT Jump Shot,73-75,73,75
 0021700189,2017-11-12,DET,MIA,31.8,3,4,12,DET,DET,reb,0,False,False,Jackson REBOUND (Off:0 Def:2),,73-75,73,75
 0021700189,2017-11-12,DET,MIA,31.95,3,4,3,DET,DET,tov,1,False,True,Jackson Bad Pass Turnover (P2.T8),,73-75,73,75
-0021700189,2017-11-12,DET,MIA,31.95,3,4,3,MIA,DET,foul,1,False,False,Jackson P.FOUL (P2.T2) (J.Orr),,73-75,73,75
 0021700189,2017-11-12,DET,MIA,31.95,3,4,3,DET,MIA,steal,1,False,True,steal,steal,73-75,73,75
+0021700189,2017-11-12,DET,MIA,31.95,3,4,3,MIA,DET,foul,1,False,False,Jackson P.FOUL (P2.T2) (J.Orr),,73-75,73,75
 0021700189,2017-11-12,DET,MIA,32.2,3,3,48,MIA,DET,foul,1,False,False,Drummond P.FOUL (P3.T3) (S.Wright),,73-75,73,75
 0021700189,2017-11-12,DET,MIA,32.22,3,3,47,MIA,MIA,fg_miss,5,False,False,,MISS Whiteside 4' Layup,73-75,73,75
 0021700189,2017-11-12,DET,MIA,32.22,3,3,47,MIA,MIA,reb,0,False,False,,Heat Rebound,73-75,73,75
@@ -407,8 +407,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700189,2017-11-12,DET,MIA,47.0,4,1,0,MIA,MIA,fg_miss,80,False,False,,MISS Richardson 10' Step Back Jump Shot,109-102,109,102
 0021700189,2017-11-12,DET,MIA,47.03,4,0,58,DET,DET,reb,0,False,False,Jackson REBOUND (Off:0 Def:4),,109-102,109,102
 0021700189,2017-11-12,DET,MIA,47.27,4,0,44,DET,DET,fg_miss,5,True,False,MISS Jackson 2' Layup,,109-102,109,102
-0021700189,2017-11-12,DET,MIA,47.27,4,0,44,DET,DET,reb,0,False,False,Bradley REBOUND (Off:2 Def:4),,109-102,109,102
 0021700189,2017-11-12,DET,MIA,47.27,4,0,44,DET,MIA,block,5,True,False,block,block,109-102,109,102
+0021700189,2017-11-12,DET,MIA,47.27,4,0,44,DET,DET,reb,0,False,False,Bradley REBOUND (Off:2 Def:4),,109-102,109,102
 0021700189,2017-11-12,DET,MIA,47.27,4,0,44,DET,DET,fg_make,5,False,False,Bradley 3' Layup (23 PTS),,111-102,111,102
 0021700189,2017-11-12,DET,MIA,47.27,4,0,44,DET,MIA,foul,2,False,False,,Johnson S.FOUL (P3.PN) (S.Wright),111-102,111,102
 0021700189,2017-11-12,DET,MIA,47.27,4,0,44,DET,DET,ft_make,10,False,False,Bradley Free Throw 1 of 1 (24 PTS),,112-102,112,102

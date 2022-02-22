@@ -117,8 +117,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000345,2021-02-05,BKN,TOR,12.72,2,11,17,BKN,BKN,fg3_miss,1,False,False,MISS Shamet 25' 3PT Jump Shot,,23-37,23,37
 0022000345,2021-02-05,BKN,TOR,12.78,2,11,13,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:1 Def:1),,23-37,23,37
 0022000345,2021-02-05,BKN,TOR,12.82,2,11,11,BKN,BKN,fg_miss,44,True,False,MISS Shamet 2' Reverse Layup,,23-37,23,37
-0022000345,2021-02-05,BKN,TOR,12.82,2,11,11,BKN,BKN,reb,0,False,False,NETS Rebound,,23-37,23,37
 0022000345,2021-02-05,BKN,TOR,12.82,2,11,11,BKN,TOR,block,44,True,False,block,block,23-37,23,37
+0022000345,2021-02-05,BKN,TOR,12.82,2,11,11,BKN,BKN,reb,0,False,False,NETS Rebound,,23-37,23,37
 0022000345,2021-02-05,BKN,TOR,12.85,2,11,9,BKN,BKN,fg_make,108,False,False,Durant 1' Cutting Dunk Shot (2 PTS) (Brown 1 AST),,25-37,25,37
 0022000345,2021-02-05,BKN,TOR,13.23,2,10,46,TOR,TOR,fg_make,98,False,False,,Boucher Cutting Layup Shot (4 PTS) (Lowry 3 AST),25-39,25,39
 0022000345,2021-02-05,BKN,TOR,13.23,2,10,46,TOR,BKN,foul,2,False,False,Durant S.FOUL (P1.T1) (J.Tiven),,25-39,25,39
@@ -242,9 +242,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000345,2021-02-05,BKN,TOR,26.17,3,9,50,BKN,BKN,reb,0,False,False,Durant REBOUND (Off:0 Def:6),,65-67,65,67
 0022000345,2021-02-05,BKN,TOR,26.25,3,9,45,BKN,BKN,fg3_make,2,False,False,Harris 25' 3PT Running Jump Shot (6 PTS) (Irving 4 AST),,68-67,68,67
 0022000345,2021-02-05,BKN,TOR,26.58,3,9,25,TOR,TOR,fg_miss,6,True,False,,MISS Siakam 9' Driving Layup,68-67,68,67
+0022000345,2021-02-05,BKN,TOR,26.58,3,9,25,TOR,BKN,block,6,True,False,block,block,68-67,68,67
 0022000345,2021-02-05,BKN,TOR,26.58,3,9,25,TOR,TOR,reb,0,False,False,,Siakam REBOUND (Off:2 Def:2),68-67,68,67
 0022000345,2021-02-05,BKN,TOR,26.58,3,9,25,TOR,BKN,foul,2,False,False,Durant S.FOUL (P4.T1) (J.Tiven),,68-67,68,67
-0022000345,2021-02-05,BKN,TOR,26.58,3,9,25,TOR,BKN,block,6,True,False,block,block,68-67,68,67
 0022000345,2021-02-05,BKN,TOR,26.58,3,9,25,TOR,TOR,ft_make,11,False,False,,Siakam Free Throw 1 of 2 (11 PTS),68-68,68,68
 0022000345,2021-02-05,BKN,TOR,26.58,3,9,25,TOR,TOR,ft_make,12,False,False,,Siakam Free Throw 2 of 2 (12 PTS),68-69,68,69
 0022000345,2021-02-05,BKN,TOR,26.8,3,9,12,BKN,TOR,foul,11,False,False,,VanVleet T.FOUL (P1.T0) (J.Tiven),68-69,68,69
@@ -253,9 +253,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000345,2021-02-05,BKN,TOR,26.8,3,9,12,BKN,BKN,ft_make,16,False,False,Irving Free Throw Technical (13 PTS),,70-69,70,69
 0022000345,2021-02-05,BKN,TOR,26.9,3,9,6,,BKN,jump_ball,0,False,False,Jump Ball Irving vs. VanVleet: Tip to Lowry,,70-69,70,69
 0022000345,2021-02-05,BKN,TOR,26.9,3,9,6,BKN,BKN,tov,2,False,True,Irving Lost Ball Turnover (P4.T13),,70-69,70,69
+0022000345,2021-02-05,BKN,TOR,26.9,3,9,6,BKN,TOR,steal,2,False,True,steal,steal,70-69,70,69
 0022000345,2021-02-05,BKN,TOR,26.9,3,9,6,BKN,BKN,timeout,1,False,False,NETS Timeout: Regular (Full 3 Short 0),,70-69,70,69
 0022000345,2021-02-05,BKN,TOR,26.9,3,9,6,,BKN,jump_ball,1,False,False,Jump Ball (CC) Jordan vs. Baynes: Tip to Siakam,,70-69,70,69
-0022000345,2021-02-05,BKN,TOR,26.9,3,9,6,BKN,TOR,steal,2,False,True,steal,steal,70-69,70,69
 0022000345,2021-02-05,BKN,TOR,27.2,3,8,48,TOR,TOR,fg3_miss,1,False,False,,MISS VanVleet 27' 3PT Jump Shot,70-69,70,69
 0022000345,2021-02-05,BKN,TOR,27.27,3,8,44,BKN,BKN,reb,0,False,False,Harris REBOUND (Off:0 Def:3),,70-69,70,69
 0022000345,2021-02-05,BKN,TOR,27.32,3,8,41,BKN,TOR,foul,1,False,False,,Powell P.FOUL (P1.T1) (N.Sago),70-69,70,69
@@ -403,8 +403,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000345,2021-02-05,BKN,TOR,43.65,4,4,21,BKN,BKN,ft_make,12,False,False,Brown Free Throw 2 of 2 (11 PTS),,108-106,108,106
 0022000345,2021-02-05,BKN,TOR,43.82,4,4,11,TOR,TOR,fg_make,6,False,False,,Lowry 8' Driving Layup (24 PTS) (VanVleet 4 AST),108-108,108,108
 0022000345,2021-02-05,BKN,TOR,44.05,4,3,57,BKN,BKN,fg_miss,6,False,False,MISS Green 3' Driving Layup,,108-108,108,108
-0022000345,2021-02-05,BKN,TOR,44.17,4,3,50,BKN,BKN,fg_make,72,False,False,Brown Putback Layup (13 PTS),,110-108,110,108
 0022000345,2021-02-05,BKN,TOR,44.17,4,3,50,BKN,BKN,reb,0,False,False,Brown REBOUND (Off:2 Def:4),,110-108,110,108
+0022000345,2021-02-05,BKN,TOR,44.17,4,3,50,BKN,BKN,fg_make,72,False,False,Brown Putback Layup (13 PTS),,110-108,110,108
 0022000345,2021-02-05,BKN,TOR,44.25,4,3,45,TOR,TOR,fg3_make,79,False,False,,Lowry 28' 3PT Pullup Jump Shot (27 PTS),110-111,110,111
 0022000345,2021-02-05,BKN,TOR,44.6,4,3,24,BKN,BKN,tov,45,False,False,Irving Out of Bounds - Bad Pass Turnover Turnover (P7.T18),,110-111,110,111
 0022000345,2021-02-05,BKN,TOR,44.6,4,3,24,TOR,TOR,timeout,1,False,False,,Raptors Timeout: Regular (Reg.4 Short 0),110-111,110,111
@@ -416,9 +416,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000345,2021-02-05,BKN,TOR,45.38,4,2,37,TOR,TOR,fg_make,99,False,False,,Boucher 3' Cutting Finger Roll Layup Shot (17 PTS) (Lowry 6 AST),110-116,110,116
 0022000345,2021-02-05,BKN,TOR,45.55,4,2,27,BKN,BKN,fg_miss,5,True,False,MISS Brown 5' Layup,,110-116,110,116
 0022000345,2021-02-05,BKN,TOR,45.55,4,2,27,BKN,TOR,block,5,True,False,block,block,110-116,110,116
-0022000345,2021-02-05,BKN,TOR,45.57,4,2,26,BKN,BKN,reb,0,False,False,NETS Rebound,,110-116,110,116
 0022000345,2021-02-05,BKN,TOR,45.57,4,2,26,TOR,TOR,timeout,7,False,False,,Raptors Timeout: Coach Challenge (Reg.5 Short 0),110-116,110,116
 0022000345,2021-02-05,BKN,TOR,45.57,4,2,26,,BKN,jump_ball,1,False,False,Jump Ball (CC) Green vs. Boucher: Tip to Harden,,110-116,110,116
+0022000345,2021-02-05,BKN,TOR,45.57,4,2,26,BKN,BKN,reb,0,False,False,NETS Rebound,,110-116,110,116
 0022000345,2021-02-05,BKN,TOR,45.7,4,2,18,BKN,BKN,fg3_make,1,False,False,Harris 3PT Jump Shot (17 PTS) (Irving 5 AST),,113-116,113,116
 0022000345,2021-02-05,BKN,TOR,46.12,4,1,53,TOR,TOR,fg3_miss,1,False,False,,MISS Lowry 26' 3PT Jump Shot,113-116,113,116
 0022000345,2021-02-05,BKN,TOR,46.2,4,1,48,TOR,TOR,reb,0,False,False,,Powell REBOUND (Off:1 Def:3),113-116,113,116

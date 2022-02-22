@@ -55,9 +55,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000630,2021-03-18,LAL,CHA,6.98,1,5,1,CHA,CHA,tov,40,False,False,,Hayward Out of Bounds Lost Ball Turnover (P1.T3),20-14,20,14
 0022000630,2021-03-18,LAL,CHA,7.25,1,4,45,LAL,CHA,foul,2,False,False,,Biyombo S.FOUL (P1.T2) (M.Ayotte),20-14,20,14
 0022000630,2021-03-18,LAL,CHA,7.25,1,4,45,LAL,LAL,ft_make,11,False,False,James Free Throw 1 of 2 (13 PTS),,21-14,21,14
+0022000630,2021-03-18,LAL,CHA,7.25,1,4,45,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.1 Short 0),21-14,21,14
 0022000630,2021-03-18,LAL,CHA,7.25,1,4,45,LAL,LAL,ft_miss,12,False,False,MISS James Free Throw 2 of 2,,21-14,21,14
 0022000630,2021-03-18,LAL,CHA,7.25,1,4,45,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:1),21-14,21,14
-0022000630,2021-03-18,LAL,CHA,7.25,1,4,45,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.1 Short 0),21-14,21,14
 0022000630,2021-03-18,LAL,CHA,7.45,1,4,33,CHA,CHA,tov,1,False,False,,Hayward Bad Pass Turnover (P2.T4),21-14,21,14
 0022000630,2021-03-18,LAL,CHA,7.68,1,4,19,LAL,LAL,fg3_miss,1,False,False,MISS Caruso 27' 3PT Jump Shot,,21-14,21,14
 0022000630,2021-03-18,LAL,CHA,7.75,1,4,15,CHA,CHA,reb,0,False,False,,Bridges REBOUND (Off:0 Def:2),21-14,21,14
@@ -95,11 +95,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000630,2021-03-18,LAL,CHA,10.98,1,1,1,CHA,CHA,fg3_miss,1,False,False,,MISS Bridges 24' 3PT Jump Shot,27-22,27,22
 0022000630,2021-03-18,LAL,CHA,11.05,1,0,57,LAL,LAL,reb,0,False,False,Kuzma REBOUND (Off:1 Def:1),,27-22,27,22
 0022000630,2021-03-18,LAL,CHA,11.25,1,0,45,LAL,LAL,fg_miss,5,True,False,MISS Horton-Tucker 2' Layup,,27-22,27,22
+0022000630,2021-03-18,LAL,CHA,11.25,1,0,45,LAL,CHA,block,5,True,False,block,block,27-22,27,22
 0022000630,2021-03-18,LAL,CHA,11.25,1,0,45,LAL,LAL,reb,0,False,False,Harrell REBOUND (Off:1 Def:0),,27-22,27,22
 0022000630,2021-03-18,LAL,CHA,11.25,1,0,45,LAL,CHA,foul,2,False,False,,Bridges S.FOUL (P1.T4) (H.Workman),27-22,27,22
 0022000630,2021-03-18,LAL,CHA,11.25,1,0,45,LAL,LAL,ft_miss,11,False,False,MISS Harrell Free Throw 1 of 2,,27-22,27,22
 0022000630,2021-03-18,LAL,CHA,11.25,1,0,45,LAL,LAL,reb,1,False,False,LAKERS Rebound,,27-22,27,22
-0022000630,2021-03-18,LAL,CHA,11.25,1,0,45,LAL,CHA,block,5,True,False,block,block,27-22,27,22
 0022000630,2021-03-18,LAL,CHA,11.25,1,0,45,LAL,LAL,ft_make,12,False,False,Harrell Free Throw 2 of 2 (1 PTS),,28-22,28,22
 0022000630,2021-03-18,LAL,CHA,11.42,1,0,35,CHA,CHA,fg_make,5,False,False,,Biyombo 2' Layup (5 PTS) (Bridges 1 AST),28-24,28,24
 0022000630,2021-03-18,LAL,CHA,11.42,1,0,35,CHA,LAL,foul,2,False,False,Schroder S.FOUL (P1.PN) (M.Ayotte),,28-24,28,24
@@ -138,9 +138,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000630,2021-03-18,LAL,CHA,14.08,2,9,55,CHA,CHA,fg3_miss,1,False,False,,MISS Ball 26' 3PT Jump Shot,35-29,35,29
 0022000630,2021-03-18,LAL,CHA,14.13,2,9,52,LAL,LAL,reb,0,False,False,James REBOUND (Off:0 Def:1),,35-29,35,29
 0022000630,2021-03-18,LAL,CHA,14.2,2,9,48,LAL,LAL,fg_miss,2,False,False,MISS Horton-Tucker Running Jump Shot,,35-29,35,29
-0022000630,2021-03-18,LAL,CHA,14.25,2,9,45,LAL,LAL,reb,0,False,False,LAKERS Rebound,,35-29,35,29
 0022000630,2021-03-18,LAL,CHA,14.25,2,9,45,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.2 Short 0),35-29,35,29
 0022000630,2021-03-18,LAL,CHA,14.25,2,9,45,,LAL,jump_ball,1,False,False,Jump Ball (CC) Harrell vs. Washington: Tip to James,,35-29,35,29
+0022000630,2021-03-18,LAL,CHA,14.25,2,9,45,LAL,LAL,reb,0,False,False,LAKERS Rebound,,35-29,35,29
 0022000630,2021-03-18,LAL,CHA,14.5,2,9,30,LAL,LAL,fg_miss,5,False,False,MISS Harrell 2' Layup,,35-29,35,29
 0022000630,2021-03-18,LAL,CHA,14.57,2,9,26,LAL,LAL,reb,0,False,False,Harrell REBOUND (Off:3 Def:1),,35-29,35,29
 0022000630,2021-03-18,LAL,CHA,14.57,2,9,26,LAL,LAL,fg_make,87,False,False,Harrell Putback Dunk (5 PTS),,37-29,37,29
@@ -215,9 +215,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000630,2021-03-18,LAL,CHA,21.98,2,2,1,LAL,LAL,reb,0,False,False,Jones REBOUND (Off:1 Def:3),,53-40,53,40
 0022000630,2021-03-18,LAL,CHA,21.98,2,2,1,LAL,LAL,fg_make,97,False,False,Jones Tip Layup Shot (4 PTS),,55-40,55,40
 0022000630,2021-03-18,LAL,CHA,22.05,2,1,57,CHA,LAL,foul,1,False,False,Caruso P.FOUL (P1.T3) (J.Tiven),,55-40,55,40
-0022000630,2021-03-18,LAL,CHA,22.25,2,1,45,LAL,LAL,timeout,7,False,False,LAKERS Timeout: Coach Challenge (Full 2 Short 0),,55-40,55,40
 0022000630,2021-03-18,LAL,CHA,22.25,2,1,45,LAL,CHA,foul,4,False,False,,Biyombo OFF.Foul (P3) (H.Workman),55-40,55,40
 0022000630,2021-03-18,LAL,CHA,22.25,2,1,45,CHA,CHA,tov,37,False,False,,Biyombo Offensive Foul Turnover (P2.T10),55-40,55,40
+0022000630,2021-03-18,LAL,CHA,22.25,2,1,45,LAL,LAL,timeout,7,False,False,LAKERS Timeout: Coach Challenge (Full 2 Short 0),,55-40,55,40
 0022000630,2021-03-18,LAL,CHA,22.62,2,1,23,LAL,LAL,fg3_miss,1,False,False,MISS Schroder 26' 3PT Jump Shot,,55-40,55,40
 0022000630,2021-03-18,LAL,CHA,22.68,2,1,19,CHA,CHA,reb,0,False,False,,Washington REBOUND (Off:0 Def:4),55-40,55,40
 0022000630,2021-03-18,LAL,CHA,22.77,2,1,14,CHA,LAL,violation,5,False,False,Morris Violation:Kicked Ball (M.Ayotte),,55-40,55,40
@@ -247,8 +247,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000630,2021-03-18,LAL,CHA,25.3,3,10,42,LAL,LAL,reb,0,False,False,Morris REBOUND (Off:0 Def:4),,60-52,60,52
 0022000630,2021-03-18,LAL,CHA,25.6,3,10,24,LAL,LAL,fg_miss,5,True,False,MISS James 3' Layup,,60-52,60,52
 0022000630,2021-03-18,LAL,CHA,25.6,3,10,24,LAL,CHA,block,5,True,False,block,block,60-52,60,52
-0022000630,2021-03-18,LAL,CHA,25.65,3,10,21,LAL,LAL,reb,0,False,False,LAKERS Rebound,,60-52,60,52
 0022000630,2021-03-18,LAL,CHA,25.65,3,10,21,,LAL,jump_ball,0,False,False,Jump Ball James vs. Washington: Tip to Schroder,,60-52,60,52
+0022000630,2021-03-18,LAL,CHA,25.65,3,10,21,LAL,LAL,reb,0,False,False,LAKERS Rebound,,60-52,60,52
 0022000630,2021-03-18,LAL,CHA,25.7,3,10,18,LAL,LAL,fg_miss,78,False,False,MISS Schroder 8' Floating Jump Shot,,60-52,60,52
 0022000630,2021-03-18,LAL,CHA,25.7,3,10,18,LAL,LAL,reb,0,False,False,James REBOUND (Off:1 Def:2),,60-52,60,52
 0022000630,2021-03-18,LAL,CHA,25.75,3,10,15,LAL,LAL,fg_make,72,False,False,James 1' Putback Layup (24 PTS),,62-52,62,52
@@ -323,8 +323,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000630,2021-03-18,LAL,CHA,34.08,3,1,55,CHA,LAL,steal,1,False,True,steal,steal,79-74,79,74
 0022000630,2021-03-18,LAL,CHA,34.13,3,1,52,LAL,CHA,foul,28,False,False,,Martin Personal Take Foul (P1.T3) (J.Tiven),79-74,79,74
 0022000630,2021-03-18,LAL,CHA,34.37,3,1,38,LAL,LAL,fg3_miss,1,False,False,MISS Caruso 26' 3PT Jump Shot,,79-74,79,74
-0022000630,2021-03-18,LAL,CHA,34.48,3,1,31,CHA,CHA,reb,0,False,False,,Hornets Rebound,79-74,79,74
 0022000630,2021-03-18,LAL,CHA,34.48,3,1,31,,LAL,jump_ball,0,False,False,Jump Ball Harrell vs. Biyombo: Tip to Ball,,79-74,79,74
+0022000630,2021-03-18,LAL,CHA,34.48,3,1,31,CHA,CHA,reb,0,False,False,,Hornets Rebound,79-74,79,74
 0022000630,2021-03-18,LAL,CHA,34.57,3,1,26,CHA,CHA,fg_make,108,False,False,,Biyombo Cutting Dunk Shot (7 PTS) (Ball 6 AST),79-76,79,76
 0022000630,2021-03-18,LAL,CHA,34.8,3,1,12,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 26' 3PT Jump Shot,,79-76,79,76
 0022000630,2021-03-18,LAL,CHA,34.88,3,1,7,LAL,LAL,reb,0,False,False,Harrell REBOUND (Off:4 Def:6),,79-76,79,76
@@ -382,8 +382,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000630,2021-03-18,LAL,CHA,40.83,4,7,10,LAL,LAL,ft_make,11,False,False,Horton-Tucker Free Throw 1 of 2 (11 PTS),,101-92,101,92
 0022000630,2021-03-18,LAL,CHA,40.83,4,7,10,LAL,LAL,ft_make,12,False,False,Horton-Tucker Free Throw 2 of 2 (12 PTS),,102-92,102,92
 0022000630,2021-03-18,LAL,CHA,40.98,4,7,1,CHA,CHA,tov,1,False,True,,Ball Bad Pass Turnover (P6.T17),102-92,102,92
-0022000630,2021-03-18,LAL,CHA,40.98,4,7,1,LAL,CHA,foul,9,False,False,,Ball C.P.FOUL (P5.PN) (H.Workman),102-92,102,92
 0022000630,2021-03-18,LAL,CHA,40.98,4,7,1,CHA,LAL,steal,1,False,True,steal,steal,102-92,102,92
+0022000630,2021-03-18,LAL,CHA,40.98,4,7,1,LAL,CHA,foul,9,False,False,,Ball C.P.FOUL (P5.PN) (H.Workman),102-92,102,92
 0022000630,2021-03-18,LAL,CHA,40.98,4,7,1,LAL,LAL,ft_make,25,False,False,James Free Throw Clear Path 1 of 2 (32 PTS),,103-92,103,92
 0022000630,2021-03-18,LAL,CHA,40.98,4,7,1,LAL,LAL,ft_make,26,False,False,James Free Throw Clear Path 2 of 2 (33 PTS),,104-92,104,92
 0022000630,2021-03-18,LAL,CHA,41.33,4,6,40,LAL,LAL,fg3_miss,1,False,False,MISS James 28' 3PT Jump Shot,,104-92,104,92

@@ -23,8 +23,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000797,2021-04-09,DEN,SAS,3.38,1,8,37,DEN,SAS,block,9,True,False,block,block,10-6,10,6
 0022000797,2021-04-09,DEN,SAS,3.43,1,8,34,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:0 Def:1),10-6,10,6
 0022000797,2021-04-09,DEN,SAS,3.58,1,8,25,SAS,SAS,tov,2,False,True,,Murray Lost Ball Turnover (P1.T2),10-6,10,6
-0022000797,2021-04-09,DEN,SAS,3.58,1,8,25,DEN,SAS,foul,2,False,False,,DeRozan S.FOUL (P1.T2) (M.Kogut),10-6,10,6
 0022000797,2021-04-09,DEN,SAS,3.58,1,8,25,SAS,DEN,steal,2,False,True,steal,steal,10-6,10,6
+0022000797,2021-04-09,DEN,SAS,3.58,1,8,25,DEN,SAS,foul,2,False,False,,DeRozan S.FOUL (P1.T2) (M.Kogut),10-6,10,6
 0022000797,2021-04-09,DEN,SAS,3.58,1,8,25,DEN,DEN,ft_make,11,False,False,Campazzo Free Throw 1 of 2 (1 PTS),,11-6,11,6
 0022000797,2021-04-09,DEN,SAS,3.58,1,8,25,DEN,DEN,ft_make,12,False,False,Campazzo Free Throw 2 of 2 (2 PTS),,12-6,12,6
 0022000797,2021-04-09,DEN,SAS,3.82,1,8,11,SAS,DEN,foul,2,False,False,Gordon S.FOUL (P1.T2) (M.Kogut),,12-6,12,6
@@ -106,8 +106,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000797,2021-04-09,DEN,SAS,13.77,2,10,14,DEN,DEN,fg_make,108,False,False,McGee 1' Cutting Dunk Shot (2 PTS) (Morris 1 AST),,44-26,44,26
 0022000797,2021-04-09,DEN,SAS,14.05,2,9,57,SAS,SAS,fg_make,6,False,False,,Murray 3' Driving Layup (2 PTS),44-28,44,28
 0022000797,2021-04-09,DEN,SAS,14.23,2,9,46,DEN,DEN,tov,1,False,True,McGee Bad Pass Turnover (P1.T2),,44-28,44,28
-0022000797,2021-04-09,DEN,SAS,14.23,2,9,46,SAS,DEN,foul,28,False,False,McGee Personal Take Foul (P1.T1) (M.Kogut),,44-28,44,28
 0022000797,2021-04-09,DEN,SAS,14.23,2,9,46,DEN,SAS,steal,1,False,True,steal,steal,44-28,44,28
+0022000797,2021-04-09,DEN,SAS,14.23,2,9,46,SAS,DEN,foul,28,False,False,McGee Personal Take Foul (P1.T1) (M.Kogut),,44-28,44,28
 0022000797,2021-04-09,DEN,SAS,14.45,2,9,33,SAS,DEN,foul,2,False,False,Millsap S.FOUL (P1.T2) (E.Lewis),,44-28,44,28
 0022000797,2021-04-09,DEN,SAS,14.45,2,9,33,SAS,SAS,ft_make,11,False,False,,Gay Free Throw 1 of 2 (3 PTS),44-29,44,29
 0022000797,2021-04-09,DEN,SAS,14.45,2,9,33,SAS,SAS,ft_make,12,False,False,,Gay Free Throw 2 of 2 (4 PTS),44-30,44,30
@@ -137,8 +137,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000797,2021-04-09,DEN,SAS,17.35,2,6,39,SAS,SAS,fg_miss,101,False,False,,MISS Johnson 10' Driving Floating Jump Shot,49-33,49,33
 0022000797,2021-04-09,DEN,SAS,17.37,2,6,38,DEN,DEN,reb,0,False,False,Dozier REBOUND (Off:0 Def:2),,49-33,49,33
 0022000797,2021-04-09,DEN,SAS,17.52,2,6,29,DEN,DEN,fg_miss,79,False,False,MISS Dozier 13' Pullup Jump Shot,,49-33,49,33
-0022000797,2021-04-09,DEN,SAS,17.6,2,6,24,DEN,DEN,fg_make,97,False,False,Jokic Tip Layup Shot (10 PTS),,51-33,51,33
 0022000797,2021-04-09,DEN,SAS,17.6,2,6,24,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:2 Def:2),,51-33,51,33
+0022000797,2021-04-09,DEN,SAS,17.6,2,6,24,DEN,DEN,fg_make,97,False,False,Jokic Tip Layup Shot (10 PTS),,51-33,51,33
 0022000797,2021-04-09,DEN,SAS,17.77,2,6,14,SAS,SAS,fg_make,6,False,False,,White 2' Driving Layup (2 PTS) (Johnson 1 AST),51-35,51,35
 0022000797,2021-04-09,DEN,SAS,17.77,2,6,14,SAS,DEN,foul,2,False,False,Jokic S.FOUL (P1.PN) (N.Green),,51-35,51,35
 0022000797,2021-04-09,DEN,SAS,17.77,2,6,14,SAS,SAS,ft_miss,10,False,False,,MISS White Free Throw 1 of 1,51-35,51,35
@@ -161,9 +161,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000797,2021-04-09,DEN,SAS,20.1,2,3,54,DEN,SAS,steal,1,False,True,steal,steal,54-39,54,39
 0022000797,2021-04-09,DEN,SAS,20.18,2,3,49,SAS,SAS,fg3_miss,1,False,False,,MISS White 3PT Jump Shot,54-39,54,39
 0022000797,2021-04-09,DEN,SAS,20.25,2,3,45,SAS,SAS,reb,0,False,False,,Vassell REBOUND (Off:1 Def:0),54-39,54,39
-0022000797,2021-04-09,DEN,SAS,20.25,2,3,45,SAS,SAS,fg_make,5,False,False,,DeRozan 2' Layup (10 PTS) (Vassell 1 AST),54-41,54,41
 0022000797,2021-04-09,DEN,SAS,20.25,2,3,45,SAS,DEN,foul,11,False,False,Jokic T.FOUL (P1.PN) (E.Lewis),,54-41,54,41
 0022000797,2021-04-09,DEN,SAS,20.25,2,3,45,SAS,SAS,ft_make,16,False,False,,DeRozan Free Throw Technical (11 PTS),54-42,54,42
+0022000797,2021-04-09,DEN,SAS,20.25,2,3,45,SAS,SAS,fg_make,5,False,False,,DeRozan 2' Layup (10 PTS) (Vassell 1 AST),54-41,54,41
 0022000797,2021-04-09,DEN,SAS,20.4,2,3,36,DEN,DEN,tov,45,False,False,Morris Out of Bounds - Bad Pass Turnover Turnover (P1.T7),,54-42,54,42
 0022000797,2021-04-09,DEN,SAS,20.57,2,3,26,SAS,SAS,fg_make,108,False,False,,Walker IV 1' Cutting Dunk Shot (5 PTS) (DeRozan 5 AST),54-44,54,44
 0022000797,2021-04-09,DEN,SAS,20.57,2,3,26,SAS,DEN,foul,2,False,False,Gordon S.FOUL (P2.PN) (N.Green),,54-44,54,44
@@ -181,8 +181,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000797,2021-04-09,DEN,SAS,22.27,2,1,44,DEN,DEN,tov,1,False,True,Gordon Bad Pass Turnover (P1.T8),,58-47,58,47
 0022000797,2021-04-09,DEN,SAS,22.27,2,1,44,DEN,SAS,steal,1,False,True,steal,steal,58-47,58,47
 0022000797,2021-04-09,DEN,SAS,22.35,2,1,39,SAS,SAS,fg_miss,41,True,False,,MISS Walker IV 5' Running Layup,58-47,58,47
-0022000797,2021-04-09,DEN,SAS,22.35,2,1,39,SAS,SAS,reb,0,False,False,,Spurs Rebound,58-47,58,47
 0022000797,2021-04-09,DEN,SAS,22.35,2,1,39,SAS,DEN,block,41,True,False,block,block,58-47,58,47
+0022000797,2021-04-09,DEN,SAS,22.35,2,1,39,SAS,SAS,reb,0,False,False,,Spurs Rebound,58-47,58,47
 0022000797,2021-04-09,DEN,SAS,22.63,2,1,22,SAS,SAS,tov,2,False,True,,Poeltl Lost Ball Turnover (P1.T6),58-47,58,47
 0022000797,2021-04-09,DEN,SAS,22.63,2,1,22,SAS,DEN,steal,2,False,True,steal,steal,58-47,58,47
 0022000797,2021-04-09,DEN,SAS,22.92,2,1,5,DEN,DEN,fg3_miss,1,False,False,MISS Barton 26' 3PT Jump Shot,,58-47,58,47
@@ -294,8 +294,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000797,2021-04-09,DEN,SAS,34.87,3,1,8,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:4 Def:6),,91-83,91,83
 0022000797,2021-04-09,DEN,SAS,34.92,3,1,5,DEN,DEN,fg3_make,103,False,False,Morris 26' 3PT Running Pull-Up Jump Shot (14 PTS),,94-83,94,83
 0022000797,2021-04-09,DEN,SAS,35.23,3,0,46,SAS,SAS,fg_miss,6,True,False,,MISS Gay 10' Driving Layup,94-83,94,83
-0022000797,2021-04-09,DEN,SAS,35.23,3,0,46,SAS,SAS,reb,0,False,False,,Spurs Rebound,94-83,94,83
 0022000797,2021-04-09,DEN,SAS,35.23,3,0,46,SAS,DEN,block,6,True,False,block,block,94-83,94,83
+0022000797,2021-04-09,DEN,SAS,35.23,3,0,46,SAS,SAS,reb,0,False,False,,Spurs Rebound,94-83,94,83
 0022000797,2021-04-09,DEN,SAS,35.27,3,0,44,SAS,SAS,fg_miss,1,False,False,,MISS DeRozan 18' Jump Shot,94-83,94,83
 0022000797,2021-04-09,DEN,SAS,35.32,3,0,41,DEN,DEN,reb,0,False,False,Jokic REBOUND (Off:4 Def:7),,94-83,94,83
 0022000797,2021-04-09,DEN,SAS,35.43,3,0,34,DEN,SAS,foul,2,False,False,,Poeltl S.FOUL (P3.PN) (M.Kogut),94-83,94,83
@@ -331,8 +331,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000797,2021-04-09,DEN,SAS,38.35,4,9,39,DEN,DEN,fg_miss,102,False,False,MISS Millsap 7' Driving Floating Bank Jump Shot,,98-88,98,88
 0022000797,2021-04-09,DEN,SAS,38.43,4,9,34,SAS,SAS,reb,0,False,False,,Gay REBOUND (Off:0 Def:6),98-88,98,88
 0022000797,2021-04-09,DEN,SAS,38.53,4,9,28,SAS,SAS,fg_miss,6,True,False,,MISS White 3' Driving Layup,98-88,98,88
-0022000797,2021-04-09,DEN,SAS,38.53,4,9,28,DEN,DEN,reb,0,False,False,McGee REBOUND (Off:2 Def:6),,98-88,98,88
 0022000797,2021-04-09,DEN,SAS,38.53,4,9,28,SAS,DEN,block,6,True,False,block,block,98-88,98,88
+0022000797,2021-04-09,DEN,SAS,38.53,4,9,28,DEN,DEN,reb,0,False,False,McGee REBOUND (Off:2 Def:6),,98-88,98,88
 0022000797,2021-04-09,DEN,SAS,38.62,4,9,23,DEN,SAS,foul,1,False,False,,Murray P.FOUL (P2.T1) (E.Lewis),98-88,98,88
 0022000797,2021-04-09,DEN,SAS,38.75,4,9,15,DEN,DEN,fg_make,6,False,False,Barton 1' Driving Layup (12 PTS) (McGee 1 AST),,100-88,100,88
 0022000797,2021-04-09,DEN,SAS,39.0,4,9,0,SAS,DEN,foul,2,False,False,Millsap S.FOUL (P3.T2) (E.Lewis),,100-88,100,88
@@ -424,10 +424,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000797,2021-04-09,DEN,SAS,47.83,4,0,10,DEN,DEN,ft_miss,12,False,False,MISS Porter Jr. Free Throw 2 of 2,,121-119,121,119
 0022000797,2021-04-09,DEN,SAS,47.92,4,0,5,SAS,SAS,reb,0,False,False,,Johnson REBOUND (Off:0 Def:4),121-119,121,119
 0022000797,2021-04-09,DEN,SAS,48.0,4,0,0,SAS,SAS,fg_miss,41,True,False,,MISS Johnson 4' Running Layup,121-119,121,119
+0022000797,2021-04-09,DEN,SAS,48.0,4,0,0,SAS,DEN,block,41,True,False,block,block,121-119,121,119
 0022000797,2021-04-09,DEN,SAS,48.0,4,0,0,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:1 Def:6),121-119,121,119
 0022000797,2021-04-09,DEN,SAS,48.0,4,0,0,SAS,SAS,fg_miss,97,False,False,,MISS Murray Tip Layup Shot,121-119,121,119
 0022000797,2021-04-09,DEN,SAS,48.0,4,0,0,SAS,SAS,reb,0,False,False,,DeRozan REBOUND (Off:1 Def:2),121-119,121,119
 0022000797,2021-04-09,DEN,SAS,48.0,4,0,0,SAS,SAS,fg_miss,97,False,False,,MISS DeRozan Tip Layup Shot,121-119,121,119
 0022000797,2021-04-09,DEN,SAS,48.0,4,0,0,SAS,SAS,reb,0,False,False,,Spurs Rebound,121-119,121,119
 0022000797,2021-04-09,DEN,SAS,48.0,4,0,0,SAS,,period_end,0,False,False,,,121-119,121,119
-0022000797,2021-04-09,DEN,SAS,48.0,4,0,0,SAS,DEN,block,41,True,False,block,block,121-119,121,119

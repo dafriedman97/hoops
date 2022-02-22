@@ -72,8 +72,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900450,2019-12-23,MEM,SAS,8.68,1,3,19,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.1 Short 0),23-34,23,34
 0021900450,2019-12-23,MEM,SAS,8.98,1,3,1,SAS,SAS,fg3_make,1,False,False,,Aldridge 24' 3PT Jump Shot (13 PTS) (White 1 AST),23-37,23,37
 0021900450,2019-12-23,MEM,SAS,9.23,1,2,46,MEM,MEM,fg_miss,6,True,False,MISS Jackson Jr. 3' Driving Layup,,23-37,23,37
-0021900450,2019-12-23,MEM,SAS,9.23,1,2,46,SAS,SAS,reb,0,False,False,,Spurs Rebound,23-37,23,37
 0021900450,2019-12-23,MEM,SAS,9.23,1,2,46,MEM,SAS,block,6,True,False,block,block,23-37,23,37
+0021900450,2019-12-23,MEM,SAS,9.23,1,2,46,SAS,SAS,reb,0,False,False,,Spurs Rebound,23-37,23,37
 0021900450,2019-12-23,MEM,SAS,9.5,1,2,30,SAS,SAS,fg_make,79,False,False,,Aldridge 10' Pullup Jump Shot (15 PTS),23-39,23,39
 0021900450,2019-12-23,MEM,SAS,9.7,1,2,18,MEM,MEM,fg_miss,78,False,False,MISS Melton 11' Floating Jump Shot,,23-39,23,39
 0021900450,2019-12-23,MEM,SAS,9.77,1,2,14,SAS,SAS,reb,0,False,False,,White REBOUND (Off:0 Def:1),23-39,23,39
@@ -145,8 +145,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900450,2019-12-23,MEM,SAS,17.67,2,6,20,SAS,SAS,fg_miss,63,False,False,,MISS Gay 13' Fadeaway Jumper,48-55,48,55
 0021900450,2019-12-23,MEM,SAS,17.7,2,6,18,MEM,MEM,reb,0,False,False,Morant REBOUND (Off:0 Def:2),,48-55,48,55
 0021900450,2019-12-23,MEM,SAS,17.92,2,6,5,MEM,MEM,fg_miss,6,False,False,MISS Morant 4' Driving Layup,,48-55,48,55
-0021900450,2019-12-23,MEM,SAS,17.98,2,6,1,MEM,MEM,fg_make,107,False,False,Jackson Jr. 1' Tip Dunk Shot (11 PTS),,50-55,50,55
 0021900450,2019-12-23,MEM,SAS,17.98,2,6,1,MEM,MEM,reb,0,False,False,Jackson Jr. REBOUND (Off:1 Def:0),,50-55,50,55
+0021900450,2019-12-23,MEM,SAS,17.98,2,6,1,MEM,MEM,fg_make,107,False,False,Jackson Jr. 1' Tip Dunk Shot (11 PTS),,50-55,50,55
 0021900450,2019-12-23,MEM,SAS,18.27,2,5,44,SAS,SAS,fg_make,79,False,False,,DeRozan 16' Pullup Jump Shot (6 PTS),50-57,50,57
 0021900450,2019-12-23,MEM,SAS,18.53,2,5,28,MEM,MEM,fg3_make,1,False,False,Jackson Jr. 24' 3PT Jump Shot (14 PTS) (Crowder 2 AST),,53-57,53,57
 0021900450,2019-12-23,MEM,SAS,18.72,2,5,17,SAS,MEM,foul,1,False,False,S. Hill P.FOUL (P1.PN) (T.Washington),,53-57,53,57
@@ -241,12 +241,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900450,2019-12-23,MEM,SAS,27.72,3,8,17,SAS,SAS,timeout,1,False,False,,Spurs Timeout: Regular (Reg.3 Short 0),72-80,72,80
 0021900450,2019-12-23,MEM,SAS,28.02,3,7,59,SAS,SAS,fg_make,6,False,False,,Lyles 1' Driving Layup (14 PTS),72-82,72,82
 0021900450,2019-12-23,MEM,SAS,28.27,3,7,44,MEM,MEM,tov,1,False,True,Brooks Bad Pass Turnover (P3.T6),,72-82,72,82
-0021900450,2019-12-23,MEM,SAS,28.27,3,7,44,SAS,MEM,foul,1,False,False,Brooks P.FOUL (P3.T2) (T.Washington),,72-82,72,82
 0021900450,2019-12-23,MEM,SAS,28.27,3,7,44,MEM,SAS,steal,1,False,True,steal,steal,72-82,72,82
+0021900450,2019-12-23,MEM,SAS,28.27,3,7,44,SAS,MEM,foul,1,False,False,Brooks P.FOUL (P3.T2) (T.Washington),,72-82,72,82
 0021900450,2019-12-23,MEM,SAS,28.45,3,7,33,SAS,SAS,fg_make,75,False,False,,DeRozan 1' Driving Finger Roll Layup (14 PTS),72-84,72,84
 0021900450,2019-12-23,MEM,SAS,28.62,3,7,23,MEM,MEM,fg_miss,75,True,False,MISS Morant 4' Driving Finger Roll Layup,,72-84,72,84
-0021900450,2019-12-23,MEM,SAS,28.62,3,7,23,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,72-84,72,84
 0021900450,2019-12-23,MEM,SAS,28.62,3,7,23,MEM,SAS,block,75,True,False,block,block,72-84,72,84
+0021900450,2019-12-23,MEM,SAS,28.62,3,7,23,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,72-84,72,84
 0021900450,2019-12-23,MEM,SAS,28.78,3,7,13,MEM,MEM,fg_make,75,False,False,Morant 1' Driving Finger Roll Layup (10 PTS),,74-84,74,84
 0021900450,2019-12-23,MEM,SAS,29.12,3,6,53,SAS,SAS,fg3_miss,1,False,False,,MISS Lyles 25' 3PT Jump Shot,74-84,74,84
 0021900450,2019-12-23,MEM,SAS,29.17,3,6,50,MEM,MEM,reb,0,False,False,Morant REBOUND (Off:0 Def:3),,74-84,74,84

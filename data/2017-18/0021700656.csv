@@ -34,15 +34,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700656,2018-01-17,TOR,DET,2.9,1,9,6,TOR,TOR,fg3_miss,1,False,False,MISS Lowry 25' 3PT Jump Shot,,8-2,8,2
 0021700656,2018-01-17,TOR,DET,2.97,1,9,2,TOR,TOR,reb,0,False,False,Valanciunas REBOUND (Off:1 Def:2),,8-2,8,2
 0021700656,2018-01-17,TOR,DET,2.97,1,9,2,TOR,TOR,fg_miss,5,True,False,MISS Valanciunas 2' Layup,,8-2,8,2
+0021700656,2018-01-17,TOR,DET,2.97,1,9,2,TOR,DET,block,5,True,False,block,block,8-2,8,2
 0021700656,2018-01-17,TOR,DET,2.97,1,9,2,DET,DET,reb,0,False,False,,Pistons Rebound,8-2,8,2
 0021700656,2018-01-17,TOR,DET,2.97,1,9,2,DET,TOR,foul,3,False,False,Valanciunas L.B.FOUL (P1.T2) (J.Williams),,8-2,8,2
-0021700656,2018-01-17,TOR,DET,2.97,1,9,2,TOR,DET,block,5,True,False,block,block,8-2,8,2
 0021700656,2018-01-17,TOR,DET,3.28,1,8,43,DET,DET,fg3_miss,1,False,False,,MISS Harris 3PT Jump Shot,8-2,8,2
 0021700656,2018-01-17,TOR,DET,3.32,1,8,41,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:1 Def:2),8-2,8,2
 0021700656,2018-01-17,TOR,DET,3.35,1,8,39,DET,DET,fg_make,6,False,False,,Drummond 1' Driving Layup (2 PTS),8-4,8,4
 0021700656,2018-01-17,TOR,DET,3.58,1,8,25,TOR,TOR,fg_miss,101,True,False,MISS Lowry 3' Driving Floating Jump Shot,,8-4,8,4
-0021700656,2018-01-17,TOR,DET,3.58,1,8,25,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,8-4,8,4
 0021700656,2018-01-17,TOR,DET,3.58,1,8,25,TOR,DET,block,101,True,False,block,block,8-4,8,4
+0021700656,2018-01-17,TOR,DET,3.58,1,8,25,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,8-4,8,4
 0021700656,2018-01-17,TOR,DET,3.62,1,8,23,TOR,TOR,fg_make,98,False,False,DeRozan 1' Cutting Layup Shot (8 PTS) (Lowry 2 AST),,10-4,10,4
 0021700656,2018-01-17,TOR,DET,3.87,1,8,8,DET,DET,fg_miss,79,False,False,,MISS Smith 13' Pullup Jump Shot,10-4,10,4
 0021700656,2018-01-17,TOR,DET,3.92,1,8,5,TOR,TOR,reb,0,False,False,Valanciunas REBOUND (Off:1 Def:3),,10-4,10,4
@@ -128,11 +128,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700656,2018-01-17,TOR,DET,11.97,1,0,2,TOR,TOR,ft_miss,10,False,False,MISS Poeltl Free Throw 1 of 1,,31-18,31,18
 0021700656,2018-01-17,TOR,DET,11.98,1,0,1,DET,DET,reb,0,False,False,,Marjanovic REBOUND (Off:0 Def:3),31-18,31,18
 0021700656,2018-01-17,TOR,DET,12.0,1,0,0,DET,DET,tov,1,False,True,,Marjanovic Bad Pass Turnover (P2.T5),31-18,31,18
+0021700656,2018-01-17,TOR,DET,12.0,1,0,0,DET,TOR,steal,1,False,True,steal,steal,31-18,31,18
 0021700656,2018-01-17,TOR,DET,12.0,1,0,0,TOR,TOR,fg3_miss,1,False,False,MISS Miles 25' 3PT Jump Shot,,31-18,31,18
 0021700656,2018-01-17,TOR,DET,12.0,1,0,0,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,31-18,31,18
 0021700656,2018-01-17,TOR,DET,12.0,1,0,0,TOR,,period_end,0,False,False,,,31-18,31,18
 0021700656,2018-01-17,TOR,DET,12.0,2,12,0,TOR,,period_start,0,False,False,,,31-18,31,18
-0021700656,2018-01-17,TOR,DET,12.0,1,0,0,DET,TOR,steal,1,False,True,steal,steal,31-18,31,18
 0021700656,2018-01-17,TOR,DET,12.28,2,11,43,DET,DET,fg_make,5,False,False,,Marjanovic 1' Layup (3 PTS) (Buycks 2 AST),31-20,31,20
 0021700656,2018-01-17,TOR,DET,12.5,2,11,30,TOR,TOR,fg3_miss,1,False,False,MISS Miles 26' 3PT Jump Shot,,31-20,31,20
 0021700656,2018-01-17,TOR,DET,12.52,2,11,29,DET,DET,reb,0,False,False,,Pistons Rebound,31-20,31,20
@@ -162,8 +162,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700656,2018-01-17,TOR,DET,16.15,2,7,51,DET,DET,reb,0,False,False,,Galloway REBOUND (Off:1 Def:0),42-30,42,30
 0021700656,2018-01-17,TOR,DET,16.18,2,7,49,DET,DET,fg3_make,1,False,False,,Tolliver 25' 3PT Jump Shot (6 PTS) (Galloway 1 AST),42-33,42,33
 0021700656,2018-01-17,TOR,DET,16.35,2,7,39,TOR,TOR,tov,2,False,True,Nogueira Lost Ball Turnover (P1.T5),,42-33,42,33
-0021700656,2018-01-17,TOR,DET,16.35,2,7,39,DET,TOR,foul,1,False,False,Powell P.FOUL (P1.T3) (J.Williams),,42-33,42,33
 0021700656,2018-01-17,TOR,DET,16.35,2,7,39,TOR,DET,steal,2,False,True,steal,steal,42-33,42,33
+0021700656,2018-01-17,TOR,DET,16.35,2,7,39,DET,TOR,foul,1,False,False,Powell P.FOUL (P1.T3) (J.Williams),,42-33,42,33
 0021700656,2018-01-17,TOR,DET,16.52,2,7,29,DET,DET,tov,1,False,True,,Drummond Bad Pass Turnover (P1.T6),42-33,42,33
 0021700656,2018-01-17,TOR,DET,16.52,2,7,29,DET,TOR,steal,1,False,True,steal,steal,42-33,42,33
 0021700656,2018-01-17,TOR,DET,16.78,2,7,13,TOR,TOR,fg3_make,1,False,False,Valanciunas 26' 3PT Jump Shot (7 PTS) (Powell 1 AST),,45-33,45,33
@@ -313,8 +313,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700656,2018-01-17,TOR,DET,34.77,3,1,14,TOR,DET,steal,2,False,True,steal,steal,71-72,71,72
 0021700656,2018-01-17,TOR,DET,34.83,3,1,10,,TOR,jump_ball,0,False,False,Jump Ball Poeltl vs. Bullock: Tip to Buycks,,71-72,71,72
 0021700656,2018-01-17,TOR,DET,35.02,3,0,59,DET,DET,fg_miss,6,True,False,,MISS Buycks 3' Driving Layup,71-72,71,72
-0021700656,2018-01-17,TOR,DET,35.02,3,0,59,DET,DET,reb,0,False,False,,Pistons Rebound,71-72,71,72
 0021700656,2018-01-17,TOR,DET,35.02,3,0,59,DET,TOR,block,6,True,False,block,block,71-72,71,72
+0021700656,2018-01-17,TOR,DET,35.02,3,0,59,DET,DET,reb,0,False,False,,Pistons Rebound,71-72,71,72
 0021700656,2018-01-17,TOR,DET,35.05,3,0,57,DET,DET,fg_miss,1,True,False,,MISS Bradley 17' Jump Shot,71-72,71,72
 0021700656,2018-01-17,TOR,DET,35.05,3,0,57,DET,TOR,block,1,True,False,block,block,71-72,71,72
 0021700656,2018-01-17,TOR,DET,35.1,3,0,54,TOR,TOR,reb,0,False,False,Wright REBOUND (Off:0 Def:1),,71-72,71,72
@@ -335,8 +335,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700656,2018-01-17,TOR,DET,36.0,3,0,0,TOR,,period_end,0,False,False,,,73-73,73,73
 0021700656,2018-01-17,TOR,DET,36.0,4,12,0,TOR,,period_start,0,False,False,,,73-73,73,73
 0021700656,2018-01-17,TOR,DET,36.23,4,11,46,TOR,TOR,fg_miss,6,True,False,MISS Wright 2' Driving Layup,,73-73,73,73
-0021700656,2018-01-17,TOR,DET,36.23,4,11,46,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,73-73,73,73
 0021700656,2018-01-17,TOR,DET,36.23,4,11,46,TOR,DET,block,6,True,False,block,block,73-73,73,73
+0021700656,2018-01-17,TOR,DET,36.23,4,11,46,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,73-73,73,73
 0021700656,2018-01-17,TOR,DET,36.27,4,11,44,TOR,TOR,fg3_miss,1,False,False,MISS Miles 3PT Jump Shot,,73-73,73,73
 0021700656,2018-01-17,TOR,DET,36.32,4,11,41,DET,DET,reb,0,False,False,,Harris REBOUND (Off:0 Def:3),73-73,73,73
 0021700656,2018-01-17,TOR,DET,36.52,4,11,29,DET,DET,fg_miss,86,False,False,,MISS Harris 4' Turnaround Fadeaway Shot,73-73,73,73
@@ -428,8 +428,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700656,2018-01-17,TOR,DET,46.75,4,1,15,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,92-86,92,86
 0021700656,2018-01-17,TOR,DET,46.75,4,1,15,TOR,TOR,timeout,1,False,False,RAPTORS Timeout: Regular (Full 5 Short 0),,92-86,92,86
 0021700656,2018-01-17,TOR,DET,47.0,4,1,0,TOR,TOR,fg_miss,6,True,False,MISS Wright 1' Driving Layup,,92-86,92,86
-0021700656,2018-01-17,TOR,DET,47.0,4,1,0,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,92-86,92,86
 0021700656,2018-01-17,TOR,DET,47.0,4,1,0,TOR,DET,block,6,True,False,block,block,92-86,92,86
+0021700656,2018-01-17,TOR,DET,47.0,4,1,0,TOR,TOR,reb,0,False,False,RAPTORS Rebound,,92-86,92,86
 0021700656,2018-01-17,TOR,DET,47.08,4,0,55,TOR,TOR,fg_make,78,False,False,DeRozan 11' Floating Jump Shot (17 PTS),,94-86,94,86
 0021700656,2018-01-17,TOR,DET,47.28,4,0,43,DET,DET,fg_make,6,False,False,,Drummond 3' Driving Layup (25 PTS) (Smith 4 AST),94-88,94,88
 0021700656,2018-01-17,TOR,DET,47.28,4,0,43,DET,TOR,foul,2,False,False,Valanciunas S.FOUL (P4.T3) (S.Wall),,94-88,94,88

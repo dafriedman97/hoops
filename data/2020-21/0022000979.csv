@@ -128,9 +128,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000979,2021-05-03,CHI,PHI,16.47,2,7,32,CHI,CHI,fg3_make,1,False,False,Valentine 25' 3PT Jump Shot (5 PTS) (White 1 AST),,31-45,31,45
 0022000979,2021-05-03,CHI,PHI,16.88,2,7,7,PHI,PHI,tov,40,False,False,,Harris Out of Bounds Lost Ball Turnover (P2.T7),31-45,31,45
 0022000979,2021-05-03,CHI,PHI,17.03,2,6,58,CHI,CHI,fg_miss,6,True,False,MISS White 3' Driving Layup,,31-45,31,45
+0022000979,2021-05-03,CHI,PHI,17.03,2,6,58,CHI,PHI,block,6,True,False,block,block,31-45,31,45
 0022000979,2021-05-03,CHI,PHI,17.03,2,6,58,CHI,CHI,reb,0,False,False,BULLS Rebound,,31-45,31,45
 0022000979,2021-05-03,CHI,PHI,17.03,2,6,58,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 3 Short 0),,31-45,31,45
-0022000979,2021-05-03,CHI,PHI,17.03,2,6,58,CHI,PHI,block,6,True,False,block,block,31-45,31,45
 0022000979,2021-05-03,CHI,PHI,17.15,2,6,51,CHI,CHI,tov,1,False,True,White Bad Pass Turnover (P3.T5),,31-45,31,45
 0022000979,2021-05-03,CHI,PHI,17.15,2,6,51,CHI,PHI,steal,1,False,True,steal,steal,31-45,31,45
 0022000979,2021-05-03,CHI,PHI,17.23,2,6,46,PHI,PHI,fg_miss,2,False,False,,MISS Harris 5' Running Jump Shot,31-45,31,45
@@ -141,12 +141,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000979,2021-05-03,CHI,PHI,17.95,2,6,3,PHI,PHI,reb,0,False,False,,Howard REBOUND (Off:1 Def:3),31-45,31,45
 0022000979,2021-05-03,CHI,PHI,17.95,2,6,3,PHI,PHI,fg_miss,97,False,False,,MISS Howard Tip Layup Shot,31-45,31,45
 0022000979,2021-05-03,CHI,PHI,17.95,2,6,3,PHI,PHI,reb,0,False,False,,Howard REBOUND (Off:2 Def:3),31-45,31,45
-0022000979,2021-05-03,CHI,PHI,17.95,2,6,3,PHI,PHI,fg_miss,97,False,False,,MISS Howard 1' Tip Layup Shot,31-45,31,45
-0022000979,2021-05-03,CHI,PHI,17.95,2,6,3,PHI,PHI,reb,0,False,False,,Howard REBOUND (Off:3 Def:3),31-45,31,45
 0022000979,2021-05-03,CHI,PHI,17.95,2,6,3,PHI,CHI,foul,2,False,False,Aminu S.FOUL (P1.T2) (E.Scott),,31-45,31,45
 0022000979,2021-05-03,CHI,PHI,17.95,2,6,3,PHI,PHI,ft_miss,11,False,False,,MISS Howard Free Throw 1 of 2,31-45,31,45
 0022000979,2021-05-03,CHI,PHI,17.95,2,6,3,PHI,PHI,reb,1,False,False,,76ers Rebound,31-45,31,45
 0022000979,2021-05-03,CHI,PHI,17.95,2,6,3,PHI,PHI,ft_make,12,False,False,,Howard Free Throw 2 of 2 (1 PTS),31-46,31,46
+0022000979,2021-05-03,CHI,PHI,17.95,2,6,3,PHI,PHI,fg_miss,97,False,False,,MISS Howard 1' Tip Layup Shot,31-45,31,45
+0022000979,2021-05-03,CHI,PHI,17.95,2,6,3,PHI,PHI,reb,0,False,False,,Howard REBOUND (Off:3 Def:3),31-45,31,45
 0022000979,2021-05-03,CHI,PHI,18.23,2,5,46,CHI,CHI,fg3_miss,1,False,False,MISS Markkanen 25' 3PT Jump Shot,,31-46,31,46
 0022000979,2021-05-03,CHI,PHI,18.28,2,5,43,CHI,CHI,reb,0,False,False,Williams REBOUND (Off:2 Def:0),,31-46,31,46
 0022000979,2021-05-03,CHI,PHI,18.35,2,5,39,CHI,PHI,foul,1,False,False,,Simmons P.FOUL (P1.T2) (D.Taylor),31-46,31,46
@@ -236,8 +236,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000979,2021-05-03,CHI,PHI,29.07,3,6,56,CHI,CHI,fg3_miss,1,False,False,MISS Satoransky 25' 3PT Jump Shot,,51-72,51,72
 0022000979,2021-05-03,CHI,PHI,29.12,3,6,53,PHI,PHI,reb,0,False,False,,Curry REBOUND (Off:0 Def:4),51-72,51,72
 0022000979,2021-05-03,CHI,PHI,29.25,3,6,45,PHI,PHI,fg_miss,6,True,False,,MISS Curry 1' Driving Layup,51-72,51,72
-0022000979,2021-05-03,CHI,PHI,29.25,3,6,45,CHI,CHI,reb,0,False,False,BULLS Rebound,,51-72,51,72
 0022000979,2021-05-03,CHI,PHI,29.25,3,6,45,PHI,CHI,block,6,True,False,block,block,51-72,51,72
+0022000979,2021-05-03,CHI,PHI,29.25,3,6,45,CHI,CHI,reb,0,False,False,BULLS Rebound,,51-72,51,72
 0022000979,2021-05-03,CHI,PHI,29.42,3,6,35,CHI,CHI,fg_miss,6,True,False,MISS Williams 2' Driving Layup,,51-72,51,72
 0022000979,2021-05-03,CHI,PHI,29.42,3,6,35,CHI,PHI,block,6,True,False,block,block,51-72,51,72
 0022000979,2021-05-03,CHI,PHI,29.48,3,6,31,PHI,PHI,reb,0,False,False,,Harris REBOUND (Off:1 Def:6),51-72,51,72
@@ -295,10 +295,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000979,2021-05-03,CHI,PHI,35.93,3,0,4,PHI,PHI,ft_make,12,False,False,,G. Hill Free Throw 2 of 2 (5 PTS),63-83,63,83
 0022000979,2021-05-03,CHI,PHI,35.97,3,0,2,CHI,PHI,foul,28,False,False,,G. Hill Personal Take Foul (P1.T3) (E.Scott),63-83,63,83
 0022000979,2021-05-03,CHI,PHI,36.0,3,0,0,CHI,CHI,fg_miss,1,True,False,MISS Markkanen 14' Jump Shot,,63-83,63,83
+0022000979,2021-05-03,CHI,PHI,36.0,3,0,0,CHI,PHI,block,1,True,False,block,block,63-83,63,83
 0022000979,2021-05-03,CHI,PHI,36.0,3,0,0,CHI,CHI,reb,0,False,False,BULLS Rebound,,63-83,63,83
 0022000979,2021-05-03,CHI,PHI,36.0,3,0,0,CHI,,period_end,0,False,False,,,63-83,63,83
 0022000979,2021-05-03,CHI,PHI,36.0,4,12,0,CHI,,period_start,0,False,False,,,63-83,63,83
-0022000979,2021-05-03,CHI,PHI,36.0,3,0,0,CHI,PHI,block,1,True,False,block,block,63-83,63,83
 0022000979,2021-05-03,CHI,PHI,36.22,4,11,47,PHI,PHI,fg3_miss,1,False,False,,MISS Thybulle 3PT Jump Shot,63-83,63,83
 0022000979,2021-05-03,CHI,PHI,36.22,4,11,47,CHI,CHI,reb,0,False,False,Aminu REBOUND (Off:0 Def:3),,63-83,63,83
 0022000979,2021-05-03,CHI,PHI,36.52,4,11,29,CHI,CHI,fg_make,98,False,False,Green 3' Cutting Layup Shot (4 PTS) (White 3 AST),,65-83,65,83

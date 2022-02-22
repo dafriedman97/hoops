@@ -208,8 +208,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900562,2020-01-08,GSW,MIL,21.73,2,2,16,MIL,MIL,fg3_miss,1,False,False,,MISS Connaughton 27' 3PT Jump Shot,35-39,35,39
 0021900562,2020-01-08,GSW,MIL,21.77,2,2,14,GSW,GSW,reb,0,False,False,Green REBOUND (Off:0 Def:3),,35-39,35,39
 0021900562,2020-01-08,GSW,MIL,22.0,2,2,0,GSW,GSW,tov,1,False,True,Lee Bad Pass Turnover (P1.T10),,35-39,35,39
-0021900562,2020-01-08,GSW,MIL,22.0,2,2,0,MIL,GSW,foul,28,False,False,Cauley-Stein Personal Take Foul (P2.PN) (D.Collins),,35-39,35,39
 0021900562,2020-01-08,GSW,MIL,22.0,2,2,0,GSW,MIL,steal,1,False,True,steal,steal,35-39,35,39
+0021900562,2020-01-08,GSW,MIL,22.0,2,2,0,MIL,GSW,foul,28,False,False,Cauley-Stein Personal Take Foul (P2.PN) (D.Collins),,35-39,35,39
 0021900562,2020-01-08,GSW,MIL,22.0,2,2,0,MIL,MIL,ft_make,11,False,False,,Middleton Free Throw 1 of 2 (6 PTS),35-40,35,40
 0021900562,2020-01-08,GSW,MIL,22.0,2,2,0,MIL,MIL,ft_make,12,False,False,,Middleton Free Throw 2 of 2 (7 PTS),35-41,35,41
 0021900562,2020-01-08,GSW,MIL,22.25,2,1,45,GSW,GSW,fg_make,1,False,False,Robinson III 12' Jump Shot (5 PTS) (Burks 4 AST),,37-41,37,41
@@ -228,8 +228,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900562,2020-01-08,GSW,MIL,23.6,2,0,24,GSW,GSW,fg3_miss,1,False,False,MISS Green 26' 3PT Jump Shot,,39-47,39,47
 0021900562,2020-01-08,GSW,MIL,23.63,2,0,22,MIL,MIL,reb,0,False,False,,DiVincenzo REBOUND (Off:0 Def:2),39-47,39,47
 0021900562,2020-01-08,GSW,MIL,23.97,2,0,2,MIL,MIL,fg_miss,101,True,False,,MISS Antetokounmpo 8' Driving Floating Jump Shot,39-47,39,47
-0021900562,2020-01-08,GSW,MIL,23.97,2,0,2,MIL,MIL,reb,0,False,False,,Connaughton REBOUND (Off:1 Def:2),39-47,39,47
 0021900562,2020-01-08,GSW,MIL,23.97,2,0,2,MIL,GSW,block,101,True,False,block,block,39-47,39,47
+0021900562,2020-01-08,GSW,MIL,23.97,2,0,2,MIL,MIL,reb,0,False,False,,Connaughton REBOUND (Off:1 Def:2),39-47,39,47
 0021900562,2020-01-08,GSW,MIL,23.98,2,0,1,MIL,MIL,tov,2,False,True,,Connaughton Lost Ball Turnover (P1.T2),39-47,39,47
 0021900562,2020-01-08,GSW,MIL,23.98,2,0,1,MIL,GSW,steal,2,False,True,steal,steal,39-47,39,47
 0021900562,2020-01-08,GSW,MIL,24.0,2,0,0,MIL,,period_end,0,False,False,,,39-47,39,47
@@ -351,10 +351,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900562,2020-01-08,GSW,MIL,35.98,3,0,1,GSW,GSW,ft_make,11,False,False,Burks Free Throw 1 of 2 (14 PTS),,71-81,71,81
 0021900562,2020-01-08,GSW,MIL,35.98,3,0,1,GSW,GSW,ft_make,12,False,False,Burks Free Throw 2 of 2 (15 PTS),,72-81,72,81
 0021900562,2020-01-08,GSW,MIL,36.0,3,0,0,MIL,MIL,fg3_miss,103,True,False,,MISS DiVincenzo 37' 3PT Running Pull-Up Jump Shot,72-81,72,81
+0021900562,2020-01-08,GSW,MIL,36.0,3,0,0,MIL,GSW,block,103,True,False,block,block,72-81,72,81
 0021900562,2020-01-08,GSW,MIL,36.0,3,0,0,MIL,MIL,reb,0,False,False,,Bucks Rebound,72-81,72,81
 0021900562,2020-01-08,GSW,MIL,36.0,3,0,0,MIL,,period_end,0,False,False,,,72-81,72,81
 0021900562,2020-01-08,GSW,MIL,36.0,4,12,0,MIL,,period_start,0,False,False,,,72-81,72,81
-0021900562,2020-01-08,GSW,MIL,36.0,3,0,0,MIL,GSW,block,103,True,False,block,block,72-81,72,81
 0021900562,2020-01-08,GSW,MIL,36.23,4,11,46,GSW,GSW,fg_miss,98,False,False,MISS Smailagic 6' Cutting Layup Shot,,72-81,72,81
 0021900562,2020-01-08,GSW,MIL,36.25,4,11,45,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:0 Def:9),72-81,72,81
 0021900562,2020-01-08,GSW,MIL,36.45,4,11,33,MIL,MIL,fg3_miss,1,False,False,,MISS Connaughton 25' 3PT Jump Shot,72-81,72,81

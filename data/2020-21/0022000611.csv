@@ -204,9 +204,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000611,2021-03-16,PHI,NYK,21.95,2,2,3,PHI,NYK,foul,4,False,False,,Bullock OFF.Foul (P4) (M.Kogut),43-48,43,48
 0022000611,2021-03-16,PHI,NYK,21.95,2,2,3,NYK,NYK,tov,37,False,False,,Bullock Offensive Foul Turnover (P1.T6),43-48,43,48
 0022000611,2021-03-16,PHI,NYK,22.13,2,1,52,PHI,PHI,fg_miss,71,True,False,MISS Howard 2' Finger Roll Layup,,43-48,43,48
+0022000611,2021-03-16,PHI,NYK,22.13,2,1,52,PHI,NYK,block,71,True,False,block,block,43-48,43,48
 0022000611,2021-03-16,PHI,NYK,22.13,2,1,52,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:1 Def:5),43-48,43,48
 0022000611,2021-03-16,PHI,NYK,22.13,2,1,52,NYK,PHI,foul,1,False,False,Howard P.FOUL (P1.PN) (M.Kogut),,43-48,43,48
-0022000611,2021-03-16,PHI,NYK,22.13,2,1,52,PHI,NYK,block,71,True,False,block,block,43-48,43,48
 0022000611,2021-03-16,PHI,NYK,22.13,2,1,52,NYK,NYK,ft_make,11,False,False,,Randle Free Throw 1 of 2 (10 PTS),43-49,43,49
 0022000611,2021-03-16,PHI,NYK,22.13,2,1,52,NYK,NYK,ft_make,12,False,False,,Randle Free Throw 2 of 2 (11 PTS),43-50,43,50
 0022000611,2021-03-16,PHI,NYK,22.33,2,1,40,PHI,PHI,fg_miss,79,False,False,MISS Curry 8' Pullup Jump Shot,,43-50,43,50
@@ -290,8 +290,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000611,2021-03-16,PHI,NYK,31.08,3,4,55,NYK,NYK,fg3_make,1,False,False,,Burks 27' 3PT Jump Shot (12 PTS) (Quickley 3 AST),69-74,69,74
 0022000611,2021-03-16,PHI,NYK,31.32,3,4,41,PHI,PHI,fg_make,102,False,False,Simmons 4' Driving Floating Bank Jump Shot (12 PTS),,71-74,71,74
 0022000611,2021-03-16,PHI,NYK,31.6,3,4,24,NYK,NYK,tov,2,False,True,,Quickley Lost Ball Turnover (P1.T8),71-74,71,74
-0022000611,2021-03-16,PHI,NYK,31.6,3,4,24,PHI,NYK,foul,28,False,False,,Randle Personal Take Foul (P2.T4) (S.Jelks),71-74,71,74
 0022000611,2021-03-16,PHI,NYK,31.6,3,4,24,NYK,PHI,steal,2,False,True,steal,steal,71-74,71,74
+0022000611,2021-03-16,PHI,NYK,31.6,3,4,24,PHI,NYK,foul,28,False,False,,Randle Personal Take Foul (P2.T4) (S.Jelks),71-74,71,74
 0022000611,2021-03-16,PHI,NYK,31.88,3,4,7,PHI,PHI,fg_miss,80,False,False,MISS Curry 20' Step Back Jump Shot,,71-74,71,74
 0022000611,2021-03-16,PHI,NYK,31.95,3,4,3,NYK,NYK,reb,0,False,False,,Gibson REBOUND (Off:1 Def:2),71-74,71,74
 0022000611,2021-03-16,PHI,NYK,32.13,3,3,52,NYK,PHI,foul,1,False,False,Harris P.FOUL (P3.T4) (K.Mauer),,71-74,71,74
@@ -306,9 +306,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000611,2021-03-16,PHI,NYK,33.4,3,2,36,PHI,PHI,reb,0,False,False,Howard REBOUND (Off:2 Def:6),,71-78,71,78
 0022000611,2021-03-16,PHI,NYK,33.5,3,2,30,PHI,PHI,fg_make,6,False,False,Curry 4' Driving Layup (17 PTS) (Milton 2 AST),,73-78,73,78
 0022000611,2021-03-16,PHI,NYK,33.72,3,2,17,NYK,NYK,fg_miss,6,True,False,,MISS Barrett 12' Driving Layup,73-78,73,78
-0022000611,2021-03-16,PHI,NYK,33.72,3,2,17,NYK,NYK,reb,0,False,False,,Knicks Rebound,73-78,73,78
-0022000611,2021-03-16,PHI,NYK,33.72,3,2,17,,PHI,jump_ball,0,False,False,Jump Ball Milton vs. Barrett: Tip to Randle,,73-78,73,78
 0022000611,2021-03-16,PHI,NYK,33.72,3,2,17,NYK,PHI,block,6,True,False,block,block,73-78,73,78
+0022000611,2021-03-16,PHI,NYK,33.72,3,2,17,,PHI,jump_ball,0,False,False,Jump Ball Milton vs. Barrett: Tip to Randle,,73-78,73,78
+0022000611,2021-03-16,PHI,NYK,33.72,3,2,17,NYK,NYK,reb,0,False,False,,Knicks Rebound,73-78,73,78
 0022000611,2021-03-16,PHI,NYK,33.95,3,2,3,NYK,NYK,fg_miss,79,False,False,,MISS Barrett 16' Pullup Jump Shot,73-78,73,78
 0022000611,2021-03-16,PHI,NYK,34.02,3,1,59,NYK,NYK,reb,0,False,False,,Ntilikina REBOUND (Off:1 Def:0),73-78,73,78
 0022000611,2021-03-16,PHI,NYK,34.05,3,1,57,NYK,NYK,tov,1,False,True,,Ntilikina Bad Pass Turnover (P1.T9),73-78,73,78
@@ -328,9 +328,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000611,2021-03-16,PHI,NYK,35.45,3,0,33,PHI,PHI,tov,1,False,True,Howard Bad Pass Turnover (P1.T12),,73-82,73,82
 0022000611,2021-03-16,PHI,NYK,35.45,3,0,33,PHI,NYK,steal,1,False,True,steal,steal,73-82,73,82
 0022000611,2021-03-16,PHI,NYK,35.5,3,0,30,NYK,NYK,fg_miss,41,True,False,,MISS Randle 6' Running Layup,73-82,73,82
+0022000611,2021-03-16,PHI,NYK,35.5,3,0,30,NYK,PHI,block,41,True,False,block,block,73-82,73,82
 0022000611,2021-03-16,PHI,NYK,35.5,3,0,30,NYK,NYK,reb,0,False,False,,Knicks Rebound,73-82,73,82
 0022000611,2021-03-16,PHI,NYK,35.5,3,0,30,PHI,PHI,timeout,1,False,False,76ERS Timeout: Regular (Full 4 Short 0),,73-82,73,82
-0022000611,2021-03-16,PHI,NYK,35.5,3,0,30,NYK,PHI,block,41,True,False,block,block,73-82,73,82
 0022000611,2021-03-16,PHI,NYK,35.53,3,0,28,NYK,NYK,fg3_miss,1,True,False,,MISS Burks 3PT Jump Shot,73-82,73,82
 0022000611,2021-03-16,PHI,NYK,35.53,3,0,28,NYK,PHI,block,1,True,False,block,block,73-82,73,82
 0022000611,2021-03-16,PHI,NYK,35.62,3,0,23,PHI,PHI,reb,0,False,False,Scott REBOUND (Off:1 Def:2),,73-82,73,82
@@ -380,8 +380,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000611,2021-03-16,PHI,NYK,40.97,4,7,2,PHI,PHI,fg_miss,58,False,False,MISS Simmons 15' Turnaround Hook Shot,,83-87,83,87
 0022000611,2021-03-16,PHI,NYK,41.02,4,6,59,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:2 Def:12),83-87,83,87
 0022000611,2021-03-16,PHI,NYK,41.32,4,6,41,NYK,NYK,fg_miss,6,True,False,,MISS Randle 3' Driving Layup,83-87,83,87
-0022000611,2021-03-16,PHI,NYK,41.32,4,6,41,NYK,NYK,reb,0,False,False,,Knicks Rebound,83-87,83,87
 0022000611,2021-03-16,PHI,NYK,41.32,4,6,41,NYK,PHI,block,6,True,False,block,block,83-87,83,87
+0022000611,2021-03-16,PHI,NYK,41.32,4,6,41,NYK,NYK,reb,0,False,False,,Knicks Rebound,83-87,83,87
 0022000611,2021-03-16,PHI,NYK,41.35,4,6,39,NYK,NYK,tov,1,False,True,,Burks Bad Pass Turnover (P1.T11),83-87,83,87
 0022000611,2021-03-16,PHI,NYK,41.35,4,6,39,NYK,PHI,steal,1,False,True,steal,steal,83-87,83,87
 0022000611,2021-03-16,PHI,NYK,41.42,4,6,35,PHI,PHI,fg_miss,50,True,False,MISS Harris 3' Running Dunk,,83-87,83,87

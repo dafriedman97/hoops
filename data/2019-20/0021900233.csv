@@ -32,9 +32,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900233,2019-11-23,MIL,DET,3.45,1,8,33,MIL,MIL,fg3_miss,79,False,False,MISS Antetokounmpo 26' 3PT Pullup Jump Shot,,6-4,6,4
 0021900233,2019-11-23,MIL,DET,3.5,1,8,30,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:1 Def:3),6-4,6,4
 0021900233,2019-11-23,MIL,DET,3.68,1,8,19,DET,DET,fg_miss,101,False,False,,MISS Drummond 8' Driving Floating Jump Shot,6-4,6,4
+0021900233,2019-11-23,MIL,DET,3.77,1,8,14,DET,DET,reb,0,False,False,,Brown REBOUND (Off:1 Def:0),6-4,6,4
 0021900233,2019-11-23,MIL,DET,3.77,1,8,14,DET,DET,fg_miss,97,False,False,,MISS Brown 1' Tip Layup Shot,6-4,6,4
 0021900233,2019-11-23,MIL,DET,3.77,1,8,14,MIL,MIL,reb,0,False,False,Lopez REBOUND (Off:0 Def:1),,6-4,6,4
-0021900233,2019-11-23,MIL,DET,3.77,1,8,14,DET,DET,reb,0,False,False,,Brown REBOUND (Off:1 Def:0),6-4,6,4
 0021900233,2019-11-23,MIL,DET,3.87,1,8,8,MIL,MIL,fg_miss,5,True,False,MISS DiVincenzo 4' Layup,,6-4,6,4
 0021900233,2019-11-23,MIL,DET,3.87,1,8,8,MIL,DET,block,5,True,False,block,block,6-4,6,4
 0021900233,2019-11-23,MIL,DET,3.92,1,8,5,MIL,MIL,reb,0,False,False,BUCKS Rebound,,6-4,6,4
@@ -209,8 +209,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900233,2019-11-23,MIL,DET,21.83,2,2,10,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:3 Def:5),49-38,49,38
 0021900233,2019-11-23,MIL,DET,21.83,2,2,10,DET,DET,fg_make,97,False,False,,Drummond 1' Tip Layup Shot (10 PTS),49-40,49,40
 0021900233,2019-11-23,MIL,DET,22.15,2,1,51,MIL,MIL,fg_miss,6,True,False,MISS Antetokounmpo 3' Driving Layup,,49-40,49,40
-0021900233,2019-11-23,MIL,DET,22.15,2,1,51,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:3 Def:6),49-40,49,40
 0021900233,2019-11-23,MIL,DET,22.15,2,1,51,MIL,DET,block,6,True,False,block,block,49-40,49,40
+0021900233,2019-11-23,MIL,DET,22.15,2,1,51,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:3 Def:6),49-40,49,40
 0021900233,2019-11-23,MIL,DET,22.42,2,1,35,DET,DET,fg_make,73,False,False,,Morris 1' Driving Reverse Layup (4 PTS),49-42,49,42
 0021900233,2019-11-23,MIL,DET,22.85,2,1,9,MIL,MIL,fg_make,101,False,False,G. Hill 9' Driving Floating Jump Shot (2 PTS),,51-42,51,42
 0021900233,2019-11-23,MIL,DET,23.22,2,0,47,DET,DET,fg3_make,1,False,False,,Morris 26' 3PT Jump Shot (7 PTS) (Kennard 2 AST),51-45,51,45
@@ -383,8 +383,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900233,2019-11-23,MIL,DET,41.87,4,6,8,MIL,MIL,fg3_miss,1,False,False,MISS Lopez 27' 3PT Jump Shot,,89-69,89,69
 0021900233,2019-11-23,MIL,DET,41.92,4,6,5,DET,DET,reb,0,False,False,,Rose REBOUND (Off:0 Def:3),89-69,89,69
 0021900233,2019-11-23,MIL,DET,42.02,4,5,59,DET,DET,fg_miss,5,True,False,,MISS Drummond 4' Layup,89-69,89,69
-0021900233,2019-11-23,MIL,DET,42.02,4,5,59,DET,DET,reb,0,False,False,,Pistons Rebound,89-69,89,69
 0021900233,2019-11-23,MIL,DET,42.02,4,5,59,DET,MIL,block,5,True,False,block,block,89-69,89,69
+0021900233,2019-11-23,MIL,DET,42.02,4,5,59,DET,DET,reb,0,False,False,,Pistons Rebound,89-69,89,69
 0021900233,2019-11-23,MIL,DET,42.22,4,5,47,DET,DET,fg3_make,1,False,False,,Galloway 24' 3PT Jump Shot (10 PTS) (Rose 5 AST),89-72,89,72
 0021900233,2019-11-23,MIL,DET,42.55,4,5,27,MIL,MIL,fg3_make,1,False,False,Matthews 26' 3PT Jump Shot (13 PTS) (Bledsoe 5 AST),,92-72,92,72
 0021900233,2019-11-23,MIL,DET,42.75,4,5,15,DET,DET,tov,1,False,True,,Drummond Bad Pass Turnover (P5.T15),92-72,92,72
@@ -420,8 +420,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900233,2019-11-23,MIL,DET,46.32,4,1,41,DET,DET,fg_make,98,False,False,,Bone Cutting Layup Shot (2 PTS) (Mykhailiuk 2 AST),98-83,98,83
 0021900233,2019-11-23,MIL,DET,46.52,4,1,29,MIL,MIL,fg3_make,1,False,False,Korver 27' 3PT Jump Shot (6 PTS) (Wilson 2 AST),,101-83,101,83
 0021900233,2019-11-23,MIL,DET,46.67,4,1,20,DET,DET,fg_miss,98,True,False,,MISS Maker 6' Cutting Layup Shot,101-83,101,83
-0021900233,2019-11-23,MIL,DET,46.67,4,1,20,DET,DET,reb,0,False,False,,Pistons Rebound,101-83,101,83
 0021900233,2019-11-23,MIL,DET,46.67,4,1,20,DET,MIL,block,98,True,False,block,block,101-83,101,83
+0021900233,2019-11-23,MIL,DET,46.67,4,1,20,DET,DET,reb,0,False,False,,Pistons Rebound,101-83,101,83
 0021900233,2019-11-23,MIL,DET,46.72,4,1,17,DET,DET,fg3_make,1,False,False,,Mykhailiuk 26' 3PT Jump Shot (6 PTS) (Frazier 1 AST),101-86,101,86
 0021900233,2019-11-23,MIL,DET,46.87,4,1,8,DET,MIL,foul,4,False,False,Antetokounmpo OFF.Foul (P1) (C.Kirkland),,101-86,101,86
 0021900233,2019-11-23,MIL,DET,46.87,4,1,8,MIL,MIL,tov,37,False,False,Antetokounmpo Offensive Foul Turnover (P1.T20),,101-86,101,86

@@ -14,9 +14,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700194,2017-11-13,MIL,MEM,1.72,1,10,17,MIL,MIL,tov,11,False,False,BUCKS Turnover: Shot Clock (T#1),,2-2,2,2
 0021700194,2017-11-13,MIL,MEM,2.15,1,9,51,MEM,MEM,fg_make,9,False,False,,Gasol 15' Driving Dunk (2 PTS),2-4,2,4
 0021700194,2017-11-13,MIL,MEM,2.27,1,9,44,MIL,MIL,tov,1,False,True,Snell Bad Pass Turnover (P1.T2),,2-4,2,4
-0021700194,2017-11-13,MIL,MEM,2.27,1,9,44,MEM,MIL,violation,2,False,False,Defensive Goaltending,,2-4,2,4
 0021700194,2017-11-13,MIL,MEM,2.27,1,9,44,MIL,MEM,steal,1,False,True,steal,steal,2-4,2,4
 0021700194,2017-11-13,MIL,MEM,2.27,1,9,44,MEM,MEM,fg_make,41,False,False,,Brooks 2' Running Layup (2 PTS),2-6,2,6
+0021700194,2017-11-13,MIL,MEM,2.27,1,9,44,MEM,MIL,violation,2,False,False,Defensive Goaltending,,2-4,2,4
 0021700194,2017-11-13,MIL,MEM,2.57,1,9,26,MIL,MIL,fg_miss,63,False,False,MISS Middleton 16' Fadeaway Jumper,,2-6,2,6
 0021700194,2017-11-13,MIL,MEM,2.62,1,9,23,MEM,MEM,reb,0,False,False,,Gasol REBOUND (Off:0 Def:1),2-6,2,6
 0021700194,2017-11-13,MIL,MEM,2.78,1,9,13,MEM,MEM,fg3_miss,1,False,False,,MISS Martin 24' 3PT Jump Shot,2-6,2,6
@@ -24,9 +24,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700194,2017-11-13,MIL,MEM,2.95,1,9,3,MEM,MEM,fg3_make,1,False,False,,Brooks 27' 3PT Jump Shot (5 PTS) (Gasol 2 AST),2-9,2,9
 0021700194,2017-11-13,MIL,MEM,3.18,1,8,49,MIL,MIL,fg3_make,1,False,False,Middleton 3PT Jump Shot (3 PTS) (Snell 1 AST),,5-9,5,9
 0021700194,2017-11-13,MIL,MEM,3.6,1,8,24,MEM,MEM,fg_miss,6,True,False,,MISS Martin 3' Driving Layup,5-9,5,9
+0021700194,2017-11-13,MIL,MEM,3.6,1,8,24,MEM,MIL,block,6,True,False,block,block,5-9,5,9
 0021700194,2017-11-13,MIL,MEM,3.6,1,8,24,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,5-9,5,9
 0021700194,2017-11-13,MIL,MEM,3.6,1,8,24,MEM,MEM,tov,11,False,False,,Grizzlies Turnover: Shot Clock (T#1),5-9,5,9
-0021700194,2017-11-13,MIL,MEM,3.6,1,8,24,MEM,MIL,block,6,True,False,block,block,5-9,5,9
 0021700194,2017-11-13,MIL,MEM,3.82,1,8,11,MIL,MIL,fg3_make,1,False,False,Middleton 26' 3PT Jump Shot (6 PTS) (Snell 2 AST),,8-9,8,9
 0021700194,2017-11-13,MIL,MEM,4.07,1,7,56,MEM,MEM,tov,1,False,True,,Gasol Bad Pass Turnover (P1.T2),8-9,8,9
 0021700194,2017-11-13,MIL,MEM,4.07,1,7,56,MEM,MIL,steal,1,False,True,steal,steal,8-9,8,9
@@ -97,9 +97,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700194,2017-11-13,MIL,MEM,11.73,1,0,16,MIL,MIL,fg3_make,1,False,False,Brogdon 28' 3PT Jump Shot (8 PTS),,34-29,34,29
 0021700194,2017-11-13,MIL,MEM,11.9,1,0,6,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.2 Short 0),34-29,34,29
 0021700194,2017-11-13,MIL,MEM,12.0,1,0,0,MEM,MEM,tov,2,False,True,,Chalmers Lost Ball Turnover (P1.T5),34-29,34,29
+0021700194,2017-11-13,MIL,MEM,12.0,1,0,0,MEM,MIL,steal,2,False,True,steal,steal,34-29,34,29
 0021700194,2017-11-13,MIL,MEM,12.0,1,0,0,MEM,,period_end,0,False,False,,,34-29,34,29
 0021700194,2017-11-13,MIL,MEM,12.0,2,12,0,MEM,,period_start,0,False,False,,,34-29,34,29
-0021700194,2017-11-13,MIL,MEM,12.0,1,0,0,MEM,MIL,steal,2,False,True,steal,steal,34-29,34,29
 0021700194,2017-11-13,MIL,MEM,12.15,2,11,51,MIL,MIL,fg_make,98,False,False,Brogdon 3' Cutting Layup Shot (10 PTS) (Dellavedova 2 AST),,36-29,36,29
 0021700194,2017-11-13,MIL,MEM,12.5,2,11,30,MEM,MEM,fg3_miss,1,False,False,,MISS Chalmers 3PT Jump Shot,36-29,36,29
 0021700194,2017-11-13,MIL,MEM,12.57,2,11,26,MIL,MIL,reb,0,False,False,Brogdon REBOUND (Off:0 Def:1),,36-29,36,29
@@ -190,10 +190,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700194,2017-11-13,MIL,MEM,23.4,2,0,36,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:1 Def:2),,57-65,57,65
 0021700194,2017-11-13,MIL,MEM,23.42,2,0,35,MIL,MIL,fg_make,72,False,False,Antetokounmpo 2' Putback Layup (16 PTS),,59-65,59,65
 0021700194,2017-11-13,MIL,MEM,23.48,2,0,31,MEM,MEM,tov,2,False,True,,Gasol Lost Ball Turnover (P3.T7),59-65,59,65
+0021700194,2017-11-13,MIL,MEM,23.48,2,0,31,MEM,MIL,steal,2,False,True,steal,steal,59-65,59,65
 0021700194,2017-11-13,MIL,MEM,23.48,2,0,31,MIL,MEM,foul,1,False,False,,Gasol P.FOUL (P1.PN) (R.Garretson),59-65,59,65
 0021700194,2017-11-13,MIL,MEM,23.48,2,0,31,MIL,MIL,ft_miss,11,False,False,MISS Snell Free Throw 1 of 2,,59-65,59,65
 0021700194,2017-11-13,MIL,MEM,23.48,2,0,31,MIL,MIL,reb,1,False,False,BUCKS Rebound,,59-65,59,65
-0021700194,2017-11-13,MIL,MEM,23.48,2,0,31,MEM,MIL,steal,2,False,True,steal,steal,59-65,59,65
 0021700194,2017-11-13,MIL,MEM,23.48,2,0,31,MIL,MIL,ft_make,12,False,False,Snell Free Throw 2 of 2 (3 PTS),,60-65,60,65
 0021700194,2017-11-13,MIL,MEM,23.73,2,0,16,MEM,MEM,fg_miss,63,False,False,,MISS Gasol 10' Fadeaway Jumper,60-65,60,65
 0021700194,2017-11-13,MIL,MEM,23.78,2,0,13,MIL,MIL,reb,0,False,False,Maker REBOUND (Off:2 Def:3),,60-65,60,65
@@ -296,8 +296,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700194,2017-11-13,MIL,MEM,35.03,3,0,58,MIL,MIL,ft_make,12,False,False,Maker Free Throw 2 of 2 (6 PTS),,81-72,81,72
 0021700194,2017-11-13,MIL,MEM,35.07,3,0,56,MEM,MIL,foul,1,False,False,Liggins P.FOUL (P2.T4) (M.Ervin),,81-72,81,72
 0021700194,2017-11-13,MIL,MEM,35.17,3,0,50,MEM,MIL,foul,1,False,False,Liggins P.FOUL (P3.PN) (R.Garretson),,81-72,81,72
-0021700194,2017-11-13,MIL,MEM,35.17,3,0,50,MEM,MEM,ft_make,12,False,False,,Chalmers Free Throw 2 of 2 (14 PTS),81-73,81,73
 0021700194,2017-11-13,MIL,MEM,35.17,3,0,50,MEM,MEM,ft_miss,11,False,False,,MISS Chalmers Free Throw 1 of 2,81-73,81,73
+0021700194,2017-11-13,MIL,MEM,35.17,3,0,50,MEM,MEM,ft_make,12,False,False,,Chalmers Free Throw 2 of 2 (14 PTS),81-73,81,73
 0021700194,2017-11-13,MIL,MEM,35.17,3,0,50,MEM,MEM,reb,1,False,False,,Grizzlies Rebound,81-73,81,73
 0021700194,2017-11-13,MIL,MEM,35.47,3,0,32,MIL,MIL,fg_miss,1,False,False,MISS Middleton 3' Jump Shot,,81-73,81,73
 0021700194,2017-11-13,MIL,MEM,35.47,3,0,32,MEM,MEM,reb,0,False,False,,Parsons REBOUND (Off:0 Def:3),81-73,81,73

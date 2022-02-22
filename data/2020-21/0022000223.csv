@@ -56,9 +56,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000223,2021-01-20,GSW,SAS,6.15,1,5,51,GSW,SAS,foul,2,False,False,,DeRozan S.FOUL (P3.PN) (M.Ervin),18-11,18,11
 0022000223,2021-01-20,GSW,SAS,6.15,1,5,51,GSW,GSW,ft_miss,11,False,False,MISS Wiggins Free Throw 1 of 2,,18-11,18,11
 0022000223,2021-01-20,GSW,SAS,6.15,1,5,51,GSW,GSW,reb,1,False,False,WARRIORS Rebound,,18-11,18,11
-0022000223,2021-01-20,GSW,SAS,6.15,1,5,51,GSW,GSW,ft_miss,12,False,False,MISS Wiggins Free Throw 2 of 2,,18-11,18,11
 0022000223,2021-01-20,GSW,SAS,6.15,1,5,51,GSW,SAS,foul,11,False,False,,DeRozan T.FOUL (P3.PN) (M.Ervin),18-11,18,11
 0022000223,2021-01-20,GSW,SAS,6.15,1,5,51,GSW,GSW,ft_make,16,False,False,Curry Free Throw Technical (1 PTS),,19-11,19,11
+0022000223,2021-01-20,GSW,SAS,6.15,1,5,51,GSW,GSW,ft_miss,12,False,False,MISS Wiggins Free Throw 2 of 2,,18-11,18,11
 0022000223,2021-01-20,GSW,SAS,6.17,1,5,50,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:1 Def:3),19-11,19,11
 0022000223,2021-01-20,GSW,SAS,6.37,1,5,38,SAS,SAS,fg_miss,101,False,False,,MISS Johnson 8' Driving Floating Jump Shot,19-11,19,11
 0022000223,2021-01-20,GSW,SAS,6.38,1,5,37,GSW,GSW,reb,0,False,False,Looney REBOUND (Off:0 Def:1),,19-11,19,11
@@ -105,8 +105,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000223,2021-01-20,GSW,SAS,11.25,1,0,45,GSW,GSW,ft_make,12,False,False,Oubre Jr. Free Throw 2 of 2 (8 PTS),,36-22,36,22
 0022000223,2021-01-20,GSW,SAS,11.43,1,0,34,SAS,SAS,fg_make,6,False,False,,Mills 4' Driving Layup (6 PTS),36-24,36,24
 0022000223,2021-01-20,GSW,SAS,11.57,1,0,26,GSW,GSW,fg_miss,6,True,False,MISS Curry 4' Driving Layup,,36-24,36,24
-0022000223,2021-01-20,GSW,SAS,11.57,1,0,26,SAS,SAS,reb,0,False,False,,Spurs Rebound,36-24,36,24
 0022000223,2021-01-20,GSW,SAS,11.57,1,0,26,GSW,SAS,block,6,True,False,block,block,36-24,36,24
+0022000223,2021-01-20,GSW,SAS,11.57,1,0,26,SAS,SAS,reb,0,False,False,,Spurs Rebound,36-24,36,24
 0022000223,2021-01-20,GSW,SAS,11.6,1,0,24,,GSW,jump_ball,0,False,False,Jump Ball Curry vs. Vassell: Tip to Poeltl,,36-24,36,24
 0022000223,2021-01-20,GSW,SAS,11.88,1,0,7,SAS,SAS,fg3_miss,79,False,False,,MISS Mills 27' 3PT Pullup Jump Shot,36-24,36,24
 0022000223,2021-01-20,GSW,SAS,11.92,1,0,5,GSW,GSW,reb,0,False,False,Oubre Jr. REBOUND (Off:0 Def:2),,36-24,36,24
@@ -365,9 +365,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000223,2021-01-20,GSW,SAS,38.7,4,9,18,GSW,GSW,fg3_miss,1,False,False,MISS Bazemore 30' 3PT Jump Shot,,94-77,94,77
 0022000223,2021-01-20,GSW,SAS,38.73,4,9,16,GSW,GSW,reb,0,False,False,Oubre Jr. REBOUND (Off:2 Def:4),,94-77,94,77
 0022000223,2021-01-20,GSW,SAS,38.75,4,9,15,GSW,GSW,fg_make,1,False,False,Lee 23' Jump Shot (2 PTS) (Bazemore 1 AST),,96-77,96,77
-0022000223,2021-01-20,GSW,SAS,38.95,4,9,3,SAS,GSW,foul,1,False,False,Oubre Jr. P.FOUL (P2.T2) (B.Taylor),,96-77,96,77
 0022000223,2021-01-20,GSW,SAS,38.95,4,9,3,SAS,GSW,foul,11,False,False,Oubre Jr. T.FOUL (P2.T2) (B.Taylor),,96-77,96,77
 0022000223,2021-01-20,GSW,SAS,38.95,4,9,3,SAS,SAS,ft_make,16,False,False,,Gay Free Throw Technical (9 PTS),96-78,96,78
+0022000223,2021-01-20,GSW,SAS,38.95,4,9,3,SAS,GSW,foul,1,False,False,Oubre Jr. P.FOUL (P2.T2) (B.Taylor),,96-77,96,77
 0022000223,2021-01-20,GSW,SAS,38.97,4,9,2,SAS,GSW,foul,15,False,False,Lee FLAGRANT.FOUL.TYPE2 (P1.T3) (B.Taylor),,96-78,96,78
 0022000223,2021-01-20,GSW,SAS,38.97,4,9,2,SAS,GSW,ejection,4,False,False,Lee Ejection:Other,,96-78,96,78
 0022000223,2021-01-20,GSW,SAS,38.97,4,9,2,SAS,SAS,ft_make,18,False,False,,Johnson Free Throw Flagrant 1 of 2 (4 PTS),96-79,96,79

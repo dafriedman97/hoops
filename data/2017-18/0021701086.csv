@@ -83,9 +83,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701086,2018-03-23,POR,BOS,12.0,2,12,0,POR,,period_start,0,False,False,,,26-23,26,23
 0021701086,2018-03-23,POR,BOS,12.27,2,11,44,BOS,BOS,fg_make,73,False,False,,Monroe 1' Driving Reverse Layup (6 PTS),26-25,26,25
 0021701086,2018-03-23,POR,BOS,12.55,2,11,27,POR,POR,fg_miss,6,True,False,MISS McCollum 2' Driving Layup,,26-25,26,25
-0021701086,2018-03-23,POR,BOS,12.55,2,11,27,POR,POR,reb,0,False,False,Davis REBOUND (Off:1 Def:1),,26-25,26,25
-0021701086,2018-03-23,POR,BOS,12.55,2,11,27,POR,BOS,foul,2,False,False,,Yabusele S.FOUL (P1.T1) (S.Wall),26-25,26,25
 0021701086,2018-03-23,POR,BOS,12.55,2,11,27,POR,BOS,block,6,True,False,block,block,26-25,26,25
+0021701086,2018-03-23,POR,BOS,12.55,2,11,27,POR,BOS,foul,2,False,False,,Yabusele S.FOUL (P1.T1) (S.Wall),26-25,26,25
+0021701086,2018-03-23,POR,BOS,12.55,2,11,27,POR,POR,reb,0,False,False,Davis REBOUND (Off:1 Def:1),,26-25,26,25
 0021701086,2018-03-23,POR,BOS,12.55,2,11,27,POR,POR,ft_make,11,False,False,Davis Free Throw 1 of 2 (1 PTS),,27-25,27,25
 0021701086,2018-03-23,POR,BOS,12.55,2,11,27,POR,POR,ft_make,12,False,False,Davis Free Throw 2 of 2 (2 PTS),,28-25,28,25
 0021701086,2018-03-23,POR,BOS,12.95,2,11,3,BOS,BOS,fg_miss,6,False,False,,MISS Larkin 2' Driving Layup,28-25,28,25
@@ -96,8 +96,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701086,2018-03-23,POR,BOS,13.53,2,10,28,POR,POR,tov,2,False,True,Connaughton Lost Ball Turnover (P1.T2),,30-25,30,25
 0021701086,2018-03-23,POR,BOS,13.53,2,10,28,POR,BOS,steal,2,False,True,steal,steal,30-25,30,25
 0021701086,2018-03-23,POR,BOS,13.58,2,10,25,BOS,BOS,fg_miss,6,True,False,,MISS Nader 2' Driving Layup,30-25,30,25
-0021701086,2018-03-23,POR,BOS,13.58,2,10,25,BOS,BOS,reb,0,False,False,,Celtics Rebound,30-25,30,25
 0021701086,2018-03-23,POR,BOS,13.58,2,10,25,BOS,POR,block,6,True,False,block,block,30-25,30,25
+0021701086,2018-03-23,POR,BOS,13.58,2,10,25,BOS,BOS,reb,0,False,False,,Celtics Rebound,30-25,30,25
 0021701086,2018-03-23,POR,BOS,13.7,2,10,18,BOS,BOS,fg_miss,63,False,False,,MISS Tatum 10' Fadeaway Jumper,30-25,30,25
 0021701086,2018-03-23,POR,BOS,13.73,2,10,16,POR,POR,reb,0,False,False,McCollum REBOUND (Off:0 Def:4),,30-25,30,25
 0021701086,2018-03-23,POR,BOS,13.95,2,10,3,POR,BOS,foul,1,False,False,,Yabusele P.FOUL (P2.T2) (D.Guthrie),30-25,30,25
@@ -203,8 +203,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701086,2018-03-23,POR,BOS,24.0,2,0,0,POR,,period_end,0,False,False,,,52-47,52,47
 0021701086,2018-03-23,POR,BOS,24.0,3,12,0,POR,,period_start,0,False,False,,,52-47,52,47
 0021701086,2018-03-23,POR,BOS,24.32,3,11,41,BOS,BOS,tov,1,False,True,,Tatum Bad Pass Turnover (P3.T11),52-47,52,47
-0021701086,2018-03-23,POR,BOS,24.32,3,11,41,POR,BOS,foul,3,False,False,,Baynes L.B.FOUL (P2.T1) (S.Wall),52-47,52,47
 0021701086,2018-03-23,POR,BOS,24.32,3,11,41,BOS,POR,steal,1,False,True,steal,steal,52-47,52,47
+0021701086,2018-03-23,POR,BOS,24.32,3,11,41,POR,BOS,foul,3,False,False,,Baynes L.B.FOUL (P2.T1) (S.Wall),52-47,52,47
 0021701086,2018-03-23,POR,BOS,24.57,3,11,26,POR,POR,fg_miss,3,False,False,MISS Nurkic 3' Hook Shot,,52-47,52,47
 0021701086,2018-03-23,POR,BOS,24.58,3,11,25,BOS,BOS,reb,0,False,False,,Baynes REBOUND (Off:1 Def:5),52-47,52,47
 0021701086,2018-03-23,POR,BOS,24.77,3,11,14,BOS,BOS,fg_make,79,False,False,,Rozier 21' Pullup Jump Shot (7 PTS),52-49,52,49
@@ -260,8 +260,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701086,2018-03-23,POR,BOS,31.9,3,4,6,POR,POR,reb,0,False,False,Nurkic REBOUND (Off:1 Def:4),,70-59,70,59
 0021701086,2018-03-23,POR,BOS,32.05,3,3,57,POR,BOS,foul,2,False,False,,Baynes S.FOUL (P4.T4) (S.Wall),70-59,70,59
 0021701086,2018-03-23,POR,BOS,32.05,3,3,57,POR,POR,ft_miss,11,False,False,MISS Nurkic Free Throw 1 of 2,,70-59,70,59
-0021701086,2018-03-23,POR,BOS,32.05,3,3,57,POR,POR,reb,1,False,False,TRAIL BLAZERS Rebound,,70-59,70,59
 0021701086,2018-03-23,POR,BOS,32.05,3,3,57,POR,POR,ft_make,12,False,False,Nurkic Free Throw 2 of 2 (11 PTS),,71-59,71,59
+0021701086,2018-03-23,POR,BOS,32.05,3,3,57,POR,POR,reb,1,False,False,TRAIL BLAZERS Rebound,,70-59,70,59
 0021701086,2018-03-23,POR,BOS,32.35,3,3,39,BOS,BOS,fg_miss,63,True,False,,MISS Morris Sr. 9' Fadeaway Jumper,71-59,71,59
 0021701086,2018-03-23,POR,BOS,32.35,3,3,39,BOS,POR,block,63,True,False,block,block,71-59,71,59
 0021701086,2018-03-23,POR,BOS,32.4,3,3,36,POR,POR,reb,0,False,False,Collins REBOUND (Off:1 Def:2),,71-59,71,59
@@ -387,8 +387,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701086,2018-03-23,POR,BOS,45.88,4,2,7,BOS,BOS,ft_make,11,False,False,,Rozier Free Throw 1 of 2 (13 PTS),94-95,94,95
 0021701086,2018-03-23,POR,BOS,45.88,4,2,7,BOS,BOS,ft_make,12,False,False,,Rozier Free Throw 2 of 2 (14 PTS),94-96,94,96
 0021701086,2018-03-23,POR,BOS,46.13,4,1,52,POR,POR,fg_miss,6,True,False,MISS Lillard 2' Driving Layup,,94-96,94,96
-0021701086,2018-03-23,POR,BOS,46.13,4,1,52,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,94-96,94,96
 0021701086,2018-03-23,POR,BOS,46.13,4,1,52,POR,BOS,block,6,True,False,block,block,94-96,94,96
+0021701086,2018-03-23,POR,BOS,46.13,4,1,52,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,94-96,94,96
 0021701086,2018-03-23,POR,BOS,46.25,4,1,45,POR,POR,fg_make,6,False,False,Lillard 1' Driving Layup (24 PTS),,96-96,96,96
 0021701086,2018-03-23,POR,BOS,46.52,4,1,29,BOS,BOS,fg_make,6,False,False,,Tatum 1' Driving Layup (11 PTS) (Larkin 7 AST),96-98,96,98
 0021701086,2018-03-23,POR,BOS,46.62,4,1,23,POR,BOS,foul,1,False,False,,Larkin P.FOUL (P2.T4) (D.Guthrie),96-98,96,98

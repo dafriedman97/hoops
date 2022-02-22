@@ -60,11 +60,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900142,2019-11-11,NOP,HOU,6.77,1,5,14,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:0 Def:1),,15-13,15,13
 0021900142,2019-11-11,NOP,HOU,6.83,1,5,10,NOP,NOP,fg_make,5,False,False,Holiday 1' Layup (2 PTS) (Hart 2 AST),,17-13,17,13
 0021900142,2019-11-11,NOP,HOU,7.23,1,4,46,HOU,HOU,fg_miss,5,True,False,,MISS Gordon 4' Layup,17-13,17,13
+0021900142,2019-11-11,NOP,HOU,7.23,1,4,46,HOU,NOP,block,5,True,False,block,block,17-13,17,13
 0021900142,2019-11-11,NOP,HOU,7.23,1,4,46,HOU,HOU,reb,0,False,False,,Gordon REBOUND (Off:1 Def:0),17-13,17,13
 0021900142,2019-11-11,NOP,HOU,7.23,1,4,46,HOU,HOU,fg3_miss,1,False,False,,MISS Gordon 25' 3PT Jump Shot,17-13,17,13
 0021900142,2019-11-11,NOP,HOU,7.23,1,4,46,HOU,HOU,reb,0,False,False,,Rockets Rebound,17-13,17,13
 0021900142,2019-11-11,NOP,HOU,7.23,1,4,46,HOU,HOU,tov,11,False,False,,Rockets Turnover: Shot Clock (T#4),17-13,17,13
-0021900142,2019-11-11,NOP,HOU,7.23,1,4,46,HOU,NOP,block,5,True,False,block,block,17-13,17,13
 0021900142,2019-11-11,NOP,HOU,7.38,1,4,37,NOP,NOP,tov,2,False,True,Holiday Lost Ball Turnover (P3.T6),,17-13,17,13
 0021900142,2019-11-11,NOP,HOU,7.38,1,4,37,NOP,HOU,steal,2,False,True,steal,steal,17-13,17,13
 0021900142,2019-11-11,NOP,HOU,7.43,1,4,34,HOU,HOU,tov,2,False,True,,Rivers Lost Ball Turnover (P1.T5),17-13,17,13
@@ -114,9 +114,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900142,2019-11-11,NOP,HOU,12.0,2,12,0,HOU,,period_start,0,False,False,,,23-30,23,30
 0021900142,2019-11-11,NOP,HOU,12.17,2,11,50,NOP,HOU,foul,1,False,False,,Chandler P.FOUL (P1.T1) (J.Goble),23-30,23,30
 0021900142,2019-11-11,NOP,HOU,12.42,2,11,35,NOP,NOP,fg_miss,6,True,False,MISS Alexander-Walker 8' Driving Layup,,23-30,23,30
+0021900142,2019-11-11,NOP,HOU,12.42,2,11,35,NOP,HOU,block,6,True,False,block,block,23-30,23,30
 0021900142,2019-11-11,NOP,HOU,12.42,2,11,35,NOP,NOP,reb,0,False,False,PELICANS Rebound,,23-30,23,30
 0021900142,2019-11-11,NOP,HOU,12.42,2,11,35,NOP,NOP,tov,11,False,False,PELICANS Turnover: Shot Clock (T#9),,23-30,23,30
-0021900142,2019-11-11,NOP,HOU,12.42,2,11,35,NOP,HOU,block,6,True,False,block,block,23-30,23,30
 0021900142,2019-11-11,NOP,HOU,12.65,2,11,21,HOU,HOU,fg_make,63,False,False,,Gordon 11' Fadeaway Jumper (4 PTS),23-32,23,32
 0021900142,2019-11-11,NOP,HOU,12.85,2,11,9,NOP,NOP,fg_miss,78,False,False,MISS Moore 11' Floating Jump Shot,,23-32,23,32
 0021900142,2019-11-11,NOP,HOU,12.9,2,11,6,HOU,HOU,reb,0,False,False,,Westbrook REBOUND (Off:0 Def:2),23-32,23,32
@@ -155,9 +155,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900142,2019-11-11,NOP,HOU,16.87,2,7,8,NOP,NOP,reb,0,False,False,Williams REBOUND (Off:1 Def:2),,35-42,35,42
 0021900142,2019-11-11,NOP,HOU,17.13,2,6,52,NOP,NOP,fg_miss,1,False,False,MISS Moore 11' Jump Shot,,35-42,35,42
 0021900142,2019-11-11,NOP,HOU,17.17,2,6,50,HOU,HOU,reb,0,False,False,,Capela REBOUND (Off:3 Def:7),35-42,35,42
-0021900142,2019-11-11,NOP,HOU,17.43,2,6,34,HOU,HOU,tov,1,False,False,,Tucker Bad Pass Turnover (P1.T7),35-42,35,42
 0021900142,2019-11-11,NOP,HOU,17.43,2,6,34,HOU,,foul,11,False,False,,,35-42,35,42
 0021900142,2019-11-11,NOP,HOU,17.43,2,6,34,HOU,HOU,ft_make,16,False,False,,Harden Free Throw Technical (3 PTS),35-43,35,43
+0021900142,2019-11-11,NOP,HOU,17.43,2,6,34,HOU,HOU,tov,1,False,False,,Tucker Bad Pass Turnover (P1.T7),35-42,35,42
 0021900142,2019-11-11,NOP,HOU,17.57,2,6,26,NOP,NOP,fg_make,3,False,False,Okafor 6' Hook Shot (9 PTS),,37-43,37,43
 0021900142,2019-11-11,NOP,HOU,17.92,2,6,5,HOU,HOU,fg_make,71,False,False,,Harden 3' Finger Roll Layup (5 PTS),37-45,37,45
 0021900142,2019-11-11,NOP,HOU,18.2,2,5,48,NOP,NOP,fg3_miss,1,False,False,MISS Holiday 25' 3PT Jump Shot,,37-45,37,45
@@ -340,8 +340,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900142,2019-11-11,NOP,HOU,34.47,3,1,32,NOP,NOP,fg3_make,1,False,False,Redick 25' 3PT Jump Shot (15 PTS) (Okafor 1 AST),,80-88,80,88
 0021900142,2019-11-11,NOP,HOU,34.73,3,1,16,HOU,HOU,fg_make,1,False,False,,Westbrook 15' Jump Shot (22 PTS),80-90,80,90
 0021900142,2019-11-11,NOP,HOU,34.95,3,1,3,NOP,NOP,fg3_miss,1,True,False,MISS Redick 24' 3PT Jump Shot,,80-90,80,90
-0021900142,2019-11-11,NOP,HOU,34.95,3,1,3,NOP,NOP,reb,0,False,False,PELICANS Rebound,,80-90,80,90
 0021900142,2019-11-11,NOP,HOU,34.95,3,1,3,NOP,HOU,block,1,True,False,block,block,80-90,80,90
+0021900142,2019-11-11,NOP,HOU,34.95,3,1,3,NOP,NOP,reb,0,False,False,PELICANS Rebound,,80-90,80,90
 0021900142,2019-11-11,NOP,HOU,34.97,3,1,2,NOP,NOP,tov,45,False,False,Alexander-Walker Out of Bounds - Bad Pass Turnover Turnover (P1.T16),,80-90,80,90
 0021900142,2019-11-11,NOP,HOU,35.13,3,0,52,HOU,HOU,tov,2,False,True,,Westbrook Lost Ball Turnover (P4.T16),80-90,80,90
 0021900142,2019-11-11,NOP,HOU,35.13,3,0,52,HOU,NOP,steal,2,False,True,steal,steal,80-90,80,90

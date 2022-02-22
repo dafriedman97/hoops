@@ -239,8 +239,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900131,2019-11-09,OKC,GSW,29.12,3,6,53,GSW,GSW,fg_make,52,False,False,,Cauley-Stein 1' Alley Oop Dunk (6 PTS) (Russell 3 AST),69-58,69,58
 0021900131,2019-11-09,OKC,GSW,29.42,3,6,35,OKC,OKC,fg3_make,1,False,False,Gallinari 3PT Jump Shot (15 PTS) (Paul 5 AST),,72-58,72,58
 0021900131,2019-11-09,OKC,GSW,29.58,3,6,25,GSW,GSW,tov,2,False,True,,Russell Lost Ball Turnover (P3.T9),72-58,72,58
-0021900131,2019-11-09,OKC,GSW,29.58,3,6,25,OKC,GSW,foul,1,False,False,,Cauley-Stein P.FOUL (P4.T4) (M.Kogut),72-58,72,58
 0021900131,2019-11-09,OKC,GSW,29.58,3,6,25,GSW,OKC,steal,2,False,True,steal,steal,72-58,72,58
+0021900131,2019-11-09,OKC,GSW,29.58,3,6,25,OKC,GSW,foul,1,False,False,,Cauley-Stein P.FOUL (P4.T4) (M.Kogut),72-58,72,58
 0021900131,2019-11-09,OKC,GSW,29.75,3,6,15,OKC,OKC,fg_make,5,False,False,Adams 3' Layup (13 PTS) (Schroder 5 AST),,74-58,74,58
 0021900131,2019-11-09,OKC,GSW,29.98,3,6,1,GSW,GSW,fg_make,78,False,False,,Burks 11' Floating Jump Shot (13 PTS),74-60,74,60
 0021900131,2019-11-09,OKC,GSW,30.37,3,5,38,OKC,OKC,fg_make,6,False,False,Schroder 3' Driving Layup (10 PTS),,76-60,76,60
@@ -293,8 +293,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900131,2019-11-09,OKC,GSW,35.23,3,0,46,OKC,OKC,ft_make,12,False,False,Schroder Free Throw 2 of 2 (14 PTS),,84-79,84,79
 0021900131,2019-11-09,OKC,GSW,35.6,3,0,24,GSW,GSW,fg_make,102,False,False,,Bowman 10' Driving Floating Bank Jump Shot (4 PTS),84-81,84,81
 0021900131,2019-11-09,OKC,GSW,35.88,3,0,7,OKC,OKC,fg_miss,6,True,False,MISS Gilgeous-Alexander 2' Driving Layup,,84-81,84,81
-0021900131,2019-11-09,OKC,GSW,35.88,3,0,7,GSW,GSW,reb,0,False,False,,Warriors Rebound,84-81,84,81
 0021900131,2019-11-09,OKC,GSW,35.88,3,0,7,OKC,GSW,block,6,True,False,block,block,84-81,84,81
+0021900131,2019-11-09,OKC,GSW,35.88,3,0,7,GSW,GSW,reb,0,False,False,,Warriors Rebound,84-81,84,81
 0021900131,2019-11-09,OKC,GSW,36.0,3,0,0,GSW,GSW,fg3_make,66,False,False,,Russell 29' 3PT Jump Bank Shot (30 PTS),84-84,84,84
 0021900131,2019-11-09,OKC,GSW,36.0,3,0,0,GSW,,period_end,0,False,False,,,84-84,84,84
 0021900131,2019-11-09,OKC,GSW,36.0,4,12,0,GSW,,period_start,0,False,False,,,84-84,84,84
@@ -332,8 +332,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900131,2019-11-09,OKC,GSW,40.62,4,7,23,OKC,GSW,block,6,True,False,block,block,98-90,98,90
 0021900131,2019-11-09,OKC,GSW,40.63,4,7,22,GSW,GSW,reb,0,False,False,,Warriors Rebound,98-90,98,90
 0021900131,2019-11-09,OKC,GSW,40.97,4,7,2,GSW,GSW,fg3_miss,1,False,False,,MISS Robinson III 3PT Jump Shot,98-90,98,90
-0021900131,2019-11-09,OKC,GSW,41.03,4,6,58,OKC,GSW,foul,3,False,False,,Cauley-Stein L.B.FOUL (P5.T1) (M.Kogut),98-90,98,90
 0021900131,2019-11-09,OKC,GSW,41.03,4,6,58,OKC,OKC,reb,0,False,False,Diallo REBOUND (Off:0 Def:2),,98-90,98,90
+0021900131,2019-11-09,OKC,GSW,41.03,4,6,58,OKC,GSW,foul,3,False,False,,Cauley-Stein L.B.FOUL (P5.T1) (M.Kogut),98-90,98,90
 0021900131,2019-11-09,OKC,GSW,41.12,4,6,53,OKC,GSW,foul,1,False,False,,Russell P.FOUL (P1.T2) (M.Kogut),98-90,98,90
 0021900131,2019-11-09,OKC,GSW,41.3,4,6,42,OKC,OKC,fg_make,6,False,False,Schroder 3' Driving Layup (16 PTS),,100-90,100,90
 0021900131,2019-11-09,OKC,GSW,41.65,4,6,21,GSW,GSW,fg_make,1,False,False,,Robinson III 8' Jump Shot (11 PTS) (Poole 6 AST),100-92,100,92
@@ -377,10 +377,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900131,2019-11-09,OKC,GSW,46.42,4,1,35,OKC,GSW,steal,1,False,True,steal,steal,108-100,108,100
 0021900131,2019-11-09,OKC,GSW,46.5,4,1,30,GSW,GSW,fg3_make,1,False,False,,Robinson III 24' 3PT Jump Shot (18 PTS) (Russell 7 AST),108-103,108,103
 0021900131,2019-11-09,OKC,GSW,46.73,4,1,16,OKC,GSW,foul,1,False,False,,Burks P.FOUL (P3.PN) (J.Capers),108-103,108,103
-0021900131,2019-11-09,OKC,GSW,46.73,4,1,16,GSW,GSW,timeout,7,False,False,,Warriors Timeout: Coach Challenge (Reg.5 Short 0),108-103,108,103
 0021900131,2019-11-09,OKC,GSW,46.73,4,1,16,GSW,OKC,ft_make,11,False,False,Paul Free Throw 1 of 2 (11 PTS),,109-103,109,103
 0021900131,2019-11-09,OKC,GSW,46.73,4,1,16,GSW,OKC,ft_make,12,False,False,Paul Free Throw 2 of 2 (12 PTS),,110-103,110,103
 0021900131,2019-11-09,OKC,GSW,46.73,4,1,16,GSW,GSW,timeout,1,False,False,,Warriors Timeout: Regular (Reg.6 Short 0),110-103,110,103
+0021900131,2019-11-09,OKC,GSW,46.73,4,1,16,GSW,GSW,timeout,7,False,False,,Warriors Timeout: Coach Challenge (Reg.5 Short 0),108-103,108,103
 0021900131,2019-11-09,OKC,GSW,46.77,4,1,14,GSW,GSW,tov,1,False,True,,Russell Bad Pass Turnover (P4.T14),110-103,110,103
 0021900131,2019-11-09,OKC,GSW,46.77,4,1,14,GSW,OKC,steal,1,False,True,steal,steal,110-103,110,103
 0021900131,2019-11-09,OKC,GSW,47.02,4,0,59,OKC,OKC,fg_make,79,False,False,Paul 12' Pullup Jump Shot (14 PTS),,112-103,112,103

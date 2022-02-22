@@ -18,8 +18,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700665,2018-01-18,HOU,MIN,1.87,1,10,8,MIN,MIN,fg_miss,3,False,False,,MISS Towns 9' Hook Shot,0-2,0,2
 0021700665,2018-01-18,HOU,MIN,1.88,1,10,7,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,0-2,0,2
 0021700665,2018-01-18,HOU,MIN,2.22,1,9,47,MIN,MIN,fg_miss,5,True,False,,MISS Towns 9' Layup,0-2,0,2
-0021700665,2018-01-18,HOU,MIN,2.22,1,9,47,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,0-2,0,2
 0021700665,2018-01-18,HOU,MIN,2.22,1,9,47,MIN,HOU,block,5,True,False,block,block,0-2,0,2
+0021700665,2018-01-18,HOU,MIN,2.22,1,9,47,MIN,MIN,reb,0,False,False,,Timberwolves Rebound,0-2,0,2
 0021700665,2018-01-18,HOU,MIN,2.32,1,9,41,MIN,MIN,fg_miss,1,True,False,,MISS Butler 15' Jump Shot,0-2,0,2
 0021700665,2018-01-18,HOU,MIN,2.32,1,9,41,MIN,HOU,block,1,True,False,block,block,0-2,0,2
 0021700665,2018-01-18,HOU,MIN,2.35,1,9,39,HOU,HOU,reb,0,False,False,Mbah a Moute REBOUND (Off:0 Def:1),,0-2,0,2
@@ -165,8 +165,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700665,2018-01-18,HOU,MIN,17.67,2,6,20,MIN,MIN,fg3_miss,1,False,False,,MISS Crawford 3PT Jump Shot,42-36,42,36
 0021700665,2018-01-18,HOU,MIN,17.7,2,6,18,HOU,HOU,reb,0,False,False,Mbah a Moute REBOUND (Off:0 Def:3),,42-36,42,36
 0021700665,2018-01-18,HOU,MIN,18.08,2,5,55,HOU,HOU,fg_miss,63,False,False,MISS Paul 10' Fadeaway Jumper,,42-36,42,36
-0021700665,2018-01-18,HOU,MIN,18.08,2,5,55,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,42-36,42,36
 0021700665,2018-01-18,HOU,MIN,18.08,2,5,55,HOU,HOU,tov,11,False,False,ROCKETS Turnover: Shot Clock (T#5),,42-36,42,36
+0021700665,2018-01-18,HOU,MIN,18.08,2,5,55,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,42-36,42,36
 0021700665,2018-01-18,HOU,MIN,18.08,2,5,55,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 2 Short 0),,42-36,42,36
 0021700665,2018-01-18,HOU,MIN,18.37,2,5,38,MIN,MIN,fg3_miss,1,False,False,,MISS Crawford 28' 3PT Jump Shot,42-36,42,36
 0021700665,2018-01-18,HOU,MIN,18.42,2,5,35,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:1 Def:5),42-36,42,36
@@ -263,8 +263,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700665,2018-01-18,HOU,MIN,28.67,3,7,20,HOU,MIN,block,5,True,False,block,block,70-61,70,61
 0021700665,2018-01-18,HOU,MIN,28.72,3,7,17,MIN,MIN,reb,0,False,False,,Towns REBOUND (Off:2 Def:7),70-61,70,61
 0021700665,2018-01-18,HOU,MIN,28.83,3,7,10,MIN,MIN,tov,1,False,True,,Butler Bad Pass Turnover (P1.T8),70-61,70,61
-0021700665,2018-01-18,HOU,MIN,28.83,3,7,10,HOU,MIN,foul,3,False,False,,Gibson L.B.FOUL (P1.T3) (T.Maddox),70-61,70,61
 0021700665,2018-01-18,HOU,MIN,28.83,3,7,10,MIN,HOU,steal,1,False,True,steal,steal,70-61,70,61
+0021700665,2018-01-18,HOU,MIN,28.83,3,7,10,HOU,MIN,foul,3,False,False,,Gibson L.B.FOUL (P1.T3) (T.Maddox),70-61,70,61
 0021700665,2018-01-18,HOU,MIN,29.02,3,6,59,HOU,HOU,fg3_make,80,False,False,Harden 26' 3PT Step Back Jump Shot (7 PTS),,73-61,73,61
 0021700665,2018-01-18,HOU,MIN,29.37,3,6,38,MIN,MIN,fg_make,6,False,False,,Butler 1' Driving Layup (17 PTS),73-63,73,63
 0021700665,2018-01-18,HOU,MIN,29.67,3,6,20,HOU,HOU,fg_miss,80,False,False,MISS Harden 9' Step Back Jump Shot,,73-63,73,63

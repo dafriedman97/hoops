@@ -49,8 +49,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000832,2021-04-14,DET,LAC,4.5,1,7,30,LAC,LAC,fg_miss,6,False,False,,MISS Kennard 3' Driving Layup,10-12,10,12
 0022000832,2021-04-14,DET,LAC,4.52,1,7,29,LAC,LAC,reb,0,False,False,,Zubac REBOUND (Off:1 Def:1),10-12,10,12
 0022000832,2021-04-14,DET,LAC,4.53,1,7,28,LAC,LAC,fg_miss,6,True,False,,MISS Zubac 3' Driving Layup,10-12,10,12
-0022000832,2021-04-14,DET,LAC,4.53,1,7,28,DET,DET,reb,0,False,False,Plumlee REBOUND (Off:0 Def:3),,10-12,10,12
 0022000832,2021-04-14,DET,LAC,4.53,1,7,28,LAC,DET,block,6,True,False,block,block,10-12,10,12
+0022000832,2021-04-14,DET,LAC,4.53,1,7,28,DET,DET,reb,0,False,False,Plumlee REBOUND (Off:0 Def:3),,10-12,10,12
 0022000832,2021-04-14,DET,LAC,4.67,1,7,20,DET,DET,tov,45,False,False,Plumlee Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,10-12,10,12
 0022000832,2021-04-14,DET,LAC,4.82,1,7,11,LAC,DET,foul,2,False,False,Plumlee S.FOUL (P2.T4) (T.Brothers),,10-12,10,12
 0022000832,2021-04-14,DET,LAC,4.82,1,7,11,LAC,LAC,ft_make,11,False,False,,Jackson Free Throw 1 of 2 (5 PTS),10-13,10,13
@@ -213,16 +213,16 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000832,2021-04-14,DET,LAC,22.18,2,1,49,DET,DET,reb,0,False,False,PISTONS Rebound,,45-49,45,49
 0022000832,2021-04-14,DET,LAC,22.18,2,1,49,DET,LAC,foul,3,False,False,,Zubac L.B.FOUL (P1.T4) (E.Dalen),45-49,45,49
 0022000832,2021-04-14,DET,LAC,22.32,2,1,41,DET,DET,tov,1,False,True,Jackson Bad Pass Turnover (P3.T7),,45-49,45,49
-0022000832,2021-04-14,DET,LAC,22.32,2,1,41,LAC,DET,foul,9,False,False,Grant C.P.FOUL (P2.PN) (E.Dalen),,45-49,45,49
 0022000832,2021-04-14,DET,LAC,22.32,2,1,41,DET,LAC,steal,1,False,True,steal,steal,45-49,45,49
+0022000832,2021-04-14,DET,LAC,22.32,2,1,41,LAC,DET,foul,9,False,False,Grant C.P.FOUL (P2.PN) (E.Dalen),,45-49,45,49
 0022000832,2021-04-14,DET,LAC,22.32,2,1,41,LAC,LAC,ft_make,25,False,False,,Coffey Free Throw Clear Path 1 of 2 (3 PTS),45-50,45,50
 0022000832,2021-04-14,DET,LAC,22.32,2,1,41,LAC,LAC,ft_make,26,False,False,,Coffey Free Throw Clear Path 2 of 2 (4 PTS),45-51,45,51
 0022000832,2021-04-14,DET,LAC,22.45,2,1,33,LAC,LAC,fg3_miss,1,True,False,,MISS Batum 26' 3PT Jump Shot,45-51,45,51
 0022000832,2021-04-14,DET,LAC,22.45,2,1,33,LAC,DET,block,1,True,False,block,block,45-51,45,51
 0022000832,2021-04-14,DET,LAC,22.47,2,1,32,DET,DET,reb,0,False,False,Bey REBOUND (Off:0 Def:2),,45-51,45,51
 0022000832,2021-04-14,DET,LAC,22.55,2,1,27,DET,DET,fg_miss,41,True,False,MISS Jackson 2' Running Layup,,45-51,45,51
-0022000832,2021-04-14,DET,LAC,22.55,2,1,27,LAC,LAC,reb,0,False,False,,Jackson REBOUND (Off:1 Def:4),45-51,45,51
 0022000832,2021-04-14,DET,LAC,22.55,2,1,27,DET,LAC,block,41,True,False,block,block,45-51,45,51
+0022000832,2021-04-14,DET,LAC,22.55,2,1,27,LAC,LAC,reb,0,False,False,,Jackson REBOUND (Off:1 Def:4),45-51,45,51
 0022000832,2021-04-14,DET,LAC,22.78,2,1,13,LAC,LAC,fg_make,75,False,False,,Kennard 3' Driving Finger Roll Layup (11 PTS),45-53,45,53
 0022000832,2021-04-14,DET,LAC,23.07,2,0,56,DET,DET,fg_make,86,False,False,Grant 12' Turnaround Fadeaway (14 PTS),,47-53,47,53
 0022000832,2021-04-14,DET,LAC,23.27,2,0,44,LAC,LAC,tov,40,False,False,,Jackson Out of Bounds Lost Ball Turnover (P1.T7),47-53,47,53
@@ -324,9 +324,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000832,2021-04-14,DET,LAC,35.97,3,0,2,LAC,LAC,ft_make,10,False,False,,Batum Free Throw 1 of 1 (4 PTS),77-73,77,73
 0022000832,2021-04-14,DET,LAC,35.97,3,0,2,DET,DET,tov,1,False,True,Grant Bad Pass Turnover (P2.T9),,77-73,77,73
 0022000832,2021-04-14,DET,LAC,35.97,3,0,2,DET,LAC,steal,1,False,True,steal,steal,77-73,77,73
+0022000832,2021-04-14,DET,LAC,36.0,3,0,0,LAC,,period_end,0,False,False,,,77-73,77,73
 0022000832,2021-04-14,DET,LAC,36.0,3,0,0,LAC,LAC,fg3_miss,1,False,False,,MISS Batum 30' 3PT Jump Shot,77-73,77,73
 0022000832,2021-04-14,DET,LAC,36.0,3,0,0,LAC,LAC,reb,0,False,False,,Clippers Rebound,77-73,77,73
-0022000832,2021-04-14,DET,LAC,36.0,3,0,0,LAC,,period_end,0,False,False,,,77-73,77,73
 0022000832,2021-04-14,DET,LAC,36.0,4,12,0,LAC,,period_start,0,False,False,,,77-73,77,73
 0022000832,2021-04-14,DET,LAC,36.33,4,11,40,DET,DET,tov,2,False,True,Stewart Lost Ball Turnover (P1.T10),,77-73,77,73
 0022000832,2021-04-14,DET,LAC,36.33,4,11,40,DET,LAC,steal,2,False,True,steal,steal,77-73,77,73
@@ -343,8 +343,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000832,2021-04-14,DET,LAC,38.65,4,9,21,LAC,LAC,fg_miss,1,False,False,,MISS Cousins 18' Jump Shot,82-78,82,78
 0022000832,2021-04-14,DET,LAC,38.7,4,9,18,DET,DET,reb,0,False,False,Hayes REBOUND (Off:1 Def:2),,82-78,82,78
 0022000832,2021-04-14,DET,LAC,38.93,4,9,4,DET,DET,fg3_miss,1,False,False,MISS Hayes 28' 3PT Jump Shot,,82-78,82,78
-0022000832,2021-04-14,DET,LAC,39.07,4,8,56,DET,DET,fg_miss,97,False,False,MISS Stewart Tip Layup Shot,,82-78,82,78
 0022000832,2021-04-14,DET,LAC,39.07,4,8,56,DET,DET,reb,0,False,False,Stewart REBOUND (Off:3 Def:4),,82-78,82,78
+0022000832,2021-04-14,DET,LAC,39.07,4,8,56,DET,DET,fg_miss,97,False,False,MISS Stewart Tip Layup Shot,,82-78,82,78
 0022000832,2021-04-14,DET,LAC,39.08,4,8,55,LAC,LAC,reb,0,False,False,,Coffey REBOUND (Off:2 Def:4),82-78,82,78
 0022000832,2021-04-14,DET,LAC,39.27,4,8,44,LAC,LAC,fg_make,5,False,False,,Coffey 4' Layup (6 PTS),82-80,82,80
 0022000832,2021-04-14,DET,LAC,39.35,4,8,39,DET,DET,timeout,1,False,False,PISTONS Timeout: Regular (Full 4 Short 0),,82-80,82,80
@@ -436,8 +436,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000832,2021-04-14,DET,LAC,47.68,4,0,19,LAC,LAC,fg3_make,1,False,False,,Jackson 24' 3PT Jump Shot (27 PTS) (Mann 1 AST),98-98,98,98
 0022000832,2021-04-14,DET,LAC,47.68,4,0,19,DET,DET,timeout,1,False,False,PISTONS Timeout: Regular (Full 7 Short 0),,98-98,98,98
 0022000832,2021-04-14,DET,LAC,47.75,4,0,15,DET,DET,tov,1,False,True,Bey Bad Pass Turnover (P2.T16),,98-98,98,98
-0022000832,2021-04-14,DET,LAC,47.75,4,0,15,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.6 Short 0),98-98,98,98
 0022000832,2021-04-14,DET,LAC,47.75,4,0,15,DET,LAC,steal,1,False,True,steal,steal,98-98,98,98
+0022000832,2021-04-14,DET,LAC,47.75,4,0,15,LAC,LAC,timeout,1,False,False,,Clippers Timeout: Regular (Reg.6 Short 0),98-98,98,98
 0022000832,2021-04-14,DET,LAC,47.97,4,0,2,LAC,LAC,fg_make,79,False,False,,Jackson 21' Pullup Jump Shot (29 PTS),98-100,98,100
 0022000832,2021-04-14,DET,LAC,48.0,4,0,0,DET,DET,fg3_miss,1,False,False,MISS Hayes 27' 3PT Jump Shot,,98-100,98,100
 0022000832,2021-04-14,DET,LAC,48.0,4,0,0,DET,DET,reb,0,False,False,PISTONS Rebound,,98-100,98,100

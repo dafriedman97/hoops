@@ -17,8 +17,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000777,2021-04-07,ORL,WAS,2.17,1,9,50,ORL,ORL,fg_miss,41,False,False,MISS Bacon 4' Running Layup,,3-4,3,4
 0022000777,2021-04-07,ORL,WAS,2.2,1,9,48,WAS,WAS,reb,0,False,False,,Len REBOUND (Off:0 Def:1),3-4,3,4
 0022000777,2021-04-07,ORL,WAS,2.35,1,9,39,WAS,WAS,fg_miss,6,True,False,,MISS Beal 6' Driving Layup,3-4,3,4
-0022000777,2021-04-07,ORL,WAS,2.35,1,9,39,WAS,WAS,reb,0,False,False,,Wizards Rebound,3-4,3,4
 0022000777,2021-04-07,ORL,WAS,2.35,1,9,39,WAS,ORL,block,6,True,False,block,block,3-4,3,4
+0022000777,2021-04-07,ORL,WAS,2.35,1,9,39,WAS,WAS,reb,0,False,False,,Wizards Rebound,3-4,3,4
 0022000777,2021-04-07,ORL,WAS,2.53,1,9,28,WAS,WAS,fg3_make,1,False,False,,Westbrook 26' 3PT Jump Shot (3 PTS) (Beal 1 AST),3-7,3,7
 0022000777,2021-04-07,ORL,WAS,2.78,1,9,13,ORL,WAS,foul,2,False,False,,Len S.FOUL (P1.T1) (C.Blair),3-7,3,7
 0022000777,2021-04-07,ORL,WAS,2.78,1,9,13,ORL,ORL,ft_miss,11,False,False,MISS Carter-Williams Free Throw 1 of 2,,3-7,3,7
@@ -38,8 +38,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000777,2021-04-07,ORL,WAS,4.1,1,7,54,ORL,ORL,tov,1,False,True,Okeke Bad Pass Turnover (P1.T2),,8-9,8,9
 0022000777,2021-04-07,ORL,WAS,4.1,1,7,54,ORL,WAS,steal,1,False,True,steal,steal,8-9,8,9
 0022000777,2021-04-07,ORL,WAS,4.18,1,7,49,WAS,WAS,tov,1,False,True,,Westbrook Bad Pass Turnover (P3.T3),8-9,8,9
-0022000777,2021-04-07,ORL,WAS,4.18,1,7,49,ORL,WAS,foul,28,False,False,,Westbrook Personal Take Foul (P1.T3) (C.Blair),8-9,8,9
 0022000777,2021-04-07,ORL,WAS,4.18,1,7,49,WAS,ORL,steal,1,False,True,steal,steal,8-9,8,9
+0022000777,2021-04-07,ORL,WAS,4.18,1,7,49,ORL,WAS,foul,28,False,False,,Westbrook Personal Take Foul (P1.T3) (C.Blair),8-9,8,9
 0022000777,2021-04-07,ORL,WAS,4.47,1,7,32,ORL,ORL,fg_make,6,False,False,Carter Jr. 3' Driving Layup (2 PTS) (Carter-Williams 1 AST),,10-9,10,9
 0022000777,2021-04-07,ORL,WAS,4.77,1,7,14,WAS,WAS,fg3_miss,1,False,False,,MISS Avdija 3PT Jump Shot,10-9,10,9
 0022000777,2021-04-07,ORL,WAS,4.83,1,7,10,ORL,ORL,reb,0,False,False,Okeke REBOUND (Off:0 Def:2),,10-9,10,9
@@ -47,9 +47,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000777,2021-04-07,ORL,WAS,5.32,1,6,41,WAS,WAS,tov,1,False,True,,Beal Bad Pass Turnover (P1.T4),12-9,12,9
 0022000777,2021-04-07,ORL,WAS,5.32,1,6,41,WAS,ORL,steal,1,False,True,steal,steal,12-9,12,9
 0022000777,2021-04-07,ORL,WAS,5.38,1,6,37,ORL,ORL,fg_miss,41,True,False,MISS Bacon 3' Running Layup,,12-9,12,9
+0022000777,2021-04-07,ORL,WAS,5.38,1,6,37,ORL,WAS,block,41,True,False,block,block,12-9,12,9
 0022000777,2021-04-07,ORL,WAS,5.38,1,6,37,WAS,WAS,reb,0,False,False,,Wizards Rebound,12-9,12,9
 0022000777,2021-04-07,ORL,WAS,5.38,1,6,37,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 1 Short 0),,12-9,12,9
-0022000777,2021-04-07,ORL,WAS,5.38,1,6,37,ORL,WAS,block,41,True,False,block,block,12-9,12,9
 0022000777,2021-04-07,ORL,WAS,5.68,1,6,19,WAS,WAS,fg_miss,1,False,False,,MISS Hachimura 20' Jump Shot,12-9,12,9
 0022000777,2021-04-07,ORL,WAS,5.73,1,6,16,ORL,ORL,reb,0,False,False,Bacon REBOUND (Off:0 Def:1),,12-9,12,9
 0022000777,2021-04-07,ORL,WAS,5.82,1,6,11,ORL,WAS,foul,2,False,False,,Smith S.FOUL (P1.T4) (D.Richardson),12-9,12,9
@@ -97,8 +97,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000777,2021-04-07,ORL,WAS,11.47,1,0,32,WAS,WAS,reb,0,False,False,,Wizards Rebound,31-32,31,32
 0022000777,2021-04-07,ORL,WAS,11.6,1,0,24,WAS,WAS,fg_make,1,False,False,,Westbrook 16' Jump Shot (8 PTS),31-34,31,34
 0022000777,2021-04-07,ORL,WAS,11.97,1,0,2,ORL,ORL,fg_miss,6,True,False,MISS Anthony 3' Driving Layup,,31-34,31,34
-0022000777,2021-04-07,ORL,WAS,11.97,1,0,2,ORL,ORL,reb,0,False,False,MAGIC Rebound,,31-34,31,34
 0022000777,2021-04-07,ORL,WAS,11.97,1,0,2,ORL,WAS,block,6,True,False,block,block,31-34,31,34
+0022000777,2021-04-07,ORL,WAS,11.97,1,0,2,ORL,ORL,reb,0,False,False,MAGIC Rebound,,31-34,31,34
 0022000777,2021-04-07,ORL,WAS,12.0,1,0,0,ORL,ORL,fg_make,67,False,False,Bamba 5' Hook Bank Shot (2 PTS) (Anthony 2 AST),,33-34,33,34
 0022000777,2021-04-07,ORL,WAS,12.0,1,0,0,ORL,,period_end,0,False,False,,,33-34,33,34
 0022000777,2021-04-07,ORL,WAS,12.0,2,12,0,ORL,,period_start,0,False,False,,,33-34,33,34
@@ -287,8 +287,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000777,2021-04-07,ORL,WAS,33.0,3,3,0,WAS,WAS,fg3_miss,1,False,False,,MISS Avdija 25' 3PT Jump Shot,77-96,77,96
 0022000777,2021-04-07,ORL,WAS,33.05,3,2,57,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:1 Def:2),,77-96,77,96
 0022000777,2021-04-07,ORL,WAS,33.23,3,2,46,ORL,ORL,fg_miss,5,True,False,MISS Bamba 3' Layup,,77-96,77,96
-0022000777,2021-04-07,ORL,WAS,33.23,3,2,46,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:2 Def:2),,77-96,77,96
 0022000777,2021-04-07,ORL,WAS,33.23,3,2,46,ORL,WAS,block,5,True,False,block,block,77-96,77,96
+0022000777,2021-04-07,ORL,WAS,33.23,3,2,46,ORL,ORL,reb,0,False,False,Bamba REBOUND (Off:2 Def:2),,77-96,77,96
 0022000777,2021-04-07,ORL,WAS,33.33,3,2,40,ORL,ORL,tov,2,False,True,Bamba Lost Ball Turnover (P1.T8),,77-96,77,96
 0022000777,2021-04-07,ORL,WAS,33.33,3,2,40,ORL,WAS,steal,2,False,True,steal,steal,77-96,77,96
 0022000777,2021-04-07,ORL,WAS,33.45,3,2,33,WAS,WAS,fg3_miss,1,False,False,,MISS Bertans 28' 3PT Jump Shot,77-96,77,96
@@ -309,8 +309,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000777,2021-04-07,ORL,WAS,35.5,3,0,30,ORL,ORL,reb,0,False,False,Ross REBOUND (Off:1 Def:3),,88-98,88,98
 0022000777,2021-04-07,ORL,WAS,35.83,3,0,10,ORL,ORL,fg_make,79,False,False,Ross 16' Pullup Jump Shot (20 PTS),,90-98,90,98
 0022000777,2021-04-07,ORL,WAS,35.95,3,0,3,WAS,ORL,foul,1,False,False,Hampton P.FOUL (P2.T2) (M.Lindsay),,90-98,90,98
-0022000777,2021-04-07,ORL,WAS,36.0,3,0,0,WAS,ORL,violation,2,False,False,Anthony Violation:Defensive Goaltending (C.Blair),,90-98,90,98
 0022000777,2021-04-07,ORL,WAS,36.0,3,0,0,WAS,WAS,fg_make,5,False,False,,Westbrook 2' Layup (18 PTS) (Smith 7 AST),90-100,90,100
+0022000777,2021-04-07,ORL,WAS,36.0,3,0,0,WAS,ORL,violation,2,False,False,Anthony Violation:Defensive Goaltending (C.Blair),,90-98,90,98
 0022000777,2021-04-07,ORL,WAS,36.0,3,0,0,WAS,,period_end,0,False,False,,,90-100,90,100
 0022000777,2021-04-07,ORL,WAS,36.0,4,12,0,WAS,,period_start,0,False,False,,,90-100,90,100
 0022000777,2021-04-07,ORL,WAS,36.22,4,11,47,ORL,ORL,fg_miss,79,False,False,MISS Anthony 11' Pullup Jump Shot,,90-100,90,100
@@ -403,8 +403,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000777,2021-04-07,ORL,WAS,46.8,4,1,12,ORL,ORL,fg3_miss,1,False,False,MISS Cannady 27' 3PT Jump Shot,,112-131,112,131
 0022000777,2021-04-07,ORL,WAS,46.85,4,1,9,WAS,WAS,reb,0,False,False,,Gill REBOUND (Off:0 Def:1),112-131,112,131
 0022000777,2021-04-07,ORL,WAS,47.08,4,0,55,WAS,WAS,tov,1,False,True,,Bonga Bad Pass Turnover (P1.T13),112-131,112,131
-0022000777,2021-04-07,ORL,WAS,47.08,4,0,55,ORL,WAS,foul,1,False,False,,Gill P.FOUL (P3.PN) (M.Lindsay),112-131,112,131
 0022000777,2021-04-07,ORL,WAS,47.08,4,0,55,WAS,ORL,steal,1,False,True,steal,steal,112-131,112,131
+0022000777,2021-04-07,ORL,WAS,47.08,4,0,55,ORL,WAS,foul,1,False,False,,Gill P.FOUL (P3.PN) (M.Lindsay),112-131,112,131
 0022000777,2021-04-07,ORL,WAS,47.08,4,0,55,ORL,ORL,ft_make,11,False,False,Cannady Free Throw 1 of 2 (1 PTS),,113-131,113,131
 0022000777,2021-04-07,ORL,WAS,47.08,4,0,55,ORL,ORL,ft_make,12,False,False,Cannady Free Throw 2 of 2 (2 PTS),,114-131,114,131
 0022000777,2021-04-07,ORL,WAS,47.33,4,0,40,WAS,WAS,fg3_miss,1,False,False,,MISS Neto 26' 3PT Jump Shot,114-131,114,131

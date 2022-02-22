@@ -69,9 +69,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700044,2017-10-23,MIL,CHA,6.78,1,5,13,CHA,CHA,reb,0,False,False,,Lamb REBOUND (Off:0 Def:3),11-13,11,13
 0021700044,2017-10-23,MIL,CHA,7.05,1,4,57,CHA,CHA,fg_miss,1,False,False,,MISS Lamb 11' Jump Shot,11-13,11,13
 0021700044,2017-10-23,MIL,CHA,7.12,1,4,53,CHA,CHA,reb,0,False,False,,Howard REBOUND (Off:4 Def:4),11-13,11,13
+0021700044,2017-10-23,MIL,CHA,7.17,1,4,50,CHA,CHA,fg_miss,97,False,False,,MISS Howard 7' Tip Layup Shot,11-13,11,13
 0021700044,2017-10-23,MIL,CHA,7.17,1,4,50,CHA,CHA,fg_miss,97,False,False,,MISS Howard 1' Tip Layup Shot,11-13,11,13
 0021700044,2017-10-23,MIL,CHA,7.17,1,4,50,CHA,CHA,reb,0,False,False,,Howard REBOUND (Off:3 Def:4),11-13,11,13
-0021700044,2017-10-23,MIL,CHA,7.17,1,4,50,CHA,CHA,fg_miss,97,False,False,,MISS Howard 7' Tip Layup Shot,11-13,11,13
 0021700044,2017-10-23,MIL,CHA,7.23,1,4,46,MIL,MIL,reb,0,False,False,Teletovic REBOUND (Off:0 Def:1),,11-13,11,13
 0021700044,2017-10-23,MIL,CHA,7.32,1,4,41,MIL,MIL,fg_make,1,False,False,Monroe 6' Jump Shot (2 PTS),,13-13,13,13
 0021700044,2017-10-23,MIL,CHA,7.4,1,4,36,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.1 Short 0),13-13,13,13
@@ -201,8 +201,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700044,2017-10-23,MIL,CHA,21.57,2,2,26,CHA,CHA,reb,1,False,False,,Hornets Rebound,47-47,47,47
 0021700044,2017-10-23,MIL,CHA,21.57,2,2,26,CHA,CHA,ft_miss,12,False,False,,MISS Howard Free Throw 2 of 2,47-47,47,47
 0021700044,2017-10-23,MIL,CHA,22.03,2,1,58,MIL,MIL,reb,0,False,False,BUCKS Rebound,,47-47,47,47
-0021700044,2017-10-23,MIL,CHA,22.43,2,1,34,MIL,MIL,fg_make,5,False,False,Antetokounmpo 2' Layup (17 PTS) (Middleton 1 AST),,49-47,49,47
 0021700044,2017-10-23,MIL,CHA,22.43,2,1,34,CHA,CHA,fg3_make,1,False,False,,Kaminsky 26' 3PT Jump Shot (10 PTS) (Walker 2 AST),49-50,49,50
+0021700044,2017-10-23,MIL,CHA,22.43,2,1,34,MIL,MIL,fg_make,5,False,False,Antetokounmpo 2' Layup (17 PTS) (Middleton 1 AST),,49-47,49,47
 0021700044,2017-10-23,MIL,CHA,22.52,2,1,29,MIL,MIL,fg_make,47,False,False,Middleton 13' Turnaround Jump Shot (7 PTS),,51-50,51,50
 0021700044,2017-10-23,MIL,CHA,22.77,2,1,14,CHA,CHA,tov,1,False,True,,Walker Bad Pass Turnover (P2.T9),51-50,51,50
 0021700044,2017-10-23,MIL,CHA,22.77,2,1,14,CHA,MIL,steal,1,False,True,steal,steal,51-50,51,50
@@ -325,11 +325,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700044,2017-10-23,MIL,CHA,36.52,4,11,29,MIL,MIL,reb,1,False,False,BUCKS Rebound,,83-77,83,77
 0021700044,2017-10-23,MIL,CHA,36.52,4,11,29,MIL,MIL,ft_make,12,False,False,Antetokounmpo Free Throw 2 of 2 (22 PTS),,84-77,84,77
 0021700044,2017-10-23,MIL,CHA,36.88,4,11,7,CHA,CHA,fg_miss,5,True,False,,MISS O'Bryant III 8' Layup,84-77,84,77
-0021700044,2017-10-23,MIL,CHA,36.88,4,11,7,CHA,CHA,reb,0,False,False,,O'Bryant III REBOUND (Off:2 Def:2),84-77,84,77
 0021700044,2017-10-23,MIL,CHA,36.88,4,11,7,CHA,MIL,block,5,True,False,block,block,84-77,84,77
+0021700044,2017-10-23,MIL,CHA,36.88,4,11,7,CHA,CHA,reb,0,False,False,,O'Bryant III REBOUND (Off:2 Def:2),84-77,84,77
 0021700044,2017-10-23,MIL,CHA,36.92,4,11,5,CHA,CHA,fg_miss,5,True,False,,MISS O'Bryant III 1' Layup,84-77,84,77
-0021700044,2017-10-23,MIL,CHA,36.92,4,11,5,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:2 Def:8),,84-77,84,77
 0021700044,2017-10-23,MIL,CHA,36.92,4,11,5,CHA,MIL,block,5,True,False,block,block,84-77,84,77
+0021700044,2017-10-23,MIL,CHA,36.92,4,11,5,MIL,MIL,reb,0,False,False,Antetokounmpo REBOUND (Off:2 Def:8),,84-77,84,77
 0021700044,2017-10-23,MIL,CHA,37.03,4,10,58,MIL,MIL,tov,4,False,False,Antetokounmpo Traveling Turnover (P5.T8),,84-77,84,77
 0021700044,2017-10-23,MIL,CHA,37.23,4,10,46,CHA,CHA,fg_miss,5,False,False,,MISS Lamb 3' Layup,84-77,84,77
 0021700044,2017-10-23,MIL,CHA,37.32,4,10,41,MIL,MIL,reb,0,False,False,Liggins REBOUND (Off:0 Def:1),,84-77,84,77

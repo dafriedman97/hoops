@@ -42,8 +42,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700077,2017-10-28,NOP,CLE,5.12,1,6,53,NOP,NOP,reb,0,False,False,Davis REBOUND (Off:0 Def:1),,17-12,17,12
 0021700077,2017-10-28,NOP,CLE,5.33,1,6,40,NOP,NOP,fg_miss,1,False,False,MISS Cousins 9' Jump Shot,,17-12,17,12
 0021700077,2017-10-28,NOP,CLE,5.33,1,6,40,NOP,NOP,reb,0,False,False,PELICANS Rebound,,17-12,17,12
-0021700077,2017-10-28,NOP,CLE,5.33,1,6,40,CLE,NOP,foul,3,False,False,Davis L.B.FOUL (P1.T2) (C.Kirkland),,17-12,17,12
 0021700077,2017-10-28,NOP,CLE,5.33,1,6,40,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 1 Short 0),,17-12,17,12
+0021700077,2017-10-28,NOP,CLE,5.33,1,6,40,CLE,NOP,foul,3,False,False,Davis L.B.FOUL (P1.T2) (C.Kirkland),,17-12,17,12
 0021700077,2017-10-28,NOP,CLE,5.6,1,6,24,CLE,CLE,fg_miss,1,False,False,,MISS James 18' Jump Shot,17-12,17,12
 0021700077,2017-10-28,NOP,CLE,5.68,1,6,19,NOP,NOP,reb,0,False,False,Moore REBOUND (Off:0 Def:1),,17-12,17,12
 0021700077,2017-10-28,NOP,CLE,5.83,1,6,10,NOP,CLE,foul,1,False,False,,Love P.FOUL (P1.T3) (C.Kirkland),17-12,17,12
@@ -191,9 +191,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700077,2017-10-28,NOP,CLE,22.85,2,1,9,CLE,NOP,steal,2,False,True,steal,steal,60-49,60,49
 0021700077,2017-10-28,NOP,CLE,22.95,2,1,3,NOP,NOP,fg_make,5,False,False,Cousins 3' Layup (11 PTS) (Cunningham 2 AST),,62-49,62,49
 0021700077,2017-10-28,NOP,CLE,22.95,2,1,3,CLE,NOP,foul,2,False,False,Cunningham S.FOUL (P2.PN) (C.Kirkland),,62-49,62,49
-0021700077,2017-10-28,NOP,CLE,23.13,2,0,52,CLE,CLE,ft_make,12,False,False,,James Free Throw 2 of 2 (9 PTS),62-50,62,50
 0021700077,2017-10-28,NOP,CLE,23.13,2,0,52,CLE,CLE,ft_miss,11,False,False,,MISS James Free Throw 1 of 2,62-50,62,50
 0021700077,2017-10-28,NOP,CLE,23.13,2,0,52,CLE,CLE,reb,1,False,False,,Cavaliers Rebound,62-50,62,50
+0021700077,2017-10-28,NOP,CLE,23.13,2,0,52,CLE,CLE,ft_make,12,False,False,,James Free Throw 2 of 2 (9 PTS),62-50,62,50
 0021700077,2017-10-28,NOP,CLE,23.32,2,0,41,NOP,NOP,fg_miss,1,False,False,MISS Davis 14' Jump Shot,,62-50,62,50
 0021700077,2017-10-28,NOP,CLE,23.43,2,0,34,CLE,CLE,reb,0,False,False,,Love REBOUND (Off:0 Def:7),62-50,62,50
 0021700077,2017-10-28,NOP,CLE,23.53,2,0,28,CLE,CLE,fg_miss,1,False,False,,MISS Wade 20' Jump Shot,62-50,62,50
@@ -257,8 +257,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700077,2017-10-28,NOP,CLE,31.38,3,4,37,NOP,NOP,reb,0,False,False,Davis REBOUND (Off:2 Def:7),,77-75,77,75
 0021700077,2017-10-28,NOP,CLE,31.4,3,4,36,NOP,NOP,fg_make,5,False,False,Davis 6' Layup (18 PTS),,79-75,79,75
 0021700077,2017-10-28,NOP,CLE,31.55,3,4,27,CLE,CLE,tov,1,False,True,,Love Bad Pass Turnover (P2.T10),79-75,79,75
-0021700077,2017-10-28,NOP,CLE,31.55,3,4,27,NOP,CLE,foul,1,False,False,,Smith P.FOUL (P1.T3) (C.Kirkland),79-75,79,75
 0021700077,2017-10-28,NOP,CLE,31.55,3,4,27,CLE,NOP,steal,1,False,True,steal,steal,79-75,79,75
+0021700077,2017-10-28,NOP,CLE,31.55,3,4,27,NOP,CLE,foul,1,False,False,,Smith P.FOUL (P1.T3) (C.Kirkland),79-75,79,75
 0021700077,2017-10-28,NOP,CLE,31.75,3,4,15,NOP,NOP,fg3_miss,1,False,False,MISS Cousins 28' 3PT Jump Shot,,79-75,79,75
 0021700077,2017-10-28,NOP,CLE,31.78,3,4,13,CLE,CLE,reb,0,False,False,,Cavaliers Rebound,79-75,79,75
 0021700077,2017-10-28,NOP,CLE,31.78,3,4,13,CLE,NOP,foul,3,False,False,Davis L.B.FOUL (P3.T1) (M.Smith),,79-75,79,75
@@ -395,8 +395,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700077,2017-10-28,NOP,CLE,45.87,4,2,8,NOP,NOP,reb,0,False,False,PELICANS Rebound,,117-98,117,98
 0021700077,2017-10-28,NOP,CLE,45.93,4,2,4,NOP,CLE,foul,2,False,False,,Shumpert S.FOUL (P1.PN) (D.Taylor),117-98,117,98
 0021700077,2017-10-28,NOP,CLE,45.93,4,2,4,NOP,NOP,ft_miss,11,False,False,MISS Allen Free Throw 1 of 2,,117-98,117,98
-0021700077,2017-10-28,NOP,CLE,45.93,4,2,4,NOP,NOP,reb,1,False,False,PELICANS Rebound,,117-98,117,98
 0021700077,2017-10-28,NOP,CLE,45.93,4,2,4,NOP,NOP,ft_miss,12,False,False,MISS Allen Free Throw 2 of 2,,117-98,117,98
+0021700077,2017-10-28,NOP,CLE,45.93,4,2,4,NOP,NOP,reb,1,False,False,PELICANS Rebound,,117-98,117,98
 0021700077,2017-10-28,NOP,CLE,45.93,4,2,4,CLE,CLE,reb,0,False,False,,Osman REBOUND (Off:0 Def:2),117-98,117,98
 0021700077,2017-10-28,NOP,CLE,46.2,4,1,48,CLE,CLE,tov,1,False,False,,Shumpert Bad Pass Turnover (P4.T17),117-98,117,98
 0021700077,2017-10-28,NOP,CLE,46.32,4,1,41,NOP,NOP,fg_miss,5,False,False,MISS Jones 6' Layup,,117-98,117,98

@@ -25,8 +25,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001011,2021-05-07,SAC,SAS,3.15,1,8,51,SAS,SAS,fg_make,41,False,False,,Walker IV 2' Running Layup (2 PTS),4-11,4,11
 0022001011,2021-05-07,SAC,SAS,3.15,1,8,51,SAC,SAC,timeout,1,False,False,KINGS Timeout: Regular (Full 1 Short 0),,4-11,4,11
 0022001011,2021-05-07,SAC,SAS,3.45,1,8,33,SAC,SAC,fg_miss,5,True,False,MISS Holmes 6' Layup,,4-11,4,11
-0022001011,2021-05-07,SAC,SAS,3.45,1,8,33,SAS,SAS,reb,0,False,False,,DeRozan REBOUND (Off:0 Def:2),4-11,4,11
 0022001011,2021-05-07,SAC,SAS,3.45,1,8,33,SAC,SAS,block,5,True,False,block,block,4-11,4,11
+0022001011,2021-05-07,SAC,SAS,3.45,1,8,33,SAS,SAS,reb,0,False,False,,DeRozan REBOUND (Off:0 Def:2),4-11,4,11
 0022001011,2021-05-07,SAC,SAS,3.62,1,8,23,SAS,SAS,fg_miss,79,False,False,,MISS Murray 18' Pullup Jump Shot,4-11,4,11
 0022001011,2021-05-07,SAC,SAS,3.68,1,8,19,SAC,SAC,reb,0,False,False,Harkless REBOUND (Off:0 Def:1),,4-11,4,11
 0022001011,2021-05-07,SAC,SAS,3.8,1,8,12,SAC,SAC,fg_make,108,False,False,Bagley III 1' Cutting Dunk Shot (2 PTS) (Holmes 1 AST),,6-11,6,11
@@ -108,8 +108,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001011,2021-05-07,SAC,SAS,12.38,2,11,37,SAS,SAS,tov,1,False,True,,Gay Bad Pass Turnover (P1.T2),21-25,21,25
 0022001011,2021-05-07,SAC,SAS,12.38,2,11,37,SAS,SAC,steal,1,False,True,steal,steal,21-25,21,25
 0022001011,2021-05-07,SAC,SAS,12.42,2,11,35,SAC,SAC,tov,2,False,True,Davis Lost Ball Turnover (P1.T2),,21-25,21,25
-0022001011,2021-05-07,SAC,SAS,12.42,2,11,35,SAS,SAC,foul,1,False,False,Davis P.FOUL (P1.T1) (A.Moyer-Gleich),,21-25,21,25
 0022001011,2021-05-07,SAC,SAS,12.42,2,11,35,SAC,SAS,steal,2,False,True,steal,steal,21-25,21,25
+0022001011,2021-05-07,SAC,SAS,12.42,2,11,35,SAS,SAC,foul,1,False,False,Davis P.FOUL (P1.T1) (A.Moyer-Gleich),,21-25,21,25
 0022001011,2021-05-07,SAC,SAS,12.65,2,11,21,SAS,SAS,fg3_make,1,False,False,,Gay 26' 3PT Jump Shot (5 PTS) (Poeltl 3 AST),21-28,21,28
 0022001011,2021-05-07,SAC,SAS,12.93,2,11,4,SAC,SAS,foul,2,False,False,,Gay S.FOUL (P1.T1) (A.Moyer-Gleich),21-28,21,28
 0022001011,2021-05-07,SAC,SAS,12.93,2,11,4,SAC,SAC,ft_make,11,False,False,Jones Free Throw 1 of 2 (3 PTS),,22-28,22,28
@@ -164,11 +164,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001011,2021-05-07,SAC,SAS,18.42,2,5,35,SAC,SAC,reb,1,False,False,KINGS Rebound,,35-38,35,38
 0022001011,2021-05-07,SAC,SAS,18.42,2,5,35,SAC,SAC,ft_make,12,False,False,Bagley III Free Throw 2 of 2 (4 PTS),,36-38,36,38
 0022001011,2021-05-07,SAC,SAS,18.67,2,5,20,SAS,SAS,fg_make,6,False,False,,Johnson 2' Driving Layup (5 PTS) (Murray 5 AST),36-40,36,40
-0022001011,2021-05-07,SAC,SAS,18.87,2,5,8,SAC,SAC,tov,2,False,True,Wright Lost Ball Turnover (P1.T6),,36-40,36,40
-0022001011,2021-05-07,SAC,SAS,18.87,2,5,8,SAS,SAS,tov,1,False,True,,Murray Bad Pass Turnover (P1.T3),36-40,36,40
-0022001011,2021-05-07,SAC,SAS,18.87,2,5,8,SAC,SAS,steal,2,False,True,steal,steal,36-40,36,40
-0022001011,2021-05-07,SAC,SAS,18.87,2,5,8,SAS,SAC,steal,1,False,True,steal,steal,36-40,36,40
 0022001011,2021-05-07,SAC,SAS,18.87,2,5,8,SAC,SAC,fg_make,5,False,False,Wright 2' Layup (4 PTS),,38-40,38,40
+0022001011,2021-05-07,SAC,SAS,18.87,2,5,8,SAC,SAC,tov,2,False,True,Wright Lost Ball Turnover (P1.T6),,36-40,36,40
+0022001011,2021-05-07,SAC,SAS,18.87,2,5,8,SAC,SAS,steal,2,False,True,steal,steal,36-40,36,40
+0022001011,2021-05-07,SAC,SAS,18.87,2,5,8,SAS,SAS,tov,1,False,True,,Murray Bad Pass Turnover (P1.T3),36-40,36,40
+0022001011,2021-05-07,SAC,SAS,18.87,2,5,8,SAS,SAC,steal,1,False,True,steal,steal,36-40,36,40
 0022001011,2021-05-07,SAC,SAS,19.07,2,4,56,SAS,SAS,fg_make,63,False,False,,Murray 18' Fadeaway Jumper (8 PTS),38-42,38,42
 0022001011,2021-05-07,SAC,SAS,19.27,2,4,44,SAC,SAC,fg_make,78,False,False,Holmes 14' Floating Jump Shot (8 PTS) (Wright 2 AST),,40-42,40,42
 0022001011,2021-05-07,SAC,SAS,19.43,2,4,34,SAS,SAS,fg_miss,79,False,False,,MISS Murray 13' Pullup Jump Shot,40-42,40,42
@@ -217,8 +217,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001011,2021-05-07,SAC,SAS,25.15,3,10,51,SAC,SAC,fg_miss,3,False,False,MISS Holmes 6' Hook Shot,,53-56,53,56
 0022001011,2021-05-07,SAC,SAS,25.2,3,10,48,SAS,SAS,reb,0,False,False,,Murray REBOUND (Off:0 Def:2),53-56,53,56
 0022001011,2021-05-07,SAC,SAS,25.28,3,10,43,SAS,SAS,tov,2,False,True,,Murray Lost Ball Turnover (P2.T6),53-56,53,56
-0022001011,2021-05-07,SAC,SAS,25.28,3,10,43,SAC,SAS,foul,9,False,False,,DeRozan C.P.FOUL (P1.T1) (D.Collins),53-56,53,56
 0022001011,2021-05-07,SAC,SAS,25.28,3,10,43,SAS,SAC,steal,2,False,True,steal,steal,53-56,53,56
+0022001011,2021-05-07,SAC,SAS,25.28,3,10,43,SAC,SAS,foul,9,False,False,,DeRozan C.P.FOUL (P1.T1) (D.Collins),53-56,53,56
 0022001011,2021-05-07,SAC,SAS,25.28,3,10,43,SAC,SAC,ft_make,25,False,False,Hield Free Throw Clear Path 1 of 2 (4 PTS),,54-56,54,56
 0022001011,2021-05-07,SAC,SAS,25.28,3,10,43,SAC,SAC,ft_make,26,False,False,Hield Free Throw Clear Path 2 of 2 (5 PTS),,55-56,55,56
 0022001011,2021-05-07,SAC,SAS,25.47,3,10,32,SAC,SAC,tov,1,False,True,Hield Bad Pass Turnover (P4.T10),,55-56,55,56
@@ -289,8 +289,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001011,2021-05-07,SAC,SAS,34.07,3,1,56,SAC,SAC,fg3_miss,79,False,False,MISS Hield 26' 3PT Pullup Jump Shot,,77-72,77,72
 0022001011,2021-05-07,SAC,SAS,34.12,3,1,53,SAS,SAS,reb,0,False,False,,Eubanks REBOUND (Off:1 Def:6),77-72,77,72
 0022001011,2021-05-07,SAC,SAS,34.33,3,1,40,SAS,SAS,tov,1,False,True,,DeRozan Bad Pass Turnover (P2.T10),77-72,77,72
-0022001011,2021-05-07,SAC,SAS,34.33,3,1,40,SAC,SAS,foul,1,False,False,,DeRozan P.FOUL (P3.T3) (D.Collins),77-72,77,72
 0022001011,2021-05-07,SAC,SAS,34.33,3,1,40,SAS,SAC,steal,1,False,True,steal,steal,77-72,77,72
+0022001011,2021-05-07,SAC,SAS,34.33,3,1,40,SAC,SAS,foul,1,False,False,,DeRozan P.FOUL (P3.T3) (D.Collins),77-72,77,72
 0022001011,2021-05-07,SAC,SAS,34.55,3,1,27,SAC,SAC,fg_miss,6,False,False,MISS Guy 4' Driving Layup,,77-72,77,72
 0022001011,2021-05-07,SAC,SAS,34.6,3,1,24,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:2 Def:4),77-72,77,72
 0022001011,2021-05-07,SAC,SAS,34.68,3,1,19,SAS,SAS,fg_make,79,False,False,,Murray 16' Pullup Jump Shot (10 PTS),77-74,77,74
@@ -334,8 +334,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001011,2021-05-07,SAC,SAS,39.82,4,8,11,SAS,SAS,fg_make,63,False,False,,Gay 8' Fadeaway Jumper (14 PTS),87-94,87,94
 0022001011,2021-05-07,SAC,SAS,40.02,4,7,59,SAC,SAC,tov,1,False,True,Hield Bad Pass Turnover (P6.T14),,87-94,87,94
 0022001011,2021-05-07,SAC,SAS,40.02,4,7,59,SAC,SAS,steal,1,False,True,steal,steal,87-94,87,94
-0022001011,2021-05-07,SAC,SAS,40.07,4,7,56,SAS,SAS,tov,2,False,False,,Murray Lost Ball Turnover (P4.T11),87-94,87,94
 0022001011,2021-05-07,SAC,SAS,40.07,4,7,56,SAC,SAS,foul,3,False,False,,Murray L.B.FOUL (P1.T2) (E.Dalen),87-94,87,94
+0022001011,2021-05-07,SAC,SAS,40.07,4,7,56,SAS,SAS,tov,2,False,False,,Murray Lost Ball Turnover (P4.T11),87-94,87,94
 0022001011,2021-05-07,SAC,SAS,40.33,4,7,40,SAC,SAC,fg_miss,1,False,False,MISS Hield 22' Jump Shot,,87-94,87,94
 0022001011,2021-05-07,SAC,SAS,40.4,4,7,36,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:2 Def:5),87-94,87,94
 0022001011,2021-05-07,SAC,SAS,40.72,4,7,17,SAS,SAS,fg_make,66,False,False,,Murray 2' Jump Bank Shot (18 PTS),87-96,87,96
@@ -389,8 +389,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001011,2021-05-07,SAC,SAS,46.08,4,1,55,SAS,SAS,reb,0,False,False,,Poeltl REBOUND (Off:3 Def:6),102-105,102,105
 0022001011,2021-05-07,SAC,SAS,46.25,4,1,45,SAS,SAS,fg_make,6,False,False,,Walker IV 2' Driving Layup (12 PTS),102-107,102,107
 0022001011,2021-05-07,SAC,SAS,46.48,4,1,31,SAC,SAC,fg_miss,6,True,False,MISS Holmes 2' Driving Layup,,102-107,102,107
-0022001011,2021-05-07,SAC,SAS,46.48,4,1,31,SAC,SAC,reb,0,False,False,KINGS Rebound,,102-107,102,107
 0022001011,2021-05-07,SAC,SAS,46.48,4,1,31,SAC,SAS,block,6,True,False,block,block,102-107,102,107
+0022001011,2021-05-07,SAC,SAS,46.48,4,1,31,SAC,SAC,reb,0,False,False,KINGS Rebound,,102-107,102,107
 0022001011,2021-05-07,SAC,SAS,46.52,4,1,29,,SAC,jump_ball,0,False,False,,,102-107,102,107
 0022001011,2021-05-07,SAC,SAS,46.52,4,1,29,SAC,SAC,timeout,1,False,False,KINGS Timeout: Regular (Full 6 Short 0),,102-107,102,107
 0022001011,2021-05-07,SAC,SAS,46.53,4,1,28,SAC,SAC,tov,45,False,False,Wright Out of Bounds - Bad Pass Turnover Turnover (P4.T16),,102-107,102,107

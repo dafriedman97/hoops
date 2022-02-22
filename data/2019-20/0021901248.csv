@@ -39,8 +39,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901248,2020-08-02,HOU,MIL,4.55,1,7,27,MIL,MIL,ft_make,11,False,False,,Lopez Free Throw 1 of 2 (1 PTS),9-15,9,15
 0021901248,2020-08-02,HOU,MIL,4.55,1,7,27,MIL,MIL,ft_make,12,False,False,,Lopez Free Throw 2 of 2 (2 PTS),9-16,9,16
 0021901248,2020-08-02,HOU,MIL,4.67,1,7,20,HOU,HOU,fg_miss,6,True,False,MISS Westbrook 2' Driving Layup,,9-16,9,16
-0021901248,2020-08-02,HOU,MIL,4.67,1,7,20,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,9-16,9,16
 0021901248,2020-08-02,HOU,MIL,4.67,1,7,20,HOU,MIL,block,6,True,False,block,block,9-16,9,16
+0021901248,2020-08-02,HOU,MIL,4.67,1,7,20,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,9-16,9,16
 0021901248,2020-08-02,HOU,MIL,4.8,1,7,12,HOU,HOU,fg_miss,1,False,False,MISS Westbrook 14' Jump Shot,,9-16,9,16
 0021901248,2020-08-02,HOU,MIL,4.83,1,7,10,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:1 Def:1),9-16,9,16
 0021901248,2020-08-02,HOU,MIL,5.05,1,6,57,MIL,HOU,foul,2,False,False,Tucker S.FOUL (P1.T3) (T.Brown),,9-16,9,16
@@ -52,8 +52,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901248,2020-08-02,HOU,MIL,5.28,1,6,43,MIL,MIL,reb,0,False,False,,Lopez REBOUND (Off:0 Def:4),9-19,9,19
 0021901248,2020-08-02,HOU,MIL,5.47,1,6,32,MIL,MIL,fg_make,66,False,False,,Lopez 14' Jump Bank Shot (4 PTS) (G. Hill 1 AST),9-21,9,21
 0021901248,2020-08-02,HOU,MIL,5.83,1,6,10,HOU,HOU,fg_miss,44,False,False,MISS Tucker 1' Reverse Layup,,9-21,9,21
-0021901248,2020-08-02,HOU,MIL,5.88,1,6,7,HOU,HOU,fg_make,97,False,False,Tucker 1' Tip Layup Shot (2 PTS),,11-21,11,21
 0021901248,2020-08-02,HOU,MIL,5.88,1,6,7,HOU,HOU,reb,0,False,False,Tucker REBOUND (Off:1 Def:0),,11-21,11,21
+0021901248,2020-08-02,HOU,MIL,5.88,1,6,7,HOU,HOU,fg_make,97,False,False,Tucker 1' Tip Layup Shot (2 PTS),,11-21,11,21
 0021901248,2020-08-02,HOU,MIL,6.13,1,5,52,MIL,MIL,tov,1,False,True,,Middleton Bad Pass Turnover (P1.T2),11-21,11,21
 0021901248,2020-08-02,HOU,MIL,6.13,1,5,52,MIL,HOU,steal,1,False,True,steal,steal,11-21,11,21
 0021901248,2020-08-02,HOU,MIL,6.2,1,5,48,MIL,HOU,foul,26,False,False,Harden Offensive Charge Foul (P1.T4) (Z.Zarba),,11-21,11,21
@@ -101,8 +101,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901248,2020-08-02,HOU,MIL,10.58,1,1,25,HOU,HOU,tov,2,False,True,Westbrook Lost Ball Turnover (P1.T2),,24-27,24,27
 0021901248,2020-08-02,HOU,MIL,10.58,1,1,25,HOU,MIL,steal,2,False,True,steal,steal,24-27,24,27
 0021901248,2020-08-02,HOU,MIL,10.67,1,1,20,MIL,MIL,fg_miss,41,False,False,,MISS Brown 1' Running Layup,24-27,24,27
-0021901248,2020-08-02,HOU,MIL,10.72,1,1,17,MIL,MIL,fg_make,107,False,False,,Antetokounmpo 1' Tip Dunk Shot (10 PTS),24-29,24,29
 0021901248,2020-08-02,HOU,MIL,10.72,1,1,17,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:5),24-29,24,29
+0021901248,2020-08-02,HOU,MIL,10.72,1,1,17,MIL,MIL,fg_make,107,False,False,,Antetokounmpo 1' Tip Dunk Shot (10 PTS),24-29,24,29
 0021901248,2020-08-02,HOU,MIL,10.88,1,1,7,HOU,HOU,fg3_make,1,False,False,Westbrook 26' 3PT Jump Shot (5 PTS) (Green 2 AST),,27-29,27,29
 0021901248,2020-08-02,HOU,MIL,11.18,1,0,49,MIL,MIL,tov,1,False,True,,DiVincenzo Bad Pass Turnover (P1.T4),27-29,27,29
 0021901248,2020-08-02,HOU,MIL,11.18,1,0,49,MIL,HOU,steal,1,False,True,steal,steal,27-29,27,29
@@ -112,10 +112,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901248,2020-08-02,HOU,MIL,11.9,1,0,6,MIL,MIL,fg3_miss,80,False,False,,MISS DiVincenzo 26' 3PT Step Back Jump Shot,32-29,32,29
 0021901248,2020-08-02,HOU,MIL,11.95,1,0,3,HOU,HOU,reb,0,False,False,McLemore REBOUND (Off:0 Def:1),,32-29,32,29
 0021901248,2020-08-02,HOU,MIL,12.0,1,0,0,HOU,HOU,fg3_miss,2,True,False,MISS McLemore 49' 3PT Running Jump Shot,,32-29,32,29
+0021901248,2020-08-02,HOU,MIL,12.0,1,0,0,HOU,MIL,block,2,True,False,block,block,32-29,32,29
 0021901248,2020-08-02,HOU,MIL,12.0,1,0,0,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,32-29,32,29
 0021901248,2020-08-02,HOU,MIL,12.0,1,0,0,HOU,,period_end,0,False,False,,,32-29,32,29
 0021901248,2020-08-02,HOU,MIL,12.0,2,12,0,HOU,,period_start,0,False,False,,,32-29,32,29
-0021901248,2020-08-02,HOU,MIL,12.0,1,0,0,HOU,MIL,block,2,True,False,block,block,32-29,32,29
 0021901248,2020-08-02,HOU,MIL,12.15,2,11,51,HOU,HOU,fg3_miss,1,False,False,MISS McLemore 26' 3PT Jump Shot,,32-29,32,29
 0021901248,2020-08-02,HOU,MIL,12.2,2,11,48,MIL,MIL,reb,0,False,False,,Middleton REBOUND (Off:1 Def:2),32-29,32,29
 0021901248,2020-08-02,HOU,MIL,12.47,2,11,32,MIL,MIL,fg_make,79,False,False,,DiVincenzo 13' Pullup Jump Shot (2 PTS),32-31,32,31
@@ -237,8 +237,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901248,2020-08-02,HOU,MIL,23.55,2,0,27,HOU,HOU,fg_miss,79,False,False,MISS Westbrook 19' Pullup Jump Shot,,62-54,62,54
 0021901248,2020-08-02,HOU,MIL,23.58,2,0,25,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:8),62-54,62,54
 0021901248,2020-08-02,HOU,MIL,23.93,2,0,4,MIL,MIL,fg_miss,6,True,False,,MISS Antetokounmpo 6' Driving Layup,62-54,62,54
-0021901248,2020-08-02,HOU,MIL,23.93,2,0,4,HOU,HOU,reb,0,False,False,Westbrook REBOUND (Off:0 Def:2),,62-54,62,54
 0021901248,2020-08-02,HOU,MIL,23.93,2,0,4,MIL,HOU,block,6,True,False,block,block,62-54,62,54
+0021901248,2020-08-02,HOU,MIL,23.93,2,0,4,HOU,HOU,reb,0,False,False,Westbrook REBOUND (Off:0 Def:2),,62-54,62,54
 0021901248,2020-08-02,HOU,MIL,24.0,2,0,0,HOU,,period_end,0,False,False,,,62-54,62,54
 0021901248,2020-08-02,HOU,MIL,24.0,3,12,0,HOU,,period_start,0,False,False,,,62-54,62,54
 0021901248,2020-08-02,HOU,MIL,24.28,3,11,43,HOU,HOU,fg3_make,1,False,False,Tucker 3PT Jump Shot (5 PTS) (Westbrook 5 AST),,65-54,65,54
@@ -327,8 +327,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901248,2020-08-02,HOU,MIL,32.4,3,3,36,HOU,HOU,ft_make,11,False,False,Harden Free Throw 1 of 2 (16 PTS),,80-77,80,77
 0021901248,2020-08-02,HOU,MIL,32.4,3,3,36,HOU,HOU,ft_make,12,False,False,Harden Free Throw 2 of 2 (17 PTS),,81-77,81,77
 0021901248,2020-08-02,HOU,MIL,32.78,3,3,13,MIL,MIL,fg_miss,6,False,False,,MISS Antetokounmpo 4' Driving Layup,81-77,81,77
-0021901248,2020-08-02,HOU,MIL,32.83,3,3,10,MIL,MIL,fg_miss,97,False,False,,MISS Antetokounmpo 1' Tip Layup Shot,81-77,81,77
 0021901248,2020-08-02,HOU,MIL,32.83,3,3,10,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:3 Def:12),81-77,81,77
+0021901248,2020-08-02,HOU,MIL,32.83,3,3,10,MIL,MIL,fg_miss,97,False,False,,MISS Antetokounmpo 1' Tip Layup Shot,81-77,81,77
 0021901248,2020-08-02,HOU,MIL,32.85,3,3,9,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:3 Def:12),81-77,81,77
 0021901248,2020-08-02,HOU,MIL,32.85,3,3,9,MIL,MIL,fg_make,97,False,False,,Antetokounmpo 1' Tip Layup Shot (22 PTS),81-79,81,79
 0021901248,2020-08-02,HOU,MIL,32.98,3,3,1,HOU,HOU,tov,39,False,False,Westbrook Step Out of Bounds Turnover (P4.T6),,81-79,81,79
@@ -371,8 +371,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901248,2020-08-02,HOU,MIL,37.52,4,10,29,MIL,MIL,fg3_miss,79,False,False,,MISS Antetokounmpo 26' 3PT Pullup Jump Shot,92-95,92,95
 0021901248,2020-08-02,HOU,MIL,37.55,4,10,27,HOU,HOU,reb,0,False,False,House Jr. REBOUND (Off:0 Def:2),,92-95,92,95
 0021901248,2020-08-02,HOU,MIL,37.67,4,10,20,HOU,HOU,fg3_miss,80,False,False,MISS Rivers 26' 3PT Step Back Jump Shot,,92-95,92,95
-0021901248,2020-08-02,HOU,MIL,37.73,4,10,16,HOU,HOU,fg_make,97,False,False,Westbrook 1' Tip Layup Shot (22 PTS),,94-95,94,95
 0021901248,2020-08-02,HOU,MIL,37.73,4,10,16,HOU,HOU,reb,0,False,False,Westbrook REBOUND (Off:1 Def:5),,94-95,94,95
+0021901248,2020-08-02,HOU,MIL,37.73,4,10,16,HOU,HOU,fg_make,97,False,False,Westbrook 1' Tip Layup Shot (22 PTS),,94-95,94,95
 0021901248,2020-08-02,HOU,MIL,38.02,4,9,59,MIL,MIL,fg_miss,86,False,False,,MISS Lopez 10' Turnaround Fadeaway Shot,94-95,94,95
 0021901248,2020-08-02,HOU,MIL,38.05,4,9,57,HOU,HOU,reb,0,False,False,Rivers REBOUND (Off:0 Def:4),,94-95,94,95
 0021901248,2020-08-02,HOU,MIL,38.23,4,9,46,HOU,HOU,fg3_miss,1,False,False,MISS Green 25' 3PT Jump Shot,,94-95,94,95
@@ -404,8 +404,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901248,2020-08-02,HOU,MIL,40.73,4,7,16,HOU,HOU,tov,2,False,True,House Jr. Lost Ball Turnover (P1.T8),,98-99,98,99
 0021901248,2020-08-02,HOU,MIL,40.73,4,7,16,HOU,MIL,steal,2,False,True,steal,steal,98-99,98,99
 0021901248,2020-08-02,HOU,MIL,40.95,4,7,3,MIL,MIL,fg_make,108,False,False,,Lopez Cutting Dunk Shot (17 PTS) (Middleton 2 AST),98-101,98,101
-0021901248,2020-08-02,HOU,MIL,41.22,4,6,47,HOU,HOU,tov,2,False,True,Harden Lost Ball Turnover (P3.T9),,98-101,98,101
 0021901248,2020-08-02,HOU,MIL,41.22,4,6,47,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 4 Short 0),,98-101,98,101
+0021901248,2020-08-02,HOU,MIL,41.22,4,6,47,HOU,HOU,tov,2,False,True,Harden Lost Ball Turnover (P3.T9),,98-101,98,101
 0021901248,2020-08-02,HOU,MIL,41.22,4,6,47,HOU,MIL,steal,2,False,True,steal,steal,98-101,98,101
 0021901248,2020-08-02,HOU,MIL,41.45,4,6,33,MIL,MIL,fg_make,75,False,False,,Korver 2' Driving Finger Roll Layup (5 PTS),98-103,98,103
 0021901248,2020-08-02,HOU,MIL,41.6,4,6,24,HOU,HOU,fg3_make,80,False,False,Harden 27' 3PT Step Back Jump Shot (20 PTS),,101-103,101,103
@@ -466,8 +466,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021901248,2020-08-02,HOU,MIL,47.67,4,0,20,HOU,HOU,ft_make,11,False,False,Westbrook Free Throw 1 of 2 (30 PTS),,116-116,116,116
 0021901248,2020-08-02,HOU,MIL,47.67,4,0,20,HOU,HOU,ft_make,12,False,False,Westbrook Free Throw 2 of 2 (31 PTS),,117-116,117,116
 0021901248,2020-08-02,HOU,MIL,47.77,4,0,14,MIL,MIL,tov,1,False,True,,Antetokounmpo Bad Pass Turnover (P3.T23),117-116,117,116
-0021901248,2020-08-02,HOU,MIL,47.77,4,0,14,HOU,MIL,foul,1,False,False,,Korver P.FOUL (P2.PN) (Z.Zarba),117-116,117,116
 0021901248,2020-08-02,HOU,MIL,47.77,4,0,14,MIL,HOU,steal,1,False,True,steal,steal,117-116,117,116
+0021901248,2020-08-02,HOU,MIL,47.77,4,0,14,HOU,MIL,foul,1,False,False,,Korver P.FOUL (P2.PN) (Z.Zarba),117-116,117,116
 0021901248,2020-08-02,HOU,MIL,47.77,4,0,14,HOU,HOU,ft_make,11,False,False,House Jr. Free Throw 1 of 2 (15 PTS),,118-116,118,116
 0021901248,2020-08-02,HOU,MIL,47.77,4,0,14,HOU,HOU,ft_make,12,False,False,House Jr. Free Throw 2 of 2 (16 PTS),,119-116,119,116
 0021901248,2020-08-02,HOU,MIL,47.87,4,0,8,MIL,MIL,fg3_miss,79,False,False,,MISS Middleton 26' 3PT Pullup Jump Shot,119-116,119,116

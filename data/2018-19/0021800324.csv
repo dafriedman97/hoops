@@ -40,9 +40,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800324,2018-11-30,MIA,NOP,4.48,1,7,31,NOP,NOP,reb,0,False,False,,Moore REBOUND (Off:0 Def:1),12-7,12,7
 0021800324,2018-11-30,MIA,NOP,4.6,1,7,24,NOP,NOP,fg_make,3,False,False,,Moore 10' Hook Shot (2 PTS) (Frazier 2 AST),12-9,12,9
 0021800324,2018-11-30,MIA,NOP,4.8,1,7,12,MIA,MIA,fg_miss,3,True,False,MISS Richardson 6' Hook Shot,,12-9,12,9
+0021800324,2018-11-30,MIA,NOP,4.8,1,7,12,MIA,NOP,block,3,True,False,block,block,12-9,12,9
 0021800324,2018-11-30,MIA,NOP,4.8,1,7,12,MIA,MIA,reb,0,False,False,HEAT Rebound,,12-9,12,9
 0021800324,2018-11-30,MIA,NOP,4.8,1,7,12,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 1 Short 0),,12-9,12,9
-0021800324,2018-11-30,MIA,NOP,4.8,1,7,12,MIA,NOP,block,3,True,False,block,block,12-9,12,9
 0021800324,2018-11-30,MIA,NOP,4.85,1,7,9,MIA,MIA,tov,4,False,False,Johnson Traveling Turnover (P2.T2),,12-9,12,9
 0021800324,2018-11-30,MIA,NOP,5.13,1,6,52,NOP,NOP,fg_make,63,False,False,,Davis 13' Fadeaway Jumper (2 PTS),12-11,12,11
 0021800324,2018-11-30,MIA,NOP,5.3,1,6,42,MIA,MIA,fg_make,5,False,False,Whiteside 4' Layup (6 PTS) (Johnson 1 AST),,14-11,14,11
@@ -113,8 +113,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800324,2018-11-30,MIA,NOP,12.62,2,11,23,NOP,NOP,fg_miss,1,False,False,,MISS Moore 21' Jump Shot,37-17,37,17
 0021800324,2018-11-30,MIA,NOP,12.67,2,11,20,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:0 Def:2),,37-17,37,17
 0021800324,2018-11-30,MIA,NOP,12.73,2,11,16,MIA,MIA,fg_miss,6,True,False,MISS Adebayo 4' Driving Layup,,37-17,37,17
-0021800324,2018-11-30,MIA,NOP,12.73,2,11,16,MIA,MIA,reb,0,False,False,HEAT Rebound,,37-17,37,17
 0021800324,2018-11-30,MIA,NOP,12.73,2,11,16,MIA,NOP,block,6,True,False,block,block,37-17,37,17
+0021800324,2018-11-30,MIA,NOP,12.73,2,11,16,MIA,MIA,reb,0,False,False,HEAT Rebound,,37-17,37,17
 0021800324,2018-11-30,MIA,NOP,12.9,2,11,6,MIA,MIA,fg_miss,63,False,False,MISS Winslow 11' Fadeaway Jumper,,37-17,37,17
 0021800324,2018-11-30,MIA,NOP,13.0,2,11,0,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:1 Def:2),,37-17,37,17
 0021800324,2018-11-30,MIA,NOP,13.03,2,10,58,MIA,MIA,fg3_miss,1,False,False,MISS McGruder 25' 3PT Jump Shot,,37-17,37,17
@@ -364,9 +364,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800324,2018-11-30,MIA,NOP,38.03,4,9,58,NOP,NOP,fg3_miss,1,False,False,,MISS Clark 25' 3PT Jump Shot,86-79,86,79
 0021800324,2018-11-30,MIA,NOP,38.12,4,9,53,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:3 Def:5),,86-79,86,79
 0021800324,2018-11-30,MIA,NOP,38.47,4,9,32,MIA,MIA,fg_miss,5,True,False,MISS Winslow 6' Layup,,86-79,86,79
+0021800324,2018-11-30,MIA,NOP,38.47,4,9,32,MIA,NOP,block,5,True,False,block,block,86-79,86,79
 0021800324,2018-11-30,MIA,NOP,38.47,4,9,32,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:4 Def:5),,86-79,86,79
 0021800324,2018-11-30,MIA,NOP,38.47,4,9,32,MIA,MIA,tov,11,False,False,HEAT Turnover: Shot Clock (T#13),,86-79,86,79
-0021800324,2018-11-30,MIA,NOP,38.47,4,9,32,MIA,NOP,block,5,True,False,block,block,86-79,86,79
 0021800324,2018-11-30,MIA,NOP,38.6,4,9,24,NOP,MIA,foul,1,False,False,McGruder P.FOUL (P4.T1) (M.Ervin),,86-79,86,79
 0021800324,2018-11-30,MIA,NOP,38.75,4,9,15,NOP,NOP,fg_miss,78,False,False,,MISS Moore 8' Floating Jump Shot,86-79,86,79
 0021800324,2018-11-30,MIA,NOP,38.8,4,9,12,NOP,NOP,reb,0,False,False,,Moore REBOUND (Off:2 Def:2),86-79,86,79

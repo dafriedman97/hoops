@@ -6,8 +6,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701206,2018-04-09,MIA,OKC,0.53,1,11,28,MIA,MIA,fg_miss,98,False,False,MISS Johnson 2' Cutting Layup Shot,,0-0,0,0
 0021701206,2018-04-09,MIA,OKC,0.58,1,11,25,OKC,OKC,reb,0,False,False,,Adams REBOUND (Off:0 Def:1),0-0,0,0
 0021701206,2018-04-09,MIA,OKC,0.65,1,11,21,OKC,OKC,fg_miss,5,True,False,,MISS Adams 3' Layup,0-0,0,0
-0021701206,2018-04-09,MIA,OKC,0.65,1,11,21,OKC,OKC,reb,0,False,False,,Thunder Rebound,0-0,0,0
 0021701206,2018-04-09,MIA,OKC,0.65,1,11,21,OKC,MIA,block,5,True,False,block,block,0-0,0,0
+0021701206,2018-04-09,MIA,OKC,0.65,1,11,21,OKC,OKC,reb,0,False,False,,Thunder Rebound,0-0,0,0
 0021701206,2018-04-09,MIA,OKC,0.8,1,11,12,OKC,OKC,fg_miss,1,False,False,,MISS Westbrook 14' Jump Shot,0-0,0,0
 0021701206,2018-04-09,MIA,OKC,0.92,1,11,5,MIA,MIA,reb,0,False,False,Whiteside REBOUND (Off:0 Def:1),,0-0,0,0
 0021701206,2018-04-09,MIA,OKC,1.15,1,10,51,MIA,MIA,fg_make,79,False,False,Richardson 12' Pullup Jump Shot (2 PTS) (Whiteside 1 AST),,2-0,2,0
@@ -324,9 +324,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701206,2018-04-09,MIA,OKC,35.93,3,0,4,MIA,MIA,fg3_miss,1,False,False,MISS Wade 25' 3PT Jump Shot,,81-76,81,76
 0021701206,2018-04-09,MIA,OKC,35.98,3,0,1,OKC,OKC,reb,0,False,False,,Westbrook REBOUND (Off:3 Def:13),81-76,81,76
 0021701206,2018-04-09,MIA,OKC,36.0,3,0,0,OKC,OKC,tov,2,False,True,,George Lost Ball Turnover (P1.T8),81-76,81,76
+0021701206,2018-04-09,MIA,OKC,36.0,3,0,0,OKC,MIA,steal,2,False,True,steal,steal,81-76,81,76
 0021701206,2018-04-09,MIA,OKC,36.0,3,0,0,OKC,,period_end,0,False,False,,,81-76,81,76
 0021701206,2018-04-09,MIA,OKC,36.0,4,12,0,OKC,,period_start,0,False,False,,,81-76,81,76
-0021701206,2018-04-09,MIA,OKC,36.0,3,0,0,OKC,MIA,steal,2,False,True,steal,steal,81-76,81,76
 0021701206,2018-04-09,MIA,OKC,36.28,4,11,43,OKC,OKC,fg3_make,1,False,False,,Felton 25' 3PT Jump Shot (6 PTS) (Patterson 2 AST),81-79,81,79
 0021701206,2018-04-09,MIA,OKC,36.6,4,11,24,MIA,MIA,fg3_make,1,False,False,Ellington 25' 3PT Jump Shot (3 PTS) (Olynyk 1 AST),,84-79,84,79
 0021701206,2018-04-09,MIA,OKC,37.02,4,10,59,OKC,OKC,fg3_make,1,False,False,,Patterson 25' 3PT Jump Shot (6 PTS) (Felton 1 AST),84-82,84,82
@@ -386,8 +386,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701206,2018-04-09,MIA,OKC,42.68,4,5,19,OKC,OKC,fg_make,79,False,False,,Westbrook 15' Pullup Jump Shot (19 PTS),91-99,91,99
 0021701206,2018-04-09,MIA,OKC,42.68,4,5,19,MIA,MIA,timeout,1,False,False,HEAT Timeout: Regular (Full 5 Short 0),,91-99,91,99
 0021701206,2018-04-09,MIA,OKC,42.98,4,5,1,MIA,MIA,tov,1,False,True,Richardson Bad Pass Turnover (P2.T13),,91-99,91,99
-0021701206,2018-04-09,MIA,OKC,42.98,4,5,1,OKC,MIA,foul,1,False,False,Wade P.FOUL (P1.PN) (S.Wall),,91-99,91,99
 0021701206,2018-04-09,MIA,OKC,42.98,4,5,1,MIA,OKC,steal,1,False,True,steal,steal,91-99,91,99
+0021701206,2018-04-09,MIA,OKC,42.98,4,5,1,OKC,MIA,foul,1,False,False,Wade P.FOUL (P1.PN) (S.Wall),,91-99,91,99
 0021701206,2018-04-09,MIA,OKC,42.98,4,5,1,OKC,OKC,ft_make,11,False,False,,Westbrook Free Throw 1 of 2 (20 PTS),91-100,91,100
 0021701206,2018-04-09,MIA,OKC,42.98,4,5,1,OKC,OKC,ft_make,12,False,False,,Westbrook Free Throw 2 of 2 (21 PTS),91-101,91,101
 0021701206,2018-04-09,MIA,OKC,43.35,4,4,39,MIA,MIA,fg_miss,47,False,False,MISS Wade 17' Turnaround Jump Shot,,91-101,91,101

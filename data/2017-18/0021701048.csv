@@ -9,8 +9,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701048,2018-03-18,MIN,HOU,1.23,1,10,46,MIN,MIN,fg3_miss,1,False,False,MISS Gibson 24' 3PT Jump Shot,,2-0,2,0
 0021701048,2018-03-18,MIN,HOU,1.28,1,10,43,MIN,MIN,reb,0,False,False,Towns REBOUND (Off:1 Def:2),,2-0,2,0
 0021701048,2018-03-18,MIN,HOU,1.28,1,10,43,MIN,MIN,fg_miss,5,True,False,MISS Towns 2' Layup,,2-0,2,0
-0021701048,2018-03-18,MIN,HOU,1.28,1,10,43,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,2-0,2,0
 0021701048,2018-03-18,MIN,HOU,1.28,1,10,43,MIN,HOU,block,5,True,False,block,block,2-0,2,0
+0021701048,2018-03-18,MIN,HOU,1.28,1,10,43,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,2-0,2,0
 0021701048,2018-03-18,MIN,HOU,1.35,1,10,39,MIN,MIN,tov,11,False,False,TIMBERWOLVES Turnover: Shot Clock (T#1),,2-0,2,0
 0021701048,2018-03-18,MIN,HOU,1.45,1,10,33,HOU,HOU,fg_make,52,False,False,,Capela 1' Alley Oop Dunk (2 PTS) (Harden 1 AST),2-2,2,2
 0021701048,2018-03-18,MIN,HOU,1.82,1,10,11,MIN,MIN,fg3_miss,1,False,False,MISS Teague 24' 3PT Jump Shot,,2-2,2,2
@@ -228,8 +228,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701048,2018-03-18,MIN,HOU,24.42,3,11,35,HOU,HOU,ft_make,14,False,False,,Harden Free Throw 2 of 3 (17 PTS),56-79,56,79
 0021701048,2018-03-18,MIN,HOU,24.42,3,11,35,HOU,HOU,ft_make,15,False,False,,Harden Free Throw 3 of 3 (18 PTS),56-80,56,80
 0021701048,2018-03-18,MIN,HOU,24.62,3,11,23,MIN,MIN,tov,1,False,True,Teague Bad Pass Turnover (P3.T11),,56-80,56,80
-0021701048,2018-03-18,MIN,HOU,24.62,3,11,23,HOU,MIN,foul,1,False,False,Wiggins P.FOUL (P3.T3) (M.Kogut),,56-80,56,80
 0021701048,2018-03-18,MIN,HOU,24.62,3,11,23,MIN,HOU,steal,1,False,True,steal,steal,56-80,56,80
+0021701048,2018-03-18,MIN,HOU,24.62,3,11,23,HOU,MIN,foul,1,False,False,Wiggins P.FOUL (P3.T3) (M.Kogut),,56-80,56,80
 0021701048,2018-03-18,MIN,HOU,24.75,3,11,15,MIN,HOU,foul,4,False,False,,Tucker OFF.Foul (P3) (E.Malloy),56-80,56,80
 0021701048,2018-03-18,MIN,HOU,24.75,3,11,15,HOU,HOU,tov,37,False,False,,Tucker Offensive Foul Turnover (P2.T4),56-80,56,80
 0021701048,2018-03-18,MIN,HOU,25.17,3,10,50,MIN,MIN,tov,11,False,False,TIMBERWOLVES Turnover: Shot Clock (T#12),,56-80,56,80
@@ -319,10 +319,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701048,2018-03-18,MIN,HOU,34.62,3,1,23,HOU,HOU,fg_make,98,False,False,,Mbah a Moute 2' Cutting Layup Shot (4 PTS) (Anderson 2 AST),85-104,85,104
 0021701048,2018-03-18,MIN,HOU,34.87,3,1,8,MIN,MIN,fg_make,79,False,False,Crawford 17' Pullup Jump Shot (18 PTS),,87-104,87,104
 0021701048,2018-03-18,MIN,HOU,35.1,3,0,54,HOU,HOU,tov,2,False,True,,Paul Lost Ball Turnover (P2.T6),87-104,87,104
+0021701048,2018-03-18,MIN,HOU,35.1,3,0,54,HOU,MIN,steal,2,False,True,steal,steal,87-104,87,104
 0021701048,2018-03-18,MIN,HOU,35.1,3,0,54,MIN,HOU,foul,1,False,False,,Paul P.FOUL (P1.PN) (M.Kogut),87-104,87,104
 0021701048,2018-03-18,MIN,HOU,35.1,3,0,54,MIN,MIN,ft_miss,11,False,False,MISS Wiggins Free Throw 1 of 2,,87-104,87,104
 0021701048,2018-03-18,MIN,HOU,35.1,3,0,54,MIN,MIN,reb,1,False,False,TIMBERWOLVES Rebound,,87-104,87,104
-0021701048,2018-03-18,MIN,HOU,35.1,3,0,54,HOU,MIN,steal,2,False,True,steal,steal,87-104,87,104
 0021701048,2018-03-18,MIN,HOU,35.1,3,0,54,MIN,MIN,ft_make,12,False,False,Wiggins Free Throw 2 of 2 (15 PTS),,88-104,88,104
 0021701048,2018-03-18,MIN,HOU,35.28,3,0,43,HOU,HOU,fg3_miss,1,False,False,,MISS Gordon 27' 3PT Jump Shot,88-104,88,104
 0021701048,2018-03-18,MIN,HOU,35.32,3,0,41,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,88-104,88,104

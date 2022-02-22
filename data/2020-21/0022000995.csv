@@ -98,8 +98,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000995,2021-05-05,DEN,NYK,8.67,1,3,20,NYK,NYK,ft_make,12,False,False,,Randle Free Throw 2 of 2 (1 PTS),26-7,26,7
 0022000995,2021-05-05,DEN,NYK,8.95,1,3,3,DEN,DEN,tov,13,False,False,Green Backcourt Turnover (P1.T2),,26-7,26,7
 0022000995,2021-05-05,DEN,NYK,9.07,1,2,56,NYK,NYK,fg_miss,101,True,False,,MISS Rose 9' Driving Floating Jump Shot,26-7,26,7
-0022000995,2021-05-05,DEN,NYK,9.07,1,2,56,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,26-7,26,7
 0022000995,2021-05-05,DEN,NYK,9.07,1,2,56,NYK,DEN,block,101,True,False,block,block,26-7,26,7
+0022000995,2021-05-05,DEN,NYK,9.07,1,2,56,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,26-7,26,7
 0022000995,2021-05-05,DEN,NYK,9.38,1,2,37,DEN,NYK,foul,2,False,False,,Burks S.FOUL (P1.PN) (J.Tiven),26-7,26,7
 0022000995,2021-05-05,DEN,NYK,9.38,1,2,37,DEN,DEN,ft_make,11,False,False,Jokic Free Throw 1 of 2 (17 PTS),,27-7,27,7
 0022000995,2021-05-05,DEN,NYK,9.38,1,2,37,DEN,DEN,ft_make,12,False,False,Jokic Free Throw 2 of 2 (18 PTS),,28-7,28,7
@@ -110,9 +110,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000995,2021-05-05,DEN,NYK,9.7,1,2,18,NYK,NYK,fg_miss,97,False,False,,MISS Toppin Tip Layup Shot,28-7,28,7
 0022000995,2021-05-05,DEN,NYK,9.72,1,2,17,DEN,DEN,reb,0,False,False,Rivers REBOUND (Off:0 Def:1),,28-7,28,7
 0022000995,2021-05-05,DEN,NYK,9.8,1,2,12,DEN,DEN,fg_miss,75,False,False,MISS Rivers 3' Driving Finger Roll Layup,,28-7,28,7
+0022000995,2021-05-05,DEN,NYK,9.9,1,2,6,DEN,DEN,reb,0,False,False,Green REBOUND (Off:1 Def:0),,28-7,28,7
 0022000995,2021-05-05,DEN,NYK,9.9,1,2,6,DEN,DEN,fg_miss,107,False,False,MISS Green Tip Dunk Shot,,28-7,28,7
 0022000995,2021-05-05,DEN,NYK,9.9,1,2,6,NYK,NYK,reb,0,False,False,,Burks REBOUND (Off:0 Def:1),28-7,28,7
-0022000995,2021-05-05,DEN,NYK,9.9,1,2,6,DEN,DEN,reb,0,False,False,Green REBOUND (Off:1 Def:0),,28-7,28,7
 0022000995,2021-05-05,DEN,NYK,10.18,1,1,49,NYK,NYK,fg_miss,75,False,False,,MISS Quickley 3' Driving Finger Roll Layup,28-7,28,7
 0022000995,2021-05-05,DEN,NYK,10.22,1,1,47,DEN,DEN,reb,0,False,False,Campazzo REBOUND (Off:0 Def:4),,28-7,28,7
 0022000995,2021-05-05,DEN,NYK,10.37,1,1,38,DEN,DEN,fg3_miss,80,False,False,MISS Campazzo 25' 3PT Step Back Jump Shot,,28-7,28,7
@@ -235,8 +235,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000995,2021-05-05,DEN,NYK,24.0,2,0,0,NYK,,period_end,0,False,False,,,64-43,64,43
 0022000995,2021-05-05,DEN,NYK,24.0,3,12,0,NYK,,period_start,0,False,False,,,64-43,64,43
 0022000995,2021-05-05,DEN,NYK,24.28,3,11,43,NYK,NYK,tov,2,False,True,,Randle Lost Ball Turnover (P3.T8),64-43,64,43
-0022000995,2021-05-05,DEN,NYK,24.28,3,11,43,DEN,NYK,foul,1,False,False,,Randle P.FOUL (P2.T1) (M.Smith),64-43,64,43
 0022000995,2021-05-05,DEN,NYK,24.28,3,11,43,NYK,DEN,steal,2,False,True,steal,steal,64-43,64,43
+0022000995,2021-05-05,DEN,NYK,24.28,3,11,43,DEN,NYK,foul,1,False,False,,Randle P.FOUL (P2.T1) (M.Smith),64-43,64,43
 0022000995,2021-05-05,DEN,NYK,24.57,3,11,26,DEN,DEN,fg3_miss,1,False,False,MISS Campazzo 3PT Jump Shot,,64-43,64,43
 0022000995,2021-05-05,DEN,NYK,24.63,3,11,22,NYK,NYK,reb,0,False,False,,Barrett REBOUND (Off:0 Def:2),64-43,64,43
 0022000995,2021-05-05,DEN,NYK,24.73,3,11,16,NYK,NYK,fg3_miss,1,False,False,,MISS Barrett 25' 3PT Jump Shot,64-43,64,43
@@ -276,8 +276,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000995,2021-05-05,DEN,NYK,28.23,3,7,46,DEN,DEN,fg_miss,101,False,False,MISS Jokic 9' Driving Floating Jump Shot,,73-49,73,49
 0022000995,2021-05-05,DEN,NYK,28.27,3,7,44,DEN,DEN,reb,0,False,False,Gordon REBOUND (Off:1 Def:3),,73-49,73,49
 0022000995,2021-05-05,DEN,NYK,28.32,3,7,41,DEN,DEN,fg_miss,76,True,False,MISS Millsap 13' Running Finger Roll Layup,,73-49,73,49
-0022000995,2021-05-05,DEN,NYK,28.32,3,7,41,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,73-49,73,49
 0022000995,2021-05-05,DEN,NYK,28.32,3,7,41,DEN,NYK,block,76,True,False,block,block,73-49,73,49
+0022000995,2021-05-05,DEN,NYK,28.32,3,7,41,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,73-49,73,49
 0022000995,2021-05-05,DEN,NYK,28.4,3,7,36,DEN,NYK,foul,2,False,False,,Gibson S.FOUL (P4.T3) (M.Smith),73-49,73,49
 0022000995,2021-05-05,DEN,NYK,28.4,3,7,36,DEN,DEN,ft_make,11,False,False,Jokic Free Throw 1 of 2 (29 PTS),,74-49,74,49
 0022000995,2021-05-05,DEN,NYK,28.4,3,7,36,DEN,DEN,ft_make,12,False,False,Jokic Free Throw 2 of 2 (30 PTS),,75-49,75,49
@@ -309,8 +309,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000995,2021-05-05,DEN,NYK,30.18,3,5,49,DEN,NYK,block,5,True,False,block,block,75-53,75,53
 0022000995,2021-05-05,DEN,NYK,30.2,3,5,48,NYK,NYK,reb,0,False,False,,Randle REBOUND (Off:1 Def:6),75-53,75,53
 0022000995,2021-05-05,DEN,NYK,30.32,3,5,41,NYK,NYK,fg_miss,73,True,False,,MISS Payton 6' Driving Reverse Layup,75-53,75,53
-0022000995,2021-05-05,DEN,NYK,30.32,3,5,41,NYK,NYK,reb,0,False,False,,Knicks Rebound,75-53,75,53
 0022000995,2021-05-05,DEN,NYK,30.32,3,5,41,NYK,DEN,block,73,True,False,block,block,75-53,75,53
+0022000995,2021-05-05,DEN,NYK,30.32,3,5,41,NYK,NYK,reb,0,False,False,,Knicks Rebound,75-53,75,53
 0022000995,2021-05-05,DEN,NYK,30.47,3,5,32,NYK,NYK,fg3_make,1,False,False,,Barrett 25' 3PT Jump Shot (3 PTS) (Randle 4 AST),75-56,75,56
 0022000995,2021-05-05,DEN,NYK,30.78,3,5,13,DEN,DEN,fg3_miss,1,False,False,MISS Gordon 25' 3PT Jump Shot,,75-56,75,56
 0022000995,2021-05-05,DEN,NYK,30.83,3,5,10,DEN,DEN,reb,0,False,False,Gordon REBOUND (Off:2 Def:3),,75-56,75,56
@@ -341,8 +341,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000995,2021-05-05,DEN,NYK,33.08,3,2,55,NYK,NYK,fg_make,7,False,False,,Noel 6' Dunk (2 PTS) (Rose 1 AST),82-64,82,64
 0022000995,2021-05-05,DEN,NYK,33.37,3,2,38,DEN,DEN,fg3_make,1,False,False,Rivers 3PT Jump Shot (14 PTS) (Jokic 6 AST),,85-64,85,64
 0022000995,2021-05-05,DEN,NYK,33.63,3,2,22,NYK,NYK,fg3_miss,1,True,False,,MISS Bullock 26' 3PT Jump Shot,85-64,85,64
-0022000995,2021-05-05,DEN,NYK,33.63,3,2,22,NYK,NYK,reb,0,False,False,,Knicks Rebound,85-64,85,64
 0022000995,2021-05-05,DEN,NYK,33.63,3,2,22,NYK,DEN,block,1,True,False,block,block,85-64,85,64
+0022000995,2021-05-05,DEN,NYK,33.63,3,2,22,NYK,NYK,reb,0,False,False,,Knicks Rebound,85-64,85,64
 0022000995,2021-05-05,DEN,NYK,33.78,3,2,13,NYK,NYK,fg3_miss,1,False,False,,MISS Bullock 25' 3PT Jump Shot,85-64,85,64
 0022000995,2021-05-05,DEN,NYK,33.78,3,2,13,NYK,NYK,reb,0,False,False,,Knicks Rebound,85-64,85,64
 0022000995,2021-05-05,DEN,NYK,33.85,3,2,9,NYK,NYK,fg_make,86,False,False,,Randle 17' Turnaround Fadeaway (13 PTS),85-66,85,66
@@ -366,8 +366,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000995,2021-05-05,DEN,NYK,35.07,3,0,56,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,86-69,86,69
 0022000995,2021-05-05,DEN,NYK,35.07,3,0,56,DEN,DEN,tov,11,False,False,NUGGETS Turnover: Shot Clock (T#12),,86-69,86,69
 0022000995,2021-05-05,DEN,NYK,35.27,3,0,44,NYK,NYK,fg_miss,9,True,False,,MISS Randle 9' Driving Dunk,86-69,86,69
-0022000995,2021-05-05,DEN,NYK,35.27,3,0,44,DEN,DEN,reb,0,False,False,Campazzo REBOUND (Off:1 Def:7),,86-69,86,69
 0022000995,2021-05-05,DEN,NYK,35.27,3,0,44,NYK,DEN,block,9,True,False,block,block,86-69,86,69
+0022000995,2021-05-05,DEN,NYK,35.27,3,0,44,DEN,DEN,reb,0,False,False,Campazzo REBOUND (Off:1 Def:7),,86-69,86,69
 0022000995,2021-05-05,DEN,NYK,35.42,3,0,35,DEN,DEN,fg_miss,9,True,False,MISS Green 6' Driving Dunk,,86-69,86,69
 0022000995,2021-05-05,DEN,NYK,35.42,3,0,35,DEN,NYK,block,9,True,False,block,block,86-69,86,69
 0022000995,2021-05-05,DEN,NYK,35.48,3,0,31,DEN,DEN,reb,0,False,False,McGee REBOUND (Off:1 Def:0),,86-69,86,69
@@ -378,14 +378,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000995,2021-05-05,DEN,NYK,35.58,3,0,25,DEN,NYK,foul,2,False,False,,Noel S.FOUL (P4.PN) (J.Tiven),88-69,88,69
 0022000995,2021-05-05,DEN,NYK,35.58,3,0,25,DEN,DEN,ft_make,10,False,False,Campazzo Free Throw 1 of 1 (14 PTS),,89-69,89,69
 0022000995,2021-05-05,DEN,NYK,35.93,3,0,4,NYK,NYK,fg_miss,5,True,False,,MISS Randle 4' Layup,89-69,89,69
-0022000995,2021-05-05,DEN,NYK,35.93,3,0,4,DEN,DEN,reb,0,False,False,Harrison REBOUND (Off:0 Def:4),,89-69,89,69
 0022000995,2021-05-05,DEN,NYK,35.93,3,0,4,NYK,DEN,block,5,True,False,block,block,89-69,89,69
+0022000995,2021-05-05,DEN,NYK,35.93,3,0,4,DEN,DEN,reb,0,False,False,Harrison REBOUND (Off:0 Def:4),,89-69,89,69
 0022000995,2021-05-05,DEN,NYK,36.0,3,0,0,DEN,DEN,fg3_miss,1,False,False,MISS Campazzo 26' 3PT Jump Shot,,89-69,89,69
 0022000995,2021-05-05,DEN,NYK,36.0,3,0,0,DEN,DEN,reb,0,False,False,NUGGETS Rebound,,89-69,89,69
 0022000995,2021-05-05,DEN,NYK,36.0,3,0,0,DEN,,period_end,0,False,False,,,89-69,89,69
-0022000995,2021-05-05,DEN,NYK,36.0,4,12,0,DEN,,period_start,0,False,False,,,89-69,89,69
 0022000995,2021-05-05,DEN,NYK,36.0,4,12,0,DEN,NYK,foul,11,False,False,,Barrett T.FOUL (P3.T0) (M.Smith),89-69,89,69
 0022000995,2021-05-05,DEN,NYK,36.0,4,12,0,DEN,DEN,ft_make,16,False,False,Rivers Free Throw Technical (15 PTS),,90-69,90,69
+0022000995,2021-05-05,DEN,NYK,36.0,4,12,0,DEN,,period_start,0,False,False,,,89-69,89,69
 0022000995,2021-05-05,DEN,NYK,36.18,4,11,49,DEN,DEN,tov,2,False,True,Campazzo Lost Ball Turnover (P1.T13),,90-69,90,69
 0022000995,2021-05-05,DEN,NYK,36.18,4,11,49,DEN,NYK,steal,2,False,True,steal,steal,90-69,90,69
 0022000995,2021-05-05,DEN,NYK,36.45,4,11,33,NYK,NYK,fg_make,9,False,False,,Noel 7' Driving Dunk (4 PTS),90-71,90,71

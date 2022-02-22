@@ -199,9 +199,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700590,2018-01-07,LAL,ATL,21.1,2,2,54,LAL,LAL,tov,37,False,False,Ingram Offensive Foul Turnover (P3.T8),,55-36,55,36
 0021700590,2018-01-07,LAL,ATL,21.38,2,2,37,ATL,ATL,tov,1,False,True,,Bazemore Bad Pass Turnover (P3.T8),55-36,55,36
 0021700590,2018-01-07,LAL,ATL,21.38,2,2,37,ATL,ATL,tov,1,False,True,,Bazemore Bad Pass Turnover (P3.T8),55-36,55,36
+0021700590,2018-01-07,LAL,ATL,21.38,2,2,37,ATL,LAL,steal,1,False,True,steal,steal,55-36,55,36
+0021700590,2018-01-07,LAL,ATL,21.38,2,2,37,ATL,LAL,steal,1,False,True,steal,steal,55-36,55,36
 0021700590,2018-01-07,LAL,ATL,21.38,2,2,37,LAL,ATL,violation,5,False,False,,Kicked Ball,55-36,55,36
-0021700590,2018-01-07,LAL,ATL,21.38,2,2,37,ATL,LAL,steal,1,False,True,steal,steal,55-36,55,36
-0021700590,2018-01-07,LAL,ATL,21.38,2,2,37,ATL,LAL,steal,1,False,True,steal,steal,55-36,55,36
 0021700590,2018-01-07,LAL,ATL,21.65,2,2,21,LAL,LAL,fg_make,1,False,False,Caldwell-Pope 17' Jump Shot (6 PTS) (Lopez 1 AST),,57-36,57,36
 0021700590,2018-01-07,LAL,ATL,21.9,2,2,6,ATL,ATL,fg3_make,1,False,False,,Bazemore 3PT Jump Shot (3 PTS) (Prince 1 AST),57-39,57,39
 0021700590,2018-01-07,LAL,ATL,22.2,2,1,48,LAL,LAL,fg_miss,78,False,False,MISS Randle 9' Floating Jump Shot,,57-39,57,39
@@ -322,8 +322,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700590,2018-01-07,LAL,ATL,33.57,3,2,26,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 26' 3PT Jump Shot,,90-75,90,75
 0021700590,2018-01-07,LAL,ATL,33.6,3,2,24,ATL,ATL,reb,0,False,False,,Schroder REBOUND (Off:1 Def:2),90-75,90,75
 0021700590,2018-01-07,LAL,ATL,33.73,3,2,16,ATL,ATL,fg_miss,6,True,False,,MISS Schroder 3' Driving Layup,90-75,90,75
-0021700590,2018-01-07,LAL,ATL,33.73,3,2,16,ATL,ATL,reb,0,False,False,,Hawks Rebound,90-75,90,75
 0021700590,2018-01-07,LAL,ATL,33.73,3,2,16,ATL,LAL,block,6,True,False,block,block,90-75,90,75
+0021700590,2018-01-07,LAL,ATL,33.73,3,2,16,ATL,ATL,reb,0,False,False,,Hawks Rebound,90-75,90,75
 0021700590,2018-01-07,LAL,ATL,33.87,3,2,8,ATL,LAL,violation,5,False,False,Nance Jr. Violation:Kicked Ball (M.Kogut),,90-75,90,75
 0021700590,2018-01-07,LAL,ATL,34.03,3,1,58,ATL,ATL,fg3_miss,1,False,False,,MISS Schroder 26' 3PT Jump Shot,90-75,90,75
 0021700590,2018-01-07,LAL,ATL,34.1,3,1,54,LAL,LAL,reb,0,False,False,Clarkson REBOUND (Off:0 Def:1),,90-75,90,75
@@ -384,8 +384,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700590,2018-01-07,LAL,ATL,40.63,4,7,22,ATL,ATL,fg3_miss,80,False,False,,MISS Schroder 25' 3PT Step Back Jump Shot,110-89,110,89
 0021700590,2018-01-07,LAL,ATL,40.72,4,7,17,LAL,LAL,reb,0,False,False,Ball REBOUND (Off:2 Def:8),,110-89,110,89
 0021700590,2018-01-07,LAL,ATL,40.75,4,7,15,LAL,LAL,fg_miss,41,True,False,MISS Hart 4' Running Layup,,110-89,110,89
-0021700590,2018-01-07,LAL,ATL,40.75,4,7,15,LAL,LAL,reb,0,False,False,LAKERS Rebound,,110-89,110,89
 0021700590,2018-01-07,LAL,ATL,40.75,4,7,15,LAL,ATL,block,41,True,False,block,block,110-89,110,89
+0021700590,2018-01-07,LAL,ATL,40.75,4,7,15,LAL,LAL,reb,0,False,False,LAKERS Rebound,,110-89,110,89
 0021700590,2018-01-07,LAL,ATL,40.95,4,7,3,LAL,LAL,fg_miss,86,False,False,MISS Hart 13' Turnaround Fadeaway Shot,,110-89,110,89
 0021700590,2018-01-07,LAL,ATL,41.02,4,6,59,ATL,ATL,reb,0,False,False,,Bazemore REBOUND (Off:0 Def:1),110-89,110,89
 0021700590,2018-01-07,LAL,ATL,41.08,4,6,55,ATL,ATL,fg3_miss,79,False,False,,MISS Bazemore 27' 3PT Pullup Jump Shot,110-89,110,89

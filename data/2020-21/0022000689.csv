@@ -36,14 +36,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000689,2021-03-26,NOP,DEN,6.13,1,5,52,DEN,DEN,fg_miss,86,False,False,,MISS Millsap 6' Turnaround Fadeaway Shot,22-14,22,14
 0022000689,2021-03-26,NOP,DEN,6.15,1,5,51,DEN,DEN,reb,0,False,False,,Porter Jr. REBOUND (Off:1 Def:1),22-14,22,14
 0022000689,2021-03-26,NOP,DEN,6.15,1,5,51,DEN,DEN,fg_miss,72,True,False,,MISS Porter Jr. 2' Putback Layup,22-14,22,14
-0022000689,2021-03-26,NOP,DEN,6.15,1,5,51,DEN,DEN,reb,0,False,False,,Nuggets Rebound,22-14,22,14
 0022000689,2021-03-26,NOP,DEN,6.15,1,5,51,DEN,NOP,block,72,True,False,block,block,22-14,22,14
+0022000689,2021-03-26,NOP,DEN,6.15,1,5,51,DEN,DEN,reb,0,False,False,,Nuggets Rebound,22-14,22,14
 0022000689,2021-03-26,NOP,DEN,6.35,1,5,39,DEN,DEN,fg_make,78,False,False,,Jokic 8' Floating Jump Shot (6 PTS) (Porter Jr. 2 AST),22-16,22,16
 0022000689,2021-03-26,NOP,DEN,6.57,1,5,26,NOP,NOP,fg3_make,1,False,False,Alexander-Walker 3PT Jump Shot (3 PTS) (Bledsoe 5 AST),,25-16,25,16
 0022000689,2021-03-26,NOP,DEN,7.02,1,4,59,DEN,DEN,fg3_make,1,False,False,,Porter Jr. 25' 3PT Jump Shot (7 PTS),25-19,25,19
 0022000689,2021-03-26,NOP,DEN,7.18,1,4,49,NOP,NOP,fg_miss,6,True,False,MISS Ingram 3' Driving Layup,,25-19,25,19
-0022000689,2021-03-26,NOP,DEN,7.18,1,4,49,NOP,NOP,reb,0,False,False,PELICANS Rebound,,25-19,25,19
 0022000689,2021-03-26,NOP,DEN,7.18,1,4,49,NOP,DEN,block,6,True,False,block,block,25-19,25,19
+0022000689,2021-03-26,NOP,DEN,7.18,1,4,49,NOP,NOP,reb,0,False,False,PELICANS Rebound,,25-19,25,19
 0022000689,2021-03-26,NOP,DEN,7.2,1,4,48,NOP,NOP,fg_miss,1,False,False,MISS Ingram 15' Jump Shot,,25-19,25,19
 0022000689,2021-03-26,NOP,DEN,7.25,1,4,45,DEN,DEN,reb,0,False,False,,Dozier REBOUND (Off:0 Def:1),25-19,25,19
 0022000689,2021-03-26,NOP,DEN,7.5,1,4,30,DEN,DEN,fg3_make,79,False,False,,Murray 24' 3PT Pullup Jump Shot (7 PTS) (Jokic 1 AST),25-22,25,22
@@ -63,8 +63,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000689,2021-03-26,NOP,DEN,8.83,1,3,10,DEN,DEN,ft_make,11,False,False,,Millsap Free Throw 1 of 2 (3 PTS),25-23,25,23
 0022000689,2021-03-26,NOP,DEN,8.83,1,3,10,DEN,DEN,ft_miss,12,False,False,,MISS Millsap Free Throw 2 of 2,25-23,25,23
 0022000689,2021-03-26,NOP,DEN,8.83,1,3,10,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:0 Def:1),,25-23,25,23
-0022000689,2021-03-26,NOP,DEN,9.23,1,2,46,NOP,NOP,tov,11,False,False,PELICANS Turnover: Shot Clock (T#1),,25-23,25,23
 0022000689,2021-03-26,NOP,DEN,9.23,1,2,46,NOP,NOP,timeout,1,False,False,PELICANS Timeout: Regular (Full 1 Short 0),,25-23,25,23
+0022000689,2021-03-26,NOP,DEN,9.23,1,2,46,NOP,NOP,tov,11,False,False,PELICANS Turnover: Shot Clock (T#1),,25-23,25,23
 0022000689,2021-03-26,NOP,DEN,9.45,1,2,33,DEN,DEN,fg_miss,1,False,False,,MISS Jokic 18' Jump Shot,25-23,25,23
 0022000689,2021-03-26,NOP,DEN,9.48,1,2,31,NOP,NOP,reb,0,False,False,Alexander-Walker REBOUND (Off:0 Def:1),,25-23,25,23
 0022000689,2021-03-26,NOP,DEN,9.58,1,2,25,NOP,NOP,fg3_miss,1,False,False,MISS Lewis Jr. 25' 3PT Jump Shot,,25-23,25,23
@@ -193,8 +193,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000689,2021-03-26,NOP,DEN,25.47,3,10,32,DEN,DEN,fg_miss,80,False,False,,MISS Murray 13' Step Back Jump Shot,67-56,67,56
 0022000689,2021-03-26,NOP,DEN,25.5,3,10,30,NOP,NOP,reb,0,False,False,Bledsoe REBOUND (Off:1 Def:2),,67-56,67,56
 0022000689,2021-03-26,NOP,DEN,25.6,3,10,24,NOP,NOP,fg_miss,6,True,False,MISS Bledsoe 3' Driving Layup,,67-56,67,56
-0022000689,2021-03-26,NOP,DEN,25.6,3,10,24,NOP,NOP,reb,0,False,False,PELICANS Rebound,,67-56,67,56
 0022000689,2021-03-26,NOP,DEN,25.6,3,10,24,NOP,DEN,block,6,True,False,block,block,67-56,67,56
+0022000689,2021-03-26,NOP,DEN,25.6,3,10,24,NOP,NOP,reb,0,False,False,PELICANS Rebound,,67-56,67,56
 0022000689,2021-03-26,NOP,DEN,25.83,3,10,10,NOP,NOP,tov,1,False,True,Williamson Bad Pass Turnover (P1.T5),,67-56,67,56
 0022000689,2021-03-26,NOP,DEN,25.83,3,10,10,NOP,DEN,steal,1,False,True,steal,steal,67-56,67,56
 0022000689,2021-03-26,NOP,DEN,25.92,3,10,5,DEN,DEN,tov,2,False,True,,Millsap Lost Ball Turnover (P1.T4),67-56,67,56
@@ -208,8 +208,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000689,2021-03-26,NOP,DEN,26.82,3,9,11,DEN,DEN,fg_make,6,False,False,,Murray Driving Layup (13 PTS) (Jokic 6 AST),71-61,71,61
 0022000689,2021-03-26,NOP,DEN,26.95,3,9,3,NOP,DEN,foul,1,False,False,,Barton P.FOUL (P1.T1) (E.Lewis),71-61,71,61
 0022000689,2021-03-26,NOP,DEN,27.08,3,8,55,DEN,NOP,foul,26,False,False,Williamson Offensive Charge Foul (P2.T1) (J.Butler),,71-61,71,61
-0022000689,2021-03-26,NOP,DEN,27.08,3,8,55,NOP,NOP,tov,37,False,False,Williamson Offensive Foul Turnover (P2.T6),,71-61,71,61
 0022000689,2021-03-26,NOP,DEN,27.08,3,8,55,DEN,DEN,timeout,1,False,False,,Nuggets Timeout: Regular (Reg.3 Short 0),71-61,71,61
+0022000689,2021-03-26,NOP,DEN,27.08,3,8,55,NOP,NOP,tov,37,False,False,Williamson Offensive Foul Turnover (P2.T6),,71-61,71,61
 0022000689,2021-03-26,NOP,DEN,27.3,3,8,42,DEN,DEN,fg_make,58,False,False,,Jokic 5' Turnaround Hook Shot (19 PTS),71-63,71,63
 0022000689,2021-03-26,NOP,DEN,27.65,3,8,21,NOP,NOP,tov,40,False,False,Ingram Out of Bounds Lost Ball Turnover (P1.T7),,71-63,71,63
 0022000689,2021-03-26,NOP,DEN,27.77,3,8,14,DEN,DEN,fg_make,1,False,False,,Jokic 23' Jump Shot (21 PTS),71-65,71,65
@@ -249,8 +249,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000689,2021-03-26,NOP,DEN,32.97,3,3,2,NOP,NOP,tov,1,False,True,Ingram Bad Pass Turnover (P2.T9),,80-80,80,80
 0022000689,2021-03-26,NOP,DEN,32.97,3,3,2,NOP,DEN,steal,1,False,True,steal,steal,80-80,80,80
 0022000689,2021-03-26,NOP,DEN,33.23,3,2,46,DEN,DEN,tov,1,False,True,,Porter Jr. Bad Pass Turnover (P1.T5),80-80,80,80
-0022000689,2021-03-26,NOP,DEN,33.23,3,2,46,NOP,DEN,foul,28,False,False,,Jokic Personal Take Foul (P2.T3) (E.Lewis),80-80,80,80
 0022000689,2021-03-26,NOP,DEN,33.23,3,2,46,DEN,NOP,steal,1,False,True,steal,steal,80-80,80,80
+0022000689,2021-03-26,NOP,DEN,33.23,3,2,46,NOP,DEN,foul,28,False,False,,Jokic Personal Take Foul (P2.T3) (E.Lewis),80-80,80,80
 0022000689,2021-03-26,NOP,DEN,33.43,3,2,34,NOP,NOP,fg_miss,78,False,False,MISS Alexander-Walker 11' Floating Jump Shot,,80-80,80,80
 0022000689,2021-03-26,NOP,DEN,33.5,3,2,30,DEN,DEN,reb,0,False,False,,Jokic REBOUND (Off:1 Def:3),80-80,80,80
 0022000689,2021-03-26,NOP,DEN,33.63,3,2,22,DEN,DEN,fg3_make,1,False,False,,Jokic 25' 3PT Jump Shot (26 PTS) (Murray 9 AST),80-83,80,83
@@ -287,8 +287,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000689,2021-03-26,NOP,DEN,36.88,4,11,7,DEN,DEN,fg3_miss,1,False,False,,MISS Millsap 26' 3PT Jump Shot,86-87,86,87
 0022000689,2021-03-26,NOP,DEN,36.97,4,11,2,NOP,NOP,reb,0,False,False,Hart REBOUND (Off:1 Def:4),,86-87,86,87
 0022000689,2021-03-26,NOP,DEN,37.02,4,10,59,NOP,NOP,fg_miss,41,True,False,MISS Hart 1' Running Layup,,86-87,86,87
-0022000689,2021-03-26,NOP,DEN,37.02,4,10,59,NOP,NOP,reb,0,False,False,PELICANS Rebound,,86-87,86,87
 0022000689,2021-03-26,NOP,DEN,37.02,4,10,59,NOP,DEN,block,41,True,False,block,block,86-87,86,87
+0022000689,2021-03-26,NOP,DEN,37.02,4,10,59,NOP,NOP,reb,0,False,False,PELICANS Rebound,,86-87,86,87
 0022000689,2021-03-26,NOP,DEN,37.03,4,10,58,NOP,DEN,foul,2,False,False,,Millsap S.FOUL (P2.T1) (L.Wood),86-87,86,87
 0022000689,2021-03-26,NOP,DEN,37.03,4,10,58,NOP,NOP,ft_make,11,False,False,Hayes Free Throw 1 of 2 (1 PTS),,87-87,87,87
 0022000689,2021-03-26,NOP,DEN,37.03,4,10,58,NOP,NOP,ft_make,12,False,False,Hayes Free Throw 2 of 2 (2 PTS),,88-87,88,87

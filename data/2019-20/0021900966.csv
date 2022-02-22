@@ -35,8 +35,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900966,2020-03-10,POR,PHX,4.18,1,7,49,PHX,PHX,fg3_make,1,False,False,,Saric 25' 3PT Jump Shot (5 PTS) (Rubio 3 AST),12-11,12,11
 0021900966,2020-03-10,POR,PHX,4.47,1,7,32,POR,POR,fg_make,98,False,False,Whiteside 2' Cutting Layup Shot (4 PTS) (McCollum 2 AST),,14-11,14,11
 0021900966,2020-03-10,POR,PHX,4.73,1,7,16,PHX,PHX,fg_miss,98,True,False,,MISS Rubio 2' Cutting Layup Shot,14-11,14,11
-0021900966,2020-03-10,POR,PHX,4.73,1,7,16,PHX,PHX,reb,0,False,False,,Suns Rebound,14-11,14,11
 0021900966,2020-03-10,POR,PHX,4.73,1,7,16,PHX,POR,block,98,True,False,block,block,14-11,14,11
+0021900966,2020-03-10,POR,PHX,4.73,1,7,16,PHX,PHX,reb,0,False,False,,Suns Rebound,14-11,14,11
 0021900966,2020-03-10,POR,PHX,4.85,1,7,9,PHX,PHX,fg3_miss,1,False,False,,MISS Baynes 3PT Jump Shot,14-11,14,11
 0021900966,2020-03-10,POR,PHX,4.88,1,7,7,PHX,PHX,reb,0,False,False,,Suns Rebound,14-11,14,11
 0021900966,2020-03-10,POR,PHX,4.92,1,7,5,PHX,PHX,fg_make,1,False,False,,Saric 15' Jump Shot (7 PTS) (Booker 1 AST),14-13,14,13
@@ -84,8 +84,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900966,2020-03-10,POR,PHX,10.75,1,1,15,PHX,PHX,fg_make,50,False,False,,Diallo 1' Running Dunk (4 PTS) (Booker 4 AST),33-26,33,26
 0021900966,2020-03-10,POR,PHX,11.02,1,0,59,POR,POR,fg3_make,1,False,False,Ariza 3PT Jump Shot (9 PTS) (Trent Jr. 1 AST),,36-26,36,26
 0021900966,2020-03-10,POR,PHX,11.42,1,0,35,PHX,PHX,fg_miss,101,True,False,,MISS Booker 7' Driving Floating Jump Shot,36-26,36,26
-0021900966,2020-03-10,POR,PHX,11.42,1,0,35,PHX,PHX,reb,0,False,False,,Suns Rebound,36-26,36,26
 0021900966,2020-03-10,POR,PHX,11.42,1,0,35,PHX,POR,block,101,True,False,block,block,36-26,36,26
+0021900966,2020-03-10,POR,PHX,11.42,1,0,35,PHX,PHX,reb,0,False,False,,Suns Rebound,36-26,36,26
 0021900966,2020-03-10,POR,PHX,11.43,1,0,34,PHX,PHX,fg_make,43,False,False,,Baynes 1' Alley Oop Layup (2 PTS) (Carter 1 AST),36-28,36,28
 0021900966,2020-03-10,POR,PHX,11.65,1,0,21,POR,POR,fg3_miss,1,False,False,MISS Ariza 3PT Jump Shot,,36-28,36,28
 0021900966,2020-03-10,POR,PHX,11.65,1,0,21,PHX,PHX,reb,0,False,False,,Diallo REBOUND (Off:1 Def:1),36-28,36,28
@@ -126,9 +126,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900966,2020-03-10,POR,PHX,16.23,2,7,46,PHX,PHX,reb,0,False,False,,Bridges REBOUND (Off:1 Def:1),44-37,44,37
 0021900966,2020-03-10,POR,PHX,16.33,2,7,40,PHX,PHX,tov,2,False,True,,Bridges Lost Ball Turnover (P1.T6),44-37,44,37
 0021900966,2020-03-10,POR,PHX,16.33,2,7,40,PHX,PHX,tov,2,False,True,,Bridges Lost Ball Turnover (P1.T6),44-37,44,37
+0021900966,2020-03-10,POR,PHX,16.33,2,7,40,PHX,POR,steal,2,False,True,steal,steal,44-37,44,37
+0021900966,2020-03-10,POR,PHX,16.33,2,7,40,PHX,POR,steal,2,False,True,steal,steal,44-37,44,37
 0021900966,2020-03-10,POR,PHX,16.33,2,7,40,POR,POR,tov,40,False,False,Hezonja Out of Bounds Lost Ball Turnover (P1.T4),,44-37,44,37
-0021900966,2020-03-10,POR,PHX,16.33,2,7,40,PHX,POR,steal,2,False,True,steal,steal,44-37,44,37
-0021900966,2020-03-10,POR,PHX,16.33,2,7,40,PHX,POR,steal,2,False,True,steal,steal,44-37,44,37
 0021900966,2020-03-10,POR,PHX,16.68,2,7,19,PHX,PHX,fg3_make,1,False,False,,Saric 25' 3PT Jump Shot (12 PTS) (Booker 5 AST),44-40,44,40
 0021900966,2020-03-10,POR,PHX,16.98,2,7,1,POR,PHX,foul,2,False,False,,Saric S.FOUL (P1.T2) (K.Lane),44-40,44,40
 0021900966,2020-03-10,POR,PHX,16.98,2,7,1,POR,POR,ft_make,11,False,False,Simons Free Throw 1 of 2 (4 PTS),,45-40,45,40
@@ -172,9 +172,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900966,2020-03-10,POR,PHX,20.27,2,3,44,POR,POR,fg_miss,98,False,False,MISS Lillard 3' Cutting Layup Shot,,50-50,50,50
 0021900966,2020-03-10,POR,PHX,20.28,2,3,43,PHX,PHX,reb,0,False,False,,Baynes REBOUND (Off:0 Def:1),50-50,50,50
 0021900966,2020-03-10,POR,PHX,20.35,2,3,39,PHX,PHX,fg_miss,63,True,False,,MISS Booker 6' Fadeaway Jumper,50-50,50,50
+0021900966,2020-03-10,POR,PHX,20.35,2,3,39,PHX,POR,block,63,True,False,block,block,50-50,50,50
 0021900966,2020-03-10,POR,PHX,20.35,2,3,39,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,50-50,50,50
 0021900966,2020-03-10,POR,PHX,20.35,2,3,39,POR,POR,tov,45,False,False,Lillard Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,50-50,50,50
-0021900966,2020-03-10,POR,PHX,20.35,2,3,39,PHX,POR,block,63,True,False,block,block,50-50,50,50
 0021900966,2020-03-10,POR,PHX,20.57,2,3,26,PHX,PHX,fg_miss,47,True,False,,MISS Saric 3' Turnaround Jump Shot,50-50,50,50
 0021900966,2020-03-10,POR,PHX,20.57,2,3,26,PHX,POR,block,47,True,False,block,block,50-50,50,50
 0021900966,2020-03-10,POR,PHX,20.6,2,3,24,POR,POR,reb,0,False,False,Lillard REBOUND (Off:0 Def:3),,50-50,50,50
@@ -279,15 +279,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900966,2020-03-10,POR,PHX,32.58,3,3,25,POR,POR,fg_miss,102,False,False,MISS Ariza 3' Driving Floating Bank Jump Shot,,76-75,76,75
 0021900966,2020-03-10,POR,PHX,32.6,3,3,24,POR,POR,reb,0,False,False,Whiteside REBOUND (Off:4 Def:6),,76-75,76,75
 0021900966,2020-03-10,POR,PHX,32.62,3,3,23,POR,POR,fg_miss,58,True,False,MISS Whiteside Turnaround Hook Shot,,76-75,76,75
-0021900966,2020-03-10,POR,PHX,32.62,3,3,23,PHX,PHX,reb,0,False,False,,Saric REBOUND (Off:2 Def:7),76-75,76,75
 0021900966,2020-03-10,POR,PHX,32.62,3,3,23,POR,PHX,block,58,True,False,block,block,76-75,76,75
+0021900966,2020-03-10,POR,PHX,32.62,3,3,23,PHX,PHX,reb,0,False,False,,Saric REBOUND (Off:2 Def:7),76-75,76,75
 0021900966,2020-03-10,POR,PHX,32.8,3,3,12,PHX,PHX,fg3_miss,1,False,False,,MISS Bridges 3PT Jump Shot,76-75,76,75
 0021900966,2020-03-10,POR,PHX,32.85,3,3,9,POR,POR,reb,0,False,False,Whiteside REBOUND (Off:4 Def:7),,76-75,76,75
 0021900966,2020-03-10,POR,PHX,32.9,3,3,6,POR,PHX,foul,2,False,False,,Booker S.FOUL (P3.T3) (J.Capers),76-75,76,75
+0021900966,2020-03-10,POR,PHX,32.9,3,3,6,PHX,PHX,timeout,1,False,False,,Suns Timeout: Regular (Reg.3 Short 0),77-75,77,75
 0021900966,2020-03-10,POR,PHX,32.9,3,3,6,POR,POR,ft_make,11,False,False,Ariza Free Throw 1 of 2 (16 PTS),,77-75,77,75
 0021900966,2020-03-10,POR,PHX,32.9,3,3,6,POR,POR,ft_miss,12,False,False,MISS Ariza Free Throw 2 of 2,,77-75,77,75
 0021900966,2020-03-10,POR,PHX,32.9,3,3,6,PHX,PHX,reb,0,False,False,,Carter REBOUND (Off:0 Def:3),77-75,77,75
-0021900966,2020-03-10,POR,PHX,32.9,3,3,6,PHX,PHX,timeout,1,False,False,,Suns Timeout: Regular (Reg.3 Short 0),77-75,77,75
 0021900966,2020-03-10,POR,PHX,33.32,3,2,41,PHX,PHX,fg_miss,57,False,False,,MISS Booker 4' Driving Hook Shot,77-75,77,75
 0021900966,2020-03-10,POR,PHX,33.37,3,2,38,PHX,PHX,reb,0,False,False,,Carter REBOUND (Off:1 Def:3),77-75,77,75
 0021900966,2020-03-10,POR,PHX,33.48,3,2,31,PHX,PHX,fg3_miss,1,False,False,,MISS Saric 25' 3PT Jump Shot,77-75,77,75
@@ -396,8 +396,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900966,2020-03-10,POR,PHX,44.93,4,3,4,POR,POR,fg_miss,102,False,False,MISS McCollum 4' Driving Floating Bank Jump Shot,,113-101,113,101
 0021900966,2020-03-10,POR,PHX,44.95,4,3,3,PHX,PHX,reb,0,False,False,,Saric REBOUND (Off:3 Def:8),113-101,113,101
 0021900966,2020-03-10,POR,PHX,45.07,4,2,56,PHX,PHX,fg_miss,41,False,False,,MISS Carter 4' Running Layup,113-101,113,101
-0021900966,2020-03-10,POR,PHX,45.07,4,2,56,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,113-101,113,101
 0021900966,2020-03-10,POR,PHX,45.07,4,2,56,,POR,jump_ball,0,False,False,Jump Ball Whiteside vs. Carter: Tip to Lillard,,113-101,113,101
+0021900966,2020-03-10,POR,PHX,45.07,4,2,56,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,113-101,113,101
 0021900966,2020-03-10,POR,PHX,45.23,4,2,46,POR,POR,fg3_make,1,False,False,Anthony 25' 3PT Jump Shot (21 PTS) (Lillard 7 AST),,116-101,116,101
 0021900966,2020-03-10,POR,PHX,45.52,4,2,29,PHX,PHX,fg_miss,6,False,False,,MISS Saric 1' Driving Layup,116-101,116,101
 0021900966,2020-03-10,POR,PHX,45.55,4,2,27,POR,POR,reb,0,False,False,Anthony REBOUND (Off:0 Def:3),,116-101,116,101

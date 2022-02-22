@@ -48,8 +48,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000747,2021-04-03,WAS,DAL,5.82,1,6,11,DAL,DAL,fg_make,73,False,False,,Doncic 4' Driving Reverse Layup (10 PTS),9-14,9,14
 0022000747,2021-04-03,WAS,DAL,6.2,1,5,48,WAS,DAL,foul,1,False,False,,Melli P.FOUL (P1.T1) (S.Foster),9-14,9,14
 0022000747,2021-04-03,WAS,DAL,6.38,1,5,37,WAS,WAS,fg_miss,6,False,False,MISS Neto 1' Driving Layup,,9-14,9,14
-0022000747,2021-04-03,WAS,DAL,6.38,1,5,37,WAS,WAS,reb,0,False,False,Lopez REBOUND (Off:1 Def:0),,9-14,9,14
 0022000747,2021-04-03,WAS,DAL,6.38,1,5,37,WAS,WAS,fg_make,97,False,False,Lopez 2' Tip Layup Shot (2 PTS),,11-14,11,14
+0022000747,2021-04-03,WAS,DAL,6.38,1,5,37,WAS,WAS,reb,0,False,False,Lopez REBOUND (Off:1 Def:0),,9-14,9,14
 0022000747,2021-04-03,WAS,DAL,6.67,1,5,20,DAL,DAL,fg_miss,6,False,False,,MISS Brunson 5' Driving Layup,11-14,11,14
 0022000747,2021-04-03,WAS,DAL,6.7,1,5,18,WAS,WAS,reb,0,False,False,Hutchison REBOUND (Off:0 Def:1),,11-14,11,14
 0022000747,2021-04-03,WAS,DAL,6.77,1,5,14,WAS,WAS,tov,45,False,False,Neto Out of Bounds - Bad Pass Turnover Turnover (P1.T2),,11-14,11,14
@@ -61,8 +61,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000747,2021-04-03,WAS,DAL,7.53,1,4,28,DAL,DAL,reb,0,False,False,,Green REBOUND (Off:0 Def:1),11-14,11,14
 0022000747,2021-04-03,WAS,DAL,7.65,1,4,21,DAL,DAL,fg_make,78,False,False,,Hardaway Jr. 9' Floating Jump Shot (2 PTS) (Brunson 1 AST),11-16,11,16
 0022000747,2021-04-03,WAS,DAL,7.97,1,4,2,WAS,WAS,fg_miss,5,True,False,MISS Lopez 6' Layup,,11-16,11,16
-0022000747,2021-04-03,WAS,DAL,7.97,1,4,2,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,11-16,11,16
 0022000747,2021-04-03,WAS,DAL,7.97,1,4,2,WAS,DAL,block,5,True,False,block,block,11-16,11,16
+0022000747,2021-04-03,WAS,DAL,7.97,1,4,2,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,11-16,11,16
 0022000747,2021-04-03,WAS,DAL,8.13,1,3,52,WAS,WAS,fg_make,58,False,False,Lopez 12' Turnaround Hook Shot (4 PTS) (Smith 1 AST),,13-16,13,16
 0022000747,2021-04-03,WAS,DAL,8.4,1,3,36,DAL,DAL,fg3_make,1,False,False,,Powell 28' 3PT Jump Shot (3 PTS) (Melli 2 AST),13-19,13,19
 0022000747,2021-04-03,WAS,DAL,8.7,1,3,18,WAS,WAS,fg_make,80,False,False,Avdija 18' Step Back Jump Shot (2 PTS),,15-19,15,19
@@ -74,8 +74,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000747,2021-04-03,WAS,DAL,9.32,1,2,41,DAL,DAL,fg_miss,79,False,False,,MISS Brunson 15' Pullup Jump Shot,17-19,17,19
 0022000747,2021-04-03,WAS,DAL,9.38,1,2,37,WAS,WAS,reb,0,False,False,Hutchison REBOUND (Off:0 Def:2),,17-19,17,19
 0022000747,2021-04-03,WAS,DAL,9.48,1,2,31,WAS,WAS,fg_miss,75,True,False,MISS Westbrook 7' Driving Finger Roll Layup,,17-19,17,19
-0022000747,2021-04-03,WAS,DAL,9.48,1,2,31,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,17-19,17,19
 0022000747,2021-04-03,WAS,DAL,9.48,1,2,31,WAS,DAL,block,75,True,False,block,block,17-19,17,19
+0022000747,2021-04-03,WAS,DAL,9.48,1,2,31,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,17-19,17,19
 0022000747,2021-04-03,WAS,DAL,9.62,1,2,23,WAS,WAS,fg_make,79,False,False,Neto 20' Pullup Jump Shot (4 PTS),,19-19,19,19
 0022000747,2021-04-03,WAS,DAL,9.98,1,2,1,DAL,DAL,fg_miss,6,False,False,,MISS Doncic 4' Driving Layup,19-19,19,19
 0022000747,2021-04-03,WAS,DAL,9.98,1,2,1,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,19-19,19,19
@@ -213,9 +213,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000747,2021-04-03,WAS,DAL,24.27,3,11,44,DAL,DAL,reb,0,False,False,,Doncic REBOUND (Off:0 Def:5),47-52,47,52
 0022000747,2021-04-03,WAS,DAL,24.5,3,11,30,DAL,DAL,fg3_miss,1,False,False,,MISS Hardaway Jr. 26' 3PT Jump Shot,47-52,47,52
 0022000747,2021-04-03,WAS,DAL,24.58,3,11,25,DAL,DAL,reb,0,False,False,,Finney-Smith REBOUND (Off:1 Def:1),47-52,47,52
+0022000747,2021-04-03,WAS,DAL,24.6,3,11,24,DAL,DAL,fg_make,5,False,False,,Marjanovic 5' Layup (8 PTS),47-54,47,54
 0022000747,2021-04-03,WAS,DAL,24.6,3,11,24,DAL,DAL,fg_miss,97,False,False,,MISS Finney-Smith 2' Tip Layup Shot,47-52,47,52
 0022000747,2021-04-03,WAS,DAL,24.6,3,11,24,DAL,DAL,reb,0,False,False,,Marjanovic REBOUND (Off:3 Def:6),47-52,47,52
-0022000747,2021-04-03,WAS,DAL,24.6,3,11,24,DAL,DAL,fg_make,5,False,False,,Marjanovic 5' Layup (8 PTS),47-54,47,54
 0022000747,2021-04-03,WAS,DAL,24.73,3,11,16,WAS,WAS,fg3_miss,1,False,False,MISS Bertans 29' 3PT Jump Shot,,47-54,47,54
 0022000747,2021-04-03,WAS,DAL,24.8,3,11,12,DAL,DAL,reb,0,False,False,,Hardaway Jr. REBOUND (Off:0 Def:1),47-54,47,54
 0022000747,2021-04-03,WAS,DAL,24.9,3,11,6,DAL,WAS,foul,2,False,False,Len S.FOUL (P2.T1) (S.Foster),,47-54,47,54
@@ -223,14 +223,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000747,2021-04-03,WAS,DAL,24.9,3,11,6,DAL,DAL,reb,1,False,False,,Mavericks Rebound,47-54,47,54
 0022000747,2021-04-03,WAS,DAL,24.9,3,11,6,DAL,DAL,ft_make,12,False,False,,Marjanovic Free Throw 2 of 2 (9 PTS),47-55,47,55
 0022000747,2021-04-03,WAS,DAL,25.2,3,10,48,WAS,WAS,fg_miss,5,True,False,MISS Avdija 7' Layup,,47-55,47,55
-0022000747,2021-04-03,WAS,DAL,25.2,3,10,48,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,47-55,47,55
 0022000747,2021-04-03,WAS,DAL,25.2,3,10,48,WAS,DAL,block,5,True,False,block,block,47-55,47,55
+0022000747,2021-04-03,WAS,DAL,25.2,3,10,48,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,47-55,47,55
 0022000747,2021-04-03,WAS,DAL,25.3,3,10,42,WAS,WAS,fg3_miss,1,False,False,MISS Avdija 28' 3PT Jump Shot,,47-55,47,55
 0022000747,2021-04-03,WAS,DAL,25.33,3,10,40,DAL,DAL,reb,0,False,False,,Finney-Smith REBOUND (Off:1 Def:2),47-55,47,55
 0022000747,2021-04-03,WAS,DAL,25.6,3,10,24,DAL,DAL,fg_miss,58,True,False,,MISS Marjanovic 8' Turnaround Hook Shot,47-55,47,55
+0022000747,2021-04-03,WAS,DAL,25.6,3,10,24,DAL,WAS,block,58,True,False,block,block,47-55,47,55
 0022000747,2021-04-03,WAS,DAL,25.6,3,10,24,DAL,DAL,reb,0,False,False,,Marjanovic REBOUND (Off:4 Def:6),47-55,47,55
 0022000747,2021-04-03,WAS,DAL,25.6,3,10,24,DAL,WAS,foul,2,False,False,Bertans S.FOUL (P1.T2) (B.Forte),,47-55,47,55
-0022000747,2021-04-03,WAS,DAL,25.6,3,10,24,DAL,WAS,block,58,True,False,block,block,47-55,47,55
 0022000747,2021-04-03,WAS,DAL,25.6,3,10,24,DAL,DAL,ft_make,11,False,False,,Marjanovic Free Throw 1 of 2 (10 PTS),47-56,47,56
 0022000747,2021-04-03,WAS,DAL,25.6,3,10,24,DAL,DAL,ft_make,12,False,False,,Marjanovic Free Throw 2 of 2 (11 PTS),47-57,47,57
 0022000747,2021-04-03,WAS,DAL,25.77,3,10,14,WAS,WAS,fg_make,79,False,False,Westbrook 22' Pullup Jump Shot (16 PTS),,49-57,49,57
@@ -318,8 +318,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000747,2021-04-03,WAS,DAL,36.65,4,11,21,DAL,DAL,tov,1,False,True,,Doncic Bad Pass Turnover (P4.T6),67-78,67,78
 0022000747,2021-04-03,WAS,DAL,36.65,4,11,21,DAL,WAS,steal,1,False,True,steal,steal,67-78,67,78
 0022000747,2021-04-03,WAS,DAL,36.75,4,11,15,WAS,WAS,fg_miss,6,False,False,MISS Hutchison 3' Driving Layup,,67-78,67,78
-0022000747,2021-04-03,WAS,DAL,36.83,4,11,10,WAS,WAS,fg_make,97,False,False,Westbrook Tip Layup Shot (22 PTS),,69-78,69,78
 0022000747,2021-04-03,WAS,DAL,36.83,4,11,10,WAS,WAS,reb,0,False,False,Westbrook REBOUND (Off:2 Def:10),,69-78,69,78
+0022000747,2021-04-03,WAS,DAL,36.83,4,11,10,WAS,WAS,fg_make,97,False,False,Westbrook Tip Layup Shot (22 PTS),,69-78,69,78
 0022000747,2021-04-03,WAS,DAL,37.07,4,10,56,DAL,DAL,fg_make,5,False,False,,Marjanovic 4' Layup (13 PTS) (Doncic 6 AST),69-80,69,80
 0022000747,2021-04-03,WAS,DAL,37.33,4,10,40,WAS,WAS,tov,2,False,True,Westbrook Lost Ball Turnover (P3.T12),,69-80,69,80
 0022000747,2021-04-03,WAS,DAL,37.33,4,10,40,WAS,DAL,steal,2,False,True,steal,steal,69-80,69,80
@@ -349,8 +349,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000747,2021-04-03,WAS,DAL,39.07,4,8,56,WAS,WAS,fg3_miss,1,False,False,MISS Bertans 28' 3PT Jump Shot,,71-83,71,83
 0022000747,2021-04-03,WAS,DAL,39.18,4,8,49,WAS,WAS,reb,0,False,False,Neto REBOUND (Off:1 Def:2),,71-83,71,83
 0022000747,2021-04-03,WAS,DAL,39.25,4,8,45,WAS,WAS,tov,2,False,True,Westbrook Lost Ball Turnover (P4.T13),,71-83,71,83
-0022000747,2021-04-03,WAS,DAL,39.25,4,8,45,DAL,WAS,foul,28,False,False,Bertans Personal Take Foul (P2.T3) (B.Forte),,71-83,71,83
 0022000747,2021-04-03,WAS,DAL,39.25,4,8,45,WAS,DAL,steal,2,False,True,steal,steal,71-83,71,83
+0022000747,2021-04-03,WAS,DAL,39.25,4,8,45,DAL,WAS,foul,28,False,False,Bertans Personal Take Foul (P2.T3) (B.Forte),,71-83,71,83
 0022000747,2021-04-03,WAS,DAL,39.48,4,8,31,DAL,WAS,foul,2,False,False,Westbrook S.FOUL (P2.T4) (S.Foster),,71-83,71,83
 0022000747,2021-04-03,WAS,DAL,39.48,4,8,31,DAL,DAL,ft_make,11,False,False,,Marjanovic Free Throw 1 of 2 (14 PTS),71-84,71,84
 0022000747,2021-04-03,WAS,DAL,39.48,4,8,31,DAL,DAL,ft_make,12,False,False,,Marjanovic Free Throw 2 of 2 (15 PTS),71-85,71,85

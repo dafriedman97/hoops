@@ -22,8 +22,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700006,2017-10-18,WAS,PHI,1.92,1,10,5,WAS,PHI,foul,1,False,False,,Covington P.FOUL (P1.T1) (Z.Zarba),4-5,4,5
 0021700006,2017-10-18,WAS,PHI,2.12,1,9,53,WAS,WAS,fg_make,103,False,False,Porter Jr. 12' Running Pull-Up Jump Shot (6 PTS),,6-5,6,5
 0021700006,2017-10-18,WAS,PHI,2.27,1,9,44,PHI,PHI,fg_miss,5,True,False,,MISS Simmons 3' Layup,6-5,6,5
-0021700006,2017-10-18,WAS,PHI,2.27,1,9,44,WAS,WAS,reb,0,False,False,Gortat REBOUND (Off:0 Def:2),,6-5,6,5
 0021700006,2017-10-18,WAS,PHI,2.27,1,9,44,PHI,WAS,block,5,True,False,block,block,6-5,6,5
+0021700006,2017-10-18,WAS,PHI,2.27,1,9,44,WAS,WAS,reb,0,False,False,Gortat REBOUND (Off:0 Def:2),,6-5,6,5
 0021700006,2017-10-18,WAS,PHI,2.4,1,9,36,WAS,WAS,fg_make,5,False,False,Porter Jr. 1' Layup (8 PTS) (Wall 3 AST),,8-5,8,5
 0021700006,2017-10-18,WAS,PHI,2.62,1,9,23,PHI,PHI,fg3_miss,1,False,False,,MISS Bayless 26' 3PT Jump Shot,8-5,8,5
 0021700006,2017-10-18,WAS,PHI,2.65,1,9,21,WAS,WAS,reb,0,False,False,Gortat REBOUND (Off:0 Def:3),,8-5,8,5
@@ -94,8 +94,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700006,2017-10-18,WAS,PHI,10.23,1,1,46,PHI,PHI,tov,2,False,True,,Fultz Lost Ball Turnover (P1.T2),25-18,25,18
 0021700006,2017-10-18,WAS,PHI,10.23,1,1,46,PHI,WAS,steal,2,False,True,steal,steal,25-18,25,18
 0021700006,2017-10-18,WAS,PHI,10.27,1,1,44,WAS,WAS,fg_miss,5,True,False,MISS Oubre Jr. 1' Layup,,25-18,25,18
-0021700006,2017-10-18,WAS,PHI,10.27,1,1,44,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,25-18,25,18
 0021700006,2017-10-18,WAS,PHI,10.27,1,1,44,WAS,PHI,block,5,True,False,block,block,25-18,25,18
+0021700006,2017-10-18,WAS,PHI,10.27,1,1,44,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,25-18,25,18
 0021700006,2017-10-18,WAS,PHI,10.35,1,1,39,WAS,WAS,fg_miss,1,False,False,MISS Meeks 11' Jump Shot,,25-18,25,18
 0021700006,2017-10-18,WAS,PHI,10.38,1,1,37,PHI,PHI,reb,0,False,False,,Embiid REBOUND (Off:0 Def:4),25-18,25,18
 0021700006,2017-10-18,WAS,PHI,10.42,1,1,35,PHI,PHI,fg_make,98,False,False,,Saric 1' Cutting Layup Shot (2 PTS) (Luwawu-Cabarrot 1 AST),25-20,25,20
@@ -144,8 +144,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700006,2017-10-18,WAS,PHI,14.93,2,9,4,WAS,WAS,tov,2,False,True,Beal Lost Ball Turnover (P1.T4),,36-32,36,32
 0021700006,2017-10-18,WAS,PHI,14.93,2,9,4,WAS,PHI,steal,2,False,True,steal,steal,36-32,36,32
 0021700006,2017-10-18,WAS,PHI,15.07,2,8,56,PHI,PHI,fg_miss,6,True,False,,MISS Redick 4' Driving Layup,36-32,36,32
-0021700006,2017-10-18,WAS,PHI,15.07,2,8,56,PHI,PHI,reb,0,False,False,,76ers Rebound,36-32,36,32
 0021700006,2017-10-18,WAS,PHI,15.07,2,8,56,PHI,WAS,block,6,True,False,block,block,36-32,36,32
+0021700006,2017-10-18,WAS,PHI,15.07,2,8,56,PHI,PHI,reb,0,False,False,,76ers Rebound,36-32,36,32
 0021700006,2017-10-18,WAS,PHI,15.28,2,8,43,PHI,PHI,fg3_make,79,False,False,,Covington 26' 3PT Pullup Jump Shot (6 PTS) (Bayless 2 AST),36-35,36,35
 0021700006,2017-10-18,WAS,PHI,15.45,2,8,33,WAS,WAS,tov,40,False,False,Scott Out of Bounds Lost Ball Turnover (P1.T5),,36-35,36,35
 0021700006,2017-10-18,WAS,PHI,15.75,2,8,15,PHI,PHI,fg3_make,1,False,False,,Covington 26' 3PT Jump Shot (9 PTS) (Johnson 1 AST),36-38,36,38
@@ -174,8 +174,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700006,2017-10-18,WAS,PHI,18.32,2,5,41,PHI,PHI,fg_miss,63,False,False,,MISS Fultz 10' Fadeaway Jumper,46-45,46,45
 0021700006,2017-10-18,WAS,PHI,18.37,2,5,38,WAS,WAS,reb,0,False,False,Porter Jr. REBOUND (Off:1 Def:2),,46-45,46,45
 0021700006,2017-10-18,WAS,PHI,18.43,2,5,34,WAS,WAS,fg_miss,5,True,False,MISS Wall 2' Layup,,46-45,46,45
-0021700006,2017-10-18,WAS,PHI,18.43,2,5,34,PHI,PHI,reb,0,False,False,,Johnson REBOUND (Off:0 Def:2),46-45,46,45
 0021700006,2017-10-18,WAS,PHI,18.43,2,5,34,WAS,PHI,block,5,True,False,block,block,46-45,46,45
+0021700006,2017-10-18,WAS,PHI,18.43,2,5,34,PHI,PHI,reb,0,False,False,,Johnson REBOUND (Off:0 Def:2),46-45,46,45
 0021700006,2017-10-18,WAS,PHI,18.52,2,5,29,PHI,PHI,fg_make,5,False,False,,Luwawu-Cabarrot 2' Layup (5 PTS) (McConnell 2 AST),46-47,46,47
 0021700006,2017-10-18,WAS,PHI,18.75,2,5,15,WAS,PHI,foul,1,False,False,,Johnson P.FOUL (P2.T4) (Z.Zarba),46-47,46,47
 0021700006,2017-10-18,WAS,PHI,18.9,2,5,6,WAS,WAS,fg_miss,1,False,False,MISS Beal 16' Jump Shot,,46-47,46,47
@@ -267,8 +267,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700006,2017-10-18,WAS,PHI,27.52,3,8,29,WAS,PHI,foul,1,False,False,,Bayless P.FOUL (P2.T3) (D.Guthrie),65-67,65,67
 0021700006,2017-10-18,WAS,PHI,27.62,3,8,23,WAS,WAS,fg_make,6,False,False,Wall 2' Driving Layup (14 PTS),,67-67,67,67
 0021700006,2017-10-18,WAS,PHI,27.78,3,8,13,PHI,PHI,fg_miss,5,True,False,,MISS Covington 2' Layup,67-67,67,67
-0021700006,2017-10-18,WAS,PHI,27.78,3,8,13,PHI,PHI,reb,0,False,False,,76ers Rebound,67-67,67,67
 0021700006,2017-10-18,WAS,PHI,27.78,3,8,13,PHI,WAS,block,5,True,False,block,block,67-67,67,67
+0021700006,2017-10-18,WAS,PHI,27.78,3,8,13,PHI,PHI,reb,0,False,False,,76ers Rebound,67-67,67,67
 0021700006,2017-10-18,WAS,PHI,27.87,3,8,8,PHI,PHI,tov,4,False,False,,Covington Traveling Turnover (P2.T7),67-67,67,67
 0021700006,2017-10-18,WAS,PHI,28.05,3,7,57,WAS,PHI,foul,2,False,False,,Bayless S.FOUL (P3.T4) (D.Guthrie),67-67,67,67
 0021700006,2017-10-18,WAS,PHI,28.05,3,7,57,WAS,WAS,ft_make,11,False,False,Beal Free Throw 1 of 2 (16 PTS),,68-67,68,67
@@ -276,8 +276,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700006,2017-10-18,WAS,PHI,28.2,3,7,48,PHI,PHI,tov,1,False,False,,Simmons Bad Pass Turnover (P1.T8),69-67,69,67
 0021700006,2017-10-18,WAS,PHI,28.4,3,7,36,,WAS,jump_ball,0,False,False,Jump Ball Wall vs. Luwawu-Cabarrot: Tip to Covington,,69-67,69,67
 0021700006,2017-10-18,WAS,PHI,28.4,3,7,36,WAS,WAS,tov,2,False,True,Wall Lost Ball Turnover (P1.T7),,69-67,69,67
-0021700006,2017-10-18,WAS,PHI,28.4,3,7,36,PHI,PHI,tov,45,False,False,,Covington Out of Bounds - Bad Pass Turnover Turnover (P3.T9),69-67,69,67
 0021700006,2017-10-18,WAS,PHI,28.4,3,7,36,WAS,PHI,steal,2,False,True,steal,steal,69-67,69,67
+0021700006,2017-10-18,WAS,PHI,28.4,3,7,36,PHI,PHI,tov,45,False,False,,Covington Out of Bounds - Bad Pass Turnover Turnover (P3.T9),69-67,69,67
 0021700006,2017-10-18,WAS,PHI,28.53,3,7,28,WAS,WAS,fg_miss,6,False,False,MISS Beal 4' Driving Layup,,69-67,69,67
 0021700006,2017-10-18,WAS,PHI,28.58,3,7,25,WAS,WAS,reb,0,False,False,Wall REBOUND (Off:1 Def:2),,69-67,69,67
 0021700006,2017-10-18,WAS,PHI,28.58,3,7,25,WAS,WAS,fg3_miss,1,False,False,MISS Wall 26' 3PT Jump Shot,,69-67,69,67
@@ -413,8 +413,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700006,2017-10-18,WAS,PHI,41.1,4,6,54,PHI,PHI,tov,37,False,False,,Johnson Offensive Foul Turnover (P1.T14),100-100,100,100
 0021700006,2017-10-18,WAS,PHI,41.3,4,6,42,WAS,WAS,fg_make,6,False,False,Wall 3' Driving Layup (26 PTS),,102-100,102,100
 0021700006,2017-10-18,WAS,PHI,41.42,4,6,35,PHI,PHI,fg_miss,6,True,False,,MISS Luwawu-Cabarrot Driving Layup,102-100,102,100
-0021700006,2017-10-18,WAS,PHI,41.42,4,6,35,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,102-100,102,100
 0021700006,2017-10-18,WAS,PHI,41.42,4,6,35,PHI,WAS,block,6,True,False,block,block,102-100,102,100
+0021700006,2017-10-18,WAS,PHI,41.42,4,6,35,WAS,WAS,reb,0,False,False,WIZARDS Rebound,,102-100,102,100
 0021700006,2017-10-18,WAS,PHI,41.55,4,6,27,WAS,WAS,fg_make,108,False,False,Gortat 1' Cutting Dunk Shot (8 PTS) (Wall 6 AST),,104-100,104,100
 0021700006,2017-10-18,WAS,PHI,41.6,4,6,24,PHI,PHI,timeout,1,False,False,,76ers Timeout: Regular (Reg.4 Short 0),104-100,104,100
 0021700006,2017-10-18,WAS,PHI,41.75,4,6,15,PHI,PHI,fg_make,6,False,False,,Simmons 2' Driving Layup (16 PTS),104-102,104,102
@@ -470,10 +470,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700006,2017-10-18,WAS,PHI,47.52,4,0,29,WAS,PHI,block,6,True,False,block,block,115-113,115,113
 0021700006,2017-10-18,WAS,PHI,47.65,4,0,21,PHI,PHI,reb,0,False,False,,Embiid REBOUND (Off:1 Def:12),115-113,115,113
 0021700006,2017-10-18,WAS,PHI,47.67,4,0,20,PHI,PHI,tov,2,False,True,,Covington Lost Ball Turnover (P5.T16),115-113,115,113
+0021700006,2017-10-18,WAS,PHI,47.67,4,0,20,PHI,WAS,steal,2,False,True,steal,steal,115-113,115,113
 0021700006,2017-10-18,WAS,PHI,47.67,4,0,20,WAS,PHI,foul,1,False,False,,Covington P.FOUL (P4.PN) (D.Guthrie),115-113,115,113
 0021700006,2017-10-18,WAS,PHI,47.67,4,0,20,WAS,WAS,ft_miss,11,False,False,MISS Beal Free Throw 1 of 2,,115-113,115,113
 0021700006,2017-10-18,WAS,PHI,47.67,4,0,20,WAS,WAS,reb,1,False,False,WIZARDS Rebound,,115-113,115,113
-0021700006,2017-10-18,WAS,PHI,47.67,4,0,20,PHI,WAS,steal,2,False,True,steal,steal,115-113,115,113
 0021700006,2017-10-18,WAS,PHI,47.67,4,0,20,WAS,WAS,ft_make,12,False,False,Beal Free Throw 2 of 2 (23 PTS),,116-113,116,113
 0021700006,2017-10-18,WAS,PHI,47.67,4,0,20,PHI,PHI,timeout,1,False,False,,76ers Timeout: Regular (Reg.6 Short 0),116-113,116,113
 0021700006,2017-10-18,WAS,PHI,47.75,4,0,15,PHI,PHI,fg3_miss,79,False,False,,MISS Redick 25' 3PT Pullup Jump Shot,116-113,116,113

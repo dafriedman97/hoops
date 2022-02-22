@@ -9,8 +9,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800587,2019-01-06,ATL,MIA,1.08,1,10,55,MIA,MIA,reb,0,False,False,,Heat Rebound,5-0,5,0
 0021800587,2019-01-06,ATL,MIA,1.27,1,10,44,MIA,MIA,tov,8,False,False,,Whiteside 3 Second Violation Turnover (P1.T2),5-0,5,0
 0021800587,2019-01-06,ATL,MIA,1.53,1,10,28,ATL,ATL,fg_miss,47,True,False,MISS Collins 9' Turnaround Jump Shot,,5-0,5,0
-0021800587,2019-01-06,ATL,MIA,1.53,1,10,28,ATL,ATL,reb,0,False,False,HAWKS Rebound,,5-0,5,0
 0021800587,2019-01-06,ATL,MIA,1.53,1,10,28,ATL,MIA,block,47,True,False,block,block,5-0,5,0
+0021800587,2019-01-06,ATL,MIA,1.53,1,10,28,ATL,ATL,reb,0,False,False,HAWKS Rebound,,5-0,5,0
 0021800587,2019-01-06,ATL,MIA,1.67,1,10,20,ATL,ATL,fg_miss,80,False,False,MISS Huerter 18' Step Back Jump Shot,,5-0,5,0
 0021800587,2019-01-06,ATL,MIA,1.72,1,10,17,MIA,MIA,reb,0,False,False,,Johnson REBOUND (Off:0 Def:1),5-0,5,0
 0021800587,2019-01-06,ATL,MIA,1.83,1,10,10,MIA,MIA,fg_miss,98,False,False,,MISS Richardson 1' Cutting Layup Shot,5-0,5,0
@@ -71,8 +71,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800587,2019-01-06,ATL,MIA,6.7,1,5,18,MIA,ATL,foul,3,False,False,Bembry L.B.FOUL (P1.T1) (J.Orr),,18-6,18,6
 0021800587,2019-01-06,ATL,MIA,6.88,1,5,7,MIA,MIA,fg_make,79,False,False,,Winslow 14' Pullup Jump Shot (2 PTS),18-8,18,8
 0021800587,2019-01-06,ATL,MIA,7.15,1,4,51,ATL,ATL,fg_miss,6,True,False,MISS Hamilton 2' Driving Layup,,18-8,18,8
-0021800587,2019-01-06,ATL,MIA,7.15,1,4,51,ATL,ATL,reb,0,False,False,HAWKS Rebound,,18-8,18,8
 0021800587,2019-01-06,ATL,MIA,7.15,1,4,51,ATL,MIA,block,6,True,False,block,block,18-8,18,8
+0021800587,2019-01-06,ATL,MIA,7.15,1,4,51,ATL,ATL,reb,0,False,False,HAWKS Rebound,,18-8,18,8
 0021800587,2019-01-06,ATL,MIA,7.2,1,4,48,ATL,ATL,fg_miss,5,True,False,MISS Len 2' Layup,,18-8,18,8
 0021800587,2019-01-06,ATL,MIA,7.2,1,4,48,ATL,MIA,block,5,True,False,block,block,18-8,18,8
 0021800587,2019-01-06,ATL,MIA,7.27,1,4,44,MIA,MIA,reb,0,False,False,,Winslow REBOUND (Off:0 Def:1),18-8,18,8
@@ -226,11 +226,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800587,2019-01-06,ATL,MIA,21.62,2,2,23,ATL,MIA,foul,2,False,False,,Richardson S.FOUL (P2.PN) (J.Orr),37-33,37,33
 0021800587,2019-01-06,ATL,MIA,21.62,2,2,23,ATL,ATL,ft_make,10,False,False,Collins Free Throw 1 of 1 (9 PTS),,38-33,38,33
 0021800587,2019-01-06,ATL,MIA,21.75,2,2,15,MIA,MIA,fg_make,6,False,False,,Richardson 1' Driving Layup (5 PTS) (Johnson 2 AST),38-35,38,35
-0021800587,2019-01-06,ATL,MIA,22.07,2,1,56,ATL,ATL,tov,2,False,False,Dorsey Lost Ball Turnover (P2.T13),,38-35,38,35
 0021800587,2019-01-06,ATL,MIA,22.07,2,1,56,MIA,ATL,foul,3,False,False,Dorsey L.B.FOUL (P1.PN) (P.Fraher),,38-35,38,35
 0021800587,2019-01-06,ATL,MIA,22.07,2,1,56,MIA,MIA,ft_miss,11,False,False,,MISS Richardson Free Throw 1 of 2,38-35,38,35
 0021800587,2019-01-06,ATL,MIA,22.07,2,1,56,MIA,MIA,reb,1,False,False,,Heat Rebound,38-35,38,35
 0021800587,2019-01-06,ATL,MIA,22.07,2,1,56,MIA,MIA,ft_make,12,False,False,,Richardson Free Throw 2 of 2 (6 PTS),38-36,38,36
+0021800587,2019-01-06,ATL,MIA,22.07,2,1,56,ATL,ATL,tov,2,False,False,Dorsey Lost Ball Turnover (P2.T13),,38-35,38,35
 0021800587,2019-01-06,ATL,MIA,22.35,2,1,39,ATL,ATL,tov,4,False,False,Collins Traveling Turnover (P2.T14),,38-36,38,36
 0021800587,2019-01-06,ATL,MIA,22.5,2,1,30,MIA,MIA,fg3_miss,80,False,False,,MISS Richardson 25' 3PT Step Back Jump Shot,38-36,38,36
 0021800587,2019-01-06,ATL,MIA,22.6,2,1,24,MIA,MIA,reb,0,False,False,,Johnson REBOUND (Off:1 Def:2),38-36,38,36
@@ -381,8 +381,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800587,2019-01-06,ATL,MIA,38.83,4,9,10,ATL,ATL,fg3_make,1,False,False,Carter 26' 3PT Jump Shot (8 PTS) (Dedmon 1 AST),,88-66,88,66
 0021800587,2019-01-06,ATL,MIA,39.23,4,8,46,MIA,MIA,fg_make,7,False,False,,Adebayo 1' Dunk (12 PTS) (Wade 3 AST),88-68,88,68
 0021800587,2019-01-06,ATL,MIA,39.68,4,8,19,ATL,ATL,fg_miss,5,True,False,MISS Dedmon 1' Layup,,88-68,88,68
-0021800587,2019-01-06,ATL,MIA,39.68,4,8,19,ATL,ATL,reb,0,False,False,HAWKS Rebound,,88-68,88,68
 0021800587,2019-01-06,ATL,MIA,39.68,4,8,19,ATL,MIA,block,5,True,False,block,block,88-68,88,68
+0021800587,2019-01-06,ATL,MIA,39.68,4,8,19,ATL,ATL,reb,0,False,False,HAWKS Rebound,,88-68,88,68
 0021800587,2019-01-06,ATL,MIA,39.72,4,8,17,ATL,ATL,tov,1,False,True,Hamilton Bad Pass Turnover (P2.T16),,88-68,88,68
 0021800587,2019-01-06,ATL,MIA,39.72,4,8,17,ATL,MIA,steal,1,False,True,steal,steal,88-68,88,68
 0021800587,2019-01-06,ATL,MIA,39.75,4,8,15,MIA,ATL,foul,1,False,False,Young P.FOUL (P1.T3) (J.Orr),,88-68,88,68

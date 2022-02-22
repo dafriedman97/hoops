@@ -101,8 +101,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700642,2018-01-15,BKN,NYK,11.85,1,0,9,BKN,BKN,fg_miss,6,False,False,MISS LeVert 1' Driving Layup,,24-26,24,26
 0021700642,2018-01-15,BKN,NYK,11.88,1,0,7,BKN,BKN,reb,0,False,False,LeVert REBOUND (Off:1 Def:0),,24-26,24,26
 0021700642,2018-01-15,BKN,NYK,11.88,1,0,7,BKN,BKN,fg_miss,72,True,False,MISS LeVert 1' Putback Layup,,24-26,24,26
-0021700642,2018-01-15,BKN,NYK,11.88,1,0,7,NYK,NYK,reb,0,False,False,,McDermott REBOUND (Off:0 Def:1),24-26,24,26
 0021700642,2018-01-15,BKN,NYK,11.88,1,0,7,BKN,NYK,block,72,True,False,block,block,24-26,24,26
+0021700642,2018-01-15,BKN,NYK,11.88,1,0,7,NYK,NYK,reb,0,False,False,,McDermott REBOUND (Off:0 Def:1),24-26,24,26
 0021700642,2018-01-15,BKN,NYK,12.0,1,0,0,NYK,,period_end,0,False,False,,,24-26,24,26
 0021700642,2018-01-15,BKN,NYK,12.0,2,12,0,NYK,,period_start,0,False,False,,,24-26,24,26
 0021700642,2018-01-15,BKN,NYK,12.23,2,11,46,NYK,NYK,fg3_miss,1,False,False,,MISS Baker 3PT Jump Shot,24-26,24,26
@@ -123,8 +123,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700642,2018-01-15,BKN,NYK,13.7,2,10,18,BKN,BKN,tov,1,False,True,Crabbe Bad Pass Turnover (P1.T3),,26-30,26,30
 0021700642,2018-01-15,BKN,NYK,13.7,2,10,18,BKN,NYK,steal,1,False,True,steal,steal,26-30,26,30
 0021700642,2018-01-15,BKN,NYK,13.75,2,10,15,NYK,NYK,fg_miss,50,True,False,,MISS McDermott 2' Running Dunk,26-30,26,30
-0021700642,2018-01-15,BKN,NYK,13.75,2,10,15,NYK,NYK,reb,0,False,False,,Knicks Rebound,26-30,26,30
 0021700642,2018-01-15,BKN,NYK,13.75,2,10,15,NYK,BKN,block,50,True,False,block,block,26-30,26,30
+0021700642,2018-01-15,BKN,NYK,13.75,2,10,15,NYK,NYK,reb,0,False,False,,Knicks Rebound,26-30,26,30
 0021700642,2018-01-15,BKN,NYK,13.77,2,10,14,NYK,BKN,foul,2,False,False,Acy S.FOUL (P1.T2) (R.Acosta),,26-30,26,30
 0021700642,2018-01-15,BKN,NYK,13.77,2,10,14,NYK,NYK,ft_miss,11,False,False,,MISS Porzingis Free Throw 1 of 2,26-30,26,30
 0021700642,2018-01-15,BKN,NYK,13.77,2,10,14,NYK,NYK,reb,1,False,False,,Knicks Rebound,26-30,26,30
@@ -218,8 +218,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700642,2018-01-15,BKN,NYK,23.9,2,0,6,BKN,BKN,fg_miss,6,False,False,MISS Dinwiddie 4' Driving Layup,,42-52,42,52
 0021700642,2018-01-15,BKN,NYK,23.93,2,0,4,NYK,NYK,reb,0,False,False,,Ntilikina REBOUND (Off:0 Def:4),42-52,42,52
 0021700642,2018-01-15,BKN,NYK,23.98,2,0,1,NYK,NYK,fg_miss,41,True,False,,MISS Lee 2' Running Layup,42-52,42,52
-0021700642,2018-01-15,BKN,NYK,23.98,2,0,1,NYK,NYK,reb,0,False,False,,Knicks Rebound,42-52,42,52
 0021700642,2018-01-15,BKN,NYK,23.98,2,0,1,NYK,BKN,block,41,True,False,block,block,42-52,42,52
+0021700642,2018-01-15,BKN,NYK,23.98,2,0,1,NYK,NYK,reb,0,False,False,,Knicks Rebound,42-52,42,52
 0021700642,2018-01-15,BKN,NYK,24.0,2,0,0,NYK,NYK,fg_miss,63,False,False,,MISS Lee 17' Fadeaway Jumper,42-52,42,52
 0021700642,2018-01-15,BKN,NYK,24.0,2,0,0,NYK,NYK,reb,0,False,False,,Knicks Rebound,42-52,42,52
 0021700642,2018-01-15,BKN,NYK,24.0,2,0,0,NYK,,period_end,0,False,False,,,42-52,42,52
@@ -268,10 +268,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700642,2018-01-15,BKN,NYK,27.85,3,8,9,BKN,BKN,ft_make,10,False,False,Hollis-Jefferson Free Throw 1 of 1 (16 PTS),,55-64,55,64
 0021700642,2018-01-15,BKN,NYK,28.07,3,7,56,NYK,BKN,foul,27,False,False,Zeller Personal Block Foul (P1.PN) (K.Lane),,55-64,55,64
 0021700642,2018-01-15,BKN,NYK,28.07,3,7,56,NYK,NYK,ft_make,10,False,False,,Kanter Free Throw 1 of 1 (5 PTS),55-65,55,65
-0021700642,2018-01-15,BKN,NYK,28.07,3,7,56,NYK,NYK,ft_miss,12,False,False,,MISS Kanter Free Throw 2 of 2,55-65,55,65
-0021700642,2018-01-15,BKN,NYK,28.07,3,7,56,BKN,BKN,reb,0,False,False,Acy REBOUND (Off:0 Def:3),,55-65,55,65
 0021700642,2018-01-15,BKN,NYK,28.07,3,7,56,NYK,BKN,foul,11,False,False,NETS T.FOUL,,55-65,55,65
 0021700642,2018-01-15,BKN,NYK,28.07,3,7,56,NYK,NYK,ft_make,16,False,False,,Lee Free Throw Technical (8 PTS),55-66,55,66
+0021700642,2018-01-15,BKN,NYK,28.07,3,7,56,NYK,NYK,ft_miss,12,False,False,,MISS Kanter Free Throw 2 of 2,55-65,55,65
+0021700642,2018-01-15,BKN,NYK,28.07,3,7,56,BKN,BKN,reb,0,False,False,Acy REBOUND (Off:0 Def:3),,55-65,55,65
 0021700642,2018-01-15,BKN,NYK,28.08,3,7,55,BKN,NYK,foul,1,False,False,,Porzingis P.FOUL (P3.PN) (K.Lane),55-66,55,66
 0021700642,2018-01-15,BKN,NYK,28.08,3,7,55,BKN,BKN,ft_miss,11,False,False,MISS Acy Free Throw 1 of 2,,55-66,55,66
 0021700642,2018-01-15,BKN,NYK,28.08,3,7,55,BKN,BKN,reb,1,False,False,NETS Rebound,,55-66,55,66
@@ -331,8 +331,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700642,2018-01-15,BKN,NYK,32.78,3,3,13,NYK,NYK,fg_miss,41,False,False,,MISS Lee 1' Running Layup,69-75,69,75
 0021700642,2018-01-15,BKN,NYK,32.82,3,3,11,BKN,BKN,reb,0,False,False,LeVert REBOUND (Off:3 Def:3),,69-75,69,75
 0021700642,2018-01-15,BKN,NYK,32.93,3,3,4,BKN,BKN,fg_miss,6,True,False,MISS LeVert 2' Driving Layup,,69-75,69,75
-0021700642,2018-01-15,BKN,NYK,32.93,3,3,4,BKN,BKN,reb,0,False,False,NETS Rebound,,69-75,69,75
 0021700642,2018-01-15,BKN,NYK,32.93,3,3,4,BKN,NYK,block,6,True,False,block,block,69-75,69,75
+0021700642,2018-01-15,BKN,NYK,32.93,3,3,4,BKN,BKN,reb,0,False,False,NETS Rebound,,69-75,69,75
 0021700642,2018-01-15,BKN,NYK,32.98,3,3,1,BKN,BKN,fg_miss,98,True,False,MISS Carroll 2' Cutting Layup Shot,,69-75,69,75
 0021700642,2018-01-15,BKN,NYK,32.98,3,3,1,BKN,NYK,block,98,True,False,block,block,69-75,69,75
 0021700642,2018-01-15,BKN,NYK,33.02,3,2,59,NYK,NYK,reb,0,False,False,,Baker REBOUND (Off:0 Def:2),69-75,69,75
@@ -390,8 +390,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700642,2018-01-15,BKN,NYK,38.88,4,9,7,BKN,NYK,foul,4,False,False,,Beasley OFF.Foul (P2) (K.Lane),81-91,81,91
 0021700642,2018-01-15,BKN,NYK,38.88,4,9,7,NYK,NYK,tov,37,False,False,,Beasley Offensive Foul Turnover (P2.T8),81-91,81,91
 0021700642,2018-01-15,BKN,NYK,39.03,4,8,58,BKN,BKN,fg_miss,101,True,False,MISS Dinwiddie 10' Driving Floating Jump Shot,,81-91,81,91
-0021700642,2018-01-15,BKN,NYK,39.03,4,8,58,NYK,NYK,reb,0,False,False,,Ntilikina REBOUND (Off:0 Def:7),81-91,81,91
 0021700642,2018-01-15,BKN,NYK,39.03,4,8,58,BKN,NYK,block,101,True,False,block,block,81-91,81,91
+0021700642,2018-01-15,BKN,NYK,39.03,4,8,58,NYK,NYK,reb,0,False,False,,Ntilikina REBOUND (Off:0 Def:7),81-91,81,91
 0021700642,2018-01-15,BKN,NYK,39.12,4,8,53,NYK,NYK,fg_make,41,False,False,,Beasley 2' Running Layup (9 PTS),81-93,81,93
 0021700642,2018-01-15,BKN,NYK,39.12,4,8,53,NYK,BKN,foul,2,False,False,Crabbe S.FOUL (P3.T1) (R.Acosta),,81-93,81,93
 0021700642,2018-01-15,BKN,NYK,39.12,4,8,53,NYK,NYK,ft_make,10,False,False,,Beasley Free Throw 1 of 1 (10 PTS),81-94,81,94

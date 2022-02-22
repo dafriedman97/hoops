@@ -6,8 +6,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800089,2018-10-29,MIA,SAC,0.45,1,11,33,MIA,MIA,reb,0,False,False,Dragic REBOUND (Off:0 Def:1),,0-0,0,0
 0021800089,2018-10-29,MIA,SAC,0.53,1,11,28,MIA,MIA,fg3_make,1,False,False,Dragic 25' 3PT Jump Shot (3 PTS),,3-0,3,0
 0021800089,2018-10-29,MIA,SAC,0.8,1,11,12,SAC,SAC,fg_miss,5,True,False,,MISS Bjelica 6' Layup,3-0,3,0
-0021800089,2018-10-29,MIA,SAC,0.8,1,11,12,MIA,MIA,reb,0,False,False,Whiteside REBOUND (Off:0 Def:1),,3-0,3,0
 0021800089,2018-10-29,MIA,SAC,0.8,1,11,12,SAC,MIA,block,5,True,False,block,block,3-0,3,0
+0021800089,2018-10-29,MIA,SAC,0.8,1,11,12,MIA,MIA,reb,0,False,False,Whiteside REBOUND (Off:0 Def:1),,3-0,3,0
 0021800089,2018-10-29,MIA,SAC,0.85,1,11,9,MIA,MIA,tov,1,False,True,Whiteside Bad Pass Turnover (P1.T1),,3-0,3,0
 0021800089,2018-10-29,MIA,SAC,0.85,1,11,9,MIA,SAC,steal,1,False,True,steal,steal,3-0,3,0
 0021800089,2018-10-29,MIA,SAC,0.93,1,11,4,SAC,SAC,fg3_miss,1,False,False,,MISS Bjelica 24' 3PT Jump Shot,3-0,3,0
@@ -30,8 +30,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800089,2018-10-29,MIA,SAC,2.48,1,9,31,MIA,MIA,fg_miss,1,False,False,MISS Whiteside 14' Jump Shot,,5-2,5,2
 0021800089,2018-10-29,MIA,SAC,2.52,1,9,29,SAC,SAC,reb,0,False,False,,Cauley-Stein REBOUND (Off:0 Def:1),5-2,5,2
 0021800089,2018-10-29,MIA,SAC,2.62,1,9,23,SAC,SAC,fg_miss,1,True,False,,MISS Shumpert 21' Jump Shot,5-2,5,2
-0021800089,2018-10-29,MIA,SAC,2.62,1,9,23,SAC,SAC,reb,0,False,False,,Kings Rebound,5-2,5,2
 0021800089,2018-10-29,MIA,SAC,2.62,1,9,23,SAC,MIA,block,1,True,False,block,block,5-2,5,2
+0021800089,2018-10-29,MIA,SAC,2.62,1,9,23,SAC,SAC,reb,0,False,False,,Kings Rebound,5-2,5,2
 0021800089,2018-10-29,MIA,SAC,2.68,1,9,19,SAC,SAC,fg_miss,1,False,False,,MISS Hield 18' Jump Shot,5-2,5,2
 0021800089,2018-10-29,MIA,SAC,2.72,1,9,17,MIA,MIA,reb,0,False,False,Olynyk REBOUND (Off:0 Def:1),,5-2,5,2
 0021800089,2018-10-29,MIA,SAC,2.83,1,9,10,MIA,MIA,fg_make,6,False,False,Richardson 1' Driving Layup (2 PTS) (McGruder 1 AST),,7-2,7,2
@@ -47,8 +47,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800089,2018-10-29,MIA,SAC,4.08,1,7,55,MIA,MIA,reb,0,False,False,Whiteside REBOUND (Off:1 Def:4),,12-4,12,4
 0021800089,2018-10-29,MIA,SAC,4.18,1,7,49,MIA,MIA,fg_make,52,False,False,Whiteside 1' Alley Oop Dunk (4 PTS) (McGruder 3 AST),,14-4,14,4
 0021800089,2018-10-29,MIA,SAC,4.47,1,7,32,SAC,SAC,fg_miss,5,True,False,,MISS Fox 3' Layup,14-4,14,4
-0021800089,2018-10-29,MIA,SAC,4.47,1,7,32,SAC,SAC,reb,0,False,False,,Kings Rebound,14-4,14,4
 0021800089,2018-10-29,MIA,SAC,4.47,1,7,32,SAC,MIA,block,5,True,False,block,block,14-4,14,4
+0021800089,2018-10-29,MIA,SAC,4.47,1,7,32,SAC,SAC,reb,0,False,False,,Kings Rebound,14-4,14,4
 0021800089,2018-10-29,MIA,SAC,4.62,1,7,23,SAC,SAC,fg_make,80,False,False,,Hield 12' Step Back Jump Shot (4 PTS) (Cauley-Stein 1 AST),14-6,14,6
 0021800089,2018-10-29,MIA,SAC,4.85,1,7,9,MIA,MIA,fg_miss,6,True,False,MISS Richardson 3' Driving Layup,,14-6,14,6
 0021800089,2018-10-29,MIA,SAC,4.85,1,7,9,MIA,SAC,block,6,True,False,block,block,14-6,14,6
@@ -405,9 +405,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800089,2018-10-29,MIA,SAC,39.23,4,8,46,MIA,MIA,fg3_miss,1,False,False,MISS Richardson 25' 3PT Jump Shot,,90-102,90,102
 0021800089,2018-10-29,MIA,SAC,39.28,4,8,43,SAC,SAC,reb,0,False,False,,Jackson REBOUND (Off:0 Def:2),90-102,90,102
 0021800089,2018-10-29,MIA,SAC,39.63,4,8,22,SAC,SAC,fg_miss,5,True,False,,MISS Bjelica 1' Layup,90-102,90,102
+0021800089,2018-10-29,MIA,SAC,39.63,4,8,22,SAC,MIA,block,5,True,False,block,block,90-102,90,102
 0021800089,2018-10-29,MIA,SAC,39.63,4,8,22,SAC,SAC,reb,0,False,False,,Bjelica REBOUND (Off:3 Def:2),90-102,90,102
 0021800089,2018-10-29,MIA,SAC,39.63,4,8,22,SAC,MIA,foul,2,False,False,Richardson S.FOUL (P3.T3) (P.Fraher),,90-102,90,102
-0021800089,2018-10-29,MIA,SAC,39.63,4,8,22,SAC,MIA,block,5,True,False,block,block,90-102,90,102
 0021800089,2018-10-29,MIA,SAC,39.63,4,8,22,SAC,SAC,ft_make,11,False,False,,Bjelica Free Throw 1 of 2 (18 PTS),90-103,90,103
 0021800089,2018-10-29,MIA,SAC,39.63,4,8,22,SAC,SAC,ft_miss,12,False,False,,MISS Bjelica Free Throw 2 of 2,90-103,90,103
 0021800089,2018-10-29,MIA,SAC,39.68,4,8,19,MIA,MIA,reb,0,False,False,Adebayo REBOUND (Off:1 Def:5),,90-103,90,103
@@ -465,8 +465,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021800089,2018-10-29,MIA,SAC,45.18,4,2,49,SAC,SAC,fg3_miss,1,False,False,,MISS Bjelica 29' 3PT Jump Shot,103-118,103,118
 0021800089,2018-10-29,MIA,SAC,45.22,4,2,47,MIA,MIA,reb,0,False,False,McGruder REBOUND (Off:0 Def:2),,103-118,103,118
 0021800089,2018-10-29,MIA,SAC,45.32,4,2,41,MIA,MIA,fg3_miss,1,True,False,MISS Richardson 3PT Jump Shot,,103-118,103,118
-0021800089,2018-10-29,MIA,SAC,45.32,4,2,41,MIA,MIA,reb,0,False,False,HEAT Rebound,,103-118,103,118
 0021800089,2018-10-29,MIA,SAC,45.32,4,2,41,MIA,SAC,block,1,True,False,block,block,103-118,103,118
+0021800089,2018-10-29,MIA,SAC,45.32,4,2,41,MIA,MIA,reb,0,False,False,HEAT Rebound,,103-118,103,118
 0021800089,2018-10-29,MIA,SAC,45.4,4,2,36,MIA,MIA,fg_make,3,False,False,Whiteside 6' Hook Shot (13 PTS) (Dragic 5 AST),,105-118,105,118
 0021800089,2018-10-29,MIA,SAC,45.58,4,2,25,SAC,MIA,foul,2,False,False,Whiteside S.FOUL (P3.PN) (P.Fraher),,105-118,105,118
 0021800089,2018-10-29,MIA,SAC,45.58,4,2,25,SAC,SAC,ft_miss,11,False,False,,MISS Cauley-Stein Free Throw 1 of 2,105-118,105,118

@@ -145,11 +145,11 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001054,2021-05-14,DET,DEN,18.3,2,5,42,DET,DET,fg_make,67,False,False,Sirvydis 2' Hook Bank Shot (16 PTS) (Cook 1 AST),,40-38,40,38
 0022001054,2021-05-14,DET,DEN,18.47,2,5,32,DEN,DEN,fg_make,6,False,False,,Rivers 2' Driving Layup (2 PTS) (Porter Jr. 3 AST),40-40,40,40
 0022001054,2021-05-14,DET,DEN,18.82,2,5,11,DET,DET,fg_miss,6,False,False,MISS Diallo 2' Driving Layup,,40-40,40,40
-0022001054,2021-05-14,DET,DEN,18.82,2,5,11,DET,DET,reb,0,False,False,PISTONS Rebound,,40-40,40,40
 0022001054,2021-05-14,DET,DEN,18.82,2,5,11,DET,DEN,foul,2,False,False,,McGee S.FOUL (P3.T3) (M.Davis),40-40,40,40
 0022001054,2021-05-14,DET,DEN,18.82,2,5,11,DET,DET,ft_make,11,False,False,Diallo Free Throw 1 of 2 (13 PTS),,41-40,41,40
-0022001054,2021-05-14,DET,DEN,18.82,2,5,11,DET,DET,ft_make,12,False,False,Diallo Free Throw 2 of 2 (14 PTS),,42-40,42,40
 0022001054,2021-05-14,DET,DEN,18.82,2,5,11,DET,DEN,violation,1,False,False,,Nuggets Violation: Delay of game Violation,42-40,42,40
+0022001054,2021-05-14,DET,DEN,18.82,2,5,11,DET,DET,reb,0,False,False,PISTONS Rebound,,40-40,40,40
+0022001054,2021-05-14,DET,DEN,18.82,2,5,11,DET,DET,ft_make,12,False,False,Diallo Free Throw 2 of 2 (14 PTS),,42-40,42,40
 0022001054,2021-05-14,DET,DEN,19.03,2,4,58,DEN,DEN,fg_make,79,False,False,,Howard 13' Pullup Jump Shot (9 PTS) (Jokic 6 AST),42-42,42,42
 0022001054,2021-05-14,DET,DEN,19.22,2,4,47,DET,DET,fg3_miss,1,False,False,MISS Diallo 26' 3PT Jump Shot,,42-42,42,42
 0022001054,2021-05-14,DET,DEN,19.25,2,4,45,DEN,DEN,reb,0,False,False,,Porter Jr. REBOUND (Off:0 Def:3),42-42,42,42
@@ -191,8 +191,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001054,2021-05-14,DET,DEN,23.18,2,0,49,DEN,DET,steal,1,False,True,steal,steal,50-55,50,55
 0022001054,2021-05-14,DET,DEN,23.18,2,0,49,DET,DET,fg_make,5,False,False,Bey 2' Layup (6 PTS),,52-55,52,55
 0022001054,2021-05-14,DET,DEN,23.38,2,0,37,DEN,DEN,fg_miss,6,True,False,,MISS Rivers 2' Driving Layup,52-55,52,55
-0022001054,2021-05-14,DET,DEN,23.38,2,0,37,DEN,DEN,reb,0,False,False,,Nuggets Rebound,52-55,52,55
 0022001054,2021-05-14,DET,DEN,23.38,2,0,37,DEN,DET,block,6,True,False,block,block,52-55,52,55
+0022001054,2021-05-14,DET,DEN,23.38,2,0,37,DEN,DEN,reb,0,False,False,,Nuggets Rebound,52-55,52,55
 0022001054,2021-05-14,DET,DEN,23.57,2,0,26,DEN,DEN,fg_make,5,False,False,,Jokic 3' Layup (13 PTS),52-57,52,57
 0022001054,2021-05-14,DET,DEN,23.92,2,0,5,DET,DEN,foul,2,False,False,,Jokic S.FOUL (P1.PN) (M.Davis),52-57,52,57
 0022001054,2021-05-14,DET,DEN,23.92,2,0,5,DET,DET,ft_make,11,False,False,Bey Free Throw 1 of 2 (7 PTS),,53-57,53,57
@@ -268,8 +268,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001054,2021-05-14,DET,DEN,32.3,3,3,42,DET,DET,fg_make,6,False,False,Diallo 2' Driving Layup (18 PTS) (Hayes 4 AST),,66-74,66,74
 0022001054,2021-05-14,DET,DEN,32.62,3,3,23,DEN,DEN,fg_make,98,False,False,,Howard 1' Cutting Layup Shot (20 PTS) (Jokic 11 AST),66-76,66,76
 0022001054,2021-05-14,DET,DEN,32.83,3,3,10,DET,DET,tov,2,False,True,Hayes Lost Ball Turnover (P2.T6),,66-76,66,76
-0022001054,2021-05-14,DET,DEN,32.83,3,3,10,DEN,DET,foul,28,False,False,Diallo Personal Take Foul (P2.T3) (J.Goble),,66-76,66,76
 0022001054,2021-05-14,DET,DEN,32.83,3,3,10,DET,DEN,steal,2,False,True,steal,steal,66-76,66,76
+0022001054,2021-05-14,DET,DEN,32.83,3,3,10,DEN,DET,foul,28,False,False,Diallo Personal Take Foul (P2.T3) (J.Goble),,66-76,66,76
 0022001054,2021-05-14,DET,DEN,33.0,3,3,0,DEN,DEN,fg_make,108,False,False,,Cancar 1' Cutting Dunk Shot (9 PTS) (Green 3 AST),66-78,66,78
 0022001054,2021-05-14,DET,DEN,33.28,3,2,43,DET,DEN,foul,1,False,False,,Green P.FOUL (P1.T3) (M.Ayotte),66-78,66,78
 0022001054,2021-05-14,DET,DEN,33.28,3,2,43,DEN,DEN,timeout,1,False,False,,Nuggets Timeout: Regular (Reg.3 Short 0),66-78,66,78
@@ -294,10 +294,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022001054,2021-05-14,DET,DEN,35.77,3,0,14,DET,DET,fg_make,71,False,False,Jackson 2' Finger Roll Layup (7 PTS) (Hayes 5 AST),,74-87,74,87
 0022001054,2021-05-14,DET,DEN,35.95,3,0,3,DEN,DET,foul,1,False,False,Jackson P.FOUL (P2.T4) (M.Ayotte),,74-87,74,87
 0022001054,2021-05-14,DET,DEN,36.0,3,0,0,DEN,DEN,fg3_miss,80,True,False,,MISS Howard 28' 3PT Step Back Jump Shot,74-87,74,87
+0022001054,2021-05-14,DET,DEN,36.0,3,0,0,DEN,DET,block,80,True,False,block,block,74-87,74,87
 0022001054,2021-05-14,DET,DEN,36.0,3,0,0,DEN,DEN,reb,0,False,False,,Nuggets Rebound,74-87,74,87
 0022001054,2021-05-14,DET,DEN,36.0,3,0,0,DEN,,period_end,0,False,False,,,74-87,74,87
 0022001054,2021-05-14,DET,DEN,36.0,4,12,0,DEN,,period_start,0,False,False,,,74-87,74,87
-0022001054,2021-05-14,DET,DEN,36.0,3,0,0,DEN,DET,block,80,True,False,block,block,74-87,74,87
 0022001054,2021-05-14,DET,DEN,36.23,4,11,46,DEN,DEN,fg_miss,78,False,False,,MISS Morris 7' Floating Jump Shot,74-87,74,87
 0022001054,2021-05-14,DET,DEN,36.27,4,11,44,DET,DET,reb,0,False,False,Lee REBOUND (Off:0 Def:2),,74-87,74,87
 0022001054,2021-05-14,DET,DEN,36.55,4,11,27,DET,DEN,violation,5,False,False,,Green Violation:Kicked Ball (J.Goble),74-87,74,87

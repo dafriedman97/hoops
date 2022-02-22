@@ -16,8 +16,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000812,2021-04-11,MIN,CHI,1.37,1,10,38,MIN,MIN,fg_miss,79,False,False,MISS Rubio 21' Pullup Jump Shot,,0-0,0,0
 0022000812,2021-04-11,MIN,CHI,1.42,1,10,35,CHI,CHI,reb,0,False,False,,LaVine REBOUND (Off:0 Def:1),0-0,0,0
 0022000812,2021-04-11,MIN,CHI,1.52,1,10,29,CHI,CHI,fg_miss,73,True,False,,MISS LaVine 2' Driving Reverse Layup,0-0,0,0
-0022000812,2021-04-11,MIN,CHI,1.52,1,10,29,CHI,CHI,reb,0,False,False,,Bulls Rebound,0-0,0,0
 0022000812,2021-04-11,MIN,CHI,1.52,1,10,29,CHI,MIN,block,73,True,False,block,block,0-0,0,0
+0022000812,2021-04-11,MIN,CHI,1.52,1,10,29,CHI,CHI,reb,0,False,False,,Bulls Rebound,0-0,0,0
 0022000812,2021-04-11,MIN,CHI,1.7,1,10,18,CHI,CHI,fg_miss,6,True,False,,MISS Young 2' Driving Layup,0-0,0,0
 0022000812,2021-04-11,MIN,CHI,1.7,1,10,18,CHI,MIN,block,6,True,False,block,block,0-0,0,0
 0022000812,2021-04-11,MIN,CHI,1.75,1,10,15,CHI,CHI,reb,0,False,False,,Young REBOUND (Off:1 Def:1),0-0,0,0
@@ -41,8 +41,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000812,2021-04-11,MIN,CHI,4.37,1,7,38,CHI,CHI,tov,1,False,True,,Young Bad Pass Turnover (P2.T2),6-7,6,7
 0022000812,2021-04-11,MIN,CHI,4.37,1,7,38,CHI,MIN,steal,1,False,True,steal,steal,6-7,6,7
 0022000812,2021-04-11,MIN,CHI,4.45,1,7,33,MIN,MIN,fg_miss,6,False,False,MISS Edwards 2' Driving Layup,,6-7,6,7
-0022000812,2021-04-11,MIN,CHI,4.53,1,7,28,MIN,MIN,fg_make,97,False,False,Towns Tip Layup Shot (2 PTS),,8-7,8,7
 0022000812,2021-04-11,MIN,CHI,4.53,1,7,28,MIN,MIN,reb,0,False,False,Towns REBOUND (Off:2 Def:1),,8-7,8,7
+0022000812,2021-04-11,MIN,CHI,4.53,1,7,28,MIN,MIN,fg_make,97,False,False,Towns Tip Layup Shot (2 PTS),,8-7,8,7
 0022000812,2021-04-11,MIN,CHI,4.78,1,7,13,CHI,CHI,tov,1,False,True,,Young Bad Pass Turnover (P3.T3),8-7,8,7
 0022000812,2021-04-11,MIN,CHI,4.78,1,7,13,CHI,MIN,steal,1,False,True,steal,steal,8-7,8,7
 0022000812,2021-04-11,MIN,CHI,4.92,1,7,5,MIN,MIN,fg_make,6,False,False,Okogie 1' Driving Layup (2 PTS),,10-7,10,7
@@ -57,8 +57,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000812,2021-04-11,MIN,CHI,5.87,1,6,8,CHI,CHI,fg_make,79,False,False,,Satoransky 13' Pullup Jump Shot (4 PTS),13-9,13,9
 0022000812,2021-04-11,MIN,CHI,6.17,1,5,50,MIN,MIN,fg_make,9,False,False,Towns 2' Driving Dunk (7 PTS) (Rubio 3 AST),,15-9,15,9
 0022000812,2021-04-11,MIN,CHI,6.53,1,5,28,CHI,CHI,tov,1,False,True,,Vucevic Bad Pass Turnover (P1.T4),15-9,15,9
-0022000812,2021-04-11,MIN,CHI,6.53,1,5,28,MIN,CHI,foul,1,False,False,,Satoransky P.FOUL (P1.T1) (J.Williams),15-9,15,9
 0022000812,2021-04-11,MIN,CHI,6.53,1,5,28,CHI,MIN,steal,1,False,True,steal,steal,15-9,15,9
+0022000812,2021-04-11,MIN,CHI,6.53,1,5,28,MIN,CHI,foul,1,False,False,,Satoransky P.FOUL (P1.T1) (J.Williams),15-9,15,9
 0022000812,2021-04-11,MIN,CHI,6.63,1,5,22,MIN,MIN,fg3_make,1,False,False,Reid 25' 3PT Jump Shot (3 PTS) (Russell 1 AST),,18-9,18,9
 0022000812,2021-04-11,MIN,CHI,6.88,1,5,7,CHI,CHI,fg_make,98,False,False,,Satoransky 2' Cutting Layup Shot (6 PTS) (Vucevic 1 AST),18-11,18,11
 0022000812,2021-04-11,MIN,CHI,6.88,1,5,7,CHI,MIN,foul,2,False,False,Reid S.FOUL (P1.T1) (J.Williams),,18-11,18,11
@@ -164,8 +164,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000812,2021-04-11,MIN,CHI,20.02,2,3,59,CHI,MIN,foul,2,False,False,Hernangomez S.FOUL (P1.T2) (J.Williams),,56-49,56,49
 0022000812,2021-04-11,MIN,CHI,20.02,2,3,59,CHI,CHI,ft_make,10,False,False,,Young Free Throw 1 of 1 (5 PTS),56-50,56,50
 0022000812,2021-04-11,MIN,CHI,20.18,2,3,49,MIN,MIN,fg_miss,98,True,False,MISS Edwards 3' Cutting Layup Shot,,56-50,56,50
-0022000812,2021-04-11,MIN,CHI,20.18,2,3,49,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,56-50,56,50
 0022000812,2021-04-11,MIN,CHI,20.18,2,3,49,MIN,CHI,block,98,True,False,block,block,56-50,56,50
+0022000812,2021-04-11,MIN,CHI,20.18,2,3,49,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,56-50,56,50
 0022000812,2021-04-11,MIN,CHI,20.25,2,3,45,MIN,MIN,fg3_make,1,False,False,Russell 3PT Jump Shot (11 PTS) (Towns 3 AST),,59-50,59,50
 0022000812,2021-04-11,MIN,CHI,20.52,2,3,29,CHI,CHI,fg_miss,101,False,False,,MISS Williams 10' Driving Floating Jump Shot,59-50,59,50
 0022000812,2021-04-11,MIN,CHI,20.55,2,3,27,MIN,MIN,reb,0,False,False,Reid REBOUND (Off:0 Def:1),,59-50,59,50
@@ -205,8 +205,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000812,2021-04-11,MIN,CHI,24.15,3,11,51,CHI,CHI,tov,1,False,True,,Satoransky Bad Pass Turnover (P1.T9),66-55,66,55
 0022000812,2021-04-11,MIN,CHI,24.15,3,11,51,CHI,MIN,steal,1,False,True,steal,steal,66-55,66,55
 0022000812,2021-04-11,MIN,CHI,24.18,3,11,49,MIN,MIN,fg_miss,41,True,False,MISS Okogie 1' Running Layup,,66-55,66,55
-0022000812,2021-04-11,MIN,CHI,24.18,3,11,49,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,66-55,66,55
 0022000812,2021-04-11,MIN,CHI,24.18,3,11,49,MIN,CHI,block,41,True,False,block,block,66-55,66,55
+0022000812,2021-04-11,MIN,CHI,24.18,3,11,49,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,66-55,66,55
 0022000812,2021-04-11,MIN,CHI,24.28,3,11,43,MIN,CHI,foul,1,False,False,,Williams P.FOUL (P1.T1) (J.Goble),66-55,66,55
 0022000812,2021-04-11,MIN,CHI,24.37,3,11,38,MIN,MIN,fg3_miss,1,False,False,MISS Edwards 26' 3PT Jump Shot,,66-55,66,55
 0022000812,2021-04-11,MIN,CHI,24.4,3,11,36,CHI,CHI,reb,0,False,False,,LaVine REBOUND (Off:0 Def:3),66-55,66,55
@@ -235,8 +235,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000812,2021-04-11,MIN,CHI,26.73,3,9,16,MIN,MIN,fg_make,102,False,False,Towns 3' Driving Floating Bank Jump Shot (13 PTS) (Rubio 5 AST),,70-63,70,63
 0022000812,2021-04-11,MIN,CHI,26.95,3,9,3,CHI,CHI,fg3_make,1,False,False,,Vucevic 26' 3PT Jump Shot (14 PTS) (LaVine 4 AST),70-66,70,66
 0022000812,2021-04-11,MIN,CHI,27.23,3,8,46,MIN,MIN,fg_miss,1,True,False,MISS Towns 9' Jump Shot,,70-66,70,66
-0022000812,2021-04-11,MIN,CHI,27.23,3,8,46,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,70-66,70,66
 0022000812,2021-04-11,MIN,CHI,27.23,3,8,46,MIN,CHI,block,1,True,False,block,block,70-66,70,66
+0022000812,2021-04-11,MIN,CHI,27.23,3,8,46,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,70-66,70,66
 0022000812,2021-04-11,MIN,CHI,27.4,3,8,36,MIN,MIN,fg_miss,75,False,False,MISS McDaniels 3' Driving Finger Roll Layup,,70-66,70,66
 0022000812,2021-04-11,MIN,CHI,27.45,3,8,33,CHI,CHI,reb,0,False,False,,Young REBOUND (Off:1 Def:5),70-66,70,66
 0022000812,2021-04-11,MIN,CHI,27.68,3,8,19,CHI,CHI,fg3_miss,1,False,False,,MISS Williams 24' 3PT Jump Shot,70-66,70,66
@@ -247,9 +247,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000812,2021-04-11,MIN,CHI,28.73,3,7,16,CHI,CHI,fg_miss,79,False,False,,MISS Vucevic 20' Pullup Jump Shot,76-68,76,68
 0022000812,2021-04-11,MIN,CHI,28.78,3,7,13,MIN,MIN,reb,0,False,False,McDaniels REBOUND (Off:0 Def:5),,76-68,76,68
 0022000812,2021-04-11,MIN,CHI,28.93,3,7,4,MIN,MIN,fg_miss,5,True,False,MISS Towns 2' Layup,,76-68,76,68
+0022000812,2021-04-11,MIN,CHI,28.93,3,7,4,MIN,CHI,block,5,True,False,block,block,76-68,76,68
 0022000812,2021-04-11,MIN,CHI,28.93,3,7,4,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,76-68,76,68
 0022000812,2021-04-11,MIN,CHI,28.93,3,7,4,MIN,MIN,timeout,1,False,False,TIMBERWOLVES Timeout: Regular (Full 3 Short 0),,76-68,76,68
-0022000812,2021-04-11,MIN,CHI,28.93,3,7,4,MIN,CHI,block,5,True,False,block,block,76-68,76,68
 0022000812,2021-04-11,MIN,CHI,28.98,3,7,1,MIN,MIN,fg3_make,1,False,False,Rubio 24' 3PT Jump Shot (15 PTS) (McDaniels 1 AST),,79-68,79,68
 0022000812,2021-04-11,MIN,CHI,29.22,3,6,47,CHI,CHI,fg3_make,1,False,False,,LaVine 27' 3PT Jump Shot (14 PTS) (Satoransky 5 AST),79-71,79,71
 0022000812,2021-04-11,MIN,CHI,29.48,3,6,31,MIN,CHI,foul,1,False,False,,LaVine P.FOUL (P2.T3) (J.Goble),79-71,79,71
@@ -268,8 +268,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000812,2021-04-11,MIN,CHI,31.68,3,4,19,CHI,CHI,reb,0,False,False,,Brown Jr. REBOUND (Off:1 Def:2),83-74,83,74
 0022000812,2021-04-11,MIN,CHI,31.72,3,4,17,CHI,CHI,fg_miss,6,True,False,,MISS White 3' Driving Layup,83-74,83,74
 0022000812,2021-04-11,MIN,CHI,31.72,3,4,17,CHI,MIN,block,6,True,False,block,block,83-74,83,74
-0022000812,2021-04-11,MIN,CHI,31.77,3,4,14,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,83-74,83,74
 0022000812,2021-04-11,MIN,CHI,31.77,3,4,14,,MIN,jump_ball,0,False,False,Jump Ball Okogie vs. White: Tip to Reid,,83-74,83,74
+0022000812,2021-04-11,MIN,CHI,31.77,3,4,14,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,83-74,83,74
 0022000812,2021-04-11,MIN,CHI,32.08,3,3,55,MIN,MIN,fg_make,6,False,False,Edwards 2' Driving Layup (15 PTS),,85-74,85,74
 0022000812,2021-04-11,MIN,CHI,32.08,3,3,55,MIN,CHI,violation,2,False,False,,Vucevic Violation:Defensive Goaltending (J.Schroeder),85-74,85,74
 0022000812,2021-04-11,MIN,CHI,32.08,3,3,55,CHI,CHI,timeout,1,False,False,,Bulls Timeout: Regular (Reg.3 Short 0),85-74,85,74
@@ -360,8 +360,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000812,2021-04-11,MIN,CHI,42.0,4,6,0,CHI,CHI,reb,0,False,False,,Young REBOUND (Off:1 Def:6),103-99,103,99
 0022000812,2021-04-11,MIN,CHI,42.27,4,5,44,CHI,CHI,fg3_make,1,False,False,,LaVine 26' 3PT Jump Shot (26 PTS) (Young 3 AST),103-102,103,102
 0022000812,2021-04-11,MIN,CHI,42.57,4,5,26,MIN,MIN,fg_miss,6,True,False,MISS Towns 3' Driving Layup,,103-102,103,102
-0022000812,2021-04-11,MIN,CHI,42.57,4,5,26,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,103-102,103,102
 0022000812,2021-04-11,MIN,CHI,42.57,4,5,26,MIN,CHI,block,6,True,False,block,block,103-102,103,102
+0022000812,2021-04-11,MIN,CHI,42.57,4,5,26,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,103-102,103,102
 0022000812,2021-04-11,MIN,CHI,42.62,4,5,23,,MIN,jump_ball,0,False,False,Jump Ball Towns vs. Vucevic: Tip to Okogie,,103-102,103,102
 0022000812,2021-04-11,MIN,CHI,42.68,4,5,19,MIN,CHI,foul,1,False,False,,Williams P.FOUL (P2.PN) (J.Schroeder),103-102,103,102
 0022000812,2021-04-11,MIN,CHI,42.68,4,5,19,MIN,MIN,ft_make,11,False,False,Okogie Free Throw 1 of 2 (5 PTS),,104-102,104,102
@@ -372,8 +372,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000812,2021-04-11,MIN,CHI,43.08,4,4,55,CHI,CHI,reb,0,False,False,,Bulls Rebound,105-102,105,102
 0022000812,2021-04-11,MIN,CHI,43.08,4,4,55,CHI,MIN,foul,3,False,False,Rubio L.B.FOUL (P2.T3) (J.Williams),,105-102,105,102
 0022000812,2021-04-11,MIN,CHI,43.18,4,4,49,CHI,CHI,fg3_miss,1,False,False,,MISS Vucevic 26' 3PT Jump Shot,105-102,105,102
-0022000812,2021-04-11,MIN,CHI,43.28,4,4,43,CHI,CHI,fg_make,97,False,False,,Brown Jr. Tip Layup Shot (12 PTS),105-104,105,104
 0022000812,2021-04-11,MIN,CHI,43.28,4,4,43,CHI,CHI,reb,0,False,False,,Brown Jr. REBOUND (Off:2 Def:5),105-104,105,104
+0022000812,2021-04-11,MIN,CHI,43.28,4,4,43,CHI,CHI,fg_make,97,False,False,,Brown Jr. Tip Layup Shot (12 PTS),105-104,105,104
 0022000812,2021-04-11,MIN,CHI,43.58,4,4,25,MIN,MIN,fg_make,75,False,False,Rubio 2' Driving Finger Roll Layup (17 PTS) (Russell 3 AST),,107-104,107,104
 0022000812,2021-04-11,MIN,CHI,43.73,4,4,16,CHI,CHI,tov,40,False,False,,LaVine Out of Bounds Lost Ball Turnover (P1.T13),107-104,107,104
 0022000812,2021-04-11,MIN,CHI,44.03,4,3,58,MIN,MIN,fg_make,6,False,False,Towns 2' Driving Layup (22 PTS) (Rubio 8 AST),,109-104,109,104
@@ -393,8 +393,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000812,2021-04-11,MIN,CHI,45.75,4,2,15,CHI,CHI,fg_miss,1,False,False,,MISS Vucevic 17' Jump Shot,116-109,116,109
 0022000812,2021-04-11,MIN,CHI,45.78,4,2,13,MIN,MIN,reb,0,False,False,Towns REBOUND (Off:2 Def:9),,116-109,116,109
 0022000812,2021-04-11,MIN,CHI,46.15,4,1,51,MIN,MIN,fg_miss,5,True,False,MISS Okogie 2' Layup,,116-109,116,109
-0022000812,2021-04-11,MIN,CHI,46.15,4,1,51,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,116-109,116,109
 0022000812,2021-04-11,MIN,CHI,46.15,4,1,51,MIN,CHI,block,5,True,False,block,block,116-109,116,109
+0022000812,2021-04-11,MIN,CHI,46.15,4,1,51,MIN,MIN,reb,0,False,False,TIMBERWOLVES Rebound,,116-109,116,109
 0022000812,2021-04-11,MIN,CHI,46.17,4,1,50,MIN,MIN,tov,1,False,True,Okogie Bad Pass Turnover (P3.T13),,116-109,116,109
 0022000812,2021-04-11,MIN,CHI,46.17,4,1,50,MIN,CHI,steal,1,False,True,steal,steal,116-109,116,109
 0022000812,2021-04-11,MIN,CHI,46.25,4,1,45,CHI,CHI,fg_make,108,False,False,,Vucevic 2' Cutting Dunk Shot (18 PTS) (LaVine 6 AST),116-111,116,111

@@ -148,8 +148,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000594,2021-03-14,GSW,UTA,17.13,2,6,52,UTA,GSW,steal,1,False,True,steal,steal,42-39,42,39
 0022000594,2021-03-14,GSW,UTA,17.35,2,6,39,GSW,GSW,fg3_make,1,False,False,Poole 28' 3PT Jump Shot (8 PTS) (Paschall 1 AST),,45-39,45,39
 0022000594,2021-03-14,GSW,UTA,17.72,2,6,17,UTA,UTA,tov,2,False,True,,Clarkson Lost Ball Turnover (P1.T6),45-39,45,39
-0022000594,2021-03-14,GSW,UTA,17.72,2,6,17,GSW,UTA,foul,1,False,False,,Bogdanovic P.FOUL (P1.T1) (Z.Zarba),45-39,45,39
 0022000594,2021-03-14,GSW,UTA,17.72,2,6,17,UTA,GSW,steal,2,False,True,steal,steal,45-39,45,39
+0022000594,2021-03-14,GSW,UTA,17.72,2,6,17,GSW,UTA,foul,1,False,False,,Bogdanovic P.FOUL (P1.T1) (Z.Zarba),45-39,45,39
 0022000594,2021-03-14,GSW,UTA,17.9,2,6,6,GSW,GSW,fg_make,79,False,False,Paschall 11' Pullup Jump Shot (2 PTS) (Poole 1 AST),,47-39,47,39
 0022000594,2021-03-14,GSW,UTA,18.25,2,5,45,UTA,UTA,fg3_make,1,False,False,,Bogdanovic 3PT Jump Shot (3 PTS) (O'Neale 2 AST),47-42,47,42
 0022000594,2021-03-14,GSW,UTA,18.47,2,5,32,GSW,GSW,fg_miss,79,False,False,MISS Paschall 19' Pullup Jump Shot,,47-42,47,42
@@ -190,9 +190,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000594,2021-03-14,GSW,UTA,22.22,2,1,47,UTA,UTA,fg3_make,79,False,False,,Conley 31' 3PT Pullup Jump Shot (18 PTS) (Mitchell 3 AST),57-52,57,52
 0022000594,2021-03-14,GSW,UTA,22.47,2,1,32,GSW,GSW,fg_make,79,False,False,Paschall 21' Pullup Jump Shot (4 PTS) (Green 5 AST),,59-52,59,52
 0022000594,2021-03-14,GSW,UTA,22.62,2,1,23,UTA,GSW,foul,2,False,False,Wiggins S.FOUL (P1.PN) (E.Dalen),,59-52,59,52
-0022000594,2021-03-14,GSW,UTA,22.62,2,1,23,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 3 Short 0),,59-52,59,52
 0022000594,2021-03-14,GSW,UTA,22.62,2,1,23,UTA,UTA,ft_miss,11,False,False,,MISS Mitchell Free Throw 1 of 2,59-52,59,52
 0022000594,2021-03-14,GSW,UTA,22.62,2,1,23,UTA,UTA,reb,1,False,False,,Jazz Rebound,59-52,59,52
+0022000594,2021-03-14,GSW,UTA,22.62,2,1,23,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 3 Short 0),,59-52,59,52
 0022000594,2021-03-14,GSW,UTA,22.62,2,1,23,UTA,UTA,ft_make,12,False,False,,Mitchell Free Throw 2 of 2 (6 PTS),59-53,59,53
 0022000594,2021-03-14,GSW,UTA,22.8,2,1,12,GSW,GSW,fg3_make,1,False,False,Green 3PT Jump Shot (9 PTS) (Wiggins 1 AST),,62-53,62,53
 0022000594,2021-03-14,GSW,UTA,23.0,2,1,0,UTA,UTA,tov,2,False,True,,Mitchell Lost Ball Turnover (P3.T9),62-53,62,53
@@ -250,9 +250,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000594,2021-03-14,GSW,UTA,27.63,3,8,22,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:4 Def:15),77-67,77,67
 0022000594,2021-03-14,GSW,UTA,27.9,3,8,6,UTA,UTA,fg_make,108,False,False,,Gobert 1' Cutting Dunk Shot (13 PTS) (Conley 4 AST),77-69,77,69
 0022000594,2021-03-14,GSW,UTA,28.22,3,7,47,GSW,GSW,fg_miss,1,True,False,MISS Curry 12' Jump Shot,,77-69,77,69
+0022000594,2021-03-14,GSW,UTA,28.22,3,7,47,GSW,UTA,block,1,True,False,block,block,77-69,77,69
 0022000594,2021-03-14,GSW,UTA,28.22,3,7,47,GSW,GSW,reb,0,False,False,Curry REBOUND (Off:1 Def:3),,77-69,77,69
 0022000594,2021-03-14,GSW,UTA,28.22,3,7,47,GSW,UTA,foul,2,False,False,,Gobert S.FOUL (P2.T2) (D.Collins),77-69,77,69
-0022000594,2021-03-14,GSW,UTA,28.22,3,7,47,GSW,UTA,block,1,True,False,block,block,77-69,77,69
 0022000594,2021-03-14,GSW,UTA,28.22,3,7,47,GSW,GSW,ft_make,11,False,False,Looney Free Throw 1 of 2 (1 PTS),,78-69,78,69
 0022000594,2021-03-14,GSW,UTA,28.22,3,7,47,GSW,GSW,ft_make,12,False,False,Looney Free Throw 2 of 2 (2 PTS),,79-69,79,69
 0022000594,2021-03-14,GSW,UTA,28.37,3,7,38,UTA,UTA,fg3_make,79,False,False,,Mitchell 26' 3PT Pullup Jump Shot (16 PTS),79-72,79,72
@@ -263,8 +263,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000594,2021-03-14,GSW,UTA,28.72,3,7,17,UTA,UTA,fg_make,52,False,False,,Gobert 1' Alley Oop Dunk (15 PTS) (Conley 5 AST),80-74,80,74
 0022000594,2021-03-14,GSW,UTA,29.0,3,7,0,GSW,GSW,tov,45,False,False,Curry Out of Bounds - Bad Pass Turnover Turnover (P3.T9),,80-74,80,74
 0022000594,2021-03-14,GSW,UTA,29.4,3,6,36,GSW,GSW,timeout,1,False,False,WARRIORS Timeout: Regular (Full 5 Short 0),,80-74,80,74
-0022000594,2021-03-14,GSW,UTA,29.43,3,6,34,UTA,UTA,tov,2,False,True,,Bogdanovic Lost Ball Turnover (P3.T10),80-74,80,74
 0022000594,2021-03-14,GSW,UTA,29.43,3,6,34,,GSW,jump_ball,1,False,False,Jump Ball (CC) Wiseman vs. Favors: Tip to Green,,80-74,80,74
+0022000594,2021-03-14,GSW,UTA,29.43,3,6,34,UTA,UTA,tov,2,False,True,,Bogdanovic Lost Ball Turnover (P3.T10),80-74,80,74
 0022000594,2021-03-14,GSW,UTA,29.43,3,6,34,UTA,GSW,steal,2,False,True,steal,steal,80-74,80,74
 0022000594,2021-03-14,GSW,UTA,29.65,3,6,21,GSW,GSW,fg_make,6,False,False,Wiggins 4' Driving Layup (19 PTS) (Curry 7 AST),,82-74,82,74
 0022000594,2021-03-14,GSW,UTA,29.87,3,6,8,UTA,UTA,fg3_miss,1,False,False,,MISS O'Neale 27' 3PT Jump Shot,82-74,82,74
@@ -284,8 +284,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000594,2021-03-14,GSW,UTA,31.22,3,4,47,UTA,UTA,ft_make,12,False,False,,Bogdanovic Free Throw 2 of 2 (9 PTS),84-78,84,78
 0022000594,2021-03-14,GSW,UTA,31.4,3,4,36,GSW,GSW,fg3_make,79,False,False,Curry 28' 3PT Pullup Jump Shot (20 PTS) (Green 8 AST),,87-78,87,78
 0022000594,2021-03-14,GSW,UTA,31.57,3,4,26,UTA,UTA,fg_miss,5,True,False,,MISS Bogdanovic 6' Layup,87-78,87,78
-0022000594,2021-03-14,GSW,UTA,31.57,3,4,26,UTA,UTA,reb,0,False,False,,Jazz Rebound,87-78,87,78
 0022000594,2021-03-14,GSW,UTA,31.57,3,4,26,UTA,GSW,block,5,True,False,block,block,87-78,87,78
+0022000594,2021-03-14,GSW,UTA,31.57,3,4,26,UTA,UTA,reb,0,False,False,,Jazz Rebound,87-78,87,78
 0022000594,2021-03-14,GSW,UTA,31.72,3,4,17,UTA,UTA,fg3_miss,79,False,False,,MISS O'Neale 26' 3PT Pullup Jump Shot,87-78,87,78
 0022000594,2021-03-14,GSW,UTA,31.73,3,4,16,UTA,UTA,reb,0,False,False,,Favors REBOUND (Off:4 Def:1),87-78,87,78
 0022000594,2021-03-14,GSW,UTA,31.75,3,4,15,UTA,UTA,fg_miss,5,False,False,,MISS Favors 2' Layup,87-78,87,78
@@ -401,14 +401,14 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000594,2021-03-14,GSW,UTA,44.08,4,3,55,UTA,GSW,foul,1,False,False,Poole P.FOUL (P2.T3) (Z.Zarba),,118-109,118,109
 0022000594,2021-03-14,GSW,UTA,44.27,4,3,44,UTA,UTA,fg3_miss,79,False,False,,MISS Mitchell 26' 3PT Pullup Jump Shot,118-109,118,109
 0022000594,2021-03-14,GSW,UTA,44.3,4,3,42,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:6 Def:18),118-109,118,109
+0022000594,2021-03-14,GSW,UTA,44.32,4,3,41,UTA,UTA,fg_make,107,False,False,,Gobert Tip Dunk Shot (20 PTS),118-111,118,111
 0022000594,2021-03-14,GSW,UTA,44.32,4,3,41,UTA,UTA,fg_miss,97,False,False,,MISS Gobert 2' Tip Layup Shot,118-109,118,109
 0022000594,2021-03-14,GSW,UTA,44.32,4,3,41,UTA,UTA,reb,0,False,False,,Gobert REBOUND (Off:7 Def:18),118-109,118,109
-0022000594,2021-03-14,GSW,UTA,44.32,4,3,41,UTA,UTA,fg_make,107,False,False,,Gobert Tip Dunk Shot (20 PTS),118-111,118,111
 0022000594,2021-03-14,GSW,UTA,44.58,4,3,25,GSW,GSW,fg3_make,79,False,False,Curry 27' 3PT Pullup Jump Shot (25 PTS),,121-111,121,111
 0022000594,2021-03-14,GSW,UTA,44.8,4,3,12,UTA,GSW,foul,1,False,False,Oubre Jr. P.FOUL (P2.T4) (E.Dalen),,121-111,121,111
 0022000594,2021-03-14,GSW,UTA,44.98,4,3,1,UTA,UTA,tov,2,False,True,,Conley Lost Ball Turnover (P1.T13),121-111,121,111
-0022000594,2021-03-14,GSW,UTA,44.98,4,3,1,GSW,UTA,foul,1,False,False,,Conley P.FOUL (P2.T3) (E.Dalen),121-111,121,111
 0022000594,2021-03-14,GSW,UTA,44.98,4,3,1,UTA,GSW,steal,2,False,True,steal,steal,121-111,121,111
+0022000594,2021-03-14,GSW,UTA,44.98,4,3,1,GSW,UTA,foul,1,False,False,,Conley P.FOUL (P2.T3) (E.Dalen),121-111,121,111
 0022000594,2021-03-14,GSW,UTA,45.13,4,2,52,GSW,GSW,fg_miss,79,False,False,MISS Curry 23' Pullup Jump Shot,,121-111,121,111
 0022000594,2021-03-14,GSW,UTA,45.17,4,2,50,UTA,UTA,reb,0,False,False,,Ingles REBOUND (Off:1 Def:3),121-111,121,111
 0022000594,2021-03-14,GSW,UTA,45.3,4,2,42,UTA,UTA,fg_make,5,False,False,,Gobert 1' Layup (22 PTS) (Conley 6 AST),121-113,121,113

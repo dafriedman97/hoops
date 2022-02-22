@@ -142,8 +142,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900583,2020-01-11,POR,MIL,14.1,2,9,54,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:9),27-38,27,38
 0021900583,2020-01-11,POR,MIL,14.1,2,9,54,MIL,POR,foul,1,False,False,Simons P.FOUL (P1.T1) (N.Sago),,27-38,27,38
 0021900583,2020-01-11,POR,MIL,14.37,2,9,38,MIL,MIL,fg_miss,6,True,False,,MISS Antetokounmpo 1' Driving Layup,27-38,27,38
-0021900583,2020-01-11,POR,MIL,14.37,2,9,38,MIL,MIL,reb,0,False,False,,Connaughton REBOUND (Off:1 Def:0),27-38,27,38
 0021900583,2020-01-11,POR,MIL,14.37,2,9,38,MIL,POR,block,6,True,False,block,block,27-38,27,38
+0021900583,2020-01-11,POR,MIL,14.37,2,9,38,MIL,MIL,reb,0,False,False,,Connaughton REBOUND (Off:1 Def:0),27-38,27,38
 0021900583,2020-01-11,POR,MIL,14.38,2,9,37,MIL,MIL,fg_make,97,False,False,,Connaughton 1' Tip Layup Shot (2 PTS),27-40,27,40
 0021900583,2020-01-11,POR,MIL,14.38,2,9,37,POR,POR,timeout,1,False,False,TRAIL BLAZERS Timeout: Regular (Full 2 Short 0),,27-40,27,40
 0021900583,2020-01-11,POR,MIL,14.7,2,9,18,POR,POR,fg3_make,1,False,False,McCollum 3PT Jump Shot (5 PTS) (Tolliver 1 AST),,30-40,30,40
@@ -254,8 +254,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900583,2020-01-11,POR,MIL,25.82,3,10,11,MIL,MIL,tov,37,False,False,,Antetokounmpo Offensive Foul Turnover (P1.T3),55-66,55,66
 0021900583,2020-01-11,POR,MIL,26.02,3,9,59,POR,POR,fg_miss,6,True,False,MISS Lillard 2' Driving Layup,,55-66,55,66
 0021900583,2020-01-11,POR,MIL,26.02,3,9,59,POR,MIL,block,6,True,False,block,block,55-66,55,66
-0021900583,2020-01-11,POR,MIL,26.08,3,9,55,POR,POR,fg_make,97,False,False,Lillard 1' Tip Layup Shot (24 PTS),,57-66,57,66
 0021900583,2020-01-11,POR,MIL,26.08,3,9,55,POR,POR,reb,0,False,False,Lillard REBOUND (Off:1 Def:2),,57-66,57,66
+0021900583,2020-01-11,POR,MIL,26.08,3,9,55,POR,POR,fg_make,97,False,False,Lillard 1' Tip Layup Shot (24 PTS),,57-66,57,66
 0021900583,2020-01-11,POR,MIL,26.27,3,9,44,MIL,MIL,fg_miss,9,False,False,,MISS Antetokounmpo 2' Driving Dunk,57-66,57,66
 0021900583,2020-01-11,POR,MIL,26.3,3,9,42,POR,POR,reb,0,False,False,Bazemore REBOUND (Off:0 Def:1),,57-66,57,66
 0021900583,2020-01-11,POR,MIL,26.38,3,9,37,POR,POR,fg_make,79,False,False,McCollum 14' Pullup Jump Shot (13 PTS),,59-66,59,66
@@ -350,10 +350,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900583,2020-01-11,POR,MIL,35.98,3,0,1,MIL,MIL,fg_miss,79,False,False,,MISS Antetokounmpo 17' Pullup Jump Shot,80-95,80,95
 0021900583,2020-01-11,POR,MIL,35.98,3,0,1,MIL,MIL,reb,0,False,False,,Connaughton REBOUND (Off:3 Def:0),80-95,80,95
 0021900583,2020-01-11,POR,MIL,36.0,3,0,0,MIL,MIL,fg_make,97,False,False,,Connaughton 1' Tip Layup Shot (6 PTS),80-97,80,97
-0021900583,2020-01-11,POR,MIL,36.0,3,0,0,POR,POR,tov,1,False,True,Hoard Bad Pass Turnover (P2.T10),,80-97,80,97
 0021900583,2020-01-11,POR,MIL,36.0,3,0,0,POR,,period_end,0,False,False,,,80-97,80,97
-0021900583,2020-01-11,POR,MIL,36.0,4,12,0,POR,,period_start,0,False,False,,,80-97,80,97
+0021900583,2020-01-11,POR,MIL,36.0,3,0,0,POR,POR,tov,1,False,True,Hoard Bad Pass Turnover (P2.T10),,80-97,80,97
 0021900583,2020-01-11,POR,MIL,36.0,3,0,0,POR,MIL,steal,1,False,True,steal,steal,80-97,80,97
+0021900583,2020-01-11,POR,MIL,36.0,4,12,0,POR,,period_start,0,False,False,,,80-97,80,97
 0021900583,2020-01-11,POR,MIL,36.22,4,11,47,MIL,MIL,fg3_make,1,False,False,,Brown 3PT Jump Shot (3 PTS) (G. Hill 4 AST),80-100,80,100
 0021900583,2020-01-11,POR,MIL,36.72,4,11,17,POR,POR,fg_miss,102,False,False,MISS Simons 7' Driving Floating Bank Jump Shot,,80-100,80,100
 0021900583,2020-01-11,POR,MIL,36.75,4,11,15,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:1 Def:16),80-100,80,100
@@ -362,15 +362,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900583,2020-01-11,POR,MIL,37.13,4,10,52,POR,POR,fg3_miss,79,False,False,MISS McCollum 25' 3PT Pullup Jump Shot,,80-100,80,100
 0021900583,2020-01-11,POR,MIL,37.17,4,10,50,MIL,MIL,reb,0,False,False,,Brown REBOUND (Off:0 Def:1),80-100,80,100
 0021900583,2020-01-11,POR,MIL,37.43,4,10,34,MIL,MIL,fg_miss,6,True,False,,MISS G. Hill 2' Driving Layup,80-100,80,100
-0021900583,2020-01-11,POR,MIL,37.43,4,10,34,MIL,MIL,reb,0,False,False,,Bucks Rebound,80-100,80,100
 0021900583,2020-01-11,POR,MIL,37.43,4,10,34,MIL,POR,block,6,True,False,block,block,80-100,80,100
+0021900583,2020-01-11,POR,MIL,37.43,4,10,34,MIL,MIL,reb,0,False,False,,Bucks Rebound,80-100,80,100
 0021900583,2020-01-11,POR,MIL,37.48,4,10,31,MIL,MIL,tov,1,False,True,,Bledsoe Bad Pass Turnover (P2.T6),80-100,80,100
 0021900583,2020-01-11,POR,MIL,37.48,4,10,31,MIL,POR,steal,1,False,True,steal,steal,80-100,80,100
 0021900583,2020-01-11,POR,MIL,37.53,4,10,28,POR,POR,fg_make,108,False,False,Simons 1' Cutting Dunk Shot (6 PTS) (McCollum 4 AST),,82-100,82,100
 0021900583,2020-01-11,POR,MIL,37.83,4,10,10,MIL,MIL,fg3_make,79,False,False,,Antetokounmpo 25' 3PT Pullup Jump Shot (32 PTS),82-103,82,103
 0021900583,2020-01-11,POR,MIL,38.22,4,9,47,POR,POR,fg_miss,79,True,False,MISS Anthony 15' Pullup Jump Shot,,82-103,82,103
-0021900583,2020-01-11,POR,MIL,38.22,4,9,47,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,82-103,82,103
 0021900583,2020-01-11,POR,MIL,38.22,4,9,47,POR,MIL,block,79,True,False,block,block,82-103,82,103
+0021900583,2020-01-11,POR,MIL,38.22,4,9,47,POR,POR,reb,0,False,False,TRAIL BLAZERS Rebound,,82-103,82,103
 0021900583,2020-01-11,POR,MIL,38.28,4,9,43,POR,POR,fg_miss,6,True,False,MISS McCollum 1' Driving Layup,,82-103,82,103
 0021900583,2020-01-11,POR,MIL,38.28,4,9,43,POR,MIL,block,6,True,False,block,block,82-103,82,103
 0021900583,2020-01-11,POR,MIL,38.3,4,9,42,POR,POR,reb,0,False,False,Anthony REBOUND (Off:4 Def:7),,82-103,82,103
@@ -401,9 +401,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900583,2020-01-11,POR,MIL,40.95,4,7,3,POR,POR,fg3_miss,1,False,False,MISS Anthony 25' 3PT Jump Shot,,94-116,94,116
 0021900583,2020-01-11,POR,MIL,40.98,4,7,1,MIL,MIL,reb,0,False,False,,Brown REBOUND (Off:0 Def:2),94-116,94,116
 0021900583,2020-01-11,POR,MIL,41.23,4,6,46,MIL,MIL,tov,1,False,True,,Bledsoe Bad Pass Turnover (P4.T8),94-116,94,116
+0021900583,2020-01-11,POR,MIL,41.23,4,6,46,MIL,POR,steal,1,False,True,steal,steal,94-116,94,116
 0021900583,2020-01-11,POR,MIL,41.23,4,6,46,POR,MIL,foul,1,False,False,,Bledsoe P.FOUL (P2.T4) (P.Fraher),94-116,94,116
 0021900583,2020-01-11,POR,MIL,41.23,4,6,46,POR,POR,timeout,1,False,False,TRAIL BLAZERS Timeout: Regular (Full 5 Short 0),,94-116,94,116
-0021900583,2020-01-11,POR,MIL,41.23,4,6,46,MIL,POR,steal,1,False,True,steal,steal,94-116,94,116
 0021900583,2020-01-11,POR,MIL,41.53,4,6,28,POR,POR,fg_make,5,False,False,Hoard 2' Layup (6 PTS),,96-116,96,116
 0021900583,2020-01-11,POR,MIL,41.87,4,6,8,MIL,MIL,fg3_miss,1,False,False,,MISS Lopez 3PT Jump Shot,96-116,96,116
 0021900583,2020-01-11,POR,MIL,41.9,4,6,6,POR,POR,reb,0,False,False,Simons REBOUND (Off:0 Def:2),,96-116,96,116

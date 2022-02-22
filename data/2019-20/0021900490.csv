@@ -14,8 +14,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900490,2019-12-29,LAL,DAL,1.52,1,10,29,DAL,DAL,tov,2,False,True,,Doncic Lost Ball Turnover (P1.T1),4-2,4,2
 0021900490,2019-12-29,LAL,DAL,1.52,1,10,29,DAL,LAL,steal,2,False,True,steal,steal,4-2,4,2
 0021900490,2019-12-29,LAL,DAL,1.55,1,10,27,LAL,LAL,fg_miss,41,True,False,MISS Bradley 3' Running Layup,,4-2,4,2
-0021900490,2019-12-29,LAL,DAL,1.55,1,10,27,LAL,LAL,reb,0,False,False,LAKERS Rebound,,4-2,4,2
 0021900490,2019-12-29,LAL,DAL,1.55,1,10,27,LAL,DAL,block,41,True,False,block,block,4-2,4,2
+0021900490,2019-12-29,LAL,DAL,1.55,1,10,27,LAL,LAL,reb,0,False,False,LAKERS Rebound,,4-2,4,2
 0021900490,2019-12-29,LAL,DAL,1.72,1,10,17,LAL,LAL,fg_make,108,False,False,Davis 1' Cutting Dunk Shot (2 PTS) (James 2 AST),,6-2,6,2
 0021900490,2019-12-29,LAL,DAL,2.05,1,9,57,DAL,DAL,fg_miss,80,False,False,,MISS Powell 14' Step Back Jump Shot,6-2,6,2
 0021900490,2019-12-29,LAL,DAL,2.12,1,9,53,LAL,LAL,reb,0,False,False,McGee REBOUND (Off:0 Def:1),,6-2,6,2
@@ -225,8 +225,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900490,2019-12-29,LAL,DAL,22.35,2,1,39,LAL,LAL,fg3_miss,1,False,False,MISS Kuzma 28' 3PT Jump Shot,,53-43,53,43
 0021900490,2019-12-29,LAL,DAL,22.37,2,1,38,DAL,DAL,reb,0,False,False,,Finney-Smith REBOUND (Off:1 Def:3),53-43,53,43
 0021900490,2019-12-29,LAL,DAL,22.58,2,1,25,DAL,DAL,fg_miss,6,True,False,,MISS Brunson 4' Driving Layup,53-43,53,43
-0021900490,2019-12-29,LAL,DAL,22.58,2,1,25,DAL,DAL,reb,0,False,False,,Mavericks Rebound,53-43,53,43
 0021900490,2019-12-29,LAL,DAL,22.58,2,1,25,DAL,LAL,block,6,True,False,block,block,53-43,53,43
+0021900490,2019-12-29,LAL,DAL,22.58,2,1,25,DAL,DAL,reb,0,False,False,,Mavericks Rebound,53-43,53,43
 0021900490,2019-12-29,LAL,DAL,22.67,2,1,20,DAL,DAL,fg3_miss,1,False,False,,MISS Brunson 29' 3PT Jump Shot,53-43,53,43
 0021900490,2019-12-29,LAL,DAL,22.72,2,1,17,LAL,LAL,reb,0,False,False,Howard REBOUND (Off:0 Def:3),,53-43,53,43
 0021900490,2019-12-29,LAL,DAL,22.73,2,1,16,LAL,DAL,foul,1,False,False,,Broekhoff P.FOUL (P1.PN) (J.Van Duyne),53-43,53,43
@@ -283,8 +283,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900490,2019-12-29,LAL,DAL,28.15,3,7,51,LAL,LAL,fg_make,50,False,False,Davis 1' Running Dunk (17 PTS) (James 11 AST),,65-51,65,51
 0021900490,2019-12-29,LAL,DAL,28.33,3,7,40,DAL,LAL,foul,1,False,False,Bradley P.FOUL (P4.T2) (C.Blair),,65-51,65,51
 0021900490,2019-12-29,LAL,DAL,28.45,3,7,33,DAL,DAL,tov,1,False,True,,Barea Bad Pass Turnover (P1.T12),65-51,65,51
-0021900490,2019-12-29,LAL,DAL,28.45,3,7,33,LAL,DAL,foul,28,False,False,,Doncic Personal Take Foul (P2.T4) (C.Blair),65-51,65,51
 0021900490,2019-12-29,LAL,DAL,28.45,3,7,33,DAL,LAL,steal,1,False,True,steal,steal,65-51,65,51
+0021900490,2019-12-29,LAL,DAL,28.45,3,7,33,LAL,DAL,foul,28,False,False,,Doncic Personal Take Foul (P2.T4) (C.Blair),65-51,65,51
 0021900490,2019-12-29,LAL,DAL,28.73,3,7,16,LAL,LAL,fg_make,108,False,False,McGee 2' Cutting Dunk Shot (9 PTS) (James 12 AST),,67-51,67,51
 0021900490,2019-12-29,LAL,DAL,28.97,3,7,2,DAL,DAL,fg_make,6,False,False,,Doncic 2' Driving Layup (12 PTS),67-53,67,53
 0021900490,2019-12-29,LAL,DAL,29.25,3,6,45,LAL,LAL,fg3_miss,1,False,False,MISS Davis 27' 3PT Jump Shot,,67-53,67,53
@@ -362,8 +362,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900490,2019-12-29,LAL,DAL,38.12,4,9,53,LAL,LAL,reb,0,False,False,Rondo REBOUND (Off:1 Def:1),,89-77,89,77
 0021900490,2019-12-29,LAL,DAL,38.3,4,9,42,LAL,LAL,fg3_make,1,False,False,James 27' 3PT Jump Shot (11 PTS),,92-77,92,77
 0021900490,2019-12-29,LAL,DAL,38.5,4,9,30,DAL,DAL,fg_miss,6,True,False,,MISS Curry 6' Driving Layup,92-77,92,77
-0021900490,2019-12-29,LAL,DAL,38.5,4,9,30,DAL,DAL,reb,0,False,False,,Mavericks Rebound,92-77,92,77
 0021900490,2019-12-29,LAL,DAL,38.5,4,9,30,DAL,LAL,block,6,True,False,block,block,92-77,92,77
+0021900490,2019-12-29,LAL,DAL,38.5,4,9,30,DAL,DAL,reb,0,False,False,,Mavericks Rebound,92-77,92,77
 0021900490,2019-12-29,LAL,DAL,38.57,4,9,26,DAL,DAL,fg3_miss,1,False,False,,MISS Kleber 27' 3PT Jump Shot,92-77,92,77
 0021900490,2019-12-29,LAL,DAL,38.62,4,9,23,LAL,LAL,reb,0,False,False,Rondo REBOUND (Off:1 Def:2),,92-77,92,77
 0021900490,2019-12-29,LAL,DAL,38.8,4,9,12,LAL,LAL,fg_make,6,False,False,Rondo 2' Driving Layup (4 PTS),,94-77,94,77

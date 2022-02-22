@@ -175,8 +175,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701149,2018-04-01,CLE,DAL,19.83,2,4,10,DAL,DAL,reb,0,False,False,,Mavericks Rebound,36-43,36,43
 0021701149,2018-04-01,CLE,DAL,19.88,2,4,7,DAL,CLE,foul,3,False,False,Nance Jr. L.B.FOUL (P2.T3) (S.Wright),,36-43,36,43
 0021701149,2018-04-01,CLE,DAL,20.2,2,3,48,DAL,DAL,fg3_miss,1,True,False,,MISS Finney-Smith 24' 3PT Jump Shot,36-43,36,43
-0021701149,2018-04-01,CLE,DAL,20.2,2,3,48,CLE,CLE,reb,0,False,False,Calderon REBOUND (Off:0 Def:1),,36-43,36,43
 0021701149,2018-04-01,CLE,DAL,20.2,2,3,48,DAL,CLE,block,1,True,False,block,block,36-43,36,43
+0021701149,2018-04-01,CLE,DAL,20.2,2,3,48,CLE,CLE,reb,0,False,False,Calderon REBOUND (Off:0 Def:1),,36-43,36,43
 0021701149,2018-04-01,CLE,DAL,20.37,2,3,38,CLE,CLE,fg_miss,5,False,False,MISS James 1' Layup,,36-43,36,43
 0021701149,2018-04-01,CLE,DAL,20.43,2,3,34,DAL,DAL,reb,0,False,False,,Barnes REBOUND (Off:0 Def:2),36-43,36,43
 0021701149,2018-04-01,CLE,DAL,20.6,2,3,24,DAL,DAL,fg_miss,47,False,False,,MISS Nowitzki 13' Turnaround Jump Shot,36-43,36,43
@@ -262,10 +262,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701149,2018-04-01,CLE,DAL,32.1,3,3,54,DAL,DAL,fg3_miss,1,False,False,,MISS Kleber 26' 3PT Jump Shot,62-68,62,68
 0021701149,2018-04-01,CLE,DAL,32.1,3,3,54,DAL,DAL,reb,0,False,False,,Noel REBOUND (Off:1 Def:2),62-68,62,68
 0021701149,2018-04-01,CLE,DAL,32.1,3,3,54,DAL,DAL,tov,1,False,True,,Noel Bad Pass Turnover (P1.T8),62-68,62,68
+0021701149,2018-04-01,CLE,DAL,32.1,3,3,54,DAL,CLE,steal,1,False,True,steal,steal,62-68,62,68
 0021701149,2018-04-01,CLE,DAL,32.1,3,3,54,CLE,DAL,foul,2,False,False,,Smith Jr. S.FOUL (P3.T4) (D.Taylor),62-68,62,68
 0021701149,2018-04-01,CLE,DAL,32.1,3,3,54,CLE,CLE,ft_miss,11,False,False,MISS Osman Free Throw 1 of 2,,62-68,62,68
 0021701149,2018-04-01,CLE,DAL,32.1,3,3,54,CLE,CLE,reb,1,False,False,CAVALIERS Rebound,,62-68,62,68
-0021701149,2018-04-01,CLE,DAL,32.1,3,3,54,DAL,CLE,steal,1,False,True,steal,steal,62-68,62,68
 0021701149,2018-04-01,CLE,DAL,32.1,3,3,54,CLE,CLE,ft_make,12,False,False,Osman Free Throw 2 of 2 (3 PTS),,63-68,63,68
 0021701149,2018-04-01,CLE,DAL,32.35,3,3,39,DAL,DAL,fg3_make,1,False,False,,Smith Jr. 30' 3PT Jump Shot (14 PTS) (Noel 1 AST),63-71,63,71
 0021701149,2018-04-01,CLE,DAL,32.7,3,3,18,CLE,CLE,fg3_make,1,False,False,Smith 3PT Jump Shot (11 PTS) (James 12 AST),,66-71,66,71
@@ -277,8 +277,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701149,2018-04-01,CLE,DAL,33.4,3,2,36,CLE,CLE,reb,0,False,False,Green REBOUND (Off:1 Def:2),,66-71,66,71
 0021701149,2018-04-01,CLE,DAL,33.4,3,2,36,CLE,DAL,violation,5,False,False,,Smith Jr. Violation:Kicked Ball (S.Wright),66-71,66,71
 0021701149,2018-04-01,CLE,DAL,33.58,3,2,25,CLE,CLE,fg_miss,6,True,False,MISS Green 1' Driving Layup,,66-71,66,71
-0021701149,2018-04-01,CLE,DAL,33.58,3,2,25,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,66-71,66,71
 0021701149,2018-04-01,CLE,DAL,33.58,3,2,25,CLE,DAL,block,6,True,False,block,block,66-71,66,71
+0021701149,2018-04-01,CLE,DAL,33.58,3,2,25,CLE,CLE,reb,0,False,False,CAVALIERS Rebound,,66-71,66,71
 0021701149,2018-04-01,CLE,DAL,33.8,3,2,12,CLE,CLE,fg_miss,79,False,False,MISS Clarkson 10' Pullup Jump Shot,,66-71,66,71
 0021701149,2018-04-01,CLE,DAL,33.83,3,2,10,DAL,DAL,reb,0,False,False,,Noel REBOUND (Off:1 Def:3),66-71,66,71
 0021701149,2018-04-01,CLE,DAL,34.02,3,1,59,DAL,DAL,fg3_miss,1,False,False,,MISS Smith Jr. 30' 3PT Jump Shot,66-71,66,71
@@ -387,8 +387,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021701149,2018-04-01,CLE,DAL,46.77,4,1,14,CLE,CLE,fg_miss,6,False,False,MISS James 1' Driving Layup,,96-85,96,85
 0021701149,2018-04-01,CLE,DAL,46.8,4,1,12,CLE,CLE,reb,0,False,False,James REBOUND (Off:3 Def:10),,96-85,96,85
 0021701149,2018-04-01,CLE,DAL,46.82,4,1,11,CLE,CLE,fg_miss,72,True,False,MISS James 2' Putback Layup,,96-85,96,85
-0021701149,2018-04-01,CLE,DAL,46.82,4,1,11,DAL,DAL,reb,0,False,False,,Ferrell REBOUND (Off:0 Def:2),96-85,96,85
 0021701149,2018-04-01,CLE,DAL,46.82,4,1,11,CLE,DAL,block,72,True,False,block,block,96-85,96,85
+0021701149,2018-04-01,CLE,DAL,46.82,4,1,11,DAL,DAL,reb,0,False,False,,Ferrell REBOUND (Off:0 Def:2),96-85,96,85
 0021701149,2018-04-01,CLE,DAL,46.97,4,1,2,CLE,DAL,foul,4,False,False,,Powell OFF.Foul (P4) (S.Wright),96-85,96,85
 0021701149,2018-04-01,CLE,DAL,46.97,4,1,2,DAL,DAL,tov,37,False,False,,Powell Offensive Foul Turnover (P2.T15),96-85,96,85
 0021701149,2018-04-01,CLE,DAL,46.97,4,1,2,DAL,,violation,1,False,False,,,96-85,96,85

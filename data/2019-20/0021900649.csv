@@ -72,8 +72,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900649,2020-01-20,MIN,DEN,8.9,1,3,6,MIN,MIN,tov,2,False,True,Wiggins Lost Ball Turnover (P2.T3),,22-20,22,20
 0021900649,2020-01-20,MIN,DEN,8.9,1,3,6,MIN,DEN,steal,2,False,True,steal,steal,22-20,22,20
 0021900649,2020-01-20,MIN,DEN,8.97,1,3,2,DEN,DEN,fg_miss,6,False,False,,MISS Morris 2' Driving Layup,22-20,22,20
-0021900649,2020-01-20,MIN,DEN,9.03,1,2,58,DEN,DEN,fg_make,107,False,False,,Porter Jr. 1' Tip Dunk Shot (2 PTS),22-22,22,22
 0021900649,2020-01-20,MIN,DEN,9.03,1,2,58,DEN,DEN,reb,0,False,False,,Porter Jr. REBOUND (Off:1 Def:1),22-22,22,22
+0021900649,2020-01-20,MIN,DEN,9.03,1,2,58,DEN,DEN,fg_make,107,False,False,,Porter Jr. 1' Tip Dunk Shot (2 PTS),22-22,22,22
 0021900649,2020-01-20,MIN,DEN,9.12,1,2,53,MIN,MIN,tov,1,False,True,Okogie Bad Pass Turnover (P1.T4),,22-22,22,22
 0021900649,2020-01-20,MIN,DEN,9.12,1,2,53,MIN,DEN,steal,1,False,True,steal,steal,22-22,22,22
 0021900649,2020-01-20,MIN,DEN,9.17,1,2,50,DEN,MIN,foul,1,False,False,Covington P.FOUL (P2.T4) (M.Dagher),,22-22,22,22
@@ -105,8 +105,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900649,2020-01-20,MIN,DEN,12.0,1,0,0,MIN,,period_end,0,False,False,,,29-26,29,26
 0021900649,2020-01-20,MIN,DEN,12.0,2,12,0,MIN,,period_start,0,False,False,,,29-26,29,26
 0021900649,2020-01-20,MIN,DEN,12.25,2,11,45,DEN,DEN,fg_miss,101,True,False,,MISS Dozier 7' Driving Floating Jump Shot,29-26,29,26
-0021900649,2020-01-20,MIN,DEN,12.25,2,11,45,MIN,MIN,reb,0,False,False,Dieng REBOUND (Off:0 Def:1),,29-26,29,26
 0021900649,2020-01-20,MIN,DEN,12.25,2,11,45,DEN,MIN,block,101,True,False,block,block,29-26,29,26
+0021900649,2020-01-20,MIN,DEN,12.25,2,11,45,MIN,MIN,reb,0,False,False,Dieng REBOUND (Off:0 Def:1),,29-26,29,26
 0021900649,2020-01-20,MIN,DEN,12.6,2,11,24,MIN,MIN,fg_miss,1,False,False,MISS Dieng 6' Jump Shot,,29-26,29,26
 0021900649,2020-01-20,MIN,DEN,12.63,2,11,22,DEN,DEN,reb,0,False,False,,Porter Jr. REBOUND (Off:1 Def:2),29-26,29,26
 0021900649,2020-01-20,MIN,DEN,12.7,2,11,18,DEN,DEN,fg3_miss,79,False,False,,MISS Porter Jr. 27' 3PT Pullup Jump Shot,29-26,29,26
@@ -126,8 +126,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900649,2020-01-20,MIN,DEN,14.33,2,9,40,DEN,DEN,fg_miss,6,False,False,,MISS Dozier 5' Driving Layup,32-30,32,30
 0021900649,2020-01-20,MIN,DEN,14.33,2,9,40,DEN,DEN,reb,0,False,False,,Nuggets Rebound,32-30,32,30
 0021900649,2020-01-20,MIN,DEN,14.42,2,9,35,DEN,DEN,fg_miss,5,True,False,,MISS Porter Jr. 3' Layup,32-30,32,30
-0021900649,2020-01-20,MIN,DEN,14.42,2,9,35,MIN,MIN,reb,0,False,False,McLaughlin REBOUND (Off:0 Def:1),,32-30,32,30
 0021900649,2020-01-20,MIN,DEN,14.42,2,9,35,DEN,MIN,block,5,True,False,block,block,32-30,32,30
+0021900649,2020-01-20,MIN,DEN,14.42,2,9,35,MIN,MIN,reb,0,False,False,McLaughlin REBOUND (Off:0 Def:1),,32-30,32,30
 0021900649,2020-01-20,MIN,DEN,14.55,2,9,27,MIN,MIN,fg3_miss,1,False,False,MISS Bates-Diop 3PT Jump Shot,,32-30,32,30
 0021900649,2020-01-20,MIN,DEN,14.58,2,9,25,MIN,MIN,reb,0,False,False,Dieng REBOUND (Off:1 Def:1),,32-30,32,30
 0021900649,2020-01-20,MIN,DEN,14.63,2,9,22,MIN,MIN,fg_make,72,False,False,Dieng 1' Putback Layup (5 PTS),,34-30,34,30
@@ -212,8 +212,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900649,2020-01-20,MIN,DEN,24.45,3,11,33,MIN,DEN,foul,1,False,False,,Jokic P.FOUL (P2.T1) (M.Dagher),54-57,54,57
 0021900649,2020-01-20,MIN,DEN,24.52,3,11,29,MIN,MIN,fg_make,9,False,False,Towns 1' Driving Dunk (16 PTS) (Napier 6 AST),,56-57,56,57
 0021900649,2020-01-20,MIN,DEN,24.88,3,11,7,DEN,DEN,fg_miss,5,False,False,,MISS Jokic 3' Layup,56-57,56,57
-0021900649,2020-01-20,MIN,DEN,24.95,3,11,3,DEN,DEN,fg_make,97,False,False,,Grant 1' Tip Layup Shot (17 PTS),56-59,56,59
 0021900649,2020-01-20,MIN,DEN,24.95,3,11,3,DEN,DEN,reb,0,False,False,,Grant REBOUND (Off:2 Def:4),56-59,56,59
+0021900649,2020-01-20,MIN,DEN,24.95,3,11,3,DEN,DEN,fg_make,97,False,False,,Grant 1' Tip Layup Shot (17 PTS),56-59,56,59
 0021900649,2020-01-20,MIN,DEN,25.17,3,10,50,MIN,MIN,fg_make,66,False,False,Wiggins 10' Jump Bank Shot (6 PTS),,58-59,58,59
 0021900649,2020-01-20,MIN,DEN,25.35,3,10,39,DEN,MIN,foul,1,False,False,Towns P.FOUL (P1.T1) (M.Dagher),,58-59,58,59
 0021900649,2020-01-20,MIN,DEN,25.6,3,10,24,DEN,DEN,fg_miss,6,False,False,,MISS Morris 4' Driving Layup,58-59,58,59

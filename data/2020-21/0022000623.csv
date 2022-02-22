@@ -27,8 +27,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000623,2021-03-17,MEM,MIA,3.3,1,8,42,MEM,MEM,fg3_miss,1,False,False,MISS Brooks 3PT Jump Shot,,7-1,7,1
 0022000623,2021-03-17,MEM,MIA,3.37,1,8,38,MIA,MIA,reb,0,False,False,,Nunn REBOUND (Off:0 Def:1),7-1,7,1
 0022000623,2021-03-17,MEM,MIA,3.48,1,8,31,MIA,MIA,fg_miss,75,True,False,,MISS Nunn 2' Driving Finger Roll Layup,7-1,7,1
-0022000623,2021-03-17,MEM,MIA,3.48,1,8,31,MIA,MIA,reb,0,False,False,,Heat Rebound,7-1,7,1
 0022000623,2021-03-17,MEM,MIA,3.48,1,8,31,MIA,MEM,block,75,True,False,block,block,7-1,7,1
+0022000623,2021-03-17,MEM,MIA,3.48,1,8,31,MIA,MIA,reb,0,False,False,,Heat Rebound,7-1,7,1
 0022000623,2021-03-17,MEM,MIA,3.63,1,8,22,MIA,MIA,fg3_miss,1,False,False,,MISS Nunn 26' 3PT Jump Shot,7-1,7,1
 0022000623,2021-03-17,MEM,MIA,3.65,1,8,21,MEM,MEM,reb,0,False,False,Valanciunas REBOUND (Off:0 Def:4),,7-1,7,1
 0022000623,2021-03-17,MEM,MIA,3.93,1,8,4,MEM,MEM,fg_miss,86,False,False,MISS Brooks 14' Turnaround Fadeaway Shot,,7-1,7,1
@@ -186,8 +186,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000623,2021-03-17,MEM,MIA,21.62,2,2,23,MEM,MEM,fg3_miss,1,False,False,MISS Clarke 25' 3PT Jump Shot,,46-42,46,42
 0022000623,2021-03-17,MEM,MIA,21.67,2,2,20,MIA,MIA,reb,0,False,False,,Adebayo REBOUND (Off:1 Def:4),46-42,46,42
 0022000623,2021-03-17,MEM,MIA,21.8,2,2,12,MIA,MIA,fg_miss,6,True,False,,MISS Butler 1' Driving Layup,46-42,46,42
-0022000623,2021-03-17,MEM,MIA,21.8,2,2,12,MIA,MIA,reb,0,False,False,,Heat Rebound,46-42,46,42
 0022000623,2021-03-17,MEM,MIA,21.8,2,2,12,MIA,MEM,block,6,True,False,block,block,46-42,46,42
+0022000623,2021-03-17,MEM,MIA,21.8,2,2,12,MIA,MIA,reb,0,False,False,,Heat Rebound,46-42,46,42
 0022000623,2021-03-17,MEM,MIA,21.93,2,2,4,MIA,MIA,fg3_make,79,False,False,,Butler 27' 3PT Pullup Jump Shot (10 PTS),46-45,46,45
 0022000623,2021-03-17,MEM,MIA,22.3,2,1,42,MEM,MIA,foul,1,False,False,,Adebayo P.FOUL (P2.T3) (A.Nagy),46-45,46,45
 0022000623,2021-03-17,MEM,MIA,22.35,2,1,39,MEM,MEM,tov,45,False,False,Morant Out of Bounds - Bad Pass Turnover Turnover (P1.T5),,46-45,46,45
@@ -282,8 +282,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000623,2021-03-17,MEM,MIA,32.95,3,3,3,MIA,MEM,foul,2,False,False,Morant S.FOUL (P2.T4) (A.Nagy),,62-63,62,63
 0022000623,2021-03-17,MEM,MIA,32.95,3,3,3,MIA,MIA,ft_miss,11,False,False,,MISS Achiuwa Free Throw 1 of 2,62-63,62,63
 0022000623,2021-03-17,MEM,MIA,32.95,3,3,3,MIA,MIA,reb,1,False,False,,Heat Rebound,62-63,62,63
-0022000623,2021-03-17,MEM,MIA,32.95,3,3,3,MIA,MIA,ft_miss,12,False,False,,MISS Achiuwa Free Throw 2 of 2,62-63,62,63
 0022000623,2021-03-17,MEM,MIA,32.95,3,3,3,MEM,MEM,timeout,1,False,False,GRIZZLIES Timeout: Regular (Full 3 Short 0),,62-63,62,63
+0022000623,2021-03-17,MEM,MIA,32.95,3,3,3,MIA,MIA,ft_miss,12,False,False,,MISS Achiuwa Free Throw 2 of 2,62-63,62,63
 0022000623,2021-03-17,MEM,MIA,32.98,3,3,1,MEM,MEM,reb,0,False,False,Winslow REBOUND (Off:0 Def:2),,62-63,62,63
 0022000623,2021-03-17,MEM,MIA,33.23,3,2,46,MEM,MEM,fg3_miss,1,False,False,MISS Winslow 25' 3PT Jump Shot,,62-63,62,63
 0022000623,2021-03-17,MEM,MIA,33.33,3,2,40,MIA,MIA,reb,0,False,False,,Achiuwa REBOUND (Off:2 Def:3),62-63,62,63
@@ -428,8 +428,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0022000623,2021-03-17,MEM,MIA,47.98,4,0,1,MEM,MEM,fg_make,75,False,False,Morant Driving Finger Roll Layup (13 PTS),,87-85,87,85
 0022000623,2021-03-17,MEM,MIA,47.98,4,0,1,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.6 Short 0),87-85,87,85
 0022000623,2021-03-17,MEM,MIA,48.0,4,0,0,MIA,MIA,tov,1,False,True,,Adebayo Bad Pass Turnover (P3.T11),87-85,87,85
-0022000623,2021-03-17,MEM,MIA,48.0,4,0,0,MEM,MIA,foul,1,False,False,,Butler P.FOUL (P2.PN) (M.Smith),87-85,87,85
 0022000623,2021-03-17,MEM,MIA,48.0,4,0,0,MIA,MEM,steal,1,False,True,steal,steal,87-85,87,85
+0022000623,2021-03-17,MEM,MIA,48.0,4,0,0,MEM,MIA,foul,1,False,False,,Butler P.FOUL (P2.PN) (M.Smith),87-85,87,85
 0022000623,2021-03-17,MEM,MIA,48.0,4,0,0,MEM,MEM,ft_make,11,False,False,Anderson Free Throw 1 of 2 (12 PTS),,88-85,88,85
 0022000623,2021-03-17,MEM,MIA,48.0,4,0,0,MEM,MEM,ft_make,12,False,False,Anderson Free Throw 2 of 2 (13 PTS),,89-85,89,85
 0022000623,2021-03-17,MEM,MIA,48.0,4,0,0,MIA,MIA,timeout,1,False,False,,Heat Timeout: Regular (Reg.7 Short 0),89-85,89,85

@@ -63,8 +63,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900100,2019-11-05,CHI,LAL,6.9,1,5,6,CHI,CHI,fg_miss,43,False,False,MISS Satoransky 3' Alley Oop Layup,,15-13,15,13
 0021900100,2019-11-05,CHI,LAL,6.95,1,5,3,LAL,LAL,reb,0,False,False,,James REBOUND (Off:0 Def:4),15-13,15,13
 0021900100,2019-11-05,CHI,LAL,7.0,1,5,0,LAL,LAL,fg_miss,6,True,False,,MISS Caldwell-Pope 1' Driving Layup,15-13,15,13
-0021900100,2019-11-05,CHI,LAL,7.0,1,5,0,LAL,LAL,reb,0,False,False,,McGee REBOUND (Off:1 Def:3),15-13,15,13
 0021900100,2019-11-05,CHI,LAL,7.0,1,5,0,LAL,CHI,block,6,True,False,block,block,15-13,15,13
+0021900100,2019-11-05,CHI,LAL,7.0,1,5,0,LAL,LAL,reb,0,False,False,,McGee REBOUND (Off:1 Def:3),15-13,15,13
 0021900100,2019-11-05,CHI,LAL,7.0,1,5,0,LAL,LAL,fg_make,97,False,False,,McGee 1' Tip Layup Shot (5 PTS),15-15,15,15
 0021900100,2019-11-05,CHI,LAL,7.0,1,5,0,CHI,CHI,timeout,1,False,False,BULLS Timeout: Regular (Full 2 Short 0),,15-15,15,15
 0021900100,2019-11-05,CHI,LAL,7.32,1,4,41,CHI,CHI,tov,2,False,True,White Lost Ball Turnover (P1.T3),,15-15,15,15
@@ -90,8 +90,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900100,2019-11-05,CHI,LAL,9.5,1,2,30,LAL,LAL,tov,1,False,True,,Caruso Bad Pass Turnover (P1.T4),21-19,21,19
 0021900100,2019-11-05,CHI,LAL,9.5,1,2,30,LAL,CHI,steal,1,False,True,steal,steal,21-19,21,19
 0021900100,2019-11-05,CHI,LAL,9.6,1,2,24,CHI,CHI,fg_miss,41,True,False,MISS White 2' Running Layup,,21-19,21,19
-0021900100,2019-11-05,CHI,LAL,9.6,1,2,24,CHI,CHI,reb,0,False,False,Dunn REBOUND (Off:1 Def:0),,21-19,21,19
 0021900100,2019-11-05,CHI,LAL,9.6,1,2,24,CHI,LAL,block,41,True,False,block,block,21-19,21,19
+0021900100,2019-11-05,CHI,LAL,9.6,1,2,24,CHI,CHI,reb,0,False,False,Dunn REBOUND (Off:1 Def:0),,21-19,21,19
 0021900100,2019-11-05,CHI,LAL,9.6,1,2,24,CHI,CHI,fg_make,72,False,False,Dunn 1' Putback Layup (4 PTS),,23-19,23,19
 0021900100,2019-11-05,CHI,LAL,9.6,1,2,24,LAL,LAL,timeout,1,False,False,,Lakers Timeout: Regular (Reg.1 Short 0),23-19,23,19
 0021900100,2019-11-05,CHI,LAL,9.88,1,2,7,LAL,LAL,fg3_miss,80,False,False,,MISS Kuzma 26' 3PT Step Back Jump Shot,23-19,23,19
@@ -378,12 +378,12 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900100,2019-11-05,CHI,LAL,38.3,4,9,42,LAL,LAL,fg_make,102,False,False,,Kuzma 9' Driving Floating Bank Jump Shot (11 PTS) (Daniels 2 AST),93-87,93,87
 0021900100,2019-11-05,CHI,LAL,38.3,4,9,42,LAL,CHI,foul,2,False,False,Kornet S.FOUL (P1.T1) (J.Goble),,93-87,93,87
 0021900100,2019-11-05,CHI,LAL,38.3,4,9,42,LAL,LAL,ft_miss,10,False,False,,MISS Kuzma Free Throw 1 of 1,93-87,93,87
-0021900100,2019-11-05,CHI,LAL,38.42,4,9,35,LAL,LAL,fg_make,87,False,False,,Howard 1' Putback Dunk (2 PTS),93-89,93,89
 0021900100,2019-11-05,CHI,LAL,38.42,4,9,35,LAL,LAL,reb,0,False,False,,Howard REBOUND (Off:2 Def:3),93-89,93,89
+0021900100,2019-11-05,CHI,LAL,38.42,4,9,35,LAL,LAL,fg_make,87,False,False,,Howard 1' Putback Dunk (2 PTS),93-89,93,89
 0021900100,2019-11-05,CHI,LAL,38.73,4,9,16,CHI,CHI,fg_miss,75,True,False,MISS White 3' Driving Finger Roll Layup,,93-89,93,89
+0021900100,2019-11-05,CHI,LAL,38.73,4,9,16,CHI,LAL,block,75,True,False,block,block,93-89,93,89
 0021900100,2019-11-05,CHI,LAL,38.73,4,9,16,CHI,CHI,reb,0,False,False,BULLS Rebound,,93-89,93,89
 0021900100,2019-11-05,CHI,LAL,38.73,4,9,16,CHI,LAL,violation,5,False,False,,Daniels Violation:Kicked Ball (J.Goble),93-89,93,89
-0021900100,2019-11-05,CHI,LAL,38.73,4,9,16,CHI,LAL,block,75,True,False,block,block,93-89,93,89
 0021900100,2019-11-05,CHI,LAL,38.9,4,9,6,CHI,CHI,fg3_miss,1,False,False,MISS White 26' 3PT Jump Shot,,93-89,93,89
 0021900100,2019-11-05,CHI,LAL,39.0,4,9,0,LAL,LAL,reb,0,False,False,,Kuzma REBOUND (Off:0 Def:3),93-89,93,89
 0021900100,2019-11-05,CHI,LAL,39.07,4,8,56,LAL,LAL,fg_make,5,False,False,,Howard 2' Layup (4 PTS) (Cook 2 AST),93-91,93,91

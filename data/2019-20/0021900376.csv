@@ -14,9 +14,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900376,2019-12-13,MEM,MIL,1.73,1,10,16,MIL,MIL,fg_miss,6,False,False,,MISS Bledsoe 3' Driving Layup,3-4,3,4
 0021900376,2019-12-13,MEM,MIL,1.77,1,10,14,MEM,MEM,reb,0,False,False,Jackson Jr. REBOUND (Off:0 Def:1),,3-4,3,4
 0021900376,2019-12-13,MEM,MIL,1.87,1,10,8,MEM,MEM,fg_miss,58,True,False,MISS Valanciunas 6' Turnaround Hook Shot,,3-4,3,4
+0021900376,2019-12-13,MEM,MIL,1.87,1,10,8,MEM,MIL,block,58,True,False,block,block,3-4,3,4
 0021900376,2019-12-13,MEM,MIL,1.87,1,10,8,MEM,MEM,reb,0,False,False,GRIZZLIES Rebound,,3-4,3,4
 0021900376,2019-12-13,MEM,MIL,1.87,1,10,8,MEM,MIL,foul,3,False,False,,Lopez L.B.FOUL (P1.T1) (L.Wood),3-4,3,4
-0021900376,2019-12-13,MEM,MIL,1.87,1,10,8,MEM,MIL,block,58,True,False,block,block,3-4,3,4
 0021900376,2019-12-13,MEM,MIL,1.97,1,10,2,MEM,MEM,fg3_miss,1,False,False,MISS Jackson Jr. 25' 3PT Jump Shot,,3-4,3,4
 0021900376,2019-12-13,MEM,MIL,2.02,1,9,59,MIL,MIL,reb,0,False,False,,Matthews REBOUND (Off:0 Def:1),3-4,3,4
 0021900376,2019-12-13,MEM,MIL,2.15,1,9,51,MIL,MIL,fg3_miss,1,False,False,,MISS Matthews 25' 3PT Jump Shot,3-4,3,4
@@ -335,15 +335,15 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900376,2019-12-13,MEM,MIL,34.2,3,1,48,MEM,MEM,fg_miss,102,False,False,MISS Melton 10' Driving Floating Bank Jump Shot,,93-88,93,88
 0021900376,2019-12-13,MEM,MIL,34.25,3,1,45,MIL,MIL,reb,0,False,False,,G. Hill REBOUND (Off:1 Def:2),93-88,93,88
 0021900376,2019-12-13,MEM,MIL,34.33,3,1,40,MIL,MIL,fg_miss,6,True,False,,MISS Brown 1' Driving Layup,93-88,93,88
-0021900376,2019-12-13,MEM,MIL,34.33,3,1,40,MEM,MEM,reb,0,False,False,Guduric REBOUND (Off:0 Def:2),,93-88,93,88
 0021900376,2019-12-13,MEM,MIL,34.33,3,1,40,MIL,MEM,block,6,True,False,block,block,93-88,93,88
+0021900376,2019-12-13,MEM,MIL,34.33,3,1,40,MEM,MEM,reb,0,False,False,Guduric REBOUND (Off:0 Def:2),,93-88,93,88
 0021900376,2019-12-13,MEM,MIL,34.63,3,1,22,MEM,MEM,fg_miss,6,False,False,MISS Guduric 1' Driving Layup,,93-88,93,88
 0021900376,2019-12-13,MEM,MIL,34.7,3,1,18,MEM,MEM,reb,0,False,False,Anderson REBOUND (Off:1 Def:1),,93-88,93,88
 0021900376,2019-12-13,MEM,MIL,34.7,3,1,18,MEM,MEM,fg_miss,72,False,False,MISS Anderson 1' Putback Layup,,93-88,93,88
 0021900376,2019-12-13,MEM,MIL,34.72,3,1,17,MIL,MIL,reb,0,False,False,,Connaughton REBOUND (Off:0 Def:4),93-88,93,88
 0021900376,2019-12-13,MEM,MIL,34.82,3,1,11,MIL,MIL,fg3_miss,1,False,False,,MISS DiVincenzo 25' 3PT Jump Shot,93-88,93,88
-0021900376,2019-12-13,MEM,MIL,34.92,3,1,5,MIL,MIL,fg_make,97,False,False,,Wilson 1' Tip Layup Shot (9 PTS),93-90,93,90
 0021900376,2019-12-13,MEM,MIL,34.92,3,1,5,MIL,MIL,reb,0,False,False,,Wilson REBOUND (Off:1 Def:3),93-90,93,90
+0021900376,2019-12-13,MEM,MIL,34.92,3,1,5,MIL,MIL,fg_make,97,False,False,,Wilson 1' Tip Layup Shot (9 PTS),93-90,93,90
 0021900376,2019-12-13,MEM,MIL,35.23,3,0,46,MEM,MEM,fg_make,71,False,False,Jackson Jr. 1' Finger Roll Layup (35 PTS) (Melton 5 AST),,95-90,95,90
 0021900376,2019-12-13,MEM,MIL,35.45,3,0,33,MIL,MIL,fg3_miss,79,False,False,,MISS G. Hill 25' 3PT Pullup Jump Shot,95-90,95,90
 0021900376,2019-12-13,MEM,MIL,35.5,3,0,30,MEM,MEM,reb,0,False,False,Jackson Jr. REBOUND (Off:0 Def:5),,95-90,95,90
@@ -439,9 +439,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900376,2019-12-13,MEM,MIL,44.58,4,3,25,MIL,MIL,fg_miss,101,False,False,,MISS Antetokounmpo 6' Driving Floating Jump Shot,106-118,106,118
 0021900376,2019-12-13,MEM,MIL,44.6,4,3,24,MIL,MIL,reb,0,False,False,,Antetokounmpo REBOUND (Off:2 Def:9),106-118,106,118
 0021900376,2019-12-13,MEM,MIL,44.6,4,3,24,MIL,MIL,fg_miss,72,True,False,,MISS Antetokounmpo 4' Putback Layup,106-118,106,118
+0021900376,2019-12-13,MEM,MIL,44.6,4,3,24,MIL,MEM,block,72,True,False,block,block,106-118,106,118
 0021900376,2019-12-13,MEM,MIL,44.6,4,3,24,MIL,MIL,reb,0,False,False,,Bucks Rebound,106-118,106,118
 0021900376,2019-12-13,MEM,MIL,44.6,4,3,24,MIL,MIL,timeout,1,False,False,,Bucks Timeout: Regular (Reg.5 Short 0),106-118,106,118
-0021900376,2019-12-13,MEM,MIL,44.6,4,3,24,MIL,MEM,block,72,True,False,block,block,106-118,106,118
 0021900376,2019-12-13,MEM,MIL,44.68,4,3,19,MIL,MIL,fg3_make,1,False,False,,Brown 3PT Jump Shot (8 PTS) (G. Hill 5 AST),106-121,106,121
 0021900376,2019-12-13,MEM,MIL,44.92,4,3,5,MEM,MEM,fg_make,102,False,False,Jackson Jr. 3' Driving Floating Bank Jump Shot (39 PTS),,108-121,108,121
 0021900376,2019-12-13,MEM,MIL,44.92,4,3,5,MEM,MIL,foul,2,False,False,,Matthews S.FOUL (P4.T3) (L.Wood),108-121,108,121

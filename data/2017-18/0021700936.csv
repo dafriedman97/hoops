@@ -148,8 +148,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700936,2018-03-03,ORL,MEM,17.9,2,6,6,ORL,ORL,reb,0,False,False,Isaac REBOUND (Off:0 Def:2),,38-40,38,40
 0021700936,2018-03-03,ORL,MEM,18.15,2,5,51,ORL,ORL,fg_make,9,False,False,Hezonja 2' Driving Dunk (7 PTS) (Mack 2 AST),,40-40,40,40
 0021700936,2018-03-03,ORL,MEM,18.32,2,5,41,MEM,MEM,fg_miss,5,True,False,,MISS Chalmers 6' Layup,40-40,40,40
-0021700936,2018-03-03,ORL,MEM,18.32,2,5,41,MEM,MEM,reb,0,False,False,,McLemore REBOUND (Off:3 Def:1),40-40,40,40
 0021700936,2018-03-03,ORL,MEM,18.32,2,5,41,MEM,ORL,block,5,True,False,block,block,40-40,40,40
+0021700936,2018-03-03,ORL,MEM,18.32,2,5,41,MEM,MEM,reb,0,False,False,,McLemore REBOUND (Off:3 Def:1),40-40,40,40
 0021700936,2018-03-03,ORL,MEM,18.42,2,5,35,MEM,MEM,fg3_make,1,False,False,,Chalmers 3PT Jump Shot (10 PTS) (McLemore 2 AST),40-43,40,43
 0021700936,2018-03-03,ORL,MEM,18.72,2,5,17,ORL,ORL,fg3_miss,1,False,False,MISS Hezonja 29' 3PT Jump Shot,,40-43,40,43
 0021700936,2018-03-03,ORL,MEM,18.73,2,5,16,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,40-43,40,43
@@ -279,9 +279,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700936,2018-03-03,ORL,MEM,31.17,3,4,50,MEM,MEM,fg_miss,5,False,False,,MISS Rabb 3' Layup,68-71,68,71
 0021700936,2018-03-03,ORL,MEM,31.2,3,4,48,MEM,MEM,reb,0,False,False,,Henry REBOUND (Off:1 Def:0),68-71,68,71
 0021700936,2018-03-03,ORL,MEM,31.22,3,4,47,MEM,MEM,fg_miss,44,True,False,,MISS Henry 3' Reverse Layup,68-71,68,71
+0021700936,2018-03-03,ORL,MEM,31.22,3,4,47,MEM,ORL,block,44,True,False,block,block,68-71,68,71
 0021700936,2018-03-03,ORL,MEM,31.22,3,4,47,ORL,ORL,reb,0,False,False,Vucevic REBOUND (Off:1 Def:3),,68-71,68,71
 0021700936,2018-03-03,ORL,MEM,31.22,3,4,47,ORL,MEM,foul,1,False,False,,Green P.FOUL (P2.T4) (B.Taylor),68-71,68,71
-0021700936,2018-03-03,ORL,MEM,31.22,3,4,47,MEM,ORL,block,44,True,False,block,block,68-71,68,71
 0021700936,2018-03-03,ORL,MEM,31.42,3,4,35,ORL,ORL,fg3_miss,1,False,False,MISS Vucevic 26' 3PT Jump Shot,,68-71,68,71
 0021700936,2018-03-03,ORL,MEM,31.42,3,4,35,MEM,MEM,reb,0,False,False,,Grizzlies Rebound,68-71,68,71
 0021700936,2018-03-03,ORL,MEM,31.72,3,4,17,MEM,MEM,fg_make,1,False,False,,Rabb 21' Jump Shot (5 PTS) (Henry 1 AST),68-73,68,73
@@ -303,9 +303,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700936,2018-03-03,ORL,MEM,34.28,3,1,43,MEM,MEM,fg_miss,5,False,False,,MISS Henry 5' Layup,75-77,75,77
 0021700936,2018-03-03,ORL,MEM,34.3,3,1,42,MEM,MEM,reb,0,False,False,,Johnson REBOUND (Off:1 Def:1),75-77,75,77
 0021700936,2018-03-03,ORL,MEM,34.3,3,1,42,MEM,MEM,fg_miss,5,True,False,,MISS Johnson 5' Layup,75-77,75,77
+0021700936,2018-03-03,ORL,MEM,34.3,3,1,42,MEM,ORL,block,5,True,False,block,block,75-77,75,77
 0021700936,2018-03-03,ORL,MEM,34.3,3,1,42,MEM,MEM,reb,0,False,False,,Johnson REBOUND (Off:2 Def:1),75-77,75,77
 0021700936,2018-03-03,ORL,MEM,34.3,3,1,42,MEM,MEM,fg_miss,5,True,False,,MISS Johnson 2' Layup,75-77,75,77
-0021700936,2018-03-03,ORL,MEM,34.3,3,1,42,MEM,ORL,block,5,True,False,block,block,75-77,75,77
 0021700936,2018-03-03,ORL,MEM,34.3,3,1,42,MEM,ORL,block,5,True,False,block,block,75-77,75,77
 0021700936,2018-03-03,ORL,MEM,34.32,3,1,41,ORL,ORL,reb,0,False,False,Vaughn REBOUND (Off:0 Def:1),,75-77,75,77
 0021700936,2018-03-03,ORL,MEM,34.6,3,1,24,ORL,MEM,foul,1,False,False,,Simmons P.FOUL (P2.PN) (J.Orr),75-77,75,77
@@ -393,9 +393,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700936,2018-03-03,ORL,MEM,42.38,4,5,37,ORL,ORL,tov,37,False,False,Gordon Offensive Foul Turnover (P3.T13),,84-88,84,88
 0021700936,2018-03-03,ORL,MEM,42.67,4,5,20,MEM,MEM,fg_make,6,False,False,,Brooks 4' Driving Layup (9 PTS),84-90,84,90
 0021700936,2018-03-03,ORL,MEM,42.92,4,5,5,ORL,ORL,fg_miss,6,True,False,MISS Simmons 6' Driving Layup,,84-90,84,90
+0021700936,2018-03-03,ORL,MEM,42.92,4,5,5,ORL,MEM,block,6,True,False,block,block,84-90,84,90
 0021700936,2018-03-03,ORL,MEM,42.92,4,5,5,ORL,ORL,reb,0,False,False,Simmons REBOUND (Off:2 Def:4),,84-90,84,90
 0021700936,2018-03-03,ORL,MEM,42.92,4,5,5,ORL,MEM,foul,2,False,False,,Green S.FOUL (P3.T3) (J.Orr),84-90,84,90
-0021700936,2018-03-03,ORL,MEM,42.92,4,5,5,ORL,MEM,block,6,True,False,block,block,84-90,84,90
 0021700936,2018-03-03,ORL,MEM,42.92,4,5,5,ORL,ORL,ft_make,11,False,False,Simmons Free Throw 1 of 2 (7 PTS),,85-90,85,90
 0021700936,2018-03-03,ORL,MEM,42.92,4,5,5,ORL,ORL,ft_make,12,False,False,Simmons Free Throw 2 of 2 (8 PTS),,86-90,86,90
 0021700936,2018-03-03,ORL,MEM,43.17,4,4,50,MEM,MEM,fg_make,78,False,False,,Green 7' Floating Jump Shot (10 PTS) (McLemore 4 AST),86-92,86,92
@@ -436,8 +436,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021700936,2018-03-03,ORL,MEM,47.63,4,0,22,ORL,ORL,fg3_make,1,False,False,Fournier 28' 3PT Jump Shot (17 PTS),,103-100,103,100
 0021700936,2018-03-03,ORL,MEM,47.63,4,0,22,MEM,MEM,timeout,1,False,False,,Grizzlies Timeout: Regular (Reg.5 Short 0),103-100,103,100
 0021700936,2018-03-03,ORL,MEM,47.82,4,0,11,MEM,MEM,fg3_miss,1,True,False,,MISS Martin 25' 3PT Jump Shot,103-100,103,100
-0021700936,2018-03-03,ORL,MEM,47.82,4,0,11,ORL,ORL,reb,0,False,False,MAGIC Rebound,,103-100,103,100
 0021700936,2018-03-03,ORL,MEM,47.82,4,0,11,MEM,ORL,block,1,True,False,block,block,103-100,103,100
+0021700936,2018-03-03,ORL,MEM,47.82,4,0,11,ORL,ORL,reb,0,False,False,MAGIC Rebound,,103-100,103,100
 0021700936,2018-03-03,ORL,MEM,47.85,4,0,9,ORL,ORL,timeout,1,False,False,MAGIC Timeout: Regular (Full 7 Short 0),,103-100,103,100
 0021700936,2018-03-03,ORL,MEM,47.87,4,0,8,ORL,MEM,foul,28,False,False,,Green Personal Take Foul (P4.PN) (J.Orr),103-100,103,100
 0021700936,2018-03-03,ORL,MEM,47.87,4,0,8,ORL,ORL,ft_make,11,False,False,Fournier Free Throw 1 of 2 (18 PTS),,104-100,104,100

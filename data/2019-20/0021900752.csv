@@ -143,9 +143,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900752,2020-02-04,HOU,CHA,14.37,2,9,38,HOU,HOU,fg3_miss,1,False,False,MISS McLemore 27' 3PT Jump Shot,,28-39,28,39
 0021900752,2020-02-04,HOU,CHA,14.43,2,9,34,CHA,CHA,reb,0,False,False,,Graham REBOUND (Off:0 Def:3),28-39,28,39
 0021900752,2020-02-04,HOU,CHA,14.53,2,9,28,CHA,CHA,fg_miss,5,True,False,,MISS Zeller 2' Layup,28-39,28,39
+0021900752,2020-02-04,HOU,CHA,14.53,2,9,28,CHA,HOU,block,5,True,False,block,block,28-39,28,39
 0021900752,2020-02-04,HOU,CHA,14.53,2,9,28,HOU,HOU,reb,0,False,False,House Jr. REBOUND (Off:0 Def:2),,28-39,28,39
 0021900752,2020-02-04,HOU,CHA,14.53,2,9,28,HOU,CHA,foul,1,False,False,,Graham P.FOUL (P1.T2) (C.Washington),28-39,28,39
-0021900752,2020-02-04,HOU,CHA,14.53,2,9,28,CHA,HOU,block,5,True,False,block,block,28-39,28,39
 0021900752,2020-02-04,HOU,CHA,14.7,2,9,18,HOU,HOU,fg_make,6,False,False,Harden 1' Driving Layup (9 PTS),,30-39,30,39
 0021900752,2020-02-04,HOU,CHA,14.73,2,9,16,CHA,CHA,timeout,1,False,False,,Hornets Timeout: Regular (Reg.2 Short 0),30-39,30,39
 0021900752,2020-02-04,HOU,CHA,15.0,2,9,0,CHA,CHA,fg_make,96,False,False,,Washington 2' Turnaround Bank Hook Shot (2 PTS) (Zeller 2 AST),30-41,30,41
@@ -185,8 +185,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900752,2020-02-04,HOU,CHA,18.73,2,5,16,CHA,CHA,reb,0,False,False,,Hernangomez REBOUND (Off:4 Def:1),45-47,45,47
 0021900752,2020-02-04,HOU,CHA,18.77,2,5,14,CHA,CHA,fg_make,72,False,False,,Hernangomez 1' Putback Layup (8 PTS),45-49,45,49
 0021900752,2020-02-04,HOU,CHA,18.85,2,5,9,HOU,HOU,fg_miss,41,True,False,MISS Gordon 8' Running Layup,,45-49,45,49
-0021900752,2020-02-04,HOU,CHA,18.85,2,5,9,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,45-49,45,49
 0021900752,2020-02-04,HOU,CHA,18.85,2,5,9,HOU,CHA,block,41,True,False,block,block,45-49,45,49
+0021900752,2020-02-04,HOU,CHA,18.85,2,5,9,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,45-49,45,49
 0021900752,2020-02-04,HOU,CHA,19.03,2,4,58,HOU,HOU,fg3_make,1,False,False,House Jr. 26' 3PT Jump Shot (12 PTS) (Tucker 1 AST),,48-49,48,49
 0021900752,2020-02-04,HOU,CHA,19.33,2,4,40,CHA,CHA,tov,1,False,True,,Monk Bad Pass Turnover (P1.T6),48-49,48,49
 0021900752,2020-02-04,HOU,CHA,19.33,2,4,40,CHA,HOU,steal,1,False,True,steal,steal,48-49,48,49
@@ -382,10 +382,10 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900752,2020-02-04,HOU,CHA,42.53,4,5,28,CHA,HOU,block,5,True,False,block,block,111-103,111,103
 0021900752,2020-02-04,HOU,CHA,42.55,4,5,27,HOU,HOU,reb,0,False,False,Tucker REBOUND (Off:0 Def:10),,111-103,111,103
 0021900752,2020-02-04,HOU,CHA,42.7,4,5,18,HOU,HOU,fg_make,52,False,False,House Jr. 2' Alley Oop Dunk (22 PTS) (Harden 12 AST),,113-103,113,103
-0021900752,2020-02-04,HOU,CHA,42.78,4,5,13,CHA,CHA,fg_make,5,False,False,,Monk 2' Layup (18 PTS) (Graham 9 AST),113-105,113,105
-0021900752,2020-02-04,HOU,CHA,42.78,4,5,13,CHA,HOU,violation,2,False,False,Tucker Violation:Defensive Goaltending (S.Corbin),,113-105,113,105
 0021900752,2020-02-04,HOU,CHA,42.78,4,5,13,CHA,HOU,foul,2,False,False,Tucker S.FOUL (P4.T3) (S.Corbin),,113-105,113,105
 0021900752,2020-02-04,HOU,CHA,42.78,4,5,13,HOU,HOU,timeout,1,False,False,ROCKETS Timeout: Regular (Full 4 Short 0),,113-105,113,105
+0021900752,2020-02-04,HOU,CHA,42.78,4,5,13,CHA,CHA,fg_make,5,False,False,,Monk 2' Layup (18 PTS) (Graham 9 AST),113-105,113,105
+0021900752,2020-02-04,HOU,CHA,42.78,4,5,13,CHA,HOU,violation,2,False,False,Tucker Violation:Defensive Goaltending (S.Corbin),,113-105,113,105
 0021900752,2020-02-04,HOU,CHA,42.78,4,5,13,HOU,CHA,ft_make,10,False,False,,Monk Free Throw 1 of 1 (19 PTS),113-106,113,106
 0021900752,2020-02-04,HOU,CHA,43.05,4,4,57,HOU,HOU,fg3_miss,1,False,False,MISS House Jr. 24' 3PT Jump Shot,,113-106,113,106
 0021900752,2020-02-04,HOU,CHA,43.05,4,4,57,HOU,HOU,reb,0,False,False,ROCKETS Rebound,,113-106,113,106

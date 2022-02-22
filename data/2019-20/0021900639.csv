@@ -173,8 +173,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900639,2020-01-20,WAS,DET,19.48,2,4,31,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:2 Def:4),51-52,51,52
 0021900639,2020-01-20,WAS,DET,19.73,2,4,16,DET,WAS,foul,2,False,False,Bertans S.FOUL (P2.T3) (B.Taylor),,51-52,51,52
 0021900639,2020-01-20,WAS,DET,19.73,2,4,16,DET,DET,ft_make,11,False,False,,Doumbouya Free Throw 1 of 2 (3 PTS),51-53,51,53
-0021900639,2020-01-20,WAS,DET,19.73,2,4,16,DET,WAS,violation,1,False,False,WIZARDS Violation: Delay of game Violation,,51-53,51,53
 0021900639,2020-01-20,WAS,DET,19.73,2,4,16,DET,DET,ft_make,12,False,False,,Doumbouya Free Throw 2 of 2 (4 PTS),51-54,51,54
+0021900639,2020-01-20,WAS,DET,19.73,2,4,16,DET,WAS,violation,1,False,False,WIZARDS Violation: Delay of game Violation,,51-53,51,53
 0021900639,2020-01-20,WAS,DET,20.02,2,3,59,WAS,WAS,tov,1,False,True,Beal Bad Pass Turnover (P1.T7),,51-54,51,54
 0021900639,2020-01-20,WAS,DET,20.02,2,3,59,WAS,DET,steal,1,False,True,steal,steal,51-54,51,54
 0021900639,2020-01-20,WAS,DET,20.08,2,3,55,DET,DET,fg_miss,6,False,False,,MISS Rose 4' Driving Layup,51-54,51,54
@@ -299,9 +299,9 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900639,2020-01-20,WAS,DET,34.32,3,1,41,DET,DET,ft_make,12,False,False,,Morris Free Throw 2 of 2 (10 PTS),83-80,83,80
 0021900639,2020-01-20,WAS,DET,34.58,3,1,25,WAS,WAS,fg_miss,1,True,False,MISS Williams 15' Jump Shot,,83-80,83,80
 0021900639,2020-01-20,WAS,DET,34.58,3,1,25,WAS,DET,block,1,True,False,block,block,83-80,83,80
+0021900639,2020-01-20,WAS,DET,34.6,3,1,24,,WAS,jump_ball,1,False,False,Jump Ball (CC) Williams vs. Drummond: Tip to Morris,,83-80,83,80
 0021900639,2020-01-20,WAS,DET,34.6,3,1,24,DET,DET,reb,0,False,False,,Pistons Rebound,83-80,83,80
 0021900639,2020-01-20,WAS,DET,34.6,3,1,24,DET,DET,timeout,7,False,False,,Pistons Timeout: Coach Challenge (Reg.3 Short 0),83-80,83,80
-0021900639,2020-01-20,WAS,DET,34.6,3,1,24,,WAS,jump_ball,1,False,False,Jump Ball (CC) Williams vs. Drummond: Tip to Morris,,83-80,83,80
 0021900639,2020-01-20,WAS,DET,34.87,3,1,8,DET,DET,fg_miss,6,False,False,,MISS Mykhailiuk 9' Driving Layup,83-80,83,80
 0021900639,2020-01-20,WAS,DET,34.92,3,1,5,WAS,WAS,reb,0,False,False,Smith REBOUND (Off:0 Def:3),,83-80,83,80
 0021900639,2020-01-20,WAS,DET,34.98,3,1,1,WAS,WAS,fg3_miss,1,False,False,MISS McRae 26' 3PT Jump Shot,,83-80,83,80
@@ -383,8 +383,8 @@ game_id,date,home,vis,time,period,mins,secs,pos,team,event,event_deets,block,ste
 0021900639,2020-01-20,WAS,DET,43.07,4,4,56,WAS,DET,block,5,True,False,block,block,97-90,97,90
 0021900639,2020-01-20,WAS,DET,43.12,4,4,53,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:6 Def:8),97-90,97,90
 0021900639,2020-01-20,WAS,DET,43.15,4,4,51,DET,DET,fg_miss,6,True,False,,MISS Rose 7' Driving Layup,97-90,97,90
-0021900639,2020-01-20,WAS,DET,43.15,4,4,51,DET,DET,reb,0,False,False,,Pistons Rebound,97-90,97,90
 0021900639,2020-01-20,WAS,DET,43.15,4,4,51,DET,WAS,block,6,True,False,block,block,97-90,97,90
+0021900639,2020-01-20,WAS,DET,43.15,4,4,51,DET,DET,reb,0,False,False,,Pistons Rebound,97-90,97,90
 0021900639,2020-01-20,WAS,DET,43.37,4,4,38,DET,DET,tov,15,False,False,,Drummond Offensive Goaltending Turnover (P8.T16),97-90,97,90
 0021900639,2020-01-20,WAS,DET,43.7,4,4,18,WAS,WAS,fg_miss,78,False,False,MISS Beal 11' Floating Jump Shot,,97-90,97,90
 0021900639,2020-01-20,WAS,DET,43.73,4,4,16,DET,DET,reb,0,False,False,,Drummond REBOUND (Off:6 Def:9),97-90,97,90
