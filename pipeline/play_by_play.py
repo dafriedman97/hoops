@@ -3,8 +3,10 @@ import sys
 from pathlib import Path
 import pandas as pd
 import ipdb
+import argparse
 from nba_api.stats.endpoints import playbyplayv2
 from nba_api.stats.endpoints import leaguegamefinder
+from nba_api.stats.library.parameters import SeasonNullable
 hoops_dir = Path(os.path.abspath(__file__)).parent.parent
 data_dir = hoops_dir / "data"
 sys.path.append(hoops_dir.as_posix())
@@ -131,25 +133,33 @@ def get_game_pbp(game_id, date, home, vis):
     return pbp
 
 if __name__ == "__main__":
-    season = sys.argv[1]
-    if len(sys.argv) == 3 and sys.argv[2] == "overwrite":
-        overwrite=True
-    else:
-        overwrite=False
-    os.makedirs(data_dir / season, exist_ok=True)
-    completed_games = os.listdir(data_dir / season)
+
+    ## Get Args
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-s", "--season", type=str, default=None)
+    parser.add_argument("-o", "--overwrite", action='store_true')
+    args = parser.parse_args()
+    season = args.season if args.season else SeasonNullable.current_season
+    overwrite = args.overwrite
+
+    ## Get games
+    pbp_dir = data_dir / "play_by_play" / season
+    os.makedirs(pbp_dir , exist_ok=True)
+    completed_games = os.listdir(pbp_dir)
     games = leaguegamefinder.LeagueGameFinder(season_nullable=season, season_type_nullable="Regular Season", league_id_nullable='00')
     games = games.get_data_frames()[0][['GAME_ID', 'GAME_DATE', 'MATCHUP']]
     games = games.loc[games['MATCHUP'].str.contains(" @ ")]
     games[['vis', 'home']] = games['MATCHUP'].str.split(" @ ", expand=True)
     games = games[['GAME_ID', 'GAME_DATE', 'home', 'vis']].rename(columns={'GAME_ID':'game_id', 'GAME_DATE':'date'}).sort_values("game_id").reset_index(drop=True)
+
+    ## Get pbp
     for _, game in games.iterrows():
         filename = game['game_id'] + ".csv"
         if filename in completed_games and not overwrite:
             continue
         try:
             pbp = get_game_pbp(game['game_id'], game['date'], game['home'], game['vis'])
-            pbp.to_csv(data_dir / season / filename, index=False)
+            pbp.to_csv(pbp_dir / filename, index=False)
         except:
             print(game['game_id'], game['home'], game['vis'])
             break

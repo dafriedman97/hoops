@@ -17,11 +17,11 @@ def convert_play_by_play_to_score_by_score(pbp):
 def get_sbs(seasons): # get combined score by score
     sbs = list()
     for season in seasons:
-        pbp_file_names = list(filter(lambda x: x.endswith(".csv"), os.listdir(data_dir / season)))
+        pbp_file_names = list(filter(lambda x: x.endswith(".csv"), os.listdir(data_dir / "play_by_play" / season)))
         for pbp_file_name in pbp_file_names:
             if not pbp_file_name.endswith(".csv"):
                 continue
-            pbp = pd.read_csv(data_dir / season / pbp_file_name)
+            pbp = pd.read_csv(data_dir / "play_by_play" / season / pbp_file_name)
             sbs.append(convert_play_by_play_to_score_by_score(pbp))
     sbs = pd.concat(sbs)
     return sbs

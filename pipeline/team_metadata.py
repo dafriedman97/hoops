@@ -12,7 +12,7 @@ data_dir = hoops_dir / "data"
 sys.path.append(hoops_dir.as_posix())
 
 def get_game_by_game(season):
-    pbps = [pd.read_csv(data_dir / season / file) for file in os.listdir(data_dir / season) if file.endswith(".csv")]
+    pbps = [pd.read_csv(data_dir / "play_by_play" / season / file) for file in os.listdir(data_dir / "play_by_play" / season) if file.endswith(".csv")]
     game_results = pd.DataFrame(columns=['game_id', 'date', 'home', 'vis', 'home_score', 'vis_score'])
     for pbp in pbps:
         game_results.loc[len(game_results)] = pbp.iloc[-1][['game_id', 'date', 'home', 'vis', 'home_score', 'vis_score']]
