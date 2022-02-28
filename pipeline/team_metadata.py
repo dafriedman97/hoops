@@ -18,7 +18,7 @@ def get_game_by_game(season):
         game_results.loc[len(game_results)] = pbp.iloc[-1][['game_id', 'date', 'home', 'vis', 'home_score', 'vis_score']]
     game_results['home_win'] = game_results['home_score'] > game_results['vis_score']
     game_results.sort_values(["date", 'game_id'], inplace=True)
-    game_results.reset_index(drop=True, inplace=True)    
+    game_results.reset_index(drop=True, inplace=True)
     return game_results
 
 def get_records_by_date(seasons):

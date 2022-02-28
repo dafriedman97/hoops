@@ -18,12 +18,19 @@ sys.path.append(hoops_dir.as_posix())
 def track_lines(url, sleep=30, max_iter=1000):
     all_lines = pd.DataFrame(columns=['home', 'vis', 'home_score', 'vis_score', 'quarter', 'time', 'home_mline', 'vis_mline'])
     start_time = datetime.now().strftime("%m-%d-%Y_%H:%M:%S")
-    
+    print(start_time)
+
     for i in range(max_iter):
         ## Parse the page
-        page = requests.get(url)
-        soup = BeautifulSoup(page.content, "html.parser")
-        
+        try:
+            page = requests.get(url)
+            soup = BeautifulSoup(page.content, "html.parser")
+        except:
+            print("timed out")
+            time.sleep(300)
+            page = requests.get(url)
+            soup = BeautifulSoup(page.content, "html.parser")            
+        import ipdb; ipdb.set_trace()
         ## Get all Lines
         lines = soup.find_all("tbody", class_="sportsbook-table__body")[0].find_all("tr")
 
@@ -33,14 +40,15 @@ def track_lines(url, sleep=30, max_iter=1000):
         ## Get the time
         clocks = [line.find("div", class_='event-cell__clock') for line in lines[::2]]
         times = [clock.find_all("span")[0].string if clock else None for clock in clocks]
-        quarters = [int(clock.find_all("span")[1].string[0]) if clock else None for clock in clocks] # TODO: OT?
+        quarters = [clock.find_all("span")[1].string[0] if clock else None for clock in clocks]
 
         ## Get the scores
         scores = [line.find("span", class_="event-cell__score") for line in lines]
-        scores = [int(score.text) if score else None for score in scores]
+        scores = [score.text if score else None for score in scores]
 
         ## Get the lines
-        mlines = [int(line.find("span", class_="sportsbook-odds american no-margin default-color").text.replace("+", "")) for line in lines]        
+        mlines = [line.find("span", class_="sportsbook-odds american no-margin default-color") for line in lines]        
+        mlines = [line.text.replace("+", "") if line else None for line in mlines]
 
         ## Update lines
         iter_lines = pd.DataFrame(columns=['home', 'vis', 'home_score', 'vis_score', 'quarter', 'time', 'home_mline', 'vis_mline'])
@@ -54,24 +62,33 @@ def track_lines(url, sleep=30, max_iter=1000):
         iter_lines['vis_mline'] = mlines[::2]        
         all_lines = pd.concat([all_lines, iter_lines]).drop_duplicates()
         all_lines.to_csv(lines_dir / (start_time + ".csv"), index=False)
+        print(datetime.now().strftime("%H:%M:%S"))
         
+        ## Break
+        if all([time is None for time in times]): # no active games
+            hour = datetime.now().hour
+            if hour > 22 or hour < 10: # probably after games 
+                print("games are done?")
+                break
+
+            
         ## Sleep
         time.sleep(sleep)
         
-        ## Break
-        if len(lines) == 0:
-            break
     
     ## Return
     return all_lines
 
 if __name__ == "__main__":
+
+    ## Get args
     parser = argparse.ArgumentParser()
     parser.add_argument("-s", "--sleep", type=int, default=30)
     parser.add_argument("-i", "--max_iter", type=int, default=1000)
     args = parser.parse_args()
 
-    url = "https://sportsbook.draftkings.com/leagues/basketball/88670846" # TODO: does that URL change with the date?
+    ## Run it
+    url = "https://sportsbook.draftkings.com/leagues/basketball/88670846"
     sleep = args.sleep
     max_iter = args.max_iter
-    track_lines(url, sleep=sleep, max_iter=max_iter)
+    lines = track_lines(url, sleep=sleep, max_iter=max_iter)
