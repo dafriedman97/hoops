@@ -77,7 +77,7 @@ def get_game_pbp(game_id, date, home, vis):
                 if event == "reb":
                     pos = team
                 elif event in ["foul", "violation"]:
-                    pos = get_other(team)
+                    pos = get_other(team) # TODO: this should depend on the type of foul
                 else:
                     raise Exception("Unknown event")
             elif event in other:

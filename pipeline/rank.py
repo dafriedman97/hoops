@@ -16,21 +16,26 @@ from pipeline import team_metadata
 def sigmoid(x, a=0, b=1):
     return 1/(1+np.exp(-(a + b*x)))
 
-def get_rankings(season=None, n_iters=2, sigmoid_a=0.28, sigmoid_b=1, games=None):
+def get_rankings(season=None, n_iters=2, mu0=0, sigma0=1, sigmoid_a=0.28, sigmoid_b=1, shrinkage=1, games=None):
     ## Get games (if not provided)
     if games is None: 
         games = team_metadata.get_game_by_game(season)
 
     ## Get ranking
-    ranking_distns = defaultdict(lambda: {'mu':0, 'sigma':1}) # team ranking distributions
+    ranking_distns = defaultdict(lambda: {'mu':mu0, 'sigma':sigma0}) # team ranking distributions
+    games_by_team = defaultdict(lambda: 0)
     for i in range(n_iters):
         for _, game in games.iterrows():
             home, vis, home_win = game[['home', 'vis', 'home_win']]
+            games_by_team[home] += 1
+            games_by_team[vis] += 1
 
             # Get prior dist'ns
             w = .01
-            qh = np.arange(-5, 5, w)
-            qv = np.arange(-5, 5, w)
+            h_shrinkage_factor = 1-np.exp(-games_by_team[home]/shrinkage)
+            v_shrinkage_factor = 1-np.exp(-games_by_team[home]/shrinkage)
+            qh = np.arange(-5, 5, w)*h_shrinkage_factor
+            qv = np.arange(-5, 5, w)*v_shrinkage_factor
             h_prior = norm.pdf(qh, loc=ranking_distns[home]['mu'], scale=ranking_distns[home]['sigma'])
             v_prior = norm.pdf(qv, loc=ranking_distns[vis]['mu'], scale=ranking_distns[vis]['sigma'])
 
@@ -49,3 +54,35 @@ def get_rankings(season=None, n_iters=2, sigmoid_a=0.28, sigmoid_b=1, games=None
             ranking_distns[vis] = {'mu': w*(qv*v_post).sum(), 'sigma': np.sqrt(w*np.sum((qv**2)*v_post) - (w*np.sum(qv*v_post))**2)}
     return dict(sorted({k:v['mu'] for k, v in ranking_distns.items()}.items(), key=lambda x: x[1]))
 
+def get_rankings_by_date(season=None, n_iters=2, mu0=0, sigma0=1, sigmoid_a=0.28, sigmoid_b=1, shrinkage=1, games=None):
+    ## Get games (if not provided)
+    if games is None: 
+        games = team_metadata.get_game_by_game(season)
+        games = games.iloc[:300]
+    
+    ## Loop through dates
+    date_rankings = list()
+    for date in sorted(games['date'].unique())[1:]:
+        print(date)
+        try:
+            previous_games = games.loc[games['date'] < date]
+            rankings = get_rankings(games=previous_games, n_iters=n_iters, mu0=mu0, sigma0=sigma0, sigmoid_a=sigmoid_a, sigmoid_b=sigmoid_b, shrinkage=shrinkage)
+            rankings = pd.Series(rankings).reset_index().rename(columns={'index':'team', 0:'ranking'})
+            rankings['date'] = date
+            date_rankings.append(rankings)
+        except KeyboardInterrupt:
+            break
+        except:
+            pass
+    rankings_by_date = pd.concat(date_rankings.reset_index(drop=True))
+    
+    ## Write out and return
+    return rankings_by_date
+    
+if __name__ == "__main__":
+    season = sys.argv[1]
+    # TODO: add command line argument for n_iters, mu0/sigma0, sigmoids
+    rbd = get_rankings_by_date(season)
+    rankings_dir = data_dir / "rankings"
+    os.makedirs(rankings_dir , exist_ok=True)
+    rbd.to_csv(rankings_dir / (season + ".csv"), index=False)
