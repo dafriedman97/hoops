@@ -26,18 +26,30 @@ def track_lines(url, sleep=30, max_iter=1000):
             page = requests.get(url)
             soup = BeautifulSoup(page.content, "html.parser")
 
+            # ## Get today's lines
+            # lines_by_day = soup.find_all("div", class_="parlay-card-10-a")
+            # if len(lines_by_day[0].find_all("span", text="Today")) > 0: # we have lines left for today
+            #     todays_lines = lines_by_day[0]
+            # else: # no more lines for today (or potentially it's past midnight and the lines are listed as yesterday's) 
+            #     hour = datetime.now().hour
+            #     if hour < 3 and len(lines_by_day) > 1: # past midnight and we have two sections of lines
+            #         # TODO: should replace <len(lines_by_day)> with some search for a tag that the first section is a date (representing the day that just finished)
+            #         todays_lines = lines_by_day[0]
+            #     else:
+            #         print("no more lines")
+            #         break
+            
             ## Get today's lines
-            lines_by_day = soup.find_all("div", class_="parlay-card-10-a")
-            if len(lines_by_day[0].find_all("span", text="Today")) == 1: # we have lines left for today
-                todays_lines = lines_by_day[0]
-            else: # no more lines for today (or potentially it's past midnight and the lines are listed as yesterday's) 
+            first_lines = soup.find_all("div", class_="parlay-card-10-a")[0]
+            if len(first_lines.find_all("span", text="Today")) > 0:
+                todays_lines = first_lines
+            else:
                 hour = datetime.now().hour
-                if hour < 3 and len(lines_by_day) > 1: # past midnight and we have two sections of lines
-                    # TODO: should replace <len(lines_by_day)> with some search for a tag that the first section is a date (representing the day that just finished)
-                    todays_lines = lines_by_day[0]
-                else:
+                if hour < 8: # before 8am
                     print("no more lines")
                     break
+                else:
+                    continue                
 
             ## Get all Lines
             lines = todays_lines.find_all("tbody", class_="sportsbook-table__body")[0].find_all("tr")
@@ -70,7 +82,7 @@ def track_lines(url, sleep=30, max_iter=1000):
             iter_lines['vis_mline'] = mlines[::2]        
             all_lines = pd.concat([all_lines, iter_lines]).drop_duplicates()
             all_lines.to_csv(lines_dir / (start_time + ".csv"), index=False)
-            print(datetime.now().strftime("%H:%M:%S"))
+            print(datetime.now().strftime("%H:%M:%S"), end=" | ")
         except:
             pass
             

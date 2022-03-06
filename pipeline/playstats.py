@@ -131,7 +131,7 @@ def get_playstats_by_date(season=None, season_playstats=None):
         season_playstats = get_season_playstats(season)
         
     ## Get next date for each game
-    season_playstats = get_season_playstats("2021-22")
+    season_playstats = get_season_playstats(season)
     season_playstats.sort_values(["team", "date"], inplace=True)
     season_playstats.reset_index(drop=True, inplace=True)
     season_playstats['next_date'] = season_playstats['date'].shift(-1)
@@ -147,3 +147,10 @@ def get_playstats_by_date(season=None, season_playstats=None):
     return playstats_by_date
     
     
+if __name__ == "__main__":
+    season = sys.argv[1]
+    # TODO: add command line arguments
+    pbd = get_playstats_by_date(season)
+    playstats_dir = data_dir / "playstats"
+    os.makedirs(playstats_dir , exist_ok=True)
+    pbd.to_csv(playstats_dir / (season + ".csv"), index=False)

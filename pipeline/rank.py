@@ -16,7 +16,7 @@ from pipeline import team_metadata
 def sigmoid(x, a=0, b=1):
     return 1/(1+np.exp(-(a + b*x)))
 
-def get_rankings(season=None, n_iters=2, mu0=0, sigma0=1, sigmoid_a=0.28, sigmoid_b=1, shrinkage=1, games=None):
+def get_rankings(season=None, n_iters=2, mu0=0, sigma0=1, sigmoid_a=0.28, sigmoid_b=1, shrinkage=1.5, games=None):
     ## Get games (if not provided)
     if games is None: 
         games = team_metadata.get_game_by_game(season)
@@ -54,11 +54,10 @@ def get_rankings(season=None, n_iters=2, mu0=0, sigma0=1, sigmoid_a=0.28, sigmoi
             ranking_distns[vis] = {'mu': w*(qv*v_post).sum(), 'sigma': np.sqrt(w*np.sum((qv**2)*v_post) - (w*np.sum(qv*v_post))**2)}
     return dict(sorted({k:v['mu'] for k, v in ranking_distns.items()}.items(), key=lambda x: x[1]))
 
-def get_rankings_by_date(season=None, n_iters=2, mu0=0, sigma0=1, sigmoid_a=0.28, sigmoid_b=1, shrinkage=1, games=None):
+def get_rankings_by_date(season=None, n_iters=2, mu0=0, sigma0=1, sigmoid_a=0.28, sigmoid_b=1, shrinkage=1.5, games=None):
     ## Get games (if not provided)
     if games is None: 
         games = team_metadata.get_game_by_game(season)
-        games = games.iloc[:300]
     
     ## Loop through dates
     date_rankings = list()
@@ -74,7 +73,7 @@ def get_rankings_by_date(season=None, n_iters=2, mu0=0, sigma0=1, sigmoid_a=0.28
             break
         except:
             pass
-    rankings_by_date = pd.concat(date_rankings.reset_index(drop=True))
+    rankings_by_date = pd.concat(date_rankings).reset_index(drop=True)
     
     ## Write out and return
     return rankings_by_date
