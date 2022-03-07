@@ -58,10 +58,19 @@ def get_rankings_by_date(season=None, n_iters=2, mu0=0, sigma0=1, sigmoid_a=0.28
     ## Get games (if not provided)
     if games is None: 
         games = team_metadata.get_game_by_game(season)
-    
+    dates = sorted(games['date'].unique())[1:]
+
+    ## Get existing rankings (if any)
+    previous_rankings = False
+    if season is not None:
+        if os.path.exists(data_dir / "rankings" / (season + ".csv")):
+            rankings_by_date = pd.read_csv(data_dir / "rankings" / (season + ".csv"))
+            dates = [date for date in dates if date > rankings_by_date.date.max()]
+            previous_rankings = True
+
     ## Loop through dates
     date_rankings = list()
-    for date in sorted(games['date'].unique())[1:]:
+    for date in dates:
         print(date)
         try:
             previous_games = games.loc[games['date'] < date]
@@ -73,7 +82,10 @@ def get_rankings_by_date(season=None, n_iters=2, mu0=0, sigma0=1, sigmoid_a=0.28
             break
         except:
             pass
-    rankings_by_date = pd.concat(date_rankings).reset_index(drop=True)
+    if previous_rankings:
+        rankings_by_date = pd.concat([rankings_by_date] + date_rankings).reset_index(drop=True)
+    else:
+        rankings_by_date = pd.concat(date_rankings).reset_index(drop=True)
     
     ## Write out and return
     return rankings_by_date
