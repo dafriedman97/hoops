@@ -107,7 +107,7 @@ def get_game_playstats(pbp, home, vis):
         'vis_def_eff': vis_def_eff
     })
 
-def get_season_playstats(season):
+def get_season_playstats(season, last_calculated_date="0"):
     
     ## Get pbps
     pbp_dir = data_dir / "play_by_play" / season
@@ -115,6 +115,8 @@ def get_season_playstats(season):
     
     ## Playstats df
     game_by_game = team_metadata.get_game_by_game(season)
+    # game_by_game = game_by_game.loc[game_by_game['date'] <= "2022-03-01"]
+    game_by_game = game_by_game.loc[game_by_game['date'] > last_calculated_date]
     playstats = pd.DataFrame(columns=['team', 'gameid', 'date', 'home', 'pts', 'ppm', 'poss', 'tov_rate', 'reb_rate', 'oreb_rate', 'dreb_rate', 'efpg', 'tsp', 'off_eff', 'def_eff'])
     for _, game in game_by_game.iterrows():
         game_id, date, home, vis = game[['game_id', 'date', 'home', 'vis']]
@@ -126,28 +128,38 @@ def get_season_playstats(season):
 
 def get_playstats_by_date(season=None, season_playstats=None, write_out=True):
     playstats_dir = data_dir / "playstats"
-    os.makedirs(playstats_dir , exist_ok=True)
-    
-    ## Get season playstats
-    if season_playstats is None:
-        season_playstats = get_season_playstats(season)
+    os.makedirs(playstats_dir, exist_ok=True)
+    season_playstats_path = playstats_dir /  (season + ".csv")
+    season_playstats_bygame_path = playstats_dir /  (season + "_by_game.csv")
+
+    ## Check if playstats have already been created for this season
+    if os.path.exists(season_playstats_bygame_path): # if it already exists for this season
+        old_playstats_by_game = pd.read_csv(season_playstats_bygame_path) 
+        last_calculated_date = old_playstats_by_game.date.dropna().max() # last date we calculated playstats for 
+        season_playstats_by_game = get_season_playstats(season, last_calculated_date)
+        if len(season_playstats_by_game) == 0:
+            return old_playstats_by_game
+        season_playstats_by_game = pd.concat([old_playstats_by_game, season_playstats_by_game])
+        season_playstats_by_game.to_csv(season_playstats_bygame_path, index=False)
+    else:
+        season_playstats_by_game = get_season_playstats(season)
+        season_playstats_by_game.to_csv(season_playstats_bygame_path, index=False)
         
     ## Get next date for each game
-    season_playstats = get_season_playstats(season)
-    season_playstats.sort_values(["team", "date"], inplace=True)
-    season_playstats.reset_index(drop=True, inplace=True)
-    season_playstats['next_date'] = season_playstats['date'].shift(-1)
-    season_playstats.loc[season_playstats['team'] != season_playstats['team'].shift(-1), 'next_date'] = None
+    season_playstats_by_game.sort_values(["team", "date"], inplace=True)
+    season_playstats_by_game.reset_index(drop=True, inplace=True)
+    season_playstats_by_game['next_date'] = season_playstats_by_game['date'].shift(-1)
+    season_playstats_by_game.loc[season_playstats_by_game['team'] != season_playstats_by_game['team'].shift(-1), 'next_date'] = None
     
     ## Get avgs going into each game
-    running_avgs = season_playstats.groupby("team").expanding().mean().reset_index().rename(columns={'level_1':'index'})
+    running_avgs = season_playstats_by_game.groupby("team").expanding().mean().reset_index().rename(columns={'level_1':'index'})
     running_avgs.set_index('index', inplace=True)
-    playstats_by_date = season_playstats[['next_date']].rename(columns={'next_date':'date'}).merge(running_avgs, left_index=True, right_index=True)
+    playstats_by_date = season_playstats_by_game[['next_date']].rename(columns={'next_date':'date'}).merge(running_avgs, left_index=True, right_index=True)
     playstats_by_date.sort_index(inplace=True)
 
     ## Return 
     if write_out:
-        playstats_by_date.to_csv(playstats_dir / (season + ".csv"), index=False)
+        playstats_by_date.to_csv(season_playstats_path, index=False)
     return playstats_by_date
     
     

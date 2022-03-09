@@ -54,8 +54,11 @@ def track_lines(url, sleep=30, max_iter=1000):
         scores = [score.text if score else None for score in scores]
 
         ## Get the lines
-        mlines = [line.find("span", class_="sportsbook-odds american no-margin default-color") for line in lines]        
-        mlines = [line.text.replace("+", "") if line else None for line in mlines]
+        mlines = [line.find_all("td", class_="sportsbook-table__column-row")[-1] for line in lines]
+        active_mlines = [mline.find("div", class_="sportsbook-outcome-cell__body no-label") for mline in mlines]
+        mlines = [mline.find("span", class_="sportsbook-odds american no-margin default-color") if mline else None for mline in active_mlines]
+        mlines = [line.text.replace("+", "") if line else None for line in mlines]        
+        lines_open = [mline is not None for mline in mlines[::2]]
 
         ## Update lines
         iter_lines = pd.DataFrame(columns=['home', 'vis', 'date', 'home_score', 'vis_score', 'quarter', 'time', 'home_mline', 'vis_mline'])
@@ -67,7 +70,8 @@ def track_lines(url, sleep=30, max_iter=1000):
         iter_lines['quarter'] = quarters
         iter_lines['time'] = times
         iter_lines['home_mline'] = mlines[1::2]
-        iter_lines['vis_mline'] = mlines[::2]        
+        iter_lines['vis_mline'] = mlines[::2]
+        iter_lines = iter_lines.loc[pd.Series(lines_open) == True]
         all_lines = pd.concat([all_lines, iter_lines]).drop_duplicates()
         all_lines.to_csv(lines_dir / (start_time + ".csv"), index=False)
         print(datetime.now().strftime("%H:%M:%S"), end=" | ")
