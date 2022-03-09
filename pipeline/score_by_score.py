@@ -14,7 +14,9 @@ def convert_play_by_play_to_score_by_score(pbp):
     sbs['home_win'] = sbs['home_score'].iloc[-1] > sbs['vis_score'].iloc[-1]
     return sbs
     
-def get_sbs(season):
+def get_sbs(season, write_out=True):
+    sbs_dir = data_dir / "score_by_score"
+    os.makedirs(sbs_dir , exist_ok=True)
     pbp_file_names = list(filter(lambda x: x.endswith(".csv"), os.listdir(data_dir / "play_by_play" / season)))
     sbss = list()
     for pbp_file_name in pbp_file_names:
@@ -23,12 +25,11 @@ def get_sbs(season):
         pbp = pd.read_csv(data_dir / "play_by_play" / season / pbp_file_name)
         sbss.append(convert_play_by_play_to_score_by_score(pbp))
     sbs = pd.concat(sbss).reset_index(drop=True)
+    if write_out:
+        sbs.to_csv(sbs_dir / (season + ".csv"), index=False)    
     return sbs
 
 if __name__ == "__main__":
     season = sys.argv[1]
     # TODO: add command line arguments
-    sbs = get_sbs(season)
-    sbs_dir = data_dir / "score_by_score"
-    os.makedirs(sbs_dir , exist_ok=True)
-    sbs.to_csv(sbs_dir / (season + ".csv"), index=False)
+    get_sbs(season)

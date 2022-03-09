@@ -124,7 +124,9 @@ def get_season_playstats(season):
         playstats.loc[len(playstats)] = [vis, game_id, date, False] + list(game_playstats.loc[game_playstats.index.str.startswith("vis")])
     return playstats
 
-def get_playstats_by_date(season=None, season_playstats=None):
+def get_playstats_by_date(season=None, season_playstats=None, write_out=True):
+    playstats_dir = data_dir / "playstats"
+    os.makedirs(playstats_dir , exist_ok=True)
     
     ## Get season playstats
     if season_playstats is None:
@@ -144,13 +146,12 @@ def get_playstats_by_date(season=None, season_playstats=None):
     playstats_by_date.sort_index(inplace=True)
 
     ## Return 
+    if write_out:
+        playstats_by_date.to_csv(playstats_dir / (season + ".csv"), index=False)
     return playstats_by_date
     
     
 if __name__ == "__main__":
     season = sys.argv[1]
     # TODO: add command line arguments
-    pbd = get_playstats_by_date(season)
-    playstats_dir = data_dir / "playstats"
-    os.makedirs(playstats_dir , exist_ok=True)
-    pbd.to_csv(playstats_dir / (season + ".csv"), index=False)
+    get_playstats_by_date(season)

@@ -132,16 +132,7 @@ def get_game_pbp(game_id, date, home, vis):
     ## Return
     return pbp
 
-if __name__ == "__main__":
-
-    ## Get Args
-    parser = argparse.ArgumentParser()
-    parser.add_argument("-s", "--season", type=str, default=None)
-    parser.add_argument("-o", "--overwrite", action='store_true')
-    args = parser.parse_args()
-    season = args.season if args.season else SeasonNullable.current_season
-    overwrite = args.overwrite
-
+def get_season_pbp(season, overwrite):
     ## Get games
     pbp_dir = data_dir / "play_by_play" / season
     os.makedirs(pbp_dir , exist_ok=True)
@@ -163,3 +154,17 @@ if __name__ == "__main__":
         except:
             print(game['game_id'], game['home'], game['vis'])
             break
+
+
+if __name__ == "__main__":
+
+    ## Get Args
+    parser = argparse.ArgumentParser()
+    parser.add_argument("-s", "--season", type=str, default=None)
+    parser.add_argument("-o", "--overwrite", action='store_true')
+    args = parser.parse_args()
+    season = args.season if args.season else SeasonNullable.current_season
+    overwrite = args.overwrite
+
+    ## Run season pbp
+    get_season_pbp(season, overwrite)

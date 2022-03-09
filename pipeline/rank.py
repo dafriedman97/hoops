@@ -54,7 +54,10 @@ def get_rankings(season=None, n_iters=2, mu0=0, sigma0=1, sigmoid_a=0.28, sigmoi
             ranking_distns[vis] = {'mu': w*(qv*v_post).sum(), 'sigma': np.sqrt(w*np.sum((qv**2)*v_post) - (w*np.sum(qv*v_post))**2)}
     return dict(sorted({k:v['mu'] for k, v in ranking_distns.items()}.items(), key=lambda x: x[1]))
 
-def get_rankings_by_date(season=None, n_iters=2, mu0=0, sigma0=1, sigmoid_a=0.28, sigmoid_b=1, shrinkage=1.5, games=None):
+def get_rankings_by_date(season=None, n_iters=2, mu0=0, sigma0=1, sigmoid_a=0.28, sigmoid_b=1, shrinkage=1.5, games=None, write_out=True):
+    rankings_dir = data_dir / "rankings"
+    os.makedirs(rankings_dir , exist_ok=True)
+
     ## Get games (if not provided)
     if games is None: 
         games = team_metadata.get_game_by_game(season)
@@ -71,7 +74,7 @@ def get_rankings_by_date(season=None, n_iters=2, mu0=0, sigma0=1, sigmoid_a=0.28
     ## Loop through dates
     date_rankings = list()
     for date in dates:
-        print(date)
+        # print(date)
         try:
             previous_games = games.loc[games['date'] < date]
             rankings = get_rankings(games=previous_games, n_iters=n_iters, mu0=mu0, sigma0=sigma0, sigmoid_a=sigmoid_a, sigmoid_b=sigmoid_b, shrinkage=shrinkage)
@@ -88,12 +91,11 @@ def get_rankings_by_date(season=None, n_iters=2, mu0=0, sigma0=1, sigmoid_a=0.28
         rankings_by_date = pd.concat(date_rankings).reset_index(drop=True)
     
     ## Write out and return
+    if write_out:
+        rankings_by_date.to_csv(rankings_dir / (season + ".csv"), index=False)
     return rankings_by_date
     
 if __name__ == "__main__":
     season = sys.argv[1]
     # TODO: add command line argument for n_iters, mu0/sigma0, sigmoids
-    rbd = get_rankings_by_date(season)
-    rankings_dir = data_dir / "rankings"
-    os.makedirs(rankings_dir , exist_ok=True)
-    rbd.to_csv(rankings_dir / (season + ".csv"), index=False)
+    get_rankings_by_date(season)
