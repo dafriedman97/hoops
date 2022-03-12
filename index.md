@@ -1,3 +1,3 @@
-## Welcome to GitHub Pages
+## NBA In Game Win Probabilities
 
 {% include figure.html %}
