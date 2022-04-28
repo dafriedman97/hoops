@@ -1,3 +1,3 @@
-## NBA In Game Win Probabilities
+## Example
 
 {% include figure.html %}
