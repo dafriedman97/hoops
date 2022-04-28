@@ -1,7 +1,8 @@
 ---
-layout: xyz
-title: xyz
+layout: news
+title: News
 permalink: /xyz/
 ---
 
-# XYZ
+# Testing
+testing
