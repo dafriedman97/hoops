@@ -15,28 +15,25 @@ data_dir = hoops_dir / "data"
 lines_dir = data_dir / "lines"
 sys.path.append(hoops_dir.as_posix())
 
-def track_lines(url, sleep=30, max_iter=1000):
+def track_lines(url, sleep=30, max_iter=660):
     all_lines = pd.DataFrame(columns=['home', 'vis', 'home_score', 'vis_score', 'quarter', 'time', 'home_mline', 'vis_mline'])
-    start_time = datetime.now().strftime("%m-%d-%Y_%H:%M:%S")
+    start_time = datetime.now().strftime("%Y-%m-%d_%H:%M:%S")
+    start_time_ = time.time()
     date = datetime.now().strftime("%Y-%m-%d")
     print(start_time)
 
-    for i in range(max_iter):
+    i = 0
+    while True:
         ## Parse the page
         page = requests.get(url)
         soup = BeautifulSoup(page.content, "html.parser")
-        
+
         ## Get today's lines
-        first_lines = soup.find_all("div", class_="parlay-card-10-a")[0]
-        if len(first_lines.find_all("span", text="Today")) > 0:
-            todays_lines = first_lines
+        day_lines = soup.find_all("div", class_="parlay-card-10-a")
+        if day_lines:
+            todays_lines = day_lines[0]
         else:
-            hour = datetime.now().hour
-            if hour < 8: # before 8am
-                print("no more lines")
-                break
-            else:
-                continue                
+            time.sleep(sleep)
 
         ## Get all lines
         lines = todays_lines.find_all("tbody", class_="sportsbook-table__body")[0].find_all("tr")
@@ -76,6 +73,14 @@ def track_lines(url, sleep=30, max_iter=1000):
         all_lines.to_csv(lines_dir / (start_time + ".csv"), index=False)
         print(datetime.now().strftime("%H:%M:%S"), end=" | ")
             
+        ## Check if we're done
+        if i == max_iter:
+            if any(lines_open): # we've reached max_iter but lines are still open
+                i -= 100
+            else:
+                print("finished")
+                break
+        i += 1
         ## Sleep
         time.sleep(sleep)
         
