@@ -1,3 +1,59 @@
-# theme: jekyll-theme-slate
-title: NBA In-Game Modeling
-remote_theme: samarsault/plainwhite-jekyll
+title: Israh Theme
+email: your@email.here
+greeting: Israh Theme
+description: > # this means to ignore newlines until another tag
+    Israh is a responsive Jekyll theme with warm greys, a single column layout, and not much else.
+favicon: favicon.png
+navlinks:
+    -
+        text: Home
+        url: /
+        internal: True
+    -
+        text: The Theme
+        url: /theme
+        internal: True
+    -
+        text: Github
+        url: https://www.github.com/ezrasavard
+        internal: False
+    -
+        text: LinkedIn
+        url: https://www.linkedin.com/in/ezrasavard
+        internal: False
+
+# Build settings
+paginate: 3
+baseurl: "/israh-jekyll-theme" # the subpath of your site, e.g. /blog/
+#baseurl: ""
+url: "https://ezrasavard.github.io" # the base hostname & protocol for your site
+highlights: pygments
+permalink: posts/:title/
+include: ["_pages"]
+plugins: [jekyll-paginate]
+markdown: kramdown
+excerpt_separator: "<!--more-->"
+sass:
+    sass_dir: _sass
+    style: compressed
+defaults:
+    -
+        scope:
+            path: ""
+        values:
+            layout: "default"
+    -
+        scope:
+            path: ""
+            type: "posts"
+        values:
+            author: "Ezra Savard"
+            layout: "post"
+    -
+        scope:
+            path: ""
+            type: "pages"
+        values:
+            author: "Ezra Savard"
+            layout: "page"
+
